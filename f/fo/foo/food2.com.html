@@ -1,0 +1,459 @@
+<!--The following is the downloaded HTML source of the food2.com privacy policy that was archived on 2009-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090317043439id_/http%3A//www.food2.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7"> <!-- Render as IE7.  Lesser of two evils. -->
+<title>Privacy Policy | Food2</title>
+
+<meta name="generator" content="WordPress 2.6.5"> <!-- leave this for stats -->
+
+<link rel="stylesheet" href="http://www.food2.com/wp-content/themes/food2-bp/style.css" type="text/css" media="screen">
+<link rel="apple-touch-icon" href="http://www.food2.com/wp-content/themes/food2-bp/images/f2-touch.png">
+	<link rel="shortcut icon" href="http://www.food2.com/wp-content/themes/food2-bp/images/favicon.ico">
+
+		<link rel="alternate" type="application/rss+xml" title="Food2 RSS Feed" href="http://www.food2.com/feed/">
+
+
+<link rel="pingback" href="http://www.food2.com/xmlrpc.php">
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.food2.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.food2.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.6.5">
+
+<script type="text/javascript">var ajaxurl = "http://www.food2.com/wp-content/mu-plugins/bp-core/bp-core-ajax-handler.php";</script>
+<link rel="stylesheet" href="http://www.food2.com/wp-content/mu-plugins/cimy-user-extra-fields/css/cimy_uef_register.css?ver=2.6.5" type="text/css" media="">
+
+<!-- all in one seo pack 1.4.7.1 [416,453] -->
+<meta name="description" content="Welcome to Food2.com. Food2.com (Website) is an interactive online service operated by Scripps Networks, LLC (us, we, or our). Please read the following">
+<!-- /all in one seo pack -->
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} else {
+				comment.className += " collapsed";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");;
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			//document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "block";
+			var content = document.getElementById("content-main");
+			if( !content )
+				content = document.getElementById("content");
+			if( content )
+			{
+				addComment.parentNode.removeChild(addComment);
+				content.appendChild(addComment);
+			}
+			addComment.className = addComment.className.replace(" alt", "");
+			// document.location.href = "#addcommentanchor";
+			//document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+
+<script type="text/javascript" charset="utf-8" src="http://w.sharethis.com/widget/?wp=2.6.5&amp;publisher=17350011-f10d-4024-9cc0-d3b99d75568e"></script><!-- fbc_header -->
+
+<link type="text/css" rel="stylesheet" href="http://www.food2.com/wp-content/plugins/wp-facebookconnect/fbconnect.css">
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
+<script src="http://www.food2.com/wp-content/plugins/wp-facebookconnect/fbconnect.js" type="text/javascript"></script>
+
+<!-- end fbc_header -->
+<!-- Start Of Script Generated By WP-PageNavi 2.31 -->
+<link rel="stylesheet" href="http://www.food2.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="screen">
+<!-- End Of Script Generated By WP-PageNavi 2.31 -->
+
+<!-- Start Of Script Generated By WP-Polls 2.40 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+	var polls_ajax_url = 'http://www.food2.com/wp-content/plugins/wp-polls/wp-polls.php';
+	var polls_text_wait = 'Your last request is still being processed. Please wait a while ...';
+	var polls_text_valid = 'Please choose a valid poll answer.';
+	var polls_text_multiple = 'Maximum number of choices allowed:';
+	var poll_show_loading = 1;
+	var poll_show_fading = 1;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.food2.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.food2.com/wp-content/plugins/wp-polls/polls-js-packed.js?ver=2.40"></script>
+<link rel="stylesheet" href="http://www.food2.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.40" type="text/css" media="all">
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('http://www.food2.com/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- End Of Script Generated By WP-Polls 2.40 -->
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://www.food2.com/wp-content/themes/food2-bp/css/ie/ie6.css" type="text/css" media="screen" />	
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://www.food2.com/wp-content/themes/food2-bp/css/ie/ie7.css" type="text/css" media="screen" />	
+<![endif]-->
+
+<script type="text/javascript" src="http://www.food2.com/wp-content/themes/food2-bp/js/sni-core.php"></script>
+<script type="text/javascript" src="http://common.scrippsnetworks.com/common/adimages/networkads/f2/prod/adRestriction.js"></script>
+<script type="text/javascript" src="http://www.food2.com/wp-content/themes/food2-bp/js/sni-food2.php"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+	var mdManager = new MetaDataManager();
+		mdManager.addParameter("Url",	"http://www.food2.com/privacy-policy/");
+		mdManager.addParameter("Title",	"Food2 - The Blog");
+		mdManager.addParameter("Keywords", "");
+		mdManager.addParameter("Site",	"F2");
+		mdManager.addParameter("SctnId",	"");
+		mdManager.addParameter("DetailId", 		"");
+		mdManager.addParameter("PageNumber", 		"");
+		mdManager.addParameter("AdKey1",			"");
+		mdManager.addParameter("AdKey2",			"");
+		mdManager.addParameter("Channel", 		"");
+		mdManager.addParameter("TalentName", 		"STATIC_PAGE");
+		mdManager.addParameter("Show_Abbr", 	"");
+		mdManager.addParameter("CategoryDspName", "STATIC_PAGE");
+		mdManager.addParameter("Classification", 	"STATIC_PAGE");
+		mdManager.addParameter("SctnDspName", 	"STATIC_PAGE");
+		mdManager.addParameter("Sponsorship", 	"");
+		mdManager.addParameter("Type",			"STATIC_PAGE");
+		mdManager.addParameter("UniqueId", 		"FOOD2-18");
+ </script>
+<script type="text/javascript">
+	mdManager.addParameter('UserId', userIdCookieUserId);
+	mdManager.addParameter('UserIdEmail', userIdEmail);
+	mdManager.addParameter('UserIdCreateDt', userIdCookieCreateDt);
+	mdManager.addParameter('UserIdVersion', userIdCookieVersion);
+</script>
+<script type="text/javascript">
+		var adManager = new AdManager();
+		initAdManager(adManager, mdManager);
+	</script>
+
+
+</head>
+
+<body id="blog">
+	<div id="f2-hd">
+		<div class="wrap">
+						<div id="leaderboard-wrap">
+				<div id="leaderboard">
+					<script type="text/javascript">LeaderboardAd(1);</script>
+				</div>
+			</div>
+			<div class="brand">
+				<a href="http://www.food2.com">
+					<img src="http://www.food2.com/wp-content/themes/food2-bp/images/food2-logo.png" alt="Food2">
+				</a>
+			</div>
+			<div class="member">
+				<div class="fbc_hide_on_login fbc_connect_button_area" id="fbc_login">
+<div class="dark">
+  <fb:login-button size="large" length="short">
+  </fb:login-button>
+</div>
+</div>
+				<!-- no logged in Facebook user -->			</div>
+		</div>
+		<div class="tier">
+			<div class="wrap">
+				<div class="search">
+							<form method="get" id="searchform" action="http://www.food2.com/">
+			<input type="text" value="" name="s" id="s">
+			<button type="submit" id="searchsubmit">Go »</button>
+		</form>
+		<script type="text/javascript">
+			SNI.Food2.Search.init();
+		</script>
+				</div>
+				<span class="tagline">
+											<a href="http://www.food2.com">The Blog</a>
+										
+				</span>
+			</div>
+			
+		</div>
+		
+	</div> <!-- /f2-hd -->		<div id="flex-lead">
+	<div class="flex-wrap">
+		<div id="pushdown_adtag"><script type="text/javascript">PushdownAd(1);</script>
+		</div>
+	</div>
+	</div>
+	<div id="f2-bd" class="t-page">
+		<div id="f2-w">
+						<h3 class="zone">Privacy Policy</h3>
+			<div class="post-loop">
+				<div class="post" id="post-18">
+					<div class="post-bd">
+						<p>Welcome to Food2.com. Food2.com (”Website”) is an interactive online service operated by Scripps Networks, LLC (”us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).</p>
+<p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website.  We have adopted this Privacy Policy (”Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties.  This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources (unless specifically stated).</p>
+<p>This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website.  Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
+<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice.  Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.  If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify users of this change by e-mail to the last e-mail address provided to us.  Users will have a choice (by means of an opt-out opportunity) as to whether or not we use their information in this different manner.  We will use information in accordance with the privacy policy under which the information was collected if you opt-out of the new policy.</p>
+<p>A. INFORMATION WE COLLECT<br>
+Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit our Website or that you provide us.</p>
+<p>(1) Personally Identifiable Information:</p>
+<p>Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a product rating and recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
+<p>(2) Non-Personal Information:</p>
+<p>Our definition of non-personal information is any information that does not personally identify you.  Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain non-personal information from you when you access our Website. </p>
+<p>B. HOW WE USE &amp; SHARE THE INFORMATION COLLECTED</p>
+<p>(1) Personally Identifiable Information:</p>
+<p>The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (”affiliated companies”), or to communicate with you about content or other information you have posted or shared with us via our Website.  You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.<br>
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.</p>
+<p>(2) Non-Personal Information:</p>
+<p>In addition to any personally identifiable information or other information that you choose to provide to us on the Website, we and our third-party service providers may use a variety of technologies that automatically collect certain web site usage information whenever you visit or interact with the Website. This information may include browser type, operating system, the page served, the time, and the preceding page view, among other information. In addition, your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to as a “Device Identifier”) may be collected. A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier.  We may associate your Device Identifier with the personal information you provide. The methods that may be used to collect this information include the following: </p>
+<p>Web Beacons.  Small graphic images or other web programming code called web beacons, (also known as “1×1 GIFs” or “clear GIFs,)” may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Website, to monitor how users navigate the Website, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.<br>
+Cookies.  A cookie is a data file placed on a computer when it is used to visit the Website. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Website. You may disable cookies using your browser’s preferences, but some features of the Website may not function properly or may operate slowly if you disable the cookies. If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive.  You may also delete a cookie manually from your hard drive through your internet browser or other programs.  Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.<br>
+Mobile Device Identifiers.  Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such device information if you access the Website through mobile devices.  Certain features of our Website may require collection of mobile phone numbers and we may associate that phone number to mobile device identification information. Additionally, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information. </p>
+<p>Embedded Scripts.  An embedded script is programming code that is designed to collect information about your interactions with the Website, such as which links you click on.  The code is temporarily downloaded onto your computer from our Web server or a third party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.<br>
+Information collected through passive means may be non-identifying or may be associated with you.  In the latter case it will be treated as personally identifiable information.<br>
+We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services.  We may use your non-personal information by itself or aggregate it with information we have obtained from others.  We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.  We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.</p>
+<p>C. OTHER USES</p>
+<p>(1) Email Communications:</p>
+<p>If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers or bank account information, to us by email.  Further, we may send you email under the following circumstances: (a) if you request a particular service or sign up for a feature that involves email communications; (b) if it relates to purchases you have made with us (e.g., product updates, customer support, etc.); (c) if we are sending you information about our other products and services; (d) if you consented to being contacted by email for a particular purpose; (e) if you send us an e-mail, post information on the Website (i.e., a blog) or otherwise submit information to us electronically, we may e-mail you to follow-up or otherwise communicate with you with respect thereto; (f) to provide you legal notices or notices with respect to your use of the Website; or (g) to otherwise facilitate a transaction between us.  In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
+<p>(2) Transfer of Assets:</p>
+<p>As we continue to develop our business, we may sell or purchase assets.  If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.</p>
+<p>(3) Other: </p>
+<p>Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.</p>
+<p>(4) Sweepstakes Contests and Promotions: </p>
+<p>We may offer sweepstakes, contests, and other promotions through the Website that may require registration.  By entering any promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion.  If you choose to enter a sweepstakes, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the promotion’s official rules, such as on a winners list.</p>
+<p>(5) Your California Privacy Rights:</p>
+<p>Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year.  In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at:<br>
+Scripps Networks, LLC<br>
+1180 Avenue of the Americas<br>
+New York, NY 10036<br>
+Attn: California Privacy Request<br>
+privacy@food2.com </p>
+<p>(6) Third Party Ad Server Networks:</p>
+<p>The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website.  Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited.  Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested.  The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and track certain behavioral information regarding users of your computer via a Device Identifier.  These third party cookies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you.  Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities.  Third party cookies and web beacons are governed by each third party’s specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Website, you may wish to visit http://www.networkadvertising.org/optout_nonppii.asp, which provides information regarding this practice by Network Advertising Initiative (”NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.</p>
+<p>D. PUBLIC FORUMS</p>
+<p>We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy.  We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+<p>E. CHILDREN </p>
+<p>The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at privacy@food2.com.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.</p>
+<p>F. KEEPING YOUR INFORMATION SECURE </p>
+<p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
+<p>G. OTHER SITES / LINKS</p>
+<p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
+<p>H. CONTACT &amp; OPT-OUT INFORMATION</p>
+<p>You may contact us as at privacy@food2.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. </p>
+<p>We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
+<p>I. SOLE STATEMENT</p>
+<p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.</p>
+<p>Effective:  February 13, 2009.  © 2009 Scripps Networks, LLC. All Rights Reserved. </p>
+<p><script type="text/javascript">SHARETHIS.addEntry({ title: "Privacy Policy", url: "http://www.food2.com/privacy-policy/" });</script></p>					</div>
+				</div>
+			</div>
+					
+		</div>
+	<div id="f2-e">
+	<div id="bigbox"><script type="text/javascript">BigboxAd(5);</script>
+	<span>Advertisement</span>
+</div>
+					
+		</div>
+</div> <!-- /f2-bd -->
+	<div id="f2-ft">
+		
+		<div class="internal">
+			<ul>
+				<li class="first"><a href="http://www.food2.com">Home</a></li>
+				<li><a href="http://www.food2.com/about-us/">About Us</a></li>
+				<li><a href="http://www.food2.com/questions/">Questions</a></li>
+				<li><a href="http://www.food2.com/advertising">Advertising</a></li>
+				<li><a href="http://www.food2.com/privacy-policy/">Privacy Policy</a></li>
+				<li><a href="http://www.food2.com/terms-of-use/">Terms of Use</a></li>
+				<li><a href="http://www.food2.com/infringements/">Infringements</a></li>
+				<li><a id="newsletter-link" href="http://www.food2.com/newsletters/subscribe/">Newsletters</a></li>
+			</ul>
+		</div>
+		
+		<div class="copyright">
+			<span>Copyright © 2009</span> <a href="http://scrippsnetworks.com">Scripps Networks, LLC</a>
+		</div>
+		<div class="family">
+			<span>Family Sites:</span>
+			<ul>
+				<li class="first"><a class="food" href="http://www.foodnetwork.com">Food Network</a></li>
+				<li><a class="food" href="http://www.recipezaar.com">Recipezaar</a></li>
+				<li><a href="http://www.hgtv.com">HGTV</a></li>
+				<li><a href="http://www.diynetwork.com">DIY</a></li>
+				<li><a href="http://www.healthyeats.com">Healthy Eats</a></li>
+				<li><a href="http://www.frontdoor.com">Frontdoor</a></li>
+				<li><a href="http://www.fineliving.com">Fine Living</a></li>
+				<li><a href="http://www.hgtvpro.com">HGTVPro</a></li>
+				<li><a href="http://www.gactv.com">Great American Country</a></li>
+			</ul>	
+		</div>
+		
+	</div> <!-- /f2-ft -->
+	 <!-- /wrap -->
+	
+	
+
+	<script type="text/javascript">
+		
+		SNI.Food2.Omniture.ClickTrackSpecific("#f2-hd .member", "Facebook Header Login", "event10");
+		SNI.Food2.Omniture.ClickTrackSpecific("#add-comment .facebook-login", "Facebook Comments Login", "event11");
+		SNI.Food2.Omniture.ClickTrackSpecific("#twitter-tools a", "Twitter Links", "event12");
+		SNI.Food2.Omniture.ClickTrackSpecificLinkText(".about-blog a", "Blogger Links", "prop1");
+		SNI.Food2.Omniture.ClickTrackSpecificLinkText("#f2-ft .family a", "Family Site Links", "prop26");
+	
+	</script>
+	<script type="text/javascript" src="http://food2.com/wp-content/themes/food2-bp/s_code_remote.js"></script>
+	<script type="text/javascript">s.t()</script> 
+	
+		<script type="text/javascript">
+FBConnect.init('94fce786c9b8509a55bef07af6b037fd', 'http://www.food2.com/wp-content/plugins/wp-facebookconnect/', '131097670500', 'http://www.food2.com', 0, FBConnect.appconfig_reload);
+
+</script>
+	<!-- Generated in 0.504 seconds -->
+	<!-- AIN'T THE INTERNET GRAND? -->
+	
+
+
+
+</body></html>
