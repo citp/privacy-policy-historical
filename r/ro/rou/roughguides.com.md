@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173305id_/http%3A//www.roughguides.com/website/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317091859id_/http%3A//www.roughguides.com/website/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # Rough Guides - PRIVACY POLICY
 
