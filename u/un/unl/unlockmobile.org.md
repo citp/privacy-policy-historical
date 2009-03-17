@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockmobile.org privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121051129id_/http%3A//www.unlockmobile.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockmobile.org privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318005105id_/http%3A//www.unlockmobile.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Unlockmobile.org - Privacy Policy
 
@@ -15,7 +15,9 @@ Like many other Web sites, www.unlockmobile.org makes use of log files. The info
 Cookies and Web Beacons  
 www.unlockmobile.org does not use cookies.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction and Ebay.
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+Our advertising partners include Google Adsense, Commission Junction and Ebay.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.unlockmobile.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
