@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adhysteria.com privacy policy that was archived on 2008-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224142545id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adhysteria.com privacy policy that was archived on 2009-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090317084129id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy</title>
@@ -16,693 +16,1391 @@
 
 
 
+
+
+
+
+
 <link href="../css/style_sheet.css" rel="stylesheet" type="text/css">
 
+
+
 <title>Free Social Video Classifieds , Photo classifieds with Video Auctions</title>
+
 <meta name="description" content="Adhysteria.com" is="" community-focused="" website="" offering="" video="" classifieds,="" auctions,="" photo="" classfieds="" ,events="" calendars,="" classified="" ad="" posting,="" and="" forums="" for="" visitors="" seeking="" information="" about="" specific="" interests.="">
+
 <meta name="keywords" content="video" classifieds,="" video="" auctions,="" photo="" ads="" for="" free,="" usa="" australia,uk="" classifieds,aus="" london="" classifieds="" ,america="" indian="" singapore="" ads,="" australia,="" asia="" ,="" europe="" advertising,="" autos="" &="" vehicles,="" business="" services,="" entertainment="" reviews,="" sale,="" health,="" fitness="" sports,="" hotels="" destinations,="" how="" to="" style,="" promote="" your="" website,="" real="" estate,="" restaurants="" food="">
+
 <meta name="abstract" content="Free" social="" video="" classifieds="" ,="" photo="" with="" auctions="">
+
 <meta name="revisit-after" content="2" days="">
+
 <meta name="robots" content="ALL," follow,="" index="">
 
+
+
 <script language="javascript">
+
 function getVars(){
+
 	this.fieldN = new Array();	// Field name
+
 	this.fieldV = new Array();	// Field value
+
 	this.fieldT = new Array();	// Field type (text, editor, checkbox, radio, select, mselect, date)
+
 	this.fieldI = new Array();	// Field Id
+
 	this.fieldC = new Array();	// Check for equal field
+
 	this.fieldEQ = new Array();	// Check for equal supplied string match
+
 	this.fieldNM = new Array();	// if 1 Check for field is Numeric
+
 	this.fieldGT = new Array();	// Check for Greater than supplied string	(works for field type text and date only)	
+
 	this.fieldLT = new Array();	// Check for Less than supplied string	(works for field type text and date only)
+
 	this.fieldGE = new Array();	// Check for Grter thn o equal to supplied str(works for field type text & date only)
+
 	this.fieldLE = new Array();   // Check for Less than o equal to supplied string(works for field type text & date only)
+
 	this.fieldBT = new Array();	// Check for between 2 values	(works for field type text only)
+
 }
+
+
 
 function checkEmpty(formN, objvar){
+
 	var err = "";
+
 	var frmObj = eval("document." + formN);
+
 	for(var i=0; i<objvar.fieldN.length; i++){
+
 	//alert("vrushali");
 
+
+
 		if(objvar.fieldT[i] == "date"){
+
 			var dateSplit = new Array();
+
 			dateSplit = objvar.fieldN[i].split(',');
+
 			if(!checkDate(formN, dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}else if(objvar.fieldEQ[i]){
+
 				if(!compareDate(formN, 'EQ', objvar.fieldEQ[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}else if(objvar.fieldGT[i]){
+
 				if(!compareDate(formN, 'GT', objvar.fieldGT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}else if(objvar.fieldGE[i]){
+
 				if(!compareDate(formN, 'GE', objvar.fieldGE[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}else if(objvar.fieldLT[i]){
+
 				if(!compareDate(formN, 'LT', objvar.fieldLT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}else if(objvar.fieldLE[i]){
+
 				if(!compareDate(formN, 'LE', objvar.fieldLE[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}else if(objvar.fieldBT[i]){
+
 				if(!compareDate(formN, 'BT', objvar.fieldBT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
+
 					err += objvar.fieldV[i] + " (Invalid match)\n";
+
 				}
+
 			}
+
 		}
+
 		if(objvar.fieldT[i] == "editor"){
+
 			var frmName = objvar.fieldN[i] + '___Frame';
+
 			editor_frame = document.getElementById(frmName);
+
 			editor_source = editor_frame.contentWindow.document.getElementById('eEditorArea');
+
 			var mContents = editor_source.contentWindow.document.body.innerHTML
+
 			re= /<\S[^>]*>/g; 
+
 			mContents = mContents.replace(re,""); 
+
 			if((mContents == "") || (mContents == " ")) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}
 
+
+
 		}
+
 		if(objvar.fieldT[i] == "text"){
+
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
+
 			if((frmElm.value == "") || (frmElm.value == " ")) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}else if(objvar.fieldNM[i] == 1){
+
 				var chkInt = frmElm.value;
+
 				if(isNaN(chkInt)){
+
 					err += objvar.fieldV[i] + " (Not a Number)\n";
+
 				}					
+
 			}else if(objvar.fieldC[i]){
+
 				var frmCElm = eval("frmObj." + objvar.fieldC[i]);
+
 				if(frmElm.value != frmCElm.value){
+
 					err += objvar.fieldV[i] + " mismatch\n";
+
 				}
+
 			}else if(objvar.fieldN[i].indexOf("email") >= 0){
+
 				if(!checkEmail(frmElm.value)) {
+
 					err += objvar.fieldV[i] + " (Invalid Email Id)\n";
+
 				}
+
 			}else if(objvar.fieldN[i].indexOf("url") >= 0){
+
 				if(!checkUrl(frmElm.value)) {
+
 					err += objvar.fieldV[i] + " (Invalid URL)\n";
+
 				}
+
 			}else if(objvar.fieldN[i].indexOf("website") >= 0){
+
 				if(!checkUrl(frmElm.value)) {
+
 					err += objvar.fieldV[i] + " (Invalid URL)\n";
+
 				}
+
 			}else if(objvar.fieldEQ[i]) {
+
 				if(frmElm.value != objvar.fieldEQ[i]) {
+
 					err += objvar.fieldV[i] + " (IInvalid entry)\n";
+
 				}
+
 			}else if(objvar.fieldGT[i]) {
+
 				if(frmElm.value <= objvar.fieldGT[i]) {
+
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
+
 				}
+
 			}else if(objvar.fieldLT[i]) {
+
 				if(frmElm.value >= objvar.fieldLT[i]) {
+
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
+
 				}
+
 			}else if(objvar.fieldGE[i]) {
+
 				if(frmElm.value < objvar.fieldGE[i]) {
+
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
+
 				}
+
 			}else if(objvar.fieldLE[i]) {
+
 				if(frmElm.value > objvar.fieldLE[i]) {
+
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
+
 				}
+
 			}else if(objvar.fieldBT[i]) {
+
 				var btSplit = new Array();
+
 				btSplit = objvar.fieldBT[i].split('|');
+
 				if(btSplit[0] > btSplit[1]) {
+
 					var tmpSplit = btSplit[0];
+
 					btSplit[0] = btSplit[1];
+
 					btSplit[1] = tmpSplit;
+
 				}
+
 				if((frmElm.value < btSplit[0]) || (frmElm.value > btSplit[1])) {
+
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
+
 				}
+
 			}
 
+
+
 		}
+
+
 
 		if(objvar.fieldT[i] == "checkbox"){
+
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
+
 			if(frmElm.checked === false) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}
+
 		}
+
 		if((objvar.fieldT[i] == "select")||(objvar.fieldT[i] == "mselect")){
+
 			//var frmElm = document.getElementById(objvar.fieldI[i]);
+
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
+
 			var selectedI = false;
+
 			for(var j=0; j< frmElm.length; j++) {
+
 				if(frmElm[j].selected == true) {
+
 					selectedI = true;
+
 					if(objvar.fieldT[i] == "select") {
+
 						if((frmElm.value == "") || (frmElm.value == 0) || (frmElm.value == "Select") || (frmElm.value == "Select Country") || (frmElm.value == "Select State")){
+
 							selectedI = false;
+
 						}
+
 					}
+
 				}
+
 			}
+
 			if(selectedI == false) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}
+
 		}
+
 		if(objvar.fieldT[i] == "radio"){
+
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
+
 			var checkedI = false;
+
 			for(var j=0; j< frmElm.length; j++) {
+
 				if(frmElm[j].checked == true) {
+
 					checkedI = true;
+
 				}
+
 			}
+
 			if(checkedI === false) {
+
 				err += objvar.fieldV[i] + "\n";
+
 			}
+
 		}		
+
 	}
+
 	if(err != "") {
+
 		var errShow = "Following fields are empty or not entered correctly: \n\n";
+
 		errShow += err;
+
 		alert(errShow);
+
 		return false;
+
 	}
+
 	return true;
+
 }
+
+
 
 function checkDate(frmname, dd,mm,yy){
+
 	frmobj = eval("document." + frmname);
+
 	var day = parseInt(eval("frmobj." + dd + ".value"), 10);
+
 	var month = parseInt(eval("frmobj." + mm + ".value"), 10);
+
 	var year = parseInt(eval("frmobj." + yy + ".value"), 10);
 
+
+
 	var checkLeep = year%4;
+
 	if((checkLeep > 0) && (month == 2) && (day > 28)) {
+
 		return false;
+
 	}
+
 	if((checkLeep == 0) && (month == 2) && (day > 29)) {
+
 		return false;
+
 	}
+
 	if((day > 30) && ( (month == 4) || (month == 6) || (month == 9) || (month == 11))) {
+
 		return false;
+
 	}
+
 	if(isNaN(day) || isNaN(month) || isNaN(year)) {
+
 		return false;
+
 	}
+
 	return true;
+
 }
+
+
 
 function compareDate(frmname, cmpType, cmpStr, dd,mm,yy){
 
+
+
 	if(cmpType == 'BT') {
+
 		var cmpSplit = new Array();
+
 		cmpSplit =  cmpStr.split('|');
+
 		cmpStr = cmpSplit[0];
+
 		cmpStrEnd = cmpSplit[1];
+
 		dateSplitEnd =  cmpStrEnd.split(',');
+
 		var eday = parseInt(dateSplitEnd[0], 10);
+
 		var emonth = parseInt(dateSplitEnd[1], 10);
+
 		var eyear = parseInt(dateSplitEnd[2], 10);
 
+
+
 		var empStr = eyear + "," + appendZero(emonth) + "," + appendZero(eday);
+
 		empStr = empStr.replace(/,/g, "");
 
 
+
+
+
 	}
+
 	var dateSplit = new Array();
+
 	dateSplit =  cmpStr.split(',');
+
 	var cday = parseInt(dateSplit[0], 10);
+
 	var cmonth = parseInt(dateSplit[1], 10);
+
 	var cyear = parseInt(dateSplit[2], 10);
+
 	frmobj = eval("document." + frmname);
+
 	var day = parseInt(frmobj.dd.value, 10);
+
 	var month = parseInt(frmobj.mm.value, 10);
+
 	var year = parseInt(frmobj.yy.value, 10);
 
+
+
 	var cmpStr = cyear + "," + appendZero(cmonth) + "," + appendZero(cday);
+
 	var curStr = year + "," + appendZero(month) + "," + appendZero(day);
 
+
+
 	cmpStr = cmpStr.replace(/,/g, "");
+
 	curStr = curStr.replace(/,/g, "");
 
+
+
 	if(cmpType == 'EQ') {
+
 		if(curStr != cmpStr) {
+
 			return false;
+
 		}
+
 	}
+
 	if(cmpType == 'GT') {
+
 		if(curStr <= cmpStr) {
+
 			return false;
+
 		}
+
 	}
+
 	if(cmpType == 'LT') {
+
 		if(curStr >= cmpStr) {
+
 			return false;
+
 		}
+
 	}
+
 	if(cmpType == 'GE') {
+
 		if(curStr < cmpStr) {
+
 			return false;
+
 		}
+
 	}
+
 	if(cmpType == 'LE') {
+
 		if(curStr > cmpStr) {
+
 			return false;
+
 		}
+
 	}
+
 	if(cmpType == 'BT') {
+
 		if(cmpStr > empStr) {
+
 			var tmpStr = cmpStr;
+
 			cmpStr = empStr;
+
 			empStr = tmpStr;
+
 		}
+
 		if((curStr < cmpStr) || (curStr > empStr)) {
+
 			return false;
+
 		}
+
 	}
+
 	return true;
+
 }
+
 function checkEmail(fieldValue){
+
 	var chkAt = fieldValue.indexOf("@");
+
 	var chkDot= fieldValue.indexOf(".");
+
 	var chkHack= fieldValue.indexOf("@.");
+
 	var chkHackA= fieldValue.indexOf(".@");
 
+
+
 	if((chkAt >= 0) && (chkDot >= 0) && (chkHack == -1) && (chkHackA == -1) ) {
+
 		return true;
+
 	}
+
 	return false;
+
 }
+
+
 
 function checkUrl(fieldValue){
+
 	var chkAt = fieldValue.indexOf("@");
+
 	var chkDot= fieldValue.indexOf(".");
 
+
+
 	if(fieldValue.length <= 8) {
+
 		return false;
+
 	}	
+
 	if((fieldValue.substr(0,7) == "http://") ||  (fieldValue.substr(0,8) == "https://")) {
+
 		return true;
+
 	}
+
 	return false;
+
 }
+
+
 
 function appendZero(val){
+
 	var str = "";
+
 	str = '' + val + '';
+
 	if(str.length == 1) {
+
 		str = "0" + str;
+
 	}	
+
 	return str;	
+
 }	
+
+
 
 function fixRadioLooks() 
+
 {
+
 	var oInput = document.getElementsByTagName("INPUT");
+
 	for(i=0; i<oInput.length; i++)  {
+
 		if((oInput[i].type == "checkbox") || (oInput[i].type == "radio")) 
+
 		{
+
 			oInput[i].style.border = "0px";
+
 		}
+
 	}
+
 }
+
+
 
 function checkRemeber(){
+
 	if(document.login.remember.checked) {
+
 		document.login.remember.checked = false;
+
 	}else{
+
 		document.login.remember.checked = true;
+
 	}
+
 	
+
 }
+
 function openRows(obj){
+
 	row1Obj = document.getElementById('passrow1');
+
 	row2Obj = document.getElementById('passrow2');
+
 	if(obj.checked){
+
 		row1Obj.style.visibility = "visible";
+
 		row2Obj.style.visibility = "visible";
+
 		row1Obj.style.display = "block";
+
 		row2Obj.style.display = "block";
+
 	}else{
+
 		row1Obj.style.visibility = "hidden";
+
 		row2Obj.style.visibility = "hidden";
+
 		row1Obj.style.display = "none";
+
 		row2Obj.style.display = "none";
+
 	}
+
 }	
+
 function order(field, url,lngshowlimit){
+
 	url += "?";
+
 	url += "&order=" + field;
+
 	url += "&showPerPage=" + lngshowlimit;
+
 	location.href = url;
+
 }
+
 function openBrowse(check, divId) {
+
 	divObj = document.getElementById('tbl_' + divId);
+
 	fileObj = document.getElementById('imagefile_' + divId);
+
 	if(check.checked) {
+
 		divObj.style.visibility = "visible";		
+
 	}else{
+
 		divObj.style.visibility = "hidden";		
+
 		fileObj.value = '';
+
 	}
+
 }
+
 function changeOrder(idObj, move){
 
+
+
 	id = idObj.id.replace('a_', '');
+
 	var vals = id.split('_');
 
+
+
 	switch(move) {
+
 		case "down":
 
+
+
 			var nextOrder = parseInt(vals[vals.length - 1]);
+
 			nextOrder++;
 
+
+
 			var upperDivId = 'div_' + vals[0] + '_' +  vals[1];
+
 			var lowerDivId = 'div_' + vals[0] + '_' +  nextOrder;
+
 		break;
+
+
 
 		case "up":
+
 			var prevOrder = parseInt(vals[vals.length - 1]);
+
 			prevOrder--;
 
+
+
 			var upperDivId = 'div_' + vals[0] + '_' +  prevOrder;
+
 			var lowerDivId = 'div_' + vals[0] + '_' +  vals[1];
 
+
+
 		break;
+
 	}
+
 	var upperdivObj = document.getElementById(upperDivId);
+
 	var lowerdivObj = document.getElementById(lowerDivId);
 
+
+
 	if(upperdivObj) { var upperHTML = lowerdivObj.innerHTML;}	
+
 	if(lowerdivObj) { var lowerHTML = upperdivObj.innerHTML; }
+
 	if(upperdivObj) { upperdivObj.innerHTML = upperHTML; }
+
 	if(lowerdivObj) { lowerdivObj.innerHTML = lowerHTML; }
+
 }
+
+
 
 var addUnl = new Array();
 
+
+
 function addUnlimited(slot, startNum, stopNum){
+
 	var num = parseInt(addUnl['unlimitedCount_' + slot]);
+
 	var newnum = num + 1;
+
 	var IdStr = slot + '_' + slot + '_' + startNum; 
+
 	var newIdStr = slot + '_' + slot + '_' + newnum; 
 
+
+
 	var slotDiv = 'moreupload_' + slot;
+
 	slotDivObj = document.getElementById(slotDiv);
+
 	slotDivCont = slotDivObj.innerHTML;
 
+
+
 	var moreDivObj = document.getElementById('moreContainer_' + slot);
+
 	var moreDivCont = moreDivObj.innerHTML;
 
+
+
 	newContents = slotDivCont.replace(IdStr, newIdStr);
+
 	newContents = newContents.replace(IdStr, newIdStr);
 
+
+
 	if((stopNum == 0) || (newnum < stopNum)) {
+
 		moreDivObj.innerHTML = moreDivCont + newContents;
+
 		addUnl['unlimitedCount_' + slot] = newnum;
+
 	}else{
+
 		alert('Sorry! You are not allowed to upload more files for this slot.');
+
 	}
+
 }
+
+
 
 function resetContainer(slot, startNum){
+
 	var id = 'moreContainer_' + slot;
+
 	addUnl['unlimitedCount_' + slot] = startNum;
+
 	var containerObj = document.getElementById(id);
+
 	containerObj.innerHTML = '';
+
 	
+
 }
+
+
 
 function showPreview(sTblId, hTblId){
+
 	var showTblObj = document.getElementById(sTblId);
+
 	var hideTblObj = document.getElementById(hTblId);
 
+
+
 	hideTblObj.style.visibility = "hidden";
+
 	hideTblObj.style.display = "none";
+
 	
+
 	showTblObj.style.visibility = "visible";
+
 	showTblObj.style.display = "block";
+
 }
+
 function modifyPreview(formName, field, type){
+
 	var idObj = document.getElementById('tpl_' + field);
+
 	if(idObj) {
+
 		switch(type) {
+
 			case 'text':
+
 				var innerVal = eval('document.' + formName + '.' + field + '.value');
+
 			break;
 
+
+
 			case 'editor':
+
 				var frmName = field + '___Frame';
+
 				editor_frame = document.getElementById(frmName);
+
 				editor_source = editor_frame.contentWindow.document.getElementById('eEditorArea');
+
 				var mContents = editor_source.contentWindow.document.body.innerHTML;
+
 				var innerVal = mContents;
+
 			break;
+
 			
+
 		}
+
 		idObj.innerHTML = innerVal;	
+
 	}
+
 }
+
+
 
 var dt = new Date();
 
+
+
 function AjaxInit() {
+
 	var xmlhttp=false;
+
 	if(window.XMLHttpRequest){
+
 	 xmlhttp = new XMLHttpRequest();
+
 	} else if (window.ActiveXObject){
+
 	 	xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
+
 	 if (!xmlhttp){
+
 	 	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+
 	 }
+
 	} 
+
 	return(xmlhttp);
+
 }
+
+
 
 function fnDrawMainListing(main_id, sub_id) {
+
 	var xmlhttp1 = AjaxInit();
+
 	var strResponse = "";
+
 	var dt1 = new Date();
+
 	try {
+
 		xmlhttp1.open("POST", '../../forums/admin/show_posted_list.php');
+
 		xmlhttp1.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
 		xmlhttp1.onreadystatechange = function() {
+
 			if (xmlhttp1.readyState == 1) {
+
 				document.getElementById('investor_list').innerHTML = "<img src='../images/loading.gif' alt='' border=0>";
+
 			}
+
 			if (xmlhttp1.readyState == 4 && xmlhttp1.status == 200) {
+
 				strResponse = xmlhttp1.responseText;
+
 				document.getElementById('investor_list').innerHTML = strResponse;
+
 			}
+
 		}
+
 		xmlhttp1.send('&x=' + dt1.getTime() + dt1.getSeconds() + '&cid=' + main_id + '&sub_id=' + sub_id);
+
 	}catch (errv) {
+
 		alert(errv);
+
 	}
+
 	
+
 }
+
+
 
 function ADAjaxPostData(url, queryStr, loadingDiv){
+
 	divObj = document.getElementById(loadingDiv);
+
 	if(divObj) {
+
 		window.status = "Loading...";
+
 		divObj.innerHTML = "<span class='statusWait'>Loading...</span>";
+
 	}
+
 	var Ajax=AjaxInit();
+
 	try {	
+
 		Ajax.open('POST', url);
+
 		Ajax.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+
 		Ajax.onreadystatechange = function() {
+
 			if (Ajax.readyState == 4 && Ajax.status == 200) {
+
 				
+
 				divObj.innerHTML = Ajax.responseText;
+
 				window.status = "Done";
+
 			}
+
 		}
+
 		Ajax.send(queryStr + "&random=" + Math.random());	
+
 	}catch (errv) {
+
 		Ajax.send(errv);
+
 	}				
+
 }
+
+
 
 function Showsubdropdown(aid, divi) {
+
 	ADAjaxPostData('../../forums/admin/subcat_db.php', 'aid=' + aid, divi);
+
 		
-}
-function Showstatedropdown(aid, divi, state_id) {
-	ADAjaxPostData('../../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
-		
-}
-function Showfrontstatedropdown(aid, divi, state_id) {
-	//alert("I am here to show states dropdown");
-	//alert("aid = "+aid+ " divi = "+divi+ " state_id = "+state_id );
-	ADAjaxPostData('../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
-		
+
 }
 
-function Showsubclass(aid, divi) {
-	
-	ADAjaxPostData('../classified/class_sub.php', 'aid=' + aid, divi);
+function Showstatedropdown(aid, divi, state_id) {
+
+	ADAjaxPostData('../../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
+
 		
+
 }
+
+function Showfrontstatedropdown(aid, divi, state_id) {
+
+	//alert("I am here to show states dropdown");
+
+	//alert("aid = "+aid+ " divi = "+divi+ " state_id = "+state_id );
+
+	ADAjaxPostData('../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
+
+		
+
+}
+
+
+
+function Showsubclass(aid, divi) {
+
+	
+
+	ADAjaxPostData('../classified/class_sub.php', 'aid=' + aid, divi);
+
+		
+
+}
+
+
+
 
 
 function Showsubclassdropdown(aid, divi) {
+
 	ADAjaxPostData('../../classified/admin/subcat_db.php', 'aid=' + aid, divi);
+
 		
+
 }
 
+
+
 function fnDrawclassMainListing(main_id, sub_id) {
+
 	var xmlhttp1 = AjaxInit();
+
 	var strResponse = "";
+
 	var dt1 = new Date();
+
 	try {
+
 		xmlhttp1.open("POST", '../../classified/admin/show_posted_list.php');
+
 		xmlhttp1.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
 		xmlhttp1.onreadystatechange = function() {
+
 			if (xmlhttp1.readyState == 1) {
+
 				document.getElementById('investor_list').innerHTML = "<span class='statusWait'>Loading...</span>";
+
 			}
+
 			if (xmlhttp1.readyState == 4 && xmlhttp1.status == 200) {
+
 				strResponse = xmlhttp1.responseText;
+
 				document.getElementById('investor_list').innerHTML = strResponse;
+
 			}
+
 		}
+
 		xmlhttp1.send('&x=' + dt1.getTime() + dt1.getSeconds() + '&cid=' + main_id + '&sub_id=' + sub_id);
+
 	}catch (errv) {
+
 		alert(errv);
+
 	}
+
 	
+
 }
+
+
+
 
 
 function showBG(trID){
+
 		obj = document.getElementById(trID);
+
 		obj.bgColor="#b0DAF0";
+
 	}
+
 	
+
 	function hideBG(trID){
+
 		obj = document.getElementById(trID);
+
 		obj.bgColor="#E0F1FF";
+
 	}
+
 	
+
 function leftShowBG(trID){
+
 	obj = document.getElementById(trID);
+
 	obj.bgColor="#4fa7e0";
+
 }	
 
+
+
 function leftHideBG(trID,val){
+
 	obj = document.getElementById(trID);
+
 	if(val!=1){
+
 		obj.bgColor="#def0fa";
+
 	}else{
+
 		obj.bgColor="#FFFFFF";
+
 	}
+
 }
 
+
+
 function fn_search()
+
 {
+
 	//alert(document.frm_search.search.value);
+
 	var link=document.frm_search.search.value;
+
 	parent.location.href=link;
+
 }
+
+
 
 </script>
 
 
+
+
+
 <table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
+
   <tbody><tr> 
+
     <td width="304"><a href="#"><img src="/images/adhysteria_logo.gif" alt="Adhysteria:: Social Video Classifieds" width="304" height="126" border="0"></a></td>
+
     <td width="244"><img src="/images/spacer.gif" width="244" height="1"></td>
+
     <td align="right" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
       <tbody><tr>
+
         <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
               <tbody><tr>
+
                 <td width="10" align="left" valign="top"><img src="/images/top_search_left_corn.gif" width="10" height="30"></td>
+
                 <td style="background-repeat:repeat-x" valign="middle" background="/images/top_search_bg.gif"> 
+
                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
                     <tbody><tr> 
+
                       <td style="padding-top:5px" class="header_link" valign="top" width="15%" align="center">Module:</td>
+
                       <td style="padding-top:5px" class="header_link" valign="top" align="left">
+
                       <form name="frm_search">
+
                         <select name="search">
+
                           <option value="#">Select Module</option>
+
                           <option value="video/search.php">Video</option>
+
                           <option value="photos/search.php">Photo</option>
+
                           <option value="share_content/search.php">File Sharing</option>
+
                           <option value="blogs/index.php?action=load_search_form">Blogs</option>
+
                           <!--<option value="forums/search.php">Forum</option>-->
+
                           <option value="groups/search.php?action=load_search_form">Groups</option>
+
                         </select>
+
                         </form></td><td width="31%" align="left" style="padding-top:7px" valign="top"><a href="javascript:void(null);" class="top_icon_link" onclick="fn_search();">Advanced 
+
                           Search</a></td>
+
                       
+
                       <td width="21%" align="right"><span style="padding-top:7px; padding-right:10px">&nbsp;&nbsp;&nbsp;</span></td>
+
                     </tr>
+
                   </tbody></table></td>
+
                 <td width="10" align="right" valign="top" style="padding-right:0px"><img src="/images/top_search_right_corn.gif" width="10" height="30"></td>
+
             </tr>
+
         </tbody></table></td>
+
       </tr>
+
       <tr>
+
         <td colspan="2" align="right">&nbsp;</td>
+
       </tr>
+
       <tr>
+
         <td width="181" height="77" align="right" valign="bottom">&nbsp;</td>
+
         <td style=" background-repeat: no-repeat" width="226" align="left" valign="top" background="/images/signup.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
             <tbody><tr>
-                          </tr>
+
+              
+            </tr>
+
           <tr>
+
               <td style="padding-left:10px; padding-top:3px" colspan="2" class="header_link">Hi There</td>
+
               <td style="padding-left:10px; padding-top:3px" class="header_link">&nbsp;</td>
+
           </tr>
+
             <tr>
+
               <td style="padding-left:10px" class="header_link">Not a member yet? sign up for free.</td>
+
               <td>&nbsp;</td>
+
             </tr>
-                                      <tr><td style="padding-right:25px" align="right" class="header_link"><a href="/users/login_sep.php"><b>Sign up</b></a></td>
-                                          <td>&nbsp;</td>
+
+            
+            
+              <tr><td style="padding-right:25px" align="right" class="header_link"><a href="/users/login_sep.php"><b>Sign up</b></a></td>
+
+              
+              
+              <td>&nbsp;</td>
+
             </tr>
+
         </tbody></table></td>
+
       </tr>
+
     </tbody></table></td>
+
   </tr>
+
 </tbody></table>
+
 <table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
+
 <tbody><tr>
+
         <td width="12"><img src="/images/spacer.gif" width="12" height="32"></td>
+
         <td width="80" align="center" background="/images/home.gif" class="title_bar"><a href="/index.php">Home</a><img src="/images/spacer.gif" width="80" height="1" border="0"></td>
+
         <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-        <td width="93" align="center" background="/images/community.gif" class="title_bar"><a href="community/index.php">Community<img src="images/spacer.gif" width="93" height="1" border="0"></a></td>
+
+        <td width="93" align="center" background="/images/community.gif" class="title_bar"><a href="../community/index.php">Community<img src="images/spacer.gif" width="93" height="1" border="0"></a></td>
+
     <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-        <td width="80" align="center" background="/images/invite.gif" class="title_bar"><a href="invite/importer.php" target="_blank">Invite</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
+
+        <td width="80" align="center" background="/images/invite.gif" class="title_bar"><a href="../invite/importer.php" target="_blank">Invite</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
+
         <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-        <td width="108" align="center" background="/images/myadhysteria.gif" class="title_bar"><a href="users/index.php">My Adhysteria</a><img src="images/spacer.gif" width="108" height="1" border="0"></td>
+
+        <td width="108" align="center" background="/images/myadhysteria.gif" class="title_bar"><a href="../users/index.php">My Adhysteria</a><img src="images/spacer.gif" width="108" height="1" border="0"></td>
+
         <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-        <td width="57" align="center" background="/images/help.gif" class="title_bar"><a href="help.html" target="_blank">Help</a><img src="images/spacer.gif" width="57" height="1"></td>
+
+        <td width="57" align="center" background="/images/help.gif" class="title_bar"><a href="../help.html" target="_blank">Help</a><img src="images/spacer.gif" width="57" height="1"></td>
+
         <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-        <td width="80" align="center" background="/images/upload.gif" class="title_bar"><a href="video/manage.php?action=upload_form">Upload</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
+
+        <td width="80" align="center" background="/images/upload.gif" class="title_bar"><a href="../video/manage.php?action=upload_form">Upload</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
+
         <td width="200" align="left"><img src="images/spacer.gif" width="200" height="1"></td>
+
     <td align="left" valign="middle" class="header_type"><a href="/digital_camera.php" target="_blank">DigitalCamera </a>| <a href="/camcorder.php" target="_blank">Camcorder</a> | <a href="/webcam.php" target="_blank">Webcam</a> | <a href="/cellphone.php" target="_blank">Cell</a></td>
+
   </tr>
+
     </tbody></table>
+
 	
 
 
+
+
+
     <table width="955" border="0" align="center" cellpadding="0" cellspacing="0" class="header_link">
+
       <tbody><tr class="header_link">
+
         <td width="12"><img src="/images/header_left_corn.gif" width="12" height="26"></td>
-<td bgcolor="#BBD321" class="header_link"><a href="/video" class="home_contrast_font h2" style="padding-left:3px">Video Classifieds</a><span class="header_link">|<a href="/auction" class="home_contrast_font h2" style="padding-left:3px">Video Auctions</a></span><span class="header_link">|<a href="/photos" class="home_contrast_font h2" style="padding-left:3px">Photo Classifieds</a></span><span class="header_link">|<a href="/blogs" class="home_contrast_font h2" style="padding-left:3px">Blog</a></span><span class="header_link">|<a href="/events" class="home_contrast_font h2" style="padding-left:3px">Events</a></span><span class="header_link">|<a href="/feedback" class="home_contrast_font h2" style="padding-left:3px">Feedbacks</a></span><span class="header_link">|<a href="/groups" class="home_contrast_font h2" style="padding-left:3px">Groups</a></span><span class="header_link">|<a href="/messaging" class="home_contrast_font h2" style="padding-left:3px">Messaging</a></span><span class="header_link">|<a href="/promotion" class="home_contrast_font h2" style="padding-left:3px">Promotion</a></span><span class="header_link">|<a target="_blank" href="/FlashChat/chat/flashchat.php" class="home_contrast_font h2" style="padding-left:3px">Chat</a></span></td><td width="12" align="right"><img src="/images/header_right_corn.gif" width="12" height="26"></td>
+
+<td bgcolor="#BBD321" class="header_link"><a href="/video" class="home_contrast_font h2" style="padding-left:3px">Video Classifieds</a><span class="header_link">|<a href="/auction" class="home_contrast_font h2" style="padding-left:3px">Video Auctions</a></span><span class="header_link">|<a href="/photos" class="home_contrast_font h2" style="padding-left:3px">Photo Classifieds</a></span><span class="header_link">|<a href="/blogs" class="home_contrast_font h2" style="padding-left:3px">Blog</a></span><span class="header_link">|<a href="/events" class="home_contrast_font h2" style="padding-left:3px">Events</a></span><span class="header_link">|<a href="/feedback" class="home_contrast_font h2" style="padding-left:3px">Feedbacks</a></span><span class="header_link">|<a href="/groups" class="home_contrast_font h2" style="padding-left:3px">Groups</a></span><span class="header_link">|<a href="/messaging" class="home_contrast_font h2" style="padding-left:3px">Messaging</a></span><span class="header_link">|<a href="/promotion" class="home_contrast_font h2" style="padding-left:3px">Promotion</a></span><span class="header_link">|<a target="_blank" href="/FlashChat/chat/flashchat.php" class="home_contrast_font h2" style="padding-left:3px">Chat</a></span>
+</td><td width="12" align="right"><img src="/images/header_right_corn.gif" width="12" height="26"></td>
+
   </tr></tbody></table>
+
   
+
   
+
       <img src="images/spacer.gif" width="12" height="5">
   
 <table align="center" width="955px" class="border" cellpadding="0" cellspacing="0">
