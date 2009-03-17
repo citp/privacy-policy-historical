@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225033724id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317060447id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO-Image® Privacy Policy
-
-**Privacy Policy**
 
 As part of your experience, we want you to feel confident that we will respect your privacy: We will protect the confidentiality not only of the information you provide to us, but also the information you obtain using the SEO Image, Inc. web site.
 
