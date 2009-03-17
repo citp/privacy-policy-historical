@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913153119id_/http%3A//brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318004218id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
-Broken Gold Privacy Policy 
+**Broken Gold is a licensee of the TRUSTe Privacy Program.**
 
-[](http://www.truste.org/ivalidate.php?companyName=Quick%20Cash%20Pawn&sealid=101&ctv_group=QCP)
+TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.capitalbuyers.com, [www.brokengold.com](http://www.brokengold.com/) , www.scrapgoldcash.com , and www.usascrapgold.com. From this point on the above listed websites will be referred to as “The Sites” or “We, Us, Our”. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Broken Gold is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.capitalbuyers.com, [www.brokengold.com](http://www.brokengold.com/) , www.scrapgoldcash.com , and www.usascrapgold.com. From this point on the above listed websites will be referred to as “The Sites” or “We, Us, Our”. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+If you have questions or concerns regarding this statement, you should first contact Tevin Jones at the phone number **1-888-920-5111**. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php/). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-If you have questions or concerns regarding this statement, you should first contact Tevin Jones at the phone number 1-888-920-5111. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns
+ **The following applies only to North Carolina residents.**
 
-* * *
-
-**The following applies only to North Carolina residents.**  
-Broken Gold™ may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to support@brokengold.com or write to North Carolina Privacy Information c/o Brokengold.com, 1648 Memorial Dr Burlington NC 27215. We will not honor such request more than once per calendar year.  
+Broken Gold™ may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to [**support@brokengold.com**](mailto:support@brokengold.com "Click to Email Us") or write to North Carolina Privacy Information c/o Brokengold.com, 1648 Memorial Dr Burlington NC 27215. We will not honor such request more than once per calendar year.  
 For more information on how your personally identifiable information is collected and used, please read our Privacy Policy.
 
 **Privacy Policy  
@@ -23,10 +20,10 @@ Broken Gold™ ("we," "us," "our") makes this Web site (the "Site") available to
 
 Note that this Policy applies only with respect to the information collected on the Site and not any information collected or obtained through other methods or sources.
 
-**Personally Identifiable Information**  
-**Collection of PII**
+**Personally Identifiable Information  
+Collection of PII**
 
-We collect personally identifiable information ("PII") that is volunteered during the registration process or in response to specific information requests explicitly presented to Consumers. To use our product you will be requested to provide the following PII: first and last name, postal address, e-mail address, and telephone number. 
+We collect personally identifiable information ("PII") that is volunteered during the registration process or in response to specific information requests explicitly presented to Consumers. To use our product you will be requested to provide the following PII: first and last name, postal address, e-mail address, and telephone number.
 
 **Use and Sharing of PII**
 
@@ -44,7 +41,8 @@ By registering and using this Site, Members acknowledge that the processing of t
 
 Brokengold.com believes that Spyware is a threat to consumer privacy and a consumer's experience online. Therefore, we forbid any Brokengold.com employee, agent, partner, affiliate or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of Brokengold.com. Spyware refers to any executable software application that is installed on a user's personal computer and covertly gathers and transmits PII through the user's Internet connection without the knowledge or consent of the user. Cookies and web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any Brokengold.com employee, agent, partner or affiliate on Brokengold.com's behalf will not be tolerated and will be considered grounds for dismissal, contract termination and/or loss of payment.
 
-**Non-Personally Identifiable Information**  
+**Non-Personally Identifiable Information**
+
 We also collect certain non-personally identifiable information through the standard operation of our servers. Such information can include the non-personally identifiable information more fully described below.
 
 **Cookies**
@@ -89,9 +87,9 @@ In the course of serving advertisements to this Site, if any, third-party advert
 
 This Site provides links to many of our advertiser and partner Web sites or other Web sites. If you link to any of these third party Web sites, this Policy will not apply to your use of, and activities on, those sites. We encourage you to read the legal notices posted on these sites, including their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites.
 
-**Note Concerning Visitors Under 18 Years of Age**
+**Note Concerning Visitors Under 21 Years of Age**
 
-Use of the Site, is neither intended for, nor directed to, children under the age of 18.
+Use of the Site, is neither intended for, nor directed to, children under the age of 21.
 
 **Security**
 
@@ -119,9 +117,11 @@ Data obtained from you in connection with this SMS service may include your name
 
 We may use personal information to provide the services you've requested, including services that display customized content and advertising. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. We may share aggregated and non personal information with third parties outside of www.brokengold.com When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
 
-You may remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to support@brokengold.com or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
+You may remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to [**support@brokengold.com**](mailto:support@brokengold.com "Click to Email Us") or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
 
-Presented by:  
-Brokengold.com  
+Presented by:
+
+**Brokengold.com**  
 1648 Memorial Dr  
-Burlington NC 27215
+Burlington NC 27215  
+****
