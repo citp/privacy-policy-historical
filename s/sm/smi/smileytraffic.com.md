@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041127id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317045731id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
+
+  
+
 
   
 
@@ -11,22 +14,22 @@
 Members Earnings  
 Since 03-22-04  
 Last Updated  
-12-16-08  
- **$19,435.27 39,569  
+03-16-09  
+ **$27,151.24 43,408  
 Total Members
 
-29  
+15  
 Pro Members  
-28  
+18  
 Premium Members  
-28  
+10  
 Ultimate Members  
-42  
+35  
 Partner Members
 
 NEW MEMBERS  
 This Month:  
-704
+674
 
 **  
 
@@ -34,7 +37,9 @@ This Month:
 **TOP 75 MANUAL SURFERS TODAY:** | ****  
 ---  
   
-NetWork Partner and  
+We Are A  
+NetWork  
+Partner and  
 Founding Member Of  
 [](http://xtreamarketing.com/smiley.html)
 
