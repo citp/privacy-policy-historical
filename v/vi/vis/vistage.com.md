@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085750id_/http%3A//www.vistage.com/about-us/legal-documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317213223id_/http%3A//www.vistage.com/en/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Vistage International - Privacy Policy
+# Executive leadership development, leadership training, executive and CEO coaching - Vistage Intl.
+
+| 
+
+## Privacy Policy
 
 **What This Privacy Policy Covers**
 
@@ -53,3 +57,11 @@ Due to changes in legislation and best practice or enhancements to functionality
 **Questions and Suggestions**
 
 If you have questions or suggestions, please contact us at Vistage International, Inc. Attention: Privacy Officer, 11452 El Camino Real, Suite 400, San Diego, CA 92130.
+
+| 
+
+### Newsletter Signup
+
+Your monthly Vistage newsletter provides relevant and timely information on the latest market trends and how they affect your business.  
+  
+---|---|---
