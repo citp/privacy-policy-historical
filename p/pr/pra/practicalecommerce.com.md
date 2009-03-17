@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219130615id_/http%3A//www.practicalecommerce.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317084107id_/http%3A//www.practicalecommerce.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Practical eCommerce
 
@@ -31,7 +31,7 @@ You can choose whether or not to accept cookies by changing the settings of your
 
 We may also request your email address or mailing address for the purposes of conducting a survey, adding you to our mailing list, or by your request to have someone contact you for additional information. Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We will not sell, rent, or otherwise give your email address to a third party without your consent.
 
-_*Will Practical eCommerce disclose the information collected to third parties? *_
+**Will Practical eCommerce disclose the information collected to third parties?**
 
 Practical eCommerce will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to:
 
