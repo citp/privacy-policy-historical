@@ -1,118 +1,86 @@
-<!--The following is the downloaded HTML source of the websitebroker.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509131920id_/http%3A//www.websitebroker.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitebroker.com privacy policy that was archived on 2009-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090317043446id_/http%3A//www.websitebroker.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy - WebsiteBroker - Buy and sell websites!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Website Broker Privacy Policy - Websites and Domains for sale. List your site and find potential buyers. Buy and Sell Websites and Domain names">
 <meta name="keywords" content="Privacy Policy, Buy, Sell, Domain, Website, Site, Trade, Listings, Sale, Name, Whois, appraisal, evaluation ">
+	<!-- robots allowed -->
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/wsb-new">
 <link href="/websitebroker.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="favicon.ico">
-<link rel="icon" href="favicon.ico"> 
+<link rel="icon" href="favicon.ico">
+
+<script src="js/scriptaculous/prototype.js" type="text/javascript"></script>
+<script src="js/scriptaculous/effects.js" type="text/javascript"></script>
 
 </head>
 <body>
-<div id="page">
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+
+<div class="boxwrap">
 
 <div id="adult_filter" style="display:none; ">
-<form name="frmadult" method="get" action="set_adult_pref.php">
-<select name="lstAdultFilter" onchange="javascript:if(confirm('Are you sure to set this preference?')) frmadult.submit();">
-<option value="0">Do not show adult sites</option>
-<option value="1">Show adult sites</option>
-<option value="2">Show only adult sites</option>
-</select>
-
-<a href="#" style="cursor:pointer;" onclick="Effect.toggle('adult_filter','appear', {duration:0}); return false;">Close</a>
-
-</form>
+	<div class="close"><a href="#" onclick="Effect.SlideUp('adult_filter',{duration:0.2}); return false;">Close</a></div>
+	<form name="frmadult" method="get" action="set_adult_pref.php">
+	Display adult sites? 
+	<select name="lstAdultFilter" onchange="javascript:if(confirm('Are you sure to set this preference?')) frmadult.submit();">
+	<option value="0">Do not show adult sites</option>
+	<option value="1">Show adult sites</option>
+	<option value="2">Show only adult sites</option>
+	</select>
+	</form>
 </div>
 
 <div id="login_form" style="display:none; ">
-<form action="login.html" method="POST" name="frmLogin">
-E-mail: <input name="email" type="text" size="24">&nbsp; 
-Password: <input name="password" type="password" size="12">
-<input type="hidden" name="hiddLogin" value="1">
-<input type="submit" value="Login">
-
-<a href="#" onclick="Effect.toggle('login_form','appear', {duration:0}); return false;">Close</a>
-
-</form>
-</div>
-
-<div id="header_menu">
-
-
-<a href="#" style="cursor:pointer;" onclick="Effect.toggle('login_form','appear', {duration:0.6}); return false;">Login</a> &nbsp;|&nbsp;
-
-<a href="/register.html">Join</a> &nbsp;|&nbsp;
-
-
-<a href="#" style="cursor:pointer;" onclick="Effect.toggle('adult_filter','appear', {duration:0.5}); return false;">Filter</a> &nbsp;|&nbsp;
-<a href="#" style="cursor:pointer;" onclick="Effect.toggle('feedback','appear', {duration:0.5}); Effect.toggle('dark_background','appear', {duration:0.5,to:0.7 }); return false;">Feedback</a>
-
+	<div class="close"><a href="#" onclick="Effect.SlideUp('login_form', {duration:0.2}); return false;">close</a></div>
+	<div class="boxclear"></div>
+	<form action="login.html" method="POST" name="frmLogin">
+	<div style="float:left; ">
+	E-mail: <input name="email" type="text" size="24">&nbsp;
+	Password: <input name="password" type="password" size="12" onkeypress="if(window.event.keyCode == 13)document.frmLogin.submit();">
+	<input type="hidden" name="hiddLogin" value="1">&nbsp;
+	</div>
+	<a href="#" onclick="document.frmLogin.submit();" class="login">Login</a>&nbsp;
+	<small><a href="forgot-password.html">Forgot password?</a></small>
+	<input type="submit" style="display:none; ">
+	</form>
 </div>
 
 
-<div id="header">
+<!--HEADER AREA START -->
 
-<div class="header_title"><a href="/">WebsiteBroker.com: The place to buy, sell and trade websites.</a></div>
-<div id="search_form">
-<form action="site-search.html" method="GET">
-<input name="srch" type="text" size="20"> <input name="Submit" type="submit" value="Search">
-</form>
+	<div class="boxheader">
+		<div class="inlogo"><a href="/" class="logo">Website Broker: The place to buy, sell and trade websites</a></div>
+		<div class="inmenu">
+				  <ul>
+						<li class="first"><a href="http://websitebroker.com/">Home</a></li>
+			<li><a href="http://websitebroker.com/new-listings.html">Buy</a></li>
+			<li><a href="http://websitebroker.com/sell-your-site.html">Sell</a></li>
+			<li><a href="http://websitebroker.com/resources.html">Resources</a></li>
+							<li><a href="#" onclick="Effect.SlideDown('login_form', {duration:0.2}); return false;">Login</a></li>
+				<li><a href="http://websitebroker.com/register.html">Sign-up</a></li>
+						<li><a href="#" style="cursor:pointer;" onclick="Effect.SlideDown('adult_filter', {duration:0.2}); return false;">Filter</a></li>
+		  </ul>
+				</div>
+		<div class="boxclear"></div>
+	</div>
+
+<!--HEADER AREA END -->
 </div>
+<!--BANNER AREA START -->
 
-</div>
+<!--BANNER AREA END -->
 
-
-
-<div id="sidebar">
-
-<ul>
-<li>
-  <h4>Main Menu</h4>
-  <ul>
-  <li><a href="/new-listings.html">New Listings</a></li>
-  <li><a href="/websites-for-sale.html">Websites For Sale</a></li>
-  <li><a href="/domains-for-sale.html">Domains For Sale</a></li>
-  <li><a href="/premiere-listings.html">Premiere Websites </a></li>
-  </ul>
-</li>
-
-<li>
-  <h4>Sell Your Site</h4>
-  <ul>
-  <li><a href="/sell-your-site.html">Sell a Website</a></li>
-  <li><a href="/sell-your-site.html">Sell a Domain</a></li>
-  </ul>
-</li>
-
-<li>
-  <h4>Tools</h4>
-  <ul>
-
-  <li><a href="/resources.html">Resources</a></li>
-  <li><a href="/articles">Articles &amp; Tips</a></li>
-  <li><a href="/valuation.php">Valuation Tool</a></li>
-   <li><a href="http://feeds.feedburner.com/wsb-new" title="Get new listings automatically!" rel="alternate" type="application/rss+xml" class="rss">[RSS]</a><a href="http://feeds.feedburner.com/wsb-new" rel="alternate" type="application/rss+xml">RSS Feed</a></li>
-  </ul>
-</li>
-
-<li>
-  <h4>Information</h4>
-  <ul>
-  <li><a href="/about-us.html">About WebsiteBroker</a></li>
-  <li><a href="/faqs.html">FAQs</a></li>
-  </ul>
-</li>
-</ul> 
-
-</div>
-
-<div id="mainContent" class="widecolumn">
-
-<!-- BODY STARTS --><h1>WebsiteBroker Privacy Policy</h1>
+<div class="boxwrap">
+<div class="inmain">
+<div class="headline"><h1>WebsiteBroker Privacy Policy</h1></div>
 <p>This website, is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. </p>
 <h2>Consumer Information</h2>
 <p>During the process of delivering our content and information to you, we do not automatically collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This non-personally identifiable information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.</p>
@@ -130,109 +98,81 @@ Password: <input name="password" type="password" size="12">
 <p>
  <a href="/terms-and-conditions.html">Terms and Conditions</a>
 </p>
-<!-- BODY ENDS -->
-</div>
-<div id="footer">© 1997 - 2008 WebsiteBroker Inc.<br>
-<a href="http://www.websitebroker.com/privacy-policy.html">Privacy Policy</a> - <a href="http://www.websitebroker.com/terms-and-conditions.html">Terms and Conditions</a>
-
-<br>
-
-</div> 
-<div id="feedback" style="display:none; "><font color="red"></font>
-<script type="text/javascript" src="js/general_functions.js"></script>
-<script type="text/javascript" src="ajax_captcha/ajax_captcha.js"></script>
-
-	<script type="text/javascript">
-	function validate_suggestion()
-	{
-		var suggestion = document.frmSuggestion.txtSuggestion;
-		var emailId = document.frmSuggestion.txtEmail;
-		//added by Umesh Venugopal
-		if (document.frmSuggestion.elements['txtCaptcha'].value == '') {
-			alert('You must enter confirmation code.');
-			document.frmSuggestion.elements['txtCaptcha'].focus();
-			return false;
-		}
-		if(emailId.value != "")
-		{
-			if(!isValidEmail(emailId.value))
-			{
-				alert("Please enter proper emailId");
-				emailId.focus();
-				return false;
-			}
-		}
-		if(suggestion.value == "")
-		{
-			alert("Please enter your suggestion.");
-			suggestion.focus();
-			return false;
-		}		
-		return true;
-	}
-	</script>
-
-<div id="feedback_menu">
-<h4>Feedback</h4>
-	
-	<a href="#" onclick="Effect.toggle('feedback','appear', {duration:0}); Effect.toggle('dark_background','appear', {duration:0, from:0.7}); return false;">Close</a>
-	
-</div>
-<form name="frmSuggestion" method="POST" action="" onsubmit="return validate_suggestion();">
-<p>We're always working to improve WebsiteBroker.  If you have a feature request, bug report, or just a general comment, we want to hear from you!</p>
-
-<table border="0" cellspacing="3" cellpadding="0">
-  <tbody><tr>
-    <td>Email: </td>
-    <td>
-<div style="float:left">
-<input type="text" name="txtEmail">
-</div>
-
-<div style="float:left;padding:0 5px 0 5px">
-<a class="tooltip" href="#" onmouseover="Effect.Appear('tip_feedback', {duration:0}); return false;" onmouseout="Effect.Fade('tip_feedback', {duration:0}); return false;">[we respect your privacy]</a>
-</div>
-
-<div style="float:left ">
-<div id="tip_feedback" class="tooltip_box" style="display:none; ">
-<b>We respect your privacy</b><br>  Your email will be kept private. It will not appear on the site, and it will not be distributed for any reason.</div>
-</div>
-
-</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><input type="radio" name="rdoSuggestionOptions" value="3" checked="checked">Feature Request<br>
-<input type="radio" name="rdoSuggestionOptions" value="2">Bug Report<br>
-<input type="radio" name="rdoSuggestionOptions" value="1">General Comment<br>
-</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><textarea name="txtSuggestion" cols="10"></textarea></td>
-  </tr>
-  <tr valign="top">
-    <td nowrap="">Code:</td>
-    <td valign="top"> <img id="imgCaptcha" src="ajax_captcha/create_image.php">&nbsp;&nbsp;&nbsp;<input name="txtCaptcha" type="text" id="txtCaptcha" value="" size="3">
-      <input type="hidden" name="hiddSuggestion" value="1"></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>
-	<input type="button" name="subSuggestion" value="Send Message" onclick="getParam(document.frmSuggestion)">
-	
-	<a href="#" onclick="Effect.toggle('feedback','appear', {duration:0}); Effect.toggle('dark_background','appear', {duration:0, from:0.7}); return false;">Cancel</a>
-	</td>
-  </tr>
-</tbody></table>
-</form>
 
 </div>
 
+<!--SIDE PANEL START -->
+
+<div class="inpanel">
+					<h2>Search Websites For Sale</h2>
+		<form name="search_listings" action="site-search.html" method="GET" class="hilite1 outer" style="margin:0 0 15px 0; padding:10px 0 0 10px;">
+			<input class="input float_l" type="text" name="srch" value="" style="margin:0 3px 0 0;">
+			<a class="button_search" href="#" onclick="document.search_listings.submit();">Search</a>
+			<input type="submit" value="Search" style="display:none; ">
+			<div style="clear:both;"></div>
+			<a href="/advancedSearch.php">Advanced Search</a>
+		</form>
+					<a href="/register.html"><img src="images/banner_register.png" width="250" height="105" style="margin:0 0 12px 0; "></a><br>
+		
+		<a href="/valuation.php" style="display:block; margin:0 0 20px 0; "><img src="images/banner_valtool.png" width="250" height="44" alt="Valuation Tool"></a>
+		
+		<div class="headline">
+		<h2>Join Our Affiliate Program</h2></div>
+		<div class="list">Earn a 40% commission on every referral. <b><a href="http://www.shareasale.com/shareasale.cfm?merchantID=19623">Join the WebsiteBroker affiliate program</a></b> and start earning today. <b><a href="http://www.shareasale.com/shareasale.cfm?merchantID=19623">Sign up!</a></b></div>
+		<div class="boxclear"></div>
+		<p>&nbsp;</p>
+		
+		<div class="headline">
+		<div class="float_r"><a href="http://www.websitebroker.com/articles/feed" rel="alternate" type="application/rss+xml" class="rss" style="margin:5px 0 0 0; ">RSS</a></div>
+		<h2>Latest Articles</h2>
+		</div>
+		<div class="list"><p><span class="title"><a href="http://www.websitebroker.com/articles/acquisitions/apartmentscom-acquires-apartmenthomelivingcom" class="title">Acquisitions</a></span><br><b><a href="http://www.websitebroker.com/articles/acquisitions/apartmentscom-acquires-apartmenthomelivingcom">Apartments.com Acquires Apartmenthomeliving.com</a></b><br>Apartments.com has announced the acquisition of the online community and resourc... <a href="http://www.websitebroker.com/articles/acquisitions/apartmentscom-acquires-apartmenthomelivingcom">more</a><br></p></div>
+<div class="list"><p><span class="title"><a href="http://www.websitebroker.com/articles/acquisitions/the-knot-acquires-weddingbook" class="title">Acquisitions</a></span><br><b><a href="http://www.websitebroker.com/articles/acquisitions/the-knot-acquires-weddingbook">The Knot Acquires Weddingbook</a></b><br>Wedding planning and content site, the knot annouced&nbsp;its acquisition of&nbsp;WedSna... <a href="http://www.websitebroker.com/articles/acquisitions/the-knot-acquires-weddingbook">more</a><br></p></div>
+<div class="list"><p><span class="title"><a href="http://www.websitebroker.com/articles/buying-and-selling-websites/build-a-lucrative-career-with-websites" class="title">Buy &amp; Sell Sites</a>, <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/build-a-lucrative-career-with-websites" class="title">Flipping Websites</a></span><br><b><a href="http://www.websitebroker.com/articles/buying-and-selling-websites/build-a-lucrative-career-with-websites">Build a Lucrative Career with Websites</a></b><br>By now, we have all seen just how far the internet can reach. The internet has b... <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/build-a-lucrative-career-with-websites">more</a><br></p></div>
+<div class="list"><p><span class="title"><a href="http://www.websitebroker.com/articles/acquisitions/askcom-acquires-sendoricom" class="title">Acquisitions</a></span><br><b><a href="http://www.websitebroker.com/articles/acquisitions/askcom-acquires-sendoricom">Ask.com Acquires Sendori.com</a></b><br>IAC.com's&nbsp;search engine&nbsp;Ask.com has acquired Sendori.com, a domain based sea... <a href="http://www.websitebroker.com/articles/acquisitions/askcom-acquires-sendoricom">more</a><br></p></div>
+<div class="list"><p><span class="title"><a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website" class="title">Buy &amp; Sell Sites</a>, <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website" class="title">Flipping Websites</a>, <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website" class="title">Tips and Ideas</a>, <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website" class="title">Website Buyers</a></span><br><b><a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website">Are you Thinking about Buying a Website?</a></b><br>If you are considering&nbsp;buying a website, there are many issues that you will ev... <a href="http://www.websitebroker.com/articles/buying-and-selling-websites/are-you-thinking-about-buying-a-website">more</a><br></p></div> 
+		<div class="float_r"><a href="/articles" class="button_more" style="margin:8px 0 0 0; ">More</a></div>
+		<div class="boxclear"></div>
+		<p>&nbsp;</p>
+		<div class="headline">
+		<h2>Want to Share?</h2></div>
+		<div class="list">Do you have a helpful tip or site you'd like us to include in our list? <a href="/support.html"><b>Contact us</b></a> and we'll review it for inclusion.</div>
+	</div>
+<div class="boxclear"></div>
+
+<!--SIDE PANEL END -->
+
+<!--FOOTER AREA START -->
+
+<div class="boxfooter">
+	<div class="infmenu">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/new-listings.html">Buy</a></li>
+			<li><a href="http://websitebroker.com/sell-your-site.html">Sell</a></li>
+			<li><a href="http://websitebroker.com/resources.html">Resources</a></li>
+			<li><a href="http://websitebroker.com/faqs.html">FAQs</a></li>
+							<li><a href="http://websitebroker.com/login.html">Login</a></li>
+				<li><a href="/register.html">Sign-up</a></li>
+						<li><a href="http://websitebroker.com/about-us.html">About WebsiteBroker</a></li>
+			<li><a href="http://feeds.feedburner.com/wsb-new" title="Get new listings automatically!" rel="alternate" type="application/rss+xml">RSS Feed</a></li>
+			<li class="last"><a href="/support.html">Contact Us</a></li>
+		</ul>
+		<ul>
+			<li>© 1997 - 2008 WebsiteBroker Inc.</li>
+			<li><a href="http://www.shareasale.com/shareasale.cfm?merchantID=19623">Affiliate Program</a></li>
+			<li><a href="http://websitebroker.com/privacy-policy.html">Privacy Policy</a></li>
+			<li class="last"><a href="http://websitebroker.com/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+		</ul>
+	</div>
+	<div class="inftop"><a href="#"><img src="images/button_backtotop.png" width="59" height="18"></a></div>
+	<div class="boxclear"></div>
 </div>
 
+<!--FOOTER AREA END -->
 
-<div id="dark_background" style="display:none; ">&nbsp;</div>
+
+</div>
 
 <!-- Google Analytics Code -->
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
@@ -244,9 +184,13 @@ urchinTracker();
 <!-- End Google Analytics Code -->
 
 
-<script src="js/scriptaculous/prototype.js" type="text/javascript"></script>
-<script src="js/scriptaculous/scriptaculous.js?load=effects" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20080509131920id_/http%3A//www.websitebroker.com/js/scriptaculous/effects.js"></script>
-
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(29079,0.0142,"www");
+</script>
+<!-- ClickTale end of Bottom part -->
 
 
 </body></html>
