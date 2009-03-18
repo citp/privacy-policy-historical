@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031755id_/http%3A//www.clinique.com/customerservice/cservice_privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318171655id_/http%3A//www.clinique.com/customerservice/cservice_privacy.tmpl) for the most accurate reproduction.*
 
 # Clinique | Privacy Policy
 
@@ -148,4 +148,4 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
 We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail at [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com). If you have questions related to Club Clinique Mobile, please email us at [support@kikucall.com](mailto:support@kikucall.com) or call 1-888-309-3841 (9:00am - 6:30pm EST, Monday – Friday) or, from your mobile phone, text **"HELP** " to **34264**. 
 
-Copyright © 2007 Clinique Laboratories LLC. All worldwide rights reserved. 
+Copyright © 2009 Clinique Laboratories LLC. All worldwide rights reserved. 
