@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kazulah.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065439id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazulah.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318212533id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy Summary
 
 ### CONSUMER PRIVACY AND THE FUNWEBPRODUCTS™ SUITE OF WEBSITES AND RELATED SERVICES
 
-IAC Consumer Applications & Portals, Inc. (IACCAP) is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Citysearch, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others.
+Mindspark Interactive Network, Inc. (MINDSPARK) is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Vimeo.com, Citysearch, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others.
 
-At IACCAP, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml).
+At MINDSPARK, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml). The Privacy Policy applicable to Zwinky may be found [here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). The Privacy Policy applicable to IWon may be found [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).
 
-### The FWP Products′ Privacy Policy was last updated on: September 25, 2008.
+### The FWP Products′ Privacy Policy was last updated on: January 22, 2009.
 
 ### INFORMATION WE MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
 
@@ -26,7 +26,7 @@ We do not knowingly collect personal information from children under the age of 
 
 ### INFORMATION OTHERS MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
 
-We may allow third-party advertising companies or ad networks to display advertisements on our FWP Products′ websites.
+We may allow third-party advertising companies or ad networks to display advertisements or place ad tags on our FWP Products′ websites.
 
   * We do not provide any personal information to these companies.
   * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
@@ -88,15 +88,15 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 
 If you have any questions about this summary, our [Privacy Policy](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml), or our information practices, please contact us by email or postal mail below:
 
-IAC Consumer Applications & Portals, Inc.  
+Mindspark Interactive Network, Inc.  
 One North Lexington, 9th Floor  
 White Plains, NY, 10601  
 ATTN: Privacy Officer/Legal Dept.  
-[privacy[at]iaccap.com](mailto:privacy@iaccap.com)
+[privacy[at]mindspark.com](mailto:privacy@mindspark.com)
 
 END OF DOCUMENT.
 
-© 2008 IAC Consumer Applications & Portals, Inc. All rights reserved.
+© 2009 Mindspark Interactive Network, Inc. All rights reserved.
 
 ### GLOSSARY:
 
@@ -109,7 +109,7 @@ Through the use of a cookie, we also may automatically collect information about
 
 You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party′s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party′s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
 
 Web Beacons:
     
