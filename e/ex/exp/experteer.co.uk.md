@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experteer.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173114id_/http%3A//www.experteer.co.uk/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experteer.co.uk privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318170052id_/http%3A//www.experteer.co.uk/terms/privacy_policy) for the most accurate reproduction.*
 
 # Experteer - Data protection.
 
@@ -10,7 +10,7 @@ If, for any reason, you do not agree to the terms of this Privacy Policy, please
 
 In this Privacy Policy, references to "we" or "us" are to Experteer GmbH which is the data controller of personal data collected from you on the Website. Experteer GmbH acts through its branch in the United Kingdom, whose registered number is BR009789 and whose registered office is at 8-14 Crinan Street, London N1 8JQ.
 
-If you have any questions about how we collect, store and use your information, you may contact us by telephoning +49 (0)89 - 5527938-68 or by e-mailing us at [info@experteer.co.uk](mailto:info@experteer.co.uk).
+If you have any questions about how we collect, store and use your information, you may contact us by telephoning +49 (0)89 - 55 27 93 - 150 or by e-mailing us at [info@experteer.co.uk](mailto:info@experteer.co.uk).
 
 ### Brief legal background
 
