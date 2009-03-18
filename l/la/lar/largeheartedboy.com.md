@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the largeheartedboy.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104047id_/http%3A//www.largeheartedboy.com/blog/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeheartedboy.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318013305id_/http%3A//www.largeheartedboy.com/blog/privacy.htm) for the most accurate reproduction.*
 
 # largehearted boy: a boy, a girl, and his radio
 
