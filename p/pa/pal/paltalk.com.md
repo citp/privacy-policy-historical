@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028234230id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318220204id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
@@ -43,7 +43,7 @@ In our role of delivering targeted advertisements, Paltalk plays the middleman. 
 We use outside credit card processing companies to bill you for Paltalk services. These companies do not retain, share, store or use personally identifiable information for any other purposes.   
 We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
   * _Advertising_   
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.� These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.  These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
   * _Legal Disclaimer_   
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
