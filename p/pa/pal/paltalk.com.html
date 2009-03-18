@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2008-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081028234230id_/http%3A//www.paltalk.com/en/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2009-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090318220204id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Paltalk Privacy Policy</title>
@@ -14,67 +14,168 @@
 
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/en/style/ie.css" media="screen"/><![endif]--> 
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/en/style/ie7.css" media="screen"/><![endif]--> 
+<!-- style for logout notification box -->
+<link rel="stylesheet" type="text/css" media="screen" href="/en/style/jquery.jgrowl.css">
+<style type="text/css">
+	div.jGrowl div.growl-message { background-color: #fff; color: navy; border: 1px #000 solid; }
+	div.jGrowl div.growl-message h4 { font-size: 12px; font-weight: bold; }
+	div.jGrowl div.growl-message p { margin: 0; padding: 0; width: 220px; }
+</style>
 
+
+<script type="text/javascript" src="/en/js/jquery.js"></script>
+<script type="text/javascript" language="javascript" src="/en/js/jquery.jgrowl_minimized.js"></script>
 <script type="text/javascript" src="/en/js/utils.js"></script>
-<script type="text/javascript" language="javascript" src="/en/js/global.js"></script>
+<script type="text/javascript" src="/en/js/scripts.js"></script>
+<script type="text/javascript" language="javascript" src="/en/js/globalnew.js"></script>
+<script type="text/javascript" language="javascript" src="/en/js/session_tracker.js"></script>
 <script type="text/javascript" language="javascript" src="/en/js/add-event.js"></script>
 
 </head>
 
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-<form method="post" action="https://commerce.paltalk.com/sson/login" name="logout">
-	<input type="hidden" name="action" value="logout">
-</form>
+	<script type="text/javascript" language="javascript">	
+		if(self != top){
+		parent.tb_remove();
+		if(parent.getTarget() == ""){
+			parent.location.reload(1);
+		}
+		else{
+		parent.location=parent.getTarget();
+		}
+	}
+	</script>
+<div id="masthead">
+	<form method="post" action="https://commerce.paltalk.com/sson/login" name="logout">
+		<input type="hidden" name="action" value="logout">
+	</form>
 
-<div id="header">
-	<h1><a href="http://www.paltalk.com/">Paltalk</a></h1>
 
-	<div id="log-guest" class="show">
-		<p>
-			<strong>Hi, Guest!</strong><a href="https://commerce.paltalk.com/mpt/">Log in</a><br>
-			Not a member? <a href="/en/start_chatting.shtml?refc=83185" class="os-check">Download PaltalkScene</a> (PC).<br>
-			Or try <a href="/express/?refc=83190" class="os-check">Paltalk Express</a> on the web (PC, Mac, Linux).
-		</p>
-	</div><!-- end log-guest -->
 
-	<div id="logged-in" class="hide">
-		<div id="log-block">
-			<a href="#" id="log">
-				<img src="/en/images/scene_images/default-thumb.gif" width="25" height="25" alt="" id="userpic">
-			</a>
-			<ul>
-				<li><a href="http://people.paltalk.com/people/webapp/index.wmt">Create/Edit my Profile</a></li>
-				<li><a href="http://people.paltalk.com/people/webapp/index.wmt">Change my Picture</a></li>
-				<li><a href="http://people.paltalk.com/people/webapp/index.wmt">View my Profile</a></li>
-				<li><img src="/en/images/scene_images/header-log-divider.gif" width="100%" height="1" alt=""></li>
-				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt">Create a Chat Group</a></li>
-				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt">View my Chat Group</a></li>
-				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt">Manage my Chat Group</a></li>
-				<li><img src="/en/images/scene_images/header-log-divider.gif" width="100%" height="1" alt=""></li>
-				<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ShowLogin">Manage My Account</a></li>
+	<a href="/index.php" class="masthead-logo"><img src="/en/images/phase2/paltalk-logo.gif" alt="paltalk"></a>
+
+	<div id="userInfoLoggedOut" class="hide">
+		<p><strong>Hi, Guest!</strong> <a href="#" onclick="showLogin();">Log in</a>.</p>
+		<p class="logged-out-action">Not a member? <a href="/start_chatting.shtml">Download PaltalkScene</a> (PC).</p>
+		<p class="logged-out-action">Or try <a href="/express/">Try PaltalkExpress</a> on the web (PC, Mac, Linux).</p>
+	</div><!-- end userInfoLoggedOut-->
+	
+	<div id="userInfoLoggedIn" class="hide">		
+		<img src="/en/images/scene_images/default-thumb.gif" alt="" id="userpic">
+		<p>Hi, <span id="nickname"></span>! <a href="#" class="login-icon" id="log-out">Log Out</a></p>
+		
+		<ul id="userinfo-menu">
+			<li><a href="#" class="user-settings">Profile</a>
+				<ul class="user-profiles">
+					<li><a href="#" id="logdCreateProfile">Create my Profile Page</a></li>
+					<li><a href="#" id="logdViewProfile">View my Profile Page</a></li>
+					<li><a href="#" class="not-available" id="logdEditProfile">Edit my Profile Page</a></li>
+					<li><a href="#" id="changePicture">Change my Picture</a></li>
+				</ul>
+			</li>
+			
+			<li><a href="#" class="user-settings">Groups</a>
+				<ul class="user-groups">
+					<li><a href="http://chat.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" id="logdJoindGrp">View Groups I've Joined</a></li>
+					<li><a href="#" id="logdCreateGrp">Create my Group</a></li>
+					<li><a href="#" id="logdViewGrp">View my Group</a></li>
+					<li><a href="http://chat.paltalk.com/g2/webapp/my/edit_info.wmt" class="not-available" id="logdEditGrp">Edit/Manage my Group</a></li>					
+				</ul>
+			</li>
+			<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ShowLogin" class="myaccount">My Account</a></li>		
+		</ul>
+		
+		<ul class="masthead-messages">
+			<li class="profile-msg"><a href="#" class="notification" id="profile-notification"></a></li>
+			<li class="group-msg"><a href="http://chat.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" class="notification" id="group-notification"></a></li>
+		</ul>
+		
+	</div>
+	
+	<div id="nav-states">
+		
+		<div id="navLoggedOut" class="hide">
+			<ul class="nav" id="nav">
+				<li><a href="/index.php" class="home">&nbsp;</a></li>
+				<li><a href="/start_chatting.shtml" rel="os-sniff"><strong>Get Paltalk</strong></a>
+					<ul class="download">
+						<li><a href="/start_chatting.shtml" rel="os-sniff">Download PaltalkScene</a></li>
+						<li><a href="/express/?refc=83190" rel="os-sniff">PaltalkExpress</a></li>
+						<li><a href="/learnaboutpaltalk.shtml?refc=83190">What is Paltalk?</a></li>
+					</ul>		
+				</li>
+				<li><a href="http://people.paltalk.com/people/webapp/index.wmt">Members</a>
+					<ul class="profiles">
+						<li><a href="http://people.paltalk.com/people/webapp/index.wmt?refc=83170">Browse Members</a></li>
+						<li><a href="#" onclick="showLogin('http://people.paltalk.com/people/webapp/my/info.wmt'); return false;" id="logdOutCreateProfile" class="thickbox">Create/Edit my Profile Page</a></li>
+					</ul>		
+				</li>
+				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt">Chat Rooms</a>
+					<ul class="rooms">
+						<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175">Browse Chat Room Groups</a></li>
+						<li><a href="#" onclick="showLogin('http://chat.paltalk.com/g2/webapp/my/edit_info.wmt'); return false;" id="logdOutCreateGroup" class="thickbox">Create/Edit a Group</a></li>
+					</ul>
+				</li>
+				<li class="help-menu"><a href="/support.shtml">Help</a>
+					<ul class="help">
+						<li><a href="/faq.shtml">FAQs</a></li>
+						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
+						<li><a href="#" class="menu-divider not-available">Forgotten Password</a></li>
+						<li><a href="#" class="not-available">Email Verification</a></li>
+						<li><a href="#" class="not-available">Ban Issues</a></li>
+						<li><a href="#" class="not-available">Customer Support</a></li>
+						<li><a href="#" class="not-available">Send Feedback</a></li>
+					</ul>		
+				</li>		
 			</ul>
-		</div><!-- end log-block -->
+		</div><!-- end navLoggedOut -->
 		
-		<div class="text">
-			<strong id="nickname"></strong>
-			<a href="#" id="log-out" class="out">Log out</a>
-		</div><!-- end text -->
+		<div id="navLoggedIn" class="hide">
+			<ul class="nav">
+				<li><a href="/index.php" class="home">&nbsp;</a></li>
+				<li><a href="/start_chatting.shtml" rel="os-sniff"><strong>Get Paltalk</strong></a>
+					<ul class="download">
+						<li><a href="/start_chatting.shtml" rel="os-sniff">Download PaltalkScene</a></li>
+						<li><a href="/express/?refc=83190" rel="os-sniff">PaltalkExpress</a></li>
+						<li><a href="/learnaboutpaltalk.shtml?refc=83190">What is Paltalk?</a></li>
+					</ul>		
+				</li>
+				<li><a href="http://people.paltalk.com/people/webapp/index.wmt">Members</a>
+					<ul class="profiles">
+						<li><a href="http://people.paltalk.com/people/webapp/index.wmt?refc=83170">Browse Members</a></li>
+						<li><a href="#" id="createProfile">Create my Profile Page</a></li>
+						<li><a href="#" id="viewProfile">View my Profile Page</a></li>
+						<li><a href="#" class="not-available" id="editProfile">Edit my Profile Page</a></li>
+						<li><a href="#" class="not-available" id="profSettings">Profile Settings</a></li>
+					</ul>		
+				</li>
+
+
+				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt">Chat Rooms</a>
+					<ul class="rooms">
+						<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175">Browse Chat Room Groups</a></li>
+						<li><a href="#" id="createGroup">Create my Group</a></li>
+						<li><a href="#" id="viewGroup">View my Group</a></li>
+						<li><a href="http://chat.paltalk.com/g2/webapp/my/edit_info.wmt" class="not-available" id="editGroup">Edit/Manage my Group</a></li>
+						<li><a href="http://chat.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" id="joindGroup">View Groups I Joined</a></li>
+					</ul>
+				</li>
+				<li class="help-menu"><a href="/support.shtml">Help</a>
+					<ul class="help">
+						<li><a href="/faq.shtml">FAQs</a></li>
+						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
+						<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ForgotPassword" class="menu-divider">Forgotten Password</a></li>
+						<li><a href="/verification.shtml">Email Verification</a></li>
+						<li><a href="/banissue.shtml">Ban Issues</a></li>
+						<li><a href="/custsupport.shtml">Customer Support</a></li>
+						<li><a href="/feedback.shtml">Send Feedback</a></li>
+					</ul>		
+				</li>		
+			</ul>
+		</div><!-- end navLoggedIn -->
 		
-	</div><!-- end logged-in -->
+	</div><!-- end nav-states -->
 
-	
-</div><!-- end header -->
-
-<div id="menu-block">
-	<ul id="horiz-menu">
-		<li class="home"><a href="/en/">&nbsp;</a></li>
-		<li><a href="http://people.paltalk.com/people/webapp/index.wmt?refc=83170">Members</a></li>
-		<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175">Chat Rooms</a></li>
-		<li><a href="#" rel="os-sniff" class="blue">Download</a></li>
-		<li><a href="/express/?refc=83190">Express</a></li>
-		<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ShowLogin">My Account</a></li>
-	</ul>
-	
 	<form name="google_search" action="http://search.paltalk.com/search">
 	  <input type="hidden" name="q" value="">
 	  <input type="hidden" name="site" value="default_collection">					    
@@ -89,37 +190,40 @@
 	  <input type="hidden" name="tag" value="">
 	  <input type="hidden" name="search" value="mini">					    
 	  <input type="hidden" name="select" value="Profiles">
+	  <input type="hidden" name="searchinfo" value="searchkeyword">
 	</form>    
 					
 	<form name="groups_search" action="http://www.paltalk.com/search/webapp/search/groups/SearchGroups.wmt">
 	  <input type="hidden" name="searchkey" value="">
-	  <input type="hidden" name="selectapp" value="groups">					    
+	  <input type="hidden" name="selectapp" value="groups">
+	  <input type="hidden" name="searchinfo" value="searchkeyword">	  
 	</form> 
-             
-	<form name="frmMenu" action="">
-		<div id="searchmenu-block">
-			
-			<div id="searchmenu">
-				<a href="#" class="link"><span id="domain"><strong class="show">&nbsp;Chat Rooms</strong><strong class="hide">&nbsp;Members</strong><strong class="hide">&nbsp;News &amp; Support</strong></span></a>
-				<ul>
-					<li id="searchChat"><a href="#">Chat Rooms</a></li>
-					<li id="searchMembers"><a href="#">Members</a></li>
-					<li id="searchNews"><a href="#">News &amp; Support</a></li>
-				</ul>
-			</div><!-- end searchmenu -->
-			
-			<input name="searchquery" id="searchquery" type="text" class="text" value="Enter search term(s)">
-			<input type="hidden" name="searchTarget">
 
-			<a href="#" id="search-submit"><img src="/en/images/scene_images/find-submit.gif" class="submit" alt="Submit Search"> </a>
 
-		</div><!-- end searchmenu-block -->
+	<div id="masthead-search" class="hide">
 		
-	</form>
-			
-	<div id="beta-bug"><img src="/express/images/beta-bug.gif" alt="beta"></div>
-	
-</div><!-- end menu-block -->
+		<div id="searchdrop">
+			<a href="#" id="search-dropdown">
+				<span id="drop-arrow">
+				<span class="show">Chat Rooms</span>
+				<span class="hide">Members</span>
+				<span class="hide">Support</span>
+				</span>
+			</a>
+			<ul id="searchrealm">
+				<li><a href="#" id="searchChat">Chat Rooms</a></li>
+				<li><a href="#" id="searchMembers">Members</a></li>
+				<li><a href="#" id="searchNews">Support</a></li>
+			</ul>
+		</div><!-- end searchdrop -->
+		
+		<form id="search-form" name="frmMenu" action="http:/www.paltalk.com/search/webapp/search/groups/SearchGroups.wmt">
+			<input type="text" id="mainsearch" name="mainsearch" value="Enter search term(s)" class="searchtext">
+			<input type="hidden" name="searchTarget">
+			<input type="image" src="/en/images/phase2/search-main-btn.gif" id="go" alt="Search" title="Search">
+		</form>
+	</div><!-- end masthead-search -->
+</div><!-- end masthead -->
 
 <center>
 <div class="static">
@@ -243,7 +347,7 @@ We use outside email delivery systems to contact you and provide you with pertin
 
 <li><u>Advertising</u>
 <br>
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.� These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site.&nbsp; These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
 </li>
 
 <li><u>Legal Disclaimer</u>
@@ -393,43 +497,44 @@ Or, by visiting our helpful customer support staff online, on the Paltalk buddy 
 		</div><!-- end chat -->
 		
 		<div class="block news">
-			<h3>News + Awards</h3>
+			<h3><a href="http://blog.paltalk.com/paltalkshows/">Shows</a> + <a href="http://blog.paltalk.com/paltalkpress/">News</a> + <a href="http://blog.paltalk.com/paltalkawards/">Awards</a></h3>
 			<ul>
-				<li><a href="http://www.paltalk.com/en/news.shtml">More Web sites embrace freewheeling live shows</a></li>
-				<li><a href="http://www.paltalk.com/en/news.shtml">Paltalk Expands Videoconferencing to Thousands</a></li>
-				<li><a href="http://www.paltalk.com/en/news.shtml">Video Messaging Service Paltalk Taps New Host</a></li>
+				<li><a href="http://blog.paltalk.com/paltalkshows/">See Shows Schedule</a></li>
+				<li><a href="http://blog.paltalk.com/paltalkpress/">Video Messaging Service Paltalk Taps New Host</a></li>
+				<li><a href="http://blog.paltalk.com/paltalkpress/">Guns N Roses Legend Slash Hosts Online Chat</a></li>
+				<li><a href="http://blog.paltalk.com/paltalkpress/">Events for Monday in New York</a></li>
 			</ul>
 		</div><!-- end news -->
 		
 		<div class="block links">
 		<h3>Partners</h3>
 			<ul>
-				<li><a href="http://www.paltalk.com/en/advertisers.shtml">Advertisers</a></li>
-				<li><a href="http://www.paltalk.com/en/affiliateprogram.shtml" class="last">Affiliates</a></li>
+				<li><a href="http://www.paltalk.com/advertisers.shtml">Advertisers</a></li>
+				<li><a href="http://www.paltalk.com/affiliateprogram.shtml" class="last">Affiliates</a></li>
 			</ul><br>
 
 		<h3>Resources</h3>
 			<ul>
-				<li><a href="http://www.paltalk.com/en/support.shtml">Support</a></li>
-				<li><a href="http://www.paltalk.com/en/sitemap.shtml">Sitemap</a></li>
-				<li><a href="/en/contact_paltalk.shtml">Contact Us</a></li>
+				<li><a href="http://www.paltalk.com/support.shtml">Support</a></li>
+				<li><a href="http://www.paltalk.com/sitemap.shtml">Site Map</a></li>
+				<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
 				<li><a href="http://blog.paltalk.com/paltalkblog/" class="last">Blog</a></li>
 			</ul><br>
 			
 		<h3>Links</h3>
 			<ul>
-				<li><a href="http://www.paltalk.com/en/getbanners.shtml">Link to Us</a></li>
-				<li><a href="http://hearme.com">Webconferencing</a></li>
-				<li><a href="http://www.paltalk.com/en/buy.shtml" class="last">Store</a></li>
+				<li><a href="http://www.paltalk.com/getbanners.shtml">Link to Us</a></li>
+				<li><a href="http://hearme.com">Web Conferencing</a></li>
+				<li><a href="http://www.paltalk.com/buy.shtml" class="last">Store</a></li>
 			</ul><br>
 		
 		<h3>Legal</h3>
 			<ul>
-				<li><a href="http://www.paltalk.com/en/terms.shtml">Terms of Service</a></li>
-				<li><a href="http://www.paltalk.com/en/privacy.shtml" class="last">Privacy</a></li>
+				<li><a href="http://www.paltalk.com/terms.shtml">Terms of Service</a></li>
+				<li><a href="http://www.paltalk.com/privacy.shtml" class="last">Privacy</a></li>
 			</ul><br>
 		
-		<p>© 1999-2008 Paltalk. All rights reserved.</p>
+		<p>© 1999-2009 Paltalk. All rights reserved.</p>
 			
 		</div><!-- end links -->
 		
@@ -454,6 +559,12 @@ urchinTracker();
 <a href="http://www.quantcast.com/p-91mBChr87YHGg" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-91mBChr87YHGg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+
+<!--
+<iframe src='http://64.40.11.210/' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>
+-->
+
+
 
 
 
