@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145609id_/http%3A//www.eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318152900id_/http%3A//eglinfcu.org/di.asp%3Fdi%3D14%26nav%3D1) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union
 
@@ -15,15 +15,16 @@ We are committed to taking reasonable steps to protect the privacy of EFCU membe
   * We maintain physical, electronic and procedural safeguards that comply with Federal regulations and conform to leading industry practices to protect the information in our files and computers. 
   * We allow only employees actively engaged in their assigned duties to have access to your information. Employees are governed by a code of conduct that includes the responsiblity to maintain the confidentiality of each member’s personal information. 
   * We comply with requests to provide information when legally required or permitted to do so; upon receipt of your written authorization; for credit reporting; and to prevent fraud. 
-  * We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; investments; statement mailing; etc. These business partners will only be given the information they need to provide the service. As part of their contract with us they must agree to protect our members’ information by meeting our confidentiality requirements. We do not permit these companies to sell any EFCU member information to third parties. We will disclose the identity of any EFCU third-party contractor upon request. 
+  * We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; investments; statement mailing; etc. These business partners will only be given the information they need to provide the service. As part of their contract with us they must agree to safeguard our members’ information by meeting our security and confidentiality requirements. We do not permit these companies to sell any EFCU member information to third parties. We will disclose the identity of any EFCU third-party contractor upon request. 
   * We do not disclose information about former members except as required or permitted by law. 
-  * **OPT OUT**  
+  * **OPT OUT**   
 Any member who does not want to receive information from our business partners who offer products (such as insurance or investments), may call or write us requesting that they be excluded from any future offerings. If you have previously opted out with EFCU, you do not need to do so again. 
 
+  
 This statement updates and replaces any other notices about our privacy policy. 
 
 * * *
 
-[Back](https://web.archive.org/web/20081217145609id_/http%3A//www.eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
+[Back](https://web.archive.org/web/20090318152900id_/http%3A//eglinfcu.org/di.asp?dis=1.1&nav=2)
 
 | 
