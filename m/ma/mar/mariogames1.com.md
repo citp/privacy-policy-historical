@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051754id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318140425id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 This is the web site of **mariogames1.com**.  
 **  
 ** We can be reached via e-mail at [mariogames1@gmail.com](mailto:)
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
+* Google, as a third party vendor, uses cookies to serve ads on our site.  
+* Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)  
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here up-to-date at March 13, 2009](https://www.google.com/adsense/support/bin/answer.py?answer=100557)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
