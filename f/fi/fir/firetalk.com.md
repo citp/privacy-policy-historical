@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220140033id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetalk.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318220204id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
