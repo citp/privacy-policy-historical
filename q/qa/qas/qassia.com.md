@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the qassia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165814id_/http%3A//admin.qassia.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qassia.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318020321id_/http%3A//admin.qassia.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - Qassia
 
 Find out more about Qassia by reading our [About Us](http://admin.qassia.com/about) page, if you haven't done so already. Or you could skip straight to the [Sign Up form](http://www.qassia.com/mama.pl?a=signup). 
 
-| Users|  **25,093**  
+| Users|  **27,509**  
 ---|---  
-Intel|  **36,804**  
-Sites|  **6,875**  
+Intel|  **38,644**  
+Sites|  **8,335**  
   
 
 
