@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152356id_/http%3A//www.simtel.net./privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318115005id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
@@ -8,7 +8,7 @@ HOT DOWNLOADS
 
 ADVERTISEMENT
 
-[](http://www.getsearchperks.com/?form=MEGASP&publ=digitalriver&crea=perks-scbanner-2_1x1)
+[](http://www.supportspace.com/support/marketing.s2?page=simtel.htm&aiu=dr&pc=simtel)
 
 | 
 
