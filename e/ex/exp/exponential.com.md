@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152844id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318072954id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Exponential®
 
@@ -36,7 +36,7 @@ We use technology which includes cookies and web beacons in the delivery of our 
 
 You may opt out of receiving Exponential cookies by clicking here 
 
-[](https://web.archive.org/web/20081218152844id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
+[](https://web.archive.org/web/20090318072954id_/http%3A//www.exponential.com/who-we-are/cookie-thankyou.jsp)
 
 You can also opt out of receiving cookies from Exponential and other NAI member companies by clicking here
 
