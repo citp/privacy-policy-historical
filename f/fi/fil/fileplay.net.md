@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileplay.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005345id_/http%3A//www.multiplay.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplay.net privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319053731id_/http%3A//www.multiplay.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Multiplay UK - The UKs # 1 LAN Organisers and home of the I-Series
 
@@ -18,15 +18,21 @@ My Account
 **Next Event**  
 Countdown to   
 i36 :  
-113 days,   
-08h 06m 16s  
+22 days,   
+03h 22m 29s  
   
   
   
 ---  
 **i36**  
 10 April 2009 - 13 April 2009  
-2000 people   
+1900 people   
+  
+  
+---  
+**StratLAN May 09**  
+08 May 2009 - 11 May 2009  
+106 people   
   
 [](http://www.123-reg.co.uk/affiliate.cgi?id=AF10876)
 
@@ -87,7 +93,7 @@ Any changes we make to our Privacy Policy in future will be posted on this page 
   
 |  | **Gaming  Stats**   
 ---|---  
-| Players|  : 2,403  
+| Players|  : 640  
 ---|---  
-Servers|  : 2,040  
-Slots|  : 33,550
+Servers|  : 2,818  
+Slots|  : 44,637
