@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passion.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011327id_/http%3A//passion.com/go/page/privacy.html%3Fsite%3Dffadult%26dcb%3Dpassion) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion.com privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319091704id_/http%3A//passion.com/go/page/privacy.html%3Fdcb%3Dpassion) for the most accurate reproduction.*
 
 # Passion.com PRIVACY POLICY
 
@@ -106,8 +106,8 @@ Top
   
 * * *
 
-[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=SECURE.ADULTFRIENDFINDER.COM&lang=en) |  Copyright © 1996-2008 Various, Inc. All rights reserved.  
+[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=SECURE.ADULTFRIENDFINDER.COM&lang=en) |  Copyright © 1996-2009 Various, Inc. All rights reserved.  
 Passion.com is a registered service mark of Various, Inc.  
 Disclaimer: This website contains adult material, all members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.   
-[Privacy Policy](http://passion.com/go/page/privacy.html?dcb=passion) | [Terms of Use](http://passion.com/go/page/terms_of_use.html?dcb=passion) | [2257 Notice](http://passion.com/go/page/2257_notice.html?dcb=passion) | [Protect Kids](http://passion.com/go/page/protect_kids.html?dcb=passion) | [Help / Contact](http://passion.com/p/help.cgi?dcb=passion) | [ Report Abuse or Sexually Explicit Ads](http://passion.com/go/page/abuse.html?dcb=passion&abuse_date_registered=&abuse_pwsid=&abuse_fromip=&abuse_status=&abuse_handle=&abuse_level=&abuse_pid=) |  *Note about Numbers  |  |  |   [Hide](http://passion.com/go/page/panic_page.html?dcb=passion)  
+[Privacy Policy](http://passion.com/go/page/privacy.html?dcb=passion) | [Terms of Use](http://passion.com/go/page/terms_of_use.html?dcb=passion) | [2257 Notice](http://passion.com/go/page/2257_notice.html?dcb=passion) | [Protect Kids](http://passion.com/go/page/protect_kids.html?dcb=passion) | [Help / Contact](http://passion.com/p/help.cgi?dcb=passion) | [ Report Abuse or Sexually Explicit Ads](http://passion.com/go/page/abuse.html?dcb=passion&abuse_date_registered=&abuse_pwsid=&abuse_fromip=&abuse_status=&abuse_handle=&abuse_level=&abuse_pid=) | *Note about Numbers  |  |  |   [Hide](http://passion.com/go/page/panic_page.html?dcb=passion)  
 ---|---|---|---|---
