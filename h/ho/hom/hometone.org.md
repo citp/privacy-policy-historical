@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometone.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070202id_/http%3A//www.hometone.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometone.org privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319050211id_/http%3A//www.hometone.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hometone: Contemporary Home Improvement trends
 
