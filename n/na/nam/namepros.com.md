@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130335id_/http%3A//www.namepros.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2009-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090320001632id_/http%3A//www.namepros.com/privacypolicy.php) for the most accurate reproduction.*
 
 # NamePros.Com NamePros.com - Privacy Policy
 
