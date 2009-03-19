@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050904id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319141112id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Helium
 
@@ -67,7 +67,7 @@
 **Links and Third Party Ads**
 
   * We may post links to other web sites as a service to you. These sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
-  * We may allow third party advertisers to post advertisements on our site. These third parties may place cookies on certain pages of our site. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies.
+  * We may allow third party advertisers to post advertisements on our site. These third parties may place cookies on certain pages of our site. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/). 
   * The advertising we display may be targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria — for example, men aged 30-40.
 
 
