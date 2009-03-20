@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y8mini.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021613id_/http%3A//www.y8mini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8mini.com privacy policy that was archived on 2009-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090320042458id_/http%3A//www.y8mini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Y8 Games - Y8 Flash Games,Y8 New Games,Y8 Online Games,Y8 Mini Games
 
@@ -102,4 +102,4 @@ The website contains links to other websites. We are not responsible for the pri
 
 **10\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the contact form [here](https://web.archive.org/web/20081216021613id_/http%3A//contact/).
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the contact form [here](https://web.archive.org/web/20090320042458id_/http%3A//contact/).
