@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216231314id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321025934id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
 
 # Hostelworld.com - Secure Online Bookings at Hostels Worldwide
 
