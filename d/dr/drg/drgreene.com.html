@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drgreene.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218155900id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drgreene.com privacy policy that was archived on 2009-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090321073202id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/JavaScript">
 <!--
@@ -90,7 +90,338 @@ var ord = axel * 1000000000000000000;
 		}
 			
 	</style>
-		<script>
+		
+            <script language="JavaScript" type="text/javascript">
+            <!--//
+                  var ns4 = (document.layers);
+                  var ie  = (document.all);
+                  var ie4 = (ie && !document.getElementById);
+                  var ie5 = (ie && document.getElementById);
+                  var ns6 = (!ie && document.getElementById);
+   
+						var aryMoused = new Array();
+						var aryLayerMoused = new Array();
+						var aryMoImages = new Array();
+						var imageList = new Array();
+						var runMouseOvers = true;
+						var TimerID = null;
+						var iLimit = 25;
+						var itmp = 0;
+						
+						var nbTime = 100;
+						var nbTimes = 2;
+						var nbThisLoc = 325;
+						var aryLayerNames = new Array();
+						var aryNavBarLayerInfo = new Array();
+						var aryNavBarLayers = new Array();
+						
+						var registeredObjects = new Array();
+						var viz = "hide";
+
+						function MOImage() {
+							var arg = MOImage.arguments;
+							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
+							this.imageMO = new Image();
+							this.imageMO.src = arg[1];
+							this.HTMLname = arg[0];
+							this.Moused = false;
+							this.OriginalSrc = '';
+							return true;
+						}
+						function BillzImagePreload() {
+						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
+							var arg = BillzImagePreload.arguments;
+							nbImagePreload(arg[0], arg[1], arg[2]);
+						}
+                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
+                  {
+                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
+							imageList[imageList.length] = imageKey;
+							if (!(aryMoImages[imageKey])) {
+								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
+							}
+                  }
+                  
+						function BillzMouseover() {
+							var arg = null;
+							if (runMouseOvers) {		
+								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+								nbMouseover(arg[0], arg[1], arg[2]);
+							}
+							return true;
+						}
+                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+                  function nbMouseover(img_name, orig_src, img_key)
+                  {
+							var imageKey = null;
+							var o = null;
+							if (runMouseOvers) 
+                     {				
+								imageKey = (img_key.length > 0) ? img_key : img_name;
+								if (!(aryMoImages[imageKey].ptrImage)) {
+									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
+								}
+								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
+                        {
+									aryMoImages[imageKey].OriginalSrc = orig_src;
+									aryMoImages[imageKey].Moused = true;
+									o.src = aryMoImages[imageKey].imageMO.src;
+								}
+							}
+							return true;
+                  }
+                  
+						var NavBarTempOnload = null;
+						if (window.onload && window.onload != null){
+							NavBarTempOnload = window.onload;
+						}
+						function FullyLoaded() {
+							if (NavBarTempOnload != null){
+								NavBarTempOnload();
+							}
+							runMouseOvers = true;
+							return true;
+						}
+						function BillzMouseOutTimer() {
+							return nbMouseOutTimer();
+						}
+                  function nbMouseOutTimer() 
+                  {
+							if (TimerID) {
+								clearTimeout(TimerID);
+							}
+							TimerID = setTimeout("nbLayerRestore()",5000);
+							return true;
+						}
+						function RestoreAll() {
+							nbMouseoverRestore();
+							nbLayerRestore();
+							return true;
+						}
+                  
+						function BillzMouseoverRestore() {
+							return nbMouseoverRestore();
+						}
+                  function nbMouseoverRestore() 
+                  {
+							var i = 0;
+							var o = null;
+							if (runMouseOvers) 
+                     {
+								for (i = 0; i < imageList.length; i++) 
+                        {
+									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
+                           {
+										o.src = aryMoImages[imageList[i]].OriginalSrc;
+										aryMoImages[imageList[i]].Moused = false;
+									}
+								}
+							}
+							return true;
+						}
+                  
+						function BillzLayerRestore() {
+							return nbLayerRestore();
+						}
+                  function nbLayerRestore() 
+                  {
+							var i = 0;
+							for (i = 0; i < aryLayerNames.length; i++) 
+                     {
+								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
+									BillzNavBarRestoreLayers(aryLayerNames[i]);
+								}
+							}
+							return true;
+						}
+
+						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
+							var pushIt = true;
+							var i = 0;
+							for (i = 0; i < aryArray.length && pushIt; i++) {
+								pushIt = (varNewElement != aryArray[i]);
+							}
+							if (pushIt) {
+								BillzArrayPush(aryArray, varNewElement);
+							}
+							return pushIt;
+						}
+						function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
+							aryArray[aryArray.length] = varNewElement;
+							return true;
+						}
+						function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
+							var varItemToPop = null;
+							if (aryArray[aryArray.length - 1]) {
+								varItemToPop = aryArray[aryArray.length - 1];
+								aryArray[aryArray.length] = null;
+							}
+							return varItemToPop;
+						}
+			                 
+                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+						function BillzNavBarMM_findObj(n, d) {
+						  	var p,i,x;
+						
+							if (registeredObjects[n]) {
+								return registeredObjects[n];
+							}
+							if (!(d)) {
+								d = document;
+							}
+                     try {
+                        p = n.indexOf("?");
+                     }
+                     catch(e) {
+                        p = 0;
+                     }
+							if (p > 0 && parent.frames.length) {
+								d = parent.frames[n.substring(p+1)].document;
+								n = n.substring(0,p);
+							}
+						  	if (!(x = d[n]) && d.all) {
+								x = d.all[n];
+							}
+							for (i = 0; !x && i < d.forms.length; i++) {
+								x = d.forms[i][n];
+							}
+						  	for (i=0; !x && d.layers && i < d.layers.length; i++) {
+								if (d.layers[i].id.indexOf("external_") == -1) {
+						  			x = BillzNavBarMM_findObj(n, d.layers[i].document);
+								}
+							}
+							registeredObjects[n] = x;
+						
+						 	return x;
+						}
+						function BillzArrayContains() {
+							var arg = BillzArrayContains.arguments;
+							var foundit = false;
+							var i = 0;
+							for (i = 0; i < arg[0].length && !foundit; i++) {
+								foundit = (arg[1] == arg[0][i]);
+							}
+							return foundit;
+						}
+						function NavBarRegisterLayer() {
+							var arg = NavBarRegisterLayer.arguments;
+							var n = arg[0];
+							var d = arg[1];
+							var mo = false;
+							var o = null;
+							if (arg[2] && arg[2] == 'MOutLayer') {
+								mo = true;
+							} else {
+								mo = false;
+							}
+							if (!(BillzArrayContains(aryLayerNames, n))) {
+								if (o = BillzNavBarMM_findObj(n)) {
+									aryNavBarLayers[n] = o;
+									BillzArrayPushUnique(aryLayerNames, n);
+									aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
+								}
+							}
+							return true;
+						}
+						function BillzNavBarMM_showHideLayers() {
+						//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
+							var i = 0;
+							var x = "";
+							var obj = null;
+							var v = null;
+							var p = null;
+							var args = BillzNavBarMM_showHideLayers.arguments;
+
+							if (args[args.length - 1] != "menu") {
+								nbMouseOutTimer();
+							}
+						  	for (i = 0; i < (args.length - 2); i += 3) {
+								if (!aryNavBarLayers[args[i]]) {
+									x = (args[i + 2] == 'show') ? 'hide' : 'show';
+									NavBarRegisterLayer(args[i], x);
+								}
+						  		if ((obj = aryNavBarLayers[args[i]]) != null) {
+									v = args[i + 2];
+									aryNavBarLayerInfo[args[i]].isDefault = false;
+						  			if (args[args.length - 1] == "restore") {
+										v = (v == 'show') ? 'hide' : 'show';
+									}
+									if (obj.style) {
+										obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+									} else {
+										obj.visibility = v;
+									}
+								}
+							}
+							return true;
+						}
+                  
+						function BillzNavBarRestoreLayers() {
+							var i = 0;
+							var x = "";
+							var obj = null;
+							var v = null;
+							var p = null;
+							var args = BillzNavBarRestoreLayers.arguments;
+						  	for (i = 0; i < (args.length); i++) {
+						  		if (obj = aryNavBarLayers[args[i]]) {
+									v = aryNavBarLayerInfo[args[i]].defaultVisibility;
+									if (obj.style) {
+										obj = obj.style;
+										v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+									}
+									obj.visibility = v;
+									if (!aryNavBarLayerInfo[args[i]].MOutLayer) {
+										aryNavBarLayerInfo[args[i]].isDefault = true;
+									}
+								}
+							}
+							return true;
+						}
+						function NavBarLayer() {
+							var arg = NavBarLayer.arguments;
+							this.defaultVisibility = arg[1];
+							this.isDefault = true;
+							this.MOutLayer = arg[2];
+							return true;
+						}
+						function BillzNavMove() {
+							return nbNavMove();
+						}
+                  function nbNavMove() 
+                  {
+							var thisl = null;
+							var otherl = null;
+							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
+                     {
+								if (thisl.style) {
+									thisl = thisl.style;
+									viz = "hidden";
+								} 
+								thisl.top = nbThisLoc -= 3;
+								if (nbThisLoc < -750) {
+									nbThisLoc = 325;
+									nbTimes--;
+								}
+							}
+							if (nbTimes <= 0) 
+                     {
+								otherl = BillzNavBarMM_findObj("BillzLayer");
+								otherl.visibility = viz;
+							} else {
+								setTimeout("nbNavMove()", nbTime);
+							}
+							
+							return true;
+						}
+						function NavBar_openadmin() {
+							window.open('admin/', 'SiteAdmin', 'height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
+							return true;
+						}
+						window.onload = FullyLoaded;
+					//-->
+				</script>
+				<script>
 var wiCountVer13="38383130317c6472677265656e652e636f6d7c6472677265656e652e6f72677c6d656469776972652e636f6d7c626c6f67732e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[2].toLowerCase():"";}else return host;}function wiIsLocalURL(url){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return wiU(wiCountVer13.substr(10)).indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookieTo(n){document.cookie="wi="+n+"; path=/; domain="+wiSLD(location.host);}function wiU(a){return unescape(a.replace(/(([\da-f]{2})|(u[\da-f]{4}))/g,'%$1'));}function wiUK(str){var x=0;for(var i=0;i<str.length;i++)x=((x+str.charCodeAt(i))*16807)%2147483647;return x+'';}function wiCountNoReloadEntry(){if(wiIsLocalURL(location.href)){var Cookie=document.cookie;var Referrer=document.referrer;var noCookie=Cookie.search(/\bwi=\d+\b/)==-1;if(wiIsLocalURL(Referrer)){if(noCookie)wiSetCookieTo('1');}else if(Referrer!=''||noCookie){var pg=escape(location.href);var ref=escape(Referrer);var UkPgRef=wiUK(pg+ref);var RePgRef=new RegExp('\\bwi='+UkPgRef+'\\b');if(Cookie.search(RePgRef)==-1){wiSetCookieTo(UkPgRef);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer13.substr(0,10))+"&ref="+ref;if(location.protocol=='http:'){pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}}}}}wiCountNoReloadEntry();
 </script><script>
 var wiCountVer13="38383130317c6472677265656e652e636f6d7c6472677265656e652e6f72677c6d656469776972652e636f6d7c626c6f67732e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[2].toLowerCase():"";}else return host;}function wiIsLocalURL(url){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return wiU(wiCountVer13.substr(10)).indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookieTo(n){document.cookie="wi="+n+"; path=/; domain="+wiSLD(location.host);}function wiU(a){return unescape(a.replace(/(([\da-f]{2})|(u[\da-f]{4}))/g,'%$1'));}function wiUK(str){var x=0;for(var i=0;i<str.length;i++)x=((x+str.charCodeAt(i))*16807)%2147483647;return x+'';}function wiCountNoReloadEntry(){if(wiIsLocalURL(location.href)){var Cookie=document.cookie;var Referrer=document.referrer;var noCookie=Cookie.search(/\bwi=\d+\b/)==-1;if(wiIsLocalURL(Referrer)){if(noCookie)wiSetCookieTo('1');}else if(Referrer!=''||noCookie){var pg=escape(location.href);var ref=escape(Referrer);var UkPgRef=wiUK(pg+ref);var RePgRef=new RegExp('\\bwi='+UkPgRef+'\\b');if(Cookie.search(RePgRef)==-1){wiSetCookieTo(UkPgRef);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer13.substr(0,10))+"&ref="+ref;if(location.protocol=='http:'){pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}}}}}wiCountNoReloadEntry();
@@ -125,6 +456,7 @@ var wiCountVer13="38383130317c6472677265656e652e636f6d7c6472677265656e652e6f7267
 	
 
   <body onload="MM_preloadImages('http://www.drgreene.org/images/images_2007/btn_home_on.gif')">
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qoptions = { labels:"Moms and Family" };_qacct="p-43z6ciBi5Ny12";quantserve();</script><noscript><a href="http://www.quantcast.com/p-43z6ciBi5Ny12" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-43z6ciBi5Ny12.gif?labels=Moms and Family" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <table bgcolor="FFFFFF" align="center" width="100" border="0" cellpadding="0" cellspacing="0" style="border-left: 1px solid ADC96F; border-right: 1px solid ADC96F; background-image:url(http://www.drgreene.org/images/images_2007/content_circlebkgrd_home.jpg); background-repeat: no-repeat; background-position: top left;">
   <tbody><tr> 
     <td width="100%" valign="top" style="background-image:url(http://www.drgreene.org/images/images_2007/headertile_body.gif); background-repeat: repeat; background-position: bottom left;"> 
@@ -143,19 +475,23 @@ var wiCountVer13="38383130317c6472677265656e652e636f6d7c6472677265656e652e6f7267
           <td width="100%" valign="top" style="height:76px;"> 
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                                <td width="100%" height="103" valign="bottom" align="right"><br><!-- VC active -->
+                                <td width="100%" height="103" valign="bottom" align="right">
+<!-- Begin DrGreene/Home 728x90 - Above the Fold - Hardcoded Ad Tag--><br>
 <script type="text/javascript">
 //<![CDATA[
 ord = window.ord || Math.floor(Math.random()*1E16);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/home;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=469199257669744800?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- vc active --></td> 
-                                <td width="0%"><a href="http://www.drgreene.com/555789.html" target="_self"><img src="http://www.drgreene.org/images/images_2007/advertisment.gif" alt="Advertisment" border="0"></a></td>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/home;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=420557912511996900?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/npm.drgreene/home;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.drgreene/home;kw=[placeholder];gen=f;age=2;pos=atf;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<br><a target="_blank" href="http://www.naturalpathmedia.com"></a>
+<!-- End Ad Tag --> 
+
+</td> 
+                                <td width="0%"><a href="http://www.drgreene.com/555882.html" target="_self"><img src="http://www.drgreene.org/images/images_2007/advertisment.gif" alt="Advertisment" border="0"></a></td>
               </tr>
 			  <tr>
-                <td width="100%" valign="top" align="left"><a href="http://www.drgreene.com/homepage.html"><img src="http://www.drgreene.org/images/images_2007/logo_body.gif" alt="drgreene.com Home" border="0"></a></td>
+                <td width="100%" valign="top" align="left"><a href="http://www.drgreene.com"><img src="http://www.drgreene.org/images/images_2007/logo_body.gif" alt="drgreene.com Home" border="0"></a></td>
               </tr>
             </tbody></table>
           </td>
@@ -170,7 +506,8 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 
 
 		<script type="text/javascript">
-		<!--//
+		//<!--
+		
 		
 	function findPosY(obj)
 	{
@@ -197,7 +534,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	var DHTMLTimerID=null;
 	//DHTMLiLimit=25;
 	var itmp=0;
-
+	
 	function DHTMLMOImage()
 	{
 		var a = DHTMLMOImage.arguments;
@@ -208,7 +545,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		this.Moused = false;
 		this.OriginalSrc = '';
 	}
-
+	
 	// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image)
 	function DHTMLNavBarImagePreload()
 	{
@@ -219,7 +556,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			aryDHTMLMoImages[imageKey] = new DHTMLMOImage(arg[0],arg[1]);
 		}
 	}
-
+	
 	function DHTMLNavBarMouseover()
 	{
 		var a = null;
@@ -241,28 +578,28 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	var DHTMLNavBarTemponload = null;
 	if (window.onload && window.onload != null){
 		DHTMLNavBarTemponload = window.onload;
 	}
-
+	
 	function DHTMLFullyLoaded()
 	{
 		if (DHTMLNavBarTemponload != null) {
 			DHTMLNavBarTemponload();
 		}
-	
+			
 		DHTMLrunMouseOvers = true;
 		return true;
 	}
-
+	
 	function DHTMLNavBarMouseOutTimer()
 	{
 		if(DHTMLTimerID) { clearTimeout(DHTMLTimerID); }
 		DHTMLTimerID = setTimeout("DHTMLNavBarLayerRestore()",5000);
 	}
-
+	
 	function DTHMLRestoreParent(layername)
 	{
 		for(var i=0;i < aryDHTMLLayerNames.length;i++)
@@ -276,13 +613,13 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTMLRestoreAll()
 	{
 		DHTMLNavBarMouseoverRestore();
 		DHTMLNavBarLayerRestore();
 	}
-
+	
 	function DHTMLNavBarMouseoverRestore()
 	{
 		var i = 0;
@@ -299,7 +636,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		return true;
 	}
-
+	
 	function DHTMLNavBarLayerRestore()
 	{
 		for(var i=0;i < aryDHTMLLayerNames.length;i++)
@@ -309,7 +646,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTMLNavBarArrayPushUnique(aryArray, varNewElement)
 	{
 		//only pushes if unique value
@@ -322,13 +659,13 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		return pushIt;
 	}
-
+	
 	function DHTMLNavBarArrayPush(aryArray, varNewElement)
 	{
 		//Implement Array Push 'cause IE cant handle it
 		aryArray[aryArray.length]=varNewElement;
 	}
-
+	
 	function DHTMLNavBarArrayPop(aryArray)
 	{
 		//Implement Array Pop 'cause IE cant handle it before 5.5
@@ -339,15 +676,15 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		return varItemToPop;
 	}
-
+	
 	var registeredObjects = new Array();
 	//v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
 	function DHTMLNavBarMM_findObj(n, d)
 	{
-	
+		
 		x = document.getElementById(n);
 		return x;
-		
+			
 	}
 
 	var DHTMLNavBarTime         = 100;
@@ -357,7 +694,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	var aryDHTMLLayerNames      = new Array();
 	var aryDHTMLNavBarLayerInfo = new Array();
 	var aryDHTMLNavBarLayers    = new Array();
-
+	
 	function DHTMLNavBarArrayContains()
 	{
 		var a = DHTMLNavBarArrayContains.arguments;
@@ -367,7 +704,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		return foundit;
 	}
-
+	
 	function DHTMLNavBarRegisterLayer()
 	{
 		var a = DHTMLNavBarRegisterLayer.arguments;
@@ -389,7 +726,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	// v3.0 name changed, this function complements of MM Dreamweaver with customizations
 	function DHTMLNavBarMM_showHideLayers()
 	{
@@ -416,7 +753,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	// v3.0 name changed, this function complements of MM Dreamweaver with customizations
 	function DHTMLNavBarMM_showHideGrandLayers()
 	{
@@ -443,7 +780,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTMLNavBarRestoreLayers()
 	{
 	  	var i,p,v,obj,args = DHTMLNavBarRestoreLayers.arguments;
@@ -467,7 +804,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTMLNavBarLayer()
 	{
 		var a = DHTMLNavBarLayer.arguments;
@@ -475,7 +812,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		this.isDefault = true;
 		this.MOutLayer = a[2];
 	}
-
+	
 	var viz = "hide";
 	function DHTMLNavBarNavMove()
 	{
@@ -501,7 +838,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		else setTimeout("DHTMLNavBarNavMove()",DHTMLNavBarTime);
 	}
-
+	
 	function DHTML_swapImgRestore()
 	{ //v3.0
 	  	var i,x,a=document.Sliding_sr;
@@ -509,7 +846,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			x.src=x.oSrc;
 		}
 	}
-
+	
 	function DHTML_preloadImages()
 	{ //v3.0
 	  	var d=document;
@@ -529,7 +866,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTML_findObj(n, d)
 	{ //v4.01
 	  	var p,i,x;
@@ -553,7 +890,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 		return x;
 	}
-
+	
 	function DHTML_swapImage()
 	{ //v3.0
 		var i,j=0,x,a=DHTML_swapImage.arguments;
@@ -570,7 +907,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			}
 		}
 	}
-
+	
 	function DHTMLNavBarSwapRollover(swapimage,defaultimage,imageID)
 	{
 		if(imageID.length > 0 && document.getElementById(imageID))
@@ -583,10 +920,11 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		}
 	}
 	window.onload = DHTMLFullyLoaded;
-	
+		
+		
 		// -->
 		</script>
-	
+		
 			<div id="lryParentmain555785" class="Parentmain1" onmouseover="DHTMLRestoreAll();;DHTMLNavBarMM_showHideLayers('lyr555785','','show','menu');">
 			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
 				<tbody><tr id="pRow555785" style="vertical-align: top; background-color: transparent;">
@@ -742,74 +1080,68 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 						
 						<tr id="cRow555786_14" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_14"><a href="http://www.drgreene.com/54_18.html" target="" class="clSubb1">Infectuous Diseases</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_14"><a href="http://www.drgreene.com/54_38.html" target="" class="clSubb1">Medical Treatment</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_15" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_15"><a href="http://www.drgreene.com/54_38.html" target="" class="clSubb1">Medical Treatment</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_15"><a href="http://www.drgreene.com/54_37.html" target="" class="clSubb1">Mental Health</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_16" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_16"><a href="http://www.drgreene.com/54_37.html" target="" class="clSubb1">Mental Health</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_16"><a href="http://www.drgreene.com/54_14.html" target="" class="clSubb1">Nutrition for the Whole Family</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_17" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_17"><a href="http://www.drgreene.com/54_14.html" target="" class="clSubb1">Nutrition for the Whole Family</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_17"><a href="http://www.drgreene.com/54_43.html" target="" class="clSubb1">Nutrition for Babies &amp; Infants</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_18" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_18"><a href="http://www.drgreene.com/54_43.html" target="" class="clSubb1">Nutrition for Babies &amp; Infants</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_18"><a href="http://www.drgreene.com/54_42.html" target="" class="clSubb1">Nutrition for Expectant Mothers</a></td>
 							
 						</tr>
 						</tbody></table></td><td valign="top" class="ChildDivider">&nbsp;</td><td valign="top">&nbsp;</td><td valign="top"><table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
 						
 						<tbody><tr id="cRow555786_19" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_19"><a href="http://www.drgreene.com/54_42.html" target="" class="clSubb1">Nutrition for Expectant Mothers</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_19"><a href="http://www.drgreene.com/54_44.html" target="" class="clSubb1">Organics</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_20" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_20"><a href="http://www.drgreene.com/54_44.html" target="" class="clSubb1">Organics</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_20"><a href="http://www.drgreene.com/54_19.html" target="" class="clSubb1">Potty Training</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_21" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_21"><a href="http://www.drgreene.com/54_19.html" target="" class="clSubb1">Potty Training</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_21"><a href="http://www.drgreene.com/54_21.html" target="" class="clSubb1">Rashes</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_22" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_22"><a href="http://www.drgreene.com/54_21.html" target="" class="clSubb1">Rashes</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_22"><a href="http://www.drgreene.com/54_22.html" target="" class="clSubb1">Safety</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_23" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_23"><a href="http://www.drgreene.com/54_22.html" target="" class="clSubb1">Safety</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_23"><a href="http://www.drgreene.com/54_23.html" target="" class="clSubb1">Sleep</a></td>
 							
 						</tr>
 						
 						<tr id="cRow555786_24" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_24"><a href="http://www.drgreene.com/54_23.html" target="" class="clSubb1">Sleep</a></td>
-							
-						</tr>
-						
-						<tr id="cRow555786_25" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						
-								<td valign="top" class="ChildNav1" style="" id="cLink555786_25"><a href="http://www.drgreene.com/54_46.html" target="" class="clSubb1">Vitamins</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555786_24"><a href="http://www.drgreene.com/54_46.html" target="" class="clSubb1">Vitamins</a></td>
 							
 						</tr>
 						</tbody></table></td></tr>
@@ -817,7 +1149,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 					
 					<!--[if lte IE 6.5]>
 					<div id="endTablelyr555786" style="height:1px;overflow:hidden;"></div>
-					<iframe id="Framelyr555786" frameborder="1" style="background-color:transparent; filter: mask(); left:0px; position:absolute;top:0px;width:100%;height:375;z-index:-1;"></iframe>				
+					<iframe id="Framelyr555786" frameborder="1" style="background-color:transparent; filter: mask(); left:0px; position:absolute;top:0px;width:100%;height:360;z-index:-1;"></iframe>				
 					<![endif]-->
 					</div>
 					
@@ -905,7 +1237,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 						
 						<tbody><tr id="cRow555788_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
 						
-								<td valign="top" class="ChildNav1" style="" id="cLink555788_1"><a href="http://www.drgreene.org/body.cfm?id=555714" target="" class="clSubb1">Pregnancy Newsletter - Signup Now!</a></td>
+								<td valign="top" class="ChildNav1" style="" id="cLink555788_1"><a href="http://www.drgreene.com/35.html" target="" class="clSubb1">Pregnancy Newsletter - Signup Now!</a></td>
 							
 						</tr>
 						
@@ -1110,7 +1442,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
 				<tbody><tr id="pRow555868" style="vertical-align: top; background-color: transparent;">
 			
-					<td valign="top" style="" id="pLink555868"><a href="http://www.drgreene.com/36.html" target="" class="clMain1">Store</a></td>
+					<td valign="top" style="" id="pLink555868"><a href="http://blogs.drgreene.com/parentpicks/" target="" class="clMain1">Store</a></td>
 			
 				</tr>
 			
@@ -1257,6 +1589,8 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
                 <td width="0%" valign="top" id="navigation-left">
+				
+			
 			<script type="text/javascript">
 			//<!--
 			
@@ -1329,7 +1663,6 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			window.onload = initsliding1;
 			//-->
 			</script>
-		
 			<table class="mainCont1" cellspacing="0">
 		
 					<tbody><tr class="clTop1" id="pLinkTR_555863_1">
@@ -1347,12 +1680,6 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 					<tr class="clTop1" id="pLinkTR_555860_1">
 				
 						<td class="clTop1" id="pLinkTD_555860_1"><a href="http://www.askanswerlearn.com" class="clMain1"><img src="http://www.drgreene.org/images/images_2007/btn_askanswerlearn.gif" alt="Ask, Answer, Learn" border="0" name="pButton_555860_1" id="pButton_555860_1" onmouseover="slidingTbl_swapImage('pButton_555860_1','','http://www.drgreene.org/images/images_2007/btn_askanswerlearn_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()"></a></td>
-				
-					</tr>
-				
-					<tr class="clTop1" id="pLinkTR_555857_1">
-				
-						<td class="clTop1" id="pLinkTD_555857_1"><a href="http://www.drgreene.org/body.cfm?id=555714" class="clMain1"><img src="http://www.drgreene.org/images/images_2007/btn_newsletters.gif" alt="Pregnancy Newsletters" border="0" name="pButton_555857_1" id="pButton_555857_1" onmouseover="slidingTbl_swapImage('pButton_555857_1','','http://www.drgreene.org/images/images_2007/btn_newsletters_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()"></a></td>
 				
 					</tr>
 				
@@ -1705,14 +2032,14 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 ord = window.ord || Math.floor(Math.random()*1E16);
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;col=r;tile=2;sz=300x250;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;col=r;tile=2;sz=300x250;ord=469199257669744800?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;col=r;tile=2;sz=300x250;ord=420557912511996900?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;col=r;tile=2;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.drgreene/;kw=[placeholder];gen=f;age=2;pos=atf;col=r;tile=2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
 <br>
                                </td>
                                 </tr>
 		<tr>
 		     <td style="text-align:center;"> 
-<a href="javascript:SM1_BannerClick()" onmouseover="return SM1_BannerWindowStatus();" onmouseout="window.status='';SM1_MO=false;"><img src="http://www.drgreene.org/images/banner_vitamins_300-x-161.jpg" name="Main" width="300" height="161" border="0" alt=""></a>
+<a href="javascript:SM1_BannerClick()" onmouseover="return SM1_BannerWindowStatus();" onmouseout="window.status='';SM1_MO=false;"><img src="http://www.drgreene.org/images/banner_Perspectives.jpg" name="Main" width="300" height="161" border="0" alt=""></a>
 		<script language="JavaScript" type="text/javascript"> <!--
 			SM1_MO=false;
 			SM1_Timer = null;
@@ -1733,8 +2060,8 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			
 				SM1_BannerItems[0] = new Array();
 				SM1_BannerItems[0][0]=new Image();
-				SM1_BannerItems[0][0].src='http://www.drgreene.org/images/banner_vitamins_300-x-161.jpg';
-				SM1_BannerItems[0][1]='http://www.twinlabdrgreene.com/wcm/mb/drgreene/en/content/where_to_buy_dr_greene_products/index.jsp';
+				SM1_BannerItems[0][0].src='http://www.drgreene.org/images/banner_Perspectives.jpg';
+				SM1_BannerItems[0][1]='http://blogs.drgreene.com/perspectives/';
 				SM1_BannerItems[0][2]='parent._blank.';
 			
 				
@@ -1744,13 +2071,15 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 					
 					
 					
+						
+					
 				
 			
 				SM1_BannerItems[1] = new Array();
 				SM1_BannerItems[1][0]=new Image();
-				SM1_BannerItems[1][0].src='http://www.drgreene.org/images/banner_yourfamilymemories.jpg';
-				SM1_BannerItems[1][1]='http://www.drgreene.com/555608.html';
-				SM1_BannerItems[1][2]='';
+				SM1_BannerItems[1][0].src='http://www.drgreene.org/images/banner_wikipedia3.jpg';
+				SM1_BannerItems[1][1]='http://wiki.drgreene.com/index.php/Special:Allpages';
+				SM1_BannerItems[1][2]='parent._blank.';
 			
 				
 				
@@ -1765,8 +2094,8 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			
 				SM1_BannerItems[2] = new Array();
 				SM1_BannerItems[2][0]=new Image();
-				SM1_BannerItems[2][0].src='http://www.drgreene.org/images/banner_supportingparents.jpg';
-				SM1_BannerItems[2][1]='http://www.drgreene.com/555577.html';
+				SM1_BannerItems[2][0].src='http://www.drgreene.org/images/banner_BabyNameFinder.jpg';
+				SM1_BannerItems[2][1]='http://bnf.drgreene.com/';
 				SM1_BannerItems[2][2]='parent._blank.';
 			
 			
@@ -2369,354 +2698,6 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
               
 	<!-- Begin NavBar Output  -  Version:  v0.79a 09/30/2006  -->
 	
-         		
-            <script language="JavaScript" type="text/javascript">
-            <!--//
-                  var ns4 = (document.layers);
-                  var ie  = (document.all);
-                  var ie4 = (ie && !document.getElementById);
-                  var ie5 = (ie && document.getElementById);
-                  var ns6 = (!ie && document.getElementById);
-   
-						var aryMoused = new Array();
-						var aryLayerMoused = new Array();
-						var aryMoImages = new Array();
-						var imageList = new Array();
-						var runMouseOvers = true;
-						var TimerID = null;
-						var iLimit = 25;
-						var itmp = 0;
-						
-						var nbTime = 100;
-						var nbTimes = 2;
-						var nbThisLoc = 325;
-						var aryLayerNames = new Array();
-						var aryNavBarLayerInfo = new Array();
-						var aryNavBarLayers = new Array();
-						
-						var registeredObjects = new Array();
-						var viz = "hide";
-
-						function MOImage() {
-							var arg = MOImage.arguments;
-							this.ptrImage = BillzNavBarMM_findObj(arg[0]);
-							this.imageMO = new Image();
-							this.imageMO.src = arg[1];
-							this.HTMLname = arg[0];
-							this.Moused = false;
-							this.OriginalSrc = '';
-							return true;
-						}
-						function BillzImagePreload() {
-						// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
-							var arg = BillzImagePreload.arguments;
-							nbImagePreload(arg[0], arg[1], arg[2]);
-						}
-                  function nbImagePreload(img_name, mo_img_src, rollover_key_img_name)
-                  {
-                     var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
-							imageList[imageList.length] = imageKey;
-							if (!(aryMoImages[imageKey])) {
-								aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
-							}
-                  }
-                  
-						function BillzMouseover() {
-							var arg = null;
-							if (runMouseOvers) {		
-								arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
-								nbMouseover(arg[0], arg[1], arg[2]);
-							}
-							return true;
-						}
-                  // args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
-                  function nbMouseover(img_name, orig_src, img_key)
-                  {
-							var imageKey = null;
-							var o = null;
-							if (runMouseOvers) 
-                     {				
-								imageKey = (img_key.length > 0) ? img_key : img_name;
-								if (!(aryMoImages[imageKey].ptrImage)) {
-									aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);
-								}
-								if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) 
-                        {
-									aryMoImages[imageKey].OriginalSrc = orig_src;
-									aryMoImages[imageKey].Moused = true;
-									o.src = aryMoImages[imageKey].imageMO.src;
-								}
-							}
-							return true;
-                  }
-                  
-						var NavBarTempOnload = null;
-						if (window.onload && window.onload != null){
-							NavBarTempOnload = window.onload;
-						}
-						function FullyLoaded() {
-							if (NavBarTempOnload != null){
-								NavBarTempOnload();
-							}
-							runMouseOvers = true;
-							return true;
-						}
-						function BillzMouseOutTimer() {
-							return nbMouseOutTimer();
-						}
-                  function nbMouseOutTimer() 
-                  {
-							if (TimerID) {
-								clearTimeout(TimerID);
-							}
-							TimerID = setTimeout("nbLayerRestore()",5000);
-							return true;
-						}
-						function RestoreAll() {
-							nbMouseoverRestore();
-							nbLayerRestore();
-							return true;
-						}
-                  
-						function BillzMouseoverRestore() {
-							return nbMouseoverRestore();
-						}
-                  function nbMouseoverRestore() 
-                  {
-							var i = 0;
-							var o = null;
-							if (runMouseOvers) 
-                     {
-								for (i = 0; i < imageList.length; i++) 
-                        {
-									if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) 
-                           {
-										o.src = aryMoImages[imageList[i]].OriginalSrc;
-										aryMoImages[imageList[i]].Moused = false;
-									}
-								}
-							}
-							return true;
-						}
-                  
-						function BillzLayerRestore() {
-							return nbLayerRestore();
-						}
-                  function nbLayerRestore() 
-                  {
-							var i = 0;
-							for (i = 0; i < aryLayerNames.length; i++) 
-                     {
-								if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) {
-									BillzNavBarRestoreLayers(aryLayerNames[i]);
-								}
-							}
-							return true;
-						}
-                  
-                  
-						function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
-							var pushIt = true;
-							var i = 0;
-							for (i = 0; i < aryArray.length && pushIt; i++) {
-								pushIt = (varNewElement != aryArray[i]);
-							}
-							if (pushIt) {
-								BillzArrayPush(aryArray, varNewElement);
-							}
-							return pushIt;
-						}
-						function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
-							aryArray[aryArray.length] = varNewElement;
-							return true;
-						}
-						function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
-							var varItemToPop = null;
-							if (aryArray[aryArray.length - 1]) {
-								varItemToPop = aryArray[aryArray.length - 1];
-								aryArray[aryArray.length] = null;
-							}
-							return varItemToPop;
-						}
-                  
-                  //Heikoz "just get me the freakin' div object handle" function
-                  function getDivRef(id)
-                  {
-                     var divref;
-                  	if(ns4)
-                  		divref = document.layers[id];
-                  	else if(ie4)
-                  		divref = document.all[id];
-                  	else if(ie5 || ns6)  // remaining cases
-                  		divref = document.getElementById(id);
-                  
-                  	return divref;
-                  }
-   
-                  //v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
-						function BillzNavBarMM_findObj(n, d) {
-						  	var p,i,x;
-						
-							if (registeredObjects[n]) {
-								return registeredObjects[n];
-							}
-							if (!(d)) {
-								d = document;
-							}
-                     try {
-                        p = n.indexOf("?");
-                     }
-                     catch(e) {
-                        p = 0;
-                     }
-							if (p > 0 && parent.frames.length) {
-								d = parent.frames[n.substring(p+1)].document;
-								n = n.substring(0,p);
-							}
-						  	if (!(x = d[n]) && d.all) {
-								x = d.all[n];
-							}
-							for (i = 0; !x && i < d.forms.length; i++) {
-								x = d.forms[i][n];
-							}
-						  	for (i=0; !x && d.layers && i < d.layers.length; i++) {
-								if (d.layers[i].id.indexOf("external_") == -1) {
-						  			x = BillzNavBarMM_findObj(n, d.layers[i].document);
-								}
-							}
-							registeredObjects[n] = x;
-						
-						 	return x;
-						}
-						function BillzArrayContains() {
-							var arg = BillzArrayContains.arguments;
-							var foundit = false;
-							var i = 0;
-							for (i = 0; i < arg[0].length && !foundit; i++) {
-								foundit = (arg[1] == arg[0][i]);
-							}
-							return foundit;
-						}
-						function NavBarRegisterLayer() {
-							var arg = NavBarRegisterLayer.arguments;
-							var n = arg[0];
-							var d = arg[1];
-							var mo = false;
-							var o = null;
-							if (arg[2] && arg[2] == 'MOutLayer') {
-								mo = true;
-							} else {
-								mo = false;
-							}
-							if (!(BillzArrayContains(aryLayerNames, n))) {
-								if (o = BillzNavBarMM_findObj(n)) {
-									aryNavBarLayers[n] = o;
-									BillzArrayPushUnique(aryLayerNames, n);
-									aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
-								}
-							}
-							return true;
-						}
-						function BillzNavBarMM_showHideLayers() {
-						//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
-							var i = 0;
-							var x = "";
-							var obj = null;
-							var v = null;
-							var p = null;
-							var args = BillzNavBarMM_showHideLayers.arguments;
-
-							if (args[args.length - 1] != "menu") {
-								nbMouseOutTimer();
-							}
-						  	for (i = 0; i < (args.length - 2); i += 3) {
-								if (!aryNavBarLayers[args[i]]) {
-									x = (args[i + 2] == 'show') ? 'hide' : 'show';
-									NavBarRegisterLayer(args[i], x);
-								}
-						  		if ((obj = aryNavBarLayers[args[i]]) != null) {
-									v = args[i + 2];
-									aryNavBarLayerInfo[args[i]].isDefault = false;
-						  			if (args[args.length - 1] == "restore") {
-										v = (v == 'show') ? 'hide' : 'show';
-									}
-									if (obj.style) {
-										obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-									} else {
-										obj.visibility = v;
-									}
-								}
-							}
-							return true;
-						}
-                  
-						function BillzNavBarRestoreLayers() {
-							var i = 0;
-							var x = "";
-							var obj = null;
-							var v = null;
-							var p = null;
-							var args = BillzNavBarRestoreLayers.arguments;
-						  	for (i = 0; i < (args.length); i++) {
-						  		if (obj = aryNavBarLayers[args[i]]) {
-									v = aryNavBarLayerInfo[args[i]].defaultVisibility;
-									if (obj.style) {
-										obj = obj.style;
-										v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-									}
-									obj.visibility = v;
-									if (!aryNavBarLayerInfo[args[i]].MOutLayer) {
-										aryNavBarLayerInfo[args[i]].isDefault = true;
-									}
-								}
-							}
-							return true;
-						}
-						function NavBarLayer() {
-							var arg = NavBarLayer.arguments;
-							this.defaultVisibility = arg[1];
-							this.isDefault = true;
-							this.MOutLayer = arg[2];
-							return true;
-						}
-						function BillzNavMove() {
-							return nbNavMove();
-						}
-                  function nbNavMove() 
-                  {
-							var thisl = null;
-							var otherl = null;
-							if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) 
-                     {
-								if (thisl.style) {
-									thisl = thisl.style;
-									viz = "hidden";
-								} 
-								thisl.top = nbThisLoc -= 3;
-								if (nbThisLoc < -750) {
-									nbThisLoc = 325;
-									nbTimes--;
-								}
-							}
-							if (nbTimes <= 0) 
-                     {
-								otherl = BillzNavBarMM_findObj("BillzLayer");
-								otherl.visibility = viz;
-							} else {
-								setTimeout("nbNavMove()", nbTime);
-							}
-							
-							return true;
-						}
-						function NavBar_openadmin() {
-							window.open('admin/', 'SiteAdmin', 'height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
-							return true;
-						}
-						window.onload = FullyLoaded;
-					//-->
-				</script>
-			
-         	
 		<!-- Begin NavBar Bar #1 Content Output... -->
 		<table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr class="footer">
@@ -2819,7 +2800,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 </td>
         </tr>
 		<tr>
-		 <td width="100%" valign="top" align="center" id="footer2"><br><a href="http://www.drgreene.org/body.cfm?id=7#copyrights" target="_blank" class="footer2">Copyright 2008</a> Greene Ink, Inc.  All Rights Reserved. <a href="http://www.drgreene.org/body.cfm?id=7#disclaimer" target="_blank" class="footer2">Disclaimer</a>, <a href="http://www.drgreene.org/body.cfm?id=7#limitations" target="_blank" class="footer2">Limitations</a>, <a href="http://www.drgreene.org/body.cfm?id=7#errata" target="_blank" class="footer2">Revisions</a>, and <a href="http://www.drgreene.org/body.cfm?id=7#errata" target="_blank" class="footer2">Errata</a>.
+		 <td width="100%" valign="top" align="center" id="footer2"><br><a href="http://www.drgreene.com/7.html#copyrights" target="_blank" class="footer2">Copyright 2009</a> Greene Ink, Inc.  All Rights Reserved. <a href="http://www.drgreene.com/7.html#disclaimer" target="_blank" class="footer2">Disclaimer</a>, <a href="http://www.drgreene.com/7.html#limitations" target="_blank" class="footer2">Limitations</a>, <a href="http://www.drgreene.com/7.html#errata" target="_blank" class="footer2">Revisions</a>, and <a href="http://www.drgreene.com/7.html#errata" target="_blank" class="footer2">Errata</a>.
 <br><br>Photos of Dr. Greene by: Tami DeSellier of <a href="http://www.tamiland.com/" target="_blank" class="footer2">www.tamiland.com</a><br></td></tr>
       </tbody></table>
     </td>
