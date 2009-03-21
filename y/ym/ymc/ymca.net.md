@@ -1,31 +1,55 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061444id_/http%3A//www.ymca.net/general/ymca_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321073942id_/http%3A//www.ymca.net/general/ymca_privacy_policy.html) for the most accurate reproduction.*
 
 # YMCA Privacy Policy
 
-This Web site is operated by the YMCA of the USA, (Y-USA). We recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. Our goal at Y-USA is to provide a fun informative service for parents and children. Please read on to learn about our Privacy Policy.
+We are committed to protecting the privacy and security of the users of our Site. 
 
-## Gathering and Use of Information
+This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Site. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
 
-Any personal information collected by Y-USA on any of its sites will be kept strictly in-house. Y-USA will not sell or provide this information to third parties. Although Y-USA does not collect personal information on its main site, information is gathered through a link to the YMCA Member Store when a purchase is made. This information is kept strictly in-house by the YMCA Member Store. 
+If you have any questions or concerns about our privacy policy, please contact us at Legal Department, YMCA of the USA, 101 N. Wacker Drive, Chicago, IL 60607. 
 
-YMCA.net uses "cookie" technology as a means of enabling functionality, but not for gathering data on users..
+## Scope of Privacy Policy
 
-## Kids and Parents
+This policy applies to your use of this site. This policy does not apply to your use of unaffiliated sites to which this site only links. 
 
-**Kids** \- If you are 18 years of age or younger, please be sure to ask your parents for permission before providing any information to us.
+## Personal Identification Information
 
-**Parents** \- We hope that you and your kids enjoy our web site. In communicating directly with minors over the Internet, we recognize the unique issues raised regarding the protection of your kid's privacy. The Children's Advertising Review Unit (CARU), a section of The Better Business Bureau, has issued guidelines for web sites gathering information from minors. Y-USA intends to comply with the CARU guidelines in order to protect your kids and their privacy. We recommend, however, that you caution your children on the importance of scrutinizing sources and checking with you before revealing any personal information.
+We may request personal identification information from you (such as your last name, age, city and state) in connection with your use of, or participation in registration for surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, or additional information, and in connection with other activities, services or resources we make available on any of our Sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. Except as otherwise provided in this policy, we reasonably endeavor to ensure that we never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission (through opt-in or similar procedures) except as provided for herein or otherwise as permitted or required under law. Further, YMCA of the USA may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums. 
 
-## Your Ideas
+If you do provide us with personal information for any of these activities, we may use it to conduct the activity. 
 
-We encourage you to share your comments and questions with us. We promise to read all the mail you send to us, but we may not be able to respond to all of it. However, please note that we assume no responsibility for reviewing unsolicited ideas for our business (like product or advertising ideas) and will not incur any liability as a result of any similarities between your ideas and future Y-USA products or programs. This means that we have no obligation to treat your idea submissions confidentially and that we can use them without paying you for them. Any and all idea submissions will be owned by Y-USA exclusively and may be used by Y-USA for any purpose, now or in the future.
+YMCA of the USA does not rent or sell personal identification information, including information provided by children, to outside marketers. In certain circumstances, YMCA of the USA may share personal identification information with trusted service providers that need access to your information to provide operational or other support services or we may share this aggregate statistical information with other third parties, or ensure the confidentiality and security of this information, service providers must agree to safeguard all information in strict compliance with our policy. We also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. 
 
-## Links
+## Non-Personal Identification Information
 
-Y-USA's site may contain "links" to other sites, not just the YMCA Member Store. We make every effort to only link to sites that share our high standards of decency, fairness, and integrity. We try our best to ensure that these links are safe for kids and appropriate for our users in general. However, since we cannot guarantee the content of every site to which we are linked, kids should always check with an adult before linking to any new sites.
+We collect non-personal identification information through the use of, without limitation, the following types of methodology: 
 
-## Use of Materials on this Web Site
+"Cookie" technology: A "cookie" is an element of data that a website can send to your browser, which may then store it on your system. 
 
-Please remember that the trademarks, service marks, graphics, text, and other properties appearing within this web site are the property of Y-USA. Research information provided for downloading by visitors to our site may be used for personal or non-commercial use only. Otherwise, properties may not be copied, reproduced, republished, uploaded, posted, transmitted or distributed without the prior written consent of Y-USA. Except as expressly provided above, nothing contained herein shall be construed as conferring any license or right under any copyright or other intellectual property right.
+"IP address tracking": An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address. 
 
-If you have any questions or comments, we will be happy to hear them. 
+"Web beacons": A Web beacon, or "clear gif," is a small graphic image on a webpage or web-based document that a website can use to determine information about a user. 
+
+Non-personal identification information might include the browser you use, the type of computer, technical information about your means of connection to our Sites—such as the operating systems and the Internet service providers utilized, and other similar information. Our systems may also automatically gather information about the areas you visit and search terms you utilize on our Sites and about the links you may select from within our Sites to other areas of the World Wide Web or elsewhere online. 
+
+We use such information for our business purposes, and, in particular, primarily to administer the Sites, and, in the aggregate, to what technologies are being used so that we may continually improve our Sites. 
+
+## Privacy of Children
+
+We are mindful that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online. 
+
+## Links to Other Sites
+
+Users will find other content on our Sites that link to the sites and services of other third parties. We do not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information. 
+
+## Choice/Opt-Out
+
+If you "opt-in" to receive information from us, you can change your mind later. If at any time you would like to stop receiving such information or opt-out of a feature, you may change your options by contacting [webmaster@ymca.net](mailto:webmaster@ymca.net). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request, and we are unable to have your information removed from the records of any third party who has been provided with your information in accordance with this policy. 
+
+## Consent to Transfer
+
+The Sites are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Website, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
+## Your Acceptance of These Terms
+
+By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the Privacy Policy and Terms and Conditions, and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms and Conditions. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes. 
