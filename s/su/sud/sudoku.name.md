@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sudoku.name privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519071741id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudoku.name privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321120422id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.*
 
-# Sudoku.name Privacy policy
+# Sudoku Privacy policy
 
 www.sudoku.name respects the privacy concerns of visitors to our site www.sudoku.name. We do not sell or disclose your email address or other information about you. We may log IP addresses to prevent abuse of our website and newsletters. www.sudoku.name Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with www.sudoku.name's property, visitors, or anyone else that could be harmed by such activities. 
 
