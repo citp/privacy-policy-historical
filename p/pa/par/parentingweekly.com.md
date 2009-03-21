@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135937id_/http%3A//parentingweekly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingweekly.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321034015id_/http%3A//www.parentingweekly.com/privacy.htm) for the most accurate reproduction.*
 
 # ParentingWeekly | Privacy Policy
 
