@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725054537id_/http%3A//www.redcross.org.uk./49555) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321014607id_/http%3A//redcross.org.uk/49555) for the most accurate reproduction.*
 
 # Privacy | British Red Cross
 
-At British Red Cross (BRCS) we are committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to BRCS’s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact the Legal Department at BRCS 
+At British Red Cross (BRCS) we are committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to BRCS’s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact the Legal Department at BRCS
 
 ## How do we collect information? 
 
