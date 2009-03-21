@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teen-education.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219175349id_/http%3A//teen-education.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen-education.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321074800id_/http%3A//www.teen-education.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Educational websites for teens represent exciting parenting teens view
 
