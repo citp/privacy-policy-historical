@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011715id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321051953id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Bullz-Eye.com Privacy Policy
 
@@ -8,7 +8,7 @@ We at Bullz-Eye.com take your right to privacy seriously. The following disclose
 
 Bullz-Eye only collects personal information from a user when the user chooses to give it to us by registering with the site, entering a Bullz-Eye contest or registering for free email on Bullz-Eye. Bullz-Eye will use email addresses to inform registered users of new content, contests, news and other information selected by our editors, unless the user specifically requests to not receive these messages. Bullz-Eye will also use email addresses from time to time to deliver email messages from our partners, advertisers and sponsors. In such event the email will disclose that the recipient is receiving the email from Bullz-Eye because the recipient is a registered user.
 
-Users may opt-out of receiving future mailings by [ contacting us](https://web.archive.org/web/20081216011715id_/http%3A//www.bullz-eye.com/feedback.htm).
+Users may opt-out of receiving future mailings by [ contacting us](https://web.archive.org/web/20090321051953id_/http%3A//www.bullz-eye.com/feedback.htm).
 
 Bullz-Eye will not sell or disclose to any third party your name, address, email address or other personal information that specifically identifies you, unless you specifically provide your informed consent, except to the extent necessary to comply with applicable laws or a court order. Bullz-Eye will allow access to database information to third parties providing technical services, but only to the extent necessary to provide those services.
 
