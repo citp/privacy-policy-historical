@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042502id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321072454id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
 
 # BCL - Privacy Policy
 
@@ -42,4 +42,4 @@ It will tell us if you open the newsletter and what links you click on. You can 
 
 ##  Questions
 
-Please [contact the editor](https://web.archive.org/web/20081216042502id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
+Please [contact the editor](https://web.archive.org/web/20090321072454id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
