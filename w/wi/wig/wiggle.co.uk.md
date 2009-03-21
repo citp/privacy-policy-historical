@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622022204id_/http%3A//www.wiggle.co.uk/CustomerServices/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321053941id_/http%3A//www.wiggle.co.uk/h/option/privacypolicy) for the most accurate reproduction.*
 
-# Wiggle | Customer Services | Privacy
+# Wiggle Customer Service
 
 ### Privacy statement
 
@@ -30,7 +30,7 @@ Cookies (tiny text files, temporarily stored on your computer) are needed to all
 We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by [clicking here](mailto:data@wiggle.co.uk). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk)
 
 **Copyright ©**   
-All contents, this include images, artworks and reviews on wiggle website are automatically copyright protected. For more information, please [click here](http://www.intellectual-property.gov.uk/std/faq/copyright/internet.htm). 
+All contents, this include images, artworks and reviews on wiggle website are automatically copyright protected. For more information, please [click here](http://www.ipo.gov.uk/policy.htm). 
 
 Back to top
 
