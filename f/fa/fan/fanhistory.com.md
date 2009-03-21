@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220103152id_/http%3A//fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321114035id_/http%3A//fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
 
 # Fanhistory.com:Privacy policy - Fan History Wiki
 
@@ -9,6 +9,8 @@ This article defines official Fan History policy.
 ---|---  
   
 ## Contents
+
+[hide]
 
   * 1 Summary
   * 2 Publishing on the wiki and public data
