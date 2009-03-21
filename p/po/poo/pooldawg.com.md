@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034739id_/http%3A//www.pooldawg.com/privacy-policy-and-terms-of-use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321122250id_/http%3A//www.pooldawg.com/privacy-policy-and-terms-of-use.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use at Pooldawg.com
 
