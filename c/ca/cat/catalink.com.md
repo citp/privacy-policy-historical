@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510151729id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321041621id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
-We have enhanced our unsubscription system to give our members simpler control over the subscription settings. Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive our monthly newsletter, please visit your **My Details** page if you wish to change this. When you request a catalogue from one of our merchants you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page. 
+  
+Catalink is part of The Catalink Network, which is registered under the Data Protection Act and as such we are committed to respecting your privacy. By joining Catalink your login and password will work on all sites within The Catalink Network: [catalink.com](http://www.catalink.com/), [travelbrochures.co.uk](http://www.travelbrochures.co.uk/), [cataloguesearch.co.uk](http://www.cataloguesearch.co.uk/), [travelogues.co.uk](http://www.travelogues.co.uk/), [cashmachine.co.uk](http://www.cashmachine.co.uk/), [catalogica.com](http://www.catalogica.com/) and [catalogues.org.uk](http://www.catalogues.org.uk/). Please read the following information which outlines our privacy policy.
 
-Catalink is part of The Catalink Network, which is registered under the Data Protection Act and as such we are committed to respecting your privacy. By joining Catalink your login and password will work on all sites within The Catalink Network: [catalink.com](http://www.catalink.com/), [travelbrochures.co.uk](http://www.travelbrochures.co.uk/), [cataloguesearch.co.uk](http://www.cataloguesearch.co.uk/), [travelogues.co.uk](http://www.travelogues.co.uk/), [cashmachine.co.uk](http://www.cashmachine.co.uk/), [catalogica.com](http://www.catalogica.com/) and [catalogues.org.uk](http://www.catalogues.org.uk/). Please read the following information which outlines our privacy policy. 
+**UNSUBSCRIBING**  
+Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive our monthly newsletter, please visit your **My Details** page if you wish to change this. When you request a catalogue from one of our merchants you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page.
 
-**OUR POLICY ON PERSONAL DATA**
+  
+ **OUR POLICY ON PERSONAL DATA**
 
 You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to the Our Website or send to us by any other method (”personal information”). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any complaints please [click here](http://www.catalink.com/contact_us.php).
 
@@ -38,7 +41,7 @@ Personal data – ie data from which you can be personally identified (even with
 > 
 > To carry out market research and tailor our offer to you and inform you of trends we think may be of interest to you.
 > 
-> To send you promotional fulfilment and marketing material and otherwise contact you (including by SMS, phone or email) to promote our business.
+> To send you promotional fulfilment and marketing material and otherwise contact you (including by mail, SMS, phone or email) to promote our business.
 > 
 > With selected third parties for marketing purposes including sending you brochures catalogues promotional fulfilment and other marketing material (and otherwise contacting you including by SMS, phone or email).
 > 
