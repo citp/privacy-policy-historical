@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013653id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddj.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321032401id_/http%3A//ubmtechnology.com/united-business-media-llc-privacy-statement) for the most accurate reproduction.*
 
 # UBMTechnology.com » United Business Media LLC Privacy Statement
 
@@ -77,12 +77,3 @@ UBM Inc.
 11 W. 19th Street   
 New York, NY 10010   
 [ privacyrequests@ubm-us.com](mailto:privacyrequests@ubm-us.com "Email Privacy Officer")
-
-For all other questions concerning the practices of this site or any dealings with UBM LLC, contact us at: 
-
-Corporate Communications   
-UBM LLC   
-600 Community Drive   
-Manhasset NY 11030   
-516-562-5000   
-[ araine@ubm-us.com](mailto:araine@ubm-us.com "Email Alix Raine")
