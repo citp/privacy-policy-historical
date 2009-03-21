@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044813id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321045922id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DonkeyMails.com: No Minimum Payout
 
@@ -18,9 +18,6 @@ Total Members | 192,000+
 Total Payouts | 227,800+  
    
   
-[](http://www.donkeymails.com/scripts/runner.php?BA=13215&hash=7164660637241d23c55a17fcced91aac&url=http%3A%2F%2Fwww.instantcashlist.com)  
-
-
   
 **DonkeyMails.com: No Minimum Payout Respects Your Privacy** **Information Collected** DonkeyMails.com: No Minimum Payout has created this privacy statement in order to demonstrate our firm commitment to privacy. DonkeyMails.com: No Minimum Payout uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. DonkeyMails.com: No Minimum Payout uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. DonkeyMails.com: No Minimum Payout's registration form requires users to give us contact information (like their name, address, and email address). DonkeyMails.com: No Minimum Payout uses member contact information from the registration form to send the member information about our company and email advertisements. 
 
@@ -49,9 +46,6 @@ We do not collect online contact information without prior parental consent or p
 **
 
 DonkeyMails.com: No Minimum Payout gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with DonkeyMails.com: No Minimum Payout, you can [Contact Us](http://www.donkeymails.com/pages/contact.php). 
-
-**Our Favorite PTR/PTC websites - > ** [SmithBux](https://www.smithbux.com/?r=edelweis)(Instantpay) **(new)** , [Sandraclicks](http://www.sandraclicks.com/?ref=edelweis) **(new) (Instantpay)**, [Buxout Instant Pay](http://www.buxout.com/?r=yosro) **(new)** , [Neobux(Autopay),](http://www.neobux.com/?r=edelweis) **  
-Our Favorite Traffic Exchanges - >**[ Bootscootintraffic](http://www.bootscootintraffic.com/?rid=2979) ,[HitBandit](http://www.hitbandit.com/?ref=edelweis&cnn=allsitefav), [Lords-Of-Traffic](http://lords-of-traffic.com/?rid=4034), [MajorLeagueHits](http://www.majorleaguehits.com/?rid=1153) ,[ Soaring4Traffic](http://www.soaring4traffic.com/?rid=10052) , [Aahits](http://aahits.com/?r=60895)* , [ Traffichighflyer](http://www.traffichighflyer.com/?r=58101)* , [Easyhits4u](http://www.easyhits4u.com/?ref=edelweis), [ Webbizinsider](http://webbizinsider.com/Home.asp?RID=24942) , [Hit2hit](http://hit2hit.com/?rid=7) (* accept paid to promote!)
 
   
 [](http://paidthefastest.com/members/login.php?ref=edelweis)  
