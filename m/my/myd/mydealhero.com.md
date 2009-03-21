@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydealhero.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918075454id_/http%3A//mydealhero.com/privacy.php%3Forigcid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydealhero.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321115451id_/http%3A//mydealhero.com/privacy.php) for the most accurate reproduction.*
 
 # My Deal Hero : Find Super Deals & Discounts on Nearly Everything!
 
@@ -58,7 +58,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How You Can Access or Correct Your Information 
 
-You can access all your personally identifiable information that we collect online and maintain by emailing us at customerserv@MyDealHero.com. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by emailing us at contact@mydealhero.com. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
