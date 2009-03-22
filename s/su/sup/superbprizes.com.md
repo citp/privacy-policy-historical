@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbprizes.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbprizes.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322122602id_/http%3A//superbprizes.com/pp) for the most accurate reproduction.*
 
 # Superb Prizes
 
@@ -8,7 +8,7 @@ Previously Revised: May 24, 2007
 
 **PRIVACY POLICY**
 
-Thank you for visiting the privacy policy of SuperbPrizes.com (the "Site" or ?Company?). We take privacy seriously, and want you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our website Terms and Conditions. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/tc). 
+Thank you for visiting the privacy policy of SuperbPrizes.com (the "Site" or ?Company?). We take privacy seriously, and want you to feel comfortable using the Site. This page describes our online privacy policy ("Privacy Policy"). By visiting the Site, you are accepting the practices described in this Privacy Policy, as well as our website Terms and Conditions. By applying for promotional offers, providing information to us, or otherwise using the Site in any way, you are further indicating your acceptance of this Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20090322122602id_/http%3A//superbprizes.com/tc). 
 
 We reserve the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the bottom of this document. 
 
@@ -22,7 +22,7 @@ This Privacy Policy will tell you, among other things:
 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR OUR TERMS AND CONDITIONS, PLEASE DO NOT USE OR VISIT THIS SITE OR PROVIDE THE COMPANY WITH ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON COMPANY WEB SITES. 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [Customer Support](https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/customerSupport). 
+If you have any questions or concerns about this Privacy Policy, please contact us at: [Customer Support](https://web.archive.org/web/20090322122602id_/http%3A//superbprizes.com/customerSupport). 
 
 _YOUR CALIFORNIA PRIVACY RIGHTS_
 
@@ -121,7 +121,7 @@ From the advertiser or email marketing company| Both
 If you'd like to opt-out from having us or our partners collect your Non-PII, please [click here](http://networkadvertising.org/managing/opt_out.asp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
 **Customer Service**   
-If you have any questions you should [click here](https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/customerService) to contact us or write to us at 
+If you have any questions you should [click here](https://web.archive.org/web/20090322122602id_/http%3A//superbprizes.com/customerService) to contact us or write to us at 
 
 Customer Support   
 PO Box 390520   
@@ -138,4 +138,4 @@ Your information may be stored and processed in the United States or any other c
 
 We use reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Information. However, nearly all Internet transmissions pass through many servers not controlled by us, and therefore we cannot guarantee that any information you provide us or we collect will not be intercepted or altered in that process. Also, as noted above, your Information is shared with third parties whose privacy policies and practices are beyond our control. 
 
-For additional information or specific questions, please contact us at: [Customer Support](https://web.archive.org/web/20081221062657id_/http%3A//superbprizes.com/customerSupport). 
+For additional information or specific questions, please contact us at: [Customer Support](https://web.archive.org/web/20090322122602id_/http%3A//superbprizes.com/customerSupport). 
