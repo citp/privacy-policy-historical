@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221052228id_/http%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ph privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322115200id_/http%3A//pages.ebay.ph/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -6,35 +6,7 @@ This policy tells you about how we use and protect your personal information. To
 
 **Contents**
 
-  * Scope
-
-  * Collection
-
-  * Marketing
-
-  * Use 
-
-  * Our Disclosure of Your Information 
-
-  * Information You Share on eBay
-
-  * Using Information from eBay 
-
-  * Cookies
-
-  * No Spam, Spyware or Spoofing
-
-  * Account Protection
-
-  * Accessing, Reviewing and Changing Your Personal Information
-
-  * Security
-
-  * Third Parties
-
-  * General
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope
@@ -156,7 +128,7 @@ A few important things you should know about cookies are that:
 
 ### No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your eBay notification preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, [click here](http://contact.ebay.ph/ws/eBayISAPI.dll?ContactUs&wftype=2028&rcode=IV%25P20070&subject=Privacy%20Policy&bcrumb=%20Home%20%3E%20Help%20Topics%20%3E%C2%A0Rules%20and%20Policies%C2%A0%3E%C2%A0Rules%20for%20Everyone%C2%A0%3E%C2%A0eBay%20Privacy%20Policy&instruction=&expirationDate=) [](mailto:spoof@ebay.com). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your eBay notification preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, [click here](http://contact.ebay.ph/ws/eBayISAPI.dll?ContactUs&wftype=2028&rcode=IV%25P20070&subject=Privacy%20Policy&bcrumb=%20Home%20%3E%20Help%20Topics%20%3E%C2%A0Membership%20%26%20account%C2%A0%3E%C2%A0Protecting%20your%20account%C2%A0%3E%C2%A0Privacy%20Policy&instruction=&expirationDate=) [](mailto:spoof@ebay.com). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
 
 ### Account Protection 
 
@@ -176,4 +148,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ### General 
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted. In addition, we will notify you through the eBay Message Center. If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](http://contact.ebay.ph/ws/eBayISAPI.dll?ContactUs&wftype=2001&rcode=IV%25P10046&subject=Privacy%20Policy&bcrumb=%20Home%20%3E%20Help%20Topics%20%3E%C2%A0Rules%20and%20Policies%C2%A0%3E%C2%A0Rules%20for%20Everyone%C2%A0%3E%C2%A0eBay%20Privacy%20Policy&instruction=&expirationDate=) form.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted. In addition, we will notify you through the eBay Message Center. If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](http://contact.ebay.ph/ws/eBayISAPI.dll?ContactUs&wftype=2001&rcode=IV%25P10046&subject=Privacy%20Policy&bcrumb=%20Home%20%3E%20Help%20Topics%20%3E%C2%A0Membership%20%26%20account%C2%A0%3E%C2%A0Protecting%20your%20account%C2%A0%3E%C2%A0Privacy%20Policy&instruction=&expirationDate=) form.
