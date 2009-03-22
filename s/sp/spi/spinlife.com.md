@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803192733id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322193256id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
 
 # SpinLife Privacy Policy
-
-SpinLife Privacy Policy   
-  
-
 
 At SpinLife™, we are committed to protecting your privacy both before and after the purchase process. We use the information we collect to process your medical equipment orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy. 
 
