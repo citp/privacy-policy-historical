@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081436id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322010317id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Living Spaces Furniture - About Us
 
