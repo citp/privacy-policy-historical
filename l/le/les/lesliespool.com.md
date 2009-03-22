@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006091138id_/http%3A//www.lesliespool.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesliespool.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322173244id_/http%3A//www.lesliespool.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Leslie's Swimming Pool Supplies, the world leader in residential and commercial pool supplies.
 
@@ -50,18 +50,6 @@ Attn: General Counsel
 ## External Links
 
 Our web site contains links to other sites. We are not responsible for the privacy practices or content of such other web sites.
-
-  * [Privacy & Security](http://lesliespool.com/privacypolicy.html)
-  * [Terms of Use](http://lesliespool.com/terms.html)
-  * [Company Information](http://lesliespool.com/company_info.html)
-  * [MSDS](http://www.lesliesmsds.com/)
-
-
-
-Leslie's Swimming Pool Supplies, the world pool supply leader. The best selection of pool cleaners, pool chemicals, pool heaters,  
-pool pumps and pool filters for your above ground pool, in ground pool or spa.
-
-©2008 Leslie's Poolmart, Inc. 
   *[E.]: East
   *[Rd.]: Road
   *[AZ]: Arizona
