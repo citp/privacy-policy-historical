@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferencetm.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210080017id_/http%3A//www.conferencetm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferencetm.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322050344id_/http%3A//conferencetm.com/privacy.html) for the most accurate reproduction.*
 
 # ConferenceTM Privacy Statement
 
@@ -43,7 +43,7 @@ conferenceTM will only send personally identifiable information about you to oth
 
 
 
-We respond to subpoenas, court orders or legal process; or We find that your actions on our web sites violate the conferenceTM [Terms of Service](https://web.archive.org/web/20081210080017id_/http%3A//www.conferencetm.com/tos.html) \- which includes any of our usage guidelines for specific products or services.
+We respond to subpoenas, court orders or legal process; or We find that your actions on our web sites violate the conferenceTM [Terms of Service](https://web.archive.org/web/20090322050344id_/http%3A//conferencetm.com/tos.html) \- which includes any of our usage guidelines for specific products or services.
 
 ##### _Security_  
 
