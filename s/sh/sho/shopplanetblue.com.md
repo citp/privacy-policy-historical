@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopplanetblue.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095744id_/http%3A//shopplanetblue.com/api/Index.cfm/cms.page/i/1491/t/PRIVACY%2520POLICY.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplanetblue.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322044115id_/http%3A//shopplanetblue.com/api/Index.cfm/cms.page/i/1491/t/PRIVACY%2520POLICY.htm) for the most accurate reproduction.*
 
 # Rich and Skinny Denim ~ Free People Clothing ~ Trina Turk Dresses ~ Mara Hoffman ~ Blue Life ~ Diane Von Furstenberg ~ Havaianas ~ Lauren Conrad Dress ~ Dolce Vita Shoes ~ Single Dress ~ Bohemian Dress
 
