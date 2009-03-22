@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the osubeavers.com privacy policy that was archived on 2005-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050604002439id_/http%3A//www.collegesports.com/ot/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osubeavers.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322154324id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
 
-# CSTV :: CollegeSports.com :: Athletics
+# CSTV.com: #1 in College Sports
 
-The collegesports.com network of websites including collegesports.com, CSTV.com, and the more than 170 official collegiate athletic sites operated by College Sports Online, Inc., a subsidiary of CSTV: College Sports Television. (collectively referred to as the "Network Sites") are committed to safeguarding your privacy. This privacy policy ("Policy") describes the information we may collect, how we may collect and use it, with whom we may share it, and certain other privacy issues, including the precautions we take to protect your privacy. 
+The CSTV.com network of websites including CSTV.com, collegesports.com, and the more than 200 official collegiate athletic sites operated by CSTV Online, Inc., a subsidiary of CSTV Networks, Inc. (collectively referred to as the "Network Sites") are committed to safeguarding your privacy. This privacy policy ("Policy") describes the information we may collect, how we may collect and use it, with whom we may share it, and certain other privacy issues, including the precautions we take to protect your privacy.
 
-Before submitting information to any Network Site, please read this Policy. Use of any part of collegesports.com, cstv.com, or the more than 170 official collegiate partner sites, indicates your acceptance of this Policy and agreement to the collection and use of your personal information in accordance with the Policy. Please note that this Policy applies only to personally identifiable information collected on Network Sites. It does not apply to information collected or obtained by College Sports Online, Inc or its partners through other means. 
+Before submitting information to any Network Site, please read this Policy. Use of any part of CSTV.com, collegesports.com or the more than 200 official collegiate partner sites, indicates your acceptance of this Policy and agreement to the collection and use of your personal information in accordance with the Policy. Please note that this Policy applies only to personally identifiable information collected on Network Sites. It does not apply to information collected or obtained by College Sports Online, Inc or its partners through other means. 
 
 TYPES OF INFORMATION THAT MAY BE COLLECTED  
 
@@ -44,7 +44,7 @@ You may be asked to complete a registration form and provide personally identifi
 **Newsletters and Site Emails**  
 
 
-We may offer free newsletters to share information with you about the Site, school, College Sports Online, Inc, our partners, affiliates and subsidiaries, or our advertisers and sponsors. You may receive a newsletter either by registering for a specific newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
+We may offer free newsletters to share information with you about the Site, school, CSTV Online, Inc, our partners, affiliates and subsidiaries, or our advertisers and sponsors. You may receive a newsletter either by registering for a specific newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
 
 **Contests or Sweepstakes**  
 
@@ -74,7 +74,7 @@ If you order any information, buy any products or subscribe to any services offe
 HOW WE USE THE COLLECTED INFORMATION  
 
 
-Personally identifiable information will not be sold or otherwise transferred on an individual basis to unaffiliated third parties without the approval of the user at the time of collection. As a user, you will have the opportunity to indicate whether you would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the school, College Sports Online, Inc. and/or any third parties. 
+Personally identifiable information will not be sold or otherwise transferred on an individual basis to unaffiliated third parties without the approval of the user at the time of collection. As a user, you will have the opportunity to indicate whether you would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the school, CSTV Online, Inc. and/or any third parties. 
 
 The Site reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. We do this to offer more targeted products and services to you and to customize and enhance your online experience on the site. We will not provide individual data but will provide only aggregated data from these analyses to third parties, unless you consent to such use. 
 
@@ -93,16 +93,16 @@ At times, we may share your personally identifiable information with others for 
 
 **Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, all third parties who have access to personally identifiable information must abide by the current Site privacy Policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information. 
 
-**Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with partners, subsidiaries and affiliates of College Sports Online, Inc. 
+**Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with partners, subsidiaries and affiliates of CSTV Online, Inc. 
 
-**Business Transfers:** The Site or College Sports Online, Inc. may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets transferred. 
+**Business Transfers:** The Site or CSTV Online, Inc. may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets transferred. 
 
 **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you. 
 
 **Chat Rooms, Forums, and Message Boards**  
 
 
-The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. College Sports Online, Inc. cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
+The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. CSTV Online, Inc. cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
 
 **Links to Other Web Sites**  
 
@@ -133,8 +133,8 @@ By using this Site, you agree to the terms of this Policy. All modifications or 
 CORRECTION/UPDATING PERSONAL INFORMATION  
 
 
-If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at [webmaster@collegesports.com](mailto:webmaster@collegesports.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at [webmaster@collegesports.com](mailto:webmaster@collegesports.com) or at:
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at [webmaster@cstv.com](mailto:webmaster@cstv.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at [webmaster@cstv.com](mailto:webmaster@cstv.com) or at:
 
-College Sports Online, Inc.  
+CSTV Online, Inc.  
 2035 Corte del Nogal - Suite 250  
-Carlsbad, CA 92009. 
+Carlsbad, CA 92011. Top
