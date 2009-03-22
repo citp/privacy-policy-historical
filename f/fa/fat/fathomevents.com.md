@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fathomevents.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100648id_/http%3A//www.fathomevents.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fathomevents.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322105817id_/http%3A//www.fathomevents.com/privacy.html) for the most accurate reproduction.*
 
 # Fathom Events - Privacy Policy
 
