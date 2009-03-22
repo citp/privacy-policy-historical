@@ -1,139 +1,140 @@
-> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625122016id_/http%3A//www.texassports.com/doc_lib/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322154324id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
 
-# Host Communications Privacy Policy
+# CSTV.com: #1 in College Sports
 
-Host Communications Privacy Policy
-At Host Communications, we are committed to safeguarding your privacy online. Host
-Communications does not solicit any personally identifiable information from children under the
-age of 13. Accordingly, children under 13 years old may be restricted from participating in certain
-activities and transactions on Host Communications.
-Host Communications works with (and may provide links to) third party sites that offer features
-described on Host Communications (e.g., Sponsors such as Pontiac or Mountain Dew). Such
-third parties may permit children under the age of 13 to register on their sites in accordance with
-their respective privacy policies. However, Host Communications does not knowingly obtain,
-retain or use information from anyone who indicates that they are under 13 years old.
-Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal
-information. By using a Host Communications Web Site, you consent to the collection and use of
-personal information as outlined in this Policy. If you do not agree to this Policy, please do not
-use our site. If we make any material changes to the Policy, those changes will be posted here so
-that you are always aware of what personal information is collected, how that information is used,
-and under what circumstances that information may be disclosed. Since this Policy may change
-from time to time, you should check back periodically. Your continued use of Host
-Communications following the posting of changes to the Policy will signal your acceptance of
-such changes.
-If you have any questions or comments regarding this Policy, please contact Lisa Billings at (859)
-226-4678.
-TABLE OF CONTENTS
-1. What personally identifiable information of yours or third party personally identifiable
-information is collected from you through the site;
-2. The organization collecting the information;
-3. How the information is used;
-4. With whom the information may be shared;
-5. What choices are available to you regarding collection, use and distribution of the
-information;
-6. The kind of security procedures that are in place to protect the loss, misuse or alteration
-of information under our control; and
-1. What personally identifiable information of yours or third party personally identifiable
-information is collected from you through the site
-As stated above, Host Communications does not solicit any personally identifiable information
-from children under the age of 13. Host Communications does not collect personally identifiable
-information through the site unless you provide that information. Information that may be required
-for certain parts of the Web Site may vary but will typically include your first and last name;
-address including city, state, zip code and country; complete date of birth; and e-mail address;
-and, in the case of making purchases, a credit card number and expiration date. You may also be
-requested to provide a username and password for certain features. Host Communications will
-maintain all of the personal information submitted by you in secured servers behind corporate
-firewalls.
-2. The organization collecting the information
-Host Communications is located at 546 East Main Street, Lexington, KY 40508. Please contact
-Lisa Billings at (859) 226-4678 for more information.
+The CSTV.com network of websites including CSTV.com, collegesports.com, and the more than 200 official collegiate athletic sites operated by CSTV Online, Inc., a subsidiary of CSTV Networks, Inc. (collectively referred to as the "Network Sites") are committed to safeguarding your privacy. This privacy policy ("Policy") describes the information we may collect, how we may collect and use it, with whom we may share it, and certain other privacy issues, including the precautions we take to protect your privacy.
+
+Before submitting information to any Network Site, please read this Policy. Use of any part of CSTV.com, collegesports.com or the more than 200 official collegiate partner sites, indicates your acceptance of this Policy and agreement to the collection and use of your personal information in accordance with the Policy. Please note that this Policy applies only to personally identifiable information collected on Network Sites. It does not apply to information collected or obtained by College Sports Online, Inc or its partners through other means. 
+
+TYPES OF INFORMATION THAT MAY BE COLLECTED  
 
 
-3. How the information is used
-Host Communications may use information provided at registration or information obtained
-through third parties as your intention to sign up for one of our contests or offers. The use of
-information provided at registration or obtained through third parties may also be provided to Host
-Communications corporate sponsors.
-Host Communications uses "cookie" technology. Cookies are pieces of information transferred to
-your hard drive for record-keeping purposes. Such technology is an industry standard and is used
-by most major Web sites. Host Communications will never use cookies to retrieve information
-from your computer that was not originally sent in a cookie. In order to effectively use the site and
-some of its features, your browser must accept cookies.
-Users should be aware that Host Communications cannot control the use of cookies or the
-resulting information by advertisers or third parties hosting data for Host Communications. If a
-user does not want information collected through the use of cookies, there is a simple procedure
-in most browsers that allows the user to deny or accept cookies; however, users should note that
-cookies may be necessary to provide the user with certain features available on Host
-Communications Web Sites.
-Host Communications tracks certain general usage pattern information, including what pages
-people visit and how long they have been registered users. Host Communications may log users'
-IP addresses (the group of four numbers separated by periods, such as 123.45.64.89, that
-identifies a particular host computer) for the purposes of system administration, site tracking and
-reporting of aggregate usage information to our marketing and product development teams.
-From time to time, Host Communications may solicit your opinion to determine your preferences
-and dislikes in order to provide you with a better product. These surveys are always optional to
-the user and your decision not to participate in a survey will not affect your status as a Host
-Communications Web Site user. Should you choose to participate, any information you give us
-may be used in aggregate form for marketing purposes, and to enhance your overall experience
-on our site.
-4. With whom the information may be shared
-Once again, Host Communications will not provide any personally identifiable information, other
-than to its affiliates and corporate sponsors, about you to other third parties without your consent.
-Host Communications may, however, provide other third parties with anonymous aggregated
-information about our users to illustrate trends and patterns. All third parties with whom we share
-such information will have independent privacy and data collection practices and Host
-Communications has no responsibility or liability for their policies or actions.
-While Host Communications is careful in choosing its Sponsors and advertisers, we are only
-responsible for content on our own site. All third parties associated with Host Communications
-(including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share
-information have independent privacy and data collection practices. Host Communications does
-not control this collection of information and is neither responsible nor liable for their independent
-policies or actions.
-5. What choices are available to you regarding collection, use and distribution of the
-information
-You are not required to receive any mailings that you do not wish to receive. During the
-registration process, you may have the option to sign up to receive newsletters and selected
+The following are the types of information we may collect: 
+
+**Information You Provide Us**  
 
 
-sponsor offers and discounts. You will not receive such information if you do not select such
-options. If, after you choose to receive such information, you wish to discontinue receiving these
-items, you may change your subscription preferences by following the instructions provided within
-the e-mails received.
-6. The kind of security procedures that are in place to protect the loss, misuse or alteration
-of information under our control
-Host Communications has security measures in place to protect against the loss, misuse and
-alteration of the information under its control. The servers for Host Communications are stored in
-a physically secure and climate controlled off-site facility. Beyond the physical protection of the
-servers, we protect against data loss by regularly backing up data, performing consistency
-checks with independently recorded log files to prevent tampering, and restricting access to
-information on our servers via several user authentication technologies. Only those employees
-needed to carry out the business functions will have access to information on individual Host
-Communications customers. We train each such employee with respect to the Host
-Communications Privacy Policy, and those violating these policies will be subject to disciplinary
-action.
-It is important to remember that whatever you transmit or disclose online can be collected and
-used by others or unlawfully intercepted by third parties. No data transmission over the Internet
-can be guaranteed to be 100% secure. While we strive to protect your personal information, we
-cannot warrant the security of any information you transmit to us. In addition, we may disclose
-information to law enforcement or other government officials if we determine such disclosure to
-be appropriate, or if we are compelled to disclose it by court order or operation of law.
-LAST UPDATED: 2005
-Copyright 2005 Host Communications, Inc. All rights reserved.
-Host Communications NOTE TO PARENTS
-It is Host Communications's policy not to solicit any personally identifiable information from
-children. All Host Communications online registrants will be required to enter their full name, age,
-zip code and e-mail address. If Host Communications determines that a person is under the age
-of 13, based on the information provided during the registration process, that person will not be
-permitted to register online for our contests or offers in accordance with the Children's Online
-Privacy Protection Act of 1998. Any personally identifiable information that the child may have
-attempted to enter during the registration process will not be collected or maintained by Host
-Communications. Children who indicate that they are under 13 years old will not be able to make
-credit card purchases or participate in interactive features on Host Communications that involve
-the collection and retention of personal information (e.g., entering a sweepstakes).
-Host Communications works with (and may provide links to) third party sites that offer features
-described on Host Communications. Such third parties may permit children under the age of 13 to
-register for these features on their sites in accordance with their respective privacy policies. For
-more information, please review the privacy policies of each respective third party site. Host
-Communications does not knowingly obtain, retain or use information from anyone who indicates
-that they are under 13 years old.
-If you have any questions or comments, you can contact Lisa Billings at (859) 226-4678.
+Personal information you provide us, such as a user ID and password, name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via the Site. 
+
+**Site Usage Information**  
+
+
+We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address. 
+
+**Email Communications**  
+
+
+When you open emails from the Site, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of which emails we send you and which emails you may receive from our partners, subsidiaries and affiliates. Additionally, we keep a record of what types of emails you have opted to and not to receive. 
+
+**Information from Other Sources**  
+
+
+We may add information from other sources to your personal information. 
+
+HOW INFORMATION MAY BE COLLECTED  
+
+
+We may collect information from you in different areas on the Site, including but not limited to those described below: 
+
+**Registration**  
+
+
+You may be asked to complete a registration form and provide personally identifiable information, including a user ID and password, to access certain features on the Site, including, but not limited to, Gametracker, Newsletters, Contests, Forums, store purchases, or other subscription-based or free services. 
+
+**Newsletters and Site Emails**  
+
+
+We may offer free newsletters to share information with you about the Site, school, CSTV Online, Inc, our partners, affiliates and subsidiaries, or our advertisers and sponsors. You may receive a newsletter either by registering for a specific newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
+
+**Contests or Sweepstakes**  
+
+
+We may operate contests and sweepstakes through the Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winner's page, in the event you win a contest or sweepstakes. We will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, when we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. 
+
+**Surveys or Voting**  
+
+
+From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. 
+
+**Cookies**  
+
+
+As with many Websites, the Site uses standard technology called "cookies," which are small data files transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make the Site easier to use by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you disable the use of cookies. 
+
+**IP Addresses and Click-stream Data**  
+
+
+We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us understand how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
+
+**Transaction Information**  
+
+
+If you order any information, buy any products or subscribe to any services offered on our Site, including but not limited to the Official Store, we will ask you to complete an order form that requires certain information, including payment information such as a credit card number and expiration date as well as general contact, billing and shipping information. We will use this information to complete the transaction, i.e., to deliver the information, products or other services you ordered, and to collect payment. For your protection, all such information is collected and stored through encrypted means. 
+
+HOW WE USE THE COLLECTED INFORMATION  
+
+
+Personally identifiable information will not be sold or otherwise transferred on an individual basis to unaffiliated third parties without the approval of the user at the time of collection. As a user, you will have the opportunity to indicate whether you would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the school, CSTV Online, Inc. and/or any third parties. 
+
+The Site reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. We do this to offer more targeted products and services to you and to customize and enhance your online experience on the site. We will not provide individual data but will provide only aggregated data from these analyses to third parties, unless you consent to such use. 
+
+In addition, the Site reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters that relate to the underlying service and/or the information collected, regardless of whether the user has opted out of promotional activities on the site. 
+
+WITH WHOM THE INFORMATION MAY BE SHARED  
+
+
+At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others: 
+
+**Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include order fulfillment, e-mail deployment, removing repetitive information from customer lists, Site and data analysis, marketing assistance, credit card payments, and customer service. These entities only access the personally identifiable information to perform their functions, but may not use the information for other purposes. 
+
+**Promotional Offers:** We may email you offers on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email. 
+
+**Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
+
+**Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, all third parties who have access to personally identifiable information must abide by the current Site privacy Policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information. 
+
+**Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with partners, subsidiaries and affiliates of CSTV Online, Inc. 
+
+**Business Transfers:** The Site or CSTV Online, Inc. may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets transferred. 
+
+**Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you. 
+
+**Chat Rooms, Forums, and Message Boards**  
+
+
+The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. CSTV Online, Inc. cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
+
+**Links to Other Web Sites**  
+
+
+This Policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, you may be taken to a different Web site. This includes links from advertisers, sponsors and others that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information. 
+
+SECURITY  
+
+
+This Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration, such as Secure Sockets Layer or "SSL" and firewalls, to ensure that your information is secure and confidential. Certain personally identifiable information, such as credit card information, is transferred to our computers utilizing encryption software. Only those employees who need access to your information to carry out business functions are allowed access. Our security policies are reviewed periodically and revised as required. Many areas on the Site require a password. We recommend that you do not share your password with anyone. 
+
+It is important to recognize that whatever you transmit or disclose online could be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your information, we cannot warrant the security of any information you transmit to us. 
+
+A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY  
+
+
+The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen. If in the future, the Site knowingly collects personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consents. 
+
+The Internet offers many entertaining and educational opportunities for children. Parental guidance and supervision is necessary to ensure a safe and rewarding online experience. A number of interactive features on the Site require registration to participate or will require registration in the future to participate (e.g. site registration/customization, Gametracker, promotions). In many cases, users may be required to enter their first and last name, age, zip code and e-mail address. In some cases, users will be required to select a special user name to be used as an identifier for the feature and must also enter a password and a secret hint that will help us verify their identity if they forget their password. If the Site determines that a person is under the age of thirteen, based on the information provided during the registration process, that person will not be permitted to register for features requiring the submission of personal information, in accordance with the Children's Online Privacy Protection Act of 1998(15 U.S.C. 6501 et seq.). Children who indicate that they are under thirteen years old will not be able to make credit card purchases or participate in interactive features on the Site that involve the collection and retention of personal information and they will not be contacted about special offers or promotions. 
+
+The Site works with (and may provide links to) third party sites. Such third parties may permit children under the age of thirteen to register for these features on their sites in accordance with their respective privacy policies. For more information, please review the privacy policies of each respective third party site. 
+
+NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE POLICY  
+
+
+By using this Site, you agree to the terms of this Policy. All modifications or updates will be posted on the Site. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email or some other means. Your continued use of the Site constitutes your acceptance of such revised privacy policy. If you do not agree to this privacy policy, please do not use our site. 
+
+CORRECTION/UPDATING PERSONAL INFORMATION  
+
+
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at [webmaster@cstv.com](mailto:webmaster@cstv.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at [webmaster@cstv.com](mailto:webmaster@cstv.com) or at:
+
+CSTV Online, Inc.  
+2035 Corte del Nogal - Suite 250  
+Carlsbad, CA 92011. Top
