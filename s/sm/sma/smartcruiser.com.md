@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231153259id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323004825id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
 
-# A Discount Cruise Site for the Savvy Traveler
+# SmartCruiser.com: A Discount Cruise Site featuring Discount Cruises and Cruise Deals on Carnival, Celebrity, Cunard, Holland America, Norwegian, Princess, Royal Caribbean, Windstar and more
 
 This privacy statement discloses the privacy practices for Palm Coast Travel. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. We have agreed to advise you of:
 
@@ -60,7 +60,7 @@ When our registration form asks users to enter sensitive information (such as cr
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an email to [security@smartcruiser.com](mailto:security@smartcruiser.com).
+If you have any questions about the security at our website, you can send an email to [admin@smartcruiser.com](mailto:admin@smartcruiser.com).
 
 **Special Offers**
 
@@ -84,4 +84,4 @@ Due to the rapidly evolving technologies on the Internet, we may occasionally re
 
 **How to Contact Us**
 
-We welcome comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Should you have any questions, concerns or comments regarding our privacy policy, send an e-mail to us at [security@ smartcruiser.com ](mailto:security@smartcruiser.com).
+We welcome comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Should you have any questions, concerns or comments regarding our privacy policy, send an e-mail to us at [admin@ smartcruiser.com ](mailto:admin@smartcruiser.com).
