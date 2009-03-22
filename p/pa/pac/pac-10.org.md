@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pac-10.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230132id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pac-10.org privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322154324id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
 
 # CSTV.com: #1 in College Sports
 
@@ -133,8 +133,8 @@ By using this Site, you agree to the terms of this Policy. All modifications or 
 CORRECTION/UPDATING PERSONAL INFORMATION  
 
 
-If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at [webmaster@collegesports.com](mailto:webmaster@collegesports.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at [webmaster@collegesports.com](mailto:webmaster@collegesports.com) or at:
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing the Site at [webmaster@cstv.com](mailto:webmaster@cstv.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact us at [webmaster@cstv.com](mailto:webmaster@cstv.com) or at:
 
 CSTV Online, Inc.  
 2035 Corte del Nogal - Suite 250  
-Carlsbad, CA 92011. 
+Carlsbad, CA 92011. Top
