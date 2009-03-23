@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034236id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downelink.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323034840id_/http%3A//www.downelink.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # DowneLink.com | Privacy
 
