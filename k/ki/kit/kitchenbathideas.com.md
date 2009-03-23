@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenbathideas.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515061252id_/http%3A//www.kitchenbathideas.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenbathideas.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323151607id_/http%3A//www.kitchenbathideas.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kitchen Bath Ideas® Online Privacy Policy
 
