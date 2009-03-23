@@ -1,0 +1,322 @@
+<!--The following is the downloaded HTML source of the plugcomputer.org privacy policy that was archived on 2009-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090323140424id_/http%3A//www.plugcomputer.org/index.php/component/content/article/63) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+  <base href="http://www.plugcomputer.org/index.php/component/content/article/63">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Plugtop,PlugComputer, Marvell">
+  <meta name="title" content="Privacy Policy">
+  <meta name="author" content="David Wilson">
+  <meta name="description" content="PlugComputer - Plug Computing Community">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Privacy Policy</title>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/jceutilities/css/jceutilities-217.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jceutilities/themes/standard/css/style.css" type="text/css">
+  <style type="text/css">
+    <!--
+
+	.dropdown {
+		font-size: 11px;
+		font-weight: normal;
+		margin-top: 0px;
+		margin-left: 0px;
+		float: left;
+	}
+	.dropdown dt {border:0px solid #9ac1c9; padding:0px; font-weight:bold; cursor:pointer; }
+	.dropdown dt:hover {}
+	.dropdown dd {padding:0px; margin: 0px; position:absolute; overflow:hidden; display:none; background:#FFFFFF; z-index:200; opacity:1.0; filter:alpha(opacity=100)}
+	.dropdown ul {padding:0px; margin: 0px;border:1px solid #ccc; list-style:none; border-top:none; border-bottom: none;}
+	.dropdown li {display:inline}
+	.dropdown a {display:block; padding:5px; text-decoration:none; }
+	.dropdown a:active {display:block; padding:5px; text-decoration:none; }
+	.dropdown a:visited {display:block; padding:5px; text-decoration:none; }
+	.dropdown a:hover {text-decoration: none; }
+	.dropdown .underline {border-bottom:0px solid #646464}
+	.clr {display:block;height:100%}
+	.separator {
+		font-size: 11px;
+		font-weight: normal;
+		margin-top: 5px;
+		margin-left: 0px;
+		float: left;
+		color: transparent;
+	}
+    -->
+  </style>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/mediaobject.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jquery-126.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jceutilities-217.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript">
+	MediaObject.init({'flash':"9,0,124,0",'windowmedia':"5,1,52,701",'quicktime':"6,0,2,0",'realmedia':"7,0,0,0",'shockwave':"8,5,1,0"});jQuery(document).ready(function(){jceutilities({'popup':{'legacy':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':500,'scalespeed':500,'width':640,'height':480,'hideobjects':1,'scrollpopup':1,'theme':"standard",'themecustom':"",'themepath':"plugins/system/jceutilities/themes"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':1,'wmode':0});});
+
+	var DDSPEED = 10;
+	var DDTIMER = 15;
+	
+	// main function to handle the mouse events //
+	function ddMenu(id,d){
+	  var h = document.getElementById(id + '-ddheader');
+	  var c = document.getElementById(id + '-ddcontent');
+	  clearInterval(c.timer);
+	  if(d == 1){
+		clearTimeout(h.timer);
+		if(c.maxh && c.maxh <= c.offsetHeight){return}
+		else if(!c.maxh){
+		  c.style.display = 'block';
+		  c.style.height = 'auto';
+		  c.maxh = c.offsetHeight;
+		  c.style.height = '0px';
+		}
+		c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
+	  }else{
+		h.timer = setTimeout(function(){ddCollapse(c)},50);
+	  }
+	}
+	
+	// collapse the menu //
+	function ddCollapse(c){
+	  c.timer = setInterval(function(){ddSlide(c,-1)},DDTIMER);
+	}
+	
+	// cancel the collapse if a user rolls over the dropdown //
+	function cancelHide(id){
+	  var h = document.getElementById(id + '-ddheader');
+	  var c = document.getElementById(id + '-ddcontent');
+	  clearTimeout(h.timer);
+	  clearInterval(c.timer);
+	  if(c.offsetHeight < c.maxh){
+		c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
+	  }
+	}
+	
+	// incrementally expand/contract the dropdown and change the opacity //
+	function ddSlide(c,d){
+	  var currh = c.offsetHeight;
+	  var dist;
+	  if(d == 1){
+		dist = (Math.round((c.maxh - currh) / DDSPEED));
+	  }else{
+		dist = (Math.round(currh / DDSPEED));
+	  }
+	  if(dist <= 1 && d == 1){
+		dist = 1;
+	  }
+	  c.style.height = currh + (dist * d) + 'px';
+	  c.style.opacity = currh / c.maxh;
+	  c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
+	  if((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)){
+		clearInterval(c.timer);
+	  }
+	}
+  </script>
+
+<link href="/templates/mp_tellix/css/template_css.css" rel="stylesheet" type="text/css">
+<!--[if IE ]>
+<link href="/templates/mp_tellix/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--Loads FavIcon-->
+<link rel="shortcut icon" href="/images/favicon.ico">
+</head>
+<body>
+<div class="out">
+
+<!--Template Internal Area Start-->
+	<div class="int">
+    
+<!--Top Area Start-->
+    	<div class="top">
+        	<div class="logo"><a href="/index.php"><img alt="plugcomputer.org" src="/templates/mp_tellix/images/logo.jpg"></a></div>
+                        <div class="login"><img src="/templates/mp_tellix/images/loginleft.jpg" alt="login" align="left">  
+            <div class="loginint">
+				<form action="/index.php/component/content/" method="post" name="login" id="form-login">
+		
+	
+		<label for="modlgn_username">Username</label>
+		<input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="10">
+	
+	
+		<label for="modlgn_passwd">Password</label>
+		<input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="10" alt="password">
+	
+	
+	<input type="submit" name="Submit" class="button" value="Login">
+	
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<input type="hidden" name="option" value="com_user">
+	<input type="hidden" name="task" value="login">
+	<input type="hidden" name="return" value="aHR0cDovL3d3dy5wbHVnY29tcHV0ZXIub3JnL2luZGV4LnBocC9jb21wb25lbnQvY29udGVudC9hcnRpY2xlLzYz">
+	<input type="hidden" name="8030ef1dc6dbcd266b1dca0c615ebe71" value="1"></form>
+
+            </div>  
+        </div>
+        	<!--Top Menu Start--> 
+        <div class="topmenu">
+							<dl class="dropdown"><dt id="menu0-ddheader" onmouseover="ddMenu('menu0',1)" onmouseout="ddMenu('menu0',-1)"><li><a href="/index.php/home">Home</a></li></dt><dd id="menu0-ddcontent" onmouseover="cancelHide('menu0')" onmouseout="ddMenu('menu0',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu1-ddheader" onmouseover="ddMenu('menu1',1)" onmouseout="ddMenu('menu1',-1)"><li><a href="/index.php/faq">FAQ</a></li></dt><dd id="menu1-ddcontent" onmouseover="cancelHide('menu1')" onmouseout="ddMenu('menu1',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu2-ddheader" onmouseover="ddMenu('menu2',1)" onmouseout="ddMenu('menu2',-1)"><li><a href="/index.php/the-news">The News</a></li></dt><dd id="menu2-ddcontent" onmouseover="cancelHide('menu2')" onmouseout="ddMenu('menu2',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu3-ddheader" onmouseover="ddMenu('menu3',1)" onmouseout="ddMenu('menu3',-1)"><li><a href="/index.php/web-links">Web Links</a></li></dt><dd id="menu3-ddcontent" onmouseover="cancelHide('menu3')" onmouseout="ddMenu('menu3',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu4-ddheader" onmouseover="ddMenu('menu4',1)" onmouseout="ddMenu('menu4',-1)"><li><a href="/index.php/resources">Resources</a></li></dt><dd id="menu4-ddcontent" onmouseover="cancelHide('menu4')" onmouseout="ddMenu('menu4',-1)"><ul><div class="clr"><li><a class="underline" href="/index.php/resources/innovation-plans">Application Ideas</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/third-parties">Commercial Software</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/plugtop-documentation">Documentation</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/downloads">Downloads</a></li></div><div class="clr"><li><a class="underline" href="http://openplug.org/plugforum/index.php?action=forum" target="_blank">Forum</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/plug-providers">Plug Providers</a></li></div><div class="clr"><li><a class="underline" href="http://www.openplug.org/plugwiki/index.php?title=Main_Page" target="_blank">Plug WiKi</a></li></div></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu5-ddheader" onmouseover="ddMenu('menu5',1)" onmouseout="ddMenu('menu5',-1)"><li><a href="/index.php/about-plugtop">About</a></li></dt><dd id="menu5-ddcontent" onmouseover="cancelHide('menu5')" onmouseout="ddMenu('menu5',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu6-ddheader" onmouseover="ddMenu('menu6',1)" onmouseout="ddMenu('menu6',-1)"><li><a href="/index.php/register">Register</a></li></dt><dd id="menu6-ddcontent" onmouseover="cancelHide('menu6')" onmouseout="ddMenu('menu6',-1)"><ul><div class="clr"><li><a class="underline" href="/index.php/register/your-details">Your Details</a></li></div><div class="clr"><li><a class="underline" href="/index.php/register/forgot-username">Forgot Username</a></li></div><div class="clr"><li><a class="underline" href="/index.php/register/forgot-password">Forgot Password</a></li></div></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu7-ddheader" onmouseover="ddMenu('menu7',1)" onmouseout="ddMenu('menu7',-1)"><li><a href="http://www.globalscaletechnologies.com/p-22-sheevaplug-dev-kit.aspx">Buy</a></li></dt><dd id="menu7-ddcontent" onmouseover="cancelHide('menu7')" onmouseout="ddMenu('menu7',-1)"><ul></ul></dd></dl>
+			            
+<!--Small Right Side Menu -->
+          <div class="topmenuright">
+		  					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="25" alt="Search" class="inputbox" type="text" size="25" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+</form>
+			          </div>
+        </div>
+        
+<!--Templates Main Content Area Start-->
+        <div class="main">
+        
+        
+<!--Big Header Image Area Start-->
+ 			            	            <!--Top Content Area Start-->
+                                       
+<!--Core Content Area including right column-->
+            <!--Core Content Area excluding right column-->
+            <div class="left2">
+            								<div class="moduletable">
+					<span class="breadcrumbs pathway">
+Home</span>
+		</div>
+	
+				 									<table class="contentpaneopen">
+<tbody><tr>
+		<td class="contentheading" width="100%">
+					Privacy Policy			</td>
+						<td align="right" width="100%" class="buttonheading">
+		<a href="/index.php/component/content/article/63-privacy-policy?format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"></a>		</td>
+		
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/index.php/component/content/article/63-privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"></a>		</td>
+		
+				<td align="right" width="100%" class="buttonheading">
+		<a href="/index.php/component/mailto/?tmpl=component&amp;link=aHR0cDovL3d3dy5wbHVnY29tcHV0ZXIub3JnL2luZGV4LnBocC9jb21wb25lbnQvY29udGVudC9hcnRpY2xlLzYzLXByaXZhY3ktcG9saWN5" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"></a>		</td>
+					</tr>
+</tbody></table>
+
+<table class="contentpaneopen">
+
+
+
+<tbody><tr>
+<td valign="top">
+<p>Marvell Technology Group Ltd. ("Marvell") is committed to respecting the privacy of the users of the www.PlugComputer.org Internet site and its associated services (the "PlugComputer Service") (collectively or individually "Users").  This statement governs information you provide to us or that we learn from your use of the PlugComputer Service and tells you how we may collect, use, and in some instances share this information.  Any information collected via other Marvel sites is handled in accordance with the privacy policy posted on such sites.</p>
+<h3>AWARENESS</h3>
+<h4>What we collect</h4>
+<p>User Provided Information:  You may provide to Marvell what is generally called "personally identifiable" information when you register or at other times (for example, in connection with correspondence between you and Marvell), such as name and e-mail address.</p>
+<p>"Cookies" Information:  When you visit the PlugComputer Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer.  Marvell uses both session cookies and persistent cookies.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the PlugComputer Service.  By using these cookies, we can "remember" what you have done on the PlugComputer Service before and personalize our site for you.  These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.  Please note that disabling cookies may prevent you from accessing some of the functionality and site offerings available via the PlugComputer Service.</p>
+<p>"Automatically Collected" Information:  When you visit the PlugComputer Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology.  This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the PlugComputer Service, the pages you view on our site, and the dates and times that you visit.</p>
+<h4>How we use it</h4>
+<p>Marvell uses your information to better understand your needs and provide you with better service.  We may use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major updates.</p>
+<p>Marvell may use all of the information that we collect from our Users to understand the usage trends and preferences, to enable and improve the PlugComputer community participation, to improve the way the PlugComputer Service works and looks, and to create new features and functionality.</p>
+<p>Marvell may use automatically collected information and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the PlugComputer Service; (b) provide custom, personalized content, and information; (c) monitor the effectiveness of our and the PlugComputer community's efforts; and (d) monitor aggregate usage metrics such as total number of visitors and pages viewed.</p>
+<p>Marvell will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.</p>
+<h4>Who we share it with</h4>
+<p>Marvell will not sell, rent or lease your personally identifiable information to others. Unless we have your permission, we will only share the personal data you provide online with other Marvell entities and/or business partners who are acting on our behalf for the uses described above. Such Marvell entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by confidentiality agreements.</p>
+<p>Marvell may also use and/or share your information to the extent required to do so by law or in a good faith belief that such use or disclosure is reasonably necessary to (a) comply with legal process; (b) enforce the applicable terms of use; or (c) protect the rights, property, or personal safety of the Users, the public, and Marvell.</p>
+<h3>ACCESS</h3>
+<p>Links to third party Web sites on the site are provided solely as a convenience to you. If you use these links, you will leave this site. Marvell has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus, Marvell does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do this entirely at your own risk.</p>
+<h3>SECURITY</h3>
+<p>No data transmissions over the Internet can be guaranteed to be 100% secure.  Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  Once we receive your transmission, we make reasonable efforts to ensure security on our systems.  We use secure firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and/or other security software.</p>
+<p>If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service.  Marvell may post a notice on the PlugComputer Service if a security breach occurs.  Marvell may also send an email to you at the email address you have provided to us in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy35552 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy35552 = addy35552 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ var addy_text35552 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy35552 + '\'>' );
+ document.write( addy_text35552 );
+ document.write( '<\/a>' );
+ //-->\n </script><a href="mailto:privacy@marvell.com">privacy@marvell.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>.</p>
+<h3>INTERNATIONAL USERS</h3>
+<p>The PlugComputer Service is hosted in the United States. If you are a User accessing the PlugComputer Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to:</p>
+<ul>
+<li>the use of your personal data for the uses identified above in accordance with this privacy policy; and</li>
+<li>the transfer of your personal data to the United States as indicated above.</li>
+</ul>
+<h3>CHILDREN</h3>
+<p>Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent.  Any person who provides their personal information to Marvell through the PlugComputer Service represents that they are 13 years of age or older.</p>
+<h3>IN THE EVENT OF MERGER OR SALE</h3>
+<p>If Marvell should ever file for bankruptcy or have some or all of its assets sold to or merge with another entity, information Marvell receives from you through the PlugComputer Service is a Marvell asset and may be transferred.</p>
+<h3>CONTACT</h3>
+<p>If you have comments or questions about our privacy policy, please send them to this email address: 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy6925 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy6925 = addy6925 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ var addy_text6925 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy6925 + '\'>' );
+ document.write( addy_text6925 );
+ document.write( '<\/a>' );
+ //-->\n </script><a href="mailto:privacy@marvell.com">privacy@marvell.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>.</p>
+<h3>PRIVACY POLICY CHANGES</h3>
+<p>We may occasionally update this privacy policy.  When we do, we will also revise the "Last Updated" section below.  For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change.  We encourage you to periodically review this privacy policy to stay informed about how we are protecting the personal information we collect.  Your continued use of the PlugComputer Service constitutes your agreement to this privacy policy and any updates.</p>
+<p><strong>Last Updated:  March 15, 2009</strong></p>
+
+</td>
+</tr>
+
+</tbody></table>
+<span class="article_separator">&nbsp;</span>
+
+           		            </div>
+			     	</div>
+        
+ <!--Three module positions below the main area-->
+                 
+<!--Footer Area Start-->
+		<div class="footer"> 
+    								<div class="moduletable">
+					Copyright © 2009 plugcomputer.org | All Rights Reserved | <a href="/index.php/component/content/article/62">Terms of use</a> | <a href="/index.php/component/content/article/63">Privacy Policy</a>		</div>
+	
+			            Copyright 2008 by plugcomputer.org, design by <a href="http://www.pixelsparadise.com" target="_blank">pixelsparadise.com</a>
+    		Based on valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS 2.0</a> code
+		</div>
+	</div>
+</div>
+</div>
+
+<!-- Google Analytics Tracking Code -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4803227-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- End Google Analytics Tracking Code -->
+
+
+</body></html>
