@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152915id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323072826id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XMind - Social Brainstorming and Mind Mapping
 
@@ -57,9 +57,9 @@ The Site may offer links to other websites. When you click on links to other web
 
 ### PRIVACY POLICY CHANGES AND PROBLEM RESOLUTION
 
-XMind, Ltd. may update its privacy policy at any time. If our policy chages, we will advise you by publishing a notice on the site.
+XMind, Ltd. may update its privacy policy at any time. If the ownership of all or substantially all of the XMind business, or individual business units owned by XMind Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to comparable promises as made in any pre-existing Privacy Policy.
 
-If you have any comments or questions, related to this privacy policy, please contact us through the ways listed below.
+If you have any comments or questions related to this privacy policy, please contact us through the ways listed below.
 
 ### CONTACT
 
