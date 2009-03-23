@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133542id_/http%3A//www.jungledisk.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323234851id_/http%3A//www.jungledisk.com/privacy.aspx) for the most accurate reproduction.*
 
-# Jungle Disk - Reliable online storage powered by Amazon S3 - JungleDisk
+# Jungle Disk - Reliable online storage powered by Amazon S3 and Rackspace - JungleDisk
 
-### Jungle Disk, Inc. Privacy Policy
+### Jungle Disk LLC Privacy Policy
 
-This Privacy Policy explains Jungle Disk, Inc.'s policy regarding the collection and protection of data supplied by users or collected from users of the Jungle Disk websites and the online backup and storage services. 
+This Privacy Policy explains Jungle Disk LLC's' policy regarding the collection and protection of data supplied by users or collected from users of the Jungle Disk websites and the online backup and storage services. 
 
 ##### 
 
