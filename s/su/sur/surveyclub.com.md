@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121002923id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323061605id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Survey Club - Take Paid Surveys Online and Get Paid!
 
@@ -50,12 +50,12 @@ SurveyClub.com provides every user with the opportunity to opt-out of receiving 
 
 1\. Email: [support@surveyclub.com](mailto:support@surveyclub.com)  
 2\. Website: [contact](http://surveyclub.helpserve.com/)  
-3\. Postal Mail: #425 3210 E Chinden Blvd #115 Eagle ID 83616
+3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202 USA
 
-If you're a SurveyClub member and you simply wish to cancel your account, you are encouraged to visit our [Account Cancellation](https://web.archive.org/member/cancelaccount.aspx) page. Upon entering your User ID and Password your account - and all information we have on file for you - will be instantly and permanently deleted from SurveyClub.
+If you're a SurveyClub member and you simply wish to cancel your account, you are encouraged to visit our [Account Cancellation](https://web.archive.org/misc/CancelAccount.aspx) page. Upon entering your User ID and Password your account - and all information we have on file for you - will be instantly and permanently deleted from SurveyClub.
 
 **Contacting SurveyClub.com**
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last updated April 27, 2007.
+This Privacy Policy was last updated December 29, 2008.
