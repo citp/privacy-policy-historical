@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eztexting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114035id_/http%3A//www.eztexting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztexting.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323083855id_/http%3A//www.eztexting.com/privacy.html) for the most accurate reproduction.*
 
 # Ez Texting Privacy Policy
 
-Thank you for visiting our site at [www.eztexting.com](http://www.eztexting.com/) (" _Website_ ").  Use and access of this Website is subject to the terms and conditions as set out in our [Terms of Service](https://web.archive.org/web/20081216114035id_/http%3A//www.eztexting.com/tou.html) as well as our Privacy Policy set forth below.
+Thank you for visiting our site at [www.eztexting.com](http://www.eztexting.com/) (" _Website_ ").  Use and access of this Website is subject to the terms and conditions as set out in our [Terms of Service](https://web.archive.org/web/20090323083855id_/http%3A//www.eztexting.com/tou.html) as well as our Privacy Policy set forth below.
 
 **1\. General.**  
 Your privacy is important to us and we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit at this Website. 
