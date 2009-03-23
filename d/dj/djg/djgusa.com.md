@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704112742id_/http%3A//www.djgusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323230054id_/http%3A//djgusa.com/privacy) for the most accurate reproduction.*
 
 # Dorel Juvenile Group | Privacy Policy
 
