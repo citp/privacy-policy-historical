@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verifone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234112id_/http%3A//www.verifone.com/about-us/legal--privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifone.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323062901id_/http%3A//www.verifone.com/about-us/legal--privacy.aspx) for the most accurate reproduction.*
 
-# Payment Solutions, Wireless payment systems, Retail POS, Restaurant Pay at the Table, Petroleum and Fuel Pump Pay Solutions, and secure credit card payment terminals for mobile and countertop.
+# VeriFone Official Site | Secure payment solutions for credit & debit cards, EMV, contactless, & NFC.
 
 **Privacy Policy**  
 
