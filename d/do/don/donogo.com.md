@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donogo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013557id_/http%3A//www.donogo.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donogo.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323081941id_/http%3A//www.donogo.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Donogo.com
 
