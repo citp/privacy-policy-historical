@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022804id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323054604id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Unless the Library explicitly states otherwise and except as set forth in this P
 The Library compiles aggregate demographic data related to our patrons to better manage our services and to provide aggregate information to potential funders of the Library's programs. The Library may also use personally identifiable information you submit to inform you of Library programs, services, and activities, including exhibitions, events, programs, and membership opportunities. The Library does not share or exchange email addresses with other organizations. The Library does not rent or sell its donor mailing list but may sometimes exchange names and addresses with other organizations. You may indicate to the Library at any time whether or not you wish to have the Library share your name with other organizations. When [making online donations](https://www2.nypl.org/support/secure/), donors may indicate preferences for information sharing. Donors may also contact the [Development Office](http://www.nypl.org/pr/contacts.cfm#friends).
 
 **Updating Your Information**   
-Patrons who would like to update information and preferences in connection with Library newsletters, mailing lists, and databases should refer to this list for [contact information](https://web.archive.org/web/20081216022804id_/http%3A//www.nypl.org/legal/contact.cfm). In all instances, patrons can stop receiving e-newsletters sent by the Library by clicking on the “Unsubscribe” link at the bottom of each such e-newsletter.
+Patrons who would like to update information and preferences in connection with Library newsletters, mailing lists, and databases should refer to this list for [contact information](https://web.archive.org/web/20090323054604id_/http%3A//www.nypl.org/legal/contact.cfm). In all instances, patrons can stop receiving e-newsletters sent by the Library by clicking on the “Unsubscribe” link at the bottom of each such e-newsletter.
 
 **Third-Party Partners**  
 The Library has teamed up with reputable third-party partners in order to provide certain services to its patrons. The information you submit to the Library may be provided to those third parties on a confidential basis so that they can assist us in providing certain services, including English Classes for Speakers of Other Languages and activities that require us to maintain databases and/or process credit card transactions and donations. In cases where patrons leave the Library's website to visit one of its partners' websites, patrons are encouraged to become familiar with the privacy policies of the websites they visit.
@@ -36,4 +36,4 @@ This Privacy Policy may be revised to reflect changes in the Library's policies 
 
 Revised 4/18/07
 
-[**Contact Information**](https://web.archive.org/web/20081216022804id_/http%3A//www.nypl.org/legal/contact.cfm)
+[**Contact Information**](https://web.archive.org/web/20090323054604id_/http%3A//www.nypl.org/legal/contact.cfm)
