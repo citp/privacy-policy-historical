@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006195750id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323232931id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Communication Initiative Network
 
@@ -76,12 +76,10 @@ Our Customer Privacy Policy is subject to change at any time. We encourage you t
 
 [](https://www.comminit.com/en/ci_associates/)
 
-## Login / Regisiter
-
-Subscribe to The Drum Beat, Contribute to Forums, Get Poll Results etc 
-
-New to CI? [» Start here](https://web.archive.org/en/user/register/36)
-
 ## Development Classifieds
 
 [](https://web.archive.org/en/classifieds/)
+
+## Evaluating e-Health
+
+**In general, e-Health initiatives are:**
