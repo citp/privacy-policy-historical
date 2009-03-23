@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-photo-secrets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104714id_/http%3A//www.digital-photo-secrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-photo-secrets.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323053628id_/http%3A//www.digital-photo-secrets.com/privacy.html) for the most accurate reproduction.*
 
 # Digital Photography Secrets
 
