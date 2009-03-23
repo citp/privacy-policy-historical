@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231083732id_/http%3A//www.maturescam.com/info.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323211107id_/http%3A//www.maturescam.com/info.php%3Fmaturescam_session%3D6634d9dc02bb2ecfdab99c2a4556c7f20814fe47%23privacy) for the most accurate reproduction.*
 
 # Free Live Sex - Hot Live Sex Shows!... MaturesCam..
 
 **Need help?**
 
 You are very important to us and we strive to provide You with world class Customer Service. Customer Service agents are standing by 24 hours a day, 7 days a week, in order to meet Your needs. You may contact them online at the Customer Support chatroom or via e-mail by filling out the form below. 
+
+For online assistance, visit our customer support chatroom. 
 
 Please be advised that the billing operation is being handled by  Support from now on. If You have questions about billing, please call  at: (+351) 291 003 610 ** **
 
