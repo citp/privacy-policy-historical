@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020230id_/http%3A//www.carnival.com/CMS/Static_Templates/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324211859id_/http%3A//www.carnival.com/CMS/Static_Templates/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Carnival Cruise Lines - Privacy Policy
 
