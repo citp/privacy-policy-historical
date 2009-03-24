@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007032853id_/http%3A//www.sqlbi.com/Home/tabid/36/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324020010id_/http%3A//www.sqlbi.com/Home/tabid/36/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # SqlBI.eu
 
@@ -44,4 +44,4 @@ SQLBI.EU will occasionally update this Statement of Privacy to reflect company a
 
 Contact Information
 
-SQLBI.EU welcomes your comments regarding this Statement of Privacy. If you believe that SQLBI.EU has not adhered to this Statement, please contact SQLBI.EU at [info@sqlbi.eu](mailto:info@sqlbi.eu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+SQLBI.EU welcomes your comments regarding this Statement of Privacy. If you believe that SQLBI.EU has not adhered to this Statement, please contact SQLBI.EU at [info@sqlbi.com](mailto:info@sqlbi.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
