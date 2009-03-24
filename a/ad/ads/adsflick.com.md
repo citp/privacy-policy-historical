@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsflick.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121173545id_/http%3A//www.adsflick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsflick.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324091007id_/http%3A//www.adsflick.com/privacy.php) for the most accurate reproduction.*
 
 # AdsFlick - News, Videos, Images :: Privacy Policy
 
