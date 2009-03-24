@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054223id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324062806id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Bandai.com - Privacy Policy
+# Bandai.com - Privacy Policy: find toys for Power Rangers, Ben 10, Dragon Ball, Tamagotchi, and Action Figures
 
 We here at Bandai America Incorporated (BAI) make the safety and privacy of children a top concern. This notice is being supplied in compliance with the [Children's Online Privacy Protection Act](http://www.coppa.org/) (COPPA). Bandai attempts to adhere/or intends to comply with CARU's Self-Regulatory Guidelines for Children's Advertising.
 
