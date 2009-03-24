@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170029id_/http%3A//dsc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treehugger.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324210011id_/http%3A//dsc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Discovery Channel
 
