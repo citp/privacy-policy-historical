@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoconsult.co.uk privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227030333id_/http%3A//www.seoconsult.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoconsult.co.uk privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324035620id_/http%3A//seoconsult.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Consult, Privacy Policy
 
@@ -18,26 +18,21 @@
 
 * Required Field
 
-[](https://web.archive.org/seo-analysis.html)
+[](https://web.archive.org/seo-analysis.html) [](http://twitter.com/seoconsult)
 
-  
+## [SEO for mobile phone websites](https://web.archive.org/SEOBlog/mobile-seo/seo-for-mobile-phone-websites.html " SEO for mobile phone websites")
 
+posted on: **2009/03/23** in **[Mobile SEO](https://web.archive.org/SEOBlog/mobile-seo)**
 
-## [Webstite Optimization - The Internet Marketing Medium](https://web.archive.org/SEOBlog/website-optimization/webstite-optimization-the-internet-marketing-medium.html " Webstite Optimization - The Internet Marketing Medium")
+What are the differences in search optimising for a mobile phone website versus a standard website And, do search engines treat a mobile search differently to a normal PC or desktop search If you have a normal website but want to create a mobile phone version of the sa...
 
-posted on: **2008/12/26** in **[Website Optimization](https://web.archive.org/SEOBlog/website-optimization)**
+## [Monitoring Search Engine Optimisation Results](https://web.archive.org/SEOBlog/search-engine-optimisation-analysis/monitoring-search-engine-optimisation-results-2.html " Monitoring Search Engine Optimisation Results")
 
-Is Webstite Optimization marketing viable Online marketing has grown at a phenomenal rate and has changed the way business is conducted on a global scale. As businesses are being exposed to every corner of the world the competition for effective marketing techniques ar...
+There are no cutting corners if youre aiming to achieve successful Search Engine Optimisation SEO results and no guarantees of 100 success either. Search Engine Optimisation techniques and skills are enhanced by having an understanding of your target market and your ...
 
-## [Combining Post-Click Tracking And Search Engine Optimization](https://web.archive.org/SEOBlog/search-engine-optimization-marketing/combining-post-click-tracking-and-search-engine-optimization.html " Combining Post-Click Tracking And Search Engine Optimization")
+## [Ethical Search Engine Optimization](https://web.archive.org/SEOBlog/ethical-search-engine-optimisation/ethical-search-engine-optimization.html " Ethical Search Engine Optimization")
 
-Each businessman will ask himself this question or variations of it: Why do I need to spend all this money on website design, copywriters, get more and more technology that I probably wont understand when all I really want to do is sell my unique product or my specialis...
-
-## [Just Search Get Dirty](https://web.archive.org/SEOBlog/latest-news/just-search-get-dirty.html " Just Search Get Dirty")
-
-posted on: **2008/12/24** in **[Latest News](https://web.archive.org/SEOBlog/latest-news)**
-
-I guess in the world of business and sales you would expect to here a bit of banter between companies in an attempt to win business, but when you hear the same thing 4 times from different companies, you start to realise that actually a business has a strategy to rubbis...
+Ethical search engine optimization SEO techniques are crucial when planning an SEO campaign, or when generally maintaining the SEO of your website. Its referred to quite simply as a black hat or white hat approach to Search Engine Optimization though theres often grey...
 
 [Click Here for more SEO blogs](https://web.archive.org/SEOBlog/)
 
