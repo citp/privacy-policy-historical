@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021437id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324093527id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
 
 # One True Media - Privacy Policy
 
