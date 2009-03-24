@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217022218id_/http%3A//www.freecodesource.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecodesource.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324043709id_/http%3A//www.freecodesource.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
