@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whateverlife.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627022004id_/http%3A//www.whateverlife.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whateverlife.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324065546id_/http%3A//whateverlife.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Whateverlife.com [anything, everything: ANYTIME]Hot layouts, cute layouts, free layouts, free graphics, cute graphics, tutorials, web tutorials.
+# Whateverlife.com, Tab Layouts, Default Layouts, Myspace Layouts, Cute layouts, Cute Myspace Layouts
 
 This is the web site of **Whateverlife.com**.
 
@@ -49,3 +49,14 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+  
+
+
+  
+[](http://www.socialvibe.com/?r=141523&rs=join_sv)
+
+[](http://www.socialvibe.com/?r=141523&rs=join_sv)
+
+  
+[](http://www.socialvibe.com/?r=141523&rs=join_sv)
