@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sd.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152404id_/http%3A//www.sd.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sd.gov privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325145125id_/http%3A//www.sd.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - State of South Dakota
 
@@ -23,5 +23,5 @@ The State of South Dakota is committed to the security of the information that i
 **Links to Other Sites** This web site has links to many other web sites. These include links to web sites operated by other government agencies, nonprofit organizations, and private businesses. The State of South Dakota is not responsible for the content or privacy practices of these sites and suggests you review their privacy statements. 
 
 **Contact Information**   
-The State welcomes comments regarding this privacy statement. Please convey any questions or concerns to:   
+The State welcomes comments regarding this privacy statement. Please convey any questions or concerns to   
 **Bureau of Information and Telecommunications: (605) 773-3416. E-mail:[webmaster@state.sd.us](mailto:webmaster@state.sd.us)**
