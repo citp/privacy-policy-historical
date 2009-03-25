@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013193529id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325043803id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Environmental Defense Fund
 
