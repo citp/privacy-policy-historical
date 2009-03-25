@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourguide.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003081640id_/http%3A//www.getyourguide.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourguide.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325031902id_/http%3A//www.getyourguide.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GetYourGuide - 隐私策略
 
