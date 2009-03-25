@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064413id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325095303id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,8 @@ Because we gather certain types of information about our users, we feel you shou
 
 DART Creations gathers two types of information about users:
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:  
+
   * Information DART Creations gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because DART Creations derives some of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our providing free  content to our users. Under no circumstances does DART Creations divulge any information about an individual user to a third party. 
 
 
@@ -70,6 +71,12 @@ We give users options wherever necessary and practical. Such choices include:
   * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
 
+
+GOOGLE ADS 
+
+Google, as a third-party vendor, uses cookies to serve ads on DART Creations.  
+Google's use of the DART cookie enables it to serve ads to you based on your visits to sites.  
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 YOUR CONSENT
 
