@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608134303id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325072935id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Visa Bureau
 
