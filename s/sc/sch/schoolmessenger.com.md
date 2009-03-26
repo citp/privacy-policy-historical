@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208031203id_/http%3A//www.schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326165635id_/http%3A//www.schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SchoolMessenger Notification Services
 
