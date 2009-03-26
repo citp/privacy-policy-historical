@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211013519id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326080759id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hybrid Cars
 
@@ -23,7 +23,7 @@ We have a simple web statistics program running that tracks how many times each 
 
 We log your email address in three situations:
 
-Hybrid Cars Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](https://web.archive.org/web/20081211013519id_/http%3A//www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
+Hybrid Cars Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](https://web.archive.org/web/20090326080759id_/http%3A//www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
 
 Email Page to a Friend - We log each time someone uses this feature to track how many times it is used, by whom, and from what page. We do this to make sure that someone doesn't abuse the feature by sending multiple emails from the site to the same person. The information is discarded monthly and will never be sold or transferred to any other organization.
 
