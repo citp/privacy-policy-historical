@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217020107id_/http%3A//www.dotnetnuke.com/Home/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetnuke.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326024532id_/http%3A//www.dotnetnuke.com/Home/tabid/510/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # DotNetNuke / DNN - Home
 
