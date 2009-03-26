@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052727id_/http%3A//www.paypoint.net/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypoint.net privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326080542id_/http%3A//www.paypoint.net/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PayPoint.net
 
