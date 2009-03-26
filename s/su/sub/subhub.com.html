@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the subhub.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217143419id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the subhub.com privacy policy that was archived on 2009-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090326072435id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,7 +13,7 @@
     <meta content="text/html" name="DC.format">
     <meta content="SubHub enables you to create content websites that make money from subscription, membership, adsense, openx, affiliate marketing and ecommerce. " name="description">
     <meta content=",membership website,membership web site,subscription website,online magazine,adsense website,affiliate website,membership website software,recurring billing,online journal,publisher software,publishing software,password software,content monetisation,login software" name="keywords">
-    <link rel="alternate" type="application/rss+xml" href="feed://www.subhub.com/feed.rdf" title=" - recently updated articles">
+    <link rel="alternate" type="application/rss+xml" href="feed://subhub.com/feed.rdf" title=" - recently updated articles">
     
     <style type="text/css" media="all">@import url(/css/ploneColumns.css);</style>
     <style type="text/css" media="screen">@import url(/css/plone.css);</style>
@@ -26,14 +26,28 @@
 
   </head>
 
-<body id="content__" class="www_subhub_com">
+<body id="content__" class="subhub_com">
   <div id="visual-portal-wrapper">
 
     <h1 id="portal-logo">
       <a href="/" id="headerhomelink"></a>
-      <a href="/contactus" style="width: 115px; height: 80px; left: 615px; bottom: 0px"></a>
+      <!-- Home Link -->
+<a href="/" style="width: 40px; height: 15px; top: 10px; left: 520px; "></a>
 
+<!-- About Us Link -->
+<a href="/categories/about-subhub" style="width: 40px; height: 15px; top: 10px; left: 575px; "></a>
 
+<!-- News Link -->
+<a href="/categories/subhub-news" style="width: 40px; height: 15px; top: 10px; left: 630px; "></a>
+
+<!-- Testimonials Link -->
+<a href="/categories/client-testimonials" style="width: 80px; height: 15px; top: 10px; left: 680px; "></a>
+
+<!-- Prices Link -->
+<a href="/prices" style="width: 60px; height: 15px; top: 10px; left: 770px; "></a>
+
+<!-- Contact Link -->
+<a href="/contactus" style="width: 60px; height: 15px; top: 10px; left: 840px; "></a>
 
 <script type="text/javascript"> 
 //\/////
@@ -231,6 +245,7 @@ var olHideDelay;
 
 // Decide browser version
 var isMac = (navigator.userAgent.indexOf("Mac") != -1);
+
 var olOp = (navigator.userAgent.toLowerCase().indexOf('opera') > -1 && document.createTextNode);  // Opera 7
 var olNs4 = (navigator.appName=='Netscape' && parseInt(navigator.appVersion) == 4);
 var olNs6 = (document.getElementById) ? true : false;
@@ -338,6 +353,14 @@ function overlib() {
 	o3_hauto=ol_hauto;
 	o3_vauto=ol_vauto;
 	o3_closeclick=ol_closeclick;
+
+
+
+
+
+
+
+
 	o3_wrap=ol_wrap;	
 	o3_followmouse=ol_followmouse;
 	o3_mouseoff=ol_mouseoff;
@@ -551,6 +574,7 @@ function set_background(pic) {
 
 ////////
 // HANDLING FUNCTIONS
+
 ////////
 var olShowId=-1;
 
@@ -708,6 +732,7 @@ function olMouseCapture() {
 function parseTokens(pf, ar) {
 	// What the next argument is expected to be.
 	var v, i, mode=-1, par = (pf != 'ol_');	
+
 	var fnMark = (par && !ar.length ? 1 : 0);
 
 	for (i = 0; i < ar.length; i++) {
@@ -781,7 +806,9 @@ function parseTokens(pf, ar) {
 			if (ar[i]==FOLLOWMOUSE) { eval(pf +'followmouse=('+pf+'followmouse == 1) ? 0 : 1'); continue; }
 			if (ar[i]==MOUSEOFF) { eval(pf +'mouseoff=('+pf+'mouseoff==0) ? 1 : 0'); v=ar[i+1]; if (pf != 'ol_' && eval(pf+'mouseoff') && typeof v == 'number' && (v < pmStart || v > pmUpper)) olHideDelay=ar[++i]; continue; }
 			if (ar[i]==CLOSETITLE) { eval(pf+"closetitle='"+escSglQuote(ar[++i])+"'"); continue; }
+
 			if (ar[i]==CSSOFF||ar[i]==CSSCLASS) { eval(pf+'css='+ar[i]); continue; }
+
 			if (ar[i]==COMPATMODE) { eval(pf+'compatmode=('+pf+'compatmode==0) ? 1 : 0'); continue; }
 			if (ar[i]==FGCLASS) { eval(pf+'fgclass="'+ar[++i]+'"'); continue; }
 			if (ar[i]==BGCLASS) { eval(pf+'bgclass="'+ar[++i]+'"'); continue; }
@@ -1548,9 +1575,6 @@ if ((olNs4 || olNs6 || olIe4)) {
 	
 		<ul id="portal-nav-1">
 		<li class="plain">
-		<a href="/">Home</a>
-	</li>
-	<li class="plain">
 		<a href="/freetrial/">Free Trial</a>
 	</li>
 	<li class="plain">
@@ -1560,16 +1584,10 @@ if ((olNs4 || olNs6 || olIe4)) {
 		<a href="/categories/subhub-client-portfolio">Clients</a>
 	</li>
 	<li class="plain">
-		<a href="/prices">Pricing</a>
+		<a href="/pricing">Pricing</a>
 	</li>
 	<li class="plain">
-		<a href="/categories/subhub-articles">Articles</a>
-	</li>
-	<li class="plain">
-		<a href="/categories/about-subhub">About Us</a>
-	</li>
-	<li class="plain">
-		<a href="/prices" class="last">Buy Now</a>
+		<a href="/categories/subhub-articles" class="last">Free Resources</a>
 	</li>
 
 	</ul>
@@ -1680,8 +1698,6 @@ _qacct="p-94dcW41AqJN1k";quantserve();
 		  </td>
 		  <td id="midcol" valign="top">
 		    <div id="portal-column-content" class="">
-								
-				
 				<div class="documentContent" id="region-content">
 			    <a name="documentContent"></a>
 								<div>
@@ -1722,15 +1738,8 @@ If you ever want to change any information you have provided to us please <a hre
 			</div>
 		  </td>
 		  		  <td id="portal-column-two" valign="top">
-		    <div class="portlet" id="portlet_20081204_1">
-  <h5>
-    Affiliates Wanted
-  </h5>
-  <div class="portletBody">
-<div class="nav-category"><a target="_blank" href="http://www.subhubaffiliates.com">Our Affiliates Site</a></div>
-</div>
-</div><div class="portlet" id="portlet_20081110">
-<div align="center"><a href="/articles/where-else-to-find-subhub-on-the-web"><img height="161" border="0" align="middle" width="154" alt="Find SubHub On . . ." src="/custom/findsubhubon(2).jpg"></a></div>
+		    <div class="portlet" id="portlet_20081110">
+<div align="center"><a href="/articles/where-else-to-find-subhub-on-the-web"><img width="154" height="161" border="0" align="middle" src="/custom/findsubhubon(2)(1).jpg" alt="Find SubHub On . . ."></a></div>
 </div><div class="portlet" id="portlet_20080903">
   <h5>
     Search Articles
@@ -1780,6 +1789,13 @@ If you ever want to change any information you have provided to us please <a hre
                 <a href="/categories/video">Video Course</a>
         </div>
           </div>
+</div><div class="portlet" id="portlet_20090226">
+  <h5>
+    More Free Articles
+  </h5>
+  <div class="portletBody">
+<div class="nav-category"><a href="http://www.talkcontent.com" target="_blank">Visit TalkContent</a></div>
+</div>
 </div><div class="portlet" id="portlet_20081028_1">
   <h5>
     SubHub on Twitter
@@ -1792,7 +1808,9 @@ If you ever want to change any information you have provided to us please <a hre
 <div class="nav-category">                 <a target="_blank" href="http://twitter.com/evanrud">Evan Rudowski</a></div>
 </div>
 </div><div class="portlet" id="portlet_20080903_2">
-<a href="http://www.subhub.com/freetrial/"><img width="154" height="161" border="0" align="middle" src="/custom/trialblurb(3).gif" name="TrialImg" alt="Free Trial" class=""></a>
+<a href="http://www.subhub.com/freetrial/"><img width="154" height="161" border="0" align="middle" src="/custom/trialblurb(3)(1).gif" name="TrialImg" alt="Free Trial"></a>
+</div><div class="portlet" id="portlet_20090220">
+<div align="center"><a href="http://alltop.com/"><img height="125" width="125" alt="Alltop, all the top stories" src="http://badges.alltop.com/images/alltop_125x125.jpg"></a></div>
 </div><div class="portlet" id="portlet_20081020_1">
 <a href="http://feeds.feedburner.com/SubhubStartASubscriptionOrMembershipWebsite-OnlineMagazineOnlineJournalOnlineNewsletter" rel="alternate" type="application/rss+xml" target="_blank" title="Subscribe to my feed"></a>
 <div align="center"><a href="/articles/subhub-rss-feeds" rel="alternate" type="application/rss+xml" target="_self" title="Subscribe to my feed"><img width="92" height="82" src="/custom/rssbuttonsmall(2).gif" alt="Subscribe to SubHub RSS feed" style="border: 0pt none ;"></a><br>
@@ -1810,11 +1828,11 @@ If you ever want to change any information you have provided to us please <a hre
                     <span id="footer-login"><a href="/static/login">Login</a></span>
                               <span id="footer-subscribe"> <a href="/subscribe">Join Now
                        </a></span>
-                    <span id="footer-rss"><a href="http://www.subhub.com/feed.rdf">RSS</a></span>
+                    <span id="footer-rss"><a href="http://subhub.com/feed.rdf">RSS</a></span>
           <span id="footer-termsandconditions"><a href="/static/termsandconditions" rel="nofollow">Terms &amp; Conditions</a></span>
           <span id="footer-privacypolicy"><a href="/static/privacypolicy" rel="nofollow">Privacy Policy</a></span>
           </div>
-          <div id="copyrightmessage">© Copyright 2000-2008 SubHub Ltd - 
+          <div id="copyrightmessage">© Copyright 2009 SubHub Ltd - 
 Powered by <a href="http://www.subhub.com" target="_blank">SubHub - Membership Website Experts</a></div>
         </div>
   </div>
