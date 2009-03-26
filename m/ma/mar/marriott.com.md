@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621221232id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326081811id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
 
 # View information on the Marriott corporation, including our internet privacy policy
 
@@ -27,7 +27,7 @@ When we need to collect personally identifiable information from you to provide 
 
 4) send you periodic satisfaction or market research surveys. 
 
-You can opt out of marketing emails at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20080621221232id_/http%3A//www.marriott.com/privacy.mi#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
+You can opt out of marketing emails at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20090326081811id_/http%3A//www.marriott.com/privacy.mi#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
   
 Back to top  
   
@@ -39,7 +39,7 @@ Back to top
   
 Accessing Marriott.com from a Web-enabled Mobile Device
 
-You can access Marriott.com from a web-enabled mobile device to find a hotel (including clicking to call the hotel) or view or cancel a reservation.  If you desire to view or cancel a reservation you will be required to enter your Marriott Rewards account through your email/Marriott Rewards number and password, or Marriott confirmation number and last name.  No other personally identifiable information will be requested.   
+You can access Marriott.com from a web-enabled mobile device to find a hotel (including clicking to call the hotel) or view or cancel a reservation.  If you desire to view or cancel a reservation you will be required to enter your Marriott Rewards account through your email/Marriott Rewards number and password, or Marriott confirmation number and last name.  No other personally identifiable information will be requested. In addition, you can make a reservation from a web-enabled device. When you make a reservation you will need to provide certain personally identifiable information such as name, email address and credit card information. You may also enroll in the Marriott Rewards program from a web-enabled device. When enrolling in Marriott Rewards you will be required to provide certain personally identifiable information such as name, email address and point earning preference.   
   
 Back to top  
   
@@ -104,7 +104,7 @@ Back to top
   
 Securing the Transmission and Storage of Information
 
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and policies regarding protection and use of confidential information. When we ask you for credit card data, it is transferred over a Secured Sockets Layer (SSL) line, provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Mozilla Firefox. We also use SSL on other pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position.  In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https." 
+We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and policies regarding protection and use of confidential information. When we ask you for credit card data, it is transferred over a Secured Sockets Layer (SSL) line, provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Mozilla Firefox. We also use SSL on other pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer or web-enabled device.  You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position.  In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https." 
 
 After information reaches Marriott, it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside of Marriott.  Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements.  Information collected on the Web sites covered by this privacy statement is generally processed and stored in the United States.   
   
@@ -165,7 +165,7 @@ eFolio
 
 If you choose to participate in the in the eFolio program ("Program") you will receive hotel bills by email ("eFolio"). The eFolio will be sent to you over the Internet in an unsecured (unencrypted) manner and could be subject to interception by third parties. 
 
-Once you have subscribed to the Program, your Marriott Rewards number as entered on your reservation acts as the eFolio identifier, prompting your bill to be transmitted to your email address of record. If your Marriott Rewards number is applied to another person's room reservation, that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that their bill will be emailed to you when your Marriott Rewards number is attached to his/her reservation unless he/she makes alternative arrangements with a front desk associate during the stay.   
+Once you have subscribed to the Program, your Marriott Rewards number as entered on your reservation acts as the eFolio identifier, prompting your bill to be transmitted to your email address of record. If your Marriott Rewards number is applied to another person's room reservation, or if you make a reservation for another person and provide your email address for that reservation that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that their bill will be emailed to you when your Marriott Rewards number or email address is attached to his/her reservation unless he/she makes alternative arrangements with a front desk associate during the stay.   
   
 Back to top  
   
@@ -220,6 +220,6 @@ Within Marriott.com are numerous other Marriott Web sites that are accessible fr
 Back to top  
   
 Marriott.com Changes to Your Privacy Rights  
-In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on June  13, 2008 to reflect the Better Business Bureau's discontinuance of the BBB _Online_ privacy seal, to eliminate the section regarding establishing a personal online account and to make other minor clarifications.   
+In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on August 15, 2008 to reflect new functionality for web-enabled mobile devices and clarify how the eFolio program functions.   
   
 Back to top
