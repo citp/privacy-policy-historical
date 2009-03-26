@@ -1,159 +1,79 @@
-> *The following text is extracted and transformed from the screenjunkies.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenjunkies.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326072449id_/http%3A//www.screenjunkies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy Policy | Screen Junkies
 
-Privacy Policy  
+**ScreenJunkies  Privacy Policy**
 
+**Effective as of February 20, 2009**
 
-  
-Updated September 30, 2004  
-Version 2.4
+At ScreenJunkies.com, a website operated by ChickiP, LLC (“ChickiP”), we are committed to respecting people’s privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using ScreenJunkies.com, you consent to the collection and use of your information by ChickiP as described in this Policy, and you signify your agreement to the ScreenJunkies  Privacy Policy.
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+### Information submitted by you for inclusion on your ScreenJunkies  profile.
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Information, pictures and media files you upload to your account (“Submissions”) will be posted on the site, subject to our Users Terms and Conditions and accessible by all visitors to the site (unless you expressly restrict such access through your account settings), and ChikiP has no control over, and shall incur no responsibility for, how such visitors will use such Submissions.   ChikiP reserves the right (but not the obligation) to remove or edit Submissions, but does not regularly review Submissions.
 
-**This Privacy Policy protects your privacy by:**
+Please remember that if you post any of your personal information in public areas of the website, such as in online forums or chat rooms, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of the website.
 
-**Informing you about:**
+**What information does ChickiP collect?**
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+When you visit ScreenJunkies.com, we collect some basic information that does not identify individual users. This includes which pages are visited and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
 
-**Empowering you to choose:**  
+When you register for the website, we collect personal information such as name, age, and email in order to set up your account.  
 
+In addition to the information we collect upon your initial registration with ScreenJunkies.com, we may ask you for personal information at other times, including, but not limited to, when you enter promotions or contests, and when you respond to a survey.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+Upon cancelling your ScreenJunkies account, you have the right to request deletion of your account information, subject to our need to keep appropriate archives for our business operations.
 
-**Assuring you that Network Solutions:**  
+**What do we do with the information we collect?**
 
+1.      It is used to set up and maintain your ScreenJunkies.com account.  If you provide us with your mobile phone information, we may use such information to communicate with you regarding ScreenJunkies.com by SMS, MMS, text message or other electronic means to a mobile device.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+2.  Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+3.  Your personal information will never be sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you email about items that we feel you should know about. This includes special promotional items that ChickiP endorses, membership changes, terms and conditions changes, Holiday cards, and the latest happenings on ScreenJunkies.com.  When we send you emails that include a link to the website, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. 
 
-**Getting to Know Our Customers**
+Email Opt-out
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+Users who no longer wish to receive our email updates or other notifications may opt-out of receiving these communications by following the instructions contained in the applicable email or by logging-in and changing their account settings.  
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+**With whom do we share your information and for what purpose?**
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+ChickiP does not sell, rent, or trade any personally identifying information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If we intend to share such information, you will be notified prior to the collection of that information. If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.  
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We may contract with third parties to conduct research and marketing on our behalf.  Such third parties will be fully bound by an obligation of confidentiality to ChickiP and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
 
-**Third Party Advertising and Cookies**
+**What information do parties other than ChickiP collect?**
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
+Some entities that have links on our site may collect personally identifying information about you when you access or utilize those links.  ChickiP does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
+It is important to note that those entities may not follow the same privacy policies as ChickiP. For instance, if you click on an advertisement on ScreenJunkies.com, you may be taken away from ScreenJunkies.com to an entirely different site.  These links can also be from advertisers, content providers and/or partners who may use ScreenJunkies.com’s logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as ChickiP.
 
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+**What are “cookies” and “web beacons” and how do we use them?**
 
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Our site may use “cookies” and “web beacons” to speed navigation, keep track of items, and provide you with custom-tailored services.  A “web beacon” is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use “cookies” to remember information you gave us so you don't have to re-enter it each time you visit the site. By showing us how and when visitors use the site, “cookies” and “web beacons” help us see which site areas and content are popular and which are not. We also collect IP addresses for system administration and to report aggregate information to any sponsors.   Some advertisers or websites that have links on our site may also use their own “cookies.”
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Most browsers are initially set to accept “cookies.” If you'd prefer, you can set yours to refuse “cookies.” You will not be able to use our service if you turn off the “cookies” option.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+**Security**
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Our member accounts are secured by member-created passwords.  In addition, we use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.  
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+However, please note that we cannot guarantee the security of member account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of our member information at any time.
 
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+## Business transitions 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+In the event ChickiP goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
+We make an effort to protect the personal information of all users of ScreenJunkies.com.  If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to ScreenJunkies.com. IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION. Users of ScreenJunkies.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+**Cooperation with law enforcement; fraud protection**
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
+ChickiP fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to disclose information about members who we believe are in violation of applicable laws or regulations, or as required to respond to a subpoena, court orders or other legal process requiring such disclosure. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful and to exchange information with other companies and organizations for fraud protection. 
 
-  2. Click “Edit User Info” in the left menu;  
+**Changes to our Privacy Policy**
 
-  3. Scroll to the bottom of the page;  
+Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the ScreenJunkies.com website.  Users are bound by any changes to the Privacy Policy when they use ScreenJunkies.com after such changes have been first posted.  Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of ScreenJunkies.com, and you are responsible for reviewing such legal notices for changes.
 
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
-
-
-
-
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+Any questions regarding our Privacy Policy should be directed to [support@screenjunkies.com](mailto:support@screenjunkies.com?subject=Privacy%20Policy%20Question)
