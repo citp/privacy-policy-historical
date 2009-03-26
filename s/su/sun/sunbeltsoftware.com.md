@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152129id_/http%3A//www.sunbeltsoftware.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326032651id_/http%3A//www.sunbeltsoftware.com/About/Privacy) for the most accurate reproduction.*
 
 # Sunbelt Software Privacy Statement
 
@@ -41,8 +41,8 @@ Sunbelt Software
 33 North Garden Avenue  
 Suite 1200  
 Clearwater, Florida USA 33755  
-email: [privacy@sunbelt- software.com](mailto:privacy@sunbelt-software.com)  
-email: [abuse@sunbelt- software.com](mailto:abuse@sunbelt-software.com)
+email: [privacy@sunbeltsoftware.com](mailto:privacy@sunbeltsoftware.com)  
+email: [abuse@sunbeltsoftware.com](mailto:abuse@sunbeltsoftware.com)
 
 **Secure Shopping & Registration Guarantee**  
 The purchase and registration areas of our site (OnLineShop) are secure. This means that any information you send us is protected by encryption to prevent unauthorized access to your information. The secure site is indicated in the URL with the use of "https://", and often reflected at the bottom of your browser with a lock or key graphic.
