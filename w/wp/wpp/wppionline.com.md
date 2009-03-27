@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929101706id_/http%3A//www.wppionline.com/membership/index.taf%3F_function%3Dprivacy%26_UserReference%3D42C9284A46EBADE6C93C0D89114F48E02531) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327224134id_/http%3A//www.wppionline.com/membership/index.taf%3F_function%3Dprivacy%26_UserReference%3D42C9284C46EB1A6FB52D3734ED1E49CC635E) for the most accurate reproduction.*
 
 # WPPI - Membership
 
