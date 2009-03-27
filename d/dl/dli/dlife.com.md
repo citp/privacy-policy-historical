@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627195841id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327144841id_/http%3A//www.dlife.com/dLife/do/ShowContent/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dLife.com - For Your Diabetes Life
 
@@ -43,7 +43,7 @@ dLife does not knowingly collect PII from anyone under thirteen (13) years of ag
 
 Do we have a mechanism to address questions and complaints about the handling of information that we collect?  
   
-If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any PII provided to us, please contact us by e-mail at [privacy_questions@dlife.com](mailto:privacy_questions@dlife.com) or by postal mail at dLife, a LifeMed Media, Inc., 101 Franklin Street, Westport, CT 06880 ATTN: Derek Sasaki.
+If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any PII provided to us, please contact us by e-mail at  or by postal mail at dLife, a LifeMed Media, Inc., 101 Franklin Street, Westport, CT 06880 ATTN: Derek Sasaki.
 
 User Agreement
 
