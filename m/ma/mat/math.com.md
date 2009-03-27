@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170944id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327140144id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
@@ -55,4 +55,4 @@ If you have any questions about the Math.com Privacy Policy, the practices of th
 
 * **Third Party Cookies**
   
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser or use web beacons to collect information. You can manage your cookies preferences through the relevant mechanisms in your web browser (see the preferences or options menus).  |    | 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser or use web beacons to collect information. You can manage your cookies preferences through the relevant mechanisms in your web browser (see the preferences or options menus). Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  |    | 
