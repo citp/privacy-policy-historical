@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the tutorabc.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214005946id_/http%3A//www.tutorabc.com/asp/privacy.asp%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorabc.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327081847id_/http%3A//www.tutorabc.com/asp/privacy.asp%3Flanguage%3Den) for the most accurate reproduction.*
 
 # TutorABC - Your online language learning partner! Real people, real connection and real results!
 
----  
-  
 | [](http://www.tutorabc.com/asp/login.asp?language=en) |    
 ---|---  
   
@@ -66,4 +64,4 @@ If you decide to refer a friend to our site as part of TutorABC contests or othe
 |   
   
 [Home](http://www.tutorabc.com/asp/index.asp?language=en)  |  [Privacy](http://www.tutorabc.com/asp/privacy.asp?language=en)  |  [Security](http://www.tutorabc.com/asp/security.asp?language=en)  |  [Terms of use](http://www.tutorabc.com/asp/service.asp?language=en)  |  [Contact Us](http://www.tutorabc.com/asp/contact_us.asp?language=en)  
- 
+Copyright © TutorABC All Rights Reserved.
