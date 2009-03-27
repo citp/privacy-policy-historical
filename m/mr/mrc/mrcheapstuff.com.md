@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mrcheapstuff.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219024919id_/http%3A//www.mrcheapstuff.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrcheapstuff.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327141729id_/http%3A//www.mrcheapstuff.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Mr. Cheap Stuff
+
+[](http://feeds.feedburner.com/MrCheapStuff) If you're new here you may want to join the 10,000+ smart shoppers that that subscribe to my [RSS feed](http://feeds.feedburner.com/MrCheapStuff) or Free Newsletter. Thanks for visiting! - Dean aka Mr. Cheap Stuff
 
 **Our Commitment To Privacy**
 
@@ -31,4 +33,4 @@ Your privacy is important to us. To better protect your privacy we provide this 
 Related Coupons:  
 [iKobo Coupon Codes](http://www.mrcheapstuff.com/stores/ikobo-coupon-codes/ "Permanent Link: iKobo Coupon Codes")  
 [Resources](http://www.mrcheapstuff.com/resources/ "Permanent Link: Resources")  
-[Buy.com Coupons](http://www.mrcheapstuff.com/categories/electronics/buycom-coupons/ "Permanent Link: Buy.com Coupons")
+[Buy.com Coupons](http://www.mrcheapstuff.com/buycom-coupons/ "Permanent Link: Buy.com Coupons")
