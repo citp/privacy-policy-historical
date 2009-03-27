@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hosting-marketers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141327id_/http%3A//hosting-marketers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting-marketers.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327135955id_/http%3A//hosting-marketers.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy
 
 We are strongly committed to safeguarding customers’ privacy. We operate under the following strict privacy policy:
 
