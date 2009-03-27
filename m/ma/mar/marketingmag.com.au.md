@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910033730id_/http%3A//www.marketingmag.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327104517id_/http%3A//www.marketingmag.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Marketing Magazine
 
