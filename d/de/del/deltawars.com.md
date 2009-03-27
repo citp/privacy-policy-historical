@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltawars.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209053640id_/http%3A//www.deltawars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltawars.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327030621id_/http%3A//www.deltawars.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - DeltaWars
 
@@ -34,7 +34,7 @@ The above information is needed for anti-spam and anti-hacking purposes. It is a
 
   * By visiting this site, you are automatically agreeing to the rules/terms of this website. Failure to adhere to the rules/terms will result in Deltawars taking action against your account. 
   * For help/support/more information ask a team member at the [Forum](https://web.archive.org/discussion/index.php)
-  * For information on the game rules visit the [Rules](https://web.archive.org/web/20081209053640id_/http%3A//www.deltawars.com/rules.php) page. 
+  * For information on the game rules visit the [Rules](https://web.archive.org/web/20090327030621id_/http%3A//www.deltawars.com/rules.php) page. 
   * Deltawars can not be held responsible for any disruption of service, loss of data, game play malfunction, or other events or conditions that are undesirable to the user, under any circumstances. 
   * Deltawars makes no guarantees as to the quality or consistency of service and is under no obligation to deliver such service. 
   * Deltawars reserves the right to ban, suspend, delete, or modify accounts at any time for any reason without notice. 
