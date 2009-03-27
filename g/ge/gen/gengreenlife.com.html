@@ -1,304 +1,198 @@
-<!--The following is the downloaded HTML source of the gengreenlife.com privacy policy that was archived on 2008-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912134128id_/http%3A//www.gengreenlife.com/node.php%3Fnid%3D3295) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gengreenlife.com privacy policy that was archived on 2009-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090327123751id_/http%3A//www.gengreenlife.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="keywords" content="green, green businesses, green living, green products, green events, eco-friendly, earth-friendly, sustainable, local, localization, alternative energy, recycling centers, cooperatives, green living">
-	<meta name="Description" content="At GenGreen Life you can find practically everything you need to live a sustainable life, from local green businesses offering products and services within your own community, to events and classes where like-minded people gather to celebrate and educate.">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>GenGreen Life - Find the Green in Everything... Locally</title>
+		<meta name="keywords" content="green, green businesses, green living, green products, green events, eco-friendly, earth-friendly, sustainable, local, localization, alternative energy, recycling centers, cooperatives, green living">
+		<meta name="Description" content="At GenGreen Life you can find practically everything you need to live a sustainable life, from local green businesses offering products and services within your own community, to events and classes where like-minded people gather to celebrate and educate.">
+	<link rel="stylesheet" href="/css/styles.css" type="text/css" media="all">
+<link href="/css/new_style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/css/pushup.css">
+	<link rel="stylesheet" type="text/css" href="/css/voting.css">
+	<script type="text/javascript" src="/js/prototype.js"></script>
+	<script src="/js/scriptaculous/scriptaculous.js" type="text/javascript"></script>
+	<script src="/js/headerMenu.js" type="text/javascript"></script>
+	<script src="/js/dropdown.js" type="text/javascript"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:300px;background-color:#EDF7DA" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+	<script src="/js/preload.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/js/pushup.js"></script>
+	<script type="text/javascript">
+		
+		function loginBoxChange()
+		{
+			document.getElementById('passwordText').style.display='none';
+			document.getElementById('passwordReal').style.display='';
+			document.getElementById('password').focus();
+		}
+		function loginBoxRestore()
+		{
+			if(document.getElementById('password').value=='')
+			{
+				document.getElementById('passwordText').style.display='';
+				document.getElementById('passwordReal').style.display='none';
+			}
+		}
+		function usernameBoxHide()
+		{
+			if (document.getElementById('username').value == 'Username') 
+			{
+				document.getElementById('username').value = "";
+			}
+		}
+		function usernameBoxRestore()
+		{
+			if(document.getElementById('username').value=='')
+			{
+				document.getElementById('username').value = "Username";
+			}
+		}
+		function searchHide()
+		{
+			if (document.getElementById('q').value == 'Search Listings...') 
+			{
+				document.getElementById('q').value = "";
+			}
+		}
+		function searchRestore()
+		{
+			if(document.getElementById('q').value=='')
+			{
+				document.getElementById('q').value = "Search Listings...";
+			}
+		}
+		
+		function vote(businessID, businessType)
+		{
+			var url = "voting/voting.php?id=" + businessID + "&type=" + businessType;
+			new Ajax.Request (url , 
+			{
+				method: "get",
+				onSuccess: function(transport)
+				{
+					var response = transport.responseText;
+					if(response == -1)
+					{
+						new Effect.Shake("voting_" + businessID + "_" + businessType);
+						setTimeout("alert('You have already voted for this business.  Please contact support@gengreenlife.com if you feel you received this message in error.');", 550);
+					}
+					else if(response == -2) //Not Logged In
+					{
+						alert("You must be logged in to vote.");
+					}
+					else
+					{
+						var count = $(businessID + "_" + businessType + "_count");
+						count.update(response);
+						new Effect.Pulsate("voting_" + businessID + "_" + businessType, { pulses: 1, duration: .5});
+					}
+					//
 
-	<title>GenGreen Life - GenGreen Privacy Policy</title>
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="/js/scriptaculous.js"></script>
-<script type="text/javascript" src="/js/effects.js"></script>
-<script type="text/javascript" src="/js/accordion.js"></script>
-
-<script type="text/javascript">
-
-
-function gotoPage(url)
-{
-   if (url != "")
-   {
-      window.location = '/state.php?s=' + url;
-   }
-}
-
-function gotoCityPage(url)
-{
-   if (url != "")
-   {
-      window.location = '/city.php?c=' + url;
-   }
-}
-
-function gotoContentPage(section, state, city)
-{
-   if (city != "")
-   {
-      window.location = '/' + section + '.php?s=' + state + '&city=' + city;
-   }
-}
-
-function gotoContentNew(section, state)
-{
-	window.location = '/' + section + '.php?s=' + state;
-}
-
-
-</script>
-
-
-<style type="text/css">
-#dropmenudiv{
-position: absolute;
-margin-top: 6px;
-border: 1px solid #FFFFFF;
-border-bottom-width: 0;
-font: normal 10px Verdana;
-line-height: 18px;
-z-index: 100;
-text-align: left;
-}
-
-#dropmenudiv a{
-width: 100%;
-display: block;
-text-indent: 3px;
-border-bottom: 1px solid #FFFFFF;
-padding: 1px 0;
-text-decoration: none;
-font-weight: bold;
-color: #517280;
-}
-
-#dropmenudiv a:hover{ /*hover background color*/
-background-color: #517280;
-color: #FFFFFF;
-}
-
-</style>
-
-<script type="text/javascript">
-
-
-var menu1=new Array()
-menu1[0]='<a href="/ambassador.php">Program Overview</a>'
-menu1[1]='<a href="/node.php?nid=46991">Ambassadors in Action</a>'
-
-var menu2=new Array()
-menu2[0]='<a href="ambassador.php">Ambassador Program</a>'
-<!--menu2[1]='<a href="/node.php?nid=5802">GenGreen Foundation</a>'-->
-
-var menu3=new Array()
-menu3[0]='<a href="/node.php?nid=5149">Business & Organization FAQ</a>'
-menu3[1]='<a href="/node.php?nid=42246">General FAQ</a>'
-
-var menu4=new Array()
-menu4[0]='<a href="/profile.php">My Profile</a>'
-menu4[1]='<a href="/friends.php">My Friends</a>'
-menu4[2]='<a href="/events.php">My Events</a>'
-menu4[3]='<a href="/mail.php">My Messages</a> '
-menu4[4]='<a href="/groups.php">My Groups</a>'
-menu4[5]='<a href="/photos.php">My Photos</a>'
-menu4[6]='<a href="/signin.php">Visit My State</a>'
-menu4[7]='<a href="/signin.php">Visit My City</a>'
-menu4[8]='<a href="/blogs.php">Write a Blog</a>'
-menu4[9]='<a href="/bulletins.php">Post a Bulletin</a>'
-
+				},
+				onFailure: function()
+				{
+					alert("Our server is current experiencing an error, please try voting in a few minutes. Thank You.");
+				}
+			});
+		}
+		
+		function gotoPage(url)
+		{
+		   if (url != "")
+		   {
+		      window.location = url;
+		   }
+		}
+		
+	</script>
+	<!--[if lte IE 6]>
+		<script type="text/javascript" src="js/supersleight-min.js"></script>
+	<![endif]-->
+				
+	<!-- CONTAINER -->
+	<div id="container">
+		<!-- BEGIN HEADER-->	
+<div id="headerContainer">
+<div id="topRightMenu" style="visibility: hidden;" onmouseover="javascript:clearhidemenu();" onmouseout="javascript:delayhidemenu()">
+		<div id="topRightMenuTop"></div>
+		<div id="topRightMenuBody"></div>
+		<div id="topRightMenuBottom"></div>
+	</div>
+	<div id="headerTop">
 	
-
-var menuwidth='165px' //default menu width
-var menubgcolor='#d7eff9'  //menu bgcolor
-var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
-var hidemenu_onclick="yes" //hide menu when user clicks within menu?
-
-/////No further editting needed
-
-var ie4=document.all
-var ns6=document.getElementById&&!document.all
-
-if (ie4||ns6)
-document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-
-function showhide(obj, e, visible, hidden, menuwidth){
-if (ie4||ns6)
-dropmenuobj.style.left=dropmenuobj.style.top="-500px"
-if (menuwidth!=""){
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=menuwidth
-}
-if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
-obj.visibility=visible
-else if (e.type=="click")
-obj.visibility=hidden
-}
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=0
-if (whichedge=="rightedge"){
-var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
-}
-else{
-var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
-if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
-edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
-}
-}
-return edgeoffset
-}
-
-function populatemenu(what){
-if (ie4||ns6)
-dropmenuobj.innerHTML=what.join("")
-}
-
-
-function dropdownmenu(obj, e, menucontents, menuwidth){
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-clearhidemenu()
-dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
-populatemenu(menucontents)
-
-if (ie4||ns6){
-showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
-}
-
-return clickreturnvalue()
-}
-
-function clickreturnvalue(){
-if (ie4||ns6) return false
-else return true
-}
-
-function contains_ns6(a, b) {
-while (b.parentNode)
-if ((b = b.parentNode) == a)
-return true;
-return false;
-}
-
-function dynamichide(e){
-if (ie4&&!dropmenuobj.contains(e.toElement))
-delayhidemenu()
-else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
-delayhidemenu()
-}
-
-function hidemenu(e){
-if (typeof dropmenuobj!="undefined"){
-if (ie4||ns6)
-dropmenuobj.style.visibility="hidden"
-}
-}
-
-function delayhidemenu(){
-if (ie4||ns6)
-delayhide=setTimeout("hidemenu()",disappeardelay)
-}
-
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
-}
-
-if (hidemenu_onclick=="yes")
-document.onclick=hidemenu
-
-
-</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#d7eff9" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
-
-
-
-	
-<link rel="stylesheet" href="/css/styles.css" type="text/css" media="all"><!--[if IE]> <link rel="stylesheet" href="/css/iestyles.css" type="text/css" media="all"/> <![endif]--><!--[if IE 7]> <link rel="stylesheet" href="/css/ie7.css" type="text/css" media="all"/> <![endif]--><!--[if lt IE 7]>
-
-        <link rel="stylesheet" href="/css/ie7minus.css" type="text/css" media="all"/>
-
-        <script type="text/javascript" src="/js/ds-sleight.js"></script>
-        <script type="text/javascript" src="/js/iehover-fix.js"></script>
-    <![endif]-->
-    
-    
-    
-
-    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
-    
-		          
-    
-  
-
-<script type="text/javascript">
-	function clearIt(elm) {
-		document.getElementById(elm).value = "";
-	}
-</script>
-
-<!-- [start] header -->
-<div style="background: #517280; height: 1px; text-align: right;"></div>
-<div class="header">
-	<div class="header-top-container">
-    	<div class="header-top">
-        <a href="/"><img src="images/logo.gif" alt="GenGreen Logo" align="left" border="0"></a>
-        	<div class="account-access">
-         
-                        <strong><a href="/node.php?nid=42523">Join GenGreen Life</a>  | <a href="/signin.php">Login</a></strong>
-            			| <a href="index.php">Home</a><br>
+<div id="headerLogo"><a href="/"><img src="/images/header/logo.jpg" title="GenGreen Life: Find the Green in Everything... Locally"></a></div>
+		<div id="headerTopRight">
+					<a href="/join_gengreen.php">Join GenGreen</a>
+				</div>
+		<div id="headerSearch">
+		<form action="/search.php" method="get" enctype="application/x-www-form-urlencoded">
+			<table border="0">
+				<tbody><tr>
+				
+					<td><input type="text" value="Search Listings..." id="q" name="q" onfocus="searchHide();" onblur="searchRestore()"></td>
+					<td><input type="image" value="submit" src="images/header/search.gif" align="bottom"></td>
+				</tr>
+			</tbody></table>
+		</form>
+		</div>
+		<div id="headerTopContainer">
 			
-			<br>
-			        	</div>
-    	</div>
-    	<div class="header-nav">
-       		<div class="header-nav-links">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="node.php?nid=41616&amp;auth=1" class="header-nav-link">:: My Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--a href="/node.php?nid=5265" class="header-nav-link" onMouseover="dropdownmenu(this, event, menu1, '150px')" onMouseout="delayhidemenu()">:: About Us</a--><a href="/ambassador.php" class="header-nav-link" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">:: Ambassador Outreach Program</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=41491" class="header-nav-link">:: Environment 101</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=5150" class="header-nav-link">:: Environmental Glossary</a><!--a href="/node.php?nid=5149" class="header-nav-link" onMouseover="dropdownmenu(this, event, menu3, '180px')" onMouseout="delayhidemenu()">:: FAQ</a-->&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node.php?nid=1002" class="header-nav-link">:: Key Links</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.gengreenlife.com/" class="header-nav-link" target="_blank">:: GenGreen Blog</a></div>
+			<form action="/signin.php" method="post" name="login">
+				<table border="0">
+					<tbody><tr>
+													<td>
+								<script type="text/javascript">
+									document.write('<input type="text" value="Username" id="username" name="username" size="12" onfocus="usernameBoxHide()" onblur="usernameBoxRestore()"/>');
+								</script><input type="text" value="Username" id="username" name="username" size="12" onfocus="usernameBoxHide()" onblur="usernameBoxRestore()">
+								<noscript>
+									<input type="text" value="" id="username" name="username" size="12"/>
+								</noscript>
+							</td>
+							<td>
+								<script type="text/javascript">
+									document.write('<span id="passwordText">');
+									document.write('<input name="pass_temp" type="text" value="Password" size="12" onfocus="loginBoxChange()" />');
+									document.write('</span>');
+									document.write('<span id="passwordReal" style="display:none">');
+									document.write('<input name="password" id="password" type="password" value="" size="12" onBlur="loginBoxRestore()" />');
+									document.write('</span>');
+								</script><span id="passwordText"><input name="pass_temp" type="text" value="Password" size="12" onfocus="loginBoxChange()"></span><span id="passwordReal" style="display:none"><input name="password" id="password" type="password" value="" size="12" onblur="loginBoxRestore()"></span>
+								<noscript>
+									<input name="password" id="password" type="password" value="" size="12" />
+								</noscript>
+							</td>
+							<td><input name="login" id="login" type="image" value="Submit" src="images/header/login.gif" align="bottom"></td>
+												<td>&nbsp; </td>
+						<td><a href="/cart/cart_redirect.php"><img align="left" src="images/header/cart.gif" border="0"></a></td>
+					</tr>
+				</tbody></table>
+			</form>
 		</div>
 	</div>
+	<div id="headerBottom">
+		<div id="menuBar">
+			 <ul id="menu">
+				<li class="homepage" style="padding-top:0px;margin-top:0px;"><a href="/"><img src="images/header/menu/home.jpg" alt="Home" border="0"></a></li>
+				<li><div class="menuTextPad"><a href="/green_listings.php">Green Directory</a></div></li>
+				<li><div class="menuTextPad"><a href="/coupons.php">Coupons</a></div></li>
+				<li><div class="menuTextPad"><a href="/environment_101.php" onmouseover="dropdownmenu(this, event, env101, '160px');" onmouseout="delayhidemenu();">Environment 101</a></div></li>
+				<li><div class="menuTextPad"><a href="/ambassador.php" onmouseover="dropdownmenu(this, event, ambassadors, '160px');" onmouseout="delayhidemenu();">Ambassadors</a></div></li>
+				<li><div class="menuTextPad"><a href="/gengreen_certification.php">Get Certified</a></div></li>
+				<li><div class="menuTextPad"><a href="/partnerships.php" onmouseover="dropdownmenu(this, event, partners, '160px');" onmouseout="delayhidemenu();">Partnerships</a></div></li>
+				<li><div class="menuTextPad"><a href="/gengreen_toolbox.php">ToolBox</a></div></li>
+				<li><div class="menuTextPad"><a href="/about_gengreen.php" onmouseover="dropdownmenu(this, event, about, '160px');" onmouseout="delayhidemenu();">About GenGreen</a></div></li>
+			</ul>
+		</div>
+		<div id="menuBarUnderline"></div>
+	</div>
 </div>
-<!-- [end] header --><!-- [start] middle -->
-        
-<div class="middle-container">
-	<div class="middle col-2-right-layout">
-    <!-- [start] center -->
-    	<div id="main" class="col-main" style="float: left;">
-        <!-- [start] global messages -->
-        <!-- [end] global messages -->
-        <!-- [start] content -->
-			<div class="home-spot" style="background: url('images/main-container-bg.jpg') repeat-y; padding-right: 30px;">
-						<a href="http://nwchocolatefestival.com/" target="_blank"><img src="images/ads/nwchocolate.jpg" border="0"></a><br><br>
-						<a name="topggl"></a>
-			<br>
-  <h2 class="main-head" style="display: inline;">GenGreen Privacy Policy</h2><br>
+<!-- END OF HEADER-->		<div id="contentContainer">
+	<div id="contentLeft">
+		<div style="width: 715px;padding-left: 10px; padding-top: 4px;">
+		<div style="width: 728px;">
+	<h2 class="main-head" style="display: inline;">GenGreen Privacy Policy</h2><br>
 
-   <div style="margin: 0 0 10px 0; padding-right: 15px;">
   <p class="margins"><b> Updated on January 1, 2008</b></p>
+
 <p class="margins">Thank you for visiting the GenGreen Network ("GenGreen") website. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.</p>
 <p class="margins">Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See Privacy Act of 1974 (P.L. 93-579) for more information on your rights under the Privacy Act.</p>
 <p class="margins">For the protection of users of our websites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems.</p>
@@ -307,6 +201,7 @@ document.onclick=hidemenu
 <p class="margins">We analyze these logs regularly to determine the
 traffic through the server in hits, the number of pages served, and the level of demand for pages of interest. We may also analyze accesses to particular pages to determine state the IP address is most likely in, government agency and schools versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission.</p>
 <p class="margins"><b>Kids Pages</b></p>
+
 <p class="margins">We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children's internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do however, sometimes encourage them to participate in contests, but such participation is carried out through postal mail.</p>
 <p></p>
 <p class="margins"><b>Privacy Statement</b></p>
@@ -319,6 +214,7 @@ e-mail communications or other information.</p>
 <p class="margins">In order to offer you a more consistent and personalized experience in your interaction with GenGreen, information collected through one service may be combined with information obtained through other services. We may also supplement the information we
 collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.</p>
 <p class="margins"><b>Use of Your Personal Information</b></p>
+
 <p class="margins">GenGreen collects and uses your personal
 information to operate and improve its sites and deliver the services
 or carry out the transactions you have requested. These uses may
@@ -376,6 +272,7 @@ rights or property GenGreen (including the enforcement of our
 agreements); or (c) act in urgent circumstances to protect the personal
 safety of users of GenGreen services or members of the public.</p>
 <p class="margins"><b>Collection and Use of Children's personal Information</b></p>
+
 <p class="margins">Many GenGreen sites and services are intended for
 general audiences and do not knowingly collect any personal information
 from children. When a GenGreen site does collect age information, and
@@ -395,80 +292,47 @@ will notify you either by prominently posting a notice or such changes
 prior to implementing the change or by directly sending you a
 notification. We encourage you to periodically review this statement to
 be informed of how GenGreen is protecting your information.</p>
-    </div>
-						<!--br /><br />
-			<p><a href="http://www.worldpantry.com/cgi-bin/ncommerce3/ExecMacro/numitea/newsletter.d2w/report" target="_new"><img src="http://www.gengreen.org/news/files/ad-numi-468x60.jpg" alt="0" /></a></p-->
-			</div>
-		<!-- [end] content -->
-        </div>
-	<!-- [end] center -->
-    <!-- [start] right -->
-   	<div class="col-right side-col">
-		<br>
 
-<div align="center"><a href="/contact.php?topic=feedback"><img src="images/feedback-block.gif" border="0"><br clear="all"></a></div><br>
-
-<div align="center"><a href="http://www.chicobag.com/" target="_blank"><img src="images/ads/chicobag200.jpg" border="0"><br clear="all"></a></div><br>
-
-	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
-<a href="http://patagonia.com/" target="_blank"><img src="images/ads/patagonia.jpg" border="0" alt="http://patagonia.com/"></a>
+</div>		</div>
+	</div>
+	<div id="contentRight">
+					<!-- Small Square 1 -->
+<a href="iphone.php"><img src="images/ads/iphone-notification.gif" border="0"></a>
+<br clear="all">
 <br>
+<a href="link_out.php?url=https://apps.ChargeToday.com/online_application.asp?code=GenGreen2" target="_blank"><img src="images/ads/charge_today.gif" border="0"></a>
+<br clear="all">
 <br>
 
-	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
-<a href="http://honesttea.com/" target="_blank"><img src="images/ads/honest-tea.jpg" border="0" alt="http://honesttea.com/"></a>
+<!-- Small Square 2 -->
+			<a href="link_out.php?url=http://www.chicobags.com" target="_new"><img src="images/ads/chicobag200.jpg" alt="Chico Bags" border="0"></a>
+	<br clear="all"><br>
+<!-- Small Square 3 -->
+<a href="link_out.php?url=http://www.voltaicsystems.com/" target="_new"><img src="images/ads/eco-voltaic-200-200.gif" alt="Chico Bags" border="0"></a><br clear="all">
 <br>
+<!-- Small Square 4 -->
+	<a href="link_out.php?url=http://imtiredonline.com" target="_blank"><img src="images/ads/ito_ad_200x200_global_warming.gif" border="0"></a>
+<br clear="all">
 <br>
-
-<div><a href="http://betterworldbooks.com/" target="_blank"><img src="images/ads/bwb.gif" border="0"><br clear="all"></a></div>
-
-<br>
-
-	<!--a href="http://www.betterworldbooks.com/" target="_new"><img src="http://www.gengreen.org/news/images/ad_placeholders/rms.gif" alt="Default Ad" width="200" height="200" border="0" /></a-->
-<a href="http://www.whiteapricot.com/fab_finds/subscribe_contest.php?gen_green_708" target="_new"><img src="http://www.gengreen.org/images/ads/white-apricot.gif" alt="http://www.whiteapricot.com/fab_finds/subscribe_contest.php?gen_green_708" border="0"></a>
-<p><br><br></p>
-      </div>
-    <!-- [end] right -->
-</div>
-</div>
-<!-- [end] middle -->  <!-- [start] footer -->
-        <div class="footer-container">
-                    <div class="footer">
-<p style="color: #ffffff;">
-<strong>Contact GenGreen:</strong> (866) 922-2952 or (970) 488-3636 (Fort Collins)&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact.php">Contact Form</a>
-<br>
-<strong>About GenGreen:</strong> <a href="node.php?nid=5265">What is GenGreen?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="node.php?nid=1412">Our Team</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="node.php?nid=1007">GenGreen In the Media</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=46303">Testimonials</a>
-<br>
-<strong>Resources:</strong> <a href="/node.php?nid=5148">Advertising Info</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=46482">Link to GenGreen</a>&nbsp;&nbsp;<strong>FAQ:</strong> <a href="/node.php?nid=5149">For Businesses and Organizations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=42246">General Questions</a>
-<br>
-<br>
-©2008 GenGreen LLC. All rights reserved.&nbsp;&nbsp;<a href="/node.php?nid=3295">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/node.php?nid=3371">Terms &amp; Conditions</a></p>
-                </div>
-        </div>
-        <!-- [end] footer -->
-        
+<!-- Small Square 5 -->
+<a href="link_out.php?url=http://www.amazon.com/Big-Green-Purse-Spending-Cleaner/dp/1583333037/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1232722572&amp;sr=8-1" target="_new"><img src="images/ads/200x200_book.jpg" alt="" border="0"></a>
+<br clear="all"><br>
+<a href="http://www.follownathan.org/" title="http://www.follownathan.org/" target="_blank"><img src="images/ads/follow_nathan_200.jpg" alt="http://www.follownathan.org/" style="border: 1px solid #666666;"></a>			</div>
+</div>		<div id="footerContainer">
+	<div id="footerBar"></div>
+	<div id="footer">
+		<img src="images/footer/backgroundLeft.jpg" align="left">
+	</div>
+	<div id="footerText">
+		<strong>Contact GenGreen</strong>: (866) 922-2952 or (970) 488-3636 (Fort Collins)  |  <a href="/contact.php">Contact Form</a><br>
+		<strong>About GenGreen</strong>: <a href="about_gengreen.php">What is GenGreen?</a>  |  <a href="gengreen_team.php">Our Team</a>  |  <a href="gengreen_in_the_media.php">GenGreen In the Media</a>  |  <a href="/testemonials.php">Testimonials</a><br>
+		<strong>Resources</strong>: <a href="/advertise.php">Advertising Info</a>  |  <a href="/link_to_gengreen.php">Link to GenGreen</a>  <strong>FAQ</strong>: <a href="/faq-business.php">For Businesses and Organizations</a>  |  <a href="/faq.php">General Questions</a><br>
+		<a href="sotgu_archive.php">State of the Green Union</a> | <a href="greenzine_archive.php">GreenZine</a> | <a href="view_polls.php">OpinioNation</a>
+		<br><br>
+		© 2007 - 2009 GenGreen LLC. All rights reserved.  <a href="/privacy.php">Privacy</a>  |  <a href="/terms.php">Terms &amp; Conditions</a>
+	</div>
+</div>	</div>
 <script type="text/javascript">
-  
-	//
-	// You can hide the accordions on page load like this, it maintains accessibility
-	//
-	// Special thanks go out to Will Shaver @ http://primedigit.com/
-	//
-	var verticalAccordion = $$('.accordion_toggle');
-	verticalAccordion.each(function(accordion) {
-		$(accordion.next(0)).setStyle({
-		  height: '0px'
-		});
-	});
-
-</script>
- 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-2777050-1";
-urchinTracker();
-</script><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
