@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the zumodrive.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327121400id_/http%3A//zumodrive.com/privacy) for the most accurate reproduction.*
+
+# ZumoDrive - Privacy Policy
+
+(Last Updated: Dec 22, 2008)
+
+We provide the following privacy policy (the “Policy”) to inform our users how personal information is collected, used, disclosed and protected with respect to your use of [www.zumodrive.com](http://www.zumodrive.com/) website and the services and products available through the website (collectively, the “Services”). By using the Services, you consent to the practices described in the Policy. 
+
+We reserve the right to modify the Policy at any time. When we change the Policy, we will post the new policy on the website and update the “Last Updated” date set forth above. 
+
+When you use the Services, we collect personal information from you and about you. Personal information refers to information that can be used to contact or identify you and information on your use of the Services. Personal information that we collect include, but is not limited to, your name, email addresses, credit card or other payment method information, telephone numbers, home, business, and/or billing postal addresses, email contacts (names and email addresses), IP addresses, preferences and settings, and activities and the date and time of activities performed during the use of the Services. 
+
+Our servers also automatically collect information about your computer and your visits to the website, such as your IP address, browser type, date and time of visit, length of visit, page views, and the date and time of each page view in the server log files. 
+
+Similar to many other websites, the website utilizes a standard technology called "cookies" to collect and store information for record-keeping purposes in a part of your computer hard drive specifically designed for cookies. A cookie is a very small data file, which often includes an anonymous unique identifier. When you visit the website, the web server asks your browser for permission to store this file on your computer. If your browser does not accept cookies, you may not be able to use all functionality of the website. We use cookies to save your sign-in ID and password for future sign-ins to the website; and we use cookies to enable certain features of the website, to better understand how you interact with the website and to monitor aggregate usage and web traffic routing on the website. 
+
+In addition to personal information, we also collect “aggregate” information, which we collect from all our users as a group over time and which does not contain user identity information. We may use third parties to collect such aggregate information, and we may share aggregate information with third information with third parties for various purposes, including helping us better understand our users and improve the Services. 
+
+We do not intend or market the Services to be used by children under the age of 13, and we do not knowingly, directly or indirectly, collect personal information from children under the age of 13. 
+
+We use your personal information for the following purposes: (a) to provide and improve the Services for you, (b) to administer your account and use of the Services, (c) to determine files and folders owned or added by you and shared with you, (d) to track and report your file and folder activities, (e) to personalize your experience during your use of the Services, (f) to authenticate your use of the Services, (g) to allow others to share files and folders with you, (h) to allow others to communicate with you using the Services, (i) to allow us to provide you software and product updates, and (j) to aggregate user metric or summary information for us to monitor and analyze the use of the Services. 
+
+We use information we aggregate by various means as described above for the following purposes: (a) to monitor and analyze the use of the Services, (b) to administer and monitor the capacity of our servers, (c) to ensure acceptable performance of our servers, (d) to help us identify and prioritize new features to develop and add to the Services, and (e) to help us understand the scope of any service issue 
+
+When you share a file or folder with or send a message about a file or folder to other users, they will see a limited portion of your personal information just enough for them to recognize who you are. This limited portion includes, but is not limited to, your name and email address. When you perform activities to a file or folder you have shared with others or have been shared with you by others, the summary of such activities are displayed to other users and they include your name. 
+
+We also use third parties (service providers, consultants, partners, etc.) to facilitate the Services, including, but not limited to, sending email, processing payments, providing computing servers, storing data and personal information, managing databases, and monitoring and analyzing the performance, reliability, and user experience of the Services. In connection with these business operations, these third parties may have access to your personal information for use in connection with their business activities and tasks on our behalf. As we develop our business, we may buy or sell assets or business offerings. Personal and aggregate information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
+
+You may review, modify, correct, or remove your personal information collected by us during your use of the Services by visiting the “Settings” page of the website. 
+
+At Zecter, Inc we strive to implement reasonable measures to prevent unauthorized access, modification, destruction, or damage of your personal information and data stored using the Services. At your choice, your data stored in our servers is encrypted using Advanced Encryption Standard and, when transmitted over the network, is protected with SSL encryption. Our servers are running in a secure environment. Your information and data and our application and server data are backed up. While we have taken efforts to protect and secure your information and data, we cannot guarantee that your information and data will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
+
+Your account, information, data, and access to the Services is authenticated only by the use of your correct sign-in ID and password. You must keep your password confidential and not share it to any other person. You are responsible for the use of the Services by any other person using your sign-in ID and password. 
+
+If you have any questions or concerns about this Policy, please email us at [support@zumodrive.com](mailto:support@zumodrive.com). 
