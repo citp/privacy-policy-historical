@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gengreenlife.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912134128id_/http%3A//www.gengreenlife.com/node.php%3Fnid%3D3295) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gengreenlife.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327123751id_/http%3A//www.gengreenlife.com/privacy.php) for the most accurate reproduction.*
 
-# GenGreen Life - GenGreen Privacy Policy
+# GenGreen Life - Find the Green in Everything... Locally
+
+## GenGreen Privacy Policy
 
 **Updated on January 1, 2008**
 
