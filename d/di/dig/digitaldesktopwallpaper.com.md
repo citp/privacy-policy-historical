@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218171833id_/http%3A//www.digitaldesktopwallpaper.com/site_info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327054750id_/http%3A//www.digitaldesktopwallpaper.com/site_info/privacy_policy.htm) for the most accurate reproduction.*
 
 # digitaldesktopwallpaper.com - Privacy Policy
 
@@ -27,7 +27,17 @@ Session cookies will be deleted from your computer when you close your browser.�
 
 We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
-We use third parties such as Google AdSense and Commission Junction to provide advertising on this website. Our advertisers/payment services providers may also send you cookies as they gather information during your use of the website. 
+We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/).
+
+**Google and the DoubleClick DART cookie**
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 Most browsers allow you to refuse to accept cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  This will, however, have a negative impact upon the usability of many websites as usernames, passwords and other preferences would not be retained. If you are using the Firefox browser, you can refuse cookies by clicking “Tools”, “Options”, “Privacy” and unticking the “Accept cookies from sites” option. 
 
