@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayfriendfinder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132234id_/http%3A//gayfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayfriendfinder.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327103415id_/http%3A//gayfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # Gay FriendFinder PRIVACY POLICY
 
