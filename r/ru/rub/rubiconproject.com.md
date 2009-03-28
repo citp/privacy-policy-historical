@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094752id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328040812id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ad Network Optimization - the Rubicon Project
 
