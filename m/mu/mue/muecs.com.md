@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024011id_/http%3A//www.muecs.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muecs.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328122813id_/http%3A//www.muecs.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Muecs | Privacy Policy
 
@@ -23,7 +23,7 @@ Keeping Your Account Information Secure
 
 Conditions of Use
 
-If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20081216024011id_/http%3A//www.muecs.com/TOS.aspx), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
+If you decide to visit Muecs website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20090328122813id_/http%3A//www.muecs.com/TOS.aspx), including limitations on damages, arbitration of disputes, and application of China, Hong Kong law. 
 
 Changes to this Privacy Policy
 
