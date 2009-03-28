@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403080951id_/http%3A//www.briantracy.com/privacy.aspx%3Fssid%3D212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328131239id_/http%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Brian Tracy International
+
+SHOP FOR SUCCESS
 
 | 
 
@@ -8,10 +10,10 @@ Brian Tracy International Privacy Notice
 
 Brian Tracy International knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Brian Tracy International, you are accepting the practices described in this Privacy Notice. 
 
-Questions regarding this statement should be directed by e-mail to [mschiller@briantracy.com](mailto:aschraga@briantracy.com?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 202, Solana Beach, CA 92075. 
+Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 202, Solana Beach, CA 92075. 
 
 **Information Collected**   
-Brian Tracy International is the sole owner of the information collected on [www.briantracy.com](http://www.briantracy.com/?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce). Brian Tracy International collects information from our users at several different points on our Web site. 
+Brian Tracy International is the sole owner of the information collected on [www.briantracy.com](http://www.briantracy.com/). Brian Tracy International collects information from our users at several different points on our Web site. 
 
 **Registration**   
 In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he/she has expressed interest. 
@@ -39,7 +41,7 @@ We reveal only the last five digits of your credit card numbers when confirming 
 If you are a newsletter subscriber, you always have the option of no longer receiving them. At the bottom of each newsletter there is an opt-out option. Simply click on “Please click here to unsubscribe”. 
 
 **Correct/Update**   
-Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Michelle](mailto:mschiller@briantracy.com?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce). 
+Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support](mailto:support@briantracy.com). 
 
 **Conditions of Use, Notices, and Revisions**   
 If you choose to visit Brian Tracy International, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. 
@@ -53,48 +55,23 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 **Contact Information**   
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Phone (858) 481-2977   
-Fax (858) 481-2445  
-Email [mschiller@briantracy.com](mailto:aschraga@briantracy.com?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce)  
+Phone 1-858-436-7300   
+Fax 1-858-481-2445  
+Email [support@briantracy.com](mailto:support@briantracy.com)  
 462 Stevens Ave #202 Solana Beach, CA 92075  
-Website [www.briantracy.com](http://www.briantracy.com/?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce)
+Website [www.briantracy.com](http://www.briantracy.com/)
 
 | 
 
-Sign up for any of Brian's Newsletters and receive your **Free E-Book** today!
+Sign-Up for any of Brian's newsletters and receive Your Free E-Book today!   
+[](https://web.archive.org/newsletter/default.aspx?cid=1)
 
-Time Management  
-Sales Success  
-Entrepreneurial  
-Financial Success  
-Management Success  
-Personal Success  
-Quote of the Day  
+Brian Tracy has helped over 4 million people achieve their goals.
 
-
-**"Brian lives the strategies for maximum achievement and he can show you how to use them too. His teachings will unlock your hidden powers to succeed."**  
-Ken Blanchard  
-Author of _The One Minute Manager_  
-  
-**"Brian Tracy knows more about developing and maximizing personal effectiveness than anyone I know."**  
-Jack Canfield  
-Best-selling author of _The Power of Focus_ and the _Chicken Soup for the Soul_ series  
-  
-**"Brian Tracy is America's number one business speaker and preeminent business author. Brian should be required reading for every entrepreneur, manager, and leader."**  
-Scott McKain  
-Vice Chairman, Durham Capital Corporation  
-  
-**"Brian Tracy's _The Psychology of Selling_ should be required reading for everybody! Everybody sells something, whether it is a product, a service, or most important, yourself! Brian will give you the tools you need to succeed."**  
-Terri Sjodin  
-Author of _Sales Speak_  
-  
-**"Brian Tracy is the Master Architect for helping people build successful personal and professional lives."**  
-Tony Alessandra  
-Hall of Fame - National Speaker's Association  
-  
+As seen on:  
   
 Your Privacy is Guaranteed. We will never give, lease, or sell your personal information. Period!  
-To order by telephone or for customer support call us at 1-858-481-2977  
-© Copyright 2001-2008 Brian Tracy International. All rights reserved.  
-[Login Now](https://web.archive.org/login.aspx?ssid=212ac7fb-dc81-4a8e-a4cf-4b42f046c6ce)  
+To order by telephone or for customer support call us at 1-858-436-7300  
+© Copyright 2001-2009 Brian Tracy International. All rights reserved.  
+[Login Now](https://web.archive.org/login.aspx)  
 
