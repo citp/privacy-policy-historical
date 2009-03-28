@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912160710id_/http%3A//www.imc2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328155257id_/http%3A//www.imc2.com/Privacy.aspx) for the most accurate reproduction.*
 
 # imc² Privacy Policy
 
@@ -34,4 +34,4 @@ The imc² website may contain links to other websites. imc² has no control over
 **YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES.**  
 By using this website or any other imc² website, you signify your acceptance of our Privacy Statement, and you agree to adhere to the Terms and Conditions of Use on the website. 
 
-Last updated: August 10, 2007 
+Last updated: September 10, 2007 
