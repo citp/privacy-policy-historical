@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165437id_/http%3A//wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328112605id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wormly
 
@@ -72,4 +72,4 @@ Mark Harbottle from SitePoint said:
 
 **Be Proactive**. Performance monitoring reveals problems before they cause downtime.
 
-**Exceptional Value**. With feature packed plans from [just $9 a month](https://web.archive.org/plans) you can afford the peace of mind that a professional uptime monitoring solution delivers.
+**Exceptional Value**. With feature packed plans from [just $19 a month](https://web.archive.org/plans) you can afford the peace of mind that a professional uptime monitoring solution delivers.
