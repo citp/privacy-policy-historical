@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511205347id_/http%3A//www.ramdass.org/Home/tabid/328/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328031333id_/http%3A//www.ramdass.org/Home/tabid/328/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Ram Dass - the official interactive Satsang site for author (Be Here Now) and spiritual teacher Ram Dass
 
@@ -44,4 +44,4 @@ Ram Dass - Official Site will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Ram Dass - Official Site welcomes your comments regarding this Statement of Privacy. If you believe that Ram Dass - Official Site has not adhered to this Statement, please contact Ram Dass - Official Site at [ritaryan05@yahoo.com](mailto:ritaryan05@yahoo.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Ram Dass - Official Site welcomes your comments regarding this Statement of Privacy. If you believe that Ram Dass - Official Site has not adhered to this Statement, please contact Ram Dass - Official Site at [ritaryan@ramdass.org](mailto:ritaryan@ramdass.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
