@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theretrofitsource.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007110641id_/http%3A//store.theretrofitsource.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theretrofitsource.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328171013id_/http%3A//store.theretrofitsource.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
-# The Retrofit Source
+# The Retrofit Source (U.S.) - HID Projector Retrofit Kits, Retrofit and HID Componenents, Projectors Lens, Wiring Harnesses, Shrouds and more!
 
 Our customers’ privacy is of the utmost important to us. Accordingly, The Retrofit Source has made it our policy to provide online content that requires only minimal collection of information. Furthermore, to better protect your privacy we issue this notice explaining our online information practices and the way in which you can determine how your information is managed.
 
