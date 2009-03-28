@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diggygames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172015id_/http%3A//www.diggygames.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diggygames.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328091156id_/http%3A//www.diggygames.com/page-privacy) for the most accurate reproduction.*
 
-# Free Games
+# Free Games | Diggygames.com
 
 **Privacy Policy**
 
