@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201915id_/http%3A//www.cvent.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328154032id_/http%3A//www.cvent.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
@@ -58,6 +58,8 @@ Cvent contains links to other web sites. Cvent is not responsible for the privac
 
 As this Privacy Policy may be ammended from time to time, please check back periodically to review any changes. The last modified date will provided at the bottom of the page.
 
+Last Modified: May 29th, 2008
+
 Cvent does everything it can to protect the privacy of its users. For questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact Cvent at:
 
 **Cvent**  
@@ -66,5 +68,3 @@ Privacy Representation
 Suite 450   
 McLean, VA 22102   
 [privacy@cvent.com](mailto:privacy@cvent.com)
-
-Last Modified: May 29th, 2008
