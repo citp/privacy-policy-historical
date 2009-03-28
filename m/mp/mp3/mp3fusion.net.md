@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015342id_/http%3A//www.mp3fusion.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328160948id_/http%3A//www.mp3fusion.net/privacy.php) for the most accurate reproduction.*
 
 # mp3 arena ^_^ free mp3 downloads free mp3 albums free mp3 search free music downloads free mp3 songs free download mp3 free mp3s
 
