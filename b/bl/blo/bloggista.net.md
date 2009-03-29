@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913182255id_/http%3A//bloggista.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329012809id_/http%3A//bloggista.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloggista.net | Free Blog Hosting Site
 
