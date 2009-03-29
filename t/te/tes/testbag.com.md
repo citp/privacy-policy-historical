@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testbag.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223045950id_/http%3A//testbag.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testbag.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329233856id_/http%3A//www.testbag.com/privacy_policy.php) for the most accurate reproduction.*
 
 # testbag.com
 
