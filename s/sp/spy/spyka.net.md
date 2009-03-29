@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061850id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329225840id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
-# spyka Web Group - privacy policy
+# spyka Web Group - Privacy Policy
 
 ### Privacy Policy
 
