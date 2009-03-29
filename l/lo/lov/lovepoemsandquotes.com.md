@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lovepoemsandquotes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045531id_/http%3A//www.lovepoemsandquotes.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepoemsandquotes.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329061527id_/http%3A//www.lovepoemsandquotes.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Love Poems And Quotes
 
-Love Poems And Quotes is firmly committed to the privacy of our clients. We have created this Privacy Policy to let you know under what circumstances information is collected and how this information is used. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20081217045531id_/http%3A//www.lovepoemsandquotes.com/ContactUs.html) to contact us.
+Love Poems And Quotes is firmly committed to the privacy of our clients. We have created this Privacy Policy to let you know under what circumstances information is collected and how this information is used. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20090329061527id_/http%3A//www.lovepoemsandquotes.com/ContactUs.html) to contact us.
 
 **1.** _Personal Data_. We retain the name and e-mail address of visitors who submit a quote or poem via our website so that we may notify them if their submission was selected. This information is deleted at the end of each month.
 
@@ -18,4 +18,4 @@ Love Poems And Quotes is firmly committed to the privacy of our clients. We have
 
 **7.** _External Links_. On our site, we have links to other websites that may collect personal information about you. This policy does not cover the information practices of such websites. We encourage you to read the privacy policies of these sites as their policies may be very different.
 
-**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20081217045531id_/http%3A//www.lovepoemsandquotes.com/Privacy2.html)**
+**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20090329061527id_/http%3A//www.lovepoemsandquotes.com/Privacy2.html)**
