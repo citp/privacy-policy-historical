@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045521id_/http%3A//www.joke.co.uk/publish.asp%3Fwhat%3Dprivacy%26page%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329212745id_/http%3A//www.joke.co.uk/storefront/publish%3Fwhat%3Dprivacy%26page%3D1) for the most accurate reproduction.*
 
-# FANCY DRESS Costume & HALLOWEEN Costumes - JOKERS MASQUERADE
+# View Content - JOKERS MASQUERADE
 
-You are here: [Home](https://web.archive.org/web/20081217045521id_/http%3A//www.joke.co.uk/default.asp?submit=Home) > Privacy Policy
+You are here: [Home](https://web.archive.org/web/20090329212745id_/http%3A//www.joke.co.uk/storefront/default.asp?submit=Home) > Privacy Policy
 
 At Abscissa.Com Limited ("Jokers' Masquerade") we have adopted the following privacy policy as part of our commitment to protect any personal information ("Personal Information") which you may provide to us through this website or by other means. Please note that this privacy policy does not apply to other websites which may be linked through this website. Personal Information which you choose to provide to other websites will be subject to the privacy policies of those websites.
 
@@ -21,3 +21,5 @@ At Abscissa.Com Limited ("Jokers' Masquerade") we have adopted the following pri
 [3] This website uses, or may from time to time use, cookies. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes and they can make the world wide web more useful by storing information about your preferences on a particular site. The use of cookies is normal practice and many websites use them to provide useful features for their customers. Cookies do not personally identify an individual user of a computer but they do identify the computer being used. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies.
 
 [4] If you have any questions or wish to have any Personal Information edited or deleted, please e-mail or write to us.
+
+Server: app1.caribbean-abs.islands Timestamp: 3/29/09 10:27 PM Session ID: A6A932F77CF404AC9B83A1E71871D847.jvm1 
