@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043144id_/http%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329230031id_/http%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
 
 # LifeTips Privacy Statement
 
@@ -49,4 +49,6 @@ LifeTips.com
 One First Avenue  
 Bldg 34, Suite 200  
 Charlestown, MA 02129  
-617-886-9001
+617-886-9001  
+  
+---|---
