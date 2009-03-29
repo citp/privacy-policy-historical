@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524114836id_/http%3A//www.idgentertainment.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329090727id_/http%3A//www.gamepromedia.com/legal/privacy.shtml) for the most accurate reproduction.*
 
-# IDG Entertainment
+# 
 
-#### IDG Entertainment, Inc. Online Privacy Policy
+####  Online Privacy Policy
 
-The IDG Entertainment, Inc. Web sites ("IDGE Sites") and associated sites are maintained by, IDG Entertainment, Inc., 501 2nd Street, San Francisco, CA 94107. The IDGE Sites include, but are not limited to, idgentertainment.com, gamepro.com, games.net, gamerhelp.com, gamedownloads.com, gamestar.com, blogfaction.com, and gameprofamily.com.
+The IDG Entertainment, Inc. Web sites (" Sites") and associated sites are maintained by, IDG Entertainment, Inc., 501 2nd Street, San Francisco, CA 94107. The IDGE Sites include, but are not limited to, idgentertainment.com, gamepro.com, games.net, gamerhelp.com, gamedownloads.com, gamestar.com, blogfaction.com, and gameprofamily.com.
 
 IDG Entertainment collects personally identifying information and data about individuals, their company, and the companies demographics "personally identifying information and data" including (i) when you provide information to IDG Entertainment, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with IDG Entertainment (ii) when you register or sign up on the IDGE Sites or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to IDG Entertainment and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to IDG Entertainment.
 
