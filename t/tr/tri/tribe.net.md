@@ -1,24 +1,19 @@
-> *The following text is extracted and transformed from the tribe.net privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915092840id_/http%3A//washingtondc.tribe.net/template/pub%252CPrivacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribe.net privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330023927id_/http%3A//www.tribe.net/template/pub%252CPrivacy.vm) for the most accurate reproduction.*
 
 # Tribe.net Privacy Policy - tribe.net
-
-[](http://www.truste.org/ivalidate.php?url=www.tribe.net&sealid=101)
 
 Protecting your privacy is very important to Tribe.net. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent. 
 
 This privacy policy describes how we collect and use your data. If you have any questions or comments regarding Tribe.net's privacy policy or its enforcement, please contact us at [privacy@tribe.net](mailto:privacy@tribe.net)
 
   1. ABOUT TRIBE.NET. Tribe.net is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to their Network of friends. A user's personal Network includes the extended group of people that a user is connected to through their friends (up to four degrees of separation). 
-  2. INFORMATION WE COLLECT. Tribe.net collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, state of residence, occupation, interests, etc. We collect this personal information when our users: (a) sign up as a member; (b) make changes to their member profile information; and (c) send e-mail messages, forms, or other information to us via Tribe.net. Members may choose to provide additional information beyond their basic profile for their personal and professional profiles. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
-
+  2. INFORMATION WE COLLECT. Tribe.net collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, state of residence, occupation, interests, etc. We collect this personal information when our users: (a) sign up as a member; (b) make changes to their member profile information; and (c) send e-mail messages, forms, or other information to us via Tribe.net. Members may choose to provide additional information beyond their basic profile for their personal and professional profiles. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network.   
 Tribe.net also collects information from users that is unique, but cannot be linked to a specific individual, such as browser type. We gather this information on all visitors to www.tribe.net for systems administration purposes, to track user trends, such as our most popular features, to understand how our users make use of the site, and to provide our users with personalized, recommended content. 
+  3. COOKIES Like many other Web sites, Tribe.net uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive -- not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Tribe.net. Cookies help us understand how members use Tribe.net, which allows us to improve upon the service. We use the information gathered by cookies in aggregate, except in the case of error reports. Members who disable cookies will not be able to use Tribe.net.   
 
-  3. COOKIES Like many other Web sites, Tribe.net uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive -- not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Tribe.net. Cookies help us understand how members use Tribe.net, which allows us to improve upon the service. We use the information gathered by cookies in aggregate, except in the case of error reports. Members who disable cookies will not be able to use Tribe.net. 
-  4. HOW WE USE YOUR PERSONAL INFORMATION. Tribe.net uses personal information to create a secure and personalized service for our members. The Basic Profile information (first name, photo, age, gender, city, state, and occupation) is displayed to all members of Tribe.net. All other profile information members provide is displayed only to people in their Personal Network (up to 4 degrees of separation). 
-
-Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their friend list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Tribe.net members are never displayed to other users on the system. Users within a Personal Network communicate on Tribe.net with each other through the Tribe.net service without disclosing their email addresses. Members may opt out of receiving e-mail from us at any time by following the instructions below in sections 12 and 13. 
-
-CLICK TRACKING. Tribe.net uses a method called "click tracking" to log user movement throughout our service. As part of this effort, we passively collect IP address, Web browser type, domain names, access times, referring URLs and page views for each session. This information is used to keep track of login names and passwords, to offer users a personalized experience, to enhance navigation, to provide content tailored to the user's interest, and to time out their session. We will not sell, lease or exchange any personally identifying information about you or your use of Tribe.net to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+  4. HOW WE USE YOUR PERSONAL INFORMATION. Tribe.net uses personal information to create a secure and personalized service for our members. The Basic Profile information (first name, photo, age, gender, city, state, and occupation) is displayed to all members of Tribe.net. All other profile information members provide is displayed only to people in their Personal Network (up to 4 degrees of separation).   
+Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their friend list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Tribe.net members are never displayed to other users on the system. Users within a Personal Network communicate on Tribe.net with each other through the Tribe.net service without disclosing their email addresses. Members may opt out of receiving e-mail from us at any time by following the instructions below in sections 12 and 13.   
+CLICK TRACKING. Tribe.net uses a method called "click tracking" to log user movement throughout our service. As part of this effort, we passively collect IP address, Web browser type, domain names, access times, referring URLs and page views for each session. This information is used to keep track of login names and passwords, to offer users a personalized experience, to enhance navigation, to provide content tailored to the user's interest, and to time out their session. We will not sell, lease or exchange any personally identifying information about you or your use of Tribe.net to third parties without first obtaining your express consent, unless required by law or to protect your membership.   
 
   5. DISCLOSURE OF PERSONAL INFORMATION. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
   6. INVITING FRIENDS. If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. Tribe.net does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Tribe.net stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality. The friend receiving the invitation may contact Tribe.net at [registration@tribe.net](mailto:registration@tribe.net) to request the removal of this information from our database. 
@@ -36,21 +31,17 @@ CLICK TRACKING. Tribe.net uses a method called "click tracking" to log user move
   18. NOTIFICATION OF CHANGES. If Tribe.net changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via email or a system message visible on your Tribe.net Home page. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, you will also be notified via email or a system message visible on your Tribe.net Home page. 
   19. ORGANIZATION COLLECTING INFORMATION. Utah Street Networks, Inc. owns and operates the Tribe.net and Tribenetwork.com domains. You may contact Utah Street Networks, Inc. at [privacy@tribe.net](mailto:privacy@tribe.net). 
 
-Utah Street Networks, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.Tribe.net. 
+If users have questions or concerns regarding this statement, they should first contact Tribe.net at [privacy@tribe.net](mailto:privacy@tribe.net). 
 
-Because this site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If users have questions or concerns regarding this statement, they should first contact Wendy Bean at [privacy@tribe.net](mailto:privacy@tribe.net). If they do not receive acknowledgement of their inquiry or their inquiry is not satisfactorily addressed, they shold then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve user concerns. 
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: Utah Street Networks, Inc. 
-
-Wendy Bean   
-Customer Service   
-415-861-2286   
+If you have any questions or suggestions regarding our privacy policy, please contact us at:   
 Utah Street Networks, Inc.   
-3145 Geary Blvd, Suite 708   
-SF, CA 94118   
-Last Updated: 3/12/07 
+Customer Service 
+
+New System Associates   
+15732 Los Gatos Blvd, #304   
+Los Gatos, CA. 95032 
+
+Last Updated: 12/10/08 
 
 
 
