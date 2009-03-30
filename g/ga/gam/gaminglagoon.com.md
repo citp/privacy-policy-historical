@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054632id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330094737id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Gaminglagoon.com | Free Gaia Collectables, Nexon cards, Wii Points, Live Points
+# Privacy Policy for Gaminglagoon.com | Member Security | Free Gaming Collectables, Game cards, Game Points, and Much More Gaming for Free
 
 [ Gaming Lagoon ](https://web.archive.org/ "Gaming Lagoon") is serious about protecting our customers’ personal information. That’s why protecting any personal information, such as your name, address, e-mail address or phone number that you provide is the utmost importance to us. 
 
