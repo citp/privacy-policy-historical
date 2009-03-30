@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashlagoon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110737id_/http%3A//www.cashlagoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashlagoon.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330174817id_/http%3A//www.cashlagoon.com/privacy.php) for the most accurate reproduction.*
 
-# CashLagoon.com | Free PayPal, Free Cash, Get Free Cash, Instant Paid Surveys, Get Paid
+# CashLagoon Privacy - Cash Member Security
 
 [ Cash Lagoon ](https://web.archive.org/ "Cash Lagoon") is serious about protecting our customers’ personal information. That’s why protecting any personal information, such as your name, address, e-mail address or phone number that you provide is the utmost importance to us. 
 
