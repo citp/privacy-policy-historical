@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227061613id_/http%3A//www.habbo.com/papers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330084054id_/http%3A//www.habbo.com/papers/privacy) for the most accurate reproduction.*
 
 # Habbo US ~
 
