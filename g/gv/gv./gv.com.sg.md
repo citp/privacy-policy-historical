@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gv.com.sg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031218id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gv.com.sg privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330170245id_/http%3A//www.gv.com.sg/privacy.jsp) for the most accurate reproduction.*
 
 # Golden Village - Privacy Policy
 
