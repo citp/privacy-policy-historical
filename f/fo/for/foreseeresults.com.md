@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013632id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330224857id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
 
 # Customer Satisfaction Survey
 
@@ -38,7 +38,7 @@ While no system is completely foolproof, ForeSee takes the security of the data 
 
 ### Contact Information
 
-Adults, such as parents or educators, who would like to contact us about our policy, please email us at: [errol.hau@ForeSeeResults.com](mailto:errol.hau@ForeSeeResults.com) call 800-621-2850. Or, you may write us at: 
+Adults, such as parents or educators, who would like to contact us about our policy, please email us at: [PrivacyPolicy@ForeSeeResults.com, ](mailto:PrivacyPolicy@ForeSeeResults.com "mailto:PrivacyPolicy@ForeSeeResults.com")call 800-621-2850, or write to us at: 
 
 ForeSee Results - COPPA  
 625 Avis Drive, Suite 200  
