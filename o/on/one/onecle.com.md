@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181656id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330082232id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # California MCLE - Privacy Policy
 
@@ -50,7 +50,7 @@ OneCLE encourages you to review the privacy statements of Web sites you choose t
 
 OneCLE will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission. OneCLE may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on OneCLE, protect and defend the rights or property of OneCLE or act under exigent circumstances to protect the personal safety of users of OneCLE or members of the public. If you participate in any MCLE activity on the OneCLE Web site, OneCLE may disclose your personal information listed in the official record of attendance to the State Bar upon their request.
 
-Onecle utilizes certain services from Google for ad serving and web traffic analysis. Please review Google's [privacy policy](http://www.google.com/privacy.html) for more information on how Google AdSense and Google Analytics stores your personal information. These Google servies may place and read cookies on your browser, or use web beacons to collect information, in the course of ads being served on the OneCLE website.
+Onecle utilizes certain services from Google for ad serving and web traffic analysis. Please review Google's [privacy policy](http://www.google.com/privacy.html) for more information on how Google AdSense and Google Analytics stores your personal information. These Google servies may place and read cookies on your browser, or use web beacons to collect information, in the course of ads being served on the OneCLE website. Additionally, Google uses the DART cookie to enables it to serve ads to based on your visits to OneCLE and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Certain OneCLE services and content may be co-branded with another company. If you register for or use such services, both OneCLE and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries.
 
@@ -67,5 +67,3 @@ When you sign up for OneCLE's products and service, we may send you an e-mail co
 We welcome your comments or questions.
 
 | 
-
-### Additional Resources
