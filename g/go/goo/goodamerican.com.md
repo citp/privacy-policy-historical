@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodamerican.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512185135id_/http%3A//www.goodamerican.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodamerican.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330194936id_/http%3A//www.goodamerican.com/privacy-policy) for the most accurate reproduction.*
 
-# Good American
+# Made in the USA :: Toys, Gifts, and Clothing for Baby and Kids
 
 At Good American Kids we strongly believe that respecting and safeguarding your online privacy is our responsibility.
 
