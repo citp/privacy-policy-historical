@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the concierge.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217042520id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concierge.com privacy policy that was archived on 2009-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090330182754id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
     
@@ -313,7 +313,7 @@ var artTitle=document.title;
 
 
 <ul id="user_toolbar">
-    
+     
     
     
     
@@ -456,10 +456,10 @@ var artTitle=document.title;
 
 <div id="newon">
     <div>
-        <a href="/ideas/hotspots/articles/500184" class="charcoalLabel">NEW ON CONCIERGE.COM</a>
+        <a href="/ideas/cruise/tours/500425?intcid=con_destpg_textlink" class="charcoalLabel">NEW ON CONCIERGE.COM</a>
         <ul>
-            <li><a href="/ideas/hotspots/articles/500184">THE 2009 IT LIST</a></li>
-            <li><span>The next great places, revealed</span></li>
+            <li><a href="/ideas/cruise/tours/500425?intcid=con_destpg_textlink">EUROPE'S BEST CRUISES</a></li>
+            <li><span>Why this is the summer to set sail</span></li>
         </ul>
     </div>
 </div>
@@ -468,7 +468,7 @@ var artTitle=document.title;
 
 
                 <div id="global_search" class="contentModule">
-					<form action="/search/results" name="header_search" accept-charset="UTF-8">
+					<form action="/search/results" name="header_search">
 						<label><strong>Search</strong><input id="gs_text" type="text" name="search_term" value="Concierge.com" onfocus="this.value=''"></label>
                         <span class="blackOnSlateCssButton"><a onclick="document.header_search.submit( )">GO</a></span>
 					</form>
@@ -490,7 +490,7 @@ var artTitle=document.title;
 
 
 <div id="myConcierge_widget" class="contentModule type_a">
-    <h4 class="greenHeadline">My Concierge</h4>
+    <h4 class="greenHeadline">My Concierge.com</h4>
     <div id="user_console">
         <span id="mcw_username" class="username" href="/myconcierge/profile"></span>&nbsp;
         <a href="/user/signout" class="signout">Sign Out</a>
@@ -536,7 +536,7 @@ var artTitle=document.title;
     isCopy = false;
     function requestWidgetData(){
         var util, fullRequestPath, xhr, widgetData;
-        fullRequestPath = "/ajax/myconcierge/widget/data?destUrlName=&tstamp=1229487920602"
+        fullRequestPath = "/ajax/myconcierge/widget/data?destUrlName=&tstamp=1238437674711"
         util = new ConciergeUtility();
         xhr  = util.getXHR();
         xhr.onreadystatechange = function() {
@@ -656,7 +656,7 @@ document.write('</div>');
 		<div class="buttonNav">
 			<ul>
 				<li id="newsletter_tab" class="active"><a>Newsletters</a></li>
-				<li id="mobile_tab"><a>Mobile</a></li>
+				<!-- Disabling mobile <li id="mobile_tab"><a>Mobile</a></li> -->
 				<li id="rss_tab" class="last"><a>RSS Feeds</a></li>
 			</ul>
 			<div class="clearer"></div>
@@ -680,7 +680,7 @@ document.write('</div>');
 						<label class="checkboxEntry">
 							<input type="checkbox" name="newsletterAndVersions" value="newsletter.46" checked="checked">
 							<a href="/services/newsletter">World Beat:</a> 
-							Weekly word on hot hotels and dream trips
+							Weekly word on hot hotels + dream trips
 						</label>
 
 						<label class="checkboxEntry">
@@ -708,32 +708,31 @@ document.write('</div>');
 			</div>
 			
 			<!-- Mobile Tab Content -->
+			<!-- Disabling mobile 
 			<div id="mobile_section">
 				<form>
-					<div>
-						<!-- Toolkit Context Information captured on form submission for toolkit -->
-						<input type="hidden" name="toolkit.application" value="newsletter">
-						<input type="hidden" name="toolkit.applicationId" value="NONE PROVIDED">
-						<input type="hidden" name="formName" value="shortForm">
-						<input type="hidden" name="partnerCode" value="">
-						<input type="hidden" name="sourceCode" value="">
-						<!-- / Toolkit Context Information -->
-						<input type="hidden" name="shortFormSubmission" value="true">
-						<input type="hidden" name="userEntry.country" value="US">
+					<div>						
+						<input type="hidden" name="toolkit.application" value="newsletter" />
+						<input type="hidden" name="toolkit.applicationId" value="NONE PROVIDED" />
+						<input type="hidden" name="formName" value="shortForm" />
+						<input type="hidden" name="partnerCode" value="" />
+						<input type="hidden" name="sourceCode" value="" />						
+						<input type="hidden" name="shortFormSubmission" value="true" />
+						<input type="hidden" name="userEntry.country" value="US" />
 						
 						<label class="checkboxEntry">
-							<input id="conciergeMobileAlerts" class="bizdev_checkboxes" type="checkbox" checked="" value="newsletter.220" name="newsletterAndVersions">
+							<input id="conciergeMobileAlerts" class="bizdev_checkboxes" type="checkbox" checked="" value="newsletter.220" name="newsletterAndVersions"/>
 							<a href="/services/mobile">Mobile Alerts:</a> 
 							Save our  travel info to your cell
 						</label>
 						
 						<div class="textEntry">
-							<input name="userEntry.mobileNumber" type="text" onfocus="this.value=''" value="enter cell phone">
+							<input name="userEntry.mobileNumber" type="text" onfocus="this.value=''" value="enter cell phone"  />
 							<span class="blackOnSlateCssButton" id="mobile_submit">
 								<a>Submit</a>
 							</span>
 							<span class="moreLink">
-								<a href="/tools/mobile">learn more</a>&nbsp;›
+								<a href="/tools/mobile">learn more</a>&nbsp;&#8250;
 							</span>
 							<div class="clearer"></div>
 						</div>
@@ -751,6 +750,7 @@ document.write('</div>');
 					</div>
 				</form>
 			</div>
+			-->
 			
 			<!-- RSS Tab Content -->
 			<div id="rss_section">
@@ -769,7 +769,8 @@ document.write('</div>');
 	var marketingWidget = new MarketingWidget( {
 			requestPath: "/services/newsletter",
 			containerId: 'marketing_widget',
-			tabSections: ['newsletter', 'mobile', 'rss'],
+			tabSections: ['newsletter', 'rss'],
+			//tabSections: ['newsletter', 'mobile', 'rss'],
 			errorClassName: 'errorMsg',
 			successClassName: 'thankYouMsg'
 	});
@@ -1272,8 +1273,7 @@ document.write('</div>');
 		<a rel="nofollow" href="http://www.wired.com/" target="_new">Wired.com</a> / 
 		<a rel="nofollow" href="http://www.reddit.com/" target="_new">Reddit.com</a> / 
 		<a rel="nofollow" href="http://www.arstechnica.com/index.ars" target="_new">ArsTechnica.com</a> / 
-		<a rel="nofollow" href="http://www.webmonkey.com/" target="_new">Webmonkey.com</a> / 
-        <a rel="nofollow" href="http://www.flip.com/" target="_new">Flip.com</a>
+		<a rel="nofollow" href="http://www.webmonkey.com/" target="_new">Webmonkey.com</a>
 	</p>
 
 		<form id="subscribe_dropdown" name="subscribe_dropdown">
@@ -1351,7 +1351,7 @@ document.write('</div>');
 
 
         <p class="disclaimer">
-Registration on or use of this site constitutes acceptance of our <a href="http://www.concierge.com/services/useragreement">User Agreement</a> and <a href="http://www.concierge.com/services/privacypolicy">Privacy Policy</a>. Concierge.com © 2008 CondéNet, Inc. All rights reserved.<br>
+Registration on or use of this site constitutes acceptance of our <a href="http://www.concierge.com/services/useragreement">User Agreement</a> and <a href="http://www.concierge.com/services/privacypolicy">Privacy Policy</a>. Concierge.com © 2009 CondéNet, Inc. All rights reserved.<br>
 The material on this site may not be reproduced, distributed, transmitted, cached, or otherwise used, except with the prior written permission of CondéNet, Inc.
 <br><br>
 For more information, please <a href="http://www.concierge.com/services/contactus" style="color:#FFD306; text-decoration:none;">contact us</a>.
@@ -1369,64 +1369,13 @@ For more information, please <a href="http://www.concierge.com/services/contactu
 
 
 
-<!-- begin: ads.jsp -->
-
-
-
- 
- 
- 
- 
- 
- 
- 
-    
-    
- 
-<!-- DART AD START -->
-<!-- AdStat: dartSite = con.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&kw=privacypolicy], enabled = true, Placement: 720x300  -->
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-if (typeof condenetads_ord == "undefined"){condenetads_ord = Math.random()*10000000000000000;}
-if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
-var dartLayerId = 'dartLayer' + tile_num;
-document.write('<div id="' + dartLayerId + '">');
-placement = '720x300';
-sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
-
-    adTargetingParameters = "kw=services;kw=privacypolicy;";
-
-dartZone = "services";
-var referer = document.referrer;
-dartSite = "con.dart";
-dartKeywords = "kw=services;kw=privacypolicy;";
-dartCalls[dartCalls.length] = sysparams.split(';');
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/con.dart/services;abr=!webtv;kw=services;kw=privacypolicy;'+sysparams+'?"></scr'+'ipt>');
-if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/con.dart/services;kw=services;kw=privacypolicy;'+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/con.dart/services;kw=services;kw=privacypolicy;'+sysparams+'?" border="0" alt="" /></a>');
-}
-document.write('</div>');
-//-->
-</script><div id="dartLayer7">
-<noscript><a href="http://ad.doubleclick.net/jump/con.dart/services;kw=services;kw=privacypolicy;?" target="_blank"><img src="http://ad.doubleclick.net/ad/con.dart/services;kw=services;kw=privacypolicy;?" border="0" alt="" /></a></noscript>
-<!-- DART AD END -->
-
-
-<!-- end: ad.jsp -->
-
-
-
-
-
-
 
 
 
 
     
     
-        <script language="javascript" src="/scripts/stats/zig.js"></script><script src="/scripts/stats/zag.js?Log=1&amp;URL=https://web.archive.org/web/20081217042520id_/http%3A//www.concierge.com/services/privacypolicy&amp;screenres=800x600&amp;cachedefeat=1580383586071"></script><noscript><IMG SRC="/images/stats/zag.gif?Log=1&URL=/javascript_disabled" BORDER="0" WIDTH="1" HEIGHT="1"/></noscript>
+        <script language="javascript" src="/scripts/stats/zig.js"></script><script src="/scripts/stats/zag.js?Log=1&amp;URL=https://web.archive.org/web/20090330182754id_/http%3A//www.concierge.com/services/privacypolicy&amp;screenres=800x600&amp;cachedefeat=1580383585404"></script><noscript><IMG SRC="/images/stats/zag.gif?Log=1&URL=/javascript_disabled" BORDER="0" WIDTH="1" HEIGHT="1"/></noscript>
     
 
 
@@ -1560,4 +1509,4 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 
 
 
-</div></div></div></div></div></div></div></body></html>
+</div></div></div></div></div></div></body></html>
