@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725102445id_/http%3A//www.aspi.org.au/aboutaspi/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspi.org.au privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331152437id_/http%3A//www.aspi.org.au/aboutaspi/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Australian Strategic Policy Institute
 
