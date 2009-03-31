@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205061937id_/http%3A//www.microwarehouse.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microwarehouse.co.uk privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401002735id_/http%3A//www.microwarehouse.co.uk/cms/help/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy from Microwarehouse
+# Microwarehouse
 
 ## Who we are
 
@@ -32,9 +32,9 @@ We would also like to inform you of various promotions, goods and services that 
 
 ## Your rights
 
-  1. You can ask us to update your personal information by emailing precise details of your request to database@dsgibusiness.com
-  2. You can ask us not to send you future marketing communications. To do this, simply email database@macwarehouse.co.uk with your request.
-  3. You also have the right to request a copy of any personal information we hold about you. Email your request to database@macwarehouse.co.uk. There will be a charge of £10 for this service.
+  1. You can ask us to update your personal information by emailing precise details of your request to [database@dsgibusiness.com](mailto:database@dsgibusiness.com)
+  2. You can ask us not to send you future marketing communications. To do this, simply email [database@dsgibusiness.com](mailto:database@dsgibusiness.com) with your request.
+  3. You also have the right to request a copy of any personal information we hold about you. Email your request to [database@dsgibusiness.com](mailto:database@dsgibusiness.com). There will be a charge of £10 for this service.
 
 
 
