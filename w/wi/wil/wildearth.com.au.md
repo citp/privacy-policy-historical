@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104200555id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331054929id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
-# Wildearth - Camping Equipment, camping gear, hiking gear and hiking equipment specialists
+# Wildearth - Camping Equipment, camping gear, hiking gear, swags and hiking equipment specialists
 
 **1\. Privacy is important.**  
 We recognize that privacy of personal information is important to individuals. Any personal information you provide to us will be used for business purposes only. Except where otherwise legally appropriate, we will treat your personal information as private.   
