@@ -1,25 +1,22 @@
-> *The following text is extracted and transformed from the globallinker.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612124523id_/http%3A//www.globallinker.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallinker.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331183234id_/http%3A//www.globallinker.com/privacy-policy.php) for the most accurate reproduction.*
 
-# GlobalLinker - Privacy - Policy
+# GlobalLinker - Privacy Policy for Small Business Networking
 
 |   
 ---  
   
-| 
-
-### GlobalLinker.com Privacy Policy  
-  
+| GlobalLinker Privacy Policy  
 ---  
   
-"GlobalLinker" shall refer to GlobalLinker.com, LLC, its subsidiaries, and any of its affiliates, agents, contractors, or subcontractors, as the context may require. The GlobalLinker.com website refers to the online service GlobalLinker offers at the domain "www.GobalLinker.com." "User" or "Users" refer to the end-user or users of the services that GlobalLinker provides under these terms and conditions.  
+"GlobalLinker" shall refer to GlobalLinker.com, LLC, its subsidiaries, and any of its affiliates, agents, contractors, or subcontractors, as the context may require. The GlobalLinker.com website refers to the online service, global business network and free business tools, GlobalLinker offers at the domain "www.GlobalLinker.com." "User" or "Users" refer to the end-user or users of the services that GlobalLinker provides under these terms and conditions. The global business network is designed to link small businesses and professionals globally and offer free business tools on a social networking platform.  
    
 What information are you gathering about me?  
   
-For our free membership, we require only a valid e-mail address and a month and year of birth. WE DO NOT REQUIRE, AND WE WILL NEVER ASK FOR, YOUR SOCIAL SECURITY NUMBER OR TAX IDENTIFICATION NUMBER.
+For the free membership to perform small business networking, we require only a valid e-mail address and a month and year of birth. WE DO NOT REQUIRE, AND WE WILL NEVER ASK FOR, YOUR SOCIAL SECURITY NUMBER OR TAX IDENTIFICATION NUMBER.
 
-[NOTICE TO PARENTS: In order to comply with the Children's Online Privacy Protection Act ("COPPA"), GlobalLinker does not knowingly collect any information from children under 13. However, if you believe your child has an account with us, and you wish to request that the details are removed from our database, please mail us at address below to request this.
+NOTICE TO PARENTS: In order to comply with the Children's Online Privacy Protection Act ("COPPA"), GlobalLinker does not knowingly collect any information from children under 13. However, if you believe your child has an account with us, and you wish to request that the details are removed from our database, please mail us at address below to request this.
 
-NOTICE TO UNDER 13's: If you reside in the United States of America, this applies to you. The law states that if we are aware that you are under 13, we must get your parents consent to hold data that can identify you. This means, that we must remove your email address and any other personal information about your account, if we discover or are made aware that you are under 13.]
+NOTICE TO UNDER 13's: If you reside in the United States of America, this applies to you. The law states that if we are aware that you are under 13, we must get your parents consent to hold data that can identify you. This means, that we must remove your email address and any other personal information about your account, if we discover or are made aware that you are under 13.
 
 In order to provide you with a personalized experience and also monitor the traffic patterns on our site, GlobalLinker uses a feature of your browser called a "cookie" to track content preferences and traffic patterns. The cookie may contain a number or other information which reminds us who you are when you visit our site. This browser feature is valuable to you because it alleviates the need to re-register for services each time you visit our site and because it allows us to better understand traffic patterns throughout our Web site (keep track of how often visitors visit a particular part of our site) so we can offer our visitors the most popular and useful content and services available. You may choose not to accept cookies by changing the preferences on your browser. However, your experience will be less personalized.
 
@@ -28,7 +25,7 @@ We also may collect certain non-personally identifiable information when you vis
    
 What do you do with the information you collect about me?  
   
-We use your e-mail address to contact you regarding your account. We also use this information to notify you of special offers and new products offered by us and by third parties, but you may choose to unsubscribe or "opt out" of such notifications.
+We use your e-mail address to contact you regarding your account. We also use this information to notify you of special offers and new products offered by our small business networking website and by third parties, but you may choose to unsubscribe or "opt out" of such notifications.
 
 We do use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems, and enforce our Terms of Use.  
   
@@ -43,7 +40,7 @@ We do not sell, rent or otherwise share your personal information or uploaded fi
 
 GlobalLinker does not allow third parties to send promotional email to its users without your express consent, in advance. GlobalLinker may send administrative emails to confirm user registrations or to update users concerning new services or opportunities with GlobalLinker. Some of these emails may contain information about the services of our partners. We may send out promotional emails on behalf of our partners to those users who have demonstrated an interest in receiving such solicitations.
 
-We do aggregate information and disclose such information, in aggregate, to partners and use it for other marketing and promotional purposes. However, in these situations, we do not disclose any information that could be used to personally identify you. Certain information, such as your password, is never disclosed at all, even in aggregate.
+We do aggregate information and disclose such information, in aggregate, to partners and use it for other marketing and promotional purposes. However, in these situations, we do not disclose any information that could be used to personally identify you. Certain information, such as your password, is never disclosed at all, even in aggregate. Your password is used only by you to access the small business networking website.
 
 GlobalLinker cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will remain private.  
   
@@ -63,5 +60,5 @@ Lawrenceville, NJ 08648.
   
    
   
-[ ](http://www.dpbolvw.net/click-2988671-8073313)   
+[ ](http://www.kqzyfj.com/click-2988671-10491735)   
 
