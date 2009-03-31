@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the blueskyscrubs.com privacy policy that was archived on 2008-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081022103030id_/http%3A//www.blueskyscrubs.com/nursing-medical/about-blue-sky-scrubs/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueskyscrubs.com privacy policy that was archived on 2009-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090331124856id_/http%3A//blueskyscrubs.com/nursing-medical/about-blue-sky-scrubs/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>The blue sky scrubs™ Privacy Policy</title>
+	<title>Privacy Policy | blue sky scrubs</title>
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<link rel="stylesheet" media="screen" type="text/css" href="/stylesheets/blue-sky-scrubs.css">
@@ -17,12 +17,27 @@
 		<div id="body">
 			<div id="hdr">
 				<a href="/"><img src="/images/logo.blueskyscrubs.gif" id="logo-blue-sky-scrubs" alt="blue sky scrubs"></a>
-				<div id="hdr-t"><!--<img src="/images/btn.tell-a-friend.gif" id="hdr-btn-tell-a-friend" alt="Tell a friend"/><img src="/images/img.vert-gray-bar.gif" alt="blue sky scrubs"/>--><a href="/hcart/"><img src="/images/btn.shopping-cart.gif" id="hdr-btn-shopping-cart" alt="Shopping cart"></a> 0 items</div>
+				<div id="hdr-t"><img src="/images/btn.tell-a-friend.gif" id="hdr-btn-tell-a-friend" alt="Tell a friend" onclick="javascript:showFriendBox();"><img src="/images/img.vert-gray-bar.gif" alt="blue sky scrubs"><a href="/hcart/"><img src="/images/btn.shopping-cart.gif" id="hdr-btn-shopping-cart" alt="Shopping cart"></a> <span id="itemCount">0 items</span></div>
 				<div id="hdr-b">
-					<div id="main-nav"><a href="/" title="blue sky scrubs Home">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/scrubs/" title="Scrub Tops and Bottoms for Men and Women">scrubs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/scrub-hats-caps/" title="Scrub Hats and Scrub Caps for Men and Women">scrub hats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/coats/" title="Coats and Vests for Men and Women">coats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/about-blue-sky-scrubs/" title="About blue sky scrubs™">about blue sky</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/contact-blue-sky-scrubs/" title="Contact blue sky scrubs™">contact us</a></div>
+					<div id="main-nav"><a href="/nursing-medical/scrubs/" title="Nursing Scrub Tops and Bottoms for Men and Women">Scrubs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/scrub-hats-caps/" title="Scrub Hats and Scrub Caps for Men and Women">Scrub Hats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/coats/" title="Coats and Vests for Men and Women">Scrub Coats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/about-blue-sky-scrubs/" title="About blue sky scrubs™">About blue sky scrubs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing-medical/contact-blue-sky-scrubs/" title="Contact blue sky scrubs™">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/" title="blue sky scrubs Home">Home</a></div>
 					<div id="search">
 						<form method="get" action="/nursing-medical/search/" onsubmit="return validateQ();"><div><input type="text" name="q" id="q" value=""><input type="image" src="/images/btn.search.gif" id="do-search" name="do" value="search" alt="Search blue sky scrubs"></div></form>
 					</div>
+				</div>
+				<div id="friend_box" style="display: none;">
+					<div id="friend_box_main">
+					<p>Please enter the following information, add <br>a personalized message, and click Send to <br>tell your friends about blue sky scrubs!</p>
+					<table style="width: 250px;">
+						<tbody><tr><td width="100">Your name:</td><td><input type="text" class="text" style="width: 150px" value="" id="s_name"></td></tr>
+						<tr><td width="100">Your email:</td><td><input type="text" class="text" style="width: 150px" value="" id="s_email"></td></tr>
+						<tr><td width="100">Friend's name:</td><td><input type="text" class="text" style="width: 150px" value="" id="r_name"></td></tr>
+						<tr><td width="100">Friend's email:</td><td><input type="text" class="text" style="width: 150px" value="" id="r_email"></td></tr>
+					</tbody></table>
+					<p>Message (optional):<br>
+						<textarea style="width: 250px; height: 75px; font-size: 10px; font-family: Verdana, Arial, Helvetica, san serif;" rows="10" cols="10" id="message"></textarea></p>
+						<p style="text-align:right; margin-bottom:0px;"><img src="/images/hcart.cancel.gif" style="cursor:pointer;" onclick="hideFriendBox()" alt=""> <img src="/images/hcart.send.gif" style="cursor:pointer;" onclick="sendTAFEmail()" alt=""></p>
+					</div>
+					<div id="friend_box_result"></div>
 				</div>
 			</div>
 			<div id="bdy">
@@ -104,7 +119,7 @@
 							</div>
 						</div>
 							<div id="news">
-							<div id="headline-0" class="headline"><b>blue sky scrubs</b> as seen on <i>Dr. 90210</i> and <i>Grey's Anatomy</i>.</div>
+							<div id="headline-0" class="headline"><b>blue sky scrubs</b> as seen on <i>Grey's Anatomy</i>, <i>Dr. 90210</i>, and <i>Private Practice</i>.</div>
 							<div id="headline-1" class="headline"><a href="http://www.medicalnewstoday.com/articles/39664.php" target="_blank"><b>Medical News Today</b> says "'Pony Scrub' Offers Stylish Solution For Rapunzel RN's."
 </a></div>
 							<div id="headline-2" class="headline"><a href="/nursing-medical/scrubs-gift-certificates-cards/" target="_self">Give the gift of blue sky scrubs. Get a blue sky gift certificate here.</a></div>
@@ -114,9 +129,9 @@
 				</tbody></table>
 			</div>
 			<div id="ftr">
-				<p><a href="/" title="blue sky scrubs Home">home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrubs/" title="Scrub Tops and Bottoms for Men and Women">scrubs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrub-hats-caps/" title="Scrub Hats and Scrub Caps for Men and Women">scrub hats</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/coats/" title="Coats and Vests for Men and Women">coats</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrubs-gift-certificates-cards/" title="Gift Certificates from blue sky scrubs™">gift certificates</a>&nbsp;&nbsp;|<!--&nbsp;&nbsp;<a href="/nursing-medical/hospital-uniforms/" title="Hospital Uniform Accessories for Men and Women">uniform accessories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrubs-comparison-shopping/" title="Comparison Shopping for Scrubs and Scrub Hats">comparison shopping</a>&nbsp;&nbsp;|-->&nbsp;&nbsp;<a href="/nursing-medical/about-blue-sky-scrubs/" title="About blue sky scrubs™">about blue sky</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/contact-blue-sky-scrubs/" title="Contact blue sky scrubs™">contact us</a></p>
-			  <p>©2000, 2008 by blue sky scrubs, LLP. All Rights Reserved. [<a href="/nursing-medical/about-blue-sky-scrubs/privacy-policy/" title="The blue sky scrubs™ Privacy Policy">privacy</a>] [<a href="/site-map/" title="blueskyscrubs.com Site Map">site map</a>]</p>
-				<p id="disclaimer">The "blue sky scrubs" family of trademarks is owned by blue sky scrubs, LLP. The blue sky scrubs logo is a registered trademark in the U.S. Patent &amp; Trademark Office and in the European Union. U.S. Patents D572879, D547030.</p>
+				<p><a href="/" title="blue sky scrubs Home">home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrubs/" title="Nursing Scrub Tops and Bottoms for Men and Women">scrubs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrub-hats-caps/" title="Scrub Hats and Scrub Caps for Men and Women">scrub hats</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/coats/" title="Coats and Vests for Men and Women">coats</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/scrubs-gift-certificates-cards/" title="Gift Certificates from blue sky scrubs™">gift certificates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/about-blue-sky-scrubs/" title="About blue sky scrubs™">about blue sky</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/nursing-medical/contact-blue-sky-scrubs/" title="Contact blue sky scrubs™">contact us</a></p>			  
+			  <p>©2000, 2009 by blue sky scrubs, LLP. All Rights Reserved. [<a href="/nursing-medical/about-blue-sky-scrubs/privacy-policy/" title="The blue sky scrubs™ Privacy Policy">privacy</a>] [<a href="/site-map/" title="blueskyscrubs.com Site Map">site map</a>]</p>
+				<p id="disclaimer">The "blue sky scrubs" family of trademarks is owned by blue sky scrubs, LLP. "The Pony Hat" and "The Pixie Hat" are registered trademarks and U.S. Patent No. 7437777, D572879, D547030 are published patents with the U.S. Patent &amp; Trademark Office.</p>
 			</div>
 	</div>
 	</td><td id="r"></td></tr>
