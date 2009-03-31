@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074049id_/http%3A//photoshopessentials.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331051033id_/http%3A//www.photoshopessentials.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Photoshop Tutorials - Photoshop Essentials.com
 
