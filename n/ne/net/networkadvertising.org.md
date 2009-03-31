@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220130937id_/http%3A//www.networkadvertising.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331221206id_/http%3A//www.networkadvertising.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Network Advertising Initiative
 
   
 NAI WEBSITE PRIVACY POLICY  
-Effective 5 September 2007 
+Effective 21 January 2009 
 
 The Network Advertising Initiative's ("NAI's") website serves three basic functions. First, it is a free consumer portal for information about certain kinds of online advertising. Second, it is a non-commercial service site that allows consumers to "opt-out" of a specific kind of advertising practice used by NAI members. Finally, it contains password-protected pages where NAI members can access member-only materials. 
 
@@ -35,7 +35,7 @@ We serve a cookie from our website when members log in to member-only pages, so 
 
 We also serve a cookie to note the anonymous web traffic described in the previous section of this Privacy Policy. 
 
-Finally, NAI member companies serve cookies via this website to allow consumers to opt-out of the Online Preference Marketing ("OPM") practices of those member companies. To enable a consumer to opt out, the NAI or member company must set an "opt-out cookie" on the consumer's browser. At this site, the setting of that opt-out cookie occurs when the consumer chooses, via one of our opt-out pages, not to participate in the OPM practices of an NAI member company. The only way that an NAI member company will be able to know that a consumer has chosen not to participate in OPM is if the member company can read an opt-out cookie on that consumer's browser. To learn more about how our opt-out process works, [click here](https://web.archive.org/web/20081220130937id_/http%3A//www.networkadvertising.org/managing/opt_out.asp). 
+Finally, NAI member companies serve cookies via this website to allow consumers to opt-out of the Online Preference Marketing ("OPM") practices of those member companies. To enable a consumer to opt out, the NAI or member company must set an "opt-out cookie" on the consumer's browser. At this site, the setting of that opt-out cookie occurs when the consumer chooses, via one of our opt-out pages, not to participate in the OPM practices of an NAI member company. The only way that an NAI member company will be able to know that a consumer has chosen not to participate in OPM is if the member company can read an opt-out cookie on that consumer's browser. To learn more about how our opt-out process works, [click here](https://web.archive.org/web/20090331221206id_/http%3A//www.networkadvertising.org/managing/opt_out.asp). 
 
 As part of the opt-out process, please note that NAI members serve cookies on our website. 
 
@@ -47,7 +47,7 @@ You have the ability to manage the use of cookies on your computer using control
 As our organization, membership and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
 
 **Questions?**  
-Please [contact us](https://web.archive.org/web/20081220130937id_/http%3A//www.networkadvertising.org/contact/) with any questions about this website Privacy Policy. 
+Please [contact us](https://web.archive.org/web/20090331221206id_/http%3A//www.networkadvertising.org/contact/) with any questions about this website Privacy Policy. 
 
   
 
