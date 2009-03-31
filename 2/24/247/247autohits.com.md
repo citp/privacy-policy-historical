@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247autohits.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010331id_/http%3A//www.247autohits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247autohits.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331221216id_/http%3A//www.247autohits.com/privacy.php) for the most accurate reproduction.*
 
 # 247AutoHits.com - Your Source for Unlimited FREE Website Hits since 2006!
 
