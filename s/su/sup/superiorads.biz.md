@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superiorads.biz privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201000432id_/http%3A//superiorads.biz/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorads.biz privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331192505id_/http%3A//www.superiorads.biz/policy.html) for the most accurate reproduction.*
 
 # SuperiorAds.Biz - MAXIMIZE your Revenue with us!
 
