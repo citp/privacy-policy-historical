@@ -1,109 +1,101 @@
-> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018233538id_/http%3A//www.shatteredcrystal.com/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331205650id_/http%3A//www.shatteredcrystal.com/privacy.php) for the most accurate reproduction.*
 
-# SHATTERED CRYSTAL INC Privacy Statement
-
-[](http://www.ugo.com/) |  |    
----|---|---  
-  
-**SHATTERED CRYSTAL INC.** **PRIVACY STATEMENT **
-
-This confirms that Shattered Crystal Inc. has a Privacy Program covering all network sites and domains.  This privacy statement discloses the privacy practices for [www.shatteredcrystal.com](http://www.shatteredcrystal.com/) . 
-
-This web site has agreed to notify you of:
-
-1.   What personally identifiable information of yours or third party personally identification is collected from you through the web site
-
-2.   The organization collecting the information 
-
-3.   How the information is used 
-
-4.   With whom the information may be shared 
-
-5.   What choices are available to you regarding collection, use and distribution of the information 
-
-6.   The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Shattered Crystal's control 
-
-7.   How you can correct any inaccuracies in the information. 
-
-Shattered Crystal Inc. is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Shattered Crystal Inc. collects information from our users at several different points on our website.  
- 
-
-**Registration**  
-In order to use our forums and other interactive portions of our sites, a user must first complete the registration form.  During registration a user is required to give their contact information (such as name and email address).  This information is used to contact the user about the services on our site for which they have expressed interest.  It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. 
-
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates.  For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site.  For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
-
-Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies.
-
-  
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.
-
-  
-**Sharing  
-**We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-We use an outside sites statistical tracking.  These companies do retain, share, store or use personally identifiable information for any secondary purposes.
-
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
-
-  
-**Links  
-**This web site contains links to other sites. Please be aware that we [Shattered Crystal Inc.] are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.
-
-  
-**Newsletter  
-**If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
-
-  
-**Surveys & Contests  
-**From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information.  Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-  
-**Tell-A-Friend  
-**If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Shattered Crystal Inc. will automatically send the friend a one-time email inviting them to visit the site. Shattered Crystal Inc. stores this information for the sole purpose of sending this one-time email.  The friend may contact Shattered Crystal Inc. at [markeedragon@shatteredcrystal.com](mailto:markeedragon@shatteredcrystal.com)  to request the removal of this information from their database.
-
-  
-**Security  
-**This website takes every precaution to protect our users’ information.  When users submit sensitive information via the website, your information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected station locks when they are away from their desks.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
-
-If you have any questions about the security at our website, you can send an email to [markeedragon@shatteredcrystal.com](mailto:markeedragon@shatteredcrystal.com) .
-
-  **  
-Special Offers  
-**We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
-
-**   
-Site and Service Updates  
-**We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
-
-  
-**Correction/Updating Personal Information:  
-**If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can usually be done at the member information page **** or by emailing our Customer Support **.**  
-
-  
-**Choice/Opt-out   
-**Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [markeedragon@shatteredcrystal.com](mailto:markeedragon@shatteredcrystal.com)
-
-Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
-
-  
-**Notification of Changes  
-**If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+# Privacy Policy
 
 | 
 
-[](http://www.beseen.com/hc-index.html)  
-  
----|---  
-  
-[](http://www.webtrendslive.com/redirect.asp?siteID=4378)
+Privacy Policy
 
-The fine print: Any information sent in becomes property of Shattered Crystal Inc..  Original artwork and content is owned by Shattered Crystal Inc. and may not be used without written permission.  [You may however link to our site without any need for permissions](http://www.markeedragon.com/link_to_us.asp). All content, Graphics and scripts are copyright © Shattered Crystal Inc 2000 and we do actively protect our content. All copyrights © are held by respective owners on in game screenshots and other in game content that is protected. If you feel that this site or any other site in our network is infringing on your copyright please [email us](mailto:markeedragon@shatteredcrystal.com).  Markee Dragon™ Shattered Crystal Inc. urges you to read our [privacy policy](http://www.shatteredcrystal.com/pp.shtml). 
+By registering, you will open an account with Markee Dragon INC (MDINC) in the United States. Your data will be stored in the USA. Though MDINC may share your data with MDINC affiliates in countries with varying personal data protection laws, your data is always protected by our Privacy Policy. MDINC and MDINC affiliates use your data to administer your account, provide information of interest to you, and to communicate with you. You may opt out of receiving marketing materials by changing your account preferences to exclude administrator emails for our forums and by writing [support@trustwho.com](mailto:support@trustwho.com) letting them know you wish to never receive any promotional emails. More information about how MDINC uses your data and your related rights can be found in our Privacy Policy below. By registering, you agree that MDINC may process your data in accordance with the following Privacy Policy and that you will abide by Terms & Conditions below.
+
+MDINC ONLINE PRIVACY POLICY: MDINC and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online. This policy applies to all MDINC owned sites. To view a complete list of these owned MDINC Web Sites, please visit [http://www.markeedragoninc.com. ](http://www.markeedragoninc.com/)In addition, MDINC owns several other domain names that resolve to the web sites listed above. We may also add new sites that are subject to this privacy policy and we may update this list to include those. Please note that this policy applies only to sites maintained by MDINC and its subsidiaries, and not to web sites maintained by other companies or organizations to which we link.
+
+#### Third Party Sites.
+
+If you click on a link to a third party site, including on an advertisement, you will leave the MDINC site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as MDINC. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to an MDINC site, you should consult that siteâ€™s privacy policy before providing any personal information. 
+
+#### What is personal information and when does MDINC collect it?
+
+Personal information is information that identifies you and may be used to contact you on-line or off-line. MDINC collects personal information from our online visitors during (1) contests (registration or claiming a prize), (2) warranty registration and/or during customer support or technical service requests, (3) member match up or other online services, (4) registration for forums, (5) newsletter subscriptions, referral services, and other marketing surveys and email campaigns, (6) registration for membership on our sites, (7) when you order products or subscriptions from us online, or (8) when you request services from third party service providers on our site or (9) through use of our software or online services. 
+
+Information collected will vary depending upon the activity and may include your name, e-mail address, phone number, mobile number, home address, birth date, and credit card information. In addition, we may collect demographic information such as gender, zip code, information about your computer, hardware, software, platform, media, Internet IP address and connection, information about online activity such as feature usage, click paths and other data that you may provide in surveys or online profiles, for instance. We may combine demographic information with personal information, such as email address, to tailor our offerings or web pages to your preferences or interests. Affiliates or prize winners may also be required to provide Social Security or Social Identification Number for tax purposes. We do not require personal information to obtain access to any of our sites; however, you will not be able to access areas that require registration. 
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
+
+If you choose to use our referral service to "tell a friend" about an MDINC product or site, we may ask you for your friendâ€™s name and email address. We will send your friend an email on your behalf inviting him or her to visit the site or check out our product. MDINC stores your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
+
+#### MDINC's Online Stores
+
+Visitors purchasing goods and services through one of our online stores may need to provide a valid credit card number and expiration date, in addition to name, mailing address(es), phone number and e-mail address. Some of MDINCâ€™s online stores may employ third-party contractors whose opt-out instructions for promotional or marketing communications may vary from our own. 
+
+#### Job Postings
+
+MDINC allows for the online submission of resumes and employment related information. Please note that the information (including personal information) collected and services related to the online job application process are not subject to this privacy policy. However, we want to assure you that information obtained from our job site will be used solely for the purpose of accepting and evaluating your submission for possible employment and the related purposes described on our jobs site. 
+
+#### Online Chat Rooms and Profiles
+
+You may choose to disclose information, including personal information, about yourself in our online chat rooms, message boards, user â€œprofilesâ€ for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+#### Public Data
+
+Your participation in our online sites or events, is conditional upon you agreeing to us collecting, using, storing, transmitting and publicly displaying statistical data (such as your scores, rankings and achievements) generated through your participation. 
+
+#### A Special Note about Children
+
+MDINC does not knowingly collect data from anyone under the age of 13. We have blocks in place to prevent anyone under the age of 13 from creating accounts on all of our sites. The only exception to this is with written parental approval. 
+
+#### What about cookies and other technologies?
+
+We use cookies and other technologies to passively collect demographic information, personalize your experience on our site and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within web sites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store, pages you have viewed, or games you have played. This information is used to keep track of your shopping cart and make sure you don't see the same ad repeatedly. Also, we use cookies to deliver content specific to your interest and to monitor website or game usage. We collect information on what forums are visited, how much time is spent and which ads or links are clicked.. Some of our sites use an outside ad company to display ads. These ads may contain cookies. Cookies received with banner ads are collected by our ad companies, and MDINC does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas of our sites will not function properly if you do so. Please note that this privacy policy covers the use of cookies by MDINC only and does not cover the use of cookies by any advertisers. 
+
+MDINC also maintains log files which contain Internet Protocol ("IP") addresses. An IP address is a numeric address that is assigned to your computer by your Internet Service Provider. In general, we only use log files to monitor traffic on our Web sites, to report aggregate information to our advertisers and to troubleshoot technical problems. In the event of user abuse of our websites, however, we may block certain IP addresses. IP addresses may be used to personally identify you in order to enforce our Terms of Use. 
+
+We may use third party contractors, such as credit agencies or market research firms, to supplement personal information that you provide to us for our own marketing and demographic studies, so that we can consistently improve our sites and related advertising to better meet our visitors' needs and preferences. To enrich our profiles of individual customers, we tie this information to the personally identifiable information they have provided to us. 
+
+When our third-party contractors collect and/or have access to the personal information you provide to MDINC, MDINC requires that they adhere to our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by MDINC. These third parties are prohibited from using your personally identifiable information for any other purpose without your specific consent. 
+
+#### Where is the information held?
+
+MDINC is a global organization and many of the computer systems on which MDINC collects, stores, and uses the information it collects or receives are based in Europe, the United States and elsewhere. Your personal information may be transferred to, used, processed or held by MDINC in the United States and in other countries, including countries both in and outside the European Union, and used for the purposes set out in this Privacy Policy. 
+
+#### Safeguarding Your Personal Information
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+By using this site, you signify your assent to the MDINC Online Privacy Policy. If you do not agree to this policy, please do not use any MDINC site. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you choose to opt-out of our changed practice, our e-mail will contain instructions on how to opt-out. Your continued use of our site will signify your acceptance of the changes to our Online Privacy Policy. 
+
+|    
+[ ](http://www.trustwho.com/business.php)   
+ICQ [49164228](http://web.icq.com/whitepages/add_me?uin=49164228&action=add)
+
+Support
+
+» [FAQ's](https://web.archive.org/faq.php)  
+» [Resend your codes](https://web.archive.org/getmycodes.php)  
+» [Email](mailto:support@shatteredcrystal.com)
+
+Policies
+
+» [Payment options](https://web.archive.org/content/payment.php)  
+» [Returns](https://web.archive.org/content/returns.php)  
+» [Defective Codes](https://web.archive.org/content/defective.php)
+
+Contact
+
+» [About Us](https://web.archive.org/about.php)  
+» [Contact Information](https://web.archive.org/contact.php)
+
+Affiliates
+
+» [Learn about the affiliate program](https://web.archive.org/content/affiliateinfo.php) \- Make money from visitors to your site by referring their business to us.  
+» [Join the affiliate program](https://web.archive.org/signup.php) and generate income from your site!  
+» [Login as an Affiliate](https://web.archive.org/affiliate)
+
+Sites we like
+
+» [FreeGameCam](http://www.freegamecam.com/)  
+» [Markee Dragon](http://www.markeedragon.com/)  
+» [TrustWho](http://www.trustwho.com/)  
+» [UO Brokers](http://www.markeedragon.net/)  
+» [Live MMO Support](http://www.livemmosupport.com/)  
+» [Shattered Crystal Blog](http://gametimecard.blogspot.com/)
