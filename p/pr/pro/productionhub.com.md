@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090141id_/http%3A//www.productionhub.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331052716id_/http%3A//www.productionhub.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # ProductionHUB Privacy Policy
 
@@ -27,7 +27,7 @@ The organization collecting the information.
 
 When you are on ProductionHUB.com and are asked for personal information by productionhub.com, you are sharing that information with productionhub.com only. Please be aware that ProductionHUB.com's advertisers or web sites that have links on our site may collect personally identifiable information about you on their sites. The information practices of those web sites are not covered by this privacy policy. In addition, users and other members may be able to access certain information that you provide to them (e.g. your e-mail address and content that you post on sites that we link to as well as when you post to the Classifieds section of our website). ProductionHUB.com is not in a position to monitor or control any particular user's or community member's use of that content.
 
-How the is information used.
+How is the information used.
 
 ProductionHUB.com's primary goal in collecting personal information is to provide you, the community member, with a potentially fulfilling experience. The more information a user supplies the better potential for maximum benefits.
 
