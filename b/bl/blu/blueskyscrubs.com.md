@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022103030id_/http%3A//www.blueskyscrubs.com/nursing-medical/about-blue-sky-scrubs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331124856id_/http%3A//blueskyscrubs.com/nursing-medical/about-blue-sky-scrubs/privacy-policy) for the most accurate reproduction.*
 
-# The blue sky scrubs™ Privacy Policy
+# Privacy Policy | blue sky scrubs
 
 Updated June 20, 2008
 
