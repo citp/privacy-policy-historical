@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jaxtr.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217044112id_/http%3A//jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jaxtr.com privacy policy that was archived on 2009-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090401003846id_/http%3A//www.jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		
@@ -38,12 +38,25 @@
 		<script type="text/javascript" src="/user/js/pageskin/denovo.js"></script>
 		<script type="text/javascript" src="/user/js/RecordEvents.js"></script>
 		<script type="text/javascript" src="/user/js/jaxtr_elements.js"></script>
+		
+		<!--[if IE]>
+			<script type="text/javascript" src="/user/js/DD_roundies.js"></script>
+			<script type="text/javascript">
+			  	DD_roundies.addRule(".jx_contextual_help_tooltip", "8px");
+			</script>
+		<![endif]-->
+		<!--[if lt IE 7]>
+			<script type="text/javascript">
+			  	DD_roundies.addRule("#logo, .jx_note, #menu_help img, #purchase_jax");
+			</script>
+		<![endif]-->
 
 		<title>jaxtr - privacy policy</title>
 		<link rel="stylesheet" type="text/css" href="/user/css/legal.css">
 	</head>
 	<body>
 		
+
 
 
 
@@ -150,22 +163,24 @@ When you register with jaxtr, you provide us with certain personal information, 
 
 
 
+                 
 
 
 
+ 
 
 		<div id="account_links">
 			
 				
 				
 					<ul>
-	          		  	<li><a href="/user/login.jsp">Login</a> |</li>
+	          		  	<li id="account_link_login"><a href="/user/login.jsp">Login</a></li>
 						
 							
 								
 								
 								
-									<li><a href="/user/registration.jsp">Sign Up</a></li>
+								  <li id="account_link_register"><span>|</span> <a href="/user/registration.jsp">Signup Free</a></li>
 								
 							
 						
@@ -179,6 +194,7 @@ When you register with jaxtr, you provide us with certain personal information, 
 		  	
 		  	
 		  	
+		  	
 			
 			  	
 				
@@ -188,15 +204,20 @@ When you register with jaxtr, you provide us with certain personal information, 
 
 		<div id="menu">
 			<ul>
-				<li id="menu_talk" class="active">
+				<li id="menu_talk">
 					<a href="/user/home.jsp" class="menu_link" style="zoom: 1;">Talk<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
 					<ul class="submenu" style="zoom: 1;">
-					  	<li><a class="active" href="/user/home.jsp">Home</a></li>
-					  	<li class="submenu_last"><a href="/user/settings.jsp?pane=phones">Settings</a></li>
+					  	<li><a href="/user/home.jsp">Home</a></li>
+					  	<li><a href="/user/settings.jsp?pane=phones">Manage Phones</a></li>
 					<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></ul>
 				</li>
 				<li id="menu_history">
-					<a href="/user/history.jsp" class="menu_link" style="zoom: 1;">Call History<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
+					<a href="/user/history.jsp" class="menu_link" style="zoom: 1;">Call History 
+						
+						
+						
+					<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
+					
 					<ul class="submenu" style="zoom: 1;">
 					<form action="/user/CallHistory.action" style="margin-top:0px;margin-bottom:0px" id="filter-form" method="post">
 				  	  	
@@ -206,6 +227,9 @@ When you register with jaxtr, you provide us with certain personal information, 
 										<a href="/user/CallHistory.action?CallHistory=&amp;_sourcePage=%2Fprivacypolicy.jsp&amp;filterByValue=all&amp;filterByColumn=0" class="active">All</a>
 									</li>
 									<li>
+									<a href="/user/CallHistory.action?CallHistory=&amp;_sourcePage=%2Fprivacypolicy.jsp&amp;filterByValue=freeconnect&amp;filterByColumn=2">FreeConnect</a>
+									</li>
+									<li>
 									<a href="/user/CallHistory.action?CallHistory=&amp;_sourcePage=%2Fprivacypolicy.jsp&amp;filterByValue=inbound&amp;filterByColumn=1">Inbound</a>
 									</li>
 									<li>
@@ -213,16 +237,18 @@ When you register with jaxtr, you provide us with certain personal information, 
 									</li>
 									<li>
 									<a href="/user/CallHistory.action?CallHistory=&amp;_sourcePage=%2Fprivacypolicy.jsp&amp;filterByValue=voicemail&amp;filterByColumn=0">Voicemail</a>
+									
 									</li>
+									
 								
 								
 							
 
-					<div style="display: none;"><input type="hidden" name="_sourcePage" value="/privacypolicy.jsp"><input type="hidden" name="__fp" value="jaOVVQNPzCpHWU3viK0FVQ=="></div></form>
+					<div style="display: none;"><input type="hidden" name="_sourcePage" value="/privacypolicy.jsp"><input type="hidden" name="__fp" value="8GE40Eat4lvxT9uiyF3nFg=="></div></form>
 					<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></ul>
 				</li>
 				<li id="menu_contacts">
-					<a href="/user/friends.jsp" class="menu_link" style="zoom: 1;">Contacts<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
+					<a href="/user/friends.jsp?type=uninvited" class="menu_link" style="zoom: 1;">Contacts<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
 					<ul class="submenu" style="zoom: 1;">
 					  	<li><a href="/user/friends.jsp">All</a></li>
 					  	<li><a href="/user/friends.jsp?type=uninvited">Invite Friends</a></li>
@@ -239,34 +265,29 @@ When you register with jaxtr, you provide us with certain personal information, 
 					<a href="/user/settings.jsp" class="menu_link" style="zoom: 1;">My Account<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas></div></a>
 					<ul class="submenu" style="zoom: 1;">
 					  	<li><a href="/user/settings.jsp">Summary</a></li>
+						<li><a href="/user/settings.jsp?pane=phones">Manage Phones</a></li>
+						<li><a href="/user/settings.jsp?pane=notifications">Manage Notifications</a></li>
 					  	<li><a href="/user/settings.jsp?pane=billinghistory">Billing History</a></li>
 					  	<li><a href="/user/settings.jsp?pane=paymentprefs">Payment Settings</a></li>
 					  	<li><a href="/user/settings.jsp?pane=privacysettings">Privacy Settings</a></li>
 					  	<li><a href="/user/widgets.jsp">My Widgets</a></li>
 					<div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></ul>
 				</li>
+				<li id="menu_none" class="active">
+					<ul class="submenu" style="zoom: 1;"><div style="display: inherit"><canvas width="6px" height="6px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="6px" height="6px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></ul>
+				</li>
 				<li id="menu_help">
 					<a href="http://support.jaxtr.com" class="menu_link"><img src="/user/img/pageskin/denovo/icon_help.png" alt=""> Help</a>
 				</li>
 				<li id="menu_feedback">
-				  	<a href="http://support.jaxtr.com">Send us feedback</a>
-					<form method="post" action="http://support.jaxtr.com" id="menu_help_form">
-					  	<input type="hidden" name="departmentid" value="14">
-						<input type="hidden" name="subject" value="Suggestion/Feedback">
-						<input type="hidden" name="_m" value="tickets">
-						<input type="hidden" name="_a" value="submit">
-						<input type="hidden" name="step" value="1">
-						<input type="hidden" name="email" value="">
-						<input type="hidden" name="fullname" value="">
-						<input type="hidden" name="e6d41767e9" value="">
-					</form>
+				  	<a href="http://support.jaxtr.com/index.php?parenttroubleshooterid=23&amp;_m=troubleshooter&amp;_a=steps&amp;troubleshootercatid=5&amp;email=&amp;fullname=&amp;e6d41767e9=">Send us feedback</a>
 				</li>
 			</ul>
 		</div>
 
 		
 		<div id="pagefoot" style="margin-bottom: 0px;">
-			<p id="copyright">Copyright © jaxtr inc., 2008</p>
+			<p id="copyright">Copyright © jaxtr inc., 2009</p>
 			<ul>
 			  	<li id="pagefoot_howitworks"><a href="/user/howitworks.jsp">How it works</a></li>
 				<li id="pagefoot_rates"><a href="/user/rates.jsp">Rates</a></li>
