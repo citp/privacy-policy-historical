@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2008-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080701134953id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichert.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401010030id_/http%3A//www.weichert.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
 # Weichert.com: About Us: Privacy Policy
 
