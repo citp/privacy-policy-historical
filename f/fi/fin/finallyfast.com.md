@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finallyfast.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055409id_/http%3A//www.finallyfast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finallyfast.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401011502id_/http%3A//www.finallyfast.com/privacy.html) for the most accurate reproduction.*
 
 # Finally Fast.com | Get your computer to its peak performance | Privacy Policy
 
@@ -19,7 +19,7 @@ Our software may include links or recommendations for other Ascentive products t
 This site gives users the following options for changing and modifying information  
 previously provided.
 
-  * You can send us email at the [Ascentive Support Center](https://web.archive.org/web/20081217055409id_/http%3A//www.finallyfast.com/support.html).
+  * You can send us email at the [Ascentive Support Center](https://web.archive.org/web/20090401011502id_/http%3A//www.finallyfast.com/support.html).
   * You can send mail to the following postal address:  
    Ascentive LLC,  
    201 Spring Garden Street,  
