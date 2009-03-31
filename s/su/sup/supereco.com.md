@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supereco.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220190124id_/http%3A//www.supereco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supereco.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331201724id_/http%3A//www.supereco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Super Eco
 
@@ -46,4 +46,4 @@ This Privacy Policy is effective September 24th, 2008. We reserve the right to a
 
 **Terms of Use**
 
-Note also that your use of the Sites is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of California or New York law.
+Note also that your use of the Sites is subject to our [Terms of Use](http://www.supereco.com/terms/), which contain disclaimers, limitations of liability and a choice of California or New York law.
