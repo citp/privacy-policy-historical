@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the azrul.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024408id_/http%3A//www.azrul.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azrul.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331114317id_/http%3A//www.azrul.com/privacy-policy.html) for the most accurate reproduction.*
 
-# azrul.com - Privacy Policy
+# Privacy Policy
+
+##  [ Privacy Policy](http://www.azrul.com/privacy-policy.html)
+
+Tuesday, 17 June 2008 10:46 
 
 This site is owned and operated by Azrul.com. Your privacy on the Internet is of the utmost importance to us. At Azrul.com, we want to make your experience online satisfying and safe.
 
@@ -54,4 +58,4 @@ By using this site, you consent to the collection and use of this information by
 **Questions or comments**
 
   
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at  support@azrul.com.
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at  [support@azrul.com](mailto:support@azrul.com) .
