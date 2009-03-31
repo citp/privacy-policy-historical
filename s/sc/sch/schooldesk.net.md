@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldesk.net privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915211451id_/http%3A//www.schooldesk.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldesk.net privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331114610id_/http%3A//schooldesk.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Welcome to SchoolDesk!
 
@@ -44,4 +44,4 @@ Welcome to SchoolDesk... will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Welcome to SchoolDesk... welcomes your comments regarding this Statement of Privacy. If you believe that Welcome to SchoolDesk... has not adhered to this Statement, please contact Welcome to SchoolDesk... at [admin@admin.com](mailto:admin@admin.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Welcome to SchoolDesk... welcomes your comments regarding this Statement of Privacy. If you believe that Welcome to SchoolDesk... has not adhered to this Statement, please contact Welcome to SchoolDesk... at support@schooldesk.net. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
