@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221111240id_/http%3A//www.columbia.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401061128id_/http%3A//www.columbia.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Columbia Sportswear: Privacy Policy
 
