@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the histats.com privacy policy that was archived on 2008-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081222050939id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the histats.com privacy policy that was archived on 2009-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090401081651id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,8 +7,8 @@
 <meta name="keywords" content="Counter Histats.com,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional with 20k lines log file for free!!">
 <meta name="description" content="Histats.com, free web stats and stat counter, hit counter, free web tracker and tracking tools">
 <script>
-	var AR_GLOB = new Array();
-	AR_GLOB['dom_baseIMG'] = 'http://www.histats.com/images';
+        var AR_GLOB = new Array();
+        AR_GLOB['dom_baseIMG'] = 'http://www.histats.com/images';
 </script>
 
 <link rel="shortcut icon" href="http://www.histats.com/favicon.ico">
@@ -54,33 +54,38 @@
 <script src="http://www.histats.com/js/AF2.js"></script>
 <script>Tooltip.init();</script>
 
-	
-	<style type="text/css">
-	div#tipDiv {  position:absolute; visibility:hidden; left:0; top:0; z-index:10000; width:250px; padding:4px;  color:#000; font-family: Verdana; font-size:8px; line-height:1.2;}
-	</style>
-	<script type="text/javascript">
-	function doTooltip_testo(e, msg) {
-	//msg= '<table border="0" width="205" id="table1" cellspacing="0" cellpadding="0"><tr><td background="http://www.histats.com/images/fumetto_top.gif" width="205" height="25"></td></tr><tr><td background="http://www.histats.com/images/fumetto_cen.gif" width="205"><div align="center"><table border="0" width="190" id="table2" cellspacing="0" cellpadding="0"><tr><td><div align="center"><font class="testo2">'+msg+'</b></font></div></td></tr></table></div></td></tr><tr><td background="http://www.histats.com/images/fumetto_bot.gif" width="205" height="10"></td></tr></table>';
-	msg= '<table style="border: 2px solid #7C9CDE;" width="205" id="table3" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF"><tr><td style="background-image: url(\'http://www.histats.com/images/bg_inputText.jpg\'); background-repeat: repeat-x" align="center"><font class="txt_V_11_dg">'+msg+'</font></td></tr></table>';
-	if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
-	  Tooltip.show(e, msg);
-	}
-	function doTooltip_swf_prev(e, n_c, swf_w, swf_h, bg_tb) {
-		n_c= '<table border="0" width="290" height="140" id="table1" cellspacing="0" cellpadding="0" background="'+bg_tb+'"><tr><td><div align="center"><embed src="http://s11.histats.com/'+n_c+'.swf" width="'+swf_w+'" height="'+swf_h+'" quality="high" bgcolor="#ffffff"  name="ImageFader2" align="middle" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></div></td></tr></table>';
-	    if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
-	    Tooltip.show(e, n_c);
-	}
-	function hideTip() {
-		if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
-		Tooltip.hide();
-	}
-	</script>
+
+        <style type="text/css">
+        div#tipDiv {  position:absolute; visibility:hidden; left:0; top:0; z-index:10000; width:250px; padding:4px;  color:#000; font-family: Verdana; font-size:8px; line-height:1.2;}
+        </style>
+        <script type="text/javascript">
+        function doTooltip_testo(e, msg) {
+        //msg= '<table border="0" width="205" id="table1" cellspacing="0" cellpadding="0"><tr><td background="http://www.histats.com/images/fumetto_top.gif" width="205" height="25"></td></tr><tr><td background="http://www.histats.com/images/fumetto_cen.gif" width="205"><div align="center"><table border="0" width="190" id="table2" cellspacing="0" cellpadding="0"><tr><td><div align="center"><font class="testo2">'+msg+'</b></font></div></td></tr></table></div></td></tr><tr><td background="http://www.histats.com/images/fumetto_bot.gif" width="205" height="10"></td></tr></table>';
+        //msg= '<table style="border: 2px solid #7C9CDE;" width="205" id="table3" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF"><tr><td style="background-image: url(\'http://www.histats.com/images/bg_inputText.jpg\'); background-repeat: repeat-x" align="center"><font class="txt_V_11_dg">'+msg+'</font></td></tr></table>';
+        //msg= '<table border="1" width="250" cellspacing="0" bgcolor="#DED9C0" style="border-collapse: collapse" bordercolor="#D2CFC4" bordercolordark="#EEECDF" bordercolorlight="#988D76"><tr><td bgcolor="#6C6C6C" height="2"></td></tr><tr><td><font class="txt_12_b_b">'+msg+'</font></td></tr></table>';
+        var msg= '<table border="0" width="250" cellspacing="0" cellpadding="0">\
+                <tr><td height="2" bgcolor="#709FCB"></td></tr>\
+                <tr><td bgcolor="#1f436b"><table border="0" width="100%" cellspacing="0" cellpadding="3" height="100%"><tr><td style="border-top: 1px solid #FFFFFF"><font class="txt_12_w">'+msg+'</font></td></tr></table></td></tr>\
+        </table>';
+        if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+          Tooltip.show(e, msg);
+        }
+        function doTooltip_swf_prev(e, n_c, swf_w, swf_h, bg_tb) {
+                n_c= '<table border="0" width="290" height="140" id="table1" cellspacing="0" cellpadding="0" background="'+bg_tb+'"><tr><td><div align="center"><embed src="http://s11.histats.com/'+n_c+'.swf" width="'+swf_w+'" height="'+swf_h+'" quality="high" bgcolor="#ffffff"  name="ImageFader2" align="middle" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></div></td></tr></table>';
+            if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+            Tooltip.show(e, n_c);
+        }
+        function hideTip() {
+                if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+                Tooltip.hide();
+        }
+        </script>
 
 
 <div id="loadingbar" style="position: absolute; top: 300px; width: 160px; left: 603px; display: none;"><img border="0" src="http://www.histats.com/images/loading.gif" width="150" height="13"></div>
 <script>
-	document.getElementById('loadingbar').style.left=(document.body.offsetWidth/2)-80;
-	document.getElementById('loadingbar').style.top= 300;
+        document.getElementById('loadingbar').style.left=(document.body.offsetWidth/2)-80;
+        document.getElementById('loadingbar').style.top= 300;
 </script>
 
 <div style="position:absolute; z-index:100;left:0px; top:0px; background-color:#F1F5F7;border:1px solid #B0BDCC;display:none;" id="div_dhtmlContent"></div>
@@ -95,167 +100,167 @@ f_preload_img();
 
 <div align="center">
 <table border="0" width="960" id="table2" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td background="http://www.histats.com/images/temi_topbot/top_blue.gif" height="100" align="center" valign="bottom">				
-			<table border="0" width="930" id="table3" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="250" align="center"><a href="http://www.histats.com"><embed wmode="transparent" src="http://www.histats.com/images/title2.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="obj1" width="250" height="80"></a></td>					
-					<td width="380" align="right" valign="top">
-						<table border="0" width="380" id="table17" cellspacing="0" cellpadding="0" height="70">
-							<tbody><tr>
-								<td height="20" align="right">
-									<a href="http://www.histats.com/index.php?lang=0"><img src="http://www.histats.com/images/us.gif" border="0"></a>
-									<a href="http://www.histats.com/index.php?lang=1"><img src="http://www.histats.com/images/it.gif" border="0"></a>
-									<a href="http://www.histats.com/index.php?lang=2"><img src="http://www.histats.com/images/es.gif" border="0"></a>
-									<a href="http://www.histats.com/index.php?lang=3"><img src="http://www.histats.com/images/fr.gif" border="0"></a>
-									<a href="http://www.histats.com/index.php?lang=4"><img src="http://www.histats.com/images/de.gif" border="0"></a> &nbsp;
-								</td>
-							</tr>
-							<tr>
-								<td align="center">
-									<embed wmode="transparent" src="http://www.histats.com/swf/scritte_top2.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="obj1" width="380" height="50" quality="High">
-								</td>
-							</tr>
-						</tbody></table>																				
-					</td>
-					<td width="300" bgcolor="#FFFFFF" background="http://www.histats.com/images/bg_top_login.png" align="center" valign="top">
-						<table border="0" width="280" id="table16" height="5" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table>
-						<div id="div_tabLoginTop_1">
-								<table border="0" width="280" id="table12" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td align="center" width="137"><div id="div_bt_home" class="bt_login_on">LOGIN</div></td>
-										<td width="5"></td>
-										<td align="center" width="137"><a href="javascript:f_print_login(2);"><div id="div_bt_home" class="bt_login_off" onmouseout="this.className='bt_login_off'" onmouseover="this.className='bt_login_over'">LOST PASSWORD</div></a></td>
-									</tr>
-								</tbody></table>
-								<table border="0" width="90%" id="table1" cellspacing="0" cellpadding="0">
-									<tbody><tr><td height="3"></td></tr>
-									<tr><td bgcolor="#9FB8C6" height="1"></td></tr>
-									<tr><td height="3"></td></tr>
-								</tbody></table>
-								<table border="0" width="280" id="table13" cellspacing="0" cellpadding="0"><tbody><tr><td>
-									<form method="POST" action="http://www.histats.com/viewstats/index.php">
-									<input type="hidden" name="DOLOGIN" value="1">
-									<input type="hidden" name="cnt" value="">
-									<table border="0" width="280" id="table14" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td width="60" height="20"><font class="txt_V_10_grey">Mail</font></td>
-											<td width="115" height="20"><input type="text" name="user" size="20" class="inputText_gr" tabindex="1"></td>
-											<td width="105" align="right" height="20">
-												
-												<table border="0" width="100%" id="table35" cellspacing="0" cellpadding="0"><tbody><tr><td width="85" align="center">
-													<select size="1" name="useiplogin" id="useiplogin" style="font-size: 10px; font-family: Arial; color: #666666" tabindex="3">
-														<option value="1" selected="">cookie</option>
-														<option value="2">cookie + IP</option>
-													</select>
-												</td>
-												<td width="20" align="center">
-													<img border="0" src="http://www.histats.com/images/help_16.gif" width="16" height="16" onmouseover="doTooltip_testo(event,'Use logging with ip only if your cookie didn\'----t work and you aren\'----t on shared IP address');" onmouseout="hideTip();">
-												</td>
-												</tr></tbody></table>
-											</td>
-										</tr>
-										<tr>
-											<td width="60" height="20"><font class="txt_V_10_grey">Password</font></td>
-											<td width="115" height="20"><input type="password" name="pass" size="20" class="inputText_gr" tabindex="2"></td>
-											<td width="105" height="20" align="center"><input name="Button2" type="submit" value="LOGIN" class="buttonLOGIN" tabindex="4"></td>
-										</tr>
-									</tbody></table>
-									</form>
-								</td></tr></tbody></table>
-							</div>
-							<div id="div_tabLoginTop_2" style="display:none;">
-								<table border="0" width="280" id="table10" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td align="center" width="137"><a href="javascript:f_print_login(1);"><div id="div_bt_home" class="bt_login_off" onmouseout="this.className='bt_login_off'" onmouseover="this.className='bt_login_over'">LOGIN</div></a></td>
-										<td width="5"></td>
-										<td align="center" width="137"><div id="div_bt_home" class="bt_login_on">LOST PASSWORD</div></td>
-									</tr>
-								</tbody></table>
-								<hr color="#9FB8C6" width="280" size="1" align="center">
-								<table border="0" width="280" id="table1" cellspacing="0" cellpadding="0"><tbody><tr><td>
-								<form method="POST" action="http://www.histats.com/viewstats/?cnt=p_fps&amp;st=1"><input name="forg_type" value="2" type="hidden">
-								<table border="0" width="280" id="table11" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td width="50"><font class="txt_V_10_grey">mail</font></td>
-										<td width="160"><input type="text" name="forg_mail" size="27" class="inputText_gr" tabindex="1"></td>
-										<td align="center" width="70"><input name="Button2" type="submit" value="SEND" class="buttonLOGIN" tabindex="2"></td>
-									</tr>
-								</tbody></table>
-								</form>
-								</td></tr></tbody></table>
-							</div>
-					</td>
-				</tr>
-			</tbody></table>							
-		</td>
-	</tr>
-</tbody></table>
-<table border="0" width="960" id="table2" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td background="http://www.histats.com/images/temi_topbot/mid.gif" height="25" align="center">
-			<table border="0" bgcolor="#E4E4E4" width="948" cellspacing="0" cellpadding="0" height="100%" background="http://www.histats.com/images/temi_topbot/top_bar_blue.jpg"><tbody><tr><td>
-				<table border="0" width="944" id="table4" cellspacing="0" cellpadding="0" height="100%">
-					<tbody><tr>
-						<td align="center" width="100"><a href="http://www.histats.com/" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">HOME</div></a></td>
-						<td align="center" width="100"><a href="http://www.histats.com/features.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">FEATURE</div></a></td>
-						<td align="center" width="100"><a href="http://www.histats.com/counters.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">COUNTERS</div></a></td>
-						<td align="center" width="100"><a href="http://www.histats.com/viewstats/?cnt=p_reg" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">REGISTER</div></a></td>
-						<td align="center" width="100"><a href="http://board.histats.com/" class="bt_general_off_blue" target="_blank"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">FORUM</div></a></td>
-						<td align="center" width="100"><a href="http://www.histats.com/chart.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">CHART</div></a></td>
-						<td align="center" width="100"><a href="http://www.histats.com/viewstats/?SID=1" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over_demo'">live DEMO</div></a></td>
-						<td align="right" width="214"></td>
-						<td align="center" width="30"></td>
-						
-					</tr>
-				</tbody></table>
-			</td></tr></tbody></table>
-		</td>
-	</tr>
-	
-	<tr align="center">
-		<td align="center" background="http://www.histats.com/images/temi_topbot/mid.gif">
-			<div id="div_adsTOP" align="center">
-			<table border="0" width="936" id="table224" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-				<tbody><tr>
-					<td width="468" align="center">						
-						<script type="text/javascript"><!--
-						google_ad_client = "pub-8552080323299228";
-						google_ad_slot = "3753473387";
-						google_ad_width = 468;
-						google_ad_height = 60;
-						//-->
-						</script>
-						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-						</script>
-					</td>
-					<td width="468" align="center">						
-						<script type="text/javascript"><!--
-						google_ad_client = "pub-8552080323299228";
-						google_ad_slot = "3753473387";
-						google_ad_width = 468;
-						google_ad_height = 60;
-						//-->
-						</script>
-						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-						</script>				
-					</td>
-				</tr>
-			</tbody></table>	
-			</div>	
-		</td>
-	</tr>
+        <tbody><tr>
+                <td background="http://www.histats.com/images/temi_topbot/top_blue.gif" height="100" align="center" valign="bottom">
+                        <table border="0" width="930" id="table3" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                        <td width="250" align="center"><a href="http://www.histats.com"><embed wmode="transparent" src="http://www.histats.com/images/title2.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="obj1" width="250" height="80"></a></td>
+                                        <td width="380" align="right" valign="top">
+                                                <table border="0" width="380" id="table17" cellspacing="0" cellpadding="0" height="70">
+                                                        <tbody><tr>
+                                                                <td height="20" align="right">
+                                                                        <a href="http://www.histats.com/index.php?lang=0"><img src="http://www.histats.com/images/us.gif" border="0"></a>
+                                                                        <a href="http://www.histats.com/index.php?lang=1"><img src="http://www.histats.com/images/it.gif" border="0"></a>
+                                                                        <a href="http://www.histats.com/index.php?lang=2"><img src="http://www.histats.com/images/es.gif" border="0"></a>
+                                                                        <a href="http://www.histats.com/index.php?lang=3"><img src="http://www.histats.com/images/fr.gif" border="0"></a>
+                                                                        <a href="http://www.histats.com/index.php?lang=4"><img src="http://www.histats.com/images/de.gif" border="0"></a> &nbsp;
+                                                                </td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td align="center">
+                                                                        <embed wmode="transparent" src="http://www.histats.com/swf/scritte_top2.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="obj1" width="380" height="50" quality="High">
+                                                                </td>
+                                                        </tr>
+                                                </tbody></table>
+                                        </td>
+                                        <td width="300" bgcolor="#FFFFFF" background="http://www.histats.com/images/bg_top_login.png" align="center" valign="top">
+                                                <table border="0" width="280" id="table16" height="5" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table>
+                                                <div id="div_tabLoginTop_1">
+                                                                <table border="0" width="280" id="table12" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                                <td align="center" width="137"><div id="div_bt_home" class="bt_login_on">LOGIN</div></td>
+                                                                                <td width="5"></td>
+                                                                                <td align="center" width="137"><a href="javascript:f_print_login(2);"><div id="div_bt_home" class="bt_login_off" onmouseout="this.className='bt_login_off'" onmouseover="this.className='bt_login_over'">LOST PASSWORD</div></a></td>
+                                                                        </tr>
+                                                                </tbody></table>
+                                                                <table border="0" width="90%" id="table1" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr><td height="3"></td></tr>
+                                                                        <tr><td bgcolor="#9FB8C6" height="1"></td></tr>
+                                                                        <tr><td height="3"></td></tr>
+                                                                </tbody></table>
+                                                                <table border="0" width="280" id="table13" cellspacing="0" cellpadding="0"><tbody><tr><td>
+                                                                        <form method="POST" action="http://www.histats.com/viewstats/index.php">
+                                                                        <input type="hidden" name="DOLOGIN" value="1">
+                                                                        <input type="hidden" name="cnt" value="">
+                                                                        <table border="0" width="280" id="table14" cellspacing="0" cellpadding="0">
+                                                                                <tbody><tr>
+                                                                                        <td width="60" height="20"><font class="txt_V_10_grey">Mail</font></td>
+                                                                                        <td width="115" height="20"><input type="text" name="user" size="20" class="inputText_gr" tabindex="1"></td>
+                                                                                        <td width="105" align="right" height="20">
 
-	<tr>
-		<td align="center" background="http://www.histats.com/images/temi_topbot/mid.gif">	
-			<table border="0" width="944" id="table1" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table>
-		</td>
-	</tr>
+                                                                                                <table border="0" width="100%" id="table35" cellspacing="0" cellpadding="0"><tbody><tr><td width="85" align="center">
+                                                                                                        <select size="1" name="useiplogin" id="useiplogin" style="font-size: 10px; font-family: Arial; color: #666666" tabindex="3">
+                                                                                                                <option value="1" selected="">cookie</option>
+                                                                                                                <option value="2">cookie + IP</option>
+                                                                                                        </select>
+                                                                                                </td>
+                                                                                                <td width="20" align="center">
+                                                                                                        <img border="0" src="http://www.histats.com/images/help_16.gif" width="16" height="16" onmouseover="doTooltip_testo(event,'Use logging with ip only if your cookie didn\'----t work and you aren\'----t on shared IP address');" onmouseout="hideTip();">
+                                                                                                </td>
+                                                                                                </tr></tbody></table>
+                                                                                        </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                        <td width="60" height="20"><font class="txt_V_10_grey">Password</font></td>
+                                                                                        <td width="115" height="20"><input type="password" name="pass" size="20" class="inputText_gr" tabindex="2"></td>
+                                                                                        <td width="105" height="20" align="center"><input name="Button2" type="submit" value="LOGIN" class="buttonLOGIN" tabindex="4"></td>
+                                                                                </tr>
+                                                                        </tbody></table>
+                                                                        </form>
+                                                                </td></tr></tbody></table>
+                                                        </div>
+                                                        <div id="div_tabLoginTop_2" style="display:none;">
+                                                                <table border="0" width="280" id="table10" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                                <td align="center" width="137"><a href="javascript:f_print_login(1);"><div id="div_bt_home" class="bt_login_off" onmouseout="this.className='bt_login_off'" onmouseover="this.className='bt_login_over'">LOGIN</div></a></td>
+                                                                                <td width="5"></td>
+                                                                                <td align="center" width="137"><div id="div_bt_home" class="bt_login_on">LOST PASSWORD</div></td>
+                                                                        </tr>
+                                                                </tbody></table>
+                                                                <hr color="#9FB8C6" width="280" size="1" align="center">
+                                                                <table border="0" width="280" id="table1" cellspacing="0" cellpadding="0"><tbody><tr><td>
+                                                                <form method="POST" action="http://www.histats.com/viewstats/?cnt=p_fps&amp;st=1"><input name="forg_type" value="2" type="hidden">
+                                                                <table border="0" width="280" id="table11" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                                <td width="50"><font class="txt_V_10_grey">mail</font></td>
+                                                                                <td width="160"><input type="text" name="forg_mail" size="27" class="inputText_gr" tabindex="1"></td>
+                                                                                <td align="center" width="70"><input name="Button2" type="submit" value="SEND" class="buttonLOGIN" tabindex="2"></td>
+                                                                        </tr>
+                                                                </tbody></table>
+                                                                </form>
+                                                                </td></tr></tbody></table>
+                                                        </div>
+                                        </td>
+                                </tr>
+                        </tbody></table>
+                </td>
+        </tr>
 </tbody></table>
 <table border="0" width="960" id="table2" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td background="http://www.histats.com/images/temi_topbot/mid.gif" align="center" valign="top">
-		<div id="div_contenutoCen" style="border-width: 1px"></div><table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0" height="7"><tbody><tr><td></td></tr></tbody></table>
+        <tbody><tr>
+                <td background="http://www.histats.com/images/temi_topbot/mid.gif" height="25" align="center">
+                        <table border="0" bgcolor="#E4E4E4" width="948" cellspacing="0" cellpadding="0" height="100%" background="http://www.histats.com/images/temi_topbot/top_bar_blue.jpg"><tbody><tr><td>
+                                <table border="0" width="944" id="table4" cellspacing="0" cellpadding="0" height="100%">
+                                        <tbody><tr>
+                                                <td align="center" width="100"><a href="http://www.histats.com/" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">HOME</div></a></td>
+                                                <td align="center" width="100"><a href="http://www.histats.com/features.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">FEATURE</div></a></td>
+                                                <td align="center" width="100"><a href="http://www.histats.com/counters.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">COUNTERS</div></a></td>
+                                                <td align="center" width="100"><a href="http://www.histats.com/viewstats/?cnt=p_reg" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">REGISTER</div></a></td>
+                                                <td align="center" width="100"><a href="http://board.histats.com/" class="bt_general_off_blue" target="_blank"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">FORUM</div></a></td>
+                                                <td align="center" width="100"><a href="http://www.histats.com/chart.php" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over'">CHART</div></a></td>
+                                                <td align="center" width="100"><a href="http://www.histats.com/viewstats/?SID=1" class="bt_general_off_blue"><div id="div_bt_home" onmouseout="this.className='bt_general_off_blue'" onmouseover="this.className='bt_general_over_demo'">live DEMO</div></a></td>
+                                                <td align="right" width="214"></td>
+                                                <td align="center" width="30"></td>
+
+                                        </tr>
+                                </tbody></table>
+                        </td></tr></tbody></table>
+                </td>
+        </tr>
+        
+        <tr align="center">
+                <td align="center" background="http://www.histats.com/images/temi_topbot/mid.gif">
+                        <div id="div_aTOP" align="center">
+                        <table border="0" width="936" id="table224" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tbody><tr>
+                                        <td width="468" align="center">
+                                                <table border="0" width="468" id="table1" cellspacing="1" cellpadding="0" height="60">
+                                    <tbody><tr>
+                                        <td height="30"><a rel="nofollow" target="_blank" href="http://www.web-hosting-top.com/" class="a_EX_td1"><div id="a_EX_1" onmouseover="this.className='a_EX_td1_on';" onmouseout="this.className='a_EX_td1';" class="a_EX_td1" align="center">Top 10 Web Hosting</div></a></td>
+                                        <td height="30" bgcolor="#F2F2F2"></td>
+                                    </tr>
+                                    <tr>
+                                        <td bgcolor="#F2F2F2" width="234" align="center" height="30"><a rel="nofollow" target="_blank" href="http://www.wix.com/free/website?utm_campaign=histats&amp;experiment_id=histats" class="a_EX_td2"><div id="a_EX_4" onmouseover="this.className='a_EX_td2_on';" onmouseout="this.className='a_EX_td2';" class="a_EX_td2" align="center">Free Flash website</div></a></td>
+                                        <td height="30" width="234" align="center"><a rel="nofollow" href="http://www.histats.com/adve.php" class="adv_here">Advertise HERE! <font class="adv_stxt"> (it's cheap!)</font></a></td>
+                                    </tr>
+                                </tbody></table>
+                                        </td>
+                                        <td width="468" align="center">
+                                                <script type="text/javascript"><!--
+                                                google_ad_client = "pub-8552080323299228";
+                                                google_ad_slot = "3753473387";
+                                                google_ad_width = 468;
+                                                google_ad_height = 60;
+                                                //-->
+                                                </script>
+                                                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                                </script>
+                                        </td>
+                                </tr>
+                        </tbody></table>
+                        </div>
+                </td>
+        </tr>
+        <tr>
+                <td align="center" background="http://www.histats.com/images/temi_topbot/mid.gif">
+                        <table border="0" width="944" id="table1" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table>
+                </td>
+        </tr>
+</tbody></table>
+<table border="0" width="960" id="table2" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+                <td background="http://www.histats.com/images/temi_topbot/mid.gif" align="center" valign="top">
+                <div id="div_contenutoCen" style="border-width: 1px"></div><table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0" height="7"><tbody><tr><td></td></tr></tbody></table>
 	<br>	
 	<table border="0" width="900" id="table2" cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -438,55 +443,56 @@ A swiss company.</font>
 	</tbody></table>
 	<script>function caricafob(){}</script><br>
 </td>
-		</tr>
-		<tr>
-			<td background="http://www.histats.com/images/temi_topbot/bot_blue.gif" height="30" align="center">
-			
-				<table border="0" width="930" id="table36" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td width="100">
-							<table border="1" id="table37" cellspacing="0" cellpadding="0" style="border-collapse: collapse" height="12" bordercolor="#F3F3F3" width="50">
-								<tbody><tr>
-									<td><a href="http://www.histats.com/terms.php?layoutC=1"><img border="0" src="http://www.histats.com/images/temi_topbot/q_red.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change color of your histats layout')" onmouseout="hideTip()"></a></td>
-									<td><a href="http://www.histats.com/terms.php?layoutC=2"><img border="0" src="http://www.histats.com/images/temi_topbot/q_orange.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change color of your histats layout')" onmouseout="hideTip()"></a></td>
-									<td><a href="http://www.histats.com/terms.php?layoutC=3"><img border="0" src="http://www.histats.com/images/temi_topbot/q_green.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change color of your histats layout')" onmouseout="hideTip()"></a></td>
-									<td><a href="http://www.histats.com/terms.php?layoutC=4"><img border="0" src="http://www.histats.com/images/temi_topbot/q_blue.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change color of your histats layout')" onmouseout="hideTip()"></a></td>
-									<td><a href="http://www.histats.com/terms.php?layoutC=5"><img border="0" src="http://www.histats.com/images/temi_topbot/q_dark.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change color of your histats layout')" onmouseout="hideTip()"></a></td>
-								</tr>
-							</tbody></table>
-						</td>
-						<td align="center">
-							<font class="txt_V_10_w">Histats.com © 2005-2008 • <a href="http://www.histats.com/terms.php" class="txt_V_10_w">Privacy Policy</a> • <a href="http://www.histats.com/terms.php" class="txt_V_10_w">Terms Of Use</a> - Powered By </font><a href="http://www.histats.com" class="txt_V_10_w"><b>Histats</b></a>
-								
-						</td>
-						<td width="100" align="center">
-						<!-- Histats.com  -->                                                                      
-							<script type="text/javascript" language="javascript">									
-								var zstpagid =4;var zstROI = 0;
-								var s_sid = 90;var st_dominio = 4;
-								var cimg = 511;var cwi =95;var che =18;
-								</script><script type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script>
-								<noscript><a href="http://www.histats.com" target="_blank">
-								<img  src="http://s4.histats.com/stats/0.gif?90&1" alt="web counter" border="0"></a>
-							</noscript>
-							<!-- Histats.com -> END  --> 					
-						
-						</td>
-					</tr>
-				</tbody></table>										
-			</td>
-		</tr>
-	</tbody></table>
-	<table border="0" width="100%" heigth="5" id="table1">
-	<tbody><tr>
-		<td></td>
-	</tr>
+                </tr>
+                <tr>
+                        <td background="http://www.histats.com/images/temi_topbot/bot_blue.gif" height="30" align="center">
+
+                                <table border="0" width="930" id="table36" cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                                <td width="100">
+                                                        <table border="1" id="table37" cellspacing="0" cellpadding="0" style="border-collapse: collapse" height="12" bordercolor="#F3F3F3" width="50">
+                                                                <tbody><tr>
+                                                                        <td><a href="http://www.histats.com/terms.php?layoutC=1"><img border="0" src="http://www.histats.com/images/temi_topbot/q_red.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change colour of your histats layout')" onmouseout="hideTip()"></a></td>
+                                                                        <td><a href="http://www.histats.com/terms.php?layoutC=2"><img border="0" src="http://www.histats.com/images/temi_topbot/q_orange.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change colour of your histats layout')" onmouseout="hideTip()"></a></td>
+                                                                        <td><a href="http://www.histats.com/terms.php?layoutC=3"><img border="0" src="http://www.histats.com/images/temi_topbot/q_green.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change colour of your histats layout')" onmouseout="hideTip()"></a></td>
+                                                                        <td><a href="http://www.histats.com/terms.php?layoutC=4"><img border="0" src="http://www.histats.com/images/temi_topbot/q_blue.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change colour of your histats layout')" onmouseout="hideTip()"></a></td>
+                                                                        <td><a href="http://www.histats.com/terms.php?layoutC=5"><img border="0" src="http://www.histats.com/images/temi_topbot/q_dark.jpg" width="10" height="10" onmouseover="doTooltip_testo(event,'Change colour of your histats layout')" onmouseout="hideTip()"></a></td>
+                                                                </tr>
+                                                        </tbody></table>
+                                                </td>
+                                                <td align="center">
+                                                        <font class="txt_V_10_w">Histats.com © 2005-2008 • <a href="http://www.histats.com/terms.php" class="txt_V_10_w">Privacy Policy</a> • <a href="http://www.histats.com/terms.php" class="txt_V_10_w">Terms Of Use</a> - Powered By </font><a href="http://www.histats.com" class="txt_V_10_w"><b>Histats</b></a>
+
+                                                </td>
+                                                <td width="100" align="center">
+                                                <!-- Histats.com  -->
+                                                        <script type="text/javascript" language="javascript">
+                                                                var zstpagid =4;var zstROI = 0;
+                                                                var s_sid = 90;var st_dominio = 4;
+                                                                var cimg = 511;var cwi =95;var che =18;
+                                                                </script><script type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script>
+                                                                <noscript><a href="http://www.histats.com" target="_blank">
+                                                                <img  src="http://s4.histats.com/stats/0.gif?90&1" alt="web counter" border="0"></a>
+                                                        </noscript>
+                                                        <!-- Histats.com -> END  -->
+
+                                                </td>
+                                        </tr>
+                                </tbody></table>
+                        </td>
+                </tr>
+        </tbody></table>
+        <table border="0" width="100%" heigth="5" id="table1">
+        <tbody><tr>
+                <td></td>
+        </tr>
 </tbody></table>
 
 </div>
 <script>
 document.getElementById('loadingbar').style.display="none";
 </script>
+
 
 
 </body></html>
