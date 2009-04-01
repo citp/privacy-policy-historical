@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719102743id_/http%3A//www.supersimplemarketing.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401073634id_/http%3A//supersimplemarketing.com/%3Fpage_id%3D14) for the most accurate reproduction.*
 
-# Privacy Policy
-
-** **
+# Privacy Policy | Super Simple Marketing
 
 **PRIVACY POLICY**
 
 Last Updated: June 16, 2008
 
-SuperSimpleMarketing.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+SuperSimpleMarketing.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
 
 **How we gather information from users**
 
