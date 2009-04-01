@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080549id_/http%3A//www.ktools.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401071023id_/http%3A//www.ktools.net/privacy_policy.php) for the most accurate reproduction.*
 
 # PhotoStore - Photo Selling Website Software, Image Hosting Website Software, Stock Photo Site Software : About Us
 
