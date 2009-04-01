@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizac.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164828id_/http%3A//ebizac.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizac.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401050424id_/http%3A//www.ebizac.com/privacy.php) for the most accurate reproduction.*
 
 # ::Business Automation Center ::
 
