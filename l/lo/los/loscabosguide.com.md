@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loscabosguide.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913024753id_/http%3A//www.loscabosguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loscabosguide.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402012418id_/http%3A//www.loscabosguide.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Notice - www.loscabosguide.com
+# Privacy Policy Notice - www.loscabosguide.com - Tyson Promotions, Inc.
 
-This privacy notice discloses the privacy practices for www.loscabosguide.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy policy notice discloses the privacy practices for **www.loscabosguide.com**. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
 1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
@@ -22,6 +22,8 @@ We request information from you on our order form. To buy from us, you must prov
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here - http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).  
+  
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
 From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
@@ -45,6 +47,6 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone 858-569-0172 or by email at** **[info@loscabosguide.com](mailto:info@loscabosguide.com)** **.**  
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 858-569-0172 or by email at** **[info@loscabosguide.com](mailto:info@loscabosguide.com)** **.**  
   
-Cabo San Lucas, Baja California Sur, Mexico - Last Revision - January 04, 2008 - MKS
+Cabo San Lucas, Baja California Sur, Mexico - Last Revision - 13 March 2009 - jat
