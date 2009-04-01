@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074701id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401210457id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -26,11 +26,11 @@ Save the seals
   
 Latest Comments   
 ---  
-[Batman Begins](https://web.archive.org/Movie%20Scripts/Batman%20Begins%20Script.html)| 10/10  
-[Gladiator](https://web.archive.org/Movie%20Scripts/Gladiator%20Script.html)| 8/10  
-[Catwoman](https://web.archive.org/Movie%20Scripts/Catwoman%20Script.html)| 10/10  
-[Pearl Harbor](https://web.archive.org/Movie%20Scripts/Pearl%20Harbor%20Script.html)| 1/10  
-[Clerks](https://web.archive.org/Movie%20Scripts/Clerks%20Script.html)| 10/10  
+[Curious Case of Benjamin Button, The](https://web.archive.org/Movie%20Scripts/Curious%20Case%20of%20Benjamin%20Button,%20The%20Script.html)| 8/10  
+[Dark Knight, The](https://web.archive.org/Movie%20Scripts/Dark%20Knight,%20The%20Script.html)| 9/10  
+[Little Mermaid, The](https://web.archive.org/Movie%20Scripts/Little%20Mermaid,%20The%20Script.html)| 10/10  
+[Forrest Gump](https://web.archive.org/Movie%20Scripts/Forrest%20Gump%20Script.html)| 10/10  
+[Dune](https://web.archive.org/Movie%20Scripts/Dune%20Script.html)| 9/10  
   
 Other sites   
 ---  
