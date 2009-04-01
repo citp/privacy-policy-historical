@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareit.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404141427id_/http%3A//www.shareit.com/privacy_statement.html%3Fsessionid%3D874206869%26random%3D0ffe8b28451e43abea40739dba1c1781) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareit.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401073608id_/http%3A//www.shareit.com/privacy_statement.html%3Fsessionid%3D1192599475%26random%3D6b40cce8f60885efca30665ed16cdb92) for the most accurate reproduction.*
 
 # share*it! - a service of digital river
 
@@ -77,8 +77,8 @@ Your payment information will be treated as strictly confidential and will not b
 
 **7\. Information about Stored Data**
 
-Of course, you can always correct possible data entry errors during the order process as often as necessary before submitting your order. You can view order data you have entered at any time by going to the My Account area. Please click [here](https://ccc.shareit.com/ccc/my_account.html?sessionid=875437245&random=67ee1cf52a5be5715a3d62b4c3045d5b).   
-Currently, outdated information can only be updated by our service team. Please click [here](http://ccc.shareit.com/ccc/customer_service.html?cccid=\[DASID_3905\]&sessionid=875437245&random=67ee1cf52a5be5715a3d62b4c3045d5b) to contact us.
+Of course, you can always correct possible data entry errors during the order process as often as necessary before submitting your order. You can view order data you have entered at any time by going to the My Account area. Please click [here](https://ccc.shareit.com/ccc/my_account.html?sessionid=1193438230&random=d5dec7471fabd8f88db62a8ffd17a8d2).   
+Currently, outdated information can only be updated by our service team. Please click [here](http://ccc.shareit.com/ccc/customer_service.html?cccid=\[DASID_3905\]&sessionid=1193438230&random=d5dec7471fabd8f88db62a8ffd17a8d2) to contact us.
 
 **8\. Privacy regulation changes**
 
