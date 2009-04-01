@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620035940id_/http%3A//www.petplace.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401090238id_/http%3A//www.petplace.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # PetPlace.com - Privacy Policy
 
