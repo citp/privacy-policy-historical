@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thebleeder.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911132445id_/http%3A//www.thebleeder.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleeder.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401143957id_/http%3A//www.thebleeder.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Ebooks Downloads
+# Privacy Policy
 
 * * *
 
-Privacy Policy Updated July 24, 2007
+Privacy Policy Updated July 24, 2008
 
 We recognize that privacy (especially _your privacy_ ) is important. By creating and adhering to this Policy, we hope to protect your personal information, and ensure your visits to our site are safe and enjoyable.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20080911132445id_/http%3A//www.thebleeder.com/contactus.htm) through postal mail, telephone, and/or email to admin(at)zunehomes.com.  
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20090401143957id_/http%3A//www.thebleeder.com/contactus.htm) through postal mail, telephone, and/or email to admin(at)zunehomes.com.  
 
 
 ## Information we collect, and how we use it
@@ -26,5 +26,3 @@ When you buy, you will be taken to a page on the Product site which provides you
 Like most websites, we usually send cookies to your browser when you visit our site. A cookie is simply a small file that identifies your browser. We use the cookies to track overall trends so that we can improve the user experience of customers who browse to our site. Cookies are entirely optional, and if you disable cookies on your Internet browser, you should still be able to browse our sites with no problem. 
 
 When you write to our support email address, we may store the email you sent us so that we'll have it in our records. Certain emails praising us may be used as testimonials for our marketing, provided you do not object. 
-
-(c) Copyright 2007
