@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharingaccess.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011950id_/http%3A//www.sharingaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharingaccess.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401205902id_/http%3A//www.sharingaccess.com/privacy.php) for the most accurate reproduction.*
 
 # Sharingaccess.com
 
@@ -11,6 +11,6 @@ All information is stored in case we need to contact the subscriber for any reas
 **Our Commitment To Data Security**   
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All information is stored in a secure database.   
   
-Copyright © 2008 [Sharingaccess.com](http://www.sharingaccess.com/). All rights reserved. 
+Copyright © 2009 [Sharingaccess.com](http://www.sharingaccess.com/). All rights reserved. 
 
 Before purchase, you must read and agree to our [Terms of Service](http://www.sharingaccess.com/tos.php). The purchase of a membership, however, is not a license to upload or download copyrighted material. We urge you to respect copyright laws and share responsibly. You will find detailed instructions on how to stay legal within the member's area. Uploading or downloading of copyrighted material without the permission or authorization of the copyright holders may be illegal and could be subject to civil and/or criminal liability and penalties. [Click here for more information](http://www.sharingaccess.com/copyright.php). 
