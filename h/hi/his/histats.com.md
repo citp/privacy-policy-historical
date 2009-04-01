@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222050939id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401081651id_/http%3A//www.histats.com/terms.php) for the most accurate reproduction.*
 
 # Histats.com
 
