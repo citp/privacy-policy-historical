@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925212943id_/http%3A//www.govbenefits.gov/govbenefits_en.portal%3F_nfpb%3Dtrue%26_pageLabel%3Dgbcc_page_disclosures%26_nfls%3Dfalse%26disclosure%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401170258id_/http%3A//www.govbenefits.gov/govbenefits_en.portal%3Bjsessionid%3DL2JtJTcVh5DSCZvDGrgvpklvldftnPygPJNfL9DkCBjBdkfnvsMh%21-1442165154%3F_nfpb%3Dtrue%26_pageLabel%3Dgbcc_page_disclosures%26_nfls%3Dfalse) for the most accurate reproduction.*
 
-# GovBenefits.gov - Your Benefits Connection
+# GovBenefits.gov - Privacy & Terms of Use
 
-Thank you for visiting this site and reviewing our privacy and security statement. We are strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, we make every effort to ensure compliance with applicable Federal law, including, but not limited to, the Privacy Act of 1974, the Paperwork Reduction Act of 1995, and the Freedom of Information Act.
+**Privacy and Terms of Use Statement**
+
+| 
+
+Thank you for visiting this site and reviewing our privacy and terms of use statement. We are strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, we make every effort to ensure compliance with applicable Federal law, including, but not limited to, the Privacy Act of 1974, the Paperwork Reduction Act of 1995, and the Freedom of Information Act.
 
 We do not collect or store personal, identifying information about you when you visit our site. The information we receive depends upon what you do when visiting our site.
 
@@ -19,7 +23,7 @@ The above information is used by software programs on our website to create summ
 
 **If you identify yourself by sending an e-mail containing personal information:**
 
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your e-mail to other Government employees who are better able to respond to you; however, GovBenefits will not share any of your personal information with any other organization or individual. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/ExternalLinkPageFlow/ExternalLinkPageFlowController.jpf?url=http://www.dol.gov/dol/foia/main.htm "Link to file a request under the Freedom of Information Act at DOL"). 
+You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your e-mail to other Government employees who are better able to respond to you; however, GovBenefits will not share any of your personal information with any other organization or individual. Should you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/ExternalLinkPageFlow/ExternalLinkPageFlowController.jpf?url=http://www.dol.gov/dol/foia/main.htm "Link to file a request under the Freedom of Information Act at DOL").
 
 Finally, the Privacy Act of 1974, as amended (5 U.S.C. 552a), requires us to notify you that the Privacy Act protects the information you are providing to us. The Privacy Act also requires we notify you that, in rare instances, we may have to disclose this registration information to the Department of Justice or a court in connection with Federal litigation.
 
