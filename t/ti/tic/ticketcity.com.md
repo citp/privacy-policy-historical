@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140605id_/http%3A//www.ticketcity.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401152256id_/http%3A//www.ticketcity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TicketCity Privacy Policy
 
