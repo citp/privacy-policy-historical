@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065830id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401162921id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Campusfood.com - The #1 source for online food ordering at college campuses - Privacy Policy
 
