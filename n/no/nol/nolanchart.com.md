@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928100347id_/http%3A//www.nolanchart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401172948id_/http%3A//www.nolanchart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
