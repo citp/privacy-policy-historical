@@ -1,16 +1,84 @@
-> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906170253id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403004630id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Indulgent Triple Dark Chocolate Petit Fours](https://web.archive.org/products/indulgent-triple-chocolate-brownies-and-petit-fours/ "Indulgent Triple Dark Chocolate Petit Fours") \- Creek House popular brownie-like petit fours, made with 3 types of chocolate: Bittersweet, Semisweet, and Unsweetened Cocoa. Premium semisweet chocolate chips are added for texture , and the petit fours are covered with a wonderful ...
+Shop By Season
 
-[Mr Handyman's Toolbox Of Treats Gift Basket](https://web.archive.org/products/mr-handymans-toolbox-of-treats-gift-basket/ "Mr Handyman\\'s Toolbox Of Treats Gift Basket") \- Celebrate the man that can DO EVERYTHING! We fill this paperboard tool box gift tote to overflowing with gourmet goodies and treats to satisfy all his crunchy cravings. Featuring Savory Beef Salami, Camembert Cheese, Chocolate ...
+  * [Easter Gifts](https://web.archive.org/seasons/easter/ "Easter Gifts"),
+  * [Mother's Day Gifts](https://web.archive.org/seasons/mothers-day-gifts/ "Mother\\'s Day Gifts")
 
-[48 Piece Bite Size Cheesecake Assortment](https://web.archive.org/products/48-piece-bite-size-cheesecake-assortment/ "48 Piece Bite Size Cheesecake Assortment") \- Our very popular bite size cheesecakes are exquisitely packed and presented in two gold foil candy/truffle boxes (24 per box) with gold ribbon and shipped with a personalized gift message. Four each of six different flavors: Chocolate ...
 
-[24 Piece Bite Size Cheesecake Assortment](https://web.archive.org/products/24-piece-bite-size-cheesecake-assortment/ "24 Piece Bite Size Cheesecake Assortment") \- Our very popular bite size cheesecakes are exquisitely packed and presented in a gold foil candy/truffle box with gold ribbon and shipped with a personalized gift message. Four each of six different flavors: Chocolate Chip, New ...
 
-[6 Pc Chocolate Mini Cheesecake Assortment](https://web.archive.org/products/6-pc-chocolate-mini-cheesecake-assortment/ "6 Pc Chocolate Mini Cheesecake Assortment") \- Perfect for a dinner party, or just to keep on hand for that special ending to any meal. Two each: Rocky Road, White Chocolate and Chocolate Topped New York Style. Keep frozen, they thaw quickly...Enjoy! Perfect for a dinner party, ...
+Shop By Price
+
+  * [Gifts On Sale](https://web.archive.org/gifts-on-sale/ "Gifts On Sale"),
+  * [Gifts Under $25](https://web.archive.org/gifts-under-25/ "Gifts Under $25"),
+  * [Gifts Under $50](https://web.archive.org/gifts-under-50/ "Gifts Under $50"),
+  * [Gifts Under $75](https://web.archive.org/gifts-under-75/ "Gifts Under $75"),
+  * [Gifts Under $100](https://web.archive.org/gifts-under-100/ "Gifts Under $100")
+
+
+
+Shop By Occasion
+
+  * [Birthday Gifts](https://web.archive.org/birthday-gifts/ "Birthday Gifts"),
+  * [Wedding Gifts](https://web.archive.org/wedding-gifts/ "Wedding Gifts"),
+  * [New Baby Gifts](https://web.archive.org/new-baby-gifts/ "New Baby Gifts"),
+  * [Get Well Gifts](https://web.archive.org/get-well-gifts/ "Get Well Gifts"),
+  * [Wedding Favors](https://web.archive.org/chocolate-wedding-favors/ "Chocolate Wedding Favors")
+
+
+
+Shop By Gift Type
+
+  * [Corporate Gifts](https://web.archive.org/corporate-gifts/ "Corporate Gifts"),
+  * [ Gift Boxes](https://web.archive.org/chocolate-gift-boxes/ " Gift Boxes"),
+  * [Chocolate Gift Baskets](https://web.archive.org/chocolate-gift-baskets/ "Chocolate Gift Baskets"),
+  * [Chocolate Gifts](https://web.archive.org/chocolate-gifts/ "Chocolate Gifts")
+
+
+
+Shop By Category
+
+  * [Chocolate Truffles](https://web.archive.org/chocolate-truffles/ "Chocolate Truffles"),
+  * [Milk Chocolate](https://web.archive.org/milk-chocolate/ "Milk Chocolate"),
+  * [Dark Chocolate](https://web.archive.org/dark-chocolate/ "Dark Chocolate"),
+  * [White Chocolate](https://web.archive.org/white-chocolates/ "White Chocolate"),
+  * [Gourmet Chocolate](https://web.archive.org/gourmet-chocolate/ "Gourmet Chocolate"),
+  * [Brownies](https://web.archive.org/brownies/ "Brownies"),
+  * [Cakes](https://web.archive.org/cakes/ "Cakes"),
+  * [Cookies](https://web.archive.org/cookies/ "Cookies"),
+  * [Fudge](https://web.archive.org/fudge/ "Fudge"),
+  * [Chocolate Candy](https://web.archive.org/chocolate-candy/ "Chocolate Candy"),
+  * [Chocolate Bars](https://web.archive.org/chocolate-bars/ "Chocolate Bars"),
+  * [Popcorn](https://web.archive.org/popcorn/ "Popcorn"),
+  * [Baking Chocolate](https://web.archive.org/baking-chocolate/ "Baking Chocolate")
+
+
+
+Shop By Ingredients
+
+  * [Sugar Free Chocolate](https://web.archive.org/sugar-free-chocolate/ "Sugar Free Chocolate"),
+  * [Kosher Chocolates ](https://web.archive.org/kosher-chocolates/ "Kosher Chocolates "),
+  * [Organic Chocolates](https://web.archive.org/organic-chocolates/ "Organic Chocolates"),
+  * [Fair Trade Chocolate](https://web.archive.org/fair-trade-chocolate/ "Fair Trade Chocolate")
+  * [Chocolate Covered Fruits](https://web.archive.org/fruits/ "Chocolate Covered Fruits"),
+
+
+
+Latest Products
+
+[SpringChoc](https://web.archive.org/products/springchoc/ "SpringChoc") \- This solid chocolate egg delivers an incredibly subtle kiss of refreshing essential oils and energizing, rich cacao. Let a spring breeze of Jasmine, Lemon Grass, and Lavender whisk away all your winter worries! This solid ...
+
+[Wine Chocolates From The Santa Cruz Mountains](https://web.archive.org/products/wine-chocolates-from-the-santa-cruz-mountains/ "Wine Chocolates From The Santa Cruz Mountains") \- SPECIAL! Our assortment of wine chocolates includes chocolates that we make for some of the finest wineries in the Santa Cruz Mountains Appellation in Callifornia. They include 2003 Merlot from Burrell School, 1997 Blanc de Blanc ...
+
+[Mothers Are Forever Large Gift Basket](https://web.archive.org/products/mothers-are-forever-large-gift-basket/ "Mothers Are Forever Large Gift Basket") \- Mothers ARE forever! Show Mom how much you care with this incredibly beautiful gift basket adorned in roses, all designed in honor of Mom. Available in Small, Medium, and Large (pictured) sizes. Mothers ARE forever! Show Mom ...
+
+[Heart Healthy Gourmet With Salmon Gift Basket](https://web.archive.org/products/heart-healthy-gourmet-with-salmon-gift-basket/ "Heart Healthy Gourmet With Salmon Gift Basket") \- A gift specially designed for that health-conscience person in your life - nothing bland here! Spoil someone special with these flavorful snacks and gourmet treats that are delicious and GOOD FOR YOU! (** Please note food items ...
+
+[Pink Be Happy Sugar Cookie Bags](https://web.archive.org/products/pink-be-happy-sugar-cookie-bags/ "Pink Be Happy Sugar Cookie Bags") \- Super cute cookies that are guaranteed to bring a smile to your face. Each ribboned cookie sleeve contains eight (8) 2.5" round vanilla iced sugar cookies. Priced just right! A Dozen Eggs cookies are hand made in Vermont. We specialize ...
+
+Latest Articles
 
 **Chocolate.com Privacy Statement**   
 By visiting Chocolate.com, you are accepting the practices described in this Privacy Statement. 
@@ -66,51 +134,4 @@ We stand behind the promises we make, however, and will never materially change 
 
 _Next Article:_   [Contact Us](https://web.archive.org/articles/contact-us.html "Contact Us")
 
-[All Chocolate Articles](https://web.archive.org/articles/) | [Christmas Chocolate](https://web.archive.org/seasons/christmas-gifts/ "christmas chocolate") | [Corporate Gifts](https://web.archive.org/corporate-gifts/ "corporate gifts")
-
-[](https://web.archive.org/products/assorted-mini-truffles-in-gold-gift-box-8-oz/)
-
-$ 13.00 
-
-  
-
-
-[](https://web.archive.org/products/dark-family-assortment-1-lb/)
-
-$ 24.50 
-
-  
-
-
-[](https://web.archive.org/products/large-gift-box-assortment/)
-
-$ 30.00 
-
-  
-
-
-[](https://web.archive.org/products/dark-chocolate-brownies/)
-
-$ 15.50 
-
-  
-
-
-[](https://web.archive.org/products/mackinac-fudge-gourmet-sampler/)
-
-$ 22.00 
-
-  
-
-
-[](https://web.archive.org/products/king-size-chocolate-lover-gift-basket/)
-
-$ 75.50 
-
-A 2005 study based at Tufts University in Medford, MA found that [dark chocolate](https://web.archive.org/dark-chocolate/ "dark chocolate") actually helps to lower blood pressure. In a controlled experiment comparing 20 different people, researchers found that dark chocolate was a significant factor in lowering blood pressure, while [white chocolate](https://web.archive.org/white-chocolates/ "white chocolate") was not. The key ingredient thought to cause this phenomenon is flavonoids. 
-
-Flavonoids, also found in wine are types of pigments that are water-soluble and created by plants of many varieties. There are thousands of different flavanoids. Plants use flavonoids in the process of photosynthesis. 
-
-How the human body actually uses and/or processes flavonoids is still not determined but they have been linked to good health in many areas - particularly blood circulation.
-
-If you are a science buff, then you'll be interested to know that flavonoids are polyphenolic compounds containing 15 carbon atoms, two benzene rings joined by a linear three carbon chain. If you're just an average, everyday person with a sweet tooth, then you'll be interested to know that good things are contained in a single bite of dark chocolate. So please, put down the chemistry book and enjoy some today! 
+[All Chocolate Articles](https://web.archive.org/articles/ "chocolate articles") | [Christmas Chocolate](https://web.archive.org/seasons/christmas-gifts/ "christmas chocolate") | [Corporate Gifts](https://web.archive.org/corporate-gifts/ "corporate gifts")
