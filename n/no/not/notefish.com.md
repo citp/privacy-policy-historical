@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notefish.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041042id_/http%3A//www.notefish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notefish.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402072726id_/http%3A//www.notefish.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Notefish
 
@@ -38,7 +38,7 @@ All information Notefish collects and processes is stored in the USA at equipmen
 Notefish will not share information about you with individuals or organizations except under the following circumstances: 
 
   * We have your permission
-  * We have reasonable belief that sharing information is necessary to satisfy a law, regulation, legal process or enforcible governmental request; to enforce [Terms of Use](https://web.archive.org/web/20081217041042id_/http%3A//www.notefish.com/terms.html); to protect against harm to Notefish, Notefish users, or the public as required or permitted by law. 
+  * We have reasonable belief that sharing information is necessary to satisfy a law, regulation, legal process or enforcible governmental request; to enforce [Terms of Use](https://web.archive.org/web/20090402072726id_/http%3A//www.notefish.com/terms.html); to protect against harm to Notefish, Notefish users, or the public as required or permitted by law. 
   * We may share the contents of your Notefish pages with advertisement provider companies to deliver targeted advertisement to you. We do not share your e-mail, your name, or any other information that could potentially identify you unless this information is a part of your Notefish page. We only partner with advertisement providers who claim their advertisement matching is completely automated and does not involve human personnel. 
   * We may share your visit information that may include a page name, a page URL, your IP address, visit time, browser type, browser language, browser version, browser plugin versions (such as Macromedia Flash version), OS type, OS version, internet connection speed, screen resolution with 3rd party analysis tools such as Google Analytics to research web service usage patterns. We do not share your name or contents of your pages with such tools. 
 
