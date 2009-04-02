@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222060043id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402133559id_/http%3A//www1.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
 # Shopping.com - Find, Compare, and Buy Anything in Seconds
 
@@ -106,6 +106,6 @@ If you have any questions about this privacy policy or the practices of the Shop
 Shopping.com, Inc.  
 Attn: Customer Support/Privacy  
 8000 Marina Boulevard  
-Third Floor  
+Fifth Floor  
 Brisbane, CA 94005  
 U.S.A.
