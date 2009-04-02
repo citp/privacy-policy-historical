@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218025937id_/http%3A//www2.goldmansachs.com/global/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402124357id_/http%3A//www2.goldmansachs.com/global/privacy-and-security) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
 
@@ -120,14 +120,14 @@ Goldman Sachs (Asia) L.L.C.
   
 For the EEA:  | 
 
-Nola Brown  
+Kirsten Pullan  
 Goldman Sachs International  
 Peterborough Court, 133 Fleet Street  
 London EC4A 2BB   
   
 For Switzerland:  | 
 
-Claudia Spiess  
+Jillian MacNab  
 Goldman Sachs & Co. Bank  
 Münsterhof 4  
 Postfach 8022, Zurich  
@@ -147,7 +147,7 @@ If you require further information regarding our privacy policies and practices 
 
 J. Thomas Morina, Vice President  
 Goldman , Sachs & Co.  
-85 Broad Street, 11th Floor  
+One New York Plaza, 46th Floor  
 New York, New York 10004   
   
 ---|---  
