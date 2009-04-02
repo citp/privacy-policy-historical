@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015257id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402131952id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
 
 # AM Autoparts
 
