@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120647id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402060300id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,9 @@ You have the ability to accept or decline cookies by modifying your Web browser;
 
 **Advertisers**
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browsers settings section. We work with the ad companies: Google Adsense and Kontera. Please check their websites for respective privacy policies. 
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browsers settings section. We work with the ad companies: Google Adsense, Shopzilla and Infolinks. Please check their websites for respective privacy policies. 
+
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Children's Online Privacy Protection Act**
 
