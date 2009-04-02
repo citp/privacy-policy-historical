@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907131315id_/http%3A//www.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402131705id_/http%3A//wwwk.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Way2SMS - FREE SMS any where in India
 
