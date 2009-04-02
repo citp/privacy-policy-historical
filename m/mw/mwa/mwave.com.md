@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230211955id_/http%3A//www.mwave.com/mwave/pledge.hmx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402041627id_/http%3A//www.mwave.com/mwave/pledge.hmx%3F) for the most accurate reproduction.*
 
 # Mwave.com - Privacy / Security
 
