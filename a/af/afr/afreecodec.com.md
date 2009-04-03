@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025005id_/http%3A//www.afreecodec.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403160358id_/http%3A//www.afreecodec.com/privacypolicy) for the most accurate reproduction.*
 
 # afreeCodec - Privacy Policy
 
-**Revised: Feb 15th, 2007  
+**Revised: October 8th, 2008  
 Applies to afreeCodec.com **
 
 **Advertisements**  
@@ -38,4 +38,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please[ contact us](https://web.archive.org/contact/). 
+Should you have other questions or concerns about these privacy policies, please[ contact us](http://www.afreecodec.com/contact/). 
