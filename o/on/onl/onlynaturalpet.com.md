@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025250id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403200914id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet Store - Dogs Cats Holistic Supplies Products Food Treats Vitamins Medicine Supplements
 
@@ -67,7 +67,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Questions and Feedback**
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue, to [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com). You may also call us at toll-free at 888-937-6677, or outside the United States and Canada at 720-406-7475, or write us at Only Natural Pet Store, 1840 Commerce Street, Suite F, Boulder, CO, 80301.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue, to [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com). You may also call us at toll-free at 888-937-6677, or outside the United States and Canada at 720-406-7475, or write us at Only Natural Pet Store, 5541 Central Ave, Suite 201, Boulder, CO, 80301.
 
 **Online Policy Only**
 
