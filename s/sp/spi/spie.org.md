@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094510id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403200609id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
 
-# Privacy Policy: SPIE.org
+# Privacy Policy - SPIE - The Optics, Photonics, Fibers, and Lasers Resource.
 
 Collection of Personal InformationWhen you browse the SPIE Web site, you do so anonymously. We do not collect personal information-including your e-mail address. We do log your IP address (the Internet address of your computer) to tell us which parts of our Web site you visit and how long you spend there. We do not link your IP address to anything personally identifiable. We track what country you are accessing the Internet from, and what time and date you visited. Other information automatically provided to us is the type of computer and operating system you are using. Your browser supplies us with this information. We use this information from our server logs to learn more about our visitors as a group, not about you as an individual. The information helps us identify overall usage patterns and trends on the site.
 
