@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeqpod.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010233id_/http%3A//www.seeqpod.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeqpod.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403190802id_/http%3A//www.seeqpod.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SeeqPod Playable Search - Find. Discover. Watch. Listen. Share. | Privacy Policy
 
