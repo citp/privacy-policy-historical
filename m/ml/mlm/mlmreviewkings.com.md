@@ -1,8 +1,32 @@
-> *The following text is extracted and transformed from the mlmreviewkings.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508040839id_/http%3A//www.mlmreviewkings.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmreviewkings.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403083015id_/http%3A//www.mlmreviewkings.com/privacy-policy) for the most accurate reproduction.*
 
-# MLMreviewKings.com
+# Privacy Policy | MLMReviewKings
 
-**This Privacy Policy describes the terms of our commitment to your privacy.
+## [Privacy Policy](http://www.mlmreviewkings.com/privacy-policy/)
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jeff@mlmreviewkings.com.
+
+At www.mlmreviewkings.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mlmreviewkings.com and how it is used.
+
+Log Files
+
+Like many other Web sites, www.mlmreviewkings.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+Cookies and Web Beacons
+
+www.mlmreviewkings.com does not use cookies.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mlmreviewkings.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.mlmreviewkings.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.mlmreviewkings.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+
+This Privacy Policy describes the terms of our commitment to your privacy.
 
 PERSONS OR PARTIES COVERED This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised from this website is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
@@ -22,9 +46,9 @@ Acceptance of the terms of this Privacy Policy is a portion of the consideration
 
 This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
 
-**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'**
+**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM ‘REGISTRATION’**
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or ‘pop ups’ where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
 
 Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
@@ -34,7 +58,7 @@ Online ordering via SSL encrypted communication provided by shopping cart servic
 
 **VISITOR EMAIL INQUIRIES**
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to the general 'SUBMISSION' agreement of this policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to the general ‘SUBMISSION’ agreement of this policy. While your email address may or may not be used to solicit you, it is added to the website’s general solicitation database.
 
 **CUSTOMER EMAIL OR TESTIMONIALS**
 
@@ -44,7 +68,7 @@ Any communication which, in its sole discretion, the site deems to be a testimon
 
 **INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS**
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that 'cookies' will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
 **INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**
 
@@ -54,13 +78,13 @@ If you send a friend an email from this site or if you send the url or one of ou
 
 Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
+**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES’**
 
 Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
-"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you ‘logged in’, to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies’ and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
 **HOW INFORMATION MAY BE USED**
 
@@ -76,7 +100,7 @@ Visitors, subscribers, members, or customers who use any site provided bulletin 
 
 **SPAM**
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an ‘unsubscribe’ link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 **DATA SECURITY**
 
@@ -84,9 +108,11 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
-You may direct questions, comments or reports to:
+You may direct questions, comments or reports to:  
+  
+  
+**Jeff West - 434-546-1349[jeff@mlmreviewkings.com](mailto:jeff@mlmreviewkings.com)**  
 
-**Richard Dine - 605-221-6100[health@joinbrianandjeff.com](mailto:health@joinbrianandjeff.com)**
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
@@ -94,7 +120,10 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on: **October 24th, 2007**
+  
+  
+This Privacy Policy was last updated on: **October 24th, 2007**  
+
 
 **COPYRIGHT**
 
@@ -106,18 +135,22 @@ As part of the consideration that the Website requires of the Visitor to view, u
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. 
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will final and binding with limited rights of appeal. 
 
 The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the county, state and city declared in the contact information of the web owner unless otherwise here specified. 
-
-**San Diego County, San Diego or Vista California** In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the county, state and city declared in the contact information of the web owner unless otherwise here specified.  
+  
+  
+**San Diego County, San Diego or Vista California**  
+  
+In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller’s address.
 
 **APPLICABLE LAW**
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s). 
 
-**
+  
+
