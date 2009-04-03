@@ -1,0 +1,44 @@
+> *The following text is extracted and transformed from the verawang.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403082229id_/http%3A//www.verawangonweddings.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+
+# Vera Wang on Weddings - Privacy Policy
+
+  
+
+
+### 1\. Privacy
+
+Vera Wang Bridal House Ltd. and V.E.W., LTD. (collectively, “VEW”, “us”, “our” or “we”) recognize the importance of protecting the privacy of all consumers who visit the website [www.verawangonweddings.com](http://www.verawangonweddings.com/) (the “Site”). All “personal information” that you give to us will be protected and kept confidential among VEW and its affiliated companies in accordance with the provisions set forth in this Privacy Policy. When we use the term “personal information” we mean any information that can be used to identify or contact a specific individual, such as a name, address, telephone number or e-mail address. With your permission, we may collect certain types of personal information in order to communicate with you regarding VEW-related products, services, promotional events or contests. This policy applies only to information collected by VEW via this Site and does not extend to any other website, whether or not it is affiliated or linked to this Site or to VEW. VEW does not intend to collect any personal information from children under the age of 13 years old. If we learn that a child under the age of 13 has provided personally identifiable information to the Site, we will promptly remove such information from the Site’s files. If our practice changes, we will let you know by posting changes over the Site. Before any changes are made in how your personal information is used, we will give you an opportunity to opt-out. 
+
+  
+
+
+### 2\. Personal Information
+
+Identifiable personal information is collected when users voluntarily register with the Site or contact VEW via the Site in order to receive newsletters, new product launch information, special events information or to answer surveys, enter contests and receive notices of other promotional opportunities. VEW may also use the information you provide to create a personal customer profile in order to let you know of products, services or events that may be of special interest to you. Subject to the following paragraph, VEW will neither disclose nor sell any information about you to a party unaffiliated or unrelated to VEW except (i) to comply with applicable laws, regulations, subpoenas or court orders or otherwise respond to government inquiries, (ii) protect the rights or property of VEW or its affiliated or related entities or (iii) if VEW reasonably believes that you have used information from the Site in order to commit unlawful acts or acts that may endanger the health and/or safety of the public. VEW may appoint third party service providers to administer and/or operate certain functions or services relating to this Site or VEW’s operations and businesses, the proper performance of which may require a transfer of the information submitted by you. Any such transfer shall be under strict confidentiality and security obligations and for the sole purpose of the performance of those obligations. If you sign up to receive information from VEW but later decide that you no longer want to receive such, you may contact VEW at any time to cancel any option. 
+
+  
+
+
+### 3\. Unsolicited Materials
+
+Through the Site, VEW requests that you provide certain types of information so that VEW may better serve you. The requested information may include questions and comments about VEW products, services or events. Please do not provide VEW with materials, including but not limited to business, advertising, creative, marketing or any other types of proposals, concepts, know-how, ideas and the like (“Unsolicited Materials”). All Unsolicited Materials that we receive will not be subject to this Privacy Policy. By submitting any Unsolicited Materials, you agree that VEW shall have the sole discretion as to how to utilize such Unsolicited Materials and you automatically provide to VEW a perpetual, royalty free license to use and exploit the Unsolicited Materials in any manner in its sole discretion. If any Unsolicited Materials that you provide to VEW are protected by third party copyright, trademark or other proprietary rights, you agree to indemnify VEW against any claims or actions brought against VEW relating to VEW’s use or possession of the Unsolicited Materials. VEW shall have no obligation to return any Unsolicited Materials received by VEW. 
+
+  
+
+
+### 4\. Use of Cookies
+
+Cookies are pieces of information that any website may transfer to your browser that are then stored in your computer system. Cookies are returned to the website that deposited them when a visitor returns to that site. The deposit of cookies by the Site will allow VEW to save your preferences for your next visit. VEW’s cookies may also measure the general activity on the Site, which allows us to determine which areas and features are most popular. This information allows VEW to make improvements to our Site. Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. 
+
+  
+
+
+### 5\. Security
+
+Protecting your information is of primary concern to VEW. VEW stores the information that it collects on a secure server. Notwithstanding the foregoing, no transmission of information over the Internet is guaranteed to be completely secure. It is possible that third parties not under the control of VEW may be able to access or intercept transmissions unlawfully. While VEW will use all reasonable attempts to keep your information secure, we cannot absolutely guarantee that security. Thus, any information that you transmit to us is at your own risk. 
+
+### 6\. Information Removal
+
+If you prefer not to receive all, some or any part of the information that the Site may provide to you, let us know by accessing your personal profile and changing the options of the information that you wish to receive. Or, you may choose to unsubscribe completely by sending an email to unsubscribe@verawangonweddings.com. Please make sure to include your name, e-mail address and any message. Please note that any requests may take up to six to eight weeks to become effective. VEW may still contact you to send you important information regarding the operation or administration of your personal profile. For additional information regarding VEW’s policies regarding this Site please see “Terms and Conditions of Use” below. 
+
+© V.E.W., LTD., 2003-2008 All Rights Reserved. 
