@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the onlynaturalpet.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220025250id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlynaturalpet.com privacy policy that was archived on 2009-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090403200914id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>
 			Only Natural Pet Store - Dogs Cats Holistic Supplies Products Food Treats Vitamins Medicine Supplements
 		</title>
 	</head>
-	<body>
-		
+	<body onload="pageLoad();">
+		<script language="JavaScript">var win=window.open('/newsletterpop.aspx', '','toolbar=0,scrollbars=0,statusbar=0,menubar=0,width=750,height=600');win.blur();</script>
 		<style type="text/css">
  @import url( /styles/base.css ); @import url( /styles/index.css ); @import url( /styles/topmenu.css ); 
 </style>
@@ -19,7 +19,7 @@
 		<form name="Form1" method="post" action="privacypolicy.aspx" id="Form1">
 <input type="hidden" name="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" value="dDw1OTE1MzQ3MTY7dDw7bDxpPDA+Oz47bDx0PDtsPGk8MT47aTw3Pjs+O2w8dDw7bDxpPDQ+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAgaXRlbXMgaW4gY2FydDs+Pjs+Ozs+Oz4+O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDA+Oz47bDx0PDtsPGk8Mj47PjtsPHQ8cDxwPGw8VGV4dDs+O2w8XDxzcGFuIHN0eWxlPSdmb250LXdlaWdodDpib2xkXDsnXD5cPGZvbnQgY29sb3I9J2NjMzMwMCdcPllvdSBhcmUgJDc1LjAwIGF3YXkgZnJvbSBmcmVlIHNoaXBwaW5nIVw8L2ZvbnRcPlw8L3NwYW5cPjs+Pjs+Ozs+Oz4+Oz4+Oz4+Oz4+Oz4+Oz5mJX2XFE7IGxCZ3dv4cJvLUjswow==">
+<input type="hidden" name="__VIEWSTATE" value="dDw1OTE1MzQ3MTY7dDw7bDxpPDA+Oz47bDx0PDtsPGk8MT47aTw3Pjs+O2w8dDw7bDxpPDQ+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAgaXRlbXMgaW4gY2FydDs+Pjs+Ozs+Oz4+O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDA+Oz47bDx0PDtsPGk8Mj47aTw0Pjs+O2w8dDxwPHA8bDxUZXh0Oz47bDxcPHNwYW4gc3R5bGU9J2ZvbnQtd2VpZ2h0OmJvbGRcOydcPlw8Zm9udCBjb2xvcj0nY2MzMzAwJ1w+JDQ5LjAwIC0gT25seSBOYXR1cmFsIFBldFw8L2ZvbnRcPlw8L3NwYW5cPjs+Pjs+Ozs+O3Q8O2w8aTwxPjs+O2w8dDxwPHA8bDxUZXh0Oz47bDxcPHNwYW4gc3R5bGU9J2ZvbnQtd2VpZ2h0OmJvbGRcOydcPlw8Zm9udCBjb2xvcj0nY2MzMzAwJ1w+JDk5LjAwIC0gQWxsIE90aGVyIEJyYW5kc1w8L2ZvbnRcPlw8L3NwYW5cPjs+Pjs+Ozs+Oz4+Oz4+Oz4+Oz4+Oz4+Oz4+Oz6VBTTqGVozl60fg0HsZlwuAeb8Kg==">
 
 <script language="javascript" type="text/javascript">
 <!--
@@ -41,7 +41,47 @@
 			<div id="website">
 				<!--Top Nav-->
 <script type="text/javascript"> 
+		function get_cookie(cookie_name) {
+            var results = document.cookie.match('(^|;) ?' + cookie_name + '=([^;]*)(;|$)');
+            if (results)
+                return (unescape(results[2]));
+            else
+                return "";
+        }
 
+        function set_cookie(name, value, exp_y, exp_m, exp_d, path, domain) {
+            var cookie_string = name + "=" + escape(value);
+
+            if (exp_y) {
+                var expires = new Date(exp_y, exp_m, exp_d);
+                cookie_string += "; expires=" + expires.toGMTString();
+            }
+
+            if (path)
+                cookie_string += "; path=" + escape(path);
+
+            if (domain)
+                cookie_string += "; domain=" + escape(domain);
+
+            document.cookie = cookie_string;
+        }
+
+
+        function pageLoad() {
+
+            if (get_cookie('ddnSearchFilter') != "") {
+				try
+				{
+
+					document.getElementById('ddnSearchFilter').value = get_cookie('ddnSearchFilter');
+				}
+					catch(err)
+				{
+				//Handle errors here
+				}
+           }
+        }
+        
 function stopRKey(evt) { 
   var evt = (evt) ? evt : ((event) ? event : null); 
   var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null); 
@@ -60,10 +100,21 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
 }
 
 
-function search()
-{
-	window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value + '&mf=0';
-}
+        function search() {
+            var dropdownValue = document.getElementById('ddnSearchFilter').value;
+            if (dropdownValue == "Cats") {
+                set_cookie("ddnSearchFilter", "Cats", 2050, 01, 15, "", ".onlynaturalpet.com");
+                window.location.href = 'http://search.onlynaturalpet.com/search.aspx?avs|Pet+Type=Cats&searchterms=' + document.getElementById('searchterms').value.replace(" &","").replace("&","").replace(" ","+");
+            }
+            if (dropdownValue == "Dogs") {
+                set_cookie("ddnSearchFilter", "Dogs", 2050, 01, 15, "", ".onlynaturalpet.com");
+                window.location.href = 'http://search.onlynaturalpet.com/search.aspx?avs|Pet+Type=Dogs&searchterms=' + document.getElementById('searchterms').value.replace(" &","").replace("&","").replace(" ","+");
+            }
+            if ((dropdownValue == "Both") || (dropdownValue == "Select")) {
+                set_cookie("ddnSearchFilter", document.getElementById('ddnSearchFilter').value, 2050, 01, 15, "", ".onlynaturalpet.com");
+                window.location.href = 'http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.getElementById('searchterms').value.replace(" &","").replace("&","").replace(" ","+");
+            }
+        }
 
 function fnTrapKD2(event){
 
@@ -72,7 +123,7 @@ function fnTrapKD2(event){
    event.returnValue=false;
    event.cancel = true;
    //search();
-   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value  + '&mf=0';
+   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value;
   }
  }
  else if (document.getElementById){
@@ -80,7 +131,7 @@ function fnTrapKD2(event){
    event.returnValue=false;
    event.cancel = true;
    //search();
-   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value  + '&mf=0';
+   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value;
   }
  }
  else if(document.layers){
@@ -88,7 +139,7 @@ function fnTrapKD2(event){
    event.returnValue=false;
    event.cancel = true;
    //search();
-   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value  + '&mf=0';
+   window.location.href='http://search.onlynaturalpet.com/search.aspx?searchterms=' + document.forms[0].searchterms.value;
   }
  }
 
@@ -99,12 +150,18 @@ function fnTrapKD2(event){
 		<div id="topLeft"><a href="/default.aspx"><img height="96" alt="Only Natural Pet Store logo" src="/images/only_natural_logo.gif" width="140" border="0"></a></div>
 		<div id="topMiddle">
 			<h1 id="weOffer"><i>Natural products, holistic remedies, organic food, and more for 
-					your dog and cat!</i> <a href="javascript:popUp('http://www.onlynaturalpet.com/content/freeshippingpop.htm')" style="text-decoration:none;"><font color="#F0D34A" style="font-family: Arial, Helvetica, sans-serif;padding-left:10px;font-size:11px;text-decoration:none;">
-						Free shipping on orders over $75.00!</font></a></h1>
+					your dog and cat!</i> <a href="javascript:popUp('http://www.onlynaturalpet.com/content/freeshippingpop.htm')" style="text-decoration:none;"><font color="#F0D34A" style="font-family: Arial, Helvetica, sans-serif;padding-left:10px;font-size:11px;text-decoration:underline;">
+						Free Shipping Available! Click Here!</font></a></h1>
 			<div id="searchBar">
 				<div id="frmSearch">
-					<span style="margin-top: 4px; display: inline; font-size: 12px ">SEARCH</span> <input type="text" name="searchterms" id="searchterms" onkeydown="javascript:fnTrapKD2(event);">
-					<a href="javascript:search()"><img id="imgsearch" src="/images/findbutton4.gif" border="0"></a>
+					<span>SEARCH</span> <input type="text" name="searchterms" id="searchterms" onkeydown="javascript:fnTrapKD2(event);">
+					<div id="drpSearchDiv"><span>IN &nbsp;</span><select id="ddnSearchFilter" name="ddnSearchFilter" class="drpSearchIn">
+							<option value="Select">Select</option>
+							<option value="Cats">Cats</option>
+							<option value="Dogs">Dogs</option>
+							<option value="Both">Both</option>
+						</select>
+						<a href="javascript:search()"><img id="imgsearch" src="/images/findbutton4.gif" border="0"></a></div>
 				</div>
 				<span id="accountEtc"><span class="sbText" id="sbMyAccount">
 						<a id="C_header1_lnkAccount" href="/account/default.aspx">MY ACCOUNT</a></span>
@@ -118,42 +175,42 @@ function fnTrapKD2(event){
 			<div id="menu">
 				<ul id="menuList">
 					<li id="nav1">
-						<a title="Vitamins" href="http://search.onlynaturalpet.com/search.aspx?searchterms=vitamins">
+						<a title="Vitamins" href="http://search.onlynaturalpet.com/search.aspx?st=natural-pet-supplements-daily-vitamins-dog-cat-feline-canine&amp;avs|Department=Supplements&amp;avs|Supplement+Type=Daily+%26+Multi-Vitamins">
 							<span>Vitamins</span></a>
 					</li><li id="nav2">
-						<a title="Supplements" href="http://search.onlynaturalpet.com/search.aspx?searchterms=supplements">
+						<a title="Supplements" href="http://search.onlynaturalpet.com/search.aspx?st=natural-pet-supplements-dog-cat-feline-canine&amp;avs|Department=Supplements">
 							Supplements</a>
 					</li><li id="nav3">
-						<a title="Natural Food" href="http://search.onlynaturalpet.com/search.aspx?searchterms=food">
+						<a title="Natural Food" href="http://search.onlynaturalpet.com/search.aspx?st=natural-holistic-premium-healthy-pet-food-dog-cat-feline-canine&amp;avs|Department=Food">
 							Natural Food</a>
 					</li><li id="nav4">
-						<a title="Treats" href="http://search.onlynaturalpet.com/search.aspx?searchterms=treats">
+						<a title="Treats" href="http://search.onlynaturalpet.com/search.aspx?st=natural-pet-treats-dog-cat-feline-canine&amp;avs|Department=Treats+%2f+Chews">
 							Treats</a>
 					</li><li id="nav5">
-						<a title="Chews and Bones" href="http://search.onlynaturalpet.com/search.aspx?searchterms=chews-bones">
+						<a title="Chews and Bones" href="http://search.onlynaturalpet.com/search.aspx?st=natural-holistic-healthy-pet-chew-bones&amp;avs|Treat+Type=Chews">
 							Chews &amp; Bones</a>
 					</li><li id="nav6">
-						<a title="Holistic Remedies" href="http://search.onlynaturalpet.com/search.aspx?searchterms=holistic-remedy">
+						<a title="Holistic Remedies" href="http://search.onlynaturalpet.com/search.aspx?st=natural-dog-cat-feline-canine-holistic-care-remedies&amp;avs|Department=Holistic+Care">
 							Holistic Remedies</a>
 					</li><li id="nav7">
 						<a title="Daily Special" href="http://www.onlynaturalpet.com/product_highlights.aspx">
 							Daily Special</a>
 					</li><li id="nav8">
-						<a title="Grooming" href="http://search.onlynaturalpet.com/search.aspx?searchterms=grooming-hygiene">
+						<a title="Grooming" href="http://search.onlynaturalpet.com/search.aspx?st=natural-pet-grooming-cat-dog-feline-canine&amp;avs|Department=Grooming+%2f+Hygiene">
 							Grooming</a>
 					</li><li id="nav9">
-						<a title="Flea and Tick" href="http://search.onlynaturalpet.com/search.aspx?searchterms=flea-tick-control">
+						<a title="Flea and Tick" href="http://search.onlynaturalpet.com/search.aspx?st=natural-flea-tick-control-dog-cat-feline-canine&amp;avs|Department=Flea+%2f+Tick+Control">
 							Flea &amp; Tick</a>
 					</li><li id="nav10">
-						<a title="Toys" href="http://search.onlynaturalpet.com/search.aspx?searchterms=toys">
+						<a title="Toys" href="http://search.onlynaturalpet.com/search.aspx?st=natural-eco-pet-toys-dog-cat-feline-canine&amp;avs|Department=Toys+%2f+Entertainment">
 							Toys</a>
 					</li>
 					<li id="nav11">
-						<a title="Beds" href="http://search.onlynaturalpet.com/search.aspx?searchterms=beds">
+						<a title="Beds" href="http://search.onlynaturalpet.com/search.aspx?st=natural-pet-beds-dog-cat-feline-canine&amp;avs|Hard+Goods=Beds">
 							Beds</a>
 					</li>
 					<li id="nav12">
-						<a title="Collars and Leashes" href="http://search.onlynaturalpet.com/search.aspx?searchterms=collars-leashes">
+						<a title="Collars and Leashes" href="http://search.onlynaturalpet.com/search.aspx?st=natural-eco-pet-leashes-dog-cat-feline-canine&amp;avs|Hard+Goods=Leashes">
 							Collars &amp; Leashes</a>
 					</li>
 				</ul>
@@ -349,8 +406,8 @@ We welcome your questions, comments, and concerns about privacy. Please send us
 any and all feedback pertaining to privacy, or any other issue, to
 <a href="mailto:service@onlynaturalpet.com">service@onlynaturalpet.com</a>. You 
 may also call us at toll-free at 888-937-6677, or outside the United States and 
-Canada at 720-406-7475, or write us at Only Natural Pet Store, 1840 Commerce 
-Street, Suite F, Boulder, CO, 80301.<br>
+Canada at 720-406-7475, or write us at Only Natural Pet Store, 5541 Central Ave, 
+Suite 201, Boulder, CO, 80301.<br>
 <br>
 <strong>Online Policy Only</strong><br>
 <br>
@@ -384,27 +441,27 @@ By using our site, you consent to our privacy policy.</p></td>
 <table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
 	<table id="C_leftnav1_C_category_menu1_c_CategoryMenu_ms_CategoryMenu" cellpadding="0" border="0" class="" cellspacing="0">
 		<tbody><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=conditions">By Health Condition</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?">By Health Condition</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=vitamins-supplements">Vitamins &amp; Supplements</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Supplements">Vitamins &amp; Supplements</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=holistic-care">Holistic Care</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Holistic+Care">Holistic Care</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=food">Food</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Food">Food</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=treats">Treats</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Treats+%2f+Chews">Treats</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=flea-tick-control">Flea &amp; Tick Control</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Flea+%2f+Tick+Control">Flea &amp; Tick Control</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=grooming-hygiene">Grooming/Hygiene</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Grooming+%2f+Hygiene">Grooming/Hygiene</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=litter-and-cleanup-and-stain-and-odor">Clean Up &amp; Litter</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Cleaning+%2f+Odor+Removal">Clean Up &amp; Litter</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=toys-gifts">Toys &amp; Gifts</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Toys+%2f+Entertainment">Toys &amp; Gifts</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=hard-goods">Hard Goods, Etc.</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?avs|Department=Hard+Goods">Hard Goods, Etc.</a></td>
 		</tr><tr>
-			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?searchterms=by-brand">By Brand</a></td>
+			<td title="" align="left" class="MenuItem"><a href="http://search.onlynaturalpet.com/search.aspx?">By Brand</a></td>
 		</tr>
 	</tbody></table>
 </td></tr></tbody></table>
@@ -446,6 +503,9 @@ By using our site, you consent to our privacy policy.</p></td>
 				<p><a href="http://www.bbbonline.org/cks.asp?id=1051121174315" target="new"><img src="//www.onlynaturalpet.com/images/BBB_Logo.jpg" border="0" alt="Better Business Bureau Online Reliability Program Member"></a></p>
 			</div>
 			<div>
+				<p><a href="http://www.facebook.com/home.php?#/pages/Boulder-CO/Only-Natural-Pet-Store/61292395830" target="new"><img src="//www.onlynaturalpet.com/images/seeuson_facebook2.gif" border="0" alt="See Us On Facebook"></a></p>
+			</div>
+			<div>
 				<p><script src="https://seal.verisign.com/getseal?host_name=www.onlynaturalpet.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></p>
 			</div>
 			<div>
@@ -465,44 +525,52 @@ By using our site, you consent to our privacy policy.</p></td>
 	<!-- Top Seller -->
 	<span id="C_rightnav1__ctl0_lblHeader"><h3 class="toph3">FREE SHIPPING</h3></span>
 <div class="rightGrouping">
-	<span style="padding-left:10px;"><br><span id="C_rightnav1__ctl0_lblMessage"><span style="font-weight:bold;"><font color="cc3300">You are $75.00 away from free shipping!</font></span></span><br><a href="javascript:popUp('http://www.onlynaturalpet.com/content/freeshippingpop.htm')">What's This?</a></span><br><br>
+	<span style="FONT-WEIGHT:bold"><font color="#cc3300">Free Shipping Countdown:</font></span><br>
+	<br>
+	<span id="C_rightnav1__ctl0_lblMessage"><span style="font-weight:bold;"><font color="cc3300">$49.00 - Only Natural Pet</font></span></span><br>
+	<span id="C_rightnav1__ctl0_link2">
+		<span id="C_rightnav1__ctl0_lblMessage2"><span style="font-weight:bold;"><font color="cc3300">$99.00 - All Other Brands</font></span></span><br>
+		<a href="javascript:popUp('http://www.onlynaturalpet.com/content/freeshippingpop.htm')">
+			What's This?</a><br>
+	</span>
+	<br>
 </div>
 
 	<span id="C_rightnav1__ctl3_lblHeader"><h3>TOP SELLERS</h3></span>
 <div class="rightGrouping">
 	<div class="rightProduct">
 		<div class="rightPic">
-			<a id="C_rightnav1__ctl3_lnkImage" href="/products/Merrick-Gourmet-Canned-Dog-Food-Lunch-Box/134139.aspx"><img id="C_rightnav1__ctl3_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=1b8b9c69-9ff8-41f9-ae10-9b0bb941316e" alt="" border="0" height="50"></a>
+			<a id="C_rightnav1__ctl3_lnkImage" href="/products/PupLight-Dog-Collar-Safety-Light/181001.aspx"><img id="C_rightnav1__ctl3_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=a3b496ac-1f8a-477a-bdcd-074a759fa357" alt="" border="0" height="50"></a>
 		</div>
-		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl3_lnkProductName" href="/products/Merrick-Gourmet-Canned-Dog-Food-Lunch-Box/134139.aspx">Merrick Gourmet Canned Dog Food Lunch Box</a></h4>
-		<p><span id="C_rightnav1__ctl3_lblDescription"><a href="/products/Merrick-Gourmet-Canned-Dog-Food-Lunch-Box/134139.aspx">More Info...</a></span></p>
+		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl3_lnkProductName" href="/products/PupLight-Dog-Collar-Safety-Light/181001.aspx">PupLight Dog Collar Safety Light</a></h4>
+		<p><span id="C_rightnav1__ctl3_lblDescription"><a href="/products/PupLight-Dog-Collar-Safety-Light/181001.aspx">More Info...</a></span></p>
 	</div>
 	<table id="C_rightnav1__ctl3_dlTopSellers" cellspacing="0" border="0">
 	<tbody><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Pure-Icelandic-Salmon-Oil/999060.aspx">
-					Only Natural Pet Pure Icelandic Salmon Oil
+			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Super-Daily-Feline-Senior/999172.aspx">
+					Only Natural Pet Super Daily Feline Senior
 				</a>
 			</h4>
 		</td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Ifex-Snackfish-Dog-Treats/192001.aspx">
-					Ifex Snackfish Dog Treats
+			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-All-Meat-Bites-Treats/999321.aspx">
+					Only Natural Pet All Meat Bites Treats
 				</a>
 			</h4>
 		</td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Pure-Icelandic-Cod-Liver-Oil/999160.aspx">
-					Only Natural Pet Pure Icelandic Cod Liver Oil
+			<h4 class="blacklink"><a href="/products/Honest-Kitchen-Force-Dehydrated-Dog-Food/200022.aspx">
+					Honest Kitchen Force Dehydrated Dog Food
 				</a>
 			</h4>
 		</td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Halo-Spots-Stew-for-Dogs/115007.aspx">
-					Halo Spot's Stew for Dogs
+			<h4 class="blacklink"><a href="/products/Bach-Rescue-Remedy/238000.aspx">
+					Bach Rescue Remedy
 				</a>
 			</h4>
 		</td>
@@ -516,48 +584,48 @@ By using our site, you consent to our privacy policy.</p></td>
 <div class="rightGrouping">
 	<div class="rightProduct">
 			<div class="rightPic">
-				<a id="C_rightnav1__ctl2_lnkImage" href="/products/Jacks-Swimmin-Pup-Gift-Box/999807.aspx"><img id="C_rightnav1__ctl2_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=2d7d3657-f4be-42c4-a504-8148b219f78a" alt="" border="0" height="50"></a>
+				<a id="C_rightnav1__ctl2_lnkImage" href="/products/Simple-Medicinals-Hot-Spots-For-Pets/369005.aspx"><img id="C_rightnav1__ctl2_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=3f20fc45-600f-46fc-a7c4-137b2ac92f1c" alt="" border="0" height="50"></a>
 			</div>
-		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl2_lnkProductName" href="/products/Jacks-Swimmin-Pup-Gift-Box/999807.aspx">Jack's Swimmin' Pup Gift Box</a></h4>
-		<p><span id="C_rightnav1__ctl2_lblDescription"><a href="/products/Jacks-Swimmin-Pup-Gift-Box/999807.aspx">More Info...</a></span></p>
+		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl2_lnkProductName" href="/products/Simple-Medicinals-Hot-Spots-For-Pets/369005.aspx">Simple Medicinals Hot Spots For Pets</a></h4>
+		<p><span id="C_rightnav1__ctl2_lblDescription"><a href="/products/Simple-Medicinals-Hot-Spots-For-Pets/369005.aspx">More Info...</a></span></p>
 	</div>
 	<table id="C_rightnav1__ctl2_dlOnSale" cellspacing="0" border="0">
 	<tbody><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Fresh-Filets-Freeze-Dried-Meals/999325.aspx">
-					Only Natural Pet Fresh Filets Freeze-Dried Meals
+			<h4 class="blacklink"><a href="/products/Animal-Essentials-Fish-Oil-Plus-Gel-Caps/148023.aspx">
+					Animal Essentials Fish Oil Plus Gel Caps
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Redbarn-Premium-Dog-Food-Rolls/163027.aspx">
-					Redbarn Premium Dog Food Rolls
+			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Hot-Spot-Skin-Relief-Oil/999194.aspx">
+					Only Natural Pet Hot Spot Skin Relief Oil
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-Just-Relax-Flower-Essence/999201.aspx">
-					Only Natural Pet Just Relax Flower Essence
+			<h4 class="blacklink"><a href="/products/Natures-Variety-Prairie-Homestyle-Canned-Dog-Food/131280.aspx">
+					Nature's Variety Prairie Homestyle Canned Dog Food
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Natural-Balance-Vegetarian-Dog-Food-Allergy-Formula/158013.aspx">
-					Natural Balance Vegetarian Dog Food Allergy Formula
+			<h4 class="blacklink"><a href="/products/Dr-Pitcairns-Guide-to-Natural-Health-for-Dogs-Cats/220000.aspx">
+					Dr. Pitcairn's Guide to Natural Health for Dogs &amp; Cats
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Only-Natural-Pet-HealthTreats-Jerky-Bites/999300.aspx">
-					Only Natural Pet HealthTreats Jerky Bites
+			<h4 class="blacklink"><a href="/products/Simple-Medicinals-Bladder-Control-For-Pets/369004.aspx">
+					Simple Medicinals Bladder Control For Pets
 				</a>
 			</h4>
 		
@@ -571,40 +639,40 @@ By using our site, you consent to our privacy policy.</p></td>
 <div class="rightGrouping">
 	<div class="rightProduct">
 		<div class="rightPic">
-			<a id="C_rightnav1__ctl1_lnkImage" href="/products/PetAlive-Performance-Plus/230052.aspx"><img id="C_rightnav1__ctl1_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=b87be61e-1f8b-4463-b46f-c813952c3a49" alt="" border="0" height="50"></a>
+			<a id="C_rightnav1__ctl1_lnkImage" href="/products/Canine-Earth-Oatmeal-Aloe-Skin-Coat-Cleanser/386001.aspx"><img id="C_rightnav1__ctl1_imgProduct" src="mainstreet/get_image.aspx?domain=onlynaturalpet.com&amp;size=0&amp;item_guid=cf890c8f-5560-4bff-a3b8-8ead384eeb6d" alt="" border="0" height="50"></a>
 		</div>
-		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl1_lnkProductName" href="products/PetAlive-Performance-Plus/230052.aspx">PetAlive Performance Plus</a></h4>
-		<p><span id="C_rightnav1__ctl1_lblDescription"><a href="/products/PetAlive-Performance-Plus/230052.aspx">More Info...</a></span></p>
+		<h4 class="blacklink noTopBorder"><a id="C_rightnav1__ctl1_lnkProductName" href="products/Canine-Earth-Oatmeal-Aloe-Skin-Coat-Cleanser/386001.aspx">Canine Earth Oatmeal Aloe Skin &amp; Coat Cleanser</a></h4>
+		<p><span id="C_rightnav1__ctl1_lblDescription"><a href="/products/Canine-Earth-Oatmeal-Aloe-Skin-Coat-Cleanser/386001.aspx">More Info...</a></span></p>
 	</div>
 	<table id="C_rightnav1__ctl1_dlNewProducts" cellspacing="0" border="0">
 	<tbody><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/PetzLife-Oral-Care-Dental-Spray/365000.aspx">
-					PetzLife Oral Care Dental Spray
+			<h4 class="blacklink"><a href="/products/Deluxe-Tagalong-Pet-Bicycle-Basket/394002.aspx">
+					Deluxe Tagalong Pet Bicycle Basket
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Merrick-Turkey-Steak-Patties-Treats/134279.aspx">
-					Merrick Turkey Steak Patties Treats
+			<h4 class="blacklink"><a href="/products/HappyTails-Eyemunity/374001.aspx">
+					HappyTails Eyemunity
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Ruff-Wear-Barkn-Boots-Skyliner/221117.aspx">
-					Ruff Wear Bark'n Boots Skyliner
+			<h4 class="blacklink"><a href="/products/Tagalong-Wicker-Pet-Bicycle-Basket/394001.aspx">
+					Tagalong Wicker Pet Bicycle Basket
 				</a>
 			</h4>
 		
 </td>
 	</tr><tr>
 		<td>
-			<h4 class="blacklink"><a href="/products/Merrick-Beefy-Jerky-Bones/134028.aspx">
-					Merrick Beefy Jerky Bones
+			<h4 class="blacklink"><a href="/products/Vacimyr-by-Thorne-Research/110033.aspx">
+					Vacimyr by Thorne Research
 				</a>
 			</h4>
 		
@@ -679,7 +747,7 @@ alert(netscape);
 			<br>
 			<a href="http://www.onlynaturalpet.eu">Only Natural Pet Store Europe</a>
 			<br>
-			Copyright ©2008, Only Natural Pet Store LLC. All Rights Reserved
+			Copyright ©2009, Only Natural Pet Store LLC. All Rights Reserved
 		</div>
 	</div>
 	<div id="quickLinks">
@@ -839,8 +907,6 @@ alert(netscape);
 var CEHTTP = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript language=\"JavaScript1.1\" type=\"text/javascript\" src=\""+CEHTTP+"js.clickequations.net/CLEQ_9B3C5FB1.js\" %3E%3C/script%3E"));
 </script><script language="JavaScript1.1" type="text/javascript" src="https://js.clickequations.net/CLEQ_9B3C5FB1.js"></script>
-
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -850,6 +916,18 @@ var pageTracker = _gat._getTracker("UA-5887822-1");
 pageTracker._setDomainName(".onlynaturalpet.com");
 pageTracker._trackPageview();
 </script>
+<!-- Begin Monetate snippet, place before end of document body. -->
+<script>
+if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "a.monetate.net/js/1/a-345cb5ab/p/onlynaturalpet.com/" + Math.floor(new Date().getTime() / 3600000) + "'%3E%3C/script%3E")); }
+</script><script type="text/javascript" src="https://sa.monetate.net/js/1/a-345cb5ab/p/onlynaturalpet.com/439006"></script>
+<script>
+if (this.monetate) { monetate.a(); }
+</script>
+<!-- End Monetate snippet. -->
+
+
+
+
 		
 	
 
