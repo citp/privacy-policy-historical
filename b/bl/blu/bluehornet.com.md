@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144211id_/http%3A//www.bluehornet.com/site/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluehornet.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403054404id_/http%3A//www.bluehornet.com/site/company/privacy.htm) for the most accurate reproduction.*
 
 # BlueHornet Company Overview
 
