@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221234728id_/http%3A//www.crashonlinegames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403174523id_/http%3A//www.crashonlinegames.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Crash Online Games
+
+play game now at crash online games com. Our aim is to give you the best flash game and shockwave games to play. you can't find buy game online in here, all the game is free to play. Enjoy your entertainment hours to play free game. so don't forget to **Bookmark Us. ( CTRL + D )**
+
+  
+
 
 **Privacy Policy for CrashOnlineGames**
 
