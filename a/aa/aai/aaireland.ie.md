@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214507id_/http%3A//www.aaireland.ie/contact/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404040022id_/http%3A//www.aaireland.ie/contact/privacy.asp) for the most accurate reproduction.*
 
 # AA Ireland : Privacy Policy
 
@@ -8,7 +8,7 @@ Your Options
 | [Home](http://www.aaireland.ie/default.asp)  
 ---|---  
 | [AA Membership](http://www.aaireland.ie/membership/)  
-| [Members Area](http://www.aaireland.ie/memrenewal/)  
+| [Members Area](http://www.aaireland.ie/memrenewal/login.aspx)  
 | [Company Membership](http://www.aaireland.ie/company-membership/)  
 | [AA Car Insurance](http://www.aaireland.ie/car-insurance/)  
 | [AA Business   
@@ -16,8 +16,6 @@ Insurance](http://www.aaireland.ie/business/)
 | [AA Home   
 Insurance](http://www.aaireland.ie/home-insurance/)  
 | [AA Travel](http://www.aaireland.ie/travel-insurance/)  
-| [AA Health Insurance](http://www.aaireland.ie/health-insurance/)  
-| [AA Special Offers](http://www.aaireland.ie/specialoffers/)  
 | [AA Hotels &   
 Accommodation](http://www.aaireland.ie/hotels/)  
 | [AA Technical](http://www.aaireland.ie/technical/)  
@@ -38,7 +36,7 @@ More Information
 Site Options  
 |  Privacy Policy |   
 ---  
-[home](https://web.archive.org/web/20081218214507id_/http%3A//www.aaireland.ie/default.asp) » privacy policy  
+[home](https://web.archive.org/web/20090404040022id_/http%3A//www.aaireland.ie/default.asp) » privacy policy  
 AA Ireland Data Protection Privacy Policy  
 | 
 
