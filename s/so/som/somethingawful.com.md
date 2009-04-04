@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217012916id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404061243id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -62,17 +62,17 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  *   *   * [December 15, 2008](http://www.somethingawful.com/d/forum-fridays/ff12-15-08.php "December 15, 2008")  
-**Forum Friday's Monday**
-
-Some of the best threads of the week from the SA Forums.
-
-
-
-  *   * [Chain of Fools](http://www.somethingawful.com/d/garbage-day/stereoside-saving-abel.php "Chain of Fools")  
+  *   * [Busted Bracket](http://www.somethingawful.com/d/garbage-day/dirty-tourney-saliva.php "Busted Bracket")  
 **Garbage Day**
 
-Amazon's personalized recommendations unearth hidden horrors.
+Dirty Tourney: It's like March Madness, but with skanks and horrible music!
+
+  * 
+
+  *   * [Sonic the Hedgehog 2](http://www.somethingawful.com/d/rom-pit/sonic2-horrible.php "Sonic the Hedgehog 2")  
+**Rom Pit**
+
+I bet you think Sonic 2 was a GOOD game, don't you? I bet you are a moron.
 
   * 
 
