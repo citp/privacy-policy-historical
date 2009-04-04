@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033626id_/http%3A//www.todaysthv.com/company/terms_of_service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysthv.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404074312id_/http%3A//www.todaysthv.com/company/terms_of_service/privacy.aspx) for the most accurate reproduction.*
 
 # todaysthv.com | KTHV | Little Rock, AR - THV Info - Privacy Policy
 
