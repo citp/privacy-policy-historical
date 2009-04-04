@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225064712id_/http%3A//www.vayama.com/jsp/aboutUs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404022256id_/http%3A//www.vayama.com/jsp/aboutUs/privacy.jsp%3Fs%3D3856077) for the most accurate reproduction.*
 
-# 
+# vayama | privacy
 
 ### vayama privacy policy
 
@@ -8,7 +8,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to your p
 
 AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
 
-If you have questions or concerns regarding this statement, you should first contact Anthony Hanseder at [billn@vayama.com.](mailto:billn@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Ellen Joosten at [ellenj@vayama.com.](mailto:ellenj@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
 
 ## What kind of information we collect from you:
 
@@ -49,7 +49,7 @@ You are in charge of your vayama account, which means that you can terminate you
 
 
 
-If for any reason you no longer wish to have a vayama account, please contact our customer service at 1.888.829.2621 or 701.232.3760 and request that your account be disabled. When disabled, you will not be able to log in your account, change or purchase travel with vayama.
+If for any reason you no longer wish to have a vayama account, please contact our customer service at 1.888.829.2621 or 1.650.265.1856 and request that your account be disabled. When disabled, you will not be able to log in your account, change or purchase travel with vayama.
 
 ### How vayama secures your information
 
@@ -104,7 +104,7 @@ When you click through to a third party website, our Privacy Policy no longer ap
 
 Vayama does not sell travel or other services for purchase by children and does not knowingly collect information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit personal information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
 
-If you have questions about our Privacy Policies, please contact us at: 1.888.829.2621 or 701.232.3760
+If you have questions about our Privacy Policies, please contact us at: 1.888.829.2621 or 1.650.265.1856
 
     * Vayama
     * 1975 West El Camino Real
