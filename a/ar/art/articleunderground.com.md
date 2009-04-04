@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044614id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404052344id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Article Underground Privacy Policy
 
