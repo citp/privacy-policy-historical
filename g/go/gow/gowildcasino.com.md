@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132652id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404080241id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GoWild Casino | Privacy Policy
 
@@ -39,9 +39,7 @@ GoWild may send out periodic e-mails informing you of technical, Service or secu
 
 GoWild may occasionally hire other companies to provide limited Services on our behalf, including without limitation, identity verification, payment processing and the provision of software. GoWild will only provide these companies that information which is reasonably required to perform the Service, and they will be prohibited from using that information for any other purpose. 
 
-Generally, when our third-party contrac
-
-tors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information. 
+Generally, when our third-party contractors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information. 
 
 GoWild may elect to share your personal information with qualified third-party partners for marketing or other similar purposes but only where you agree to share such information. Such partners will be prohibited from disclosing or using such information except for the limited purposes which the users have consented to. 
 
