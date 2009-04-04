@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodheaven.com privacy policy that was archived on 2008-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081027205442id_/http%3A//www.bollywoodheaven.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodheaven.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404070213id_/http%3A//www.bollywoodheaven.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
