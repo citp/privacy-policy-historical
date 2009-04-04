@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165722id_/http%3A//www.igames.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igames.org privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404102713id_/http%3A//www.igames.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # iGAMES ONLINE PRIVACY STATEMENT
 
-**[](http://www.esrb.org/confirm/igames-confirmation.jsp)**
-
 ******iGAMES ONLINE PRIVACY STATEMENT**
 
-Last updated August 10, 2007
+Last updated April 1, 2009
 
 **Welcome to iGames!**
 
 **OUR PRIVACY COMMITMENT**
 
 iGames respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.
-
-This Privacy Statement and the certification seal shown on this page confirms that iGames is a valid member in ESRB’s Privacy Online Program. ESRB’s Privacy Online Program is designed to ensure that our website’s information collection practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 **TABLE OF CONTENTS**
 
@@ -94,7 +90,7 @@ If you participate in an event sponsored by a particular game center member, you
 
 Each game center member has agreed that it may only use the Personal Information it receives from iGames in a manner consistent with this Privacy Policy. However, iGames is unable to guarantee that this will be the case. If you don’t want your Personal Information provided to a game center, then do not designate a “home game center,” and do not participate in game center sponsored events.
 
-**Game Publishers, Advertisers, Etc.** We collect Personal Information and demographic information and disclose it in an aggregate or non-personally identifiable manner to game publishers, advertisers, and other third parties for marketing and promotional purposes. We also share this aggregate aggregate or demographic information to enable these companies to understand the number and composition of the iGames members and their use of our Service. In these situations, we don’t disclose to these entities any Personal Information. However, if you respond to ads provided by an advertiser they may assume that you fit a certain demographic profile based on the aggregate information provided to them. In addition, when you click on a banner ad, you should be aware that the advertiser may be collecting information from you.
+**Game Publishers, Advertisers, Etc.** We collect Personal Information and demographic information and disclose it in an aggregate or non-personally identifiable manner to game publishers, advertisers, and other third parties for marketing and promotional purposes. We also share this aggregate or demographic information to enable these companies to understand the number and composition of the iGames members and their use of our Service. In these situations, we don’t disclose to these entities any Personal Information. However, if you respond to ads provided by an advertiser they may assume that you fit a certain demographic profile based on the aggregate information provided to them. In addition, when you click on a banner ad, you should be aware that the advertiser may be collecting information from you.
 
 **Operational Uses**
 
@@ -151,15 +147,6 @@ You can access and update the contact information you gave us during registratio
 >  (650) 917-9888
 
 Please be assured that any Personal Information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
-
-iGames is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [ http://www.esrb.org/privacy/contact.jsp](http://www.esrb.org/privacy/contact.jsp).
-
-> ESRB  
->  Attn.: Privacy Online Program  
->  317 Madison Avenue, 22nd Floor  
->  New York, NY 10017  
->  212-759-0700  
->  [privacy@esrb.org](mailto:privacyinfo@esrb.org)
 
 **Your California Privacy Rights**
 
