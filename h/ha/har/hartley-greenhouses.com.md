@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hartley-greenhouses.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202020407id_/http%3A//www.hartley-greenhouses.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartley-greenhouses.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405073653id_/http%3A//www.hartley-greenhouses.com/privacy.php) for the most accurate reproduction.*
 
 # Hartley Botanic Privacy Policy
 
-Use of Information.
+**Use of Information**.
 
-Hartley Botanic ("The Company") will only use information collected about you in accordance with the Data Protection Act 1998 and any other applicable legislation.
+Hartley Botanic ("The Company") will only use information collected about you in accordance with the Data Protection Act 1998 and any other applicable legislation.
 
 The Company collects personal information from visitors to this website through your usage of this website (e.g. cookies) and when you e-mail the company your details for the purpose of registration i.e. name, postal address and e-mail address.
 
@@ -20,7 +20,7 @@ The Company may also use and disclose information in aggregate (so that no indiv
 
 We do not send random marketing emails to personal email addresses (spam).
 
-Use of Cookies.
+**Use of Cookies**.
 
 At present the Company does not use cookies although the Company reserves the right to use cookies to identify you when you visit this Website, track your browsing patterns and build up a demographic profile of your business.
 
@@ -30,14 +30,14 @@ Use of cookies also allows you as a registered user of this website to be presen
 
 Most browsers allow you to turn off cookies. If you do this please look at the help menu on your browser. However, switching off cookies may restrict your use of this Website.
 
-Disclosure.
+**Disclosure**.
 
 The Company does not disclose information about you or your business to any third parties unless required to do so by government bodies and law enforcement agencies.
 
-Links.
+**Links**.
 
 This Website may contain links to other websites which are outside the Company's control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their own privacy policy.
 
-Access Right.
+**Access Right**.
 
 You have a right to access the personal data held about you. To obtain a copy of the personal information held about you by the Company, please write to: Hartley Botanic, Greenfield, Oldham, OL3 7AG. or e-mail to enquiries@hartley-botanic.co.uk
