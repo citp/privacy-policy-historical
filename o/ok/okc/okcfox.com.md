@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510145848id_/http%3A//www.okcfox.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405160845id_/http%3A//okcfox.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FOX25
 
