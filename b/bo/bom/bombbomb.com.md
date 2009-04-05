@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bombbomb.com privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225035344id_/http%3A//bombbomb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D62%26Itemid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombbomb.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405234514id_/http%3A//bombbomb.com/index.php/Examples/Privacy-Policy.html) for the most accurate reproduction.*
 
 # BombBomb.com - Privacy Policy
 
-| [](https://web.archive.org/web/20080225035344id_/http%3A//bombbomb.com/index.php) |   
+| [](http://bombbomb.com/index.php) |   
   
 ---|---  
 |  |  Privacy Policy  |  [ ](http://bombbomb.com/index2.php?option=com_content&do_pdf=1&id=62 "PDF") |  [ ](http://bombbomb.com/index2.php?option=com_content&task=view&id=62&pop=1&page=0&Itemid=67 "Print") |  [ ](http://bombbomb.com/index2.php?option=com_content&task=emailform&id=62&itemid=67 "E-mail")  
@@ -26,10 +26,10 @@ Members
   
 | 
 
-© 2007 BombBomb.com 
+© 2008 BombBomb.com 
 
 | 
 
-[Privacy Policy](http://bombbomb.com/index.php?option=com_content&task=view&id=62&Itemid=67) | [Terms of Use](http://bombbomb.com/index.php?option=com_content&task=view&id=63&Itemid=68)  
+[Privacy Policy](http://bombbomb.com/index.php/Examples/Privacy-Policy.html) | [Terms of Use](http://bombbomb.com/index.php/Examples/User-Agreement.html)  
   
 ---|---
