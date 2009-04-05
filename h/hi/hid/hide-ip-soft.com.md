@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide-ip-soft.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060157id_/http%3A//www.hide-ip-soft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide-ip-soft.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405145231id_/http%3A//hide-ip-soft.com/privacy.htm) for the most accurate reproduction.*
 
 # Hide IP - Hide your IP address and protect your privacy - Hide-IP-Soft.com
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Hide-IP-Soft is committed to protecting the privacy of visitors to this and other Hide-IP-Soft websites. To accomplish this, we have implemented a comprehensive Online Privacy Policy that governs all Internet-related communications for Hide-IP-Soft. This policy is subject to change. We will, however, keep this page updated to make visitors aware of any and all changes. 
 
-Please read our policy and let us know what you think. If you have any questions about this policy, please send us a note at [Contact us page](https://web.archive.org/web/20081217060157id_/http%3A//www.hide-ip-soft.com/contact.php).
+Please read our policy and let us know what you think. If you have any questions about this policy, please send us a note at [Contact us page](https://web.archive.org/web/20090405145231id_/http%3A//hide-ip-soft.com/contact.php).
 
 Guiding principles What information do we gather and how is it used? What about "cookies"? 
 
