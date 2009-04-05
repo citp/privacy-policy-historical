@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044922id_/http%3A//www.defsounds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405150959id_/http%3A//www.defsounds.com/privacy) for the most accurate reproduction.*
 
 # Defsounds — Your #1 Hip Hop News Magazine
 
