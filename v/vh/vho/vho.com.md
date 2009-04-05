@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vho.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205194645id_/http%3A//www.vho.com/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vho.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405190057id_/http%3A//www.vho.com/privacy.php) for the most accurate reproduction.*
 
-# Video Heat Online
-
-**Privacy Notice**
+# Privacy Notice at VHO
 
 **Personal Information**
 
@@ -27,7 +25,6 @@
 
   * \- You may, of course, decline to submit personally identifiable information through the VHO.COM Sites, in which case you can still view videos and explore the VHO.COM Sites, but VHO.COM may not be able to provide certain services to you.
   * \- You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. 
-  * \- You may clear your viewing history at any time through the “Viewing History” feature. 
 
 
 
@@ -35,4 +32,4 @@
 
 VHO.COM allows other companies, called third-party ad servers or ad networks, to serve advertisements within the VHO.COM Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the VHO.COM Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
 
-VHO.COM does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks VHO.COM to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the VHO.COM Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+VHO.COM does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks VHO.COM to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the VHO.COM Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
