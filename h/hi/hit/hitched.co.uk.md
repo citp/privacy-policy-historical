@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131159id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405124301id_/http%3A//www.hitched.co.uk/admin/privacy.aspx) for the most accurate reproduction.*
 
 # hitched.co.uk - privacy policy
 
@@ -14,7 +14,7 @@ Our Site uses cookies to keep track of your shopping cart, and to make sure you 
 
 Advertisers 
 
-This site, hitched.co.uk, uses the services of 24/7 Real Media for the serving and/or targeting of ads, promotions and other marketing messages. To do this, 24/7 Real Media collects anonymous data through the use of cookies. To learn more about 24/7 Real Media , including your ability to opt out of the 24/7 Real Media system, go to <http://www.247realmedia.co.uk/EN-UK/privacy-policy.html>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
 Registration forms
 
@@ -55,7 +55,7 @@ This information is shared with advertisers on an aggregate basis. We use this d
 
 Public forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes chat rooms, forums, blogs, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 Security
 
@@ -71,4 +71,4 @@ This site gives users the following options for changing and modifying informati
 
 Contacting hitched.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk ](mailto:feedback@hitched.co.uk)Our policy is to endeavour to answer any questions within 3 working days. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.co.uk](mailto:feedback@hitched.co.uk) or call us on 08700 112545. Our policy is to endeavour to answer any questions within 3 working days. 
