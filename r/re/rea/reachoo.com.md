@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2008-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080903131530id_/http%3A//www.reachoo.com/privacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406012815id_/http%3A//reachoo.com/privacy_policies) for the most accurate reproduction.*
 
 # Reachoo free video classifieds
 
