@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findology.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findology.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/privacy.html) for the most accurate reproduction.*
 
 # Findology Interactive Media: Create Account
 
-| [](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/index.html) |   
+| [](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/index.html) |   
 ---|---  
-[](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/partners.html) | [](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/advertisers.html) | [](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/createaccount.html) | [](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/referralprogram.html) | [](https://web.archive.org/web/20081217111009id_/http%3A//home.findology.com/business/about.html) |   
+[](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/partners.html) | [](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/advertisers.html) | [](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/createaccount.html) | [](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/referralprogram.html) | [](https://web.archive.org/web/20090406012415id_/http%3A//home.findology.com/business/about.html) |   
 ---|---|---|---|---|---  
   
 As the owners (“Company” or “we”) of Findology.com (the “Web Site”), we have created this Privacy Policy in order to demonstrate our commitment to the privacy of our customers and users. This Privacy Policy is only applicable to the Web Site, and not any other websites that are accessible from the Web Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such web sites. 
