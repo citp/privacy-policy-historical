@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolmol.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527102720id_/http%3A//www.tolmol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolmol.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405173039id_/http%3A//www.tolmol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TolMol.com
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This Privacy Policy applies to the services offered by TolMol website located at http://www.tolmol.com and directly associated domains (collectively, "TolMol Site" or "Website"), including any features, content, or applications offered from time to time by TolMol (collectively, the "TolMol Services"). The TolMol Services are hosted in the United States. By using TolMol Services, you are consenting to have your personal data transferred to and processed in the United States.
 
-This privacy policy is incorporated into and is subject to the TolMol [Terms of Use.](https://web.archive.org/terms-of-use) Your use of the TolMol Site and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and our [Terms of Use.](https://web.archive.org/terms-of-use)
+This privacy policy is incorporated into and is subject to the TolMol [Terms of Use.](http://www.tolmol.com/terms-of-use) Your use of the TolMol Site and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and our [Terms of Use.](http://www.tolmol.com/terms-of-use)
 
 Please note that any video, image, comment or other content posted on the Website becomes published content and is not considered personally identifiable information which is subject to this Privacy Policy.
 
@@ -28,7 +28,7 @@ When you use the TolMol Site, we may employ "clear GIFs" (a.k.a. Web Beacons) wh
 
 When you use the TolMol Site, you may set up your personal profile, form connections, send messages to other users, perform searches and queries, create and join communities, add or use applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
-You post User Content (as defined in the TolMol [Terms of Use](https://web.archive.org/terms-of-use)) on the Site at your own risk. Although you can set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+You post User Content (as defined in the TolMol [Terms of Use](http://www.tolmol.com/terms-of-use)) on the Site at your own risk. Although you can set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
 Any improper collection or misuse of information provided on TolMol Site is a violation of the TolMol Terms of Use and should be reported to support@tolmol.com.
 
