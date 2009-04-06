@@ -1,176 +1,118 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170209id_/http%3A//www.reviewcentre.com/ct49.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406051108id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 Table of contents
-    About Us
-    Dispute Resolution and Privacy Seals
-    Additional Information
-     Data Collection
-    Group Basic information
-    Group Cookies
-    HTTP cookies
-    Group Submitting a Review, Comment or Post
-    Group Reading Reviews
+    Introduction
+    What Information Do We Collect?
     Cookies
-    Compact Policy Summary
-    Policy Evaluation
-    Satisfactory policy
+    How Do We Use the Information That You Provide to Us?
+    How Can You Access and Correct Your Information?
+    Your Consent
+    Where we store Your information
+    What about other websites linked to our website?
 
-## About Us
+## Introduction
 
-This is a privacy policy for Resource Team Ltd. Our homepage on the Web is located at www.resourceteam.co.uk.  
-This policy does not tell users where they can go to exercise their opt-in or opt-out options. We invite you to contact us if you have questions about this policy.
+ **Resource Team Ltd** (" **we** "," **our** " or " **us** ") is committed to protecting the privacy of our [www.reviewcentre.com](http://www.reviewcentre.com/)users (" **You** " or " **Your** "). This privacy policy (" **Privacy Policy** ") is intended to inform You how we gather, define, and utilise Your information which may include Your:
 
-You may contact us by :
+  * name; 
 
-  * Email [contact us](https://web.archive.org/ct11.html) forms.
-  * Post
+  * gender;
 
+  * age;
 
-  * Resource Team Ltd
-  * United Business Centres
-  * 4 Howarth Court
-  * Gateway Crescent
-  * Oldham Broadway Business Park
-  * Oldham   
-OL9 9XB   
-United Kingdom
+  * address or postcode; 
 
+  * telephone number; 
 
+  * mobile number;
 
-## Dispute Resolution and Privacy Seals
-
-We have no privacy seals or other assurance mechanisms.
-
-## Additional Information
-
-This policy is valid until 1 January, 2010 at 12:00:00 GMT.
-
-##  Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as statements). This policy contains 4 data groups. The data practices of each group will be explained seperately.
-
-## Group Basic information
-
-We collect the following information
-
-  * Click-stream data
-  * HTTP protocol elements
+  * email address 
 
 
 
-This data will be used for the following purposes
 
-  * Completion and support of the current activity
-  * Website and system administration
-  * Research and development
+(together, the " **Information** "). 
 
+It is also intended to assist You in making informed decisions when using our Website and our products and services. Please take a minute to read and understand the policy. 
 
+All Your Information shall be held and used in accordance with the Data Protection Act1998 (the " **Act** ") where applicable. If You want to know what Information we collect and hold about You, please write to us at: Hill House, Heron Square, RichmondTW9 1EP.
 
-This data will be used by Resource Team Ltd and our agents. The following explanation is provided for why this data is collected: Data collected from all Web users: access logs, and search strings (if entered).
+Resource Team Ltd is the data controller of Your Information for the purposes of the Act.
 
-## Group Cookies
+## What Information Do We Collect?
 
-At the users option, we will collect the following data
+When You visit our Website You may provide us with the following types of information:
 
-## HTTP cookies
+  * Information, as listed above, that You provide to us on an individual basis during Registration or when posting user reviews or comments in the Forum section of the Website. In addition, if You choose to correspond with us by email, we may retain the content of Your email messages together with Your email address and our responses; and
 
-This data will be used for the following purposes
+  * usage information collected as You and others browse our Website;
 
-  * Research and development
-  * One-time training
+  * your preferences and areas of interest as advised by You on registration and;
 
-
-
-This data will be used by Resource Team Ltd and our agents. The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
-
-## Group Submitting a Review, Comment or Post
-
-At the users option, we will collect the following data
-
-  * Online content information
-  * Demographic data
+  * information provided by You to us in surveys that we use for research purposes (although You do not have to respond to them).
 
 
 
-This data will be used for the following purposes
 
-  * Completion and support of the current activity
-  * Contacting visitors for marketing of services or products. The user must **opt-in** to this usage
+We maintain the highest standards of security, however the transmission of information via the internet is not completely secure. Any transmission is at Your own risk. Once we have received Your Information, we will use strict procedures and security features to prevent unauthorised access.
 
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information
-
-The general public. The user must **opt-in** to this data sharing
-
-The following explanation is provided for why this data is collected: This information is stored in a database so that your views or questions can be published online. Personal data such as email address and demographic data are not passed to third parties unless this option is selected.
-
-## Group Reading Reviews
-
-We collect the following information
-
-Search terms
-
-This data will be used for the following purposes
-
-  * Anonymous user analysis
-  * Anonymous user profiling and decision-making
-
-
-
-This data will be used by Resource Team and our agents.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about browsing actions and patterns and does not identify any individual.
 
 ## Cookies
 
-Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Our site makes use of cookies. Cookies are used for the following purposes.
+Similar to other commercial websites, our Website uses a standard technology called cookies" and web server logs to collect information about how our Website is being used. 
 
-  * User targeting
-  * Research and development
+Cookies, in conjunction with our web server"s log files,allow us to calculate the aggregate number of people visiting our Website and work out which parts of the Website are most popular. This helps us to constantly improve our Website and better serve our users. 
 
+We use "session" cookies which enable You to carry information across pages of the Website and avoid having to re-enter information. Session cookies enable us to compile statistics that help us to understand how the Website is being used and to improve its structure. We also use "persistent" cookies which remain in the cookies file of Your browser for longer and help us to recognise You as a unique visitor to the Website, tailoring the content of certain areas of the Website to offer You content that match Your preferred interests.
 
+You can refuse to accept cookies by activating the setting on Your browser which allows You to refuse the setting of cookies. However,if You select this setting You may be unable to access certain parts of the Website. Unless you have adjusted Your browser setting so that it will refuse cookies, our system will issue cookies when You logon to the Website.
 
-## Compact Policy Summary
+## How Do We Use the Information That You Provide to Us?
 
-The compact policy which corresponds to this policy is
+We use Your Information in the following ways:
 
-CP=OTI CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBi BUS IND ONL UNI COM NAV INT DEM 
+  * to ensure that content from our Website is presented in the most effective manner for You and Your computer;
 
-The following definitions explain the meaning of each field in the compact policy.
+  * to notify You about any changes to our service; 
 
-  * CP - This is the compact policy header, it indicated that what follows is a P3P compact policy.
-  * OTI - Access is available to some information.
-  * CURa - The data is used for completion of the current activity.
-  * ADMa - The data is used for website administration.
-  * DEVa - The data is used for research and development.
-  * TAIa - The data is used for tailoring the site.
-  * PSAa - The data is used for pseudononymous analysis.
-  * PSDa - The data is used for pseudononymous decision making.
-  * CONi - The data is used for contacting the user, if the user selects it.
-  * OUR - The data is given to Resource Team Ltd and our agents.
-  * PUBi - The data is made public, if the user selects it.
-  * BUS - Our business practices specify how long the data will be kept.
-  * IND - The data will be kept indefinitely.
-  * ONL - Online contact information is collected.
-  * UNI - Unique identifiers are collected.
-  * COM - Computer information is collected.
-  * NAV - Navigation and clickstream data is collected.
-  * INT - Interactive data is collected.
-  * DEM - Demographic and socioeconomic data is collected.
+  * to contact You in accordance with Your authorisation as expressed via ‘opt-ins’ at the point of Registration.
 
 
 
-## Policy Evaluation
 
-Microsoft Internet Explorer 6 will evaluate this policys compact policy whenever it is used with a cookie. The actions Internet Explorer will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, Internet Explorer will examine whether the cookies policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policys compact policy against Microsofts stated behavior for Internet Explorer 6.
+Except as set out below and as expressly authorised by You via"opt-ins" we do not generally disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example we may inform them that 500 men in the London area have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example Women in SW1).
 
-**Please note:** This evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
+We may disclose Your Information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the Companies Act 1985.
 
-## Satisfactory policy
+We may pass Your Information to other third party organisations: 
 
-This compact policy is considered satisfactory, according to the rules defined by Internet Explorer 6. Internet Explorer 6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
-  *[HTTP]: Hypertext Transfer Protocol
-  *[Ltd]: Limited
-  *[GMT]: Greenwich Mean Time
-  *[P3P]: Platform for Privacy Preferences
+  * if we buy or sell any business or assets in which case we may disclose Your Information to the seller or buyer of such business or assets;
+  * if we are under a duty to disclose or share Your Information to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property,or safety of our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction; and
+  * in accordance with Your authorisation as expressed via "opt-ins"at the point of Registration.
+
+
+
+You have the right to ask us not to process Your Information for marketing purposes. You can exercise Your right to prevent such processing by checking certain boxes on the forms we use to collect Your Information. You can also exercise the right at anytime by contacting us using the "contact us" function of the website or by writing to us at the address at the beginning of this Privacy Policy.
+
+Please note that by posting any Information in any publicly accessible area of the Website such as the Forums, such Information may be viewed and collected by third parties over which we have no control. We are not responsible for the use of Information by such third parties. Please therefore exercise all due care and consideration before disclosing any Information that will be accessible on public areas. We strongly recommend Registered Userskeeostings anonymous and avoid disclosing Information that may be used to identify You.
+
+## How Can You Access and Correct Your Information?
+
+You may request access to all Your Information that we collect online and maintain in our database by contacting us using the"contact us" function on the site. Any access request maybe subject to a fee of £10 to meet our costs in providing You with details of the information we hold about You.
+
+## Your Consent
+
+By using our Website You consent to our collection and use of Your Information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Website to keep You aware of what Information we collect, how we use it and under what circumstances we may disclose it.
+
+## Where we store Your information
+
+The Information we collect from You is not transferred to and stored at a destination outside the European Economic Area. We will take all steps reasonably necessary to ensure that Your Information is treated securely and in accordance with this Privacy Policy.
+
+## What about other websites linked to our website?
+
+**We are not responsible for the practices employed by websites linked to or from our Website, nor the information or content contained therein.Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.**
+
+**Please remember that when you use a link to go from our Website to another website, this privacy policy is no longer in effect. Your browsing and interaction on any other website, including websites which are linked to ours is subject to that website"s own rules and policies.**
