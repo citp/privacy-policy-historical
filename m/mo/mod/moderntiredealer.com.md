@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002025205id_/http%3A//www.moderntiredealer.com/t_inside.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406205359id_/http%3A//www.moderntiredealer.com/Content/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Modern Tire Dealer The #1 Online Source for Tire Dealers
+# Privacy Policy - Modern Tire Dealer
 
   
 Bobit Business Media - Modern Tire Dealer
@@ -12,8 +12,7 @@ At some other Bobit Business Media sites, you can submit information about other
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).  
-back to top 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
 **How We Use this Information**  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
@@ -35,7 +34,7 @@ Agents and contractors of Bobit Business Media who have access to personally ide
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.  
 **  
 ** **Privacy Options**  
-If you prefer not to receive e-mail marketing information from Bobit Business Media sites or companies not owned by Bobit Business Media, you will always have an option to opt out within the e-mail. You may also request to be removed by [clicking here](mailto:webmaster@bobit.com) and e-mailing us.
+If you prefer not to receive e-mail marketing information from Bobit Business Media sites or companies not owned by Bobit Business Media, you will always have an option to opt out within the e-mail. You may also request to be removed by [clicking here](http://www.moderntiredealer.com/ContactUs/) and e-mailing us.
 
 Finally, Bobit Business Media sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -57,7 +56,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
 **How You can Access or Correct Information**  
-For instructions on how you can access the personally identifiable information that this Bobit Business Media site has collected about you online, or how to correct factual errors in such information, please email us by [clicking here](mailto:webmaster@bobit.com). 
+For instructions on how you can access the personally identifiable information that this Bobit Business Media site has collected about you online, or how to correct factual errors in such information, please email us by [clicking here](http://www.moderntiredealer.com/ContactUs/). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -65,9 +64,11 @@ To protect your privacy and security, we will take reasonable steps to help veri
 Make sure to check this page to ensure you stay informed about any policy changes that may take place.
 
 **How to Contact Us**  
-If you have any questions or concerns about the Bobit Business Media online policy for this site or its implementation please contact us via email by [clicking here](mailto:webmaster@bobit.com) or at the following address:
+If you have any questions or concerns about the Bobit Business Media online policy for this site or its implementation please contact us via email by [clicking here](http://www.moderntiredealer.com/ContactUs/) or at the following address:
 
 Bobit Business Media  
 Attention: Web Services  
 3520 Challenger Street  
 Torrance CA 90503
+
+[](http://www.moderntiredealer.com/Enews/SignUp.aspx) Join the MTD eNews and receive the latest news in your e-mail inbox once a week. [Sign Up Now!](http://www.moderntiredealer.com/Enews/SignUp.aspx)
