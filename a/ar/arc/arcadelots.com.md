@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091015id_/http%3A//www.arcadelots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406051253id_/http%3A//arcadelots.com/privacy) for the most accurate reproduction.*
 
 # Racing games Privacy Policy
 
