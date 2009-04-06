@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161111id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406095727id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ The first thing to remember about privacy is that there is only so much informat
 
 The Nest uses a cookie, a small data file stored on your computer, to customize portions of our site to your preferences. For example, The Nest uses a cookie to identify you as a Nest member and to make sure that only you have access to, for example, your own personal wedding budget and calendar. This way, you answer certain questions only once and not every time you participate in an activity or event. The cookie by itself doesn't tell us, or anyone else, who you are, what your email address is, or anything else personal. You provide that information when you register with The Nest, and only The Nest has access to that information. If you choose set up your browser to reject all cookies, please understand that you may be limited to some the areas or functionality within our site.
 
-For more information on cookies, please see our [Cookie FAQ](https://web.archive.org/web/20081219161111id_/http%3A//www.thenest.com/global/faq.html).
+For more information on cookies, please see our [Cookie FAQ](https://web.archive.org/web/20090406095727id_/http%3A//www.thenest.com/global/faq.html).
 
 You can browse The Nest and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you. 
 
