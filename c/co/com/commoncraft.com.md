@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commoncraft.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227075206id_/http%3A//www.commoncraft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commoncraft.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406022602id_/http%3A//www.commoncraft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common Craft Store | Common Craft - Explanations In Plain English
 
