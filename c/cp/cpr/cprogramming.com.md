@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070406id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406025621id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
@@ -26,8 +26,14 @@ Revenue Science collections information (not including your name, address email 
 
 ##### Other services
 
-Third parties (such as Google AdSense) may be placing and reading cookies on visitors' browsers, or using web beacons to collect information, in the course of ads being served on the website. Cprogramming.com does not collect or have access to this data. For more information on what is collected and how to manage cookies, including deleting and opting out of cookies, see [All About Cookies](http://www.allaboutcookies.org/). 
+Third parties (such as Google AdSense) may be placing and reading cookies on visitors' browsers, or using web beacons to collect information, in the course of ads being served on the website. Cprogramming.com does not collect or have access to this data. For more information on what is collected and how to manage cookies, including deleting and opting out of cookies, see [All About Cookies](http://www.allaboutcookies.org/). We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google Adsense in particular, [click here](http://www.google.com/privacy_ads.html). 
 
 ####  Information Usage
 
 We do not track individual users on the site, except in extreme cases to respond to persistent attacks on the system, such as when a user spams the message board or hacks the site. We use the information obtained from the server logs to improve the layout of the site and to make educated guesses as to what could be improved. We also use demographics data obtained through BURST!Media's voluntary survey to target ads that are appropriate for our visitors. Revenue Science uses information collected to serve ads to you on other websites based on your behavior but not upon any personally identifiable information. 
+
+\-----   
+Interested in [advertising with us](http://www.cprogramming.com/advertising.html)?  
+Please read our [privacy policy](http://www.cprogramming.com/privacy.html).  
+[Copyright](http://www.cprogramming.com/use.html) © 1997-2005 Cprogramming.com. All rights reserved.  
+
