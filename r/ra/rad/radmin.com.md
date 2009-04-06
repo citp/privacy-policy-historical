@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131217id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406123011id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
 
 # Radmin - PC Remote Control Software - Privacy Policy
 
@@ -15,12 +15,6 @@
 [News](https://web.archive.org/about/news/)  
 [Press About Us](https://web.archive.org/about/press_about_us.php)  
   
-I am a school teacher with a 17 station network in my classroom. I do not know if I could administer my network without Remote Administrator. I can monitor each computer in the class to protect the kids from going to inappropriate places on the internet. I can keep the kids from messing with the system tools. The list goes on and on. 
-
-_Frank Schneemann  
-Bonita Vista High School  
-Chula Vista, Ca _
-
 Thank you for visiting Famatech’s website located at [www.radmin.com](http://www.radmin.com/). We are firmly committed to respecting and protecting your privacy. To that end, we are pleased to provide this Privacy Policy to describe our information gathering and use.
 
 ## Acquisition of information 
