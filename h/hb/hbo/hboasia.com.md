@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032306id_/http%3A//www.hboasia.com/hbo/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406075543id_/http%3A//www.hboasia.com/hbo/privacy_policy) for the most accurate reproduction.*
 
 # HBO Asia | Privacy Policy
 
