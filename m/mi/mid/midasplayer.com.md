@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midasplayer.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821112208id_/http%3A//www4.midasplayer.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midasplayer.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406062337id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
 # Play Free Online games at King.com
 
