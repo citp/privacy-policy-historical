@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamereviews.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165707id_/http%3A//www.thegamereviews.com/page-12-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamereviews.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406075202id_/http%3A//www.thegamereviews.com/page-12-Privacy-Policy.html) for the most accurate reproduction.*
 
 # The Game Reviews - Page: Privacy Policy
 
