@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesforreprint.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508172208id_/http%3A//www.articlesforreprint.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesforreprint.com privacy policy that was archived on 2009-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090407001104id_/http%3A//www.articlesforreprint.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy ArticlesForReprint.com
 
