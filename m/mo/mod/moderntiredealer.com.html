@@ -1,82 +1,111 @@
-<!--The following is the downloaded HTML source of the moderntiredealer.com privacy policy that was archived on 2008-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081002025205id_/http%3A//www.moderntiredealer.com/t_inside.cfm%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moderntiredealer.com privacy policy that was archived on 2009-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090406205359id_/http%3A//www.moderntiredealer.com/Content/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-
-
-
-
-
-		<title>Modern Tire Dealer The #1 Online Source for Tire Dealers</title>
-	
-
- 
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="css/style.css">
-<meta name="keywords" content="tire, modern, tire magazine, tires, dealer, magazine, firestone, recall, wheels, tire magazines, tire news, retread, saul ludwig, rims, locator, michelin, cooper, rubber, tyre, news, stocks, automotive, aftermarket, pirelli, american racing, stock, toyo, classifieds, statistics, bandag, cooper tires, safety, vehicle, recall">
-<meta name="description" content="This year holds great promise for Modern Tire Dealer. It will see a continuation of the editorial excellence that has won Modern Tire Dealer awards and recognition since 1919. Modern Tire Dealer’s reputation as the “most preferred” publication in the industry has earned the trust and respect of both dealers and advertisers.">
-
-<script language="Javascript">
-  var axel = Math.random() + "";
-  var ord = axel * 1000000000000000000;
-</script>
-
-</head>
-
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-
-
-
-
-
-
-
-
-	
-    
-
-
-
-
-
-
-
-
-
-
-
-
-	
-			
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy - Modern Tire Dealer
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="/_Scripts/Main.js"></script>
+        <script type="text/javascript" src="/_Scripts/jquery-1.2.3.js"></script>
+        <script type="text/javascript" src="/_Scripts/tabs.js"></script>
+        <script type="text/javascript" src="/_Scripts/scripts.js"></script>
+        <script type="text/javascript" src="/_Scripts/styleswitcher.js"></script>
+        <script type="text/javascript" src="/_Scripts/swfobject.js"></script>
         
+        
+        <link rel="stylesheet" href="/_StyleSheet/screen.css" type="text/css" media="screen">
+        <link rel="alternate stylesheet" href="/_StyleSheet/screen_lrgType.css" type="text/css" media="screen" title="lrgType">
+        <link rel="stylesheet" href="/_StyleSheet/lib/plugins/SearchBrowseBox.css" type="text/css">
+        <link rel="stylesheet" href="/_StyleSheet/lib/plugins/ModalPopUp.css" type="text/css">
+        <link rel="stylesheet" href="/_StyleSheet/lib/menu.css" type="text/css">
+        <!--[if IE]><link rel="stylesheet" type="text/css" href="/_StyleSheet/lib/ie.css" /><![endif]-->
+        <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/_StyleSheet/lib/ie6_menu.css" /><![endif]-->
+        
+        <link rel="address bar icon" href="/_Images/_Design/favicon.ico" type="image/x-icon">
+        
+        <link rel="alternate" type="application/rss+xml" title="Industry News" href="http://feeds.feedburner.com/ModernTireDealer-News">
+	    <link rel="alternate" type="application/rss+xml" title="Recent Articles" href="http://feeds.feedburner.com/ModernTireDealer-Articles">
+        
+        <meta name="keywords" content="">
+        <meta name="description" content="">
     
+    <script type="text/javascript">
+    $(function () {
+	    $('.bubbleInfo').each(function () {
+		    var distance = 10;
+		    var time = 250;
+		    var hideDelay = 500;
+
+		    var hideDelayTimer = null;
+
+		    var beingShown = false;
+		    var shown = false;
+		    var trigger = $('.trigger', this);
+		    var info = $('.popup', this).css('opacity', 0);
 
 
+		    $([trigger.get(0), info.get(0)]).mouseover(function () {
+			    if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			    if (beingShown || shown) {
+				    // don't trigger the animation again
+				    return;
+			    } else {
+				    // reset position of info box
+				    beingShown = true;
 
+				    info.css({
+					    top: -90,
+					    left: -150,
+					    display: 'block'
+				    }).animate({
+					    top: '-=' + distance + 'px',
+					    opacity: 1
+				    }, time, 'swing', function() {
+					    beingShown = false;
+					    shown = true;
+				    });
+			    }
 
+			    return false;
+		    }).mouseout(function () {
+			    if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			    hideDelayTimer = setTimeout(function () {
+				    hideDelayTimer = null;
+				    info.animate({
+					    top: '-=' + distance + 'px',
+					    opacity: 0
+				    }, time, 'swing', function () {
+					    shown = false;
+					    info.css('display', 'none');
+				    });
 
+			    }, hideDelay);
 
+			    return false;
+		    });
+	    });
+    });
+    </script>
+</head>
+<body>
+    
     <!-- SiteCatalyst code version: H.14.
     Copyright 1997-2007 Omniture, Inc. More info available at
     http://www.omniture.com -->
-    <script language="JavaScript" src="//www.moderntiredealer.com/Scripts/s_code.js"></script>
+    <script language="JavaScript" src="/_Scripts/s_code.js"></script>
     <script language="JavaScript"><!--
     /* You may give each page an identifying name, server, and channel on
     the next lines. */
-    s.pageName="privacy:home::/t_inside.cfm?action=privacy"
+    s.pageName="/Content/Privacy-Policy.aspx"
     s.server=""
-    s.channel="privacy"
+    s.channel="Others"
     s.pageType=""
     s.prop1=""
     s.prop2=""
     s.prop3=""
     s.prop4=""
     s.prop5=""
-    s.prop6="static-pages"
-    s.prop7="privacy"
+    s.prop6=""
+    s.prop7=""
     s.prop8=""
     s.prop9=""
     s.prop10=""
@@ -116,378 +145,283 @@
     height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
     <!-- End SiteCatalyst code version: H.14. -->
 
+    
+    <form name="aspnetForm" method="post" action="Privacy-Policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTIxOTUwNzUwD2QWAmYPDxYIHgxNZXRhS2V5d29yZHNkHg9NZXRhRGVzY3JpcHRpb25kHgpSU1NOZXdzVXJsBTFodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vTW9kZXJuVGlyZURlYWxlci1OZXdzHg5SU1NBcnRpY2xlc1VSTAU1aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL01vZGVyblRpcmVEZWFsZXItQXJ0aWNsZXNkFgICAQ9kFhICAQ9kFgJmDxYCHgRUZXh0BYYIPHNjcmlwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdCI+DQpkb2N1bWVudC53cml0ZSgnPHNjcicrJ2lwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdDEuMSIgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2Fkai9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9MTtwb3M9dG9wO2Rjb3B0PWlzdDthYnI9IXdlYnR2O3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICc/Ij48L3NjcicrJ2lwdD4nKTsNCjwvc2NyaXB0Pg0KPHNjcmlwdD4NCjwhLS0NCmlmICgoIWRvY3VtZW50LmltYWdlcyAmJiBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01vemlsbGEvMi4nKSA+PSAwKSB8fCBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoIldlYlRWIikgPj0gMCkgew0KZG9jdW1lbnQud3JpdGUoJzxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9MTtwb3M9dG9wO3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICciIHRhcmdldD0iX2JsYW5rIj4nKTsNCmRvY3VtZW50LndyaXRlKCc8aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9MTtwb3M9dG9wO3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICciIHdpZHRoPSI3MjgiIGhlaWdodD0iOTAiIGJvcmRlcj0iMCIgYWx0PSIiPjwvYT4nKTsNCn0NCi8vLS0+DQo8L3NjcmlwdD4NCjxub3NjcmlwdD4NCjxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9MTtwb3M9dG9wO3N6PTcyOHg5MDtvcmQ9MTM1NDI3NzU1IiB0YXJnZXQ9Il9ibGFuayI+DQo8aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9MTtwb3M9dG9wO3N6PTcyOHg5MDtvcmQ9MTM1NDI3NzU1IiB3aWR0aD0iNzI4IiBoZWlnaHQ9IjkwIiBib3JkZXI9IjAiIGFsdD0iIj48L2E+DQo8L25vc2NyaXB0PmQCAg9kFgICAw8PFgIeCEltYWdlVXJsBSAvX0ltYWdlcy9fRGVzaWduL2J1dHRfc2lnbnVwLmdpZmRkAgQPFgIeA3NyYwU+aHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9fSW1hZ2VzL2lzc3Vlcy9TLU1BUi1jdnI5NC5qcGdkAgUPFgIfBgU9aHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9fSW1hZ2VzL2lzc3Vlcy9NQVItY3ZyMTc3LmpwZ2QCBg8WAh8EBQ5BcHJpbCAwNiwgMjAwOWQCBw9kFgRmD2QWAgIBDw8WBB4KSW1hZ2VBbGlnbgsqJFN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuSW1hZ2VBbGlnbggfBQUgL19JbWFnZXMvX0Rlc2lnbi9idXR0X3NlYXJjaC5naWZkZAICDxYCHwQFrwU8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiPnZhciBNc2dBcnJheSA9IEFycmF5KCJBVEQgd2FudHMgdG8gc2VsbCBBTS1QQUMgcmV0YWlsIHN0b3JlcyMiLCInVm9sdW1lIHRvIGltcHJvdmUgaW4gdGhlIHNlY29uZCBxdWFydGVyLCcgTHVkd2lnIHNheXMjIiwiU0VNQSB0byBob2xkIHdoZWVsL3RpcmUgc3BlY2lhbGlzdCBleGFtIyIsIkNvbnRpLCBTY2hhZWZmbGVyIHBvb2wgYnV5aW5nIHBvd2VyIyIpO3ZhciBMaW5rQXJyYXkgPSBBcnJheSgiaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9OZXdzL1N0b3J5LzIwMDkvMDQvQVRELXdhbnRzLXRvLXNlbGwtQW0tUGFjLXJldGFpbC1zdG9yZXMuYXNweCIsImh0dHA6Ly93d3cubW9kZXJudGlyZWRlYWxlci5jb20vTmV3cy9TdG9yeS8yMDA5LzA0L1ZvbHVtZS10by1pbXByb3ZlLWluLXRoZS1zZWNvbmQtcXVhcnRlci1MdWR3aWctc2F5cy5hc3B4IiwiaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9OZXdzL1N0b3J5LzIwMDkvMDQvU0VNQS10by1ob2xkLXdoZWVsLXRpcmUtc3BlY2lhbGlzdC1leGFtLmFzcHgiLCJodHRwOi8vd3d3Lm1vZGVybnRpcmVkZWFsZXIuY29tL05ld3MvU3RvcnkvMjAwOS8wNC9Db250aS1TY2hhZWZmbGVyLXBvb2wtYnV5aW5nLXBvd2VyLmFzcHgiKTs8L3NjcmlwdD5kAggPZBYGAgEPZBYKAgEPZBYCZg8WAh8EBZIIPHNjcmlwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdCI+DQpkb2N1bWVudC53cml0ZSgnPHNjcicrJ2lwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdDEuMSIgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2Fkai9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mjtwb3M9cmlnaHQxO2Ficj0hd2VidHY7c3o9MzAweDI1MDtvcmQ9JyArIG9yZCArICc/Ij48L3NjcicrJ2lwdD4nKTsNCjwvc2NyaXB0Pg0KPHNjcmlwdD4NCjwhLS0NCmlmICgoIWRvY3VtZW50LmltYWdlcyAmJiBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01vemlsbGEvMi4nKSA+PSAwKSB8fCBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoIldlYlRWIikgPj0gMCkgew0KZG9jdW1lbnQud3JpdGUoJzxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mjtwb3M9cmlnaHQxO3N6PTMwMHgyNTA7b3JkPScgKyBvcmQgKyAnIiB0YXJnZXQ9Il9ibGFuayI+Jyk7DQpkb2N1bWVudC53cml0ZSgnPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvbW9kZXJudGlyZWRlYWxlci50bXVzL290aGVyczt0aWxlPTI7cG9zPXJpZ2h0MTtzej0zMDB4MjUwO29yZD0nICsgb3JkICsgJyIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyNTAiIGJvcmRlcj0iMCIgYWx0PSIiPjwvYT4nKTsNCn0NCi8vLS0+DQo8L3NjcmlwdD4NCjxub3NjcmlwdD4NCjxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mjtwb3M9cmlnaHQxO3N6PTMwMHgyNTA7b3JkPTEzNTQyNzc1NSIgdGFyZ2V0PSJfYmxhbmsiPg0KPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvbW9kZXJudGlyZWRlYWxlci50bXVzL290aGVyczt0aWxlPTI7cG9zPXJpZ2h0MTtzej0zMDB4MjUwO29yZD0xMzU0Mjc3NTUiIHdpZHRoPSIzMDAiIGhlaWdodD0iMjUwIiBib3JkZXI9IjAiIGFsdD0iIj48L2E+DQo8L25vc2NyaXB0PmQCAw9kFgQCAQ9kFgJmDxBkEBUFJFNlbGxpbmcgVUhQIHRpcmVzIGluIGEgdGlnaHQgZWNvbm9teRtOZXcgc29mdHdhcmUgZm9yIGhhcmQgdGltZXMURnJvbSBhaXIgdG8gbml0cm9nZW4pUmVjZXNzaW9uIGNhdGNoZXMgdXAgd2l0aCBPVFIgdGlyZSBtYXJrZXQSUHJvcGVyIHBlcnNwZWN0aXZlFQVfaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9BcnRpY2xlL1N0b3J5LzIwMDkvMDIvU2VsbGluZy1VSFAtdGlyZXMtaW4tYS10aWdodC1lY29ub215LmFzcHhWaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9BcnRpY2xlL1N0b3J5LzIwMDkvMDIvTmV3LXNvZnR3YXJlLWZvci1oYXJkLXRpbWVzLmFzcHhPaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9BcnRpY2xlL1N0b3J5LzIwMDkvMDIvRnJvbS1haXItdG8tbml0cm9nZW4uYXNweGRodHRwOi8vd3d3Lm1vZGVybnRpcmVkZWFsZXIuY29tL0FydGljbGUvU3RvcnkvMjAwOS8wMi9SZWNlc3Npb24tY2F0Y2hlcy11cC13aXRoLU9UUi10aXJlLW1hcmtldC5hc3B4TWh0dHA6Ly93d3cubW9kZXJudGlyZWRlYWxlci5jb20vQXJ0aWNsZS9TdG9yeS8yMDA5LzAyL1Byb3Blci1wZXJzcGVjdGl2ZS5hc3B4FCsDBWdnZ2dnFgBkAgMPDxYCHgtOYXZpZ2F0ZVVybAU9aHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9BcnRpY2xlL0xpc3QvTW9zdFBvcHVsYXIuYXNweGRkAgUPZBYCZg8WAh8EBZIIPHNjcmlwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdCI+DQpkb2N1bWVudC53cml0ZSgnPHNjcicrJ2lwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdDEuMSIgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2Fkai9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mztwb3M9cmlnaHQyO2Ficj0hd2VidHY7c3o9MzAweDI1MDtvcmQ9JyArIG9yZCArICc/Ij48L3NjcicrJ2lwdD4nKTsNCjwvc2NyaXB0Pg0KPHNjcmlwdD4NCjwhLS0NCmlmICgoIWRvY3VtZW50LmltYWdlcyAmJiBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01vemlsbGEvMi4nKSA+PSAwKSB8fCBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoIldlYlRWIikgPj0gMCkgew0KZG9jdW1lbnQud3JpdGUoJzxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mztwb3M9cmlnaHQyO3N6PTMwMHgyNTA7b3JkPScgKyBvcmQgKyAnIiB0YXJnZXQ9Il9ibGFuayI+Jyk7DQpkb2N1bWVudC53cml0ZSgnPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvbW9kZXJudGlyZWRlYWxlci50bXVzL290aGVyczt0aWxlPTM7cG9zPXJpZ2h0Mjtzej0zMDB4MjUwO29yZD0nICsgb3JkICsgJyIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyNTAiIGJvcmRlcj0iMCIgYWx0PSIiPjwvYT4nKTsNCn0NCi8vLS0+DQo8L3NjcmlwdD4NCjxub3NjcmlwdD4NCjxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9Mztwb3M9cmlnaHQyO3N6PTMwMHgyNTA7b3JkPTEzNTQyNzc1NSIgdGFyZ2V0PSJfYmxhbmsiPg0KPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvbW9kZXJudGlyZWRlYWxlci50bXVzL290aGVyczt0aWxlPTM7cG9zPXJpZ2h0Mjtzej0zMDB4MjUwO29yZD0xMzU0Mjc3NTUiIHdpZHRoPSIzMDAiIGhlaWdodD0iMjUwIiBib3JkZXI9IjAiIGFsdD0iIj48L2E+DQo8L25vc2NyaXB0PmQCBw9kFgQCAQ9kFgJmDxYCHwQFfDxwPldoZXRoZXIgeW91IGFyZSBidXlpbmcsIHNlbGxpbmcsIG9yIGhhdmUgZW1wbG95bWVudCBvcHBvcnR1bml0aWVzLCBsZXQgb3VyIGVDbGFzc2lmaWVkcyBiZSB5b3VyICMxIG9ubGluZSBzb2x1dGlvbiENCjwvcD5kAgMPFgIeC18hSXRlbUNvdW50AgIWBAIBD2QWAmYPFQIBNFM8YSBocmVmPSJodHRwOi8vd3d3LnRpcmVqb2JzY2xhc3NpZmllZC5jb20iIHRhcmdldD0iX2JsYW5rIj5UaXJlSm9icyBDbGFzc2lmaWVkPC9hPmQCAg9kFgJmDxUCATFLPGEgaHJlZj0iaHR0cDovL3d3dy50aXJlam9icy5jb20vIiB0YXJnZXQ9Il9ibGFuayI+VGhlIFRpcmVKb2JzIENvbXBhbnk8L2E+ZAIJDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh4TUGFnZUhlYWRlclBhcmFtZXRhcgUOUHJpdmFjeSBQb2xpY3lkFgICAQ8WAh8EBQ5Qcml2YWN5IFBvbGljeWQCBQ8WAh4JaW5uZXJodG1sBclNPHA+PGJyPg0KCQkJCUJvYml0IEJ1c2luZXNzIE1lZGlhIC0gTW9kZXJuIFRpcmUgRGVhbGVyPC9wPg0KCQkJICA8cD48c3Ryb25nPkluZm9ybWF0aW9uIFdlIENvbGxlY3Q8L3N0cm9uZz48YnI+DQoNCgkJCQlBdCBzb21lIEJvYml0IEJ1c2luZXNzIE1lZGlhIHNpdGVzLCB5b3UgY2FuIG9yZGVyIHByb2R1Y3RzLCByZWdpc3RlciwgDQoJCQkJZW50ZXIgY29udGVzdHMsIHZvdGUgaW4gcG9sbHMgb3Igb3RoZXJ3aXNlIGV4cHJlc3MgYW4gb3BpbmlvbiwgDQoJCQkJc3Vic2NyaWJlIHRvIG9uZSBvZiBvdXIgc2VydmljZXMgc3VjaCBhcyBvdXIgb25saW5lIG5ld3NsZXR0ZXJzLCANCgkJCQlvciBwYXJ0aWNpcGF0ZSBpbiBvbmUgb2Ygb3VyIG9ubGluZSBmb3J1bXMgb3IgY29tbXVuaXRpZXMuIFRoZSANCgkJCQl0eXBlcyBvZiBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB0aGF0IG1heSBiZSBjb2xsZWN0ZWQgDQoJCQkJYXQgdGhlc2UgcGFnZXMgaW5jbHVkZTogbmFtZSwgYWRkcmVzcywgZS1tYWlsIGFkZHJlc3MsIHRlbGVwaG9uZSANCgkJCQludW1iZXIsIGZheCBudW1iZXIsIGNyZWRpdCBjYXJkIGluZm9ybWF0aW9uLCBhbmQgaW5mb3JtYXRpb24gYWJvdXQgDQoJCQkJeW91ciBpbnRlcmVzdHMgaW4gYW5kIHVzZSBvZiB2YXJpb3VzIHByb2R1Y3RzLCBwcm9ncmFtcywgYW5kIHNlcnZpY2VzLjwvcD4NCgkJCSAgPHA+QXQgc29tZSBvdGhlciBCb2JpdCBCdXNpbmVzcyBNZWRpYSBzaXRlcywgeW91IGNhbiBzdWJtaXQgaW5mb3JtYXRpb24gDQoJCQkJYWJvdXQgb3RoZXIgcGVvcGxlLiBGb3IgZXhhbXBsZSwgeW91IG1pZ2h0IHN1Ym1pdCBhIHBlcnNvbidzIG5hbWUgDQoJCQkJYW5kIGUtbWFpbCBhZGRyZXNzIHRvIHNlbmQgYW4gZWxlY3Ryb25pYyBncmVldGluZyBjYXJkIGFuZCwgaWYgDQoJCQkJeW91IG9yZGVyIGEgZ2lmdCBvbmxpbmUgYW5kIHdhbnQgaXQgc2VudCBkaXJlY3RseSB0byB0aGUgcmVjaXBpZW50LCANCgkJCQl5b3UgbWlnaHQgc3VibWl0IHRoZSByZWNpcGllbnQncyBuYW1lIGFuZCBhZGRyZXNzLiBUaGUgdHlwZXMgb2YgDQoJCQkJcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gdGhhdCBtYXkgYmUgY29sbGVjdGVkIGFib3V0IA0KCQkJCW90aGVyIHBlb3BsZSBhdCB0aGVzZSBwYWdlcyBpbmNsdWRlOiByZWNpcGllbnQncyBuYW1lLCBhZGRyZXNzLCANCgkJCQllLW1haWwgYWRkcmVzcywgYW5kIHRlbGVwaG9uZSBudW1iZXIuIDwvcD4NCgkJCSAgPHA+QXQgY2VydGFpbiBwYXJ0cyBvZiBzb21lIG9mIG91ciBzaXRlcywgb25seSBwZXJzb25zIHdobyBwcm92aWRlIA0KCQkJCXVzIHdpdGggdGhlIHJlcXVlc3RlZCBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB3aWxsIA0KCQkJCWJlIGFibGUgdG8gb3JkZXIgcHJvZHVjdHMsIHByb2dyYW1zLCBhbmQgc2VydmljZXMgb3Igb3RoZXJ3aXNlIA0KCQkJCXBhcnRpY2lwYXRlIGluIHRoZSBzaXRlJ3MgYWN0aXZpdGllcyBhbmQgb2ZmZXJpbmdzLjwvcD4NCgkJCSAgPHA+V2UgYWxzbyBtYXkgY29sbGVjdCBjZXJ0YWluIG5vbi1wZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiANCgkJCQl3aGVuIHlvdSB2aXNpdCBtYW55IG9mIG91ciB3ZWIgcGFnZXMgc3VjaCBhcyB0aGUgdHlwZSBvZiBicm93c2VyIA0KCQkJCXlvdSBhcmUgdXNpbmcgKGUuZy4sIE5ldHNjYXBlLCBJbnRlcm5ldCBFeHBsb3JlciksIHRoZSB0eXBlIG9mIA0KCQkJCW9wZXJhdGluZyBzeXN0ZW0geW91IGFyZSB1c2luZywgKGUuZy4sIFdpbmRvd3MgJzk4IG9yIE1hYyBPUykgDQoJCQkJYW5kIHRoZSBkb21haW4gbmFtZSBvZiB5b3VyIEludGVybmV0IHNlcnZpY2UgcHJvdmlkZXIgKGUuZy4sIEFtZXJpY2EgDQoJCQkJT25saW5lLCBFYXJ0aGxpbmspLjwvcD4NCgkJCSAgPHA+PHN0cm9uZz5Ib3cgV2UgVXNlIHRoaXMgSW5mb3JtYXRpb248L3N0cm9uZz48YnI+DQoNCgkJCQlXZSBtYXkgdXNlIHRoZSBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSBhYm91dCB5b3Vyc2VsZiB0byBmdWxmaWxsIA0KCQkJCXlvdXIgcmVxdWVzdHMgZm9yIG91ciBwcm9kdWN0cywgcHJvZ3JhbXMsIGFuZCBzZXJ2aWNlcywgdG8gcmVzcG9uZCANCgkJCQl0byB5b3VyIGlucXVpcmllcyBhYm91dCBvZmZlcmluZ3MsIGFuZCB0byBvZmZlciB5b3Ugb3RoZXIgcHJvZHVjdHMsIA0KCQkJCXByb2dyYW1zIG9yIHNlcnZpY2VzIHRoYXQgd2UgYmVsaWV2ZSBtYXkgYmUgb2YgaW50ZXJlc3QgdG8geW91LjwvcD4NCgkJCSAgPHA+V2Ugc29tZXRpbWVzIHVzZSB0aGlzIGluZm9ybWF0aW9uIHRvIGNvbW11bmljYXRlIHdpdGggeW91LCBzdWNoIA0KCQkJCWFzIHRvIG5vdGlmeSB5b3Ugd2hlbiB5b3UgaGF2ZSB3b24gb25lIG9mIG91ciBjb250ZXN0cy9zd2VlcHN0YWtlcy9kcmF3aW5ncyANCgkJCQlvciB3aGVuIHdlIG1ha2UgY2hhbmdlcyB0byBzdWJzY3JpYmVyIGFncmVlbWVudHMsIHRvIGZ1bGZpbGwgYSANCgkJCQlyZXF1ZXN0IGJ5IHlvdSBmb3IgYW4gb25saW5lIG5ld3NsZXR0ZXIsIG9yIHRvIGNvbnRhY3QgeW91IGFib3V0IA0KCQkJCXlvdXIgYWNjb3VudCB3aXRoIHVzLjwvcD4NCgkJCSAgPHA+V2UgdXNlIHRoZSBpbmZvcm1hdGlvbiB0aGF0IHlvdSBwcm92aWRlIGFib3V0IG90aGVycyB0byBlbmFibGUgDQoJCQkJdXMgdG8gc2VuZCB0aGVtIHlvdXIgZ2lmdHMgb3IgY2FyZHMuPC9wPg0KCQkJICA8cD5JZiB5b3UgY2hvb3NlIHRvIHN1Ym1pdCBjb250ZW50IGZvciBwdWJsaWNhdGlvbiAoZS5nLiwgYSAmcXVvdDtsZXR0ZXIgDQoJCQkJdG8gb3VyIGVkaXRvcnMmcXVvdDspLCB3ZSBtYXkgcHVibGlzaCB5b3VyIHNjcmVlbiBuYW1lIGFuZCBvdGhlciANCgkJCQlpbmZvcm1hdGlvbiB5b3UgaGF2ZSBwcm92aWRlZCB0byB1cy4gPC9wPg0KCQkJICA8cD5UaGUgaW5mb3JtYXRpb24gd2UgY29sbGVjdCBpbiBjb25uZWN0aW9uIHdpdGggb3VyIG9ubGluZSBmb3J1bXMgDQoJCQkJYW5kIGNvbW11bml0aWVzIGlzIHVzZWQgdG8gcHJvdmlkZSBhbiBpbnRlcmFjdGl2ZSBleHBlcmllbmNlLiANCgkJCQlXZSB1c2UgdGhpcyBpbmZvcm1hdGlvbiB0byBmYWNpbGl0YXRlIHBhcnRpY2lwYXRpb24gaW4gdGhlc2Ugb25saW5lIA0KCQkJCWZvcnVtcyBhbmQgY29tbXVuaXRpZXMgYW5kLCBmcm9tIHRpbWUgdG8gdGltZSwgdG8gb2ZmZXIgeW91IHByb2R1Y3RzLCANCgkJCQlwcm9ncmFtcywgb3Igc2VydmljZXMuPC9wPg0KDQoJCQkgIDxwPldlIHNvbWV0aW1lcyB1c2UgdGhlIG5vbi1wZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiANCgkJCQl0aGF0IHdlIGNvbGxlY3QgdG8gaW1wcm92ZSB0aGUgZGVzaWduIGFuZCBjb250ZW50IG9mIG91ciBzaXRlIA0KCQkJCWFuZCB0byBlbmFibGUgdXMgdG8gcGVyc29uYWxpemUgeW91ciBJbnRlcm5ldCBleHBlcmllbmNlLiBXZSBhbHNvIA0KCQkJCW1heSB1c2UgdGhpcyBpbmZvcm1hdGlvbiBpbiB0aGUgYWdncmVnYXRlIHRvIGFuYWx5emUgc2l0ZSB1c2FnZSwgDQoJCQkJYXMgd2VsbCBhcyB0byBvZmZlciB5b3UgcHJvZHVjdHMsIHByb2dyYW1zLCBvciBzZXJ2aWNlcy48L3A+DQoJCQkgIDxwPldlIHdpbGwgZGlzY2xvc2UgaW5mb3JtYXRpb24gd2UgbWFpbnRhaW4gd2hlbiByZXF1aXJlZCB0byBkbyANCgkJCQlzbyBieSBsYXcsIGZvciBleGFtcGxlLCBpbiByZXNwb25zZSB0byBhIGNvdXJ0IG9yZGVyIG9yIGEgc3VicG9lbmEuIA0KCQkJCVdlIGFsc28gbWF5IGRpc2Nsb3NlIHN1Y2ggaW5mb3JtYXRpb24gaW4gcmVzcG9uc2UgdG8gYSBsYXcgZW5mb3JjZW1lbnQgDQoJCQkJYWdlbmN5J3MgcmVxdWVzdC48L3A+DQoJCQkgIDxwPkFnZW50cyBhbmQgY29udHJhY3RvcnMgb2YgQm9iaXQgQnVzaW5lc3MgTWVkaWEgd2hvIGhhdmUgYWNjZXNzIA0KCQkJCXRvIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGFyZSByZXF1aXJlZCB0byBwcm90ZWN0IA0KCQkJCXRoaXMgaW5mb3JtYXRpb24gaW4gYSBtYW5uZXIgdGhhdCBpcyBjb25zaXN0ZW50IHdpdGggdGhpcyBQcml2YWN5IA0KCQkJCVBvbGljeSBieSwgZm9yIGV4YW1wbGUsIG5vdCB1c2luZyB0aGUgaW5mb3JtYXRpb24gZm9yIGFueSBwdXJwb3NlIA0KCQkJCW90aGVyIHRoYW4gdG8gY2Fycnkgb3V0IHRoZSBzZXJ2aWNlcyB0aGV5IGFyZSBwZXJmb3JtaW5nIGZvciBCb2JpdCANCgkJCQlCdXNpbmVzcyBNZWRpYS48L3A+DQoJCQkgIDxwPkFsdGhvdWdoIHdlIHRha2UgYXBwcm9wcmlhdGUgbWVhc3VyZXMgdG8gc2FmZWd1YXJkIGFnYWluc3QgdW5hdXRob3JpemVkIA0KCQkJCWRpc2Nsb3N1cmVzIG9mIGluZm9ybWF0aW9uLCB3ZSBjYW5ub3QgYXNzdXJlIHlvdSB0aGF0IHBlcnNvbmFsbHkgDQoJCQkJaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHRoYXQgd2UgY29sbGVjdCB3aWxsIG5ldmVyIGJlIGRpc2Nsb3NlZCANCgkJCQlpbiBhIG1hbm5lciB0aGF0IGlzIGluY29uc2lzdGVudCB3aXRoIHRoaXMgUHJpdmFjeSBQb2xpY3kuIEluYWR2ZXJ0ZW50IA0KCQkJCWRpc2Nsb3N1cmVzIG1heSByZXN1bHQsIGZvciBleGFtcGxlLCB3aGVuIHRoaXJkIHBhcnRpZXMgbWlzcmVwcmVzZW50IA0KCQkJCXRoZWlyIGlkZW50aXRpZXMgaW4gYXNraW5nIHRoZSBzaXRlIGZvciBhY2Nlc3MgdG8gcGVyc29uYWxseSBpZGVudGlmaWFibGUgDQoJCQkJaW5mb3JtYXRpb24gYWJvdXQgdGhlbXNlbHZlcyBmb3IgcHVycG9zZXMgb2YgY29ycmVjdGluZyBwb3NzaWJsZSANCgkJCQlmYWN0dWFsIGVycm9ycyBpbiB0aGUgZGF0YS48YnI+DQoJCQkJPHN0cm9uZz48YnI+DQoJCQkJPC9zdHJvbmc+IDxzdHJvbmc+UHJpdmFjeSBPcHRpb25zPC9zdHJvbmc+PGJyPg0KDQoJCQkJSWYgeW91IHByZWZlciBub3QgdG8gcmVjZWl2ZSBlLW1haWwgbWFya2V0aW5nIGluZm9ybWF0aW9uIGZyb20gDQoJCQkJQm9iaXQgQnVzaW5lc3MgTWVkaWEgc2l0ZXMgb3IgY29tcGFuaWVzIG5vdCBvd25lZCBieSBCb2JpdCBCdXNpbmVzcyANCgkJCQlNZWRpYSwgeW91IHdpbGwgYWx3YXlzIGhhdmUgYW4gb3B0aW9uIHRvIG9wdCBvdXQgd2l0aGluIHRoZSBlLW1haWwuIA0KCQkJCVlvdSBtYXkgYWxzbyByZXF1ZXN0IHRvIGJlIHJlbW92ZWQgYnkgPGEgaHJlZj0iaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9Db250YWN0VXMvIj5jbGlja2luZyANCgkJCQloZXJlPC9hPiBhbmQgZS1tYWlsaW5nIHVzLjwvcD4NCgkJCSAgPHA+RmluYWxseSwgQm9iaXQgQnVzaW5lc3MgTWVkaWEgc2l0ZXMgd2lsbCBub3QgdXNlIG9yIHRyYW5zZmVyIA0KCQkJCXBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHByb3ZpZGVkIHRvIHVzIGluIHdheXMgdW5yZWxhdGVkIA0KCQkJCXRvIHRoZSBvbmVzIGRlc2NyaWJlZCBhYm92ZSB3aXRob3V0IGFsc28gcHJvdmlkaW5nIHlvdSB3aXRoIGFuIA0KCQkJCW9wcG9ydHVuaXR5IHRvIG9wdCBvdXQgb2YgdGhlc2UgdW5yZWxhdGVkIHVzZXMuIDwvcD4NCgkJCSAgPHA+PHN0cm9uZz5Db2xsZWN0aW9uIG9mIEluZm9ybWF0aW9uIGJ5IFRoaXJkLVBhcnR5IFNpdGVzIGFuZCBTcG9uc29yczwvc3Ryb25nPjxicj4NCgkJCQlTb21lIG9mIG91ciBzaXRlcyBjb250YWluIGxpbmtzIHRvIG90aGVyIHNpdGVzIHdob3NlIGluZm9ybWF0aW9uIA0KCQkJCXByYWN0aWNlcyBtYXkgYmUgZGlmZmVyZW50IHRoYW4gb3Vycy4gVmlzaXRvcnMgc2hvdWxkIGNvbnN1bHQgDQoJCQkJdGhlIG90aGVyIHNpdGVzJyBwcml2YWN5IG5vdGljZXMsIGFzIHdlIGhhdmUgbm8gY29udHJvbCBvdmVyIGluZm9ybWF0aW9uIA0KCQkJCXRoYXQgaXMgc3VibWl0dGVkIHRvLCBvciBjb2xsZWN0ZWQgYnksIHRoZXNlIHRoaXJkIHBhcnRpZXMuPC9wPg0KCQkJICA8cD5Cb2JpdCBCdXNpbmVzcyBNZWRpYSBzaXRlcyBzb21ldGltZXMgbWF5IG9mZmVyIGNvbnRlc3RzLCBzd2VlcHN0YWtlcywgDQoJCQkJb3IgcHJvbW90aW9ucyB0aGF0IGFyZSBzcG9uc29yZWQgYnkgb3IgY28tc3BvbnNvcmVkIHdpdGggaWRlbnRpZmllZCANCgkJCQl0aGlyZCBwYXJ0aWVzLiBCeSB2aXJ0dWUgb2YgdGhlaXIgc3BvbnNvcnNoaXAsIHRoZXNlIHRoaXJkIHBhcnRpZXMgDQoJCQkJbWF5IG9idGFpbiBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB0aGF0IHZpc2l0b3JzIHZvbHVudGFyaWx5IA0KCQkJCXN1Ym1pdCB0byBwYXJ0aWNpcGF0ZSBpbiB0aGUgY29udGVzdCwgZHJhd2luZ3MsIHN3ZWVwc3Rha2VzLCBvciANCgkJCQlwcm9tb3Rpb24uIEJvYml0IEJ1c2luZXNzIE1lZGlhIGhhcyBubyBjb250cm9sIG92ZXIgdGhlIHRoaXJkLXBhcnR5IA0KCQkJCXNwb25zb3JzJyB1c2Ugb2YgdGhpcyBpbmZvcm1hdGlvbi4gVGhlIEJvYml0IEJ1c2luZXNzIE1lZGlhIHNpdGUgDQoJCQkJd2lsbCBub3RpZnkgeW91IGF0IHRoZSB0aW1lIG9mIHJlcXVlc3RpbmcgcGVyc29uYWxseSBpZGVudGlmaWFibGUgDQoJCQkJaW5mb3JtYXRpb24gaWYgdGhpcmQtcGFydHkgc3BvbnNvcnMgd2lsbCBvYnRhaW4gc3VjaCBpbmZvcm1hdGlvbi48L3A+DQoNCgkJCSAgPHA+Qm9iaXQgQnVzaW5lc3MgTWVkaWEgc2l0ZXMgbWF5IHVzZSByZXB1dGFibGUgdGhpcmQgcGFydGllcyB0byANCgkJCQlwcmVzZW50IG9yIHNlcnZlIHRoZSBhZHZlcnRpc2VtZW50cyB0aGF0IHlvdSBtYXkgc2VlIGF0IGl0cyB3ZWIgDQoJCQkJcGFnZXMgYW5kIHRvIGNvbmR1Y3QgcmVzZWFyY2ggYWJvdXQgdGhlIGFkdmVydGlzZW1lbnRzLiBPdXIgcHJpdmFjeSANCgkJCQlwb2xpY3kgZG9lcyBub3QgY292ZXIgYW55IHVzZSBvZiBpbmZvcm1hdGlvbiB0aGF0IHN1Y2ggdGhpcmQgcGFydGllcyANCgkJCQltYXkgaGF2ZSBjb2xsZWN0ZWQgZnJvbSB5b3Ugb3IgdGhlIG1ldGhvZHMgdXNlZCBieSB0aGUgdGhpcmQtcGFydGllcyANCgkJCQl0byBjb2xsZWN0IHRoYXQgaW5mb3JtYXRpb24gKGUuZy4sIGNvb2tpZXMsIHdlYiBiZWFjb25zIGFuZCBjbGVhciANCgkJCQlnaWZzKS48YnI+DQoJCQkJPHN0cm9uZz48YnI+DQoJCQkJPC9zdHJvbmc+IDxzdHJvbmc+Q29va2llczwvc3Ryb25nPjxicj4NCgkJCQlUbyBlbmhhbmNlIHlvdXIgZXhwZXJpZW5jZSB3aXRoIG91ciBzaXRlcywgbWFueSBvZiBvdXIgd2ViIHBhZ2VzIA0KCQkJCXVzZSAmcXVvdDtjb29raWVzLiZxdW90OyBDb29raWVzIGFyZSB0ZXh0IGZpbGVzIHdlIHBsYWNlIGluIHlvdXIgDQoJCQkJY29tcHV0ZXIncyBicm93c2VyIHRvIHN0b3JlIHlvdXIgcHJlZmVyZW5jZXMuIENvb2tpZXMsIGJ5IHRoZW1zZWx2ZXMsIA0KCQkJCWRvIG5vdCB0ZWxsIHVzIHlvdXIgZS1tYWlsIGFkZHJlc3Mgb3Igb3RoZXIgcGVyc29uYWxseSBpZGVudGlmaWFibGUgDQoJCQkJaW5mb3JtYXRpb24gdW5sZXNzIHlvdSBjaG9vc2UgdG8gcHJvdmlkZSB0aGlzIGluZm9ybWF0aW9uIHRvIHVzIA0KCQkJCWJ5LCBmb3IgZXhhbXBsZSwgcmVnaXN0ZXJpbmcgYXQgb25lIG9mIG91ciBzaXRlcy4gSG93ZXZlciwgb25jZSANCgkJCQl5b3UgY2hvb3NlIHRvIGZ1cm5pc2ggdGhlIHNpdGUgd2l0aCBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiwgDQoJCQkJdGhpcyBpbmZvcm1hdGlvbiBtYXkgYmUgbGlua2VkIHRvIHRoZSBkYXRhIHN0b3JlZCBpbiB0aGUgY29va2llLjwvcD4NCgkJCSAgPHA+V2UgdXNlIGNvb2tpZXMgdG8gdW5kZXJzdGFuZCBzaXRlIHVzYWdlIGFuZCB0byBpbXByb3ZlIHRoZSBjb250ZW50IA0KCQkJCWFuZCBvZmZlcmluZ3Mgb24gb3VyIHNpdGVzLiBGb3IgZXhhbXBsZSwgd2UgbWF5IHVzZSBjb29raWVzIHRvIA0KCQkJCXBlcnNvbmFsaXplIHlvdXIgZXhwZXJpZW5jZSBhdCBvdXIgd2ViIHBhZ2VzIChlLmcuIHRvIHJlY29nbml6ZSANCgkJCQl5b3UgYnkgbmFtZSB3aGVuIHlvdSByZXR1cm4gdG8gb3VyIHNpdGUpLCBzYXZlIHlvdXIgcGFzc3dvcmQgaW4gDQoJCQkJcGFzc3dvcmQtcHJvdGVjdGVkIGFyZWFzLCBhbmQgZW5hYmxlIHlvdSB0byB1c2Ugc2hvcHBpbmcgY2FydHMgDQoJCQkJb24gb3VyIHNpdGVzLiBXZSBhbHNvIG1heSB1c2UgY29va2llcyB0byBvZmZlciB5b3UgcHJvZHVjdHMsIHByb2dyYW1zLCANCgkJCQlvciBzZXJ2aWNlcy48L3A+DQoNCgkJCSAgPHA+V2UgbWF5IGFsc28gdXNlIHNtYWxsIHBpZWNlcyBvZiBjb2RlIGNhbGxlZCAmcXVvdDt3ZWIgYmVhY29ucyZxdW90OyANCgkJCQlvciAmcXVvdDtjbGVhciBnaWZzJnF1b3Q7IHRvIGNvbGxlY3QgYW5vbnltb3VzIGFuZCBhZ2dyZWdhdGUgYWR2ZXJ0aXNpbmcgDQoJCQkJbWV0cmljcywgc3VjaCBhcyBjb3VudGluZyBwYWdlIHZpZXdzLCBwcm9tb3Rpb24gdmlld3MsIG9yIGFkdmVydGlzaW5nIA0KCQkJCXJlc3BvbnNlcy4gVGhlc2UgJnF1b3Q7d2ViIGJlYWNvbnMmcXVvdDsgbWF5IGJlIHVzZWQgdG8gZGVsaXZlciANCgkJCQljb29raWVzIHRoYXQgY29uZm9ybSB0byBvdXIgY29va2llIHBvbGljeS4gPC9wPg0KCQkJICA8cD48c3Ryb25nPk91ciBDb21taXRtZW50IHRvIFNlY3VyaXR5PC9zdHJvbmc+PGJyPg0KCQkJCVdlIGhhdmUgcHV0IGluIHBsYWNlIGFwcHJvcHJpYXRlIHBoeXNpY2FsLCBlbGVjdHJvbmljLCBhbmQgbWFuYWdlcmlhbCANCgkJCQlwcm9jZWR1cmVzIHRvIHNhZmVndWFyZCBhbmQgaGVscCBwcmV2ZW50IHVuYXV0aG9yaXplZCBhY2Nlc3MsIA0KCQkJCW1haW50YWluIGRhdGEgc2VjdXJpdHksIGFuZCBjb3JyZWN0bHkgdXNlIHRoZSBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IA0KCQkJCW9ubGluZS4gPC9wPg0KDQoJCQkgIDxwPjxzdHJvbmc+SG93IFlvdSBjYW4gQWNjZXNzIG9yIENvcnJlY3QgSW5mb3JtYXRpb248L3N0cm9uZz48YnI+DQoJCQkJRm9yIGluc3RydWN0aW9ucyBvbiBob3cgeW91IGNhbiBhY2Nlc3MgdGhlIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIA0KCQkJCWluZm9ybWF0aW9uIHRoYXQgdGhpcyBCb2JpdCBCdXNpbmVzcyBNZWRpYSBzaXRlIGhhcyBjb2xsZWN0ZWQgDQoJCQkJYWJvdXQgeW91IG9ubGluZSwgb3IgaG93IHRvIGNvcnJlY3QgZmFjdHVhbCBlcnJvcnMgaW4gc3VjaCBpbmZvcm1hdGlvbiwgDQoJCQkJcGxlYXNlIGVtYWlsIHVzIGJ5IDxhIGhyZWY9Imh0dHA6Ly93d3cubW9kZXJudGlyZWRlYWxlci5jb20vQ29udGFjdFVzLyI+Y2xpY2tpbmcgDQoJCQkJaGVyZTwvYT4uIDxicj4NCgkJCQk8YnI+DQoJCQkJVG8gcHJvdGVjdCB5b3VyIHByaXZhY3kgYW5kIHNlY3VyaXR5LCB3ZSB3aWxsIHRha2UgcmVhc29uYWJsZSANCgkJCQlzdGVwcyB0byBoZWxwIHZlcmlmeSB5b3VyIGlkZW50aXR5IGJlZm9yZSBncmFudGluZyBhY2Nlc3Mgb3IgbWFraW5nIA0KCQkJCWNvcnJlY3Rpb25zLiA8L3A+DQoJCQkgIDxwPjxzdHJvbmc+UG9saWN5IENoYW5nZXM8L3N0cm9uZz48YnI+DQoJCQkJTWFrZSBzdXJlIHRvIGNoZWNrIHRoaXMgcGFnZSB0byBlbnN1cmUgeW91IHN0YXkgaW5mb3JtZWQgYWJvdXQgDQoJCQkJYW55IHBvbGljeSBjaGFuZ2VzIHRoYXQgbWF5IHRha2UgcGxhY2UuPC9wPg0KDQoJCQkgIDxwPjxzdHJvbmc+SG93IHRvIENvbnRhY3QgVXM8L3N0cm9uZz48YnI+DQoJCQkJSWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJucyBhYm91dCB0aGUgQm9iaXQgQnVzaW5lc3MgDQoJCQkJTWVkaWEgb25saW5lIHBvbGljeSBmb3IgdGhpcyBzaXRlIG9yIGl0cyBpbXBsZW1lbnRhdGlvbiBwbGVhc2UgDQoJCQkJY29udGFjdCB1cyB2aWEgZW1haWwgYnkgPGEgaHJlZj0iaHR0cDovL3d3dy5tb2Rlcm50aXJlZGVhbGVyLmNvbS9Db250YWN0VXMvIj5jbGlja2luZyANCgkJCQloZXJlPC9hPiBvciBhdCB0aGUgZm9sbG93aW5nIGFkZHJlc3M6PC9wPg0KCQkJICA8cD5Cb2JpdCBCdXNpbmVzcyBNZWRpYTxicj4NCgkJCQlBdHRlbnRpb246IFdlYiBTZXJ2aWNlczxicj4NCgkJCQkzNTIwIENoYWxsZW5nZXIgU3RyZWV0PGJyPg0KDQoJCQkJVG9ycmFuY2UgQ0EgOTA1MDM8L3A+DQpkAgkPZBYCZg8WAh8EBZcIPHNjcmlwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdCI+DQpkb2N1bWVudC53cml0ZSgnPHNjcicrJ2lwdCBsYW5ndWFnZT0iSmF2YXNjcmlwdDEuMSIgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2Fkai9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9NDtwb3M9Ym90dG9tO2Rjb3B0PWlzdDthYnI9IXdlYnR2O3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICc/Ij48L3NjcicrJ2lwdD4nKTsNCjwvc2NyaXB0Pg0KPHNjcmlwdD4NCjwhLS0NCmlmICgoIWRvY3VtZW50LmltYWdlcyAmJiBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ01vemlsbGEvMi4nKSA+PSAwKSB8fCBuYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoIldlYlRWIikgPj0gMCkgew0KZG9jdW1lbnQud3JpdGUoJzxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9NDtwb3M9Ym90dG9tO3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICciIHRhcmdldD0iX2JsYW5rIj4nKTsNCmRvY3VtZW50LndyaXRlKCc8aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9NDtwb3M9Ym90dG9tO3N6PTcyOHg5MDtvcmQ9JyArIG9yZCArICciIHdpZHRoPSI3MjgiIGhlaWdodD0iOTAiIGJvcmRlcj0iMCIgYWx0PSIiPjwvYT4nKTsNCn0NCi8vLS0+DQo8L3NjcmlwdD4NCjxub3NjcmlwdD4NCjxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9NDtwb3M9Ym90dG9tO3N6PTcyOHg5MDtvcmQ9MTM1NDI3NzU1IiB0YXJnZXQ9Il9ibGFuayI+DQo8aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9tb2Rlcm50aXJlZGVhbGVyLnRtdXMvb3RoZXJzO3RpbGU9NDtwb3M9Ym90dG9tO3N6PTcyOHg5MDtvcmQ9MTM1NDI3NzU1IiB3aWR0aD0iNzI4IiBoZWlnaHQ9IjkwIiBib3JkZXI9IjAiIGFsdD0iIj48L2E+DQo8L25vc2NyaXB0Pg0KZAIKDw8WAh8EBQQyMDA5ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFEGN0bDAwJGJ0bkVuZXdzR28FGmN0bDAwJFNlYXJjaEJhcjEkYnRuU2VhcmNo20KBEKW2MDNu1B0mGUdJhDMxfvY=">
 
 
-
-
-<style>
-/* For drop downs */
-.menu .options {
-	font-size:11px;
-		font-family:arial, sans-serif;
-		color:#444444;
-		margin-right:1px;
-		margin-bottom:1px;
-		border:1px solid #CC6600;
-		background-color:#ffffff;
-	}
-	.menu a {
-		color:#000066;
-		display:block;
-		padding:2px 10px;
-		text-decoration:none;
-		background-color:transparent;
-	}
-	.menu a:hover {
-		background-color:#E6E6CC;
-		color:#000066;
-	}
-
-	#about {
-		position:absolute;
-		left:5px;
-		top:200px;
-		visibility:hidden
-	}
-</style>
-
-
-<script language="javascript" src="scripts/menus.js"></script>
-
-<script language="javascript">
-	new dropMenu('news', 'right', 151, 116, 150, 240)
-</script><style type="text/css">#newsContainer { visibility:hidden; left:151px; top:116px; overflow:hidden; z-index:10000; }#newsContainer, #newsContent { position:absolute; width:150px; height:240px; clip:rect(0 150 240 0); }</style>
-
-<div id="newsContainer" style="visibility: hidden;">
-	<div id="newsContent" class="menu" style="left: -150px;">
-		<div class="options">
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=news_list&amp;sec_id=2">Breaking News</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=news_archive">Archives</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=suggestion">Suggest a Story</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=enews_signup">E-newsletter</a>
-		</div>
-	</div>
-</div>
-
-<script language="javascript">
-	new dropMenu('themagazine', 'right', 151, 132, 150, 240)
-</script><style type="text/css">#themagazineContainer { visibility:hidden; left:151px; top:132px; overflow:hidden; z-index:10000; }#themagazineContainer, #themagazineContent { position:absolute; width:150px; height:240px; clip:rect(0 150 240 0); }</style>
-
-<div id="themagazineContainer" style="visibility: hidden;">
-	<div id="themagazineContent" class="menu" style="left: -150px;">
-		<div class="options">
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=magazine">Current Issue</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=art_archive">Archives</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=edit_index">Editorial Index</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=suggestion">Suggest a Story</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=subscribe">Subscribe</a>
-		</div>
-	</div>
-</div>
-
-<script language="javascript">
-	new dropMenu('industryresources', 'right', 151, 149, 150, 240)
-</script><style type="text/css">#industryresourcesContainer { visibility:hidden; left:151px; top:149px; overflow:hidden; z-index:10000; }#industryresourcesContainer, #industryresourcesContent { position:absolute; width:150px; height:240px; clip:rect(0 150 240 0); }</style>
-
-<div id="industryresourcesContainer" style="visibility: hidden;">
-	<div id="industryresourcesContent" class="menu" style="left: -150px;">
-		<div class="options">
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=research">Research &amp; Statistics</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=calendar">Calendar of Events</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=webpoll_past">Quick Polls</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=NHTSA">DOT Code Listings</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=NHTSA">NHTSA Information</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=NHTSA">Recall Information</a>
-		</div>
-	</div>
-</div>
-
-<script language="javascript">
-	new dropMenu('finance', 'right', 151, 166, 150, 240)
-</script><style type="text/css">#financeContainer { visibility:hidden; left:151px; top:166px; overflow:hidden; z-index:10000; }#financeContainer, #financeContent { position:absolute; width:150px; height:240px; clip:rect(0 150 240 0); }</style>
-
-<div id="financeContainer" style="visibility: hidden;">
-	<div id="financeContent" class="menu" style="left: -150px;">
-		<div class="options">
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=finance">Current Financial Results</a>
-			<a href="http://www.moderntiredealer.com/t_inside.cfm?action=finance_archive">Finance Archives</a>
-		</div>
-	</div>
-</div>
-
-<script language="javascript">
-	new dropMenu('careers', 'right', 151, 183, 150, 240)
-</script><style type="text/css">#careersContainer { visibility:hidden; left:151px; top:183px; overflow:hidden; z-index:10000; }#careersContainer, #careersContent { position:absolute; width:150px; height:240px; clip:rect(0 150 240 0); }</style>
-
-<div id="careersContainer" style="visibility: hidden;">
-	<div id="careersContent" class="menu" style="left: -150px;">
-		<div class="options">
-			<a href="http://www.moderntiredealer.com/http://www.bobit.com/bobit/career.cfm">Careers At MTD</a>
-			<a href="http://www.moderntiredealer.com/classifieds/index.cfm?action=classifieds&amp;type=psearch&amp;cid=1002">Jobs On eClassifieds</a>
-		</div>
-	</div>
-</div>
-
-
-
-
-<script language="JavaScript" type="Text/Javascript">
+<script src="/ScriptResource.axd?d=_Ht9oNSSPt3nV-nJ6GewdSklgEVX6vq3ok-Oe26UgkTrNYuZVBU5DH4In-AAoO2L-vN81gU4syLsUHztPHLugMDL5IaxdEDG0E0vARS1ko01&amp;t=633070553307178898" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oruzfd3uIkq_xak0421E2SKvUIWdBy_WDn6_QJxiyA5QSACK62TZDcsSJVkTST6yaXZ6WiCY6ujgBf5Tks9q_w2&amp;t=633649584128522500" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oruzfd3uIkq_xak0421E2SKvUIWdBy_WDn6_QJxiyA5JFi2TCnKrV852MwnSHIv-s6bTz8sTWPiGN3Bmv1GuCg5H3yylQM_1vW_dONYvYhg1&amp;t=633649584128522500" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oruzfd3uIkq_xak0421E2SKvUIWdBy_WDn6_QJxiyA4uBVF3SAjTaizly3Asm_t2mZAoydRfZgoordBzKBQd8PIpklRI60aw_-jmBSVPVh41&amp;t=633649584128522500" type="text/javascript"></script>
+    
+<div id="container">
+	<div id="content">
+		<div id="top_ad_space">
+		    <script language="Javascript">
+document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=1;pos=top;dcopt=ist;abr=!webtv;sz=728x90;ord=' + ord + '?"></scr'+'ipt>');
+</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=1;pos=top;dcopt=ist;abr=!webtv;sz=728x90;ord=35152750306030490?"></script>
+<script>
 <!--
-// Hide script from older browsers
-// script by http://www.hypergurl.com
-var urlAddress = "http://www.moderntiredealer.com/";
-var pageName = "Modern Tire Dealer";
-function addToFavorites() {
-	if (window.sidebar) { // Mozilla Firefox Bookmark
-		window.sidebar.addPanel(pageName, urlAddress,"");
-	} else if( window.external ) { // IE Favorite
-		window.external.AddFavorite( urlAddress, pageName); }
-	else if(window.opera && window.print) { // Opera Hotlist
-		return true; }
-	else {
-		alert("Sorry! Your browser doesn't support this function."); 
-	}
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=1;pos=top;sz=728x90;ord=' + ord + '" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=1;pos=top;sz=728x90;ord=' + ord + '" width="728" height="90" border="0" alt=""></a>');
 }
-// -->
+//-->
 </script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="000000"> 
-	<td width="8"><img src="images/design/spacer.gif" width="8" height="8"></td>
-	<td width="137"><a href="http://www.moderntiredealer.com"><img src="images/design/logo_moderntiredealer.gif" border="0" width="137" height="97"></a></td>
-	<td align="right" width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td align="right" id="emailpage">
-			  <a href="http://www.moderntiredealer.com/t_inside.cfm?action=efriend"><img src="images/design/button_e-mailFriend.gif" alt="e-mail page to a friend" border="0"></a><a href="javascript:addToFavorites()"><img src="images/design/button_bookmark.gif" alt="bookmark this site" border="0"></a><br>
-			  <img src="images/design/spacer.gif" width="841" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td align="right"><img src="images/design/header_tread_b.jpg" width="234" height="17"><a href="http://www.moderntiredealer.com/t_inside.cfm?action=subscribe"><img src="images/design/header_nav_subscribe.gif" width="94" height="17" border="0"></a><a href="http://www.moderntiredealer.com/t_inside.cfm?action=enews_signup"><img src="images/design/header_nav_enewsletter.gif" width="91" height="17" border="0"></a><a href="http://www.moderntiredealer.com/t_inside.cfm?action=advertise"><img src="images/design/header_nav_advertise.gif" width="90" height="17" border="0"></a><a href="http://www.moderntiredealer.com/t_inside.cfm?action=contactus"><img src="images/design/header_nav_contact.gif" width="93" height="17" border="0"></a><img src="images/design/header_tread_c.jpg" width="12" height="17"></td>
-		</tr>
-		</tbody></table></td>
-	<td width="1" bgcolor="CC6600"><img src="images/design/spacer.gif" width="1" height="1"></td>
-	<td width="15" background="images/design/right_fade.jpg"><img src="images/design/spacer.gif" width="15" height="1"></td>
-</tr>
-</tbody></table>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=1;pos=top;sz=728x90;ord=135427755" target="_blank">
+<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=1;pos=top;sz=728x90;ord=135427755" width="728" height="90" border="0" alt=""></a>
+</noscript>
 
-
-
-<table width="100%" height="14" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td height="14" background="images/design/header_bg.gif"><a href="http://www.moderntiredealer.com/t_home.cfm"><img src="images/design/nav_home.jpg" width="151" height="14" border="0"></a><img src="images/design/header_corner_tl.gif" width="10" height="14"></td>
-	<td width="1" height="14" bgcolor="CC6600"><img src="images/design/spacer.gif" width="1" height="1"></td>
-	<td width="15" background="images/design/right_fade.jpg"><img src="images/design/spacer.gif" width="15" height="1"></td>
-</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="151" valign="top" bgcolor="999966">
-		
- 		
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-	<td valign="top"><img src="images/design/nav_div.jpg" width="151" height="4"><br>
-		<a href="http://www.moderntiredealer.com/t_inside.cfm?action=news_list" onmouseover="dropMenu.showMenu('news');" onmouseout="dropMenu.hideMenu('news')"><img src="images/design/nav_news.gif" width="151" height="17" border="0"></a><br>
-		<a href="http://www.moderntiredealer.com/t_inside.cfm?action=magazine" onmouseover="dropMenu.showMenu('themagazine');" onmouseout="dropMenu.hideMenu('themagazine')"><img src="images/design/nav_theMagazine.gif" width="151" height="17" border="0"></a><br>
-		<a href="http://www.moderntiredealer.com/t_inside.cfm?action=research" onmouseover="dropMenu.showMenu('industryresources');" onmouseout="dropMenu.hideMenu('industryresources')"><img src="images/design/nav_industryResources.gif" width="151" height="17" border="0"></a><br>
-		<a href="http://www.moderntiredealerdirectory.com"><img src="images/design/header_nav_directories.gif" border="0" width="151" height="17"></a><br>
-		<a href="http://www.moderntiredealer.com/classifieds/index.cfm?action=classifieds&amp;type=psearch&amp;cid=1002"><img src="images/design/header_nav_careersJobs.gif" border="0" width="151" height="17"></a><br>
-		<a href="http://www.moderntiredealer.com/classifieds/index.cfm?action=classifieds"><img src="images/design/header_nav_classifieds.gif" border="0" width="151" height="17"></a><br>
-		<a href="http://www.moderntiredealer.com/t_inside.cfm?action=performancehb_list"><img src="images/design/header_nav_performanceHB.gif" border="0" width="151" height="17"></a><br>
-      <a href="https://secure2.bobitweb.com/moderntiredealer/t_ktrSignUp.cfm"><img src="images/design/header_nav_kovachTireReport2.gif" border="0" width="151" height="17"></a><br>
-      <a href="http://www.moderntiredealer.com/t_inside.cfm?action=mtdoya"><img src="images/design/header_nav_doty.gif" border="0" width="151" height="17"></a></td>
-</tr>
-</tbody></table>
-
-
-<img src="images/design/spacer.gif" width="151" height="5"><br>
-
- 
-		
- 		
-
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-	<td width="6" rowspan="3"><img src="images/design/spacer.gif" width="6" height="1"></td>
-	<td width="8" height="8"><img src="images/design/side_corner_tl.gif" width="8" height="8"></td>
-	<td height="8" background="images/design/side_top_bg.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-</tr>
-<tr> 
-	<td width="8" background="images/design/side_left_bg.gif"><img src="images/design/spacer.gif" width="8" height="1"></td>
-	<td align="center" valign="top" bgcolor="E6E6CC"><table cellpadding="2" cellspacing="0" border="0" width="90%">
-        <tbody><tr> 
-          <td align="left" valign="middle"><img src="images/design/btn_email.gif" border="0" width="20" height="20"></td>
-          <td align="left" valign="middle"><a href="#" onclick="window.open('http://www.moderntiredealer.com/ind_tire_form.cfm','PopUpForm','scrollbars=yes,width=620,height=600');" class="toolBar"><font color="#CC0000"><strong>ATTN: 
-            Independent Tire Dealers:</strong></font> Send Your Latest News Items 
-            To The MTD Team</a></td>
-        </tr>
-      </tbody></table></td>
-</tr>
-<tr> 
-	<td width="8" height="8"><img src="images/design/side_corner_bl.gif" width="8" height="8"></td>
-	<td height="8" background="images/design/side_bot_bg.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-</tr>
-</tbody></table>
-
-
-<img src="images/design/spacer.gif" width="151" height="5"><br>
-
-		
- 		
-
-
-
-
-
+			<div id="newsletterbox">
+			    <div id="ctl00_pnlNewsletterBox">
 	
-
-
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:3px;">
-<tbody><tr> 
-	<td width="6" rowspan="3"><img src="images/design/spacer.gif" width="6" height="1"></td>
-	<td width="8" height="8"><img src="images/design/side_corner_tl.gif" width="8" height="8"></td>
-	<td height="8" background="images/design/side_top_bg.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-</tr>
-<tr>
-	<td width="8" background="images/design/side_left_bg.gif"><img src="images/design/spacer.gif" width="8" height="1"></td>
-	<td bgcolor="E6E6CC" class="toolBar">
-	<img src="images/design/header_upcomingEvents.gif" width="95" height="10"><br><br>
-	sponsored by<br>
-	<a href="http://www.trelleborg.com/wheelsystems" target="_blank"><img src="images/logos/logo_events_130_10.gif" border="0" width="130"></a><br><br>
-	
-
-10/14/2008<br>
-		<a href="t_inside.cfm?action=calendar&amp;eventID=1329&amp;tm=10&amp;ty=2008">Rubber Division, American Chemical Society, 174th Technical Meeting and Mini Expo</a><br>
-<br>
-
-10/14/2008<br>
-		<a href="t_inside.cfm?action=calendar&amp;eventID=1339&amp;tm=10&amp;ty=2008">Standards Testing Laboratories (STL)  Trans Tech 2008 Tire Technology Seminar</a><br>
-<br>
-
-11/02/2008<br>
-		<a href="t_inside.cfm?action=calendar&amp;eventID=1330&amp;tm=11&amp;ty=2008">National Automotive Radiator Service Association 56th Annual Convention and Trade Show</a><br>
-<br>
-	
-	
-       <div id="rednote"><a href="t_inside.cfm?action=calendar">Click here</a> to view full Calendar</div></td>
-</tr>
-<tr> 
-	<td width="8" height="8"><img src="images/design/side_corner_bl.gif" width="8" height="8"></td>
-	<td height="8" background="images/design/side_bot_bg.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-</tr>
-</tbody></table>
-
-<img src="images/design/spacer.gif" width="151" height="5"><br>
-
- 
-		
-		<!-- Tire Rack Banner -->
-		
-		<!-- /Tire Rack Banner -->
-		
-				
-		
-
-<div align="center">
-<a href="http://www.moderntiredealerdirectory.com" target="_blank"><img src="images/ads/ad_mtd_Dir_140x120.gif" border="0" width="140" height="120" alt="MTD Online Directory"></a>
-<br><br>
-<a href="http://www.moderntiredealer.com/quiklink" target="_blank"><img src="images/ads/quiklink-140x200-20080908.gif" border="0" alt="Quik-Link : Free Product Info"></a>
-<br><br>
+			        Be Informed : Stay Current<br>
+			        <strong>Free Weekly Hotwire E-News</strong>
+			        <input name="ctl00$txtNewsletter" type="text" id="ctl00_txtNewsletter">
+			        <input type="image" name="ctl00$btnEnewsGo" id="ctl00_btnEnewsGo" class="newsletter_butt" src="/_Images/_Design/butt_signup.gif" alt="Signup Now!" border="0">
+			        <input type="hidden" name="ctl00$TBWE2_ClientState" id="ctl00_TBWE2_ClientState">
+			    
 </div>
+			</div>
+		</div><!-- top_ad_space -->
+		<div id="header">
+		    <div style="height:120px">
+		        <a href="http://www.moderntiredealer.com"><img src="/_Images/_Design/header.gif" alt="" border="0" style="border:0px"></a>
+		    </div>
+			
+<div class="menu">
+    <ul>
+	    <li><a class="" href="http://www.moderntiredealer.com/">home</a></li>
+	    <li><a class="" href="http://www.moderntiredealer.com/News/List.aspx">news<!--[if IE 7]><!--></a><!--<![endif]-->
+	    <!--[if lte IE 6]><table><tr><td><![endif]-->
+		    <ul>
+		        <li><a href="http://www.moderntiredealer.com/News/List/Type/Breaking-News.aspx">breaking news</a></li>
+		        <li><a href="http://www.moderntiredealer.com/News/List/Type/Industry-News.aspx">industry news</a></li>
+		        <li><a href="http://www.moderntiredealer.com/News/List/Type/Racing-News.aspx">racing news</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Stocks/">stocks</a></li>
+		    </ul>
+	    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	    </li>
+	    <li><a class="" href="http://www.moderntiredealer.com/Magazine/Current-Issue.aspx">articles<!--[if IE 7]><!--></a><!--<![endif]-->
+	    <!--[if lte IE 6]><table><tr><td><![endif]-->
+		    <ul>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Features.aspx">feature stories</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Commercial-Tire-Dealer.aspx">commercial tire dealer</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/By-The-Numbers.aspx">by the numbers</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Focus-On-The-Industry.aspx">focus on the industry</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Your-Turn.aspx">your turn</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Ludwig-Report.aspx">ludwig report</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/TPMS.aspx">tpms</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Parting-Shot.aspx">parting shot</a></li>
+                <li><a href="http://www.moderntiredealer.com/Article/List/Type/Section/Bob-Ulrichs-Editorial.aspx">Bob Ulrich's Editorial</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Magazine/Past-Issues.aspx">past issues</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Content/Subscription-Services.aspx">subscribe</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Dealer-Of-The-Year/Dealer-Profile.aspx">dealer of the year</a></li>
+		    </ul>
+	    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	    </li>
+	    <li><a class="" href="http://www.moderntiredealer.com/Channel/Default.aspx">channels<!--[if IE 7]><!--></a><!--<![endif]-->
+	    <!--[if lte IE 6]><table><tr><td><![endif]-->
+		    <ul>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Retailing.aspx">Retailing</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Wholesale-distributing.aspx">Wholesale / distributing</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Performance.aspx">Performance</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Commercial.aspx">Commercial</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Suppliers.aspx">Suppliers</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Technology.aspx">Technology</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Auto-Service.aspx">Auto Service</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Channel/Products.aspx">products</a></li>
+		    </ul>
+	    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	    </li>
+	    <li><a class="" href="http://www.moderntiredealer.com/Content/Industry-Resources.aspx">industry resources<!--[if IE 7]><!--></a><!--<![endif]-->
+	    <!--[if lte IE 6]><table><tr><td><![endif]-->
+		    <ul>
+			    <li><a href="http://www.moderntiredealer.com/Events/">calendar of events</a></li>
+			    <li><a href="http://www.moderntiredealer.com/WebPoll/">polls</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Content/NHTSA-Resources.aspx">nhtsa resources</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Stats">Research &amp; Stats</a></li>
+			    <li><a href="https://secure2.bobitweb.com/moderntiredealer-ktr/t_ktrSignUp.cfm">kovach tire report</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Uploads/Type/Documents-White-Papers.aspx">documents / white papers</a></li>
+		    </ul>
+	    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	    </li>
+	    <li><a class="" href="http://www.moderntiredealer.com/Blog/">blog<!--[if IE 7]><!--></a><!--<![endif]-->
+	    <!--[if lte IE 6]><table><tr><td><![endif]-->
+		    <ul>
+			    <li><a href="http://www.moderntiredealer.com/Blog/B-O-B.aspx">B.O.B.</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Blog/Lori-s-Listening.aspx">Lori's Listening</a></li>
+			    <li><a href="http://www.moderntiredealer.com/Blog/Tire-Talk-with-Mike.aspx">Tire Talk with Mike</a></li>
+		    </ul>
+	    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	    </li>
+	    <li><a class="" href="http://www.moderntiredealer.com/FAQ/">tire faq</a></li>
+	    <li><a class="" href="http://www.moderntiredealer.com/Classifieds/">classifieds</a></li>
+	    <li><a class="" href="http://www.moderntiredealerdirectory.com/" target="_blank">products</a></li>
+	    <li>
+	        <a class="" href="http://www.moderntiredealer.com/MTDTV/">
+	        MTD
+	        <img src="/_Images/_Design/tv_icon_32x32.gif" alt="" align="absmiddle">
+	        </a>
+	    </li>
+    </ul>
+</div><!-- menu -->
 
+			<div class="bubbleInfo">
+			<span class="trigger"><img src="http://www.moderntiredealer.com/_Images/issues/S-MAR-cvr94.jpg" id="ctl00_coverSmallImage" width="94" height="128" alt="Magazine Cover"></span>
+				<div class="popup" style="opacity: 0;">
+					<span class="popup_cover"><a href="http://www.moderntiredealer.com/Subscribe/"><img src="http://www.moderntiredealer.com/_Images/issues/MAR-cvr177.jpg" id="ctl00_coverLargeImage" width="177" height="241"></a></span>
+					<span class="popup_butt"><a href="http://www.moderntiredealer.com/Subscribe/" target="_blank"><img src="/_Images/_Design/bubble_butt_2.gif" width="194" height="63" alt="Subscribe Today!"></a></span>
+				</div><!-- popup -->
+			&nbsp;&nbsp;&nbsp;&nbsp;April 06, 2009<br><br>
+			&nbsp;&nbsp;<img src="/_Images/_Design/icon_white_arrows.gif" alt=""><a href="http://www.moderntiredealer.com/Subscribe" target="_blank">Subscribe Today!</a><br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.moderntiredealer.com/Content/Subscription-Services.aspx">Subscription Services</a><br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.moderntiredealer.com/Advertise/">Advertise</a><br>
+			</div><!-- bubbleInfo -->	
+		</div><!-- header -->
+		
+		<div id="ctl00_SearchBar1_pnlSearch" class="searchbar">
+	
+	<img src="/_Images/_Design/img_breaknews.gif" width="134" height="24" alt="Breaking News" class="middle" style="float:left">
+	<div style="float:left;width:585px;margin-top:3px;">
+	    &nbsp;&nbsp;<a class="txt_breaknews" id="tickerLink" href="http://www.moderntiredealer.com/News/Story/2009/04/ATD-wants-to-sell-Am-Pac-retail-stores.aspx">ATD wants to sell AM-PAC retail stores</a>
+	    <span id="imgCursor" style="display: none;"><img src="/_Images/_Design/tickerCursor.gif" alt=""></span>
+	</div>
+	<span id="searchbox">
+    <input name="ctl00$SearchBar1$txtSearch" type="text" id="ctl00_SearchBar1_txtSearch">
+    <input type="image" name="ctl00$SearchBar1$btnSearch" id="ctl00_SearchBar1_btnSearch" src="/_Images/_Design/butt_search.gif" align="absmiddle" border="0">
+	</span>
+
+</div><!-- searchbar -->
+
+<script type="text/javascript" language="javascript">var MsgArray = Array("ATD wants to sell AM-PAC retail stores#","'Volume to improve in the second quarter,' Ludwig says#","SEMA to hold wheel/tire specialist exam#","Conti, Schaeffler pool buying power#");var LinkArray = Array("http://www.moderntiredealer.com/News/Story/2009/04/ATD-wants-to-sell-Am-Pac-retail-stores.aspx","http://www.moderntiredealer.com/News/Story/2009/04/Volume-to-improve-in-the-second-quarter-Ludwig-says.aspx","http://www.moderntiredealer.com/News/Story/2009/04/SEMA-to-hold-wheel-tire-specialist-exam.aspx","http://www.moderntiredealer.com/News/Story/2009/04/Conti-Schaeffler-pool-buying-power.aspx");</script>
+
+<script type="text/javascript" language="javascript">
+    <!-- Hide from old browsers
+    
+    MsgSeperator = '#';
+    CharacterPos=0;
+    MsgBuffer         = "";
+    var TypeDelay = 15; //TODO: get from web.config
+    var NxtMsgDelay   = 8000; //TODO: get from web.config
+    MsgIndex=0;
+
+    function StartTyping(CharacterPos) 
+    {
+        document.getElementById("imgCursor").style.display = 'inline';
+        document.getElementById("tickerLink").href=LinkArray[MsgIndex];
+        if (MsgArray[MsgIndex].charAt(CharacterPos) != MsgSeperator)
+        {
+            MsgBuffer    = MsgBuffer + MsgArray[MsgIndex].charAt(CharacterPos)
+            document.getElementById("tickerLink").innerHTML=MsgBuffer
+            delay=TypeDelay
+        }
+        else 
+        {
+            document.getElementById("imgCursor").style.display = 'none';
+            delay=NxtMsgDelay
+            MsgBuffer = "";
+            CharacterPos=-1
+            if (MsgIndex!=MsgArray.length-1)
+            {
+                MsgIndex++
+            }
+            else 
+            {
+                MsgIndex=0 
+            }
+        }
+        CharacterPos++
+        setTimeout("StartTyping('"+CharacterPos+"')",delay)
+    }
+
+    //-->
+    StartTyping(0)
+</script>    <!-- tickerScript -->
 
 		
 		
-	</td>
- 	<td width="1" bgcolor="CC6600"><img src="images/design/spacer.gif" width="1" height="1"></td>
-	<td valign="top">
- 		 
-					
-			 
 
-<style type="text/css">
+<div id="sidebar">
+	<h1>&nbsp;</h1>
+	
+	<script language="Javascript">
+document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=2;pos=right1;abr=!webtv;sz=300x250;ord=' + ord + '?"></scr'+'ipt>');
+</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=2;pos=right1;abr=!webtv;sz=300x250;ord=35152750306030490?"></script>
+<script>
 <!--
-.listRed {
-font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: normal;
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=2;pos=right1;sz=300x250;ord=' + ord + '" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=2;pos=right1;sz=300x250;ord=' + ord + '" width="300" height="250" border="0" alt=""></a>');
 }
--->
-</style>
+//-->
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=2;pos=right1;sz=300x250;ord=135427755" target="_blank">
+<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=2;pos=right1;sz=300x250;ord=135427755" width="300" height="250" border="0" alt=""></a>
+</noscript>
 
-<table border="0" cellspacing="0" cellpadding="5" width="100%">
-<tbody><tr> 
-	<td align="left" valign="middle" width="468">
-		
-			
-			<script language="JavaScript">
-			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/newslist;tile=1;pos=1;sz=468x60;ord=' + ord + '?" type="text/javascript"><\/script>');
-			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/newslist;tile=1;pos=1;sz=468x60;ord=187854329463415600?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/mtdealer.tmus/newslist;tile=1;pos=1;sz=468x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mtdealer.tmus/newslist;tile=1;pos=1;sz=468x60;ord=123456789?" width="468" height="60" border="0" alt=""></a></noscript>
-		
-	</td>
-	<td align="right" width="100%">
-	  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-		<tbody><tr> 
-		  <td width="8" height="8"><img src="images/design/main_corner_tl.gif" width="8" height="8"></td>
-		  <td height="8" background="images/design/main_bg_top.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-		  <td width="8" height="8"><img src="images/design/main_corner_tr.gif" width="8" height="8"></td>
-		</tr>
-		<tr> 
-		  <td width="8" background="images/design/main_bg_l.gif"><img src="images/design/spacer.gif" width="8" height="1"></td>
-		  <td align="left" valign="top" class="list" bgcolor="F4F4EA"><img src="images/design/spacer.gif" width="330" height="1" border="0"><br>
-          
-			<img src="images/design/header_whatsNew_v2.gif" width="81" height="12"><br>
-		  	
-			
-					<a href="http://www.moderntiredealerdirectory.com">New MTD Online Directory has launched.</a></td>
-		  <td width="8" background="images/design/main_bg_r.gif"><img src="images/design/spacer.gif" width="8" height="50"></td>
-		</tr>
-		<tr> 
-		  <td width="8" height="8"><img src="images/design/main_corner_bl.gif" width="8" height="8"></td>
-		  <td height="8" background="images/design/main_bg_bot.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-		  <td width="8" height="8"><img src="images/design/main_corner_br.gif" width="8" height="8"></td>
-		</tr>
-	  </tbody></table></td>
-</tr>
-</tbody></table>
+	
+	
 
- 
-			
-				 
-		
-		
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-			<td valign="top">
-				
-						
+<h1><span class="arrows">popular stories</span></h1>
+<ul id="ctl00_MainContent_RightBar_PopularStories1_ArticleList1_blt_list" class="bullet_1">
+	<li><a href="http://www.moderntiredealer.com/Article/Story/2009/02/Selling-UHP-tires-in-a-tight-economy.aspx">Selling UHP tires in a tight economy</a></li><li><a href="http://www.moderntiredealer.com/Article/Story/2009/02/New-software-for-hard-times.aspx">New software for hard times</a></li><li><a href="http://www.moderntiredealer.com/Article/Story/2009/02/From-air-to-nitrogen.aspx">From air to nitrogen</a></li><li><a href="http://www.moderntiredealer.com/Article/Story/2009/02/Recession-catches-up-with-OTR-tire-market.aspx">Recession catches up with OTR tire market</a></li><li><a href="http://www.moderntiredealer.com/Article/Story/2009/02/Proper-perspective.aspx">Proper perspective</a></li>
+</ul>
+<a id="ctl00_MainContent_RightBar_PopularStories1_lnkMostPopular" href="http://www.moderntiredealer.com/Article/List/MostPopular.aspx">View More</a>
+<h1>&nbsp;</h1>
 
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td align="left" valign="top"><img src="images/design/spacer.gif" border="0" width="5" height="1"></td>
-	<td align="left" valign="top"><table cellpadding="4" cellspacing="0" width="100%" border="0">
-		<tbody><tr>
-			
-		  <td align="left" valign="middle" width="100%" class="pageHeader"> Privacy 
-			Policy </td>
-		</tr>
-		<tr>
-		  <td align="left" valign="top" colspan="2" class="sectionHeader"><hr size="1" width="100%" color="9E9E6E"></td>
-		</tr>
-		</tbody></table>
+	
+	<script language="Javascript">
+document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=3;pos=right2;abr=!webtv;sz=300x250;ord=' + ord + '?"></scr'+'ipt>');
+</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=3;pos=right2;abr=!webtv;sz=300x250;ord=35152750306030490?"></script>
+<script>
+<!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=3;pos=right2;sz=300x250;ord=' + ord + '" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=3;pos=right2;sz=300x250;ord=' + ord + '" width="300" height="250" border="0" alt=""></a>');
+}
+//-->
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=3;pos=right2;sz=300x250;ord=135427755" target="_blank">
+<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=3;pos=right2;sz=300x250;ord=135427755" width="300" height="250" border="0" alt=""></a>
+</noscript>
 
-      <table cellpadding="4" cellspacing="0" width="100%" border="0">
-		<tbody><tr> 
-		  <td width="100%" colspan="2" align="left" valign="top" class="list"> 
-			 
-			  <p><br>
+	
+	
+<h1><span class="arrows">classifieds</span></h1>
+<p>Whether you are buying, selling, or have employment opportunities, let our eClassifieds be your #1 online solution!
+</p>
+
+    <h2>Listings</h2>
+    <ul>
+
+	<li><a href="http://www.moderntiredealer.com/Classifieds/#4"></a><a href="http://www.tirejobsclassified.com" target="_blank">TireJobs Classified</a></li>
+
+	<li><a href="http://www.moderntiredealer.com/Classifieds/#1"></a><a href="http://www.tirejobs.com/" target="_blank">The TireJobs Company</a></li>
+
+    </ul>
+
+<p><a href="../Classifieds/">View All Listings</a></p>
+	
+	
+</div><!-- sidebar -->
+
+<div id="main_col">
+    
+<div>
+    <span style="float:left;"><h1><span class="arrows">Privacy Policy</span></h1></span>
+    <span style="float:right;"></span>
+</div>
+<div style="clear:both;"></div>
+
+    <div id="ctl00_MainContent_div_content"><p><br>
 				Bobit Business Media - Modern Tire Dealer</p>
 			  <p><strong>Information We Collect</strong><br>
+
 				At some Bobit Business Media sites, you can order products, register, 
 				enter contests, vote in polls or otherwise express an opinion, 
 				subscribe to one of our services such as our online newsletters, 
@@ -513,9 +447,9 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				you are using (e.g., Netscape, Internet Explorer), the type of 
 				operating system you are using, (e.g., Windows '98 or Mac OS) 
 				and the domain name of your Internet service provider (e.g., America 
-				Online, Earthlink).<br>
-				back to top </p>
+				Online, Earthlink).</p>
 			  <p><strong>How We Use this Information</strong><br>
+
 				We may use the information you provide about yourself to fulfill 
 				your requests for our products, programs, and services, to respond 
 				to your inquiries about offerings, and to offer you other products, 
@@ -535,6 +469,7 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				We use this information to facilitate participation in these online 
 				forums and communities and, from time to time, to offer you products, 
 				programs, or services.</p>
+
 			  <p>We sometimes use the non-personally identifiable information 
 				that we collect to improve the design and content of our site 
 				and to enable us to personalize your Internet experience. We also 
@@ -560,10 +495,11 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				factual errors in the data.<br>
 				<strong><br>
 				</strong> <strong>Privacy Options</strong><br>
+
 				If you prefer not to receive e-mail marketing information from 
 				Bobit Business Media sites or companies not owned by Bobit Business 
 				Media, you will always have an option to opt out within the e-mail. 
-				You may also request to be removed by <a href="mailto:webmaster@bobit.com">clicking 
+				You may also request to be removed by <a href="http://www.moderntiredealer.com/ContactUs/">clicking 
 				here</a> and e-mailing us.</p>
 			  <p>Finally, Bobit Business Media sites will not use or transfer 
 				personally identifiable information provided to us in ways unrelated 
@@ -583,6 +519,7 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				sponsors' use of this information. The Bobit Business Media site 
 				will notify you at the time of requesting personally identifiable 
 				information if third-party sponsors will obtain such information.</p>
+
 			  <p>Bobit Business Media sites may use reputable third parties to 
 				present or serve the advertisements that you may see at its web 
 				pages and to conduct research about the advertisements. Our privacy 
@@ -607,6 +544,7 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				password-protected areas, and enable you to use shopping carts 
 				on our sites. We also may use cookies to offer you products, programs, 
 				or services.</p>
+
 			  <p>We may also use small pieces of code called "web beacons" 
 				or "clear gifs" to collect anonymous and aggregate advertising 
 				metrics, such as counting page views, promotion views, or advertising 
@@ -617,11 +555,12 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 				procedures to safeguard and help prevent unauthorized access, 
 				maintain data security, and correctly use the information we collect 
 				online. </p>
+
 			  <p><strong>How You can Access or Correct Information</strong><br>
 				For instructions on how you can access the personally identifiable 
 				information that this Bobit Business Media site has collected 
 				about you online, or how to correct factual errors in such information, 
-				please email us by <a href="mailto:webmaster@bobit.com">clicking 
+				please email us by <a href="http://www.moderntiredealer.com/ContactUs/">clicking 
 				here</a>. <br>
 				<br>
 				To protect your privacy and security, we will take reasonable 
@@ -630,251 +569,112 @@ font-family: verdana, arial; font-size: 10px; color: #CC0000; font-weight: norma
 			  <p><strong>Policy Changes</strong><br>
 				Make sure to check this page to ensure you stay informed about 
 				any policy changes that may take place.</p>
+
 			  <p><strong>How to Contact Us</strong><br>
 				If you have any questions or concerns about the Bobit Business 
 				Media online policy for this site or its implementation please 
-				contact us via email by <a href="mailto:webmaster@bobit.com">clicking 
+				contact us via email by <a href="http://www.moderntiredealer.com/ContactUs/">clicking 
 				here</a> or at the following address:</p>
 			  <p>Bobit Business Media<br>
 				Attention: Web Services<br>
 				3520 Challenger Street<br>
+
 				Torrance CA 90503</p>
-			</td>
-		</tr>
+</div>
+    
+<h1>&nbsp;</h1>
+<h1><span class="arrows">hotwire eNews</span></h1>
+<p><img src="/_Images/_Design/img_hotwire.jpg" width="111" height="130" alt="Hotwire" class="left">
+</p><h2>Receive the latest MTD Hotwire eNews in your inbox!</h2>
+<a href="http://www.moderntiredealer.com/Enews/SignUp.aspx"><img src="/_Images/_Design/butt_hotwiresignup.gif" width="102" height="108" alt="Signup" align="left" border="0" style="border:0px;"></a>
+Join the MTD eNews and receive the latest news in your e-mail inbox once a week.  <a href="http://www.moderntiredealer.com/Enews/SignUp.aspx">Sign Up Now!</a><br><br>
+
+<strong>View the latest eNews:</strong> <a href="http://newsletters.moderntiredealer.com/HotWire_Monday/">Monday Edition</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://newsletters.moderntiredealer.com/HotWire_Thursday/">Thursday Edition</a>
+<p></p>
+</div>
+
+
 		
-	  </tbody></table></td>
-</tr>
-</tbody></table>
-<br>
-<br>
+	</div><!-- content -->
+	<div id="footer">
+		<div align="center">
+		    <script language="Javascript">
+document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=4;pos=bottom;dcopt=ist;abr=!webtv;sz=728x90;ord=' + ord + '?"></scr'+'ipt>');
+</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/moderntiredealer.tmus/others;tile=4;pos=bottom;dcopt=ist;abr=!webtv;sz=728x90;ord=35152750306030490?"></script>
+<script>
+<!--
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
+document.write('<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=4;pos=bottom;sz=728x90;ord=' + ord + '" target="_blank">');
+document.write('<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=4;pos=bottom;sz=728x90;ord=' + ord + '" width="728" height="90" border="0" alt=""></a>');
+}
+//-->
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/moderntiredealer.tmus/others;tile=4;pos=bottom;sz=728x90;ord=135427755" target="_blank">
+<img src="http://ad.doubleclick.net/ad/moderntiredealer.tmus/others;tile=4;pos=bottom;sz=728x90;ord=135427755" width="728" height="90" border="0" alt=""></a>
+</noscript>
 
 
+		    <img src="/_Images/_Design/spacer.gif" width="20" height="1" alt="">
+		    <a href="http://www.moderntiredealer.com/Subscribe/" target="_blank">
+		        <img src="/_Images/_Design/img_subscribetoday.jpg" width="202" height="100" alt="Subscribe Today!">
+		    </a><br><br>
+		</div>
+		<p><strong>Channels:</strong> 
+		    <a href="http://www.moderntiredealer.com/Channel/Retailing.aspx">Retailing</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Wholesale-distributing.aspx">Wholesale / distributing</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Performance.aspx">Performance</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Commercial.aspx">Commercial</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Suppliers.aspx">Suppliers</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Technology.aspx">Technology</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Auto-Service.aspx">Auto Service</a> |
+		    <a href="http://www.moderntiredealer.com/Channel/Products.aspx">products</a>
+		</p>
+		<p><strong>quick links:</strong>
+		    <a href="http://www.moderntiredealer.com/">Home</a> | 
+		    <a href="http://www.moderntiredealer.com/News/List.aspx">NEWS</a> | 
+		    <a href="http://www.moderntiredealer.com/Magazine/Current-Issue.aspx">Articles</a> | 
+		    <a href="http://www.moderntiredealer.com/Channel">Channels</a> | 
+		    <a href="http://www.moderntiredealer.com/Content/Industry-Resources.aspx">INDUSTRY RESOURCES</a> | 
+		    <a href="http://www.moderntiredealer.com/Blog/">BLOG</a> | 
+		    <a href="http://www.moderntiredealer.com/FAQ/">TIRE FAQ</a> | 
+		    <a href="/Classifieds">CLASSIFIEDS</a> | 
+		    <a href="http://www.moderntiredealerdirectory.com/" target="_blank">products</a> |
+		    <a href="http://www.moderntiredealer.com/MTDTV/">MTD TV</a> | 
+		    <a href="#">RSS</a>
+		</p>
+		<p><strong>Services:</strong> 
+		    <a href="http://www.moderntiredealer.com/Content/Subscription-Services.aspx">Subscribe</a> | 
+		    <a href="http://www.moderntiredealer.com/ContactUs/">Contact Us</a> | 
+		    <a href="http://www.moderntiredealer.com/Content/Privacy-Policy.aspx">Privacy Policy</a> |  
+		    <a href="http://www.moderntiredealer.com/Advertise/">Advertise</a> | 
+		    <a href="http://www.moderntiredealer.com/Content/Site-map.aspx">Site Map</a> |  
+		    <a href="http://www.bobit.com/career.cfm" target="_blank">Careers</a>
+		</p>
+		<div id="btm_red_bar"><img src="/_Images/_Design/logo_MTD_footer.gif" width="220" height="34" alt="MTD" class="middle"> <span class="copyright">© Copyright <span id="ctl00_lblYear">2009</span> Modern Tire Dealer. All Rights Reserved.</span></div>
+	</div>
+	<!-- footer -->
+</div>
 
-					 
-			</td>
-		
-			<td width="5" valign="top"><img src="images/design/spacer.gif" width="5" height="1"></td>
-			
-			
-				
-				<td align="left" valign="top" width="170">
-					
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgL356f/BwLkjferCQLa+PazAwKY296ACQKA+77nDwLEutCIAT46suTh66BMGv6x0mtObpJd2j8r">
 
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TBWE2_ClientState","WatermarkCssClass":"watermarked","WatermarkText":"Enter Your Email Here","id":"ctl00_TBWE2"}, null, null, $get("ctl00_txtNewsletter"));
+});
+//]]>
+</script>
+</form>
 
-<table width="200" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-	<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-			<td width="8" height="8"><img src="images/design/main_corner_tl.gif" width="8" height="8"></td>
-			<td height="8" background="images/design/main_bg_top.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-			<td width="8" height="8"><img src="images/design/main_corner_tr.gif" width="8" height="8"></td>
-		</tr>
-	<tr> 
-		<td width="8" background="images/design/main_bg_l.gif"><img src="images/design/spacer.gif" width="8" height="1"></td>
-		<td align="center" valign="top" bgcolor="F4F4EA"><table cellpadding="2" cellspacing="0" width="94%" border="0">
-			<tbody><tr>
-				<td align="center" valign="top">
-					
-					
-
-					
-
-
-
-
-
-
-
-
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
-	<td align="left" valign="middle"><img src="images/design/header_quickpoll.gif" border="0" width="60" height="10"></td>
-</tr>
-<tr> 
-	<td align="center" valign="top"><table cellpadding="3" cellspacing="0" width="100%" border="0">
-		<tbody><tr> 
-			<td align="left" valign="top"> 
-		  	
-			
-
-			
-			
-			<!-- Bridgestone Logo --->
-			<!-- begin ad tag  (tile=2) -->
-<script language="JavaScript">
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/home;tile=2;pos=2;sz=123x22;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/home;tile=2;pos=2;sz=123x22;ord=187854329463415600?" type="text/javascript"></script> 
-<!-- End ad tag -->
-			  
-	
-			
-			
-<!-- End ad tag -->
-		  	
-		
-			
-			
-			
-			  
-			  
-			  
-				<table width="99%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr> 
-					<td align="left" valign="top"><table width="100%" border="0" cellpadding="1" cellspacing="4">
-						<form name="poll_form" action="t_home.cfm" method="post"></form>
-						 
-						<input type="hidden" name="questionID" value="84">
-						<input type="hidden" name="action" value="webpoll_prs">
-						<input type="hidden" name="voteprs" value="1">
-						<tbody><tr> 
-							<td align="left" valign="middle" colspan="2" class="webPollQuest">Are you planning to attend the SEMA/TIA Show in Las Vegas this year?</td>
-						</tr>
-						
-						
-							<tr> 
-							  <td align="left" width="15" valign="top">
-								<input type="radio" name="answerID" value="290"></td>
-							  <td align="left" valign="middle" class="webPollAnswer">Yes</td>
-							</tr>
-						  
-							<tr> 
-							  <td align="left" width="15" valign="top">
-								<input type="radio" name="answerID" value="291"></td>
-							  <td align="left" valign="middle" class="webPollAnswer">No</td>
-							</tr>
-						  
-							<tr> 
-							  <td align="left" width="15" valign="top">
-								<input type="radio" name="answerID" value="292"></td>
-							  <td align="left" valign="middle" class="webPollAnswer">Maybe</td>
-							</tr>
-						  
-						  <tr>
-							<td colspan="2"><input type="image" src="images/design/btn_vote.gif" width="36" height="14"></td>
-						  </tr>
-						 
-					  
-					</tbody></table></td>
-				</tr>
-			  </tbody></table>
-			  
-			   
-			
-			<a href="t_inside.cfm?action=webpoll_past" class="viewMore">View Polls</a><br></td>
-		</tr>
-	  </tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-
-					<hr size="1" width="94%" color="9E9E6E">
-					
-
-
-<table border="0" cellspacing="0" cellpadding="1" width="100%">
-<tbody><tr>
-	<td align="left" valign="top"><img src="images/design/header_stockBar.gif" border="0" width="60" height="10"></td>
-</tr>
-<tr>
-	<td align="center" valign="top"><table width="100%" border="1" cellpadding="4" cellspacing="0" bordercolor="#E15722">
-		<tbody><tr>
-			<td align="center"><!-- begin ad tag  (tile=3) -->
-			<script language="JavaScript">
-			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/homepage;tile=3;sz=123x23;ord=' + ord + '?" type="text/javascript"><\/script>');
-			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/homepage;tile=3;sz=123x23;ord=187854329463415600?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/mtdealer.tmus/homepage;tile=3;sz=123x23;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mtdealer.tmus/homepage;tile=3;sz=123x23;ord=123456789?" width="123" height="23" border="0" alt=""></a></noscript>
-			<!-- End ad tag -->	
-
-			
-			<iframe src="in_stockPrices.cfm" frameborder="0" width="140" height="210" marginwidth="0" marginheight="0" noresize="yes" scrolling="no"></iframe>
-
-			<!-- begin ad tag  (tile=7) -->
-			<script language="JavaScript">
-			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/homepage;tile=7;sz=120x121;ord=' + ord + '?" type="text/javascript"><\/script>');
-			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/mtdealer.tmus/homepage;tile=7;sz=120x121;ord=187854329463415600?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/mtdealer.tmus/homepage;tile=7;sz=120x121;ord=120456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mtdealer.tmus/homepage;tile=7;sz=120x121;ord=123456789?" width="120" height="121" border="0" alt=""></a></noscript>
-			<!-- End ad tag --></td>
-			  </tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-
-
-					<br>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td width="8" background="images/design/main_bg_r.gif"><img src="images/design/spacer.gif" width="8" height="500"></td>
-	</tr>
-	<tr> 
-		<td width="8" height="8"><img src="images/design/main_corner_bl.gif" width="8" height="8"></td>
-		<td height="8" background="images/design/main_bg_bot.gif"><img src="images/design/spacer.gif" width="1" height="8"></td>
-		<td width="8" height="8"><img src="images/design/main_corner_br.gif" width="8" height="8"></td>
-	</tr>
-	</tbody></table></td>
-</tr>
-</tbody></table>
-
-
-
-<br>
-
-<a href="t_inside.cfm?action=bestpractices"><img src="images/ads/ad_bestpractices.gif" border="0" width="200"></a>
-
-
-
-				</td>
-				<td width="5" valign="top"><img src="images/design/spacer.gif" width="5" height="1"></td>
-						
-		</tr>
-		</tbody></table>
-	</td>
-	<td width="1" bgcolor="CC6600"><img src="images/design/spacer.gif" width="1" height="1"></td>
-	<td width="15" background="images/design/right_fade.jpg"><img src="images/design/spacer.gif" width="15" height="1"></td>
-</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-	<td width="100%" bgcolor="000000">
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr> 
-	<td class="monthLink"><div align="right" style="padding:2px;">© 2008 <i>Modern Tire Dealer Magazine</i> All Rights Reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.moderntiredealer.com/t_inside.cfm?action=subscribe" class="monthLink">subscribe</a> 
-  | <a href="http://www.moderntiredealer.com/t_inside.cfm?action=advertise" class="monthLink">advertise</a> | <a href="http://www.moderntiredealer.com/t_inside.cfm?action=contactus" class="monthLink">contact 
-  us</a> | <a href="http://www.moderntiredealer.com/t_inside.cfm?action=privacy" class="monthLink">privacy policy</a> | <a href="http://www.bobit.com/bobit/career.cfm" class="monthLink">careers at MTD</a>&nbsp; 
-</div></td>
-</tr>
-</tbody></table>
-
-
-
-
-
+<!-- GA -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-826691-7";
 urchinTracker();
 </script>
-
-
-
-
-
-</td>
-	<td width="1" bgcolor="CC6600"><img src="images/design/spacer.gif" width="1" height="8"></td>
-	<td width="15" background="images/design/right_fade.jpg"><img src="images/design/rb_fade.jpg" width="15" height="8"></td>
-</tr>
-<tr> 
-	<td align="right" height="11" colspan="2" background="images/design/bot_fade.jpg" bgcolor="#FFFFFF"><img src="images/design/lc_fade.jpg" width="7" height="11"></td>
-	<td height="11" background="images/design/right_fade.jpg"><img src="images/design/rc_fade.jpg" width="15" height="11"></td>
-</tr>
-</tbody></table>
 
 
 
