@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gttrends.net privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003231143id_/http%3A//www.gttrends.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gttrends.net privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408015615id_/http%3A//gttrends.net/privacy.html) for the most accurate reproduction.*
 
-# GT Trends... We're going places!
+# GT Trends... Privacy Statement
 
 Our goal is your save and secure online booking experience. For this reason We DO NOT Store Your Credit Card Information. You will be asked to enter this information each time you use the various online booking engines and reservation systems. The individual booking engines and reservation systems have their own encrypted credit card data transmission procedures. For more information, read their security statements. 
 
