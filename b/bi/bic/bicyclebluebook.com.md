@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229124247id_/http%3A//www.bicyclelink.com/bluebook/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2009-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090407085650id_/http%3A//www.bicyclelink.com/bluebook/privacy.html) for the most accurate reproduction.*
 
 # BicycleLINK: Blue Book
 
