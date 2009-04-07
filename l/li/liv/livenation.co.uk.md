@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121912id_/http%3A//www.livenation.co.uk/company/getPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2009-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090407080739id_/http%3A//www.livenation.co.uk/company/getPrivacy) for the most accurate reproduction.*
 
 # Live Nation UK - Find Concert Tickets, Tour Dates & UK Concert Information
 
