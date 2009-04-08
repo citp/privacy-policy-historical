@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205019id_/http%3A//sidereel.com/_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408160247id_/http%3A//www.sidereel.com/_us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SideReel
 
@@ -25,6 +25,6 @@ This Site contains links to other websites.  Your use of linked websites is sub
 SideReel employs procedural and technological measures, consistent with the demands of customer service. Such measures are reasonably designed to protect your information from loss, unauthorized access, disclosure, alteration or destruction.  SideReel uses password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your PII.
 
  **Policy Changes**  
-SideReel reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.  This Privacy Policy was last revised April 19, 2007.
+SideReel reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.  This Privacy Policy was last revised April 19, 2007. 
 
 If you have questions or comments regarding this Privacy Policy, please email us at [privacy@sidereel.com](mailto:privacy@sidereel.com).
