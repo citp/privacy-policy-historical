@@ -1,42 +1,57 @@
-> *The following text is extracted and transformed from the photosig.com privacy policy that was archived on 2003-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030228061425id_/http%3A//www3.photosig.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photosig.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408063245id_/http%3A//www.photosig.com/content/main/privacy) for the most accurate reproduction.*
 
-# photoSIG (Privacy Policy)
+# photoSIG » Privacy Policy
 
-### Privacy Policy
+SIG Networks Corporation is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. However, sometimes we do need information to provide services, and this privacy policy explains data collection and use in those situations. 
 
-**Information Collection and Use**  
-photoSIG is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. photoSIG collects information from our users at several different points on our website. 
+### Collection of your Personal Information
 
-**Registration**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Personal information collected by SIG Networks Corporation ("SNC") is limited to your name, e-mail address, and location. All the information we collect from you will be for statistical and demographic purposes only. We will not give out your information or sell it to others. Further, we will not send you unsolicited email or "spam." The only things we email you will be things you explicitly request (like a password reminder), mailing lists that you asked to receive, or notifications about your account status. 
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies enable us to track users as they travel from page to page within the site and allow us to present the site as a coherent whole.
+### Use of your Personal Information
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
+Your email address is collected in order to have an address to send you lost password notifications. Also, collecting this information serves as a way to limit abuse of the system, as it helps us detect duplicate or "shill" accounts. Your email address is never displayed publicly unless you send someone an invitation ("Tell a Friend") or a message through the photoSIG internal mail system, in which case your email address will be displayed to the recipient so that he or she may reply directly. 
 
-**Sharing**  
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We will only send you mail once when you create your account, and then only when you request a lost password to be sent to you. Also, we may send you mail from photoSIG and our partners if you have checked the "Allow email from photoSIG and partners" option in your user profile. 
 
-We may partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third parties to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We require that you provide your account name or "handle" to be listed with your submissions. We also require that you provide your real first and last names. Your account name and first name are displayed throughout the system alongside your contributions and in the User Directory and Who's On pages. Your last name is never displayed but is needed to help us understand and keep track of who is using our system. 
 
-**Links**  
-This web site contains links to other sites. Please be aware that we, photoSIG, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We ask for your city, state, zip code, and country, for our own statistical purposes. We will never display this information on the site, unless you select the "Show my city and state in my public profile" in your user profile. You can optionally enter your website's URL or other information about yourself in your user profile. If you list this information, it will show up your public user information page. 
 
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+You may optionally provide us with your street address and telephone number. We may use this information to contact you in the unlikely event that we need to get in touch and your email address is not working. 
 
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask the user for the friend's name and email address. photoSIG will automatically send the friend a one-time email inviting them to visit this site. photoSIG stores this information for the sole purpose of sending this one-time email.
+SNC may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on SNC or photoSIG; (b) protect and defend the rights or property of SNC and photoSIG, or (c) act in urgent circumstances to protect the personal safety of SNC or its designees, users of photoSIG and/or the services associated with photoSIG, or members of the public. 
 
-**Security**  
-This website takes reasonable measures to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Your information may be stored and processed in the United States or any other country in which SNC or its affiliates, subsidiaries or agents maintains facilities, and by using this site, you consent to any such transfer of information outside of your country. 
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
+### Control of your Personal Information
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our main page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+When you create an account, or otherwise give us personal information, SNC will not share that information with third parties without your permission, apart from the limited exceptions already listed. Registering also allows you to tell us how or whether you want SNC to communicate with you. We may send out periodic e-mails informing you of technical service or security issues related to the photoSIG or the services provided, or confirming your registration. 
 
-Return to the previous page
+### Access to your Personal Information
+
+We will provide you with the means to ensure that your personal information is correct and current. In the mySIG section of photoSIG, you can view and edit personal information you have already given us and change the options affecting the use and display of your personal information. 
+
+### Security of your Personal Information
+
+SNC is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. 
+
+### Protection of Children's Personal Information
+
+photoSIG does not knowingly collect any personal information from children without parental consent. 
+
+### Use of Cookies
+
+When someone visits photoSIG, a cookie is placed on the visitor's computer (if the visitor accepts cookies) or is read if the visitor has visited the site previously. We use cookies to remember users' session information from page to page. In addition, our advertisers pay place cookies of their own on visitors' computers. Though outside of our control, these cookies are usually used to prevent the advertiser from delivering the same advertisement to the same visitor more than a set number of times. 
+
+If you choose to not have your browser accept cookies from photoSIG, you will be able to view the text on the screens, however you may not experience a personalized visit or not be able to utilize all of the services provided. 
+
+### Enforcement of this Privacy Policy
+
+If you have questions regarding this policy, you should contact SNC by email at [privacy@photosig.com](mailto:privacy@photosig.com). 
+
+### Changes to this Privacy Policy
+
+SNC will occasionally update this privacy privacy. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, SNC will notify you by placing prominent notice on the Main page. 
+
+[photoSIG](https://web.archive.org/go/main)
