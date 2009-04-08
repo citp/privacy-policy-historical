@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017203456id_/http%3A//www.eversave.com/eversave/consumers/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversave.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408210545id_/http%3A//www.eversave.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Eversave.com
 
