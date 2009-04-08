@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami-airport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063331id_/http%3A//www.miamidade.gov/infocenter/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami-airport.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408171646id_/http%3A//www.miamidade.gov/infocenter/privacy_and_security.asp) for the most accurate reproduction.*
 
 # Miami-Dade County - Information Center
 
