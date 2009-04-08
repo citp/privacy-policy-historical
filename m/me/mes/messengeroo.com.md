@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014110816id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408084806id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MessengeRoo
 
@@ -8,9 +8,10 @@ What follows is the Privacy Statement for all MessengeRoo websites (a.k.a. blogs
 
 Please read this statement regarding our blogs. If you have questions please ask us via our [contact form](http://www.messengeroo.com/contact/).
 
-**Email Addresses**
+**Email, Addresses, Name, Telephone Third Party Ads**
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
 **  
 Ownership of Information**
 
