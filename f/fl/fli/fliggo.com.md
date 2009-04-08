@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020132106id_/http%3A//www.fliggo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliggo.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408072714id_/http%3A//www.fliggo.com/legal/privacy) for the most accurate reproduction.*
 
-# Fliggo - Legal - Privacy Policy
+# Fliggo
 
 ### 1\. Purpose
 
-This document sets out Fliggo’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Service](https://web.archive.org/legal/tos).
+This document sets out Fliggo�s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Service](https://web.archive.org/legal/tos).
 
 ### 2\. Data collected
 
@@ -12,11 +12,11 @@ We collect and subsequently process the Data that you voluntarily provide on the
 
 ### 3\. Purpose of processing
 
-Data indicated on the Website as mandatory is required in order to use the Website’s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because Fliggo is a company located in the United States, the Data is collected and maintained in the United States.
+Data indicated on the Website as mandatory is required in order to use the Website�s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because Fliggo is a company located in the United States, the Data is collected and maintained in the United States.
 
 ### 4\. Data recipients
 
-Your Data is not transmitted to third parties. However, Fliggo may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect Fliggo’s rights and interests. It is Fliggo’s policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court.
+Your Data is not transmitted to third parties. However, Fliggo may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect Fliggo�s rights and interests. It is Fliggo�s policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court.
 
 ### 5\. Data security
 
