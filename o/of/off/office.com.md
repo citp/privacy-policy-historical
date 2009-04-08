@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111085949id_/http%3A//office.com/templates/page1_other.asp%3Fdocid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408030606id_/http%3A//office.com/templates/page1_other.asp%3Fdocid%3D12) for the most accurate reproduction.*
 
-# Office.com: Collaboration Software, Virtual Office Software for Small Business
+# Privacy Policy
 
 Office.com LLC ("ODC", "us", or "we") maintains high standards for the protection of the privacy of users of the Office.com site and various related services that we provide (together referred to as the "Site"). This Privacy Policy contains important information about how we may use and disclose personal information about you. Please read it carefully. You should also read our [Terms of Service](http://www.office.com/terms.asp), which governs your use of the Site. 
 
