@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012859id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408180320id_/http%3A//skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
 
-# Dress up games online.
+# Privacy Policy
 
 **Privacy Policy  
 **Sky Breeze™ Games is committed to providing a safe and fun website for children of all ages.  We at Sky Breeze™ Games agree that information given to us by you or your child will remain private. Sky Breeze™ Games follows FTC guidelines for compliance with the Children’s Online Privacy Protection Act.  **If you are under the age of 13, your parent or guardian must read this policy with you.** The privacy policy is intended to let you know how Sky Breeze™ Games protects your personal information.
@@ -45,6 +45,9 @@ Correct factual errors in such information, request to have this information del
 
 Please be sure to include your e-mail address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to verify your identity before granting you access to the personal information that we collect and maintain about your child.
 
+**Third Party Advertising  
+**We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies please visit http://www.google.com/privacy_ads.html
+
 **Changes to this Privacy Policy  
 **Sky Breeze™ Games reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
 
@@ -55,4 +58,4 @@ Please be sure to include your e-mail address and a telephone number where we ca
 Sky Breeze Games  
 1833 County Road 1980 E.   
 Crossville, IL 62827  
-Email: [smuse@skybreezegames.com](mailto:play@skybreezegames.com?Subject=Sky%20Breeze%20Games)
+Email: [info@skybreezegames.com](mailto:info@skybreezegames.com?Subject=Sky%20Breeze%20Games)
