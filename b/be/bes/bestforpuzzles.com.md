@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204233103id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestforpuzzles.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408210422id_/http%3A//bestforpuzzles.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,4 +36,4 @@ Some of our advertising is provided by Google Adsense. See the [Google Privacy S
 ## Contacting the Web Site
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use the [Feedback form](https://web.archive.org/about/contact.html) or see [this page](https://web.archive.org/about/index.html) for contact details. | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use the [Feedback form](https://web.archive.org/about/feedback.html) or see [this page](https://web.archive.org/about/index.html) for contact details. | 
