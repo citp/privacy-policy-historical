@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynameise.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928214657id_/http%3A//www.mynameise.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynameise.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408215447id_/http%3A//www.mynameise.com/privacy_policy) for the most accurate reproduction.*
 
 # E | Privacy policy
 
