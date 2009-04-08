@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220153130id_/http%3A//alliedwallet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408201747id_/http%3A//www.alliedwallet.com/privacy.aspx) for the most accurate reproduction.*
 
 # AlliedWallet
 
