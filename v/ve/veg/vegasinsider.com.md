@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190144id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409141754id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.*
 
 # Sportsbook at VegasInsider.com: Online Sports Betting, Free Sports Picks, Las Vegas Odds, Adult Gambling
 
