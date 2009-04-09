@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222121902id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409175918id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -6,35 +6,7 @@ This policy tells you about how eBay International AG uses and protects your per
 
 **Contents**
 
-  * Scope
-
-  * Collection
-
-  * Marketing
-
-  * Use 
-
-  * Our Disclosure of Your Information 
-
-  * Activity Associated with User IDs 
-
-  * Using Information from eBay 
-
-  * Cookies
-
-  * No Spam, Spyware or Spoofing
-
-  * Account Protection
-
-  * Accessing, Reviewing and Changing Your Personal Information
-
-  * Security
-
-  * Third Parties
-
-  * General
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope
