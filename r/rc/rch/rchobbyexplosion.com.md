@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051333id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rchobbyexplosion.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409145104id_/http%3A//www.rchobbyexplosion.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Discount Remote Control Airplanes & Helicopters, Radio Control Cars & Trucks + RC Boats - All Types
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081216051333id_/http%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090409145104id_/http%3A//www.rchobbyexplosion.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
