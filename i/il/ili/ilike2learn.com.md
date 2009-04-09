@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilike2learn.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914041625id_/http%3A//www.ilike2learn.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilike2learn.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409030118id_/http%3A//www.ilike2learn.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Ilike2learn Menu
 
