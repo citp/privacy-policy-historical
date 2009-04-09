@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221205453id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixr.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409042818id_/http%3A//www.fixr.com/info/privacy_policy.html) for the most accurate reproduction.*
 
-# fixR
+# Privacy Policy | fixR
 
 This Privacy Policy describes how we handle your personal information for our services on the Fixr websites and is incorporated into our [Terms and Conditions](https://web.archive.org/info/terms_and_conditions.html). The Fixr.com website (and any successor website) and the services offered in connection with such website will collectively be referred to as the "Site." References to "we," "us," and "our" refer to FIXR, Inc.
 
