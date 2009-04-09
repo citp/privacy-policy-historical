@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044954id_/http%3A//www.rockhall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409145030id_/http%3A//www.rockhall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Thank you for visiting The Rock and Roll Hall of Fame and Museum, Inc. (the “Museum") website.  This Privacy Policy is intended to describe how the Museum handles information that you provide or that we learn about the individuals who visit our websites or contact us by mail, email or telephone or in person, or who provide us with information through any other means.  We recommend that you carefully review this policy before providing us with any information.  By accessing and using this site you agree to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms "Terms of Use"). 
 
-This Privacy Policy only applies to information collected by The Rock and Roll Hall of Fame and Museum, Inc., the websites the Museum operates under the domain located at [www.rockhall.com](http://www.rockhall.com/ "www.rockhall.com"), and other physical or online locations where the Museum may collect information.  This privacy policy does not apply to any information collected at or associated with the Hall of Fame induction process, any annexes or off-site or traveling exhibits, or the Museum Shop located at the Rock and Roll Hall of Fame and Museum. 
+This Privacy Policy only applies to information collected by The Rock and Roll Hall of Fame and Museum, Inc., the websites the Museum operates under the domain located at [www.rockhall.com](http://www.rockhall.com/ "www.rockhall.com"), and other physical or online locations where the Museum may collect information.  This privacy policy does not apply to any information collected (a) at or associated with any annexes or off-site or traveling exhibits, or the Museum Shop located at the Rock and Roll Hall of Fame and Museum; or (b) by the Rock and Roll Hallof Fame Foundation, Inc. 
 
 ## What Information does the Museum Collect and How is it Used? 
 
@@ -133,7 +133,7 @@ Our website may contain “links” to other websites. We try to link only to si
 
 By providing information to the Museum, you signify your consent to this Privacy Policy.  If you do not agree to this Privacy Policy or the [Terms of Use](https://web.archive.org/terms "Terms of Use"), please do not use our website or provide your information to us. 
 
-The Museum reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time and will update this page to reflect the date of the last update.  Please check this page periodically for changes.  Your continued use of our services following the posting of changes to these terms will mean you accept those changes.  **The last update took place in August 2008.**
+The Museum reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time and will update this page to reflect the date of the last update.  Please check this page periodically for changes.  Your continued use of our services following the posting of changes to these terms will mean you accept those changes.  **The last update took place in March 2009.**
 
 ## Contact Us: Questions, Updating, Correcting and Changing Your Information
 
