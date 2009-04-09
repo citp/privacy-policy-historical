@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045544id_/http%3A//www.leapfile.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409123107id_/http%3A//www.leapfile.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeapFILE
 
@@ -10,19 +10,20 @@ This policy describes how we collect and use your personal information. Please r
 There are places on our site where we may ask for personal information that uniquely identifies you. At times we may request your personal information; however, input fields are not normally required unless they are explicitly stated. Personal information may include but is not limited to your first and last name, company, email address, billing address, shipping address, phone number, fax number, credit card number and credit card expiration date.
 
 **Use of Personal Information**  
-Personal information may be used in any of the following ways: 
+Personal information may be used in any of the following ways:   
 
-  1. To ensure that the content, products and services found on our site are relevant and helpful for you
-  2. To fulfill your orders for services
-  3. To notify you of special promotions, service upgrades, and other updated information about our company
-  4. To send you other information that you may have requested from us, such as email newsletters
+
+  * To ensure that the content, products and services found on our site are relevant and helpful for you
+  * To fulfill your orders for services
+  * To notify you of special promotions, service upgrades, and other updated information about our company
+  * To send you other information that you may have requested from us, such as email newsletters
 
 
 
 Your information will be stored in the United States. LeapFILE may disclose your personal information to federal, state and local government officials in the United States or other countries if required to do so by law.
 
 **Control & Access to Personal Information**  
-You may find out what kind of personal information we have about you at any time by requesting that information from LeapFILE. You may change any of your personal information at any time or request to have your account removed by sending an email to [support@leapfile.com](mailto:support@leapfile.com).
+You may find out what kind of personal information we have about you at any time by requesting that information from LeapFILE. You may change any of your personal information at any time or request to have your account removed by sending an email to [clientservices@leapfile.com](mailto:clientservices@leapfile.com).
 
 **Security**  
 Your personal information is held on limited access servers. We take reasonable steps to protect the personal information provided to us from unauthorized access and disclosure.
@@ -35,9 +36,7 @@ Our cookies do not track or collect any personal information. They are used to p
 If you choose to disable cookies on your computer browser, you may not be able to fully access all of the products or services found on our site.
 
 **Third Party Services**  
-LeapFILE's web site contains links to other sites on the Internet. We do not share your personal information with those sites, nor are we responsible for the content on their web sites.
-
-LeapFILE does not disclose information to any third-party. LeapFILE does not sell your personal information collected online.
+LeapFILE's web site contains links to other sites on the Internet. We do not share your personal information with those sites, nor are we responsible for the content on their web sites. LeapFILE does not disclose information to any third-party. LeapFILE does not sell your personal information collected online.
 
 **Changes to this Privacy Policy**  
 LeapFILE will occasionally change and update this Privacy Policy. Any changes made to this Privacy Policy will be posted on this site. If we make any substantial changes in our Privacy Policy, we will post a notice on this site.
