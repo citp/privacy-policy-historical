@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyglobespan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011711id_/http%3A//www.flyglobespan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyglobespan.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409104613id_/http%3A//www.flyglobespan.com/privacy.asp) for the most accurate reproduction.*
 
 # flyglobespan.com | Privacy Policy
 
