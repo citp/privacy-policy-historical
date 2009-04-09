@@ -1,796 +1,380 @@
-<!--The following is the downloaded HTML source of the giftbd.com privacy policy that was archived on 2005-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051124090038id_/http%3A//www.giftbd.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giftbd.com privacy policy that was archived on 2009-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090409201602id_/http%3A//giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
-<html><head><title>GiftBD.com :: Online gift Delivery Service for Bangladesh </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>GiftBD.com - Send gift to bangladesh, bangladeshi gift, sharee, salwar kamiz, panjabi, saree, sari, fatua, send birthday gift to bangladesh, send flower to bangladesh, eid gift, valentinesday gift, ramadan iftar, new year</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<meta name="Description" content="Send gift to Bangladesh, 100% secured and guranted gift delivery services for bangladesh, send birthday, anniversary, eid gift, iftar, mothersday, fathersday , valentine day, father's day, mother's day , weddingscakes, sweets, chocolates, greeting cards, cards, e-cards, postcards fruits, birthday gifts, sharees, shari, different dresses for man, woman, and kids etc. we delivery dhaka, chittagong, sylhet, rajshahi, khulna and anywhere in bangladesh, worldwide delivery"> 
+<meta name="Keywords" content="send, send gift, gifts, bangladesh, bd, dhaka, forum, free, friendship, gift, gifts, 
+greeting, Greetings, groceries, grocery, Handicrafts, health, Higher, history, hockey, home,horoscope, hosting, hotels, Hotest, deshi gift, send flowers to Bangladesh, send flowers to dhaka chittagong rajshahi khulna sylhet, send gifts to Bangladesh, send gifts to dhaka chittagong rajshahi khulna sylhet, bd gifts, send cakes sweets chocolates fruits sharee, immigration, Insurance, internet, Kameez, khulna, Kids, listing, fruits, greeting cards, to Bangladesh, bd, Dhaka, Chittagong, Khulna, Sylhet, Rajshahi, Barishal, nationwide , best, leading, top, pioneer, great, good, Bangladeshi, bd, e-commerce, online, online shopping , web site, website, service, guaranteed, on time, delivery, photo proof, send, presents, cloths, cosmetics, grocery, groceries, men, man, women, woman, baby, babies, latest, headline, news from Bangladesh, free shipping, free gift cards, free gift delivery anniversary, baby gift, bangladeshi gift delivery"> 
+<meta name="rating" content="send, gifts, send gift, gifts to bangladesh, gift to bangladesh, gift bangladesh, send gift to bangladesh, bangladeshi gift, gift bangladesh, send online shopping bangladesh, bangladesh online shopping, fathersday gift to bangladesh, gift to bangladesh on valentinesday, gift to bangladesh on eid, gift to bangladesh on ramadan, free sms, e-commerce, online, shopping, site, website, web site, bangladeshi, dhaka, flowers, cakes, sharee, saree, roses, fruits, greeting cards, to Bangladesh, bd, Dhaka, Chittagong, Khulna, Sylhet, Rajshahi, Barishal, nationwide , best, leading, top, pioneer, great, good, Bangladeshi, bd, e-commerce, online, online shopping , web site, birthday gift to bangladesh, anniversary cake to bangladesh, send, gifts, send gift, Bangladesh, e-commerce site for bangladesh, online, shopping, gift to bangladesh site, website, web site, bangladeshi, dhaka, flowers, cakes, sharee, saree, roses, fruits, greeting cards, to Bangladesh, bd, Dhaka, Chittagong, Khulna, Sylhet, Rajshahi, Barishal, nationwide"> 
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="Admin/ajax.js"></script>
+<script language="javascript">
+	function varifyAdd()
+	{
+		if(document.frmAdd.action.value=="add")
+		{//add
+			var email=document.frmAdd.email;
+			if(email.value=="")
+			{
+				alert('Please input email address');
+				document.frmAdd.email.focus();
+				return false;
+			}
+			else
+			{
+				var illegalMail= /[\(\)\<\>\,\;\:\\\/\"\'\^\&\$\?\#\|\[\]]/ ;
+				if(illegalMail.test(email.value)) 
+				{
+					alert('The email address contains illegal characters.');
+					document.frmAdd.email.focus();
+					return false;
+				}
+				var atpos = document.frmAdd.email.value.indexOf("@")//at which position is the '@' symbol
+				if (atpos >0)
+				{//if the '@' symbol is not at the first position
+					var rest =document.frmAdd.email.value.substring(atpos+1,document.frmAdd.email.value.length)
+					var dotpos = rest.indexOf(".")// check what follows the '@' symbol to see where the '.' falls
+					if (dotpos <1)
+					{//if the '.' is immediately next to the '@'
+						alert("E-mail address missing")//give error message
+						document.frmAdd.email.focus()
+						return false
+					}
+				}
+				else
+				{//if the '@' is in the first position,
+					alert("Invalid email address")//give error message
+					document.frmAdd.email.focus()
+					return false
+				}
+			}
+			if(document.frmAdd.password.value=="")
+			{
+				alert('Please input password.');
+				document.frmAdd.password.focus();
+				return false;
+			}
+			else if((document.frmAdd.password.value.length < 6) || (document.frmAdd.password.value.length > 15))
+			{
+				alert('The length of password must be 6 to 15 characters.');
+				document.frmAdd.password.focus();
+				return false;
+			}
+			else if(document.frmAdd.password.value!=document.frmAdd.passwordCon.value)
+			{
+				alert('The password and confirm password is not matching.');
+				document.frmAdd.password.focus();
+				return false;
+			}
+		}//add
+		if(document.frmAdd.firstName.value=="")
+		{
+			alert('Please input first name.');
+			document.frmAdd.firstName.focus();
+			return false;
+		}
+		if(document.frmAdd.lastName.value=="")
+		{
+			alert('Please input last name.');
+			document.frmAdd.lastName.focus();
+			return false;
+		}
+		if(document.frmAdd.sex.selectedIndex==0)
+		{
+			alert('Please select a gender');
+			document.frmAdd.sex.focus();
+			return false;
+		}
+		if(document.frmAdd.address.value=="")
+		{
+			alert('Please input address.');
+			document.frmAdd.address.focus();
+			return false;
+		}
+		if(document.frmAdd.city.value=="")
+		{
+			alert('Please input city.');
+			document.frmAdd.city.focus();
+			return false;
+		}
+		if(document.frmAdd.state.value=="")
+		{
+			alert('Please input state.');
+			document.frmAdd.state.focus();
+			return false;
+		}
+		if(document.frmAdd.zip.value=="")
+		{
+			alert('Please input zip / post code.');
+			document.frmAdd.zip.focus();
+			return false;
+		}
+		if(document.frmAdd.country.selectedIndex==0)
+		{
+			alert('Please select country');
+			document.frmAdd.country.focus();
+			return false;
+		}
+		if(document.frmAdd.phoneHome.value=="")
+		{
+			alert('Please input home phone.');
+			document.frmAdd.phoneHome.focus();
+			return false;
+		}
+		if(document.frmAdd.phoneWork.value=="")
+		{
+			alert('Please input a alternative phone number.');
+			document.frmAdd.phoneWork.focus();
+			return false;
+		}
+		if(document.frmAdd.action.value!="edit")
+		{//add
+			if(document.frmAdd.condition.checked==false)
+			{
+				alert('Please read the \'Terms and Conditions\'.');
+				return false;
+			}
+			if(document.frmAdd.mailOpt.value=="1")
+			{
+				alert('Please input a valid e-mail address.');
+				document.frmAdd.email.focus();
+				return false;
+			}
+		}
+	}
+</script><style type="text/css">
+<!--
+.style2 {font-weight: bold; font-size: 18px;}
+-->
+</style>
+</head>
 
+<body>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" src="images/headerModal/menu.js"></script>
+<script language="javascript">
+var MENU_ITEMS = [
+	['Occasion<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18" />', null, null,
+		[pupup('o')]
+	],
+	['<span style="padding-left:10px;">Birthday<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18" /></span>', null, null,
+		[pupup('b')]
+	],
+	['Anniversery<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18" />', null, null,
+		[pupup('a')]
+	]
+];
+//------------------------------------------------------------------
+function pupup (text) {
+	if(text=='o')
+	{
+		return '<table border="0"><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=11" class="modalMenu">Valentine&#39;s Day</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Bangla New Year</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Mother&#39;s Day</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Father&#39;s Day</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Friendship Day</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Eid-ul-Fitre</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Puja Utshab</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Eid-ul-Adha</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Cristmas Day</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">New Year</a></td></tr></table></td></tr></table>';
+	}
+	else if(text=='b')
+	{
+		return '<table border="0"><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=9" class="modalMenu">Birthday Cake</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=10" class="modalMenu">Birthday Flower</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=5" class="modalMenu">Birthday Food</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/product.php?pS=~c1_sc94:&amp;cid=1&amp;scid=94&amp;hs=180&amp;myty=scID" class="modalMenu">Birthday Card</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=2" class="modalMenu">Birthday for Her</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=3" class="modalMenu">Birthday for Him</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=4" class="modalMenu">Birthday for Kids</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Birthday Gifts</a></td></tr></table></td></tr></table>';
+	}
+	else if(text=='a')
+	{
+		return '<table border="0"><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=9" class="modalMenu">Anniversary Cake</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=10" class="modalMenu">Anniversary Flower</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=3" class="modalMenu">Anniversary for Him</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/product.php?pS=~c1_sc94:&amp;cid=1&amp;scid=94&amp;hs=180&amp;myty=scID" class="modalMenu">Anniversary Card</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=2" class="modalMenu">Anniversary for Her</a></td><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="http://www.giftbd.com/cat.php?cid=5" class="modalMenu">Anniversary Food</a></td></tr><tr><td width="50%" align="left" valign="middle">&bull;&nbsp;<a href="#" class="modalMenu">Anniversary Gifts</a></td><td>&nbsp;</td></tr></table></td></tr></table>';
+	}
+}
+</script><script language="JavaScript" src="images/headerModal/headerModatTP.js"></script>
+<script language="JavaScript">new menu (MENU_ITEMS, MENU_TPL);</script><div id="e0_0o" class="headerModalMoout" style="position: absolute; top: 20px; left: 380px; width: 160px; height: 25px; visibility: visible; z-index: 0; cursor: default;" onclick="return A_MENUS[0].onclick(0);" onmouseout="A_MENUS[0].onmouseout(0);" onmouseover="A_MENUS[0].onmouseover(0);" onmousedown="A_MENUS[0].onmousedown(0);"><div id="e0_0i" class="headerModalMinner">Occasion<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18"></div></div><div id="e0_1o" class="" style="position:absolute;top: 50px;left:330px;width:363px;height:280px;visibility:hidden; z-index: 1;cursor:default" onclick="return A_MENUS[0].onclick(1);" onmouseout="A_MENUS[0].onmouseout(1);" onmouseover="A_MENUS[0].onmouseover(1);" onmousedown="A_MENUS[0].onmousedown(1);"><div id="e0_1i" class=""><table border="0"><tbody><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=11" class="modalMenu">Valentine's Day</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Bangla New Year</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Mother's Day</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Father's Day</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Friendship Day</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Eid-ul-Fitre</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Puja Utshab</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Eid-ul-Adha</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Cristmas Day</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">New Year</a></td></tr></tbody></table></td></tr></tbody></table></div></div><div id="e0_2o" class="headerModalMoout" style="position: absolute; top: 20px; left: 530px; width: 160px; height: 25px; visibility: visible; z-index: 0; cursor: default;" onclick="return A_MENUS[0].onclick(2);" onmouseout="A_MENUS[0].onmouseout(2);" onmouseover="A_MENUS[0].onmouseover(2);" onmousedown="A_MENUS[0].onmousedown(2);"><div id="e0_2i" class="headerModalMinner"><span style="padding-left:10px;">Birthday<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18"></span></div></div><div id="e0_3o" class="" style="position:absolute;top: 50px;left:480px;width:363px;height:280px;visibility:hidden; z-index: 1;cursor:default" onclick="return A_MENUS[0].onclick(3);" onmouseout="A_MENUS[0].onmouseout(3);" onmouseover="A_MENUS[0].onmouseover(3);" onmousedown="A_MENUS[0].onmousedown(3);"><div id="e0_3i" class=""><table border="0"><tbody><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=9" class="modalMenu">Birthday Cake</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=10" class="modalMenu">Birthday Flower</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=5" class="modalMenu">Birthday Food</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/product.php?pS=~c1_sc94:&amp;cid=1&amp;scid=94&amp;hs=180&amp;myty=scID" class="modalMenu">Birthday Card</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=2" class="modalMenu">Birthday for Her</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=3" class="modalMenu">Birthday for Him</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=4" class="modalMenu">Birthday for Kids</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Birthday Gifts</a></td></tr></tbody></table></td></tr></tbody></table></div></div><div id="e0_4o" class="headerModalMoout" style="position: absolute; top: 20px; left: 680px; width: 160px; height: 25px; visibility: visible; z-index: 0; cursor: default;" onclick="return A_MENUS[0].onclick(4);" onmouseout="A_MENUS[0].onmouseout(4);" onmouseover="A_MENUS[0].onmouseover(4);" onmousedown="A_MENUS[0].onmousedown(4);"><div id="e0_4i" class="headerModalMinner">Anniversery<img src="images/headerModal/heamodalIcon.jpg" width="18" height="18"></div></div><div id="e0_5o" class="" style="position:absolute;top: 50px;left:630px;width:363px;height:280px;visibility:hidden; z-index: 1;cursor:default" onclick="return A_MENUS[0].onclick(5);" onmouseout="A_MENUS[0].onmouseout(5);" onmouseover="A_MENUS[0].onmouseover(5);" onmousedown="A_MENUS[0].onmousedown(5);"><div id="e0_5i" class=""><table border="0"><tbody><tr><td style="background:url(images/headerModal/headerModalBG.jpg) no-repeat; width:270px; height:125px; padding:2px;" align="center" valign="top"><table border="0" width="100%" cellpadding="1" cellspacing="1"><tbody><tr><td>&nbsp;</td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=9" class="modalMenu">Anniversary Cake</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=10" class="modalMenu">Anniversary Flower</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=3" class="modalMenu">Anniversary for Him</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/product.php?pS=~c1_sc94:&amp;cid=1&amp;scid=94&amp;hs=180&amp;myty=scID" class="modalMenu">Anniversary Card</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=2" class="modalMenu">Anniversary for Her</a></td><td width="50%" align="left" valign="middle">•&nbsp;<a href="http://www.giftbd.com/cat.php?cid=5" class="modalMenu">Anniversary Food</a></td></tr><tr><td width="50%" align="left" valign="middle">•&nbsp;<a href="#" class="modalMenu">Anniversary Gifts</a></td><td>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div></div>
+<center>
+  <div class="header">
+	<div align="left" style="width:945px; height:84px;">
+		<div style="width:281px; height:84px; float:left">
+		<a href="http://www.giftbd.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LOGO','','images/logo-on.gif',1)"><img src="images/logo-off.gif" alt="GiftBD - send gift to bangladesh" name="LOGO" width="281" height="84" border="0" align="left"></a>	
+		</div>
+		<div style="width:124px; height:84px; float:left"><img src="images/header-bg.gif" width="124" height="84"></div>
+		<div style="width:407px; height:66px; float:left; padding-top:18px;">
+			<div style="width:406px; height:39px; background:url(images/headerSlice.jpg);">&nbsp;</div>
+			<div align="center" style="font-size:14px; width:406px; height:20px; padding-top:7px;">Send gifts to Bangladesh. Nationwide Delivery.</div>
+		</div>
+		<div style="width:20px; height:84px; float:left"><img src="images/header-bg.gif" width="20" height="84"></div>
+		<div style="width:104px; height:64px; float:left; padding-top:20px" align="right">
+						<a href="login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','images/login-btn-on.gif',1)"><img src="images/login-btn-off.gif" alt="Click ot Login" name="Login" width="104" height="39" border="0"></a>
+					</div>
+	</div>
+	<link href="style.css" rel="stylesheet" type="text/css">
+<div style="height:35px; background-color:#FFFFFF; font-size:15px; font-weight:bold; color:#7f5431; line-height:35px; float:none;">
+  <div align="right" style="width:945px; height:35px; background-color:#FFFFFF; font-size:15px; font-weight:bold; color:#7f5431; line-height:35px; float:none;"><a href="index.php" class="topmenu">Home</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span>
+    <a href="cat.php?cid=11" class="topmenu">Valentine's Day</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=9" class="topmenu">Cake</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=10" class="topmenu">Flowers</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=2" class="topmenu">Women</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=3" class="topmenu">Men</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=4" class="topmenu">Kids &amp; Baby</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=5" class="topmenu">Food</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=6" class="topmenu">Groceries</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=8" class="topmenu">Electronics</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=7" class="topmenu">Furniture</a><span style="padding-left:10px; padding-right:10px; color:#990000;">|</span><a href="cat.php?cid=1" class="topmenu">Gifts &amp; Card</a>  </div>
+</div>
+	<link href="style.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+function searchVal()
+{
+	if((document.getElementById('txtSearch').value=="") && (document.getElementById('dropSearch').selectedIndex==0))
+	{
+		alert('Please Input a Keyword or Select a Category to Start Search.');
+		document.getElementById('txtSearch').focus();
+		return false;
+	}
+	else
+	{
+		location.replace('search.php?sk='+document.getElementById('txtSearch').value+'&sc='+document.getElementById('dropSearch').value);
+	}
+}
+</script>
+<div style="background-image:url(images/search-menu-bg.jpg); float:none;">
+  <div align="right" style="width:945px; height:32px; font-size:13px; font-weight:bold; color:#2552c6; padding-top:5px">
+	<div align="left" style="width:400px; height:32px; font-size:13px; font-weight:bold; color:#2552c6; float:left;">
+		<input type="text" id="txtSearch" size="15" value="" title="Search Product">
+		<select id="dropSearch">
+			<option value="00000">Entire Site</option>
+			<option value="11">Valentine's Day</option><option value="9">Cake</option><option value="10">Flowers</option><option value="2">Women</option><option value="3">Men</option><option value="4">Kids &amp; Baby</option><option value="5">Food</option><option value="6">Groceries</option><option value="8">Electronics</option><option value="7">Furniture</option><option value="1">Gifts &amp; Card</option>		</select>
+		<input type="button" name="btnSub" value="Go" onclick="return searchVal();">
+	</div>  
+	<div align="right" style="width:545px; height:32px; font-size:13px; font-weight:bold; color:#2552c6; float:left;">
+	<a href="signup.php" class="searchmenu">Sign Up Now</a>  &nbsp;|&nbsp; <a href="cart.php" class="searchmenu">View My Cart</a>  &nbsp;|&nbsp;  <a href="sendPass.php" class="searchmenu">Forgot Password</a>   &nbsp;|&nbsp;  <a href="CustomerSupport.php" class="searchmenu">Customer Support</a>
+	</div>   
+  </div>
+</div>
+  </div>
+</center><center>
+<div align="center" style="width:946px; height:auto; float:none;">
+<div align="center" style="width:945px; height:auto; float:right;">
+  <div style="width:192px; height:auto; float:left;"><img src="images/signup.jpg" width="190" height="700">&nbsp;
+      </div>
+  <div style="width:6px; height:auto; float:left;"><img src="images/spacer.gif" width="6" height="2"></div>
+  
+  <div style="width:747px; height:auto; float:left">
+    <div align="right" class="abouthead"><strong>Privacy Policy</strong></div>
 	
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<meta name="generator" content="Adobe GoLive 4">
-		<title>::Giftbd.com::::</title>
-		<meta name="description" content="Send gifts, flowers to dhaka, bangladesh, cakes to dhaka, foods, clothings for men and women, Bangla Greeting Cards, Deshigreeting cards, cards, ecards and postcards with quotes and colors. Cards for holidays, birthdays, graduation, romantic, weddings, thank you, love &amp; much much more...">
-		<meta name="keywords" content="Bangladesh, bangladesh, Dhaka, Dhaka Flowers, Bangla gifts, deshigift, deshi gift, bangla gifts, Flowers, Chittagong, khulna flowers, chittagong flowers, sylhet, sylhet cake, send gift to bangladesh, send gift to dhaka, gift to dhaka, bd gifts, dhaka gift services, sharee, salwar-kamiz, salarkamiz, cakes, books, cds, bangladeshi magazine, bangladesh food, biriani, chinese food, panjabi, gift items, islamic gifts, gift certificate, bagla gift, birthday gift to bangladesh, rajshahi, rangpur, bogra, faridpur, comilla, cox's bazaar, savar, delivery to bangladesh, roses, flowers, computers to bd, electronic to bangladesh, sweets, mishti, fresh fruit basket, groceries, rice, flour, dal, meat, dry fish, catering, food to Bangladesh, deshi food, deshi phonecard, deshi dinner, deshi beberage, bangladesh kid gifts, bangladeshi babies gift, futua, koti, dolls, toys, home decor, Kitchen, dinner set, mens shaving Accessories, Deshi greeting cards, Bangla greetings, Deshi card, bangla Card, free greeting cards, greetings, free greetings, ecards, online, printable, free ecards, e-cards, free e-cards, egreetings, free printable greeting card, free electronic greeting card, email greeting card, animated greeting card, birthday greeting card, greeting cards for every occasion, mothers day, Holiday cards, Holidays, season's greetings, easter, fathers day, Valentine, Horoscope, birthdays, weddings, FREE postcards, postcards, holiday cards, holiday greetings, greetings, cards, email cards, send cards, holidays, aniversary, thank you, get well, graduation, nature, birthday cards, digital postcards, electronic greeting cards, romance, love, sympathy, travel, birthday, get well, pets, holiday, postcards, Christmas, printable, Halloween, New years, online, congratulations, famous quotes, quotes, Thanks Giving, Thank you, birthday, Sorry, missing you, love, loneliness, lonely, teddy bear, nature, wildlife, newborn, baby, announcement.">
-		<style type="text/css"><!--
-.yhmnwbd { border-right: 1px solid #aaaaaa; border-left: 1px solid #aaaaaa }
-.yhmnwbm { border: solid 1px #aaaaaa }
-.yhmpabd { border: solid 1px #aaaaaa }-->
-		</style>
-		<link href="images/dh.css" type="text/css" rel="stylesheet">
-	</head>
+	
+	<table class="text_about" width="747" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr>
+        <td width="100">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td width="100">&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p align="justify"><span class="heading">Personal Info &amp; Its Use <br>                
+                </span><br>
+                Giftbd&nbsp; uses your IP address to help  diagnose problems, if any, with our server and to administer our web site. Your  IP address is used to help identify you and your shopping cart and to gather  broad demographic information. We use cookies to keep track of your shopping  cart and to deliver content specific to your interests. Our site's registration  form requires users to give us contact information (like their e-mail address),  unique identifiers (like a password), financial information (like their account  or credit card numbers), and demographic information (like their zip code, age,  or income level). We do not market this information to any outside companies.  The customer's contact information is also used to contact the visitor, when  necessary. <br>
+                <br>
+Demographic and profile data may be used to tailor the visitors' experience at  our site, showing them content that we think they might be interested in and  displaying the content according to their preferences. This is designed only to  enhance the shopping experience.<br>
+<br>
+Giftbd&nbsp; also allows any customer to  create an account with giftbd .com. This allows the user to simplify his or her  purchase process at our site. All the information that a customer may supply  when creating an account will be held in the strictest confidence. It will be  used simply to manage the payment of orders and shipping of it. Giftbd&nbsp; does not share any private financial  information about its customers with any outside company or agency unless  required by law. 'Link' pages at giftbd&nbsp; contains  links to other sites. Giftbd&nbsp; is not  responsible for the privacy practices or the content of such web sites. <br>
+<br>
+<span class="heading"><strong>Delete/Deactivate :</strong></span><strong><br>
+<br>
+</strong>This site gives users the option to remove their information  from our database and not to receive future communications. Please e-mail  Customer Service by filling out the form in the customer service section for  further assistance. <br>
+<br>
+<span class="heading"><strong>Change/Modify :</strong></span><strong><br>
+<br>
+</strong>This site gives users the option for changing and  modifying information previously provided. Please inform the customer service  section. Be sure to indicate the exact nature of modification you require. Our  Customer Service Executive will contact you in order to expedite your request  with all deliberate speed. <br>
+              <br>
+              <span class="heading"><strong>Security :</strong></span><strong><br>
+              <br>
+              </strong> The security of your data is of utmost importance to giftbd .com. <br>
+                </p>
+          <div></div>
+            <div>              </div>          </td><td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
 
-	<body topmargin="0" leftmargin="0">
-		
-<table border="0" cellpadding="0" cellspacing="0" width="780" height="61">
-  <tbody><tr height="19"> 
-    <td height="19" colspan="9"> 
-      <div align="center"> 
-        <title>GiftBD.com :: Online gift Delivery Service for Bangladesh </title>
+  <div style="height:8px; width:945px; float:left;">&nbsp;</div>
+  <link href="style.css" rel="stylesheet" type="text/css">
+
 <style type="text/css">
-a:active {color: #000000}
-a:visited {color: #000000}
-a:link {color: #000000}
-a:hover {color: #000000}
-a {text-decoration: none}
-a:hover {text-decoration: underline}
+
+<!--
+
+.style2 {
+
+	font-size: 17px;
+
+	color: #FF0000;
+
+	font-weight: bold;
+
+}
+.style3 {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+-->
 
 </style>
-<table border="0" cellpadding="0" cellspacing="0" width="686">
-  <tbody> 
-  <tr> 
-    <td width="100%"><img src="image/2top_bar.gif" width="780" height="61" usemap="#Map" border="0"></td>
-  </tr>
-  <tr height="22"> 
-    <td bgcolor="#508C33" height="22" width="100%"> 
-      <div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000" size="1"><a href="index.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">HOME</font></a></font><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><font color="#FFFF00" face="verdana"> 
-        |</font>&nbsp; 
-                        <a href="flower.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="ffffff"> 
-        FLOWERS &amp; CAKES        </font></a> <font color="#FFFF00" face="verdana"> | </font> 
-                        <a href="flower.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="ffffff"> 
-        GIFT ITEMS        </font></a> <font color="#FFFF00" face="verdana"> | </font> 
-                        <a href="women.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="ffffff"> 
-        FOR WOMEN        </font></a> <font color="#FFFF00" face="verdana"> | </font> 
-                        <a href="men.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="ffffff"> 
-        FOR MEN        </font></a> <font color="#FFFF00" face="verdana"> | </font> 
-                        <a href="food.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="ffffff"> 
-        FOOD ITEMS        </font></a> <font color="#FFFF00" face="verdana"> | </font> 
-                </font></b> </div>
-    </td>
-  </tr>
-  <tr> 
-    <td bgcolor="#eeeeee" width="100%"> 
-      <form name="form1" style="margin-bottom:0" method="post" action="qshop.php"><input type="hidden" name="PHPSESSID" value="5e025739b7a477e6096a84b27d0012ce"> 
-      <table border="0" cellpadding="1" cellspacing="1" width="766">
-        <tbody> 
-        <tr> 
-          <td><font face="Verdana,Geneva,Arial" size="1"> &nbsp;Search:&nbsp;</font></td>
-          <td> 
-            <select name="product" size="1" style="font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 1">
-              <option value="all" selected="">All Categories </option>
-             			  <option value="38">PHONE CARDS</option>
-        			  <option value="39">FLOWERS &amp; CAKES</option>
-        			  <option value="40">GIFT ITEMS</option>
-        			  <option value="41">FOR WOMEN</option>
-        			  <option value="42">FOR MEN</option>
-        			  <option value="44">FOOD ITEMS</option>
-                    </select>
-          </td>
-          <td> 
-            <input type="text" name="squery" style="font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 1" size="23">
-          </td>
-          <td> 
-            <input border="0" height="24" src="image/gobutton.gif" type="image" width="22" name="image">
-          </td>
-          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FF6600">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#663399">New 
-            customer </font><font color="#990000"><b>?</b></font> <a href="signup.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FD6500">Click 
-            here to get started</font></a>. <font color="#009900">&gt;&gt;</font></font></td>
-        </tr>
-        </tbody> 
-      </table>
-      </form>
-    </td>
-  </tr>
-  <tr height="1"> 
-    <td bgcolor="#cccccc" height="1" width="100%"><img height="1" src="Images/spacer.gif" width="590"></td>
-  </tr>
-  <tr> 
-    <td bgcolor="#FFFFFF" width="100%" height="5"></td>
-  </tr>
-  </tbody> 
-</table>
-<map name="Map">
-  <area shape="rect" coords="437,24,476,56" href="index.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-  <area shape="rect" coords="491,20,537,58" href="signup.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-  <area shape="rect" coords="549,23,610,59" href="view2.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-  <area shape="rect" coords="624,24,700,59" href="member.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-  <area shape="rect" coords="704,25,756,58" href="contact.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-  <area shape="rect" coords="16,5,277,52" href="index.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">
-</map>
-      </div>
-    </td>
-  </tr>
-  <tr height="346"> 
-    <td width="158" height="2" valign="top"> 
-      <center>
-      </center>
-      <div align="center"></div>
-      <div align="center">
-        
-<table width="170" border="0" cellspacing="0" cellpadding="0" height="8">
-  <tbody><tr> 
-    <td> 
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  FLOWERS &amp; CAKES                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-               <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=112&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Flowers</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=113&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Red Roses</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=114&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Pink Roses</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=115&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Mix Roses</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=116&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Square Cakes</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=131&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Heart Cakes</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=130&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Round Cakes</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		  		
-		
-        
-        <!--4-->
-        
-        </tbody> 
-      </table> 
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  GIFT ITEMS                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-               <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=119&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Decorated Mugs</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=120&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Show Pieces</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=121&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Flower Vases</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=124&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Stationeries</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=137&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Greeting Cards</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=138&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Balloons</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=139&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Stuff Toys</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=144&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Candles &amp; Holders</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=145&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Picture Frames</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		  		
-		
-        
-        <!--4-->
-        
-        </tbody> 
-      </table> 
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  FOR WOMEN                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-               <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=122&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Fabrics</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=123&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Jewelry</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=126&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Women's Fatua</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=136&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Women's Accessories</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=141&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Cosmetics</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=143&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Jewelry Box</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		  		
-		
-        
-        <!--4-->
-        
-        </tbody> 
-      </table> 
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  FOR MEN                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-               <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=127&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Men's Fatua</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=128&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Accessories</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=129&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">T-Shirts</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=140&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Men's Formal Shirts</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		  		
-		
-        
-        <!--4-->
-        
-        </tbody> 
-      </table> 
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  FOOD ITEMS                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff">
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-               <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=133&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Premium Sweets</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=134&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Chinese Food</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		          <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=135&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> <font color="#000099">Snacks &amp; Chips</font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-		
-		  		
-		
-        
-        <!--4-->
-        
-        </tbody> 
-      </table> 
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-          </td>
-  </tr>
-</tbody></table>
-      </div>
-    </td>
-    <td width="2" background="images/dot.gif" height="2"></td>
-    <td height="2" valign="top" width="455" align="center"> 
-      <div align="center">
-        <div align="justify"> 
-          <table width="100%" border="0" cellspacing="0" cellpadding="0" height="14">
-            <tbody><tr> 
-              <td> 
-                <div align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b><font color="#FF3300"><br>
-                  </font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b><font color="#CC3300">We 
-                  Respect Your Privacy</font></b></font></div>
-              </td>
-            </tr>
-          </tbody></table>
-          <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">At<b> 
-            </b> <font color="#003366"><font color="#000000"><a href="http://www.Giftbd.com"><b>Giftbd.com</b></a></font></font>, 
-            we are committed to protecting the privacy of all our customers. <font color="#003366"><font color="#000000"><a href="http://www.Giftbd.com"><b>Giftbd.com</b></a></font></font><a href="http://www.Giftbd.com"></a> 
-            does not sell, rent, or loan any identifiable information at the individual 
-            level regarding its customers to any third party. Any information 
-            you give us is held with the utmost care and security. This information 
-            is collected primarily to ensure that we are able to fulfill your 
-            requirements and to deliver you a truly personalized shopping experience.</font></p>
-          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">When 
-            you purchase products from <font color="#003366"><font color="#000000"><a href="http://www.Giftbd.com"><b>Giftbd.com</b></a></font></font><a href="http://www.Giftbd.com"></a> 
-            or register with us for any services, you have the option of receiving 
-            E-mails regarding updates about special offers, new products, and 
-            new services including any significant upgrades to the Store.</font></p>
-          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">We are 
-            also bound to co-operate fully should a situation arise where we are 
-            required by law or legal process to provide information about a customer. 
-            We may share non-personal, non-individual statistical or demographic 
-            information in aggregate form with our marketing partners, advertisers 
-            or other third parties for research and advertising purposes. In other 
-            words, we will not tell our marketing partners that you purchased 
-            a specific product, but we may tell them how many customers purchased 
-            that product.</font></p>
-            
-          <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">For 
-            example, 31% of <font color="#003366"><font color="#000000"><a href="http://www.Giftbd.com"><b>Giftbd.com</b></a></font></font> 
-            members are female and 66% are between the ages of 25 and 35. This 
-            information does not have enough information to personally identify 
-            you.</font></p>
-        </div>
-        </div>
-    </td>
-    <td width="2" background="images/dot.gif" height="2"></td>
-    <td height="2" valign="top" width="158" align="center"> 
-      <table width="170" border="0" cellspacing="1" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" height="222"> 
-      
-<table height="45" cellspacing="0" cellpadding="0" width="95%" align="center" border="0">
-  <tbody> 
-  <tr> 
-    <td width="7%"><img height="5" src="image/sq2.gif" width="5"></td>
-    <td valign="top" align="right" rowspan="2"> 
-      <table border="0" cellpadding="0" cellspacing="0" width="158" height="123">
-        <tbody><tr> 
-          <td valign="top" bgcolor="#F8F8F8"> 
-            <center>
-              <table border="0" class="yhmnwbm" cellpadding="0" cellspacing="0" width="156">
-                <tbody><tr height="19"> 
-                  <td bgcolor="#F7F7F7" height="19"> 
-                    <center>
-                      <font face="Verdana" color="white" size="1"><b><font size="2" color="#009900">Member 
-                      Login </font></b></font> 
-                    </center>
-                  </td>
-                </tr>
-                <tr> 
-                  <td bgcolor="white"> 
-                    <center>
-                    </center>
-                  </td>
-                </tr>
-                <tr height="5"> 
-                  <td bgcolor="#f4f1f1" height="5"></td>
-                </tr>
-                <tr height="51"> 
-                  <td bgcolor="white" height="9" valign="top"> 
-                    <form name="form1" style="margin-bottom:0" method="post" action="pass.php"><input type="hidden" name="PHPSESSID" value="5e025739b7a477e6096a84b27d0012ce">
-                      <table border="0" cellpadding="0" cellspacing="2" width="100%">
-                        <tbody><tr> 
-                          <td width="40%" height="17"> 
-                            <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Email</font></div>
-                          </td>
-                          <td width="60%" height="17"> 
-                            <input type="text" name="email" size="10" style="font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 1">
-                          </td>
-                        </tr>
-                        <tr> 
-                          <td width="40%" height="2"> 
-                            <div align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Password 
-                              </font></div>
-                          </td>
-                          <td width="60%" height="2"> 
-                            <input type="password" name="password" size="10" style="font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 1">
-                          </td>
-                        </tr>
-                        <tr> 
-                          <td width="40%"> 
-                            <div align="right"></div>
-                          </td>
-                          <td width="60%"> 
-                            <input type="image" src="image/go.gif" name="image" width="22" height="22">
-                          </td>
-                        </tr>
-                      </tbody></table>
-                    </form>
-                  </td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F7F7F7"> 
-                    <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="fpassword.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce">Forgot 
-                      Password</a><br>
-                      <a href="signup.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><b>New User Signup</b></a></font></div>
-                  </td>
-                </tr>
-              </tbody></table>
-            </center>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr> 
-    <td width="7%"><img height="111" src="image/kub_sell2.gif" width="5"></td>
-  </tr>
-  </tbody> 
-</table>
-            <br>
-      <table height="8" cellspacing="1" cellpadding="0" width="95%" align="center" bgcolor="#cccccc" border="0">
-        <tbody> 
-        <tr> 
-          <td bgcolor="#ffffff" valign="top">
-            <div align="center"><a href="http://www.smartpaybd.com" target="_blank"><img src="images/pay.jpg" width="162" height="82" border="0"></a></div>
-          </td>
-        </tr>
-        </tbody> 
-      </table>
-      <br>
-            <table cellspacing="0" cellpadding="0" width="90%" align="center" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td colspan="2" height="22"> 
-            <table cellspacing="1" cellpadding="0" width="100%" align="center" bgcolor="#009900" border="0" height="18">
-              <!--1-->
-              <tbody> 
-              <tr align="left"> 
-                <td valign="middle" bgcolor="#F9F9F9" colspan="2" height="14"> <font size="1"><b><font size="1"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"><img src="image/flower_logo.gif" width="17" height="12"></font></b></font> 
-                  <font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  PHONE CARDS                  </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff"> 
-                                    </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#000000"> 
-                  </font></b></font></td>
-              </tr>
-              </tbody> 
-            </table>
-          </td>
-        </tr>
-        <tr valign="top" align="left"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-                <tr align="left"> 
-          <td width="8%" height="15"><img height="5" src="image/sq2.gif" width="5"></td>
-          <td width="92%" height="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="shop.php?query=shop&amp;prd=&amp;PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000"> 
-            <font color="#000099">
-                        </font></font></a></font></td>
-        </tr>
-        <tr valign="top" align="left" bgcolor="#cccccc"> 
-          <td colspan="2" height="1"></td>
-        </tr>
-                <!--4-->
-        </tbody> 
-      </table>
-      <a href="send-flower-kolkata.htm?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#FFFFFF">.</font></a><br>
-            <br>
-      <table height="68" cellspacing="1" cellpadding="0" width="90%" align="center" bgcolor="#cccccc" border="0">
-        <!--1-->
-        <tbody> 
-        <tr align="left"> 
-          <td valign="top" bgcolor="#ffffff" colspan="2" height="136"> 
-            <div align="center"><img src="image/right_banner.gif" width="145" height="135"></div>
-          </td>
-        </tr>
-        <!--2-->
-        <!--3-->
-        <!--4-->
-        <!--5-->
-        <!--6-->
-        <!--7-->
-        <!--8-->
-        <!--9-->
-        </tbody> 
-      </table>
-      
-    </td>
-  </tr>
-</tbody></table>
 
-    </td>
-  </tr>
-</tbody></table>
-							
-						
-						
-					
-						
-  &nbsp; 
-					
-					
-						
-					
-				
-			
-		
-		
-		
-	
-		
-    <div align="center"> 
-      <table width="780" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td> 
-            
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody> 
-  <tr valign="middle"> 
-    <td colspan="5"> 
-      <div align="center">
-        <table height="8" cellspacing="0" cellpadding="2" width="90%" align="center" border="0">
-          <tbody> 
-          <tr> 
-            <td valign="bottom" width="0%" bgcolor="#ffffff"> 
-              <div align="right"></div>
-            </td>
-            <td valign="bottom" width="2%" bgcolor="#ffffff"><img height="16" src="image/arrow.gif" width="15"></td>
-            <td width="20%" bgcolor="#ffffff"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="customer.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#0A0A0A">Customer 
-              Support</font></a></font></td>
-            <td width="20%" bgcolor="#ffffff" align="right"><img height="16" src="image/arrow.gif" width="15"></td>
-            <td width="20%" bgcolor="#ffffff"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="feedback.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#080808">Feed 
-              Back Us</font></a></font></td>
-            <td width="20%" bgcolor="#ffffff" align="right"><img height="16" src="image/arrow.gif" width="15"></td>
-            <td width="20%" bgcolor="#ffffff"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="comments.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#080808">Your 
-              Comments</font></a></font></td>
-            <td width="20%" bgcolor="#ffffff" align="right"><img height="16" src="image/arrow.gif" width="15"></td>
-            <td width="20%" bgcolor="#ffffff"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="locations.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#080808">Locations</font></a></font></td>
-          </tr>
-          </tbody> 
-        </table>
-        <font face="Webdings" size="1" color="black">4</font><a href="policy.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font size="1" face="Verdana,Arial,Helvetica,sans-serif" color="black">Privacy 
-        Policy</font></a> <font face="Webdings" size="1" color="black">4 </font><a href="terms.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font size="1" face="Verdana,Arial,Helvetica,sans-serif" color="black">Terms 
-        &amp; Condition</font></a><font face="Webdings" size="1" color="black"> 
-        4</font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="black"><a href="returnpolicy.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#121212">Return 
-        Policy</font></a> </font><font face="Webdings" size="1" color="black">4</font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="black"><a href="shippingpolicy.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#0C0C0C">Shipping 
-        Policy</font></a></font><font face="Webdings" size="1" color="black"> 
-        4</font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="#000000"><a href="copyright.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#0D0D0D">Copyright</font></a></font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="black"><font face="Webdings"> 
-        </font></font><font face="Webdings" size="1" color="black">4</font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="black"><a href="faq.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#040404">Faq</font></a></font><font face="Webdings" size="1" color="black"> 
-        4</font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="#0A0A0A"><a href="contact.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#000000">Contact 
-        us</font></a></font><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="black"><a href="contact.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"> 
-        </a><br>
-        </font></div>
-    </td>
-  </tr>
-  </tbody> 
-</table>
-<div align="center"></div>
-<table cellspacing="0" cellpadding="0" width="100%" border="0" align="center">
-  <tbody> 
-  <tr> 
-    <td bgcolor="#508C33" height="20"> 
-      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" color="#ffffff" size="1">©Copyright <a href="index.php?PHPSESSID=5e025739b7a477e6096a84b27d0012ce"><font color="#F9F9F9">Giftbd.com</font></a>, 
-        2004-2005 All rights reserved</font></div>
-    </td>
-  </tr>
-  </tbody> 
-</table>
+<div style="width:945px; height:79px; font:Arial, Helvetica, sans-serif; font-size:13px; color:#666666; border:dotted 1px #CCCCCC;">
 
-          </td>
-        </tr>
-      </tbody></table>
-    </div>
-  
-	
-	
+  <div align="center" style="width:786px; height:77px; float:left; padding:10px 0px"><span class="style3">Wellcome to giftbd.com. Send Gifts to Bangladesh for All occasions. A site that understands the value of quality and <br>
 
+  great customer service. Let us be your ambassador in finding and sending gifts to Bangladesh. </span><br>
 
+  <span class="style2">Nationwide Free Delivery. Lowest Price Guaranteed. Call us - 8806662606145, 01971515372.</span></div> 
 
+  <div style="width:157px; height:77px; float:left" border:solid="" 1px="" black=""><img src="images/support.jpg"></div>
+
+</div>
+
+  <div style="height:8px; width:945px; float:left;">&nbsp;</div>
+  <link href="style.css" rel="stylesheet" type="text/css">
+<div align="center" class="copyright"><!--<a href="aboutus.php" class="footermenu">About us</a> | --><a href="termsCond.php" class="footermenu">Terms &amp; Conditions</a> | <a href="PrivacyPolicy.php" class="footermenu">Privacy Policy </a> | <a href="returnpolicy.php" class="footermenu">Return Policy</a> | <a href="faq.php" class="footermenu">FAQ</a> | <a href="contactUs.php" class="footermenu">Contact us</a><br>
+For queries and comments mail at giftbd@yahoo.com Copyright © 2009 GiftBD.com. All rights reserved.</div>
+<style type="text/css">
+<!--
+.style1 {
+	color:#F0F4F4;
+}
+-->
+</style>
+<div style="font-weight:bold; border:0px; width:945px; float:none;">
+  <h1 class="style1">send gifts to bangladesh, Bangladesh gift, Bangladeshi gift</h1>
+</div>
+<div id="container" style="font-weight:bold; border:0px; width:945px; height:100px; overflow:hidden; float:none;">
+  <h1 class="style1">"send gift to bangladesh on valentinesday, send gift to bangladesh on mothersday, send iftar to bangladesh, send ifter to bangladesh, gift to bangladesh at pohela boishakh, bangladesh hopping, online shopping bangladesh, online shop bangladesh, bangladesh gift, bangladesh online hopping, bangladesh gifts, bangladeshi shopping, gifts to bangladesh, gift in bangladesh, bangladesh gift shop, gift to sylhet bangladesh, gift to bangladesh , mothersday gift to bangladesh, bangladesh eid fashion, eid clothing sesh, gift to bangladesh, gift to bangladesh on new year, gift to bangladesh gifts to Bangladesh : Bangladeshi e-commerce site :   website : online shopping of bangladesh : shoping : send flowers cakes sharee   saree roses fruits greeting cards to Bangladesh bd Dhaka Chittagong Khulna   Sylhet Rajshahi : Barishal nationwide : send gifts : e-commerce site : online   shopping : shoping : send to Bangladesh : Bd : Dhaka : gifts to Bangladesh :   best leading top pioneer great good Bangladeshi bd e-commerce : online shopping   site website : send gifts : e-commerce site : online shopping : shoping : send   to Bangladesh : Bd : Dhaka : gifts to Bangladesh : best leading top pioneer   great good Bangladeshi bd e-commerce : online shopping site website : send gifts   : e-commerce site : online shopping : shoping : send to Bangladesh : Bd : Dhaka   : gifts to Bangladesh : best leading top pioneer great good Bangladeshi bd   e-commerce : online shopping site website : send gifts : e-commerce site :   online shopping : shoping : send to Bangladesh : Bd : Dhaka : gifts to   Bangladesh : best leading top pioneer great good Bangladeshi bd e-commerce :   online shopping site website : send gifts : e-commerce site : online shopping :   shoping : send to Bangladesh : Bd : Dhaka : gifts to Bangladesh : best leading   top pioneer great good Bangladeshi bd e-commerce : online shopping site website   : send gifts : e-commerce site : online shopping : shoping : send to Bangladesh   : Bd : Dhaka : gifts to Bangladesh : best leading top pioneer great good   Bangladeshi bd e-commerce : online shopping site website : guaranteed on time   delivery : photo proof : send presents : cloths : cosmetics : grocery :   groceries : for men man women woman baby babies : latest headline news from   Bangladesh : free shipping : free gift cards : free gift delivery anniversary :   baby : birthday : Christmas : mothers' day fathers' day : valentines day :   friendship day : new year house warming : retirement : wedding : holiday   Bangladesh : Bengal : Bangla : deshi : Bangladeshi : Noakahli : Comilla :   nationwide gift delivery, send gift to rajshahi, send gift to sylhet, send gift   to chittagong, send gift to khulna ft to bangladesh, flowers   , cakes, gifts, gift, send gift to Dhaka, Send gift to bangladesh, Gifts to   Bangladesh , bangladesh gift, bangladesh gift, bangladesh gift, bangladesh gift,   bangladesh gift, bangladesh gift, bangladesh gift, bangladesh gift, bangladesh   gift, send gift to rajshahi, send gift to sylhet, send gift to chittagong, send   gift to khulna, Online Shopping bangladesh, Send gift to bangladesh, send gifts to bangladesh,bangladesh shopping, gift to bangladesh, online shop bangladesh, bangladesh gift, bangladesh online shopping, gift to bangladesh on valentine's day, gift to bangladesh, gift to sylhet bangladesh, gift to bangladesh on eid"</h1>
+</div></div></center>
 
 </body></html>
