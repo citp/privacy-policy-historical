@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223114359id_/http%3A//www.gasparinutrition.com/Default.aspx%3Ftabid%3D241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410035433id_/http%3A//gasparinutrition.com/PrivacyPolicy/tabid/241/Default.aspx) for the most accurate reproduction.*
 
 # Gaspari Nutrition > Privacy Policy
 
