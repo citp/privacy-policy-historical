@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateschoolexam.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920120412id_/http%3A//www.privateschoolexam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolexam.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410154446id_/http%3A//www.privateschoolexam.com/privacy.html) for the most accurate reproduction.*
 
 # Guaranteed to Raise Your ISEE Test & SSAT Test Score - Privacy Policy
 
