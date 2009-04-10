@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206062305id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410032905id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
 
 # Holiday Reviews & Hotel Reviews - Holiday Watchdog
 
