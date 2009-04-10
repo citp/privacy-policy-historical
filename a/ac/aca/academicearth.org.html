@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the academicearth.org privacy policy that was archived on 2009-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090410072251id_/http%3A//www.academicearth.org/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>
+			Academic Earth - Privacy	</title>
+	<meta name="author" content="electricpulp.com">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" href="/css/common.css"><link rel="stylesheet" type="text/css" href="/css/page.css"><script type="text/javascript" src="/js/prototype.js"></script><script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="/js/academicearth.js"></script><script type="text/javascript" src="/js/favorites.js"></script><script type="text/javascript" src="/js/swfobject.js"></script><script type="text/javascript" src="/js/lecture-hover.js"></script><!--Start Kampyle Exit-Popup Code--> 
+<script type="text/javascript">
+var k_push_vars = {
+	"view_percentage": 0,
+	"popup_font_color": "#000000",
+	"popup_background": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Would you be willing to give us a short (1 minute) feedback?",
+	"footer": "Thank you for helping us improve our website",
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "http://cf.kampyle.com/",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 2828912
+}
+</script>
+<script type="text/javascript" src="http://cf.kampyle.com/k_push.js"></script>
+<!--End Kampyle Exit-Popup Code-->
+
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->
+</head>
+
+<body>
+	<div id="user-nav">
+		<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-6386332-1");
+	} catch(err) {}
+</script>
+<div class="inner clearfix">
+	<ul id="header-account-links">
+			<li id="header-login-form" style="display:none">
+			<form id="UserLoginForm" method="post" action="/users/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>				<div class="input text"><label for="UserUsername">Username</label><input name="data[User][username]" type="text" maxlength="255" value="" id="UserUsername"></div>				<div class="input password"><label for="UserPassword">Password</label><input type="password" name="data[User][password]" value="" id="UserPassword"></div>				<input type="hidden" name="data[User][goto]" value="//" id="UserGoto">				<input type="submit" name="header-login-submit" value="Login" id="header-login-submit" class="submit">&nbsp;&nbsp;or&nbsp;&nbsp;<a href="/users/login" id="header-login-cancel-link">Cancel</a>
+
+						</form>		</li>
+		<li id="password-lookup" style="display:none"><a href="/users/password-lookup">Password Lookup</a></li>
+		<li id="login-item"><a href="/users/login" id="header-login-link" class="grey">Login</a></li>
+		<li id="create-account-item"><a href="/users/signup" class="grey">Register</a></li>
+			<li class="last"><a href="/lectures/advanced">Advanced Search</a></li>
+	</ul>
+</div>
+	</div>
+
+	<div id="header">
+		<div class="inner">
+							<a id="logo" href="/">Academic Earth</a>
+						<ul id="navigation">
+					<li><a href="/subjects/">Subjects</a></li>
+	<li><a href="/universities/">Universities</a></li>
+	<li><a href="/speakers/">Instructors</a></li>
+	<li><a href="/playlists/">Playlists</a></li>
+			</ul>
+				<fieldset id="search-fieldset">
+		<form id="search-form" method="post" action="/lectures/searchRedirect"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>			<input name="data[Lecture][searchField]" type="text" id="LectureSearchField" autocomplete="off" value="Search" onfocus="if(this.value=='Search') this.value=''" onblur="if(this.value=='') this.value='Search'">
+		</form>	</fieldset>
+	<div id="autocomplete_dropdown" class="auto_complete"></div>
+	<div id="search-progress" style="display:none;">
+		<div id="search-progress-spinner">
+			<div>searching...</div>
+			<img src="/img/search/search-progress.gif" width="125" height="10" alt="...">
+		</div>
+	</div>
+	<script type="text/javascript">
+	//<![CDATA[
+	AE.Autocompleter = Class.create(Ajax.Autocompleter, {
+	  onKeyPress: function(event) {
+	       if(event.keyCode==Event.KEY_TAB || event.keyCode==Event.KEY_RETURN || 
+	         (Prototype.Browser.WebKit > 0 && event.keyCode == 0)) return;
+
+	    this.changed = true;
+	    this.hasFocus = true;
+
+	    if(this.observer) clearTimeout(this.observer);
+	      this.observer = 
+	        setTimeout(this.onObserverEvent.bind(this), this.options.frequency*1000);
+	  },
+	  onBlur: function(event) {
+	    // needed to make click events working
+		if (!Prototype.Browser.IE)
+		{
+			this.hideIt();
+		}
+	  },
+	  hideIt: function() {
+		    AE.searchTimeout = setTimeout(this.hide.bind(this), 250);
+		    this.hasFocus = false;
+		    this.active = false;
+	  }
+	});
+
+	Event.observe(document, 'dom:loaded', function(){
+		var aea = new AE.Autocompleter('LectureSearchField', 'autocomplete_dropdown', '/lectures/autocomplete', {
+			indicator: 'search-progress',
+			onHide: function(element, update) {
+				new Effect.Fade(update,{duration:0.15});
+				element.up('form').removeClassName('on');
+				
+			},
+			onShow: function(element, update) {
+				if(!update.style.position || update.style.position=='absolute') {
+					update.style.position = 'absolute';
+					Position.clone(element, update, {
+						setHeight: false, 
+						offsetTop: element.offsetHeight
+					});
+				}
+				new Effect.Appear(update,{duration:0.15});
+				element.up('form').addClassName('on');
+				if (Prototype.Browser.IE > 0)
+				{
+					Event.observe(document, 'click', function (e) {
+						myHideIt();
+					});
+				}
+				AE.trackEvent('search-bar-use');
+
+				var els = $$('li.search-li ul li a').each(function(el){
+					Event.observe(el, 'click', function(e){
+						Event.stop(e);
+						AE.trackEvent('search-bar-click', el.href);
+						window.location = el.href;
+					});
+				});
+			},
+			updateElement: function (element, update) {
+				$('search-form').submit();
+			}
+		});
+
+		function myHideIt() {
+			aea.hideIt();
+		};
+
+	});
+	//]]>
+	</script>
+		</div>
+	</div>
+
+	<div id="main" class="">
+		
+		
+		<div class="inner">
+			
+					
+						<h2>Privacy Policy</h2>
+
+<img src="/img/rnd-top.gif" width="976" height="6" alt="" border="0" class="cap">
+<div class="page-wrapper clearfix">
+	<p><span style="font-family: Arial; font-size: 12px; font-weight: bold; ">Updated as of Novemer 13, 2008</span></p>
+<h1 class="title"><span style="font-size: 15px;"><span style="color: #333333; font-family: Arial; font-size: 12px; font-weight: normal;">
+<p>The following describes privacy practices of Academic Earth.</p>
+<h2 class="yt-static" style="margin-top: 5px; font-size: 18px; font-weight: bold; color: #000000; margin-bottom: 5px; padding: 0px;">Personal Information</h2>
+<ul class="marT0" style="margin-top: 0px;">
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;"><strong>Non-Account Activity.</strong>&nbsp;You can watch videos on Academic Earth without having an Academic Earth Account. You can also contact us about a particular video without having an Academic Earth Account.</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;"><strong>Account-Related Activity.</strong>&nbsp;Certain other activities on Academic Earth—like adding favorites or posting comments—require you to have an Academic Earth Account. We ask for some personal information when you create an Academic Earth Account, including your email address and a password, which is used to protect your account from unauthorized access.</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;"><strong>Usage Information.</strong>&nbsp;We may record information about your usage, such as when you use Academic Earth, the videos you view, favorites you subscribe to, and the frequency and size of data transfers, as well as information you display or click on in Academic Earth (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.</li>
+</ul>
+<h2 class="yt-static" style="margin-top: 5px; font-size: 18px; font-weight: bold; color: #000000; margin-bottom: 5px; padding: 0px;">Uses</h2>
+<ul class="marT0" style="margin-top: 0px;">
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">If you submit personally identifiable information to us through the Academic Earth site, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the Academic Earth site, and to process any correspondence you send to us.</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Academic Earth Site changes or for customer service purposes).</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Academic Earth Site and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Academic Earth site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.</li>
+</ul>
+<h2 class="yt-static" style="margin-top: 5px; font-size: 18px; font-weight: bold; color: #000000; margin-bottom: 5px; padding: 0px;">Information That is Publicly Available</h2>
+<ul class="marT0" style="margin-top: 0px;">
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">If you choose to use certain features, then your activity associated with these features may be aggregated and shared with other Users. Such shared activity may include what videos you favorite, how you rated videos, and what videos you have shared.</li>
+</ul>
+<h2 class="yt-static" style="margin-top: 5px; font-size: 18px; font-weight: bold; color: #000000; margin-bottom: 5px; padding: 0px;">Your Choices</h2>
+<ul class="marT0" style="margin-top: 0px;">
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">You may, of course, decline to submit personally identifiable information through the Academic Earth Site, in which case you can still view videos and explore the Academic Earth Site, but Academic Earth may not be able to provide certain services to you.</li>
+<li class="yt-static" style="margin-bottom: 5px; list-style-type: square;">You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.</li>
+</ul>
+<h2 class="yt-static" style="margin-top: 5px; font-size: 18px; font-weight: bold; color: #000000; margin-bottom: 5px; padding: 0px;">More Information</h2>
+<p class="marT0" style="margin-top: 0px;">For more information about our privacy practices, email us at hello@academicearth.org or write to us at:</p>
+<p>Academic Earth<br>419 Lafayette St., Fl 2<br>New York, NY 10003<br>USA</p>
+<p>&nbsp;</p>
+</span></span></h1></div>
+<img src="/img/rnd-bottom.gif" width="976" height="6" alt="" border="0" class="cap">		
+				
+		</div>
+		
+				
+	</div>
+		
+	<!--Start Kampyle Feedback Form Button-->
+<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2828912&amp;form_id=8369&amp;lang=en" target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff();return false;"><span id="kampyle_text">Leave Feedback</span></a></div>
+<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button-->
+	<div id="editors-picks" class="clearfix">
+	<div class="inner">
+		<h3>Editor’s Picks</h3>
+
+		<ol>
+												<li class="clearfix">
+												<a class="add picks" href="/lectures/enqueue/1555/">&nbsp;</a>
+				
+				<a href="/lectures/russia-yesterday-today-and-tomorrow" class="thumb">
+					<img src="/img/play-icon-small.png" width="21" height="21" alt="" border="0" class="play-icon">
+					<img alt="Russia: Yesterday, Today and Tomorrow" src="/img/lectures/AEaccount4-PUC20081211BillBradleyWWS653-272.jpg" class="thumb-144">
+				</a>
+
+				<h3><a href="/lectures/russia-yesterday-today-and-tomorrow">Russia: Yesterday, Today and Tomorrow</a></h3>
+				<h4><a href="/universities/princeton/">Princeton</a> / <a href="/subjects/political-science">
+	Political Science</a>
+</h4>
+				<h5>
+										<a href="/speakers/bill-bradley">Bill Bradley</a><br>
+									</h5>
+			</li>
+															<li class="clearfix">
+												<a class="add picks" href="/lectures/enqueue/235/">&nbsp;</a>
+				
+				<a href="/lectures/atomic-theory-matter-a" class="thumb">
+					<img src="/img/play-icon-small.png" width="21" height="21" alt="" border="0" class="play-icon">
+					<img alt="Atomic Theory of Matter  " src="/img/lectures/Aev264-MIT5111Lec1923-204.jpg" class="thumb-144">
+				</a>
+
+				<h3><a href="/lectures/atomic-theory-matter-a">Atomic Theory of Matter  </a></h3>
+				<h4><a href="/universities/mit/">MIT</a> / <a href="/subjects/chemistry">
+	Chemistry</a>
+</h4>
+				<h5>
+										<a href="/speakers/sylvia-ceyer-1">Sylvia  Ceyer</a><br>
+									</h5>
+			</li>
+															<li class="clearfix">
+												<a class="add picks" href="/lectures/enqueue/1305/">&nbsp;</a>
+				
+				<a href="/lectures/bible-parts-of-the-whole" class="thumb">
+					<img src="/img/play-icon-small.png" width="21" height="21" alt="" border="0" class="play-icon">
+					<img alt="Studying the Old Testament" src="/img/lectures/AEaccount5-yale_rlst1451363-89.jpg" class="thumb-144">
+				</a>
+
+				<h3><a href="/lectures/bible-parts-of-the-whole">Studying the Old Testament</a></h3>
+				<h4><a href="/universities/yale/">Yale</a> / <a href="/subjects/religion">
+	Religion</a>
+</h4>
+				<h5>
+										<a href="/speakers/christine-hayes-1">Christine  Hayes</a><br>
+									</h5>
+			</li>
+															<li class="clearfix">
+												<a class="add picks" href="/lectures/enqueue/2430/">&nbsp;</a>
+				
+				<a href="/lectures/entrepreneurial-skills-learned" class="thumb">
+					<img src="/img/play-icon-small.png" width="21" height="21" alt="" border="0" class="play-icon">
+					<img alt="Entrepreneurial Skills Learned" src="/img/lectures/AEaccount4-ECO1503714-227.jpg" class="thumb-144">
+				</a>
+
+				<h3><a href="/lectures/entrepreneurial-skills-learned">Entrepreneurial Skills Learned</a></h3>
+				<h4><a href="/universities/stanford/">Stanford</a> / <a href="/subjects/entrepreneurship">
+	Entrepreneurship</a>
+</h4>
+				<h5>
+										<a href="/speakers/mark-zuckerberg">Mark  Zuckerberg</a><br>
+									</h5>
+			</li>
+															<li class="clearfix">
+												<a class="add picks" href="/lectures/enqueue/581/">&nbsp;</a>
+				
+				<a href="/lectures/stephen-schwarzman" class="thumb">
+					<img src="/img/play-icon-small.png" width="21" height="21" alt="" border="0" class="play-icon">
+					<img alt="Private Equity and the Financial Crisis" src="/img/lectures/Aev264-yale_econ25220355.jpg" class="thumb-144">
+				</a>
+
+				<h3><a href="/lectures/stephen-schwarzman">Private Equity and the Financial Crisis</a></h3>
+				<h4><a href="/universities/yale/">Yale</a> / <a href="/subjects/economics">
+	Economics</a>
+</h4>
+				<h5>
+										<a href="/speakers/stephen-schwarzman">Stephen Schwarzman</a><br>
+									</h5>
+			</li>
+								</ol>
+					
+	</div>
+</div>
+
+
+<div id="footer">
+	<div class="inner">
+		<p>
+						<a href="/about">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/pages/contact/">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/pages/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/pages/terms-of-use">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/pages/faq">FAQ</a>
+		</p>
+		<p class="copyright">© 2009 Academic Earth. All rights reserved.</p>
+	</div>
+</div>
+<script type="text/javascript">
+	try {
+	pageTracker._trackPageview();
+	} catch(err) {}
+</script>	<div id="bottom_toolbar" class="clearfix">
+	<ul class="clearfix">
+		<li class="bottom-share">
+			<div>
+			<a href="Share" id="bottom-share-link">Share</a>
+			<a href="#" id="bottom-share-facebook" class="share-icon" target="_blank" onclick=" newwindow = window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;t=Academic%20Earth%20-%20Privacy', 'name', 'height=500,width=600,top=200,left=300'); if (window.focus) {newwindow.focus()};return false;"><img src="/img/bottom-toolbar/facebook-grey.gif" alt="Facebook"></a>
+			<a id="bottom-share-delicious" class="share-icon" target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%20Earth%20-%20Privacy"><img src="/img/bottom-toolbar/delicious-grey.gif" alt="Delicious"></a>
+			<a id="bottom-share-stumbleupon" class="share-icon" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%20Earth%20-%20Privacy"><img src="/img/bottom-toolbar/stumble-grey.gif" alt="StumbleUpon"></a>
+			<a href="#" id="bottom-share-email" class="share-icon" target="_blank" onclick=" var newWin = window.open('/pages/email?permalink=%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy', 'newWin', 'status=no,directories=no,addressbar=no,scrollbars=no,title=yes,menubar=no,resizable=no,toolbar=no,width=450,height=500');;return false;"><img src="/img/bottom-toolbar/emailshare-grey.gif" alt="Email"></a>
+			</div>
+		</li>
+		<li class="bottom-facebook"><div><a href="http://www.facebook.com/pages/Academic-Earth/11544573198" target="_blank">Become Facebook Fan</a></div></li>
+		<li class="bottom-rss"><div><a href="/academicearth.rss">RSS</a></div></li>
+		<li class="bottom-email"><div><a href="Subscribe" id="bottom-email-link">Subscribe by Email</a></div></li>
+	</ul>
+	<div id="bottom-email-form" style="display: none;" class="bottom-form">
+		<img src="/img/close-icon.png" width="18" height="18" alt="" border="0" class="close-bottom">
+		<form id="form1267963880" onsubmit="event.returnValue = false; return false;" method="post" action="/emails/subscribe"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1267963880', 'submit', function(event) { new Ajax.Updater('bottom-email-form','/emails/subscribe', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {AE.initBottomToolbar();}, parameters:Form.serialize('form1267963880'), requestHeaders:['X-Update', 'bottom-email-form']}) }, false);
+//]]>
+</script>		<div class="input text"><label for="EmailEmailAddress">Email Address</label><input name="data[Email][email_address]" type="text" value="" id="EmailEmailAddress"></div>		<div class="submit" id="bottom-email-submit-div"><input type="submit" id="bottom-email-submit-button" value="Subscribe"></div></form>	</div>
+	<div id="bottom-share" style="display:none" class="bottom-form">
+		<img src="/img/close-icon.png" width="18" height="18" alt="" border="0" class="close-bottom">
+		<h3>Share</h3>
+				<div id="bottom-share-links"><ul class="sociable">
+	<li><a rel="nofollow" target="_blank" href="#" title="Facebook" style="background-image:url(/img/sociable/facebook.png);background-repeat:no-repeat" onclick=" newwindow = window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;t=Academic%2520Earth%2520-%2520Privacy', 'name', 'height=500,width=600,top=200,left=300'); if (window.focus) {newwindow.focus()};return false;" id="share_Facebook"> Facebook</a></li>
+	<li><a rel="nofollow" target="_blank" href="#" title="e-mail" style="background-image:url(/img/sociable/email.gif);background-repeat:no-repeat" onclick=" var newWin = window.open('/pages/email?permalink=%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy', 'newWin', 'status=no,directories=no,addressbar=no,scrollbars=no,title=yes,menubar=no,resizable=no,toolbar=no,width=450,height=500');;return false;" id="share_e-mail"> e-mail</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="del.icio.us" style="background-image:url(/img/sociable/delicious.png);background-repeat:no-repeat" id="share_del.icio.us"> del.icio.us</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="Digg" style="background-image:url(/img/sociable/digg.png);background-repeat:no-repeat" id="share_Digg"> Digg</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.mixx.com/submit?page_url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="Mixx" style="background-image:url(/img/sociable/mixx.png);background-repeat:no-repeat" id="share_Mixx"> Mixx</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="Google Bookmarks" style="background-image:url(/img/sociable/googlebookmark.png);background-repeat:no-repeat" id="share_Google Bookmarks"> Google Bookmarks</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="StumbleUpon" style="background-image:url(/img/sociable/stumbleupon.png);background-repeat:no-repeat" id="share_StumbleUpon"> StumbleUpon</a></li>
+	<li><a rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Facademicearth.org%2Fpages%2Fprivacy&amp;title=Academic%2520Earth%2520-%2520Privacy" title="Reddit" style="background-image:url(/img/sociable/reddit.png);background-repeat:no-repeat" id="share_Reddit"> Reddit</a></li>
+</ul>
+</div>
+	</div>
+	
+</div>
+
+
+</body></html>
