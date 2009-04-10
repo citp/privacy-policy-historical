@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adify.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211125600id_/http%3A//app.adify.com/FooterPages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adify.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410062938id_/http%3A//www.adify.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Adify > Privacy Policy
 
 **Adify Corporation: Privacy Policy**   
 Version 1.2 - August 2007 
