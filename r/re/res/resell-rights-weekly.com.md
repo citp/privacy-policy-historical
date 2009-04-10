@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resell-rights-weekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050731id_/http%3A//resell-rights-weekly.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resell-rights-weekly.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410030758id_/http%3A//resell-rights-weekly.com/members/privacy.php) for the most accurate reproduction.*
 
 # Resell Rights Weekly
 
