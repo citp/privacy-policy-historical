@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921214526id_/http%3A//www.123glitter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410053424id_/http%3A//www.123glitter.com/privacy.php) for the most accurate reproduction.*
 
 # 123glitter.com User Agreement - Privacy Policy and Terms of Use
 
-**[Love Comments](http://123glitter.com/comments-graphics/Love/)      [Birthday Comments](http://www.123glitter.com/comments-graphics/Birthday/)       [Happy Sunday](http://www.123glitter.com/comments-graphics/Happy_Sunday/)**
+**[Love Comments](http://123glitter.com/comments-graphics/Love/)      [Birthday Comments](http://www.123glitter.com/comments-graphics/Birthday/)       [Happy Friday](http://www.123glitter.com/comments-graphics/Happy_Friday/)**
 
 123glitter.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123glitter.com.
 
