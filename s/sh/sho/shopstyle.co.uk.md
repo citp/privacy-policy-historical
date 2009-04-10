@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopstyle.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094034id_/http%3A//www.shopstyle.co.uk/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopstyle.co.uk privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410125749id_/http%3A//www.shopstyle.co.uk/page/Privacy) for the most accurate reproduction.*
 
 # ShopStyle: privacy policy
 
