@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthdirectorymoz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135518id_/http%3A//www.healthdirectorymoz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdirectorymoz.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410075829id_/http%3A//www.healthdirectorymoz.com/privacy.php) for the most accurate reproduction.*
 
-# Health Directory Moz | Medical, Fitness & Wellness Information- Privacy
+# Health Information Directory | Medical & Fitness Websites Resources- Privacy
 
 ### Privacy Policy:
 
@@ -20,6 +20,8 @@ A "cookie" is a small file that a Web site transfers to your computer's hard dis
 
 The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted.
 
+We use third-party advertising companies like Google adsense to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
 #### Personally Provided Information
 
 If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request.
@@ -38,4 +40,4 @@ A team of professionals maintains this site. For site security purposes and to e
 
 HealthDirectoryMoz abides the legal requirements of medical/health information privacy that apply in the U.S. Causing intentional damage to our computer systems is a violation of U.S. law and is subject to criminal prosecution in court of Law. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-This Page is Last Updated: 9th May 2008.
+This Page is Last Updated: 7th April 2009.
