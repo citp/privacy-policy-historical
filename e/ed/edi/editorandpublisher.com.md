@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220184340id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410150318id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Nielsen Business Media
 
