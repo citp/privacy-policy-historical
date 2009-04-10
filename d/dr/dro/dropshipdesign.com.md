@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the dropshipdesign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101433id_/http%3A//www.dropshipdesign.com/Store/DSD_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdesign.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410095121id_/http%3A//www.dropshipdesign.com/dropshipdesign-privacy-policy.html) for the most accurate reproduction.*
 
-# Wholesale Online Drop Shipping Mall - DropShipDesign
+# Dropshipdesign.com Privacy Policy
 
-  
-[](http://www.truste.org/ivalidate.php?url=www.dropshipdesign.com&sealid=101) Privacy Policy
+[](http://www.truste.org/ivalidate.php?url=www.dropshipdesign.com&sealid=101)
+
+## Our Privacy Policy
 
 LAST UPDATED ON FRIDAY, FEBRUARY 09, 2007 
-
-PRIVACY POLICY 
 
 The privacy of those who visit our Web site is of primary concern to DropshipDesign.com LLC. Your personal privacy and the security of your personal data are a primary concern to us. To better protect your privacy, we provide you with this policy page where we disclose and explain our online information practices. This page can be found by clicking on the Privacy Policy link available on the links located in the footer of our home page. 
 
@@ -16,9 +15,8 @@ Dropshipdesign.com LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an
 If you have questions or concerns regarding this statement, you should first contact our management team at sales@dropshipdesign.com. You may also send us a written letter at the following address: 
 
 DropshipDesign.com LLC  
-Suite D3, 321 High School rd NE,   
-Bainbridge island, WA 98110  
-
+1100 Dexter Avenue North,   
+Suite 100, Seattle, WA 98109 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
