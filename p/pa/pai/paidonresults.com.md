@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidonresults.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226013515id_/http%3A//www.paidonresults.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidonresults.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410060504id_/http%3A//www.paidonresults.com/privacy.html) for the most accurate reproduction.*
 
 # Paid On Results - Privacy Policy
 
@@ -15,7 +15,7 @@ United Kingdom
 <http://www.paidonresults.com/>
 
 **General policy**  
-Paid On Results respects your privacy. The information that you provide us with or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please [contact us](https://web.archive.org/web/20081226013515id_/http%3A//www.paidonresults.com/contact-us.html). 
+Paid On Results respects your privacy. The information that you provide us with or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please [contact us](https://web.archive.org/web/20090410060504id_/http%3A//www.paidonresults.com/contact-us.html). 
 
 **Email newsletters**  
 Paid On Results operates email newsletters on its site which are free to sign up to. What we ask of you is your email address at times we may ask you for further information which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses, information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility. 
@@ -39,7 +39,7 @@ While we strive to keep the information that you supply directly or indirectly s
 If requested we may submit your information to local or government authorities. 
 
 **Corrections/updates**  
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please [contact us](https://web.archive.org/web/20081226013515id_/http%3A//www.paidonresults.com/contact-us.html). 
+You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please [contact us](https://web.archive.org/web/20090410060504id_/http%3A//www.paidonresults.com/contact-us.html). 
 
 **Policy changes**   
 By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. 
