@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netgalley.com privacy policy that was archived on 2008-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/index.php%3Fmodule%3Dstatic%26op%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netgalley.com privacy policy that was archived on 2009-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/index.php%3Fmodule%3Dstatic%26op%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -62,11 +62,21 @@ tinyMCE.init({
 		apply_source_formatting : true,
 		spellchecker_languages : "+English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
 	});
-</script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/themes/advanced/editor_template.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/langs/en.js"></script><link href="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/themes/advanced/css/editor_ui.css" rel="stylesheet" type="text/css"><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/spellchecker/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/preview/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/paste/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20081212012357id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/fullscreen/editor_plugin.js"></script>
-<link rel="StyleSheet" href="theme/basic/style/theme.css" type="text/css"><link rel="StyleSheet" href="theme/basic/style/tree.css" type="text/css"><script>
+</script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/themes/advanced/editor_template.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/langs/en.js"></script><link href="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/themes/advanced/css/editor_ui.css" rel="stylesheet" type="text/css"><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/spellchecker/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/preview/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/paste/editor_plugin.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/includes/tiny_mce/plugins/fullscreen/editor_plugin.js"></script>
+<link rel="StyleSheet" href="theme/basic/style/button.css" type="text/css"><link rel="StyleSheet" href="theme/basic/style/theme.css" type="text/css"><link rel="StyleSheet" href="theme/basic/style/tree.css" type="text/css"><script>
+/// messages 
+var InvalidAccessMsg = "You do not have permission to view this page. Please login.";
+var AuthEmailErrorMsg = "The email is not associated with a registered NetGalley user. If you feel it should be, please contact support@netgalley.com.";
+var InvalidLoginPwdMsg = "You've entered an invalid\nlogin name or password.\n\nPlease try again";
+var ApplicationErrorMsg = "The system is unable to process your request, please try again later.";
+var PendingAccountMsg = "Your account is currently\npending. Contact us at\nsupport@netgalley.com\nto activate your account today.";
+var RegistrationEmailAuthenticationMsg = "Your email address needs to be authenticated.\nIf you did not receive an email with\nauthentication instructions, please\ncontact us at support@netgalley.com.";
+var SessionTimeOutErrorMsg = "Due to inactivity,your\nsession has expired.\n\nPlease Sign In again";
+var afterSaveTitleMsg = "Your title was successfully saved. Next, configure Read Inside, PDF Download and Print Requests as desired.";
+///	
 function ClearSearchField(field)
 {
-	if($(field).value = 'Search')
+	if($(field).value == 'Search')
 	{
 		$(field).value = '';
 	}
@@ -122,8 +132,7 @@ function selectLink()
  var error = '';
  var status = "";
  var paymentstatus = "";
- var membertype = "";
- 
+ var membertype = ""; 
  if ($("status") != null) {
     status = $("status").value;
  }
@@ -134,46 +143,53 @@ function selectLink()
     membertype = $("membertype").value;
  }
 
- var browserName=navigator.appName;
- if((module=='sign_in')&&(op=='validateLogin'))
- {
-  if(status=='0')
-  {
-      $("status").value="";
-   
-      if (membertype == 'publisher' || membertype == 'distributor' || membertype == 'selfpublisher')
-      {
-        /*if (paymentstatus=='2')
-        {
-          $("paymentstatus").value="";
-          alert("Your account is currently\npending. Contact us at\nsupport@netgalley.com\nto activate your account today.");
-        }else
-        {*/
-          alert("Your email address needs to be authenticated.\nIf you did not receive an email with\nauthentication instructions, please\ncontact us at support@netgalley.com.");		
-        /*}*/
-      }else
-      {
-        alert("Your email address needs to be authenticated.\nIf you did not receive an email with\nauthentication instructions, please\ncontact us at support@netgalley.com.");
-      }	
-      
-  }else if (paymentstatus=='2')
-  {
-     $("paymentstatus").value="";
-    alert("Your account is currently\npending. Contact us at\nsupport@netgalley.com\nto activate your account today.");
-  
-  } else if(error == '1')
-  {
-  	alert("The system is unable to process your request, please try again later.");
-  } else
- {
-  alert("You've entered an invalid\nlogin name or password.\n\nPlease try again");
- }
- }
- if((module=='sign_in')&&(msg=='SessionExpired'))
- {
-  alert("Due to inactivity,your\nsession has expired.\n\nPlease Sign In again");
- }
- 
+if(module=='sign_in')
+ 	{
+	switch (op)
+	 {
+	 case 'validateLogin':
+	 
+  		if(status=='0')
+  			{
+      			$("status").value="";
+   		 		 if (membertype == 'publisher' || membertype == 'distributor' || membertype == 'selfpublisher')
+      				{
+        				alert(PendingAccountMsg);		
+       			}else{
+        				alert(RegistrationEmailAuthenticationMsg);
+     		 	}	
+        	}else if (paymentstatus=='2'){
+     				$("paymentstatus").value="";
+     				alert(PendingAccountMsg);
+			
+  			}else if(error == '1'){
+  					alert(ApplicationErrorMsg);
+			
+  			}else{
+  					alert(InvalidLoginPwdMsg);
+ 			}
+			break;
+		
+	case 'AuthEmailError':
+		  alert(AuthEmailErrorMsg);
+		  break;
+	
+	case 'InvalidGalleyAccess':
+		  alert(InvalidAccessMsg);
+		  break;		  		
+	  }
+	  
+	  /// if session expires then the message
+	  if(msg=='SessionExpired')
+ 		{
+   			alert(SessionTimeOutErrorMsg);
+ 		}		
+ 	}
+    ///function added for showing the Title message after creation.
+ if(module=='project')
+ 	{
+       galleySaveTitleMessage();
+    }
  if ($("login_name") != null) {
     $("login_name").focus();
  }
@@ -197,7 +213,20 @@ function setFocusOnFirstName()
         }
     }
 }
+///function added for showing the Title message after creation.
+function galleySaveTitleMessage()
+    {
+        var funcName = '';
+       if(funcName=='galleyDetails')
+           {
+                var galleySaveFlag = '';
+                if(galleySaveFlag=='true')
+                    {
+                        alert(afterSaveTitleMsg);
 
+                    }
+           }
+    }
 </script>
 </head>
 <body onload="selectLink();" onfocus="setFocusOnFirstName();">
@@ -208,10 +237,11 @@ function setFocusOnFirstName()
 	<tr>
 		<td class="bgSiteBorder" width="1"><img src="images/1x1trans.gif" width="1" height="1" alt=""></td>
 		<td background="images/hdr_stretch.jpg" colspan="5">
-			<a href="index.php"><img src="images/netgalley_hdr_pilot.jpg" width="631" height="94" alt="netGalley" border="0" vspace="0" hspace="0" align="left"></a>
-			<div id="HeaderRight">
+        			<img src="images/netgalley_hdr_pilot.jpg" width="631" height="94" alt="netGalley" border="0" vspace="0" hspace="0" align="left">
+			
+                  <div id="HeaderRight">
 			<br>
-			<a href="index.php?module=sign_in"><img src="images/sign_in_116_24.jpg" alt="Sign In" border="0" vspace="4"></a><br>Not yet a member? <a href="index.php?module=signup&amp;displayForm=true">Register Now</a>	
+			<a href="Prelogin/sign_in.php"><img src="images/sign_in_116_24.jpg" alt="Sign In" border="0" vspace="4"></a><br>Not yet a member? <a href="index.php?module=signup&amp;displayForm=true">Register Now</a>	
 			 </div>	
 			<!--</div> !-->
 		</td>
@@ -255,34 +285,34 @@ function setFocusOnFirstName()
 				<div class="navLink"><a href="index.php?module=signup&amp;displayForm=true">Register Now</a></div>
 			</div>
 			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>
-			
-			<div class="navItem" onclick="navToggle('navSub_Benefits');"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div>
+			<!-- Commented as per #2339 requirement -->
+			<!--<div class="navItem" onclick="navToggle('navSub_Benefits');"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div>
 			<div class="navLink"><a href="#">Benefits of NetGalley</a></div></div>
 			<div class="navItemSub" id="navSub_Benefits" style="display:none;">
-				<div class="navSubLink" id="navLink_pub"><a href="index.php?module=static&amp;op=PublisherBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Publishers</a></div>
-				<div class="navSubLink"><a href="index.php?module=static&amp;op=ReviewerBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Reviewers</a></div>
-                <div class="navSubLink"><a href="index.php?module=static&amp;op=MediaProBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Media Professionals</a></div>
-				<div class="navSubLink"><a href="index.php?module=static&amp;op=BooksellerBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Booksellers</a></div>
-				<div class="navSubLink"><a href="index.php?module=static&amp;op=EducatorBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Educators</a></div>
-                <div class="navSubLink"><a href="index.php?module=static&amp;op=LibrarianBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Librarians</a></div>
-                <div class="navSubLink"><a href="index.php?module=static&amp;op=ReviewOrgBenefit&amp;navSub=navSub_Benefits&amp;navLink=">&nbsp;&nbsp;&nbsp;Review Organizations</a></div>
+				<div class="navSubLink" id="navLink_pub"><a href="index.php?module=static&op=PublisherBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Publishers</a></div>
+				<div class="navSubLink"><a href="index.php?module=static&op=ReviewerBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Reviewers</a></div>
+                <div class="navSubLink"><a href="index.php?module=static&op=MediaProBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Media Professionals</a></div>
+				<div class="navSubLink"><a href="index.php?module=static&op=BooksellerBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Booksellers</a></div>
+				<div class="navSubLink"><a href="index.php?module=static&op=EducatorBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Educators</a></div>
+                <div class="navSubLink"><a href="index.php?module=static&op=LibrarianBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Librarians</a></div>
+                <div class="navSubLink"><a href="index.php?module=static&op=ReviewOrgBenefit&navSub=navSub_Benefits&navLink=">&nbsp;&nbsp;&nbsp;Review Organizations</a></div>
 			</div>
-			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>		
+			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>-->
 			
 			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="index.php?module=catalog">Browse Public Catalog</a></div></div>
 			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>			
 			
-			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="index.php?module=static&amp;op=tour">Take a Tour</a></div></div>
+			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="Prelogin/Tour.html">Take a Tour</a></div></div>
 			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>
-			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="index.php?module=news&amp;func=inPress">NetGalley in the Press</a></div></div>
+			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="Prelogin/press.html">NetGalley in the Press</a></div></div>
 			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>			
 						
-			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="index.php?module=static&amp;op=faq" alt="Frequently Asked Questions">FAQ</a></div></div>
+			<div class="navItem"><div class="navArrow"><img src="images/arrow_black1.gif" border="0"></div><div class="navLink"><a href="Prelogin/FAQ.html" alt="Frequently Asked Questions">FAQ</a></div></div>
 			<div class="navSeperator"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>			
 			<div class="Spacer"><img src="images/1x1trans.gif" width="1" height="1" alt=""></div>
 		</td>
 		<td class="bgCenterColumn" width="80%" style="height:100%;" id="CenterColumn" colspan="3" valign="top">
-			<div class="NavBar"><a href="index.php" alt="Home">Home</a> / <a href="index.php?module=static&amp;func=PrivacyPolicy?module=static&amp;op=PrivacyPolicy">Privacy Policy</a></div>
+			<div class="NavBar"><a href="index.html" alt="Home">Home</a> / <a href="index.html?module=static&amp;func=PrivacyPolicy?module=static&amp;op=PrivacyPolicy">Privacy Policy</a></div>
 		  <div id="centerFrame"> 
     					<div id="systemWorking" class="systemWorking" style="display: none;">
 							<img src="images/indicator.gif" border="0"><br>
@@ -293,61 +323,61 @@ function setFocusOnFirstName()
 <div class="MainHeader">Privacy Policy</div>
 <div class="Content" style="padding-right:8px;">
 <p><b>Introduction</b></p>
-<p>Rosetta Solutions is committed to respecting the privacy of the individuals 
+<p>NetGalley LLC is committed to respecting the privacy of the individuals 
 who use this website (the "<i><b>Website</b></i>"). Accordingly, this policy 
-(the "<i><b>Policy</b></i>") informs you about Rosetta Solutions' practices with regard to the collection of information about you.  More specifically, this Policy describes the kinds of information, including Personally Identifiable Information (defined below), that Rosetta Solutions may gather during your visit to the Website, why such information is gathered, how it is used, when it might be disclosed, and what you can do if you disagree with the practices described in the Policy.</p>
+(the "<i><b>Policy</b></i>") informs you about NetGalley LLC' practices with regard to the collection of information about you.  More specifically, this Policy describes the kinds of information, including Personally Identifiable Information (defined below), that NetGalley LLC may gather during your visit to the Website, why such information is gathered, how it is used, when it might be disclosed, and what you can do if you disagree with the practices described in the Policy.</p>
 
 <p>If you have questions about this Policy, or you don't see your concerns addressed here, 
 then please see the Questions and Changes to Your Information section at the end 
 of the Policy.</p>
-<p>You understand and agree that <u>by visiting the Website, you are accepting the terms of this Policy</u>.  Please keep in mind that from time to time, Rosetta Solutions may modify or amend the terms of this Policy.  Because this Policy creates a binding contract between you and Rosetta Solutions, Rosetta Solutions recommends that you bookmark this page and review it regularly to ensure you are in compliance therewith.</p>
+<p>You understand and agree that <u>by visiting the Website, you are accepting the terms of this Policy</u>.  Please keep in mind that from time to time, NetGalley LLC may modify or amend the terms of this Policy.  Because this Policy creates a binding contract between you and NetGalley LLC, NetGalley LLC recommends that you bookmark this page and review it regularly to ensure you are in compliance therewith.</p>
 
 <p>Capitalized words used, but not defined, in this Policy, will have the meanings set forth in the <a href="index.php?module=static&amp;op=TermsOfUse">Terms of Use</a>.</p>
 
 <p><b>Information Collected</b></p>
 
-<p>One of the basic principles that Rosetta Solutions has followed in designing 
-this Website is that Rosetta Solutions asks for only the information it needs to 
+<p>One of the basic principles that NetGalley LLC has followed in designing 
+this Website is that NetGalley LLC asks for only the information it needs to 
 provide the service(s) that you have requested. As a result, the information 
-that Rosetta Solutions collects about you depends almost entirely on how you 
-choose to use the Website and Rosetta Solutions' services.</p>
+that NetGalley LLC collects about you depends almost entirely on how you 
+choose to use the Website and NetGalley LLC' services.</p>
 
 <p><b>Personally 
 Identifiable Information</b></p>
 
-<p>Except as otherwise disclosed to you in this Policy, Rosetta Solutions will 
+<p>Except as otherwise disclosed to you in this Policy, NetGalley LLC will 
 not sell, barter, give away, or rent information that identifies you 
 individually ("<i><b>Personally Identifiable Informatio</b></i>n") to another 
-entity. Under certain circumstances, Rosetta Solutions may collect your 
+entity. Under certain circumstances, NetGalley LLC may collect your 
 Personally Identifiable Information. For example, if you are an Authorized User 
-who has completed a registration form, Rosetta Solutions may collect and store 
+who has completed a registration form, NetGalley LLC may collect and store 
 some or all of the following information: your gender, name, address, company 
-name, email address, and website address(es), if any. Rosetta Solutions uses 
-this information to provide the services that you have requested. Rosetta 
-Solutions may use this information to send you email about its services unless 
+name, email address, and website address(es), if any. NetGalley LLC uses 
+this information to provide the services that you have requested. NetGalley 
+LLC may use this information to send you email about its services unless 
 you opt out at the time of registration or otherwise by contacting us using the 
 information provided in the Questions and Changes to Your Information section at 
 the end of this Policy. Moreover, if you so choose at the time of registration 
-or otherwise, Rosetta Solutions may use this information to allow other 
+or otherwise, NetGalley LLC may use this information to allow other 
 community members and users to email you. If you are an Authorized User, then 
-Rosetta Solutions may share your Personally Identifiable Information with the 
+NetGalley LLC may share your Personally Identifiable Information with the 
 Client who has authorized your access to Confidential Content in Secure Areas.</p>
 
 <p><b>Anonymous 
 Information</b></p>
 <p></p>
 	<p>
-		Rosetta Solutions may also gather certain information that does not 
-		identify you personally ("<i><b>Anonymous Information</b></i>"). Rosetta 
-		Solutions may, for example, automatically collect your IP address, 
+		NetGalley LLC may also gather certain information that does not 
+		identify you personally ("<i><b>Anonymous Information</b></i>"). NetGalley 
+		LLC may, for example, automatically collect your IP address, 
 		browser information, and site-domain name every time you visit this 
-		Website. Rosetta Solutions may also collect record and collect data 
-		regarding customer-traffic patterns and Website usage. Rosetta Solutions 
+		Website. NetGalley LLC may also collect record and collect data 
+		regarding customer-traffic patterns and Website usage. NetGalley LLC 
 		uses Anonymous Information to edit and personalize the Website and for 
 		other purposes. For example, to make the Website more relevant to users, 
-		Rosetta Solutions might show to authors certain products and 
+		NetGalley LLC might show to authors certain products and 
 		advertisements relating to them. Publishers might receive information 
-		about other advertisements and products. Additionally, Rosetta Solutions 
+		about other advertisements and products. Additionally, NetGalley LLC 
 		may share Anonymous Information in ways that it deems appropriate or 
 		necessary such as sharing demographic information with advertisers or 
 		business partners.</p>
@@ -356,21 +386,21 @@ Information</b></p>
 and Spyware</b></p>
 
 <p>
-Rosetta Solutions does not install spyware on your computer. Nor does it use 
+NetGalley LLC does not install spyware on your computer. Nor does it use 
 spyware to retrieve information from your computer. Like many Websites, this 
 Website uses "cookies," which are files that a browser stores on a computer hard 
 drive for purposes such as notifying a Web site that a particular user has 
 returned. Most browsers accept cookies automatically but allow you to disable 
 them. If your browser does not accept cookies, you can still view the Website 
 and may, as applicable, make a purchase. For an optimal Website experience, 
-however, Rosetta Solutions recommends that your browser be configured to accept 
+however, NetGalley LLC recommends that your browser be configured to accept 
 cookies.</p>
 
 <p><b>
 Third Party Agents</b></p>
 <p></p>
 <p>
-Rosetta Solutions occasionally employs third-party agents, affiliates, and 
+NetGalley LLC occasionally employs third-party agents, affiliates, and 
 partners who perform on its behalf functions such as marketing, analytics, 
 credit-card processing, shipping or stocking orders, providing customer service, 
 and programming this Website. These people or entities may have access to your 
@@ -381,12 +411,12 @@ and security of such information.</p>
 <p><b>
 Emergency Situations</b></p>
 <p>
-Rosetta Solutions may disclose Personally Identifiable Information if required 
+NetGalley LLC may disclose Personally Identifiable Information if required 
 to do so by law or in the good-faith belief that such action is necessary to: 
-(a) conform to applicable law or comply with legal process served on Rosetta 
-Solutions or the Website; (b) protect and defend Rosetta Solutions' rights, 
+(a) conform to applicable law or comply with legal process served on NetGalley 
+LLC or the Website; (b) protect and defend NetGalley LLC's rights, 
 property, Website, or users of the Website; (c) act under emergency 
-circumstances to protect the personal safety of Rosetta Solutions, its 
+circumstances to protect the personal safety of NetGalley LLC, its 
 affiliates, agents, business partners or users of the Website.</p>
 
 <p><b>
@@ -400,7 +430,7 @@ please exit this Website immediately. </p>
 <p><b>
 Security</b></p>
 <p>
-Rosetta Solutions strives to ensure that the Personally Identifiable Information 
+NetGalley LLC strives to ensure that the Personally Identifiable Information 
 you share with it is handled in a safe, secure, and responsible manner. 
 Nevertheless, no security measures are absolute, and there is always a 
 possibility that a security breach could occur.</p>
@@ -412,8 +442,8 @@ This Website may contain links to other websites through advertisements or other
 links. The practices described in this Policy do not apply to information 
 gathered through such other websites. These other websites may send their own 
 cookies to you, collect your data, or solicit your Personally Identifiable 
-Information. Rosetta Solutions is not responsible for the actions and privacy 
-policies of these other websites. Accordingly, Rosetta Solutions encourages you 
+Information. NetGalley LLC is not responsible for the actions and privacy 
+policies of these other websites. Accordingly, NetGalley LLC encourages you 
 to be aware of when you leave this Website and to read the privacy policies of 
 each and every website that you visit.</p>
 
@@ -423,11 +453,11 @@ Surveys</b></p>
 
 <p>
 Any contests, surveys, sweepstakes, or similar promotional endeavors run by 
-Rosetta Solutions through this Website will be accompanied by a set of rules 
+NetGalley LLC through this Website will be accompanied by a set of rules 
 specifying how the information gathered from you will be used and disclosed, if 
 different from that described in this Policy. Personally Identifiable 
-Information will be collected only if you voluntarily submit it to Rosetta 
-Solutions or to its sponsors.</p>
+Information will be collected only if you voluntarily submit it to NetGalley 
+LLC or to its sponsors.</p>
 <p></p>
 <p><b>
 Public Forums</b></p>
@@ -450,12 +480,12 @@ U.S. law will govern in any and all disputes arising out of or relating to this
 Policy or use of this Website.</p>
 
 <p>
-Rosetta Solutions may change ownership or corporate organization while providing 
-this Website and related services. As a result, Rosetta Solutions may sell, 
+NetGalley LLC may change ownership or corporate organization while providing 
+this Website and related services. As a result, NetGalley LLC may sell, 
 transfer, assign, or otherwise share your information to another entity that is 
-affiliated with Rosetta Solutions, with which it has merged, or to which Rosetta 
-Solutions, or the portion of Rosetta Solutions' assets related to this Policy, 
-are sold. Under such circumstances, Rosetta Solutions would, to the extent 
+affiliated with NetGalley LLC, with which it has merged, or to which NetGalley 
+LLC, or the portion of NetGalley LLC's assets related to this Policy, 
+are sold. Under such circumstances, NetGalley LLC would, to the extent 
 possible, require the acquiring party to follow the practices described in this 
 Policy, as it may be amended from time to time.</p>
 
@@ -464,9 +494,9 @@ Opting Out</b></p>
 
 <p>
 You may always opt out of receiving marketing or promotional information from 
-Rosetta Solutions as contemplated under this policy by sending an email to
+NetGalley LLC as contemplated under this policy by sending an email to
 <a href="mailto:info@netgalley.com">info@netgalley.com</a>. You can also change 
-or update the information you have provided by contacting Rosetta Solutions 
+or update the information you have provided by contacting NetGalley LLC 
 using the contact information set forth below.</p>
 
 <p><b>
@@ -475,7 +505,7 @@ Information</b></p>
 
 <p>
 If you have questions regarding this Policy, do not see your concerns addressed 
-here, or would like Rosetta Solutions to update or change the information you 
+here, or would like NetGalley LLC to update or change the information you 
 have provided, please contact: <a href="mailto:info@netgalley.com">
 info@netgalley.com</a>.</p>
 
@@ -490,16 +520,16 @@ info@netgalley.com</a>.</p>
 	</tr>	
 <tr><td colspan="7">
 <div id="Footer">
-<div class="RSPower">Powered by Rosetta™</div>
+<div class="RSPower"></div>
 <div class="RSS"><!--<img src="images/icon_rss.jpg" width="29" height="17" alt="" border="0">!--></div>
 	<div class="Links">
-		<a href="index.php?module=static&amp;op=SiteMap">Site Map</a> &nbsp;|&nbsp;
-		<a href="index.php?module=static&amp;op=TermsOfUse">Terms of Use</a> &nbsp;|&nbsp;
-		<a href="index.php?module=static&amp;op=PrivacyPolicy">Privacy Policy</a> &nbsp;|&nbsp;
-		<a href="index.php?module=static&amp;op=AboutUs">About Us</a> 
-		&nbsp;|&nbsp;<a href="index.php?module=static&amp;op=ContactUs">Contact Us</a>
+		<a href="Prelogin/sitemap.html">Site Map</a> &nbsp;|&nbsp;
+		<a href="Prelogin/terms.html">Terms of Use</a> &nbsp;|&nbsp;
+		<a href="Prelogin/privacy_policy.html">Privacy Policy</a> &nbsp;|&nbsp;
+		<a href="Prelogin/about.html">About Us</a>
+		&nbsp;|&nbsp;<a href="Prelogin/contact.html">Contact Us</a>
 	</div>
-	<div class="Copyright">© 2008 <a href="http://www.rosettasolutions.com">Rosetta Solutions, Inc.</a> (v2.5.1)</div>
+ 	<div class="Copyright">© 2008 NetGalley LLC (2.9.0)</div>
 </div>	
 </td></tr>
 </tbody></table>
