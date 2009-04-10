@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morange.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827215418id_/http%3A//monet.morange.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morange.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410050843id_/http%3A//morange.com/docs/privacy.aspx) for the most accurate reproduction.*
 
-# Morange - The Mobile Edge
+# Privacy Policy -
 
 **OVERVIEW**  
 Morange takes your privacy seriously. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This statement discloses the privacy practices for the websites provided by Morange. 
@@ -49,6 +49,3 @@ Morange exercises reasonable efforts to protect against unauthorized access to o
 **  
 CHANGES TO PRIVACY POLICY**   
 We may amend this Privacy Policy at any time. If we make material changes in the way we collect, use, and/or share your personal information, we will notify you by prominently posting notice of the change on the Site. Any material changes to this Privacy Policy will be effective thirty days following our posting of notice of the changes on the Site. Your continued use of the Services and the Site constitutes your agreement to this privacy statement and any updates. 
-
-**CONTACT US**  
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at [morange@mozat.com](mailto:morange@mozat.com).
