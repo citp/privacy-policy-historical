@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017184955id_/http%3A//www.petri.co.il/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410103450id_/http%3A//www.petri.co.il/privacy_policy) for the most accurate reproduction.*
 
 # Petri.il.co Privacy Policy
 
@@ -6,21 +6,13 @@ Your Guarantee of Privacy
 
 ## We hate SPAM too! We respect your privacy and here’s what we do everyday to protect it: 
 
-** **
-
 ### CHOICE & CONSENT / THIRD PARTY USE
 
-Your email address will ONLY be known by us. This one is really important so it bears repeating. We will NOT sell, rent, or loan your name to third parties for e-mail marketing (nobody-not ever!). 
-
-When you subscribe to IT Knowledgebase Digest, we collect only enough information to allow us to deliver your Knowledgebase Digest to you. We keep this information so that we can continue to send you the Digest weekly. On occasion (no more than twice a month – we promise!) you may receive an IT announcement from Petri.co.il on behalf of our sponsors. 
-
-** **
+Your email address will ONLY be known by us. This one is really important so it bears repeating. We will NOT sell, rent, or loan your name to third parties for e-mail marketing (nobody-not ever!). When you subscribe to IT Knowledgebase Digest, we collect only enough information to allow us to deliver your Knowledgebase Digest to you. We keep this information so that we can continue to send you the Digest weekly. On occasion (no more than twice a month – we promise!) you may receive an IT announcement from Petri.co.il on behalf of our sponsors. 
 
 ### UNSUBSCRIBE / OPT-OUT
 
-We send emails only to people who have sent us email addresses to subscribe to Knowledgebase Digest or otherwise request information from us. We never get email addresses from any other sources. 
-
-If you don't want to receive our mailings, please let us know via our [ Feedback](http://www.petri.co.il/feedback.htm) page. We will promptly remove your name from our list at your request. You may also choose to opt-out of receiving future emails from us by simply clicking on the unsubscribe link found at the bottom of each communication you receive from us. 
+We send emails only to people who have sent us email addresses to subscribe to Knowledgebase Digest or otherwise request information from us. We never get email addresses from any other sources. If you don't want to receive our mailings, please let us know via our [ Feedback](http://www.petri.co.il/feedback.htm) page. We will promptly remove your name from our list at your request. You may also choose to opt-out of receiving future emails from us by simply clicking on the unsubscribe link found at the bottom of each communication you receive from us. 
 
 ### THE INFORMATION WE COLLECT
 
