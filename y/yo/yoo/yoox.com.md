@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224124349id_/http%3A//www.yoox.com/corporate/localize.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410071042id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
-# YOOX
+# YOOX.COM - Legal area
 
-**1\. OUR POLICY**
+Welcome to yoox.com. Please read our Privacy Policy carefully. This Privacy Policy applies when you visit and surf the United States section of yoox.com (the "US Site") without purchasing any product, when you register with the US Site and when you use our services for purchasing products on the US Site. By using the US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the US Site. The US Site is operated, under license, by YOOX Corporation, a Delaware corporation having an address at 80 River Street, Hoboken, New Jersey, 07030 ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., an Italian company having an address at Via Nannetti, 1, 40069 Zola Predosa – Bologna, Italy ("YOOX Italy"). Since personal data of users and customers of the US Site may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). Pursuant to the Italian Data Protection Code, YOOX USA is the controller of personal data of users and customers of the US Site. As the controller of personal data, YOOX USA independently determines the purposes and means by which your personal data is processed, including all security measures. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX Italy as its data protection representative in Italy. As our data protection representative in Italy, YOOX Italy independently ensures that personal data is processed in Italy in a correct and lawful manner and in accordance with good practice.
+
+ **1\. OUR POLICY**
 
  _Everyone has the right to the protection of his/her personal data._
 
@@ -22,30 +24,16 @@ The above-mentioned data processors have been chosen by YOOX USA because of thei
 
 The following is a list of the companies primarily involved in the processing of personal data of users and customers of the US Site: 
 
-* [United Parcel Service S.p.A.("UPS)](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the US Site;
-* I.Net S.p.A. We provide I.Net, by electronic means, with personal data contained in registration or order forms for purposes relevant to the housing of our servers;
-* [Sitel Corporation ("Sitel")](http://www.sitel.com/). We provide Sitel, by electronic means, with customers' contact information for purposes connected to call center and customer care services available to the users and customers of the US Site;
-* [ND Logistic Italia S.p.A ("ND")](http://www.norbert-dentressangle.com/). We provide ND Logistic Italia S.p.A. with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site.
-* [Distribution Solution Inc. ("DSI")](http://www.dsolutionsinc.com/). We provide DSI with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site.
-* [YOOX Italy](http://www.yoox.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX USA and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services.
-
 Please contact us at [privacy@yoox.com](mailto:privacy@yoox.com)  if you would like to receive a full list of our data processors.
 
  **3\. HOW DO WE USE PERSONAL DATA AND FOR WHAT PURPOSES**
 
 Your personal data is collected and processed by YOOX USA for purposes which are strictly connected to the use of the US Site, its services and the purchase of products on the US Site. However, your personal data may also be used for other processing operations within the limits of such purposes. In particular, your personal data may be processed for the following purposes: 
 
-* when you register with the US Site we collect your personal data (for example, your personal information, userID and password, e-mail address, gender, favorite designer) through the relevant registration form (MYOOX) in order to provide you with services in reserved access areas of the US Site and in order to send you our YOOXNEWS, when specifically requested;
-* when you request Customer Care services, we collect your personal data (for example, your userID and password) for purposes strictly necessary to provide you with customer care services relevant to the US Site and to the purchase of products on the US Site;
-* when you are executing purchasing procedures for products sold on the US Site, including conclusion of an agreement for the purchase of products, we collect your personal data (for example, personal information, e-mail address, address, credit card numbers, bank account number and telephone number) on your order form only for the purpose of selling the products ordered by you;
-* when you request technical assistance, we collect your personal data in order to provide you with information on net-surfing, Internet browsing or viewing and downloading web pages;
-* when creating your Dream Box, we process your personal data in order to customize our services for the purchase of products on the US Site; or
-* when you apply for the publication of your photograph and picture on yoox.com, including the US Site, we process your personal data (for example, your name, your image and your suggestions) only with your consent and as testimonial to the US Site.
+when you apply for the publication of your photograph and picture on yoox.com, including the US Site, we process your personal data (for example, your name, your image and your suggestions) only with your consent and as testimonial to the US Site. 
 
 -when accessing the Friends service of MYOOX, your personal data will be processed in order to provide you with the services you have requested and, with your own consent, to make your personal data available to the other users of the Friends network that you have authorized.  
 \- with regards to the Première Service, your personal data will be processed, with your own consent, in order to send you information regarding the availability of items you have indicated.
-
-
 Your personal data is generally processed by electronic means; however, in certain circumstances, paper-based means may be used (for example, when the processing of your personal data is required for the prevention of fraud against us). 
 
 Your personal data is stored in a way which allows YOOX USA to identify you for the period that is strictly necessary for the original purposes for which such personal data is collected and subsequently processed, all in accordance with applicable laws. 
@@ -104,7 +92,7 @@ The disclosure of personal data to YOOX USA other than that required in order to
 
 We will inform you if the personal data we ask you to provide is necessary or optional by marking with an asterisk (*) the information that is necessary. Your Failure to disclose optional personal data will not pose any obligation or disadvantage to you.
 
-5\. TO WHOM YOUR PERSONAL DATA WILL BE DISCLOSED 
+ **5\. TO WHOM YOUR PERSONAL DATA WILL BE DISCLOSED**
 
 Your personal data may be disclosed to third parties who provide specific services as Data Processors on behalf of YOOX USA or who autonomously process personal data collected by YOOX USA in connection with the performance of a contract for the purchase of products on the US Site (for example, Paymentech, Inc.). Any such disclosure will be conducted, in each instance, without exceeding the original purposes for which your personal data was collected and subsequently processed.
 
