@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tristarhost.com privacy policy that was archived on 2008-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080312033841id_/http%3A//www.tristarhost.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tristarhost.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411213026id_/http%3A//www.tristarhost.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Web Hosting Provider: small business and personal hosting of your web site.
 
