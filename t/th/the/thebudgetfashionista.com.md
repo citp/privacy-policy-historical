@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914121642id_/http%3A//www.thebudgetfashionista.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411130851id_/http%3A//www.thebudgetfashionista.com/about/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY and DISCLAIMER
+# Privacy Policy | The Budget Fashionista
 
-Simply Good Media, a division TBF Group, LLC, maintains internet websites such as thebudgetfashionista.com for your personal entertainment, information, education, and communication. Like most web businesses, Simply Good Media captures both personal and aggregated information about visitors to our websites (collectively the ï¿½Simply Good Media Sitesï¿½). We explain here why we need that information and what we do (and won't do) with it. 
+### PRIVACY POLICY and DISCLAIMER
+
+Simply Good Media, a division TBF Group, LLC, maintains internet websites such as thebudgetfashionista.com for your personal entertainment, information, education, and communication. Like most web businesses, Simply Good Media captures both personal and aggregated information about visitors to our websites (collectively the "Simply Good Media Sites"). We explain here why we need that information and what we do (and won't do) with it. 
 
 Overview: We never disclose or sell personal information about you to third parties without your permission, unless compelled to do so by law. If you only read the articles, posts and comments on the Simply Good Media Sites, no more information is collected than is typically collected in server logs by websites in general. If you post comments or other material, you are publishing every word you post publicly. If you write something, assume that it will be retained forever.
 
@@ -65,7 +67,9 @@ Simply Good Media Sites will never disclose or sell personal information about y
 VI. Conclusion:
 
 We are committed to protecting your privacy. Nevertheless, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Finally, Simply Good Media Sites partners and third party internet sites have separate privacy and data collection practices, independent of us. Simply Good Media Sites has no responsibility or liability for these independent policies or actions. By using the Simply Good Media Sites, you consent to the collection and use of information by Simply Good Media Sites as outlined in this privacy policy. We have a right to change this policy at any time. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If we decide for any reason to sell such information you will be given a right to opt out of such transfer. Any such procedure shall be outlined to you in our update.  
-VII. General Disclaimer:
+
+
+VII. General Disclaimer: 
 
 The materials in all Simply Good Media Sites and any third-party sites are provided "as is" and without warranties of any kind, either expressed or implied. Simply Good Media Sites disclaims all warranties, expressed or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. TBF Group, LLC does not warrant that the materials will be accurate, reliable or error-free, that defects will be corrected, or that the Simply Good Media Sites, or the server that makes them available, are free of viruses or other harmful components. Simply Good Media Sites does not warrant or make any representations regarding the use or the results of the use of the materials on Simply Good Media Sites or on linked sites in terms of their correctness, accuracy, timeliness, reliability, or otherwise.
 
@@ -77,4 +81,6 @@ Our postal address is:
 123 Town Sq Pl Ave #683  
 Jersey City, NJ 07310
 
-Questions and comments can be sent to the following address: info*at*thebudgetfashionista.com 
+phone: 347-223-5895 
+
+Questions and comments can be sent to the following address: blogs*at*simplygoodmedia.com 
