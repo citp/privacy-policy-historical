@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103746id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411141658id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
 
 # DZone Privacy Policy | Javalobby
 
