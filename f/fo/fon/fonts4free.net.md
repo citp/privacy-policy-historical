@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015824id_/http%3A//www.fonts4free.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts4free.net privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411170359id_/http%3A//www.fonts4free.net/privacy-policy.php) for the most accurate reproduction.*
 
 # www.fonts4free.net Privacy Policy & Contact Form
 
@@ -14,16 +14,16 @@ Like most standard Web site servers we use log files. This includes internet pro
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Our site don't use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
+**DoubleClick DART cookie**
+
+The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 **Links**
 
 www.fonts4free.net contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by www.fonts4free.net. 
 
-**Advertisers**
-
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Please check their websites for respective privacy policies. 
-
 **Contact Information**
 
-For any questions or suggestions about our site or privacy policy, please use the form below to contact us. 
+For any questions or suggestions about our site or privacy policy, please use the form below to contact us.
 
 * * *
