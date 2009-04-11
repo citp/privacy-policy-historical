@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011327id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411150326id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -15,6 +15,12 @@ Our online surveys may ask visitors for contact information (such as their email
 We use external advertising representation companies to display ads on our site. These ads may contain cookies. While we use cookies within other parts of our website, cookies received with banner ads are collected by our advertising representation company and we do not have access to this information. Some customer data are shared with the advertising representation companies (not email addresses, but technical information like IP address/browser version). 
 
 ### Third-party Privacy Policies
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 Timeanddate.com works with Burst Media as a third party that serves ads to this site. For information about their policy, please go to [Burst Media's Privacy policy](http://www.burstmedia.com/release/privacy.asp). 
 
