@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016203133id_/http%3A//www.pluggedin.com/generic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412013930id_/http%3A//www.pluggedin.com/generic/privacy) for the most accurate reproduction.*
 
-# title.generic.privacy - PluggedIn.com
+# Privacy - PluggedIn.com
 
 PluggedIn is fully committed to safeguarding your personal information and protecting any information you provide to it. This Privacy Policy (the "Policy") respects and protects the privacy of all visitors to Pluggedin.com and intends to give you as much information and control as possible. 
 
@@ -50,7 +50,7 @@ This Policy applies solely to information collected by the Site. The Site contai
 
 ## X. Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email invitation to visit the site, and may send one follow-up invitation to friends that did not respond. We store this information for the sole purpose of sending these emails. The friend may contact us at [privacy@pluggedin.com](https://web.archive.org/web/20081016203133id_/http://pluggedin.com/generic/privacy/privacy@pluggedin.com) to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email invitation to visit the site, and may send one follow-up invitation to friends that did not respond. We store this information for the sole purpose of sending these emails. The friend may contact us at [privacy@pluggedin.com](https://web.archive.org/web/20090412013930id_/http://www.pluggedin.com/generic/privacy/privacy@pluggedin.com) to request the removal of this information from our database.
 
 ## XI. Security
 
