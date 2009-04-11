@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugulo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075623id_/http%3A//telugulo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugulo.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411184424id_/http%3A//www.telugulo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Telugu.com - Telugu portel, Telugu cinema, andhra news, telugu politics, andhra cities, hyderabad
 
