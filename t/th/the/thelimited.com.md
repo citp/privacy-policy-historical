@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044441id_/http%3A//www.thelimited.com/customer_service/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411075349id_/http%3A//www.thelimited.com/customer_service/security/privacy) for the most accurate reproduction.*
 
-# The Limited
+# Customer Service: The Limited
 
 As you may have noted, as of September 2008 our site is a full e-commerce site, so many of the revisions that you see in this privacy policy are the result of this change to our site. 
 
@@ -38,9 +38,9 @@ WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
 
 We may use third party vendors to help us provide services to you, such as monitoring site activity, hosting the Web site, processing orders, running promotions and events and surveys, maintaining our database, providing store locator services, processing employment applications, and administering and monitoring e-mails.
 
-We may make names and addresses collected online available to other companies. If you do not wish to have your name and address shared with other companies (other than third parties who provide services to TheLimited.com) please call us at 1-877-520-7298.
+We may make names and addresses collected online available to other companies. If you do not wish to have your name and address shared with other companies (other than third parties who provide services to TheLimited.com) please call us at 1-877-LTD-1963.
 
-The information you provide when you make a purchase at TheLimited.com (for example, name, address, credit card) will be added to a database and may be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to express.com) please call us at 1-877-520-7298. 
+The information you provide when you make a purchase at TheLimited.com (for example, name, address, credit card) will be added to a database and may be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to express.com) please call us at 1-877-LTD-1963. 
 
 When you send an E-mail a Friend from TheLimited.com, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from TheLimited.com.
 
