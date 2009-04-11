@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickets.tv privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613185218id_/http%3A//www.wickets.tv/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickets.tv privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411080827id_/http%3A//www.wickets.tv/privacypolicy.html) for the most accurate reproduction.*
 
 # Private Policy
 
@@ -10,7 +10,7 @@ THIS PRIVACY POLICY DOES NOT GOVERN THE WAY THE SITE OPERATOR COLLECTS, USE, OR 
 
 **Who We Are. We are eNom, Inc** ( **"eNom," "we," "us,"** or **"our"** ). The Site provides individuals with the opportunity to create personal profiles, to post content and to share their ideas with others. In the context of pursuing that business, as further described below, we collect various information, including PII, from and about the individuals who either contribute Content to or visit the Site. 
 
-**How does this Policy relate to my use of the Site?** This Policy is part of and incorporated into the Terms of Use for the Site, the contract between you and the Site Operator that governs the Site. That means provisions of those terms impact this Policy, so if you have not read the [ Terms of Use](https://web.archive.org/web/20080613185218id_/http%3A//www.wickets.tv/termsofuse.html), read them now by clicking on the link. 
+**How does this Policy relate to my use of the Site?** This Policy is part of and incorporated into the Terms of Use for the Site, the contract between you and the Site Operator that governs the Site. That means provisions of those terms impact this Policy, so if you have not read the [ Terms of Use](https://web.archive.org/web/20090411080827id_/http%3A//www.wickets.tv/termsofuse.html), read them now by clicking on the link. 
 
 **BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING THE SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED HEREIN** and the Terms of Use. 
 
