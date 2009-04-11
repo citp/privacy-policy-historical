@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090800id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.au privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411081655id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -111,9 +111,7 @@ Following registration, you can review and change the information you submitted 
 
   * [Your password](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?ChangePasswordAndCreateHint) (if you have supplied such information).. 
 
-  * [Your credit card number and expiration date, and other financial information](https://arbd.ebay.com.au/ws/eBayISAPI.dll?SetupCCPayment). 
-
-
+  * 
 
 
 You must promptly update your personal information if it changes. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. 
