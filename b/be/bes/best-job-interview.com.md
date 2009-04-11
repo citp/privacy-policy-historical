@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122524id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411082547id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,9 @@ The search box on this web site ("Search Box") is powered by Google Inc ("Google
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables www.best-job-interview.com to recall your specific information on subsequent visits. 
 
-We also use third party advertisements on www.best-job-interview.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes in order to show relevant advertisements to our visitors.
+We also use third party advertisements on www.best-job-interview.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site.
+
+Third-party advertising companies serve ads when you visit www.best-job-interview.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to www.best-job-interview.com and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on www.best-job-interview.com. Google's use of the DART cookie enables it to serve ads to the site users based on their visit to this and other websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can control the use of cookies through your web browser. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. In FireFox, choose Tools > Options > Privacy to set your cookie settings. In Internet Explorer, choose Tools > Internet Options > Privacy. In other browsers, please check the documentation of that browser for how to change the cookie settings. 
 
