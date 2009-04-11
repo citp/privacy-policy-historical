@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the doctor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034716id_/http%3A//www.doctor.com/content/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctor.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411183338id_/http%3A//www.doctor.com/content/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Last Updated: 05/21/2008_
 
-We value your right to privacy. This policy governs the collection of personal information through the Doctor.com website (“Website”). This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, please [contact us](https://web.archive.org/web/20081216034716id_/http%3A//www.doctor.com/content/contactus.php).
+We value your right to privacy. This policy governs the collection of personal information through the Doctor.com website (“Website”). This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, please [contact us](https://web.archive.org/web/20090411183338id_/http%3A//www.doctor.com/content/contactus.php).
 
 The policy was last updated as of the date above and this represents the current policy in effect and governing all personal information collected both before and after this date (see below section **Changes to this Privacy Policy** ).
 
