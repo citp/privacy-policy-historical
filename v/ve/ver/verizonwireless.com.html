@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verizonwireless.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216004431id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verizonwireless.com privacy policy that was archived on 2009-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090413015440id_/http%3A//www.verizonwireless.com/b2c/globalText%3FcontentType%3DglobalContent) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
 	<title>Privacy</title>
@@ -96,6 +96,11 @@
 	<script type="text/javascript" src="http://cache.vzw.com/scripts/widgets/splashPageDB.js"></script>	
 	<script type="text/javascript" src="http://cache.vzw.com/scripts/widgets/populateJSONWidgets.js"></script>
 
+	
+	<script type="text/javascript" src="http://cache.vzw.com/scripts/phonefeatures/db.js"></script>
+	<script type="text/javascript" src="http://cache.vzw.com/scripts/phonefeatures/populateJSONPhoneFeature.js"></script>
+
+
 	<script type="text/javascript">
 		addLoadEvent(setButtons);
 		addLoadEvent(tooltips_Init);
@@ -125,32 +130,23 @@
 <body>
 
 
-	
-
-
-		
+			
 				
 
 
 
-  
+ 
 
 
 
 
-<!-- BEGIN HEADER -->
-	<div id="header">
-		<p id="skipto"><a href="#nav">Skip to navigation</a>, <a href="#content">Skip to main content</a>.</p>
-		
-			
-			<a href="http://www.verizonwireless.com/b2c/index.html"><img src="http://cache.vzw.com/images_b2c/shared/nav/logo_vzw.gif" alt="Verizon Wireless" id="logoNew"></a>
-			
-			
-		
-	
-	
 
-			
+
+<div id="header">
+		<p id="skipto"><a href="#nav">Skip to navigation</a>, <a href="#content">Skip to main content</a>.</p>	
+		<div id="mainnav">
+				
+					
 					
 	<script type="text/javaScript">
 	  <!-- mp_trans_urljs_disable_start -->
@@ -177,30 +173,18 @@
 	
 	
 	<ul id="headerLinks">
-			<li class="firstLink"><a href="http://digital.virtualmarketingpartners.com/vmp/verizon/winter-guide-2008/index.php" onclick="popUp(this.href, 'fullScreen');return false;">Holiday Gift Guide</a></li>
-			<li><a mporgnav="" href="http://espanol.vzw.com/enes/b2c/index.html" onclick="return switchLanguage();">Español</a></li>
+			<li class="firstLink"><a mporgnav="" href="http://espanol.vzw.com/enes/b2c/index.html" onclick="return switchLanguage();">Español</a></li>
 			<li><a href="http://www.verizonwireless.com/b2c/aboutUs/index.jsp">About Us</a></li>
 			<li><a href="http://www.verizonwireless.com/b2c/vzwfly?go=/ContactUsControllerServlet">Contact Us</a></li>
 			<li><a href="http://www.verizonwireless.com/b2c/storelocator/index.jsp">Store Locator</a></li>
 	
     	<li class="endLink"><img src="http://cache.vzw.com/images_b2c/shared/nav/icon_cart.gif" class="cartInfo" alt="Cart Icon" title="Cart Icon">&nbsp;Cart Empty</li>
     
-    	
 	</ul>
 
 
-			
-		<form autocomplete="off" id="searchFormNew" method="get" action="http://www.verizonwireless.com/b2c/store/B2CSearch">
-			<fieldset>
-				<legend></legend>
-				<button type="submit" name="search" id="search" title="search" class="redButton" onclick="_hbLink('search')"><span><span>Search</span></span></button>
-				<label for="q" style="display:none;">Search Input</label>
-				<input autocomplete="off" alt="Search Input" type="text" name="q" maxlength="1000" id="q" value="">			
-			</fieldset>
-		</form>
-		
-		
-		<p id="location">
+				<div class="clear"></div>
+				<div id="location">
 	
 	    
         	
@@ -213,14 +197,52 @@
 	
 	
 
-</p>
+</div>
+				
+				<div class="companyName"><!-- mp_trans_disable_start --><span class="boldText"></span><!-- mp_trans_disable_end --> </div>
+				<div class="clear"></div>
+					<div id="logoNew">
+					
+						
+						<a href="http://www.verizonwireless.com/b2c/index.html"><img src="http://cache.vzw.com/images_b2c/shared/nav/logo_vzw.gif" alt="Verizon Wireless"></a>
+						
+						
+					
+					</div>
+	        <div id="lob">
+	            <div id="residential">
+    <a href="http://www22.verizon.com?lid=residential+tab">Residential</a>
+</div>
+<div id="business">
+    <div class="bus_divider">
+        <a href="http://www22.verizon.com/content/verizonglobalhome/ghp_business.aspx?lid=business+tab">Business</a>
+    </div>
+</div>
+<div id="wireless_current">
+    <a href="http://www.verizonwireless.com/b2c/index.html?lid=wireless+tab">Wireless</a>
+</div>
+	        </div>
+	        
+					
+					<div id="searchFormNew">	
+					<form autocomplete="off" method="get" action="http://www.verizonwireless.com/b2c/store/B2CSearch">
+						<fieldset>
+							<legend></legend>
+							<button type="submit" name="search" id="search" title="search" class="redButton" onclick="_hbLink('search')"><span><span>Search</span></span></button>
+							<label for="q" style="display:none;">Search Input</label>
+							<input autocomplete="off" alt="Search Input" type="text" name="q" maxlength="1000" id="q" value="">			
+						</fieldset>
+					</form>
+					</div>
+					
+									
+					<div class="clear"></div>
+			</div>
+		
 	  <div id="headerSpacer"></div>
-	  <div class="companyName">
-	  <!-- mp_trans_disable_start -->
-	  
-	  <!-- mp_trans_disable_end -->
-	  </div>
-	</div>
+	</div> 
+	
+	
 	
 
     <div id="gn_outside">
@@ -232,46 +254,47 @@
 			    <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=Phones&amp;sortOption=priceSort&amp;lid=//global//phones+and+accessories//cell+phones">Cell Phones</a>
 			        <ul>
 			            <li class="promo ph_mobile"><p><strong>Cell Phones</strong> Find a phone with the features and form that fit your life.</p></li>
-			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3885&amp;lid=//global//phones+and+accessories//cell+phones//lg+dare">• LG Dare™</a></li> 
-			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4186&amp;lid=//global//phones+and+accessories//cell+phones//motorola+krave">• Motorola Krave™ ZN4</a></li>
-			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4069&amp;lid=//global//phones+and+accessories//cell+phones//voyager+by+lg">• LG Voyager™ in Titanium</a></li>
-			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=Phones&amp;sortOption=priceSort&amp;lid=//global//phones+and+accessories//cell+phones//view+all">• View all Cell Phones</a></li>
-              </ul>
-          </li>
-			 <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhonesByFeatures&amp;capId=44&amp;deviceType=Phones&amp;lid=//global//phones+and+accessories//touch+screen+phones">Touch Screen Phones</a></li>
-          <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=PDA/SmartPhones&amp;lid=//global//phones+and+accessories//pda+smartphones">PDAs &amp; Smartphones</a>
-							<ul>
-									<li class="promo ph_pdas"><p><strong>PDAs	&amp;	Smartphones</strong> Increase	your productivity	on the go, for business	or personal	use.</p></li>
-									<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3805&amp;lid=//global//phones+and+accessories//pda+smartphones//palm+centro">• Palm® Centro</a></li>
-									<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4326&amp;lid=//global//phones+and+accessories//pda+smartphones//samsung+saga">• Samsung Saga™</a></li> 									
-									<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3694&amp;lid=//global//phones+and+accessories//pda+smartphones//vzw+xv6900">• Verizon Wireless XV6900</a></li> 
-									<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=PDA/SmartPhones&amp;sortOption=priceSort&amp;lid=//global//phones+and+accessories//pda+smartphones//view+all">• View all PDAs &amp; Smartphones</a></li>
-							</ul>
-					</li>
-          <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BlackBerry%20Devices&amp;lid=//global//phones+and+accessories//blackberry">BlackBerry<sup>®</sup> Devices</a>
+			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3885&amp;lid=//global//phones+and+accessories//cell+phones//lg+dare">LG Dare™</a></li> 
+			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4186&amp;lid=//global//phones+and+accessories//cell+phones//motorola+krave">Motorola Krave™ ZN4</a></li>
+			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4069&amp;lid=//global//phones+and+accessories//cell+phones//voyager+by+lg">LG Voyager™ in Titanium</a></li>
+			            <li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=Phones&amp;sortOption=priceSort&amp;lid=//global//phones+and+accessories//cell+phones//view+all">View all Cell Phones</a></li>
+              		</ul>
+          		</li>
+			 	<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhonesByFeatures&amp;capId=44&amp;deviceType=Phones&amp;lid=//global//phones+and+accessories//touch+screen+phones">Touch Screen Phones</a></li>
+          		<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=PDA/SmartPhones&amp;lid=//global//phones+and+accessories//pda+smartphones">PDAs &amp; Smartphones</a>
+					<ul>
+							<li class="promo ph_pdas"><p><strong>PDAs	&amp;	Smartphones</strong> Increase	your productivity	on the go, for business	or personal	use.</p></li>
+							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3805&amp;lid=//global//phones+and+accessories//pda+smartphones//palm+centro">Palm® Centro</a></li>
+							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4326&amp;lid=//global//phones+and+accessories//pda+smartphones//samsung+saga">Samsung Saga™</a></li> 									
+							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4366&amp;lid=//global//phones+and+accessories//pda+smartphones//samsung+omnia">Samsung Omnia™</a></li> 
+							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=PDA/SmartPhones&amp;sortOption=priceSort&amp;lid=//global//phones+and+accessories//pda+smartphones//view+all">View all PDAs &amp; Smartphones</a></li>
+					</ul>
+				</li>
+          		<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BlackBerry%20Devices&amp;lid=//global//phones+and+accessories//blackberry">BlackBerry<sup>®</sup> Devices</a>
      					<ul>
        						<li class="promo ph_blackberrys"><p><strong>BlackBerry<sup>®</sup> Devices</strong> Keep connected to your inbox for home or office.</p></li>
 
-    							<li><a href="http://www.verizonwireless.com/gnstorm?lid=//global//phones+and+accessories//blackberry+devices//blackberry+storm">• BlackBerry® Storm</a></li> 
-    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3015&amp;lid=//global//phones+and+accessories//blackberry+devices//blackberry+8830+world+edition">• BlackBerry® 8830 World Edition</a></li>
-    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3745&amp;lid=//global//phones+and+accessories//blackberry+devices//blackberry+curve+8330">• BlackBerry® Curve™ 8330</a></li>
-       						<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BlackBerry%20Devices&amp;lid=//global//phones+and+accessories//blackberry//view+all">• View all BlackBerry® Devices</a></li>
+    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=4286&amp;lid=//global//phones+and+accessories//blackberry+devices//blackberry+storm">BlackBerry® Storm™ 9530</a></li> 
+    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3015&amp;lid=//global//phones+and+accessories//blackberry+devices//blackberry+8830+world+edition">BlackBerry® 8830 World Edition</a></li>
+    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneDetail&amp;selectedPhoneId=3745&amp;lid=//global//phones+and+accessories//blackberry+devices//blackberry+curve+8330">BlackBerry® Curve™ 8330</a></li>
+       						<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BlackBerry%20Devices&amp;lid=//global//phones+and+accessories//blackberry//view+all">View all BlackBerry® Devices</a></li>
      					</ul>
 					</li>
 					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=Push%20To%20Talk&amp;lid=//global//phones+and+accessories//push+to+talk">Push to Talk Phones</a></li>
-					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BroadbandAccess%20Devices&amp;lid=//global//phones+and+accessories//broadbandaccess+devices">BroadbandAccess Devices</a></li>
+					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=phoneFirst&amp;action=viewPhoneOverviewByDevice&amp;deviceType=BroadbandAccess%20Devices&amp;lid=//global//phones+and+accessories//mobile+broadband+devices">Mobile Broadband Devices</a></li>
+					<li><a href="http://www.verizonwireless.com/b2c/vzhub/overview.jsp?lid=//global//phones+and+accessories//verizon+hub">Verizon Hub</a></li>
 					<li><a href="http://www.verizonwireless.com/b2c/promotion/specialoffers.jsp?lid=//global//phones+and+accessories//special+offers">Special Offers</a>
     					<ul>
     							<li class="promo ph_special"><p><strong>Special Offers</strong> Choose from online exclusives and our best offers.</p></li>
-    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=packageItem&amp;action=viewPackageOverview&amp;lid=//global//phones+and+accessories//special+offers//popular+packages">• Popular Packages</a></li>
-					    		<li><a href="http://www.verizonwireless.com/b2c/promotion/controller?promotionType=hotDeals&amp;action=viewHotDeals&amp;lid=//global//phones+and+accessories//special+offers//current+promos">• Current Promotions</a></li>
+    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=packageItem&amp;action=viewPackageOverview&amp;lid=//global//phones+and+accessories//special+offers//popular+packages">Popular Packages</a></li>
+					    		<li><a href="http://www.verizonwireless.com/b2c/promotion/controller?promotionType=hotDeals&amp;action=viewHotDeals&amp;lid=//global//phones+and+accessories//special+offers//current+promos">Current Promotions</a></li>
     					</ul>
 					</li>
 					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=giftCardItem&amp;action=viewGiftCards&amp;lid=//global//phones+and+accessories//gift+card">Gift Cards</a>
     					<ul>
     							<li class="promo ph_gift"><p><strong>Gift Cards</strong> Take the stress out of finding the perfect present with a gift card.</p></li>
-    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=giftCardItem&amp;action=viewGiftCards&amp;lid=//global//phones+and+accessories//gift+card//buy+card">• Buy a Gift Card</a></li>
-					    		<li><a href="http://www.verizonwireless.com/b2c/GiftCardControllerServlet?lid=//global//phones+and+accessories//gift+card//check+balance">• Check Gift Card Balance</a></li>
+    							<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=giftCardItem&amp;action=viewGiftCards&amp;lid=//global//phones+and+accessories//gift+card//buy+card">Buy a Gift Card</a></li>
+					    		<li><a href="http://www.verizonwireless.com/b2c/GiftCardControllerServlet?lid=//global//phones+and+accessories//gift+card//check+balance">Check Gift Card Balance</a></li>
     					</ul>
 					</li>
 					<li><a href="http://www.verizonwireless.com/b2c/store/accessories?lid=//global//phones+and+accessories//accessories">Accessories</a></li>
@@ -285,20 +308,21 @@
    					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanOverview&amp;catType=voice&amp;lid=//global//plans//voice+plans">Voice Plans</a>
    					<ul>
    						<li class="promo pl_voice"><p><strong>Voice Plans</strong> Stay connected with the best network and calling plans for individuals and families.</p></li>
-   						<li><a href="http://www.verizonwireless.com/b2c/splash/plansingleline.jsp?lid=//global//plans//voice+plans//individual">• Individual</a></li>
-    					<li><a href="http://www.verizonwireless.com/b2c/splash/planfamily.jsp?lid=//global//plans//voice+plans//family">• Family</a></li>
-    					<li><a href="http://www.verizonwireless.com/prepay?lid=//global//plans//voice+plans//prepay">• Prepay</a></li>
-    					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanOverview&amp;catType=voice&amp;lid=//global//plans//voice+plans//view+all">• View all Voice Plans</a></li>
+   						<li><a href="http://www.verizonwireless.com/b2c/splash/plansingleline.jsp?lid=//global//plans//voice+plans//individual">Individual</a></li>
+    					<li><a href="http://www.verizonwireless.com/b2c/splash/planfamily.jsp?lid=//global//plans//voice+plans//family">Family</a></li>
+    					<li><a href="http://www.verizonwireless.com/b2c/splash/prepay.jsp?lid=//global//plans//voice+plans//prepaid">Prepaid</a></li>
+    					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanOverview&amp;catType=voice&amp;lid=//global//plans//voice+plans//view+all">View all Voice Plans</a></li>
    					</ul></li>
    					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanOverview&amp;catType=voiceData&amp;lid=//global//plans//voice+and+email+plans">Voice &amp; Email Plans</a></li>
-					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanDetail&amp;sortOption=priceSort&amp;catId=409&amp;typeId=5&amp;subTypeId=13&amp;lid=//global//plans//wireless+internet+plan">Wireless Internet Plans</a></li>
+					<li><a href="http://www.verizonwireless.com/b2c/store/controller?item=planFirst&amp;action=viewPlanDetail&amp;sortOption=priceSort&amp;catId=409&amp;typeId=5&amp;subTypeId=13&amp;lid=//global//plans//mobile+broadband+plan">Mobile Broadband Plans</a></li>
    					<li><a href="http://b2b.vzw.com/productsservices/businesscallingplans/?lid=//global//plans//business+plans">Business Plans</a></li>
+   					<li><a href="http://www.verizonwireless.com/b2c/splash/digitalvoice.jsp?lid=//global//plans//residential+plans">Residential Plans</a></li>
    					<li><a href="http://b2b.vzw.com/international/inside_us.html?lid=//global//plans//international+services">International Services</a></li>
    					<li><a href="http://support.vzw.com/lnp/index.html?lid=//global//plans//keep+number">Keep Your Number</a>
    					<ul>
    						<li class="promo pl_transfer"><p><strong>Keep Your Number</strong> Switch to Verizon Wireless and bring your old number with you.</p></li>
-   						<li><a href="http://www.verizonwireless.com/b2c/LNPControllerServlet?lid=//global//plans//keep+number//number+eligibility">• Check if your Number is Eligible</a></li>
-					    <li><a href="http://support.vzw.com/faqs/Switch%20To%20Verizon%20Wireless/faq_local_number_portability.html?lid=//global//plans//keep+number//faqs">• FAQs</a></li>
+   						<li><a href="http://www.verizonwireless.com/b2c/LNPControllerServlet?lid=//global//plans//keep+number//number+eligibility">Check if your Number is Eligible</a></li>
+					    <li><a href="http://support.vzw.com/faqs/Switch%20To%20Verizon%20Wireless/faq_local_number_portability.html?lid=//global//plans//keep+number//faqs">FAQs</a></li>
    					</ul></li>
    					<li><a href="http://www.verizonwireless.com/b2c/CoverageLocatorController?requesttype=NEWREQUEST&amp;lid=//global//plans//coverage+maps">Coverage Map</a></li>
    				</ul>
@@ -311,74 +335,72 @@
    					<li><a href="http://ringtones.verizonwireless.com?lid=//global//features+and+downloads//ringtones">Ringtones</a>
 						<ul>
 							<li class="promo fe_ringtones"><p><strong>Ringtones</strong> Express yourself out loud when someone calls with the hottest music and sounds.</p></li>
-							<li><a href="http://ringtones.verizonwireless.com?lid=//global//features+and+downloads//ringtones//ringtones+overview">• Ringtones Overview</a></li>
-							<li><a href="http://mediastore.verizonwireless.com?lid=//global//features+and+downloads//ringtones//launch+media+store" onclick="popUp(this.href, 'full window');return false;" class="newWindow">• Launch Media Store</a></li>
+							<li><a href="http://ringtones.verizonwireless.com?lid=//global//features+and+downloads//ringtones//ringtones+overview">Ringtones Overview</a></li>
+							<li><a href="http://mediastore.verizonwireless.com?lid=//global//features+and+downloads//ringtones//launch+media+store" onclick="popUp(this.href, 'full window');return false;" class="newWindow">Launch Media Store</a></li>
 						</ul></li>
 						<li><a href="http://rbt.verizonwireless.com?lid=//global//features+and+downloads//ringback+tones">Ringback Tones</a>
 						<ul>
 							<li class="promo fe_ringback"><p><strong>Ringback Tones</strong> Choose a song your friends hear when they call you.</p></li>
-							<li><a href="http://rbt.verizonwireless.com?lid=//global//features+and+downloads//ringback+tones//ringback+tones+overview">• Ringback Tones Overview</a></li>
-							<li><a href="http://mediastore.verizonwireless.com?lid=//global//features+and+downloads//ringback+tones//launch+media+store" onclick="popUp(this.href, 'full window');return false;" class="newWindow">• Launch Media Store</a></li>
-							<li><a href="http://mediastore.verizonwireless.com/manage?lid=//global//features+and+downloads//ringback+tones//manage+your+ringback+tones" onclick="popUp(this.href, 'full window');return false;" class="newWindow">• Manage Ringback Tones</a></li>
+							<li><a href="http://rbt.verizonwireless.com?lid=//global//features+and+downloads//ringback+tones//ringback+tones+overview">Ringback Tones Overview</a></li>
+							<li><a href="http://mediastore.verizonwireless.com?lid=//global//features+and+downloads//ringback+tones//launch+media+store" onclick="popUp(this.href, 'full window');return false;" class="newWindow">Launch Media Store</a></li>
+							<li><a href="http://mediastore.verizonwireless.com/manage?lid=//global//features+and+downloads//ringback+tones//manage+your+ringback+tones" onclick="popUp(this.href, 'full window');return false;" class="newWindow">Manage Ringback Tones</a></li>
 						</ul></li>
-   					<li><a href="http://products.vzw.com/index.aspx?id=music_vcast_new&amp;lid=//global//features+and+downloads//music">Music</a>
+   					<li><a href="http://products.vzw.com/index.aspx?id=fnd_music&amp;lid=//global//features+and+downloads//music">Music</a>
    					<ul>
    						<li class="promo fe_music"><p><strong>V CAST Music with Rhapsody</strong> Download songs from your favorite artists to your phone.</p></li>
-   						<li><a href="http://products.vzw.com/index.aspx?id=fnd_music_artists&amp;lid=//global//features+and+downloads//music//featured+artist">• Featured Artists</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=music_vcast_new_howtobuy&amp;lid=//global//features+and+downloads//music//how+to+get+music">• How to get Music</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=music_vcast_new_music&amp;lid=//global//features+and+downloads//music//view+all">• View all Music</a></li>
-     			      <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//music//what+is+vcast">• What is V CAST?</a></li>
+   						<li><a href="http://products.vzw.com/index.aspx?id=fnd_music_artists&amp;lid=//global//features+and+downloads//music//featured+artist">Featured Artists</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_music_howtobuy&amp;lid=//global//features+and+downloads//music//how+to+get+music">How to get Music</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_music_music&amp;lid=//global//features+and+downloads//music//view+all">View all Music</a></li>
+     			      <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//music//what+is+vcast">What is V CAST?</a></li>
 
    					</ul></li>
-   					<li><a href="http://products.vzw.com/index.aspx?id=games&amp;lid=//global//features+and+downloads//games">Games</a>
+   					<li><a href="http://products.vzw.com/index.aspx?id=fnd_games&amp;lid=//global//features+and+downloads//games">Games</a>
    					<ul>
    						<li class="promo fe_games"><p><strong>Games</strong> Choose from hundreds of games including 3D games.</p></li>
-   						<li><a href="http://products.vzw.com/index.aspx?id=fnd_games_featured&amp;lid=//global//features+and+downloads//games//featured+games">• Featured Games</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=games_how&amp;lid=//global//features+and+downloads//games//how+to+get+games">• How to get Games</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=search_games&amp;appSearchParentCategoryId=247&amp;lid=//global//features+and+downloads//games//view+all">• View all Games</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_games_how&amp;lid=//global//features+and+downloads//games//how+to+get+games">How to get Games</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_games_all&amp;lid=//global//features+and+downloads//games//view+all">View all Games</a></li>
    					</ul></li>
    					<li><a href="http://picture.vzw.com/pub/premiumcontent/overview.do?&amp;lid=//global//features+and+downloads//wallpapers">Wallpapers</a>
    					<ul>
    						<li class="promo fe_wallpapers"><p><strong>Wallpapers</strong> Style your phone with cool graphics.</p></li>
-   						<li><a href="http://picture.vzw.com/pub/premiumcontent/featured.do?lid=//global//features+and+downloads//wallpapers//featured+wallpapers">• Featured Wallpapers</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=wallpaper_how&amp;lid=//global//features+and+downloads//wallpapers//how+to+get+wallpapers">• How to get Wallpapers</a></li>
-    					<li><a href="http://picture.vzw.com/pub/premiumcontent/browse.do?&amp;lid=//global//features+and+downloads//wallpapers//view+all">• View all Wallpapers</a></li>
+   						<li><a href="http://picture.vzw.com/pub/premiumcontent/featured.do?lid=//global//features+and+downloads//wallpapers//featured+wallpapers">Featured Wallpapers</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=wallpaper_how&amp;lid=//global//features+and+downloads//wallpapers//how+to+get+wallpapers">How to get Wallpapers</a></li>
+    					<li><a href="http://picture.vzw.com/pub/premiumcontent/browse.do?&amp;lid=//global//features+and+downloads//wallpapers//view+all">View all Wallpapers</a></li>
    					</ul></li>
    					<li><a href="http://products.vzw.com/index.aspx?id=video&amp;lid=//global//features+and+downloads//video+on+demand">Video on Demand</a>
    					<ul>
    						<li class="promo fe_video"><p><strong>V CAST Videos</strong> Get Favorite TV Shows, Sports, News, Live Events, Music Videos and more</p></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=video_how&amp;lid=//global//features+and+downloads//video+on+demand//how+to+get">• How to get Video on Demand</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=video_browse&amp;lid=//global//features+and+downloads//video+on+demand//view+all">• View all Video on Demand</a></li>
-     			      <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//video+on+demand//what+is+vcast">• What is V CAST?</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=video_how&amp;lid=//global//features+and+downloads//video+on+demand//how+to+get">How to get Video on Demand</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=video_browse&amp;lid=//global//features+and+downloads//video+on+demand//view+all">View all Video on Demand</a></li>
+     			      <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//video+on+demand//what+is+vcast">What is V CAST?</a></li>
    					</ul></li>
    					<li><a href="http://products.vzw.com/index.aspx?id=mobileTV&amp;lid=//global//features+and+downloads//mobileTV#overview">Mobile TV</a>
    					<ul>
    						<li class="promo fe_mobile"><p><strong>V CAST Mobile TV</strong> Watch TV on your phone.</p></li>
-   						<li><a href="http://products.vzw.com/index.aspx?id=mobileTV&amp;lid=//global//features+and+downloads//mobileTV//program+guide#grid">• Program Guide</a></li>
-					    <li><a href="http://products.vzw.com/index.aspx?id=mobileTV&amp;lid=//global//features+and+downloads//mobileTV//how+to+get+mobile+tv#coverage">• How To Get Mobile TV</a></li>
-					    <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//mobileTV//what+is+vcast">• What is V CAST?</a></li>
+   						<li><a href="http://products.vzw.com/index.aspx?id=mobileTV&amp;lid=//global//features+and+downloads//mobileTV//program+guide#grid">Program Guide</a></li>
+					    <li><a href="http://products.vzw.com/index.aspx?id=mobileTV&amp;lid=//global//features+and+downloads//mobileTV//how+to+get+mobile+tv#coverage">How to get Mobile TV</a></li>
+					    <li><a href="http://products.vzw.com/index.aspx?id=fnd_vcast&amp;lid=//global//features+and+downloads//mobileTV//what+is+vcast">What is V CAST?</a></li>
    					</ul></li>
-   					<li><a href="http://products.vzw.com/index.aspx?id=fnd_mobileWE&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard">Mobile Web &amp; Dashboard</a>
+   					<li><a href="http://products.vzw.com/index.aspx?id=fnd_dashboardMobileWeb&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard">Mobile Web &amp; Dashboard</a>
    					<ul>
    						<li class="promo fe_mobile_web"><p><strong>Mobile Web &amp; Dashboard</strong> Introducing two exciting ways to access the content on your phone and on the web.</p></li>
-   						<li><a href="http://products.vzw.com/index.aspx?id=news_web&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard//mobile+web">• Mobile Web</a></li>
-					    <li><a href="http://products.vzw.com/index.aspx?id=messaging_dashboard&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard//dashboard">• Dashboard</a></li>
+   						<li><a href="http://products.vzw.com/index.aspx?id=fnd_mobileWeb&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard//mobile+web">Mobile Web</a></li>
+					    <li><a href="http://products.vzw.com/index.aspx?id=fnd_dashboard&amp;lid=//global//features+and+downloads//mobile+web+and+dashboard//dashboard">Dashboard</a></li>
    					</ul></li>
  
-					<li><a href="http://products.vzw.com/index.aspx?id=fnd_location_services&amp;lid=//global//features+and+downloads//maps+and+location+services">Maps &amp; Location Services</a>
+					<li><a href="http://products.vzw.com/index.aspx?id=fnd_locationServices&amp;lid=//global//features+and+downloads//maps+and+location+services">Maps &amp; Location Services</a>
 					<ul>
 						<li class="promo fe_tools"><p><strong>Maps &amp; Location Services</strong> Download GPS applications that keep you on track and connected.</p></li>
-						<li><a href="https://vznavigator.vzw.com/index.html?lid=//global//features+and+downloads//maps+and+location+services//vz+navigator+gps">• VZ Navigator/GPS</a></li>
-						<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_childFinder&amp;lid=//global//features+and+downloads//maps+and+location+services//chaperone+family+locator">• Chaperone Family Locator</a></li>
-						<li><a href="http://products.vzw.com/fnd_toolsApps_all.aspx?id=fnd_toolsApps_all&amp;appSearchParentCategoryId=246&amp;SubCategoryId=299&amp;appSearchCategoryId=299&amp;lid=//global//features+and+downloads//maps+and+location+services//view+all">• View all GPS Applications</a></li>
+						<li><a href="https://vznavigator.vzw.com/index.html?lid=//global//features+and+downloads//maps+and+location+services//vz+navigator+gps">VZ Navigator/GPS</a></li>
+						<li><a href="http://products.vzw.com/index.aspx?id=fnd_chaperone&amp;lid=//global//features+and+downloads//maps+and+location+services//chaperone+family+locator">Chaperone Family Locator</a></li>
+						<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_all&amp;st=1&amp;catId=4287&amp;lid=//global//features+and+downloads//maps+and+location+services//view+all">View all GPS Applications</a></li>
 					</ul></li>
    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps&amp;lid=//global//features+and+downloads//tools+and+apps">Tools &amp; Applications</a>
    					<ul>
    						<li class="promo fe_tools"><p><strong>Tools &amp; Applications</strong> Download applications that keep you in touch, organized, and in the know.</p></li>
-						<li><a href="http://estore.vzwshop.com/espnmvp?lid=//global//features+and+downloads//tools+and+applications//espn+mvp">• ESPN MVP</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_featured&amp;lid=//global//features+and+downloads//tools+and+apps//featured+apps">• Featured Applications</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_howTo&amp;lid=//global//features+and+downloads//tools+and+apps//how+to+get">• How to get Applications</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_all&amp;appSearchParentCategoryId=246&amp;lid=//global//features+and+downloads//tools+and+apps//view+all">• View all Tools &amp; Applications</a></li>
+						<li><a href="http://estore.vzwshop.com/espnmvp?lid=//global//features+and+downloads//tools+and+applications//espn+mvp">ESPN MVP</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_howTo&amp;lid=//global//features+and+downloads//tools+and+apps//how+to+get">How to get Applications</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=fnd_toolsApps_all&amp;appSearchParentCategoryId=246&amp;lid=//global//features+and+downloads//tools+and+apps//view+all">View all Tools &amp; Applications</a></li>
    					</ul></li>
    				</ul>
    			</div>
@@ -391,16 +413,16 @@
    					<li><a href="https://text.vzw.com/customer_site/jsp/overview.jsp?lid=//global//messaging//text+messaging">Text Messaging</a>
    					<ul>
    						<li class="promo me_text"><p><strong>Text Messaging</strong> Text from your phone, via email, and from the web.</p></li>
-   						<li><a href="https://text.vzw.com/customer_site/jsp/messaging_lo.jsp?lid=//global//messaging//text+messaging//send+message">• Send a Text Message</a></li>
-    					<li><a href="http://products.vzw.com/index.aspx?id=messaging_txt_how&amp;lid=//global//messaging//text+messaging//how+to+text+message">• How to Text Message</a></li>
-    					<li><a href="https://text1.vzw.com/text/jsp/txtintl_overview.jsp?lid=//global//messaging//text+messaging//text+international">• Text International</a></li>
+   						<li><a href="https://text.vzw.com/customer_site/jsp/messaging_lo.jsp?lid=//global//messaging//text+messaging//send+message">Send a Text Message</a></li>
+    					<li><a href="http://products.vzw.com/index.aspx?id=messaging_txt_how&amp;lid=//global//messaging//text+messaging//how+to+text+message">How to Text Message</a></li>
+    					<li><a href="https://text1.vzw.com/text/jsp/txtintl_overview.jsp?lid=//global//messaging//text+messaging//text+international">Text International</a></li>
    					</ul></li>
-   					<li><a href="https://picture.vzw.com/login.do?lid=//global//messaging//picture+and+video+messaging">Picture &amp; Video Messaging</a>
+   					<li><a href="http://products.vzw.com/index.aspx?id=messaging_pictureVideo&amp;lid=//global//messaging//picture+and+video+messaging">Picture &amp; Video Messaging</a>
    					<ul>
    						<li class="promo me_picture"><p><strong>Picture &amp; Video Messaging</strong> Send full-color pictures, sounds, and text in one message.</p></li>
-   						<li><a href="https://picture.vzw.com/pub/guestComposer/guestCreate.do?mediaType=free&amp;lid=//global//messaging//picture+and+video+messaging//send+a+picture/video+message">• Send a Picture &amp; Video Message</a></li>
-					    <li><a href="http://products.vzw.com/index.aspx?id=messaging_pixflix_pic_how&amp;lid=//global//messaging//picture+and+video+messaging//picture+and+video+messaging+help">• How to Picture &amp; Video Message</a></li>
-					    <li><a href="http://picture.vzw.com/pub/gallery.do?lid=//global//messaging//picture+and+video+messaging//manage+your+photo+albums">• Manage Your Photo Albums</a></li>
+   						<li><a href="https://picture.vzw.com/pub/guestComposer/guestCreate.do?mediaType=free&amp;lid=//global//messaging//picture+and+video+messaging//send+a+picture/video+message">Send a Picture &amp; Video Message</a></li>
+					    <li><a href="http://products.vzw.com/index.aspx?id=messaging_pixflix_pic_how&amp;lid=//global//messaging//picture+and+video+messaging//picture+and+video+messaging+help">How to Picture &amp; Video Message</a></li>
+					    <li><a href="http://picture.vzw.com/pub/gallery.do&amp;lid=//global//messaging//picture+and+video+messaging//manage+your+photo+albums">Manage your Photo Albums</a></li>
    					</ul></li>
 
    					<li><a href="http://products.vzw.com/index.aspx?id=messaging_im&amp;lid=//global//messaging//mobile+im">Mobile IM</a></li>
@@ -409,14 +431,14 @@
    					<ul>
    						<li class="promo me_text_alerts"><p><strong>Text &amp; Picture Alerts</strong> Get weather, traffic, sports, and stock updates on your phone.</p></li>
 
-    					<li><a href="https://alerts.vzw.com/guest/general/Help/Faqs.do?lid=//global//messaging//text+picture+alerts//get+alerts#how_setup_alerts">• How to get Alerts</a></li>
-    					<li><a href="https://alerts.vzw.com/guest/general/Browse/Categories.do?lid=//global//messaging//text+and+picture+alerts//view+all+alerts">• View all Alerts</a></li>
+    					<li><a href="https://alerts.vzw.com/guest/general/Help/Faqs.do?lid=//global//messaging//text+picture+alerts//get+alerts#how_setup_alerts">How to get Alerts</a></li>
+    					<li><a href="https://alerts.vzw.com/guest/general/Browse/Categories.do?lid=//global//messaging//text+and+picture+alerts//view+all+alerts">View all Alerts</a></li>
    					</ul></li>
    				</ul>
    			</div>
    			
    			
-   			<h2 class="gn_right"><a href="http://www.verizonwireless.com/b2c/index.html?tab=business&amp;lid=//global//Business"><span id="gn_business">Business</span></a></h2>
+   			<h2><a href="http://www.verizonwireless.com/b2c/index.html?tab=business&amp;lid=//global//Business"><span id="gn_business">Business</span></a></h2>
    			<div class="gn_dd">
    				<ul>
    					<li><a href="http://b2b.vzw.com/productsservices/devices/?lid=//global//business//phones">Phones</a></li>   					
@@ -437,12 +459,13 @@
         			<li><a href="http://support.vzw.com/phones?lid=//global//support//phones+and+devices">Phones &amp; Devices</a></li>
         			<li><a href="http://support.vzw.com/features?lid=//global//support//features+and+services">Features &amp; Services</a></li>
         			<li><a href="http://support.vzw.com/faqs/index.html?lid=//global//support//faqs">FAQs</a></li>
+        			<li><a href="http://wireless-forums.verizon.com?lid=//global//support//customer+forums">Customer Forums</a></li>
         			<li><a href="http://www.verizonwireless.com/b2c/myaccount/welcome.jsp?lid=//global//support//new+customers">New Customers</a></li>
    					<li><a href="http://www.verizonwireless.com/b2c/orderstatus/OrderStatusForm?lid=//global//support//get+status">Get Status</a>
    					<ul>
    						<li class="promo blank"><p><strong>Get Status</strong> Track your orders and rebates.</p></li>
-       		            <li><a href="/rebates?lid=//global//support//get+status//rebate+center">• Rebate Center</a></li>
-					    <li><a href="http://www.verizonwireless.com/b2c/orderstatus/OrderStatusForm?lid=//global//support//get+status//order+status">• Order Status</a></li>
+       		            <li><a href="/rebates?lid=//global//support//get+status//rebate+center">Rebate Center</a></li>
+					    <li><a href="http://www.verizonwireless.com/b2c/orderstatus/OrderStatusForm?lid=//global//support//get+status//order+status">Order Status</a></li>
    					</ul></li>
    					<li><a href="https://business.verizonwireless.com/b2b/jsp/popups/optin.jsp?sourceSite=Care&amp;lid=//global//support//sign+up+for+email+updates" onclick="popUp(this.href, 'popup', 570,600); return false;">Sign Up for Email Updates</a></li>
 			        <li><a href="http://www.verizonwireless.com/b2c/vzwfly?go=/ContactUsControllerServlet?lid=//global//support//contact+us">Contact Us</a></li>
@@ -462,27 +485,35 @@
    					<li><a href="https://myaccount.verizonwireless.com/clp/login?lid=//global//my+verizon//personal+account">My Personal Account</a>
    					<ul>
    						<li class="promo blank"><p><strong>My Personal Account</strong> Upgrade your phone, change your plan, pay your bill and more.</p></li>
-   						<li><a href="https://myaccount.verizonwireless.com/clp/login?lid=//global//my+verizon//personal+account//login">• Sign In</a></li>
-    					<li><a href="https://myaccount.verizonwireless.com/accessmanager/public/controller?action=displayRegistration&amp;lid=//global//my+verizon//personal+account//register">• Register</a></li>
+   						<li><a href="https://myaccount.verizonwireless.com/clp/login?lid=//global//my+verizon//personal+account//login">Sign In</a></li>
+    					<li><a href="https://myaccount.verizonwireless.com/accessmanager/public/controller?action=displayRegistration&amp;lid=//global//my+verizon//personal+account//register">Register</a></li>
     		
     		
-    					<li><a href="https://myaccount.verizonwireless.com/accessmanager/public/controller?action=displayForgotPassword&amp;lid=//global//my+verizon//personal+account//reset+password">• Reset Password</a></li>
-    					<li><a href="/myverizondemo?lid=//global//my+verizon//personal+account//view+my+verizon+demo">• View My Verizon Demo</a></li>
+    					<li><a href="https://myaccount.verizonwireless.com/accessmanager/public/controller?action=displayForgotPassword&amp;lid=//global//my+verizon//personal+account//reset+password">Reset Password</a></li>
+    					<li><a href="/myverizondemo?lid=//global//my+verizon//personal+account//view+my+verizon+demo">View My Verizon Demo</a></li>
    					</ul></li>
    					<li><a href="https://www.verizonwireless.com/vzwapp/prepay/loginform?prepay=PREPAY+LOGIN&amp;lid=//global//my+verizon//my+prepay+account">My Prepay Account</a>
    					<ul>
    						<li class="promo blank"><p><strong>My Prepay Account</strong> Check your status and pay your bill.</p></li>
-   						<li><a href="https://www.verizonwireless.com/vzwapp/prepay/loginform?prepay=PREPAY+LOGIN&amp;lid=//global//my+verizon//my+prepay+account//login">• Login</a></li>
-    					<li><a href="https://www.verizonwireless.com/vzwapp/prepay/registerform?lid=//global//my+verizon//my+prepay+account//register">• Register</a></li>
-    					<li><a href="https://www.verizonwireless.com/b2c/store/controller?item=cardItem&amp;action=viewCardHome&amp;lid=//global//my+verizon//my+prepay+account//buy+refills">• Buy Refill Cards</a></li>
+   						<li><a href="https://www.verizonwireless.com/vzwapp/prepay/loginform?prepay=PREPAY+LOGIN&amp;lid=//global//my+verizon//my+prepay+account//login">Login</a></li>
+    					<li><a href="https://www.verizonwireless.com/vzwapp/prepay/registerform?lid=//global//my+verizon//my+prepay+account//register">Register</a></li>
+    					<li><a href="https://www.verizonwireless.com/b2c/store/controller?item=cardItem&amp;action=viewCardHome&amp;lid=//global//my+verizon//my+prepay+account//buy+refills">Buy Refill Cards</a></li>
    					</ul></li>
    					<li><a href="https://mblogin.verizonwireless.com/amserver/UI/Logout?lid=//global//my+verizon//my+business+account">My Business Account</a>
    					<ul>
    						<li class="promo blank"><p><strong>My Business Account</strong> Pay bills, manage accounts, and access reports.</p></li>
-   						<li><a href="http://www.verizonwireless.com/b2c/index.html?tab=business&amp;lid=//global//my+verizon//my+business+account//login&amp;tUrl=https://mblogin.verizonwireless.com/amserver/UI/Logout">• Login</a></li>
-    					<li><a href="http://www.verizonwireless.com/enroll/?lid=//global//my+verizon//my+business+account//register">• Register</a></li>
-    					<li><a href="http://www.verizonwireless.com/b2c/businessSolutions/mybiz/index.jsp?lid=//global//my+verizon//my+business+account//learn+more">• Learn More</a></li>
-    					<li><a href="https://b2b.verizonwireless.com/tbmb/forgotPassword.do?lid=//global//my+verizon//my+business+account//reset+password">• Reset Password</a></li>
+   						<li><a href="http://www.verizonwireless.com/b2c/index.html?tab=business&amp;lid=//global//my+verizon//my+business+account//login&amp;tUrl=https://mblogin.verizonwireless.com/amserver/UI/Logout">Login</a></li>
+    					<li><a href="http://www.verizonwireless.com/enroll/?lid=//global//my+verizon//my+business+account//register">Register</a></li>
+    					<li><a href="http://www.verizonwireless.com/b2c/businessSolutions/mybiz/index.jsp?lid=//global//my+verizon//my+business+account//learn+more">Learn More</a></li>
+    					<li><a href="https://b2b.verizonwireless.com/tbmb/forgotPassword.do?lid=//global//my+verizon//my+business+account//reset+password">Reset Password</a></li>
+   					</ul></li>
+					<li><a href="https://enterprisecenter.verizon.com/enterprisesolutions/default/signIn.do?lid=//global//my+verizon//verizon+enterprise+center">Verizon Enterprise Center</a>
+   					<ul>
+   						<li class="promo blank"><p><strong>Verizon Enterprise Center</strong> Pay bills, manage accounts, and access reports.</p></li>
+   						<li><a href="https://enterprisecenter.verizon.com/enterprisesolutions/default/signIn.do?lid=//global//my+verizon//verizon+enterprise+center//login">Sign In</a></li>
+    					<li><a href="https://enterprisecenter.verizonbusiness.com/enterprisesolutions/default/selfreg/enrollmentProfileInfo.do?TARGET=http://www.verizonwireless.com/b2c/businessSolutions/mybiz/index.jsp&amp;s=vzw&amp;lid=//global//my+verizon//verizon+enterprise+center//register">Register</a></li>
+    					<li><a href="http://www.verizonwireless.com/b2c/businessSolutions/mybiz/index.jsp?lid=//global//my+verizon//verizon+enterprise+center//learn+more">Learn More</a></li>
+    					<li><a href="https://enterprisecenter.verizon.com/enterprisesolutions/default/selfreg/forgotPwdUserID.do?lid=//global//my+verizon//verizon+enterprise+center//reset+password">Reset Password</a></li>
    					</ul></li>
    				</ul>
 		    
@@ -492,7 +523,12 @@
    			
    		</div>
    	</div>
-	<script type="text/javascript" src="http://cache.vzw.com/scripts/globalnav/nav.js"></script>
+  
+  	
+  	
+  	<script type="text/javascript" src="http://cache.vzw.com/scripts/globalnav/gn_800.js"></script>
+  	
+  
 
 	
 	
@@ -748,13 +784,17 @@
  
 
 
+
+
+
 <div id="footer" class="noindex">
+	<div id="footerLinks">
 
 <a href="http://shop.vzw.com/" class="hideLabel">Shop</a>
 
 
 
-		<div class="footerCopyright noindex">© 2008 Verizon Wireless</div>
+		<div class="footerCopyright noindex">© 2009 Verizon Wireless</div>
    	<a href="http://www.verizonwireless.com/b2c/sitemap.jsp">Site Map</a> <span class="pipe">|</span>
    	<a href="http://www.verizonwireless.com/b2c/globalText?contentType=globalContent">Privacy</a> <span class="pipe">|</span> 
     <a href="http://www.verizonwireless.com/b2c/globalText?contentType=Legal Notice">Legal Notices</a> <span class="pipe">|</span>
@@ -769,16 +809,16 @@
 	<span class="pipe">|</span>
 	 <a href="http://www.verizonwireless.com/b2c/globalText?textName=RETURN_POLICY&amp;jspName=footer/returnPolicy.jsp">Return Policy</a> <span class="pipe">|</span>  
     
-    
-    
-        
-        
-        
-            <a href="http://www.verizonwireless.com/b2c/globalText?textName=WORRY_FREE_GUARANTEE&amp;jspName=support/worryFree.jsp" class="nowrap">Worry Free Guarantee</a> <span class="pipe">|</span>
-            <a href="http://www.verizonwireless.com/b2c/bestNetwork/itsthenetwork.jsp" class="nowrap">Best Network</a>
-        
-        
-    
+	    
+	    
+	        
+	        
+	        
+	            <a href="http://www.verizonwireless.com/b2c/globalText?textName=WORRY_FREE_GUARANTEE&amp;jspName=support/worryFree.jsp" class="nowrap">Worry Free Guarantee</a> <span class="pipe">|</span>
+	            <a href="http://www.verizonwireless.com/b2c/bestNetwork/itsthenetwork.jsp" class="nowrap">Best Network</a>
+	        
+	        
+	    
     
     
     
@@ -793,8 +833,9 @@
 					
 				
 				</div>
- 
+	</div>
 </div>
+
 
 
 
@@ -829,11 +870,16 @@
 
 
 
+
+
+<script type="text/javascript" src="http://cache.vzw.com/scripts/accessible/layers.js"></script>
+
+ 
 </div>
 <div class="clear"></div>
 </div> 
 
-<script type="text/javascript" src="http://cache.vzw.com/scripts/accessible/layers.js"></script>
+
 
 	
 	
