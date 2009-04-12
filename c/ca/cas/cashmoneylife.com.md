@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124304id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412090841id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
 
-# Personal Finance & Career Tips | Cash Money Life
+# Personal Finance & Career Tips
 
 Welcome to _Cash Money Life!_
 
@@ -38,6 +38,8 @@ P.S. Here is a little personal information about me:
   * [Here are 8 random things about me](http://cashmoneylife.com/2007/07/11/eight-random-things-about-patrick/).
   * and Here are [7 More Random Things About Me](http://cashmoneylife.com/2007/10/07/7-random-things-about-me/).
   * [Interview with David from My Two Dollars](http://www.mytwodollars.com/2008/01/30/meet-the-m-network-an-interview-with-patrick-from-cash-money-life/).
+  * Iterview at FiLife: [Pocket Profile: Patrick from Cash Money Life](http://blog.filife.com/pocket-profile-patrick-from-cash-money-life/).
+  * [Interview at No Debt Plan](http://www.nodebtplan.net/2009/01/17/subscriber-swap-saturday-cash-money-life/).
 
 
 
@@ -49,12 +51,14 @@ Comments are both welcome and necessary! Of course, comments that are off topic,
 
 **Comment moderation.** Some comments, particularly those from first time commenters or those that contain outbound links, may be automatically moderated and held for review. This is an anti-spam measure to maintain the integrity of my website and make this a friendly place for everyone. I do my best to moderate comments once per day, and there may be some delay before your comment appears.
 
-The following policies also apply to all comments on Cash Money Life:
+**Additional information regarding comments on Cash Money Life:**
 
-  * The author of a comment is solely responsible and liable for the contents of that comment.
-  * By posting a comment, you grant us the right to use, display, republish, sell, alter, or delete your comment in any way and for any reason.
-  * Once your comment is posted, it may not be edited or removed by you, the author. We do not have the duty to modify or delete the comment at your request; however, we reserve the right to edit your comment at our discretion.
-  * This policy is subject to change at any time without notice.
+  * **Privacy Policy**. The Cash Money Life [privacy policy](http://cashmoneylife.com/about/#PrivacyPolicy) applies to all comments left on this site.
+  * **Responsibility**. The author of a comment is solely responsible and liable for the contents of that comment. Once your comment is posted, it may not be edited or removed by the comment author. We do not have the duty to modify or delete the comment at your request; however, we reserve the right to edit or remove your comment at our discretion.
+  * **Rights to use**. By posting a comment, you grant us an irrevocable license and the right to use, display, republish, sell, alter, or delete your comment in any way and for any reason.
+  * **Language**. This website is an English language website. All comments must be left in English, or they will be removed. Inappropriate language, including but not limited to foreign language comments, curse words, and comments that are deemed offensive will be removed.
+  * **Signatures**. Please do not leave a signature in your comments. Please use the provided text field to include your website information. Signatures and/or comments containing signatures may be deleted.
+  * **Policy subject to change**. This policy is subject to change at any time without notice.
 
 
 
@@ -78,7 +82,7 @@ top
 
 ### Cash Money Life Reviews
 
-  * **Friends and Money** [review of Cash Money Life](http://www.friendsandmoney.co.uk/cash-money-life-financial-blog.html).
+  * **Friends and Money** review of Cash Money Life (link no longer available).
 
 
 
@@ -96,10 +100,13 @@ As with most other websites, we collect and use the data contained in log files.
 **Cookies and Web Beacons**  
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on Cash Money Life to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+  * Google’s use of the DART cookie
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+We also use third party advertisements on Cash Money Life to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 top
-
-[](http://cashmoneylife.com/about/printpage/ "Print This Page") [Print This Page](http://cashmoneylife.com/about/printpage/ "Print This Page")
