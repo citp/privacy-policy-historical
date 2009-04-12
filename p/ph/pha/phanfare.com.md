@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229031109id_/http%3A//www.phanfare.com./staticpages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412055041id_/http%3A//phanfare.com/staticpages/privacy.aspx) for the most accurate reproduction.*
 
 # phanfare
 
-[](https://web.archive.org/home.aspx)
+[ ](https://web.archive.org/home.aspx)
 
 This policy is effective as of November 30, 2007.
 
