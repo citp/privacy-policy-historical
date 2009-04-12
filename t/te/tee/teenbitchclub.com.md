@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenbitchclub.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614060645id_/http%3A//teenbitchclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenbitchclub.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412084715id_/http%3A//teenbitchclub.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
