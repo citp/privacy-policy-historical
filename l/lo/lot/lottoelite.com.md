@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottoelite.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221045612id_/http%3A//www.lottoelite.com/affiliates/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoelite.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412224328id_/http%3A//www.lottoelite.com/affiliates/privacy.php) for the most accurate reproduction.*
 
 # LottoElite.com
 
@@ -22,7 +22,7 @@ We can also use the information which does not have your identification to impro
 
 We’ll be able to share information which identifies you when requested by the law and in response to a legal process. We’ll also share this information in response to the request of any agency law or whenever we think it is necessary to investigate, prevent and take action against illegal activities, fraud suspicions, situations which involve threats to the physical security of any person, violations of our terms and conditions of use, or when required by the law.
 
-If you are willing to update or eliminate your information from our database, please get in contact with our Customer Service at [support@lottoelite.com](https://web.archive.org/web/20081221045612id_/http%3A//www.lottoelite.com/affiliates/support@lottoelite.com).
+If you are willing to update or eliminate your information from our database, please get in contact with our Customer Service at [support@lottoelite.com](https://web.archive.org/web/20090412224328id_/http%3A//www.lottoelite.com/affiliates/support@lottoelite.com).
 
 ### Cookies
 
