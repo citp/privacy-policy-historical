@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogskins.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012950id_/http%3A//www.blogskins.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogskins.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412162636id_/http%3A//www.blogskins.com/privacy.php) for the most accurate reproduction.*
 
 # Blog Templates - Privacy Policy
 
@@ -25,4 +25,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 **CONTACT BLOGSKINS**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may contact:
 
-contact@blogskins.com 
+[http://blogskins.com/contact.php](https://web.archive.org/contact.php)
