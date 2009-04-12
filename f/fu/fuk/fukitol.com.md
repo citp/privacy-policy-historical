@@ -1,79 +1,91 @@
-> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2005-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051106034236id_/http%3A//www.fukitol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412060810id_/http%3A//fukitol.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D83) for the most accurate reproduction.*
 
-# Fukitol, The Official Site.
+# PRIVACY POLICY
 
-**VENSURE, INC. PRIVACY POLICY**
+### **PRIVACY POLICY**
 
-Vensure, Inc. ("Vensure") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. Vensure strives to collect, use and disclose Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. Vensure abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that Vensure follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-five member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States. 
+This site is operated by FUKITOL, Inc. Our Privacy Policy is designed to tell you about the policies that govern our collection, use, and disclosure of the information that you may provide via our Websites.  **Before using or submitting information to this site, please read this entire Private Policy. Please be aware that this Privacy Policy generally describes FUKITOL, Inc. sites, although the particular site you are viewing may not include all the items described.**  This site is governed solely by applicable Federal and State laws and governmental regulations in the United States and Canada. Use of this site constitutes your consent to application of such laws and regulations and to our Privacy Policy. 
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable US companies to satisfy the requirement under European Union law that adequate protection be given to Personal information transferred from the EU to the United States. The EEA also has recognized the US Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect Personal privacy, Vensure adheres to the Safe Harbor Principles.
+ **Information Use and Disclosure**
 
-Vensure has a Chief Privacy Officer who is responsible for Vensure's compliance with and enforcement of this Policy. Vensure also has a Global Director of Data Protection who assists in ensuring compliance with this Policy and data security issues. Vensure educates its employees concerning compliance with this Policy and has self-assessment procedures in place to assure compliance. Vensure's Chief Privacy Officer Barbara A. Sellinger, Global Director of Data Protection William H. Murray, and Corporate Legal Team are available to any of its valued employees, customers, vendors, business partners or others who may have questions concerning this Policy or data security practices. Relevant contact information is provided herein.
+ **** Your name, address, e-mail address, and any other personally identifiable information you provide may be used by FUKITOL, Inc., its business partners and consultants to provide you with information about FUKITOL products, and/or services. FUKITOL, Inc. will not sell or rent the personally identifiable information collected via this site to a third party. We reserve the right to disclose information to respond to duly authorized information requests of governmental authorities or where required by law.   
 
-II. SCOPE
 
-This Policy applies to all Personal information received by Vensure in any format including electronic, paper or verbal. Vensure collects and processes Personal information concerning current and former employees and their respective family members, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. Vensure is the sole owner of information it collects from current and former employees, applicants for employment, customers, vendors and others. Vensure will not sell or share this information with third parties in ways different than what is disclosed in this Privacy Policy. On a global basis, Vensure will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.
+You can notify FUKITOL that you wish to discontinue receiving information at any time (see  **How To Contact Us**  below).
 
-Personal information collected by Vensure from employees and applicants for employment is maintained at its corporate offices in Piscataway, New Jersey in the United States as well as the local office of the employee or applicant. Vensure collects Personal information for, among other things, legitimate human resource business reasons such as payroll administration; filling employment positions; administration and operations of its benefit programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. Vensure does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent Vensure maintains information on an individual's medical health or ethnicity (as legally required), Vensure will protect, secure and use that information in a manner consistent with this Policy and applicable law.
+By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
-Personal information collected by Vensure from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Piscataway, New Jersey or at other Vensure facilities. Vensure collects Personal information for, among other things, legitimate business reasons such as customer service; product, warranty and claims administration; meeting governmental reporting and records requirements; maintenance of accurate accounts payable and receivable records; internal marketing research; safety and performance management; financial and sales data; and contact information. All Personal information collected by Vensure will be used for legitimate business purposes consistent with this Policy.
+We may use your information to improve the value of our site's content, to present the site in a fashion customized to match your preferences, to supply information to you (if you requested it), for research and marketing purposes, and for the purposes specified in this Privacy Policy.
 
-III. DEFINITIONS
+We may combine personally identifiable information with other actively collected information unless we specify otherwise at the point of collection. FUKITOL will take reasonable measure to prevent passively collected information from being combined with personally identifiable information, unless you consent otherwise.
 
-For purposes of this Policy, the following definitions shall apply:
+We will also make full use of all information acquired through this site that is not personally identifiable.
 
-"Agent" means any third party that uses Personal information provided by Vensure to perform tasks on behalf of or at the instruction of Vensure.
+ **Access and Updates**
 
-"Vensure" means Vensure Companies, Inc., its predecessors, successors, subsidiaries, divisions and groups.
+To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site.
 
-"Personal information" means any information or set of information that identifies or could be used by or on behalf of Vensure to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal information.
+ **Security**
 
-"Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, or that concerns health. In addition, Vensure will treat as sensitive Personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+Please bear in mind that no Internet transmission is ever 100% secure or error-free. More specifically, e-mail sent to or from this site may not be secure. As a result, you should take particular care in deciding what information you send via e-mail. Any passwords, ID numbers, or other special access numbers you might use to access any part of this site are your responsibility; take care to safeguard them. FUKITOL takes reasonable steps to protect your personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
 
-IV. PRIVACY PRINCIPLES
+ **Links to Other Websites**
 
-The privacy principles in this Policy are based on the seven Safe Harbor Principles.
+Links or references to other Websites may appear within this site. We do not control these Websites. You should be aware that this Privacy Policy does not apply to any Websites other than those operated by FUKITOL, Inc. Visitors to other Websites are encouraged to read their privacy policies before exploring them.
 
-(1) NOTICE: Where Vensure collects Personal information directly from individuals, it will inform them about the purposes for which it collects and uses Personal information about them, the types of non-agent third parties to which Vensure discloses that information, and the choices and means, if any, Vensure offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to Vensure, or as soon as practicable thereafter, and in any event before Vensure uses the information for a purpose other than that for which it was originally collected. Vensure may disclose Personal information if required to do so by law or to protect and defend the rights or property of Vensure.
+ **About Children**
 
-(2) CHOICE: Vensure will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+Children under the age of 18 are not the intended audience for this site. We will not knowingly collect information from site visitors in this age group. We encourage parents to be aware of their children's use of the Internet and discuss what kind of information they are allowed to disclose to Websites. 
 
-For sensitive Personal information, Vensure will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+ **Active Information Collection**
 
-Vensure will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.
+This site may actively collect information from its visitors both by asking them specific questions and by facilitating direct communications with us via e-mail, feedback forms, etc. Some of the information that visitors submit may be personally identifiable information (this is, information that can be uniquely identified with an individual, such as full name, address, e-mail address, phone number, and so on). 
 
-(3) DATA INTEGRITY: Vensure will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Vensure will take reasonable steps to ensure that Personal information is relevant to its intended use, accurate, complete and current.
+In some cases we might collect nonpersonally identifiable information that you elect to provide voluntarily, such as gender or zip code.
 
-(4) TRANSFERS TO AGENTS: Vensure will obtain assurances from its Agents that they will safeguard Personal information consistently with this Policy. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding (e.g., companies located in Switzerland). Where Vensure has knowledge that an Agent is using or disclosing Personal information in a manner contrary to this Policy, Vensure will take reasonable steps to prevent or stop the use or disclosure. Vensure holds it Agents accountable for maintaining the trust our employees and customers place in the company.
+This site may also offer some features and activities (such as newsletter subscriptions, downloads, etc.) which may require you to submit information in order to receive or benefit from them. You will be informed at each information collection point what information is required and what information is optional.
 
-(5) ACCESS AND CORRECTION: Upon request, Vensure will grant individuals reasonable access to Personal information that it holds about them. In addition, Vensure will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal information can do so by contacting their local Human Resources Representative.
+ **Passive Information Collection**
 
-(6) SECURITY: Vensure will take reasonable precautions to protect Personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. Vensure protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. Vensure limits access to Personal information and data to those persons in Vensure's organization, or as agents of Vensure, that have a specific business purpose for maintaining and processing such Personal information and data. Individuals who have been granted access to Personal information are aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.
+Like many other websites, this site may also collect some information passively as you navigate through the site (that is, this information is gathered without your actively providing the information), using various technologies and means, such as navigational data collection.
 
-(7) ENFORCEMENT: Vensure will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy and the US Department of Commerce Safe Harbor Principles. Any employee that Vensure determines is in violation of this Policy will be subject to disciplinary action up to and including termination of employment.
+ **Navigational data**  ("log files," "server logs," and "clickstream" data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. This site may or may not use navigational data.
 
-V. DISPUTE RESOLUTION
+One of the ways information may be passively collected is by the use of Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet. IP addresses are generally considered to be nonpersonally identifiable information, because most IP addresses are dynamic (they change each time you connect to the Internet), rather than static (unique to any one particular user's computer). We may use your IP address to improve or administer the site, diagnose server problems, report aggregate information, or to determine the fastest connection route between your computer and our site.
 
-Any questions or concerns regarding the use or disclosure of Personal information should be directed to the Vensure Privacy Office at the address given below. Vensure will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between Vensure and the complainant, Vensure has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles.
+Another method for passive information collection is by means of "cookies." A "cookie" is a small data text file, which a Website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. "Session cookies" are temporary bits of information that are erased once you exit your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Websites and to collect aggregate statistical information.
 
-VI. INTERNET PRIVACY
+This site may use both cookies and session cookies. If you do not wish to receive cookies from this or any other site, you can change your computer's settings so that it will no longer accept cookies.
 
-Vensure sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. Vensure recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. Vensure's sole purpose for operating its websites is to provide information concerning products and services to the public. In general, visitors can reach Vensure on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via Vensure websites but are not required to do so. Vensure collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. Vensure collects this information so it may answer questions and forward requested information. Vensure does not sell or share this information with non-agent third parties.
+ **Turning off cookies.**  Be aware that in some cases, you need to accept cookies from a site to take full advantage of its services. This is especially true on sites that require a user ID or a password.
 
-Vensure may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of Vensure websites may not function properly.
+In Internet Explorer 4, go to the "View" menu and select "Options." In the "Options" dialog box, click the "Advanced" tab. Scroll down the list box and deselect the "Always Accept Cookies" option. You may select "Prompt Before Accepting Cookies" if you would like to selectively accept them.
 
-Few, if any, of Vensure's websites are directed toward children. Nevertheless, Vensure is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA").
+In Internet Explorer 5, go to the "Tools" menu and select "Internet Options." Choose the "Security" tab and click on the "Custom Level" box. Scroll down to "Cookies" and change your options.
 
-Vensure website users have the option to request that Vensure not use information previously provided, correct information previously provided, or remove information previously provided to Vensure. Those that would like to correct or suppress information they have provided to Vensure should forward such inquiries to:
+In Internet Explorer 6, go to the "Tools" menu and select "Internet Options." Choose the "Privacy" tab to control your cookie options. You may turn off all cookies by setting your privacy level to "Block All Cookies," or specify that you want to block cookies only from a particular Website by selecting the "Websites / Edit..." button.
 
-Vensure Privacy Inquiries  
-1101 Beach Avenue  
-Vancouver, B.C. V6E 1V4
+In Netscape Navigator, select "Preferences" from the "Edit" menu, then choose "Advanced." Either select "Disable Cookies" or check "Warn Me Before Accepting a Cookie."
 
-The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). Vensure will use all reasonable efforts to honor such requests as quickly as possible.
+ **Internet tags**  (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. This site may or may not use Internet tags.
 
-Vensure websites may contain links to other "non-Vensure" websites. Vensure assumes no responsibility for the content or the privacy policies and practices on those websites. Vensure encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of Vensure.
+ **How to Contact Us**
 
-VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY
+If you have any questions, comments, or concerns about this Privacy Policy or the information collection practices of this site, please contact us at: 
 
-The practices described in this Policy are current Personal data protection policies as of June 18, 2004. Vensure reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.
+FUKITOL  
+125 - 1216 Alpha Lake Road  
+Whistler, British Columbia  
+V0N 1B1 
+
+Phone: 1-888-FUK1TOL   
+Fax: 1-888-FUK1TOL   
+Email:  [Info@FUKITOL.com](mailto:Info@FUKITOL.com)
+
+**Changes to This Privacy Policy**
+
+FUKITOL, Inc. reserves the right to modify, add or remove portions of this privacy policy at its discretion. Any changes to this Privacy Policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on January 21, 2004.
+
+ **Other Terms**
+
+Your use of this site is subject to our Legal Notice.
