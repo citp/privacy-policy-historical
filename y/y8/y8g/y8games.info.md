@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y8games.info privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211063114id_/http%3A//www.y8games.info/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8games.info privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412042135id_/http%3A//www.y8games.info/page/1.html) for the most accurate reproduction.*
 
 # Y8 Games - Best games from y8.com - Privacy Policy - Y8Games
 
@@ -18,4 +18,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 It is FreeGames14.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, FreeGames14.com will immediately disable and remove games in question.
 
 **Contact**  
-info@freegames14.com 
+contact@y8games.info 
