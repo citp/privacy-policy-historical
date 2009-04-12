@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025004516id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413003804id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Downtown Las Vegas Hotel & Casino - plazahotelcasino.com :: Privacy-policy
 
@@ -8,7 +8,7 @@
 Your privacy is extremely important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 **APPLICATION OF THIS PRIVACY POLICY**  
-This Privacy Policy applies to all Web sites including, but not limited to, the Web sites for: (1) Plaza Hotel & Casino at www.plazahotelcasino.com; (2) Vegas Club Hotel & Casino at www.vegasclubcasino.net; (3) Western Hotel & Casino at www.westernhotelcasino.com; and (4) Gold Spike Hotel & Casino at www.goldspikehotelcasino.com. Our Web sites may be accessed through domain names other than the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through our Web sites.
+This Privacy Policy applies to all Web sites including, but not limited to, the Web sites for: (1) Plaza Hotel & Casino at www.plazahotelcasino.com; (2) Vegas Club Hotel & Casino at www.vegasclubcasino.net; (3) Western Hotel & Casino at www.westernhotelcasino.com. Our Web sites may be accessed through domain names other than the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through our Web sites.
 
 **INFORMATION WE COLLECT ABOUT YOU**  
 **General Information**  
