@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026041340id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413003447id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
 
 # KEMBA: Privacy Notice
 
@@ -6,7 +6,15 @@
 
 Quick Fact
 
-KEMBA Financial Credit Union is committed to making financial products and services available to its members that will enable them to meet their financial needs. Protecting personal information and using it in a manner consistent with member expectations is a high priority for everyone associated with KEMBA.  
+Credit scores are based on the information in your credit reports. This information includes, but isn’t limited to: 
+
+  * Your payment history 
+  * How much money you currently owe 
+  * How long your accounts have been open 
+  * What type of credit you use 
+  * How much credit you use compared to the amount of credit you have available 
+  * How often and how recently you’ve applied for credit 
+
 
 
 | 
@@ -74,3 +82,7 @@ These privacy guidelines have been developed with the recognition that Internet 
 |    
   
 [](http://www.moneyandstuff.info/)
+
+[](http://my.e2rm.com/personalPage.aspx?registrationID=609072&LangPref=en-CA)
+
+[](http://affiliates.cutaxservices.com/?cuid=kembac)
