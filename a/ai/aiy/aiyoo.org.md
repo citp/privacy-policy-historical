@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiyoo.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050312id_/http%3A//www.desiterminal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiyoo.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413230751id_/http%3A//www.desiterminal.org/privacy.php) for the most accurate reproduction.*
 
 # aiyoo.org - Privacy
 
