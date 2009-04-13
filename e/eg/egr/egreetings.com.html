@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054315id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egreetings.com privacy policy that was archived on 2009-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090413175120id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="agmips" content="ag300">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="agmips" content="ag304">
 
 <title>Find out more about Egreetings.com!</title>
 <script language="JavaScript">
@@ -220,9 +221,9 @@ var mcp_ck_name = 'mc_p';</script>
 <div></div>
     <div id="eg-toplinks">
         <ul id="eg-accountlinks">
-        <li id="eg-top-account" class="eg-firstitem"><a title="my account" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=myaccount');">my account</a></li>
-        <li id="eg-top-address"><a title="address book" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=addressbook');">address book</a></li>
-        <li id="eg-top-reminders"><a title="reminders" href="javascript:openJoin('http://www.egreetings.com/popup/register.pd?app=reminders');">my reminders</a></li>
+        <li id="eg-top-account" class="eg-firstitem"><a title="my account" href="http://www.egreetings.com/members/register.pd?app=myaccount">my account</a></li>
+        <li id="eg-top-address"><a title="address book" href="http://www.egreetings.com/members/register.pd?app=addressbook">address book</a></li>
+        <li id="eg-top-reminders"><a title="reminders" href="http://www.egreetings.com/members/register.pd?app=reminders">my reminders</a></li>
         </ul>
         
         <ul id="eg-loginlinks">
@@ -244,12 +245,12 @@ var mcp_ck_name = 'mc_p';</script>
 <fieldset>
 
 <legend>Search Egreetings for Free Ecards, Online Greeting Cards, Animated Ecards, Funny Cards &amp; Greetings</legend>
-<label for="eg-searchtextfield"><span id="eg-icon" title="Search" class="eg-engine-ask"></span></label>
-<input id="eg-searchtextfield" name="strSearch" type="text" maxlength="2048" value="Search the Web" onclick="javascript:clearSearchFieldText(this)">
+<label for="eg-searchtextfield"><span id="eg-icon" title="Search" class="eg-engine-wl"></span></label>
+<input id="eg-searchtextfield" name="strSearch" type="text" maxlength="2048" value="Search the Web" onfocus="toogleSearchText(this)" onblur="toogleSearchText(this)">
 <input id="eg-topsubmit" name="btnsearch" type="image" src="http://ak.imgag.com/imgag/eg/common/eg-icon-search.gif" alt="Click to Search" title="">
 <span id="eg-btn-searchmore"><a href="#" onclick="return false;" onmouseover="expand(); return false;" onmouseout="collapse(); return false;"><img src="http://ak.imgag.com/imgag/eg/common/eg-icon-searchmore.gif" alt="Search More" title=""></a></span>
 
-    <input type="hidden" name="f" value="web">
+    <input type="hidden" id="filter" name="f" value="web">
 
 </fieldset>
 </form>
@@ -488,11 +489,8 @@ AN AMERICANGREETINGS.COM COMPANY</h1>
 	</div>
 	
 	</td>
-<td align="center" bgcolor="#549adb" valign="top" width="145"><br><script type="text/javascript" src="http://x.boomx.net/bfp/conf/config03agi.js"></script>
-<script type="text/javascript" src="http://x.boomx.net/bfp/lib/adTagLib.js"></script>
-<script type="text/javascript" language="JavaScript">
-var segments = boomx.bfp.getSavedSegments();
-var tag='<ifr' + 'ame src="http://ad.doubleclick.net/adi/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=warrants;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=120x600,160x600;ord=63843380083?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000"><scri' + 'pt language="Jav' + 'aScr' + 'ipt" src="http://ad.doubleclick.net/adj/agi.eg.ecards/DFLT/DFLT;'+ segments +'page=warrants;g=CUST_GND;a=CUST_YR;memstat=afu;product=;tile=2;sz=120x600,160x600;abr=!ie;ord=63843380083?" type="text/javascript"></scri' + 'pt></iframe>'
+<td align="center" bgcolor="#549adb" valign="top" width="145"><br><script language="JavaScript">
+var tag='<ifr' + 'ame src="http://ad-bfp.doubleclick.net/adi/agi.eg.ecards/DFLT/DFLT;page=warrants;product=;g=CUST_GND;a=CUST_YR;memstat=afu;tile=2;sz=160x600,120x600;ord=815177454321?" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling=no borderCOLOR="#000000" allowtransparency="true"><scri' + 'pt language="Jav' + 'aScr' + 'ipt" src="http://ad-bfp.doubleclick.net/adj/agi.eg.ecards/DFLT/DFLT;page=warrants;product=;g=CUST_GND;a=CUST_YR;memstat=afu;tile=2;sz=160x600,120x600;abr=!ie;ord=815177454321?" type="text/javascript"></scri' + 'pt></iframe>'
 tag = tag.replace(/CUST_YR/g, getCustomerAge());
 tag = tag.replace(/CUST_GND/g, getCustomerGender());
 document.write(tag);
@@ -525,7 +523,7 @@ document.write(tag);
     </ul>
 
 
-<p id="eg-legal2"><br> Copyright © 1997-2008 AG.com, Inc. All rights reserved.</p>
+<p id="eg-legal2"><br> Copyright © 1997-2008 AG.com, Inc. All rights reserved. E-greetings ™</p>
 
     <ul id="eg-seo">
     <li class="eg-firstitem">Visit our friends at: <a href="http://www.photoworks.com/" target="_blank">PhotoWorks</a></li>
@@ -593,8 +591,8 @@ function URLConfigObj()
      defaultSearch:
      { 
       base:"http://search.imgag.com/",
-       param:"?appid=egws&c=&sbs=6&sc=2&f={F}&uid={UID}&q={Q}",
-       style:"eg-engine-ask"
+       param:"?c=&sbs=6&sc=2&f={F}&uid={UID}&q={Q}",
+       style:"eg-engine-wl"
      }, 
      egreetings:
      {
@@ -663,14 +661,23 @@ function updateSearchFieldText(searchText)
     document.getElementById("eg-searchtextfield").value = leadingText + searchText
    }  
 }
-function clearSearchFieldText(obj)
-{
-  if (!textCleared)
-   { 
-     obj.value = ''; 
-     textCleared = true;
-  obj.style.color = '#000000'
-   }
+
+var toogleSearchText = function (element) {
+ var filter = document.getElementById('filter').value;
+ var leadingText = (filter == "web")?"Search the ":"Search ";
+ var default_txt = leadingText +  filter;
+ if (element.value == default_txt)
+ {
+  element.value = '';
+  textCleared = true;
+  element.style.color = '#000000';
+ } else if (element.value == '')
+ { 
+  element.value = default_txt;
+  textCleared = false;
+  element.style.color = '#CCCCCC';
+ } 
+ 
 }
 //  Drop Down Menu 
 //  @kludge using interval to hide flicker on IE mouseout  
@@ -692,89 +699,26 @@ function delayedClose(el) {
 </script>
 
 
+
 <!-- var strRangeTracking not found -->
 <script language="JavaScript">var tcdacmd="dt";</script>
 <script src="http://an.tacoda.net/an/13987/slf.js" language="JavaScript"></script>
 <!-- var lcLandingPageJS not found -->
 
-<!-- page generated: Wed Dec 17 00:43:13 2008 -->
+<!-- page generated: Mon Apr 13 13:51:14 2009 -->
 
-
-<script type="text/javascript" src="http://ak.imgag.com/imgag/js/omniture/extras.js"></script>
-<!-- SiteCatalyst code version: G.7.  -New
-Copyright 1997-2004 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript">//<!--
-var ingroup=omniture.inTrackingSample();
-var s_pageName="/new_warrants.pd";
-var s_server="ag300";
-var s_channel="Main";
-var s_pageType="";
-var s_prop1="";
-var s_prop2="afu_not_identified";
-var s_prop3="W";
-var s_prop4="";
-var s_prop5="";
-var s_prop6="";
-var s_prop7="A|A";
-var s_prop8="";
-var s_prop9="";
-var s_prop10="eg";
-var s_prop11="";
-var s_prop12="";
-var s_prop13="";
-var s_prop14="";
-var s_campaign="";
-var s_events="";
-var s_products="";
-var s_eVar1="";
-var s_eVar2="";
-var s_eVar3="";
-var s_eVar4="afu_not_identified";
-var s_eVar5="eg";
-var s_eVar6="";
-var s_eVar7="";
-var s_eVar8="A|A";
-var s_eVar9="";
-var s_eVar10="";
-var s_eVar11="";
-var s_eVar12="";
-try{s_eVar3=useg;s_prop1=s_eVar3;}catch(e){s_eVar3='afu_none';s_prop1=s_eVar3;}
-try{s_prop5=getCustomerEntryStatusForUUT();}catch(e){s_prop5='afu';}
-s_eVar6=s_prop5;
-try{s_prop9=getCustomerNumber();s_eVar7=s_prop9;}catch(e){s_prop9='Unknown';s_eVar7=s_prop9;}
-try{s_eVar5=getSource();s_prop10=s_eVar5;}catch(e){}
-s_prop6=s_pageName+'|'+s_prop5;
-s_prop8=s_pageName+'|'+s_prop2;
-/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
-var s_code=' '//--></script>
-<script language="JavaScript" src="http://ak.imgag.com/imgag/js/omniture/s_code-eg.js"></script>
-<script language="JavaScript"><!--
-if(ingroup) { var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
-'agegreetings');if(s_code)document.write(s_code)}else
-document.write('<im'+'g src="http://agegreetings.112.2O7.net/b/ss/agegreetings/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]'
-+'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />'); }
-
-function do_omniture() {
-  if(ingroup) {
-     var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc('agegreetings');if(s_code)document.write(s_code)
-  }else {
-     var img = document.createElement('img');
-     img.src = "http://agegreetings.112.2O7.net/b/ss/agegreetings/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]' +'&j=1.0&[AQE]";
-     img.height="1";
-     img.width="1";
-     img.border="0";
-     img.alt="";
-     document.getElementsByTagName('body').item(0).appendChild(img);
-   }
-}
-}
-//--></script><script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img
-src="http://agegreetings.112.2O7.net/b/ss/agegreetings/1/G.7--NS/0?pageName=%2Fnew_warrants.pd%7Cnst&ch=Main&server=ag300&c10=eg&c3=W"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: G.7. -->
+<!-- Start GoogleAnalytics Impression Tag -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6135510-1");
+pageTracker._setDomainName(".egreetings.com");
+pageTracker._setVar(navigator.userAgent);
+pageTracker._trackPageview();
+</script>
+<!-- End GoogleAnalytics Impression Tag -->
 
 
 
