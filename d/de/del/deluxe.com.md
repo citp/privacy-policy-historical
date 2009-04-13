@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123841id_/http%3A//www.deluxe.com/deluxe-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413145130id_/http%3A//www.deluxe.com/privacy-terms/index.jsp) for the most accurate reproduction.*
 
-# Privacy and Information Practices
+# Privacy & Terms - Deluxe Corp
 
-## Deluxe Corporation Privacy and Information Practices
+##  Deluxe Corporation Privacy &  
+Information Practices
 
 Deluxe's privacy policies reflect our commitment to respond to the changing needs and concerns of consumers, financial services companies, and regulators. Most importantly, Deluxe is committed to maintaining the high standards and reputation for privacy and the trust we have earned since our formation in 1915.
 
 Deluxe Corporation owns several businesses. Each business serves customers who have specific and unique privacy concerns, and each business segment has implemented a privacy policy that reflects the applicable legal requirements and customer expectations for that business.
 
-[Privacy Policy For Financial Institutions](https://web.archive.org/deluxe-privacy-financialinstitutions.jsp)  
-[Privacy Policy For Individuals](https://web.archive.org/deluxe-privacy-individuals.jsp)  
-[Privacy Policy For Businesses](https://web.archive.org/deluxe-privacy-businesses.jsp)  
+[Privacy Policy For Financial Institutions](https://web.archive.org/web/20090413145130id_/http%3A//www.deluxe.com/privacy-terms/institutions.jsp)
 
+[Privacy Policy For Businesses](https://web.archive.org/web/20090413145130id_/http%3A//www.deluxe.com/privacy-terms/businesses.jsp)
 
-## Privacy Fundamentals: Privacy Matters at Deluxe 
+[ Privacy Policy For Individuals](https://web.archive.org/web/20090413145130id_/http%3A//www.deluxe.com/privacy-terms/individuals.jsp)
+
+### Privacy Fundamentals: Privacy Matters   
+at Deluxe
 
 Long before laws that protect the privacy of certain kinds of information and long before terms like "identity theft" were commonly known, Deluxe Corporation was a trusted custodian of sensitive customer information. For decades, financial institutions and customers have relied on Deluxe as a caretaker of information such as checking account numbers, routing numbers, addresses, credit card numbers, telephone numbers, social security numbers, drivers' license numbers and many other pieces of information considered confidential.
 
-Today that information is known as non-public personal information and it is the center of attention for financial institutions and businesses, like Deluxe that deal with this type of information on a daily basis. Under laws known as the Gramm-Leach-Bliley Act, data security and breach regulations, non-public personal information must be protected. At Deluxe, we've been protecting this kind of information since the company was founded in 1915. 
+Today that information is known as non-public personal information and it is the center of attention for financial institutions and businesses, like Deluxe that deal with this type of information on a daily basis. Under laws known as the Gramm-Leach-Bliley Act, data security and breach regulations, non-public personal information must be protected. At Deluxe, we've been protecting this kind of information since the company was founded in 1915.
 
 Our business depends on our ability to meet the privacy needs of the industry and of the people who use Deluxe products for financial transactions every day. No matter where an employee works at Deluxe, privacy matters.
 
@@ -28,13 +31,13 @@ Our business depends on our ability to meet the privacy needs of the industry an
 
 
 
-## Deluxe's commitment to Privacy 
+###  Deluxe's Commitment to Privacy
 
 Throughout our existence, Deluxe Corporation ("Deluxe") has been a trusted custodian of sensitive consumer data. Financial services companies and consumers rely on that trust. The operating subsidiaries of Deluxe created a formal privacy policy in 1997 to ensure that the clients and customers of Deluxe understand our commitment to protecting customer privacy.
 
 It's good business practice for companies today to be clear about how they use customer information. Also, the Gramm-Leach-Bliley Act requires financial institutions and other businesses to have established privacy policies, readily accessible to customers to understand how their information is collected, used, protected, and shared.
 
-## Privacy Guidelines
+### Privacy Guidelines
 
   * Our privacy policies clearly convey how we collect and use customer information within the Deluxe group of businesses
   * Deluxe is accountable to accurately collect the data it receives and uses, and to protect confidential information it uses
@@ -47,30 +50,31 @@ It's good business practice for companies today to be clear about how they use c
 
 Regardless of the business model, each of the Deluxe companies builds its privacy policy and information practices around the following guiding principles:
 
-  * **Accuracy** : A commitment to use reasonable procedures to ensure that information collected, used, and exchanged will be accurate and complete. 
-  * **Security** : A commitment to use appropriate security measures for protecting information from unauthorized access, use, and disclosure. 
-  * **Compliance** : A commitment to collect, use, and exchange data in accordance with applicable laws, and contractual obligations.
-  * **Confidentiality** : A commitment to collect, use, and exchange information in accordance with appropriate confidentiality standards. 
-  * **Privacy** : A commitment to self-regulation in recognition of expectations of privacy, our policy, and in accordance with leading industry standards. 
-  * **Responsiveness** : A commitment to respond to privacy-related inquiries in a timely and accurate manner. 
-  * **Employee Education** : A commitment to educate employees regarding information practices and the proper handling and use of information. 
-  * **Self-Auditing** : A commitment to periodic auditing of internal activities to ensure adherence to established information practices, policies, and procedures. 
+  * **Accuracy:** A commitment to use reasonable procedures to ensure that information collected, used, and exchanged will be accurate and complete.
+  * **Security:** A commitment to use appropriate security measures for protecting information from unauthorized access, use, and disclosure.
+  * **Compliance:** A commitment to collect, use, and exchange data in accordance with applicable laws, and contractual obligations.
+  * **Confidentiality:** A commitment to collect, use, and exchange information in accordance with appropriate confidentiality standards.
+  * **Privacy:** A commitment to self-regulation in recognition of expectations of privacy, our policy, and in accordance with leading industry standards.
+  * **Responsiveness:** A commitment to respond to privacy-related inquiries in a timely and accurate manner.
+  * **Employee Education:** A commitment to educate employees regarding information practices and the proper handling and use of information.
+  * **Self-Auditing:** A commitment to periodic auditing of internal activities to ensure adherence to established information practices, policies, and procedures.
 
 
 
-## Privacy Policy Changes
+###  Privacy Policy Changes
 
 We may change our privacy policy at any time. Any changes to the privacy and security policy will be posted on the Web sites for our various business segments so that you are aware of the information we collect, how we use it, as well as the latest updates on how we maintain the secure portions of our Web sites.
 
 Periodically, the operations and business practices of Deluxe Corporation are reviewed for compliance with corporate policies and procedures governing the confidentiality of information. These reviews are conducted by internal staff, internal auditors who report directly to the Deluxe Board of Directors, external auditing and accounting firms, and government regulators. Included in these self-assessments and examinations are reviews of the controls and safeguards related to customer privacy described in its Privacy Policies.
 
-We also participate in the Council of Better Business Bureau's BBBOnLine Privacy Program, and comply with all BBBOnLine Privacy standards. Further information about this program and its dispute resolution program is available at [www.bbbonline.org.](http://www.bbbonline.org/)
+We also participate in the Council of Better Business Bureau's BBBOnLine Privacy Program, and comply with all BBBOnLine Privacy standards. Further information about this program and its dispute resolution program is available at [www.bbbonline.org](http://www.bbb.org/minnesota/report/332).
 
-## Correct/Update/Access — Contacting Deluxe Corporation:
+### Correct/Update/Access — Contacting Deluxe Corporation:
 
 Please use the contact information below to ask questions or review, update or correct the personally identifiable information that was collected online from you. If you have questions regarding this Privacy Policy, the practices of this Web site or your dealings with this Web site, Deluxe Corporation provides the following convenient ways to contact us:
 
-**Address:**  
+### Address:
+
 Deluxe Corporation  
 Attn: Privacy Program Office  
 3680 Victoria Street N.  
