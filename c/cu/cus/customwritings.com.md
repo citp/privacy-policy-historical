@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413033335id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | We take confidentiality and privacy very seriously!
 
@@ -32,8 +32,7 @@ If you are concerned about how your information is used, you should check this p
 
 ## Security 
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information we have collected from you.   
-These security measures include the necessary protection to prevent, as far as possible, access to our databases by parties other than The Solomon Papers. 
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information we have collected from you. 
 
 ## Links Disclaimer 
 
@@ -87,10 +86,10 @@ Otherwise, if you need custom written essay or research paper on a general topic
 
 **20 $ / page**  
   
-Note: The prices in this table are given for 2-weeks orders. Please see the [full price table for detailed prices](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/pricing.html).  
+Note: The prices in this table are given for 2-weeks orders. Please see the [full price table for detailed prices](https://web.archive.org/web/20090413033335id_/http%3A//www.customwritings.com/pricing.html).  
   
 Authenticity of the writing and confidentiality of all information are guaranteed. We do not reuse ANY papers and we keep user information private.
 
 |   
   
-****[](https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/order.html)
+****[](https://web.archive.org/web/20090413033335id_/http%3A//www.customwritings.com/order.html)
