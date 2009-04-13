@@ -1,62 +1,61 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919055011id_/http%3A//www.mysmallbiz.com/pg/pub/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413212644id_/http%3A//www.mysmallbiz.com/privacy.php) for the most accurate reproduction.*
 
-# Starting A Small Business, Legitimate Home Business Ideas, Work From Home Business Idea
+# MySmallBiz.com Privacy Policy
 
-**Privacy Policy**  
-Originated: February 16, 2006  
-Last Updated: February 5, 2007 
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use MySmallBiz.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
-We at MySmallBiz.com have created our privacy policy to demonstrate our firm commitment to your online privacy. The following sections disclose our methods for gathering and disseminating information gathered from this site. 
+Biz Foundry, Ltd., the owner and operator of MySmallBiz.com, strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website. 
 
-**Non-Personal Information**  
-During your visit to MySmallBiz.com, we may collect data about your visit. This data **does not** personally identify you. The data is collected in aggregated, anonymous form and helps us improve our site and make it easier to use. We may share this aggregated data with others including, but not limited to current or potential advertisers and other third-party partners.
+## Personal Information
 
-We may use your IP address to help diagnose problems with our server, administer our site, identify potential site abuse or gather broad demographic information.
+Biz Foundry, Ltd. collects personally identifiable information from the visitors to the MySmallBiz.com website only on a voluntary basis. Personal information collected on a voluntary basis may include, but is not necessarily limited to, name, postal address, email address, company name and telephone number. 
 
-**Personal Information and Communication Preferences**  
-Submission of any personal information by you to the site is completely voluntary. Normal visitors to the site need not submit any personal information as a prerequisite of using this site. If you wish to receive the MySmallBiz.com e-Newsletter, you will be asked to provide to us your valid email address. We use your email address to send you our e-Newsletter only. We do not share your email address with others. You may unsubscribe to our e-Newsletter at any time. We provide an unsubscribe link within each of our e-Newsletters. You may also [contact us](https://web.archive.org/pg/pub/contact.php) at for assistance with unsubscribing. 
+This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries. 
 
-**Children’s Privacy  
-** We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our database. MySmallBiz.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
 
-  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
-  * Know the sites your kids are visiting and which sites are appropriate. 
-  * Look for Web site privacy policies. Know how your child's information is treated. 
+## Use of Cookies
 
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables MySmallBiz.com to recall your specific information on subsequent visits. 
 
+You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
-**Cookies**  
-At times we may use cookies to improve the interaction between you and the site. Cookies are files that are temporarily stored on your computer's hard drive. We may use cookies to customize your site experience, to make sure you don't see the same ad repeatedly, to deliver content specific to your interests, or to temporarily store data that is needed by the site for your visit to function properly. You may disallow cookies through your web browser and still visit the site; doing so, however, may render some or all features of the site unusable. We will never use cookies to retrieve information from a computer for purposes unrelated to this site. 
+## Third Party Advertising 
 
-**Other Sites**  
-MySmallBiz.com contains links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites. 
+The MySmallBiz.com site uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-**Security**  
-We take seriously the security for all personal and non-personal information associated with our visitors. Due to the open communication nature of the Internet, however, we can not guarantee that communications between you and site, and you and the site staff will be free from unauthorized access by third parties. 
+One such third-party advertising company we use is Google. You should be aware about Google and the DoubleClick DART cookie they use to tailor advertisements to visitors:
 
-**Your Acceptance of this Policy**  
-By visiting this site, you signify your assent to our then-current Privacy Policy. If you do not agree to this policy, please do not use our site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. Your continued use of our site following the posting of changes to this policy means you accept these changes. 
-
-**BIZ FOUNDRY, LTD. COPYRIGHT NOTICE**  
-Copyright 2006-2007 by Biz Foundry, Ltd. All rights reserved. 
-
-If you believe that your work has been copied in a way that constitutes copyright infringement, please forward the following information to Biz Foundry, Ltd., either in electronic or postal mail form, designated as such pursuant to the Digital Millennium Copyright Act, 17 U.S.C. Â§ 512(c)(2), named below: 
-
-  * Your address, telephone number, and email address; 
-  * A description of the copyrighted work that you claim has been infringed; 
-  * A description of where the alleged infringing material is located; 
-  * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; 
-  * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; and 
-  * A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+  * Google, as a third party vendor, uses cookies to serve ads on the MySmallBiz.com website. 
+  * Google's use of the DART cookie enables it to serve ads to visitors based on their visit to MySmallBiz.com and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
-Please send your submission to either of the following:
+## Children's Online Privacy Protection Act
 
-**Postal Mail**  
-Biz Foundry, Ltd.  
-Care Of: MySmallBiz.com  
-400 Dorla Court, pob 10162  
-Zephyr Cove, NV 89448 
+This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
 
-**[E-Mail Us](https://web.archive.org/pg/pub/contact.php)**
+## Non-Personal Information
+
+In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+
+## Release of Information
+
+If MySmallBiz.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+
+## How You Can Correct or Remove Information
+
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://web.archive.org/web/20090413212644id_/http%3A//www.mysmallbiz.com/contact.php) page. 
+
+## Updates and Effective Date
+
+Biz Foundry, Ltd. reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+
+## Agreeing to Terms
+
+If you do not agree to the Biz Foundry, Ltd. Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
+
+Your use of this site indicates acceptance of this privacy policy.
+
+[<< Home | Privacy Policy ](https://web.archive.org/index.php)
