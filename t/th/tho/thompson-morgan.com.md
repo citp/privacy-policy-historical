@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124826id_/http%3A//www.thompson-morgan.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413024725id_/http%3A//www.thompson-morgan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
@@ -43,5 +43,5 @@ Thompson & Morgan provides users the opportunity to opt-out of receiving communi
   2. You can call Customer Care on +44 (0)1473 688 821 
   3. You can click on the "Unsubscribe" link included at the bottom of each of our emails and follow the instructions 
   4. You can send mail to the following postal address: 
-Thompson & Morgan (UK) Ltd Poplar Lane Ipswich Suffolk IP8 3BU United Kingdom 
+Customer Care Poplar Lane Ipswich Suffolk IP8 3BU United Kingdom 
 
