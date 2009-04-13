@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615170750id_/http%3A//www.phonepower.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413043309id_/http%3A//www.phonepower.com/privacy.aspx) for the most accurate reproduction.*
 
 # Phone Power - Privacy Policy
-
-| 
 
 Phone Power is committed to protecting the privacy and security of the information provided by customers visiting our Web site or using our services. Phone Power may request information from people visiting our Web sites or using our services. Phone Power is the sole owner of the information collected. Phone Power respects your privacy and will not knowingly distribute or cause to be distributed your personal information to any entity for any reason. We will not collect any personally identifiable information unless the visitor/customer provides it to us voluntarily. Personally identifiable information includes a visitors/customer’s name, address, telephone number and e-mail address. Phone Power is dedicated to building a long-term relationship with all of our customers and visitors. We will not sell, share or rent this information to others in ways other than as disclosed in this Privacy Policy. 
 
@@ -34,5 +32,3 @@ All customer/visitor information, not just the sensitive information mentioned a
 Phone Power  
 20765 Superior St.  
 Chatsworth, CA, 91311 
-
-| 
