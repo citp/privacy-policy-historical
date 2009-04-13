@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxyhost.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219122024id_/http%3A//www.oxyhost.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxyhost.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413062704id_/http%3A//www.oxyhost.com/privacy.jsp) for the most accurate reproduction.*
 
 # OxyHost - Free Quality Web Hosting - Create your own website today
 
