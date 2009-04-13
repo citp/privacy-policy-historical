@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164459id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413231310id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
 
 # mozdev.org - www: community/privacy
 
@@ -56,6 +56,3 @@ Covington & Burling LLP
 The New York Times Building  
 620 Eighth Avenue  
 New York, NY 10018-1405 
-
-For questions or comments _not_ about a specific project, and _not_ covered in the [FAQ](http://www.mozdev.org/faq.html), please read our [feedback](http://www.mozdev.org/feedback.html) page.  
-[Copyright](http://www.mozdev.org/copyright.html) © 2000-2008. All rights reserved. [Terms of Use](http://www.mozdev.org/community/terms.html) & [Privacy Policy](http://www.mozdev.org/community/privacy.html). 
