@@ -1,39 +1,69 @@
-> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011083817id_/http%3A//www.harland.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413152138id_/http%3A//harlandclarke.com/main/privacy) for the most accurate reproduction.*
 
-# Welcome to the John H. Harland Website
+# Harland Clarke | Privacy & Security
 
-This Privacy Notice explains how we collect, use and protect information about you, our valued customer.
+Harland Clarke does not capture and store any personal information about individuals who access this website, except where you voluntarily choose to give us your personal details via the online e-mail form orif you are an employee entering the Employee area of the site. The personal information you give us is used exclusively by Harland Clarke for providing you with current and future information. We will not pass any of the personal data that you have provided us to any outside organizations and/or individuals, except with your express consent.
 
-“We” or “us” means the companies and businesses that belong to the John H. Harland Company corporate family and includes, for example, John H. Harland Company; The Check Store, Inc.; Scantron Corporation and Harland Financial Solutions, Inc.
-
-We may change this Privacy Notice at any time so that it accurately states how we collect, use and protect information about you.
-
-In order to better serve your needs and provide you with better customer service, we collect nonpublic personal information about you in many different ways. For example, we collect:
-
-  * Information you give to us when you contact us or communicate with us in any way. For example, when you order or reorder products or services from us, when you fill out our forms or applications, or when you otherwise contact us to order or to learn more about our products and services. Such information may include, for example, your name, address, telephone number and e-mail address.
-  * Information that we obtain from your transactions and dealings with us. For example, your account, order and payment history.
-  * Information that we obtain from third parties about your transactions and dealings with these third parties. For example, your account, order and payment history with these third parties.
-  * Also, we may collect Information about you that we obtain from consumer reporting agencies, such as your credit worthiness and credit history.
+  
 
 
+### Harland Clarke's Information Security Program (ISP)
 
-We consolidate and share all of the information we collect, as described above, including information about former customers, with the companies and businesses that belong to the John H. Harland Company corporate family.
+Harland Clarke's Information Security Program (ISP) is based on the standards identified by the International Standards Organization (ISO). We review and test our online security measures regularly. These measures include:
 
-We may disclose all of the information we collect, as described above, to
+  * Authentication- Users require a unique user account and password. Our policy states user accounts must not be shared and requires complex password construction.
+  * Encryption - All data input during a user's session is encrypted during transmission. Sessions are logged out after 15 minutes of inactivity.
+  * Vulnerability Testing - We maintain current patches and anti-virus definitions, and an independent security firm regularly performs vulnerability tests on our perimeter and enterprise infrastructure.
+  * Monitoring - We monitor for security events with Intrusion Detection and respond with our Security Threat Response Team (START).
+  * Annual Auditing - Our audit plan includes an annual review of our control measures, penetration testing, and an annual certification of our perimeter and enterprise to ensure Harland Clarke is meeting or exceeding essential security best practices.
 
-  * persons or companies that perform business services and operations for us (such as check printing) or function on our behalf, or
-  * persons or companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing arrangements.
+  
 
 
+### Web browsing "cookies"
 
-Except as described above, we do not disclose any nonpublic personal information we collect about you, whether you are our current or former customer, to anyone, except as permitted or required by law (such as to protect against fraud or in response to a subpoena).
+A cookie is a piece of data stored directly on the user's computer hard drive that contains information about the user. Harland Clarke's site is not capable of using the cookies on a user's computer to identify the user. Cookies are used only for storing temporary information. For example, the user will only have to log in once while on Harland Clarke's site. Once the user closes the browser, the cookie created while browsing the Harland Clarke site terminates. If a user rejects the cookie by having the function turned off in the browser settings, the user can still use Harland Clarke's site. In this case, though, usability of the site may be limited.
 
-We restrict access to nonpublic personal information about you to those employees who we believe need to know that information to provide products or services to you.
+  
 
-Whenever we hire persons or companies outside of our corporate family to provide business or marketing support services to us, we will only provide them with such nonpublic personal information about you that we believe is necessary to fulfill their responsibilities or to provide a service to you.
 
-We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard you nonpublic personal information.
+### Log files
 
-As mentioned above, we may revise this Privacy Notice at any time by posting an updated Privacy Notice on our website at [www.harland.net](http://www.harland.net/) or sending you a revised Privacy Notice by mail or through other means of communication. Please consult the Privacy Notice posted on our website regularly.
+Harland Clarke uses Internet Protocol (IP) addresses to administer the site, track page views and click-through activity, and gather broad information for internal use. IP addresses are not linked to personally identifiable information. For applications that have audit requirements, a unique user ID and password are necessary. To ensure audit controls are enforced, Harland Clarke will log and track the user ID while on our site.
 
-**Last updated** : July 2003
+  
+
+
+### Links
+
+A site may contain links to other sites. Please be aware that Harland Clarke is not responsible for the privacy practices of sites not managed or maintained by our company. Harland Clarke encourages Web users to read the Privacy Statement of any site that collects personally identifiable information. Harland Clarke's Privacy Statement applies solely to information collected by Harland Clarke.
+
+  
+
+
+### Surveys and contests
+
+On occasion Harland Clarke may request information from users through surveys. Participation in these surveys is voluntary. Information requested may include contact information (such as name and phone number) for the purposes of contacting survey respondents if they have granted permission for Harland Clarke to do so. Surveys may solicit opinions and general information such as client/employee satisfaction and user satisfaction. Such information is for Harland Clarke's  internal use only.
+
+  
+
+
+### Supplemental Information
+
+Harland Clarke may use nonaffiliated companies to perform services on our behalf and at our direction (with the permission of those financial institutions with which Harland Clarke does business) to help Harland Clarke communicate with consumers or provide them with products or services. In these instances, Harland Clarke has written agreements that require the parties with whom it shares information to keep it safe and confidential and to use it only for the purposes specified. 
+
+  
+When entering into an agreement to provide services to any financial institution, Harland Clarke contractually agrees the user's personally identifiable, non-public information will not be sold or provided in any way to another entity except as stated above. Harland Clarke will not share that information with any other party, including affiliates of Harland Clarke, for purposes that are not related to providing services to those financial institutions and/or their account holders.
+
+  
+
+
+### Changes to Harland Clarke's Privacy Policy
+
+Any changes to the Harland Clarke Privacy Policy will be posted on Harland Clarke's website. For questions about Harland Clarke's Privacy Policy, please click on the Contact Us link in the top navigation section of the site.
+
+  
+All Harland Clarke employees are kept up-to-date on our security and privacy practices. When new policies are implemented, Harland Clarke's employees are notified and reminded of the importance the company places on consumer privacy. 
+
+  
+Finally, the servers in which Harland Clarke stores personally identifiable information are kept in a secure environment and Cybertrust Inc., an Internet Security Service Provider, currently certifies this environment. Periodic assessments are conducted to ensure the controls in place are functioning as designed.
