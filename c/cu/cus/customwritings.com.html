@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2008-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080915111259id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2009-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090413033335id_/http%3A//www.customwritings.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,6 +13,8 @@
 <script src="SpryAssets/SpryValidationSelect.js" type="text/javascript"></script>
 <link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
 <link href="SpryAssets/SpryValidationSelect.css" rel="stylesheet" type="text/css"> 
+<link href="SpryAssets/SpryValidationCheckbox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="SpryAssets/SpryValidationCheckbox.js"></script>
 <script type="text/JavaScript">
 
 function MM_openBrWindow(theURL,winName,features) { 
@@ -43,13 +45,16 @@ function addBookmark(title,url) {
 }
 //-->
 </script>
+
 <style>
 #deadline1  {display:none}
 #deadline2  {display:none}
 #deadline3 {display:none}
 #deadline4  {display:none}
+#deadline5  {display:none}
 #service_option_tr {visibility:hidden}
 #topcat_other_tr {visibility:hidden}
+#slidesreq_tr {visibility:hidden}
 select {width: 80%;}
 .textinput {width: 80%;}
 
@@ -160,6 +165,13 @@ prices.push(30);
 prices.push(32);
 prices.push(37);
 prices.push(45);
+
+prices[584] = 27;
+prices.push(29);
+prices.push(33);
+prices.push(35);
+prices.push(42);
+prices.push(48);
 
 // rewriting = -30%
 prices[600] = 7;
@@ -296,126 +308,237 @@ prices.push(7);
 prices.push(8);
 prices.push(10);
 prices.push(12);
-//
-prevlvl = 0;
 
 
-//
-function showdlselector() {
-	var corslevel = document.getElementById('corslevel').value;
-	for(var i=1; i<=4; i++) {
-		document.getElementById('deadline' + i).style.display='none';
-		document.getElementById('deadline' + i).disabled = true;
+
+prices[713] = 37;
+prices.push(27);
+prices.push(25);
+prices.push(24);
+prices.push(22);
+
+
+prices[722] = 40;
+prices.push(30);
+prices.push(28);
+prices.push(26);
+prices.push(24);
+
+
+prices[732] = 45;
+prices.push(35);
+prices.push(33);
+prices.push(30);
+prices.push(28);
+
+var price_per_slide = 5;
+
+
+function hide_all_deadlines() {
+	for(var i=1; i<=5; i++) {
+		if (document.getElementById('deadline' + i)) {
+			document.getElementById('deadline' + i).style.display='none';
+			document.getElementById('deadline' + i).disabled = true;
+		}
 	}
 	
 	for(var i=11; i<=14; i++) {
-		document.getElementById('deadline' + i).style.display='none';
-		document.getElementById('deadline' + i).disabled = true;
+		if (document.getElementById('deadline' + i)) {
+			document.getElementById('deadline' + i).style.display='none';
+			document.getElementById('deadline' + i).disabled = true;
+		}
 	}
 	for(var i=21; i<=24; i++) {
-		document.getElementById('deadline' + i).style.display='none';
-		document.getElementById('deadline' + i).disabled = true;
+		if (document.getElementById('deadline' + i)) {
+			document.getElementById('deadline' + i).style.display='none';
+			document.getElementById('deadline' + i).disabled = true;
+		}
 	}
 	for(var i=31; i<=34; i++) {
-		document.getElementById('deadline' + i).style.display='none';
-		document.getElementById('deadline' + i).disabled = true;
+		if (document.getElementById('deadline' + i)) {
+			document.getElementById('deadline' + i).style.display='none';
+			document.getElementById('deadline' + i).disabled = true;
+		}
 	}
 	for(var i=41; i<=44; i++) {
-		document.getElementById('deadline' + i).style.display='none';
-		document.getElementById('deadline' + i).disabled = true;
+		if (document.getElementById('deadline' + i)) {
+			document.getElementById('deadline' + i).style.display='none';
+			document.getElementById('deadline' + i).disabled = true;
+		}
 	}
+}
+
+function get_typeofserv() {
+	var typeofservice = document.getElementById('typeofservice').value;
+
+	var typeofserv = '';
 	
-	
+	if(typeofservice == 'Rewriting') {
+		typeofserv = '1';
+	} else if(typeofservice == 'Formatting') {
+		typeofserv = '2';
+	} else if(typeofservice == 'Editing') {
+		typeofserv = '3';
+	} else if(typeofservice == 'Proofreading') {
+		typeofserv = '4';
+	}
+
+	return typeofserv;
+}
+
+var prevlvl = '';
+
+function show_deadline(corslevel) {
 	if (corslevel == '') {
-		document.getElementById('deadline0').style.display='block';
+		if (document.getElementById('deadline0')) {
+			document.getElementById('deadline0').style.display='block';
+		}
 		return;
 	}
-	// my mod
 	
-	var typeofserv = '';
-	if(document.getElementById('typeofservice').value == 'Rewriting')
-	{
-		typeofserv = '1';
+	var typeofserv = get_typeofserv();
+	if (document.getElementById('deadline0')) {
 		document.getElementById('deadline0').style.display='none';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
-		
-		
 	}
-	else
-	if(document.getElementById('typeofservice').value == 'Formatting')
-	{
-		typeofserv = '2';
-		document.getElementById('deadline0').style.display='none';
+	if (document.getElementById('deadline' + typeofserv +''+ corslevel)) {
 		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
 		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
 	}
-	else 
-	if(document.getElementById('typeofservice').value == 'Editing')
-	{
-		typeofserv = '3';
-		document.getElementById('deadline0').style.display='none';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
-	} else
-	if(document.getElementById('typeofservice').value == 'Proofreading')
-	{
-		typeofserv = '4';
-		document.getElementById('deadline0').style.display='none';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).style.display='block';
-		document.getElementById('deadline' + typeofserv +''+ corslevel).disabled = false;
-	} else // end my mod
-	{ // kill
-	typeofserv = '';
-	document.getElementById('deadline0').style.display='none';
-	document.getElementById('deadline' + corslevel).style.display='block';
-	document.getElementById('deadline' + corslevel).disabled = false;
-	} // kill
 	
-	if (prevlvl != 0) {
-		document.getElementById('deadline' + typeofserv +''+ corslevel).selectedIndex = document.getElementById('deadline' + typeofserv + prevlvl).selectedIndex;
+	return typeofserv;
+}
+
+function showdlselector() {
+	var typeofservice = document.getElementById('typeofservice').value;
+	var corslevel = document.getElementById('corslevel').value;
+	
+	hide_all_deadlines();
+
+	show_deadline(corslevel);
+}
+
+function hide_slidesreq () {
+	if (document.getElementById('slidesreq_tr')) {
+		document.getElementById('slidesreq_tr').style.visibility = "hidden";
+		document.getElementById('slidesreq').disabled = true;
 	}
-	prevlvl = corslevel;
+}
+
+function show_slidesreq () {
+	if (document.getElementById('slidesreq_tr')) {
+		document.getElementById('slidesreq_tr').style.visibility = "visible";
+		document.getElementById('slidesreq').disabled = false;
+	}
+}
+
+function change_typeof() {
+	var typeofservice = document.getElementById('typeofservice').value;
+	var corslevel = document.getElementById('corslevel');
+
+	if (typeofservice == "other") {
+		if (document.getElementById('service_option_tr')) {
+			document.getElementById('service_option_tr').style.visibility = "visible";
+			document.getElementById('service_option').disabled = false;
+		}
+
+		show_slidesreq();
+		
+		corslevel.options[5].disabled = false;
+	} else if (typeofservice == "Presentation or speech") {
+		show_slidesreq();
+	} else {
+		if (document.getElementById('service_option_tr')) {
+			document.getElementById('service_option_tr').style.visibility = "hidden";
+			document.getElementById('service_option').disabled = true;
+		}
+		
+		hide_slidesreq();
+		
+		var typeofserv = get_typeofserv();
+
+		if( typeofserv != '')
+		{
+			// 5 == Ph.D.
+			if (corslevel.value == 5) {
+				corslevel.value = '';
+			}
+			corslevel.options[5].disabled = true;
+		} else {
+			corslevel.options[5].disabled = false;
+		}
+	}
+
+	showdlselector();
+}
+
+function isInteger(s) {
+	var n = trim(s);
+	return n.length > 0 && !(/[^0-9]/).test(n);
+}
+
+function trim(s) {
+	return s.replace(/^\s+|\s+$/g, "");
 }
 
 function total_charge() {
 	//function to calculate total charges
-	var corselevel = document.getElementById('corslevel').value;
+	var corslevel = document.getElementById('corslevel').value;
 	var percent = document.getElementById('percent').value;
 	var free_page = document.getElementById('page_free').value;
 	var coupon_code = document.getElementById('coupon_code').value;
+
+	var slidesreq = 0;
+	if (document.getElementById('slidesreq_tr')) {
+		if (document.getElementById('slidesreq').disabled == false) {
+			slidesreq = document.getElementById('slidesreq').value;
+			if (slidesreq.length > 0) {
+			slidesreq = parseInt(slidesreq);
+			if (isNaN(slidesreq)) {
+				slidesreq = "";
+				document.getElementById('slidesreq').value = "";
+			} else {
+				document.getElementById('slidesreq').value = slidesreq;
+			}
+			}
+		}
+	}
+	
 	if (percent > 0) {
 		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount.';
 	}
 	if (free_page > 0) {
 		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br />when you`ll submit the form. This coupon code will give you discount for one page.';
 	}
-	try {
-		
-		// mod by me
-		var typeofserv = '';
-		if(document.getElementById('typeofservice').value == 'Rewriting')
-		{ typeofserv = '1'; }
-		if(document.getElementById('typeofservice').value == 'Formatting')
-		{ typeofserv = '2'; }
-		if(document.getElementById('typeofservice').value == 'Editing')
-		{ typeofserv = '3'; }
-		if(document.getElementById('typeofservice').value == 'Proofreading')
-		{ typeofserv = '4'; }
-		
-		var deadline_selected_val = document.getElementById('deadline'+typeofserv+document.getElementById('corslevel').value).value;
-	}
-	catch(err) {
+
+	if (corslevel == '') {
+		if (document.getElementById('totcharg_details_span_tr')) {
+			document.getElementById('totcharg_details_pages_span').innerHTML = '';
+			document.getElementById('totcharg_details_slides_span').innerHTML = '';
+		}
+
+		if (document.getElementById('totcharg')) {
+			document.getElementById('totcharg').value = "0.00";
+		}
+
+		if (document.getElementById('totcharg_span')) {
+			document.getElementById('totcharg_span').innerHTML = "Select course level first!";
+		}
 		return;
 	}
-	if (corselevel == '') {
-		document.getElementById('totcharg').value = "0.00";
-		document.getElementById('totcharg_span').innerHTML = "Select course level first!";
-		return;
-	}
+
+	var typeofserv = get_typeofserv();
+	
+	var deadline_selected_val = document.getElementById('deadline'+typeofserv+''+corslevel).value;
+	
 	if (deadline_selected_val == "")
 	{
+		if (document.getElementById('totcharg_details_span_tr')) {
+			document.getElementById('totcharg_details_pages_span').innerHTML = '';
+			document.getElementById('totcharg_details_slides_span').innerHTML = '';
+		}
+		
 		document.getElementById('totcharg').value = "0.00";
+		
 		document.getElementById('totcharg_span').innerHTML = "Please select Deadline first.";
 		try {
 			document.getElementById('delivered_time').innerHTML = 'Please select deadline first.';
@@ -426,24 +549,33 @@ function total_charge() {
 		return;
 	}
 	var pagesreq = document.getElementById('pagesreq').value;
-	if (pagesreq == "")
+	if (pagesreq == '')
 	{
 		document.getElementById('totcharg').value = "0.00";
+		
 		document.getElementById('totcharg_span').innerHTML = "#of Pages Required cannot be zero";
+
+		if (document.getElementById('totcharg_details_span_tr')) {
+			document.getElementById('totcharg_details_pages_span').innerHTML = '';
+			document.getElementById('totcharg_details_slides_span').innerHTML = '';
+		}
 		return;
 	}
+
 	//package value
 	var price = prices[deadline_selected_val];
-	//	alert('corselevel '+corselevel+'\n'+'dlselectref '+deadline_selected_val+'\n'+'price '+price+'\n'+'papers '+pagesreq);
-	var totcharg = round_decimals(price * pagesreq, 2);
+	
+	var totcharg = round_decimals((price * pagesreq) + (slidesreq * price_per_slide) , 2);
 	if (!isNaN(totcharg))
 	{
 		document.getElementById('totcharg').value = totcharg;
-			var discount_value = round_decimals(totcharg * percent / 100, 2);
+		
+		var discount_value = round_decimals(totcharg * percent / 100, 2);
 		if (percent != 0) {
 			var end_price = round_decimals(totcharg - discount_value, 2);
+			
 			document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount ($' + discount_value + ').';
-			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
+			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>';
 		} else if (free_page != 0) {
 			if (pagesreq == 1 && free_page == 1) {
 				document.getElementById('discount_div').innerHTML = 'Your order should be a minimum of 2 pages, to receive 1 page for free ';
@@ -452,26 +584,25 @@ function total_charge() {
 				var pre_discount_value = totcharg / pagesreq;
 				var discount_value = round_decimals(pre_discount_value * free_page, 2);
 				var end_price = round_decimals(totcharg - discount_value, 2);
+				
 				document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br />when you`ll submit the form. This coupon code will give you discount for one page.';
-				document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
+				document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>';
 			}
 		}
 		else {
-			document.getElementById('totcharg_span').innerHTML = '$' + totcharg;
+			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + '</strong>';
+		}
+		if (document.getElementById('totcharg_details_span_tr')) {
+			document.getElementById('totcharg_details_pages_span').innerHTML = '$' + round_decimals((price * pagesreq), 2) + ' - writing service';
+			if (slidesreq > 0) {
+				document.getElementById('totcharg_details_slides_span').innerHTML = '$' + round_decimals((slidesreq * price_per_slide), 2) + ' - power point slides';
+			} else {
+				document.getElementById('totcharg_details_slides_span').innerHTML = '';
+			}
 		}
 	}
 	
-		var typeofserv = '';
-		if(document.getElementById('typeofservice').value == 'Rewriting')
-		{ typeofserv = '1'; }
-		if(document.getElementById('typeofservice').value == 'Formatting')
-		{ typeofserv = '2'; }
-		if(document.getElementById('typeofservice').value == 'Editing')
-		{ typeofserv = '3'; }
-		if(document.getElementById('typeofservice').value == 'Proofreading')
-		{ typeofserv = '4'; }
-	
-	document.getElementById('deadline').value = document.getElementById('deadline'+typeofserv+document.getElementById('corslevel').value).value;
+	document.getElementById('deadline').value = document.getElementById('deadline'+typeofserv+''+corslevel).value;
 	try {
 		count_date_finished();
 	}
@@ -480,22 +611,53 @@ function total_charge() {
 	}
 }
 
+function show_replaced() {
+	if(document.getElementById('replaced').checked == false)
+	{
+		document.getElementById('ireplaced').style.display = 'none';
+	} else if(document.getElementById('replaced').checked == true)
+	{
+		document.getElementById('ireplaced').style.display = 'block';
+	}
+	else
+	{
+		document.getElementById('ireplaced').style.display = 'none';
+	}
+	
+}
+
+function show_personal_requests() {
+
+	//alert(document.getElementById('personal_requests').checked);
+	if(document.getElementById('personal_requests').checked == false)
+	{
+		document.getElementById('prequests_div').style.display = 'none';
+	} else if(document.getElementById('personal_requests').checked == true)
+	{
+		document.getElementById('prequests_div').style.display = 'block';
+	}
+	else
+	{
+		document.getElementById('prequests_div').style.display = 'none';
+	}
+}
+
 //
 
 function pad_with_zeros(rounded_value, decimal_places) {
-	var value_string = rounded_value.toString()
-	var decimal_location = value_string.indexOf(".")
+	var value_string = rounded_value.toString();
+	var decimal_location = value_string.indexOf(".");
 	if (decimal_location == -1) {
-		decimal_part_length = 0
-		value_string += decimal_places > 0 ? "." : ""
+		decimal_part_length = 0;
+		value_string += decimal_places > 0 ? "." : "";
 	}
 	else {
-		decimal_part_length = value_string.length - decimal_location - 1
+		decimal_part_length = value_string.length - decimal_location - 1;
 	}
-	var pad_total = decimal_places - decimal_part_length
+	var pad_total = decimal_places - decimal_part_length;
 	if (pad_total > 0) {
 		for (var counter = 1; counter <= pad_total; counter++)
-		value_string += "0"
+		value_string += "0";
 	}
 	return value_string;
 }
@@ -707,7 +869,8 @@ function topcat_other() {
 	}	
 }
 
-</script><script language="JavaScript">
+</script>
+<script language="JavaScript">
 bot_checked = 0;
 function MM_goToURL() { //v3.0
   var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
@@ -715,7 +878,12 @@ function MM_goToURL() { //v3.0
 }
 </script>
 <!-- InstanceBeginEditable name="header" --><!-- InstanceEndEditable -->
-</head>
+<style type="text/css">
+<!--
+.style6 {font-style: italic}
+-->
+</style>
+<script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=33917948"></script></head>
 <body>
 
 <div id="header_conteiner">
@@ -726,78 +894,94 @@ function MM_goToURL() { //v3.0
   addthis_title  = document.title;  
   addthis_pub    = 'bookmarkmysite';     
 </script><script type="text/javascript" src="addthis_widget.js"></script> 
-<!-- AddThis Bookmark Button END --> <a rel="nofollow" href="myorder.html"><img src="images/mo.jpg"></a><a rel="nofollow" href="#our_phones"><img src="images/op.jpg"></a><img src="images/lc.jpg" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')" style="cursor:pointer; display:inline-block;"></div>
+<!-- AddThis Bookmark Button END --> <a rel="nofollow" href="myorder.html"><img src="images/mo.jpg"></a><a rel="nofollow" href="#our_phones"><img src="images/op.jpg"></a><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;byhref=1&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat33917948" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat33917948','width=475,height=470,resizable=yes');return false;"><img src="/images/lc.jpg" style="cursor:pointer; display:inline-block;"></a><!-- END LivePerson Button code --></div>
 <div id="menu">
-<li><a href="index.html">Custom Writing Service</a></li>
-<li><a rel="nofollow" href="pricing.html">Pricing</a></li>
-<li><a rel="nofollow" href="inquiry.html">Free Inquiry</a></li>
-<li><a href="order.html">Order Now</a></li>
-<li><a href="faq.html">F.A.Q.</a></li>
-<li><a rel="nofollow" href="revisions.html">Free Revisions</a></li>
-<li><a href="guarantee.html">Money Back</a></li>
-<li><a rel="nofollow" href="register.php">For Writers</a></li>
-<li><a rel="nofollow" href="MailTo:support@customwritings.com">Send E-mail</a></li>
-  <li><a rel="nofollow" href="#" style="cursor:pointer; display:inline-block;" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')">Live Chat</a></li>
-  </div> 
+<li><a href="index.html"><strong>Custom Writing Service</strong></a></li>
+<li><a href="pricing.html"><strong>Pricing</strong></a></li>
+<li><a href="inquiry.html" rel="nofollow"><strong>Free Inquiry</strong></a></li>
+<li><a href="order.html"><strong>Order now</strong></a></li>
+<li><a href="faq.html"><strong>F.A.Q.</strong></a></li>
+<li><a href="revisions.html" rel="nofollow"><strong>Free Revisions</strong></a></li>
+<li><a href="guarantee.html"><strong>Money Back</strong></a></li>
+<li><a href="register.php" rel="nofollow"><strong>For Writers</strong></a></li>
+<li><a href="MailTo:info@customwritings.com" rel="nofollow"><strong>Send E-mail</strong></a></li>
+<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;byhref=1&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat33917948" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat33917948','width=475,height=470,resizable=yes');return false;" style="cursor:pointer; display:inline-block;"><strong>Live Chat</strong></a><!-- END LivePerson Button code --></li>
+</div> 
 </div>
 </div>
 <!-- start page -->
 <div id="page">
 	<!-- start sidebar1 -->
 	<div id="sidebar1" class="sidebar">
-   <h2 align="left">Popular options</h2>
+   <h2 align="left">Popular options:</h2>
 <div id="btn">
-<a rel="nofollow" href="pricing.html"> Our Pricing</a>
+<a rel="nofollow" href="pricing.html"> Our Prices</a>
 <a rel="nofollow" href="inquiry.html"> Place Free Inquiry </a>
 <a href="order.html"> Order Now </a>
-<div id="../online" style="display:inline-block">
+<div id="../online" style="display:inline-block;">
 <div style="display: inline-block;">
-<a href="#" onclick="MM_openBrWindow('/phplive/request.php?l=root&amp;x=1&amp;deptid=1&amp;','Chat','resizable=yes,width=500,height=450')"> Live Person Chat</a>
+<!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;byhref=1&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat33917948" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat33917948','width=475,height=470,resizable=yes');return false;">Live Person Chat</a><!-- END LivePerson Button code -->
 </div>
 </div>
-<a href="http://www.customwritings.com/blog">Our Blog</a>
-<a rel="nofollow" href="register.php"> Want To Be a Writer? </a>
-</div>
+<a href="/blog">Our Blog</a>
+<a rel="nofollow" href="register.php"> Want To Be a Writer? </a></div>
 
 
-<h2 align="left">Our services</h2>
+<h2 align="left">Our services:</h2>
       <ul>
 	    <li><strong>Custom Paper Writing:                </strong></li>
 	<ul> <li><a href="/essays.html">Essays </a></li>
-          <li><a href="/term-papers.html">Term Papers</a> </li>
-            <li><a href="research-papers.html">Research Papers </a></li>
-            <li><a href="thesis-papers.html">Thesis Papers</a> </li>
-            <li><a href="dissertations.html">Dissertations</a> </li>
-            <li><a href="assignments.html">Assignments</a> </li>
-            <li><a href="reports.html">Reports</a> </li>
-            <li><a href="reviews.html">Reviews</a> </li>
-            <li><a href="speeches.html">Speeches</a> </li>
-            <li><a href="presentations.html">Presentations</a> </li>
-            <li><a href="projects.html">Projects</a> </li>
-            <li><a href="case-study.html">Case Studies</a> </li>
-            <li><a href="courseworks.html">Courseworks</a> </li>
-             <li><a href="homeworks.html">Homeworks</a> </li>
-             <li><a href="creative-writing.html">Creative Writing</a> </li>
-             <li><a href="critical-thinking.html">Critical Thinking</a></li>
-             <li><a href="annotated-bibliography.html">Annotated Bibliography</a></li>
+        <li><a href="/term-papers.html">Term Papers</a> </li>
+        <li><a href="research-papers.html">Research Papers </a></li>
+        <li><a href="thesis-papers.html">Thesis Papers</a> </li>
+        <li><a href="dissertations.html">Dissertations</a> </li>
+        <li><a href="assignments.html">Assignments</a> </li>
+        <li><a href="reports.html">Reports</a> </li>
+        <li><a href="reviews.html">Reviews</a> </li>
+        <li><a href="speeches.html">Speeches</a> </li>
+        <li><a href="presentations.html">Presentations</a> </li>
+        <li><a href="projects.html">Projects</a> </li>
+        <li><a href="case-study.html">Case Studies</a> </li>
+        <li><a href="courseworks.html">Courseworks</a> </li>
+        <li><a href="homeworks.html">Homeworks</a> </li>
+        <li><a href="creative-writing.html">Creative Writing</a> </li>
+        <li><a href="critical-thinking.html">Critical Thinking</a></li>
+        <li><a href="annotated-bibliography.html">Annotated Bibliography</a></li>
         </ul>
-     	   </ul>
-		   <ul>
-            <li><strong>Additional Services:</strong></li>
-	        <ul><li><a href="rewriting.html">Rewriting</a></li>
-	        <li><a href="editing.html">Editing</a></li>
-	        <li><a href="formatting.html">Formatting</a></li>
-	        <li><a href="proofreading.html">Proofreading</a></li><br>
+        
+      </ul>
+		   
+           <ul>
+            <li><strong>Admission Services:</strong></li>
+	        <ul><li><a href="scholarship-essay.html">Scholarship Essay</a></li>
+	        <li><a href="admission-essay.html">Admission Essay</a></li>
+	        <li><a href="application-essay.html">Application Essay</a></li>
+	        <li><a href="entrance-essay.html">Entrance Essay</a></li>
+	        <li><a href="personal-statement.html">Personal Statement</a></li>
 	        </ul>
       </ul>
+            <ul>
+	    <li><strong>Additional Services:                </strong></li>
+	    <ul> <li><a href="editing.html">Editing</a></li>
+          <li><a href="proofreading.html">Proofreading</a></li>
+          <li><a href="formatting.html">Formatting</a></li>
+          <li><a href="lab-report.html">Lab Report</a></li>
+          <li><a href="reaction-paper.html">Reaction Paper</a></li>
+          <br>
+            
+        </ul>
+            </ul>
+            
+          
+      
+    <br>
     
-    
-      <h2>Paper format</h2>
+      <h2>Paper format:</h2>
 	    <div id="btn">
        	  <ul>
 	    	<li>Approx. 275 words / page</li>
 	 		<li>Font: 12 point Arial</li>
-            <li>Double line spacing </li>
+            <li>Double spacing </li>
             <li>Any citation style </li>
             <li><span class="green">FREE</span> bibliography page </li>
             <li><span class="green">FREE</span> title page </li>
@@ -808,21 +992,23 @@ function MM_goToURL() { //v3.0
      </div>
       <div align="center" style="margin-top:10px; margin-bottom:10px;"><a rel="nofollow" href="inquiry.html">Place free inquiry</a>
           </div>
-	  <h2>We are accepting </h2>
- <div id="btn"><img src="images/2co_logo.jpg" alt="2co"><br>
- <img src="images/pp_logo.jpg" alt="paypal">
- 
- </div>
- <h2>Shopping with us is safe</h2>
+	  <h2>We accept:</h2>
+	<div id="btn">
+	<center>
+	<img src="/images/mb_logo.gif" alt="Moneybookers"><br>
+	<img src="/images/pp_logo.jpg" alt="paypal">
+	</center>
+	</div>
+ <h2>Shopping with us is safe:</h2>
  
    <div id="block">
-     <div align="justify">All  online transactions are done using all major  Credit Cards or Electronic Check through either PayPal™ or 2CheckOut.com. These are <span class="blue">safe, secure, and efficient</span> ways to purchase  online. </div>
+     <div align="justify">All  online transactions are done using all major  Credit Cards or Electronic Check through either PayPal™ or MoneyBookers™. These are <span class="blue">safe, secure, and efficient</span> ways to online purchasing. </div>
    </div>
    <p align="center"><a href="javascript:void window.open('https://www.2checkout.com/cgi-bin/buyers/safe.2c?comp=', 'bnew',config='height=500,width=350,toolbar=no,menubar=no,scrollbars=yes,resizable=no, location=no,directories=no,status=yes')"><img src="images/shop_safe.jpg" alt="shop safe"></a></p>
    <div id="block">     
-     <div align="justify">Our custom writing service <strong>CustomWritings.com</strong> does not collect its customer's <span class="blue">credit card  records</span> to ensure the maximum protection for the clients. </div>
+     <div align="justify">Our custom writing service <strong>CustomWritings.com</strong> does not collect its customers' <span class="blue">credit card  records</span> to ensure  maximum protection for  customers. </div>
    </div>
-   <h2>Money back guarantee </h2>
+   <h2>Money back guarantee: </h2>
 <div align="center" style="margin-top:10px; margin-bottom:10px;">
    <div align="center"><a rel="nofollow" href="guarantee.html"><img src="images/money_back_guarantee.jpg" alt="" width="130" height="202"></a><br>
      </div>
@@ -856,7 +1042,6 @@ From time to time, we may use your information for   new, unanticipated uses not
 If you are concerned about how your information is   used, you should check this page periodically. We will only use data collected   from the time of the policy change onwards for these new purposes.
 <h2>Security </h2>
 We have appropriate security measures in place to protect   against the loss, misuse or alteration of information we have collected from   you. <br>
-These security measures include the necessary protection to prevent, as   far as possible, access to our databases by parties other than The Solomon   Papers.
 <h2>Links Disclaimer </h2>
 In order to provide visitors with certain information,   this web site provides links to local, State and federal government agencies,   and web sites of other organizations. A link does not constitute an endorsement   of the content, viewpoint, accuracy, opinions, policies, products, services, or   accessibility of that web site. Once you link to another web site from this web   site, including one maintained by the State, you are subject to the terms and   conditions of that web site, including, but not limited to, its privacy policy.
 <h2>§537. Disclosures Prohibited</h2>
@@ -976,7 +1161,7 @@ You have the right to request a copy of the   personal information The customwri
 <!-- end content -->
 	<!-- start sidebar2 -->
   <div id="sidebar2" class="sidebar">
-	 <h2>Get your paper now</h2>
+	 <h2>Get your paper now:</h2>
      <div id="btn2">
 <a rel="nofollow" href="inquiry.html"> Get a Free Quote </a>
 <a rel="nofollow" href="order.html"> Order Your Paper</a>
@@ -985,23 +1170,23 @@ You have the right to request a copy of the   personal information The customwri
 </div>
    
 
-           <h2>Safe &amp; Confidence</h2>
+           <h2>Safety &amp; Confidence:</h2>
  
         <div align="center" style="margin-top:10px; margin-bottom:10px;">
 <!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.customwritings.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.customwritings.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"> </a>
+<img style="cursor:pointer;" width="94" height="54" border="0" src="//images.scanalert.com/meter/www.customwritings.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" onclick="MM_openBrWindow('https://www.scanalert.com/RatingVerify?ref=www.customwritings.com','HACKER SAFE certified sites prevent over 99.9% of hacker crime','resizable=yes,width=540,height=670')">
 <!-- END SCANALERT CODE --></div>
 <div id="block">
   <div align="justify">
-    <p><span class="blue">Authenticity</span> of the custom writing and <span class="blue">confidentiality</span> of all personal information are <span class="blue">guaranteed. </span>We do not reuse ANY papers and we do not disclose customers' private information.</p>
+    <p><span class="blue">Authenticity</span> of the custom writing and <span class="blue">confidentiality</span> of all personal information are <span class="blue">guaranteed. </span>We do not reuse ANY custom written papers and we do not disclose customers' private information.</p>
     </div>
 </div>
-<h2>Our advantages</h2>
+<h2>Our advantages:</h2>
       <div id="btn">
       <ul>
         <li>Prices starting at just <strong class="blue">$10/page</strong>;</li>
 	    <li>Overnight delivery option;</li>
-	    <li><strong class="blue">720</strong><strong class="blue"> professional writers </strong>most of which are US, Canada and UK   university graduates;</li>
+	    <li>More than <strong class="blue">700</strong><strong class="blue"> professional writers </strong>most of which are US, Canada and UK   university graduates;</li>
 	    <li>Own plagiarism detection system and q/a team; </li>
 	    <li><span class="blue"><strong>Free </strong></span>revisions;</li>
 	    <li>We do not drop HARD or BIG assignments; </li>
@@ -1012,84 +1197,21 @@ You have the right to request a copy of the   personal information The customwri
             <div align="center" style="margin-top:10px; margin-bottom:10px;"><a rel="nofollow" href="inquiry.html">Place free inquiry</a>
           </div>
      <div style="display: inline-block;">
-      <h2>Contact us immediately</h2>
+      <h2>Contact us immediately:</h2>
+
+		<!-- BEGIN LivePerson Button Code --><div>
+		<table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;byhref=1&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://www.customwritings.com/images/chat_liveperson" target="chat33917948" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/33917948/?cmd=file&amp;file=visitorWantsToChat&amp;site=33917948&amp;SESSIONVAR!skill=CustomWritings.com&amp;imageUrl=http://www.customwritings.com/images/chat_liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat33917948','width=475,height=470,resizable=yes');return false;"><img src="http://server.iad.liveperson.net/hc/33917948/?cmd=repstate&amp;site=33917948&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.customwritings.com/images/chat_liveperson&amp;skill=CustomWritings.com" name="hcIcon" border="0"></a></td></tr><tr><td>&nbsp;</td><td align="center"><div style="margin-top:5px;"><span style="font-size:10px; font-family:Arial, Helvetica, sans-serif;"><a href="http://solutions.liveperson.com/live-chat" style="text-decoration:none; color:#000" target="_blank"><b>Live Chat</b></a><span style="color:#000"> by </span><a href="http://www.liveperson.com/" style="text-decoration:none; color:#FF9900" target="_blank">LivePerson</a></span></div></td></tr><tr><td>&nbsp;</td><td align="center"><a href="http://solutions.liveperson.com/customer-service/?site=33917948&amp;domain=server.iad.liveperson.net&amp;origin=chatbutton" target="_blank" onclick="javascript:window.open('http://solutions.liveperson.com/customer-service/?site=33917948&amp;domain=server.iad.liveperson.net&amp;origin=chatbutton&amp;referrer='+escape(document.location));return false;"><img src="http://server.iad.liveperson.net/hc/33917948/?cmd=rating&amp;site=33917948&amp;type=indicator" name="hcRating" alt="Customer Service Rating by LivePerson" border="0"></a></td></tr>
+		</tbody></table>
+		</div><!-- END LivePerson Button code -->      
       
-	  <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
-<script language="JavaScript" src="http://www.customwritings.com/phplive/js/status_image.php?base_url=http://www.customwritings.com/phplive&amp;l=root&amp;x=1&amp;deptid=1&amp;"><a href="http://www.phplivesupport.com"></a></script>
-<!-- END PHP Live! code : (c) OSI Codes Inc. -->
  <a name="our_phones" id="our_phones"></a>
 <!--offline support-->
 </div>
 
 
-
-<div id="online2co" style="display:none">
-<h2>24/7 Customers support</h2>
-
-<div id="bgcols">
-           
-        <table width="100%" height="334">
-          <tbody><tr>
-            <td height="33">&nbsp;</td>
-            <td align="center" valign="middle"><p class="style3"><strong>Please see your 2CO.com Sales Receipt for your order 
-number.</strong></p></td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="5%" height="25">&nbsp;</td>
-            <td width="91%" align="center" valign="middle"><div align="left"><strong class="blue">U.S. &amp; Canada:</strong></div></td>
-            <td width="4%">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="30" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle"><div align="left"><img src="images/ph_ico_small.gif" alt="" width="16" height="16"><span class="green style4"><strong> 1- 877- 294- 0273</strong></span></div></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="25" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle"><div align="left"><strong class="blue">International:</strong></div></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="30" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle"><div align="left"><img src="images/ph_ico_small.gif" alt="" width="16" height="16"><span class="green style4"><strong> 1- 614- 921- 2450</strong></span></div></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="25" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle"><div align="left"><span class="blue"><strong>UK &amp; Northern Ireland:</strong></span></div></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="30" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle"><div align="left" class="blue">
-              <div align="left"><img src="images/ph_ico_small.gif" alt="" width="16" height="16"><span class="green style4"><strong> 0871- 871- 8283</strong></span></div>
-            </div></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="40" align="center" valign="middle">&nbsp;</td>
-            <td rowspan="2" align="center" valign="middle"><p align="justify" class="style3">Please note that you can only call 2CO
-                support office in regards to the <span class="red"><strong>existing order.</strong></span> For pre-order
-                inquiries please see our <a rel="nofollow" href="/faq.html">frequently asked
-                  questions</a> section or <a rel="nofollow" href="mailto:info@customwritings.com">email
-                    us</a>. </p>
-            <p></p></td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="16" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle">&nbsp;</td>
-          </tr>
-        </tbody></table>
-
-
-</div>
-
-</div>
 <!--online support-->
-<div id="online" style="display:inline-block">
-<h2>Contact by phone</h2>
+<div id="online" style="display:inline-block;">
+<h2>Contact by phone:</h2>
 
 <div id="bgcols">
      <div id="btn">
@@ -1097,7 +1219,7 @@ number.</strong></p></td>
         <table width="100%" height="169">
           <tbody><tr>
             <td height="33">&nbsp;</td>
-            <td align="center" valign="middle"><p align="justify" class="style3">Toll free for US &amp; Canada only. International callers are charged<br>
+            <td align="center" valign="middle"><p align="justify" class="style3">Toll-free for US &amp; Canada only. International callers are charged<br>
 for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="16" height="11">&nbsp;&nbsp;<img src="images/ca.gif" alt="US &amp; Canada only" width="16" height="11"> </p></td>
             <td>&nbsp;</td>
           </tr>
@@ -1144,7 +1266,7 @@ for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="
 
 
 
-<h2>Testimonials</h2>
+<h2>Testimonials:</h2>
        <div id="bgcols">
         <div id="btn">
               
@@ -1152,16 +1274,15 @@ for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="
             
               <div align="justify" style="padding-left:10px; padding-right:10px; line-height:19px">
                 <div align="justify" style="padding-bottom:10px;">
-                  <p class="style3 style3">"<span class="style6" style="padding-bottom:10px;">The essay paper looks great, all my requests were answered very quickly and throughly. Thank you so much for this valuable custom essay writing service that saved me from going insane this semester!" <span class="green"><em>Sandra, ME</em></span></span></p>
-
+                  <p class="style3 style3"><span class="green" style="padding-bottom:10px;"><em>Sandra (ME)</em></span><span class="style6" style="padding-bottom:10px;"><em>: "The essay paper looks great, all my requests were answered throughly and very quickly. Thank you so much for this valuable custom essay writing service that saved me from going insane this semester!</em></span><em>"</em></p>
                 </div>
           <div align="right">
-            <p align="justify" class="style3 style6" style="padding-bottom:10px;">"Thanks for your promptness and your ability to follow up. I will use the thesis writing services offered by your agency again."<span class="green"><em>Robert, UK</em></span></p>
-            <p align="justify" class="style3 style6" style="padding-bottom:10px;">"Please thank the writer for high-quality research paper writing.  The research paper is extremely well written and he/she followed the instructions extremely well.  Thank you so much for your company's professional custom writing abilities!" <span class="green"><em>Janine, CA</em></span></p>
-            <p align="justify" class="style3 style6">"Great job with my term paper.  I had a crazy week and could not come up with anything to write in my term paper.  Thank you so much.  I will definitely be using your term paper writing services again." <em class="green">Tom, CT</em></p>
-            <p align="justify"> </p>
-
-          </div>
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;"><span class="green"><em>Robert (UK):</em></span><em> "Thanks for your promptness and your ability to follow up. I will use the thesis writing services offered by your agency again. My professor appreciated my Master's thesis paper written by you, guys. Well done!"</em></p>
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;"><span class="green"><em>Janine (CA)</em></span><em>: "Please, thank the writer for high-quality research paper writing.  The research paper is extremely well written and he/she followed the instructions extremely well.  Thank you so much for your company's professional custom writing abilities!"</em></p>
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;"><em class="green">Tom (CT</em><span class="green"><em>)</em></span>: <em>"Great job on my custom term paper.  I had a crazy week and could not come up with anything to write in my term paper.  Thank you so much.  I will definitely be using your term paper writing services again."</em></p>
+            
+            <p align="justify" class="style3 style6" style="padding-bottom:10px;"><em class="green">Justin (NY)</em>: <em>"Thanks a lot for writing my essay paper which looks excellent. All specifications and details were concluded in my paper. I've never contacted such a responsible and professional custom essay writing service before. Your site rocks!!!"</em></p>
+            </div>
           </div>
           
          
@@ -1186,16 +1307,16 @@ for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="
 <div style="clear:both"></div>
 <div id="footer">
 	<div id="copyright">
-	  <div align="center"><a href="/order.html" rel="nofollow">Order now</a><a href="/inquiry.html" rel="nofollow">Free quote</a><a href="/faq.html" rel="nofollow">F.A.Q.</a><a href="/pricing.html" rel="nofollow">Pricing</a><a href="/testimonials.html" rel="nofollow">Testimonials</a><a href="/privacy.html" rel="nofollow">Privacy Policy</a><a href="/about-us.html" rel="nofollow">Company Information </a> </div>
+	  <div align="center"><a href="/order.html" rel="nofollow">Order now</a><a href="/inquiry.html" rel="nofollow">Free quote</a><a href="/faq.html" rel="nofollow">F.A.Q.</a><a href="/pricing.html" rel="nofollow">Pricing</a><a href="/testimonials.html" rel="nofollow">Testimonials</a><a href="/privacy.html" rel="nofollow">Privacy Policy</a><a href="/about-us.html" rel="nofollow">Company Information </a><a href="/terms_and_conditions.html" rel="nofollow">Terms and Conditions </a> </div>
 	</div>
   <div class="links">
   
   <a target="_self" href="/buy-essay.html">Buy Essay</a> | <a target="_self" href="/college-essay.html">College Essay</a> | <a target="_self" href="/critical-essay.html">Critical Essay</a> | <a target="_self" href="/custom-essay.html">Custom Essay</a> | <a target="_self" href="/essay-paper.html">Essay Paper</a> | <a target="_self" href="/essay-writing.html">Essay Writing</a> | <a target="_self" href="/example-essay.html"> Example Essay</a> | <a target="_self" href="/free-essay.html">Free Essay</a> | <a target="_self" href="/non-plagiarized-essay.html">Non - Plagiarized Essay</a> | <a target="_self" href="/sample-essay.html">Sample   Essay</a> | <a target="_self" href="/shakespeare-essay.html">Shakespeare Essay</a> <br> 
   <a target="_self" href="/custom-papers.html">Custom Papers</a> | <a target="_self" href="/buy-research-paper.html">Buy Research Paper</a> | <a target="_self" href="/buy-thesis.html">Buy Thesis</a> | <a target="_self" href="/buy-term-paper.html">Buy Term Paper</a> | <a target="_self" href="/do-my-essay.html">Do My Essay</a>  | <a target="_self" href="/college-papers.html">College Papers</a> | <a target="_self" href="/custom-research-paper.html">Custom Research Paper</a> | <a target="_self" href="/custom-term-paper.html">Custom Term Paper </a>| <a target="_self" href="/thesis-writing.html">Thesis Writing </a> | <a target="_self" href="/dissertation-writing.html">Dissertation Writing</a> <br>
-  <a target="_self" href="/research-paper-writing.html">Research Paper Writing</a> | <a target="_self" href="/term-paper-writing.html">Term Paper Writing</a> | <a target="_self" href="/custom-thesis.html">Custom Thesis</a> | <a target="_self" href="/do-my-paper.html">Do My Paper</a> | <a target="_self" href="/custom-essay-writing.html">Custom Essay Writing</a> | <a target="_self" href="/custom-writing.html">Custom Writing</a> | <a target="_self" href="/write-my-essay.html">Write My Essay</a> | <a target="_self" href="/persuasive-essay.html">Persuasive Essay</a> | <a target="_self" href="/essay-writing-help.html">Essay Writing Help</a> <br> <a target="_self" href="/college-research-paper.html">College Research Paper</a> | <a target="_self" href="/paper-writing-help.html">Paper Writing Help</a> | <a target="_self" href="/paper-writing.html">Paper Writing</a> | <a target="_self" href="/papers-for-money.html">Papers For Money</a> | <a target="_self" href="/chicago-style-papers.html">Chicago Style Papers</a> | <a target="_self" href="/apa-style-papers.html">APA Style Papers</a> | <a target="_self" href="/mla-style-papers.html">MLA Style Papers</a> | <a target="_self" href="/turabian-style-papers.html">Turabian Style Papers</a> <br> 
+  <a target="_self" href="/research-paper-writing.html">Research Paper Writing</a> | <a target="_self" href="/term-paper-writing.html">Term Paper Writing</a> | <a target="_self" href="/custom-thesis.html">Custom Thesis</a> | <a target="_self" href="/do-my-paper.html">Do My Paper</a> | <a target="_self" href="/custom-essay-writing.html">Custom Essay Writing</a> | <a target="_self" href="/custom-writing.html">Custom Writing</a> | <a target="_self" href="/write-my-essay.html">Write My Essay</a> | <a target="_self" href="/persuasive-essay.html">Persuasive Essay</a> | <a target="_self" href="/essay-writing-help.html">Essay Writing Help</a> <br> <a target="_self" href="/college-research-paper.html">College Research Paper</a> | <a target="_self" href="/college-term-paper.html">College Term Paper</a> | <a target="_self" href="/paper-writing.html">Paper Writing</a> | <a target="_self" href="/papers-for-money.html">Papers For Money</a> | <a target="_self" href="/chicago-style-papers.html">Chicago Style Papers</a> | <a target="_self" href="/apa-style-papers.html">APA Style Papers</a> | <a target="_self" href="/mla-style-papers.html">MLA Style Papers</a> | <a target="_self" href="/turabian-style-papers.html">Turabian Style Papers</a> <br> 
   <a target="_self" href="/high-school-essay.html">High School Essay</a> | <a target="_self" href="/papers-for-sale.html">Papers For Sale</a> | <a target="_self" href="/research-paper-topics.html">Research Paper Topics</a> | <a target="_self" href="/write-my-paper.html">Write My Paper</a> | <a target="_self" href="/narrative-essay.html">Narrative Essay</a> | <a target="_self" href="/great-papers.html">Great Papers</a> | <a target="_self" href="/essay-writer.html">Essay Writer</a> | <a target="_self" href="/paper-writer.html">Paper Writer</a> | <a target="_self" href="/student-papers.html">Student Papers</a> | <a target="_self" href="/article-reviews.html">Article Reviews</a><br>
-  <a target="_self" href="/argumentative-essay.html">Argumentative Essay</a> | <a target="_self" href="/customized-essay.html">Customized Essay</a> | <a target="_self" href="/school-essay.html">School Essay</a> | <a target="_self" href="/university-essay.html">University Essay</a> | <a target="_self" href="/descriptive-essay.html">Descriptive Essay</a> | <a target="_self" href="/scholarship-essay.html">Scholarship Essay</a> | <a target="_self" href="/graduate-essay.html">Graduate Essay</a> | <a target="_self" href="/masters-essay.html">Master's Essay</a> | <a target="_self" href="/admission-essay.html">Admission Essay</a><br>
-  <a target="_self" href="/book-reports.html">Book Reports</a> | <a target="_self" href="/movie-reviews.html">Movie Reviews</a> | <a target="_self" href="/book-reviews.html">Book Reviews</a> | <a target="_self" href="/literature-reviews.html">Literature Reviews</a> | <a target="_self" href="/mba-essay.html">MBA Essay</a> | <a target="_self" href="/academic-papers.html">Academic Papers</a> | <a target="_self" href="/buy-report.html">Buy Report</a> | <a target="_self" href="/buy-review.html">Buy Review</a> | <a target="_self" href="/original-essay.html">Original Essay</a> | <a target="_self" href="/application-essay.html">Application Essay</a> | <a target="_self" href="/phd-thesis.html">PhD Thesis</a><br>
+  <a target="_self" href="/argumentative-essay.html">Argumentative Essay</a> | <a target="_self" href="/customized-essay.html">Customized Essay</a> | <a target="_self" href="/school-essay.html">School Essay</a> | <a target="_self" href="/university-essay.html">University Essay</a> | <a target="_self" href="/descriptive-essay.html">Descriptive Essay</a> | <a target="_self" href="/graduate-essay.html">Graduate Essay</a> | <a target="_self" href="/masters-essay.html">Master's Essay</a> | <a target="_self" href="/student-essay.html">Student Essay</a> | <a target="_self" href="/sample-papers.html">Sample Papers</a> | <a target="_self" href="/example-papers.html">Example Papers</a><br>
+  <a target="_self" href="/book-reports.html">Book Reports</a> | <a target="_self" href="/movie-reviews.html">Movie Reviews</a> | <a target="_self" href="/book-reviews.html">Book Reviews</a> | <a target="_self" href="/literature-reviews.html">Literature Reviews</a> | <a target="_self" href="/mba-essay.html">MBA Essay</a> | <a target="_self" href="/academic-papers.html">Academic Papers</a> | <a target="_self" href="/buy-report.html">Buy Report</a> | <a target="_self" href="/buy-review.html">Buy Review</a> | <a target="_self" href="/original-essay.html">Original Essay</a> | <a target="_self" href="/speech-help.html">Speech Help</a> | <a target="_self" href="/phd-thesis.html">PhD Thesis</a><br>
    <a target="_self" href="/business-reports.html">Business Reports</a> | <a target="_self" href="/persuasive-speech.html">Persuasive Speech</a> | <a target="_self" href="/informative-speech.html">Informative Speech</a> | <a target="_self" href="/buy-speech.html">Buy Speech</a> | <a target="_self" href="/buy-dissertation.html">Buy Dissertation</a> | <a target="_self" href="/essay-topics.html">Essay Topics</a> | <a target="_self" href="/buy-project.html">Buy Project</a> | <a target="_self" href="/research-proposal.html">Research Proposal</a> | <a target="_self" href="/high-school-papers.html">High School Papers</a> | <a target="_self" href="/free-papers.html">Free Papers</a> <br>
    <a target="_self" href="/speech-writing.html">Speech Writing</a> | <a target="_self" href="/report-writing.html">Report Writing</a> | <a target="_self" href="/review-writing.html">Review Writing</a> | <a target="_self" href="/academic-writing.html">Academic Writing</a> | <a target="_self" href="/assignment-writing.html">Assignment Writing</a> | <a target="_self" href="/coursework-writing.html">Coursework Writing</a> | <a target="_self" href="/homework-writing.html">Homework Writing</a> | <a target="_self" href="/pay-essays.html">Pay Essays</a> | <a target="_self" href="/university-papers.html">University Papers</a>
    | <a target="_self" href="/buy-papers.html">Buy Papers</a><br> 
@@ -1203,17 +1324,17 @@ for incoming calls. .<img src="images/us.gif" alt="US &amp; Canada only" width="
   <a target="_self" href="/masters-thesis.html">Master's Thesis</a> | <a target="_self" href="/writing-help.html">Writing Help</a> | <a target="_self" href="/dissertation-topics.html">Dissertation Topics</a> | <a target="_self" href="/thesis-writer.html">Thesis Writer</a> | <a target="_self" href="/dissertation-writer.html">Dissertation Writer</a> | <a target="_self" href="/english-papers.html">English Papers</a> | <a target="_self" href="/business-papers.html">Business Papers</a> | <a target="_self" href="/history-papers.html">History Papers</a> | <a target="_self" href="/philosophy-papers.html">Philosophy Papers</a> | <a target="_self" href="/law-papers.html">Law Papers</a> | <a target="_self" href="/graduate-papers.html">Graduate Papers</a><br>
   <a target="_self" href="/economics-papers.html">Economics Papers</a> | <a target="_self" href="/psychology-papers.html">Psychology Papers</a> | <a target="_self" href="/religion-papers.html">Religion Papers</a> | <a target="_self" href="/sociology-papers.html">Sociology Papers</a> | <a target="_self" href="/art-papers.html">Art Papers</a> | <a target="_self" href="/management-papers.html">Management Papers</a> | <a target="_self" href="/marketing-papers.html">Marketing Papers</a> | <a target="_self" href="/accounting-papers.html">Accounting Papers</a> | <a target="_self" href="/science-papers.html">Science Papers</a> | <a target="_self" href="/nursing-papers.html">Nursing Papers</a><br>
   <a target="_self" href="/literature-papers.html">Literature Papers</a> | <a target="_self" href="/political-science-papers.html">Political Science Papers</a> | <a target="_self" href="/computer-science-papers.html">Computer Science Papers</a> | <a target="_self" href="/technology-papers.html">Technology Papers</a> | <a target="_self" href="/biology-papers.html">Biology Papers</a> | <a target="_self" href="/geography-papers.html">Geography Papers</a> | <a target="_self" href="/physics-papers.html">Physics Papers</a> | <a target="_self" href="/chemistry-papers.html">Chemistry Papers</a> | <a target="_self" href="/mathematics-papers.html">Mathematics Papers</a><br> 
-  <a target="_self" href="/term-paper-help.html">Term Paper Help</a> | <a target="_self" href="/research-paper-help.html">Research Paper Help</a><br>
+  <a target="_self" href="/anthropology-papers.html">Anthropology Papers</a> | <a target="_self" href="/medical-papers.html">Medical Papers</a> | <a target="_self" href="/term-paper-help.html">Term Paper Help</a> | <a target="_self" href="/research-paper-help.html">Research Paper Help</a> | <a target="_self" href="/paper-writing-help.html">Paper Writing Help</a> | <a target="_self" href="/speech-topics.html">Speech Topics</a> | <a target="_self" href="/term-paper-topics.html">Term Paper Topics</a><br> 
   
   <br>
  
+
+
   
-   
-  
-  © 2003-2008 Brownie Freelance Limited. All Rights Reserved.
-  CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio.   <strong>Disclaimer:</strong> Brownie Freelance Limited - custom writing service that provides online custom written papers, such as term papers, research papers, thesis papers, essays, dissertations and other custom writing services inclusive of research material, for assistance purposes only. These custom papers should be used with proper reference. </div>
-	
-</div>
+© 2003-2008 Brownie Freelance Limited. All Rights Reserved.
+     <strong>Disclaimer:</strong> Brownie Freelance Limited - custom writing service that provides online custom written papers, such as term papers, research papers, thesis papers, essays, dissertations and other custom writing services inclusive of research material, for assistance purposes only. These custom papers should be used with proper reference. </div>
+<div align="center" style="font-size:10px"><a href="/privacy.html" rel="nofollow">Privacy Policy</a> | <a href="/terms_and_conditions.html" rel="nofollow">Terms and Conditions </a></div></div>
+
 <!-- InstanceBeginEditable name="spry_insert" -->
 <script type="text/javascript">
 <!--
@@ -1233,6 +1354,14 @@ var spryselect1 = new Spry.Widget.ValidationSelect("spryselect1");
 _uacct = "UA-235285-1";
 urchinTracker();
 </script>
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "33917948",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- BEGIN Monitor Tracking Variables  -->
+<script language="JavaScript1.2">
+if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
+lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=CustomWritings.com';
+</script>
+<!-- End Monitor Tracking Variables  -->
 
 
 <!-- InstanceEnd --></body></html>
