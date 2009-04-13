@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealextreme.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220124630id_/http%3A//www.dealextreme.com/privacy.dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealextreme.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413055629id_/http%3A//www.dealextreme.com/privacy.dx) for the most accurate reproduction.*
 
 # DealExtreme: Privacy Statement
 
