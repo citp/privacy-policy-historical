@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanascor.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132833id_/http%3A//www.urbanascor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanascor.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413154000id_/http%3A//www.urbanascor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urbanascor - Hottest & Latest Urban Music!
 
@@ -6,7 +6,7 @@
 
 ## [Privacy Policy](http://www.urbanascor.com/privacy-policy "Permanent Link to Privacy Policy")
 
-Author: shynobee 
+Author: Shynobee 
 
 Privacy Policy for Urbanascor.com
 
