@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theranos.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205084752id_/http%3A//theranos.com/legal/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theranos.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413022010id_/http%3A//theranos.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Theranos - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Theranos understands that privacy is important and has created this Privacy Policy in order to communicate its policies and practices relating to information collected on or through the Theranos Website. Throughout this Privacy Policy, “Theranos” and “We” refers to Theranos, Inc. “You” or “Users” refers to you or our users — everyone who uses or visits Theranos.com. The “Theranos Website” refers to the website located at theranos.com (and any subdomains thereof) and information provided by Theranos at this website.
 
-By using the Theranos Website, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Theranos Website [Terms of Use](https://web.archive.org/web/20081205084752id_/http%3A//theranos.com/legal/terms/index.shtml). Your use of the Theranos Website and any personal information you provide through the Theranos Website are subject at all times to this Privacy Policy and the Terms of Use.
+By using the Theranos Website, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Theranos Website [Terms of Use](https://web.archive.org/web/20090413022010id_/http%3A//theranos.com/terms/index.shtml). Your use of the Theranos Website and any personal information you provide through the Theranos Website are subject at all times to this Privacy Policy and the Terms of Use.
 
   1. #### The Information Theranos Collects
 
@@ -68,7 +68,7 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
   10.   11. Theranos Contact Information
 
-Please contact Theranos with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by email to the Theranos email address on our [Contact](https://web.archive.org/web/20081205084752id_/http%3A//theranos.com/contact/index.shtml) page. We will respond to your inquiry within thirty (30) days of its receipt.
+Please contact Theranos with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by email to the Theranos email address on our [Contact](https://web.archive.org/web/20090413022010id_/http%3A//theranos.com/contact/index.shtml) page. We will respond to your inquiry within thirty (30) days of its receipt.
 
 
 
