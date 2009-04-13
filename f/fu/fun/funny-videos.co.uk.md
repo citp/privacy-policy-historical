@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164152id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413080217id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Funny Videos
 
@@ -20,6 +20,6 @@ This site contains links to other sites, funny-videos.co.uk is not responsible f
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by emailing us at [our contact page](http://www.funny-videos.co.uk/email.php).
 
-Todays downloads: 14293. Total this year: 28813702
+Todays downloads: 4283. Total this year: 33334291
 
 Copyright Funny-Videos.co.uk 2007. All Rights Reserved. 
