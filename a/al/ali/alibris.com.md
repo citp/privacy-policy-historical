@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210090156id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413102944id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
 
 # Alibris: New, Used, Rare & Out-of-Print Books -- Help & Customer Service
 
@@ -14,7 +14,7 @@ To order from us, you must set up an Alibris account. Setting up an account requ
 
 To process and fulfill orders of Seller items, we provide the Seller with your shipping address and e-mail address, but do not provide your billing information. We also provide your e-mail address to the Seller to facilitate customer-service inquiries. The Seller may not use your personal information for any purpose other than those related to the fulfillment of your order. 
 
-If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Web site, new Alibris features, or special Alibris offers you may find useful. If you would rather not receive this information, visit the [Your Account](https://web.archive.org/account/login.cfm) page to change your preferences. You always have the ability to change your preferences. If you have chosen to receive this information and change your mind, visit the [Your Account](https://web.archive.org/account/login.cfm) page to change your preferences. (Whenever you decide to change your preferences, please make sure to change your preferences for each account or e-mail address you have left with us.)
+If you subscribe to the Alibris newsletter, we may use your Account Information and Order Information to occasionally notify you about important changes to the Web site, new Alibris features, or special Alibris offers you may find useful. If you would rather not receive this information, visit the Your Account page to change your preferences. You always have the ability to change your preferences. If you have chosen to receive this information and change your mind, visit the Your Account page to change your preferences. (Whenever you decide to change your preferences, please make sure to change your preferences for each account or e-mail address you have left with us.)
 
 You may also choose to provide personal information, such as your name and address, when you enter a contest or drawing or participate in a survey. We may use this information the same way we use your Account Information and Order Information.
 
