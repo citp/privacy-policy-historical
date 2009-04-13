@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226015107id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413121354id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WowMine - Secured transaction trusted network of chinese farmers who doesn't use macro to farm Gold. Information are saved with us.
 
-[](https://web.archive.org/web/20081226015107id_/http%3A//best-price-guarantee.php)
+[](https://web.archive.org/web/20090413121354id_/http%3A//best-price-guarantee.php)
 
 | 
 
@@ -84,7 +84,7 @@ Super Continental US LLC (WoWMine.com)
 
 | 
 
-[ ](http://support.wowmine.com/)   
+[ ](https://web.archive.org/web/20090413121354id_/http%3A//www.wowmine.com/wowmine-livechat.php)   
 [](http://www.ringcentral.com/)
 
 US TOLL-FREE HOTLINE:  
