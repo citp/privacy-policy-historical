@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912215311id_/http%3A//www.constant-content.com/area/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constant-content.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413030846id_/http%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Constant Content - Website Content, Order Articles Online
+# Our Privacy Policy - Constant-Content.com
 
 **PRIVACY STATEMENT  
 **We recognize and support the need to protect the privacy rights of our members through disclosure of our practices for collection and use of member information. 
