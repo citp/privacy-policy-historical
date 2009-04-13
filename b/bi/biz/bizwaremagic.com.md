@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211041939id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413022026id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,15 @@
     
     Cookies
     BizwareMagic does not use any cookies to track customer habits or behavior.
+    The only exception is that Google Adsense does use the DoubleClick DART cookie:
+    
+    We use third-party advertising companies to serve ads when you visit our website. 
+    These companies may use information (not including your name, address, email address, 
+    or telephone number) about your visits to this and other websites in order to provide 
+    advertisements about goods and services of interest to you. If you would like more 
+    information about this practice and to know your choices about not having this information 
+    used by these companies, go here: http://www.doubleclick.com/privacy/faq.aspx
+    
     
     
     Opt-In
@@ -52,8 +61,8 @@
   
 [contact@bizwaremagic.com ](mailto:contact@bizwaremagic.com)
 
-[Notebook Computers Guide](http://www.bizwaremagic.com/notebook-online-buyers-guide.htm) |  [Spyware Remover Guide](http://www.bizwaremagic.com/spyware-removal-guide.htm) |  [RSS/Blogging Guide](http://www.bizwaremagic.com/RSS/Lead_Capture_Page.htm) |  [Optin E-mail Tool Kit](http://www.bizwaremagic.com/opt-in.htm) |  [Best Marketing Software](http://www.bizwaremagic.com/bestsoft.htm) |  [Best Affiliate Programs](http://www.bizwaremagic.com/bestaps.htm) |  [Basic Tool Kit](http://www.bizwaremagic.com/basictk.htm) |  [Best Free BizWare](http://www.bizwaremagic.com/freebizware.htm) |  [Internet Marketing Links](http://www.bizwaremagic.com/linkfriends.htm) |  [Free eFax](http://www.bizwaremagic.com/Free_eFax.htm) |  [Corporate Business Gifts](http://www.bizwaremagic.com/corporate_business_gifts.htm) |  [SiteMap](http://www.bizwaremagic.com/site-map.htm) |  [Affiliate Directory](http://www.bizwaremagic.com/Affiliate-Directory.htm) |  [Internet Marketing Articles](http://www.bizwaremagic.com/internet_marketing_articles.htm) | [Contact](http://www.bizwaremagic.com/contact.htm) |  [Bizware Home](http://www.bizwaremagic.com/)
+[Notebook Computers Guide](http://www.bizwaremagic.com/notebook-online-buyers-guide.htm) |  [Spyware Remover Guide](http://www.bizwaremagic.com/spyware-removal-guide.htm) |  [RSS/Blogging Guide](http://www.bizwaremagic.com/RSS/Lead_Capture_Page.htm) |  [Optin E-mail Tool Kit](http://www.bizwaremagic.com/opt-in.htm) |  [Best Marketing Software](http://www.bizwaremagic.com/bestsoft.htm) |  [Best Affiliate Programs](http://www.bizwaremagic.com/bestaps.htm) |  [Basic Tool Kit](http://www.bizwaremagic.com/basictk.htm) |  [Best Free BizWare](http://www.bizwaremagic.com/freebizware.htm) |  [Internet Marketing Links](http://www.bizwaremagic.com/linkfriends.htm) |  [Internet Fax](http://www.bizwaremagic.com/internet_fax_service_guide.htm) |  [Corporate Business Gifts](http://www.bizwaremagic.com/corporate_business_gifts.htm) |  [SiteMap](http://www.bizwaremagic.com/site-map.htm) |  [Affiliate Directory](http://www.bizwaremagic.com/Affiliate-Directory.htm) |  [Internet Marketing Articles](http://www.bizwaremagic.com/internet_marketing_articles.htm) | [Contact](http://www.bizwaremagic.com/contact.htm) |  [Bizware Home](http://www.bizwaremagic.com/)
 
   
-**© Copyright - 2006-07 All Rights Reserved.** [Earnings Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm) |   
+**© Copyright - 2006-09 All Rights Reserved.** [Earnings Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm) |   
 ---|---|---
