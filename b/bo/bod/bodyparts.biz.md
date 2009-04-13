@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodyparts.biz privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026211437id_/http%3A//www.bodyparts.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyparts.biz privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413031643id_/http%3A//www.bodyparts.biz/privacy.html) for the most accurate reproduction.*
 
-# BodyParts,Young,Sexy,Naked Porn Girls,Video,Close ups,High Rez Pics,and More..
+# Close up Big Tits | Close up Tits Free | Natural Tits
 
 Flash Productions Privacy Policy  
 
