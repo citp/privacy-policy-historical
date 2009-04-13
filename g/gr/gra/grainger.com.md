@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grainger.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608215012id_/http%3A//www.grainger.com/Grainger/static.jsp%3Fpage%3Dhelp_privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grainger.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413123214id_/http%3A//www.grainger.com/Grainger/static/help_privacypol.html) for the most accurate reproduction.*
 
 # Grainger Industrial Supply - Privacy Policy
 
