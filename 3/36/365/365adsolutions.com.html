@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 365adsolutions.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221171903id_/http%3A//www.365adsolutions.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 365adsolutions.com privacy policy that was archived on 2009-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414002548id_/http%3A//365adsolutions.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>365 Ad Solutions</title>
@@ -30,6 +30,10 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+function onChange(){
+window.location = document.getElementById("test").value;
+//window.location = document.selectName3.selected;
+	}
 //-->
 </script>
 </head>
@@ -40,7 +44,16 @@ function MM_swapImage() { //v3.0
     <p class="definition"> 365 Ad Solutions bridges the gap between advertisers 
       and publishers through targeted traffic campaigns that produce profitable 
       results for publishers and maximize profits for advertisers.</p>
-    <div class="div3"><a href="./clients/"><img src="images/button_clientlogin.jpg" border="0"></a></div>
+    <div class="div3"><form name="formName3" onsubmit="return false;">
+    <br>
+		<select name="selectName3" id="test">
+			<option value="http://my.365adsolutions.com">Advertisers</option>
+         <option value="http://affiliate.365adsolutions.com/">Affiliates</option>
+         <option value="http://my.365adsolutions.com">Publishers</option>
+		</select>
+      
+		<input name="resetName3" type="button" value="Login" onclick="onChange()">
+    </form></div>
     <div class="links"> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
