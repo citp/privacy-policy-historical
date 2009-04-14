@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123flashchat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162842id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123flashchat.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414192255id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
 
 # TopCMM Software Corp.| Communication Software& Multimedia Software - support
 
