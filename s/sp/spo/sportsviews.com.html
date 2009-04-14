@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the sportsviews.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216035834id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsviews.com privacy policy that was archived on 2009-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414122914id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>Sportsviews - Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
-<meta name="description" content="Premiere sports social network. Challenge Other members about sports. Make new friends, share videos, pictures, blogs and create your own bets.">
+<meta name="description" content="Premiere sports social network. Challenge Other members about sports. Make new friends, share videos, pictures, blogs and create your own challenges.">
 <meta name="keywords" content="sportsviews, sports, sport, sports social network, sports videos, sports pictures, blog, stats, bets, sports news, basketball, football, soccer, hockey, college football, nfl, ncaa, nba, nhl, champion">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="verify-v1" content="g0tp06FIv6tZg6BNe596Umj6Bv9Ej6DJeluip7ATmeI=">
@@ -60,6 +60,9 @@ function langredirect(d) {
 <script type="text/javascript" src="http://www.sportsviews.com/theme/jscripts/sp.js"></script>
 <script src="http://www.sportsviews.com/theme/jscripts/AC_RunActiveContent.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="http://www.sportsviews.com/theme/jscripts/featured.js"></script>
+<link href="http://www.sportsviews.com/theme/css/featured.css" rel="stylesheet" type="text/css">
+
 
 
 
@@ -68,13 +71,41 @@ function langredirect(d) {
 
 <script type="text/javascript">
 <!--
-function startup_search () {
+/*function startup_search () {
 	document.getElementById("searchBox").value = document.getElementById("prettyplaceholder").innerHTML;
 	Spry.Utils.addEventListener('searchBox', 'focus', function() {if(document.getElementById("searchBox").value == document.getElementById("prettyplaceholder").innerHTML) {document.getElementById("searchBox").value = '';} });
 	Spry.Utils.addEventListener('searchBox', 'blur', function() {if(document.getElementById("searchBox").value.length == 0) {document.getElementById("searchBox").value = document.getElementById("prettyplaceholder").innerHTML;} });
 }
 
-Spry.Utils.addLoadListener(startup_search);
+Spry.Utils.addLoadListener(startup_search);*/
+
+
+function readCookie(name)
+{
+  var cookieValue = "";
+  var search = name + "=";
+  if(document.cookie.length > 0)
+  { 
+    offset = document.cookie.indexOf(search);
+    if (offset != -1)
+    { 
+      offset += search.length;
+      end = document.cookie.indexOf(";", offset);
+      if (end == -1) end = document.cookie.length;
+      cookieValue = unescape(document.cookie.substring(offset, end))
+    }
+  }
+  return cookieValue;
+}
+
+function getCookies() {
+	Spry.$('track_campaign_ID').value = readCookie("track_campaign[ID]");
+	Spry.$('track_campaign_link').value = readCookie("track_campaign[link]");
+	Spry.$('reg_icode').value = readCookie("reg_icode");
+}
+if (Spry.$('track_campaign_ID')) {
+	Spry.Utils.addLoadListener(getCookies);
+}
 
 -->
 </script>
@@ -136,6 +167,7 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
 .svd,
 .stats,
 .game-icon,
+.bubble_small,
 .PNGfix 
 {
 	behavior: url(/theme/css/iepngfix/iepngfix.htc);
@@ -151,6 +183,55 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
 
 
 
+
+
+<style type="text/css">
+<!-- to remove later
+.howHelp {
+	display: block;
+	float: right;
+	width: 550px;
+	padding-top: 2px;
+	position: absolute;
+	z-index: 1010;
+	right: 46px;
+	font-weight: bolder;
+	text-align: right;
+	top: 45px;
+}
+
+#main-big-ad .inside {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 978px;
+	height: 90px;
+	overflow: hidden;
+}
+
+#main-big-ad .inside .mainbanner {
+	width: 728px;
+	float: right;
+	height: 90px;
+	padding-left: 5px;
+}
+
+#main-big-ad .inside .sidebanner {
+	float: left;
+	height: 90px;
+	width: 240px;
+}
+
+form .one-col .col-A>div {
+	text-align: left;
+}
+-->
+</style>
+
+
+
+
 <link rel="alternate" type="application/rss+xml" title="RSS - Latest Pictures" href="http://www.sportsviews.com/rss/images/newest.php">
 <link rel="alternate" type="application/rss+xml" title="RSS - Hottest Pictures" href="http://www.sportsviews.com/rss/images/most-viewed.php">
 <link rel="alternate" type="application/rss+xml" title="RSS - Top Rated Pictures" href="http://www.sportsviews.com/rss/images/top-rated.php">
@@ -162,9 +243,9 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
 <link rel="alternate" type="application/rss+xml" title="RSS - Hottest Buzz Posts" href="http://www.sportsviews.com/rss/blogs/most-viewed.php">
 <link rel="alternate" type="application/rss+xml" title="RSS - Top Rated Buzz Posts" href="http://www.sportsviews.com/rss/blogs/top-rated.php">
 
-<link rel="alternate" type="application/rss+xml" title="RSS - Latest Bets" href="http://www.sportsviews.com/rss/bets/newest.php">
-<link rel="alternate" type="application/rss+xml" title="RSS - Hottest Bets" href="http://www.sportsviews.com/rss/bets/most-viewed.php">
-<link rel="alternate" type="application/rss+xml" title="RSS - Top Rated Bets" href="http://www.sportsviews.com/rss/bets/top-rated.php">
+<link rel="alternate" type="application/rss+xml" title="RSS - Latest Challenges" href="http://www.sportsviews.com/rss/bets/newest.php">
+<link rel="alternate" type="application/rss+xml" title="RSS - Hottest Challenges" href="http://www.sportsviews.com/rss/bets/most-viewed.php">
+<link rel="alternate" type="application/rss+xml" title="RSS - Top Rated Challenges" href="http://www.sportsviews.com/rss/bets/top-rated.php">
 </head>
 <body>
 <!-- BEGIN NAVMENU TABLE -->
@@ -177,8 +258,8 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
       <div class="c1"></div>
       <div class="c2">         <!--Welcome visitor,-->
         <ul class="menu pipe">
-          <li><a href="http://www.sportsviews.com/login.php">Log In</a></li>
-          <li><a href="http://www.sportsviews.com/signup.php">Register</a></li>
+          <li><a href="http://www.sportsviews.com/login.php" rel="nofollow">Log In</a></li>
+          <li><a href="http://www.sportsviews.com/signup.php" rel="nofollow">Register</a></li>
         </ul>
          </div>
       <div class="c3"></div>
@@ -196,30 +277,49 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
       <input type="text" name="searchall" id="searchBox" value="" class="input">
       <input type="image" name="imageField" id="imageField" src="http://www.sportsviews.com/theme/graphics/theme/search-go.png" value="Go" alt="Go" class="go">
     </form>
+    
+    <script type="text/javascript">
+	<!--
+	Spry.$("searchBox").value = Spry.$("prettyplaceholder").innerHTML;
+	Spry.Utils.addEventListener('searchBox', 'focus', function() {if(Spry.$("searchBox").value == Spry.$("prettyplaceholder").innerHTML) {Spry.$("searchBox").value = '';} });
+	Spry.Utils.addEventListener('searchBox', 'blur', function() {if(Spry.$("searchBox").value.length == 0) {Spry.$("searchBox").value = Spry.$("prettyplaceholder").innerHTML;} });
+	-->
+	</script>
+    
   </div>
   <div class="clear-both"></div>
 </div>
 <!-- END HEADER SEARCH TABLE -->
-    <div class="howHelp"><a href="http://www.sportsviews.com/help.php">How Does it work?</a></div>
+    <div class="howHelp">
+      <div class="floatRight">
+        <ul class="menu pipe">
+          <li><a href="http://www.sportsviews.com/star_bloggers.php" rel="nofollow">Star Bloggers Network</a></li>
+          <li><a href="http://www.sportsviews.com/leaders.php">Leaders</a></li>
+          <li><a href="http://www.sportsviews.com/help.php" rel="nofollow">How does it work?</a></li>
+          <li><a href="http://www.sportsviews.com" rel="nofollow" onclick="bookmarksite('Sportsviews.com - Sports Social Network', 'http://www.sportsviews.com'); return false;">Bookmark Sportsviews</a></li>
+          <li><a href="http://www.sportsviews.com/mobile.php" rel="nofollow" class="icn-mobile PNGfix">Mobile</a></li>
+        </ul>
+      </div>
+    </div>
     <div class="clear-both"></div>
     <!--<div class="inbox-status"></div>
     <div class="clear-both"></div>-->
-    <div class="separator10"></div>
     <div id="nav-global">
       <div class="hidden">
         <h3>Main Menu</h3>
       </div>
       <ul>
         <li class="active"><a href="http://www.sportsviews.com/index.php">Home</a></li>
-        <li><a href="http://www.sportsviews.com/bets.php">Bets</a></li>
+        <li><a href="http://www.sportsviews.com/bets.php">Challenges</a></li>
         <li><a href="http://www.sportsviews.com/blogs.php">Buzz</a></li>
+        <li><div style="position:relative;"><a href="http://www.sportsviews.com/discussions.php">Discussions</a><span style="position:absolute; top:4px; right:2px; font-size:9px; color:#CCC;">new!</span></div></li>
                 <li><a href="http://www.sportsviews.com/videos.php">Videos</a></li>
                         <li><a href="http://www.sportsviews.com/images.php">Pictures</a></li>
                 <li><a href="http://www.sportsviews.com/groups.php">Groups</a></li>
-        <li><a href="http://www.sportsviews.com/leaders.php">Leaders</a></li>
+        <!--<li ><a href="http://www.sportsviews.com/leaders.php">Leaders</a></li>-->
         <li><a href="http://www.sportsviews.com/trades.php">Trades</a></li>
-        <li><a href="http://www.sportsviews.com/views.php">My Views</a></li>
-                <li><a href="http://www.sportsviews.com/signup.php">Join</a></li>
+        <li><a href="http://www.sportsviews.com/views.php" rel="nofollow">My Views</a></li>
+                <li><a href="http://www.sportsviews.com/signup.php" rel="nofollow">Join</a></li>
               </ul>
       <span class="clear-both"></span></div>
   </div>
@@ -235,29 +335,29 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
         </div>
         <div class="nav-links">
           <ul>
-                        <li><a href="http://www.sportsviews.com/categories/home/Intl_Football">Intl Football</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Champ_League">Champ League</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Football_England">Football England</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Football_France">Football France</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Football_Germany">Football Germany</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Aus_Football_AFL">Aus Football AFL</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/MMA-UFC">MMA-UFC</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Rugby">Rugby</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Tennis">Tennis</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/CFL">CFL</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NCAA_Football">NCAA Football</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NFL">NFL</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Football_Other">Football Other</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/MLB">MLB</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Min._League_Bball">Min. League Bball</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NCAA_Baseball">NCAA Baseball</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/Baseball_Other">Baseball Other</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NBA">NBA</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NCAA_M_BasketB">NCAA M BasketB</a></li>
-                        <li><a href="http://www.sportsviews.com/categories/home/NCAA_W_BasketB">NCAA W BasketB</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Intl_Football">Intl Football</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Champ_League">Champ League</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/UEFA_Cup">UEFA Cup</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Football_England">Football England</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Football_France">Football France</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Football_Italy">Football Italy</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Aus_Football_AFL">Aus Football AFL</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/MMA-UFC">MMA-UFC</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Rugby">Rugby</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Tennis">Tennis</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/NFL">NFL</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/CFL">CFL</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/NCAA_Football">NCAA Football</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Football_Other">Football Other</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/MLB">MLB</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Min._League_Bball">Min. League Bball</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/NCAA_Baseball">NCAA Baseball</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/Baseball_Other">Baseball Other</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/NBA">NBA</a></li>
+                        <li><a href="http://www.sportsviews.com/categories/bet/NCAA_M_BasketB">NCAA M BasketB</a></li>
                       </ul>
         </div>
-        <div class="more-sports-btn"><a href="javascript:void(0);" id="moreSportsBTN">MORE</a></div>
+        <div class="more-sports-btn"><a href="javascript:void(0);" id="moreSportsBTN">More</a></div>
       </div>
       <span class="clear-both"></span> </div>
      </div>
@@ -269,87 +369,88 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
         <dl>
                                         
                                         <dt>Football (American)</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/CFL">CFL</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NCAA_Football">NCAA Football</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NFL">NFL</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_Other">Football Other</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/NFL">NFL</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/CFL">CFL</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/NCAA_Football">NCAA Football</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_Other">Football Other</a></dd>
                                                   <dt>Baseball</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/MLB">MLB</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Min._League_Bball">Min. League Bball</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NCAA_Baseball">NCAA Baseball</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/MLB">MLB</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Min._League_Bball">Min. League Bball</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/NCAA_Baseball">NCAA Baseball</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/Baseball_Other">Baseball Other</a></dd>
+                              <dd><a href="http://www.sportsviews.com/categories/bet/Baseball_Other">Baseball Other</a></dd>
                                                   <dt>Basketball</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/NBA">NBA</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NCAA_M_BasketB">NCAA M BasketB</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NCAA_W_BasketB">NCAA W BasketB</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/WNBA">WNBA</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Basketball_Other">Basketball Other</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/NBA">NBA</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/NCAA_M_BasketB">NCAA M BasketB</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/NCAA_W_BasketB">NCAA W BasketB</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/WNBA">WNBA</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Basketball_Other">Basketball Other</a></dd>
                                                   <dt>Hockey</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/Min._League_Hock">Min. League Hock</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/NHL">NHL</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/NCAA_Hockey">NCAA Hockey</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NHL">NHL</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Hockey_Other">Hockey Other</a></dd>
+                              <dd><a href="http://www.sportsviews.com/categories/bet/Min._League_Hock">Min. League Hock</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/NCAA_Hockey">NCAA Hockey</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Hockey_Other">Hockey Other</a></dd>
                                                   <dt>Int'l Football (Soccer)</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/Intl_Football">Intl Football</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Champ_League">Champ League</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/MLS">MLS</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/UEFA_Cup">UEFA Cup</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/Intl_Football">Intl Football</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Champ_League">Champ League</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/MLS">MLS</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/UEFA_Cup">UEFA Cup</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/Football_Europe">Football Europe</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_England">Football England</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_France">Football France</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_Germany">Football Germany</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_Italy">Football Italy</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Football_Spain">Football Spain</a></dd>
-                                                  <dt>Australian Football</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/Aus_Football_AFL">Aus Football AFL</a></dd>
+                              <dd><a href="http://www.sportsviews.com/categories/bet/Football_Europe">Football Europe</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_England">Football England</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_France">Football France</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_Germany">Football Germany</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_Italy">Football Italy</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Football_Spain">Football Spain</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Women_Soccer">Women Soccer</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/Aus_Football_NRL">Aus Football NRL</a></dd>
+                              <dt>Australian Football</dt>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/Aus_Football_AFL">Aus Football AFL</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Aus_Football_NRL">Aus Football NRL</a></dd>
                                                   <dt>Motorsports</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/Formula_One">Formula One</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/IRL">IRL</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Motorcycle_Racing">Motorcycle Racing</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/NASCAR">NASCAR</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Motorsports_Other">Motorsports Other</a></dd>
-                                                  <dt>Other Sports</dt>
-                    <dd><a href="http://www.sportsviews.com/categories/home/Boxing">Boxing</a></dd>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/NASCAR">NASCAR</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Formula_One">Formula One</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/IRL">IRL</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Motorcycle_Racing">Motorcycle Racing</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Motorsports_Other">Motorsports Other</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/Cricket">Cricket</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Cycling">Cycling</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Extreme_Sports">Extreme Sports</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Golf">Golf</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Ice_Skating">Ice Skating</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/MMA-UFC">MMA-UFC</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Martial_Arts">Martial Arts</a></dd>
+                              <dt>Other Sports</dt>
+                    <dd><a href="http://www.sportsviews.com/categories/bet/MMA-UFC">MMA-UFC</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Boxing">Boxing</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Cricket">Cricket</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Cycling">Cycling</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Extreme_Sports">Extreme Sports</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Golf">Golf</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Ice_Skating">Ice Skating</a></dd>
                                                 </dl>
       </div>
       <div class="cols">
         <dl>
-                              <dd><a href="http://www.sportsviews.com/categories/home/Olympics">Olympics</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Rugby">Rugby</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Softball">Softball</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Swimming">Swimming</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Tennis">Tennis</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Volleyball">Volleyball</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Wrestling">Wrestling</a></dd>
-                                                  <dd><a href="http://www.sportsviews.com/categories/home/Other">Other</a></dd>
+                              <dd><a href="http://www.sportsviews.com/categories/bet/Martial_Arts">Martial Arts</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Olympics">Olympics</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Rugby">Rugby</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Softball">Softball</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Swimming">Swimming</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Tennis">Tennis</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Volleyball">Volleyball</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Wrestling">Wrestling</a></dd>
+                                                  <dd><a href="http://www.sportsviews.com/categories/bet/Other">Other</a></dd>
                             </dl>
       </div>
       <div class="clear-both"></div>
@@ -357,16 +458,21 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
   </div>
 </div>
 <div id="header-shadow" class="PNGfix"><img src="http://www.sportsviews.com/theme/graphics/theme/spacer.gif" alt="" width="1" height="5"></div>
-<div class="separator10"></div>
 <!-- END NAVMENU TABLE -->
+<div id="main-big-ad">
+  <div class="inside">
+    <div class="sidebanner"><a href="http://www.sportsviews.com/promos.php"><img src="http://www.sportsviews.com/banners/win_tickets2.jpg" alt="" width="240" height="90" border="0"></a></div>
+    <div class="mainbanner border-left">        <a href="http://www.sportsviews.com/widgets.php"><img src="http://www.sportsviews.com/banners/sv_wg_728x90.jpg" alt="" width="728" height="90" border="0"></a>  </div>
+    <div class="clear-both"></div>
+  </div>
+</div>
 <!-- BEGIN SUCCESS MESSAGE TABLE -->
 
 <!-- END SUCCESS MESSAGE TABLE -->
 <!-- BEGIN ERROR MESSAGE TABLE -->
 
 <!-- END ERROR MESSAGE TABLE -->
-<!-- BEGIN Privacy Policy TABLE -->
-<link href="../../theme/css/style.css" rel="stylesheet" type="text/css">
+<div class="separator10"></div><!-- BEGIN Privacy Policy TABLE -->
 
 <div id="container">
   <div id="contents-plain">
@@ -375,63 +481,126 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
       <div class="t2">
         <h2>Privacy Policy</h2>
         <div class="padding-5">
-          
-  <p>At Sportsviews, we respect people’s privacy. To understand how we treat the information our members give us as they use Sportsviews, you should read the privacy policy. </p>
-  <p>&nbsp;</p>
-  <h3>Personal Information</h3>
-  <ul class="listStyle">
-    <li>
-      <p><span class="boldText">Non-Member Activity.</span> You can watch videos on Sportsviews without having a Sportsviews Account. </p>
-      </li>
-      <li>
-        <p><span class="boldText">Member-Related Activity.</span> Certain other activities on Sportsviews—like uploading videos, posting comments, flagging videos, or watching restricted videos—require you to have a Sportsviews Account. We ask for some personal information when you create a Sportsviews, including your email address and a password, which is used to protect your account from unauthorized access. A Sportsviews Account allows you to access many of our services that require registration. </p>
-      </li>
-      <li>
-        <p><span class="boldText">Usage Information.</span> We may record information about your usage, such as when you use Sportsviews, the groups you join, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in Sportsviews (including settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients. </p>
-      </li>
-      <li>        <span class="boldText">Content Uploaded to Site.</span> Any personal information or video content that you voluntarily disclose online (on discussion blogs, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others. </li>
-      </ul>
-  <p>&nbsp;</p>
-  <h3>Uses</h3>
-  <ul class="listStyle">
-    <li>
-      <p>If you submit personal information to us through Sportsviews, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of Sportsviews, and to process any flagging activity or correspondence you send to us. </p>
-      </li>
-      <li>
-        <p>Your account name (not your email address) is displayed to other Users when you upload videos or send messages through Sportsviews and other Users can contact you through messages and comments. Any videos that you submit to Sportsviews may be redistributed through the internet and other media channels, and may be viewed by the general public. </p>
-      </li>
-      <li>
-        <p>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Sportsviews changes or for customer service purposes). </p>
-      </li>
-      <li>
-        <p>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of Sportsviews and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications. </p>
-      </li>
-      <li> We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit Sportsviews ; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions,&nbsp; and contests.</li>
-      </ul>
-  <p>&nbsp;</p>
-  <h3>Information that is Publicly Available</h3>
-  <ul class="listStyle">
-    <li>
-      <p>When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include your name, your age, your country and your interests. </p>
-      </li>
-      <li>
-        <p>Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload videos or send messages through Sportsviews . Other Users can contact you through messages and comments. </p>
-      </li>
-      <li>
-        <p>You may also choose to add personal information that will be visible to other Users on your profile page. This may include a profile picture, you name, gender, or other details. </p>
-      </li>
-      <li>
-        <p>Any videos that you submit to Sportsviews may be redistributed through the internet and other media channels, and may be viewed by the general public.</p>
-      </li>
-  </ul>
-  <p>&nbsp;</p>
-  <h3>Third-party Advertisers, Links to Other Sites</h3>
-  <ul class="listStyle">
-    <li>Sportsviews reserves the right to allow other companies, called third-party ad servers or ad networks, to serve advertisements within Sportsviews. </li>
-    <li>Sportsviews does not provide any personal information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Sportsviews to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. </li>
-  </ul>
-  <strong><br>
-  </strong></div>
+          <p>At Sportsviews, we respect people’s privacy. To understand how we treat the information our members give us as they use Sportsviews, you should read the privacy policy. </p>
+          <p>&nbsp;</p>
+          <h3>Personal Information</h3>
+          <ul class="listStyle">
+            <li>
+              <p><span class="boldText">Non-Member Activity.</span> You can watch videos on Sportsviews without having a Sportsviews Account. </p>
+            </li>
+            <li>
+              <p><span class="boldText">Member-Related Activity.</span> Certain other activities on Sportsviews—like uploading videos, posting comments, flagging videos, or watching restricted videos—require you to have a Sportsviews Account. We ask for some personal information when you create a Sportsviews, including your email address and a password, which is used to protect your account from unauthorized access. A Sportsviews Account allows you to access many of our services that require registration. </p>
+            </li>
+            <li>
+              <p><span class="boldText">Usage Information.</span> We may record information about your usage, such as when you use Sportsviews, the groups you join, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in Sportsviews (including settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients. </p>
+            </li>
+            <li> <span class="boldText">Content Uploaded to Site.</span> Any personal information or video content that you voluntarily disclose online (on discussion blogs, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others. </li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Uses</h3>
+          <ul class="listStyle">
+            <li>
+              <p>If you submit personal information to us through Sportsviews, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of Sportsviews, and to process any flagging activity or correspondence you send to us. </p>
+            </li>
+            <li>
+              <p>Your account name (not your email address) is displayed to other Users when you upload videos or send messages through Sportsviews and other Users can contact you through messages and comments. Any videos that you submit to Sportsviews may be redistributed through the internet and other media channels, and may be viewed by the general public. </p>
+            </li>
+            <li>
+              <p>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Sportsviews changes or for customer service purposes). </p>
+            </li>
+            <li>
+              <p>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of Sportsviews and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications. </p>
+            </li>
+            <li> We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit Sportsviews ; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions,&nbsp; and contests.</li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Information that is Publicly Available</h3>
+          <ul class="listStyle">
+            <li>
+              <p>When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include your name, your age, your country and your interests. </p>
+            </li>
+            <li>
+              <p>Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you upload videos or send messages through Sportsviews . Other Users can contact you through messages and comments. </p>
+            </li>
+            <li>
+              <p>You may also choose to add personal information that will be visible to other Users on your profile page. This may include a profile picture, you name, gender, or other details. </p>
+            </li>
+            <li>
+              <p>Any videos that you submit to Sportsviews may be redistributed through the internet and other media channels, and may be viewed by the general public.</p>
+            </li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Third-party Advertisers, Links to Other Sites</h3>
+          <ul class="listStyle">
+            <li>Sportsviews reserves the right to allow other companies, called third-party ad servers or ad networks, to serve advertisements within Sportsviews. </li>
+            <li>Sportsviews does not provide any personal information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Sportsviews to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. </li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Digital Millennium Copyright Act (DMCA)</h3>
+          <ul class="listStyle">
+            <li>Under the 'safe harbor' of the DMCA, SportsViews.com is not liable or responsible for any alleged copyright infringements since all content on SportsViews.com is submitted by its members, and/or other third parties. Regardless of whether we may be liable for such infringement under local country law or Canadian law, our response to these notices may include removing or disabling access to material claimed to be the subject of infringing activity and/or disabling or terminating infringing member accounts. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the administrator of the affected content so that they may make a counter notification if they choose to exercise that right.</li>
+            <li>We may also choose to document notices of alleged infringement on which we act. In addition to being forwarded to the person who provided the allegedly infringing content, a copy of this legal notice may be sent to a third-party which may publish and/or annotate it. As such, your letter (with your personal information removed) may be forwarded to Chilling Effects (<a href="http://www.chillingeffects.org" target="_blank">http://www.chillingeffects.org</a>) for publication. You can see an example of such a publication at <a href="http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861" target="_blank">http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861</a>.</li>
+            <li>It is our policy to respond to clear notices of alleged copyright infringement. This page describes the information that should be included in these notices. Procedures of submitting notices of alleged infringement to SportsViews.com is very straightforward and aims to reduce the number of notices that we receive that are fraudulent or difficult to understand or verify. The notice form below is consistent with the form suggested by the United States Digital Millennium Copyright Act (the text of which can be found at the U.S. Copyright Office Web Site, <a href="http://www.copyright.gov" target="_blank">http://www.copyright.gov</a>) but we will also respond to notices from other jurisdictions as long as they are in English.</li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Infringement Notification</h3>
+          <ul class="listStyle">
+            <li>To file a notice of infringement with us, you must provide a written communication setting forth the items specified below, by regular mail and not by email. Please note that you will be liable for damages (including costs and attorneys' fees) if you materially misrepresent that a product or activity is infringing your copyrights. Indeed, in a recent case (please see <a href="http://www.onlinepolicy.org/action/legpolicy/opg_v_diebold/" target="_blank">http://www.onlinepolicy.org/action/legpolicy/opg_v_diebold/</a> for more information), a company that sent an infringement notification seeking removal of online materials that were protected by the fair use doctrine was ordered to pay such costs and attorneys fees. The company agreed to pay over $100,000. Accordingly, if you are not sure whether material available online infringes your copyright, we suggest that you first contact an attorney.</li>
+            <li>To expedite our ability to process your request, we will only accept notices in the following format (including section numbers):
+              <ul class="decimal">
+                <li>Adequately identify in detail the copyrighted work that you believe has been infringed upon.
+                  For example: "The copyrighted material in question can be found at http://www.legal.com/legal_page.html or other adequate information to point out the copyrighted work being infringed upon. For example: "The copyrighted work in question is the "To be or not to see" by Joe Smith, published by Joe Publishing, ISBN #012685678912".</li>
+                <li>Identify the material that you claim is infringing the copyrighted work listed in item #1 above. 
+                  You must specifically identify each all of the user-submitted content that allegedly contains infringing material. 
+                  This requires you to provide 2 more descriptions:
+                  <ul class="upper-alpha">
+                    <li>How you found the allegedly infringing content. Example: search term within SportsViews.com search engine, link on another site, etc.</li>
+                    <li>The url for all allegedly infringing content.</li>
+                  </ul>
+                  <br>
+                  For example:
+                  <ul class="upper-alpha">
+                    <li>How you found it: Searched "Nova Scotia Dodge Ball League" within SportsViews.com</li>
+                    <li> Infringing Web Pages: http://www.infringingurl.com/directory.infringingwebsite.com</li>
+                  </ul>
+                  <br>
+                  If you are sending a large number of URLs (over 10) in one removal request, please ALSO send an electronic copy of the notice to support at sportsviews dot com with Subject: DMCA Complaints.</li>
+                <li>Provide reasonably sufficient information to permit SportsViews.com to contact you: your name, address, telephone number, email address.</li>
+                <li>Provide sufficient information, if possible, to permit SportsViews.com to notify the owner/administrator of the allegedly infringing content (email address is preferred).</li>
+                <li>Include the following statement: "I have a good faith belief that use of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner, its agent, or the law."</li>
+                <li>Include the following statement: "I swear, under penalty of perjury, that the information in the notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."</li>
+                <li> Sign the paper.</li>
+                <li>Send the written and signed communication to the following address:<br>
+                  <blockquote> SportsViews.com <br>
+                    Attn: DMCA Complaints<br>
+                    7107 Trans-Canada Highway #225<br>
+                    Montreal, Quebec H4T 1A2<br>
+                    Canada</blockquote>
+                  <br>
+                  Please note that in addition to being forwarded to the person who provided the allegedly infringing content, a copy of this legal notice will be sent to a third-party which may publish and/or annotate it.  As such, your letter (with your personal information removed) will be forwarded to Chilling Effects (<a href="http://www.chillingeffects.org" target="_blank">http://www.chillingeffects.org</a>).  You can see an example of such a publication at <a href="http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861" target="_blank">http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861</a>.</li>
+              </ul>
+            </li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Account Suspension/Termination</h3>
+          <ul class="listStyle">
+            <li>SportsViews.com  will, in appropriate circumstances, suspend or terminate repeat infringers. If  you believe that an account holder or subscriber is a repeat infringer, please  follow the instructions above to contact SportsViews.com.com and provide  sufficient information for us to verify that the account holder or subscriber  is a repeat infringer.</li>
+          </ul>
+          <p>&nbsp;</p>
+          <h3>Counter Notification</h3>
+          <ul class="listStyle">
+            <li>The administrator of affected content may make a counter notification pursuant to sections 512(g)(2) and (3) of the Digital Millennium Copyright Act. When we receive a counter notification, we may reinstate the material in question.</li>
+            <li>To file a counter notification with us, you must provide a written communication by regular mail -- not by email, except by prior agreement that sets forth the items specified below. Please note that you will be liable for damages (including costs and attorneys' fees) if you materially misrepresent that a product or activity is not infringing the copyrights of others. Accordingly, if you are not sure whether certain material infringes the copyrights of others, we suggest that you first contact an attorney. A sample counter notification may be found at <a href="http://www.chillingeffects.org/dmca/counter512.pdf" target="_blank">http://www.chillingeffects.org/dmca/counter512.pdf</a>.<br>
+              <br>
+              Send the written and signed communication to the following address:<br>
+              <blockquote>SportsViews.com<br>
+              Attn: SportsViews DMCA Counter Notification<br>
+              7107 Trans-Canada Highway #225<br>
+              Montreal, Quebec H4T 1A2<br>
+              Canada</blockquote>
+              </li>
+          </ul>
+        </div>
       </div>
       <div class="t3"></div>
       <div class="clear-both"></div>
@@ -439,8 +608,11 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
   </div>
   <div class="clear-both"></div>
 </div>
-<!-- END Privacy Policy TABLE --><!-- BEGIN FOOTER -->
+<!-- END Privacy Policy TABLE -->
+<!-- BEGIN FOOTER -->
 
+<div class="separator40"></div>
+<div class="separator40"></div>
 <div class="separator40"></div>
 <div class="separator40"></div>
 <div class="separator40"></div>
@@ -450,8 +622,8 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
   <div class="footer">
     <div class="cols">
       <dl>
-        <dt>Bets</dt>
-        <dd><a href="http://www.sportsviews.com/add_bet.php">Create a Bet</a></dd>
+        <dt>Challenges</dt>
+        <dd><a href="http://www.sportsviews.com/add_bet.php" rel="nofollow">Create a Challenge</a></dd>
         <dd><a href="http://www.sportsviews.com/bets/most-recent.php">New</a></dd>
         <dd><a href="http://www.sportsviews.com/bets/most-viewed.php">Hot</a></dd>
         <dd><a href="http://www.sportsviews.com/bets/top-rated.php">Top Rated</a></dd>
@@ -462,7 +634,7 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
     <div class="cols">
       <dl>
         <dt>Buzz</dt>
-        <dd><a href="http://www.sportsviews.com/my_blog/add_post.php">Submit a Buzz</a></dd>
+        <dd><a href="http://www.sportsviews.com/my_blog/add_post.php" rel="nofollow">Submit a Buzz</a></dd>
         <dd><a href="http://www.sportsviews.com/blogs/most-recent.php">New</a></dd>
         <dd><a href="http://www.sportsviews.com/blogs/most-viewed.php">Hot</a></dd>
         <dd><a href="http://www.sportsviews.com/blogs/top-rated.php">Top Rated</a></dd>
@@ -472,7 +644,7 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
     <div class="cols">
       <dl>
         <dt>Videos</dt>
-        <dd><a href="http://www.sportsviews.com/video_upload.php">Upload a Video</a></dd>
+        <dd><a href="http://www.sportsviews.com/video_upload.php" rel="nofollow">Share a Video</a></dd>
         <dd><a href="http://www.sportsviews.com/videos/most-recent.php">New</a></dd>
         <dd><a href="http://www.sportsviews.com/videos/most-viewed.php">Hot</a></dd>
         <dd><a href="http://www.sportsviews.com/videos/top-rated.php">Top Rated</a></dd>
@@ -482,55 +654,66 @@ Spry.Utils.addEventListener(window, "resize", footerPosition, false);
     <div class="cols">
       <dl>
         <dt>Pictures</dt>
-        <dd><a href="http://www.sportsviews.com/image_upload.php">Share a Picture</a></dd>
+        <dd><a href="http://www.sportsviews.com/image_upload.php" rel="nofollow">Share a Picture</a></dd>
         <dd><a href="http://www.sportsviews.com/images/most-recent.php">New</a></dd>
         <dd><a href="http://www.sportsviews.com/images/most-viewed.php">Hot</a></dd>
         <dd><a href="http://www.sportsviews.com/images/top-rated.php">Top Rated</a></dd>
         <dd><a href="http://www.sportsviews.com/images/random.php">Random</a></dd>
       </dl>
     </div>
-    <div class="cols">
+    <!--<div class="cols">
       <dl>
         <dt>Top Sports</dt>
-        <dd><a href="http://www.sportsviews.com/categories/home/NFL">NFL</a>, <a href="http://www.sportsviews.com/categories/home/NCAA_Football">NCAA Football</a></dd>
-        <dd><a href="http://www.sportsviews.com/categories/home/MLB">MLB</a>, <a href="http://www.sportsviews.com/categories/home/NBA">NBA</a>, <a href="http://www.sportsviews.com/categories/home/NHL">NHL</a></dd>
-        <dd><a href="http://www.sportsviews.com/categories/home/MMA-UFC">MMA-UFC</a></dd>
-        <dd><a href="http://www.sportsviews.com/categories/home/Football_England">Football England</a></dd>
-        <dd><a href="http://www.sportsviews.com/categories/home/Intl_Football">Intl Football</a></dd>
+        <dd><a href="http://www.sportsviews.com/categories/bet/NFL">NFL</a>, <a href="http://www.sportsviews.com/categories/bet/NCAA_Football">NCAA Football</a></dd>
+        <dd><a href="http://www.sportsviews.com/categories/bet/MLB">MLB</a>, <a href="http://www.sportsviews.com/categories/bet/NBA">NBA</a>, <a href="http://www.sportsviews.com/categories/bet/NHL">NHL</a></dd>
+        <dd><a href="http://www.sportsviews.com/categories/bet/MMA-UFC">MMA-UFC</a></dd>
+        <dd><a href="http://www.sportsviews.com/categories/bet/Football_England">Football England</a></dd>
+        <dd><a href="http://www.sportsviews.com/categories/bet/Intl_Football">Intl Football</a></dd>
       </dl>
-    </div>
+    </div>-->
     <div class="cols">
       <dl>
         <dt>More</dt>
-        <dd><a href="http://www.sportsviews.com/help.php">Help Page</a></dd>
-        <!--<dd>Browser Shortcuts</dd>
-        <dd>Widgets</dd>-->
-                <dd><a href="http://www.sportsviews.com/rss_feeds.php">RSS Feeds</a></dd>
-        <dd><a href="http://www.sportsviews.com/widgets.php">Widgets</a></dd>
-        <dd><a href="http://www.sportsviews.com/qp.php">Fast Post Button</a></dd>
-        <dd><a href="http://www.sportsviews.com/invite.php">Invite Friends</a></dd>
+        <dd><a href="http://www.sportsviews.com/widgets.php" rel="nofollow">Widgets</a></dd>
+        <dd><a href="http://www.sportsviews.com/invite.php" rel="nofollow">Find Your Friends</a></dd>
+        <dd><a href="http://www.sportsviews.com/qp.php" rel="nofollow">Fast Post Button</a></dd>
+        <dd><a href="http://www.sportsviews.com/bloggers_and_publishers.php" rel="nofollow">Star Bloggers</a></dd>
+                <dd><a href="http://www.sportsviews.com/rss_feeds.php" rel="nofollow">Subscribe to RSS Feeds</a></dd>
               </dl>
     </div>
     <div class="cols">
       <dl>
+        <dd><a href="http://www.sportsviews.com/discussions.php" rel="nofollow"></a></dd>
+        <dd><a href="http://www.sportsviews.com/groups.php" rel="nofollow">Groups</a></dd>
+        <dd><a href="http://www.sportsviews.com/mobile.php" rel="nofollow">SV Mobile</a></dd>
+        <dd><a href="http://www.sportsviews.com/leaders.php" rel="nofollow">Point Leaders</a></dd>
+        <dd><a href="http://www.sportsviews.com/trades.php" rel="nofollow">Trades</a></dd>
+        <dd><a href="http://www.sportsviews.com/top_tags.php">Top Tags</a></dd>
+      </dl>
+    </div>
+    <div class="cols">
+      <dl>
         <dt>Sportsviews</dt>
-        <dd><a href="http://www.sportsviews.com/about.php">About Sportsviews</a></dd>
-        <dd><a href="http://www.sportsviews.com/terms.php">Terms and Conditions</a></dd>
-        <dd><a href="http://www.sportsviews.com/policy.php">Privacy Policy</a></dd>
-        <dd><a href="http://www.sportsviews.com/bloggers_and_publishers.php">Bloggers and Publishers</a></dd>
+        <dd><a href="http://www.sportsviews.com/about.php" rel="nofollow">About</a></dd>
+        <dd><a href="http://www.sportsviews.com/help.php" rel="nofollow">FAQ</a></dd>
+        <dd><a href="http://www.sportsviews.com/terms.php" rel="nofollow">Terms and Conditions</a></dd>
+        <dd><a href="http://www.sportsviews.com/policy.php" rel="nofollow">Privacy Policy/DMCA</a></dd>
         <dd><a href="mailto:feedback@sportsviews.com">Feedback</a></dd>
         <dd><a href="http://www.sportsviews.com/advertise.php">Advertise</a></dd>
       </dl>
     </div>
-    <div class="floatRight width-25per"> <span class="dt">What is Sportsviews?</span><br>
-      Sportsviews is the leading Sports Social Network. Challenge others about sports, share videos and pictures, read about the latest sports buzz, start a blog, join groups and much more.</div>
+    <div class="cols">
+      <dl>
+        <dt>SV Friends</dt>
+        <dd><a href="http://www.askmen.com" target="_blank">AskMen.com</a></dd>
+      </dl>
+    </div>
     <span class="clear-both"></span>
     <div class="separator10"></div>
-    <p class="floatRight">© Copyright 2008 Sportsviews.com. All rights reserved.</p>
-    <span class="clear-both"></span> </div>
+  </div>
+  <div class="footer-sub">
+    <div class="footer-sub-contents">© Copyright 2008-2009 SV Network. All rights reserved.</div>
+  </div>
 </div>
-
 <!-- END FOOTER -->
-
-
 </body></html>
