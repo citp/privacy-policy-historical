@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111149id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414183554id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,11 +28,19 @@ Once the unsubscription process is completed, your email address will no longer 
 
 Hoax-Slayer is totally anti-spam. I will never send unsolicited advertising email. In fact, I have a personal policy of NEVER buying a product or service as a result of spam email, regardless of its intrinsic worth.
 
-In order to use some services provided on the Hoax-Slayer site it might be necessary to provide information such as your name and email address. These services include the newsletter subscription form, and the Hoax-Slayer Forums. None of the information you provide will be used for any purpose other than that for which it was originally intended. 
+In order to use some services provided on the Hoax-Slayer site it might be necessary to provide information such as your name and email address. These services include the newsletter subscription form, and Hoax-Slayer Social. None of the information you provide will be used for any purpose other than that for which it was originally intended. 
 
 Hoax-Slayer uses [Google Analytics](http://www.google.com/analytics/ "Google Analytics") to record and process statistical information such as the number of visitors to the website, what pages are the most popular and system information such as the operating system and browser used by visitors. Any information collected is solely for statistical purposes and is not used to identify individuals in any way. In order to provide meaningful reports about visits to the site, Google Analytics may send cookies to your computer. Browser privacy settings allow you to block or restrict cookies as desired. Cookies may also be controlled by the use of privacy and security software provided by a number of vendors.
 
 The Hoax-Slayer website uses advertising provided by [Google AdSense](https://www.google.com/adsense/support/bin/topic.py?topic=8421 "Google AdSense") to generate revenue. While I would never knowingly include advertisements that promote fraudulent products or companies, I take no responsibility for the overall conduct or reliability of companies or services that advertise on the site. In the course of ads being served on this website, third party advertisements may place or read cookies on your browser or use web beacons to collect information. You can control the use of cookies via the privacy settings of your web browser. Browser privacy settings allow you to block or restrict cookies as desired. Cookies and web beacons may also be controlled by the use of privacy and security software provided by a number of vendors.
+
+The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DoubleClick DART cookie") may be used by Google in the Google ads served on this website. When users visit Hoax-Slayer and either view or click on an ad, a cookie may be dropped on the user's browser. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads based on a user's visit to this site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google ad and content network privacy policy").
+
+
 
 Listed below are the third party companies that may serve ads on this website via Google AdSense . These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies and/or opting out of any cookies used by these companies, please visit the company websites via the links provided in the following list: 
 
