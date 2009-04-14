@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index.html) for the most accurate reproduction.*
 
 # About Personal Information Protection (Privacy Policy and Summary) : Hitachi Global
 
 Enacted on April 1, 2005  
-Revised on January 12, 2007  
-Kazuo Furukawa  
+Revised on April 1, 2009  
+Takashi Kawamura  
 President and Representative Executive Officer  
 Hitachi, Ltd.
 
@@ -41,36 +41,36 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
 ## 3\. Privacy Mark
 
-[](http://privacymark.org/ref/)
+[](http://privacymark.org/)
 
 ## 4\. Scope of Application
 
  This document, "About Personal Information Protection", establishes the handling of all personal information by Hitachi in the company activities.
 
-  * [Scope](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#scope)
+  * [Scope](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#scope)
 
 
 
-## 5\. Personal Information
+## 5\. Activity of Personal Information Protection
 
- Hitachi protects and manages the personal information with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition) is the information below that can be used to identify specific persons.
+ Hitachi protects and manages the personal information by establishing a manager on a department basis with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition) is the information below that can be used to identify specific persons.
 
   1. Information provided by person to Hitachi by entering in "Inquiry form" or other forms.
   2. Information provided by person to Hitachi through any method other than the above.
 
 
-  * [Personal information](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition)
+  * [Personal information](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#definition)
 
 
 
-## 6\. Collection/Usage Purpose and Provision to Third Party
+## 6\. Handlig Policy of Personal Information - Collection/Usage Purpose and Provision to Third Party
 
   1. In relation to Hitachi's main business activities for electrical machinery parts, information communication machinery parts, electronic parts manufacturing and the information service, Hitachi will collect and use personal information only to achieve each purpose. When Hitachi requires a person to provide his/her personal information, we will clearly state the purpose of the use beforehand to obtain the consent of the person.
   2. Hitachi will not provide personal information to a third party without first obtaining the prior consent from the person, except the circumstances under certain conditions.
   3. When required to do so for business activities in which Hitachi is co-operating with Hitachi group companies, Hitachi may provide such group companies with personal information such as names, workplace or home addresses, telephone numbers, fax numbers, e-mail addresses, etc.
 
 
-  * [Details](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#purpose)
+  * [Details](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#purpose)
 
 
 
@@ -78,7 +78,7 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
  When a person wants to request to disclose, correct, add, delete, stop usage, stop provision to a third party, or notify the purpose of usage of his/her personal information (hereinafter referred to as "disclose and so on") held by Hitachi, or wants to raise complaints, the person is requested to follow the predefined procedures to make such request.
 
-  * [Details](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#contact)
+  * [Details](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#contact)
 
 
 
@@ -86,7 +86,7 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
  For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.
 
-  * [Details](https://web.archive.org/web/20081216165933id_/http%3A//www.hitachi.com/privacy-e/index2.html#inquiry)
+  * [Details](https://web.archive.org/web/20090414204959id_/http%3A//www.hitachi.com/privacy-e/index2.html#inquiry)
 
 
 
