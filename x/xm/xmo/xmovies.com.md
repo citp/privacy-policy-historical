@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmovies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161848id_/http%3A//www.xmovies.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmovies.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414180720id_/http%3A//xmovies.com/info/privacy) for the most accurate reproduction.*
 
 # X Movies - Download Over 2000+ Adult DVDs
 
@@ -31,4 +31,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please call us at [+61 422132100] or send us an email at [[support@xmovies.com](mailto:support@xmovies.com)].
+Should you have other questions or concerns about these privacy policies, please send us an email at [[support@xmovies.com](mailto:support@xmovies.com)].
