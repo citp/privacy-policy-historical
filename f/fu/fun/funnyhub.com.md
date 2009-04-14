@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210020057id_/http%3A//www.funnyhub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414152656id_/http%3A//www.funnyhub.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Hub - Privacy Policy
 
