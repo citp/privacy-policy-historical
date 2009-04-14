@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketclicks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155008id_/http%3A//www.rocketclicks.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketclicks.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414173023id_/http%3A//www.rocketclicks.com/Privacy.htm) for the most accurate reproduction.*
 
-# 
+# Business Privacy Policy| Rocket Clicks
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. 
 
@@ -38,10 +38,15 @@ By accessing or otherwise using this site, you agree to be bound contractually b
 
 16\. A Note to Children and Parents: MMI intend that this site be used by adults only. Children: Before sending any information about yourself over the Internet to us or anyone else, be sure to ask your parents for permission. Parents: MMI recommend that parents take an active role in their children's use of the Internet. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us at the e-mail address, phone or mailing address provided by this website if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our databases. 
 
-17\. Contact Us. If you have submitted personally identifiable information through this site, or if someone else has submitted your personally identifiable information, and you would like to review, request changes or have that information deleted from our databases, please contact MMI via e-mail or send a letter to our Privacy Compliance Coordinator at the address indicated below. We will then use reasonable efforts to change or remove your personally identifiable information from our files, unless we are entitled or required to retain it pursuant to other agreements or by law. You may also contact us through either of the above methods to request or review the personally identifiable information that MMI have collected about you. MMI will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information. Our contact information is as follows: 
+17\. Tracking Technologies:  We use Google Adwords and Google Analytics tracking technologies to better understand how people coming from various keyword searches use our site.  We feel this empowers us to give users a better experience and deliver what they want more effectively.
+
+18\. Contact Us. If you have submitted personally identifiable information through this site, or if someone else has submitted your personally identifiable information, and you would like to review, request changes or have that information deleted from our databases, please contact MMI via e-mail or send a letter to our Privacy Compliance Coordinator at the address indicated below. We will then use reasonable efforts to change or remove your personally identifiable information from our files, unless we are entitled or required to retain it pursuant to other agreements or by law. You may also contact us through either of the above methods to request or review the personally identifiable information that MMI have collected about you. MMI will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information. Our contact information is as follows: 
 
 Marketing Miracles, Inc.  
 N56 W13365 Silver Spring Dr.  
 Menomonee Falls, WI 53051  
 Fax: 262-437-0123  
 [support@payperclickpower.com](mailto:support@payperclickpower.com)
+
+  
+ 
