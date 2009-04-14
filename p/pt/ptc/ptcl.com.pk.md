@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219060452id_/http%3A//www.ptcl.com.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414230951id_/http%3A//www.ptcl.com.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,40 +16,16 @@ Whenever a User visits PTCL Website, the server used by PTCL Web Host will make 
 
 As General information, Cookies are small computer files that can be stored in web surfers' computers for the purposes of obtaining configuration information and analyzing web surfers' viewing habits. User may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of User computer system). Therefore, User may not be able to utilize or activate certain available functions in PTCL Website.
 
-#### Types of Personally Identifiable Information Collected 
+#### 
 
-At times, Customer may be required to give her/his personally identifiable information including, but not limited to, Customer name, gender, age, identity document number, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests and activities etc.
-
-Refusal to provide such information may deny Customer's access to certain parts of PTCL web site, or may render PTCL unable to handle any application or request Customer is making, or may otherwise defeat the objectives of the visit. If Customer is under the age of 21, consent from a parent or guardian is required.
-
-#### Use of Personally Identifiable Information Collected
-
-Specific purposes for which User personally identifiable information may be used are set under PTCL Website Terms & Conditions.
-
-#### Direct Marketing/Market Research
+Direct Marketing/Market Research
 
 If Customer has once given to PTCL personally identifiable information, Customer may receive from PTCL or from its affiliated companies from time to time telephone calls, email, and short message and direct mailings containing promotional materials or market research/surveys. 
-
-#### On-line Services
-
-PTCL Website may have on-line stores or service providers hosted within the web site, which are operated by third party merchants. If Customer wants to use or order any services or products from any of them, please note that any information Customer provides, once transferred to the relevant merchant, is beyond PTCL’s control. Additionally PTCL may also request information on several elements of Customer Service. User feedback is vital, appreciated and enables PTCL to enhance the Quality of Customer Service PTCL provides.
-
-#### Retention of the Information
-
-A Customer’s personally identifiable information which is given to PTCL via Internet during the subscription process will be retained for a reasonable period after termination of the subscription.
 
 #### Disclosure of Information
 
 User/Customer information may be shared with, or transferred to PTCL, its subsidiaries and affiliated companies. For details, please refer to PTCL Website Terms and Conditions published on this website.
 
-#### Access to and Correction of Information
-
-If a Customer wants to access and/or correct her/his personally identifiable information, which Customer has given to PTCL via Internet, Customer may write to (email address). PTCL may charge Customer a reasonable fee for each successful access current from time to time. However, such fee will be waived if the access is necessary to make a genuine and reasonable correction.
-
 #### Links to other sites 
 
 PTCL Website may contain links to other sites. PTCL is not responsible for the data collection practices and/ or the privacy policies of any such sites.
-
-#### Security
-
-PTCL employs techniques to secure the PTCL Website. It is worth noting that such techniques do not guarantee that use of the PTCL Website is invulnerable to all security risks, nor does PTCL make any warranty, guarantee, or representation that use of the PTCL Website is protected from all viruses, worms, and other vulnerabilities.
