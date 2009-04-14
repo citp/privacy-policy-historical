@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090256id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414222356id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Government Technology
 
@@ -65,7 +65,7 @@ We will make your personally identifiable information available to other compani
 
   * You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our web site.
   * You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and comments, and other forms of public communication and interaction.
-  * You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+  * You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information and applicable survey responses back to that service partner. Their use of your information is subject to their applicable privacy policies.
   * We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
   * You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.
   * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
