@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petpetpark.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224105224id_/http%3A//www.petpetpark.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpetpark.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414074408id_/http%3A//www.petpetpark.com/help/privacy) for the most accurate reproduction.*
 
-# Petpet Park - - Privacy Policy
+# Welcome to Petpet Park - - Privacy Policy
 
 Petpetpark.com Privacy Policy
 
