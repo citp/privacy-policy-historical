@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddymarks.com privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418010006id_/http%3A//buddymarks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddymarks.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414175923id_/http%3A//buddymarks.com/privacy.php) for the most accurate reproduction.*
 
 # :: BuddyMarks ::
 
