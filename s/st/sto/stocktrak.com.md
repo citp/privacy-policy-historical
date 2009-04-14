@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222060438id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414203739id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.*
 
-# Stock Investment Guide | Stock Research | Stock Investing Research
+# Stock Market Simulation Software | Online Stock Simulator | Day Trading Online : Stock-Trak
 
 _Last revised on July 16, 2007._
 
