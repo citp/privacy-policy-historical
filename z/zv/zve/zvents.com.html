@@ -1,32 +1,43 @@
-<!--The following is the downloaded HTML source of the zvents.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160645id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zvents.com privacy policy that was archived on 2009-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414100026id_/http%3A//www.zvents.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <meta name="y_key" content="9efebc8a7242cef1">
     <meta name="ROBOTS" content="NOINDEX">
   <title>Privacy Policy - Zvents</title>
-  <script type="text/javascript">
-    var zlogid = "OWdbJWltWeWBGoQs8GSUpQ";
-  </script>
+      <script type="text/javascript">
+      var zlogid = "Y1CUixZvL3JQR4yYH_ObUQ";
+    </script>
+
+  
+<script type="text/javascript" charset="utf-8">
+  var z_page_type = '';
+  var z_temp_type = '';
+
+    var z_action = 'privacy';
+    var z_controller = 'support';
+</script>
+
 
   <meta name="keywords" content="events, calendar of events, event calendar, things to do, festivals, concerts, live music, volunteer events, community events">
   <meta name="description" content="Use Zvents to find and post events, concerts, festivals, live music, and other things to do near you. Zvents is a free search engine where you can search for what to do by location, time, or event type.">
 
 
-  <script src="http://js.zvents.com/javascripts/happy_default.js?43112" type="text/javascript"></script>
-  <script src="http://js.zvents.com/javascripts/plaxo.js?43112" type="text/javascript"></script>
+  <script src="http://js.zvents.com/javascripts/happy_default.js?48349" type="text/javascript"></script>
+  <script src="http://js.zvents.com/javascripts/plaxo.js?48349" type="text/javascript"></script>
 
 
 
-  <link href="http://css.zvents.com/stylesheets/happy_default.css?43112" media="screen" rel="stylesheet" type="text/css">
-
+  <link href="http://css.zvents.com/stylesheets/happy_default.css?48349" media="screen" rel="stylesheet" type="text/css">
   
   
-    <link href="http://css.zvents.com/stylesheets/happy_mv_zvents.css?43112" media="screen" rel="stylesheet" type="text/css">
-<link href="http://css.zvents.com/stylesheets/happy_support.css?43112" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://css.zvents.com/stylesheets/happy_mv_zvents.css?48349" media="screen" rel="stylesheet" type="text/css">
+<link href="http://css.zvents.com/stylesheets/happy_support.css?48349" media="screen" rel="stylesheet" type="text/css">
+  
 
 
-  <link href="http://css.zvents.com/stylesheets/zvents_style_print.css?43112" media="print" rel="stylesheet" type="text/css">
+  <link href="http://css.zvents.com/stylesheets/zvents_style_print.css?48349" media="print" rel="stylesheet" type="text/css">
 
 
   
@@ -43,12 +54,12 @@
     //PAGE NAME(S)
     hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
 
-	
-	
+
+
   hbx.pndef= '';//Where to look for the hbx title
   hbx.pn ="PUT+PAGE+NAME+HERE";
   hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-	
+
 
   //OPTIONAL PAGE VARIABLES
   //ACTION SETTINGS
@@ -71,13 +82,12 @@
   </script><script type="text/javascript" src="/javascripts/hbx.js"></script>
   <!--END VISUAL SCIENCES CODE-->
 
+  
 
   <link rel="search" href="/opensearch/description0.xml" type="application/opensearchdescription+xml" title="Zvents">
-
 </head>
 
-  <body>
-
+<body id="body_">
 
 
   <div id="wrapper">
@@ -95,10 +105,9 @@
 
 
 
-
     <div class="nav_bar">
       <div class="nav_bar_link">
-        <a href="/welcome/create"><img alt="Ico_add" src="http://images.zvents.com/images/ico_add.gif?43112"> add to our listings</a>
+        <a href="/welcome/create"><img alt="Ico_add" src="http://images.zvents.com/images/ico_add.gif?48349"> add to our listings</a>
       </div>
 
         <div class="nav_bar_off">
@@ -132,30 +141,98 @@
 
 
     <div id="region">
-      <span>La Jose, PA</span>
+      <span>Skokie, IL</span>
       &nbsp;&nbsp;
       <a id="set_location_link" onclick="return false;" style="cursor:pointer;">[change my location]</a>
     </div>
 
-    <div id="set_location_wrapper" style="display:none;">
-      <div id="set_location_padding">
-        <span class="zModalCloseIconLocation without_tabs"></span>
-        <div class="option_popup_title">
-          Change Location
-        </div>
+    <script type="text/javascript">
+//<![CDATA[
+  submit_form = false;
 
-        <div class="option_popup_body">
-          <form action="/welcome/set_location" method="post">
-            <input type="hidden" name="return_to" value="/">
-            <div>Enter your location in the text box below and click the <em>Change Location</em> button. (e.g., San Francisco, CA or 94131)</div>
-            <p>Location: <input type="text" name="location_data" id="location_data" class="text" style="width:175px;"></p>
-            <div style="display:none;" id="error_div"></div>
-            <input type="submit" value="Change Location">
-            <input type="button" value="Cancel" class="closeZModalIcon">
-          </form>
-        </div>
-      </div>
+  match_locations = function() {
+    if (submit_form) {
+      return true;
+    } else {
+      $ZJQuery("#location_output").html("");
+      $ZJQuery.post("/welcome/lookup_matching_locations", {
+        "address": $ZJQuery("#location_data").val()
+        }, function(data){
+          var json = eval( '(' + data + ')' );
+          $ZJQuery("#location_output").show();
+
+          if (json.length == 0) {
+            var html = [
+              "<p style='font-weight:bold;padding:12px;'>We could not map",
+              $ZJQuery("#location_data").val(),
+              " to a location.  Please check your spelling and try again.<p>"
+            ];
+            $ZJQuery("#location_output").html(html.join(' '));
+          } else if (json.length == 1) {
+            submit_form = true;
+            $ZJQuery("#set_location_form").submit();
+          } else {
+            var html = [
+              "<p>Please choose from one of the following locations:</p>",
+              "<ul>"
+            ];
+            $ZJQuery.each(json, function(index, value){
+              var json_value = eval( '(' + value + ')' );
+              html[html.length] = "<li>";
+              html[html.length] = [
+                "<a href='/welcome/set_location?location_data=",
+                $ZJQuery("#location_data").val(),
+                "&latitude=",
+                json_value['latitude'],
+                "&longitude=",
+                json_value['longitude'],
+                "' method='post' >"
+              ].join('');
+              html[html.length] = json_value['display_string'];
+              html[html.length] = "in";
+              html[html.length] = json_value['country'];
+              html[html.length] = "</a></li>";
+            });
+            html[html.length] = "</ul>";
+            $ZJQuery("#location_output").html(html.join(' '));
+          }
+        }
+      );
+    }
+    return false;
+  }
+//]]>
+</script>
+
+<div id="set_location_wrapper" style="display:none;">
+  <div id="set_location_padding">
+    <span class="zModalCloseIconLocation without_tabs"></span>
+    <div class="option_popup_title">
+      Change Location
     </div>
+
+    <div class="option_popup_body">
+      <form id="set_location_form" action="/welcome/set_location" method="post" onsubmit="return match_locations();">
+        <input type="hidden" name="return_to" value="/">
+        <div>Enter your location in the text box below and click the <em>Change Location</em> button. (e.g., San Francisco, CA or 94131)</div>
+        <p>
+          Location:
+          <input type="text" name="location_data" id="location_data" class="text" style="width:175px;">
+        </p>
+        <div style="display:none;" id="error_div"></div>
+        <input type="submit" value="Change Location">
+        <input type="button" value="Cancel" class="closeZModalIcon">
+      </form>
+
+      <div id="location_output"></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $ZJQuery("#location_output").hide();
+</script>
+
 
   <div id="content">
     
@@ -164,27 +241,27 @@
       <div class="label">About Zvents</div>
       <div class="content">
         <ul class="ulindent">
-    	  <li><a href="/support/about"><strong>Company</strong></a>
-    	    <ul class="ulindent">
-    		  <li><a href="/support/management">Management</a></li>
-    		  <li><a href="/support/press">Press Center</a></li>
-    		  <li><a href="/support/jobs">Jobs</a></li>
-    		  <li><a href="http://scene.zvents.com/">Zvents Blog</a></li>
-    		</ul>
-    	  </li>
-    	  <li><a href="/support/publishers"><strong>Products</strong></a></li>
-    	  <li><a href="/support/contact"><strong>Contact Us</strong></a></li>
-    	</ul>
+        <li><a href="/support/about"><strong>Company</strong></a>
+          <ul class="ulindent">
+          <li><a href="/support/management">Management</a></li>
+          <li><a href="/support/press">Press Center</a></li>
+          <li><a href="/support/jobs">Jobs</a></li>
+          <li><a href="http://scene.zvents.com/">Zvents Blog</a></li>
+        </ul>
+        </li>
+        <li><a href="/support/publishers"><strong>Products</strong></a></li>
+        <li><a href="/support/contact"><strong>Contact Us</strong></a></li>
+      </ul>
       </div>
     </div>
-  
+
     <br>
 
     <div class="comp" id="blue-wrap">
       <div class="content">
         <p><a href="/support/zmp_overview"><strong>Want more pageviews?</strong></a></p>
-    	<p><strong>Transform</strong> your event calendar into an events search engine your users will love. Increase traffic, return visits, and revenue.</p>
-    	<p class="align-rt"><a href="/support/zmp_overview">LEARN MORE <img src="/images/arw-blue.gif" alt=""></a></p>
+      <p><strong>Transform</strong> your event calendar into an events search engine your users will love. Increase traffic, return visits, and revenue.</p>
+      <p class="align-rt"><a href="/support/zmp_overview">LEARN MORE <img src="/images/arw-blue.gif" alt=""></a></p>
       </div>
     </div>
     <br>
@@ -197,7 +274,7 @@
     <div class="content-wrap">
       <h1 class="content-h">Privacy Policy</h1>
       <p>
-        Your privacy is important to you and to us.  We recognize that we must earn and keep your trust.  This Privacy Policy outlines the types of personal information we gather when you use Zvents, as well as some of the steps we take to safeguard it. 
+        Your privacy is important to you and to us.  We recognize that we must earn and keep your trust.  This Privacy Policy outlines the types of personal information we gather when you use Zvents, as well as some of the steps we take to safeguard it.
       </p>
       <p>
         The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address.
@@ -256,25 +333,22 @@
       </p>
       <h1>Links</h1>
       <p>
-        This web site may contain links to other websites. Please be aware that Zvents is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our web site and to read the privacy statements of each and every web site that collects personally identifiable information. 
+        This web site may contain links to other websites. Please be aware that Zvents is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our web site and to read the privacy statements of each and every web site that collects personally identifiable information.
       </p>
       <p>
-        The sites displayed as search results or linked to by Zvents' services are developed by people over whom Zvents exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information. 
+        The sites displayed as search results or linked to by Zvents' services are developed by people over whom Zvents exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
       </p>
       <p>
-        Zvents may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Zvents' search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
+        Zvents may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Zvents' search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
       </p>
       <h1>Changes to this Policy</h1>
       <p>
         Please note this Privacy Policy may change from time to time.  We will always announce any change in advance.  If you have any questions about this privacy statement, you can <a href="/support/contact?issues=">contact us</a>.
       </p>
-      
+
     </div><!--content-wrap-->
   </div>
 </div>
-
-
-
 
     <div class="divclear"></div>
   </div>
@@ -317,18 +391,12 @@
 
           </div>
 
-          <p>Copyright © 2008 Zvents, Inc. All rights reserved. <a href="/support/privacy">Privacy Policy</a>. <a href="/support/terms_conditions">Terms of Use</a>.
+          <p>Copyright © 2009 Zvents, Inc. All rights reserved. <a href="/support/privacy">Privacy Policy</a>. <a href="/support/terms_conditions">Terms of Use</a>.
           </p>
           
         </div>
 
     </div>
-	<script type="text/javascript" charset="utf-8">
-  var z_page_type = "";
-  var z_temp_type = "";
-    var z_action = 'privacy';
-    var z_controller = 'support';
-</script>
 
   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-31999-1";urchinTracker();</script>
 
