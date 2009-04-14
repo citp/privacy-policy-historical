@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the intherooms.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414220750id_/http%3A//www.intherooms.com/help/privacy) for the most accurate reproduction.*
+
+# In The Rooms
+
+February 1, 2009
+
+****Our Commitment to Privacy****
+
+Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. 
+
+**No Users Under the Age of 13.**
+
+No person under the age of thirteen (13) years old is permitted to join the Site. We will not knowingly permit any one under the age of thirteen to join the Site nor will we knowingly collect any information from anyone under the age of thirteen. Any member who suspects another member may be under the age of thirteen should email us at admin@intherooms.com. If we learn that we have personal information relating to someone who is not at least 13 years of age, we will delete that information from our systems and immediately disable the account associated with that information.
+
+****California Residents****
+
+If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name and email address, the URL for the website you visited, and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Please mail your request to admin@intherooms.com.
+
+**What Information Do We Collect?**
+
+Use of the Site requires that you create an account with our Site. The process of creating an account requires that you provide us with certain information, referred to herein as "Account Data". Account Data shall include your functioning email address, birth date, desired user name, password and any other information you may choose to provide in connection with the creation of your account profile. During sign-up and thereafter, we may also require and/or collect your IP address(es), referring website information, Internet browser used to access the Site, country, zip code, gender and/or other data regarding search history, browsing history, and registration and user history (collectively, "Passive Information"). Please note that we may log and store your IP address information, which, while it does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Internet. Used alone or in cooperation with your ISP, your IP address can be used reveal what geographic area you are connecting from, or which ISP you are using. Your IP address may be used to address problems with our server, administer our Site and/or to gather broad demographic information about our Members. Finally, the other websites that you visit have IP addresses, and we may collect the IP addresses of those websites and their pages, as well. If you choose to make any purchases through our Site, you will be required to provide payment information including information for your method of payment, your name and address information (the "Financial Information"). We also collect information regarding all messages posted, shared and/or sent through the Site (the "Public Information").
+
+**How is This Information Used?**
+
+Account Data is used for customer support, to convey messages regarding your membership with the Site and other matters related to the use of you account. Passive Information is used to help better tailor your experience on the Site with reading suggestions and advertisements based upon your past use of the Site. Passive Information is also used in the aggregate to maintain and improve the Site based upon all members usage of the Site. Passive information may be collected through the use of "cookies". If you do not wish to store "cookie" information on your computer, you may turn off this in your web browser; however, please be aware that doing so will not disable the Passive Information collected by the Site. In the event that you make a purchase through our Site (such as, for example, from our Daily Meditation, Product or Music purchase sections), we will be required to share your Financial Information with our third party credit card processors in order to process your purchase. For this reason, it is imperative that you review the privacy information for such credit card processor as disclosed during the purchase process. We may also share your address as necessary to complete and/or ship your order.
+
+We may use the Account Information and/or Passive Information to contact you about changes to the Site, new services, features or products we offer, or other information we think you may find valuable. If at any time you do not wish to receive such information, you may "opt-out" by changing your account settings here (http://intherooms.com/profile/edit) or by emailing us at admin@intherooms.com. Please note that it may take up to ten (10) days for the change to be fully effective. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report to us any email you may receive, without your prior authorization, that purports to promote the Site or relates to the Site in any other way. To make a report, please forward a copy of the email to: admin@intherooms.com.
+
+Please note that all Public Information is considered to be in the public domain and will be readily available our members.
+
+**With Whom Do We Share Information?**
+
+We do not share your information with any third party without your prior consent.
+
+**Other Disclosures**
+
+We reserve the right to release your information (both Account Information and Passive Information) in the event that: (1) at our sole discretion if we believe that the Site is being or has been used to commit, or help commit, any unlawful act; (2) if the information is subpoenaed or otherwise required in a court proceeding; (3) in the event that you violate or breach an agreement with the Site including, but not limited to, this Privacy Policy or Terms of Use; (4) in the event that you have submitted fraudulent or otherwise invalid information to this Site; (5) we believe that you may harm, or have harmed, the property or rights of us, the Program's other members or any other third party; (6) if another party is reviewing our records because our company or assets may be sold or acquired; (7) to third parties such as Internet credit processors, server security contractors or other necessary for us to provide you with services, if applicable; and/or (8) when we otherwise deem it necessary or appropriate. In the event that we disclose your identity and contact information, if requested by a government or law enforcement body or as a result of a subpoena or other legal action, your use of the Site indicates your agreement that we shall not be liable for damages or results thereof, and you agree not to bring any action or claim regarding such disclosure. 
+
+**How Do We Secure Account Information and Passive Information?**
+
+We secure your personal information submitted by you by using reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Account Information and Passive Information. Efforts we may take to ensure security include but are not limited to: maintaining our own servers under our control and/or monitoring of our network and data for intrusions. Communications you may have with us via email or mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
+
+**Third Party Advertisements**
+
+We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an anonymous basis. Some emails from us may contain advertisements from businesses unrelated to the Site. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertiser's website. Also, we cannot, and do not, make any representations about the applicable terms and conditions or privacy policies of any business with advertisements appearing anywhere on the Site or brought to your attention through the Site or any email from the Site or its advertising partners, regardless of whether or not there may be any mention of, or references to, the Site on such business's website.
+
+**Changes to this Privacy Policy**
+
+We may change this Privacy Policy at any time by posting such revised policy with a new effective date. You agree that we are under no duty to send you notice of any such change. Instead you accept it as your affirmative responsibility to check this Privacy Policy from time to time. Your continued use of the Site following the posting of a revised Privacy Policy with a new effective date indicates your agreement to the changes.
