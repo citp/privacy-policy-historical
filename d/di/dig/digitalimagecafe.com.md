@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914133410id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414062827id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
-# Digital Photo Contest - Digital Image Cafe
+# Photo Contest - Digital Image Cafe : Privacy Policy
 
 **PRIVACY POLICY**
 
 Your privacy on the Internet is important to us. As part of the operation of DigitalImageCafe.Com, we gather certain types of information about our users, and we would like to explain the types of information we gather, what we do with it and how to correct or change the information.
 
-DigitalImageCafe.Com collects two types of data from users: volunteered personal data (such as names, addresses, e-mail addresses, etc.); and aggregated data (such as information about traffic patterns on DigitalImageCafe.Com).
+DigitalImageCafe.Com collects two types of data from users: volunteered personal data (such as names, e-mail addresses, etc.); and aggregated data (such as information about traffic patterns on DigitalImageCafe.Com).
 
 **Personal Data**
 
-Personal data is collected when users provide personal data to DigitalImageCafe.Com, for example in registering for membership services, in answering surveys, providing course review information, requesting information, and purchasing items from DigitalImageCafe.Com and/or any of its partners. Also, we collect the e-mail addresses of users who post messages to our message boards (forum).
+Personal data is collected when users provide personal data to DigitalImageCafe.Com, for example in registering for membership services, in answering surveys, requesting information, and purchasing items from DigitalImageCafe.Com. 
 
 **Aggregated Information**
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, DigitalImageCafe.Com collects IP addresses. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from DigitalImageCafe.Com, our servers log your IP address. DigitalImageCafe.Com does not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us. DigitalImageCafe.Com collects IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on DigitalImageCafe.Com.
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or site registrations, is collected through various methods. For example, DigitalImageCafe.Com collects IP addresses. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from DigitalImageCafe.Com, our servers log your IP address. DigitalImageCafe.Com collects IP addresses for the purposes of system administration and security logging.
 
 **Use of Cookies**
 
-DigitalImageCafe.Com also uses "cookies" to collect information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow DigitalImageCafe.Com to measure activity on the Site and to improve your user experience, for example, by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the Site without reregistering. Cookies are used by DigitalImageCafe.Com to measure activity on the Site and make improvements and updates based on which areas are popular and which are not. DigitalImageCafe.Com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e., during membership registration or a request for information), DigitalImageCafe.Com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. You may occasionally get cookies from our advertisers, which is standard in the Internet industry. DigitalImageCafe.Com does not control these cookies, and these cookies are not subject to DigitalImageCafe.Com's privacy policies.
+DigitalImageCafe.Com also uses "cookies" to collect information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow DigitalImageCafe.Com to measure activity on the Site and to improve your user experience, for example, by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the Site without reregistering. Cookies are used by DigitalImageCafe.Com to measure activity on the Site and make improvements and updates based on which areas are popular and which are not. DigitalImageCafe.Com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. DigitalImageCafe.Com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. You may occasionally get cookies from our advertisers, which is standard in the Internet industry. DigitalImageCafe.Com does not control these cookies, and these cookies are not subject to DigitalImageCafe.com's privacy policies.
 
 Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the Site will not function properly if you do so.
 
-**Use of Information Collected by DigitalImageCafe.Com**
+**Use of Information Collected by DigitalImageCafe.com**
 
-DigitalImageCafe.Com uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the Site, to customize the content and/or layout of the Site for each individual user and to notify users about updates to the Site or promotional offers or opportunities that we believe will be of interest to you. DigitalImageCafe.Com will share aggregated information with third parties for both advertising and promotional purposes.
+DigitalImageCafe.com uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the Site, to customize the content and/or layout of the Site for each individual user and to notify users about updates to the Site or promotional offers or opportunities that we believe will be of interest to you. DigitalImageCafe.com will share aggregated information with third parties for both advertising and promotional purposes.
 
-DigitalImageCafe.Com does not share your personal information with third parties without your permission.
+DigitalImageCafe.com does not share your personal information with third parties without your permission.
 
 **How to Unsubscribe from Newsletters**
 
