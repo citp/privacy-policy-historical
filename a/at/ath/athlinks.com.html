@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the athlinks.com privacy policy that was archived on 2008-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081011032808id_/http%3A//www.athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the athlinks.com privacy policy that was archived on 2009-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414055624id_/http%3A//www.athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
     <title>Athlinks Help - Privacy Policy</title>
 	
+<meta name="robots" content="noarchive">
 <!-- begin script to create random number for ads -->
 <script language="Javascript" type="text/javascript">
 <!--
@@ -18,25 +19,11 @@ sgi_ord=Math.random()*10000000000000000;
 <a href="http://www.quantcast.com/p-31QupbWRoAvms" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-31QupbWRoAvms.gif?tags=general%20fitness%20enthusiast" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3573383-13");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 <script language="javascript" src="http://www.athlinks.com/scripts/common.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/ButtonHandler.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/jquery.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/interface.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/thickbox.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/jtip.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.athlinks.com/scripts/jquery.accordion.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://www.athlinks.com/styles/default.css?refresh=true">
 <link rel="stylesheet" type="text/css" href="http://www.athlinks.com/scripts/jquery-tooltip/css/global.css">
 <link rel="stylesheet" type="text/css" href="http://www.athlinks.com/styles/thickbox.css">
-<link rel="stylesheet" type="text/css" href="http://www.athlinks.com/styles/default.css">
+
 
 
     <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
@@ -51,8 +38,13 @@ pageTracker._trackPageview();
 
 
 	
+
 <script language="javascript" type="text/javascript">
 	var searchOn = '';
+	if( searchOn == 'Athlete' )
+	{
+		searchOn = 'Members';
+	}
 	var term = '';
 	var url;
 
@@ -60,7 +52,7 @@ pageTracker._trackPageview();
 	{
 		if( searchOn == '' )
 		{
-			SetSearch( 'Athlete' );
+			SetSearch( 'Results' );
 		}
 		else
 		{
@@ -75,23 +67,32 @@ pageTracker._trackPageview();
 		var id = 'search'+searchType;
 		var objBtnOn = dom( id, 0 );
 		var objPnlOn = dom( 'pnlSearch'+searchType, 0 );
-		var objLblSearchBy = dom( 'lblSearchBy', 0 );
 		objBtnOn.src='http://www.athlinks.com/images/btnSearch_'+searchType+'_on.png';
 		objPnlOn.className='clsVisible';
-
-		objLblSearchBy.innerText= searchType + ': ';
 		searchOn = searchType;
 
 		var objSearchBox;			
 		// Set field values.
 		switch( '' )
 		{
-			case 'Athlete':
-				objSearchBox = dom( 'txtSearchAthlete', 0 );
+			case 'Members':
+				objSearchBox = dom( 'txtSearchMembers', 0 );
 				objSearchBox.value = '';
 				break;
-			case 'Event':
-				objSearchBox = dom( 'txtSearchEvent', 0 );
+			case 'Clubs':
+				objSearchBox = dom( 'txtSearchClubs', 0 );
+				objSearchBox.value = '';
+				break;
+			case 'Results':
+				objSearchBox = dom( 'txtSearchResults', 0 );
+				objSearchBox.value = '';
+				break;
+			case 'Events':
+				objSearchBox = dom( 'txtSearchEvents', 0 );
+				objSearchBox.value = '';
+				break;
+			case 'Expo':
+				objSearchBox = dom( 'txtSearchExpo', 0 );
 				objSearchBox.value = '';
 				break;
 		}
@@ -113,12 +114,23 @@ pageTracker._trackPageview();
 		var objSearchBox;
 		var QS;
 		var term;
-		QS = 'search='+searchOn;
+		if( searchOn == 'Members' || searchOn == 'Results' )
+		{
+			QS = 'search=Athlete';
+		}
+		else if( searchOn == 'Event' )
+		{
+			searchOn == 'Events';
+		}
+		else
+		{
+			QS = 'search='+searchOn;
+		}
 
 		switch( searchOn )
 		{
-			case 'Athlete':
-				objSearchBox = dom( 'txtSearchAthlete'+id, 0 );
+			case 'Members':
+				objSearchBox = dom( 'txtSearchMembers'+id, 0 );
 				term = objSearchBox.value;
 				if( term.indexOf( '<<' ) > -1 )
 				{
@@ -129,9 +141,24 @@ pageTracker._trackPageview();
 				var ltsExp = /<+/;
 				term = term.replace( ltsExp, "" );
 				QS = QS + '&term=' + encode( term );
+				url = "http://www.athlinks.com/search.aspx?" + QS;
 				break;
-			case 'Event':
-				objSearchBox = dom( 'txtSearchEvent'+id, 0 );
+			case 'Results':
+				objSearchBox = dom( 'txtSearchResults'+id, 0 );
+				term = objSearchBox.value;
+				if( term.indexOf( '<<' ) > -1 )
+				{
+					alert( 'Please type a name to search for in the search box.' );
+					return false;
+				}
+				// Strip off any leading "<" chars.
+				var ltsExp = /<+/;
+				term = term.replace( ltsExp, "" );
+				QS = QS + '&term=' + encode( term );
+				url = "http://www.athlinks.com/search.aspx?" + QS;
+				break;
+			case 'Events':
+				objSearchBox = dom( 'txtSearchEvents'+id, 0 );
 				term = objSearchBox.value;
 				if( term.indexOf( '<<' ) > -1 )
 				{
@@ -139,9 +166,31 @@ pageTracker._trackPageview();
 					return false;
 				}
 				QS = QS + '&term=' + encode( term );
+				url = "http://www.athlinks.com/search.aspx?" + QS;
+				break;
+			case 'Clubs':
+				objSearchBox = dom( 'txtSearchClubs'+id, 0 );
+				term = objSearchBox.value;
+				if( term.indexOf( '<<' ) < -1 )
+				{
+					alert( 'Please type a Club Name or search term in the search box.' );
+					return false;
+				}
+				QS = QS + '&term=' + encode( term );
+				url = "http://www.athlinks.com/ClubSearch.aspx?" + QS;
+				break;
+			case 'Expo':
+				objSearchBox = dom( 'txtSearchExpo'+id, 0 );
+				term = objSearchBox.value;
+				if( term.indexOf( '<<' ) < -1 )
+				{
+					alert( 'Please type a Group Name or search term in the search box.' );
+					return false;
+				}
+				QS = QS + '&term=' + encode( term );
+				url = "http://www.athlinks.com/GroupSearch.aspx?" + QS;
 				break;
 		}
-		url = "http://www.athlinks.com/search.aspx?" + QS;
 		window.location.href = url;
 	}
 	function clearBox( ctrl, defaultText )
@@ -165,84 +214,62 @@ pageTracker._trackPageview();
 
 
 <div id="PageHead">
-	<table width="972" cellpadding="0" cellspacing="0" border="0">
+	<table width="950" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
 			<td rowspan="3" width="11" style="background:url(http://www.athlinks.com/images/bg_drop_l.gif) no-repeat;"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="11" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-			<td><div id="SiteCount" style="background-color:#000000; padding:3px;"><div class="clsTag" style="float:left; font-size:10pt; letter-spacing:-.4pt; margin-right: 50px; text-align:center; width:151px;">Compete. Connect.</div><div style="text-align:center"><span class="clsCntL">Members: </span><span class="clsCntR">47,798</span><span class="clsCntL"> &nbsp;|&nbsp; </span><span class="clsCntL">Athletes: </span><span class="clsCntR">18,890,469</span><span class="clsCntL"> &nbsp;|&nbsp; Results: </span><span class="clsCntR">34,002,002</span><span class="clsCntL"> &nbsp;|&nbsp; Races: </span><span class="clsCntR">97,167</span></div></div></td>
+			<td>
+				<div id="SiteCount">
+					<table cellpadding="0" cellspacing="0" style="border:none; width:100%">
+						<tbody><tr>
+							<td style="width:150px;"><div class="clsTag">Compete. Connect.</div></td>
+							<td style="width:650px;"><div class="clsCounts"><span class="clsCntL">Members: </span><span class="clsCntR">62,145</span><span class="clsCntL"> &nbsp;|&nbsp; </span><span class="clsCntL">Athletes: </span><span class="clsCntR">22,990,185</span><span class="clsCntL"> &nbsp;|&nbsp; Results: </span><span class="clsCntR">39,943,055</span><span class="clsCntL"> &nbsp;|&nbsp; Races: </span><span class="clsCntR">113,184</span><span class="clsCntL"> &nbsp;|&nbsp; Clubs: </span><span class="clsCntR">534</span></div></td>
+							<td style="text-align:center; width:150px;"><div class="clsHelp"><a href="http://www.athlinks.com/contact.aspx">Contact Us</a> | <a href="http://www.athlinks.com/faq.aspx">F.A.Q.</a></div></td>
+						</tr>
+					</tbody></table>
+				</div>
+			</td>
 			<td rowspan="3" width="11" style="background:url(http://www.athlinks.com/images/bg_drop_r.gif) no-repeat;"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="11" height="1" hspace="0" vspace="0" border="0" alt=""></td>
 		</tr>
 		
 		<tr>
-			<td align="left" valign="top" style="background:#F13307 url(http://www.athlinks.com/images/bgHead.gif) repeat-x;">
+			<td align="left" valign="top" class="clsHeadRow">
 				<table width="950" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
-						<td width="150" align="center" rowspan="2"><a href="http://www.athlinks.com/default.aspx"><img src="http://www.athlinks.com/images/logo.gif" width="108" height="103" hspace="0" vspace="0" border="0" alt="Athlinks.com - Compete. Connect."></a></td>
-						<td width="800" align="center" valign="top">
-							<div style="height:85px;">
-								<div style="padding-top:13px; text-align:right;">
-									<table width="600" cellpadding="0" cellspacing="0" border="0" align="right">
-										<tbody><tr>
-											<td align="right" style="height:24px; width:100px"><div class="clsSearchPrompt"><b>Search</b> By:&nbsp;</div></td>
-											<td style="width:200px;" align="left">
-												<table cellpadding="1" cellspacing="0" border="0">
-													<tbody><tr>
-														<td><a onclick="SetSearch('Athlete')"><img src="http://www.athlinks.com/images/btnSearch_Athlete_Off.png" id="searchAthlete" width="74" height="24" hspace="0" vspace="0" border="0" alt="Click to Search by Athlete"></a></td>
-														<td><a onclick="SetSearch('Event')"><img src="http://www.athlinks.com/images/btnSearch_Event_Off.png" id="searchEvent" width="74" height="24" hspace="6" vspace="0" border="0" alt="Click to Search by Event"></a></td>
-														<td><a href="http://www.athlinks.com/RaceSearch.aspx"><img src="http://www.athlinks.com/images/btnSearch_Advanced_Off.png" width="74" height="24" hspace="0" vspace="0" border="0" alt="Click to Searc by Date, Place, and Category"></a></td>
-													</tr>
-												</tbody></table>
-											</td>
-											<td style="height:24px; width:200px" align="center" valign="middle" rowspan="2"><a href="http://www.athlinks.com/AddRaceSearch.aspx"><img src="http://www.athlinks.com/images/btnAddRace.png" border="0" style="height:40px; padding:10px 0px 20px 0px; width:158px;" alt="Click to Add A New Race."></a></td>
-										</tr>
-										<tr>
-											<td style="height:34px; width:100px" align="right" valign="top"><span id="lblSearchBy" class="clsSearchPromptTitle"></span>&nbsp;</td>
-											<td valign="top">
-												<table width="100%" cellpadding="0" cellspacing="0" border="0">
-													<tbody><tr>
-														<td width="100%" class="clsSearchPrompt">
-															<div id="pnlSearchAthlete" class="clsHidden"><input type="text" id="txtSearchAthlete" style="width:98%" maxlength="256" value="<< Enter Athlete Name >>" onclick="clearBox( this, '<< Enter Athlete Name >>' );"></div>
-															<div id="pnlSearchEvent" class="clsHidden"><input type="text" id="txtSearchEvent" style="width:98%" maxlength="256" value="<< Enter Event Name >>" onclick="clearBox( this, '<< Enter Event Name >>' );"></div>
-														</td>
-														<td width="32" align="left"><img src="http://www.athlinks.com/images/btnGo.png" width="31" height="20" id="btnHeadSearch" alt="Go" onclick="Search('');"></td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-								</div>
-							</div>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<table cellpadding="0" cellspacing="0" border="0">
+						<td style="text-align:center; vertical-align:top; width:150px;"><a href="http://www.athlinks.com/default.aspx"><img src="http://www.athlinks.com/images/logo.png" style="border:none; height:86px; margin:0px; padding:0px; width:94px;" alt="Athlinks.com - Compete. Connect."></a></td>
+						<td style="width:250px;"><div class="clsCallToAction"></div></td>
+						<td style="text-align:left; vertical-align:middle; width:550px">
+							<table cellpadding="0" cellspacing="0" border="0" style="width:550px">
 								<tbody><tr>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/BrowseAff.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Group Directory</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/browse.aspx?g=&amp;aF=0&amp;aC=199&amp;rC=&amp;ct=&amp;sp=&amp;ph=0&amp;dj=1&amp;p=1&amp;pS=48';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">View Members</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/GearSearch.aspx?catId=&amp;scatId=&amp;mfrId=&amp;key=&amp;p=&amp;pS=';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">View Gear</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/imagehome.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">View Photos</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/actionspy.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Action Spy</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									
-									<td width="480" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="25" height="21" hspace="0" vspace="0" border="0"></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/storeShirts.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Store</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/downloads.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Downloads</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/contact.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Contact Us</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/faq.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">F.A.Q.</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td width="20" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="20" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td>
-									<td><table cellpadding="0" cellspacing="0" border="0" style="cursor:pointer;" onclick="window.location='http://www.athlinks.com/LogIn.aspx';"><tbody><tr><td><img src="http://www.athlinks.com/images/opt_l_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td><td nowrap="" style="background:#A31401 url(http://www.athlinks.com/images/opt_bg_off.png); color: #ffffff; margin: 0px; padding: 0px; font-size: 11px; font-weight: bold;">Sign In</td><td><img src="http://www.athlinks.com/images/opt_r_off.png" width="4" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td></tr></tbody></table></td>
-									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/opt_sep.png" width="1" height="23" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td width="40px;" align="right" style="height:24px; width:80px; white-space:no-wrap"><div class="clsSearchPrompt"><strong>Find:</strong>&nbsp;</div></td>
+									<td style="width:510px;" align="left">
+										<table cellpadding="1" cellspacing="0" border="0">
+											<tbody><tr>
+												<td><a onclick="SetSearch('Results')"><img src="http://www.athlinks.com/images/btnSearch_Results_Off.png" id="searchResults" style="border:none; cursor:pointer; height:25px; margin:0 1px 0 0;" alt="Click to Search for Results by Athlete"></a></td>
+												<td><a onclick="SetSearch('Members')"><img src="http://www.athlinks.com/images/btnSearch_Members_Off.png" id="searchMembers" style="cursor:pointer; border:none; cursor:pointer; height:25px; margin:0 1px 0 0;" alt="Click to Search for Members"></a></td>
+												<td><a onclick="SetSearch('Clubs')"><img src="http://www.athlinks.com/images/btnSearch_Clubs_Off.png" id="searchClubs" style="border:none; cursor:pointer; height:25px; margin:0 1px 0 0;" alt="Click to Search for Clubs"></a></td>
+												<td><a onclick="SetSearch('Events')"><img src="http://www.athlinks.com/images/btnSearch_Events_Off.png" id="searchEvents" style="border:none; cursor:pointer; height:25px; margin:0 1px 0 0;" alt="Click to Search for Upcoming Events"></a></td>
+												<td><a onclick="SetSearch('Expo')"><img src="http://www.athlinks.com/images/btnSearch_Expo_Off.png" id="searchExpo" style="border:none; cursor:pointer; height:25px; margin:0 1px 0 0;" alt="Click to Search the Expo"></a></td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td valign="top" style="width:510px;">
+										<table cellpadding="0" cellspacing="0" border="0" style="width:510px;">
+											<tbody><tr>
+												<td style="width:350px;" class="clsSearchPrompt">
+													<div id="pnlSearchResults" class="clsHidden"><input type="text" id="txtSearchResults" maxlength="256" value="Type Your Name Here to Find Your Results..." onclick="clearBox( this, 'Type Your Name Here to Find Your Results...' );"></div>
+													<div id="pnlSearchMembers" class="clsHidden"><input type="text" id="txtSearchMembers" maxlength="256" value="<< Enter an Athlete's Name >>" onclick="clearBox( this, '<< Enter an Athlete\'s Name >>' );"></div>
+													<div id="pnlSearchClubs" class="clsHidden"><input type="text" id="txtSearchClubs" maxlength="256" value="<< Enter Club or Team Name >>" onclick="clearBox( this, '<< Enter Club or Team Name >>' );"></div>
+													<div id="pnlSearchEvents" class="clsHidden"><input type="text" id="txtSearchEvents" maxlength="256" value="<< Enter Event Name >>" onclick="clearBox( this, '<< Enter Event Name >>' );"></div>
+													<div id="pnlSearchExpo" class="clsHidden"><input type="text" id="txtSearchExpo" maxlength="256" value="<< Enter Company Name or Search Term >>" onclick="clearBox( this, '<< Enter Company Name or Search Term >>' );"></div>
+												</td>
+												<td style="text-align:left; vertical-align:middle; width:60px;"><img src="http://www.athlinks.com/images/btnGo.png" width="50" height="30" id="btnHeadSearch" alt="Go" onclick="Search('');"></td>
+												<td style="text-align:center; vertical-align:middle; width:100px;"><div class="clsSmallBW"><a href="http://www.athlinks.com/AddRaceSearch.aspx">Add A Race<img src="http://www.athlinks.com/images/bltTranArrowR.gif" style="border:none; margin-left:4px;"></a></div></td>
+											</tr>
+										</tbody></table>
+									</td>
 								</tr>
 							</tbody></table>
 						</td>
@@ -251,60 +278,87 @@ pageTracker._trackPageview();
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:solid 1px white;">
-				<div style="background-color:#650B01; clear:both; height:24px;width:950px;">
-					
-						<table width="100%" cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td align="left" valign="middle">
-									<div class="clsMedWhite" style="padding-left:10px;padding-top:3px">
-										<strong>Already Registered? <a href="http://www.athlinks.com/login.aspx?ReturnUrl=%2fhelpPrivacy.aspx"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Sign In</a>&nbsp;&nbsp;</strong>
-										<em><a href="http://www.athlinks.com/login.aspx?mode=passwordlookup"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Forgot Password</a></em>
-										<strong><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="20" height="10" hspace="4" vspace="0" border="0" align="MIDDLE" alt="">
-										Need to Register? <a href="http://www.athlinks.com/signup.aspx"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Sign Up</a></strong>
-									</div>
-								</td>
-							</tr>
-						</tbody></table>
-					
-				</div>
-				<div style="background-color:#477EDD; border-bottom:1px solid #477EDD; padding:0px; margin:0px;">
+			<td class="clsWelcomeBar">
+				<table style="border-bottom:solid 1px #ffffff; width:100%" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td style="background-color:#650b01; text-align:left; vertical-align:top; width:330px">
+							
+								<table cellpadding="0" cellspacing="0" border="0" style="background-color:#650b01; width:325px;">
+									<tbody><tr>
+										<td align="left" valign="middle">
+											<div class="clsMedWhite" style="padding-left:10px;padding-top:3px">
+												<strong><a href="http://www.athlinks.com/login.aspx?ReturnUrl=%2fhelpPrivacy.aspx"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Sign In</a>&nbsp;&nbsp;</strong>
+												<em><a href="http://www.athlinks.com/login.aspx?mode=passwordlookup"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Forgot Password</a></em>
+												<img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="10" height="10" hspace="4" vspace="0" border="0" align="MIDDLE" alt="">
+												<strong><a href="http://www.athlinks.com/signup.aspx"><img src="http://www.athlinks.com/images/bltNavW.gif" width="3" height="5" hspace="4" vspace="0" border="0" alt="Bullet">Sign Up</a></strong>
+											</div>
+										</td>
+									</tr>
+								</tbody></table>
+							
+						</td>
+						<td class="clsNavCapRight"><!--//--></td>
+						<td></td>
+						<td>
+							<table cellpadding="0" cellspacing="0" border="0" class="clsNavTable">
+								<tbody><tr>
+									<td><div style="margin-left:15px;" class="clsSearchPrompt"><strong>Browse:&nbsp;</strong></div></td>
+									<td class="clsNavCapLeft"><!--//--></td>
+									<td class="clsNavCell" style="padding-right:7px;"><div class="clsSmallBW"><a href="http://www.athlinks.com/browse.aspx?g=&amp;aF=0&amp;aC=199&amp;rC=&amp;ct=&amp;sp=&amp;ph=0&amp;dj=1&amp;p=1&amp;pS=48">Members</a></div></td>
+									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td class="clsNavCell"><div class="clsSmallBW"><a href="http://www.athlinks.com/browseAff.aspx?mode=Clubs&amp;rC=&amp;ct=&amp;sp=&amp;mem=&amp;i=&amp;at=7&amp;p=1&amp;dj=0&amp;pS=24">Clubs</a></div></td>
+									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td class="clsNavCell"><div class="clsSmallBW"><a href="http://www.athlinks.com/RaceSearch.aspx">Events &amp; Results</a></div></td>
+									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td class="clsNavCell" style="padding-left:7px;"><div class="clsSmallBW"><a href="http://www.athlinks.com/BrowseAff.aspx?mode=Expo">Expo</a></div></td>
+									<td class="clsNavCapRight"><!--//--></td>
+									<td width="1" align="left" valign="top"><img src="http://www.athlinks.com/images/util/dot_alpha.gif" width="1" height="21" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+									<td class="clsNavCapLeft"><!--//--></td>
+									<td class="clsNavCell">
+										<ul id="browseContent" style="margin:2px 0px 2px 2px;" class="clickMenu">
+											<li class="main">Content <img src="http://www.athlinks.com/images/bltArrNav.png" style="border: none; height:5px; margin:0 3px 1px 3px; width:7px;">
+												<ul>
+													<li><a href="http://www.athlinks.com/ImageHome.aspx"><img src="http://www.athlinks.com/images/icoPhotos.gif" style="border:none; height:16px; margin-right:3px; width:16px;" align="absmiddle">Photos</a></li>
+													<li><a href="http://www.athlinks.com/GearSearch.aspx?catId=&amp;scatId=&amp;mfrId=&amp;key=&amp;p=&amp;pS="><img src="http://www.athlinks.com/images/icoGear.gif" style="border:none; height:16px; margin-right:3px; width:16px;" align="absmiddle">Gear</a></li>
+													<li><a href="http://www.athlinks.com/Articles.aspx"><img src="http://www.athlinks.com/images/icon/icon_ctype_102.gif" style="border:none; height:16px; margin-right:3px; width:16px;" align="absmiddle">Articles</a></li>
+													<li><a href="http://www.athlinks.com/actionspy.aspx">Action Spy</a></li>
+												</ul>  
+											</li>  
+										</ul>
+									</td>
+									<td class="clsNavCapRight"><!--//--></td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td></td>
+						
+					</tr>
+				</tbody></table>
+				<div class="clsHeadPageHead" style="">
 					<table cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
-							<td width="220" valign="bottom"><div class="clsPageTitle" style="margin: 50 0 0 4;">Privacy Policy</div></td>
-							<td width="730" align="right">
-								
-<!-- begin ad tag (tile=1) -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/sgi.athlinks/ec;ch=gfe;vc=adate;vc=comm;vc=ep;vc=gearh;vc=ind;vc=lda;vc=outd;vc=reg;vc=sum;vc=trav;vc=h2o;vc=well;sp=allsp;sp=wint;zn=ec;pos=aflb;dcopt=ist;sz=728x90;tile=1;ord=' + sgi_ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/sgi.athlinks/ec;ch=gfe;vc=adate;vc=comm;vc=ep;vc=gearh;vc=ind;vc=lda;vc=outd;vc=reg;vc=sum;vc=trav;vc=h2o;vc=well;sp=allsp;sp=wint;zn=ec;pos=aflb;dcopt=ist;sz=728x90;tile=1;ord=5853451858749241?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/sgi.athlinks/ec;ch=gfe;vc=adate;vc=comm;vc=ep;vc=gearh;vc=ind;vc=lda;vc=outd;vc=reg;vc=sum;vc=trav;vc=h2o;vc=well;sp=allsp;sp=wint;zn=ec;pos=aflb;sz=728x90;tile=1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/sgi.athlinks/ec;ch=gfe;vc=adate;vc=comm;vc=ep;vc=gearh;vc=ind;vc=lda;vc=outd;vc=reg;vc=sum;vc=trav;vc=h2o;vc=well;sp=allsp;sp=wint;zn=ec;pos=aflb;sz=728x90;tile=1;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
-<!-- End ad tag -->
-								
-							</td>
+							<td width="220" valign="bottom"><div class="clsPageTitle" style="margin: 50px 0 0 4px;">Privacy Policy</div></td>
+							<td width="730" align="right"><iframe width="728" height="90" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://rotator.adjuggler.com/servlet/ajrotator/564935/0/vh?z=athlinks&amp;dim=564201"><script language=JavaScript src="http://rotator.adjuggler.com/servlet/ajrotator/564935/0/vj?z=athlinks&dim=564201&abr=$scriptiniframe"></script><noscript><a href="http://rotator.adjuggler.com/servlet/ajrotator/564935/0/cc?z=athlinks"><img src="http://rotator.adjuggler.com/servlet/ajrotator/564935/0/vc?z=athlinks&dim=564201&abr=$imginiframe" width="728" height="90" border="0"></a></noscript></iframe></td>
 						</tr>
 					</tbody></table>
 				</div>
 
 				
-				<div id="Notice" style="background-color:#E7F0F8; display:none; width:950px;">
-					<div style="cursor:pointer;padding:4px;" onclick="MarkNoticeAsRead('7');window.location='http://www.athlinks.com/myContentDisplay.aspx?itemid=101619';">
-						<span class="clsBody"><img src="http://www.athlinks.com/images/icon/icon_ctype_105.gif" style="border:solid 1px white;" hspace="3" vspace="0" border="0" align="absmiddle"><strong>New Feature: Mapping Athlinks - Help map the start points for all 90,000+ races in Athlinks!</strong> Read more about Phase 1 and how you can help.</span>
-					</div>
+				<div id="Notice2" style="background-color:#f3f3f3; border-bottom:solid 1px #cccccc; width:950px;">
+<iframe width="950" height="24" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://rotator.adjuggler.com/servlet/ajrotator/587625/0/vh?z=athlinks&amp;dim=587634"><script language=JavaScript src="http://rotator.adjuggler.com/servlet/ajrotator/587625/0/vj?z=athlinks&dim=587634&abr=$scriptiniframe"></script><noscript><a href="http://rotator.adjuggler.com/servlet/ajrotator/587625/0/cc?z=athlinks"><img src="http://rotator.adjuggler.com/servlet/ajrotator/587625/0/vc?z=athlinks&dim=587634&abr=$imginiframe" width="950" height="24" border="0"></a></noscript></iframe>
 				</div>
 			</td>
 		</tr>
 	</tbody></table>
 </div>
 <script language="javascript" type="text/javascript">
-$(document).ready(function() {
-	//if($("#Alert").is("div"))
-	//{
-	//	//$("#Alert").BlindDown(500);
-	//	$("#Alert").show();
-	//}
+$(document).ready(function()  
+{  
+    $('#personalOptions').clickMenu();  
+    $('#browseContent').clickMenu();  
 	if($("#Notice").is("div"))
 	{
-		if( ShowNotice( '7' ) )
+		if( ShowNotice( '13' ) )
 		{
 			$("#Notice").show();
 		}
@@ -324,6 +378,7 @@ function MarkNoticeAsRead( noticeID )
 	$("#Notice").hide('fast');
 }
 </script>
+
 
 	<div id="PageBody">
 
@@ -643,19 +698,18 @@ function MarkNoticeAsRead( noticeID )
 	</div>
 
 	
-<div id="Foot">
-	<div style="background-color:#ffffff; height:50px;"><!--//--></div>
+<div id="Foot" style="margin:50px auto 20px auto;">
 	<div style="padding:12px;">
-		<a href="http://www.busot.com" target="_blank"><img src="http://www.busot.com/busot/images/busot_button.gif" width="88" height="31" hspace="0" vspace="0" border="0" align="right"></a>
-		<div class="clsSmall" style="padding-left:20px; padding-right:20px;">
+		<div class="clsSmall" style="padding:3px 10px 3px 10px;">
 			<a href="http://www.athlinks.com/default.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Home</a> | 
-			<a href="http://www.athlinks.com/BrowseAff.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Business Directory</a> |
-			<a href="http://www.athlinks.com/browse.aspx?g=&amp;aF=0&amp;aC=199&amp;rC=&amp;ct=&amp;sp=&amp;ph=0&amp;dj=1&amp;p=1&amp;pS=48"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Member Directory</a> |
+			<a href="http://www.athlinks.com/BrowseAff.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Browse Groups</a> |
+			<a href="http://www.athlinks.com/browse.aspx?g=&amp;aF=0&amp;aC=199&amp;rC=&amp;ct=&amp;sp=&amp;ph=0&amp;dj=1&amp;p=1&amp;pS=48"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Browse Members</a> |
 			<a href="http://www.athlinks.com/athletes.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Athlete Directory</a> |
-			<a href="http://www.athlinks.com/SupportContent.aspx?content=faq"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">F.A.Q.</a> |
+			<a href="http://www.athlinks.com/faq.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">F.A.Q.</a> |
+			<a href="http://www.athlinks.com/Expo/default.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Advertising &amp; Expo</a> |
 			<a href="http://www.athlinks.com/contact.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Contact Us</a> |
 			<a href="http://www.athlinks.com/helpPrivacy.aspx"><img src="http://www.athlinks.com/images/bltArrowRight.gif" height="9" width="11" hspace="5" vspace="0" border="0" alt="Bullet">Privacy Policy</a>
-			<div class="clsSmall">&nbsp;&nbsp; © Copyright 2001-2008, Athlinks.com. All rights reserved. (602) 430-0237</div>
+			<div class="clsSmall">&nbsp;&nbsp; © Copyright 2001-2009, Athlinks.com. All rights reserved. (602) 430-0237</div>
 			<div class="clsSmallDim">&nbsp;&nbsp; Licensed – U.S. Patent No. 6,985,875 and 7,047,214.</div>
 		</div>
 <!-- Foot End //-->
@@ -669,11 +723,11 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-2421114-1");
-pageTracker._setDomainName("athlinks.com");
-pageTracker._initData();
+pageTracker._setDomainName(".athlinks.com");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 
      </form>
 	
