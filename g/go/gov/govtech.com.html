@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the govtech.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217090256id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govtech.com privacy policy that was archived on 2009-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414222356id_/http%3A//www.govtech.com/gt/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -38,6 +38,7 @@
             <script type="text/javascript" src="/common/js/toggle-mags.js"></script>
             <script type="text/javascript" src="/briefcase/js/widgets.js"></script>
             <script type="text/javascript" src="/common/js/premium.js"></script>
+            <script type="text/javascript" src="/yaas/Er_Ext_Wrapper.js"></script>
         
         
     <script type="text/javascript" language="javascript">
@@ -47,16 +48,16 @@
         function squashFrame(frame)
         {
             var frame_content = window.frames[frame].document.documentElement.innerHTML;
-            
             if ( 
-                (frame_content.indexOf('AE0.gif') != -1) ||
+                ((frame_content.indexOf('AE0.gif') != -1) ||
                 (frame_content.indexOf('AE1.gif') != -1) ||
                 (frame_content.indexOf('DS0.gif') != -1) ||
-                (frame_content.indexOf('DS1.gif') != -1)
+                (frame_content.indexOf('DS1.gif') != -1)) &&
+                frame_content.indexOf('.swf') == -1
             )
             {
                 Ext.get(frame).remove();
-            }
+            }           
         }
         
         function writeAd(server, position, width, height, div)
@@ -64,7 +65,7 @@
 
             var tmpDiv  = 'tmp_' + div;
             var frame   = 'frame_' + div;
-            
+
             document.write('<div id="'+tmpDiv+'">'+
                             '<iframe id="'+frame+'" name="'+frame+'" '+
                             'onload="squashFrame(\''+frame+'\');" '+
@@ -75,7 +76,6 @@
                             'allowTransparency="true" style="background:transparent"></iframe></div>');
             
             document.getElementById(div).appendChild(document.getElementById(tmpDiv));
-        
         }
         
         //-->
@@ -130,53 +130,6 @@ function trackAnalytics(link)
             <!-- aac: /site=gt/area=_privacy_policy -->
  
 
-	<style type="text/css">
-	#small, #large {position: absolute; right:0; top:0;}
-	#small {z-index: 121;}
-	#large {z-index: 120;}
-	</style>
-	
-    
-    <div id="ad_T1"> 
-    
-    <script type="text/javascript">
-    <!--
-        var p = 'T1';
-        
-                 
-        if ((p == 'R4') || (p == 'T1') || (p == 'T4') || (p.indexOf('tl') != -1))
-        {
-            
-                    
-            document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/hserver/site=gt/area=_privacy_policy/aamsz=940x940/position=T1/acc_random=108322382' + 
-                '/pageid=108322382\">' + '</SCR'+'IPT>');
-                    
-        }
-        else
-        {
-        
-        	var ad         = {};
-        	ad.aamb        = 'AAMB_T1';
-        	ad.div         = 'ad_T1';
-        	ad.source      = '/AAMB_T1/site=gt/area=_privacy_policy/aamsz=940x940/position=T1';
-        	ad.server      = 'hserver';
-        	ad.position    = '/site=gt/area=_privacy_policy/aamsz=940x940/position=T1';
-        	ad.width       = '940';
-        	ad.height      = '940';
-        	
-            ads.push(ad);
-            
-        }
-        
-    // -->
-    </script><script src="http://erepub.adbureau.net/hserver/site=gt/area=_privacy_policy/aamsz=940x940/position=T1/acc_random=108322382/pageid=108322382"></script>
-    
-    </div>
-
-    
-
-
 
     
     <div id="ad_T2" class="base f-left mr-10"> 
@@ -191,8 +144,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=728x90/position=T2/acc_random=1674549215' + 
-                '/pageid=1674549215\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=728x90/position=T2/acc_random=180118666' + 
+                '/pageid=180118666\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -232,8 +185,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x90/position=T3/acc_random=809647185' + 
-                '/pageid=809647185\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x90/position=T3/acc_random=1917568006' + 
+                '/pageid=1917568006\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -274,7 +227,8 @@ function trackAnalytics(link)
         <li><a href="/blogs/index">Blogs</a></li>  
         <li><a href="/dc/index">Digital Communities</a></li> 
         <li><a href="/gt/video">Video</a></li> 
-        <li><a href="/events/index">Events</a></li> 
+        <li><a href="/events/index">Events</a></li>
+        <li><a href="/gt/webinars">Webinars</a></li> 
         <li><a href="/gt/magazines">Magazines</a></li> 
         <li><a href="/gt/advertise">Advertise</a></li>
         <li class="mygt-top"><a href="/briefcase">MyGT <span></span></a></li>
@@ -286,10 +240,11 @@ function trackAnalytics(link)
 
 <div id="masthead">
 
-    <a href="/gt/" onclick="trackAnalytics('homepage_logo_big');">
-        <img class="ml-10" src="/common/themes/2008/images/logos/gt-logo.gif" alt="Government Technology: State &amp; Local Government News Articles">
-    </a>
-    
+    <a href="/" onclick="trackAnalytics('homepage_logo_big');" class="f-left mr-10">
+        <img class="ml-10" src="/common/themes/2008/images/logos/gt-logo.gif" alt="Government Technology: State &amp; Local Government News Articles" align="bottom">
+    </a>     
+       
+        
     <div id="mygt-login">
         
         <form action="/gt/search.php" method="get" id="search_form">
@@ -332,9 +287,7 @@ function trackAnalytics(link)
             
             <input type="text" name="qs" class="search-field" value=" Search" onclick="checkSearch(this)" onblur="checkSearch(this);">
             <input type="image" id="top-submit" src="/common/themes/2008/images/icons/go.gif" alt="Search">
-            
-        </form>
-        
+        </form><br>
     </div>
     
 </div>
@@ -344,20 +297,40 @@ function trackAnalytics(link)
                 <div class="rounded-top-980 mt-10 hd"></div>
         
     <div id="content-container">
-        <!-- begin left column -->
-<div id="l-col" class="w-170 f-left">
+        <div id="l-col" class="w-170 f-left">
     <div class="nav-left">
         
     <div class="nav-left-top-bg"></div>
-                <ul>
-                    <li><span><a href="/">Home</a></span></li>
-                    <li><a href="/gt/toc.php">Current Issue</a></li>
-                    <li><a href="/gt/pastissues.php">Past Issues</a></li>
-                    <li><a href="/gt/subscribe.php">Subscribe</a></li>
-                    <li><a href="/gt/privacy_policy.php">Privacy Policy</a></li>
-                    <li><a href="/gt/advertise.php">Advertise</a></li>
-                    <li class="first pb-20"><a href="/gt/contact.php">Contact</a></li>
-                </ul>
+<ul>
+    
+    <li><span><a href="/gt/more.php?code=GT_NEWS&amp;format=tag_articles_gt_top_news">Government Technology News Articles</a></span></li>
+    
+    <li><a href="/dc/">Digital Communities</a></li>    
+    <li><a href="/gt/289136">Economic Stimulus</a></li>
+    <li><a href="/em/">Emergency Management</a></li>
+    <li><a href="/gt/290174">Emerging Technologies</a></li>    
+    <li><a href="/gt/290180">Enterprise Technology</a></li>    
+    <li><a href="/gt/117676">Geospatial</a></li>
+    <li><a href="/gt/290183">Green Initiatives</a></li>
+    <li><a href="/gt/117691">Products</a></li>
+    <li><a href="/pcio/">Public CIO</a></li>
+    <li><a href="/gt/117680">Public Safety</a></li>
+    <li><a href="/gt/117671">Security</a></li>    
+    <li class="last"><a href="/gt/topics">View All News Topics…</a></li>
+    
+    <li><span><a href="/gt/enl_subscribe.php">Get News Via Email</a></span></li>
+    
+    <li><span>Industry Perspectives</span></li>
+    <li><a href="/gt/case_studies.php">Case Studies</a></li>
+    <li><a href="/gt/papers">White Papers</a></li>
+    <li class="last"><a href="http://govtech.firstlightera.com/" target="_blank">Partner Sites</a></li>
+
+       
+    <li><span>Government Technology Magazine</span></li>
+    <li><a href="/gt/toc.php">Current Issue</a></li>
+    <li><a href="/gt/subscribe.php">Subscribe</a></li>
+    <li class="nav-last last"><a href="/gt/contact.php">Contact</a></li>
+</ul>
 
       <div class="nav-left-bottom-bg"></div>
 </div>    
@@ -376,8 +349,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=L1/acc_random=2080574267' + 
-                '/pageid=2080574267\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=L1/acc_random=340226749' + 
+                '/pageid=340226749\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -414,8 +387,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x120/position=L2/acc_random=101921536' + 
-                '/pageid=101921536\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x120/position=L2/acc_random=1254137271' + 
+                '/pageid=1254137271\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -452,8 +425,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x90/position=L3/acc_random=3430608' + 
-                '/pageid=3430608\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x90/position=L3/acc_random=442639181' + 
+                '/pageid=442639181\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -490,8 +463,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=L4/acc_random=1669859050' + 
-                '/pageid=1669859050\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=L4/acc_random=1490767577' + 
+                '/pageid=1490767577\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -599,11 +572,11 @@ function trackAnalytics(link)
     			in our community features such as forums, user opinions and comments, and other forms 
     			of public communication and interaction.</li>
     	
-    	<li>You use cobranded services (i.e., sites or services that we offer to you in connection 
-    			with a partner, who is identified on the site). When you use a cobranded service 
-    			within our network of sites, you grant us permission to pass your registration 
-    			information back to that service partner. Their use of your information is subject 
-    			to their applicable privacy policies.</li>
+    	<li>You use cobranded services (i.e., sites or services that we offer to you in connection with
+    			 a partner, who is identified on the site). When you use a cobranded service within our 
+    			 network of sites, you grant us permission to pass your registration information and 
+    			 applicable survey responses back to that service partner. Their use of your information
+    			  is subject to their applicable privacy policies.</li>
     	
     	<li>We hire third-party vendors to provide specialized services such as customer support; email 
     			message deployment; suppression, merge and de-duplication services; data processing; 
@@ -673,72 +646,54 @@ function trackAnalytics(link)
 
 <!-- begin right column -->
 <div id="r-col" class="f-left w-300 ml-10">
+                                <h1 id="video_header">Video     <a href="http://public-xml.feedroom.com/public_rss/erepublic_feeds.html?&amp;showfrbrand=0&amp;hvar=http%3A%2F%2Fwww.govtech.com%2Fgt%2Fvideo%2F"><img class="inline-icon" src="/common/themes/2008/images/icons/rss-icon-16x16.gif"></a>
+</h1>
+        <ul>
+        
+                        
+                                       
+            
+        <li style="display:inline;">
+            <a href="/gt/video?id=638339"><img src="http://feedroom.speedera.net/static.feedroom.com/t_assets/20090410/8952f2ee5ae894d4d4f2793b480b14ee4229cb37.jpg" class="w-90" alt="Government's Future Cloudy?" align="left"></a>
+            <div style="padding-left: 100px;">
+            <a href="/gt/video?id=638339">Government's Future Cloudy?</a><br>
+            Are Microsoft and IBM in the eye of the storm?
+            </div>
+            <div style="clear:both;"></div>
+        </li>
+        <br clear="all">
+        
+                        
+                                       
+            
+        <li style="display:inline;">
+            <a href="/gt/video?id=638055"><img src="http://feedroom.speedera.net/static.feedroom.com/t_assets/20090409/47b632a60cb0e42bc6c07a1f79573f9916046823.jpg" class="w-90" alt="Help From Above 1" align="left"></a>
+            <div style="padding-left: 100px;">
+            <a href="/gt/video?id=638055">Help From Above 1</a><br>
+            See a satellite phone call and web chat from a device no bigger than a laptop. If that is still too big, they have an even smaller one.   
+            </div>
+            <div style="clear:both;"></div>
+        </li>
+        <br clear="all">
+        
+                        
+                                       
+            
+        <li style="display:inline;">
+            <a href="/gt/video?id=638057"><img src="http://feedroom.speedera.net/static.feedroom.com/t_assets/20090409/ca61d301c57b5bf73bce00f5c359d0a085daabf6.jpg" class="w-90" alt="Help From Above 2" align="left"></a>
+            <div style="padding-left: 100px;">
+            <a href="/gt/video?id=638057">Help From Above 2</a><br>
+            When all other communication is gone this may be your only hope. See a demo on the setup and software of this compact satellite transmitter.
+            </div>
+            <div style="clear:both;"></div>
+        </li>
+        <br clear="all">
+        </ul>
+    <div style="clear: both;"></div>
                 
-
-<link rel="stylesheet" type="text/css" href="/common/themes/2008/feed-room.css">
-<script type="text/javascript" src="http://natalie.feedroom.com/fr_embed.js"></script>
-
-<div class="mb-10" style="position: relative;">
-
-        
-        <a class="flashversion" id="flashversion_49479e3de335a" style="background: url(/common/themes/2008/images/icons/upgrade_player.gif); visibility: hidden;" href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">   
-        </a>
-        
-        
-        
-        <script type="text/javascript">
-            // <![CDATA[
-                (function()
-                {
-                    var version = deconcept.SWFObjectUtil.getPlayerVersion();
-                    if (version.major < 9 || (version.major == 9 && version.minor == 0 && version.rev < 115))//success == false)
-                    {
-                        var el = Ext.get("flashversion_49479e3de335a");
-                    
-                        el.setOpacity(0);
-                        el.setVisible(1);
-                        
-                        el.on('mouseover', function() {
-                            el.setOpacity(1);
-                        });
-                        
-                        el.on('mouseout', function() {
-                            el.setOpacity(0);
-                        });
-                    }
-                })();   // wrapping this in an anonymous function to avoid namespace issues with multiple players
-            // ]]>
-        </script>
-        
-        
-        
-        <div class="fdrm_player" id="fdrm_player_49479e3de3b2a">
-        	You need to upgrade your flash player to view video. <br>
-        	<a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank"> Click Here </a>to download the latest flash player version.
-        </div>
-        
-        <script type="text/javascript">
-            var so = new FlashObject("http://natalie.feedroom.com/erepublic/natshow/Player.swf","Player", "290", "325", "9");
-            so.addVariable("skin", "natshow");
-            so.addVariable("site", "erepublic");
-            so.addVariable("fr_chl", "28193db5469e1f06cc8a5802a0408c7dec17363a");
-            so.addVariable("hostURL", document.location.href);
-            so.addVariable("stories","99");
-            so.addParam("quality", "high");
-            so.addParam("wmode","transparent");
-            so.addParam("allowFullScreen", "true");
-            so.addParam("menu", "false");
-            //so.useExpressInstall("/common/themes/2007/images/flash/expressinstall.swf");
-            so.write("fdrm_player_49479e3de3b2a");
-        </script>
-        
-        <div class="fdrm_footer" style="">
-
-	        	        
-	           	        	  <a href="http://www.govtech.com/gt/video" class="btn"><i></i><span><span></span><i></i>More Video &gt;</span></a>
-	           	           
-	        	            
-            <span class="f-right">
+                 <a href="http://www.govtech.com/gt/video" class="btn"><i></i><span><span></span><i></i>More Video &gt;</span></a>
+                      
+        <span class="f-right">
     <div id="ad_tv1"> 
     
     <script type="text/javascript">
@@ -751,8 +706,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x50/position=tv1/acc_random=483817775' + 
-                '/pageid=483817775\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x50/position=tv1/acc_random=983451318' + 
+                '/pageid=983451318\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -776,20 +731,12 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_tv1"><iframe id="frame_ad_tv1" name="frame_ad_tv1" onload="squashFrame('frame_ad_tv1');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=120x50/position=tv1" width="120" height="50" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-</span>
-			<br class="clear">
+</span>    
+    <span></span>
+    <div style="clear:both;"></div>    
+            
 
-        </div>
-		
-		<div class="fdrm_rounded_bottom"></div>
-
-</div>
-
-        
-    <div class="ads-inner">
-            <span></span>
-             
-               
+<div class="ads-inner">
             
     <div id="ad_R1"> 
     
@@ -803,8 +750,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x180/position=R1/acc_random=1591562341' + 
-                '/pageid=1591562341\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x180/position=R1/acc_random=654557682' + 
+                '/pageid=654557682\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -828,8 +775,8 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R1"><iframe id="frame_ad_R1" name="frame_ad_R1" onload="squashFrame('frame_ad_R1');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=300x180/position=R1" width="300" height="180" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
+        
     
-            
     <div id="ad_R2"> 
     
     <script type="text/javascript">
@@ -842,8 +789,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R2/acc_random=163099893' + 
-                '/pageid=163099893\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R2/acc_random=562412566' + 
+                '/pageid=562412566\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -867,7 +814,7 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R2"><iframe id="frame_ad_R2" name="frame_ad_R2" onload="squashFrame('frame_ad_R2');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=300x250/position=R2" width="300" height="250" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-                           
+                   
             
     <div id="ad_R3"> 
     
@@ -881,8 +828,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x180/position=R3/acc_random=662004833' + 
-                '/pageid=662004833\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x180/position=R3/acc_random=1532350190' + 
+                '/pageid=1532350190\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -907,7 +854,7 @@ function trackAnalytics(link)
     <div id="tmp_ad_R3"><iframe id="frame_ad_R3" name="frame_ad_R3" onload="squashFrame('frame_ad_R3');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=300x180/position=R3" width="300" height="180" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
     
-            
+    
     <div id="ad_R4" class="clear-l mb-10 mt-10"> 
     
     <script type="text/javascript">
@@ -920,8 +867,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R4/acc_random=2003936310' + 
-                '/pageid=2003936310\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R4/acc_random=217373743' + 
+                '/pageid=217373743\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -941,14 +888,14 @@ function trackAnalytics(link)
         }
         
     // -->
-    </script><script src="http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R4/acc_random=2003936310/pageid=2003936310"></script>
+    </script><script src="http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R4/acc_random=217373743/pageid=217373743"></script>
     
     </div>
 
-                    
-                    <div class="w-260 center">
-                            <div class="f-left mt-10 w-120">
-                                
+            
+            <div class="w-260 center">
+            <div class="f-left mt-10 w-120">
+                
     <div id="ad_R6"> 
     
     <script type="text/javascript">
@@ -961,8 +908,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x60/position=R6/acc_random=671474746' + 
-                '/pageid=671474746\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x60/position=R6/acc_random=578805920' + 
+                '/pageid=578805920\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -986,10 +933,10 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R6"><iframe id="frame_ad_R6" name="frame_ad_R6" onload="squashFrame('frame_ad_R6');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=120x60/position=R6" width="120" height="60" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-                            </div>
-            
-                            <div class="f-left mt-10 pl-10 w-120">
-                                
+            </div>
+    
+            <div class="f-left mt-10 pl-10 w-120">
+                
     <div id="ad_R7"> 
     
     <script type="text/javascript">
@@ -1002,8 +949,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x60/position=R7/acc_random=1524129502' + 
-                '/pageid=1524129502\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x60/position=R7/acc_random=1060562929' + 
+                '/pageid=1060562929\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -1027,12 +974,11 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R7"><iframe id="frame_ad_R7" name="frame_ad_R7" onload="squashFrame('frame_ad_R7');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=120x60/position=R7" width="120" height="60" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-                            </div>
-                    </div>
+            </div>
+        </div>
     
+    <div class="pt-10 center clear">
         
-                    <div class="pt-10 center clear">
-                        
     <div id="ad_R5"> 
     
     <script type="text/javascript">
@@ -1045,8 +991,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=R5/acc_random=1739631126' + 
-                '/pageid=1739631126\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=160x600/position=R5/acc_random=1505533929' + 
+                '/pageid=1505533929\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -1070,10 +1016,10 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R5"><iframe id="frame_ad_R5" name="frame_ad_R5" onload="squashFrame('frame_ad_R5');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=160x600/position=R5" width="160" height="600" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-                    </div>   
-                                
-                    <div class="pt-10 center clear">
-                        
+    </div>   
+                
+    <div class="pt-10 center clear">
+        
     <div id="ad_R8"> 
     
     <script type="text/javascript">
@@ -1086,8 +1032,8 @@ function trackAnalytics(link)
             
                     
             document.write('<SCRIPT SRC=\"' + 
-                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R8/acc_random=331844374' + 
-                '/pageid=331844374\">' + '</SCR'+'IPT>');
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=300x250/position=R8/acc_random=1699908279' + 
+                '/pageid=1699908279\">' + '</SCR'+'IPT>');
                     
         }
         else
@@ -1111,11 +1057,8 @@ function trackAnalytics(link)
     
     <div id="tmp_ad_R8"><iframe id="frame_ad_R8" name="frame_ad_R8" onload="squashFrame('frame_ad_R8');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=300x250/position=R8" width="300" height="250" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-                    </div>
-                
-        
-             
     </div>
+</div>
 </div>        <br class="clear hd">
     </div>
     <div class="rounded-bottom-980 mb-10 hd"></div>
@@ -1129,9 +1072,7 @@ function trackAnalytics(link)
             <a href="/gt/">Government Technology</a>, 
             <a href="/dc/">Digital Communities</a>,  
             <a href="/pcio/">Public CIO</a>,  
-            <a href="/em/">Emergency Management</a>, 
-            <a href="/tt">Texas Technology</a>,  
-            <a href="/gt/enl_subscribe.php">Email Newsletters</a>,  
+            <a href="/em/">Emergency Management</a>,  
             <a href="/gt/gt_advertise.php">Advertise</a>
     </div>
     
@@ -1150,24 +1091,23 @@ function trackAnalytics(link)
     </div>
     
     <div class="qtr-col">
-        <strong>Top 10 News Topics:</strong> 
-            <a href="/gt/285205">CIO/CTO</a>, 
-            <a href="/gt/289136">Economic Development</a>, 
-            <a href="/gt/290167">Emergency Management</a>, 
-            <a href="/gt/290182">Funding</a>, 
-            <a href="/gt/117676">Geospatial</a>, 
-            <a href="/gt/290183">Green Initiatives</a>, 
-            <a href="/gt/117677">Health Services</a>, 
-            <a href="/gt/117688">Policy/Management</a>, 
-            <a href="/gt/117680">Public Safety/Justice</a>, 
-            <a href="/gt/117671">Security</a>,
-            <a href="http://www.govtech.com/gt/more.php?code=GT_NEWS&amp;format=tag_articles_gt_top_news">All Government News</a>
+        <strong>Email Newsletters to Stay Informed:</strong>       
+        <a href="/gt/enl_subscribe.php">Executive News</a>, 
+        <a href="/gt/enl_subscribe.php">Digital Communities</a>,         
+        <a href="/gt/enl_subscribe.php">Emergency Management</a>,  
+        <a href="/gt/enl_subscribe.php">Public CIO</a>, 
+        <a href="/gt/enl_subscribe.php">Security</a>,  
+        <a href="/gt/enl_subscribe.php">Justice and Public Safety</a>, 
+        <a href="/gt/enl_subscribe.php">Webinars</a>.         
     </div>
     
     <div class="qtr-col">
-        Site owned by <a href="http://www.erepublic.com" target="_blank"><strong>e.Republic, Inc.</strong></a>, the nation's 
-        leading publishing, research, event, and new media company focused on information technology for 
-        the state/local government and education markets. Copyright © 1995-2008. All rights reserved. <a href="http://www.erepublic.com/" target="_blank" title="eRepublic Website">eRepublic</a>, Inc.
+                                    
+        Follow us on: <a href="http://twitter.com/govtechnews" target="_blank"><img src="http://media.govtech.net/GOVTECH_WEBSITE/HOMEPAGE/twitter_icon.gif"> twitter</a><br>
+        Site owned by <a href="http://www.erepublic.com" target="_blank">e.Republic, Inc.</a><br>
+		100 Blue Ravine Rd. Folsom, CA 95630.<br>
+		916-932-1300<br>
+		Copyright © 1995-2008. All rights reserved.<br>
     </div>
     
     <br class="clear">
@@ -1198,34 +1138,24 @@ function trackAnalytics(link)
                 <p> Digital Communities Magazine is the premier information source for cities, counties and regions to explore and share experiences and best practices beyond just infrastructure and mobile innovations.</p>
                 <a href="/dc/subscribe.php" class="btn"><i></i><span><span></span><i></i>Get FREE Subscription</span></a>
             </div>
-            
-            <div id="div5" class="base">
-                <h3>Texas Technology Magazine </h3>
-                <p> Texas Technology Magazine provides technology news and solutions to the Texas public sector community.</p>
-                <a href="/tt/subscribe.php" class="btn"><i></i><span><span></span><i></i>Get FREE Subscription</span></a>
-            </div>
-    
+               
             <div id="mag-images">
     		
     		    		
                 <a href="/gt/toc.php" onmouseover="toggleDiv('gt-mag',1)">
-                                                <img src="http://media.govtech.net/pub_images/gt/GT_Dec08/cover/Cover.jpg" alt="GT December 2008 Cover">
+                                                <img src="http://media.govtech.net/pub_images/gt/GT April 09/cover/cover.jpg" alt="GT_April09_Cover">
                 </a>
                 
                 <a href="/em/toc.php" onmouseover="toggleDiv('div2',1)">
-                                                <img src="http://media.govtech.net/pub_images/emgmt/EMNov08/EM08_cover.jpg" alt="Fall 2008 EM Cover">
+                                                <img src="http://media.govtech.net/pub_images/emgmt/EM_MarchApril_09/EMcoverMarch.jpg" alt="Emergency Management March/April 2009 Cover">
                 </a>
                 
                 <a href="/pcio/toc.php" onmouseover="toggleDiv('div3',1)">
-                                                <img src="http://media.govtech.net/pub_images/pcio/PCIO_Oct_Nov/PCIOcover10_08.jpg" alt="PCIO Cover Oct Nov 2008">
+                                                <img src="http://media.govtech.net/pub_images/pcio/PCIOFeb09/cover/PCIOcov_FebMar09.jpg" alt="Public CIO FebMar09 Cover">
                 </a>
                 
                 <a href="/dc/toc.php" onmouseover="toggleDiv('div4',1)">
-                                                <img src="http://media.govtech.net/pub_images/DC/DC_Sept08/DC09_Cover.jpg" alt="DC Fall 2008">
-                </a>
-                
-                <a href="/tt/toc.php" onmouseover="toggleDiv('div5',1)">
-                                                <img src="http://media.govtech.net/pub_images/TT/TT_Fall08/TTcover04_08.jpg" alt="Tim Howell, IT analyst, Hutto, Texas, Fall 2008 Texas Tech">
+                                                <img src="http://media.govtech.net/pub_images/DC/DCmarch09/Cover/cover.jpg" alt="DC_March_09_Cover">
                 </a>
             </div>
             <br class="clear"> 
@@ -1242,33 +1172,85 @@ function trackAnalytics(link)
 <br style="height: 10px; line-height: 10x; clear: both;">
 
 
-        
-
-<div id="ad_B1" class="base f-left mr-10">
-
-<script type="text/javascript">
-<!--
-    document.write('<SCRIPT SRC=\"' + 
-            'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=728x90/position=B1/acc_random=1904362241' + 
-            '/pageid=1904362241\">' + '</SCR'+'IPT>');
-// -->
-</script><script src="http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=728x90/position=B1/acc_random=1904362241/pageid=1904362241"></script>
-
-</div>
     
-	    
+    <div id="ad_B1" class="base f-left mr-10"> 
+    
+    <script type="text/javascript">
+    <!--
+        var p = 'B1';
+        
+                                     
+        if ((p == 'R4') || (p == 'T1') || (p == 'T4') || (p.indexOf('tl') != -1))
+        {
+            
+                    
+            document.write('<SCRIPT SRC=\"' + 
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=728x90/position=B1/acc_random=1667035899' + 
+                '/pageid=1667035899\">' + '</SCR'+'IPT>');
+                    
+        }
+        else
+        {
+        
+        	var ad         = {};
+        	ad.aamb        = 'AAMB_B1';
+        	ad.div         = 'ad_B1';
+        	ad.source      = '/AAMB_B1/site=gt/area=_privacy_policy/aamsz=728x90/position=B1';
+        	ad.server      = 'jserver';
+        	ad.position    = '/site=gt/area=_privacy_policy/aamsz=728x90/position=B1';
+        	ad.width       = '728';
+        	ad.height      = '90';
+        	
+            ads.push(ad);
+            
+        }
+        
+    // -->
+    </script>
+    
+    <div id="tmp_ad_B1"><iframe id="frame_ad_B1" name="frame_ad_B1" onload="squashFrame('frame_ad_B1');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=728x90/position=B1" width="728" height="90" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-<div id="ad_B2">
 
-<script type="text/javascript">
-<!--
-    document.write('<SCRIPT SRC=\"' + 
-            'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x90/position=B2/acc_random=1937249209' + 
-            '/pageid=1937249209\">' + '</SCR'+'IPT>');
-// -->
-</script><script src="http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x90/position=B2/acc_random=1937249209/pageid=1937249209"></script>
+    
+	
+    <div id="ad_B2"> 
+    
+    <script type="text/javascript">
+    <!--
+        var p = 'B2';
+        
+                                     
+        if ((p == 'R4') || (p == 'T1') || (p == 'T4') || (p.indexOf('tl') != -1))
+        {
+            
+                    
+            document.write('<SCRIPT SRC=\"' + 
+                'http://erepub.adbureau.net/jserver/site=gt/area=_privacy_policy/aamsz=120x90/position=B2/acc_random=1103743666' + 
+                '/pageid=1103743666\">' + '</SCR'+'IPT>');
+                    
+        }
+        else
+        {
+        
+        	var ad         = {};
+        	ad.aamb        = 'AAMB_B2';
+        	ad.div         = 'ad_B2';
+        	ad.source      = '/AAMB_B2/site=gt/area=_privacy_policy/aamsz=120x90/position=B2';
+        	ad.server      = 'jserver';
+        	ad.position    = '/site=gt/area=_privacy_policy/aamsz=120x90/position=B2';
+        	ad.width       = '120';
+        	ad.height      = '90';
+        	
+            ads.push(ad);
+            
+        }
+        
+    // -->
+    </script>
+    
+    <div id="tmp_ad_B2"><iframe id="frame_ad_B2" name="frame_ad_B2" onload="squashFrame('frame_ad_B2');" src="/common/ads/iframe_src.php?timer=0&amp;server=jserver&amp;position=/site=gt/area=_privacy_policy/aamsz=120x90/position=B2" width="120" height="90" noresize="" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" style="background:transparent"></iframe></div></div>
 
-</div>	
+	
 	
             </div>
 
@@ -1281,11 +1263,21 @@ function trackAnalytics(link)
     for (var i = 0; i < ads.length; i++)
     {
         writeAd(ads[i]['server'], ads[i]['position'], ads[i]['width'], ads[i]['height'], ads[i]['div']);
-    }
+    }   
 // -->
 </script>
 
 <div id="tmp-ad"></div>
+
+
+    <!-- Start of HubSpot Logging Code -->
+    <script type="text/javascript" language="javascript">
+        var hs_portalid=42201;
+        var hs_salog_version = "2.00";
+        var hs_ppa = "govtech.hubspot.com"
+        document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://govtech.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+    <!-- End of HubSpot Logging Code -->
 
 
 </body></html>
