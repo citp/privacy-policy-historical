@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mywii.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022010id_/http%3A//www.mywii.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywii.com.au privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414073312id_/http%3A//mywii.com.au/Privacy.aspx) for the most accurate reproduction.*
 
-# MyWii - The Best Australian Nintendo Wii Site
+# MyWii - The Best Nintendo Wii Community
 
 ## What is the Privacy Policy about?
 
@@ -43,7 +43,7 @@ Below are more details about how MyWii uses your personal information and the sp
 
   1. **Email Newsletters**
 
-Users of MyWii are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyWii send you or simply visit the [profile page](https://web.archive.org/web/20081219022010id_/http%3A//www.mywii.com.au/mii.aspx) to update your profile. 
+Users of MyWii are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyWii send you or simply visit the [profile page](https://web.archive.org/web/20090414073312id_/http%3A//mywii.com.au/mii.aspx) to update your profile. 
 
   2. **Co-registration with Other Sites**
 
@@ -68,7 +68,7 @@ Cookies are pieces of information that a website transfers to your computer's me
 
 To access, correct or update your account or other personal information such as your city or interests, please use the "Edit profile page" at the site on which you are registered. 
 
-If you have any other questions, comments or complaints regarding this Policy, please contact MyWii administrator via [contact form.](https://web.archive.org/web/20081219022010id_/http%3A//www.mywii.com.au/contact.aspx)
+If you have any other questions, comments or complaints regarding this Policy, please contact MyWii administrator via [contact form.](https://web.archive.org/web/20090414073312id_/http%3A//mywii.com.au/contact.aspx)
 
 ## Storage and Security of Information
 
