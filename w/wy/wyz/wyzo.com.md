@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152125id_/http%3A//www.wyzo.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414073137id_/http%3A//www.wyzo.com/legal/privacy) for the most accurate reproduction.*
 
-# Wyzo - Privacy Policy
-
-### Privacy Policy
-
-#### Written March 21, 2007
+# Wyzo 3 - Privacy Policy
 
 ##### Privacy:
 
@@ -26,12 +22,6 @@ You may enable various online services to be directly integrated into your Wyzo 
 
 Our database of personal details (however we collect these details) is used by us, and third parties acting on our behalf, for administration and marketing related purposes. We may, from time to time, send you mailings which you have requested or we feel may interest you and/or are relevant to you. Such mailings may include details of our products and services e.g. newsletters and other related matters. We do not rent, sell or disclose your contact details to any other third party. 
 
-To be able to provide you with extensive search-related information the SearchStatus extension that you are installing exchanges data with Alexa Internet, Inc. ("Alexa"), an Amazon.com company. The SearchStatus extension is enabled by default when installing Wyzo, but can be disabled in the 'Add-ons' menu of Wyzo at any time. 
-
-For every web page you visit while using SearchStatus (excluding secure domains and those you have configured as private), certain information, including your ip address, the url of the web page you visit, and general information about your browser and computer's operating system will be transmitted from your computer to Alexa. Some of the url's you visit, which are transmitted to Alexa, will contain information that is personally identifiable. 
-
-Alexa does not attempt to analyze web usage data to determine the identity of any SearchStatus user. Alexa aggregates and analyzes the information it collects to improve its service and to prepare reports about aggregate web usage. , which is incorporated into and made a part of this agreement, to understand how Alexa uses the information collected through SearchStatus. By downloading Wyzo with SearchStatus you indicate that you understand and agree to this Privacy Policy, including the Alexa Privacy Policy. 
-
 ##### Contacting us About Your Information: 
 
 If you would like to see the information we hold about you or would like to be removed from our database and/or any mailing lists, please contact our database manager at: admin@wyzo.com 
@@ -41,3 +31,9 @@ To help us keep our database up-to-date, we would be grateful if you would let u
 ##### Contact:
 
 We would be grateful if you would also let us know (at admin@wyzo.com) if you have any comments on this site or have spotted any errors or non-functioning parts of the site. 
+
+Issue Date: 26th January 2009 
+
+* * *
+
+* * *
