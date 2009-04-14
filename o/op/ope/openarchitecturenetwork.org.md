@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914005340id_/http%3A//www.openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414165806id_/http%3A//www.openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Architecture Network
 
-Architecture for Humanity (“AFH”) and the Open Architecture Network (the “Network”) have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for www.openarchitecturenetwork.org, the Open Architecture Network’s official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to the Network and/or AFH as the context requires, and “you” and “your” refers to you. 
+Architecture for Humanity (“AFH”) and the Open Architecture Network (the “Network”) have created this statement to demonstrate our firm commitment to the privacy of our users. It discloses information gathering and dissemination practices for [www.openarchitecturenetwork.org](http://www.openarchitecturenetwork.org/ "www.openarchitecturenetwork.org"), the Open Architecture Network’s official Internet site. In this Privacy Policy statement, “we,” “us,” “its” and “ours” refers to the Network and/or AFH as the context requires, and “you” and “your” refers to you. 
 
 **Use of IP Addresses**
 
