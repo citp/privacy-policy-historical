@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143223id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414141407id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
 # ISPreview UK - Independent Internet Service Provider Information Source
 
@@ -14,7 +14,7 @@ Our Site uses cookies to deliver content specific to your interests via our surv
 
 **Advertisers**
 
-We use our own system to display ads on the site. These ads may contain cookies designed to track pageview and click count information only.
+We use both an external Google solution and our own system to display ads on the site. These ads may contain cookies designed to track pageview, click count and IP information purely for statistical monitoring purposes.
 
 **Surveys**
 
@@ -26,15 +26,15 @@ This site contains links to other sites. _ISPreview_ are not responsible for the
 
 **Special Relationships**
 
-Presently ISPreview has no 'Special Relationships' with external sites that would include data collection.
+Presently ISPreview has three external relationships with other sites, including Google.com for advertising (see ' _Advertisers_ ' above), Thinkbroadband.com for one of our broadband ' _Speedtest_ ' services and Samknows.com for our ' _Broadband Coverage Checker_ '. The Speedtest includes a requirement for users to enter their postcode and phone number - these details are NOT shared with or sold on to third parties outside of ISPreview/Thinkbroadband and instead collected to help build a geographic map of broadband performance/speed around the UK. Similarly the Broadband Coverage Checker requests either a postcode or phone number, however neither are retained by the remote server past your initial service.
 
 **Public Forums**
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information such as IP, E-Mails (if submitted) are kept in ‘none readable’ locations and protected by ‘admin only access’. The only person with the ability to access this information is the owner of the server and nobody else, your data is kept totally confidential.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information such as IP, E-Mails (if submitted) are kept in ‘none readable’ locations and protected by ‘admin only access’. The only person with the ability to access this information is the owner of the server and nobody else, your data is kept totally confidential. Please see ' _Special Relationships_ ' above for information regarding our partnership with Thinkbroadband.
 
 **Contacting the Web Site**
 
