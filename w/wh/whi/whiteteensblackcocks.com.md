@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteteensblackcocks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151947id_/http%3A//www.whiteteensblackcocks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteteensblackcocks.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414152611id_/http%3A//www.whiteteensblackcocks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Replace or add your information in RED, where applicable:
 Our Commitment To Privacy   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.   
-This notice applies to all information collected or submitted on WhiteTeensBlackCocks website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on Whiteteensblackcocks website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:   
 Email address.
 
 The Way We Use Information:   
