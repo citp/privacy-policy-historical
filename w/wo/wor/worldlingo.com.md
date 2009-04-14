@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164535id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415011706id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
 
 # WorldLingo Translations LLC Privacy Policy
 
 Effective from 17th October 2008.
 
-[](http://www.truste.org/ivalidate.php?url=www.worldlingo.com&sealid=102) _Worldlingo Translation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.worldlingo.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+[](https://www.truste.org/ivalidate.php?url=www.worldlingo.com&sealid=102) _Worldlingo Translation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.worldlingo.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
 _If you have questions or concerns regarding this statement, you should firs contact Victoria Pratt at[privacy@worldlingo.com](mailto:privacy@worldlingo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns._
 
@@ -33,7 +33,7 @@ Translations LLCs’ Privacy Policy is designed to help you understand how we co
 
 By using or accessing WorldLingo, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20081216164535id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
+If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20090415011706id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
 
 * * *
 
