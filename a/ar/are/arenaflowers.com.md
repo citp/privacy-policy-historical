@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225004928id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414183112id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ W3 0TJ
 
 15\. We may also use that information to let you know of additional products or services that we feel may be of interest to you.  You can easily choose not to receive such information by letting us know on the registration screen when you sign up for the product or service. 
 
-16\. Every time you connect to our website we store a log of your visit which shows the unique number your machine uses when it is connected to the internet (IP address).  This tells us what you looked at; whether the page request was successful or not and which browser you used to view the pages.  The use of this data is primarily for statistical purposes.  This helps us to understand which areas of the site are of particular interest and also which pages are not being requested.  It also tells how many people are visiting the website in total.  This data can also help us prevent fraudulent activity on the site.
+16\. Every time you connect to our website we store a log of your visit which shows the unique number your machine uses when it is connected to the internet (IP address).  This tells us what you looked at; whether the page request was successful or not and which browser you used to view the pages.  The use of this data is primarily for statistical purposes and we will not use your IP address to identify you.  This data helps us to understand which areas of the site are of particular interest and also which pages are not being requested.  It also tells how many people are visiting the website in total.  This anonymous data and the associated statistics can help us prevent fraudulent activity on the site.
 
 17\. Data collected during a co-promotion may be shared with the sponsor or co-sponsor.  If this is the case we will inform you at the point of collection if your personal data will be shared with others as a result of your participation, to allow you to opt out of taking part in the promotion.
 
