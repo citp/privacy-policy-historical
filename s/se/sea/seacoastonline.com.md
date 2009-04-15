@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015120id_/http%3A//www.seacoastonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415213853id_/http%3A//www.seacoastonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Seacoast Online -
 
 _This privacy policy was last updated 11/21/05_
 
-Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the ""). This Privacy Policy describes how we treat personal information received about you when you visit this website. 
+Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "SeaCoastOnline.com"). This Privacy Policy describes how we treat personal information received about you when you visit this website. 
 
 ## Website Usage Information
 
@@ -77,4 +77,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [alanghoff@ottaway.com](mailto:alanghoff@ottaway.com) or by regular mail at: P.O. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff. 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [spolay@ottaway.com](mailto:spolay@ottaway.com) or by regular mail at: P.O. Box 580, Middletown, NY 10940, Attn: Sean Polay. 
