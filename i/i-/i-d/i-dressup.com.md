@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-dressup.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226050618id_/http%3A//www.i-dressup.com./privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-dressup.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415211532id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | i-Dressup
 
@@ -37,5 +37,14 @@ You can turn off the cookie function in your web browser, then you won't be able
 **Parental rights**
 
 As a parent you have the right to review your minor child's personal information, have it deleted and refuse I-Dressup to further collect information from your child. This would of course require a proper identification. Please contact us at parentsright@i-dressup.com   
-(Minor in the US = under 13)   
-(Minor in non-US= under 16) 
+(Minor in the US = under 13) (Minor in non-US= under 16)
+
+**Google and DoubleClick DART cookie**
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.   
+
