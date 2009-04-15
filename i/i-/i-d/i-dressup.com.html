@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2008-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226050618id_/http%3A//www.i-dressup.com./privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2009-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415211532id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <title>Privacy Policy | i-Dressup</title>
 <link href="css.php" rel="stylesheet" type="text/css">
 <!--[if IE]>
-<style type="text/css"> 
+<style type="text/css">
 /* place css fixes for all versions of IE in this conditional comment */
 .layout-home #side-left, .layout-home #sidebar2 { padding-top: 30px; }
 .layout-home #main-center { zoom: 1; padding-top: 15px; }
@@ -16,10 +16,33 @@
 </style>
 <![endif]-->
 <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/swfobject/swfobject.js"></script>
-<script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/tag.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/tag.js"></script>
+
 <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/jquery.js"></script>
 <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/jquery.blockUI.js"></script>
-<script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/utils.js"></script>
+
+<script type="text/javascript">
+  function showSubMenu(divId) {
+    hideSubMenu();
+	var c = document.getElementById(divId);
+	if(c.style.display != "block"){
+	    c.style.display = "block";
+	}
+  }
+  function hideSubMenu() {
+     document.getElementById('sub1').style.display = "none";
+	 document.getElementById('sub2').style.display = "none";
+	 document.getElementById('sub3').style.display = "none";
+  }
+  function chgurl(cat){
+
+	if(!cat){
+		document.getElementById("gamelistmore").parentNode.href="gamelist_by_az.php";
+	}else{
+		document.getElementById("gamelistmore").parentNode.href=cat+"/";
+	}
+  }
+</script>
 </head>
 <body class="plaintext">
 <script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/wz_tooltip.js"></script>
@@ -39,167 +62,183 @@ function chgurl(cat){
   }
 
 </script>
-<script type="text/javascript" src="http://cdn.i-dressup.com/cdn/static/js/wz_tooltip.js"></script>
+
+<div id="bannerbg">
+  <div id="banner">
+	<div class="left">
+		<iframe valign="top" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90" scrolling="No" src="/adver728x90.php?country="></iframe>
+	</div>
+	<div class="right1">
+	<script type="text/javascript" src="http://www.i-dressup.com/topgames.js"></script>
+	</div>
+  </div>
+</div>
+
 <div id="header">
   <div class="middle">
-     <div class="banner">
-		<iframe valign="top" frameborder="0" marginwidth="0" marginheight="0" width="728" height="90" scrolling="No" src="/adver728x90.php?country=US"></iframe>
-	</div>
+    <div class="logo"><a href="/"><img src="http://cdn.i-dressup.com/cdn/static/img/header_logo.gif" alt="i-Dressup"></a></div>
     <div class="right">
-        <div class="info">
+       <div class="right-top">
+		 <div class="search">
+			<form action="http://www.i-dressup.com/gamesearch.php" id="cse-search-box">
+			  <div>
+			    <input type="hidden" name="cx" value="partner-pub-4906431666602100:uumshj-6mkv">
+			    <input type="hidden" name="cof" value="FORID:10">
+			    <input type="hidden" name="ie" value="ISO-8859-1">
+	         	<input name="q" type="text" size="40" class="search-text"> <input id="search-btn" src="http://cdn.i-dressup.com/cdn/static/img/btn_search.png" alt="Go" onclick="submitSearch(this.form); return false;" type="image">
+			  </div>
+			 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+             </form>
+         </div>
+		 <!-- end #search -->
+		 <div class="info">
 		  	<p class="log">
 						<span><a href="####">Welcome</a></span> |
 			<a href="javascript: jQuery.blockUI({ message: $('#popup_sign'), css: { width: '100%', height: '100%', top: '30px', left: '0px', border:'', backgroundColor:''} })">Login</a> | <a href="javascript: jQuery.blockUI({ message: $('#popup_join'), css: { width: '100%', height: '100%', top: '30px', left: '0px', border:'', backgroundColor:''} })">Join</a>
 						</p>
 			<a href="/needicoins.php" class="need">Diamond Membership - 249 Icoins!</a>
 		 </div>
-		 <div class="search">
+		 <!-- end #info -->
+      </div>
+	  <!-- end #right-top -->
+	  </div>
+	  <!-- end #right -->
+	  <div class="clearfloat"></div>
+	  <div id="nav">
+		<div id="menu">
+		<ul>
+		<li><a href="/" style="_width: 50px;">Home</a></li>
+		<li><a href="/gamelist_by_date.php" style="_width: 60px;">Games
+		<!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<!-- SUB -->
+			<ul>
+			<li class="arr"><a href="/fashion/">Fashion
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/gamelist_by_cate.php?sub=1">Designer Labels</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=2">Sensible Chic</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=3">Shoes and Bags</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=4">The Style</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=12">Gents and Dudes</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=7">Activewear</a></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li class="arr"><a href="/girls/">Girls
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/gamelist_by_cate.php?sub=9">Girl Dressup</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=11">Girl Makeover</a></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li class="arr"><a href="/celebrities/">Celebrities
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/gamelist_by_cate.php?sub=8">Celebrity Makeover</a></li>
+					<li><a href="/gamelist_by_cate.php?sub=10">Celebrity With Fashion</a></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li><a href="/fantasy/">Fantasy</a></li>
+			<li><a href="/barbie/">Barbie</a></li>
+			<li><a href="/room/">Room</a></li>
+			<li><a href="/avatar.php">Avatars</a></li>
+			</ul>
+		<!-- end #sub1 -->
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+		<li><a href="/izone.php" style="_width: 50px;">iZone
+		<!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<!-- SUB2 -->
+			<ul>
+			<li><a href="/rarestuff.php">Rare Stuff</a></li>
+			<li><a href="/giftshop.php">Gift Store</a></li>
+			<li><a href="/petshop.php">Pet Shop</a></li>
+			<li><a href="/marketplace.php">Marketplace</a></li>
+			<li><a href="/gameway.php">Gameway</a></li>
+			<li><a href="/runwaymix.php">Runway Mix</a></li>
+			<li><a href="/shining_izones.php">Shining iZones</a></li>
+			<li><a href="/contests.php">Contests</a></li>
+			</ul>
+		<!-- end #sub2 -->
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+		<li><a href="/primpme_ilook.php" style="_width: 70px;">Primp Me
+		<!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<!-- SUB3 -->
+			<ul>
+				<li><a href="/primpme_ilook.php">iLook</a></li>
+				<li><a href="/primpme_itoon.php">iToon</a></li>
+			</ul>
+		<!-- end #sub3 -->
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li><li><a href="/musicbox.php" style="_width: 80px;">Music Box</a></li>
+		<li><a href="/fashionavenue.php" style="_width: 120px;">Fashion Avenue
+		<!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<!-- SUB4 -->
+			<ul>
+			<li class="arr"><a href="/fashionavenue.php">Boutiques
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/fashionavenue.php?brand=Bonsoir">Bonsoir</a></li>
+					<li><a href="/fashionavenue.php?brand=In the Hood">In the Hood</a></li>
+					<li><a href="/fashionavenue.php?brand=It Girl">It Girl</a></li>
+					<li><a href="/fashionavenue.php?brand=Kawaii">Kawaii</a></li>
+					<li><a href="/fashionavenue.php?brand=Preppy Sense">Preppy Sense</a></li>
+					<li><a href="/fashionavenue.php?brand=Punk2">Punk2</a></li>
+					<li><a href="/fashionavenue.php?brand=VIM">VIM</a></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li class="arr"><a href="/fashionavenue.php">Toondress
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/fashionavenue.php?brand=Glam">Glam</a></li>
+					<li><a href="/fashionavenue.php?brand=Keats">Keats</a></li>
+					<li><a href="/fashionavenue.php?brand=Kiwi Action">Kiwi Action</a></li>
+					<li><a href="/fashionavenue.php?brand=Statement">Statement</a></li>
+					<li><a href="/fashionavenue.php?brand=Sweet U">Sweet U</a></li>
+					<li><a href="/fashionavenue.php?brand=T.A.B">T.A.B</a></li>
+					<li><a href="/fashionavenue.php?brand=Y Knot">Y Knot</a></li>
 
-			<form action="http://www.i-dressup.com/gamesearch.php" id="cse-search-box">
-			  <div>
-			    <input type="hidden" name="cx" value="partner-pub-4906431666602100:uumshj-6mkv">
-			    <input type="hidden" name="cof" value="FORID:10">
-			    <input type="hidden" name="ie" value="ISO-8859-1">
-	         	<input name="q" type="text" size="20" class="search-text"><input id="search-btn" src="http://cdn.i-dressup.com/cdn/static/img/search_btn.gif" alt="Go" onclick="submitSearch(this.form); return false;" type="image">
-			  </div>
-			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-             </form>
-
-        </div>
-    </div>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li class="arr"><a href="/fashionavenue.php?brand=diy0">DIY
+			<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/fashionavenue.php?brand=diy0">iLook Female</a></li>
+					<li><a href="/fashionavenue.php?brand=diy1">iLook Male</a></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			</ul>
+		<!-- end #sub4 -->
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+		<li><a href="/faq.php" style="_width: 50px;">Help</a></li>
+		</ul>
+		</div>
+		<!-- end #menu -->
+	  </div>
+	  <!-- end #nav -->
+	</div>
+	<!-- end #middle -->
   </div>
   <!-- end #header -->
-</div>
-<div id="nav">
-  <div id="swf-nav"></div>
-  <script type="text/javascript">
-    // <![CDATA[
-	var so = new SWFObject('http://cdn.i-dressup.com/cdn/static/swf/nav.swf', 'navflash', '1002', '67', '8');
-	so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("selectedID", 1);
-	so.write('swf-nav');
-	//
-	function thisMovie(movieName) {
-         if (navigator.appName.indexOf("Microsoft") != -1) {
-             return window[movieName];
-         } else {
-             return document[movieName];
-         }
-    }
-	window.onload=function(){
-		thisMovie("navflash").ready();
-	}
-    // ]]>
-  </script>
-  <div id="sub1" onmouseout="this.style.display = 'none';" onmouseover="this.style.display = 'block';">
-    <ul>
-      <li><a class="arr" href="/fashion/">Fashion<!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/gamelist_by_cate.php?sub=1">Designer Labels</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=2">Sensible Chic</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=3">Shoes and Bags</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=4">The Style</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=12">Gents and Dudes</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=7">Activewear</a></li>
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-      <li><a class="arr" href="/girls/">Girls
-	  <!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/gamelist_by_cate.php?sub=9">Girl Dressup</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=11">Girl Makeover</a></li>
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-	  <li><a class="arr" href="/celebrities/">Celebrities
-	  <!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/gamelist_by_cate.php?sub=8">Celebrity Makeover</a></li>
-			<li><a href="/gamelist_by_cate.php?sub=10">Celebrity With Fashion</a></li>
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-	  <li><a href="/fantasy/">Fantasy</a></li>
-      <li><a href="/barbie/">Barbie</a></li>
-      <li><a href="/room/">Room</a></li>
-      <li><a href="/avatar.php">Avatars</a></li>
-    </ul>
-  <!-- end #sub1 -->
-  </div>
-  <div id="sub2" onmouseout="this.style.display = 'none';" onmouseover="this.style.display = 'block';">
-     <ul>
-      <li><a href="/fashionavenue.php">Fashion Avenue</a></li>
-      <li><a href="/giftshop.php">Gift Store</a></li>
-      <li><a href="/petshop.php">Pet Shop</a></li>
-      <li><a href="/marketplace.php">Marketplace</a></li>
-      <li><a href="/gameway.php">Gameway</a></li>
-	  <li><a href="/runwaymix.php">Runway Mix</a></li>
-	  <li><a href="/shining_izones.php">Shining iZones</a></li>
-	  <li><a href="/contests.php">Contests</a></li>
-    </ul>
-  <!-- end #sub2 -->
-  </div>
-  <div id="sub3" onmouseout="this.style.display = 'none';" onmouseover="this.style.display = 'block';">
-     <ul>
-      <li><a href="/primpme_ilook.php">iLook</a></li>
-      <li><a href="/primpme_itoon.php">iToon</a></li>
-    </ul>
-  <!-- end #sub3 -->
-  </div>
-  <div id="sub4" onmouseout="this.style.display = 'none';" onmouseover="this.style.display = 'block';">
-     <ul>
-      <li><a class="arr" href="/fashionavenue.php">Boutiques
-	  <!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/fashionavenue.php?brand=Bonsoir">Bonsoir</a></li>
-			<li><a href="/fashionavenue.php?brand=In the Hood">In the Hood</a></li>
-			<li><a href="/fashionavenue.php?brand=It Girl">It Girl</a></li>
-			<li><a href="/fashionavenue.php?brand=Kawaii">Kawaii</a></li>
-			<li><a href="/fashionavenue.php?brand=Preppy Sense">Preppy Sense</a></li>
-			<li><a href="/fashionavenue.php?brand=Punk2">Punk2</a></li>
-			<li><a href="/fashionavenue.php?brand=VIM">VIM</a></li>
 
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-      <li><a class="arr" href="/fashionavenue.php">Toondress
-	  <!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/fashionavenue.php?brand=Glam">Glam</a></li>
-			<li><a href="/fashionavenue.php?brand=Keats">Keats</a></li>
-			<li><a href="/fashionavenue.php?brand=Kiwi Action">Kiwi Action</a></li>
-			<li><a href="/fashionavenue.php?brand=Statement">Statement</a></li>
-			<li><a href="/fashionavenue.php?brand=Sweet U">Sweet U</a></li>
-			<li><a href="/fashionavenue.php?brand=T.A.B">T.A.B</a></li>
-			<li><a href="/fashionavenue.php?brand=Y Knot">Y Knot</a></li>
 
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-	  <li><a class="arr" href="/fashionavenue.php?brand=diy0">DIY
-	  <!--[if IE 7]><!--></a><!--<![endif]-->
-	  <!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-			<li><a href="/fashionavenue.php?brand=diy0">iLook Female</a></li>
-			<li><a href="/fashionavenue.php?brand=diy1">iLook Male</a></li>
-		</ul>
-	  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	  </li>
-    </ul>
-  <!-- end #sub4 -->
-  </div>
-
-  <!-- end #nav -->
-</div>
 
 <div id="container">
   <div class="box">
@@ -240,185 +279,78 @@ function chgurl(cat){
           <br>
           <strong>Parental rights</strong> <br>
           <br>
-          As a parent you have the right to review your minor child's  personal information, have it deleted and refuse I-Dressup to further  collect information from your child. This would of course require a  proper identification. Please contact us at parentsright@i-dressup.com <br>
-          (Minor in the US = under 13) <br>
-          (Minor in non-US= under 16) </td>
+           As a parent you have the right to review your minor child's  personal information, have it deleted and refuse I-Dressup to further  collect information from your child. This would of course require a  proper identification. Please contact us at parentsright@i-dressup.com <br>
+          (Minor in the US = under 13)
+           (Minor in non-US= under 16)<br>
+           <br><strong>Google and DoubleClick DART cookie</strong> <br>
+			 <ul><li>Google, as a third party vendor, uses cookies to serve ads on this site.</li>
+			 <li>Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet.</li>
+		    <li>Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. </li>
+		    </ul>
+			<br>
+		    We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+		    <br>
+          </td>
       </tr>
     </tbody></table>
   	<h3>&nbsp;</h3>
     <div class="bottom"><img src="static/img/plaintxt02.gif" width="1000" height="13"></div>
   </div>
- 
+
 
 
 </div>
-  <div id="footer-banner">
-	<div class="banner1"><a href="/tellfriend.php" target="_top"><img src="http://cdn.i-dressup.com/cdn/static/img/tellfriend.jpg"></a></div>
-	<div class="banner2"><script type="text/javascript"><!--
+  <div class="search">
+	<script type="text/javascript"><!--
 	google_ad_client = "pub-4906431666602100";
-	/* 728x90, created 9/19/08 */
-	google_ad_slot = "5044660875";
+	/* 728x15, created 3/20/09 */
+	google_ad_slot = "1483561600";
 	google_ad_width = 728;
-	google_ad_height = 90;
+	google_ad_height = 15;
 	//-->
 	</script>
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script></div>
-	<div class="banner3"><a href="http://www.funcorder.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/funcorder.jpg" border="0"></a>
-</div>
-</div>
-<div id="footer">
-	<ul class="logo">
-		 	<li><a href="http://www.dressupgames.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_3.gif"><p>Dress up Games</p></a></li>
-	    	<li><a href="http://www.games2girls.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_9.gif"><p>games2girls</p></a></li>
-	    	<li><a href="http://www.funcorder.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_10.gif"><p>Funcorder</p></a></li>
-	    	<li><a href="http://www.wambie.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/wambie.jpg"><p>Wambie</p></a></li>
-	        <li><a href="http://www.dressupwho.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_11.gif"><p>Dressupwho</p></a></li>
-	        <li><a href="http://www.123peppy.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/banner2.jpg"><p>123peppy</p></a></li>
-	        <li><a href="http://www.i-amour.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_6.gif"><p>I-amour</p></a></li>
-	        <li><a href="http://www.mp3-codes.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_2.gif"><p>MP3 Codes</p></a></li>
-	 		<li><a href="http://www.dollie-bliss.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/logo_5.gif"><p>Dollie Bliss</p></a></li>
-    </ul>
-    <div class="footer_row">
-		<div class="footer_col" style="width: 180px;">
-			<h4>About i-Dressup</h4>
-			<p>A dress up game community for people who love fashion and styles.</p>
-		</div>
-
-		<div class="footer_col">
-			<h4>Games</h4>
-			<p><a href="/fashion/">Fashion</a></p>
-			<p><a href="/girls/">Girls</a></p>
-			<p><a href="/fantasy/">Fantasy</a></p>
-			<p><a href="/celebrities/">Celebrities</a></p>
-			<p><a href="/barbie/">Barbie</a></p>
-			<p><a href="/room/">Room</a></p>
-		</div>
-		<div class="footer_col">
-			<h4>iZone</h4>
-			<p><a href="/primpme_ilook.php">Primp Me</a></p>
-			<p><a href="/fashionavenue.php">Fashion Avenue</a></p>
-			<p><a href="/marketplace.php">Marketplace</a></p>
-			<p><a href="/gameway.php">Gameway</a></p>
-			<p><a href="/runwaymix.php">Runway Mix</a></p>
-			<p><a href="/shining_izones.php">Shining iZones</a></p>
-			<p><a href="/contests.php">Contests</a></p>
-		</div>
-		<div class="footer_col">
-			<h4>Help</h4>
-			<p><a href="/faq.php">FAQ</a></p>
-			<p><a href="/blog/index.html">Blog</a></p>
-			<p><a href="/privacypolicy.php">Privacy Policy</a></p>
-			<p><a href="/termuse.php">Term of Use</a></p>
-			<p><a href="/contactus.php">Contact Us</a></p>
-		</div>
-		<div id="copyright" class="clear">
-			© Galaxiz Inc 2008 · <a href="http://www.funcorder.com" target="_blank">funcorder.com</a> · <a href="http://i-amour.com" target="_blank">i-amour.com</a>	· <a href="http://www.tinkfanatic.com" target="_blank">tinkfanatic.com</a>	· <a href="http://www.allmymagic.com" target="_blank">allmymagic.com</a>	· <a href="http://www.avatarally.com" target="_blank">avatarally.com</a>
-		</div>
-	</div>
-	  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-	    </script>
-	    <script type="text/javascript">
-	    _uacct = "UA-132425-2";
-	    urchinTracker();
 </script>
+	</div>
+<div id="footer-banner">
 
-  <!-- end #footer -->
+		<div class="banner1"><!-- GBN Code Start -->
+		<script language="JavaScript">
+		aj_pr = Math.floor(Math.random() * 1000000);
+		document.write('<iframe width="100" height="100" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://ads.gamesbannernet.com/servlet/ajrotator/19644/0/vh?z=gbn&dim=119&nocache='+aj_pr+'&referer='+escape(document.location.href)+'"></iframe>');
+		</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/19644/0/vh?z=gbn&amp;dim=119&amp;nocache=454013&amp;referer=https%3A//web.archive.org/web/20090415211532id_/http%253A//www.i-dressup.com/privacypolicy.php"></iframe>
+		<noscript>
+		<a href="http://www.gamesbannernet.com/" target="_blank">
+		<img src="http://www.gamesbannernet.com/img/spacer.gif" alt="Games Banner Network" width="1" height="1" border="0">
+		</a>
+		</noscript>
+	<!-- GBN Code End --></div>
+		<div class="banner2"><script language="Javascript">
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=4272;
+document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=4272&amp;script=1&amp;rnd=14932"></script>
 
-  <!-- #popup_friend -->
-  <div id="popup_friend" style="display:none;">
-    <script type="text/javascript">
-    // <![CDATA[
-    var so = new SWFObject('http://cdn.i-dressup.com/cdn/friends.swf', 'popup_friend', '100%', '527', '8');
-    so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("standalone", "1");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
-	so.addVariable("myUid", "");
-	so.addVariable("myUsername", "");
-	so.addVariable("actnum", "");
-	so.addVariable("is_safe_vip", "");
-	so.write('popup_friend');
-    // ]]>
+	</div>
+		<div class="banner3"><a href="http://www.funcorder.com" target="_blank"><img src="http://cdn.i-dressup.com/cdn/static/temp/funcorder.jpg" border="0"></a>
+</div>
+</div>
+<br><br>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
     </script>
-  </div>
-
-  <!-- #popup_message -->
-  <div id="popup_message" style="display:none;">
     <script type="text/javascript">
-    // <![CDATA[
-    var so = new SWFObject('http://cdn.i-dressup.com/cdn/messages.swf', 'popup_message', '100%', '527', '8');
-    so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("standalone", "1");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
-	so.addVariable("myUid", "");
-	so.addVariable("myUsername", "");
-	so.addVariable("actnum", "");
-	so.addVariable("myVip", "");
-	so.addVariable("is_safe_vip", "");
-	so.write('popup_message');
-    // ]]>
-    </script>
-  </div>
-
-<!-- #popup_join -->
-  <div id="popup_join" style="display:none;">
-    <script type="text/javascript">
-    // <![CDATA[
-	var so = new SWFObject('http://cdn.i-dressup.com/cdn/logbox.swf', 'popup_join', '1002', '527', '8');
-    so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("standalone", "1");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
-	so.addVariable("frame", 'reg');
-	so.write('popup_join');
-    // ]]>
-    </script>
-  </div>
-
-  <!-- #popup_sign -->
-  <div id="popup_sign" style="display:none;">
-    <script type="text/javascript">
-    // <![CDATA[
-	var so = new SWFObject('http://cdn.i-dressup.com/cdn/logbox.swf', 'popup_sign', '1002', '527', '8');
-    so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("standalone", "1");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
-	so.addVariable("frame", 'log');
-	so.write('popup_sign');
-    // ]]>
-    </script>
-  </div>
-
-  <!-- #popup_act -->
-  <div id="popup_act" style="display:none;">
-    <script type="text/javascript">
-    // <![CDATA[
-	var so = new SWFObject('http://cdn.i-dressup.com/cdn/logbox.swf', 'popup_act', '1002', '527', '8');
-    so.addParam("menu", false);
-	so.addParam("wmode", "transparent");
-	so.addParam("AllowScriptAccess", "always");
-	so.addVariable("standalone", "1");
-	so.addVariable("PHP_root_path", "http://www.i-dressup.com/");
-	so.addVariable("static_root_path", "http://cdn.i-dressup.com/cdn/");
-	so.addVariable("username", "");
-	so.addVariable("email", "");
-	so.addVariable("frame", 'act');
-	so.write('popup_act');
-    // ]]>
-    </script>
-  </div>
-
+    _uacct = "UA-132425-2";
+    urchinTracker();
+</script>
+<div class="paypal_bottom">
+    <p><a href="http://www.i-dressup.com/index.php">Home</a> -  <a href="http://www.i-dressup.com/faq.php">Help</a> - <a href="http://www.i-dressup.com/termuse.php">Terms of Use</a> - <a href="http://www.i-dressup.com/privacypolicy.php">Privacy Policy</a> - <a href="http://www.i-dressup.com/contactus.php">Contact us</a> - <a href="http://www.i-dressup.com/blog/index.html">Blog</a> </p>
+    <p>Design@www.i-dressup.com, a dress up games site for people who love fashion, all rights reserved!  <script type="text/javascript" language="JavaScript">
+glam_affiliate_id = '367551034';
+glam_logo_type = 'GPN';
+glam_logo_size = '160x24';
+glam_logo_color = 'wht';
+</script>
+<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script></p>
 </div>
 
 </body></html>
