@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228163549id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415123959id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
----  
-|  **Free Shipping On All Orders Over $100! US/CDN Only.**    
-**Business/Sales: 206-708-6948 | 206-384-3728**    
-  
-  
 The Internet Language Company (ILC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (www.multilingualbooks.com). 
 
 ## Information Collection and Use
@@ -66,13 +61,3 @@ Seattle, WA 98105
 **
 
 **E-mail:** **[sales@multilingualbooks.com](mailto:sales@multilingualbooks.com)**
-
-* * *
-
-**Multilingual Books**  
-**11515 NE 26th Ave Suite 201**  
-**Seattle, WA 98125** |  **Business/Sales: 206-708-6948 | 206-384-3728**    
-**Fax: 206-400-1156**  
-**[sales@multilingualbooks.com](mailto:sales@multilingualbooks.com)**  
----|---  
-**Copyright © 1996-2009 Multilingual Books**
