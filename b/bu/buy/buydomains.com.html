@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buydomains.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217062540id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buydomains.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416005004id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>BuyDomains.com: Privacy Policy</title>
@@ -27,20 +27,71 @@
 
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1277815-1");
-pageTracker._initData();
+	function _uGC(l,n,s) {
+	   // used to obtain a value form a string of key=value pairs
+	   if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+	   var i,i2,i3,c="-";
+	   i=l.indexOf(n);
+	   i3=n.indexOf("=")+1;
+	   if (i > -1) {
+		  i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+		  c=l.substring((i+i3),i2);
+	   }
+	   return c;
+	}
 
+	function checkFirst(){
+	   // check if this is a first time visitor
+	   var newVisitor = 0;
+	   var myCookie = " " + document.cookie + ";";
+	   var searchName = "__utma=";
+	   var startOfCookie = myCookie.indexOf(searchName)
+	   // if we did not find __utma in our cookie, set new user to true
+	   if (startOfCookie == -1) {   // i.e. first time visitor
+		  newVisitor = 1;
+	   }
+	   return newVisitor;
+	}
 
-pageTracker._trackPageview("");
+	function grabReferrer(newVisitor){
+	   // grab campaign and referrer info from the _utmz cookie
+	   // if we are a new user, grab new user data
+	   if (newVisitor == 1) {
+		  var z = _uGC(document.cookie, "__utmz=", ";");
+		  urchin_source = _uGC(z,"utmcsr=", "|");
+		  urchin_medium = _uGC(z,"utmcmd=", "|");
+		  urchin_term = _uGC(z,"utmctr=", "|");
+		  urchin_content = _uGC(z,"utmcct=", "|");
+		  urchin_campaign = _uGC(z,"utmccn=", "|");
+		  var gclid = _uGC(z,"utmgclid=","|");
+		  if (gclid) { 
+			urchin_source = "google";
+			urchin_medium = "cpc";
+			}
+		  pageTracker._setVar(urchin_source + "|" + urchin_medium + "|" + urchin_campaign);
+	   }
+	}
+</script>
 
+<script type="text/javascript">
+		var newVisitor = checkFirst();        // checks if this is a new visitor
+		var pageTracker = _gat._getTracker("UA-1277815-1");
+	   	pageTracker._initData();
+		
+		
+		pageTracker._trackPageview();
+		
+		
+	   	grabReferrer(newVisitor);      // Grab referrer info
 </script>
 
 <script type="text/javascript" src="/scripts/anylink.js">
-
+<script type="text/javascript" src="/scripts/chrome.js">
 /***********************************************
 * AnyLink CSS Menu script- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
@@ -144,16 +195,30 @@ function validateKeywordHeader(form){
 #headerSearch input#headerKeywords {font-size:12px;vertical-align:middle;float:right;width:177px;padding:2px 0 0 23px;margin:0;font-size:12px;line-height:20px;height:20px;border:1px solid #ccc;background:#fff url(/images/common/input-search-icon.gif) 0 1px no-repeat;}
 *html body #headerSearch input#headerKeywords {font-size:12px;height:22px;line-height:22px;vertical-align:middle;padding:0 0 0 23px;margin:0;}
 .mMargBot {margin-bottom:10px;}
+/* New Drop-down Menu links */
+#menu1 {height:32px;background: url(/images/topnav/bg_topnav2.jpg) top left repeat-x;vertical-align:top;padding:1px 0 1px 12px;}
+#menuTabs1 .menuTab, #menuTabs1 .menuTabOn {height:30px;vertical-align:middle;display:block;font-family:verdana;font-size:12px;line-height:30px;font-weight:bold;white-space:nowrap;text-decoration:none;text-align:center;color:#09346a;}
+#menuTabs1 a {padding:0px 33px 0px 33px;text-align:center;display:block;border:0;margin:0px;text-decoration:none;color:#09346a;}
+#menuTabs1 .menuTabOn {background:#09346a;color:#fff;}
+#menuTabs1 .menuTabOn a {background:#09346a;color:#fff;}
+#menuTabs1 .menuTab a:hover {color:#fff;text-decoration:none;background:#09346a;}
+#menuTabs1 .menuTabOn a:hover {color:#fff;text-decoration:none;}
+#menuTabs1 .tabDivider {width:1px;height:30px;vertical-align:middle;background-color:#fff;margin:0;padding:0;}
+.homelinkcss {position:absolute;visibility:hidden;font:normal 12px Verdana;text-decoration:none;}
+.homelinkcss a{width:100%;display:block;text-decoration:none;font-weight:bold;color:#09346a;}
+.homelinkcss a:hover{background-color:#09346a;color:white;text-decoration:none;}
+.anylinkcss{position:absolute;visibility:hidden;border:1px solid #fff;border-bottom-width:0;font:normal 12px Verdana;line-height:24px;z-index:100;background-color:#c8daed;width:240px;text-decoration:none;text-align:left;}
+.anylinkcss a{width:100%;display:block;border-bottom:2px solid #fff;text-decoration:none;font-weight:bold;text-indent:19px;color:#09346a;}
+.anylinkcss a:hover{background-color:#09346a;color:white;text-decoration:none;}
+/* /New Drop-down Menu links */
 </style>
 <table cellspacing="0" cellpadding="0" border="0" id="topnavLinks">
 <tbody><tr>
 	<!-- logo -->
 	<td id="bd_logo" valign="top"><a href="http://www.buydomains.com/"><img src="/images/topnav/logo-buy-domains.gif" width="313" height="79" border="0" alt="Buy premium domain names at BuyDomains.com"></a>
 	</td>
-	
 	<td id="topPhone" valign="top">
 	
-
 
 
 	<div class="lPadRight">
@@ -167,18 +232,14 @@ function validateKeywordHeader(form){
 	</div>
 				
 	</td>
-
 	<!-- new phone number links -->
-	
 	<!-- shopping cart -->
 	<td id="topLinksHeader" align="right">
-		<div class="left w156" valign="top" align="right">
-		<a href="http://www.buydomains.com/_view/shoppingCart/shopping-cart.jsp">View Your Cart
-		
-		</a>
-		
+		<div class="left w156" valign="top" align="right" style="display:block;">
+            
 		</div>
-		<div class="right mMargBot" align="right"><a href="http://www.buydomains.com/_view/shoppingCart/shopping-cart.jsp"><img src="/images/buttons/shopping-cart-btn.gif" border="0" alt="Shopping Cart" width="148" height="31"></a>
+		<div class="right mMargBot" align="right" style="display:block;">
+            <a href="http://www.buydomains.com/_view/shoppingCart/shopping-cart.jsp" rel="nofollow"><img src="/images/buttons/shopping-cart-btn.gif" border="0" alt="Shopping Cart" width="148" height="31"></a>
 		</div>
 		<div style="clear:both;overflow:hidden;height:0;margin:0;padding:0;width:0;"></div>
 		
@@ -187,7 +248,7 @@ function validateKeywordHeader(form){
 		<!-- header search -->
 		<form name="searchKeywordsHeaderForm" action="http://www.buydomains.com/find-premium-domains/search-results.jsp" onsubmit="return validateKeywordHeader(this);">
 			<!-- search box -->
-			<a href="#" class="searchBtn" onclick="javascript:submitSearchHeaderForm();">GO</a>	
+			<a href="#" class="searchBtn" onclick="javascript:submitSearchHeaderForm();" rel="nofollow">GO</a>	
 			<input type="text" id="headerKeywords" name="keywords" maxlength="50" onclick="javascript:clearitH()" value="SEARCH DOMAINS" style="color:#999999;">		
 		</form>         
 		</div>		
@@ -219,7 +280,7 @@ function validateKeywordHeader(form){
 	
 	<td><div class="tabDivider"></div></td>
 	
-	<td><div class="menuTab"><a href="http://www.buydomains.com/help/" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')" class="menuTab">Help</a></div></td>
+	<td><div class="menuTab"><a href="http://www.buydomains.com/help/" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')" class="menuTab">Domain Name Help</a></div></td>
 	
 </tr>
 </tbody></table>
@@ -237,6 +298,7 @@ function validateKeywordHeader(form){
 	<a href="/find-premium-domains/">Search for Domain Names</a>
 	<a href="/find-premium-domains/index.jsp?searchType=advanced">Advanced Search</a>
 	<a href="/find-premium-domains/other-search.jsp?searchType=category">Search by Category</a>
+	<a href="/domain-by-US-state/">Search by US State</a>
 	<a href="/specials/index.jsp">Domain Specials</a>
 	<a href="/alerts/alerts-manager.jsp">Domain Alerts</a>
 	<a href="/financing/">Domain Financing</a>
@@ -263,11 +325,11 @@ function validateKeywordHeader(form){
 	<div id="anylinkmenu5" class="anylinkcss">
 	<a href="/build-website/">Getting Your Business Online</a>
 	<a href="/business-resources/articles/web-hosting-basics.jsp">Learn About Web Hosting</a>	
-	<a href="/build-website/?#articles">Business Resources Articles</a>
+	<a href="/small-business/">Business Success Center</a>
 	<a href="/success-story/">Success Stories</a>
 	</div>
 			
-	<!--6th anchor link and menu - Help -->
+	<!--6th anchor link and menu - Domain Name Help -->
 	<div id="anylinkmenu6" class="anylinkcss">
 	<a href="/help/">Contact Customer Service</a>
 	<a href="/info/what-is-a-domain.jsp">What is a Domain Name?</a>
@@ -371,16 +433,21 @@ function validateKeywordHeader(form){
 
 
 <div align="center" id="footer">
-<a href="http://www.buydomains.com/info/about-us.jsp">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/contact.jsp">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/alerts/alerts-manager.jsp">BuyDomains Alerts</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/terms-of-use.jsp">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/privacy.jsp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/sitemap.jsp">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/sell-domains/sell-form.jsp">Sell Us Your Domains</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/domain-resources/">Domain Resources</a>
+<a href="http://www.buydomains.com/info/about-us.jsp">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/contact.jsp">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/alerts/alerts-manager.jsp">BuyDomains Alerts</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/terms-of-use.jsp" rel="nofollow">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/privacy.jsp" rel="nofollow">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/info/sitemap.jsp">Site Map</a><br><a href="http://www.buydomains.com/sell-domains/sell-form.jsp">Sell Us Your Domains</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/affiliate-program/search-widget.jsp">Referral Program</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/small-business/">Business Success Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.buydomains.com/domain-resources/">Domain Resources</a>
 		<div style="padding:5px 0 10px 0;">
 		<table cellspacing="0" cellpadding="2" border="0">
 		<tbody><tr>
 			<td class="legal">Services Provided By NameMedia<!--&#8480;--><sup style="font-size:7px;">SM</sup><br>
-			Copyright ©2008 NameMedia, Inc. All Rights Reserved. NAMEMEDIA is a service mark of NameMedia, Inc.</td>
+			Copyright ©2009 NameMedia, Inc. All Rights Reserved. NAMEMEDIA is a service mark of NameMedia, Inc.</td>
 		</tr>
 		</tbody></table>
 		</div>
-		<div><a href="http://www.bbbonline.org/cks.asp?id=107060893318450" target="_blank"><img src="/images/logo_better-business-bureau.gif" border="0" alt="Better Business Bureau Online"></a><img src="/images/logo_creditcards.gif" width="153" height="42" border="0" alt="We Accept Visa, MasterCard and American Express" align="top"><img src="/images/home/logo_paypal.gif" width="94" height="34" border="0" alt="We Accept Paypal" align="top"></div>
+		<div>
+			<a style="position:relative;top:-15px;" href="http://www.bbbonline.org/cks.asp?id=107060893318450" target="_blank"><img src="/images/logo_better-business-bureau.gif" border="0" alt="Better Business Bureau Online"></a>
+			<img src="/images/rapidssl_ssl_certificate.gif" border="0" alt="SSL Certificate">
+			<img src="/images/logo_creditcards.gif" width="153" height="42" border="0" alt="We Accept Visa, MasterCard and American Express" align="top">
+			<img src="/images/home/logo_paypal.gif" width="94" height="34" border="0" alt="We Accept Paypal" align="top">
+		</div>
 </div>
 <!-- Start of HubSpot Site Analysis Code -->
 <script type="text/javascript" language="javascript">
