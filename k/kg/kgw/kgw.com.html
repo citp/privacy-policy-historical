@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the kgw.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217025602id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kgw.com privacy policy that was archived on 2009-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415040741id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
-
+<!--THE FOLLOWING TAG FORCES IE 8 TO USE IE7 PROPERTIES - DO NOT REMOVE-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
 
 <title>Privacy Policy | About Us | 
 kgw.com | News for Portland Oregon and SW Washington
@@ -78,13 +79,14 @@ OAS_AD('LeaderTop');
 </div>
 
 <!-- navigation / marketplace buttons -->
-<div id="search_container" style="margin-bottom: 0em;">	
+<div id="search_container">	
+<div id="marketplace_button_container"><a href="http://www.kgw.com/"><img src="http://www.kgw.com/images/home_button.jpg" border="0" style="padding: 1px 0 0 0;"></a></div>
 		<div id="utility_menu">
 		<ul>
 		<!--<li><a href="/" title="">Home</a></li>
 		<li> : </li> -->
 <script type="text/javascript"><!--
-message('img','<a href="/LogOut.do">Log Out\</a>\</li>','<li><a href="/sharedcontent/membership/signin.jsp" title="">Log In\</a>\</li><li> : \</li><li><a href="/sharedcontent/membership/" title="">Become a Member\</a>\</li>');
+message('img','<li><a href="/LogOut.do">Log Out\</a>\</li>','<li><a href="/sharedcontent/membership/signin.jsp" title="">Log In\</a>\</li><li> : \</li><li><a href="/sharedcontent/membership/" title="">Become a Member\</a>\</li>');
 //--></script>
 
 		<li> : </li>
@@ -100,15 +102,22 @@ message('img','<a href="/LogOut.do">Log Out\</a>\</li>','<li><a href="/sharedcon
 <!--
 function findSearch()
 {
- searchText = this.document.searchForm.search.value;
- words = searchText.split(" ");
- searchText = words.join("+");
- if(this.document.searchForm.searchselection[1].checked == true) 
- { thisUrl = "/search/search-web.jsp?topic=" + searchText; }
- else 
-  { thisUrl = "/blcS.sc?search=" + searchText; }
+        searchText = this.document.searchForm.search.value;
+        words = searchText.split(" ");
+        searchText = words.join("+");
 
- this.window.location = thisUrl;
+        if(document.searchForm.searchOption[0].checked)
+        {
+                this.window.location = "http://www.kgw.com/blcS.sc?search=" + searchText + "&cat=all";
+                return false;
+        }
+		
+        else if(document.searchForm.searchOption[1].checked)
+        {       
+                this.window.location = "http://www.kgw.com/blcS.sc?search=" + searchText + "&start=0&cat=web";
+                return false;
+        }
+        return true;
 }
 //-->
 </script>
@@ -116,9 +125,15 @@ function findSearch()
 		
 		
 				
-<form name="searchForm" action="/blcS.sc" method="post" id="search_form">
-<div id="marketplace_button_container"><a href="http://www.kgw.com/"><img src="/images/home_button6.gif" border="0" style="padding: 1px 0 0 0;"></a></div>
-<input type="text" name="search" size="30" maxlength="150" value="Search" onfocus="this.value='';"> <input type="submit" value="GO" class="submit"> </form>
+<form name="searchForm" action="/blcS.sc" method="get" id="search_form" onsubmit="javascript:findSearch(); return false;">
+<input type="text" name="search" class="search_box" size="30" maxlength="150" value="Search" onfocus="this.value='';"> 
+<input name="searchOption" class="search_site" type="radio" value="0" checked="">
+<span>kgw.com</span>
+<input name="searchOption" class="search_web" type="radio" value="1">
+<span>Web</span>
+<span class="pwr_google">&nbsp;</span>
+<input type="image" src="http://www.kgw.com/images/gobtn.gif" value="" class="gobtn">
+</form>
 </div>
 	<!-- navigation / marketplace buttons -->
 	<div id="navbar">
@@ -155,7 +170,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/membercontent/photos/gallery.html?plckGalleryID=2e615153-78e2-426e-bf27-b14cfb7939bf">Weather Photos</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/weather/schools/?tn">School Weather</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://weather.kgw.com/Install.asp">Desktop Weather</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://weather.kgw.com/auto/kgw/member/editemailuser.html">Weather by E-mail</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/weather/7day/">7-day forecast</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.beloblog.com/KGW_Blogs/weather/?tn">Weather Blog</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/weather/elevation/?tn">Elevations</a></li>
 		</ul></div>
@@ -204,6 +219,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/zoo/?tn">Oregon Zoo</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/raptorcam/?nvid=226982&amp;live=yes">Raptor Cam</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.tvpuzzles.com/kgw/">TV Puzzles</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/oregon150/">Oregon 150</a></li>
 		</ul></div>
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavsports" onmouseover="showSubNav('topNavsports', 'subnavsports', 1);" onmouseout="startHideTimeout();"><a href="http://www.kgw.com/sports/?tn"><span>Sports</span></a></div>
@@ -233,7 +249,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/desktopnews/?tn">Desktop News</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/rss/?tn">RSS</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/mobile/?tn">Mobile</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://hosted.ap.org/dynamic/fronts/PODCAST?SITE=KGW&amp;SECTION=PODCAST">Podcasts</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/twitter/">TWITTER</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/membercontent/photos/gallery.html">Your Pics</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/membercontent/videos/gallery.html">Your Video</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/sharedcontent/registration/reg_newsletter.jsp?tn">E-mail Newsletters</a></li>
@@ -254,6 +270,8 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://nbc.com">NBC</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/dtv/">Digital/HD TV</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/thesquare/">Live@7/The Square</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/straighttalk/">Straight Talk</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.kgw.com/video/pdxposed-browse.html">PDXposed</a></li>
 		</ul></div>
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	</div>
@@ -277,9 +295,12 @@ function findSearch()
 <li class="off" id="mplace_nav3"><a href="http://www.kgw.com/freshideas/" onmouseover="show_marketplace_tab(3);" title="KGW Spotlight">KGW Spotlight</a></li>
 
 
-<!--<li id="mktborder"><img src="http://www.kgw.com/images/mktplace_dotted_spacer.gif" /></li>
+<li id="mktborder"><img src="http://www.kgw.com/images/mktplace_dotted_spacer.gif"></li>
 	
-	<li class="off" id="mplace_nav4"><a href="#" onmouseover="show_marketplace_tab(4);" title="Specials">Specials</a></li> -->
+<li class="off" id="mplace_nav4"><a href="http://www.kgw.com/contests/" onmouseover="show_marketplace_tab(4);" title="Contest">Contests</a></li> 
+    
+
+
 
 	</ul>
 	<div id="arrow_container"><img src="/images/market_nav_arrow.gif" alt=""></div>
@@ -362,20 +383,17 @@ OAS_AD('Txt3');
 		<div class="top_level" id="tab1">
 		
 		
-<img src="/images/marketplace/class.gif" width="290" height="85" border="0" usemap="#jobfindermap">
+<img src="http://www.kgw.com/images/marketplace/class3.gif" width="290" height="85" border="0" usemap="#jobfindermap">
 
 <map name="jobfindermap">
-<area shape="rect" coords="47,0,97,23" href="http://www.cars.com/go/index.jsp?aff=kgw">
-<area shape="rect" coords="15,26,69,38" href="http://www.cars.com/go/index.jsp?aff=kgw">
-<area shape="rect" coords="72,27,126,38" href="http://siy.cars.com/siy/zipEntry.jsp">
-<area shape="rect" coords="184,1,251,21" href="http://www.kgw.com/classifieds/index2.html">
-<area shape="rect" coords="159,27,241,37" href="http://www.kgw.com/classifieds/index2.html">
-<area shape="rect" coords="246,27,274,37" href="http://shopping.kgw.com/PORTAL/portal.aspx">
-<area shape="rect" coords="28,45,114,64" href="http://kgw.com.trulia.com/">
-<area shape="rect" coords="22,70,59,81" href="http://kgw.com.trulia.com/">
-<area shape="rect" coords="63,70,123,81" href="http://kgw.com.trulia.com/">
-<area shape="rect" coords="176,69,218,80" href="http://portlandjobfinder.com/">
-<area shape="rect" coords="222,71,253,81" href="http://salemjobfinder.com/">
+<area shape="rect" coords="10,8,83,38" href="http://www.cars.com/go/index.jsp?aff=kgw">
+<area shape="rect" coords="16,43,75,57" href="http://www.cars.com/go/index.jsp?aff=kgw">
+<area shape="rect" coords="17,58,75,73" href="http://siy.cars.com/siy/zipEntry.jsp">
+<area shape="rect" coords="100,6,189,36" href="http://kgw.com.trulia.com/">
+<area shape="rect" coords="123,45,167,59" href="http://kgw.com.trulia.com/">
+<area shape="rect" coords="117,60,179,75" href="http://kgw.com.trulia.com/">
+<area shape="rect" coords="219,45,268,59" href="http://portlandjobfinder.com/">
+<area shape="rect" coords="224,60,264,73" href="http://salemjobfinder.com/">
 </map>
 </div>
 
@@ -383,7 +401,7 @@ OAS_AD('Txt3');
 
 		
 		
-		<div class="top_level" id="tab2">
+  <div class="top_level" id="tab2">
 
 <span style="font-size: 11px;"><strong>HealthWebCenter</strong></span>
 <p style="font-size: 10px; font-family: Verdana; margin: 0px 0 5px 0; line-height: 11px;">Local experts provide the latest information on Healthcare issues that matter to you</p>
@@ -395,7 +413,12 @@ OAS_AD('Txt3');
 <img src="http://www.kgw.com/images/bg_utilityboxbullet.gif"> <a href="http://www.kgw.com/safetywatch&#10;" style="font-size: 10px; text-decoration: none;">Safety Watch</a>
 <br>
 <img src="http://www.kgw.com/images/bg_utilityboxbullet.gif"> <a href="http://www.kgw.com/healthwebcenter/eyecare/" style="font-size: 10px; text-decoration: none;">Professional Eye Care</a>
-
+<br>
+<img src="http://www.kgw.com/images/bg_utilityboxbullet.gif"> <script type="text/javascript">
+<!--
+OAS_AD('MSDtxt2');
+//-->
+</script>
 <!--<img src="http://www.kgw.com/images/bg_utilityboxbullet.gif" /> <a href="http://www.kgw.com/healthwebcenter/neurology/index.htm" style="font-size: 10px; text-decoration: none;">Stroke and Neurology</a><br />
 <img src="http://www.kgw.com/images/bg_utilityboxbullet.gif" /> <a href="http://www.kgw.com/healthwebcenter/heart-care/" style="font-size: 10px; text-decoration: none;">Heart Care</a><br />
 <img src="http://www.kgw.com/images/bg_utilityboxbullet.gif" /> <a href="http://www.kgw.com/healthwebcenter/womens-health/" style="font-size: 10px; text-decoration: none;">Women's Health</a> -->
@@ -449,8 +472,6 @@ OAS_AD('Splogo3');
 
 
 
-
-
 <!--<div class="top_level" id="tab4">
 <div>
 <table cellpadding="0" cellspacing="0" width="290">
@@ -465,6 +486,22 @@ OAS_AD('Splogo3');
 </div>
 </div> -->
 
+<div class="top_level" id="tab4">
+  <div style="width: 205px; float: left; margin-right: 7px;">
+  
+  
+ 	
+  <!--  <a href="http://www.portofportland.com/PDX_Intl_Srvc_Promo.aspx" target="_blank"><img src="/images/superhero.gif" border="0" alt="Super Hero" style="float: right;" /></a>
+  <br />
+    <a href="http://www.portofportland.com/PDX_Intl_Srvc_Promo.aspx" target="_blank" style="font-size: 11px; text-decoration: none;"><strong>Be a Local Super Hero</strong></a>
+    
+   <br /> 
+   <br /> -->
+
+   <strong><a href="http://www.kgw.com/contests/" style="font-size: 10px; text-decoration: none;">More Contests</a></strong>
+
+   </div>
+</div>
 
 
 
@@ -486,24 +523,24 @@ OAS_AD('Splogo3');
 
 <p>This Privacy Policy explains the following:
 </p><ul type="square">
-<li> <a href="/registration/privacy/#infotypes">What types of information we collect</a></li>
-<li> <a href="/registration/privacy/#cookies">What cookies and beacons are and why we use them</a></li>
-<li> <a href="/registration/privacy/#personal">How we use your personal information</a></li>
-<li> <a href="/registration/privacy/#share">With whom we share your personal information</a></li>
-<li> <a href="/registration/privacy/#collecting">Who is the party collecting your personal information</a></li>
-<li> <a href="/registration/privacy/#optout">How you can opt-out of sharing your personal information or receiving our promotional communications</a></li>
-<li> <a href="/registration/privacy/#update">How you can update your personal information or registration information</a></li>
-<li> <a href="/registration/privacy/#safeguards">What safeguards we put in place to protect your personal information</a></li>
-<li> <a href="/registration/privacy/#advertising">What you need to know about third-party sites and advertising</a></li>
-<li> <a href="/registration/privacy/#children">Whether we knowingly collect personal information of children under 13</a></li>
-<li> <a href="/registration/privacy/#contact">How you can contact us</a></li>
-<li> <a href="/registration/privacy/#phishing">What you should know about "phishing"</a></li>
-<li> <a href="/registration/privacy/#changes">When this privacy policy is effective and how changes to the privacy policy are posted</a></li>
+<li> <a href="/registration/privacy.html#infotypes">What types of information we collect</a></li>
+<li> <a href="/registration/privacy.html#cookies">What cookies and beacons are and why we use them</a></li>
+<li> <a href="/registration/privacy.html#personal">How we use your personal information</a></li>
+<li> <a href="/registration/privacy.html#share">With whom we share your personal information</a></li>
+<li> <a href="/registration/privacy.html#collecting">Who is the party collecting your personal information</a></li>
+<li> <a href="/registration/privacy.html#optout">How you can opt-out of sharing your personal information or receiving our promotional communications</a></li>
+<li> <a href="/registration/privacy.html#update">How you can update your personal information or registration information</a></li>
+<li> <a href="/registration/privacy.html#safeguards">What safeguards we put in place to protect your personal information</a></li>
+<li> <a href="/registration/privacy.html#advertising">What you need to know about third-party sites and advertising</a></li>
+<li> <a href="/registration/privacy.html#children">Whether we knowingly collect personal information of children under 13</a></li>
+<li> <a href="/registration/privacy.html#contact">How you can contact us</a></li>
+<li> <a href="/registration/privacy.html#phishing">What you should know about "phishing"</a></li>
+<li> <a href="/registration/privacy.html#changes">When this privacy policy is effective and how changes to the privacy policy are posted</a></li>
 </ul>
 <p></p>
 <a name="infotypes"></a>
-<p></p><h3>What Types of Information Do We Collect?</h3><br>
-The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters.  In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information.<p></p>
+<h3>What Types of Information Do We Collect?</h3><br>
+<p>The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters.  In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information.</p>
 
 <p><strong>Registration Information</strong> <br>
 While visiting the Site, we may ask you to register and/or provide information that personally identifies you ("Personal Information").  Such Personal Information may include, but is not limited to, your name, phone number, mailing address, and e-mail address.  On any page that collects Personal Information, we will describe what information is required to provide you with the product or service you request or to respond to your inquiry or comment.</p>
@@ -686,12 +723,12 @@ in either the storycontentleft div or the storycontentright div -->
 <!--
 OAS_AD('EyeblasterRovion');
 //-->
-</script> 
+</script>
 <script type="text/javascript">
 <!--
 OAS_AD('Popunder');
 //-->
-</script> 
+</script>
 
 <p><a href="/" title="Home Page">Home</a> | <a href="/about/" title="About Us">About Us</a> | <a href="/mediakit/" title="Media Kit">Media Kit</a> | <a href="/advertise/" title="Media Kit">Advertise</a> | <a href="/nwjobworks/kgwjobsindex.html" title="Careers">Careers</a> | <a href="/sitemap/" title="Site Map">Site Map</a> | <a href="/contact/" title="Contact Us">Contact Us</a> <br>
 
@@ -699,16 +736,8 @@ OAS_AD('Popunder');
 <p>kgw.com - AP  Award winner, Best Oregon TV Web Site, 2007  </p>
 <p>Edward R. Murrow Award winner for Best TV Web Site, Northwest Region, 2006</p>
 
-<p><a href="http://www.belointeractive.com" style="color: #fff; text-decoration: none;">© 2008 KGW-TV</a></p> 
+<p><a href="http://www.belointeractive.com" style="color: #fff; text-decoration: none;">© 2009 KGW-TV</a></p>
 
-<!-- begin tacoda -->
-<script type="text/javascript">Tacoda_AMS_DDC_js=1.0</script>
-<script type="text/javascript" language="JavaScript1.1">Tacoda_AMS_DDC_js=1.1</script>
-<script type="text/javascript" language="JavaScript1.2">Tacoda_AMS_DDC_js=1.2</script>
-<script type="text/javascript" language="JavaScript1.3">Tacoda_AMS_DDC_js=1.3</script>
-<script type="text/javascript">Tacoda_AMS_DDC("http://te.kgw.com/blank.gif", Tacoda_AMS_DDC_js)</script>
-<noscript><img src="http://te.kgw.com/blank.gif" width="1" height="1" border="0" alt="" /></noscript>
-<img src="http://te.belointeractive.com/blank.gif" width="1" height="1" border="0" alt="">
 
 <!-- begin omniture -->
 <script language="javascript">
@@ -738,7 +767,7 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 </div>
 
 <div style="display:none;">
-	
+
 	<!--Start Generated Navigation Data-->
 <!--Start Generated Navigation Data--><div id="subnav_container_main">
 		<div id="group_header_news" class="group_header">News</div>
@@ -933,7 +962,7 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_desktopweather"><a href="http://weather.kgw.com/Install.asp" class="sub_nav_link" id="subnav_link_text_desktopweather">Desktop Weather</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_weatherbyemail"><a href="http://weather.kgw.com/auto/kgw/member/editemailuser.html" class="sub_nav_link" id="subnav_link_text_weatherbyemail">Weather by E-mail</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_sevendayforecast"><a href="http://www.kgw.com/weather/7day/" class="sub_nav_link" id="subnav_link_text_sevendayforecast">7-day forecast</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_weatherblog2"><a href="http://www.beloblog.com/KGW_Blogs/weather/?tn" class="sub_nav_link" id="subnav_link_text_weatherblog2">Weather Blog</a></div>
 				</div>
@@ -1033,6 +1062,8 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_tvpuzzles"><a href="http://www.tvpuzzles.com/kgw/" class="sub_nav_link" id="subnav_link_text_tvpuzzles">TV Puzzles</a></div>
 				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_Oregon150"><a href="http://www.kgw.com/oregon150/" class="sub_nav_link" id="subnav_link_text_Oregon150">Oregon 150</a></div>
+				</div>
 			</div><div id="group_header_sports" class="group_header">Sports</div>
 			<div class="subnav_group" id="parent_sports">
 					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_blazers"><a href="http://www.kgw.com/sports/blazers/" class="sub_nav_link" id="subnav_link_text_blazers">Blazers</a></div>
@@ -1119,7 +1150,7 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_palmpda"><a href="http://www.kgw.com/mobile/?tn" class="sub_nav_link" id="subnav_link_text_palmpda">Mobile</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_podcasts"><a href="http://hosted.ap.org/dynamic/fronts/PODCAST?SITE=KGW&amp;SECTION=PODCAST" class="sub_nav_link" id="subnav_link_text_podcasts">Podcasts</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_twitter"><a href="http://www.kgw.com/twitter/" class="sub_nav_link" id="subnav_link_text_twitter">TWITTER</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_submitpics"><a href="http://www.kgw.com/membercontent/photos/gallery.html" class="sub_nav_link" id="subnav_link_text_submitpics">Your Pics</a></div>
 				</div>
@@ -1154,6 +1185,10 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_hdtv"><a href="http://www.kgw.com/dtv/" class="sub_nav_link" id="subnav_link_text_hdtv">Digital/HD TV</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_studiosquare"><a href="http://www.kgw.com/thesquare/" class="sub_nav_link" id="subnav_link_text_studiosquare">Live@7/The Square</a></div>
+				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_straittalk"><a href="http://www.kgw.com/straighttalk/" class="sub_nav_link" id="subnav_link_text_straittalk">Straight Talk</a></div>
+				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_pdxposed"><a href="http://www.kgw.com/video/pdxposed-browse.html" class="sub_nav_link" id="subnav_link_text_pdxposed">PDXposed</a></div>
 				</div>
 			</div></div>
 		<!--End Generated Navigation Data-->
