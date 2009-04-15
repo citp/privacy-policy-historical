@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130507id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415030049id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
 
 # K'NEX | About K'NEX | K'NEX Privacy Policy
 
@@ -16,7 +16,7 @@ Please take note of this important information! Guidelines have been established
 
 This web site is operated by: 
 
-K'NEX Industries  
+K'NEX LP Group  
 P.O. Box 700  
 Hatfield, PA 19440  
 1-800-KID-KNEX (1-800-543-5639) (Consumer Relations)  
