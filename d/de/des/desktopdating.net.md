@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopdating.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125445id_/http%3A//www.desktopdating.net/_themes/main/new_age/popup/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopdating.net privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415231505id_/http%3A//www.desktopdating.net/_themes/main/new_age/popup/priv_policy.html) for the most accurate reproduction.*
 
 # Desktop Dating - Privacy Policy
 
@@ -79,6 +79,12 @@ Users who no longer wish to receive our weekly updates or news may opt-out of re
 **Third Party Advertising**
 
 The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Desktopdating does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks This privacy statement covers the use of cookies by Desktopdating and does not cover the use of cookies by any advertisers. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 **Contacting the Web Site**
 
