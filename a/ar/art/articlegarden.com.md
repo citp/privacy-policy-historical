@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlegarden.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123036id_/http%3A//www.articlegarden.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegarden.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415173924id_/http%3A//www.articlegarden.com/privacy.php) for the most accurate reproduction.*
 
 # Sustainable Living Articles
 
