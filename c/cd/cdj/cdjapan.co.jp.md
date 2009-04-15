@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228033757id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416011939id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,8 +28,12 @@ To make certain aspects of our services possible, third-party companies may work
 
 **Credit Card Companies**  
 Credit card companies and their vendors process credit card payments. We share credit card details, and other personal information necessary, in some cases, for processing credit card payments.  
+
+
 **Delivery Companies**  
 Delivery companies deliver packages we ship. Also, delivery companies collect payments in case Cash on Delivery is selected as the payment method (available only for orders to be delivered within Japan). We only share personal information necessary for delivery and collection of payments.  
+
+
 **Providers of Membership Programs**  
 In affiliation with cdjapan.co.jp, providers of membership programs may extend their own membership programs through our website. We share personal information with such providers only to an extent necessary for the administration of the membership programs. 
 
