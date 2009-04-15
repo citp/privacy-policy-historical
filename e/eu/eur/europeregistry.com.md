@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040513id_/http%3A//www.europeregistry.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416001357id_/http%3A//www.europeregistry.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Europe Registry Privacy and Policy | Europe Registry
 
