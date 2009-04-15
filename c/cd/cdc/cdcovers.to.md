@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042434id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415182206id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.*
 
 # CDcovers.to - cd and dvd covers search
 
-Audio • Blu-ray • Bollywood • CDi • DreamCast • DVD • Gameboy Advance • Gamecube • HD DVD • Karaoke • MiniDisc  
+Audio • Blu-ray • Bollywood • CDi • DreamCast • DVD • Gameboy Advance • Gamecube • HD DVD • Karaoke  
 Nintendo DS • PC • Playstation • Playstation 2 • Playstation 3 • PSP • VHS • Video CD • Wii • Xbox • Xbox 360
 
  **Privacy policy**
