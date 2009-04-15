@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043329id_/http%3A//www.bonanzle.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415213551id_/http%3A//www.bonanzle.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanzle
 
@@ -20,11 +20,11 @@ Our main purpose in collecting personal information is to provide you with an en
 
 We collect some information from your browser. This includes your IP address and the name of the page you requested. This information helps us to diagnose problems with our servers and administer the Site. Basically, your IP address helps us in identifying you and your specific needs.
 
-We also collect information from cookies, which are software tags that are stored by your browser onto your hard drive. These bits of information are general in nature and they allow us to customize our Site to fit your specific needs. Cookies also allow you to log onto or navigate through specific sections of our Site without having to re-enter certain information. You can decline the use of cookies, if any, through your browser. As always, your data remains strictly confidential and is never willingly shares with third parties.
+We also collect information from cookies, which are software tags that are stored by your browser onto your hard drive. These bits of information are general in nature and they allow us to customize our Site to fit your specific needs. Cookies also allow you to log onto or navigate through specific sections of our Site without having to re-enter certain information. You can decline the use of cookies, if any, through your browser. As always, your data remains strictly confidential and is never willingly shared with third parties.
 
 ## How is my information used?
 
-The information collected from Bonanzle Members is used to improve product offerings, customize our Site�s content and layout, and for marketing and statistical effort. Occasionally, we will send you emails about new services or promotions. You can always opt-out of receiving any information from us.
+The information collected from Bonanzle Members is used to improve product offerings, customize our Site's content and layout, and for marketing and statistical effort. Occasionally, we will send you emails about new services or promotions. You can always opt-out of receiving any information from us.
 
 ## Who will see my personal information?
 
