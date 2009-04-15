@@ -1,91 +1,55 @@
-> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025083827id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415100402id_/http%3A//www.dailymail.co.uk/home/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | the Daily Mail
+# Privacy policy | Mail Online
 
-**Data Protection and Privacy Policy**
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
-We are Associated New Media (a division of Associated Newspapers Limited, company registration number 84121, data protection registered number Z5272734) (" **Associated/we/us** "). At Associated we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Associated may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact **privacy@anm.co.uk**
+## Collection Of Personal Information
 
-**By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website.**
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-This policy applies only to this website and not to other websites to which we provide links. We also enter into agreements with commercial partners whose websites may be co-branded or framed by us and which you may visit directly through our website. These websites are not subject to our privacy policy. You are advised to read the privacy policy of such other websites. 
+## Collection Of Other Information
 
-We may change our privacy policy from time to time without notification and you should regularly review this policy when you visit our site. 
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
 
-**Collection of information**
+The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-In order to provide the services you want, and to allow you to experience a more personalised service when you revisit us, we need to know your interests. We find these out by asking you, by reading your comments and by looking at which are the most popular areas of our sites. 
+## Use Of Your Information
 
-**Collection of personal information**
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
-We will only collect personal information from you (such as name, address, telephone number, email address etc) which you have provided voluntarily to us either by completing registration or enquiry forms or sending emails to us. Please do not submit your personal data to us if you do not wish us to collect it. 
-
-Examples of where we may collect your personal information include (without limitation): 
-
-  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won.
-  * If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address, credit or debit card number and expiry date. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently. 
-  * If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email privacy@anm.co.uk to ask that it be deleted.
-
-
-
-**Collection of other information**
-
-In addition to asking you to submit personal information, we may collect information about you automatically when you visit the site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor visitors to our site. A cookie is small text file that is placed on your computer's hard drive by your web browser when you first visit our site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies. 
-
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on our website and your geographical location. 
-
-**Use of your information**
-
-You agree that we may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes. These include (without limitation): 
-
-  * Personalising your visits to the site and developing the design and style of the site to improve our services to you
-  * To inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting
-  * Communication (and personalising such communication) with you from Associated, from other Daily Mail & General Trust ("DGMT") group companies and from other reputable and trustworthy third parties (if you have agreed to such)
-  * Informing you if you have been successful in any of the competitions or promotions
+  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+  * Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting
+  * Communicating (and personalising such communication) with you
+  * Informing you if you have been successful in any Site competitions or promotions
   * Compiling customer reviews
-  * For market research purposes
-  * To prevent you from posting illegal, offensive or objectionable comments on our sites
-  * To enable third parties to carry out statistical analyses', technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising
-  * For strategic development
-  * For any purpose required by law or regulation
-  * For accounting purposes
+  * Conducting market research
+  * Carrying out statistical, technical and logistical analysis
 
 
 
-**Sharing Information**
+## Sharing Your Personal Information
 
-We may disclose your information to any company within the DMGT group of companies by means of a centralised database to which all companies have access or by means of a direct transfer of data from one office to another. 
+By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies.
 
-We may provide third parties, at our discretion, with certain aggregate statistical data about your use of our websites, which data may include demographic data such as age range and/or geographic location of groups of user. It will not include information that could personally identify you. 
+Subject to obtaining your consent, we may also supply personal information about you to third parties.
 
-With your consent, we may supply personal information to third parties. 
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies' lawful requests for information.
 
-We reserve the right to access and to disclose personal information to comply with applicable laws and lawful government requests or requests by applicable regulatory bodies to operate our systems properly or to protect either ourselves or our other users. 
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of Associated. 
+## Safeguards And Security
 
-You consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer. 
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [www.ico.gov.uk](http://www.ico.gov.uk/)
 
-**Monitoring emails**
+## Accessing Your Personal Information
 
-We may monitor and keep records of email communications which you send to us and other communications with you in accordance with this policy and our other business interests. 
+If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
 
-**Safeguards and Security**
-
-No data transmission over the internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of our sites. However we use our reasonable endeavours to protect the security of your personal information from unauthorised access or use by using Secure Sockets Layer 128-bit encryption verified through Verisign. 
-
-In addition to our safeguards your personal information is protected in the UK by the Data Protection Act. This provides that the information which we hold about you should be processed fairly and lawfully and should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. Please help us to keep your personal information accurate by updating your registration details on the website. 
-
-For more information on the Data Protection Act and the Information Commissioner please see **[www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)**
-
-**Changing or accessing your information**
-
-Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email **privacy@anm.co.uk** including full details of your request. 
+Legal Dept.   
+Associated Newspapers Limited   
+Northcliffe House   
+2 Derry Street   
+London W8 5TT
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information.
-
-Have your Daily Mail and Mail on Sunday delivered to your door. To find out more [click here](https://web.archive.org/pages/dmstandard/article.html?in_article_id=362389&in_page_id=1777).
-
-[ Mail to a friend](https://web.archive.org/pages/dmemail/form.html?in_article_id=259103&in_page_id=711) Print story [ Read later](https://web.archive.org/pages/dmreadl/form.html?in_article_id=259103&in_page_id=711)
-
-* * *
