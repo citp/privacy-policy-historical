@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223052846id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415071633id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - CreditCards.com
+# CreditCards.com Privacy Policy and terms of service
 
 [](http://www.truste.org/ivalidate.php?companyName=CreditCards.com&sealid=101)
 
-_Last Revised: 30th April 2008_
+_Last Revised: 23th March 2009_
 
 At CreditCards.com, we take great care in safeguarding the privacy of your personal information by following responsible information handling practices. 
 
@@ -36,7 +36,7 @@ When you request a page from our site, our servers log your current IP address. 
 CreditCards.com also allows third party partners to place session cookies on your computer to collect non-personally identifiable information such as aggregate use statistics for internal evaluation of the site. See below for additional information on cookies. 
 
 _Information You Provide to Us (Optionally)_   
-We obtain personally identifiable information about you if you elect to send an inquiry to us through the Contact Us section of our website. Please note that this information is only used to communicate with you regarding your inquiry or request for a newsletter (See Choice/Opt-Out for preference options). The types of personally identifiable information we ask you to provide may include the following: 
+We obtain personally identifiable information about you if you elect to send an inquiry to us through the Contact Us section of our website, or subscribe to our newsletter or marketing emails. Please note that this information is only used to communicate with you regarding your inquiry or request for a newsletter (See Choice/Opt-Out for preference options). The types of personally identifiable information we ask you to provide may include the following: 
 
   * Name
   * Organization
@@ -50,7 +50,7 @@ We obtain personally identifiable information about you if you elect to send an 
 The CreditCards.com Blogs website at [http://blogs.creditcards.com](http://blogs.creditcards.com/) allows you to submit comments and feedback on blog posts. In order to comment on these posts, we ask for your name and email address, so we may contact you if needed. Blog comments are moderated by our team, and upon approval, your name and comment will be visible on the Blogs website. Your email address will not be displayed on the site. Please note that you can still comment on the blog posts without needing to enter your name or email address.
 
 _Choice/Opt-out_  
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 8920 Business Park Drive #350 Austin, TX 78759 to opt-out.
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 8920 Business Park Drive #350 Austin, TX 78759 to opt-out. You may also opt out by entering your information at <http://www.creditcardsmail.com/ec>.
 
 You may not opt-out of receiving email acknowledgements and responses to customer support or media inquiries.
 
