@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212040546id_/http%3A//www.webcargo.net/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415040543id_/http%3A//www.webcargo.net/en/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
@@ -115,10 +115,10 @@ Know the risks.
 
 When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available. 
 
-|  [](https://web.archive.org/web/20081212040546id_/http%3A//www.webcargo.net/en/signup.php "Sign Up")
+|  [](https://web.archive.org/web/20090415040543id_/http%3A//www.webcargo.net/en/signup.php "Sign Up")
 
   
-“WEBCARGO is rock solid.” _-Grey Healthcare New York_
+“WEBCARGO is a perfect example of innovative technology that is user friendly.” _-TELUS Mobility_
 
   
 
