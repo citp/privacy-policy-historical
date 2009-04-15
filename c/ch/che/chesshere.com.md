@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesshere.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226234656id_/http%3A//www.chesshere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesshere.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416004808id_/http%3A//www.chesshere.com/privacy.php) for the most accurate reproduction.*
 
 # www.ChessHere.com
 
