@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045400id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslive.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415030314id_/http%3A//www.masslive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MassLive.com - Use of this Site Constitutes Acceptance of our Privacy Policy, User Agreement and Advertising Agreement
 
