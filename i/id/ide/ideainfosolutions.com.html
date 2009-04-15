@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ideainfosolutions.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218070246id_/http%3A//www.ideainfosolutions.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideainfosolutions.com privacy policy that was archived on 2009-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415081116id_/http%3A//www.ideainfosolutions.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Ideainfosolutions.com | Privacy Policy</title>
@@ -46,6 +46,7 @@
 
 <div id="body">
 <div id="leftnav">
+<!---->
 <h2>Our SEO Services</h2>
   <div id="menuSide1" class="menuSide" align="left">
   <ul class="ul">
@@ -76,8 +77,137 @@
 India &nbsp;&nbsp;&nbsp;: 91-120-4278624</div>
  
   <h2>Quick Contact </h2> 
- 
- <form name="form1" method="post" action="quick-contact.asp">
+  <script language="javascript" type="text/javascript">
+  function TestCaptcha(valSession,valCaptcha)
+  {
+	var tmpSession
+	valSession = Trim(valSession)
+	valCaptcha = Trim(valCaptcha)
+	if (valSession =="" || valCaptcha =="") 
+		{
+		TestCaptcha = false
+		}
+	else
+		{
+		tmpSession = valSession
+		valSession = Trim(Session(valSession))
+		Session(tmpSession) = ""
+		if (valSession =="")
+		{
+			TestCaptcha = false
+		}
+		else
+          {		
+			valCaptcha = Replace(valCaptcha,"i","I")
+			if (StrComp(valSession,valCaptcha,1) == 0)
+				{
+				TestCaptcha = true
+				}
+			else
+				{
+				TestCaptcha = false
+				}
+            }
+		}	
+}
+  
+  
+  function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail ID")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+        var capcode=document.form1.captchacode
+            if (TestCaptcha("ASPCAPTCHA",capcode))
+            {
+			return true
+			}
+		else
+		{
+			alert("You entered the wrong code.")
+			return false
+	    }
+
+
+ 		 					
+	}
+	
+	function ValidateForm(){
+	var emailID=document.form1.Email
+	
+	if ((emailID.value==null)||(emailID.value=="")){
+		alert("Please Enter your Email ID")
+		emailID.focus()
+		return false
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	return true
+ }
+//  function validate_form ( )
+//{
+//	valid = true;
+
+//        
+//        if ( document.form1.Email.value == "" )
+//        {
+//                alert ( "Please Enter the Email." );
+//                valid = false;
+//        }
+
+//        return valid;
+//}
+  </script>
+ <script language="javascript" type="text/javascript">
+function RefreshImage(valImageId) {
+	var objImage = document.images[valImageId];
+	if (objImage == undefined) {
+		return;
+	}
+	var now = new Date();
+	objImage.src = objImage.src.split('?')[0] + '?x=' + now.toUTCString();
+}
+</script>
+ <form name="form1" method="post" action="quick-contact.asp" onsubmit="ValidateForm();">
 <div id="form"> 
 		 <div class="bg-form">
 		 
@@ -111,9 +241,13 @@ India &nbsp;&nbsp;&nbsp;: 91-120-4278624</div>
 	      <textarea name="Query" cols="12" rows=""></textarea>
 	    </div>
 
+        <div class="bg-form">
+	    <div style="float: left;"><img id="imgCaptcha" src="captcha.asp"><a href="javascript:void(0)" onclick="RefreshImage('imgCaptcha')">Change Image</a></div>
+	    <div>Type the characters you see in the picture below  <input name="captchacode" type="text" id="captchacode" size="10"></div>
+         </div>         
 		<div class="bg-form">
 	    <div align="center">
-		  <input name="submit" type="submit" style="height:20px; width:80px; margin:10px;" value="Submit">
+		  <input name="submit" id="submit" type="submit" style="height:20px; width:80px; margin:10px;" value="Submit">
 		  
 		  
 		  </div>
@@ -121,7 +255,7 @@ India &nbsp;&nbsp;&nbsp;: 91-120-4278624</div>
 		
 		
 	    </div>
-						
+		<!--	-->			
 			
 </div>
 </form>
@@ -135,6 +269,7 @@ India &nbsp;&nbsp;&nbsp;: 91-120-4278624</div>
      <div class="col1"><a href="web-designing.asp" title="Web Designing Services">Web Designing</a></div>
     <div class="col1"><a href="web-development.asp" title="Web Development Services">Web Development</a></div>
     <div class="col1"><a href="internet-marketing.asp" title="Internet Marketing Services">Internet Marketing </a></div>
+
 
   </div>
   
@@ -169,12 +304,6 @@ India &nbsp;&nbsp;&nbsp;: 91-120-4278624</div>
 
 </div>
 </div>
-
-
-
-
-
-
 
 <div class="clear">
 </div>
