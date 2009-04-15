@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110734id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415172300id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -60,12 +60,12 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums")
 
-**170,000+** Members  
+**175,000+** Members  
  **100,000+** Threads  
- **1,200,000+** Posts
+ **1,000,000+** Posts
 
 [ **Enter the Forums**](http://forums.gottadeal.com/)
 
-[](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
+[](http://www.twitter.com/gottadeal "Follow us on Twitter") Follow us on [Twitter](http://www.twitter.com/gottadeal) for the latest deals, exclusive contests, news & more!  [](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
 e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealUpdate) to sign up!  [](http://www.gottadeal.mobi/ "Visit GottaDeal.mobi") Browse the site on your mobile device. Check out our new [mobile version](http://www.gottadeal.mobi/).  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.   
 ---|---|---|---|---
