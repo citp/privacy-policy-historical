@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229031621id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-pdf.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415173348id_/http%3A//www.a-pdf.com/privacy.htm) for the most accurate reproduction.*
 
-# A-PDF.com
+# Privacy Policy [A-PDF.com]
 
 A-PDF.com collects name, IP address and other information (such as e-mail address) on some parts on the website and registration service providers. This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from A-PDF.com.   
 A-PDF.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with our standards for integrity and objectivity. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  
