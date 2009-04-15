@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinko.co.za privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231154420id_/http%3A//www.buongiorno.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinko.co.za privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415233339id_/http%3A//www.buongiorno.com/privacy.html) for the most accurate reproduction.*
 
 # BUONGIORNO.COM - Press Room
 
