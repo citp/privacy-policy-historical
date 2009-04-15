@@ -1,7 +1,14 @@
-<!--The following is the downloaded HTML source of the likeme.net privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223150509id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likeme.net privacy policy that was archived on 2009-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415200943id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <script type="text/javascript">
+//<![CDATA[
+
+   var pageId = '71ee28eed49ad20fd291f061daedf49e';
+  
+//]]>
+</script>
   <title>Like Me : Privacy Policy</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta http-equiv="content-language" content="en">
@@ -11,24 +18,35 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="top" href="#" title="top">
-  <script src="http://www.likeme.net/javascripts/all.js?1229450718" type="text/javascript"></script>
+  <script src="http://www.likeme.net/javascripts/all.js?1239128401" type="text/javascript"></script>
   
-  <link href="http://www.likeme.net/stylesheets/application.css?1229450439" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://www.likeme.net/stylesheets/application.css?1239128425" media="screen" rel="stylesheet" type="text/css">
   <!--[if lte IE 6]>
-  <link href="http://www.likeme.net/stylesheets/ie6_overrides.css?1229450439" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://www.likeme.net/stylesheets/ie6_overrides.css?1239128274" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
-  <link href="http://www.likeme.net/stylesheets/print.css?1229450439" media="print" rel="stylesheet" type="text/css">
-  </head>
+</head>
 <body class="privacy-controller">
 <div id="layout_container">
+  <!--[if lte IE 6]>
+    <script type="text/javascript">
+      try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
+    </script>
+  <![endif]-->
   <script type="text/javascript">
 //<![CDATA[
 
+    Services.oasAd = new OasAd('');
     new LikeMe.Page();
     Event.observe(window, 'dom:loaded', function() { Services.page.focusOnFirstSensibleField() });
   
 //]]>
 </script>
+
+  <!-- [vvm] -->
+  
+  <div id="vvm-partner-top-bar"><a href="http://villagevoicemedia.com/" target="_blank"><img id="vvm-partner-top-bar-image" src="/images/vvm-banner-images/vvm-partner-top-bar-vvm.png"></a></div>
+
+  <!-- [/vvm] -->
 
   <!-- [header] -->
     <div id="header_container">
@@ -55,50 +73,67 @@
   <!-- [/header] -->
 
   <!-- [search] -->
-  <div id="search_container" class="able-container">
-  <div class="inside">
-    <div class="right-border"><div class="bottom"><div class="bottom-left"><div class="bottom-right"><div class="top"><div class="top-left"><div class="top-right">
-    <div class="content">
-      <form action="/discover" class="new_centroid_ratable_search" id="search_form" method="post" onsubmit="return Services.page.submitSearchForm();">
-        <table border="0" align="center">
-        <tbody><tr valign="middle">
-          <td><label>Discover</label></td>
-          <td><select id="category_plural_name" name="category_plural_name"><option value="restaurants" selected="selected">Restaurants</option>
+  <script type="text/javascript">
+//<![CDATA[
+
+  function redirectFind(formItem) {
+    action = $F(formItem);
+    if(action == 'Find a Person'){
+      Services.page.goto('/find/people')
+    }else if(action == 'Find a Place'){
+      Services.page.goto('/find/places')
+    }
+  }
+
+//]]>
+</script>
+
+<div id="search_container" class="able-container">
+  <div class="bottom-left"><div class="bottom-right"><div class="top-left"><div class="top-right">
+  <div class="content">
+    <form action="/discover" class="new_centroid_ratable_search" id="search_form" method="post" onsubmit="return Services.page.submitSearchForm();">
+
+        <div class="seperator">&nbsp;</div>
+        <label>Get Recommendations For</label>
+        <div class="select-container"><select id="category_plural_name" name="category_plural_name"><option value="restaurants">Restaurants</option>
 <option value="bars">Bars and Nightlife</option>
 <option value="hotels">Hotels</option>
 <option value="activities">Activities</option>
 <option value="fitness/spas">Fitness/Spas/Beauty</option>
-<option value="shopping">Shopping</option>
-<option value="other">Other Stuff</option>
-<option value="people">People</option></select></td>
-          <td><label>Near</label></td>
-          <td><div style="position: relative;" id="autocompleter_parent"><input class="text" id="near" name="near" onkeypress="Element.removeClassName(this, 'required')" type="text" value="Seattle, WA"></div></td>
-          
-          <script type="text/javascript"> 
-            discoverAutocompleter = new LikeMe.View.Autocompleter($('near'), {
-              url: Routing.city_state_autocompletions_path(),
-              positionedParentId: $('autocompleter_parent'),
-              delay: 50,
-              onItemChosen: function() { $('search_form').onsubmit(); }  
-            });
-          </script>
-          
-          <td><input type="image" id="search_submit" src="/images/buttons/go.gif"></td>
-        </tr>
-        </tbody></table>
-      </form>
-    </div>
-    </div></div></div></div></div></div></div>
+<option value="shopping" selected="selected">Shopping</option>
+<option value="other">Other Stuff</option></select>&nbsp;</div>
+        <label>Near</label>
+        <div style="position: relative;" id="autocompleter_parent" class="input-container"><input class="text" id="near" name="near" onkeypress="Element.removeClassName(this, 'required')" type="text" value="Reno, NV">&nbsp;</div>
+        
+        <script type="text/javascript"> 
+          new LikeMe.View.Autocompleter($('near'), {
+            url: Routing.city_state_autocompletions_path(),
+            positionedParentId: $('autocompleter_parent'),
+            delay: 50,
+            onItemChosen: function() { $('search_form').onsubmit(); }  
+          });
+        </script>
+        
+        <input type="image" id="search_submit" src="/images/search-submit.png">
+    </form>
+
+    <div class="seperator">&nbsp;</div>
+    <div class="seperator">&nbsp;</div>
+    <div class="vert-hr"><img src="/images/search-vertical-hr.png"></div>
+    <div class="select-container"><select id="find_browse" name="find_browse" onchange="redirectFind(this)"><option value="Find/Browse" selected="selected">Find/Browse</option>
+<option value="Find a Person">Find a Person</option>
+<option value="Find a Place">Find a Place</option></select>&nbsp;</div>
+
   </div>
+  </div></div></div></div>
 </div>
   <!-- [/search] -->
 
-  <!-- [vvm] -->
   
-  <!-- [/vvm] -->
 
+  
   <!-- [messages - notices & errors] -->
-  <div class="message" id="flash_message" style=""><div class="welcome-message">Put the <a href="/users/new">Me</a> in LikeMe. <a href="/users/new">Sign Up</a> Here to Activate Personalized Recommendations.</div></div>
+  <div class="message" id="flash_message" style=""><a href="/users/new"><img alt="Create-banner" src="http://www.likeme.net/images/banners/create-banner.png?1239128274"></a></div>
   <!-- [messages - notices & errors] -->
 
   <!-- [controller view] -->
@@ -112,6 +147,8 @@
     <div class="side-tab whats-new"><a href="/whats_new">What's New</a></div>
 <div class="side-tab about-us"><a href="/about_us">About Us</a></div>
 <div class="side-tab contact-us"><a href="/contact_us">Contact Us</a></div>
+<div class="side-tab faq"><a href="/faq">FAQ</a></div>
+<div class="side-tab guideline"><a href="/guidelines">Guidelines</a></div>
 <div class="selected-wrapper"><div class="side-tab-selected privacy-policy"><a href="/privacy">Privacy Policy</a></div></div>
 <div class="side-tab terms-of-service"><a href="/terms_of_service">Terms Of Service</a></div>
 
@@ -180,8 +217,7 @@
 
         </div>
         <div class="container-end"><br clear="both"></div>
-      </div>
-          <div class="container-end"><br clear="both"></div>
+</div>          <div class="container-end"><br clear="both"></div>
         </div>
         </div></div></div></div></div></div></div>
       </div>
@@ -189,15 +225,20 @@
 
   <!-- [/controller view] -->
 
+  
+
+
   <!-- [footer] -->
     <div id="footer_container">
     <span>
       ©2008 Like Me Inc. All Rights Reserved /
       <a href="/whats_new">What's New</a> /
       <a href="/about_us" rel="nofollow">About Us</a> /
+      <a href="/contact_us" rel="nofollow">Contact Us</a> /
+      <a href="/faq" rel="nofollow">FAQs</a> /
       <a href="/privacy" rel="nofollow">Privacy Policy</a> /
       <a href="/terms_of_service" rel="nofollow">Terms of Service</a> /
-      <a href="/contact_us" rel="nofollow">Contact Us</a><br>
+      <br>
     </span>
     
     <h4>
@@ -253,6 +294,12 @@
 
   <!-- [/footer] -->
 
+  <!-- [vvm] -->
+  
+  <div id="vvm-partner-bottom-bar"><a href="http://villagevoicemedia.com/" target="_blank"><img id="vvm-partner-bottom-bar-image" src="/images/vvm-banner-images/vvm-partner-top-bar-vvm.png"></a></div>
+
+  <!-- [/vvm] -->
+
   <!-- [tracking] -->
   
     <script type="text/javascript">
@@ -269,14 +316,14 @@
       var pageTracker = _gat._getTracker("UA-3792237-1");
       Services.page.pageTracker = pageTracker;
       pageTracker._initData();
-      pageTracker._trackPageview();
+            pageTracker._trackPageview();
     
 //]]>
 </script>
   
   <!-- [/tracking] -->
-
 </div>
+
 
 
 </body></html>
