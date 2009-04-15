@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222004101id_/http%3A//www.paydayfinders.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415182628id_/http%3A//www.paydayfinders.co.uk/privacy) for the most accurate reproduction.*
 
 # UK Cash Loans
 
