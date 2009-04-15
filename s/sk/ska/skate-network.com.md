@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the skate-network.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223165202id_/http%3A//www.skate-network.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skate-network.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415211525id_/http%3A//www.skate-network.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Skate Social Network
+# Skate Social Network | skate community, skater group, skateboard discussion
 
 **PRIVACY POLICY  
 **
 
-**Networks Me Limited ("we", “us”)** are committed to protecting and respecting your privacy.
+**Chatter Limited ("we", “us”)** are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Networks Me Limited.
+For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Chatter Limited.
 
 Our nominated representative for the purpose of the Act is Ian Johnson.
 
