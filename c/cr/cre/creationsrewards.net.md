@@ -1,24 +1,35 @@
-> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065748id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415154636id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
 
 # CreationsRewards.Net - Get cash and gift cards FREE for taking surveys, shopping online, completing offers, plus more!
 
   
-   CreationsRewards ("CR") is committed to protecting our members personal information. Below explains the type of information we collect from our users and how we use the information on our website. CR links to other websites on the Internet, and we are not responsible for the content or privacy policies of such websites. _ **Information Collected**_  
-   When you join CR, we collect your name, address, Email address, and various demographics. This information is voluntarily, as members choose to signup for our online incentive program.
+**CreationsRewards abides by the Privacy Policy listed below.** CreationsRewards ("CR") closely guards personally identifiable information disclosed to us at time of registration, and at any time during your usage of the CreationsRewards.Net website.  Your information will only be shared with a third party if you have chosen to share your information. Sharing of information includes participation in opt-in and opt-out offers. By checking opt-in box, your information such as name and Email address are shared. If you are unsure which data is sent to the opt-in offer, you can contact us at [support@creationsrewards.net](mailto:support@creationsrewards.net) for the details on the information to be shared. If you do not complete opt-in and/or opt-out offers on our website, your information is not shared with any third party. _ **Mail Received**_  
+Upon registering for CreationsRewards.Net, you are choosing to opt-in to our website and will receive E-Mail from us.  E-Mail is sent in both HTML & Plain Text.   Mailings are sent daily to all members who confirmed their accounts via the Welcome E-Mail. (Double opt-in)  Our E-Mails remind members to visit our website to accumulate points for surveys, as well as any special offers that CreationsRewards is promoting.  CreationsRewards typically sends two E-Mails per day to all members.  If you do not click on the confirmation link in the initial welcome message, you will not receive E-Mails from us other than the confirmation E-Mails asking to confirm your account.  You can opt-out of CreationsRewards at any time by using the opt-out link present at the bottom of every E-Mail sent.  Please see the "Unsubscribe" section below for alternative ways to unsubscribe. _ **
 
-   Each time you visit CR, our website automatically logs the following:
+Information Collected
 
-   ● Your current IP address   
-   ● The Referrer link (Last site visited before you came here)   
-   ● Web browser type
+**_  
+When you register or provide information to CreationsRewards, CreationsRewards is the sole owner of the data.  CreationsRewards does not rent, sell, or share your data with any third party.  In order to access CreationsRewards, you must complete our registration process.  During this process a new member is asked to provide basic information about themselves, including name, address, E-Mail address, date of birth, and gender.  This information enables CreationsRewards to contact the member about the program, as well as to target offers that might match their demographics.
 
-   We use this information to diagnose problems that may arise when certain visitors come to the CR website. Web browser and IP information is also used when fraudulent activity arises.
+When a member redeems their points with CreationsRewards, the member will be asked to input information necessary for fulfillment of their redemption.  This data typically will consist of the member's E-Mail address and physical mailing address.  The data is used to fulfill the redemption as well as to contact the member if any questions arise when processing the redemption.  This information is also used to ensure that members are not engaging in fraudulent activity on CreationsRewards and are abiding by our limit of one account per household. _ **
 
-   We use your information given to customize your CR experience. We use cookies to save your login information so you do not have login each time you visit our website. If you turn off cookies, you will have to login each time you visit your website.
+Cookies and Logs
 
- _ **Sharing of Information**_  
-   Your information will only be shared with a third party if you have chosen to share your information. Sharing of information includes participation in opt-in and opt-out offers. By checking opt-in box, your information such as name and Email address are shared. If you are unsure which data is sent to the opt-in offer, you can contact us for the details on the information to be shared. If you do not complete opt-in and/or opt-out offers on our website, your information is not shared with any third party.  
- 
+**_ Each time you visit CreationsRewards our website automatically logs the following: IP address, Referrer URL, web browser, and operating system.  We use this information to diagnose problems that may arise when certain visitors come to the CreationsRewards website. The data is used in aggregate form to see which browsers and operating systems are most popular among CreationsRewards members for us to improve the member's experience with our website. IP address information is also used when fraudulent activity arises.
 
-|                                      
+CreationsRewards uses cookies to save your login information so you do not have login each time you visit our website, if the "Remember Me" link is checked upon login.  The cookie contains information to identify your login so that you do not need to login in the future.  If you are using a public computer, we highly recommend not checking the "Remember Me" box so that the session with CreationsRewards website ends upon closing the web browser window. **  
+_Unsubscribe_**  
+If a member would like to opt-out of CreationsRewards, it is very easy, and there are many ways to opt-out.  The first way is to click on the "opt-out" link on the bottom of any E-Mail message we send to the member.  This one-click opt-out process is fast and immediate.  Members can also mail in a physical opt-out request, or contact the customer care team at [support@creationsrewards.net](mailto:support@creationsrewards.net).  Manual unsubscribe requests sent via E-Mail are processed within 24 to 48 hours.  Physical mailed requests are processed when received.  Once a member has chosen to opt-out, they are not permitted to join our program again unless they contact Customer Care at [support@creationsrewards.net](mailto:support@creationsrewards.net) to request and give consent to re-join our program. _ **Outside Links  
+**_CreationsRewards links to other websites on the Internet, and we are not responsible for the content or privacy policies of such websites.  Members should be aware when they leave our website to read the privacy policies contained on other websites.  The privacy policy on this page is only applied to CreationsRewards.Net.  
+  
+**_  
+Security_  
+**CreationsRewards takes every action to protect members information.  We require you to set a password to access your data on our website, and offer you the ability to login every time you visit the website.  We protect your data offline as well.  CreationsRewards employees are only given access to personal data to handle a customer care inquiry or redemption.  Otherwise, employees are not permitted to access personal data on members. CreationsRewards servers are also maintained in a secure and professional environment. _ **Updating Information  
+**_CreationsRewards members can update their personal information at any time by logging into CreationsRewards.Net and clicking on the My  Account link at the top of any page. In this area, members can access the Update Account Information link to make changes to their information, such as E-Mail address or mailing address.  In order to verify the identity of a member, the member will need to enter in their CreationsRewards.Net account password to validate the update request.  Members can also manually E-Mail account updates to the customer care team at [ support@creationsrewards.net](mailto:support@creationsrewards.net). _ **Contacting CreationsRewards  
+**_CreationsRewards can be contacted via E-Mail at [ support@creationsrewards.net](mailto:support@creationsrewards.net) or by postal mail at:
 
+CreationsRewards.Net  
+116 S. 19th Ave.  
+Manville, NJ 08835
+
+Privacy Policy Effective: February 2009
