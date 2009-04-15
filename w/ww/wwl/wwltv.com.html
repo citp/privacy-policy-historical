@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the wwltv.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217090645id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wwltv.com privacy policy that was archived on 2009-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415174521id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-
+<!--THE FOLLOWING TAG FORCES IE 8 TO USE IE7 PROPERTIES - DO NOT REMOVE-->
+<meta http-equiv="X-UA-Compatible" content="IE=7">
 <title>Terms of Service | About Us | 
- News for New Orleans, Louisiana
+
+ News and Weather for New Orleans
  | wwltv.com
 </title>
 <!--<script type="text/javascript" src="/sharedcontent/javascript/pagerefresh.js"></script>-->
@@ -84,8 +86,6 @@ OAS_AD('LeaderTop');
 <div id="search_container" style="margin-bottom: 0em;">	
 		<div id="utility_menu">
 		<ul>
-		<li><a href="/" title="" target="_top">Home</a></li>
-		<li> : </li>
 <script type="text/javascript"><!--
 message('img','<a href="/LogOut.do" target="_top">Log Out\</a>\</li>','<li><a href="/sharedcontent/registration/" title="" target="_top">Log In\</a>\</li><li> : \</li><li><a href="/sharedcontent/registration/" title="" target="_top">Become a Member\</a>\</li>');
 //--></script>
@@ -96,29 +96,46 @@ message('img','<a href="/LogOut.do" target="_top">Log Out\</a>\</li>','<li><a hr
 		<li><script type="text/javascript" language="JavaScript1.2" src="http://homepage.belointeractive.com/HomePage.js"></script><a href="" onclick="setHomePage(); return false;" target="_top">Make This Your Home
         Page</a></li>
 		<li> : </li>
-        <a href="http://www.wwltv.com/getfit/" style="color: #d82215;">Get Fit Challenge</a>
-        <li> : </li>
+		<li>        <a href="http://www.wwltv.com/getfit/" style="color: #d82215;">Get Fit Challenge</a></li>
+		<li> : </li>
 		<li><a href="/sharedcontent/myspecialsdirect/?tn" title="">Special Offers</a></li>
 		</ul></div>
 	
 <script language="JavaScript">
-<!--
+
+
 function findSearch()
 {
- searchText = this.document.searchForm.search.value;
- words = searchText.split(" ");
- searchText = words.join("+");
- if(this.document.searchForm.searchselection[1].checked == true) 
- { thisUrl = "/search/search-web.jsp?topic=" + searchText; }
- else 
-  { thisUrl = "/blcS.sc?search=" + searchText; }
+        searchText = this.document.searchForm.search.value;
+        words = searchText.split(" ");
+        searchText = words.join("+");
 
- this.window.location = thisUrl;
+        if(document.searchForm.searchOption[0].checked)
+        {
+                this.window.location = "http://www.wwltv.com/blcS.sc?search=" + searchText + "&cat=all";
+                return false;
+        }
+		
+        else if(document.searchForm.searchOption[1].checked)
+        {       
+                this.window.location = "http://www.wwltv.com/blcS.sc?search=" + searchText + "&cat=web";
+                return false;
+        }
+        return true;
 }
-//-->
+
 </script>
-			
-<form name="searchForm" action="/blcS.sc" method="get" id="search_form" onsubmit="javascript:findSearch();return false;"> <input type="text" name="search" size="30" maxlength="150" value="Search" onfocus="this.value='';"> <input type="submit" value="GO" class="submit"> </form>
+<div style="padding-left: 3px;">				
+<form name="searchForm" action="/blcS.sc" method="get" id="search_form" onsubmit="javascript:findSearch(); return false;">
+<input type="text" name="search" class="search_box" size="30" maxlength="150" value="Search" onfocus="this.value='';"> 
+<input name="searchOption" class="search_site" type="radio" value="0" checked="">
+<span>&nbsp;wwltv.com</span>
+<input name="searchOption" class="search_web" type="radio" value="1">
+<span>&nbsp;Web</span>
+<span class="pwr_google">&nbsp;</span>
+<input type="image" src="/images/gobtn.gif" value="" class="gobtn">
+</form>
+</div>
 </div>
 	<!-- navigation / marketplace buttons -->
 	<div id="navbar">
@@ -132,6 +149,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/local/politics/">Politics</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/actionreport/index.html">Action Reports</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/crime/">Eye on Crime Prevention</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/topstories/stories/wwl030809cbeducation.1774a357.html">Eye on Education</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/traffic/index.html">Traffic</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.louisianalottery.com/index.cfm?md=game&amp;tmp=winningnumber">Lottery Results</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/Katrina/index.html">Katrina Photos</a></li>
@@ -167,6 +185,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.hsgametime.com/neworleans/">HS Gametime</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/jim/">Jim Henderson</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/video/fanchat/">Fan Chat</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/sports/ncaa/">NCAA Tournament</a></li>
 		</ul></div>
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
 	<div class="topNav" id="topNavFrankFoodFrank" onmouseover="showSubNav('topNavFrankFoodFrank', 'subnavFrankFoodFrank', 1);" onmouseout="startHideTimeout();"><a href="http://www.wwltv.com/frankdavis/">Frank<br>Davis</a></div>
@@ -201,7 +220,7 @@ function findSearch()
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.getlisty.com/wwltv">Fun Lists</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.shopperati.com/wwltv/new-blog/">Shopping Blog</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.tvpuzzles.com/wwltv/">Puzzles and Games</a></li>
-		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.greenrightnow.com/wwltv/">The Green Life</a></li>
+		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.greenrightnow.com/wwltv/">Green 4 LA</a></li>
 		<li onmouseover="highlightSubnavLi(this)" onmouseout="deHighlightSubnavLi(this)"><a href="http://www.wwltv.com/animals/">Pets and Animals</a></li>
 		</ul></div>
 	<div class="nav_border"><img src="/images/border.gif" alt=""></div>
@@ -331,7 +350,7 @@ OAS_AD('Txt3');
 		<div class="top_level" id="tab1">
 			<span style="font-size: 12px;"><strong>Autos</strong></span>
 			<div class="autos">
-	<a href="http://motors.louisianacarbuyer.com"><img src="http://www.wwltv.com/bi/ice3/images/lcb.gif" alt="" border="0" align="right"></a>
+	<a href="http://www.wwltv.com/bi/ice3/partners/Adicio/LouisianaCarBuyer/louisianaHome.html&#10;"><img src="http://www.wwltv.com/bi/ice3/images/lcb.gif" alt="" border="0" align="right"></a>
 <div class="utilityboxitem">
 <a href="http://motors.louisianacarbuyer.com">Search Vehicles</a>
 </div>
@@ -347,9 +366,9 @@ OAS_AD('Txt3');
 			<span style="font-size: 12px;"><strong>HomeCenter</strong></span>
 			<div class="autos">
 			
-			<span style="font-size: 10px;">Zero In On Your Next Home</span>
+			<!--<span style="font-size: 10px;">Zero In On Your Next Home</span>-->
 		
-	<div class="utilityboxitem">
+	
 
 <script language="JavaScript">
 		<!--
@@ -357,8 +376,8 @@ OAS_AD('Txt3');
 		//--></script>
 		
 
-<a href="/classifieds/realestate/">Market Analyzer Stats</a></div>
-	<div class="utilityboxitem"><a href="/classifieds/realestate/">Search Properties</a></div>
+<!--<div class="utilityboxitem"><a href="/classifieds/realestate/">Market Analyzer Stats</a></div>
+	<div class="utilityboxitem"><a href="/classifieds/realestate/">Search Properties</a></div>-->
 	
 	<div class="utilityboxitem"><a href="/classifieds/realestate/">Mortgage Calculator</a></div>
 	
@@ -451,24 +470,24 @@ OAS_AD('Txt3');
 
 <p>This Privacy Policy explains the following:
 </p><ul type="square">
-<li> <a href="/registration/privacy/#infotypes">What types of information we collect</a></li>
-<li> <a href="/registration/privacy/#cookies">What cookies and beacons are and why we use them</a></li>
-<li> <a href="/registration/privacy/#personal">How we use your personal information</a></li>
-<li> <a href="/registration/privacy/#share">With whom we share your personal information</a></li>
-<li> <a href="/registration/privacy/#collecting">Who is the party collecting your personal information</a></li>
-<li> <a href="/registration/privacy/#optout">How you can opt-out of sharing your personal information or receiving our promotional communications</a></li>
-<li> <a href="/registration/privacy/#update">How you can update your personal information or registration information</a></li>
-<li> <a href="/registration/privacy/#safeguards">What safeguards we put in place to protect your personal information</a></li>
-<li> <a href="/registration/privacy/#advertising">What you need to know about third-party sites and advertising</a></li>
-<li> <a href="/registration/privacy/#children">Whether we knowingly collect personal information of children under 13</a></li>
-<li> <a href="/registration/privacy/#contact">How you can contact us</a></li>
-<li> <a href="/registration/privacy/#phishing">What you should know about "phishing"</a></li>
-<li> <a href="/registration/privacy/#changes">When this privacy policy is effective and how changes to the privacy policy are posted</a></li>
+<li> <a href="/registration/privacy.html#infotypes">What types of information we collect</a></li>
+<li> <a href="/registration/privacy.html#cookies">What cookies and beacons are and why we use them</a></li>
+<li> <a href="/registration/privacy.html#personal">How we use your personal information</a></li>
+<li> <a href="/registration/privacy.html#share">With whom we share your personal information</a></li>
+<li> <a href="/registration/privacy.html#collecting">Who is the party collecting your personal information</a></li>
+<li> <a href="/registration/privacy.html#optout">How you can opt-out of sharing your personal information or receiving our promotional communications</a></li>
+<li> <a href="/registration/privacy.html#update">How you can update your personal information or registration information</a></li>
+<li> <a href="/registration/privacy.html#safeguards">What safeguards we put in place to protect your personal information</a></li>
+<li> <a href="/registration/privacy.html#advertising">What you need to know about third-party sites and advertising</a></li>
+<li> <a href="/registration/privacy.html#children">Whether we knowingly collect personal information of children under 13</a></li>
+<li> <a href="/registration/privacy.html#contact">How you can contact us</a></li>
+<li> <a href="/registration/privacy.html#phishing">What you should know about "phishing"</a></li>
+<li> <a href="/registration/privacy.html#changes">When this privacy policy is effective and how changes to the privacy policy are posted</a></li>
 </ul>
 <p></p>
 <a name="infotypes"></a>
-<p></p><h3>What Types of Information Do We Collect?</h3><br>
-The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters.  In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information.<p></p>
+<h3>What Types of Information Do We Collect?</h3><br>
+<p>The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters.  In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information.</p>
 
 <p><strong>Registration Information</strong> <br>
 While visiting the Site, we may ask you to register and/or provide information that personally identifies you ("Personal Information").  Such Personal Information may include, but is not limited to, your name, phone number, mailing address, and e-mail address.  On any page that collects Personal Information, we will describe what information is required to provide you with the product or service you request or to respond to your inquiry or comment.</p>
@@ -653,27 +672,18 @@ in either the storycontentleft div or the storycontentright div -->
 <!--
 OAS_AD('EyeblasterRovion');
 //-->
-</script> 
+</script>
 <script type="text/javascript">
 <!--
 OAS_AD('Popunder');
 //-->
-</script> 
+</script>
 
 <p><a href="/" title="/">Home</a> | <a href="/helpcenter/faq-advertising.html" title="/helpcenter/faq-advertising.html">Advertise with Us</a> | <a href="/aboutus/aboutus.html" title="About Us">About Us</a> | <a href="/mediakit/" title="Media Kit">Media Kit</a> | <a href="/aboutus/employment.html" title="Careers">Careers</a> | <a href="/sitemap/" title="Site Map">Site Map</a> | <a href="/contact/" title="Contact Us">Contact Us</a> <br>
 
 <a href="/contact/" title="Help">Help</a> | <a href="/registration/terms.html" title="Terms of Service">Terms of Service</a> | <a href="/registration/privacy.html" title="Privacy">Privacy</a> | <a href="/sharedcontent/myspecialsdirect/?ft" title="Sign up for Special Offers">Special Offers</a></p>
 
-<p>© 2008 WWL-TV, INC.</p> 
-
-<!-- begin tacoda -->
-<script type="text/javascript">Tacoda_AMS_DDC_js=1.0</script>
-<script type="text/javascript" language="JavaScript1.1">Tacoda_AMS_DDC_js=1.1</script>
-<script type="text/javascript" language="JavaScript1.2">Tacoda_AMS_DDC_js=1.2</script>
-<script type="text/javascript" language="JavaScript1.3">Tacoda_AMS_DDC_js=1.3</script>
-<script type="text/javascript">Tacoda_AMS_DDC("http://te.wwltv.com/blank.gif", Tacoda_AMS_DDC_js)</script>
-<noscript><img src="http://te.wwltv.com/blank.gif" width="1" height="1" border="0" alt="" /></noscript>
-<img src="http://te.belointeractive.com/blank.gif" width="1" height="1" border="0" alt="">
+<p>© 2009 WWL-TV, INC.</p>
 
 
 <!-- begin omniture -->
@@ -704,7 +714,7 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 </div>
 
 <div style="display:none;">
-	
+
 	<!--Start Generated Navigation Data-->
 <!--Start Generated Navigation Data--><div id="subnav_container_main">
 		<div id="group_header_LocalNews2" class="group_header">News</div>
@@ -722,6 +732,8 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LocalNewsActionReports"><a href="http://www.wwltv.com/actionreport/index.html" class="sub_nav_link" id="subnav_link_text_LocalNewsActionReports">Action Reports</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_EyeOnCrime"><a href="http://www.wwltv.com/crime/" class="sub_nav_link" id="subnav_link_text_EyeOnCrime">Eye on Crime Prevention</a></div>
+				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_EyeOnEducation"><a href="http://www.wwltv.com/topstories/stories/wwl030809cbeducation.1774a357.html" class="sub_nav_link" id="subnav_link_text_EyeOnEducation">Eye on Education</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LocalNewsTraffic2"><a href="http://www.wwltv.com/traffic/index.html" class="sub_nav_link" id="subnav_link_text_LocalNewsTraffic2">Traffic</a></div>
 				</div>
@@ -793,6 +805,8 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_fanchat"><a href="http://www.wwltv.com/video/fanchat/" class="sub_nav_link" id="subnav_link_text_fanchat">Fan Chat</a></div>
 				</div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_ncaatournament"><a href="http://www.wwltv.com/sports/ncaa/" class="sub_nav_link" id="subnav_link_text_ncaatournament">NCAA Tournament</a></div>
+				</div>
 			</div><div id="group_header_FrankFoodFrank" class="group_header">Frank Davis</div>
 			<div class="subnav_group" id="parent_FrankFoodFrank">
 					<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_FrankFoodFrankFishin"><a href="http://www.wwltv.com/frankdavis/" class="sub_nav_link" id="subnav_link_text_FrankFoodFrankFishin">Fishin' and Cookin'</a></div>
@@ -837,7 +851,7 @@ _qoptions = { tags:"broadcast" }; _qacct="p-f3by407IY9_LE";quantserve();</script
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LifestylesPuzzles"><a href="http://www.tvpuzzles.com/wwltv/" class="sub_nav_link" id="subnav_link_text_LifestylesPuzzles">Puzzles and Games</a></div>
 				</div>
-			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LifestylesGreen"><a href="http://www.greenrightnow.com/wwltv/" class="sub_nav_link" id="subnav_link_text_LifestylesGreen">The Green Life</a></div>
+			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LifestylesGreen"><a href="http://www.greenrightnow.com/wwltv/" class="sub_nav_link" id="subnav_link_text_LifestylesGreen">Green 4 LA</a></div>
 				</div>
 			<div style="float: left;"><div class="nav_arrow"><img src="/images/blue_arrow.gif" alt=""></div><div class="subnav_box" id="subnav_box_LifestylesAnimals"><a href="http://www.wwltv.com/animals/" class="sub_nav_link" id="subnav_link_text_LifestylesAnimals">Pets and Animals</a></div>
 				</div>
