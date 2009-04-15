@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202857id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416011928id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Computer Review, Download Freeware, Notebook Review, Laptop Driver, Electronic Review, Hardware, Printer Review, PDA Review, Smartphones Review, Car Electronics, Gadgets Review, Resetting Printer, PDA Cold Reset, PDA Hard Reset, Smartphone Cold Reset, Smartphone Hard Reset
 
@@ -12,7 +12,8 @@ Please read this statement regarding our blogs. If you have questions please ask
 
 You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
 
-**Ownership of Information**  
+**Ownership of Information**
+
 Slayo.com is the sole owner of any information collected on our websites.
 
 **Comments/Message Boards**
@@ -47,11 +48,13 @@ Slayo.com websites frequently link to other websites. We are not responsible for
 
 When Slayo.com makes changes to this privacy policy we will post those changes here.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
+
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us.
 
+Copy the code below to your web site.
+
   
 
-
-## advertise
