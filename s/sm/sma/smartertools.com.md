@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151729id_/http%3A//www.smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415050840id_/http%3A//www.smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SmarterTools
 
@@ -28,7 +28,7 @@ SmarterTools is committed to protecting the security of your personal informatio
 SmarterTools’ privacy policy may change from time to time. When we post changes to this privacy policy, we will revise the “last updated” date on this page.
 
 **Contacting SmarterTools**  
-SmarterTools welcomes your comments regarding this privacy policy. If you have questions about our privacy policy, the practices of this site, or your interactions with SmarterTools, please contact us by emailing [sales@smartertools.com ](mail:sales@smartertools.com) or calling us toll-free at 877-357-6278.
+SmarterTools welcomes your comments regarding this privacy policy. If you have questions about our privacy policy, the practices of this site, or your interactions with SmarterTools, contact the SmarterTools Sales Department via Live Chat, email us at: [sales@smartertools.com ](mail:sales@smartertools.com), or call us toll-free at 877-357-6278.
 
 Upon request, we may provide site visitors with access to all information (including proprietary information) that we maintain about them. Please contact our sales department to request and/or correct this information.
 
