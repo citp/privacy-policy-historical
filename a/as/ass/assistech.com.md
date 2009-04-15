@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assistech.com privacy policy that was archived on 2006-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060715011945id_/http%3A//assistech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assistech.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416002413id_/http%3A//assistech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,11 @@ Unlike some companies who sell their customer information to third parties, we b
 
   * For example, when an item is not available, we may send your shipping information to our suppliers so they can fulfill your order.
 
+  
+
   * Return email addresses are not used for any purpose other than to answer emails we may receive or to send you a copy of our bi-monthly newsletter. 
 
   * If you do not wish to receive electronic mailings, you can have your name removed from our internal mailing list at any time. Removal instructions appear at the bottom of each newsletter.
 
 
- 
+
