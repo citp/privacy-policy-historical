@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbie-dressupgames.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222061706id_/http%3A//www.barbie-dressupgames.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbie-dressupgames.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415170040id_/http%3A//www.barbie-dressupgames.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
