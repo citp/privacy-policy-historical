@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001446id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415164059id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
 # Vitalfootball Privacy Policy
 
