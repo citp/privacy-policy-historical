@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226185926id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415045033id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # WhiteSmoke Privacy Statement
 
@@ -34,5 +34,3 @@ We may use your registration information and other voluntarily submitted informa
 Internally, we use Aggregate Information in a number of ways to improve our services, our website and its content. 
 
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future we may change this Privacy Policy at any time by posting revisions to our website. Your use of WhiteSmoke Website and of our services constitutes acceptance of the provisions of this Privacy Policy and your continued usage after such changes are posted constitutes acceptance of each revised version of the Privacy Policy. If you do not agree to the terms of this Privacy Policy or any revised version thereof, please exit Whitesmoke Website immediately. 
-
-Copyright © 2002 - 2008 WhiteSmoke Inc. All Rights Reserved
