@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110204id_/http%3A//gamescene.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416061436id_/http%3A//gamescene.com/privacy.html) for the most accurate reproduction.*
 
 # GameScene : Privacy Policy
 
@@ -42,4 +42,4 @@ According to law, we must provide complete contact information in our privacy po
 
 Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/email-feedback.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
 
-Mailing address: CleverMedia, 200 W Hampden Ave, Englewood, CO 80110. Do not send us junk mail.
+Mailing address: CleverMedia, P.O. Box 17408, Denver, CO 80217. Do not send us junk mail.
