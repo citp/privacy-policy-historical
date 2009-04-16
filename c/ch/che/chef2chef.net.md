@@ -1,70 +1,66 @@
-> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604085813id_/http%3A//chef2chef.net/contacts/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416215256id_/http%3A//www.chef2chef.net/contacts/privacy.htm) for the most accurate reproduction.*
 
-# Chef2Chef Privacy Statement
+# Privacy Statement and Terms of Service at Chef2chef
 
-This statement discloses the privacy practices for the Chef2Chef.Net Web Site. Questions regarding this statement should be directed to the Webmaster by emailing to the [**Webmaster**](http://chef2chef.net/forms/mail-fr.htm). **Information this Site Gathers/Tracks**
+## Introduction
 
- ****
+We at Quinstreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-The Chef2Chef.Net's Web site logs IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. **This means that a user’s session will be tracked, but the user will be anonymous.**
+Quinstreet, Inc. has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.   
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit Quinstreet, Inc. Web pages without telling us who you are or revealing any Personal Information about yourself. 
 
-You can browse our site without entering any personal information and therefore remain anonymous during your visit. However, we hope that all of our visitors will register with us so that we can learn more about our valuable customers and keep them updated with our monthly newsletter. Our registration form asks users for their email address only.
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Quinstreet, Inc. or to Quinstreet, Inc. third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
 
-**
+Quinstreet, Inc. strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Quinstreet, Inc. intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
-Use of the Information this Site Gathers/Tracks
+## Cookies and Other Tracking Technologies
 
-**
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
-The Chef2Chef.Net Web site logs IP addresses for systems administration purposes and these logs will be analyzed to constantly improve the value of the materials available on the website.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
 
-**
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles: 
 
-Chef2Chef.Net Newsletter
+  * Notice
+  * Choice
+  * Security
+  * Access/Accuracy
+  * Notice
 
-**
 
-We encourage all visitors to subscribe to the Chef2Chef.Net Newsletter. Your email address is used to send you our newsletter containing product updates and special offers. ** Newsletter Opt-out Policy**
 
- ****
+Where Quinstreet, Inc. collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Quinstreet, Inc. or those working on behalf of Quinstreet, Inc.. Quinstreet, Inc. does not intend to transfer Personal Information without your consent to third parties who are not bound to act on behalf of Quinstreet, Inc. unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page. 
 
-If at any time after subscribing, you change your mind about receiving the newsletter, you may unsubscribe from it here.
+## Choice
 
-**Sharing of the Information this Site Gathers/Tracks**
+You may choose whether or not to provide Personal Information to Quinstreet, Inc.. The notice we intend to provide where Quinstreet, Inc. collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most Quinstreet, Inc. Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. 
 
- ****
+If you chose to have a relationship with Quinstreet, Inc., such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
 
-We do not share this information with anyone.
+## Security
 
-**
+Wherever your Personal Information may be held within Quinstreet, Inc. or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
 
-Links
+## Access/Accuracy
 
-**
+To the extent that you do provide us with Personal Information, Quinstreet, Inc. wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Quinstreet, Inc. should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [us](http://www.hef2chef.net/contacts/) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
 
-The Chef2Chef.Net Web site contains links to other Web sites. Please be aware that our privacy policy does not apply to these linked sites. We encourage you to read the posted privacy statement whenever interacting with any Web site.
+## Third Party Services
 
-**Chef2Chef works with third parties that serve ads to this site.** Advertisements served by Engage Business Media also appear throughout this Web site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to [**http://www.engage.com/privacy/**](http://www.engage.com/privacy/).
+Third parties may provide certain services available on Chef2chef.net or its affiliate sites on behalf of Quinstreet, Inc.. Quinstreet, Inc. may provide information, including Personal Information, that Quinstreet, Inc. collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. Quinstreet, Inc. will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of Quinstreet, Inc.. 
 
-** Cookies**
+Quinstreet, Inc. does not intend to transfer Personal Information without your consent to third parties who are not bound to act on behalf of Quinstreet, Inc. unless such transfer is legally required. Similarly, it is against Quinstreet, Inc. policy to sell Personal Information collected online without consent. 
 
- ****
+## Children's Privacy
 
-Our site uses cookies to keep track in the Chef and Restaurant Ranking system for the purpose of limiting anyone to one vote for each Chef or Restaurant during a 24 hour period of time.
+Chef2chef.net and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
 
-**
+## Commitment
 
-Advertiser Cookies
+Protecting your privacy online is an evolving area, and Quinstreet, Inc. Web sites are constantly evolving to meet these demands. 
 
-**
+If you have any comments or questions regarding our Online PRIVACY POLICY, please contact [us](http://www.chef2chef.net/contacts/). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
 
-You may be served cookies from our advertisers while visiting our site. We do not control, nor do we have access to any of the information they may collect.
+## Your Consent
 
-**
-
-Correcting/Update
-
-**
-
-If you would like to correct and/or update your registration information, please contact the [**Webmaster**](http://chef2chef.net/forms/mail-fr.htm)  
-
+By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to Quinstreet, Inc. processing of Personal Information for the purposes given above as well as those explained where Quinstreet, Inc. collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
