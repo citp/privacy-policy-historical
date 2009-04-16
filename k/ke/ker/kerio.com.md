@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023035id_/http%3A//www.kerio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416180856id_/http%3A//www.kerio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Kerio Technologies Inc. | Privacy policy
 
@@ -84,6 +84,12 @@ General email inquiry
 
 **Global Offices**
 
+**Kerio Technologies, Inc.**  
+155 Water Street, 5th Floor  
+Brooklyn, NY 11201  
+USA  
+Phone: +1 (718) 943-8057
+
 **Kerio Technologies UK Ltd.**  
 Enterprise House  
 Vision Park  
@@ -103,6 +109,15 @@ Phone: +420 377 338 901
 Fax: +420 377 338 921  
 [info@kerio.cz](mailto:info@kerio.cz)  
 [www.kerio.cz](http://www.kerio.cz/)
+
+**Kerio Technologies DE Ltd.**  
+Brückenstr. 2  
+51379 Leverkusen  
+Deutschland  
+Tel: +49 2171 36 36 136  
+Fax: +49 2171 36 36 131  
+[info@kerio.de](mailto:info@kerio.de/)  
+[www.kerio.de](http://www.kerio.de/)
 
 **Kerio Technologies Russia**  
 Bersenevskaja Quay, b. 20/2,   
