@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172044id_/http%3A//www.sportssignup.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417002224id_/http%3A//www.sportssignup.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
@@ -47,8 +47,6 @@ We use session ID cookies. We use session ID cookies to make it easier for you t
 #### Credit Card Information
 
 When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption (see Web Security section) and processed via the Customer’s merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League”) will appear on the Registrant’s credit card statement.
-
-For Customer’s electing to have SportsSignup process credit cards on their behalf, payment information is entered on a secure web page, using SSL encryption (see Web Security section) and is processed by an authorized payment processing service provider.  Only the last 4 digits of the credit card number are stored in the SportsSignup system. A charge from www.SportsSignup.com will appear on the Registrant’s credit card statement.
 
 The SportsSignup system is PCI Complaint. SportsSignup is enrolled in Trustwave's Trusted Commerce program, a third party service provider, to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe.   
 Trustwave's Trusted CommerceSM designation indicates that SportsSignup protects credit card and order information in accordance with payment card industry best practices. 
