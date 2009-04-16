@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152753id_/http%3A//www.telecom.co.nz/help/content/0%2C10709%2C101183-204492%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416191619id_/http%3A//www.telecom.co.nz/help/content/0%2C10709%2C101183-204492%2C00.html) for the most accurate reproduction.*
 
 # Our Privacy Policy : Telecom New Zealand Limited
 
@@ -18,6 +18,8 @@
 
 ## 8\. Changing this policy
 
+## 1\. Our Privacy Policy
+
 In this policy 
 
   * "we" or "Telecom" means Telecom New Zealand Limited or any related Telecom Group company providing you with our services 
@@ -26,7 +28,11 @@ In this policy
 
 
 
+## 2\. Other policies applying to our services
+
 In addition to our Privacy Policy, our [Legal Disclaimer](https://web.archive.org/help/content/0,10709,100532-204492,00.html) applies to your use of our services. It is important that you are familiar with our Legal Disclaimer. Please read it in conjunction with this policy. It includes our site management rights.
+
+## 3\. Visitors
 
 If you are just surfing and reading information on our website, then we collect and store the following information about your visit 
 
@@ -42,15 +48,23 @@ We use that information to measure the number of visitors to different parts of 
 
 If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information only for the purposes that you authorised. Email marketing will only be sent to your email address if you have given your consent. Personal information will be stored and used in accordance with Telecom's [Terms and Conditions](https://web.archive.org/help/content/0,10709,200914-204492,00.html). To update your personal information such as billing address you can contact us by email, or call us on 123. 
 
+## 4\. Security
+
 When signing in or shopping online, look for the 'padlock' symbol at the bottom of your web browser. The 'padlock' symbol is a certificate of authenticity and ensures the site is secure. You can double-click the padlock symbol to view the certificate's details. 
 
 Secure Socket Layer (SSL) is the most accepted way of ensuring the security of transmitted information to and from Internet sites worldwide. On our site, it operates when you complete and send forms, but not while you are simply surfing the site. We are using SSL with VeriSign Authentication Certificates with RC4 128 bit encryption.
 
+## 5\. Use of cookies
+
 Telecom's website places a cookie on the hard drive of your computer. A "cookie" is a file which allows Telecom to track and target the interests of users. While we recommend that users enable cookies on their browsers in order to enjoy all the features of the site, the decision remains in the hands of the individual. (The management of cookies will be different depending on each user's PC - refer to your browser help menu for further information).
+
+## 6\. Telecom customers
 
 If you are a Telecom customer, Telecom's [Terms and Conditions](https://web.archive.org/help/content/0,10709,200914-204492,00.html) apply to your use of Telecom services. Choose the Terms and Conditions that refer to the Telecom service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you. 
 
 Additionally, if you do provide us with personal information via your use of this site - for example by allowing the use of cookies or by filling out an electronic query form - we may link this information to your Telecom customer profile. We may also use this information to improve the website for different customer profiles.
+
+## 7\. Telecom email marketing policy
 
 www.telecom-email.co.nz is owned by Telecom and operated by SmartMail, a permission-based email marketing solutions supplier to Telecom and other New Zealand and International-based organisations.
 
@@ -80,6 +94,8 @@ If you have difficulty unsubscribing from a client's email campaigns using any o
 If you feel that your email address has been used without your permission and contacting the sender has not yielded satisfactory results you can issue a formal complaint by emailing us at abuse@smartmail.co.nz
 
 If you have any comments on our Permission Marketing Policy or would like to receive additional information about SmartMail or our services, please contact inquiries@smartmail.co.nz
+
+## 8\. Changing this policy
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
