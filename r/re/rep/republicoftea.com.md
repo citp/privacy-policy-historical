@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153208id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416192113id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
 
-# The REPUBLIC of TEA - Exquisite Green Tea, Red Tea, White Tea, Black Tea, Oolong Tea and More.
+# The Republic of Tea - Privacy Policy
 
 The Republic of Tea has created this privacy statement in order to demonstrate our firm commitment to our Citizens' privacy. The following discloses our information gathering and dissemination practices for this web site.
 
@@ -62,6 +62,8 @@ How to Unsubscribe from The Republic of Tea's Direct Mail (Physical Mail) Progra
 
 3) Send email to [customerservice@republicoftea.com](mailto:customerservice@republicoftea.com?subject=Catalogue%20Opt-out)
 
+You may also request removal by phone by calling 1-800-298-4832.
+
 Your consent 
 
-You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to The Republic of Tea's privacy policy. The Republic of Tea reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+You acknowledge that this privacy policy is part of the terms of use and you agree that using this site signifies your assent to The Republic of Tea's privacy policy. The Republic of Tea reserves the right to change the terms of use, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
