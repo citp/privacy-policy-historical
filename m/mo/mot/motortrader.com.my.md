@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045934id_/http%3A//www.motortrader.com.my/Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortrader.com.my privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416184026id_/http%3A//www.motortrader.com.my/Privacy_Statement.asp) for the most accurate reproduction.*
 
 # Motor Trader - Privacy Statement for Motor Trader Interactive
 
-MTM Publications (Malaysia) Sdn Bhd (co. no. 429449-W) has created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, Motor Trader Interactive website. 
+MTM Multimedia Sdn Bhd (co. no. 429449-W, formerly known as MTM Publications Sdn Bhd) has created this privacy statement to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, Motor Trader Interactive website. 
 
 **Information collected by Motor Trader Interactive**  
 Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user's e-mail address unless the user supplies it. 
@@ -13,7 +13,7 @@ We collect information about users during the registration process for certain p
 
 The information collected is meant to identify the broad demographic profile of our users. This information does not contain anything that can identify users individually. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. You may receive periodic mailings from us with information on new products or services in our magazine or on our website(s), namely Motor Trader Interactive & Autocar Asean website. 
 
-The user-supplied information (email address, identity card number) collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used for MTM Publications (Malaysia) Sdn Bhd’s marketing purposes. The user-supplied contact information is also used to contact the visitor when necessary. It is not shared with other organisations for commercial purposes unless specifically stated. We may use such information for to improve the content of our site or targeting appropriate editorial or advertising content to users but users will always be able to opt out of such mailings. 
+The user-supplied information (email address, identity card number) collected through the registration process, surveys, contest entry forms, polls or other similar vehicles is used for MTM Multimedia Sdn Bhd�s marketing purposes. The user-supplied contact information is also used to contact the visitor when necessary. It is not shared with other organisations for commercial purposes unless specifically stated. We may use such information for to improve the content of our site or targeting appropriate editorial or advertising content to users but users will always be able to opt out of such mailings. 
 
 **Public Forums**  
 This site makes chat rooms, forums, and/or message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We respect freedom of speech and request that users respect one another in exercising said freedom. 
