@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053705id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416105849id_/http%3A//www.shoptoit.ca/shop/content--name_Privacy%2BPolicy__cid_185.html) for the most accurate reproduction.*
 
 # Privacy Policy - Canadian Buying Guides, Trends and Gift Ideas - Shoptoit.ca
 
