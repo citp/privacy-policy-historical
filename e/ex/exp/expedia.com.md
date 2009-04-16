@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229050443id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416121203id_/http%3A//www.expedia.com/daily/service/privacy.asp) for the most accurate reproduction.*
 
 # Expedia.com Privacy Policy
 
@@ -10,11 +10,6 @@ OPTIONS
   
 |    
 **Expedia.com Privacy Policy** Below you will find the updated Privacy Policy for Expedia.com, effective December 1, 2006. For answers to some frequently asked questions about this update, please visit our [Privacy FAQ](https://web.archive.org/daily/service/privacy_FAQ.asp). If you have not registered or otherwise provided information through this site on or after September 1, 2006, please refer to our [previous privacy policy](https://web.archive.org/daily/service/previousprivacy.asp). 
-
-|  [](http://www.bbbonline.org/cks.asp?id=200111410491211725) |   
----|---  
-  
-By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program, we have made a commitment to have our privacy practices and this Privacy Policy approved by BBBOnLine®. Further information about this program is available at BBBOnLine®. 
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting our U.S. website, www.expedia.com, you are accepting the practices described herein. 
 
@@ -99,6 +94,6 @@ If any part of the Expedia.com Web site links you to other Web sites, those Web 
 Expedia.com may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our Web site. 
 
 **How you can contact us**  
-If you have questions about either Privacy Policy (or your travel planning or purchases), please e-mail us using our [support and feedback form](https://www.expedia.com/pub/agent.dll?qscr=fbak&&zz). 
+If you have questions about either Privacy Policy (or your travel planning or purchases), please e-mail us using our [customer service and feedback form](https://www.expedia.com/pub/agent.dll?qscr=fbak&&zz). 
 
 This Privacy Policy is effective as of December 1, 2006. 
