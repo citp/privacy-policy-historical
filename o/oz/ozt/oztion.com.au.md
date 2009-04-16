@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172028id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztion.com.au privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417010623id_/http%3A//www.oztion.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # OZtion Privacy Policy
 
@@ -22,7 +22,7 @@ You agree that OZtion will send you emails throughout the auction process and ot
 
 OZtion does not sell or rent your personal information to third parties. However, the following describes some of the ways your personal information may be disclosed, and by agreeing to our User Agreement and Privacy Policy you agree that your personal information may be disclosed in the following ways.
 
-The OZtion Community  
+The OZtion Community and Internet Users   
 You are identified on OZtion by your User ID, other people can see items you are bidding on, have won or purchased in the past, have sold in the past, items you are currently selling, your ratings and comments received from other users and ratings and comments you have left to other users, your posts in the forums and so on. Your email address and contact information is available to your trading partners (members you have completed a transaction with). Note: members you have completed a transaction with can [request to exchange contact details](http://www.oztion.com.au/secure/User/exchange/exdetails.aspx) with you (name, address and phone numbers).
 
 Legal Requests  
@@ -66,4 +66,4 @@ OZtion contains non-advertising links to a variety of third party sites to enhan
 
 **11\. Updates to our information practices**
 
-From time to time, we make changes to this Privacy Policy, so we encourage you to periodically review this page for the latest information on privacy practices at OZtion. Last updated: 06/11/2007 
+From time to time, we make changes to this Privacy Policy, so we encourage you to periodically review this page for the latest information on privacy practices at OZtion. Last updated: 25/03/2009 
