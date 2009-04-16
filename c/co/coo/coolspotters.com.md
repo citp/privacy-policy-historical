@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017095045id_/http%3A//coolspotters.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416035755id_/http%3A//coolspotters.com/privacy) for the most accurate reproduction.*
 
-# Coolspotters - Privacy Policy
+# Privacy Policy - Coolspotters
 
-#### Coolspotters is hiring!
-
-We're looking for fashion mavens, software wizards, and a few jobs in between. If you love pop culture, and working on a next-generation web platform sounds exciting, check out <http://fanzter.com/jobs>.
+[](http://www.facebook.com/pages/Coolspotters/55161062856)
 
 ## Privacy Policy
 
@@ -34,10 +32,12 @@ We neither rent nor sell your personal information to anyone. We share your info
   * Agents – Fanzter employs other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Some examples of this include providing customer service, removing illicit or indecent content, analyzing data, or providing marketing assistance.
   * Promotions – We may send promotional offers to registered users on behalf of other businesses. Although we will not give them your address or phone number, you can cancel the receipt of these offers by emailing us at [legal@fanzter.com](mailto:legal@fanzter.com).
   * Business Transfers – In the case of Fanzter buying or selling assets, personal customer information will be considered a business asset and as such, we retain the right to transfer this information as part of any such transaction.
-  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](http://coolspotters.com/s/terms "Terms of Service") (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
+  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](http://coolspotters.com/terms "Terms of Service") (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
 
 
 
 ### Security of Information/Password
 
 We recommend you always keep your password private and secure. It is also recommended that, when using a shared computer, you completely log off from our site in order to prevent unauthorized access to your password. 
+
+[ ](http://fanzter.com/)
