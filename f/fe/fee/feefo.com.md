@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035345id_/http%3A//www.feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232411id_/http%3A//feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.*
 
 # Feefo - Independent Customer Reviews and Feedback - Privacy Policy
 
