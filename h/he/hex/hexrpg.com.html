@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hexrpg.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216043149id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hexrpg.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416231728id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <script src="/jquery.js"></script>
@@ -7,119 +7,14 @@
 <script src="/teststuff/jquery.timers.js"></script>
 <script src="/teststuff/ui.core.js"></script>
 <title>Hogwarts Extreme : An Interactive Harry Potter RPG Website</title>
-<link rel="stylesheet" type="text/css" href="/layouts/christmas08/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="chatstylesheet.css" media="all">
+<link rel="stylesheet" type="text/css" href="/layouts/hex_blue/style.css" media="all">
+<link href="/favicon.ico" rel="icon" type="image/x-icon"> 
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="description" content="An Interactive Harry Potter RPG Website">
 <meta name="keywords" content="harry potter, role playing, hogwarts, rpg, beauxbatons, fleur, percy, neville, harry potter website, prisoner of azkaban, half-blood prince, half blood prince, order of the pheonix, socerers stone, philiosophers stone, chamber of secrets, goblet of fire, weasley, harry potter rpg, magic, witch, wizard, muggle, voldemort, jk rowling, j k rowling, j.k. rowling, interactive rpg, roleplaying, tom riddle, dumbledore, emma watson, daniel radcliffe, rupert grint, hex, tom felton, daily prophet, quibbler, interaction, jo rowling, rita skeeter, game, role-playing, deathly hallows, deathly hollows">
-<script type="text/javascript">
-
-// Set the number of snowflakes (more than 30 - 40 not recommended)
-var snowmax=35
-
-// Set the colors for the snow. Add as many colors as you like
-var snowcolor=new Array("#AAAACC","#DDDDFF","#CCCCDD","#F3F3F3","#F0FFFF")
-
-// Set the fonts, that create the snowflakes. Add as many fonts as you like
-var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
-
-// Set the letter that creates your snowflake (recommended: * )
-var snowletter="*"
-
-// Set the speed of sinking (recommended values range from 0.3 to 2)
-var sinkspeed=0.6
-
-// Set the maximum-size of your snowflakes
-var snowmaxsize=22
-
-// Set the minimal-size of your snowflakes
-var snowminsize=8
-
-// Set the snowing-zone
-// Set 1 for all-over-snowing, set 2 for left-side-snowing 
-// Set 3 for center-snowing, set 4 for right-side-snowing
-var snowingzone=1
-
-  /*
-   //   * NO CONFIGURATION BELOW HERE *
-*/
-
-// Do not edit below this line
-var snow=new Array()
-var marginbottom
-var marginright
-var timer
-var i_snow=0
-var x_mv=new Array();
-var crds=new Array();
-var lftrght=new Array();
-var browserinfos=navigator.userAgent 
-var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
-var ns6=document.getElementById&&!document.all
-var opera=browserinfos.match(/Opera/)  
-var browserok=ie5||ns6||opera
-
-function randommaker(range) {		
-	rand=Math.floor(range*Math.random())
-    return rand
-}
-
-function initsnow() {
-	if (ie5 || opera) {
-		marginbottom = document.body.clientHeight
-		marginright = document.body.clientWidth
-	}
-	else if (ns6) {
-		marginbottom = window.innerHeight
-		marginright = window.innerWidth
-	}
-	var snowsizerange=snowmaxsize-snowminsize
-	for (i=0;i<=snowmax;i++) {
-		crds[i] = 0;                      
-    	lftrght[i] = Math.random()*15;         
-    	x_mv[i] = 0.03 + Math.random()/10;
-		snow[i]=document.getElementById("s"+i)
-		snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
-		snow[i].size=randommaker(snowsizerange)+snowminsize
-		snow[i].style.fontSize=snow[i].size
-		snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
-		snow[i].sink=sinkspeed*snow[i].size/5
-		if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
-		if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
-		if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
-		if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
-		snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
-		snow[i].style.left=snow[i].posx
-		snow[i].style.top=snow[i].posy
-	}
-	movesnow()
-}
-
-function movesnow() {
-	for (i=0;i<=snowmax;i++) {
-		crds[i] += x_mv[i];
-		snow[i].posy+=snow[i].sink
-		snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
-		snow[i].style.top=snow[i].posy
-		
-		if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
-			if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
-			if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
-			if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
-			if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
-			snow[i].posy=0
-		}
-	}
-	var timer=setTimeout("movesnow()",50)
-}
-
-for (i=0;i<=snowmax;i++) {
-	document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
-}
-if (browserok) {
-	window.onload=initsnow
-}
-</script></head><body><span id="s0" style="position: absolute; top: 443.52px; font-family: Times; font-size: 14px; color: rgb(243, 243, 243); left: 149.33px;">*</span><span id="s1" style="position: absolute; top: 582.24px; font-family: &quot;Arial Narrow&quot;; font-size: 18px; color: rgb(170, 170, 204); left: 367.414px;">*</span><span id="s2" style="position: absolute; top: 116.44px; font-family: &quot;Arial Narrow&quot;; font-size: 8px; color: rgb(240, 255, 255); left: 72.161px;">*</span><span id="s3" style="position: absolute; top: 602.6px; font-family: &quot;Arial Narrow&quot;; font-size: 20px; color: rgb(243, 243, 243); left: 830.535px;">*</span><span id="s4" style="position: absolute; top: 289.44px; font-family: &quot;Comic Sans MS&quot;; font-size: 8px; color: rgb(170, 170, 204); left: 919.718px;">*</span><span id="s5" style="position: absolute; top: 372.52px; font-family: Times; font-size: 14px; color: rgb(243, 243, 243); left: 989.325px;">*</span><span id="s6" style="position: absolute; top: 188.44px; font-family: Times; font-size: 8px; color: rgb(204, 204, 221); left: 443.784px;">*</span><span id="s7" style="position: absolute; top: 376.6px; font-family: Times; font-size: 20px; color: rgb(240, 255, 255); left: 1344.3px;">*</span><span id="s8" style="position: absolute; top: 3.36px; font-family: Times; font-size: 14px; color: rgb(221, 221, 255); left: 124.809px;">*</span><span id="s9" style="position: absolute; top: 62.28px; font-family: &quot;Arial Narrow&quot;; font-size: 21px; color: rgb(221, 221, 255); left: 881.725px;">*</span><span id="s10" style="position: absolute; top: 613.92px; font-family: &quot;Arial Narrow&quot;; font-size: 19px; color: rgb(221, 221, 255); left: 298.532px;">*</span><span id="s11" style="position: absolute; top: 603.28px; font-family: Times; font-size: 21px; color: rgb(221, 221, 255); left: 824.939px;">*</span><span id="s12" style="position: absolute; top: 626.6px; font-family: &quot;Arial Narrow&quot;; font-size: 20px; color: rgb(240, 255, 255); left: 938.687px;">*</span><span id="s13" style="position: absolute; top: 24.48px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(170, 170, 204); left: 957.782px;">*</span><span id="s14" style="position: absolute; top: 626.8px; font-family: &quot;Comic Sans MS&quot;; font-size: 10px; color: rgb(204, 204, 221); left: 1022.98px;">*</span><span id="s15" style="position: absolute; top: 268.28px; font-family: &quot;Arial Narrow&quot;; font-size: 21px; color: rgb(243, 243, 243); left: 400.373px;">*</span><span id="s16" style="position: absolute; top: 532.84px; font-family: &quot;Arial Black&quot;; font-size: 13px; color: rgb(240, 255, 255); left: 155.851px;">*</span><span id="s17" style="position: absolute; top: 385.8px; font-family: &quot;Arial Narrow&quot;; font-size: 10px; color: rgb(240, 255, 255); left: 374.591px;">*</span><span id="s18" style="position: absolute; top: 312.56px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(204, 204, 221); left: 780.557px;">*</span><span id="s19" style="position: absolute; top: 502.8px; font-family: &quot;Arial Black&quot;; font-size: 10px; color: rgb(240, 255, 255); left: 795.577px;">*</span><span id="s20" style="position: absolute; top: 169.52px; font-family: &quot;Comic Sans MS&quot;; font-size: 14px; color: rgb(221, 221, 255); left: 405.242px;">*</span><span id="s21" style="position: absolute; top: 180.44px; font-family: &quot;Comic Sans MS&quot;; font-size: 8px; color: rgb(243, 243, 243); left: 1016.57px;">*</span><span id="s22" style="position: absolute; top: 87.16px; font-family: Times; font-size: 12px; color: rgb(204, 204, 221); left: 30.9959px;">*</span><span id="s23" style="position: absolute; top: 424.16px; font-family: &quot;Comic Sans MS&quot;; font-size: 12px; color: rgb(243, 243, 243); left: 186.416px;">*</span><span id="s24" style="position: absolute; top: 333.56px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(240, 255, 255); left: 494.968px;">*</span><span id="s25" style="position: absolute; top: 16.8px; font-family: &quot;Arial Narrow&quot;; font-size: 10px; color: rgb(204, 204, 221); left: 857.792px;">*</span><span id="s26" style="position: absolute; top: 399.2px; font-family: &quot;Arial Narrow&quot;; font-size: 15px; color: rgb(204, 204, 221); left: 726.934px;">*</span><span id="s27" style="position: absolute; top: 654.84px; font-family: Times; font-size: 13px; color: rgb(240, 255, 255); left: 616.133px;">*</span><span id="s28" style="position: absolute; top: 500.56px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(240, 255, 255); left: 98.7399px;">*</span><span id="s29" style="position: absolute; top: 708.16px; font-family: Times; font-size: 12px; color: rgb(240, 255, 255); left: 26.5339px;">*</span><span id="s30" style="position: absolute; top: 179.2px; font-family: &quot;Arial Black&quot;; font-size: 15px; color: rgb(204, 204, 221); left: 95.3118px;">*</span><span id="s31" style="position: absolute; top: 655.12px; font-family: &quot;Arial Black&quot;; font-size: 9px; color: rgb(170, 170, 204); left: 1104px;">*</span><span id="s32" style="position: absolute; top: 318.92px; font-family: Times; font-size: 19px; color: rgb(204, 204, 221); left: 305.539px;">*</span><span id="s33" style="position: absolute; top: 558.28px; font-family: &quot;Arial Narrow&quot;; font-size: 21px; color: rgb(240, 255, 255); left: 1241.18px;">*</span><span id="s34" style="position: absolute; top: 717.52px; font-family: &quot;Arial Narrow&quot;; font-size: 14px; color: rgb(170, 170, 204); left: 1140.7px;">*</span><span id="s35" style="position: absolute; top: 219.92px; font-family: &quot;Comic Sans MS&quot;; font-size: 19px; color: rgb(240, 255, 255); left: 1252.42px;">*</span>
+</head><body>
 <div id="bigcontainer" style="width: 600px;"><input type="hidden" id="username" value=""><div id="header" class="header"></div><div style="position:absolute;left:0px;top:140px">
 <table border="0" cellpadding="0" cellspacing="0" width="780" name="mainTable">
 <tbody><tr>
@@ -127,7 +22,7 @@ if (browserok) {
 
 <br><br><br><br>
 <table border="0" cellpadding="10" cellspacing="0" width="160">
-<tbody><tr><td><br><br><br><br><br><br><p><br></p><p><br></p><div style="padding-bottom:5px;border-bottom:1px solid #000000">
+<tbody><tr><td><p><br></p><p><br></p><div style="padding-bottom:5px;border-bottom: 1px solid #000000">
 <div id="navigate" class="categories"></div>
 </div>
 <div style="padding-top:3px;padding-bottom:10px">  &nbsp;&nbsp;<a href="/index.php">Home</a><br>
@@ -171,10 +66,10 @@ if (browserok) {
 </div><div style="padding-bottom:5px;border-bottom: 1px solid #000000">
 <div id="misc_forums" class="categories"></div>
 </div>
-<div style="padding-top:3px;padding-bottom:10px">  &nbsp;&nbsp;<a href="/forum/index.php?forum=232">HDH</a><br>
-  &nbsp;&nbsp;<a href="/forum/index.php?forum=58">Welcome Center</a><br>
+<div style="padding-top:3px;padding-bottom:10px">  &nbsp;&nbsp;<a href="/forum/index.php?forum=58">Welcome Center</a><br>
+  &nbsp;&nbsp;<a href="/forum/index.php?forum=232">HDH</a> *<br>
+  &nbsp;&nbsp;<a href="/forum/index.php?forum=157">HBP Movie</a> *<br>
   &nbsp;&nbsp;<a href="/forum/index.php?forum=285">DH Forums</a><br>
-  &nbsp;&nbsp;<a href="/forum/index.php?forum=155">OotP Forum</a><br>
   <!-- &nbsp;&nbsp;<a href="/forum/index.php?forum=250">HBP Forums</a><br/> -->
   &nbsp;&nbsp;<a href="/forum/index.php?forum=37">Magical Theories</a><br>
   &nbsp;&nbsp;<a href="/forum/index.php?forum=16">Questions</a><br>
@@ -202,6 +97,7 @@ if (browserok) {
   &nbsp;&nbsp;<a href="/forum/index.php?forum=30">Diagon Alley</a><br>
   &nbsp;&nbsp;<a href="/forum/index.php?forum=21">Hogsmeade</a><br>
   &nbsp;&nbsp;<a href="/forum/index.php?forum=38">Knockturn Alley</a><br>
+  &nbsp;&nbsp;<a href="/forum/index.php?forum=70">Fortune's Alley</a> *<br>
   &nbsp;&nbsp;<a href="/store/store_edit.php">Your Store</a><br>
   &nbsp;&nbsp;<a href="/auctions/">Auctions</a><br>
  <!-- &nbsp;&nbsp;<a href="/pets/adopt.php">Pet Adoptions</a><br/>  -->
@@ -210,6 +106,7 @@ if (browserok) {
 <div id="your_items" class="categories"></div>
 </div>
 <div style="padding-top:3px;padding-bottom:10px">&nbsp;&nbsp;<a href="/inventory.php">Inventory</a><br>
+&nbsp;&nbsp;<a href="/dorms/dorm.php?action=trunk">Trunk</a> *<br>
 &nbsp;&nbsp;<a href="/pets/">Your Pets</a><br>
 </div><script type="text/javascript">
 <!--
@@ -249,21 +146,21 @@ google_ad_type = "text_image";
 google_ad_channel = "9902744370";
 google_color_border = "000000";
 google_color_bg = "000000";
-google_color_link = "6699bb";
+google_color_link = "858db2";
 google_color_text = "FFFFFF";
-google_color_url = "6699bb";
+google_color_url = "858db2";
 //--></script>
 <div style="position:absolute;left:0px;">
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</div><div style="position:absolute;left:177px;top:135px"><table border="0" width="385">
+</div><div style="position:absolute;left:177px;top:50px"><table border="0" width="385">
 	<tbody><tr><td>
-	<a href="/login.php">Login</a> - <a href="/enrollment.php">Sign Up</a> - <a href="/terms.php">Terms</a>  -  <a href="/contact.php">Contact</a><div id="date">Monday, December 15, 2008 10:31:46 pm</div>
-	</td></tr></tbody></table></div><div style="position:absolute;left:570px;top:135; z-index: 1;"><table width="200" border="0"><tbody><tr><td align="right">
-<div id="members_online"><b>178 members online</b></div>
+	<a href="/login.php">Login</a> - <a href="/enrollment.php">Enroll</a> - <a href="/whyjoin.php">Why Join?</a> - <a href="/terms.php">Terms</a>  -  <a href="/contact.php">Contact</a><div id="date">Thursday, April 16, 2009 06:17:25 pm</div>
+	</td></tr></tbody></table></div><div style="position:absolute;left:570px;top:50px; z-index: 1;"><table width="200" border="0"><tbody><tr><td align="right">
+<div id="members_online"><b>209 members online</b></div>
 <a href="http://www.darkmark.com" target="_blank">Dark Mark</a>  |
 <a href="http://thegoldenwand.com" target="_blank">The Golden Wand</a></td></tr></tbody></table>
-</div><div style="position:absolute;left:180px;top:200px"><table width="600" border="0" name="mainTable"><tbody><tr><td><script type="text/javascript"><!--
+</div><div style="position:absolute;left:180px;top:100px"><table width="600" border="0" name="mainTable"><tbody><tr><td><script type="text/javascript"><!--
 google_ad_client = "pub-2435912223571474";
 google_ad_width = 468;
 google_ad_height = 60;
@@ -273,9 +170,9 @@ google_ad_type = "text_image";
 google_ad_channel = "4354066640";
 google_color_border = "000000";
 google_color_bg = "000000";
-google_color_link = "6699bb";
+google_color_link = "858db2";
 google_color_text = "FFFFFF";
-google_color_url = "6699bb";
+google_color_url = "858db2";
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
@@ -315,7 +212,7 @@ Please view our <a href="terms.php?view=coppa">COPPA Policy</a> for information.
 <b>Updating of this Policy</b><br><br>
 If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy.  It is your responsibility to notice these notifications.<br>
 <br><p>
-<table><tbody><tr><td><font size="-2"><a href="/about.php"><b>About</b></a> • <a href="/terms.php"><b>Terms</b></a> • <a href="/terms.php?view=pp"><b>Privacy Policy</b></a> • <a href="/terms.php?view=coppa"><b>COPPA Policy</b></a> • <a href="/terms.php?view=credits"><b>Credits</b></a> • <a href="/contact.php"><b>Contact</b></a> •  <a href="/multiples.php"><b>Multiples</b></a></font> <br><br> <font size="1">
+<table><tbody><tr><td><font size="-2"><a href="/about.php"><b>About</b></a> • <a href="/terms.php"><b>Terms</b></a> • <a href="/terms.php?view=pp"><b>Privacy Policy</b></a> • <a href="/terms.php?view=coppa"><b>COPPA Policy</b></a> • <a href="/terms.php?view=credits"><b>Credits</b></a> • <a href="/contact.php"><b>Contact</b></a> • <a href="/multiples.php"><b>Multiples</b></a> • <a href="http://www.facebook.com/profile.php?id=85665605629" target="_blank"><b>Facebook</b></a></font> <br><br> <font size="1">
 All scripts, images, and content belong to Hogwarts Extreme.<br>
 Hogwarts Extreme is an independent HP fan website.<br>
 Images, contents © Warner Brothers, J.K. Rowling, and/or their respective owners.<br>
@@ -334,9 +231,9 @@ google_ad_type = "text_image";
 google_ad_channel = "8057479106";
 google_color_border = "000000";
 google_color_bg = "000000";
-google_color_link = "6699bb";
+google_color_link = "858db2";
 google_color_text = "FFFFFF";
-google_color_url = "6699bb";
+google_color_url = "858db2";
 google_ui_features = "rc:0";
 //-->
 </script>
@@ -344,23 +241,5 @@ google_ui_features = "rc:0";
 </script>
 
 <br><br>
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-2435912223571474";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text_image";
-//2007-11-18: left ad
-google_ad_channel = "9902744370";
-google_color_border = "000000";
-google_color_bg = "000000";
-google_color_link = "878FB4";
-google_color_text = "FFFFFF";
-google_color_url = "858DB2";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
 </p></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table></div></div></body></html>
