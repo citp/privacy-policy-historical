@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222003251id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416200249id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Gardening Know How
+# Privacy Policy For Gardening Know How Gardening Know How
 
 **We will not sell or share your email address.** We respect your privacy. We collect visitor information in an effort to improve your experience and to communicate with you about our services, contests and promotions. We recognize that we must maintain and use customer information responsibly. When obtaining information from you, we follow a simple, common sense principle: we ask only for the information we need to provide the service you request. For example, if you would like to receive emails from us, we need an email address.
 
 This web site does not store or capture personal information, but may log the user’s IP Address which is automatically recognised by the Web Server.
 
-This site’s Web Server/Internet Service Provider (ISP) may use cookies for collecting user information for system administration of the Web server only.You should also be aware that third party cookies may be used for tracking purchases of goods from this website.
+This site’s Web Server/Internet Service Provider (ISP) may use cookies for collecting user information for system administration of the Web server only.You should also be aware that third party cookies may be used for tracking purchases of goods from this website or customizing your advertising experience.
 
 Many companies use cookies to help make your internet experience better. But you have the option of turning off cookies in your browser by going to Tools>Internet Options, but please be aware that turning of cookies will affect your internet experience.
 
