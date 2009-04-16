@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vholdr.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218015141id_/http%3A//www.vholdr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vholdr.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416044143id_/http%3A//www.vholdr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
 	<title>
@@ -71,7 +71,8 @@
 
 
 
-<div id="wrp" style="width:970px;border:0px;padding:0px;"><div id="wrp2" style="width:970px;border:0px">
+<div id="wrp" style="width:970px;border:0px;padding:0px;">
+    <div id="wrp2" style="width:970px;border:0px">
 <div id="hd">
 	<div id="mast">
 		<div class="top-bar">
@@ -85,37 +86,41 @@
 			<div class="left"> <a href="/"><img src="/sites/all/themes/vholdr/images/logo.jpg" alt="VholdR"></a> </div>
 			<div class="center">
 			    <a href="/node/add/video"> <img src="/sites/all/themes/vholdr/images/buttons/upload_video.png" onmouseover="this.src='/sites/all/themes/vholdr/images/buttons/upload_video_on.png'" onmouseout="this.src='/sites/all/themes/vholdr/images/buttons/upload_video.png'" alt="Upload Video" style="float:right; width:103px;"></a>
-				<form action="/search/node" method="post" id="search-theme-form">
-<div><div id="search" class="container-inline"><div class="form-item">
- <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+				<form action="/videolist" method="post" id="fuzzysearch-box-form">
+<div><div class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="keys" id="edit-keys" size="30" value="" class="form-text">
 </div>
-<input type="submit" name="op" id="edit-submit" value="" class="form-submit">
-<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
-</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+</div><input type="hidden" name="form_id" id="edit-fuzzysearch-box-form" value="fuzzysearch_box_form">
+
 </div></form>
 		    </div>
 			<div class="right">
 			    
 			    <table border="0" cellpadding="0" cellspacing="0">
 			        <tbody><tr>
-			        <td rowspan="2"><img src="/sites/all/themes/vholdr/images/holiday/hotline.gif" height="44"></td>
-			        <td><a href="http://shop.helmetcameracentral.com/all-helmet-cameras/brand/twenty20/"><img src="/sites/all/themes/vholdr/images/holiday/buy_off.gif" onmouseover="this.src='/sites/all/themes/vholdr/images/holiday/buy_on.gif'" onmouseout="this.src='/sites/all/themes/vholdr/images/holiday/buy_off.gif'"></a></td>
+			        <td rowspan="2"><img src="/sites/all/themes/vholdr/images/hotline/hotline.gif" height="44"></td>
+			        <td><a href="http://www.oncycles.com/browse.asp?department=mobileelectronics&amp;category=&amp;subcategory=&amp;make=&amp;brand=vholdr&amp;page=1&amp;sort_by="><img src="/sites/all/themes/vholdr/images/hotline/buy_off.gif" onmouseover="this.src='/sites/all/themes/vholdr/images/hotline/buy_on.gif'" onmouseout="this.src='/sites/all/themes/vholdr/images/hotline/buy_off.gif'"></a></td>
 		            </tr>
 		            <tr>
-			        <td><a href="/shoot/camera/buy"><img src="/sites/all/themes/vholdr/images/holiday/find_off.gif" onmouseover="this.src='/sites/all/themes/vholdr/images/holiday/find_on.gif'" onmouseout="this.src='/sites/all/themes/vholdr/images/holiday/find_off.gif'"></a></td>
+			        <td><a href="/shoot/camera/buy"><img src="/sites/all/themes/vholdr/images/hotline/find_off.gif" onmouseover="this.src='/sites/all/themes/vholdr/images/hotline/find_on.gif'" onmouseout="this.src='/sites/all/themes/vholdr/images/hotline/find_off.gif'"></a></td>
 		            </tr>
 	            </tbody></table>
 			</div>
 		</div>
 	</div>
 	<!-- Main Navigation Tabs -->
-	        <div id="nav-tabs-lo">
-                <div class="tab-container">
-                        <div class="tab1"><a href="/shoot/camera/overview"><img src="/sites/all/themes/vholdr/images/tabs/loggedout/shoot_off.png" border="0"></a></div>
-                        <div class="tab2"><a href="/videolist"><img src="/sites/all/themes/vholdr/images/tabs/loggedin/share_off.png" border="0"></a></div>
-                </div>
-        </div>
-	<!-- Logged Out: Shoot Selected -->
+		<!-- Logged Out: Share Selected -->
+	<div id="nav-tabs-lo">
+		<div class="tab-container right-on">
+			<div class="tab1"><a href="/shoot/camera/overview"><img src="/sites/all/themes/vholdr/images/tabs/loggedout/shoot_off.png" border="0"></a></div>
+			<div class="tab2"><a href="/videolist"><img src="/sites/all/themes/vholdr/images/tabs/loggedout/share_on.png" border="0"></a><ul></ul></div>
+		</div>
+	</div>
+	
+
+	
+
 	</div>
 
 
@@ -264,13 +269,13 @@ position:relative;
 						</ul>
 							</li><li class="on">Contact Us						<ul class="subnav">
 							<li>Twenty20<br>Seattle, WA 98109<br><br>By Email<br>
-			<a href="mailto:support@vholdr.com">support@ vholdr.com</a><br><a href="mailto:jobs@vholdr.com">jobs@ vholdr.com</a><br><a href="mailto:sales@vholdr.com">sales@ vholdr.com</a></li>
+			<a href="mailto:support@vholdr.com">support@ vholdr.com</a><br><a href="mailto:sponsorships@vholdr.com">sponsorships@ vholdr.com</a><br><a href="mailto:jobs@vholdr.com">jobs@ vholdr.com</a><br><a href="mailto:sales@vholdr.com">sales@ vholdr.com</a></li>
 						</ul>
 						</li></ul>
 </div>        <div class="rightcol longcol">
 		    <div class="cartdiv shortcart">
 		        			        <div class="left"><span id="path">Site &gt; </span><span id="pageat">VholdR Privacy Notice</span> </div>
-			    			    <div class="right"><a href="/shoot/camera/buy"><img src="/sites/all/themes/vholdr/images/buttons/find_retailer.png" alt="Find Retailer"></a><a href="http://shop.helmetcameracentral.com/all-helmet-cameras/brand/twenty20/" target="shop"><img onmouseover="this.src='/sites/all/themes/vholdr/images/buttons/buy_on.png'" onmouseout="this.src='/sites/all/themes/vholdr/images/buttons/buy.png'" src="/sites/all/themes/vholdr/images/buttons/buy.png" alt="Buy"></a> </div>
+			    			    <div class="right"><a href="/shoot/camera/buy"><img src="/sites/all/themes/vholdr/images/buttons/find_retailer.png" alt="Find Retailer"></a><a href="" target="shop"><img onmouseover="this.src='/sites/all/themes/vholdr/images/buttons/buy_on.png'" onmouseout="this.src='/sites/all/themes/vholdr/images/buttons/buy.png'" src="/sites/all/themes/vholdr/images/buttons/buy.png" alt="Buy"></a> </div>
 		    </div>
 
 		    <div class="main short">  
@@ -308,6 +313,7 @@ position:relative;
 <div id="toenail">
     	©2008 Twenty20, LLC / <a href="/company/overview">About</a> / <a href="/company/news">News</a> / <a href="/vholdr-community-guidelines">Community Guidelines</a> / <a href="/privacy">Privacy Statement</a> / <a href="/company/jobs">Jobs</a> / <a href="/support/overview">Help</a>
 </div>
+
 <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
 <script type="text/javascript"><!--
 _uacct = "UA-410185-4";urchinTracker();
@@ -323,6 +329,21 @@ _uacct = "UA-410185-4";urchinTracker();
      <b class="toenail1"><b></b></b></b>
 </div>
 <br><br>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-b4C9y3OoQYLlo"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-b4C9y3OoQYLlo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
 
 
 </body></html>
