@@ -1,79 +1,84 @@
-> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628233946id_/http%3A//www.animationfactory.com/en/company/privacy.mc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416034217id_/http%3A//www.animationfactory.com/en/company/privacy.html) for the most accurate reproduction.*
 
-# Royalty Free Animations, PowerPoint Templates, Videos, and Animated Clipart
+# Animation Factory - Privacy Policy
 
-[Home](https://web.archive.org/en/) > [Company](https://web.archive.org/en/company/about.mc) > Privacy Policy 
+[Home](https://web.archive.org/en/) > [Company](https://web.archive.org/en/company/about.html) > Privacy Policy 
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
+Last updated: March 2009
 
-**What information are you collecting and how are you collecting it?**
+Jupiterimages is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Jupiterimages websites, unless different terms are specified in a form or contract provided to you online or offline. By using this site, you understand and agree to the terms of this policy. This site is owned by Jupiterimages, a division of Getty Images, and may be accessed in the United States and abroad. For data protection purposes, Jupiterimages is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction.
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" [IP address](http://webopedia.internet.com/TERM/I/IP_address.html). When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also **Will you disclose the information you collect to outside third parties?** We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+**Collection of Your Personal Information**  
+When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site's operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site.
 
-**What are cookies?**
+We may combine your visit and navigational information with personal information that you provide. You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you. Personal information (e.g., your username and password, your name, your mailing address, email address, and phone number) is collected when you register. Additional personal information (e.g., your credit card number and billing address) is collected to process transactions or to provide you with products and services.
 
-From time to time, JUPM or its advertisers may send a ["cookie"](http://webopedia.internet.com/TERM/c/cookie.html) to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+Demographic information (e.g., your age, hobbies, income, gender, or interests) may also be collected and may be linked to your personal information.
 
-**How do you use single-pixel gifs?**
+**Use of Your Personal Information**
 
-JUPM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
+Jupiterimages collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences.
 
-**What information do you collect when I register for something?**
+We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing communications, you may adjust your "Personal Information Preferences" as described below or follow the "unsubscribe" instructions included within each email communication. Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
 
-JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See **Will you disclose the information that you collect to outside third parties?**
+Personal information collected by Jupiterimages may be stored and processed in the United States or any other country in which Jupiterimages or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Jupiterimages abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below.
 
-**What other information do you request?**
+**Sharing of Your Personal Information**  
+Except as disclosed in this privacy policy, Jupiterimages does not share your personal information with any outside parties.
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
+We may share your personal information within our corporate group, including with our subsidiaries, affiliated companies and divisions, all of whom may use your information for the purposes disclosed herein.
 
-We may from time to time send e-mail announcing new JUPM products and services. Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
+We may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need to provide the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
+Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. We will notify you of such an occurrence as described in the "Changes to This Privacy Policy" section below.
 
-When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+We reserve the right to disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
 
-When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+**Accessing Your Personal Information**  
+If you would like to review or revise information that you previously provided to us, you may access your information in the "My Account" section of the website. Your Account Executive can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [sales@jupiterimages.com](mailto:sales@jupiterimages.com). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering.
 
-**What information do you collect when I purchase something?**
+**Personal Information Preferences**  
+Jupiterimages respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing communications from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or the "My Profile" page of the website; (2) contacting your Account Executive; or (3) sending an email to [sales@jupiterimages.com](mailto:sales@jupiterimages.com).
 
-If you are purchasing something from an JUPM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
 
-Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
+If you are a licensee of copyrighted photographs of the NBA Parties and would like to revoke your consent to have your information shared with the NBA Parties, you may express that preference by contacting your Account Executive or by sending an email to [sales@jupiterimages.com](mailto:sales@jupiterimages.com).
 
-Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+**Use of Cookies and Other Technologies**  
+Jupiterimages uses "cookie" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history.
 
-**Will you disclose the information you collect to outside third parties?**
+Cookies offer you many conveniences. They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and Clipbins and view their previous invoices. Cookies also save you time by eliminating the need to repeatedly enter the same information.
 
-JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-1) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
+In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Jupiterimages only, and does not cover the use of cookies by third parties.
 
-2) Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies.
 
-3) Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
 
-4) Fulfill a user's order or request. 
+**Security of Your Personal Information**  
+The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information. For instance, when you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer (SSL) technology. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
 
-JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
-_See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
+If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
 
-**Opt-in announcement List Privacy Policy**
+**Forums & Other Interactive Services**  
+Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [sales@jupiterimages.com](mailto:sales@jupiterimages.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
 
-When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
+**Email Referrals**  
+If you choose to use our email referral services to tell a friend about our products or services (including images in your lightbox, promotional campaigns, new websites, job postings, etc.), we will ask you for your friend's name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third party provider may only use the information submitted to facilitate this one-time email. Neither Jupiterimages nor any third-party provider stores this information after the email is sent. 
 
-**What else should I know about my privacy when online?**
+**Children**  
+We do not intend to solicit or collect personal information from anyone under the age of 18. If you are under 18, you should not use or enter information on this site, including without limitation, any Interactive Areas of the site. 
 
-The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
+**Links**  
+We may link to websites, including those of our third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+**DMA**  
+If you have questions or concerns regarding this privacy policy, you should first contact Jupiterimages (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+**Changes to This Privacy Policy**  
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how Jupiterimages will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites. 
 
- **Your Consent To This Agreement**
+**Contact Information**  
+You can contact Jupiterimages Sales by emailing [sales@jupiterimages.com](mailto:sales@jupiterimages.com), or by phone at 206-925-5000, or by postal mail at Jupiterimages Corp., Sales, 601 N. 34th Street, Seattle, WA 98103.
 
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
-
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
-
-(Revised March 30, 2005) 
+© 2009 Jupiterimages Corp. All rights reserved.
