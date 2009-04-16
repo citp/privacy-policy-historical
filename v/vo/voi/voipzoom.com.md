@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipzoom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044159id_/http%3A//www.voipzoom.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipzoom.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416145039id_/http%3A//www.voipzoom.com/en/privacy.html) for the most accurate reproduction.*
 
 # VoipZoom | UNLIMITED FREE CALLING AROUND THE WORLD!
 
@@ -39,7 +39,8 @@ Panama
 Poland  
 Portugal  
 Puerto Rico  
-Russian Federation  
+Russian Federation [moscow]  
+Russian Federation [st Petersburg]  
 Singapore (+mobile)  
 South Korea  
 Spain  
@@ -49,9 +50,9 @@ Taiwan
 Thailand  
 United Kingdom  
 United States (+mobile)  
-  
----|---  
+|   
+---|---|---  
    
    
   
-[Click here to view all our rates](https://web.archive.org/web/20081217044159id_/http%3A//www.voipzoom.com/en/calling-rates.html)
+[Click here to view all our rates](https://web.archive.org/web/20090416145039id_/http%3A//www.voipzoom.com/en/calling-rates.html)
