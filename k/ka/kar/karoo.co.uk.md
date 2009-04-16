@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
 # Karoo - Privacy Policy
 
@@ -8,17 +8,17 @@ This privacy policy is published by KCOM Group PLC (" KCOM Group" or " we" or " 
 
 ## Contents
 
-  1. [Our approach](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Our_approach)
-  2. [Information collection ](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Information_collection)
-  3. [Use of information we collect](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Use_of_information_we_collect)
-  4. [Who may process data](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Who_may_process_data)
-  5. [Security measures](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Security_measures)
-  6. [Cookies](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Cookies)
-  7. [What is a web beacon?](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#What_is_a_web_beacon)
-  8. [Access and changes to your personal information](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Access_and_changes_to_your_personal_information)
-  9. [Changes to this policy](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Changes_to_this_policy)
-  10. [Enquiries](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Enquiries)
-  11. [Managing your contact with KCOM Group](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Managing_your_contact_with_KCOM_Group)
+  1. [Our approach](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Our_approach)
+  2. [Information collection ](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Information_collection)
+  3. [Use of information we collect](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Use_of_information_we_collect)
+  4. [Who may process data](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Who_may_process_data)
+  5. [Security measures](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Security_measures)
+  6. [Cookies](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Cookies)
+  7. [What is a web beacon?](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#What_is_a_web_beacon)
+  8. [Access and changes to your personal information](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Access_and_changes_to_your_personal_information)
+  9. [Changes to this policy](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Changes_to_this_policy)
+  10. [Enquiries](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Enquiries)
+  11. [Managing your contact with KCOM Group](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Managing_your_contact_with_KCOM_Group)
 
 
 
@@ -32,7 +32,7 @@ If we decide to change our privacy policy for this Website, we will post those c
 
 We collect personal information (such as your name, email address and any other details you provide to us that identifies you as an individual) from you when you submit a request for information or when you submit your details for any other reason. Personal information will only be collected with your consent.
 
-When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section [6\. Cookies](https://web.archive.org/web/20081216024113id_/http%3A//www.karoo.co.uk/privacypolicy.asp#Cookies))
+When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section [6\. Cookies](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Cookies))
 
 Save for the use of cookies, we do not automatically log data or collect data apart from information you specifically provide to us.
 
