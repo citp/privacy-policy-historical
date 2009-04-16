@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newspress.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040332id_/http%3A//www.newspress.co.uk/terms_privacy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspress.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416045804id_/http%3A//www.newspress.co.uk/terms_privacy.php%23privacy) for the most accurate reproduction.*
 
 # Welcome to Newspress.co.uk
 
 ## TERMS & CONDITIONS 
 
-The Newspress website is a media resource service provided by Newspress Ltd. We are registered in England and Wales under company number 01106594 and our main trading address is situated at 6 Newhouse Business Centre, Old Crawley Road, Horsham, West Sussex RH12 2SA. The website has been designed for the purpose of enabling the automotive industry to disseminate press releases and related information to UK media. The Newspress site is a secure site and may contain information that is sensitive and not generally available to the public. Access to this restricted site is at Newspress’s discretion and access will only be provided to accredited motoring journalists, professional news organisations and industry personnel.
+The Newspress website is a media resource service provided by Newspress Ltd. We are registered in England and Wales under company number 01106594 and our main trading address is situated at 6 Newhouse Business Centre, Old Crawley Road, Horsham, West Sussex RH12 4RU. The website has been designed for the purpose of enabling the automotive industry to disseminate press releases and related information to UK media. The Newspress site is a secure site and may contain information that is sensitive and not generally available to the public. Access to this restricted site is at Newspress’s discretion and access will only be provided to accredited motoring journalists, professional news organisations and industry personnel.
 
 Access is subject to the terms and conditions of use as detailed below. By accessing the website, you will be deemed to have accepted the terms in full and agree to abide by them. Newspress may update and revise the terms at any time without notice and you should check the website from time to time to review any amendments as these are legally binding on you.
 
