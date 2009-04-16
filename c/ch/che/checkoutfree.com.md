@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222085925id_/http%3A//www.checkoutfree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416081025id_/http%3A//www.checkoutfree.com/legal/privacy) for the most accurate reproduction.*
 
 # CheckoutFree.com
 
