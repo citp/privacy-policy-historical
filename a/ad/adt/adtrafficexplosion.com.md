@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrafficexplosion.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011810id_/http%3A//adtrafficexplosion.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrafficexplosion.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416225646id_/http%3A//www.adtrafficexplosion.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Ad Traffic Explosion
 
