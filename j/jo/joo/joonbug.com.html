@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joonbug.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216094723id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joonbug.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416232739id_/http%3A//newyork.joonbug.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
@@ -13,11 +13,9 @@
 	<meta http-equiv="imagetoolbar" content="no">
 
 	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-	<link type="text/css" rel="stylesheet" href="/css/global.css">
 	<link type="text/css" rel="stylesheet" href="/css/profile.css">
 	<link type="text/css" rel="stylesheet" href="/css/listing.css">
-
-	<link type="text/css" rel="stylesheet" href="/templates/website/website.css">
+	<link type="text/css" rel="stylesheet" href="/templates/global/global.css">
 
 	<!--[if lt IE 7]>
 	<link type="text/css" rel="stylesheet" href="/lib/iepngfix/ie.css" />
@@ -32,32 +30,30 @@
 	<script type="text/javascript" src="/lib/RSH/json2005.js"></script>
 	<script type="text/javascript" src="/lib/RSH/rsh.js"></script>
 	<script type="text/javascript" src="/lib/js/skybox.js"></script>
+	<script type="text/javascript" src="/lib/js/aql.js"></script>
+
+	<link type="text/css" rel="stylesheet" href="/templates/website/website.css">
 
 </head>
 <body>
+	<!-- this should get moved elsewhere -->
+	<script type="text/javascript" src="/lib/tooltip/wz_tooltip.js"></script>
 
-<!-- this needs to get moved elsewhere -->
-<script type="text/javascript" src="/lib/tooltip/wz_tooltip.js"></script>
-
-<script type="text/javascript">
-	// skybox: this must stay here in the body tag for IE6 and IE7 
-	window.dhtmlHistory.create({
-			toJSON: function(o) {
-					return JSON.stringify(o);
-			}
-			, fromJSON: function(s) {
-					return JSON.parse(s);
-			}
-	});
-	addLoadEvent(function() {
+	<script type="text/javascript">
+		// skybox: this must stay here in the body tag for IE6 and IE7 
+		window.dhtmlHistory.create({
+			toJSON: function(o){ return JSON.stringify(o); }
+			,fromJSON: function(s) { return JSON.parse(s); }
+		});
+		addLoadEvent(function() {
 			dhtmlHistory.initialize();
 			dhtmlHistory.addListener(closeskybox);
-	});
-</script><form id="rshStorageForm" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"><textarea id="rshStorageField" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"></textarea></form>
-
+		});
+	</script><form id="rshStorageForm" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"><textarea id="rshStorageField" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"></textarea></form>
 	<div id="overlay" style="display:none;"></div>
+	<div id="skybox" style="display:none;position:absolute;z-index:9999;left:50%;"></div>
 
-<div id="skybox" style="display:none;position:absolute;z-index:9999;left:50%;"></div>
+
 
 
 <script type="text/javascript">
@@ -65,6 +61,7 @@
 	add_style('/pages/common/change-city/change-city.css');
 	add_javascript('/pages/common/change-city/change-city.js');
 	add_javascript('/pages/login/login.js');
+	add_javascript('/cellpic/cellpic.js');
 </script>
 
 <div id="wrapper-top">
@@ -80,14 +77,16 @@
             </div>
                 </div>
         <div id="header-main">
-        	<div id="tix-by-phone">Tickets By Phone: 212-255-4233 &nbsp;
+        	<div id="tix-by-phone">
+            <a href="/track-order">Track Your Order</a> &nbsp;&nbsp;
+            Tickets By Phone: 212-255-4233 &nbsp;
 			
-<!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/70288941/?cmd=file&amp;file=visitorWantsToChat&amp;site=70288941&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat70288941" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/70288941/?cmd=file&amp;file=visitorWantsToChat&amp;site=70288941&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat70288941','width=475,height=400,resizable=yes');return false;">Questions? Click for Live Chat!</a><!-- END LivePerson Button code -->
 			
 			</div>
         	<div id="home-link"><a href="/" title="Home"><img src="/images/joonbug_logo.gif" alt=""></a></div>
 			<div id="navcontainer">
             	<div id="leaderboard">
+				
 					<script type="text/javascript">
                     <!--//<![CDATA[
                     var m3_u = (location.protocol=='https:'?'https://openx.skydev.net/www/delivery/ajs.php':'http://openx.skydev.net/www/delivery/ajs.php');
@@ -104,15 +103,17 @@
                     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
                     document.write ("'><\/scr"+"ipt>");
                     //]]>-->
-                    </script><script type="text/javascript" src="https://openx.skydev.net/www/delivery/ajs.php?zoneid=1&amp;cb=27561880123&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20081216094723id_/http%253A//www.joonbug.com/privacypolicy.asp"></script>
+                    </script><script type="text/javascript" src="https://openx.skydev.net/www/delivery/ajs.php?zoneid=1&amp;cb=81142758978&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20090416232739id_/http%253A//newyork.joonbug.com/privacypolicy.asp"></script>
                     <noscript>
                     <a href='http://openx.skydev.net/www/delivery/ck.php?n=a9974c90&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.skydev.net/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9974c90' border='0' alt='' /></a>
                     </noscript>
-            
-                </div>
+
+				</div>
+
+
                 <ul id="privacy-policy">
                     <li id="nav_home"><a href="/"></a></li>
-                    <li id="nav_events"><a href="/newyearseve.asp"></a></li>
+                    <li id="nav_events"><a href="/events"></a></li>
                     <li id="nav_venues"><a href="/venues/clubs"></a></li>
                     <li id="nav_photo"><a href="/photos"></a></li>
                     <li id="nav_music"><a href="/music"></a></li>
@@ -162,14 +163,14 @@ SkyNet Media Group may also collect or receive  additional non-personally identi
 <p><b>Security</b></p>
 <p>SkyNet Media Group has implemented security policies, rules and technical measures to protect  and safeguard the personally identifiable information under our control from unauthorized  access, improper use or disclosure, unauthorized modification, unlawful destruction  or accidental loss. All our personnel that have access to, and are associated with  the processing of your personally identifiable information, are obligated to respect  the confidentiality of the information.</p>
 <p><b>California Privacy Policy</b></p>
-<p>SkyNet Media Group's Privacy Policy is to share personal information only with the owner's  informed consent. With your consent, from time-to-time, SkyNet Media Group may provide its  business partners with contact details for direct marketing purposes of relevant  services, products, and programs. If you no longer wish your information to be shared,  please let us know. If you have further inquires regarding SkyNet Media Group's information  sharing practices, please let us know. Contact information can be found at <a href="http://www.joonbug.com/contact">www.joonbug.com/contact</a>. </p>
+<p>SkyNet Media Group's Privacy Policy is to share personal information only with the owner's  informed consent. With your consent, from time-to-time, SkyNet Media Group may provide its  business partners with contact details for direct marketing purposes of relevant  services, products, and programs. If you no longer wish your information to be shared,  please let us know. If you have further inquires regarding SkyNet Media Group's information  sharing practices, please let us know. Contact information can be found at <a href="http://www.newyork.joonbug.com/contact">www.newyork.joonbug.com/contact</a>. </p>
 <p><b>Special Note for Parents</b></p>
 <p>Protecting the privacy of young children is especially important. For that reason,  SkyNet Media Group does not knowingly collect or maintain personally identifiable information  on the Website from persons under 13 years of age, and no part of our Website is  directed to persons under 13. If you are under 13 years of age, then please do not  use or access the Website at any time or in any manner. If SkyNet Media Group learns that  personally identifiable information of persons under 13 years of age has been collected  on the Website without verified parental consent, then SkyNet Media Group will take the appropriate  steps to delete this information.</p>
 <p><b>Modification and Deletion of Personally Identifiable Information</b></p>
 <p>Deletion (Opt-Out). <br>
-In order to delete the personally identifiable information  you submitted, notify us at <a href="mailto:support@joonbug.com">support@joonbug.com</a> that you wish to delete your personally identifiable information or any part thereof  contained at our databases. </p>
+In order to delete the personally identifiable information  you submitted, notify us at <a href="mailto:support@newyork.joonbug.com">support@newyork.joonbug.com</a> that you wish to delete your personally identifiable information or any part thereof  contained at our databases. </p>
 <p>Modification.<br> 
-If you wish to modify or update your personally identifiable information,  use the Website or application interface. If you need help, please contact us at  <a href="mailto:support@joonbug.com">support@joonbug.com</a> <br>
+If you wish to modify or update your personally identifiable information,  use the Website or application interface. If you need help, please contact us at  <a href="mailto:support@newyork.joonbug.com">support@newyork.joonbug.com</a> <br>
 Please note that deletion of your personally identifiable information from SkyNet Media Group's  database will not prevent SkyNet Media Group from using gathered anonymous information. </p>
 <p>Third Parties' Practices.<br> 
 This Privacy Policy does not cover the information  practices exercised by other providers of products or services, advertisers or other  web sites, or companies/people that SkyNet Media Group does not own or control, or does not  employ or manage. </p>
@@ -194,86 +195,131 @@ This Privacy Policy does not cover the information  practices exercised by other
 <div id="advert">
     <div id="advert-top-border"></div>
     <div id="advert-container">
+    	<div id="advert-content">
 
-		<script type="text/javascript"><!--//<![CDATA[
-           var m3_u = (location.protocol=='https:'?'https://openx.skydev.net/www/delivery/ajs.php':'http://openx.skydev.net/www/delivery/ajs.php');
-           var m3_r = Math.floor(Math.random()*99999999999);
-           if (!document.MAX_used) document.MAX_used = ',';
-           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-           document.write ("?zoneid=2");
-           document.write ('&amp;cb=' + m3_r);
-           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-           document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-           document.write ("&amp;loc=" + escape(window.location));
-           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-           if (document.context) document.write ("&context=" + escape(document.context));
-           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-           document.write ("'><\/scr"+"ipt>");
-        //]]>--></script><script type="text/javascript" src="https://openx.skydev.net/www/delivery/ajs.php?zoneid=2&amp;cb=57921589145&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20081216094723id_/http%253A//www.joonbug.com/privacypolicy.asp"></script><noscript><a href='http://openx.skydev.net/www/delivery/ck.php?n=a82bfd31&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.skydev.net/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a82bfd31' border='0' alt='' /></a></noscript>
-        
+			<script type="text/javascript"><!--//<![CDATA[
+               var m3_u = (location.protocol=='https:'?'https://openx.skydev.net/www/delivery/ajs.php':'http://openx.skydev.net/www/delivery/ajs.php');
+               var m3_r = Math.floor(Math.random()*99999999999);
+               if (!document.MAX_used) document.MAX_used = ',';
+               document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+               document.write ("?zoneid=2");
+               document.write ('&amp;cb=' + m3_r);
+               if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+               document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+               document.write ("&amp;loc=" + escape(window.location));
+               if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+               if (document.context) document.write ("&context=" + escape(document.context));
+               if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+               document.write ("'><\/scr"+"ipt>");
+            //]]>--></script><script type="text/javascript" src="https://openx.skydev.net/www/delivery/ajs.php?zoneid=2&amp;cb=16226649680&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20090416232739id_/http%253A//newyork.joonbug.com/privacypolicy.asp"></script><noscript><a href='http://openx.skydev.net/www/delivery/ck.php?n=a82bfd31&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.skydev.net/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a82bfd31' border='0' alt='' /></a></noscript>
+            
+            <div id="expandedBanner"></div>
+                        
+            <script type="text/javascript" src="http://cdna.tremormedia.com/acudeo/banners.js"></script>
+            <script type="text/javascript" src="http://cache.assets.gdi.umusic.com/adops/brightcove/as3/acudeo.01.js"></script>
+            
+            <!--If umusic ad is present, this will hide our ad -->
+            
+		</div>
+
     </div>
+
     <div class="clear"></div>
 </div>
 <div class="clear"></div>
 
 <!-- END ADVERTISEMENT --><script type="text/javascript">
-	add_style('/pages/common/sidebar/holiday-party-guide/holiday-party-guide.css');
-</script>
-
-<h1 class="module-bar"><a href="/newyearseve.asp">holiday party guide</a></h1>
-
-<div class="module-body">
-    <div class="holiday-party-item">
-        <a href="/newyearseve.asp"><img src="/images/NewYearsBanner2.gif" alt=""></a>
-    </div>
-    <div class="view-more"><a href="/newyearseve.asp">more holiday parties</a></div>
-    <div class="clear"></div>
-</div>
-<script type="text/javascript">
 	add_style('/pages/common/sidebar/services/services.css');
 	add_javascript('/pages/common/sidebar/services/services.js');
 </script>
 
 <h1 class="module-bar">services</h1>
 <div class="module-body services">
-	    <div id="services_ts_link">
-        <a class="services ts" href="javascript:ts_toggle('close');">table service</a>
-    </div>
-    <div id="services_ts_list">
-        <script type="text/javascript">
-	add_style('/pages/common/sidebar/table-service/table-service.css');
-</script>
-
-<div id="ts-list">
-
-        <div class="ts-item">
-            <div class="venue-img" style="background: url('/media/mKw2skB8yOj.jpg') top center no-repeat;">
-                <div class="venue-name-bg">Retreat</div>
-                <div class="venue-name-spacer"></div>
-                <div class="clear"></div>
-                <a class="venue-name" href="/table-service">Retreat</a>
+        
+    	<a class="services" href="/BirthdayPlanner.asp">birthday planner</a>
+    
+		                    
+            <div id="services-list">
+        
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/wc4oeGlvkdS.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">The Imperial NYC</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/BirthdayPlanner.asp">The Imperial NYC</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/zpZwtFl4WS5.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Slate</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/BirthdayPlanner.asp">Slate</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/w0t72yFUD9u.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Stir</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/BirthdayPlanner.asp">Stir</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/yY73hjyZvKZ.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Clique</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/BirthdayPlanner.asp">Clique</a>
+                    </div>
+                </div>
+                    
             </div>
-        </div>
-        <div class="ts-item">
-            <div class="venue-img" style="background: url('/media/mirZ98yjYgO.jpg') top center no-repeat;">
-                <div class="venue-name-bg">Barna</div>
-                <div class="venue-name-spacer"></div>
-                <div class="clear"></div>
-                <a class="venue-name" href="/table-service">Barna</a>
+            
+            
+	    
+    	<a class="services" href="/table-service">table service</a>
+    
+		                    
+            <div id="services-list">
+        
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/BlI062u0ol5.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">BLVD</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/table-service">BLVD</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/G3305NuiIpy.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Forum</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/table-service">Forum</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/CpiKH2MoAQl.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Star Lounge</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/table-service">Star Lounge</a>
+                    </div>
+                </div>
+                        <div class="services-item">
+                    <div class="venue-img" style="background: url('/media/pcuhE3xXJ0t.jpg') top center no-repeat;">
+                        <div class="venue-name-bg">Touch NYC</div>
+                        <div class="venue-name-spacer"></div>
+                        <div class="clear"></div>
+                        <a class="venue-name" href="/table-service">Touch NYC</a>
+                    </div>
+                </div>
+                    
             </div>
-        </div>
-        <div class="ts-item">
-            <div class="venue-img" style="background: url('/media/CUZnuQz1nFo.jpg') top center no-repeat;">
-                <div class="venue-name-bg">Forum</div>
-                <div class="venue-name-spacer"></div>
-                <div class="clear"></div>
-                <a class="venue-name" href="/table-service">Forum</a>
-            </div>
-        </div>
-
-</div>    </div>
-	
-        		    	<a class="services" href="/BirthdayPlanner.asp">birthday planner</a> 	</div><script type="text/javascript">
+            
+            
+	</div><script type="text/javascript">
 	add_style('/pages/common/sidebar/blogs/blogs.css');
 </script>
 
@@ -286,73 +332,25 @@ This Privacy Policy does not cover the information  practices exercised by other
       
           <div class="blog_title">
             <h3>
-				<a href="/scenetracker">SceneTracker</a>
-                <a href="/scenetracker/rss.xml">
-                	<img src="/images/rss.png" title="RSS" alt="">
-				</a>
-            </h3>
-			<a href="/scenetracker" class="read-all">read all posts</a>
-          </div>
-		  <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/scenetracker/zIL2i3hNHl4">
-            <img src="/media/AFjBNrwG6cM.jpg" width="120" height="75" alt="" border="0">            Featured Venue: Barna            </a></strong>
-                        <p class="splash_intro">
-              A tapas restaurant by day, a subterranean hotspot by night.              <a href="/scenetracker/zIL2i3hNHl4">more&nbsp;»</a></p>
-                    </div>
-          <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/scenetracker/t3rWy4Pbaps">
-            <img src="/media/y5InjDaeL7u.jpg" width="120" height="75" alt="" border="0">            Londonites Gain Access into Manhattan's Nightlife Hotspots            </a></strong>
-                        <p class="splash_intro">
-              A reporter for the Times of London does some investigative journalism...              <a href="/scenetracker/t3rWy4Pbaps">more&nbsp;»</a></p>
-                    </div>
-          <div class="clear"></div>
-          	  </div>
-	        <div class="blog-div">
-      
-          <div class="blog_title">
-            <h3>
-				<a href="/frequency">Frequency</a>
-                <a href="/frequency/rss.xml">
-                	<img src="/images/rss.png" title="RSS" alt="">
-				</a>
-            </h3>
-			<a href="/frequency" class="read-all">read all posts</a>
-          </div>
-		  <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/frequency/BsgnKn76EvD">
-            <img src="/media/uUlIXtus6T0.jpg" width="120" height="75" alt="" border="0">            The Emergence of Afro-Punk            </a></strong>
-                        <p class="splash_intro">
-              The underground movement is becoming a mainstream genre.              <a href="/frequency/BsgnKn76EvD">more&nbsp;»</a></p>
-                    </div>
-          <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/frequency/FhqHtZlker8">
-            <img src="/media/weTAiw0vyYv.jpg" width="120" height="75" alt="" border="0">            Kanye Makes Surprise Appearance            </a></strong>
-                        <p class="splash_intro">
-              The rapper performs at KROQ's Almost Acoustic Christmas Show unannounced.              <a href="/frequency/FhqHtZlker8">more&nbsp;»</a></p>
-                    </div>
-          <div class="clear"></div>
-          	  </div>
-	        <div class="blog-div">
-      
-          <div class="blog_title">
-            <h3>
 				<a href="/almostfamous">Almost Famous</a>
-                <a href="/almostfamous/rss.xml">
+                <a href="http://feeds.feedburner.com/joonbug/almostfamous">
                 	<img src="/images/rss.png" title="RSS" alt="">
 				</a>
             </h3>
 			<a href="/almostfamous" class="read-all">read all posts</a>
           </div>
 		  <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/almostfamous/EiBxqPWTuZv">
-            <img src="/media/umlCypEszmc.jpg" width="120" height="75" alt="" border="0">            Sharon Osbourne Faces Charges            </a></strong>
+                    <div class="splash_title"> <strong><a href="/almostfamous/vRZPL99P3g4">
+            <img src="/media/Bb3ZCa6iFXJ.jpg" width="120" height="75" alt="" border="0">            Ashton Kutcher challenges CNN             </a></strong>
                         <p class="splash_intro">
-              The host of Rock of Love: Charm School is accused of attacking a contestant.              <a href="/almostfamous/EiBxqPWTuZv">more&nbsp;»</a></p>
+              Actor/producer and CNN in a Twitter duel              <a href="/almostfamous/vRZPL99P3g4">more&nbsp;»</a></p>
                     </div>
           <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/almostfamous/xgcVTZgxrMz">
-            <img src="/media/FbbAWCZXiwo.jpg" width="120" height="75" alt="" border="0">            Liev Schreiber and Naomi Watts Welcome Second Baby            </a></strong>
-                      </div>
+                    <div class="splash_title"> <strong><a href="/almostfamous/wGObaVT3pvc">
+            <img src="/media/muGVoZqiB9R.jpg" width="120" height="75" alt="" border="0">            Everybody Loves Raymond Star Verbalizes Hate Message             </a></strong>
+                        <p class="splash_intro">
+              Brad Garret under fire for blurring racial comments               <a href="/almostfamous/wGObaVT3pvc">more&nbsp;»</a></p>
+                    </div>
           <div class="clear"></div>
           	  </div>
 	        <div class="blog-div">
@@ -360,21 +358,23 @@ This Privacy Policy does not cover the information  practices exercised by other
           <div class="blog_title">
             <h3>
 				<a href="/glamdamnit">Glam Damn It</a>
-                <a href="/glamdamnit/rss.xml">
+                <a href="http://feeds.feedburner.com/joonbug/glamdamnit">
                 	<img src="/images/rss.png" title="RSS" alt="">
 				</a>
             </h3>
 			<a href="/glamdamnit" class="read-all">read all posts</a>
           </div>
 		  <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/glamdamnit/vG03A6Chm3X">
-            <img src="/media/GVHaFVuuGkx.jpg" width="120" height="75" alt="" border="0">            Fashion Calendar: Tuesday, December 16th            </a></strong>
-                      </div>
-          <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/glamdamnit/nF3ljwP8fXt">
-            <img src="/media/x8gWyDp51rK.jpg" width="120" height="75" alt="" border="0">            Trend List: Bows            </a></strong>
+                    <div class="splash_title"> <strong><a href="/glamdamnit/xntBMENFE45">
+            <img src="/media/ustc7cfDun8.jpg" width="120" height="75" alt="" border="0">            Great…  more useless products we don’t need            </a></strong>
                         <p class="splash_intro">
-              Bows are not only for decoration!              <a href="/glamdamnit/nF3ljwP8fXt">more&nbsp;»</a></p>
+              The Doodle Bra              <a href="/glamdamnit/xntBMENFE45">more&nbsp;»</a></p>
+                    </div>
+          <div class="clear"></div>
+                    <div class="splash_title"> <strong><a href="/glamdamnit/rlUkVDanEUA">
+            <img src="/media/tRsIJGw51PS.jpg" width="120" height="75" alt="" border="0">            Solar Power Bikinis            </a></strong>
+                        <p class="splash_intro">
+              What will we think of next?              <a href="/glamdamnit/rlUkVDanEUA">more&nbsp;»</a></p>
                     </div>
           <div class="clear"></div>
           	  </div>
@@ -383,23 +383,73 @@ This Privacy Policy does not cover the information  practices exercised by other
           <div class="blog_title">
             <h3>
 				<a href="/cultivated">Cultivated</a>
-                <a href="/cultivated/rss.xml">
+                <a href="http://feeds.feedburner.com/joonbug/cultivated">
                 	<img src="/images/rss.png" title="RSS" alt="">
 				</a>
             </h3>
 			<a href="/cultivated" class="read-all">read all posts</a>
           </div>
 		  <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/cultivated/BWN8UeODTRp">
-            <img src="/media/EBbNGStlixF.jpg" width="120" height="75" alt="" border="0">            She's Crafty...            </a></strong>
+                    <div class="splash_title"> <strong><a href="/cultivated/HSV13S52CRJ">
+            <img src="/media/sLf6Zl5fyz2.jpg" width="120" height="75" alt="" border="0">            Yankee Fans Granted International Cuisine             </a></strong>
                         <p class="splash_intro">
-              Celebrities decorate lunchboxes to be auctioned off for charity.              <a href="/cultivated/BWN8UeODTRp">more&nbsp;»</a></p>
+              Buy me some peanuts and cracker jacks… and edamame?              <a href="/cultivated/HSV13S52CRJ">more&nbsp;»</a></p>
                     </div>
           <div class="clear"></div>
-                    <div class="splash_title"> <strong><a href="/cultivated/wtu1kGvHE3g">
-            <img src="/media/uDGqBpJm85n.jpg" width="120" height="75" alt="" border="0">            Daily Eats: The Half King            </a></strong>
+                    <div class="splash_title"> <strong><a href="/cultivated/xXDujp1o8wU">
+            <img src="/media/FNjIqHqIdRW.jpg" width="120" height="75" alt="" border="0">            The Real Top Chefs Face-off            </a></strong>
                         <p class="splash_intro">
-              Books and a weathered bar...a English major's paradise!              <a href="/cultivated/wtu1kGvHE3g">more&nbsp;»</a></p>
+              More cooking shows coming to Bravo              <a href="/cultivated/xXDujp1o8wU">more&nbsp;»</a></p>
+                    </div>
+          <div class="clear"></div>
+          	  </div>
+	        <div class="blog-div">
+      
+          <div class="blog_title">
+            <h3>
+				<a href="/scenetracker">SceneTracker</a>
+                <a href="http://feeds.feedburner.com/joonbug/scenetracker">
+                	<img src="/images/rss.png" title="RSS" alt="">
+				</a>
+            </h3>
+			<a href="/scenetracker" class="read-all">read all posts</a>
+          </div>
+		  <div class="clear"></div>
+                    <div class="splash_title"> <strong><a href="/scenetracker/tXlFWReqLNV">
+            <img src="/media/stDS1EGU15r.jpg" width="120" height="75" alt="" border="0">            Long Island City Gets New Beer Garden            </a></strong>
+                        <p class="splash_intro">
+              Warm summer months - Here we come!              <a href="/scenetracker/tXlFWReqLNV">more&nbsp;»</a></p>
+                    </div>
+          <div class="clear"></div>
+                    <div class="splash_title"> <strong><a href="/scenetracker/nHWyeJ3xXY1">
+            <img src="/media/smQNE1grqE4.jpg" width="120" height="75" alt="" border="0">            Bartender Wars            </a></strong>
+                        <p class="splash_intro">
+              From mixologist to psychologist              <a href="/scenetracker/nHWyeJ3xXY1">more&nbsp;»</a></p>
+                    </div>
+          <div class="clear"></div>
+          	  </div>
+	        <div class="blog-div">
+      
+          <div class="blog_title">
+            <h3>
+				<a href="/frequency">Frequency</a>
+                <a href="http://feeds.feedburner.com/joonbug/frequency">
+                	<img src="/images/rss.png" title="RSS" alt="">
+				</a>
+            </h3>
+			<a href="/frequency" class="read-all">read all posts</a>
+          </div>
+		  <div class="clear"></div>
+                    <div class="splash_title"> <strong><a href="/frequency/AYgaGsAH81z">
+            <img src="/media/oYk1O3sRoTP.jpg" width="120" height="75" alt="" border="0">            No, Life is Not Like a Video Game            </a></strong>
+                        <p class="splash_intro">
+              Scott Storch Arrested for Grand Theft Auto              <a href="/frequency/AYgaGsAH81z">more&nbsp;»</a></p>
+                    </div>
+          <div class="clear"></div>
+                    <div class="splash_title"> <strong><a href="/frequency/rg2qXmah7A1">
+            <img src="/media/ARBqlhh1xbG.jpg" width="120" height="75" alt="" border="0">            Seriously, How Much Longer Can They Do This?            </a></strong>
+                        <p class="splash_intro">
+              Plies to Get New Reality TV Show              <a href="/frequency/rg2qXmah7A1">more&nbsp;»</a></p>
                     </div>
           <div class="clear"></div>
           	  </div>
@@ -436,7 +486,8 @@ This Privacy Policy does not cover the information  practices exercised by other
 		<div id="iwantto">
 			<h4>Customer Service</h4>
 			<br>
-			<a href="/faq">Ticketing FAQ »</a><br>	
+			<a href="/faq">Ticketing FAQ »</a><br>
+			<a href="/track-order">Track Order »</a><br>
 			<br>
 			<a href="/BirthdayPlanner.asp">Plan Your Birthday Party »</a><br>
 			<a href="/table-service">Table Service Reservations »</a><br>
@@ -450,7 +501,7 @@ This Privacy Policy does not cover the information  practices exercised by other
 			<a href="/newyearseve.asp?q=rooftop">NYE New York Rooftop Parties</a><br>
 		</div>
 		<div id="join">
-			<h4>Join the Network</h4>
+			<h4>Join the Community</h4>
 			<br>
 			<div id="footer-sign-up"><a href="/register.asp">Sign Up »</a></div>
 			<br>
@@ -462,7 +513,7 @@ This Privacy Policy does not cover the information  practices exercised by other
 	</div>
 	<div id="footer-bottom">
 		<div id="copyright">
-			 © 2008 SkyNet Media Group LLC. All Rights Reserved.
+			 © 2009 SkyNet Media Group LLC. All Rights Reserved.
 		</div>
 		<div id="terms">
 			<a href="/ticketrefundpolicy.asp">Ticket Refund Policy</a> &nbsp;|&nbsp; <a href="/privacypolicy.asp">Privacy Policy</a> &nbsp;|&nbsp; <a href="/useragreement.asp">Terms and Conditions</a>
@@ -481,10 +532,14 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-1583693-1");
-
+pageTracker._setDomainName(".joonbug.com");
 pageTracker._trackPageview();
 } catch(err) {}</script> 
 
+
+
+
+<!-- 209.59.140.151 -->
 
 
 </body></html>
