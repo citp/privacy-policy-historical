@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043545id_/http%3A//classmarker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416042930id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy. Online testing Online testing ClassMarker
+# Online testing Privacy. Online testing ClassMarker
 
 **Our commitment to privacy**
 
@@ -11,6 +11,7 @@ ClassMarker takes your privacy seriously. We are committed to protecting the pri
   * Name
   * Email Address
   * Country
+  * IP Address
 
 
 
@@ -30,13 +31,23 @@ Passwords can not be viewed by teachers or learners at all. Passwords can only b
 
 Teachers and Learners alike can easily edit their own information at any time after they have logged in.
 
-**Rebranded tests saved information**
+**External tests saved information**
 
-Users taking rebranded tests may be asked to submit personal information like Name, Email address and anything else the ClassMarker account administrator asks for. ClassMarker will not supply this information to any other third party, as stated above, although, this information is available to the account administrator, and therefore ClassMarker is not responsible for this information you provide. Contact the account administrator who gave you access to the test to find out what they will use this information for before giving any information.
+Users taking external tests may be asked to submit personal information like Name, Email address and anything else the ClassMarker account administrator asks for. ClassMarker will not supply this information to any other third party, as stated above, although, this information is available to the account administrator, and therefore ClassMarker is not responsible for this information you provide. Contact the account administrator who gave you access to the test to find out what they will use this information for before giving any information.
 
 **Protection**
 
 Your information is protected by secure servers. Your information is also password-protected so only you will have access to your information unless you choose to share some of your online tests with other users.
+
+**Cookies**
+
+Advertising is shown on ClassMarker pages for teacher accounts that are not upgraded and for student accounts that are not currently registered under an upgraded teacher account. External testing will also show advertising when test results are not being saved for the current test that is being taken at that time.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on ClassMarker.
+  * Google's use of the DART cookie enables it to serve ads to ClassMarker users based on their visit to ClassMarker and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html "Google ad and content network privacy policy - This link opens in a new browser window"). (Link opens in a new browser window)
+
+
 
 New versions will be posted on this web site, so please check back periodically for updates.
 
