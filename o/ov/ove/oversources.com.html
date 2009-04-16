@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oversources.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218015211id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oversources.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416154517id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Notice - China Electronics Wholesaler</title>
@@ -32,7 +32,7 @@
 
 <script language="javascript">
 <!--
-var _currencies_rate = "0.1453,US$#,3";
+var _currencies_rate = "0.1465,US$#,3";
 function chgCurrency(el) {
   try {
 	var surl = "http://www.oversources.com/product/rate";
@@ -103,31 +103,32 @@ function parsePrice(o, dspName, rate, bit) {
 	  o.innerHTML=currency.options[currency.selectedIndex].text;
 	  return;
 	}
-    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price") return;
+    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price" && name!="vip_price") return;
 	var price = parseFloat(o.lang);
 	if (isNaN(price)) return;	
-	if (price < 0) return;	
     o.innerHTML = dspName.replace("#", formatPrice(price * rate, bit));
 }
 
 function priceHandle(o, dspName, rate, bit, order) {
     var name = o.className;
-    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price") return;
+    if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price" && name!="vip_price") return;
     var price = parseFloat(o.lang);
-    if (price>0) return;	
+    //if (price>0) return;	
 	var formula = o.id;
 	if (price==(-1-order)) {
-		if (formula.indexOf("*") > 0) {
-			var fs = formula.split("*");
+		var fs = splitFormula(formula, "*");
+		if (fs != null) {
 			var tmpid = fs[0];
 			var tmpcount = parseInt(fs[1]);
-			var tmpprice = parseFloat(GetE(tmpid).title);
-			if (isNaN(perPrice)) {
+			var tmpprice = 0;
+			if (!GetE(tmpid)) return;
+			tmpprice = parseFloat(GetE(tmpid).title);
+			if (isNaN(tmpprice)) {
 			  tmpprice = parseFloat(GetE(tmpid).lang);
 			  if (isNaN(tmpprice)) return;	
-			  if (tmpprice < 0) return;	
+			  //if (tmpprice < 0) return;	
 			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
-			}			
+			}	
             var formatTotal = formatPrice(tmpprice * tmpcount, bit);
 			o.innerHTML = dspName.replace("#", formatTotal);
 			o.title = getPrice(tmpprice * tmpcount, bit);			
@@ -143,7 +144,7 @@ function priceHandle(o, dspName, rate, bit, order) {
 					if (isNaN(perPrice)) {
 						perPrice = parseFloat(GetE(fs[i]).lang);
 						if (isNaN(perPrice)) continue;	
-						if (perPrice < 0) continue;	
+						//if (perPrice < 0) continue;	
 						perPrice = getPrice(perPrice * rate, bit);
 					}
 					total += perPrice;
@@ -156,15 +157,16 @@ function priceHandle(o, dspName, rate, bit, order) {
 		o.title = getPrice(total, bit);
 		o.innerHTML = dspName.replace("#", formatTotal);
 	} else if (price==(-3-order)) {
-        if (formula.indexOf("/") > 0) {
-			var fs = formula.split("/");
+		var fs = splitFormula(formula, "*");
+		if (fs != null) {
 			var tmpid = fs[0];
 			var tmpcount = parseInt(fs[1]);
+			if (!GetE(tmpid)) return;
 			var tmpprice = parseFloat(GetE(tmpid).title);
 			if (isNaN(tmpprice)) {
 			  tmpprice = parseFloat(GetE(tmpid).lang);
 			  if (isNaN(tmpprice)) return;	
-			  if (tmpprice < 0) return;	
+			  //if (tmpprice < 0) return;	
 			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
 			}	
 			var formatTotal = formatPrice(tmpprice / tmpcount, bit);
@@ -172,6 +174,16 @@ function priceHandle(o, dspName, rate, bit, order) {
 			o.title = getPrice(tmpprice / tmpcount, bit);
 		}
 	} 
+}
+
+function splitFormula(formula, separated) {
+	var index = formula.lastIndexOf(separated);
+	if (index == -1) return null;
+	var len = separated.length;
+    var fs = new Array(2);
+	fs[0] = formula.substring(0, index);
+	fs[1] = formula.substring(index+len);
+	return fs;
 }
 
 function chgOtherBrand(el) {
@@ -219,6 +231,12 @@ function getPrice(price, bit) {
 }
 
 function formatPrice(price, bit) {
+	var isNegative = false;
+	if (price < 0) {
+		isNegative = true;
+		price = -price;
+	}
+
     if (bit < 1) {
 		var tmpPrice = Math.round(price) + "";
 		var temp = "";
@@ -226,14 +244,17 @@ function formatPrice(price, bit) {
 			temp = "," + tmpPrice.substring(tmpPrice.length - 3) + temp;
 			tmpPrice = tmpPrice.substring(0, tmpPrice.length - 3);
 		}
+		if (isNegative) return "-" + tmpPrice + temp;
 		return tmpPrice + temp;
 	}
 	var dspPrice = Math.round(price * Math.pow(10, bit)) + "";
 	if (dspPrice.isBlank()) {
+		if (isNegative) return "-0." + repeat("0", bit);
 		return "0." + repeat("0", bit);
 	}
 	var len = dspPrice.length;
 	if (len <= bit) {
+		if (isNegative) return "-0." + repeat("0", bit - len) + dspPrice;
 		return "0." + repeat("0", bit - len) + dspPrice;
 	}
     
@@ -244,6 +265,7 @@ function formatPrice(price, bit) {
 		tmp = "," + prePrice.substring(prePrice.length - 3) + tmp;
 		prePrice = prePrice.substring(0, prePrice.length - 3);
 	}
+	if (isNegative) return "-" + prePrice + tmp + "." + dspPrice.substring(index);
 	return prePrice + tmp + "." + dspPrice.substring(index);
 }
 
@@ -328,13 +350,15 @@ function showShippingCost(price, rate, displayName, bit) {
   </tr>
   <tr>
     <td class="currency">
-	  <select id="currency" name="currency" onchange="chgCurrency(this);"><option value="USD" selected="selected">USD</option><option value="AUD">Australian Dollar</option><option value="CNY">China Yuan</option><option value="SGD">Singapore Dollar</option><option value="JPY">Japanese Yen</option><option value="HKD">Hong Kong Dollar</option><option value="GBP">British Pound</option><option value="EUR">Euro</option><option value="CHF">Swiss Franc</option><option value="CAD">Canadian Dollar</option><option value="NZD">New Zealand Dollor</option></select>
 
+     <select id="currency" name="currency" onchange="chgCurrency(this);"><option value="USD" selected="selected">USD</option><option value="AUD">Australian Dollar</option><option value="CNY">China Yuan</option><option value="SGD">Singapore Dollar</option><option value="JPY">Japanese Yen</option><option value="HKD">Hong Kong Dollar</option><option value="GBP">British Pound</option><option value="EUR">Euro</option><option value="CHF">Swiss Franc</option><option value="CAD">Canadian Dollar</option><option value="NZD">New Zealand Dollor</option></select>
+  
 	   <div class="mycart">
 		 <a class="shoppingcart" href="http://www.oversources.com/shopping/shopping_cart">0 Items(s)</a>(<span id="shopping_cart_total"><span lang="0.0" class="currently_price">US$0.000</span></span>)
 	   </div>
   	
-</td>
+
+	</td>
   </tr>
 </tbody></table>
 <div id="menu_nav"><div id="side"><div class="side1">
@@ -361,7 +385,7 @@ function showShippingCost(price, rate, displayName, bit) {
   </tr>
   <tr>
     <td class="body">
-	  <table class="category_item" border="0" cellspacing="0" cellpadding="0"><tbody><tr id="mobiles_and_accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.mobiles_and_accessories/">Mobile Phones</a></td></tr><tr id="MP3_Player"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.MP3_Player/">MP3 Players</a></td></tr><tr id="MP4_Player"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.MP4_Player/">MP4 Players</a></td></tr><tr id="game-accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.game-accessories/">Game Accessories</a></td></tr><tr id="hdd_media_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.hdd_media_players/">HDD Media Players</a></td></tr><tr id="digital_picture_frame"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.digital_picture_frame/">Digital Picture Frames</a></td></tr><tr id="dvd_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.dvd_players/">Car Electronic</a></td></tr><tr id="watch"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.watch/">Fashion Watches</a></td></tr><tr id="gps_devices"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.gps_devices/">GPS &amp; Accessories</a></td></tr><tr id="bluetooth"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.bluetooth/">Bluetooths</a></td></tr><tr id="ipod_accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.ipod_accessories/">Apple Accessories</a></td></tr><tr id="computer_hardware"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.computer_hardware/">Computer Hardware</a></td></tr><tr id="Electronic_gadgets"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.Electronic_gadgets/">Electronic Gadgets</a></td></tr><tr id="chinese_art_gallery"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.chinese_art_gallery/">Chinese Art Gallery</a></td></tr><tr id="clearance_sale"><td class="dotnode">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.clearance_sale/">Clearance Sale</a></td></tr></tbody></table>
+	  <table class="category_item" border="0" cellspacing="0" cellpadding="0"><tbody><tr id="laptop_cumputer"><td class="dotnode">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.laptop_cumputer/">Laptop Computers</a></td></tr><tr id="mobiles_and_accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.mobiles_and_accessories/">Mobile Phones</a></td></tr><tr id="MP3_Player"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.MP3_Player/">MP3 Players</a></td></tr><tr id="MP4_Player"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.MP4_Player/">MP4 Players</a></td></tr><tr id="game-accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.game-accessories/">Game Accessories</a></td></tr><tr id="hdd_media_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.hdd_media_players/">HDD Media Players</a></td></tr><tr id="digital_picture_frame"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.digital_picture_frame/">Digital Picture Frames</a></td></tr><tr id="dvd_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.dvd_players/">Car Electronic</a></td></tr><tr id="gps_devices"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.gps_devices/">GPS &amp; Accessories</a></td></tr><tr id="bluetooth"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.bluetooth/">Bluetooths</a></td></tr><tr id="ipod_accessories"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.ipod_accessories/">Apple Accessories</a></td></tr><tr id="computer_hardware"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.computer_hardware/">Computer Hardware</a></td></tr><tr id="Electronic_gadgets"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.Electronic_gadgets/">Electronic Gadgets</a></td></tr><tr id="chinese_art_gallery"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.chinese_art_gallery/">Chinese Art Gallery</a></td></tr><tr id="clearance_sale"><td class="dotnode">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.clearance_sale/">Clearance Sale</a></td></tr></tbody></table>
 	</td>
   </tr>
   <tr>
@@ -417,9 +441,9 @@ function showShippingCost(price, rate, displayName, bit) {
   </tr>
   <tr>
     <td class="pbody">
-	  <div title="2GB Steel Watch Mp3 Player MP3P-WAT-A918" class="product_image" style="background: url(http://images.oversources.com/productimage/audio_video_mp3_watch_MP3P-WAT-A918-2GB-middle.jpg) no-repeat 50% 50%"><a href="http://www.oversources.com/display/2gb-steel-watch-mp3-player-mp3p-wat-a918.shtml">&nbsp;</a></div>
-	  <div class="product_name"><a href="http://www.oversources.com/display/2gb-steel-watch-mp3-player-mp3p-wat-a918.shtml">2GB Steel Watch Mp3 Player MP3P-WAT-A918</a></div>
-	  <div class="product_price"><span class="sample_price">Sample Price:</span><span lang="195.0" class="currently_price">US$28.333</span></div>
+	  <div title="1.5 Inch Rotating Screen Lady Mobile Phone, MADB-A464" class="product_image" style="background: url(http://images.oversources.com/productimage/mobile_lady-phones_MADB-A464-middle.jpg) no-repeat 50% 50%"><a href="http://www.oversources.com/display/1.5-inch-rotating-screen-lady-mobile-phone,-madb-a464.shtml">&nbsp;</a></div>
+	  <div class="product_name"><a href="http://www.oversources.com/display/1.5-inch-rotating-screen-lady-mobile-phone,-madb-a464.shtml">1.5 Inch Rotating Screen Lady Mobile Phone, MADB-A464</a></div>
+	  <div class="product_price"><span class="sample_price">Sample Price:</span><span lang="650.0" class="currently_price">US$95.225</span></div>
 	</td>
   </tr>
   <tr>
@@ -436,8 +460,8 @@ function showShippingCost(price, rate, displayName, bit) {
   </tr>
   <tr>
     <td class="pbody">
-	  <div title="2.8 inch TFT LCD Screen 2GB MP4 Player with Extension Memory Card Slot and One Built-in Speaker, MP4P-028-002" class="product_image" style="background: url(http://images.oversources.com/productimage/audio_video_2GB_MP4_Players_MP4P-028-002-2GB-middle.jpg) no-repeat 50% 50%"><a href="http://www.oversources.com/display/2.8-inch-tft-lcd-screen-2gb-mp4-player-with-extension-memory-card-slot-and-one-built-in-speaker,-mp4p-028-002.shtml">&nbsp;</a></div>
-	  <div class="product_name"><a href="http://www.oversources.com/display/2.8-inch-tft-lcd-screen-2gb-mp4-player-with-extension-memory-card-slot-and-one-built-in-speaker,-mp4p-028-002.shtml">2.8 inch TFT LCD Screen 2GB MP4 Player with Extension Memory Card Slot and One Built-in Speaker, MP4P-028-002</a></div>
+	  <div title="8.9 inch wide-screen mini notebook 1600MHZ WIFI 1GB RAM 64GB HDD" class="product_image" style="background: url(http://images.oversources.com/productimage/_laptop_cumputer_LAPC-089-002-middle.jpg) no-repeat 50% 50%"><a href="http://www.oversources.com/display/8.9-inch-wide-screen-mini-notebook-1600mhz-wifi-1gb-ram-64gb-hdd.shtml">&nbsp;</a></div>
+	  <div class="product_name"><a href="http://www.oversources.com/display/8.9-inch-wide-screen-mini-notebook-1600mhz-wifi-1gb-ram-64gb-hdd.shtml">8.9 inch wide-screen mini notebook 1600MHZ WIFI 1GB RAM 64GB HDD</a></div>
 	  <div class="product_price"><div class="coming_soon">Coming Soon</div></div>
 	</td>
   </tr>
@@ -458,6 +482,9 @@ function showShippingCost(price, rate, displayName, bit) {
   <tr>
     <td class="body">
   
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e829bd1cb004b.shtml">Why Should I Choose Kindbridge?</a></div>
+	  <div class="dspcontent">What’s So Good About Kindbridge? I Saw Similar Product...</div>
+  
       <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e8293a6d4004a.shtml">Tell Me About Kindbridge - Company Info</a></div>
 	  <div class="dspcontent">What is Kindbridge? Are you, like, Chinese, or what?   Kindb...</div>
   
@@ -469,9 +496,6 @@ function showShippingCost(price, rate, displayName, bit) {
   
       <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8debe40f22da.shtml">How to Import from China?</a></div>
 	  <div class="dspcontent">You may be able to find a new business opportunity or profit...</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e829bd1cb004b.shtml">Why Should I Choose Kindbridge?</a></div>
-	  <div class="dspcontent">What’s So Good About Kindbridge? I Saw Similar Product...</div>
   
       <div class="more"><a href="http://www.oversources.com/service/faqs/">more...</a></div>
 	</td>
@@ -515,7 +539,7 @@ function showShippingCost(price, rate, displayName, bit) {
 </div></div></div>
 
 <div id="footer">
-<div id="footlayer"><table cellspacing="0" cellpadding="0" width="100%" border="0">
+<div id="footlayer"><table width="100%" cellspacing="0" cellpadding="0" border="0">
     <thead>
         <tr>
             <td width="20%">CUSTOMER SERVICE</td>
@@ -561,7 +585,7 @@ function showShippingCost(price, rate, displayName, bit) {
             <div>
             <ul>
                 <li><a href="http://www.oversources.com/static/about_us.shtml">About Us</a> </li>
-                <li><a href="http://www.oversources.com/dig/">Wholesale News</a> </li>
+                <li><a href="http://www.oversources.com/static/vip_club.shtml">The VIP Club</a> </li>
                 <li><a href="http://www.oversources.com/content/customer_comments/">Customer Comments</a> </li>
                 <li><a href="http://www.oversources.com/static/bank_information.shtml">Bank Account Info</a> </li>
             </ul>
@@ -580,8 +604,13 @@ function showShippingCost(price, rate, displayName, bit) {
         </tr>
     </tbody>
 </table>
-<p align="center"><img height="21" alt="visa" src="/resources/Image/Certificate/visa.gif" width="37"><img height="21" alt="mastercard" src="/resources/Image/Certificate/mastercard.gif" width="37"><img alt="discover" src="/resources/Image/Certificate/discover.gif"><img height="21" alt="echeck" src="/resources/Image/Certificate/echeck.gif" width="37"><img height="21" alt="amex" src="/resources/Image/Certificate/amex.gif" width="37"><img height="21" alt="paypal" src="/resources/Image/Certificate/paypal.gif" width="57"><a href="https://www.paypal.com/verified/pal=paypal%40chinabatterys.com"><img height="70" alt="PayPal Verified" src="/resources/Image/Certificate/paypalverifyseal.gif" width="70" border="0"></a><a href="http://www.xe.com/"><img style="WIDTH: 53px; HEIGHT: 45px" height="45" alt="UCC" src="http://www.xe.com/gen/illegal2copy-w.gif" width="45" border="0"></a></p></div>
+<p align="center"><img height="21" width="37" src="/resources/Image/Certificate/visa.gif" alt="visa"><img height="21" width="37" src="/resources/Image/Certificate/mastercard.gif" alt="mastercard"><img src="/resources/Image/Certificate/discover.gif" alt="discover"><img height="21" width="37" src="/resources/Image/Certificate/echeck.gif" alt="echeck"><img height="21" width="37" src="/resources/Image/Certificate/amex.gif" alt="amex"><img height="21" width="57" src="/resources/Image/Certificate/paypal.gif" alt="paypal"><a href="https://www.paypal.com/verified/pal=paypal%40chinabatterys.com"><img height="70" width="70" border="0" src="/resources/Image/Certificate/paypalverifyseal.gif" alt="PayPal Verified"></a><a href="http://www.xe.com/"><img height="45" width="45" border="0" src="http://www.xe.com/gen/illegal2copy-w.gif" alt="UCC" style="width: 53px; height: 45px;"></a></p></div>
 <div id="copyright">
+
+      
+	    <span class="footitem"><a href="http://www.oversources.com/static/vip_club.shtml">VIP Club</a></span>
+	  
+	    <span class="interval">|</span>
 
       
 	    <span class="footitem"><a href="http://www.oversources.com/static/policies.shtml">Policies</a></span>
