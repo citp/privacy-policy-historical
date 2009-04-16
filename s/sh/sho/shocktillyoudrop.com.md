@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shocktillyoudrop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154433id_/http%3A//www.shocktillyoudrop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shocktillyoudrop.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416230338id_/http%3A//www.shocktillyoudrop.com/privacy.php) for the most accurate reproduction.*
 
 # ShockTillYouDrop.Com- Privacy Policy
 
