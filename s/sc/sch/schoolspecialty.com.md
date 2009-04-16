@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolspecialty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152213id_/http%3A//www.schoolspecialty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolspecialty.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416195407id_/http%3A//www.schoolspecialty.com/privacy.jsp) for the most accurate reproduction.*
 
 # School Specialty - Privacy/Security
 
