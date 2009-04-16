@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913050629id_/http%3A//www.cyprusjobs.com/content.php%3Fparent_id%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417005313id_/http%3A//www.cyprusjobs.com/artcateg_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy and other Policies of the Cyprus Vortal Network**
 
-CyprusNet is owned and operated by Dictiorasis Ltd a company incorporated in Cyprus trading as CyprusNet.com by Dictiorasis and/or Dictiorasis’ subsidiary, affiliate or related company (throughout our Terms of Use (see separate page) ' CyprusNet ' refers collectively to Dictiorasis Ltd and its subsidiaries, affiliates and related companies) (the ' Sites'). CyprusNet maintains the Sites as a service to its visitors, subject to the following terms and conditions concerning the use of the Site ('Terms of Use'). When you use the Site, you accept the Terms of Use; if you do not agree to the Terms of Use you may not use the Site. CyprusNet reserves the right to modify content on its Sites and these Terms of Use periodically without prior notice.
+CyprusNet is owned and operated by Dictiorasis Ltd a company incorporated in Cyprus trading as CyprusNet.com by Dictiorasis and/or DictiorasisΆ subsidiary, affiliate or related company (throughout our Terms of Use (see separate page) ' CyprusNet ' refers collectively to Dictiorasis Ltd and its subsidiaries, affiliates and related companies) (the ' Sites'). CyprusNet maintains the Sites as a service to its visitors, subject to the following terms and conditions concerning the use of the Site ('Terms of Use'). When you use the Site, you accept the Terms of Use; if you do not agree to the Terms of Use you may not use the Site. CyprusNet reserves the right to modify content on its Sites and these Terms of Use periodically without prior notice.
 
 The following statement describes the overall Policies and practices of CyprusNet, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by the CyprusNet. 
 
@@ -12,7 +12,7 @@ INFORMATION COLLECTED BY CYPRUSNET
 
 Non-Personally Identifiable Consumer Data
 
-CyprusNet delivers advertisements across multiple channels and media, including to web surfers who visit any of the hundreds of web sites that are a part of CyprusNet’s network. With respect to individuals who visit those sites, we collect what is known as 'Click Stream Data.' Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time by a web surfer to an advertisement delivered by us. 
+CyprusNet delivers advertisements across multiple channels and media, including to web surfers who visit any of the hundreds of web sites that are a part of CyprusNetΆs network. With respect to individuals who visit those sites, we collect what is known as 'Click Stream Data.' Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time by a web surfer to an advertisement delivered by us. 
 
 In addition to the Click Stream Data collected across, CyprusNet owns numerous web sites and services, and collects information at those sites. 
 
@@ -50,9 +50,9 @@ Finally, CyprusNet may share information on individuals as it deems necessary to
 
 SECURITY PRECAUTIONS
 
-CyprusNet makes every effort to maintain the security of its network and the data we collect. We use state-of-the-art technology, including encryption, to ensure the highest security standards. Any data that is stored on CyprusNet’s servers is treated as proprietary and confidential and is not available to the public. 
+CyprusNet makes every effort to maintain the security of its network and the data we collect. We use state-of-the-art technology, including encryption, to ensure the highest security standards. Any data that is stored on CyprusNetΆs servers is treated as proprietary and confidential and is not available to the public. Nevertheless there are certain services that will give access of data to the public. These include, but are not limited to, Cyprus Jobs and Cyprus CVΆs. 
 
-CyprusNet has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who have a need to know such information for the purpose of effectively delivering CyprusNet’s products and services. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although we use industry standards to protect information, the possibility of somebody defeating our security measures does exist.
+CyprusNet has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who have a need to know such information for the purpose of effectively delivering CyprusNetΆs products and services. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although we use industry standards to protect information, the possibility of somebody defeating our security measures does exist.
 
 Access to Data 
 
