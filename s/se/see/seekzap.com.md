@@ -1,48 +1,33 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416175349id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Seekzap.com - Privacy Policy
+# Seekzap Web Directory of Quality Internet Resources - Privacy Policy
 
-|   |   
----|---|---  
-  
-This is the web site of **SeekZap.com**.
+## Seekzap Directory Privacy Policy
 
-Our postal address is   
-**PO Box 2393  
-Woburn, MA 01888**
+**1\. Seekzap Directory**
 
-We can be reached via e-mail at [webmaster@ssekzap.com](mailto:webmaster@ssekzap.com).
+Seekzap Directory respects your right to the privacy of your personal information you provide us on our web site. To that end, any personal information you provide to Seekzap Directory will be known only to two parties: you and Seekzap Directory. The following policy is intended to explain how your personal information will be treated as you make use of our site and its features. Personal information includes your name and e-mail addresses, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+**2\. Traffic Data**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+(1) Each time a visitor comes to Seekzap Directory, our server - like most on the Web - collects some basic technical information, including, for example, your domain name (e.g., whether the user has logged on from aol.com or msn.com), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to Seekzap Directory) and browser and platform type (e.g., a Netscape browser on a Macintosh platform).
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes.
+(2) We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our site (e.g., tracking where traffic comes from, how traffic flows within the site, etc.). To these ends, we may merge information about visitors and visits into group data; but we will not disclose your individual identity or personally identifiable data.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, ensure that visitors are not repeatedly sent the same banner ads.
+**3\. Other Disclosure of Personal Information**
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Seekzap Directory will not otherwise use or disclose your personal information without your consent except as requested by government or law enforcement authorities.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+**4\. Other sites**
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+Seekzap Directory contains many links to other sites on the web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+If you have any further questions or concerns about our privacy policies and use of personal information, please contact us.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them.
-
-Consumers can access this information by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
-
-Upon request we offer visitors the ability to have inaccuracies corrected in unique identifiers.
-
-Consumers can have this information corrected by visiting us at [www.seekzap.com/login.asp](https://web.archive.org/web/20080621225158id_/http%3A//www.seekzap.com/www.seekzap.com/login.asp).
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.  
  
 
-There are 2508 links in the Seekzap directory.   
----
+**5\. Refund Policy**
+
+_**We can not refund you if you make a request later than 30 days after submission.**  
+_  
+
