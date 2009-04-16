@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151707id_/http%3A//www.whsmith.co.uk/Support/help-terms-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416051510id_/http%3A//www.whsmith.co.uk/Support/help-terms-privacy.aspx) for the most accurate reproduction.*
 
-# Books, Stationery, Magazines, DVDs, Music | WHSmith
+# Books, Audio Books, Stationery, Magazines, Gifts & Cards and much more including FREE delivey to stores and on all orders over £15 | WHSmith
 
 WHSmith.co.uk | Help | Terms & Conditions | Privacy
 
@@ -14,6 +14,6 @@ WHSmith complies fully with all applicable data protection and consumer legislat
 
 To process your orders efficiently,reputable third-party banking and distribution institutions handle our credit and debit card transactions and order fulfillment. They receive the information needed to verify and authorize your payment card and to process your order. These organisations are under strict legal and contractual obligations to keep your personal information private.
 
-If you would like additional information about our Security and Privacy policies, please contact our [Customer Services Team](https://web.archive.org/web/20081216151707id_/http%3A//www.whsmith.co.uk/Support/contact-us.aspx "Contact Customer Services Team") and one of our trained customer service staff will be happy to advise you.
+If you would like additional information about our Security and Privacy policies, please contact our [Customer Services Team](https://web.archive.org/web/20090416051510id_/http%3A//www.whsmith.co.uk/Support/contact-us.aspx "Contact Customer Services Team") and one of our trained customer service staff will be happy to advise you.
 
 ## More Terms & Conditions Help
