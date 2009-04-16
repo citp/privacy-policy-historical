@@ -1,6 +1,79 @@
-> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152232id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416195453id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # womensforum : A Community of Women and their Special Interests
+
+| 
+
+|   
+---  
+[](http://registration.womensforum.com/SubscriberArea)  
+  
+[Home](http://www.womensforum.com/default.aspx)
+
+[Auto](http://auto.womensforum.com/channel.aspx?channel=17)
+
+[Business & Career](http://business.womensforum.com/channel.aspx?channel=3)
+
+[Entertainment](http://arts.womensforum.com/channel.aspx?channel=1)
+
+[Family](http://family.womensforum.com/channel.aspx?channel=4)
+
+[Fashion & Beauty](http://fashion.womensforum.com/channel.aspx?channel=5)
+
+[Food & Wine](http://food.womensforum.com/channel.aspx?channel=6)
+
+[Health & Wellness](http://health.womensforum.com/channel.aspx?channel=2)
+
+[Home & Garden](http://home.womensforum.com/channel.aspx?channel=8)
+
+[Personal Finance](http://money.womensforum.com/channel.aspx?channel=16)
+
+[Pregnancy & Baby](http://baby.womensforum.com/channel.aspx?channel=9)
+
+[Romance](http://relationships.womensforum.com/channel.aspx?channel=10)
+
+[Shopping](http://www.womensforum.com/channel.aspx?channel=37)
+
+[Sports & Fitness](http://sports.womensforum.com/channel.aspx?channel=11)
+
+[Teens](http://www.womensforum.com/channel.aspx?channel=12)
+
+[Travel & Leisure](http://travel.womensforum.com/channel.aspx?channel=13)
+
+[Weddings](http://weddings.womensforum.com/channel.aspx?channel=14)
+
+[Womensforum Members](http://www.womensforum.com/channel.aspx?channel=29)  
+  
+[Advertising Info](https://web.archive.org/ad_info.aspx)
+
+[Become a Partner!](https://web.archive.org/become_a_partner.aspx)
+
+[Contact WF](https://web.archive.org/contact.aspx)
+
+[Feedback](mailto:webmaster@mail2.womensforum.com)
+
+[Privacy Policy](https://web.archive.org/privacy_policy.aspx)
+
+[ ](http://www.maternitycorner.com/)  
+  
+| [](https://web.archive.org/welcome_fromJT.aspx) | [](https://web.archive.org/welcome_fromJT.aspx)  
+---|---  
+  
+Cofounder and President of womensforum.com
+
+Dear Friends,
+
+I hope this finds you well and enjoying what finally seems (a bit) like spring.
+
+I find that every now and then, when life gets harried and I'm rushing around at a million miles an hour, that somehow, someway, the universe finds a way to slow me down and show me (yet again), what's really important in life. 
+
+JJust yesterday, I was playing outside with my son, thinking about work and laundry and work and more laundry...when I stopped to look at his perfectly blissful face 
+
+Morgan and I were playing--simply playing. Running around the yard, climbing up and down the slide, and collecting twigs (a first for me, LOL). 
+
+[](https://web.archive.org/welcome_fromJT.aspx)  
+  
+| 
 
 Privacy Policy
 
@@ -89,3 +162,20 @@ Your Womensforum.com account is password protected. Only you have access to your
 **Disclaimer**
 
 Please be aware that no data transmitted over the Internet is guaranteed to be 100% secure. Thus, Womensforum.com cannot ensure or warrant the security of any information you transmit to us or information that is transmitted to you from our products, services or partners. Sometimes the information you disclose can be collected and used by others. If you post personal information that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+|  | 
+
+[](http://registration.womensforum.com/SubscriberRegistration)  
+  
+---  
+  
+**Become a WF Partner Publisher!**
+
+Do you have a wonderful site that you created for women to enjoy? Do you pour your heart and soul into making it informative, interactive, useful—and most of all—reflective of how real women live their lives? If you are shaking your head thinking yes, yes, yes, then consider becoming a Partner in WF. We have been a leader in the women’s community since 1996 and today are proud to be one of the top destinations for women online. 
+
+Partnership in WF offers benefits including advertising revenue from the world’s leading sponsors, promotion on our network site, Womensforum.com, cross-promotion (think: sharing content and growing your audience!) with other Partners, a support network of fellow Partners, and so much more. 
+
+To apply for Partnership, please [Click here!](http://www.womensforum.com/become_a_partner.aspx) to use our online application. 
+
+  
+
