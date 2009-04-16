@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefavicon.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225061318id_/http%3A//www.freefavicon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefavicon.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416103018id_/http%3A//www.freefavicon.com/privacy.php) for the most accurate reproduction.*
 
 # Free Favicon - Generate your free favicon ico from a picture.
 
@@ -13,6 +13,9 @@ Like many other Web sites, www.freefavicon.com makes use of log files. The infor
 www.freefavicon.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 We also use third party advertisements on www.freefavicon.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+DoubleClick DART cookies  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
 www.freefavicon.com has no access to or control over these cookies that are used by third-party advertisers. 
 
