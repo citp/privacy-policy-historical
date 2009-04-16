@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015542id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416202821id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
 
-# Trafficonomy (Pty) Ltd Privacy Policy
+# SkillPod Media (Pty) Ltd Privacy Policy
 
   
 Privacy Policy   
-Trafficonomy (Pty) Ltd   
+SkillPod Media (Pty) Ltd   
 http://www.skillpod.com
 
-Effective from 01st of August 2006 to 01st of August 2007. 
+Effective from 01st of August 2006 to 11th of August 2010. 
 
 * * *
 
 General Information   
-Trafficonomy (Pty) Ltd takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
+SkillPod Media (Pty) Ltd takes your privacy seriously. Please read the following information to learn more about our privacy practices. 
 
-  * This policy covers what personally identifiable information Trafficonomy (Pty) Ltd collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.skillpod.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
+  * This policy covers what personally identifiable information SkillPod Media (Pty) Ltd collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.skillpod.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number. 
   * This policy only applies to http://www.skillpod.com and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage. 
 
 
@@ -26,12 +26,12 @@ We invite you to contact us if you have questions about this privacy policy.
 
 Our Internet address is located at [http://www.skillpod.com](http://www.skillpod.com/)
 
-**Trafficonomy (Pty) Ltd  
-PO Box 67788   
-Highveld 0169   
+**SkillPod Media (Pty) Ltd  
+180 Lenchen Ave Lyttelton Manor   
+Centurion 0157   
 Gauteng South Africa **
 
-You may contact us by e-mail at [info@trafficonomy.com](mailto:info@trafficonomy.com)   
+You may contact us by e-mail at [info@SkillPodMedia.com](mailto:info@SkillPodMedia.com)   
 You may contact us by phone on 27126655085 
 
 
@@ -40,14 +40,14 @@ You may contact us by phone on 27126655085
 * * *
 
 Dispute Resolution   
-Trafficonomy (Pty) Ltd is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
+SkillPod Media (Pty) Ltd is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
 
 Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors. 
 
 * * *
 
 Information Collection   
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Trafficonomy (Pty) Ltd collects, and how it is used. 
+When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information SkillPod Media (Pty) Ltd collects, and how it is used. 
 
 Information Collected \- What information do we collect and why? 
 
