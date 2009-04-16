@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the walottery.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216014854id_/http%3A//www.walottery.com/sections/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walottery.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416041645id_/http%3A//www.walottery.com/sections/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<title>Washington's Lottery -- Press Room</title>
@@ -20,7 +20,7 @@
 	<body>
 	
 	<form name="Form1" method="post" action="Default.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMjY3NTA1MTU5O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDU+Oz47bDx0PDtsPGk8MT47PjtsPHQ8O2w8aTwwPjs+O2w8dDxwPHA8bDxFZGl0YWJsZTtIYXNQZXJtaXNzaW9uO1JhZENvbnRyb2xzRGlyO1Rvb2xzRmlsZTtDb25maWdGaWxlO0Jhc2VTY2hlbWU7PjtsPG88Zj47bzxmPjt+L1JhZENvbnRyb2xzLztcZTtcZTsvUmFkQ29udHJvbHMvRWRpdG9yL1NjaGVtZXMvRGVmYXVsdC87Pj47Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+rGpHvZTpGIienpWkmXWdlmxxd0A=">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMjY3NTA1MTU5O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDU+Oz47bDx0PDtsPGk8MT47PjtsPHQ8O2w8aTwwPjs+O2w8dDxwPHA8bDxFZGl0YWJsZTtIYXNQZXJtaXNzaW9uO1JhZENvbnRyb2xzRGlyO1Rvb2xzRmlsZTtDb25maWdGaWxlO0Jhc2VTY2hlbWU7PjtsPG88Zj47bzxmPjt+L1JhZENvbnRyb2xzLztcZTtcZTsvUmFkQ29udHJvbHMvRWRpdG9yL1NjaGVtZXMvRGVmYXVsdC87Pj47Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+lztxaBa6xYiXA2POQL6Xg/LKaNA=">
 	<script language="javascript" src="/RadControls/Editor/Scripts/RadEditorCommon.js"></script>
 
 	<script language="javascript" src="/RadControls/Editor/Scripts/RadWindow.js"></script>
@@ -30,11 +30,64 @@
 	<div class="VSWrapper">
 		
 
+<script type="text/JavaScript">
+	var state = "club";
+	var rotation = 0;
+	
+	function stopRotation() {
+		clearInterval(rotation);
+	}
+	function startRotation() {
+		rotation = setInterval(rotateLink, 3500);
+	}
+	function rotateLink() {
+		var Link = document.getElementById("toprightlink");
+		var Img = document.getElementById("playersClubImg");
+		if(state == "club") {
+			Link.href = "/sections/LotteryGames/Match4.aspx?Page=Match4";
+			//Link.className = "match4";
+			Img.src = "../../css/images/Match4_WhiteGuysLogo.gif";
+			Img.alt = "Match 4's"
+			state = "match4";
+		} else {
+			Link.href= "/VIP/Default.aspx";
+			//Link.className = "navigation";
+			Img.src = "../../css/images/pc_btn.gif";
+			Img.alt = "Players' Club";
+			state = "club";
+		}
+	}
+	function outLink() {
+		startRotation();
+		var Img = document.getElementById("playersClubImg");
+		if(state == "club") {
+			Img.src = "../../css/images/pc_btn.gif";
+		} else {
+			Img.src = "../../css/images/Match4_WhiteGuysLogo.gif";		
+		}
+	}
+	function overLink() {
+		stopRotation();
+		var Img = document.getElementById("playersClubImg");
+		if(state == "club") {
+			Img.src = "../../css/images/pc_roll.gif";
+		} else {
+			Img.src = "../../css/images/Match4_WhiteGuysLogo_over.gif";
+		}
+	}
+	startRotation();
+</script>
+<div id="preload">
+	<img src="../../css/images/Match4_WhiteGuysLogo.gif">
+	<img src="../../css/images/Match4_WhiteGuysLogo_over.gif">
+	<img src="../../css/images/pc_roll.gif">
+</div>
 <div class="headerContainer">
-	<a href="/index.shtml"><img src="/images/skin/walotteryLogo.gif" alt="Washington's Lottery Logo" border="0"></a>
+	<a href="../../index.shtml"><img src="/images/skin/walotteryLogo.gif" alt="Washington's Lottery Logo" border="0"></a>
 	<img src="/images/skin/whoseWorld.gif" alt="Whose World Could You Change?" style="margin:0px 0px 30px 10px;">
 	</div>
-	<div class="playersClubLink"><a class="navigation" title="Players' Club" href="/VIP/Default.aspx"></a></div>
+	<div class="playersClubLink"><a id="toprightlink" target="_parent" href="/VIP/Default.aspx">
+		<img id="playersClubImg" src="../../css/images/pc_btn.gif" alt="Players' Club" style="border:0px;width:170px;height:110px" onmouseover="overLink();" onmouseout="outLink();"></a></div>
 	<div class="clear"></div>
 	
 	<!--navigation below-->
@@ -46,7 +99,7 @@
 	<ul class="nav superfish">
 				
 				<li class="current">
-					<a title="Winning Numbers" class=" toplink " href="http://www.walottery.com/sections/WinningNumbers/">
+					<a title="Winning Numbers" class="toplink" href="http://www.walottery.com/sections/WinningNumbers/">
 					Winning Numbers</a>
 					<ul class="parentNav" style="display: none; visibility: hidden;"><li><a class="removeArrow" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=FDN">Frequency of Numbers Drawn</a></li><li><a class="removeArrow" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=Unclaimed">Unclaimed Top Prizes</a></li><li><a class="removeArrow" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=GetResults">Get Results Sent to You</a></li><li><a class="removeArrow" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=JackpotStores">Jackpot Selling Stores</a></li><li class=""><a class="" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=Claim">Claim Your Prize</a><ul class="childNav" style="display: none; visibility: hidden;">
 	<li><a class="removeArrow" href="http://walottery.com/sections/WinningNumbers/Default.aspx?Page=PrizeClaimForm">Lottery Prize Claim Form</a></li>
@@ -85,9 +138,9 @@
 
 								
 								</li>
-								<li class=""><a href="/sections/LotteryGames/Match4.aspx?Page=HowPlay">Match 4</a>
+								<li class=""><a href="/sections/LotteryGames/Match4.aspx?Page=Match4">Match 4</a>
 									<ul class="childNav" style="display: none; visibility: hidden;">
-	<li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=HowPlay">How to Play</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=Numbers">Winning Numbers</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=Claim">Claim Your Prize</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=lotteryFun">Lottery Fun</a></li>
+	<li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=Match4">The Match 4's</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=HowPlay">How to Play</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=Numbers">Winning Numbers</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=Claim">Claim Your Prize</a></li><li><a class="removeArrow" href="http://walottery.com/sections/LotteryGames/Match4.aspx?Page=lotteryFun">Lottery Fun</a></li>
 </ul>
 
 								
@@ -127,7 +180,7 @@
 				
 					
 				</li>
-				<li class="current">
+				<li class="">
 					<a class="toplink" href="http://retailerlocator.walottery.com">
 					 Where to Play</a> 
 					<ul class="parentNav" style="display: none; visibility: hidden;">
@@ -137,7 +190,7 @@
 						</ul>
 				</li>
 				<li class="current">
-					<a title="Winners" href="http://www.walottery.com/sections/WinnersGallery/WinnersGallery.aspx" class=" toplink">
+					<a title="Winners" href="http://www.walottery.com/sections/WinnersGallery/WinnersGallery.aspx" class="toplink">
 					 Winners</a>
 					
 								<ul class="parentNav" style="display: none; visibility: hidden;">
@@ -188,28 +241,28 @@
 						
 				</li>
 <li class="current">
-					<a title="Promotions" class=" toplink" href="http://www.walottery.com/sections/Events/">
+					<a title="Promotions" class="toplink" href="http://www.walottery.com/sections/Events/">
 					 Promotions</a>
 					<ul class="parentNav" style="display: none; visibility: hidden;"><li><a class="removeArrow" href="http://walottery.com/sections/Events/Default.aspx?Page=Events">Events</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Events/Default.aspx?Page=Calendar">Calendar</a></li></ul>
 
 				</li>	
 <li class="current">
-					<a title="Education Support" class=" toplink" href="http://www.walottery.com/sections/Education/">
+					<a title="Education Support" class="toplink" href="http://www.walottery.com/sections/Education/">
 					 Education</a>
 					<ul class="parentNav" style="display: none; visibility: hidden;"><li class=""><a class="" href="http://walottery.com/sections/Education/Default.aspx?Page=MoneyGoes">Where the Money Goes</a><ul class="childNav" style="display: none; visibility: hidden;">
-	<li><a class="removeArrow" href="http://walottery.com/sections/Education/Default.aspx?Page=Fiscalyear2007">Fiscal Year 2007</a></li>
+	<li><a class="removeArrow" href="http://walottery.com/sections/Education/Default.aspx?Page=FiscalYear2008">Fiscal Year 2008</a></li>
 </ul>
 </li><li><a class="removeArrow" href="http://walottery.com/sections/Education/Default.aspx?Page=AnnualReports">Annual Reports</a></li></ul>
 
 				</li>	
 				<li class="current" style="padding-left:3px;">
-					<a title="Retailers' Area" class="toplink " href="http://www.walottery.com/sections/Retailers/">
+					<a title="Retailers' Area" class="toplink" href="http://www.walottery.com/sections/Retailers/">
 					Retailers' Area</a>
 					<ul class="parentNav" style="display: none; visibility: hidden;"><li class=""><a class="" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Benefits">Benefits of Being a Retailer</a><ul class="childNav" style="display: none; visibility: hidden;">
 	<li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=IncreaseProfits">Increase Profits</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=IncreaseTraffic">Increase Traffic</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=StartupCost">Low Startup Costs</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Security">Security and Integrity</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=YourPart">Your Part</a></li>
 </ul>
 </li><li class=""><a class="" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Become">How to Become a Retailer</a><ul class="childNav" style="display: none; visibility: hidden;">
-	<li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=ApplicationForms">Application Forms</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=ADAAccessibility">Accessibility Requirements</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Wireless">Wireless Equipment</a></li>
+	<li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=ApplicationForms">Application Forms</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=ADAAccessibility">Accessibility Requirements</a></li>
 </ul>
 </li><li class=""><a class="" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Equipment">Equipment</a><ul class="childNav" style="display: none; visibility: hidden;">
 	<li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=AlturaTerminal">Altura Terminal</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=SelfService">Self-Serve Solutions</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=Counters">Counter Dispensers</a></li><li><a class="removeArrow" href="http://walottery.com/sections/Retailers/Default.aspx?Page=POSDisplay">Media Display</a></li>
