@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160113id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416185533id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShareTV.org
 
-**Special Announcement:** ShareTV Partners with HULU.com to offer [Television Online](https://web.archive.org/watch)
+**¬ Update:** ShareTV adds 
+
+[_Full-Episodes_](https://web.archive.org/watch)
+
+from HULU, Joost, and TheWB.com
 
 We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
 
