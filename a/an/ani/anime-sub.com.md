@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020950id_/http%3A//www.anime-sub.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222028id_/http%3A//www.anime-sub.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Anime Sub
-
-Mar 10th, 2008 by [lordgoth](http://www.anime-sub.com/author/lordgoth/ "Posts by lordgoth")
+# Privacy Policy | Watch Anime Subs Online
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -20,7 +18,10 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies.
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies.  
+\- Google, as a third-party vendor, uses cookies to serve ads on site.  
+\- Google’s use of the DART cookie enables it to serve ads to users based on their visit to sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html)
 
 Contact Information
 
