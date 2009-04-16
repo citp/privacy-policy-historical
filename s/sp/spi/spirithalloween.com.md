@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912172202id_/http%3A//www.spirithalloween.com/content.aspx%3FNodeID%3D638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416190351id_/http%3A//www.spirithalloween.com/content.aspx%3FNodeID%3D638347c3-8b32-4640-bee8-0776629b6ae4) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,7 @@ _General_
   * When you register for Spirit, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us. 
   * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold by Spirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/index_en_US.html)>_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _[http://www.Buzzillions.com](http://www.buzzillions.com/ "http://www.buzzillions.com/")_  and our site._
+  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold bySpirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/index_en_US.html)>_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _<http://www.buzzillions.com/>_  and our site._
 
 
 
@@ -32,6 +32,9 @@ On the sites specifically designed for children, Spirit requires children to con
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Spirit terms of use, or as otherwise required by law. 
     * We transfer information about you if Spirit is acquired by or merged with another company. In this event, Spirit will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+If you provide us with your postal address, you may receive mailings from us with information on new products and services. If you do not wish to receive these mailings, please contact us and we will remove you from our mailing list. If you have placed an order with our company, we may share your mailing address information with other reputable companies and you may receive mailings and other offers from those companies for products or services we believe will be of interest. If you prefer not to receive these mailings, please contact us and we will be sure your name is removed from the list we share with other carefully selected organizations.
+
 
 
 
