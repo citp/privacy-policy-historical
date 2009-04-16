@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stargateworlds.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708220052id_/http%3A//www.stargateworlds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargateworlds.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416185605id_/http%3A//www.stargateworlds.com/privacy) for the most accurate reproduction.*
 
 # Stargate Worlds :: Privacy Policy
+
+Last updated: April 15, 2008.
 
 Firesky, LLC. (together with its successors and assigns, " **Firesky** ," the " **Company** " or " **we** ") respects the privacy of its online visitors and recognizes the importance of protecting personal identifying information when you visit any web sites owned, operated, licensed or controlled by Firesky or its parent, Cheyenne Mountain Entertainment, Inc. (collectively, the " **Firesky Sites** ").  This Privacy Policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Firesky Sites, and any of our products and services (collectively, the “ **Services** ”). This Privacy Policy will be continuously assessed against new technologies, business practices and our visitors' needs. Access to and use of any Firesky Sites and Services is available only to individuals who can form legally binding contracts under applicable law. If you do not qualify, you may not use the Firesky Sites and Services. If you are a minor under the age of 13, you are not authorized to register, become a member of the Firesky Sites and Services or participate in features of the Firesky Sites and Services that require registration. If you are a minor between the ages of 13 and 18, you may register, become a member of the Firesky Sites and Services, or participate in features of the Firesky Sites and Services that require registration only in conjunction with your parent's or legal guardian's consent as further set forth below. We urge supervising adults to actively oversee minors' online use. 
 
@@ -100,5 +102,3 @@ The Firesky Sites may from time to time contain links to third-party web sites. 
 #### GENERAL TERMS AND CONDITIONS OF USE:
 
 The terms of this Privacy Policy are incorporated into our general Terms of Service. Please review our Terms of Service [Terms of Use](http://community.stargateworlds.com/tou/).
-
-Last updated: April 15, 2008.
