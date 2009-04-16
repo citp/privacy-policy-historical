@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpreparation.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220053921id_/http%3A//techpreparation.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpreparation.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416042623id_/http%3A//www.techpreparation.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,6 +78,6 @@ Our site may link to other web sites. This Internet Privacy Policy does not appl
 
 TechPreparation.com may revise these Terms and Conditions and the Privacy Policy at any time by updating this posting. You should visit this page periodically to review the Terms and Conditions and the Privacy Policy, because they are binding on you. The terms "You" and "User" as used herein refer to all individuals and/or entities accessing this web site for any reason.
 
-Check [Aptitude Interview Questions](https://web.archive.org/web/20081220053921id_/http%3A//techpreparation.com/aptitude-questions.htm) for more Aptitude Questions
+Check [Aptitude Interview Questions](https://web.archive.org/web/20090416042623id_/http%3A//www.techpreparation.com/aptitude-questions.htm) for more Aptitude Questions
 
-Check [Placement Papers](https://web.archive.org/web/20081220053921id_/http%3A//techpreparation.com/placement-papers.htm) for more IT Companies Paper
+Check [Placement Papers](https://web.archive.org/web/20090416042623id_/http%3A//www.techpreparation.com/placement-papers.htm) for more IT Companies Paper
