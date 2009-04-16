@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capecodonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022100id_/http%3A//www.capecodonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capecodonline.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416185549id_/http%3A//www.capecodonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # CapeCodTimes.com -
 
@@ -77,4 +77,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [alanghoff@ottaway.com](mailto:alanghoff@ottaway.com) or by regular mail at: P.O. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff. 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [spolay@ottaway.com](mailto:spolay@ottaway.com) or by regular mail at: P.O. Box 508, Middletown, NY 10940, Attn: Sean Polay. 
