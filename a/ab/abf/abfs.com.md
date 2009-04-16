@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220163340id_/http%3A//abfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417014451id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF Freight System, Inc. - Privacy Policy
 
@@ -23,7 +23,7 @@ Your account and shipment information is stored in a central, secure source in o
 Although we make substantial efforts to limit access to our facilities and vehicles to authorized personnel, we are not responsible for maintaining the confidentiality of information that is printed and placed in plain view on a shipment or package.
 
 How do I change my personal or company information?
-    Registered users of myABF and/or the eCenter of Online Tools may contact their local sales representative or e-mail [passwords@abfs.com](mailto:passwords@abfs.com) to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.
+    Registered users of myABF and/or the eCenter of Online Tools may contact their local account manager or e-mail [passwords@abfs.com](mailto:passwords@abfs.com) to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.
 
 Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.
 
@@ -32,7 +32,7 @@ Does the ABF site use cookies?
 Will ABF disclose the information it collects to third parties?
     Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.
 Will ABF use this information to send me promotional materials?
-    Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these print mailings by contacting your local ABF sales representative.
+    Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these print mailings by contacting your local ABF account manager.
 
 Please note that by using the ABF Web site, you consent to the collection and use of this information by ABF. If we decide to change this privacy policy, alterations will be posted to this page. ABF is committed to protecting your privacy.
 
