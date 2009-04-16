@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spot.ph privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053310id_/http%3A//www.spot.ph/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spot.ph privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416180846id_/http%3A//www.spot.ph/privacy_policy) for the most accurate reproduction.*
 
 # SPOT - TERMS OF SERVICE
 
