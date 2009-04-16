@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052804id_/http%3A//www.londonexternal.ac.uk/contact_us/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416094938id_/http%3A//www.londonexternal.ac.uk/contact_us/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - External System website - University of London
 
@@ -8,7 +8,7 @@ We adhere to the principle of data protection and privacy and endeavour to imple
 
 ##  Accessing the External System's website
 
-As a general rule, the External System website employs the notion of 'public access' and does not require you to login. Consequently, when you access the website you are not required to submit any personal information; however, in common with most websites, certain anonymous data is gathered. For each visitor, our web server collects usage data, similarly, we use an analytics package to provide additional anonymised statistics; the type of information obtained might include: the number of page visits per week, the average number of pages viewed by users, domain names (e.g. .com, .ac.uk, .net), referring sites (e.g. Google.com, Yahoo.com), Browser summaries (e.g. the number of visitors using Microsoft Internet Explorer or Firefox) and Operating System reports (e.g. the number of page requests made using Windows XP, Windows Vista, [Mac] OS X or Unix). 
+As a general rule, the External System website employs the notion of 'public access' and does not require you to login. Consequently, when you access the website you are not required to submit any personal information; however, in common with most websites, certain anonymous data is gathered. For each visitor, our web server collects usage data; similarly, we use certain analytics systems to provide additional anonymised statistics - the type of information obtained might include: the number of page visits per week, the average number of pages viewed by users, domain names (e.g. .com, .ac.uk, .net), referring sites (e.g. Google.com, Yahoo.com), Browser summaries (e.g. the number of visitors using Microsoft Internet Explorer or Firefox) and Operating System reports (e.g. the number of page requests made using Windows XP, Windows Vista, [Mac] OS X or Unix). 
 
 On occasion summary statistics may be disclosed to third-parties, however, it is important to understand that the data doesn't provide any personal information (e.g. email addresses) and isn't attributed to individuals. The primary purpose for collecting the information, which is used on an aggregate basis, is to improve the content and functionality of our website.
 
@@ -16,7 +16,7 @@ On occasion summary statistics may be disclosed to third-parties, however, it is
 
 ## Web Forms
 
-Where Web Forms are utilised on the site user's might be required to supply personal details (e.g. name and address) - for example, if you want to obtain a hard copy of a prospectus we obviously need to know where to send it - in general, forms on the External System's website will either contain an explanation about how the information you supply will be used or will provide a link to this page (Data Protection - see below)
+Where Web Forms are utilised on the site user's are usually required to supply some sort of personal information; in certain instances this might only be a reply email address, however, elsewhere considerably more detailed information may be required, e.g. in the Online Application process. In general, forms on the External System's website will either contain an explanation about how the information you supply will be used or will provide a link to this page (Data Protection - see below)
 
 ## Data Protection 
 
@@ -24,13 +24,13 @@ The information you provide to the University of London External System will be 
 
 ## Cookies
 
-Cookies are small data structures used by a website to 'request' information from a client (usually a web browser), return the information to the web site and then store the information. There are various instances where the External System's website requires the use of Cookies, e.g. in the online application process. 
+Cookies are small data structures used by a website to 'request' information from a client (usually a web browser), return the information to the web site and then store the information. There are various instances where the External System's website requires the use of Cookies, e.g. in the Online Application process. 
 
 ## Student-to-Student Network(s)
 
 In certain instances the External System's website facilitates communication between students (and staff) via online networks. Through these facilities personal information (e.g. an email address) might be made available to other students (and staff). The networks primarily operate on an 'opt-in' basis, i.e. you have to request that your details are added to the network and consent to their inclusion. It should be noted, however, that staff at the University of London External System don't generally monitor such services, and consequently, the External System doesn't accept responsibility for any information or other material transmitted using a particular service. Similarly, The views expressed by students using these networks (or similar) do not reflect the views of the University of London External System.
 
-If you have access to a VLE please read the appropriate '[code of conduct](https://web.archive.org/current_students/vle_resources/index.shtml)' statement. 
+If you have access to the Student Portal and/or a VLE, then please read the statements relevant to these systems. 
 
 ##  Third-Party Links and information
 
