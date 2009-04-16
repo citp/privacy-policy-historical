@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012525id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416131157id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
 
 # MBTA > Customer Support > Privacy Policy
 
@@ -303,6 +303,6 @@ Please provide any feedback to the Privacy Policy on our [customer comment form
 ### 19\. Complete Agreement.
 
 This Privacy Policy constitutes the entire agreement between you and the MBTA with respect to the collection, use, storage, and disclosure by the MBTA of Personally Identifiable and Aggregate Information obtained from the MBTA Site or from participation in the MBTA's Electronic Fare Media Programs.  
-Effective Date: December 15th, 2006
+Effective Date: December 15th, 2006 
 
 Back to Top
