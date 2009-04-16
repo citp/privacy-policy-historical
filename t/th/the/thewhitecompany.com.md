@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155307id_/http%3A//www.thewhitecompany.com/content.aspx%3FDepGrpCode%3DHOM%26CntCode%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx%3FDepGrpCode%3DHOM%26CntCode%3Dhelp_privacy) for the most accurate reproduction.*
 
-# Help | privacy | The White Company
+# HELP_PRIVACY
 
 [  
-Help](https://web.archive.org/web/20081216155307id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > [About The White Company](https://web.archive.org/web/20081216155307id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > Privacy & Data Protection
+Help](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > [About The White Company](https://web.archive.org/web/20090416190403id_/http%3A//www.thewhitecompany.com/content.aspx?DepGrpCode=HOM&CntCode=help) > Privacy & Data Protection
 
 The Information We Need and How We Use It   
 When you order with us, we ask for information such as your name, e-mail address and credit and debit card details. A contact telephone number may also be required so that we may contact you urgently if there is a problem with your order. All this is necessary to process your request or notify you of acceptance of your order.
 
-**Safety and Security Of Your Information**  
+ **Safety and Security Of Your Information**  
 Our site uses secure server software to protect your information whenever you place an order or access your account information. This software encrypts all information you input before it is sent to us to minimise the risk of this being intercepted before it is received by us. We also follow a tight security procedure as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect the information that we store about you from unauthorised access. 
 
-**Contacting us by telephone**   
+**Contacting us by telephone**  
 For the purposes of staff training and to ensure we offer excellent customer service all calls to us are recorded and monitored. 
 
 **Internal Confidentiality Within The White Company**   
@@ -27,12 +27,14 @@ Within The White Company we protect your privacy in 4 ways:
 **Use of 'Cookies'**   
 Our cookies do not contain any personal information about you and are used only to determine your browser and user preferences for our site. This helps us to provide you with the service that you desire and to enhance your browsing experience. However, if you prefer, you can set your browser software to not accept cookies. You should still be able to use our site without cookies enabled.
 
-**Consent**   
+ **Consent**   
 All the information we collect via our website or through correspondence with you may be used for the following purposes:
 
   * Dealing with orders and accounts 
-  * Research
-  * Process payments, credit reference checking and fraud detection
+  * Research 
+  * Process payments, credit reference checking and fraud detection 
+
+
 
 Any changes to our privacy policy will be posted on this site so that you may ensure that you are fully informed of your rights and can notify us of any changes to your preferences. 
 
