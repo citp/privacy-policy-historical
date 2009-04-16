@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltrailers.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012235id_/http%3A//www.alltrailers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrailers.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417014249id_/http%3A//www.alltrailers.net/privacy.php) for the most accurate reproduction.*
 
-# Contact Alltrailers.net - AllTrailers.net
+# Privacy Policy for Alltrailers.net - AllTrailers.net
 
 The privacy of our visitors to AllTrailers.net is important to us.  
 At AllTrailers.net, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit AllTrailers.net, and how we safeguard your information. We never sell your personal information to third parties.
