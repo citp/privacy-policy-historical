@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723145130id_/http%3A//us.atari.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416184417id_/http%3A//us.atari.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Atari - US - Privacy
+# Atari North America - Privacy
 
-|  |  |   
----|---|---  
-| 
+#####  Privacy Policy
 
-|  |  |  |   
----|---|---  
-|    
 **ATARI ONLINE PRIVACY STATEMENT**
 
 Last updated December 17, 2007
@@ -34,7 +29,7 @@ Q8. How will you know if we amend this Privacy Policy?
 
 **
 
-|  **Q1.**|  **What information does this Privacy Statement cover?**  
+ **Q1.**|  **What information does this Privacy Statement cover?**  
 ---|---  
 **A1.**|  This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Atari through any other means.
 
@@ -155,7 +150,6 @@ back to top
 ---|---  
 **A6.**|  You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [privacy@atari.com](mailto:privacy@atari.com)  
 back to top  
-  
 **Q7.**|  **How can you ask questions, or send us comments, about this Privacy Policy?**  
 ---|---  
 **A7.**|  If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
@@ -165,7 +159,7 @@ Attn.: Webmaster
 417 Fifth Avenue  
 New York, NY 10016  
 (212) 726-6500  
-[privacy@atari.com](https://web.archive.org/web/20080723145130id_/http%3A//us.atari.com/privacy@atari.com)
+[privacy@atari.com](https://web.archive.org/web/20090416184417id_/http://www.atari.com/us/privacy@atari.com)
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
@@ -175,7 +169,6 @@ ESRB
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-212-759-0700  
 [privacy@esrb.org](mailto:privacy@esrb.org)  
   
 back to top  
@@ -185,7 +178,4 @@ back to top
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.   
   
-back to top  
-|  |   
-  
-|  | 
+back to top
