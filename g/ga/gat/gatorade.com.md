@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020445id_/http%3A//www.gatorade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416224141id_/http%3A//www.gatorade.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gatorade®
+# Gatorade® - Privacy Policy
 
 Effective Date: June 30, 2004
 
