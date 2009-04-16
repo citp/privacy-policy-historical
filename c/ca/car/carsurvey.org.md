@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217004646id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416125356id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Carsurvey.org
 
@@ -24,6 +24,8 @@ We do not collect any information that could uniquely identify individuals. Howe
 
 We gather information on site activity, such as how many viewers access the site, the pages they visit, etc. We use this information on an aggregate, anonymous basis, to improve site content. We also may disclose aggregated information (for example, X% of our viewers visit the product reviews section) to third parties.
 
-Other companies which place advertising or offer products on our site may collect information about you when you view or click on their advertising or content. We do not control their privacy and data collection policies and practices and we cannot be responsible for their policies.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In the case of Google, if you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
+
+Companies which place advertising or offer products on our site may collect information about you when you view or click on their advertising or content. We do not control their privacy and data collection policies and practices and we cannot be responsible for their policies.
 
 Questions regarding this policy should be directed to [steven@carsurvey.org](mailto:steven@carsurvey.org)
