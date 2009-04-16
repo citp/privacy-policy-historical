@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024802id_/http%3A//www.macworld.co.uk/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222407id_/http%3A//www.macworld.co.uk/about/privacy.cfm) for the most accurate reproduction.*
 
 # Online Privacy Policy - Macworld UK
 
@@ -7,7 +7,7 @@
 Macworld is owned and operated by IDG Communications Limited. Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
 
 **IMPORTANT  
-**Please [click here to read our Forum User Rules](https://web.archive.org/web/20081216024802id_/http%3A//www.macworld.co.uk/about/rules.cfm) which we will assume you have read and adhere to if you are a registered user of our Forum.
+**Please [click here to read our Forum User Rules](https://web.archive.org/web/20090416222407id_/http%3A//www.macworld.co.uk/about/rules.cfm) which we will assume you have read and adhere to if you are a registered user of our Forum.
 
 **Contact details**  
 We will use your contact details (your name, job title, telephone and fax number and your email and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within IDG Communications and their associated companies to provide you with information about other services and products and will also be disclosed to third party businesses and advertisers for the same purpose. 
@@ -29,13 +29,17 @@ Please click this link for the Privacy Policy statement of our advertisement con
 **To alter your details**  
 If your personal information changes you can alter the details we hold by accessing one of the login pages of Macworld.co.uk. 
 
-If you would like to speak to somone regarding this policy please call our Marketing department on +44 207 831 9252 or email [marketing@macworld.co.uk](mailto:marketing@digitmag.co.uk?subject=Digit%20Privacy%20Policy%20query)   
-Individual email addresses can be found on our contact page here.
+If you would like to speak to someone regarding this policy please call our switchboard on +44 (0) 207 756 2800 and ask for Marketing.  
+Individual email addresses can be found on our [contact page. ](https://web.archive.org/contact/ "Click here to go to the contact page")
 
-IDG Communications LTD.  
-99 Gray's Inn Road  
+[
+
+IDG Communications Ltd.  
+101 Euston Road  
 London  
-WC1X 8UT  
+NW1 2RA  
 
 
-[Back...](https://web.archive.org/about/)
+](https://web.archive.org/contact/ "Click here to go to the contact page")
+
+[ ](https://web.archive.org/contact/ "Click here to go to the contact page")[Back...](https://web.archive.org/about/)
