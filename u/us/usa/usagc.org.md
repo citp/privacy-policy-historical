@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160039id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416160759id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and statement of USAGC
 
 GREEN CARD LOTTERY  
 **Live, Work and Study in UNITED STATES OF AMERICA**
 
-[Click Here to Register Online !](https://web.archive.org/web/20081216160039id_/http%3A//www.usagc.org/step1.aspx)  
+[Click Here to Register Online !](https://web.archive.org/web/20090416160759id_/http%3A//www.usagc.org/step1.aspx)  
 WINNERS will get FREE Air Line Ticket to USA*
 
 PRIVACY POLICY AND STATEMENT OF www.usagc.org   
