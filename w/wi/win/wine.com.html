@@ -1,16 +1,13 @@
-<!--The following is the downloaded HTML source of the wine.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012427id_/http%3A//wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wine.com privacy policy that was archived on 2009-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416233556id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Wine.com - Privacy Policy</title>
 		<meta content="wine.com, privacy policy, about us, privacy policy, registration, privacy" name="keywords">
 		<meta content="Wine.com's Privacy Policy - At Wine.com, your privacy and the protection of your data is our primary concern. We have agreed to disclose our information practices and review our privacy practices compliance by 3rd parties." name="description">
 		
-<link rel="stylesheet" href="http://cache.wine.com/includes/css/defaultsix.css">
-<script language="JavaScript" src="http://cache.wine.com/includes/js/common.v2.js"></script>
-<script language="JavaScript" src="http://cache.wine.com/includes/js/utilities.v2.js"></script>
-<script language="JavaScript" src="http://cache.wine.com/includes/js/shoppingcart.v2.js"></script>
-<script language="JavaScript" src="http://cache.wine.com/includes/js/menu.js"></script>
+<link rel="stylesheet" href="http://www.wine.com/includes/css/defaultsix.css">
+<script language="JavaScript" src="http://www.wine.com/includes/js/winedotcom.js"></script>
 
 <script language="JavaScript" src="/v6/js/communityList.js"></script>
 
@@ -26,7 +23,29 @@
 </head>
 	<body class="bgwhite" leftmargin="0" topmargin="0" onload="pageInit()" rightmargin="0" marginwidth="0">
 		<a name="top"></a>
-		
+		<!-- start promo dhtml pop up bottom nav -->
+
+<div style="text-align:center;">
+<div id="divPromo" style="width:100%; margin-left:auto; margin-right:auto; text-align:center; top:114px; position:absolute; z-index: 8; visibility:hidden;">
+    <div style="margin-left:auto; margin-right:auto; background-color:#731818; width:439px; background-image: url(/images/bkgrPromoPop.jpg); background-repeat:no-repeat; border: 2px solid #cecaaf;">
+        <div style="text-align:right; margin-top:2px;margin-right:2px;">
+            <a href="javascript: void(0);" onclick="javascript:HideDiv2('divPromo');" border="0"><img src="/images/icnCloseWindow.gif" border="0"></a>
+        </div>
+        
+        <div style="width:439px; text-align:center; padding: 10px 10px 10px 10px;">
+            <div id="divShortDesc" style="font-weight:bold;font-size:25px; color: #ffffff; padding-left:50px;"></div>
+            <div style="font-size:16px;color:#ffffff; margin-top:20px;">
+                Enter code <span id="divPromoCode" style="font-weight:bold;font-size:20px; color: #ffffff;"></span>&nbsp;at checkout
+            </div>
+
+        </div>
+        <div id="divLongDesc" style="width:420px; text-align:left; padding: 10px 10px 10px 10px;color: #ffffff; margin-bottom:20px;"></div>
+    </div>
+</div>
+</div>
+<!-- end promo dhtml pop up bottom nav -->
+
+
 <script language="JavaScript">
 if (document.cookie == "") {
 	document.write("<center><font size=2 color=red>Your browser is currently set to block Cookies which are required for this website to function properly.</font>&nbsp;<a href='/customercare/PrivacyInfo.asp'><font size=2 color=blue>Privacy Policy</font></a></center>");
@@ -35,117 +54,172 @@ if (document.cookie == "") {
 <table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr id="lowerTopNav"><td height="3" colspan="3"></td></tr>
 <tr>
-	<td width="36" valign="bottom"><a href="/" title="Wine.com - Buy wines, wine clubs, gift baskets and more"><img src="http://cache.wine.com/images/glo_tn_logo_winecom_top_two.gif" alt="Wine.com - Buy wines, wine clubs, gift baskets and more" width="36" height="24" border="0"></a></td>
+	<td width="36" valign="bottom"><a href="/" title="Wine.com - Buy wines, wine clubs, gift baskets and more"><img src="http://www.wine.com/images/glo_tn_logo_winecom_top_two.gif" alt="Wine.com - Buy wines, wine clubs, gift baskets and more" width="36" height="24" border="0"></a></td>
 	<td width="708" align="center" class="lnlinkat06"><span style="font-size: 12px; color: #ff0000; text-decoration: none; font-weight: bold; margin-bottom: 1px;">
+
 <script language="JavaScript">
+
 <!--
 
+ 
+
 /*
+
 Author: Robert Hashemian
+
 http://www.hashemian.com/
 
 You can use this code in any manner so long as the author's
 name, Web address and this disclaimer is kept intact.
 ********************************************************
 */
-TargetDate = "12/14/2008 9:52 PM";
 
+TargetDate = "4/15/2009 11:59 PM";
 BackColor = "white";
 ForeColor = "#ff0000";
 CountActive = true;
 CountStepper = -1;
 LeadingZero = true;
-
-DisplayFormat = "Get one year of unlimited shipping for just $49. <a style='color:#ff0000'; href='/landing/stewardship.asp?iid=top_text_865_Stewardship'>Details.</a>";
-
-
-FinishMessage = "TODAY ONLY - Save 15% on a wine club gift membership! <a style='color:#ff0000'; href='/wineclubs/default.asp?iid=top_text_865_DOTD'>Get code.</a>";
-
-
-
-
+DisplayFormat = "1040 Deduction - $10.40 off $99+ ends in %%H%% hrs, %%M%% min, %%S%% sec. <a style='color:#ff0000;' href=javascript:void(0); onclick=LoadPromo('taxsavings');>Click for promo code</a> </div> ";
+FinishMessage = "Unlimited Shipping all year, just $49 - <a style='color:#ff0000'; href='/landing/stewardship.asp?iid=top_text_865_stwrship'>Click for details</a>";
 function calcage(secs, num1, num2) {
-  ticker_s = ((Math.floor(secs/num1))%num2).toString();
-  if (LeadingZero && ticker_s .length < 2)
-    ticker_s  = "0" + ticker_s ;
-  return "<b>" + ticker_s  + "</b>";
+ticker_s = ((Math.floor(secs/num1))%num2).toString();
+if (LeadingZero && ticker_s .length < 2)
+ticker_s  = "0" + ticker_s ;
+return "<b>" + ticker_s  + "</b>";
 }
-
 function CountBack(secs) {
+
   if (secs < 0) {
+
     document.getElementById("cntdwn").innerHTML = FinishMessage;
+
     return;
+
   }
+
   DisplayStr = DisplayFormat.replace(/%%D%%/g, calcage(secs,86400,100000));
+
   DisplayStr = DisplayStr.replace(/%%H%%/g, calcage(secs,3600,24));
+
   DisplayStr = DisplayStr.replace(/%%M%%/g, calcage(secs,60,60));
+
   DisplayStr = DisplayStr.replace(/%%S%%/g, calcage(secs,1,60));
 
+ 
+
   document.getElementById("cntdwn").innerHTML = DisplayStr;
+
   if (CountActive)
+
     setTimeout("CountBack(" + (secs+CountStepper) + ")", SetTimeOutPeriod);
+
 }
+
+ 
 
 function putspan(backcolor, forecolor) {
+
  document.write("<span id='cntdwn' style='background-color:" + backcolor + 
+
                 "; color:" + forecolor + "'></span>");
+
 }
 
+ 
+
 if (typeof(BackColor)=="undefined")
+
   BackColor = "white";
+
 if (typeof(ForeColor)=="undefined")
+
   ForeColor= "#ff0000";
+
 if (typeof(TargetDate)=="undefined")
+
   TargetDate = "12/31/2007 5:00 AM";
+
 if (typeof(DisplayFormat)=="undefined")
+
   DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds ";
+
 if (typeof(CountActive)=="undefined")
+
   CountActive = true;
+
 if (typeof(FinishMessage)=="undefined")
+
   FinishMessage = "";
+
 if (typeof(CountStepper)!="number")
+
   CountStepper = -1;
+
 if (typeof(LeadingZero)=="undefined")
+
   LeadingZero = true;
 
+ 
+
+ 
 
 CountStepper = Math.ceil(CountStepper);
+
 if (CountStepper == 0)
+
   CountActive = false;
+
 var SetTimeOutPeriod = (Math.abs(CountStepper)-1)*1000 + 990;
+
 putspan(BackColor, ForeColor);
+
 var dthen = new Date(TargetDate);
+
 var dnow = new Date();
+
 if(CountStepper>0)
+
   ddiff = new Date(dnow-dthen);
+
 else
+
   ddiff = new Date(dthen-dnow);
+
 gsecs = Math.floor(ddiff.valueOf()/1000);
+
 CountBack(gsecs);
 
+ 
 
+ 
 
+ 
+
+ 
 
 -->
-</script><span id="cntdwn" style="background-color:white; color:#ff0000">TODAY ONLY - Save 15% on a wine club gift membership! <a style="color:#ff0000" ;="" href="/wineclubs/default.asp?iid=top_text_865_DOTD">Get code.</a></span></span></td>
+
+</script><span id="cntdwn" style="background-color:white; color:#ff0000">Unlimited Shipping all year, just $49 - <a style="color:#ff0000" ;="" href="/landing/stewardship.asp?iid=top_text_865_stwrship">Click for details</a></span></span>
+</td>
 	<td width="36">&nbsp;</td>
 </tr>
 </tbody></table>
 
 <table width="780" border="0" cellspacing="0" cellpadding="0" align="center" style="padding: 0px 0px 3px 0px;">
 <tbody><tr>
-	<td width="171" rowspan="2" valign="bottom"><a href="/" title="Wine.com - Buy wines, wine clubs, gift baskets and more"><img src="http://cache.wine.com/images/glo_tn_logo_winecom_bot_two.gif" alt="Wine.com - Buy wines, wine clubs, gift baskets and more" width="171" height="20" border="0" align="bottom"></a></td>
-	<td width="609"><img src="http://cache.wine.com/images/clear.gif" alt="" width="609" height="1" border="0"></td>
+	<td width="171" rowspan="2" valign="bottom"><a href="/" title="Wine.com - Buy wines, wine clubs, gift baskets and more"><img src="http://www.wine.com/images/glo_tn_logo_winecom_bot_two.gif" alt="Wine.com - Buy wines, wine clubs, gift baskets and more" width="171" height="20" border="0" align="bottom"></a></td>
+	<td width="609"><img src="http://www.wine.com/images/clear.gif" alt="" width="609" height="1" border="0"></td>
 </tr>
 <tr>
 	<td align="right" valign="bottom">
-<a href="/v6/Marketing/NewsletterSignUp.aspx" title="sign up for exclusive offers"><img src="http://cache.wine.com/images/icon_email.gif" alt="sign up for exclusive offers" width="13" height="13" border="0"></a>&nbsp;
+<a href="/v6/Marketing/NewsletterSignUp.aspx" title="sign up for exclusive offers"><img src="http://www.wine.com/images/icon_email.gif" alt="sign up for exclusive offers" width="13" height="13" border="0"></a>&nbsp;
 <a href="/v6/Marketing/NewsletterSignUp.aspx" class="topnavten" style="color: #660000;" title="sign up for savings">sign up for savings</a>
 <span class="productid">|</span>
 
 
 
-<a href="/landing/deliveryenhancements.asp" class="topnavten" title="your account">new shipping options</a>
+<a href="/landing/deliveryenhancements.asp" class="topnavten" title="new shipping options!!!">new shipping options</a>
 <span class="productid">|</span>
 <a href="/account/default.asp" class="topnavten" title="your account">your account</a>
 <span class="productid">|</span>
@@ -157,11 +231,25 @@ CountBack(gsecs);
 </tr>
 </tbody></table>
 
-<div align="center"><img src="http://cache.wine.com/images/glo_tn_top_corners_two.gif" alt="" width="780" height="6" border="0"></div>
+<div align="center"><img src="http://www.wine.com/images/glo_tn_top_corners_two.gif" alt="" width="780" height="6" border="0"></div>
 <div id="topnav" align="center">
 <div id="navwrapper">
 
-<a href="/wineshop/" title="wine shop" class="topnaveleven">wine shop</a>&nbsp;<span>|</span>&nbsp;<a href="/giftcenter/" class="topnaveleven" title="gift center">gift center</a>&nbsp;<span>|</span>&nbsp;<a href="/giftcenter/listofgiftproducts.asp?N=7151+7152" class="topnaveleven" title="gift baskets">gift baskets</a>&nbsp;<span>|</span>&nbsp;<a href="/wineclubs/" class="topnaveleven" title="wine club">wine clubs</a>&nbsp;<span>|</span>&nbsp;<a href="/corpgift/businessgifts.asp" class="topnaveleven" title="business gift services">business gift services</a>&nbsp;<span>|</span>&nbsp;<a href="/aboutwine/" class="topnaveleven" title="all about wine">wine basics</a>&nbsp;<span>|</span>&nbsp;<a href="/V6/community/" class="topnaveleven" title="wine community">community</a>
+<a href="/v6/wineshop/" title="wine shop" class="topnaveleven">wine shop</a>
+<span>|</span>
+<a href="/v6/Fine-Wine/wine/list.aspx?N=7155+1025" title="fine wine" class="topnaveleven">fine wine</a>
+<span>|</span>
+<a href="/v6/giftcenter/" class="topnaveleven" title="gift center">gift center</a>
+<span>|</span>
+<a href="/v6/Gift-Baskets/gift/list.aspx?N=7151+7152" class="topnaveleven" title="gift baskets">gift baskets</a>
+<span>|</span>
+<a href="/wineclubs/" class="topnaveleven" title="wine club">wine clubs</a>
+<span>|</span>
+<a href="/v6/corporategifts/" class="topnaveleven" title="corporate gifts and business gifts">corporate gifts</a>
+<span>|</span>
+<a href="/v6/aboutwine/" class="topnaveleven" title="all about wine">wine basics</a>
+<span>|</span>
+<a href="/V6/community/" class="topnaveleven" title="wine community">community</a>
 </div>
 
 <div id="optwrapper">
@@ -170,21 +258,21 @@ CountBack(gsecs);
 	<td width="254" valign="middle" style="padding-top: 3px;">
 <form name="search_form" id="search_form" method="get" action="" onsubmit="return doSearch(this.Ntt.value);">
 <input type="text" name="Ntt" class="tnsearch" maxlength="50" value="Enter keyword" onfocus="javascript: this.value=''">
-<input type="image" name="go" id="go" class="searchBtn" src="http://cache.wine.com/images/glo_btn_search.gif" alt="search" width="43" height="16" border="0">
+<input type="image" name="go" id="go" class="searchBtn" src="http://www.wine.com/images/glo_btn_search.gif" alt="search" width="43" height="16" border="0">
 
 <a href="/v6/search/advancedsearch.aspx" title="advanced search" class="advsearch">advanced search</a>
 
 </form>
 	</td>
-	<td width="6" background="http://cache.wine.com/images/tn_img_bg_fade.gif"><img src="http://cache.wine.com/images/clear.gif" alt="" width="6" height="27" border="0"></td>
+	<td width="6" background="http://www.wine.com/images/tn_img_bg_fade.gif"><img src="http://www.wine.com/images/clear.gif" alt="" width="6" height="27" border="0"></td>
 	<td width="260" valign="middle" style="padding-top: 2px;"><form name="shipping" id="shipping" method="get" action="/customercare/PrivacyInfo.asp" style="padding: 0; margin: 0;">
 &nbsp;&nbsp;<strong>SHIP TO</strong>
 <select name="state" id="state" onchange="document.shipping.submit();" class="select" style="visibility: hidden;"><option value="CA">CA</option><option value="AK">AK</option><option value="AL">AL</option><option value="AR">AR</option><option value="AZ">AZ</option><option value="CA">CA</option><option value="CO">CO</option><option value="CT">CT</option><option value="DC">DC</option><option value="DE">DE</option><option value="FL">FL</option><option value="GA">GA</option><option value="HI">HI</option><option value="IA">IA</option><option value="ID">ID</option><option value="IL">IL</option><option value="IN">IN</option><option value="KS">KS</option><option value="KY">KY</option><option value="LA">LA</option><option value="MA">MA</option><option value="MD">MD</option><option value="ME">ME</option><option value="MI">MI</option><option value="MN">MN</option><option value="MO">MO</option><option value="MS">MS</option><option value="MT">MT</option><option value="NC">NC</option><option value="ND">ND</option><option value="NE">NE</option><option value="NH">NH</option><option value="NJ">NJ</option><option value="NM">NM</option><option value="NV">NV</option><option value="NY">NY</option><option value="OH">OH</option><option value="OK">OK</option><option value="OR">OR</option><option value="PA">PA</option><option value="RI">RI</option><option value="SC">SC</option><option value="SD">SD</option><option value="TN">TN</option><option value="TX">TX</option><option value="UT">UT</option><option value="VA">VA</option><option value="VT">VT</option><option value="WA">WA</option><option value="WI">WI</option><option value="WV">WV</option><option value="WY">WY</option></select>
 <a href="/customercare/ShippingReturns.asp#states" target="_Blank" class="state">California</a>
-<input type="hidden" name="next" value="%2FDefault%2Easp%3F">
+<input type="hidden" name="next" value="http%3A%2F%2Fwww%2Ewine%2Ecom%2FV6%2Frss%2Frss%2Easpx%3Fregionid%3D9%26warehouseState%3DCA">
 </form></td>
-	<td width="6" background="http://cache.wine.com/images/tn_img_bg_fade.gif"><img src="http://cache.wine.com/images/clear.gif" alt="" width="6" height="27" border="0"></td>
-	<td width="37" valign="middle"><a href="/checkout/default.aspx" title="Proceed to Checkout"><img src="http://cache.wine.com/images/tn_icon_checkout.gif" width="27" height="21" hspace="5" alt="Proceed to Checkout" border="0" align="absmiddle"></a></td>
+	<td width="6" background="http://www.wine.com/images/tn_img_bg_fade.gif"><img src="http://www.wine.com/images/clear.gif" alt="" width="6" height="27" border="0"></td>
+	<td width="37" valign="middle"><a href="/checkout/default.aspx" title="Proceed to Checkout"><img src="http://www.wine.com/images/tn_icon_checkout.gif" width="27" height="21" hspace="5" alt="Proceed to Checkout" border="0" align="absmiddle"></a></td>
 	<td width="215" valign="middle">
 
 <a href="/checkout/default.aspx" title="Proceed to Checkout">view your cart</a>
@@ -510,14 +598,14 @@ CountBack(gsecs);
 <tbody><tr>
 	<td>
 <div class="btmNav">
-<div><img src="http://cache.wine.com/images/clear.gif" alt="" width="1" height="5" border="0"></div>
-<div><img src="http://cache.wine.com/images/clear.gif" alt="" width="780" height="1" border="0" class="bdrdkgray"></div>
+<div><img src="http://www.wine.com/images/clear.gif" alt="" width="1" height="5" border="0"></div>
+<div><img src="http://www.wine.com/images/clear.gif" alt="" width="780" height="1" border="0" class="bdrdkgray"></div>
 <div class="btmNavText">
 	<a href="/customercare/" class="botnavnine">customer care</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
 	<a href="/customercare/testimonials.asp" class="botnavnine">customer testimonials</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
 	<a href="/customercare/WhyWine.asp" class="botnavnine">about us</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
-	<a href="/giftcenter/giftcertificates.asp" class="botnavnine" title="wine gift certificates">gift certificates</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
-	<a href="/corpgift/businessgifts.asp" class="botnavnine" title="business gifts">business gifts</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
+	<a href="/v6/Gift-Certificates/gift/list.aspx?N=7151+7149" class="botnavnine" title="wine gift certificates">gift certificates</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
+	<a href="/v6/corporategifts/" class="botnavnine" title="corporate gifts">corporate gifts</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;
 	<a href="/landing/RetailStores.asp" class="botnavnine" title="retail stores">retail stores</a>
 	<br>
 	<a href="/customercare/PrivacyInfo.asp" class="botnavnine">privacy policy</a>&nbsp;&nbsp;<span class="botnavnine">|</span>&nbsp;&nbsp;	
@@ -528,9 +616,9 @@ CountBack(gsecs);
 	<a href="/customercare/sitemap.asp" class="botnavnine" title="site map">site map</a>
 </div>
 <div class="btmCopyRight">
-	<span class="botnavnine">Copyright (c) 1999-2008 Wine.com, Inc. All rights reserved. Wine.com and logo are trademarks of Wine.com, Inc.</span>
+	<span class="botnavnine">Copyright (c) 1999-2009 Wine.com, Inc. All rights reserved. Wine.com and logo are trademarks of Wine.com, Inc.</span>
 </div>
-<div><img src="http://cache.wine.com/images/glo_bn_bot_corners.gif" alt="" width="780" height="6" border="0"></div>
+<div><img src="http://www.wine.com/images/glo_bn_bot_corners.gif" alt="" width="780" height="6" border="0"></div>
 </div>
 	</td>
 </tr>
@@ -538,7 +626,7 @@ CountBack(gsecs);
 
 <table width="558" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr id="lowerBottomNav">
-		<td height="5"><img src="http://cache.wine.com/images/clear.gif" alt="" width="1" height="1" border="0"></td>
+		<td height="5"><img src="http://www.wine.com/images/clear.gif" alt="" width="1" height="1" border="0"></td>
 	</tr>
 </tbody></table>
 <!-- End Bottom Nav -->
@@ -549,13 +637,13 @@ CountBack(gsecs);
 		<div class="productIconsWrapper">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_red_big.gif" width="34" height="34" alt="red wine" border="0" hspace="4" align="baseline"></td>
+				<td width="1%" valign="top"><img src="http://www.wine.com/images/glo_icon_red_big.gif" width="34" height="34" alt="red wine" border="0" hspace="4" align="baseline"></td>
 				<td width="14%" valign="top"><h6>red</h6></td>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_white_big.gif" width="34" height="34" alt="wine wine" border="0" hspace="4" align="baseline"></td>
+				<td width="1%" valign="top"><img src="http://www.wine.com/images/glo_icon_white_big.gif" width="34" height="34" alt="wine wine" border="0" hspace="4" align="baseline"></td>
 				<td width="16%" valign="top"><h6>white</h6></td>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_rose_big.gif" width="34" height="34" alt="rosé wine" border="0" hspace="4" align="baseline"></td>
+				<td width="1%" valign="top"><img src="http://www.wine.com/images/glo_icon_rose_big.gif" width="34" height="34" alt="rosé wine" border="0" hspace="4" align="baseline"></td>
 				<td width="25%" valign="top"><h6>rosé</h6></td>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_bubbly_big.gif" width="34" height="34" alt="sparkling &amp; Champagne" border="0" hspace="4" align="baseline"></td>
+				<td width="1%" valign="top"><img src="http://www.wine.com/images/glo_icon_bubbly_big.gif" width="34" height="34" alt="sparkling &amp; Champagne" border="0" hspace="4" align="baseline"></td>
 				<td width="41%" valign="top"><h6>sparkling &amp; Champagne</h6></td>
 			</tr>
 			</tbody></table>
@@ -563,57 +651,34 @@ CountBack(gsecs);
 		
 		<br>
 		
-		<div class="productIconsWrapper">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_kosher_big.gif" width="34" height="34" alt="Kosher wine" border="0" hspace="4" align="baseline"></td>
-				<td width="99%" valign="top"><h6>Kosher</h6>A Kosher wine begins like every other - as grapes on a vine. Once they reach the winery for crushing, the wine is under strict rabbinal supervision.</td>
-			</tr>
-			</tbody></table>
+		<div class="productIconsWrapper" style="clear: both; margin-bottom: 10px;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_kosher_big.gif" width="34" height="34" alt="Kosher wine" border="0" align="baseline"></div>
+		    <div><h6>Kosher</h6>A Kosher wine begins like every other - as grapes on a vine. Once they reach the winery for crushing, the wine is under strict rabbinal supervision.</div>
 		</div>
 		
-		<br>
-		
-		<div class="productIconsWrapper">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_screwcap_big.gif" width="34" height="34" alt="Screw Cap wine" border="0" hspace="4" align="baseline"></td>
-				<td width="99%" valign="top"><h6>Screw Cap</h6>Many studies report and winemakers agree that screw caps protect wine better and preserve its flavor more effectively than cork.  More importantly, screw caps eliminate cork taint caused by TCA, a compound which develops in a small percentage of corks and ruins the taste of wine.</td>
-			</tr>
-			</tbody></table>
+		<div class="productIconsWrapper" style="clear: both; margin-bottom: 10px;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_screwcap_big.gif" width="34" height="34" alt="Screw Cap wine" border="0" align="baseline"></div>
+		    <div><h6>Screw Cap</h6>Many studies report and winemakers agree that screw caps protect wine better and preserve its flavor more effectively than cork.  More importantly, screw caps eliminate cork taint caused by TCA, a compound which develops in a small percentage of corks and ruins the taste of wine.</div>
 		</div>
 		
-		<br>
-		
-		<div class="productIconsWrapper">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_organic_big.gif" width="34" height="34" alt="Organically grown grapes" border="0" hspace="4" align="baseline"></td>
-				<td width="99%" valign="top"><h6>Organically Grown Grapes</h6>These wines are made from organically grown grapes from vineyards dedicated to sustainable farming.</td>
-			</tr>
-			</tbody></table>
+		<div class="productIconsWrapper" style="clear: both; margin-bottom: 10px;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_organic_big.gif" width="34" height="34" alt="Green wine" border="0" align="baseline"></div>
+		    <div><h6>Green Wines</h6>Wines that use sustainable, organic and/or biodynamic practices in the vineyard and/or winemaking process. We rely on a number of U.S. and International certifications to qualify wines "green."</div>
 		</div>
 		
-		<br>
-		
-		<div class="productIconsWrapper">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_collectable_big.gif" width="34" height="34" alt="Collectible wine" border="0" hspace="4" align="baseline"></td>
-				<td width="99%" valign="top"><h6>Collectible</h6>These wines will improve from additional bottle age, when properly stored, and may show the greatest potential to increase in value.</td>
-			</tr>
-			</tbody></table>
+		<div class="productIconsWrapper" style="clear: both; margin-bottom: 10px;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_collectable_big.gif" width="34" height="34" alt="Collectible wine" border="0" align="baseline"></div>
+		    <div><h6>Collectible</h6>These wines will improve from additional bottle age, when properly stored, and may show the greatest potential to increase in value.</div>
 		</div>
 		
-		<br>
+		<div class="productIconsWrapper" style="clear: both; margin-bottom: 20px;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_gift_big.gif" width="34" height="34" alt="Great Wine Gifts" border="0" align="baseline"></div>
+		    <div><h6>Great Wine Gifts</h6>These selected wines make impressionable gifts for wine enthusiasts and oenophiles alike.</div>
+		</div>
 		
-		<div class="productIconsWrapper">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="1%" valign="top"><img src="http://cache.wine.com/images/glo_icon_gift_big.gif" width="34" height="34" alt="Great Wine Gifts" border="0" hspace="4" align="baseline"></td>
-				<td width="99%" valign="top"><h6>Great Wine Gifts</h6>These selected wines make impressionable gifts for wine enthusiasts and oenophiles alike.</td>
-			</tr>
-			</tbody></table>
+		<div class="productIconsWrapper" style="clear: both;">
+		    <div style="float: left; margin: 4px 6px 0px 0px;"><img src="http://www.wine.com/images/glo_icon_boutique_big.gif" width="34" height="34" alt="Boutique Wines" border="0" align="baseline"></div>
+		    <div><h6>Boutique Wines</h6>These wines are made in limited quantities and are typically produced from single vineyard sources or made by small, artisanal wineries. While the winery may produce larger quantities, we limit wines with this designation to a 1,000 case production.</div>
 		</div>
 	</div>
 	
@@ -624,34 +689,38 @@ CountBack(gsecs);
 		</div>
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr>
-			<td colspan="4">These wine ratings are based on a 100-point quality scale, and are selected by each publication's unique criteria. Some wine ratings are expressed as ranges. When this occurs we will list the highest score in the range and note the full range within the tasting note.<p>While ratings may influence your decision, the ultimate judgment is your palate.<br><br></p></td>
+			<td colspan="4"><p>These wine ratings are based on a 100-point quality scale, and are selected by each publication's unique criteria. Some wine ratings are expressed as ranges. When this occurs we will list the highest score in the range and note the full range within the tasting note.</p><p>While ratings may influence your decision, the ultimate judgment is your palate.</p></td>
 		</tr>
 		<tr>
-			<td width="1%"><img src="http://cache.wine.com/images/ratingWS.gif" alt="Wine Spectator Rating" width="27" height="16" border="0" vspace="8"></td>
+			<td width="1%"><img src="http://www.wine.com/images/ratingWS.gif" alt="Wine Spectator Rating" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6><em>Wine Spectator</em></h6></td>
-			<td width="1%"><img src="http://cache.wine.com/images/ratingRP.gif" alt="The Wine Advocate Rating<" width="27" height="16" border="0" vspace="8"></td>
+			<td width="1%"><img src="http://www.wine.com/images/ratingRP.gif" alt="The Wine Advocate Rating<" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6>Robert Parker's<br>&nbsp;<em>The Wine Advocate</em></h6></td>
 		</tr>
 		<tr>
-			<td><img src="http://cache.wine.com/images/ratingWP.gif" alt="Wine &amp; Spirits Rating" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingWP.gif" alt="Wine &amp; Spirits Rating" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6><em>Wine &amp; Spirits</em></h6></td>
-			<td><img src="http://cache.wine.com/images/ratingJH.gif" alt="James Halliday Rating" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingJH.gif" alt="James Halliday Rating" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6>James Halliday,<br>&nbsp;<em>Australian Wine Companion </em></h6></td>
 		</tr>
 		<tr>
-			<td><img src="http://cache.wine.com/images/ratingCG.gif" alt="Connoisseurs Guide" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingCG.gif" alt="Connoisseurs Guide" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6><em>Connoisseurs' Guide</em></h6></td>
-			<td><img src="http://cache.wine.com/images/ratingST.gif" alt="International Wine Cellar Rating" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingST.gif" alt="International Wine Cellar Rating" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6>Stephen Tanzer's<br>&nbsp;<em>International Wine Cellar</em></h6></td>
 		</tr>
 		<tr>
-			<td><img src="http://cache.wine.com/images/ratingWE.gif" alt="Wine Enthusiast Rating" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingWE.gif" alt="Wine Enthusiast Rating" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6><em>Wine Enthusiast</em></h6></td>
-			<td><img src="http://cache.wine.com/images/ratingWN.gif" alt="The Wine News" width="27" height="16" border="0" vspace="8"></td>
+			<td><img src="http://www.wine.com/images/ratingWN.gif" alt="The Wine News" width="27" height="16" border="0" vspace="8"></td>
 			<td valign="middle">&nbsp;<h6><em>The Wine News</em></h6></td>
 		</tr>
 		<tr>
-			<td colspan="4"><br>Wine.com is not sponsored by, affiliated or associated with <em>Wine Spectator</em>, <em>Wine Enthusiast</em>, <em>The Wine Advocate</em>, <em>Wine &amp; Spirits</em>, <em>International Wine Cellars</em>, <em>Connoisseurs' Guide</em> or <em>The Wine News</em> a</td>
+			<td colspan="4"><br>Wine.com is not sponsored by, affiliated or associated with <em>Wine Spectator</em>, 
+<em>Wine Enthusiast</em>, <em>The Wine Advocate</em>, <em>Wine &amp; Spirits</em>, 
+<em>International Wine Cellars</em>, 
+<em>Connoisseurs' Guide</em>, <em>The Wine News</em>, or
+the <em>Australian Wine Companion</em></td>
 		</tr>
 		</tbody></table>
 	</div>
@@ -661,8 +730,8 @@ CountBack(gsecs);
 
 		<div class="closeBox" onclick="keyHideAll();" onmouseover="closeBoxOver(this);" onmouseout="closeBoxOut(this);">close</div>
 		<div style="margin: 3px 3px 3px 3px;">
-			Please <a href="/account/login.asp?next=/Default.asp?" title="Log in">log ln</a> or
-			<a href="/account/create_account.asp?Mode=New&amp;Next=/Default.asp?" title="Join Now">create</a> an account to create a wine list.
+			Please <a href="/account/login.asp?next=http://www.wine.com/V6/rss/rss.aspx?regionid=9&amp;warehouseState=CA" title="Log in">log ln</a> or
+			<a href="/account/create_account.asp?Mode=New&amp;Next=http://www.wine.com/V6/rss/rss.aspx?regionid=9&amp;warehouseState=CA" title="Join Now">create</a> an account to create a wine list.
 		</div>
 
 		</div>
@@ -821,7 +890,7 @@ CountBack(gsecs);
 // Omniture Account (site)
 var s_account = "winecom"
 </script>
-<script language="JavaScript" type="text/javascript" src="/includes/analytics/s_remote_code.js"></script><img name="s_i_winecom" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/winecom/1/G.4-Pd-R/s52053649205414?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A36%3A53%204%200&amp;g=https%3A//web.archive.org/web/20081216012427id_/http%253A//wine.com/customercare/PrivacyInfo.asp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" type="text/javascript" src="/includes/analytics/s_remote_code.js"></script><img name="s_i_winecom" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/winecom/1/G.4-Pd-R/s57855448128538?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A36%3A57%204%200&amp;g=https%3A//web.archive.org/web/20090416233556id_/http%253A//www.wine.com/customercare/PrivacyInfo.asp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" type="text/javascript">
 <!--
 // You may give each page an identifying name, server, and channel on the next lines.
