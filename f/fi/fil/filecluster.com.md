@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191611id_/http%3A//www.filecluster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecluster.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416045220id_/http%3A//www.filecluster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Filecluster
 
@@ -9,6 +9,14 @@ This privacy statement was created because FileCluster.com is firmly committed t
 **Cookies**
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while browsing our site. Some of our partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details. 
+
+**Google Adsense**
+
+Google Adsense is FileCluster's primary ad partner and being a 3rd party service provider, you should be aware of the following:
+
+\- Google, as a third party vendor, uses cookies to serve ads on our site.  
+\- Google's use of the DART cookie enables it to serve ads to you, our users based on their visit to your sites and other sites on the Internet.  
+\- Any user can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://www.google.com/privacy_ads.html)
 
 **Security**
 
