@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnercardservices.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930085057id_/http%3A//www.partnercardservices.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnercardservices.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416134526id_/http%3A//www.partnercardservices.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # Privacy Policy
 
