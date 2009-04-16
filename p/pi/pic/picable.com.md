@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picable.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135650id_/http%3A//www.picable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picable.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416191617id_/http%3A//www.picable.com/privacy) for the most accurate reproduction.*
 
 # Picable - Privacy Policy
 
