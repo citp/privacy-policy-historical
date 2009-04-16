@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024209id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416224910id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Firefly - Your Community Airline
 
 ﻿ 
+
+## Privacy Policy
 
 FlyFirefly Sdn Bhd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web Site:
 
