@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075634id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginecup.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417002858id_/http%3A//imaginecup.com/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Imagine Cup Student Competition - Privacy Statement
 
