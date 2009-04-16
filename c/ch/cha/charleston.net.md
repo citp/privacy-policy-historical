@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the charleston.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043428id_/http%3A//www.charleston.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charleston.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416223817id_/http%3A//www.charleston.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **WEB SITE PRIVACY STATEMENT**
 
-Welcome to the Web site for The Post and Courier, [www.charleston.net](http://www.charleston.net/). This Site is owned by Evening Post Publishing Company ("Evening Post" or "us"), and powered by Charleston.Net. We at Evening Post recognize that many visitors to our Web site are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Web Site Privacy Statement. 
+Welcome to the Web site for The Post and Courier, [www.postandcourier.com](http://www.postandcourier.com/). This Site is owned by Evening Post Publishing Company ("Evening Post" or "us"). We at Evening Post recognize that many visitors to our Web site are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Web Site Privacy Statement. 
 
 **A. TYPES OF INFORMATION COLLECTED**
 
@@ -67,5 +67,3 @@ Ph: (843) 577-7111
 Email: [privacy@eveningpostidigital.com](mailto:privacy@eveningpostidigital.com)
 
 Evening Post may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is Ward Lassoe. His address is listed above. Third parties accessible through this Site may have their own such operators.
-
-| 
