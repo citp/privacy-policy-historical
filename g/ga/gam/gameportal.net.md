@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameportal.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154548id_/http%3A//www.spilgames.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameportal.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416022730id_/http%3A//www.spilgames.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Spil games - privacy policy
 
