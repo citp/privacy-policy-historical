@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222050437id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416024843id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
 **Download a book today**  
-130,000 popular, professional and academic ebooks from the world's leading publishers
+168,000 popular, professional and academic ebooks from the world's leading publishers
 
 | | | 
 
@@ -179,16 +179,14 @@ On Sale - Our favorite and most popular ebooks!
 [ ** **Featured Authors****](http://www.ebooks.com/news/15912.asp)  
 20% off titles by our favorite authors!
 
-[ **Visit the Cambridge University Press eBook Store**](http://www.ebooks.com/news/64.asp)  
-Cambridge University Press, the oldest university press in the world, has just launched its own eBook Store, powered by eBooks.com.
-
 [ **Maintain Your Brain**](http://www.ebooks.com/news/39183.asp)  
 Is your grey matter in need of a tune up??? Take a look at some of these excellent titles, to stimulate your synapses! 
 
-[****Take the law into your own hands!****](http://www.ebooks.com/news/60.asp)
+[**Visit the Cambridge University Press eBook Store**](http://www.ebooks.com/news/64.asp)  
+Cambridge University Press, the oldest university press in the world, has just launched its own eBook Store, powered by eBooks.com.
 
-[ ** **Get Rich Now****](http://www.ebooks.com/news/72.asp)  
-Get control of your finances with our "Financial Independence Library"
+[ ** **Wealth Building****](http://www.ebooks.com/news/72.asp)  
+Be inspired to gain control of your financial future with titles that give you the motivation and information necessary to create abundance.
 
 [ ** **Gift Certificates****](http://www.ebooks.com/gift-certificates/)  
 Give the gift of reading with an eBooks.com Gift Certificate
