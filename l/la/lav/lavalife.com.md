@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629173526id_/http%3A//lavalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417053403id_/http%3A//www.lavalife.com/003/guest/privacy.act%3Bjsessionid%3DA33675A5E04E0E753B036B5056477DDD.003%3Fcontext%3Danrr) for the most accurate reproduction.*
 
 # Online adult dating service and personals - Lavalife - Where Singles Click.
 
