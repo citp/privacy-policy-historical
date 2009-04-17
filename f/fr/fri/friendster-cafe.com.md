@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the friendster-cafe.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913005150id_/http%3A//friendster-cafe.com/%3Fpage_id%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster-cafe.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043159id_/http%3A//friendster-cafe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Friendster Layouts | Friendster Cafe - Free Friendster Layouts, Friendster Comments, Crossover Layouts, Javascript Layouts, Friendster Skin for your Friendster Profile
-
-Friendster-Cafe open now to serve you!. If you are interested to be one of our layout contributors, please e-mail us at [fscafe@ymail.com](http://www.yahoo.com/).
+# Privacy Policy Friendster Layouts | Friendster-Cafe.Com - Free Friendster Layouts For Friendster!
 
 **  
 Friendster-Cafe.Com**
@@ -17,19 +15,4 @@ We collect personally identifiable information, like names and email addresses w
 
 **Cookies and Tracking**
 
-We don’t directly set cookies from Friendster-Café.info, but we do run a number of scripts from providers such as Google and Chatango. All of these set web browser cookies. Google in particular quietly collects a tremendous amount of data on your browsing habits, and Friendster-Cafe participates in that data collection. If that bugs you, please drop us a line to let us know how you feel about this and we’ll consider removing Google’s service. We not distribute any of your personal information to third parties. We don’t directly track your presence on this website. Your IP address is logged and we look at the server logs on occasion, but this is in an aggregate fashion for the purpose of determining why people come to Friendster-Café.info. What we’re most interested in specifically are two things: The websites that link to Friendster-Café.info and send traffic here, and what keywords people use to find Friendster-Cafe via search engines such as Google, Yahoo, and MSN.
-
-**External Links**
-
-This site contains links to other sites. Friendster-Cafe is not responsible for the privacy practices or the content of such web sites.
-
-**Advertisers**
-
-Advertisements on this site may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisements. However, the companies serving the advertising do not have access to any information stored with us.
-
-**Privacy Contact Information**
-
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
-
-By e-mail: [fscafe@ymail.com](http://www.yahoo.com/)  
-
+We don’t directly set cookies from Friendster-Caf
