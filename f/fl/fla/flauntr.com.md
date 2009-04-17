@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527163840id_/http%3A//www.flauntr.com/flauntr/login/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418001147id_/http%3A//www.flauntr.com/flauntr/privacy.jsp) for the most accurate reproduction.*
 
-# flauntR- Free online photo editor with printing and slideshows
+# flauntR
 
-flauntR (“flauntR Inc ”) is committed to protecting your privacy and recognizes that your privacy is important. The following privacy policy discloses our information-gathering and dissemination practices from our website and our flauntR service. By using our website or our flauntR service, you agree to be bound by the terms of this policy.
+flauntR ("flauntR Inc.") is committed to protecting your privacy and recognizes that your privacy is important. The following privacy policy discloses our information-gathering and dissemination practices from our website and our flauntR service. By using our website or our flauntR service, you agree to be bound by the terms of this policy.
 
  **Personal Information**
 
-Personal information is information that is unique to you and includes your name, address, password, e-mail address, telephone number, credit card number, location information, product and service information, information on software downloads and updates, systems information, IP address, browser type, date and time of any request made to flauntR, content preferences, purchase information and credit card billing information. You may also be required to set up a user ID and password, which may be considered personal information. We may collect and store such personal information from you via our service. Because protecting your information is important to us, we do not sell any personal information to third parties. Some of the services that flauntR offers do not require you to provide any personal information. Inorder to provide certain services we may collect personal Information. When you send email or other communication to flauntR, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. The information is stored on flauntR’s servers and is sent to and from such servers as part of routine product communications that enable Software functionality
+Personal information is information that is unique to you and includes your name, address, password, e-mail address, telephone number, credit card number, location information, product and service information, information on software downloads and updates, systems information, IP address, browser type, date and time of any request made to flauntR, content preferences, purchase information and credit card billing information. You may also be required to set up a user ID and password, which may be considered personal information. We may collect and store such personal information from you via our service. Because protecting your information is important to us, we do not sell any personal information to third parties. Some of the services that flauntR offers do not require you to provide any personal information. In order to provide certain services we may collect personal Information. When you send e-mail or other communication to flauntR, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. The information is stored on flauntR servers and is sent to and from such servers as part of routine product communications that enable software functionality
 
 flauntR uses this information to:
 
@@ -18,7 +18,7 @@ c) Allow you to purchase and download products and services.
 
 d) Provide you with advertising, promotions and special offers we feel you may be interested in based on information you provide to us. 
 
-e) Provide you with personalized content, instructions and services. 
+e) Provide you with personalised content, instructions and services. 
 
 f) Calculate license reporting, billing, royalty payments and assessment of service levels. 
 
@@ -32,7 +32,7 @@ Our systems may automatically log certain non-personal information such as your 
 
 **Email Newsletter** ****
 
-You will be required to submit your e-mail address during the registration process. This information is used solely by flauntR and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always opt-out of receiving our newsletters.
+You will be required to submit your e-mail address during the registration process. This information is used solely by flauntR and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always opt out of receiving our newsletters.
 
 **Security** ****
 
@@ -42,7 +42,7 @@ We restrict access to personal information to flauntR employees, contractors and
 
  **Cookies/Identifier files**
 
-flauntR uses cookies or other identifier files in connection with the use of flauntR services. These are small bits of data, which includes an unique identifier that is sent to your computer’s browser from a website's computers and stored on your computer's hard drive. We use these files to store information about your visits. We also use these files to enhance your experience as you visit the Website.
+flauntR uses cookies or other identifier files in connection with the use of flauntR services. These are small bits of data, which includes an unique identifier that is sent to your computer+rsquo;s browser from a website's computers and stored on your computer's hard drive. We use these files to store information about your visits. We also use these files to enhance your experience as you visit the website.
 
 If you choose to delete or disable your these files some of the features and services of flauntR may not function properly.
 
@@ -54,13 +54,13 @@ If flauntR becomes involved in a merger, acquisition, or any form of sale of som
 
 **Restriction on the basis of age**
 
-If You are residing in a jurisdiction which restricts the use of internet-based applications according to age, or which restricts the ability to enter into agreements such as this agreement according to age and You are in such a jurisdiction and under such age limit, You may not enter into this Agreement and use the flauntR Software. By entering into this Agreement You explicitly state that You have verified in Your own jurisdiction that Your use of the flauntR Software is allowed.
+If you are residing in a jurisdiction which restricts the use of internet-based applications according to age, or which restricts the ability to enter into agreements such as this agreement according to age and you are in such a jurisdiction and under such age limit, you may not enter into this agreement and use the flauntR software. By entering into this agreement you explicitly state that you have verified in your own jurisdiction that your use of the flauntR software is allowed.
 
 If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to anyone who is under the age limit to use internet based applications
 
 **Changes to this policy**
 
-Please note that this Privacy Policy may change from time to time as we continue to offer more flauntR services. In the event of any material or substantial change in the terms and conditions of this Privacy Policy, flauntR may notify you via e-mail, and/or by posting an announcement of the changes on the Service. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep a prior version of the policy in an archive for your review. You can find the latest version of this Privacy Policy at the flauntR website.
+Please note that this Privacy Policy may change from time to time as we continue to offer more flauntR services. In the event of any material or substantial change in the terms and conditions of this Privacy Policy, flauntR may notify you via e-mail, and/or by posting an announcement of the changes on the service. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep a prior version of the policy in an archive for your review. You can find the latest version of this Privacy Policy at the flauntR website.
 
 **Contacting flaunt R**
 
