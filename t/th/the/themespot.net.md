@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themespot.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082002id_/http%3A//www.themespot.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themespot.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417053727id_/http%3A//www.themespot.net/privacy.php) for the most accurate reproduction.*
 
-# ThemeSpot - PSP Themes, PSP CTF Themes, iPhone Themes, PSP PTF Themes, PSP Games, PSP movies
+# ThemeSpot - Best PSP CTF, PSP PTF, PSP CXMB,PS3 P3T
 
 [Home](http://www.themespot.net/) >> [ThemeSpot Privacy Policy](http://www.themespot.net/legal.php)
 
