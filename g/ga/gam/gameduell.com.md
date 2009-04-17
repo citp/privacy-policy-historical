@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055215id_/http%3A//www.gameduell.com/gd/i01.do%3Fpage%3Dhelp.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417180038id_/http%3A//www.gameduell.com/gd/i01.do%3Fpage%3Dhelp.privacy) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -69,9 +69,9 @@ PERSONAL CHOICE IN THE DISCLOSURE OF YOUR INFORMATION
 
 If You do not want Us to share Your Personal Information with Our Partners for marketing purposes, or if You do not want to receive certain communications and offers from Us You can "opt out" of such sharing, communications and offers by calling Us at +49 (0)30 288 768 246 or email Us at [privatepolicy@gameduell.com](mailto:privatepolicy@gameduell.com), or write Us at:
 
-Gameduell Inc  
-442 Post Street, floor 10th  
-San Francisco, CA, 94102
+GameDuell INC  
+235 Montgomery St. Suite 960  
+San Francisco, CA 94104
 
 If You believe that any Personal Information collected by Us about You is not correct or has changed, please send an e-mail message to [privatepolicy@gameduell.com](mailto:privatepolicy@gameduell.com) explaining the correction or change and providing any relevant confirmation or reference number. 
 
@@ -85,9 +85,9 @@ If You have a privacy question about this Website, please email:
 Customer Service at [service@gameduell.com](mailto:service@gameduell.com)
 
 Or write to:  
-Gameduell Inc  
-442 Post Street, floor 10th  
-San Francisco, CA, 94102
+GameDuell INC  
+235 Montgomery St. Suite 960  
+San Francisco, CA 94104
 
 **Date Last Modified: May 27, 2008.**  
   
