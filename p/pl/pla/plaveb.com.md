@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaveb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072358id_/http%3A//www.plaveb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaveb.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417174146id_/http%3A//www.plaveb.com/privacy-policy) for the most accurate reproduction.*
 
 # Plaveb.com | company privacy policy statement
 
@@ -8,13 +8,16 @@ Our site’s different registration/contact forms requires user to provide conta
 
 You recognize and understand that there is no obligation on you to provide Plaveb with your personal information. Also information provided by you is with your full consent and own decision. You understand that we are under no obligation to verify the accuracy of information source whomever it concerns and we assume that is provided by you with your full consensus unless notified by you regarding fallacy of particular information. You also agree to provide correct information to avoid fraudulent activity.
 
-Security and Data Protection  
+#### Security and Data Protection
+
 Plaveb takes every precaution to protect your personal information. When you submit or view sensitive information via our website, your information is protected, both online and offline. All financial transactions and otherwise sensitive information is protected using 128 bit Secure Socket Layer (SSL) technology.
 
-External Links  
+#### External Links
+
 Plaveb website may have links to other websites and affiliates. Plaveb is not responsible for the content or the privacy of these affiliated websites or any other links that redirect user to external sites.
 
-Connectivity Data  
+#### Connectivity Data
+
 Plaveb may log IP addresses and or end systems information for better web administration. This information is used for analysis, diagnostics and to maintain the integrity of our services.
 
 For any questions about privacy and similar issues, please contact us at [privacy@plaveb.com.](mailto:privacy@plaveb.com)
