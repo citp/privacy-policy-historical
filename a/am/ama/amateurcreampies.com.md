@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurcreampies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216075824id_/http%3A//www.amateurcreampies.com/newprivacy_customersupport.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurcreampies.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417145200id_/http%3A//www.amateurcreampies.com/newprivacy_customersupport.htm) for the most accurate reproduction.*
 
 # Amateur Creampies - Amateur cum sluts getting their pussies filled with sperm
 
