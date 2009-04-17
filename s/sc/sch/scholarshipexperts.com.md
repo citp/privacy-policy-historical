@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155103id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417075608id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ScholarshipExperts.com
 
@@ -8,11 +8,11 @@
 ---  
 | 
 
-ScholarshipExperts.com, a division of Goal Financial, LLC (“us” or “we”), is committed to respecting the privacy rights of its customers, visitors, and other users of the ScholarshipExperts.com website (the “Site”). This Privacy Notice applies to users or individuals who use the Site (“you”) and is to provide you with information concerning each of our privacy policies and to help you understand how we handle personal information about you which we may collect and disclose. This Privacy Notice applies to our current customers, former customers, new and registered users and applicants. 
+ScholarshipExperts.com, a division of WiseChoice Brands, LLC (“us” or “we”), is committed to respecting the privacy rights of its customers, visitors, and other users of the ScholarshipExperts.com website (the “Site”). This Privacy Notice applies to users or individuals who use the Site (“you”) and is to provide you with information concerning each of our privacy policies and to help you understand how we handle personal information about you which we may collect and disclose. This Privacy Notice applies to our current customers, former customers, new and registered users and applicants. 
 
 We created this Website Privacy Notice (the “Privacy Notice”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Notice is only applicable to the Site, and not any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
 
-PLEASE NOTE: OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE OR FROM OTHER WEBSITES OR BUSINESSES OWNED OR MAINTAINED BY GOAL FINANCIAL, LLC.   
+PLEASE NOTE: OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE OR FROM OTHER WEBSITES OR BUSINESSES OWNED OR MAINTAINED BY WISECHOICE BRANDS, LLC OR AFFILIATES.   
   
 ---  
    
@@ -39,14 +39,14 @@ We may disclose the information collected from and about you as follows: (1) to 
    
 Cookies  
   
-To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies help us learn which areas of the Site are useful and which areas need improvement. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information and we do not store personally identifiable information in cookies. 
+To enhance your online experience with us, many of our web pages use “cookies.” Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies help us learn which areas of the Site are useful and which areas need improvement. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information and we do not store personally identifiable information in cookies. 
 
 We use cookies as a convenience feature to save you time, to understand how our Site is used, and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at the Site or recall your specific information on subsequent visits (e.g., to recognize you by name when you return to the Site). We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit our Site in order to participate in certain promotions. You should also know that companies that advertise on the Site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies. We do not have access to or control over information collected by outside advertisers on our site. 
 
 We also may collect certain non-personally identifiable information (i.e., generic information that does not identify you personally) when you visit any of the pages on the Site, such as the type of browser you are using (e.g., Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS), IP addresses (the number assigned to computers on the Internet), the domain name of your Internet service provider (e.g., America Online or EarthLink), the URL from which you access the Site and the URL you first visit after leaving the Site. In addition, we, or third-party service providers acting on our behalf, may use JavaScript to collect information about your browsing behavior on the Site, such as the areas or pages that you visit and the amount of time you spend viewing the Site.  
   
    
-How We Use Non-Personally Identifiable Info  
+How We Use Non-personally Identifiable Information  
   
 As explained above, we use cookies as a convenience feature to save you time, to understand how our Site is used, to improve the content and offerings on the Site and to offer you products, programs, or services. If you are referred to the Site from one of our marketing partners, we may combine the non-personally identifiable information we collect from you with your personal information however; we will use the combined information only to compensate the marketing partner for your referral, and we will not disclose it. In addition, we sometimes use non-personally identifiable information to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our Site is used, as well as to offer you products, programs or services. Sometimes we share aggregate, non-personally identifiable information with others, including affiliated companies and non-affiliated companies.  
   
@@ -90,7 +90,7 @@ If your personally identifiable information changes, or if you no longer desire 
    
 Your California Privacy Rights  
   
-If you are a California resident, you have the right to request a list of the third parties with which we have shared your personal information for those parties' own direct marketing purposes in the preceding calendar year. To request the list, please email us at [SEprivacy@goalfinancial.net](mailto:SEprivacy@goalfinancial.net) or by mailing us at the address below.   
+If you are a California resident, you have the right to request a list of the third parties with which we have shared your personal information for those parties' own direct marketing purposes in the preceding calendar year. To request the list, please email us at [privacy@wisechoice.com](mailto:privacy@wisechoice.com) with “ScholarshipExperts - California” in the subject line, or write to us at the address below.   
   
    
 Notification of Changes  
@@ -100,16 +100,16 @@ We may change this privacy policy from time to time. When we do, we will provide
    
 Contact Us  
   
-If you have any questions regarding our privacy and security policies and practices, please email us at [security@scholarshipexperts.com](mailto:security@scholarshipexperts.com) or at [SEprivacy@goalfinancial.net](mailto:SEprivacy@goalfinancial.net) or write us at:
+If you have any questions regarding our privacy and security policies and practices, please email us at [privacy@wisechoice.com](mailto:privacy@wisechoice.com) with “ScholarshipExperts” in the subject line, or write to us at the address below:
 
-Goal Financial, LLC  
-1229 King Street Suite 300  
+WiseChoice Brands, LLC  
+1229 King Street, Suite 300  
 Alexandria. VA 22314  
   
   
-Date last revised: March 31, 2008.
+Date last revised: January 19, 2009.
 
-_© Copyright Goal Financial, LLC 3/31/2008 All rights reserved._  
+_© Copyright WiseChoice Brands, LLC 2009. All rights reserved._  
   
    
   
