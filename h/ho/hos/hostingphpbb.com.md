@@ -1,53 +1,21 @@
-> *The following text is extracted and transformed from the hostingphpbb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050728id_/http%3A//www.hostingphpbb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingphpbb.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417162714id_/http%3A//www.hostingphpbb.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-**Information**
+Privacy Policy for hostingphpbb.com 
 
-When you sign up for our service, we will ask you to provide contact information such as email address. 
+The privacy of our visitors to hostingphpbb.com is important to us. 
 
-We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to. 
+At hostingphpbb.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit hostingphpbb.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
-If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters. 
+Log Files As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you. 
+Cookies and Web Beacons We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
-We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See "What is a Cookie" below. We may tie this cookie to the personally identifiable information we have about you. 
+We also use third party advertisements on hostingphpbb.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-**Use of Personally Identifiable Information**
+DoubleClick DART cookies We also may use DART cookies for ad serving through Google.s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (.interest based targeting.). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses .non personally identifiable information.. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
 
-We will use your personally identifiable information only as follows: 
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-· To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. 
-
-· To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
-
-We will not provide any personally identifiable information about you to any other person other than: 
-
-· a law enforcement or regulatory agency at their request; 
-
-· a person or company who acquires our business; 
-
-· third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential; 
-
-· To our subsidiaries and affiliates; or 
-
-· As otherwise needed to protect or enforce or rights or the rights of others. 
-
-We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists. 
-
-**Use of Non-Personally Identifiable Information**
-
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally. 
-
-**What is a Cookie**
-
-A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit. 
-
-**Security of Your Information**
-
-We store your personally identifiable information. 
-
-**Children's Privacy**
-
-Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
