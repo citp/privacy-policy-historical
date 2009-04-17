@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the 9mine.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418005636id_/http%3A//www.9mine.com/privacy_policy.php) for the most accurate reproduction.*
+
+# Privacy Policy - 9mine.com
+
+[Privacy Policy ](http://127.0.0.1/privacy_policy.php)
+
+In an effort to support privacy policy disclosures on the Internet, [9mine.com](http://www.9mine.com/) is deeply committed to protecting the privacy of Internet users. Please read the following to learn more about our privacy policy. 
+
+All information we collect from our visitors or registered members is used for internal reviews and is then discarded, used to improve the content of our website and user experience, used to notify consumers about updates to our web site, and **not shared** with other organizations for any commercial purposes. 
+
+We publish a newsletter, and we never sell or share our visitors' email, mailing addresses or any other personal information. 
+
+9mine.com may use the services of Google or other Marketing Companies for the serving and/or targeting of ads, promotions and other marketing messages. So any such concerns with our advertisers should be directed to them respectively. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site.
+
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+
+If you feel that this site is not following its stated information policy, you may contact us at [mailto:support@9mine.com](mailto:support@9mine.com). 
