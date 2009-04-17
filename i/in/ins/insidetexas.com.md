@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622101028id_/https%3A//secure.scout.com/a.z%3Fs%3D143%26p%3D5%26c%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417094226id_/http%3A//insidetexas.com/privacypolicy) for the most accurate reproduction.*
 
-# Scout.com: Membership
+# InsideTexas.com - Privacy Policy
 
-**Scout.com Privacy Policy**
+Thank you for visiting InsideTexas.com.
 
-Thank you for visiting our site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. It describes the privacy practices for Scout.com and affiliated Web sites (such as dawgman.com or packerreport.com). [Click here](http://scout.com/) for a list of Affiliates.
+We are committed to your privacy and provide the following Privacy Policy that explains how we strive to protect your personally identifiable data. Our goal is to bring you current and up-to-date information about the sports programs at The University of Texas, tailored to your individual interest and needs and, at the same time, protect your privacy. 
 
-This policy makes clear that Scout.com or its subsidiaries could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Scout.com would share some or all of your information in order to continue to provide the service.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
- **Information We Collect**  
-Scout.com collects information about users in a number of ways. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. When you register as a Scout.com user, you are asked to enter your name and email address plus additional information.
+YOUR USE OF THIS WEBSITE AND/OR REGISTRATION WITH InsideTexas WILL CONSTITUTE YOUR AGREEMENT WITH THIS PRIVACY POLICY.
 
-We may also ask you for personal information when you [1] enter a sweepstakes, contest, or promotion, whether sponsored by us or one of our partners; [2] when you take one of our polls or fill out a marketing survey; [3] when you make a purchase of merchandise or premium content [4] when you ask to receive any of our newsletters [5] and when you sign up for services provided by our partners, including fantasy sports games, message boards and other services offered.
+In addition, please read our Terms of Use Agreement as your use of InsideTexas.com website and/or service(s) constitutes agreement to the terms as explained in the Agreement.
 
-While you are using the Scout.com site, we may collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go to, what browser you are using (e.g. Netscape, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL, Earthlink), and your IP address. We also use cookiespieces of information that Web sites transfer to your computers hard drive for record-keeping purposeson some Scout.com pages to keep track of your most recent visit to our site, identify the URL youre coming from when you buy a product on our site, provide you with an online shopping cart, and to track and customize advertising served to you.
+This Privacy Policy does not cover information collected elsewhere, including without limitation, offline and online sites that are linked to and from our website.
 
- **How We Use Your Information and What You Can Do About It**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page. Continued access of this website and/or service(s) by you will constitute youracceptance of any changes or revisions to the Privacy Policy.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, that we are making changes to our subscriber agreements or billing policies, to fulfill a request by you for information, to contact you about the status of your account with us (including special promotions or discounts available to account holders), or to provide you with content alerts relating to your selected team. We may use your e-mail address if you tell us that you want to receive promotional information from Scout.com or its advertisers.
+INFORMATION COLLECTION AND USE
 
-Scout.com uses the information collected from you to better understand the demographics, interests and behavior of our collective audience or to deliver advertisements and promotions that are targeted to your interests. We do not share individual information about you with advertisers in the process.
+InsideTexas does not collect personal information without your specific knowledge and consent.
 
- **Who Else Sees Your Information and What You Can Do About It**  
-When you visit an Affiliate site (such as washington.scout.com), we share information we have collected about you with that Affiliate. We may share your e-mail address and other information with our Affiliates, partners or advertisers sponsoring a promotion or event.
+For instance, when you register for any portion of InsideTexas's services, make a purchase, subscribe to our affiliated publication(s), enter a sweepstakes or contest, or complete a survey, you are asked to provide, among other things, information like your e-Mail address, name, telephone number, fax number, credit card information, and information about interest in our services, products, and programs. Optional demographic information may also be requested. The more information you provide, the better we are able to customize our services to suit your needs and preferences.
 
-When you sign up with our partners for services such as fantasy games, free e-mail and other services, you are providing information to the partner offering the service as well as to Scout.com. You must carefully read the privacy policy of our affiliates and the partner providing the service before deciding to take advantage of the service.
+InsideTexas uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our affiliated publications, we may use your e-Mail address to send you the publication. Similarly, if you enter one of our contests or sweepstakes, we will use the information provided to notify you if you win. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you.
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+'COOKIES'
 
-We also share information about our users in the aggregate to profile our collective audience to advertisers and partners. Our partners may also share the aggregate information we provide with third parties. The information data may also be shared under confidentiality agreements with independent market research companies. We may also match your information with information provided to us by third parties under confidentiality agreements.
+In addition, when you use InsideTexas's website and/or service(s), we may also automatically collect information, ('Cookies'), about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address. This information is collected and used in the aggregate for, among other things, measuring site performance and use.
 
-We may have to disclose information about you to law enforcement, other government officials or third parties in order to comply with applicable law or legal process (e.g. a court order or subpoena) or to protect the personal safety of our users or the public.
+'Cookies' on InsideTexas simply help you get around the site faster, and are used to enable functions such as showing whether or not a thread or forum you are viewing has new posts since your last visit, or to automatically log you back in when you return to the site after being away for a while.
 
- **How You Can Update, Correct or Delete Your Information**  
-You may go to [your membership information](https://secure.scout.com/a.z?s=143&p=5&c=7) at any time to update, correct or delete personal information or to stop receiving promotional e-mail or update your e-mail address on our promotions mailing list.
+For example, when you Register, you will be given the option to 'Automatically login' when you return to the site. This will save your username and password in a 'cookie,' stored on your computer. If you do not check the 'Auto LogIn,' we clear them as you exit.
 
- **How Your Information Is Protected**  
-Scout.com takes reasonable precautions to protect your information from loss, misuse or alteration. We use Secure Socket Layer (SSL) technology to protect sensitive information such as your credit card number and a series of firewalls to protect our internal systems. You should recognize that, while it is reported to be more secure to process credit card purchases through such systems than many other traditional means, there is no such thing as perfect security on the Internet.
+Unlike most sites, we do not collect cookies for 'permission based marketing' or give any personal information to anyone. Our advertisers do not have any access to your information or 'cookies.' We will not sell any ad to any advertiser who requires that we share cookies or tracking information.
 
- **Children Under 13  
-** Our site and Affiliate sites are not designed to be used by children under 13, and we ask that children under 13 do not submit personal information to Scout.com, our Affiliates or partners.
+RESTRICTIONS ON USE OF INFORMATION PROVIDED BY YOU
 
- **General**  
-This Privacy Policy is incorporated into and subject to the terms of the Scout.com.com User Agreement. Should this policy be amended in any way, changes will be posted to this page.
+InsideTexas will not sell or share your information, or allow access to our database to non related third parties. However, affiliated companies, (such as ESPN), that provide us goods or services, such as a subscription to an ESPN magazine, or the technical maintenance of our website, are granted limited access to provide the services you have requested. These companies however, also agree to guard your privacy and to never sell any data obtained through us to anyone for any reason.
+
+USERS UNDER 17 YEARS OLD
+
+While content on InsideTexas is meant to be viewed by sports fans of all ages, we ask that fans under age 17 not post on the forums, provide any personal information to us, or to any third party on our message boards or chat rooms. Minors under the age of 17 must get the permission of their parent(s) or legal guardian(s) before making purchases or registering with InsideTexas.
+
+PRIVACY POLICY COORDINATOR
+
+If you have any questions or comments about any aspect of this Privacy Policy, then please feel free to contact us at the address below:
+
+Inside Texas  
+P.O. Box 9192  
+Austin, TX 78766
+
+Questions about our privacy policy may be directed to: [HELP@InsideTexas.com](mailto:HELP@InsideTexas.com)
