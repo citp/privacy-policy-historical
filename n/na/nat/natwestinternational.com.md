@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natwestinternational.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133417id_/http%3A//www.natwestinternational.com/international_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natwestinternational.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417120325id_/http%3A//www.natwestinternational.com/international_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
 
 # NatWest International - Privacy
 
