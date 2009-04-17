@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820050907id_/http%3A//www.n-able.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417120052id_/http%3A//n-able.com/legal/privacy) for the most accurate reproduction.*
 
 # N-able Technologies - Privacy Policy of N-able.com
 
