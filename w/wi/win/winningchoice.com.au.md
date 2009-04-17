@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080916id_/http%3A//www.winningchoice.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417064542id_/http%3A//www.winningchoice.com.au/privacy.html) for the most accurate reproduction.*
 
 # Winning Choice - Privacy
 
