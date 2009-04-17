@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the photography-network.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031157id_/http%3A//www.photography-network.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photography-network.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417145115id_/http%3A//www.photography-network.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Photography Network
+# Privacy Policy » Photography Social Network
 
 **PRIVACY POLICY  
 **
 
-**Networks Me Limited ("we", “us”)** are committed to protecting and respecting your privacy.
+**Chatter Limited ("we", us)** are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Networks Me Limited.
+For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Chatter Limited.
 
 Our nominated representative for the purpose of the Act is Ian Johnson.
 
@@ -87,7 +87,7 @@ Our Site may, from time to time, contain links to and from the websites of our s
 
 **ACCESS TO INFORMATION**
 
-The Act gives you the right to access certain information held by us about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access certain information held by us about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of Ã£10 to meet our costs in providing you with details of the information we hold about you.
 
 **CHANGES TO OUR PRIVACY POLICY**
 
