@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617054506id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417203102id_/http%3A//www.ehost.com/about/privacy.bml) for the most accurate reproduction.*
 
 # eHost's Privacy Policy
 
@@ -95,6 +95,6 @@ Please note: eHost reserves the right to send e-mail communications relating dir
   20. **Revisions to This Policy.** eHost reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: October 2007   
+Revised: January 2020   
 |  |     
 ---|---|---|---|---
