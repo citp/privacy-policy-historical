@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080847id_/http%3A//www.screenseven.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenseven.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417041722id_/http%3A//www.screenseven.com/about/privacy.php) for the most accurate reproduction.*
 
 # SCREEN SEVEN - Imprint - Privacy Statement
 
