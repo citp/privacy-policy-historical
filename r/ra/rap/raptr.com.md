@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143427id_/http%3A//raptr.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptr.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417171236id_/http%3A//raptr.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Raptr
 
@@ -34,7 +34,7 @@ You can also post questions and answer other user questions in our community for
 
 From time-to-time, we request information from users via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as your email address), and demographic information (such as interests or age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Raptr Features and will not be transferred to third parties. 
 
-### How do we use the information you provide us?
+### How do we n use the information you provide us?
 
 As stated above, we use your personal information such as your name, user ID and email address to maintain your user account. We also will use your email address to contact you when we provide customer support and to inform you when another user has sent you a private message or posted a comment for you on the website.
 
