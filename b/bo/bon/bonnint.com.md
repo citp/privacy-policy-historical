@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnint.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928230411id_/http%3A//www.bonneville.com%3Fnid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnint.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417064212id_/http%3A//bonneville.com%3Fnid%3D72) for the most accurate reproduction.*
 
 # Bonneville International - Privacy Policy
 
