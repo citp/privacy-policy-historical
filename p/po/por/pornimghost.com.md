@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornimghost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160515id_/http%3A//www.pornimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornimghost.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417031148id_/http%3A//www.pornimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Porn Img Host » More Information » Privacy Policy
 
