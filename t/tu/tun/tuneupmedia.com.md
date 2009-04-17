@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the tuneupmedia.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912100000id_/http%3A//www.tuneupmedia.com/site/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneupmedia.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417173149id_/http%3A//www.tuneupmedia.com/site2/about/privacy) for the most accurate reproduction.*
 
-# TuneUp Media - Your Music's New Best Friend
+# TuneUp - Privacy Policy
 
-Privacy Policy
-
-1\. Introduction
+  1. Introduction
 
 This document sets forth the privacy policy (the "Privacy Policy") of Tuneup Media, Inc., a Delaware corporation and its affiliates ("Tuneup Media") for services provided directly and indirectly by Tuneup Media (the "Services"), Tuneup Media Software (together with all prior and subsequent versions, and all patches and updates thereto, the "Software") and the Tuneup Media Web site, www.tuneupmedia.com (including all subpages thereto, the "Site").
 
-The Site, Services and Software (collectively, the "Tuneup Media Offerings") are not intended for use by anyone not able to enter into legally binding contracts. If you are not able to legally form binding contracts, you may not use the Tuneup Media Offerings or submit information about yourself. Without limiting the foregoing, the Tuneup Media Offerings are not intended for and may not be used by children under the age of 13, nor may they be used to solicit or collect any information from children under the age of 13. If you have objections to this Privacy Policy, you should not download, access, sign up for or use, as applicable, the Tuneup Media Offerings.  
-________________________________________
+The Site, Services and Software (collectively, the "Tuneup Media Offerings") are not intended for use by anyone not able to enter into legally binding contracts. If you are not able to legally form binding contracts, you may not use the Tuneup Media Offerings or submit information about yourself. Without limiting the foregoing, the Tuneup Media Offerings are not intended for and may not be used by children under the age of 13, nor may they be used to solicit or collect any information from children under the age of 13. If you have objections to this Privacy Policy, you should not download, access, sign up for or use, as applicable, the Tuneup Media Offerings.
+
+________________________________________ 
 
 The applicable SysTrust or WebTrust Seal of assurance symbolizes that this site has been examined by an independent accountant. Further, the Seal represents the practitioner's report (see below) on management's assertion(s) that the entity's business being relied upon is in conformity with the applicable Trust Services Principle(s) and Criteria.
 
@@ -17,24 +16,26 @@ The Trust Services Principles and Criteria is an international set of principles
 
 The Seal of assurance combines high standards for identified activities with the requirement for an independent verification/audit. Together they build trust and confidence among consumers and businesses conducting business over the Internet.
 
-The entity has earned the right to display the Seal of assurance with respect to the Trust Service Principle(s) of:  
-Certification Authorities
+The entity has earned the right to display the Seal of assurance with respect to the Trust Service Principle(s) of:
 
-The WebTrust Seal of assurance for Certification Authorities (CA) symbolizes to potential relying parties that a qualified practitioner has evaluated the CA's business practices and controls to determine whether they are in conformity with the AICPA/CICA WebTrust for Certification Authorities Principles and Criteria. An unqualified opinion from the practitioner indicates that such principles are being followed in conformity with the WebTrust for Certification Authorities Criteria. These principles and criteria reflect fundamental standards for the establishment and on-going operation of a Certification Authority organization or function.  
+Certification Authorities 
+
+The WebTrust Seal of assurance for Certification Authorities (CA) symbolizes to potential relying parties that a qualified practitioner has evaluated the CA's business practices and controls to determine whether they are in conformity with the AICPA/CICA WebTrust for Certification Authorities Principles and Criteria. An unqualified opinion from the practitioner indicates that such principles are being followed in conformity with the WebTrust for Certification Authorities Criteria. These principles and criteria reflect fundamental standards for the establishment and on-going operation of a Certification Authority organization or function.
+
 ________________________________________
 
-2\. Tuneup Media's Privacy Principles
+  2. Tuneup Media's Privacy Principles
+    * Your Information (defined below) is your own.
+    * You may add, delete, or modify Your Information at any time.
+    * Tuneup Media will not update or modify Your Information without your permission.
+    * Subject to your permission or agreement, Tuneup Media will not sell, exchange, or otherwise share Your Information with third parties, unless required by law or as provided hereby. 
+    * Tuneup Media does not send spam, maintain spam mailing lists, or support the activities of spammers.
 
-\- Your Information (defined below) is your own.  
-\- You may add, delete, or modify Your Information at any time.  
-\- Tuneup Media will not update or modify Your Information without your permission.  
-\- Subject to your permission or agreement, Tuneup Media will not sell, exchange, or otherwise share Your Information with third parties, unless required by law or as provided hereby.   
-\- Tuneup Media does not send spam, maintain spam mailing lists, or support the activities of spammers.  
 ________________________________________
 
-3\. Information Collection and Use
+  3. Information Collection and Use
 
-Tuneup Media Members-Your Information. 
+Tuneup Media Members-Your Information.
 
 When you download the Software, sign up for the Services or otherwise become a registered member of Tuneup Media, you provide us with and consent to our processing, maintaining and storing your "Your Account Information," and "Music Library Information," in each case as described below (collectively, "Your Information").
 
@@ -48,28 +49,28 @@ ii. Your Music Library Information: A synchronized copy of your Music Library In
 
 Additionally, we may use Your Information for the following enumerated and similar purposes:
 
-\- For assessment of service levels;  
-\- To better understand on an aggregated basis how our products are used, gauge traffic patterns and determine what types of content and services are most popular with users of our products and services;  
-\- To verify access or other rights to services or software;  
-\- To provide you with information about Tuneup Media products, services, news and events through the Software, the Site or e-mail;  
-\- To allow you to purchase and download Tuneup Media and third-party partner products and services; and/or  
-\- To provide you with personalized content programming (including but not limited to concert notifications and music recommendations), instructions and services.
+    * For assessment of service levels;
+      * To better understand on an aggregated basis how our products are used, gauge traffic patterns and determine what types of content and services are most popular with users of our products and services;
+      * To verify access or other rights to services or software;
+      * To provide you with information about Tuneup Media products, services, news and events through the Software, the Site or e-mail;
+      * To allow you to purchase and download Tuneup Media and third-party partner products and services; and/or
+      * To provide you with personalized content programming (including but not limited to concert notifications and music recommendations), instructions and services.
 
 Also, for users ordering certain premium Tuneup Media Services, we may also collect credit card and billing information to complete the request. Unless you have agreed otherwise, Tuneup Media will not permanently store this information and the information is removed once the transaction has been completed.
 
-4\. Limited Data Sharing with Third Parties
+  4. Limited Data Sharing with Third Parties
 
 Tuneup Media is committed to protecting your privacy. We will only share Your Information with third parties in accordance the terms set forth in this Privacy Policy and in order to provide you specific services. In addition, we use PayPal - https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside -- as a credit card processing company to bill users for premium services. This business partner does not retain, share, or store any personally identifiable information except to provide this service and is bound by a strict confidentiality agreement which limits their use of such information. We may share aggregated and anonymous demographic information (i.e., Your Information that is not personally identifiable) with our business partners. For example, we may share such information as the total number of users of Tuneup Media service or the broad geographic frequency of use. We may also develop algorithms leveraging the information in the Tuneup Media database for such purposes as network analysis, reputation scoring, or spam and fraud prevention. However, no such information will be linked directly to Your Account Information or other personally identifiable information.
 
 Although we will use commercially reasonable effort to preserve your privacy, we may need to disclose Your Information, including personally identifiable information, when required by law or if we determine that disclosure is necessary for national security, law enforcement or other issues public importance. We will use commercially reasonable efforts to notify you of such actions where reasonable and permitted by law.
 
-5\. Change of Ownership or Other Business Transition
+  5. Change of Ownership or Other Business Transition
 
 In the event Tuneup Media goes through a business transition, such as a merger, acquisition or the sale of all or substantially all of its assets (a "Business Transition"), your membership in the Tuneup Media Offerings and the Tuneup Media servers containing Your Information will, in most instances, be part of the assets transferred. In such event, you will be notified via e-mail and/or through a notice on our Web site and any other appropriate methods prior to the Business Transition, and Tuneup Media's custody of Your Information will be transferred subject to all the terms and restrictions in this Privacy Policy.
 
 Following a Business Transition, Tuneup Media or its successors ("We") may continue to use Your Information provided such use is in accordance with the Privacy Policy under which the information was collected. If, however, We plan to use Your Information in a manner different from that stated at the time of collection, We will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods. You will have a choice as to whether or not We use Your Information in this different manner. Whether or not you wish to have Your Information used in this different manner, you will retain your rights to Your Information and the ability to delete Your Information at any time. Please note, if you have deleted or deactivated your account or are an opt-out user, then you will not be contacted, nor will Your Information be used in this different manner.
 
-6\. Cookies
+  6. Cookies
 
 In order to improve the Services and the Site, we use "cookies" when you are logged into the Site using your e-mail address and password. A cookie is a piece of data that is transferred to your browser by a Web server and can only be understood by the server that gave it to you. It functions as your computer's identification token and enables Tuneup Media to personalize your experience when you are signed in to the Site. The cookie also contains your e-mail address so that we can make it easier for you to sign in. If you reject the cookie, you may not be able to sign up for some of the Services or use certain features of the Site.
 
@@ -77,7 +78,7 @@ Most browsers are initially set to accept cookies. You can set your browser to n
 
 While Tuneup Media uses cookies to enable you to use the Services and the Site, and our Web servers automatically log the Internet Protocol ("IP") address of your computer, Tuneup Media does not use this information to identify you personally except to provide you with the features of the Services.
 
-7\. Storage, Log Files and Backups
+  7. Storage, Log Files and Backups
 
 Your Information is processed, maintained and stored on servers that are physically located in the United States.
 
@@ -87,7 +88,7 @@ The Software has associated log and temporary files that are stored on your loca
 
 Your Information may also exist within regularly performed server backups which are processed, maintained and stored on tape and stored at Tuneup Media's offices located in the United States.
 
-8\. Member Communications
+  8. Member Communications
 
 We may send all new users confirmation e-mails verifying the ownership of the e-mail addresses provided in Your Account Information. We also communicate with you to provide requested services and in regard to issues relating to your account.
 
@@ -95,7 +96,7 @@ Users may occasionally receive information on Tuneup Media products, services, n
 
 It may also become necessary to send out a service-related announcement which is not promotional in nature. This announcement may notify you of changes to the Privacy Policy, as well as planned service suspensions and outages. Generally, you may not opt-out of these communications, though you can deactivate your Tuneup Media account. These notifications will generally be sent to a validated e-mail address for your Tuneup Media account.
 
-9\. Links
+  9. Links
 
 The Site contains, and the Software may present, links to Web sites other than the Site. Please be aware that Tuneup Media is not responsible for the privacy practices of such other Web sites. We encourage you to be aware when you leave the Site or link to other sites, to read the privacy policies of each and every site that collects personally identifiable information. Tuneup Media's Privacy Policy applies solely to information collected in connection with the Tuneup Media Offerings.
 
@@ -103,33 +104,34 @@ The Site also contains links to Tuneup Media's Forums (http://www.tuneupmedia.co
 
 If you use a forum/bulletin board or chat room on the Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for, and this Privacy Policy does not apply to, any personally identifiable information you choose to submit in these forums and blogs.
 
-10\. Children's Privacy
+  10. Children's Privacy
 
 Tuneup Media is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Tuneup Media's Services, Software and Site are not intended for and may not be used by children under the age of 13. Tuneup Media does not knowingly collect information from children under the age of 13 and Tuneup Media does not target its Services, Software and Site to children under 13.
 
-11\. Government Authority
+  11. Government Authority
 
 You should be aware that, as with all legal contracts, this Privacy Policy could be amended, terminated or modified without the consent of you and/or Tuneup Media by judicial proceeding, court order, in connection with bankruptcy or other insolvency proceedings, or pursuant to other government action. When reasonable and lawful, we will use commercially reasonable efforts to notify you if this occurs.
 
-12\. Security and Confidentiality
-
-\- If you forget your password, you can request to have it sent to to your email address within the TuneUp software.  
-\- The Services use Secure Socket Layer ("SSL") for all client-server communication using Your Information.  
-\- Your Web-based access to Your Information is protected by an encrypted password. We recommend that you do not disclose your password to anyone.  
-\- Additionally, Your Information resides on a firewall-protected server that only selected Tuneup Media personnel have access to via password. Tuneup Media strives to prevent unauthorized parties from viewing Your Information, and has implemented an ISO 17799-based security policy.
-
-13\. Changes to the Tuneup Media Privacy Policy
+  12. Security and Confidentiality
+    * If you forget your password, you can request to have it sent to to your email address within the TuneUp software.
+    * The Services use Secure Socket Layer ("SSL") for all client-server communication using Your Information.
+    * Your Web-based access to Your Information is protected by an encrypted password. We recommend that you do not disclose your password to anyone.
+    * Additionally, Your Information resides on a firewall-protected server that only selected Tuneup Media personnel have access to via password. Tuneup Media strives to prevent unauthorized parties from viewing Your Information, and has implemented an ISO 17799-based security policy.
+  13. Changes to the Tuneup Media Privacy Policy
 
 If we change the Privacy Policy, we will post the new Privacy Policy on the Site with a link from the Site's homepage, so that you are always aware of what information we collect, how we use it, and under what circumstances-if any-we disclose it. Any substantive changes to the Tuneup Media Privacy Policy will generally be posted within a reasonable time prior to taking effect.
 
 We will generally use Your Information in accordance with the Privacy Policy under which the information was collected. If, however, we plan to use Your Information in a manner different from that stated at the time of collection we will notify you via e-mail and/or through a notice on our Web site and any other appropriate methods and you will have a choice as to whether or not we use Your Information in this different manner.
 
-14\. Contacting Us
+  14. Contacting Us
 
-If you have any questions or suggestions regarding the Privacy Policy, please privacy@tuneupmedia.com.
+If you have any questions or suggestions regarding the Privacy Policy, please privacy AT tuneupmedia.com. 
 
 Tuneup Media, Inc.  
 1661 Tennessee St. Suite 3B  
 San Francisco, CA 94107
 
-Copyright 2008 Tuneup Media, Inc. All rights reserved. 
+Copyright 2008 Tuneup Media, Inc. All rights reserved.
+
+
+
