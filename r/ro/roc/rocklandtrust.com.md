@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140132id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417202107id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Rockland Trust
 
-This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy: Frequently Asked Questions.
+This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy Frequently Asked Questions.
 
 ## Privacy Notice
 
@@ -14,17 +14,15 @@ In the normal course of business we receive information about you ("Your Informa
 
   * Your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means;
   * Information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage;
-  * Information we receive from consumer reporting agencies, including information about your creditworthiness; and
+  * Information we receive from consumer reporting agencies, including information about your creditworthiness; and 
   * Information from public sources, such as real estate records and telephone numbers.
 
 
 
 **Your Information**  
-We use Your Information to protect you by, for example, confirming your identity at the time of a transaction. We may also use Your Information to serve you better by identifying products or services that may be of interest to you. As a consequence, we may disclose all of Your Information, as described above, to service providers that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
+We use Your Information to protect you by, for example, confirming your identity at the time of a transaction. We may also use Your Information to serve you better by identifying products or services that may be of interest to you. As a consequence, we may disclose all of your information, as described in the previous section, to service providers in order to complete transactions that have been authorized by you, that perform marketing services on our behalf, or to other financial institutions with whom we have joint marketing agreements. 
 
-We may also share your information with our corporate affiliate, Compass Exchange Advisors LLC in order to advise you about their services. Federal law gives you the right to limit marketing from Rockland Trust and/or Compass Exchange. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from Rockland Trust and/or Compass Exchange. You may limit Compass Exchange from marketing their services to you based on your personal information that they receive from Rockland Trust Company. This information may include your income, your account history, and your credit score. You may similarly limit marketing to you from Rockland Trust Company that is based on your personal information that is received from Compass Exchange. 
-
-Your choice to limit marketing offers from Rockland Trust Company and/or Compass Exchange will apply until you tell us to change your choice. If you have already made a choice to limit marketing offers from Rockland Trust Company and/or Compass Exchange you do not need to act again unless you wish to alter that choice. 
+We may also share Your Information with our corporate affiliates in order to advise you about their services. Federal law gives you the right to limit marketing from Rockland Trust and/or its affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from Rockland Trust and/or its affiliates. You may limit Rockland Trust Affiliates from marketing their services to you based on your personal information that they receive from Rockland Trust Company. This information may include your income, your account history, and your credit score. You may similarly limit marketing to you from Rockland Trust Company that is based on your personal information that is received from Rockland Trust Affiliates. Your choice to limit marketing offers from Rockland Trust Company and/or its affiliates will apply until you tell us to change your choice. If you have already made a choice to limit marketing offers from Rockland Trust Company and/or its affiliates you do not need to act again unless you wish to alter that choice. 
 
 To limit marketing offers, contact us:  
 By telephone: 800.222.2299  
@@ -34,7 +32,7 @@ Attn: Marketing Dept.
 Rockland, MA 02370  
 
 
-We do not otherwise disclose your information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies.
+We do not otherwise disclose your information, or nonpublic information about our former customers, to anyone, except as required or permitted by law, such as when responding to a subpoena or other court order, complying with regulatory requests, or providing information to consumer reporting agencies. 
 
 **Protect Your Privacy**  
 We restrict access to Your Information to only those employees who need it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
@@ -74,7 +72,7 @@ We only obtain the information that is necessary to complete the transaction, an
 We use IFMG Securities, a Sun Life financial company, to provide investment and insurance products to our customers. We also provide credit cards through our marketing partner MBNA. We do not provide account numbers or transaction information to them but do inform them that you are a customer of the bank.
 
 **What kind of information do you collect?**  
-The kind of information we collect depends upon your financial needs and the products and services you request. For example, when you apply for a loan or open an account with us, we need information about your financial status - such as your place of employment, income, monthly expenses and personal assets and debts outstanding - to process your requests. In addition, in order to make your banking as convenient and efficient as possible, we maintain information about your transactions with us, your account balance and repayment history. 
+The kind of information we collect depends upon your financial needs and the products and services you request. For example, when you apply for a loan or open an account with us, we need information about your financial status - such as your place of employment, income, monthly expenses and personal assets and outstanding debts - to process your requests. In addition, in order to make your banking as convenient and efficient as possible, we maintain information about your transactions with us, your account balance and repayment history. 
 
 **How do you obtain the information?**  
 We collect information from many sources. Much of the information comes directly from you when you complete a loan or account application. For a loan application, we also obtain information from credit bureaus and other creditors regarding your credit and repayment history. We retain communications from you (such as letters or e-mails) in order to handle questions you may have and to keep records of your request or concerns regarding our products and services. We also use your letters or e-mails to measure how effectively we have addressed your concerns. If you use our online banking service, we record your online sessions so that we can process and confirm your transactions and provide you with automatic online reports. We also obtain demographic and household information from outside sources such as database information firms.
@@ -129,6 +127,6 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](https://web.archive.org/web/20081217140132id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
+For more information visit: [www.the-dma.org](https://web.archive.org/web/20090417202107id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
 
 :: Top of the page ::
