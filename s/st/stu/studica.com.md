@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161834id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417032735id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Studica.com - Student Software Discounts, academic software at reduced prices up to 80% off retail.
+# Studica.com - Student Software Discounts, academic software savings up to 85% off retail.
 
 | Tel | (888) 561-7521  
 ---|---  
@@ -8,7 +8,7 @@ Fax | (877) 754-2807
   
 
 
-[](https://www.scanalert.com/RatingVerify?ref=www.studica.com)   
+  
 **Studica Privacy Policy**
 
 Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
