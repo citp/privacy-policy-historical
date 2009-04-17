@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025633id_/http%3A//www.midwestsupplies.com/info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestsupplies.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043623id_/http%3A//www.midwestsupplies.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
 # Midwest Homebrewing and Winemaking Supplies
 
@@ -14,7 +14,7 @@ To request a correction or deletion of your private information, or if you have 
 Midwest Supplies  
 3440 Beltline Blvd  
 St. Louis Park , MN 554161-888-449-2739  
-E-mail inquiries: [ service@midwestsupplies.com](mailto:service@midwestsupplies.com?subject=Privacy%20Policy%20Inquiry)
+[E-mail inquiries](http://www.midwestsupplies.com/info/customer_service.aspx)
 
 **What Information Do We Collect?**  
 When visiting the our web site, you may provide us with two types of information: personal information you voluntarily choose to disclose that is collected on an individual basis, and Web site use information gathered on a collective basis as you and others browse our Web site. * Midwest will only access your personal information if you inquire about a previous order. Your personal information will never be sold to a third party for any type of use. 
