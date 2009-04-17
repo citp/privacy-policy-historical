@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justsnipe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045416id_/http%3A//www.justsnipe.com/auctions/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsnipe.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417120237id_/http%3A//www.justsnipe.com/auctions/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at JustSnipe: We provide online auction sniping application.
 
