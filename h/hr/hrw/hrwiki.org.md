@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the hrwiki.org privacy policy that was archived on 2007-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071217185142id_/http%3A//www.hrwiki.org/index.php/HRWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrwiki.org privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417172501id_/http%3A//www.hrwiki.org/index.php/HRWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # HRWiki:Privacy policy - Homestar Runner Wiki
+
+The **Homestar Runner Wiki** needs your help in its **[2009 Spring Fundraising Drive](https://web.archive.org/index.php/HRWiki:2009_Spring_Fundraising_Drive "HRWiki:2009 Spring Fundraising Drive")**.  
+US$582.42 has been raised toward our goal of US$1,200.
 
 ### From Homestar Runner Wiki
 
