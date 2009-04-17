@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216112750id_/http%3A//www.newschannel10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417213355id_/http%3A//www.newschannel10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # KFDA - NewsChannel 10 / Amarillo, TX: newschannel10.com - This Web Site’s Privacy Policy
 
@@ -63,5 +63,3 @@ We use third-party advertising companies to serve ads when you visit this Web si
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
 _Effective date: July 1, 2004_
-
-[](http://www.addthis.com/bookmark.php)
