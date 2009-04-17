@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516060739id_/http%3A//www.carolwrightgifts.com/cwg_v2/cwg_layout_base2.cfm%3Fmid_sec_page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417172323id_/http%3A//www.carolwrightgifts.com/cwg_v2/cwg_layout_base2.cfm%3Fmid_sec_page%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Carol Wright Gifts - Online Shopping For Unique Gifts
+# Shop Carol Wright Gifts for As Seen on TV, Home, Garden and Apparel Products at Great Prices
 
 **Privacy Policy**                                                       Last Updated:  **December 19, 2006**
 
