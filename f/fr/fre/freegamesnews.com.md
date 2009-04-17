@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062535id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesnews.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417171741id_/http%3A//www.freegamesnews.com/en/%3Fpage_id%3D1816) for the most accurate reproduction.*
 
 # Privacy Policy - Walkthrough, comments and more Free Web Games at FreeGamesNews.com
 
@@ -36,9 +36,15 @@ Cookies help us create a speedy web experience by remembering your address and e
 
 We do not use cookies to track your movements through our site.
 
+Google, as a third party vendor, uses cookies to serve ads on this site.
+
+Google’s use of the DART cookie enables it to serve ads to our users based on their visit to FreeGamesNews and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 #### Third Party Advertising
 
-We use Adsense and other third-party advertising companies to serve ads when you visit FreeGamesNews.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use several third-party advertising companies to serve ads when you visit FreeGamesNews.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -52,4 +58,10 @@ FreeGamesNews.com makes no claims, promises or guarantees about the accuracy, co
 
 No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources.
 
-Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favouring by FreeGamesNews.com 
+Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favouring by FreeGamesNews.com
+
+#### Amendments to this Privacy Policy
+
+We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes at this URL. Any material changes to this Privacy Policy will be effective when posted.
+
+Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
