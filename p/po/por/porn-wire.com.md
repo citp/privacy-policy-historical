@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054228id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417032804id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
 
-# Porn-Wire :: Privacy Policy
+# Privacy Policy :: Porn-Wire
 
 [](http://www.porn-wire.com/index.php)
 
