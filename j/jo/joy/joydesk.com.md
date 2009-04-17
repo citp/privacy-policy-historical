@@ -1,169 +1,73 @@
-> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/com_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417052455id_/http%3A//www.joydesk.com/privacy-policy) for the most accurate reproduction.*
 
-# Joydesk.com
+# Joydesk
 
-|    
-Introduction   
-  
-IP Address   
-  
-Cookies   
-  
-Your Account   
-  
-Other Info.   
-  
-Personal Info.   
-  
-Aggregate Info.   
-  
-Legal Issues   
-  
-Other Websites' Policies   
-  
-Security   
-  
-About Children   
-  
-Control of your Info.   
-  
-Your Consent   
-  
-How to Contact Us   
-  
-|  | 
+This Joydesk Privacy Policy (this “Privacy Policy”) covers the treatment of personally identifiable information that Joydesk, LLC, a Washington limited liability company (“Joydesk”) collects when you use the Joydesk network of websites and/or our mobile services. This Privacy Policy does not apply to the practices of companies that Joydesk does not own or control, or to people that Joydesk does not employ or manage.
 
-|  |  **Privacy Statement for VirtualTek/Joydesk.com** **Introduction** ****
+## Information Collection
 
-* * *
-
-We know that your privacy is important to you, and we are committed to protecting your privacy. This statement provides our privacy policy for our website: [**_http://joydesk.com_**](http://joydesk.com/) and explains our online information gathering practices and the choices you can make regarding your personal information. Although our privacy policy may change, our commitment to protect your privacy will not.
-
-  
-**Information We Collect**
-
-* * *
-
-VirtualTek collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, e-mail address, or other contact information. On other occasions such as when you want to purchase our products online, we may request your credit card number to conclude the transaction. Our goal is to provide you with an opportunity to test and purchase our products and services while allowing you to control your privacy. 
-
-  * **IP Address** **  
-**
-
-* * *
-
-An Internet Protocol (IP) address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from our site, our servers log the current IP address. We use your IP address to help diagnose problems with our servers and to administer our website. We do not link IP addresses to anything personally identifiable. This means that while a user session will be tracked, the user will be anonymous. 
-  
-
-  * **Cookies** **  
-**
-
-* * *
-
-"Cookies" are pieces of data your browser stores on your computer's hard drive that contain information about your website preferences and website activity. We do not use cookies to retrieve personal information about you from your computer. Most web browsers automatically accept cookies, but you can usually change your browser to prevent the acceptance of cookies. If you elect to reject cookies you can still use our services on our website, but you may be limited in view and functionality. Our policy does not cover the use of cookies by any other companies we choose to have on our site. 
-  
-
-  * **Your Account** **  
-**
-
-* * *
-
-When you open an account with VirtualTek, we will ask you for your name, telephone number, industry, zip code, and country. If necessary, we use your contact information for help in processing an order you have placed. We may ask for demographic information and interest-based information when you create an account. However, whether you provide such information is purely optional. 
-
-We may from time to time, use this information to send you alerts about new products, services, or other promotions. We may also ask you to participate in a survey. You can at any time "opt-out" of receiving such communications by sending us an e-mail to the following e-mail address: 
-
-[_info@virtualtek.com_](mailto:info@virtualtek.com). 
-  
-
-  * **Other Information We Collect** **  
-**
-
-* * *
-
-When you purchase our products or services, we ask you for information such as your name, e-mail address, telephone number, and credit card number. We store and use this information so we can process your order. If necessary, we might use this information to contact you for help in processing the order. 
-
-Whenever you send us comments or feedback in e-mail or letter or if other users or third parties send us correspondence about your activities or postings on the website, we may collect and store such information. 
-
-  
-
-**Disclosure of Information**  
+  * Joydesk collects personally identifiable information when you register for a Joydesk account, when you use certain Joydesk products or services, when you visit Joydesk pages, and when you enter promotions or sweepstakes.
+  * Once you register with Joydesk and sign in to our services, you are not anonymous to us. You will also select an ID and password that you will use to login to the Joydesk services. For your protection, we recommend not using personal information, such as your name or mobile phone number. 
+  * Joydesk may also automatically receive and record information on our server logs from your browser including your IP address, Joydesk cookie information, and the page you requested. Joydesk uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about Joydesk and third party specials and new products. 
 
 
-  * **Personal Information** **  
-**
 
-* * *
+## Information Sharing and Disclosure
 
-Personal information includes your name, e-mail address, mailing address, method of payment information, or other data that identifies you as an individual. Your personal information is used by VirtualTek in order to provide you with free trial services or to process your purchase of our products and services. VirtualTek does not sell, trade, rent, or release your personal information to third parties. If we do so in the future, you will have the opportunity to "opt-out" beforehand. 
-  
+  * Joydesk will not sell or rent your personally identifiable information to anyone other than as specifically noted herein. Notwithstanding the foregoing, Joydesk may sell and/or transfer your personally identifiable information to an affiliate and to any successor-in-interest as a result of a sale of any part of Joydesk's business or upon the merger, reorganization, or consolidation of Joydesk with another entity on a basis that Joydesk is not the surviving entity. For the purposes of this paragraph, "affiliate" means any person directly, or indirectly through one or more intermediaries, that controls, is controlled by, or is under common control with Joydesk. The term "control," as used in the immediately preceding sentence, shall mean with respect to any person, the possession, directly or indirectly, of the power, through the exercise of voting rights, contractual rights, or otherwise, to direct or cause the direction of the management or policies of the controlled person. As used in this Privacy Policy, the term "person" includes any natural person, corporation, partnership, limited liability company, trust, unincorporated association or any other entity. 
+  * Joydesk will send personally identifiable information about you to other companies or people when: 
+    * We have your consent to share the information; 
+    * We need to send the information to companies who work on behalf of Joydesk to provide a product or service to you (unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); 
+    * We respond to subpoenas, court orders or legal process; or 
+    * We find that your actions violate the Joydesk Terms of Use, the Privacy Policy, or any of our usage guidelines for specific products or services. 
+  * Third Party Cookies 
+    * In the course of serving advertisements to users of our services, a third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-  * **Aggregate Information** **  
-**
 
-* * *
 
-VirtualTek may occasionally share aggregate data about our users, traffic patterns, sales, and other website information with partners, vendors, and reputable third parties. This data, however, does not contain any personally identifying information. For example, we don't disclose that you purchased a specific product, but we may share statistics on how many customers have purchased a specific product. 
-  
+## Cookies
 
-  * **Legal Issues** **  
-**
+  * Joydesk may, in its sole discretion, set and access Joydesk cookies on your computer and/or mobile device. 
+  * Joydesk allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer and/or mobile device. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Joydesk cookies. 
+  * Joydesk may, in its sole discretion, use web beacons (electronic images called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page or to access certain cookies) to access our cookies within our network of web sites and in connection with Joydesk products and services 
 
-* * *
 
-VirtualTek discloses personal information when required by law or in the good-faith belief that such action is necessary to: 
-    * Conform with applicable law or comply with a legal process served on VirtualTek or its website;
-    * Protect and defend the rights or property of VirtualTek, the website, or the website's users; or
-    * Act under exigent circumstances to protect the personal safety of our users or the public.
-  
 
-  * **Other Websites' Policies** **  
-**
+## Other Use of Your Information
 
-* * *
+  * Joydesk may use your personally identifiable information to send you information and updates via e-mail regarding your account with Joydesk and the services that Joydesk offers.
+  * Joydesk may use your personally identifiable information to send you information via e-mail regarding products and services offered by third parties, but only if you elect to receive such information.
 
-You might choose to leave our website via links to other websites, including those of our partners. VirtualTek is not responsible for the privacy policies or the content on those websites, nor is it responsible for the cookies those sites might deposit on your hard drive. 
-  
 
-**Security** **  
-**
 
-* * *
+## Use of Joydesk Services by Minors
 
-We incorporate industry standard practices to safeguard the confidentiality of any information you choose to share with us. After your information reaches VirtualTek, it is stored on a secure server, which means it resides behind a firewall and is not readily accessible from outside the company. At that point, your information is only readily accessible by our employees. All such employees sign a confidentiality and nondisclosure agreement, which provides legal confidentiality protections for our users.    
-**About Children** **  
-**
+  * The Joydesk services are not directed to children under the age of 13. You must be at least 13 years of age to sign up or use the Joydesk services and each user who signs up or uses the Joydesk services represents to Joydesk that they are at least 13 years of age.
+  * The Joydesk services are available to people at least 13 years of age, but if you are between 13 and 18 years of age, you agree that you have received parental or guardian permission to provide personal information to the Joydesk services and to order and pay for any products or service through the Joydesk services. 
+  * Joydesk does not knowingly collect personal information of anyone under the age of 13. 
 
-* * *
 
-For their protection, children are not eligible to use our services. Because we are not a children's website, we do not provide most of the privacy measures that are so important for their protection on the Internet. Thus, we ask that minors do not submit any information to us without the express consent and participation of a parent or guardian.    
-**Control of Your Information** **  
-**
 
-* * *
+## Security
 
-If for some reason you want us to update or remove your personal information from our database, you may send your e-mail request to: [ _info@virtualtek.com_](mailto:info@virtualtek.com) or contact us using one of the methods listed below under How to Contact Us. However, please note that such information may never be completely removed from our database archives because we routinely back up our servers for disaster recovery purposes.    
-**Your Consent** **  
-**
+  * Joydesk follows generally accepted industry standards to protect all personal information sent to us, both during the transmission and once we receive it. No method of transmission over the internet or method of electronic storage is 100% secure, however. Therefore, while Joydesk strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+  * If you have question about security on Joydesk’s website, please send us an e-mail at support@joydesk.com.
 
-* * *
 
-By using our website, you are consenting to the collection, storage, and dissemination of data as described above. Any modification to our policy will be posted in this statement so you can readily review our most current policy. VirtualTek also reserves the right to e-mail you regarding changes to our privacy policy or any other matters that may be necessary for the administration of our website.   
-**How to Contact Us** **  
-**
 
-* * *
+## Your Account
 
-We are interested in your comments and feedback regarding our privacy policy. If you have any questions or comments about this policy or our website, please contact: 
+  * Joydesk gives you the ability to edit your account information and message delivery preferences by contacting support@Joydesk.com including whether to send your messages to your inbox or to your mobile phone. 
+  * Certain communications from Joydesk (whether delivered via email), such as service announcements, administrative messages, and any Joydesk newsletters, are considered part of the Joydesk membership and you will automatically receive them. In addition, by collecting your cell phone and email address, Joydesk may from time-to-time send you additional promotional messages or messages from third party providers. An opportunity to opt-out of these messages will always be provided and all messages will be labeled as advertisements accordingly. 
+  * You may, however, delete your Joydesk account by contacting support@Joydesk.com. You will need the following information to complete the process: Joydesk User ID, password, and email address. 
 
-_Webmaster or Content Lead  
-VirtualTek Corporation  
-Ridgewood Corporate Center  
-Building E, Suite 201  
-170 120th Ave. NE.  
-Bellevue, WA 98005  
-Website: [_webmaster@virtualtek.com_](mailto:webmaster@virtualtek.com)  
-Content: [_content@virtualtek.com_](mailto:content@virtualtek.com)  
-_
 
-| [Home](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/index.html) | [Product Tour](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/tour/index.html) | [Support](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/support.html) | [Contact](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/contact.html) | [Site Map](https://web.archive.org/web/20010405171329id_/http%3A//www.joydesk.com/map.html) |  
-Copyright © 2000 VirtualTek Corporation. All rights reserved.   
----|---
+
+## Your Acceptance of this Policy
+
+  * By using the Joydesk services, you are agreeing to the terms of this Privacy Policy and the Joydesk Terms of Use.
+  * Any dispute as to these terms shall be governed by the laws of the State of Washington and subject to the courts of law located in the State of Washington.
+
+
+
+Joydesk may amend this policy from time to time, at our discretion. If we make any substantial changes in the way we use your personal information we will notify you by posting the changes here on these Privacy Policy pages. If you have more questions or comments, please send your feedback via e-mail by support@Joydesk.com.
