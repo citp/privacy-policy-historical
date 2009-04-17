@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423122820id_/http%3A//support.nextdoorgirlslive.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417063801id_/http%3A//support.nextdoorgirlslive.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
 
-# Amateur Babes with Webcams
+# 
 
 **SPACASH  
 Privacy Policy  
