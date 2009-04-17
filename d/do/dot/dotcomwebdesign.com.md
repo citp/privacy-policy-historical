@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035336id_/http%3A//www.dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417181813id_/http%3A//www.dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
 
-# Dotcomwebdesign.com - Free Website Templates, Web Design Sydney Australia - Quality, Affordable & Cheap Webdesign - Privacy Policy
+# Dotcomwebdesign.com - Web Design Sydney Australia - Free Website Templates, Quality, Affordable & Cheap Webdesign - Privacy Policy
 
 If you require more information or maybe you have some questions about our privacy policy, please do feel free to contact us by email at [privacy@dotcomwebdesign.com](mailto:privacy@dotcomwebdesign.com)
 
@@ -15,6 +15,11 @@ Like many other Web sites, [http://www.dotcomwebdesign.com](http://www.dotcomweb
 [http://www.dotcomwebdesign.com](http://www.dotcomwebdesign.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense & Bidvertiser. 
+
+Google, as a third party vendor, uses cookies to serve ads on dotcomwebdesign.   
+Google's use of the DART cookie enables it to serve ads to our users based on your visit to our site and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
 
 These third-party ad servers or ad networks use technology for their advertisements and links that appear on [http://www.dotcomwebdesign.com](http://www.dotcomwebdesign.com/) that are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
