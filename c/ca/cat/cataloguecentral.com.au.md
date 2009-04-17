@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216112509id_/http%3A//www.cataloguecentral.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417232653id_/http%3A//www.cataloguecentral.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy | Catalogue Central
 
@@ -20,4 +20,4 @@ If you send an e-mail message that includes personally identifiable information,
 
 We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit. The cookies we use do not collect personally identifiable information, and we do not use them to determine your identity.
 
-If you have any questions about our privacy policy, you may contact our webmaster via our [feedback form](https://web.archive.org/web/20081216112509id_/http%3A//www.cataloguecentral.com.au/feedback.asp).
+If you have any questions about our privacy policy, you may contact our webmaster via our [feedback form](https://web.archive.org/web/20090417232653id_/http%3A//www.cataloguecentral.com.au/feedback.asp).
