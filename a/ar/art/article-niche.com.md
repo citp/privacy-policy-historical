@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063356id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417165043id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
 
 # Comprehensive Article Niche Directory | Privacy
 
@@ -7,7 +7,7 @@ Article Niche Directory Privacy Policy |
   
 * * *  
   
-[Last Updated **December 2008** ] 
+[Last Updated **April 2009** ] 
 
 **The basics of our privacy statement**
 
@@ -66,6 +66,13 @@ The resources that can be accessed through Article Niche Directory are maintaine
 Article Niche Directory (a) does not make any warranty, express or implied, with respect to the use of the information provided or made available; (b) does not guarantee the accuracy, completeness, usefulness or adequacy of any information accessed via Article Niche Directory; and, (c) is not responsible for any errors or omissions in the information accessed via Article Niche Directory or for the results obtained from the use of such information.
 
 Any specific reference by name, trade name, trademark, or otherwise to any party does not necessarily constitute or imply its endorsement of the use of such information by Article Niche Directory.
+
+**Third-party advertising**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Article Niche Directory**  
 185 Madison Avenue  
