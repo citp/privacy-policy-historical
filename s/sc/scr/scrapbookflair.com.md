@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbookflair.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151924id_/http%3A//www.scrapbookflair.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbookflair.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417221306id_/http%3A//www.scrapbookflair.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scrapbook Flair Privacy - Scrapbook Sharing, Free Scrapbook Software, Templates, Backgrounds & Embellishments
 
