@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218164015id_/http%3A//voicestar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417211739id_/http%3A//www.voicestar.com/privacy.htm) for the most accurate reproduction.*
 
 # Marchex Voice Services - Privacy
 
