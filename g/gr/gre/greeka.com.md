@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230065429id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417081106id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Greeka.com: Privacy Policy
 
@@ -10,4 +10,7 @@ How secure is my information?
 Any personal information submitted to Greeka.com Website is held in the strictest confidence. This information is securely stored and access is restricted to Greeka's authorised personnel, ensuring that your personal information is protected and safeguarded. None personal information will be shared or sold to any other party. We will not make your personal details available to companies other than Greeka.com for marketing purposes.  
   
 Keeping in touch with you  
-We want to keep you up to date with developments at the Greeka Website. We may also use your details to send you information about the services we offer on the Website or elsewhere or for research purposes. You will be able to remove your email address from our mailing list at any time using the links, or other options, in the emails we send you. We usualy send one newletter every 4 months. You can unsubscribe from <http://www.greeka.com/newsletter.htm>
+We want to keep you up to date with developments at the Greeka Website. We may also use your details to send you information about the services we offer on the Website or elsewhere or for research purposes. You will be able to remove your email address from our mailing list at any time using the links, or other options, in the emails we send you. We usualy send one newletter every 4 months. 
+
+How can I unsubscibe?  
+You can unsubscribe from [http://www.greeka.com/newsletter.htm](http://www.mailing.gr/unsubscribe.php)
