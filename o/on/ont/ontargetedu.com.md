@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontargetedu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104227id_/http%3A//www.ontargetedu.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontargetedu.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417052236id_/http%3A//www.ontargetedu.com/privacy-policy.html) for the most accurate reproduction.*
 
 # On Target Edu
 
@@ -10,7 +10,7 @@ Contact Information is aggregated to create reports on overall education industr
 
 All Online Schools may share your Contact Information with our service providers who use the information for purposes related to the delivery of marketing and communication materials to our visitors. Every communication we send has links allowing the recipient to unsubscribe or change his or her preferences.
 
-If you receive communications from us or our partners and would like to opt-out of such communications, or would like to opt-out of having your Contact Information shared with a third party business partner, please send us an email at Unsubscribe@allonlineschools.com. Please note that use of your Contact Information by a school or third party is governed by such school's or third party's privacy policy and you will need to separately opt out from that third party's use of such information.
+If you receive communications from us or our partners and would like to opt-out of such communications, or would like to opt-out of having your Contact Information shared with a third party business partner, please send us an email at remove@arrowprecisionmedia.com. Please note that use of your Contact Information by a school or third party is governed by such school's or third party's privacy policy and you will need to separately opt out from that third party's use of such information.
 
 To enhance your experience with our Website, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information unless you choose to provide this information to us. In general, All Online Schools uses cookies (small files on your computer) to track Website usage statistics about this Website, to understand where visitors find out about our Website, and to assist in entering data when requesting school information.
 
