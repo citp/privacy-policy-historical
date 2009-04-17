@@ -1,62 +1,85 @@
-> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012210729id_/http%3A//pokerheaven.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417030649id_/http%3A//www.pokerheaven.com/site/siteinfo/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy policy at Poker Heaven
 
-### Privacy
+### Privacy policy
 
-Our Privacy Agreement  
-What is SSL?  
-Who are Webdollar?  
-Do you store my credit card details?  
-Do you store any other of my details?  
-Do you pass my information on to any other companies?  
-How can I contact you with regards to my details?
+At Poker Heaven, we are committed to protecting the privacy of our customers. Our Privacy Policy shows how Poker Heaven uses and safeguards your personal information. We are committed to ensuring that we follow all relevant data protection legislation and we have a legal duty to protect any information we collect from you.
 
-### The Agreement
+We commit not to share, sell, lease or lend your personal data or details regarding your winnings/losses with any third party unless it is necessary to do so for processing fund transactions and/or such information disclosure is required by law. The data is kept strictly confidential and the information is stored in a secure environment.
 
-Poker Heaven is committed to providing you with the safest online gambling experience possible.
+We use a third party provider for payment processing. Although we take no responsibility for the privacy policy of this company, we can ensure our customers that we always choose reliable and professional partners.
 
-We aim to keep your banking details and transaction history secure at all times and rigorously test and develop up to date encryption software.
+We may also share customers’ personal information with our affiliate partners, but only if the customer signed up to Poker Heaven through that partner and has thereby approved sharing such information. 
 
-When we transmit highly confidential information (such as a credit card number) over the internet, we protect it through the use of encryption, namely the Secure Socket Layer (SSL) protocol.
+When you use our poker client services, send us emails or contact us over live chat we collect and save the following personal information:
 
-### What is SSL?
-
-SSL is a method for providing secure communications across the internet. It is designed to prevent digital eavesdropping, tampering or message forgery and is amongst the safest ways for the transmittal of details between you and Webdollar.
-
-### Who are Webdollar?
-
-Webdollar provide an e-wallet for the safe transmittal and storage of your money. They have processed millions of online transactions since they began in 1997 and are amongst the most secure, reliable payment solutions available.
-
-For full details on webdollar please go to their site [www.webdollar.com](http://www.webdollar.com/ "Opens in new window").
-
-### Do you store my Credit Card details?
-
-It is only necessary to enter your debit/credit card details once. After that your debit/credit card details will only be used when you make a deposit or withdrawal and are then transmitted between one of the UK’s leading e-commerce payment companies who in turn have secure encrypted links between themselves and all the major UK banks.  
+  
 
 
-Our employees DO NOT have access to your full debit/credit card details.
+  * First name and surname
 
-### Do you store any other of my details?
+  * Date of birth
 
-We are serious about protecting your privacy. In respect of your personal information (name, email address, telephone number, etc), this is stored by us on our servers in Gibraltar for the sole purpose of providing services to you, as requested by you.
+  * Sex
 
-We use a variety of security technologies to help protect your personal information from unauthorized use, access or disclosure.
+  * Full address
 
-### Do you pass my information on to any other companies?
+  * Phone/mobile number
 
-We do not sell or lease any of our customers' details to third parties. We may use your information to inform you of gaming promotions which we may be running if you have agreed to subscribe to receive such e-mails You are entitled to unsubscribe at any time by following the specific instructions in the e-mail you receive.
+  * Payment details
 
-We may provide your details to companies who provide services on our behalf, such as other gaming services, software provision, processing transactions and the like. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
+  * IP address
 
-In rare circumstances, we may be obliged to disclose your personal information if required to do so by law. If you have any queries or concerns regarding St Minver's commitment to protecting your privacy, please email [pokerheaven@pokerresponse.com](mailto:pokerheaven@pokerresponse).
+  * E-mail address
 
-### How can I contact you with regards to my details?
+  * Cookies
 
-Information on what (if any) data is held about you can be obtained by contacting us as follows –   
-The Data Protection Officer,   
-St Minver Limited,   
-Suite 812, Europort, PO Box 562,   
-Gibraltar.
+  * Email history
 
-In accordance with applicable Gibraltar and UK Data Protection laws we reserve the right to charge a fee for providing such information.
+
+
+
+Most of the personal information is supplied by the customer on a voluntary basis. Some information is gathered automatically by Poker Heaven, such as statistical data on the customer’s use of our website. These statistics are used to improve the website.
+
+Poker Heaven will use your personal information for the following purposes:
+
+  
+
+
+  * Verifying your identity and age. To use Poker Heavens services you need to be at least 18 years of age or at least the minimum permitted age in your legal jurisdiction if the minimum age restriction in your jurisdiction is greater than 18 years.
+
+  * IP address tracking against your user identification in order to prevent fraudulent activities.
+
+  * Email correspondence.
+
+  * Answering customer service queries.
+
+  * Customer profiling.
+
+  * Recording transactions on your account.
+
+  * Managing your account.
+
+  * Administering all fund transactions (processed by third party).
+
+  * Improvement information
+
+  * including surveys.
+
+  * Statistical analysis and market research.
+
+  * Communicating promotions, special offers or other targeted communications by email or phone.
+
+
+
+
+As a customer we will send you e-mails or contact you by phone informing you of special promotions or other information relating to our poker services. If you wish to unsubscribe from emails you can either change your account settings in the poker client under “profile” or click “unsubscribe” in the bottom of any newsletter email sent to you.
+
+Our Privacy Policy should be read together with our terms and conditions. When you click “I agree” you have given your consent to the processing of your personal data in accordance with the terms in our Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of our services constitutes your agreement to this Privacy Policy and any updates.
+
+If you have any questions in regards to how we store your details, please don’t hesitate to contact us at [support@pokerheaven.com](mailto:support@pokerheaven.com). In accordance with applicable Gibraltar and UK Data Protection laws we reserve the right to charge a fee for providing such information.
+
+Publish date: 20th of October 2008.
+
+If you have any questions regarding our privacy policy please don’t hesitate to contact us at [support@pokerheaven.com.](mailto:support@pokerheaven.com)
