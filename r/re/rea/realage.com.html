@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220213132id_/http%3A//www.realage.com/corporate/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2009-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417094410id_/http%3A//www.realage.com/corporate/privacy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="Pragma" content="no-cache">	<!-- this one is for firefox-->
@@ -70,6 +70,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
 <script type="text/javascript" language="JavaScript" src="../App_Scripts/sessvars.js"></script>
 <script type="text/javascript" language="JavaScript" src="../App_Scripts/AjaxTracking.js"></script>
 <script type="text/javascript" language="JavaScript" src="../emailValidator/ajax.js"></script>
+<script type="text/javascript" language="JavaScript" src="../App_Scripts/medEncyclopedia.js"></script>
 <script language="javascript" type="text/javascript">
 
 function checkUpperMValue()
@@ -88,11 +89,11 @@ function upperSearchFormSubmit()
 
 function checkLowerSearchBox()
 {
-    if (document.getElementById('LowerSearchForm')){
+    document.getElementById('query').value = document.getElementById('query').value.replace(/[^A-Za-z0-9_ \-]/g, "");
+    if (document.getElementById('LowerSearchForm')) {
         prefillLowerSearchText();
     }
-}		  
-
+}
 </script>
 
 
@@ -583,4 +584,4 @@ function checkLowerSearchBox()
 			</tr>
 		</tbody></table>
 	
-</body></html>
+<script type="text/javascript">function CreateXmlHttp() {   var XmlHttp = null;   try {	    XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');   }    catch (e) {	    try {		    XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');	    } 	    catch (e) {		    try {			    XmlHttp = new XMLHttpRequest();		    }		    catch (e) {			    return null;		    }	    }   }   return XmlHttp;}var xmlTest = CreateXmlHttp();if (xmlTest == null || !(document.getElementById)) {	alert('For the best experience using RealAge, we recommend that you upgrade to the latest version of Safari, Mozilla, Firefox, or Netscape (Mac or PC), or Internet Explorer for PC.');}</script></body></html>
