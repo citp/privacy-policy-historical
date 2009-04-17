@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tree.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163359id_/http%3A//www.tree.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tree.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417064729id_/http%3A//www.tree.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Tree.com Privacy Policy
 
-[home](https://web.archive.org/web/20081216163359id_/http%3A//www.tree.com/) > privacy policy
+[home](https://web.archive.org/web/20090417064729id_/http%3A//www.tree.com/) > privacy policy
 
 **Tree.com, Inc. Privacy Policy for Consumers  
 Your Privacy Rights
