@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229035119id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418005943id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
 
-# Black & Decker - Privacy
+# Black & Decker Power Tools
 
-| [](http://www.blackanddecker.com/CustomerCenter/Default.aspx)  
+| [](http://blackanddecker.com/CustomerCenter/Default.aspx)  
 ---  
- [FAQs](http://www.blackanddecker.com/CustomerCenter/FAQ.aspx)  
- [Contact Us](http://www.blackanddecker.com/CustomerCenter/Default.aspx)  
- [Safety Notices](http://www.blackanddecker.com/CustomerCenter/Recalls.aspx)  
- [Warranty Information](http://www.blackanddecker.com/CustomerCenter/Warranty.aspx)  
- [Product Registration](http://www.blackanddecker.com/ProductRegistration/Product-Registration.aspx)  
- [Service Center Locator](http://www.blackanddecker.com/CustomerCenter/ServiceCenterLocator2.aspx)  
- [Product Ideas](http://www.blackanddecker.com/CustomerCenter/Product-Ideas.aspx)  
- [Privacy Policy](http://www.blackanddecker.com/CustomerCenter/Privacy.aspx)  
- [Product Guide](http://www.blackanddecker.com/Product-Guide.aspx)  
- [Product Videos](http://www.blackanddecker.com//Product-Videos.aspx)  
+ [FAQs](http://blackanddecker.com/CustomerCenter/FAQ.aspx)  
+ [Contact Us](http://blackanddecker.com/CustomerCenter/Default.aspx)  
+ [Safety Notices](http://blackanddecker.com/CustomerCenter/Recalls.aspx)  
+ [Warranty Information](http://blackanddecker.com/CustomerCenter/Warranty.aspx)  
+ [Product Registration](http://blackanddecker.com/ProductRegistration/Product-Registration.aspx)  
+ [Service Center Locator](http://blackanddecker.com/CustomerCenter/ServiceCenterLocator2.aspx)  
+ [Product Ideas](http://blackanddecker.com/CustomerCenter/Product-Ideas.aspx)  
+ [Privacy Policy](http://blackanddecker.com/CustomerCenter/Privacy.aspx)  
+ [Product Guide](http://blackanddecker.com/Product-Guide.aspx)  
+ [Product Videos](http://blackanddecker.com//Product-Videos.aspx)  
   
 | 
 
