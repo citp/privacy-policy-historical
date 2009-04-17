@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lala.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044750id_/http%3A//www.lala.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lala.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417114323id_/http%3A//www.lala.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Listen free on Lala
 
