@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006130931id_/http%3A//www.comscore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comscore.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417180050id_/http%3A//www.comscore.com/privacy) for the most accurate reproduction.*
 
 # comScore Privacy Policy
 
