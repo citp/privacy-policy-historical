@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165701id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417150842id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
 
 # Go LSN - Privacy Policy - Local Sales Network!
 
@@ -13,11 +13,12 @@ This policy will let you know:
   3. How your information is used
   4. Who is collecting your information
   5. With whom your information may be shared
-  6. What choices are available to you regarding collection, use, and distribution of your information
-  7. How you can access, update or delete your information
-  8. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  9. How Local Sales Network protects children's privacy
-  10. What else you should know about your online privacy
+  6. 3rd Party Advertisers
+  7. What choices are available to you regarding collection, use, and distribution of your information
+  8. How you can access, update or delete your information
+  9. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
+  10. How Local Sales Network protects children's privacy
+  11. What else you should know about your online privacy
 
 
 
@@ -68,6 +69,14 @@ Back to Top
 As a general rule, Local Sales Network will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. 
 
 Local Sales Network may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the Local Sales Network or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the Local Sales Network, other users of the Local Sales Network, or anyone else that could be harmed by such activities. Local Sales Network may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+
+Back to Top
+
+* * *
+
+**3rd Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://support.golsn.com/). 
 
 Back to Top
 
