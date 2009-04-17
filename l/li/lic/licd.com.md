@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063505id_/http%3A//www.licd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417045113id_/http%3A//www.licd.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Least I Could Do » Privacy Policy
+# Least I Could Do: the Webcomic » Privacy Policy
 
 ## Privacy Policy
 
