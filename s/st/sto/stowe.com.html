@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stowe.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217081151id_/http%3A//www.stowe.com/home/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stowe.com privacy policy that was archived on 2009-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417045244id_/http%3A//stowe.com/home/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,6 +12,7 @@
 <script type="text/javascript" src="/_common/js/common.js"></script>
 <script type="text/javascript" src="/_common/js/swfobject.js"></script>
 <script type="text/javascript" src="/includes/form_validation_opt.js"></script>
+
 
 
 
@@ -122,7 +123,6 @@
 </li>
 </ul>
 
-<!-- Section:  -->
 
 <!-- Removed = 4.2.08 by bc 
 <div class="find_yours_promo">
@@ -174,7 +174,12 @@
 	<input name="datesearch" value="1" type="hidden"> 
 	<input name="typesearch" value="1" type="hidden"> 
 	<input name="amenitysearch" value="1" type="hidden"> 
-	<input name="sortby" value="R_ASC" type="hidden"> 
+	<input name="sortby" value="R_ASC" type="hidden">
+	
+	<div id="hidden-values">
+	
+	</div>
+	
 	<table id="widget_form" cellpadding="0">
 						
 		<tbody><tr>
@@ -190,9 +195,9 @@
 		
 		<tr>
 			<td colspan="2" class="dates pad">Arrive<br>
-			<input class="formText" style="width:60px" name="arrivaldate" type="text" value="12/17/2008"><a href="#" onclick="getCalendar('arrivaldate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar" title="Calendar"></a></td>
+			<input class="formText" style="width:60px" name="arrivaldate" type="text" value="04/17/2009"><a href="#" onclick="getCalendar('arrivaldate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar" title="Calendar"></a></td>
 			<td class="dates">Depart<br>
-			<input class="formText" style="width:60px" name="departuredate" type="text" value="12/22/2008"><a href="#" onclick="getCalendar('departuredate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar"></a></td>
+			<input class="formText" style="width:60px" name="departuredate" type="text" value="04/22/2009"><a href="#" onclick="getCalendar('departuredate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar"></a></td>
 		</tr>
 		<tr>
 			<td class="drops pad">Adults<br>
@@ -230,6 +235,7 @@
 			<input type="hidden" name="depart" value="">
 			<input type="hidden" name="adult" value="">
 			<input type="hidden" name="child" value="">
+			
 			<!-- Synxis Values for SML -->
 			<input type="image" src="/_common/img/button_submit.png" alt="Submit" title="Submit"></p></td>
 		</tr>
@@ -268,11 +274,25 @@
 				document.inntopia.depart.value = document.inntopia.departuredate.value;
 				document.inntopia.adult.value = document.inntopia.adultcount.options[document.inntopia.adultcount.selectedIndex].value;
 				document.inntopia.child.value = document.inntopia.childcount.options[document.inntopia.childcount.selectedIndex].value;
+			
+				// insert campaign Tracking
+				hiddenFormFields = "<input type='hidden' name='utm_source' value='stowe.com'/>";
+				hiddenFormFields += "<input type='hidden' name='utm_medium' value='media'/>";
+				hiddenFormFields += "<input type='hidden' name='utm_content' value='accom_listing_hotel_resource'/>";
+				hiddenFormFields += "<input type='hidden' name='utm_campaign' value='local'/>";								 
+				document.getElementById('hidden-values').innerHTML = hiddenFormFields;
+			
 			} else if (lodge == "INN") {
 				document.inntopia.salesid.value = 985; // Inn at the Mountain
+				
+				// clean fields only to be sent to synxis
+				document.getElementById('hidden-values').innerHTML = "";
 			} else {
 				document.inntopia.action = "http://www.inntopia.com/reserve/advancedsearch.html";
 				document.inntopia.salesid.value = 80002; // SAA
+				
+				// clean fields only to be sent to synxis
+				document.getElementById('hidden-values').innerHTML = "";				
 			}
 			return true;
 		}
@@ -310,7 +330,8 @@
 	lw_FieldNames["adultcount"] = "Adults";
 	lw_FieldNames["childcount"] = "Kids";
 
-</script>			<!--form action="/cgi-bin/bulkmail.cgi" method="post" name="listForm" id="listForm" onSubmit="this.email.regex=reEmail;" -->
+</script>			
+			<!--form action="/cgi-bin/bulkmail.cgi" method="post" name="listForm" id="listForm" onSubmit="this.email.regex=reEmail;" -->
 <form action="/press_room/mailing_list.php" method="post" name="listForm" id="listForm" onsubmit="this.email.regex=reEmail; return verify(this);">
 <input type="hidden" name="MailList[]" value="1">
 <div id="email_wrapper">
@@ -432,13 +453,14 @@ function PromoLinks(tabs){
 		
 		<div class="clear"></div>
 		<ul id="credits">
-			<li>©2007-2008 - Stowe Mountain Resort  |</li>
+			<li>©2007-2009 - Stowe Mountain Resort  |</li>
 			 <li><a href="http://www.propellermediaworks.com" title="Propeller Media Works - Website Design, Application Development, Web Marketing">Website Design By Propeller</a></li>
 		</ul>
 		
 	</div>
 	
 <!-- page end -->
+
 
 
 </body></html>
