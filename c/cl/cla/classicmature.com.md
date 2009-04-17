@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216125509id_/http%3A//www.classicmature.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043130id_/http%3A//www.classicmature.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
