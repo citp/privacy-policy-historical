@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133626id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417042030id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Baby Names, Baby Boy Names, Baby Girl Names, Baby Name Meanings
 
@@ -67,4 +67,10 @@ This website may contain links to other sites. Please be aware that we, Baby Nam
 
 **Tell Us What You Think**
 
-Baby Name Network welcomes your questions and comments about privacy. Please e-mail us at [help@babynamenetwork.com](mailto:help@babynamenetwork.com).
+Baby Name Network welcomes your questions and comments about privacy. Please e-mail us at [help@babynamenetwork.com](mailto:help@babynamenetwork.com). 
+
+Custom Search 
+
+   
+---  
+ 
