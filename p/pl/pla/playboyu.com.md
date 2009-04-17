@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playboyu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103412id_/http%3A//www.playboyu.com/pbu_public/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboyu.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043949id_/http%3A//www.playboyu.com/pbu_public/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
-# Playboy U
+# Playboy U - Party Schools - Spring Break - Pictures
 
 **PLAYBOY U PRIVACY POLICY**
 
@@ -80,7 +80,7 @@ Customer Service
 Playboy.com, Inc.  
 Playboy U  
 680 North Lake Shore Drive  
-Chicago, IL 60611 
+Chicago, IL 60611
 
 **Can I update/correct my information?**
 
@@ -95,7 +95,7 @@ To learn more about social networking safety tips, visit the links below:
 <http://onguardonline.gov/socialnetworking.html>  
 <http://onguardonline.gov/socialnetworking_youth.html>
 
-© 2007 Playboy.com All rights reserved. 
+© 2007 Playboy.com All rights reserved.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
