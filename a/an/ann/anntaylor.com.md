@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anntaylor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170133id_/http%3A//anntaylor.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylor.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417145937id_/http%3A//www.anntaylor.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # ANN TAYLOR ONLINE STORE: Privacy and Security
 
@@ -44,7 +44,6 @@ By Email: | [clientservices@ANNTAYLOR.COM](mailto:clientservices@anntaylor.com)
 By Phone: | 1 800 DIAL ANN  
 Fax: | 1-866-2FAX-ANN  
 By Mail: | ANN TAYLOR CLIENT SERVICES  
-100 ANN TAYLOR DRIVE  
 P.O. BOX 571650  
 TAYLORSVILLE, UT 84157-1650  
   
@@ -86,7 +85,6 @@ By Email: | [clientservices@ANNTAYLOR.COM](mailto:clientservices@anntaylor.com)
 By Phone: | 1 800 DIAL ANN  
 Fax: | 1-866-2FAX-ANN  
 By Mail: | ANN TAYLOR CLIENT SERVICES  
-100 ANN TAYLOR DRIVE  
 P.O. BOX 571650  
 TAYLORSVILLE, UT 84157-1650  
   
