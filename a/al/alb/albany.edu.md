@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232541id_/http%3A//www.albany.edu/its/policies/3183.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417082810id_/http%3A//www.albany.edu/its/policies/3183.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
