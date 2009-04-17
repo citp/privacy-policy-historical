@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054736id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417082041id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera: Privacy Statement
 
@@ -124,7 +124,7 @@ Opera Software provides interactive environments on the Internet to enable membe
 
 My.Opera.com provide users the opportunity to opt-out of receiving communications from Opera Software and its partners at the point where information is requested about the visitor. Opera Software gives users the following options for removing their information from our database in order to not receive future communications:
 
-  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com)
+  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com) list-admin[at]opera.com
   * Visitors can visit the following URL: [list.opera.com](http://list.opera.com/)
   * Visitors can send mail to the following postal address: 
     * Opera Software ASA
@@ -239,7 +239,7 @@ Opera.com, Opera.no, and OperaSoftware.com contain links to other sites. Opera S
 
 Opera.com, Opera.no, and OperaSoftware.com provide users the opportunity to opt-out of receiving communications from Opera Software and its partners at the point where information is requested about the visitor. Opera Software gives users the following options for removing their information from our database in order to not receive future communications:
 
-  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com)
+  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com) list-admin[at]opera.com
   * Visitors can visit the following URL: [list.opera.com](http://list.opera.com/)
   * Visitors can send mail to the postal address listed at the bottom of this page.
   * Visitors can call the following telephone number: +47 24 16 40 00
