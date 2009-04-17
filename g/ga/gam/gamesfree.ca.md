@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045211id_/http%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417070104id_/http%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
 
 # GamesFree.ca
-
-This website require Flash 9.
 
 ## Privacy Policy
 
@@ -50,4 +48,4 @@ For questions or concerns regarding the use of personal information you submit t
 
 | 
 
-[](http://apps.facebook.com/gamesfree/)
+[](http://www.megflowers.com/)
