@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162915id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417040416id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | NetBenefit
 
