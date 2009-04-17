@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the bsesdelhi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsesdelhi.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::BSES Delhi::
 
 |  |   
 ---|---  
    
-  |  |  | [](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)[FAQs](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/FAQMain.asp)[](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
-  |  |   | [Feedback](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/feedback.asp)  
-  |  |   | [High Power Theft Prone Areas](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/high_loss_dt.asp)[](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/FAQMain.asp)  
-  |  |   | [Meter replacement ](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/Vendor.asp)  
+  |  |  | [](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)[FAQs](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/FAQMain.asp)[](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
+  |  |   | [Feedback](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/feedback.asp)  
+  |  |   | [High Power Theft Prone Areas](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/high_loss_dt.asp)[](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/FAQMain.asp)  
+  |  |   | [Meter replacement ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/Vendor.asp)  
   |  |   |    
-  |  |   | [Applause](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/applause.asp)  
-  |  |   | [Initiative to Train Electricians](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/TrainingElectrician/TrainingElectricians.asp)  
-  |  |   | [Print Duplicate Bill ](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/Duplicate_Bill.asp)  
+  |  |   | [Applause](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/applause.asp)  
+  |  |   | [Initiative to Train Electricians](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/TrainingElectrician/TrainingElectricians.asp)  
+  |  |   | [Print Duplicate Bill ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/Duplicate_Bill.asp)  
   |   |   |    
   |  |   |    
-  |  |   | [Regulatory](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
-  |  |   | [Delhi subsidy scheme](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/PublicAwareness/Delhi_subsidy_scheme.asp)  
-  |  |   | [Multi Year Tariff ](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/multiyeartariff.asp)  
-  |  |   | [Power Procurement Tender ](https://web.archive.org/web/20081216110732id_/http%3A//www.bsesdelhi.com/power-tender.asp)  
+  |  |   | [Regulatory](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
+  |  |   | [Delhi subsidy scheme](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/PublicAwareness/Delhi_subsidy_scheme.asp)  
+  |  |   | [Power Procurement Tender ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/power-tender.asp)  
   |   |  |    
   |  | Privancy Policy   
 ---  
