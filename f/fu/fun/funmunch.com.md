@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015758id_/http%3A//funmunch.com/info/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417063657id_/http%3A//www.funmunch.com/info/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Free Ecards, Free Greetings, free egreetings, flash ecards, free e-cards
 
