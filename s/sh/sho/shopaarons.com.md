@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617024057id_/http%3A//www.shopaarons.com/sa/Default.aspx%3Ftabid%3D79%26ctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417053149id_/http%3A//www.shopaarons.com/sa/Default.aspx%3Ftabid%3D291%26ctl%3DPrivacy) for the most accurate reproduction.*
 
-# ShopAarons.com > Home
+# Welcome to ShopAarons.com
 
 **PRIVACY STATEMENT**
 
