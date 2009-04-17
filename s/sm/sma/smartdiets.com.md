@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdiets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054535id_/http%3A//www.smartdiets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdiets.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417031751id_/http%3A//www.smartdiets.com/privacy.html) for the most accurate reproduction.*
 
 # SmartDiets.com - Privacy Policy
 
@@ -40,4 +40,4 @@ Third party website owners who register as our webmaster affiliates ("Affiliates
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy in its entirety.  We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time.  All Privacy Policy changes will take effect immediately upon their posting on the Website.  Please check this page periodically for any changes.  Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
 
-If you have any questions about this Privacy Policy or the Website, please contact us at [http://cs.SmartDiets.com](http://cs.smartdiets.com/), or in writing at SmartDiets.com 300 Hylan Dr. #166, Rochester, NY 14626.
+If you have any questions about this Privacy Policy or the Website, please contact us at [http://cs.SmartDiets.com](http://cs.smartdiets.com/), or in writing at SmartDiets.com 1225 Jefferson Rd - 1st Floor, Rochester, NY 14623.
