@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081334id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417045455id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
 
 # Las Vegas Hotels and Casinos - Station Casinos, Inc - Las Vegas
 
@@ -27,6 +27,10 @@ An IP address is a number that is automatically assigned to your computer every 
 We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information is generally processed and stored in the United States, in which data protection laws are not as comprehensive as in the European Union.
 
 The gift certificate, e-mail community, survey and other such non-reservations information is used only for the purpose for which the information was collected and is not used for direct marketing or shared with other companies. The personal information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. If you cancel your reservation, the information is stored for record-keeping purposes only and is not accessed again. After completing your stay at a Station Casinos hotel or resort, the information you provide may be used for direct marketing by a Station Casinos hotel or resort, or Green Valley Ranch Resort. Station Casinos may use the services of a third party mail house for the sole purpose of mailing materials.
+
+### Employment Opportunities
+
+When you submit an application or a profile for potential employment, you authorize Station Casinos to transmit and/or store your information for future consideration. The information collected will be accessible by Station Casinos employees or agents relevant to the recruitment process. The information collected will be used to (i) assess qualifications and personal experience to determine if it meets specific job requirements; and (ii) help us inform candidates of future openings at Station Casinos.
 
 ### Disclosure of Information and Opt-Out.
 
