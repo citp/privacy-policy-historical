@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutidzire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080906id_/http%3A//www.marutidzire.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutidzire.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417165743id_/http%3A//marutidzire.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # :: Maruti :: Swift Dzire ::
 
