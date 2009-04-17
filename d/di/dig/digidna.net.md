@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070207id_/http%3A//www.digidna.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417042755id_/http%3A//www.digidna.net/privacy_policy.php) for the most accurate reproduction.*
 
 # DigiDNA - Privacy policy & Security
 
