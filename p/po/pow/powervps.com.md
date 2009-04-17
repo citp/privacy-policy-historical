@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084516id_/http%3A//powervps.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powervps.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417054647id_/http%3A//www.powervps.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Premier provider of Windows and Linux VPS Hosting - utilizing Virtuozzo and Windows Virtual Server Technology
 
