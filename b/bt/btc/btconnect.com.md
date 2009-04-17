@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050251id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.hub%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dinline_customer_survey%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dbtb_hub%26siteArea%3Dbtb.hub%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418010108id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.hub%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dinline_customer_survey%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dbtb_hub%26siteArea%3Dbtb.hub%26type%3Dprivacy) for the most accurate reproduction.*
 
 # BT.com | Small & medium business
 
-  |  |   
+|    |  |   
 ---  
    
 Who are we?   
@@ -23,7 +23,7 @@ When do we use cookies?
 How do you disable cookies?   
 Are third party sites covered by this policy?   
    
-[ ](https://web.archive.org/btPortal/?origin=btb_bill_section.jsp&event=bea.portal.framework.internal.refresh&pageid=presales_myacc&com.bea.event.type=linkclick&oLDesc=your+profile+page&oSiteArea=btb.mya&oPJsp=btb_bill_section.jsp&oPt=&oLName=Profile&oOJsp=btb_segment.jsp&oPg=my_account&siteArea=btb.pfc&type=overview&rp.related.content.id=your_account/billing/my_account/editorial/btb_yourprofile_presales_editorial.xml&com.bea.event.type=linkclick&pageid=mb_form&portletns=mb_form&oPt=inline_customer_survey&oSiteArea=btb.hub&oLDesc=Privacy%20Policy&siteArea=btb.hub&oPJsp=btb_footer.jsp&type=privacy&oPg=btb_hub&oLName=privacyPolicy&oOJsp= "back")  
+[ ](http://www.bt.com/index.jsp "back")  
    
 BT Websites Privacy and Security Policy   
    
@@ -131,9 +131,39 @@ Return to top
 #### How can I find out what personal information BT holds about me?  
   
    
-If you want specific information please tell us and give us any relevant information to enable us to locate the information about you because this will speed up our reply. We may be able to provide the specific information you want without you having to make a formal request.  
-You can make a formal request if you want to know what personal information BT holds about you. In this case, please put your request in writing and send it to us enclosing a cheque for the administration fee of £10 made payable to British Telecommunications plc. The address is:  
-Data Protection Manager, Box 17, BT Centre, 81 Newgate Street, London. EC1A 7AJ.   
+If you want specific information ie.:-  
+
+
+  
+
+  * copies of fault reports
+  
+
+  * copy invoices
+
+
+
+then you must contact Customer Services.
+
+If you are asking for a full subject access request then put your request in writing, enclosing a cheque for £10 made payable to BT plc and send to British Telecommunications PLC, PP M3042 DSAR, Colindale House, The Hyde, Colindale, London NW9 6LB.
+
+You will also need to provide the following information so that we can process your request:
+
+  * The relevant account number/s  
+
+  * The relevant telephone number/s  
+
+  * The relevant address/s  
+
+  * The date and time if requesting a call recording? ( _see also note below_ )
+
+
+
+If you have any information such as reference numbers, dates and times of contact then please include them in your request.  
+ _  
+(BT does record some calls for Quality and Training purposes, however, not all calls are recorded. Calls are only held for a short period of time. If you want a call recording it is essential that you provide the information requested above, otherwise we will not be able to proceed with your request)._  
+Once we have all the relevant information we will process your request within the 40 day time limit allowed under the terms of The Data Protection Act.   
+  
    
 Return to top  
    
