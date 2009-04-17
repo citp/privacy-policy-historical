@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-traffic-secret.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065049id_/http%3A//the-traffic-secret.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-traffic-secret.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417051342id_/http%3A//the-traffic-secret.com/privacy.php) for the most accurate reproduction.*
 
 # The Traffic Secret - #1 Free Credit Based SafeList Advertising
 
