@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231095117id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418075640id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
@@ -9,7 +9,7 @@ CTVglobemedia Publishing Inc.("Globe")
 
 ## Globe Privacy Code
 
-**_Most recently amended January 1, 2004._**
+**_Most recently amended January 8, 2009._**
 
 ### _Scope And Application Of The Globe Privacy Code:_
 
@@ -178,6 +178,8 @@ Globe may also collect, use or disclose Personal Information without knowledge o
 Globe may also use or disclose Personal Information without knowledge or consent in the case of an emergency where the life, health or security of an individual or property is threatened.
 
 Globe may disclose Personal Information without knowledge or consent to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise related to the legal or regulatory requirements described herein.
+
+The Globe, its outside suppliers and other third parties to whom we disclose information under this policy may perform activities outside of Canada. As a result, your information may be securely used, stored or accessed in other countries and may be subject to the laws of those countries. For example, information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries.
 
 ### _Principle 4 - Limiting Collection of Personal Information_
 
