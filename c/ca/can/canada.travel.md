@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043509id_/http%3A//www.explore.canada.travel/ctc/ke/privacy.jsp%3Fcat%3D13%26localeId%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418204010id_/http%3A//www.explore.canada.travel/ctc/ke/privacy.jsp%3Fcat%3D13%26localeId%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Canada.travel
 
