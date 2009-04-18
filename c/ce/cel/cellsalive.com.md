@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsalive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062722id_/http%3A//www.cellsalive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsalive.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418071634id_/http%3A//www.cellsalive.com/privacy.htm) for the most accurate reproduction.*
 
 # CELLS alive! Privacy Statement
 
@@ -7,3 +7,5 @@ CELLS _alive!_ is committed to protecting consumer privacy online. We want your 
 When purchasing products through CELLS _alive!_ we ask that you voluntarily supply personal information, including your email address, mail address, telephone number, credit card number using encrypted data transfer. We use that information to provide a safe, secure method for payment and shipment and to maintain our own record of where the product is being used. We do not share this information with any third party and do not maintain mailing lists or send any unsolicited materials unrelated to specific purchases. Our shopping cart and other scripts may also place "cookies" on your machine to facilitate interaction.
 
 Each visit to CELLS _alive!_ is logged and includes information like the visitor's IP address, the referring website, and the visitor's operating system. This provides us statistical data to determine how accessible the site is for the majority of users.
+
+To provide the site free of charge, we receive financial support from third-party advertising companies which serve ads when you visit. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. That information does NOT include personal identifying information such as your name, address, email address, or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
