@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511234149id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418112945id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Xisto Corporation reserves the right to change this policy at any time by notify
 
 The policies described herein are effective as of the year 2005.
 
-Reply
+Comment/Reply (w/o sign-up)
