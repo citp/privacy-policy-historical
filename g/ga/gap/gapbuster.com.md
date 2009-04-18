@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112916id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418045834id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement, Customer Service Evaluation, Customer Experience Management, Secret Shopper - GAPbuster Worldwide
 
