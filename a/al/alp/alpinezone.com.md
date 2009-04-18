@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101028id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419002949id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Disclaimer and Terms of Use
 
@@ -7,89 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [Belleayre Mountain Announces Economic Stimulus Package...](http://news.alpinezone.com/44595/)  
-   2:31 PM \- Dec 16, 2008   
+ [Sugarbush's New &quot;Fancy Pass&quot; Grants All Access, All the Time...](http://news.alpinezone.com/53485/)  
+   12:46 PM \- Apr 8, 2009   
   
- [Cannon Mountain Extends New Hampshire Resident Deadline...](http://news.alpinezone.com/44594/)  
-    2:25 PM \- Dec 16, 2008   
+ [Hunter Mountain to host a Bar Mitzvah &quot;Mitzvah&quot; project SKI-A-THON...](http://news.alpinezone.com/53353/)  
+    2:08 PM \- Apr 6, 2009   
   
- [Pats Peak Ski Area Invites Skiers and Snowboarders to Form Adult Race Teams...](http://news.alpinezone.com/44593/)  
-    2:24 PM \- Dec 16, 2008   
+ [Bumpin' it Old School...](http://news.alpinezone.com/52491/)  
+    11:14 AM \- Mar 25, 2009   
   
- [Wildcat Mountain Is Set To Welcome International Visitors This Season...](http://news.alpinezone.com/44592/)  
-    2:23 PM \- Dec 16, 2008   
+ [Bud Light Bear Mountain Mogul Challenge Turns up the Heat April 4-5...](http://news.alpinezone.com/52486/)  
+    10:28 AM \- Mar 25, 2009   
   
- [Sugarloaf and the Bud Light Concert Series welcome The Machine...](http://news.alpinezone.com/44591/)  
-    2:23 PM \- Dec 16, 2008   
+ [Ski Sundown's S7 Bump or Bust III Mogul Competition a Huge Success...](http://news.alpinezone.com/52433/)  
+    8:17 PM \- Mar 24, 2009   
   
- [Crantastic New Year's Eve Highlights Holiday Week at Cranmore Mountain...](http://news.alpinezone.com/44590/)  
-    2:23 PM \- Dec 16, 2008   
+ [Local Stratton Riders Make a Splash at the 27th U.S. Open Snowboarding Championships...](http://news.alpinezone.com/52429/)  
+    7:52 PM \- Mar 24, 2009   
   
- [Crotched Mountain Ski and Ride Begins 3am Skiing December 26...](http://news.alpinezone.com/44589/)  
-    2:21 PM \- Dec 16, 2008   
+ [Wildcat Early 09/10 Season Pass Rates Announced; Lower Price &amp; Rest-Of-Season Offer...](http://news.alpinezone.com/52428/)  
+    7:50 PM \- Mar 24, 2009   
   
- [Students live large at Sugarloaf's College Snowfest Week...](http://news.alpinezone.com/44588/)  
-    2:21 PM \- Dec 16, 2008   
+ [Jay Fire Department Wins 19th Annual Firefighters' Giant Slalom Race at Sunday River...](http://news.alpinezone.com/52427/)  
+    7:49 PM \- Mar 24, 2009   
   
- [Women Pro Snowboarders Launch &quot;The Ladies Room&quot; at Waterville Valley...](http://news.alpinezone.com/43844/)  
-    12:45 PM \- Dec 8, 2008   
+ [Celebrate Spring for $25 Midweek at Gunstock...](http://news.alpinezone.com/52426/)  
+    7:49 PM \- Mar 24, 2009   
   
- [A Weekend of Events at Jiminy Peak Mountain Resort...](http://news.alpinezone.com/43843/)  
-    12:44 PM \- Dec 8, 2008   
+ [Gunstock Adaptive Ski Program's Annual Fundraiser is Huge Success...](http://news.alpinezone.com/52425/)  
+    7:48 PM \- Mar 24, 2009   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [What music are you i...](http://forums.alpinezone.com/showthread.php?t=28392&goto=newpost)  
-   12:07 PM \- May 21, 2008   
-    by wa-loaf  
+ [Lance Armstrong's Ki...](http://forums.alpinezone.com/showthread.php?t=54089&goto=newpost)  
+   3:12 PM \- Apr 18, 2009   
+    by thinnmann  
   
   
- [Snowshoeing?...](http://forums.alpinezone.com/showthread.php?t=41969&goto=newpost)  
-    11:35 PM \- Nov 18, 2008   
-    by Swamp Dog  
+ [Middlebury Snow Bowl...](http://forums.alpinezone.com/showthread.php?t=54097&goto=newpost)  
+    6:14 PM \- Apr 18, 2009   
+    by loafer89  
   
   
- [Too Funny - Another...](http://forums.alpinezone.com/showthread.php?t=44623&goto=newpost)  
-    9:35 PM \- Dec 16, 2008   
-    by billski  
+ [Eastern Cat Skiing -...](http://forums.alpinezone.com/showthread.php?t=54083&goto=newpost)  
+    11:22 AM \- Apr 18, 2009   
+    by BushMogulMaster  
   
   
- [Lange WC 160 (ZA-130...](http://forums.alpinezone.com/showthread.php?t=41421&goto=newpost)  
-    8:58 AM \- Nov 13, 2008   
-    by Madroch  
+ [MTB this weekend? 4/...](http://forums.alpinezone.com/showthread.php?t=53999&goto=newpost)  
+    8:13 AM \- Apr 17, 2009   
+    by o3jeff  
   
   
- [newbie skis?...](http://forums.alpinezone.com/showthread.php?t=43477&goto=newpost)  
-    11:37 AM \- Dec 4, 2008   
-    by automagp68  
+ [How Many Times, Did...](http://forums.alpinezone.com/showthread.php?t=54050&goto=newpost)  
+    11:08 PM \- Apr 17, 2009   
+    by Rambo  
   
   
- [Dirt Cheap Stowe lod...](http://forums.alpinezone.com/showthread.php?t=44617&goto=newpost)  
-    8:30 PM \- Dec 16, 2008   
-    by Patsht  
+ [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
+    2:13 PM \- Jun 22, 2006   
+    by Greg  
   
   
- [Dinner thread...What...](http://forums.alpinezone.com/showthread.php?t=17759&goto=newpost)  
-    2:40 PM \- Sep 19, 2007   
-    by GrilledSteezeSandwich  
-  
-  
- [Mohawk Mountain 12/1...](http://forums.alpinezone.com/showthread.php?t=44624&goto=newpost)  
-    10:25 PM \- Dec 16, 2008   
+ [What are you doing r...](http://forums.alpinezone.com/showthread.php?t=26192&goto=newpost)  
+    7:21 PM \- Mar 29, 2008   
     by severine  
   
   
- [The 12/21 Storm spec...](http://forums.alpinezone.com/showthread.php?t=44558&goto=newpost)  
-    10:32 AM \- Dec 16, 2008   
-    by drjeff  
+ [Honda CRV v. Toyota...](http://forums.alpinezone.com/showthread.php?t=54094&goto=newpost)  
+    4:10 PM \- Apr 18, 2009   
+    by highpeaksdrifter  
   
   
- [Killington Banner Ad...](http://forums.alpinezone.com/showthread.php?t=44627&goto=newpost)  
-    11:16 PM \- Dec 16, 2008   
-    by Johnskiismore  
+ [killington 4-19...](http://forums.alpinezone.com/showthread.php?t=54088&goto=newpost)  
+    3:12 PM \- Apr 18, 2009   
+    by powhunter  
+  
+  
+ [Sugarbush Sunday 4-1...](http://forums.alpinezone.com/showthread.php?t=53943&goto=newpost)  
+    2:05 PM \- Apr 16, 2009   
+    by powhunter  
   
   
    
