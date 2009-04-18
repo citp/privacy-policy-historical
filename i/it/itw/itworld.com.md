@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143157id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418062508id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ITworld
 
@@ -93,7 +93,7 @@ Below is the current policy regarding the usage of personally identifying inform
 
 ### About the IDG Publishing Network
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Computerworld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, computerworld.com, csoonline.com, demo.com, gamepro.com, games.net, infoworld.com, itworld.com, idgconnect.com, idgtechnetwork.com, idgknowledgehub.com, javaworld.com, linuxworld.com, macworld.com, macuser.com, networkworld.com, pcworld.com and thestandard.com. A complete listing is available at [www.idg.com](http://www.idg.com/).
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Computerworld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, computerworld.com, csoonline.com, demo.com, gamepro.com, games.net, infoworld.com, itnews.com, itwhitepapers.com, itworld.com, idgconnect.com, idgtechnetwork.com, idgknowledgehub.com, javaworld.com, linuxworld.com, macworld.com, macuser.com, networkworld.com, pcworld.com and thestandard.com. A complete listing is available at [www.idg.com](http://www.idg.com/).
 
 To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and, to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time. 
 
@@ -101,6 +101,6 @@ You can "opt-out" of receiving further email by clicking the appropriate links t
 
 The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network. 
 
-If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109. 
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to postmasterhelp@idgcommunications.com or write to us at Customer Service, TSG dept, IDG Communications, Inc, 5 Speen Street, Framingham, MA 01701. 
 
 Last updated: June 13, 2008. 
