@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greensmoke.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220231436id_/http%3A//greensmokeshop.com/catalog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensmoke.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418202501id_/http%3A//greensmokeshop.com/catalog/privacy-policy.html) for the most accurate reproduction.*
 
-# Green Smoke Electronic Cigarettes online. No second hand smoke and dangers of cigarette smoking with Green Smoke electric cigarette. - Privacy Policy GreenSmokeShop.com Effective August 1, 2008
+# Green Smoke Electronic Cigarette | electric cigarette - Privacy Policy GreenSmokeShop.com Effective August 1, 2008
 
 Green Smoke, Inc. understands that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.   
   
