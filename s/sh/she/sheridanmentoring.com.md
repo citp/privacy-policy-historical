@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828013927id_/http%3A//www.sheridanmentoring.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridanmentoring.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418183550id_/http%3A//www.sheridanmentoring.com/privacypolicy) for the most accurate reproduction.*
 
 # Sheridan Options Mentoring
 
@@ -10,7 +10,7 @@ At Sheridan Options Mentoring we recognize that privacy is important. This Polic
 
 Sheridan Options Mentoring servers are in the United States and adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's safe harbor program](http://www.export.gov/safeharbor/index.html). 
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at Sheridan Options Mentoring, Attention: Privacy Matters, 1539 Della Drive, Hoffmann Estates, IL 60169 USA. 
+If you have any questions about this Policy, please feel free to contact us. 
 
 ### What information is collected?
 
@@ -59,16 +59,6 @@ Members may access their information 24 hours a day using their designated login
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date. 
-
-### Questions
-
-If you have further questions that were not addressed in the above privacy policy, please contact us at: 
-
-Sheridan Options Mentoring  
-Attention: Privacy Matters  
-1539 Della Drive  
-Hoffman Estates, IL 60169  
-USA 
 
   
 
