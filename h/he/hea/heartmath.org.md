@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911211137id_/http%3A//www.heartmath.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D192%26Itemid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418215027id_/http%3A//www.heartmath.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D192%26Itemid%3D) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Statement - Institute of HeartMath
 
 **We agree to notify you of:**
 
