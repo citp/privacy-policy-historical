@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeuploadimages.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080745id_/http%3A//www.freeuploadimages.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeuploadimages.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418083209id_/http%3A//freeuploadimages.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Free Upload Images » More Information » Privacy Policy
+# Free Upload Images
 
 When you sign up for an account with Free Upload Images, we collect personal information from you including your e-mail address, and a password. 
 
