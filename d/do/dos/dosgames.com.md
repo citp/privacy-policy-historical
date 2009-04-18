@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143738id_/http%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418071543id_/http%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
 
 # dosgames.com privacy policy
 
@@ -14,6 +14,8 @@ The webmaster also collects potentially personally-identifying information like 
 **Gathering of Personally-Identifying Information**
 
 Certain visitors to the webmaster’s websites choose to interact with the webmaster in ways that require the webmaster to gather personally-identifying information. The amount and type of information that the webmaster gathers depends on the nature of the interaction. For example, we ask visitors who register for our discussion forum at <http://www.dosgames.com/forum/> to provide minimul personal details. In each case, the webmaster collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the webmaster. The webmaster does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the [Doubleclick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Aggregated Statistics**
 
