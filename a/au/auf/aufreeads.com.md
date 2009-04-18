@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aufreeads.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105152id_/http%3A//www.aufreeads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aufreeads.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418204919id_/http%3A//aufreeads.com/info/privacy.php) for the most accurate reproduction.*
 
 # Australia Free Classifieds at AUFreeAds.com - Privacy Policy
 
