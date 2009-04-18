@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221112822id_/http%3A//www.lowfares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418031127id_/http%3A//www.lowfares.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lowfares.com
 
@@ -87,4 +87,4 @@ Lowfares.com
 Attn: Privacy  
 515 S. Flower Street, Suite 4400  
 Los Angeles, California 90071  
-[privacy@lowfares.com](https://web.archive.org/web/20081221112822id_/http%3A//www.lowfares.com/privacy@lowfares.com)
+[privacy@lowfares.com](https://web.archive.org/web/20090418031127id_/http%3A//www.lowfares.com/privacy@lowfares.com)
