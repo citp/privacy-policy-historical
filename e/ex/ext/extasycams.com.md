@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002954id_/http%3A//www.extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418181946id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
 
 # Live Adult Cams, cheap live girls chat webcam and cam2cam.
 
