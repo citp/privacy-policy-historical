@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609002436id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418193841id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
 
 # SECU Credit Union - Online Loans, Free Checking, Online Banking
 
@@ -6,7 +6,7 @@
 
 **SECU Member's Right to Privacy and Confidentiality**
 
- ****
+****
 
 ** ** SECU is owned by its members and run by a Board of Directors you elect. You can be confident that your financial privacy is a top priority of this Credit Union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions, please contact a Member Services Representative at SECU, 971 Corporate Blvd., Linthicum, MD 21090-2337, 4l0-487-7328.
 
@@ -32,6 +32,10 @@ Your relationship is important to us and we are committed to providing you with 
 
 We do not disclose any nonpublic personal information about our members or former members to anyone, except as permitted, authorized, or required by law. These disclosures typically include information to follow your instructions as you authorize, to conduct the operations of the Credit Union, or to protect the security of our financial records. To protect our members' privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell to other third parties the information we provide.
 
+**Opting Out of Promotional Mailings**
+
+You can choose not to receive marketing offers from us via direct mail or e-mail. Simply call our Contact Center at 410-487-7328 or 800-879-7328 (outside of Baltimore), or e-mail ask.secumd.com and opt out of promotional mailings. This does not affect statement mailings. 
+
 **How SECU Protects Your Information**
 
 We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
@@ -40,7 +44,7 @@ We restrict access to nonpublic personal information about you to those employee
 
 ** ** Do not include account numbers, social security numbers, personal identification numbers (PINs), passwords, or other confidential information in your e-mail messages to SECU Credit Union. E-mail transmissions are not encrypted.
 
- **Third-Party Links**
+**Third-Party Links**
 
 Links are available on SECU Credit Union's website that allow convenient access to other sites that may be of interest. Clicking on a link may take you out of SECU's website to an alternative website not operated by SECU Credit Union. SECU is not responsible for content on third-party websites and does not represent either the third-party websites or the member if he or she enters into a transaction. While we hope these organizations join us in respecting your privacy, SECU Credit Union is not responsible for the content, products, services, or privacy practices of these third-party websites. Linked sites may have privacy policies that are different from SECU Credit Union. We encourage you to read the privacy policy of every website you visit.
 
