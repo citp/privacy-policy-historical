@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeinternettvonline.info privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044829id_/http%3A//www.fntv.ws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeinternettvonline.info privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419012156id_/http%3A//www.fntv.ws/privacy.html) for the most accurate reproduction.*
 
 # Free TV on the internet, watch online TV shows, watch your favorite programs on internet TV - for FREE!
 
@@ -46,8 +46,8 @@ All trademarks are the property of their respective owners. All Rights Reserved.
 
 > ### Want more?
 > 
->   * [Search for a Video!](https://web.archive.org/web/20081217044829id_/http%3A//www.fntv.ws/video.html)
->   * [Check the Speed of your internet connection!](https://web.archive.org/web/20081217044829id_/http%3A//www.fntv.ws/speedtest.html)
->   * [Download useful Media Software!](https://web.archive.org/web/20081217044829id_/http%3A//www.fntv.ws/software.html)
+>   * [Search for a Video!](https://web.archive.org/web/20090419012156id_/http%3A//www.fntv.ws/video.html)
+>   * [Check the Speed of your internet connection!](https://web.archive.org/web/20090419012156id_/http%3A//www.fntv.ws/speedtest.html)
+>   * [Download useful Media Software!](https://web.archive.org/web/20090419012156id_/http%3A//www.fntv.ws/software.html)
 > 
 
