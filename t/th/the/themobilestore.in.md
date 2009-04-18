@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themobilestore.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042644id_/http%3A//www.themobilestore.in/mobilestore/faces/jsp/privacyPolicy.jsp%3FcatalogueID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themobilestore.in privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418153957id_/http%3A//www.themobilestore.in/mobilestore/faces/jsp/privacyPolicy.jsp%3FcatalogueID%3D3) for the most accurate reproduction.*
 
 # Privacy Policy - Compare Mobile Prices India, Bobile Phones Best Deals India
 
@@ -58,8 +58,4 @@ By using our Web site, you consent to the collection, use, and disclosure of inf
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us e-mail at [mobicares@themobilestore.in](mailto:mobicares@themobilestore.in?Subject:)
 
 **  
-|    
-  
-|   
----  
-| 
+|  
