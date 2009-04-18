@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021256id_/http%3A//www.carbonmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418235040id_/http%3A//www.carbonmade.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Carbonmade
 
