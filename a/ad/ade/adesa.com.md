@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218030922id_/http%3A//www.adesa.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418180048id_/http%3A//www.adesa.com/privacy.do) for the most accurate reproduction.*
 
 # ADESA | Legal
 
