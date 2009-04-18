@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220061856id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bchydro.com privacy policy that was archived on 2009-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418144239id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
@@ -10,7 +10,7 @@
 	<meta http-equiv="imagetoolbar" content="false">
 	<meta name="MSSmartTagsPreventParsing" content="true">
 	<meta name="robots" content="all">
-	<meta name="copyright" content="Copyright (c) 2008 BC Hydro">
+	<meta name="copyright" content="Copyright (c) 2009 BC Hydro">
     	<meta name="keywords" content="">
     	<meta name="description" content="">
     	<title>BC Hydro - Privacy Statement</title>
@@ -18,11 +18,13 @@
 
 	
 	<!-- Begin Meta Tagging for Webtrends-->
-	<meta name="WT.cg_n" content="Site Tools">  
-	<meta name="WT.cg_s" content="Privacy Statement">  
+	<meta name="WT.cg_n" content="Site Tools">
+	<meta name="WT.cg_s" content="Privacy Statement">
 	<!-- End Meta Tagging for Webtrends-->
 	
-		
+
+	
+
 	<link rel="shortcut icon" href="/images/icons/bchydro.ico">
     	<link rel="icon" href="/images/icons/bchydro.ico" type="image/x-icon">
     	<link rel="stylesheet" type="text/css" media="all" href="/includes/css/global.css">
@@ -31,14 +33,14 @@
 	<!--[if lte IE 7]>
 		<link rel="stylesheet" type="text/css" media="screen" href="/includes/css/ie7.css" />
 	<![endif]-->
-
-	<link rel="stylesheet" type="text/css" media="print" href="/author/includes/css/bcPrint.css">
+	
+	<link rel="stylesheet" type="text/css" media="print" href="/includes/css/bcPrint.css">
 	
 	<!--[if lte IE 6]>
 		<link rel="stylesheet" type="text/css" media="all" href="/includes/css/ie6.css" />
 	<![endif]-->
-	
-	
+
+
 
     <script type="text/javascript" src="/includes/js/jquery-1.2.3.min.js"></script>
     <script type="text/javascript" src="/includes/js/jquery.pngfix.js"></script>
@@ -77,7 +79,7 @@
 
 
 </script>
-<script src="https://wwwa1.bchydro.com/emcweb/LoginServiceStatusExternal.do?callback=json_1580400820577&amp;_=1580400820584"></script></head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+</head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
     
 
     <div id="container">
@@ -140,117 +142,270 @@
 
 
 
+
 <script type="text/javascript">
+	var timeout = 10*1000;
+	var c_timeout = 30*60*1000;
+	var invalidResponse= true;
+	var domain_str = '.bchydro.com';
+	
+	var login_status_cookie_name = 'c_ya_login_status';
+	var user_firstname_cookie_name = 'c_ya_user_firstname';
+	var user_lastname_cookie_name = 'c_ya_user_lastname';
 
+	$.json = {callbacks: {}};
+	$.fn.json = function(url, callback) {
+		var _$_ = this;
+		load(url.replace(/{callback}/, name(callback)));
+		return this;
 
-    function toggle1(obj) {
-        document.getElementById("replace").innerHTML = '        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <p class="bcSmall">You are logged in as:</p>            <h3> ' + obj.user.firstName + ' ' + obj.user.lastName + ' </h3>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottomLoggedIn">            <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" id="bcViewAccount" class="bcViewAccount">View Your Account</a>            <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>        </div>    </div>';
-        
+		function name(callback) {
+			var id = (new Date).getTime();
+			var name = 'json_' + id;
+			var cb = $.json.callbacks[id] = function(json) {
+				delete $.json.callbacks[id];
+				eval('delete ' + name );
+				_$_.each(function() {callback(json);});
+			};
+			eval( name + ' = cb' );
+			return name;
+		}
+
+		function load(url) {
+			var script = document.createElement('script');
+			script.type = 'text/javascript';
+			script.src = url;
+			$('head',document).append(script);
+		}
+	};
+	function showFullForm() {
+		var metaElements = document.getElementsByTagName ('META');
+		for (var i = 0; i < metaElements.length; i++) {
+			if (metaElements[i].name == 'loginform' && metaElements[i].content == 'full') {
+				return true;
+			}
+		}
+	    return false;
+	}
+	function setCookie(name, value)
+	{
+		document.cookie = name + "=" +escape( value ) + ";path=/" +
+			( ( domain_str ) ? ";domain=" + domain_str : "" );
+	}
+	function removeCookie(name)
+	{
+		document.cookie = name + "=;path=/;expires=Thu, 01-Jan-1970 00:00:01 GMT" +
+			( ( domain_str ) ? ";domain=" + domain_str : "" );
+	}
+    function removeCookies() {
+        // Delete cookies
+        removeCookie(login_status_cookie_name);
+        removeCookie(user_firstname_cookie_name);
+        removeCookie(user_lastname_cookie_name);        
+    } 
+    function timedMsg() {
+	    var t = setTimeout("if (invalidResponse) {notavail()}", timeout);
+	}
+
+	function timedCookieRemoval() {
+	    var t = setTimeout("removeCookies()", c_timeout);
+	}
+</script>
+
+<script type="text/javascript">
+    function pleasewait() {
+	    document.getElementById("replace").innerHTML =
+            '<div id="loginbox_content" class="short">' +
+            '  <p>Loading Login... please wait</p>' +
+            '</div><!-- /end LOGINBOX_CONTENT -->';
     }
-    function toggle2(obj) {
-        document.getElementById("replace").innerHTML = '        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <h2><img src="/images/headers/login-header.png" alt="Log in"></h2>            <form id="login" method="post" name="loginform" action="https://wwwa1.bchydro.com/emcweb/LoginSubmit.do" style="background: #fff;">                <fieldset>                    <label for="email">Email:</label>                    <input id="emailuserId" name="emailuserId" type="text"> <br>                </fieldset>                <fieldset>                    <label for="password">Password:</label>                    <input name="password" id="password" type="password">                </fieldset>                <fieldset class="rememberMe">                    <input name="rememberMe" id="rememberMe" class="bcLeft" type="checkbox">                    <label for="rememberMe" class="bcRight">Remember Me</label>                </fieldset>                <fieldset class="bcborderBottom bcRight">                    <a class="mainButton" href="javascript:document.loginform.submit();"><span><img src="/images/icons/log-in.gif" alt="LOG IN"></span></a>                </fieldset>            </form>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottom">            <h3><a href="https://wwwa1.bchydro.com/emcweb/ShowLoginRetrieveIDPasswordPage.do">Forgot Your Password?</a></h3>            <h3><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do">Register</a></h3>        </div>    </div> ';
-        
+    function cachedLoggedin(firstName, lastName) {
+        document.getElementById("replace").innerHTML =
+            '<div id="loginbox_content" class="short">' +
+            '  <p>You are logged in as:</p>' +
+            '  <h3> ' + firstName + ' ' + lastName + ' </h3>' +
+            '  <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
+            '  <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
+            '</div><!-- /end LOGINBOX_CONTENT -->';
+    }
+    function loggedin(obj) {
+        document.getElementById("replace").innerHTML =
+            '<div id="loginbox_content" class="short">' +
+            '  <p>You are logged in as:</p>' +
+            '  <h3> ' + obj.user.firstName + ' ' + obj.user.lastName + ' </h3>' +
+            '  <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" class="bcViewAccount">View Your Account</a>' +
+            '  <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>' +
+            '</div><!-- /end LOGINBOX_CONTENT -->';
+    }
+    function fullform() {
+        document.getElementById("replace").innerHTML =
+			'<div id="loginbox_content" class="tall">' +		
+	        '    <img src="/images/headers/login-header.png" alt="Log in" />' +
+			'	 <img src="/images/backgrounds/login_progress_dots.gif" style="display: none" />' +
+			' 	 <div class="loginbox_separatorline"></div>' +
+	        '    <form id="login" method="post" name="loginform" action="https://wwwa1.bchydro.com/emcweb/LoginSubmit.do" style="background: #fff;">' +
+	        '        <fieldset>' +
+	        '            <label for="email">Email:</label>' +
+	        '            <input id="emailuserId" name="emailuserId" type="text" onkeypress="submitOnEnter(this, event);"/> <br />' +
+	        '        </fieldset>' +
+	        '        <fieldset>' +
+	        '            <label for="password">Password:</label>' +
+	        '            <input name="password" id="password" type="password" onkeypress="submitOnEnter(this, event);"/>' +
+	        '        </fieldset>' +
+	        '        <fieldset class="rememberMe">' +
+	        '            <input name="rememberMe" id="rememberMe" class="bcLeft" type="checkbox" onkeypress="submitOnEnter(this, event);"/>' +
+	        '            <label for="rememberMe" class="bcRight">Remember Me</label>' +
+	        '        </fieldset>' +
+	        '        <fieldset class="bcborderBottom bcRight">' +
+	        '            <a class="mainButton" href="javascript:void(0)" onClick="javascript:document.loginform.submit(); showProgressMsg();"><span><img src="/images/icons/log-in.gif" alt="LOG IN" /></span></a>' +
+	        '        </fieldset>' +
+	        '    </form>' +
+		    '    <div class="loginbox_separatorline"></div>' +
+	        '    <p><a href="https://wwwa1.bchydro.com/emcweb/ShowLoginRetrieveIDPasswordPage.do" class="bcViewAccountStacked">Forgot Your Password?</a></p>' +
+	        '    <p><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
+			'</div><!-- /end LOGINBOX_CONTENT -->';
 
 		if (document.cookie.length > 0) {
-		  var c_name = "emc_email";
-		  c_start = document.cookie.indexOf(c_name);
-		  if (c_start!=-1) { 
-		    c_start = c_start + c_name.length + 1; 
-		    c_end = document.cookie.indexOf(";",c_start);
-		
-		    if (c_end == -1) c_end = document.cookie.length;
-	
-		    document.getElementById("emailuserId").value = (unescape(document.cookie.substring(c_start, c_end)));
-		    document.getElementById("rememberMe").checked = true;
-		  } 
+			var c_name = "emc_email";
+			c_start = document.cookie.indexOf(c_name);
+			if (c_start!=-1) {
+				c_start = c_start + c_name.length + 1;
+				c_end = document.cookie.indexOf(";",c_start);
+
+				if (c_end == -1)
+				    c_end = document.cookie.length;
+
+				document.getElementById("emailuserId").value = (unescape(document.cookie.substring(c_start, c_end)));
+				document.getElementById("rememberMe").checked = true;
+			}
 		}
     }
-    function toggle3(obj) {
-        document.getElementById("replace").innerHTML = '        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <p class="bcSmall">You are logged in as:</p>            <h3> ' + obj.user.firstName + ' ' + obj.user.lastName + ' </h3>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottomLoggedIn">            <a href="https://wwwa1.bchydro.com/emcweb/ShowHomePage.do" id="bcViewAccount" class="bcViewAccount">View Your Account</a>            <a href="https://wwwa1.bchydro.com/emcweb/LogoutSubmit.do" class="mainButton bcLogout"><span><img src="/images/icons/log-out.gif" alt="LOG OUT"/></span></a>        </div>    </div>';
+    function shortform() {
+        document.getElementById("replace").innerHTML =
+			'<div id="loginbox_content" class="short">' +
+			'    <img src="/images/headers/login-header.png" alt="Login to Your Account" />' +
+			'    <div style="margin: 10px 0px;"></div>' +
+	        '    <p><a href="https://wwwa1.bchydro.com/emcweb/LoginPage.do" class="bcViewAccountStacked">Log In</a></p>' +
+	        '    <p><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do" class="bcViewAccountStacked">Register</a></p>' +
+			'</div><!-- /end LOGINBOX_CONTENT -->';
     }
-    function toggle4(obj) {
-        document.getElementById("replace").innerHTML = '        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <h2><img src="/images/headers/login-header.png" alt="Log in"></h2>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottom">            <h3><a href="https://wwwa1.bchydro.com/emcweb/LoginPage.do">Log in</a></h3>            <h3><a href="https://wwwa1.bchydro.com/register/BCHCOMRegisterExternal.do">Register</a></h3>        </div>    </div> ';
+    function notavail() {
+        document.getElementById("replace").innerHTML =
+            '<div id="loginbox_content" class="short">' +
+            '  <p>Login is temporarily unavailable.</p>' +
+            '</div><!-- /end LOGINBOX_CONTENT -->';
+           
+        removeCookies();            
     }
-    function toggle5() {
-	document.getElementById("replace").innerHTML = '        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <p class="bcSmall">Login is temporarily unavailable</p>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottom">        </div>    </div> ';
-    }    
-
-
+    function submitOnEnter(inputElement, event) {  
+        if (event.keyCode == 13) {  
+            inputElement.form.submit();  
+            showProgressMsg();
+        }  
+    }
+    function showProgressMsg() {
+        document.getElementById("replace").innerHTML =
+            '<div id="loginbox_content" class="tall">' +
+			'    <h3 style="text-align: center; padding: 40px 0px 0px 0px;">Logging In' +
+			'	<img src="/images/backgrounds/login_progress_dots.gif" alt="Logging In" width="106" height="18" style="margin: 15px auto 0px auto; display:block;" /></h3>' +
+			'</div><!-- /end LOGINBOX_CONTENT -->';
+    }
 </script>
-
-<script type="text/javascript">
-var invalidResponse= true;
-
-$.json = {callbacks: {}};
-$.fn.json = function(url, callback) {
- var _$_ = this;
- load(url.replace(/{callback}/, name(callback)));
- return this;
-
- function name(callback) {
-  var id = (new Date).getTime();
-  var name = 'json_' + id;
-  var cb = $.json.callbacks[id] = function(json) {
-   delete $.json.callbacks[id];
-   eval('delete ' + name );
-   _$_.each(function() {callback(json);});
-  };
-
-  eval( name + ' = cb' );
-  return name;
- }
-
-
- function load(url) {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src = url;
-  $('head',document).append(script);
-
- }
-};
-
-
-</script>
-
-<div id="loginBox">
-    <div id="loginTop"></div>
-    <div id="replace">        <div id="loginCenter">		 <!--[if lte IE 6]><div id="ie-back"><![endif]-->            <p class="bcSmall">Login is temporarily unavailable</p>		<!--[if lte IE 6]></div><![endif]-->        </div>        <div id="loginBottom">        </div>     </div>
-</div>
-
-
 
 <script>
-
-$(document).ready(function(){ 
-  	$().json('https://wwwa1.bchydro.com/emcweb/LoginServiceStatusExternal.do?callback={callback}', function(json) {
-
-	        var jsonResponse = eval(json);
-
+$(document).ready(function() {
+    timedCookieRemoval();
+	var url = 'https://wwwa1.bchydro.com/emcweb/LoginServiceStatusExternal.do?callback={callback}';
 	
-		if(jsonResponse.user.appOnline == 'true'){
-
-		     invalidResponse = false;
+	// Check if cookies exist
+	if (document.cookie.length > 0) {
+		loginstat_cookie_start = document.cookie.indexOf(login_status_cookie_name);
 		
-		     if (jsonResponse.user.loggedIn == 'true' && 'false' == 'true')
-		  	toggle1(jsonResponse);
-		     else if (jsonResponse.user.loggedIn == 'false' && 'false' == 'true')
-		  	toggle2(jsonResponse);
-		     else if (jsonResponse.user.loggedIn == 'true' && 'false' == 'false')
-		  	toggle3(jsonResponse);
-		     else
-		  	toggle4(jsonResponse);
+		// If cookie exists
+		if (loginstat_cookie_start != -1) {
+		    invalidResponse = false;
+		
+			loginstat_cookie_start = loginstat_cookie_start + login_status_cookie_name.length + 1;
+			loginstat_cookie_end = document.cookie.indexOf(";", loginstat_cookie_start);
+			if (loginstat_cookie_end == -1)
+			    loginstat_cookie_end = document.cookie.length;
+			loginstatus = unescape(document.cookie.substring(loginstat_cookie_start, loginstat_cookie_end));
+
+			if (loginstatus == 'true') {
+                firstname_cookie_start = document.cookie.indexOf(user_firstname_cookie_name);
+				firstname_cookie_start = firstname_cookie_start + user_firstname_cookie_name.length + 1;
+				firstname_cookie_end = document.cookie.indexOf(";", firstname_cookie_start);
+				if (firstname_cookie_end == -1)
+				    firstname_cookie_end = document.cookie.length;
+			    firstname = unescape(document.cookie.substring(firstname_cookie_start, firstname_cookie_end));
+	
+                lastname_cookie_start = document.cookie.indexOf(user_lastname_cookie_name);
+				lastname_cookie_start = lastname_cookie_start + user_lastname_cookie_name.length + 1;
+				lastname_cookie_end = document.cookie.indexOf(";", lastname_cookie_start);
+				if (lastname_cookie_end == -1)
+				    lastname_cookie_end = document.cookie.length;
+			    lastname = unescape(document.cookie.substring(lastname_cookie_start, lastname_cookie_end));
+
+				cachedLoggedin(firstname, lastname);		 
+			} else if (showFullForm()) {
+				fullform();
+			} else {
+				shortform();
+			}
 		}
-        
-	});
+		else {
+			$().json(url, function(json) {
+				var jsonResponse = eval(json);
+		
+				if (jsonResponse.user.appOnline == 'true') {
+					invalidResponse = false;
+					
+					// Set cookies
+					setCookie(login_status_cookie_name, jsonResponse.user.loggedIn);
+	
+					if (jsonResponse.user.loggedIn == 'true') {
+						// Set cookies
+	                    setCookie(user_firstname_cookie_name, jsonResponse.user.firstName);
+	                    setCookie(user_lastname_cookie_name, jsonResponse.user.lastName);        
 
-
-	if(invalidResponse){
-		toggle5();
+						loggedin(jsonResponse);		 
+					} else if (showFullForm()) {
+						fullform();
+					} else {
+						shortform();
+					}
+				} else {
+					notavail();
+				}
+			});
+		}
 	}
-})
 
-</script> 
+	if (invalidResponse) {
+		pleasewait();
+		timedMsg();
+	}
+});
+</script>
+
+<div id="loginbox">
+	<div id="loginbox_top"><!-- NO CONTENT IN THIS AREA --></div>
+	<div id="replace"><div id="loginbox_content" class="short">  <p>Loading Login... please wait</p></div><!-- /end LOGINBOX_CONTENT --></div>		
+</div>
+<noscript>
+<!-- No JavaScript -->
+<div id="loginbox">
+	<div id="loginbox_top"><!-- NO CONTENT IN THIS AREA --></div>
+	<div id="replace">
+		<div id="loginbox_content" class="short">
+			<p>You have Javascript disabled in your browser. </p>
+			<p>&nbsp;</p>
+			<p>Please enable Javascript to login <a href="https://wwwa1.bchydro.com/emcweb/LoginPage.do">here</a>.</p>
+		</div><!-- /end LOGINBOX_CONTENT -->
+	</div><!-- /end REPLACE -->
+</div><!-- /end LOGINBOX -->
+</noscript>
+
 
 		    
 
@@ -366,7 +521,7 @@ $(document).ready(function(){
 
 
 
-	<div id="footer">   <div id="footerLinks">     <ul>       <li><a href="/about.html" class="footerLinksHeader" id="/content/internet/en/about">Who           We Are</a>         <ul>           <li><a href="/about/our_commitment.html" class="contentText" id="/content/internet/en/about/our_commitment">Our               Commitment</a> </li>           <li><a href="/about/three_bottom_lines.html">Three               Bottom Lines</a> </li>           <li><a href="/about/company_information.html" class="contentText" id="/content/internet/en/about/company_information">Company               Information</a> </li>           <li><a href="/about/our_system.html">Our System</a> </li>         </ul>       </li>       <li class="footerPlanning"><a href="/planning_regulatory.html" class="footerLinksHeader" id="/content/internet/en/planning_regulatory">Planning &amp; Regulatory</a>         <ul>           <li><a href="/planning_regulatory/meeting_demand_growth.html">Meeting               Demand Growth</a> </li>           <li><a href="/planning_regulatory/regulatory.html">Regulatory</a> </li>           <li><a href="/planning_regulatory/acquiring_power.html" class="contentText" id="/content/internet/en/planning_regulatory/acquiring_power">Acquiring               Power</a> </li>           <li><a href="/planning_regulatory/site_c.html">Site               C</a> </li>         </ul>       </li>       <li class="footerAccounts"><a class="footerLinksHeader" href="https://wwwa1.bchydro.com/emcweb/">Accounts &amp; Rates</a>         <ul>           <li><a href="http://www.bchydro.com/services/applymodify/app1.jsp">New               Account</a> </li>           <li><a href="http://www.bchydro.com/services/applymodify/mod1.jsp">Moving</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/residential_rates.jsp">Residential               Rates</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/business_rates.jsp">Business               Rates</a> </li>         </ul>       </li>       <li class="footerNews"><a href="/news.html" class="footerLinksHeader" id="/content/internet/en/news">News</a>         <ul>           <li><a href="/news/press_centre.html" class="contentText" id="/content/internet/en/news/press_centre">Press               Centre</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">BC               Hydro News</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">Conservation               News</a> </li>           <li><a href="/news/power_outages.html" class="contentText" id="/content/internet/en/news/power_outages">Power               Outages</a> </li>         </ul>       </li>     </ul>     <div id="imageLinks"><img width="125" height="77" alt="Vancouver 2010" src="/images/footer/vancouver-2010.png"> <a href="/index.html"><img width="84" height="77" alt="BC Hydro Footer" src="/images/footer/bchydro-footer.png"></a> </div>   </div>   <!-- /end #footerLinks --> </div> <!-- /end #footer -->
+	<div id="footer">   <div id="footerLinks">     <ul>       <li><a href="/about.html" class="footerLinksHeader" id="/content/internet/en/about">Who           We Are</a>         <ul>           <li><a href="/about/our_commitment.html" class="contentText" id="/content/internet/en/about/our_commitment">Our               Commitment</a> </li>           <li><a href="/about/three_bottom_lines.html">Three               Bottom Lines</a> </li>           <li><a href="/about/company_information.html" class="contentText" id="/content/internet/en/about/company_information">Company               Information</a> </li>           <li><a href="/about/our_system.html">Our System</a> </li>         </ul>       </li>       <li class="footerPlanning"><a href="/planning_regulatory.html" class="footerLinksHeader" id="/content/internet/en/planning_regulatory">Planning &amp; Regulatory</a>         <ul>           <li><a href="/planning_regulatory/meeting_demand_growth.html">Meeting               Demand Growth</a> </li>           <li><a href="/planning_regulatory/regulatory.html">Regulatory</a> </li>           <li><a href="/planning_regulatory/acquiring_power.html" class="contentText" id="/content/internet/en/planning_regulatory/acquiring_power">Acquiring               Power</a> </li>           <li><a href="/planning_regulatory/site_c.html">Site               C</a> </li>         </ul>       </li>       <li class="footerAccounts"><a class="footerLinksHeader" href="https://wwwa1.bchydro.com/emcweb/">Accounts &amp; Rates</a>         <ul>           <li><a href="http://www.bchydro.com/services/applymodify/app1.jsp">New               Account</a> </li>           <li><a href="http://www.bchydro.com/services/applymodify/mod1.jsp">Moving</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/residential_rates.jsp">Residential               Rates</a> </li>           <li><a href="https://wwwa1.bchydro.com/emcweb/content/business_rates.jsp">Business               Rates</a> </li>         </ul>       </li>       <li class="footerNews"><a href="/news.html" class="footerLinksHeader" id="/content/internet/en/news">News</a>         <ul>           <li><a href="/news/press_centre.html" class="contentText" id="/content/internet/en/news/press_centre">Press               Centre</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">BC               Hydro News</a> </li>           <li><a href="/news.html" class="contentText" id="/content/internet/en/news">Conservation               News</a> </li>           <li><a href="/news/power_outages.html" class="contentText" id="/content/internet/en/news/power_outages">Power               Outages</a> </li>         </ul>       </li>     </ul>     <div id="imageLinks"><a href="/news/community_events/2010_winter_games.html" class="contentText" id="/content/internet/en/news/community_events/2010_winter_games"><img width="125" height="77" alt="Vancouver 2010" src="/images/footer/vancouver-2010.png"></a> <a href="/index.html"><img width="84" height="77" alt="BC Hydro Footer" src="/images/footer/bchydro-footer.png"></a> </div>   </div>   <!-- /end #footerLinks --> </div> <!-- /end #footer -->
 
 
 
@@ -390,7 +545,7 @@ $(document).ready(function(){
 
 
 <div id="copyright">
-            <span>Copyright © 2008 BC Hydro. All Rights Reserved</span>
+            <span>Copyright © 2009 BC Hydro. All Rights Reserved</span>
             <div align="right">
                 <ul><li class="noBackground"><a href="/siteinfo/legal.html">Legal</a> </li><li><a href="/siteinfo/privacy.html">Privacy Statement</a> </li><li><a href="/siteinfo/site_index.html">Site Index</a> </li></ul>
             </div>
@@ -404,7 +559,7 @@ $(document).ready(function(){
 				<div class="tooltipright"></div>
 			</div>
 
-<!-- total page load time = 227 milliseconds -->
+<!-- total page load time = 312 milliseconds -->
 
 
 
