@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2007-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070129104514id_/http%3A//www.desktopnexus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418200630id_/http%3A//www.desktopnexus.com/privacy) for the most accurate reproduction.*
 
-# Desktop Nexus - Free Desktop Wallpapers and Background Images
+# Privacy Policy - Desktop Nexus
+
+## Privacy Policy
 
 **Introduction**
 
-Penguin Studios, Inc and it parent companies and their affiliates (collectively, "Penguin Studios") respect the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Penguin Studios has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this Penguin Studios Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website. 
+Maugans Corporation and it parent companies and their affiliates (collectively, "Maugans Corporation") respect the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Maugans Corporation has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this Maugans Corporation Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website. 
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices. 
 
@@ -45,11 +47,11 @@ We may use the information we collect to:
 
 Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party. 
 
-We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Penguin Studios; the due diligence in connection with a potential sale of Penguin Studios; any bankruptcy, insolvency or liquidation of Penguin Studios, or in other similar circumstances. 
+We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Maugans Corporation; the due diligence in connection with a potential sale of Maugans Corporation; any bankruptcy, insolvency or liquidation of Maugans Corporation, or in other similar circumstances. 
 
-For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting Penguin Studios in performing such services. Without limiting the foregoing, these third parties may provide Penguin Studios with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it. 
+For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting Maugans Corporation in performing such services. Without limiting the foregoing, these third parties may provide Maugans Corporation with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it. 
 
-We also may provide your personal information to other Penguin Studios-affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever. 
+We also may provide your personal information to other Maugans Corporation affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever. 
 
 We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others. rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes. 
 
@@ -81,19 +83,21 @@ You can choose to have your computer warn you each time a cookie is being sent o
 
 We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information. 
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](http://www.desktopnexus.com/contact.php). 
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](http://www.desktopnexus.com/contact/). 
 
 **Email Marketing Practices**
 
-We adhere to the highest standards in our email marketing practices. When you choose to opt-into our email communications and submit your email address to us, we will send you an email requesting your confirmation. If you do not click on the confirmation link in the email, you will not be registered to receive our emails. This protects your inbox from unwanted emails should someone else provide your email address, or should you change your mind. 
+When you submit any personal information, you understand and agree that Desktop Nexus, its partners, and affiliates may access, store, and use your customer profile in any of the countries in which Desktop Nexus and its affiliates provide services, including without limitation the United States. We collect this information for a variety of reasons, including Desktop Nexus's effort to inform you of new products, special offers, and other products and services from Desktop Nexus. Desktop Nexus recognizes and appreciates the importance of responsible use of the information you choose to provide. Desktop Nexus may selectively provide certain information to other companies or organizations whose products or services we think may interest you. 
+
+Desktop Nexus and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional. Desktop Nexus may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey. 
 
 **Chat Rooms and Forums**
 
-This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Penguin Studios cannot safeguard the privacy of personal information that is disclosed online in this manner. 
+This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Maugans Corporation cannot safeguard the privacy of personal information that is disclosed online in this manner. 
 
 **Other Websites**
 
-When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Penguin Studios may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Penguin Studios is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk. 
+When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Maugans Corporation may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Maugans Corporation is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk. 
 
 **Unsubscribing, Removing or Modifying Your Information**
 
@@ -109,12 +113,10 @@ We reserve the right to send you certain communications related to this Website 
 
 **Terms and Conditions of Use**
 
-Penguin Studios has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [www.desktopnexus.com/tos.php](http://www.desktopnexus.com/tos.php). 
+Maugans Corporation has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [www.desktopnexus.com/tos/](http://www.desktopnexus.com/tos/). 
 
 **Questions and Feedback**
 
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Penguin Studios or this Website. 
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Maugans Corporation or this Website. 
 
-You may contact us using the contact form located at [www.desktopnexus.com/contact.php](http://www.desktopnexus.com/contact.php). 
-
-If you feel that we are not following our stated Privacy Policy, you may also contact state or local chapters of the Better Business Bureau, your state or local consumer protection office, or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or at http://www.ftc.gov/ftc/complaint.htm. 
+You may contact us using the contact form located at [www.desktopnexus.com/contact/](http://www.desktopnexus.com/contact/). 
