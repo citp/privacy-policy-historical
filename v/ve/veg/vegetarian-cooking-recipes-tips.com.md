@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012932id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418042821id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
 
-## Privacy Policy - Vegetarian recipes tips Site 
+## Privacy Policy for Vegetarian recipes tips Site 
 
 Please Read Our Privacy Policy:
 
@@ -17,6 +17,8 @@ Collection of Personal Information Privacy policy:
 This information is collected if you request informationfrom us, participate in a contest or sweepstakes, and signup to join our email list or request some other service orinformation from us. The information collected is internallyreviewed, used to improve the content of our website, notifyour visitors of updates, and respond to visitor inquiries.
 
 Once information is reviewed, it is discarded or stored inour files. If we make material changes in the collection ofpersonally identifiable information we will inform you byplacing a notice on our site. Personal information receivedfrom any visitor will be used only for internal purposes andwill not be sold or provided to third parties.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Use of Cookies and Web Beacons
 
