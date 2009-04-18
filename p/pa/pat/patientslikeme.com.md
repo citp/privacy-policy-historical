@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160750id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418071010id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # PatientsLikeMe : Privacy
 
@@ -67,12 +67,15 @@ There are also no known risks to using this website, but there is a possibility 
 
 **QUESTIONS ABOUT THE PRIVACY POLICY**
 
-If you have questions or comments about our privacy policy, please [let us know](mailto:%73%75%70%70%6f%72%74@%70%61%74%69%65%6e%74%73%6c%69%6b%65%6d%65.%63%6f%6d?subject=%5BPLM%5D%20Privacy), or contact us at:
+If you have questions or comments about our privacy policy, please [let us know](mailto:support@patientslikeme.com?subject=%5BPLM%5D%20Privacy), or contact us at:
 
-PatientsLikeMe Inc.  
-Attn: Privacy Issues  
-222 Third Street, Suite 0234  
-Cambridge, MA 02142 
+PatientsLikeMe Inc.
+
+Attn: Privacy Issues
+
+155 Second Street
+
+Cambridge, MA 02141
 
 **History of Updates/Changes to Terms and Conditions of Use:**
 
