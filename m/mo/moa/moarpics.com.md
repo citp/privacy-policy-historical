@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moarpics.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218062842id_/http%3A//moarpics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moarpics.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418223458id_/http%3A//moarpics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MoarPics.com » More Information » Privacy Policy
 
