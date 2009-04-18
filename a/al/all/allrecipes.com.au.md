@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085808id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418171932id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes Australia New Zealand
 
-About the Allrecipes.com Privacy Policy
+About the Allrecipes.com Privacy policy
 
-At Allrecipes.com, Inc. (“Allrecipes.com“), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at [CustomerService@allrecipes.com.au.](mailto:CustomerService@allrecipes.com.au)
+At Allrecipes.com, Inc. (“Allrecipes.com“), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at [ CustomerService@allrecipes.com.au.](mailto:CustomerService@allrecipes.com.au)
 
 Types of Information We Collect
 
@@ -18,7 +18,7 @@ Allrecipes.com collects personal information from you at several different point
 
 Registration, Purchases; Other Information Submissions
 
-• When you register to become a member on our Web site, you are asked to create a unique login and password, and are required to give certain personal information (such as your name, email address, and zip code). We might also request certain information about your tastes and preferences (such as your favorite food, purchases or recipes). 
+• When you register to become a member on our Web site, you are asked to create a unique login and password, and are required to give certain personal information (such as your name, email address, and zip code). We might also request certain information about your tastes and preferences (such as your favourite food, purchases or recipes). 
 
 • Information you provide during registration might be used for some or all of the following:
 
@@ -122,6 +122,6 @@ Correcting/Updating Personal Information
 
 We give you the opportunity to opt-out of receiving commercial e-mail from us by following the opt-out instructions provided in the message. Even if you opt-out in this manner, however, you will still receive account-related and non-commercial messages from us. To get placed on our “DO NOT E-MAIL” list, send a request to  CustomerService@allrecipes.com.au. If your e-mail address is added to the “DO NOT E-MAIL” list, you will not receive any newsletters or other opt-in e-mail messages. Please note, however, that your e-mail address being placed on the “DO NOT E-MAIL” list does not prevent you from receiving “send-to-a-friend” e-mail messages, or email messages from third parties from which you requested information, products, or services from during or immediately after registration. To opt-out from messages from these third parties, or from any other communications that you receive directly from third parties, you must contact them directly in order to opt-out.
 
-Contact Us
+Contact us
 
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at [CustomerService@allrecipes.com.au.](mailto:CustomerService@allrecipes.com.au)
+If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at [ CustomerService@allrecipes.com.au.](mailto:CustomerService@allrecipes.com.au)
