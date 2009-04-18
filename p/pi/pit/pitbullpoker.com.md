@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitbullpoker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053006id_/http%3A//www.pitbullpoker.com/poker/about/about_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitbullpoker.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418183242id_/http%3A//www.pitbullpoker.com/poker/about/about_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | Pitbull Poker
 
