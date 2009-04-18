@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212224255id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418074600id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Improvements Catalog
 
-Improvements® respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
+Improvements® respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [http://www.dmachoice.org](http://www.dmachoice.org/).
 
   
 Improvements® is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN),ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead, Improvements). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/).
