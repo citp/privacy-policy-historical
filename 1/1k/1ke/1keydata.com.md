@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163329id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418215003id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
 
 # 1Keydata Privacy Policy
 
@@ -16,10 +16,14 @@ Cookies and Web Beacons
 
 We use third party advertisements on 1keydata.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
 
+DoubleClick DART Cookies 
+
+We may use the Google Adsense program on our pages. Google uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads based on visitor's web browsing history. Visitors may opt out of the user of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.   
 
 
 * * *
 
-Copyright 1999-2008 1keydata.com.   All Rights Reserved.     [Privacy Policy](http://www.1keydata.com/privacy.php)  
+Copyright 1999-2009 1keydata.com.   All Rights Reserved.     [Privacy Policy](http://www.1keydata.com/privacy.php)  
 
