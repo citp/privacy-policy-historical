@@ -1,18 +1,82 @@
-> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035152id_/http%3A//www.anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418071407id_/http%3A//anntaylorloft.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Ann Taylor LOFT : Privacy and Security
 
 |  |   
 ---|---  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200002&categoryId=199)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200018&categoryId=217)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200121&categoryId=619)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200033&categoryId=231)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200047&categoryId=245)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200051&categoryId=249)  
-|  [](http://www.anntaylorloft.com/catalog/department.jsp?N=1200052&categoryId=269)  
-|  [](http://www.anntaylorloft.com/catalog/department_sale.jsp?Nr=AND\(CAT_SALE_FLAG:Y\)&N=1200054&categoryId=270)  
-| [](https://web.archive.org/catalog/editorial.jsp?pageName=StJude) [](https://web.archive.org/catalog/editorial.jsp?pageName=fallfashion) [](http://teachers.anntaylorloft.com/) [](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)  
+|   
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category-no-nav.jsp?N=1200257&categoryId=211&Ns=CATEGORY_SEQ_211&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200258&categoryId=200&Ns=CATEGORY_SEQ_200&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200259&categoryId=2099&Ns=CATEGORY_SEQ_2099&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200260&categoryId=204&Ns=CATEGORY_SEQ_204&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200261&categoryId=206&Ns=CATEGORY_SEQ_206&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200262&categoryId=208&Ns=CATEGORY_SEQ_208&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category-no-nav.jsp?N=1200263&categoryId=210&Ns=CATEGORY_SEQ_210&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category-no-nav.jsp?N=1200264&categoryId=205&Ns=CATEGORY_SEQ_205&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category-no-nav.jsp?N=1200265&categoryId=1060&Ns=CATEGORY_SEQ_1060&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200266&categoryId=232&Ns=CATEGORY_SEQ_232&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200267&categoryId=235&Ns=CATEGORY_SEQ_235&loc=LN)  
+  
+|   
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category_editorial.jsp?N=1200268&categoryId=1720&Ns=CATEGORY_SEQ_1720&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/department.jsp?N=1200051&categoryId=249&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/department.jsp?N=1200018&categoryId=217&loc=LN)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/category.jsp?N=1200270&categoryId=207&Ns=CATEGORY_SEQ_207&loc=LN)  
+  
+| 
+
+[](https://web.archive.org/catalog/editorial.jsp?pageName=ATCelebrations&)  
+  
+| 
+
+[](http://www.anntaylorloft.com/catalog/department_sale.jsp?Nr=AND\(CAT_SALE_FLAG:Y\)&N=1200054&categoryId=270&loc=LN)  
+  
+| [](http://teachers.anntaylorloft.com/)  
   
 [](https://web.archive.org/custserv/custserv.jsp?pageName=FAQ)[](https://web.archive.org/custserv/custserv.jsp?pageName=Return)[](https://web.archive.org/custserv/custserv.jsp?pageName=Terms)[](https://web.archive.org/custserv/custserv.jsp?pageName=Privacy)[](https://web.archive.org/custserv/custserv.jsp?pageName=ATCard)[](https://web.archive.org/custserv/contactus.jsp)
 
@@ -58,7 +122,6 @@ If you would prefer not to receive our e-mails and/or mailings-just let us know.
 By Phone: | 1 800 DIAL ANN  
 Fax: | 1-866-2FAX-ANN  
 By Mail: | ANN TAYLOR CLIENT SERVICES  
-100 ANN TAYLOR DRIVE  
 P.O. BOX 571650  
 TAYLORSVILLE, UT 84157-1650  
   
@@ -100,7 +163,6 @@ By Email: | [clientservices@anntaylorLOFT.com](mailto:clientservices@anntaylorLO
 By Phone: | 1 800 DIAL ANN  
 Fax: | 1-866-2FAX-ANN  
 By Mail: | ANN TAYLOR CLIENT SERVICES  
-100 ANN TAYLOR DRIVE  
 P.O. BOX 571650  
 TAYLORSVILLE, UT 84157-1650  
   
