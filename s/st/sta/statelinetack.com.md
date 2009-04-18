@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162809id_/http%3A//www.statelinetack.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418070719id_/http%3A//www.statelinetack.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Horse Tack, Horse & Equine Supplies - State Line Tack.com
 
@@ -154,8 +154,8 @@ return to top
 [Store Location](https://web.archive.org/outlet_store.asp) |  [Bird Supplies](http://www.bird.com/?srccode=SLTBRD01) |  [Career Opportunities](https://web.archive.org/career_opp.asp) |  [ Terms & Conditions](https://web.archive.org/helpdesk/terms.asp)  
   |  [Pet Supplies](http://www.petsupplies.com/) |  [Affiliate Program](https://web.archive.org/affiliate.asp) |  [ Browse Our Sitemap](https://web.archive.org/sitemap.asp) |   
   |  [Home Garden Center](http://www.garden.com/) |   |    
-  |  [Dog Collars](http://www.dog.com/collars.aspx?CatID=69&category=Collars%20Leashes%20%26%20Tags&subcategory=) |   |    
-  |  [Aquariums](http://www.fish.com/aquariums.asp?catID=348) |   |    
+  |  [Dog Collars](http://www.dog.com/collars-leashes-and-tags/) |   |    
+  |  [Aquariums](http://www.fish.com/aquariums.asp?catID=1) |   |    
   |  [Dog Beds](http://www.dogbed.com/?intid=SLTDOGBED01) |   |    
   
 [](https://www.scanalert.com/RatingVerify?ref=statelinetack.com)
