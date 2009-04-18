@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090217id_/http%3A//www.ijoobi.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D13%26Itemid%3D55) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijoobi.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418045044id_/http%3A//www.ijoobi.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D13%26Itemid%3D55) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,11 +31,10 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 **8\. Contact Information.**  
 If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/index.php?option=com_contact&task=view&contact_id=3).
 
-Joobi 
+Joobi Limited  
+1883/24B Moorefield Rd  
+Johnsonville, Wellington 6037  
+New Zealand
 
-135A Upper Salthill Road
-
-Galway, Ireland 
-
-|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&catid=13%3Ajoobi&id=14%3Aterms-of-use-for-ijoobi&Itemid=55) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&catid=13%3Ajoobi&id=12%3Asingle-user-license&Itemid=55)  
+|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&catid=18%3Ajoobi&id=14%3Aterms-of-use-for-ijoobi&Itemid=55) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&catid=18%3Ajoobi&id=12%3Asingle-user-license&Itemid=55)  
 ---|---|---
