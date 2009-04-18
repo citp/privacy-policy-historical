@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orchardbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070253id_/http%3A//www.orchardbank.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orchardbank.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418073933id_/http%3A//www.orchardbank.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
@@ -110,7 +110,7 @@ If you do not want us to share your non-public personal information with non-Aff
 
   * Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our Affiliates.
   * You may limit our Affiliates in the HSBC group of companies, such as our insurance, consumer finance, and automobile finance Affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your income, your account history with us, and your credit score.
-  * • Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
+  * ? Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
 
 
 
