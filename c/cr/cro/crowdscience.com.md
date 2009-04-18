@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdscience.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155607id_/http%3A//www.crowdscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdscience.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418044959id_/http%3A//www.crowdscience.com/privacy) for the most accurate reproduction.*
 
-# Crowd Science - Privacy
+# Crowd Science - Privacy Policy
 
 ## Privacy Policy
 
@@ -29,5 +29,3 @@ By using this site, you signify your assent to this Privacy Policy. If you do no
 If you have any questions about this Privacy Policy, you may email us at privacy@CrowdScience.com or write to Privacy Policy, Crowd Science, Inc., 3333 Bowers Avenue, Ste 130, Santa Clara, CA 95054.
 
 **NOTE TO SURVEY PARTICIPANTS:** This Privacy Policy does not apply to participants in our marketing surveys or the information that is gathered from them. Use and handling of all such information are governed by Crowd Science’s “[Policies Regarding Collection, Protection and Use of Individual Survey Data],” which is presented to and accepted by each individual survey participant. 
-
-.
