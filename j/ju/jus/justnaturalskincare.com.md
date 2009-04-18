@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005723id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security at JustNaturalSkinCare website
 
@@ -46,13 +46,6 @@ security accrediting group.
 ---|---|---  
 | |   
   
-[](https://web.archive.org/web/20081218005723id_/http%3A//www.justnaturalskincare.com/index.html)
-
-_________________________________________________________________________________________________________________  
-
-
-[](https://web.archive.org/web/20081218005723id_/http%3A//www.justnaturalskincare.com/index.html)
-
 We will never sell any information collected from our customers during the ordering process to Internet   
 or direct mail services. You can shop at JustNaturalSkinCare.com with the full confidence that your   
 personal and purchasing information will remain private.  
@@ -92,7 +85,7 @@ _**
 
 If you have a questions we are here to help. Leave us a detailed e-mail message by clicking   
 here [**COMMENTS / QUESTIONS  
-**](https://web.archive.org/web/20081218005723id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
+**](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
 
 
 **_Thank you for coming to visit._** _   
@@ -106,7 +99,7 @@ Copyright © 1999-2008 JustNatural® LLC
 All Rights Reserved  
 
 
-[](https://web.archive.org/web/20081218005723id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/index.html)
 
 _____________________________________________________________________________________  
 
@@ -115,4 +108,17 @@ ________________________________________________________________________________
 
 
 ____________________________________________________________________________________  
+
+
+[](http://order.store.yahoo.net/cgi-bin/wg-order?yhst-39215427130365)
+
+[](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/index.html)
+
+All UPS Ground Shipping  $5.99  
+
+
+_________________________________________________________________________________________________________________  
+
+
+_________________________________________________________________________________________________________________  
 
