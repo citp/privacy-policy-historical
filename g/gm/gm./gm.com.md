@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221072123id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418084654id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
