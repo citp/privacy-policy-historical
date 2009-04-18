@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbottom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043540id_/http%3A//www.blackbottom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbottom.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418042801id_/http%3A//www.blackbottom.com/privacy.html) for the most accurate reproduction.*
 
 # BlackBottom.com Privacy Statement
 
@@ -49,5 +49,5 @@ Raleigh, NC 27617
 USA
 
 313 406-7774 direct  
-626 608-2623 fax  
+313 557-0669 fax  
 ceo@blackbottom.com 
