@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418144248id_/http%3A//www.insurance.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Insurance.com - Privacy Policy
 
 **1\. GENERAL MATTERS**
 
 **Overview**  
-Welcome to the Insurance.com and ComparisonMarket.com web sites each (collectively the “Sites”) owned by ComparisonMarket Company. Protecting our visitors’ privacy and security is a top priority. For this reason, we have adopted the following Privacy Policy (“Policy”) to advise you of your choices regarding the use of your personal information online. By accessing and using these Sites, you agree to this Policy and the [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx).
+Welcome to the Insurance.com and ComparisonMarket.com web sites each (collectively the “Sites”) owned by ComparisonMarket Company. Protecting our visitors’ privacy and security is a top priority. For this reason, we have adopted the following Privacy Policy (“Policy”) to advise you of your choices regarding the use of your personal information online. By accessing and using these Sites, you agree to this Policy and the [Terms of Service](https://web.archive.org/web/20090418144248id_/http%3A//www.insurance.com/termsofservice.aspx).
 
 If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -117,7 +117,7 @@ Solon, Ohio 44139
 
 **Sale of Assets.** If we are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our databases, together with any Personal Information or email address contained therein, to a third-party acquiring our company assets. If we do so, we will place a prominent notice of the sale on the homepage of our Sites, with links to information as to how you can change your privacy preferences.
 
-Please remember that your use of these Sites is always subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx). Please take a moment to read the [Terms of Service](https://web.archive.org/web/20081217050814id_/http%3A//insurance.com/termsofservice.aspx). If you have any questions or comments regarding these Sites or any of our policies, please send an e-mail to Customer Support at [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com), call 888-740-4328, or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139.
+Please remember that your use of these Sites is always subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/web/20090418144248id_/http%3A//www.insurance.com/termsofservice.aspx). Please take a moment to read the [Terms of Service](https://web.archive.org/web/20090418144248id_/http%3A//www.insurance.com/termsofservice.aspx). If you have any questions or comments regarding these Sites or any of our policies, please send an e-mail to Customer Support at [privacyconcerns@Insurance.com](mailto:privacyconcerns@Insurance.com), call 888-740-4328, or write to Privacy Policy- 29000 Aurora Road, Solon, OH 44139.
 
 **TRUSTe**  
 Insurance.com and ComparisonMarket.com are both owned by ComparisonMarket, Inc. which is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the ComparisonMarket, Inc. and the following sites: [www.insurance.com](http://www.insurance.com/) and [www.comparisonmarket.com](http://www.comparisonmarket.com/). Because these web sites want to demonstrate its commitment to your privacy, ComparisonMarket, Inc. has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
