@@ -1,49 +1,55 @@
-> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514211145id_/http%3A//www.primelocation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418133910id_/http%3A//www.primelocation.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy
+# privacy policy | Primelocation.com
 
-The information collected about you by your use of the Primelocation.com website will be held by Primelocation.com, which is a trading style of Fastcrop plc, 2nd Floor, Hammersley House, 5-8 Warwick Street, London W1B 5LX.
+This privacy policy applies only to this website (Primelocation.com). If you do not accept this privacy policy, you must not use this Site.
 
-You can use the Primelocation.com website without submitting your details but to get the most from the products and services available we may occasionally ask for personal information about you ("Personal Information") which we will endeavour to keep secure. We will process your Personal Information in the way indicated in this Privacy Policy.
+#### Collection of Personal Information
 
-Over time the way we process your Personal Information may change. We will let you know about changes that may not be obvious to you by publishing them in the Privacy Policy. By using the Primelocation.com website you agree to any change we tell you about unless, within 60 days of that notice, you write and tell us not to handle your information in the new way.
+We collect personal information from you (such as name, address, telephone number and email address) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
-##### Marketing purposes
+#### Collection of Other Information
 
-If you are a registered user, your Personal Information may be used by us and other businesses carefully selected by us to contact you in writing, by telephone or by e-mail ("Contact") to offer you content, advertisements, products and services that we believe may be of interest to you ("Marketing Purposes"). This may include personalised communications with you from Associated Newspapers and from other Daily Mail & General Trust group companies. You can opt out of receiving contact for Marketing Purposes any time by amending your registered details.
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies. 
 
-##### Automatically obtained data
+The information collected by cookies and web beacons is not personally identifiable. It includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location. 
 
-We will automatically gather data such as your IP address, which site you had previously visited, the kind of browser you are using, and statistics about how you use the Primelocation.com website ("User Data"). The User Data will be linked to the Personal Information we hold about you to contact you for Marketing Purposes. We may share User Data in aggregated form with current or potential advertisers to allow them to present their advertisements more effectively.
+#### Use of Your Information 
 
-##### Cookies
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): 
 
-When you first visit our site we will automatically send you a cookie (a small text file which we create and send to your computer) which allows us to recognize you when you come back to the Primelocation.com website. If you wish to learn more, go to www.allaboutcookies.org. In addition to the cookies we send to your computer, some of our advertisers and third party ad servers will also send you their own cookies.
+  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you 
+  * Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting 
+  * Communicating (and personalising such communication) with you 
+  * Informing you if you have been successful in any Site competitions or promotions 
+  * Compiling customer reviews 
+  * Conducting market research 
+  * Carrying out statistical, technical and logistical analysis
 
-If you are concerned about cookies you have the ability through your browser to either reject all cookies or to provide a warning before any cookie is loaded on to your computer. If you decide to reject cookies you may find that you will not be able to take full advantage of some of the features and services in the Primelocation.com website. You may turn off cookies by following your browser's instructions. Detailed instructions are available at www.allaboutcookies.org.
 
-##### View and/or amend your registered details
 
-You can use your password to view and edit your registered details and the records we hold about you by clicking on "my Primelocation.com" on any page.
+#### Sharing Your Personal Information
 
-##### Access to your records
+By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies.
 
-You have a right to see a copy of the information we hold about you if you pay us the fee set by law. If you wish to see a copy of the information we hold about you, please write to the Data Protection Officer, Fastcrop plc, 2nd Floor, Hammersley House, 5-8 Warwick Street, London W1B 5LX.
+Subject to obtaining your consent, we may also supply personal information about you to third parties.
 
-##### User initiated contact
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
 
-If you contact us by telephone or by e-mail asking for assistance we will ask for or take your Personal Information. As well as using your Personal Information to help you, your Personal Information will be used to contact you for Marketing Purposes.
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
-##### Prize draws
+#### Safeguards and Security
 
-If you enter a prize draw, we will ask for your Personal Information which will be used to contact you for Marketing Purposes, whether you are the winner of the prize draw or not.
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [www.ico.gov.uk](http://www.ico.gov.uk/). 
 
-##### Property searches
+#### Accessing Your Personal Information
 
-You will be able to conduct a property search in the Primelocation.com website without giving us your Personal Information. However, if you wish to save properties to view at a later date we will ask you for your Personal Information, including your e-mail, which we will use to send you details of other properties you may be interested in. In addition, your Personal Information will be used to contact you for Marketing Purposes.
+If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
 
-##### Application information
+Data Protection Team  
+The Digital Property Group Limited  
+Northcliffe House  
+2 Derry Street  
+London W8 5TT
 
-If you decide to apply for a service or buy a product provided by a third party who appears on the Primelocation.com website the third party will ask for details about you. That third party will pass your Personal Information to us. The Personal Information we receive from the third party will include data about your use of their service which will be used to contact you for Marketing Purposes.
-
-Occasionally we will take application details for products or services provided by a third party who appears on the Primelocation.com website. We will pass this information to the third party to process your application and your Personal Information in the application details will also be used to contact you for Marketing Purposes.
+We may charge a small administration fee in relation to fulfilling a request for access to personal information.
