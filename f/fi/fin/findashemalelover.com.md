@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164500id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418045531id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Find A Shemale Lover - Shemales Looking For YOU! (NEW!)
 
 > Privacy Policy Statement
 > 
-> This web site (the "Site") is licensed to **Elite Marketing Solutions Inc.**
+> This web site (the "Site") is licensed to **Hundies Ltd**
 > 
 > Our postal address is   
-> 312 West Fourth Street  
-> Carson City, NV 89703
+> Amory Building, Suite #4757, Victoria Road  
+>  Basseterre, SAINT KITTS AND NEVIS  
+> 
 > 
 > We can be reached via e-mail at [support@findashemalelover.com](mailto:support@findashemalelover.com)
 > 
