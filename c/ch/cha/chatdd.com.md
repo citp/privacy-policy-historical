@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230071719id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418152706id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
   
 
 
-**_Before using any of our service & tools, you must read the following terms and conditions._**
+**_Before using any of our any service & tools, you must read the following terms and conditions._**
 
 The privacy of our visitors to Chatdd.com is important to us. 
 
 At Chatdd.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Chatdd.com, and how we safeguard your information. We never sell your personal information to third parties. 
+
+**ChatDD Forums Community**  
+The opinions expressed within our Discussion Boards are the opinions of the individual poster and not necessarily shared by the forum owner. We reserve the right to remove any messages from the discussion boards at any time for any reason. 
+
+Poster are owner of their content we are not responsible for their postings, if they post anything illegal, Let us know we,ll remove it ASAP. 
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
