@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205134id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419001125id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# First Tennessee | All Things Financial : Privacy Policy
+# First Tennessee | Powering Your Dreams : Privacy Policy
 
 ## Our Commitment to Your Privacy 
 
