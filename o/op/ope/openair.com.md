@@ -1,47 +1,58 @@
-> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610200319id_/http%3A//www.openair.com/home/s_a_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419143811id_/http%3A//www.openair.com/home/NewSite/s_a_privacy.html) for the most accurate reproduction.*
 
 # OpenAir Privacy Statement
 
 | 
 
-**OpenAir Privacy Statement**  
-OpenAir, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.OpenAir. 
+**OpenAir, Inc. Website Privacy Statement**
 
-We use your IP address to help diagnose problems with our server, to administer our Web site, and for internal tracking and monitoring purposes. Your IP address is used to gather broad demographic information. We use cookies for application functions, login purposes and to deliver content on our Web site that is specific to your interests, but we do not use information from cookies for any marketing purposes, nor do we make that information available to third parties. Users who disable their Web browsers' ability to accept cookies will not be able to successfully use the service. In order to login into your OpenAir account and use OpenAir's applications, you must also enable JavaScript on your browser. 
+In this Website Privacy Statement ("statement"), we, OpenAir, Inc., provide information about how we collect, use and transfer personally identifiable data from you, an individual person and website visitor, through OpenAir's publicly accessible websites (any of our websites such as [www.OpenAir.com](https://web.archive.org/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site"). 
 
-Our site's registration form requires users to give us contact information, financial information, and demographic information. We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data for other purposes, but in no case will we make your individual information available to any third party. 
+**Scope**  
+This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the OpenAir applications on which we host data for registered customers. The scope of our Safe Harbor Certification is defined by our [General EEA Safe Harbor Notice](https://web.archive.org/home/NewSite/s_a_safeharbor.html). 
 
-You may change or update your information at any time by accessing your account at www.OpenAir. com. 
+**Types of Data and Collection Methods**  
+Through the site, we receive data that you actively submit as well as data that we track: 
 
-This site contains links to other sites. OpenAir is not responsible for the privacy practices or the content of such Web sites. 
+Actively Submitted Data: When you request information, subscribe to a mailing list or for a service, respond to an online survey or otherwise actively send us data, we usually collect data such as your name, e-mail address(es), mailing address(es), telephone number(s), and certain information related to the business you represent such as number of employees and industry type. You can opt out of providing information by not entering it when asked and, if such information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this. In each such instance, you will know what data we collect through the site, because you actively submit it. 
 
-You may be accessing OpenAir site through one of our co-branding partners. If that is the case, you will also see the brand identity of that partner, and the site will link back to that partner. However, a user's information entered into OpenAir's database will not be accessible to that co-branded partner. Our McAfee Partnership involves a unified registration that allows a McAfee registrant the option of opening an OpenAir account. If the registrant chooses to open an account, they will access OpenAir through a co-branded site using the same password they used to register with McAfee. 
+Passively Tracked Data: When you visit the site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of websites from which you link to our site, the computer technology you are using and your movements and preferences on our site. We use technology that many other websites employ, including, without limitation, "cookies" or small data files stored on your computer's hard drive, to collect such information. In some instances, we also use cookies to collect information in connection with future visits from that website, to recognize you as a previous visitor, or to track your activity on our site. If you follow a link to the site from an affiliate or promotion, we store information about your arrival from that affiliate or promotion in a session cookie. You do not need to have cookies turned on to visit our site. You can refuse cookies by turning them off on your browser. But, if you want to access webpages that require registration, you need to accept a mandatory session cookie, which you can delete after you leave the site. 
 
-OpenAir has a relationship with Genient Ltd., Jamcracker, Inc., and SmartContractor, whereby OpenAir hosts customer data entered by customers through an account created by the customer on the respective partner site. 
+Combinations: Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not have the means or an interest to find out who you are, unless you identify yourself voluntarily through an active submission of data). To the extent permitted by applicable law, we reserve the right to combine passively tracked data with personal data that you actively submit. 
+
+**Collection Purposes, Use of Data**  
+We collect passively tracked data primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to identify server problems, to compile aggregated statistics about site usage, and to help personalize your experience on our site. We collect actively submitted data primarily for two purposes: Firstly, for the purpose for which you originally sent us the data (e.g., to provide information to you or sign you up for a free trial); and secondly, for purposes of contacting you to further discuss your interest in our company, the services we provide and ways we can improve them to provide information on services, promotions and events. You can opt out of receiving marketing emails as explained below. 
+
+**Disclosures of Personal Information**  
+We are not in the business of selling or renting your information to telemarketers and we do not share your personally identifiable information with others, except as follows: We freely share your information within the OpenAir group of companies. We also may share information with trusted business partners, such as system integrators, distributors, and referral partners and any other party specifically identified on the page on which you submit your information. We engage agents and service providers who process data only on our behalf and for our purposes under confidentiality agreements. We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Also, we reserve the right to fully use and disclose any information that is not in personally identifiable form (such as statistics and survey results that do not identify you individually by name). 
+
+**Opt-Out**  
+In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt out of receiving commercial communications from OpenAir, please click on the "opt-out" link in the communication or, , please contact us at [information@OpenAir.com](mailto:information@OpenAir.com) . Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
+
+**Access**  
+If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, please send an e-mail to [information@OpenAir.com](mailto:information@OpenAir.com) . Upon appropriate request we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate. 
 
 **Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For example, you may choose to enable SSL encryption to further protect your information as it is transmitted across the Internet. Importantly, only specific executive-level employees have access to data files, and strict internal security features govern this access. All employees are aware of our security policies, and sign a confidentiality agreement with OpenAir, Inc. 
+Transmissions over the Internet are never 100% secure or error-free. However, we take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database so as not to receive future communications or to no longer receive our service. We communicate with our members to provide information regarding updates to our service, for customer support reasons, and to provide our members with other services and offers. These communications are periodic in nature. Users may opt-out of email communications by replying to any message they receive from OpenAir or by contacting our support department directly. They may also indicate which communications they would like to receive in the "My Options" settings section of their account. 
+**Effective Date, Amendments**  
+This statement is effective as of October 14, 2008. We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. We recommend that users revisit this statement on occasion to learn of any changes. 
 
-If any changes occur to this policy in regard to personally-identifiable information usage, OpenAir will alert all users prior to any action via email. 
-
-This policy was last updated July 10, 2001 (minor stylistic changes only to December 11, 2000 version). 
+**Contact Us**  
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. 
 
 You can send email to:  
 [information@OpenAir.com](mailto:information@OpenAir.com)
 
 or send mail to:  
 OpenAir, Inc.  
-80 Lincoln Street   
-Boston, MA 02111 
+211 Congress Street, 8th Floor  
+Boston, MA 02110 
 
 **Contacting the Web Site**  
 If you have questions about this privacy statement, the practices of this site, or your dealings with this site, please contact: 
 
-Chris Hering   
+Tom Brennan   
 OpenAir, Inc.  
-80 Lincoln Street   
-Boston, MA 02111  
-[chris@OpenAir.com](mailto:chris@OpenAir.com)
+211 Congress Street, 8th Floor  
+Boston, MA 02110 [brennan@openair.com](mailto:brennan@openair.com)
