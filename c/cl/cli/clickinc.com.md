@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickinc.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926000945id_/http%3A//clickinc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinc.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419190208id_/http%3A//www.clickinc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Affiliate Tracking Manager | Pay Per Sale Tracking | Second Tier Sale
+# Affiliate Marketing Software – Privacy Policy
 
 ClickInc.com has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and privacy practices for our site and the  ClickInc.com network.
 
