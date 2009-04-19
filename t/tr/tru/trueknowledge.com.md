@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219063820id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419052909id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.*
 
-# [true knowledge]™ - privacy
+# True Knowledge - privacy
 
 True Knowledge Limited is committed to protecting the privacy and confidentiality of information provided by all users of <http://www.trueknowledge.com/>. Please read the following privacy policy to understand how we use and protect the information that is provided to us by users of this website.
 
@@ -32,6 +32,8 @@ In particular, we may use the information we collect from you to contact you for
 
 When you post knowledge and/or other materials to this website, you will be identified as having posted such information by whatever user name you selected when you registered with this website. 
 
+trueknowledge.com is a community powered question answering site where the community can help get questions answered by adding and correcting knowledge. For this reason, questions that you ask on the www.trueknowledge.com website may be published for the benefit of other users. To avoid personal identification, we will not without your express consent, associate your user name or other identifiable information with the questions asked, nor will we group your questions together as being associated with a single user.
+
 The information you provide to us will be held on our computers in the UK and may be accessed by or given to our staff working outside the UK and third parties including companies within the True Knowledge group some of whom are located in the US who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.
 
 Finally, if we enter into a joint venture or our business is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.  
@@ -57,4 +59,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 #### Contact
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at True Knowledge Limited, St John's Innovation Centre, Cowley Road, Cambridge CB4 0WS, United Kingdom or at [privacy@trueknowledge.com](mailto:privacy@trueknowledge.com) . 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at True Knowledge Limited, 66-68 Hills Road, Cambridge CB2 1LA, United Kingdom or at [privacy@trueknowledge.com](mailto:privacy@trueknowledge.com) . 
