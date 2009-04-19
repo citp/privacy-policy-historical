@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.de privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123544id_/http%3A//www.exalead.com/software/company/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.de privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419112633id_/http%3A//www.exalead.de/software/company/privacy-statement.php) for the most accurate reproduction.*
 
 # Exalead Privacy Statement
 
@@ -14,9 +14,9 @@ Exalead collects information from its users in several areas of the site:
 
 
 
-Users may change the information submitted to Exalead, either at the area of the Site where it was first provided, or by [contacting Exalead](https://web.archive.org/web/20081217123544id_/http%3A//www.exalead.com/software/company/contact/).  
+Users may change the information submitted to Exalead, either at the area of the Site where it was first provided, or by [contacting Exalead](https://web.archive.org/web/20090419112633id_/http%3A//www.exalead.de/software/company/contact/).  
 Should you not agree with these policies, you should not use the Exalead Site.
 
 ## Note aux utilisateurs français
 
-Vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent (art. 34 de la loi « Informatique et Libertés » du 6 janvier 1978). Vous pouvez, à tout moment, demander que ces données soient supprimées. Contact : Exalead S.A. – 10, place de la Madeleine, 75008 Paris, France, Téléphone: +33 (0)1 55 35 26 26, [contact form](https://web.archive.org/web/20081217123544id_/http%3A//www.exalead.com/software/company/contact/). Exalead S.A. s’est engagée auprès de la CNIL à respecter vos droits.
+Vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent (art. 34 de la loi « Informatique et Libertés » du 6 janvier 1978). Vous pouvez, à tout moment, demander que ces données soient supprimées. Contact : Exalead S.A. – 10, place de la Madeleine, 75008 Paris, France, Téléphone: +33 (0)1 55 35 26 26, [contact form](https://web.archive.org/web/20090419112633id_/http%3A//www.exalead.de/software/company/contact/). Exalead S.A. s’est engagée auprès de la CNIL à respecter vos droits.
