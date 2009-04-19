@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045304id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419191142id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
@@ -39,13 +39,27 @@ You may remove your information from our database. If you remove your informatio
 
 In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information. 
 
-One of our third-party cookie partners is Datran Media (for information on Datran Media’s cookie program, please www.datranmedia.com/aperture). To opt out of Datran Media’s cookie-based marketing program, click here: http://rt.displaymarketplace.com/optout.html 
+One of our third-party cookie partners is Datran Media (for information on Datran Media’s cookie program, please www.datranmedia.com/aperture). To opt out of Datran Media’s cookie-based marketing program, click here: 
 
-This privacy policy is effective as of November 18, 2008   
+[ http://rt.displaymarketplace.com/optout.html](http://rt.displaymarketplace.com/optout.html)
+
+By registering at EliteMate.com, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell phone number may be listed with the federal Do-Not-Call Registry you expressly opt-in to EliteMate.com (c) permit us, our Clients and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or cell number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g., mms, video etc.).."
+
+When you register with EliteMatch.com and you leave the box checked stating "Yes, I want to information and offers from EliteMatch-offers.com" - you explicitly authorize us to share your information with Datran Media to contact you via email.
+
+When you register with Lookforsingles.com and you leave the box checked stating "Yes, I want to information and offers from EliteMatch-offers.com" - you explicitly authorize us to share your information with Datran Media to contact you via email.
+
+When you register with Modelcastingcall.com and you leave the box checked stating "Yes, I want to information and offers from ModelCastingCall-Information.com" - you explicitly authorize us to share your information with Datran Media to contact you via email.
+
+When you register with Eliteawareness.com and you leave the box checked stating "Yes, I want to information and offers from EliteMatch-offers.com" - you explicitly authorize us to share your information with Datran Media to contact you via email.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, 
+
+[ click here](http://www.google.com/privacy_ads.html).  
+
+This privacy policy is effective as of march 12, 2009   
  
 
-  
-  
 Opt Out Here  [ http://www.elitemate.com/myJsp/optout.jsp](http://www.elitemate.com/myJsp/optout.jsp "http://www.elitemate.com/myJsp/optout.jsp").  Please note that unsubscribing from this email list does not automatically unsubscribe you from any other email list on which you may be.  Please read the email carefully to find out which list from which you are unsubscribing.
 
 View EliteMate.com's 
