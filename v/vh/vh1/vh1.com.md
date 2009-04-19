@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154516id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vh1.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419093613id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # VH1.com : Terms - Privacy Policy and Your Rights, Personal Information, Member Registration
 
