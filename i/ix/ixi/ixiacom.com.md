@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184052id_/http%3A//www.ixiacom.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419053752id_/http%3A//www.ixiacom.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy :: Ixia - Leader in IP Performance Testing
 
@@ -8,7 +8,7 @@ Address:
 26601 W. Agoura Rd.  
 Calabasas, CA 91302 
 
-We can be reached via e-mail at [invitation_list@ixiacom.com](mailto:invitation_list@ixiacom.com)  
+We can be reached via e-mail at [contact_us@ixiacom.com](mailto:contact_us@ixiacom.com)  
 or you can reach us by telephone at 818-871-1800 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
