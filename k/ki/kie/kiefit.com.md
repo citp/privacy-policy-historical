@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218060145id_/http%3A//www.kiefit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420003133id_/http%3A//www.kiefit.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,12 +20,25 @@ Visit your kiefit.com Settings to edit your profile and other information. When 
 
 Protecting the privacy of the very young is important to us. For that reason, we will not collect age information for users under 18 years.
 
+[ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
 kiefit.com reserves the right to modify all or some of this Privacy Policy at any time without notice. If we change our Privacy Policy, we will post a notice on our website so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise.
 
 If you have any questions about this Privacy Policy, the practices of this website or your dealings with this kiefit.com, you can send an e-mail, in English, 
 
 to  privacy[@]kiefit.com
 
-Effective Date: October 21, 2007
+Effective Date: March 13th, 2009
 
 **[Home](http://www.kiefit.com/)**
