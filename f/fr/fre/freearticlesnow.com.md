@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218083051id_/http%3A//freearticlesnow.com/pripolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419044939id_/http%3A//www.freearticlesnow.com/pripolicy.asp) for the most accurate reproduction.*
 
 # Free Articles Now | Privacy Policy
 
