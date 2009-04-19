@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010737id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419070849id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
 TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of September 8, 2008 and governs the collection of personal information through this website on or after this date. If you have not registered or otherwise provided personal information through this site on or after September 8, 2008, please refer to our [previous privacy policy](https://web.archive.org/pages/privacy_pre_060407.html) for information about how your personal information will be treated.
 
 This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, [contact us](https://web.archive.org/Feedback).
+
+#### Update as of March 4, 2009, about our Vacation Rental Owners Outreach.
+
+If you have signed up as the owner or manager of a vacation rental, or listed your vacation rental property in our Destination Resources section, we will send you e-mail messages at the email address you provided to us. You will be given the opportunity to unsubscribe from future promotional e-mails in any such e-mail we send to you. In addition, if you are a registered member of TripAdvisor.com, you may update your e-mail choices at any time on the Member Profile page.
 
 ### Information we collect.
 
