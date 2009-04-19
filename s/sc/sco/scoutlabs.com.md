@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095830id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419031947id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
 
-# Scout Labs » Scout Labs, LLC Privacy Policy
+# Privacy Policy - Scout Labs
 
-Effective January 1, 2008This policy describes the use of Personal Information by Scout Labs. Scout Labs respects the privacy of its users. This document explains how Scout Labs will use the information that you provide to us via the Scout Labs website (“Website”). Scout Labs may revise this privacy policy from time to time by posting revisions at www.scoutlabs.com/privacy or any other such URL that Scout Labs may provide.
+### Scout Labs Privacy Policy 
+
+Effective January 1, 2008
+
+This policy describes the use of Personal Information by Scout Labs. Scout Labs respects the privacy of its users. This document explains how Scout Labs will use the information that you provide to us via the Scout Labs website (“Website”). Scout Labs may revise this privacy policy from time to time by posting revisions at www.scoutlabs.com/privacy or any other such URL that Scout Labs may provide.
 
 1\. Definitions
 
@@ -18,7 +22,7 @@ Effective January 1, 2008This policy describes the use of Personal Information b
 
 “Session Data” means usage information, such as the type of Internet browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the site, pages viewed, domain name of the individual, and number of cookies accumulated.
 
-“Site” means the www.scoutlabs.com site, and its respective content and Services available from the site.
+“Site” means the www.scoutlabs.com site, spark.scoutlabs.com, commerce.scoutlabs.com, and the respective content and Services available from the site(s).
 
 “Workspace” means a collective area on the Site in which a group of members can post original content, flag third-party content, assign and execute tasks and have collective visibility to what other members of the same workspace have posted, flagged, assigned or executed. It is the responsibility of the members to maintain secure Workspaces according to the Member Account, Password and Security provisions in the Scout Labs Terms of Service available at www.scoutlabs.com/terms.
 
@@ -57,7 +61,7 @@ We use Session Data, collected through Cookies and pixel tags, to better underst
 
 The Site may contain links to third party sites, who have their own privacy policies. Scout Labs is not responsible for such third party sites, and you should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
 
-Aggregate information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. Scout Labs may use aggregated information to describe our user base to current or potential partners investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Site. Aggregate information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information.
+Aggregate information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. Scout Labs may use aggregated information to describe our user base to current or potential partners investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Site. 
 
 5\. To whom we disclose Personal Information
 
@@ -84,8 +88,6 @@ Scout Labs employs physical, administrative and technical safeguards to help pro
 
 7\. Opting-Out
 
-As part of the registration process, we give you the ability to receive via e-mail or direct messaging information about the Scout Labs Services, updates to our Site, customized advertisements and promotions that are targeted to your specific interest. If you do not opt-out from receiving these communications about our Site, we will send them to you.
-
 In our e-mails and other communications, as well as on the Site, we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
 
 8\. Links
@@ -103,8 +105,9 @@ If you have any questions about this policy or our use of Personal Information, 
 Scout Labs, LLC  
 199 Fremont Street, 12th Floor  
 San Francisco, CA 94105  
-privacy@scoutlabs.com
+privacy  Scoutlabs.com 
 
 Your California Privacy Rights
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.  
+
