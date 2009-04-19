@@ -1,54 +1,79 @@
-> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104213955id_/http%3A//familycar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419210403id_/http%3A//www.familycar.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-|  | 
+**FamilyCar.com** recognizes the importance of maintaining your privacy. We value our relationship with you and we appreciate the trust you show in providing information to us. Explaining how we collect, use and protect customer information is, therefore, of utmost importance to us. **By visiting FamilyCar.com, you are accepting the practices described in this Privacy Notice.**
 
-**Privacy Policy**
+**FamilyCar.com** does not rent, sell, or share personal information about you with other people or nonaffiliated companies except as disclosed in this privacy policy. Your information will not be shared without your permission.
 
-Last updated 6-14-2005
+**Information Collected:**
 
-We are committed to protecting your privacy. You can access and browse most pages on Familycar.com without disclosing any information about yourself, but sometimes we need information to provide services that you request, and this privacy statement explains our data collection and how we use it in those instances.
+The information that we collect from you helps us personalize and continually improve upon your **FamilyCar.com** shopping experience. You have the option not to provide certain information; however, withholding information may prevent you from being able to take full advantage of some of our web site features.
 
-**Collection of Personal Information:** We will ask you when we need information that identifies you or allows us to contact you. Typically we request this information when you register for our online Forums, submit a form or questionnaire, sign up for our mailing list or sign up for a lesson or event. For example, if you contact us with a question or a problem with your car, we will request information; such as: name, email address and pertinent vehicle information.
+This section of our privacy policy applies to all information collected by or submitted to **FamilyCar.com**. 
 
-We monitor the number of visitors to our sites and general traffic statistics, including how many visitors view certain pages or click on specific links, but our statistic servers do not link your visits to our site with your personal information. We collect only the personal information that you voluntarily provide. 
+When you visit our site, we automatically receive and store any information you enter on our website. For example, you provide information when you search for a product; place an order through **FamilyCar.com** , provide information in your account; communicate with us by phone, e-mail; complete a questionnaire or any other way. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; financial information, such as credit card or bank account numbers, including Social Security and driver's license numbers; transactional information based on your activities on the Site and content you generate or that relates to your account; shipping, billing and other information you provide to purchase or ship an item, community discussions, chats, dispute resolution, correspondence through the Site, and correspondence sent to us.
 
-**Use and Disclosure of Information:** We do not sell or rent individual personal information. We typically use your personal information for the following purposes: 
+Whenever you interact with us, we collect and analyze some data about you, which may include the full Uniform Resource Locator (URL) click stream to, through and from our website, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. Your IP address is used for **FamilyCar.com** internal use only and helps us diagnose problems with our server and administer our web site. We also automatically track certain information about your activities on our web site. These may include: browser type and version, operating system and platform; statistics on page views, traffic to and from the Site, and ad data; standard web log information; and purchase history. We use this information to do internal research on your interests and to help us better understand and serve you. If you are a registered **FamilyCar.com** customer, we link this automatically-collected data to your personally identifiable information. We may collect and measure session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
-To deliver services, such as specific vehicle recommendations that you request or products that you purchase. To alert you to new articles and reviews, news and updated information.  If you decline to receive this mail or email, we allow you to opt out (see “Control of Information.”) 
+We might also receive information about you from other sources and add it to our account information. Examples of these include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information including paid listings. Supplemental information from third parties may also include credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. For example, if the information you provide cannot be verified, we may ask you to send us additional information (such as your driver license, credit card statement, and/or a recent utility bill or other information confirming your address), or to answer additional questions online to help verify your information.)
 
-To give you access to limited-entry areas of our site, as appropriate. We will disclose your information only where it is necessary to do the following: 
+We also store certain types of information when you interact with us on our web site. For example, we use "cookies" and can obtain certain information from your web browser. By transferring these alphanumeric identifiers or "cookies" that your browser creates at our request in an approved and standardized place on your computer, **FamilyCar.com** assigns you a unique customer code and records information about your activity on our site. When you visit or return to our site, we read the cookie to identify you as one of our customers and help you recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. The cookie does not retain your billing information, nor does it save any of your personally identifiable information in an explicit fashion.
 
-  * Enable third parties to perform specific tasks for us. When we use outside companies to perform services on our behalf, like processing orders, shipping merchandise, mailing fliers, etc., we provide those companies with the information required to perform the task and we prohibit them from using the information for any other purpose. 
+Most Web browsers accept cookies by default, but allow users to reject cookies by changing the browser preferences. If you have set up your browser to reject cookies, some aspects of our site, including our Shopping Cart, will not work properly. This privacy statement covers the use of cookies by **FamilyCar.com** only and does not cover the use of cookies by any advertisers.
 
-  * Meet legal requirements when there is a good-faith belief that such action is required by law; or to protect the safety of employees or members of the public. 
+We use third-party advertising companies to serve ads on our behalf. These companies may use a cookie or an action tag to track your response to their advertisement and to measure the effectiveness of their advertising or to award incentives or points to their members who respond to their advertisements. **FamilyCar.com** has no access to or control over these cookies. By using these Action Tags **FamilyCar.com** does not gain access to any of your information collected by these advertisers nor does it share any of your personally identifiable information such as your name, telephone number or address with these companies unless the advertiser or **FamilyCar.com** otherwise notifies you. Please [click here](http://www.networkadvertising.org/) in order to learn more about the information collection practices of some of the third party advertising companies we may use. Please [click here](http://www.networkadvertising.org/managing/opt_out.asp) in order to learn more about the "opt-out" procedures of some of the third party advertising companies we may use.
 
+**FamilyCar.com** occasionally enters into cooperative marketing arrangements with independent companies. Under these cooperative marketing arrangements, our site may display the name and/or brand(s) of the independent company. Personally identifiable information that you supply to us while you are on our site, whether or not our site displays a name or brand of another company, will be handled in accordance with this **FamilyCar.com** Privacy Policy and will not be shared with the cooperative marketing company unless **FamilyCar.com** otherwise notifies you.
 
+**Use of Information:**
 
+To carry out certain business functions, such as order fulfillment or e-mail delivery, we sometimes hire other companies to perform these functions on our behalf. These companies have access to the information needed to perform their functions, but are required to keep it secure and confidential and not use it for any other purpose than completing their contractual requirements to **FamilyCar.com**. As a part of the normal process of completing your purchase, **FamilyCar.com** may provide your personal data to a third party payment processor, depending on your chosen method of payment. 
 
-**Control of Information:** When you give us personal information, we will not share it with third parties without your permission, except under the circumstances stated above. 
+Any credit card or similar payment information you submit is used in billing for the specific transaction in which the information was submitted unless otherwise disclosed. Payment information is stored for a time on our secure servers to allow the processing of refunds or to respond to customer inquiries. Immediately after the completion of your **FamilyCar.com** online transaction, you may be presented with an opportunity to purchase third party products or services that we believe may be of interest to you. These products and services are offered by, and would be supplied by, independent companies not owned or operated by **FamilyCar.com**. If you select one of the presented offers, you will be redirected to the site of the third party. Information you provide to the third party and any dealings you have with the third party will be governed by the privacy and other policies of that third party. We will not provide your credit card or other payment details to a third party in connection with one of these offers unless you indicate to us that we are authorized to do so.
 
-If you have questions about the accuracy of your personal information or if you wish to remove yourself from our email list, please contact us using the information at the bottom of this page.
+From time-to-time **FamilyCar.com** may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
 
-**Security of Information:** We are committed to protecting your personal information. When we transmit sensitive information (such as a credit card number) over the internet, we protect it by using encryption, such as the Secure Socket Layer (SSL) protocol.  We do not keep your credit card information in our database.  You will have to reenter it every time you make a purchase.
+**FamilyCar.com** may use aggregate, non-personally identifying information for purposes that we deem necessary. For instance, we will use this non-identifying and aggregate information to better design our web site and to share with advertisers for marketing and promotional purposes. However, in these instances we do not disclose anything that could be used to identify you. We do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described herein without providing you an opportunity to opt-out of such operations.
 
-**Protection of Children's Personal Information:** We do not knowingly collect personal information from children through our web pages.
+It is possible that in the future **FamilyCar.com** or its assets may be acquired by another company. It is also possible that **FamilyCar.com** may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information may be transferred to the new business entity as one of **FamilyCar.com** assets. In such an event, we will update this policy to notify you of such change in ownership or control of your personal information.
 
-**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: [www.google.com](http://www.google.com/) or the privacy policies on the web sites that the links take you to.
+**Compliance with Law and Fraud Protection:**
 
-**Use of Cookies:** If we use "cookies", it is only as session variables to provide a better experience as users move from page to page.  The “cookies” we use are temporary and are removed from memory when the user leaves the browser. 
+We may collect and disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may collect and possibly share personally identifiable information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.
 
-**Revisions to this Statement** We reserve the right to change this privacy statement without notice to individuals. When we do, we will revise the effective date at the top and, if appropriate, place a notice on our Home Page.
+**Secure Encryption**
 
-If you feel that this site is not following its stated information policy, or if you have questions about our privacy policy, please direct all questions about our privacy policy by writing to: 
+We use Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL works best when you are using the latest 128-bit encryption version of Microsoft Internet Explorer.
 
-Familycar.com, a division of SmartTrac Computer Systems, Inc.  
-328 Old Town Road   
-East Setauket, NY, 11733   
-[Contact Us](https://web.archive.org/ASP/sendmessage.php)   
-(631) 928-2861
+SSL technology represents the highest level of security available on the Internet. It automatically encrypts information traveling over the Internet, verifies the identity of the transacting servers through certificates and digital signatures, and confirms that the integrity of message content is maintained throughout transmission.
 
-Copyright �  1983-2007, SmartTrac Computer Systems, Inc.  
-All Rights Reserved.
+**FamilyCar.com** minimum requirement for transactions is the standard 40-bit or 56-bit encryption supported by the Internet Explorer 5.0 browser. If you are not using this browser, please refer to your browser's documentation for information on its security features.
+
+We transmit the entire credit card number to the appropriate credit card company during order processing, but we reveal only the last five digits of your credit card numbers when confirming an order in compliance with Payment Card Industry Data Security Standard.
+
+**Changes to this Privacy Policy:**
+
+This privacy policy was last modified on 10/26/2007.
+
+**FamilyCar.com** may revise this policy from time to time. If we decide to change our privacy policy, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+**Credit Card Security**
+
+The FamilyCar Security Guarantee protects you while you shop at FamilyCar so you never have to worry about credit card safety. We guarantee that every transaction you make at FamilyCar will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at FamilyCar. Our servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, AOL, and Apple's Safari's browser. This ensures that only FamilyCar can read your personal information. We reveal only the last four digits of your credit card numbers when confirming an order. We will, however, transmit the entire credit card number to the appropriate credit card company during order processing. 
+
+After you click on the "checkout" button, be sure that the website's URL always begins with https://www.FamilyCar.com/ The "s" in "https://" at the beginning of the URL means you are logging into a secure page. If the URL does not begin with https, you are not on any FamilyCar page. 
+
+FamilyCar has also obtained a digital certificate from Network Solutions, a leading provider of Internet trust services. When you enter a secured portion of our site, an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in a secure (encrypted) form to an FamilyCar Web server, not to an unknown or unauthorized server. 
+
+This site is regularly tested and certified to pass the HACKER SAFE Security Scan. HACKERSAFE helps protect you from identity theft and credit card fraud. The "live" HACKER SAFE mark appears only when a web site meets the HACKER SAFE standard. 
+
+Ultimately, your personal information is protected by the password you created when you registered for an account at FamilyCar on the "Log-In / Quick Checkout" page. Please keep this password confidential. No representative of FamilyCar will ever ask you for your password. The confidentiality of your password is yours to protect. 
+
+**Customer Service**
+
+We understand that buying auto accessories for your vehicle can sometimes be frustrating and confusing. There are times your local parts store or dealer doesn't have the information or range of product you are looking for. Our Auto Accessory Specialists have received in-depth product specific training and will help you find the best product for your vehicle. 
+
+**Toll-Free Calling for FamilyCar Customers**
+
+Every customer of FamilyCar has the unique privilege of accessing our toll-free number at 1-800-913-6085. Waiting on the other end are FamilyCar's highly-trained Auto Accessory Specialists, ready with a wealth of information on every product we sell. Auto Parts Specialists are here to solve your problems and answer questions. 
