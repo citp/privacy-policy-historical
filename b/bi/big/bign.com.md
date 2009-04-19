@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bign.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419020644id_/http%3A//www.bign.com/privacy/default.asp) for the most accurate reproduction.*
 
 # National Companies
 
-[Home](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20081217100022id_/http%3A//www.bign.com/privacy/default.asp)  
+[Home](https://web.archive.org/web/20090419020644id_/http%3A//www.bign.com/default.asp) > [Privacy Policy](https://web.archive.org/web/20090419020644id_/http%3A//www.bign.com/privacy/default.asp)  
 Privacy Policy
 
 Our Commitment To Privacy   
@@ -42,4 +42,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 Sharing of Information With Third Parties
 
-Except as stated above or when necessary to share your information with National Companies agents or business partners for the purposes of performing services for National Companies, your personal information (name, address, telephone number, e-mail address or other information) will not be provided to any third party without your prior consent. We have restricted our agents and business partners from using your personal information in any way other than to provide the services contracted for by National Companies.
+Except as stated above or when necessary to share your information with Team National/National Companies agents or business partners for the purposes of performing services for Team National/National Companies, your personal information (name, address, telephone number, e-mail address or other information) will not be provided to any third party without your prior consent. We have restricted our agents and business partners from using your personal information in any way other than to provide the services contracted for by Team National/National Companies.
