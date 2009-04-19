@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035223id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudlaunch.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419225957id_/http%3A//www.loudlaunch.com/privacy.aspx) for the most accurate reproduction.*
 
 # LoudLaunch.Com - Create market buzz and build links through sponsored reviews and blog advertising.
 
