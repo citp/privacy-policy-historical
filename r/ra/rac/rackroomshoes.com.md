@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200127id_/http%3A//www.rackroomshoes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419154103id_/http%3A//www.rackroomshoes.com/privacy.asp) for the most accurate reproduction.*
 
 # Rack Room Shoes - Men's Women's and Kids Shoes, Handbags and Backpacks
 
@@ -6,24 +6,15 @@
 
 **This Privacy Policy (the "Policy") is intended to explain what Rack Room Shoes does with your information and what you can expect from Rack Room Shoes regarding the privacy of your information, including:**
 
-  1. What information is being collected and how.  
-
-  2. How such information will be used.  
-
-  3. The choices available to consumers regarding collection, use and distribution of information, including an opt-out.  
-
-  4. How to change your information.  
-
-  5. A statement regarding Rack Room Shoes’ commitment to data security, including the steps that Rack Room Shoes takes to protect data quality and access.  
-
-  6. The consequences, if any, of a customer's refusal to provide information.  
-
-  7. How to contact Rack Room Shoes and/or otherwise hold Rack Room Shoes accountable for the Policy.  
-
-  8. How you can know if the Policy has been revised.  
-
-  9. Links to other websites; and  
-
+  1. What information is being collected and how.
+  2. How such information will be used.
+  3. The choices available to consumers regarding collection, use and distribution of information, including an opt-out.
+  4. How to change your information.
+  5. A statement regarding Rack Room Shoes’ commitment to data security, including the steps that Rack Room Shoes takes to protect data quality and access.
+  6. The consequences, if any, of a customer's refusal to provide information.
+  7. How to contact Rack Room Shoes and/or otherwise hold Rack Room Shoes accountable for the Policy.
+  8. How you can know if the Policy has been revised.
+  9. Links to other websites; and
   10. Children's privacy.
 
 
@@ -46,7 +37,7 @@ As with any business, it is possible that as our business develops, we may sell 
 
 6. At no time are you obligated to provide us any personal information in order to use and enjoy our website. It is Rack Room Shoes’ policy to collect only that information that Rack Room Shoes needs to meet our customers’ needs, conduct our business efficiently, and communicate special or specific offers to you. There is no consequence if you do not wish to provide Rack Room Shoes with your personally identifiable information, except that you will not be able purchase items on our website or receive those certain communications that are delivered only to our opt-in list. 
 
-7. If you feel at anytime that your personally identifiable information has been compromised by Rack Room Shoes, please contact us immediately at rackroomshoes@in10sity.net. 
+7. If you feel at anytime that your personally identifiable information has been compromised by Rack Room Shoes, please contact us immediately at [rackroomshoes@in10sity.net](mailto:rackroomshoes@in10sity.net). 
 
 8. Rack Room Shoes reserves the right to change our Policy as our business changes. If this Policy changes, we will post an updated Policy on our website. You can tell if this Policy has changed by checking the revision date and version number that appear at the end of this Policy.
 
@@ -62,6 +53,6 @@ Following is an explanation of our policies regarding collection of information 
 
 **(c)   _Parental Consent_**.  If Rack Room Shoes has actual knowledge that any child under the age of 13 has attempted to provide any personally identifiable information, we will send an e-mail to the parental e-mail address provided to us, and allow parents 48 hours to refuse a child’s submission (and our subsequent collection and use for a stated purpose) of personally identifiable information. If the parent refuses to allow the child’s submission (and our subsequent collection and use for a stated purpose), we will promptly delete the child’s information from our database. If for any reason, the e-mail sent to the parental e-mail address is undeliverable, we will delete the child’s submission as if the parent refused the child’s submission.   In the event a child wins a sweepstakes or contest, and we want to publicize the name (and/or other personally identifiable information) of such child, we will again notify the parent at the parent's e-mail address and request that the parent provide his or her name and address for delivery of the applicable release and consent form. We will not publish or release the name or other personally identifiable information of any child as a winner of any contest without the express written consent of the child’s parent.
 
-**(d) _Review and Deletion of Information_**.  A parent can contact our customer service department at the contact information provided in (7) above at any time to review, change, or delete the personally identifiable information that we have collected from his or her child.  A parent may also expressly request that a child’s information not be shared with those limited third-parties with which we may share information, as necessary (and except as may be required pursuant to applicable laws), pursuant to (b) above.  If you need any further information, or have any questions regarding our collection of personally identifiable information from children, please contact us at: Rack Room Shoes Marketing Department, 8310 Technology Drive, Charlotte, NC 28262, or rackroomshoes@in10sity.net
+**(d) _Review and Deletion of Information_**.  A parent can contact our customer service department at the contact information provided in (7) above at any time to review, change, or delete the personally identifiable information that we have collected from his or her child.  A parent may also expressly request that a child’s information not be shared with those limited third-parties with which we may share information, as necessary (and except as may be required pursuant to applicable laws), pursuant to (b) above.  If you need any further information, or have any questions regarding our collection of personally identifiable information from children, please contact us at: Rack Room Shoes Marketing Department, 8310 Technology Drive, Charlotte, NC 28262, or [rackroomshoes@in10sity.net](mailto:rackroomshoes@in10sity.net)
 
 This Privacy Policy was last updated on 7/09/2008 and is Version 1.3. 
