@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218185120id_/http%3A//joshreads.com/%3Fpage_id%3D1459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419142843id_/http%3A//joshreads.com/%3Fpage_id%3D1459) for the most accurate reproduction.*
 
 # The Comics Curmudgeon » Privacy Policy
 
@@ -10,7 +10,7 @@ The actual information my site collects falls into two categories: data that you
 
 **Passive data.** When you visit any page in the joshreads.com domain, certain information about you is reported by my server: your IP address, and some information about your computer itself, including the browser and operating system you’re using, your screen resolution, and whether you have Flash or JavaScript enabled. I use the latter data to make sure my site design reflects the capabilities of my visitors.
 
-When you visit any page in the joshreads.com domain, my site, and perhaps those of some of my advertising partners, will send a _cookie_ to your browser. A cookie is a small piece of information that your browser stores in memory; it helps identify you as a repeat visitor when you return. I use this information to determine the number of repeat visitors I have. If you would prefer not to receive this cookie, all major Web browsers can be set to not accept them; see your browser documentation for more details.
+When you visit any page in the joshreads.com domain, my site, and perhaps those of some of my advertising partners, will send a _cookie_ to your browser. A cookie is a small piece of information that your browser stores in memory; it helps identify you as a repeat visitor when you return. I use this information to determine the number of repeat visitors I have. If you would prefer not to receive this cookie, all major Web browsers can be set to not accept them; see your browser documentation for more details. You can also opt to specifically not receive the cookie used by Google ads by [clicking here](http://www.google.com/privacy_ads.html).
 
 Some advertisers may also use _Web beacons_ — small, invisible graphics loaded by your browser — to follow your browsing history as you navigate through my and other sites. This navigation history may be used to choose and tailor the ads you will see, in the hopes that they will be more relevant to you. Both the beacons and the cookies only track information about your browser and browsing, and not you personally; specifically, neither can nor will collect your name, address, email address or telephone number.
 
