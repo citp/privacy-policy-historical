@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112721id_/http%3A//www.nycomiccon.com/app/homepage.cfm%3Fappname%3D100453%26moduleID%3D2570%26LinkID%3D17915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419115256id_/http%3A//www.nycomiccon.com/app/homepage.cfm%3Fappname%3D100453%26moduleID%3D2570%26LinkID%3D17915) for the most accurate reproduction.*
 
 # New York Comic Con - February 6-8, 2009
 
