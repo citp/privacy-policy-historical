@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripadvisor.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217010737id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripadvisor.com privacy policy that was archived on 2009-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419070849id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -28,7 +28,7 @@ currencyLevel["CAD"] = new Array("Any Price", "0,9999999", "Under CAD 100", "0,1
 currencyLevel["AUD"] = new Array("Any Price", "0,9999999", "Under AUD 100", "0,100", "Under AUD 200", "0,200", "Under AUD 300", "0,300");
 currencyLevel["CHF"] = new Array("Any Price", "0,9999999", "Under CHF 100", "0,100", "Under CHF 200", "0,200", "Under CHF 300", "0,300");
 currencyLevel["JPY"] = new Array("Any Price", "0,9999999", "Under 10,000 Yen", "0,10000", "Under 20,000 Yen", "0,20000", "Under 30,000 Yen", "0,30000");
-currencyLevel["CNY"] = new Array("Any Price", "0,9999999", "Under 700 Yuan", "0,700", "Under 1,400 Yuan", "0,1400", "Under 2,000 Yuan", "0,2000");
+currencyLevel["RMB"] = new Array("Any Price", "0,9999999", "Under 700 Yuan", "0,700", "Under 1,400 Yuan", "0,1400", "Under 2,000 Yuan", "0,2000");
 currencyLevel["TWD"] = new Array("Any Price", "0,9999999", "Under 3,000", "0,3000", "Under 7,000", "0,7000", "Under 10,000", "0,10000");
 currencyLevel["HKD"] = new Array("Any Price", "0,9999999", "Under $100", "0,100", "Under $200", "0,200", "Under $300", "0,300");
 currencyLevel["INR"] = new Array("Any Price", "0,9999999", "Under \u20A84,000", "0,4000", "Under \u20A88,000", "0,8000", "Under \u20A812,000", "0,12000");
@@ -39,10 +39,14 @@ currencySymbol["CAD"] = new Array("CAD ", cur_prefix);
 currencySymbol["AUD"] = new Array("AUD ", cur_prefix);
 currencySymbol["CHF"] = new Array("CHF ", cur_prefix);
 currencySymbol["JPY"] = new Array(" Yen", cur_postfix);
-currencySymbol["CNY"] = new Array(" Yuan", cur_postfix);
+currencySymbol["RMB"] = new Array(" Yuan", cur_postfix);
 currencySymbol["TWD"] = new Array("", cur_postfix);
 currencySymbol["HKD"] = new Array("$", cur_prefix);
 currencySymbol["INR"] = new Array("\u20A8", cur_prefix);
+currencySymbol["SEK"] = new Array(" SEK", cur_postfix);
+currencySymbol["BRL"] = new Array("R$ ", cur_prefix);
+var groupingSize = 3;
+var groupingSeparator = ",";
 var JS_location_not_found = "Your location not found.";
 var JS_click_to_expand = "Click to Expand";
 var JS_choose_valid_city = "Please choose a valid city from the list.";
@@ -53,6 +57,12 @@ var JS_Stop_search = "stop search";
 var JS_Resume_search = "Resume search";
 var JS_Thankyou = "Thank you";
 var JS_DateFormat = "mm/dd/yyyy";
+var JS_review_lost = "Your review will be lost.";
+var JS_coppa_sorry = "We're sorry....";
+var JS_coppa_privacy = "Based on information you submitted, your TripAdvisor account does not meet the requirements of our <a href='/pages/privacy.html'>Privacy Policy</a>.";
+var JS_coppa_deleted = "Your account has been deleted.";
+var JS_close = "Close";
+var JS_close_image = "http://cdn.tripadvisor.com/img2/buttons/closeButton.gif";
 var JS_Any_Date = "Any Date";
 var JS_Update_List = "Update List";
 var sNexusTitleMissing = "The title must be populated";
@@ -60,7 +70,19 @@ var JS_Challenge="Challenge";
 var JS_TIQ_Level="Level";
 var JS_TIQ="Travel IQ";
 var JS_TIQ_Pts="pts";
+var RATING_STRINGS = [
+"(Click to rate)",
+"Terrible",
+"Poor",
+"Average",
+"Very Good",
+"Excellent"
+];
 var hideOnLoad = new Array();
+var IS_DEBUG = false;
+var CDNHOST = "http://cdn.tripadvisor.com";
+var VERSION_MAP = {
+}
 var cookieDomain = ".tripadvisor.com";
 var pageServlet = "StaticVelocityXmlPage";
 var cdnHost = "http://cdn.tripadvisor.com";
@@ -75,7 +97,7 @@ var add           = "http://cdn.tripadvisor.com/img/saves/addFolder.gif";
 var userLoggedIn = false;
 var migrationMember = false;
 var savesEnable = true;
-var savesJS = 'http://cdn.tripadvisor.com/js2/saves-v5b.js';
+var savesJS = 'http://cdn.tripadvisor.com/js2/saves-v3271511395a.js';
 var flagsUrl = '/pages/privacy.html';
 var lang_Close  = "Close";
 var img_loop    = "/img2/generic/site/loop.gif";
@@ -83,7 +105,9 @@ var communityEnabled = true
 var footerFlagFormat = "";
 var modelLocId = "";
 var gKey = '';
-var mapsJs = 'http://cdn.tripadvisor.com/js2/ta_maps-v5b.js';
+var gLang = '';
+var mapsJs = 'http://cdn.tripadvisor.com/js2/ta_maps-v2395680472a.js';
+var mapsJsLite = 'http://cdn.tripadvisor.com/js2/lib/extensions/TAMap-v4218019870a.js';
 ;
 function DHTMLPopupRequest(action, responseFunction, errorFunction, formElement)
 {
@@ -203,7 +227,7 @@ x = 5000;
 y = 5000;
 }
 Cookie.set("CommercePopunder", "SuppressAll", {domain: cookieDomain, duration: 5});
-var cpu_uri = 'http://'+window.location.hostname+'/CommercePopunderEnhanced?mainWindowReturnTo=/pages/privacy.html&fromServlet=StaticVelocityXmlPage';
+var cpu_uri = 'http://'+window.location.hostname+'/CommercePopunderEnhanced?mainWindowReturnTo=%2Fpages%2Fprivacy.html&fromServlet=StaticVelocityXmlPage&backupLoc=33002';
 if (triggerType == 'click')
 {
 cpu_uri = cpu_uri + "&onclick=1"
@@ -218,7 +242,7 @@ cpu_win.resizeTo(790,660);
 }
 else
 {
-new Asset.image('/ActionRecord?action=fail_commercePopunderBlocked');
+new Asset.image('/ActionRecord?action=fail_commercePopunderBlocked_' + triggerType);
 if (triggerType == 'unload')
 {
 Cookie.set("CommercePopunder", "SuppressUnload", {domain: cookieDomain, duration: 5});
@@ -241,25 +265,25 @@ document.addEvent('click', function (e) { cpu_go (e, 'click'); } );
 }
 }
 </script>
-<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/tripadvisor-v182b.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/main-v83b.css">
-<link rel="stylesheet" type="text/css" media="print" href="http://cdn.tripadvisor.com/css2/required/print-v7b.css">
+<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/tripadvisor-v1094092455a.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/main-v3104071940a.css">
+<link rel="stylesheet" type="text/css" media="print" href="http://cdn.tripadvisor.com/css2/required/print-v3587670129a.css">
 <!--[if IE]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE-v53b.css" />
-  <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE-v2014465669a.css" />
+        <![endif]-->
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE6-v54b.css" />
-  <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE6-v3877380386a.css" />
+        <![endif]-->
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE7-v12b.css" />
-  <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.tripadvisor.com/css2/required/conditionals/winIE7-v3229411743a.css" />
+        <![endif]-->
 <style type="text/css">
 body{}
 </style>
-<!-- web05b.tripadvisor.com -->
+<!-- web05a.tripadvisor.com -->
 <!-- PRODUCTION -->
 <!-- PRODUCTION -->
-<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/trsupp-v1b.js"></script>
+<script type="text/javascript" src="http://cdn.tripadvisor.com/js2/trsupp-v489395716a.js"></script>
 </head>
 <body>
 <script type="text/javascript">
@@ -272,21 +296,33 @@ SV_DEFAULT_FOLDER_NAME = "My Trip";
 SV_IS_POPUP = 0;
 }
 </script>
+<div id="BAD_VERSION">
+<div class="data">
+<div>
+<b>We noticed that you're using an unsupported browser. The TripAdvisor website may not display properly.</b><br> We support the following browsers:
+<b>Windows:</b>
+<a rel="nofollow" target="_blank" href="http://www.microsoft.com/windows/ie/default.htm">Internet Explorer</a>,
+<a rel="nofollow" target="_blank" href="http://www.mozilla.com/firefox/">Mozilla Firefox</a>.
+<b>Mac:</b>
+<a rel="nofollow" target="_blank" href="http://www.apple.com/safari/">Safari</a>.
+</div>
+</div>
+</div><!-- / BAD_VERSION -->
 <div id="iframediv"></div>
 <div id="PAGE">
-<div id="HEAD">
-<div class="wrap">
-<div class="identity" style="height: 45px"><a href="/"><img src="http://cdn.tripadvisor.com/img2/branding/idHeadINT-V1.png" height="45" alt="TripAdvisor - Hotel Reviews"></a></div><!--/ identity-->
-<div class="punchLine"><b> Over 15 million traveler reviews &amp; opinions of hotels, vacations &amp; more
-</b></div> </div><!--/ wrap-->
+<div id="HEAD" class="globalNav">
+<div class="identity flightsPromo">
+<div class="logoTakeover">
+<a class="home" href="/" rel="nofollow">
+<img src="http://cdn.tripadvisor.com/img2/branding/idHeadIDX_Flights.gif" alt="TripAdvisor - Hotel Reviews">
+</a>
+<div class="flightLn">get <a class="pid1515" href="/FlightSweeps" rel="nofollow">1,000,000 miles</a>. then go.</div>
+</div>
+<div class="topPunchln promo"><img src="http://cdn.tripadvisor.com/img2/branding/idHeadPunchLine.png" height="45" alt="Over 20 million traveler reviews &amp; opinions!"></div>
+</div>
 <div class="prfs">
-<div class="opts">
-<ul>
-<li class="icn unregistered b">My TripAdvisor</li> <li class="icn login last"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-wcmi" class="pid429">Sign in</a></li> </ul>
-</div><!--/ opts-->
-<div class="prompt">
-<ul>
-<li class="icn register flyout"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-j1-wcmy" class="pid427">Register Now!</a>
+<ul class="opts">
+<li class="icn unregistered first">My TripAdvisor</li> <li class="icn login last"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-wcmi" class="pid429">Sign in</a></li> <li class="icn register flyoutX" id="register" onclick="return ta.call('ta.common.flyout.register', event)"><a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-j1-wcmy" class="pid427">Register Now!</a>
 <div class="flyoutContents"><div class="flyoutContentsWide register">
 <ul>
 <li><b>When you register you can:</b>
@@ -306,76 +342,107 @@ SV_IS_POPUP = 0;
 </div><!--/ button-->
 <div class="reminder">Already a member? <a rel="nofollow" href="/MemberSignIn-e__2F__pages__2F__privacy__2E__html-wcmi" class="pid429">Sign in</a></div> </div></div><!--/ flyoutContents-->
 </li>
-</ul>
-</div><!--/ prompt-->
+<li class="icn intSites last" id="INTLPOP" onclick="ta.call('ta.common.flyout.intlPopup', event)"><span><img src="http://cdn.tripadvisor.com/img2/sprites/flags-v2.gif" alt="International Sites" title="International Sites"></span></li> </ul><!--/ opts-->
 </div><!--/ prfs-->
-<div class="navBar">
-<ul>
-<li class="icn first" id="INTLPOP"><span class="hvrIE6">International Sites</span></li> <li><a href="/" rel="nofollow">Home</a></li> <li class="icn" id="DESTINATIONSPOP"><span class="hvrIE6">Destinations</span></li>
-<li class="icn" id="FUNSTUFFPOP"><a href="/FunStuff" rel="nofollow">Fun &amp; Games</a></li> <li><a href="/MemberBenefits" rel="nofollow">Free Travel Guides</a></li>
-<li><a href="/Inspiration" rel="nofollow" class="pid1337">Vacation Ideas</a></li>
+<div class="tabsBar">
+<ul class="noPgHdr">
+<li><a href="/" class="pid1571" rel="nofollow">Home</a></li>
+<li><a href="/Hotels" rel="nofollow">Hotels</a></li>
+<li class="new"><a href="/Flights" rel="nofollow">Flights</a></li> <li><a href="/Restaurants" rel="nofollow">Restaurants</a></li> <li><a href="/Inspiration" class="pid1337" rel="nofollow">Trip Ideas</a></li> <li><a href="/TravelGuides" rel="nofollow">Free Travel Guides</a></li>
 </ul>
-</div><!--/ navBar-->
-</div><!--/ HEAD-->
-<div id="MAIN" class="StaticVelocityXmlPage">
-<div id="LEFTNAV" class="col">
+</div><!--/ .tabsBar-->
+<div class="srchBar">
 <div class="navSrch" id="SEARCH_LHN">
 <form method="get" action="/Search">
 <fieldset>
-<legend>
-Search </legend>
+<div class="legend"> Search </div><!--/ .legend-->
 <input type="hidden" name="returnTo" value="__2F__pages__2F__privacy__2E__html">
 <input type="text" name="q" class="text">
-<input type="submit" name="sub-search" class="submit" value="Go" title="Go"> <input type="hidden" name="geo" value="">
+<input type="image" src="http://cdn.tripadvisor.com/img2/x.gif" name="sub-search" class="submit" value="Go" title="Go">
+<input type="hidden" name="geo" value="">
 </fieldset>
 </form>
-</div>
+</div> <div class="wrtRev"><a href="/UserReview-e__2F__pages__2F__privacy__2E__html" rel="nofollow" class="pid1434">Write a Review</a></div>
+</div><!--/ .srchBar-->
+</div><!--/ HEAD-->
+<div id="MAIN" class="StaticVelocityXmlPage">
+<div id="LEFTNAV" class="col">
+<div class="navSrch noSrch"><!-- --></div>
 <div class="lhnHigh onShow">
 <ul>
 <li>
-<a href="/pages/about_us.html">About TripAdvisor</a>
+<a class="k_static" href="/pages/about_us.html">
+About TripAdvisor
+</a>
 </li>
 <li>
-<a href="/help">Help Center</a>
+<a class="k_help_center" href="/help">
+Help Center
+</a>
 </li>
 <li>
-<a href="/PressCenter-c4-Fact_Sheet.html">Fact sheet</a>
+<a class="k_press_center" href="/PressCenter-c4-Fact_Sheet.html">
+Fact sheet
+</a>
 </li>
 <li>
-<a href="/PressCenter-c5-Our_Team.html">Our team</a>
+<a class="k_press_center" href="/PressCenter-c5-Our_Team.html">
+Our team
+</a>
 </li>
 <li>
-<a href="/careers/jobs">Jobs</a>
+<a class="k_static" href="/careers/jobs">
+Jobs
+</a>
 </li>
 <li class="mark viewing">
-<span class="lhnselected">Privacy policy</span>
+<span class="lhnselected k_static">Privacy policy
+</span>
 </li>
 <li>
-<a href="/pages/terms.html">Terms of Use</a>
+<a class="k_static" href="/pages/terms.html">
+Terms of Use
+</a>
 </li>
 <li>
-<a href="/PressCenter">Press center</a>
+<a class="k_press_center_home" href="/PressCenter">
+Press center
+</a>
 </li>
 <li>
-<a href="/PressCenter-c2-Press_Coverage.html">In the news</a>
+<a class="k_press_center" href="/PressCenter-c2-Press_Coverage.html">
+In the news
+</a>
 </li>
 <li>
-<a href="/PressCenter-c1-Press_Releases.html">Press releases</a>
+<a class="k_press_center" href="/PressCenter-c1-Press_Releases.html">
+Press releases
+</a>
 </li>
 <li>
-<a href="/PressCenter-c3-Awards.html">Awards</a>
+<a class="k_press_center" href="/PressCenter-c3-Awards.html">
+Awards
+</a>
 </li>
 <li>
-<a href="/pages/getlisted.html">Get listed</a>
+<a class="k_static" href="/pages/getlisted.html">
+Get listed
+</a>
 </li>
 <li>
-<a rel="nofollow" href="/UserReview">Write a review</a>
+<a rel="nofollow" class="k_user_review" href="/UserReview">
+Write a review
+</a>
 </li>
 <li>
-<a href="/pages/management_response.html">Management response</a>
+<a class="k_static" href="/pages/management_response.html">
+Management response
+</a>
 </li>
 <li>
-<a href="/TravelAdvisory">Travel Advisories</a>
+<a class="k_travel_advisory" href="/TravelAdvisory">
+Travel Advisories
+</a>
 </li>
 </ul>
 </div>
@@ -387,6 +454,8 @@ Search </legend>
 <div class="pageTools"></div>
 <p>TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of September 8, 2008 and governs the collection of personal information through this website on or after this date. If you have not registered or otherwise provided personal information through this site on or after September 8, 2008, please refer to our <a href="/pages/privacy_pre_060407.html" target="_blank">previous privacy policy</a> for information about how your personal information will be treated.</p>
 <p>This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, <a rel="nofollow" href="/Feedback">contact us</a>.</p>
+<h4>Update as of March 4, 2009, about our Vacation Rental Owners Outreach.</h4>
+<p>If you have signed up as the owner or manager of a vacation rental, or listed your vacation rental property in our Destination Resources section, we will send you e-mail messages at the email address you provided to us. You will be given the opportunity to unsubscribe from future promotional e-mails in any such e-mail we send to you. In addition, if you are a registered member of TripAdvisor.com, you may update your e-mail choices at any time on the Member Profile page.</p>
 <h3>Information we collect.</h3><br>
 <h4>1. Unregistered users</h4>
 <p>We encourage you to register with us in order to take advantage of TripAdvisor's many personalization features. However, you may choose not to register and take advantage of any feature of our site where registration is not required.</p>
@@ -431,56 +500,77 @@ Search </legend>
 <div class="col balance">
 <div class="block">
 <dl class="sep brand">
-<dt><img src="http://cdn.tripadvisor.com/img2/branding/identityFOOT.png" alt="TripAdvisor"></dt>
+<dt>
+<img src="http://cdn.tripadvisor.com/img2/branding/identityFOOT.png" alt="TripAdvisor">
+</dt>
 <dd class="meta">Recommendations for hotels, resorts, inns, vacations, travel packages, travel guides and lots more!</dd>
 </dl>
 <dl class="sep flags">
 <dt>Select a TripAdvisor site:</dt>
 <dd>
-<ul>
+<ul id="FLAGS">
 <li>
-<a class="flag_uk js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.co.uk/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_uk" class="flag_uk js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.co.uk/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_it js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.it/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_it" class="flag_it js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.it/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_es js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.es/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_es" class="flag_es js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.es/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_de js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.de/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_de" class="flag_de js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.de/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_fr js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.fr/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_fr" class="flag_fr js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.fr/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_ie js_noTAPD" rel="nofollow" title="TripAdvisor" href="http://www.tripadvisor.ie/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_ie" class="flag_ie js_noTAPD" rel="nofollow" title="TripAdvisor" href="http://www.tripadvisor.ie/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 <li>
-<a class="flag_ja js_noTAPD" title="トリップアドバイザー" href="http://www.tripadvisor.jp/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="トリップアドバイザー"></a>
+<a id="flag_ja" class="flag_ja js_noTAPD" title="トリップアドバイザー" href="http://www.tripadvisor.jp/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="トリップアドバイザー"></a>
 </li>
 <li>
-<a class="flag_in js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.in/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+<a id="flag_cn" class="flag_cn js_noTAPD" title="到到网 " href="http://www.daodao.com/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="到到网 "></a>
+</li>
+<li>
+<a id="flag_in" class="flag_in js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.in/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+</li>
+<li>
+<a id="flag_sv" class="flag_sv js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.se/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+</li>
+<li>
+<a id="flag_nl" class="flag_nl js_noTAPD" title="TripAdvisor" href="http://nl.tripadvisor.com/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
+</li>
+<li>
+<a id="flag_pt" class="flag_pt js_noTAPD" title="TripAdvisor" href="http://www.tripadvisor.com.br/pages/privacy.html"><img src="http://cdn.tripadvisor.com/img2/x.gif" alt="TripAdvisor"></a>
 </li>
 </ul>
 </dd>
 </dl>
 <div class="sep internal">
 <span><a rel="nofollow" href="/pages/about_us.html">About Us</a></span> |
-<span><a rel="nofollow" href="/careers">Careers</a></span> | <span><a rel="nofollow" href="/MemberProfile" class="pid432">Membership</a></span> | <span><a href="/pages/site_map_overview.html">Site Map</a></span> | <span><a rel="nofollow" href="http://affiliates.tripadvisor.com/">Become an Affiliate</a></span> | <span><a href="/pages/top200.html">Top Cities</a></span> | <span><a href="/pages/subsitemap/index.html">Hotel Reservations</a></span> | <span><a href="/pages/mtsubsitemap/index.html">Hotel Deals</a></span>
+<span><a rel="nofollow" href="/UserReview">Write a review</a></span> |
+<span><a rel="nofollow" href="/careers/">Careers</a></span> | <span><a rel="nofollow" href="/MemberProfile" class="pid432">Membership</a></span> | <span><a href="/pages/site_map_lodging.html">Site Map</a></span> | <span><a rel="nofollow" href="http://affiliates.tripadvisor.com/">Become an Affiliate</a></span> | <span><a href="/pages/top200.html">Top Cities</a></span>
 | <span><a rel="nofollow" href="http://www.cafepress.com/tripadvisor" class="js_popup">TripAdvisor™ Gear</a></span>
-| <span><a rel="nofollow" href="/TCDestinations" class="pid1057">Travelers' Choice</a></span> | <span><a rel="nofollow" href="/help" class="js_popup">Help Center</a></span> </div>
+| <span><a rel="nofollow" href="/TravelersChoice" class="pid1507">Travelers' Choice</a></span> | <span><a rel="nofollow" href="/help" class="js_popup">Help Center</a></span> </div>
 <div class="sep legal">
 <div class="copyright">
-© 2008 TripAdvisor LLC All rights reserved. TripAdvisor <a rel="nofollow" href="/pages/terms.html">Terms of Use</a> and <a rel="nofollow" href="/pages/privacy.html">Privacy Policy</a>.</div>
+© 2009 TripAdvisor LLC All rights reserved. TripAdvisor <a rel="nofollow" href="/pages/terms.html">Terms of Use</a> and <a rel="nofollow" href="/pages/privacy.html">Privacy Policy</a>.</div>
 <div class="disclaimer">
-* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (<a href="/pages/pricing_terms.html" rel="nofollow" id="TERMS">more</a>) </div>
-<div class="disclaimer">TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.</div> </div><!-- sep.legal-->
+* TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (<a href="/pages/pricing_terms.html" rel="nofollow" id="TERMS" onclick="return ta.call('ta.servlet.Popup.termsPopup', event)">more</a>) </div>
+<div>
+<b>
+This site has been tested in Internet Explorer 6.0, Mozilla Firefox 1.5 and AOL Explorer 9 on Windows Operating System and Safari 2.0 on Mac Operating System.
+</b>
+</div>
+<div class="disclaimer">TripAdvisor LLC is not responsible for content on external web sites. Taxes, fees not included for deals content.</div>
+</div><!-- sep.legal-->
 </div><!--/ block-->
 </div><!--/ col.balance-->
 </div><!--/ corporate-->
 </div><!-- FOOT-->
 </div><!--/ PAGE-->
 
-
+<!-- load time: 12 -->
 </body></html>
