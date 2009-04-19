@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154813id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419201855id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
 
 # World Hotel Link - Privacy
 
