@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the article-space.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218064354id_/http%3A//www.article-space.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the article-space.com privacy policy that was archived on 2009-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419033017id_/http%3A//www.article-space.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -8,10 +8,334 @@
 <meta name="KEYWORDS" content="free article submission, free content syndication, all topic article directory, content articles, content for targeted traffic, free content, article syndication, find free content, author submit, free content publish">
 <title>Free Article Submission | Free Content Syndication | All Topics Article Directory</title>
 <link rel="Stylesheet" href="http://www.article-space.com/mainstyle.css" type="text/css" media="screen">
+
+
+
+
+
+
+
+<style type="text/css">
+<!--
+
+.style1 {
+    font-size: 22px;
+    font-family: tahoma;
+    font-weight: bold;
+    color: #CC0000;
+}
+.style2 {
+    font-family: tahoma;
+    font-size: 14px;
+}
+.style3 {
+    font-family: tahoma;
+    font-size: 13px;
+}
+.style4 {
+    font-family: tahoma;
+    font-size: 9px;
+}
+.style5 {
+    font-family: tahoma;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.style6 {
+    font-family: tahoma;
+    font-size: 16px;
+    font-weight: bold;
+}
+.style7 {
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: bold;
+}
+.style8 {
+    font-family: tahoma;
+    font-size: 11px;
+    font-weight: bold;
+}
+.style9 {
+    font-family: tahoma;
+    font-size: 19px;
+    font-weight: bold;
+}
+.style10 {
+    font-family: tahoma;
+    font-size: 11px;
+}
+.style11 {
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: bold;
+    color: #330099;
+}
+.style12 {
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: bold;
+    color: #CC0000;
+}
+-->
+    </style>
+
+
+<style type="text/css">
+#fadeinbox{
+position:absolute;
+width: 450px;
+left: 0;
+top: -400px;
+border: 2px solid black;
+background-color: #FFFFFF;
+padding: 4px;
+z-index: 100;
+visibility:hidden;
+}
+    </style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Sticky Note script- &copy; Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit DynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+* Go to http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Specify display mode. 3 possible values are:
+//1) "always"- This makes the fade-in box load each time the page is displayed
+//2) "oncepersession"- This uses cookies to display the fade-in box only once per browser session
+//3) integer (ie: 5)- Finally, you can specify an integer to display the box randomly via a frequency of 1/integer...
+// For example, 2 would display the box about (1/2) 50% of the time the page loads.
+
+var displaymode="oncepersession"
+
+var enablefade="yes" //("yes" to enable fade in effect, "no" to disable)
+var autohidebox=["no", 5] //Automatically hide box after x seconds? [yes/no, if_yes_hide_after_seconds]
+var showonscroll="yes" //Should box remain visible even when user scrolls page? ("yes"/"no)
+var IEfadelength=1 //fade in duration for IE, in seconds
+var Mozfadedegree=0.05 //fade in degree for NS6+ (number between 0 and 1. Recommended max: 0.2)
+
+////////No need to edit beyond here///////////
+
+if (parseInt(displaymode)!=NaN)
+var random_num=Math.floor(Math.random()*displaymode)
+
+function displayfadeinbox(){
+var ie=document.all && !window.opera
+var dom=document.getElementById
+iebody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body
+objref=(dom)? document.getElementById("fadeinbox") : document.all.fadeinbox
+var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
+var docwidth=(ie)? iebody.clientWidth : window.innerWidth
+docheight=(ie)? iebody.clientHeight: window.innerHeight
+var objwidth=objref.offsetWidth
+objheight=objref.offsetHeight
+objref.style.left=docwidth/2-objwidth/2+"px"
+objref.style.top=scroll_top+docheight/2-objheight/2+"px"
+
+if (showonscroll=="yes")
+showonscrollvar=setInterval("staticfadebox()", 50)
+
+if (enablefade=="yes" && objref.filters){
+objref.filters[0].duration=IEfadelength
+objref.filters[0].Apply()
+objref.filters[0].Play()
+}
+objref.style.visibility="visible"
+if (objref.style.MozOpacity){
+if (enablefade=="yes")
+mozfadevar=setInterval("mozfadefx()", 90)
+else{
+objref.style.MozOpacity=1
+controlledhidebox()
+}
+}
+else
+controlledhidebox()
+}
+
+function mozfadefx(){
+if (parseFloat(objref.style.MozOpacity)<1)
+objref.style.MozOpacity=parseFloat(objref.style.MozOpacity)+Mozfadedegree
+else{
+clearInterval(mozfadevar)
+controlledhidebox()
+}
+}
+
+function staticfadebox(){
+var ie=document.all && !window.opera
+var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
+objref.style.top=scroll_top+docheight/2-objheight/2+"px"
+}
+
+function hidefadebox(){
+objref.style.visibility="hidden"
+if (typeof showonscrollvar!="undefined")
+clearInterval(showonscrollvar)
+}
+
+function controlledhidebox(){
+if (autohidebox[0]=="yes"){
+var delayvar=(enablefade=="yes" && objref.filters)? (autohidebox[1]+objref.filters[0].duration)*1000 : autohidebox[1]*1000
+setTimeout("hidefadebox()", delayvar)
+}
+}
+
+function initfunction(){
+setTimeout("displayfadeinbox()", 7000)
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+
+if (displaymode=="oncepersession" && get_cookie("fadedin")=="" || displaymode=="always" || parseInt(displaymode)!=NaN && random_num==0){
+if (window.addEventListener)
+window.addEventListener("load", initfunction, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initfunction)
+else if (document.getElementById)
+window.onload=initfunction
+document.cookie="fadedin=yes"
+}
+
+
+    </script>
+
 </head>
 
 
-<body><!-- POPUP <script src=header.popup/script.js></script> END -->
+<body>
+
+
+
+
+
+   <div id="fadeinbox" style="filter:progid:DXImageTransform.Microsoft.RandomDissolve(duration=1) progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135) ; -moz-opacity:0">
+      <center>
+        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tbody><tr>
+            <td>
+              <center>
+                <font class="style11"><b>Access Your FREE Gift Below: <s>$29.95</s></b> <span style="background-color: rgb(255, 255, 153);">FREE!</span></font>
+              </center>
+              <br>
+
+
+              <center>
+                <font class="style12">"Fat Burning Fairy Tales - 12 Fat Loss Myths"</font>
+              </center>
+              <br>
+
+
+              <table width="367" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody><tr valign="top">
+                  <td width="144" height="163">
+                  <img src="http://www.article-space.com/images/FatBurningFairyTalesImage.jpg"></td>
+
+                  <td width="240" valign="middle" align="center">
+
+
+<center><form method="post" action="http://www.aweber.com/scripts/addlead.pl">
+<input type="hidden" name="meta_web_form_id" value="1335488988">
+<input type="hidden" name="meta_split_id" value="">
+<input type="hidden" name="unit" value="secrettopfatlos">
+<input type="hidden" name="redirect" value="http://www.article-space.com/" id="redirect_f9305b8c712a01c733d9899d785c2a03">
+<input type="hidden" name="meta_redirect_onlist" value="">
+<input type="hidden" name="meta_adtracking" value="">
+<input type="hidden" name="meta_message" value="1">
+<input type="hidden" name="meta_required" value="from">
+<input type="hidden" name="meta_forward_vars" value="0">
+<table>
+<tbody><tr><td colspan="2"><center>
+  <p></p>
+  </center></td></tr>
+<tr><td><b>Name:</b></td><td><input type="text" name="name" value="" size="25"></td></tr>
+<tr><td><b>Email:</b></td><td><input type="text" name="from" value="" size="25"></td></tr>
+    <tr><td colspan="2"><center>
+      <p></p>
+      </center></td></tr>
+<tr><td align="center" colspan="2"><input type="submit" name="submit" value="Submit Now"></td></tr>
+</tbody></table>
+</form>
+
+<img src="http://forms.aweber.com/form/displays.htm?id=jMzMrCwcHJwcHA==" border="0">
+</center>
+
+
+
+
+
+                  </td>
+                </tr>
+              </tbody></table>
+               <font class="style3"></font>
+
+              <center>
+                <font class="style3">Fill out the form above and you'll be immediately enrolled in our free email course and access to the book above. There is no commitment either; you can opt out at any time!</font>
+              </center>
+              <font class="style3"><br>
+              </font>
+
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="6%"><img src="http://www.articleanswer.com/images/nospam.jpg" width="42" height="41"></td>
+
+                  <td width="60%"><font class="style10">We will <b>never</b> share your email with <b>anyone</b> for<br>
+                   <b>any</b> reason. We hate spam <b>more</b> than you do!&nbsp;</font> </td>
+
+                  <td width="34%">
+                    <div align="right">
+                      <a href="#" onclick="hidefadebox();return false"><b><font class="style3"><br>
+                       Close Window [X]</font></b></a>
+                    </div>
+                    &nbsp;
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </center>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- POPUP <script src=header.popup/script.js></script> END -->
 <div align="center">
 
 <table class="maintable" cellspacing="0" cellpadding="0" width="750">
@@ -120,7 +444,7 @@ google_ad_height = 90;
 <div class="rightnavbox">
 <center>
 
-<a href="http://www.gasinwater.com"><b>Run Car On Water Now</b><br><img border="0" src="http://www.article-space.com/images/gaswater.jpg"></a>
+<a href="http://www.gasinwater.com"><img border="0" src="http://www.article-space.com/images/runcarwithwater.gif"><br><br><b>Run Car On Water Now</b></a>
 
 </center>
 </div><br>
@@ -142,6 +466,9 @@ google_ad_height = 90;
 <div class="rightnavbox">
 
 <center>
+
+<a href="http://bmt2005.zharmaga.hop.clickbank.net/?tid=ARTSPACE"><img border="0" src="http://www.article-space.com/images/indianrecipes.gif"></a><br><br>
+
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-6619045090166136";
