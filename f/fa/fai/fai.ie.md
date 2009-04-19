@@ -1,39 +1,57 @@
-> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607120522id_/http%3A//www.fai.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419044802id_/http%3A//www.fai.ie/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1994) for the most accurate reproduction.*
 
-# Welcome to the FAI!
+# FAI.ie - FAI Privacy Statement
 
-**Privacy Policy  
-Football Association of Ireland**
+**General**  
+The Football Association of Ireland (FAI) respects your privacy and has created this statement to demonstrate our commitment to protecting it.  In general you can visit the FAI on the web without identifying yourself and we will not collect any personal information about you on our website without your clear permission. Any information you do submit will be treated strictly in accordance with the Data Protection Acts, 1988 and 2003.
 
-**The Football Association of Ireland** ("the FAI") acknowledges the importance of protecting the privacy of personal data provided by our users, and is committed to privacy protection. This Privacy Policy describes the manner in which we collect and use personal data we receive from our users.
+**Scope**  
+The FAI websites are [www.fai.ie](http://www.fai.ie/), [www.faivantageclub.com](http://www.faivantageclub.com/) and [www.eircomloi.ie](http://www.eircomloi.ie). This statement outlines our privacy policy with regard to these websites. We are not responsible for the content or privacy practices of other linked websites. 
 
-You must consent to the terms of this Privacy Policy to use all of our services. Some services may be available even if you do not consent. If we change our Privacy Policy, we will require you to consent to any changes prior to your continued use of all of our services. If you do not consent, you can contact us to discuss the policy, stop use or deregister. The FAI is, for the purposes of European Data Protection law, the controller of all personal data supplied by you. No information requested on this site is required to be provided by you though certain services provided by us may require you to submit personal data as more fully described below.
+**Technical Information**  
+Technical details of your visit to FAI websites are recorded. These include IP addresses, browser details and web search terms. This information will only be used for statistical and site management purposes. And to help us make our site more user friendly.
 
-**INFORMATION COLLECTED**  
-We may ask you for your name, address, telephone number, email address, a unique login name, password, and password validation on registration in order to identify you in our records, allow us to provide you the highest standards of best customer service, to customise the content of our site to meet your specific needs and to make improvements to our website. Your email address is collected also so that we may send you an email message confirming your registration. We may occasionally send service updates, news of major revisions to our website or details of bargains we feel may be of interest to you.
+**Contact details:**  
+The FAI can be contacted at the address below for queries or any complaints relating to the Privacy Statement or our data protection policy: Email: [privacy@fai.ie](mailto:privacy@fai.ie) Telephone: +353 (1) 899 9500 Post: Football Association of Ireland, National Sports Campus Ireland, Abbotstown, Dublin 15, Ireland.
 
-Cookies: Our website may set cookies on your computer. These allow us to personalise our site to preferences you have directly specified or that we have identified from the personal data collected from you by us.
+**Personal Information**  
+The FAI will not collect any personal data about you on its website, apart from information, which is submitted via web forms, or information volunteered via email. Any information provided in this manner, is not made available to any third parties, and is used by the FAI solely for the purposes for which it is provided and will not be added to a mailing list nor made available to third parties. On some occasions you may be able to order products or services, request information, subscribe to marketing or support materials, register yourself, or apply for a job at the FAI. The types of personal information you provide to us on these pages may include name, postal address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, contact preferences, educational and employment background and job interest data. 
 
-GIFs: (graphics interchange format files) We may include GIFs on our website and in our e-mails. On the web, they allow us to keep your session active while you may be using certain tools of our site and to undertake the constant improvement in our products and services we aim to achieve. In emails they may allow us to determine if your email reader is HTML capable or how fast your connection to the Internet is. This allows us to deliver content in a format most appropriate to your computer's capabilities.
+To personalise our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional. 
 
-IP Addresses: We collect IP addresses to help diagnose problems with our servers, for system administration and to profile the international geographic distribution of our audience and customers.
+**Non-personal information**  
+This includes data about usage and service operation that is not associated with a specific personal identity. The FAI collects and analyses non-personal information to evaluate how visitors use the FAI websites. **_  
+_**
 
-**TRANSFER**  
-We never transfer or disclose your personal data except in the limited circumstances detailed below. We may transfer your personal data or any part thereof to other members of our group without further notice to you in order to provide you with the highest standards of service, in order for us to fulfil our obligations to you or for operational reasons at our sole discretion. Any such transferees will, at the least, comply with the provisions of our current privacy policy with regard to your personal data and any transfers as mentioned above will take place only on this basis.
+**Cookies**  
+Cookies are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information _._ ****
 
-**ACCESS**  
-You may obtain a statement of the personal data we hold concerning you by sending an e-mail to info@fai.ie or a written request by post to 80 Merrion Square, Dublin 2 containing sufficient information to allow us to identify you in our records. We reserve the right to charge a fee to provide this statement to cover administrative costs incurred in responding to your request for information. We aim to respond within 2 weeks from the date of receipt of your request with a response as to whether personal data concerning you is held by us and, within a further 3 weeks from the date of your request or from the date of receipt of any fee imposed, we try to provide you with a copy of a full statement of that personal data, although we reserve the right to request further information from you, either to prove your identity or to help us to identify your personal data in our records.
+**Children's Privacy**  
+The FAI is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. 
 
-**AMENDMENT/DELETION OF PERSONAL DATA**  
-Should you wish to amend or update any of the information you have provided to us or if you wish to cancel your registration, you may do so by written request by post to 80 Merrion Square, Dublin 2 (please supply a contact address together with enough information for us to verify your identity) or by e-mail to info@fai.ie. We periodically correct the personal data that we hold and your information will be amended, updated or deleted as appropriate at the next available opportunity. You may also opt to stop receiving any of our direct communications (such as e-mail newsletters) at any time, either by following the procedures outlined in those communications, by written request by post to 80 Merrion Square, Dublin 2 or by sending an e-mail to info@fai.ie detailing the nature of your request and specifying the direct communications you wish to stop receiving.
+**How the FAI uses your information**  
+The FAI uses your personal information to provide you with information, products or services and to help us better understand your needs and interests. Specifically, we may use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalise FAI websites.  We will disclose your information to your service providers and agents for these purposes.  Occasionally we may also use your information to contact you for market research regarding FAI products or services. We will give you the opportunity to choose your privacy preferences regarding such communications. 
 
-**INTERNET SECURITY**  
-We employ various methods in ensuring the security of your personal data held by us and endeavour at all times to ensure a level of security to your personal data appropriate to the risks represented by our processing thereof and the nature of the data we seek to protect. Public Forums:. Our site may contain, from time to time, public discussion forums available to our users. Please remember that any information you disclose in these areas becomes generally available to the public. We recommend you do not disclose any personal data in this manner, especially financial information such as credit card or bank account details. You should take such measures as you deem appropriate to protect your personal data. Any and all access to such forums is subject to our website terms and conditions for the time being in force, copy of which may be accessed at info@fai.ie. Hyperlinks: Our site may contain, from time to time, links to other web sites. We take no responsibility for the privacy policies or the content of such web sites or of any other third party. You should satisfy yourself as to the identity of the operators of those sites and review the privacy policies of such web sites when you visit them. General. The internet is not a secure medium, so be aware that communications over it are potentially subject to third-party interception and eavesdropping.
+**Who the FAI shares your information with**  
+The FAI will not sell, rent or lease your personal information to others. The FAI will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. The FAI may share customer information across FAI departments. The FAI will not share personal information with any other third parties without your permission, unless required by law . 
 
-**ARCHIVAL**  
-For reasons related to commercial expediency and as may be required by certain fiscal and other legislation we archive all information held by the FAI, including personal data provided by or obtained from you for so long as is necessary in accordance with good archival practices, in any event for no longer than 10 years. You hereby consent to this archival by us of your personal data.
+**Your privacy preference and opting out**  
+To opt-out of receiving communications you have expressly requested (such as e-mail newsletters etc.), use any of the following methods: 
 
-**CONSENT  
-** In using our website you consent to the use of any personal data we may obtain in accordance with this privacy policy. We will post any changes to this privacy policy to this page, and may also place notices on other parts of the website to keep you advised of the information we collect and how we use it. Your continued use of our website or any of our services will signify your consent to any changes and to our use of your personal data.
+  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication 
+  * Write to the FAI Webmaster, [webmaster@fai.ie](mailto:webmaster@fai.ie)   \- be sure to provide your name, e-mail and postal address, and relevant information about your FAI registrations. 
 
-**|** _ **Top**_ **|**
+
+
+**Access to and accuracy of your information**  
+The FAI strives to keep your personal information accurate. You may write to the FAI Webmaster at any time to rectify any inaccurate data recorded about you. There is no charge for this facility.  
+We will provide you with access to your information on request by writing to the FAI Webmaster with a postal order/cheque or bank draft for €6.00 together with proof of identity.
+
+**Retention of Data**  
+The FAI shall ensure that data is not kept which is unnecessary or which is no longer used under this privacy policy. The FAI shall review its data policy on regular occasions to ensure unnecessary data is deleted. Credit Card details shall not be kept once a transaction has been finalised unless you ask us to retain your credit card information for future purchases
+
+**Security**  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. Once we receive your email transmission, we make our best effort to ensure its security on our systems.
+
+**Changes to this statement**   
+If there are updates to the terms of FAI's Privacy Statement, we will post those changes on our website [www.fai.ie](http://www.fai.ie/) and update the revision date in this document, so you will always know what information we collect online, how we use it, and what choices you have. 
