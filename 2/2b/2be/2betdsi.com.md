@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174116id_/http%3A//www.2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2betdsi.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419145413id_/http%3A//2betdsi.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Online Gambling Odds for NFL Football. Online NFL Football Gambling and NFL Gambling Odds
+# Online Gambling Odds for NBA Basketball Games - Triple Crown Gambling - 2009 Kentucky Derby Racebook
 
  Diamond Sportsbook Intl respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
