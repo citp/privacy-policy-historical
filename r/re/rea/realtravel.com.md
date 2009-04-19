@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221132842id_/http%3A//realtravel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419161831id_/http%3A//realtravel.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - RealTravel
+# Privacy Policy - Real Travel
 
-We at RealTravel, Inc. (or "RealTravel") recognize that your privacy is important to you. We have created this privacy policy to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our web site located at [RealTravel.com](http://realtravel.com/). Please read this policy before providing us with any personal information. In you have any questions about this policy, email us at [info@realtravel.com](mailto:info@realtravel.com). 
+We at Real Travel, Inc. (or "Real Travel") recognize that your privacy is important to you. We have created this privacy policy to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our web site located at [Real Travel.com](http://realtravel.com/). Please read this policy before providing us with any personal information. In you have any questions about this policy, email us at [info@realtravel.com](mailto:info@realtravel.com). 
 
 **Information We Collect**
 
@@ -20,7 +20,7 @@ We automatically receive certain types of information whenever you interact with
 
 **Third Party Links and Ad Servers**
 
-We provide links to services provided by third party websites, which may, or may not, use cookies, pixel tags and web tags. We also allow other companies, called third-party ad servers, to display advertisements on RealTravel. Ad servers may also use these tools to compile information about where users saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all users to read the privacy policies of each and every website visited when linking directly from RealTravel. 
+We provide links to services provided by third party websites, which may, or may not, use cookies, pixel tags and web tags. We also allow other companies, called third-party ad servers, to display advertisements on Real Travel. Ad servers may also use these tools to compile information about where users saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all users to read the privacy policies of each and every website visited when linking directly from Real Travel. 
 
 **Disclosure of Your Personal Information**
 
@@ -30,13 +30,13 @@ Business Transfers: Information about our users, including personal information,
 
 **Security**
 
-RealTravel uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the realtravel.com website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+Real Travel uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the realtravel.com website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
 Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. 
 
 **Children's Policy**
 
-RealTravel is intended solely for use by persons 13 years of age or older. All persons under 13 years of age are prohibited from registering on RealTravel. 
+Real Travel is intended solely for use by persons 13 years of age or older. All persons under 13 years of age are prohibited from registering on Real Travel. 
 
 **Notification of Changes**
 
