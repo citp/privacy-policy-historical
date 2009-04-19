@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleanmyass.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133548id_/http%3A//cleanmyass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanmyass.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419125201id_/http%3A//www.cleanmyass.com/privacy.html) for the most accurate reproduction.*
 
 # Clean My Ass
 
