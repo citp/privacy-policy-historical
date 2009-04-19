@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184218id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420002225id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Community Newspaper Holdings, Inc. - Community Newspaper Holdings, Inc. (CNHI) - Homepage
 
@@ -64,8 +64,8 @@ ALABAMA
 Non-daily & other publications located in Alabama:  
 •   [Classified Ad Network (CNHI-CAN), Birmingham, AL](http://www.cnhi-can.com/)  
 •   [North Jefferson News, Gardendale, AL](http://njeffersonnews.com/)   
-•   The Leeds News, Leeds, AL  
-•   St. Clair News Aegis, Pell City, AL  
+•   [The Leeds News, Leeds, AL](http://theleedsnews.net/)  
+•   [St. Clair News Aegis, Pell City, AL](http://www.stclairnewsaegis.net/)  
 
 
 FLORIDA  
