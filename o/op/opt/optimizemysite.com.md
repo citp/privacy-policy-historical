@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizemysite.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219153742id_/http%3A//www.optimizemysite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizemysite.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420024243id_/http%3A//www.optimizemysite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for OptimizeMySite.com
 
@@ -100,17 +100,15 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-**Quit Your Day Job, LLC Contact Information**
+**Affiliate Classroom Inc. Contact Information**
 
-Quit Your Day Job
+Affiliate Classroom, Inc.   
+387 Technology Drive   
+Suite 3119   
+College Park, MD 20742   
+301-314-5832 (Phone)   
+301-314-5833 (Fax)   
 
-10011 S. Centennial Pkwy
-
-Ste 320
-
-Sandy, UT 84070
-
-<http://www.optimizemysite.com/contact>
 
 **Model Disclosure**
 
@@ -122,4 +120,4 @@ July 25, 2008
 
 **Last Updated**
 
-July 25, 2008
+January 25, 2008
