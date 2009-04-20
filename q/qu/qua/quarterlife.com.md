@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quarterlife.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081448id_/http%3A//quarterlife.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quarterlife.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421015255id_/http%3A//www.quarterlife.com/content/privacy) for the most accurate reproduction.*
 
 # quarterlife
 
