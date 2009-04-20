@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the tipjoy.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231044747id_/http%3A//tipjoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipjoy.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420135158id_/http%3A//tipjoy.com/privacy) for the most accurate reproduction.*
 
 # tipjoy | privacy policy
 
-[sign in](https://web.archive.org/login) | [sign up](https://web.archive.org/createAccount) | [search](https://web.archive.org/domainsearch)
+[sign in](https://web.archive.org/login) | [sign up](https://web.archive.org/createAccount) | [make money](https://web.archive.org/banners) | [search](https://web.archive.org/domainsearch)  
+
 
 [](https://web.archive.org/)
 
@@ -22,7 +23,7 @@ When you sign into Tipjoy, a cookie is sent to your computer that contains an id
 
 This cookie enables us to keep you signed into Tipjoy on this computer until you explicitly press the “sign out” button located in the top-right area of the Tipjoy site. This way you will be able to give money to anything you like, quickly and easily, while you browse the internet. 
 
-As long as you are signed into Tipjoy, any press of the Tipjoy button anywhere you see it on any site, or use of our tip-submission field, will result in the transfer of some amount of money from your account to the money receiver. (The default amount transferred is 10 cents; you may change the amount by going to your Settings page.) 
+As long as you are signed into Tipjoy, any press of the Tipjoy button anywhere you see it on any site, or use of our tip-submission field, will result in the transfer of some amount of money from your account to the money receiver. 
 
 Protect against unauthorized access to your Tipjoy account by signing out once you have finished using a shared computer. Doing so will expire the cookie on that machine. 
 
@@ -41,6 +42,7 @@ Because Tipjoy enables people to discover and share content they love with one a
   3. **API** Tipjoy will allow third parties access to all Tipjoy data that is already publicly available through the Tipjoy website. 
   4. **Syndication** Tipjoy allows for the RSS syndication of all of its public content within the Tipjoy website, including RSS syndication of your giving history, provided it is set to "public" in your Account Settings. Your giving history is public by default. You may change this anytime in your [Account Settings](https://web.archive.org/settings).
   5. **Business Transfers** In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Tipjoy, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+  6. **To recipient** Tipjoy may provide your contact info to the person/people to whom you have money.
 
 
 
