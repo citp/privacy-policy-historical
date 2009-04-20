@@ -1,170 +1,87 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165436id_/http%3A//www.x-cart.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/privacy-policy.html) for the most accurate reproduction.*
 
-# X-Cart: Privacy statement
+# Qualiteam Privacy Policy
 
-"New web-site from scratch" means you want us to create a web-site of any kind and make it ready to go live. Since creation of a web-site from the very beginning is quite a complex process it may include multiple stages like:  
-• web-design creation and integration;  
-• integration of a pre-made design template into selected platform;  
-• filling in the product catalog;  
-• developing desired features;  
-• installation onto the web-hosting;  
-• etc.
-
-Select this service if you want us to customize software you are using as platform for your web-site. This means adding new and changing existing features of the platform software.
-
-You have a web-site already, but does not like it or want to improve its appearance. We can create a new look for your existing web-site, adapt your current design to make it more "e-commerce" and suitable for shopping cart software.
-
-You do not want to change design of your web-site a lot, but want to enhance it a bit by adding some new graphic design elements, improve layout of pages, set new styles and fonts, etc.
-
-This service is useful for startups companies and companies willing to change the way their customers recognize them by logo and corporate style.
-
-You have a web-site which visitors recognize by unique and outstanding design and want to integrate some software (e.g. shopping cart software) into it seamlessly.
-
-Complex ecommerce solutions (like shopping cart software) have strict requirements for installed web server components. Choosing X-Cart hosting from our company ensures that you obtain a server configured in full accordance with X-Cart software requirements and may forget about any compatibility-related issues.
-
-Provided to X-Cart shopping cart license owners only, our X-Cart hosting service ensures that no hacker/spam accounts are sharing our hardware and that all users are equally interested in top-notch security.
-
-You may forget about server-side issues. Any technical problems with our X-Cart hosting servers are fixed at no charge under our guarantee. "Ecommerce Premium" plan includes free technical support for X-Cart-based online stores.
-
-For quick and easy moving to X-Cart hosting service, we offer a free, no-downtime shopping cart transfer from any other existing hosting account (you will only need to provide access details).
-
-The hosting overload is often caused by the extensive server resource overuse. To avoid such situations, our shopping cart hosting has very strict limits on number of accounts per server in order to preserve resources for safety reasons.
-
-X-Cart hosting servers meet the Payment Card Industry Data Security Standard (PCI DSS) required by Visa and MasterCard. The up-to-date set of security features ensures the protection of all sensitive data.
-
-Loss of sensitive data can seriously damage your business and cost days (even months) of work. To prevent possible data loss, backup of our customers' information is performed each day.
-
-Files and databases on X-Cart hosting are transferred and stored on a separate archive server. If any problem occurs, the data restoration can be performed immediately.
-
-If you purchase one year of Enterprise or Premium packages, you'll get [SSL certificate](https://web.archive.org/web/20081216165436id_/http%3A//www.x-cart.com/ssl_certificates.html) for free. Also any customer of our hosting use shared SSL certificate for free.
-
-This add-on enables the store owner to run an affiliate program, i.e. solicit their visitors to advertise their products and pay commission per referred sale. This is a popular advertising method and X-Affiliate add-on enables store owner launch affiliate program instantly.
-
-If you plan to run regular advertising campaigns including numerous discounts applicable in various conditions this add-on is for you.
-
-Advanced Order Management add-on enables store admin to alter order details after an order is placed. It is useful when say customers reconsider or business specifics do not let to determine all order conditions until actual fulfillment.
-
-It is a decorative add-on, which enables to place Java Script based fly out category menu in X-Cart based store. Simplest way to check this add-on is to view online demonstration.
-
-This add-on is suitable for stores featuring products, which consist of multiple parts, e.g. computers. Computers can be fitted with different processors, mother boards, graphic adapters, etc. and X-Configurator enables to configure the set of required component types and define compatibility rules for actual component sets, so a customer could define computer configuration step by step.
-
-As goes from the name, this add-on enables store customers to create gift registries for their special events, then invite other people via email to buy the registered items out.
-
-Return Merchandise Authorization add-on comes handy when you need to handle an order return request from customer. X-RMA automates the process to save your time and keep accurate records in order history.
-
-This add-on features functionality for the seller to define set of comparison criteria for every group of similar products, so a customer could compare item characteristics in a simple and convenient way.
-
-It features a flash based tool for a customer to view products closely, i.e. zoom in to a product image.
-
-This is a tool to survey customers regarding any questions a store administrator finds suitable to analyse store performance, e.g. whether the customers like store design or wish any addition to the inventory.
-
-It is not actually an add-on, yet an additional software which can work for any website and beneficial to any online store. In a nutshell this software tracks visitors of online store in real time, enables store owner communicate with website visitors via text or voice chat and builds up complete statistics on store performance. Free version is available and it integrates with X-Cart based store seamlessly at no extra cost.
-
-key pages include home page, product details, products listings (categories, manufacturers, search results), cart and checkout pages
-
-for example, e-mail notifications, image pop-up window
-
- **LiteSpeed  Web Server** is a high- performance and high-scalability web server. It is completely Apache interchangeable and more than 6 times faster than Apache. LiteSpeed Web Server's rewrite engine is fully compatible with Apache mod_rewrite, commonly used directives in a .htaccess file work exactly the same.
-
-Free technical support for "level 0", "level 1", "level 2", "level 3", and "small mods" [support issue categories](http://www.qtmsoft.com/support/incident-based-support.html)
-
-Internet:
-
-  * Website and Internet marketing
-  * Email signature and email marketing
-
-
-
-Printing purpose:
-
-  * Stationery & Business cards
-  * Signs & Billboards
-  * Brochures & Flyers
-  * Ads
-  * Direct marketing & Postcards
-
-
-
-The number of possible iterations for the chosen concept (in order to finalize details and produce the final outcome).
-
-A vector image of your logo (meaning you can resize it as you like without compromising print quality and manipulate it should you ever need to make changes to your logo).
-
-A high-definition raster format (used in various raster image editors).
-
-A document specifying the CMYK model of a logo (along with PANTONE color table, if possible).
-
-A document containing examples of logo usage in business cards, brochures, letter-heads, greeting cards, envelopes etc.
-
-Purchasing at the regular price means that other people can buy the graphic prototype after you order it.
-
-Purchasing at the "unique price" guarantees that you are the last person who orders the graphic template and it will be permanently removed from our website after your purchase.
-
-Tick this box if you would like us to integrate the graphic prototype with your online store based on LiteCommerce or X-Cart shopping cart software.
-
-The number of provided concepts on the first step. If none of the sketches is chosen, we will create a new set of sketches from a scratch one more time, based on your corrections and remarks.
-
-We will develop a graphic prototype of the flyout menu that can be used later during integration of the design with your store.
-
-illustrations with dimensions greater than 250x250 pixels
-
-www.qtmsoft.com
-
-secure.qtmsoft.com
-
-www.litecommerce.com
-
-www.sales-n-stats.com
-
-forum.x-cart.com
-
-open in a new window
-
-www.webceo.com
-
-bugs.mysql.com
-
-www.litespeedtech.com
-
-en.wikipedia.org
-
-www.paypal.com
-
-www.paypal-promo.com
-
-marketplace.x-cart.com
-
-Purchasing at the regular price means that other people can buy the graphic prototype after you order it.
-
-Purchasing at the "unique price" guarantees that you are the last person who orders the graphic template and it will be permanently removed from our website after your purchase.
-
-Tick this box if you would like us to integrate the graphic prototype with your online store based on LiteCommerce or X-Cart shopping cart software.
-
-X-Cart skins  Ecommerce web templates  Flash templates    
-  
+|  | Legal notices  
 ---  
-|  | 
+[Moneyback guarantee](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/moneyback_policy.html)  
+[Quality policy](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/quality_policy.html)  
+[Privacy policy](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/privacy-policy.html)  
+[Trademark policy](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/trademark-policy.html)  
+[Customization Agreement](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/custom_development_agreement.html)  
+[Outsourcing Agreement](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/software-outsourcing-agreement.html)  
+[Graphic Design Agreement](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/graphic_design_agreement.html)  
+[Affiliate agreement](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/affiliate_program_agreement.html)  
+[Technical Support Agreement](https://web.archive.org/web/20090420154804id_/http%3A//www.qualiteam.biz/technical-support-agreement.html)  
+| 
 
-We respect your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
+This Privacy Policy describes the types of information Qualiteam Corp ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qualiteam.biz](http://www.qualiteam.biz/), [http://www.x-cart.com](http://www.x-cart.com/), [http://www.litecommerce.com](http://www.litecommerce.com/) ("Site", "Sites"). 
 
-## Information Collection
+## Information We Collect
 
-We only will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that you voluntarily provide through our website or e-mail correspondence. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our Web site and better meet your needs. 
+If You choose to use Products or Services, we may require You to provide contact and identity information, billing information, and other personal information as indicated on the Sites. Once You register on the Site, You are no longer anonymous to us. 
 
-## Use of Information
+We collect and store the following information: 
 
-Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. The information you supply will be used by us to fulfill your orders for our products and services, respond to your inquiries, supply you with requested information the products and services. We may also use the information to inform you about new features, products or services if you explicitly instructed us to do so. 
+  * Email address, physical contact information, and financial information;
+  * Computer sign-on data, statistics on page views, traffic to and from Sites and ad data (all through cookies - You can take steps to disable cookies on Your browser, however this is likely to affect Your ability to use Sites);
+  * Remote access codes to your server (we ask for this information if You register for a service that could not be provided without having such information);
+  * Discussion board posts and other messages, including correspondence between us and You; and
+  * General information regarding the Products or Services You have registered to receive.
 
-## Other Important Information
 
-This website may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. Additionally, some of our Web pages may contain "cookies," which are data that may be sent to your Web browser and stored on your computer. This allows our server to "recognize" you when you visit our Web site in the future. Most Web browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you. 
 
-It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. 
+We do not store the following information normally: 
 
-We are reserving the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.
+  * Credit card information;
+  * Access codes to providers of payment processing services;
+  * Access codes to providers of domain registration services; and
+  * Any information about your own clients.
 
-|  | 
 
-Call us now! US toll-free  
-1-800-886-0359
 
-[](https://web.archive.org/web/20081216165436id_/http%3A//www.x-cart.com/contact_us.html)
+Nevertheless we may store the information mentioned above if it is necessary for providing Service. 
+
+## Our Use of Your Information
+
+We use Your personal information to: 
+
+  * provide Products and Services;
+  * resolve disputes, calculate and collect fees, and troubleshoot problems;
+  * verify users' identity and the information users provide;
+  * encourage safe online experience and enforce our policies;
+  * customize users' experience, analyze site usage, improve and measure interest in our services, and inform users about services and updates;
+  * communicate administrative announcements when we need to provide users with information that may affect their use of Products or Services;
+  * communicate marketing and promotional offers to our users;
+  * provide customer service; and
+  * perform other business activities as described when we collect the information.
+
+
+
+As part of your registration for Products or Services on the Site, You agree that You may receive certain administrative communications from us, such as administrative announcements and customer service messages regarding Products or Services and products during the period that we provide Products or Services to You, and You will not be able to opt out of receiving such administrative communications. 
+
+## Our Disclosure of Your Information
+
+We do not sell or rent Your personal information to third parties for their marketing purposes without Your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
+
+  * service providers who help with our business operations and assist in the delivery of Products or Services to our users. These service providers are under confidentiality agreements with us;
+  * law enforcement or other government officials in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of law, or as otherwise required by law.
+
+
+
+## Accessing, Reviewing and Changing Your Personal Information
+
+If you are registered to receive Products or Services, You can access, review and modify Your personal information at any time by logging into your Profile page located at [https://secure.qualiteam.biz](https://secure.qualiteam.biz/). 
+
+We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and help prevent bad guys from coming back. 
+
+## Security
+
+To prevent unauthorized access, promote data security, and encourage appropriate use of information, we use a variety of tools (encryption technologies, passwords, physical and electronic security, procedural safeguards) to assist in the protection of Your information. However, "perfect security" does not exist on the Internet, so we make no guarantees. 
+
+## Notification of Changes
+
+We may amend this Privacy Policy at any time by posting the amended terms on Sites. In the event of amendment, all terms shall become effective 30 days after they are initially posted to the Sites. Your continued use of Products or Services will constitute your acceptance of any changes or additions to this Privacy Policy. 
+
+  
+| 
