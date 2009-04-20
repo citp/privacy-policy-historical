@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansex4u.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920141426id_/http%3A//www.indiansex4u.com/2257.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansex4u.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420030940id_/http%3A//www.indiansex4u.com/2257.html) for the most accurate reproduction.*
 
 # 18 U.S.C. 2257 Compliance Statement
 
