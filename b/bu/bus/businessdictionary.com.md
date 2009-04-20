@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092254id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421004819id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Copyright
 
 **Privacy Policy**
 
-We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave our sites. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for this site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation. 
+We collect no information about our users that is not supplied voluntarily through web forms or e-mail. Any information collected in this manner is never shared with anyone unless expressly requested by the user. We do not sell or reveal user information to anyone. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of the site. As with all other information, these data do not leave our sites. Some of this data is gathered through the use of cookies. Cookies may be deactivated by the user at any time. They are not required for this site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal data and have no effect on site use or navigation.   
 
-All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party, unless expressly requested by the user.
 
 **Disclaimer**
 
@@ -20,8 +23,6 @@ We are not responsible for the claims or representations made by advertisers and
 
 We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.
 
-Copyright©2007-2008 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
+Copyright©2007-2009 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20081217092254id_/contact.php).
-
-﻿
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20090421004819id_/contact.php).
