@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smsnshayari.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423224053id_/http%3A//www.smsnshayari.com/disclaimer-terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsnshayari.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420065544id_/http%3A//www.smsnshayari.com/disclaimer-terms-of-use/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Sms 'n' Shayari : Organized Jokes,Sms,Shayri
+# Privacy Policy » Sms 'n' Shayari : Shayri,Songs Lyrics & Jokes
 
 Privacy Policy for www.smsnshayari.com 
 
