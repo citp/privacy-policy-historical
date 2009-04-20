@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigchurch.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092605id_/http%3A//bigchurch.com/go/page/privacy.html%3Fsite%3Dbc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigchurch.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420063226id_/http%3A//bigchurch.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # BigChurch PRIVACY POLICY
 
