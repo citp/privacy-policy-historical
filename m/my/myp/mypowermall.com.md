@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypowermall.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217212602id_/http%3A//www.mypowermall.com/Biz/PrivacyPolicy/101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypowermall.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420042439id_/http%3A//www.mypowermall.com/Biz/PrivacyPolicy/101) for the most accurate reproduction.*
 
 # Welcome to My Power Mall Corporate
 
