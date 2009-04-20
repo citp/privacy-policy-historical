@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettwerk.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612234624id_/http%3A//www.nettwerk.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettwerk.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420023714id_/http%3A//www.nettwerk.com/privacy.jsp) for the most accurate reproduction.*
 
 # Nettwerk
 
@@ -34,7 +34,7 @@ We may share (provide and receive) aggregate information, which is not personall
 
 **Access** If a user’s personally identifiable information changes (such as zip code), we endeavor to provide a way to correct or update that user’s personal data. Please feel free to contact us if you have any questions regarding making changes to your data. 
 
-**Data Collection From Children** We do not knowingly collect personal information from children under 13 without appropriate parental notice and consent. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children’s privacy. 
+**Data Collection From Children** Nettwerk does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Nettwerk. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children's privacy. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact our privacy officer at [currell@nettwerk.com](mailto:currell@nettwerk.com)
 
 **Security** Security for all personally identifiable information is extremely important to us. We store your personal information securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
 
