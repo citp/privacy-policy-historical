@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914161455id_/http%3A//www.caratlane.com/info.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420175249id_/http%3A//www.caratlane.com/privacy-policy) for the most accurate reproduction.*
 
 # CaratLane's Privacy Policy
 
@@ -36,4 +36,4 @@ This Website may contain links which may lead you to other Websites.  Please no
 
 BY USING THIS WEBSITE, YOU SIGNIFY YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY, CARATLANE RESERVES THE RIGHT, IN OUR SOLE DISCRETION, TO CHANGE, MODIFY, ADD OR DELETE PORTIONS OF THE TERMS OF THIS PRIVACY POLICY AT ANY TIME.
 
-If you have any questions about this Privacy Policy, please feel free to [[Contact Us](http://www.caratlane.com/info.php?contact)] through our Website or write to us at [contactus@caratlane.com](mailto:contactus@caratlane.com).
+If you have any questions about this Privacy Policy, please feel free to [[Contact Us](http://www.caratlane.com/contact-us)] through our Website or write to us at [contactus@caratlane.com](mailto:contactus@caratlane.com).
