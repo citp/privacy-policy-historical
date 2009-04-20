@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220050536id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420065642id_/http%3A//webgility.com/privacy_policy.php) for the most accurate reproduction.*
 
 # About: X-Cart, osCommerce, Zen Cart Shopping Cart Integration with QuickBooks - Webgility
 
-|   
-  
----  
-|  |  |   
----|---  
-| [Home](https://web.archive.org/web/20081220050536id_/http%3A//www.webgility.com/index.php)Privacy Policy  
----  
-  
+[Home](https://web.archive.org/web/20090420065642id_/http%3A//webgility.com/index.php)Privacy Policy
+
 At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web sites. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web sites. This privacy statement defines privacy aspects specific to www.webgility.com. Throughout this policy, we refer to information that personally identifies you as "personal information".  
 **  
 We protect your information**  
@@ -31,9 +25,10 @@ Like many Web sites, we use technology, such as cookies, that allow us to make y
 **  
 We give you choice and control**  
 We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. Your contact preferences only apply to marketing contact. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices).  
-You can update or correct your contact information relating to your Webgility account by using our Contact Web pages.  
+You can update or correct your contact information relating to your Webgility account by using our Contact Web pages.
+
 **You can contact us**  
 If you have privacy-related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/).  
 If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
-Last Updated: September 1, 2007
+Last Updated: Feb 1, 2009
