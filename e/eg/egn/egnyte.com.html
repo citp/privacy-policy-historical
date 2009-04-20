@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216050856id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2009-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420214508id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Egnyte</title>
 <link rel="SHORTCUT ICON" href="/images/icons/egnyte.V1140.ico">
 <meta name="Keywords" content="egnyte, online file storage, backup, collaboration, file server, file sharing, knowledge management, content management, disaster recovery, archival solution, sharepoint, box.net">
-<link rel="stylesheet" type="text/css" href="/css/buttons.V8084.css">
-<link rel="stylesheet" type="text/css" href="/css/global.V8607.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/corp.V8334.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/default.V8907.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/buttons.V5403.css">
-<script language="javascript" src="../js/global.V9020.js"></script>
-<script src="../js/default.V9007.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/buttons.V9256.css">
+<link rel="stylesheet" type="text/css" href="/css/global.V9088.css">
+<link rel="stylesheet" type="text/css" href="/css_brn/corp.V9799.css">
+<link rel="stylesheet" type="text/css" href="/css_brn/default.V9988.css">
+<link rel="stylesheet" type="text/css" href="/css_brn/buttons.V9426.css">
+<script language="javascript" src="../js/global.V10276.js"></script>
+<script src="../js/default.V9766.js" type="text/javascript"></script>
 
 <script>
 
@@ -125,13 +125,13 @@ margin: 3px 8px;
 		<li class="cbleft"></li>
 		<li><a href="/egnyte_home.html" style="line-height:30px">Home</a></li>
 		<li onmouseover="displayDIV('pomenusub')" onmouseout="displayDIV('pomenusub')" onclick="document.location.href='/corp/po_file_storage.html'" style="cursor:pointer">Product Overview</li>
-		<li><a href="product_demo.html" style="line-height:30px">Product Demo</a></li>
+		<li onmouseover="displayDIV('pdmenusub')" onmouseout="displayDIV('pdmenusub')" style="cursor:pointer">Product Demo</li>
 		<li><a href="/corp/au_solutions.html" style="line-height:30px">Solutions</a></li>
 		<li><a href="/corp/business_plans_and_pricing.html?scheme=trial" style="line-height:30px">Free Trial</a></li>
 		<li><a href="/corp/business_plans_and_pricing.html?scheme=buy" style="line-height:30px">Buy Now</a></li>
 		<li onmouseover="displayDIV('aumenu')" onmouseout="displayDIV('aumenu')" onclick="document.location.href='au_company.html'" style="cursor:pointer">About Us</li>
 		<li class="cbright"></li>
-		<li style="float:right; border-right:none; padding-right:0px"><a href="/corp/sign_livedemo.html" style="line-height:30px" title="Join a Live Web Demo">Join Live Web Demo</a></li>
+		<li style="float:right; border-right:none; padding-right:0px"><a href="javascript:getWebDemoDates();" style="line-height:30px" title="Join a Live Web Demo">Join Live Web Demo</a></li>
 	</ul>
 </div>
 
@@ -197,10 +197,21 @@ margin: 3px 8px;
 </tbody></table>
 
 <!-- THIS IS THE INCLUDE FILE FOR PAGE FOOTER	-->
+<script language="javascript">
+	function showContactPopup(){
+		var pageName = window.location.href;
+		if (pageName.indexOf('business_plans_and_pricing.html') > 0){
+			if (!isIE()){
+				document.getElementById("contact").style.top = "600px;"
+			}
+		}
+		showDIV('contact');
+	}
+</script>
 <div class="footer">
 	<div class="topcorners"><img src="../images/default/corp/corner_top_right.V5403.gif" style="float:right"><img src="../images/default/corp/corner_top_left.V5403.gif"></div>
-	<div class="footerTxt"><div style="float:right">Copyright © 2008 Egnyte, Inc.</div>
-	<a href="/egnyte_home.html" class="actionLinks">Home</a><span id="spacer">&nbsp;</span><a href="/corp/privacy_policy.html" class="actionLinks">Privacy Policy</a><span id="spacer">&nbsp;</span><a href="/corp/terms_of_service.html" class="actionLinks">Terms of Service</a><span id="spacer">&nbsp;</span><a href="/corp/faq.html" class="actionLinks">FAQ</a><span id="spacer">&nbsp;</span><a href="http://egnyte.blogspot.com" class="actionLinks" target="_blank">Blog</a><span id="spacer">&nbsp;</span><a href="javascript:void 0" class="actionLinks" onclick="showDIV('contact')">Contact us</a><span id="spacer">&nbsp;</span><span style="font:normal 11px Arial, Helvetica, sans-serif;">Phone: 1-877-7EGNYTE <br>
+	<div class="footerTxt"><div style="float:right">Copyright © 2009 Egnyte, Inc.</div>
+	<a href="/egnyte_home.html" class="actionLinks">Home</a><span id="spacer">&nbsp;</span><a href="/corp/privacy_policy.html" class="actionLinks">Privacy Policy</a><span id="spacer">&nbsp;</span><a href="/corp/terms_of_service.html" class="actionLinks">Terms of Service</a><span id="spacer">&nbsp;</span><a href="/corp/faq.html" class="actionLinks">FAQ</a><span id="spacer">&nbsp;</span><a href="http://egnyte.blogspot.com" class="actionLinks" target="_blank">Blog</a><span id="spacer">&nbsp;</span><a href="javascript:void 0" class="actionLinks" onclick="showContactPopup();">Contact us</a><span id="spacer">&nbsp;</span><span style="font:normal 11px Arial, Helvetica, sans-serif;">Phone: 1-877-7EGNYTE (1-877-734 6983) <br>
 	</span></div>
 	<div class="bottomcorners"><img src="../images/default/corp/corner_bottom_right.V5403.gif" style="float:right"><img src="../images/default/corp/corner_bottom_left.V5403.gif"></div>
 </div>
@@ -213,6 +224,7 @@ margin: 3px 8px;
 <a href="po_file_storage.html" class="pomenu">Online File Storage</a>
 <a href="po_continuous_backup.html" class="pomenu">Continuous Backup</a>
 <a href="po_collaboration.html" class="pomenu">Collaboration</a>
+<a href="local_drive.html" class="pomenu">Local Cloud</a>
 <a href="po_mobile.html" class="pomenu">Mobile Drive</a>
 <a href="po_netbooks.html" class="pomenu">NetBooks</a>
 <a href="po_security.html" class="pomenu">Security &amp; Privacy</a></div>
@@ -221,10 +233,23 @@ margin: 3px 8px;
 <a href="po_file_storage.html" class="pomenu">Online File Storage</a>
 <a href="po_continuous_backup.html" class="pomenu">Continuous Backup</a>
 <a href="po_collaboration.html" class="pomenu">Collaboration</a>
+<a href="local_drive.html" class="pomenu">Local Cloud</a>
 <a href="po_mobile.html" class="pomenu">Mobile Drive</a>
 <a href="po_netbooks.html" class="pomenu">NetBooks</a>
 <a href="po_security.html" class="pomenu">Security &amp; Privacy</a></div>
 <!--END PRODUCT OVERVIEW MENU-->
+
+<!--START PRODUCT DEMO MENU-->
+<div id="pdmenu" style="display:none" onmouseover="displayDIV('pdmenu')" onmouseout="displayDIV('pdmenu')">
+<a href="/corp/product_demo.html" class="pdmenu">Web Page Tour</a>
+<a href="#" onclick="openFlashDemoPop();" class="pdmenu">Flash Demo</a>
+</div>
+
+<div id="pdmenusub" style="display:none" onmouseover="displayDIV('pdmenusub')" onmouseout="displayDIV('pdmenusub')">
+<a href="/corp/product_demo.html" class="pdmenu">Web Page Tour</a>
+<a href="#" onclick="openFlashDemoPop();" class="pdmenu">Flash Demo</a>
+</div>
+<!--END PRODUCT DEMO MENU-->
 
 <!--START ABOUT US MENU-->
 <div id="aumenu" style="display:none;" onmouseover="displayDIV('aumenu')" onmouseout="displayDIV('aumenu')">
@@ -234,10 +259,10 @@ margin: 3px 8px;
 <!--END ABOUT US MENU-->
 
 <!--START CONTACT US DIALOG-->
-<div id="contact" class="tipPop" style="position:absolute; margin:-447px 0 0 50px; width:300px; z-index:9999; visibility:hidden">
+<div id="contact" class="tipPop" style="position:absolute; margin:-447px 0 0 450px; width:300px; z-index:9999; visibility:hidden">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td><div class="ytl"></div><div class="yt" style="width:270px"></div><div class="ytr"></div></td>
+<td><div class="ytl"></div><div id="contactTopDiv" class="yt" style="width:270px"></div><div class="ytr"></div></td>
 </tr>
 <tr>
 <td class="yellowframe">
@@ -246,24 +271,24 @@ margin: 3px 8px;
 <h1>Contact information  </h1>
 <p>2672 Bayshore Parkway, #806<br>
 Mountain View, CA 94043<br>
-1-877-7EGNYTE (TOLL FREE) <br>
+1-877-7EGNYTE (1-877-734 6983) (TOLL FREE) <br>
 610-968-4012 (FAX)<br>
 <a href="mailto:inquiry@egnyte.com" class="actionLinks">inquiry@egnyte.com</a></p>
 <h1>Send Us a Message  </h1>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<table cellpadding="0" cellspacing="0" width="95%" border="0">
 	<tbody><tr>
 		<td class="txt">First name</td>
 		<td class="txt">Last name</td>
 	</tr>
 	<tr>
-		<td style="padding-right:10px"><input id="firstName" name="firstName" type="text" style="width:125px; float:left"></td>
-		<td><input id="lastName" name="lastName" type="text" style="width:125px; float:left"></td>
+		<td style="padding-right:10px"><input id="firstName" name="firstName" type="text" style="width:120px; float:left"></td>
+		<td><input id="lastName" name="lastName" type="text" style="width:120px; float:left"></td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding-top:5px" class="txt">Email</td>
 	</tr>
 	<tr>
-		<td colspan="2"><input id="contactUsEmail" name="contactUsEmail" type="text" style="width:264px; float:left"></td>
+		<td colspan="2"><input id="contactUsEmail" name="contactUsEmail" type="text" style="width:260px; float:left"></td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding-top:5px" class="txt">Comments</td>
@@ -272,7 +297,8 @@ Mountain View, CA 94043<br>
 		<td colspan="2"><textarea id="comments" name="comments" cols="" rows="5" style="width:258px"></textarea></td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendContactInformation();" style="width:100px; float:left"></td>
+		<td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendContactInformation('static');" style="width:100px; float:left">
+		<input type="submit" style="width: 100px; float: left;" onclick="javaScript:showDIV('contact');" value="Cancel" name="cancel"></td>
 	</tr>
 </tbody></table>
 
@@ -280,7 +306,7 @@ Mountain View, CA 94043<br>
 </td>
 </tr>
 <tr>
-<td><div class="ybl"></div><div class="yb" style="width:270px"></div><div class="ybr"></div></td>
+<td><div class="ybl"></div><div id="contactBottomDiv" class="yb" style="width:270px"></div><div class="ybr"></div></td>
 </tr>
 </tbody></table>
 </div>
@@ -319,7 +345,8 @@ Mountain View, CA 94043<br>
 </tbody></table>
 </div>
 <!-- END WHAT OTHERS ARE SAYING DIALOG-->
-<!-- START DEMO SIGNUP -->
+
+<!-- START - DEMO SIGNUP POPUP	-->
 <div id="demosingup" class="tipPop" style="position:absolute; margin:-250px 0 0 50px; width:310px; z-index:9999; visibility:hidden">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
@@ -331,32 +358,30 @@ Mountain View, CA 94043<br>
 <a href="javascript:void 0" onclick="showDIV('demosingup')" class="orangelink">Sign Up</a>
 <h1>Register for Live Demo  </h1>
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
-        <tbody><tr>
-                <td class="txt">First name</td>
-                <td class="txt">Last name</td>
-        </tr>
-        <tr>
-                <td style="padding-right:10px"><input id="demoFirstName" name="demoFirstName" type="text" style="width:125px; float:left"></td>
-                <td><input id="demoLastName" name="demoLastName" type="text" style="width:125px; float:left"></td>
-        </tr>
-        <tr>
-                <td colspan="2" style="padding-top:5px" class="txt">Phone Number</td>
-        </tr>
-        <tr>
-                <td colspan="2"><input id="demoPhoneNumber" name="demoPhoneNumber" type="text" style="width:264px; float:left"></td>
-        </tr>
-        <tr>
-                <td colspan="2" style="padding-top:5px" class="txt">Email</td>
-        </tr>
-        <tr>
-                <td colspan="2"><input id="demoContactUsEmail" name="demoContactUsEmail" type="text" style="width:264px; float:left"></td>
-        </tr>
-        <tr>
-                <td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendWebinarInformation();" style="width:100px; float:left"></td>
-        </tr>
+	<tbody><tr>
+		<td class="txt">First name</td>
+		<td class="txt">Last name</td>
+	</tr>
+	<tr>
+		<td style="padding-right:10px"><input id="demoFirstName" name="demoFirstName" type="text" style="width:125px; float:left"></td>
+		<td><input id="demoLastName" name="demoLastName" type="text" style="width:125px; float:left"></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding-top:5px" class="txt">Phone Number</td>
+	</tr>
+	<tr>
+		<td colspan="2"><input id="demoPhoneNumber" name="demoPhoneNumber" type="text" style="width:264px; float:left"></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding-top:5px" class="txt">Email</td>
+	</tr>
+	<tr>
+		<td colspan="2"><input id="demoContactUsEmail" name="demoContactUsEmail" type="text" style="width:264px; float:left"></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendWebinarInformation();" style="width:100px; float:left"></td>
+	</tr>
 </tbody></table>
-
-
 </td>
 </tr>
 <tr>
@@ -364,7 +389,64 @@ Mountain View, CA 94043<br>
 </tr>
 </tbody></table>
 </div>
-<!-- END DEMO SIGNUP -->
+<!-- END - DEMO SIGNUP POPUP	-->
+<div id="webDemoPop" style="position:absolute; left:50%; margin-left: -150px; top:100px; width:400px; z-index:9999; display:none;">
+        <h1 class="top" id="purcLicenseHeader">Register for a Live Web Demo</h1>
+        <form name="frmWebDemo" id="frmWebDemo" method="post">
+            <div style="overflow:auto">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr><td style="height:5px;"></td></tr>
+				<tr>
+					<td align="center" colspan="2">
+						<!-- Web Demo dates populated here dynamically from a WSGI call -->
+						<div id="webDemoDates">
+							<label>No demos available currently</label>
+							<!--
+							<input type="radio" style="width:30px; clear:both; float:none;" name="addRemLicenseMemebers" id="addRemLicenseMemebers" value="Add licenses" checked onClick="enableDisableAddRemBox();"/><label>Jan 1 2009, 11:30 AM PST</label>
+							-->
+						</div>
+					</td>
+				</tr>
+				<tr><td style="height:10px;"></td></tr>
+				<tr>
+					<td><label>First Name</label></td>
+					<td><label>Last Name</label></td>
+				</tr>
+				<tr>
+					<td style="height:10px;" align="left">
+						<input type="text" name="webdm_FName" id="webdm_FName" class="homeInput" style="width:150px;">
+					</td>
+					<td style="height:10px;" align="left">
+						<input type="text" name="webdm_LName" id="webdm_LName" class="homeInput" style="width:150px;">
+					</td>
+				</tr>
+				<tr><td><label>Phone Number</label></td></tr>
+				<tr>
+					<td style="height:10px;" align="left">
+						<input type="text" name="webdm_Phone" id="webdm_Phone" class="homeInput" style="width:150px;">
+					</td>
+				</tr>
+				<tr><td><label>Email</label></td></tr>
+				<tr>
+					<td style="height:10px;" align="left">
+						<input type="text" name="webdm_Email" id="webdm_Email" class="homeInput" style="width:150px;">
+					</td>
+				</tr>
+				<tr><td style="height:10px;"></td></tr>
+				<tr>
+					<td colspan="2" style="padding-left:70px;">
+						<div class="defaultBtn" onclick="sendWebinarInformation();" style="float: left;">Send</div>
+						<div class="defaultBtn" onclick="showDialog('webDemoPop');" style="float:left">Cancel</div>
+					</td>
+                </tr>
+            </tbody></table>
+            </div>
+        </form>
+    </div>
+<!--	END WEB DEMO DIALOG		-->
+<!--	START WORK IN PROGRESS DIALOG		-->
+<div style="left:322px; top:281px; width:600px; z-index:100000; visibility: hidden;display:block;" id="workMessagePop"><center><h4 id="workMessageText"></h4></center></div>
+<!--	END WORK IN PROGRESS DIALOG			-->
 
 
 <script>
