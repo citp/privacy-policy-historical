@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052114id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420025421id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,6 @@ If you have any questions or comments regarding this statement please contact us
 **SurfMyAds.com, Inc.**  
 [http://www.SurfMyAds.com](http://www.surfmyads.com/)
 
-800 N. Milpas St. Suite: E  
+115 W. Figueroa Street  
 Santa Barbara  
-CA-93103
+CA-93101
