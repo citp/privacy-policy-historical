@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022331id_/http%3A//www.blacklibrary.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420224754id_/http%3A//www.blacklibrary.com/information/privacy-policy) for the most accurate reproduction.*
 
 # The Black Library :: Bringing the worlds of Warhammer and Warhammer 40,000 to life
 
