@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220090812id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420131056id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy protection - Internet Privacy - 24/7 Real Media
 
@@ -122,7 +122,7 @@ To uphold our commitment to online privacy, we offer you the choice to "opt-out"
 Please keep in mind that your election to opt-out of certain 24/7 Real Media cookies will not be effective until you delete the related opt-out cookie on your computer’s hard drive. Further, if you have elected to opt-out of certain 24/7 Real Media cookies or you have blocked all cookies in your Internet browser configuration, we won’t be able to recognize your computer from one visit to the next. As a result, you may see the same ad multiple times or receive more ads that are not of interest to you. Also, if you change computers, have different browsers, have different computers, update your Internet browser or delete your cookie, you should repeat this opt-out process. Please note that you may configure security features of your Internet browser to block all or some cookies, including third party cookies, such as 24/7 Real Media cookies. In the event that your browser is configured to block third party cookies, you may not be able to effectively opt-out of 24/7 Real Media cookies. Please refer to the section entitled "How Can Users Block Cookies?" above.
 
 Also, please note that some cookies are delivered under the domain name of one or more of our clients. In the case of these cookies, we are not in a position to provide an opt-out feature. We encourage you to always read the privacy policies of the Web sites you visit.   
-If you would like to be opted-out of 24/7 Real Media ad delivery, audience management and behavioral targeting cookies, please [click here](https://web.archive.org/EN-US/opt-out.html). If you would like to be opted-out of 24/7 Real Media search marketing cookies cookies, please [click here](https://web.archive.org/EN-US/opt-out-dna.html).
+If you would like to be opted-out of 24/7 Real Media ad delivery, audience management and behavioral targeting cookies, please [click here](https://web.archive.org/EN-US/opt-out.html). If you would like to be opted-out of 24/7 Real Media search marketing cookies, please [click here](https://web.archive.org/EN-US/opt-out-dna.html).
 
 **WITH WHOM DO WE SHARE COLLECTED INFORMATION?**
 
