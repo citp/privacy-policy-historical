@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033658id_/http%3A//www.drivers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420065837id_/http%3A//www.drivers.com/privacy.php) for the most accurate reproduction.*
 
 # Drivers.com: Privacy Statement
 
@@ -41,6 +41,8 @@ This web site contains links to other sites. Please be aware that we are not res
 **Third Party Advertising**
 
 We use FastClick, Google, and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Third Party Cookies**
 
