@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219162421id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420200424id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Convio
+# Convio | Privacy Policy | Convio
 
 Registering with us allows you to take advantage of all our unique services as a Convio.com registered user, including reports on critical developments affecting the world of nonprofits, stories on Internet technology for nonprofits from leading consultants in the field, best practices in technology for nonprofits, tips and strategies from your peers in nonprofits on how to get the most out of technology, and announcements of new Convio releases. 
 
@@ -94,8 +94,8 @@ Our Site contains links to other websites. Please note that when you click on on
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
 Mailing Address:  
-11400 Burnet Rd.  
-Bldg. 5, Ste. 200  
+11501 Domain Drive   
+Suite 200   
 Austin, TX 78758
 
 888-528-9501 Toll-free Phone 
