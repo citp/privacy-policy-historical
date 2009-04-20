@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227223034id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420034208id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
 
-# About Goldline - Privacy Policy - Goldline International
+# Privacy Policy - About Goldline - Goldline International
 
 |  | [](http://www.goldline.com/ "Goldline International, Inc") | 
 
@@ -17,17 +17,17 @@ Serving Rare Coin and Precious Metals Investors Since 1960
   * [About Goldline](https://web.archive.org/about-goldline/)
   * [Corporate Information](https://web.archive.org/about-goldline/corporate-info.html)
   * [Goldline Careers](https://web.archive.org/about-goldline/goldline-careers.html)
+  * [Press](https://web.archive.org/about-goldline/press.html)
   * [Contact Us](https://web.archive.org/about-goldline/contact-goldline.html)
   * [Privacy Policy](https://web.archive.org/about-goldline/privacy-policy.html)
   * [Terms of Use](https://web.archive.org/about-goldline/terms-of-use.html)
 
-[](https://web.archive.org/precious-metals/email-newsletter.html)
-
-[](https://web.archive.org/precious-metals/testimonial.html)
+[](https://web.archive.org/precious-metals/email-newsletter.html)  
+[](https://web.archive.org/about-goldline/press/fred-thompson-goldline-international.html)   
+  
+[](https://web.archive.org/buy-gold/ira-investment.html)
 
 [](https://web.archive.org/precious-metals/articles/gold-confiscation-order.html)
-
-[](https://web.archive.org/buy-gold/coin-grading.html)
 
 [](https://web.archive.org/about-goldline/goldline-careers.html)
 
@@ -46,9 +46,11 @@ Goldline’s Email Community is a great way to keep updated on current market in
   4. **Modifying Your Email Information**  
 If you need to update any email address information you've previously submitted to us, please email the changes to [info@goldline.com](mailto:info@goldline.com).
   5. **How to Contact Us**  
-If you have any questions or concerns about this privacy policy, please contact us at [info@goldline.com](mailto:info@goldline.com)or call Goldline at 1-800-827-4653.
+If you have any questions or concerns about this privacy policy, please contact us at [info@goldline.com](mailto:info@goldline.com) or call Goldline at 1-877-376-2646.
   6. **Image Protection**  
 The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization. [Read our terms of use to learn more.](https://web.archive.org/about-goldline/terms-of-use.html)
+  7. **Monitoring of Calls**  
+Please note that when Goldline contacts you via telephone regarding your request for information, your call may be monitored or recorded for compliance and quality purposes.
 
   
   
@@ -66,7 +68,7 @@ Loading Prices...
 Prices are indications only. Call Goldline for most current spot prices. Click _[here](https://web.archive.org/about-goldline/spot-price-help.html)_ for more information.  
   
   
-  
+**Glenn Beck explains why he buys gold coins from Goldline.**   
   
   
 [](https://web.archive.org/market-news/radio-show.html)
@@ -81,11 +83,11 @@ The American Advisor with Joe Battaglia, a daily talk show focusing on conservat
 Goldline's success, growth, and experience have allowed us to acquire other outstanding precious metals firms including Deak International Goldline (US) Ltd. from Thomas Cook; Gold and Silver Emporium (asset purchase); and Dreyfus Precious Metals, Inc.
 
   
-[](https://web.archive.org/about-goldline/corporate-info.html)
+[](https://web.archive.org/about-goldline/corporate-info.html) [](https://web.archive.org/precious-metals/testimonial.html)
 
-[](https://web.archive.org/buy-gold/ira-investment.html)  
+[](https://web.archive.org/buy-gold/coin-grading.html)
+
    
-  
 |   
 |   
 |  |   
