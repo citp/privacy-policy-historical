@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228025321id_/http%3A//www.midphase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421000618id_/http%3A//www.midphase.com/privacy.php) for the most accurate reproduction.*
 
 # midPhase Web Hosting - Budget Web Hosting and Dedicated Server Hosting
 
