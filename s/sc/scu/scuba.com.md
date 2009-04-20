@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050331id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420234309id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
@@ -68,23 +68,3 @@ If you are unable to add more than one item to your shopping cart, then your sho
     * Restart Firefox and add an item.
 
 
-
-  
-
-
-* * *
-
-Bookmark this page:  
-Favorites   Google Bookmarks   Yahoo Bookmarks   Del.icio.us   Digg     
-US, Canada and the Caribbean call toll free 1-800-347-2822  
-International callers please dial 1-949-221-9300  
-Product Information Questions? Call our certified instructors toll free 800.34SCUBA  
-e-mail our instructors at [info@scuba.com](mailto:info@scuba.com)  
-Fax us at: 949-221-9323  
-Corporate Office: [Scuba.com](http://www.scuba.com/)  
-1752 Langley Avenue, Irvine CA 92614  
-  
-Scuba diving portal for [scuba diving equipment](http://www.scuba.com/)   
-Scuba requires professional [scuba diving training and certification](http://www.scuba.com/learn2scuba/)   
-Prices subject to change.  
-Copyright © 2000-2008 
