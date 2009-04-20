@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219153707id_/http%3A//bigcontacts.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421003016id_/http%3A//www.bigcontacts.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Big Contacts - Web Based Contact Manager + Sales Force Automation Platform
+
+[ ](https://secure.trust-guard.com/certificates/www.bigcontacts.com)
 
 Big Contacts has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Big Contacts web service (the "Site") is of great importance to us. We have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. Notification will appear here and by email sent to all registered users.
 
