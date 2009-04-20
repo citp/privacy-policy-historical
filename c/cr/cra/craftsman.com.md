@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160805id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420091042id_/http%3A//www.sears.com/shc/s/nb_10153_12605_NB_CSprivacy%3FadCell%3DAF%26intcmp%3Dcraftsmanftpp) for the most accurate reproduction.*
 
 # Craftsman Tools, Fitness Equipment, Kenmore Appliances, Lawn & Garden - Sears.com
 
@@ -56,13 +56,9 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 Back to top
 
-  
-  
-
-
 How Does Sears Handle Personally Identifiable Information Collected on Children?
 
-Please [click here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy?adCell=A4) to read our Children Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following:
+Please [click here](https://web.archive.org/shc/s/nb_10153_12605_NB_CSchildprivacy?adCell=W4) to read our Children Online Privacy Policy for information on Sears general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses Sears general policy regarding the following:
 
   * Collection of children´s personal information
   * Use of children´s personal information
@@ -95,13 +91,13 @@ Back to top
 
 How Can I Access My Information?
 
-You can personalize your experience at Sears by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link at the top of each Sears Website page. Your account information is secure and is accessible by using a password that you select. To become registered user at Sears, or to modify your current preferences, [click Here.](http://www.sears.com/shc/s/LogonForm?langId=-1&storeId=10153&catalogId=12605&krypto=ZGuYz14ZweWOlfYrgHKDwQ%3D%3D&ddkey=http:LogonForm&adCell=A4) .
+You can personalize your experience at Sears by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link at the top of each Sears Website page. Your account information is secure and is accessible by using a password that you select. To become registered user at Sears, or to modify your current preferences, [click Here.](https://web.archive.org/shc/s/LogonForm?langId=-1&storeId=10153&catalogId=12605&krypto=ZGuYz14ZweWOlfYrgHKDwQ%3D%3D&ddkey=http:LogonForm&adCell=W4) .
 
 Back to top
 
 Can I “Opt-Out” of Receiving Promotional E-mails from Sears.com?
 
-Sears.com may send you e-mails with promotional offers if you opt-in to receiving such emails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please click [here](http://www.sears.com/shc/s/LogonForm?storeId=10153&krypto=ZGuYz14ZweWrQg%2FooLe2dnxGWBDVc4N%2FkddunithHGg%3D&ddkey=http:LogonForm&adCell=A4) and follow the unsubscribe instructions. Your e-mail address will be removed from our email marketing list.
+Sears.com may send you e-mails with promotional offers if you opt-in to receiving such emails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from sears.com, please click [here](https://web.archive.org/shc/s/LogonForm?storeId=10153&krypto=ZGuYz14ZweWrQg%2FooLe2dnxGWBDVc4N%2FkddunithHGg%3D&ddkey=http:LogonForm&adCell=W4) and follow the unsubscribe instructions. Your e-mail address will be removed from our email marketing list.
 
 Back to top
 
@@ -110,6 +106,3 @@ Will I Receive Notice of Changes to the Privacy Policy?
 As mentioned above, from time to time Sears may modify this Privacy Policy to reflect industry initiatives or changes in the law, changes in our collection or use practices, or changes in Sears features or technology, and such modifications shall be effective upon posting by Sears on the Sears Website. Your continued use of the Sears Website after Sears posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. 
 
 Back to top
-
-  
-
