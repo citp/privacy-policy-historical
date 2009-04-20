@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpanel.net privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208170723id_/http%3A//www.cpanel.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpanel.net privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420211728id_/http%3A//cpanel.net/privacy-policy.html) for the most accurate reproduction.*
 
-# cPanel - The Leading Control Panel
+# Privacy Policy - cPanel Inc.
 
 ## Corporate
 
@@ -52,7 +52,7 @@ We make a sincere effort to respond to your requests to update or correct your p
 
 ## 1.3 Web Site Traffic
 
-Through our various tracking methods discussed above, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout cPanel’s Web site. Such information is not correlated with any personal information.
+Through our various tracking methods discussed above, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout cPanel�s Web site. Such information is not correlated with any personal information.
 
 ## 1.4 Links to Business Partner Sites
 
@@ -66,16 +66,14 @@ Please remember that information you submit in a discussion group or forum, like
 
 If you have any questions or comments concerning this policy, or if you would like update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:
 
-Billing / Accounts Contact:
+Customer Service Contact:
 
-<https://tickets.cpanel.net/submit/index.cgi?reqtype=billing>
+<https://tickets.cpanel.net/submit/index.cgi?reqtype=cs>
 
 Postal Mail:  
 cPanel Inc.  
 ATTN: Privacy  
 3701 Kirby Dr #428  
 Houston, TX 77098   
-Telephone 713-529-0800  
+Telephone 570-443-7700  
 
-
-cPanel Web Site Feedback Form
