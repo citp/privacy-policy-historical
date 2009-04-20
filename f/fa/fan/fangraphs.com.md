@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041057id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420144650id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FanGraphs Baseball
 
+  
+  
 **Privacy Policy**  
   
 What This Privacy Policy Covers   
@@ -60,6 +62,4 @@ Questions and Suggestions
   
   * If you have questions or suggestions, please complete a [ feedback form](http://www.fangraphs.com/forums/sendmessage.php).
 
-  
-  
 
