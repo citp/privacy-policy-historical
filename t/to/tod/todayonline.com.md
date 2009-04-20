@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151437id_/http%3A//www.todayonline.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayonline.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420020007id_/http%3A//www.todayonline.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -76,12 +76,14 @@ This policy is subject to any existing laws of the Republic of Singapore in rela
 
 If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
 
-MedicaCorp Press Ltd
+MediaCorp Press Ltd
 
 Attention: Chief Operating Officer
 
-24 Raffles Place #28-01/06
+Caldecott Broadcast Centre
 
-Clifford Centre
+Annex Building Level 1
 
-Singapore 048621
+Andrew Road
+
+Singapore 299939
