@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypoints.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162808id_/http%3A//www.mypoints.com/emp/u/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypoints.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420042917id_/http%3A//mypoints.com/emp/u/privacy.vm) for the most accurate reproduction.*
 
 # 
 
@@ -72,14 +72,14 @@ Although we house our data in the United States, it is possible that some of our
 As long as you remain a MyPoints member, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital program and membership status changes or alterations to our Terms of Service. 
 
 **Access to Personally Identifiable Information**  
-If your personally identifiable information changes or if you no longer desire our service, you may correct, update, or delete it by making a change on the [Update My Account](https://web.archive.org/web/20081216162808id_/http%3A//www.mypoints.com/emp/u/member/) page, by closing your account here: [http://wwww.mypoints.com/emp/u/closeAccount.do](https://web.archive.org/emp/u/closeAccount.do), or by writing: 
+If your personally identifiable information changes or if you no longer desire our service, you may correct, update, or delete it by making a change on the [Update My Account](https://web.archive.org/web/20090420042917id_/http%3A//mypoints.com/emp/u/member/) page, by closing your account here: [http://wwww.mypoints.com/emp/u/closeAccount.do](https://web.archive.org/emp/u/closeAccount.do), or by writing: 
 
 MyPoints Member Services  
 525 Market Street, Suite 3400  
 San Francisco, CA 94105 
 
 **Member Communications and Email**  
-MyPoints employs a strict policy against sending unsolicited email. Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of enrollment. If you later decide you wish to cease participation in this portion of the program, you may do so at any time by adjusting your email settings in the [Edit Account Information](https://web.archive.org/web/20081216162808id_/http%3A//www.mypoints.com/emp/u/editProfile.do) section of your account or by clicking on the opt-out links contained within each MyPoints email or by sending an email to [unsubscribe@mypoints.com](mailto:unsubscribe@mypoints.com). 
+MyPoints employs a strict policy against sending unsolicited email. Because email is an integral part of the program, you sign up to receive email targeted to your interests at the time of enrollment. If you later decide you wish to cease participation in this portion of the program, you may do so at any time by adjusting your email settings in the [Edit Account Information](https://web.archive.org/web/20090420042917id_/http%3A//mypoints.com/emp/u/editProfile.do) section of your account or by clicking on the opt-out links contained within each MyPoints email or by sending an email to [unsubscribe@mypoints.com](mailto:unsubscribe@mypoints.com). 
 
 Please note that opting not to receive email does not exempt you from receiving administrative emails that include but are not limited to, notices about vital program and membership status changes, Privacy Policy and Terms of Service updates and purchase and redemption confirmation emails. 
 
