@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011640id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.sg privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420140226id_/http%3A//pages.ebay.com.sg/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -6,35 +6,7 @@ This policy tells you about how we use and protect your personal information. To
 
 ### Contents
 
-  * Scope
-
-  * Collection
-
-  * Marketing
-
-  * Use
-
-  * Our Disclosure of Your Information
-
-  * Information You Share on eBay
-
-  * Using Information from eBay
-
-  * Cookies
-
-  * No Spam, Spyware or Spoofing
-
-  * Account Protection
-
-  * Accessing, Reviewing and Changing Your Personal Information
-
-  * Security
-
-  * Third Parties
-
-  * General
-
-
+  *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 
 ### Scope
