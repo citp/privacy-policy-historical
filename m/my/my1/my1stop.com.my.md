@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912232845id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420112717id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # My1Stop Virtual Shopping Mall: online shopping, business, advertising, e-store rental, free listing, reseller and affiliate program
 
