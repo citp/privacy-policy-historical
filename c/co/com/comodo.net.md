@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comodo.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065747id_/http%3A//comodo.net/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodo.net privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420080143id_/http%3A//comodo.net/corporate/privacy.html) for the most accurate reproduction.*
 
 # Welcome to TrustToolbar.com
 
