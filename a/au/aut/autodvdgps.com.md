@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133530id_/http%3A//www.autodvdgps.com/%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420035123id_/http%3A//www.autodvdgps.com/%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Car GPS DVD - GPS DVD Players - Navigation System DVD Players - China Wholesale - Car DVD Players
+# Privacy Notice : Car Radio CD DVD GPS Navi MP3 Stereo - DVD GPS Navigation System - Sat Nav GPS Radio Wholesale
 
 **Information protection policy**
 
