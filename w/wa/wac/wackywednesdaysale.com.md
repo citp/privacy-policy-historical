@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackywednesdaysale.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171258id_/http%3A//www.theagencyllc.info/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackywednesdaysale.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420032434id_/http%3A//www.theagencyllc.info/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # TheAgencyLLC.info
 
@@ -63,4 +63,4 @@ This web site contains links to other web sites. Please note that when you click
 
 [Privacy Statement](http://www.theagencyllc.info/legal/privacy-statement.html) | [Terms and Conditions](http://www.theagencyllc.info/legal/terms-and-conditions.html) | [Earnings Disclaimer](http://www.theagencyllc.info/legal/earnings-disclaimer.html) | [Affiliate Agreement](http://www.theagencyllc.info/legal/affiliate-agreement.html)
 
-Copyright © 2007 [www.theagencyllc.info](https://web.archive.org/web/20081216171258id_/http%3A//www.theagencyllc.info/legal/www.theagencyllc.info) \- All Rights Reserved Worldwide
+Copyright © 2007 [www.theagencyllc.info](https://web.archive.org/web/20090420032434id_/http%3A//www.theagencyllc.info/legal/www.theagencyllc.info) \- All Rights Reserved Worldwide
