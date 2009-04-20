@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050011id_/http%3A//www.indiancinemafans.com/board/upload/rules/18728-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420020712id_/http%3A//www.indiancinemafans.com/board/upload/rules/18728-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Indiancinemafans - Bringing All The Indian Cinema Fans Together !
-
-Administrator
-
- 
-
-[](http://www.indiancinemafans.com/board/upload/members/admin.html)
-
- 
-
-Join Date: Mar 2006
-
-Posts: 6 
-
-Rep Points: 0
-
-Rep Power: 150
-
-| 
-
-**Privacy Policy**
-
-* * *
 
 **PRIVACY POLICY**
 
@@ -77,5 +55,3 @@ Rep Power: 150
 **Contact Us**
 
 **If you have any questions, comments or concerns about our Privacy Policy, please contact us at[admin@indiancinemafans.com](mailto:admin@indiancinemafans.com) This Privacy Policy was last updated on November 20, 2007. © 2006 indiancinemafans llc. All rights reserved.**
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=276966&afsid=1)
