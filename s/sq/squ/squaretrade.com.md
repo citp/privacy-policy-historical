@@ -1,42 +1,12 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908043220id_/http%3A//www.squaretrade.com/cnt/jsp/lgl/user_conf_agree.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420154800id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# SquareTrade
+# SquareTrade - Great Warranties Deals on Laptops, TVs, iPods & More | SquareTrade
 
-|   
----  
-Privacy Policy  
-**Updated 5-15-08**  
-[](http://www.truste.org/ivalidate.php?url=www.squaretrade.com&sealid=101) |   
-  
----  
-**Table of Contents**  
-1\. Purpose of Privacy Policy.  
-  
-2\. A Special Note About Children  
-  
-3\. Information We Collect  
-  
-4\. Our Use and Disclosure of Your Information  
-  
-5\. Control of Your Password  
-  
-6\. Third Party Collectors of Information  
-  
-7\. Security  
-  
-8\. Confidentiality of Dispute Resolution Process  
-  
-9\. Links to Other Sites  
-  
-10\. Choice/Opt Out  
-  
-[11\. Opting Out of Cookies](https://web.archive.org/cnt/jsp/hlp/general.jsp)  
-  
 **1\. Purpose of Privacy Policy**
 
 SquareTrade is committed to maintaining the privacy of all individuals and companies that access SquareTrade's web site, for purchasers of the SquareTrade CarePlan; who become Members of SquareTrade Seal Program, Care Plus Feature; and who participate in our Dispute Resolution process. As part of the normal operation of our site we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. 
 
-SquareTrade is a licensee of the TRUSTe Privacy Program, which is a non-profit organization dedicated to building trust in the Internet by having member organizations such as SquareTrade disclose information practices. TRUSTe operates as a third-party "watch dog" by auditing our privacy practices to make sure that we are in compliance with TRUSTe's privacy standards. This document discloses the privacy practices for [www.squaretrade.com](https://web.archive.org/cnt/jsp/index.jsp). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
+SquareTrade is a licensee of the TRUSTe Privacy Program, which is a non-profit organization dedicated to building trust in the Internet by having member organizations such as SquareTrade disclose information practices. TRUSTe operates as a third-party "watch dog" by auditing our privacy practices to make sure that we are in compliance with TRUSTe's privacy standards. This document discloses the privacy practices for [www.squaretrade.com](https://web.archive.org/pages/). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
 
   1. What personally identifiable information of yours is collected;
   2. What organization is collecting the information;
@@ -155,7 +125,7 @@ We do not sell or rent any information you provide. It is possible that SquareTr
   
 **5\. Control of Your Password.**
 
-You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password from the home page ([www.squaretrade.com](https://web.archive.org/cnt/jsp/index.jsp)). SquareTrade Seal Program Members and Care Plus Features may change their membership passwords and other personal identification information by contacting Member Services at [memberservices@squaretrade.com](mailto:memberservices@squaretrade.com) , or by going to the [Member Profile Page](https://web.archive.org/pages/user/login?destination=node%2F2) on the SquareTrade Web Site.   
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information. Therefore, if your password has been compromised for any reason, you should immediately change your password from the home page ([www.squaretrade.com](https://web.archive.org/pages/)). SquareTrade Seal Program Members and Care Plus Features may change their membership passwords and other personal identification information by contacting Member Services at [memberservices@squaretrade.com](http://warranty.squaretrade.com/buyercenter/contactUs.do), or by going to the [Member Profile Page](https://web.archive.org/pages/my-profile) on the SquareTrade Web Site and login.   
   
 **6\. Third Party Collectors of Information.**
 
@@ -165,10 +135,7 @@ Our policy only addresses the use and disclosure of information we collect from 
 
 SquareTrade uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as encryption and Secure Socket Layers. SquareTrade has security measures in place to protect the loss, misuse, or alteration of any information under our control. However, "perfect security" does not exist on the Internet.   
   
-**8\. Confidentiality of Dispute Resolution Process.**
-
-SquareTrade is committed to maintaining confidentiality within the Dispute Resolution process. As described above, SquareTrade will collect and track information about you, the Case, the Dispute Resolution process, the settlement agreement (if any), and your Dispute Resolution behavior. We will retain this information in the strictest confidence, except as otherwise described above. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have the choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our confidentiality practices that affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our confidentiality practices.   
-  
+**8\. Confidentiality of Dispute Resolution Process.** SquareTrade is committed to maintaining confidentiality within the Dispute Resolution process. As described above, SquareTrade will collect and track information about you, the Case, the Dispute Resolution process, the settlement agreement (if any), and your Dispute Resolution behavior. We will retain this information in the strictest confidence, except as otherwise described above. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have the choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our confidentiality practices that affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our confidentiality practices.   
 **9\. Links to Other Sites.**
 
 This Web Site contains links to other web sites. Please note that when you click on one of these links, you are "clicking" to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.   
@@ -186,7 +153,3 @@ You can also opt out of emails by contacting [privacy@squaretrade.com](mailto:pr
 
 Customer Service   
 Based upon their personally identifiable information you provide us, we will send you a welcoming email to verify your information. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email. 
-
-|   
-  
-Close window
