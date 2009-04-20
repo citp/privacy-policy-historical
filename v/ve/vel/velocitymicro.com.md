@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218224037id_/http%3A//www.velocitymicro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocitymicro.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420185651id_/http%3A//www.velocitymicro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - High Performance Gaming Computers, Custom Built Home Computers, Business Workstations, Digital Media Computer Systems from Velocity Micro®
 
 Velocity Micro has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
 **Use and Security of Order Information**  
-All information requested when you place an order is secured by Secure Sockets Layer (SSL) technology to protect the loss, misuse, or alteration of information placed under our control. Note that on the checkout page, the Address bar in your web browser begins with an “https” instead of the regular “http”. A small yellow lock symbol appears in the lower right-hand corner of your browser.
+All information requested when you place an order is secured by Secure Sockets Layer (SSL) technology to protect the loss, misuse, or alteration of information placed under our control. Note that on the checkout page, the Address bar in your web browser begins with an "https" instead of the regular "http". A small yellow lock symbol appears in the lower right-hand corner of your browser.
 
 When you place an order, VelocityMicro.com requests information such as contact information, shipping information, Internet Protocol (IP) address, credit card number, and demographic information. 
 
@@ -27,7 +27,7 @@ When you register for a contest on VelocityMicro.com, we require you to submit c
 **We do not sell, rent, trade, or otherwise market your contest with ANY third party.** Your information remains solely in our possession.
 
 **Use of Newsletter Information**  
-When you register to receive the Velocity Micro newsletter, we require you to submit your email address. We use this address for the sole purpose of sending you the requested newsletter. You may opt out of the newsletter at any time by sending an email to vnews@velocitymicro.com with “Remove” in the subject line.
+When you register to receive the Velocity Micro newsletter, we require you to submit your email address. We use this address for the sole purpose of sending you the requested newsletter. You may opt out of the newsletter at any time by sending an email to vnews@velocitymicro.com with "Remove" in the subject line.
 
 **We do not sell, rent, trade, or otherwise market your newsletter with ANY third party.** Your information remains solely in our possession.
 
@@ -35,7 +35,7 @@ When you register to receive the Velocity Micro newsletter, we require you to su
 We **do not** collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We **do not** distribute personally identifiable information about children without parental consent. We **do not** give children the ability to post or distribute personal information without prior consent. We **do not** entice children with games or contests that would encourage them to disclose personal information.
 
 **Opt Out/Opt In**  
-VelocityMicro.com allows users to opt in to receive an email newsletter from us. Users may unsubscribe at any time by sending an email message to vnews@velocitymicro.com with the word “Remove” in the subject line.
+VelocityMicro.com allows users to opt in to receive an email newsletter from us. Users may unsubscribe at any time by sending an email message to vnews@velocitymicro.com with the word "Remove" in the subject line.
 
 **Disclaimer**  
 This site contains links to other sites. VelocityMicro.com is not responsible for the content or privacy practices of these sites.
