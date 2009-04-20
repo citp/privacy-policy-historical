@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012430id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420084423id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
 
 # Edmunds Privacy Statement
 
 **Privacy Statement**
-
-**Date Last Revised: October 6, 2008**
 
 We gather certain types of information about the visitors to the Edmunds Automotive Network (Edmunds.com, _Inside Line_ , CarSpace and AutoObserver.com, and any other Web site that we identify as a part of the Edmunds Automotive Network), and we believe our visitors should fully understand how we obtain and use that information. This Privacy Statement discloses what information we gather and how we use it. 
 
@@ -18,7 +16,7 @@ In addition, in order to become a member of the Edmunds Automotive Network you a
 
 If you do not give your consent, either in the manner described in the preceding paragraph or in another manner, your Personal Information will not be shared by us with other entities, except as follows: We may disclose whatever information we may have or know about you, including your Personal Information, without first notifying you or obtaining your consent, to third-party service providers who assist us to improve our data or our services or to better understand their value to our visitors or to the companies with which we do business; or to other third parties if we determine that disclosure of such information: (i) is or may be required by law or legal process; (ii) is or may be reasonably necessary to enforce the Edmunds Automotive Network [Membership Agreement](http://www.edmunds.com/townhall/memberagreement.html) or [Visitor Agreement](http://www.edmunds.com/help/about/visitoragreement.html), or to take appropriate action if a visitor is determined by us to have violated either of those agreements; or (iii) is or may be reasonably necessary to protect the rights, property or safety of our company, the Edmunds Automotive Network, our visitors or other individuals or entities. We may also disclose to third parties portions of the Edmunds Automotive Network's log files that show which "Internet service provider" a visitor has used or other visitor information. That information may enable third parties to discover, through that Internet service provider, the identity of a visitor. 
 
-While we will not use your Personal Information to send you commercial emails unless you have given us your consent, we may use both your Personal Information and other information we may have about you (such as your IP address) or your use of the Edmunds Automotive Network (such as which pages you have visited) to customize or enhance your experience on the Edmunds Automotive Network. In addition, and as described in greater detail in our [Membership Agreement](http://www.edmunds.com/townhall/memberagreement.html), if you are a member of the Edmunds Automotive Network we may send you certain administrative and service messages in connection with our Community Services; you cannot opt out of receiving those communications. 
+While we will not use your Personal Information to send you commercial emails unless you have given us your consent, we may use both your Personal Information and other information we may have about you (such as your IP address) or your use of the Edmunds Automotive Network (such as which pages you have visited) to customize or enhance your experience on the Edmunds Automotive Network, including the display of advertisements. In addition, and as described in greater detail in our [Membership Agreement](http://www.edmunds.com/townhall/memberagreement.html), if you are a member of the Edmunds Automotive Network we may send you certain administrative and service messages in connection with our Community Services; you cannot opt out of receiving those communications. 
 
 **Access to Your Personally Identifiable Information**
 
@@ -74,9 +72,9 @@ The Edmunds Automotive Network provides a number of other means by which you may
 
 Occasionally we conduct visitor surveys to better target our content to our audience or for the benefit of third parties with whom we do business. Accordingly, sometimes the aggregate survey results are shared with our advertisers and partners. We never share any survey information about specific response with any third party unless that individual consents.
 
-**New Vehicle PowerShopper and Dealer Locator Service**
+**Dealer Locator Service**
 
-Our New Vehicle PowerShopper service may collect personally identifiable information about you, depending on which of our partners you select, and our Dealer Locator service does collect personally identifiable information about you if you chose to have one or more dealers contact you. The use of the information obtained by us through your use of these services is described in other portions of this Privacy Statement.
+Our Dealer Locator service collects personally identifiable information about you if you chose to have one or more dealers contact you. The use of the information obtained by us through your use of these services is described in other portions of this Privacy Statement.
 
 **E-mail this Page to a Friend**
 
@@ -95,3 +93,5 @@ We use DoubleClick Inc., a third-party advertising company, to serve advertiseme
 We reserve the right to change this Privacy Statement at any time. Please check this page periodically for changes. Your continued use of the Edmunds Automotive Network following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 Back to top
+
+_Revised March 4, 2009_
