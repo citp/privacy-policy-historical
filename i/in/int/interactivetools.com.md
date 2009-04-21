@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219054619id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421143439id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
@@ -30,22 +30,10 @@ We take your privacy very seriously. In order for you to better understand our d
 |     | 
 
   
-**"Your tools multiply the value of my client websites by 10! Keep up the awesome work and make us some new tools!"**
+**"Business schools should use you guys as a case study showing how to get it right - great products backed with superb support."**
 
-David Morley  
-morleyinteractive.com  
-
-
-  
-
-
-* * *
-
-  
-**"Thanks to Realty Manager it was easy to plan and deliver our site on time!"**
-
-Graham O'Rourke  
-morsolutions.com  
+Paul Forman  
+following-seas.com  
 
 
   
@@ -54,10 +42,22 @@ morsolutions.com
 * * *
 
   
-**"DocBuilder is amazing ... we will be using this system with every one of our clients."**
+**"A superior product at a great price."**
 
-Gregory M Schneider  
-summitbrokers.com  
+Douglas Helmer  
+combatsim.com  
+
+
+  
+
+
+* * *
+
+  
+**"Short and sweet, your installation was a godsend and handled both quickly and professionally. It was all up and working within 24 hours. No problems at all."**
+
+Lili Crawford  
+mauidesign.com  
 
 
   
