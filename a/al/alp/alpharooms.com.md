@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021713id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421024349id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -9,7 +9,7 @@
 We only collect information that you voluntarily give to us:
 
   * When you book accommodation with us, you give us your name, email address and billing address. You also give us your credit card details to pay for the booking.
-  * If you sign up for our special offers newsletter we take your email address.
+  * If you sign up for our special offers newsletter we take your email address, name and preferred airport.
   * Like all online retailers, we collect usage information when a user visits our website. This information cannot identify individuals; we can use it solely to determine overall visitor numbers and trends.
 
 
@@ -18,7 +18,7 @@ We only collect information that you voluntarily give to us:
 
 We use your information to:
 
-  * Book your accommodation.
+  * Book your accommodation, flights, transfers and other extras.
   * Send you special offers by email – but only if you give us permission.
   * Determine visitor numbers to **alpharooms.com** , and to establish sales trends. This enables us to improve our visitors' experiences of our website.
 
@@ -26,15 +26,15 @@ We use your information to:
 
 ## Who we share your information with
 
-Your information is only shared with certain third parties in order to book your accommodation. For example, we give your details to the hotel you have booked at. We do not share your information for marketing purposes.
+Your information is only shared with certain third parties in order to book your accommodation, flights, transfers and other extras. For example, we give your details to the hotel you have booked. We do not share your information for marketing purposes.
 
 ## How we protect your information
 
-Any sensitive information you give us (such as credit card details) is protected by SSL technology – the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20081216021713id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
+Any sensitive information you give us (such as credit card details) is protected by SSL technology – the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20090421024349id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
 
 ##  Direct Marketing
 
-We may use your information to contact you with relevant and similar marketing promotions from companies within the Alpha International Accommodation Ltd. Group (for example we may send you promotions from our sister company Vacenza.com with similar products and services).
+We may use your information to contact you with relevant and similar marketing promotions from companies within the Alpha International Accommodation Ltd. Group (for example we may send you promotions from our sister company Vacenza.com with similar products and services). We may also contact you with relevant marketing promotions from some carefully selected third party companies.
 
 We may contact you with up and coming promotions via email, direct mail, SMS, or RSS feeds but only with your consent. 
 
@@ -56,7 +56,7 @@ If you would like further information about the Alpha International Accommodatio
 
 ### Special Offer Emails
 
-If you would like to unsubscribe from the AlphaRooms.com newsletters please do so by your last email.
+If you would like to unsubscribe from the alpharooms.com newsletters please do so either by your last email or email [ reservations@alpharooms.com.](mailto:reservations@alpharooms.com)
 
 ### Email This Hotel
 
