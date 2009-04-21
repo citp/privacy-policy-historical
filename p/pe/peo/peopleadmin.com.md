@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229085659id_/http%3A//www.peopleadmin.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D155%26Itemid%3D165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421102633id_/http%3A//www.peopleadmin.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D155%26Itemid%3D165) for the most accurate reproduction.*
 
 # PeopleAdmin - HR Solutions for Higher Education and the Public Sector
 
 Effective August 13, 2008 
 
-PeopleAdmin is committed to protecting your privacy and earning your trust. This policy discloses our privacy practices for personal information our customers provide to us. This policy explains how we collect, use and safeguard our customers’ personal information. It is our intent to give our customers as much control as reasonably practicable over their privacy and personal information and the use we make of it in our business. We may, in our sole discretion, change this policy from time to time by posting a revised version on our web site ([www.peopleadmin.com/privacy](https://web.archive.org/web/20081229085659id_/http%3A//www.peopleadmin.com/www.peopleadmin.com/privacy)) or otherwise publicly disseminating it, so please check back from time to time. 
+PeopleAdmin is committed to protecting your privacy and earning your trust. This policy discloses our privacy practices for personal information our customers provide to us. This policy explains how we collect, use and safeguard our customers’ personal information. It is our intent to give our customers as much control as reasonably practicable over their privacy and personal information and the use we make of it in our business. We may, in our sole discretion, change this policy from time to time by posting a revised version on our web site ([www.peopleadmin.com/privacy](https://web.archive.org/web/20090421102633id_/http%3A//www.peopleadmin.com/www.peopleadmin.com/privacy)) or otherwise publicly disseminating it, so please check back from time to time. 
 
 #### What kinds of personal information does PeopleAdmin collect?
 
