@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmasoftlab.com privacy policy that was archived on 2008-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080701225020id_/http%3A//www.dmasoftlab.com/cont/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmasoftlab.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421225244id_/http%3A//dmasoftlab.com/cont/privacy) for the most accurate reproduction.*
 
-# Radius, Mikrotik, ChilliSpot, StarOS, ISP Billing, WLAN, PPPoE, VPN, Hotspot and Dialup systems
+# Radius, Mikrotik, Cisco, ChilliSpot, StarOS (WLAN, PPPoE, VPN, Hotspot, Dialup) ISP billing
 
 Privacy Notice
 
