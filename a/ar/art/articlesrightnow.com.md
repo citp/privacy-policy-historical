@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the articlesrightnow.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220190030id_/http%3A//www.articlesrightnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesrightnow.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421042303id_/http%3A//www.articlesrightnow.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesRightNow.com | Submit Articles | Search Find Free Content | Author Submission
 
-| [**Featured Articles**](http://www.articlesrightnow.com/archives.html) |[ Terms Of Submission](http://www.articlesrightnow.com/terms.php) | **[Sign Up](http://www.articlesrightnow.com/signup.php)** | [Submission Guidelines](http://www.articlesrightnow.com/submitguidelines.php) | [Submit Articles](http://www.articlesrightnow.com/submitarticles.php) | [Contact Us](http://www.articlesrightnow.com/contacts.php)  
-[Home](http://www.articlesrightnow.com/) | [](http://www.freeclassifiedad4u.com/bb/) | Bookmark ArticlesRightNow.com | [Internet Marketing Blog](http://internetmarketinginformationatitsbest.blogspot.com/)
+[ Terms Of Submission](http://www.articlesrightnow.com/terms.php) | **[Sign Up](http://www.articlesrightnow.com/signup.php)** | [Submission Guidelines](http://www.articlesrightnow.com/submitguidelines.php) | [Submit Articles](http://www.articlesrightnow.com/submitarticles.php) | [Contact Us](http://www.articlesrightnow.com/contacts.php)  
+[Home](http://www.articlesrightnow.com/) | [](http://www.freeclassifiedad4u.com/bb/) Bookmark ArticlesRightNow.com | [Internet Marketing Blog](http://internetmarketinginformationatitsbest.blogspot.com/)
 
 Articles Right Now Privacy Policy
 
