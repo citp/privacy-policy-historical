@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the purpletrail.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218082952id_/http%3A//purpletrail.com/pt2/cons/mkt/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the purpletrail.com privacy policy that was archived on 2009-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090421104513id_/http%3A//purpletrail.com/pt2/cons/mkt/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     
     <title>PurpleTrail Free Online Invitations Privacy Policy</title>
     <meta name="description" content="PurpleTrail Privacy Policy. PurpleTrail is your free online invitations tool to create, manage and print free invitations online."> 
@@ -18,9 +18,18 @@
       var imgBasePath = "http://static.purpletrail.com/images/";
       var imgPath = "http://static.purpletrail.com/images/default/";
       var g_service_path = "/pt2/cons";
+      var ms_release_level = "production";
       var g_application_name = "PurpleTrail";
+      var g_guest_label = "guest";
+      var g_host_label = "host";
+      var g_consultant_label = "consultant";
+      var g_event_label = "event";
+      var g_order_label = "orders";
+      var g_RSVP_yes = "rsvp yes";
+      var g_RSVP_no = "rsvp no";
+      var g_RSVP_maybe = "rsvp maybe";
       try {
-  		/** 
+      /** 
        * @@ Bug [ IE6 CSS Background Image Flicker ]
        * Fixed, Don't remove this line, otherwise it will cause flicker
        * displaying color boxes
@@ -34,44 +43,51 @@
     </script>    
     
         
-          <script type="text/javascript" src="/javascripts/archive/notloggedinarchive_5278098-min.js"></script>
+          <script type="text/javascript" src="/javascripts/archive/notloggedinarchive_6336563-min.js"></script>
          
     
     <script type="text/javascript" src="/javascripts/thirdparty/NiftyCube/niftycube.js"></script>
+    <script type="text/javascript" src="/pt2/javascripts/slideshow.js"></script>
 
     <!-- CSS File -->
     
-      <link href="http://static.purpletrail.com/stylesheets/archive/notloggedinarchive_5278098-min.css" rel="Stylesheet" type="text/css">
+      <link href="http://static.purpletrail.com/stylesheets/archive/notloggedinarchive_6336563-min.css" rel="Stylesheet" type="text/css">
       <link rel="Stylesheet" type="text/css" href="http://static.purpletrail.com/pt2/cons/stylesheets/pt2.css">
+      <link rel="stylesheet" type="text/css" href="http://static.purpletrail.com/javascripts/thirdparty/yui/2.7.0/build/container/assets/skins/sam/container.css">
+      <link rel="stylesheet" type="text/css" href="http://static.purpletrail.com/pt2/stylesheets/dialogs.css">
       <link rel="Stylesheet" type="text/css" href="http://static.purpletrail.com/javascripts/thirdparty/yui/felix_yui_skin/skin.css">
       <link rel="Stylesheet" type="text/css" href="http://static.purpletrail.com/javascripts/thirdparty/yui/felix_yui_skin/button.css">
-      <link rel="Stylesheet" type="text/css" href="http://static.purpletrail.com/javascripts/thirdparty/yui/2.6.0/build/calendar/assets/skins/sam/calendar.css">
+      <link rel="Stylesheet" type="text/css" href="http://static.purpletrail.com/javascripts/thirdparty/yui/2.7.0/build/calendar/assets/skins/sam/calendar.css">
       
       <!-- As YUI_SAM_SKIN comes with image resources, combining it with the archive below doesn't work. -->
     
         <link rel="stylesheet" type="text/css" media="screen" href="/javascripts/thirdparty/NiftyCube/niftyCorners.css">
 
-    <style type="text/css" id="domain_skin_style_container">
-      
+        <!-- facebook code starts -->
+        
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 
-  body.pts_body{
-    background : #A5BBD3; /*side color*/
+        <!-- -->
+      <style type="text/css" id="domain_skin_style_container">
+        
+ body.pts_body{
+    background : #F0F0F0;/*side color*/
    font-family : Arial, Helvetica, sans-serif;/*font family*/
   }
   /*top header related classes*/
   .pts_topheader{
-    background : #53351B;/*top header background color*/
-    color : #ffffff;/*top header font color*/
-    text-transform :uppercase;
+    background :#53351B;/*top header background color*/
+    color :#fff;/*top header font color*/
+    text-transform:capitalize;
     border-bottom:1px solid #919BA4;/*top header bottom border color[optional]*/
     border-top:1px solid #919BA4;/*top header top border color[optional]*/
-    font-size:0.8em;
+    font-size:1em;
   }
   .pts_topheader a{
-     color : #ffffff;/*top header font color*/
+     color :#fff;/*top header font color*/
   }
   .pts_topheader ul.miniHat{
-    float: left;
+    float:left;
     margin :0px;
   }
   .pts_topheader ul.miniHat li{
@@ -80,7 +96,7 @@
     padding:0.4em 0px;
   }
   .pts_topheader ul.miniHat li a{
-    border-right:1px solid #ffffff; /*top header right border between links[same as font color]*/
+    border-right:1px solid #fff; /*top header right border between links[same as font color]*/
     font-size:1em;
     padding:0 10px;
     line-height : 1.5em;
@@ -105,17 +121,16 @@
    }
   /*footer related classes*/
   .pts_footer{
-    background: #53351B; /*footer background color*/
-    color: #ffffff; /*footer font color*/
+    background : #6798B9 ; /*footer background color*/
+    color:#4e81a4; /*footer font color*/
     float:left;
     font-size:11px;
-    height:40px;
-    padding-top:12px;
+    padding-top:5px;
     text-align:center;
     width:100%;
   }
   .pts_footer a{
-    color: #ffffff; /*footer links font color*/
+    color:#4e81a4; /*footer links font color*/
   }
   /*logo header related classes*/
   .pts_logoHeader{
@@ -124,55 +139,89 @@
      * image path to be shown in background ONE IMP THING TO REMEMBER if you are giving image in background plz also put base color
      * of image in place of transparent eg.(background: #693F49 url(/images/default/texture_red_4883.gif) repeat) here #693F49 is
      * the base color of background image so rounded corner color will be mixed with background image */
-      
-      background: #ffffff url() ;
-      
-    font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff;
+    background:#FFFFFF url() repeat scroll 0 0;
+    color:#FFFFFF;
+    font-family:Arial,Helvetica,sans-serif;
+    height:95px;
     overflow:hidden;
-    
-      height: 50px;
-    
   }
   /*tabs related classes*/
-  #pts_tabs{font-size:1em;float:right;width:100%}
+  #pts_tabs{font-size:0.96em;float:right;}
   #pts_tabs ul.pts_tabs_ul{float:right;margin:0px;}
   #pts_tabs ul.pts_tabs_ul li{
-    background : #EC6293;/*tabs background color*/
-    color: #ffffff; /*tabs font color*/
+    background :#d8d8d8;/*tabs background color*/
+    color:#6798ba; /*tabs font color*/
     margin:0 1px;
-    padding:5px 0px;
+    padding:5px;
     float:left;
     text-align:center;
-    text-transform:uppercase;
+     text-transform:capitalize;
     *width:120px;
   }
   #pts_tabs ul.pts_tabs_ul li a{
-    color: #ffffff; /*tabs font color*/
-    text-decoration: none;
+    color:#6798ba; /*tabs font color*/
+    text-decoration :none;
   }
   #pts_tabs ul.pts_tabs_ul li a span {
     font-weight:bold;
-    letter-spacing:1.5px;
-    padding:0px 10px;
+    letter-spacing:1px;
+    *letter-spacing:0px;
+    padding:0px 7px;
   }
   #pts_tabs ul.pts_tabs_ul li.selected{
-    background :#47BAD7;/*tabs background color when tabs are selected*/
-    color:#ffffff;/*tabs font color when tabs are selected*/
+    background :#6798B9;/*tabs background color when tabs are selected*/
+    color:#E8E4E5;/*tabs font color when tabs are selected*/
   }
+  #pts_tabs ul.pts_tabs_ul li.selected a span {
+   color: #E8E4E5;
+  }
+  /*new style*/
+ body{width:100%;}
+  /*site header related classes*/
+  #pt_site_header{width:100%;font-family:Georgia;}
+  /*site content related classes*/
+  #pt_site_content{width:81.367em;margin:0px auto;}
+  #pt_site_bottom_level_tab{background:#6798B9; clear: both; float:left;width: 100%; padding-top: 20px;}
+  #pt_style_logo_div{text-align:left;padding-top:10px;}
+  #pt_style_info_div{width:60%;float:right;}
+  #pt_style_user_info_div{text-align:right;width:100%;margin:5px 0px;}
+  #pt_style_user_info_div span{color:#b43163;}
+  #pt_style_ms_link_div{margin:5px 0px;float:right;}
+  ul.pt_style_link_bar{float:left;margin:0px;}
+  ul.pt_style_link_bar li{float:left;margin:0;padding:0.4em 0;}
+  ul.pt_style_link_bar li a{border-right:1px solid #4e81a4;font-size:1em;line-height:1.5em;padding:0 10px;text-decoration:none;color:#4e81a4;}
+  #content_container{
+    min-height:600px;
+    width:99.8%;
+    margin:0px auto;
+    background:#ffffff;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+  }
+  
+  #content_container .content-container-inner {
+      padding: 10px;
+  }
+  #pt_style_breadcrumb{color:#ffffff;font-family:Georgia;font-size:16px;}
+  #pt_style_breadcrumb a{color:#fff;font-size:16px;font-weight:bold;}
+  #pt_site_bottom_container{width:100%;background:#6798B9;clear:both;padding:10px 0px 0px 0px;}
+  /*new style ends*/  
+  
+  
 
     
-    </style>
+      </style>
     <script type="text/javascript"> 
      NiftyLoad = function(){
-         Nifty("ul.pts_tabs_ul li", "top medium transparent");
+         Nifty("ul.pts_tabs_ul li,div.home_page_container", "top medium transparent");
      } 
     YAHOO.util.Event.onDOMReady(function() {   
       NiftyLoad();
      });
     </script>  
-              </head> 
-  <body class="yui-skin-sam"> 
+            
+  </head> 
+  <body class="pts_body yui-skin-sam"> 
   <style>
   body {
     /*background:#f6efe7;*/
@@ -214,116 +263,98 @@
     background-position:0% -150px;
   }
   </style>
-  <div id="header">
-      <div class="pts_topheader clear">
-    <ul class="miniHat">
-      <li>
-        <a href="http://purpletrail.com/partytrail" title="Party Ideas Home">Party Ideas</a>
-      </li>
-      <li>
-        <a href="javascript:bookmarksite('Send online invites - PurpleTrail', 'http://purpletrail.com/');">Bookmark this site!</a>
-      </li>
-    </ul>
-    <ul class="chGuide hoverState">
-      <li>
-        <a href="/pt2/cons/mkt/online_invitations_help" title="">Help/FAQ</a>
-      </li>
-      <li>
-          <a href="/pt2/cons/mkt/online_invitations_help_video" title="">Video FAQ</a>
-      </li>  
-      <li>
-        <a href="/pt2/cons/mkt/help?page=feedback" title="">Contact us</a>
-      </li>
-      <li>
-        <a href="/pt2/cons/mkt/help?page=report" title="">Report a problem</a>
-      </li>            
-      <!--
-      <li>
-        <a onclick="window.open('/pt2/mkt/pt_chatlive', null, 'status=no,menubar=no,scrollbars=no,width=690,height=550,resizable=yes')" href="javascript://" title="">Chat with us live!</a>
-      </li>
-      -->
-      
-    </ul>
-    <div class="clear">
-    </div>
-  </div>
-    
-      <table width="100%" class="pts_logoHeader">
-  <tbody><tr>
-    <td width="20%">
-      <a href="/">
-        
-          <img border="0" src="http://s3.amazonaws.com:/mangospring/public/domain_skins/1/logo.gif?cache=1227786978">
-        
-    </a>
-  </td>
-    <td width="80%" align="right" valign="bottom">
   
+  
+    
+ <div id="pt_site_header" class="clearfix" style="float:left;">
+    <div id="pt_site_content" class="clearfix">
+        <!-- div for logo and right side links this div contain skin bg image -->
+        <!-- <div style="float:right;width:98px;">
+          <a href="/pt2/cons/account/home">
+            <img border="0" src="/images/default/.gif" />
+          </a>
+        </div>-->
+        <div id="pt_style_info_div">
+          <div id="pt_style_ms_link_div" class="clearfix">
+            <ul class="pt_style_link_bar">
+              <li>
+                <a href="http://feeds2.feedburner.com/Partyideasforalloccasions" style="border:0px;padding:0px;" target="_blank">
+                <img border="0" src="/images/default/rss.jpg" align="absmiddle">
+                </a>
+                <a href="http://purpletrail.com/partytrail" title="Party Ideas Home" style="padding-left:1px;"> Party Ideas</a>
+              </li>
+              <li>
+                <a href="/pt2/cons/mkt/online_invitations_help" title="">Help/FAQ</a>
+              </li> 
+              <li>
+                <a href="/pt2/cons/mkt/help?page=feedback" title="">Contact us</a>
+              </li>
+              <li>
+              
+              </li>          
+            </ul>
+          </div>
+        </div>
+        
+        <div id="pt_style_logo_div">
+          
+          
+            <a href="#">
+              <img border="0" src="/pt2/cons/images/logo.gif">
+            </a>
+            
+        </div>
+    </div>
+    <div id="pt_site_content" class="clearfix">
+      <!--div for top level tabs -->
+      
   
     <div id="pts_tabs">
     <ul class="pts_tabs_ul">
-    <li style="*width:65px;">
+    <li class="" style="*width:65px;">
       <a href="/pt2/cons/mkt/home" title="Main"><span>Home</span></a>
     </li>
-    <li style="*width:90px;">
-      <a href="/pt2/cons/mkt/why" title=""><span>Features</span></a>
+    <li class="" style="*width:90px;">
+      <a href="/pt2/cons/mkt/tour/" title=""><span>Features</span></a>
     </li>
-    <li style="*width:80px;">
+    <li class="" style="*width:130px">
+        <a href="/pt2/cons/events/create_invite" title=""><span>Send invitations</span></a>
+    </li>
+    <!--<li class='' style="*width:80px;">
       <a href="/pt2/cons/mkt/mobile" title=""><span>Mobile</span></a>
-    </li>
-    <li style="*width:170px;">
+    </li>-->
+    <li class="" style="*width:170px;">
       <a href="/partytrail" title=""><span>Party Ideas &amp; Games</span></a>
     </li>
-    <li style="*width:135px;">
+    <li class="" style="*width:140px;">
       <a href="/pt2/cons/login/signin" title=""><span>Sign In / Sign Up</span></a>
     </li>
-    <li style="*width:115px;">
-      <a href="/pt2/cons/dstore" title="Party Store"><span>Party Store</span></a>
+    
+    <li class="" style="*width:115px;">
+      <a href="/pt2/cons/dstore" title="Event Store"><span>Event Store</span></a>
     </li>
-    <li style="*width:70px;">
+    
+    <li class="" style="*width:70px;">
       <a href="/pt2/cons/mkt/more" title=""><span>More»</span></a>
     </li>
    </ul>
+   </div>
     
-        </div>
-    </td>
-  </tr>
-</tbody></table>
-
-<div id="error_and_notice" class="error_and_notice" style="display:none" msg="">
+ 
+    </div>
+    
+    
+</div> 
 
   
-  <a href="javascript://" onclick="Element.hide('error_and_notice')" style="float:right;vertical-align:top">
-    <img alt="close" border="0" src="/images/default/cross.gif">
-  </a>
-  <!-- Clearing flash[:notice], if there exists a flash[:error]-->
-
-  <span>
-    <span id="error_and_notice_message">
-    
-    
-  </span>
-  <!-- one flash notice / flash error gets printed, clearing them out -->
-  </span>
-</div>
-
-
-    
-    
-  </div>   
-  		<!-- Content Begins -->	
-    <div id="content">
+  <div id="pt_site_bottom_container" class="clearfix">
+    <div id="pt_site_content" class="clearfix">  
+      		<!-- Content Begins -->	
+    <div id="content_container" class="clearfix">
         <div class="mkt_inside_section">
-  		<b class="xTop">
-  			<b class="xBo1"></b>
-  			<b class="xBo2"></b>
-  			<b class="xBo3"></b>
-  			<b class="xBo4"></b>
-  		</b>
-      <div class="xBox">
         <div id="help">
-          <div class="title">
-            <h2>Privacy Policy as of October 1st, 2007.</h2>
+          <div class="belt">
+            <div class="title">Privacy Policy as of October 1st, 2007.</div>
           </div>
           <div id="side-nav">
               <h3>Help/FAQs</h3>
@@ -333,7 +364,7 @@
   <li><a href="/pt2/cons/mkt/online_invitations_help#invitations">Your Invitations</a></li>
   <li><a href="/pt2/cons/mkt/online_invitations_help#adressbook">My Address Book</a></li>
   <li><a href="/pt2/cons/mkt/online_invitations_help#features">Using PurpleTrail Features</a></li>
-  <li><a href="/pt2/cons/mkt/online_invitations_help#mobile">Using PurpleTrail Mobile</a></li>
+  <li><a href="/pt2/cons/online_invitations_help#mobile">Using PurpleTrail Mobile</a></li>
   <li><a href="/pt2/cons/mkt/online_invitations_help#desktop">Using PurpleTrail Desktop</a></li>
   <li><a href="/pt2/cons/mkt/online_invitations_help#services">Using PurpleTrail Services</a></li>
   <li><a href="/pt2/cons/mkt/online_invitations_help#store">PurpleTrail Store</a></li>
@@ -342,31 +373,9 @@
   <li><a href="/pt2/cons/mkt/online_invitations_help#privacy">Privacy and Policies</a></li>
   </ul>
   <p style="margin-top:10px;border-bottom:1px solid #EDEDED;"></p>
-  <h3>Video FAQ</h3>
-  <ul>
-    
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#register_account">Registration</a></li>
-    
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#login_purpletrail">Login</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#create_invitation">Create an invitation?</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#import_contacts">Addressbook Import</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#create_group">Create a group</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#add_contact">Add a contact to a group</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#remove_contact">Remove contacts from a group</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#disable_modules">Enable and Disable Modules From Invitation</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#edit_invite_details">Edit event details</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#personal_information">Change Personal Information</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#design_own_invitation">Design my own invitation</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#edit_time">Edit the time or location</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#guestlist_private">Making guest list private</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#edit_rsvp">Edit guests' RSVPs</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#send_reminders">Send Out Reminders</a></li>
-    <li><a href="/pt2/cons/mkt/online_invitations_help_video#update_profile">Updating profile</a></li>
-  </ul>
-  <p style="margin-top:10px;border-bottom:1px solid #EDEDED;"></p>
   
     <div class="yellowHLBox bold">
-      <a href="/pt2/cons/mkt/why">Why should I use PurpleTrail?</a>
+      <a href="/pt2/cons/mkt/tour">Why should I use PurpleTrail?</a>
     </div>
     <p style="margin-top:10px;border-bottom:1px solid #EDEDED;"></p>  
   
@@ -429,18 +438,13 @@
             
           </div>            
 			  </div>
-      </div>
-  		<b class="xBottom">
-  			<b class="xBo4"></b>
-  			<b class="xBo3"></b>
-  			<b class="xBo2"></b>
-  			<b class="xBo1"></b>
-  		</b>
     </div>
     </div>
 		<!-- Content Ends -->
 
 
+    </div>
+  </div>
   <style>
   .bottom_bar{
     width:100%;
@@ -488,31 +492,127 @@
 </div>
 -->
 
-  <!-- Footer Start -->
+  
+
+<!-- Footer Start -->
 <div class="pts_footer">
-  <a href="/?tgt=main" id="home">Main</a>
-  | <a href="/pt2/cons/mkt/help?page=feedback">Feedback</a>
-  | <a href="/pt2/cons/mkt/help?page=report">Report a Problem</a>
-  
-    | <a href="/pt2/cons/mkt/why" title="">Why PurpleTrail?</a>
-    | <a href="/pt2/cons/mkt/tour" title="">Take a Tour</a>
-    | <a href="/pt2/cons/mkt/help?page=partnership">Partner with us</a>
-    | <a href="/pt2/cons/mkt/help?page=press">Blog Inquiry</a>
-    | <a href="/pt2/cons/mkt/help?page=advertise">Advertisers</a>
-    | <a href="/pt2/cons/mkt/help?page=publishers">Publishers</a>
-    | <a href="/pt2/cons/mkt/sitemap">Sitemap</a>
-    | <a href="http://purpletrail.com/partytrail/purpletrail_team_blog">Team Blog</a>
-    | <a href="/pt2/cons/mkt/aboutus">About</a>
-  
-  | <a href="/pt2/cons/mkt/privacypolicy">Privacy Statement</a>
-  | <a href="/pt2/cons/mkt/tou">Terms of Use</a>
-  <br>
-  Copyright  © 2008 &nbsp;<a href="http://purpletrail.com">PurpleTrail</a>. All Rights Reserved.
-  <br>
+  <div id="pt_site_content" class="clearfix" style="width: 88.9em;">
+   <!-- <div style="margin:10px 0px;">
+     <table width="100%">
+       <tr>
+         <td class="center" width="25%"><a href="/pt2/cons/events/create_invite"><img border="0" src="/images/default/footer1.gif" /></a></td>
+         <td width="25%"><a href="/pt2/cons/ecards/show_create_ecard"><img border="0" src="/images/default/footer2.gif" /></a></td>
+         <td width="25%"><a href="/pt2/cons/announcements/show_create_announcement"><img border="0" src="/images/default/footer3.gif" /></a></td>
+         <td width="25%"><a href="http://eventuity.com/pt2/eventuity/selfserve"><img border="0" src="/images/default/footer4.gif" /></a></td>
+       </tr>
+     </table>
+   </div> -->
+   <div>
+     <ul id="footerStuff">
+       <li>
+         <div id="footerMessage">
+           <h3>What's New</h3>
+           <div class="bbcode">It's here. Welcome to the new PurpleTrail.com. <a href="http://purpletrail.com/partytrail/purpletrail_team_blog" target="_blank">Read more about it on the team blog</a></div>
+         </div>
+       </li>
+       <li>
+         <div id="footerMessage">
+          <strong>Do you blog? Talk to us!</strong><br><a href="/pt2/cons/mkt/help?page=press" target="_blank">Bloggers click here</a>
+        </div>
+      </li>
+    </ul>
+     <!-- div for moz border-->
+   </div>
+   <div id="footer_content">
+    <ul id="footerLinks">
+      <li class="first">
+        <dl>
+          <dt>Contact us</dt>
+          <dd><a href="/pt2/cons/mkt/help?page=feedback">Feedback</a></dd>
+          <dd><a href="/pt2/cons/mkt/help?page=report">Report a Problem</a></dd>
+          <dd><a href="/pt2/cons/mkt/help?page=partnership">Partner with us</a></dd>
+          <dd><a href="/pt2/cons/mkt/help?page=press">Blog Inquiry</a></dd>
+          <dd><a href="/pt2/cons/mkt/help?page=publishers">Publishers</a></dd>
+          <dd><a href="/pt2/cons/mkt/help?page=advertise">Advertisers</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/submit-a-party-idea/">Submit an article</a></dd>
+        </dl>
+      </li>
+      <li>
+        <dl>
+          <dt>Explore</dt>
+          <dd><a href="http://purpletrail.com/partytrail/">Party Ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/printable_party_games/">Printable games for all occasions</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_planning/etiquette/invitation-wording-inspiration-for-your-invitation/">Invitation wording ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/special_occasions/birthday/">Birthday party ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/special_occasions/wedding/bridal_shower/">Bridal shower party ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/special_occasions/baby_shower/">Baby shower party ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/special_occasions/">Party ideas for celebrations</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/general-parties/">Everyday party ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_ideas/holiday_parties/">Holiday party ideas</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_planning/">Party basics - decorations</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_planning/food/">Party basics - food</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_planning/party_games/">Party basics - games</a></dd>
+          <dd><a href="http://purpletrail.com/partytrail/party_planning/party_games/">Others</a></dd>
+        </dl>
+      </li>
+      <li>
+        <dl>
+          <dt>Invitations</dt>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=7">Wedding invitations</a></dd>                 
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=6">Baby shower invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=2">Birthday Invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=7">Bridal shower invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=14">Party Invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=11">Graduation invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite">Online invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=19">Baptism invitations</a></dd>
+          <dd><a href="http://purpletrail.com/pt2/cons/events/create_invite?cat_id=6">Baby invitations</a></dd>
+        </dl>
+      </li>
+      <li>
+        <dl>
+          <dt>Follow us and subscribe</dt>
+          <dd>
+            <div style="margin:25px 0px;">
+              <a href="http://www.facebook.com/pages/PurpleTrail-Online-Invitations/43631581014" target="_blank"><img src="/images/default/facebook.png" border="0" class="png"></a>
+            </div>
+          </dd>                 
+          <dd>
+            <div style="margin:25px 0px;">
+              <a href="http://twitter.com/purple_trail" target="_blank"><img src="/images/default/twitter.png" border="0" class="png"></a>
+            </div>
+          </dd>
+          <dd>
+            <div style="margin:25px 0px;">
+              <a href="http://feeds2.feedburner.com/Partyideasforalloccasions" target="_blank"><img src="/images/default/feed.png" border="0" class="png"></a>
+            </div>
+          </dd>
+          <dd>
+            <div style="margin:25px 0px;">
+              <a href="http://feedburner.google.com/fb/a/mailverify?uri=Partyideasforalloccasions&amp;loc=en_US" target="_blank"><img src="/images/default/email_blog.png" border="0" class="png"></a>
+            </div>
+          </dd>
+        </dl>
+      </li>
+    </ul>
+    <div id="justCantGetEnough" class="clear"></div>
+    <div id="legalities">
+      <div id="cbsi_f" style="text-align: left;">
+        Sister Sites: <a href="http://eventuity.com/" target="_blank">Eventuity.com</a> | <a href="http://mangospring.com/ce" target="_blank">MangoSpring.com</a> | <a href="http://taskbin.com" target="_blank">Taskbin.com</a> | <a href="http://addressbee.com" target="_blank">Addressbee.com</a> 
+      </div>               
+      <div id="copy" style="text-align: left;">
+        
+        Copyright  © 2008 &nbsp;<a href="http://purpletrail.com">PurpleTrail</a>. All Rights Reserved. | <a href="/pt2/cons/mkt/tou">Terms of Use</a> | <a href="/pt2/cons/mkt/privacypolicy">Privacy policy</a> | Updated March 19, 2009                 
+      </div>
+     </div><!-- #legalities -->
+   </div>
+   
+  </div>
+  <div class="clear"></div>
 </div>
 
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+  
   <script type="text/javascript">
     _uacct = "UA-696249-6";
     urchinTracker();
@@ -520,7 +620,33 @@
    
 <!--<div id="create_cal_container" class="create_cal_container"></div>-->
 
+<!-- facebook code starts here -->
+
+<!-- facebook code starts -->
+<script type="text/javascript"> 
+
+    function fbnotConnected() {
+        //alert("Use is not FB Connected");
+    }
+
+    FB_RequireFeatures(["XFBML"], function(){ 
+    
+      FB.init("201d929b301a203efa16c6b738a56d4f", "/fbconnect/xd_receiver.htm", {"ifUserNotConnected": fbnotConnected });
+    
+    });
+
+    
+    
+    
+    
+    
+  
+</script>
+
+
+<!-- facebook code ends here -->
 
 
 <!-- Footer End -->
+
 </body></html>
