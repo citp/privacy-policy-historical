@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154805id_/http%3A//www.powerdatarecovery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421130700id_/http%3A//www.powerdatarecovery.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MT Solution Data Recovery | Photo Recovery | CD DVD Recovery
 
