@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220203832id_/http%3A//www.anthonysfla.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422004404id_/http%3A//anthonysfla.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Anthony's Ladies Apparel > Home
 
