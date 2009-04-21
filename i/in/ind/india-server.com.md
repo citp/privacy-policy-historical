@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124824id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421025821id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy:: Indiaserver.com
 
@@ -11,3 +11,9 @@ Indiaserver.com may contain links to other websites. Such websites have their ow
 When you register with indiaserver.com, we may contact you from time to time for updating you about such features that, we believe, may benefit you. All information collected on indiaserver.com is securely stored within the indiaserver.com database, which is secured and password-protected. We take every care regarding the security of our database but as no security system is impenetrable, we cannot guarantee the security of our database, nor can we assure that information you supply will not be intercepted while being transmitted to us over the Internet.
 
 It is to be taken into consideration that the internet is an ever evolving media and we may change our privacy policy from time to time to incorporate necessary future changes. Our use of any information we collect will always be consistent with the same policy under which the information was gathered, regardless of the content of the new policy.
+
+  * Google, as a third party vendor, uses cookies to serve ads on the site.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to the site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+
