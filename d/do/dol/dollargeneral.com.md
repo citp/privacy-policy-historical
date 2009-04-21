@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220125403id_/http%3A//www.dollargeneral.com./CustomerCare/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421074913id_/http%3A//www.dollargeneral.com/CustomerCare/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Dollar General | Save Time. Save Money. Every day!
 
-We respect your privacy and value the trust you place in us. We want to ensure that you understand the type of information that we gather about you when you visit [www.dollargeneral.com](https://web.archive.org/default.aspx) and how we use it. This Privacy Policy explains how we use, collect and protect this information and the choices you have regarding our use of that information.
+We respect your privacy and value the trust you place in us. We want to ensure that you understand the type of information that we gather about you when you visit [www.dollargeneral.com](http://www.dollargeneral.com/) and how we use it. This Privacy Policy explains how we use, collect and protect this information and the choices you have regarding our use of that information.
 
 By using our Website (as defined below), you agree to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not use our Website.
 
