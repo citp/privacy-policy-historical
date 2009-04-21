@@ -1,109 +1,70 @@
-> *The following text is extracted and transformed from the lenmar.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613215155id_/http%3A//www.lenmar.com/Web/Entity.aspx%3FEntityID%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenmar.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421190415id_/http%3A//www.lenmar.com/Web/Main.aspx%3FMenuID%3D19) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-## About Us
+** ** | 
 
-This is a privacy policy for Lenmar Enterprises. Our homepage on the Web is located at [http://www.lenmar.com](http://www.lenmar.com/). The full text of our privacy policy is available on the Web at <http://www.lenmar.com/w3c/privacypolicy.htm> Users may go to for information on how to opt-in or opt-out of use of their information.
+Lenmar Enterprises, Inc., a California Corporation, operates the Lenmar sites (including, without limitation, www.lenmar.com, www.lenmardirect.com, www.poweredbylenmar.com, www.batterycentral.com, and certain co-branded versions of its site under contract other third parties (collectively, the "Site"). You may only use the Site pursuant to the following terms and conditions, which you accept by your use of the Site. Lenmar, reserves the right to modify or revise these Terms of Use and/or Privacy Statement or its other policies at any time at its sole discretion. Any such modifications to the Terms of Use and Privacy Statement shall be effective within forty-eight (48) hours of being posted on the Site unless otherwise stated. Your continued use of the Site following Lenmar’s posting of any changes or modifications to these Terms of Use and/or Privacy Statement will constitute your acceptance of such changes or modifications. In the event that you do not agree to any of these Terms of Use and/or Privacy Statement, you should not continue to use the Site.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
-    
-    
-    Lenmar Enterprises  
-    4035 Via Pescador  
-    Camarillo, CA 93012   
-    U.S.A.
+_**LICENSE AND SITE ACCESS**_
 
-You may contact us by e-mail at [info@lenmar.com](mailto:info@lenmar.com). You may call us at 800-424-2703. 
+Lenmar grants you a non-exclusive right and license to access and use the Site for personal, and noncommercial purposes. This license does not include and strictly prohibits: any resale of the Site or its contents; any collection and use of any product listings, descriptions, or prices other than as expressly authorized herein; any derivative use of the Site or its contents; or any use of data mining, robots, or similar data gathering and extraction tools. The Site, including its operation, interface and contents, are covered by United States copyright laws and international laws and treaties, and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any unauthorized commercial purpose without the express prior written consent of Lenmar. Any unauthorized use shall immediately terminate the licenses and rights granted by Lenmar and any Licensors hereunder, and may subject you to civil and/or criminal prosecution. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to any page of the Site so long as the link does not portray Lenmar, its subsidiaries, affiliates, Licensors, co-brand partners and other partners or its or their respective services in a false, misleading, derogatory or otherwise offensive or damaging manner. You may not use any Lenmar, Licensor, subsidiary, affiliate, co-brand partner, or other partner logo or other proprietary graphic or trademark as part of a link to the Site without first obtaining the express written consent of Lenmar, the subsidiary, affiliate, co-brand partner or other partner or Licensor (as applicable).
 
-## Dispute Resolution and Privacy Seals
+_**GENERAL**_
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
+**Our Commitment To Privacy**
 
-  * **New Dispute** : Application for certification submitted with an independent provider.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
+_**The Information We Collect:**_
 
+This notice applies to all information collected or submitted on the Lenmar websites. We do not require that you provide, nor do we collect, any personal information if you are just browsing the Site. On some pages, you can make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-## Additional Information
-
-This policy is valid for 1 day from the time that it is loaded by a client.
-
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group.
-
-* * *
-
-### Group "policy1"
-
-We collect the following information:
-
-  * User agent information
-  * HTTP cookies
-  * Search terms
-  * Navigation and click-stream data
-  * Interactive data
-  * User's interaction with a page or resource
-  * URI stem
-  * HTTP request method
+  * Name
+  * Address
+  * Email address
+  * Phone number
 
 
 
-This data will be used for the following purposes:
+_**Dealers:**_
 
-  * Completion and support of the current activity.
+In addition to general information to process a transaction, credit/debit card information is collected securely. This information is retained for the period of time needed to complete the transaction and then purged from our system.
 
-
-
-This data will be used by ourselves and our agents. 
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * Completing the user's current activity
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit Card Information
 
 
 
-* * *
+_**The Way We Use Information:**_
 
-## Compact Policy Summary
+We use the information you provide about yourself when registering your product only to identify and process future requests. We do not share this information with outside parties.
 
-The compact policy which corresponds to this policy is:
-    
-    
-    CP="NOI DSP COR CURa OUR IND COM NAV INT"
+We use the information you provide in online request forms (information requests, feedback, warranty, and technical help) only in a manner necessary to provide the information requested. We do not share this information with outside parties.
 
-The following table explains the meaning of each field in the compact policy.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-**Field** | **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` | No identifiable information is collected, so no access is possible.  
-`DSP` | The policy contains at least one dispute-resolution mechanism.  
-`COR` | Violations of this policy will be corrected.  
-`CURa` | The data is used for completion of the current activity.  
-`OUR` | The data is given to ourselves and our agents.  
-`IND` | The data will be kept indefinitely.  
-`COM` | Computer information is collected.  
-`NAV` | Navigation and clickstream data is collected.  
-`INT` | Interactive data is collected.  
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
-* * *
+We use non-identifying and aggregate information to better design our website and to share with partners. For example, we may tell a partner that X number of individuals visited a certain area on our website, or that Y number of individuals searched for specific items, but we would not disclose anything that could be used to identify those individuals.
 
-## Policy Evaluation
+The Site contains links to web sites of third parties. Lenmar is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information. Lenmar adheres to industry recognized standards to secure any personal information in our possession, and to secure it from unauthorized access and tampering.
 
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
+Our web servers collect from Site visitors’ statistical information regarding what pages are visited, the date and time of the visits, how long it took a user to download a page, and the TCP/IP address of the user. These automated server functions do not collect this information in a manner intended to identify your individual use of the Site, nor do we use this information for any such purpose. This information is collected to assist us in maintaining a high quality site, as well as, providing necessary traffic information to our partners.
 
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above.
 
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
+_**Our Commitment To Data Security**_
 
-  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
+_**Our Commitment To Children's Privacy:**_
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+_**How To Contact Us**_
+
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-424-2703 or send us an email at info@lenmar.com.
