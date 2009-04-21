@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050439id_/http%3A//www.iconeden.com/contact/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421040810id_/http%3A//www.iconeden.com/contact/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Icon Eden - Providing affordable stock vector icons for websites, applications, software
 
@@ -47,4 +47,4 @@ This policy was last modified on September 30, 2008.
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy, please contact us via [info@iconeden.com](mailto:info@iconeden.com)
+If there are any questions regarding this privacy policy, please contact us via info [-at-] iconeden [-dot-] com
