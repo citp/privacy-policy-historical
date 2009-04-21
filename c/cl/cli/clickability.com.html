@@ -1,529 +1,1065 @@
-<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2007-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071226160354id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2009-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090421075341id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>   
-<meta name="verify-v1" content="jHJ/JP649qm6/n4aKxQFZJIuR5kAxTZBKFaBtkBWXEo=">
-<link rel="SHORTCUT ICON" href="http://media.clickability.com/images/dot.ico">
-
-<script>function checkSearch() {
-    if (!isValidSearch(document.SearchBox.keywords.value)) {
-		displayError("Please enter a valid search term.", document.SearchBox.keywords);
-		return false;
-	}
-}
-
-
-
-function checkEmail () {
-    if (!isValidEmail(document.SignUp.address.value)) {
-		displayError("Please enter a valid email address.", document.SignUp.address);
-		return false;
-	}else{
-	makePopup('','signupPop','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=250,height=150');
-if (!makePopup.opener)
-    makePopup.opener = self;
-}
-}
-
-function displayError(aMessage, aObject) {
-	aObject.focus();
-	alert(aMessage);
-}
-
-
-
-
-function isEmpty(s) { return ((s == null) || (s.length == 0)) }
-
-function isWhitespace (s) {   
-var i;
-var whitespace = " \t\n\r";
-    if (isEmpty(s)) return true;
-    for (i = 0; i < s.length; i++)
-    {   
-        // Check that current character isn't whitespace.
-        var c = s.charAt(i);
-
-        if (whitespace.indexOf(c) == -1) return false;
-    }
-    return true;
-}
-
-function isValidEmail(s)
-{   
-if (isEmpty(s)) return false;
-if (isWhitespace(s)) return false;
-var i = 1;
-var sLength = s.length;
-while ((i < sLength) && (s.charAt(i) != "@")) { i++ }
-  if ((i >= sLength) || (s.charAt(i) != "@")) return false;
-    else i += 2;
-    while ((i < sLength) && (s.charAt(i) != "."))
-    { i++
-    }
-    if ((i >= sLength - 1) || (s.charAt(i) != ".")) return false;
-    else return true;
-}
-
-function isValidSearch(s)
-{   
-if (isEmpty(s)) return false;
-if (s=='search') return false;
-return true;
-}
-
-function makePopup (url, name, widgets ) 
-{
-popupWin = window.open(url, name, widgets);
-var agt=navigator.userAgent.toLowerCase();
-var is_major = parseInt(navigator.appVersion);
-var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
-var is_ie3    = (is_ie && (is_major < 4));
-var is_ie4    = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
-var is_aol   = (agt.indexOf("aol") != -1);
-var is_aol3  = (is_aol && is_ie3);
-var is_aol4  = (is_aol && is_ie4);
-var is_aol5  = (agt.indexOf("aol 5") != -1);
-var is_aol6  = (agt.indexOf("aol 6") != -1);
-var is_comp   = (agt.indexOf("compuserve") != -1);
-var is_compie = (is_comp && is_ie);
-if(!is_aol6 && !is_aol3 && !is_aol4 && !is_aol5 && !is_compie) { popupWin.opener.top.name = "opener"; }
-popupWin.focus();
-}
-</script>
-	<script>var clickTitle="Clickability -- Privacy Policy"; </script>
-
-<script language="JavaScript"><!-- 
-image1 = new Image();
-image1.src = "http://media.clickability.com/designimages/sub_nav_arrow.gif";
-// --></script>
-
-<link rel="stylesheet" href="http://www.clickability.com/includes/styles5.css " type="text/css">
-
-<!-- Copyright 2001-2007, Clickability, Inc. All rights reserved.-->
-<script language="javascript1.2">var partnerID=41892</script>
-<script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
-
-<title>Clickability -- web content management software-as-a-service</title>
-</head>
-<body>
-
-
-<center>
-<table cellpadding="0" cellspacing="0" border="0" width="673">
-<tbody><tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
-<tr>
-<td><a href="/"><img src="http://media.clickability.com/designimages/clickability-logo.gif" width="186" height="47" alt=" " title=" " border="0"></a></td>
-<td align="right"><br><a href="https://cms.clickability.com">Client Login</a> | <a href="/contact">Contact Us</a></td>
-</tr>
-<form name="subscribeForm" method="post" action="/s" onsubmit="if(!checkForm()){return false;}"></form>
-<input type="hidden" name="action" value="listSubscribe">
-<input type="hidden" value="927" name="subscribe">
-<input type="hidden" name="rurl" value="/press/newsletters/?confirmsignup=true">	
-<script language="Javascript" type="text/javascript">
-function checkForm(){
-	if(document.subscribeForm["email"].value == ""){
-	alert('Please enter your valid E-Mail Address');
-	return false;
-	}		
-	return true;
-}
-</script> 
-<tr valign="bottom">
-<td>
-&nbsp;<br>Simplify Your Life.
-</td><td align="right">
-<b>Sign up for our CEO blog<br>"Everybody's a Publisher":</b><br>
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td valign="center" nowrap=""><input name="email" style="border-width:1px" type="text" size="15" class="searchtext" value="email address" maxlength="100" onfocus="if(this.value=='email address') {this.value='';}" onblur="if(this.value=='') {this.value='email address';}"></td><td style="padding-top:2px;padding-left:6px;" nowrap=""><input type="image" src="http://media.clickability.com/designimages/btn_newsletter_signup2.gif"></td><td style="padding-top:3px;padding-left:2px;" nowrap="">&nbsp;or&nbsp;</td><td style="padding-top:4px;padding-left:2px;" nowrap=""><a href="/blogs/rss" border="0"><img src="http://media.clickability.com/designimages/RSS_XML_Button_dark.gif" width="68" height="14" alt="" title="" border="0"></a></td></tr>
-	</tbody></table></td>
-</tr>
-
-<tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
-</tbody></table>
-
-<style type="text/css">
-	.navTable {width:673px;height:23px;background-color:#676773;border-top:solid 3px #000000;text-align:left;align:left;}
-	.subNav {width:130px;padding-left:4px;font-size:11px;text-align:left;align:left;line-height:23px;color:#ffffff;}	
-</style>
-
-<!-- set rollover images -->
-
-
-<!-- leave this for copyright: courtesy SimplytheBest.net DHTML scripts at http://simplythebest.net/scripts -->
-<script language="JavaScript1.2">
-
-
-/*-------------------- start dqm vars!------------------------------*/
-
-
-
-   DQM_sub_menu_width = 83
-   DQM_urltarget = "_self"
-   DQM_onload_statement = ""
-   DQM_codebase = "/includes/"
-   DQM_border_color = "#7F7F87"
-   DQM_menu_bgcolor = "#7F7F87"
-   DQM_hl_bgcolor = "#676773"
-   DQM_sub_xy = "0,0"
-   DQM_border_width = 0
-   DQM_divider_height = 0
-   DQM_ie5mac_offset_X = 0
-   DQM_ie5mac_offset_Y = 0
-   DQM_textcolor = "#FFFFFF"
-   DQM_fontfamily = "verdana"
-   DQM_fontsize = 10
-   DQM_textdecoration = "normal"
-   DQM_fontweight = "normal"
-   DQM_fontstyle = "normal"
-   DQM_hl_textcolor = "#FFFFFF"
-   DQM_hl_textdecoration = "normal"
-   DQM_margin_top = 0
-   DQM_margin_bottom = 0
-   DQM_margin_left = 0
-
-/* -- set rollover images */
-   DQM_rollover_image0 = "http://media.clickability.com/designimages/nav_products_off.gif"
-   DQM_rollover_wh0 = "83,29"
-   DQM_rollover_image1 = "http://media.clickability.com/designimages/nav_customers_off.gif" 
-   DQM_rollover_wh1 = "87,29"
-   DQM_rollover_image2 = "http://media.clickability.com/designimages/nav_news_off.gif" 
-   DQM_rollover_wh2 = "61,29"   
-   DQM_rollover_image3 = "http://media.clickability.com/designimages/nav_company_off.gif" 
-   DQM_rollover_wh3 = "85,29"
-   DQM_rollover_image4 = "http://media.clickability.com/designimages/nav_contactus_off.gif" 
-   DQM_rollover_wh4 = "111,29"
-
-  /*-- causes break on some nonIE browers & macIE  --*/
-if (navigator.appVersion.indexOf("Mac") != -1) {
-}else{
-	if (navigator.appVersion.indexOf("MSIE") != -1) {
-	  DQM_icon_image0 = "http://media.clickability.com/designimages/spacer.gif"
-	  DQM_icon_rollover0 = "http://media.clickability.com/designimages/topnavarrowover.gif"
-	  DQM_icon_image_wh0 = "122,23"
-	}
-}
-
-/*-------------------- end dqm vars!------------------------------*/
-
-
-/*-- all these problems because of different browsers & oss!!! --*/
-var agt=navigator.userAgent.toLowerCase();
-if (navigator.appVersion.indexOf("MSIE") != -1) {
-	var subnavStart = "<span class='subNav'>";
-	var subnavEnd = "</span>";
-	var subnavLastStart = "<span class='subNav' style='border-bottom:solid 3px #000000;'>";
-}else{	
-	var subnavStart = "<table width=100% cellpadding=0 cellspacing=0 border=0><tr><td><span class='subNav'><span style='float:left;padding-left:4px;'>";
-	var subnavEnd = "</span></span></td></tr></table>";	
-	var subnavLastStart = "<table width=100% cellpadding=0 cellspacing=0 border=0><tr><td style='border-bottom:solid 3px #000000;'><span class='subNav'><span style='float:left;padding-left:4px;'>";
-}
-
-
-
-/*-------------------- start sub-items!------------------------------*/
-
-	DQM_url0 = "/products"
-	DQM_sub_xy0 = "-83,29"
-	DQM_sub_menu_width0 = 120;
-	DQM_subdesc0_0 = subnavStart+"Overview"+subnavEnd
-	DQM_subdesc0_1 = subnavStart+"cmPublish"+subnavEnd
-	DQM_subdesc0_2 = subnavStart+"imWare"+subnavEnd
-	DQM_icon_index0_0 = 0
-	DQM_icon_index0_1 = 0	
-	DQM_icon_index0_2 = 0
-	DQM_icon_index0_3 = 0
-	DQM_url0_0 = "/products"	
-	DQM_url0_1 = "/products/cmpublish"
-	DQM_url0_2 = "/products/imware"
-	
-	DQM_url1 = "/customers"
-	DQM_sub_xy1 = "-87,29"
-	DQM_sub_menu_width1 = 120;
-	DQM_subdesc1_0 = subnavStart+"Overview"+subnavEnd
-	DQM_subdesc1_1 = subnavStart+"Case&#160;Studies"+subnavEnd
-	DQM_subdesc1_2 = subnavLastStart+"Testimonials"+subnavEnd
-	DQM_icon_index1_0 = 0
-	DQM_icon_index1_1 = 0
-	DQM_icon_index1_2 = 0
-	DQM_url1_0 = "/customers"
-	DQM_url1_1 = "/customers/casestudies"
-	DQM_url1_2 = "/customers/testimonials"
-
-	DQM_url2 = "/press"
-	DQM_sub_xy2 = "-61,29"	
-	DQM_sub_menu_width2 = 120;
-	DQM_subdesc2_0 = subnavStart+"Overview"+subnavEnd
-	DQM_subdesc2_1 = subnavStart+"In&#160;the&#160;News"+subnavEnd
-	DQM_subdesc2_2 = subnavStart+"Press&#160;Releases"+subnavEnd
-	DQM_subdesc2_3 = subnavStart+"Updates &amp; Ideas"+subnavEnd
-	DQM_subdesc2_4 = subnavLastStart+"Events"+subnavEnd
-	DQM_icon_index2_0 = 0
-	DQM_icon_index2_1 = 0
-	DQM_icon_index2_2 = 0
-	DQM_icon_index2_3 = 0
-	DQM_icon_index2_4 = 0
-	DQM_url2_0 = "/press"
-	DQM_url2_1 = "/press/news"
-	DQM_url2_2 = "/press/pressreleases"
-	DQM_url2_3 = "/press/newsletters"
-	DQM_url2_4= "/press/events"
-	
-	DQM_url3 = "/about"
-	DQM_sub_xy3 = "-85,29"
-	DQM_sub_menu_width3 = 120;
-	DQM_subdesc3_0 = subnavStart+"About"+subnavEnd
-	DQM_subdesc3_1 = subnavStart+"Management"+subnavEnd
-	DQM_subdesc3_2 = subnavStart+"Board"+subnavEnd
-	DQM_subdesc3_3 = subnavStart+"Advisors"+subnavEnd
-	DQM_subdesc3_4 = subnavLastStart+"Jobs"+subnavEnd
-	DQM_icon_index3_0 = 0
-	DQM_icon_index3_1 = 0
-	DQM_icon_index3_2 = 0
-	DQM_icon_index3_3 = 0
-	DQM_icon_index3_4 = 0
-	DQM_url3_0 = "/about"
-	DQM_url3_1 = "/about/management"
-	DQM_url3_2 = "/about/board"
-	DQM_url3_3 = "/about/advisors"
-	DQM_url3_4 = "/about/jobs"
-	
-	DQM_url4 = "/contact"	
-	DQM_sub_xy4 = "-111,29"
-	DQM_sub_menu_width4 = 120;
-	DQM_subdesc4_0 = subnavStart+"Overview"+subnavEnd
-	DQM_subdesc4_1 = subnavStart+"Client&#160;Services"+subnavEnd
-	DQM_subdesc4_2 = subnavStart+"Partners"+subnavEnd
-	DQM_subdesc4_3 = subnavStart+"Sales&#160;Inquiry"+subnavEnd
-	DQM_subdesc4_4 = subnavLastStart+"Collateral&#160;Form"+subnavEnd
-	DQM_icon_index4_0 = 0
-	DQM_icon_index4_1 = 0
-	DQM_icon_index4_2 = 0
-	DQM_icon_index4_3 = 0
-	DQM_icon_index4_4 = 0
-	DQM_url4_0 = "/contact"
-	DQM_url4_1 = "http://help.clickability.com/"
-	DQM_url4_2 = "http://www.clickability.com/partners"
-	DQM_url4_3 = "/contact/491.html"
-	DQM_url4_4 = "/contact/1856477.html"
-
-
-/*-------------------- end sub-items!------------------------------*/
-
-
-
-</script>
-
-
-<script language="JavaScript1.2" src="/includes/dqm_script.js"></script><script language="JavaScript1.2" src="/includes/dqm_ns6.js"></script>
-
-		<table class="navTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="53"><a href="/"><img src="http://media.clickability.com/designimages/nav_home_off.gif" border="0" width="53" height="29"></a></td><td width="83"><a href="/products"><img src="http://media.clickability.com/designimages/nav_products_off.gif" width="83" height="29" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></a></td><td width="87"><a href="/customers"><img src="http://media.clickability.com/designimages/nav_customers_off.gif" width="87" height="29" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></a></td><td width="61"><a href="/press"><img src="http://media.clickability.com/designimages/nav_news_off.gif" width="61" height="29" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></a></td><td width="85"><a href="/about"><img src="http://media.clickability.com/designimages/nav_company_off.gif" width="85" height="29" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></a></td><td width="111"><a href="/contact"><img src="http://media.clickability.com/designimages/nav_contactus_off.gif" width="111" height="29" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></a></td><td class="menuItem" valign="middle"><a href="/blogs">Blogs</a></td>
-<form action="/search" name="SearchBox" id="SearchBox" style="padding:0px" onsubmit="return checkSearch();"></form>
-<td style="border-bottom:solid 3px #000000;" nowrap="" align="right"><input type="Text" name="keywords" id="keywords" size="12" class="searchtext" maxlength="25" value="Search" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';">&nbsp;<input type="image" src="http://media.clickability.com/designimages/searchbutton.gif" align="middle"></td>
-</tr>
-</tbody></table>
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="673">
-<tbody><tr><td colspan="3"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr>
-
-
-<td bgcolor="#6A6B70" width="223">
-<!-- left content -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
-         <table cellpadding="0" cellspacing="0" border="0" width="223" bgcolor="#6A6B70">
-            <tbody><tr>
-               <td>               
-
-                   
-                  <img src="http://media.clickability.com/designimages/img_right_bar_top2.gif" width="223" height="10" alt=" " title=" " border="0"><br>
-                  <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                     <tbody><tr>
-                        <td><img src="http://media.clickability.com/designimages/spacer.gif" width="5" height="1" alt=""></td>
-                        <td bgcolor="#EEECDF">             
-                           
-                         
-            
-               	<div class="LayoutStory">
-					<div class="TextQuoteTitle">On deploying scalable interfaces for CMS's:</div>
-				"Ask yourself: What happens to my job and the job of the editors and authors when the amount of content in the system increases two-fold? How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cmswatch.com/Features/TopicWatch/FeaturedTopic/?feature_id=92" target="_blank">Interface Scalability</a><br><br>Jeff Freund<br><i>Clickability CTO</i><br><i>Featured in CMSWatch</i>
-		<br><br>
-							</div>
-
-       
+    <title>Clickability | www.clickability.com | Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<link rel="shortcut icon" href="http://media.cmssuccess.com/designimages/favicon.ico">
      
+        
+              <script type="text/javascript" src="/g/js/prototype.js"></script>
+<script type="text/javascript">
+function editContent(oElement, field_title, content_id) {
 
-                        </td>
-                        <td><img src="http://media.clickability.com/designimages/spacer.gif" width="7" height="1" alt=""></td>
-                     </tr>
-                  </tbody></table>    
-                  <img src="http://media.clickability.com/designimages/clickability_extended2.gif" width="223" height="10" alt=" " title=" " border="0"><br>                   
-
-   
-
-
-<style type="text/css">
-	.cell_over, .cell_on, .cell_off {background-color:#A50C07;width:211px;height:37px;border-left:solid 6px #6A6B70;border-right:solid 6px #6A6B70;border-bottom:solid 1px #ffffff;line-height:15px;vertical-align:middle;padding-left:8px;font-weight:normal;font-size:11px}
-	.cell_over a, .cell_on a, .cell_off a, .cell_over a:hover, .cell_on a:hover, .cell_off a:hover {font-weight:normal;font-size:11px}
-	.cell_off {background-color:#CD110B;font-weight:normal}
-	.menubg {background-color:#CD110B;font-weight:normal}
-</style>
-
-
-
-  <a href="/contact/491.html"><img src="http://media.clickability.com/designimages/left_bar_contact_us.gif" width="223" height="84" alt=" " title=" " border="0"></a><br>
-  <a href="/contact/1856477.html"><img src="http://media.clickability.com/designimages/left_nav_get_info.gif" width="223" height="57" alt=" " title=" " border="0"></a><br>
-  <a href="/contact/4821161.html"><img src="http://media.clickability.com/designimages/left_nav_watchVideo.gif" width="223" height="57" alt="Executive Overview Request" title="Executive Overview Request" border="0"></a><br>
-
-
-               </td>
-            </tr>
-         </tbody></table>  
-         
-  
-  
-  
-  
- 
-   
-</td>
-
-
-<td><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td>
-<td style="border-right: #C0C0C0 solid 1px;">
+	var className = oElement.className; 
+	var left;
+	var top;
 	
+	$('form_container').hide();
 
-						
-<div id="breadcrumbs">
+	oElement.onclick = function() {
+	
+		var text = oElement.innerHTML;
+		$('text_edit').value = text;		
+		$('close_text').innerHTML =  '<input type="button" title="Click to Cancel" onclick="cancelEdit();" value="Cancel"/><input type="button" title="Click to close" class="close" onclick=previewContent("' + oElement.id + '"); return false;" value="Preview"/>';
+		$('cmsedit_field_text').innerHTML = field_title;
+		$('cmsedit_content_id').innerHTML = content_id;
+		if (left < 180) {
+		 left = (left - (left/2));
+		} else {
+		 left = (left - 154);
+		}
+			
+		$('form_container').setStyle({
+		left: left + 'px',
+		top: (top - 20) + 'px'
+		});
+	$('form_container').show();
 
-<a href="/">Clickability</a> &gt; 
+	return false;
+	
+	}
+ 	
+}
 
-														<a href="http://www.clickability.com/misc">Misc. Pages</a>
+
+function previewContent(node_id) {
+	var modified_text = $('text_edit').value;
+	var original_text = $(node_id).innerHTML;
+	if(modified_text != original_text) {
+	
+		$(node_id).innerHTML = modified_text;
+		$(node_id).addClassName('modified');
 		
+		var mod_div = 'modified_' + node_id;
+		
+		$(mod_div).addClassName('display_action_buttons');
+		$(node_id).addClassName('modified_save');
+		
+	}
+	$('text_edit').value = "";
+	$('form_container').hide();
+	$('close_text').innerHTML = "";
+	
+}
+
+function cancelEdit() {
+	$('text_edit').value = "";
+	$('form_container').hide();
+	$('close_text').innerHTML = "";
+}
+
+</script>
+<style type="text/css">
+	html > body div.cmsedit {
+	border: 2px solid #999999;
+	float: none;
+	padding: 2px;
+	margin: 0px;
+	}
+	
+	.save_ready {
+	border: 2px solid #72e766;
+	z-index: 10;
+	}
+
+	.cmsedit:hover {
+	border: 4px solid #999999;
+	opacity: .50;
+	}
+	
+	html > body div.modified {
+	border: 4px solid #7ACC6D;
+	}
+	
+	.modified:hover	{
+		border: 4px solid #7ACC6D;
+		opacity: 1;
+	}
+	
+	#form_container {
+		z-index: 10;
+		position: absolute;
+		padding: 10px;
+		border: 2px solid #666;	
+		background-color: #fff;
+		width: auto;
+		height: auto;
+	}
+
+	#form_container_header {
+		padding: 5px;
+		font-weight: bold;
+	}
+
+	#text_edit {
+		padding: 5px;
+		border: 1px solid #666;
+		background-color: #fff;
+		width: 450px;
+		height: 300px;
+	}
+	
+	#close_text {
+		padding-left: 170px;
+	}
+</style> 
+	</head><body><div id="form_container" style="display:none">
+		<form action="test_submit" method="get" accept-charset="utf-8" onsubmit="previewContent();">
+			<p id="form_container_header">
+				Content ID:<span id="cmsedit_content_id"></span> <br>
+				Field: <span id="cmsedit_field_text"></span>
+			</p>
+			<textarea id="text_edit">			</textarea><br>
+			<span id="close_text"></span>
+		</form>	
+	</div>
+        
+         	
+	
+       					<script type="text/javascript" src="http://www.clickability.com/templates/browser.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/templates/swfobject.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/templates/flash-embedder-imageTrolly.js"></script>
+			
+						<script type="text/javascript" src="http://www.clickability.com/includes/effects.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/accordion.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/Corp_Scripts.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/domrequest.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/functions.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/popovers.js"></script>
+			
+	 		<script type="text/javascript" language="javascript">
+	<!--
+		/*Show Hint script- copyright Dynamic Drive (www.dynamicdrive.com)*/
+		var horizontal_offset="15px"
+		var vertical_offset="0"
+		var ie=document.all
+		var ns6=document.getElementById&&!document.all
+		
+		function getposOffset(what, offsettype){
+			var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+			var parentEl=what.offsetParent;
+			while (parentEl!=null){
+				totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+				parentEl=parentEl.offsetParent;
+			}
+			return totaloffset;
+		}
+		
+		function iecompattest(){
+			return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+		}
+		
+		function clearbrowseredge(obj, whichedge){
+			var edgeoffset=(whichedge=="rightedge")? parseInt(horizontal_offset)*-1 : parseInt(vertical_offset)*-1
+			if (whichedge=="rightedge"){
+				var windowedge=ie && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-30 : window.pageXOffset+window.innerWidth-40
+				dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+				if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+				edgeoffset=dropmenuobj.contentmeasure+obj.offsetWidth+parseInt(horizontal_offset)
+			}else{
+				var windowedge=ie && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+				dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+				if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure)
+				edgeoffset=dropmenuobj.contentmeasure-obj.offsetHeight
+			}
+			return edgeoffset
+		}
+		
+		function showhint(menucontents, obj, tipwidth){
+			if ((ie||ns6) && document.getElementById("cmPubHelpTextPopup")){
+				dropmenuobj=document.getElementById("cmPubHelpTextPopup")
+				dropmenuobj.innerHTML=menucontents
+				dropmenuobj.style.left=dropmenuobj.style.top=-500
+				if (tipwidth!=""){
+					dropmenuobj.widthobj=dropmenuobj.style
+					dropmenuobj.widthobj.width=tipwidth
+				}
+				dropmenuobj.x=getposOffset(obj, "left")
+				dropmenuobj.y=getposOffset(obj, "top")
+				dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+obj.offsetWidth+"px"
+				dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+"px"
+				dropmenuobj.style.visibility="visible"
+				obj.onmouseout=hidetip
+			}
+		}
+		function hidetip(e){
+			dropmenuobj.style.visibility="hidden"
+			dropmenuobj.style.left="-500px"
+		}
+		function createhintbox(){
+			var divblock=document.createElement("div")
+			divblock.setAttribute("id", "cmPubHelpTextPopup")
+			document.body.appendChild(divblock)
+		}
+		if (window.addEventListener)
+			window.addEventListener("load", createhintbox, false)
+		else if (window.attachEvent)
+			window.attachEvent("onload", createhintbox)
+		else if (document.getElementById)
+			window.onload=createhintbox
+	//-->
+</script>
+
+                     
+               	<script type="text/javascript">
+	Event.observe(window, 'load', loadAccordions, false);
+	function loadAccordions() {
+		var bottomAccordion = new accordion('vertical_container');
+		bottomAccordion.activate($$('#vertical_container .accordion_toggle')[0]);
+	}
+	</script>
+    
+    	<script language="javascript">AC_FL_RunContent = 0;</script>
+		<script src="http://www.clickability.com/includes/AC_RunActiveContent.js" language="javascript"></script>
+		<script src="http://www.clickability.com/includes/cookies.js" language="javascript"></script>
+
+ 	   		
 	
 
-	&gt; Privacy Policy
+ 	  	
+		<script language="javascript1.2">var partnerID=426689; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=15376981";_q+="&7=426689";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=15376981";_qc+="&7=426689";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=15376981&7=426689&18=0.44605619405296115">
+</noscript>
+
+
+
+   
+    
+    
+    
+        <div id="headWrapper">
+            <div id="headLeft">
+                <a href="/"><img src="http://media3.clickability.com/designimages/clk_logo.gif" alt="Clickability" width="168" height="37" border="0"></a>
+                <div id="tagLine">
+                    The Global Leader in On-Demand Web Content Management 
+                </div>
+            </div>
+            <div id="headRight">
+                <div id="headRightTop">
+                    <div id="headRightTopWrapper">
+                        <div id="headRightTopForm">
+                            <form class="clk_search" action="/search" method="get">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            <input name="keywords" type="text" class="searchClk" value="Search" onfocus="clearDefault(this)">
+                                        </td>
+                                        <td>
+                                            <input name="submit" type="image" class="submitClk" value="submit" src="http://media3.clickability.com/designimages/submitClk.gif">
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </form>
+                        </div>
+
+                        <div id="headRightTopLinks">
+                            <span class="smallLinksWrapper"><a class="headRightTopNav" href="/company">COMPANY</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a class="headRightTopNav" href="/news">NEWS &amp; EVENTS</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a class="headRightTopNav" href="http://community.clickability.com/support" target="_blank">SUPPORT</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a class="headRightTopNav" href="https://cms.clickability.com/index.html" target="_blank">LOGIN</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div id="headRightBot">
+                    <!-- [BEGIN navigation ] -->
+
+
+<div id="nav_box">
+                        
+  		
+				
+					
+							<div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+            </div>
+			<div class="dropMenuBoxWrapper">
+				<ul class="ullevel0">
+					<li class="lilevel0">Partners 					<ul class="ullevel1">	
+	 					<li class="lilevel1Rev">
+	
+																																																										<ul class="ullevel2">
+								<li class="liDividers"> <div class="navItemsEnd"></div></li>
+																							<li class="lilevel2Rev">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/partners">Partners Overview</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2Rev">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/partners/technology_partners">Technology Partners</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2Rev">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/partners/implementation_partners">Implementation Partners</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2Rev">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/partners/agency_partners/">Agency Partners</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2Rev">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/partners/partner_with_us">Partner with Us</a></div></div>	
+																				
+								</li>
+														
+						</ul><!-- end of ullevel2 -->													</li>		
+						</ul><!-- end ullevel1 -->
+						</li>
+					</ul><!-- end ullevel0 -->
+					</div>
+				
+  		
+				
+							<div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+            </div>
+			<div class="dropMenuBoxWrapper">
+				<ul class="ullevel0">
+					<li class="lilevel0">Customers 					<ul class="ullevel1">	
+	 					<li class="lilevel1">
+	
+																																																										<ul class="ullevel2">
+								<li class="liDividers"> <div class="navItemsEnd"></div></li>
+																							<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/customers/">Customers Overview</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/customers/success/">Success Stories</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/customers/list">Customer List</a></div></div>	
+																				
+								</li>
+														
+						</ul><!-- end of ullevel2 -->													</li>		
+						</ul><!-- end ullevel1 -->
+						</li>
+					</ul><!-- end ullevel0 -->
+					</div>
+				
+  		
+				
+							<div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+            </div>
+			<div class="dropMenuBoxWrapper">
+				<ul class="ullevel0">
+					<li class="lilevel0">Services 					<ul class="ullevel1">	
+	 					<li class="lilevel1">
+	
+																																																										<ul class="ullevel2">
+								<li class="liDividers"> <div class="navItemsEnd"></div></li>
+																							<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/services">Services Overview</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/services/ps/">Professional Services</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/services/cs/">Customer Support</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/services/training/">Training &amp; Learning</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/services/community/">Clickability Community</a></div></div>	
+																				
+								</li>
+														
+						</ul><!-- end of ullevel2 -->													</li>		
+						</ul><!-- end ullevel1 -->
+						</li>
+					</ul><!-- end ullevel0 -->
+					</div>
+				
+  		
+				
+							<div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+            </div>
+			<div class="dropMenuBoxWrapper">
+				<ul class="ullevel0">
+					<li class="lilevel0">Solutions 					<ul class="ullevel1">	
+	 					<li class="lilevel1">
+	
+																																																										<ul class="ullevel2">
+								<li class="liDividers"> <div class="navItemsEnd"></div></li>
+																							<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/solutions">Solutions Overview</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																														<ul class="ullevel3">
+													<li class="liDividers"><div class="navItemsEnd"></div></li>
+																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Technology-Solutions.html">High Technology</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Financial-Services.html">Financial Services</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Government-Solutions.html">Government</a> </div></div> </li>
+																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
+												</ul><!-- end of ullevel3 -->
+																										
+																	 	<div class="navItems">
+																					<div class="navItemsLeftArrow"><a href="/solutions/corporate">Corporate Solutions</a></div></div>
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																														<ul class="ullevel3">
+													<li class="liDividers"><div class="navItemsEnd"></div></li>
+																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Media-Solutions-Publishing.html">Publishing</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Broadcast.html">Broadcasting</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Entertainment.html">Entertainment</a> </div></div> </li>
+																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
+												</ul><!-- end of ullevel3 -->
+																										
+																	 	<div class="navItems">
+																					<div class="navItemsLeftArrow"><a href="/solutions/media/">Media Solutions</a></div></div>
+																				
+								</li>
+														
+						</ul><!-- end of ullevel2 -->													</li>		
+						</ul><!-- end ullevel1 -->
+						</li>
+					</ul><!-- end ullevel0 -->
+					</div>
+				
+  		
+				
+							<div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+            </div>
+			<div class="dropMenuBoxWrapper">
+				<ul class="ullevel0">
+					<li class="lilevel0">Platform 					<ul class="ullevel1">	
+	 					<li class="lilevel1">
+	
+																																																										<ul class="ullevel2">
+								<li class="liDividers"> <div class="navItemsEnd"></div></li>
+																							<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/platform">Platform Overview</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																														<ul class="ullevel3">
+													<li class="liDividers"><div class="navItemsEnd"></div></li>
+																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Manage-Content.html">Content Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Social-Media.html">Social Media</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Built-In-Analytics.html">Built-In Analytics</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Marketing-and-Campaign-Management.html">Marketing &amp; Campaign Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Multi-site-Management.html">Multi-Site Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Manage-Workflow.html">Workflow Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Multilingual-Publishing.html">Multilingual Publishing</a> </div></div> </li>
+																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
+												</ul><!-- end of ullevel3 -->
+																										
+																	 	<div class="navItems">
+																					<div class="navItemsLeftArrow"><a href="/platform/cms/">On-Demand Content Management</a></div></div>
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																														<ul class="ullevel3">
+													<li class="liDividers"><div class="navItemsEnd"></div></li>
+																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Multitenant_Technology.html">Multitenant Technology</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Scalability.html">Scalability</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Security.html">Security</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Reliability.html">Reliability</a> </div></div> </li>
+																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
+												</ul><!-- end of ullevel3 -->
+																										
+																	 	<div class="navItems">
+																					<div class="navItemsLeftArrow"><a href="/platform/infrastructure">On-Demand Infrastructure</a></div></div>
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/platform/agile/Agile-Development.html">Agile Development</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/platform/implementation">Implementation</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/platform/integration">Integration</a></div></div>	
+																				
+								</li>
+														
+						</ul><!-- end of ullevel2 -->													</li>		
+						</ul><!-- end ullevel1 -->
+						</li>
+					</ul><!-- end ullevel0 -->
+					</div>
+				
+
+			
+<div class="clear"></div>
+</div><!-- end of nav_box -->
+
+
+                    <!-- [END navigation ] -->
+
+
+
+                </div>
+            </div>
+        </div>
+
+<div id="mainsectionWrapper">
+
+
+	<div id="contentsectionInner">
+		<div id="content">
+			<div id="contentThree">	<div id="nextWrapper">
+    <div id="nextHeader">
+        <span class="nextsteps">Next Steps</span>
+    </div>
+    <div id="nextBody">
+        <a href="/resource/Register_for_Demo.html"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_viewdemo.gif" alt="View Demo" width="164" height="43" border="0"></a>
+        <br>
+        <a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_contact.gif" alt="Contact Us" width="164" height="23" border="0"></a>
+        <br>
+        <a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_call.gif" alt="866.276.4580" width="164" height="23" border="0"></a>
+        <br>
+        <div class="dividers">
+        </div>
+			<form class="newsletterForm" name="SubscriptionCenterGate" id="SubscriptionCenterGate" method="post" action="http://now.eloqua.com/e/f2.aspx">
+				 <input name="elqFormName" value="SubscriptionCenterGate" type="hidden">
+                 <input name="elqSiteID" value="819" type="hidden">
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td colspan="2">
+                        Newsletter Subscription 
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+	 					<input name="email" id="email" type="text" class="newsletterEmail">
+                    </td>
+                    <td>
+                        <input name="submit" type="image" class="newslettSubmit" value="submit" src="http://media3.clickability.com/designimages/sign_up.gif">
+                    </td>
+                </tr>
+            </tbody></table>
+        </form>
+        <div class="dividers">
+        </div>
+       
+       <div id="nextNetTop">
+                 </div>
+        <div id="nextNetBottom">
+                  
+         </div>
+           </div>
+</div>
+
+
+
+<div class="rightWrapper">
+   	<div id="vertical_container">
+		<div class="accordion_toggle">Headlines</div>
+		<div class="accordion_content">
+							
+									
+					<div class="thinWrapperFull">
+						<a href="http://www.cmswire.com/cms/web-cms/web-cms-offers-full-redundancy-with-new-data-center-004405.php" target="_blank">Web CMS Offers Full Redundancy with New Data Center</a> 
+						<br>
+						<span>April 20, 2009</span> 
+					</div>
+											
+									
+					<div class="thinWrapperFull">
+						<a href="http://www.gartner.com/DisplayDocument?ref=g_search&amp;id=923412&amp;subref=simplesearch" target="_blank">Star Tribune Uses SaaS to Boost Traffic on Its Website</a> 
+						<br>
+						<span>April 02, 2009</span> 
+					</div>
+											
+									
+					<div class="thinWrapperFull">
+						<a href="http://www.cmswire.com/cms/web-cms/web-cms-vendors-embracing-open-source-search-004219.php" target="_blank">Web CMS Vendors Embracing Open Source Search</a> 
+						<br>
+						<span>April 01, 2009</span> 
+					</div>
+									</div>
+
+
+		<div class="accordion_toggle">Events</div>
+		<div class="accordion_content">
+																															
+						
+																															
+										
+									<div class="thinWrapperFull">
+						<a href="http://www.clickability.com/news/events/John_Girard_to_Speak_at_Buying__Selling_eContent_2009.html">
+															Scottsdale, AZ | 
+																						John Girard to Speak at Buying &amp; Selling eContent 2009
+													</a>
+						<br>
+						<span>
+													4-6-2009
+														</span>							
+											</div>
+										
+																															
+										
+									<div class="thinWrapperFull">
+						<a href="http://www.clickability.com/news/events/Jeff_Freund_to_Speak_at_MySQL.html">
+															Santa Clara | 
+																						Jeff Freund to Speak at MySQL
+													</a>
+						<br>
+						<span>
+													4-22-2009
+														</span>							
+											</div>
+									</div>
+
+
+		<div class="accordion_toggle">Webinars</div>
+		<div class="accordion_content">
+																															
+						
+																															
+										
+									<div class="thinWrapperFull">
+						<a href="http://www.clickability.com/news/events/Jeff_Freund_to_Speak_at_MySQL.html">
+															Webinar | 
+																						Jeff Freund to Speak at MySQL
+													</a>
+						<br>
+						<span>
+													4-15-2009
+														</span>							
+											</div>
+										
+																															
+										
+									<div class="thinWrapperFull">
+						<a href="http://www.clickability.com/news/events/Jeff_Freund_to_Speak_at_MySQL.html">
+																						Jeff Freund to Speak at MySQL
+													</a>
+						<br>
+						<span>
+													12-16-2008
+														</span>							
+											</div>
+									</div>
+
+		<div class="thinBottom"></div>
+	</div>
+</div>
+
+
+	
+
+					
+	<div class="rightWrapper">
+		<div class="thinHeaderShort"></div>
+		<div class="pullBody">
+			<div class="pullquoteWrapper">
+				<span class="pullquote">"Each Clickability release adds new capabilities to our portfolio."</span>
+		
+																
+																			
+													
+									<br>
+						<br>
+						<span class="pullquoteSub">Tracy Hansen<br> NetApp</span>
+							</div>
+			
+						
+					</div>
+		<div class="thinBottom"></div>
+	</div>
+
+            
+            
+        
+
+
+</div>
+		<div id="contentTwo">
+			<div class="wideHeaderShort"></div>
+			<div class="wideBody">
+				<!--BREADCRUMB-->
+<div class="breadCrumb">
+    <span>
+   <a href="/">Home</a>
+       
+            »  
+                    Privacy Policy
+            </span>
+</div>
+<!--END BREADCRUMB-->
+
+	
+								<div class="headline">
+																		Privacy Policy
+															</div>
+			
+				<div id="newsarticle">
+                                        					        
+<div id="textNav">
 
 </div>
 
-<!-- right content -->
 
-    <div class="LayoutSubContent">
-
-
-            
-
- <!-- startclickprintinclude -->
- <table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-     <td><!--startclickprintexclude--><nobr><a title="Save This Article!" href="#" onclick="return(ST());" onmouseover="return(STMouseOver());" onmouseout="return(STMouseOut());"><img src="http://media.clickability.com/designimages/sticon.gif" width="26" height="18" border="0" alt="save this"></a></nobr>
-<nobr><a title="Email This Article!" href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img src="http://media.clickability.com/designimages/eticon.gif" width="26" height="18" border="0" alt="email"></a></nobr>
-<nobr><a title="Print This Article!" href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());"><img src="http://media.clickability.com/designimages/pticon.gif" width="25" height="18" border="0" alt="print this"></a></nobr>
-<nobr><a href="/blogs/rss" border="0"><img src="http://media.clickability.com/designimages/RSS_XML_Button_dark.gif" align="top" width="68" height="14" alt="" title="" border="0"></a></nobr>
-
-                <!--endclickprintexclude--><br><br>
-    </td></tr>
- <tr><td align="left">
-     <div class="TextSubContentTitle">Privacy Policy</div></td>
-</tr>
-  </tbody></table>
-  <br>
-      <div style="text-align: center;"><span style="font-weight: bold; text-decoration: underline;">Clickability, Inc. Privacy Policy</span><br></div>
-<br>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.<br><br><span style="font-weight: bold;">What Does This Privacy Policy Cover?</span><br>This Privacy Policy covers Clickability’s treatment of personal information that Clickability gathers when you are on the Clickability websites and when you use Clickability products or services.&nbsp; Also, this Privacy Policy covers Clickability’s treatment of any personal information that Clickability’s business partners share with Clickability.&nbsp; This policy does not apply to the practices of third parties that Clickability does not own or control, or to individuals that Clickability does not employ or manage.<br><br><br><span style="font-weight: bold;">What Personal Information About Users Does Clickability Collect?</span><br>Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:<br><br>A)&nbsp; Information You Provide to Us: &nbsp;<br>
-<ul>
-    <li>We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.&nbsp; The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.&nbsp; We use links throughout our websites to provide you with the opportunit&nbsp;&nbsp;&nbsp; y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.&nbsp; We also collect and use personal information in the context of the services we provide to our customers. </li>
-    <li>Registration: Users of certain Clickability services must complete a registration form.&nbsp; As part of this registration form, we require your first and last name, your e-mail address and other information as required by the specific registration form.</li>
-</ul>
-<br>B)&nbsp;&nbsp; Automatic Information:<br>
-<ul>
-    <li>We may receive and store certain types of information whenever you interact with us online.&nbsp; Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.&nbsp; Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.&nbsp; &nbsp;</li>
-    <li>We may capture information when you visit our websites for aggregate statistical analysis and website customization.&nbsp; Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.). </li>
-    <li>Many companies offer programs that help you to visit websites anonymously.&nbsp; While Clickability will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</li>
-</ul>
-<br>(C)&nbsp;&nbsp; E-mail Communications:<br>
-<ul>
-    <li>We may receive a confirmation when you open an e-mail from Clickability if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.&nbsp; We may also send out e-mails with news or promotions.&nbsp; If you do not want to receive e-mail or other mail from us, please follow the instructions contained in that e-mail. &nbsp;</li>
-</ul>
-<br><br><span style="font-weight: bold;">What about Cookies?</span><br>
-<ul>
-    <li>Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.&nbsp; Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is. &nbsp;</li>
-    <li>The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.&nbsp; We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.</li>
-</ul>
-<br><br><span style="font-weight: bold;">Will Clickability Share Any of the Information it Receives?</span><br>We neither rent nor sell your personal information to anyone.&nbsp; We share your personal information only with your consent or as described below:<br><br>
-<ul style="font-weight: bold;">
-    <li>Affiliated Business We Do Not Control:</li>
-</ul>
-<div style="margin-left: 40px;">We are affiliated with a variety of businesses and work closely with them.&nbsp; You can easily recognize when an affiliated business is associated with your transaction.&nbsp; We will only share personal information that is necessary for the affiliate to complete the transaction.&nbsp; We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.<br><br></div>
-<ul>
-    <li><span style="font-weight: bold;">Personnel:</span> </li>
-</ul>
-<div style="margin-left: 40px;">Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business. <br></div>
-<ul style="font-weight: bold;">
-    <li>Agents:</li>
-</ul>
-<div style="margin-left: 40px;">We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.&nbsp; You hereby consent to our sharing of your personal information for the above purposes. &nbsp;</div>
-<ul style="font-weight: bold;">
-    <li>Business Transfers:</li>
-</ul>
-<div style="margin-left: 40px;">In some cases, we may choose to buy or sell assets.&nbsp; In these types of transactions, user information is typically one of the business assets that is transferred.&nbsp; Moreover, if Clickability, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.</div>
-<ul style="font-weight: bold;">
-    <li>Protection of Clickability and Others:</li>
-</ul>
-<div style="margin-left: 40px;">We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Clickability, our employees, our users or others.&nbsp; This includes exchanging personal information with other companies and organizations for fraud protection and credit risk reduction.<br></div>
-<br><br><span style="font-weight: bold;">Is Information About Me Secure?</span><br>For users of certain Clickability services, your Clickability account information is protected by a password for your privacy and security.&nbsp; You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.<br>
-<ul>
-    <li>We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the personal information you input.</li>
-    <li>Only Clickability employees who need personal information to perform a specific job are granted access to it.&nbsp; All of our employees are kept up to date on our privacy and security practices.</li>
-</ul>
-<br><br style="font-weight: bold;"><span style="font-weight: bold;">What Information Can I Access?</span><br>For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate. &nbsp;<br><br><br><span style="font-weight: bold;">What Choices Do I Have?</span><br>
-<ul>
-    <li>As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.</li>
-    <li>For users of certain Clickability services, you may be able to add or update certain personal information.&nbsp; When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.&nbsp; Please note that some personal information may remain in our records after deletion of your account. &nbsp;</li>
-    <li>If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.&nbsp; Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.</li>
-    <li>As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</li>
-</ul>
-<br><br><span style="font-weight: bold;">Does Clickability Collect Personal Information from Children?</span><br>Clickability does not specifically collect personal information from children under 13 years of age.<br><br><br><span style="font-weight: bold;">Conditions of Use</span><br>If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law. &nbsp;<br><br><br><span style="font-weight: bold;">Third Party Websites</span><br>The Clickability websites and services may permit you to link to other websites on the Internet, and other websites may contain links to the Clickability websites.&nbsp; These other websites are not under Clickability control.&nbsp; The privacy and security practices of websites linked to or from the Clickability websites and services are not covered by this Privacy Policy, and Clickability is not responsible for the privacy or security practices or the content of such websites.<br><br><br><span style="font-weight: bold;">Changes to this Privacy Policy</span><br>Clickability may amend this Privacy Policy from time to time, at its sole discretion.&nbsp; Use of personal information we collect now is subject to the Privacy Policy in effect at the time such personal information is used.&nbsp; If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Clickability websites so you are always aware of what personal information we collect, how we use it, and under what circumstances if any, it is disclosed.<br><br><span style="font-weight: bold;">Questions or Concerns</span><br>If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@clickability.com.&nbsp; Your privacy is important to us and we will make every effort to resolve your concerns. &nbsp;<br><br><br>Effective Date of This Privacy Policy<br>This Privacy Policy is effective as of July 12, 2007.<br>
-    <br><br>
- <!-- endclickprintinclude -->
-
-<!-- nightly refresh -->
+                                       
 
 
-        </div>
-        </td>
-     </tr>
-     <tr>
-        <td colspan="3">
-           <div class="LayoutFooter">
-              <a href="/press/newsletters">Updates &amp; Ideas</a> |
-              <a href="/misc/317.html">Privacy Policy</a> |
-              <a href="/misc/102.html">Terms of Use</a> |
-              <a href="/misc/8465882.html">Copyright Policy</a> |
-              <a href="/misc/545562.html">Site Map</a> |
-              <a href="/contact">Contact Us</a><br>
-              © 1999-2007 Clickability, Inc.
-           </div>
-        </td>
-     </tr>
-  </tbody></table>
-</center>
+             
+                                                         
+                                <div class="calloutText">
+                                    	
+                                </div>    
+                                <div class="leadline">
+                                    	
+                                      
+                                </div>  
+
+                             
 
 
-<!-- IndexTools Customization Code -->
-<!-- Remove leading // to activate custom variables -->
-<script language="Javascript">
-//var DOCUMENTGROUP='';
-//var DOCUMENTNAME='';
-//var ACTION='';
-</script>
-<!-- End of Customization Code -->
-<!-- IndexTools Code v3.01 - All rights reserved -->
-<script language="javascript1.1" src="http://www.clickability.com/includes/indextools.js"></script><noscript>
-<img src="http://stats.indextools.com/p.pl?a=10001963277295&js=no" width="1" height="1"></noscript><!--//-->
-<!-- End of IndexTools Code -->
+                                <div class="bodyCopy">
+																		
+                                                                       	    <p>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
+<p>&nbsp;</p>
+<h3>What Does This Privacy Policy Cover?</h3>
+<p>This Privacy Policy covers Clickability’s treatment of personal information that Clickability gathers when you are on the Clickability websites and when you use Clickability products or services.&nbsp; Also, this Privacy Policy covers Clickability’s treatment of any personal information that Clickability’s business partners share with Clickability.&nbsp; This policy does not apply to the practices of third parties that Clickability does not own or control, or to individuals that Clickability does not employ or manage.</p>
+<h3>What Personal Information About Users Does Clickability Collect?</h3>
+<p>Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:<br>
+<br>
+A)&nbsp; Information You Provide to Us: <br>
+<br>
+&nbsp;&nbsp;&nbsp; º We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.&nbsp; The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.&nbsp; We use links throughout our websites to provide you with the opportunit&nbsp;&nbsp;&nbsp; y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.&nbsp; We also collect and use personal information in the context of the services we provide to our customers.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º Registration: Users of certain Clickability services must complete a registration form.&nbsp; As part of this registration form, we require your first and last name, your e-mail address and other information as required by the specific registration form.<br>
+<br>
+B)&nbsp;&nbsp; Automatic Information:<br>
+<br>
+&nbsp;&nbsp;&nbsp; º We may receive and store certain types of information whenever you interact with us online.&nbsp; Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.&nbsp; Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.&nbsp;&nbsp; <br>
+<br>
+&nbsp;&nbsp;&nbsp; º We may capture information when you visit our websites for aggregate statistical analysis and website customization.&nbsp; Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.).<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; Many companies offer programs that help you to visit websites anonymously.&nbsp; While Clickability will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.<br>
+<br>
+(C)&nbsp;&nbsp; E-mail Communications:<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; We may receive a confirmation when you open an e-mail from Clickability if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.&nbsp; We may also send out e-mails with news or promotions.&nbsp; If you do not want to receive e-mail or other mail from us, please follow the instructions contained in that e-mail.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>What about Cookies?</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; º&nbsp; Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.&nbsp; Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is.&nbsp; <br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.&nbsp; We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Will Clickability Share Any of the Information it Receives?</h3>
+<p>We neither rent nor sell your personal information to anyone.&nbsp; We share your personal information only with your consent or as described below:<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; Affiliated Business We Do Not Control:<br>
+<br>
+We are affiliated with a variety of businesses and work closely with them.&nbsp; You can easily recognize when an affiliated business is associated with your transaction.&nbsp; We will only share personal information that is necessary for the affiliate to complete the transaction.&nbsp; We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º Personnel:<br>
+<br>
+Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; Agents:<br>
+<br>
+We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.&nbsp; You hereby consent to our sharing of your personal information for the above purposes. <br>
+<br>
+&nbsp;&nbsp;&nbsp; º Business Transfers:<br>
+<br>
+In some cases, we may choose to buy or sell assets.&nbsp; In these types of transactions, user information is typically one of the business assets that is transferred.&nbsp; Moreover, if Clickability, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.<br>
+<br>
+&nbsp;&nbsp; º Protection of Clickability and Others:<br>
+<br>
+We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Clickability, our employees, our users or others.&nbsp; This includes exchanging personal information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<h3>Is Information About Me Secure?</h3>
+<p>For users of certain Clickability services, your Clickability account information is protected by a password for your privacy and security.&nbsp; You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the personal information you input.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; Only Clickability employees who need personal information to perform a specific job are granted access to it.&nbsp; All of our employees are kept up to date on our privacy and security practices.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>What Information Can I Access?</h3>
+<p>For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate. </p>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+<h3>What Choices Do I Have?</h3>
+<p>&nbsp;&nbsp;&nbsp; º&nbsp; As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; For users of certain Clickability services, you may be able to add or update certain personal information.&nbsp; When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.&nbsp; Please note that some personal information may remain in our records after deletion of your account.&nbsp; <br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.&nbsp; Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.<br>
+<br>
+&nbsp;&nbsp;&nbsp; º&nbsp; As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Does Clickability Collect Personal Information from Children?</h3>
+<p>Clickability does not specifically collect personal information from children under 13 years of age.</p>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+<h3>Conditions of Use</h3>
+<p>If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law. </p>
+<h3>Third Party Websites</h3>
+<p>The Clickability websites and services may permit you to link to other websites on the Internet, and other websites may contain links to the Clickability websites.&nbsp; These other websites are not under Clickability control.&nbsp; The privacy and security practices of websites linked to or from the Clickability websites and services are not covered by this Privacy Policy, and Clickability is not responsible for the privacy or security practices or the content of such websites.</p>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+<h3>Changes to this Privacy Policy</h3>
+<p>Clickability may amend this Privacy Policy from time to time, at its sole discretion.&nbsp; Use of personal information we collect now is subject to the Privacy Policy in effect at the time such personal information is used.&nbsp; If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Clickability websites so you are always aware of what personal information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<p>&nbsp;</p>
+<h3>Questions or Concerns</h3>
+<p>If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@clickability.com.&nbsp; Your privacy is important to us and we will make every effort to resolve your concerns. <br>
+<br>
+Effective Date of This Privacy Policy<br>
+This Privacy Policy is effective as of July 12, 2007.</p>
+                                                                
+                                                                    </div>
+                       
+			
 
-<!-- Begin Google Tracking Code-->
+							</div> <!-- close newsarticle -->
+			<div class="wideBottom">
+			</div> <!-- close wideBottom -->
+		</div> <!-- Close wideBody -->
+	</div> <!-- Close contentTwo -->
+
+
+
+
+
+
+		
+
+
+
+
+</div> <!-- close content -->
+   			    <div id="poweredBy">
+			        <img src="http://media3.clickability.com/designimages/powered_by.gif" alt="" width="138" height="16" border="0">
+			    </div> <!-- close poweredBy -->
+            </div> <!-- close content SectionInner -->
+			
+																				<div class="footerRow">
+	<div class="footerCell">
+		<p class="footerHead">
+		Platform 
+		</p>
+		<p class="footerText">
+								<a href="/platform">Platform Overview</a>
+					<br>			<a href="/platform/cms/">On-Demand Content Management</a>
+					<br>			<a href="/platform/infrastructure">On-Demand Infrastructure</a>
+					<br>			<a href="/platform/agile/Agile-Development.html">Agile Development</a>
+					<br>			<a href="/platform/implementation">Implementation</a>
+					<br>			<a href="/platform/integration">Integration</a>
+				</p>
+	</div>
+	<div class="footerCell">
+		<p class="footerHead">
+		Solutions 
+		</p>
+		<p class="footerText">
+								<a href="/solutions">Solutions Overview</a>
+					<br>			<a href="/solutions/corporate">Corporate Solutions</a>
+					<br>			<a href="/solutions/media/">Media Solutions</a>
+				</p>
+	</div>
+	<div class="footerCell">
+		<p class="footerHead">
+		Services 
+		</p>
+		<p class="footerText">
+								<a href="/services">Services Overview</a>
+					<br>			<a href="/services/ps/">Professional Services</a>
+					<br>			<a href="/services/cs/">Customer Support</a>
+					<br>			<a href="/services/training/">Training &amp; Learning</a>
+					<br>			<a href="/services/community/">Clickability Community</a>
+				</p>
+	</div>
+	<div class="footerCell">
+		<p class="footerHead">
+		Customers 
+		</p>
+		<p class="footerText">
+								<a href="/customers/">Customers Overview</a>
+					<br>			<a href="/customers/success/">Success Stories</a>
+					<br>			<a href="/customers/list">Customer List</a>
+				</p>
+	</div>
+	<div class="footerCell">
+		<p class="footerHead">
+		Partners 
+		</p>
+		<p class="footerText">
+								<a href="/partners">Partners Overview</a>
+					<br>			<a href="/partners/technology_partners">Technology Partners</a>
+					<br>			<a href="/partners/implementation_partners">Implementation Partners</a>
+					<br>			<a href="/partners/agency_partners/">Agency Partners</a>
+					<br>			<a href="/partners/partner_with_us">Partner with Us</a>
+				</p>
+	</div>
+</div>
+<div class="footerRow">
+			<div class="footerCell">
+			<p class="footerHead">
+			Company 
+			</p>
+			<p class="footerText">
+											<a href="/company/">About Us</a>
+							<br>				<a href="/company/Leadership.html">Leadership</a>
+							<br>				<a href="/company/Board.html">Board of Directors</a>
+							<br>				<a href="/company/MediaBoardofAdvisors.html">Advisory Board</a>
+							<br>				<a href="/company/associations.html">Associations</a>
+							<br>				<a href="/company/jobs">Jobs</a>
+							<br>				<a href="/company/contact_us">Contact Us</a>
+						</p>
+		</div>
+			<div class="footerCell">
+			<p class="footerHead">
+			News and Events 
+			</p>
+			<p class="footerText">
+											<a href="/news/clickability_in_the_news">Clickability in the News</a>
+							<br>				<a href="/news/press-releases">Press Releases</a>
+							<br>				<a href="/news/blog">Blogs</a>
+							<br>				<a href="/news/Webinars">Webinars</a>
+							<br>				<a href="/news/events">Events</a>
+						</p>
+		</div>
+			<div class="footerCell">
+			<p class="footerHead">
+			Support 
+			</p>
+			<p class="footerText">
+						</p>
+		</div>
+			<div class="footerCell">
+			<p class="footerHead">
+			Customer Login 
+			</p>
+			<p class="footerText">
+						</p>
+		</div>
+	    <div class="footerCell">
+        <p class="footerHead">&nbsp;                         
+        </p>
+        <p class="footerText">&nbsp;                         
+        </p>
+    </div>
+</div>
+
+				
+				
+            <div class="clear">
+            </div>
+            <div id="legal">
+                <p>
+                    © 2009  Clickability Inc. <a href="Privacy_Policy.html">Privacy Policy</a>
+                    | <a href="Terms_of_Use.html">Terms of Use</a>
+                    | <a href="Copyright_Policy.html">Copyright Policy</a>
+                                      | <a href="/company/contact_us/">Contact Us</a>
+                </p>
+            </div> <!-- close legal -->
+        </div> <!-- close mainSectionWrapper -->
+    <!-- Begin Google Tracking Code-->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -532,27 +1068,21 @@ urchinTracker();
 </script>
 <!-- End Google Tracking Code-->
 
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=317";_q+="&7=41892";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=317";_qc+="&7=41892";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=317&7=41892&18=0.4669133183583388">
-</noscript>
+<!--- Begin Salesforce Tracking Code ---->
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+<!--- End Salesforce Tracking Code, ---->
+
+    <script type="text/javascript" language="JavaScript" src="http://www.clickability.com/includes/elqCfg.js"></script>
+    <script type="text/javascript" language="JavaScript" src="http://www.clickability.com/includes/elqImg.js"></script>
 
 
-		<!-- Set Invitation Position -->
-		<script>
-		var lpPosY = 300;
-		</script> 
-		<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/58803813/x.js?cmd=file&amp;file=chatScript3&amp;site=58803813&amp;&amp;imageUrl=http://media.clickability.com/designimages"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-
-   
+    
 
 
 
 
 
-</body></html>
+
+
+<div id="cmPubHelpTextPopup"></div></body></html>
