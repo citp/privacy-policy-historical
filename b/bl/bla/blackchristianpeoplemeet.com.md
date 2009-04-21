@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackchristianpeoplemeet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154151id_/http%3A//www.blackchristianpeoplemeet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackchristianpeoplemeet.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421070449id_/http%3A//www.blackchristianpeoplemeet.com/privacy) for the most accurate reproduction.*
 
 # BLACKCHRISTIANPeoplemeet.com - The Black Christian People Network
 
