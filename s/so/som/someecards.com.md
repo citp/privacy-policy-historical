@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151456id_/http%3A//www.someecards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421064509id_/http%3A//www.someecards.com/privacy.html) for the most accurate reproduction.*
 
 # someecards.com | ecards for when you care enough to hit send | privacy policy
 
