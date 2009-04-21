@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgoblue.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005222223id_/http%3A//www.mgoblue.com/document_file/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgoblue.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421151000id_/http%3A//mgoblue.com/document_file/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Host Communications Privacy Policy
 
