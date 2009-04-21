@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113849id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421042352id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.*
 
-# Privacy Policy - InvestmentNews
+# Privacy Policy - Investment News
 
 _InvestmentNews.com_ is the Web site of _InvestmentNews_ , a publication of the InvestmentNews Group, a business unit of Crain Communications Inc. Our postal address is 711 Third Avenue, New York, NY 10017-4036. We can be reached by e-mail at [in_webmaster@investmentnews.com](mailto:in_webmaster@investmentnews.com) or by telephone at 212-210-0100. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
@@ -20,4 +20,4 @@ This Web site is operated in the United States. If you are located in the Europe
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
-Policy Last Updated: January 1, 2005 
+Policy Last Updated: January 1, 2005
