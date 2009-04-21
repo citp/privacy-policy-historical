@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226024523id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20081226024523id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20081226024523id_/http%3A//www.w3schools.com/about/default.asp)
+|  [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,46 +58,29 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20081226024523id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20081226024523id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/default.asp)   
 
 
 * * *
 
 * * *
 
-## [Altova® MissionKit® - Integrated suite of XML tools](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
-
-The Altova MissionKit is a suite of intelligent XML tools, including:
-
-**XMLSpy®** – industry-leading XML editor
-
-  * Support for all XML-based technologies
-  * Graphical editing views, powerful debuggers, code generation, & more
-
-
-
-**MapForce®** – graphical data mapping tool
-
-  * Drag-and-drop data conversion with code generation
-  * Support for XML, DBs, EDI, Excel® 2007, text, Web services
-
-
-
-**StyleVision®** – visual stylesheet designer
-
-  * Drag-and-drop stylesheet design for XML & databases
-  * Output to HTML, PDF, RTF, Word 2007, & more
-
-
-
-**And more…**
-
-Try before you buy with a free fully functional 30-day trial
-
-[ **Download today**](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
-
-* * *
-
-* * *
-
+|   
+---  
+| **[Ektron CMS400.NET Ver 7.6](http://www.ektron.com/campaign.aspx?cpid=BAC-3183&campaignid=3183)**   
+is a **content management solution** which delivers all of the flexibility and features you need to deploy the Web site you want, quickly and efficiently.   
+---  
+[**learn more...**](http://www.ektron.com/campaign.aspx?cpid=BAC-3183&campaignid=3183)  
+|  | **Decrease time-to-live** and **increase functionality** with PageBuilder  
+---|---  
+| eSync: the next generation in advanced **Web synchronization technology**.  
+| Utilize the extensive out-of-the box features or take advantage of the **open architecture**  
+| Easily build and offer **wikis** , **blogs** , **forums** and the latest in **social networking**  
+| Provide top tier results with our new enterprise **search**  
+| Easily offer RSS, secure **subscriptions** and **web alerts**  
+| **More than just software:** In addition to a thriving online developer community, Ektron can provide support, training, development, hosting and much, much more  
+|  See why there are 20,000+ Ektron integrations worldwide.  
+Request an [**INSTANT DEMO**](http://www.ektron.com/instant_demo.cfm?cpid=BAC-4131&campaignid=4131) or download a [**FREE TRIAL**](http://www.ektron.com/download.cfm?product_id=380&purchase=0&cpid=BAC-4131&campaignid=4131) today. |  [](http://www.ektron.com/instant_demo.cfm?cpid=BAC-4131&campaignid=4131)  
+---|---  
+  
 * * *
