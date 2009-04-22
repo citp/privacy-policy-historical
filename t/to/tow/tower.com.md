@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160639id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422054307id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Tower.com
 
@@ -244,14 +244,8 @@ All Telephone Support available Monday-Friday 9:00 a.m. to 6:00 p.m. PST
 
 
 |   
-  
 ---  
-[About](http://www.tower.com/aboutus.cfm) |  [Community](http://www.tower.com/community.cfm) |  [Tower Newsletters](https://secure.tower.com/newsletters/index.cfm) |  [RSS](http://www.tower.com/wiki/rss) |  [Careers](http://www.tower.com/towerculture.cfm) |  [Advertise](http://www.tower.com/advertising.cfm) |  [Terms](http://www.tower.com/help/help_terms.cfm) |  [Privacy](http://www.tower.com/help/help_security.cfm) |  [Returns](http://www.tower.com/help/help_returns.cfm) |  [Contact Us](http://www.tower.com/contactus.cfm) |  [Directory](http://www.tower.com/directory) |  [Help](http://www.tower.com/help/help_home.cfm) 
-
-**Copyright © 1995 - 2008 TOWER.COM INC.**  
-Tower, Tower Records, TowerRecords.com, Tower.com, Tower CD Listening Station, Tower Outlet, Tower Records Videos Books, Tower Essentials, Pulse! and associated logos and trademarks are registered trademarks of Tower.com Inc. in the United States and other countries.  
-Copyright 2007 Powered by Muze Inc. For personal noncommercial use only.   
   
 To link directly to this page: http://www.tower.com/help/help_security.cfm  
   
-Tower 2.0 Version 3.8.7
+Tower 2.0 Version 4.5.2
