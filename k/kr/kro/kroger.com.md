@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064840id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422152504id_/http%3A//kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Kroger - Company Information - Privacy Policy
 
@@ -58,11 +58,11 @@ Customers may access their own readily available and easily retrievable purchasi
 
 As changes occur in Kroger's business, technology and the laws that affect this policy, we will continue to review and revise this policy. The use of information we gather now is subject to the privacy policy in effect at the time of use. We may send you periodic notices of changes to our policy, unless you have instructed us not to contact you, but you should check our website periodically to see the current policy. We will attempt to provide our customers with notice of material changes to this policy by regularly scheduled mailings, cash register receipt messages, email or other means. 
 
-If you have any questions or concerns, please contact one of our customer representatives at 1-866-221-4141; e-mail us through the Customer Comment section of our website at [www.kroger.com](https://web.archive.org/) or write us at: 
+If you have any questions or concerns, please contact one of our customer representatives at 1-866-221-4141; e-mail us through the Customer Comment section of our website at [www.kroger.com](https://web.archive.org/company_information) or write us at: 
 
 > Customer Relations  
 > The Kroger Co.  
 > 1014 Vine Street  
 > Cincinnati, OH 45202
 
-This privacy policy was posted and is effective as of June 30, 2004. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [www.kroger.com](https://web.archive.org/). 
+This privacy policy was posted and is effective as of June 30, 2004. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [www.kroger.com](https://web.archive.org/company_information). 
