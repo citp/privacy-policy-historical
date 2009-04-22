@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222092856id_/http%3A//www.unexplainable.net/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422154344id_/http%3A//www.unexplainable.net/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # Unexplainable.Net's Privacy Policy
 
@@ -7,6 +7,18 @@
 Unexplainable.Net's main purpose is to circulate interesting articles and news.  We offer a different perspective on life, and work hard to keep you informed about unexplainable topics.
 
 **Privacy** -  Unexplainable.Net respects it's users privacy and will never do anything to burden it's readers.  We use standard web scripting to run our news articles that does not require any personal information to be given. We do not track personal navigation, nor do we collect personal data. We do however offer our readers a mailing list which is 100% voluntary.  Any information given during signing up to our mailing list is 100% safe, as we use the internets most trusted mailing list service. We do not give out, or sell any personal information to any third party.
+
+**Sponsors and Advertisers**
+
+Unexplainable.net serves ads by Google and operates the Unexplainable Store. The Unexplainable store privacy policy can be found [here](http://www.store.unexplainable.net/privacy.php).
+
+**Google Ads**
+
+  * Google, as a third party vendor, uses cookies to serve ads on Unexplainable.Net.
+  * Google's use of the DART cookie enables it to serve ads to the user based on their visit to Unexplainable.Net and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 **How We Use Your Information** \- If you choose to subscribe to our mailing list, we use your email address to send you important updates, additions, gifts, information, offers, etc. That is full extent of any and all information we collect.
 
