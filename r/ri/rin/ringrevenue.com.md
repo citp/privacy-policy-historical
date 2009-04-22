@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ringrevenue.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005185700id_/http%3A//www2.ringrevenue.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringrevenue.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422214031id_/http%3A//www.ringrevenue.com/privacy_policy) for the most accurate reproduction.*
 
-# RingRevenue - Track Calls Like Clicks
+# RingRevenue™ - Track Calls Like Clicks™
 
 **What is covered by this Policy?  
 **Ring Revenue ("Ring Revenue" "we" or "us") provides pay-per-call services, using unique phone numbers and other forms of call tracking used in both online and offline advertising.  Using unique phone numbers with personalization components, database management, and our proprietary and confidential systems we provide networks, advertisers, agencies, publishers (directly and indirectly, our “clients”), and consumers with pay-per-call features and services that are unmatched in our industry.
