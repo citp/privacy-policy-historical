@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019192709id_/http%3A//www.approvedindex.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422142831id_/http%3A//www.approvedindex.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Approved Index Privacy Policy
 
@@ -34,7 +34,7 @@ In addition, all the enquirer's personal information is password-protected: only
 
 ### Access to your personal information
 
-You have the right to request a copy of the personal information Approved Index Ltd holds about you and to have any inaccuracies corrected. (We charge 10 for information requests.) Please address any requests to [personalinfo@approvedindex.co.uk](mailto:personalinfo@approvedindex.co.uk).
+You have the right to request a copy of the personal information Approved Index Ltd holds about you and to have any inaccuracies corrected. (We charge �10 for information requests.) Please address any requests to [personalinfo@approvedindex.co.uk](mailto:personalinfo@approvedindex.co.uk).
 
 ### Use of cookies
 
