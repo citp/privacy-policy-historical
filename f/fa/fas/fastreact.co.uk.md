@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219120324id_/http%3A//www.fastreact.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422182923id_/http%3A//www.fastreact.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fastreact
 
@@ -54,6 +54,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ## Latest News
 
-Textured Jersey Lanka, one of Sri Lanka’s largest Weft knit fabric manufacturers goes live with FastReact planning alongside its SAP ERP solution. [More…](http://www.fastreact.co.uk/news-item/textured-jersey-goes-live-with-fastreact-planning-solution/90)
+Fashion and textile industry planning specialists Fast React Systems offer unparalleled visibility and control throughout the supply chain. Numerous new key features within the FastReact planning software will be on display at the show. Come and see for yourselves! [More…](http://www.fastreact.co.uk/news-item/see-fastreact-at-imb-2009-in-cologne-21st-24th-april-hall-8-stand-d-020/104)
 
 [](http://www.fastreact.co.uk/includes/news_rss.xml) | What is RSS? 
