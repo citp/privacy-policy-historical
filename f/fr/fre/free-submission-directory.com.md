@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-submission-directory.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175208id_/http%3A//www.free-submission-directory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-submission-directory.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422091305id_/http%3A//www.free-submission-directory.com/privacy.php) for the most accurate reproduction.*
 
 # FS Directory - Privacy policy
 
