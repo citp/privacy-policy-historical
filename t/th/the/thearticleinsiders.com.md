@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearticleinsiders.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226035503id_/http%3A//www.thearticleinsiders.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticleinsiders.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422074323id_/http%3A//www.thearticleinsiders.com/privacy.php) for the most accurate reproduction.*
 
 # TheArticleInsiders.com Free Article Content for Ezines, Blogs, Newsletters and Websites
 
@@ -21,3 +21,13 @@ TheArticleInsiders.com does not control the use of this technology by third part
 If you believe TheArticleInsiders.com has any information from or about anyone under 13, please contact us at the address listed below. [Contacting Us](mailto:admin@thearticleinsiders.com) We can be reached by emailing us. Changes to this Policy TheArticleInsiders.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
 If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+**Google Adsense and Third Party Advertising**
+
+We use [Google AdSense](http://en.wikipedia.org/wiki/AdSense "Google AdSense") and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here:<http://www.google.com/privacy.html>
+
+ **DoubleClick Dart Cookies**
+
+Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy:<http://www.doubleclick.com/privacy/faq.aspx>
+
+This Privacy Policy was last updated on 03-18-2009. 
