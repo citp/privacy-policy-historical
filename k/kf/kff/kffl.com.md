@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050455id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422204212id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
 
-# KFFL.com - Privacy Policy
+# Free Fantasy Football, Baseball and NASCAR
 
 **Last updated** : January 19, 2007
 
