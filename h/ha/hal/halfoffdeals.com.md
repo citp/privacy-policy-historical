@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfoffdeals.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221093145id_/http%3A//www.halfoffdeals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfoffdeals.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422040614id_/http%3A//www.halfoffdeals.com/privacy.php) for the most accurate reproduction.*
 
 # Half Off Deals.com Privacy Policy
 
