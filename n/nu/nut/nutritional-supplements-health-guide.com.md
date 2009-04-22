@@ -1,23 +1,31 @@
-> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120753id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422213258id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nutritional-Supplements-Health-Guide.com
 
-Nutritional-Supplements-Health-Guide.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+Privacy Policy for / www.nutritional-supplements-health-guide.com
 
-## Routine Information Collection
+At www.nutritional-supplements-health-guide.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.nutritional-supplements-health-guide.com and how it is used.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+We will not redistribute any personal information, email-address, usernames, or any other type of information you submit to us in the process of participating in the www.nutritional-supplements-health-guide.com website, blog or forums.
 
-## Cookies and Web Beacons
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Where necessary, Nutritional-Supplements-Health-Guide.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Google and the DoubleClick DART cookie:
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-## Controlling Your Privacy
+Log Files
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Like many other Web sites, www.nutritional-supplements-health-guide.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Contact Information
+Cookies and Web Beacons
 
-Concerns or questions about this privacy policy can be directed to info@nutritional-supplements-health-guide.com for further clarification. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Clickbank, Amazon, etc..
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.nutritional-supplements-health-guide.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.nutritional-supplements-health-guide.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.nutritional-supplements-health-guide.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
