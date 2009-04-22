@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018084212id_/http%3A//www.datpiff.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422224525id_/http%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
 
-# DatPiff :: Terms & Conditions of Use
+# DatPiff :: Privacy Policy
 
-**Our Commitment to Privacy**
+Our Commitment to Privacy
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
-**What Information Do We Collect?**
+What Information Do We Collect?
 
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
@@ -61,7 +61,6 @@ When you send confidential personal credit card information to our processors li
 
 Other e-mail that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured e-mail.
 
-  
 How Do We Protect Your Information?
 
 **Information Security.**
@@ -76,11 +75,11 @@ Periodically, our operations and business practices are reviewed for compliance 
 
 Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
 
-**How Can You Access and Correct Your Information?**
+How Can You Access and Correct Your Information?
 
 You may request access to all your personally identifiable information that we collect online and maintain in our database by [contacting us](https://web.archive.org/contact.php). 
 
-**Do We Disclose Information to Outside Parties?**
+Do We Disclose Information to Outside Parties?
 
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
 
