@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221192258id_/http%3A//www.maxworkouts.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422163502id_/http%3A//www.maxworkouts.com/index.php/site/privacy) for the most accurate reproduction.*
 
 # Max Workouts Privacy Policy
 
@@ -30,3 +30,13 @@ Shin Ohtake’s unconventional, no-nonsense approach to fitness & fat loss has m
   * Interval Training At It's Best "MAX Workouts is interval training at it's absolute best. The workouts are fast and _intense_. You can't possibly get bored with this program...and you _will_ get in phenomenal shape" \-- Erin Silva 
 
 
+
+Download Your FREE Report
+
+ **10 Tips To Improve Your Workouts & Get Better Results Today**  
+ ****  
+
+
+In this report, I reveal the top workout myths that are sabotaging your workout efforts. I'll tell you exactly how to avoid these common mistakes so you can start working out more effectively. Implement these tips into your next workout and see the difference right away!
+
+Your free report will be delivered to your email box instantly. Plus you'll get my email newsletter, jam-packed with more fitness tips, articles, exercise tutorials, and much more - totally free. 
