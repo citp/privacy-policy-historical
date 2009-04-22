@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avature.net privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221000659id_/http%3A//www.avature.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avature.net privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422055710id_/http%3A//www.avature.net/privacy-policy) for the most accurate reproduction.*
 
-# Avature | Global Recruiting Services
+# Website Privacy Policy | Avature
 
 ### Personal information
 
@@ -48,11 +48,3 @@ If you choose to visit one of these Web sites, you are agreeing to let Avature c
 ### Disclosures Required By Law
 
 Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
-
-[We self-certify compliance with:](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
-
-[](http://www.export.gov/safeharbor)
-
-Avature USA has certified its adherence to the U.S. Department of Commerce's Safe Harbor Principles in connection with the U.S. implementation of the European Union Data Protection Directive. For more information about the Safe Harbor Privacy Principles and to view the certification for Avature USA, LLC, visit the U.S. Department of Commerce's Safe Harbor web site at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). You may also contact us directly at **212-380-4160 ext 338** to learn more about this certification.
-
-[Click here to read our Safe Harbor policy](https://web.archive.org/privacy-policy/safe-harbor/)
