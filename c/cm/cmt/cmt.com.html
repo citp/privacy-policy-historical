@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2007-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210122249id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2009-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090422152607id_/http%3A//cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -36,9 +36,11 @@ var if_nt_bandwidth='vhigh';
 var azName = "";
 var flipName = "";
 var flipTitle = "";
+var seriesName = "";
 if(document.azName){azName = "&artist_rollup=" + document.azName;}
 if(document.flipName){flipName = "&artist_rollup=" + document.flipName;}
 if(document.flipTitle){flipTitle = "&flipbook_title=" + document.flipTitle;}
+if(document.seriesName){seriesName = "&series_rollup=" + document.seriesName;}
 var siteHost = document.location.hostname.toString(); siteHost = siteHost.split(".");
 var dynSite = siteHost[0]=="www"?siteHost[1]:"newdev.cmt";
 var if_nt_Screen_Attr = screen.height + "x" + screen.width + "x" + screen.colorDepth;
@@ -48,7 +50,7 @@ var partsParts = (docURL.split("//"))[1].split(".com")[1].split("?")[0];
 var if_nt_url= escape(partsParts);
 var pageName = "";
 var if_nt_Screen_Attr = screen.height + "x" + screen.width + "x" + screen.colorDepth;
-var mep1 = sections + "&pageName=privacy.jhtml" + azName + flipName + flipTitle + "&if_nt_Screen_Attr=" + if_nt_Screen_Attr + "&if_nt_Flash=" + if_nt_Flash + "&if_clientCode=" + if_clientCode + "&if_nt_userName=" + if_nt_userName + "&if_nt_zyg=" + if_nt_zyg + "&if_nt_span=" + if_nt_span + "&if_nt_bandwidth=" + if_nt_bandwidth;
+var mep1 = sections + "&pageName=privacy.jhtml" + azName + flipName + flipTitle + seriesName + "&if_nt_Screen_Attr=" + if_nt_Screen_Attr + "&if_nt_Flash=" + if_nt_Flash + "&if_clientCode=" + if_clientCode + "&if_nt_userName=" + if_nt_userName + "&if_nt_zyg=" + if_nt_zyg + "&if_nt_span=" + if_nt_span + "&if_nt_bandwidth=" + if_nt_bandwidth;
 var bc="&if_nt_Browser_Combination=" + escape(window.navigator.userAgent);
 var Site=dynSite; var if_SiteID="10";
 </script>
@@ -59,17 +61,20 @@ repValS = repValS.replace(/ /g, "");
 mep1 += repValS;
 </script>
 
-<script type="text/javascript" src="/sitewide/scripts/mtvi_reporting.js"></script></head><body><div style="position:absolute; visibility:hidden; width:1px; height:1px; border:0px; top:-100px; left:-100px" id="urchin"><iframe src="https://web.archive.org/web/20080412191320/http://media.mtvnservices.com/metrics/urchin.html?uri=web.archive.org/"></iframe></div><div style="display:none;" id="s_code"><img name="s_i_cmtvia" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cmtvia/1/H.1-pdv-2/s86465292250120?[AQB]&amp;ndh=1&amp;t=24/1/2020%202%3A45%3A37%201%200&amp;g=https%3A//web.archive.org/web/20071210122249id_/http%253A//www.cmt.com/interact/terms/privacy.jhtml&amp;cc=USD&amp;ch=web&amp;h2=web/web/20071210122249id_/http%253A/www.cmt.com/interact/terms/privacy.jhtml&amp;c4=not_logged_in&amp;c21=cmt&amp;c41=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></div>
+<script type="text/javascript" src="/sitewide/scripts/mtvi_reporting.js"></script>
 <script type="text/javascript" src="/sitewide/scripts/mtvi_reporting_overrides.jhtml"></script>
 <script type="text/javascript" src="/sitewide/scripts/mtvi_reporting_setvalues.js"></script>
 
-<link rel="stylesheet" href="/sitewide/styles/global.css" type="text/css">
-<link rel="stylesheet" href="/sitewide/styles/menus.css" type="text/css">
+<link rel="stylesheet" href="/sitewide/styles/global_legacy.css" type="text/css">
 
-<script language="javascript" src="/sitewide/scripts/common.js"></script>
-<script language="javascript" src="/sitewide/scripts/menus.js"></script>
-<script language="javascript" src="/sitewide/scripts/flipbook.js"></script>
-<script language="javascript" src="/global/apps/urge/launch.jhtml?referrer=cmt"></script>
+<link rel="stylesheet" href="/sitewide/styles/global_header.css" type="text/css">
+<link rel="stylesheet" href="/sitewide/styles/global_footer.css" type="text/css">
+
+<script type="text/javascript" src="/sitewide/scripts/common.js"></script>
+<script type="text/javascript" src="/sitewide/scripts/flipbook.js"></script>
+<script type="text/javascript" src="/global/apps/urge/launch.jhtml?referrer=cmt"></script>
+<script type="text/javascript" src="http://www.rhapsody.com/simple.js"></script>
+<script type="text/javascript" src="/global/scripts/jquery/jquery-1.2.6.js"></script>
 
 <script language="javascript">
 var additionalVals="";
@@ -94,16 +99,13 @@ if(clipyNew.indexOf('albumid=')<0 && window.albumid)
 clipy = clipy + "&" + "albumid=" + albumid
 
 if( clipyNew.indexOf('type=listeningparty') < 0) {
-sUrl = "/loaded/player.jhtml";
-window_width = "755";
-window_height = "555";
-window_name = "cmtloaded";
+sUrl = "/loaded/player.jhtml?"+clipyNew;
+window.location = sUrl;
 } else {
 sUrl = "/sitewide/apps/mediaplayer/index.jhtml" ;
 window_width = 800;
 window_height = 575;
 window_name = "listeningparty";
-}
 
 ap = "&adPth=" + escape("/sitewide/ads/adsetup/interact/adplacement.jhtml");
 ap = ap.substring(0,ap.length-17);
@@ -119,27 +121,29 @@ clipy = clipy.replace(/\'/g,'\\\'');
 eval("videoPopUp=window.open('" + sUrl + "?" + clipy + ss + ap + additionalVals + "',window_name,'width='+window_width+',height='+window_height+',scrollbars=scroll,resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no')");
 
 }
+
+}
 </script>
 
-<script language="javascript">window.name = 'cmt';</script>
-<script language="javascript" src="/sitewide/scripts/launchradio.jhtml"></script>
+<script type="text/javascript">window.name = 'cmt';</script>
+<script type="text/javascript">RhapsodyPlayer.setTrackingCodes("cmt", "cmt", "cmt");</script>
+<script type="text/javascript" src="/sitewide/scripts/launchradio.jhtml"></script>
+
 <!-- googleon: all -->
 
 <script language="JavaScript" src="/sitewide/scripts/mouseover.js"></script>
 <script language="JavaScript" src="/sitewide/scripts/placeholders.js"></script>
 
-<!--[if IE 5]>
-<link rel="stylesheet" href="/sitewide/styles/ie5_fixes.css" type="text/css">
-<script language="javascript" src="/sitewide/scripts/ie5_box_fix.js"></script>
-<script language="javascript" src="/sitewide/scripts/ie5_nav_fix.js"></script>
-<![endif]-->
+<!-- fix guillotine bug in IE6 -->
 <!--[if IE 6]>
-<link rel="stylesheet" href="/sitewide/styles/ie6_fixes.css" type="text/css">
+<link rel="stylesheet" href="/sitewide/styles/ie6_fixes.css" type="text/css"/>
 <![endif]-->
 
+<!-- pop loaded player on page load if popVideo is passed -->
 
+</head>
 
-
+<body>
 
 <!-- body_element.jhtml -->
 
@@ -148,293 +152,53 @@ eval("videoPopUp=window.open('" + sUrl + "?" + clipy + ss + ap + additionalVals 
 <!-- /body_element.jhtml -->
 
 <div id="pagebody">
+<!-- link for cmt logo space -->
+<div id="header_cmt_logo"><a href="/"><img src="/sitewide/assets/img/transpixel.gif" border="0" width="225" height="90" alt="CMT"></a></div>
+
 <!-- top ad space -->
-<div id="header_ad_space">
+<div id="header_ad">
 
 <div id="topad">
-<script type="text/javascript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}var ad='<IFRAME SRC="http://ad.doubleclick.net/adi/country.mtvi/interact/terms/atf_adi_standard;sec0=interact;sec1=terms;pageName=privacy;dcopt=ist;pos=atf;tag=adi;mtype=standard;u=|sec0-interact|sec1-terms|pageName-privacy|dcopt-ist|pos-atf|tag-adi|mtype-standard;sz=728x90;tile=1;ord=' + ord + '?" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no" width=728 height=90></IFRAME>';
-document.write(ad);</script><iframe src="http://ad.doubleclick.net/adi/country.mtvi/interact/terms/atf_adi_standard;sec0=interact;sec1=terms;pageName=privacy;dcopt=ist;pos=atf;tag=adi;mtype=standard;u=|sec0-interact|sec1-terms|pageName-privacy|dcopt-ist|pos-atf|tag-adi|mtype-standard;sz=728x90;tile=1;ord=876419879165312000?" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90"></iframe>
+<script type="text/javascript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}var ad='<IFRAME SRC="http://ad.doubleclick.net/adi/country.mtvi/unk_i_s/interact/terms;sec0=interact;sec1=terms;pageName=privacy;pos=unk;tag=adi;mtype=standard;sz=728x90;tile=1;dcopt=ist;;u=pageName-privacy|pos-unk|tag-adi|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=' + ord + '?" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no" width=728 height=90></IFRAME>';
+document.write(ad);</script><iframe src="http://ad.doubleclick.net/adi/country.mtvi/unk_i_s/interact/terms;sec0=interact;sec1=terms;pageName=privacy;pos=unk;tag=adi;mtype=standard;sz=728x90;tile=1;dcopt=ist;;u=pageName-privacy|pos-unk|tag-adi|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=315453622342580350?" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90"></iframe>
 </div>
 
 </div>
 
 <!-- global header goes here -->
+<div id="header">
 
-<div id="header_tier_1">
-<div id="header_logo_module"><a href="/"><img src="/sitewide/includes/headerfooter/img/hdr_cmt_logo.gif" width="124" height="49" border="0" alt="CMT.com"></a></div>
-<div id="header_interact_module">
-
-<a href="/interact/my_account/join.jhtml">Join CMT.com</a> | <a href="/interact/my_account/signin.jhtml?serv=url&amp;mtvparams=/interact/terms/privacy.jhtml">Sign In</a> | 
-
-<a href="http://shop.cmt.com/viewcart.htm">Cart<img src="/sitewide/includes/headerfooter/img/cart-icon.gif" width="11" height="16" border="0" align="middle" style="padding-left:5px;"></a> | <a href="/interact/help/">Help</a><img src="/sitewide/assets/img/decor/spc.gif" width="10" height="1"></div>
-<div id="header_search_module"><form method="get" action="/search/index.jhtml" name="searchForm">
-<span class="search_label">SEARCH:</span>
-<input name="searchterm" type="text" value="">
-&nbsp;
-<input type="image" src="/sitewide/includes/headerfooter/img/hdr_search_go.gif" width="23" height="18" border="0" class="go"><img src="/sitewide/assets/img/decor/spc.gif" width="10" height="1">
-</form>
-
-<script>
-searchOK = true;
-function timer() {
-searchOK = false; setTimeout("searchOK=true",2500)
-}
-function formSub() {
-if (searchOK) {	timer();
-return true; }
-else {return false;	}
-}
-document.searchForm.onsubmit=formSub;
-</script></div>
-<div id="header_menu_module">
-
-<a href="/loaded/" onmouseover="menu(0);" onmouseout="headerOutX(0);"><img src="/sitewide/includes/headerfooter/img/hdr_nav_video.gif" width="63" height="17" alt="video" name="hdr_nav_video" class="header_nav"></a><a href="/news/" onmouseover="menu(1)" onmouseout="headerOutX(1)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_news.gif" width="60" height="17" alt="news" name="hdr_nav_news" class="header_nav"></a><a href="/artists/" onmouseover="menu(2)" onmouseout="headerOutX(2)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_artists.gif" width="69" height="17" alt="artists" name="hdr_nav_artists" class="header_nav"></a><a href="/music/" onmouseover="menu(3)" onmouseout="headerOutX(3)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_music.gif" width="63" height="17" alt="music" name="hdr_nav_music" class="header_nav"></a><a href="/shows/" onmouseover="menu(4)" onmouseout="headerOutX(4)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_on_tv.gif" width="62" height="17" alt="on tv" name="hdr_nav_on_tv" class="header_nav"></a><a href="/interact/" onmouseover="menu(5)" onmouseout="headerOutX(5)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_interact.gif" width="75" height="17" alt="interact" name="hdr_nav_interact" class="header_nav"></a><a href="/games/" onmouseover="menu(6)" onmouseout="headerOutX(6)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_games.gif" width="67" height="17" alt="games" name="hdr_nav_games" class="header_nav"></a><a href="/mobile/" onmouseover="menu(7)" onmouseout="headerOutX(7)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_mobile.gif" width="67" height="17" alt="mobile" name="hdr_nav_mobile" class="header_nav"></a><a href="http://shop.cmt.com/" onmouseover="menu(8)" onmouseout="headerOutX(8)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_shop.gif" width="58" height="17" alt="shop" name="hdr_nav_shop" class="header_nav"></a><a href="http://blog.cmt.com/" onmouseover="menu(9)" onmouseout="headerOutX(9)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_blogs.gif" width="58" height="17" alt="blogs" name="hdr_nav_blogs" class="header_nav"></a><a href="http://www.rhapsody.com/country" onmouseover="menu(10)" onmouseout="headerOutX(10)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_listen.gif" width="63" height="17" alt="listen" name="hdr_nav_listen" class="header_nav"></a><img src="/sitewide/includes/headerfooter/img/hdr_nav_end.gif" width="1" height="17" alt="" class="header_nav">
-
-<div class="header_menu" id="menu0">
-<ul>
-<li>
-<a href="/loaded/">CMT Loaded</a>
-</li>
-<li>
-<a href="/music/videos/">Music Videos</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu1">
-<ul>
-<li>
-<a href="/news/">News Main</a>
-</li>
-<li>
-<a href="/news/browse_by_artist/a.jhtml">Browse by Artists</a>
-</li>
-<li>
-<a href="/news/archive.jhtml">Browse by Date</a>
-</li>
-<li>
-<a href="/news/news_in_brief/">News in Brief</a>
-</li>
-<li>
-<a href="/news/clips.jhtml">CMT News Clips</a>
-</li>
-<li>
-<a href="/news/nashville_skyline/archive.jhtml">Nashville Skyline</a>
-</li>
-<li>
-<a href="/news/hot_dish/archive.jhtml">CMT Hot Dish</a>
-</li>
-<li>
-<a href="/news/hot_dish/recipe_archive.jhtml">CMT Hot Dish Recipes</a>
-</li>
-<li>
-<a href="/news/20_questions/archive.jhtml">20 Questions</a>
-</li>
-<li>
-<a href="/news/today_in_country_music/">Today in Country Music</a>
-</li>
-<li>
-<a href="/rss/">RSS News Feeds</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu2">
-<ul>
-<li>
-<a href="/artists/">Artists Main</a>
-</li>
-<li>
-<a href="/artists/browse/a.jhtml">Browse Artists</a>
-</li>
-<li>
-<a href="/artists/flipbooks/">Photo Galleries</a>
-</li>
-<li>
-<a href="/artists/tours/">Tour Dates</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu3">
-<ul>
-<li>
-<a href="/music/">Music Main</a>
-</li>
-<li>
-<a href="/cma-awards/">CMA Awards</a>
-</li>
-<li>
-<a href="/asm/texas_tourism/2007/">Texas Music</a>
-</li>
-<li>
-<a href="/music/listening_parties/">Hear Music Now</a>
-</li>
-<li>
-<a href="/artists/cmt-on-tour/sugarland/2007/">CMT On Tour</a>
-</li>
-<li>
-<a href="/music/radio/">Radio CMT</a>
-</li>
-<li>
-<a href="/music/videos/">Music Videos</a>
-</li>
-<li>
-<a href="/music/studio_330_sessions/">Unplugged at Studio 330</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu4">
-<ul>
-<li>
-<a href="/shows/">Shows Main</a>
-</li>
-<li>
-<a href="/shows/schedule/">TV Schedule</a>
-</li>
-<li>
-<a href="/shows/be_on_tv/">Be on TV</a>
-</li>
-<li>
-<a href="/shows/dyn/cmt_crossroads/series.jhtml">CMT Crossroads</a>
-</li>
-<li>
-<a href="/shows/events/cmt_music_awards/2007/">2007 CMT Music Awards</a>
-</li>
-<li>
-<a href="/on_tv/cmt_pure_country/">CMT Pure Country</a>
-</li>
-<li>
-<a href="http://www.mhd.tv" rel="nofollow">MHD TV</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu5">
-<ul>
-<li>
-<a href="/interact/">Interact Main</a>
-</li>
-<li>
-<a href="/interact/calling_all_fans/">Calling All Fans</a>
-</li>
-<li>
-<a href="/interact/music_city_madness/">Music City Madness</a>
-</li>
-<li>
-<a href="http://cmtauctions.com" rel="nofollow">Auctions</a>
-</li>
-<li>
-<a href="/interact/boards/">Message Boards</a>
-</li>
-<li>
-<a href="/interact/sweepstakes/">Sweepstakes</a>
-</li>
-<li>
-<a href="/interact/newsletters/">Newsletters</a>
-</li>
-<li>
-<a href="/asm/racing/">Racing Corner</a>
-</li>
-<li>
-<a href="/one_country/">CMT One Country</a>
-</li>
-<li>
-<a href="/interact/my_account/join.jhtml">Join CMT</a>
-</li>
-<li>
-<a href="/interact/help/">Help/FAQ</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu6">
-<ul>
-<li>
-<a href="http://games.cmt.com/index.php">Games Main</a>
-</li>
-<li>
-<a href="http://games.cmt.com/genre.php?genreid=11">Action &amp; Arcade</a>
-</li>
-<li>
-<a href="http://games.cmt.com/genre.php?genreid=12">Card &amp; Board</a>
-</li>
-<li>
-<a href="http://games.cmt.com/genre.php?genreid=13">Puzzle Games</a>
-</li>
-<li>
-<a href="http://games.cmt.com/games.php">All Games</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu7">
-<ul>
-<li>
-<a href="/mobile/">Mobile Main</a>
-</li>
-<li>
-<a href="/mobile/ringtones/">Ringtones</a>
-</li>
-<li>
-<a href="/mobile/ringtones/browse_all.jhtml">Browse Ringtones</a>
-</li>
-<li>
-<a href="/mobile/wallpapers/">Wallpapers</a>
-</li>
-<li>
-<a href="/mobile/wallpapers/browse_all.jhtml">Browse Wallpapers</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu8">
-<ul>
-<li>
-<a href="http://shop.cmt.com/viewcategory.htm?categoryId=422767">Shows</a>
-</li>
-<li>
-<a href="http://shop.cmt.com/viewcategory.htm?categoryId=422768">Artists</a>
-</li>
-<li>
-<a href="http://shop.cmt.com/viewcategory.htm?categoryId=422769">Music</a>
-</li>
-<li>
-<a href="http://shop.cmt.com/viewcategory.htm?categoryId=422770">DVD</a>
-</li>
-<li>
-<a href="http://shop.cmt.com/viewcategory.htm?categoryId=422771">Books</a>
-</li>
-<li>
-<a href="/games/info/karaoke_revolution/">Karaoke Revolution</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu9">
-<ul>
-<li>
-<a href="http://blog.cmt.com/">Country Music Blog</a>
-</li>
-<li>
-<a href="http://showsblog.cmt.com/">Shows Blog</a>
-</li>
-</ul>
-</div>
-<div class="header_menu" id="menu10">
-<ul>
-<li>
-<a href="http://www.rhapsody.com/country" rel="nofollow">Listen on Rhapsody</a>
-</li>
-</ul>
-</div>
-
-<!--[if IE 5]>
-<script language="javascript">
-fixNavList(document.all.item('menu1'));
-fixNavList(document.all.item('menu2'));
-fixNavList(document.all.item('menu3'));
-fixNavList(document.all.item('menu4'));
-fixNavList(document.all.item('menu5'));
-fixNavList(document.all.item('menu6'));
+<!-- community -->
+<div id="flux-login">
+<script src="http://widgetsll.flux.com/Runtime.js" type="text/javascript"></script>
+<script src="http://widgets.flux.com/Context.js?communityUcid=BEDCFFFF01939AFB0002FFFFDCBE&amp;disableCommunityCommonCss=on" type="text/javascript"></script>
+<script type="text/javascript">
+Flux.Utils.WidgetsLoader.createWidget('QuickMenu2',{accessKey: '76f2b9ec-0f13-458a-84c3-025556d1f8d5',textFont: 'Arial',textFontSize: '10px',textColor: '#333333',linkColor: '#4866C8',borderStyle: 'solid',borderColor: '#333333',menuBackground: '#E6E6E6',menuItemBackground: '#CCCCCC'});
 </script>
-<![endif]--></div>
-
 </div>
+
+<div id="searchbar">
+<div id="header_search">
+<form method="get" action="/search/index.jhtml" name="searchForm" id="searchForm" onsubmit="return false;">
+<input id="sitesearch" name="searchterm" onkeypress="catchEnter(this.form);" type="text" value="Search" onfocus="this.value = ''">
+<button type="submit" id="searchcmt-btn" onclick="submitSearch(this.form,'cmt'); return false;">Search CMT.com</button>&nbsp;<button type="submit" id="searchweb-btn" onclick="submitSearch(this.form,'web'); return false;">Web</button>
+</form>
+</div>
+
+<div id="header_browse">
+Browse Artists<br>
+<a class="browselink" href="/artists/browse/a.jhtml">A</a><a class="browselink" href="/artists/browse/b.jhtml">B</a><a class="browselink" href="/artists/browse/c.jhtml">C</a><a class="browselink" href="/artists/browse/d.jhtml">D</a><a class="browselink" href="/artists/browse/e.jhtml">E</a><a class="browselink" href="/artists/browse/f.jhtml">F</a><a class="browselink" href="/artists/browse/g.jhtml">G</a><a class="browselink" href="/artists/browse/h.jhtml">H</a><a class="browselink" href="/artists/browse/i.jhtml">I</a><a class="browselink" href="/artists/browse/j.jhtml">J</a><a class="browselink" href="/artists/browse/k.jhtml">K</a><a class="browselink" href="/artists/browse/l.jhtml">L</a><a class="browselink" href="/artists/browse/m.jhtml">M</a><a class="browselink" href="/artists/browse/n.jhtml">N</a><a class="browselink" href="/artists/browse/o.jhtml">O</a><a class="browselink" href="/artists/browse/p.jhtml">P</a><a class="browselink" href="/artists/browse/q.jhtml">Q</a><a class="browselink" href="/artists/browse/r.jhtml">R</a><a class="browselink" href="/artists/browse/s.jhtml">S</a><a class="browselink" href="/artists/browse/t.jhtml">T</a><a class="browselink" href="/artists/browse/u.jhtml">U</a><a class="browselink" href="/artists/browse/v.jhtml">V</a><a class="browselink" href="/artists/browse/w.jhtml">W</a><a class="browselink" href="/artists/browse/x.jhtml">X</a><a class="browselink" href="/artists/browse/y.jhtml">Y</a><a class="browselink" href="/artists/browse/z.jhtml">Z</a><a class="browselink" href="/artists/browse/123.jhtml">#</a>
+</div>
+
+</div><!-- searchbar -->
+
+<!-- menubar -->
+<div id="header_menu_container"><div id="menu_links"><a href="/video/">Videos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/photos/">Photos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/radio/">Radio</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/lyrics/">Lyrics</a></div><ul id="header_menu"><li><a class="top" href="/">Home</a></li><li><a class="top trigger" href="/news/">News</a><ul><li><a href="/video/franchise/1369/cmt_insider.jhtml">CMT News Clips</a></li><li><a href="/news/nashville_skyline/archive.jhtml">Nashville Skyline</a></li><li><a href="/news/hot_dish/archive.jhtml">Hot Dish</a></li><li><a href="/news/20_questions/archive.jhtml">20 Questions</a></li><li><a href="/news/today_in_country_music/">Today in Country Music</a></li><li><a href="/news/archive.jhtml">News Archives</a></li></ul></li><li><a class="top trigger" href="/music/">Music</a><ul><li><a href="/music/artists/">Artists</a></li><li><a href="/video/music-videos/">Music Videos</a></li><li><a href="/music/radio/">Radio CMT</a></li><li><a href="/music/new-music/">New Music / The Leak</a></li><li><a href="/music/lyrics/">Lyrics</a></li><li><a href="/artists/tours/">Tours</a></li><li><a href="/music/studio_330_sessions/">Unplugged at Studio 330</a></li><li><a href="http://blog.cmt.com/">Country Music Blog</a></li><li><a href="http://mp3.rhapsody.com?pcode=via&amp;cpath=cmt_web&amp;rsrc=cmt_downloadtextnav">Download on Rhapsody</a></li></ul></li><li><a class="top trigger" href="/shows/">Shows</a><ul><li><a href="/shows/schedule/">TV Schedule</a></li><li><a href="/on_tv/cmt_pure_country/">CMT Pure Country</a></li><li><a href="/shows/be_on_tv/">Be on TV</a></li><li><a href="/video/show-videos/">CMT Show Videos</a></li><li><a href="http://www.mhd.tv" rel="nofollow">MHD TV</a></li><li><a href="http://blog.cmt.com/category/shows/">Shows Blog</a></li></ul></li><li><a class="top trigger" href="/community/">Community</a><ul><li><a href="http://community.cmt.com">Message Boards</a></li><li><a href="http://blog.cmt.com/">CMT Blog</a></li><li><a href="/one_country/">CMT One Country</a></li><li><a href="/interact/newsletters/">Newsletters</a></li><li><a href="http://cmtauctions.com" rel="nofollow">Auctions</a></li><li><a href="/community/sweepstakes/">Sweepstakes</a></li><li><a href="/interact/help/">FAQ</a></li></ul></li><li><a class="top trigger" href="/mobile/">Mobile</a><ul><li><a href="/mobile/shows.jhtml">Mobile Shows</a></li><li><a href="/mobile/wap.jhtml">CMT Mobile Web (WAP)</a></li><li><a href="/mobile/carriers.jhtml">Mobile Providers</a></li><li><a href="/mobile/faq/">Mobile FAQ</a></li></ul></li></ul></div>
+
+</div><!-- header -->
+
 <div id="main">
-<div id="content">
+<div id="contentarea">
 
 <h1 class="topheading long">
 <div class="filler"></div>
@@ -598,24 +362,27 @@ Copyright © 2005 Country Music Television, Inc. a subsidiary of MTV Networks, a
 </div><!-- main -->
 <!-- global page footer goes here -->
 
+<div id="footer_container">
 <div id="footer">
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
 <td width="61%">
 <p class="nav">
-<nobr><a href="/loaded/">Video</a> | <a href="/news/">News</a> | <a href="/artists/">Artists</a> | <a href="/music/">Music</a> | <a href="/shows/">On&nbsp;TV</a> | <a href="/interact/">Interact</a> | <a href="/games/">Games</a> | <a href="/mobile/">Mobile</a> | <a href="http://shop.cmt.com/">Shop</a> | <a href="http://www.rhapsody.com/country" nofollow="nofollow">Listen</a></nobr>
+<nobr>
+<a href="/news/">News</a> | <a href="/music/">Music</a> | <a href="/shows/">On&nbsp;TV</a> | <a href="/community/">Community</a> | <a href="/mobile/">Mobile</a> | <a href="/video/">Videos</a> | <a href="/photos/">Photos</a> | <a href="/music/radio/">Radio</a> | <a href="/music/lyrics/">Lyrics</a>
+</nobr>
 </p>
 <p class="nav">
-<a href="http://webtools.cmt.com/">CMT Webtools</a> | <a href="/interact/help/">Help/FAQ</a> 
-<!-- commented out --><!-- end comment --> | <a href="/adspecs/">Advertising</a> | <a href="/sitemap/">Sitemap</a> | <a href="/one_country/">CMT One Country</a></p>
+<a href="http://webtools.cmt.com/">CMT Webtools</a> | <a href="/interact/help/">Help/FAQ</a><!-- commented out --><!-- end comment --> | <a href="/adspecs/">Advertising</a> | <a href="/sitemap/">Sitemap</a> | <a href="/one_country/">CMT One Country</a>
+</p>
 <p>
-E-commerce on this website is brought to you by MTVN Direct Inc.
+E-commerce on this website is brought to you by MTVN Direct Inc. 
 </p>
 </td>
 <td width="39%" align="right" class="copyright_border">
 <p class="copyright">
 <a href="/interact/terms/">Terms of Use</a> | <a href="https://jobhuntweb.viacom.com/jobhunt/main/jobhome.asp">Job Opportunities</a><br>
-<a href="/interact/terms/privacy.jhtml">Privacy Statement</a> | <a href="/interact/terms/copyright_compliance_policy.jhtml">Copyright Compliance Policy</a>
+<a href="/interact/terms/privacy.jhtml">Privacy Statement</a> | <a href="/interact/terms/user_content.jhtml">User Generated Content Statement</a> <a href="/interact/terms/copyright_compliance_policy.jhtml">Copyright Compliance Policy</a> 
 </p>
 </td>
 </tr>
@@ -624,12 +391,13 @@ E-commerce on this website is brought to you by MTVN Direct Inc.
 
 <img src="/sitewide/assets/img/logos/mtvn_logo_dark.gif" width="129" height="24" border="0" alt="MTV Networks">
 
-©2007 Country Music Television, Inc., a Viacom company. A division of <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a>. All Rights Reserved.
+©2009 Country Music Television, Inc., a Viacom company. A division of <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a>. All Rights Reserved.
 </div>
 
 </div><!-- footer -->
+</div>
 
-</div><!-- body -->
+</div><!-- pagebody -->
 
 <script language="javascript"> 
 var orgID="10"
