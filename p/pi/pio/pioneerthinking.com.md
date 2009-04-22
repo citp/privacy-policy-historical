@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163526id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422135439id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Pioneer Thinking
+# Privacy Policy - Pioneer Thinking
 
 Dear Friend,
 
@@ -11,6 +11,8 @@ While visiting Pioneer Thinking, there may be times that information about you m
 While **visiting our website** , your I.P address is logged by our server. Your I.P address is a unique number assigned to your computer. With your I.P address we can determine, your geographical location, how long you visited the site and what pages you viewed. We can also determine where you came from to enter our site. It does not identify you personally or reveal personal information about you. With this information we determine average visitor stay, geographical statistics, what site/search engine our visitors are coming from and what pages are most and least popular on our site... Our server logs are _secure_ and are not shared with anyone else.
 
 **External Links**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 While surfing our site, you may on occassion visit **third party sites** via text links or advertisements.... Although every attempt is made to ensure that we only associate with good quality, family oriented sites. We have no control over their content or products, nor do we endorse their products or services. Please read the privacy policies to any site you visit.
 
@@ -57,7 +59,7 @@ Please see our Online Agreement for other [terms and conditions](http://www.pion
 
 **Please Select** [Mind and Body](http://www.pioneerthinking.com/mbs.html) / [Lifestyle](http://www.pioneerthinking.com/lifestyle.html) / [Discussion Boards](http://www.pioneerthinking.com/cgi-bin/mb/YaBB.pl)
 
-© Copyright 1999 - 2007 Pioneer Thinking Company. All Right Reserved
+© Copyright 1999 - 2009 Pioneer Thinking Company. All Right Reserved
  
 No part of this website may be reproduced or transmitted in any form or by any means
 without the expressed permission of Pioneer Thinking
