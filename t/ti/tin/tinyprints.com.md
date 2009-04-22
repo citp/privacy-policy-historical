@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152831id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422130644id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # tiny*prints Christmas Holiday Cards, Birth Announcements, Baby Shower Invitations & Birthday Invitations
 
@@ -16,12 +16,16 @@ We use your personal information for the following general purposes: fulfill you
 
 We use anonymous information, such as that pertaining to web pages viewed, to analyze trends, track user's movements, provide a better website experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. 
 
-Information Sharing and Disclosure   
-Tiny Prints will not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide Tiny Prints products or services that you have requested, when we otherwise have your permission, or under the following circumstances: 
+Information Sharing  
+From time to time we share the personal information we collect with trusted companies who work with or on behalf of Tiny Prints. We may also combine personal information with publicly available information and information we receive from or cross-reference with our partners. These companies may use your personal information to enhance and personalize your shopping experience with us, to communicate with you about products and events that may be of interest to you, and for other promotional purposes. Information sharing allows us to introduce new resources based on your interests and needs. With that end in mind, when you purchase an item, your customer information is shared with other select companies whose products and services you may find useful. 
 
-  * We provide the information to our trusted partners who work on behalf of or with Tiny Prints under confidentiality agreements. These companies may use your personal information to help Tiny Prints communicate with you about offers from Tiny Prints and our marketing partners. These companies do not have any independent right to share this information.
+Information Sharing Is Your Choice  
+It's your information and it's your choice. We understand and respect that not all customers may wish to allow us to share information with other select companies. If you do not want Tiny Prints to share your customer information, please immediately email us at [opt.out@tinyprints.com](mailto:opt.out@tinyprints.com) and we will remove your name from lists we share with other companies. After the six to eight week time period it takes to process your request, your information will no longer be shared. When contacting us, please clearly state your request, including your name, mailing address, email address, and phone number. 
+
+Under the following circumstances, we may still be required to share your personal information: 
+
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Tiny Printss Terms of Use, or as otherwise required by law.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Tiny Prints Terms of Use, or as otherwise required by law.
   * We transfer information about you if Tiny Prints is acquired by, reorganized or merged with another company. In such an event, you will have the opportunity to ask not to receive promotional information following any such change of control.
 
 Children's Information  
