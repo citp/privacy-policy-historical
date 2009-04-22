@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rateelert.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220145037id_/http%3A//rateelert.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateelert.com privacy policy that was archived on 2009-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090422145209id_/http%3A//rateelert.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Rateelert</title>
@@ -19,6 +19,43 @@ body {
 <body bgcolor="#FFFFFF">
 <!-- ImageReady Slices (Design_final_780.jpg) -->
 <div class="divcenter">
+<script type="text/javascript">
+		
+		function doUnload(status,id)
+		{
+			if(status=="active")
+			{				
+				/*				window.open("insurance_partner_popup.php?ins_id="+id,"_blank","top=150,left=200,height=500,width=600,scrollbars=yes");				
+				*/
+				if(/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+				{ 
+					//test for MSIE x.x;
+					 var ieversion=new Number(RegExp.$1);
+				}//if CLose.
+
+				if(ieversion >= 7)
+				{
+					if(
+						(window.event.clientY < 0 && window.event.clientX > 25 && (window.event.clientX < 490 || window.event.clientX > 755))						 
+					  )
+					 {
+						//alert("IE 7");
+						window.open("insurance_partner_popup.php?ins_id="+id,"_blank","top=150,left=200,height=500,width=600,scrollbars=yes");				
+
+					 }//if CLose
+				}//if CLose.
+				else
+				{
+					if (window.event.clientX < 0 && window.event.clientY < 0)
+					{
+						//alert("IE is not having version 7.");
+						window.open("insurance_partner_popup.php?ins_id="+id,"_blank","top=150,left=200,height=500,width=600,scrollbars=yes");				
+
+					}//if CLose.
+				}//else CLose.
+			}//if CLose
+		}
+	</script>
 <link rel="stylesheet" type="text/css" href="http://www.rateelert.com/css/Style.css">
 <table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
@@ -47,7 +84,8 @@ body {
     <td bgcolor="D8D5D5" width="1" height="1"></td>
     <td bgcolor="D8D5D5" width="112" height="1"></td>
   </tr>
-	</tbody></table><table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
+	</tbody></table>
+<table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
   
    <tbody><tr>
      <td colspan="6">&nbsp;</td>
@@ -167,13 +205,16 @@ body {
     <td bgcolor="D8D5D5" width="112" height="1"></td>
   </tr>
   <tr align="right"> 
-    <td height="42" colspan="6"><span class="text_grey">©2008 RateElert. All rights reserved&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.php">privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <td height="42" colspan="6"><span class="text_grey">©2009 RateElert. All rights reserved&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms.php">terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.php">privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="affiliates.php">affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="home_agents.php">agents</a></span> &nbsp;&nbsp;</td>
   </tr>
 </tbody></table>
 </div>&gt;
 <!-- End ImageReady Slices -->
 
+
+
+<script src="http://www.blvdstatus.com/js/initBlvdJS.php" type="text/javascript"></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
