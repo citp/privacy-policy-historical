@@ -1,201 +1,123 @@
-> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194636id_/http%3A//www.healthatoz.com/healthatoz/Atoz/confidential.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422085929id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# myOptumHealth
 
-  
-**HealthAtoZ Privacy Statement**
+**I.            Introduction and Applicability**
 
-[](http://www.truste.org/ivalidate.php?url=www.healthatoz.com&sealid=101)
+           PLEASE READ THIS PRIVACY AND SECURITY POLICY CAREFULLY BEFORE USING THIS SITE. myOptumHealth.com, by Medical Network, Inc., a subsidiary of OptumHealth, Inc. (“OptumHealth”, “myOptumHealth”, “Site”, “we”, or “us”), is very sensitive to privacy and security issues. We respect your right to privacy and know that you want us to keep your information that you send to us secure. This Privacy and Security Policy (“Privacy Policy”), along with the myOptumHealth [Terms and Conditions](http://www.myoptumhealth.com/portal/TermOfUse), describe the terms and conditions under which we offer you access to our Services. 
 
-Your privacy is very important to us. Please contact us at [web@healthAtoZ.com](mailto:%20web@healthAtoZ.com) if you have any questions or comments regarding our privacy policy or in what way any information you send us may be used. HealthAtoZ.com has created this statement to demonstrate our firm commitment to privacy. The following text discloses our information gathering practices for this Web site and explains how the information is used, protected, and, in certain limited instances that do not violate your privacy, disseminated.
+           This Privacy Policy applies to all public OptumHealth Sites owned or operated by OptumHealth. OptumHealth may share information among its affiliates, subsidiaries, or sites that it owns or controls, but such information is always protected under the terms of this Privacy Policy. By using these services and this Site(s), you signify your agreement to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use these services. We may revise and update this Privacy Policy at any time, as detailed below. Your continued use of myOptumHealth will mean you accept those changes. 
 
-HealthAtoZ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.healthatoz.com](http://www.healthatoz.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**II.          Protecting Your Personal and Health Information**
 
-If you have questions or concerns regarding this statement, you should first contact [HealthAtoZ's Privacy Team](mailto:%20web@healthAtoZ.com) at:
+           We have taken precautionary measures to make all information received from our online visitors secure against unauthorized access and use. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our Site.
 
-Princeton Park Corporate Center  
-1100 Cornwall Road, Suite 10  
-Monmouth Junction, NJ 08852  
-USA 
+**III.         Information We Disclose About You**
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [TRUSTe.](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
+           We do not sell or share your personal or identifiable information to companies outside of OptumHealth and its affiliates, with the exception that it may be necessary for us to provide your information to contracted external partners in order to respond to your inquiries and to provide you with services on your behalf. If we do this, our external partners may only use the information provided for the specified use and project and they are contractually bound to holding the information to the same or higher privacy and security standards as myOptumHealth.
 
-**IP Address and Cookies**
+           We may also provide your personal health information and that of other registered users in non-identifiable, aggregate form to third parties, but never in such a way that it violates your privacy.
 
-We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address also may be used to help identify you and to gather broad demographic information. We use only session cookies to keep track of your password and to personalize your Web page.
+           We will disclose your personally identifiable information as required by law and or to comply with a judicial proceeding, court order, or other legal process.
 
-If you wish to disable session cookies, please follow the appropriate instructions for your browser below. Please note that doing so will significantly increase the number of times you have to use the login function when using our site.
+**IV.         Personal Information We Collect About You**
 
-**Internet Explorer 6.0:**
+           The myOptumHealth registration form requires users to give us contact information and some demographic information. To use some Site functions, users must volunteer personal health information (such as, height, weight, and past medical history). Depending on the function, you may need to provide personal information for full functionality.
 
-  1. Choose Tools, then
-  2. Internet Options.
-  3. Click the Privacy tab,
-  4. Default setting is medium. Move the slider to determine which setting you prefer.
-  5. You can also click on Advanced for specialized cookie treatment.
+           We may use demographic and personal health information to tailor your experience at our Site, show you the content in which we think you might be interested, and display content according to your preferences. Your health information is password-protected to prevent access by other users.
 
+           We may conduct surveys on our Site in which we ask you and other visitors for contact information (such as your e-mail addresses). We use contact data from our surveys to send users information about our company. You have the option of choosing not to receive such e-mails at the time you register or at any time, as detailed below. 
 
-
-**Internet Explorer 5.0:**
-
-  1. Choose Tools, then
-  2. Internet Options.
-  3. Click the Security tab,
-  4. Click Internet, then Custom Level.
-  5. Scroll down to Cookies and choose one of the two options.
-
-
-
-**Internet Explorer 4.0:**
-
-  1. Choose View, then
-  2. Internet Options.
-  3. Click the Advanced tab,
-  4. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies. 
-
-
-
-**Internet Explorer 3.0:**
-
-  1. Choose View, then 
-  2. Option
-  3. Then go to the Advanced tab
-  4. Click on the button that says Warn Before Accepting "Cookies." 
-
-
-
-**Netscape 6.x or 7.x:**  
-Go to your Task Bar, click:
-
-  1. Edit, then
-  2. Preferences, then
-  3. Click on Privacy & Security.
-  4. Click on Cookies
-  5. On the right, set the cookie acceptance policy to the desired level. 
-
-
-
-**Netscape Communicator 4.0:**  
-Go to your Task Bar, click:
-
-  1. Edit, then
-  2. Preferences, then
-  3. Click on Advanced.
-  4. Set your options in the box labeled "Cookies". 
-
-
-
-**AOL 8.0**
-
-  1. Go to keyword: PREFERENCES.
-  2. From the organization column, click "Internet Properties (www)".
-  3. In the AOL Internet Properties window, click on the Privacy tab. 
-  4. Make sure the slider is set to the "Accept all cookies" option.
-  5. Click OK.
-
-
-
-**Information Provided at Registration**
-
-HealthAtoZ pledges to protect the privacy of all of our registered users. The HealthAtoZ registration form requires users to give us contact information (name and e-mail address), and demographic information (ZIP code or age). To use some site functions users must volunteer personal health information (such as, height, weight, and past medical history). There is no financial information collected.
-
-We use contact information from the registration form for internal purposes, to send the user news, information about new HealthAtoZ site features, services or updates, information about our company, and promotional material or offers from some of our corporate partners. You will be given the opportunity to decline these services at the point of registration, and you may opt-out of receiving future mailings (see the Choice/Opt-out section following).
-
-Demographic and personal health information is used to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Your health information is password-protected to prevent access by other users.
-
-HealthAtoZ will not sell or forward to third parties any individually identifiable personal information, e.g., your e-mail address, name, etc., that you supply during the registration process; this includes health insurers. You can be assured that our content providers will not have access to your personal information. HealthAtoZ may, however, provide your personal health information and that of other registered users in aggregate form to third parties, but never in such a way that it violates your privacy. This means that we will never provide anyone's individual health records to any third party, although we may provide advertisers with information about the prevalence of certain health conditions in the overall group of HealthAtoZ subscribers, and similar aggregate information.
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-HealthAtoZ does not knowingly collect personal information from any person under the age of 13. We are committed to protecting the privacy of children, and this website is not designed or intended for children under the age of 13.
-
-All personal, identifiable information is retained by Medical Network, Inc. (d.b.a. HealthAtoZ.com) for a period of 5 years/indefinitely unless a member requests that the information be deleted. If you would like your information deleted, please contact HealthAtoZ and provide us with your user name and the e-mail address you provided us with at:
+           You may request that myOptumHealth.com delete personal, identifiable information it has retained about you. If you would like your information deleted, please contact us via myOptumHealth.com and provide us with your myOptumHealth user name and the e-mail address you provided to us. Or, you may submit your request via mail to:
 
 Customer Service  
-HealthAtoZ.com  
-Princeton Park Corporate Center  
-1100 Cornwall Road, Suite 10  
-Monmouth Junction, NJ 08852  
-USA   
-e-mail: [web@healthatoz.com](mailto:web@healthatoz.com)  
-732-422-4110
+myOptumHealth.com  
+Windsor Corporate Park  
+50 Millstone Road, Building 200, Suite 160  
+East Windsor, NJ 08520
 
-**Links to Other Web Sites**
+**V.          Internet Information We Collect About You**
 
-This site contains links to other sites. HealthAtoZ is not responsible for the privacy practices or the content of such Web sites. Please read the privacy statements of the link sites that you visit.
+**A.            Cookies Technology**
 
-The Health Risk Appraisal employed by HealthAtoZ for personalization purposes is hosted on the University of Michigan Health Management Research Center's site. Information passed between the two sites is encrypted and secure. All information is kept confidential and private. As an alternative to taking the HRA, users can choose to select their topics of interest.
+           OptumHealth uses “cookies” technology to obtain usage information from our online visitors. “Cookies” do not identify a specific user and are not used to collect any personal information. A “cookie” is a message given to your Web browser by our Web server. The message is then sent back to our server each time your browser requests a page from our server. The “cookies” myOptumHealth uses are “session cookies”, which means they are erased from your computer when you close your Web browser. 
 
-More information about the University of Michigan Health Management Research Center's HRA can be found at: https://www.hmrc.kines.umich.edu/healthatoz/info.cgi
+           You may disable your cookie information by adjusting your browser preferences on your personal computer at any time. In order to provide the best possible service and relevant information to you, we use cookies to:
 
-**Online Surveys**
+o          Track resources and data accessed on the Site per visitor; 
 
-We may run surveys on our site in which we ask visitors for contact information (such as their e-mail address). We use contact data from our surveys to send users information about our company. You have the option of choosing not to receive such e-mails at the time you register or at any time. (See Choice/Opt-Out section following.) 
+o          Keep track of your password and to personalize your Web page; 
 
-**HealthAtoZ E-Health Dashboard, Health Managers and Personal Health Record**
+o          Record general Site statistics and activity; and 
 
-As part of registration for the HealthAtoZ E-Health Dashboard, Health Managers and Personal Health Record you will be requested to provide contact information, demographic information, and personal health information and to take an online Health Risk Appraisal to enable you to use these programs fully. Please see the HealthAtoZ Terms of Service for more details on the type of information gathered, how it is used, and how your privacy is protected. 
+o          Assist users experiencing Web Site problems. 
 
-Users may opt to select their health topics of interest manually rather than complete the Health Risk Appraisal.
+**B.            IP Address**
 
-[HealthAtoZ Terms of Service](https://web.archive.org/healthatoz/Atoz/terms1.jsp)
+           We may use your IP address to help diagnose problems with our server and to administer our Site. Your IP address may also may be used to help identify you and to gather broad demographic information. 
 
-**Public Forums**
+**C.            Online Communities**
 
-HealthAtoZ makes chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when considering the disclosure of your personal information. HealthAtoZ is not responsible for material posted.
+           myOptumHealth provides public forums where you can share information with other users. Any posting, transmitting, or uploading (“Posting”) of any sort of text, photograph, video, audio or any other sort of content (“Material”) is public. **_Any Material you share in a Posting is by design open to the public and is not a private, secure service_**. myOptumHealth is not responsible for any material Posted, and you should exercise caution when Posting any personal Material, and consider not Posting personal material at all. 
 
-**Security**
+**VI.         Our Online Communication Practices**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Information provided to the various sections of the HealthAtoZ site is password-protected, encrypted and protected by means of a firewall.
+**A.            General Email Communications**
 
-**HIPAA**
+           We use information provided by you for internal purposes, to send you information about new myOptumHealth Site features, services, or updates, information about our company and promotional material or offers from some of our corporate partners, and other news. You will be given the opportunity to decline these services at the point of registration, and you may opt-out of receiving future mailings (see the Choice/Opt-out section following).
 
-HealthAtoZ is in full compliance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+           We may send email communications to you related to general health benefits, Site updates, health conditions, and general health topics.
 
-**Choice/Opt-Out**
+           Unless you are using our secure e-mail function, the email functionality on our Site does not provide a completely secure and confidential means of communication. It is possible that your email communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use email.
 
-HealthAtoZ provides users the opportunity to opt-out of receiving communications from our partners and us.
+**B.            Interactive Web Features**
 
-When you complete registration or when you make changes to your profile (Edit Profile), you will be given the choice of receiving informational/promotional e-mails from HealthAtoZ. You may opt-out of receiving e-mails on behalf of HealthAtoZ at registration by removing the automatic check mark from the preference box for receiving e-mails and newsletters. You may also opt-out of receiving these e-mails and newsletters by changing your preferences in Edit Profile. You may remove all of the information you've stored with us through the "Edit Profile" screen. If you wish to remove your information, the process takes three business days and you will be notified via e-mail upon completion of the removal process. 
+           By accessing this Site, you agree that you certain interactive Web features you use may provide communications to you. In addition, you agree that we may use interactive tools while you are on the Site itself to contact you.
 
-If you wish to unsubscribe to the HealthClicks newsletter, you also can do so within any of the newsletters you receive, or you can unsubscribe under "Contact Us" on our homepage.
+**C.            Links to Other Web Sites**
 
-**Correct/Update/Remove**
+           This Site may contain links to other sites. myOptumHealth is not responsible for the security, privacy practices, or the content of such Web sites. Please read the privacy statements, terms and conditions, and any other legal information of the linked Web sites that you visit. 
 
-In addition, this site gives users the following options for opting out of receiving information from us, updating and removing personal information they have provided, and changing preferences with respect to receiving future communications:
+**VII.        Communications Opt-Out**
 
-  1. You can send e-mail to [web@healthatoz.com](mailto:web@healthatoz.com)
-  2. To cancel your subscription to our e-newsletter follow this [link.](https://web.archive.org/healthatoz/Atoz/mail/unsubscribe.jsp)
-  3. Log onto our system and manage your profile settings through the "Edit Profile Page" 
-  4. You can send mail to the following postal address:  
-HealthAtoZ.com  
-Princeton Park Corporate Center  
-1100 Cornwall Road, Suite 10  
-Monmouth Junction, NJ 08852  
-USA 
-  5. You can call the following telephone number: (732) 422-4110 (in USA) 
+           myOptumHealth provides users the opportunity to opt-out of receiving communications from our partners and us. When you complete registration or when you make changes to your profile, you will be given the choice of receiving informational/promotional e-mails from myOptumHealth. You may opt-out of receiving e-mails on behalf of myOptumHealth at registration by updating the preference box for receiving e-mails and newsletters. You may also opt-out of receiving these e-mails and newsletters by changing your preferences in Communication Settings. You may remove all of the information you have stored with us through the "My Account" screen. You will be notified upon completion of the removal process.
 
+**VIII.       Correction, Updating, and Removal of Your Information**
 
+           This Site gives users the following options for opting out of receiving information from us, updating and removing personal information they have provided, and changing preferences with respect to receiving future communications: 
 
-If you choose to remove or not supply us with personal information you will be unable to access some of HealthAtoZ.com's features. You will be unable to access personalized features such as trackers, E-Health Dashboard, Health Managers, Personal Health Record, personalized and dynamic content, and e-newsletters. You will still have access to our static content, risk assessments and un-personalized tools.
+o                   You may correct, update, or remove your personal information yourself from the myOptumHealth tools that collect and store your data by going back to the specific tool, logging-in and making the desired changes; 
 
-**Notification of Changes**
+o                   You can [Contact Us](http://www.myoptumhealth.com/portal/ContactUs?contactView=form) at this link and request correction, updating, or removal of your information; 
 
-If we are going to use your personally-identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice, we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+o                   You can log onto our system and manage your profile settings through the “My Account page”; or, 
 
-**Contacting the Web Site**
+o                   You can send mail to the following postal address and request correction, updating, or removal of your information: 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+                        myOptumHealth.com  
+                        Windsor Corporate Park  
+                        50 Millstone Road, Building 200, Suite 160  
+                        East Windsor, NJ 08520
+
+If you choose to remove or not supply us with personal information, you will be unable to access or fully use the functionality of some of myOptumHealth.com's features, such as the Personal Health Record and e-newsletters. You should also be aware that if you ask us to correct, update, or remove your information we will do so from our active databases, but it will not be feasible or possible to do so from our back-up media, nor is it technologically possible to remove each and every record of the information that you may have provided to myOptumHealth. 
+
+**IX.         Notification of Changes**
+
+           myOptumHealth may modify this Privacy Policy at any time in its discretion, so please review it frequently. If we are going to materially change our Privacy Policy regarding the use of your personally identifiable information, we will attempt to notify you at the e-mail address you provided, and post it prominently on our Site. Your continued use of myOptumHealth will indicate acceptance of any such material change, or you may opt-out of continuing to use the Site. 
+
+           myOptumHealth may make non-material changes to the Privacy Policy that do not affect your personal or health information. For these instances, we may not notify you of such non-material changes.
+
+           If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places appropriate throughout our Site so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+**X.          Contacting the Web Site**
+
+           If you have any questions about this privacy statement, the practices of this Site or your dealings with this Site, you can [Contact Us](http://www.myoptumhealth.com/portal/ContactUs?contactView=form) online or via post:
 
 Customer Service  
-HealthAtoZ.com  
-Princeton Park Corporate Center  
-1100 Cornwall Road, Suite 10  
-Monmouth Junction, NJ 08852  
-USA   
-e-mail: [web@healthatoz.com](mailto:web@healthatoz.com)  
-732-422-4110
+myOptumHealth.com  
+Windsor Corporate Park  
+50 Millstone Road, Building 200, Suite 160  
+East Windsor, NJ 08520
 
-Effective as of 4/29/03
-
-[**Back**](javascript:history.go\(-1\))
+|  Effective as of 11/15/2008  |   
+---|---|---
