@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemzies.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222045245id_/http%3A//www.gemzies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemzies.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422163212id_/http%3A//www.gemzies.com/privacy) for the most accurate reproduction.*
 
 # Gemzies Terms and Conditions
 
