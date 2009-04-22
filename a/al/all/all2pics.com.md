@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all2pics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101646id_/http%3A//all2pics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all2pics.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422195957id_/http%3A//all2pics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | all2pics
 
