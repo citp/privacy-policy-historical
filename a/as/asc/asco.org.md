@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152143id_/http%3A//www.asco.org/vgn-ext-templating/v/%3Fvgnextoid%3De508201eb61a7010VgnVCM100000ed730ad1RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422175117id_/http%3A//www.asco.org/vgn-ext-templating/v/%3Fvgnextoid%3De508201eb61a7010VgnVCM100000ed730ad1RCRD) for the most accurate reproduction.*
 
 # Privacy Policy - ASCO
 
