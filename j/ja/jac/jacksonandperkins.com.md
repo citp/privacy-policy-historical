@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025646id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423015917id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
 
 # Jackson & Perkins:
 
@@ -18,7 +18,7 @@ To enjoy all the services of Jacksonandperkins.com, including a quicker checkout
 **Our "Remember Me" Service  
 **Our "Remember Me" service allows a registered member access to their personal account features without having to log in each time they visit. If you select this service, log-in to our site is automatic; you'll have access to your account information when you return to our site: 
 
-  * **Your personal Giftlist?**
+  * **Your personal Giftlist™**
   * **Order history and tracking**
   * **Address book**
 
@@ -33,7 +33,7 @@ When a visitor registers with us and chooses this option, we'll remember their i
 **We use IP addresses to analyze trends, administer the site, track user?s movement, and gather broad information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 **Sharing  
-**>We may occasionally partner with another party to provide specific services, such as broadcasting email messages. We will only provide contact information necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**We may occasionally partner with another party to provide specific services, such as broadcasting email messages. We will only provide contact information necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Links  
 **Jacksonandperkins.com may occasionally contain links to other sites. Please be aware that Jacksonandperkins.com is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
