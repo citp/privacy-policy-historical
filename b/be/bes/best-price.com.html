@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the best-price.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217043754id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the best-price.com privacy policy that was archived on 2009-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090422153906id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,42 +18,105 @@
 <!--[if lte IE 7]>
 <link type="text/css" rel="stylesheet" href="http://www.best-price.com/css/iehacks.css" />
 <![endif]-->
-<script type="text/javascript">
-		startTime = (new Date).getTime();
-	</script>
-<script type="text/javascript">
-		function adClick(adtype,id) {
-		if (document.getElementById('adClickIframe')!=undefined) {
-			if (id != undefined){
-				document.getElementById('adClickIframe').src = 'http://www.best-price.com/'+'track/'+adtype+'/id/'+id+'/eventcontroller/'+CONTROLLER+'/eventaction/'+ACTION+'/';
-			}else{
-				document.getElementById('adClickIframe').src = 'http://www.best-price.com/'+'track/'+adtype+'/eventcontroller/'+CONTROLLER+'/eventaction/'+ACTION+'/';
-			}
-		}
-		return true;
-		}
-		
-		function clickTracker(adtype) {
-			if (document.getElementById('ClickTrackerIframe')!=undefined) {
-				document.getElementById('ClickTrackerIframe').src = 'http://www.best-price.com/'+'clicktracker/'+adtype;
-			}
-			return true;
-		}
-	</script>
-<script type="text/javascript" src="http://www.best-price.com/js/cache/414b151bf1fe165335acde60ff415f25.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/travel.js"></script>
 <script type="text/javascript" src="http://www.best-price.com/js/prototype.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/prototip.js"></script>
 <script type="text/javascript" src="http://www.best-price.com/js/scriptaculous/scriptaculous.js"></script>
-<script type="text/javascript">
-						var HOME_URL = 'http://www.best-price.com/';
-		var AJAX_URL = 'http://www.best-price.com/ajax/';
-		var LANGUAGE = 'ENGLISH';
-		var ACTION = 'privacy';
-		var CONTROLLER = 'service';
-			</script>
+<script type="text/javascript" src="http://www.best-price.com/js/prototip.js"></script>
+<script type="text/javascript" src="http://www.best-price.com/js/attitude.js"></script>
+<script type="text/javascript" src="http://www.best-price.com/js/travel.js"></script>
 <script type="text/javascript" src="http://www.best-price.com/js/Behavior_Category.js"></script>
 <script type="text/javascript" src="http://www.best-price.com/js/moveca.js"></script>
+<script type="text/javascript">
+
+var LANGUAGE = 'ENGLISH';
+
+var HOME_URL = 'http://www.best-price.com/';
+var AJAX_URL = 'http://www.best-price.com/ajax/';
+
+var CONTROLLER = 'service';
+var ACTION = 'privacy';
+
+
+</script>
+<script type="text/javascript">
+
+startTime = (new Date).getTime();
+
+/**
+ *
+ *
+ */
+function buildClickUrl(adtype, params)
+{
+    var e;
+    try {
+        var controllerAction = '/eventcontroller/' + CONTROLLER + '/eventaction/' + ACTION;
+    } catch (e) {
+        var controllerAction = '';
+    }
+    
+    var url = 'http://www.best-price.com/track/' + adtype;// + ((id > 0) ? '/id/'+id: '') + controllerAction;
+    var a   = {kaid: '', axkid: '', googleChannel: '', placeID: ''}, key; //adid: '', altk: '', 
+    
+    if (params && (Object.isString(params) || Object.isNumber(params) || params === true)) {
+        a.id = params;
+    }
+    else if (params) {
+        for (key in params) {
+            a[key] = params[key]
+        }
+    }
+    
+    for (key in a) {
+        if (a[key]) {
+            url += '/' + key + '/' + a[key]; // + ((key == 'googleChannel' && !id) ? '_adsense': '');
+        }
+    }
+    
+    url += controllerAction + '?nocache=' + (new Date).getTime() + '' + Math.random(); //alert(url);
+    
+    return url;
+}
+    
+/**
+ *
+ *
+ */
+function adClick(adtype, params, evt)
+{
+    if (!evt && Prototype.Browser.IE) {
+        evt = event;
+    }
+    //alert('event: ' + evt + ', ilc' + evt.isLeftClick + ', ' + Event.isLeftClick(evt));
+    if ($('adClickIframe') == undefined || (evt && !Event.isLeftClick(evt))) {
+        return;
+    }
+    
+    $('adClickIframe').src = buildClickUrl(adtype, params);
+    
+    return true;
+}
+
+/**
+ *
+ *
+ */
+function clickTracker(adtype)
+{
+    if ($('ClickTrackerIframe') == undefined) {
+        return;
+    }
+    $('ClickTrackerIframe').src = 'http://www.best-price.com/' + 'clicktracker/' + adtype;
+    return true;
+}
+
+</script>    
+<script type="text/javascript">
+    gaUrl = 'http://www.google-analytics.com/ga.js';
+    if (document.location.protocol == 'https') {
+        gaUrl = 'https://ssl.google-analytics.com/ga.js';
+    }
+    document.write(unescape("%3Cscript src='" + gaUrl + "'type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="gbl" style="margin-top:5px;">
@@ -67,7 +130,9 @@
 | <a href="http://www.best-price.com/service/faq">Help</a>			</div>
 </div>
 </div>
-<div style="margin-bottom:2px;"><a href="http://www.best-price.com/"><img src="http://www.best-price.com/img/lgo/best-price.com.gif" alt=""></a></div>
+<div style="margin-bottom:2px;">
+<a href="http://www.best-price.com/"><img src="http://www.best-price.com/img/lgo/best-price.com.gif" alt=""></a>
+</div>
 <div id="menu">
 <div id="navi" style="float:left;">
 <ul class="clearfix" style="text-decoration:none;">
@@ -96,7 +161,7 @@
 <a href="http://www.best-price.com/category/index/id/50">Health &amp; Beauty</a>
 </li>
 <li>
-<a href="http://www.best-price.com/besttravel">Travel</a>
+<a href="http://www.best-price.com/travel/">Travel</a>
 </li>
 <li>
 <a href="http://www.best-price.com/category">More</a>
@@ -107,7 +172,12 @@
 </ul>
 </div>
 <span style="font-size:14px #000; font-weight:bold;">
-<form method="post" action="http://www.best-price.com/productsearch/index" name="search_mm"> <center><label for="Search_Query">What are you looking for? </label><input type="text" autocomplete="off" class="txt" value="" id="Search_Query" name="q" style="width:300px;"><input class="submit" type="submit" value="Search" style="margin-left:10px; padding: 0 5px;"></center>
+<form method="post" action="http://www.best-price.com/productsearch/index" name="search_mm">
+<center>
+<label for="Search_Query">What are you looking for?</label>
+<input type="text" autocomplete="off" class="txt" value="" id="Search_Query" name="q" style="width:300px;">
+<input class="submit" type="submit" value="Search" style="margin-left:10px; padding: 0 5px;">
+</center>
 </form>
 </span>
 </div>
@@ -203,7 +273,8 @@ In this regard we ask you to read the privacy policy to get informed about the w
 <a href="http://au.best-price.com"><img src="http://www.best-price.com/img/flags/au.gif" alt="au"></a> 
 <a href="http://fr.best-price.com"><img src="http://www.best-price.com/img/flags/fr.gif" alt="fr"></a>
 </div>
-<p class="copy">Copyright © 2008 by best-price.com. - All rights reserved.</p>
+<p class="copy">Copyright © 2009 by best-price.com. - All rights reserved.<br>
+Best-Price.com - by courtesy of <a href="http://www.news.de" target="_blank" title="The german news portal" style="color:#666666; text-decoration:none;">news.de</a></p>
 <p class="startpage"><a href="#" onclick="style.behavior='url(#default#homepage)';this.setHomePage('http://www.best-price.com/startseite.html');bug = new Image();bug.src = '/track/homepage';return false;">Make best-price.com your homepage!</a><br>
 Be always up to date on the latest products and the best prices.</p>
 </div>	</div>
@@ -215,53 +286,12 @@ Be always up to date on the latest products and the best prices.</p>
 		//alert (endTime - startTime);
 	</script>
 <script type="text/javascript" src="http://www.best-price.com/js/Behavior_Category_Init.js"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-		_uacct = "UA-31842-6";
-		urchinTracker('service/privacy');
-	</script>
+<script type="text/javascript" src="http://www.best-price.com/js/Behavior_Clicktest.js"></script>
 <script type="text/javascript">
 			var kw = 'yes';
 		</script>
 <!-- siteunder:   -->
 <!-- refer:  -->
-<script type="text/javascript"> 	
-		function Get_Cookie_popunder(name) {
-		  var start = document.cookie.indexOf(name+"=");
-		  var len = start+name.length+1;
-		  if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
-		  if (start == -1) return null;
-		  var end = document.cookie.indexOf(";",len);
-		  if (end == -1) end = document.cookie.length;
-		  return unescape(document.cookie.substring(len,end));
-		}
-		
-		function Set_Cookie_popunder(name,value,expires,path,domain,secure) {
-		  var cookieString = name + "=" +escape(value) +
-			( (expires) ? ";expires=" + expires.toGMTString() : "") +
-			( (path) ? ";path=" + path : "") +
-			( (domain) ? ";domain=" + domain : "") +
-			( (secure) ? ";secure" : "");
-		  document.cookie = cookieString;
-		}
-		
-		var popValue = 0;
-		
-		if ((Get_Cookie_popunder('popunder_top_products')==null || parseInt(Get_Cookie_popunder('popunder_top_products'))<3) && kw=='yes') {
-			if (Get_Cookie_popunder('popunder_top_products')==null) {
-			 	popValue = 1;
-			}
-			else
-				popValue = (parseInt(Get_Cookie_popunder('popunder_top_products'))+1);
-			Set_Cookie_popunder('popunder_top_products', popValue,0,'/');
-		}
-		if (popValue==1 || popValue==2) {
-			popunder = window.open("http://www.best-price.com/popup/dynbanner.php", "popunder_top_products_"+popValue, "menubar=no, height=608, width=1008");
-			if (popunder != undefined)
-				popunder.blur();
-			window.focus();
-		}
-			</script>
 <!-- Google Code for default Conversion Page -->
 <script language="JavaScript" type="text/javascript">
 		<!--
@@ -289,12 +319,18 @@ Be always up to date on the latest products and the best prices.</p>
 		var findwhat_cb = Math.random() + "";
 		document.write('<img src="http'+secure+'://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+'" border="0" hspace="0" vspace="0">');
 		// -->
-		</script><img src="https://analytics.findwhat.com/bin/findwhat.dll?sendtracker&amp;c=176231&amp;w=somesite.com&amp;conversion=0&amp;cb=0.5750438034860386" border="0" hspace="0" vspace="0">
+		</script><img src="https://analytics.findwhat.com/bin/findwhat.dll?sendtracker&amp;c=176231&amp;w=somesite.com&amp;conversion=0&amp;cb=0.7394404777397452" border="0" hspace="0" vspace="0">
 <noscript>
 <div style="border:0px;padding:0px;"><img src="http://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+ '" style="border:0px;padding:0px;" alt="" /></div>
 </noscript>
 <!-- End Ad Analyzer Code -->	
-<!-- served by usslave3 -->
+<!-- testmode 13 -->
+<!-- served by usslave2.best-price.com -->
 <!-- adtest GOOGLE_ADTEST -->
+<script type="text/javascript">
+    // Google Analytics Party starten
+    gaTrack = _gat._getTracker("UA-31842-6");
+    gaTrack._trackPageview('service/privacy');
+</script>
 
 </body></html>
