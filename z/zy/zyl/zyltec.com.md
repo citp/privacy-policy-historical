@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyltec.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206032320id_/http%3A//www.zyltec.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyltec.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422020301id_/http%3A//www.zyltec.com/privacy.jsp) for the most accurate reproduction.*
 
 # ZylTec - Privacy
 
@@ -6,7 +6,7 @@
 
 (Last Updated: April, 2006)
 
-At ZylTec, Inc. ("ZylTec," "we," or "us"), we are committed to ensuring the privacy of our customers. This Privacy Policy (this "Policy") describes how personal information is collected from users of the ZylTec website at www.legalsquire.com (the "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.
+At ZylTec, Inc. ("ZylTec," "we," or "us"), we are committed to ensuring the privacy of our customers. This Privacy Policy (this "Policy") describes how personal information is collected from users of the ZylTec website at www.zyltec.com or other websites operated by us (each a "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.
 
 >What is Personal Information?
 
@@ -27,7 +27,7 @@ We collect your name, billing and shipping addresses, e-mail address, telephone 
 
 We also collect personal information from you if you submit a job application or résumé to us via e-mail. Personal information collected in this regard includes your name and e-mail address, as well as other employment related information that you provide to us in the résumé and/or application.
 
-Additionally, when you visit our Site, some information is automatically collected, such as your computer's operating system and browser type, your Internet Protocol (IP) address and the time and date of your visit. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a web site to give you a unique identification. We use cookies on our Site to keep you logged in to the Site, to count the number of unique computers visiting the Site, to record your user preferences and to ensure that you do not see the same advertisements repeatedly. We treat automatically collected information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
+Additionally, when you visit our Site, some information is automatically collected, such as your computer's operating system and browser type, your Internet Protocol (IP) address and the time and date of your visit. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer by a web site to give you a unique identification. We use cookies on our Site, among other things, to keep you logged in to the Site, to count the number of unique computers visiting the Site, to record your user preferences and to ensure that you do not see the same advertisements repeatedly. We treat automatically collected information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
 How We Use Personal Information
 
@@ -73,10 +73,10 @@ To opt-out of receiving communications from us, or to make changes to your perso
   2. e-mail our Customer Support team at [support@zyltec.com](mailto:support@zyltec.com); or
   3. write to us at the following address with your request:  
 ZylTec, Inc.  
-Attn: Web Site Issues  
-4580 Klahanie Drive SE  
-Suite 402  
-Issaquah, WA 98029 
+Customer Support  
+4580 Klahanie Drive SE #402  
+Issaquah, WA 98029-5812  
+United States of America 
 
 
 
@@ -88,4 +88,4 @@ We will modify this Policy if our privacy practices change in the future. We wil
 
 Your Comments or Concerns
 
-We welcome your feedback. If you have any comments or concerns about this Policy or would like to contact us for any reason, you may reach us via e-mail at [privacy@zyltec.com](mailto:privacy@zyltec.com) or telephone at 425-369-6100.
+We welcome your feedback. If you have any comments or concerns about this Policy or would like to contact us for any reason, you may reach us via e-mail at [support@zyltec.com](mailto:support@zyltec.com) or telephone at +1 (425) 836-5400.
