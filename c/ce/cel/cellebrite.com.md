@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220151208id_/http%3A//www.cellebrite.com/Cellebrite-Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422131707id_/http%3A//www.cellebrite.com/Cellebrite-Privacy-Statement.html) for the most accurate reproduction.*
 
 # Cellebrite Mobile Data Synchronization - Cellebrite Privacy Statement
 
