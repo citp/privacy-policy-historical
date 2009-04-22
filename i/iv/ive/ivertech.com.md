@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221043058id_/http%3A//www.ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422052542id_/http%3A//ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Ivertech - Privacy Policy
 
@@ -14,6 +14,10 @@ You can be assured that you will never receive any unsolicited e-mails or postal
 When you download evaluation products from Ivertech, we collect your email address for internal tracking purposes. When you purchase products from Ivertech via Google Checkout, you will be required to provide your name, mailing address and email address to Google Checkout so that they can send you a confirmation email and confirm your address to charge your credit card. Your personal information is safe with Google Checkout and it will never be sold to any third party. 
 
 We use [third-party advertising companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). 
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 Ivertech takes your privacy seriously. Ivertech understands that the confidentiality of your data is important to you. Ivertech agrees to not sell, lease, or divulge personal or corporate data. 
 
