@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123orkut.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220115442id_/http%3A//www.123orkut.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123orkut.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422204742id_/http%3A//www.123orkut.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 123orkut.com - Orkut Scraps | Orkut Images | Orkut Mp3 | Orkut Graphics
 
@@ -15,5 +15,9 @@ In order to create a safe space for people to be the media, we are very careful 
 4\. Occasionally, we may need to look at server logs or generate them in order to diagnose problems with the site. These logs may contain any information that you or your browser knowingly or unknowingly submits to us, including your IP address. In such cases, the logs will be deleted when they are no longer needed and the problem has been resolved.
 
 5\. Any updates made to this policy will be published to the main page of the site and posted to the “all” list.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
 
 Unfortunately, we at 123orkut.com might not be able to protect your anonymity and privacy from all avenues of attack. Your connections are logged by your place of work, school, internet service provider, and various government agencies. Furthermore, our servers are not protected by armed guards or state of the art firewalls, so our server settings could theoretically be modified by an adversary. If this is of concern to you, you need to take charge and use a program such as [Tor](http://www.torproject.org/) to protect your identity.
