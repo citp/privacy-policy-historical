@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220440id_/http%3A//www.belisi.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422053157id_/http%3A//www.belisi.com/privacy.aspx) for the most accurate reproduction.*
 
 # Belisi Reviews, Belisi Service, Belisi Policies - Privacy Notice
 
