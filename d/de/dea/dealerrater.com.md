@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132123id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422163156id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
