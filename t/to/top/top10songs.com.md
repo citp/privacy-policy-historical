@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054303id_/http%3A//www.top10songs.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422031317id_/http%3A//www.top10songs.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Top 10 Songs - Privacy Policy
 
@@ -30,4 +30,4 @@ By using this site, you signify your consent with the Top 10 Songs Privacy Polic
 
 Back To Top    |   [Contact Us](mailto:Info@WhoDoesThatSong.com)    |   [Home](http://www.top10songs.com/)
 
-Copyright © 2008 Top 10 Songs. All rights reserved.
+Copyright © 2009 Top 10 Songs. All rights reserved.
