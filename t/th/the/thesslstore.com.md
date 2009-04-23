@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222221118id_/http%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423025406id_/http%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy: Cheapest SSL Certificates, SSL Encryption, SSL Certs
+# Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
 **Our commitment to your privacy:**   
-Your privacy is important to us at Thesslstore.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available as a link on the bottom of every page on the Thesslstore.com site.
+Your privacy is important to us at TheSSLStore.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available as a link on the bottom of every page on the TheSSLStore.com site.
 
 **The information we collect:**  
-This notice applies to all information collected or submitted on the Thesslstore.com website. We may collect personal information about you, but the type of personal information collected is for delivery and billing purpose only. 
+This notice applies to all information collected or submitted on the TheSSLStore.com website. We may collect personal information about you, but the type of personal information collected is for delivery and billing purpose only. 
 
 **Cookies:**   
 We may use cookies to avoid fraud transactions and to collect statistics to make your browsing experience better.
