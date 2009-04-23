@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617025901id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423145116id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
 
 # AirTran Airways - privacy policy
 
