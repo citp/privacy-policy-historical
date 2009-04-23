@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219163239id_/http%3A//www.candywarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423133011id_/http%3A//www.candywarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Candy Warehouse Privacy Policy
 
@@ -69,6 +69,10 @@ We use this information, which does not identify individual users, to analyze tr
 We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent credit card fraud.
 
 We are hosted by Yahoo! Merchant Solutions that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate. The information collected provides us with website usage and volume statistics so that we can improve our overall website design.
+
+**Third-Party Web Beacons**
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 **Cookies**
 
