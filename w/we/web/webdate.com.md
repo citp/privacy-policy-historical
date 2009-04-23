@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153442id_/http%3A//webdate.com/privacy.html%3Fprg%3D1%26id%3Dnoadvert%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423071333id_/http%3A//www.webdate.com/privacy.html) for the most accurate reproduction.*
 
 # Webdate.com - World's Best Free Personals For Dating and Chat
 
