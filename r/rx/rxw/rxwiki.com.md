@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007083429id_/http%3A//rxwiki.com/index.php%3Ftitle%3DRxWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423092756id_/http%3A//rxwiki.com/index.php%3Ftitle%3DRxWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # RxWiki:Privacy Policy - RxWiki
 
@@ -138,15 +138,15 @@ When you send the site emails, letters, faxes or other communications, we will r
 
 ## Rate this article!
 
-  * Currently3.00/5
-  * [1](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=1&q=10307&t=209.234.171.43&c=5 "1 out of 5")
-  * [2](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=2&q=10307&t=209.234.171.43&c=5 "2 out of 5")
-  * [3](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=3&q=10307&t=209.234.171.43&c=5 "3 out of 5")
-  * [4](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=4&q=10307&t=209.234.171.43&c=5 "4 out of 5")
-  * [5](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=5&q=10307&t=209.234.171.43&c=5 "5 out of 5")
+  * Currently2.91/5
+  * [1](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=1&q=10307&t=67.202.54.191&c=5 "1 out of 5")
+  * [2](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=2&q=10307&t=67.202.54.191&c=5 "2 out of 5")
+  * [3](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=3&q=10307&t=67.202.54.191&c=5 "3 out of 5")
+  * [4](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=4&q=10307&t=67.202.54.191&c=5 "4 out of 5")
+  * [5](https://web.archive.org/extensions/Ratings/db.php?url=/index.php?title=RxWiki:Privacy_policy&j=5&q=10307&t=67.202.54.191&c=5 "5 out of 5")
 
 
 
- **3.0** /5 (33 votes cast)
+ **2.9** /5 (55 votes cast)
 
 [refresh](http://www.rxwiki.com/index.php?title=RxWiki:Privacy_policy&amp;action=purge)
