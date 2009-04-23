@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040330id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423021607id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Pays You - Privacy Statement
 
@@ -26,3 +26,7 @@ AdPaid.com provides users the opportunity to opt-out of receiving communications
 
 **Correct/Update:**  
 AdPaid.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with AdPaid.com, you can [Contact Us](http://adpaid.com/pages/contact.php).
+
+## **Sponsor Ads**
+
+[](http://www.hypervre.com/?affiliate=106790)
