@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2008-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080817133825id_/http%3A//smartnetworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423025359id_/http%3A//smartnetworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Smart Business Solutions | Profitable Business Opportunities
 
+|   
+---  
+|   |  |   
+---  
   **SMARTNETWORLD.COM  
 **
 
@@ -12,6 +16,8 @@ Welcome to SmartNetWorld.com (the "Site").
 We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
 transacting business and Visitors who register to transact business on the Site and make use of the various services offered by SmartNetWorld.com (collectively, "Services") ("Authorized Customers").
+
+SmartNetWorld.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address or personal information to any unauthorized third party. Period!
 
 **"Personally Identifiable Information"**   
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
@@ -38,6 +44,18 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+Third Party Cookies
+
+While on our site, our advertisers, promotional partners or other third parties may place or recognize a unique cookie, or other technology, on your browser.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+Third Party Advertising
+
+SmartNetWorld.com uses third-party advertising companies to serve ads when you visit our Web site. The ads appearing on this Web site are delivered to you by 
+
+[DoubleClick advertising](http://www.doubleclick.com/privacy/dart_adserving.aspx). Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. If you would like more information about this practice and to know your choices about not having this information used, please click here: [http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) In addition, you may choose to opt out of the DoubleClick cookie at any time by using [DoubleClick’s opt-out cookie](http://www.google.com/privacy_ads.html)
+
+Articles-at.SmartNetWorld.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
 **How does SmartNetWorld.com use login information?**  
 SmartNetWorld.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
@@ -56,16 +74,35 @@ Visitors and Authorized Customers may contact us to update Personally Identifiab
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
 We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [webmaster@smartnetworld.com](mailto:webmaster@smartnetworld.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+**What happens if the Privacy Policy Changes?** SmartNetWorld.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. **  
+**  
+However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 **PLEASE NOTE:**
 
 This Site is not directed at children. Visitors and Authorized Customers are required to be eighteen years or older.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+SmartNetWorld.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 18 except as permitted by law. If we discover we have received any information from a child under 18 in violation of this policy, we will   
+delete that information immediately. If you believe SmartNetWorld.com has any information from or about anyone under 18, please contact us at the address listed below.
 
-© 2004 **SmartNetWorld.com** , All rights reserved.  
+Contacting Us
+
+We can be reached by emailing us at [admin@smartnetworld.com](mailto:admin@smartnetworld.com)
+
+  
+**Links:**  
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
+  
+This policy and the use of this Site are governed by New Zealand law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Whangarei. Any costs and fees other than attorney fees   
+associated with the mediation will be shared equally by each of us.
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Whangarei, under the rules of the New Zealand Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+© 2004 - 2009 **SmartNetWorld.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)!
+Get your own Privacy Policy [here](http://www.prioritydigital.com/)!  
+  |   
+  
+**Copyright 2004 SmasrtNetWorld.com All rights reserved**
