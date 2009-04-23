@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155652id_/http%3A//www.writersmarket.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423210600id_/http%3A//writersmarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Writer's Market Privacy Policy
+# Writer's Market - Privacy Policy
 
   
 
@@ -62,3 +62,6 @@ We have appropriate security measures in place in our physical facilities to pro
 The effective date of this policy is October 1, 2006. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address, the DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
+
+  
+
