@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021014819id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423103837id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MND: Your Daily Dose of Counter-Theory
-
-December 9, 2007 at 1:26 pm · Filed under [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi")
+# MND: Your Daily Dose of Counter-Theory
 
 ## Privacy Policy
 
@@ -12,7 +10,7 @@ NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the fede
 
 MND collects personal information when you register with our site. MND may combine information about you that we have with information we obtain from business partners or other companies.
 
-MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to trusted partners who work on behalf of or with MND . These companies may use your personal information to help communicate with you about matters we think may interest you.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
@@ -21,6 +19,10 @@ MND does not rent or sell personal information about you with other people or no
 
 
 
+Notably, MND uses third-party advertising companies to serve ads on our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For example, Google's AdSense uses the DART cookie which enables it to serve ads based on a browser's past Internet usage.
+
+Users may voluntarily opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 Changes to this Privacy Policy
 
 MND may update this policy. Please note [this page](http://mensnewsdaily.com/privacy-policy/) for any changes to our privacy policy.
@@ -28,8 +30,9 @@ MND may update this policy. Please note [this page](http://mensnewsdaily.com/pri
 **Who can I ask if I have any additional questions?**  
 If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com.
 
-[Permalink](http://mensnewsdaily.com/privacy-policy/ "Permanent link to Privacy Policy") | **26 views**
+  
 
-[](http://del.icio.us/post?url=http://mensnewsdaily.com/privacy-policy/&title=Privacy%20Policy "bookmark Privacy Policy in del.icio.us") | [](http://slashdot.org/submit.pl "Submit Privacy Policy to Slashdot.com") | [](http://www.digg.com/submit "Submit Privacy Policy to Digg.com") | [](http://boingboing.net/suggest.html "Submit Privacy Policy to BoingBoing.net") | [](http://www.furl.net/storeIt.jsp?title=Privacy%20Policy&url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Furl") | [](http://www.spurl.net/spurl.php?title=Privacy%20Policy&url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Spurl") | [](http://reddit.com/submit?url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Reddit") | [](http://tailrank.com/share/?text=&link_href=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Tailrank") | [](http://www.newsvine.com/_tools/seed&save?u=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy in Newsvine") | [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy to Yahoo!") | [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://mensnewsdaily.com/privacy-policy/ "Bookmark Privacy Policy to Fark!")
 
-Comments are closed.
+[Trackback](http://mensnewsdaily.com/privacy-policy/trackback/ "Trackback url \(right click and copy\) for Privacy Policy")
+
+Posted in: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") | 65 views 
