@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nift.ac.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124116id_/http%3A//www.nift.ac.in/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nift.ac.in privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423132343id_/http%3A//www.nift.ac.in/ppolicy.html) for the most accurate reproduction.*
 
-# NIFT - Privacy Policy
+# NIFT - Scholarship
 
 **_PRIVACY POLICY   _**
 
