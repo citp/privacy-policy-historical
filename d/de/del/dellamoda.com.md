@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152341id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellamoda.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423032053id_/http%3A//www.dellamoda.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Dellamoda.com
 
@@ -10,11 +10,7 @@ At Dellamoda.com we respect our customers and understand that you are concerned 
 
 We take the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Dellamoda.com is an active member of BBB, further information about Dellamoda.com and this program is available at [ www.labbb.org](http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13209855&sm=).
-
-Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, DellaModa Inc has agreed to disclose our information practices and to have our practices reviewed for compliance by squaretrade. SquareTrade is the leading provider of online shopping services addressing the "trust deficit" in ecommerce. Established in 1999, SquareTrade delivers industry-leading merchant verification, post-purchase protections and its pioneering online dispute resolution service. SquareTrade SideBar-a smarter, safer online shopping assistant-is the latest in the company's growing portfolio of services helping consumers shop more confidently and safely online. 
-
-SquareTrade works with leading organizations including eBay, Yahoo!, Google, the California Association of REALTORS®, and the US Federal Trade Commission's econsumer.gov program, as well as with thousands of online merchants to help millions of consumers shop safely every month.
+Additionally, in order to enhance the protection of your privacy and our compliance with this Privacy Policy, DellaModa Inc has agreed to disclose our information practices and to have our practices reviewed for compliance by squaretrade. SquareTrade is the leading provider of online shopping services addressing the "trust deficit" in ecommerce. Established in 1999, SquareTrade delivers industry-leading merchant verification, post-purchase protections and its pioneering online dispute resolution service. SquareTrade SideBar-a smarter, safer online shopping assistant-is the latest in the company's growing portfolio of services helping consumers shop more confidently and safely online. SquareTrade works with leading organizations including eBay, Yahoo!, Google, the California Association of REALTORS®, and the US Federal Trade Commission's econsumer.gov program, as well as with thousands of online merchants to help millions of consumers shop safely every month.
 
 ##  E-mail Newsletters
 
