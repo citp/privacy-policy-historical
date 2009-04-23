@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223180627id_/http%3A//www.getbuffed.com/getbuffed/content/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424004938id_/http%3A//www.getbuffed.com/getbuffed/content/policy) for the most accurate reproduction.*
 
 # get buffed!
 
