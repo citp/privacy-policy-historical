@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181728id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423205150id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
 
 # HardwareAndTools.com: Privacy Policy
 
+  
   
   
 
@@ -11,15 +12,6 @@
   
 |    
 
-
-|  |  |   
----|---|---  
-  
-* * *
-
-**Add items above to your shopping cart and these special prices will appear automatically**  
-  
-Privacy Policy
 
   * Information We Gather
   * Checkout and Order Forms
