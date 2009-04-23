@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032714id_/http%3A//omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423040508id_/http%3A//omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Remote computer maintenance, remote pc help desk & pc services at affordable prices
 
