@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Maid Marian MMORPG - Massive Multiplayer Web Games
 
-[**Home**](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/free-mmorpg.htm)
+[**Home**](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/free-mmorpg.htm)
 
 About Us  
-[News](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/news.htm)  
-[Press Releases ](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/pressreleases.htm)
+[News](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/news.htm)  
+[Press Releases ](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/pressreleases.htm)
 
-[Sherwood](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/SherwoodLanding.htm)  
-[Club Marian](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/ClubMarianLanding.htm)  
-[Moon Base](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/MOONBASE.htm)  
-[Tank Ball ](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/Tank.htm)  
-[Ratinator](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/Ratinator3.htm)  
-[Colin's Carrera](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/carrara.htm)
+[Sherwood](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/SherwoodLanding.htm)  
+[Club Marian](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/ClubMarianLanding.htm)  
+[Moon Base](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/MOONBASE.htm)  
+[Tank Ball ](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/Tank.htm)  
+[Ratinator](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/Ratinator3.htm)  
+[Colin's Carrera](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/carrara.htm)
 
 [Screen Shots  
-](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/visuals.htm) [Developer Diary  
-](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/LinkingPolicy.htm) [Terms of Service ](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/TermsOfService.htm) [  
-](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/LinkingPolicy.htm) [Privacy Policy](https://web.archive.org/web/20081222061400id_/http%3A//maidmarian.com/PrivacyPolicy.htm) **  
+](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/visuals.htm) [Developer Diary  
+](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Terms of Service ](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/TermsOfService.htm) [  
+](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Privacy Policy](https://web.archive.org/web/20090423142311id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) **  
 **
 
 |  | 
@@ -27,7 +27,7 @@ About Us
 > 
 > This is the privacy policy of Maid Marian Entertainment Inc. and applies to all of the websites on which it appears. We are committed to protecting your privacy. We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these chang
 > 
-> es from their effective date as shown above. If you have any questions about this privacy policy, please contact us by emailing [**gene@vfx.com**](mailto:gene@vfx.com) and do not use our websites until you are satisfied and can accept this policy in its entirety. **Information Collection and Use**
+> es from their effective date as shown above. If you have any questions about this privacy policy, please contact us by emailing [**GeneEndrody@gmail.com**](mailto:GeneEndrody@gmail.com) and do not use our websites until you are satisfied and can accept this policy in its entirety. **Information Collection and Use**
 > 
 > Maid Marian Entertainment collects personal information when you register with MaidMarian.com, when you use Maid Marian Entertainment products or services, and when you visit MaidMarian.com pages or the pages of certain Maid Marian Entertainment partners.
 > 
@@ -89,6 +89,6 @@ About Us
 >  1151 Croft Road  
 >  North Vancouver  
 >  BC, Canada, V7K 1K2  
->  Gene Endrody - [**gene@vfx.com**](mailto:gene@vfx.com?subject=Inquiry%20from%20the%20Maid%20Marian%20website.)
+>  Gene Endrody - [**GeneEndrody@gmail.com**](mailto:GeneEndrody@gmail.com?subject=Inquiry%20from%20the%20Maid%20Marian%20website.)
 
 |    
