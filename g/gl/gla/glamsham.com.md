@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085710id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424011907id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
+
+**glamsham.com's Privacy Policy.**
 
 **At glamsham.com, we are very committed to your privacy, glamsham.com will never sell, exchange, or release any of your individual personal information to a third party without your express permission.**
 
@@ -22,7 +24,11 @@ We use cookies for the benefit of our users. Cookies let us know if we have repe
 glamsham.com contains many links to other sites. glamsham.com is not responsible for the privacy practices or the content of such Web sites. glamsham.com does not share any of the individual personal information you provide glamsham.com with the sites to which glamsham.com links, although glamsham.com may share aggregate data with such sites (such as how many people use our site). This Includes other third party sites on the Internet for which glamsham.com provides search services. Please check with those sites to determine their privacy policy. 
 
 **THIRD PARTY ADVERTISING**  
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp)
+We use MaxWorldwide, Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp)
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **THIRD PARTY COOKIES**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
