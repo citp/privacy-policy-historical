@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002436id_/http%3A//www.jpgmag.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423081418id_/http%3A//jpgmag.com/about/privacy.html) for the most accurate reproduction.*
 
 # JPG Magazine: About: Privacy Policy
 
@@ -71,6 +71,3 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 JPG Magazine may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your JPG Magazine account or by placing a prominent notice on our site.
 
 If you have questions or suggestions please [contact us](https://web.archive.org/about/contact.html).
-
-  
-[](https://web.archive.org/signup/)
