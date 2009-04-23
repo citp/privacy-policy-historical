@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imgserve.net privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223120421id_/http%3A//www.imgserve.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgserve.net privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423232012id_/http%3A//www.imgserve.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # IMGserve » More Information » Privacy Policy
+
+[](http://www.diligenthost.com/)
 
 When you sign up for an account with IMGserve, we collect personal information from you including your e-mail address, and a password. 
 
