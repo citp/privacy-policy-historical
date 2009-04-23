@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycloud.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704111425id_/http%3A//xcerion.com/content/view/82/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycloud.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423071556id_/http%3A//xcerion.com/privacy-policy) for the most accurate reproduction.*
 
 # Xcerion - Free Software and OS as a Service
 
