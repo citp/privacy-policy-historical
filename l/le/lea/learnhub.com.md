@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnhub.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174233id_/http%3A//learnhub.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhub.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423072144id_/http%3A//learnhub.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — LearnHub
+# Privacy Policy
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.
 
@@ -54,7 +54,7 @@ Educational Institutions. We periodically operate programs to collect and provid
 
 LearnHub cooperates with law enforcement inquires, as well as other third parties, to enforce laws such as intellectual property laws, fraud and other laws, and to help protect you and the LearnHub community from others. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, province, telephone number, email address, UserID history, fraud complaints, and bidding and listing history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep our community functioning properly, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. In some cases, personal information that we collect may be stored or processed outside of Canada, and may therefore be subject to the legal jurisdiction of those countries.
 
 Your Use of Other Users' Information
 
@@ -95,7 +95,7 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 
 ## Security
 
-Your information is stored and processed on computers located in Canada. LearnHub uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
+LearnHub uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
 
 ## Privacy Tools
 
