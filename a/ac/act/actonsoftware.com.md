@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424002431id_/http%3A//www.actonsoftware.com/policy_privacy.html) for the most accurate reproduction.*
 
-# Act-On :: Comprehensive e-communication service for every stage of your marketing and sales process.
-
-|  |   
----  
-| 
-
-[Company](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/company.html) [Founding Team](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/team.html) [Contact](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/contact.html) [Blog](http://blog.actonsoftware.com/) [Press Releases](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/press.html)
-
-Privacy Policy
-
-[Terms of Service](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/terms_of_service.html) [Use Policy](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/use_policy.html)
-
-|   
-[](https://web.archive.org/web/20081014080604id_/http%3A//www.actonsoftware.com/signup.html)  
-| 
+# Act-On :: Privacy Policy
 
 **User Data**
 
@@ -22,18 +8,18 @@ Act-On Software, Inc ("Act-On"). respects the privacy of our Account Users and t
 
 **Data Collection**
 
-We collect the email addresses and certain personally identifiable information of those who communicate with us via email or register with us to open a provisioned Service Account. We also collect certain information regarding which pages users access or visit, and information volunteered by the users (such as any surveys Act-On might conduct and/or site registrations). When you request a Beta account on the Act-On Servcice, we ask for the following information: your name, your company name, telephone number, and a valid email address at which we may contact you. Users of the Act-On service are also asked to provide their company's postal address and time zone to better personalize their Account. Full paying accounts of the Act-On Service are also required to provide billing address and valid credit card information. When you submit information, you are transferring such information into the United States and you here by consent to such transfer. 
+We collect the e-mail addresses and certain personally identifiable information of those who communicate with us via e-mail or register with us to open a provisioned Service Account. We also collect certain information regarding which pages users access or visit, and information volunteered by the users (such as any surveys Act-On might conduct and/or site registrations). When you request a Beta account on the Act-On Servcice, we ask for the following information: your name, your company name, telephone number, and a valid e-mail address at which we may contact you. Users of the Act-On service are also asked to provide their company's postal address and time zone to better personalize their Account. Full paying accounts of the Act-On Service are also required to provide billing address and valid credit card information. When you submit information, you are transferring such information into the United States and you here by consent to such transfer. 
 
 Act-On may also collect and analyze from visitors and users certain information regarding the use of the Act-On Site and services available therein. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. 
 
 **Use of Information**
 
-We may use personal information to provide the Services you've requested, including services that display customized emails, newsletters, forms, documents, and reports. We may also use personal information for auditing, research and analysis to operate and improve the Act-On Site. We may use third parties to assist us in processing your personal information, and we require that such third parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical problems, administer the Act-On Site, and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the actions of our visitors and Account holders to third parties in order to demonstrate the value we deliver to users. 
+We may use personal information to provide the Services you've requested, including services that display customized e-mails, newsletters, forms, documents, and reports. We may also use personal information for auditing, research and analysis to operate and improve the Act-On Site. We may use third parties to assist us in processing your personal information, and we require that such third parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical problems, administer the Act-On Site, and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the actions of our visitors and Account holders to third parties in order to demonstrate the value we deliver to users. 
 
 The information we collect is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
   * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, violations of the Acceptable Use Policy, or as otherwise required by law; or 
-  * if Act-On is acquired by or merged with another company. In this event, Act-On will notify you by email before information about you is transferred and becomes subject to a different privacy policy. 
+  * if Act-On is acquired by or merged with another company. In this event, Act-On will notify you by e-mail before information about you is transferred and becomes subject to a different privacy policy. 
 
 
 
@@ -59,12 +45,10 @@ When you use the Act-On Site, we make good faith efforts to provide you with acc
 
 **Changes to this Policy**
 
-Act-On may periodically update this policy. We will notify you about significant changes in the way we treat personal information by posting a prominent notice on the Act-On Site and possibly sending a notice to the primary email address specified in your Account. We do not intend to reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Each version of this Policy will be identified at the bottom of the page by its effective date. 
+Act-On may periodically update this policy. We will notify you about significant changes in the way we treat personal information by posting a prominent notice on the Act-On Site and possibly sending a notice to the primary e-mail address specified in your Account. We do not intend to reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Each version of this Policy will be identified at the bottom of the page by its effective date. 
 
 **Questions**
 
-Any questions about this Privacy Policy should be addressed to [privacy@actonsoftware.com](mailto:privacy@actonsoftware.com) or by postal mail at: Act-On Software, Inc., 4905 SW Griffith Drive, Suite 100, Beaverton, Oregon 97005, USA 
+Any questions about this Privacy Policy should be addressed to [privacy@actonsoftware.com](mailto:privacy@actonsoftware.com) or by postal mail at: Act-On Software, Inc., 4905 SW Griffith Drive, Suite 200, Beaverton, Oregon 97005, USA 
 
-Updated : September 15th, 2007 
-
-| 
+Updated : November 20th, 2008 
