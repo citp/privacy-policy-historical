@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218170211id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaitheatreguide.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423030046id_/http%3A//www.mumbaitheatreguide.com/dramas/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Policy : www.MumbaiTheatreGuide.com
 
@@ -24,9 +24,10 @@ We use cookies for the benefit of our users. Cookies let us know if we have repe
 
 www.mumbaitheatreguide.com contains many links to other sites. www.mumbaitheatreguide.com is not responsible for the privacy practices or the content of such Web sites. www.mumbaitheatreguide.com does not share any of the individual personal information you provide www.mumbaitheatreguide.com with the sites to which www.mumbaitheatreguide.com links, although www.mumbaitheatreguide.com may share aggregate data with such sites (such as how many people use our site). This Includes, other third party sites on the Internet for which www.mumbaitheatreguide.com provides search services. Please check with those sites to determine their privacy policy.
 
-**Unsubscribe**
+**THIRD PARTY ADVERTISING**  
+We use MaxWorldwide, Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
-If you do not wish to receive future communications from us,   
-kindly Click Here
+**THIRD PARTY COOKIES**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with www.mumbaitheatreguide.com, please write to: response@mumbaitheatreguide.com 
