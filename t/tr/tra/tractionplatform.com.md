@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909211718id_/http%3A//www.tractionplatform.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424065241id_/http%3A//www.tractionplatform.com/privacy.shtml) for the most accurate reproduction.*
 
 # Email, sms, web, surveys - Traction - interactive marketing campaigns
 
@@ -62,4 +62,4 @@ If we decide to change our privacy policy, we will post those changes on the Web
 
 If you are interested in obtaining additional information on privacy, you can visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/)
 
-[Back to Contact Us](https://web.archive.org/web/20080909211718id_/http%3A//www.tractionplatform.com/contact.asp "Email, sms, web, surveys - Traction - Back to Contact Us")
+[Back to Contact Us](https://web.archive.org/web/20090424065241id_/http%3A//www.tractionplatform.com/contact.asp "Email, sms, web, surveys - Traction - Back to Contact Us")
