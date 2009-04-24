@@ -1,97 +1,49 @@
-> *The following text is extracted and transformed from the sprysoft.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912135153id_/http%3A//www.sprysoft.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprysoft.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424184643id_/http%3A//www.sprysoft.com/genInfo.asp%3FPID%3Dprivacy) for the most accurate reproduction.*
 
-# Sprysoft Academic Software, Student Software Discounts
+# JourneyEd.com - Academic Software Discounts!
 
-Sprysoft knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Sprysoft, you are accepting the practices described in this Privacy Notice. 
+JourneyEd.com is the Web site of Journey Education Marketing, the leading post-secondary educational software reseller in North America. We hope you enjoy your visit. In order to better serve your needs and enhance your overall shopping experience at JourneyEd.com, we collect certain information about you when you visit us. 
 
-**What Personal Information About Customers Does Sprysoft Gather?**
-
-The information we learn from customers helps us personalize and continually improve your shopping experience at Sprysoft. Here are the types of information we gather:
-
-  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other ways. We use the information that you provide for such purposes as communicating with you, customizing the shopping experience for you, responding to your requests, and improving our site.   
-
-  * Eligibility Information: For many products purchased from Sprysoft, we are required to collect proof of Academic eligibility. This may include a copy of your Academic ID, Driver’s License, proof of enrollment, etc.  
-
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use cookies, and we obtain certain types of information when your Web browser accesses Sprysoft.  
-
-  * E-mail Communications: To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Sprysoft if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.  
-
-  * Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.   
+**How We Protect Your Information**  
+We employ the latest encryption and security technology and fraud detection techniques in all areas of JourneyEd.com where you provide us with personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of your favorite browser, [Microsoft Internet Explorer](http://www.microsoft.com/windows/ie/) or [Netscape Communicator](http://home.netscape.com/computing/download/index.html). For privacy purposes, once you give us any information relating to you, it is stored on a highly secure server that is not accessible via the Internet.   
 
 
+**What Information Do We Collect and How Do We Use It?  
+**When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. In order to enhance our Web site, we may track the way our visitors and customers are using the site. Personal information, such as your name and e-mail address, is not included in this analysis. Unless you provide it, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of the JourneyEd.com network. 
+
+In addition, like most other e-commerce Web sites, our site uses "cookies" \-- small files placed temporarily in your Internet browser -- to keep track of your stay at our Web site. The text in a cookie, by itself, only tells us that you have visited our site before. When you place an order, request a catalog, or participate in a promotion or contest, we ask you to provide information including your name, postal address, e-mail address and, in the case of product orders, credit card number. Except to verify credit card information to complete your order, we do not use or release any credit card or financial information for any purpose. 
+
+If you provide us with your postal address, e-mail address or telephone number, you may receive our catalog or other promotional mailings, e-mails or telephone calls. If you receive an e-mail from us that you would rather not receive, simply follow the unsubscribe instructions set forth at the bottom of each e-mail. If you do not wish to receive our catalog, or other promotional, please write to us at the address set forth below or e-mail us at [unsubscribe@journeyed.com](mailto:unsubscribe@journeyed.com). We will be happy to respect your request not to participate in our direct marketing programs.   
 
 
-  
-**What About Cookies?**  
+**How to Opt-Out of Journey Education Marketing's Direct Marketing Programs  
+**If you do not wish to receive e-mails from us, please let us know by sending an e-mail containing your exact e-mail address in the body text to Do Not Mail. For your convenience, we reprint this instruction at the bottom of each e-mail we send you so that you may opt-out of our program at any time. If you do not wish to receive postal mailings or telephone calls from us, please let us know by mailing or faxing a letter containing your name and address to: 
 
+Journey Education Marketing  
+Attention: Do Not Mail   
+13755 Hutton Drive  
+Suite 500  
+Dallas, TX 75234  
+FAX: 972-481-2000
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide special features and storage of items in your Shopping Cart between visits.   
+To ensure that your request is handled accurately, please include a copy of your catalog label with your request. Make sure to contact us for each address you have left with us. You may also use the above address for any of the following catalog mailing services: 
 
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to shop at Sprysoft, and we recommend that you leave them turned on.   
-
-
-
-
-  
-**Does Sprysoft Share the Information It Receives?**  
-
-
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries Sprysoft Corporation controls and as described below. 
-
-  * Suppliers: Sprysoft may allow our suppliers from time to time to verify that the software that we sold you was going to an Academically eligible party. These documents will not leave Sprysoft premises and they will not be used for marketing purposes by any other company.  
-
-  * Affiliated Businesses We Do Not Control: We work closely with our affiliated businesses. In some cases, these businesses operate stores linked from Sprysoft or sell offerings to you at Sprysoft. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses.  
-
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
-
-  * Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Sprysoft Corporation or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.   
-
-  * Protection of Sprysoft and Others: We release account and other personal information when we believe release is appropriate to comply with law or protect the rights, property, or safety of Sprysoft, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.   
-
-  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.   
+  * To eliminate duplicate catalogs 
+  * To take your name off our catalog mailing list 
+  * To update your name and address we will use when we mail you catalogs (If you're moving, please indicate when the new address will be in effect.)  
 
 
 
 
-  
-**How Secure Is Information About Me?**  
+**LINKS**  
+Our site contains links to other sites not within the JourneyEd.com network. JourneyEd.com is not responsible for the privacy practices or the content of such Web sites.
+
+**PRODUCT MANUFACTURERS**  
+A few of the companies that we represent require that we provide them a list of all students/faculty members and schools that purchased their products. They use these lists as proof that we are only selling their products to valid educational customers. They may also use these lists to market their other products to you. JourneyEd.com is not responsible for the privacy practices of these manufacturers. 
+
+**CONSENT**  
+By using our Web site, you consent to the collection and use of this information by Journey Education Marketing as described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.   
 
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
-
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.   
-
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
-
-
-
-
-**What Information Can I Access?**
-
-Sprysoft gives you access to Your Account for the limited purpose of viewing and, in certain cases, updating that information. Additional access may be added as our Web site evolves.
-
- **What Choices Do I Have?**
-
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Sprysoft features 
-  * You can add or update certain information on pages mentioned in the "What Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to shop at Sprysoft without enabling these features. 
-
-
-
-In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet. 
-
-**Children**
-
-Sprysoft does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Sprysoft only with involvement of a parent or guardian. 
-
-**Conditions of Use, Notices, and Revisions**
-
-If you choose to visit Sprysoft, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of Delaware. If you have any concern about privacy at Sprysoft, please send us a thorough description to [service@sprysoft.com](mailto:service@sprysoft.com), and we will try to resolve it. Our business changes constantly. This notice will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
-
-**Information You Give Us**
-
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us); upload, fax or email eligibility documents; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists; submit a rebate form; enter a shopping Community by providing employer, school, or other such information; participate in Discussion Boards; provide and rate Reviews; and employ other Personal Notification Services "Sprysoft Deals," and "Sprysoft Alerts". As a result of those actions, you might supply us with such information as your name, address, and phone number; credit card information; people to whom purchases have been shipped, including address and phone number; people (with addresses and phone numbers) listed in settings; e-mail addresses; content of reviews and e-mails to us; personal description and photograph; and financial information, including Social Security and driver's license numbers. 
-
-**Automatic Information**
-
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and phone number used to call our 800 number.
+**NOTICE TO PARENTS**  
+Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
