@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224045257id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424041331id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # Sotheby's International Realty | Canada Luxury Real Estate, Residential, Recreational, Commercial, Land, Development Services
 
