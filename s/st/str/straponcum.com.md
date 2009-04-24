@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straponcum.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165727id_/http%3A//www.straponcum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straponcum.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424065935id_/http%3A//www.straponcum.com/privacy.html) for the most accurate reproduction.*
 
 # StraponCum.com - Warning!
 
@@ -28,6 +28,6 @@ Public Forums. This Site makes available chat rooms, forums, message boards, and
 
 Third Party Links. The Site contains links to other World Wide Web Internet sites, resources and sponsors of Starcrest Investment Limited. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. Starcrest Investment Limited is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.   
   
-[Privacy Policy](https://web.archive.org/web/20081216165727id_/http%3A//www.straponcum.com/privacy.html)  |  [Customer Support](https://web.archive.org/web/20081216165727id_/http%3A//www.straponcum.com/support.html)  |  [USC 2257](https://web.archive.org/web/20081216165727id_/http%3A//www.straponcum.com/2257.html)  |  [Webmasters](http://www.vippay.com/)   
+[Privacy Policy](https://web.archive.org/web/20090424065935id_/http%3A//www.straponcum.com/privacy.html)  |  [Customer Support](https://web.archive.org/web/20090424065935id_/http%3A//www.straponcum.com/support.html)  |  [USC 2257](https://web.archive.org/web/20090424065935id_/http%3A//www.straponcum.com/2257.html)  |  [Webmasters](http://www.vippay.com/)   
 Copyright © 2002-2008 Starcrest Investment Limited. All rights reserved.  
 "This site is operated by Starcrest Investment Limited, Gibraltar." 
