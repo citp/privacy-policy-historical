@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geographia.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221043449id_/http%3A//www.geographia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geographia.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424210555id_/http%3A//www.geographia.com/privacy.htm) for the most accurate reproduction.*
 
 # Geographia - Privacy Policy
 
@@ -8,6 +8,8 @@ PRIVACY POLICY
 Geographia.com, part of InterKnowledge Corp., is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy. 
 
 Other websites you may access via Geographia.com have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here.](http://www.google.com/privacy_cookies.html)
 
 When you visit the site, we also collect web site usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at Geographia.com via a link from another website, the URL of the linking page. We may on occasion utilize cookies.
 
@@ -33,5 +35,5 @@ Geographia.com sometimes uses third party providers to deliver the advertisement
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
 
-**[AFRICA](https://web.archive.org/web/20081221043449id_/http%3A//www.geographia.com/indx06.htm)   [ASIA](https://web.archive.org/web/20081221043449id_/http%3A//www.geographia.com/indx04.htm)   [CARIBBEAN](https://web.archive.org/web/20081221043449id_/http%3A//www.geographia.com/indx02.htm)   [EUROPE  
-](https://web.archive.org/europe)[LATIN AMERICA](https://web.archive.org/web/20081221043449id_/http%3A//www.geographia.com/indx05.htm)**  **[HOME](http://www.geographia.com/)**  
+**[AFRICA](https://web.archive.org/web/20090424210555id_/http%3A//www.geographia.com/indx06.htm)   [ASIA](https://web.archive.org/web/20090424210555id_/http%3A//www.geographia.com/indx04.htm)   [CARIBBEAN](https://web.archive.org/web/20090424210555id_/http%3A//www.geographia.com/indx02.htm)   [EUROPE  
+](https://web.archive.org/europe)[LATIN AMERICA](https://web.archive.org/web/20090424210555id_/http%3A//www.geographia.com/indx05.htm)**  **[HOME](http://www.geographia.com/)**  
