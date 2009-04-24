@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124604id_/http%3A//www.dancewearsolutions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424050124id_/http%3A//www.dancewearsolutions.com/privacy.aspx) for the most accurate reproduction.*
 
 # Dancewear Solutions
 
@@ -36,7 +36,7 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 We are always here to help you. Please feel free to contact us using one of these methods
 
 E-mail [info@dancewearsolutions.com](mailto:info@dancewearsolutions.com)  
-Phone Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CST  
+Phone Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CDT  
 Faxing an Order 1-800-777-8270  
 Postal Mail  
 Dancewear Solutions  
