@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221114208id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424054715id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
 
 # Chamberlain Privacy Policy
 
