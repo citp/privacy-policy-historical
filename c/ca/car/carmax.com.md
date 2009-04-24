@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223215139id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424185606id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
 
 # CarMax
 
