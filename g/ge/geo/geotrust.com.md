@@ -1,140 +1,127 @@
-> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223060408id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotrust.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424210831id_/http%3A//www.geotrust.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # GeoTrust Privacy Policy
 
-GeoTrust, Inc. is committed to protecting personally-identifiable information that we handle in the course of providing our certification and authentication-related services ("Personal Information"). This Privacy Policy describes our information-handling practices. This Privacy Policy applies only to information relating to those GeoTrust's services (the "Services") that are provided via the www.geotrust.com, www.trustwatch.com, and www.rapidssl.com public Internet web sites (the "Web Sites"), as described in the applicable Certificate Policy Statement, and does not apply to GeoTrust's corporate parents or affiliates or to any information collected or maintained for other purposes. This policy describes: 
+##### Versin 2.0 - Effective January 22, 2009
 
-  * What Personal Information we collect in offering and providing the Services; 
-  * How we use and to whom we disclose Personal Information; 
-  * Your choices concerning our uses of Personal Information; 
-  * The security measures we use to protect Personal Information; 
-  * Your rights to correct and update Personal Information; and 
-  * How you can contact us about Personal Information. 
+GeoTrust is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire GeoTrust.com and RapidSSL.com web sites and the GeoTrust services that are provided via these web sites. This Privacy Statement is not applicable to GeoTrust's corporate parent or affiliates or to any information collected offline or through other web sites which do not display this Privacy Statement. GeoTrust services may be hosted on partner sites on behalf of GeoTrust, and if this GeoTrust Privacy Statement is listed on that site, then it will also apply
 
+This Privacy Statement will inform you of:
 
+  * What personal information our site gathers about you
+  * How we use and with whom we share the personal information we gather
+  * Your ability to opt-out of future notifications
+  * What security procedures we have in place to protect your personal information from loss, misuse, or alteration
+  * How you can correct or update your personal information
 
-#### Information Collection & Use
 
-GeoTrust is the sole owner of the Personal Information collected through our Web Sites or in connection with the Services. 
 
-##### Data Collected from non-Registered Users 
+Questions regarding this Privacy Statement should be directed to [support@geotrust.com](mailto:support@geotrust.com?subject=Privacy%20Statement). Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-866-511-4141, option 1.
 
-You may visit the Web Sites without providing any Personal Information. 
+#### Overview
 
-#####  Data Collected from Registered Users 
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at GeoTrust are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are enrolling for a GeoTrust digital certificate ("Digital Certificate"), you may be asked to provide certain personal information. Please note, however, that we are asking for this information for the limited purposes of creating your Digital Certificate, providing the services that may be part of your Digital Certificate, and authenticating your identity in order to issue you a Digital Certificate. You should be assured that we do not provide or sell personal information about our customers or site visitors to vendors that are not involved in the provision of GeoTrust's public certification and other services.
 
-We need to collect Personal Information such as name, phone number, email address, state, and country in order for you to register for Services or to respond to your requests for information that you may submit to us through the Web Site. We use this information to process your requests, to administer the Services in which you have expressed interest, and to provide information to you relating to our Services. You may have the option to provide additional demographic information (such as job title, corporation affiliation, geographic location, or other data) through the Web Sites. We use this information to analyze interest in the Web Site and to improve the information we make available through the Web Sites. 
+This Privacy Statement applies to the geotrust.com site. Many of our affiliated companies, including our parent company, VeriSign, Inc., VeriSign's other subsidiaries, and our subsidiaries maintain their own privacy policies that may be viewed on their Web sites. Please note that our site contains links to other sites. GeoTrust is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
 
-We may send periodic email updates to registered users, providing information about related products or services. We provide the option not to receive these types of communications, as described below under "Choice and Opt-out." This paragraph applies to users of our TrustWatch service: Your Personal Information may be used in accordance with the applicable TrustWatch Toolbar License Agreement . Certain information including your IP address and information about the sites you visit will be transmitted to Alexa Internet, Inc., which will then become subject to Alexa's privacy policy (http://pages.alexa.com/help/privacy.html). Alexa aggregates and analyzes the information it collects to improve its web traffic analysis services and to prepare non-identifiable reports about aggregate web usage. 
+#### Information We Gather from You
 
-#### Data Collected through Referrals 
+##### Personal Information
 
-We provide a mechanism for you to refer other persons whom you believe may be interested in our Services. In such cases, we will send the referral a one-time email inviting him or her to visit our Web Site. We maintain this information for the sole purpose of sending this one-time email and for tracking the success of our referral program, but will not send further unsolicited communications. 
+There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
 
-We engage third party services such as TechTarget and KnowledgeStorm to identify potential users of our Services. These services employ their own mechanisms to enable individuals to opt out of email distribution lists. 
+  * E-mail Request for Information or Registrations for Guides or Seminars - We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+  * Enrollment - If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service.
 
-#### External Links 
 
-Our Web Site may contain links to other sites that are not owned or controlled by GeoTrust. Please be aware that we are not responsible for the privacy practices of such other sites that you may access from our Web Site. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-##### Automated Web Site Tracking 
+Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life.
 
-When you visit one of our Web Sites, statistics about your visit are automatically collected. This information does not identify you personally, but rather identifies information about a visit to the Web Site. This information may include how many people visit the Web Site, the user's Internet Protocol (IP) address, which pages are visited, from which domains our visitors come and which types of browsers these persons use. We use these statistics about your visit for aggregate, analytical purposes only, to help us improve the performance and effectiveness of our Web Site. We retain third party service providers, such as WebTrends (http://www.webtrends.com/), to provide these statistical analysis services. The techniques for collecting this information are described below: 
+##### Statistical Information About Your Visit
 
-#####  Log Files 
+When you visit our site, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site.
 
-We gather certain information automatically and store it in log files. This information includes IP addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the Web Site and to gather demographic information about our user community. Unless we separately notify you, we do not link this automatically-collected data to Personal Information. 
+##### Use of Cookies
 
-##### Cookies
+We only use "cookies" as described in this Section. A "cookie" is a piece of information that our Web site sends to your browser, which then stores this information on your system. If a cookie is used, our Web site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender personal or other information from your computer.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on our Web Sites. We do/do not link the information we store in cookies to any Personal Information you submit through our Web Sites. We use both session cookies and permanent cookies. A session cookie expires when you close you browser. A permanent cookie remains on your hard drive for an extended period of time. You may decline to accept cookies or may remove permanent cookies by following directions provided in your Internet browser's "help" file. 
+Our uses of "cookies" are limited to the following specific situations. The first situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our site. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our site from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an "origination code" for that business partner. We use this information for statistical and marketing purposes. Second, if you log into an access-controlled section of our site, we may set a temporary session cookie to establish that you have been authenticated. The information contained in these cookies consists of random data that is used by the server to authenticate the browser requests to the server for that particular session. It does not include any type of personally identifiable information. This bit of information is erased when you close your current browser window. If you choose not to accept a temporary cookie, you will not be able to log into or navigate in these online applications or use the Personal Trust Agent.
 
-We use temporary cookies to help your browser navigate our Web Site, to determine which visitors reach our Web Site from sites of our business partners, and to record during a user's session that the user is properly authenticated. We use permanent cookies to recall your information to save you time in filling out forms and/or revisiting our Web Site and to determine which visitors to our Web Sites have visited them before and if so, for what purposes. 
+The second situation in which we may use cookies is with respect to permanent cookies. This type of cookie remains on your system, although you can always delete or disable it through your browser preferences. There are two instances in which we use a permanent cookie. First, when you visit our Web site and request documentation or a response from us. When you are filling out a form you may be given the option of having our Web site deliver a cookie to your local hard drive. You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Web site. We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us The second instance where we use a permanent cookie is where we track traffic patterns on our site. Analysis of the collected information by our tracking technologies allows us to improve our web site and the user experience. In both instances of a persistent cookie, if you choose not to accept the cookie, you will still be able to use our Web site. Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent.
 
-If you reject cookies, you may still generally access the informational material on our Web Sites, but you may be unable to obtain some of our Services or access some portions of our Web Sites. 
+##### Bulletin Boards, Chat Rooms and Forums
 
-##### Certificate Application Information
+If you use a forum, bulletin board, chat room or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. VeriSign is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the "Rules of Engagement" or other terms and conditions set forth on the relevant forum site.
 
-In order to issue digital certificates and provide our Services, we must collect and maintain Personal Information about prospective Certificate Holders. Our information requirements may vary according to the type of Service being requested, as provided in the applicable service agreements, enrollment forms, and/or certificate applications. This information may include name; corporate affiliation; job title; postal address; telephone numbers; email address; gender; date of birth; dates of employment; and driver's license, passport or other government-issued identification documents numbers. We use this information to document and verify the identities or persons to whom we issue certificates or provide Services. We require documentation establishing that certificate applicants have expressly consented to the use of their Personal Information in connection with our Services.
+#### How We Use and With Whom We Share the Personal Information We Gather
 
-##### Subscriber Information 
+We assure you that the personal information we gather from you is used by us only as explained below.
 
-We must also collect Personal Information from officers and other representatives of companies that subscribe to our Services and designate authorized Certificate Holders. This information may include name; corporate affiliation; job title; postal address; years at address; telephone numbers; email address; state license status and license numbers; Dun & Bradstreet number; credit card and bank account number and related billing and payment information; and IP addresses. We use this information to administer our Services, contact you in connection with your account, and to provide information about the Services or other offerings that we believe may be of interest to you. 
+##### Sending you responses and updates
 
-##### Customer Service
+We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Web site, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. Occasionally these updates or other important information may be sent out by third parties on our behalf. Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party's use of the shared information to sending updates or providing services on our behalf. Our subsidiary companies may also send you information about their services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a GeoTrust business partner, we may also send the information you have supplied to the GeoTrust business partners that offer such products or services. Please be assured that these GeoTrust business partners have agreed to ensure the privacy and security of any transferred information and may only use the shared information to send you information about products or services about which you asked.
 
-We may send Service-related announcements when we believe it is necessary to do so. For instance, if our Service is temporarily unavailable, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you may terminate any Services that you receive from us. We will communicate with you in response to your inquiries, to provide the Services you request, and as we determine is necessary to manage your account. We will communicate with you by email, telephone, or postal mail, depending upon the nature and urgency of the matter. 
+**Facilitating the support, renewal, and purchase of our products and services**  
+We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services. We may provide our parent or subsidiary companies with your information so that they may send you information about their services and products. We may also provide the information you have submitted to us to a GeoTrust subsidiary, business partner, or independent reseller (either within or outside the United States) so that the subsidiary, business partner, or independent reseller can contact you and facilitate the support, renewal, and purchase of GeoTrust products and services. You may receive a communication directly from our parent or one of our subsidiaries, business partners, or independent resellers. Please be assured that our parent or any subsidiary, business partner, or independent reseller who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the parent, subsidiaries, business partners, and/or independent resellers to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement.
 
-We also provide a web-based form for submitting service-related questions to us. This form requests name, company name, email address, and phone number. This personal information is used to contact the submitter to respond to the service inquiry. 
+**Facilitating the provision of certain included products and services (if you are applying for certain types of Digital Certificates)**  
+Certain types of Digital Certificates come with additional third-party services or products that are included with the Digital Certificates. If you purchase one of these Digital Certificates, we may forward some or all of the information in your application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product or an upgrade. Please be assured that we have agreements with these third-party service or product providers that prevent them from disclosing the information to other parties.
 
-##### Supplementation of Information 
+**Validating your identity (if you are applying for certain types of Digital Certificates)**  
+Certain types of Digital Certificates require that we compare some of the information in your application to information contained in a third-party database or with some other third party source. We do this in order to authenticate your identity and other attributes, and also to prevent identity theft. We have confidentiality agreements in place with these third-party databases restricting the disclosure of your information. In certain limited situations, we have contracts in place permitting the third-party database to disclose the information to its subcontractors or affiliates, but only for authenticating your identity and only in accordance with confidentiality agreements.
 
-In order to provide the Services, we may supplement the personal information you submitted to us with information from third party sources. For example, we may use the WHOIS database of Internet domain name registrants or may engage third party business information services (such as Dun & Bradstreet, Authentify, or ChoicePoint, among others) to obtain verified information about subscribers, to verify personal identification for certificate applicants, or to assess the continued eligibility or license status of certificate holders or subscribers. We use these sources only to verify information.
+##### Forming the contents of a Digital Certificates
 
-#### Information Sharing And Disclosure
+The exact information that appears in our different types of Digital Certificates is set forth in the relevant enrollment page and this Privacy Statement. Generally this information is limited to e-mail address and name, but certain classes of Digital Certificates contain additional information. For example, SSL Certificates may contain the organization's Dun and Bradstreet number. Please note that all information that you provide us that forms the content of a Digital Certificate will be "published." Publication of Digital Certificates in an accessible location (a repository) is an integral part of enabling the widespread use of Digital Certificates. Your Digital Certificates will be published in our repository so that a third party may access, review, and rely upon your Digital Certificates. You should have no expectation of privacy regarding the content of your Digital Certificates.
 
-##### Aggregate Information
+##### Disclosure by Law and Protection of GeoTrust and Others
 
-We share non-identifiable aggregated demographic information about our user base with third parties, such as our marketing partners and advertisers. This information does not contain Personal Information and is not used to identify or contact individual users.
+If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, GeoTrust may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply GeoTrust's agreements.
 
-##### Personal Information 
+##### Business Transitions
 
-We disclose Personal Information for the following purposes: 
+Circumstances may arise where, whether for strategic or other business reasons, GeoTrust decides to sell, buy, merge or otherwise reorganize businesses or business units in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is GeoTrust's practice to seek appropriate protection for information in these types of transactions.
 
-  * To our contractors, agents, service providers, and affiliated companies (i.e., parents and subsidiaries) for purposes of responding to customer requests; providing requested Services; validating the identity of subscribers and certificate applicants; maintaining and operating our Web Sites, systems, and equipment; billing and collection; distributing marketing and informational materials; and internal management and administration of our business, provided that these recipients are not permitted to use or disclose the information for other purposes.. 
-  * To other third parties, as we determine to be reasonable and appropriate to comply with legal requirements; to obtain required governmental authorizations; to assert or defend our legal rights, enforce our agreements, prevent or respond to suspected fraud, or protect the health, safety, or legal rights of others; to cooperate with law enforcement authorities; to comply with a judicial proceeding, court order, or legal process; or in connection with an actual or prospective transaction involving the assets related to one or more of the Services to which such Personal Information pertains; in the event of such a transaction, we will announce any change in ownership or control of your Personal Information on our Web Site before the transfer takes effect and will provide an opportunity to decline to permit the transfer to occur. 
+##### Surveys
 
+From time-to-time we may request information from customers via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site, and improving our customer service and product offerings.
 
+#### Your Ability to Opt-Out of Further Notifications
 
-Without limiting the foregoing, these disclosures may include the following:
+From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
 
-  * Providing, revoking, or renewing the Services. We may provide the information you have submitted to us to an independent business partner or service provider (either within or outside the United States) so that the business partner or service provider can contact you to provide support relating to the Services. To confirm whether any entity is one of our authorized business partners or service providers, please contact us at the address provided below. 
-  * Facilitating supplemental services associated with a certificate. Some certificates may come with additional third-party services or products. In these cases, we will forward some or all of the Personal Information in your certificate application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product. 
+If you would like to change your preferences online, please visit <http://www.geotrust.com/compref/>. If you receive a marketing communication from our parent, subsidiaries, business partners or independent resellers, you should opt-out with that entity directly. Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our Digital Certificates or other products or services
 
+#### Our Security Procedures
 
+We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
 
-##### Certificate Information
+#### How You Can Update or Correct Your Personal Information
 
-All information that you provide us that forms the content of a certificate will be "published" in a repository that can be accessed by third parties. No person should have any expectation of privacy in the contents of a certificate.
+If you need to update or correct information contained in a Digital Certificate you will need to revoke your Digital Certificate and obtain a new one because we digitally sign each subscriber's Digital Certificate as a part of the Digital Certificate issuance process. If we were to subsequently modify or remove any information listed in a Digital Certificate, our digital signature would not verify the Digital Certificate's new content. Furthermore, if a subscriber (sender) then digitally signed a message with his or her private key, a third party would not be able to properly verify the sender's signature (created using the sender's private key) because the sender's Digital Certificate would have been altered after the key pair's creation. For more information and tutorials on digital signatures, Digital Certificate, keys, and related subjects, click here <http://www.geotrust.com/resources/repository/>.
 
-##### International Data Transfer 
+If you would like to update or correct any personal information in our records that is not contained in your Digital Certificates/, please contact us via e-mail at [support@geotrust.com](mailto:support@geotrust.com) (for Class 1 and Class 2 Digital IDs) at or at the address given at the end of this Privacy Statement.
 
-We maintain and process Personal Information in the United States. Accordingly, information obtained elsewhere will be transferred to, maintained in, and processed in, and under the laws of, the United States. By subscribing to one of our Services, you must consent to such transfer and processing of your information in the United States. 
+#### Certificate Revocation Lists
 
-#### Choice/Opt-Out
+When a third party wants to rely on a Digital Certificate, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital Certificate. We do not generally delete Digital Certificates (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, request to revoke (deactivate) your Digital Certificate. A revoked Digital Certificate will still appear in our repository with an indication that it has been revoked. If you would like to request to have your Digital Certificate revoked (deactivated) from our database, please contact us via email at [support@geotrust.com](mailto:support@geotrust.com) or at the address given at the end of this Privacy Statement. If you are an Extended Validation SSL Certificate subscriber and would like to request to have your Extended Validation Digital Certificate revoked, you may choose to visit our site at <http://www.geotrust.com/about/contact/extended-validation-revocation/> and follow the listed instructions.
 
-You may inform us that you do not wish to receive communications from us except as required in connection with Services that you request. If you no longer wish to receive our updates and other informational materials, you may opt out of future such communications by following the instructions included in each newsletter or communication or by sending a written mail, email, or facsimile request as listed under "Contact Us" below. To remove your address from our marketing and newsletter distribution lists, please go to https://www.geotrust.com/compref. 
+#### Email this Page
 
-We use permission-based third party email marketing services such as Responsys, Vertical Response, salesforce.com, and Constant Contact, which allow individuals to control their receipt of marketing email messages. 
+If you use GeoTrust's "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.
 
-#### Access to Personally Identifiable Information
+#### International Data Transfer
 
-If you wish to view the Personal Information we maintain about you, or if your Personal Information changes, or if you wish to terminate a certificate or the Services that you obtain from us, you may notify us by sending a written mail, email, or facsimile request as listed under "Contact Us" below. 
+We maintain and process personal information in the United States. Accordingly, information obtained elsewhere will be transferred to, maintained in, and processed in, and under the laws of, the United States. By subscribing to one of our Services, you must consent to such transfer and processing of your information in the United States.
 
-Depending upon the nature of the information, we may need to verify your identity and the requested change before providing access to Personal Information or making a requested change in our databases. If you request to change any information contained in a certificate, the certificate may need to be revoked and a new certificate issued. 
+#### Changes to this Privacy Statement
 
-A certificate may be revoked or deactivated upon written request by the Subscriber on whose behalf the certificate is issued, in addition to the other bases for revocation provided through our certificate policies. 
-
-##### Security
-
-We consider the protection of all personal information we receive from our Web Site visitors, Subscribers, Relying Parties, and Certificate Holders as a core responsibility. We have security measures in place to protect against the loss, misuse, and alteration of Personal Information. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt information that you submit to us electronically when submitting requests or ordering certificates. 
-
-We implement data security safeguards based upon generally accepted industry standards to protect your Personal Information from unauthorized access, use, disclosure, alteration, or loss. Nonetheless, no data security techniques are 100% effective, and we cannot guarantee its security. 
-
-##### "Email This Page" 
-
-If you use the "Email this page" feature to send a copy of a Web Site page to someone else, your email address will appear as the sender of the email. We do not track the senders and receivers of Web Site pages in a personally-identifiable manner. 
-
-##### Privacy Policy Changes
-
-If a material change is made to this Privacy Policy and/or the way we use our customers' personally identifiable information then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page.
-
-##### Contact Us
-
-You may contact us  by writing us at the following address:
+If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page.
 
 Our mailing address is:  
- **GeoTrust, Inc.**  
+**GeoTrust, Inc.**  
 Attention: Support  
 487 East Middlefield Road  
 Mountain View, California 94043
+
+Additional contact information is available on our [contact page](http://www.geotrust.com/about/contact/index.html). 
