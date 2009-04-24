@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033928id_/http%3A//www.finspreads.com/footer_links/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424114755id_/http%3A//www.finspreads.com/footer_links/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -16,10 +16,10 @@
   10. If you have any questions about privacy please contact our Compliance department at:
 
 City Index Limited  
-Moorgate Hall  
-155 Moorgate  
+Park House  
+16 Finsbury Circus  
 London  
-EC2M 6XB
+EC2M 7EB
 
 Tel: 020 7550 8500
 
