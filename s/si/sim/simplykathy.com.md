@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplykathy.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224045138id_/http%3A//simplykathy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplykathy.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424041638id_/http%3A//simplykathy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simply Kathy
 
@@ -21,3 +21,5 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 
 Contact Information  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form.
+
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the Google ad and content network privacy policy.
