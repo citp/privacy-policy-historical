@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013044723id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424124807id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Hobby, craft, leisure time magazines, books, events, shows - Kalmbach Publishing Co. Privacy Policy
 
