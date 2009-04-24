@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222180729id_/http%3A//www.vodafone.co.nz/personal/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424080054id_/http%3A//www.vodafone.co.nz/personal/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
 
 # Vodafone Privacy Policy - About Vodafone - Vodafone NZ
 
 Vodafone's Privacy Policy for how we hold and use your information.
 
-**READ THESE TERMS AND CONDITIONS CAREFULLY. IF YOU DO NOT AGREE WITH THEM, YOU SHOULD NOT PROCEED ANY FURTHER ON THIS WEBSITE OR WITH REGISTRATION.**
+ **READ THESE TERMS AND CONDITIONS CAREFULLY. IF YOU DO NOT AGREE WITH THEM, YOU SHOULD NOT PROCEED ANY FURTHER ON THIS WEBSITE OR WITH REGISTRATION.**
 
 ### Vodafone may collect and hold Personal Information
 
