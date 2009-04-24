@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k9webprotection.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221044944id_/http%3A//www1.k9webprotection.com/support/files/K9_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9webprotection.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424032639id_/http%3A//www1.k9webprotection.com/support/files/K9_privacy.pdf) for the most accurate reproduction.*
 
 # 
 
