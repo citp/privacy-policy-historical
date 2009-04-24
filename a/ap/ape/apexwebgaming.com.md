@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064135id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexwebgaming.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424065623id_/http%3A//apexwebgaming.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Apex Web Gaming
+# Privacy Policy - MMO, MMORPG,MMOG, multiplayer games - Apex Web Gaming
 
 _This statement was last updated July 15, 2005._
 
