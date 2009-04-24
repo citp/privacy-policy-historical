@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219002629id_/http%3A//www.onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425004527id_/http%3A//onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
 
 # OneSIMcard - International SIM Card, Prepaid SIM cards, International Mobile phones, rent a cell phone for international travel, International Cell Phones, Global Phone SIM Card, corporate mobile phones
 
