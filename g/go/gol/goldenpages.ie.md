@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164834id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424062435id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
 
 # Truvo Ireland: product, business and service search directory for Ireland - Advertise with goldenpages.ie
 
