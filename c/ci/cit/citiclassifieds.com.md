@@ -1,49 +1,52 @@
-> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018222552id_/http%3A//citiclassifieds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424054504id_/http%3A//www.citiclassifieds.com/privacy.aspx) for the most accurate reproduction.*
 
-# www.citiclassifieds.com - India's # 1 Online Classified Solutions - Privacy Policy
+# CitiClassifieds.com - Privacy Policy
 
-Privacy Policy 
+[ ](https://web.archive.org/web/20090424054504id_/http%3A//www.citiclassifieds.com/default.aspx) |   
+---|---  
+  
+###  Privacy Policy
 
-Personally identifiable information you provide to Citiclassified when you sign up will not be sold or given to outside sources without your permission. 
-
-* * *
-
-Sign-up Information 
-
-In order to post your ad for free, you must become a Citiclassified member. The member registration process requires that you provide your name, email address, and other identifying information. 
-
-* * *
-
-Credit Cards
-
-All credit cards will only be charged in accordance with our Fees and Payments Policy. Entering your credit card information on Citiclassified is safe. We use SSL-encryption to protect sensitive data transmissions. 
+Thank you for visiting CitiClassifieds.com website. CitiClassifieds.com know that you care about how the information about you is used and shared. This policy explains our practices regarding the privacy of those who visit our Website.   
+  
+---  
+  
+**The Information We Collect**
 
 * * *
 
-Personal Descriptions & Photos 
+Generally, the only information that CitiClassifieds.com collects about you is that which you provide us voluntarily. We record the e-mail address of those who communicate with us through e-mail. If you supply us with your e-mail address via on-line registration, you may receive periodic mailings from us with information on new products and services or upcoming events. Any personally identifiable information that you provide to us will not be sold or shared to third parties unless such sharing is expressly authorized by you, required by law or as covered by this policy. If you are simply visiting or navigating our Website, CitiClassifieds.com will not collect, sell or share any of your personally identifiable information. Our web server may collect anonymous, non-personally identifiable information from you, such as your domain name, IP address and the type of browser you are using. Such information is gathered for statistical purposes only so that we may better understand our visitors' interests and preferences as well as for computer maintenance and security purposes.
 
-In an effort to facilitate a trusting community, we provide you with the option to submit pictures and/or a description of yourself. When you post your classified ad on Citiclassified, the ad description and pictures are displayed on the site and accessible to visitors on Citiclassified.com. Classifieds and photos are subject to approval and must meet the Classified Ad Guidelines. 
-
-* * *
-
-Our Use of Cookies 
-
-Citiclassified uses cookies to provide you access to protected pages without requesting a login each time. Cookies are small files that are placed on your computer when you visit our site. Our web site will reference and update the cookie each time you visit Citiclassified.com. 
+We may, in the future, use customer information for unanticipated uses not previously disclosed. For more on changes in our information practices, please see the paragraph below titled "Changes to this Policy".   
+  
+**Information Sharing**
 
 * * *
 
-Public Access to Information 
+Unless your prior consent has been obtained, CitiClassifieds.com will not provide your personal information to third parties. However, in any of the following cases CitiClassifieds.com may provide personal information to third parties without your prior consent. 
 
-The information that you provide when you post a classified ad, rate other members, and respond to ratings that others have given you, is posted in public areas and available to all visitors. Please remember that any information that is disclosed in these areas becomes public information, so please exercise caution. 
+  * If CitiClassifieds.com is required to do so by law. 
+  * If it is necessary to do so in order to protect the lives of persons or properties. 
+  * If it is necessary to cooperate with central government institutions, local governments, or any entities acting on their behalf for the execution of any legally prescribed business, and there is concern that obtaining your consent may impede the execution of the said business.
+
+  
+  
+**Data Security**
 
 * * *
 
-Security 
+We take precautions to insure that the information you submit to us via the web is as secure as reasonably possible from unauthorized use or access. CitiClassifieds.com has implemented physical, electronic and managerial procedures to keep any personal information disclosed to us by our users secure and to disclose such information only after obtaining permission from the user (except under the circumstances discussed above).
 
-All member data and activity is stored separately and is not directly accessible through a web browser. We use industry standard procedures and processes to safeguard the confidentiality of your identifiable personal information, such as firewalls, encryption, token authentication, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. 
+Please note that the web is an open system, therefore, while we take measures to protect your information once it has been submitted to us, we cannot guarantee the security of e-mails sent to us while they are in transit. Therefore, if you wish to communicate sensitive information to us, we recommend calling us instead of using e-mail.   
+  
+**Other Websites**
 
 * * *
 
-Who will have access to my personal information? 
+This Website may contain links to other websites that are not owned or maintained by CitiClassifieds.com. These links are included for your convenience and if you choose to link to one of these websites, your privacy with respect to such sites will be governed by their respective privacy polices and practices and not by CitiClassifieds.com's privacy policy.   
+  
+**Changes To This Policy**
 
-Our priority is to keep your personal information private and confidential. Citiclassified will not willfully disclose, rent, or sell your personal information to third parties. However, certain personal information will be available to others in the process of using Citiclassified. For example, visitors to Citiclassified may view your sign-in name, feedback rating, city, and items you have listed. Of course, once you provide personal information to another user, Citiclassified has no control over how that information might be used by that individual. In addition, should you circumvent our on-site messaging system, Citiclassified will be unable to provide assistance in transaction disputes. We recommend using our messaging system for any communications between you and other users. Citiclassified may choose to disclose your personally identifiable information to others under the following circumstances: You consent to share your information. In response to a criminal investigation, subpoena, court order or legal process. Your actions on Citiclassified appear to be in violation of our policies (including, but not limited to, our Classified Ad Guidelines, User Agreement, and Fees and Payments policies).You post a classified ad which we believe, in our sole discretion, may create a liability for Citiclassified.com. Nothing in this policy shall limit, prohibit, or otherwise deny the ability of Citiclassified to (1) transfer, assign, or sell our assets to a third party without limitation, or (2) dispose of our assets in any manner, through bankruptcy or similar proceeding. In addition, Citiclassified makes no warranties or claims regarding the accuracy or completeness of the information we collect and disclose through our site, and disclaims any liability regarding its use. 
+* * *
+
+As our Privacy Policy may change from time to time, be sure to check this Website frequently to view changes to this page. 
