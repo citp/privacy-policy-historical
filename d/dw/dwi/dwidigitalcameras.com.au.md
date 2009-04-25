@@ -1,60 +1,73 @@
-> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/help/privacy-policy.asp) for the most accurate reproduction.*
 
 # Digital World International - Privacy Policy
 
-| [](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/index.asp) |   
+| [](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/index.asp) |   
 ---|---  
   
 |  [Home](http://www.dwidigitalcameras.com.au/store/index.asp "Visit the DWI Home Web Site") |  [Digital Cameras](http://www.dwidigitalcameras.com.au/digitalcameras/index.asp "View our range of Digital Cameras") |  [Digital SLR Cameras](http://www.dwidigitalcameras.com.au/digitalslrcameras/index.asp "View our range of Digital SLR Cameras") |  [Digital Video Cameras](http://www.dwidigitalcameras.com.au/digitalvideocameras/index.asp "View our range of Digital Video Cameras") |  [My Account](http://www.dwidigitalcameras.com.au/store/account.asp "View your account") |  [View Basket](http://www.dwidigitalcameras.com.au/store/basket.asp "View your shopping basket") |  [Contact Us](http://www.dwidigitalcameras.com.au/about/contact.asp "View our Contact Us section") |  [Delivery](http://www.dwidigitalcameras.com.au/help/shipping-and-delivery.asp "View our Delivery section") |  [FAQs - Help](http://www.dwidigitalcameras.com.au/help/index.asp "View our FAQs and Help section") |   
   
-|  |  |  [ ](http://www.instantssl.com/ "Visit the instant SSL web site by Comodo")  
+|  | 
+
+  
+[ ](http://www.instantssl.com/ "Visit the instant SSL web site by Comodo")
+
+**
+
+  
+Sign Up to our News Letters and receive Immediate Exculsive Member Benefits!
+
+** Email Address:  
+  
+
+
 Search for:  
-
-
-\- [Advance Search](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/advsearch.asp "Use our advance search to find the item your looking for")
+  
+  
+\- [Advance Search](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/advsearch.asp "Use our advance search to find the item your looking for")
 
 **Categories**
 
 **Cameras**   
-\- [Digital Cameras](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=5 "View our range of Digital Cameras")   
-\- [Video Cameras](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=8 "View our range of Digital Video Cameras")   
-\- [Digital SLR Cameras](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=20 "View our range of Digital SLR Cameras")   
-\- [Leica Rangefinder Cameras](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=45&brand=57 "View our range of Leica Rangefinder Cameras")
+\- [Digital Cameras](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=5 "View our range of Digital Cameras")   
+\- [Video Cameras](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=8 "View our range of Digital Video Cameras")   
+\- [Digital SLR Cameras](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=20 "View our range of Digital SLR Cameras")   
+\- [Leica Rangefinder Cameras](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=45&brand=57 "View our range of Leica Rangefinder Cameras")
 
 **Camera Accessories**   
-\- [Epson Image Viewers](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=46&brand=58 "View our range of Epson Image Viewers")   
-\- [Flashes](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=10 "View our range of Camera Flashes")   
-\- [Lenses](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=9 "View our range of SLR Lenses")   
-\- [Memory Cards](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=47 "View our range of Memory Cards")
+\- [Epson Image Viewers](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=46&brand=58 "View our range of Epson Image Viewers")   
+\- [Flashes](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=10 "View our range of Camera Flashes")   
+\- [Lenses](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=9 "View our range of SLR Lenses")   
+\- [Memory Cards](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/browse.asp?idCategory=47 "View our range of Memory Cards")
 
   
 **Manufactures**   
-\- [Canon](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=2 "View our range of Canon products")   
-\- [Casio](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=33 "View our range of Canon products")   
-\- [Epson](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=58 "View our range of Canon products")   
-\- [Fuji Film](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=8 "View our range of Fuji Film products")   
-\- [JVC](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=11 "View our range of Fuji Film products")   
-\- [Kodak](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=9 "View our range of Fuji Film products")   
-\- [Leica](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=57 "View our range of Fuji Film products")   
-\- [Nikon](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=4 "View our range of Nikon products")   
-\- [Olympus](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=5 "View our range of Olympus products")   
-\- [Panasonic](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=10 "View our range of Panasonic products")   
-\- [Pentax](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=6 "View our range of Pentax products")   
-\- [Ricoh](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=24 "View our range of Ricoh products")   
-\- [Samsung](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=56 "View our range of Samsung products")   
-\- [Sanyo](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=55 "View our range of Sanyo products")   
-\- [Sigma](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=13 "View our range of Sigma products")   
-\- [Sony](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=7 "View our range of Sony products")   
-\- [Tamron](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=14 "View our range of Tamron products")   
-\- [All Manufacturers...](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp "View all Manufactures")
+\- [Canon](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=2 "View our range of Canon products")   
+\- [Casio](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=33 "View our range of Canon products")   
+\- [Epson](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=58 "View our range of Canon products")   
+\- [Fuji Film](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=8 "View our range of Fuji Film products")   
+\- [JVC](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=11 "View our range of Fuji Film products")   
+\- [Kodak](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=9 "View our range of Fuji Film products")   
+\- [Leica](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=57 "View our range of Fuji Film products")   
+\- [Nikon](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=4 "View our range of Nikon products")   
+\- [Olympus](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=5 "View our range of Olympus products")   
+\- [Panasonic](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=10 "View our range of Panasonic products")   
+\- [Pentax](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=6 "View our range of Pentax products")   
+\- [Ricoh](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=24 "View our range of Ricoh products")   
+\- [Samsung](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=56 "View our range of Samsung products")   
+\- [Sanyo](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=55 "View our range of Sanyo products")   
+\- [Sigma](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=13 "View our range of Sigma products")   
+\- [Sony](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=7 "View our range of Sony products")   
+\- [Tamron](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp?id=14 "View our range of Tamron products")   
+\- [All Manufacturers...](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/brands.asp "View all Manufactures")
 
 **Information**   
-\- [Becoming a member](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/help/create-account.asp "Learn how to create a member account")   
-\- [News](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/about/news.asp "Learn about News currently happening")   
-\- [Testimonials](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/about/testimonials.asp "View our Testimonials from our happy customers")   
-\- [Top Sellers](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/topsellers.asp "View our Top selling products")
+\- [Becoming a member](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/help/create-account.asp "Learn how to create a member account")   
+\- [News](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/about/news.asp "Learn about News currently happening")   
+\- [Testimonials](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/about/testimonials.asp "View our Testimonials from our happy customers")   
+\- [Top Sellers](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/topsellers.asp "View our Top selling products")
 
-[](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/help/payment.asp "payment options")
+[](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/help/payment.asp "payment options")
 
 [](http://validator.w3.org/check?uri=referer)
 
@@ -66,7 +79,7 @@ Search for:
 ---|---|---  
 | 
 
-[Home](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/store/index.asp "Go back to the home page") > [Frequently Asked Questions](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/help/index.asp "Go back to Frequently Asked Questions") > [Terms and Conditions](https://web.archive.org/web/20081224130746id_/http%3A//www.dwidigitalcameras.com.au/help/terms-and-conditions.asp "Terms and Conditions") > **Privacy Policy**
+[Home](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/store/index.asp "Go back to the home page") > [Frequently Asked Questions](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/help/index.asp "Go back to Frequently Asked Questions") > [Terms and Conditions](https://web.archive.org/web/20090425073704id_/http%3A//www.dwidigitalcameras.com.au/help/terms-and-conditions.asp "Terms and Conditions") > **Privacy Policy**
 
 This is a privacy policy for http://www.dwidigitalcameras.com.au
 
@@ -144,5 +157,6 @@ Review our bargains and specials which in some cases are better than wholesale. 
 
 Digital World International (DWI) delivers its range of Digital Cameras, Digital SLR Cameras and Digital Video Cameras and Camcorders, Lenses, flashes, speedlites, speedlights and other accessories Australia wide to places with in New South Whales (NSW), Queensland (QLD), Victoria (VIC), Tasmania (TAS), Australian Capital territory (ACT), South Australia (SA), Northern territory (NT) and Western Australia (WA) including such places as Adelaide, Albany, Albury, Alice Springs, Armidale, Balladonia, Ballarat, Bellvue Hill, Bendigo, Brisbane, Broadbeach, Broken Hill, Bunbury, Carnarvon, City Beach, Cobar, Broome, Bundaberg, Byron Bay, Cairns, Canberra, Carnarvon, Ceduna, Coffs Harbour, Cooktown, Dampier, Darwin, Derby, Fremantle, Geelong, Geraldton, Georgetown, Gladstone, Glen Innes, Gold Coast, Hobart, Kalgoorlie, Karratha, Karumba, Katherine, Larrimah, Launceston, Lismore, Mackay, Melbourne, Moree, Mount Isa, Moura, Newcastle, Noosa, Perth, Port Hedland, Portland, Port Lincoln, Port Macquarie, Ravensthorpe, Rockhampton, Sunshine Coast, Sydney, Tamworth, Townsville, Tweed Head, Wodonga, Wollongong. Plus anywhere else that FedEx and DHL service in Australia.   
   
+---  
   
 [ [Privacy Policy](http://www.dwidigitalcameras.com.au/help/privacy-policy.asp "Privacy Policy") ]  [ [Terms and Conditions of use and sale](http://www.dwidigitalcameras.com.au/help/terms-and-conditions-of-use-and-sale.asp "Terms and Conditions of use and sale") ]  [ [About Us](http://www.dwidigitalcameras.com.au/about/index.asp "About Us") ]  [ [Contact Us](http://www.dwidigitalcameras.com.au/about/contact.asp "Contact Us") ]  [ [Sitemap](http://www.dwidigitalcameras.com.au/store/sitemap.asp "View the sitemap of our web site") ]  [ Click Here to Bookmark Us! ]  [ Top of Page ]  [ [RA Form](http://www.dwidigitalcameras.com.au/help/raform.pdf "Return Autherizeation Form") ]  © 2001 - 2008 Digital World International Limited (DWI). All rights reserved  All brands, logos, images and names are trademarks of their respective companies. Images used are for illustrative purposes only and may not be identical to the product supplied. 
