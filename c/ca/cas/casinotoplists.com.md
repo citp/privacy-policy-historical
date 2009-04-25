@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153009id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426014620id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
@@ -42,17 +42,29 @@ Linda's big favourite
 
   * 2.
 
+[](https://web.archive.org/goto/casino770_a546)
+
+8 /10
+
+  * 3.
+
 [](https://web.archive.org/goto/eurogrand-casino_a546)
 
 Steve's big favourite
 
 7 /10
 
-  * 3.
+  * 4.
 
-[](https://web.archive.org/goto/casino-bellini_a546)
+[](https://web.archive.org/goto/roxy-palace-casino_a546)
 
-7 /10
+8 /10
+
+  * 5.
+
+[](https://web.archive.org/goto/millionaire-casino_a546)
+
+6 /10
 
 
 
