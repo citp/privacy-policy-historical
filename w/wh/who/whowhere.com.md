@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724160930id_/http%3A//info.lycos.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhere.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425222549id_/http%3A//info.lycos.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Lycos Info - Lycos Network Privacy Policy
 
