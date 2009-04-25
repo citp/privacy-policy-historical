@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530022544id_/http%3A//www.fastcompany.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425134631id_/http%3A//www.fastcompany.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast Company
 
