@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413095517id_/http%3A//london.citysocialising.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425174815id_/http%3A//london.citysocialising.com/privacy.asp) for the most accurate reproduction.*
 
 # CitySocialising.com - Privacy
 
