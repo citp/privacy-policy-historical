@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netforcepress.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225163853id_/http%3A//www.netforcepress.com/index.php%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netforcepress.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425203830id_/http%3A//www.netforcepress.com/index.php%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
 
-# NetForce PRESS, Privacy Policy
+# NetForce PRESS, Privacy Policy, Free Press Release Distribution Service, Free PR
 
 The following Privacy Policy applies to NetForce PRESS and all Websites owned and maintained by Race River Corporation Pty Ltd.
 
