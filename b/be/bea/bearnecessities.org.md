@@ -1,28 +1,30 @@
-> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921204606id_/http%3A//www.bearnecessities.org/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnecessities.org privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425094918id_/http%3A//www.bearnecessities.org/Privacy.html) for the most accurate reproduction.*
 
 # Contact Bear Necessities Privacy Policy
 
-Bear Necessities has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices as of December 19, 2004.
+Bear Necessities Pediatric Cancer Foundation is committed to protecting your privacy. This statement explains what personally identifiable information we collect, how it's used and shared, what choices you have in disclosing your information, security, and how you can correct inaccuracies. 
 
-The www.BearNecessities.org web site is owned and operated by Bear Necessities. Our postal address is: Bear Necessities Pediatric Cancer Foundation, Inc., 23 W. Hubbard Street, 3rd Floor, Chicago, IL 60610. We can be reached via e-mail at CustomerService@BearNecessities.org or you can reach us by telephone at 1-312-836-BEAR (2327).
+**Information Collection and Use**  
+Bear Necessities Pediatric Cancer Foundation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. Our site uses cookies to keep track of your shopping cart.
+**Links**  
+This web site contains links to other sites. Please be aware that Bear Necessities Pediatric Cancer Foundation is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-Our site's e-mail subscription form requires users to give us contact information (like their name and e-mail address). We use customer contact information from the e-mail subscription form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Bear Necessities does not sell nor distribute information collected to third parties. Users may opt-out of receiving future mailings; see the choice/opt-out section below, or by writing to us at the above address.
+**Email Newsletter**  
+We send our email newsletter to those users whose email we have obtained through events, online donations or have signed up to be on our mailing list.  Every email from Bear Necessities Pediatric Cancer Foundation contains an option for the user to unsubscribe. 
 
-Our site uses a secure online order form for customers to request information, products, and services. We collect visitor's contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is only used to bill the user for products and services.
+**Security of Your Personal Information**  
+Bear Necessities Pediatric Cancer Foundation secures your personal information from unauthorized access, use or disclosure. Bear Necessities Pediatric Cancer Foundation secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-Security  
-The Bear Necessities website has security measures in place to protect the loss, misuse, and alteration of any information under our control. We know the importance of online security, and utilize a Secure Socket Layer (SSL) to protect your information. This protects credit card numbers, online forms, and other confidential information from interception and hacking. We use Thawte (a division of VeriSign) to insure our site is authentic and secure and to provide complete online payment security. This technology ensures that your information is only readable by our processing department. We encrypt personal information when transmitting over the Internet.
-
-Cookies  
+**Cookies**  
 We also use a technology called "cookies". A cookie is a piece of data that is sent to your browser and stored on your system for record keeping purposes. We use cookies to facilitate your use of this site, allowing you to use the shopping cart feature and to order product without entering your personal information each time you visit us. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. Bear Necessities gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: either e-mail with your name and e-mail address to mailto:CustomerService@BearNecessities.org or write to us at: Bear Necessities Pediatric Cancer Foundation, Inc., 23 W. Hubbard Street, 3rd Floor, Chicago, IL 60610.
+**Choice/Opt-Out**  
+Bear Necessities gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: either e-mail with your name and e-mail address to mailto:CustomerService@BearNecessities.org or write to us at: Bear Necessities Pediatric Cancer Foundation, Inc., 23 W. Hubbard Street, 3rd Floor, Chicago, IL 60610.
 
-Correct/Update  
-Bear Necessities gives users the following options for changing and modifying information previously provided: either e-mail with your name and e-mail address to CustomerService@BearNecessities.org or write to us at: Bear Necessities Pediatric Cancer Foundation, Inc., 23 W. Hubbard Street, 3rd Floor, Chicago, IL 60610. If you feel that Bear Necessities is not following its stated information policy, you may contact us at the above addresses or phone number, or contact state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or via the Web at http://www.ftc.gov/ftc/complaint.htm.
+**Correct/Update**  
+If you feel that Bear Necessities is not following its stated information policy, you may contact us at 55 W. Wacker Drive, Ste. 1100, Chicago, Illinoios, 60601 or phone us at 312-214-1200.
 
-Date: December 19, 2004  
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  
 
