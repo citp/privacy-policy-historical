@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013818id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubi.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426003119id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
@@ -152,7 +152,6 @@ Ubisoft is a licensee of the ESRB’s Privacy Online Program. If you believe tha
 > Attn.: Privacy Online Program  
 > 317 Madison Avenue, 22nd Floor  
 > New York, NY 10017  
-> 212-759-0700  
 > [privacy@esrb.org](mailto:privacy@esrb.org)
 
 back to top  
@@ -168,7 +167,7 @@ back to top
   
 **UBISOFT’S KIDS PRIVACY POLICY**
 
-Last updated August 28, 2006
+Last updated July 18, 2008
 
 Welcome to Ubisoft!
 
