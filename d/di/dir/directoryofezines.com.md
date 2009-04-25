@@ -1,39 +1,59 @@
-> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205011023id_/http%3A//www.directoryofezines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425060341id_/http%3A//www.directoryofezines.com/privacy.html) for the most accurate reproduction.*
 
-# EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT
+# Directory of Ezines-Privacy
 
-**OUR PRIVACY POLICY**
+   
+OUR PRIVACY POLICY
 
-DirectoryOfEzines.com is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. 
+DirectoryOfEzines.com is committed to protecting the privacy of our online visitors.
 
-In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection. 
+We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements.
 
-All online visitor data collected by DirectoryOfEzines.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.
+Anyone who wishes can choose to be removed from our mailing list at any time.
 
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [ click here](http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm#priv2).
+In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection.
 
-We use Aweber for our email newsletter. Aweber's email privacy policy can be viewed [here](http://www.aweber.com/privacy.htm?id=99).
+We do not store credit card numbers on our servers and use third party services for payment processing and shopping cart services.
 
-**
+All online visitor data collected by DirectoryOfEzines.com is protected against unauthorized access.
+
+We will not sell, trade, or give your personal information to other companies or organizations.
+
+We use Aweber for our email newsletter. Aweber's email privacy policy can be viewed at [http://www.aweber.com](http://www.aweber.com/)
 
 Children's Privacy
 
-**
-
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. DirectoryOfEzines.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.
 
-Know the sites your kids are visiting and which sites are appropriate. 
+Know the sites your kids are visiting and which sites are appropriate.
 
-Look for Web site privacy policies. Know how your child's information is treated. 
+Look for Web site privacy policies. Know how your child's information is treated.
 
 Check out the FTC's site
 
-_[ http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.htmlf)_ for more tips on protecting children's privacy online. 
+<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for more tips on protecting children's privacy online.
 
-**Contacting Us**
+Contacting Us
 
-We can be reached by email. To send us an email [ click here](mailto:support@directoryofezines.com)
+We can be reached via our support center.
+
+[http://www.charliepagesupport.com](http://www.charliepagesupport.com/)
 
 DirectoryOfEzines.com
+
+No Spam Policy
+
+We do not promote any form of SPAM or sending of email to ANYONE who has not requested information from you.
+
+  
+We do not suggest BUYING MAILING LISTS or performing BULK EMAILING
+
+The bottom line is simple, if you are not mailing to an opt-in list (people who expressly ask to receive your information) you are sending spam.
+
+We are committed to safeguarding the privacy of people's email addresses and are against the use of UCE (Unsolicited Commercial Email) or spamming including newsgroup mailing.
+
+Please report your issue with us and we will investigate your concerns forthwith.
+
+If you have any questions please contact Charlie Page using the links above.
