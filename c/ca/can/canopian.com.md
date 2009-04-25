@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023135948id_/http%3A//www.canopian.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425212036id_/http%3A//www.canopian.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - War Games Online | Shooting Games | Free Games
+# Privacy Policy | Canopian Arcade
 
-We can be reached via e-mail at [privacy@canopian.com](mailto:privacy@canopian.com)
+For issues regarding your privacy concerns, you may [contact us here](http://www.canopian.com/policy/privacy-policy.html).  
+For all other general inquiries, email us at [info@canopian.com](mailto:info@canopian.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.
 
@@ -13,7 +14,14 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-google.com
+google.com  
+valueclickmedia.com  
+statcounter.com  
+
+
+Google and the DoubleClick DART Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to this site's visitors based on their visit to this site and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -25,4 +33,4 @@ Consumers can access this information by e-mail us at the above address.
 
 Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them.
 
-If you feel that this site is not following its stated information policy, you may contact us at the email addresses listed above.
+If you feel that this site is not following its stated information policy, you may [contact us here](http://www.canopian.com/policy/privacy-policy.html).
