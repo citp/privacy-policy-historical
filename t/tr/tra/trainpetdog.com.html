@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216154346id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2009-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090425134656id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -43,7 +43,115 @@
                     <td valign="top" bgcolor="#FDF9E8"> <table width="100%" border="0" cellspacing="0" cellpadding="5">
                         <tbody><tr> 
                           <td width="28%" valign="top" bgcolor="#FDF9E8"> 
-                            <script language="javascript" src="http://www.trainpetdog.com/emch.js"></script>
+                            			  <script>
+
+var jcoo;
+var ur=document.URL;
+var sp=ur.split("?");
+var n=sp.length;
+if(n>1)
+{
+ var id=sp[1];
+ var newid=id.split("&");
+ 
+ var cje=newid[0].split("=");
+ var nn=cje.length;
+ if(nn==1)
+ {
+    var cje1=newid[0].split(":");
+   var nn3=cje1.length;
+   if(nn3==1)
+ {
+
+   var finalid=cje[0];
+   var cnm1=finalid;
+var cal = 'http://www.affiliates.trainpetdog.com/affiliates/jrox.php?uid='+finalid;
+//var rep='<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">';
+	//alert(cal);
+	var imge='<img border="0" src="'+cal+'" width="1" height="1">';
+	//document.write('<scr' + 'ipt lang' + 'uage="JavaScript"' + ' src=' + cal + '></scr' + 'ipt>');
+	document.write(''+imge+'');
+	var trackerMu_thispagedomain = trackerExtractDomainName(document.URL);
+        trackerSetCookie("jcoo", cnm1, trackerMu_thispagedomain);
+		}
+ }
+}
+
+
+function trackerExtractDomainName(s) {
+ var i = s.indexOf('//');
+ if(i > -1) { s = s.substr(i+2); }
+ 
+ i = s.indexOf('/');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ i = s.indexOf(':');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ var re = /[a-z]/i;
+ if(! re.test(s)) { return s; }
+ 
+ var a = s.split('.');
+ 
+ if(a.length < 2) { return s; }
+ 
+ var domain = a[a.length-2] + '.' + a[a.length-1];
+ 
+ if(a.length > 2) {
+    if(a[a.length-2].length==2 && a[a.length-1].length==2) {
+      domain = a[a.length-3] + '.' + domain;
+      }
+   }
+ return domain.toLowerCase();
+}
+ 
+
+function trackerSetCookie (cookieName1, value, domain) {
+ var argv = trackerSetCookie.arguments;
+ var argc = trackerSetCookie.arguments.length;
+ var date = new Date();
+ date.setTime(date.getTime()+(10*365*24*60*60*1000));
+ var expires = "; expires="+date.toGMTString();
+ document.cookie = cookieName1+"="+value+";domain="+domain+";expires="+expires+"; path=/";
+}
+ 
+ 
+ 
+
+var expDays = 365*4;
+
+//var exp = new Date(); 
+//exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function getcookie1(jcoo) {
+//var cookieName=tracker;
+//alert(document.cookie);
+var id = document.cookie;
+var cookievalue = "";
+if (document.cookie.length > 0) {
+cookievaluec = id.split("jcoo=");
+var n2=cookievaluec.length;
+if(n2>1)
+{
+cookievalue = cookievaluec[1].split(";");
+return cookievalue[0];
+}
+else
+{
+ return cookievalue;
+}
+
+}
+else
+{
+ return cookievalue;
+}
+
+}
+</script>
+
+
+<script language="javascript" src="http://www.trainpetdog.com/emch.js"></script>
 <form action="http://www.aweber.com/scripts/addlead.pl" method="POST" name="Form1" onsubmit="return emailCheck1(Form1);">
   <table width="200" align="center" cellpadding="5" cellspacing="0" class="linenew">
   <input type="hidden" name="meta_web_form_id" value="2112785238">
@@ -54,7 +162,7 @@
 <input type="hidden" name="meta_adtracking" value="">
 <input type="hidden" name="meta_message" value="1">
 <input type="hidden" name="meta_required" value="from">
-<input type="hidden" name="meta_forward_vars" value="0">
+<input type="hidden" name="meta_forward_vars" value="1">
 <input type="hidden" name="custom url" value="http://www.trainpetdog.com/Dogs">
                 <tbody><tr>
                   
@@ -102,7 +210,47 @@ return "";
 var link = '<input type="hidden" name="custom cmversion" value="'+gc+'"><input type="hidden" name="custom cmphase" value="'+gc1+'">';
 
 		document.write(link);
-</script><input type="hidden" name="custom cmversion" value=""><input type="hidden" name="custom cmphase" value="">
+		
+		
+		var jcoo;
+var finalid=getcookie1(jcoo);
+if(finalid!="")
+{
+ var originalid=finalid.split("_");
+ document.write('<input name="custom affuser" type="hidden" value="'+originalid[0]+'">');
+}
+else
+{
+  document.write('<input name="custom affuser" type="hidden" value="">');
+}
+document.write('<input name="custom affusernamef" type="hidden" value="'+finalid+'">');
+function getcookie1(jcoo) {
+//var cookieName=tracker;
+//alert(document.cookie);
+var id = document.cookie;
+var cookievalue = "";
+if (document.cookie.length > 0) {
+cookievaluec = id.split("jcoo=");
+var n2=cookievaluec.length;
+if(n2>1)
+{
+cookievalue = cookievaluec[1].split(";");
+return cookievalue[0];
+}
+else
+{
+ return cookievalue;
+}
+
+}
+else
+{
+ return cookievalue;
+}
+
+}
+
+</script><input type="hidden" name="custom cmversion" value=""><input type="hidden" name="custom cmphase" value=""><input name="custom affuser" type="hidden" value=""><input name="custom affusernamef" type="hidden" value="">
                       </strong></font></p>
                     
         <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Your 
@@ -121,6 +269,7 @@ var link = '<input type="hidden" name="custom cmversion" value="'+gc+'"><input t
                 </tr>
               </tbody></table></form>
               <br>
+
 <table width="200" align="center" cellpadding="5" cellspacing="0">
 <tbody><tr> 
     <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40"></div></td>
@@ -272,10 +421,42 @@ privacy policy was changed on the 16th of July, 2005. </p></td></tr> </tbody></t
         Health</a><br>
        <a href="http://www.trainpetdog.com">Home</a> | <a href="http://www.trainpetdog.com/about-us.html">About Us</a> | <a href="http://www.trainpetdog.com/contact-us.html">Contact 
         Us</a> | <a href="http://www.trainpetdog.com/privacy.html">Privacy Policy</a> 
-        | <a href="http://www.trainpetdog.com/affiliates.html">Affiliate Program</a> 
+        | <script>
+		var ur=document.URL;
+ var newurx= ur.split("spe=");
+var newur=newurx[0].split("?");
+var num=newurx.length;
+if(num>1)
+{
+ var newurl=newurx[1].split("#");
+var spe=newurl[0].split("&");
+ var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+spe[0]+'">';
+}
+else
+{
+ var newurn= newur[0].split("/");
+ var nvv=newurn.length;
+ if(nvv>4)
+ {
+  if(newurn[3]=="Dogs")
+  {
+   var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe=Dog">';
+  }
+  else
+  {
+  var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe='+newurn[3]+'">';
+  }
+ }
+ else
+ {
+ var jj='<a href="http://www.trainpetdog.com/pet-affiliate-program.html">';
+ }
+}
+	document.write(jj);	
+		</script><a href="http://www.trainpetdog.com/pet-affiliate-program.html?spe=web">Pet Affiliate Program - Make Money from Your Website</a> 
         | <a href="http://www.trainpetdog.com/termsofuse.html">Terms Of Use</a> 
         <br>
-        <a href="http://www.trainpetdog.com/sitemap.html">Sitemap</a> | <a href="http://www.trainpetdog.com/resources.html">Resources</a> | <a href="http://www.trainpetdog.com/training-small-dog-breeds.html">Training Small Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-medium-dog-breeds.html">Training Medium Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-large-dog-breeds.html">Training Large Dog Breeds</a>
+        <a href="http://www.trainpetdog.com/sitemap.html">Sitemap</a> | <a href="http://www.trainpetdog.com/resources.html">Resources</a> | <a href="http://www.trainpetdog.com/training-small-dog-breeds.html">Training Small Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-medium-dog-breeds.html">Training Medium Dog Breeds</a> | <a href="http://www.trainpetdog.com/training-large-dog-breeds.html">Training Large Dog Breeds</a> | <a href="http://www.trainpetdog.com/our-tribute.html">Our Tribute</a>
 
         </font></p>
               
@@ -293,9 +474,19 @@ privacy policy was changed on the 16th of July, 2005. </p></td></tr> </tbody></t
 </script>
 <script type="text/javascript">
 _uacct = "UA-1473653-3";
+var _uRno = new Array();
+_uRno[0] = "aweber.com";
+_uRno[1] = "webmail.aol.com";
+_uRno[2] = ".mail.yahoo.com";
+_uRno[3] = "ssomail.charter.net";
+_uRno[4] = "mail.google.com";
+_uRno[5] = "webmail.att.net";
+_uRno[6] = "netmail.verizon.net";
+_uRno[7] = ".mail.live.com";
+_uRno[8] = "webmail.earthlink.net";
+_uRno[9] = ".juno.com";
 urchinTracker();
 </script>
-
 
 
 </body></html>
