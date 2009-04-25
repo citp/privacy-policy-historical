@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221135323id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425072050id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
-# UniqueRewards: Get Paid to Take Online Surveys
+# UniqueRewards
 
 User Log In
 
@@ -93,28 +93,24 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=139)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=695)
 
-**SearchCactus.com**
+**MyFax**
 
-Earn Quick Cash! Fill out the first-page form and complete at least one offer on the next page.
+With 30 day free trials and plans starting as low as $10 a month, MyFax and my1voice are the perfect solutions for many business needs.   
+Sign up for free trial and get reward!
 
-[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=139)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=3140)
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=144)
+**E-Poll CPA**
 
-**Napster U.S.**
+It's free and easy to become an E-Poll member!  
+Complete the brief member registration and get reward!
 
-Napster - fast, safe and legal. Listen to full-length songs up to five times for FREE! Over 2 million songs with unlimited plays and CD quality sound for just $12.95 a month! 7-DAY FREE TRIAL! From now until Dec. 31, 2008 you can get a 1 GB Creative ZEN V MP3 player and 3 months of unlimited Napster To Go Music for only $49. A savings of 50%. That's right, a brand new MP3 player and 3 months of unlimited music for only $49!
+[](https://web.archive.org/cgi-bin/click.cgi?mid=3235)
 
-[Get $5.00](https://web.archive.org/cgi-bin/click.cgi?mid=144)
+**StubHub.com**
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=785)
-
-**SnagAJob.com**
-
-Find a job that fits your schedule. Find part-time and full-time hourly positions on Snagajob.
-
-[Get $0.50](https://web.archive.org/cgi-bin/click.cgi?mid=785)
+Buy and sell tickets on StubHub.
 
 | 
