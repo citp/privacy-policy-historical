@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110706id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425160124id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # The Coolest One -
 
@@ -30,6 +30,8 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 shareresults.com  
 google.com  
 maxbounty.com
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
