@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radioandrecords.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134813id_/http%3A//www.radioandrecords.com/Aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioandrecords.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426042336id_/http%3A//www.radioandrecords.com/RRWebsite20/privacypolicy.aspx) for the most accurate reproduction.*
 
-# ®R&R - Radio & Records, Inc.
+# Welcome to Radio and Records
 
 **PRIVACY POLICY & USERS RIGHTS**  
   
