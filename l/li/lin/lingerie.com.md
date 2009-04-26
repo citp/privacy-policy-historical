@@ -1,63 +1,42 @@
-> *The following text is extracted and transformed from the lingerie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080109id_/http%3A//www.lingerie.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingerie.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426102633id_/http%3A//www.lingerie.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Lingerie.com
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+**Privacy Policy**
 
-At Lingerie.com your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. However, we Lingerie.com do not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
+**COLLECTION AND USE OF INFORMATION:**
 
-How Do We Use the Information We Collect?
+At BareWeb, Inc. we are committed to protecting your privacy.
 
-When you become an Lingerie.com member, we ask you to fill out a form that requests your name, address and e-mail address as well as some demographic information such as gender and date of birth. Lingerie.com will not share data with trusted partners to help us perform statistical analysis.
+By visiting or using our website, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use this website.
 
-Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment.
+For each visitor to our website, our web server automatically recognizes non-personally identifiable information only, _e.g._ , the IP address, domain type, browser version, and service provider. We also store information volunteered by you that you may elect to provide to us when you register or update your account, enter a contest, participate in a survey, shop online, or make a purchase.
 
-Your demographic information (gender, date of birth, etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.
+We use the information we collect about you to improve the content of our website, process orders and order confirmations, respond to your inquiries, and to provide you with a more personalized experience. We may also use the information we collect to occasionally notify you about important functionality changes to the website, new BareWeb services and special offers we think you’ll find valuable. By using our website, you consent to the collection and use of this information by BareWeb. BareWeb reserves the right to share information collected hereunder with its own affiliates.
 
-Refer-A-Friend
+**USE OF COOKIES:**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Lingerie.com does not store this information and uses it for the sole purpose of sending this one-time email.
+We use cookies placed on your computer’s hard drive through your Web browser to enable our systems to recognize your browser during your visit to our site and when you return to our site.
 
-Our Use of Log Files
+Our website may use a third party service provider to provide data collection and reports regarding our customers’ activities on our site to help us better understand consumer use of lingerie.com. The third party may use cookies on our behalf and may receive information about your browsing activity so that we may continue to refine and improve the site and better serve you, but the third party may not track or collect any personally identifiable information.
 
-When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
+**USE OF THIRD PARTIES:**
 
-Site Security
+We may contract with third parties to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
 
-All Lingerie.com employees take your personal information very seriously. All employees must learn and obey our security policies. Access to member personal information is limited to key management personnel and our member services department. The information is ID and password protected and our Web security is reviewed on a monthly basis. We have also installed and implied our site with a 128 bit encryption SSL.
+**APPLICABLE LAW:**
 
-Correcting/Updating Your Personal Information
+By visiting this site, you agree that the laws of the State of New Jersey, without regard to its conflict of laws principles, govern this privacy policy and any dispute of any sort that might arise between you and BareWeb or its affiliates. You consent to exclusive jurisdiction and venue in the courts of New Jersey.
 
-After becoming an Lingerie.com subscriber you may correct/update your personal information by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.
+**GENERAL:**
 
-Links To Other Sites
+We may change this policy from time to time, and we will post the amended terms on the lingerie.com web site. All amended terms will take effect immediately.
 
-This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the Lingerie.com site and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+These Terms are effective as of January 6, 2009.
 
-Communication
+If you have any questions about this privacy policy or the practices of the lingerie.com website, you may contact us at:
 
-From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from Lingerie.com.
-
-Legal Disclaimer
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-Supplementation
-
-We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our members receive the order and to lower costs associated with our programs.
-
-Contests
-
-Periodically, contests are run on our site. Sometimes contests are sponsored by our customers. To enter these contests you need only to enter your ID and password and your guess. At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner. Winner’s names are never shared with our customers without their consent.
-
-Our Use of Cookies
-
-Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
-
-Your Feedback is Always Welcome
-
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. You can reach us via email support@lingerie.com.
-
-SMG Stores, LLC  
-5050 Champion Blvd. G-6 # 106  
-Boca Raton, FL 33496
+Bareweb, Inc.  
+Attn: lingerie.com  
+17 Mileed Way  
+Avenel, NJ 07001
