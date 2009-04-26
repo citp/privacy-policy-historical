@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
-[About Us](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/about_us.htm)  
+[About Us](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/about_us.htm)  
   
 
 
-[Find Us](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/findus.htm)  
+[Find Us](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/findus.htm)  
   
 
 
@@ -17,15 +17,18 @@
 
 
 [Logos & Standards  
-     of Usage](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/Logos/default.htm)  
+     of Usage](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/Logos/default.htm)  
   
 
 
-[News & Publications](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/news_publications/default.htm)  
+[News & Publications](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/news_publications/default.htm)  
+
+
+[Organizational Chart](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/organizational_chart.htm)  
 
 
 [Policy & Management   
-     Guidelines](https://web.archive.org/web/20081219155704id_/http%3A//division.uaex.edu/policy_management/default.htm)  
+     Guidelines](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/policy_management/default.htm)  
   
 
 
