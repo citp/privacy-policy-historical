@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044018id_/http%3A//nicetranslator.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426180017id_/http%3A//www.nicetranslator.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Nice Translator - The fast, easy to use online translator
 
