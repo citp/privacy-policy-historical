@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019040130id_/http%3A//www.megasearch.biz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426095355id_/http%3A//www2.megasearch.biz/privacy.aspx) for the most accurate reproduction.*
 
 # MegaSearch Privacy Policy
 
