@@ -1,40 +1,22 @@
-<!--The following is the downloaded HTML source of the metromela.com privacy policy that was archived on 2008-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080601220029id_/http%3A//www.metromela.com/index.php/footerlinks/privacy/5/1/4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metromela.com privacy policy that was archived on 2009-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426191949id_/http%3A//www.metromela.com/footerlinks/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-200000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="title" content="Metromela">
+<meta name="title" content="Metromela home page">
 <meta name="robots" content="index, follow">
-<meta name="description" content="MetroMela project">
-<meta name="keywords" content="symfony, project">
+<meta name="description" content="Find recommendations in your city">
+<meta name="keywords" content="Metromela">
 <meta name="language" content="en">
 <meta name="verify-v1" content="F7ccobHq0qySvvcA1vGDBDAxzSnLRdzCJd08LNIqGA4=">
 <meta name="y_key" content="acdedf6a949fa54b">
-<title>Metromela</title>
+<meta name="msvalidate.01" content="A665599982CB4E60B549C6888987706A">
+<title>Metromela home page</title>
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.metromela.com/css/metromela_n.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.metromela.com/css/one_big.css">
 
 
-
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="/js/admin.js"></script>
-<script type="text/javascript" src="/js/signup.js"></script>
-<script type="text/javascript" src="/js/window.js"></script>
-<script type="text/javascript" src="/js/effects.js"></script>
-<script type="text/javascript" src="/js/window_effects.js"></script>
-<script type="text/javascript" src="/js/debug.js"></script>
-<script type="text/javascript" src="/js/reviewpage.js"></script>
-<script type="text/javascript" src="/js/metromela.js"></script>
-<script type="text/javascript" src="/js/calendar_date_select.js"></script>
-<script type="text/javascript" src="/js/dimmingdiv.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/default.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/spread.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/alert.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/alert_lite.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/popup.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/silver.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/metromela_n.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/dimming.css">
 </head>
 <body>
 <center>
@@ -42,188 +24,149 @@
 	<div class="parentdiv">
 
 	  <!-- Header -->
-        	
-
-
-
-
-<!-- For Google Analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+        
 <script type="text/javascript">
-        _uacct = "UA-2741343-1";
-        urchinTracker();
+var city1 = 0;
+var widgetJsArray = new Array();
+function changeArea()
+{
+	if(city1)
+	{ //alert('i am here'+city1);
+		createWidget('area1','area_container',area_array[city1],true); 
+	}
+}
+function changeTags()
+{
+	if(city1)
+	{ 
+		createWidgetMatch('search_for','autocontainer3',sugg_tags[city1],true);
+	}
+}
+pg = 0;
+function changeCity1(incity)
+{
+//	citytab = selecttab('city');
+//	citytab.value = incity;
+//alert('i am here'+incity)
+	city1 = incity;
+	//alert(city1);
+}
+
 </script>
-<!-- Ends Google Analytics -->
 
-
-		
-<div class="innerheader">
-		<div class="innertopbarLeft">Welcome 
-		<label class="logout">	Guest 
-			 			| <a href="javascript:void(0);" title="Login" onclick="javascript:showLogin();">Login</a> |
-				<a href="/index.php/home/do/signup/5/1/4">Sign up</a>							<!-- sabin home/index-->
-		</label>
-	</div>
 	
-	
-	<div style="clear:both;">
-		
-		<div class="changecityfooter1">
-			<!-- <a href="/index.php/home/about/rewards/5/1/4">Know about reward points!</a> -->
-			<a href="/index.php/home/about/rewards/5/1/4">Know about reward points!</a>			<!--sabin home/index -->
-		</div>
-		<div class="changecityfooter2">			
-			<label class="selectCityInner">Hyderabad</label>
-					 					 					  | <a href="/index.php/home/index/ref/6">Bangalore</a>					 					 					  | <a href="/index.php/home/index/ref/7">Chennai</a>					 					 					  | <a href="/index.php/home/index/ref/8">Pune</a>					 					 					  | <a href="/index.php/home/index/ref/9">Vizag</a>					 					 					  | <a href="/index.php/home/index/ref/10">Cochin</a>					 					 					  | <a href="/index.php/home/index/ref/11">Mysore</a>					 
-		</div>	
-	
-	</div>
 
-</div><!-- end innerheader -->
-<!--- begin inclding the 3 tabs -->
-<div class="innerlogo">
+<div class="header" style="background-image:url(/images/header.gif); background-repeat:no-repeat;margin-bottom:1px;">
+<div style="float:left; padding-left:15px; padding-top:10px;" align="center"><a href="http://www.metromela.com/"><img src="/images/home_logo1.gif" border="0"></a></div>
+<div class="right">
+<div class="row1">
+			  								 <div class="login_new" style="width:70px;">&nbsp;<a href="http://www.metromela.com/home/signup">SIGN UP</a></div>
+				<div class="login_new" style="border-right:#FFFFFF 1px solid;"><a href="#" rel="#TB_inline?height=260&amp;width=350&amp;inlineId=login" class="thickbox">LOGIN</a></div>
+</div><!--end of row1-->
+<div class="home_mmtxt">
+MetroMela.com&nbsp;&nbsp;|&nbsp;&nbsp;<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#96EAFC; letter-spacing:5px;">EXPLORE YOUR METRO'S BEST MERCHANTS</span>
+</div><!--end of row2-->
+</div><!--end of right-->
+</div><!--end of header-->
 
-	<div style="margin-left:1px; float:left; margin-left:0px;">
 
-		<a href="/index.php/main/index/5/1/0/num_hits/1">
-		<img alt="Shopping, Food &amp; Entertainment. " src="/images/tab_lifestyle.gif" border="0" style="margin-top:8px;"></a>&nbsp;&nbsp;&nbsp;
+											
 
-		<a href="/index.php/main/index/5/2/0/num_hits/1">
-		<img alt="Health &amp; Wellness." src="/images/tab_health.gif" border="0" style="margin-top:8px;"></a>&nbsp;&nbsp;&nbsp;
+<div style="width: 100%; height: 32px; background-color:#000000;">
+<div style="float: left; width: 15%; padding-left: 18px; padding-top: 6px;" class="master_city">Select Your City :</div>
+<div style="float: left; width: 80%; height: 25px;">
+<div style="padding-top: 8px; padding-left: 8px;">
 
-		<a href="/index.php/main/index/5/3/0/num_hits/1">
-		<img alt="Family &amp; Kids." src="/images/tab_kids.gif" border="0" style="margin-top:8px;"></a>&nbsp;&nbsp;&nbsp;
-	</div>
-
-	<a href="/index.php/home/index/ref">
-	<div style="float:right">
-		<img alt="Find Info, Share Reviews, Get Deals" src="/images/innerlogo_new.gif" border="0/">
-	</div>
-	</a>
+ <span class="links"><a href="http://hyderabad.metromela.com">Hyderabad </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://bangalore.metromela.com">Bangalore </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://chennai.metromela.com">Chennai </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://pune.metromela.com">Pune </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://vizag.metromela.com">Vizag </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://cochin.metromela.com">Cochin </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://mysore.metromela.com">Mysore </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://mumbai.metromela.com">Mumbai </a></span>
+ &nbsp;&nbsp;<font color="#ffffff">|</font>&nbsp;&nbsp;<span class="links"><a href="http://delhi-ncr.metromela.com">Delhi-NCR </a></span>
+ 
 </div>
-<!--- end inclding the 3 tabs -->
-<!--- begin crumbs -->
-
-
-
-
-<div class="lifestylebar">	
-
-<div class="topmenuName">
-<strong>
-	<a href="/index.php/home/index/ref/5">Home</a>	
-	</strong>
 </div>
-
-<div class="topmenuName">
-<strong>
-	<a href="/index.php/metrosbest/index/5/1/4/num_hits/1/select">Metro's Best</a>	</strong>
-</div>
-<div class="topmenuName">
-<strong>
-		<a href="/index.php/mmreviews/index/5/1/4/id/0/2/1">Our Views</a>		
-	</strong>
-</div>
-<div class="topmenuName"><strong>
-	<a href="/index.php/hotdeals/index/5/1/4/id/1">Hot Deals</a>		
-	</strong>
-</div>
-<!-- Code to get the city of the Admin, mainly because of the limited access of Non-Super Admin's  -->
-
-
 </div>
 
 
-<div class="topbar3">
-  <form name="searchForm" action="/index.php/search" method="get">
-<input type="hidden" name="action" value="index">
-	<div class="searchbar">Search
-		<input type="text" name="search_for" id="search_for" value="">   in 
-		<select name="city" id="city"><option value="5" selected="selected">Hyderabad</option>
-<option value="6">Bangalore</option>
-<option value="7">Chennai</option>
-<option value="8">Pune</option>
-<option value="9">Vizag</option>
-<option value="10">Cochin</option>
-<option value="11">Mysore</option>
-</select>		<input type="submit" name="commit" value="Go" style="background-color: #FF963D;border:1;">&nbsp;
-
-	</div>
-  </form>
 
 
 
-
-
-  <a href="javascript:void(0)" onclick="javascript:displayWindow(event);"><div class="misc_config_tag"><strong>Invite a Friend</strong></div></a>		
-  <a href="javascript:void(0)" onclick="javascript:displayWindow(event);"> <div class="misc_config_tag"><strong>Suggest a Vendor</strong></div></a>
-	<a href="javascript:void(0)" onclick="javascript:displayWindow(event);"> <div class="misc_config_tag"><strong>Notify a deal</strong></div></a>
-  <a href="javascript:void(0)" onclick="javascript:displayWindow(event);"> <div class="misc_config_tag"><strong>Set deal alert</strong></div></a>
-
-
-</div>
-
-
-<!--- end crumbs -->
-<link href="/themes/spread.css" rel="stylesheet" type="text/css">
-<link href="/themes/alphacube.css" rel="stylesheet" type="text/css">
 
 	  <!-- Content -->
 	  	<div class="innercontentdiv">
-			<div style="margin:10px;">
+			<div>
 				<div class="content metrosbest">
 
-                	<div class="admincolumn" style="background-color: #ffffff;">
-                	    
+
+					<div style="float:left;">
+                        
 <div class="section1Title" align="center">Privacy Policy</div>
 
 <p class="MsoNormal">This privacy policy describes how we handle your personal
 information. We collect, use and share personal information to help <span class="SpellE">MetroMela</span> website work.</p>
 
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">We collect… <o:p></o:p></i></p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> We collect… <o:p></o:p> </p>
 
-<ul style="margin-top:0in" type="disc">
- <li class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list .5in">Name,
-     e-mail address, contact information, demographic profile, interests and
-     preferences, opinions and depending on the service used, sometimes
-     financial information. You can choose to provide demographic information
+
+<ul style="margin-left:.5in" type="disc">
+<li class="MsNormal">
+Name,e-mail address, contact information, demographic profile, interests 
+and  preferences, opinions and depending on the service used, 
+	 sometimes financial information. You can choose to provide demographic information
      such as occupation, education and gender to us. However, we encourage you
      to submit this information so that we can customize your experience on our
      site.</li>
- <li class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list .5in">Computer
-     sign-on data, statistics on page views, traffic to and from <span class="SpellE">MetroMela</span> and ad data.</li>
- <li class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list .5in">Other
+
+<li class="MsNormal"> Computer
+     sign-on data, statistics on page views, traffic to and from <span class="SpellE">MetroMela</span> and ad data. 
+	 </li>
+
+<li class="MsNormal">	 Other
      information including users' IP addresses and standard web log
-     information.</li>
- <li class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list .5in">Friend's
-     name and e-mail address, in case you use our referral service.</li>
+     information.
+</li>
+<li class="MsNormal">	 Friend's
+     name and e-mail address, in case you use our referral service.
+	 </li>
 </ul>
 
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">We use it to…<o:p></o:p></i></p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> We use it to… &nbsp;  </p>
 
-<ul style="margin-top:0in" type="disc">
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Provide
+
+
+
+<ul style="margin-left:.5in" type="disc">
+ <li class="MsNormal">Provide
      services.</li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Resolve
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Resolve
      disputes, collect fees and troubleshoot problems.</li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Enforce
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Enforce
      our policies.</li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Customize
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Customize
      users' experience, measure interest in our services and inform users about
      services and updates.</li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Communicate
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Communicate
      marketing and promotional offers. </li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Notify
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Notify
      users who win any contest.</li>
- <li class="MsoNormal" style="mso-list:l1 level1 lfo2;tab-stops:list .5in">Preserve
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Preserve
      social history as governed by existing law or policy.</li>
 </ul>
+
 
 <p class="MsoNormal">Information thus collected shall not directly or indirectly
 violate the laws of the country of your residence or that of the person(s) to
 whom the material is made available. </p>
 
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">Disclosure…<o:p></o:p></i></p>
+<p>&nbsp; </p>
+
+<p class="msoFAQ"> Disclosure…<o:p></o:p> </p>
 
 <p class="MsoNormal">We may disclose personal information to respond to legal
 requirements, enforce our policies, respond to claims that a posting or other
@@ -233,38 +176,38 @@ third parties unless we have your permission. We will share it to provide
 products or services you've requested, to help investigate or prevent illegal
 activities, violation of metromela.com Terms of Use or for any other legal
 issues.</p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> We may also share personal information with - </p>
 
-<p class="MsoNormal">We may also share personal information with -</p>
-
-<ul style="margin-top:0in" type="disc">
- <li class="MsoNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Corporate
+<ul style="margin-left:0.5in" type="disc">
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Corporate
      affiliates who help detect and prevent potentially illegal acts and
      provide joint services.</li>
- <li class="MsoNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Service
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Service
      providers who help with our business operations.</li>
- <li class="MsoNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Carefully
+ <li class="MsNormal" style="mso-list:l3 level1 lfo3;tab-stops:list .5in">Carefully
      screened third party service providers who wish to provide our users with
      offers of value.</li>
 </ul>
-
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">Using Information from
-<span class="SpellE">MetroMela</span>…<o:p></o:p></i></p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> Using Information from
+<span class="SpellE">MetroMela</span>…<o:p></o:p> </p>
 
 <p class="MsoNormal">You may use personal information gathered from <span class="SpellE">MetroMela</span> only to follow up with another user about a
 specific posting; not to send spam. Any personal information collected from another
 user has to be with that user’s expressed permission. </p>
 
-
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">Access, Modification
-and Deletion… <o:p></o:p></i></p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> Access, Modification
+and Deletion… <o:p></o:p> </p>
 
 
 <p class="MsoNormal">You can review, modify or erase your personal information by
 reviewing your posting or account status page. We delete personal information
 when we no longer need it for the purposes we described earlier. </p>
+<p>&nbsp; </p>
 
-
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">Security… <o:p></o:p></i></p>
+<p class="msoFAQ"> Security… <o:p></o:p> </p>
 
 
 <p class="MsoNormal">We use several tools such as encryption, passwords and
@@ -272,8 +215,8 @@ physical security to protect your personal information against unauthorized
 access and disclosure, but we do not guarantee the security of your personal
 information. </p>
 
-
-<p class="MsoNormal"><i style="mso-bidi-font-style:normal">General… <o:p></o:p></i></p>
+<p>&nbsp; </p>
+<p class="msoFAQ"> General… <o:p></o:p> </p>
 
 
 <p class="MsoNormal">We may update this policy at any time, with updates taking
@@ -281,7 +224,7 @@ effect when you next use any <span class="SpellE">MetroMela</span> service. If w
 or our corporate affiliates are involved in a merger or acquisition, we may
 share personal information with another company, but this policy will continue
 to apply. You can send questions about this policy to <a href="mailto:privacy@metromela.com">privacy@metromela.com.</a></p>
-
+<p>&nbsp; </p>
 
                 	</div>
 
@@ -290,19 +233,34 @@ to apply. You can send questions about this policy to <a href="mailto:privacy@me
 
 			</div>
 	<!-- Footer -->
-			<div class="footer" align="center">
-		<a href="/index.php/footerlinks/about/5/1/4">about us</a> |
-	<a href="/index.php/footerlinks/partners/5/1/4">corporate partner</a> |
-	<a href="/index.php/footerlinks/faq/5/1/4">FAQs</a> |
-	<a href="/index.php/footerlinks/contactus/5/1/4">contact us</a> |
-	<a href="/index.php/footerlinks/feedback/5/1/4">feedback</a> |
-	<a href="/index.php/footerlinks/termsofuse/5/1/4">terms of use</a> |
-	<a href="/index.php/footerlinks/privacy/5/1/4">privacy policy</a> |
-	<a href="/index.php/home/about/rewards/5/1/4">about reward points</a> 
+			<div class="footer_new" align="center">
+<a href="http://www.metromela.com/footerlinks/about">About Us</a> |
+<a href="http://www.metromela.com/footerlinks/faq">FAQ</a> |
+<a href="http://www.metromela.com/footerlinks/contactus">Contact Us</a> |
+<a href="http://www.metromela.com/footerlinks/feedback">Feedback</a> |
+<a href="http://www.metromela.com/footerlinks/termsofuse">Terms of Use</a> |
+<a href="http://www.metromela.com/footerlinks/privacy">Privacy</a> |
+<a href="http://www.metromela.com/home/about/rewards">About Reward Points</a> 
 </div><!--end of footer-->
 <div class="copyright">
-	Copyright � 2007-2008 MetroMela Internet Services Pvt Ltd. All Rights Reserved.
+	Copyright © 2007-2008 MetroMela Internet Services Pvt Ltd. All Rights Reserved.
 </div>
+
+
+<!-- For Google Analytics -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6090967-1");
+pageTracker._trackPageview();
+</script>
+
+<!-- Ends Google Analytics -->
+
+            
 		 </div>
 </div>
     </center>
@@ -310,72 +268,492 @@ to apply. You can send questions about this policy to <a href="mailto:privacy@me
 <script type="text/javascript">
 
 </script>
-<link href="/css/login_style.css" rel="stylesheet" type="text/css">
-<div style="position:absolute; right:20px;top:10px; z-Index:100; display:none" id="login_out">
-<div align="left" id="common"><img src="/images/login_img2.gif"></div>
-<div align="left" id="loginhead"><span class="login_txt">Login</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="signup_txt">New User?&nbsp;
+<link href="http://www.metromela.com/css/login_style.css" rel="stylesheet" type="text/css">
+<div style="display:none">
+<div id="login" align="center">
+<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+<div align="left" id="loginheadertag">
+<div class="title_txt" style="width:100px; float:left;">Login</div>
+<div class="signup_txt" align="right" style="width:190px; float:right;">New User?&nbsp;<a href="http://www.metromela.com/home/signup" style="color:#ffffff;">Signup</a></div>
+</div>
+<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
 
-<a href="/index.php/home/do/signup/5/1/4">
-
-Signup</a></span></div>
-<div align="left" id="common"><img src="/images/login_img3.gif"></div>
 <div id="content" align="center">
-<div> <!-- dummy for pwd sake -->
-
-
-
-<form method="post" action="/index.php/login/index/ref/5"><div id="fieldname" align="right">User Name</div>
-<div id="fields" align="center"><input id="loginid" name="loginid" type="text"></div>
-<div id="content"><img src="/images/spacer.gif" height="5px" width="1"></div>
-<div id="fieldname" align="right">Password</div>
-<div id="field_pass" align="center"><input name="pwd" id="pwd" type="password"></div>
-<div id="content"><img src="/images/spacer.gif" height="10px" width="1"></div>
-<div align="center" id="content">
-<div id="common" style="padding-left:70px"><input type="image" src="/images/loginbut.gif" border="0"></div>
-<div id="common" style="padding-left:5px;"><a href="javascript:void(0);" onclick="javascript:hideLogin(); "><img src="/images/cancelbut.gif" border="0"></a></div>
+<form action="/login" method="POST" id="loginme" name="loginme">
+<div align="left" id="content">
+<div class="structure">
+<div class="gen_txt" style="width:70px; float:left; padding-top:3px;">User Name</div>
+<div class="gen_txt" style="float:left; width:200px;"><input id="loginid" name="loginid" type="text" size="30" class="grabfocus" maxlength="50">
 </div>
-<div id="fieldname" align="left"><a href="javascript:void(0);" onclick="javascript:showDiv('forgot');return false;">Forgot Password?</a></div>
-<div id="content"><img src="/images/spacer.gif" height="10px" width="1"></div>
-<input type="hidden" name="referer" value="footerlinks/privacy?category=1&amp;city=5&amp;subcategory=4">
+</div>
+<div style="width:300px;"><img src="http://www.metromela.com/images/spacer.gif" height="5px;"></div>
+<div class="structure">
+<div class="gen_txt" style="width:70px; float:left; padding-top:3px;">Password</div>
+<div class="gen_txt" style="float:left; width:200px;"><input name="pwd" id="pwd" type="password" size="30" maxlength="50">
+</div>
+</div>
+</div>
+<div style="padding-top:18px; float:left; width:220px; padding-left:100px;">
+<div style="float:left;"><input type="image" src="/images/loginbut_black.gif" onclick="document.loginme.submit();" style="border:0"></div>
+<div style="float:left; padding-left:8px;"><img id="closeme" src="/images/cancelbut_black.gif"></div>
+</div>
+<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="5px" width="1"></div>
+<div style="float:left; padding-left:10px; width:200px;" align="left" class="signup_txt"><a href="#" onclick="forgotpop_up('forgot');return false;">Forgot Password?</a></div>
+<div style="width:300px;"><img src="http://www.metromela.com/images/spacer.gif" height="5px;"></div>
+<input type="hidden" name="referer" value="http://www.metromela.com/footerlinks/privacy">
+</form>
 
-
+<div align="left" id="forgot" style="display:none;">
+<form action="/home/forgotPasswordMail/ref" method="POST" name="forgot_pwd">
+<div class="structure">
+<div class="gen_txt" style="width:70px; float:left; padding-top:3px;">Email ID</div>
+<div class="gen_txt" style="float:left; width:200px;"><input type="text" name="email" id="email" size="30" maxlength="50">
+<input type="hidden" name="referer" value="http://www.metromela.com/footerlinks/privacy"></div>
+</div>
+<div style="width:300px;"><img src="http://www.metromela.com/images/spacer.gif" height="5px;"></div>
+<div align="center" style="float:left; width:323px; padding-bottom:15px;">
+<input type="image" src="/images/sendbutton.gif" onclick="document.forgot_pwd.submit();" style="border:0">
+</div>
 </form>
 
 </div>
-
-
-
-
-<div id="forgot" style="display:none;">
-
-<form method="post" action="/index.php/home/forgotPasswordMail/ref/5">
-
-<div id="fieldname" align="right">Email ID</div>
-<div id="field_pass" align="center">
-
-
-
-
-<input type="text" name="email" id="email" value="" class="input1">
-
+</div>
+</div>
 
 </div>
-<div id="content"><img src="/images/spacer.gif" height="10px" width="1"></div>
-<div align="center" id="content">
-<div id="common" style="padding-left:100px"><input type="image" src="/images/sendbut.gif" name="submit" value="Send" border="0"></div>
- <input type="hidden" name="referer" value="footerlinks/privacy?category=1&amp;city=5&amp;subcategory=4">
-</div>
-<div id="content"><img src="/images/spacer.gif" height="10px" width="1"></div>
-<input type="hidden" name="referer" value="footerlinks/privacy?category=1&amp;city=5&amp;subcategory=4">
+
+<div style="display:none;">
+<div id="tellus" align="center">
+<form name="tell_us" id="tell_us" method="post" action="/vendorpage/tellus">
+ 
+
+ <table align="center" width="100%">
+<tbody><tr>
+	<td align="center"><b>If you've spotted an error in this listing, help us fix it.</b></td>
+</tr>
+<tr><td align="center"><textarea id="txt_message" rows="8" class="grabfocus" cols="40" name="txt_message"></textarea></td></tr>
+<tr><td>&nbsp;</td></tr>
+  <tr><td align="center">
+				<a href="#" onclick="submitTellus('tell_us')"><img src="/images/submit_blck.gif" border="0"></a>
+  </td></tr>
+  </tbody></table>
 </form>
+</div>
+<div id="recommend" align="center" style="position:absolute;">
+    <form name="rec1" id="rec1" method="POST" action="/vendorpage/recomend">
+	        <input type="hidden" name="vendor_id" id="vendor_id" value="">
+        <input type="hidden" value="sub" name="rec_submit" id="rec_submit">
+        <input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy">
+        <div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+        <div align="left" id="recommend_headertag"></div>
+        <div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+
+		<div align="left" style="float:left; padding-left:20px;">
+			<div align="left" style="float:left;">
+				<div style="float:left;  padding-top:3px;" class="field_name">Merchant :</div>
+				<div style="float:left;">
+  					<input type="text" id="recommend_value" class="recommend_box required" readonly="" value="" size="60">
+				</div>
+			</div>
+		</div>
+
+        <div style="float:left; width:540px;">&nbsp;</div>
+        <div align="left" style="float:left; padding-left:20px;">
+        <div align="left" style="float:left; width:520px;">
+        <div align="left" style="float:left;  padding-top:3px;" class="field_name">Tags :</div>
+		 <!--<input id="suggestion1" type="text" size="51" class="required" name='suggestion1' onfocus="javascript:showtags('suggestion1',tags);"  maxlength="300" />-->
+        <div class="yui-skin-sam">
+        <div id="autocomplete13">
+            <input id="suggestion1" type="text" size="51" class="grabfocus" name="suggestion1" onfocus="javascript:createWidget('suggestion1','autocontainer1',sugg_tags['all']);" maxlength="300"><br>(separate with commas)
+        <br><div id="autocontainer1"></div>
+		
+</div>
+
+</div>
+</div>
+
+</div>
+<div align="left" style="float:left; padding-left:102px;">
+		<div align="left" id="sug_main" style="float:left;" class="gen_txt"><div style="float:left"><b>Suggested Tags:</b></div><div style="float:left" id="sug_tag"><a href="#">Shirts</a>, <a href="#">Ethnic wear</a>, <a href="#">kurta</a></div></div>
+</div>
+<div align="left" style="float:left; width:540px;">
+  <div align="center" style="float:left; width:540px;">
+<hr color="#999999" width="100%" size="1px"></div>
+<div style="float:left; width:480px; padding-left:20px;" class="field_name">Comment :</div>
+<div style="float:left; padding-top:5px; padding-left:20px;"><textarea cols="57" class="required" id="rec_message" name="rec_message" rows="5"></textarea><!--Please give true reason from personal experience -->
+</div>
+<div align="left" style="float:left; width:520px; padding-top:5px; padding-left:20px;">
+<div align="right" style="float:left; width:130px;" class="field_name">Rating :</div>
+<div style="float:left;">
+	<table align="left" border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+		        <td align="left" valign="top">
+					<ul class="star-rating">
+					<li id="rate" class="current-rating" style="width:0px" onchange="ratingChanged()"></li>
+												<li><a href="javascript:void(0)" title="1 star out of 5" class="one-star" onclick="submitRating('rate','1','0')">1</a></li>
+												<li><a href="javascript:void(0)" title="2 stars out of 5" class="two-stars" onclick="submitRating('rate','2','0')">2</a></li>
+												<li><a href="javascript:void(0)" title="3 stars out of 5" class="three-stars" onclick="submitRating('rate','3','0')">3</a></li>
+												<li><a href="javascript:void(0)" title="4 stars out of 5" class="four-stars" onclick="submitRating('rate','4','0')">4</a></li>
+												<li><a href="javascript:void(0)" title="5 stars out of 5" class="five-stars" onclick="submitRating('rate','5','0')">5</a></li>
+
+											</ul>
+											<input type="hidden" name="ratingVal0" class="required" id="ratingVal0" value="">
+
+		  </td>
+		  </tr>
+	</tbody></table>
+</div>
+</div>
+
+<div id="rec1_verify" style="display:none;float:left;" align="left">
+</div>
+</div>
+<div align="center" id="r_button" style="float:left; width:540px; padding-top:15px;">
+<a href="#" onclick="submitrecommend('rec1','r');">
+<img src="/images/submit_blck.gif" border="0"></a></div>
+</form>
+</div>
+</div>
+
+<div style="display:none">
+<div id="setdeal" align="center">
+<form name="sdeal" id="sdeal" method="POST" action="/mobilehelp/myAlerts">
+	<input type="hidden" value="store" name="deal" id="deal"> 
+	<input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy">
+			<input type="hidden" value="" name="hid_login" id="hid_login">
+   		<input type="hidden" value="1" name="alert_type" id="alert_type">
+		<input type="hidden" value="" name="storeid[]" id="storeid">
+		<input type="hidden" value="" name="d_user_ph_no" id="d_user_ph_no">
+		<input type="hidden" value="" name="category" id="category">
+	<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+	<div align="left" id="setdeal_headertag"><span class="title_txt">Set Deal Alert for</span></div>
+	<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+	<div id="content" align="center">
+	 <div align="left" id="content">
+	  <div class="structure_deal">
+	   <div align="left" class="field_name_deal" style="padding-top:3px;">Merchant :</div>
+	   <div style="float:left;"><input type="text" readonly="" name="st_name" id="st_name"></div>
+      </div>
+      <div style="float:left; width:400px;"><img src="http://www.metromela.com/images/spacer.gif" height="10px"></div>
+  	  <div class="structure_deal">
+		  <div align="left" class="field_name_deal" style="padding-top:3px;">Alert Type :</div>
+	     <div style="float:left;"><input type="text" readonly="" name="al_type" value="Deal"></div>
+	  </div>
+      <div style="float:left; width:400px;"><img src="http://www.metromela.com/images/spacer.gif" height="10px"></div>
+      <div style="float:left; height:27px; padding-top:8px; width:423px; border-top:#999999 1px dotted; border-bottom:#999999 1px dotted;">
+	  <div style="float:left; padding-left:35px;" class="alert_field">Send Alert through :</div>
+	  <div align="left" style="float:left; padding-left:10px;"><img src="/images/alert_smsicon.gif" border="0" title="sms"></div>	
+	  <div align="left" style="float:left; padding-left:2px;"><input id="d_sms" name="type[]" type="checkbox" value="1"></div>	
+	  <div align="left" style="float:left; padding-left:10px;"><img src="/images/alert_inboxbut.gif" border="0" title="inbox"></div>
+ 	  <div align="left" style="float:left; padding-left:2px;"><input id="inbox" name="type[]" type="checkbox" value="2" checked="checked"></div>
+	  <div align="left" style="float:left; padding-left:10px;"><img src="/images/alert_mailicon.gif" border="0" title="email"></div>
+	  <div align="left" style="float:left; padding-left:2px;"><input id="ntemail" name="type[]" type="checkbox" value="4"></div>
+	</div>
+	<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="15px" width="1"></div>
+	<div class="structure_deal">
+	  <div align="left" class="field_name_deal" style="padding-top:3px;">Mobile No. :</div>
+	  <div style="float:left;">
+	  <input name="d_ph_no" id="d_ph_no" type="text" value="" onchange="javascript:checkmobile('sdeal','d');"></div>
+  </div>
+  <div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="10px" width="1"></div>
+  <div class="structure_deal">
+    <div align="left" class="field_name_deal" style="padding-top:3px;">Deactivated after :</div>
+    <div style="float:left;"><select size="1" name="days">
+								<option value="5" selected="selected">5 days</option>
+								<option value="2">2 days</option>
+								<option value="1">1 day</option>
+								<option value="0">Never</option>
+							  </select>
+    </div>
+ </div>
+ <div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="15px" width="1"></div>
+ <div id="sdeal_verify" style="display:none;float:left;"></div>
+ <div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="15px" width="1"></div>
+ <div align="center" class="structure" id="d_button" style="padding-top:8px;display:block;">
+	 <a href="#" onclick="javascropt:submitdeal('sdeal','d');"><img src="/images/submit_but.gif" border="0"></a>
+ </div>
+ <div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="15px" width="1"></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+
+<div style="display:none">
+<div id="contact" align="center" style="width:98%;">
+<form name="contact" id="contact1" method="POST" action="/ask_the_vendor">
+<input type="hidden" value="" name="vendorId" id="vendorId">
+<input type="hidden" value="" name="cityid" id="cityid">
+<input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy">
+<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+<div align="left" id="contact_headertag"></div>
+<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+<div id="content" align="center">
+<div align="left" id="content">
+<div class="structure">
+  <p class="gen_txt" align="justify" style="margin:0; padding:0;"><span id="c_name">xxx</span> will call you after getting your message provided with your phone number and name.</p>
+</div>
+<div class="structure">
+      <textarea name="message" cols="46" rows="5"></textarea><!--Type your message or question here -->
+</div>
+<div class="structure">
+  <p class="instruction_txt" style="padding:0; margin:0;">Please fill in your name, mobile and email address</p>
+</div>
+<div class="structure" style="padding-top:3px;">
+<div class="field_name">Name :</div>
+<div style="float:left;"><input name="user_name" id="c_username" type="text" size="40" maxlength="100"></div>
+</div>
+<div class="structure" style="padding-top:3px;">
+<div class="field_name">Mobile No :</div>
+<input type="hidden" value="" name="c_user_ph_no" id="c_user_ph_no">
+<div style="float:left;"><input type="text" size="15" name="user_mobile" id="c_ph_no" maxlength="15" value="" onblur="javascript:checkcontact('contact1','c');"></div>
+</div>
+<div class="structure" style="padding-top:3px;">
+<div class="field_name">Email ID :</div>
+<div style="float:left;"><input name="user_email" id="c_email" type="text" size="40" maxlength="40" value=""></div>
+</div>
+<div class="structure" style="padding-top:3px;">
+<hr color="#999999" width="100%" size="1px"></div>
+</div>
+<div class="structure"><p class="gen_txt" align="justify" style="margin:0; padding:0;"></p></div>
+<div id="contact1_verify" style="display:none;float:left;" align="center">
+</div>
+<div class="structure" id="c_button" style="padding-top:3px;display:block;"><a href="#" onclick="submitcontact('contact1','c')"><img src="/images/submit_blck.gif" border="0"></a></div>
+<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="10px" width="1"></div>
+</div>
+</form>
+</div>
+</div>
+
+
+<div style="display:none">
+<div id="send_email" align="center">
+<form name="email" id="email" action="/send_email" method="post">
+    <div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+    <div align="left" id="sendemail"><span class="title_txt">Send Email</span></div>
+    <div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+<div id="content" align="center">
+<input type="hidden" name="rev_id" id="rev_id" value="">
+<input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy">
+<input type="hidden" name="rev_title" id="rev_title" value="">
+<input type="hidden" name="rev_city" id="rev_city" value="">
+<div align="left" id="content1">
+  <div class="structure" style="padding-top:3px;">
+<div class="field_name">Email ID:</div>
+<div style="float:left;"><input name="user_emails" id="user_emails" class="grabfocus" type="text" size="40" maxlength="100"></div>
+</div>
+<div class="structure"><p class="gen_txt" align="justify" style="margin:0; padding-left:85px;">Multiple IDs seperated by commas</p></div>
+<div class="structure" style="padding-top:3px;">
+<div class="field_name">Subject :</div>
+<div style="float:left;"><input name="subject" id="subject" type="text" size="40" maxlength="100" value="Interesting link"></div>
+</div>
+<div class="structure" style="padding-top:3px;">
+<div class="field_name">Comment :</div>
+<div style="float:left;"><textarea name="e_comment" id="e_comment" cols="30" rows="5">Hi,
+I found this interesting link on MetroMela.
+
+</textarea></div>
+</div>
+</div>
+<div style="padding-top:3px; float:left; width:100%;"><a href="#" onclick="check_Send_Email('email')"><img src="/images/sendbutton.gif" border="0"></a></div>
+<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="20px" width="1"></div>
+
+</div>
+</form>
+</div>
 
 </div>
 
 
 
+<div style="display:none">
+<div id="set_sms" align="center">
+<form name="sms1" id="sms1" action="/send_sms_form" method="post">
+<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+<div align="left" id="sendsms"><span class="title_txt">Enter the Phone number</span></div>
+<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+<input type="hidden" value="" name="vendor" id="vendor">
+<div id="content" align="center">
+
+<div align="left" id="content">
+<div class="structure">
+  <p class="gen_txt" align="justify" style="margin:0; padding-bottom:10px;">Enter the Mobile Number</p>
+</div>
+<div class="structure">
+<input type="hidden" value="" name="s_user_ph_no" id="s_user_ph_no">
+  <input type="text" name="s_ph_no" id="s_ph_no" class="grabfocus">
+  </div>
+  <div id="sms_verify" style="display:none;float:left;" align="center">
+</div>
+</div>
+<div class="structure" id="s_button" style="padding-top:8px;"><a href="#" onclick="submitdeal('sms','s')"><img src="/images/sendbutton.gif" border="0"></a></div>
+<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="20px" width="1"></div>
+</div>
+</form>
 </div>
 </div>
 
+<div style="display:none">
+<div id="setcomment" align="center">
+<form name="comment" id="comment" action="/send_comment" method="post">
+<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+<div align="left" id="sendemail"><span class="title_txt">Comment</span></div>
+<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+<div id="content" align="center">
+<input type="hidden" name="review_id" id="review_id" value="">
+<input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy">
+<input type="hidden" name="review_title" id="review_title" value="">
+
+<div align="left" id="content">
+<div class="structure">
+  <p class="gen_txt" align="justify" style="margin:0; padding-bottom:10px;">Enter the comment</p>
+</div>
+<div class="structure">
+  <textarea name="user_comment" id="user_comment" cols="46" rows="5" class="grabfocus"></textarea>
+</div>
+</div>
+<div class="structure" style="padding-top:8px;"><a href="#" onclick="submit_comment();"><img src="/images/sendbutton.gif" border="0"></a></div>
+<div id="content"><img src="http://www.metromela.com/images/spacer.gif" height="20px" width="1"></div>
+</div>
+</form>
+</div>
+
+
+
+</div>
+
+
+<div style="display:none">
+<div id="mobile_div" align="center">
+<form name="frm_mobile" id="frm_mobile" method="post">
+<div align="left" id="common"><img src="/images/contact_img2.gif"></div>
+<div align="left" id="mobilediv"><span class="title_txt">Enter the Mobile Number</span></div>
+<div align="left" id="common"><img src="/images/contact_img3.gif"></div>
+<div id="content" align="center">
+<div class="structure" style="padding-top:8px;">
+<input type="hidden" value="" name="m_user_ph_no" id="m_user_ph_no">
+
+<div class="field_name">Mobile No :</div>
+<div style="float:left;"><input type="text" size="25" name="m_ph_no" class="grabfocus" id="m_ph_no" maxlength="15" value=""></div>
+</div>
+<div id="frm_mobile_verify" style="display:none;float:left;" align="center">
+</div>
+<div class="structure" id="m_button" style="padding-top:8px;"><a href="#" onclick="submitmobile ('frm_mobile','m')"><img src="/images/sendbutton.gif" border="0"></a></div>
+
+<div id="content"><img src="/images/spacer.gif" height="15px" width="1"></div>
+</div>
+</form>
+</div>
+</div>
+
+
+
+
+
+
+
+<!--<div style='display:none'>
+<div id="recommend_store" align="center"  style='background-color:#EFEFEF' >
+<form  name='rec_store1' id="rec_store1" method='POST'  action="/vendorpage/recomend" >
+<input type='hidden' value='store' name='rec_store' id='rec_store'></input>
+<input type='hidden' value='' name='hid_login' id='hid_login' />
+<input type='hidden' value='' name='store_cat' id='store_cat'></input>
+<input type="hidden" name="referer_url" id="referer_url" value="www.metromela.com/footerlinks/privacy" >
+<div align="left" id="common"><img src="/images/contact_img2.gif" /></div>
+<div align="left" id="recommend_head"><span class="title_txt">Recommend a Merchant</span></div>
+<div align="left" id="common"><img src="/images/contact_img3.gif" /></div>
+
+<div align="left" style="float:left; padding-left:20px;">
+<div align="left" style="float:left; width:520px;">
+<div align="right" style="float:left; width:130px; padding-top:3px;" class="field_name">Business Name :</div>
+<div class="yui-skin-sam" >
+<div id="autocomplete11">
+<input id="store_name" class="grabfocus" name="store_name" type="text" size="51" onfocus="javascript:createWidget('store_name','autocontainer2',vendor_tags,true);" maxlength="300" />
+
+	<div id="autocontainer2"></div>
+	</div>
+
+</div>
+
+</div>
+
+</div>
+<div style="float:left; width:540px;">&nbsp;</div>
+<div align="left" style="float:left; padding-left:20px;">
+<div align="left" style="float:left; width:520px;">
+<div align="right" style="float:left; width:130px; padding-top:3px;" class="field_name">Tags :</div>
+<div class="yui-skin-sam" >
+<div id="autocomplete12">
+	<input id="suggestion" name="suggestion" type="text" size="51" onfocus="javascript:createWidget('suggestion','autocontainer',sugg_tags['all']);" maxlength="300" /><br/>(separate with commas)
+	<br /><div id="autocontainer"></div>
+	
+</div>
+</div>
+</div>
+
+</div>
+<div align="left" style="float:left;height:10px;">
+<img src="/images/spacer.gif" height="15px;" />
+</div>
+<div style="float:left; width:540px;"><img src="/images/spacer.gif" height="8px;" /></div>
+
+<div align="left" style="float:left; width:540px;">
+  <div align="center" style="float:left; width:540px;">
+<hr color="#999999" width="90%" size="1px" /></div>
+<div style="float:left; width:480px; padding-left:30px;" class="field_name">Reasons for Recommendation :</div>
+<div style="float:left; padding-top:5px; padding-left:30px;"><textarea id="comment" name='comment' cols="57" rows="5"></textarea>
+</div>
+</div>
+<div align="left" style="float:left; width:520px; padding-top:5px; padding-left:20px;">
+<div align="right" style="float:left; width:130px;" class="field_name">Rating :</div>
+<div style="float:left;">
+	<table  align="left" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+		        <td align="left" valign="top">
+					<ul class="star-rating">
+					<li id='rate_recomend' class="current-rating" style="width:0px" onchange="ratingChanged()"></li>
+												<li><a href="javascript:void(0)" title="1 star out of 5" class="one-star" onclick="submitRating('rate_recomend','1','1')" >1</a></li>
+												<li><a href="javascript:void(0)" title="2 stars out of 5" class="two-stars" onclick="submitRating('rate_recomend','2','1')">2</a></li>
+												<li><a href="javascript:void(0)" title="3 stars out of 5" class="three-stars" onclick="submitRating('rate_recomend','3','1')">3</a></li>
+												<li><a href="javascript:void(0)" title="4 stars out of 5" class="four-stars" onclick="submitRating('rate_recomend','4','1')">4</a></li>
+												<li><a href="javascript:void(0)" title="5 stars out of 5" class="five-stars" onclick="submitRating('rate_recomend','5','1')">5</a></li>
+
+											</ul>
+											<input type="hidden" name="ratingVal1" id="ratingVal1" value='' >
+
+		  </td>
+		  </tr>
+	</table>
+</div>
+</div><div id="rec_store1_verify" style="display:none;float:left;" align='left'>
+</div>
+
+<div align="center" id='r1_button' style="float:left; width:540px; padding-top:15px;"><a href="#" onclick="submitrecommend('rec_store1','r1');"><image src="/images/submit_blck.gif" border="0" /></a>
+</div>
+</form>
+</div>
+</div>
+-->
+		
+
+
+
+	<script type="text/javascript" src="http://www.metromela.com/js/dimmingdiv.js"></script>
+	<script type="text/javascript" src="http://www.metromela.com/js/signup.js"></script>
+	<script type="text/javascript">
+if((pg ) && (pg == true))
+{ 
+	paginate(pagediv_id , 1, total_pages, div_id);
+}
+
+suggest('areas');
+
+
+</script>
+<script type="text/javascript" src="http://www.metromela.com/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.metromela.com/js/thick.js"></script>
+<script type="text/javascript" src="http://www.metromela.com/js/yahoo.js"></script>
 
 
 
