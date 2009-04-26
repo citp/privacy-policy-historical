@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161003id_/http%3A//www.tube8live.com/docs.php%3Fdoc%3Dprivacy%26ald%3Dd3d3LnR1YmU4bGl2ZS5jb20%25253D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426201036id_/http%3A//www.tube8live.com/docs.php%3Fdoc%3Dprivacy%26ald%3Dd3d3LnR1YmU4bGl2ZS5jb20%25253D) for the most accurate reproduction.*
 
 # Tube8Live - Privacy Policy
 
-**Welcome!**   Tue, Dec 16, 4:10 pm  
+**Welcome!**   Sun, Apr 26, 8:10 pm  
   
 | 
 
-﻿ |     
+|     
 ---  
 **Your Acceptance**  
 |   |  By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.  |    
@@ -61,14 +61,14 @@ This site makes chat rooms available to its users. Please remember that any info
 
 Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. Tube8Live does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested. 
 
-Members areas of Tube8Live may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@tube8live.com](https://web.archive.org/web/20081216161003id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D). 
+Members areas of Tube8Live may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@tube8live.com](https://web.archive.org/web/20090426201036id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D). 
 
 |    
 ---|---|---  
 **Unsolicited Email Received by You**  
 |   | 
 
-Tube8Live does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Tube8Live, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20081216161003id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D). 
+Tube8Live does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Tube8Live, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/web/20090426201036id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D). 
 
 Tube8Live also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if Tube8Live becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Tube8Live reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Tube8Live program, termination of Tube8Live services, and forfeiture of all commissions. 
 
@@ -77,7 +77,7 @@ Tube8Live also does not condone spam by affiliates or chat hosts advertising our
 **Contact**  
 |   | 
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@tube8live.com](https://web.archive.org/web/20081216161003id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D) and provide us with your name, your Tube8Live login name, and any information you feel is important. 
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@tube8live.com](https://web.archive.org/web/20090426201036id_/http%3A//www.tube8live.com/contactsupport.php?ald=d3d3LnR1YmU4bGl2ZS5jb20%253D) and provide us with your name, your Tube8Live login name, and any information you feel is important. 
 
 The address for correspondence by post is  
 
@@ -96,4 +96,4 @@ The address for correspondence by post is
 [Support](https://web.archive.org/docs.php?doc=support&ald=d3d3LnR1YmU4bGl2ZS5jb20%253D) | [Become a Model](mailto:models@tube8live.com) | [Terms & Conditions](https://web.archive.org/docs.php?doc=tandc&ald=d3d3LnR1YmU4bGl2ZS5jb20%253D) | [Privacy Policy](https://web.archive.org/docs.php?doc=privacy&ald=d3d3LnR1YmU4bGl2ZS5jb20%253D)  
 [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/docs.php?doc=usc18&ald=d3d3LnR1YmU4bGl2ZS5jb20%253D)  
   
-© 2003-2008 Tube8Live Limited. All rights reserved.
+© 2003-2009 Tube8Live Limited. All rights reserved.
