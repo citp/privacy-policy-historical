@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095152id_/http%3A//www.eircom.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426142157id_/http%3A//www.eircom.net/about/privacy) for the most accurate reproduction.*
 
-# eircom net - Privacy
+# Privacy Policy • eircom net
 
-## Privacy Policy
+##  Privacy Policy 
 
 ### Privacy Policy for eircom net Online Publications
 
