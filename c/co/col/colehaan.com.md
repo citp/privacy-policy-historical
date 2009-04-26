@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205071151id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426033735id_/http%3A//www.colehaan.com/colehaan/assistance/privacy.jsp) for the most accurate reproduction.*
 
-# Cole Haan
+# Privacy Notice : ColeHaan.com
 
 ### Privacy Policy
 
