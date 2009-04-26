@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912150100id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426094306id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
@@ -20,6 +20,14 @@ Online visitors who ask to be on our mailing lists and/or receive periodic email
 
 Our server keeps a log of site usage statistics which involves keeping track of numbers of hits on various pages, IP addresses, and the sites from which a visitor is referred. For example, if you find our site through a search engine, our logs will show that a visitor clicked through to our site from that search engine. Such information is used to verify the effectiveness of marketing efforts for our newsletters and products. It may also be used to help interested parties determine the number of visitors who find our site through their sites. In other cases, site statistics are provided to potential advertisers and link partners. _These statistics cannot be used to identify an individual, since they do not include any personal information._
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+  * Google, as a third party vendor, uses cookies to serve ads on our website. 
+  * Google's use of the DART cookie enables it to serve ads on this site based on your visit to our site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
 #### Children's Privacy
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Vertex42.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
@@ -32,4 +40,4 @@ We do not knowingly collect personal information from children under the age of 
 
 Check out the FTC's site  for more tips on protecting children's privacy online.
 
-Contacting Us: We can be reached [via email](https://web.archive.org/web/20080912150100id_/http%3A//www.vertex42.com/about.html)
+Contacting Us: We can be reached [via email](https://web.archive.org/web/20090426094306id_/http%3A//www.vertex42.com/about.html)
