@@ -1,414 +1,283 @@
-<!--The following is the downloaded HTML source of the konami.com privacy policy that was archived on 2008-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080619035424id_/http%3A//www.konami.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D3810) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Konami Digital Entertainment, Inc. - Privacy Policy</title>
-
-<link rel="stylesheet" href="/ctlimg/konami/css/styles.css" type="text/css">
-<link rel="stylesheet" href="/ctlimg/konami/css/styles_store.css" type="text/css">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-<script type="text/javascript" src="/ctlimg/konami/scripts/nav.js"></script>
-<script type="text/javascript" src="/ctlimg/konami/scripts/login.js"></script>	
-
-</head>
-
-<body>
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-<a name="top"></a>
-<noscript>
-    <div class="noscript">
-    <table width="500" align="center" cellpadding="4">
-    <tr>
-    <td align="right" valign="top">
-    <b>NOTE:</b>
-    </td>
-    <td align="left">
-    Your browser currently has JavaScript deactivated. Some elements and functions of this website will not work until you activate Javascript.
-    </td>
-    </tr>
-    </table>
-    </div>
-</noscript>
-<div class="outer">
-
-
-	<div class="header">
-		<div class="headerkonamilogo"><a href="http://www.konami.com"><img src="http://akamai2.truition.com/ctlimg/konami/images/clear.gif" alt="" width="178" height="51" border="0"></a></div>
-		<div class="headercontent">
-				
-			<div id="loggedout" class="show">
-				<div class="headerlogin">
-																				<form name="logon" action="http://www.konami.com/edealinv/servlet/StoreLogon" method="post">
-					<input type="hidden" name="nurl" value="control/MyAccount.vm">
-					<input type="hidden" name="eurl" value="control/StoreLogon.vm">
-					<input type="hidden" name="rurl" value="control/MyAccount.vm">
-					<input type="hidden" name="ctl_nbr" value="3810">
-					
-					<input type="hidden" name="redirect" value="">				
-					<input type="hidden" name="newUser" value="">
-							
-					<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					<td><input type="text" name="usname" value="E-Mail Address" class="headerloginbox" onfocus="if (this.value=='E-Mail Address') this.value='';" onblur="if (this.value=='') this.value='E-Mail Address';"></td>
-					<td><input type="text" name="fakepassword" id="headerloginfakepassword" value="Password" class="headerloginbox" onfocus="focusPassword(this,'headerloginrealpassword');"><input type="password" name="pwd" id="headerloginrealpassword" class="headerloginbox" onblur="blurPassword(this,'headerloginfakepassword');" style="display:none;"></td>
-					<td valign="bottom"><input type="image" name="login" src="http://akamai2.truition.com/ctlimg/konami/images/btn_login.gif"></td>
-					</tr>
-					</tbody></table>
-					</form>
-				</div>
-				
-				<div class="headerinfo">
-				<a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Registration.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/icon_account.gif" alt="" width="13" height="10" border="0">Register Now</a>  &nbsp;&nbsp; <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Support.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/arrow_small_red.gif" alt="" border="">Help</a>
-				</div>			
-			</div>
-			
-			<div id="loggedin" class="hide">
-				<div class="headerinfo">
-				Welcome <b></b> &nbsp;&nbsp; <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/AddOrder.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/icon_cart.gif" alt="" width="17" height="11" border="0">My Cart</a> &nbsp;&nbsp;  &nbsp;<a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/MyAccount.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/icon_account.gif" alt="" width="13" height="10" border="0">My Account</a>  &nbsp;&nbsp; <a href="http://www.konami.com/edealinv/servlet/Logoff?ctl_nbr=3810&amp;nurl=control/StoreHome.vm"><img src="http://akamai2.truition.com/ctlimg/konami/images/arrow_small_red.gif" alt="" border="">Log Out</a>  &nbsp;&nbsp; <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Support.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/arrow_small_red.gif" alt="" border="">Help</a>
-				</div>
-			</div>				
-				
-			<script language="javascript">		
-			// Grab all the cookies to see if the customer is logged in or not.
-			var allcookies = document.cookie;
-			var flCustLogon = false;
-			
-			//alert("This is all my cookies, baby:" + allcookies);
-			
-			// let's see what cookies we have
-			
-			var cookieList = allcookies.split("; ");
-			
-			for(var i=0; i<cookieList.length; i++)
-			{
-				var mycookie = cookieList[i].split("=");
-				var mycookieKey = mycookie[0];
-				var mycookieVal = mycookie[1];
-			
-			    // we only want to worry about the edeal cookie session.
-			
-			    if(mycookieKey == "EISESSION_ID")
-				{                       
-					//alert("cookie key :" + mycookieKey);
-					//alert("cookie val :" + mycookieVal);
-					
-					// check to make sure that this session cookie isn't empty
-					
-					if(!mycookieVal || mycookieVal == "")
-					{
-			           // alert("my cookie is dead dawg");
-			            flCustLogon = false;
-					}
-					else
-					{
-			           /// alert("still clicking clicking");
-			            flCustLogon = true;
-					}
-				}
-			}
-			
-			 
-			
-			 // now dynamically generate the rest of the header portion.
-			
-			if(flCustLogon)
-			{		
-				document.getElementById('loggedout').className = 'hide';
-				document.getElementById('loggedin').className = 'show';				
-						
-			}
-			else
-			{
-				//user is logged in
-				document.getElementById('loggedout').className = 'show';
-				document.getElementById('loggedin').className = 'hide';
-		
-			}
-			 </script>			
-			 
-						
-						
-			<div class="headersearch">
-				<form name="HeaderSearchStoreItems" action="http://www.konami.com/edealinv/servlet/SearchStoreItems" method="get">
-					<input name="nurl" type="hidden" value="control/SearchStoreItemsShow.vm">
-					<input name="eurl" type="hidden" value="control/SearchStoreItemsShow.vm">
-					<input type="hidden" name="rurl" value="control/SearchStoreItemsShow.vm">
-					<input type="hidden" name="ctl_nbr" value="3810">
-					<input type="hidden" name="sidx" value="0">
-					<input type="hidden" name="psz" value="25">
-					<input type="hidden" name="orderby" value="si_title">
-					<input type="hidden" name="sipagename" value="sisearch">
-					<input type="hidden" name="searchType" value="0">
-				<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td><input type="text" name="searchText" value="Enter Keywords" onblur="if(this.value=='') this.value='Enter Keywords'" onfocus="if(this.value=='Enter Keywords') this.value=''" class="headersearchbox"></td>
-				<td valign="bottom"><input type="image" name="search" src="http://akamai2.truition.com/ctlimg/konami/images/btn_search.gif"></td>
-				</tr>
-				</tbody></table>
-				</form>
-			</div>
-		</div>
-	
-	</div>
-	
-	
-	<div class="main">
-	
-		
-
-	
-			
-				
-		
-				<!-- main column start 
-		
-		<div class="maincolumn">-->
-			
-	
-
-
-<!-- top center column start -->
-
-<div class="onecolumntopsection">
-
-<div class="largesection">
-
-	<div class="onecolumnheader">Privacy Policy</div>
-		
-	<div class="largecontent">
-	
-	
-
-
-	<!-- BEGIN MAIN SECTION -->
-<a href="http://www.esrb.org/confirm/konami-confirmation.jsp" target="_blank"><img src="/ctlimg/konami/images/esrb_confirm.gif" width="70" height="97" align="right" border="0"></a>
-
-<p>Last Updated:&nbsp;&nbsp;12/17/2007</p>
-
-<p><a href="/ctlimg/konami/konami_privacy_policy.pdf" target="_blank">Click here for PDF Version</a></p>
-
-		        <p>Konami Digital Entertainment ("Konami") respects the privacy rights of our online visitors and is committed to protecting the information collected from you.  To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, use, and disclose the information you provide to Konami online.  For our information practices with respect to children under 13, please see our children's section below.</p>
-		        <p>This Privacy Policy Statement and the certification seal located on this page confirms that Konami is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.</p>
-		        <p>ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business.  ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.</p>
-
-		        <p>Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:</p>
-		        
-		        <ul>
-		            <li>The websites and information covered by this Privacy Policy;</li>
-		            <li>Exactly what information may be collected and how it will be used;</li>
-		            <li>The consequences, if any, resulting from your refusal to provide personal information;</li>
-                    <li>Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information;</li>
-
-                    <li>Who, if anyone, is collecting your personal information;</li>
-                    <li>With whom, if anyone, is your personal information shared;</li>
-                    <li>What is a company's policy regarding links to third party sites;</li>
-                    <li>What choices you have with regard to the use of your personal information;</li>
-                    <li>How you can access, and if necessary, change the personal information a company collects and maintains;</li>
-                    <li>Whether and how information is collected from children under 13;</li>
-
-                    <li>How a company ensures data security, quality, and integrity; and,</li>
-                    <li>Where and how to ask questions or file complaints.</li>
-		        </ul>
-		        
-		        <p><strong>The websites and information covered by this Privacy Policy:</strong><br>
-                This Privacy Policy currently applies to the following websites operated by Konami:</p>
-                <p><a href="http://www.konami.com" target="_blank">www.konami.com</a></p>
-
-                <p>In addition, Konami may own several other domain names that point to the website listed above.  From time to time, we may add new sites and will take reasonable steps to update the list.</p>
-                <p>Please note that this Privacy Policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Konami offline.  In addition, this Privacy Policy applies only to sites maintained by Konami and not to websites maintained by other companies or organizations to which we link.  Konami is therefore not responsible for the content or activities provided on such sites.</p>
-                <p><strong>What types of information does Konami collect and how will it be used?</strong><br>
-                In order to give you the best experience on our site, Konami may collect information about you, but only if you voluntarily provide it to us.  Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) community registration; (2) product registration;(3) email correspondence with product support/customer service; (4) polls or surveys; and/or, (5) personal information submitted in a business capacity (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below.</p>
-                <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community Registration<br>
-                To register on our site, we may ask you to provide personal information such as your email address.  We may also collect demographic information including your date of birth, username and password, occupation and interests, and the city in which you live.  The information that you submit during registration will: (a) make up your profile; (b) allow you to use our message board, and participate in other activities on our site (e.g., contests and sweepstakes, or game-specific events); and, (3) allow us to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.</p>
-
-                <p>Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of Konami's message board.  We cannot and do not guarantee that this information will be kept confidential or private.  If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address not</p>
-              <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Registration<br>
-                To register a Konami product on our website, you will be required to submit your name, email address, home address, and telephone number. You may also be asked to answer demographic questions relating to your age, information about the product you purchased, the type of console you own, and the types of games you enjoy playing. The information that you submit during product registration will entitle you to limited warranty protection and technical support. Unless you opt out at the time of registration, we may also use your registration information to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.</p>
-                <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email Correspondence<br>
-                Konami may collect and temporarily store personal information that you voluntarily submit to us via email when contacting Customer Service.  For example, we provide on our site a link through which an online visitor can send e-mail to customer service addressing any issue a user encounters with a Konami product.  Any personal information contained in such email is used by Konami for the sole purpose of responding to your question.  Although most e-mail messages are deleted immediately after they are responded to, in certain cases, hard copies or data from certain e-mail correspondence may be kept on file for security purposes.  Any such copy or data will also be stored in a secure location, and information from these messages will not be used for marketing purposes. </p>
-                <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polls/Surveys<br>
-
-                From time to time, we may ask you for your opinion about our games or other products and services in the form of polls or surveys. Your responses to these polls help us provide products and services of interest to you. We do not request personal information such as your name in connection with these polls.</p>
-                <p>§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resumes<br>
-                Konami provides on its website an email address that visitors can use to send us their resumes. Personal information collected from resumes will be used for the purpose of accepting and evaluating candidate submissions for job postings and may therefore be shared within our company.  Other than as explained above, this Privacy Policy does not apply to personal information gathered through resumes.</p>
-		<p>Unless noted otherwise, we may also use your personal and demographic information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs.</p>
-		<p>From time to time, we are approached by third-party companies and organizations that provide products or services that we believe may be of interest to you.  To extend these products or services to you, we may use your personal information to send out notices on their behalf.  We strive to limit the notices and communications to those that we think you would appreciate receiving.</p>
-		<p>No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.</p>
-
-                <p><strong>What happens if I refuse to provide my personal information to Konami?</strong><br>
-		If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our site and may considerably limit the services we can provide you.  For example, if you refuse to provide your email address when registering, you will not be able to use our message boards.  To simply use our site, however, you do not need to give us any personal information.</p>
-<a name="cookies"></a>
-		<p><strong>Does Konami use cookies, track IP addresses or use other passive means to collect information?</strong></p>
-		<p><u>Cookies</u><br>
-		Konami may use cookies to improve the use of our websites.  A "cookie" is a small file or record-keeping device that websites often store on a user's computer.  Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites.  For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable.  However, we do not use cookies to store personal information such as your name.  In addition, Konami will not use cookies to retrieve information from your computer that was not originally sent in a cookie.  You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.</p>
-		
-		<p><u>Third Party Cookies</u><br>
-		We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes The type of information we may collect includes, but is not limited to, the following: the activity of the Site visitor's browser when the visitor is viewing the Site; the site path of visitors; and the time visitors come to the Site; and product codes and pricing information for merchandise that visitors purchase. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by <a href="http://www.omniture.com/optout" target="_blank">clicking here</a>.</p>
-		
-		<p><u>IP Addresses</u><br>
-
-		Konami may also collect your IP address for safety and security purposes.  An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.</p>
-		<p><u>Log Files</u><br>
-		The only other information collected passively by Konami is in the form of logs - files that record Web site activity, including how many "hits" a particular Web page is getting (a.k.a. "click-through data").  For example, log file entries are generated every time a visitor clicks an image on our site.  These entries are generated anonymously, and enable Konami to assess overall site activity, track interest in particular portions of our site, troubleshoot technical concerns, and identify the type of browser you are using.  We may also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you.  Log files are used internally only, and are not associated with any particular user or with any personal information.</p>
-		<p><strong>Who is collecting my personal information?</strong><br>
-		The information that you disclose while visiting any of our websites is collected by Konami Digital Entertainment, or one of its vendors on Konami's behalf, and is used in the manner specified above.</p>
-		<p><strong>With whom does Konami share my personal information?</strong><br>
-
-		Konami may share your personal information with our parent, subsidiary, or affiliate companies for purposes of internal marketing and demographic studies, which help us improve and tailor the products and services we provide you.</p>
-		<p>From time to time, Konami may employ and share your personal information with entities who use it solely to provide support for the internal operations of Konami's website(s) (e.g., message board operation and product registration storage).</p>
-		<p>Your personal information may also be shared with third parties -- typically businesses involved in the entertainment, food, clothing, media, or Internet industries -- so that they can either assist us in notifying you about special promotions or co-sponsor a promotion being offered on our site. We require all such third parties to agree to maintain the confidentiality, security, and integrity of the personal information they obtain from us. If you do not want us to share your information, please opt-out from such sharing at the time the information is collected.</p>
-		<p>We may disclose personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of Konami, our customers, or the public.</p>
-		<p>In addition, information about our customers 13 years old or older, including personal information, may be disclosed as part of any merger, sale, transfer of company assets, acquisition, or bankruptcy.</p>
-		<p><strong>What is Konami's policy regarding links to third party sites?</strong><br>
-
-		You should be aware that while you are on a website operated by Konami, you may be directed to other sites (usually retailers such as Amazon) that are beyond our control and for which we are not responsible.  Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.</p>
-		<p><strong>Can I choose how my personal information is used?</strong><br>
-		If you do not want Konami or any third party to send you product updates and other company information, and/or if you prefer not to have Konami share your personal information with third parties, please opt-out from these services at the time of registration or information collection.  If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at <a href="mailto:webinfo@konami.com">webinfo@konami.com</a>, and we will be happy to honor your request by regular mail at:
-		</p><p><strong>Konami Digital Entertainment, Inc.</strong><br>
-		Attention: Website Administrator<br>
-		2381 Rosecrans Ave. Suite #200<br>
-		El Segundo, CA 90245</p>		
-		<p><strong>How can I access my personal information?</strong>
-		If you have registered to use the message board on our site and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our website(s).  You may be required to submit your login name and password before you can access your profile information.</p>
-		<p>If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us via e-mail at <a href="mailto:webinfo@konami.com">webinfo@konami.com</a>, or by regular mail at:</p>
-		<p><strong>Konami Digital Entertainment, Inc.</strong><br>
-		Attention: Website Administrator<br>
-		2381 Rosecrans Ave. Suite #200<br>
-		El Segundo, CA 90245</p>
-		
-		<p>
-		<u>Your California Privacy Rights </u>
-
-</p><p>Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us: </p>
-
-<p>Konami Digital Entertainment, Inc.<br>
-Attention: Website Administrator<br>
-2381 Rosecrans Ave. Suite #200<br>
-El Segundo, CA 90245<br>
-webinfo@konami.com
-</p>
-
-<a name="children"></a>
-		<p><strong>What is Konami's online privacy policy regarding children under 13?</strong></p>
-		<p><u>Collection and Use of Personal Information</u></p>
-		<p>Konami may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and is submitted after we've obtained verifiable parental consent.  To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth.  Those users that indicate they are under 13 years of age are directed to our <a href="/ctlimg/konami/KDE_ParentConsent.pdf" target="_blank">Parental Permission Form</a>.  If given verifiable permission from a parent, Konami may collect and store the following types of personal information about a child under 13: email address, parent's or guardian's full name, parent's or guardian's email address, parent's or guardian's telephone number.  Konami may also collect demographic information about a child such as the child's date of birth, location, homepage, and other preferences; and, combine such information with the child's personal information.  Konami will only collect this information if it is voluntarily submitted to us by the child and provided with the parent's permission.  We do not gather personal information about a child through the use of passive collection mechanisms such as cookies.  For more information on how we use cookies and other information collection tools, please <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Privacy.vm&amp;ctl_nbr=3810#cookies">click here</a>.</p><p>
-		</p><p>The information that a child provides on his/her registration form may be used to: (a) make up the child's profile; (b) allow the child to use our message board, and participate in other activities on our site (e.g., contests, or game-specific events); and, (3) allow us to send the child, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.</p>
-		<p>Please note that we are prohibited from conditioning a child's participation in an activity - like message boards - on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. In addition, parents have the ability to consent to the collection of the child's information without consenting to the disclosure of that information to third parties.  To read about the steps Konami takes to protect the confidentiality, security, and integrity of the children's personal information, please click here.</p>
-		<p>In some instances, a child may be allowed to submit information to us online even without their parents' prior permission.  For example, Konami does not require verifiable parental consent if a child under 13 wishes to use the Product Support feature of our site.  The information collected in these areas is used to fulfill a one-time request from the child (e.g., answer the child's technical support question) and is deleted once that request has been fulfilled.</p>
-		<p><u>Contact Information</u></p>
-		<p>Any personal information that a child discloses while visiting our website(s) is collected by Konami Digital Entertainment.  Konami's contact information is as follows:</p>
-		<p><strong>Konami Digital Entertainment, Inc.</strong><br>
-		Attention: Website Administrator<br>
-		2381 Rosecrans Ave. Suite #200<br>
-		El Segundo, CA 90245<br>
-		(888) 212-0573<br>
-		<a href="mailto:webinfo@konami.com">webinfo@konami.com</a></p>
-		<p><u>Third Parties</u></p>
-		<p>Please read the section titled "With whom does Konami share my personal information" for our policy on the disclosure of personal information collected from children.</p>
-
-		<p><u>Parental Access</u></p>
-		<p>A parent who has already given Konami permission to collect, use, and/or disclose his or her child's personal information can, at any time, do the following: (1) view, correct, or have deleted the child's personal information; (2) discontinue further collection and use of the child's personal information and/or communication with the child; and/or, (3) prevent the disclosure of the child's personal information to third parties.  To do so, please follow the procedures provided in the Access section of this Privacy Policy.</p>
-		<p><strong>What safeguards does Konami use to protect my personal information?</strong></p>
-		<p>Konami maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect from all users, including children under 13.  Personal information collected by Konami is stored in secure operating environments that are not available to the public and is only accessible by authorized employees.  We also have security measures in place to protect the loss, misuse and alteration of the information under our control (i.e., maintain data quality).  Before we allow web users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password.</p>
-		<p>In addition, we take reasonable steps to ensure that third parties to whom we transfer personal information--for such purposes as co-sponsoring a special promotion--provide sufficient protection of such personal data.</p>
-		<p><strong>How do I ask a question or file a complaint?</strong></p>
-
-		<p>If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at <a href="mailto:webinfo@konami.com">webinfo@konami.com</a> or by regular mail at:</p>
-		<p><strong>Konami Digital Entertainment, Inc.</strong><br>
-		Attention: Website Administrator<br>
-		2381 Rosecrans Ave. Suite #200<br>
-		El Segundo, CA 90245</p>
-
-		<p>You can also contact ESRB Privacy Online directly at <a href="http://www.esrb.org/privacy/contact.jsp" target="_blank">www.esrb.org/privacy/contact.jsp</a> or at:<br><br>
-		ESRB Privacy Online<br>
-		Attn.: Director, Privacy Online<br>
-		317 Madison Avenue, 22 Floor<br>
-		New York, NY  10017<br>
-
-		(212) 759-0700<br>
-		<a href="mailto:privacy@esrb.org">privacy@esrb.org</a>
-		</p>
-		<p><i>By using this site, you signify your assent to the Konami Online Privacy Policy.  If you do not agree to this Privacy Policy, please do not use this site.  We reserve the right to make changes to this Policy.  If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure you aware of these changes.  Your continued use of this site will signify your acceptance of these changes.</i></p>
-
-		
-		
-		<br><br><br><br>
-	</div>
-
-	<div class="onecolumnfooter"></div>
-
-</div>
-
-
-
-
-</div>
-
-<!-- top center column end -->
-		
-		
-
-		
-				<!-- </div>
-		
-		main column end -->
-	
-		
-		<br clear="all">
-		
-	</div>
-</div>
-
-
-
-<script language="JavaScript1.2">
-function openwindow()
-{
-	window.open("http://www.konami-data.com/map/","mywindow","location=0,menubar=0,resizable=0,width=325,height=240");
-}
+<!--The following is the downloaded HTML source of the konami.com privacy policy that was archived on 2009-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426085205id_/http%3A//www.konami.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Konami Digital Entertainment, Inc. :  Privacy Policy</title>
+<script type="text/javascript" language="javascript">
+var baseUrl = 'http://www.konami.com';
 </script>
+<link rel="stylesheet" href="http://www.konami.com/css/global.css" type="text/css" media="media,screen">
+<link rel="stylesheet" href="http://www.konami.com/css/thickbox.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.konami.com/css/sifr.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.konami.com/css/jScrollPane.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.konami.com/css/autocomplete.css" type="text/css" media="media,screen">
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/jquery.scrollable.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/thickbox-compressed.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/swfobject.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/sifr.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/sifr-config.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/jScrollPane-1.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.konami.com/js/konami.js"></script>
 
-<div class="footer">
-	<div class="footerflags"><a href="javascript: openwindow()"><img src="http://akamai2.truition.com/ctlimg/konami/images/map_thumb.jpg" border="0"></a></div>
-	<div class="footerInfo"><a href="http://www.konami.com">Home</a> | <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Privacy.vm&amp;ctl_nbr=3810">Parental Guidance</a> | <a href="http://www.konami.jp" target="_blank">Corporate</a> | <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Terms.vm&amp;ctl_nbr=3810">Terms of Use</a> | <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Privacy.vm&amp;ctl_nbr=3810">Privacy Policy</a> | <a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Support.vm&amp;ctl_nbr=3810">Contact Us</a><br>
-© 2007 Konami Digital Entertainment. All rights reserved.</div>
-	<div class="footerESRB"><a href="http://www.konami.com/edealinv/servlet/ExecMacro?nurl=control/Privacy.vm&amp;ctl_nbr=3810"><img src="http://akamai2.truition.com/ctlimg/konami/images/esrblogo.gif" alt="" border="0"></a></div>
+<!--[if lt IE 7]>
+<style type="text/css">
+img, div, div.news-module, div.featured-module {
+	behavior: url(http://www.konami.com/css/iepngfix.htc);
+}
+div.news-module {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.konami.com/imgs/promo_300x250-1.png,sizingMethod='scale');
+}
+div.featured-module {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.konami.com/imgs/promo_300x250-2.png,sizingMethod='scale');
+}
+html {
+	filter: expression(document.execCommand("BackgroundImageCache", false, true));
+}
+</style>
+<![endif]--></head>
+<body>
+<div class="container">
+  	<div id="globalbar">
+		
+		<ul class="global">
+			<li class="global-konami"><a href="http://www.konami.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KONAMI.com</a><a class="arrow" href="http://www.konami.com" target="_blank"><img src="http://www.konami.com/imgs/arrow_down.gif" alt="Other Konami Sites:" width="9" height="7" border="0"></a>
+				<ul id="globalmenu"><li><a href="http://www.konami.com" target="_blank">Konami - US</a></li>
+					<li><a href="http://www.konami.com/eu/" target="_blank">Konami - EU</a></li><li><a href="http://www.konami.jp/" target="_blank">Konami - Japan</a></li>
+					<li><a href="http://www.konami.com/asia/" target="_blank">Konami - Asia</a></li><li><a href="http://www.konami.com/oceana/" target="_blank">Konami - Oceana</a></li>
+				</ul>
+			</li>
+			<li><a href="http://www.konami-play.com" target="_blank">KONAMI-PLAY</a></li>
+            <li><a href="http://www.gm.konami.com/" target="_blank">KONAMI GAMING</a></li>
+			<li><a href="http://www.konami.com/arcade/" target="_blank">KONAMI ARCADE</a></li>
+			<li><a href="http://www.konami.com/mobile/" target="_blank">KONAMI MOBILE</a></li>
+			<li><a href="http://www.konami.com/card/" target="_blank">KONAMI CARD</a></li>
+			<li><a href="http://www.konami.net/" target="_blank">KONAMI GLOBAL</a></li>
+		</ul>
+		
+		<div class="supportlink">
+			<a href="http://www.konami.com/support/">Support</a>
+		</div>
+		
+	</div>
+<div id="navigation">
+  <ul class="mainnav">
+        <li class=""><a class="nav-konami" href="http://www.konami.com/"><img src="http://www.konami.com/imgs/nav_konami.gif" width="202" height="52" alt="Konami." border="0"></a></li>
+    <li class="first"><a class="nav-news" href="http://www.konami.com/news/"><img src="http://www.konami.com/imgs/nav_news.gif" alt="NEWS." width="39" height="11" border="0"></a></li>
+    <li class="subsequent"><a class="nav-allgames" href="http://www.konami.com/games/"><img src="http://www.konami.com/imgs/nav_games.gif" alt="GAMES." width="47" height="12" border="0"></a></li>
+    <li class="subsequent"><a class="nav-downloadsmedia" href="http://www.konami.com/downloads/"><img src="http://www.konami.com/imgs/nav_downloadsmedia.gif" alt="DOWNLOADS and MEDIA." width="145" height="12" border="0"></a></li>
+    <li class="subsequent"><a class="nav-forums" href="http://www.konami-data.com/forum/"><img src="http://www.konami.com/imgs/nav_forums.gif" alt="FORUMS." width="56" height="12" border="0"></a></li>
+    <li class="subsequent"><a class="nav-aboutus" href="http://www.konami.com/aboutus/"><img src="http://www.konami.com/imgs/nav_aboutus.gif" alt="ABOUT US." width="68" height="12" border="0"></a></li>
+    <li class="gamesdropdown"><a class="nav-gameslist" href="http://www.konami.com/games/">Games List</a>
+      <ul id="gamesmenu" style="list-style:none">
+        <li><a href="http://www.konami.com/games/">See All Games</a></li>
+        <li><a href="http://www.konami.com/games/mgs4/">Metal Gear Solid 4: Guns of the Patriots / Metal Gear Online</a></li>
+        <li><a href="http://www.konami.com/games/ddr/">DanceDanceRevolution®</a></li>
+        <li><a href="http://www.konami.com/games/pes09/">Pro Evolution Soccer 2009</a></li>
+        <li><a href="http://www.konami.com/games/mqmt/">Magician's Quest Mysterious Times</a></li>
+		<li><a href="http://www.konami.com/games/saw/">SAW</a></li>		
+		<li><a href="http://www.konami.com/games/antnation/">Ant Nation</a></li>
+		<li><a href="http://www.konami.com/games/shsm/">Silent Hill Shattered Memories</a></li>
+		<li><a href="http://www.konami.com/games/wireway/">WireWay</a></li>
+		<li><a href="http://www.konami.com/games/vandalhearts/">Vandal Hearts Flames of Judgment</a></li>
+		<li><a href="http://www.konami.com/games/karaokerevolution/">Karaoke Revolution</a></li>
+		<li><a href="http://www.konami.com/games/zombie/">Zombie Apocalypse</a></li>
+        <li><a href="http://www.konami.com/games/kraie2/">Karaoke Revolution: American Idol Encore 2</a></li>
+        <li><a href="http://www.konami.com/games/cvooe/">Castlevania: Order of Ecclesia</a></li>
+        <li><a href="http://www.konami.com/games/cvj/">Castlevania Judgment</a></li>
+        <li><a href="http://www.konami.com/games/shh/">Silent Hill Homecoming</a></li>
+        <li><a href="http://www.konami.com/games/eakz/">Elebits: The Adventures of Kai and Zero</a></li>
+        <li><a href="http://www.konami.com/games/st/">Suikoden: Tierkreis</a></li>
+        <li><a href="http://www.konami.com/games/rockrevolution/">Rock Revolution</a></li>
+        <li><a href="http://www.konami.com/games/gti/">GTI Club+</a></li>
+        <li><a href="http://www.konami.com/games/th/">Time Hollow</a></li>
+        <li><a href="http://www.konami.com/games/libs/">Lost in Blue: Shipwrecked!</a></li>
+        <li><a href="http://www.konami.com/games/wcme/">Winx Club™: Mission Enchantrix</a></li>
+        <li><a href="http://www.konami.com/games/nitf/">New International Track &amp; Field</a></li>
+        <li><a href="http://www.konami.com/games/bdrpcg/">Blue Dragon Role Playing Card Game</a></li>
+        <li><a href="http://www.konami.com/games/touch/">Touch Konami</a></li>
+        <li><a href="http://www.konami.com/games/gradius/">Gradius Rebirth</a></li>
+        <li><a href="http://www.konami.com/games/yugioh/">Yu-Gi-Oh! 5D's</a></li>
+        <li>&nbsp;</li>
+      </ul>
+    </li>
+  </ul>
 </div>
-
-
-			
-
-
-
-
-<br>
-<a href="http://www.truition.net" target="_new"><img src="http://akamai2.truition.com/ctlimg/konami/images/Truition_powered_sm.gif" alt="" border="0"></a>
-<br><br>			
-
-
-
-
-
-
-
+  	<div class="navextras">
+		<a href="mailto:webinfo@konami.com?subject=Konami.com - Tell Us What You Want To See!" class="underconstruction">Konami.com is under construction.  Tell us what you think!</a>
+		
+		<div class="registerupdates"><a href="http://www.onlineregister.com/konami/" class="registerbutton">Register for updates!</a></div>
+		
+		<form>
+			<input type="text" size="43" name="searchquery" id="searchquery" value="Search Keyword" onfocus="if(this.value=='Search Keywords')this.value='';" onblur="if(this.value==''){this.value='Search Keyword';}" style="width:265px;">
+			<input type="image" class="submit" src="http://www.konami.com/imgs/spacer.gif">
+		</form>
+		
+		<!--<a class="thickbox" href="#TB_inline?height=200&width=475&inlineId=agegate&modal=true">lalal</a>-->
+	</div>  <div class="sitecontainer">
+    <div class="content">
+<a name="top"></a>
+      <h1>PRIVACY POLICY</h1>
+      <a href="http://www.esrb.org/confirm/konami-confirmation.jsp" target="_blank"><img src="http://www.esrb.org/privacy/members/privacy_clicktoconfirm.gif" align="right" border="0"></a>
+      <p>Last Updated:  12/01/2008</p>
+      <ul>
+        <li><a href="#0.1_websites">The websites and information covered by this Privacy Policy</a></li>
+        <li><a href="#0.1_information">What types of information does Konami collect and how will it be used?</a></li>
+        <li><a href="#0.1_refuse">What happens if I refuse to provide my personal information to Konami?</a></li>
+        <li><a href="#0.1_cookies">Does Konami use cookies, track IP addresses or use other passive means to collect information?</a></li>
+        <li><a href="#0.1_who">Who is collecting my personal information?</a></li>
+        <li><a href="#0.1_share">With whom does Konami share my personal information?</a></li>
+        <li><a href="#0.1_thirdparty">What is Konami's policy regarding links to third party sites?</a></li>
+        <li><a href="#0.1_choose">Can I choose how my personal information is used?</a></li>
+        <li><a href="#0.1_access">How can I access my personal information?</a></li>
+        <li><a href="#0.1_safeguards">What safeguards does Konami use to protect my personal information?</a></li>
+        <li><a href="#0.1_question">How do I ask a question or file a complaint?</a></li>
+      </ul>
+      <p><a href="Konami_PrivacyPolicy12012008.pdf" target="_blank">Click here for PDF Version</a></p>
+      <p>Konami Digital Entertainment ("Konami") respects the privacy rights of our online visitors and is committed to protecting the information collected from you.  To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, use, and disclose the information you provide to Konami online.
+        <!-- For our information practices with respect to children under 13, please see our children&#39;s section below. -->
+      </p>
+      <p>This Privacy Policy Statement and the certification seal located on this page confirms that Konami is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.</p>
+      <p>ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business.  ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.</p>
+      <p>Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:</p>
+      <ul>
+        <li>The websites and information covered by this Privacy Policy;</li>
+        <li>Exactly what information may be collected and how it will be used;</li>
+        <li>The consequences, if any, resulting from your refusal to provide personal information;</li>
+        <li>Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information;</li>
+        <li>Who, if anyone, is collecting your personal information;</li>
+        <li>With whom, if anyone, is your personal information shared;</li>
+        <li>What is a company's policy regarding links to third party sites;</li>
+        <li>What choices you have with regard to the use of your personal information;</li>
+        <li>How you can access, and if necessary, change the personal information a company collects and maintains;</li>
+        <li>How a company ensures data security, quality, and integrity; and,</li>
+        <li>Where and how to ask questions or file complaints.</li>
+      </ul>
+      <p><strong><a name="0.1_websites"></a>The websites and information covered by this Privacy Policy:</strong><br>
+        This Privacy Policy currently applies to the following websites operated by Konami:</p>
+      <p><a href="http://www.konami.com" target="_blank">www.konami.com</a></p>
+      <p>In addition, Konami may own several other domain names that point to the website listed above.  From time to time, we may add new sites and will take reasonable steps to update the list.</p>
+      <p>Please note that this Privacy Policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Konami offline.  In addition, this Privacy Policy applies only to sites maintained by Konami and not to websites maintained by other companies or organizations to which we link.  Konami is therefore not responsible for the content or activities provided on such sites.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_information"></a>What types of information does Konami collect and how will it be used?</strong><br>
+        In order to give you the best experience on our site, Konami may collect information about you, but only if you voluntarily provide it to us.  Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) community registration; (2) product registration;(3) email correspondence with product support/customer service; (4) polls or surveys; and/or, (5) personal information submitted in a business capacity (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below.</p>
+      <p>§        Community Registration<br>
+        To register on our site, we may ask you to provide personal information such as your email address.  We may also collect demographic information including your date of birth, username and password, occupation and interests, and the city in which you live.  The information that you submit during registration will: (a) make up your profile; (b) allow you to use our message board, and participate in other activities on our site (e.g., contests and sweepstakes, or game-specific events); and, (3) allow us to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.</p>
+      <p>Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of Konami's message board.  We cannot and do not guarantee that this information will be kept confidential or private.  If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address not</p>
+      <p>§        Product Registration<br>
+        To register a Konami product on our website, you will be required to submit your name, email address, home address, and telephone number. You may also be asked to answer demographic questions relating to your age, information about the product you purchased, the type of console you own, and the types of games you enjoy playing. The information that you submit during product registration will entitle you to limited warranty protection and technical support. Unless you opt out at the time of registration, we may also use your registration information to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.</p>
+      <p>§        Email Correspondence<br>
+        Konami may collect and temporarily store personal information that you voluntarily submit to us via email when contacting Customer Service.  For example, we provide on our site a link through which an online visitor can send e-mail to customer service addressing any issue a user encounters with a Konami product.  Any personal information contained in such email is used by Konami for the sole purpose of responding to your question.  Although most e-mail messages are deleted immediately after they are responded to, in certain cases, hard copies or data from certain e-mail correspondence may be kept on file for security purposes.  Any such copy or data will also be stored in a secure location, and information from these messages will not be used for marketing purposes. </p>
+      <p>§        Polls/Surveys<br>
+        From time to time, we may ask you for your opinion about our games or other products and services in the form of polls or surveys. Your responses to these polls help us provide products and services of interest to you. We do not request personal information such as your name in connection with these polls.</p>
+      <p>§        Resumes<br>
+        Konami provides on its website an email address that visitors can use to send us their resumes. Personal information collected from resumes will be used for the purpose of accepting and evaluating candidate submissions for job postings and may therefore be shared within our company.  Other than as explained above, this Privacy Policy does not apply to personal information gathered through resumes.</p>
+      <p>Unless noted otherwise, we may also use your personal and demographic information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs.</p>
+      <p>From time to time, we are approached by third-party companies and organizations that provide products or services that we believe may be of interest to you.  To extend these products or services to you, we may use your personal information to send out notices on their behalf.  We strive to limit the notices and communications to those that we think you would appreciate receiving.</p>
+      <p>No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_refuse"></a>What happens if I refuse to provide my personal information to Konami?</strong><br>
+        If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our site and may considerably limit the services we can provide you.  For example, if you refuse to provide your email address when registering, you will not be able to use our message boards.  To simply use our site, however, you do not need to give us any personal information.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_cookies"></a>Does Konami use cookies, track IP addresses or use other passive means to collect information?</strong></p>
+      <p><u>Cookies</u><br>
+        Konami may use cookies to improve the use of our websites.  A "cookie" is a small file or record-keeping device that websites often store on a user's computer.  Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites.  For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable.  However, we do not use cookies to store personal information such as your name.  In addition, Konami will not use cookies to retrieve information from your computer that was not originally sent in a cookie.  You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.</p>
+      <p><u>Third Party Cookies</u><br>
+        We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes The type of information we may collect includes, but is not limited to, the following: the activity of the Site visitor's browser when the visitor is viewing the Site; the site path of visitors; and the time visitors come to the Site; and product codes and pricing information for merchandise that visitors purchase. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by <a href="http://www.omniture.com/optout" target="_blank">clicking here</a>.</p>
+      <p><u>IP Addresses</u><br>
+        Konami may also collect your IP address for safety and security purposes.  An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.</p>
+      <p><u>Log Files</u><br>
+        The only other information collected passively by Konami is in the form of logs - files that record Web site activity, including how many "hits" a particular Web page is getting (a.k.a. "click-through data").  For example, log file entries are generated every time a visitor clicks an image on our site.  These entries are generated anonymously, and enable Konami to assess overall site activity, track interest in particular portions of our site, troubleshoot technical concerns, and identify the type of browser you are using.  We may also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you.  Log files are used internally only, and are not associated with any particular user or with any personal information.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_who"></a>Who is collecting my personal information?</strong><br>
+        The information that you disclose while visiting any of our websites is collected by Konami Digital Entertainment, or one of its vendors on Konami's behalf, and is used in the manner specified above.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_share"></a>With whom does Konami share my personal information?</strong><br>
+        Konami may share your personal information with our parent, subsidiary, or affiliate companies for purposes of internal marketing and demographic studies, which help us improve and tailor the products and services we provide you.</p>
+      <p>From time to time, Konami may employ and share your personal information with entities who use it solely to provide support for the internal operations of Konami's website(s) (e.g., message board operation and product registration storage).</p>
+      <p>Your personal information may also be shared with third parties -- typically businesses involved in the entertainment, food, clothing, media, or Internet industries -- so that they can either assist us in notifying you about special promotions or co-sponsor a promotion being offered on our site. We require all such third parties to agree to maintain the confidentiality, security, and integrity of the personal information they obtain from us. If you do not want us to share your information, please opt-out from such sharing at the time the information is collected.</p>
+      <p>We may disclose personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of Konami, our customers, or the public.</p>
+      <p>In addition, information about our customers 13 years old or older, including personal information, may be disclosed as part of any merger, sale, transfer of company assets, acquisition, or bankruptcy.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_thirdparty"></a>What is Konami's policy regarding links to third party sites?</strong><br>
+        You should be aware that while you are on a website operated by Konami, you may be directed to other sites (usually retailers such as Amazon) that are beyond our control and for which we are not responsible.  Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_choose"></a>Can I choose how my personal information is used?</strong><br>
+        If you do not want Konami or any third party to send you product updates and other company information, and/or if you prefer not to have Konami share your personal information with third parties, please opt-out from these services at the time of registration or information collection.  If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at <a href="mailto:webinfo@konami.com" target="_blank">webinfo@konami.com</a>, and we will be happy to honor your request by regular mail at:
+      </p><p><strong>Konami Digital Entertainment, Inc.</strong><br>
+        Attention: Website Administrator<br>
+        2381 Rosecrans Ave. Suite #200<br>
+        El Segundo, CA 90245</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_access"></a>How can I access my personal information?</strong> If you have registered to use the message board on our site and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our website(s).  You may be required to submit your login name and password before you can access your profile information.</p>
+      <p>If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us via e-mail at <a href="mailto:webinfo@konami.com" target="_blank">webinfo@konami.com</a>, or by regular mail at:</p>
+      <p><strong>Konami Digital Entertainment, Inc.</strong><br>
+        Attention: Website Administrator<br>
+        2381 Rosecrans Ave. Suite #200<br>
+        El Segundo, CA 90245</p>
+      <p> <u>Your California Privacy Rights </u>
+      </p><p>Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us: </p>
+      <p>Konami Digital Entertainment, Inc.<br>
+        Attention: Website Administrator<br>
+        2381 Rosecrans Ave. Suite #200<br>
+        El Segundo, CA 90245<br>
+        <a href="mailto:webinfo@konami.com" target="_blank">webinfo@konami.com</a> </p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_safeguards"></a>What safeguards does Konami use to protect my personal information?</strong></p>
+      <p>Konami maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect from all users
+        <!--, including children under 13 -->
+        . Personal information collected by Konami is stored in secure operating environments that are not available to the public and is only accessible by authorized employees. We also have security measures in place to protect the loss, misuse and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password.</p>
+      <p>In addition, we take reasonable steps to ensure that third parties to whom we transfer personal information--for such purposes as co-sponsoring a special promotion--provide sufficient protection of such personal data.</p>
+      <p><a href="#top">Top</a></p>
+      <p><strong><a name="0.1_question"></a>How do I ask a question or file a complaint?</strong></p>
+      <p>If you have any questions, complaints or comments regarding our Privacy Policy Statement or practices, please contact us via email at <a href="mailto:webinfo@konami.com" target="_blank">webinfo@konami.com</a> or by regular mail at:</p>
+      <p><strong>Konami Digital Entertainment, Inc.</strong><br>
+        Attention: Website Administrator<br>
+        2381 Rosecrans Ave. Suite #200<br>
+        El Segundo, CA 90245</p>
+      <p>You can also contact ESRB Privacy Online directly at <a href="http://www.esrb.org/privacy/contact.jsp" target="_blank">www.esrb.org/privacy/contact.<wbr>jsp</a> or at:<br>
+        <br>
+        ESRB<br>
+        Attn: Director, Privacy Online<br>
+        317 Madison Avenue, 22nd Floor<br>
+        New York, NY 10017<br>
+        <a href="mailto:privacy@esrb.org" target="_blank">privacy@esrb.org</a> </p>
+      <p><i>By using this site, you signify your assent to the Konami Online Privacy Policy.  If you do not agree to this Privacy Policy, please do not use this site.  We reserve the right to make changes to this Policy.  If we make a material change to this Privacy Policy, we will notify you by posting the change on this site or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure you aware of these changes.  Your continued use of this site will signify your acceptance of these changes.</i></p>
+      <p><a href="#top">Top</a></p>
+    </div>
+    <div class="rightcolumn">
+          </div>
+  </div>
+  <div class="footer">
+		<a href="http://www.konami.com/privacy/"><img align="right" src="http://www.konami.com/imgs/privacy_certified-2008.gif" alt="ESRB Privacy Certified." width="144" height="53" border="0"></a>
+		<div class="footerlinks">
+			© Konami Digital Entertainment. KONAMI is a registered trademark of KONAMI CORPORATION. All Rights Reserved.<br>
+			<a href="http://www.konami.com/">Home</a> | 
+			<a href="http://www.konami.com/privacy/">Parental Guidance</a> | 
+			<a href="http://www.konami-digital-entertainment.com">Corporate</a> | 
+			<a href="http://www.konami.com/termsofuse/">Terms of Use</a> | 
+			<a href="http://www.konami.com/privacy/">Privacy Policy</a> | 
+			<a href="http://www.konami-digital-entertainment.com/jobs.html">Careers</a> | 
+			<a href="http://www.konami.co.jp/en/">Investor Relations</a> | 
+			<a href="http://www.konami-digital-entertainment.com/contact.html">Contact Us</a> | 
+			<a href="http://www.konami-data.com/registration/">Product Registration</a> | 
+			<a href="http://www.konami-data.com/support/">Help</a> | 
+			<a href="http://www.konami.com/press/">Press</a> | 
+			<a href="http://www.konami.com/support/">Support</a> | 
+			<a href="http://www.konami.com/warranty/">Warranty</a>
+		</div>
+	</div>
+	<br><br><br><br>&nbsp;
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-6443231-1");
+	pageTracker._trackPageview();
+	</script></div>
 
 
 </body></html>
