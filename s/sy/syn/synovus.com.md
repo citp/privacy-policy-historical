@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218223228id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426063540id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
@@ -16,14 +16,11 @@ We care about your privacy, and it’s important to us that you understand what 
 > The Bank of Tuscaloosa (Tuscaloosa, AL)  
 > CB&T Bank of East Alabama (Phenix City, AL)  
 > CB&T Bank of Middle Georgia (Warner Robins, GA)  
-> Citizens & Merchants State Bank (Douglasville, GA)  
-> Citizens Bank & Trust of West Georgia (Carrollton, GA)  
 > Citizens First Bank (Rome, GA)  
 > The Coastal Bank of Georgia (Brunswick, GA)  
 > Coastal Bank and Trust, a division of CB&T of Southeast Alabama (Mobile, AL)  
 > Coastal Bank and Trust of Florida (Pensacola, FL)  
-> Cohutta Banking Company (Chatsworth, GA)  
-> Cohutta Banking Company of Tennessee (Chattanooga, TN)  
+> Cohutta Banking Company (Chattanooga, TN)  
 > Columbus Bank and Trust Company (Columbus, GA)  
 > Columbus Bank and Trust Company dba Synovus Banker’s Bank  
 > Commercial Bank (Thomasville, GA)  
@@ -37,11 +34,9 @@ We care about your privacy, and it’s important to us that you understand what 
 > First State Bank and Trust Company of Valdosta (Valdosta, GA)  
 > Georgia Bank & Trust (Calhoun, GA)  
 > The National Bank of South Carolina (Columbia, SC)  
-> The National Bank of Walton County (Monroe, GA)  
 > Sea Island Bank (Statesboro, GA)  
-> Security Bank and Trust Company of Albany (Albany, GA)  
+> SB&T  (Albany, GA)  
 > Sterling Bank (Montgomery, AL)  
-> Sumter Bank and Trust Company (Americus, GA)  
 > Synovus Bank of Jacksonville (Jacksonville, FL)  
 > Synovus Bank (St. Petersburg, FL)  
 > Tallahassee State Bank (Tallahassee, FL)  
@@ -52,7 +47,6 @@ We care about your privacy, and it’s important to us that you understand what 
 > Synovus Insurance Services of Florida, Inc.  
 > Synovus Insurance Services of Georgia, Inc.  
 > Synovus Insurance Services of South Carolina, Inc.  
-> Synovus Insurance Services of West Georgia, Inc. (Carrollton, GA)  
 > Synovus Mortgage Corp.  
 > Synovus Securities, Inc.  
 > Synovus Title LLC
