@@ -1,313 +1,803 @@
-<!--The following is the downloaded HTML source of the macmillan.com privacy policy that was archived on 2007-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070823061258id_/http%3A//www.macmillan.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macmillan.com privacy policy that was archived on 2009-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426035418id_/http%3A//us.macmillan.com/splash/policy.html) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Welcome to macmillan publishers</title>
-<script language="JavaScript"><!--
-
-/*
-The ultimate DHTML drop-down code
-Nick Nettleton
-www.computerarts.co.uk || www.fluid7.co.uk
---
-This must be the single most requested bit of code in the history of Computer Arts, so we've decided to make it user-friendly and adaptable for everyone. Stacks more goodies to come too - head to one of the above sites for regular infoa nd updates.
-Works with v4 and v5 browsers - both IE and NS. Update for NS6 coming. Also, be aware there's no way to automatically centre layers in the window - a JS for this coming soon. In the meantime, stick with left-aligned.
-Keep an eye out for update for NS6.
---
-You can adapt, use and distribute this code under GNU public licence, as long as:
-(1) You leave all the comment and credit lines in, including these ones
-(2) You don't sell it for profit
---
-If you want to tweak the code yourself, use the f7_droplayer to set the names of the dropdowns, and just call f7_showdrop(n) and f7_hdidedrop from onmouseover, onmouseout and other events. Swap n for the number of the layer as in the array.
---
-Enjoy!!!
-*/
-
-//names of dropdowns stored here
-f7_droplayer=new Array()
-f7_droplayer[0]="drop1"
-f7_droplayer[1]="drop2"
-f7_droplayer[2]="drop3"
-f7_droplayer[3]="drop4"
-f7_droplayer[4]="drop5"
-f7_droplayer[5]="drop6"
-f7_droplayer[6]="drop7"
-
-
-//simple browser check
-f7_v4=(parseInt(navigator.appVersion)>=4 && parseInt(navigator.appVersion)<=5)?1:0
-f7_ie=(document.all && f7_v4)?1:0
-f7_ns=(document.layers && f7_v4)?1:0
-
-
-//code for drops
-
-function f7_showdrop(thelayer){
-	f7_keep=thelayer; f7_hideall(); f7_showitnow=1
-	f7_showit(thelayer)
-	}
-
-function f7_showit(thelayer){
-		if(f7_ie){ eval(f7_droplayer[thelayer]+'.style.visibility="visible"') }
-		if(f7_ns){ eval('document.'+f7_droplayer[thelayer]+'.visibility="show"');}
-	}
-
-
-function f7_hidedrop(){
-	f7_keep=-1; setTimeout('f7_hideall()',500)
-	}
-
-f7_keep=-1
-
-function f7_hideall(){
-	for(i=0;i<f7_droplayer.length;i++){  
-		f7_hideit=0; f7_checkmousepos(i)
-		if(f7_ie && f7_keep!=i){ 
-			if(f7_hideit){ eval(f7_droplayer[i]+'.style.visibility="hidden"') } 
-			}
-		if(f7_ns && f7_keep!=i){ 
-			if(f7_hideit){ eval('document.'+f7_droplayer[i]+'.visibility="hide"') }
-			}
-		}
-	}
-
-//deal with cursor over layer
-document.onmousemove = f7_getmousepos
-if (f7_ns) document.captureEvents(Event.MOUSEMOVE)
-
-function f7_getmousepos(e){
-	if(f7_ns){f7_mousex=e.pageX; f7_mousey=e.pageY}
-	if(f7_ie){f7_mousex=event.clientX; f7_mousey=event.clientY;}
-	}
-
-function f7_checkmousepos(i){          
-	if(f7_ns){     
-		f7_x_min=eval('document.'+f7_droplayer[i]+'.left')
-		f7_x_max=f7_x_min+eval('document.'+f7_droplayer[i]+'.clip.width')
-		f7_y_min=eval('document.'+f7_droplayer[i]+'.top')
-		f7_y_max=f7_y_min+eval('document.'+f7_droplayer[i]+'.clip.height')
-		}    
-	if(f7_ie){     
-		f7_x_min=eval(f7_droplayer[i]+'.style.pixelLeft')
-		f7_x_max=f7_x_min+eval(f7_droplayer[i]+'.style.pixelWidth')
-		f7_y_min=eval(f7_droplayer[i]+'.style.pixelTop')
-		f7_y_max=f7_y_min+eval(f7_droplayer[i]+'.style.pixelHeight')
-		}
-	if (f7_mousex>=f7_x_min && f7_mousex<=f7_x_max && f7_mousey>=f7_y_min && f7_mousey<=f7_y_max){
-		f7_hideit=0; setTimeout('f7_hideall()',500)
-		}
-	else { f7_hideit=1 }
-	return f7_hideit
-	}
-
-//--></script><script language="JavaScript"><!--
-
-//browser stylesheets
-
-if(f7_ie){
-document.write('<style type="text/css"><!--')
-
-document.write('.dropdown {padding-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px}')
-document.write('a { text-decoration: none }')
-document.write('a:hover { color: #800000; text-decoration: underline }')
-document.write('--></style>')
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Macmillan :: Privacy Notice</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function land(ref, target)
+{
+lowtarget=target.toLowerCase();
+if (lowtarget=="_self") {window.location=loc;}
+else {if (lowtarget=="_top") {top.location=loc;}
+else {if (lowtarget=="_blank") {window.open(loc);}
+else {if (lowtarget=="_parent") {parent.location=loc;}
+else {parent.frames[target].location=loc;};
+}}}
+}
+function jump(menu)
+{
+ref=menu.choice.options[menu.choice.selectedIndex].value;
+splitc=ref.lastIndexOf("*");
+target="";
+if (splitc!=-1)
+{loc=ref.substring(0,splitc);
+target=ref.substring(splitc+1,1000);}
+else {loc=ref; target="_self";};
+if (ref != "") {land(loc,target);}
+}
 //-->
+</script>
+<meta name="Description" content="Holtzbrinck Publishers, a group of literature, textbooks and academic companies, is now Macmillan Publishers. Representing the companies in the US held by Verlagsgruppe Georg von Holtzbrinck of Stuttgart, Germany, the group includes the well-known and award-winning individual publishing houses Farrar, Straus &amp; Giroux, Henry Holt, Palgrave Macmillan, Picador, Tor Books, Roaring Brook Press, St. Martin’s Press, Macmillan Audio and the Bedford, Freeman &amp; Worth Publishing Group. ">
+<meta name="keywords" content="Macmillan, Holtzbrinck publishers ,Henry Holt ,Farrar Straus Giroux ,FSG ,St. martin's press ,Tor ,Forge ,Picador ,Feiwel &amp; friends ,Square fish ,Macmillan Audio ,Roaring brook press ,Priddy books ,Books for young readers ,Palgrave ,Worth ,WH freeman ,Beford st. martin's ,Nature ,Scientific American ,Bloomsbury ,Consumer reports ,Enchanted lion ,Rodale ,World almanac">
+</head>
+
+<body onload="MM_preloadImages('images/shared/mn01_o.gif','images/shared/mn02_o.gif','images/shared/mn03_o.gif','images/shared/mn04_o.gif')">
+<table width="975" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+  <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="20" height="1"></td>
+    <td colspan="7" align="left" valign="top" bgcolor="#FFFFFF"><table width="935" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td rowspan="3" align="left" valign="top"><a href="index.html"><img src="images/shared/logo01.gif" alt="MacMillan Logo" width="231" height="64" border="0"></a></td>
+        <td align="left" valign="top"><img src="images/shared/white01.gif" alt="white spacer" width="4" height="12"></td>
+        <td align="right" valign="top"><img src="images/shared/white01.gif" alt="white spacer" width="700" height="12"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><img src="images/shared/white01.gif" alt="white spacer" width="4" height="40"></td>
+        <td align="right" valign="bottom" class="topLinksSmall"><a href="careers.html" class="topLinksSmall">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.html" class="topLinksSmall">Contact</a>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><img src="images/shared/white01.gif" alt="white spacer" width="4" height="12"></td>
+        <td align="right" valign="top"><img src="images/shared/white01.gif" alt="white spacer" width="700" height="12"></td>
+      </tr>
+    </tbody></table></td>
+	<td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="20" height="1"></td>
+  </tr>
+  <tr>
+  <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td colspan="7" align="left" valign="top" bgcolor="#EC1F27"><img src="images/shared/red01.gif" alt="red line" width="935" height="3"></td>
+	<td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="929" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="8"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="909" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="8"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="8"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="8"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="23"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="23"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="23"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><table width="909" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="left" valign="top"><a href="about/index.html" onmouseover="MM_swapImage('mn01','','images/shared/mn01_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/shared/mn01.gif" alt="About MacMillan" name="mn01" width="199" height="23" border="0" id="mn01"></a></td>
+        <td align="left" valign="top"><img src="images/shared/gray02.gif" alt="gray line" width="4" height="23"></td>
+        <td align="left" valign="top"><a href="publishers/index.html" onmouseover="MM_swapImage('mn02','','images/shared/mn02_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/shared/mn02.gif" alt="Our Publishers" name="mn02" width="199" height="23" border="0" id="mn02"></a></td>
+        <td align="left" valign="top"><img src="images/shared/gray02.gif" alt="gray line" width="4" height="23"></td>
+        <td align="left" valign="top"><a href="bookseller/index.html" onmouseover="MM_swapImage('mn03','','images/shared/mn03_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/shared/mn03.gif" alt="Bookseller Services" name="mn03" width="199" height="23" border="0" id="mn03"></a></td>
+        <td align="left" valign="top"><img src="images/shared/gray02.gif" alt="gray line" width="4" height="23"></td>
+        <td align="left" valign="top"><a href="academic/index.html" onmouseover="MM_swapImage('mn04','','images/shared/mn04_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/shared/mn04.gif" alt="Acedemic &amp; Library Services" name="mn04" width="199" height="23" border="0" id="mn04"></a></td>
+        <td align="left" valign="top"><img src="images/shared/gray02.gif" alt="gray line" width="101" height="23"></td>
+      </tr>
+    </tbody></table></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="23"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="23"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="23"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="8"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="909" height="8"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="8"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="8"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="8"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="1"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="1"></td>
+    <td align="left" valign="top" bgcolor="#C1BFB5"><img src="images/shared/gray04.gif" alt="gray line" width="909" height="1"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="1"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF">
+
+<!---New body text starts-->
+<table cellpadding="10">
+   <tbody><tr>
+	<td>
+
+<div class="Section1">
+
+<p><b><span style="font-size:14.0pt;font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">us.macmillan.com<o:p></o:p></span></b></p>
+
+<p style="line-height:16.5pt"><b><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Privacy Notice<o:p></o:p></span></b></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Effective Date:<span style="mso-spacerun:yes">&nbsp;
+</span>April 1, 2008<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We at Macmillan (“we” or
+“Macmillan”) respect your concerns about privacy and value the
+relationship we have with you.<span style="mso-spacerun:yes">&nbsp; </span>This
+Privacy Notice describes the types of personal information we collect on </span><a href="http://www.us.macmillan.com"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana">www.us.macmillan.com</span></a><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">, how we may use that information,
+and with whom we may share it.<span style="mso-spacerun:yes">&nbsp;&nbsp;
+</span>This Privacy Notice also describes the measures we take to protect the
+security of the information.<span style="mso-spacerun:yes">&nbsp; </span>In
+addition, we describe the choices you can make about how we use the personal
+information you provide to us, how you can update your contact information,
+contact us with general questions or comments, inquire about our company and
+its products and services, or ask any questions you may have about our privacy
+practices or this website. <o:p></o:p></span></p>
+
+<ul type="disc">
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#A"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Information We
+     Collect</span></a><span style="font-family:Verdana;mso-bidi-font-family:
+     Verdana"> <o:p></o:p></span></li>
+ <ul type="circle">
+  <li class="MsoNormal" style="color:blue;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:windowtext"><a href="http://us.macmillan.com/splash/policy.html#B"><i><span style="mso-bidi-font-family:Verdana">Getting Our Newsletters and other information</span></i><span style="mso-bidi-font-family:Verdana"><o:p></o:p></span></a></span></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><span class="MsoHyperlink"><i><span style="font-family:Verdana;mso-bidi-font-family:
+      Verdana"><a href="http://us.macmillan.com/splash/policy.html#B"><span style="mso-bidi-font-family:Verdana">Ordering our Products</span></a></span></i></span><span style="font-family:Verdana;mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><a href="http://us.macmillan.com/splash/policy.html#C"><i><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Surveys and
+      Questionnaires</span></i></a><span style="font-family:Verdana;mso-bidi-font-family:
+      Verdana"> <o:p></o:p></span></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><a href="http://us.macmillan.com/splash/policy.html#D"><i><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Sweepstakes,
+      Contests and Promotions</span></i></a><span style="font-family:Verdana;
+      mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><i><u><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Chat Rooms,
+      Forums and Discussion Groups<o:p></o:p></span></u></i></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><a href="http://us.macmillan.com/splash/policy.html#F"><i><span style="font-family:Verdana;mso-bidi-font-family:Verdana">“Contact
+      Us”</span></i></a><span style="font-family:Verdana;mso-bidi-font-family:
+      Verdana"> <o:p></o:p></span></li>
+  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+      auto;line-height:16.5pt;mso-list:l0 level2 lfo1;tab-stops:list 1.0in"><a href="http://us.macmillan.com/splash/policy.html#G"><i><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Passive
+      Collection of Information</span></i></a><span style="font-family:Verdana;
+      mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+ </ul>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#H"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">How We Use
+     Information We Collect</span></a><span style="font-family:Verdana;
+     mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#I"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">How We Share
+     Information</span></a><span style="font-family:Verdana;mso-bidi-font-family:
+     Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#J"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Links to Other
+     Web Sites</span></a><span style="font-family:Verdana;mso-bidi-font-family:
+     Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#K"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Children’s
+     Privacy</span></a><span style="font-family:Verdana;mso-bidi-font-family:
+     Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#L"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Security</span></a><span style="font-family:Verdana;mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#M"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Your Choices</span></a><span style="font-family:Verdana;mso-bidi-font-family:Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://us.macmillan.com/splash/policy.html#N"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">Updates to This
+     Privacy Notice</span></a><span style="font-family:Verdana;mso-bidi-font-family:
+     Verdana"> <o:p></o:p></span></li>
+ <li class="MsoNormal" style="color:#333333;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:16.5pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="color:windowtext"><a href="http://us.macmillan.com/splash/policy.html#O"><span style="font-family:Verdana;mso-bidi-font-family:Verdana">How to Contact Us</span></a></span><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:windowtext"><br clear="all" style="mso-special-character:line-break">
+     </span><span style="font-size:10.5pt;font-family:Verdana;mso-bidi-font-family:
+     Verdana"><o:p></o:p></span></li>
+</ul>
+
+<strong><span style="font-size:10.5pt;font-family:Georgia;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-bidi-font-family:Georgia;color:#333333;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><br clear="all" style="page-break-before:always">
+</span></strong>
+
+<p style="line-height:16.5pt"><a name="A"></a><strong><u><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333">Information We Collect:<o:p></o:p></span></u></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Getting our Newsletters and other
+information<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333;font-weight:normal">You may sign up
+to receive our newsletters and/or other information about new releases, author
+appearances, and special offers.<span style="mso-spacerun:yes">&nbsp; </span>In
+order to fulfill your requests, we will ask you for your name and email address,
+and sometimes certain other information.<span style="mso-spacerun:yes">&nbsp;
+</span>You may unsubscribe to our newsletters and alerts at anytime by clicking
+on the unsubscribe link included on all of our emails to you. <o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Ordering our Products<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">When you order from us, we collect your name, billing
+address, shipping address, email address, phone number, and credit card number.
+We also gather information on the person who will receive any gift you send
+(e.g., that person's name and address) and we will retain a record of your
+purchases. <strong><span style="font-family:Verdana;mso-bidi-font-family:Verdana;
+font-weight:normal"><o:p></o:p></span></strong></span></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Surveys and Questionnaires<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333;font-weight:normal">We may ask
+visitors to our website to complete online surveys and opinion polls on a
+variety of topics, including their activities, attitudes, and interests as they
+relate to our products and services.<span style="mso-spacerun:yes">&nbsp;
+</span>When you complete a survey we usually collect your name, address, and
+email address.<span style="mso-spacerun:yes">&nbsp; </span>We may also ask you
+for additional information, such as your age, interests, product preferences or
+zip code.<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Sweepstakes, Contests and
+Promotions<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333;font-weight:normal">From time to
+time we may run sweepstakes, contests or other promotions online.<span style="mso-spacerun:yes">&nbsp; </span>When you enter a sweepstakes or contest
+on line, we usually collect your name, address, email address and phone
+number.<span style="mso-spacerun:yes">&nbsp; </span>We may also ask you for
+additional information, such as your age, interests, product preferences or zip
+code.<o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><a name="C"></a><a name="D"></a><a name="E"></a><em><b><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333;
+font-style:normal">Chat Rooms, Forums, and Discussion Groups <o:p></o:p></span></b></em></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We may choose to host chat rooms, forums and/or discussion
+groups on our website. If you choose to participate in a chat room, forum or
+discussion group, we may request certain information such as your email address
+and date of birth. Please be aware that some or all information you provide
+(including personally-identifiable information) in connection with a chat room,
+forum or discussion group may become publicly available. We reserve the right,
+at our sole discretion, to save and archive any content of any nature posted to
+this website and we may (in addition to any other rights we may have to use
+such content pursuant to the Terms of Use governing your use of this website):
+1) disclose such content if required to do so by law or to comply with legal
+processes; 2) to respond to claims that any of the content violates the
+property, privacy, publicity or other rights of others; or 3) to protect the
+rights, property or safety of this website, Macmillan, its employees, users or
+members of the public.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">The blogs and forums to which you are provided access
+through this website are owned and operated by third-party companies. Use of
+these sites, as well as such companies' use of any information you may submit
+on these sites, may be subject to the terms of use and privacy notices
+applicable to these sites, which we strongly suggest you review. These sites
+are not owned by Macmillan and are not under our control. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><a name="F"></a><em><b><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333;font-style:normal">“Contact
+Us”</span></b></em><em><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333"> </span></em><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333"><br>
+&nbsp;You may choose to contact us through our website. If you e-mail us
+comments or questions, we will have your e-mail address, as well as any other
+information you choose to provide. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><a name="G"></a><em><b><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333;font-style:normal">Passive
+Collection of Information <o:p></o:p></span></b></em></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">When you visit our website, your browser automatically
+sends us certain Internet-related information, such as the Internet Protocol
+(IP) address of the computer you’re using and your originating domain. We
+also collect certain information about our website visitors, such as how many
+users visited our site, the average time spent on the site, the pages viewed,
+and referring websites. By collecting this information, we learn how to best tailor
+our website to our visitors. While we generally examine such information only
+in the aggregate, such information could be linked back to individual IP
+addresses. <o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">We use
+cookies on this website.<span style="mso-spacerun:yes">&nbsp; </span>A cookie
+is a small piece of information sent by a Web site that is saved on your hard
+disk by your computer's browser. It holds information a site may need to
+interact with you and personalize your experience. At us.macmillan.com, we use
+two kinds of cookies: session cookies and persistent cookies. <o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">Session cookies
+exist only for as long as your browser remains open. Once you exit your
+browser, they go away. Persistent cookies, in contrast, last from visit to
+visit; they do not go away when you exit your browser.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">We use cookies
+to administer certain functions, and to help you navigate the website more
+efficiently.<span style="mso-spacerun:yes">&nbsp; </span>For example, we use session
+cookies to maintain information we need to have in order for you to shop at us.macmillan.com.<span style="mso-spacerun:yes">&nbsp; </span>Without the session ID cookie, you can't
+add merchandise to your bag and carry it to Checkout.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">You can
+use our site without accepting cookies. The "help" portion of the
+toolbar on most browsers will tell you how to stop accepting new cookies, how
+to be notified when you receive a new cookie, and how to disable existing
+cookies.&nbsp; Remember, though, if you disable all cookies, you may not be
+able to take advantage of all features of this website.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><a name="H"></a><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Collection of site usage
+information on our site is performed on our behalf by&nbsp;a third party
+service provider.&nbsp;&nbsp;&nbsp;In addition to cookies,&nbsp;the service
+provider&nbsp;may&nbsp;use web beacons to notify the service provider of web
+page access by visitors.&nbsp;&nbsp;&nbsp;Our third party service
+provider&nbsp;may retain such usage information for its own internal purposes.</span><b><o:p></o:p></b></p>
+
+<p style="line-height:16.5pt"><strong><u><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">How We Use Information We Collect<o:p></o:p></span></u></strong></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Information collected through our website is used in
+connection with the purpose for which it was submitted, including:<span style="mso-spacerun:yes">&nbsp; </span>to contact you to answer a question, to
+send you a newsletter or other information you have requested, or to enter you
+into a sweepstakes.<span style="mso-spacerun:yes">&nbsp; </span>In addition if you
+purchase a product on our website, we will use information to process that
+purchase and the related payment.<span style="mso-spacerun:yes">&nbsp; </span><o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We may also use the information we collect to send you
+information or products we think may be of interest to you, to customize our
+contacts with you and to do other internal analyses, such as market research,
+that will allow us to better meet the needs of our customers. We may also use
+information to enhance your online experience while using our website or to
+improve the content of the site or to improve the quality or variety of the
+products and services we offer.</span><a name="I"></a><strong><span style="font-size:10.5pt;font-family:Georgia;mso-bidi-font-family:Georgia;
+color:#333333;font-weight:normal"><o:p></o:p></span></strong></p>
+
+<p style="line-height:16.5pt"><strong><u><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">How We Share Information <o:p></o:p></span></u></strong></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We may share the information you provide with companies
+that are related to Macmillan through common ownership. <b><u><o:p></o:p></u></b></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">In addition, we may share information about you with
+non-affiliated third parties whose products or services may be of interest to
+you. These third parties may contact you about their products and services. We
+will not share your information with these third parties for their own
+marketing purposes if you request that we not do so. We may, however, engage in
+joint marketing activities with selected third parties and may share personal
+information about our website visitors with them. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We also share information provided by our website
+visitors with service providers we have retained to perform services on our
+behalf.<span style="mso-spacerun:yes">&nbsp; </span>For example: when you make
+a purchase, we may share information about you and your transaction with other
+companies for the purpose of processing your transaction, and we may retain outside
+companies to manage databases of customer information and to distribute e-mail
+offerings</span><span style="font-family:Verdana;mso-bidi-font-family:Verdana">.
+<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">In addition, we may disclose information</span><span style="font-size:10.5pt;font-family:Georgia;mso-bidi-font-family:Georgia;
+color:#333333"> </span><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">about you (i) if we are required to do</span><span style="font-size:10.5pt;font-family:Georgia;mso-bidi-font-family:Georgia;
+color:#333333"> </span><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">so&nbsp;by law, (ii) in response to legal process,&nbsp;
+iii) to law enforcement authorities or other&nbsp;government officials, or (iv)
+when we believe&nbsp;disclosure is necessary or appropriate to prevent physical
+harm or financial loss or in connection with an investigation of suspected or
+actual illegal activity. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We reserve the right to transfer any information we have
+about you in the event we sell or transfer all or a portion of our business or
+assets. Should such a sale or transfer occur, we will use reasonable efforts to
+try to ensure that the transferee uses personal information you have provided
+through this website in a manner that is consistent with this Privacy Notice.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><a name="J"></a><strong><u><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333">Links to Other Websites<o:p></o:p></span></u></strong></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We provide links to other websites for your convenience
+and information, including websites of other companies related to Macmillan
+through common ownership. These sites may operate independently from
+www.us.macmillan.com, and may not be under our control. These sites may have
+their own privacy notices in place, which we strongly suggest you review if you
+visit any linked website. We may not be responsible for the content of these
+sites, any products or services that may be offered through these sites, or the
+privacy practices of these sites.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">To try and bring you offers that are of interest to you,
+we have relationships with other companies that we allow to place ads and
+provide other services on our Web pages. As a result of your visit to our site,
+these ad servers and other entities may collect information such as your domain
+type, your IP address and click-stream information. We are not responsible for the
+data collection practices of any sites linked to Macmillan nor does our linking
+to third party websites or services constitute sponsorship or endorsement of
+the content or business practices on these sites. By use of this Site, you have
+agreed that you will use the hyperlinks to third party sites at your own risk.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-line-height-alt:10.5pt"><a name="K"></a><strong><u><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">Children’s
+Privacy<o:p></o:p></span></u></strong></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333"><br>
+We do not knowingly collect information from children under 13. <span style="mso-spacerun:yes">&nbsp;&nbsp;</span>We use technical measures to
+prevent collection of information from children under 13.<span style="mso-spacerun:yes">&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;</span><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:7.5pt;line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333">If our policy
+concerning collection of information from children under 13 changes, we will
+revise this portion of the us.macmillan.com privacy notice and will comply with
+the requirements of the Children's Online Privacy Protection Act.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.5pt"><a name="L"></a><strong><u><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Security</span></u></strong><u><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333"><br>
+</span></u><span style="font-family:Verdana;mso-bidi-font-family:Verdana;
+color:#333333">us.macmillan.com is committed to protecting the security of
+information collected on our site.<span style="mso-spacerun:yes">&nbsp; </span>We
+use technical, physical and administrative methods to safeguard and secure the
+information we collect on line.<span style="mso-spacerun:yes">&nbsp;
+</span>When you submit information for a credit card transaction through our purchase
+pages, we use Secure Sockets Layer (SSL) software to encrypt the information
+during transmission (however, we do not use a secure connection for other types
+of activities). <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">In connection with your purchases at Macmillan, we use a
+third party service provider to collect your credit card [or debit card] number
+(and related information). The third party payment service provider will be
+solely responsible for the collection, use, and storage of your credit card [or
+debit card] information. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Please remember that no data transmission over the
+Internet, or by other means, can be guaranteed to be 100% secure. Thus, while
+we strive to protect the information you provide through this website,
+Macmillan cannot ensure or warrant the security of any information you transmit
+to us. Therefore, you understand, acknowledge, and agree that you transmit information
+over this Site at your own risk. <o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:16.5pt"><strong><u><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Your Choices</span></u></strong><u><span style="font-family:Verdana;mso-bidi-font-family:Verdana"><br>
+</span></u><a name="M"></a><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana">We give you the option of requesting that we not share personal
+information about you with third parties that are unrelated by common ownership
+with Macmillan for marketing use. </span><a href="mailto:internetmarketing@macmillanusa.com"><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana">Click here</span></a><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana"> to send us an e-mail with your name and
+e-mail address(es) if you DO NOT</span> <span style="font-family:Verdana;
+mso-bidi-font-family:Verdana">want us to share your personal information with
+unrelated third parties for their own marketing use.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">We also give you the option of requesting that we not
+share your information with companies related to Macmillan by common ownership
+for marketing use. However, PLEASE NOTE that, because of the integrated nature
+of Macmillan and some of these companies, if you opt out of sharing with them,
+you will also automatically be opted out of marketing use by Macmillan. That
+means that you will not receive marketing information from us about books,
+promotions and services. </span><a href="mailto:internetmarketing@macmillanusa.com"><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana">Click here</span></a><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333"> to send us an e-mail with
+your name and e-mail address(es), if you do not want us to share your
+information with related companies for marketing use (or use the information
+for marketing purposes ourselves). (Keep in mind, however, that some of our
+related companies may have independently obtained your information, in which
+case you may continue to receive communications from those companies, unless
+you opt out directly with them.)<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Please be aware that we are able to effectuate an
+opt-out only for a specific e-mail address.&nbsp; So, if you have more than one
+e-mail address or if you have changed your email address, your opt-out request
+may not be effectuated properly. If you believe you have opted out, but
+continue to receive e-mails from us, please contact us by one of the means listed
+under “How to Contact Us”,&nbsp;below, and we will endeavor to
+resolve the&nbsp; issue.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">You can "opt-out" of receiving newsletters,
+advertising and promotional e-mail from us by following the opt-out
+instructions in our e-mail messages. To ensure that your opt-out request is
+honored, you must use the designated method in the e-mail message to notify us
+of your opt-out request, as we cannot guarantee that other methods of
+notification will be effective or timely.<o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><a name="N"></a><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Please note that even if you choose
+to opt-out of receiving Macmillan's marketing, we will continue to send you
+important service related communications, including follow-up messages
+regarding sweepstakes or contests you have entered or other transactions you
+have undertaken (e.g., order confirmation).<strong><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;font-weight:normal"><o:p></o:p></span></strong></span></p>
+
+<p style="line-height:16.5pt"><strong><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Macmillan Accounts</span></strong><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333"><o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">If you would like to review the Personal Information
+that we have collected from you online in connection with your purchases from
+Macmillan, log back into your user account. Click on "My Account" to
+review or make changes to your purchase information at any time. If you are not
+signed in, you will be prompted to do so. If you do not remember your password,
+click on the "Forgot your password" link, provide your e-mail address
+and we will send you your password via e-mail. <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><strong><u><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana;color:#333333">Updates to this Privacy Notice</span></u></strong><u><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333"><o:p></o:p></span></u></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana">By using this website, you signify your agreement to this Privacy Notice.
+This Privacy Notice may change from time to time. Changes to this Privacy Notice
+will become effective when those changes are posted to the Site. Your continued
+use of the services and the sites subsequent to any changes to this Privacy
+Policy constitutes your acceptance of the changes. Please review this statement
+periodically to ensure you are aware of any changes or updates to this
+Notice.<span style="mso-spacerun:yes">&nbsp; </span>We indicate the effective
+date of this Notice (and any updates) at the top of the Notice.<span style="color:#333333"><o:p></o:p></span></span></p>
+
+<p style="line-height:16.5pt"><a name="O"></a><strong><u><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333">How to Contact Us</span></u></strong><span style="font-family:Verdana;mso-bidi-font-family:Verdana;color:#333333"><o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">If you would like to update your contact information, </span><a href="mailto:webmaster@macmillanusa.com"><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana">click here</span></a><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333">. <br>
+If you have any questions about our information practices or our products or
+services, please contact us by: <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">&nbsp;• </span><a href="mailto:webmaster@macmillanusa.com"><span style="font-family:Verdana;
+mso-bidi-font-family:Verdana">clicking here</span></a><span style="font-family:
+Verdana;mso-bidi-font-family:Verdana;color:#333333"><br>
+&nbsp;• writing us at: <o:p></o:p></span></p>
+
+<p style="line-height:16.5pt"><span style="font-family:Verdana;mso-bidi-font-family:
+Verdana;color:#333333">Macmillan Publishers<br>
+Internet Marketing Department<br>
+175 Fifth Avenue<br>
+New York, NY 10010<br>
+Attention: Internet Marketing Coordinator</span></p>
+
+</div>
+
+
+
+	</td>
+   </tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+<!--- New body text ends --->
+
+</td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+      <tr>
+        <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="909" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="929" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="929" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#f6f4eb"><img src="images/shared/gray03.gif" alt="gray line" width="1" height="6"></td>
+    <td align="left" valign="top" bgcolor="#f6f4eb"><img src="images/shared/gray03.gif" alt="gray line" width="2" height="6"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#f6f4eb"><img src="images/shared/gray03.gif" alt="gray line" width="929" height="6"></td>
+    <td align="left" valign="top" bgcolor="#f6f4eb"><img src="images/shared/gray03.gif" alt="gray line" width="2" height="6"></td>
+    <td align="left" valign="top" bgcolor="#f6f4eb"><img src="images/shared/gray03.gif" alt="gray line" width="1" height="6"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="929" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+ <tr>
+   <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="929" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+ </tr>
+        <tr>
+          <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="909" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="38"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="38"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="38"></td>
+    <td align="left" valign="middle" bgcolor="#FFFFFF"><table width="909" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr class="lowerLinksSmall"><form action="dummy" method="post" name="myForm" class="dropDownMenu" id="myForm"></form>
+          <td valign="middle">&nbsp;<a href="about/index.html" class="lowerLinksSmall">About Us</a>&nbsp;|&nbsp;<a href="careers.html" class="lowerLinksSmall">Careers</a>&nbsp;|&nbsp;<a href="contact.html" class="lowerLinksSmall">Contact</a>&nbsp;|&nbsp;<a href="sitemap.html" class="lowerLinksSmall">Site Map</a>&nbsp;|&nbsp;<a href="terms.html" class="lowerLinksSmall">Terms of Use</a>&nbsp;|&nbsp;<a href="policy.html" class="lowerLinksSmall">Privacy Notice</a>&nbsp;&nbsp;
+            <select name="choice" class="dropDownMenu">
+              <option value="" selected="selected">Visit a Publisher’s website</option>
+              <option value="">&nbsp;</option>
+              <option value="">ADULT TRADE</option>
+              <option value="">- - - - - - - - - -</option>
+              <option value="http://www.fsgbooks.com">Farrar, Straus &amp; Giroux</option>
+              <option value="http://www.firstsecondbooks.com">First Second Books</option>
+              <option value="http://www.henryholt.com">Henry Holt</option>
+			  <option value="http://www.macmillanaudio.com">Macmillan Audio</option>
+              <option value="http://www.picadorusa.com">Picador</option>
+              <option value="http://www.stmartins.com">St. Martin's Press</option>
+			  <option value="http://www.tor-forge.com">Tor/Forge</option>
+              <option value="">&nbsp;</option>
+              <option value="">CHILDREN’S</option>
+              <option value="">- - - - - - - - - -</option>
+              <option value="http://www.feiwelandfriends.com">Feiwel &amp; Friends</option>
+              <option value="http://www.fsgkidsbooks.com">Farrar, Straus &amp; Giroux Books for Young Readers</option>
+              <option value="http://www.henryholtchildrensbooks.com">Henry Holt Books for Young Readers</option>
+              <option value="http://www.priddybooks.com">Priddy Books</option>
+              <option value="http://www.squarefishbooks.com">Square Fish Books</option>
+              <option value="http://www.tor-forge.com/Starscape.aspx">Tor Starscape</option>
+              <option value="">&nbsp;</option>
+              <option value="">COLLEGE &amp; ACADEMIC</option>
+              <option value="">- - - - - - - - - -</option>
+              <option value="http://www.bedfordstmartins.com">Bedford/St. Martin's</option>
+              <option value="http://www.hmpublishing.com">Hayden-McNeil</option>
+              <option value="http://www.palgrave-usa.com">Palgrave Macmillan</option>
+              <option value="http://www.whfreeman.com">W.H. Freeman</option>
+              <option value="http://www.worthpublishers.com">Worth Publishers</option>
+              <option value="">&nbsp;</option>
+              <option value="">MAGAZINES &amp; JOURNALS</option>
+              <option value="">- - - - - - - - - -</option>
+              <option value="http://www.nature.com">Nature</option>
+              <option value="http://www.sciam.com ">Scientific American</option>
+            </select>            <a href="javascript:jump(document.getElementById('myForm'))"><img src="images/shared/go.gif" width="49" height="18" border="0" align="absmiddle"></a></td>
+          <td align="right" valign="middle"><span class="lowerLinksSmall">Macmillan 2007</span>&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="38"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="38"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="38"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+        <tr>
+          <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="909" height="10"></td>
+    <td align="left" valign="top" bgcolor="#e9e7df"><img src="images/shared/gray02.gif" alt="gray line" width="10" height="10"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="10"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="10"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+      <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="929" height="2"></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><img src="images/shared/white01.gif" alt="white line" width="2" height="2"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="2"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td colspan="3" align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="929" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="2" height="1"></td>
+    <td align="left" valign="top" bgcolor="#dadada"><img src="images/shared/gray01.gif" alt="gray line" width="1" height="1"></td>
+    <td align="left" valign="top"><img src="images/shared/spacer01.gif" alt="spacer image" width="12" height="1"></td>
+  </tr>
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1012302-36";
+urchinTracker();
 </script>
 
 
-
-
-<style type="text/css">
-<!--
-
-p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height:17px}
-td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;}
-
-.header {  font: bold 24px Arial, Verdana, Helvetica, sans-serif }
-.subhead {  font-weight: bold; font-size: 12px  }
-.list {  font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 12px; text-decoration: none  }
-.forms {  font-size: 12px; font-family: Arial, Verdana, Helvetica, sans-serif }
-
-.dropdown { position: absolute; color:black;  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #EFEFEF; layer-background-color: #EFEFEF; top:71px; z-index:1; visibility: hidden ;}
-.drophead { }
-.dropitem { text-decoration:none; color:black; font: 12px Arial, Verdana, Helvetica, sans-serif;}
-.drophead:hover { }
-.dropitem:hover { color:black; font: bold }
-
--->
-</style>
-<title></title>
-</head>
-
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#FF0000" vlink="#800000" alink="#FF6666">
-
-<div id="drop1" class="dropdown" style="left:0px;; background-color: #FF6666; layer-background-color: #000000; border: 1px none #000000;" onmouseover="f7_showdrop(0)" onmouseout="f7_hidedrop()"> 
-  <p><a href="/aboutus.asp"><img src="/images/topimages/paboutus.jpg" border="0"></a><br>
-  <a href="../history.asp" class="dropitem"><img border="0" src="../images/sideimages/abhist.gif"></a><br>
-  <a href="../Education.asp" class="dropitem"><img border="0" src="../images/sideimages/abEDUC.gif"></a><br>
-    <a href="../Academic.asp" class="dropitem"><img border="0" src="../images/sideimages/abacad.gif"></a><br>
-    <a href="../science.asp" class="dropitem"><img border="0" src="../images/sideimages/absci.gif"></a><br>
-    <a href="../fnf.asp" class="dropitem"><img border="0" src="../images/sideimages/abFICTION.gif"></a><br>
-    <a href="http://www.macmillanpublishingsolutions.com" target="_blank" class="dropitem"><img border="0" src="../images/sideimages/abPUB.gif"></a><br>
-    <a href="../Online.asp" class="dropitem"><img border="0" src="../images/sideimages/ONLINeres.gif"></a><br>
-  <a href="../News.asp" class="dropitem"><img border="0" src="../images/sideimages/NEWS.gif"></a><br>
-  <a href="../Keydates.asp" class="dropitem"><img border="0" src="../images/sideimages/abkeydates.gif"></a><br>
-  <a href="../csr.asp" class="dropitem"><img border="0" src="../images/csr.gif"></a></p>
-</div>
-<div id="drop2" class="dropdown" style="left:119px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000;" onmouseover="f7_showdrop(1)" onmouseout="f7_hidedrop()"> 
-  <p><a href="/Permissions.asp"><img src="/images/topimages/ppermissions.jpg" border="0"></a><br>
-</p></div>
-<div id="drop3" class="dropdown" style="left:228px;; background-color: #FF6666; layer-background-color: #FF6699; border: 1px none #000000;" onmouseover="f7_showdrop(2)" onmouseout="f7_hidedrop()"> 
-  <p><a href="../careers.asp"><img src="/images/topimages/pcareers.jpg" border="0"></a><br>
-<a href="../vacancy.asp" class="dropitem"><img border="0" src="../images/sideimages/vac.gif"></a><br>
-<a href="../grad.asp" class="dropitem"><img border="0" src="../images/sideimages/grs.gif"></a><br>
-<a href="../IntPubOpen.asp" class="dropitem"><img border="0" src="../images/sideimages/PubOpen.gif"></a><br>
-  </p>
-</div>
-<div id="drop4" class="dropdown" style="left:312px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000;" onmouseover="f7_showdrop(3)" onmouseout="f7_hidedrop()"> 
-  <p><a href="../websites.asp"><img src="/images/topimages/pwebsites.jpg" border="0"></a></p>
-</div>
-<div id="drop5" class="dropdown" style="left:400px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000;" onmouseover="f7_showdrop(4)" onmouseout="f7_hidedrop()"> 
-  <p><a href="../CONTACT.ASP"><img src="../images/topimages/pcontactus.jpg" border="0"></a><br><a href="../contactfaqs.asp" class="dropitem"><img border="0" src="../images/sideimages/faqs.gif"></a><br>
-  <a href="/asp/feedback.asp" class="dropitem"><img border="0" src="../images/sideimages/cform.gif"></a><br>
-<a href="/catreq.asp" class="dropitem"><img border="0" src="../images/sideimages/creq.gif"></a><br>
-<a href="/Paymente.asp" class="dropitem"><img border="0" src="../images/sideimages/PEQ.gif"></a><br>
-  <a href="/press.asp"><img border="0" src="../images/sideimages/press1.gif"></a><br>
-<a href="/moWorldwide.asp" class="dropitem"><img border="0" src="../images/topimages/MOW.jpg"></a></p>
-</div>
-<div id="drop6" class="dropdown" style="left:500px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000;" onmouseover="f7_showdrop(5)" onmouseout="f7_hidedrop()"> 
-  <p><a href="../help.asp"><img src="../images/topimages/phelp.jpg" border="0"></a></p>
-</div>
-<div id="drop7" class="dropdown" style="left:567px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000;" onmouseover="f7_showdrop(6)" onmouseout="f7_hidedrop()"> 
-  <p><a href="../index.asp"><img border="0" src="/images/topimages/ppublishingdiv.jpg"></a><br><a href="../Education.asp" class="dropitem"><img border="0" src="../images/sideimages/babeduc.jpg"></a><br>
-	<a href="../Academic.asp" class="dropitem"><img border="0" src="../images/sideimages/babacad.jpg"></a><br>
-	<a href="../science.asp" class="dropitem"><img border="0" src="../images/topimages/babsci.jpg"></a><br>
-	<a href="../fnf.asp" class="dropitem"><img border="0" src="../images/sideimages/babFICTION.jpg"></a><br>
-	<a href="http://www.macmillanpublishingsolutions.com" target="_blank" class="dropitem"><img border="0" src="../images/sideimages/babpub.jpg"></a><br>
-	<a href="../Online.asp" class="dropitem"><img border="0" src="../images/topimages/bonline.jpg"></a></p>
-</div>
-
-<form method="GET" action="/asp/newsearch.asp">
-<table border="0" cellspacing="0" width="100%" cellpadding="0">
-  <tbody><tr>
-    <td width="482" valign="top" align="left">
-            <a href="/index.asp">
-			<img src="/images/topimages/logo.jpg" border="0" width="482" height="71"></a></td>
-    <td valign="top" align="right"> 
-    </td>
-    <td valign="top" align="right"> 
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td width="90%" valign="top" align="left" nowrap=""><img src="../images/otherimages/white.jpg" width="16" height="5"></td>
-          <td width="10%" valign="top" align="left"></td>
-        </tr>
-         <!--<tr>
-         <td width="90%" valign="top" align="left" nowrap>
-            <p align="right"> <font color="#000000">Search</font> 
-              
-				<input type="text" name="Any" size="20"></p>
-          </td>
-          <td width="10%" valign="top" align="left">
-            <input type="image" src="/images/otherimages/button.jpg" name="Submit" id="Submit" class="submit" value="Submit" WIDTH="25" HEIGHT="22"></td>
-        </tr>
-        <tr>
-          <td width="90%" valign="top" align="right" nowrap><table border="0" cellpadding="0" cellspacing="0" width="20%">
-              <tr>
-                <td align="right"><font size="1" color="#000000">site&nbsp;</font></td>
-                <td align="right"><input type="radio" value="site" checked name="R1"></td>
-              </tr>
-              <tr>
-                <td align="right"><font size="1" color="#000000">books</font><font size="1">&nbsp;</font></td>
-                <td align="right"><input type="radio" value="books" checked name="R1">
-                </table></td>
-              </tr>-->
-            </tbody></table></td>            
-      </tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr> 
-    <td valign="top" align="left" height="28" background="../images/topimages/endpixel.jpg"><a href="/aboutus.asp" class="drophead" onmouseover="f7_showdrop(0)" onmouseout="f7_hidedrop()"><img src="../images/topimages/aboutus.jpg" border="0" width="119" height="28"></a><a href="/Permissions.asp" class="drophead" onmouseover="f7_showdrop(1)" onmouseout="f7_hidedrop()"><img src="../images/topimages/Permissions.jpg" border="0" width="109" height="28"></a><a href="../careers.asp" class="drophead" onmouseover="f7_showdrop(2)" onmouseout="f7_hidedrop()"><img src="../images/topimages/careers.jpg" border="0" width="84" height="28"></a><a href="../websites.asp" class="drophead" onmouseover="f7_showdrop(3)" onmouseout="f7_hidedrop()"><img src="../images/topimages/websites.jpg" border="0" width="88" height="28"></a><a href="../CONTACT.ASP" class="drophead" onmouseover="f7_showdrop(4)" onmouseout="f7_hidedrop()"><img src="../images/topimages/contactus.jpg" border="0" width="100" height="28"></a><a href="../help.asp" class="drophead" onmouseover="f7_showdrop(5)" onmouseout="f7_hidedrop()"><img src="../images/topimages/help.jpg" border="0" width="67" height="28"></a></td>
-<td width="50%" height="28" valign="top" align="left" background="../images/topimages/endpixel.jpg">
-        <div align="left"></div>
-      </td>
-  </tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td valign="top" align="left"><img border="0" src="images/otherimages/white.jpg" width="25" height="25"></td>
-    <td width="100%" valign="top" align="left">
-      <br>
-      <b><font color="#FF0000" face="Arial" size="4">Privacy Statement</font></b><br>
-      &nbsp;<p class="spec">Macmillan are committed to protecting your 
-      privacy.&nbsp;Any information we collect from you is used to process orders and 
-      requests and to provide you with more relevant products and services. </p>
-      <p><b>Collection and Use of Customer Information<br>
-      </b>We collect email addresses or other contact details together with any 
-      comments provided to us voluntarily via this web site. We also collect 
-      information on the pages that are visited. All the information you provide 
-      is used to improve the content of our web site and to make contact for 
-      marketing and commercial purposes. </p>
-      <ul>
-        <li>When you order online, we ask you for your name, email address, 
-        delivery address, credit or debit card number and expiry date. Our 
-        Customer Services department can then process and fulfil your order and 
-        notify you of your order status. </li>
-        <li>We also ask for your telephone number which enables us to contact 
-        you urgently if there is a problem with your order or your email 
-        address. </li>
-        <li>When you enter a competition or other promotion, we may ask for your 
-        name, address and email address so we can administer the competition and 
-        notify winners. </li>
-        <li>We use your comments, specified subject interests and any orders to 
-        shape our recommendations about the books that might be of interest to 
-        you. We also monitor customer traffic patterns and site usage to help us 
-        develop the design and structure of our site. </li>
-        <li>We may also use the information we collect to occasionally notify 
-        you about important functionality changes to the web site, new Macmillan 
-        services and special offers we think you will find valuable. </li>
-      </ul>
-      <p><b>Protection of Customer Information</b><br>
-      As required by the UK Data Protection Acts of 1984 and 1998, we follow 
-      strict security procedures in the storage and disclosure of information 
-      which you have given us, to prevent unauthorised access.</p>
-      <p>Macmillan uses the industry standard, Secure Socket Layer (SSL) 
-      encryption, to ensure our online ordering facility is fully secured for 
-      credit card transactions. Your credit card details will be transmitted to 
-      Macmillan securely ONLY if you are using a secure connection (SSL) aware 
-      browser. </p>
-      <p><b>Disclosure of Information to Third Parties</b><br>
-      Macmillan will not sell, trade or rent your personal information to third 
-      parties outside the Macmillan Group. </p>
-      <p><b>Your Consent</b> <br>
-      By using our web site, you consent to the collection and use of your 
-      information by Macmillan&nbsp; Macmillan. Any changes to our privacy 
-      policy will be posted on this page so that you are always aware of what 
-      information we collect, how we use it and under what circumstances we 
-      disclose it. </p>
-      <p>We welcome comments and suggestions which will help us improve our web 
-      site. Please contact us by email: <a href="mailto:hostmaster@macmillan.co.uk">
-      hostmaster@macmillan.com</a> </p>
-      <p>&nbsp;</p></td>
-  </tr>
-</tbody></table><br>
-<table style="BORDER-TOP: #000000 1px solid" cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody>
-    <tr>
-      <td valign="top" align="left" width="100%">
-        <table cellspacing="0" cellpadding="0" border="0">
-          <tbody>
-            <tr>
-              <td width="100%"><br>
-                <font size="1">Copyright © Macmillan Publishers Limited<br>
-                Brunel Road, Houndmills, Basingstoke Hampshire RG21 6XS, England</font><br>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table></form></body></html>
+</body></html>
