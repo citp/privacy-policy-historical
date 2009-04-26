@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035902id_/http%3A//www.directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426040500id_/http%3A//directv.com/DTVAPP/global/contentPage.jsp%3FassetId%3DP400044) for the most accurate reproduction.*
 
 # Privacy Policy
 
