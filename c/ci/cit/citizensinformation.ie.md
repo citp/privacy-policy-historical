@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217014922id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426083354id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement-Information from CitizensInformation.ie
 
@@ -33,7 +33,7 @@ You should note that technical details, which we cannot associate with any ident
 
 ## Further Information or to make a request
 
-If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention by using our feedback form or by post at:
+If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention at:
 
 Citizens Information Board  
 Ground Floor  
