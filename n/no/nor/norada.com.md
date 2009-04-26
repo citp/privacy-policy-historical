@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081853id_/http%3A//jobblogs.cc/joblogs/entry/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426211053id_/http%3A//norada.com/norada/entry/privacy_policy) for the most accurate reproduction.*
 
 # 
 
+[](http://www.addthis.com/bookmark.php)
+
 Privacy Policy
 
-Norada Corporation (“Norada”) is the provider of the JobBlogs service. At Norada, we respect a Clients’ right and expectation to privacy, and accordingly maintain and adhere to a rigorous privacy policy (the “Privacy Policy”).
+Norada Corporation (“Norada”) is the provider of the Solve360 service. At Norada, we respect a Clients’ right and expectation to privacy, and accordingly maintain and adhere to a rigorous privacy policy (the “Privacy Policy”).
 
 This Privacy Policy discloses the types of personal information collected and stored by Norada and how that information is used to support Norada's Web site operations, provision contracted services, and carry on the related sales and support activities (the “Service”). All Clients must acknowledge and agree to the collection and use of personal information as set forth in this Privacy Policy.
 
@@ -63,4 +65,4 @@ Contacting Norada We value your opinions and feedback. If you have any questions
 
 You're viewing a plain-text version of this page.
 
-It looks much better viewed from [http://jobblogs.cc](http://jobblogs.cc/?uri=/joblogs/entry/privacy_policy)
+It looks much better viewed from [www.norada.com](http://norada.com/?uri=/norada/entry/privacy_policy)
