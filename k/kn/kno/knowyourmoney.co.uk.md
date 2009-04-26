@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224151126id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426043556id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
