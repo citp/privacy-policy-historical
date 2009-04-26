@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206194755id_/http%3A//www.panelplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426180427id_/http%3A//www.panelplace.com/privacy.php) for the most accurate reproduction.*
 
 # PanelPlace™ - Maximize Your Survey Earnings
 
