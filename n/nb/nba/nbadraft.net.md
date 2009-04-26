@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050536id_/http%3A//www.nbadraft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426053840id_/http%3A//www.nbadraft.net/privacy.html) for the most accurate reproduction.*
 
 # NBADraft.net Privacy Policy | NBADraft.net
 
@@ -26,3 +26,8 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website please [contact us](mailto:info@nbadraft.net). 
+
+  * [](http://www.addthis.com/bookmark.php)
+
+
+
