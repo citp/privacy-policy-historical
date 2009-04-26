@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121444id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26content%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggl.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426170319id_/http%3A//www.ggl.com/index.php%3Fcontroller%3DStatic%26content%3Dprivacy) for the most accurate reproduction.*
 
 # GGL.com: Privacy
 
