@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citizensinformation.ie privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217014922id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citizensinformation.ie privacy policy that was archived on 2009-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426083354id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -21,7 +21,7 @@
 
     
     
-    	<meta name="dc.rights" content="Government of Ireland 2001-2008">
+    	<meta name="dc.rights" content="Government of Ireland 2001-2009">
 
     
     
@@ -122,7 +122,7 @@
           tal:condition="python: syntool.isSyndicationAllowed(here)"
           tal:attributes="href string:$here_url/RSS" />
 -->
-	<link rel="alternate" href="http://www.citizensinformation.ie/about/privacy/ATOM" title="ATOM" type="application/atom+xml">
+	<link rel="alternate" href="http://www.citizensinformation.ie/about/privacy/News/rss_feed/ATOM" title="ATOM" type="application/atom+xml">
 
     <link rel="up" href="http://www.citizensinformation.ie/about" title="Up one level">
 
@@ -143,7 +143,6 @@
     
     <![endif]-->
 
-    
     
     
     
@@ -201,24 +200,38 @@
 
 		<!-- Start Search Area -->
 		<div id="searchbar">
-	    <form name="searchform" action="http://www.citizensinformation.ie/search">
-	    	<label for="searchsite">Search Citizens Information:</label>
-	       
-        <input id="searchGadget" name="SearchableText" type="text" size="40" title="Search Site" accesskey="4" class="visibility:visible">
 
-
-
-                
-                <input type="image" src="/go.gif" alt="Click Go to activate search" align="top">
-	 
-
-	    	<span class="advanced">
-	    		Try the
-	    			<a href="/search_form" class="rolladvanced"> Advanced Search </a>
-	    	</span>
-
-	    </form>
-
+		<!-- Google cse --> 
+		<form action="http://www.citizensinformation.ie/search" id="cse-search-box">
+			<div>
+				<script type="text/javascript">
+					document.write('Search Citizens Information:');
+				</script>Search Citizens Information:
+				
+				
+				
+				<script type="text/javascript">
+					document.write('	<input type="hidden" name="cx" value="006414847141085406041:ntchszasfve" />');
+					document.write('	<input type="hidden" name="cof" value="FORID:9" />');
+					document.write('	<input type="hidden" name="ie" value="UTF-8" />');
+					document.write('	<input type="text" name="q" size="31" />');
+					document.write('	<input type="image" src="/go.gif" alt="Click Go to activate search" align="top" tabindex="" tal:attributes="tabindex tabindex/next"/>');
+				</script>	<input type="hidden" name="cx" value="006414847141085406041:ntchszasfve">	<input type="hidden" name="cof" value="FORID:9">	<input type="hidden" name="ie" value="UTF-8">	<input type="text" name="q" size="31">	<input type="image" src="/go.gif" alt="Click Go to activate search" align="top" tabindex="" tal:attributes="tabindex tabindex/next">
+				
+			</div>
+		</form>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		<noscript>
+			<form id="cref" action="http://www.google.com/cse">
+				<div>
+					<label for="searchsite">Search Citizens Information:</label>
+					<input type="hidden" name="cref" value="http://www.citizensinformation.ie/javascript_disabled.xml" /> 
+					<input type="text" name="q" size="31" /> 
+					<input type="image" src="/go.gif"
+            alt="Click Go to activate search" align="top" />		
+				</div>
+			</form>
+		</noscript>		
 	</div>
 		<!-- END Search Area -->
 
@@ -244,12 +257,6 @@
 	        	
 
 	        	
-
-	        	<!--
-	        	<span tal:condition="python:(is_last) and (crumbTitle not in [here.portal_properties.cioGlobals.baseContainer, here.portal_properties.cioGlobals.comhairleContainer])"
-	            tal:content="crumb/Title">crumb</span>
-	            -->
-
 	            
 
 	        
@@ -266,12 +273,6 @@
 	        		
 
 	        	</span>
-
-	        	<!--
-	        	<span tal:condition="python:(is_last) and (crumbTitle not in [here.portal_properties.cioGlobals.baseContainer, here.portal_properties.cioGlobals.comhairleContainer])"
-	            tal:content="crumb/Title">crumb</span>
-	            -->
-
 	            
 
 	        
@@ -283,12 +284,6 @@
 	        	
 
 	        	
-
-	        	<!--
-	        	<span tal:condition="python:(is_last) and (crumbTitle not in [here.portal_properties.cioGlobals.baseContainer, here.portal_properties.cioGlobals.comhairleContainer])"
-	            tal:content="crumb/Title">crumb</span>
-	            -->
-
 	            <span>Privacy Statement</span>
 
 	        
@@ -334,7 +329,7 @@ The CitizensInformation website does not collect any personal data, apart from i
 <h3 style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none">What we use the information for </h3>
 <br>Any personal information you provide will be used only for the purpose supplied. If you make a request for a form, the details supplied will be passed to the Department or Agency responsible. Queries submitted are handled by the Citizens Information Phone Service which provides a confidential information service. Your details will be deleted from the system after a set period of time. Any other information collected, is used only for analysing usage patterns, in order to guide us in improving the site.<br><br>Citizens Information will neither make attempts to identify individual visitors, nor associate the technical details listed above with any individual. It is our policy never to disclose such technical information in respect of individual website visitors to any third party unless obliged to disclose such information by a rule of law. The technical information will be used only by only for statistical and other administrative purposes.<br><br>You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 - 2003.<br><br>
 <h2 style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none">Further Information or to make a request</h2>
-<p>If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention by using our feedback form or by post at:</p>
+<p>If you are concerned about how personal data is processed via this website, please do not hesitate to bring such concerns to our attention at:</p>
 <p>Citizens Information Board<br>Ground Floor<br>George's Quay House<br>43 Townsend St<br>Dublin 2<br>Telephone: +353 1 6059000<br>Fax: +353 1 6059099</p>
 <h2 style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none">Glossary of technical terms used</h2>
 <h3 style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none">Web Browser </h3>
@@ -351,7 +346,7 @@ The CitizensInformation website does not collect any personal data, apart from i
 		<!--Extra Box -->
 			<div class="extra">
 				<strong>Last Updated: </strong>
-				12/8/2008<br>
+				25/1/2009<br>
 			</div>
 			</div>
     	</div>
@@ -383,23 +378,22 @@ The CitizensInformation website does not collect any personal data, apart from i
 				<li><a href="http://www.citizensinformation.ie/about/privacy?set_language=en" hreflang="en">In English</a></li>
 				<li><a href="http://www.citizensinformation.ie/about/raiteas-priobhaideachais?set_language=ga" hreflang="ga">As Gaeilge</a></li>
 
-	      		
 	      			
+	      				
 		         	
-		    	
-	      		
+		    		
 	      			
+	      				
 		         	
-		    	
-		    	    
-
+		    		
+		    		
 
 				
 
-		    </ul>
+			</ul>
 
 		
-		</div>
+	</div>
         
 
         
@@ -486,6 +480,28 @@ The CitizensInformation website does not collect any personal data, apart from i
         
 
         
+            
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+        
+
+        
+
+        
+    
+    
+        
+
+        
             <div class="place">
   
 </div>
@@ -514,12 +530,13 @@ The CitizensInformation website does not collect any personal data, apart from i
 	   	This document contains general information which may not address your particular circumstances; you may need more detailed information and/or legal advice.
 		</div>
 
+
 		<div id="footer">
 			<p>
 				<a href="/about/accessibility">Accessibility Statement</a> 
 				 
 				|
-				<a href="/about/userDisplayPrefs"> Change Display Preferences</a>
+				<a href="/about/userDisplayPrefs">Change Display Preferences</a>
 				|
 				<a href="/about/privacy">Privacy Statement</a> 
 				 
