@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the filtrbox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103056id_/http%3A//www.filtrbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtrbox.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426210854id_/http%3A//www.filtrbox.com/privacy.html) for the most accurate reproduction.*
 
-# filtrbox : blog
-
-Filtrbox, Inc. Privacy Policy
+# Privacy Policy :: Filtrbox
 
 Filtrbox, Inc. (“Filtrbox,” “Us,” or ”We” ) is committed to protecting the privacy of the users of the [www.filtrbox.com](http://www.filtrbox.com/) web site (the “Site”). The Site was designed to help you and your company monitor and discover new articles and content from online sources that matter to your business. This privacy policy (the “Policy”) discloses Filtrbox’s information privacy practices for the Site and is intended to inform registered users and other visitors to the Site of the data collection and use practices of the Site. 
 
