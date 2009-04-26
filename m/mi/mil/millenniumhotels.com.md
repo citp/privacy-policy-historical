@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062046id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millenniumhotels.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426074057id_/http%3A//www.millenniumhotels.com/corporate/privacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
 **The Millennium Hotels Privacy Policy and Disclosure**   
 Millennium Hotels and Resorts ("Millennium") directly, or through its third-party vendors collects on or from this website certain information provided by its customers so that it can provide its hotel services and products, including the ability to make reservations for Millennium Hotels on-line. The Millennium website also allows customers to communicate with Millennium on issues of customer service and to provide feedback on services. Millennium sometimes uses this customer information to analyze customers’ interests so that it can tailor programs and special offers. A list of website names ("URLs") to which this Policy applies is set forth below: 
 
-www.millenniumhotels.com   
-www.millenniumhotels.com/fgrclub 
+[www.millenniumhotels.com](http://www.millenniumhotels.com/)   
+[www.millenniumhotels.co.uk](http://www.millenniumhotels.co.uk/)   
+[www.millenniumhotels.com.sg](http://www.millenniumhotels.com.sg/)   
+[www.millenniumhotels.co.nz](http://www.millenniumhotels.co.nz/)
 
 **Categories of Information Millennium Collects**
 
