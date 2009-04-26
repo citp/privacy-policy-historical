@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftway.net privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003131741id_/http%3A//www.swiftway.net/%3Fmodule%3Dtresc%26id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftway.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426114749id_/http%3A//www.swiftway.net/%3Fmodule%3Dtresc%26id%3D11) for the most accurate reproduction.*
 
 # SwiftWay: Privacy Statement
 
