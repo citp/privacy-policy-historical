@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the mybanktracker.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094438id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mybanktracker.com privacy policy that was archived on 2009-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426171942id_/http%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
 	<title>Privacy Policy | My Bank Tracker</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><meta name="description" content="My Bank Tracker tracks the nations top banks and their rates. Find the best rates and ratings for checking, savings, money markets and more..."><meta name="keywords" content="my bank tracker, compare bank rates, highest interest rates, online bank reviews, high yield savings account, interest checking rate, credit card rate"><link rel="stylesheet" type="text/css" href="/css/cache_b2f4fc2c0ebbecfa39daccd2ca49e510_1229214318.css"><!--[if lte IE 6]>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><meta name="description" content="My Bank Tracker tracks the nations top banks and their rates. Find the best rates and ratings for checking, savings, money markets and more..."><meta name="keywords" content="my bank tracker, compare bank rates, highest interest rates, online bank reviews, high yield savings account, interest checking rate, credit card rate"><link rel="stylesheet" type="text/css" href="/css/default.min.css?r=40"><link rel="stylesheet" type="text/css" href="/css/minimal.css?r=40">	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
+<!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="/css/ie6.default.css" /><![endif]-->
 </head>
 <body>
@@ -11,7 +12,7 @@
 		<div id="header" class="clearfix">
 	<div id="mbt_header" class="cx">
 		<div id="logo">
-			<a href="/"><img src="/img/logo.gif" alt="My Bank Tracker"></a>		</div>
+						<a href="/"><img src="/img/logo.gif" alt="My Bank Tracker">&nbsp;&nbsp;<img src="/img/home-icon.gif" alt="Banking Home Page"></a>		</div>
 	
 		<div id="search">
 			<form action="/search">
@@ -22,11 +23,26 @@
 	</div>
 	<div id="mbt_nav">
 		<div id="nav" class="cx clearfix">
-			<ul id="nav-global" class="sf-menu"><li class="selected" id="nav-global-home"><a href="/" title="Home">Home</a></li><li id="nav-global-banks"><a href="/banks" title="Banks">Banks</a></li><li id="nav-global-banking_news"><a href="/articles/" title="Banking News">Banking News</a></li><li id="nav-global-credit_cards"><a href="/credit-cards" title="Credit Cards">Credit Cards</a></li><li id="nav-global-cd_rates"><a href="/cd-rates" title="CD Rates">CD Rates</a></li><li id="nav-global-mortgage"><a href="/mortgage" title="Mortgage">Mortgage</a></li><li id="nav-global-savings"><a href="/savings" title="Savings">Savings</a></li><li id="nav-global-checking"><a href="/checking" title="Checking">Checking</a></li></ul> 
+			<ul id="nav-global" class="sf-menu"><li id="nav-global-banks"><a href="/banks" title="Banks">Banks</a></li><li id="nav-global-banking_news"><a href="/articles/" title="Banking News">Banking News</a></li><li id="nav-global-credit_cards"><a href="/credit-cards" title="Credit Cards">Credit Cards</a></li><li id="nav-global-cd_rates"><a href="/cd-rates" title="CD Rates">CD Rates</a></li><li id="nav-global-mortgage"><a href="/mortgage" title="Mortgage">Mortgage</a></li><li id="nav-global-savings"><a href="/savings" title="Savings">Savings</a></li><li id="nav-global-checking"><a href="/checking" title="Checking">Checking</a></li><li id="nav-global-financial_tools"><a href="/tools" title="Financial Tools">Financial Tools</a></li></ul> 
 		
 			<ul id="nav-account">
-				<li id="nav-account-register"><a href="/users/add">Register Now</a></li><li id="nav-account-login"><a href="/users/login">Members login</a></li> 
-			</ul>
+				<li id="nav-account-login"><a href="/users/login">My Account</a></li>			</ul>
+			<script type="text/javascript">
+				$(document).ready(function(){
+					if ($.browser.mozilla && $.browser.version.substr(0,3) == '1.8') {
+					} else {
+						$('#nav-account #nav-account-login a').click(function(){
+							$.get(this.href, function(data) {
+								new Boxy(data, {
+									modal: true,
+									closeable:true
+								});
+							});
+							return false;
+						});
+					}
+				});
+			</script>
 		</div>
 	</div>
 
@@ -86,7 +102,53 @@
 </div>
 <div class="home-sub-footer"><div class="slide"><div></div><div class="fix">&nbsp;</div></div></div></div></div>
 	</div>
-		<script type="text/javascript">
+	<div id="footer">
+	<div class="sitemap">
+		<div class="sitemap-links">
+			<h3>Top Banks</h3>
+			<ul><li id="nav-global-chase"><a href="/banks/view/Chase" title="Chase">Chase</a></li><li id="nav-global-bank_of_america"><a href="/banks/view/Bank-of-America" title="Bank of America">Bank of America</a></li><li id="nav-global-citibank"><a href="/banks/view/Citibank" title="Citibank">Citibank</a></li><li id="nav-global-ing_direct"><a href="/banks/view/ING-Direct" title="ING Direct">ING Direct</a></li><li id="nav-global-wells_fargo"><a href="/banks/view/Wells-Fargo" title="Wells Fargo">Wells Fargo</a></li></ul>
+		</div>
+		<div class="sitemap-links">
+			<h3>Site links</h3>
+			<ul><li id="nav-global-home"><a href="/" title="Home">Home</a></li><li id="nav-global-glossary"><a href="/definitions" title="Glossary">Glossary</a></li><li id="nav-global-financial_news_blog"><a href="/articles/" title="Financial news blog">Financial news blog</a></li></ul>
+		</div>
+		<div class="sitemap-links">
+			<h3>Company information</h3>
+			<ul><li id="nav-global-services"><a href="/services" title="Services">Services</a></li><li id="nav-global-press"><a href="/articles/press/" title="Press">Press</a></li><li id="nav-global-information_for_advertisers"><a href="/pages/for_advertisers" title="Information for advertisers">Information for advertisers</a></li><li id="nav-global-contact_us"><a href="/contact_requests/add" title="Contact us">Contact us</a></li><li id="nav-global-about_us"><a href="/pages/about" title="About us">About us</a></li></ul>
+		</div>
+		<div class="sitemap-links">
+			<h3>All about banking</h3>
+			<ul><li id="nav-global-financial_tools"><a href="/tools" title="Financial tools">Financial tools</a></li><li id="nav-global-widgets_for_your_website"><a href="/widgets" title="Widgets for your website">Widgets for your website</a></li></ul>
+		</div>
+		<div class="sitemap-links last">
+			<h3>Financial products</h3>
+			<ul><li id="nav-global-credit_cards"><a href="/credit-cards" title="Credit Cards">Credit Cards</a></li><li id="nav-global-certificate_of_deposits_cd"><a href="/cd-rates" title="Certificate of deposits (CD)">Certificate of deposits (CD)</a></li><li id="nav-global-mortgage"><a href="/mortgage" title="Mortgage">Mortgage</a></li><li id="nav-global-savings"><a href="/savings" title="Savings">Savings</a></li><li id="nav-global-checking"><a href="/checking" title="Checking">Checking</a></li></ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="top-footer">
+		<div class="contents">
+			<div class="left">
+				<p>* See the applications of each bank account for details regarding terms and conditions of offer. Rates are based on New York state rates and may differ in other states. Reasonable efforts are made to maintain accurate information, however all bank rate information is presented without warranty. When you click on the "Learn More" button you can review the bank account terms and conditions on the bank's web site.</p>
+			</div>
+			<div class="right">
+				<div class="blog-rss"><a href="/articles/feed"><img src="/img/rss-feed.gif" alt="My Bank Tracker RSS Feed"></a></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="bottom-footer">
+		<div class="contents">
+			<div class="left">
+				<div class="footer-logo"><a href="/"><img src="/img/footer-logo.gif" alt="My Bank Tracker for comparing the best bank rates."></a></div>
+			</div>
+			<div class="right">
+				<p>Copyright © 2009 MyBankTracker.com ®, All Rights Reserved, visit our <a href="/pages/terms">Terms of Use</a> and <a href="/pages/privacy">Privacy Policy</a>.</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -107,5 +169,5 @@
 		<a href="http://www.quantcast.com/p-f5X54Wjq4x9aw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f5X54Wjq4x9aw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 	</noscript>
 	<!-- End Quantcast tag -->
-
+	<script type="text/javascript" src="/js/combined.min.js?r=40"></script>
 </div></body></html>
