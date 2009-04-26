@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freedomtube.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015039id_/http%3A//www.freedomtube.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomtube.org privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426024410id_/http%3A//www.freedomtube.org/privacy.html) for the most accurate reproduction.*
 
 # FreedomTube: Privacy Policy
+
+Watch Thousands of XXX DVD's 100% Free To Join - 200,000+ free passes issued daily! 
 
 (Effective as of January, 2008) 
 
