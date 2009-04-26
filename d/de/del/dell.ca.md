@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229132349id_/http%3A//www1.ca.dell.com/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426204040id_/http%3A//www.dell.ca/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Policies + Processes
 
@@ -81,7 +81,7 @@ If Dell should be required to release your personal information without your con
 
 Your Right of Access to Your Personal Information
 
-Dell will permit **you** the reasonable right of access and review of your Personal Information. We will endeavor to provide the information in question within a reasonable time and no later than 30 days following receipt of your request. If we require additional time, or if we feel that we have grounds to refuse your request, we will tell notify you of new timing for our reply and/or the reasons for our extension or refusal. Dell reserves the right to charge for copies of your records, however we will always let you know in advance if there is any such charge. Dell will provide information from its records in a form that is easy to understand. To protect you, Dell may require sufficient information to allow us to confirm that the person making the request is authorized to do so before granting access or making corrections. 
+Dell will permit **you** the reasonable right of access and review of your Personal Information. We will endeavour to provide the information in question within a reasonable time and no later than 30 days following receipt of your request. If we require additional time, or if we feel that we have grounds to refuse your request, we will tell notify you of new timing for our reply and/or the reasons for our extension or refusal. Dell reserves the right to charge for copies of your records, however we will always let you know in advance if there is any such charge. Dell will provide information from its records in a form that is easy to understand. To protect you, Dell may require sufficient information to allow us to confirm that the person making the request is authorized to do so before granting access or making corrections. 
 
 For How Long and Where Does Dell Keep My Personal Information?
 
