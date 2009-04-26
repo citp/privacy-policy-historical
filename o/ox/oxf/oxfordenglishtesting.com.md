@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062949id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D2%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426214821id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D2%26id%3D116) for the most accurate reproduction.*
 
 # www.oxfordenglishtesting.com
 
