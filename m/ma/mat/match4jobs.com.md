@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the match4jobs.com privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028180641id_/http%3A//www.match4jobs.com/contact/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match4jobs.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426024926id_/http%3A//www.match4jobs.com/register/privacystatement.html) for the most accurate reproduction.*
 
-# Contact - Privacy Statement - Oil & Gas - Match4Jobs
+# Match4jobs - Homepage
 
 Privacy Statement
 
@@ -11,7 +11,7 @@ This Privacy statement is solely applicable to the information we gather via thi
   
 Gathering and storing information **  
 **  
-You do not need to supply us with personal information in order to search for jobs on our site. If and when you wish to register with Match4Jobs (in order to receive newsletters and vacancies by e-mail) we may however ask you to submit personal details like name, address, e-mail address, telephone number, where to contact you, billing information, CV and other information which will reveal your identity. We will use your personal details and other information you provide in accordance with this privacy statement. Note that, as long as you provide us with a working e-mail address where we can contact you, you have the option to leave out those personal details and limit the CV and information provided to a description of your background and interests, which we require to provide you with our services, i.e. find jobs that match your background and interests. If you leave out your personal details, we may still disclose your CV and other information you provided us with to third parties according to the paragraphs �Building and uploading a CV� and �Disclosing information to third parties� below, except for your email address.
+You do not need to supply us with personal information in order to search for jobs on our site. If and when you wish to register with Match4Jobs (in order to receive newsletters and vacancies by e-mail) we may however ask you to submit personal details like name, address, e-mail address, telephone number, where to contact you, billing information, CV and other information which will reveal your identity. We will use your personal details and other information you provide in accordance with this privacy statement. Note that, as long as you provide us with a working e-mail address where we can contact you, you have the option to leave out those personal details and limit the CV and information provided to a description of your background and interests, which we require to provide you with our services, i.e. find jobs that match your background and interests. If you leave out your personal details, we may still disclose your CV and other information you provided us with to third parties according to the paragraphs 'Building and uploading a CV' and 'Disclosing information to third parties' below, except for your email address.
 
 There may be other parts of the Match4Jobs website where we ask you for personal information. Certain areas of the Match4Jobs site may be used to gather demographical data that are not uniquely applicable to you like postal code, age, sex and the kind of work that interests you. In some cases we may collect a combination of these two different kinds of information which may then be combined with information derived from other Match4Jobs sources. We make use of cookies and other forms of technology to gather an impression of your activities within our websites in order to be able to offer you optimal, made-to-measure service. We have informed the College Bescherming Persoonsgegevens (CBP), the Dutch body governing the protection of privacy of personal information, of our activities. Your information will be safely stored on a server in the Netherlands   
   
@@ -25,7 +25,7 @@ When you supply your personal information you give express permission for your p
   * We may share information about your background and interests, including any personal details you choose to provide us, to Match4Jobs' clients who may then be able to get in touch with you regarding a particular vacancy; 
   * Your personal details may be used to inform you of relevant vacancies suitable to your profile; 
   * We may also use your contact details to send you information on other work-related products and services on offer; 
-  * Should you not wish your details to be used for this you may use the [Match4Jobs contactform](https://web.archive.org/web/20081028180641id_/http%3A//www.match4jobs.com/oil-gas/contact/contact-us.html)  to let us know. 
+  * Should you not wish your details to be used for this you may use the [Match4Jobs contactform](https://web.archive.org/about/contact.html)  to let us know. 
 
 
 
