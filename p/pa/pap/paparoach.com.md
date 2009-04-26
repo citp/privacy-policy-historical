@@ -1,83 +1,117 @@
-> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217012503id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paparoach.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426065249id_/http%3A//www.gctrl.com/privacy) for the most accurate reproduction.*
 
-# UNIVERSAL MUSIC GROUP PRIVACY POLICY
+# ground(ctrl)™ Privacy Policy
 
-Effective: December 1, 2004  
-Last Updated: November 12, 2007
+October 1, 2007
 
-**UNIVERSAL MUSIC GROUP PRIVACY POLICY**
+This Privacy Policy, effective October 1st, 2007, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service. 
 
-[ Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [ Interscope Records, A&M Records](http://www.interscope.com/), [ Geffen Records](http://www.geffen.com/), [ Island](http://www.islandrecords.com/) [ Def Jam Music Group](http://www.defjam.com/), [ Lost Highway Records](http://www.losthighwayrecords.com/), [ MCA Nashville](http://www.mca-nashville.com/), [ Mercury Records](http://www.mercurynashville.com/), [ Motown Records](http://www.motown.com/), [ Universal Records](http://www.universalrecords.com/), [ Universal Records South,](http://www.universal-south.com/home.asp) [ Verve Music Group](http://www.vervemusicgroup.com/), [ Decca Label Group,](http://www.iclassics.com/) [ Universal Music Latino, ](http://www.universalmusica.com/) [ Machete Music](http://www.machetemusic.com/) and [ Universal Music Enterprises](http://www.umeportal.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
+By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-WHAT INFORMATION WE COLLECT
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at support@groundctrl.com. 
 
-There are many places at our sites where you can share your personal information with us, and where you can communicate with others.
+## About Ground(ctrl)™
 
-Registration. Some of our sites give you the opportunity to register with us, and sometimes registration is required before certain site features can be used. Our registration forms may request your contact information (such as your name, email address, mailing address, etc.), demographic information (such as your country, gender, etc.), and profile data (such as your music preferences, entertainment practices, etc). You may be assigned a site username and/or password. For our internal purposes, we use this information to communicate with you and provide the services you have requested, and to provide a more personalized experience on our sites. For example, your registration may allow you to use and post to site message boards, create site profiles, etc. We use aggregate demographic and profile information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others. By visiting our sites, you affirmatively consent to our collection and use of your data.
+Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers. 
 
-Newsletters and Other Communications from Us. Our registered users and customers may receive newsletters, email communications, or communications through other channels for, among other purposes, the promotion and marketing of a product or service from our family of sites and record labels, as well as other Vivendi Universal companies, and business partners, and we may also offer other visitors to our sites the opportunity to sign up to receive such information. When there is a separate sign-up for newsletters, we ask for contact information such as name and email address, and, sometimes, demographic and profile information. By visiting our sites, you affirmatively consent to our collection and use of your data. We use this information in the same manner as we use the contact information in the Registration process described above. We may offer our users the choice whether to receive mailings from others that we think will be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of email communications. Note that in order to keep our registered users informed about the operation of our services, we may send emails and announcements that are needed for the proper functioning and administration of our sites and service.
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
-Communications with Us. We have features where you can submit information to us (such as when contacting us with a question or feedback). We may retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+## The Information We Collect
 
-Communications with Friends. We may offer features where you can send information to others, such as e-cards or "Tell A Friend" features. We will use the contact information you enter for your friends to send the email or e-card.
+When you visit this web site, you provide us with three types of information: 
 
-Interactive and Community Features. Our sites may offer interactive and community features, such as message boards, chat, email accounts, short message service (SMS), instant messaging, profiles, personal homepages, etc. All information posted or sent through these features may be publicly available, and you should be aware that when you voluntarily disclose personal information (e.g., user name, email address, phone number) through these features, that information can be collected and used by others and may result in unsolicited communications from other people. By accessing these features and disclosing personal information, you affirmatively consent to the distribution of your personal information as described above. Users' posts may be publicly and/or internally associated with their profiles/screen-names. Users are solely responsible for the content of messages they post or send on public forums.
+  1. web site information collected by us through your interaction with this web site;
+  2. personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and 
+  3. personal information you knowingly and voluntarily disclose to use when using this service.
 
-Contests, Sweepstakes and Surveys. We may also have contests, sweepstakes and surveys at our sites. When you enter or participate in them, we request contact information from you (such as your full name, email address, mailing address, and telephone number) and may also request demographic or profile information. We will use the information you provide for the purpose of conducting the promotion (for example, to contact you if you have won). We may also use the information to send you newsletters and other information we think may be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of the email communication. Any personal information we collect may be associated with registration information. We may share aggregate information with others. We may sometimes partner with sponsors in offering contests, sweepstakes or surveys, and may share (provide and receive) information with them. By entering or participating in such contests, sweepstakes, and surveys, you affirmatively consent to our collection and use of your data.
 
-AUTOMATIC DATA COLLECTION
 
-Our web sites have features that automatically collect information from users to assist us in creating sites that honor our users' preferences and serve their interests and needs.
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
 
-Some of our sites use cookies, which are small data files containing information about the user that are stored on the user's hard drive. Some cookies are used to make login to our sites easier (such as by remembering usernames and passwords). Cookies can also enable us to track users' movements and target their interests to enhance their experience at our sites. We may also collect clickstream data and assign unique identifiers to our users for the same purposes. Information obtained with these technologies may be associated with your personal information so we can better market to you and customize our advertisements and promotions to your interests. 
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network including your first name, last name, email address, password, location, birthday, AIM, Yahoo screen name, Jabber, ICQ, street address, city, state, postal code, country, Flicker Feed, third-party links, and avatar image. 
 
-  We may use third-party advertising companies to serve ads when you visit our web sites.  These companies may use information (not including your name, address, email address or telephone number) about your visits to our sites and other web sites on the Internet in order to provide advertisements about goods and services of interest to you.  If you would like to learn more about this practice or find out how you can opt out from allowing these companies to gather this information or use it to display targeted ads, please visit the NAI’s website at [ http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp). 
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by Ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-Most common web browsers today, such as Firefox and Internet Explorer, allow you to modify your settings to block cookies entirely, alert you every time they are being sent, or allow their use by only those web sites you choose.  You can also delete cookies that are currently stored on your computer’s hard drive.  To do this within Firefox or Internet Explorer, go to Tools, then Options or Internet Options, and then choose the Privacy tab to make your selections.  If you choose to disable cookies, certain features on our web sites may not be available or work properly.  Also, please note that if you disable/delete all cookies stored on your computer, you will have also disabled the cookies that are used by NAI to help prevent you from receiving unwanted advertising from third party ad networks.  If you do not want this to happen, please make sure not to disable/delete the NAI cookie or add NAI to the approved list of sites from whom you allow/accept cookies.     Through the use of web logs or log files, we may also gather information such as the date, time, browser type, navigation history, and IP address of all visitors to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our user base. We may associate this information with your personal information. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
+Children’s Online Privacy Protection Act of 1998
 
-WITH WHOM YOUR INFORMATION IS SHARED
+This privacy policy is provided in conformity with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age. 
 
-Information provided at Artist sites that we host or manage may be shared with that Artist, including their management, representatives, and any new label they may join. As with other third parties, we are not responsible for how the Artists handle the data once they receive it. When we have co-branded or sponsored services, when we host a site, or when we join with other parties to provide specific services, we may share (provide and receive) your personal information with them. By visiting these sites, you affirmatively consent to our collection, use and distribution of your data.   
-We may share your information with other third parties with whom we have business relationships and, in some cases, we cannot control or know their privacy practices. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact us at the address, phone number or email address provided at the end of this Privacy Policy. 
 
-Other than as set forth in this policy, we do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, please be aware that our parent company, Vivendi Universal, including all its business units, subsidiaries, affiliates and sites, Universal Music Group's subsidiary and affiliated companies and sites, entities into which our companies may be merged, or entities to which any of our assets, products, sites or operations may be transferred, may obtain from us and be able to use your personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
 
-We may share (provide and receive) aggregate information, which is not personally identifiable, with others. This information may include demographic data such as the gender and/or geographic location of groups of users, but it will not include personal information (such as your name or email address). We use aggregate demographic information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others.
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information. 
 
-CHOICE
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the address listed at the end of this Privacy Policy. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you.
 
-By accepting this privacy policy, you expressly choose to receive certain communications from us and third parties, and you expressly agree to the privacy practices described herein. Our sites may also provide you with additional specific opportunities to select communications you wish to receive. You may change your privacy preferences, e.g. choose to cease receiving certain communications, by informing us of your new preferences. We will be able to honor your new preferences most quickly if you inform us of them by following the appropriate instructions in any communication you receive from us. Please be aware that messages you receive from us through SMS and instant messaging systems (and other systems apart from email) may not include an option to cease receiving communications; to change your privacy preferences with respect to those communications, please go to the profile page at the site where you provided your personal information or direct your instructions to the Contact identified at the end of this policy.
+## Correcting, Updating or Removing Your Information
 
-ACCESS
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. 
 
-If a user's personally identifiable information changes (such as zip code), we endeavor to provide a way to correct or update that user's personal data. Please feel free to contact us if you have any questions regarding making changes to your data.
+## How We Use the Information
 
-DATA COLLECTION FROM CHILDREN
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
 
-We strive to comply with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information from U.S. children under 13 without appropriate parental notice and consent. Sites that are directed to children where personal information is collected should have a Children's Privacy Policy setting forth our COPPA-compliant practices. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children's privacy.
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. 
 
-NOTICE: Visit [ www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—i.e. the distribution of band information that, based on your profile, matters to you.
 
-SECURITY
+## Sharing Your Information with Third Parties
 
-Security for all personally identifiable information is extremely important to us. We store your personal information securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
 
-MERCHANT/E-COMMERCE AREAS
+  1. enforce the network’s Terms and Conditions of Use Agreement;
+  2. protect the network’s rights;
+  3. coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards; 
+  4. protect the safety of it’s member; or
+  5. enhance each member’s promotional and informational-sharing experience. 
 
-We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. Please be aware that the site at iClassics.com is an exception, where we do make e-commerce offerings, and it is covered by a separate privacy policy. Please review it if you use that site.
 
-LINKS
 
-We may provide links to non-Universal Music Group sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users, and we advise you to check their privacy policies.
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service. 
 
-PRIVACY POLICY CHANGES
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this policy from time to time. Changes to this privacy policy are effective at the time they are posted and your continued use of our sites after posting will constitute acceptance of, and agreement to be bound by, those changes. 
+Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest. 
 
-CONTACT 
+## Third-Party Advertising
 
-If you have any questions about our privacy practices, please feel free to contact us at:
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
 
-UMG Privacy Officer  
-2220 Colorado Avenue, Santa Monica , CA 90404  
-(310) 865-5000 or email us by [ clicking here](http://privacypolicy.umusic.com/email/default.asp).
+Comments, Blogs, Messages, and Links
+
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites. 
+
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site. 
+
+## Security
+
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. 
+
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information. 
+
+Disclaimer of Liability for Unauthorized Viewing of Personal Information
+
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+
+Changes in the Privacy Policy’s Terms of Use, Notices and Revisions
+
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+
+## Contacting this Web Site
+
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at [support@groundctrl.com](mailto:support@groundctrl.com).
+
+ground(ctrl)™
+    
+
+1300 S. Street.
+
+Sacramento, CA 95814
+    1-877-GND-CTRL
+
+[Back to: ]()
