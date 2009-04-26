@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clkbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041537id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clkbank.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426233009id_/http%3A//www.clickbank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ClickBank
 
