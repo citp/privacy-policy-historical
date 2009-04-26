@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbgraph.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221160318id_/http%3A//www.cbgraph.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbgraph.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426072553id_/http%3A//www.cbgraph.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CBGraph - Privacy Policy
 
