@@ -1,61 +1,35 @@
-<!--The following is the downloaded HTML source of the staplescopyandprint.ca privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216154704id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the staplescopyandprint.ca privacy policy that was archived on 2009-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427234719id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript1.2">		
 <!-- 
+
+// Home Page Re-Design : Changed the function for adjusting the display of static pages width 960 stretch implementation.
 	function setContentFlag()
 	{
 		
-		if (document.getElementById("hdnContent") !=null || document.getElementById("hdnContent") != undefined) 
-		{
+		
+
 			if (document.getElementById("hdnLeftMenu") == null || document.getElementById("hdnLeftMenu") == undefined) 
 			{
 
-				var bContentTPLFlag;
-				var sOrgContentSrcID
-				var sOrgContentDestID
-				var sRemovableID
-				var sLeftNavSrcID
-				var sLeftNavDestID
-								
-				// Retrieve the source and destination <tr>, <td> tag ID
-				bContentTPLFlag = document.getElementById("hdnContent").value;
-				sOrgContentSrcID = document.getElementById("srcContentFlag");
-				sOrgContentDestID = document.getElementById("trgContentFlag");
-				sRemovableID = document.getElementById("remContentFlag");
-				sLeftNavSrcID = document.getElementById("srcLeftNav");
-				sLeftNavDestID = document.getElementById("trgLeftNav");
+				var tableobj = document.getElementById("main");
+				tableobj.rows[2].deleteCell(0);
+				tableobj.rows[2].deleteCell(0);
+				tableobj.rows[2].deleteCell(0);
+				document.getElementById("srcBody").width="956";
+				document.getElementById("main").style.visibility="visible";
+				document.getElementById("showFooter").style.visibility="visible";
 				
-				// Change the destination <tr>, <td> content
-				sOrgContentDestID.innerHTML = sOrgContentSrcID.innerHTML;
-				sLeftNavDestID.innerHTML = sLeftNavSrcID.innerHTML
-				sRemovableID.parentNode.removeChild(sRemovableID);
-				document.getElementById("mainContentFlag").style.visibility="visible";
-
+								
 			}
-
+		
+			
 			else
-			{
-				document.getElementById("trgBlueTabLeft").innerHTML = document.getElementById("srcBlueTabLeft").innerHTML; 
-				document.getElementById("trgBlueTabRight").innerHTML = document.getElementById("srcBlueTabRight").innerHTML; 
-				document.getElementById("trgBlueTabMiddle").innerHTML = document.getElementById("trgLeftNav").innerHTML;
-				document.getElementById("mainContentFlag").style.visibility="visible";
-				document.getElementById("remContentFlag").style.visibility="visible";
-
-			}
-		}
-
-	
-		else
-		{
-			document.getElementById("trgBlueTabLeft").innerHTML = document.getElementById("srcBlueTabLeft").innerHTML; 
-			document.getElementById("trgBlueTabRight").innerHTML = document.getElementById("srcBlueTabRight").innerHTML;
-			document.getElementById("trgBlueTabMiddle").innerHTML = document.getElementById("trgLeftNav").innerHTML;
-			document.getElementById("mainContentFlag").style.visibility="visible";
-			document.getElementById("remContentFlag").style.visibility="visible";
-
-		}
-
+			{	
+				document.getElementById("main").style.visibility="visible";
+				document.getElementById("showFooter").style.visibility="visible";
+			}	
 	}
 
 // -->	
@@ -66,6 +40,8 @@
 <!--
 	UPDATED:	01/22/2007		COGNIZANT		COREMETRICS CHANGES - Included the CoreMetrics.asp page
 	UPDATED:	11/19/2008		COGNIZANT		NAVIGATION CHANGES - Added <body onLoad ...> tag and modified design.
+	UPDATED:	02/27/2009		COGNIZANT		HOME PAGE RE-DESIGN and 960 STRETCH - Changed the table width to implement 960 stretch.
+	 											      		        Also changed the design to adjust the display of static pages.		
 //-->
 
 
@@ -81,219 +57,156 @@
 	
 	<link rel="stylesheet" href="../StyleSheets/staples.css">
 </head>
-<!--Start: Added this code part to call the javascript function to implement Static Template Changes -->
-<body onload="setContentFlag();" text="#000000" link="#000066" vlink="#000066" alink="#000066" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<!--End: Added this code part to call the javascript function to implement Static Template Changes -->
+<!-- Home Page Redesign comment...  call JS function setContentFlag() for proper display of static pages with 960 width and change bgcolor -->
+<body onload="setContentFlag();" text="#000000" link="#000066" vlink="#000066" alink="#000066" bgcolor="#E5E5E5" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
 
+<!-- Home Page Redesign comment... Add Div tag for center alignment -->
+<div align="center">
 <form name="main_page_form" method="POST" action="">
 		
 <!--  BEGIN fragmentID = wrapper -->
-<!--  comment...  contains the content/code for the wrapper file  -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!--  Home Page Redesign_960 Stretch comment...  change table structure, width, bgcolor and add style  -->
+<table border="0" cellpadding="0" cellspacing="0" width="960" id="main" bgcolor="#FFFFFF" class="pageborder" style="visibility: visible;">
 	<tbody><tr valign="top">
 		<td colspan="5">
-			<table border="0" cellpadding="0" cellspacing="0" width="760">
+			
+<!-- Include wrap_header_js.js for home page redesign logout functionality -->
+<script language="JavaScript1.2">
+		
+<!-- 
+	function SethdnLogoutValue()
+	{
+			
+	  	document.getElementById("hdnLogout").value = 1;
+		var iFormcount = document.forms.length;
+		
+
+		if (iFormcount > 0)
+	  	{
+			var sFormName = document.forms[0].name
+			var objFormById = document.getElementById(sFormName);
+			if(objFormById != null || objFormById != undefined)
+	  		{
+				objFormById.submit();
+			
+	  		}
+			else if (sFormName != null || sFormName != undefined)
+			{
+				var objFormName = document.getElementsByName(sFormName);
+				objFormName[0].submit();				
+			}
+	  	}
+				
+	}
+
+
+
+// -->	
+</script> <table border="0" cellpadding="0" cellspacing="0" width="956">
 <tbody><tr>
-<td width="760" colspan="2"><img src="../images/0.gif" width="760" height="8"></td>
+<td style="background-image:url(../images/bg_hdr_bluefade.gif);text-align:center;width:150;valign:top;height:82;"><a href="http://www.staples.ca/ENG/Catalog/stap_home.asp"><img src="../images/staples_logo.gif" border="0" alt="Staples"></a></td>
+<td style="background-image:url(../images/bg_hdr_bluefade.gif);width:160;height:82;">
+<table border="0" cellpadding="0" cellspacing="0" width="160">
+<tbody><tr>
+<td height="53" valign="bottom" class="hwelcome" width="160">Welcome</td>
 </tr>
 <tr>
-<td align="left" width="400" class="glrc"><img src="../images/0.gif" width="7" height="1"></td>
-<td align="right" width="360" class="bcpn"><a href="  &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;../../ENG/static/static_pages.asp?pagename=rebate&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">
-										
-										
-									Rebate Centre</a> | 
-								
-								    
-										<a href="  &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;../../ENG/Static/static_pages.asp?pagename=enterprise&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">
-											
-											
-										Credit
-										</a>
-										
-									
-										 | 
-									<a href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=bizservices%5Fmain">Business Services</a> | <a target="_blank" href="  &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;dividends&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">
-											
-											
-										Dividend$</a></td>
-</tr>
-<tr>
-<td width="760" colspan="2"><img src="../images/0.gif" width="760" height="3"></td>
+<td height="27" valign="top" class="login" width="160"><a class="walogin" href="https://ssl.staples.ca/ENG/Account/acct_login.asp" title="Login">Please log in.</a></td>
 </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="760">
+</td>
+<td style="background-image:url(../images/bg_hdr_bluefade.gif); width:240; valign:center" class="fl"><span class="sbnu">Search :</span><br><img src="../images/0.gif" width="100" height="2"><nobr><input type="text" class="txtsearch" name="wrap_txtSearchHeader" id="wrap_txtSearchHeader" maxlength="50"><img src="../images/0.gif" width="4" height="4" align="absmiddle"><input type="image" src="../images/home_go_red.gif" border="0" alt="Go" align="absmiddle" name="wrap_imgSearchHeader"></nobr><br><nobr><a class="hfclblock" title="Order by Catalogue" href="http://www.staples.ca/ENG/Catalog/cat_catorder.asp"><img src="../images/dotarrow.gif" border="0"><img src="../images/0.gif" width="4" border="0">Order by catalogue item #
+										</a></nobr></td>
+<td style="background-image:url(../images/bg_hdr_bluefade.gif); width:228;">
+<table cellpadding="0" cellspacing="0" border="0" width="228">
 <tbody><tr>
-<td class="glrc" align="left" nowrap="true"><img src="../images/0.gif" width="10" height="1"><nobr><input type="image" src="../images/btntxt_version.gif " border="0" align="absmiddle" alt="Version française" name="wrap_switchlanguage">&nbsp;|&nbsp;<a class="glrc" href="https://ssl.staples.ca/ENG/Account/acct_login.asp"><img src="../images/btntxtLogin.gif " border="0" align="absmiddle" alt="Login"></a>&nbsp;|&nbsp;<a class="glrc" href="https://ssl.staples.ca/ENG/Account/acct_registration.asp">Register</a></nobr></td>
-<td align="right" class="bcpn"><nobr><a class="bcpn" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=corp%5Fabout">About Us</a>&nbsp;|&nbsp;<a class="bcpn" href="http://www.staples.ca/ENG/CSR/csr_contact_us_topics.asp">Contact Us</a>&nbsp;|&nbsp;<a target="_new" href="  &#10;&#9;&#9;&#9;&#9;&#9;http://www.greatcareersatstaples.ca&#10;&#9;&#9;&#9;&#9;">
-	
-			
-
-
-
-								Jobs</a>&nbsp;|&nbsp;<a class="bcpn" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=help">Help</a></nobr></td>
+<td valign="center" height="24"><input type="hidden" name="hdnLogout" id="hdnLogout" value=""><a class="hfcl" title="Find a Store" href="../StoreLocator/store_locator.asp">
+													Find a Store
+												</a><a class="hfcl" title="Contact Us" href="http://www.staples.ca/ENG/CSR/csr_contact_us_topics.asp">Contact Us
+												</a><a class="hfcl" title="Login" href="https://ssl.staples.ca/ENG/Account/acct_login.asp">Login</a></td>
 </tr>
 <tr>
-<td colspan="2"><img src="../images/0.gif" width="1" height="4"></td>
+<td valign="center" style="border-bottom: 1px dotted #FFFFFF;border-top: 1px dotted #FFFFFF;height:23px"><a class="wacart" title="Cart" href="http://www.staples.ca/ENG/Cart/cart_cart.asp"><img src="../images/hdr_cart.gif" border="0" vspace="4" align="absmiddle"><img src="../images/0.gif" width="6" border="0">Cart :  
+													<span class="hfcl">$0.00</span></a></td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#FFFFFF" align="center" valign="middle" width="760">
-<table border="0" cellpadding="0" cellspacing="0" height="78" width="760">
+<td height="33">
+<table cellpadding="1" cellspacing="0" border="0" width="228">
 <tbody><tr>
-<td bgcolor="#CC0000" align="center" valign="middle" width="190"><a href="http://www.staples.ca/ENG/Catalog/stap_home.asp"><img src="../images/staples_logo.gif " border="0" alt="Staples" vspace="3"></a><br><img src="../images/0.gif" width="190" height="1"></td>
-<td bgcolor="#FFFFFF" width="1"><img src="../images/0.gif" height="78" width="1"></td>
-<td bgcolor="#CC0000" width="1"><img src="../images/0.gif" height="78" width="8"></td>
-<td bgcolor="#CC0000" width="182" class="fl" valign="top"><img src="../images/0.gif" height="16"><br><img src="../images/searchlogo.gif " border="0" alt="Search" vspace="0"><br><nobr><input type="text" class="ttfl" name="wrap_txtSearchHeader" id="wrap_txtSearchHeader" size="15" maxlength="50" style="width:137px"></nobr><nobr><img src="../images/0.gif" width="4" height="4" align="absmiddle"><input type="image" src="../images/home_go_red.gif " border="0" alt="Go" align="absmiddle" name="wrap_imgSearchHeader"></nobr><br><img src="../images/0.gif" height="2"><br>
-									»
-									<a class="wa" href=" &#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  ../static/static_pages.asp?pagename=viewflyer &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">
-									View Flyer
-									</a><br><img src="../images/0.gif" height="12" width="182"></td>
-<td bgcolor="#CC0000" width="1"><img src="../images/0.gif" height="78" width="4"></td>
-<td bgcolor="#FFFFFF" width="1"><img src="../images/0.gif" height="78" width="1"></td>
-<td bgcolor="#CC0000" width="1"><img src="../images/0.gif" height="78" width="6"></td>
-<td bgcolor="#CC0000" width="181" valign="top" align="left"><img src="../images/0.gif" height="28"><br><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td rowspan="2" valign="top"><img src="../images/cataloglogo.gif " border="0" alt="Order by Catalogue"><img src="../images/0.gif" height="1" width="6"></td>
-<td valign="top"><img src="../images/0.gif" height="8"><br><a href="http://www.staples.ca/ENG/Catalog/cat_catorder.asp"><img src="../images/orderbycatalogue.gif" border="0" alt="Order by Catalogue"></a></td>
-</tr>
-<tr>
-<td class="fl" valign="top"><img src="../images/0.gif" height="2"><br><nobr>» <a class="wa" href="http://www.staples.ca/ENG/CSR/csr_contact_catalogrqst.asp">Order a FREE Catalogue</a></nobr><br><img src="../images/0.gif" height="12"><br></td>
-</tr>
-</tbody></table><img src="../images/0.gif" height="1" width="181"></td>
-<td bgcolor="#CC0000" width="1"><img src="../images/0.gif" height="78" width="6"></td>
-<td bgcolor="#FFFFFF" width="1"><img src="../images/0.gif" height="78" width="1"></td>
-<td bgcolor="#CC0000" width="1"><img src="../images/0.gif" height="78" width="8"></td>
-<td bgcolor="#CC0000" width="157" valign="top"><img src="../images/0.gif" height="28"><br><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td rowspan="2"><img src="../images/0.gif" height="2"><br><img src="../images/storelogo.gif " border="0" alt="What's NEW in-store"><img src="../images/0.gif" height="1" width="6"></td>
-<td valign="middle" class="fl"><img src="../images/0.gif" height="10"><br><nobr><a class="wa" target="_storelocator" href="http://easy.staples.ca"><img src="../images/home_main_storebut.gif" alt="What's NEW in-store" border="0"></a></nobr></td>
-</tr>
-<tr>
-<td class="fl" valign="top"><img src="../images/0.gif" height="2"><br><nobr>» <a class="wa" href="http://www.staples.ca/ENG/StoreLocator/store_locator.asp">Find a Store</a></nobr></td>
-</tr>
-</tbody></table><img src="../images/0.gif" height="18" width="167"></td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-
-		</td>
-	</tr>
-<!--Start: Modified this code part to change the static page design from javascript to implement Static Template Changes -->
-	<tr valign="top" id="mainContentFlag" style="visibility: visible;">
-	
-						
-			<td width="19" id="trgBlueTabLeft"><img src="../images/0.gif" width="19" height="22" border="0" alt=""></td>
-			
-			<td width="152" id="trgLeftNav"><img src="../images/0.gif" width="1" height="2" border="0"><br>
-				<img src="../images/0.gif" width="152" height="22" border="0" alt=""><br>				
-			</td>
-			<td width="19" id="trgBlueTabRight">
-			<img src="../images/0.gif" width="19" height="22">
-		</td>
-			<td width="5000"><img src="../images/0.gif" width="1" height="2" border="0"><br>
-						<table cellpadding="0" cellspacing="0" border="0" width="569">
-<tbody><tr>
-<td align="left">
-<table cellpadding="0" cellspacing="0" border="0" width="569">
-<tbody><tr>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="http://www.staples.ca/ENG/Catalog/stap_home.asp"><span class="sbnu">Home</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FOffice+Supplies"><span class="sbnu">Office Supplies</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FFurniture"><span class="sbnu">Furniture</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FTechnology"><span class="sbnu">Technology</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="../Catalog/cat_category.asp?name=CA%5FGE%5FCartridge+Toner+Ribbons"><span class="sbnu">Ink and Toner</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center"><nobr>&nbsp;<a href="../Static/static_pages.asp?pagename=specials"><span class="sbnu">Specials</span></a>&nbsp;</nobr></td>
-<td bgcolor="#FFFFFF"><img src="../images/0.gif" width="1" height="22"></td>
-<td class="navInactive" valign="middle" align="center" width="100%"><img src="../images/0.gif" width="1" height="5"></td>
+<td width="124" valign="top"><a class="hfcl" title="Free shipping available" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=help%5Fpolicy%5Fdelivery#ship">
+																Free shipping available.*
+															</a></td>
+<td width="104" align="center" valign="bottom"><a class="hfcl" href="http://www.staples.ca/ENG/Cart/cart_cart.asp"><img name="moom_checkout" src="../images/btn_checkout.gif" border="0" alt="Checkout"></a></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
 </tbody></table>
-<br>						
-						
-			</td>
-			<td width="19"><img src="../images/0.gif" width="1" height="2" border="0"><br>
-				<img src="../images/0.gif" width="19" height="22" border="0" alt="">
-			</td>
-	
+</td>
+<td style="background-image:url(../images/bg_hdr_bluefade.gif);height:82;width:178;" align="right"><a class="hfcl" align="right" href="../static/static_pages.asp?pagename=viewflyer"><img src="../images/viewflyer_top.gif" border="0" alt="View Online Flyers" align="right"></a></td>
+</tr>
+</tbody></table>
 
+		</td>
 	</tr>
-	<tr valign="top" id="remContentFlag" style="visibility: visible;">
-		
-		<td width="19" id="srcBlueTabLeft"><img src="../images/0.gif" width="19" height="22" border="0" alt=""></td>
-				
-		<td width="152" id="srcLeftNav"><img src="../images/0.gif" width="1" height="2" border="0"><br>
-			<span id="trgBlueTabMiddle"><img src="../images/0.gif" width="1" height="2" border="0"><br>
-				<img src="../images/0.gif" width="152" height="22" border="0" alt=""><br>				
-			</span>
+	<tr valign="top">
+		<td width="960" colspan="5">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#B20101">
+<tbody><tr>
+<td align="left">
+<div id="chead">
+<div><a href="http://www.staples.ca/ENG/Catalog/stap_home.asp">Home</a></div>
+<div><a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FOffice+Supplies">Office Supplies</a></div>
+<div><a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FFurniture">Furniture</a></div>
+<div><a href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FTechnology">Technology</a></div>
+<div><a href="../Catalog/cat_category.asp?name=CA%5FGE%5FCartridge+Toner+Ribbons">Ink and Toner</a></div>
+<div><a href="../Account/acct_editsel.asp?pagename=myaccount">My Account</a></div>
+<div><a href="../Static/static_pages.asp?pagename=bizservices%5Fmain">Business Services</a></div>
+<div><a href="../Static/static_pages.asp?pagename=specials">Specials</a></div><span id="hpmsg"><input type="image" src="../images/btntxt_version.gif " border="0" align="absmiddle" alt="Version française" name="wrap_switchlanguage"></span></div>
+</td>
+</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+	<tr valign="top" align="left" id="setVisibility">
+		<td width="19">
+			<img src="../images/0.gif" width="19" height="22" border="0" alt="">
+		</td>
+		<td width="148"><img src="../images/0.gif" width="1" height="10">
 			
 <!-- include this JavaScript file to implement Navigation Design changes-->
 <!-- include JavaScript functions for this page-->
 <script language="JavaScript1.2">		
 <!-- 
+
+// Home Page Re-Design : Changed the function for adjusting the display of static pages width 960 stretch implementation.
 	function setContentFlag()
 	{
 		
-		if (document.getElementById("hdnContent") !=null || document.getElementById("hdnContent") != undefined) 
-		{
+		
+
 			if (document.getElementById("hdnLeftMenu") == null || document.getElementById("hdnLeftMenu") == undefined) 
 			{
 
-				var bContentTPLFlag;
-				var sOrgContentSrcID
-				var sOrgContentDestID
-				var sRemovableID
-				var sLeftNavSrcID
-				var sLeftNavDestID
-								
-				// Retrieve the source and destination <tr>, <td> tag ID
-				bContentTPLFlag = document.getElementById("hdnContent").value;
-				sOrgContentSrcID = document.getElementById("srcContentFlag");
-				sOrgContentDestID = document.getElementById("trgContentFlag");
-				sRemovableID = document.getElementById("remContentFlag");
-				sLeftNavSrcID = document.getElementById("srcLeftNav");
-				sLeftNavDestID = document.getElementById("trgLeftNav");
+				var tableobj = document.getElementById("main");
+				tableobj.rows[2].deleteCell(0);
+				tableobj.rows[2].deleteCell(0);
+				tableobj.rows[2].deleteCell(0);
+				document.getElementById("srcBody").width="956";
+				document.getElementById("main").style.visibility="visible";
+				document.getElementById("showFooter").style.visibility="visible";
 				
-				// Change the destination <tr>, <td> content
-				sOrgContentDestID.innerHTML = sOrgContentSrcID.innerHTML;
-				sLeftNavDestID.innerHTML = sLeftNavSrcID.innerHTML
-				sRemovableID.parentNode.removeChild(sRemovableID);
-				document.getElementById("mainContentFlag").style.visibility="visible";
-
+								
 			}
-
+		
+			
 			else
-			{
-				document.getElementById("trgBlueTabLeft").innerHTML = document.getElementById("srcBlueTabLeft").innerHTML; 
-				document.getElementById("trgBlueTabRight").innerHTML = document.getElementById("srcBlueTabRight").innerHTML; 
-				document.getElementById("trgBlueTabMiddle").innerHTML = document.getElementById("trgLeftNav").innerHTML;
-				document.getElementById("mainContentFlag").style.visibility="visible";
-				document.getElementById("remContentFlag").style.visibility="visible";
-
-			}
-		}
-
-	
-		else
-		{
-			document.getElementById("trgBlueTabLeft").innerHTML = document.getElementById("srcBlueTabLeft").innerHTML; 
-			document.getElementById("trgBlueTabRight").innerHTML = document.getElementById("srcBlueTabRight").innerHTML;
-			document.getElementById("trgBlueTabMiddle").innerHTML = document.getElementById("trgLeftNav").innerHTML;
-			document.getElementById("mainContentFlag").style.visibility="visible";
-			document.getElementById("remContentFlag").style.visibility="visible";
-
-		}
-
+			{	
+				document.getElementById("main").style.visibility="visible";
+				document.getElementById("showFooter").style.visibility="visible";
+			}	
 	}
 
 // -->	
@@ -452,13 +365,11 @@
 <table border="0" cellpadding="0" cellspacing="0" width="152"></table>
 	
 		</td>
-
-		<td width="19" id="srcBlueTabRight">
+		<td width="19">
 			<img src="../images/0.gif" width="19" height="22">
 		</td>
-
-		<td width="5000">
-			<img src="../images/0.gif" width="1" height="2"><br>
+		<td width="774&quot;" align="left" id="srcBody">
+			<img src="../images/0.gif" width="1" height="10">
 			<span id="srcContentFlag"><table border="0" cellpadding="0" cellspacing="0" width="552">
 <tbody><tr>
 <td width="552" colspan="4" class="pt">Terms and Conditions</td>
@@ -566,99 +477,180 @@ contact you would like to be removed from. <br><br><b>Mail:</b><br>
 The Business Depot Ltd.<br>
 6 Staples Avenue<br>
 Richmond Hill, Ontario, L4B 4W3<br>
-Attn: Customer Privacy Department <br><br><b>E-Mail:</b><br><a href="mailto:privacy@staples.ca">privacy@staples.ca</a><br><br><b>Phone:</b><br>
+Attn: Customer Privacy Department <br><br><b>E-Mail:</b><br><a href="mailto:privacy@staples.ca?MSCSProfile=3C79F0C7EA3162B289A6F3317CC124D8708873413275AAB1B69C4389ED275E0D72C3F6940F8CD384D1A8117144A9F4DEA938B62BD8655F62572239E3E59CD3FE05930CA3647499E681885AA4BC41AAD14A6C2F501B73CD920E5CC055FD155D7070EFF09C7A2D18B5EB97A6BDDF0B5E6A42EA01A732354869CB335CBE65A009A4EBB9BAB808754781">privacy@staples.ca</a><br><br><b>Phone:</b><br>
 1-866-782-7537 <br><br><b>Facsimile:</b><br>
 905-780-5607 <br><br>Alternatively, all of our direct-contact promotions provide customers with 
 the ability to exclude themselves from future promotions.<br><br></td>
 </tr>
 </tbody></table>
 </span>							
-		</td>
+		</td>	
+	</tr>
 
-		<td width="19"><img src="../images/0.gif" width="19" height="22" border="0" alt=""></td>
-		
-	
-	</tr>
-	<tr valign="top">
-		
-		<td colspan="5">
-			<span id="trgContentFlag">&nbsp;</span>
-		</td>
-	</tr>
-<!--End: Modified this code part to change the static page design from javascript to implement Static Template Changes -->
-	<tr height="230" valign="top">
-		<td colspan="5">
-			<img src="../images/0.gif" height="62" width="12"><br><table cellpadding="0" cellspacing="0" border="0" width="760">
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="960" id="showFooter" style="visibility: visible;">
+	<tbody><tr valign="top">
+		<td colspan="5" bgcolor="#E5E5E5">
+			<table border="0" cellpadding="0" cellspacing="0" width="956" height="10" bgcolor="#FFFFFF" class="pageborder">
 <tbody><tr>
-<td width="190"><img src="../images/0.gif" width="190" height="1"></td>
-<td align="center" valign="middle" height="36" width="570">
-<table cellpadding="0" cellspacing="0" border="0">
+<td valign="top" width="956" height="10" bgcolor="#FFFFFF"><img src="../images/0.gif" width="956" height="10"></td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="956" class="cfoot">
 <tbody><tr>
-<td><a href="/ENG/StoreLocator/store_locator.asp"><img src="../images/3ways_footer_01.gif " border="0" alt="Store"></a></td>
-<td><a href="http://www.staples.ca/ENG/Catalog/cat_catorder.asp"><img src="../images/3ways_footer_02.gif " border="0" alt="Catalogue"></a></td>
-<td><a href="http://www.staples.ca/ENG/Catalog/stap_home.asp"><img src="../images/3ways_footer_03.gif " border="0" alt="Online"></a></td>
+<td valign="top" width="956" colspan="4"><img src="../images/0.gif" width="956" height="5"></td>
+</tr>
+<tr>
+<td width="12" bgcolor="#CCCCCC" align="right" border="0"></td>
+<td width="752" bgcolor="#CCCCCC" align="right" border="0" valign="top">
+<table width="752" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="188" bgcolor="#CCCCCC" align="left" valign="top">
+<table width="188" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="188" height="20" valign="top" style="font-size:13"><b>Ways to Save</b></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../static/static_pages.asp?pagename=viewflyer">Online Flyers</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../catalog/cat_vlp_index.asp">Featured Brands</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=enterprise">Credit</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" target="_blank" href="https://www.staplesdividends.ca/SODC/UserManagement/Login/Login.aspx?cul=en-CA">easyRewards Savings</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../CSR/csr_contact_catalogrqst.asp">Request a Catalogue</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../static/static_pages.asp?pagename=rebate">Rebate Centre</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Catalog/cat_super.asp?CatIds=%2C&amp;name=CA%5FSU%5FVLP%5FSBD&amp;VLP=1">Staples Brand Products</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="http://www.corporateadvantage.ca/en_CA/sbd/content/entry/index.html">20 or More Employees?</a></td>
+</tr>
+</tbody></table>
+</td>
+<td width="188" bgcolor="#CCCCCC" align="left" valign="top">
+<table width="188" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="188" height="20" valign="top" style="font-size:13"><b>Help &amp; Policies</b></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=help">Help</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../CSR/csr_contact_us_topics.asp">Contact Us</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=help%5Fpolicy%5Fdelivery">Delivery</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=help_policy_pricematch">Price Match Guarantee</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=help_terms_privacy">Privacy</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=help%5Fterms">Terms &amp; Conditions</a></td>
+</tr>
+</tbody></table>
+</td>
+<td width="188" bgcolor="#CCCCCC" align="left" valign="top">
+<table width="188" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="188" height="20" valign="top" style="font-size:13"><b>In Our Stores</b></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../StoreLocator/store_locator.asp">Find a Store</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" target="_blank" href="http://www.staplescopyandprint.ca/">Copy &amp; Print Centre</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=etf_home">Easy Tech Force</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" target="_blank" href="http://easy.staples.ca/en/Pages/index.aspx">easy.staples.ca</a></td>
+</tr>
+</tbody></table>
+</td>
+<td width="188" bgcolor="#CCCCCC" align="left" valign="top">
+<table width="188" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="188" height="20" valign="top" style="font-size:13"><b>Corporate Information</b></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=corp%5Fabout">About Us</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" target="_blank" href="http://www.staplesinthecommunity.ca/">Community@Work</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="http://www.staples.ca/ecoeasy">EcoEasy</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" target="_blank" href="https://www.greatcareersatstaples.ca/">Careers</a></td>
+</tr>
+<tr>
+<td valign="top" width="188" height="11"><a class="footer" href="../Static/static_pages.asp?pagename=corp_contact">Media Information</a></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="760">
-<tbody><tr valign="top">
-<td width="190" class="footerleft"><img src="../images/youvegotit.gif " border="0" alt="Questions? Call us toll free at 1-877-360-8500."></td>
-<td width="560" class="footerright" align="center">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="484" class="ftll" align="center"><img src="../images/0.gif" height="12" width="1"><br>
-					This website is intended only for use by Canadian residents.<br><br><nobr><a class="fl" href="http://www.staples.ca/ENG/Catalog/stap_home.asp">Home</a>
-					 | 
-		
-					<a class="fl" href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FOffice+Supplies">Office Supplies</a>
-					 | 
-					
-					<a class="fl" href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FFurniture">Furniture</a>
-					 | 
-					 
-					<a class="fl" href="http://www.staples.ca/ENG/Catalog/cat_super.asp?catids=%2C&amp;name=CA%5FSU%5FTechnology">Technology</a></nobr><br><a class="fl" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=bizservices%5Fmain">Business Services</a>
-						 | 
-					<a class="fl" href="/ENG/StoreLocator/store_locator.asp">
-						Store Locator
-					</a>
-					 | 
-					
-					<a class="fl" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=corp%5Fabout">About Us</a><br><a class="fl" target="_blank" href="  &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;http://www.greatcareersatstaples.ca&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;">
-						
-						
-						
-							Jobs</a> | <a class="fl" href="http://www.staples.ca/ENG/CSR/csr_contact_us_topics.asp">Contact Us</a>
-					 | 					
-					<a class="fl" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=help">Help</a>
-					 | 
-					<a class="fl" href="http://www.staples.ca/ENG/CSR/csr_contact_catalogrqst.asp">Order a FREE catalogue</a><br><a class="fl" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=help%5Fterms%5Fprivacy">Privacy Policy</a>
-					 | 			
-					<a class="fl" href="http://www.staples.ca/ENG/Static/static_pages.asp?pagename=help%5Fterms">Terms and Conditions</a><br><br>Copyright ©&nbsp;2008 The Business Depot Ltd.  All rights reserved.
-					
-					
-					
-					
-					<img src="../images/0.gif" height="1" width="484"></td>
-<td width="10"><img src="../images/0.gif" width="10" height="1"></td>
-<td width="66"><a target="_new" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=2&amp;dn=ssl.staples.ca&amp;lang=en&amp;MSCSProfile=3C79F0C7EA3162B289A6F3317CC124D847B73E86DEC072729101F8261A8128C4FD0933221B092FA6925B9F1A212FA3D9716D6359A9019D79FF876BF5D80458D4D5524905461C22E8F4EC2CA8FBFE02C240DF3BC6DAE184FF7567F5DFE67E19154EE58E041D36D4E9417E05DE6B315358A58FB196D898902AEC3F6CEA0C0FF39A0F67278FC773FCB2"><img src="../images/verisign.gif " border="0"></a></td>
-<td width="10"><img src="../images/0.gif" width="10" height="1"></td>
+<tr>
+<td valign="top" width="752" colspan="4"><img src="../images/0.gif" width="752" height="10"></td>
 </tr>
 </tbody></table>
 </td>
+<td width="187" bgcolor="#CCCCCC" align="right" border="0" valign="bottom"><a href="../Static/static_pages.asp?pagename=easy"><img border="0" src="../images/easybutton-footer_eng.gif" alt="Now there's an easy button for your business. It's called Staples."></a></td>
+<td width="5" bgcolor="#CCCCCC" align="right" border="0"></td>
 </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center" bgcolor="#E5E5E5">
 <tbody><tr>
-<td height="12"><img src="../images/0.gif" width="1" height="12"></td>
+<td valign="top" width="960" height="30" bgcolor="#E5E5E5" colspan="3"><img src="../images/0.gif" width="950" height="30"></td>
+</tr>
+<tr>
+<td width="70" height="80"><img src="../images/0.gif" width="70" height="80"></td>
+<td width="650" height="80">
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody><tr>
+<td height="10" width="650" align="center" class="subfooter">This Web site is intended for use by Canadian residents only.<a class="subfooter" href="../Static/static_pages.asp?pagename=corp_online_world"> See International sites</a>.</td>
+</tr>
+<tr>
+<td height="9" width="650" align="center" class="subfooterend"><img src="../images/0.gif" width="650" height="9"></td>
+</tr>
+<tr>
+<td height="10" width="650" align="center" class="subfooterend">*<a class="subfooterend" href="../Static/static_pages.asp?pagename=help%5Fpolicy%5Fdelivery">See our delivery policy for full details</a>.</td>
+</tr>
+<tr>
+<td height="9" width="650" align="center" class="subfooterend"><img src="../images/0.gif" width="650" height="9"></td>
+</tr>
+<tr>
+<td height="10" width="650" align="center" class="subfooterend"><u>Copyright  © 2009</u> Staples. All Rights Reserved.</td>
+</tr>
+<tr>
+<td height="9" width="650" align="center" class="subfooterend"><img src="../images/0.gif" width="650" height="9"></td>
+</tr>
+<tr>
+<td height="10" width="650" align="center" class="subfooterend">Questions? Call 1-877-360-8500 or&nbsp;<a class="subfooter" href="../CSR/csr_contact_us_topics.asp">email us</a>.</td>
+</tr>
+</tbody></table>
+</td>
+<td width="240" height="80" align="left"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=2&amp;dn=ssl.staples.ca&amp;lang=en" target="_blank"><img border="0" src="../images/verisign.gif" width="100" height="72"></a></td>
 </tr>
 </tbody></table>
 
 		</td>
 	</tr>
-	
 </tbody></table>
+
 <!--  END fragmentID = wrapper  -->
 </form>
 <!-- BEGIN COREMETRICS SUPPORT -->
@@ -688,5 +680,6 @@ var cmJv="1.2";
 		</script>	
 	
 <!-- END COREMETRICS SUPPORT -->
+</div>
 
 </body></html>
