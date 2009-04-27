@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uni.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153601id_/http%3A//www.uni.edu/pres/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uni.edu privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427102138id_/http%3A//www.uni.edu/pres/policies/privacy.shtml) for the most accurate reproduction.*
 
 # UNI | Web Policy Statement
 
@@ -7,7 +7,7 @@ Commitment to Privacy
 
 The University of Northern Iowa (UNI) values individuals' privacy and actively seeks to preserve privacy rights of those who share information with us. Your trust is important to us and we believe you have the right to know how information submitted through the UNI Web site is handled. 
 
-The following information explains the Internet privacy practices the university has adopted for its [official Web sites](https://web.archive.org/help/siteDefs.html). In legal terms, however, it shall not be construed as a contractual promise and the university reserves the right to amend it at any time without notice. Privacy and public records obligations of the university are governed by applicable Iowa statutes, including, but not limited to Chapter 22 of the [Code of Iowa](http://www.legis.state.ia.us/IowaLaw.html), and by any applicable U.S. federal laws. The University of Northern Iowa respects the privacy of users visiting our Web sites and will abide by all applicable laws concerning the release of personal information (e.g., [Family Educational Rights and Privacy Act of 1974)](http://access.uni.edu/help/caution.htm). 
+The following information explains the Internet privacy practices the university has adopted for its [official Web sites](http://www.uni.edu/president/policies/958.shtml). In legal terms, however, it shall not be construed as a contractual promise and the university reserves the right to amend it at any time without notice. Privacy and public records obligations of the university are governed by applicable Iowa statutes, including, but not limited to Chapter 22 of the [Code of Iowa](http://www.legis.state.ia.us/IowaLaw.html), and by any applicable U.S. federal laws. The University of Northern Iowa respects the privacy of users visiting our Web sites and will abide by all applicable laws concerning the release of personal information (e.g., [Family Educational Rights and Privacy Act of 1974)](http://access.uni.edu/help/caution.htm).
 
 #### The Information We Collect
 
