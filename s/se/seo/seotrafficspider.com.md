@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219144731id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428001059id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Traffic Spider | Privacy Policy | Notice | Consent | Security
 
@@ -7,6 +7,13 @@
 |   
 ---  
 |  |   
+---  
+|   |   
+---|---  
+|   
+  |   
+   
+|   
 ---  
   
 The Internet today has become a remarkable and also an indispensable tool. It can change the way people live and one can experience that potential today. People can converse with each other, purchase products and services, watch news, and do many more things now with just a few clicks. Therefore, it is crucial for SEO Traffic Spider to retain its customers privacy when they make use of what the Internet has to offer.
