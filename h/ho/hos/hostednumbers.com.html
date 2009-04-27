@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hostednumbers.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218220338id_/http%3A//www.hostednumbers.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostednumbers.com privacy policy that was archived on 2009-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427190639id_/http%3A//www.hostednumbers.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy | HostedNumbers.com
@@ -11,6 +11,7 @@
 	<script type="text/javascript" src="/assets/js/jquery.js"></script>
 	<script type="text/javascript" src="/assets/js/jquery.history.js"></script>
 	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
+	<script type="text/javascript" src="/assets/js/AccountLoginPopup.js"></script>
 	<!--[if lt IE 7.]>
 	<script defer type="text/javascript" src="/assets/js/pngfix.js"></script>
 	<![endif]-->
@@ -26,15 +27,25 @@
     </script>
     
 <script type="text/javascript"></script></head>
-<body>
-    <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWBAIBDxYCHgRUZXh0BWEKICAgICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJWaWV3IHRoZSBQcml2YWN5IFBvbGljeSBmb3IgSG9zdGVkTnVtYmVycy5jb20gaGVyZS4iIC8+ZAICDxYCHwAFXgogICAgICAgPG1ldGEgbmFtZT0ia2V5d29yZHMiIGNvbnRlbnQ9InByaXZhY3kgcG9saWN5LCBpbmZvcm1hdGlvbiB1c2FnZSwgY29udGFjdCIgLz4KICAgICAgICBkAgMPZBYEAgIPZBYMZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWdkAgIPFgIfAWdkAgMPFgIfAWhkAgQPFgIfAWdkAgUPFgIfAWhkAgMPFgIfAGVkZCp6Ks+9jjYR9McNrztC1X0kkg17">
-
+<body lang="en">
     <div id="pageContainer"><a name="top"></a>
 	    <div id="headerContainer">
-		    <div id="logoContainer"><a href="/"><img src="/assets/images/logo.gif" width="215" height="73" alt="HostedNumbers.com" title="HostedNumbers.com"></a></div>
+		    <div id="logoContainer"><a href="/"><img src="/assets/images/logo.gif" width="227" height="73" alt="HostedNumbers.com" title="HostedNumbers.com"></a></div>
+		    <div id="loginContainer">
+				<div id="loginContainer2">
+					<div id="loginFormContainer">
+						<form name="loginForm" method="post" action="http://my.hostednumbers.com/" onsubmit="return checkAccountLogin();">
+							<fieldset>
+							    <input type="hidden" name="loggedInFrom" value="http://www.hostednumbers.com/">
+								<input type="text" name="username" id="accountLogin_username" value="" class="txtField" onkeypress="return onUpdateAccountLoginTextField(event, this);" onblur="onBlurAccountLoginTextField(this);" onclick="onClickAccountLoginTextField(this);" title="Username:"><input type="password" name="password" id="accountLogin_password" value="" class="txtField" onkeypress="return onUpdateAccountLoginTextField(event, this);" onblur="onBlurAccountLoginTextField(this);" onclick="onClickAccountLoginTextField(this);" title="Password:"><input type="image" src="/assets/images/accountLoginLoginBtn.gif" alt="Login" title="Login" align="absbottom"><br>
+								<div class="helpLinks"><a href="http://my.hostednumbers.com/ForgotPassword.asp">Forgot your password?</a>&nbsp;&nbsp;&nbsp;<a href="http://my.hostednumbers.com/signup.asp">Register Account</a></div>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+			</div>
 		    <div id="contactInfoNavContainer">
-			    <div id="contactInfoContainer"><span style="color: #fff;">Questions?</span>&nbsp;&nbsp;<span class="phone">1.800.300.9525</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://my.hostednumbers.com/">Account Login</a></div><br>
+			    <div id="contactInfoContainer"><a id="pageHeaderSubAccountLogin" href="http://my.hostednumbers.com/">Account Login</a><img src="/assets/images/headerContactInfo.gif" width="184" height="42" alt="1.800.300.9525 | 24x7 Friendly Customer Service" title="1.800.300.9525 | 24x7 Friendly Customer Service" id="headerContactInfo"></div><br>
 			    
                 <div id="navContainer">
 				    <ul>
@@ -52,7 +63,10 @@
 	        
 	            <div id="contentContainer">
                     <div id="contentContainerColumn1">
-	        
+	        <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm" style="margin: 0;padding: 0;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCGYPZBYEAgEPFgIeBFRleHQFYQogICAgICAgPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlZpZXcgdGhlIFByaXZhY3kgUG9saWN5IGZvciBIb3N0ZWROdW1iZXJzLmNvbSBoZXJlLiIgLz5kAgIPFgIfAAVeCiAgICAgICA8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJpdmFjeSBwb2xpY3ksIGluZm9ybWF0aW9uIHVzYWdlLCBjb250YWN0IiAvPgogICAgICAgIGQCAQ8WAh8ABVc8YSBpZD0icGFnZUhlYWRlclN1YkFjY291bnRMb2dpbiIgaHJlZj0iaHR0cDovL215Lmhvc3RlZG51bWJlcnMuY29tLyI+QWNjb3VudCBMb2dpbjwvYT5kAgQPZBYMZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWdkAgIPFgIfAWdkAgMPFgIfAWhkAgQPFgIfAWdkAgUPFgIfAWhkAgUPFgIfAGVkZBOFHFih1NirxTkYPpoDcr8brW39">
+
+            
     <h1>Privacy Policy</h1>
     <br>
     <div class="scrollingContent">
@@ -95,6 +109,7 @@
         </blockquote>
     </div>
 
+            </form>
             
 	                </div>
 	                <div id="contentContainerColumn2">
@@ -148,7 +163,6 @@
 	    </div>
 	    
     </div>
-    </form>
 
 
 </body></html>
