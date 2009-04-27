@@ -1,29 +1,11 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108034919id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427092949id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
 
-# Time Warner Cable : Lower your cost of living
+# Time Warner Cable | We Compare, You Save™
 
   | 
 
 BuyTimeWarnerCable.com provides consumers a fast and efficient channel for purchasing Time Warner cable, Internet and phone services online. BuyTimeWarnerCable.com is an authorized retailer of Time Warner technology and communications products and services. BuyTimeWarnerCable.com will continue to run periodic specials and promotions to make the ordering of Time Warner online an even more rewarding experience.
 
-BuyTime Warner.com can be contacted at: 
-
-|   
-****Phone:****  
----  
-|  1-866-875-4956 ****  
-Monday-Friday: 1pm - 9 p.m. EST  
-  
-****Mail:****  
-  
-| BuyTimeWarnerCable.com  
-3303 W. Commercial Blvd.  
-Fort Lauderdale, FL 33309  
-  
-**Email:**  
-  
-| [info@BuyTimeWarnerCable.com](mailto:info@BuyTimeWarnerCable.com)  
-  
 By visiting, using and submitting information to www.BuyTimeWarnerCable.com, you are accepting the practices described in this Privacy Policy. BuyTimeWarnerCable.com recognizes your right to know how your information is collected and shared, so BuyTimeWarnerCable.com created this Privacy Policy in order to demonstrate our firm commitment to disclose our current policies regarding your privacy and the use of your personally identifiable information. In addition, we take further measures to prevent unauthorized interception of your personally identifiable information, as outlined in this Privacy Policy. This Privacy Policy is for this website only and does not apply to the personal information provided to us for any other services our visitors choose to accept from related companies of BuyTimeWarnerCable.com.  
 **  
 (1) Security**  
@@ -68,3 +50,18 @@ The headings contained in this Privacy Policy are for convenience or reference o
 All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by BuyTimeWarnerCable.com from time to time, shall survive your opting out of this Privacy Policy and the termination of this Privacy Policy.
 
 This Privacy Policy represents the entire understanding and agreement between you and BuyTimeWarnerCable.com regarding the subject matter of this Privacy Policy, and supersedes all other previous agreements, understandings and/or representations regarding the same.
+
+BuyTime Warner.com can be contacted at: 
+
+| ****Phone:****  
+---  
+| **1-866-863-4856**  
+Monday-Friday: 8am - 1am EST   
+Saturday: 8am - Midnight EST   
+Sunday: 10am-9pm EST  
+****Mail:****  
+| BuyTimeWarnerCable.com  
+3303 W. Commercial Blvd.  
+Fort Lauderdale, FL 33309  
+**Email:**  
+| [info@BuyTimeWarnerCable.com](mailto:info@BuyTimeWarnerCable.com)
