@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227130822id_/http%3A//www.dclm.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclm.org privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427091533id_/http%3A//www.dclm.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Deeper Christian Life Ministry > Home
 
