@@ -1,68 +1,47 @@
-> *The following text is extracted and transformed from the zalaa.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201100920id_/http%3A//www.zalaa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalaa.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427092722id_/http%3A//www.zalaa.com/privacy) for the most accurate reproduction.*
 
 # Zalaa! Divx Video Sharing
 
-Privacy Policy
+Megavideo Limited recognizes that its customers, visitors, users, and others who use Megavideo value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Megavideo site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
-This Zalaa Privacy Policy, in conjunction with the Accceptable Usage Policy (herby called AUP), Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Zalaa website and are collectively referred to as the "Agreement".
+Please note that any video, image, or other content posted at the direction of users onto the Megavideo site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 
-By using our site and/or services you herby agree to this agreement and disclaim Zalaa , it's owners and operators from any responsibility for any usage made by you in our web site and/or services  
+The Information Megavideo Limited Collects
 
+ **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Megavideo when choosing to participate in various activities on the sites such as uploading videos or posting messages.
 
-Zalaa may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.  
-
-
-Any Content uploaded by you to Zalaa becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.
-
-This is the web site of **Zalaa.com**.  
+  * **Cookies Information:** When you visit the Megavideo site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Megavideo uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Megavideo site may not function properly if the ability to accept cookies is disabled.
+  * **Log File Information:** When you use the Megavideo site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
 
-We can be reached via e-mail at [webmaster[at]Zalaa.com](mailto:webmaster\[at\]Zalaa.com)
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+The Way Megavideo Retains Information
 
-We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+  * To preserve the integrity of website databases, Megavideo's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Megavideo, you are consenting to store that information indefinitely.
 
-Zalaa reserve the right to transfer or assign the information we have collected from you as part of any change of control.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences.
+The Way Megavideo Limited Uses Information
 
-If you do not want to receive e-mail from us in the future, please let us know by or Updating your profile to inidicate that..
+  * If you submit personally identifiable information to us through the Megavideo website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Megavideo site, and other users can contact you through messages and comments. Any videos that you submit to the Megavideo site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above or Updating your profile to inidicate that..
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above or Updating your profile to inidicate that..
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+When Megavideo Discloses Information
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+  * Megavideo Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Megavideo Limited, our users or others.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/adsense  
-http://www.adbrite.com
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+In the Event of Merger, Sale, or Bankruptcy
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+In the event that Megavideo Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-If you are not a resident of the United States, you understand and agree that Zalaa stores and processes your information on computers located in the United States, any by providing any data to Zalaa, you consent to the transfer of such information to the United States if and when asked or needed.
+Changes and updates to this Privacy Notice
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address.
-
-Consumers can have this information corrected by sending us e-mail at the above address or Updating their user profile..
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of Zalaa, it's owners or operators, or visitors of Zalaa; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities.
-
-You herby agree and declare that you are solely responsible for keeping the secrecy of your password.
-
-Although we strive to protect your personal information, Zalaa cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Megavideo site constitutes your agreement to this privacy notice and any future revisions.
