@@ -1,26 +1,7 @@
-<!--The following is the downloaded HTML source of the meatmyass.com privacy policy that was archived on 2008-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226103138id_/http%3A//www.meatmyass.com/MCE/mma/0/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meatmyass.com privacy policy that was archived on 2009-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090428012301id_/http%3A//www.meatmyass.com/MCE/mma/0/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- 
-	Configuration Data
-	XML Ready
-	<xml>
-		<conf>
-			<console>
-				<load>pages,exits</load>
-			</console>
-			<set t="request1"></set>
-			<title>Privacy Policy</title>
-		</conf>
-		
-		<display>header
-			<panel>
-				new_header.html
-			</panel>
-		</display>
-		
-	</xml>
---><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MeatMyAss.com :: Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="expires" content="0">
@@ -36,11 +17,11 @@
 <meta name="Classification" content="">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <link href="/themes/templates/styles/globalStyle.css" rel="stylesheet" type="text/css">
-<link href="/themes/mma/styles/specificStyle.css" rel="stylesheet" type="text/css">
 <link href="/themes/templates/styles/newTourStyle.css" rel="stylesheet" type="text/css">
 <link href="/themes/templates/styles/newHeaderStyle.css" rel="stylesheet" type="text/css">
 <link href="/themes/templates/styles/headerNavigation.css" rel="stylesheet" type="text/css">
 <link href="/themes/templates/styles/newAuxStyles.css" rel="stylesheet" type="text/css">
+<link href="/themes/mma/styles/specificStyle.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/liveAction.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/javas.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/counter.js"></script>
@@ -48,35 +29,42 @@
 <script type="text/javascript">
 		var ImgArray = new Array ('/themes/templates/images/public_header_01.gif', '/themes/templates/images/header_top.gif', '/themes/templates/images/header_base.gif', '/themes/templates/images/scene_panel_top.gif');
 		var exit=true;
-		var counter_end=68;
-		var counter_color='#cc0000';
-		var counter_size='62px';
-		var counter_face="Impact";
+		var counter_end=77;
+		var counter_color='#fff';
+		var counter_size='32px';
+		var counter_face="Arial";
 		var counter_speed=0;
-		var counter_increment = 10;
+		var counter_increment = 1;
 	</script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/swfobject.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/swfobject2.js"></script>
 <script type="text/javascript">
-			var flashvars = {
-								height: '275',
-								width: '690', 
-								wmode: "transparent"
-							};							
-			
-			var params = {
-								wmode: "transparent",
-								base: "/themes/mma/flash/new/"
-						 };
-			
-			
-			var attributes = {
-								id: "flashSSHeader",
-								name: "flashSSHeader"
-							 };
-			
-			swfobject.embedSWF("/themes/templates/flash/slideshow_new.swf", "flashSSHeader", "690", "275", "9.0.0","/expressInstall.swf", flashvars, params, attributes);			
-		
+	var color1 = '0x9d9a9a';
+	var color2 = '0xccdefd';
+	var color3 = '0x509aef';
+	var flashvars = {
+						file: '/themes/templates/trailers/MXP_MMA_Trailer.flv',
+						image: '/themes/mma/images/trailer_thumb.jpg',
+						height: '182',
+						width: '234',
+						overstretch: 'true',
+						backcolor: color1,
+						frontcolor: color2,
+						lightcolor: color3
+					};							
+	
+	var params = {
+						allowscriptaccess: "always",
+						allowfullscreen: "true"
+				 };
+	
+	
+	var attributes = {
+						id: "headerFlashPlayer",
+						name: "headerFlashPlayer"
+					 };
+	
+	swfobject.embedSWF("/mediaplayer.swf", "headerFlashPlayer", "234", "182", "9.0.0","/expressInstall.swf", flashvars, params, attributes);			
 </script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/prototype.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/scriptaculous.js"></script>
@@ -151,6 +139,14 @@ document.observe('dom:loaded', function()
 	background-color: #cc0000;
 }
 </style>
+<script src="/themes/templates/js/ajaxticker.js" type="text/javascript">
+/***********************************************
+* Ajax Ticker script (txt file source)- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
 </head>
 <body onload="countdown(); HH_preloadImages(ImgArray);">
 <div id="container">
@@ -162,14 +158,27 @@ document.observe('dom:loaded', function()
 		<div id="headerImage">
 			<div id="flashSSHeader"></div>
 		</div>
-		<div id="headerAd"><a href="http://www.blazingbucks.com/wm/signup/signup.php?site=13"><img src="/themes/mma/images/ad_header.gif" alt="Special Offer" title="Special Offer"></a></div>
+		<div id="headerFlashPlayerHolder">
+			<div id="topBoxGeneric">
+				<script type="text/javascript">
+				var xmlfile="/themes/templates/js/headerquotes.txt" //path to ticker txt file on your server.
+				//ajax_ticker(xmlfile, divId, divClass, delay, optionalfadeornot)
+				new ajax_ticker(xmlfile, "ajaxticker1", "someclass", 4500, "fade")
+				</script>
+			</div>
+			<div id="headerFlashPlayerBox">
+				<div id="headerFlashPlayer"></div>
+			</div>
+			<div id="playerBottom">Part Of MyXXXPass.com</div>
+			<div id="headerPlayerJoinLink2"><a href="http://www.blazingbucks.com/wm/signup/signup.php?site=13"><span>See More</span></a></div>
+		</div>
 		<div class="clear"></div>
 	</div>
 	<!-- begin nav -->
 	<div id="headerNavBox">
 		<ul id="mainHeaderNav" class="MenuBarHorizontal">
 			<li class="top"><a class="MenuBarItemSubmenu" href="/MCE/mma/0/sites"><img src="/themes/templates/images/nav_sites.jpg" alt="All Sites" title="All Sites"></a>
-				 <ul>
+				<ul>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_1KF_Trailer.flv/53">1000Facials.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_ILMC_Trailer.flv/201">ILoveMonsterCocks.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_1IR_Trailer.flv/231">1stInterracial.com</a></li>
@@ -177,13 +186,13 @@ document.observe('dom:loaded', function()
 					<li><a href="/MCE/mma/0/site_trailer/MXP_LYT_Trailer.flv/55">LoveYourTits.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_MMA_Trailer.flv/70">MeatMyAss.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_OTB_Trailer.flv/56">OnlyTeenBlowjobs.com</a></li>
-					<!-- <li><a href="http://myxxxpass.com/hit/22/2/103227/0/">MyXXXPass.com</a></li> -->
+					<!-- <li><a href="http://myxxxpass.com/hit/22///0/">MyXXXPass.com</a></li> -->
 					<li><a href="/MCE/mma/0/site_trailer/MXP_SMC_Trailer.flv/21">ShareMyCock.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_SMS_Trailer.flv/184">SoccerMomScore.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_STP_Trailer.flv/122">StuffedPetite.com</a></li>
 					<li><a href="/MCE/mma/0/site_trailer/MXP_THR_Trailer.flv/54">Throated.com</a></li>
-					<li><a href="/MCE/mma/0/site_trailer/MXP_XPT_Trailer.flv/152">XXXPillowTalk.com</a></li>	
-				</ul> 
+					<li><a href="/MCE/mma/0/site_trailer/MXP_XPT_Trailer.flv/152">XXXPillowTalk.com</a></li>
+				</ul>
 			</li>
 			<li class="top"><a href="/MCE/mma/0/site_scenes/[1-20]"><img src="/themes/templates/images/nav_scenes.jpg" alt="All MeatMyAss.com Scenes" title="All MeatMyAss.com Scenes"></a>
 				<ul>
@@ -222,10 +231,10 @@ document.observe('dom:loaded', function()
 					<li><a href="/MCE/mma/0/site_updates/122">StuffedPetite.com</a></li>
 					<li><a href="/MCE/mma/0/site_updates/54">Throated.com</a></li>
 					<li><a href="/MCE/mma/0/site_updates/152">XXXPillowTalk.com</a></li>
-					<li><a href="/MCE/mma/0/updates/[1-20]">Entire Network</a></li> 	
+					<li><a href="/MCE/mma/0/updates/[1-20]">Entire Network</a></li>
 				</ul>
 			</li>
-			<li class="top"><a class="MenuBarItemSubmenu" href="/MCE/mma/0/pornstars/[1-60]"><img src="/themes/templates/images/nav_pornstars.jpg" alt="All Pornstars" title="All Pornstars"></a></li>
+			<li class="top"><a class="MenuBarItemSubmenu" href="/MCE/mma/0/pornstars"><img src="/themes/templates/images/nav_pornstars.jpg" alt="All Pornstars" title="All Pornstars"></a></li>
 			<li class="top"><a href="http://members.meatmyass.com"><img src="/themes/templates/images/nav_members.jpg" alt="Member Login" title="Member Login"></a></li>
 			<li class="top"><a href="http://www.blazingbucks.com/wm/signup/signup.php?site=13"><img src="/themes/templates/images/nav_join.jpg" alt="Join Now!" title="Join Now!"></a></li>
 		</ul>
@@ -234,15 +243,17 @@ document.observe('dom:loaded', function()
 				<ul>
 					<li id="home"><a href="/MCE/mma/0/home">Home</a></li>
 					<!-- <li>Wallpapers</li> -->
-					<li><a href="#" onclick="javascript:history.go(-1);return false;">Back</a></li> 
+					<li><a href="#" onclick="javascript:history.go(-1);return false;">Back</a></li>
 					<li><a href="javascript:void(favoris('MeatMyAss.com','http://www.meatmyass.com/MCE/mma/0/home'));">Bookmark</a></li>
 				</ul>
 			</div>
 			<div id="searchBox">
 				<form id="search" action="">
-					 <label>Model Search:&nbsp;</label> <input name="Search" id="searchText" type="text">
-					 <div class="auto_complete" id="model_name_auto_complete"></div>
-					 <input name="Search" type="submit" id="searchSubmit" value="Search"><br>
+					<label>Model Search:&nbsp;</label>
+					<input name="Search" id="searchText" type="text">
+					<div class="auto_complete" id="model_name_auto_complete"></div>
+					<input name="Search" type="submit" id="searchSubmit" value="Search">
+					<br>
 				</form>
 				<div class="clear"></div>
 			</div>
@@ -281,6 +292,7 @@ document.observe('dom:loaded', function()
 	All models on this site were at least 18 years of age at the time of filming.<br>
 	All rights reserved MeatMyAss.com © 2006, 2007, 2008.
 	<br><br>
+	<div id="billingNotice">MeatMyAss.com is a site owned by Chargepay B.V.</div>
 	<div class="mcefooter">Powered by <a href="http://www.mycontentengine.com" target="_blank" onclick="exit=false">MyContentEngine.com</a>© 2004-2008</div>
 </div> </div>
 <script type="text/javascript">
