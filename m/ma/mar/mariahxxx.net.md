@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218032639id_/http%3A//mariahxxx.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427090239id_/http%3A//mariahmilano.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Privacy Policy Statement
 
-This website (the "Site") is owned by:    **Zmac1 Inc**
-
-6451 thirds st suite a  
-  
+This website (the "Site") is owned by:    **M3X Media Inc**  
 ---  
-Rockledge, FL 32955  
-(support@camz.com)  
   
-We can be reached via e-mail at support@camz.com
+2452 US Highway 19  
+  
+Tarpon Springs, FL 688  
+webmaster@mariahxxx.net  
+  
+We can be reached via e-mail at webmaster@mariahxxx.net 
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -62,4 +62,4 @@ Each subscriber should carefully read each of the terms and conditions of Member
 
 In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
 
-email us for any further information regarding any legal aspect of this document at support@camz.com
+email us for any further information regarding any legal aspect of this document at webmaster@mariahxxx.net
