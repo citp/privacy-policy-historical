@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161419id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427235323id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Zoopla! Privacy Policy
+# Zoopla! Privacy policy
 
 ## Our commitment to you
 
@@ -31,7 +31,7 @@ If you prefer not to receive emails about our Services, you may opt out of such 
 
 ## Third parties
 
-We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.
+We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.
 
 ## Safety and security
 
@@ -43,4 +43,4 @@ We reserve the right to change this privacy policy at any time without prior not
 
 If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-This policy was last updated on 27th November, 2007
+This policy was last updated on 19th February, 2009
