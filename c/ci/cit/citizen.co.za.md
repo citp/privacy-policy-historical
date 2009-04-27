@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizen.co.za privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008070229id_/http%3A//www.citizen.co.za/index/Home/About%2520Us/Privacy%2520policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.co.za privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427191344id_/http%3A//www.citizen.co.za/index/section.aspx%3FpDesc%3D51300%2C1%2C33) for the most accurate reproduction.*
 
-# The Citizen Privacy policy
+# The Citizen: Privacy Policy
 
 The short version...
 
