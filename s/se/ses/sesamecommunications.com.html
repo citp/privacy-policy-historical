@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sesamecommunications.com privacy policy that was archived on 2008-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080914035952id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sesamecommunications.com privacy policy that was archived on 2009-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427194147id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Sesame Communications™ | Online Patient Communications Appointment Reminder Services | Privacy Policy</title>
@@ -29,7 +29,7 @@
 <div id="container">
 <div id="slider" style="display: none">
 <div class="content">
-<a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true" title="Close Demo"><img src="images/buttons/close_yellow.gif" alt="Close" style="position: absolute; right: 10px; top: 15px; z-index: 100"></a>
+<a href="demorequest.php" title="Close Demo"><img src="images/buttons/close_green.gif" alt="Close" style="position: absolute; right: 10px; top: 15px; z-index: 100"></a>
 <h1 style="background-image: url(images/headings/request_a_sesame_demo.gif)" title="Request a Sesame Demo">Request a Sesame Demo</h1>
 <div class="divider"></div>
 <p>Fill out and submit this form to request a demo of Sesame™ or <a href="tothepoint/sesamedesign/" title="To the Point > Sesame Design™">Sesame Design™</a>. Or, join us now for an online demo: call 877-633-5193.</p>
@@ -131,11 +131,13 @@
 <h3><label for="pms_demo">Verification Code</label></h3>
 <img src="forms/randomimg.php" alt="" style="float: right; margin: -10px 0 0 10px">
 <input id="txtNumber_demo" name="txtNumber_demo" style="width: 90px" type="text">
-<input alt="Submit demo request" id="demo_submit" name="demo_submit" src="images/buttons/submit_demo_request.gif" style="margin-top: 10px" title="Submit Demo Request" type="image" value="Submit">
+<!-- <input type="hidden" name="_submit_check" value="1"/>-->
+<!--<input alt="Submit demo request" name="demo_submit_main" src="images/buttons/submit_demo_request.gif" style="margin-top: 10px" title="Submit Demo Request" type="image" value="Submit" />-->
+<button type="submit" id="demo_submit_main" name="demo_submit_main" class="demo-submit">Submit Demo Request</button>
 </div><!-- END COL3 -->
 </div><!-- END CONTENT -->
 </form>
-<p class="italic" style="float: left">If you are a <strong>patient</strong> needing assistance with Sesame, please 
+<p class="italic" style="float: left; clear: left;">If you are a <strong>patient</strong> needing assistance with Sesame, please 
 <script type="text/javascript">
 <!--
 var name = "patientloginsupport";
@@ -145,19 +147,20 @@ document.write();
 // -->
 </script><a href="mailto:patientloginsupport@sesamecommunications.com" title="Email">email us</a>.
 <br>
-<a href="consultantdemo.php">Click here if you are a <strong>consultant</strong> requesting a demo for a client.</a></p>
+<a href="consultant_demo.php">Click here if you are a <strong>consultant</strong> requesting a demo for a client.</a></p>
 </div><!-- END DEMO_FORM -->
 </div><!-- END CONTENT -->
 </div><!-- END SLIDER --><div id="header">
 <div id="header_right">
 <p><a href="/behindthescenes/contact.php" title="Contact Us">Contact Us</a></p>
 </div>
-<a href="#" onclick="Effect.toggle('slider','slide'); return false" style="float: right; margin-right: 10px; outline: none" title="Request a Demo from this page"><img src="images/nav/demo_request.gif" alt="Request a Sesame Demo right from this page"></a>
+<a href="demorequest.php" style="float: right; margin-right: 10px; outline: none" title="Request a Demo from this page"><img src="images/nav/demo_request.gif" alt="Request a Sesame Demo right from this page"></a>
 <a href="/" title="Sesame Communications™"><img src="images/logos/sesame.gif" alt="Sesame Communications | Online Patient Communications Appointment Reminder Services"></a>
 </div><!-- END HEADER --><div id="main_nav">
 <ul id="nav" class="nav">
 <li id="nav_solutions"><a href="getinspired/" title="Get Inspired : Solutions"><b>Get Inspired : Solutions</b>&nbsp;</a>
 	<ul>
+	<li><a href="/getinspired/sesame-video.php">View Sesame Video</a></li>
 	<li><a href="getinspired/productivity/" class="expand">Maximize Productivity</a>
 		<ul>
 		<li><a href="/getinspired/productivity/patients.php">Make Patients Happy</a></li>
@@ -191,6 +194,12 @@ document.write();
 		<li><a href="/getinspired/newgrads/website.php">Get a Starter Web Site</a></li>
 		</ul>
 	</li><!-- END FOR NEW GRAD -->
+	<li><a href="/getinspired/consultants/">For Consultants</a>
+		<!--<ul>
+		<li><a href="/getinspired/newgrads/resume.php">Post a Virtual Resume</a></li>
+		<li><a href="/getinspired/newgrads/website.php">Get a Starter Web Site</a></li>
+		</ul>-->
+	</li><!-- END FOR CONSULTANTS -->
 	<li><a href="/getinspired/buyer.php">Educated Buyer Guide</a></li>
 	</ul>
 </li><!-- END SOLUTIONS -->
@@ -203,7 +212,7 @@ document.write();
 		<li><a href="/tothepoint/orthosesame/collaboration.php">Case Collaboration</a></li>
 		<li><a href="/tothepoint/orthosesame/reminders.php">Phone Reminders</a></li>
 		<li><a href="/nutsbolts/">Support</a></li>
-		<li><a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true">Demo</a></li>
+		<li><a href="demorequest.php">Demo</a></li>
 		</ul>
 	</li><!-- END ORTHO SESAME -->
 	<li><a href="tothepoint/dentalsesame/" class="expand">Dental Sesame™</a>
@@ -213,13 +222,14 @@ document.write();
 		<li><a href="/tothepoint/dentalsesame/collaboration.php">Case Collaboration</a></li>
 		<li><a href="/tothepoint/dentalsesame/reminders.php">Phone Reminders</a></li>
 		<li><a href="/nutsbolts/">Support</a></li>
-		<li><a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true">Demo</a></li>
+		<li><a href="demorequest.php">Demo</a></li>
 		</ul>
 	</li><!-- END DENTAL SESAME -->
 	<li><a href="/tothepoint/sesamedesign/" class="expand">Sesame Design™</a>
 		<ul>
 		<li><a href="/tothepoint/sesamedesign/orthogallery.php">Ortho Web Design Gallery</a></li>
 		<li><a href="/tothepoint/sesamedesign/dentalgallery.php">Dental Web Design Gallery</a></li>
+		<li><a href="/tothepoint/sesamedesign/par.php">Patient Appeal Rating™</a></li>
 		<li><a href="/tothepoint/sesamedesign/search/" class="expand">Search Marketing</a>
 			<ul>
 			<li><a href="/tothepoint/sesamedesign/search/elite.php">Sesame Elite Search</a></li>
@@ -268,7 +278,7 @@ document.write();
 </li><!-- END SUPPORT -->
 <li id="nav_about"><a href="/behindthescenes/" title="Behind the Scenes : About Sesame"><b>Behind the Scenes : About Sesame</b>&nbsp;</a>
 	<ul>
-	<li><a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true">Demos</a></li>
+	<li><a href="demorequest.php">Demos</a></li>
     <li><a href="/behindthescenes/executiveleadership.php">Executive Leadership</a></li>
 	<li><a href="/behindthescenes/newsletter.php">Newsletter Signup</a></li>
 	<li><a href="/behindthescenes/suggestions.php">Suggestion Box</a></li>
@@ -291,7 +301,7 @@ Privacy Policy</p><!-- END BREADCRUMB -->
 <div class="divider gray_dark headings"></div>
 <div class="box">
 <div class="blue_dark">
-<p><a href="/privacy.php#" onclick="Effect.toggle('slider','slide'); return true" title="Request a Demo from this page"><img src="images/buttons/request_a_sesame_demo.png" alt="Request a Sesame demo"></a></p>
+<p><a href="demorequest.php" title="Request a Demo from this page"><img src="images/buttons/request_a_sesame_demo.png" alt="Request a Sesame demo"></a></p>
 <p>or contact us at 877-633-5193,</p>
 <p><script type="text/javascript">
 <!--
@@ -371,7 +381,7 @@ document.write();
 <div id="footer">
 <div class="divider gray_dark"></div>
 <div style="float: right; padding-bottom: 20px; text-align: right">
-<p>© 2008 Sesame Communications. All rights reserved.</p>
+<p>© 2009 Sesame Communications. All rights reserved.</p>
 <img src="images/logos/aaof_sponsor.gif" alt="AAOF Sponsor" title="American Association of Orthodontists Foundation Sponsor">
 </div><!-- END FOOTER_RIGHT -->
 <p><a href="/behindthescenes/contact.php" class="strong" title="Contact Us">Contact Us</a>&nbsp;|
@@ -438,7 +448,7 @@ function wtl_Tag5_152859()
 
 wtl_Tag5_152859();
 //-->
-</script><img id="WTL_152859" width="1" height="1" src="https://statse.webtrendslive.com/S152859/button5.asp?tagver=5&amp;si=152859&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=16&amp;cl=K21GNU7&amp;ti=Sesame%20Communications%u2122%20%7C%20Online%20Patient%20Communications%20Appointment%20Reminder%20Services%20%7C%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20080914035952id_/http%253A//sesamecommunications.com/privacy.php&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_152859" width="1" height="1" src="https://statse.webtrendslive.com/S152859/button5.asp?tagver=5&amp;si=152859&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=16&amp;cl=K21GNY7&amp;ti=Sesame%20Communications%u2122%20%7C%20Online%20Patient%20Communications%20Appointment%20Reminder%20Services%20%7C%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20090427194147id_/http%253A//sesamecommunications.com/privacy.php&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 
 <!-- Google Analtyics -->
 <script type="text/javascript">
@@ -446,8 +456,8 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3321532-5");
-pageTracker._initData();
+try {
+var pageTracker = _gat._getTracker("UA-5377419-4");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 </body></html>
