@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoneinfinitemarket.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215027id_/http%3A//www.myoneinfinitemarket.com/im/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoneinfinitemarket.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427163746id_/http%3A//www.myoneinfinitemarket.com/im/privacy.cfm) for the most accurate reproduction.*
 
 # infinite marketplace - How to Sell!
 
