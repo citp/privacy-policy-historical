@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529000100id_/http%3A//s1.zetaboards.com/zb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427200725id_/http%3A//s1.zetaboards.com/zb/privacy) for the most accurate reproduction.*
 
 # ZetaBoards » Our service's privacy policy
 
@@ -28,13 +28,15 @@ No user that is under 13 may register a board. To register on a board, anyone un
 
 ### Third Party Advertising:
 
-ZetaBoards uses third party advertising companies to serve ads when you visit our web site. These third party advertising companies may collect and use information about your visits to ZetaBoards as well as other web sites. If you would like more information please visit the following link: [ [Google](http://www.google.com/privacy.html) ]
+ZetaBoards uses third party advertising companies to serve ads when you visit our web site. These third party advertising companies may collect and use information about your visits to ZetaBoards as well as other web sites. If you would like more information please visit the following link: [ [Google](http://www.google.com/privacy_ads.html) ]
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 Note: By signing up with ZetaBoards, you agree to the terms of the following advertisers listed above in addition to the terms of ZetaBoards' privacy policy.
 
 ### Modifications to our Policy:
 
-ZetaBoards may update and revise this privacy policy. We will inform users of any changes. 
+ZetaBoards may update and revise this privacy policy. We will inform users of any material changes. 
 
 ### Parental Controls:
 
