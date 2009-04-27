@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201013557id_/http%3A//www.ibisworld.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427201624id_/http%3A//www.ibisworld.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # IBISWorld
 
