@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211141151id_/http%3A//www.tatasky.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428001436id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tata Sky Satellite Television – PRIVACY POLICY
 
@@ -12,41 +12,44 @@ This Site is not intended for persons under 13 years of age. We do not knowingly
 
 “You” shall mean You, the User of the Site and “Yourself” interpreted accordingly. “We” / “Us” means Tata Sky Ltd and “Our” interpreted accordingly . “Users” means the Users of the Site collectively and/or individually as the context allows. 
 
-****Data Collection**** **  
-**  
+## Data collection
+
+  
 When using the Site You may be asked to enter User Information. Such User Information will only be Used for the purposes for which it was collected, for any other purposes specified at the collection point and in accordance with this Privacy Policy.
 
-****How We may use Your data**  
-**  
+## How We may use Your data
+
+  
 By entering Your User Information, You accept that We may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
 
-We shall be entitled to Use Your User Information for the following purposes:
+We shall be entitled to Use Your User Information for the following purposes: 
 
   * Market research, including statistical analysis of User behaviour which We may disclose to third parties in depersonalised, aggregated form.
   * In order to enable Us to comply with any requirements imposed on Us by law.
   * In order to send You periodic communications (this may include e-mail), about features, products and services, events and special offers. Such communications from Us may include advertising for third party companies or organisations. 
   * For Your convenience You can withdraw consent by replying to the "unsubscribe" link in e-mails from Us.
 
-
-
 Please also note that We do not disclose Your personal information to third parties to enable them to send You direct marketing without Your permission to do so.
 
-****Cookies**  
-**  
+## Cookies
+
+  
 You should be aware that information and data may be automatically collected through the Use of Cookies. "Cookies" are small text files that store basic information that a Web site can use to recognise repeat site visits and as an example, recall Your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.
 
 Cookies do not attach to Your system and damage Your files. If You do not want information collected through the Use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that "personalised" services may be affected if the cookie option is disabled.
 
 If You wish to disable the setting of cookies in Your browser, please click here for instructions.
 
-****Security and Data Retention**  
-**  
+## Security and cata retention
+
+  
 Security is very important to Us. All security procedures are in place to protect the confidentiality, integrity and availability of Your User information. We maintain strict physical, electronic, and administrative safeguards to protect Your personal information from unauthorized or inappropriate access. We restrict access to information about You to those of Our employees who need to know the information to respond to Your inquiry or request. Employees who misuse personal information are subject to disciplinary action
 
 We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to Us. 
 
-**Updates**
+## Updates
 
+  
 We may change this privacy policy from time to time and You should check these regularly. Your use of the Tata Sky Site will be deemed an acceptance of the privacy policy existing at that time.
 
 Any site that You may connect to from here is not covered by this Privacy Policy. 
