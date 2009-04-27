@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - HotCopper - Australian Stock Market (ASX) Forum
 
@@ -8,13 +8,13 @@ Username: |
 Password: |   
 Remember: |   
   
-[Retrieve Password](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forgotpassword.asp)  
-[Support Page](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/support.asp)  
+[Retrieve Password](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forgotpassword.asp)  
+[Support Page](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/support.asp)  
   
 Join HotCopper Today  
 ---  
   
-With over 80,000 active members and more than 4,000 posts per day HotCopper is Australia's largest independent stock market discussion forum. Membership is free so [Join Now](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp).
+With over 80,000 active members and more than 4,000 posts per day HotCopper is Australia's largest independent stock market discussion forum. Membership is free so [Join Now](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp).
 
   * Access to over 4 million posts on the HotCopper Forum
   * Ability to post messages
@@ -25,25 +25,29 @@ With over 80,000 active members and more than 4,000 posts per day HotCopper is A
   * More views and personalised view options
   * Single agreement to Terms of Use (instead of on each post)
 
-[Join Now](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp)
+[Join Now](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp)
 
 
   
+[**Competitions:** Enter & Win!](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/competition_home.asp "Refer a friend to HotCopper and win!")  
+---  
 Daily Notices  
 ---  
-**MORE ASX Announcement Improvements**
+**New Functionality**
 
-We have added some new features for ASX announcement display. You can now choose how you see announcements separately for your favourite stocks and other stocks. Announcements are also fully searchable.
+We have launched some new feature on our beta site at [beta.hotcopper.com.au](http://beta.hotcopper.com.au/).
 
-See [this post](https://web.archive.org/post_threadview.asp?fid=6&tid=800577#14788) for more details and discussion.   
+The new features are Voice Alerts and Post Rating.
+
+For more information - see this [feedback post](https://web.archive.org/post_single.asp?fid=6&tid=881129&msgid=4892392)  
   
 Today's Statistics  
 ---  
-**Logins:**  4730   
-**Posts:**  774   
+**Logins:**  1980   
+**Posts:**  144   
 **Most Discussed Stocks:**  
-[OZL](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22OZL%22 "OZ MINERALS LIMITED - Click here for OZL posts."), [SDL](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22SDL%22 "SUNDANCE RESOURCES LIMITED - Click here for SDL posts."), [GOLD](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22GOLD%22 "Gold Metal Au 79 - Click here for GOLD posts."), [OILGAS](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22OILGAS%22 "Oil and Gas - Click here for OILGAS posts."), [CER](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22CER%22 "CENTRO RETAIL GROUP - Click here for CER posts."), [XJO](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22XJO%22 "S & P ASX 200 Index - Click here for XJO posts."), [BHP](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22BHP%22 "BHP BILLITON LIMITED - Click here for BHP posts."), [ARH](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22ARH%22 "AUSTRALASIAN RESOURCES LIMITED - Click here for ARH posts."), [OEL](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22OEL%22 "OTTO ENERGY LIMITED - Click here for OEL posts."), [DJIA](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22DJIA%22 "DOW JONES - Click here for DJIA posts."), [JRV](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22JRV%22 "JERVOIS MINING LIMITED - Click here for JRV posts."), [SBN](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22SBN%22 "SUN BIOMEDICAL LIMITED - Click here for SBN posts."), [UMC](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22UMC%22 "UNITED MINERALS CORPORATION NL - Click here for UMC posts."), [IPL](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22IPL%22 "INCITEC PIVOT LIMITED - Click here for IPL posts."), [AGO](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22AGO%22 "ATLAS IRON LIMITED - Click here for AGO posts."), [CDU](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/search_do.asp?ASXSymbol=%22CDU%22 "CUDECO LIMITED - Click here for CDU posts.").   
-[**More Statistics**](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/daily_statistics.asp)  
+[BTA](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=436 "BIOTA HOLDINGS LIMITED - Click here for BTA posts."), [XJO](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=2531 "S & P ASX 200 INDEX - Click here for XJO posts."), [PRR](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1886 "PRIMA BIOMED LTD - Click here for PRR posts."), [GDY](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=977 "GEODYNAMICS LIMITED - Click here for GDY posts."), [GOLD](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1034 "GOLD METAL AU 79 - Click here for GOLD posts."), [MAE](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1418 "MARION ENERGY LIMITED - Click here for MAE posts."), [PDN](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1800 "PALADIN ENERGY LTD - Click here for PDN posts."), [BBP](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=318 "BABCOCK & BROWN POWER - Click here for BBP posts."), [AGS](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=92 "ALLIANCE RESOURCES LIMITED - Click here for AGS posts."), [DJIA](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=734 "DOW JONES - Click here for DJIA posts."), [GDN](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=975 "GOLDEN STATE RESOURCES LIMITED - Click here for GDN posts."), [GPN](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1040 "GREATER PACIFIC GOLD LIMITED - Click here for GPN posts."), [MAH](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1421 "MACMAHON HOLDINGS LIMITED - Click here for MAH posts."), [PEN](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1808 "PENINSULA MINERALS LIMITED - Click here for PEN posts."), [SLR](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=2160 "SILVER LAKE RESOURCES LIMITED - Click here for SLR posts."), [UNI](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=2394 "UNILIFE MEDICAL SOLUTIONS LIMITED - Click here for UNI posts.").   
+[**More Statistics**](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/daily_statistics.asp)  
   
 Your Responsibilities   
 ---  
@@ -54,7 +58,7 @@ Make sure you understand [ASIC Regulatory Guide 162](http://www.asic.gov.au/asic
 
 Make sure you read the warnings on each post.
 
-Read our [Terms of Use](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) and [Code of Conduct](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp).  
+Read our [Terms of Use](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) and [Code of Conduct](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp).  
   
 |  |  | 
 
@@ -125,7 +129,7 @@ Hotcopper may update this policy. We will notify you about significant changes i
   
 
 
-[](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) | [](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) | [](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp) | [](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/postingguidelines/) | [](http://www.fido.gov.au/) | [](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/support.asp) | [](https://web.archive.org/web/20081220045818id_/http%3A//www.hotcopper.com.au/site_advertise.asp)  
-Copyright © 2000 - 2008 HotCopper All Rights Reserved.
+[](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/aboutus.asp) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/postingguidelines/) | [](http://www.fido.gov.au/) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/support.asp) | [](https://web.archive.org/web/20090427205940id_/http%3A//www.hotcopper.com.au/site_advertise.asp)  
+Copyright © 2000 - 2009 HotCopper All Rights Reserved.
 
 [](http://www.hotcopper.com.au/redirect_all.asp?statisticid=104)
