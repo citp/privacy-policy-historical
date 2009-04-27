@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the generateuk.co.uk privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121095020id_/http%3A//generateuk.co.uk/index.php/Generate_UK_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generateuk.co.uk privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427114604id_/http%3A//generateuk.co.uk/index.php/Generate_UK_Privacy_Policy.html) for the most accurate reproduction.*
 
-# Generate UK | Digital Marketing Agency | - Privacy Policy
+# Digital Marketing Agency Berkshire - Privacy Policy
 
 _Last modified: July 15 2008_
 
