@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184420id_/http%3A//naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427092606id_/http%3A//www.naturessunshine.com/us/general/privacy.aspx) for the most accurate reproduction.*
 
 # Nature's Sunshine - Privacy Statement
 
@@ -49,7 +49,7 @@ Our Website may contain links to other sites that are not controlled or operated
 To ensure that the information we have is accurate and current, we provide opportunities for you to review and correct your personal information through our Website and via the telephone. To make any changes to your information, please use any of the following methods: 
 
   * Log in to the Nature’s Sunshine Website, click on "Member Services" or "My Account," and then click on "Account Maintenance" under the "Account Tools" section.
-  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20081217184420id_/http%3A//naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
+  * Go to the following link [www.naturessunshine.com/us/members/myaccount/accountmaint.aspx](https://web.archive.org/web/20090427092606id_/http%3A//www.naturessunshine.com/us/members/myaccount/accountmaint.aspx), and you will be required to log in.
   * Contact Customer Service at 1-800-223-8225 to have a representative make changes to your account.
 
 
