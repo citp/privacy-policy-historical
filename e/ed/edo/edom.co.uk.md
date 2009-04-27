@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828053525id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427184333id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Help zone :: Electronics Store
+# Help zone :: eDom Electronics - E-Signature Pads Specialist
 
 **eDom.co.uk is  committed to protecting your privacy.**
 
