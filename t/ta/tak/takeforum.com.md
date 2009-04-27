@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeforum.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155151id_/http%3A//www.takeforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeforum.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428001412id_/http%3A//www.takeforum.com/privacy.html) for the most accurate reproduction.*
 
 # Takeforum.com - the free forum provider
 
