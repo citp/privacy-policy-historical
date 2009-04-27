@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217055119id_/http%3A//bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2009-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427131218id_/http%3A//bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; CHICset=iso-8859-1">
@@ -45,6 +45,7 @@
 </head>
 
 <body>
+<!-- /templates file -->
 <div id="wrapper">
 
 
@@ -198,7 +199,7 @@ isMozillaProduct = false;
 			<input type="hidden" name="contest" value="BCBG_catalogRequest"> 
 			<input type="hidden" name="emailPref" value="Y">
 			<input type="hidden" id="targetPage" name="targetPage" value="display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt"> 
-			<input type="hidden" name="datetime" value="December 17, 2008 12:51:18 AM EST">
+			<input type="hidden" name="datetime" value="April 27, 2009 9:12:18 AM EDT">
 			<!-- <iframe style="width:435px;height:500px;z-index:10;margin-left:-15px;margin-top:-20px;" frameborder="0"></iframe> -->
 			<div id="title">Catalog Request</div>
 			<div id="btnClose"><a href="javascript:hideCatalogRequest();">&nbsp;</a></div>
@@ -233,7 +234,7 @@ isMozillaProduct = false;
 					<div id="txtZipCode">Postal Code*</div>
 				</div>
 				<div class="section">
-					<div id="frmCountry"><select class="inputText" id="country" name="country" style="width:204px;">
+					<div id="frmCountry"><select style="border:1px solid #CCCCCC; width:204px;" id="country" name="country">
 						<option value="" selected="selected">Select Country</option> 
 						<option value="United States">United States</option> 
 						<option value="United Kingdom">United Kingdom</option> 
@@ -492,55 +493,81 @@ isMozillaProduct = false;
 				<div id="optIn">Catalogs I want:&nbsp;
 					<input type="checkbox" name="BCBGMAXAZRIA">&nbsp;BCBGMAXAZRIA&nbsp;&nbsp;
 				</div>
-				<div id="btnRequest"><a href="javascript:submitCatalogRequest();"><img src="../images/submit.gif" border="0"></a></div>
+				<div id="btnRequest" style="margin-right: 40px;"><a href="javascript:submitCatalogRequest();"><img src="../images/submit.gif" border="0"></a></div>
 			</form>
 		</div>	
 	</div>
 	<!-- END CATALOG REQUEST FORM -->
 	<div id="header">
-		<div id="logo"><a href="/"><img src="http://bcbg.imageg.net/images/header/logo.jpg" width="263" height="19" border="0" alt="BCBG"></a></div>
-		<div id="topNav">
-			<div id="topNavLinks">
-				<div class="link">
-					<img src="http://bcbg.imageg.net/images/pixel.gif" alt="Email Signup" height="21" width="1">
-					<a href="javascript: showEmailSignup(); void(0);">Email Signup</a></div>
-				<div class="link">
-					<img src="http://bcbg.imageg.net/images/header/wishlist.jpg" alt="Wishlist">
-					<a href="/cart/index.jsp?wlName=wishlist"> Wishlist</a></div>		
-				<div class="link">
-					<img src="http://bcbg.imageg.net/images/header/shopping_bag.jpg" alt="Shopping Bag">
-					<a href="/cart/index.jsp"> Shopping Bag</a></div>			
-				<div class="link">
-					<img src="http://bcbg.imageg.net/images/pixel.gif" alt="My Account" height="21" width="1">
-					<a href="https://www.bcbg.com/coreg/index.jsp?step=register">My Account</a></div>
-			</div>			
-			<div id="topNavSearch">			
-				<div style="float:right;">					
-					<div style="float:right;width:206px;">
-						<form action="/searchHandler/index.jsp" name="search" style="display:inline;margin:0;">
-							<input type="hidden" name="filter" value="yes">
-							<input type="hidden" name="searchId" value="3423116">				
-							
-							
-							<!--<span id="searchbutton"><a href="javascript:submitSearchForm();">&nbsp;</a></span>-->
-							<div id="searchbutton" style="float:right; width:49px; padding-left:5px;">
-								<a href="javascript:submitSearchForm();"><img src="../images/header/findit.gif" border="0" height="22"></a>
-							</div>
-							<div id="searchBox" style="float:right; width:145px; height:20px; padding-right:0px; padding-top:0px;">
-								<input type="text" id="topNavSearchText" value="STYLE #" onfocus="this.value = '';" name="keywords">
-							</div>
-
-						</form>		
-						<div style="clear:both;"></div>		
-					</div>
-
+		<div id="headTop">
+			<div id="lChamber">
+			  <div id="logo"><a href="/home/index.jsp" title="HOME"><img src="http://bcbg.imageg.net/images/header/bcbd_logo.gif" border="0" alt="BCBGMAXAZRIA"></a></div>
+			</div>
+			<div id="rChamber">
+				<div id="topNav">
+					<ul id="topNav">
+<li><a title="SHOPPING BAG (0)" href="/cart/index.jsp">SHOPPING BAG (0)</a></li>
+<li><a title="MY ACCOUNT" href="https://www.bcbg.com/coreg/index.jsp?step=register">MY ACCOUNT</a></li>
+<li><a title="EMAIL SIGN UP" href="javascript: showEmailSignup(); void(0);">EMAIL SIGN UP</a></li>
+</ul>
+				</div>
+				<div id="searchBar">
+					<div id="searchForm">
+					<form action="/searchHandler/index.jsp" name="search" style="display:inline;margin:0;">
+			<input type="hidden" name="filter" value="yes">
+								
+			<input type="hidden" name="searchId" value="2768985">				
+								
+								<div id="searchField">
+								<input type="text" id="topNavSearchText" value="SEARCH" onfocus="this.value = '';" name="keywords">
+								</div>
+									<div id="searchbutton">
+									<script language="JavaScript">
+									<!--
+									 function change( imgName, imgLocation )
+										{
+										 document[imgName].src = imgLocation ;
+										}
+									//-->
+									</script>
+								<a href="javascript:submitSearchForm();" onmouseover="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow2.gif');" onmouseout="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow.gif');"><img src="http://bcbg.imageg.net/images/header/search_arrow.gif" border="0" height="20" width="20" name="buttonhome"></a>
+								</div>
+								</form>
+								</div>
+								
 					<div id="oasSpotTop1">
-							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/737622528/Top1/BCBG_TEST/ticker1215c.gif/61633135303730393439343839333530" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/BCBG_TEST/ticker1215c.gif" alt="" border="0"></a>
+							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/290118542/Top1/BCBG_TEST/ticker0416.gif/61633135303730393439663561663330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/BCBG_TEST/ticker0416.gif" alt="" border="0"></a>
 					</div>
 
 				</div>
+				
 			</div>
-		</div>	
+		</div>
+		<div id="headBttm">
+			
+<!-- Cid = -->
+<ul id="mainNav">
+<li><a id="arrivals" href="/family/index.jsp?categoryId=2769198&amp;cp=2584262&amp;clickid=top_nav_na" title="NEW ARRIVALS"></a></li>
+
+<li><a id="dresses" href="/family/index.jsp?categoryId=2840697&amp;cp=2769162&amp;clickid=top_nav_dresses" title="DRESSES"></a></li>
+
+<li><a id="clothing" href="/category/index.jsp?categoryId=2769127&amp;cp=2584262&amp;clickid=top_nav_clothing" title="CLOTHING"></a></li>
+
+<li><a id="footwear" href="/family/index.jsp?categoryId=2840703&amp;cp=2769195&amp;clickid=top_nav_footwear" title="FOOTWEAR"></a></li>
+
+<li><a id="access" href="/category/index.jsp?categoryId=2769196&amp;cp=2584262&amp;clickid=top_nav_access" title="ACCESSORIES"></a></li>
+
+<li><a id="sale" href="/family/index.jsp?categoryId=3203884&amp;cp=2939729&amp;clickid=top_nav_sale" title="SALE"></a></li>
+
+<li><a id="runway" href="/category/index.jsp?categoryId=2901570&amp;cp=2584262&amp;clickid=top_nav_runway" title="BCBGMAXAZRIA RUNWAY"></a></li>
+
+<li><a id="max" href="/category/index.jsp?categoryId=3444435&amp;cp=2584262&amp;clickid=top_nav_max" title="MAX AZRIA"></a></li>
+
+<li><a id="herve" href="/category/index.jsp?categoryId=3370524&amp;cp=2584262&amp;clickid=top_nav_herve" title="HERVE LEGER"></a></li>
+
+</ul>
+
+		</div>
 	</div>		
 	
 	
@@ -643,14 +670,26 @@ if (isMozillaProduct){
 	
 
 </div> <!-- end content -->
+
+<link rel="stylesheet" href="http://bcbg.imageg.net/css/PG_BCBG_footer.css">
 <div class="footer">
-	<a href="http://www.bcbgmaxazriagroup.com" class="footerTextLink" target="_blank">COMPANY</a> 
-	| <a href="http://www.bcbgmaxazriagroup.com/redirect/gsi/storelocator.php" class="footerTextLink" target="_blank">	STORE LOCATOR</a>  
-	| <a href="/helpdesk/index.jsp?clickid=footerlink_customerservice_txt" target="_top" class="footerTextLink">CUSTOMER SERVICE</a> 
-	| <a href="javascript: showCatalogRequest(); void(0);" class="footerTextLink">CATALOG REQUEST </a>
-	| <a href="https://www.bcbg.com/coreg/index.jsp?step=ot&amp;clickid=botnav_track_txt" class="footerTextLink">TRACK ORDER</a> 
-	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt" class="footerTextLink">PRIVACY POLICY</a> 
-	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerTextLink footerTextLinkLast">TERMS OF USE</a>
+	<a href="http://www.bcbgmaxazriagroup.com" target="_blank" class="footLink">COMPANY</a>
+	| <a href="http://www.bcbgmaxazriagroup.com/gsi/redirect/storelocator.php" target="_top" class="footLink">STORE LOCATOR</a> 
+	| <a href="/helpdesk/index.jsp?clickid=footerlink_customerservice_txt" target="_top" class="footLink">CUSTOMER SERVICE</a> 
+	| <a href="javascript: showCatalogRequest(); void(0);" class="footLink">CATALOG REQUEST </a>
+	| <a href="https://www.bcbg.com/coreg/index.jsp?step=ot&amp;clickid=botnav_track_txt" class="footLink">TRACK ORDER</a> 
+	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt" class="footLink">PRIVACY POLICY</a> 
+	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footLink">TERMS OF USE</a>
+	<div class="copyright">
+		© 2009 BCBGMAXAZRIAGROUP, INC
+	</div>
+
+<div align="right">
+<!-- START SCANALERT CODE -->
+	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.bcbg.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.bcbg.com/63.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE -->
+</div>
+
 </div>
 
 
@@ -669,7 +708,7 @@ if (isMozillaProduct){
 
 
 
-<!--You are running on secprd1_ws_13_3-->
+<!--You are running on secprd1_ws_10_7-->
 
 
 
@@ -689,7 +728,7 @@ if (isMozillaProduct){
 
 
 
-<!--You are running on secprd1_ws_13_3-->
+<!--You are running on secprd1_ws_10_7-->
 
 
 
@@ -704,7 +743,7 @@ if (isMozillaProduct){
 var s_account='gsicbcbg';
 var s_server='www.bcbg.com';
 var s_hier1='';
-var s_eVar19='58108744673';
+var s_eVar19='66829318463';
 var s_channel='Home';
 var s_pageName='Customer Assistance - Customer Assitance Landing Page';
 </script>
@@ -722,8 +761,6 @@ var s_pageName='Customer Assistance - Customer Assitance Landing Page';
 
 
 
-</div><!-- Close Page Container Div -->
 </div><!-- end wrapper -->
 
-
-</body></html>
+</div></body></html>
