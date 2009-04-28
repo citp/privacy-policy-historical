@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226103050id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428153600id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
 
-# American Orthopaedic Foot & Ankle Society
+# AOFAS Privacy Statement and Usage Disclosure
 
 **AOFAS Privacy Statement and Usage Disclosure  
 **  
@@ -21,4 +21,4 @@ For members and others who register for courses and meetings or make purchases o
 Your information is stored on professionally hosted and backed up servers in the United States. AOFAS uses Secure Socket Layers to protect your information. Any credit card information you provide will be encrypted though the latest techniques.
 
 AOFAS reserves the right to amend this policy at any time. Your continued use of this site constitutes your acceptance of any future amendments to this policy. Though we are committed to ensuring your privacy, we may be required to disclose personal information when required by law and when necessary to comply with a court order or other legal process.  
-Any questions about this Privacy Statement may be directed to the Society at [aofasinfo@aofas.org](mailto:aofasinfo@aofas.org) or you may call the Society at 800-235-4855 or 847-698-4654. 
+Any questions about this Privacy Statement may be directed to the Society at aofasinfo@aofas _dot_ org or you may call the Society at 800-235-4855 or 847-698-4654. 
