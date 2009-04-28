@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globalfirepower.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154305id_/http%3A//www.globalfirepower.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalfirepower.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428204701id_/http%3A//www.globalfirepower.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # GlobalFirepower Privacy Policy
+
+_UPDATED: 3/13/2009_
 
 Your privacy is important to us!
 
@@ -22,6 +24,14 @@ So, in short, we don't care if you're Jim-Bob from Po-Dunk, USA - but we do care
 
 You will notice that we use third party advertisements on GlobalFirepower.com to support our site.  Some of these advertisers may use technology such as cookies when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and sometimes whether you have the Flash player installed or not.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
+In the case of Google Adsense ads, this ad server uses the DoubleClick DART cookie. As per the Google website, is is explained as such:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this website. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
 You can chose to disable or selectively turn off cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  For instance, this might effect your ability to access or login to certain services or programs such as logging into forums or accounts.
 
-~ GlobalFirepower.com
+~ [GlobalFirepower.com](http://www.globalfirepower.com/)
