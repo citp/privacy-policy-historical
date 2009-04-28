@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbru.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223175224id_/http%3A//www.superbru.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbru.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428140825id_/http%3A//www.superbru.com/privacy.asp) for the most accurate reproduction.*
 
 # SuperBru - Free sports prediction game - FIFA World Cup, Super 14, NPC, Currie Cup, NRL - tipping, pools
 
@@ -27,4 +27,4 @@ The following information will be kept strictly confidential:
   * Your password
   * Your timezone
 
-Your private contact information will only be used by SuperBru for purposes of gaming communications and will never be passed on to a third party or made publicly available. By playing the game you consent to us sending you relevant gaming communications, but if at any time you wish to stop receiving these, simply visit <http://www.superbru.com/unsubscribe.asp>. 
+Your private contact information will only be used by SuperBru for purposes of gaming communications and will never be passed on to a third party or made publicly available. By playing the game you consent to us sending you relevant gaming communications, but if at any time you wish to stop receiving these, simply visit <http://superbru.com/unsubscribe.asp>. 
