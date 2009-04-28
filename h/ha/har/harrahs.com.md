@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227221050id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428043614id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
 
 # Harrah's Entertainment, Inc. - Privacy Policy
 
