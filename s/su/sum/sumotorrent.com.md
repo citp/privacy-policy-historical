@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumotorrent.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160047id_/http%3A//www.sumotorrent.com/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumotorrent.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428025248id_/http%3A//www.sumotorrent.com/infos.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # - SUMOTorrent.com
 
