@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbianthemes.us privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222095734id_/http%3A//www.symbianthemes.us/p10014%2Cprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbianthemes.us privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429011531id_/http%3A//www.symbianthemes.us/p10014%2Cprivacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
