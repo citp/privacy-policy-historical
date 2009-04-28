@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whostalkin.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228120419id_/http%3A//www.whostalkin.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whostalkin.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428094023id_/http%3A//www.whostalkin.com/privacy) for the most accurate reproduction.*
 
-# WhosTalkin Blog - Privacy
+# Social Media Search Tool | WhosTalkin?
 
 This is the web site of WhosTalkin.com.
 
@@ -8,7 +8,7 @@ Our postal address is
 224 Old Serenity Drive  
 Pawleys Island, SC, 29585
 
-We can be reached via e-mail at [info@whostalkin.com](https://web.archive.org/web/20081228120419id_/http://www.whostalkin.com/blog/privacy/info@whostalkin.com)
+We can be reached via e-mail at [info@whostalkin.com](https://web.archive.org/web/20090428094023id_/http://www.whostalkin.com/privacy/info@whostalkin.com)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -20,13 +20,9 @@ With respect to cookies: We use cookies to record user-specific information on w
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
-
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
-
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
@@ -40,4 +36,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
