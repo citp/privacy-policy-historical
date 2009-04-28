@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trutechtools.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219043350id_/http%3A//www.trutechtools.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trutechtools.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429012332id_/http%3A//www.trutechtools.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : TruTech Tools, Tools for "Tru" Technicians
 
@@ -9,7 +9,7 @@ We realize that making purchases at TruTech Tools.com, or any other website, req
  **The Information You Provide  
 ** The security of your personal information is very important to us. We collect personal information that you choose to voluntarily provide. This information includes your email address make a purchase. We may also ask for personal information when you contact a Customer Service Representative. This allows us to protect your confidentiality by verifying your identity.
 
-When you make a purchase using a credit card, we **do not** collect your name, billing address, card type, and number and expiration date. We only use third party secure sites like PayPal or Google Check Out in order to complete your transaction. We do collect information that allows us to ship your order. This includes the name, address and phone number of the intended recipient(s). Your password for our site is your password, therefore we cannot retrieve this information if you loose it, nor can we place orders for you under your account. 
+When you make a purchase using a credit card, we collect your name, billing address, card type, first and last four card numbers and expiration date. We only use third party secure sites on a secure SSL in order to complete your transaction. We do collect information that allows us to ship your order. This includes the name, address and phone number of the intended recipient(s). Your password for our site is your password, therefore we cannot retrieve this information if you loose it, nor can we place orders for you under your account. 
 
 From time to time, TruTech Tools may conduct surveys and contests via our website, email or other media. If you choose to participate, we may request your name, email address, mailing address and other personal information.
 
@@ -24,11 +24,11 @@ TruTech Tools does not allow third party cookies. If you come to TruTech Tools.c
  **How We Use Your Personal Information  
 ** Information we collect on TruTech Tools.com may be used to enhance your shopping experience in the following ways: 
 
-  *  Confirming your orders 
-  *  Delivering the merchandise that you purchase online 
+  *  Confirming your orders
+  *  Delivering the merchandise that you purchase online 
   *  Responding to your customer-service inquires or requests 
-  *  Communicating special offers and featured items to you (if you choose to receive such notices) 
-  *  Finding and stocking the products you want 
+  *  Communicating special offers and featured items to you (if you choose to receive such notices) 
+  *  Finding and stocking the products you want 
   *  Customizing your shopping experience 
 
 
