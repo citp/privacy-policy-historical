@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227051441id_/http%3A//www.mobizill.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428173411id_/http%3A//www.mobizill.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Mobizill - Free For Your Mobile :: Mobile Content,Games,Ringtones,Videos,Wallpaper,Themes,Softwares,Mobile Groups.
 
-[**www.Mobizill.com**](http://www.mobizill.com/home.aspx "www.mobizill.com") is committed to your privacy and makes every effort to ensure the secrecy of your personally identifiable information because our users are our assets. We respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Privacy Policy that guides how we collect, store and apply the information you provide. Please read this privacy policy carefully, as once you use our web site, you will be deemed to have read and accepted this privacy policy.
+[**www.Mobizill.com**](http://www.mobizill.com/ "www.mobizill.com") is committed to your privacy and makes every effort to ensure the secrecy of your personally identifiable information because our users are our assets. We respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Privacy Policy that guides how we collect, store and apply the information you provide. Please read this privacy policy carefully, as once you use our web site, you will be deemed to have read and accepted this privacy policy.
 
 1\. What personal information is collected? 
 
