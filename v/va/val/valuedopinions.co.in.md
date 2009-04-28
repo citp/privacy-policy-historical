@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222232117id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428133600id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
 
 # Privacy Policy: Valued Opinions
 
-Research Now plc., The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc (a US Company), Research Now SARL (a French Company), Samplenet e-Research Solutions Inc (a Canadian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now Pty Limited (an Australian Company) and Research Now GmbH (a German Company) (together "Research Now") operate the Valued Opinions website and we respect the privacy of individuals who use our website.
+Research Now plc., The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc (a US Company), Research Now SARL (a French Company), Research Now Inc (a Canadian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now Pty Limited (an Australian Company), Research Now Pte. Ltd. (A Singaporian Company) and Research Now GmbH (a German Company) (together "Research Now") operate the Valued Opinions website and we respect the privacy of individuals who use our website.
 
 Below we have set out how we use the information that you give us and how the Site operates.
 
