@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164126id_/http%3A//www.legitonlinejobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428173421id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
 
 # Legit Online Jobs - Privacy Policy
 
- 
+## Privacy Policy
 
-  
 Sharing Personal Information with Third Parties:  
 We will never sell or give away your personal information to third parties for purposes of building contact lists without your permission. We stand firmly against any transfer of personal information for reasons of building the contact lists of third parties.
 
@@ -90,16 +89,15 @@ If you have any questions about this privacy statement, the practices of this we
 
 Mailing Address:
 
-**LegitOnlineJobs  
-1901 60th Place E.   
-Suite L9419   
-Bradenton, Florida 34203**
+Legit Online Jobs  
+2972 Columbia St. Suite 3063  
+Torrance, CA 90503   
+USA
 
 Policy Changes: 
 
 Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on Jul 15, 2007.
+This Privacy Policy was last revised on December 2, 2008.
 
-Copyright © 2008 Legit Online Jobs. All rights reserved.  
-1901 60th Place E. Suite L9419, Bradenton, Florida 34203, United States
+Copyright © 2009 Legit Online Jobs. All rights reserved. 
