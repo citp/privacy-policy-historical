@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407220206id_/http%3A//www.imediabiz.com/web/en/common/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428130012id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/privacy_policy.php) for the most accurate reproduction.*
 
-# Web Hosting Australia - Imediabiz.com :: Privacy Policy
+# Hosting Australia - Cheap Web Hosting, Dedicated Server, Domain Name, and SSL Certificate :: Privacy Policy
 
 |   
 ---  
@@ -8,10 +8,10 @@
 ---  
 | 
 
-"Good service with very fast solution." **\- Ir. Nyoman Sulandika -**  
+"Good services and very good customer support, thank you." **\- Keniten,IB -**  
 
 |   
-|  |    [Home](https://web.archive.org/web/20080407220206id_/http%3A//www.imediabiz.com/web/en/common/ "Go to Home") » Privacy Policy  
+|  |    [Home](https://web.archive.org/web/20090428130012id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/ "Go to Home") » Privacy Policy  
 ---  
 | **Our Basic Privacy Policy**  
 ---  
@@ -26,7 +26,8 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 |   | _1.1. Credit Card Information_  
 ---|---  
-  | If you choose to purchase products or services from us or our partners, you may need to give personal information and authorisation to obtain information from various credit services. For example, you may need to provide the following information: • Name  
+  | If you choose to purchase products or services from us or our partners, you may need to give personal information and authorisation to obtain information from various credit services. For example, you may need to provide the following information:   
+• Name  
 • Mailing Address  
 • E-Mail Address  
 • Credit Card Number  
@@ -121,7 +122,7 @@ If your credit card or password is stolen or used without your permission, immed
 **Cancellation**  
 ---  
   
-You may cancel your account at any time by sending an e-mail to [support@ imediabiz.com](mailto:support@%20imediabiz.com). Once Imediabiz has finished processing the cancellation, Imediabiz will delete all your Registration Data from its database.  
+You may cancel your account at any time by sending an e-mail to [accounting@imediabiz.com](mailto:accounting@imediabiz.com). Once Imediabiz has finished processing the cancellation, Imediabiz will delete all your Registration Data from its database.  
   
   
 **Updates**  
