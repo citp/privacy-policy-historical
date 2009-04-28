@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tundra.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007160513id_/http%3A//www.tundra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tundra.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428215014id_/http%3A//tundra.com/privacy) for the most accurate reproduction.*
 
 # Tundra Semiconductor - Privacy
 
@@ -18,7 +18,7 @@ You agree that we may provide your information to our affiliates, resellers, and
 
 ## Updating and Removal of Data
 
-You may have your name removed from our direct and email marketing lists at any time, by visiting your account profile page, and deselecting all check boxes. Alternatively, simply email  [webmaster@tundra.com](mailto:webmaster@tundra.com) with your request.
+You may have your name removed from our direct and email marketing lists at any time, by visiting your account profile page, and deselecting all check boxes. Alternatively, simply email [webmaster@tundra.com](mailto:webmaster@tundra.com) with your request.
 
 ## Security of Your Personal Information
 
@@ -38,4 +38,4 @@ By using our website, you consent to the collection and use of this information 
 
 ## Comments/Questions
 
-If you have any comments or questions about Tundra's Privacy Policy, please email them to  [webmaster@tundra.com](mailto:webmaster@tundra.com). 
+If you have any comments or questions about Tundra's Privacy Policy, please email them to [webmaster@tundra.com](mailto:webmaster@tundra.com). 
