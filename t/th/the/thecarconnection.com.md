@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040958id_/http%3A//www.thecarconnection.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428173205id_/http%3A//www.thecarconnection.com/privacypolicy) for the most accurate reproduction.*
 
 # The Car Connection Privacy Policy - The Car Connection
 
@@ -17,13 +17,17 @@ Links to third party sites are provided solely as a convenience to our readers. 
 Advertisers, survey groups and those linked to or from TheCarConnection.com may seek to obtain additional information from readers. As such, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. Such information will not be gathered by or on behalf of TheCarConnection.com unless clearly authorized and stated in such solicitations. If you choose to do business with vendors in TheCarConnection.com. s TCC Mall, for example, you may be asked to provide such parties with personal information, including credit and credit card data. Such actions will be covered only by that party' s own privacy policy.  
 As such, if you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.
 
+  
+
+
 **What About "Cookies"?**  
-"Cookies" are small pieces of information that my be served to you while visiting a Web site, and which are then stored on your computer's hard drive.  
-It is possible you will be served cookies by advertisers on TheCarConnection site. It has become a standard practice in the Internet community, one which most advertisers insist on. TheCarConnection has no control over such advertiser policies and does not normally participate in this practice. At times, an advertiser may choose to share broad demographic data, (but not personally identifying information), collected through such Cookies with TCC in order to develop an overview of the site and its users.   
-Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept Cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site.
+"Cookies" are small pieces of information that may be served to you while visiting a Web site, and which are then stored on your computer's hard drive.  
+It is possible you will be served cookies by us, by our advertisers or by the companies that help us deliver advertising on TheCarConnection site. At times, we or an advertiser may choose to share broad demographic data, (but not personally identifying information), collected through such Cookies with each other and our service providers in order to develop an overview of the site and its users. Cookies may also be used to improve products and services and to provide you with targeting advertising on TheCarConnetion and on other websites that you visit.
+
+Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site. Instructions for blocking cookies can be found in your browser help tab.
 
 **Third Party Advertising**  
-We use MaxOnline, AlmondNet and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit AlmondNet, MaxOnline or click here.
+We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, including information collected through cookies, in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Third Party Cookies**   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
@@ -33,7 +37,7 @@ As noted, you have the right to opt out of any services or update any data colle
 
 You may also correspond by standard post at:  
 Privacy Policy,   
-Car Advisory Network  
+High Gear Media  
 385 Forest Ave  
 Palo Alto, CA 94301  
 Tel: 650.353.2433  
