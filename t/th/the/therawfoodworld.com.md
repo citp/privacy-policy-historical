@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915004457id_/http%3A//www.rawveganbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429014113id_/http%3A//www.therawfoodworld.com/privacy.php) for the most accurate reproduction.*
 
 # Raw Vegan Books :
 
@@ -18,6 +18,6 @@ Raw Vegan Books Inc. will **NEVER** sell or exchange your personal information (
 Raw Vegan Books reserves the right to change its on-line policy at any time. Future changes will be duly noted on this page. If you have any other questions about this policy, please feel free to contact us at any time Contact Raw Vegan Books. If you have any questions regarding our privacy policy you may reach us on our contact us page. 
 
 **Contact Living Nutritinals:**   
-If you have any questions regaurding our privacy policy you may reach us on our [contact us page](http://www.rawveganbooks.com/contactus.html). 
+If you have any questions regaurding our privacy policy you may reach us on our [contact us page](http://www.therawfoodworld.com/contactus.html). 
 
 This page was last update on September 12, 2004 
