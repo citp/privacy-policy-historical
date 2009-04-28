@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161020id_/http%3A//www.visitmalta.com/privacy-policy%3Fl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428140627id_/http%3A//www.visitmalta.com/privacy-policy%3Fl%3D1) for the most accurate reproduction.*
 
 # The Official Tourism Site for Malta, Gozo and Comino : :Privacy Policy
 
@@ -70,6 +70,3 @@ MTA will retain the personal information that it holds on any person or organiz
 ## 6.0 Changes to this Privacy Policy
 
 If there are any changes to this privacy policy, we will replace this page with an updated version. It is therefore in your own interest to visit regularly the "Privacy Policy" page so as to be aware of any changes which may occur from time to time.
-
-  
-
