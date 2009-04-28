@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060318id_/http%3A//www.station.sony.com/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealms.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428085519id_/http%3A//www.station.sony.com/sonyonline/privacy.vm%3Ftheme%3Dfreerealms) for the most accurate reproduction.*
 
 # Free Realms - Privacy Policy
 
@@ -47,7 +47,7 @@ Because we provide you with the ability to exercise your "opt out" rights as des
 
 This Privacy Policy and the certification seal located above confirm that SOE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. We have voluntarily undertaken this privacy initiative and The Station has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of The Station and other enforcement and accountability mechanisms administered independently by ESRB.
 
-If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at [support@soe.sony.com](mailto:support@soe.sony.com). For complaints, you can also contact ESRB Privacy Online directly at [http://www.esrb.org/privacy/contact.jsp](http://www.esrb.org/privacy/contact.jsp%20) or by regular mail at 317 Madison Avenue, New York, NY 10017.
+If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at [support@soe.sony.com](mailto:support@soe.sony.com). For complaints, you can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or by regular mail at 317 Madison Avenue, New York, NY 10017.
 
 **Back To Top**
 
