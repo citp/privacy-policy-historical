@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035159id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428031136id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
 _Privacy Policy_
 
- **M &T Bank Corporation’s Consumer Information Policy**
+**M &T Bank Corporation’s Consumer Information Policy**
 
 At M&T, we are committed to safeguarding your financial information and maintaining your privacy. That has always been a priority for us. So we have policies and procedures in place to ensure that your financial information is protected and used responsibly.
 
@@ -14,11 +14,11 @@ Those policies and procedures are detailed here in our "privacy policy." Please 
 
 In this privacy policy, we describe:
 
-  * the kind of financial information we gather and how we use it
-  * how information is shared within the M&T Bank Corporation family of companies and with companies outside the M&T family
-  * how we protect your financial information
-  * what you can do to protect yourself from being a victim of fraud or identity theft
-  * how to opt-out of information sharing within the M&T family of companies and with companies outside of M&T
+  * The kind of financial information we gather and how we use it,
+  * How information is shared within the M&T Bank Corporation family of companies and with companies outside the M&T family,
+  * How we protect your financial information,
+  * What you can do to protect yourself from being a victim of fraud or identity theft, and
+  * How to opt-out of information sharing within the M&T family of companies and with companies outside of M&T.
 
 
 
@@ -63,7 +63,6 @@ M&T Bank Corporation is made up of a number of companies, also known as affiliat
   * M&T Bank*
   * M&T Bank, N.A.
   * M&T Securities, Inc.
-  * M&T Credit Services, LLC
   * M&T Lease, LLC
 
 
@@ -86,9 +85,7 @@ _Back to Top_
 
 **How We Protect Your Information**
 
-At M&T, we understand how important it is to protect your personal and financial information. That’s why we have in place physical, electronic and procedural safeguards that meet federal standards.
-
-Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
+At M&T, we understand how important it is to protect your personal and financial information. That’s why we have in place physical, electronic and procedural safeguards that meet federal standards. Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
 
 Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, visit our [Customer Service Privacy](https://web.archive.org/customerservice/Internet_privacy.cfm) page.
 
@@ -105,7 +102,7 @@ Because we value your trust, we have implemented the policies and procedures des
   * Retain all receipts from ATM, debit and credit card transactions. When you’re ready to dispose of them, make sure your account number is not readable.
   * Be sure to sign new bank cards immediately.
   * Report unusual telephone inquiries or other suspicious activity to your telephone company or local law enforcement authorities.
-  * If you believe you have been a victim of fraud related to your M&T accounts, notify us immediately, so that we can take action to help you. You should also report the crime to your local law enforcement agency and to the Federal Trade Commission (FTC). You can reach the FTC at 1-877-438-4338 or at http://www.ftc.gov/bcp/edu/microsites/idtheft/.
+  * If you believe you have been a victim of fraud related to your M&T accounts, notify us immediately, so that we can take action to help you. You should also report the crime to your local law enforcement agency and to the Federal Trade Commission (FTC). You can reach the FTC at 1-877-438-4338 or at http://www.consumer.gov/idtheft.
 
 
 
@@ -117,7 +114,7 @@ At M&T, we believe that one of the ways we can meet your needs is by making you 
 
 Of course, we know that you probably also receive mail and phone calls from other companies, many of whom you or we don’t do business with. What you may not know is that you can limit the solicitations you receive from these other companies if they are members of the Direct Marketing Association.
 
-To reduce the amount of direct mail you receive from other companies, you may register with Direct Marketing Association's Mail Preference Service (MPS). To register, visit www.dmaconsumers.org/consumerassistance.html.
+To reduce the amount of direct mail you receive from other companies, you may register with Direct Marketing Association's Mail Preference Service (MPS). To register, visit www.dmachoice.org.
 
 To reduce the number of _telemarketing calls_ you receive from other companies, you can register with the FTC's National Do Not Call registry at www.donotcall.gov, or by calling 1-888-382-1222.
 
@@ -139,7 +136,7 @@ _Back to Top_
 
 If you’d like to limit the amount of your information shared within the M&T family and/or with outside companies, you can do so now using our ["opt out" form](https://services.mandtbank.com/customerservice/privacy/optout.cfm) or by calling us at 1-800-785-3162. You will need to provide your M&T account number and your Social Security number to put the limitation on information sharing into effect.
 
-**Marketing Opt Out provided by the M &T family of companies.** Federal law also gives you the right to limit some but not all marketing offers from the M&T family of companies. We are required by Federal law to let you know of your choice to limit marketing offers. You may limit M&T family affiliates such as M&T Securities, Inc or M&T Credit Services, LLC from marketing their products and services to you based on your personal information that they receive from other members of the M&T family. This information may include income data, account history or your credit score. If you would like to limit marketing offers from M&T family affiliates call us at 1-800-785-3162.
+**Marketing Opt Out provided by the M &T family of companies.** Federal law also gives you the right to limit some but not all marketing offers from the M&T family of companies. We are required by Federal law to let you know of your choice to limit marketing offers. You may limit M&T family affiliates such as M&T Securities, Inc from marketing their products and services to you based on your personal information that they receive from other members of the M&T family. This information may include income data, account history or your credit score. If you would like to limit marketing offers from M&T family affiliates call us at 1-800-785-3162.
 
 When we receive your request, we will process it promptly. Please note that at the time you make your request, programs that involve information sharing may already be underway, but your name will be removed from such programs in the future.
 
