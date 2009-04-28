@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the titook.net privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016133621id_/http%3A//www.titook.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titook.net privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428141401id_/http%3A//www.titook.net/privacy) for the most accurate reproduction.*
 
-# Ti-Took™ The Cloud Community
+# Ti-Took™ The Cloud Community (social bookmarking service) - Access your bookmarks online anytime, anywhere
+
+| 
 
 #### WHAT THIS PRIVACY POLICY COVERS
 
@@ -78,3 +80,5 @@ Brossard, Qc, J4Y2W7
 
 
 _Effective Date: September 20, 2008_
+
+| 
