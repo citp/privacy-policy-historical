@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043253id_/http%3A//www.famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouspoetsandpoems.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428182846id_/http%3A//famouspoetsandpoems.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Poets and Poems
 
 The FamousPoetsAndPoems.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [FamousPoetsAndPoems.com](http://www.famouspoetsandpoems.com/)
 
 **Advertisers**  
-We use outside ad companies: We use outside ad companies: [Google Adsense](http://www.google.com/privacy.html), [FastClick.com](http://www.fastclick.com/about/privacy.html) to display ads on our site. These ads may contain cookies. Click the links above to know their Privacy Policy. 
+We use outside ad companies: We use outside ad companies: [Google Adsense](http://www.google.com/privacy.html), [ValueClick Media](http://www.valueclickmedia.com/privacy.shtml) to display ads on our site. These ads may contain cookies. Click the links above to know their Privacy Policy. 
 
 **Recommending a Poems.**  
 When you recommend a poems to a friend from our site, we ask for both your email address and your friend's. We not share this information with third parties and we do not collect or use e-mail addresses of the senders or the recipients for any purposes. 
