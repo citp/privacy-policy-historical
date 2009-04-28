@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gk2gk.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227042316id_/http%3A//www.gk2gk.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gk2gk.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428152747id_/http%3A//www.gk2gk.com/privacypolicy) for the most accurate reproduction.*
 
 # Geek 2 Geek - Privacy Policy
 
@@ -59,6 +59,14 @@ Children
 
 ·         Geek 2 Geek sets and accesses Geek 2 Geek cookies on your computer. Like most Websites, Geek 2 Geek uses cookies to keep track of your purchases and other activity on the site and to enhance your experience. We also use cookies to deliver content specific to your interests, to save your password, and to save other personal information so you do not have to reenter it each time you visit the site. Third party advertisers on the site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the site.
 
+Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site. 
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
 **General**
@@ -81,5 +89,5 @@ Changes to this Privacy Policy
 
 ·         If you have questions or suggestions, please [contact us](https://web.archive.org/contact/).
 
-Effective Date: January 1, 2007  
+Effective Date: March 13, 2009  
 
