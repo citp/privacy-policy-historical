@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gifico.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017041527id_/http%3A//www.gifico.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifico.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429013809id_/http%3A//www.gifico.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement -Tiffany Jewelry,Wholesale Louis Vuitton-Louis Vuitton Handbags & Purses
+# Privacy Statement - Cheap LV Online Sale Outlet
 
 We use of personal information that you may submit to us through this Web site is governed by our Privacy Policy. 
 
