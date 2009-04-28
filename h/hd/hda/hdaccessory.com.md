@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012627id_/http%3A//www.hdaccessory.com/servlet/Page%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdaccessory.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428175901id_/http%3A//www.hdaccessory.com/servlet/the-template/privacy/Page) for the most accurate reproduction.*
 
 # HDAccessory.com Privacy Policy - iPhone and iPod Accessories Super Store
 
