@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070414id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428141320id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
 
 # UK Wholesale - UK Wholesalers Directory: Privacy Policy
 
@@ -15,7 +15,7 @@ Participation describes information that is provided "actively" - meaning, you c
 
 [Top]
 
-Apart from described above (members login) we don't use cookies elsewhere on the site.
+Apart from described above (members login) we don't use cookies elsewhere on the site. However we also use Google, as a third-party vendor, which uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.co.uk/privacy_ads.html
 
 [Top]
 
