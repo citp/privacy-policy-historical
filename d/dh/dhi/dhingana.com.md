@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhingana.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171515id_/http%3A//www.dhingana.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhingana.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429080923id_/http%3A//www.dhingana.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dhingana.com - FREE Indian & Bollywood Music
 
@@ -73,6 +73,9 @@ Like other major Websites, we use cookies to provide you with a tailored experie
 
 Dhingana does not require that you accept cookies, however, some functionality on our Websites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your Dhingana cookie settings through preferences options in our products. 
 
+**THIRD PARTY AND GOOGLE ADSENSE ADVERTISING**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We use Google Adsense as one of our advertising Ad networks. Google, as a third party vendor, uses cookies to serve ads on our site. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
 **CHANGES TO OUR PRIVACY POLICY**  
 We frequently revise this Privacy Policy to keep it up to date with Dhingana products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products.
 
@@ -84,6 +87,4 @@ If you have questions about the privacy aspects of our products or services or w
 
 INFO AT DHINGANA DOT COM  
 Privacy Policy Group  
-Dhingana, Inc.  
-167 Acalanes Drive,   
-Sunnyvale CA 94086 
+Dhingana.com
