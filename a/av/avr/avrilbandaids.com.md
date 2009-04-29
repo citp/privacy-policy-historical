@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avrilbandaids.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004234856id_/http%3A//www.avrilbandaids.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avrilbandaids.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429174303id_/http%3A//www.avrilbandaids.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Avril Lavigne Bandaids: The Best Damn Avril Lavigne Fansite - Privacy Policy
 
