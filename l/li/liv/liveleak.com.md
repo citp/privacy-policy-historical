@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021021id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429122234id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
 
 # LiveLeak.com - Redefining the Media
 
@@ -90,6 +90,8 @@ Liveleak places cookies on your computer to retain your individual preferences a
 
 Affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites and you should be aware of this as you do so. 
 
+We use third-party advertising companies (Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
+
 How Do I Edit My Membership Information? 
 
 All of your Membership Information is located in your personal Liveleak profile. Your profile can be edited at any time, by logging in with your User Name and password, then clicking on the "Settings" link. 
@@ -103,4 +105,4 @@ Your Questions or Suggestions Regarding this Privacy Policy.
   
 If you have a privacy concern regarding any Liveleak website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should complete a feedback form or write to us by email at staff@Liveleak.com.
 
-Policy updated and effective date: Oct 31, 2006 
+Policy updated and effective date: Mar 10, 2009
