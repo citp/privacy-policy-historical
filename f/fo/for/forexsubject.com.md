@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexsubject.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225212938id_/http%3A//www.forexsubject.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexsubject.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429234751id_/http%3A//www.forexsubject.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy Forex Subject - Free Forex Articles And FX Resources
+# privacy Forex Subject - Free Forex Articles, Trading Tips And Resources
 
   
 
@@ -22,6 +22,10 @@ Aggregated Information (information that does not personally identify you) may b
 We may use Personally Identifiable Information collected on Forex Subject to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Forex Subject and other topics we think you might find of interest.
 
 Personally Identifiable Information collected by ForexSubject.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+
+**Advertisements provided by Google**
+
+We use Google as a third-party vendor to serve ads when you visit our Web site(s). Google may use information (not including your name, address, email address, or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, click [here](http://www.google.com/privacy_ads.html).
 
 Affiliated sites, linked sites and advertisements
 
