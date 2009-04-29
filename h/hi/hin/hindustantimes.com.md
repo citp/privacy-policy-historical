@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517134244id_/http%3A//hindustantimes.com/news/specials/privacypolicy/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429052224id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Hindustan Times
+# PrivacyPolicy
 
 |   
 ---  
@@ -102,5 +102,5 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 Contact Us  
   
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.htmedia.in/news/specials/htmedia/contact/index.shtml)  
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.htmedia.in/ContactUs.aspx?Page=Page-HTMedia-ContactUs)  
 
