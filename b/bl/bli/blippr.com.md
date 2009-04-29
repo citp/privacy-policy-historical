@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150749id_/http%3A//www.blippr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429093615id_/http%3A//www.blippr.com/privacy) for the most accurate reproduction.*
 
 # blippr.com
 
@@ -32,6 +32,8 @@ blippr discloses potentially personally-identifying and personally-identifying i
 ## cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. blippr uses cookies to help blippr identify and track visitors, their usage of blippr, and their website access preferences. blippr visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using blippr, knowing that you will not be able to sign in or use certain features of blippr at all.
+
+Additionally, blippr may serve ads through the Google AdSense program, which uses [DoubleClick DART cookies](http://www.doubleclick.com/privacy/faq.aspx) to serve relevant ads to based on your browsing patterns. If you wish, you may opt out of DART cookies by visiting Google’s [ad and content privacy policy page](http://www.google.com/privacy_ads.html)
 
 ## privacy policy changes
 
