@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612071452id_/http%3A//www.trafficvance.com/index.php%3Fpage%3Dpublic.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429172310id_/http%3A//www.trafficvance.com/index.php%3Fpage%3Dpublic.PrivacyPolicy) for the most accurate reproduction.*
 
 # Trafficvance :: Advanced Display & Text Link Traffic | Privacy Policy
 
