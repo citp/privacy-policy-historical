@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104503id_/http%3A//www.handbag.com/Privacy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429110404id_/http%3A//www.handbag.com/Privacy/v1) for the most accurate reproduction.*
 
 # Privacy :: handbag.com
-
-Posted by handbag on 03/09/2007 
 
 ## The principal activity of Handbag.com Limited (Handbag) is owning and operating the web site www.handbag.com. 
 
