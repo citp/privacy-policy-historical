@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231505id_/http%3A//zipform.com/company/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429205624id_/http%3A//www.zipform.com/company/privacystatement.asp) for the most accurate reproduction.*
 
-# ZipForm Desktop
+# Privacy Statement
 
 RE FormsNet, LLC Online Statement of Privacy and Security. Effective January 1, 2005 This document was previously updated July 1, 2004. 
 
