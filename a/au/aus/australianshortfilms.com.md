@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the australianshortfilms.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221316id_/http%3A//www.australianshortfilms.com/100151.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianshortfilms.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429050344id_/http%3A//www.australianshortfilms.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Australian Short Films
+# Privacy Policy — Australian Short Films
+
+## Privacy Policy
 
 This website is owned and operated by e-CBD Pty Ltd - an Australian web development company based on Queensland's Gold Coast.
 
-**Our Privacy Policy**
+### Our Privacy Policy
 
 When you visit our web site, our web server automatically recognizes your Internet Protocol (IP) address. Your IP address is non-identifying and is used to compile statistics about traffic to our web site.
 
