@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainjar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218025911id_/http%3A//www.brainjar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainjar.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429064138id_/http%3A//www.brainjar.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainJar.com: Experiments in Web Programming
 
@@ -18,7 +18,15 @@ Information collected in [web server logs](http://en.wikipedia.org/wiki/Server_l
 
 This site uses temporary [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), where needed, for storing individual [session information](http://en.wikipedia.org/wiki/Session_management). They may also be used for illustrative purposes in programming examples. These are not shared with third parties.
 
-Advertisements on the site are provided via Google AdSense. Those advertisers may use [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) and/or [web bugs](http://en.wikipedia.org/wiki/Web_bug) (a.k.a. web beacons) to collect data. For more information, please see Google's [advertising privacy policy](http://www.google.com/privacy_ads.html)
+Advertisements on the site are provided via Google AdSense.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+For more information, please see Google's [advertising privacy policy](http://www.google.com/privacy_ads.html)
 
 ### Links to Other Sites
 
