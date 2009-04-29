@@ -1,103 +1,50 @@
-> *The following text is extracted and transformed from the intensedebate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013859id_/http%3A//www.intensedebate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intensedebate.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429194846id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
-# IntenseDebate - Privacy Policy
+# Privacy Policy « Automattic
 
-#### What This Privacy Policy Covers
+## Privacy Policy
 
-  * This policy covers how IntenseDebate Corporation, a Delaware corporation ("IntenseDebate," "we," "us," or "our"), and all of its affiliated websites, products and services, treat personal information that the IntenseDebate Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the IntenseDebate Sites, Products and Services is not considered "personal information" and is not considered the type of information protected by a privacy policy.
-  * This policy covers how the IntenseDebate Sites, Products and Services deal with information about your children under the Children's Online Privacy Protection Act ("COPPA"), and how parents and legal guardians may request from us how they can review, delete or stop the collection of the personally identifiable information of their child.
-  * This policy does not apply to the practices of companies that IntenseDebate does not own or control, or to people that IntenseDebate does not employ or manage.
+Your privacy is critically important to us. At Automattic we have a few fundamental principles:
 
-
-
-#### Information We Gather
-
-  * The IntenseDebate Sites, Products and Services may collect personal information (such as your name, email address, billing address, phone number, credit card information, and certain optional information such as birth date, birth place, mother's maiden name, gender, zip code, biographical information, ICQ/AIM/Yahoo/MSN user name, Twitter/Flickr/Digg user name) when you register with them, use the particular products or services or post content or comments on a Blog site as a guest with authoring rights, as applicable.
-  * The IntenseDebate Sites, Products and Services may also collect personal information when you enter into promotions or sweepstakes.
-  * The IntenseDebate Sites, Products and Services may combine information about you that we have with information we obtain from business partners or others.
-  * The IntenseDebate Sites, Products and Services may collect information about articles, blogs, other commenters, and websites you engage with and/or comment upon.
-  * The IntenseDebate Sites, Products and Services may also collect information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you such as your credit card number.
-  * The IntenseDebate Sites, Products and Services may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
 
 
-#### Cookies
+Below is our privacy policy which incorporates these goals:
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
-  * If you reject all cookies, you may not be able to use the IntenseDebate Sites, Products and Services that require you to "sign in," and you may not be able to take full advantage of all offerings.
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
-  * IntenseDebate may let other entities that show advertisements on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to IntenseDebate's cookies.
+[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
+Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
+### Website Visitors
 
-#### Information Relating to Children
+Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-  * The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. The IntenseDebate Sites, Products and Services are not directed at children under 13 years of age but, we recognize that with proper adult supervision some parents might permit their children to visit and utilize the IntenseDebate Sites, Products and Services. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the IntenseDebate Sites, Products and Services. 
-  * When your child attempts to register and/or provide personal information to IntenseDebate (including on any of the IntenseDebate Sites, Products and Services), we require a parent or legal guardian to: 
-    * complete the registration; 
-    * review our privacy policy;
-    * possibly submit a valid credit card number to verify that the child's parent or guardian knows about and authorizes our information practices related to children protected by COPPA; and 
-    * verify through the use of an email confirmation and second authorization that the parent or guardian consents to any applicable Terms of Service and this privacy policy. 
-  * Once parental notice and consent has been verified, the information we collect will be treated the same as information collected from any other user of the IntenseDebate Sites, Products and Services. Without verified parental notice and consent, we will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it. 
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Automattic does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
+### Gathering of Personally-Identifying Information
 
+Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [wordpress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-#### How Parents can Access their Children's Personal Information
+### Aggregated Statistics
 
-In compliance with COPPA, parents and legal guardians may request us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.
+Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
 
-If you know the user name and password, follow the instructions below regarding Changing your Preferences and Personal Information, or you may contact us by letter, phone or email using the address information provided at the bottom of this page.
+### Protection of Certain Personally-Identifying Information
 
-If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use the IntenseDebate Sites, Products and Services that require a user to "sign in."
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-#### Information Use, Sharing and Disclosure
+### Cookies
 
-  * The IntenseDebate Sites, Products and Services do not share personal information we learn about you from your use of the web sites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the IntenseDebate Sites, Products and Services may display targeted advertisements based on personal information.
-  * When you provide personal information through using the IntenseDebate Sites, Products and Services you are however sharing your personal information with IntenseDebate and its affiliated entities. The use of your personal information by these organizations is subject to this policy. 
-  * The IntenseDebate Sites, Products and Services may use or share your personal information where it is necessary to complete a transaction, to operate or improve the IntenseDebate Sites, Products and Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest. 
-  * Where you are contacted with an offer or service based on information you have shared with any IntenseDebate Site, Product and/or Service, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements, administrative messages and the IntenseDebate Newsletter, that are considered part of your IntenseDebate account, without offering you the opportunity to opt-out of receiving them. 
-  * When you post a message, your user ID or alias that you are posting under may be visible to other users. 
-  * When you post a message on any IntenseDebate journal or Blog Site, you have the ability to post a message which may include personally identifiable information about yourself. 
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-  * The IntenseDebate Sites, Products and Services may share personally identifiable information about you under the following circumstances: 
-    * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the IntenseDebate Sites, Products and Services and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared. 
-    * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate. 
-    * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law. 
-    * As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
 
+### Ads
 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
-#### Changes to this Privacy Policy
+### Privacy Policy Changes
 
-  * IntenseDebate may revise, modify or update this policy. The current policy will be available at [www.intensedebate.com](http://www.intensedebate.com/)
-
-
-
-#### Confidentiality and Security
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
-
-  * We use physical, electronic, and procedural safeguards to protect personal information about you. 
-  * Your account information is password-protected. 
-  * In certain areas, the IntenseDebate Sites, Products and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
-
-
-
-If IntenseDebate learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the IntenseDebate Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at support@intensedebate.com.
-
-#### Changing your Preferences and Personal Information
-
-  * You can edit your account information with an applicable IntenseDebate Site, Product and Service at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use the IntenseDebate Sites, Products and Services, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those sites, products and services. 
-  * You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements. 
-
-
-
-#### Contacting IntenseDebate
-
-If you have a privacy concern regarding any IntenseDebate Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at support@intensedebate.com.
-
-If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the IntenseDebate Sites, Products and Services or may require us to terminate our relationship with you.
-
-Effective Date: August 4, 2008
-
-Copyright 2008 IntenseDebate Corporation. All rights reserved.
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a wordpress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
