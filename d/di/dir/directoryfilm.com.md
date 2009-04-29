@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926091959id_/http%3A//www.directoryfilm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfilm.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430014911id_/http%3A//www.directoryfilm.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy, Film directory, cinemas, radio, television, film productions, actors, actresses
 
@@ -21,4 +21,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@directoryfilm.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
