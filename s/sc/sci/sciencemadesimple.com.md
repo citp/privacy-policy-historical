@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062003id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429023532id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
 
 # Science Made Simple Privacy Policy
 
