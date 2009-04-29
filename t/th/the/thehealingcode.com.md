@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealingcode.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220193224id_/http%3A//www.thehealingcode.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealingcode.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429094836id_/http%3A//www.thehealingcode.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
