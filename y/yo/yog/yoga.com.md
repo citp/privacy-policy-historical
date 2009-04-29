@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoga.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024204id_/http%3A//www.yoga.com/ydc/corporate/corporate_category.asp%3Fsection%3D11%26cat%3D192) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoga.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429204017id_/http%3A//yoga.com/ydc/corporate/corporate_category.asp%3Fsection%3D11%26cat%3D192) for the most accurate reproduction.*
 
 # corporate: privacy policy :: Yoga.com
 
