@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104558id_/http%3A//www.mynewplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429031129id_/http%3A//www.mynewplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
@@ -22,7 +22,7 @@ Multifamily Technology Solutions, Inc. wants your experience to be satisfying an
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole.  
 We may link this automatically-collected data to Personally Identifiable Information.  
-We use a third-party tracking service called WebSideStory that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. For information regarding WebSideStory's data collection and privacy practices, please visit <http://www.websidestory.com/privacy/privacy-policy.html>.
+We use third-party tracking services through Omniture that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. For information regarding Omniture's data collection and privacy practices, please visit <http://www.omniture.com/en/privacy/policy>.
 
 ### Personally Identifiable Information
 
