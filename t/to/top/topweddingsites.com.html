@@ -1,319 +1,581 @@
-<!--The following is the downloaded HTML source of the topweddingsites.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221102501id_/http%3A//www.topweddingsites.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topweddingsites.com privacy policy that was archived on 2009-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429160417id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/inner_1column.dwt" codeOutsideHTMLIsLocked="false" --><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    	<title>TeamWedding.Com</title>
+    	<link href="http://www.topweddingsites.com/_include/css/generic.css" rel="stylesheet" type="text/css">
+	<link href="http://www.topweddingsites.com/_include/css/main.css" rel="stylesheet" type="text/css">
+	<link href="http://www.topweddingsites.com/_include/css/cycle.css" rel="stylesheet" type="text/css">
 
-<title>Privacy Policy Team Wedding, Home of Top Wedding Sites </title>
+    <!--[if IE 6]>
+    <style type="text/css">
+    #cat-sel li a {
+      margin-right:4px;
+      margin-left:4px;
+        }
+    #cat-sel li a:hover {
+      margin-right:4px;
+      margin-left:4px;
+    }
+    .tooltip {
+        width:276px;
+        overflow:hidden;
+    }
+    </style>
+    <![endif]-->
+
+	<script language="javascript" type="text/javascript" src="http://www.topweddingsites.com/_include/js/main.js"></script>
+    <script language="javascript" type="text/javascript" src="http://www.topweddingsites.com/_include/js/rollover.js"></script>
+
+	<!--[if IE 6]>
+
+	<script type="text/javascript" language="Javascript">
+          var supersleight=function(){var root=false;
+          	var applyPositioning=true;
+          	var shim='http://www.topweddingsites.com/_include/gui/x.gif';
+          	var shim_pattern=/x\.gif$/i;
+          var fnLoadPngs=function(){if(root){root=document.getElementById(root);}else{root=document;}
+          for(var i=root.all.length-1,obj=null;(obj=root.all[i]);i--){if(obj.currentStyle.backgroundImage.match(/\.png/i)!==null){bg_fnFixPng(obj);}
+          if(obj.tagName=='IMG'&&obj.src.match(/\.png$/i)!==null){el_fnFixPng(obj);}
+          if(applyPositioning&&(obj.tagName=='A'||obj.tagName=='INPUT')&&obj.style.position===''){obj.style.position='relative';}}};var bg_fnFixPng=function(obj){var mode='scale';var bg=obj.currentStyle.backgroundImage;var src=bg.substring(5,bg.length-2);if(obj.currentStyle.backgroundRepeat=='no-repeat'){mode='crop';}
+          obj.style.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+src+"', sizingMethod='"+mode+"')";obj.style.backgroundImage='url('+shim+')';};var el_fnFixPng=function(img){var src=img.src;img.style.width=img.width+"px";img.style.height=img.height+"px";img.style.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+src+"', sizingMethod='scale')";img.src=shim;};var addLoadEvent=function(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){if(oldonload){oldonload();}
+          func();};}};return{init:function(){addLoadEvent(fnLoadPngs);},limitTo:function(el){root=el;},run:function(){fnLoadPngs();}};}();supersleight.init();
+	</script>
+
+	<![endif]-->
 
 
+	<script language="JavaScript" src="http://www.topweddingsites.com/_include/js/jquery.min.js" type="text/javascript"></script>
+	<script language="JavaScript" src="http://www.topweddingsites.com/_include/js/jquery.cycle.all.js?v2.11" type="text/javascript"></script>
 
-<script type="text/javascript" src="/redes/anylink.js">
-</script>
-<script type="text/JavaScript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-//-->
-</script>
+	<script type="text/javascript">
+	$(function() {
+	    $('#slideshow').cycle({
+	        fx:     'fade',
+	        speed:  1300,
+	        timeout: 5700,
+	        pager:  '#nav',
+	        pagerAnchorBuilder: function(idx, slide) {
+	            // return sel string for existing anchor
+	            return '#nav li:eq(' + (idx) + ') a';
+	        }
+	    });
+	    $('li a').click(function() {
+	        $('#slideshow').cycle('pause');
+	    });
+		$('#pauseButton').click(function() {
+		    $('#slideshow').cycle('pause');
+		});
+		$('#resumeButton').click(function() {
+		    $('#slideshow').cycle('resume');
+		});
+	});
+  </script>
 
-<link href="/redes/wedding-planning.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="/redes/anylink.css">
-<meta name="robots" content="noodp,noydir">
+  <script language="JavaScript" type="text/javascript">
+	     $(function() {
+	       $('#faq .accContent').hide().end()
+		   .find('.accToggler').click(function() {
+	         this.className = this.className == 'accToggler' ?
+	'accTogglerOpen' : 'accToggler';
+	         $(this).next().slideToggle();
+	       });
+
+			$('#faq').find('.accToggler:first').removeClass("accToggler").addClass("accToggler ");
+
+	       $('#faq p.close').click(function() {
+	         $(this).parent().slideUp()
+	         .prev().removeClass('accTogglerOpen').addClass('accToggler');
+	       });
+	     });
+	</script>
+
+<script src="http://www.topweddingsites.com/_include/js/jquery.flash.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.topweddingsites.com/_include/js/jquery.sifr.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript">
+    $(function () {
+    	$.sifr({ path:'http://www.topweddingsites.com/_include/gui/fonts' });
+        $('h1').sifr({ font:'univers', textTransform: 'uppercase', textAlign: 'left', offsetTop: -5, color: '#ffffff'  });
+        $('.longer').sifr({ font:'univers', textTransform: 'uppercase', textAlign: 'left', offsetTop: 1, color: '#ffffff'  });
+        $('.tabtitle-left').sifr({ font:'univers', textTransform: 'uppercase', textAlign: 'left', height: 16, offsetTop: -2  });
+        $('.tabtitle-right').sifr({ font:'univers', textTransform: 'uppercase',textAlign: 'right', height: 16, offsetTop: -2  });
+        $('.pinktitle-left').sifr({ font:'univers', textTransform: 'uppercase',textAlign: 'left',  offsetTop: 0  });
+        $('.blog-title').sifr({ font:'univers', textTransform: 'uppercase',textAlign: 'left', offsetTop: 0  });
+    });
+    </script>
+
+<script type="text/javascript" src="http://www.topweddingsites.com/_include/js/jquery.dimensions.js"></script>
+<script type="text/javascript" src="http://www.topweddingsites.com/_include/js/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="http://www.topweddingsites.com/_include/js/jquery.hoverintent.js"></script>
+<script type="text/javascript" src="http://www.topweddingsites.com/_include/js/jquery.levitip.js"></script>
+
+
 </head>
 
 <body>
-<table width="778" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="123" colspan="3">
-	<table width="776" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="top"><a href="/"><img src="/wedding-planning/wedding-planning.jpg" alt="Team Wedding: Wedding Planning, Shopping, Information and Links" width="262" height="111" border="0"></a></td>
 
-        <td align="right" valign="top">
+<div id="top" onmouseover="javascript:hide('cate-on');hide('local-on');">
+	<div id="logo"><a href="http://www.topweddingsites.com/"><img src="http://www.topweddingsites.com/_include/gui/top/logo.gif" width="284" height="118" alt="Team Wedding"></a></div>
+	<div id="login">
+		<div id="loginTitle"><img src="http://www.topweddingsites.com/_include/gui/titles/wedding_pros_member_login.png" width="176" height="11" alt="Wedding Pros Member Login"></div>
+		<form action="/member/" method="POST" name="loginForm">
+		<table border="0" cellspacing="0" cellpadding="0" id="loginForm">
+			<tbody><tr>
+				<td><label for="username">Username:</label></td>
+				<td><input type="text" name="username" id="username" style="margin: 0px 10px 0px 5px; width: 100px;">
+				</td>
+				<td><label for="password">Password:</label></td>
+				<td><input type="password" name="password" id="password" style="margin: 0px 10px 0px 5px; width: 100px;"></td>
+				<td width="25"><input type="image" style="border:0px" src="http://www.topweddingsites.com/_include/gui/buttons/go.png" width="25" height="22" alt="GO"></td>
+			</tr>
+		</tbody></table>
+		</form>
+		<div id="loginLinks"><a href="/member/forgot.php">Forgot your login?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.topweddingsites.com/member/register.php">Not a member? Signup</a><br> </div>
 
-		<table width="92%" border="0">
-            <tbody><tr>
-              <td>&nbsp;</td>
-            </tr>            <tr>
-              <td><div align="center" class="statetext"><strong>You Are Viewing:</strong></div></td>
-            </tr>
-            <tr>
-              <td><div align="center"><span class="state">USA &amp; Online</span></div></td>
-            </tr>
-            <tr>
-              <td align="center"><div id="qm0" class="qmmc">
-        <a href="#"><img src="/images/sample-background.gif" alt="change locations" border="0"></a>
-                <div>
-                <table>
-                <tbody><tr>
-                <td align="center" valign="top" colspan="4" height="40">
-  <b>Online Wedding Planning</b><br>
-                    <a href="http://www.topweddingsites.com">United States Weddings</a>
-</td></tr><tr><td align="center" valign="top" colspan="4">
- <b>Regional&nbsp;&amp;&nbsp;International&nbsp;Wedding&nbsp;Planning</b>
-</td></tr>
-<tr><td height="24" valign="top" align="right" colspan="2">                    
-<a href="http://www.topweddingsites.co.uk">UK/Ireland Weddings</a>
-</td><td valign="top" align="left" colspan="2">
-<a href="http://www.teamwedding.ca">Canada Weddings</a>
-</td></tr>
+	</div>
+	<div class="clear"><hr></div>
 
-<tr><td colspan="4" align="center"><b>State Wedding Sites</b></td></tr>
-<tr><td valign="top" align="left">
-	
-		    <a href="http://www.topweddingsites.com/Alabama">Alabama</a>
-                    <a href="http://www.topweddingsites.com/Alaska">Alaska</a>
-                    <a href="http://www.topweddingsites.com/Arizona">Arizona</a>
-                    <a href="http://www.topweddingsites.com/Arkansas">Arkansas</a>
-                    <a href="http://www.topweddingsites.com/California">California</a>
-                    <a href="http://www.topweddingsites.com/Colorado">Colorado</a>
-                    <a href="http://www.topweddingsites.com/Connecticut">Connecticut</a>
-                    <a href="http://www.topweddingsites.com/Delaware">Delaware</a>
-                    <a href="http://www.topweddingsites.com/Maryland">D. C.</a>
-                    <a href="http://www.topweddingsites.com/Florida">Florida</a>
-                    <a href="http://www.topweddingsites.com/Georgia">Georgia</a>
-                    <a href="http://www.topweddingsites.com/Hawaii">Hawaii</a>
-                    <a href="http://www.topweddingsites.com/Idaho">Idaho</a>
-                    <a href="http://www.topweddingsites.com/Illinois">Illinois</a>
-                    <a href="http://www.topweddingsites.com/Indiana">Indiana</a>
-                    <a href="http://www.topweddingsites.com/Iowa">Iowa</a>
-                    <a href="http://www.topweddingsites.com/Kansas">Kansas</a>
-
-</td><td valign="top" align="left" colspan="2">
-                    <a href="http://www.topweddingsites.com/Kentucky">Kentucky</a>
-                    <a href="http://www.topweddingsites.com/Louisiana">Louisiana</a>
-                    <a href="http://www.topweddingsites.com/Maine">Maine</a>
-                    <a href="http://www.topweddingsites.com/Maryland">Maryland</a>
-                    <a href="http://www.topweddingsites.com/Massachusetts">Massachusetts</a>
-                    <a href="http://www.topweddingsites.com/Michigan">Michigan</a>
-                    <a href="http://www.topweddingsites.com/Minnesota">Minnesota</a>
-                    <a href="http://www.topweddingsites.com/Mississippi">Mississippi</a>
-                    <a href="http://www.topweddingsites.com/Missouri">Missouri</a>
-                    <a href="http://www.topweddingsites.com/Montana">Montana</a>
-                    <a href="http://www.topweddingsites.com/Nebraska">Nebraska</a>
-                    <a href="http://www.topweddingsites.com/Nevada">Las Vegas, Nevada</a>
-                    <a href="http://www.topweddingsites.com/New-Hampshire">New Hampshire</a>
- <a href="http://www.topweddingsites.com/New-Jersey">New Jersey</a>
-                    <a href="http://www.topweddingsites.com/New-Mexico">New Mexico</a>
-                    <a href="http://www.topweddingsites.com/New-York">New York</a>
-		    <a href="http://www.topweddingsites.com/North-Carolina">North Carolina</a>
-</td><td valign="top" align="left">
-                    <a href="http://www.topweddingsites.com/North-Dakota">North Dakota</a>
-                    <a href="http://www.topweddingsites.com/Ohio">Ohio</a>
-                    <a href="http://www.topweddingsites.com/Oklahoma">Oklahoma</a>
-                    <a href="http://www.topweddingsites.com/Oregon">Oregon</a>
-                    <a href="http://www.topweddingsites.com/Pennsylvania">Pennsylvania</a>
-                    <a href="http://www.topweddingsites.com/Rhode-Island">Rhode Island</a>
-                    <a href="http://www.topweddingsites.com/South-Carolina">South Carolina</a>
-                    <a href="http://www.topweddingsites.com/South-Dakota">South Dakota</a>
-                    <a href="http://www.topweddingsites.com/Tennessee">Tennessee</a>
-                    <a href="http://www.topweddingsites.com/Texas">Texas</a>
-                    <a href="http://www.topweddingsites.com/Utah">Utah</a>
-                    <a href="http://www.topweddingsites.com/Vermont">Vermont</a>
-                    <a href="http://www.topweddingsites.com/Virginia">Virginia</a>
-                    <a href="http://www.topweddingsites.com/Washington">Washington</a>
-                    <a href="http://www.topweddingsites.com/West-Virginia">West Virginia</a>
-                    <a href="http://www.topweddingsites.com/Wisconsin">Wisconsin</a>
-                    <a href="http://www.topweddingsites.com/Wyoming">Wyoming</a>
-                </td>
-                </tr>
-                </tbody></table> </div>
-<span class="qmclear">&nbsp;</span>
-                </div></td>
-            </tr>
-          </tbody></table>
-
-<script type="text/javascript">qm_create(0,false,0,500,false,false,false,false);</script>
-
-        </td>
-        <td align="right" valign="top"><table width="271" border="0" cellpadding="5" cellspacing="0" class="login-background">
-            <tbody><tr>
-              <td valign="top"><form name="login" id="login" action="/rank/accounts.cgi" method="post">
-			<table width="253" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td height="24" colspan="2"><div align="center" class="logintitle">Wedding Pros Member Login </div></td>
-              </tr>
-              <tr>
-                <td>
-                 <table width="202" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                          <td width="80"><div align="center"><strong>username</strong></div></td>
-                          <td width="121"><input name="Username" type="text" class="textbox-login" size="15"></td>
-                        </tr>
-                        <tr>
-                          <td width="80"><div align="center"><strong>password</strong></div></td>
-                           <td width="121"><input name="Password" type="password" class="textbox-login" size="15"></td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                <td width="44"><input name="Run" type="hidden" id="Run" value="DisplayMenu">
-                  <input type="image" src="/weddings/login-button.jpg" name="Submit" value="Submit"></td>
-              </tr>
-              <tr>
-                <td colspan="2"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                  <tbody><tr>
-                    <td height="25"><span class="login-text"><a href="/rank/accounts.cgi?remind">Forgot your password?</a></span></td>
-                    <td><span class="login-text"><a href="/signup/page_1.htm">Not a member? Signup</a></span></td>
-                  </tr>
-                </tbody></table></td>
-                </tr>
-              </tbody></table>
-			</form></td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3" align="center">
-	<table width="777" border="0" class="navbar">
-      <tbody><tr valign="top">
-        <td align="center" class="toppadding"><table border="0" align="left" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="10">&nbsp;</td>
-              <td width="55"><div align="center"><a href="http://www.topweddingsites.com/" class="navigationtext">Home</a></div></td>
-              <td width="55"><div align="center"><a href="http://www.topweddingsites.com/shopping/" class="navigationtext">Shop</a></div></td>
-              <td width="65"><div align="center"><a href="http://www.topweddingsites.com/coupons/index.html" class="navigationtext">Coupons</a></div></td>
-              <td width="60"><div align="center"><a href="http://www.topweddingsites.com/wedding-blog/" class="navigationtext" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')">Blog</a> </div>
-                  <div id="anylinkmenu1" class="anylinkcss" align="left"> <a href="http://www.topweddingsites.com/wedding-blog/" class="footerboxsub">Wedding Planning Blog</a> <a onclick="window.open('http://www.topweddingsites.com/subscribe.html', 'signup', 'menubar=no, location=no, toolbar=no, scrollbars=yes, height=500, width=340'); return false;" href="http://www.topweddingsites.com/subscribe.html" class="footerboxsub">Get Blog Updates by Email</a> </div></td>
-              <td width="85"><div align="center"><a href="http://www.topweddingsites.com/advertise.html" class="navigationtext" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')">Advertisers</a></div>
-                  <div id="anylinkmenu2" class="anylinkcss" align="left"> <a href="http://www.topweddingsites.com/advertise.html" class="footerboxsub">Advertise</a><a href="http://www.topweddingsites.com/rank/quick.php" class="footerboxsub">Team Wedding Member Sites</a> <a href="http://www.topweddingsites.com/rank/login.htm" class="footerboxsub">Get Voting Code &amp; Member Login</a> <a href="http://www.topweddingsites.com/rules.html" class="footerboxsub">Program Rules</a> <a href="http://www.topweddingsites.com/faq.htm" class="footerboxsub">Help</a> </div></td>
-              <td width="60"><div align="center"><a href="http://www.topweddingsites.com/faq.htm" class="navigationtext" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')">About</a> </div>
-                  <div id="anylinkmenu3" class="anylinkcss" align="left"> <a href="http://www.topweddingsites.com/sitemap.html" class="footerboxsub">Sitemap</a> <a href="http://www.topweddingsites.com/terms.htm" class="footerboxsub">Terms</a> <a href="http://www.topweddingsites.com/privacy.htm" class="footerboxsub">Privacy Policy</a> <a href="http://www.topweddingsites.com/contact.php" class="footerboxsub">Contact</a></div></td>
-<td>
-<div align="center">
-<a href="" class="navigationtext" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')">Browse by Category</a></div>
-<div id="anylinkmenu4" class="anylinkcss" align="left">
-<table><tbody><tr><td valign="top" align="left">
-<a class="footerboxsub" href="/wedding_accessories.html">Accessories</a>
-<a class="footerboxsub" href="/wedding-accommodations.html">Accommodations</a>
-<a class="footerboxsub" href="/bachelor-and-bachelorette-party.html">Bachelor &amp; Bachelorette</a>
-<a class="footerboxsub" href="/beauty-and-cosmetics.html">Beauty &amp; Cosmetics</a>
-<a class="footerboxsub" href="/wedding-books-magazines.html">Books &amp; Publications</a>
-<a class="footerboxsub" href="/wedding-dress.html">Bridal &amp; Formal Wear</a>
-<a class="footerboxsub" href="http://www.topweddingsites.com/wedding-bridal-showers.html">Bridal Showers</a>
-<a class="footerboxsub" href="/bridal_shows.html">Bridal Shows &amp; Events</a>
-<a class="footerboxsub" href="/wedding-cakes.html">Cakes &amp; Bakers</a>
-<a class="footerboxsub" href="/catering.html">Catering &amp; Food</a>
-<a class="footerboxsub" href="/ceremony.html">Ceremony &amp; Vows</a>
-<a class="footerboxsub" href="/clergy-officiant.html">Clergy &amp; Officiants</a>
-<a class="footerboxsub" href="/wedding_planner_consultants.html">Consultants</a>
-<a class="footerboxsub" href="/wedding-decorations.html">Decorations</a>
-<a class="footerboxsub" href="http://www.topweddingsites.com/destination-weddings-honeymoons.html">Destination Weddings</a>
-<a class="footerboxsub" href="/directories-guides.html">Directories, Guides &amp; Blogs</a>
-<a class="footerboxsub" href="/wedding-etiquette.html">Etiquette</a>
-<a class="footerboxsub" href="/wedding-favors.html">Favors</a>
-<a class="footerboxsub" href="/finance-and-investment.html">Finance &amp; Investment</a>
-<a class="footerboxsub" href="/wedding-flowers.html">Flowers</a>
-</td><td valign="top" align="left">
-<a class="footerboxsub" href="/gifts-and-registry.html">Gifts &amp; Registry</a>
-<a class="footerboxsub" href="/health-and-fitness.html">Health &amp; Fitness</a>
-<a class="footerboxsub" href="/honeymoon-and-travel.html">Honeymoon &amp; Travel</a>
-<a class="footerboxsub" href="/wedding_invitations_announcements.html">Invitations &amp; Printing</a>
-<a class="footerboxsub" href="/wedding-bands-engagement-rings.html">Jewelry</a>
-<a class="footerboxsub" href="/legal-services.html">Legal Services</a>
-<a class="footerboxsub" href="/wedding-music.html">Music &amp; Entertainment</a>
-<a class="footerboxsub" href="/new_home.html">New Home</a>
-<a class="footerboxsub" href="/other.html">Other Services</a>
-<a class="footerboxsub" href="/party-supply-rental.html">Party Supply &amp; Rental</a>
-<a class="footerboxsub" href="/wedding-photo.html">Photography</a>
-<a class="footerboxsub" href="/reception_sites.html">Reception Sites</a>
-<a class="footerboxsub" href="/wedding-speeches-wedding-toasts.html">Speeches &amp; Toasts</a>
-<a class="footerboxsub" href="/wedding-transportation.html">Transportation</a>
-<a class="footerboxsub" href="/wedding-videography.html">Videography</a>
-<a class="footerboxsub" href="/wedding_websites.html">Website Design Service</a>
-</td></tr></tbody></table>
 </div>
-</td></tr></tbody></table>
-        </td>
-        <td width="125" align="center">
-		 <form name="searchForm" action="/rank/search.cgi" method="get"><table cellpadding="0" cellspacing="0"><tbody><tr><td>
-          <input name="key" type="text" style="font-size:12px" value="search for ..." size="25" onclick="clear_textbox()">
-        </td>
-        <td><input type="image" src="/weddings/login-button.jpg" name="Submit" value="Submit"></td></tr></tbody></table></form></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  
-  <tr>
-    <td colspan="3" valign="top" class="catartboxheadtext">&nbsp;</td>
-  </tr>
-  <tr valign="middle">
-    <td height="46" colspan="3" class="footer_bg"><table width="100%" border="0">
-      <tbody><tr>
-        <td>
-  
-  <h1 align="left">Privacy Policy </h1>
-<div align="center">
-  
-  <table border="0" cellspacing="6" width="100%" bgcolor="#FFFFFF" cellpadding="3">
-    <tbody><tr><td width="100%" height="62"><div align="left"><strong>The Information Collected and How it is Used
-        </strong>
-        <ul>
-          <li><strong>Cookies &amp; IP Addresses</strong><br>
-            Our network uses cookies and IP Addresses broadly to collect anonymous user information for statistical and record keeping purposes and to limit and block abuse of the network resources and services and to administer our servers.</li>
-                      </ul>
-                      <ul>
-                        <li><strong>E-mail &amp; Demographic Data</strong>&nbsp;<br>
-                          Our site's registration forms requires users to give us contact information (like name and email address) and demographic information (interests and business information). We use customer contact information from the registration form to send you information that may help your business grow or to offer emailed wedding information. The customer's contact information is also used to contact the member when necessary (i.e. customer service issues). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. In order to ensure that TeamWedding.com is able to provide a high quality service you must consent to any TeamWedding.com employees and/or authorized parties having access to your account and records.</li>
-                      </ul>
-                      <ul>
-                        <li><strong>Online Surveys </strong>We reserve the right to conduct completely voluntary online surveys where we ask for contact information and solicit feedback on various topics from visitors. We use the collected data from such surveys to fine tune our product and service offerings. And we use contact data to follow-up with you to highlight the changes we have made to our business based on your feedback.</li>
-                      </ul>
-                      <ul>
-                        <li><strong>Contests &amp; Drawings</strong><br>
-                          We reserve the right to run contests and/or drawings on our site from time to time where we may ask for your name, wedding date, and e-mail address. We use this information to administer the promotion as well as to provide you with special offers from our advertisers and partners. Please note that any emails from TeamWedding.com resulting from entry into a contest or drawing are considered solicted emails and should not be considered spam.</li>
-                      </ul>
-              </div>              <p align="left"><strong>Security&nbsp;</strong></p>
-                  <p align="left">All data collected at TopWeddingSites™ is protected by a secure server certificate against unauthorized access. Personally identifiable information such as names, addresses, credit card numbers and other information is stored securely offline. However, users alone are responsible for maintaining the confidentiality and security of their account number and/or password for their accounts. You are personally liable and responsible for any use of your account whether or not expressly autorized by you. </p>
+
+		<div id="menu">
+	<div class="menuBrd"><!--  --></div>
+		<div id="menuItems">
+            <div class="fl" onmouseover="javascript:hide('cate-on');hide('local-on');"><a href="http://www.topweddingsites.com/"><img src="http://www.topweddingsites.com/_include/gui/menu/home_off.gif" width="75" height="42" alt="Home"></a></div>
+            <div class="fl" onmouseover="javascript:hide('cate-on');hide('local-on');"><a href="http://www.topweddingsites.com/shopping/"><img src="http://www.topweddingsites.com/_include/gui/menu/shop_off.gif" width="71" height="42" alt="Shop"></a></div>
+            <div class="fl" onmouseover="javascript:hide('cate-on');hide('local-on');"><a href="http://www.topweddingsites.com/coupons/"><img src="http://www.topweddingsites.com/_include/gui/menu/coupons_off.gif" width="93" height="42" alt="Coupons"></a></div>
+            <div class="fl">
+                <div class="rel" style="z-index:930; height:42px; width:176px;">
+
+                    <div id="cate-off" onmouseover="javascript:show('cate-on');">
+                        <img src="http://www.topweddingsites.com/_include/gui/menu/browse_off.gif" width="176" height="42" alt="Browse By Category">
+                    </div>
+
+                    <div id="cate-on" style="display:none; position:absolute; top:0px; left:0px; z-index:999;" onmouseout="javascript:hide('cate-on');">
+
+                         <table cellpadding="0" cellspacing="0" onmouseover="javascript:show('cate-on');hide('local-on');">
+                           <tbody><tr>
+                             <td class="onbg"><img src="http://www.topweddingsites.com/_include/gui/menu/cate-on1.gif" width="176" height="42" alt=""></td>
+                             <td><img src="http://www.topweddingsites.com/_include/gui/menu/shadow-right.png" width="7" height="42" alt=""></td>
+                           </tr>
+                         </tbody></table>
+
+                         <table cellpadding="0" cellspacing="0" onmouseover="javascript:show('cate-on');hide('local-on');">
+                           <tbody><tr>
+                             <td class="cate-body" style="background-image: url(http://www.topweddingsites.com/_include/gui/menu/catbg.gif); background-position:top left; background-repeat:no-repeat;">
+                                    <div class="whitie">
+                                    <table cellpadding="0" cellspacing="0">
+                                      <tbody><tr>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/wedding_accessories.html">Accessories</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-accommodations.html">Accommodations</a><br>
+                                            <a href="http://www.topweddingsites.com/bachelor-and-bachelorette-party.html">Bachelor &amp; Bachelorette</a><br>
+                                            <a href="http://www.topweddingsites.com/beauty-and-cosmetics.html">Beauty &amp; Cosmetics</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-books-magazines.html">Books &amp; Publications</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-dress.html">Bridal &amp; Formal Wear</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-bridal-showers.html">Bridal Showers</a><br>
+                                            <a href="http://www.topweddingsites.com/bridal_shows.html">Bridal Shows &amp; Events</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-cakes.html">Cakes &amp; Bakers</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/catering.html">Catering &amp; Food</a><br>
+                                            <a href="http://www.topweddingsites.com/ceremony.html">Ceremony &amp; Vows</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding_ceremony_music.html">Ceremony Music</a>
+                                            <a href="http://www.topweddingsites.com/clergy-officiant.html">Clergy &amp; Officiants</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding_planner_consultants.html">Consultants</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-decorations.html">Decorations</a><br>
+                                            <a href="http://www.topweddingsites.com/destination-weddings-honeymoons.html">Destination Weddings</a><br>
+                                            <a href="http://www.topweddingsites.com/directories-guides.html">Directories, Guides &amp; Blogs</a><br>
+											<a href="http://www.topweddingsites.com/wedding-etiquette.html">Etiquette</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-favors.html">Favors</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/finance-and-investment.html">Finance &amp; Investment</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-flowers.html">Flowers</a><br>
+                                            <a href="http://www.topweddingsites.com/gifts-and-registry.html">Gifts &amp; Registry</a><br>
+                                            <a href="http://www.topweddingsites.com/health-and-fitness.html">Health &amp; Fitness</a><br>
+                                            <a href="http://www.topweddingsites.com/honeymoon-and-travel.html">Honeymoon &amp; Travel</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding_invitations_announcements.html">Invitations &amp; Printing</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-bands-engagement-rings.html">Jewelry</a><br>
+                                            <a href="http://www.topweddingsites.com/legal-services.html">Legal Services</a><br>
+                                            <a href="http://www.topweddingsites.com/wedding-music.html">Music &amp; Entertainment</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/new_home.html">New Home</a><br>
+                                            <a href="http://www.topweddingsites.com/other.html">Other Services</a>
+                                            <a href="http://www.topweddingsites.com/party-supply-rental.html">Party Supply &amp; Rental</a>
+                                            <a href="http://www.topweddingsites.com/wedding-photo.html">Photography </a>
+                                            <a href="http://www.topweddingsites.com/wedding_reception_music.html">Reception Music</a>
+                                            <a href="http://www.topweddingsites.com/reception_sites.html">Reception Sites</a>
+                                            <a href="http://www.topweddingsites.com/wedding-speeches-wedding-toasts.html">Speeches &amp; Toasts</a>
+                                            <a href="http://www.topweddingsites.com/wedding-transportation.html">Transportation</a>
+                                            <a href="http://www.topweddingsites.com/wedding-videography.html">Videography</a>
+                                            <a href="http://www.topweddingsites.com/wedding_websites.html">Website Design Service</a>
+                                        </td>
+                                      </tr>
+                                    </tbody></table>
+                             </div></td>
+                             <td class="shaddow-right"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="7" height="1" alt=""></td>
+                           </tr>
+                           <tr><td class="shaddow-b"></td><td><img src="http://www.topweddingsites.com/_include/gui/menu/shadowcorner.png" width="7" height="8" alt=""></td></tr>
+                         </tbody></table>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="fl">
+                <div class="rel" style="z-index:920; width:109px; height:42px;">
+                    <div class="local-off" onmouseover="javascript:show('local-on');hide('local-off');">
+                        <img src="http://www.topweddingsites.com/_include/gui/menu/go_local_off.gif" width="109" height="42" alt="Go Local!">
+                    </div>
+
+                    <div id="local-on" style="display:none; position:absolute; top:0px; left:0px; z-index:938;" onmouseout="javascript:hide('local-on');show('local-off');">
+
+                         <table cellpadding="0" cellspacing="0">
+                           <tbody><tr>
+                             <td class="onbg"><img src="http://www.topweddingsites.com/_include/gui/menu/local-on1.gif" width="109" height="42" alt="" onmouseover="javascript:show('local-on');hide('cate-on');hide('local-off');"></td>
+                             <td><img src="http://www.topweddingsites.com/_include/gui/menu/shadow-right.png" width="7" height="42" alt=""></td>
+                             <td><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="117" height="42" alt="" onmouseover="javascript:hide('local-on');show('local-off');"></td>
+                           </tr>
+                         </tbody></table>
+
+                         <table cellpadding="0" cellspacing="0" onmouseover="javascript:show('local-on');hide('cate-on');hide('local-off');">
+                           <tbody><tr>
+                             <td class="cate-body" style="background-image: url(http://www.topweddingsites.com/_include/gui/menu/localbg.gif); background-position:top left; background-repeat:no-repeat;"><div class="whitie">
+                                    <table cellpadding="0" cellspacing="0">
+                                      <tbody><tr>
+                                        <td class="vt catrow">
+                                            <a style="font-size: 110%" href="http://www.topweddingsites.com/">USA &amp; Online</a><br>
+                                            <a style="font-size: 110%" href="http://www.teamwedding.ca/">Canada</a><br>
+                                            <a style="font-size: 110%" href="http://www.topweddingsites.co.uk/">UK &amp; Ireland</a><br><br>
+                                            <a href="http://www.topweddingsites.com/Alabama/">Alabama</a><br>
+                                            <a href="http://www.topweddingsites.com/Alaska/">Alaska</a><br>
+                                            <a href="http://www.topweddingsites.com/Arizona/">Arizona</a><br>
+                                            <a href="http://www.topweddingsites.com/Arkansas/">Arkansas</a><br>
+                                            <a href="http://www.topweddingsites.com/California/">California</a><br>
+                                            <a href="http://www.topweddingsites.com/Colorado/">Colorado</a><br>
+                                            <a href="http://www.topweddingsites.com/Connecticut/">Connecticut</a><br>
+                                            <a href="http://www.topweddingsites.com/Delaware/">Delaware</a><br>
+                                            <a href="http://www.topweddingsites.com/Maryland/">D. C.</a><br>
+                                            <a href="http://www.topweddingsites.com/Florida/">Florida</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/Georgia/">Georgia</a><br>
+                                            <a href="http://www.topweddingsites.com/Hawaii/">Hawaii</a><br>
+                                            <a href="http://www.topweddingsites.com/Idaho/">Idaho</a><br>
+                                            <a href="http://www.topweddingsites.com/Illinois/">Illinois</a><br>
+                                            <a href="http://www.topweddingsites.com/Indiana/">Indiana</a><br>
+                                            <a href="http://www.topweddingsites.com/Iowa/">Iowa</a><br>
+                                            <a href="http://www.topweddingsites.com/Kansas/">Kansas</a><br>
+                                            <a href="http://www.topweddingsites.com/Kentucky/">Kentucky</a><br>
+                                            <a href="http://www.topweddingsites.com/Nevada/">Las Vegas</a><br>
+                                            <a href="http://www.topweddingsites.com/Louisiana/">Louisiana</a><br>
+                                            <a href="http://www.topweddingsites.com/Maine/">Maine</a><br>
+                                            <a href="http://www.topweddingsites.com/Maryland/">Maryland</a><br>
+                                            <a href="http://www.topweddingsites.com/Massachusetts/">Massachusetts</a><br>
+                                            <a href="http://www.topweddingsites.com/Michigan/">Michigan</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/Minnesota/">Minnesota</a><br>
+                                            <a href="http://www.topweddingsites.com/Mississippi/">Mississippi</a><br>
+                                            <a href="http://www.topweddingsites.com/Missouri/">Missouri</a><br>
+                                            <a href="http://www.topweddingsites.com/Montana/">Montana</a><br>
+                                            <a href="http://www.topweddingsites.com/Nebraska/">Nebraska</a><br>
+                                            <a href="http://www.topweddingsites.com/Nevada/">Nevada</a><br>
+                                            <a href="http://www.topweddingsites.com/New-Hampshire/">New Hampshire</a><br>
+                                            <a href="http://www.topweddingsites.com/New-Jersey/">New Jersey</a><br>
+                                            <a href="http://www.topweddingsites.com/New-Mexico/">New Mexico</a><br>
+                                            <a href="http://www.topweddingsites.com/New-York/">New York</a><br>
+                                            <a href="http://www.topweddingsites.com/North-Carolina/">North Carolina</a><br>
+                                            <a href="http://www.topweddingsites.com/North-Dakota/">North Dakota</a><br>
+                                            <a href="http://www.topweddingsites.com/Ohio/">Ohio</a><br>
+                                            <a href="http://www.topweddingsites.com/Oklahoma/">Oklahoma</a><br>
+                                        </td>
+                                        <td class="dividetopmenu"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="1" alt=""></td>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/Oregon/">Oregon</a><br>
+                                            <a href="http://www.topweddingsites.com/Pennsylvania/">Pennsylvania</a><br>
+                                            <a href="http://www.topweddingsites.com/Rhode-Island/">Rhode Island</a><br>
+                                            <a href="http://www.topweddingsites.com/South-Carolina/">South Carolina</a><br>
+                                            <a href="http://www.topweddingsites.com/South-Dakota/">South Dakota</a><br>
+                                            <a href="http://www.topweddingsites.com/Tennessee/">Tennessee</a><br>
+                                            <a href="http://www.topweddingsites.com/Texas/">Texas</a><br>
+                                            <a href="http://www.topweddingsites.com/Utah/">Utah</a><br>
+                                            <a href="http://www.topweddingsites.com/Vermont/">Vermont</a><br>
+                                            <a href="http://www.topweddingsites.com/Virginia/">Virginia</a><br>
+                                            <a href="http://www.topweddingsites.com/Washington/">Washington</a><br>
+                                            <a href="http://www.topweddingsites.com/West-Virginia/">West Virginia</a><br>
+                                            <a href="http://www.topweddingsites.com/Wisconsin/">Wisconsin</a><br>
+                                            <a href="http://www.topweddingsites.com/Wyoming/">Wyoming</a><br>
+                                        </td>
+                                      </tr>
+                                    </tbody></table>
+                             </div></td>
+                             <td class="shaddow-right"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="7" height="1" alt=""></td>
+                           </tr>
+                           <tr><td class="shaddow-b"></td><td><img src="http://www.topweddingsites.com/_include/gui/menu/shadowcorner.png" width="7" height="8" alt=""></td></tr>
+                         </tbody></table>
+
+                    </div>
+                </div>
+
+            </div>
+
+			<div class="fl">
+                <div class="rel" style="z-index:920; width:99px; height:42px;">
+                    <div class="about-off" onmouseover="javascript:show('about-on');hide('about-off');">
+                        <img src="http://www.topweddingsites.com/_include/gui/menu/about_us_off.gif" width="99" height="42" alt="About Us">
+                    </div>
+
+                    <div id="about-on" style="display:none; position:absolute; top:0px; left:0px; z-index:938;" onmouseout="javascript:hide('about-on');show('about-off');">
+
+                         <table cellpadding="0" cellspacing="0">
+                           <tbody><tr>
+                             <td class="onbg"><img src="http://www.topweddingsites.com/_include/gui/menu/about_us_on.gif" width="99" height="42" alt="" onmouseover="javascript:show('about-on');hide('cate-on');hide('about-off');"></td>
+                             <td><img src="http://www.topweddingsites.com/_include/gui/menu/shadow-right.png" width="7" height="42" alt=""></td>
+                             <td><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="117" height="42" alt="" onmouseover="javascript:hide('about-on');show('about-off');"></td>
+                           </tr>
+                         </tbody></table>
+
+                         <table cellpadding="0" cellspacing="0" onmouseover="javascript:show('about-on');hide('cate-on');hide('about-off');">
+                           <tbody><tr>
+                             <td class="cate-body" style="background-image: url(http://www.topweddingsites.com/_include/gui/menu/localbg.gif); background-position:top left; background-repeat:no-repeat;"><div class="whitie">
+                                    <table cellpadding="0" cellspacing="0">
+                                      <tbody><tr>
+                                        <td class="vt catrow">
+                                            <a href="http://www.topweddingsites.com/terms.php">Terms of Service</a><br>
+                                            <a href="http://www.topweddingsites.com/privacy.php">Privacy Policy</a><br>
+                                            <a href="http://www.topweddingsites.com/member/advertise.php">Advertise</a><br>
+                                            <a href="http://www.topweddingsites.com/sitemap.php">Sitemap</a><br>
+                                            <a href="http://www.topweddingsites.com/faq.php">FAQ</a><br>
+                                            <a href="/contact.php">Contact Us</a><br>
+                                        </td>
+                                      </tr>
+                                    </tbody></table>
+                             </div></td>
+                             <td class="shaddow-right"><img src="http://www.topweddingsites.com/_include/gui/x.gif" width="7" height="1" alt=""></td>
+                           </tr>
+                           <tr><td class="shaddow-b"></td><td><img src="http://www.topweddingsites.com/_include/gui/menu/shadowcorner.png" width="7" height="8" alt=""></td></tr>
+                         </tbody></table>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="fl" onmouseover="javascript:hide('cate-on');hide('local-on');"><a href="http://www.topweddingsites.com/wedding-blog/"><img src="http://www.topweddingsites.com/_include/gui/menu/blog_off.gif" width="67" height="42" alt="Blog"></a></div>
+            <div class="clear"><hr></div>
+        </div>
+		<div id="menuSearch">
+		<form action="/search.php" method="GET">
+			<table border="0" align="right" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><label for="search"><img src="http://www.topweddingsites.com/_include/gui/menu/search.gif" width="79" height="42" alt="Search"></label></td>
+					<td><input type="text" name="search" id="search" style="width: 120px; margin-right: 10px;"></td>
+					<td><input type="image" style="border:0" src="http://www.topweddingsites.com/_include/gui/buttons/go.png" width="25" height="22" alt="GO"></td>
+					<td width="20">&nbsp;</td>
+				</tr>
+			</tbody></table>
+			</form>
+		</div>
+		<div class="clear"><hr></div>
+	<div class="menuBrd"><!--  --></div>
+</div>
+
+<div id="container">
+	<div id="contentContainer">
+
+        <div class="breadcrumbBg">
+    		<div id="breadcrumb">
+    			<ul>
+    				<li class="home"><a href="http://www.topweddingsites.com/">Home</a></li>
+    				<li>Privacy Policy</li>
+    			</ul>
+                <div class="clearb"></div>
+    		</div>
+            <h1>Privacy Policy</h1>
+        </div>
+
+
+		<div id="content">
+
+
+		<p>When you use Team Wedding, Home of Top Wedding Sites, you agree to the terms and conditions listed below, without modification. We may update the terms and conditions of use from time to time.</p>
+
+
+    <h2>The Information Collected and How it is Used</h2>
+          <h3>Cookies &amp; IP Addresses</h3>
+<p>Our network uses cookies and IP Addresses broadly to collect anonymous user information for statistical and record keeping purposes and to limit and block abuse of the network resources and services and to administer our servers.</p>
+
+          <h3>E-mail &amp; Demographic Data</h3>
+<p>Our site's registration forms requires users to give us contact information (like name and email address) and demographic information (interests and business information). We use customer contact information from the registration form to send you information that may help your business grow or to offer emailed wedding information. The customer's contact information is also used to contact the member when necessary (i.e. customer service issues). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. In order to ensure that TeamWedding.com is able to provide a high quality service you must consent to any TeamWedding.com employees and/or authorized parties having access to your account and records.</p>
+
+<h2>Online Surveys </h2>
+<p>We reserve the right to conduct completely voluntary online surveys where we ask for contact information and solicit feedback on various topics from visitors. We use the collected data from such surveys to fine tune our product and service offerings. And we use contact data to follow-up with you to highlight the changes we have made to our business based on your feedback.</p>
+                        
+<h2>Contests &amp; Drawings</h2>
+                          
+<p>We reserve the right to run contests and/or drawings on our site from time to time where we may ask for your name, wedding date, and e-mail address. We use this information to administer the promotion as well as to provide you with special offers from our advertisers and partners. Please note that any emails from TeamWedding.com resulting from entry into a contest or drawing are considered solicted emails and should not be considered spam.</p>
+              
+<h2>Security</h2>
+                  
+<p align="left">All data collected at TopWeddingSites™ is protected by a secure server certificate against unauthorized access. Personally identifiable information such as names, addresses, credit card numbers and other information is stored securely offline. However, users alone are responsible for maintaining the confidentiality and security of their account number and/or password for their accounts. You are personally liable and responsible for any use of your account whether or not expressly autorized by you. </p>
                   <p align="left">TeamWedding.com will not disclose any personally identifying information to any third parties unless you expressly authorize it, except as may be required by or to be in compliance with the law. </p>
-                  <p align="left"><strong>Choice/Opt-Out&nbsp;</strong></p>
-                  <p align="left">Our site provides users the opportunity to opt-out of receiving marketing communications from us.&nbsp;This site gives users options for adding and removing their information from our database to not receive future newsletter, mailing list or contest/drawing communications from us.</p>
-                  <p align="left"><strong>Correct/Update&nbsp;</strong></p>
-                  <p align="left">This site gives users options for changing and modifying information previously provided.</p>
-                  <p align="left"><strong>Contacting the Web Site&nbsp;</strong></p>
-                  <p align="left">e-mail through our <a href="http://www.topweddingsites.com/contact.php">online contact form</a></p>
-                  <p align="left">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ...</p>
-                <p align="left">Top Wedding Sites, Inc. through our <a href="http://www.topweddingsites.com/contact.php">online contact form </a></p></td></tr></tbody></table>
-  
-</div></td>
-      </tr>
-    </tbody></table>
-      <p>&nbsp;</p>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="25">&nbsp;</td>
-      </tr>
-      <tr>
-        <td>
-		  <table width="721" border="0" align="center" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="717"><div align="center"><a href="/">Home</a> | <a href="http://www.topweddingsites.com/shopping/">Shop</a> | <a href="http://www.topweddingsites.com/coupons/index.html">Coupons</a> | <a href="http://www.topweddingsites.com/sitemap.html">Sitemap</a> | <a href="http://www.topweddingsites.com/wedding-blog/"> Wedding Planning Blog</a> | <a onclick="window.open('http://www.topweddingsites.com/subscribe.html', 'signup', 'menubar=no, location=no, toolbar=no, scrollbars=yes, height=500, width=340'); return false;" href="http://www.topweddingsites.com/subscribe.html">Get Blog Updates by Email</a> | <a href="http://www.topweddingsites.com/terms.htm" target="_blank">Terms</a> | <a href="http://www.topweddingsites.com/privacy.htm" target="_blank">Privacy Policy</a> |<a href="http://www.topweddingsites.com/contact.php"> Contact Us</a><br>
- <a href="http://www.topweddingsites.com/advertise.html">Advertise</a> | <a href="http://www.topweddingsites.com/rank/login.htm">Login</a> | <a href="http://www.topweddingsites.com/rank/quick.php">Wedding Members</a> | <a href="http://www.topweddingsites.com/rules.html">Program Rules</a> | <a href="http://www.topweddingsites.com/faq.htm">Help</a><br>
-              </div></td>
-            </tr>
-          </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td height="15" colspan="3" valign="top"><div align="center"><span class="sitemapother"><br>
-    </span></div></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="right" valign="top"><div align="center"><span class="bluesubheader"><br>
-      Entire website and all contents herein copyright © 2000-2008 Team Wedding.com® Home Of The Top Wedding Sites</span><br>
-    </div></td>
-  </tr>
-  <tr>
-    <td width="432" height="2"></td>
-    <td width="138"></td>
-    <td width="208"></td>
-  </tr>
-</tbody></table>
+                  
+<h2>Choice/Opt-Out</h2>
+                  
+<p align="left">Our site provides users the opportunity to opt-out of receiving marketing communications from us.&nbsp;This site gives users options for adding and removing their information from our database to not receive future newsletter, mailing list or contest/drawing communications from us.</p>
+                  
+<h2>Corrections/Updates</h2>
+                  
+<p align="left">This site gives users options for changing and modifying information previously provided.</p>
+                  
+<h2>Contacting the Web Site</h2>
+                  
+<p align="left">Please contact us by e-mail through our <a href="http://www.topweddingsites.com/contact.php">online contact form.</a></p>
+                  <p align="left">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact Top Wedding Sites by e-mail through our <a href="http://www.topweddingsites.com/contact.php">online contact form.</a></p>
+
+
+		</div>
+	</div>
+	<div id="ads">
+         <div class="location-selector">
+    <div class="location-pad">
+        <div class="fl">
+             <img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="3" alt=""><br>
+             <img src="http://www.topweddingsites.com/_include/gui/buttons/go-local.png" width="108" height="36" alt="">
+        </div>
+        <div class="fr" align="right">
+            <img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="2" alt=""><br>
+            <div class="tabtitle-right">You Are Viewing:</div>
+            <img src="http://www.topweddingsites.com/_include/gui/x.gif" width="1" height="2" alt=""><br>
+			<form name="golocalform" action="/golocalform.php" method="POST">
+			<select name="golocalselect" onchange="golocalform.submit()">
+			<option value="http://www.topweddingsites.com/">USA &amp; Online</option>
+			<option value="http://www.topweddingsites.co.uk/">UK &amp; Ireland</option>
+			<option value="http://www.teamwedding.ca/">Canada</option>
+			<option value="Alabama">Alabama</option>
+							<option value="Alaska">Alaska</option>
+							<option value="Arizona">Arizona</option>
+							<option value="Arkansas">Arkansas</option>
+							<option value="California">California</option>
+							<option value="Colorado">Colorado</option>
+							<option value="Connecticut">Connecticut</option>
+							<option value="Delaware">Delaware</option>
+							<option value="Florida">Florida</option>
+							<option value="Georgia">Georgia</option>
+							<option value="Hawaii">Hawaii</option>
+							<option value="Idaho">Idaho</option>
+							<option value="Illinois">Illinois</option>
+							<option value="Indiana">Indiana</option>
+							<option value="Iowa">Iowa</option>
+							<option value="Kansas">Kansas</option>
+							<option value="Kentucky">Kentucky</option>
+							<option value="Louisiana">Louisiana</option>
+							<option value="Maine">Maine</option>
+							<option value="Maryland">Maryland</option>
+							<option value="Massachusetts">Massachusetts</option>
+							<option value="Michigan">Michigan</option>
+							<option value="Minnesota">Minnesota</option>
+							<option value="Mississippi">Mississippi</option>
+							<option value="Missouri">Missouri</option>
+							<option value="Montana">Montana</option>
+							<option value="Nebraska">Nebraska</option>
+							<option value="Nevada">Nevada</option>
+							<option value="New-Hampshire">New Hampshire</option>
+							<option value="New-Jersey">New Jersey</option>
+							<option value="New-Mexico">New Mexico</option>
+							<option value="New-York">New York</option>
+							<option value="North-Carolina">North Carolina</option>
+							<option value="North-Dakota">North Dakota</option>
+							<option value="Ohio">Ohio</option>
+							<option value="Oklahoma">Oklahoma</option>
+							<option value="Oregon">Oregon</option>
+							<option value="Pennsylvania">Pennsylvania</option>
+							<option value="Rhode-Island">Rhode Island</option>
+							<option value="South-Carolina">South Carolina</option>
+							<option value="South-Dakota">South Dakota</option>
+							<option value="Tennessee">Tennessee</option>
+							<option value="Texas">Texas</option>
+							<option value="Utah">Utah</option>
+							<option value="Vermont">Vermont</option>
+							<option value="Virginia">Virginia</option>
+							<option value="Washington">Washington</option>
+							<option value="West-Virginia">West Virginia</option>
+							<option value="Wisconsin">Wisconsin</option>
+							<option value="Wyoming">Wyoming</option>
+							</select>
+			</form>
+			</div>
+        <div class="clearb"></div>
+    </div>
+</div>
+                          <div class="boxWhite">
+        			<div class="ctn">
+                        <div class="line-it"><div class="pinktitle-left">Advertising Inquiries</div></div>
+                        <strong>Inside the USA:</strong> 866-721-8800<br><strong>Outside of the USA:</strong> 973-633-3928
+                    </div>
+        		 </div>
+                 <div class="boxWhite" style="margin-top:10px;">
+        			<div class="ctn">
+                        <div class="line-it"><div class="pinktitle-left">Free Listings</div></div>
+                        <p>Please do not call regarding free listings. <a href="http://www.topweddingsites.com/faq/">Refer to the FAQ</a> if you have questions about the link exchange.</p>
+                    </div>
+        		 </div>
+                 <div style="margin-top:10px;"><a href="javascript:void(0)" onclick="window.open('http://www.topweddingsites.com/chat.php','Team_Wedding_Chat','scrollbars=no,status=no,menubar=no,resizable=no,width=200,height=400,screenX=50,screenY=100,top=50,left=250');"><img src="http://www.topweddingsites.com/_include/gui/livehelp-online1.jpg" width="300" alt="Live Help"></a></div>
+	</div>
+	<div class="clear"><hr></div>
+</div>
+
+<div id="share">
+
+		<strong>Share this page:</strong>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub = "topweddingsites";</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-bookmark-en.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</div>
+
+<div id="footer">
+<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1081008142732713"><img src="http://www.topweddingsites.com/_include/gui/misc/bbb.gif" width="90" height="34" alt="Click to verify BBB accreditation and to see a BBB report." title="Click to verify BBB accreditation and to see a BBB report." style="float: left; margin-right: 15px; margin-bottom: 20px;"></a>
+<a href="http://www.topweddingsites.com/">Home</a> &nbsp;|&nbsp;
+<a href="/shopping/">Shop</a> &nbsp;|&nbsp;
+<a href="http://www.topweddingsites.com/coupons">Coupons</a> &nbsp;|&nbsp;
+<a href="http://www.topweddingsites.com/sitemap.php">Sitemap</a> &nbsp;|&nbsp;
+<a href="/wedding-blog/">Wedding Planning Blog</a> &nbsp;|&nbsp;
+<a onclick="window.open('http://www.topweddingsites.com/subscribe.php', 'signup', 'menubar=no, location=no, toolbar=no, scrollbars=yes, height=600, width=400'); return false;" href="http://www.topweddingsites.com/subscribe.php" class="footerboxsub">Get Blog Updates by Email</a> &nbsp;|&nbsp;
+<a href="/terms.php">Terms</a> &nbsp;|&nbsp;
+<a href="/privacy.php">Privacy Policy</a> &nbsp;|&nbsp;
+<a href="http://www.topweddingsites.com/contact.php">Contact</a> &nbsp;|&nbsp;
+<a href="/advertise/">Advertise</a> &nbsp;|&nbsp;
+<a href="/member/">Login</a>
+<br>
+
+Our Sister Wedding Sites:   <a href="http://www.topweddingquestions.com/">Top Wedding Questions - Etiquette Guide</a>  &nbsp;|&nbsp;&nbsp;   <a href="http://www.idotaketwo.com/">I Do Take Two - Second Wedding Planning Guide</a><br>
+Entire website and all contents herein copyright © 2000-2009 Team Wedding.com® Home Of The Top Wedding Sites.
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-1545527-2");
+	pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
 
 
 </body></html>
