@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205084741id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429110609id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Megaleecher.Net
 
@@ -23,6 +23,9 @@ Google Adsense - <http://www.google.com/privacypolicy.html>
 TribalFusion - <http://www.exponential.com/who-we-are/privacy-policy.jsp>
 
 For any questions or concern regarding privacy and data usage policy of this website, Pls. email us at the above email address.
+
+  
+
 
 **This is just one of the many helpful tips we have posted, You can find more stories[here](http://www.megaleecher.net/tracker),   
 Do subscribe to updates using your favorite [RSS feed](http://feeds.feedburner.com/TheBestInternetNews) reader or using the secure FeedBurner email update form on top of this post.**
