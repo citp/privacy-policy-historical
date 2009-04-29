@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the en.wordpress.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219040142id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the en.wordpress.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429194846id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Automattic
 
@@ -8,14 +8,14 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 
   * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services. (For example: we don’t save comments that get submitted to our Akismet comment spam blocking service unless they were marked as false positives; in which case we store them long enough to use them to improve the service to avoid future false positives.)
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
 
 
 Below is our privacy policy which incorporates these goals:
 
-[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make the below Privacy Policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
 Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -40,6 +40,10 @@ Automattic discloses potentially personally-identifying and personally-identifyi
 ### Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
 ### Privacy Policy Changes
 
