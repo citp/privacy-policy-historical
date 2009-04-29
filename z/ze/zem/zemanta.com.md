@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemanta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162347id_/http%3A//www.zemanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemanta.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429022234id_/http%3A//www.zemanta.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Zemanta Ltd.
 
@@ -28,9 +28,9 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 ## Zemanta service (Extension and API)
 
-When you submit your content to Zemanta service for processing we retain the copy of the submitted content as well as metadata (tags) and content enhancements (links to different kinds of web content) regarding that content. Transaction logs of this process contain information such as date and time of the request and response, your Zemanta-assigned license key, information about the servers which processed your request and IP address of the request.
+When you submit your content to Zemanta service for processing we retain the copy of the submitted content. Copy is not retained only in case when Zemanta Browser Extension submits the content of an e-mail message from mail composer view. Zemanta will store a copy of all returned metadata, content enhancements and transaction logs. Transaction logs of this process contain information such as date and time of the request and response, your Zemanta-assigned license key, information about the servers which processed your request and IP address of the request.
 
-No web or API user is able to access the submitted content unless they provide both Request ID (RID) and API key that is connected to that RID. Both API key and RID are randomly generated and the likelihood of guessing them is extremely small - however not impossible. Trying to reach the content with submission of random RID is prohibited by Zemanta Terms of Service. Content retained by Zemanta will be used for purposes of improving the service, debugging and collecting statistics on service usage.
+No web or API user is able to access the submitted content unless they provide both Request ID (RID) and API key that is connected to that RID. Both API key and RID are randomly generated and the likelihood of guessing them is extremely small - however not impossible. Trying to reach the content with submission of random RID is prohibited by Zemanta Terms of Service. Content, metadata, content enhancements and tranasaction logs retained by Zemanta will be used for purposes of improving the service, debugging and collecting statistics on service usage.
 
 Zemanta ltd. retains the right to provide generated metadata and content enhancements to third parties if they provide correct RID. Zemanta ltd. also retains the right to publish aggregated statistics on both the submitted content and generated metadata and content enhancements. 
 
