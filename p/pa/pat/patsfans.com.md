@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231195233id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429181318id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
 
 # PatsFans.com - Privacy Policy
 
@@ -25,6 +25,8 @@ The non-personal information we collect is used to monitor traffic and also allo
 **COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS**
 
 Some of our pages will contain links to products to affiliate sites, or direct links to the site itself, and their information practices may be different than ours. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Visitors should consult the other sites' privacy notices as we have no control over the information that is submitted to, or collected by, these third parties. 
+
+Google, as a third party vendor and one of our advertising mediums, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads based on your visit here to and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx). 
 
 **COOKIES**
 
