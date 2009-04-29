@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162150id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-classified-connection.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429153845id_/http%3A//www.the-classified-connection.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – We take Your Privacy Seriously
 
@@ -35,7 +35,8 @@ This policy does not apply to the practices of companies that Creative Software 
   * Creative Software Systems does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
     * We provide the information to trusted partners who work on behalf of or with Creative Software Systems under confidentiality agreements. These companies may use your personal information to help Creative Software Systems communicate with you about offers from Creative Software Systems and our marketing partners. However, these companies do not have any independent right to share this information. 
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Creative Software System's terms of use, or as otherwise required by law.
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Creative Software System's terms of use, or as otherwise required by law.   
+
 
 
 
