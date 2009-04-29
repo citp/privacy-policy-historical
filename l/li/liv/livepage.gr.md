@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livepage.gr privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094801id_/http%3A//en.mylivepage.com/wiki/11/132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepage.gr privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429070516id_/http%3A//en.mylivepage.com/wiki/11/132) for the most accurate reproduction.*
 
 # MyLivePage.com : Main Page / About / Privacy
 
@@ -153,10 +153,10 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Us If you have any questions or suggestions regarding our privacy policy, please contact us at: info@mylivepage.com 
 
-[Comments: 0](http://en.mylivepage.com/wiki/11/132) Views: 12986 Size:12340 byte  
+[Comments: 0](http://en.mylivepage.com/wiki/11/132) Views: 28182 Size:12340 byte  
 Last changes are made by: [](http://mombra.mylivepage.com/)
 
-[mombra](http://mombra.mylivepage.com/) 153 days ago  Posted by|  Text  
+[mombra](http://mombra.mylivepage.com/) 286 days ago  Posted by|  Text  
 ---|---  
 No comments  
 
