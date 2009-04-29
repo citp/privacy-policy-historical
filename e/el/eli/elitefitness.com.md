@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219211505id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429031320id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
-# EliteFitness.com - Underground Bodybuilding, Fitness and Steroid Site - Tons of Bodybuilding, Weight Lifting, and Anabolic Steroid Information
+# Privacy Policy - EliteFitness.com
 
-[](https://web.archive.org/) |  |    
----|---|---  
-Privacy Statement for Elite Fitness [](https://web.archive.org/ubb/Archives) Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
+Dear friends and fellow athletes,
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
+At elitefitness.com, we have a strong commitment to your personal privacy. Your trust is so important to us that when you do business with Elite, you can be assured that your personal information will never be sold, given away, or mishandled. And, you can ask that your personal information be removed from our files at any time. Please take a look at our complete [Privacy Policy](http://www.elitefitness.com/privacy.html). 
+
+Don't forget, EliteFitness.com has been online since 1996. That makes us older than Google! So remember, when you place an order at Elite Fitness, your VISA, Mastercard, AMEX, or Discover card number is encrypted, or scrambled, so completely, that it is unreadable during transit. You'll see a discreet charge from Elite Fitness on your billing statement. And you're 100% protected by our [Safe Shopping Guarantee](https://web.archive.org/images/ordersystem/safeshop.html). |   
+---|---  
+  
+Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
+
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
@@ -22,7 +27,7 @@ We sometimes use an outside ad company to display ads on our site. These ads may
 
 ## Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site contains links to other sites. Elite Fitness is not responsible for the privacy practices or the content of such Web sites.
 
@@ -30,9 +35,9 @@ This site contains links to other sites. Elite Fitness is not responsible for th
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [suggestions@elitefitness.com](mailto:suggestions@elitefitness.com)
+  1. You can go to this [link where you can send us an email](http://support.elitefitness.com/support/).[](mailto:suggestions@elitefitness.com)
   2. You can send mail to the following postal address:  217 West 18th Street, PO BOX 1264, New York, NY 10113-1264 
-  3. You can call the following telephone number: 212-823-1000
+  3. You can call the following telephone number: (888) 613-8959 
 
 
 
@@ -40,23 +45,26 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [suggestions@elitefitness.com](mailto:suggestions@elitefitness.com)
-  2. send mail to the following postal address:  217 West 18th Street, PO BOX 1264, New York, NY 10113-1264 
-  3. call the following telephone number: 212-823-1000
+  1. You can go to this [link where you can send us an email](http://support.elitefitness.com/support/).[](mailto:suggestions@elitefitness.com)
+  2. You can send mail to the following postal address:  217 West 18th Street, PO BOX 1264, New York, NY 10113-1264 
+  3. You can call the following telephone number: (888) 613-8959 
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com [](http://www.elitefitness.com/) | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Copyright © 2006 . All rights reserved. 
+Elite Fitness  
+217 West 18th Street  
+#1264  
+New York, NY 10113-1264 
 
-| 
+Or, here's [a link where you can send us an email](http://support.elitefitness.com/support/). 
 
-[**EliteFitness.com**](http://www.elitefitness.com/)  
-217 West 18th Street #1264  
-New York, NY 10113-1264  
-Phone: (888) 613-8959   
-  
----|---|---
+##### **elitefitness.com  
+The Most Controversial Fitness Site On The Net!** **  
+****  
+****g spellwin@elitefitness.com  
+(888) 613-8959**   
+
