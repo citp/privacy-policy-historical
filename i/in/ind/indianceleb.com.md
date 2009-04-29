@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100004id_/http%3A//www.indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429021654id_/http%3A//www.indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
 
 # IndianCeleb Privacy Vow
 
-  
 Cyber Art Works is committed to protecting the privacy of our customer's personal information. The following information explains our information gathering and dissemination practices. 
 
 **_Information Collected:_**
 
-When you become a member of IndianCeleb, our membership form requires you to give us your Name, Age, Sex, Email Address, demographic and profile data.    
+When you become a member of IndianCeleb, our membership form requires you to give us your Name, Age, Sex, Email Address, demographic and profile data. 
+
+* Google, as a third party vendor, uses cookies to serve ads on IndianCeleb.com.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+  
 Back to Top
 
 **_Use of Information:_**
@@ -43,7 +48,7 @@ Back to Top
 
 **_Opt-Out, Delete/Deactivate:  _**
 
-While Cyber Art Works does not give users the opportunity to remove their information from our database, you may elect not to receive future communications or to discontinue use of our service. If you're about to register for our service please un-check the box that says, "Occasionally email me product news." If you are already a registered user please visit the profile page of our web site and uncheck the box related to sending information to you via email or you can send an email to[ unsubscribe@indianceleb.com](mailto:unsubscribe@indianceleb.com) and request that no future communications be sent to you from us.    
+While Cyber Art Works does not give users the opportunity to remove their information from our database, you may elect not to receive future communications or to discontinue use of our service. If you're about to register for our service please un-check the box that says, "Occasionally email me product news." If you are already a registered user please visit the profile page of our web site and uncheck the box related to sending information to you via email or you can send an email to unsubscribe [@] indianceleb.com and request that no future communications be sent to you from us.    
 Back to Top
 
 **_Correct/Update:_**
@@ -55,16 +60,10 @@ Cyber Art Works allows its users the option to change information previously pro
 3\. Change the relevant information    
 Back to Top
 
-**_Contacting the Web Site:_**
+**_Contact_**
 
-We strive to do everything we can to protect the privacy of our users. Please feel free to share any comments and concerns with us. If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
-
-Privacy Contact   
-Cyber Art Works.   
-8/147, Sector - 7, C. G. S. Colony,   
-Antop Hill, Mumabi - 400 037.   
-Email:[Technical Support   
-](mailto:support@indianceleb.com)Back to Top
+To contact IndianCeleb.com please drop an email at [webmaster at the rate Indianceleb.com]    
+Back to Top
 
 **_Our Email Confidentiality Policy:_**   
 Cyber Art Works is absolutely committed to protecting the privacy of our users.We will not give or sell your contact information to third parties.   
