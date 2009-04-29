@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224034411id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429045028id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
 
 # CBS Interactive - Privacy Policy
 
@@ -9,7 +9,7 @@ Updated on: March 28, 2008
 
 This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20081224034411id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
+Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20090429045028id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
 
 ### Table of Contents
 
