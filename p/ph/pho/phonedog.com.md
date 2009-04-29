@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091257id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429104012id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PhoneDog.com
 
@@ -42,3 +42,20 @@ If you have any questions about our privacy statement, the practices of this sit
 www.phonedog.com  
 [infodog@phonedog.com](mailto:infodog@phonedog.com)  
 Thank you for your support.
+
+|   
+| 
+
+#### About us
+
+We provide the consumer with the resources to research, compare prices, and shop from a wide array of phone products and services. Please visit the links below for more information.
+
+[About us](https://web.archive.org/content/aboutus.aspx)  |  [Our promise](https://web.archive.org/content/ourpromise.aspx)  |  [Testimonials](https://web.archive.org/content/testimonials.aspx)  |  [In the news](https://web.archive.org/content/inthenews.aspx)
+
+#### Hot phones - check 'em out!
+
+Check out these cool phones. Get full specs, images, pricing, read user and expert reviews, watch videos and much more...
+
+  
+  
+---|---|---
