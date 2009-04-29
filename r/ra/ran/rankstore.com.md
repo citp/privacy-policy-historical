@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916095840id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429212429id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Shopping Guides, Online Store Products, Jewelry, Watches, Flowers and Gifts
+# Privacy Policy - Free Online Shopping Directory : Rankstore.com
 
 **RankStore.com Privacy Statement**  
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.rankstore.com. The following discloses the information gathering and dissemination practices for this Web site.
