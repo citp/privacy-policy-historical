@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062921id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429065503id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
