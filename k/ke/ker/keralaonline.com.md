@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054117id_/http%3A//keralaonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429044806id_/http%3A//keralaonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Kerala Online - Privacy Policy
+# Kerala online - Privacy Policy
 
 ### Privacy Policy
 
