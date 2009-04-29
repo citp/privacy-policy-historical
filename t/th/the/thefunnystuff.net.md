@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnystuff.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030427id_/http%3A//thefunnystuff.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnystuff.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429174535id_/http%3A//www.thefunnystuff.net/privacy.php) for the most accurate reproduction.*
 
 # Daily Email Newsletter - Funniest Video of the Day
 
