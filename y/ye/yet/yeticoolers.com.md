@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001160203id_/http%3A//www.yeticoolers.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429072228id_/http%3A//www.yeticoolers.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Yeti Coolers
+# Privacy Notice : Yeti Coolers | Ice Chest - Ice Box - Marine Cooler
 
 At **www.yeticoolers.com** , your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. However, we **Yeti Coolers** do not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
 
