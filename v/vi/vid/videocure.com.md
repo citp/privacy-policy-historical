@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155239id_/http%3A//www.videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429152645id_/http%3A//www.videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
