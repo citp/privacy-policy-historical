@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticsbusiness.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219131321id_/http%3A//www.cosmeticsbusiness.com/hybrid.asp%3FtypeCode%3D21%26pubCode%3D1%26navcode%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticsbusiness.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429223621id_/http%3A//www.cosmeticsbusiness.com/hybrid.asp%3FtypeCode%3D21%26pubCode%3D1%26navcode%3D131) for the most accurate reproduction.*
 
 # cosmetics business
 
