@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171303id_/http%3A//cbs4.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429042924id_/http%3A//cbs4.com/privacy) for the most accurate reproduction.*
 
-# cbs4.com - Privacy Policy
+# Privacy Policy - cbs4.com
 
 **Effective Date** : September 8, 2008
 
