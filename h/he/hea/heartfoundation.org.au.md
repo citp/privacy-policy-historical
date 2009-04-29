@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206003715id_/http%3A//www.heartfoundation.org.au/About_Us/Information_About_Us/Privacy_Policy/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429155244id_/http%3A//www.heartfoundation.org.au/About_Us/Privacy_Policy/Pages/default.aspx) for the most accurate reproduction.*
 
-# About Us - Information about Us - Privacy Policy
-
-Public Privacy Statement
+# Public Privacy Statement
 
 Updated: 20 May 2005 
 
@@ -36,12 +34,9 @@ Opting out of modifying your information
 
 If you want to change any information that you have previously given us, or if you want to opt out of future communications please contact: 
 
-The Privacy Officer 
-
-Heart Foundation 
-
-GPO Box 9966 
-
+The Privacy Officer   
+Heart Foundation   
+GPO Box 9966   
 In your Capital City 
 
 Alternatively, please call: 1300 55 02 82 or email: [inform@heartfoundation.com.au](mailto:inform@heartfoundation.com.au)
