@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080736id_/http%3A//www.youngliving.us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngliving.us privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429205533id_/http%3A//youngliving.us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Young Living Essential Oils
 
@@ -25,11 +25,17 @@ The aggregate information we collect is used for many different purposes in orde
 
 We will disclose personal data we have collected only when legally required to do so at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing our website and applicable laws; or to protect against misuse or unauthorized use of our website.
 
-Certain information about you may be available to authorized distributors, who can view information regarding the product order history, names, and addresses of distributors or customers in their own downline, but payment information you may give us in the course of ordering our products will be disclosed only to necessary Distributor Network Services staff to fulfill your order, and will never be available to an outside third party for any reason but a legal investigation. Social Security or Taxpayer Identification numbers may also be collected from you upon sign-up as a Young Living distributor, but will only be used in accordance with Internal Revenue Service policyâ€”they will not be available to anyone else for any other purpose.
+Certain information about you may be available to authorized distributors, who can view information regarding the product order history, names, and addresses of distributors or customers in their own downline, but payment information you may give us in the course of ordering our products will be disclosed only to necessary Distributor Network Services staff to fulfill your order, and will never be available to an outside third party for any reason but a legal investigation. Social Security or Taxpayer Identification numbers may also be collected from you upon sign-up as a Young Living distributor, but will only be used in accordance with Internal Revenue Service policy—they will not be available to anyone else for any other purpose.
 
 Use of “Cookies”
 
 “Cookies” are short strings of information that are collected upon your visit to our site in order to enhance your web browsing experience. We use cookies to store visitors' preferences, such as items placed in your online shopping cart, in order to make your interaction with our site more personal. Web browsers can be modified in order to prevent cookie collection; however, this may impact your browsing activities. If you wish to prevent the collection of cookies, the “Help” portion of your browser will give instructions on how to disable this feature.
+
+Use of Your E-Mail Address and Opting Out
+
+If when you become a member of Young Living Essential Oils, you supply an e-mail address and choose to not opt out of receiving e-mail communications from Young Living and/or if you sign up to receive e-mail communications from Young Living via another format, you may receive periodic e-mail communications from us with information on new products, services, upcoming events, or other topics. If you do not wish to receive such e-mail, please let us know by calling the telephone number (1-800-371-2928 ) above or sending your request to us via e-mail ([custserv@youngliving.com](mailto:custserv@youngliving.com) ) or postal mail at the addresses at the top of this page. Please know that when you choose to opt out of receiving e-mail communications from Young Living, you opt out from e-mail communications sent through Young Living's virtual office from your upline Young Living distributor(s) as well.
+
+When making your request, please provide us with your exact e-mail address, so we may accurately fulfill your wishes.
 
 Use of Your Postal Address and Opting Out
 
