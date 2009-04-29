@@ -1,0 +1,546 @@
+<!--The following is the downloaded HTML source of the iluvdressup.com privacy policy that was archived on 2009-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429175259id_/http%3A//www.iluvdressup.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!-- saved from url=(0022)http://internet.e-mail -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="PRIVACY POLICY">
+<meta name="keywords" content="PRIVACY POLICY"> 
+<title>PRIVACY POLICY - iLuvDressUp.com - Dress up games</title>
+<link rel="stylesheet" type="text/css" href="http://www.iluvdressup.com/templates/iluvdressup-com/style.css?var=1241027576">
+<style>
+body { margin:0px auto;}
+a {color: #CC0066; font-family: Tahoma; font-size:10pt; text-decoration:none;}
+#menu {
+	margin-left:130px;
+	font-family: Tahoma;
+	font-size:10pt;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+#menu a {
+	font-family: Tahoma;
+	font-size:10pt;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+#menu a:hover { background:#FFFFFF; color: #D7005D;}
+#leftmenus .title { padding-left:20px; color: #FFFFFF; font-family: Tahoma, Arial; font-size:10pt; }
+#leftmenus .content {padding-top: 10px;}
+#leftmenus a { padding:2px; color: #D7005D; font-family: Tahoma, Arial; font-size:9pt; text-decoration: none;}
+#leftmenus a:hover { color: #00CCCC; text-decoration:underline;}
+#leftmenus .icons { background:#FFFFFF; text-decoration:none; float:left;}
+#leftmenus .icons:hover { background:#FFFFFF; text-decoration:none;}
+.gallerylink {border:1px solid #efefef;padding:2px;margin:2px;}
+.gallerylink:hover {border:1px solid #efefef;padding:2px;background:#D7005D;color:#FFFFFF;margin:2px;}
+.title { text-align:left;}
+</style>
+<script src="http://www.iluvdressup.com/templates/iluvdressup-com/arcade.js" type="text/javascript"></script>
+<script src="http://www.iluvdressup.com/templates/iluvdressup-com/ajaxrating.js" type="text/javascript"></script>
+<script src="http://www.iluvdressup.com/templates/iluvdressup-com/morescript.js" type="text/javascript"></script>
+<script src="http://www.iluvdressup.com/templates/iluvdressup-com/contentslider.js" type="text/javascript">
+/***********************************************
+* Featured Content Slider- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Image Preload Script By BigDogAdmin
+* This notice MUST stay intact for legal use
+* Visit BigDogAdmin at http://www.bigdogarcade.com
+***********************************************/
+
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+
+preloadimages(
+"http://www.iluvdressup.com/templates/iluvdressup-com/images/star.gif",
+"http://www.iluvdressup.com/templates/iluvdressup-com/images/nostar.gif",
+"http://www.iluvdressup.com/templates/iluvdressup-com/images/starover.gif"
+)
+
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Menu Script By BigDogAdmin
+* This notice MUST stay intact for legal use
+* Visit BigDogAdmin at http://www.bigdogarcade.com
+***********************************************/
+
+function displayMessage(div) {
+var theDiv = "bm";
+theDiv = theDiv+div;
+document.getElementById('bm_default').style.display = "none";
+document.getElementById(theDiv).style.display = "block";
+}
+
+function hideMessage(div) {
+var theDiv = "bm";
+theDiv = theDiv+div;
+document.getElementById('bm_default').style.display = "block";
+document.getElementById(theDiv).style.display = "none";
+}
+
+</script>
+
+<script type="text/javascript" language="javascript">
+  var http_request = false;
+
+  function show_hint ( p_hint_text, p_span ) {
+    document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    result = http_request.responseText;
+    document.getElementById(SpanName).innerHTML = result;
+    } else {
+    alert('There was a problem with the request.');
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+
+
+  function Contact(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+    if(DivName == 'tf'){
+    var posturl = "http://www.iluvdressup.com/index.php?action=tellafriendajax";
+    var poststr = "&sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+  					  
+  	var fullurl = posturl+poststr;
+    makePOSTRequest(posturl, poststr, SpanName);
+    
+    } 
+       
+    if(DivName == 'tfv'){
+    var posturl = "http://www.iluvdressup.com/index.php?action=tellafriendajax";
+    var poststr = "&sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    var fullurl = posturl+poststr;
+    makePOSTRequest(posturl, poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var posturl = "http://www.iluvdressup.com/index.php?action=addcommentajax";
+    var poststr = "&newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				    "&id=" + encodeURI( document.getElementById("id").value );
+    
+    var fullurl = posturl+poststr;
+    makePOSTRequest(posturl, poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var posturl = "http://www.iluvdressup.com/index.php?action=addcommentajax";
+    var poststr = "&newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  			    	"&id=" + encodeURI( document.getElementById("id").value ) +
+  				      	"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    var fullurl = posturl+poststr;
+    makePOSTRequest(posturl, poststr, SpanName);}
+   
+    document.getElementById(DivName).style.display = 'none';
+  } 
+
+
+</script>
+
+<script type="text/javascript">
+<!--
+
+/***********************************************
+* Required field(s) validation By BigDogAdmin
+* This notice MUST stay intact for legal use
+* Visit BigDogAdmin at http://www.bigdogarcade.com
+***********************************************/
+
+function BigDogFormCheck(theForm){
+	var checkName = document.getElementById('sendersname').value;
+	var checkFrom = document.getElementById('sendersemail').value;
+	var checkTo = document.getElementById('friendsemail').value;
+
+	
+	if(checkName == "" || checkFrom == "" || checkTo == ""){
+  alert("Please Fill Out All The Required Fields\n\nThanks\niLuvDressUp.com - Dress up games Admin");
+  return false;
+  }
+  else {
+  return true;
+  }
+  }
+  
+function BigDogFormCheck2(theForm){
+	var checkComment = document.getElementById('newcomment').value;
+	
+	if(checkComment == ""){
+  alert("Please Enter A Comment Before Submitting\n\nThanks\niLuvDressUp.com - Dress up games Admin");
+  return false;
+  }
+  else {
+  return true;
+  }
+  }
+
+// -->
+</script>
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Ajax Linkout Script By BigDogAdmin
+* This notice MUST stay intact for legal use
+* Visit BigDogAdmin at http://www.bigdogarcade.com
+***********************************************/
+
+function addClick(linkid){
+var url = "http://www.iluvdressup.com/index.php?action=addclick&id=";
+var fullurl=url+linkid;
+ajaxpage(fullurl,'invisible')
+return true;
+}
+
+</script>
+<!-- ValueClick Media POP-UNDER CODE v1.8 for iluvdressup.com (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=42156&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script>                                                          
+<!-- ValueClick Media POP-UNDER CODE v1.8 for iluvdressup.com -->
+
+</head>
+
+
+<body align="center">
+<center>
+<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+   <td width="15" bgcolor="#FFFFFF" height="119"><img src="/images/iluvdressup_r1_c1.gif" width="15" height="119"></td>
+   <td width="232" height="119" bgcolor="#FFFFFF"><a href="http://www.iluvdressup.com" title="iluvdressup.com - dress up games"><img src="/images/iluvdressup_r1_c2.gif" width="464" height="119" border="0"></a></td>
+
+   <td width="496" bgcolor="#FFFFFF" background="/images/iluvdressup_r1_c3.gif" height="119"><p></p><table width="496" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center" valign="middle">
+    <td width="25%"><a href="http://www.bridedressup.net" target="_blank" title="bride dress up, wedding dress up games"><img src="http://files.iluvdressup.com/banners/banner100x100.gif" width="100" height="100" border="0" alt="wedding dress up, bride dress up"></a></td>
+    <td width="25%"><a href="http://www.make-up-games.com" title="make up games" target="_blank"><img src="http://files.iluvdressup.com/banners/make-up-games_100x100.gif" alt="make up games" border="0"></a></td>
+    <td width="25%"><a href="http://www.all-dressupgames.com" target="_blank" title="Dress Up Games"><img style="border:0px" src="http://www.all-dressupgames.com/link-to-us/b100x100-01.gif" alt="dress up games"></a></td>
+    <td><a href="http://www.123girlgames.com" target="_blank"><img src="http://files.iluvdressup.com/banners/banner_100x100.gif" width="100" height="100" border="0"></a></td>
+  </tr>
+</tbody></table></td>
+   <td width="14" bgcolor="#FFFFFF" height="119"><img src="/images/iluvdressup_r1_c4.gif" width="14" height="119"></td>
+  </tr>
+  <tr>
+   <td bgcolor="#FFFFFF"><img name="header_r5_c1" src="/images/iluvdressup_r2_c1.gif" width="15" height="35" border="0" alt=""></td>
+   <td height="35" colspan="2" align="right" valign="middle" background="/images/iluvdressup_r2_c2.gif" bgcolor="#CC0066"><div id="menu">
+     <table width="760" border="0" cellspacing="0" cellpadding="0">
+       <tbody><tr>
+         <td width="550"><img src="/templates/iluvdressup-com/images/meniu.gif" width="538" height="29" border="0" usemap="#Meniu">
+           <map name="Meniu">
+             <area shape="rect" coords="410,0,536,29" href="/Members.html" alt="Members">
+             <area shape="rect" coords="273,0,399,29" href="/Register.html" alt="Register">
+             <area shape="rect" coords="137,0,263,29" rel="nofollow" href="javascript:void()" onclick="javascript:bookmarksite('iLuvDressUp.com - Dress up games','http://www.iluvdressup.com/');return false" alt="Bookmark">
+             <area shape="rect" coords="0,0,126,29" href="/" alt="Home">
+           </map></td>
+         <td align="center" valign="middle"><a href="http://www.iluvtoplay.com/free-games-for-your-website.html" target="_blank">Free
+             games for your website!</a></td>
+       </tr>
+     </tbody></table>
+     </div></td>
+   <td bgcolor="#FFFFFF"><img name="header_r5_c4" src="/images/iluvdressup_r2_c4.gif" width="14" height="35" border="0" alt=""></td>
+  </tr>
+  <tr align="left" valign="middle">
+
+   <td colspan="4" bgcolor="#FFFFFF"><div id="loginbox">
+<div style="float:left;margin-left:33px;margin-top:5px;width:170px;"><h1>Categories</h1></div>
+<div style="text-align: left; position: relative;top:4px; color: white;font-size:9pt;float:left;">
+<form name="form1" method="post" action="http://www.iluvdressup.com/index.php" style="margin:0px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="whitetext">Username:</span> &nbsp;<input name="loginuser" type="text" id="loginuser" class="login_style">&nbsp;
+<span class="whitetext">Password:</span> &nbsp;<input name="loginpassword" type="password" id="loginpassword" class="login_style">&nbsp;
+<span class="dropbox"><input type="checkbox" name="saveme" value="1"></span> <span class="whitetext">Remember Me</span>&nbsp;
+<span class="dropbox" style="position: relative; top: 6px;"><input name="Submit" type="image" alt="LOG IN" src="http://www.iluvdressup.com/templates/iluvdressup-com/images/login_button.gif" id="Submit" value="Login"></span>
+&nbsp;&nbsp;&nbsp;<a href="http://www.iluvdressup.com/index.php?action=register" class="whitelink">Create an Account</a>
+&nbsp;&nbsp;&nbsp;<a href="javascript:popRecoverPassword('http://www.iluvdressup.com/index.php?action=passwordrecovery')" class="whitelink">Lost Password?</a>
+</form>
+</div>
+</div>
+</td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td colspan="4"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><table width="988" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="230" valign="top"><div id="left"><div class="leftcell">
+<center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="220" height="170">
+  <param name="movie" value="/menu_left.swf">
+  <param name="quality" value="high">
+  <embed src="/menu_left.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="220" height="170">
+</object>
+<br>
+<a style="font-size:12pt;font-family:Comic Sans Ms, Tahoma, Arial;" href="http://www.iluvdressup.com/archive/0-32/" title="all dress up games">All Dress Up Games</a><br><br>
+<a style="font-size:12pt;font-family:Comic Sans Ms, Tahoma, Arial;" href="http://www.girlgames4u.com/games/cooking-games.html" title="cooking games" target="_blank">Cooking Games</a><br>
+<a style="font-size:12pt;font-family:Comic Sans Ms, Tahoma, Arial;" href="http://www.girlgames4u.com/games/decoration-games.html" title="room decor games" target="_blank">Decoration games</a><br>
+<a style="font-size:12pt;font-family:Comic Sans Ms, Tahoma, Arial;" href="http://www.girlgames4u.com/games/make-up-games.html" target="_blank" title="make up games">Make Up Games</a>
+<br>
+<br>
+</center></div>
+<div class="leftcell">
+<div class="lefttop">Game search</div>
+<div class="leftmiddle">
+			                      <form style="margin:2px;align:left;" name="form_search" method="post" action="http://www.iluvdressup.com/index.php">
+                       <input name="q" type="text" id="q" size="15" class="search_style">
+                       <input type="submit" name="Submit" value="Search">
+                     </form>
+		       <span style="color:#CC0066;">Latest searches: 
+		        <a href="http://www.iluvdressup.com/search-results/20433/trends.html" title="Click to view search results for trends">trends</a> <a href="http://www.iluvdressup.com/search-results/23228/bill-kaulitz.html" title="Click to view search results for bill kaulitz">bill kaulitz</a> <a href="http://www.iluvdressup.com/search-results/932/rbd.html" title="Click to view search results for rbd">rbd</a> <a href="http://www.iluvdressup.com/search-results/2186/britney-spears.html" title="Click to view search results for britney spears">britney spears</a> <a href="http://www.iluvdressup.com/search-results/39747/edward-cullen-dress-up.html" title="Click to view search results for edward cullen dress up">edward cullen dress up</a></span>
+</div>
+<div class="leftbottom"></div>
+</div>
+<div class="leftcell">
+<div class="lefttop">Featured content</div>
+<div class="leftmiddle">
+<!-- GirlGamesBanner.com BEGIN -->
+<iframe src="http://www.girlgamesbanner.com/work.php?n=2&amp;size=1&amp;c=" width="100" height="100" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+<!-- GirlGamesBanner.com END -->   <!-- GBN Code Start -->
+<script language="JavaScript">
+aj_pr = Math.floor(Math.random() * 1000000);
+document.write('<iframe width="100" height="100" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://ads.gamesbannernet.com/servlet/ajrotator/132080/0/vh?z=gbn&dim=119&nocache='+aj_pr+'&referer='+escape(document.location.href)+'"></iframe>');
+</script><iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.gamesbannernet.com/servlet/ajrotator/132080/0/vh?z=gbn&amp;dim=119&amp;nocache=968288&amp;referer=https%3A//web.archive.org/web/20090429175259id_/http%253A//www.iluvdressup.com/privacy.html"></iframe>
+<noscript>
+<a href="http://www.gamesbannernet.com/" target="_blank">
+<img src="http://www.gamesbannernet.com/img/spacer.gif" alt="Games Banner Network" width="1" height="1" border="0">
+</a>
+</noscript>
+<!-- GBN Code End --></div>
+<div class="leftbottom"></div>
+</div>
+
+<div class="leftcell">
+<div class="lefttop">Top members</div>
+<div class="leftmiddle">
+<span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/22286/mcrisvz.html"><img src="http://www.musicnotes.com/images/feature_images/harrypotter/circle_gold_white.gif" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/22286/mcrisvz.html">mCrisvz</a><br>
+				<b>41651 points</b>
+                </span><span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/22465/totah2.html"><img src="http://www.iluvdressup.com/avataradmin/avataruploads/myspace-icons-fantasy51.gif" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/22465/totah2.html">totah2</a><br>
+				<b>38212 points</b>
+                </span><span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/1402/yuffie.html"><img src="http://tbn2.google.com/images?q=tbn:Y6PGQJHl7d3Y2M:http://wanabee.files.wordpress.com/2007/05/all-american-rejectsweb.jpg" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/1402/yuffie.html">Yuffie</a><br>
+				<b>21246 points</b>
+                </span><span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/1065/missgirl.html"><img src="http://pic.ipicture.ru/uploads/081103/I2HtGPRoA8.gif" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/1065/missgirl.html">MissGirl</a><br>
+				<b>20288 points</b>
+                </span><span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/1232/natik.html"><img src="http://pic.ipicture.ru/uploads/081103/I2HtGPRoA8.gif" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/1232/natik.html">Natik</a><br>
+				<b>18269 points</b>
+                </span><span style="float: left; width: 105px; height: 140px; text-align: center;">
+                <a href="http://www.iluvdressup.com/profiles/10130/nenalili.html"><img src="http://www.iluvdressup.com/avataradmin/avataruploads/myspace-icons-anime4.jpg" class="smallicon"></a><br>
+				<a href="http://www.iluvdressup.com/profiles/10130/nenalili.html">NenaLili</a><br>
+				<b>12532 points</b>
+                </span></div>
+<div class="leftbottom"></div>
+</div>
+
+<iframe width="100" height="100" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://www1.girlgames4u.com/adp1.php"></iframe>
+ <iframe src="http://www.funklicks.com/work.php?n=3119&amp;size=24" width="100" height="100" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+
+
+<div style="clear:both"></div>
+<br>
+<center>
+<a href="http://www.girlgames4u.com/beauty-nails-design-game.html" title="beauty nails design game" target="_blank">
+<img border="0" src="http://cdn.girlgames4u.com/games/images/beauty-nails-design.jpg" alt="beauty nails design">
+<br>Beauty Nails Design Game</a></center>
+
+<a href="http://whos.amung.us/stats/dgtye3exr37h/"><img src="http://whos.amung.us/widget/dgtye3exr37h.png" width="1" height="1" border="0"></a>
+</div></td>
+            <td width="753" align="left" valign="top"><div id="middle">
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for iluvdressup.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=42156&amp;tp=5&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=42156&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=42156&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for iluvdressup.com --><br><p><strong>PRIVACY POLICY</strong></p>
+<p>ILuvDressUp is committed to providing an entertaining, fun and educational
+  service. iluvdressup.com is a property of ILuvDressUp. We respect the privacy
+concerns of visitors to iluvdressup.com.</p>
+<p><br>
+  <strong>Information we collect and how we use it</strong></p>
+<p>On your visit to our website there is certain information that we collect
+  from traffic references of hosting servers and from cookies.</p>
+<p>From traffic references of hosting servers – every time you visit a
+  website, there is certain information you make available for collection such
+  as IP address, time of visit, location, internet domain, type of browser and
+  operating system used to access our site, pages you visit, if you linked to
+  our website from another website, the address of that website etc . We, like
+  other operators, collect this information and use it for visitors’ statistics
+  and to improve our services to you.</p>
+<p>From Cookies – the sole purpose of cookies is to enhance your online
+  experience. Cookies are small data files that are stored on your computer by
+  Web sites. Through your Web browser, cookies are only used by the Web site
+  that wrote the cookie. Data stored in a cookie from ILuvDressUp is only accessible
+  by the ILuvDressUp Web site. This information enables us to run our affiliate
+  programs, allows customized advertising, lets you automatically sign in when
+  you visit ILuvDressUp, and offers other operational site activities. Most of
+  browsers are set to accept cookies. But if you prefer, you can reset your browser
+  so as to let you know whenever you receive a cookie or even to refuse cookies.
+  However, you should know that some parts of ILuvDressUp website can only be
+  normally seen if your browser allows cookies.</p>
+<p><br>
+  If you decide to create an account on our website, the information we collect
+    is your email address in order for us to be able to communicate with you
+    regarding your account and to send you notifications when necessary or our
+    newsletter.</p>
+<p>Your username, e-mail address, and password (needed for your registration)
+  will be used to uniquely identify you as a member on ILuvDressUp Web site.
+  We may use or display your username for the purposes of rankings, competitions
+  or sweepstakes, chat identification, or game high scores. We may also collect
+  other identifying information through voluntary means (such as Location, website,
+  personal message etc) that will show up on your Profile.</p>
+<p>ILuvDressUp will not share your information with anyone. The only exception
+  shall be in the event that disclosure of information is required by law enforcement
+  or other government officials in connection with investigation of fraud, intellectual
+  property infringements, or other activity that is illegal or that may expose
+  you or us to legal liability. </p>
+<p><strong>Collection of information and Third-Party sites and Sponsors</strong></p>
+<p>It is important that you understand that advertisers or Web sites that link
+  to a ILuvDressUp site may collect personal information about you. The Privacy
+  Policy does not apply to, and cannot control the activities of other advertisers
+  or Web sites. We use third-party advertising companies to serve ads on our
+  sites. These companies may use information about your visits to this and other
+  sites in order to help them provide relevant ads to users. Third parties may
+  also be placing and reading cookies on your browser, or using web beacons to
+  collect information, in the course of ads being served on our website.&nbsp;If
+  you do not wish for these third-parties to place and read cookies you can set
+  your browser to block them.</p>
+<p><br>
+  <strong>Chat and Messaging</strong><br>
+  ILuvDressUp may choose to operate message boards and/or chat areas where users
+  can exchange ideas and communicate with one another. When posting to a message
+  board or chat area, it is important for you to understand that the information
+  is being made publicly available in an online environment. Any information
+  posted is the sole responsibility of the individual user. This is why we recommend
+  not sharing your personal data such as real name or address.<br>
+  <strong>Security</strong><br>
+  All data that we collect is stored on one or more database servers. We are
+  taking any reasonable precaution to secure the data, but you have to understand
+  that the internet is not 100% safe and we cannot guarantee the safety of your
+  information. All this kind of transmission whatsoever is made on your own risk. <br>
+  <strong>Links to Other Sites</strong><br>
+  Our website has links to partners and other sites. When you link to another
+  site, you are no longer on our site and are subject to the privacy policy of
+  the new site. <br>
+  <strong>Parental review<br>
+  </strong>You may review or request to have deleted any information your child has submitted
+  to us. You may also request that we not collect any personal information about
+  your child in the future. To do this, send a written request including your
+  child's email address for verification to admin@iluvdressup.com</p>
+<p><strong>Email Opt-Out</strong><br>
+  When you sign up as a ILuvDressUp user you agree to allow us to communicate
+    with you via e-mail about news, games, special offers, and events. Any e-mail
+    we send to you (not more than one a month) will contain information about
+    opting-out of any further mailings, which will be possible only by closing
+    your account. To do so, please email us at admin@iluvdressup.com from the
+same email address you used to register.</p>
+<p><strong>AGREEMENT WITH iluvdressup POLICIES</strong><br>
+  By using this site, you signify your assent to the ILuvDressUp Privacy Policy.
+    If you do not agree to this policy, please do not use ILuvDressUp site. We
+    reserve the right to make changes in this policy at any time. Please check
+    the policy each time you use our web site to ensure you are aware of any
+    changes in our privacy practices. Our privacy policy will indicate the date
+it was last updated.</p>
+<p>&nbsp; </p>
+</div>
+</td>
+          </tr>
+        </tbody></table></td>
+        </tr>
+    </tbody></table>      
+      <div align="center"><br>
+          <hr style="color:#CC0066;size:2px;width:980px;">
+<span style="color:#CC0066;font-family:Tahoma;font-size:12px;">Copyright © iLuvDressUp.com - <a href="http://www.iluvdressup.com/">Dress
+          up games</a><br>
+		  <a href="/privacy.html">Privacy policy</a> | Term of use<br>
+		  <br>
+		  
+          <a href="/wedding-dress-up-games/">Wedding dress up games</a>, <a href="/girls-dress-up-games/">Girls
+    dress up</a>, <a href="/fashion-dress-up-games/">Fashion games</a>, <a href="/princess-dress-up-games/">Princess
+    games</a>, <a href="/animal-dress-up-games/">Pets and animal dress up</a>,
+    <a href="/celebrity-dress-up-games/">Celebrity dress up</a>, <a href="/fantasy-dress-up-games/">Fantasy dress up</a>, Boys dress up, Doll dress up<br>
+	</span></div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td height="10" colspan="4"><img src="/images/bottom.gif" width="989" height="10"></td>
+  </tr>
+</tbody></table>
+<br><br>
+</center>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-186012-33";
+urchinTracker();
+</script>
+
+
+</body></html>
