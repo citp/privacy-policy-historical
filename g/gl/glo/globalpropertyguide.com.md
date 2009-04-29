@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090717id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429063309id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
@@ -61,4 +61,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### How To Contact the Global Property Guide
 
-Should you have other questions or concerns about these privacy policies, please call us at 632 867 4220 or send an email at [privacy@globalpropertyguide.com](mailto:privacy@globalpropertyguide.com).
+Should you have other questions or concerns about these privacy policies, please call us at 632 867 4220 or send an email at [editor@globalpropertyguide.com](mailto:editor@globalpropertyguide.com).
