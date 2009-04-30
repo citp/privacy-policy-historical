@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224050419id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430194142id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
 
 # Powerful UPS and USPS Shipping Software for Miva Merchant
 
