@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614060735id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430040949id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
 Privacy Policy 
 
-Effective Date of Current Policy: July 25, 2007  
+Effective Date of Current Policy: August 21, 2008  
 
 
 This is how we will handle information we learn about you from your visit to our website. It is based on how all of us at Learning Strategies Corporation want to be treated when we visit other websites. 
@@ -24,7 +24,11 @@ You may decide to send us personally identifying information, for example, in an
 
 Every time you purchase a product on our web site you will receive order acknowledgment emails, and if applicable, product fulfillment emails. If the product you purchase is a teleseminar or other event, you will receive event details via email.
 
-We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. 
+We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
+
+If you purchase a downloadable product from us:
+
+When you "checkout" or otherwise "purchase" Learning Strategies Corporation programs or products, you are granted a limited, revocable, non-exclusive, non-transferable license to download or stream such Learning Strategies programs or products to your computer and/or your device(s) solely for your personal non-commercial use. You shall not copy, reproduce, distribute or use the Learning Strategies program or product in any other manner. You shall not sell, transfer, lease, modify, distribute or publicly perform the Learning Strategies program or product in any manner and you shall not exploit it commercially. Do not (A) decompile, disassemble, or reverse engineer the Learning Strategies program or product or attempt to do so; or (B) modify the Learning Strategies program or product or create any derivative works therefrom. 
 
 Will we disclose any personal information we collect to outside parties? 
 
