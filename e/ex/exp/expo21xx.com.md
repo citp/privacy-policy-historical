@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo21xx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100730id_/http%3A//www.expo21xx.com/in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo21xx.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430130443id_/http%3A//www.expo21xx.com/in/privacy.htm) for the most accurate reproduction.*
 
 # EXPO21XX.com
 
