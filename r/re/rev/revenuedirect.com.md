@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuedirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013309id_/http%3A//www.revenuedirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuedirect.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430110632id_/http%3A//www.revenuedirect.com/privacy.htm) for the most accurate reproduction.*
 
 # RevenueDirect: Privacy Policy
 
