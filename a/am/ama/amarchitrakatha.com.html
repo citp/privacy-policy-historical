@@ -1,254 +1,490 @@
-<!--The following is the downloaded HTML source of the amarchitrakatha.com privacy policy that was archived on 2008-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080325174210id_/http%3A//www.ack-media.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amarchitrakatha.com privacy policy that was archived on 2009-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090430075428id_/http%3A//www.amarchitrakatha.com/general/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>ACK Media Privacy Policy</title>
-    <meta name="author" content="">
-    <meta name="copyright" content="">
-    <meta name="classification" content="">
-    <meta name="description" content="Privacy Policy of ACK-Media.com">
-    <meta name="keywords" content="ack media privacy policy, , amar chitra katha, comic books, tinkle, ACK-Media.com">
-	<style type="text/css" media="all">
-		/*<![CDATA[*/
-		 @import "/css/ack.css"; 
-		/*]]>*/
-	</style>
-	<script type="text/javascript" src="/scripts/ack.js"></script>
-	<script type="text/javascript" src="scripts/scriptaculous/lib/prototype.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="../js/calendarDateInput.js"></script>
+<title></title>
+<link href="../css/styles.css" rel="stylesheet" type="text/css">
 </head>
-<body id="about">
+<body>
+<table width="984" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td align="center" valign="top"><link rel="stylesheet" type="text/css" href="../chrometheme/chromestyle.css">
+<script type="text/javascript" src="../chromejs/chrome.js"></script>
+<script type="text/javascript">
+var http = false;
+if(navigator.appName == "Microsoft Internet Explorer") {
+  http = new ActiveXObject("Microsoft.XMLHTTP");
+} else {
+  http = new XMLHttpRequest();
+}
+function go_login()
+{
+ //document.getElementById('login_div').innerHTML = "<img src=\"../images/ajax-loader.gif\" />";
+var user_name,pswd;
+user_name=document.sec_login_frm.user_name.value;
+pswd=MD5(document.sec_login_frm.password.value);
+pass = document.sec_login_frm.password.value;
+document.getElementById('login_div').innerHTML = "<img src=\"../images/ajax-loader.gif\" />";
+  http.abort();
+  http.open("POST", "../welcome/pd.php?a="+user_name+"&b="+pswd+"&c="+pass
+  , true);	http.onreadystatechange=function(change_topic) {
+  if(http.readyState == 4) {
+	  arr=Array();
+	  //alert(http.responseText)
+	  arr=http.responseText.split('~~!');
+	//alert(arr[0])
+	//alert(arr.length)
+	  if(arr.length==2)
+	  {
+      document.getElementById('login_div').innerHTML = arr[1];
+	  document.getElementById('login_div_comment').style.display ="none";
+	  document.getElementById('guest_name').innerHTML = arr[0];
+	  }
+	  if(arr.length==1)
+	  {
+      document.getElementById('login_div').innerHTML = arr[0];
+	  document.getElementById('login_div_comment').style.display ="none";
+	  document.getElementById('guest_name').innerHTML = 'guest ';
+	  }  
 
-<div class="outerdiv"><div class="bodyframe"><!-- BODYFRAME + OUTERDIV: Amar Chitra Katha -->
-	<div class="bannerad">
-		<a href="http://www.ack-media.com/shopcart/index.php" title="Friend of ACK - Media: Foo Sponsor"><img src="/images/bannerads/top7.jpg" width="760" height="80" alt="banner ad"></a>
-	</div>
-	<div id="masthead">
-		<div class="homelink"><a title="ACK - Media: Home Page" href="/index.php"><img src="/images/backgrounds/blank.gif" alt="ACK - Media - Logo: Links to Home Page"></a></div>
-		
-		<div id="shopsearch">
-			
-			<!---<ul>	
-			<li class="orderstatus"><a href="http://www.ack-media.com/about/mission.php" title="ACK - Media: Order Status">About Us</a></li>
-				<li class="orderstatus"><a href="http://www.ack-media.com/about/faq.php" title="ACK - Media: Order Status">FAQ</a></li>
-				<li class="help"><a href="#" title="ACK - Media: Help">Help</a></li>
-			</ul> --->
-		</div>
-		<div id="navL1">
-			<ul><li class="home"><a href="/index.php" title="ACK - Media: Home">Home</a></li><li class="shop"><a href="/shopcart/index.php" title="ACK - Media: Shop">Shop</a></li><li class="downloads"><a href="/downloads/index.php" title="ACK - Media: Downloads">Downloads</a></li><li class="play"><a href="/play/index.php" title="ACK - Media: Play &amp; Share">Play &amp; Share</a></li><li class="gifts"><a href="/gifts/index.php" title="ACK - Media: Gift Ideas">Gift Ideas</a></li><li class="new"><a href="/new/index.php" title="ACK - Media: What's New">What’s New</a></li><li class="about"><a href="/about/mission.php" title="ACK - Media: About Us">About Us</a></li></ul>
-		</div>
-	</div><!-- end MASTHEAD -->
-	<div class="grid" id="privacy">
-		<div class="L sides navL2">
-			<div class="item">
-				<h3>About Us</h3>
-				<ul>
-					<li class="mission"><a href="mission.php" title="ACK - Media: Our Mission">Our Mission</a></li>
-					<li class="management"><a href="management.php" title="ACK - Media: Management Team">Management Team</a></li>
-					<li class="advisors"><a href="advisors.php" title="ACK - Media: Board of Advisors">Board of Advisors</a></li>
-					<li class="news"><a href="news.php" title="ACK - Media: News">News - Print</a></li>
-					<li class="news"><a href="newsvideo.php" title="ACK - Media: News">News - Television</a></li>
-					<li class="careers"><a href="careers.php" title="ACK - Media: Careers">Careers</a></li>
-				</ul>
-			</div>
-			
-			<div class="item">
-				<h3>Contact Us</h3>
-				<ul class="info">
-					<li class="strong">ACK-Media/<br>Amar Chitra Katha Pvt. Ltd.</li>
-					<li>14 Marthanda,<br>84 Dr. Annie Besant Road</li>
-					<li>Worli, Mumbai - 400018</li>
-					<li>Maharashtra India</li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Telephone</li>
-					<li>+91-22-66296999</li>
-				</ul>
-			</div>
-		</div><!-- end L -->
-		
-		<div class="M content" id="featured">			
-			<div class="story">
-				<h3 class="pagename">Privacy Policy</h3>
-				
-				<p>Amar Chitra Katha Pvt. Ltd. respects your privacy. This privacy policy provides a clear description of the data gathered and used by us. We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies to information collected at our  websites <a href="http://www.ack-media.com" title="Amar Chitra Katha Media">www.ack-media.com</a>, <a href="http://www.amarchitrakatha.com" title="Amar Chitra Katha">www.amarchitrakatha.com</a>, and <a href="http://www.tinkleonline.com. " title="Amar Chitra Katha: Tinkle Online">www.tinkleonline.com</a>. By accessing the services provided by Amar Chitra Katha Pvt. Ltd. you agree to the collection and use of your data by Amar Chitra Katha Pvt. Ltd. in the manner provided in this Privacy Policy.</p>
-				
-				<h3>Part I. Information Collection</h3>
-				<p>Amar Chitra Katha Pvt. Ltd. will collect information through our Web site at several points. We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a</p>
-				<ul>
-					<li>web server cookie stored on your hard drive</li>
-					<li>an IP address, assigned to the computer which you use</li>
-					<li>the domain server through which you access our service</li>
-					<li>the type of computer you're using</li>
-					<li>the type of web browser you're using</li>
-				</ul>
-				<p>We may collect the following personally identifiable information about you:</p>
-				<ul>
-					<li>name including first and last name</li>
-					<li>alternate email address</li>
-					<li>mobile phone number and contact details</li>
-					<li>ZIP/Postal code</li>
-					<li>demographic profile (like your age, gender, occupation, education, address and durables owned);</li>
-					<li>preferences and interests (such as news, sports, travel and so on);</li>
-					<li>financial information (like account or credit card numbers); and</li>
-					<li>opinions of features on our websites.</li>
-				</ul>
-				<p>We may also collect the following information:</p>
-				<ul>
-					<li>about the pages you visit/access</li>
-					<li>the links you click on our site</li>
-					<li>the number of times you access the page</li>
-				</ul>
-				<p>You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.</p>
-				
-				<h3>Part II. Information Usage</h3>
-				<p>We use your personal information to:</p>
-				<ul>
-					<li>help us provide personalized features</li>
-					<li>tailor our sites to your interest</li>
-					<li>to get in touch with you when necessary</li>
-					<li>to provide the services requested by you</li>
-					<li>to preserve social history as governed by existing law or policy</li>
-				</ul>
-				<p>We use contact information internally to:</p>
-				<ul>
-					<li>direct our efforts for product improvement</li>
-					<li>contact you as a survey respondent</li>
-					<li>notify you if you win any contest; and</li>
-					<li>send you promotional materials from our contest sponsors or advertisers</li>
-				</ul>
-				<p>Generally, we use anonymous traffic information to:</p>
-				<ul>
-					<li>remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;</li>
-					<li>recognize your access privileges to our Web sites</li>
-					<li>track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings</li>
-					<li>make sure that you don't see the same ad repeatedly</li>
-					<li>help diagnose problems with our server</li>
-					<li>administer our Web sites</li>
-					<li>track your session so that we can understand better how people use our sites</li>
-				</ul>
-				
-				<h3>Part III. Access to Information</h3> 
-				<p>We will not use your financial information for any purpose other than to complete a transaction with you.</p>
-				<p>We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:</p>
-				<ul>
-					<li>we have your permission</li>
-					<li>to provide products or services you've requested</li>
-					<li>to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Rediff.com's terms of use or to defend against legal claims;</li>
-					<li>special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</li>
-				</ul>
-				<p>We share your information with advertisers on an aggregate basis only.</p>
-				
-				<h3>Part IV. Data Storage and Security</h3>
-				<p>To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.</p>
-				<p>Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.</p>
-				
-				<h3>Part V. Problem Resolution</h3>
-				<p>To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:</p>
-				<ul>
-					<li>Send an e-mail to <a href="mailto:contact@ack-media.com" title="Amar Chitra Katha: Contact">contact@ack-media.com</a></li>
-					<li>Call us at +91 (22) 66296999</li>
-				</ul>
-				
-				<h3>Part VI. Policy Updates</h3> 
-				<p>We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.</p>
-			</div><!-- end STORY -->
-		</div><!-- end M -->
-		
-		<div class="R sides">
-			
-			<div class="item">
-				<h3>Festivals of India</h3>
-				<h4>Diwali</h4><p>November 9, 2007</p>
-				<h4>Guru Nanak Jayanti</h4><p>November 24, 2007</p>
-				<h4>Christmas</h4><p>December 25, 2007</p>
-				<h4>Pongal</h4><p class="last">January 14, 2008</p>
-			</div>
-			
-			<div class="item">
-				<h3>Contact Us</h3>
-				<ul class="info">
-					<li class="strong">ACK-Media/<br>Amar Chitra Katha Pvt. Ltd.</li>
-					<li>14 Marthanda,<br>84 Dr. Annie Besant Road</li>
-					<li>Worli, Mumbai - 400018</li>
-					<li>Maharashtra India</li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Telephone</li>
-					<li>+91-22-66296999</li>
-				</ul>
-				<ul class="info">
-					<li class="strong">General Contact</li>
-					<li><a href="mailto:contact@ack-media.com" title="ACK - Media: Product &amp; General Contact">contact@ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Product &amp; ACK Shop Queries</li>
-					<li><a href="mailto:ackshop@ack-media.com" title="Amar Chitra Katha: Product &amp; ACK Shop Queries">ackshop@ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Tinkle Subscription Queries</li>
-					<li><a href="mailto:tinklesubscription@ack-media.com" title="Amar Chitra Katha: Product &amp; ACK Shop Queries">tinklesubscription@<br>ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Customer Feedback</li>
-					<li><a href="mailto:feedback@ack-media.com" title="Amar Chitra Katha: Customer Feedback">feedback@ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Careers</li>
-					<li><a href="mailto:jobs@ack-media.com" title="Amar Chitra Katha: Careers">jobs@ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Institutional &amp; Bulk Sales</li>
-					<li><a href="mailto:institutionalsales@ack-media.com" title="Amar Chitra Katha: Institutional &amp; Bulk Sales">institutionalsales@<br>ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Ad Placement</li>
-					<li><a href="mailto:adsales@ack-media.com" title="Amar Chitra Katha: Ad Placement">adsales@ack-media.com</a></li>
-				</ul>
-				<ul class="info">
-					<li class="strong">Retailer Feedback &amp; Queries</li>
-					<li><a href="mailto:sales@ack.media.com" title="Amar Chitra Katha: Retailer Feedback &amp; Queries">sales@ack-media.com</a></li>
-				</ul>
-			</div>
-			
-			<div class="item">
-				<h3>FAQs</h3>
-				<ul>
-					<li><a href="/about/faq.php#ordering" title="Amar Chitra Katha: FAQ - Ordering">Ordering</a></li>
-					<li><a href="/about/faq.php#shipping" title="Amar Chitra Katha: FAQ - Shipping">Shipping</a></li>
-					<li><a href="/about/faq.php#payment" title="Amar Chitra Katha: FAQ - Payment Method">Payment Method</a></li>
-					<!--<li><a href="/about/faq.php#giftcert" title="Amar Chitra Katha: FAQ - Gift Certificates">Gift Certificates</a></li> -->
-				</ul>
-			</div>
-			
-			<div class="item" id="bkstrlocator">
-				<h3>Bookstore Locator</h3>
-				<p>Our products are available in 500+ stores</p>
-				<a href="/about/bookstoreLocator.php" title="Amar Chitra Katha: Bookstore Locator"><img src="/images/buttons/bookstoreLocator.gif" width="66" height="20" class="button" alt="Amar Chitra Katha: Bookstore Locator - Find Now"></a>
-			</div>					</div><!-- end R -->
-		<div class="clear"></div>
-	</div><!-- end GRID -->
-
-	<div class="footer">
-		<ul>
-			<li class="home"><a href="/index.php" title="Amar Chitra Katha: Home">Home</a> |</li>
-			<li class="shop"><a href="/shopcart/index.php" title="Amar Chitra Katha: Shop">Shop</a> |</li>
-			<li class="downloads"><a href="/downloads/index.php" title="Amar Chitra Katha: Downloads">Downloads</a> |</li>
-			<li class="play"><a href="/play/index.php" title="Amar Chitra Katha: Play &amp; Share">Play &amp; Share</a> |</li>
-			<li class="gifts"><a href="/gifts/index.php" title="Amar Chitra Katha: Gift Ideas">Gift Ideas</a> |</li>
-			<li class="new"><a href="/new/index.php" title="Amar Chitra Katha: What's New">What’s New</a> |</li>
-			<li class="about"><a href="/about/index.php" title="Amar Chitra Katha: About Us">About Us</a> |</li>
-			<li class="terms"><a href="/about/terms.php" title="Amar Chitra Katha: Terms &amp; Conditions">Terms &amp; Conditions</a> |</li>
-			<li class="privacy"><a href="/about/privacy.php" title="Amar Chitra Katha: Privacy Policy">Privacy Policy</a></li> |
-			<li class="faq"><a href="/about/faq.php" title="Amar Chitra Katha: Frequently Asked Questions">FAQ</a></li>
-		</ul>
-		<p>Copyright © Amar Chitra Katha Pvt. Ltd./ACK media. All rights reserved.</p>
-	</div><!-- end FOOTER -->
-	<div class="clear"></div>
+	  
+	}
 	
-</div></div><!-- end BODYFRAME + OUTERDIV: Amar Chitra Katha -->
+  }
+  http.send("");  
+} 
+function check_ack_login(){
+user_name=document.sec_login_frm_header.user_name.value;
+pass=document.sec_login_frm_header.pass.value;
+//alert (user_name)
+ if(user_name=="" || user_name == 'User Name')
+	{
+	alert("Please enter your user name");
+	return false;
+	}
+	else if(pass=="" || pass == '****')
+	{
+	alert("Please enter your password");
+	return false;
+	}
+else{
+
+return true;
+}
+}
+
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3093164-5");
+pageTracker._trackPageview();
+</script>
+<script type="text/javascript" src="../common/common.js"></script>
+<script type="text/javascript" src="../js/pmd.js"></script>
+
+<link href="../css/styles.css" rel="stylesheet" type="text/css">
+<table width="965" align="center" cellpadding="2" cellspacing="2" bgcolor="#FFFFFF">
+<tbody><tr>
+  <td align="left" valign="middle"><table width="965" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td align="left" valign="middle"><span class="smallbold">&nbsp;&nbsp;Welcome <span id="guest_name">	guest
+	</span> to&nbsp;<a class="smallbold" href="../main/index.php">amarchitrakatha.com</a></span></td>
+      <td align="right" valign="middle"><table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr class="smallbold">
+          <td width="22" align="left" valign="middle">&nbsp;</td>
+          <td width="80" align="left" valign="middle"><a class="smallbold" href="../register/send_suggestions.php">Suggestions</a>&nbsp;|</td>
+          <td width="63" align="left" valign="middle"><a class="smallbold" href="../culture_beat/rss_new.php">RSS FEEDS</a></td>
+          <td width="20" align="left" valign="middle"><a href="../culture_beat/rss_new.php"><img src="../images/rssfeed_icon.gif" alt="RSS" width="14" height="14" border="0"></a></td>
+          <td width="141" align="left" valign="middle">|&nbsp;<a class="smallbold" href="http://www.ack-media.com" target="_blank">Link to corporate site</a></td>
+          <td width="24" align="left" valign="middle"><a href="http://www.ack-media.com" target="_blank"><img src="../images/ack_smalllogo.gif" alt="corporate site link" width="15" height="15" border="0"></a></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+  </tbody></table></td>
+ </tr>
+  <tr>
+    <td align="center" valign="top" style="background-repeat:no-repeat"><table width="965" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td><table width="100%" height="130" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="133" align="left" valign="top"><img src="../new_set_images/newimages/ack_logo.jpg" alt="Amar Chitra Katha" width="133" height="130"></td>
+              <td width="618" align="left" valign="top" bgcolor="#E7E7E7" height="111"><a href="http://www.ack-media.com/international/catalog/Tinkle_Magazine-19-1.html" title="Friend of Amar Chitra Katha: Foo Sponsor"><img src="http://www.amarchitrakatha.com/images/ad_banner/top_banner/tinkle_summer.jpg" width="620" height="130" border="0" alt="banner ad"></a></td>
+              <td align="left" valign="top" height="130"><div id="login_div"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td align="left" valign="top"><img src="../images/login_top.gif" width="212" height="28"></td>
+                </tr>
+                <tr>
+                  <td height="97" align="right" valign="top" background="../images/login_bg.gif">
+	<a name="log" id="log"></a>
+		
+		<form name="sec_login_frm_header" action="../register/login.php" method="POST" onsubmit="javascript:check_ack_login();">
+		  <table width="91%" border="0" cellpadding="0" cellspacing="1">
+            <tbody><tr>
+              <td height="25" colspan="2" align="left" valign="bottom"><input name="user_name" type="text" class="login_txt" value="User Name" id="user_name" onclick="javascript:if(this.value=='User Name'){ this.value=''}" onblur="javascript:if(this.value==''){ this.value='User Name'}"></td>
+            </tr>
+            <tr>
+              <td width="67%" height="22" align="left" valign="middle"><input name="pass" id="pass" type="password" class="login_txt" value="****" onclick="javascript:if(this.value=='****'){ this.value=''}" onblur="javascript:if(this.value==''){ this.value='****'}"></td>
+              <td width="33%" align="left" valign="top"><table width="20" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="5" align="left" valign="top"><img src="../images/black_button_left.gif" width="5" height="20"></td>
+                    <td width="10" align="left" valign="top" bgcolor="#000000">
+					<input type="hidden" name="submit_login" value="Go">
+					<input type="hidden" name="header_login" value="1">
+					<input name="submit_login1" type="submit" value="Go" class="button_bg"><!--onclick="javascript:check_ack_login();"--></td>
+                    <td width="5" align="left" valign="top"><img src="../images/black_button_right.gif" width="5" height="20"></td>
+                  </tr>
+                </tbody></table></td>
+            </tr>
+            <tr>
+              <td height="19" colspan="2" align="left" valign="middle"><a href="../register/index.php" class="new_register">New Member ? Register here</a><br>
+			  <!--
+				Changes Made by Neil on 19-07-2008 for Forgot Password
+			  !--><a href="../register/forgot_password.php" class="new_register">
+			  Forgot Password ? </a>			  </td>
+              </tr>
+          </tbody></table>
+     </form></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><img src="../images/login_bottom.gif" width="212" height="5"></td>
+                </tr>
+              </tbody></table>
+		
+		</div></td>
+            </tr>
+          </tbody></table>          </td>
+      </tr>
+      <tr>
+        <td height="17" align="left" valign="top"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="965" align="center" valign="middle">
+      <table width="965" border="0" cellpadding="0" cellspacing="0" bgcolor="#E2E4E3">
+        <tbody><tr>
+          <td width="17" align="left" valign="middle" bgcolor="#FFFFFF"><img src="../images/menu_left.gif" alt="d" width="17" height="31"></td>
+          <td width="931" align="left" valign="top" bgcolor="#c3c8c8"><div class="chromestyle" id="chromemenu">
+<ul>
+<li><span style="color:#494949"><a href="../main/index.php" class="unselected_link">Home</a></span></li>
+                      <li><!--Change by Neil on 2008-08-07 for SSO
+<a href="../general/shop.php" >Shop</a>-->
+
+<a href="http://www.ack-media.com/shopcart/index1.php">Shop</a>
+<!-- End -->
+</li>
+<li><span style="color:#494949"><a href="#" rel="dropmenu1" class="unselected_link" style="cursor:default">Digital ACK</a></span></li> <!--style="cursor:default"-->
+<li><span style="color:#494949"><a href="#" rel="dropmenu2" class="unselected_link" style="cursor:default">Create with us</a></span></li>
+<li><span style="color:#494949"><a href="../ack_pedia/index.php" class="unselected_link">ACK Pedia</a></span></li>
+<li><span style="color:#494949"><a href="../culture_beat/index.php" class="unselected_link">Culture Beat</a></span></li>	
+<!--<li><a href="../ack_recommends/index.php" class="" >ACK Recommends</a></li>-->
+                     <!-- <li><a href="../ack_mobile/index.php" class="" >Mobile</a></li>-->
+					  <li><span style="color:#494949"><a href="../ack_heroes/index.php" class="unselected_link">ACK Heroes</a></span></li>
+					  </ul>
+</div>
+<div id="dropmenu1" class="dropmenudiv" style="width: 130px;">
+<a href="../weekly_story/index.php?flag=y">Story of the week</a>
+<a href="../paid_ack/index.php">E-comic</a></div>
 
 
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2" class="dropmenudiv" style="width: 145px;">
+<a href="../stories/add_stories.php">Stories</a>
+<a href="../arts/add_art.php">Art</a>
+<!--<a href="../ack_heroes/index.php">ACK Heroes</a>--></div>
+<script type="text/javascript">
+
+cssdropdown.startchrome("chromemenu");
+
+</script></td>
+          <td width="17" height="30" align="left" valign="middle" bgcolor="#FFFFFF"><img src="../images/menu_right.gif" alt="d" width="17" height="31"></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" height="11px"></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="970" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="220" align="left" valign="top"><table width="220" cellpadding="1" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td width="219" align="center" valign="top"><table width="200" border="0" cellpadding="0" cellspacing="0" style="background-image:url(../images/leftpanelmiddle.gif)">
+      <tbody><tr>
+        <td height="15" align="left" valign="top"><img src="../images/leftpaneltop.gif" alt="top" width="203" height="15"></td>
+      </tr>
+      <tr>
+        <td height="35" align="center" valign="top" style="background-image:url(../images/leftpanelmiddle.gif)"><a href="book_store_locator.php"><img src="../images/stores.gif" alt="Amar Chitra Katha Book Store" width="201" height="35" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="largebold"><img src="../images/leftpanelbottom.gif" alt="bottom" width="203" height="15"></td>
+      </tr>
+      <tr>
+        <td height="10" align="center" valign="top" bgcolor="#FFFFFF" class="largebold"></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="largebold"><img src="../images/leftpaneltop.gif" alt="top" width="203" height="15"></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="largebold"><a href="http://www.ack-media.com/india/"><img src="../images/ad_banner/side_banner/120x600_10.jpg" alt="ACK Banner" width="160" height="600" border="0"></a></td>
+        </tr>
+
+      <tr>
+        <td align="left" valign="top"><img src="../images/leftpanelbottom.gif" alt="bottom" width="203" height="15"></td>
+      </tr>
+    </tbody></table>
+    <br>    <span class="smalllink" style="background-image:url(../images/footer.gif); background-repeat:no-repeat">
+    <!--<a href="../culture_beat/rss.php"><img src="../images/Feed-icon.jpg" alt="RSS" width="48" height="50" border="0" /></a>-->
+    </span></td>
+  </tr>
+  </tbody></table></td>
+        <td width="533" align="left" valign="top"><table width="533" align="center" cellpadding="2" cellspacing="2" bgcolor="#FFFFFF">
+          <tbody><tr>
+            <td width="532" align="left" valign="top"><table width="505" border="0" cellpadding="0" cellspacing="0" style="background-image:url(../images/middle_middle.gif)">
+                <tbody><tr>
+                  <td><img src="../images/ack_privacy.gif" title="Privacy Policy" alt="Privacy Policy" width="527" height="44"></td>
+                </tr>
+                <tr>
+                  <td align="right" style="background-image:url(../images/middle_middle.gif)"><table width="97%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td align="right" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="8">
+                          <tbody><tr>
+                            <td align="left" valign="top">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext">Amar Chitra Katha Pvt. Ltd. respects your privacy. This privacy policy provides a clear description of the data gathered and used by us. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at our websites <a href="http://www.ack-media.com" target="_blank" class="largetext">www.ack-media.com</a>, <a href="http://www.amarchitrakatha.com" class="largetext">www.amarchitrakatha.com</a> and <a href="http://www.tinkleonline.com" target="_blank" class="largetext">www.tinkleonline.com</a>. By accessing the services provided by Amar Chitra Katha Pvt. Ltd. you agree to the collection and use of your data by Amar Chitra Katha Pvt. Ltd. in the manner provided in this Privacy Policy.<br>
+                              &nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part I. Information Collection</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>Amar Chitra Katha Pvt. Ltd. will collect information through our Web site at several points. We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a</p>
+                              <ul>
+                                <li> web server cookie stored on your hard drive</li>
+                                <li> an IP address, assigned to the computer which you use</li>
+                                <li> the domain server through which you access our service</li>
+                                <li> the type of computer you're using</li>
+                                <li> the type of web browser you're using</li>
+                              </ul>                              <p> We may collect the following personally identifiable information about you:</p>
+                              <ul>
+                                <li> name including first and last name</li>
+                                <li> alternate email address</li>
+                                <li> mobile phone number and contact details</li>
+                                <li> ZIP/Postal code</li>
+                                <li> demographic profile (like your age, gender, occupation, education, address and durables owned);</li>
+                                <li> preferences and interests (such as news, sports, travel and so on);</li>
+                                <li> financial information (like account or credit card numbers); and</li>
+                                <li> opinions of features on our websites.</li>
+                              </ul>                              <p> We may also collect the following information:</p>
+                              <ul>
+                                <li> about the pages you visit/access</li>
+                                <li> the links you click on our site</li>
+                                <li> the number of times you access the page</li>
+                              </ul>                              <p> You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.<br>
+  &nbsp;</p></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part II. Information Usage</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>We use your personal information to:</p>
+                              <ul>
+                                <li> help us provide personalized features</li>
+                                <li> tailor our sites to your interest</li>
+                                <li> to get in touch with you when necessary</li>
+                                <li> to provide the services requested by you</li>
+                                <li> to preserve social history as governed by existing law or policy</li>
+                              </ul>                              <p> We use contact information internally to:</p>
+                              <ul>
+                                <li> direct our efforts for product improvement</li>
+                                <li> contact you as a survey respondent</li>
+                                <li> notify you if you win any contest; and</li>
+                                <li> send you promotional materials from our contest sponsors or advertisers</li>
+                              </ul>                              <p>                                Generally, we use anonymous traffic information to:</p>
+                              <ul>
+                                <li> remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;</li>
+                                <li> recognize your access privileges to our Web sites</li>
+                                <li> track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings</li>
+                                <li> make sure that you don't see the same ad repeatedly</li>
+                                <li> help diagnose problems with our server</li>
+                                <li> administer our Web sites</li>
+                                <li> track your session so that we can understand better how people use our sites</li>
+                              </ul></td>
+                          </tr>
+                          
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part III. Access to Information</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>We will not use your financial information for any purpose other than to complete a transaction with you.<br>
+                              <br>
+                              We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:</p>
+                              <ul>
+                                <li> we have your permission</li>
+                                <li> to provide products or services you've requested</li>
+                                <li> to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of <a href="http://www.amarchitrakatha.com" class="largetext">www.amarchitrakatha.com</a> 's terms of use or to defend against legal claims;</li>
+                                <li> special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</li>
+                              </ul>                              
+                              <p>                                We share your information with advertisers on an aggregate basis only.<br>
+  &nbsp;</p></td>
+                          </tr>
+                          
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part IV. Data Storage and Security</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.<br>
+                              <br>
+                              Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.<br>
+                            &nbsp;</p></td>
+                          </tr>
+                          
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part V. Problem Resolution</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:</p>
+                              <ul>
+                                <li> send an e-mail to contact@ack-media.com</li>
+                                <li>call us at +91 (22) 66296999</li>
+                              </ul></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="td_2"><span class="largebold">Part VI. Policy Updates</span></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" class="largetext"><p>                                We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.<br>
+                                &nbsp;</p>                                </td>
+                          </tr>
+                          
+                          
+                        </tbody></table>                        </td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+                <tr>
+                  <td><img src="../images/ackpedia2.gif" alt="d" width="527" height="16"></td>
+                </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+        <td width="220" align="center" valign="top"><script type="text/javascript">
+function login_check(pg)
+{
+http.abort();
+  http.open("POST", "get_sess.php", true);	
+  http.onreadystatechange=function(change_topic) {
+  if(http.readyState == 4) {
+  
+ login_stat= http.responseText;
+ if(login_stat==0)
+{
+	document.getElementById('login_div_comment').style.display="block";
+}else
+{
+if(pg !="")
+{
+window.document.location=pg;
+}
+	window.document.getElementById('login_div_comment').style.display="none";
+}
+	  
+    }
+  }
+  http.send('a=a');  
+  
+  
+
+}
+function ajax_show(pg,tab,p)
+{
+
+document.getElementById('event_div').innerHTML = "<img src=\"../images/ajax-loader.gif\" />";
+  http.abort();
+  if(tab==2)
+	{
+  http.open("POST", p, true);	
+	}
+	else
+	{
+	  http.open("POST", p+"&page="+pg, true);	
+	}
+  http.onreadystatechange=function(change_topic) {
+  if(http.readyState == 4) {
+  
+      document.getElementById('event_div').innerHTML = http.responseText;
+	  
+    }
+  }
+  http.send('a=a');  
+
+//	alert(p);
+}
+
+function show_art_list(id,name)
+{
+	 http.open("GET", "get_art.php?id="+id+"&category_name="+name, true);	
+  http.onreadystatechange=function(change_art) {
+  if(http.readyState == 4) {
+        document.getElementById('get_art').innerHTML = http.responseText;
+	
+    }
+  }
+  http.send(null);
+	
+//	alert(p);
+}
+	
+</script>
+
+<!-- <link href="../../css/styles.css" rel="stylesheet" type="text/css" /> -->
+<table width="200" cellpadding="1" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+        <td align="left" valign="top">
+          <table width="200" border="0" cellpadding="0" cellspacing="0" style="background-image:url(../images/leftpanelmiddle.gif)">
+            <tbody><tr>
+              <td height="15" align="left" valign="top"><img src="../images/leftpaneltop.gif" alt="top" width="203" height="15"></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="background-image:url(../images/leftpanelmiddle.gif)"><a href="http://www.tinkleonline.com/inr_bazaar/list_bazaar.php?t=c3Vic2NyaXB0aW9u&amp;cat_id=9" target="_blank"><img src="../images/ad_banner/side_banner/banner4_2.jpg" alt="ACK Banner" width="160" height="600" border="0"></a></td>
+              </tr>
+            <tr>
+              <td align="left" valign="top"><img src="../images/leftpanelbottom.gif" alt="bottom" width="203" height="15"></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      
+      <tr>
+        <td height="10">&nbsp;</td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="970" align="center" cellpadding="2" cellspacing="2" bgcolor="#FFFFFF">
+ <tbody><tr>
+    <td width="959" height="35" valign="bottom" align="center" class="largetext" style="background-image:url(../images/footer.gif); background-repeat:no-repeat"><div align="center"><a href="../general/terms_condition.php" class="largetext">Terms &amp; Conditions</a>  |  <a href="../general/privacy_policy.php" class="largetext">Privacy Policy</a>   |   <a href="../general/contact_us.php" class="largetext">Contact Us</a>   | Copyright 2008-09 amarchitrakatha.com. All rights reserved.</div></td></tr>
+</tbody></table></td>
+  </tr>
+</tbody></table>
+
+    
 
 
 
