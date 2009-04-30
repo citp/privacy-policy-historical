@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430231219id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # HIPAA Space Privacy Policy
 
@@ -22,7 +22,7 @@ At HIPAA Space we recognize that privacy is important. This Policy applies to al
 
 HIPAA Space adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/general/feedback.aspx) through our website.
+If you have any questions about this Policy, please feel free to [contact us](http://www.hipaaspace.com/general/feedback.aspx) through our website.
 
 Policy's effective date is: 03/22/2008
 
@@ -84,7 +84,7 @@ When you use HIPAA Space services, we make good faith efforts to provide you wit
 
 ### Enforcement
 
-HIPAA Space regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or HIPAA Space's treatment of personal information by [contacting us](https://web.archive.org/web/20081228042841id_/http%3A//www.hipaaspace.com/general/feedback.aspx) through this web site. When we receive formal complaints, it is HIPAA Space's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between HIPAA Space and an individual. 
+HIPAA Space regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or HIPAA Space's treatment of personal information by [contacting us](http://www.hipaaspace.com/general/feedback.aspx) through this web site. When we receive formal complaints, it is HIPAA Space's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between HIPAA Space and an individual. 
 
 ### Changes to this policy
 
