@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012604id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430045551id_/http%3A//www.members.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
 
 # Toastmasters International - Privacy Policy
 
@@ -17,7 +17,7 @@ _**Automatic Information:**_ We receive and store certain types of information w
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login to Toastmasters.org; e-mail address; your Toastmasters.org password; computer and connection information such as browser type and version, operating system, and platform; shopping history, which we sometimes combine with similar information from other customers to create special Web site features; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time (how you arrived, navigated through and exited Toastmasters.org); cookie number; products you viewed. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. This information is collected in the interest of making the Toastmasters Web site work better for you.
 
-A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Toastmasters.org if we cannot recognize you, we want you to be aware that these tools exist. In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet.](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.shtm)
+A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Toastmasters.org if we cannot recognize you, we want you to be aware that these tools exist. In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet.](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec04.shtm)
 
 **_Information from Other Sources:_** Third party advertisers may appear on our Web site from time to time. They may be able to detect that visitors to their Web site arrived via Toastmasters.org. However, we do not receive any information from these or other outside Web sites regarding your page views, purchases or any other information.
 
@@ -74,7 +74,7 @@ Members and others might receive some of the following:
 
   * Surveys 
   * Important information about Toastmasters 
-  * Comments from our organization's leaders
+  * Comments from our organization's leaders 
 
 
 
