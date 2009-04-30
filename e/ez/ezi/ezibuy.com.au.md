@@ -1,42 +1,8 @@
-> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142422id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430215943id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
 
 # EziBuy Privacy Policy
 
-| [](http://server.iad.liveperson.net/hc/s-30905001/cmd/kbresource/front_page!PAGETYPE)  
----  
-[](http://www.ezibuy.com.au/support.aspx?iSAMS=quickorder)  
-[Womens](http://www.ezibuy.com.au/Womens.html "Womens")  
-[Intimates](http://www.ezibuy.com.au/Intimates.html "Intimates")  
-[Mens](http://www.ezibuy.com.au/Mens.html "Mens")  
-[Home](http://www.ezibuy.com.au/Home.html "Home")  
-[Gift](http://www.ezibuy.com.au/Gift.html "Gift")  
-[Clearance](http://www.ezibuy.com.au/Clearance.html "Clearance")  
-[HOTSCOOP](http://www.ezibuy.com.au/HOTSCOOP.html "HOTSCOOP")  
-[](http://www.ezibuy.com.au/Gift_Cards.html)  
-[About Gift Cards](http://www.ezibuy.com.au/Information/5128)  
-  
-[Order a Gift Card](http://www.ezibuy.com.au/Gift_Cards.html)  
-  
-[Gift Card Top Up](https://www.ezibuy.com.au/topup.aspx)  
-  
-[Check Balance](http://thor.evolution.co.nz/EzibuyAU-Customer/Login.html)  
-  
-[](http://www.ezibuy.com.au/support.aspx?iSAMS=Catalogue)  
-[Request Catalogues](http://www.ezibuy.com.au/support.aspx?iSAMS=OrderCatalogue)  
-[View Catalogues Online](http://www.ezibuy.com.au/support.aspx?iSAMS=ViewCatalogue)  
-[](http://www.ezibuy.com.au/LifeStyle/Home)  
-[Daily Horoscopes](http://www.ezibuy.com.au/LifeStyle/5025)  
-[Fashion Horoscopes](http://www.ezibuy.com.au/LifeStyle/5026)  
-[Bridie and EziBuy](http://www.ezibuy.com.au/LifeStyle/5046)  
-[Fashion Tips](http://www.ezibuy.com.au/LifeStyle/5047)  
-[Clothes Care](http://www.ezibuy.com.au/LifeStyle/5070)  
-[Escaping a Style Rut](http://www.ezibuy.com.au/LifeStyle/5071)  
-[Press Book](http://www.ezibuy.com.au/LifeStyle/5104)  
-[Win a 2 carat diamond](http://www.ezibuy.com.au/LifeStyle/5366)  
-[Summer 08 Fashion Showcase](http://www.ezibuy.com.au/LifeStyle/5368)  
-[](http://www.ezibuy.com.au/support.aspx?iSAMS=Registry)  
-[](http://www.ezibuy.com.au/support.aspx?isams=offer&offer=2)  
-| 
+| | 
 
 We have put in place the following policy to protect your personal information.  By using our website and/or providing information to us, you consent to the policy.
 
@@ -84,4 +50,6 @@ We may review this policy from time to time and will notify you of any changes b
 
 Feedback
 
-We welcome your questions and comments about privacy at EziBuy.  Please call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.com.au).
+We welcome your questions and comments about privacy at EziBuy.  Please call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.com.au).  
+  
+---|---|---
