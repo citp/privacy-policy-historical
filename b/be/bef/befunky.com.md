@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025322id_/http%3A//www.befunky.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befunky.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430214248id_/http%3A//www.befunky.com/privacy_policy.php) for the most accurate reproduction.*
 
-# BeFunky Privacy Policy
+# BeFunky.com - Photo effects with one click, Turn your photos into artwork.
 
 ## BeFunky Privacy Policy
 
@@ -21,6 +21,8 @@ We may collect the following information:
   * Preferences and interests
   * Other information relevant to customer surveys and/or offers.
 
+
+
   
 
 
@@ -32,6 +34,8 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * We may use the information to customise the website according to your interests.
+
+
 
   
 
