@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2008-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080423050600id_/http%3A//www.betbrain.com/infos/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430041847id_/http%3A//www.betbrain.com/infos/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BetBrain.com Sports Betting Odds
 
@@ -14,28 +14,28 @@ Search
 Most Popular  
 ---  
 Popular Matches:  
-[FC Barcelon - Man Utd](https://web.archive.org/oddsOverview/FC-Barcelona-Manchester-United-FC/ev/119907197/site/0 "Football, Europe, UEFA Champions League 2007/2008, FC Barcelona-Manchester United FC")  
-[OB Odense - Viborg FF](https://web.archive.org/oddsOverview/OB-Odense-Viborg-FF/ev/120377292/site/0 "Football, Denmark, Superligaen 2007/2008, OB Odense-Viborg FF")  
-[Lyngby BK - Brondby I](https://web.archive.org/oddsOverview/Lyngby-BK-Brondby-I-F-/ev/120377291/site/0 "Football, Denmark, Superligaen 2007/2008, Lyngby BK-Brondby I.F.")  
-[Chelsea - Man Utd](https://web.archive.org/oddsOverview/Chelsea-Manchester-United-FC/ev/120355432/site/0 "Football, England, Premier League 2007/2008, Chelsea-Manchester United FC")  
-[Birmingha - Liverpool](https://web.archive.org/oddsOverview/Birmingham-City-Liverpool/ev/120355431/site/0 "Football, England, Premier League 2007/2008, Birmingham City-Liverpool")  
-[Kalmar FF - Helsingbo](https://web.archive.org/oddsOverview/Kalmar-FF-Helsingborgs-IF/ev/120535803/site/0 "Football, Sweden, Allsvenskan 2008, Kalmar FF-Helsingborgs IF")  
-[1.FC Nurn - Arminia B](https://web.archive.org/oddsOverview/1-FC-Nurnberg-Arminia-Bielefeld/ev/120343265/site/0 "Football, Germany, Bundesliga 2007/2008, 1.FC Nurnberg-Arminia Bielefeld")  
-[AS Roma - Torino FC](https://web.archive.org/oddsOverview/AS-Roma-Torino-FC/ev/120284628/site/0 "Football, Italy, Serie A 2007/2008, AS Roma-Torino FC")  
-[Tottenham - Bolton Wa](https://web.archive.org/oddsOverview/Tottenham-Hotspur-Bolton-Wanderers/ev/120355428/site/0 "Football, England, Premier League 2007/2008, Tottenham Hotspur-Bolton Wanderers")  
-[Karlsruhe - SV Werder](https://web.archive.org/oddsOverview/Karlsruher-SC-SV-Werder-Bremen/ev/120342809/site/0 "Football, Germany, Bundesliga 2007/2008, Karlsruher SC-SV Werder Bremen")  
-[FC Kobenh - AGF Aarhu](https://web.archive.org/oddsOverview/FC-Kobenhavn-AGF-Aarhus/ev/120377294/site/0 "Football, Denmark, Superligaen 2007/2008, FC Kobenhavn-AGF Aarhus")  
-[Derby Count - Arsenal](https://web.archive.org/oddsOverview/Derby-County-Arsenal/ev/120355382/site/0 "Football, England, Premier League 2007/2008, Derby County-Arsenal")  
-[Aab Aalbo - Randers F](https://web.archive.org/oddsOverview/Aab-Aalborg-Randers-FC/ev/120377293/site/0 "Football, Denmark, Superligaen 2007/2008, Aab Aalborg-Randers FC")  
-[Hannover - Hertha BS](https://web.archive.org/oddsOverview/Hannover-96-Hertha-BSC-Berlin/ev/120343142/site/0 "Football, Germany, Bundesliga 2007/2008, Hannover 96-Hertha BSC Berlin")  
-[Eintracht - Borussia ](https://web.archive.org/oddsOverview/Eintracht-Frankfurt-Borussia-Dortmund/ev/120342640/site/0 "Football, Germany, Bundesliga 2007/2008, Eintracht Frankfurt-Borussia Dortmund")  
+[Stade Rennes - Bordeaux](https://web.archive.org/oddsOverview/Football-1-Stade-Rennes-FC-FC-Girondins-de-Bordeaux/ev/147713520/site/0 "Football, France, Ligue 1 2008/2009, Stade Rennes FC-FC Girondins de Bordeaux")  
+[Real Madrid - Barcelona](https://web.archive.org/oddsOverview/Football-1-Real-Madrid-FC-Barcelona/ev/145155777/site/0 "Football, Spain, Primera Division 2008/2009, Real Madrid-FC Barcelona")  
+[Werder - Hamburger](https://web.archive.org/oddsOverview/Football-1-SV-Werder-Bremen-Hamburger-SV/ev/147316552/site/0 "Football, Europe, UEFA Cup 2008/2009, SV Werder Bremen-Hamburger SV")  
+[M'brough - Man. Utd](https://web.archive.org/oddsOverview/Football-1-Middlesbrough-FC-Manchester-United-FC/ev/147701132/site/0 "Football, England, Premier League 2008/2009, Middlesbrough FC-Manchester United FC")  
+[Dyn Kiev - Shakhtar](https://web.archive.org/oddsOverview/Football-1-Dynamo-Kiev-FC-Shakhtar-Donetsk/ev/147316732/site/0 "Football, Europe, UEFA Cup 2008/2009, Dynamo Kiev-FC Shakhtar Donetsk")  
+[Chelsea - Fulham](https://web.archive.org/oddsOverview/Football-1-Chelsea-Fulham/ev/147701133/site/0 "Football, England, Premier League 2008/2009, Chelsea-Fulham")  
+[Siena - Napoli](https://web.archive.org/oddsOverview/Football-1-Siena-Napoli/ev/147751997/site/0 "Football, Italy, Serie A 2008/2009, Siena-Napoli")  
+[Man City - Blackburn](https://web.archive.org/oddsOverview/Football-1-Manchester-City-Blackburn-Rovers/ev/147701173/site/0 "Football, England, Premier League 2008/2009, Manchester City-Blackburn Rovers")  
+[Osasuna - Recreativo de H](https://web.archive.org/oddsOverview/Football-1-Osasuna-Recreativo-de-Huelva/ev/147901136/site/0 "Football, Spain, Primera Division 2008/2009, Osasuna-Recreativo de Huelva")  
+[Real Betis Balom - Atletico](https://web.archive.org/oddsOverview/Football-1-Real-Betis-Balompie-Atletico-Madrid/ev/147901099/site/0 "Football, Spain, Primera Division 2008/2009, Real Betis Balompie-Atletico Madrid")  
+[Portsmouth - Arsenal](https://web.archive.org/oddsOverview/Football-1-Portsmouth-Arsenal/ev/147701172/site/0 "Football, England, Premier League 2008/2009, Portsmouth-Arsenal")  
+[Liverpool - Newcastle](https://web.archive.org/oddsOverview/Football-1-Liverpool-Newcastle-United-FC/ev/147701221/site/0 "Football, England, Premier League 2008/2009, Liverpool-Newcastle United FC")  
+[Inter Milano - SS Lazio](https://web.archive.org/oddsOverview/Football-1-Internazionale-Milano-SS-Lazio/ev/147751463/site/0 "Football, Italy, Serie A 2008/2009, Internazionale Milano-SS Lazio")  
+[Catania - AC Milan](https://web.archive.org/oddsOverview/Football-1-Catania-Calcio-AC-Milan/ev/147751859/site/0 "Football, Italy, Serie A 2008/2009, Catania Calcio-AC Milan")  
+[Santander - C.F. Almeria](https://web.archive.org/oddsOverview/Football-1-Racing-de-Santander-C-F--Almeria/ev/147901128/site/0 "Football, Spain, Primera Division 2008/2009, Racing de Santander-C.F. Almeria")  
   
 Popular Outrights:  
-[Belg, La Flèche Wallonne](https://web.archive.org/oddsOverview/Cycling-Belgium-La-Fl-che-Wallonne-2008/tn/120868507/site/0 "Cycling, Belg, La Flèche Wallonne 2008")  
-[Euro, UEFA Champions Lea](https://web.archive.org/oddsOverview/Football-Europe-UEFA-Champions-League-2007-2008/tn/69700516/site/0 "Football, Euro, UEFA Champions League 2007/2008")  
-[Denm, Superligaen](https://web.archive.org/oddsOverview/Football-Denmark-Superligaen-2007-2008/tn/59942341/site/0 "Football, Denm, Superligaen 2007/2008")  
-[Mona, ATP Masters Series](https://web.archive.org/oddsOverview/Tennis-Monaco-ATP-Masters-Series-Monte-Carlo-2008/tn/120818310/site/0 "Tennis, Mona, ATP Masters Series Monte Carlo 2008")  
-[Engl, Prem. Leag](https://web.archive.org/oddsOverview/Football-England-Premier-League-2007-2008/tn/61127334/site/0 "Football, Engl, Premier League 2007/2008")  
+[Engl, Premier League](https://web.archive.org/oddsOverview/Football-1-England-Premier-League-2008-2009/tn/121254992/site/0 "Football, Engl, Premier League 2008/2009")  
+[Spai, Primera Division](https://web.archive.org/oddsOverview/Football-1-Spain-Primera-Division-2008-2009/tn/95356286/site/0 "Football, Spai, Primera Division 2008/2009")  
+[Ital, Serie A ](https://web.archive.org/oddsOverview/Football-1-Italy-Serie-A-2008-2009/tn/77242237/site/0 "Football, Ital, Serie A 2008/2009")  
+[Germ, Bundesliga ](https://web.archive.org/oddsOverview/Football-1-Germany-Bundesliga-2008-2009/tn/69460523/site/0 "Football, Germ, Bundesliga 2008/2009")  
+[Fran, Ligue 1 ](https://web.archive.org/oddsOverview/Football-1-France-Ligue-1-2008-2009/tn/125066899/site/0 "Football, Fran, Ligue 1 2008/2009")  
   
 Add as a [widget](https://web.archive.org/widgets/customizeWidgets.do?type=3&name=0)   
   
