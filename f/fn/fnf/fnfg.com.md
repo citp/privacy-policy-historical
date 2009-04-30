@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnfg.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071809id_/https%3A//www.fnfg.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnfg.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430222700id_/https%3A//www.fnfg.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # First Niagara | Frequently Asked Questions | Banking
 
