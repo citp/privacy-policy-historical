@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515102750id_/http%3A//www.transitions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430052645id_/http%3A//en-us.transitions.com/privacy.htm) for the most accurate reproduction.*
 
 # Transitions.com - Privacy
 
@@ -21,13 +21,3 @@ Here's how we collect and use information from you in our efforts to provide the
  **Contacting Us** \- If at any time you feel that the Transitions Optical, Inc. Web site has not adhered to this policy, email us at [customerservice@transitions.com](mailto:customerservice@transitions.com) and we'll do our best to determine any problem and quickly respond. If you have questions or concerns about our privacy policy, please contact us at [customerservice@Transitions.com](mailto:customerservice@transitions.com).
 
  **Revisions to this Policy.** Transitions Optical, Inc. reserves the right to revise, amend, or modify this policy at any time and in any manner. Notice of any revision, amendment, or modification will be posted on this site.
-
-Experience Transitions lenses
-
-Transitions lenses help optimize your sight in every light as they quickly lighten or darken depending on the amount of UV rays present. 
-
-  
-
-
-Visit the Transitions Web site for  
-your local region.
