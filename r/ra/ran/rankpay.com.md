@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankpay.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225050618id_/http%3A//www.rankpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankpay.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430180327id_/http%3A//www.rankpay.com/privacy.html) for the most accurate reproduction.*
 
 # RankPay Privacy Policy
 
