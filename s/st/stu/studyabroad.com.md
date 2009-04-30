@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022042id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430204554id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
 
@@ -104,8 +104,4 @@ FAX: 1-610-499-9205
 E-mail: [info@StudyAbroad.com](mailto:info@StudyAbroad.com)  
 URL: [www.EducationDynamics.com](http://www.educationdynamics.com/)
 
-EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time.   
-  
----  
-  
-[ ](http://www.educationdynamics.com/)
+EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time. 
