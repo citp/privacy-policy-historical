@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142325id_/http%3A//www.yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeastinfectionnomore.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430101323id_/http%3A//www.yeastinfectionnomore.com/privacy.html) for the most accurate reproduction.*
 
 # Yeast Infection No More™ - Privacy
 
