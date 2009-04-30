@@ -1,0 +1,30 @@
+> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430080859id_/http%3A//affluence.org/privacypolicy.php) for the most accurate reproduction.*
+
+# affluence.org
+
+We built the Affluence website to make it easy to share information with other affluent people around the world. However, we understand you may not want others to have all the information you share on Affluence; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
+
+Affluence believes you should have control over your information. Affluence helps you share information with others but you choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings on the Privacy page.
+
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to privacy@Affluence.com. 
+
+The Affluence Corporation's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Affluence, located at www.Affluence .org and its directly associated domains (collectively, "Affluence " or "Web Site") By using or accessing Affluence, you are accepting the practices described in this Privacy Policy.  
+
+
+When you visit Affluence.org, you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
+
+When you register to become a member of Affluence, you provide ,or may provide, us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.
+
+When you enter Affluence.org , we collect your browser type and IP address. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Affluence . You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.
+
+When you use the Affluence website , you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+
+You post User Content (as defined in the Affluence Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+
+Any improper collection or misuse of information provided on Affluence's website is a violation of the Affluence Terms of Service and should be reported to privacy@Affluence.com. If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Affluence stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us at privacy@Affluence .com to request that we remove this information from our database.
+
+Affluence may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Affluence service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
+
+By using Affluence , you are consenting to have your personal data transferred to and processed in the United States. 
+
+When you register with Affluence, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on Affluence . We may occasionally use your name and email address to send you notifications regarding new services offered by Affluence that we think you may find valuable.
