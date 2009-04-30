@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160409id_/http%3A//www.rosie.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430061755id_/http%3A//www.rosie.com/privacy.aspx) for the most accurate reproduction.*
 
 # rosie.com » privacy policy
 
-**Last updated: February 4, 2008**
+**Last updated: February 26, 2009**
 
 At Rosie.com, we are committed to protecting your online privacy and the security of the information that you might provide to us. Please read this privacy policy (“Privacy Policy”) carefully. By using the Rosie.com Web site you signify your agreement with the Privacy Policy. If you do not agree with the Privacy Policy please do not use Rosie.com or any portion of it. As used in this Privacy Policy, “Rosie.com” refers to the Rosie.com Web site or its owner KidRo Productions, Inc. This Privacy Policy explains our practices related to:
 
@@ -67,7 +67,7 @@ Rosie.com links to a number of other Web sites. This Privacy Policy only applies
 
 **8\. Rosie’s Shop**
 
-Rosie’s Shop is managed by a third party vendor, which will process information related to purchases made at Rosie’s Shop. For further information, [click here](http://shoprosie.seenon.com/info.php).
+Rosie’s Shop is managed by a third party vendor, which will process information related to purchases made at Rosie’s Shop. For further information, [click here](http://www.etsy.com/privacy_policy.php).
 
 **9\. Correcting your information**
 
