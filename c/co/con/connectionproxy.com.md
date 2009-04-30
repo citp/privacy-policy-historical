@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectionproxy.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229151059id_/http%3A//www.connectionproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionproxy.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430180621id_/http%3A//www.connectionproxy.com/privacy.php) for the most accurate reproduction.*
 
 # Connection Proxy - Browse as Unblocked
 
