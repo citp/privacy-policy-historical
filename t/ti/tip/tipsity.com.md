@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219020610id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsity.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430051344id_/http%3A//www.tipsity.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tips. Tax Tips, sedu beauty tips, VOIP tips, investment tips, interview tips
 
@@ -14,8 +14,9 @@ As with most other websites, we collect and use the data contained in log files.
 
 We also use third party advertisements on [http://www.tipsity.com](http://www.tipsity.com/) to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
+Additionally, [http://www.tipsity.com](https://web.archive.org/web/20090430051344id_/http%3A//) participates in the Google Adsense Program and Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the [Doubleclick  DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-  
   
 
