@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2008-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080325174210id_/http%3A//www.ack-media.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430075428id_/http%3A//www.amarchitrakatha.com/general/privacy_policy.php) for the most accurate reproduction.*
 
-# ACK Media Privacy Policy
+# 
 
-### Privacy Policy
-
-Amar Chitra Katha Pvt. Ltd. respects your privacy. This privacy policy provides a clear description of the data gathered and used by us. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at our websites [www.ack-media.com](http://www.ack-media.com/ "Amar Chitra Katha Media"), [www.amarchitrakatha.com](http://www.amarchitrakatha.com/ "Amar Chitra Katha"), and [www.tinkleonline.com](http://www.tinkleonline.com./ "Amar Chitra Katha: Tinkle Online"). By accessing the services provided by Amar Chitra Katha Pvt. Ltd. you agree to the collection and use of your data by Amar Chitra Katha Pvt. Ltd. in the manner provided in this Privacy Policy.
-
-### Part I. Information Collection
-
+|    
+---  
+Amar Chitra Katha Pvt. Ltd. respects your privacy. This privacy policy provides a clear description of the data gathered and used by us. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at our websites [www.ack-media.com](http://www.ack-media.com/), [www.amarchitrakatha.com](http://www.amarchitrakatha.com/) and [www.tinkleonline.com](http://www.tinkleonline.com/). By accessing the services provided by Amar Chitra Katha Pvt. Ltd. you agree to the collection and use of your data by Amar Chitra Katha Pvt. Ltd. in the manner provided in this Privacy Policy.  
+   
+Part I. Information Collection  
+  
 Amar Chitra Katha Pvt. Ltd. will collect information through our Web site at several points. We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
 
   * web server cookie stored on your hard drive
@@ -39,10 +39,11 @@ We may also collect the following information:
 
 
 
-You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-
-### Part II. Information Usage
-
+You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.  
+   
+  
+Part II. Information Usage  
+  
 We use your personal information to:
 
   * help us provide personalized features
@@ -72,38 +73,38 @@ Generally, we use anonymous traffic information to:
   * administer our Web sites
   * track your session so that we can understand better how people use our sites
 
-
-
-### Part III. Access to Information
-
+  
+Part III. Access to Information  
+  
 We will not use your financial information for any purpose other than to complete a transaction with you.
 
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
 
   * we have your permission
   * to provide products or services you've requested
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Rediff.com's terms of use or to defend against legal claims;
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of [www.amarchitrakatha.com](http://www.amarchitrakatha.com/) 's terms of use or to defend against legal claims;
   * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
 
 
-We share your information with advertisers on an aggregate basis only.
-
-### Part IV. Data Storage and Security
-
+We share your information with advertisers on an aggregate basis only.  
+   
+  
+Part IV. Data Storage and Security  
+  
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
 
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
-
-### Part V. Problem Resolution
-
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.  
+  
+Part V. Problem Resolution  
+  
 To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:
 
-  * Send an e-mail to [contact@ack-media.com](mailto:contact@ack-media.com "Amar Chitra Katha: Contact")
-  * Call us at +91 (22) 66296999
+  * send an e-mail to contact@ack-media.com
+  * call us at +91 (22) 66296999
 
-
-
-### Part VI. Policy Updates
-
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.
+  
+Part VI. Policy Updates  
+  
+We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.  
+ 
