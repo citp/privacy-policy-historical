@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224053031id_/http%3A//site24x7.com./privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430201413id_/http%3A//site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Site24x7 - Privacy Policy
 
