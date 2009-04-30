@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100852id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khl.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430161426id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.*
 
 # KHL Group - Privacy Policy
 
@@ -38,3 +38,5 @@ Some of our websites contain cookies. Cookies are small text files that a websit
 We take commercially reasonable steps to protect your personal information. This includes setting up processes and procedures to minimise unauthorised access to or disclosure of your information. However, we do not guarantee that we will eliminate all risk of misuse of your personal information by intruders. Please keep any passwords for your accounts safe and do not disclose them to anyone else. You must contact us immediately if you become aware of any unauthorised use of your password or other security breach. 
 
 Bulletin boards, chat rooms and other community areas on our sites are open to the public. You should avoid disclosing any information in these areas which may identify you or anyone else. We are not responsible for the protection or security of information which you disclose in these areas.
+
+submit
