@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165023id_/http%3A//www.myadmarket.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430124137id_/http%3A//www.myadmarket.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MyAdMarket: Privacy Policy
 
