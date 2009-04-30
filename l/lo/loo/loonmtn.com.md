@@ -1,118 +1,250 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154051id_/http%3A//www.boothcreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430112611id_/http%3A//www.boyneresorts.com/privacy.html) for the most accurate reproduction.*
 
-# Booth Creek Privacy
+# Boyne Resorts
 
-**Booth Creek Ski Holdings, Inc. ("Booth Creek", "we" or "our") values your privacy and is committed to the highest standards in personal protection.**
+Boyne Resorts recognizes the importance of protecting the privacy of all information provided by users of our web sites, registrants and visitors for our resorts and activities, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned and operated by Boyne Resorts.
 
-This statement discloses the privacy practices of Booth Creek Ski Holdings, Inc. and its subsidiary companies with respect to information that we collect via the Internet. If, after reading this policy, you have further questions about how we handle your personally identifiable information, please contact us.
+last updated: 12/1/2008
 
-## Coverage
+**Information Collection & Use**
 
-This policy applies to various web sites operated by Booth Creek and its subsidiary companies, including [www.boothcreek.com](http://www.boothcreek.com/), [www.northstarattahoe.com](http://www.northstarattahoe.com/), [www.sierraattahoe.com](http://www.sierraattahoe.com/), [www.doublewhammypass.com](http://www.doublewhammypass.com/), [www.waterville.com](http://www.waterville.com/),and [www.cranmore.com](http://www.cranmore.com/), and [www.threedompass.com](http://www.threedompass.com/) (the "Sites"). [**For Snow Park Technology privacy policy, click here.**](http://www.snowparktech.com/privacy.asp)
+Boyne Resorts collects personally identifiable information from a variety of sources including: 
 
-Please read the following policy to understand what personal information we may collect from you and how your personal information may be used as you make full use of our options and Sites. By using the Sites, you agree to this policy. If you do not agree to this policy, please do not use the Sites. This policy may be updated and revised occasionally without prior notice to you. Please check back periodically. Your continued use of the Sites following the posting of changes to this policy will signify your acceptance of those changes.
+  * Lodging Registrations 
+  * Web site (form) Registrations 
+  * Season Pass Sales 
+  * Equipment Rental Forms 
+  * Ski School Registrations 
+  * Golf Tee Time Reservations 
+  * Spa and Fitness Center Reservations 
+  * Customer Loyalty Program (BoyneRewardsSM) 
+  * Purchased Mailing Lists 
+  * Data provided by our business partners 
+  * Various Contests, Promotions and Giveaways 
 
-Please note that we follow special additional procedures when collecting information from children under 13, which are set forth in the Children's Privacy section, below.
 
-## Aggregate (General, Non-Personal) Information
 
-From time to time, we may collect general, non-personal, statistical information about the use of our Sites and related media products (including e-mail newsletters, cellular phone alerts and mini desktop application, together with the Sites, "Media Products"). Such information may include how many visitors visit a specific page on the Sites, how long they stay on that page, and which hyperlinks, if any, they "click" on. We collect this information in order to determine which areas of the Media Products are most popular and to enhance the Media Products for visitors. We may also group this information into aggregate visitor data in order to describe the use of the Media Products to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Sites or users of the Media Products.
+Boyne Resorts owns and operates the following properties and all data collected through normal operations at these locations: 
 
-## Collection of Personally Identifiable Information
+  * Boyne Mountain, Boyne Falls, Michigan 
+  * Boyne Highlands, Harbor Springs, Michigan 
+  * The Inn at Bay Harbor, Bay Harbor, Michigan 
+  * Bay Harbor Golf Club, Bay Harbor, Michigan 
+  * Crooked Tree Golf Club, Bay Harbor, Michigan (50% owner) 
+  * Country Club of Boyne, Harbor Springs, Michigan 
+  * Brighton Ski Resort, Brighton, Utah 
+  * Crystal Mountain, Crystal Mountain, Washington 
 
-Booth Creek will not collect or retain any personal information about you unless you provide it to us voluntarily. We may collect personal information from the Sites in several ways if you so choose to provide it. For example, we require you to provide personal information in order to register for membership on a Site, purchase ski passes and other products online, book reservations at our ski resorts online, participate in contests, sweepstakes, events or promotions offered on the Sites, subscribe to our online e-newsletter or other online services, register for cellular phone alerts to receive notifications of special promotions, offers and events, send questions or comments to us via e-mail or fill out online or e-mail surveys. The requested information may include personal information such as your name, e-mail address, telephone number, home address, credit card information, billing and shipping address and information about your interests in and use of various products, programs and services.
 
-For some features of the Sites, you can submit information about other people. For example, if you purchase a gift card or other merchandise online for another person and want it sent directly to the recipient, you may be able to submit the recipient's name, address and certain other contact information. We will use any such information that you provide to us about another person only for the purpose for which you submitted the information, such as delivering the gift card or other item to that person.
 
-## Use of Personally Identifiable Information
+In addition, Boyne Resorts leases the following properties and collects data through normal operations: 
 
-If you do provide us with personal information, we may retain and use that information for several purposes. We may store and process the information to better understand your needs and how we can improve our products and services. We may also retain information about your previous online bookings or purchases of services or products in order to customize our Media Products for your future experience.
+  * Big Sky Resort, Big Sky, Montana 
+  * Gatlinburg Sky Lift, Gatlinburg, Tennessee 
+  * Cypress Mountain, Vancouver, British Columbia, Canada 
+  * Sunday River Resort, Bethel, Maine 
+  * Sugarloaf, Carrabassett Valley, Maine 
+  * Loon Mountain, Lincoln, New Hampshire 
+  * The Summit at Snoqualmie, Snoqualmie Pass, Washington
 
-In addition, we may use your personal information to send you information or updates about special offers, promotions, services and other items that might be of interest to you. However, we will not send any such communications to your e-mail address unless you have consented on the Sites (or otherwise) to receiving such communications by e-mail. You may indicate your consent to receiving such e-mail communications by opting in or choosing not to opt out, depending on the particular Site and web page on which you are given the opportunity to provide your consent. You may at any time choose to opt-out of receiving information through our Media Products.
 
-We may also use your personal information in order to process and fulfill any transactions that you request, such as entering a sweepstakes or other contests, or booking online reservations and delivering gift cards, ski passes or other products purchased via the Sites (including any customary follow-up or confirmation communications regarding such transactions).
 
-## Sharing Information with Third Party Service Providers
+In addition, Boyne Resorts is in partnership with New Frontiers LLC in the ownership and operation of the following properties: 
 
-At times we may share your information with third party service providers to optimize your experience with our products and services. We sometimes use other businesses to perform certain services for us, such as fulfilling orders, making deliveries, making reservations, sending postal mail, sending e-mail, sending cellular alerts, analyzing web site use, providing marketing assistance and data analysis and processing credit card payments. We may provide personal information, including credit card information, to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties.
+  * The Mountain Grand Lodge and Spa, Boyne Mountain, Boyne Falls, Michigan (Boyne Mountain Management, LLC) 
+  * Avalanche Bay Indoor Waterpark, Boyne Mountain, Boyne Falls, Michigan (Boyne Mountain Recreation, LLC) 
 
-## Sharing Information with Third Party Sponsors and Your Opt Out Rights
 
-Except as set forth above, please note that we will not share your e-mail address with any third party without your prior consent. We have formed and may in the future form relationships with other businesses, such as promotional or sweepstakes sponsors, in order to enhance the information and services on the Media Products, help promote Media Products or for other purposes.
 
-From time to time, we may share your personal information other than your e-mail address with those sponsors, and you may receive periodic communications from such businesses, such as promotional offers available from Booth Creek or such businesses. Furthermore, many of the promotions on our Media Products give visitors the opportunity to request additional information from the sponsors of those promotions. If you request more information, you give Booth Creek permission to provide your personal information (including e-mail address) to the sponsor so they can fulfill your request. Except as otherwise stated in this policy, your personal information will not be provided to any third party without your prior consent.
+**Products and Services**
 
-To ensure you have the ability to **opt-out** of sharing personally identifiable information with our third party sponsors, please contact us.
+If you purchase a product or service online from us, we request certain personally identifiable information from you on our login and checkout pages. These products and services include but are not limited to products of (online) tee-time reservations, season pass sales, lodging reservations, equiment rental and instruction. You must provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card number, expiration date). 
 
-## Your Opt Out Choices
+We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
-**Option #1:**  
-The fastest, most direct, secure and automated means of opting out of receiving information via our Media Products is through the online registration interface, found on our Sites.
+Upon furnishing your personally identifiable information, Boyne Resorts will enter that information into our corporate marketing database. You will begin to receive periodic e-mail and direct mail communications, which include e-newsletters, surveys and special promotions. 
 
-**Option #2**  
-Should you wish to opt-out of distribution of personally identifiable information to third party sponsors, your only means is to complete our privacy form.
+Out of respect for your privacy, we present the option not to receive these types of communications. See the Choice/Opt-out section for more information. 
 
-**Option #3**  
-You can contact us by e-mail through any of our Sites or by phone at any of our resorts to request any changes to how we collect, or distribute any of your information or to unsubscribe to any newsletters, e-mail or other communications you might be receiving from us, and we will use every reasonable effort to accommodate your request. Phone, address and e-mail address information can be found at each of our Sites.
+To be removed from our direct mail database associated with our properties, please e-mail [info@boyneresorts.com](mailto:info@boyneresorts.com), contact or submit your request in writing to: 
 
-**Option #4  
-**You may mail a written request to:  
-Booth Creek E-Business Director  
-11025 Pioneer Trail, #100   
-Truckee, CA 96161
+> Boyne Resorts Marketing Department (and Michigan properties)  
+> PO Box 19   
+> One Boyne Mountain Road   
+> Boyne Falls, MI   
+> 49713   
+> Web site [www.BoyneResorts.com](http://www.boyneresorts.com/)
+> 
+> Big Sky Resort Marketing Department   
+> PO Box 160001   
+> One Lone Mountain Trail   
+> Big Sky, Montana   
+> 59716   
+> Web site [www.BigSkyResort.com](http://www.bigskyresort.com/)
+> 
+> Brighton Resort   
+> 12601 E. Big Cottonwood Canyon   
+> Brighton, Utah   
+> 84121   
+> Web site www.SkiBrighton.com 
 
-## Transfer of Personally Identifiable Information
+> Crystal Mountain   
+> 33914 Crystal Mountain Blvd.   
+> Crystal Mountain, Washington   
+> 98022   
+> Web site www.SkiCrystal.com 
+> 
+> Cypress Mountain   
+> P.O. Box 91252   
+> West Vancouver, B.C.   
+> V7V 3N9   
+> Web site [www.CypressMountain.com](http://www.cypressmountain.com/)
+> 
+> Loon Mountain  
+> 600 Loon Mountain Road  
+> Lincoln, New Hampshire  
+> 03251  
+> Web site [www.LoonMtn.com](http://www.loonmtn.com/)
+> 
+> Sugarloaf  
+> 5092 Access Road  
+> Carrabasset Valley, Maine  
+> 04947  
+> Web site [www.Sugarloaf.com](http://www.sugarloaf.com/)
+> 
+> Sunday River Resort  
+> P.O. Box 4500  
+> Newry, Maine  
+> 04261  
+> Web site [www.SundayRiver.com](http://www.sundayriver.com/)
+> 
+> The Summit at Snoqualmie.com  
+> P.O. Box 1068  
+> Snoqualmie Pass, Washington  
+> 98068  
+> Web site [www.SummitAtSnoqualmie.com](http://www.summitatsnoqualmie.com/)
 
-As Booth Creek or any of its resorts continue to evolve, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Booth Creek, one of its subsidiaries or substantially all of were acquired, customer information would be one of the transferred assets. In addition, Booth Creek reserves the right to disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Booth Creek's rights or property, other users, or anyone else that could be harmed by such activities. This includes our right to exchange information with other organizations in order to protect against fraud and to reduce credit risk. Booth Creek also reserves the right to disclose user information when we believe in good faith that the law requires it.
+**Social Security Numbers**
 
-## Links to other web sites; "Public" Areas
+Social Security Numbers are not collected from our customers or used for any purpose. 
 
-Please be aware that when you are using the Sites, you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our Sites. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this privacy policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
+**Surveys or Contests**
 
-Please keep in mind that whenever you give out personal information on a "public" venue online (for example via bulletin board, chat rooms or chat groups), that information can be collected and used by people you do not know. If you chose to voluntarily disclose information on a bulletin board, chat room or other public venue on these other sites, this privacy policy will not cover such disclosure of information. We urge you to use caution when disclosing any personal information on these venues.
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
 
-## Cookies
+Your personally identifiable information will be added to our corporate marketing database and used as described under the "Products and Services" section above. 
 
-Booth Creek uses cookies to store and sometimes track information about you for various purposes including optimizing your Site experience. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All areas on the Sites where you are prompted to log-in or that are customizable require that you accept cookies. We use cookies to ensure you obtain the information you request. The cookie(s) we pass to you are anonymous. They do not reveal your personal identity, nor can they capture private data. Rather, these cookies establish a user session and allow our server to correctly provide the users with the appropriate frames and content.
+Your customer survey ratings will be used as a tool to help us improve our products and services. 
 
-We track the usage of our Sites and other Media Products in order to modify our Sites and Media Products according to our customers' needs. We pay attention to what information is requested and attempt to make it easier to find in the future. With respect to our Sites, you always have the option of disabling cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Sites may not function properly or may be slower if you refuse cookies. You may occasionally get cookies from third parties with links on the Sites. Booth Creek does not control these cookies. The use of cookies sent by third-party servers is standard in the Internet industry.
+**Tell-A-Friend**
 
-## IP Addresses
+If you choose to use our referral services to tell a friend, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site. Boyne Resorts stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend's name and e-mail address will not be added to our corporate marketing database. 
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers, the big computers that "serve up" Web pages, automatically identify your computer by its IP address. Booth Creek collects IP addresses for purposes of system administration, to report aggregate information to our advertisers, and to track the use of the Sites. When visitors request pages from the Sites, our servers log the visitors' IP addresses. It is not our practice to link IP addresses to anything personally identifiable, which means that a visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor only when we feel it is necessary to enforce compliance with the Sites' policies or to protect our service or customers, the Sites, or others.
+**Special Offers and Updates**
 
-## This policy applies only to information collected on the Internet
+We will occasionally send you information on products, services, special deals, promotions through the use of monthly e-newsletters and individual e-mail campaigns. 
 
-This privacy policy applies only to information collected on our Sites. It does not apply to information which we may collect by means other than over the Internet and it does not apply to businesses which may use our Sites.
+**BoyneRewards Registration**
 
-## The Organizations that Collect Information
+Based upon the personally identifiable information you provide us via www.BoyneRewards.com, we will send you a welcoming e-mail. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by e-mail or telephone, in accordance with your wishes. 
 
-Booth Creek, one of its resorts (the website addresses of which are listed above) or a third party partner may be collecting information during your experience with our Sites.
+**Profiles**
 
-## Security Procedures
+We do not collect profile information through the use of cookies or log files. We do allow our customers to choose which e-mail marketing campaign to receive. See the "Choice/Opt-out" section for more information about our use of profiles. 
 
-Security procedures are in place to protect the loss, misuse or alteration of information under the company's control.Protecting the security of your personal information is very important to us. Therefore, we have taken precautions to ensure that this information is safe and secure. We maintain your profile information on a secure server. To use some features on the Media Products, we may require that you create a password. We recommend that you do not disclose your password to any other person. In addition, when you transmit personal information from your PC to our servers, your information is protected by both a "firewall" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and industry standard SSL (secure socket layer) encryption. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Booth Creek strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
+Boyne Resorts will share profile information with other third parties that have contracted with us in new business ventures. 
 
-## Children's Privacy
+**Supplementation of Information**
 
-The Sites are general audience web sites that comply with the Children's Online Privacy Protection Act ("COPPA"). Children under 13 are only permitted to submit information to Booth Creek in certain limited circumstances. Any personal information that may be provided to the Sites from children under 13 years old will be collected and maintained in accordance with COPPA. While we encourage parents to supervise their children's online activities, we recognize that parents may not always be able to do so. Therefore, in addition to the foregoing provisions of this privacy policy, Booth Creek has adopted the following special policies to help ensure that parents will be able to know what information their children under 13 are providing to the Sites.
+In order to keep your contact information current, we use a third party to verify your postal address prior to any direct mailing. Your records will also be checked for a change-of-address form filed at the United States Post Office. Our corporate marketing database will be updated as a result of this process. 
 
-### Collection and Use of Information; Parental Notice/Consent
+**Information Sharing and Disclosure**
 
-In accordance with COPPA, Booth Creek does not require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation.
+**Personally identifiable information:**  
+We Occasionally Share Personally Identifiable Information with Third Parties. 
 
-We may collect a child's e-mail address in connection with a contest, sweepstakes or a question e-mailed to us by the child for the sole purpose of communicating with the child on a one-time-only basis (for example, to contact the winner of a contest or respond to a question). We will not use this information to recontact the child and we will delete it from our records once the game or contest is over. We will obtain written parental consent before sending any prizes to contest winners or posting any information about any winners on the Sites.
+In the normal course of business, Boyne Resorts will contract with certain business partners to develop new product or service offerings. As a normal part of these business ventures, our corporate marketing database will be shared with our business partner. 
 
-We may collect a child's e-mail address and first name in order to respond directly to a specific request from the child more than once. For example, a child may want to receive a newsletter or other online communications about new features on the Sites or participate in a contest that involves more than a one-time contact. When a child submits such a request, we will obtain an e-mail address for the child's parent(s) along with the child's information. Before we make any additional response to the child's request, after our initial response, we will send an e-mail to the child's parent(s) that notifies the parent(s) that we have collected personal information from the child for the purpose of responding to the child's particular request and describes the personal information collected from the child, gives the parent(s) the opportunity to deny us permission to send any further responses to the child and to request that we delete the information we have collected from our records, and provides the parent(s) with a link to access this privacy policy.
+> **Current Business Partners:  
+> ** Boyne Resorts currently has an agreement with McKeough Land Company Inc. (an Illinois Corporation, whose address is 208 Franklin Avenue, Grand Haven, Michigan, 49417) to allow two mailings per year to our corporate marketing database in an effort to advertise all phases of the "Boyne Reserve" development. 
+> 
+> Boyne Resorts also currently has a mailing list agreement with Bluegreen Vacations Unlimited, Inc., (Bluegreen Vacation Club) whose address is 4960 Conference Way North, Suite 100, Boca Raton, Florida 33431. Boyne Resorts has granted Bluegreen Vacation Club a non-exclusive, limited, license to use and access the Boyne Mailing List for the duration of contract agreement that expires in 2007. 
 
-We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of the Sites, to protect against liability, or as required or permitted by law without obtaining a parent's consent. Information collected for these reasons will not be used for any other purpose. Prior to any other collection or use of personal information from a child under 13, Booth Creek shall obtain a parent's consent to such collection and use in accordance with COPPA. The parental consent is given for the specific purpose stated in the consent form and is not a blanket consent for collecting the child's information in the future or using the child's information for purposes other than those set forth in the consent form. We may seek a parent's consent to collect information such as a child's name, mailing address, e-mail address, hobbies, etc.
+**Agents**
 
-### Sharing of Information
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
-The personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties.
+**Service Providers**  
 
-### Parental Access
 
-Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like to review or delete your child's personal information, please contact us via the privacy form below. When a parent requests deletion of his or her child's information, we will use reasonable efforts to delete as much of the child's information from our database as possible and refrain from collecting any other personally identifiable information from such child. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+Boyne Resorts does not utilize any third party service providers at this time. 
 
-## Questions, Comments, and Requests to Opt-Out:
+**Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web sites. 
+
+**Choice/Opt-out**
+
+If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or e-mail communication. We offer an opportunity to opt-out of certain communications on each Web site, or you may contact us at [info@boyneresorts.com](mailto:info@boyneresorts.com) or by mail (See the Contact Us section) to opt-out. 
+
+Through the use the profile page mentioned above, individuals would also be able to update their personally identifiable information they have on record with Boyne Resorts. 
+
+Announcements of any third parties planning on using your personal information will be made on our corporate Web site at [www.BoyneResorts.com](http://www.boyneresorts.com/), so you can make an informed choice as to whether or not to share your information with that party. 
+
+**Log Files**
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personally identifiable information. 
+
+We use a third-party tracking service called Google Analytics that uses a small JavaScript string on each web page to track non-personally identifiable information about visitors to our site in the aggregate state of what information is captured, e.g., usage and volume statistics to assist in analyzing our Web site traffic trends and patterns. 
+
+**Cookies**
+
+Boyne Resorts does not utilize cookies at this time. 
+
+**Clear Gifs** (Web Beacons/Web Bugs)
+
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+We use clear gifs in our HTML-based e-mails to let us know which e-mails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these e-mails, please see "Choice and Opt-out." 
+
+**Links to Other Sites**
+
+Various links across Boyne Resorts' Web sites do contain links to other sites that are not owned or controlled by Boyne Resorts. Please be aware that we, Boyne Resorts, are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by Boyne Resorts' Web sites. 
+
+**Access to Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our profile update page at www.Boyne.com/Profile or by contacting us by postal mail at the contact information listed below. 
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or shopping pages, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link. 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Web site, you can send e-mail us at [info@boyneresorts.com](mailto:info@boyneresorts.com). 
+
+**Business Transitions**
+
+In the event Boyne Resorts goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail or notice on our corporate Web site BoyneResorts.com of any such change in ownership or control of your personal information. 
+
+**Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page at BoyneResorts.com. 
+
+**Contact Us**  
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+> Boyne Resorts   
+> PO Box 19   
+> Boyne Falls, Michigan   
+> 49713   
+> 231.549.6000   
+> [info@boyneresorts.com](mailto:info@boyneresorts.com)
