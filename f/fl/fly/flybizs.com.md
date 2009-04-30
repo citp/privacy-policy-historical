@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flybizs.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223052551id_/http%3A//flybizs.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybizs.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501015600id_/http%3A//flybizs.com/pages/privacy.php) for the most accurate reproduction.*
 
-# flybizs_Make Money ONline_$$$$$$$$$$$$$$$$$$$$$$
+# Flybizs.Com_Make Money ONline_$$$$$$$$$$$$$$$$$$$$$$
 
   
 **flybizs.com Respects Your Privacy** **Information Collected** flybizs.com has created this privacy statement in order to demonstrate our firm commitment to privacy. flybizs.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. flybizs.com uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. flybizs.com's registration form requires users to give us contact information (like their name, address, and email address). flybizs.com uses member contact information from the registration form to send the member information about our company and email advertisements. 
