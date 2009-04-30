@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112838id_/http%3A//www.conservation.org./Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430212400id_/http%3A//conservation.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
+
+ 
 
 Thank you for visiting Conservation International online at [www.conservation.org](https://web.archive.org/). We respect your privacy, and we will never share your personal information with other organizations. The following privacy policy describes what information is gathered on this website and how it is used. 
 
@@ -47,6 +49,7 @@ Websites directly affiliated with [www.conservation.org](https://web.archive.org
   * Defying Nature’s End, [www.defyingnaturesend.org](http://www.defyingnaturesend.org/)
   * Global Conservation Fund, <http://web.conservation.org/xp/gcf>
   * The Ecotravel Center, [www.ecotour.org](http://www.ecotour.org/)
+  * Team Earth, [www.teamearth.org](http://www.teamearth.org/)
   * Verde Ventures, <http://web.conservation.org/xp/verdeventures/>
 
 
@@ -56,3 +59,7 @@ Websites directly affiliated with [www.conservation.org](https://web.archive.org
 None of the websites covered by this policy knowingly collect identifiable personal information from children under age 13. If we discover that a person under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. We are unable to reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the internet. 
 
 If you feel that this site is not following its stated privacy policy, please contact us by email or phone or contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
+
+|   |   
+  
+---|---|---
