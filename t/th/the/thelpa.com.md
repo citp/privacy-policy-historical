@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelpa.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220224546id_/http%3A//www.thelpa.com/lpa/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelpa.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430034442id_/http%3A//www.thelpa.com/lpa/privacy.html) for the most accurate reproduction.*
 
 # Secure Site & Privacy Policy
 
@@ -8,7 +8,7 @@ The Landlord Protection Agency has created a state-of-the-art, real-time transac
 
 Your credit card information is protected in two ways. First of all, as a result of the SSL-based encryption, your card number is ALWAYS secure during transmission. A visual means of confirming this is for you to watch the small padlock icon in your browser. While on any page where financial information is to be entered, this icon will change to a locked state, denoting a secure page. This security measure is privately audited by an independent third-party, Thawte, whose icon you can click on from any secured page to confirm its secure status. This site is secured with a **Thawte Digital Certificate**. A **Thawte** icon is at the bottom of the LPA homepage and at the bottom of the Essential Forms and Membership ordering page. When in secure mode, anyone trying to evesdrop on communications between your computer and our server will only see encrypted (scrambled) data. Secure mode is always activated whenever personal information is being exchanged. 
 
-Secondly, our private links to banking networks ensure that your sensitive information is ALWAYS secure once we have received it. All the information traveling on our banking network is guaranteed 100% secure. 
+Secondly, our private links to banking networks ensure that your sensitive information is ALWAYS secure. All the information traveling on our banking network is guaranteed 100% secure. 
 
 The Landlord Protection Agency actively works with international banking institutions and law enforcement to discover and prosecute cases of fraudulent credit card use. All connections to, and transactions within The Landlord Protection Agency are logged and regularly audited. WE USE ALL MEANS AVAILABLE TO US TO PURSUE CRIMINAL PROSECUTION AGAINST PERSONS ATTEMPTING FRAUD OR UNAUTHORIZED ACCESS TO OUR SYSTEMS, IN ALL ICPO/INTERPOL JURISDICTIONS. 
 
