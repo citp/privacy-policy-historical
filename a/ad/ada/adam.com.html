@@ -1,394 +1,445 @@
-<!--The following is the downloaded HTML source of the adam.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217004755id_/http%3A//www.adam.com/PrivacyStatement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adam.com privacy policy that was archived on 2009-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090430100055id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>A.D.A.M. Inc. :: Complete Online Health Content Solutions :: Privacy Statement</title>
-<meta content="ADAM delivers the most credible, effective, and engaging technology-driven health information solutions for business, patients and consumers." name="description">
-<meta content="ADAM, A.D.A.M., health care, HMO, call center, alternative medicine, health information, call centre, call tracking software, health care management, clinical guidelines, chronic disease management, content providers, decision support, decision support system, decision-making tools, demand management, evidence-based information, nurse advice line, HIPPA, prescription-strength information, self care, self help, shared decision making, software, telephone triage, triage, triage software, web content, web content management, web content provider, information therapy, quality and privacy " name="keywords">
-<script language="JavaScript">
-function BC(base,delStr,defp,cStyle,tStyle,dStyle,nl) {
-loc=window.location.toString();subs=loc.substr(loc.indexOf(base)+base.length+1).split("/");
- document.write('<a href="'+getLoc(subs.length-1)+defp+'" class="'+cStyle+'">Home</a>  '+'<span class="'+dStyle+'">'+delStr+'</span> ');
- a=(loc.indexOf(defp)==-1)?1:2;for (i=0;i<(subs.length-a);i++) { subs[i]=makeCaps(unescape(subs[i]));
- document.write('<a href="'+getLoc(subs.length-i-2)+defp+'" class="'+cStyle+'">'+subs[i]+'</a>  '+'<span class="'+dStyle+'">'+delStr+'</span> ');}
- if (nl==1) document.write("<br>");document.write('<span class="'+tStyle+'">'+document.title+'</span>');
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Privacy Statement
+</title>
+    <link rel="stylesheet" href="/assets/Css/style3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/assets/Css/sIFR-screen.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/Css/sIFR-print.css" type="text/css" media="print">
+    <link href="/assets/Css/Thickbox.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/Css/mantle.css" type="text/css" media="all">
+    <!--[if lt IE 7]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <!--[if IE]>
+      <link rel="stylesheet" type="text/css" href="/assets/Css/ie.css" />
+    <![endif]-->    
+    <script src="/assets/js/sifr.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<[CDATA[
+
+    function ValidateAttn(sender, args)
+    {
+        args.IsValid = (document.getElementById('ctl00_ContentPlaceHolder1_ctl00_attn').selectedIndex != 0);
+    }
+
+    function printPage(pagename)
+    {
+		    LeftPosition = (screen.width) ? (screen.width-600)/2 : 0;
+		    TopPosition = (screen.height) ? (screen.height-600)/2 : 0;
+		    settings = 'height=600,width=900,top='+TopPosition+',left='+LeftPosition+',scrollbars=yes,resizable,menubar=1';
+		    printWin = window.open("print.aspx?id=" + pagename,"printSpecial",settings)
+    }
+    
+    function printSpecial()
+    {
+	    var gAutoPrint = false;
+    	
+	    if (document.getElementById != null)
+	    {
+		    var html = '<HTML>\n<HEAD>\n';
+		    if (document.getElementsByTagName != null)
+		    {
+			    var headTags = document.getElementsByTagName("head");
+			    if (headTags.length > 0)
+				    html += headTags[0].innerHTML;
+		    }
+		    html += '\n</HE' + 'AD>\n<BODY class="print" style="background-color:#FFF;padding-left:15px;padding-right:15px;"><form><p class="print_button" align="center" style=\"margin-top:-2px\"><input type="button" value=" Print this page " onclick="window.print();return false;" /></p></form><div class="print_area"><a href="http://www.adam.com"><img src="/assets/images/adam-logo-trans.png"  alt="ADAM Logo" hspace="12" border="0"></a>\n';
+		    //<div id="container"><div id="shadowPaper"><div id="cols_wrapper"><div id="cols_container"><div id="content">
+    		
+		    var printReadyElem = document.getElementById("content-plain");
+    		
+		    if (printReadyElem != null)
+		    {
+				    html += printReadyElem.innerHTML;
+		    }
+		    else
+		    {
+		        printReadyElem = document.getElementById("content-text");
+		        
+		        if (printReadyElem != null)
+		        {
+				    html += printReadyElem.innerHTML;
+		        }
+		        else
+		        {
+			        alert("Could not find the printReady section in the HTML");
+			        return;
+			    }
+		    }
+    			
+		    html += '\n</div><form><p class="print_button" align="center"><input type="button" value=" Print this page " onclick="window.print();return false;" /></p></form></BO' + 'DY>\n</HT' + 'ML>';
+    		//</div></div></div></div></div><div style="clear:both"></div><br>
+		    var win = null;
+		    LeftPosition = (screen.width) ? (screen.width-600)/2 : 0;
+		    TopPosition = (screen.height) ? (screen.height-600)/2 : 0;
+		    settings = 'height=600,width=600,top='+TopPosition+',left='+LeftPosition+',scrollbars=yes,resizable,menubar=1';
+		    printWin = window.open("","printSpecial",settings)
+    		
+		    printWin.document.open();
+		    printWin.document.write(html);
+		    printWin.document.close();
+		    if (gAutoPrint)	printWin.print();
+	    }
+	    else
+	    {
+		    alert("Sorry, the print ready feature is only available in modern browsers.");
+	    }
+    }
+
+
+    var helveticaneuelight = {
+    src: '/Assets/images/helveticaneuelight.swf'
+    };
+    var helvneuelightext = {
+    src: '/Assets/images/helvneuelightext.swf'
+    };
+    var helveticaneueheavy = {
+    src: '/Assets/images/helveticaneueheavy.swf'
+    };
+
+    // You probably want to switch this on, but read <http://wiki.novemberborn.net/sifr3/DetectingCSSLoad> first.
+    //sIFR.useStyleCheck = true;
+    if(typeof(sIFR) != "undefined"){
+    sIFR.activate(helveticaneuelight, helvneuelightext, helveticaneueheavy);
+
+
+    sIFR.replace(helvneuelightext, {
+      selector: '#ima h1',
+      css: [
+      '.sIFR-root { font-size:15px; font-weight:normal; color:#003366;}'
+      ],
+      wmode: 'transparent'
+    });
+
+    sIFR.replace(helveticaneuelight, {
+      selector: '#tagline',
+      css: [
+      '.sIFR-root { font-size:22px; font-weight:normal; color:#77A4D1;}   em { font-style: normal; color: #336699; }'
+      ],
+      wmode: 'transparent'
+    });
+
+
+    sIFR.replace(helveticaneuelight, {
+      selector: '#sidebar h1.sidebar',
+      css: [
+      '.sIFR-root { font-size:17px; font-weight:normal; color:#006699;}'
+      ],
+      wmode: 'transparent'
+    });
+
+    sIFR.replace(helveticaneueheavy, {
+      selector: '#testimonials h2',
+      css: [
+      '.sIFR-root { font-size:15px; font-weight:bold;text-align:right; color:#505156;}'
+      ],
+      wmode: 'transparent'
+    });
+
+    sIFR.replace(helveticaneuelight, {
+      selector: '#content-text h1',
+      css: [
+      '.sIFR-root { font-size:21px; font-weight:normal; color:#F39529;}'
+      ],
+      wmode: 'transparent'
+    });
+
+    sIFR.replace(helveticaneuelight, {
+      selector: '#content-plain h1',
+      css: [
+      '.sIFR-root { font-size:21px; font-weight:normal; color:#F39529;}'
+      ],
+      wmode: 'transparent'
+    });
+    
+    sIFR.replace(helveticaneuelight, {
+      selector: '#content h1',
+      css: [
+      '.sIFR-root { font-size:21px; font-weight:normal; color:#F39529;}'
+      ],
+      wmode: 'transparent'
+    });
+    }
+    
+
+    //]]>
+    </script>
+
+	<script src="/Assets/Js/SpryCollapsiblePanel.js" type="text/javascript"></script>
+	<script src="/Assets/Js/SpryAccordion.js" type="text/javascript"></script>
+	<script src="/Assets/Js/roButton.js" type="text/javascript"></script>
+	<script src="/Assets/Js/jquery.timer.js" type="text/javascript"></script>
+	<script src="/Assets/Js/jquery-1.2.6.min.js" type="text/javascript"></script>
+	<script src="/Assets/Js/jquery.banner.js" type="text/javascript"></script>
+
+	<link href="/Assets/Css/SpryAccordion.css" rel="stylesheet" type="text/css"><link href="/Assets/Css/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css"><meta name="Keywords"><meta name="Description"></head>
+<body>
+    <form name="aspnetForm" method="post" action="index.aspx?page=%3aprivacystatement&amp;q=" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ3MTM4NjMxNw9kFgJmD2QWAgIDD2QWBAIDD2QWAgIBDxYCHgRUZXh0BVQ8YSBocmVmPSIvaW5kZXguYXNweCI+SG9tZTwvYT4gPiA8c3BhbiBjbGFzcz0iY3VycmVudGNydW1iIj5Qcml2YWN5IFN0YXRlbWVudDwvc3Bhbj5kAgcPZBYCAgEPZBYCAgEPZBYCAgEPFgIfAAX4WjxkaXYgY2xhc3M9ImJsdWVCb3giPjwvZGl2Pg0KPGRpdiBjbGFzcz0id2hpdGVCb3giDQo8aDE+UHJpdmFjeSBTdGF0ZW1lbnQ8L2gxPg0KPHA+T3VyIFByaXZhY3kgU3RhdGVtZW50IGV4cGxhaW5zIGhvdyB3ZSBtYW5hZ2UgaW5mb3JtYXRpb24gb2J0YWluZWQgZnJvbSB5b3UuIFRocm91Z2hvdXQgdGhpcyBkb2N1bWVudCwgd2UgaGF2ZSBoaWdobGlnaHRlZCB2YXJpb3VzIHRlcm1zIGFuZCBsaW5rZWQgdGhlbSB0byBvdXIgR2xvc3Nhcnkgb3IgdGhlIHJlbGV2YW50IHNlY3Rpb24gb2YgdGhpcyB3ZWJzaXRlLjxiciAvPg0KPGJyIC8+DQo8Yj5MaWNlbnNlZCBDb250ZW50PC9iPjxiciAvPg0KT3VyIGNvbnRlbnQgaXMgbGljZW5zZWQgdG8gb3RoZXIgb3JnYW5pemF0aW9ucyB0aGF0IG1ha2Ugb3VyIGNvbnRlbnQgYXZhaWxhYmxlIHRvIGNvbnN1bWVycy4gV2UgYXJlIGZpcm1seSBjb21taXR0ZWQgdG8gcmVzcGVjdGluZyB0aGUgcHJpdmFjeSBvZiBpbmRpdmlkdWFscywgYW5kYW55IGluZm9ybWF0aW9uIHRoYXQgd2UgZ2F0aGVyIGlzIHByb3RlY3RlZCBmcm9tIG1pc2FwcHJvcHJpYXRpb24gYW5kIG1pc3VzZS48YnIgLz4NCjxiciAvPg0KV2UgY29sbGVjdCBjZXJ0YWluIHR5cGVzIG9mIHVzZXIgZGF0YSwgaW5jbHVkaW5nIGFub255bW91cyBhZ2dyZWdhdGUgZGF0YSBhbmQgYW5vbnltb3VzIGluZGl2aWR1YWwgZGF0YS4gQWdncmVnYXRlIGRhdGEgZGVzY3JpYmVzIGFsbCB1c2VyIGRhdGEgYXMgYSB3aG9sZSwgcmF0aGVyIHRoYW4gdGhlIGRhdGEgb2Ygc3BlY2lmaWMgaW5kaXZpZHVhbHMuIENvbGxlY3RlZCBkYXRhIG1heSBpbmNsdWRlIHRvcGljcyB0aGF0IHBlb3BsZSB2aWV3LCBicm93c2VycyB0aGV5IHVzZWQsIHRpbWUgYW5kIGxlbmd0aCBjb250ZW50IGlzIHVzZWQsIGhlYWx0aCByaXNrIGFzc2Vzc21lbnQgZGF0YSwgYW5kIHNpbWlsYXIgdHlwZXMgb2YgZGF0YS4gVGhpcyBkYXRhIG1heSBiZSB1c2VkIGJ5IHVzIG9yIG91ciBjdXN0b21lcnMgdG8gdW5kZXJzdGFuZCB3aGF0IGhlYWx0aCBpbmZvcm1hdGlvbiBpcyB1c2VkIG1vc3QgZnJlcXVlbnRseSBhbmQgaG93IHVzZXJzIGFyZSBhY2Nlc3NpbmcgdGhlIGluZm9ybWF0aW9uLjxiciAvPg0KPGJyIC8+DQpJbiBhZGRpdGlvbiwgc29tZSBvcmdhbml6YXRpb25zIHRoYXQgbGljZW5zZSBvdXIgY29udGVudCBwcm92aWRlIGxvZ2luIGFjY291bnRzIHRvIHNlY3VyZSwgcGVyc29uYWxpemVkIHdlYnNpdGVzLiBXZSBtYXkgcHJvdmlkZSB0aGVzZSBvcmdhbml6YXRpb25zIHdpdGggZGF0YSB0aGF0IGlzIHNwZWNpZmljIHRvIGFuIGluZGl2aWR1YWwgbG9naW4gYWNjb3VudCwgYWx0aG91Z2ggd2UgZG8gbm90IHN0b3JlIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIG91cnNlbHZlcyAoc3VjaCBhcyBuYW1lcyBhbmQgcGhvbmUgbnVtYmVycykgYW5kIGhhdmUgbm8gd2F5IG9mIGtub3dpbmcgd2hvIGFuIGluZGl2aWR1YWwgdXNlciBpcy4gQ29uc3VtZXJzIHNob3VsZCByZXZpZXcgdGhlIHByaXZhY3kgcG9saWNpZXMgb2YgdGhlIG9yZ2FuaXphdGlvbnMgZnJvbSB3aGljaCB0aGV5IGFjY2VzcyBvdXIgY29udGVudCB0byBzZWUgaG93IGluZGl2aWR1YWwgZGF0YSBtYXkgYmUgdXNlZC4gV2UgYXJlIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIHByaXZhY3kgcHJhY3RpY2VzIG9mIG9yZ2FuaXphdGlvbnMgdGhhdCBoYXZlIGxpY2Vuc2VkIG91ciBpbmZvcm1hdGlvbi48L3A+DQo8cD48Yj5PcHQtaW48L2I+PGJyIC8+DQpXZSBtYXkgcmVjZWl2ZSBQZXJzb25hbCBJZGVudGlmaWFibGUgSW5mb3JtYXRpb24gKFBJSSkgdmlhIGZvcm1zIGxvY2F0ZWQgb24gdGhpc3dlYiBzaXRlLCBvciB0aHJvdWdoIHB1cmNoYXNpbmcgYSBwcm9kdWN0IHRocm91Z2ggb3VyIG9ubGluZSBzdG9yZS4gSWYgeW91LCB0aGUgd2Vic2l0ZSB1c2VyLCBjb21wbGV0ZSBhbmQgc3VibWl0IHlvdXIgUElJIHZpYSBvdXIgb25saW5lIGZvcm1zIHRvIG9idGFpbiBwcm9kdWN0IGluZm9ybWF0aW9uLCBvciB0aHJvdWdoIHRoZSBzdG9yZSB0byBwdXJjaGFzZSBhIHByb2R1Y3QsIHlvdSBhcmUgJnF1b3Q7b3B0aW5nLWluJnF1b3Q7IHRvIHByb3ZpZGUgdXMgd2l0aCB5b3VyIFBJSSwgYW5kIGFjY2VwdCBvdXIgUHJpdmFjeSBTdGF0ZW1lbnQgYW5kIHBvbGljaWVzIGFuZCBwcm9jZWR1cmVzIGZvciBoYW5kbGluZyBQSUkuIFRoaXMgYWN0aW9uIG1heSByZXN1bHQgaW4gYmVpbmcgY29udGFjdGVkIGJ5IHNvbWVvbmUgaW4gb3VyIHNhbGVzLCBlZGl0b3JpYWwgb3Igc3VwcG9ydCB0ZWFtcy48YnIgLz4NCjxiciAvPg0KQnkgY29tcGxldGluZyBhbnkgb2Ygb3VyIG9ubGluZSBmb3Jtcywgd2UgbWF5IGNvbGxlY3QgYW55IG9yIGFsbCBvZiB0aGUgaW5mb3JtYXRpb24gZm91bmQgaW4gdGhlICZxdW90O0luZm9ybWF0aW9uIE9idGFpbmVkJnF1b3Q7IHNlY3Rpb24gb2YgdGhpcyBkb2N1bWVudC4gV2Ugd2lsbCBub3QgdXNlIHlvdXIgUElJIGZvciBhbnkgdXNlIG90aGVyIHRoYW4gc3RhdGVkIG9yIGludGVuZGVkLjwvcD4NCjxwPjxiPk9wdC1vdXQ8L2I+PGJyIC8+DQpZb3VtYXkgd2lzaCB0byBvcHQtb3V0IG9mIHByb3ZpZGluZyB1cyBQSUkgYnkgbm90IGNvbXBsZXRpbmcgdGhlIG9ubGluZSBmb3JtKHMpIGZvciBwcm9kdWN0IGluZm9ybWF0aW9uLCBhbmQgbWF5IGNvbnRhY3QgdGhlIHVzIGRpcmVjdGx5IHZpYSBkaXJlY3QgZW1haWwsIGZheCBvciBwaG9uZS4gUGxlYXNlIHNlbGVjdCB0aGUgJnF1b3Q7Q29udGFjdCBBLkQuQS5NLiZxdW90OyBsaW5rIHRvIGZpbmQgYW4gYWx0ZXJuYXRpdmUgd2F5IHRvIGNvbnRhY3QgdXMuIElmIHlvdSBoYXZlIHByZXZpb3VzbHkgY29udGFjdGVkIHVzIGFuZCBwcm92aWRlZCBQSUksIHlvdSBtYXkgcmVxdWVzdCB0byBoYXZlIHRoZSBpbmZvcm1hdGlvbiByZW1vdmVkIGJ5IGNvbnRhY3RpbmcgdXMuPGJyIC8+DQpJbmZvcm1hdGlvbiBPYnRhaW5lZDxiciAvPg0KQnkgY29tcGxldGluZyBhbnkgb2Ygb3VyIG9ubGluZSBmb3JtcywgQS5ELkEuTS4gbWF5IGNvbGxlY3QgdGhlIGZvbGxvd2luZyBpbmZvcm1hdGlvbjo8YnIgLz4NCjxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogQ29tcGFueS9Pcmdhbml6YXRpb248YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyAqIENvbXBhbnkgRGVzY3JpcHRpb248YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyAqIFByZWZpeC9UaXRsZTxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogRmlyc3QgTmFtZTxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogTGFzdCBOYW1lPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBBZGRyZXNzPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBDaXR5PGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBTdGF0ZS9Qcm92aW5jZTxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogWmlwIENvZGU8YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyAqIFBlcnNvbmFsIFBhc3N3b3JkPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBFbWFpbCBBZGRyZXNzPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBQaG9uZSBOdW1iZXI8YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyAqIEN1cnJlbnQgQ3VzdG9tZXI8YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyAqIEhlYXIgYWJvdXQgdXM8YnIgLz4NCjxiciAvPg0KSW4gYWRkaXRpb24sIGZvciBwdXJjaGFzZXMgdGhyb3VnaCBvdXIgb25saW5lIHN0b3JlLCB0aGUgZm9sbG93aW5nIG1heSBiZSBvYnRhaW5lZDo8YnIgLz4NCjxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogTmFtZSBvbiBDcmVkaXQgQ2FyZDxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogQ3JlZGl0IENhcmQgTnVtYmVyPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBDcmVkaXQgQ2FyZCBWZXJpZmljYXRpb24gQ29kZTxiciAvPg0KJm5ic3A7Jm5ic3A7Jm5ic3A7ICogQ2FyZCBUeXBlPGJyIC8+DQombmJzcDsmbmJzcDsmbmJzcDsgKiBFeHBpcmF0aW9uIERhdGU8YnIgLz4NCjxiciAvPg0KPGI+UGFzc2l2ZSBUcmFja2luZyBNZWNoYW5pc21zPC9iPjxiciAvPg0KU29tZSBvZiBvdXIgcHJvZHVjdHMgdXRpbGl6ZSBwYXNzaXZlIHRyYWNraW5nIG1lY2hhbmlzbXMgaW4gdGhlIGZvcm0gb2Ygc2Vzc2lvbiAmcXVvdDtjb29raWVzJnF1b3Q7LiBJbiBzcGVjaWZpYyBwcm9kdWN0cywgdGhlc2UgbWVjaGFuaXNtcyB0cmFjayB1c2VyIHNlbGVjdGlvbnMgc28gZWl0aGVyIGFuIG9ubGluZSBzdG9yZSBvcmRlciBjYW4gYmUgcHJvY2Vzc2VkIG9yIGN1c3RvbWl6ZWQgcmVzdWx0cyBwYWdlcyBjYW4gYmUgcHJvdmlkZWQuPGJyIC8+DQo8YnIgLz4NCkluIGFkZGl0aW9uLCBsb2cgZmlsZXMgdGhhdCB0cmFjayBhbmQgY29tcGlsZSBkYXRhIGZvciB3ZWJzaXRlcyBhcmUgYWNjZXNzZWQgYnkgV2ViVHJlbmRzIFNvZnR3YXJlIGFuZCBwZXJpb2RpY2FsbHkgYW5hbHl6ZWQgdG8gbW9uaXRvciB0cmVuZHMgb2YgdGhvc2UgaW5kaXZpZHVhbHMgd2hvIHZpc2l0IG91ciB3ZWJzaXRlLiBHZW5lcmFsIGluZm9ybWF0aW9uLCBpbmNsdWRpbmcgcGFnZXMgYWNjZXNzZWQsIHRoZSBhbW91bnQgb2YgdGltZSBhY2Nlc3NpbmcgcGFnZXMsIGJyb3dzZXIsIGFuZCBvcGVyYXRpbmcgc3lzdGVtLCB1c2VkIGFyZSBhbmFseXplZC48L3A+DQo8cD48Yj48YnIgLz4NClBlcnNvbmFsIElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiAoUElJKTwvYj48YnIgLz4NClBlcnNvbmFsIElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiAoUElJKSBpcyBpbmZvcm1hdGlvbiB0aGF0IG1heSBiZSB1c2VkIHRvIGlkZW50aWZ5IGFuIGluZGl2aWR1YWwsIGluY2x1ZGluZywgd2l0aG91dCBsaW1pdGF0aW9uLCB5b3VyIGZpcnN0IGFuZCBsYXN0IG5hbWUsIHlvdXIgaG9tZSBvciBvdGhlciBwaHlzaWNhbCBhZGRyZXNzLCB5b3VyIGUtbWFpbCBhZGRyZXNzLCB3aGljaCBJbnRlcm5ldCBhZGRyZXNzIHlvdSBnbyB0bywgd2hhdCBicm93c2VyIHlvdSBhcmUgdXNpbmcsIGFuZCBvdGhlciBzaW1pbGFyIGluZm9ybWF0aW9uIChjb2xsZWN0aXZlbHksICZxdW90O1BlcnNvbmFsIEluZm9ybWF0aW9uJnF1b3Q7KS48YnIgLz4NCjxiciAvPg0KV2UgcmVjZWl2ZSBwb3RlbnRpYWwgY2xpZW50IFBJSSB2aWEgZm9ybXMgbG9jYXRlZCBvbiB0aGlzd2ViIHNpdGUuIEJ5IHVzaW5nIHRoZXNlIGZvcm1zIHlvdSBoZXJlYnkgYWdyZWUgdG8gdGhpcyBwcml2YWN5IHBvbGljeSBhbmQgJnF1b3Q7T3B0LSBJbiZxdW90OywgcHJvdmlkaW5nIHVzIHdpdGggUElJLiBVcG9uIGZvcm0gY29tcGxldGlvbiwgYWZ0ZXIgY2xpY2tpbmcgdGhlICZsZHF1bztzZW5kJnJkcXVvOyBvciAmbGRxdW87c3VibWl0JnJkcXVvOyBidXR0b24sIHlvdXIgUElJIGlzIHNlbnQgdG8gYW4gQS5ELkEuTS4gU2FsZXMsIEVkaXRvcmlhbCBvciBzdXBwb3J0IGFzc29jaWF0ZSB2aWEgdW5zZWN1cmVkIGUtbWFpbC4gV2UgZG8gbm90IGNvbGxlY3Qgb3IgYXNrIGZvciBhbnkgc3BlY2lmaWMgaW5mb3JtYXRpb24gdGhhdCB3YXJyYW50cyBpbmNyZWFzZWQgc2VjdXJpdHkgYW5kL29yIGVuY3J5cHRpb24uIENvbnRhY3QgYW5kIHByb2R1Y3QgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIHRvIGFzc2lzdCBvdXIgcHJvZmVzc2lvbmFscyBpbiBpbmZvcm1pbmcgcG90ZW50aWFsIGNsaWVudHMgb2Ygb3VyIHByb2R1Y3Qgb2ZmZXJpbmdzLiBJZiB0aGUgdXNlciBpcyBub3QgaW50ZXJlc3RlZCBpbiBzdWJtaXR0aW5nIGluZm9ybWF0aW9uIHZpYSB0aGUgcHJvdmlkZWQgd2ViIGZvcm0sIHRoZXkgbWF5IGNvbnRhY3QgdXMgdmlhIHJlZ3VsYXIgbWFpbCwgcGhvbmUgb3IgZmF4LjxiciAvPg0KPGJyIC8+DQpUaGUgcmVxdWVzdCBhbmQgUElJIGlzIHJldmlld2VkIGFuZCBxdWFsaWZpZWQuIFRoZSBQSUkgaXMgZW50ZXJlZCBpbnRvIGVpdGhlciB0aGUgRWRpdG9yaWFsIENvbW1lbnRzIGRhdGFiYXNlIHRoYXQgYXNzaXN0cyB1cyBpbiByZXZpZXdpbmcgcGFzdCBvciBwcmVzZW50IGNvbW1lbnRzIG9yIHRocm91Z2ggYSBzZWN1cmUsIHRoaXJkIHBhcnR5IGFwcGxpY2F0aW9uIChTYWxlcyBDb250YWN0IERhdGFiYXNlKSBkZXNpZ25lZCB0byB0cmFjayBwb3RlbnRpYWwsIGN1cnJlbnQgYW5kIHBhc3Qgc2FsZXMgY2xpZW50cy48YnIgLz4NCjxiciAvPg0KVXNpbmcgdGhlIEEuRC5BLk0uIE9ubGluZSBTdG9yZSwgUElJIGlzIHN1Ym1pdHRlZCB0aHJvdWdoIHBsYWNpbmcgYW4gb3JkZXIsIG9yIGEgcmVxdWVzdCBtb3JlIGluZm9ybWF0aW9uLiBQSUkgaXMgc3VibWl0dGVkIGJ5IHRoZSBlbmQgdXNlciB0aHJvdWdoIHRoZSBvbmxpbmUgZm9ybSB0byBwcm9jZXNzIHRoZSBvcmRlciwgaXMgZW5jcnlwdGVkIGFuZCBzZW50IHRvIG91ciB0aGlyZCBwYXJ0eSB2ZW5kb3IgdGhhdCBwcm9jZXNzZXMgdGhlIGNyZWRpdCBjYXJkLCBzZWN1cmVzIHRoZSBwYXltZW50IGFuZCBub3RpZmllcyB1cyB0aGF0IHRoZSB0cmFuc2FjdGlvbiB3YXMgc3VjY2Vzc2Z1bCBvciBkZW5pZWQuIElmIHN1Y2Nlc3NmdWwsIG91ciBzZWN1cmUgb3JkZXIgdHJhY2tpbmcgc3lzdGVtIGRpc3BsYXlzIHRoZSBvcmRlciB0byBzZWxlY3QgYWNjb3VudGluZywgc2hpcHBpbmcgcGVyc29ubmVsIGFuZCBzZWxlY3QgbWFuYWdlcnMuIFRoZSBzaGlwcGluZyBhc3NvY2lhdGUgZnVsZmlsbHMgdGhlIG9yZGVyIGZvciBzaGlwbWVudCwgc2VsZWN0cyBhIHNoaXBwaW5nIGNvbXBhbnkgKFVQUywgRmVkRXgsIG9yIERITCksIHNoaXBwaW5nIG1ldGhvZCBhbmQgc2VjdXJlbHkgc3VibWl0cyB0aGUgbmVjZXNzYXJ5IGluZm9ybWF0aW9uIG5lZWRlZCB0byBzaGlwIHRoZSBvcmRlci48YnIgLz4NCjxiciAvPg0KV2UgZG8gbm90IGtub3dpbmdseSBjb2xsZWN0IHBlcnNvbmFsIGluZm9ybWF0aW9uIGZyb20gYW55IHBlcnNvbiB1bmRlciB0aGUgYWdlIG9mIDEzLiBXZSBhcmUgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgdGhlIHByaXZhY3kgb2YgY2hpbGRyZW4sIGFuZCB0aGlzIHdlYnNpdGUgaXMgbm90IGRlc2lnbmVkIG9yIGludGVuZGVkIGZvciBjaGlsZHJlbiB1bmRlciB0aGUgYWdlIG9mIDEzLjxiciAvPg0KPGI+PGJyIC8+DQpQSUkgLSBEaXNjbG9zdXJlPC9iPjxiciAvPg0KPGJyIC8+DQpUaGUgRWRpdG9yaWFsIENvbW1lbnRzIERhdGFiYXNlIGlzIGFjY2Vzc2libGUgYnkgc2VsZWN0IG1lbWJlcnMgb2YgdGhlIG91ciBlZGl0b3JpYWwgZGVwYXJ0bWVudCwgYW5kIHVzZWQgdG8gcmV2aWV3IHRoZSBwYXN0IGFuZCBwcmVzZW50IGZlZWRiYWNrIHByb3ZpZGVkIHRvIHVzIGJ5IGNsaWVudHMgYW5kIGVuZCB1c2Vycy48YnIgLz4NCjxiciAvPg0KSW5mb3JtYXRpb24gc3RvcmVkIGluIHRoZSB0aGlyZCBwYXJ0eSBTYWxlcyBDb250YWN0IGFwcGxpY2F0aW9uIGlzIGF2YWlsYWJsZSB0byBhbGwgc2FsZXMgYW5kIG1hcmtldGluZyBwZXJzb25uZWwgYXMgd2VsbCBhcyBtZW1iZXJzIG9mIHRoZSBDbGllbnQgU2VydmljZXMgdGVhbSBhbmQgc2VsZWN0IG1lbWJlcnMgb2YgbWFuYWdlbWVudC4gT3VyIHRoaXJkIHBhcnR5IHByb3ZpZGVyIHVwaG9sZHMgdGhlIHNhbWUgcmlnb3JvdXMgc2VjdXJpdHkgZ3VpZGVsaW5lcyBmb2xsb3dlZCBieSBBLkQuQS5NIGFuZCBvdXIgZW1wbG95ZWVzLjxiciAvPg0KPGJyIC8+DQpJbmZvcm1hdGlvbiBzdG9yZWQgaW4gdGhlIHNlY3VyZSBvbmxpbmUgc3RvcmUgZGF0YWJhc2UgaXMgYXZhaWxhYmxlIHRvIHNlbGVjdCBhY2NvdW50aW5nIGFuZCBzaGlwcGluZyBwZXJzb25uZWwgYXMgd2VsbCBhcyBzZWxlY3QgbWVtYmVycyBvZiBtYW5hZ2VtZW50LiBGb3Igc2hpcHBpbmcsIFBJSSBpcyBhbHNvIHNlbnQgdG8gb3VyIHNlY3VyZSB0aGlyZCBwYXJ0eSB2ZW5kb3JzIHRoYXQgcHJvY2VzcyB0aGUgY3JlZGl0IGNhcmQgdHJhbnNhY3Rpb25zIGFzIHdlbGwgYXMgc2hpcCB5b3VyIHByb2R1Y3QuIFRoZXNlIHRoaXJkIHBhcnR5IHZlbmRvcnMgdXBob2xkIHRoZSBzYW1lIHJpZ29yb3VzIHNlY3VyaXR5IGd1aWRlbGluZXMgZm9sbG93ZWQgYnkgQS5ELkEuTSBhbmQgb3VyIGVtcGxveWVlcy48YnIgLz4NCjxiPjxiciAvPg0KUElJIC0gUmV0ZW50aW9uOjwvYj48YnIgLz4NCjxiciAvPg0KV2UgcmVjZWl2ZSBQSUkgdmlhIG9ubGluZSBmb3JtcyBsb2NhdGVkIG9uIHRoaXMgd2ViIHNpdGUgb3IgdGhyb3VnaCBvcmRlcnMgc3VibWl0dGVkIHRocm91Z2ggdGhlIG9ubGluZSBzdG9yZS4gVGhpcyBpbmZvcm1hdGlvbiBpcyBzdG9yZWQgaW4gYSBzZWN1cmUgZGF0YWJhc2UgaW5kZWZpbml0ZWx5LCB1bnRpbCBhIHRpbWUgdGhhdCBhIHJlcXVlc3QgaXMgc3VibWl0dGVkIHRvIHVzIHRvIHJlcXVlc3QgaXQncyByZW1vdmFsLiAoc2VlICZxdW90O1BJSS0gSG93IHRvIE1vZGlmeSZxdW90OyBiZWxvdyZxdW90OykuPGJyIC8+DQo8YnIgLz4NCjxiPlBJSSAtIFVzZXJzIFJpZ2h0czo8L2I+PGJyIC8+DQo8YnIgLz4NClBlcnNvbmFsIElkZW50aWZpYWJsZSBJbmZvcm1hdGlvbiAoUElJKSBpcyBpbmZvcm1hdGlvbiB0aGF0IG1heSBiZSB1c2VkIHRvIGlkZW50aWZ5IGFuIGluZGl2aWR1YWwsIGluY2x1ZGluZywgd2l0aG91dCBsaW1pdGF0aW9uLCB5b3VyIGZpcnN0IGFuZCBsYXN0IG5hbWUsIHlvdXIgaG9tZSBvciBvdGhlciBwaHlzaWNhbCBhZGRyZXNzLCB5b3VyIGVsZWN0cm9uaWMgbWFpbCBhZGRyZXNzLCB3aGljaCBJbnRlcm5ldCBhZGRyZXNzIHlvdSBnbyB0bywgd2hhdCBicm93c2VyIHlvdSBhcmUgdXNpbmcsIGFuZCBvdGhlciBzaW1pbGFyIGluZm9ybWF0aW9uIChjb2xsZWN0aXZlbHksICZxdW90O1BlcnNvbmFsIEluZm9ybWF0aW9uJnF1b3Q7KS48YnIgLz4NCjxiciAvPg0KSWYgeW91IGhhdmUgcmVxdWVzdGVkIGluZm9ybWF0aW9uIGZyb20gdXMgdXNpbmcgb25lIG9mIG91ciBvbmxpbmUgZm9ybXMsIHlvdSBoYXZlIHNlbnQgdXMgUElJLiBJZiB5b3Ugd2lzaCB0byBoYXZlIHlvdXIgUElJIHJlbW92ZWQgZnJvbSBvdXIgZGF0YWJhc2UsIHlvdSBtYXkgY29udGFjdCB1cyBhbmQgcmVxdWVzdCBpdCB0byBiZSByZW1vdmVkLiAoc2VlICZxdW90O1BJSS0gSG93IHRvIE1vZGlmeSZxdW90OyBiZWxvdyZxdW90OykuPGJyIC8+DQo8YnIgLz4NCjxiPlBJSSAtIE1haW50ZW5hbmNlPC9iPjxiciAvPg0KPGJyIC8+DQpXZSByZWNlaXZlIFBJSSB2aWEgZm9ybXMgbG9jYXRlZCBvbiBvdXIgY29ycG9yYXRlIHdlYiBzaXRlLiBUaGlzIGluZm9ybWF0aW9uIGlzIHN0b3JlZCBpbiBhIHNlY3VyZSBkYXRhYmFzZSBpbmRlZmluaXRlbHksIHVudGlsIGEgdGltZSB0aGF0IGEgcmVxdWVzdCBpcyBzdWJtaXR0ZWQgdG8gdXMgdG8gcmVxdWVzdCBtb2RpZmljYXRpb24gb3IgcmVtb3ZhbC4gSW5mb3JtYXRpb24gaXMgbWFpbnRhaW5lZCBhbmQgYmFja2VkIHVwIGJ5IGVpdGhlciB0aGUgVlAgb2YgRW5naW5lZXJpbmcgb3IgYnkgb3VyIHRoaXJkIHBhcnR5IHZlbmRvciwgd2hvIHVwaG9sZHMgdGhlIHNhbWUgcmlnb3JvdXMgc2VjdXJpdHkgZ3VpZGVsaW5lcyBmb2xsb3dlZCBieSBBLkQuQS5NIGFuZCBvdXIgZW1wbG95ZWVzLjxiciAvPg0KPGJyIC8+DQo8Yj5QSUkgLSBNb2RpZmljYXRpb248L2I+PGJyIC8+DQo8YnIgLz4NCllvdSBhcmUgcHJvdmlkZWQgdGhlIG9wcG9ydHVuaXR5IHRvICZxdW90O21vZGlmeSZxdW90OyBjb250YWN0IGluZm9ybWF0aW9uIGJ5IHN1Ym1pdHRpbmcgYSByZXF1ZXN0IHZpYSBlLW1haWwgdG8gbW9kaWZ5IG9yIGRlbGV0ZSB5b3VyIFBJSS4mbmJzcDsgUGxlYXNlIHNlbmQgYWxsIHJlcXVlc3RzIHRvIG1hcmtldGluZ0BhZGFtY29ycC5jb20uIDxiciAvPg0KPGJyIC8+DQo8Yj5QSUkgLSBMaW1pdGF0aW9uczwvYj48YnIgLz4NCjxiciAvPg0KV2UgaGF2ZSB0aGUgYWJpbGl0eSB0byBtb2RpZnkgb3IgcmVtb3ZlIHlvdXIgUElJIGZyb20gb3VyIHByb3ByaWV0YXJ5IEVkaXRvcmlhbCBDb21tZW50cyBvciBTYWxlcyBDb250YWN0IERhdGFiYXNlcy4gSW5mb3JtYXRpb24gY29sbGVjdGVkIG1heSByZXNpZGUgaW4gYSBiYWNrLXVwIGFyY2hpdmUgdW50aWwgYSBwb2ludCB0aGF0IHRoZSBiYWNrLXVwIGlzIGVpdGhlciB3cml0dGVuIG92ZXIgYW5kIG9yIGRlc3Ryb3llZC48YnIgLz4NCjxiciAvPg0KV2UgZG8gbm90IGhhdmUgdGhlIGFiaWxpdHkgdG8gbW9kaWZ5IG9yIHJlbW92ZSB5b3VyIFBJSSBmcm9tIHRoaXJkIHBhcnR5IHNlY3VyZSBwYXltZW50IG9yIHNoaXBwaW5nIGRhdGFiYXNlcy4gSW5mb3JtYXRpb24gc3VibWl0dGVkIHRvIHRoZXNlIGVudGl0aWVzIG1heSByZXNpZGUgb24gdGhlaXIgc2VydmVycyBpbmRlZmluaXRlbHkuPC9wPg0KPHA+PGI+R2xvc3Nhcnk8L2I+PGJyIC8+DQo8YnIgLz4NCkNvb2tpZXMgLSBBIHNtYWxsIGRhdGEgZmlsZSB0aGF0IGlzIHN0b3JlZCBvbiB0aGUgaGFyZCBkcml2ZSBvZiB0aGUgY29tcHV0ZXIgeW91IHVzZSB0byB2aWV3IGEgV2ViIHNpdGUuIENvb2tpZXMgYXJlIHBsYWNlZCBvbiB0aGUgdXNlcidzIGNvbXB1dGVyIGFuZCBhcmUgYWNjZXNzaWJsZSBvbmx5IGJ5IHRoZSBwYXJ0eSBvciBzaXRlIHRoYXQgcGxhY2VkIHRoZSBDb29raWUuIENvb2tpZXMgY2FuIGNvbnRhaW4gcGllY2VzIG9mIFBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIChQSUkpLiBUaGVzZSBDb29raWVzIG9mdGVuIGFyZSB1c2VkIHRvIG1ha2UgdGhlIHNpdGUgZWFzaWVyIHRvIHVzZS4gRm9yIGV4YW1wbGUsIGlmIHlvdSBjaGVjayBhIGZvcm0gYm94IHRvIGF1dGhvcml6ZSB0aGF0IHdlIHN0b3JlIHlvdXIgdXNlcm5hbWUgb24geW91ciBjb21wdXRlciBzbyB0aGF0IHlvdSBkb24ndCBoYXZlIHRvIGVudGVyIGl0IGVhY2ggdGltZSB5b3UgdmlzaXQgdGhlIHNpdGUsIGl0J3Mgc3RvcmVkIGluIGEgQ29va2llIG9uIHlvdXIgY29tcHV0ZXIuPGJyIC8+DQo8YnIgLz4NClBlcnNvbmFsIEhlYWx0aCBJbmZvcm1hdGlvbiAoUEhJKSAtIEluZGl2aWR1YWxseSBpZGVudGlmaWFibGUgaGVhbHRoIGluZm9ybWF0aW9uIHRoYXQgaXMgdHJhbnNtaXR0ZWQgb3IgbWFpbnRhaW5lZCBieSBlbGVjdHJvbmljIG1lZGlhIG9yIGlzIHRyYW5zbWl0dGVkIG9yIG1haW50YWluZWQgaW4gYW55IG90aGVyIGZvcm0gb3IgbWVkaXVtLiAmcXVvdDtIZWFsdGggaW5mb3JtYXRpb24mcXVvdDsgaXMgYW55IGluZm9ybWF0aW9uIHJlbGF0aW5nIHRvIHRoZSBwYXN0LCBwcmVzZW50LCBvciBmdXR1cmUgcGh5c2ljYWwgb3IgbWVudGFsIGhlYWx0aCBvciBjb25kaXRpb24gb2YgYW4gaW5kaXZpZHVhbC48YnIgLz4NCjxiciAvPg0KUGVyc29uYWwgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uIChQSUkpIC0gSW5mb3JtYXRpb24gdGhhdCBtYXkgYmUgdXNlZCB0byBpZGVudGlmeSBhbiBpbmRpdmlkdWFsLCBpbmNsdWRpbmcsIHdpdGhvdXQgbGltaXRhdGlvbiwgeW91ciBmaXJzdCBhbmQgbGFzdCBuYW1lLCB5b3VyIGhvbWUgb3Igb3RoZXIgcGh5c2ljYWwgYWRkcmVzcywgeW91ciBhZ2UgYW5kIGluY29tZSwgeW91ciBlLW1haWwgYWRkcmVzcywgd2hpY2ggSW50ZXJuZXQgYWRkcmVzcyB5b3UgZ28gdG8sIHdoYXQgYnJvd3NlciB5b3UgYXJlIHVzaW5nLCBhbmQgb3RoZXIgc2ltaWxhciBpbmZvcm1hdGlvbiAoY29sbGVjdGl2ZWx5LCAmcXVvdDtQZXJzb25hbCBJbmZvcm1hdGlvbiZxdW90Oyk8YnIgLz4NCjxiciAvPg0KPC9wPjwvZGl2PmQYAQUkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRNdWx0aVZpZXcxDw9kAgFkCccjuizpB8j3Tnv04SC3uCxYuBM=">
+
+    <div id="container">
+        <div id="shadowPaper">
+            
+
+<div id="headerWrap">
+<div id="bannerBox">
+<div id="banner">A.D.A.M., Inc. Announces First Quarter 2009 Earnings Conference Call - <a href="http://adam.com/earnings-april-29-2009.aspx" style="color:#99cc66">read more</a></div>
+</div>
+<script type="text/javascript">
+   var bannerTexts = new Array();  
+   bannerTexts[0] = 'Updates, News and Events from A.D.A.M.';  
+   bannerTexts[1] = 'Go the A.D.A.M. Press Room for latest news coverage<a href="http://adam.com/all-news-and-articles-details.aspx?id=83" style="color:#99cc66">read more</a>';  
+   
+   var i = 0;
+$.timer(5000, function (timer) {
+if (i == bannerTexts.length) {
+i = 0;
 }
-function makeCaps(a) {
-  g=a.split(' ');for (l=0;l<g.length;l++) g[l]=g[l].toUpperCase().slice(0,1)+g[l].slice(1);
-  return g.join(" ");
-}
-function getLoc(c) {
-  var d="";if (c>0) for (k=0;k<c;k++) d=d+"../"; return d;
-}
+$('#banner').fadeTo(1000, 0,
+function() {
+$(this).html(bannerTexts[i]);
+}).fadeTo(1000,1,
+function() {
+i++;
+});
+});
+
+$('#banner').fadeTo(1000, 0,
+function() {
+// Pick random text from array
+var text = bannerTexts[Math.floor(Math.random()*bannerTexts.length)];
+$(this).html(text);
+}).fadeTo(1000,1, function() {
+i++;
+});
+
 </script>
-<script language="JavaScript">
-function openWindowCentered(){
-window.open('http://webapps.urac.org/healthwebsiteaccreditation/default.asp?id=878843645', 'newwin', 'width=500, height=520, left='+(screen.width-500)/2+', top='+(screen.height-520)/2+', resizable=no, scrollbars=no, toolbars=no, location=no, directories=no, status=no, menubar=no, copyhistory=no');
-}
-</script>
-
-<script language="JavaScript">
-image = new Array();
-image[0] ='adam_internal_content_top_x.jpg'
-image[1] ='adam_internal_content_top_x1.jpg'
-image[2] ='adam_internal_content_top_x2.jpg'
-image[3] ='adam_internal_content_top_x3.jpg'
-image[4] ='adam_internal_content_top_x4.jpg'
-image[5] ='adam_internal_content_top_x5.jpg'
-image[6] ='adam_internal_content_top_x6.jpg'
-image[7] ='adam_internal_content_top_x7.jpg'
-image[8] ='adam_internal_content_top_x8.jpg'
-image[9] ='adam_internal_content_top_x9.jpg'
-image[10] ='adam_internal_content_top_x10.jpg'
-image[11] ='adam_internal_content_top_x11.jpg'
-image[12] ='adam_internal_content_top_x12.jpg'
-index = Math.floor(Math.random() * image.length);
-</script> 
-
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->../Siteimages/
-</script>
-
-<link href="Includes/adam_core.css" rel="stylesheet" type="text/css">
-</head>
-<body topmargin="0" marginheight="0" onload="MM_preloadImages('Siteimages/adam_topnav_aboutadam_f2.gif','Siteimages/adam_topnav_ourproducts_f2.gif','Siteimages/adam_topnav_ourservices_f2.gif','Siteimages/adam_topnav_adamstore_f2.gif','Siteimages/adam_topnav_resellers_f2.gif','Siteimages/adam_topnav_contactadam_f2.gif')">
-<table width="866" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="130" valign="top" background="Siteimages/index_r1_c1a.jpg"><a name="top"></a>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="673" height="51"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="logohead">
-                  <tbody><tr>
-                    <td><a href="index.html"><img src="Siteimages/adam_logo.gif" width="139" height="28" border="0"></a></td>
-                  </tr>
-            </tbody></table></td><td width="193" valign="bottom"><div align="left">
-              <table width="100%" border="0" cellpadding="0" cellspacing="0" class="nasdaq">
-                  <tbody><tr>
-                    <td><div align="center"><a href="https://secure.adam.com/adamstore/products/product_index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','Siteimages/adamstore_but2.gif',1)"><img src="Siteimages/adamstore_but.gif" name="Image36" width="102" height="19" border="0"></a></div></td>
-                  </tr>
-              </tbody></table>
-              </div></td>
-          </tr>
-          <tr>
-            <td height="19" colspan="2"><table width="68%" border="0" cellpadding="0" cellspacing="0" class="taghead">
-                <tbody><tr>
-                  <td><img src="Siteimages/bar.gif" width="410" height="20"></td>
-                </tr>
-              </tbody></table></td>
-          </tr>
-          <tr valign="top">
-            <td height="30" colspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="navbar2">
-                <tbody><tr>
-                  <td><table border="0" cellpadding="0" cellspacing="0" width="590">
-                    <tbody><tr>
-                      <td><img name="adam_topnav_leftend" src="Siteimages/adam_topnav_leftend.jpg" width="12" height="30" border="0" alt=""></td>
-                      <td><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','Siteimages/adam_topnav_aboutadam_f2.gif',1)"><img src="Siteimages/adam_topnav_aboutadam_f2.gif" name="Image7" width="95" height="30" border="0"></a></td>
-                      <td><a href="Our_Products/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','Siteimages/adam_topnav_ourproducts_f2.gif',1)"><img src="Siteimages/adam_topnav_ourproducts.gif" name="Image8" width="89" height="30" border="0"></a></td>
-                      <td><a href="Our_Services/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','Siteimages/adam_topnav_ourservices_f2.gif',1)"><img src="Siteimages/adam_topnav_ourservices.gif" name="Image9" width="89" height="30" border="0"></a></td>
-                      <td><a href="Our_Solutions/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','Siteimages/adam_topnav_oursolutions_f2.gif',1)"><img src="Siteimages/adam_topnav_oursolutions.gif" name="Image37" width="89" height="30" border="0"></a></td>
-                      <td><a href="Partners-Resellers/Partners.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','Siteimages/adam_topnav_resellers_f2.gif',1)"><img src="Siteimages/adam_topnav_partners.gif" name="Image38" width="102" height="30" border="0"></a></td>
-                      <td><a href="contact_adam.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','Siteimages/adam_topnav_contactadam_f2.gif',1)"><img src="Siteimages/adam_topnav_contactadam.jpg" name="Image31" width="102" height="30" border="0"></a><img name="Siteimages/adam_topnav_rightend" src="Siteimages/adam_topnav_rightend.jpg" width="12" height="30" border="0" alt=""></td>
-                    </tr>
-                  </tbody></table></td>
-                </tr>
-            </tbody></table></td>
-          </tr>
-    </tbody></table></td></tr>
-  <tr>
-    <td><table align="left" border="0" cellpadding="0" cellspacing="0" width="866">
-        <tbody><tr>
-          <td width="66" height="37" background="Siteimages/index_r2_c1a.jpg" bgcolor="#FFFFFF"><span class="bodytextboldsmall">&nbsp;</span></td>
-          <td width="739" bgcolor="#FFFFFF"><div align="center">
-            <table width="736" border="0" align="center" cellpadding="0" cellspacing="0">
-              <!-- fwtable fwsrc="Untitled" fwbase="tan_table.gif" fwstyle="Dreamweaver" fwdocid = "357226181" fwnested="1" -->
-              <tbody><tr>
-                <td valign="top"><img name="tantb_lef_top" src="Siteimages/tantb_lef_top.gif" width="6" height="7" border="0" alt=""></td>
-                <td background="Siteimages/tantb_mid_top.gif"><img src="Siteimages/spacer.gif" width="1" height="1"></td>
-                <td valign="top"><img name="../Siteimages/tantb_right_top" src="Siteimages/tantb_right_top.gif" width="6" height="7" border="0" alt=""></td>
-              </tr>
-              <tr>
-                <td background="Siteimages/tantb_lef_mid.gif"><span class="bodytextboldsmall">&nbsp;</span></td>
-                <td width="724" height="302" valign="top" bgcolor="#EFEEE2"><div align="center">
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td width="76%" height="151%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td height="51" valign="top"><table width="167" border="0" cellpadding="0" cellspacing="0" background="Siteimages/adam_internal_subnav_back.gif">
-                              <tbody><tr>
-                                <td><img src="Siteimages/adam_internal_subnav_top.gif" width="167" height="36"></td>
-                              </tr>
-                              <tr>
-                                <td><table width="100%" border="0" cellspacing="0" cellpadding="2">
-                                  <tbody><tr>
-                                    <td width="8%"><span class="newsleads"><span class="style14"><strong><img src="Siteimages/spacer.gif" width="10" height="10"></strong></span> </span></td>
-                                    <td width="92%" class="linktextbold"><span class="newsleads"><span class="style10 style12"><a href="LegalNotices.html">Legal Notices</a></span></span></td>
-                                  </tr>
-                                  <tr>
-                                    <td><span class="newsleads"><span class="style14"><strong><img src="Siteimages/spacer.gif" width="10" height="10"></strong></span> <span class="style17"></span></span></td>
-                                    <td class="linktextbold"><span class="newsleads"><span class="style17"><strong><a href="EditorialPolicy.html">Editorial Policy </a></strong></span></span></td>
-                                  </tr>
-                                  <tr>
-                                    <td class="newsleads"><span class="style14"><strong><img src="Siteimages/leaf.gif" width="10" height="10"></strong></span> <span class="style12"></span></td>
-                                    <td class="linktextbold"><span class="style12"><strong>Privacy Statement </strong></span></td>
-                                  </tr>
-                                  <tr>
-                                    <td><span class="newsleads"><span class="style14"><strong><img src="Siteimages/spacer.gif" width="10" height="10"></strong></span> </span></td>
-                                    <td class="linktextbold"><span class="newsleads"><span class="style17"><a href="contact_adam.html">Contact A.D.A.M.</a></span></span></td>
-                                  </tr>
-                                </tbody></table></td>
-                              </tr>
-                              <tr>
-                                <td><img src="Siteimages/adam_internal_subnav_bot.gif" width="167" height="8"></td>
-                              </tr>
-                          </tbody></table></td>
-                        </tr>
-                        <tr>
-                          <td><img src="Siteimages/spacer.gif" width="1" height="5"></td>
-                        </tr>
-                        <tr>
-                          <td height="100%" valign="top"><span class="bodytextboldsmall">&nbsp;</span></td>
-                        </tr>
-                        <tr>
-                          <td valign="top"><span class="bodytextboldsmall">&nbsp;</span></td>
-                        </tr>
-                      </tbody></table></td>
-                      <td width="76%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td></td>
-                        </tr>
-                        <tr>
-                          <td><img src="Siteimages/adam_title_privacy.jpg" width="166" height="47"><script>document.write("<img SRC="+"../Siteimages/"+image[index]+">");</script><img src="../Siteimages/adam_internal_content_top_x12.jpg"></td>
-                        </tr>
-                        <tr>
-                          <td height="135"><table width="553" border="0" cellpadding="0" cellspacing="0" background="Siteimages/adam_internal_content_back.gif">
-                            <tbody><tr>
-                              <td height="45" valign="middle" background="Siteimages/adam_internal_content_top_x.gif"><table width="100%" border="0" cellpadding="10" cellspacing="0" class="bodytextboldsmall">
-                                <tbody><tr>
-                                  <td height="31"><span class="style2a"><a href="index.html">Home</a> »</span></td>
-                                </tr>
-                              </tbody></table></td>
-                            </tr>
-                            <tr>
-                              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                  <tbody><tr>
-                                    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="8">
-                                        <tbody><tr>
-                                          <td valign="top" class="newsleads">
-
-<p class="bodytext">A.D.A.M.'s Privacy Statement explains how we manage information obtained from you. Throughout this document, we have highlighted various terms and linked them to our Glossary or the relevant section of this website.</p>
-
-<p class="bodytext"></p><div align="center"><a href="#lic">Licensed Content</a> |<a href="#optin">Opt-in</a> | <a href="#optout">Opt-out</a> | 
-<a href="#infoobtained">Information Obtained</a><br>
-<a href="#passivetrack">Passive Tracking Mechanisms</a> | 
-<a href="#pii">Personal Identifiable Information (PII)</a> | <a href="#glossary">Glossary</a>
-</div><p></p>
-
-<p class="bodytext"><b><a name="lic">Licensed Content</a> </b></p>
+			
+<div id="adam-logo"><a href="/index.aspx"><img src="/Assets/Images/adam_logo.jpg" style="border:0" alt="ADAM logo"></a></div>
 
 
-<p class="bodytext">A.D.A.M. content is licensed to other organizations that make our content available to consumers. A.D.A.M. is firmly committed to respecting the privacy of individuals. Any information that we gather is protected from misappropriation and misuse.</p>
-                                            <p class="bodytext">A.D.A.M. collects certain types of user data, including anonymous aggregate data and anonymous individual data. Aggregate data describes all user data as a whole, rather than the data of specific individuals. Collected data may include topics that people view, browsers they used, time and length content is used, health risk assessment data, and similar types of data. This data may be used by A.D.A.M. or its customers to understand what health information is used most frequently and how users are accessing the information. </p>
-                                            <p class="bodytext">In addition, some organizations that license A.D.A.M. content provide login accounts to secure, personalized websites. A.D.A.M. may provide these organizations with data that is specific to an individual login account, although A.D.A.M. itself does not store personally identifiable information (such as names and phone numbers) and has no way of knowing who an individual user is. Consumers should review the privacy policies of the organizations from which they access A.D.A.M. content to see how individual data may be used. A.D.A.M. is not responsible for the privacy practices of organizations that have licensed A.D.A.M. information.</p>
+<div id="navBox">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="900" height="65" title="navigationMenu">
+  <param name="movie" value="/Media/Flash/navMenu3.swf">
+  <param name="quality" value="high">
+  <embed src="/Media/Flash/navMenu3.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="900" height="65">
+</object>
+</div>
+            <div id="cols_wrapper">
+                <div id="cols_container">            
+                    <div id="content">
+                        <div id="breadBar">
+                    
+<div id="breadcrumbs"><a href="/index.aspx">Home</a> &gt; <span class="currentcrumb">Privacy Statement</span></div>
 
+                    <div id="ctl00_ADAM_social2_Panel1">
+	
+    
+    
+    <div id="addthis"><!-- ADDTHIS BUTTON BEGIN -->
+    <script type="text/javascript">
+    addthis_pub             = 'axiomx11'; 
+    addthis_logo            = 'http://dev.neboweb.com/ADAM/images/adam-logo-trans.png';
+    addthis_logo_background = 'EFEFFF';
+    addthis_logo_color      = '666699';
+    addthis_brand           = 'ADAM';
+    addthis_options         = 'favorites, email, stumbleupon, digg, delicious, facebook, google, live, more';
+    </script>
+    <a class="nodot" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" style="border:0" alt=""></a>
+    <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+    <!-- ADDTHIS BUTTON END --></div>
 
-
-<p class="bodytext"><b><a name="optin">Opt-In</a> </b></p>
-
-
-<p class="bodytext">A.D.A.M. may receive Personal Identifiable Information (PII) via forms located on our corporate web site, or through purchasing a product through our online store. If you, the website user,  complete and submit your PII via our online forms to obtain product information, or through the store to purchase a product, you are "opting-in" to provide us with your PII, and accept our Privacy Statement and policies and procedures for handling PII. This action may result in being contacted by an A.D.A.M. sales, editorial or support professional. </p>
-
-<p class="bodytext">By completing any of our online forms, A.D.A.M. may collect any or all of the information found in section "Information Obtained" section of this document. A.D.A.M. will not use your PII for any use other than stated or intended.</p>
-
-<p class="bodytext"><b><a name="optout">Opt-Out</a> </b></p>
-
-<p class="bodytext">You, the website user, may wish to opt-out of providing us PII by not completing the online form(s) for product  information, and may contact the company directly via fax or phone. Please select the "<a href="http://www.adam.com/contact_adam.html">Contact A.D.A.M.</a>" link to find an alternative way to contact us. If you have previously contacted A.D.A.M. and provided PII, you may request to have the information removed, by selecting the appropriate checkbox located on any of our online contact forms, such as our <a href="http://www.adam.com/contact_sales.html">contact sales page</a>. 
-</p>
-
-
-<p class="bodytext"><a name="infoobtained"><b>Information Obtained</b></a> </p>
-<p class="bodytext">By completing  any of our online forms, A.D.A.M. may collect the following information:<br>
-</p><ul>
-<li>Company/Organization</li>
-<li>Company Description</li>
-<li>Prefix/Title</li>
-<li>First Name</li>
-<li>Last Name</li>
-<li>Address</li>
-<li>City</li>
-<li>State/Province</li>
-<li>Zip Code </li>
-<li>Personal Password</li>
-<li>Email Address</li>
-<li>Phone Number</li>
-<li>Current Customer</li>
-<li>Hear about us</li>
-</ul>
-<p class="bodytext"> In addition, for purchases through our online store, the following may be obtained:<br>
-</p><ul>
-<li>Name on Credit Card</li>
-<li>Credit Card Number</li>
-<li>Credit Card Verification Code</li>
-<li>Card Type</li>
-<li>Expiration Date</li>
-</ul>
-<p></p>
-
-<p class="bodytext"><a name="passivetrack"><b>Passive Tracking Mechanisms</b></a> </p>
-
-<p class="bodytext">Some A.D.A.M. products utilize passive tracking mechanisms in the form of session "cookies". In specific products, these mechanisms track user selections so either an online store order can be processed or customized results pages can be provided. </p>
-
-<p class="bodytext">In addition, log files that track and compile data for websites are accessed by WebTrends Software and periodically analyzed to monitor trends of those individuals who visit our website. General information, including pages accessed, the amount of time accessing pages, browser, and operating system, used are analyzed.</p>
-
-<p class="bodytext"><b><a name="pii">Personal Identifiable Information (PII)</a></b> 
-
-</p><p class="bodytext">Personal Identifiable Information (PII) is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information").</p>
-
-<p class="bodytext">A.D.A.M. receives potential client PII via forms located on the corporate web site. By using these forms you hereby agree to this privacy policy and "Opt- In", providing us with PII. Upon form completion, the user will click the send or submit button. The PII is sent to an A.D.A.M.  Sales, Editorial or support associate via unsecured e-mail. A.D.A.M. does not collect or ask for any specific information that warrants increased security and/or encryption. Contact and product information is collected to assist our sales professionals in informing potential clients of our product offerings. If the user is not interested in submitting information via the provided web form, they may contact us via regular mail, phone or fax.</p>
-
-<p class="bodytext">The request and PII is reviewed and qualified. The PII is entered into either the Editorial Comments database that assists us in reviewing past or present comments or through a secure, third party application (Sales Contact Database) designed to track potential, current and past sales clients. </p>
-
-<p class="bodytext">Using the A.D.A.M. Online Store, PII is submitted through placing an order, or a request more information. PII is submitted by the end user through  the online form to process the order,  is encrypted and sent to our third party vendor that processes the credit card, secures the payment and notifies A.D.A.M. that the transaction was successful or denied. If successful, our secure order tracking system displays the order to select accounting, shipping personnel and select managers. The shipping associate fulfills the order for shipment, selects a shipping company (UPS, FedEx, or DHL), shipping method and securely submits the necessary information needed to ship the order.</p>
-
-<p class="bodytext">A.D.A.M. does not knowingly collect personal information from any person under the age of 13. We are committed to protecting the privacy of children, and this website is not designed or intended for children under the age of 13.</p>
-
-
-
-<p class="bodytext"><b><a name="pii_disclosure">PII - Disclosure</a> </b></p>
-
-<p class="bodytext">The Editorial Comments Database is accessible by select members of the A.D.A.M. editorial department, and used to review the past and present feedback provided to us by clients and end users.
-
-</p><p class="bodytext">Information stored in the third party Sales Contact application is available to all sales and marketing personnel as well as members of the Client Services team and select members of managment. Our third party provider upholds the same rigorous security guidelines followed by A.D.A.M and our employees.</p>
-
-<p class="bodytext">Information stored in the secure online store database is available to select accounting, shipping personnel as well as select members of management. For shipping, PII  is also sent to our secure third party vendors that process the credit card transactions as well as ship your product. These third party vendors uphold the same rigorous security guidelines followed by A.D.A.M and our employees.</p>
-
-
-<p class="bodytext"><b><a name="pii_retention">PII - Retention:</a> </b></p>
-
-<p class="bodytext">A.D.A.M., Inc. receives PII via online forms located on the corporate web site or through orders submitted through the online store. This information is stored in a secure database indefinitely, until a time that a request is submitted to A.D.A.M. to request it's removal. (see "PII- How to Modify" below").</p>
-
-<p class="bodytext"><b><a name="pii_rights">PII - Users Rights:</a> </b></p>
-
-<p class="bodytext">Personal Identifiable Information (PII) is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information"). </p>
-
-<p class="bodytext">If you have requested information from us using one of our online forms, you have sent us PII. If you wish to have your PII removed from our database, you may contact us and request it to be removed. (see "PII- How to Modify" below").</p>
-
-<p class="bodytext"><b><a name="pii_main">PII - Maintenance</a></b></p>
-
-<p class="bodytext">A.D.A.M. receives PII via forms located on our corporate web site. This information is stored in a secure database indefinitely, until a time that a request is submitted to A.D.A.M. to request modification or removal. Information is maintained and backed up by either the VP of Engneering or by our third party vendor, who upholds the same rigorous security guidelines followed by A.D.A.M and our employees.</p>
-
-<p class="bodytext"><b><a name="pii_modify">PII - Modification</a></b></p>
-
-<p class="bodytext">You are provided the opportunity to "modify" contact information by submitting a request via e-mail to modify or delete your PII. The link is located below the Information request forms, located at either:</p>
-<div align="center"><p class="bodytext"><a href="http://www.adam.com/About_ADAM/Editorial/feedback.html">http://www.adam.com/About_ADAM/Editorial/feedback.html</a></p>
-
-<p class="bodytext"><a href="http://www.adam.com/About_ADAM/Investor_Relations/InfoRequest.html">http://www.adam.com/About_ADAM/Investor_Relations/InfoRequest.html</a></p></div>
-
-
-<p class="bodytext">Clicking on the link will provide you with the ability to send an e-mail to the A.D.A.M.  to modify or remove your PII.</p>
- <p></p>
-
-<p class="bodytext"><b><a name="pii_limit">PII - Limitations</a></b> </p>
-
-<p class="bodytext">A.D.A.M. has the ability to modify or remove your PII from our proprietary Editorial Comments or Sales Contact Databases. Information collected may reside in a back-up archive until a point that the back up is either written over and or destroyed. </p>
-
-
-<p class="bodytext">A.D.A.M. does not have the ability to modify or remove your PII from third party secure payment or shipping databases. Information submitted to these entities may reside on their servers indefinitely.</p>
-
-
-<p class="bodytext"><b><a name="glossary">Glossary</a></b> </p>
-
-<p class="bodytext"><b>Cookies -</b> A small data file that is stored on the hard drive of the computer you use to view a Web site. Cookies are placed on the user's computer and are accessible only by the party or site that placed the Cookie. Cookies can contain pieces of Personally Identifiable Information (PII). These Cookies often are used to make the site easier to use. For example, if you check a  form box to authorize that we store your username on your computer so that you don't have to enter it each time you visit the site, it's stored in a Cookie on your computer.</p>
-
-<p class="bodytext"><b>Personal Health Information (PHI) -</b> Individually identifiable health information that is transmitted or maintained by electronic media or is transmitted or maintained in any other form or medium. "Health information" is any information relating to the past, present, or future physical or mental health or condition of an individual.</p>
-
-<p class="bodytext"><b>Personal Identifiable Information (PII) -</b> Information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your age and income, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information")</p>
-
-
-                                            <p class="bodytext"><br>
-                                                <a href="#top"><img src="Siteimages/backtotop.gif" width="65" height="10" border="0"></a> 
-                                                </p>
-                                            <p></p></td>
-                                        </tr>
-                                    </tbody></table></td>
-                                  </tr>
-                              </tbody></table></td>
-                            </tr>
-                            <tr>
-                              <td background="Siteimages/adam_internal_content_bot.gif"><img src="Siteimages/adam_internal_content_bot.gif" width="553" height="9"></td>
-                            </tr>
-                          </tbody></table></td>
-                        </tr>
-                      </tbody></table></td>
-                    </tr>
-                  </tbody></table>
-                    </div></td>
-                <td background="Siteimages/tantb_right_mid.gif"><span class="bodytextboldsmall">&nbsp;</span></td>
-              </tr>
-              <tr>
-                <td valign="top"><img name="tantb_lef_bot" src="Siteimages/tantb_lef_bot.gif" width="6" height="7" border="0" alt=""></td>
-                <td height="7" background="Siteimages/tan_table_r3_c2.gif"><div align="center"><img src="Siteimages/spacer.gif" width="1" height="1"></div></td>
-                <td valign="top"><img name="tantb_rig_bot" src="Siteimages/tantb_rig_bot.gif" width="6" height="7" border="0" alt=""></td>
-              </tr>
-            </tbody></table>
-                        </div></td>
-          <td width="61" valign="top" background="Siteimages/index_r2_c3.jpg" bgcolor="#FFFFFF"><img src="Siteimages/spacer.gif" width="61" height="6"></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr>
-    <td height="134" valign="top" background="Siteimages/index_r3_c1.jpg"><table width="84%" border="0" cellpadding="0" cellspacing="0" class="loginbar">
-<tbody><tr>
-<td height="21" colspan="2" valign="bottom"><span class="bodytextboldsmall">&nbsp;</span></td>
-<td width="1%" rowspan="3"><span class="bodytextboldsmall">&nbsp;</span></td>
-<td width="10%" rowspan="3"><span class="bodytextboldsmall">&nbsp;</span> </td>
-<td width="41%" rowspan="3"><div align="center" class="boilerplate2"><a href="LegalNotices.html">Legal Notices</a> | <a href="EditorialPolicy.html">Editorial Policy</a> | <a href="PrivacyStatement.html">Privacy Statement</a><br>
-<a href="contact_adam.html">Contact A.D.A.M.</a>
-<!-- | <a href="../ClientLogin.html">Client Login</a>  -->
+</div>
+                        </div>
+                    <div id="content-plain" class="plain"><br>
+                        
+    
+            <div class="blueBox"></div>
+<div class="whiteBox" <h1="">Privacy Statement
+<p>Our Privacy Statement explains how we manage information obtained from you. Throughout this document, we have highlighted various terms and linked them to our Glossary or the relevant section of this website.<br>
 <br>
-© 2006 A.D.A.M., Inc. All rights reserved.</div></td>
-<td width="27%" rowspan="3" valign="bottom"><div align="right"><a href="#" onclick="openWindowCentered();return false"><img src="Siteimages/urac_logo.gif" width="64" height="59" border="0"></a></div></td>
-</tr>
-<tr>
-<td width="30" valign="bottom">&nbsp;</td>
-<td width="9%" valign="bottom"><span class="bodytextboldsmall">&nbsp;</span></td>
-</tr>
-<tr>
-<td width="50" height="22"><div align="left"> </div></td>
-<td><span class="bodytextboldsmall">&nbsp;</span></td>
-</tr>
-</tbody></table></td>
-  </tr>
-</tbody></table>
+<b>Licensed Content</b><br>
+Our content is licensed to other organizations that make our content available to consumers. We are firmly committed to respecting the privacy of individuals, andany information that we gather is protected from misappropriation and misuse.<br>
+<br>
+We collect certain types of user data, including anonymous aggregate data and anonymous individual data. Aggregate data describes all user data as a whole, rather than the data of specific individuals. Collected data may include topics that people view, browsers they used, time and length content is used, health risk assessment data, and similar types of data. This data may be used by us or our customers to understand what health information is used most frequently and how users are accessing the information.<br>
+<br>
+In addition, some organizations that license our content provide login accounts to secure, personalized websites. We may provide these organizations with data that is specific to an individual login account, although we do not store personally identifiable information ourselves (such as names and phone numbers) and have no way of knowing who an individual user is. Consumers should review the privacy policies of the organizations from which they access our content to see how individual data may be used. We are not responsible for the privacy practices of organizations that have licensed our information.</p>
+<p><b>Opt-in</b><br>
+We may receive Personal Identifiable Information (PII) via forms located on thisweb site, or through purchasing a product through our online store. If you, the website user, complete and submit your PII via our online forms to obtain product information, or through the store to purchase a product, you are "opting-in" to provide us with your PII, and accept our Privacy Statement and policies and procedures for handling PII. This action may result in being contacted by someone in our sales, editorial or support teams.<br>
+<br>
+By completing any of our online forms, we may collect any or all of the information found in the "Information Obtained" section of this document. We will not use your PII for any use other than stated or intended.</p>
+<p><b>Opt-out</b><br>
+Youmay wish to opt-out of providing us PII by not completing the online form(s) for product information, and may contact the us directly via direct email, fax or phone. Please select the "Contact A.D.A.M." link to find an alternative way to contact us. If you have previously contacted us and provided PII, you may request to have the information removed by contacting us.<br>
+Information Obtained<br>
+By completing any of our online forms, A.D.A.M. may collect the following information:<br>
+<br>
+&nbsp;&nbsp;&nbsp; * Company/Organization<br>
+&nbsp;&nbsp;&nbsp; * Company Description<br>
+&nbsp;&nbsp;&nbsp; * Prefix/Title<br>
+&nbsp;&nbsp;&nbsp; * First Name<br>
+&nbsp;&nbsp;&nbsp; * Last Name<br>
+&nbsp;&nbsp;&nbsp; * Address<br>
+&nbsp;&nbsp;&nbsp; * City<br>
+&nbsp;&nbsp;&nbsp; * State/Province<br>
+&nbsp;&nbsp;&nbsp; * Zip Code<br>
+&nbsp;&nbsp;&nbsp; * Personal Password<br>
+&nbsp;&nbsp;&nbsp; * Email Address<br>
+&nbsp;&nbsp;&nbsp; * Phone Number<br>
+&nbsp;&nbsp;&nbsp; * Current Customer<br>
+&nbsp;&nbsp;&nbsp; * Hear about us<br>
+<br>
+In addition, for purchases through our online store, the following may be obtained:<br>
+<br>
+&nbsp;&nbsp;&nbsp; * Name on Credit Card<br>
+&nbsp;&nbsp;&nbsp; * Credit Card Number<br>
+&nbsp;&nbsp;&nbsp; * Credit Card Verification Code<br>
+&nbsp;&nbsp;&nbsp; * Card Type<br>
+&nbsp;&nbsp;&nbsp; * Expiration Date<br>
+<br>
+<b>Passive Tracking Mechanisms</b><br>
+Some of our products utilize passive tracking mechanisms in the form of session "cookies". In specific products, these mechanisms track user selections so either an online store order can be processed or customized results pages can be provided.<br>
+<br>
+In addition, log files that track and compile data for websites are accessed by WebTrends Software and periodically analyzed to monitor trends of those individuals who visit our website. General information, including pages accessed, the amount of time accessing pages, browser, and operating system, used are analyzed.</p>
+<p><b><br>
+Personal Identifiable Information (PII)</b><br>
+Personal Identifiable Information (PII) is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your e-mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information").<br>
+<br>
+We receive potential client PII via forms located on thisweb site. By using these forms you hereby agree to this privacy policy and "Opt- In", providing us with PII. Upon form completion, after clicking the “send” or “submit” button, your PII is sent to an A.D.A.M. Sales, Editorial or support associate via unsecured e-mail. We do not collect or ask for any specific information that warrants increased security and/or encryption. Contact and product information is collected to assist our professionals in informing potential clients of our product offerings. If the user is not interested in submitting information via the provided web form, they may contact us via regular mail, phone or fax.<br>
+<br>
+The request and PII is reviewed and qualified. The PII is entered into either the Editorial Comments database that assists us in reviewing past or present comments or through a secure, third party application (Sales Contact Database) designed to track potential, current and past sales clients.<br>
+<br>
+Using the A.D.A.M. Online Store, PII is submitted through placing an order, or a request more information. PII is submitted by the end user through the online form to process the order, is encrypted and sent to our third party vendor that processes the credit card, secures the payment and notifies us that the transaction was successful or denied. If successful, our secure order tracking system displays the order to select accounting, shipping personnel and select managers. The shipping associate fulfills the order for shipment, selects a shipping company (UPS, FedEx, or DHL), shipping method and securely submits the necessary information needed to ship the order.<br>
+<br>
+We do not knowingly collect personal information from any person under the age of 13. We are committed to protecting the privacy of children, and this website is not designed or intended for children under the age of 13.<br>
+<b><br>
+PII - Disclosure</b><br>
+<br>
+The Editorial Comments Database is accessible by select members of the our editorial department, and used to review the past and present feedback provided to us by clients and end users.<br>
+<br>
+Information stored in the third party Sales Contact application is available to all sales and marketing personnel as well as members of the Client Services team and select members of management. Our third party provider upholds the same rigorous security guidelines followed by A.D.A.M and our employees.<br>
+<br>
+Information stored in the secure online store database is available to select accounting and shipping personnel as well as select members of management. For shipping, PII is also sent to our secure third party vendors that process the credit card transactions as well as ship your product. These third party vendors uphold the same rigorous security guidelines followed by A.D.A.M and our employees.<br>
+<b><br>
+PII - Retention:</b><br>
+<br>
+We receive PII via online forms located on this web site or through orders submitted through the online store. This information is stored in a secure database indefinitely, until a time that a request is submitted to us to request it's removal. (see "PII- How to Modify" below").<br>
+<br>
+<b>PII - Users Rights:</b><br>
+<br>
+Personal Identifiable Information (PII) is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information").<br>
+<br>
+If you have requested information from us using one of our online forms, you have sent us PII. If you wish to have your PII removed from our database, you may contact us and request it to be removed. (see "PII- How to Modify" below").<br>
+<br>
+<b>PII - Maintenance</b><br>
+<br>
+We receive PII via forms located on our corporate web site. This information is stored in a secure database indefinitely, until a time that a request is submitted to us to request modification or removal. Information is maintained and backed up by either the VP of Engineering or by our third party vendor, who upholds the same rigorous security guidelines followed by A.D.A.M and our employees.<br>
+<br>
+<b>PII - Modification</b><br>
+<br>
+You are provided the opportunity to "modify" contact information by submitting a request via e-mail to modify or delete your PII.&nbsp; Please send all requests to marketing@adamcorp.com. <br>
+<br>
+<b>PII - Limitations</b><br>
+<br>
+We have the ability to modify or remove your PII from our proprietary Editorial Comments or Sales Contact Databases. Information collected may reside in a back-up archive until a point that the back-up is either written over and or destroyed.<br>
+<br>
+We do not have the ability to modify or remove your PII from third party secure payment or shipping databases. Information submitted to these entities may reside on their servers indefinitely.</p>
+<p><b>Glossary</b><br>
+<br>
+Cookies - A small data file that is stored on the hard drive of the computer you use to view a Web site. Cookies are placed on the user's computer and are accessible only by the party or site that placed the Cookie. Cookies can contain pieces of Personally Identifiable Information (PII). These Cookies often are used to make the site easier to use. For example, if you check a form box to authorize that we store your username on your computer so that you don't have to enter it each time you visit the site, it's stored in a Cookie on your computer.<br>
+<br>
+Personal Health Information (PHI) - Individually identifiable health information that is transmitted or maintained by electronic media or is transmitted or maintained in any other form or medium. "Health information" is any information relating to the past, present, or future physical or mental health or condition of an individual.<br>
+<br>
+Personal Identifiable Information (PII) - Information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your age and income, your e-mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information")<br>
+<br>
+</p></div>
+            
+            <div id="ctl00_ContentPlaceHolder1_formarea">
+
+</div>
+            
+        
+
+                        </div>
+                    </div>
+                </div>
+                
+
+<div id="footer"><center><br>
+  <table width="860">
+    <tbody><tr>
+      <td width="242"><a href="http://itunes.com/apps/medzio" target="_blank"><img src="/Media/Images/adam_medzioLink.jpg" alt="Medzio Link" width="222" height="77" border="0"></a></td>
+      <td width="586" align="left">
+    <a href="/index.aspx">Home</a> | 
+    <a href="http://adameducation.com">Educators &amp; Students</a> | 
+    <a href="/investor-relations.aspx">Investor Relations</a> | <a href="/careers.aspx">Careers</a> | <a href="/Media/Files/editorialGuidelines.aspx">Editorial</a> | <a href="/privacyStatement.aspx">Privacy Policy</a> |
+    <a href="/termsandconditions.aspx">Terms &amp; Conditions</a> |
+    <a href="/site-map.aspx">Site Map</a>
+    <br>
+<span style="color:#FFFFFF;">© 2009 A.D.A.M., Inc. All rights reserved.</span></td>
+    </tr>
+  </tbody></table>
+  
+  <br>
+</center></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7131004-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+            </div> 
+        </div>
+    </div>
+    
+    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+    <script type="text/javascript">/*<![CDATA[*/google.load("jquery", "1");/*]]>*/</script>
+    <script src="/assets/js/thickbox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $('ul#nav > li').hover(function() {
+    $('ul:first', this).show();
+  },
+  function() {
+    $('ul:first', this).hide();
+  });
+
+  $('ul#nav li li').hover(function() {
+    $('ul:first', this).each(function() {
+      $(this).css('top', $(this).parent().position().top );
+      $(this).css('left', $(this).parent().position().left + $(this).parent().width() );
+      $(this).show();
+    });
+  },
+  function() {
+    $('ul:first', this).hide();
+  });
+});
+
+</script>
 
 
-</body></html>
+<script type="text/javascript">
+<!--
+var CollapsiblePanel1 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel1");
+var CollapsiblePanel2 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel2");
+var CollapsiblePanel3 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel3");
+var CollapsiblePanel4 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel4");
+//-->
+</script>
+<script type="text/javascript">
+<!--
+var Accordion1 = new Spry.Widget.Accordion("Accordion1");
+//-->
+</script>
+
+
+
+</div></form></body></html>
