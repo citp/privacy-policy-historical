@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230140737id_/http%3A//www.eurostemcell.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501000756id_/http%3A//eurostemcell.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EuroStemCell
 
