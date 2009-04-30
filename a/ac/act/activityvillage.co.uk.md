@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
 |  | **Don't miss...**  
 ---|---  
-[ Advent](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/advent_for_kids.htm)  
-[ Hanukkah](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/hanukkah_for_kids.htm)  
-[ Christmas](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/christmas_pages.htm)  
-[ Kwanzaa](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/kwanzaa_for_kids.htm)  
-[ New Year](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/happy_new_year.htm)  
-[ Winter](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/winter_pages.htm)  
-[ MLK Day](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/mlk_day.htm)  
-[ Australia Day](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/australia_day.htm)  
-[ Chinese New Year](https://web.archive.org/web/20081217065455id_/http%3A//www.activityvillage.co.uk/chinese_new_year.htm)  
+[ Spring](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/spring.htm)  
+[ Children's Day (Japan)](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/childrens_day_japan.htm)  
+[ Teacher Appreciation Week (US) ](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/teacher_appreciation.htm)  
+[ Mother's Day (US) ](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/mother's_day.htm)  
+[ Father's Day](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/fathers_day_page.htm)  
+[ Canada Day](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/canada_day_pages.htm)  
+[ Fourth of July](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/fourth_of_july_pages.htm)  
+[ Summer](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/summer_activities.htm)  
   
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -38,6 +37,18 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 In addition, third parties may be placing and reading cookies on your browser, or   
 using web beacons to collect information, in the course of ads being served on this website. 
 
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+ **Cookies and Web Beacons**  
+We may use cookies to store information, such as your personal preferences when you visit our site. Their use may allow us, for example, to show you only one popup per visit.
+
+**Advertisements**  
+We may also use third party advertisements to support this site. Some of our advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing UK-based ads to someone in the UK, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+**DoubleClick DART cookies**  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
+
 **How Do We Use the Information That You Provide to Us?**
 
 Broadly speaking, we use personal information for purposes of administering our   
@@ -52,6 +63,10 @@ Occasionally, if you have opted into a newsletter we may provide, we may also us
 **What Are Cookies?**  
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
 **How Do We Use Information We Collect from Cookies?**  
 As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
 
@@ -61,9 +76,6 @@ IP addresses are used by your computer every time you are connected to the Inter
 **Sharing and Selling Information**  
 We do not share, sell, lend or lease any of the information that uniquely identify a   
 subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
-
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
 
 **What About Legally Compelled Disclosure of Information?**  
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
@@ -91,6 +103,6 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 your information would be considered part of those assets, and may be part of those assets that are transferred. 
 
 **Policy Modifications**  
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
 
 |    | 
