@@ -1,48 +1,106 @@
-> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520010331id_/http%3A//hollandamerica.com/policies/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430211706id_/http%3A//www.hollandamerica.com/legalAndPrivacy/Main.action) for the most accurate reproduction.*
 
-# Privacy Policy - Holland America Line Inc.
+# Cruises to Alaska, Europe, the Caribbean, Mexico and the world on Holland America, one of the best cruise lines
 
-privacy policy
+**PRIVACY POLICY**
 
-The following information explains our policy regarding any personal information you may supply to us when visiting our Web site (site). By using this site, you signify your acceptance of our Privacy Policy.
+This website is owned and operated by Holland America Line Inc. ("Holland America Line"). Holland America Line is committed to respecting and protecting your privacy and helping you make the most of your time on the Internet within a trusted environment. The Holland America Line Privacy Policy ("Privacy Policy") applies to the hollandamerica.com website and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered about you on our website. If you use this site you explicitly agree to the terms and conditions of the Privacy Policy in effect at the time of your use. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Please read our Privacy Policy to understand:
 
-1\. CONFIDENTIALITY   
-Your confidential use of this site cannot be guaranteed by us. We shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of this site.
+[Information We Collect](https://web.archive.org/legalAndPrivacy/Main.action#collect)   
+[Site Use Information](https://web.archive.org/legalAndPrivacy/Main.action#siteuse)   
+[Use of Cookies](https://web.archive.org/legalAndPrivacy/Main.action#cookies)   
+[Information You Provide to Us](https://web.archive.org/legalAndPrivacy/Main.action#provide)   
+[Email Promotions](https://web.archive.org/legalAndPrivacy/Main.action#email)   
+[Child Privacy](https://web.archive.org/legalAndPrivacy/Main.action#child)   
+[Access to Your Web Information](https://web.archive.org/legalAndPrivacy/Main.action#access)   
+[Disclosing Information to Third Parties](https://web.archive.org/legalAndPrivacy/Main.action#third)   
+[Affiliate Marketing Opt Out ](https://web.archive.org/legalAndPrivacy/Main.action#affiliate)   
+[Your California and Rhode Island Privacy Rights](https://web.archive.org/legalAndPrivacy/Main.action#CA)   
+[Security Procedures to Protect Information](https://web.archive.org/legalAndPrivacy/Main.action#security)   
+[ Inapplicability of Privacy Policies of any Linked Sites or Other Parties](https://web.archive.org/legalAndPrivacy/Main.action#linked)   
+[Changes to this Privacy Policy](https://web.archive.org/legalAndPrivacy/Main.action#changes)   
+[Your Comments are Appreciated](https://web.archive.org/legalAndPrivacy/Main.action#comments)
 
-2\. YOUR RESPONSIBILITY   
-If you use this site, you are responsible for maintaining the confidentiality of your account information and your password. You agree to accept responsibility for all activities that occur under your account or password. You understand that you are financially responsible for all uses of this site by you and those using your login information. 
+**Information We Collect**
 
-3\. USE OF IP ADDRESSES   
-An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Holland America collects IP addresses for system administration, to report aggregate information, and to audit the use of our site. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions or to protect our service, site, customers or others.
+You can visit our website without divulging any personally identifiable information including your email address. Our website does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when registering at our website, requesting a brochure or video, emailing an itinerary, deck plan or ebrochure or accessing our cruise booking application. Holland America Line uses such information collected primarily to provide better customer service to you, to improve and customize the content you see, to provide the products, services or membership benefits you request, and to contact you about special promotions and new products.
 
-4\. COOKIES   
-Holland America may use "cookies" to make our service more effective. A "cookie" is a small text file placed on your hard drive by our server. It allows our server to recognize whether you have visited our site before thereby saving you the need to provide information that we have already received from you. If you would prefer not receiving cookies, most Web browsers offer menu options allowing you to disable them.
+**Site Use Information**
 
-5\. SECURITY   
-The importance of security for all personally identifiable information that you provide us is of great concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Holland America cannot ensure or warrant the security of any information you transmit to us; in other words, you do so at your own risk. Once we receive your transmission, we use our reasonable best efforts to ensure its security on our systems. Most information you provide to our site is transmitted using SSL (Secure Socket Layer) encryption. SSL is a coding system that lets your browser automatically encrypt, or scramble, data before you send it to us.
+Our web servers may collect the domain names of visitors to our site. This information may be aggregated to measure the number of visits, average time spent on the site, pages viewed, and so forth. Holland America Line may use this information to measure the use of our site and to improve the content we offer. We may share with third parties this experiential information or other data which does not personally identify visitors to our site. This might include tour or ship preferences of all visitors to our site,  
+for example.
 
-6\. MONITORING   
-Holland America reserves the right to monitor and review any information transmitted or received through this site and sensor, edit, remove or prohibit the transmission or receipt of any information that Holland America, in its sole discretion, deems inappropriate or a violation of these terms and conditions.
+**Use of Cookies**
 
-7\. USE OF PERSONAL INFORMATION THAT YOU PROVIDE US   
-During your use of our site, you may provide us with personal information (such as your name, address, telephone number, e-mail address and credit card information) for the purpose of making reservations, requesting information or for other reasons. Holland America does not sell the personal information of our users to third parties. Holland America may use the information it gathers for its own internal purposes and may share your information with other companies within the Carnival Corporation and Carnival plc group of companies. Holland America's goal in collecting personal information online is to continually improve the content of our site and to offer consumers products that best meet your preferences and desires. Holland America and other companies within the Carnival Corporation and Carnival plc group of companies may use the personal data you provide online to send or otherwise provide you with information about new products and services, or about offers that we feel may be of interest to you. As explained below, you may opt out of this service as to Holland America. 
+Our website uses "cookies" to help personalize your online experience, such as recognizing your name when you revisit, as well as to assist us in marketing and advertising. A cookie is a text file that is anonymously placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies placed when you visit our site do not personally identify you, but they do allow us to monitor certain statistics which help us improve our services, such as how many site visitors view certain pages on our website or receive our advertisements when visiting other websites. 
 
-8\. INFORMATION PROVIDED TO TRAVEL AGENCIES   
-We may ask you to identify a travel agency that you work with. If you provide us with the name of your travel agency, we may share other information that you provided us with that agency. For example, if you told us that you were interested in a certain cruise product, we may tell your travel agency so they can discuss this directly with you. Travel agencies are not owned or controlled by Holland America. Consequently, we cannot tell you what travel agencies may do with information that we provide to them.
+You also have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to fully utilize the website. 
 
-9\. INFORMATION GIVEN TO OTHER TRAVEL PROVIDERS   
-If you use our site to purchase a travel product that is offered by another travel provider (for example, air transportation, hotels or shore excursions), we will give the other travel provider the information they require in order to process and confirm your booking. We do not place limitations on these other travel providers as to their use of this information. We encourage you to review the privacy policies of other travel providers if you have questions about their use of personal information.
+**Information You Provide to Us**
 
-10\. OTHER DISCLOSURES   
-In addition to the circumstances described above, Holland America may disclose your personal information if required to do so by law or court order, as requested by a government agency or by law enforcement authorities, or in the good faith belief that disclosure is otherwise necessary to protect the safety of our passengers, employees or property.
+You are not required to register in order to access our site. If you send us an email or register on our site we may collect information about you. Certain portions of our site are restricted to registered users or passengers with confirmed bookings. Any information you provide is purely voluntary.
 
-11\. RIGHTS AS TO MATERIALS YOU PROVIDE   
-By uploading or submitting any suggestions, ideas, comments, questions or other materials to us, you automatically grant (or warrant that the owner of such rights has expressly granted) us a worldwide, perpetual, royalty-free, irrevocable, non-exclusive and assignable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute and display such materials or incorporate such materials into any form, medium, or technology now known or later developed throughout the universe. In addition, you warrant that all so-called "moral rights" in those materials have been waived.
+There are several areas on the site where you may provide personal information or will be required to register to obtain access to certain online services not available to anonymous visitors. These include My Account, Mariners, Book Online, Online Check-in, Book Shore Excursions, Order Gifts, Contact Us, or any of the places where you may email something from the website and Travel Agent Locator. Travel agents may register with Holland America Line through the Travel Agent Headquarters part of  
+our site.
 
-12\. OPTING-OUT OF CERTAIN SERVICES   
-You may click the link below to opt out of receiving notification via e-mail about new products and services, or about special offers that may be of interest to you. You will be asked for the e-mail address that you wish to opt out, as well as your first and last name and zip code for verification purposes. It may take several weeks to remove your name and e-mail address from our distribution system. Click here to email opt-out.
+When you register on our site, you may be required to provide your email address and to select a password to be used to access your information. To access My Account you may be required to use your name, email address and/or Mariner number obtained from Holland America Line. If you want to book travel or other services through our site, you may be required to register in advance and provide a booking number in order to obtain access. 
 
-13\. MODIFICATION OF TERMS   
-Holland America reserves the right to change, modify, add, or remove portions of this Privacy Policy at any time at our discretion. You may check this Privacy Policy periodically for changes. Your continued use of the site subsequent to the revisions of this Privacy Policy means you accept those changes. 
+When you register we collect information which may include your name, address, gender, birth date and email address, your telephone number, special occasion dates, leisure interests and dietary preferences, health requirements, and passport and credit card information (cardholder name, card number and expiration date) as well as emergency contact information (the name, address and telephone number of someone not traveling with you who we can contact in case of an emergency ("Web Profile Information").
 
-Effective as of 05/18/04 
+Passengers are not required to use Online Check-in to submit information before they begin their cruise; the same information, which is required before boarding can be provided at the point of embarkation on forms available from Holland America Line. Using Online Check-in will speed up your boarding process because information is submitted in advance. This information may be shared with governmental agencies including Customs or the Department of Homeland Security, with medical staff and with Holland America Line personnel. We may keep your credit card and passport information on file and on our servers to enable you to make purchases on board more easily and to facilitate your boarding procedure.
+
+You may also choose how you would like to receive information from us: by mail, email or telephone. If you send us an email or request information we will retain your email address and use it to respond to your inquiry. We may also use your email address to provide you with information about upcoming events, cruises, special offers, packages and other information about Holland America Line.
+
+By providing personal information through this site you explicitly agree to our collection and use of that information as described in this Privacy Policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with our medical staff, affiliated companies or third parties, for instance, if you require a wheelchair or have dietary preferences. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy.
+
+**Email Promotions**
+
+You may subscribe to our email promotions program by registering on our website or within My Account. By using a password when registering, you are securing your subscription to receive email promotions. You may unsubscribe or change your email address for email promotions at any time by following the instructions mentioned within each email promotion.
+
+**Child Privacy**
+
+Because of the nature of our business, our products and services are not designed to appeal to minors, and therefore we do not knowingly attempt to solicit or receive any information from children under 13. If we have reason to believe that information is being provided by a person under the age of 13 we will not collect the information. 
+
+**Access to Your Web Profile Information**
+
+You may, at any time, make changes or corrections to your Web Profile Information or preferences, or delete them, simply by visiting the My Account section of the site and providing your email address and password. At any time, you may access your My Account information to add, change or delete information by simply logging in to the My Account section using your name and password. You may also direct us to change or delete your information by fax, mail or email at the addresses and numbers provided below. You can direct us to delete your email address from our mailing list simply by following the instructions on any email you receive. We will act on your instructions promptly, but making changes or deleting information may two weeks or more to become effective. 
+
+**Disclosing Information to Third Parties**
+
+We do not sell our subscribers' information to third parties but we may share your information with our affiliated companies or with third parties. We will reveal personal information to unaffiliated third parties only if: (1) you request or authorize it; (2) the information is provided to help complete a transaction for you; (3) the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our site's Terms and Conditions or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection, etc.); (4) the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets); (5) the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, sending emails about our products or services, etc.); or (6) to others as described in this Privacy Policy. We may also gather aggregated data about you and disclose such aggregated (but not personally identifiable) information to third parties for promotional or other purposes.
+
+**Affiliate Marketing Opt Out**
+
+  * Holland America Line is providing this notice. 
+  * You may limit our affiliates, our sister cruise lines in the Carnival Corporation (Carnival, Costa, The Yachts of Seabourn, Cunard & Princess), from marketing their products or services to you based on personal information Holland America Line provides them. This information includes your name, your address, and your history of cruising. 
+  * Your choice to limit marketing offers will apply for 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice which will allow you to limit marketing offers for another 5 years. 
+  * If you have already made a choice to limit marketing offers from us, you do not need to act again until you receive the renewal notice. To limit affiliate marketing offers, contact us toll free at 877-425-2228.
+
+
+
+**Your California and Rhode Island Privacy Rights**
+
+Holland America Line may disclose your personal information to our affiliates or other third parties for their use in marketing to you unless you tell us not to. In order to opt out of such sharing or for further information, please write to us at Holland America Line Inc., Attn: Privacy Policy, 300 Elliott Avenue West, Seattle, WA 98119.
+
+**Security Procedures to Protect Information**
+
+Our site uses SSL (Secure Sockets Layer) security technology to encrypt information you provide to us through the Site, but any information you provide us by email is unencrypted. SSL is an industry-standard protocol for encryption over the internet. Data transmission over the internet is never 100% secure.
+
+While we take steps to protect your personal information and keep it secure, you also play a role in protecting your information. You can help to maintain the security of your online transactions by not sharing your booking number or password with anyone. Holland America Line cannot guaranty the security of any information you transmit to us or from our site, and therefore you use our site at your own risk.
+
+**Inapplicability of Privacy Policies of any Linked Sites or Other Parties**
+
+Holland America Line's site may contain links to other sites such as our affiliates and third parties. This Privacy Policy only addresses Holland America Line's use and disclosure of your information collected on this site, if any. While we try to link only to sites that share our standards and respect for privacy, we are not responsible for the privacy practices of any third parties or the content of linked sites, so we encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites.
+
+**Changes to this Privacy Policy**
+
+We will occasionally amend this Privacy Policy to reflect company and customer feedback and we reserve the right to make changes to this Privacy Policy at any time. The use of your information is subject to the Privacy Policy and Terms of Use in effect at the time of use. The provisions contained in this Privacy Policy supersede all previous notices or policies regarding our privacy practices with respect to this site. We post the effective date of our Privacy Policy on our site. We encourage you to check our site frequently to see the current Privacy Policy to be informed of how Holland America Line is committed to protecting your information and providing you with improved content on our website in order to enhance your online cruise planning experience. If we make material changes to this Privacy Policy we will post the revised Privacy Policy and the revised effective date on this site.
+
+If you have any questions or comments regarding our Privacy Policy or our website, you can contact us at Holland America Line, Attn: Privacy Policy, 300 Elliott Avenue West, Seattle WA 98119. This site is owned and operated by Holland America Line Inc., which controls any information submitted through this site.
+
+Effective Date: As of January 12, 2009
+
+® 2009, HOLLAND AMERICA LINE INC. ALL RIGHTS RESERVED
+
+  
+
