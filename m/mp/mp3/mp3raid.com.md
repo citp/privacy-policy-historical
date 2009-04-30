@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041313id_/http%3A//www.mp3raid.com./mp3general/disclaim.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501001620id_/http%3A//www.mp3raid.com/mp3general/disclaim.shtml) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer @ Mp3Raid.com
 
@@ -15,7 +15,7 @@
 **Third Party Advertising**  
 
 
-    We use [MaxOnline](http://www.maxonline.com/) which is a division of MaxWorldWide(MWW), [24/7 Media](http://www.247media.com/), [Buds Inc.](http://www.budsinc.com/) and some other third-party advertising companies to serve ads when you visit Mp3Raid. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.   
+    We use [Azoogle Ads](http://www.azoogleads.com/) which is a division of Epic Advertising, [Tribal Fusion](http://www.tribalfusion.com/), [CPX Interactive](http://www.cpxinteractive.com/) and some other third-party advertising companies to serve ads when you visit Mp3Raid. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.   
 
     If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
