@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220143121id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430112009id_/http%3A//www.asiajam.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # AsiaJam.com Fashion Boutique
 
@@ -8,11 +8,11 @@
 |   
 ---  
   
-[](http://www.asiajam.com/catalog/product_info.php/products_id/1537)
+[](http://www.asiajam.com/catalog/product_info.php/products_id/2241)
 
-Candy Sweet Hair Clips
+Comfy & Stylish Outdoor Tunic Top
 
-$2.90  
+$26.00  
   
 Privacy Policy
 
