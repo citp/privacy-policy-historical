@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobilerated.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224034823id_/http%3A//www.mobilerated.com/consumer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilerated.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430192120id_/http%3A//www.mobilerated.com/consumer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-September 21 2008
+February 02 2007
 
 **Introduction**
 
