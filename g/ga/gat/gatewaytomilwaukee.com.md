@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatewaytomilwaukee.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914133140id_/http%3A//www.gatewaytomilwaukee.com/contents.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatewaytomilwaukee.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430080445id_/http%3A//www.gatewaytomilwaukee.com/contents.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Gateway To Milwaukee
 
