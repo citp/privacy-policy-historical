@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152558id_/http%3A//shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501004940id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -19,7 +19,7 @@ Privacy Statement for Shaadi.com Matrimonial Services
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
-If you have questions or concerns regarding this statement, please write to us. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If you have questions or concerns regarding this statement, please [write to us](http://www.shaadi.com/customer_relations/matrimonial_help/index.php). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 **Privacy Policy FAQs**
 
@@ -71,7 +71,7 @@ Shaadi.com also allows members to submit public and private information on behal
  [Astrolife.com - Privacy Policy](http://www.astrolife.com/help/privacy-policy.php)  
  [Fropper.com - Privacy Policy](http://www.fropper.com/help/policy.php)
 
-FRAMING: We utilize framing techniques to make it appear that the user is still on the web site when they are actually on a third party web site. SURVEYS & CONTESTS: From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, and age).SHAADI.COM AFFILIATE PARTNERS: The Affiliate Partner program is a vehicle for other websites to link to Shaadi.com. No personal member information is exchanged with the Affiliate Partner.TESTIMONIALS: Satisfied users of Shaadi.com have chosen to post testimonials on our web site. All permissions have been obtained to post these testimonials.LIVE CHAT: Shaadi.com has tied up with LIVE person for it's live chat feature. Information you provide on chat is stored on the LIVE person's server but is not used by them. Shaadi.com also saves chats for tracking and MIS purpose.SHAADI.COM MOBILE SERVICES: Mobile services include alerts, WAP, voice, SMS and application. Through mobile service one can search, express interest, send and receive messages, receive notifications and exchange voice messages etc. For a Free Member the charges will be as follows:
+FRAMING: We utilize framing techniques to make it appear that the user is still on the web site when they are actually on a third party web site. SURVEYS & CONTESTS: From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, and age).SHAADI.COM AFFILIATE PARTNERS: The Affiliate Partner program is a vehicle for other websites to link to Shaadi.com. No personal member information is exchanged with the Affiliate Partner.TESTIMONIALS: Satisfied users of Shaadi.com have chosen to post testimonials on our web site. All permissions have been obtained to post these testimonials.LIVE CHAT: Shaadi.com has tied up with LIVE person for it's live chat feature. Information you provide on chat is stored on the LIVE person's server but is not used by them. Shaadi.com also saves chats for tracking and MIS purpose.MESSENGER: If you use our online instant messaging function on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this forum, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.SHAADI.COM MOBILE SERVICES: Mobile services include alerts, WAP, voice, SMS and application. Through mobile service one can search, express interest, send and receive messages, receive notifications and exchange voice messages etc. For a Free Member the charges will be as follows:
     * Shaadi.com Mobile SMS service: every incoming alert will be charged at Re. 1 per SMS, while every outgoing SMS will be charged at Rs. 3 per SMS, except 'view profile' and 'express interest' which will be charged at Rs. 10 per SMS.
     * Shaadi.com Mobile WAP service: you will be charged at Rs. 10/- per Express of Interest sent by the Member and per profile forwarded via sms or email.
     * Shaadi.com Mobile Application: you will be charged Rs. 10 per express interest sent.
@@ -122,7 +122,7 @@ We may store member login ids of users and their IP addresses for certain activi
   
   
 |  3\.   With whom does Shaadi.com share the information it collects/tracks?  
-Except where you are expressly informed, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card, or check transactions **unless required by law** , or for the protection of your membership.
+Except where you are expressly informed on the site or as described in this privacy policy we do not sell, rent, share, trade or give away any of your personal information. However, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 Shaadi.com may tie-up with partners to bring you various services (e.g. Shaadi Shop, posting ads in publications). However, Shaadi.com will never share your personal information, without your express permission. Still, we encourage you to review the privacy policy of the partner for questions about their use, any personally identifiable information that you may separately submit to such partner.
 
@@ -217,10 +217,11 @@ Your friend's email address: Throughout Shaadi.com, you have the option to send 
 |  10\.   Tell me how to contact Shaadi.com.  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [email us](https://web.archive.org/customer_relations/matrimonial_help/index.php) or contact us at.Shaadi.com  
 People Interactive (I) Pvt. Ltd.  
-2nd floor, C-Wing, Eureka Tower,  
-Malad MindSpace,  
-Malad West, Mumbai - 400064.  
-Phone: +91-22-67752099 |   
+83/C , Hansraj Pragji Building,  
+Next to TATA Motors,  
+Off Dr. E. Moses Road,  
+Worli, Mumbai - 400018.  
+Phone: +91-22-44883456 |   
   
   
 | Back to top |   
