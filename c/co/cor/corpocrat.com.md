@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229232636id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430114332id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy » Corpocrat Blog
 
@@ -28,8 +28,17 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 **Links**  
 This Web site contains links to other third party external sites. We are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-Advertisers  
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Bidvertiser and more… Please check their websites for respective privacy policies.
+**Advertisers**
+
+If necessary for promotion and marketing, we may share the following submitted information to third party advertisers and sponsors : URL, Title, Description, Keywords, Unique Visitors, Scores and Rankings.
+
+We also use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Bidvertiser and more… Please check their websites for respective privacy policies.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We encourage our users to check back our privacy policy frequently as it may change from time to time. 
 
 We encourage our users to check back our privacy policy frequently as it may change from time to time.
 
