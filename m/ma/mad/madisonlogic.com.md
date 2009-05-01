@@ -1,24 +1,75 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063125id_/http%3A//www.madisonlogic.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502002143id_/http%3A//www.madisonlogic.com/privacy.asp) for the most accurate reproduction.*
 
 # Madison Logic | Privacy Policy
 
 ### Privacy Statement
 
-Madison Logic provides promotional and consumer information regarding various information technology products and services via its web site and related web pages located at www.madisonlogic.com ("Web Site"), emarketingpapers.com, findwhitepapers.com, investbrite.com ("the Directories") and through email & interactive sessions. Madison Logic is committed to protecting the privacy of its users. To demonstrate this commitment, Madison Logic has created this privacy policy (the "Privacy Policy") governing Madison Logic's' use of the information that is collected through the Web Site, directories and any interactive sessions you participate in. By accessing and viewing the Web Site or participating in an interactive session, you agree to the terms and conditions of this Privacy Policy. In order to access certain portions of the Web Site you will be required to register by providing certain limited information regarding you and the company you represent. 
+Madison Logic, Inc., its subsidiaries and affiliates (collectively "Madison Logic Network") respect your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. 
 
-Even if you do not register with us, we will still collect some information from you when you visit the Web Site.
+### Key Definitions
 
-### Cookies
+In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.   
+"Click stream Data" means the information that Madison Logic collects through cookies, log files, beacons and clear GIFs, as described in Section 4 below.  
+"Content Provider" means a third party that owns a white paper, analyst report or other document and allows Madison Logic to link to or display that document on the Sites.  
+"User" or "you" means any person viewing any page of the Sites.  
+"Third Party Content" means the white papers, analyst reports and other documents available through the Sites and owned by Content Providers. 
 
-A cookie is a piece of data stored on your hard drive containing information about you including your use of the Web Site. Madison Logic employs cookies to recognize you and your access privileges on our Web Site. We also use cookies to track the usage of our Web Site in order to enhance your use of the Web Site. If you do not accept cookies from the domain "[dinclinx.com](http://dinclinx.com/ "http://dinclinx.com")" or the domains of Madison Logic's Directories (investbrite.com, findwhitepapers.com and emakretingpapers.com) you cannot access certain portions of the Web Site.
+### What Information Do We Collect?
 
-### Log Files
+Profile Information: Our primary goal in collecting profile information (which may include your name and the following business – and not home or personal – information: title, address, phone number, fax number and e-mail address) is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-We use IP addresses to analyze trends, administer the Web Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information.
+We collect profile information when you provide it to us through the following: when you register on one of our sites, or an e-mail newsletter, register for one of our events or register to use certain services (like webcasts and white papers). Several of the services that we offer on our sites may require registration as a condition of use. Once you register with one of the Madison Logic network of sites, including Findwhitepapers.com, eMarketingPapers.com, you are no longer anonymous to us. We may also receive information about you from other sources, such as Dunn and Bradstreet, and add it to the information you provided to us.
 
-### Links to Other Web Sites
+Cookies: Like most sites, for account management purposes, Madison Logic uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies. 
 
-The Madison Logic Web Site contains links to other Web Sites. Please be aware that Madison Logic is not responsible for the privacy practices of such other sites. We encourage our users to read the privacy statements of each and every Web Site that you visit from our Web Site or through the interactive sessions.
+Subscriber Information: If you subscribe to an email newsletter and become a “Subscriber”, Madison Logic collects your email address, password and areas of interest. Member Information: If you register as a Member (such as by registering on a content directory, subscribing to a newsletter, registering on MadisonLogic.com, Madison Logic collects additional information, including your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code and telephone number (“Member Details”). At the time you register to become a Member, or later when you access a particular page or document, Madison Logic may collect additional information, including but not limited to: information about software or hardware your company is using, plans your company may have to purchase additional products/services, etc.. All of this information together is included in the definition of “Member Details”. 
+
+Sharing Information: We aggregate profile information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. Except for the specific instances of information-sharing described above, we do not disclose to third parties any information that could be used to identify you personally. 
+
+### How Do We Use The Information We Collect? 
+
+Profile Information: Madison Logic collects profile information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. Most of Madison Logic is free and is supported by paid content and sponsorships from our advertisers. 
+
+Cookies: Madison Logic uses persistent cookies to link Members to their registration information, which allows our system to confirm a user's identity and access level on the Sites. Madison Logic also uses that information to track service selections, and save passwords so that Members do not have to log in each time they visit the Sites. 
+
+**Usage of Cookies for Ad serving**  
+Other cookies without personally identifying information and data are used to enable Madison Logic to manage the online advertisements presented or personalized information to the user. Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by Madison Logic. 
+
+Madison Logic serves all advertising on www.MadisonLogic.com, its wholly owned content directories and Madison Logic network affiliate web sites, email newsletters, RSS feeds, and other online mediums. When Madison Logic is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. We also use cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. 
+
+Clear GIFs & Servers: We use these tracking technologies for a variety of purposes, including:  
+
+
+  * Keeping count of return visits to our site or our partners' sites 
+  * Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers
+  * Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness
+
+
+
+Subscriber Information: We use Subscriber Information to deliver email newsletters on topics of interest to Subscribers who have signed up for those services. We may also send general promotional and marketing materials to Subscribers. We use Subscriber Information and Supplementary Information in aggregated form to understand our customer base and to market our services to our customers. 
+
+Sharing Information: Madison Logic may share profile information collected:
+
+  * When we have your consent to share the information.
+  * When you register or log in to access vendor content or when you register to attend a vendor-sponsored event (including Webinars, Conferences, Custom Media events and Editorial events). The vendor's use of that information is governed by the vendor's privacy policy and may be used for follow up by telephone, email, direct mail or other common methods. You should contact these vendors directly if you have any questions about their use of this information.
+  * Profile information collected when you register or log in on a co-branded partner site is generally available both to Madison Logic and that partner. However, the partner's use of that profile information is governed by the partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.
+  * Madison Logic does not share any of your profile information with any person or entity, unless you register to access vendor content, register to attend a vendor-sponsored Madison Logic event (including Conferences, Custom Media events and Editorial events), register for our Newsletters. 
+
+
+
+**Information Collection and Usage of Data of Registered Users**  
+When you register with the Madison Logic Network, we ask you to share limited information about yourself and the company you represent. We only disclose business information that you are authorized to disclose. During interactive sessions, we may also collect your opinions and preferences regarding certain information technology products or services. We use this information to provide you with quality services as well as with offers that we think are relevant to you based on the preferences you share at registration or during interactive sessions.
+
+Using your contact information, Madison Logic may also send you e-mail messages under the following circumstances, among others:
+
+  * To respond to an inquiry or request for information
+  * To thank you for contacting Madison Logic or any of its wholly owned subsidiary web sites
+  * To welcome you to Madison Logic or any of its wholly owned subsidiary web sites and to its products and services
+  * To explain new product offerings and features of our services
+  * To notify you of special promotions
+  * To communicate with you regarding customer service related issues. 
+
+
 
 ### Users Outside the US
 
@@ -43,38 +94,49 @@ Please see the Information Sharing and Disclosure section below. Using your cont
 
 
 
-Your contact information may be made available or provided to third-party service providers and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that Madison Logic may have received from or sent to you, Madison Logic may also indefinitely store any information that you provide to Madison Logic through the Website.
+Your contact information may be made available or provided to third-party service providers and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that Madison Logic may have received from or sent to you, Madison Logic may also indefinitely store any information that you provide to Madison Logic through the Website. 
 
-### Information Sharing and Disclosure 
+### What Information Do We Disclose to Third Parties? 
 
-Once you register on the site, you are providing Madison Logic with personally identifiable information. Madison Logic will pass on this information only after you have viewed the provider content and only to the company that has paid for the listing of that particular content. The provider's use of this information is governed by the provider's privacy policy and may be used for follow-up by telephone, email, or other common methods. You should contact these providers directly if you have any questions about their use of the information. In addition, Madison Logic may share certain aggregated demographic information with our sponsors regarding the users of the Web Site and responses we receive from you through the interactive sessions. The aggregated information that we provide is not linked to any personally identifiable information. If you have accessed the Web Site from the web site of one of our partners or sponsors, then Madison Logic may disclose all the information collected about you to such partner or sponsor.
+Disclosure of Anonymous, Aggregated Information We provide summary reports to our Content Providers, based on our analysis of Click stream Data. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." This aggregated information is anonymous and does not disclose to the Content Providers any Member Details about the individual users who saw or clicked on their reports. 
 
-### Special Offers 
+Madison Logic also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes. 
 
-We do not provide copies of our email subscriber database information to third parties. As a Registered User and based on the preferences you share at registration, you will occasionally receive information on products, services, special deals and newsletters. Out of respect for your privacy we present the option to not receive these types of communications. As part of our services, we may contact you with offers, promotions and information on interactive sessions sponsored by identified third parties. All the content related to such correspondence is provided by our sponsors, and Madison Logic disclaims any liability for such content. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the promotion. Madison Logic will notify the third parties of the Privacy Policy that governs your information, however, Madison Logic has no control over the third-party sponsors' use of this information. Madison Logic will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
+Disclosure of Personal Information   
+Philosophy: The Content Providers make the Third Party Content available through Madison Logic in return for receiving the contact information of Users who view their Third Party Content. Accordingly, if you view Third Party Content, Madison Logic may disclose your Member Details, Click stream Data and Supplementary Information to the Content Provider, as set forth in more detail below. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. Except as set forth in this Privacy Policy, Madison Logic will not disclose personal information to any third parties. Notwithstanding the foregoing, Madison Logic may at any time disclose profile information to third parties if we are required to do so by law, regulation or court order. 
+
+Member Information: When you view Third Party Content, Madison Logic may disclose your Member Details and Click stream Data, together with Supplementary Information, to the Content Provider. Madison Logic’s customer agreement with the Content Provider: (a) provides that the Content Provider may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and to assess your interest in the Content Provider’s products and services; and (b) prohibits disclosure of this information to any third party other than agents of the Content Provider for the permitted marketing purposes set forth above. You should contact the Content Provider directly if you have any questions about their use of this information. 
+
+### Log Files
+
+We use IP addresses to analyze trends, administer the Web Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information. 
 
 ### Notification of Policy Changes 
 
 We may update this Privacy Policy from time to time. We will notify you about significant changes to our Privacy Policy by placing a prominent notice on our Web Site or sending an email to the address you provided to us. Madison Logic welcomes comments and questions on this policy. 
 
-### Usage Tracking
-
-We monitor how our users use our Web Sites including search terms entered, pages visited and documents viewed. This information is stored with each registered user's registration information. It is unique-number identifiable, and is used solely for purposes of enabling us to provide you with a personalized Web Site experience. Aggregated forms of this data may also be used in order to help us understand areas for future research and to identify future features and functions to develop for the Web Sites. This data may also be used by Madison Logic, in the aggregate, to identify appropriate product offerings and subscription plans.
-
-### Security Precautions
+### Security Precautions 
 
 Madison Logic takes precautions to protect data and information under its control from misuse, loss or alteration. Madison Logic's security measures include industry-standard technology and equipment to help protect your information, and Madison Logic maintains security measures to allow only the appropriate personnel and contractors access to your information. Unfortunately, no system can ensure complete security, and Madison Logic disclaims any liability resulting from use of the Website.
 
-If you have any questions about the security at our Web Sites, please contact us at [privacy@madisonlogic.com](mailto:%20privacy@madisonlogic.com). 
+If you have any questions about the security at our Web Sites, please contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com). 
 
-### Exceptions
+### Exceptions 
 
-Other than as set forth above, Madison Logic will not otherwise use or disclose any of your personal information except to the extent reasonably necessary to: (i) process your information and to correct technical problems and malfunctions in the Website or the computer systems supporting the Website; (ii) protect the security and integrity of the Website; (iii) protect the rights and property of Madison Logic and others; (iv) take precautions against liability; (v) respond to claims that your information violates the rights and interests of third-parties; (vi) respond to judicial or administrative process or otherwise comply with applicable law; and (vii) to assist law enforcement agencies in connection with investigations or matters related to public safety.
+Other than as set forth above, Madison Logic will not otherwise use or disclose any of your personal information except to the extent reasonably necessary to: (i) process your information and to correct technical problems and malfunctions in the Website or the computer systems supporting the Website; (ii) protect the security and integrity of the Website; (iii) protect the rights and property of Madison Logic and others; (iv) take precautions against liability; (v) respond to claims that your information violates the rights and interests of third-parties; (vi) respond to judicial or administrative process or otherwise comply with applicable law; and (vii) to assist law enforcement agencies in connection with investigations or matters related to public safety. 
 
 ### Updating Personal Information 
 
-You may update or correct information you previously provided to Madison Logic by accessing your user profile on our Web Site
+You may update or correct information you previously provided to Madison Logic by accessing your user profile on our various directory web sites, such as FindWhitePapers.com, eMarketingPapers.com and Investbrite.com. 
 
-### Questions or Comments 
+### Links to Other Web Sites 
+
+Findwhitepapers.com, eMarketingPapers.com, and Investbrite.com are three of the properties within the Madison Logic network of sites. Each of these sites hosts thousands of white papers as well as white paper Research Libraries on third party sites. Some Third Party Content made available through the Research Library sites is maintained on the website of the Content Provider, and not on the Madison Logic network of sites. This means that when you click through to that Third Party Content, you will be leaving the Research Library and the Madison Logic Network. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a website in Madison Logic network of sites. This Privacy Policy does not govern the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site.
+
+In addition, the Sites you are viewing may be co-branded, meaning that the Sites are branded with the logos of both Madison Logic and a third party (“Co-Branded Sites”). If you register or log in on a Co-Branded Site, you are choosing to disclose information to both Madison Logic and the third party with whose brand the site is co-branded. This Privacy Policy only governs Madison Logic’s use of your information. The third party’s use of that personal information is governed by the partner's privacy policy, and not by this Privacy Policy.
+
+The Madison Logic Web Site also contains links to other Web Sites. Please be aware that Madison Logic is not responsible for the privacy practices of such other sites. We encourage our users to read the privacy statements of each and every Web Site that you visit from our Web Site or through the interactive sessions. 
+
+### Questions or Comments
 
 Regarding the Privacy Policy For additional questions, or to be taken off our marketing lists, please [contact us](mailto:%20privacy@madisonlogic.com).
