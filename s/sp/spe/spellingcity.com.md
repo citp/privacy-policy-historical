@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041043id_/http%3A//www.spellingcity.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2%26Itemid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501231652id_/http%3A//www.spellingcity.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2%26Itemid%3D32) for the most accurate reproduction.*
 
 # SpellingCity.com - Privacy Policy
 
