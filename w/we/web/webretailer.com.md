@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025306id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webretailer.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501181832id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -28,7 +28,7 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
 ## Editing and Deleting Your Member Information
 
   * You may edit your member information at any time by going to the Profile page
-  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20081220025306id_/http%3A//www.webretailer.com/email.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with
+  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20090501181832id_/http%3A//www.webretailer.com/email.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with
 
 
 
@@ -37,6 +37,14 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
   * Your member information is password-protected for your privacy and security
   * Your password is stored in encrypted form
   * Payment details provided for any pay services are not stored on this web site in any form
+
+
+
+## Third-Party Advertising 
+
+We use third-party advertising companies to serve ads when you visit Web Retailer. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to opt out of having this information used by these companies see the following:
+
+  * [Google Privacy Center ](http://www.google.co.uk/privacy_ads.html)
 
 
 
