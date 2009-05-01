@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapjoy.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205093146id_/http%3A//www.tapjoy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapjoy.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501070000id_/http%3A//tapjoy.com/privacy) for the most accurate reproduction.*
 
 # TapJoy
 
