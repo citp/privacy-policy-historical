@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klout.net privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231000930id_/http%3A//www.klout.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klout.net privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501053931id_/http%3A//www.klout.net/privacy) for the most accurate reproduction.*
 
-# Klout
+# We Care About Your Privacy At Klout
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
