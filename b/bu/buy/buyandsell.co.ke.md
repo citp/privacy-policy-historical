@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.co.ke privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209085710id_/http%3A//www.buyandsell.co.ke/index.php%3Fa%3D28%26b%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.co.ke privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501083605id_/http%3A//www.buyandsell.co.ke/index.php%3Fa%3D28%26b%3D144) for the most accurate reproduction.*
 
 # Buy and Sell Classifieds Kenya - Where buyers and Sellers meet in Kenya! BUYandSELL Kenya Classifieds
 
