@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2008-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080528042556id_/http%3A//www.tsnn.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501174027id_/http%3A//www.tsnn.com/blog/%3Fpage_id%3D12) for the most accurate reproduction.*
 
-# Privacy Policy - TSNN.com
+# None
 
 TSNN.com is strongly committed to protecting the privacy of members and their products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for conducting business transactions while ensuring that critical business information is protected.
 
