@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094707id_/http%3A//www.joomlajunkie.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501082944id_/http%3A//www.joomlajunkie.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JoomlaJunkie
 
@@ -48,7 +48,7 @@ The above information is not used in any way that would reveal personally identi
 
 #### 3\. Email and Form Information
 
-If a member of the general public sends JoomlaJunkie an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another department or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings.
+If a member of the general public sends JoomlaJunkie an e-mail message or fills out a [web-based form](http://www.joomlajunkie.com/contact) with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another department or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 #### 4\. Links
 
