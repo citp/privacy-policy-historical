@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130836id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501084049id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy
 
