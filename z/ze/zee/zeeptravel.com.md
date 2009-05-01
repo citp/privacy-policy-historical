@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211202039id_/http%3A//www.zeeptravel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501194615id_/http%3A//www.zeeptravel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Zeep Travel Network - Privacy Policy
+# Privacy Policy
 
-ZEEP’S PRIVACY POLICY STATEMENT
+| ZEEP’S PRIVACY POLICY STATEMENT |   
+---|---|---  
+  
+  
+
 
   * Zeep is strongly committed to the protection of your privacy online and accordingly, we take protective measures to protect the personal information provided to us by you. We also take further measures to comply with the relevant statement regarding what we can do with personal information we obtain from you.
   * We are notified under the Data Protection Act 1998 and intend to comply with all our obligations under that Act. You consent to our processing of your information.
