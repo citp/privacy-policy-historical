@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xuqa.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221080552id_/http%3A//xuqa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xuqa.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501220354id_/http%3A//xuqa.com/privacy.php) for the most accurate reproduction.*
 
 # XuQa - Settings
 
@@ -156,8 +156,8 @@ For any questions or concerns related to this privacy statement or XUQA, please 
 XUQA.COM  
 c/o iVentster Inc
 
-690 5th St  
-San Francisco, CA 94115  
+114 Sansome Street, Suite 920  
+San Francisco, CA 94104  
 USA
 
 [feedback@xuqa.com](mailto:feedback@xuqa.com)
