@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823005558id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501201024id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
 
-# Sports Injuries & Physiotherapy Shop
+# 
 
 At PhysioRoom.com we respect the privacy of everyone who visits our Website. To this end, we fully comply with United Kingdom Data Protection legislation. 
 
@@ -21,7 +21,7 @@ We do not now and do not intend to sell, rent or market personal data about you 
   3. **Security of Data Transmission**  
 Information submitted to us over this Website is normally unprotected until it reaches us. Users are requested not to send confidential details or credit card numbers, for example, by e-mail, unless specifically requested by PhysioRoom.com. Details submitted via the PhysioRoom.com shop checkout are sent via a secure and protected channel. 
   4. **Collection of Technical Information**  
-We may collect technical information when you connect to our site that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the Website from which you linked to our site. 
+We may collect technical information when you connect to our site. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the Website from which you linked to our site. 
   5. **Information Placed on Your Computer (Cookies)**   
 When you view our Website, we may store some information on your computer in the form of a "Cookie" or similar file. These allow us to do such things as remembering that you have visited us before and therefore provide you with tailored content. Most Internet browsers allow you to erase Cookies from your computer, block all Cookies or provide you with a warning before a Cookie is stored. Please refer to your Browser instructions for further information about these functions. 
 
