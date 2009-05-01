@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216170047id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2009-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501213950id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Start Local - Your Local Australian Business Directory: Privacy</title>
@@ -9,7 +9,13 @@
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://www.startlocal.com.au/static/css/ie6.css" media="screen"/><![endif]-->
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.startlocal.com.au/favicon.ico">
 <script type="text/javascript" src="http://www.startlocal.com.au/static/js/main.js"></script>
-<script type="text/javascript" src="http://www.startlocal.com.au/static/js/boxover.js"></script><script type="text/javascript" src="http://www.startlocal.com.au/static/utils.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/boxover.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.timers.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/ajaxfileupload.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/imagepreview.js"></script>
+<script type="text/javascript" src="http://www.startlocal.com.au/static/js/fileupload.js"></script><script type="text/javascript" src="http://www.startlocal.com.au/static/utils.js"></script>
 <script type="text/javascript">
  //<![CDATA[
 registerEvent(window, 'onload', function () {
@@ -30,6 +36,99 @@ registerEvent(window, 'onload', function () {
  }
 });
  //]]>
+</script>
+<script type="text/javascript">
+function showhide(field, show) {
+ if (show == 1)
+ {
+ document.getElementById(field).style.display='inline';
+ } else {
+ document.getElementById(field).style.display='none';
+ }
+}
+function textCounter(field, countfield, maxlimit) {
+if (field.value.length> maxlimit) // if too long...trim it!
+field.value = field.value.substring(0, maxlimit);
+// otherwise, update 'characters left' counter
+else
+countfield.value = maxlimit - field.value.length;
+}
+function load_newtree(tc2) {
+ //var tc1 = document.getElementById('treecats');
+ //var tc2 = new treecats({ selectionMode : 'multiple', multipleMax : 3, cgiURL : 'http://www.startlocal.com.au/cgi-bin/directory', imageURL : 'http://www.startlocal.com.au/static/luna/images' });
+ //tc2.load();
+}
+function ValidateForm(form) {
+ if ( form.AgreeTerms.checked == false ) { alert ( "Please check the Terms & Conditions box." ); return false; }
+}
+/* Filter object */
+function Filter(args) {
+ if (!args || !args.url || !args.obj) return;
+ this.config = args;
+ if (args && args.manual) return;
+ this.load();
+}
+Filter.prototype.load = function(more) {
+ var url  = this.config.url + (more ? ';more=1' : '');
+ var $obj = $(this.config.obj);
+ $obj.find('a[rel="more"]').parent().remove();
+ var filter_obj = this;
+ var $filter = $obj.find('.filter-content');
+ $filter.after('<div class="filter-loading" style="margin-top: 5px"><img src="http://www.startlocal.com.au/static\/luna\/images\/loading.gif" title="loading" style="margin-left: 43px" \/><\/div>');
+ $.ajax({
+ type: 'GET',
+ url: url,
+ success: function(req) {
+ var items = req.getElementsByTagName('item');
+ if (items.length == 0) {
+ $obj.fadeOut('slow');
+ return;
+ }
+ if ($obj.is(':hidden')) $obj.fadeIn('slow');
+ var html = '<div class="hide"><ul style="margin-top: 0; margin-bottom: 0">';
+ for (var i=0; i<items.length; i++) {
+ var item  = items[i];
+ var name  = item.getElementsByTagName('name')[0].firstChild.nodeValue;
+ var links = item.getElementsByTagName('links')[0].firstChild.nodeValue;
+ var detailed_url = item.getElementsByTagName('url')[0].firstChild.nodeValue;
+ html += '<li><a href="' + detailed_url + '">' + name + '<\/a> (' + links + ')<\/li>';
+ }
+ if (req.getElementsByTagName('more').length> 0) {
+ html += '<li><a href="#" rel="more">More...</a></li>';
+ }
+ if (req.getElementsByTagName('hits').length> 0 && filter_obj.config.hits) {
+ $(filter_obj.config.hits).html(req.getElementsByTagName('hits')[0].firstChild.nodeValue);
+ }
+ html += '<\/ul><\/div>';
+ $filter.css('margin-bottom', 0);
+ $obj.find('.filter-loading').fadeOut('slow', function() {
+ $(this).remove();
+ $filter.append(html);
+ $filter.find('div:hidden').slideDown('slow', function() {
+ $(this).find('a[rel="more"]').click(function() {
+ filter_obj.load(true);
+ return false;
+ });
+ });
+ });
+ }
+ });
+}
+$(document).ready(function() {
+ /* Auto complete setup */
+ $('input[name="query"]').autoComplete({
+ url : 'http://www.startlocal.com.au/cgi-bin/directory/auto-complete.cgi?k=',
+ suggests : 3
+ });
+ $('input.loc-suggest').autoComplete({
+ url : 'http://www.startlocal.com.au/cgi-bin/directory/auto-complete.cgi?l=',
+ suggests : 3
+ });
+ $('input.title-suggest').autoComplete({
+ url : 'http://www.startlocal.com.au/cgi-bin/directory/auto-complete.cgi?b=',
+ suggests : 3
+ });
+})
 </script>
 </head>
 <body id="error">
@@ -62,7 +161,7 @@ var WRInitTime=(new Date()).getTime();
 </li>
 <li>
 <label class="l-03">LOCATION</label>
-<input class="search-inp-txt" type="text" name="query2" value="eg. Sydney (Suburb or Postcode)" onfocus="if (this.value == 'eg. Sydney (Suburb or Postcode)') {this.value =''};this.style.color='black';">
+<input class="search-inp-txt loc-suggest" type="text" name="query2" value="eg. Sydney (Suburb or Postcode)" onfocus="if (this.value == 'eg. Sydney (Suburb or Postcode)') {this.value =''};this.style.color='black';">
 </li>
 <li><input class="btm-search" type="image" src="/static/images/btn-search-new.gif"></li>
 </ul>
@@ -73,11 +172,11 @@ var WRInitTime=(new Date()).getTime();
 <ul class="form-holder">
 <li>
 <label class="l-06">BUSINESS</label>
-<input class="search-inp-txt" type="text" name="Title" value="eg. Hilton Hotel" onfocus="if (this.value == 'eg. Hilton Hotel') {this.value =''};this.style.color='black';">
+<input class="search-inp-txt title-suggest" type="text" name="Title" value="eg. Hilton Hotel" onfocus="if (this.value == 'eg. Hilton Hotel') {this.value =''};this.style.color='black';">
 </li>
 <li>
 <label class="l-03">LOCATION</label>
-<input class="search-inp-txt" type="text" name="Location" value="eg. Sydney (Suburb or City)" onfocus="if (this.value == 'eg. Sydney (Suburb or City)') {this.value =''};this.style.color='black';">
+<input class="search-inp-txt loc-suggest" type="text" name="Location" value="eg. Sydney (Suburb or City)" onfocus="if (this.value == 'eg. Sydney (Suburb or City)') {this.value =''};this.style.color='black';">
 </li>
 <li>
 <label class="l-05">POSTCODE</label>
@@ -107,12 +206,15 @@ Start Local Pty Ltd collects   information through our Web site at several point
 <p>We may also collect information which our users divulge about other people.   Start Local Pty Ltd does not actively market to children, and we never knowingly ask a child   under 13 to divulge personal information. </p>
 <p>We collect this information through emails and contact forms.&nbsp; The   information is collected voluntarily. </p>
 <p>We may employ cookies. A cookie is a small text file that our Web server   places on a user’s computer hard drive to be a unique identifier. Cookies enable   Start Local Pty Ltd to track usage patterns and deliver customized content to users.&nbsp; Our   cookies may have an expiration date. Our cookies do not collect personally   identifiable information.&nbsp;</p>
+<p>Google, as a third party vendor, uses cookies to serve ads on Start Local.</p>
+<p>Google's use of the DART cookie enables it to serve ads to our users based on their visits to Start Local and other sites on the Internet.</p>
+<p>Users may opt out of the use of the DART cookie by visiting the <a rel="nofollow" href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
 <p><strong>Part II.&nbsp; Information Usage. <br>
 </strong>The information collected   by Start Local Pty Ltd will be used for providing users with information.&nbsp; Users who provide   information may receive list products, services, email announcements or   advertisements. </p>
 <ol>
 <li>We offer links to other Web sites.&nbsp; Please note: When you click on links to   other Web sites, we encourage you to read their privacy policies.&nbsp; Their   standards may differ from ours. </li>
 </ol>
-<p>If our policy on information collection or uses changes, we will update this   notice. We have the right to change this notice at any time. </p>
+<p>If our policy on information collection or uses changes, we will update this notice. We have the right to change this notice at any time. </p>
 <p><strong>Part IV. Problem Resolution <br>
 </strong>If problems arise, users may   contact Start Local Pty Ltd by using the <a href="http://www.startlocal.com.au/contact.html">contact form provided</a>.&nbsp; We   are committed to resolving disputes in the shortest time possible.</p>
 <p><strong>Part V. Data Storage and Security<br>
@@ -131,11 +233,11 @@ Start Local Pty Ltd collects   information through our Web site at several point
 <div class="footer-holder">
 <div class="f-info">
 <ul>
-<li class="first"><a href="/privacy.html">Privacy</a></li>
-<li><a href="/termsofuse.html">Terms of Use</a></li>
-<li><a href="/articles/workforstartlocal.html">Work for Start Local</a></li>
-<li><a href="/contact.html">Contact</a></li>
-<li><a href="/cgi-bin/directory/modify.cgi">My Account</a></li>
+<li class="first"><a href="/privacy.html" rel="nofollow">Privacy</a></li>
+<li><a href="/termsofuse.html" rel="nofollow">Terms of Use</a></li>
+<li><a href="/articles/workforstartlocal.html" rel="nofollow">Work for Start Local</a></li>
+<li><a href="/contact.html" rel="nofollow">Contact Start Local</a></li>
+<li><a href="/cgi-bin/directory/modify.cgi" rel="nofollow">My Account</a></li>
 <li><a href="/get-listed.html">Get Listed / Submit URL</a></li>
 </ul>
 <ul>
@@ -148,10 +250,21 @@ Start Local Pty Ltd collects   information through our Web site at several point
 <li><a href="/darwin.html">Darwin</a></li>
 <li><a href="/canberra.html">Canberra</a></li>
 </ul>
-<p>Copyright © 2006-2008 Start Local Pty Ltd - Your Local Search Engine and Australian Business Directory.  All rights reserved.</p>
+<p>Copyright © 2006-2009 Start Local Pty Ltd - Your Local Search Engine and Australian Business Directory.  All rights reserved.</p>
 </div>
 </div>
 </div>
+<script type="text/javascript">
+var zenbox_params = {};
+zenbox_params.tab_id = "feedback";
+zenbox_params.tab_color = "#ffb812";
+zenbox_params.title = "Start Local";
+zenbox_params.text = "How has your visit been with Start Local today? <br/><br/>Are you finding everything you're looking for on our site? Are you having any problems with the site? Have you found a feature you love or hate? Is there anything else you'd like to see on the site?<br/><br/>Please take a minute or two and let us know what you think. We really value your feedback. It will help us work together with you to build the most useful local search site in Australia.<br/><br/>Regards,<br/>The Team from Start Local";
+zenbox_params.tag = "feedbackdropbox";
+zenbox_params.url = "startlocal.zendesk.com";
+</script>
+<style type="text/css">@import url('http://assets0.zendesk.com/external/zenbox/overlay.css');</style>
+<script type="text/javascript" src="http://assets0.zendesk.com/external/zenbox/overlay.js"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
