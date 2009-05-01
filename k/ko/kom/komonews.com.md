@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044950id_/http%3A//www.komonews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501083327id_/http%3A//www.komonews.com/about/privacy) for the most accurate reproduction.*
 
 # KOMO News - Seattle, Washington | KOMO Privacy Policy
 
