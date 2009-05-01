@@ -1,34 +1,39 @@
-> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216105425id_/http%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501072543id_/http%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - traditionaloven.com
 
-[](https://web.archive.org/web/20081216105425id_/http%3A//www.traditionaloven.com/linktous.html)  
+[](https://web.archive.org/web/20090501072543id_/http%3A//www.traditionaloven.com/linktous.html)  
 Is this website useful? Please,  
-[Link to us](https://web.archive.org/web/20081216105425id_/http%3A//www.traditionaloven.com/linktous.html) | 
+[Link to us](https://web.archive.org/web/20090501072543id_/http%3A//www.traditionaloven.com/linktous.html) | 
 
-Privacy policy
+**Privacy policy**
 
-Privacy Policy for www.traditionaloven.com
+Privacy Policy for **www.traditionaloven.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pizzapaddle@gmail.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by **email: pizzapaddle@gmail.com**
 
-At www.traditionaloven.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by www.traditionaloven.com and how it is used.
+At **www.traditionaloven.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by **www.traditionaloven.com** and how the information is used. Here is information on what types of personal information we receive and collect when you visit and use **www.traditionaloven.com** web site.
 
 **Cookies and Web Beacons**  
-Cookies are litle text files placed on your computer by many websites you visit on the net. Cookies make website visits more convenient by improved functionality such as remembered form fill-ins. Traditionaloven.com also takes advantage of the Google Analytics program which uses cookies to collect anonymous traffic data for statistics purposes. Please see the "Log Files" section below to see how this data information is used.
+Cookies make website visits more convenient by improved functionality. Cookies are part of a method of tracking information you enter on a web site using a file on your computer. We do use a cookie to log whether you have visited the site already before. No personal information is written to the cookie at all. It is primarily used to save you time by automatically populating contact forms, forms in our Blog, discussion forum, and other locations on the site.
 
-Cookies track only the current browser session and do not record, transmit or reveal any personal information to us. Data is never stored on your computer. Cookies can be easily deleted regardless what browser is used. You can read more information about cookies at www.cookiecentral.com
+Some of our advertising partners may use cookies and web beacons on our site:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, DoubleClick DART, Commission Junction, Amazon.
+Our advertising partners include **[Google Adsense - http://www.google.com/adsense/](http://www.google.com/adsense/ "Google Adsense program.")** and **DoubleClick DART**. Google, as a third party vendor, uses cookies to serve ads on our web site, these are to improve visitors online experience including displaying of more relevant ads relating to the site's content. Visitors may opt-out of the use of the **DoubleClick** cookie by visiting the Google ad and content network privacy policy info page at the following URL:   
+**<http://www.google.com/privacy_ads.html>**
 
-These third-party ad servers or ad networks use technology to send the advertisements and links that appear on www.traditionaloven.com directly to your browsers. These automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to send the advertisements and links that appear on **www.traditionaloven.com** directly to your browsers. These automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you can see.
 
-www.traditionaloven.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.traditionaloven.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Please note that **www.traditionaloven.com** privacy practices as described on this page do not apply to the privacy policies or practices of other businesses and websites. **www.traditionaloven.com** has no access to, or control over, these cookies that are used by third-party advertisers. These matters are very common to the web and always evolving, but if you wish to learn or just to find out more, please consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **www.traditionaloven.com** privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+**Site Tracking - Log Files**  
+Like many other Web sites, **www.traditionaloven.com** makes use of log files. We use **[Google Analytics - http://www.google.com/analytics/](http://www.google.com/analytics/ "Google's Analytics program.")** program. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Log Files**  
-Like many other Web sites, www.traditionaloven.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Email Addresses**  
+We log your email address in only in these situations: Newsletter purpose, contact/email-reply purpose, when posting comment to a Blog post. The email addresses are never shared.
+
+**Out-going Links to other websites  
+**Our site contains links to other web sites. We are not responsible for the privacy policy and practices or, the content of any other web site linked from **www.traditionaloven.com** site.
 
 In fact you can bake for 4 to 6 hours reloading batches in the oven (including slow long time roasting at baking temperatures.) My favorites are whole mixed grains breads, Sour Dough and Turkish breads, sweets of course. It's a good idea to own a proper book about baking strategies, I ordered this one from eBay and I'm enjoying reading it ever since:
 
