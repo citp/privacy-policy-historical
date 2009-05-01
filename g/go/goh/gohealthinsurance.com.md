@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033848id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501101755id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
 
 # GoHealth Insurance Privacy Policy
 
@@ -8,7 +8,7 @@ GoHealthInsurance.com believes it is important for you to know and understand ho
 
 Please note that this privacy policy only applies to this website. Other websites in the GoHealthInsurance.com network may have different privacy policies. 
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20081218033848id_/http%3A//www.gohealthinsurance.com/terms.html). 
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20090501101755id_/http%3A//www.gohealthinsurance.com/terms.html). 
 
 ### Services Offered By GoHealthInsurance.com
 
@@ -190,7 +190,7 @@ If you have any questions about GoHealth Insurance, this website, our service, o
 > 
 > 1-888-250-3409
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [customerservice@gohealthinsurance.com](mailto:ac@gohealthinsurance.com) or by contacting us by telephone or postal mail at the contact information listed above.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [customerservice@gohealthinsurance.com](mailto:customerservice@gohealthinsurance.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
 ### Changes to This Policy
 
