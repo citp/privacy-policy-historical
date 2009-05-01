@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164514id_/http%3A//www.humyo.com/pages/en/online-storage-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501212349id_/http%3A//www.humyo.com/pages/en/online-storage-privacy) for the most accurate reproduction.*
 
 # humyo.com - Privacy Policy
 
