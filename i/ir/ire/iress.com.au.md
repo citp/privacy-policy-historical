@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912023338id_/http%3A//www.iress.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501053940id_/http%3A//www.iress.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ If you have any questions about this statement, or you believe that there has be
 
 **The Privacy Officer**  
 IRESS Market Technology Limited  
-Level 20, 360 Collins St, Melbourne, VIC, 3000  
+Level 18, 385 Burke St, Melbourne, VIC, 3000  
 Phone: +61 3 9018 5800  
 Email: [corporate@iress.com.au](mailto:corporate@iress.com.au)
 
