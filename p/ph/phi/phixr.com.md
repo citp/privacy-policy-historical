@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041255id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501233502id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor
 
@@ -22,7 +22,7 @@ Violation of any of these terms will result in the termination of your account.
 
 General Conditions
 
-  * **We do not claim, nor gain any right with regard to data you upload to our servers. It's your data, and it remains your data.**
+  * We do not claim, nor gain any right with regard to data you upload to our servers. It's your data, and it remains your data.
   * We reserve the right to modify or terminate the free service the Site provides for any reason, without notice at any time.
   * We reserve the right to alter these Terms of Use at any time. If the alterations constitute a material change to the Terms of Use, we will notify you via e-mail if you specified an e-mail address in your profile. What constitutes a "material change" will be determined at our sole discretion, in good faith and using common sense and reasonable judgement.
   * We reserve the right to refuse service to anyone for any reason at any time.
@@ -112,13 +112,13 @@ Trademarks and Acknowledgements
 Phixr and the Phixr logo are trademarks of Flock55 and Dr. Thomas Winischhofer, Vienna, Austria. No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without prior written consent of Dr. Thomas Winischhofer or a representative of Flock55.
 
 Buzznet and the Buzznet logo are (registered) trademarks of Buzznet Inc. Used by express permission.  
-Costco and the Costco logo are (registered) trademarks of Costco Wholesale Corporation. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20Costco%20trademark)  
+Costco and the Costco logo are (registered) trademarks of Costco Wholesale Corporation. Permission request pending.  
 Dropshots and the dropshots logo are (registered) trademarks of DropShots, Inc. Used by express permission.  
 Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developmer Terms of Service" dated July 25, 2007).  
 Flickr and the flickr logo are (registered) trademarks of Yahoo! Inc. Used by express permission.  
-Fotolog and the Fotolog logo are (registered) trademarks of Fotolog, Inc. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20Fotolog%20trademark)  
+Fotolog and the Fotolog logo are (registered) trademarks of Fotolog, Inc. Permission request pending.  
 Fotopic.net and the fotopic.net logo are (registered) trademarks of Fotopic.net Ltd. Used by express permission.  
-ImageShack and the ImageShack logo are (registered) trademarks of ImageShack Corp. Permission request pending. [[Request removal]](mailto:frontdesk@phixr.com?subject=Removal%20of%20ImageShack%20trademark)  
+ImageShack and the ImageShack logo are (registered) trademarks of ImageShack Corp. Permission request pending.  
 LiveJournal and the Livejournal logo are (registered) trademarks of LiveJournal, Inc. Used by express permission.  
 Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by permission.  
 Photobucket and the photobucket logo are (registered) trademarks of Photobucket, Inc. Used by express permission.  
