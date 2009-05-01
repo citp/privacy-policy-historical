@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231155714id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234732id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SmartBuyGlasses -- Privacy Policy
 
 **SmartBuyGlasses** is committed to compliance with Privacy regulations. Privacy regulations outline the best practice principles, which set the minimum standards for how private sector businesses should handle your personal information. 
 
