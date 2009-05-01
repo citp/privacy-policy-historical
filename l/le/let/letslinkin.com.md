@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letslinkin.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121200834id_/http%3A//www.letslinkin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letslinkin.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501181746id_/http%3A//www.letslinkin.com/privacy.php) for the most accurate reproduction.*
 
 # Letslinkin.com - Watch Videos
 
