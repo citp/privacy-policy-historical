@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011639id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501053926id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-| 
 
 **Scope**  
 This statement applies to all websites operated by or on behalf of The Leukemia & Lymphoma Society (LLS). 
@@ -18,6 +16,9 @@ The Leukemia & Lymphoma Society collects information from users through several 
 Personal financial information in the form of a credit card number and expiration date are only collected if a site user wishes to make an online donation through LLS online. This information is not maintained by LLS when entered online. All online transactions are securely transmitted using SSL encryption. 
 
 User information submitted through LLS web sites is only used for the purposes for which it was collected. 
+
+**Advertising Policy**  
+The Leukemia & Lymphoma Society (LLS) does not host any form of advertising from our web sites or email communications.
 
 **Cookies**  
 A cookie is a piece of data stored on the user's computer tied to information about that user. LLS uses both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
