@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsynergy.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202035221id_/http%3A//www.topsynergy.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsynergy.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501184649id_/http%3A//www.topsynergy.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
