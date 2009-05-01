@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226044818id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501123408id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
 
 # IEEE - About your Security and Privacy
 
@@ -32,6 +32,12 @@ Publishing Tools & Services
 | | 
 
 Reprints, Rights & Permissions
+
+|   
+---|---|---  
+| | 
+
+Publications Board 
 
 |   
 ---|---|---  
@@ -142,8 +148,14 @@ The IEEE cooperates with law enforcement inquiries, as well as other third parti
 ## Questions
 
 |   
-|  |  | 
+|  |   
+---  
+| 
 
-[](https://web.archive.org/portal/site/iportals?WT.mc_id=ft_home)  
+© Copyright 2009 IEEE – All Rights Reserved.  
+Use of this website signifies your agreement to the Terms of Use.  
+For questions or comments, please contact the [IEEE Webmaster](https://web.archive.org/web/services/general/webmaster.html?WT.mc_id=ft_webmaster).  
   
----|---|---
+| 
+
+[](https://web.archive.org/portal/site/iportals?WT.mc_id=ft_home)
