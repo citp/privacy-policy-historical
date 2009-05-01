@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fellowequality.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090423id_/http%3A//fellowequality.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fellowequality.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502010945id_/http%3A//fellowequality.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FellowEquality.com
 
@@ -24,9 +24,9 @@ We do not collect online contact information without prior parental consent or p
 
   
 **Choice/Opt-Out:  
-** FellowEquality.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. FellowEquality.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](https://web.archive.org/pages/contact.php) and request your affiliateship to be canceled at anytime.   
+** FellowEquality.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. FellowEquality.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://fellowequality.com/pages/contact.php) and request your affiliateship to be canceled at anytime.   
   
 **Correct/Update:  
 **
 
-FellowEquality.com gives users the following options for changing and modifying information previously provided. Affiliates Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with FellowEquality.com, you can [Contact Us](https://web.archive.org/pages/contact.php). 
+FellowEquality.com gives users the following options for changing and modifying information previously provided. Affiliates Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with FellowEquality.com, you can [Contact Us](http://fellowequality.com/pages/contact.php). 
