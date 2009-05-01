@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the policelink.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624031816id_/http%3A//www.policelink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policelink.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501145815id_/http%3A//www.policelink.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Police Link
+# PoliceLink : The Nation's Law Enforcement Community
 
 ### Overview
 
@@ -56,8 +56,8 @@ We participate in the Department of Commerce's Safe Harbor Framework arising out
 
 ### Changes to Privacy Statement
 
-If we decide to materially change our Privacy Statement for Monster and PoliceLink we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at privacystatement@monster.com or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem. 
+If we decide to materially change our Privacy Statement for Monster and PoliceLink we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at info@policelink.com or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem. 
 
 ### Contact Information
 
-Monster is the name under which Monster, Inc., a Delaware corporation, with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, and certain of its affiliated companies worldwide, do business. Monster, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster Sites. Thank you for using Monster and PoliceLink. Update effective March 20, 2008. 
+Monster is the name under which Monster, Inc., a Delaware corporation, with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, and certain of its affiliated companies worldwide, do business. Monster, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster Sites. Thank you for using Monster and PoliceLink. Update effective March 20, 2008.
