@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231134028id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501232739id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,10 +13,10 @@ Reading University Students' Union is committed to protecting the rights and pri
 
 When you register on [www.rusu.co.uk](http://www.rusu.co.uk/) RUSU, or a data processor operating on behalf of RUSU, will collect personal data from you such as:
 
-  * Name and contact details – for instance, your e-mail address and telephone number; 
-  * HTTP protocol elements – such as, the server address, the IP address and browser details; 
+  * Name and contact details â€" for instance, your e-mail address and telephone number; 
+  * HTTP protocol elements â€" such as, the server address, the IP address and browser details; 
   * Click-stream data (the type of computer and browsing software you use, and originating website etc.; 
-  * Demographic data – such as, country and telephone area code where your computer is located; 
+  * Demographic data â€" such as, country and telephone area code where your computer is located; 
   * Preference data: search items of our website, any advertisements you clicked on.. 
 
 
@@ -104,4 +104,4 @@ RG6 6AZ
 **Tel:** 0118 378 4100  
  **Fax:** 0118 378 4115
 
-Page Last Modified: 26 Nov 2008
+Page Last Modified: 08 Mar 2009
