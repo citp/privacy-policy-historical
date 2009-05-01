@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013955id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501054733id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - StripersOnline.com - Privacy Promise
 
@@ -60,7 +60,14 @@ For all [StripersOnline Online Catalog](http://www.stripersonline.net/cart/shop/
 
 **How To Contact Us  **
 
->   Should you have other questions or concerns about these privacy policies, please call us at **(732) 681-3962** between 9am and 8pm or send us an email at **[webmaster@stripersonline.com](mailto:webmaster@stripersonline.com) **
+>   Should you have other questions or concerns about these privacy policies, please call us at **(732) 361-7412** between 9am and 8pm or send us an email at **[webmaster@stripersonline.com](mailto:webmaster@stripersonline.com) **
+> 
+> You can also reach us by mail at the following address:  
+>  **StripersOnline.com  
+>  102 Bennett Road  
+>  Shark River Hills, NJ  
+>  07753**  
+> 
 
 * * *
 
