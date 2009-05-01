@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170047id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501213950id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Start Local - Your Local Australian Business Directory: Privacy
 
@@ -17,6 +17,12 @@ We may also collect information which our users divulge about other people. Star
 We collect this information through emails and contact forms.  The information is collected voluntarily. 
 
 We may employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Start Local Pty Ltd to track usage patterns and deliver customized content to users.  Our cookies may have an expiration date. Our cookies do not collect personally identifiable information. 
+
+Google, as a third party vendor, uses cookies to serve ads on Start Local.
+
+Google's use of the DART cookie enables it to serve ads to our users based on their visits to Start Local and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Part II.   Information Usage.   
 **The information collected by Start Local Pty Ltd will be used for providing users with information.  Users who provide information may receive list products, services, email announcements or advertisements. 
