@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsfw.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226125930id_/http%3A//www.nsfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsfw.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501224303id_/http%3A//www.nsfw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NSFW | Not Safe For Work
 
@@ -57,13 +57,6 @@ Blog Topics
 Media
 
 Our Friends
-
-  
-**Warning** : include() [[function.include](http://www.nsfw.com/function.include)]: URL file-access is disabled in the server configuration in **/home/www/nsfw.com/htdocs/privacy.php** on line **272**
-
-**Warning** : include(http://www.nsfw.com/friends.php) [[function.include](http://www.nsfw.com/function.include)]: failed to open stream: no suitable wrapper could be found in **/home/www/nsfw.com/htdocs/privacy.php** on line **272**
-
-**Warning** : include() [[function.include](http://www.nsfw.com/function.include)]: Failed opening 'http://www.nsfw.com/friends.php' for inclusion (include_path='.:/usr/local/php-5.2.3/lib/php') in **/home/www/nsfw.com/htdocs/privacy.php** on line **272**
 
   
 
