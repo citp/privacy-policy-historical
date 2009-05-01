@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226020819id_/http%3A//www.redbox.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbox.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501200107id_/http%3A//www.redbox.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # redbox
 
