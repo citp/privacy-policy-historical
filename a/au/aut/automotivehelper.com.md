@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012646id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501083746id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # AutomotiveForums.com - Corporate - Privacy Statement
 
@@ -25,6 +25,11 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 ### Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+* Google, as a third party vendor, uses cookies to serve ads on our site.  
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+
 
 ### Supplementation Information
 
