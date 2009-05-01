@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the income.com.sg privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217071423id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the income.com.sg privacy policy that was archived on 2009-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501194838id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.-->
 
 <html><!-- InstanceBegin template="/Templates/common.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<link rel="SHORTCUT ICON" href="http://www.income.com.sg/IncCOOP/images/i-logo.ico">
 <link rel="stylesheet" href="/IncCOOP/stylesheet/default.css" type="text/css">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>NTUC Income | Privacy Policy</title>
 <!-- InstanceEndEditable -->
@@ -16,13 +15,10 @@
 
 <div class="CONTAINER">
 <!--------- HEADER ---------->
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="Copyright" content="NTUC Income">
-<!--
-<META HTTP-EQUIV="Page-Exit" CONTENT="RevealTrans(Duration=0.5,Transition=10)">
-<META HTTP-EQUIV="Page-Enter" CONTENT="RevealTrans(Duration=0.5,Transition=11)">
--->
+<link rel="SHORTCUT ICON" href="http://www.income.com.sg/IncCOOP/images/i-logo.ico">
+<!-- <META HTTP-EQUIV="Page-Exit" CONTENT="RevealTrans(Duration=0.5,Transition=10)"> -->
+<!-- <META HTTP-EQUIV="Page-Enter" CONTENT="RevealTrans(Duration=0.5,Transition=11)"> -->
+
 
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2008 WebTrends Inc. All rights reserved. -->
@@ -95,8 +91,10 @@ MM_reloadPage(true);
 <script language="javascript">
 <!--	
 function ShowPopupWin(xUrl){
-var myWin = window.open("","myWin", "toolbar=0,menubar=0,scrollbars=yes,'width=" + screen.width + ",height="+ screen.height+ ",top=0,left=0");
+//var myWin = window.open("","myWin", "toolbar=0,menubar=0,scrollbars=yes,'width=" + screen.width + ",height="+ screen.height+ ",top=0,left=0");
+var myWin = window.open("","myWin", "location=0,status=0,scrollbars=0,menubar=0,toolbar=0,width=1014,height=768,left=0,top=0");
 myWin.location.href = xUrl;
+//myWin.resizeTo(screen.width,screen.height);
 myWin.focus();
 }
 //-->
@@ -117,115 +115,17 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <!-- End of Jump Menu -->
 
 
-<!-- Snowing Effect -->
-<script type="text/javascript">
-
-/******************************************
-* Snow Effect Script- By Altan d.o.o. (http://www.altan.hr/snow/index.html)
-* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
-* Last updated Nov 9th, 05' by DD. This notice must stay intact for use
-******************************************/
-  
-  //Configure below to change URL path to the snow image
-  var snowsrc="/images/snow.gif"
-  // Configure below to change number of snow to render
-  var no = 15;
-  // Configure whether snow should disappear after x seconds (0=never):
-  var hidesnowtime = 30;
-  // Configure how much snow should drop down before fading ("windowheight" or "pageheight")
-  var snowdistance = "pageheight";
-
-///////////Stop Config//////////////////////////////////
-
-  var ie4up = (document.all) ? 1 : 0;
-  var ns6up = (document.getElementById&&!document.all) ? 1 : 0;
-
-	function iecompattest(){
-	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-	}
-
-  var dx, xp, yp;    // coordinate and position variables
-  var am, stx, sty;  // amplitude and step variables
-  var i, doc_width = 800, doc_height = 600; 
-  
-  if (ns6up) {
-    doc_width = self.innerWidth;
-    doc_height = self.innerHeight;
-  } else if (ie4up) {
-    doc_width = iecompattest().clientWidth;
-    doc_height = iecompattest().clientHeight;
-  }
-
-  dx = new Array();
-  xp = new Array();
-  yp = new Array();
-  am = new Array();
-  stx = new Array();
-  sty = new Array();
-  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
-  for (i = 0; i < no; ++ i) {  
-    dx[i] = 0;                        // set coordinate variables
-    xp[i] = Math.random()*(doc_width-50);  // set position variables
-    yp[i] = Math.random()*doc_height;
-    am[i] = Math.random()*20;         // set amplitude variables
-    stx[i] = 0.02 + Math.random()/10; // set step variables
-    sty[i] = 0.7 + Math.random();     // set step variables
-		if (ie4up||ns6up) {
-      if (i == 0) {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><a href=\"http://dynamicdrive.com\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
-      } else {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
-      }
-    }
-  }
-
-  function snowIE_NS6() {  // IE and NS6 main animation function
-    doc_width = ns6up?window.innerWidth-10 : iecompattest().clientWidth-10;
-		doc_height=(window.innerHeight && snowdistance=="windowheight")? window.innerHeight : (ie4up && snowdistance=="windowheight")?  iecompattest().clientHeight : (ie4up && !window.opera && snowdistance=="pageheight")? iecompattest().scrollHeight : iecompattest().offsetHeight;
-    for (i = 0; i < no; ++ i) {  // iterate for every dot
-      yp[i] += sty[i];
-      if (yp[i] > doc_height-50) {
-        xp[i] = Math.random()*(doc_width-am[i]-30);
-        yp[i] = 0;
-        stx[i] = 0.02 + Math.random()/10;
-        sty[i] = 0.7 + Math.random();
-      }
-      dx[i] += stx[i];
-      document.getElementById("dot"+i).style.top=yp[i]+"px";
-      document.getElementById("dot"+i).style.left=xp[i] + am[i]*Math.sin(dx[i])+"px";  
-    }
-    snowtimer=setTimeout("snowIE_NS6()", 10);
-  }
-
-	function hidesnow(){
-		if (window.snowtimer) clearTimeout(snowtimer)
-		for (i=0; i<no; i++) document.getElementById("dot"+i).style.visibility="hidden"
-	}
-		
-
-if (ie4up||ns6up){
-    snowIE_NS6();
-		if (hidesnowtime>0)
-		setTimeout("hidesnow()", hidesnowtime*1000)
-		}
-
-</script><div id="dot0" style="position: absolute; z-index: 0; visibility: visible; top: 97.3716px; left: 945.939px;"><a href="http://dynamicdrive.com"><img src="/images/snow.gif" border="0"></a></div><div id="dot1" style="position: absolute; z-index: 1; visibility: visible; top: 619.245px; left: 253.468px;"><img src="/images/snow.gif" border="0"></div><div id="dot2" style="position: absolute; z-index: 2; visibility: visible; top: 218.514px; left: 924.188px;"><img src="/images/snow.gif" border="0"></div><div id="dot3" style="position: absolute; z-index: 3; visibility: visible; top: 98.6671px; left: 128.513px;"><img src="/images/snow.gif" border="0"></div><div id="dot4" style="position: absolute; z-index: 4; visibility: visible; top: 72.0345px; left: 560.899px;"><img src="/images/snow.gif" border="0"></div><div id="dot5" style="position: absolute; z-index: 5; visibility: visible; top: 494.159px; left: 346.904px;"><img src="/images/snow.gif" border="0"></div><div id="dot6" style="position: absolute; z-index: 6; visibility: visible; top: 755.6px; left: 409.301px;"><img src="/images/snow.gif" border="0"></div><div id="dot7" style="position: absolute; z-index: 7; visibility: visible; top: 536.71px; left: 427.601px;"><img src="/images/snow.gif" border="0"></div><div id="dot8" style="position: absolute; z-index: 8; visibility: visible; top: 618.117px; left: 570.365px;"><img src="/images/snow.gif" border="0"></div><div id="dot9" style="position: absolute; z-index: 9; visibility: visible; top: 727.992px; left: 286.154px;"><img src="/images/snow.gif" border="0"></div><div id="dot10" style="position: absolute; z-index: 10; visibility: visible; top: 598.222px; left: 443.623px;"><img src="/images/snow.gif" border="0"></div><div id="dot11" style="position: absolute; z-index: 11; visibility: visible; top: 613.937px; left: 577.364px;"><img src="/images/snow.gif" border="0"></div><div id="dot12" style="position: absolute; z-index: 12; visibility: visible; top: 411.254px; left: 1150.21px;"><img src="/images/snow.gif" border="0"></div><div id="dot13" style="position: absolute; z-index: 13; visibility: visible; top: 738.618px; left: 52.8857px;"><img src="/images/snow.gif" border="0"></div><div id="dot14" style="position: absolute; z-index: 14; visibility: visible; top: 126.387px; left: 108.175px;"><img src="/images/snow.gif" border="0"></div>
-<!-- End of Snowing Effect -->
-
-
 <table width="100%" border="0" align="CENTER" cellpadding="3" cellspacing="0">
 <tbody><tr valign="BOTTOM">
 <td width="20%">
 <a href="http://www.income.com.sg"><img src="/IncCOOP/images/inclogo.gif" alt="Back to NTUC Income Home Page" width="134" height="40" border="0"></a></td>
 
-<td width="37%" align="CENTER"><img src="/images/greetings.gif" width="250" height="40"></td>
+<td width="37%" align="CENTER">&nbsp;</td>
 <td width="43%" align="RIGHT">
 <table width="98%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="57%" align="RIGHT" class="FONT11B-BLUE">Search this site </td>
-<td width="43%"><a href="/search/advsearch.asp"><!--<LINK REL="stylesheet" HREF="/NewLayout/layout/default.css" TYPE="text/css">-->
-
-<table border="0" cellspacing="2" cellpadding="0">
+<td width="43%"><a href="/search/advsearch.asp"><table border="0" cellspacing="2" cellpadding="0">
 <!--<FORM ACTION="/search/search.idq" METHOD="GET" TARGET="_parent">-->
 <!--<form action="http://www.income.coop/search/search.idq?CiRestriction=giro/search/search.idq" method="GET" target="_parent">-->
 
@@ -246,12 +146,9 @@ if (ie4up||ns6up){
 --></a></td>
 </tr></tbody></table></td>
 </tr></tbody></table>
-
-<div class="BAR-RED">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" class="BAR-TOPnBTM">
-<tbody><tr class="FONT10B-WHITE">
-<td width="2%"></td>
-<td width="19%"><script language="JavaScript">
+<div class="BAR-RED"><table width="98%" border="0" cellpadding="3" cellspacing="0" align="CENTER">
+<tbody><tr valign="MIDDLE">
+<td width="19%" class="FONT10B-WHITE"><script language="JavaScript">
 //Today's Date
 // Array of day names
 var dayNames = new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
@@ -267,8 +164,9 @@ document.write (" ");
 document.write(" "+dayNames[now.getDay()] + ", " + now.getDate() + " " + monthNames[now.getMonth()] + " " + year);
 // document.write(" "+dayNames[now.getDay()] + " " + now.getDate() + "  " + monthNames[now.getMonth()] + "  " + year);
 </script>  Fri, 31 Jan 2020</td>
-<td width="34%">Best viewed with Microsoft IE5 &amp; above</td>
-<td width="45%">
+<td width="35%" class="FONT10B-WHITE">Please view with Microsoft IE5 &amp; above
+only</td>
+<td width="46%" class="FONT10B-WHITE">
 
 <script language="JavaScript">
 <!--
@@ -324,34 +222,21 @@ MM_reloadPage(true);
 
 <table border="0" align="RIGHT" cellpadding="2" cellspacing="0">
 <tbody><tr align="CENTER" valign="BOTTOM">
-<td class="Terms"><a href="http://www.income.com.sg">Home</a></td>
-
+<td class="BOLD"><a href="http://www.income.com.sg">Home</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-
-<td class="Terms"><a href="http://www.income.com.sg/EduMaterials/">Education</a></td>
-
+<td class="BOLD"><a href="http://www.income.com.sg/EduMaterials/">Education</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-
-<td class="Terms"><a href="http://www.income.com.sg/forCustomers/">FAQ</a></td>
-
+<td class="BOLD"><a href="http://www.income.com.sg/forCustomers/">FAQ</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-
-<td class="Terms"><a href="http://www.income.com.sg/others/sitemap.asp">Site Map</a></td>
-
+<td class="BOLD"><a href="http://www.income.com.sg/others/sitemap.asp">Site Map</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-
-<td class="Terms"><a href="https://incnet.income.com.sg/OrgLogin/OrgLogin.aspx" target="_blank">Staff Intranet</a></td>
-
-<td width="8"></td>
+<td class="BOLD"><a href="https://incnet.income.com.sg/OrgLogin/OrgLogin.aspx" target="_blank">Staff Intranet</a></td>
 </tr></tbody></table>
-
 </td>
 </tr></tbody></table></div>
-<div class="CLEAR"></div>
 
 <div class="MENU-NAV">
-<!----- MENU NAVIGATOR ------>
-<!--<LINK REL="stylesheet" HREF="/IncCOOP/stylesheet/default.css" TYPE="text/css">-->
+<!----- MENU NAVIGATOR ------><!--<LINK REL="stylesheet" HREF="/IncCOOP/stylesheet/default.css" TYPE="text/css">-->
 
 <script type="text/javascript">
 <!--
@@ -383,7 +268,7 @@ function MM_swapImage() { //v3.0
 
 <table height="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr valign="TOP">
-<td width="15"></td>
+<td width="8"></td>
 <td height="25">
 
 <table width="113" border="0" cellspacing="0" cellpadding="0">
@@ -394,16 +279,13 @@ function MM_swapImage() { //v3.0
 
 <td width="56"><a href="http://www.income.com.sg/malay/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/IncCOOP/images/tab-malay.jpg',1)"><img src="/IncCOOP/images/tab-malay1.jpg" alt="Malay Website" name="Image5" width="56" height="17" border="0"></a></td>
 </tr></tbody></table></td>
-<td width="15"></td>
-
-
 </tr><tr valign="TOP" height="25">
-<td>&nbsp;</td>
+<td></td>
 <td><table border="0" cellspacing="0" cellpadding="2">
 <tbody><tr align="CENTER"><td height="15">
 <select class="FONT11" style="BACKGROUND-COLOR: #E0F2FB; WIDTH: 150px;" onchange="MM_jumpMenu('self',this,0)">
 <option class="FONT11B-BLUE">Quick Access ==&gt;&gt;</option>
-<option value="http://www.income.com.sg/insurance/full-list.asp">All Products</option>
+<option value="http://www.income.com.sg/insurance/products.asp">All Products</option>
 <option value="http://www.income.com.sg/ads/">Advertisements</option>
 <option value="http://www.income.com.sg/insurance/enhancedshield/">Enhanced Incomeshield</option>
 <option value="http://www.income.com.sg/adviser/">Insurance Advisers</option>
@@ -416,9 +298,8 @@ function MM_swapImage() { //v3.0
 </select>
 </td>
 </tr></tbody></table></td>
-<td>&nbsp;</td>
 </tr><tr valign="TOP">
-<td>&nbsp;</td>
+<td></td>
 <td height="140">
 <script type="text/javascript">
 
@@ -546,7 +427,7 @@ window.onunload=savemenustate
 <script type="text/javascript">
 
 /***********************************************
-* AnyLink Drop Down Menu- � Dynamic Drive (www.dynamicdrive.com)
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
 * Visit http://www.dynamicdrive.com/ for full source code
 ***********************************************/
@@ -573,7 +454,7 @@ menu2[5]='<A HREF="http://www.income.com.sg/insurance/financialplanning.asp">:: 
 menu2[6]='<A HREF="http://www.income.com.sg/fund/coopprices.asp">:: Investment Funds</A>'
 menu2[7]='<A HREF="http://www.income.com.sg/insurance/corporate/">:: Corporate</A>'
 menu2[8]='<A HREF="http://www.income.com.sg/insurance/online.asp">:: Online Purchase</A>'
-menu2[9]='<A HREF="http://www.income.com.sg/insurance/full-list.asp">:: All Products</A>'
+menu2[9]='<A HREF="http://www.income.com.sg/insurance/products.asp">:: All Products</A>'
 menu2[10]='<A HREF="http://www.income.com.sg/insurance/ToolsCalc.asp">:: Tools & Calculators</A>'
 menu2[11]='<A HREF="http://www.income.com.sg/forCustomers/">:: For Customers</A>'
 
@@ -581,6 +462,7 @@ menu2[11]='<A HREF="http://www.income.com.sg/forCustomers/">:: For Customers</A>
 var menu3=new Array()
 menu3[0]='<A HREF="http://www.income.com.sg/ads/">:: Advertisements</A>'
 menu3[1]='<A HREF="http://www.income.com.sg/promo/">:: Latest Promotions</A>'
+menu3[2]='<A HREF="http://www.income.com.sg/event/">:: Events</A>'
 menu3[3]='<A HREF="http://www.income.com.sg/contest/">:: Contests</A>'
 menu3[4]='<A HREF="http://www.income.com.sg/contest/winners/list.asp">:: Contest Winners</A>'
 
@@ -591,7 +473,7 @@ menu4[0]='<a href="http://www.income.com.sg/claims/">:: Claim Service Centre</A>
 menu4[2]='<A HREF="http://www.income.com.sg/claims/forms.asp">:: Claim Forms</A>'
 menu4[3]='<A HREF="http://www.income.com.sg/claims/stories/">:: Real Life Stories</a>'
 menu4[4]='<A HREF="http://www.income.com.sg/claims/unclaim.asp">:: Unclaimed Policies</A>'
-menu4[5]='<A HREF="http://www.income.com.sg/claims/motor/idac.asp">:: Reporting Centres</A>'
+menu4[5]='<A HREF="http://www.income.com.sg/claims/motor/ReportingCentres.asp">:: Reporting Centres</A>'
 menu4[6]='<A HREF="http://www.income.com.sg/claims/motor/workshops.asp">:: Motor Workshops</A>'
 
 
@@ -770,7 +652,7 @@ document.onclick=hidemenu
 <a href="default.htm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">Promotions &amp; Events </a></td>
 </tr><tr>
 <td bgcolor="#D6F0FD" height="22">&nbsp;
-<a href="default.htm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '183px')" onmouseout="delayhidemenu()">Making A Claim</a></td>
+<a href="default.htm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '170px')" onmouseout="delayhidemenu()">Making A Claim</a></td>
 </tr><tr>
 <td bgcolor="#D6F0FD" height="22">&nbsp;
 <a href="http://www.income.com.sg/benefits/">More Than Insurance</a></td>
@@ -778,55 +660,58 @@ document.onclick=hidemenu
 <td bgcolor="#D6F0FD" height="22">&nbsp;
 <a href="http://transformation.income.com.sg/">Career</a></td>
 </tr></tbody></table></td>
-<td>&nbsp;</td>
-</tr><tr>
-<td valign="MIDDLE">&nbsp;</td>
-<td valign="MIDDLE" height="51">
-<a href="https://incnet.income.com.sg/pole/pole.aspx">
-<img src="/IncCOOP/images/icon-pole.jpg" alt="Policy OnLine Enquiry" width="150" height="47" hspace="0" vspace="0" border="0"></a></td>
-<td valign="MIDDLE">&nbsp;</td>
+
+<!--
+<TR>
+<TD VALIGN="MIDDLE">&nbsp;</TD>
+<TD VALIGN="MIDDLE" HEIGHT="51">
+<A HREF="https://incnet.income.com.sg/pole/pole.aspx">
+<IMG SRC="/IncCOOP/images/icon-pole.jpg" ALT="Policy OnLine Enquiry" WIDTH="150" HEIGHT="47" HSPACE="0" VSPACE="0" BORDER="0"></A></TD>
+-->
+
 </tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
 <td valign="MIDDLE" height="51">
 <a href="http://www.income.com.sg/fund/coopprices.asp">
 <img src="/IncCOOP/images/icon-fund.jpg" alt="Investment Fund" width="150" height="47" hspace="0" vspace="0" border="0"></a></td>
-<td valign="MIDDLE">&nbsp;</td>
 </tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
 <td valign="MIDDLE" height="51">
 <a href="http://www.income.com.sg/businesscentre/">
 <img src="/IncCOOP/images/icon-buydirect.jpg" alt="Buy Direct" width="150" height="47" hspace="0" vspace="0" border="0"></a></td>
-<td valign="MIDDLE">&nbsp;</td>
 </tr><tr>
 <td valign="MIDDLE">
 </td><td valign="MIDDLE" height="51">
 <a href="http://www.income.com.sg/callcentre/"><img src="/IncCOOP/images/icon-ContactUs.jpg" alt="Contact Us" width="150" height="47" hspace="0" vspace="0" border="0"></a>
-</td><td valign="MIDDLE">
+
 </td></tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
-<td valign="MIDDLE" height="91">
-<a href="http://www.income.com.sg/aboutus/releases/2008/jul10.asp">
-<img src="/IncCOOP/images/icon-cca.gif" alt="Contact Center World Awards 2008" width="150" height="87" border="0"></a></td>
+<td valign="MIDDLE" height="91"><a href="/contest/phs/"><img src="/IncCOOP/images/icon-poleNEW.jpg" alt="POLE Contest" width="150" height="87" border="0"></a></td>
+
+</tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
+<td valign="MIDDLE" height="91"><a href="http://projectLOVE.income.com.sg"><img src="/IncCOOP/images/icon-projectLove.gif" alt="Project LOVE 2008" width="150" height="87" border="0"></a></td>
+
+</tr><tr>
+<td valign="MIDDLE">&nbsp;</td>
+<td valign="MIDDLE" height="91">
+<a href="http://www.income.com.sg/aboutus/releases/2008/dec12.asp">
+<img src="/IncCOOP/images/icon-cca.jpg" alt="Contact Center World Awards 2008" width="150" height="87" border="0"></a></td>
 </tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
 <td valign="MIDDLE" height="174">
 <a href="http://203.125.136.188/Pre-Q/ManageBooking.aspx"><img src="/IncCOOP/images/icon-PreQ.gif" alt="Advance Queue Booking" width="150" height="170" hspace="0" vspace="0" border="0"></a></td>
-<td valign="MIDDLE">&nbsp;</td>
 </tr><tr>
 <td valign="MIDDLE">&nbsp;</td>
 <td valign="MIDDLE" height="88">
 <a href="http://www.income.com.sg/callcentre/branches/"><img src="/IncCOOP/images/icon-Branch.jpg" alt="Visit HarbourFront Branch" width="150" height="84" hspace="0" vspace="0" border="0"></a></td>
-<td valign="MIDDLE">&nbsp;</td>
 </tr><tr>
 <td align="CENTER" valign="MIDDLE">&nbsp;</td>
 <td height="100%" align="CENTER" valign="MIDDLE">&nbsp;</td>
-<td align="CENTER" valign="MIDDLE">&nbsp;</td>
 </tr></tbody></table>
-
 </div>
 
-
+<div class="CONTENT">
 <div class="FLOAT-RIGHT"><script language="JavaScript">
 function breadCrumbs(base,delStr,defp,cStyle,tStyle,dStyle,nl) { // by Paul Davis - http://www.kaosweaver.com
 loc=window.location.toString();subs=loc.substr(loc.indexOf(base)+base.length+1).split("/");
@@ -843,8 +728,6 @@ function getLoc(c) {
   var d="";if (c>0) for (k=0;k<c;k++) d=d+"../"; return d;
 }
 </script>
-<link rel="stylesheet" href="/IncCOOP/stylesheet/default.css" type="text/css">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 <table border="0" align="RIGHT" cellpadding="0" cellspacing="0" class="FONT10">
@@ -861,12 +744,10 @@ function getLoc(c) {
 
 <!--
 <TR CLASS="FONT10">
-<td height="25" colspan="2">>>>><script language="JavaScript">breadCrumbs("www.income.com.sg","<img src='/IncCOOP/images/DartRightRED.gif'>","index.asp","None","None","None","0");</script>
+<td height="25" colspan="2"><script language="JavaScript">breadCrumbs("www.income.com.sg","<img src='/IncCOOP/images/DartRightRED.gif'>","index.asp","None","None","None","0");</script>
 </td>
 -->
-</tr></tbody></table>
-<br clear="ALL">
-</div>
+</tr></tbody></table></div>
 <script language="JavaScript">
 <!-- 
  function PrintContent()
@@ -890,15 +771,16 @@ function getLoc(c) {
 
 <div id="PrintArea">
 
-<div class="CONTENT">
 <!----------- Beginning of Contents ------------>
 <!------------- Begin PDA Content -------------->
-<!-- InstanceBeginEditable name="Content" -->
+<!--Beginning of Content-->
 <br clear="ALL">
+<!-- InstanceBeginEditable name="Contents" -->
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td align="LEFT" valign="TOP" class="FONT11">
+
+<table width="585" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr class="FONT11">
+<td>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td width="25" height="22" class="CORNERS-SKYBLUE"><img src="/IncCOOP/images/bar_topl_curve.gif" width="25" height="22"></td>
@@ -1108,14 +990,11 @@ Singapore 189557</td>
 <!--------------- End of Contents -------------->
 </div>
 </div>
+
 <div class="CLEAR"></div>
 
 <!--------- FOOTER ---------->
-<div class="BAR-RED"><!--
-<LINK REL="stylesheet" HREF="/IncCOOP/stylesheet/default.css" TYPE="text/css">
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
--->
-
+<div class="BAR-RED"><link rel="stylesheet" href="/IncCOOP/stylesheet/default.css" type="text/css">
 
 <table width="98%" border="0" cellpadding="3" cellspacing="0" align="CENTER">
 <tbody><tr>
@@ -1132,13 +1011,13 @@ if (yr!=1995)
  | NTUC Income Insurance Co-Operative Limited</span></td>
 
 <td width="43%" align="RIGHT">
-<table border="0" cellpadding="2" cellspacing="0" class="Terms">
-<tbody><tr align="CENTER" class="Terms">
-<td class="Terms"><a href="http://www.income.com.sg/others/terms.asp">Terms of Use</a></td>
+<table border="0" cellpadding="2" cellspacing="0">
+<tbody><tr align="CENTER">
+<td class="NORM"><a href="http://www.income.com.sg/others/terms.asp">Terms of Use</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-<td class="Terms"><a href="http://www.income.com.sg/others/privacy.asp">Privacy Policy</a></td>
+<td class="NORM"><a href="http://www.income.com.sg/others/privacy.asp">Privacy Policy</a></td>
 <td><img src="/IncCOOP/images/separatorline.gif" alt="Line" width="4" height="12"></td>
-<td class="Terms"><a href="http://www.income.com.sg/others/security.asp">Security Policy</a></td>
+<td class="NORM"><a href="http://www.income.com.sg/others/security.asp">Security Policy</a></td>
 </tr></tbody></table>
 </td>
 </tr></tbody></table></div>
