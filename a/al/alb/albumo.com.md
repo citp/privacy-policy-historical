@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albumo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041305id_/http%3A//albumo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albumo.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501131555id_/http%3A//albumo.com/privacy-policy) for the most accurate reproduction.*
 
 # Stock Photos | Download High Resolution Royalty-Free Images and Illustrations : Privacy Policy
 
