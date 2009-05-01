@@ -1,26 +1,47 @@
-> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703134205id_/http%3A//www.careers.org/admin/admin_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501064223id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - Careers.Org
+# Privacy Policy - Careers.Org
 
-**Careers.Org** offers an extensive directory of links to careers, jobs, education, employment and career reference resources sorted by topic and region. A directory of jobs and careers web sites, since 1995. 
+Thank you for visiting Career.org's Internet web site ("Site"). This Privacy Policy details certain policies implemented throughout Careers.org governing Careers.org's use of personally identifiable information about users of our Site and users of software and/or services (collectively, the "Services"). A "Member" is any user of a Careers.org Service
 
-**Use the powerful search engine above** to search not only the web, with relevant results by _Google_ ®, but also to search more than 11,000 pages on Careers.Org itself. 
+## Privacy Policy Updates
 
-[](http://www.addthis.com/bookmark.php)
+Due to the Internet's rapidly evolving nature, Careers.org may need to update this Privacy Policy from time to time. If so, Careers.org will post its updated Privacy Policy on our Site and we will send all registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be conclusively deemed to have accepted the change.
 
-We completely respect the privacy of our site visitors, our newsletter subscribers, and those who respond to our surveys and questionnaires. Careers.Org has created this privacy policy in order to demonstrate our firm commitment to privacy. It is our policy: 
+## Information Collection and Use
 
-**Your consent and your choice**  
-We respect the purpose for which our site visitors give us information. We give users choice and consent over how your personal information is used, and remove names or personal data upon your request. 
+All information entered into Careers.org by Member is private to Member except to the extent that he or she opts to share that information with other Careers.org members and/or the public, through Careers.org or otherwise. It is Careers.org's policy to respect the privacy of Members. Therefore, Careers.org will not disclose to any third party Member's name or contact information. Careers.org will also not monitor, edit, or disclose the contents of a Member's information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Careers.org; (2) protect and defend the rights or property of Careers.org; or (3) act under exigent circumstances to protect the personal safety of Careers.org members or the public; (4) fix or debug problems with the Careers.org software/service.
 
-**Use of information by other parties**  
-We will **_not_** sell, rent, or loan our lists to third parties for email marketing. While we sell advertising on our Web site and in our newsletter, we do not allow third parties any access to our lists. 
+## Children's Privacy
 
-**Mailing Lists or Subscriptions**  
-We send our monthly newsletters and other regular coorespondence only to those who request them, and immediately unsubscribe those who request it. While some people are accidentally subscribed by friends or associates, we will make every effort to have easy subscription information available on our Web site and in our newsletters. 
+Careers.org recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. Careers.org does not target its Services or this Site to children under 13. Careers.org does not knowingly collect personally identifiable information from children under the age of 13.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. 
+## Cookies
 
-**Contacting Careers.Org - Careers.Org**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, please [Notify us](https://web.archive.org/admin/admin_comments.html) and we will review the site.. 
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site and to improve overall Site experience. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+If you are concerned about the use of cookies on this or any site, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored on your computer. Most Internet Browsers have this capability, as do numerous utilities, Please refer to your browser instructions or a help screen to learn more about these functions and how to use them. Please be advised that certain sections or functionalities of the Site may be inaccessible to you if your browser does not accept cookies.
+
+## Aggregate Information
+
+As stated about, the Site may track your IP addresses and the Careers.org partner websites that you visit, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
+
+## Disclosure
+
+We will not disclose any of your personally identifiable information that you do not elect to make publicly available. Additionally, we will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Careers.org participates or to a purchaser of all or substantially all of Careers.org's assets to which this Site relates.
+
+## Links to Third Party Sites
+
+The Site may provide links to other Web sites or resources over which Careers.org does not have control ("External Web Sites"). Such links do not constitute an endorsement by Careers.org of those External Web Sites. You acknowledge that Careers.org is providing these links to you only as a convenience, and further agree that Careers.org is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+
+## Security
+
+Careers.org employs procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Careers.org uses encryption, password protection, and other security measures to help prevent unauthorized access to your personally identifiable information.
+
+## Correction/Updating Personally Identifiable Information
+
+Careers.org provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review or correct any information you have provided to us, you may submit a request to us as the contact information below or access your account online. If you have any questions regarding this Privacy Policy please [support@careers.org](mailto:support@careers.org)[support@careers.org](mailto:support@careers.org).
+
+This Privacy Policy was last updated: October 09, 2008
+
+This Privacy Policy is effective as of: October 09, 2008
