@@ -1,19 +1,57 @@
-> *The following text is extracted and transformed from the miataturbo.net privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006235945id_/http%3A//www.miataturbo.net/forum/faq.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miataturbo.net privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501211356id_/http%3A//www.forumediainc.com/privacy.html) for the most accurate reproduction.*
 
-# Miata Turbo Forum - Home of the turbo Mazda Miata. - FAQ
+# ForuMediaInc - Delivering Enthusiasts through our Forums.
 
-**Our Privacy Policy**
+**ForuMedia Inc. - Privacy Statement**
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to the site will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. We reserve the right to monitor private messages. If you have any questions, please don't hesitate to email the admin. 
+ForuMedia Inc. (hereafter referred to as ForuMedia) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-**Resale Or Disclosure Of Information To Third Parties**
+**What this Privacy Statement Covers**  
+• This privacy statement covers ForuMedia's treatment of personally identifiable information collected by ForuMedia through a website owned and operated by ForuMedia.
 
-This site does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
+• This privacy statement does not apply to the practices of companies that ForuMedia does not own or control, or of persons that ForuMedia does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which ForuMedia's websites link.
 
-**Browser Information Collected On The Website:**
+**Collection and Use of Personal Information**
 
-This site analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
+• You can visit the websites of ForuMedia without revealing any personal information. However, ForuMedia needs certain personal information if you wish to register for a members account, receive a ForuMedia newsletter, or use certain ForuMedia services.
 
-**Privacy Of Our Email Lists**
+• Where required, this information may include your company contact information and your personal contact information. ForuMedia will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
 
-This site maintains several email lists to keep our members informed about breaking events. Individuals must affirmatively ask to join our mailing lists by contacting the staff directly. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized staff, including other list subscribers. 
+• By accessing the services of ForuMedia and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.  
+Collection and Use of Non-Personal Information
+
+• ForuMedia automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. ForuMedia may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, ForuMedia does not connect this non-personal data to any personal information collected from you.
+
+• ForuMedia also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and ForuMedia assumes no responsibility or liability for this usage.
+
+**Information Sharing and Disclosure**  
+• ForuMedia may disclose your personal information to third parties who work on behalf of ForuMedia to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+
+• ForuMedia may otherwise disclose your personal information when:   
+o We have your express consent to share the information for a specified purpose;   
+o We need to respond to subpoenas, court orders or such other legal process;  
+o We need to protect the personal safety of the users of our websites or defend the rights or property of ForuMedia; or   
+o We find that your actions on our websites violate the ForuMedia Terms of Use document or any of our usage guidelines for specific products or services.  
+o We may pass on information if ForuMedia is acquired or merged with another company. Should this occur, you will be notified before the information about you becomes subject to a different privacy policy.  
+Consent
+
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to ForuMedia. If you have provided personal information to ForuMedia and no longer consent to its use or disclosure as outlined herein, please contact us.   
+How to Access your Personal Information
+
+• ForuMedia gives you the ability to edit your ForuMedia Account Information and preferences at any time.
+
+• You are also able to request deletion of your ForuMedia account at any time.  
+Security
+
+• Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your ForuMedia Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, ForuMedia uses industry-standard SSL-encryption to protect data transmissions.
+
+• We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+
+• Further, ForuMedia retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
+
+• Should you believe your personal safety is threatened or that you may be the victim of identity theft or other illegal conduct, please contact the local, state/provincial or federal law enforcement agencies directly.  
+Changes to this Privacy Statement
+
+ForuMedia may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of ForuMedia websites after any such amendments signifies your acceptance thereof. 
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](http://www.forumediainc.com/contact.html). 
