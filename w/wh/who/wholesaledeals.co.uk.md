@@ -1,38 +1,37 @@
-> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006162844id_/http%3A//www.wholesaledeals.co.uk/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501230509id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Wholesaledeals and Your Privacy | WholesaleDeals.co.uk | UK Online Wholesalers, Distributors & Importers
+# Wholesale Deals Privacy Policy
 
-At WholesaleDeals.co.uk we know you care about how your information is treated. We comply with the Data Protection Act 1998 and we have put in place policies and procedures to ensure your privacy is protected.
+Wholesale Deals is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Collection and Use of Personal Information**
+Wholesale Deals may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the date it is published on the Site.
 
-The information you provide helps us improve your shopping experience. We use this information to manage your account, handle and deliver your orders, and to communicate with you about our services, products, and promotional offers. We also use this information to prevent abuse of our website.
+**What we collect:**
 
-**Does WholesaleDeals.co.uk Share the Information It Receives?**
+We may collect the following information:
 
-Information about our customers is an important part of our business, we are not in the business of selling it to others. We may share customer information only as described below, under controls that are either subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy:
+\- Name and Surname  
+\- Contact information including email address  
+\- Demographic information such as address, postcode, preferences and interests (disclosed or communicated to us by the User, or collected and assumed from the User activity on the Site)  
+\- Other information relevant to customer surveys and/or offers.
 
-  * **Agents:** we employ companies to perform some functions on our behalf. Examples include delivering packages (couriers) and processing credit card payments (banks). They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process personal information in accordance with the UK's Data Protection Act. When using services like Nochex and PayPal please refer to their privacy policies.
-  * **Protection of WholesaleDeals.co.uk and others:** we release account and other personal information when we believe release is appropriate to comply with the law, to enforce or apply our [Conditions of Use](https://web.archive.org/web/20081006162844id_/http%3A//www.wholesaledeals.co.uk/about/conditions.php "Conditions of Sale and Use of our Services") and other agreements, or to protect the rights, property or safety of WholesaleDeals.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. This does not include by any means selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Policy.
+**What we do with the information we gather:**
 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
+_Internal record keeping:_  
+We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**Information Security**
+_Agents:_  
+we employ companies to perform some functions on our behalf. Examples include processing credit card payments (banks) and verifying your registered details (registrars). They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process personal information in accordance with the UK's Data Protection Act.
 
-  * We work to protect the security of your information by using 128 Bit Secure Sockets Layer (SSL) transmission, which encrypts information you input using the highest industry security standards.
-  * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
-  * You can unsubscribe from our Products Alert Newsletter or [request removal of your personal information from our database](https://www.wholesaledeals.co.uk/contact.php) at any time.
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to Log Out when you finish using a shared computer.
+_Links to other websites:_  
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+**Our commitment:**
 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Conditions of Use and Revisions**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us at [our postal address](https://www.wholesaledeals.co.uk/contact-us.php).
 
-If you choose to visit WholesaleDeals.co.uk, your visit and any dispute over privacy is subject to this Privacy Policy and our [Conditions of Use](https://web.archive.org/web/20081006162844id_/http%3A//www.wholesaledeals.co.uk/about/conditions.php "Conditions of Sale and Use of our Services"), including limitations on damages and application of the laws of England. If you have any concern about privacy at WholesaleDeals.co.uk, please [send a thorough description](https://www.wholesaledeals.co.uk/contact.php "Contact us through the online form") and we will try to resolve it.
-
-Our business changes constantly and our Privacy Policy and the [Conditions of Use](https://web.archive.org/web/20081006162844id_/http%3A//www.wholesaledeals.co.uk/about/conditions.php "Conditions of Sale and Use of our Services") may also change. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
-
-[Continue Shopping](http://www.wholesaledeals.co.uk/ "WholesaleDeals.co.uk Home Page") | Help Centre | [Register](https://www.wholesaledeals.co.uk/register.php "Register Free")
-
-  
-**Wholesaledeals and Your Privacy**
+If you believe that any information we are holding about you is incorrect or incomplete, please [write to or email us](https://www.wholesaledeals.co.uk/contact-us.php) as soon as possible. We will promptly correct any information found to be incorrect.
