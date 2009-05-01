@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlfreeze.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044240id_/http%3A//www.urlfreeze.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlfreeze.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501175632id_/http%3A//www.urlfreeze.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # URL Freeze Affiliate Link Cloaker/Link Cloaking Service
 
