@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019051122id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234248id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
 
 # iFly.com: Privacy Policy
 
