@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006134952id_/http%3A//www.toadworld.com/Home/tabid/272/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toadworld.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501185646id_/http%3A//www.toadworld.com/Home/tabid/272/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Toad World > Home
+# Toad World Home
 
 Toad World is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Toad World Web site and governs data collection and usage. By using the Toad World website, you consent to the data practices described in this statement.
 
