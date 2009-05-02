@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120182912id_/http%3A//www.slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # SlideRoom
 
@@ -12,7 +12,7 @@ We collect non-personally identifiable information about you in a number of ways
 
 ### II. USE OF INFORMATION
 
-In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.
+We will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and site administration.
 
 ### III. USE OF IP ADDRESS
 
@@ -32,7 +32,7 @@ SlideRoom allows its users the option to change or modify information previously
 
 ###  CHOICE; OPT OUT
 
-You may opt-out of receiving communications from our partners, and from us by stating your request in the SlideRoom contact form [here.](https://web.archive.org/web/20081120182912id_/http%3A//www.slideroom.com/About_Us_Contact_SlideRoom.shtml).
+You may opt-out of receiving communications from our partners, and from us by stating your request in the SlideRoom contact form [here.](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml).
 
 ### PUBLIC FORUMS
 
@@ -40,4 +40,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 ### CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20081120182912id_/http%3A//www.slideroom.com/About_Us_Contact_SlideRoom.shtml)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml)
