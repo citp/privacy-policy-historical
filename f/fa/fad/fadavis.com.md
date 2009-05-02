@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadavis.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225061434id_/http%3A//www.fadavis.com/footer/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadavis.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502023539id_/http%3A//www.fadavis.com/footer/privacy_policy.cfm) for the most accurate reproduction.*
 
 # F.A. Davis Company® - Privacy Policy
 
