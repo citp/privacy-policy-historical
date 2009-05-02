@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupbox.com privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720061850id_/http%3A//groupbox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupbox.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503012504id_/http%3A//groupbox.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,7 +20,7 @@ There is an ever increasing world of information on the Internet and Groupbox al
 **3\. You should be protected from those that do not wish to follow the rules.** Groupbox runs on the input of users and thus we value that input above anything else.   
    
   
-Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please [contact Groupbox](https://web.archive.org/web/20080720061850id_/http%3A//groupbox.com/Contact.aspx)  
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please [contact Groupbox](http://groupbox.com/Contact.aspx)  
   
    
 **Using Groupbox Safely**  
@@ -32,7 +32,7 @@ Groupbox's Privacy Policy is designed to help you understand how we collect and 
 
 By using or accessing Groupbox, you are accepting the practices described in this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should first contact our privacy staff [contact Groupbox](https://web.archive.org/web/20080720061850id_/http%3A//groupbox.com/Contact.aspx). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe Watchdog at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.   
+If you have questions or concerns regarding this statement, you should first contact our privacy staff [contact Groupbox](http://groupbox.com/Contact.aspx). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe Watchdog at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.   
   
    
 **Information we collect**  
@@ -41,7 +41,7 @@ When you visit Groupbox you provide us with two types of information: personal i
   
    
   
-You post User Content (as defined in the Groupbox [Terms of use](https://web.archive.org/web/20080720061850id_/http%3A//groupbox.com/Terms.aspx)[](https://web.archive.org/web/20080720061850id_/http%3A//groupbox.com/terms.php)) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.   
+You post User Content (as defined in the Groupbox [Terms of use](http://groupbox.com/Terms.aspx)[](http://groupbox.com/terms.php)) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.   
   
    
 **Links**  
