@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220062531id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502080145id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
 
-# History Today: The educational archive of articles, news and study aids for teachers, students and enthusiasts - History Today - History Today - Footer - Privacy Policy & Disclaimer
+# History Today - Privacy Policy & Disclaimer :
 
 **General**
 
@@ -16,7 +16,7 @@ To enable History Today to improve our service to you we may ask for additional 
 
  **Change My Profile**
 
-To change any of your details please log-on to the website and click on _Edit Profile_.
+To change any of your details please log-on to the website and click on Edit Profile. Magazine subscribers should use the [Contact Us](https://web.archive.org/dm_linkinternal.aspx?amid=12111) form to notify us of any address changes.
 
  **Purchase transaction details**
 
