@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5sandiego.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224042629id_/http%3A//www.fox5sandiego.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5sandiego.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502024354id_/http%3A//www.fox5sandiego.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # FOX5 San Diego - Privacy Policy
 
