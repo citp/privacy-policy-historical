@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120020024id_/http%3A//www.cosmeticscop.com/help/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502182640id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy: Cosmetics Cop: Skin Care & Makeup Tips & Reviews
 
-  
-
-
-**PRIVACY**  
 We respect your privacy and the information you provide will NOT be sold, shared, or disseminated in any way.
 
 Paula's Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.cosmeticscop.com.
