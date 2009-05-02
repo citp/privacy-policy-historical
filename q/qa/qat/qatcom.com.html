@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220021128id_/http%3A//www.qatcom.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2009-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502222757id_/http%3A//www.qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy</title>
@@ -44,7 +44,7 @@ $(document).ready(function () {
 						</div>
 					</div>
 					<div id="clock">
-						Saturday, December 20th, 2008, 05:11 (Qatar)					</div>
+						Sunday, May 3rd, 2009, 01:27 (Qatar)					</div>
 
 					<!--
 					<div id="block_language">
@@ -66,12 +66,12 @@ $(document).ready(function () {
 				<div id="zone_header_inner">
 					<div id="block_logo">
 						<div id="block_logo_inner">
-							<h1><a href="/" title="Qatcom, search Qatar's online business directory."><span>Qatcom, search Qatar's online business directory.</span></a></h1>
+							<h1><a href="/" title="Qatcom, search Qatar's online business directory."><img id="logo" height="141" width="150" src="/img/logo.gif" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
 						</div>
 					</div>
 					<div id="block_strapline">
 						<div id="block_strapline_inner">
-							<h1>Welcome to the online <strong>Yellow Directory</strong>, representing 96% of companies in Doha &amp; Qatar</h1>
+							<h1>Welcome to Qatar's 'online Yellow Business Pages Directory' with information about companies in Doha and Qatar</h1>
 						</div>
 					</div>
 					<div id="block_nav1">
@@ -79,15 +79,17 @@ $(document).ready(function () {
 							
 <ul class="">
 	<li class="tab selected" id="tab_search"><a href="/"><span>Search Qatcom</span></a></li>
-	<li class="tab " id="tab_search"><a href="/pages/map-of-doha"><span>Doha Map</span></a></li>
-	<li class="tab " id="tab_about_us"><a href="/pages/about-qatcom"><span>About Qatcom</span></a></li>
-	<li class="tab " id="tab_advertise_with_us"><a href="/pages/advertise-with-qatcom"><span>Advertise With Qatcom</span></a></li>
-	<li class="tab " id="tab_testimonials"><a href="/pages/advertiser_testimonials"><span>Testimonials</span></a></li>
+	<li class="tab " id="tab_search"><a href="/qataryellowpages/map-of-doha"><span>Doha Map</span></a></li>
+	<li class="tab " id="tab_about_us"><a href="/qataryellowpages/about-qatcom"><span>About Qatcom</span></a></li>
+	<li class="tab " id="tab_advertise_with_us"><a href="/qataryellowpages/advertise-with-qatcom"><span>Advertise With Qatcom</span></a></li>
+	<li class="tab " id="tab_testimonials"><a href="/qataryellowpages/advertiser_testimonials"><span>Testimonials</span></a></li>
 
-		
+	
 		<li class="tab " id="tab_login"><a href="/useraccounts/login"><span>Login</span></a></li>
 		<li class="tab " id="tab_register"><a href="/useraccounts/register"><span>Register</span></a></li>
 		<li class="tab " id="tab_contact_us"><a href="/contact-qatcom"><span>Contact Qatcom</span></a></li>
+	<li class="tab " id="tab_qatar_companies"><a href="/qataryellowpages/companies"><span>Qatar Companies</span></a></li>
+
 </ul>						</div>
 					</div>
 					<div id="block_nav2">
@@ -103,10 +105,18 @@ $(document).ready(function () {
 <div id="search_box">
 	<form id="searchform" method="get" action="/listings/search">
 		<div id="search_type" class="required" style="white-space:nowrap">
-			<input onclick="$('#combined_search_help').show();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" checked="checked" value="both"> Business type or Company Name			<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').show();$('#google_search_help').hide()" type="radio" name="searchtype" value="classification"> just Business type			<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').show();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" value="fulltext"> just Company Name			<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').show()" type="radio" name="searchtype" value="google"> Brands/Product Names<img src="/img/powered-by-google.gif" style="vertical-align:top">
+			<div class="search-option">
+				<input onclick="$('#combined_search_help').show();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" checked="checked" value="both"> Business type or Company Name			</div>
+			<div class="search-option">
+				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').show();$('#google_search_help').hide()" type="radio" name="searchtype" value="classification"> just Business type			</div>
+			<div class="search-option">
+				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').show();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" value="fulltext"> just Company Name			</div>
+			<div class="search-option">
+				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').show()" type="radio" name="searchtype" value="google"> Brands/Product Names<img src="/img/powered-by-google.gif" style="vertical-align:top">
+			</div>
 		</div>
 		<div id="search_for" class="required">
-			<label>Search for : </label>
+			<label style="width:350px">Search for a Business Type, Company Name or a Brand Name</label>
 			<input type="text" id="what" name="what" value="" maxlength="255">
 		</div>
 
@@ -147,6 +157,7 @@ $(document).ready(function () {
 		<div id="browse_categories">
 			<table width="100%">
 				<tbody><tr>
+					<td style="font-weight:bold;white-space:nowrap;width:250px;">Or Search Classifications</td>
 											<td><a href="/classifications/index/A">A</a></td>
 											<td><a href="/classifications/index/B">B</a></td>
 											<td><a href="/classifications/index/C">C</a></td>
@@ -176,6 +187,9 @@ $(document).ready(function () {
 									</tr>
 			</tbody></table>
 		</div>
+		<div id="num1" class="search-number"></div>
+		<div id="num2" class="search-number"></div>
+		<div id="num3" class="search-number"></div>
 	</form>
 </div>
 						</div>
@@ -410,12 +424,14 @@ have regarding our privacy statement. </font></font><font color="#0000ff"><span 
 						<div id="zone_footer">
 				<div id="zone_footer_inner">
 					<div id="block_copyright">
-						Copyright © 2007, 2008  Qatcom.com - All Rights Reserved					</div>
+						Copyright © 2007-2009  Qatcom.com - All Rights Reserved					</div>
 					<div id="block_footerlinks">
 						<ul>
+							<li><a href="/link-to-us"><span>Link to Us</span></a></li>
+							<li><a href="/contact/recruitment"><span>Recruitment</span></a></li>
 							<li><a href="/stats.pdf" target="_blank"><span>Yesterday's Site User Stats</span></a></li>
 							<li><a href="/listings/stats"><span>Current Advertiser Stats</span></a></li>
-							<li><a href="/pages/privacy"><span>Privacy Policy</span></a></li>
+							<li><a href="/qataryellowpages/privacy"><span>Privacy Policy</span></a></li>
 						</ul>
 					</div>
 				</div>
