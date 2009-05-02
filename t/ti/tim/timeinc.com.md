@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeinc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218221815id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tio%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeinc.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502131111id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tio%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # this site Privacy Policy
 
@@ -9,10 +9,12 @@
 * The Information We Collect
 * How We Use the Information 
 * Collection of Information by Third-Party Sites and Sponsors
+* Privacy Options
 * Cookies
 * Our Commitment to Security
 * How You can Access or Correct Information
 * Special Note for Parents
+* Changes to this Notice
 * How to Contact Us
 | 
 
@@ -21,7 +23,7 @@
 
 |    
   
-This is the Privacy Policy for the United States of America. 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/tio?dnp_source=E) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/tio?dnp_source=E). 
 
 Thank you for visiting this site, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
 
@@ -75,7 +77,7 @@ Time Inc. sites will not use or transfer personally identifiable information pro
 **Collection of Information by Third-Party Sites and Sponsors**  
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Inc. has no control over the third-party sponsors' use of this information. The Time Inc. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
+Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
 
 Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
 
@@ -114,4 +116,4 @@ Attention: Consumer Affairs
 Tampa, Florida 33612-6408 
 
 | back to top  
-|  This Privacy Notice was revised 1/18/2007.
+|  This Privacy Notice was revised 4/13/2009.
