@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220235706id_/http%3A//www.zip.ca/dvd/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zip.ca privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502163019id_/http%3A//www.zip.ca/DVD/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Zip.ca
 
