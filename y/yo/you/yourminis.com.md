@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010552id_/http%3A//blog.yourminis.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502102020id_/http%3A//blog.yourminis.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # yourminis
 
