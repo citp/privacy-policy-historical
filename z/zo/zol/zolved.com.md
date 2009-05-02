@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zolved.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529202247id_/http%3A//www.zolved.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolved.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502133545id_/http%3A//www.zolved.com/corp/privacy) for the most accurate reproduction.*
 
-# Zolved - editorial policy - Support and help for problems with iPods, computers, XBox, email, cell phones, PDAs, wireless networks, game consoles and Windows Vista
+# Zolved - privacy policy - Support and help for problems with iPods, computers, XBox, email, cell phones, PDAs, wireless networks, game consoles and Windows Vista
 
 ZOLVED takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
