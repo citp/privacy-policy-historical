@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050411id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502122225id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement - SEOToolSet
 
@@ -8,14 +8,14 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on the SEOToolSet™ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the SEOToolSet® website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Name
   * Address
   * Email address
   * Phone number
   * Credit/Debit Card Information ONLY if you are subscribing / purchasing online 
-  * Additional info appropriate to projects being managed or serviced be SEOToolSet™.com.
+  * Additional info appropriate to projects being managed or serviced be SEOToolSet®.com.
 
 
 
@@ -47,4 +47,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/web/20081217050411id_/http%3A//www.seotoolset.com/contact.html). 
+Should you have other questions or concerns about these privacy policies, please [Contact Us](https://web.archive.org/web/20090502122225id_/http%3A//www.seotoolset.com/contact.html). 
