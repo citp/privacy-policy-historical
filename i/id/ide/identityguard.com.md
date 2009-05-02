@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112938id_/http%3A//www.identityguard.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502140640id_/http%3A//www.identityguard.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IDENTITY GUARD Privacy Policy
 
@@ -80,6 +80,6 @@ If you have questions or comments about our privacy policy, please contact us at
 
 In addition to all other provisions in this privacy policy, the following provisions also apply if you are receiving the specific service(s) identified: 
 
-**Mobile Lockbox TM  Software and Service (the “Mobile Lockbox”):**  Certain parts of the Mobile Lockbox are powered by CashEdge®, a provider of account aggregation services. If you use the parts of Mobile Lockbox powered by CashEdge, we will ask you to provide information needed to access certain third party Web sites such as the type of account, URL, and your User ID and Password used to access these accounts.  Your Mobile Lockbox will contain data you select such as documents, photos, account login information and information that CashEdge has aggregated containing information regarding your accounts and financial relationships as designated by you.
+**Mobile Lockbox®  Software and Service (the “Mobile Lockbox”):**  Certain parts of the Mobile Lockbox are powered by CashEdge®, a provider of account aggregation services. If you use the parts of Mobile Lockbox powered by CashEdge, we will ask you to provide information needed to access certain third party Web sites such as the type of account, URL, and your User ID and Password used to access these accounts.  Your Mobile Lockbox will contain data you select such as documents, photos, account login information and information that CashEdge has aggregated containing information regarding your accounts and financial relationships as designated by you.
 
 **Last Updated April 2008**
