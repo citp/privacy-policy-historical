@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223105011id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502150405id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
 
 # VDict.com - Vietnamese Dictionary and Translation - Từ điển và dịch tiếng Việt » Privacy
 
@@ -36,4 +36,4 @@ We reserve the rights to share traffic statistics reports with our advertising p
 
 Otherwise, no other information is shared to any third party unless required by government or law enforcement agents.
 
-We use outside ad companies (for example Google Adsense) to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Please check their websites for respective privacy policies.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
