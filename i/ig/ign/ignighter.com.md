@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091409id_/http%3A//www.ignighter.com/Page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502091837id_/http%3A//www.ignighter.com/Page/Privacy) for the most accurate reproduction.*
 
-# Group Dating :: Powered by Ignighter : Privacy
+# Group Dating :: Ignighter : Privacy Policy
 
 Thank you for using Ignighter. This privacy policy tells you how we use personal information collected at this site/application. Please read this privacy policy before using the site/application or submitting any personal information. By using the site/application, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you use the site/application to make sure that you understand how any personal information you provide will be used. Note: The privacy practices set forth in this privacy policy are for this site/application only. If you link to other web sites or applications. Please review the privacy policies posted at those sites. We collect personally identifiable information, like names, screen names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
 
@@ -20,6 +20,6 @@ Ignighter is a site/application only for those 18 years of age and up. No minors
 
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. Ignighter uses industry standard practices to safeguard the confidentiality of your personal identifiable information. Ignighter treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. 
 
-###  Privacy Contact Information
+### Contacting us About This Policy
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us at help@ignighter.com. 
+If you have any questions about this policy, or wish to report violators of this policy, [contact us](http://www.ignighter.com/Page/Contact/).
