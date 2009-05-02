@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025625id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502201710id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
-# About 123newyear.com
+# Privacy Policy - 123newyear.com
+
+1\. What identifiable information is collected from me?
+
+123newyear.com may collect information in one or more ways from different parts of our network of Web sites. 123newyear.com may ask you for personal information at times, including, but not limited to, when you enter in a contest or promotion sponsored by 123newyear.com and/or our other contracted partners; and when you report a problem with one of our sites or services. 123newyear.com occasionally may also ask site user to complete surveys that are use for internal research. Wherever 123newyear.com collects personal information an effort is made to include a link to this Privacy Policy on that page. 
 
 **2\. What are cookies and how 123newyear.com uses them?**
 
@@ -40,3 +44,6 @@ Sponsors & Business Partners: : 123newyear.com may disclose your personal inform
 During many promotions offers you may be requested for additional information from sponsors. By requesting more information, you give 123newyear.com permission to transfer your personal information to the sponsor so they can fulfil your request. In majority of instances, only your email address will be shared. 
 
 Third Party Data & Data Comparisons: Under confidentiality agreements, 123newyear.com may match user information with third party data. Also, 123newyear.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
+
+**5\. Third Party Advertising:**  
+We use third-party advertising companies to serve ads when you visit our website. Our third-party advertising companies also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this website. These companies may use information (not including your name, address e-mail address or telephone number) about your visits to and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit their respective privacy policies.
