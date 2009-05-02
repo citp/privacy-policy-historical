@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081314id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502180832id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Taste.com.au
 
