@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051100id_/http%3A//www.hiltongrandvacations.com/hilton-grand-vacations-club-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502044359id_/http%3A//www.hiltongrandvacations.com/hilton-grand-vacations-club-privacy-policy.php) for the most accurate reproduction.*
 
 # Hilton Grand Vacations - Timeshare Vacation Ownership
 
@@ -46,7 +46,7 @@ BACK TO TOP
 
 #### Use of Personal Information Collected About You
 
-We use your personal information to provide the services you request from Hilton such as to facilitate: reservations; the purchase of a vacation package or timeshare; purchases from the Hilton To Home™; the booking of airfares and rental cars; membership in the HHonors program; and other transactions. We also use the personal information to provide you with information about meeting and event planning and access to specific account information for administrative purposes. In addition, we may use the information to: improve Hilton's services; provide you with the expected level of hospitality; and ensure the site is of interest to you. We also use details to send you newsletters, promotions and featured specials, and to conduct online surveys, sweepstakes, prize draws, and other contests via email, telephone or postal mail. If you apply for employment with Hilton, we use the personal information you supply to process your job application. 
+We use your personal information to provide the services you request from Hilton such as to facilitate: reservations; the purchase of a vacation package or timeshare; purchases from the Hilton To HomeT; the booking of airfares and rental cars; membership in the HHonors program; and other transactions. We also use the personal information to provide you with information about meeting and event planning and access to specific account information for administrative purposes. In addition, we may use the information to: improve Hilton's services; provide you with the expected level of hospitality; and ensure the site is of interest to you. We also use details to send you newsletters, promotions and featured specials, and to conduct online surveys, sweepstakes, prize draws, and other contests via email, telephone or postal mail. If you apply for employment with Hilton, we use the personal information you supply to process your job application. 
 
 BACK TO TOP
 
