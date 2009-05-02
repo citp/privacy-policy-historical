@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220085504id_/http%3A//www.lpi.org/eng/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502072402id_/http%3A//www.lpi.org/eng/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - LPI -
 
@@ -49,4 +49,4 @@ LPI does not knowingly collect or solicit Personally Identifiable Information fr
 
 LPI reserves the right to change this policy at any time. Please check this page periodically for changes. Continued use of LPI's site following the posting of changes to these terms indicates acceptance of those changes. 
 
-Anyone wishing to change information provided to LPI, provide details of any known violations, or offer any comments or questions regarding this Privacy Policy, is asked to contact us at [info@lpi.org](mailto:info@lpi.org)
+Anyone wishing to change information provided to LPI, provide details of any known violations, or offer any comments or questions regarding this Privacy Policy, is asked to contact us at [info@lpi.org](mailto:info@lpi.org) .
