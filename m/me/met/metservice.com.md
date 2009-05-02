@@ -1,73 +1,79 @@
-> *The following text is extracted and transformed from the metservice.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216074447id_/http%3A//www.metservice.com/default/index.php%3Falias%3Dprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502175512id_/http%3A//www.metservice.com/public/aboutThisSite/privacy-statement.html) for the most accurate reproduction.*
 
-# Information Privacy Statement:MetService.com - Weather
+# Privacy Statement:MetService.com - Weather
 
-MetService is an agency for the purposes of the Privacy Act 1993 ("the Act"). We understand the need to safeguard your personal information and respect your rights under the Act.
+MetService is an agency for the purposes of the Privacy Act 1993 ("the Act"). We understand the need to safeguard your personal information and respect your rights under the Act. 
 
-From time to time when you visit www.metservice.co.nz (the "Site") we collect, retain and use information about you that we consider will help us to operate our business and provide you with relevant services and information.
+From time to time when you visit www.metservice.co.nz (the "Site") we collect, retain and use information about you that we consider will help us to operate our business and provide you with relevant services and information. 
 
-  
-**Who are "We"?  
-** In this Privacy Policy, all references to "we", "us", and "our" refer to MetService. 
+**Who are "We"?**
 
-You can contact us via our [web contact form here](https://web.archive.org/web/20081216074447id_/http%3A//www.metservice.com/default/index.php?alias=contacts).
+In this Privacy Policy, all references to "we", "us", and "our" refer to MetService. 
 
-Our postal address is:  
-Meteorological Service of New Zealand Limited  
-30 Salamanca Road  
-Kelburn  
-PO Box 722  
-Wellington  
-New Zealand
+You can contact us via our [ web contact form here. ](https://web.archive.org/public/aboutThisSite/faq-contacts.html)
 
-  
-**Information Collected  
-** When you visit the Site, our server logs information which is provided by your browser. This information is:
+Our postal address is: 
 
-  * The type of browser you used.
-  * The date and time of your visit.
-  * Your top level domain name (e.g. ".nz", ".com").
-  * The address of any web site that referred you to the Site.
-  * Your server's "IP address". An IP address is a number which is unique to the computer through which you are connected to the Internet. This computer will normally be operated by your Internet Service Provider.)
-  * The address(es) of the page(s) on the Site you browsed to.
-  * The address(es) of the document(s) you downloaded.
-  * The search engine you used (if any), and which keywords or phrases you searched with.
+Meteorological Service of New Zealand Limited 
 
+30 Salamanca Road 
 
+Kelburn 
+
+PO Box 722 
+
+Wellington 
+
+New Zealand 
+
+**Information Collected**
+
+When you visit the Site, our server logs information which is provided by your browser. This information is: 
 
   
-**How We Use Your Information  
-**We do not sell, publish or give away your information. We will only use the information that you provide about yourself for statistical analysis and systems administration purposes. We may provide your information to independent auditors for the limited purpose of verifying usage statistics. In certain circumstances, we may be obliged to disclose information to law enforcement or other government officials: for example, in connection with an investigation of fraud or any other activity that is illegal, or that may expose us to legal liability. The information may be hosted with a service provider. Our agreements with them protect the information that we collect from any use by them that we have not authorised. The aggregated data (not personally identifiable information) may be shared with third parties such as advertisers or business partners. 
 
-  
-**Additional Terms  
-** From time to time we may offer services on the Site for which we require you to provide additional information. There are additional privacy terms that apply to those specific services, as posted on the relevant page of the Site, that you must accept if you wish to make use of those particular services.
 
-  
-**Your Right to Access and Correct Your Information  
-** We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by [getting in contact with us](https://web.archive.org/web/20081216074447id_/http%3A//www.metservice.com/default/index.php?alias=contacts).
+  * The type of browser you used. 
+  * The date and time of your visit. 
+  * Your top level domain name (e.g. ".nz", ".com"). 
+  * The address of any web site that referred you to the Site. 
+  * Your server's "IP address". An IP address is a number which is unique to the computer through which you are connected to the Internet. This computer will normally be operated by your Internet Service Provider.) 
+  * The address(es) of the page(s) on the Site you browsed to. 
+  * The address(es) of the document(s) you downloaded. 
+  * The search engine you used (if any), and which keywords or phrases you searched with. 
 
-  
-**E-mail Addresses  
-**We will only record your e-mail address if you send us an e-mail message or subscribe to an e-mail list. Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list except on your request. We will not disclose your e-mail address without your consent. You will always have the option to opt in or opt out of services at any stage.
 
-  
-**Subscription and Feedback Forms  
-** Certain pages on the Site enable you to complete an online form to subscribe to a particular service or to provide us with feedback. We ask you to provide only sufficient personal information for that purpose. We record this information only for follow up and statistical analysis and only our authorised employees have access to this information.
 
-  
-**Cookies  
-**"Cookies" are pieces of user-specific information generated by a web server and stored in the user's computer, ready for future access. A cookie does not provide us with personally identifiable information.  Cookies are collected on this site by a third-party, Neilsen NetRatings, for use in analysing web traffic and trends on our site. Neilsen NetRatings' privacy policy regarding the information they collect can be found [here](http://www.nielsen-netratings.com/corp.jsp?section=leg_prs).  If you would rather we did not use cookies with you, you can turn them off in your browser and/or delete them from your hard drive.  You will still be able to visit our sites.
+**How We Use Your Information**
 
-  
-**Searches  
-** Search terms that you may enter when using the Search engine on the Site are collected, but are not associated with any other information that we collect. We analyse the way the Site is searched to improve the Site for users.
+We do not sell, publish or give away your information. We will only use the information that you provide about yourself for statistical analysis and systems administration purposes. We may provide your information to independent auditors for the limited purpose of verifying usage statistics. In certain circumstances, we may be obliged to disclose information to law enforcement or other government officials: for example, in connection with an investigation of fraud or any other activity that is illegal, or that may expose us to legal liability. The information may be hosted with a service provider. Our agreements with them protect the information that we collect from any use by them that we have not authorised. The aggregated data (not personally identifiable information) may be shared with third parties such as advertisers or business partners. 
 
-  
-**Modification  
-** We may add to, remove or change the provisions of this Privacy Policy from time to time. All additions and changes will be notified to you by being posted on this page. It is your responsibility as a user to refer to these additions and changes.
+**Additional Terms**
+
+From time to time we may offer services on the Site for which we require you to provide additional information. There are additional privacy terms that apply to those specific services, as posted on the relevant page of the Site, that you must accept if you wish to make use of those particular services. 
+
+**Your Right to Access and Correct Your Information**
+
+We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by getting in contact with us. 
+
+**E-mail Addresses**
+
+We will only record your e-mail address if you send us an e-mail message or subscribe to an e-mail list. Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list except on your request. We will not disclose your e-mail address without your consent. You will always have the option to opt in or opt out of services at any stage. 
+
+**Subscription and Feedback Forms**
+
+Certain pages on the Site enable you to complete an online form to subscribe to a particular service or to provide us with feedback. We ask you to provide only sufficient personal information for that purpose. We record this information only for follow up and statistical analysis and only our authorised employees have access to this information. 
+
+**Cookies**
+
+"Cookies" are pieces of user-specific information generated by a web server and stored in the user's computer, ready for future access. A cookie does not provide us with personally identifiable information. Cookies are collected on this site by a third-party, Neilsen NetRatings, for use in analysing web traffic and trends on our site. Neilsen NetRatings' privacy policy regarding the information they collect can be found here. If you would rather we did not use cookies with you, you can turn them off in your browser and/or delete them from your hard drive. You will still be able to visit our sites. 
+
+**Searches**
+
+Search terms that you may enter when using the Search engine on the Site are collected, but are not associated with any other information that we collect. We analyse the way the Site is searched to improve the Site for users. 
+
+**Modification**
+
+We may add to, remove or change the provisions of this Privacy Policy from time to time. All additions and changes will be notified to you by being posted on this page. It is your responsibility as a user to refer to these additions and changes. 
 
 This document last updated: June 10, 2008 
-
-  
-
