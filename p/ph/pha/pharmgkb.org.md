@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226105548id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmgkb.org privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502040547id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.*
 
-# PharmGKB: Website Privacy Policy
+# Website Privacy Policy [PharmGKB]
 
 PharmGKB has adopted a set of information management guidelines which serve as the basis for our relationship with our users. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email.
 
@@ -52,3 +52,5 @@ Upon request, PharmGKB will
 
 
 Please note that since PharmGKB accounts are tied to data submissions, users cannot cancel their accounts.
+
+The [PGRN](http://www.nigms.nih.gov/Initiatives/PGRN/) is financially supported by grants from [NIGMS](http://www.nigms.nih.gov/), [NHLBI](http://www.nhlbi.nih.gov/), [NHGRI](http://www.nhgri.nih.gov/), [NIEHS](http://www.niehs.nih.gov/), [NCI](http://www.nci.nih.gov/), and [NLM](http://www.nlm.nih.gov/) within the [NIH](http://www.nih.gov/), [HHS](http://www.os.dhhs.gov/). PharmGKB is managed at [Stanford University](http://www.stanford.edu/). This work is supported by the NIH/NIGMS Pharmacogenetics Research Network and Database (U01GM61374). ©2001-2009 PharmGKB. 
