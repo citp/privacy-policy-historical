@@ -1,25 +1,19 @@
-<!--The following is the downloaded HTML source of the wowktv.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012327id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowktv.com privacy policy that was archived on 2009-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502162825id_/http%3A//wowktv.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript">
-window.google_analytics_uacct = "UA-1162494-1";
-</script>
-
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	
-	<title>WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia - WBOY.com</title>
+	<title>WOWK-TV – News for Charleston and Huntington, West Virginia - WOWKTV.com</title>
 	
 	<meta name="AUTHOR" content="jtester@wvmh.com">
-    <link rel="alternate" title="12 News RSS Feed" href="http://feeds.feedburner.com/Wboy-tv12NewsFeaturedContent" type="application/rss+xml">
-	<link rel="SHORTCUT ICON" href="http://www.wboy.com/WBOY_favicon.ico">
+    <link rel="alternate" title="13 News RSS Feed" href="http://feeds.feedburner.com/Wowk-tv13NewsFeaturedContent" type="application/rss+xml">
+	<link rel="SHORTCUT ICON" href="http://www.wowktv.com/WOWK_favicon.ico">
 	
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="anylink.css">
 	<script src="script/prototype.js"></script>
     <script type="text/javascript" src="script/player.js"></script>
-	<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js"></script>
+	
 	<script language="JavaScript" type="text/javascript">
 	<!--
 		var size=10;
@@ -39,117 +33,7 @@ window.google_analytics_uacct = "UA-1162494-1";
 	<script>
 		var stationpid = 1233991;
 	</script>
-	<script type="text/javascript">
-
-function countdown_clock(year, month, day, hour, minute)
-         {
-         //I chose a div as the container for the timer, but
-         //it can be an input tag inside a form, or anything
-         //who's displayed content can be changed through
-         //client-side scripting.
-       	 html_code = '<div id="clock">Count Downt</div>';
-         document.write(html_code);
-
-         countdown(year, month, day, hour, minute);
-         }
-
-function countdown(year, month, day, hour, minute)
-         {
-         Today = new Date();
-         Todays_Year = Today.getFullYear() - 2000;
-         Todays_Month = Today.getMonth() + 1;
-
-         //Convert both today's date and the target date into miliseconds.
-         Todays_Date = (new Date(Todays_Year, Todays_Month, Today.getDate(),
-                                 Today.getHours(), Today.getMinutes(), Today.getSeconds())).getTime();
-         Target_Date = (new Date(year, month, day, hour, minute, 00)).getTime();
-
-         //Find their difference, and convert that into seconds.
-         Time_Left = Math.round((Target_Date - Todays_Date) / 1000);
-
-         if(Time_Left < 0)
-            Time_Left = 0;
-
-        //More datailed.
-        days = Math.floor(Time_Left / (60 * 60 * 24));
-        Time_Left %= (60 * 60 * 24);
-        hours = Math.floor(Time_Left / (60 * 60));
-        Time_Left %= (60 * 60);
-        minutes = Math.floor(Time_Left / 60);
-        Time_Left %= 60;
-        seconds = Time_Left;
-
-        dps = 's'; hps = 's'; mps = 's'; sps = 's';
-        //ps is short for plural suffix.
-        if(days == 1) dps ='';
-        if(hours == 1) hps ='';
-        if(minutes == 1) mps ='';
-        if(seconds == 1) sps ='';
-		sContent = '<table><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr><tr>';
-        sContent += '<td align="center">' + days + '</td>';
-        sContent += '<td align="center">' + hours + '</td>';
-        sContent += '<td align="center">' + minutes + '</td>';
-        sContent += '<td align="center">' + seconds + '</td>';
-        sContent += '</tr></table>';
-		document.getElementById("clock").innerHTML = sContent;
-         //Recursive call, keeps the clock ticking.
-         setTimeout('countdown(' + year + ',' + month + ',' + day + ',' + hour + ',' + minute + ');', 1000);
-         }
-
-</script> <script type="text/javascript">
-
-function countdownclock(TargetDate,message)
-         {
-         //I chose a div as the container for the timer, but
-         //it can be an input tag inside a form, or anything
-         //who's displayed content can be changed through
-         //client-side scripting.
-       	 html_code = '<div id="clock">Count Down</div>';
-         document.write(html_code);
-
-		//Convert both today's date and the target date into miliseconds.
-		var dthen = new Date(TargetDate);
-		var dnow = new Date();
-		ddiff = new Date(dthen-dnow)
-		secondsLeft = Math.floor(ddiff.valueOf()/1000);
-
-         countdownStep(secondsLeft,message);
-         }
-
-		function countdownStep(secondsLeft,message)
-		{
-			var Time_Left = secondsLeft;
-			if(Time_Left <= 0) {
-				document.getElementById("clock").innerHTML = message;
-			} else {
-				//More datailed.
-				days = Math.floor(Time_Left / (60 * 60 * 24));
-				Time_Left %= (60 * 60 * 24);
-				hours = Math.floor(Time_Left / (60 * 60));
-				Time_Left %= (60 * 60);
-				minutes = Math.floor(Time_Left / 60);
-				Time_Left %= 60;
-				seconds = Time_Left;
-
-				dps = 's'; hps = 's'; mps = 's'; sps = 's';
-				//ps is short for plural suffix.
-				if(days == 1) dps ='';
-				if(hours == 1) hps ='';
-				if(minutes == 1) mps ='';
-				if(seconds == 1) sps ='';
-				sContent = '<table><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr><tr>';
-				sContent += '<td align="center">' + days + '</td>';
-				sContent += '<td align="center">' + hours + '</td>';
-				sContent += '<td align="center">' + minutes + '</td>';
-				sContent += '<td align="center">' + seconds + '</td>';
-				sContent += '</tr></table>';
-				document.getElementById("clock").innerHTML = sContent;
-				//Recursive call, keeps the clock ticking.
-				setTimeout("countdownStep(" + (secondsLeft - 1) + ",'" + message + "');", 1000);
-			}
-		}
-
-</script>
+	
 	<script src="/ajax/ajax.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript" src="anylink.js"></script>
 <script type="text/javascript">
@@ -157,7 +41,7 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1162494-1");
+var pageTracker = _gat._getTracker("UA-1162494-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
@@ -168,10 +52,34 @@ pageTracker._trackPageview();
 			id = day.getTime();
 			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=468,height=400,left = 390,top = 262');");
 		}
-	</script>	
-	
-		<meta name="verify-v1" content="1EpJ1ZjPhre01l/10X5+Y3SvqmGzflGj0Mm3sqReiAU=">
+	</script>
+    
+    
+		<meta name="verify-v1" content="+UuP6+PHx7leRTem/GdhTKWUB9kne46w10UpRx9C0z4=">
 		
+    <!-- GAM Code -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-2002919111560324");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_TopPromoF_ALL_734x75");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_LeaderBoard_News_728x90");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_TopBOX_News_300x250");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_Skyscraper_News_160x600");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_BOX2_LR_300x250");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_SmallBanner1_ALL_234x60");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_SmallBanner2_ALL_234x60");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_SmallBanner3_ALL_234x60");
+  GA_googleAddSlot("ca-pub-2002919111560324", "WOWK_BStory_News_468x60"); 
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END GAM Code -->
+
 <script type="text/javascript" src="scriptz/cfform.js"></script>
 <script type="text/javascript" src="scriptz/masks.js"></script>
 <script type="text/javascript">
@@ -211,48 +119,38 @@ pageTracker._trackPageview();
     }
 //-->
 </script>
-</head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" link="#052F6B" vlink="#052F6B" alink="#052F6B">
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-1162494-2";
+</script></head>
 
-<table width="1024" cellpadding="0" cellspacing="0" border="0">
+
+
+<body bgcolor="#E2E2E2" topmargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" link="#052F6B" vlink="#052F6B" alink="#052F6B">
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td align="left" valign="top">
-			<table width="1024" cellpadding="0" cellspacing="0" border="0" height="92">
-				<tbody><tr>					
+		<td align="center" valign="top" background="images/newTopBck.gif" style="background-repeat:repeat-x; background-color:#FFFFFF">
+<table width="1024" cellpadding="0" cellspacing="0" border="0" height="92">
+				<tbody><tr>
+                <td colspan="2" align="right"><b><font size="-2">Full Version | <a href="http://mobile.WOWKTV.com">Mobile Newscast</a></font></b></td>
+                </tr>
+				<tr>					
 					
-					<td align="left" valign="top" width="290"><a href="index.cfm"><img src="images/channel_WBOY.gif" width="290" height="90" alt="WBOY Home" border="0"></a></td>
+					<td align="left" valign="top" width="290"><a href="index.cfm"><img src="images/channel_WOWK.gif" width="290" height="90" alt="WOWK Home" border="0"></a></td>
 					
-					<td align="center" bgcolor="#ffffff" valign="top" width="734">
-                    	<table cellpadding="0" cellspacing="0" border="0" width="734" background="images/newTopBck.gif" style="background-repeat:repeat-x;">
+					<td align="center" valign="top" width="734">
+                    	<table cellpadding="0" cellspacing="0" border="0" width="734">
                         	<tbody><tr>
                             	<td height="75" valign="top">
                                 	
                                     
-                                    <!-- BEGIN ADVERTPRO CODE BLOCK -->
+                                    <script type="text/javascript">
+									  GA_googleFillSlot("WOWK_TopPromoF_ALL_734x75");
+									</script>
                                     
-                                    <!-- Zone ID: 118 -->
-                                    <!-- Zone Name: TopPromo -->
-                                    <!-- Size ID: 29 -->
-                                    <!-- Size Name: Full Top Promo -->
-                                    <!-- Size Width: 734 -->
-                                    <!-- Size Height: 75 -->
+                                
                                     
-                                    <script language="JavaScript" type="text/javascript">
-                                    <!--
-                                    document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=118&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-                                    //-->
-                                    </script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=118&amp;pid=0&amp;random=65810371&amp;millis=1580461339764" language="JavaScript" type="text/javascript"></script>
-                                    <noscript>
-                                    <A href="http://wvmh.advertserve.com/servlet/click/zone?zid=118&pid=0&lookup=true&position=1" target="_top">
-                                    <IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=118&pid=0&position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
-                                    </A>
-                                    </noscript>
-                                    
-                                    <!-- END ADVERTPRO CODE BLOCK -->
-                                    
-                                    
-                                    
-                                </td>
+                                                                    </td>
                             </tr>
                             <tr>
                             	<td style="padding-left:5px;" valign="top">
@@ -260,16 +158,12 @@ pageTracker._trackPageview();
 									
                                     
                                                 <div class="body">
-                                                <!--QUICK LINKS--> <strong><!--<font color="red">QUICK LINKS:</font> --><a href="links.cfm">Featured Links</a> | <a href="/digitaltv.cfm">About Digital TV</a> | <a href="localjobs.cfm">Local Jobs on WBOY.com</a><!-- | <a href="http://www.kqzyfj.com/click-2753423-10412214">Shop NBC</a> | <a href="/survey.cfm?surveyid=29">WVU Sports Forum</a>--> | <a href="WBOYhsaotw.cfm">HS Athlete Of The Week</a> | <a target="_blank" href="http://www.active.com/donate/MI09wpa/macall_allen">Macall's Run for a Cure</a></strong> 
-                                                </div>
-                                                                               
-                                </td>
+                                                <!--QUICK LINKS--> <strong><!--<font color="red">QUICK LINKS:</font> --><a href="links.cfm">Featured Links</a><!-- | <a href="/digitaltv.cfm">About Digital TV</a> | <a href="http://www.wowktv.com/blog.cfm">Weather Blender Blog</a>--> | <a href="story.cfm?func=showstories&amp;catid=306">High School Hometown</a> | <a href="story.cfm?func=viewstory&amp;storyid=47524">Gas Price Tracker</a> | <a href="http://wowktv.upickem.net/engine/Welcome.aspx?contestid=6626">Dogwood Arts Festival: Win Tickets</a> | <a href="story.cfm?func=showstories&amp;catid=334">Tamarack Featured Artists</a><!-- | <a href="mobile.cfm"><span style="color: rgb(255, 0, 0);">NEW:</span> WOWK Mobile Newscast</a>--></strong>                                                 </div>
+                                                                            </td>
                             </tr>
-                        </tbody></table>
-					</td>
+                        </tbody></table>					</td>
 				</tr>
-			</tbody></table>
-		</td>
+			</tbody></table>		</td>
 	</tr>
 	<tr valign="top">
 		<td align="left" bgcolor="#000000" height="1"><img src="images/spacer.gif" width="1" height="1" alt="" border="0"></td>
@@ -284,16 +178,26 @@ pageTracker._trackPageview();
         
        		<a class="topmenu" href="/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 	        
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')">NEWS</a><div id="anylinkmenu1" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=2">Local News</a><a href="regionalNews.cfm">Regional News</a><a href="nationalNews.cfm">National News</a><a href="http://feeds.feedburner.com/Wboy-tv12NewsFeaturedContent" target="new">Subscribe to News Feeds</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')">WEATHER</a><div id="anylinkmenu2" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=42">StormTracker 12</a><a href="http://www.boomboxradio.net/boombox/WBOY/weather/index.html" target="new">Current Forecast Video</a><a href="weatheralerts.cfm">Weather Alerts</a><a href="forms.cfm?func=severeweather">Report &amp; Share:<div style="padding-left:5px;">Severe Weather/Photos/Video</div></a><a href="page.cfm?pageid=539">Weather Links</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')">SPORTS</a><div id="anylinkmenu3" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=3">Local Sports</a><a href="regionalSports.cfm">Regional Sports</a><a href="nationalSports.cfm">National Sports</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')">LIFESTYLES</a><div id="anylinkmenu4" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=37">Consumer</a><a href="story.cfm?func=showstories&amp;catid=36">Health</a><a href="story.cfm?func=showstories&amp;catid=248">Autos</a><a href="story.cfm?func=showstories&amp;catid=46">Travel</a><a href="story.cfm?func=showstories&amp;catid=247">Pets</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu5')">OPINION</a><div id="anylinkmenu5" class="anylinkcss" style="text-align:left;"><a href="poll.cfm?func=viewoldpolls">Polls</a><a href="story.cfm?func=showstories&amp;catid=203">Bray Cary</a><a href="story.cfm?func=showstories&amp;catid=181">Dan Page</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')">COMMUNITY</a><div id="anylinkmenu6" class="anylinkcss" style="text-align:left;"><a href="events.cfm">Community Calendar</a><a href="events.cfm?func=submitevent"> - Submit An Event</a><a href="special_promotions.cfm">WBOY Special Events</a><a href="slideshow.cfm">Slideshows</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu7')">PROGRAMMING</a><div id="anylinkmenu7" class="anylinkcss" style="text-align:left;"><a href="schedule.cfm">Schedule</a><a href="wvtonightlive.cfm">WV Tonight Live</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')">NEWS</a>
+            <div id="anylinkmenu1" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=2">Local News</a><a href="regionalNews.cfm">Regional News</a><a href="nationalNews.cfm">National News</a><a href="http://feeds.feedburner.com/Wowk-tv13NewsFeaturedContent" target="new"><img src="/images/rssmenu.jpg" width="13" height="13" border="0">Subscribe to Top Stories News Feed</a><a href="http://feeds2.feedburner.com/WOWK-TV2" target="new"><img src="/images/rssmenu.jpg" width="13" height="13" border="0">Subscribe to Latest News Feed</a></div>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')">WEATHER</a>
+            <div id="anylinkmenu2" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=42">StormTracker 13</a><a href="http://www.boomboxradio.net/boombox/WOWKTV/weather/index.html" target="new">Current Forecast Video</a><a href="forms.cfm?func=severeweather">Report &amp; Share:<div style="padding-left:5px;">Severe Weather/Photos/Video</div></a><a href="page.cfm?pageid=539">Weather Links</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')">SPORTS</a>
+            <div id="anylinkmenu3" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=3">Local Sports</a><a href="regionalSports.cfm">Regional Sports</a><a href="nationalSports.cfm">National Sports</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')">LIFESTYLES</a>
+            <div id="anylinkmenu4" class="anylinkcss" style="text-align:left;"><a href="story.cfm?func=showstories&amp;catid=37">Consumer</a><a href="story.cfm?func=showstories&amp;catid=36">Health</a><a href="story.cfm?func=showstories&amp;catid=248">Autos</a><a href="story.cfm?func=showstories&amp;catid=46">Travel</a><a href="story.cfm?func=showstories&amp;catid=247">Pets</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu5')">OPINION</a>
+			<div id="anylinkmenu5" class="anylinkcss" style="text-align:left;"><a href="poll.cfm?func=viewoldpolls">Polls</a><a href="story.cfm?func=showstories&amp;catid=203">Bray Cary</a><a href="story.cfm?func=showstories&amp;catid=181">Dan Page</a><a href="wvtonightlive.cfm">April's Blog</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')">COMMUNITY</a>
+            <div id="anylinkmenu6" class="anylinkcss" style="text-align:left;"><a href="events.cfm">Community Calendar</a><a href="events.cfm?func=submitevent"> - Submit An Event</a><a href="special_promotions.cfm">WOWK Special Events</a><a href="slideshow.cfm">Slideshows</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu7')">PROGRAMMING</a>
+			<div id="anylinkmenu7" class="anylinkcss" style="text-align:left;"><a href="schedule.cfm">Schedule</a><a href="fullepisodes.cfm">Watch Full Episodes Online</a><a href="wvtonightlive.cfm">WV Tonight Live</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="story.cfm?func=showstories&amp;catid=208" class="topmenu">DECISION MAKERS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu8')">ABOUT WBOY</a><div id="anylinkmenu8" class="anylinkcss" style="text-align:left;"><a href="page.cfm?pageid=100">Our News Philosophy</a><a href="bios.cfm">Staff Bios</a><a href="jobs.cfm">Job Openings</a><a href="internship.cfm"> - Internship Programs</a><a href="WBOY_eeo.xls"> - EEO File</a><a href="page.cfm?pageid=102">Advertise With Us</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu9')">CONTACT WBOY</a><div id="anylinkmenu9" class="anylinkcss" style="text-align:left;"><a href="page.cfm?pageid=101">Contact WBOY</a><a href="page.cfm?pageid=102">Advertise With Us</a><a href="forms.cfm?func=breakingnews">Report &amp; Share:<div style="padding-left:5px;">Breaking News/Photos/Video</div></a><a href="forms.cfm?func=newstip">Submit a Story Idea</a><a href="formSignalStrength.cfm">Report a Signal Strength Issue</a><a href="page.cfm?pageid=111">Request a Special Appearance</a></div>
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu8')">ABOUT WOWK</a>
+            <div id="anylinkmenu8" class="anylinkcss" style="text-align:left;"><a href="page.cfm?pageid=100">Our News Philosophy</a><a href="bios.cfm">Staff Bios</a><a href="jobs.cfm">Job Openings</a><a href="internship.cfm"> - Internship Programs</a><a href="publicfile.cfm"> - EEO File</a><a href="page.cfm?pageid=102">Advertise With Us</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="topmenu" href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu9')">CONTACT WOWK</a>
+            <div id="anylinkmenu9" class="anylinkcss" style="text-align:left;"><a href="page.cfm?pageid=101">Contact WOWK</a><a href="page.cfm?pageid=102">Advertise With Us</a><a href="forms.cfm?func=breakingnews">Report &amp; Share:<div style="padding-left:5px;">Breaking News/Photos/Video</div></a><a href="forms.cfm?func=newstip">Submit a Story Idea</a><a href="formSignalStrength.cfm">Report a Signal Strength Issue</a><a href="page.cfm?pageid=111">Request a Special Appearance</a></div>
 		</td>
 
 		
@@ -303,39 +207,25 @@ pageTracker._trackPageview();
 </tbody></table>
 
 
-<table cellpadding="0" cellspacing="0" width="1024" border="0" bgcolor="#E2E2E2">
+<table cellpadding="0" cellspacing="0" width="1024" align="center" border="0" bgcolor="#E2E2E2">
 	<tbody><tr>
     	<td colspan="2" height="5"><img scr="images/spacer.gif" width="1" height="5"></td>
     </tr>
     <tr>
-    	<td width="728" valign="top">
-		<div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<!-- Zone ID: 1 -->
-<!-- Zone Name: WBOY-Leaderboard -->
-<!-- Size ID: 19 -->
-<!-- Size Name: Leaderboard (Jumbo Banner) -->
-<!-- Size Width: 728 -->
-<!-- Size Height: 90 -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=1&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=1&amp;pid=0&amp;random=58882043&amp;millis=1580461339793" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=1&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=1&pid=0&position=1" height="90" width="728" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div>       
+    	<td width="728" height="90" valign="top">
+		
+<!-- GAM SLOT LeaderBoard_728x90 -->
+<script type="text/javascript">
+  GA_googleFillSlot("WOWK_LeaderBoard_News_728x90");
+</script>
+<!-- /GAM SLOT LeaderBoard_728x90 -->
+      
         </td>
         <td width="296" valign="top">
         	
 
     <table cellpadding="0" cellspacing="3" width="200" border="0" align="center">
-				<form name="CFForm_1" action="search.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)"></form><input name="func" id="func" type="hidden" value="processsearch">
+				<form name="CFForm_1" action="search.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)"></form> <input name="func" id="func" type="hidden" value="processsearch">
             	<tbody><tr>
                 	<td><input name="keywords" id="keywords" type="text" value="search site" class="body" onfocus="this.value=''" size="38" style="border: 1px solid #7B9EBC;color:#7B9EBC;"></td>
                		<td align="left"><input name="go" id="go" type="image" alt="GO!" src="images/searchButton.gif" border="0"></td>
@@ -352,7 +242,7 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 	
 	<tbody><tr>
 		
-		<td bgcolor="#ffffff" style="color:#000000; font-weight:bold; font-family:,Arial,Helvetica,sans-serif; font-size:8pt;border-bottom:1px solid #727272;" height="20" background="images/hd_bkgrnd.gif">What's On WBOY Now?</td><td align="right" style="border-bottom:1px solid #727272;" background="images/hd_bkgrnd.gif"><a id="hlSchedule" href="http://www.wboy.com/schedule.cfm" target="_self" style="color:#000000; font-weight:bold; font-family:,Arial,Helvetica,sans-serif; font-size:8pt; text-decoration:none;">Full Listings</a></td>
+		<td bgcolor="#ffffff" style="color:#000000; font-weight:bold; font-family:,Arial,Helvetica,sans-serif; font-size:8pt;border-bottom:1px solid #727272;" height="20" background="images/hd_bkgrnd.gif">What's On WOWK-DT Now?</td><td align="right" style="border-bottom:1px solid #727272;" background="images/hd_bkgrnd.gif"><a id="hlSchedule" href="http://www.wowktv.com/schedule.cfm" target="_self" style="color:#000000; font-weight:bold; font-family:,Arial,Helvetica,sans-serif; font-size:8pt; text-decoration:none;">Full Listings</a></td>
 	</tr>
 	
 	
@@ -361,14 +251,14 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 			<table cellspacing="0" cellpadding="0" border="0" width="100%">
 				
 				<tbody><tr>
-					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" nowrap="">8:00 PM:&nbsp;</td>
-					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" width="90%"><a title="Chuck Versus Santa Claus: An amateur criminal on the run from the police crashes into the Buy More and decides to take Chuck, Ellie, Awesome and the rest of the gang hostage, and Chuck will not leave them behind when Sarah and Casey come to the rescue." style="color:#000000; text-decoration:none;">Chuck</a></td>
+					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" nowrap="">12:00 PM:&nbsp;</td>
+					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" width="90%"><a title="Sushis of a Certain Stature; A Very Big Deal: The Pack is disappointed to learn that they will not be having a statue made of them; Iruka is turned into a giant by a broken shrink ray." style="color:#000000; text-decoration:none;">Sushi Pack</a></td>
 					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;">&nbsp;</td>
 				</tr>
 				
 				<tr>
-					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" nowrap="">9:00 PM:&nbsp;</td>
-					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" width="90%"><a title="Duality: In the aftermath of the showdown with Arthur Petrelli, Peter and Nathan face off against one another; Sylar holds Claire, H.R.G., Meredith and Angela hostage; Ando, Matt and Daphne seek Suresh's help as they try to rescue Hiro." style="color:#000000; text-decoration:none;">Heroes</a></td>
+					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" nowrap="">12:30 PM:&nbsp;</td>
+					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;" width="90%"><a title="Sponsored television programming." style="color:#000000; text-decoration:none;">Paid Program</a></td>
 					<td valign="top" style="border-bottom:1px solid #A7A7BF; font-weight:bold; font-family:Arial,,Helvetica,sans-serif; font-size:8pt; padding:0px; font-weight:bold; color:#666666;">&nbsp;</td>
 				</tr>
 				
@@ -389,8 +279,22 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 
 
 
+<table width="1024" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#E2E2E2" style="padding-top:5px;">
+		<tbody><tr valign="top">
+			<td colspan="5" class="whitelink" width="100%">
+				
+					<div style="background: #FFFF00; padding: 3px; color: #000000;" height="30">
+						
+							<b>SWINE FLU FORUM&nbsp;&gt;&nbsp;&gt;&nbsp;&gt;&nbsp;</b>
+							
+							Get all the important information about the growing Swine Flu outbreak | <a class="whitelink" style="text-decoration:underline;" href="story.cfm?func=showstories&amp;catid=336&amp;view=1"><font color="#000000">Click Here</font></a> 
+					</div>
+				
+			</td>
+		</tr>
+	
 
-<table width="1024" cellpadding="0" cellspacing="0" border="0" bgcolor="#E2E2E2" style="padding-top:5px;">
+</tbody></table><table width="1024" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#E2E2E2" style="padding-top:5px;">
 	<tbody><tr valign="top">
 		<td align="left" width="8"><img src="images/spacer.gif" width="8" height="1" alt="" border="0"></td>
 		<td width="703" valign="top">
@@ -403,8 +307,13 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 					<td width="200" valign="top" bgcolor="#ffffff">
 						
 												<table border="0" cellpadding="0" cellspacing="0" width="200">
-							
-                        <tbody><tr>
+						<tbody><tr>
+								<td style="padding-top:8px;padding-left:5px;padding-right:5px;" class="box9" valign="top">
+									
+                                    
+								</td>
+							</tr>
+                        <tr>
                         	<td align="center">
 									
 									<table border="0" cellpadding="0" cellspacing="0" width="98%">
@@ -438,14 +347,7 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 										</tr>
 									</tbody></table>
 								</td>
-  </tr>
-							
-							<tr>
-								<td style="padding-top:8px;padding-left:5px;padding-right:5px;" class="box9" valign="top">
-									
-                                    
-								</td>
-							</tr>
+  </tr>							
 							<tr>
                             <td>
 							                            </td>
@@ -461,24 +363,13 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 	
 		<span class="coloredheader">Privacy Policy</span><hr>
 	
-			<p></p><p>Thank you for visiting this Web site, a West Virginia Media Holdings site. Your privacy is important to us. To better protect your privacy, we provide our Privacy Policy below, explaining our online information practices and the way your information is collected and used on this West Virginia Media Holdings, LLC Web site.<br><br><strong>The Information We Collect</strong><br>You can order subscriptions, vote in polls, subscribe to one of our services such as our email news alerts, send a postcard, submit story tips, get customized weather content, submit weather information and more on our sites. <br><br>The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and other basic information.<br><br>You can submit information about other people. For example, to send a postcard, you need to submit a person's name and e-mail address.<br><br>On some areas of our sites, only persons who provide us with the requested information will be able to participate in the site's activities and offerings.<br><br>We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., Citynet, Earthlink, AOL, etc.).<br><br><strong>How We Use the Information</strong><br>We may use the information you provide about yourself to fulfill your requests for a subscription, site services, to respond to your inquiries about our offerings, or to contact you about a story tip or other information you have submitted to us.<br><br>We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill a request by you for an online service, to contact you about your subscription, or about information you have submitted to us, such as a story tip, weather information or similar.<br><br>If you choose to submit content for publication (e.g., "submit weather photos"), we may publish your name and other information you have provided to us.<br><br>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information to analyze site usage.<br><br>If required by law, we may disclose personally identifiable information in response to legal process, such as in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. <br><br>Agents and contractors of West Virginia Media Holdings, LLC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy.<br><br>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee you that personally identifiable information we collect won’t be disclosed in a manner that is inconsistent with this Privacy Policy.<br><br><strong>The Use of Cookies<br></strong>To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. <br><br>Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.<br><br>However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.<br><br><strong>How to Contact Us</strong><br>If you have any questions or concerns about this Privacy Policy you may contact us at <a href="mailto:privacy@wvmh.com">privacy@wvmh.com</a>&nbsp;.<br><br><strong>Updates </strong><br>We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. </p>  <p>&nbsp;</p> <p></p>
-						
-							
-						<br><br>
-						
-						
-                        
+			<p>Thank you for visiting this Web site, a West Virginia Media Holdings site. Your privacy is important to us. To better protect your privacy, we provide our Privacy Policy below, explaining our online information practices and the way your information is collected and used on this West Virginia Media Holdings, LLC Web site.<br>  <br>  <strong>The Information We Collect</strong><br>  You can order subscriptions, vote in polls, subscribe to one of our services such as our email news alerts, send a postcard, submit story tips, get customized weather content, submit weather information and more on our sites. <br>  <br>  The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and other basic information.<br>  <br>  You can submit information about other people. For example, to send a postcard, you need to submit a person's name and e-mail address.<br>  <br>  On some areas of our sites, only persons who provide us with the requested information will be able to participate in the site's activities and offerings.<br>  <br>  We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., Citynet, Earthlink, AOL, etc.).<br>  <br>  <strong>How We Use the Information</strong><br>  We may use the information you provide about yourself to fulfill your requests for a subscription, site services, to respond to your inquiries about our offerings, or to contact you about a story tip or other information you have submitted to us.<br>  <br>  We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill a request by you for an online service, to contact you about your subscription, or about information you have submitted to us, such as a story tip, weather information or similar.<br>  <br>  If you choose to submit content for publication (e.g., "submit weather photos"), we may publish your name and other information you have provided to us.<br>  <br>  We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information to analyze site usage.<br>  <br>  If required by law, we may disclose personally identifiable information in response to legal process, such as in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. <br>  <br>  Agents and contractors of West Virginia Media Holdings, LLC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy.<br>  <br>  Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee you that personally identifiable information we collect won’t be disclosed in a manner that is inconsistent with this Privacy Policy.<br>  <br>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a target="_blank" href="http://www.networkadvertising.org/managing/index.asp">click here</a>. <br>  <br>  <strong>The Use of Cookies<br>  </strong>To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. <br>  <br>  Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.<br>  <br>  However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.<br>  <br>  <strong>How to Contact Us</strong><br>  If you have any questions or concerns about this Privacy Policy you may contact us at <a href="mailto:privacy@wvmh.com">privacy@wvmh.com</a>&nbsp;.<br>  <br>  <strong>Updates </strong><br>  We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.</p>  <p>&nbsp;</p>  <p>&nbsp;</p> <p></p>
+		
                                 <div class="body">
                                 
-                                    <p></p><center><!-- BELOW STORY ADVERTPRO CODE BLOCK --> <!-- BEGIN ADVERTPRO CODE BLOCK -->  <!-- Zone ID: 94 --> <!-- Zone Name: WBOY-BStory --> <!-- Size ID: 15 --> <!-- Size Name: Full Banner --> <!-- Size Width: 468 --> <!-- Size Height: 60 -->  <script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=94&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=94&amp;pid=0&amp;random=87155822&amp;millis=1580461339820" language="JavaScript" type="text/javascript"></script> <noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=94&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=94&pid=0&position=1" height="60" width="468" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>  <!-- END ADVERTPRO CODE BLOCK --></center><p></p>
+                                    <p><!-- NEWS BELOW STORY GAM CODE BLOCK --></p><center><script type="text/javascript">
+  GA_googleFillSlot("WOWK_BStory_News_468x60");
+</script></center><!-- END CODE BLOCK --><p></p>
                                     
                                 </div>
                             				
@@ -492,111 +383,87 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
 					
 		</td>
 		<td align="left" width="2"><img src="images/spacer.gif" width="2" height="1" alt="" border="0"></td>	
-		<td width="306" valign="top" align="left">
+		<td width="306" valign="top" align="left" bgcolor="#E2E2E2">
+		
+        
+
 			
-						<div><div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=22&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=22&amp;pid=0&amp;random=87369449&amp;millis=1580461339822" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=22&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=22&pid=0&position=1" height="250" width="300" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK -->
-</div></div>
+			
+			
+<script type="text/javascript">
+  GA_googleFillSlot("WOWK_TopBOX_News_300x250");
+</script>
+			
+			
+			
+			
+			
+            
+			
+			
+<script type="text/javascript">
+  GA_googleFillSlot("WOWK_Skyscraper_News_160x600");
+</script>
+			
+			
+				
+                           	
+						
+                        
+                        					
+                        
+                        <script type="text/javascript">
+						  GA_googleFillSlot("WOWK_SmallBanner1_ALL_234x60");
+						</script>
+						
 					
-							<div><div><!-- BEGIN ADVERTPRO CODE BLOCK -->
+					
+					
+						
+                    
+					
+					
+										
+					
+                    
+					<script type="text/javascript">
+					  GA_googleFillSlot("WOWK_BOX2_LR_300x250");
+					</script>
+                    
+					
+					
+					
+						                            
+					
+					
+										
+					
+                    <script type="text/javascript">
+					  GA_googleFillSlot("WOWK_SmallBanner2_ALL_234x60");
+					</script>
+					
+					
+					
+					
+						
+					
+					
+										
+					
+					<script type="text/javascript">
+					  GA_googleFillSlot("WOWK_SmallBanner3_ALL_234x60");
+					</script>
+					
+					
+					
+					
+					
+					
 
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=45&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=45&amp;pid=0&amp;random=34716488&amp;millis=1580461339824" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=45&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=45&pid=0&position=1" height="600" width="160" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div></div>
-							                         	
-			<table width="300" cellpadding="0" cellspacing="0" border="0" bgcolor="#E2E2E2">
-				<tbody><tr>
-					<td align="left">
-                    	
-                                    <div class="body">	
-                                    <div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=83&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=83&amp;pid=0&amp;random=16718341&amp;millis=1580461339826" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=83&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=83&pid=0&position=1" height="100" width="300" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div>
-                                	</div>
-								
-                                <div class="body">	
-                                <div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=73&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=73&amp;pid=0&amp;random=36994260&amp;millis=1580461339827" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=73&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=73&pid=0&position=1" height="250" width="300" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div>
-                            	</div>
-							
-								<div><div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=65&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=65&amp;pid=0&amp;random=80622364&amp;millis=1580461339829" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=65&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=65&pid=0&position=1" height="100" width="300" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div></div>
-							
-								<div><div><!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=78&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://wvmh.advertserve.com/servlet/view/banner/javascript/zone?zid=78&amp;pid=0&amp;random=61878332&amp;millis=1580461339831" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://wvmh.advertserve.com/servlet/click/zone?zid=78&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://wvmh.advertserve.com/servlet/view/banner/image/zone?zid=78&pid=0&position=1" height="100" width="300" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK --></div></div>
-								
-					</td>
-				</tr>
-                
-			</tbody></table>
+		
+        
+		
+		
 		</td>
 	</tr>	
     
@@ -605,35 +472,31 @@ document.write('<SCR'+'IPT src="http://wvmh.advertserve.com/servlet/view/banner/
         	<table width="1024" cellpadding="0" cellspacing="0" border="0">
                 <tbody><tr>
                     <td align="center" class="box8Blue" valign="top">
-                    <p align="center"><br>©
-<script language="JavaScript" type="text/javascript">
+                    <p align="center"><br>
+© <script language="JavaScript" type="text/javascript">
 var d=new Date();
 yr=d.getFullYear();
 if (yr!=2000)
 document.write(" "+yr);
-</script> 2020
-<noscript></noscript> <a href="http://www.wvmh.com/">West Virginia Media Holdings, LLC</a> <br><a title="http://wboy.com/" href="http://wboy.com/">WBOY-TV</a> I <a title="http://wowktv.com/" href="http://wowktv.com/">WOWK-TV</a> I <a title="http://www.wtrf.com/" href="http://www.wtrf.com/">WTRF-TV</a> I <a title="http://wvnstv.com/" href="http://www.wvnstv.com/">WVNS-TV</a> I <a title="http://yourwvabc.com/" href="http://yourwvabc.com/">Your ABC</a> I <a title="http://wtrfabcov.com" href="http://wtrfabcov.com">ABC Ohio Valley</a><br><a title="http://wvnstv.com/" href="http://www.myfoxov.com/myfox/">FOX Ohio Valley</a> | <a title="http://wvnstv.com/" href="http://www.myfoxwvtv.com/myfox/">FOX WV</a> | <a title="http://statejournal.com/" href="http://statejournal.com/">The State Journal</a> | <a title="http://countryroadsjournal.com/" href="http://www.countryroadsjournal.com/">Country Roads Journal</a> <br><a href="http://www.wboy.com/page.cfm?pageid=316">Privacy Policy</a> </p> 
+</script> 2020 <noscript></noscript> <a href="http://www.wvmh.com/">West Virginia Media Holdings, LLC</a> <br>
+<a href="http://wboy.com/" title="http://wboy.com/">WBOY-TV</a> I <a href="http://wowktv.com/" title="http://wowktv.com/">WOWK-TV</a> I <a href="http://www.wtrf.com/" title="http://www.wtrf.com/">WTRF-TV</a> I <a href="http://www.wvnstv.com/" title="http://wvnstv.com/">WVNS-TV</a> I <a href="http://yourwvabc.com/" title="http://yourwvabc.com/">Your ABC</a> I <a href="http://wtrfabcov.com" title="http://wtrfabcov.com">ABC Ohio Valley</a><br>
+<a href="http://www.myfoxov.com/myfox/" title="http://wvnstv.com/">FOX Ohio Valley</a> | <a href="http://www.myfoxwvtv.com/myfox/" title="http://wvnstv.com/">FOX WV</a> | <a href="http://statejournal.com/" title="http://statejournal.com/">The State Journal</a> | <a href="http://www.countryroadsjournal.com/" title="http://countryroadsjournal.com/">Country Roads Journal</a> <br>
+<a href="page.cfm?pageid=101#cc">Closed Captioning Issues?</a> | <a href="publicfile.cfm">Public File</a> | <a href="page.cfm?pageid=316">Privacy Policy</a> </p> 
                     </td>    
                     <td align="center" class="box8Blue">   
                         <br> 
                         Site Development and Hosting By <a href="http://www.citynet.net" target="_blank">Citynet</a><br>
-                        <a href="http://www.citynet.net" target="_blank"><img src="http://www.wboy.com/images/cb3c.gif" alt="Citynet" border="0"></a>
+                        <a href="http://www.citynet.net" target="_blank"><img src="http://www.wowktv.com/images/cb3c.gif" alt="Citynet" border="0"></a>
                     </td>
                 <td width="300" align="right">
-				
-				<img src="/images/WBOYstations.png" width="300" height="70" border="0" usemap="#sMap">
-                <map name="sMap" id="sMap">
-				
-                <area shape="rect" coords="-1,-1,95,68" href="http://wboy.com">
-                <area shape="rect" coords="93,0,299,71" href="http://yourwvabc.com/" target="_blank">
-				
-                </map></td>
+				</td>
                 </tr>        
         	</tbody></table>
         </td>
     </tr>
     
-</tbody></table>	
+</tbody></table>
+
 
 
 </body></html>
