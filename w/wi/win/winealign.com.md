@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the winealign.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221165027id_/http%3A//www.winealign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winealign.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502093407id_/http%3A//www.winealign.com/privacy) for the most accurate reproduction.*
 
 # WineAlign
-
-## Protection and respect of your privacy on the WineAlign 
 
 The WineAlign appreciates the concerns you may have with respect to the circulation of personal information on the Internet and, with your collaboration, wishes to address these issues. This is why we feel it is important that you fully understand the type of information we collect from you when visiting our Web sites along with its intended use. Please read the following sections carefully. We also strongly suggest that you refer to this section periodically for changes or updates. **Please be assured that the WineAlign will not collect any personal information without your prior consent.**
 
