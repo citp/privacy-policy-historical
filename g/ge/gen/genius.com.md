@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065130id_/http%3A//www.genius.com/us/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502024031id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Genius.com® Inc.
+# PrivacyPolicy : About Genius.com
 
 Genius.com® Incorporated ("Genius") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Genius, including [www.genius.com](http://www.genius.com/) and www.salesgenius.com (collectively, the "Sites"). We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
@@ -12,7 +12,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and credit card number. When you register for the Service, or when you ask for additional information from Genius about the Service, we may also ask you for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not providing it when asked to do so. 
 
-Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](http://www.genius.com/email-opt-out.html) and submitting their email.
+Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20090502024031id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email.
 
 All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Genius for marketing or promotional purposes. Genius uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
@@ -84,5 +84,3 @@ If you have any questions about this Statement or the practices of this Site, pl
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
 Privacy Policy effective July 1st 2008
-
-return to top
