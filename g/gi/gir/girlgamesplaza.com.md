@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502181206id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
+
+# Girl Games - Dress Up Games - Games For Girls - Privacy Policy
+
+****  
+---  
+   
+Not a Member Yet?  
+  
+80 Tokens Left  
+Becoming a member is easy and has many benefits!  
+  
+[](http://www.girlgamesplaza.com/index.php?action=register)  
+  
+Girlgamesplaza.com is very cautious about how your information is collected when you surf our website and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us.  
+We receive and store any information you enter on our website or give us in any other way for responding to your requests, improving our website, customizing future services for you, and to communicate with you for special offers, bonus points and related marketing information and activities.  
+Information about our customers is an important part of our business, and we do not sell it to others. We share customer information only with the subsidiaries of Girlgamesplaza.com, business partners or affiliated companies.  
+As we continue to develop our business, we might sell or buy other companies or entities. In such transactions, customer information generally is one of the transferred business assets. In the unlikely event that any of our assets are acquired, customer information might be one of the transferred assets. We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements, or protect the rights, property, or safety of Girlgamesplaza.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
+We work to protect the security of your information during any data transmission.  
+This Privacy Statement may be subject to change without notice. This notice will still govern your use of our services and it is your responsibility to review them for any occurring changes.  
+Girlgamesplaza.com does not sell products on its own. If you are under 18, you may use the services and offers only with involvement and approval of a parent.  
+If you choose to visit our website and use our services in any way, your visit and any dispute over privacy is subject to this Privacy Statement and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state. Our business changes constantly. This Privacy Statement and the Conditions of use will change too and use of information that we gather now is subject to the Privacy Statement in effect at the time of use. You should check our website frequently to see any new changes. 
+
+Site Statistics
+
+Total Games: 1347  
+Played Today: 579  
+Overall Played: 116600  
+Total Members: 32  
+Newest Member: [malcolmomason](http://www.girlgamesplaza.com/profiles/110/malcolmomason.html "Click to View Profile")  
+Total Users Online: 5 
+
+(0 members and 5 guests) 
