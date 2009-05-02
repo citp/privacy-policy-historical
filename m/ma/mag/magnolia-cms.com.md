@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magnolia-cms.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094230id_/http%3A//www.magnolia-cms.com/home/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnolia-cms.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502161932id_/http%3A//www.magnolia-cms.com/home/footer/privacy.html) for the most accurate reproduction.*
 
-# Privacy - - Magnolia – Simple Open Source Content Management
+# Privacy - Magnolia – Simple Open Source Content Management
 
 Magnolia International Ltd. is committed to maintaining a web site that protects the individual’s right to privacy. We do not require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do not give, sell, or transfer any personal information to a third party (except listed Magnolia partners ) except as might be required by law.
 
