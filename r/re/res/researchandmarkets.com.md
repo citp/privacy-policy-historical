@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160259id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502133143id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Market Research Reports - Research and Markets - Subscribe to our Free Research Notification Service
 
