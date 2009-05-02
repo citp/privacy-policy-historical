@@ -1,0 +1,348 @@
+<!--The following is the downloaded HTML source of the girlgamesplaza.com privacy policy that was archived on 2009-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502181206id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="">
+<meta name="keywords" content=""> 
+<title>Girl Games - Dress Up Games - Games For Girls - Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/template.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/template-ie6.css">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.girlgamesplaza.com/templates/ggplaza/rating_style.css">
+<script type="text/javascript" src="http://www.girlgamesplaza.com/js/rating_update.js"></script>
+<script src="http://www.girlgamesplaza.com/templates/ggplaza/arcade.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+  var http_request = false;
+
+  function show_hint ( p_hint_text, p_span ) {
+    document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    result = http_request.responseText;
+    document.getElementById(SpanName).innerHTML = result;
+    document.getElementById('status').innerHTML = 'Ready'; 
+    } else {
+    alert('There was a problem with the request.');
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+
+
+  function Contact(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+
+    if(DivName == 'tf'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.girlgamesplaza.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+   
+    document.getElementById(DivName).style.display = 'none';
+  } 
+
+
+</script>    
+</head>
+<body>
+<div id="wrapper">
+<div id="mainwrapper">
+  <div id="header">
+    <div id="logo"><img src="/templates/ggplaza/images/logo.jpg" alt="" width="272" height="58"></div>
+    <div id="top-menu"><a href="http://www.girlgamesplaza.com/">Home</a> | <a href="http://www.girlgamesplaza.com/index.php?action=register">Register</a> | <a href="http://www.girlgamesplaza.com/contactus/">Contact us</a></div>
+  </div>
+  <div id="left-box">
+    <div id="welcome">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><img src="/templates/ggplaza/images/welcome.jpg" alt="" width="238" height="24"></td>
+        </tr>
+        <tr>
+          <td align="left" class="normal-text">Girlgamesplaza.com brings the best of Girl Games on the internet. The most exclusive Girl Games are available on Girlgamesplaza.com. All of the content with the best of features where you can make friends and even provide your comments to the games you play here.<br> Enjoy !!!</td>
+        </tr>
+      </tbody></table>
+    </div>
+  </div>
+  <div id="right-banner"><img src="/templates/ggplaza/images/mid_banner.gif" alt=""></div>
+  <div id="maincontain">
+    <div id="leftpan">
+      <div id="categories">
+        <div id="categories-heading"></div>
+        <div id="categories-nav" style="padding:5px;">
+         <li><a class="topMenuText" href="http://www.girlgamesplaza.com/categories/140/animal-games.html">Animal Games (91)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/136/barbie-games.html">Barbie Games (28)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/137/boys-games.html">Boys Games (36)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/153/bratz-games.html">Bratz Games (26)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/141/cartoon-games.html">Cartoon Games (71)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/139/celebrity-games.html">Celebrity Games (147)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/150/christmas-games.html">Christmas Games (14)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/142/cooking-games.html">Cooking Games (70)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/135/decoration-games.html">Decoration Games (105)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/40/dress-up-games.html">Dress Up Games (301)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/146/fantasy-games.html">Fantasy Games (26)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/133/fashion-games.html">Fashion Games (2)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/151/halloween-games.html">Halloween Games (12)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/154/make-up-games.html">Make Up Games (37)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/132/makeover-games.html">Makeover Games (54)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/143/management-games.html">Management Games (108)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/147/music-games.html">Music Games (14)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/138/other-girl-games.html">Other Girl Games (29)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/144/painting-games.html">Painting Games (80)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/155/princess-games.html">Princess Games (18)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/149/valentine-games.html">Valentine Games (30)</a></li><li> <a class="topMenuText" href="http://www.girlgamesplaza.com/categories/152/wedding-games.html">Wedding Games (48)</a>	
+        </li></div>
+        <div id="categories-bottum"><img src="/templates/ggplaza/images/categories_bgbottum.jpg" alt=""></div>
+      </div>
+      <div id="feature-box">
+        <div id="feature-heading">Sponsor</div>
+        <div id="feature-contain" style="text-align:center">
+	          <iframe align="middle" height="600" width="160" src="http://www.girlgamesplaza.com/ads/leftsky.html" scrolling="no" frameborder="0"></iframe>        </div>
+        <div id="feature-bt"></div>
+      </div>
+      <div id="loginbox">
+        <div id="loginheader">Member Login</div>
+        <div id="login-contain">
+          
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><b>
+                                         	 </b>
+              <form action="http://www.girlgamesplaza.com/index.php" method="post" name="form1" class="loginform" id="form1">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="42%" align="right" nowrap="nowrap" class="logintext">Username:</td>
+                      <td align="center"><input name="loginuser" type="text" class="loginfield" id="loginuser">                      </td>
+                    </tr>
+                    <tr>
+                      <td align="right" class="logintext">Password:</td>
+                      <td align="center"><input name="loginpassword" type="password" class="loginfield" id="loginpassword"></td>
+                    </tr>
+                  </tbody></table>
+                </form></td>
+            </tr>
+            <tr>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="70%" align="center" valign="top" class="logintext">Remember me:</td>
+                    <td align="left">
+                    <input name="saveme" type="checkbox" class="login-me" id="saveme">
+                    <input name="Submit" type="submit" id="Submit" value="Login">
+                    </td>
+                  </tr>
+                </tbody></table></td>
+            </tr>
+            
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="gamenamewhite" style="padding-left:5px">Not a Member Yet?</td>
+            </tr>
+            <tr>
+              <td class="gamenamewhite" style="padding-left:5px">
+<br><br>80 Tokens Left<br>
+Becoming a member is easy and has many benefits!</td>
+            </tr>
+            <tr>
+              <td align="center"><a href="http://www.girlgamesplaza.com/index.php?action=register"><img src="/templates/ggplaza/images/registertoday.jpg" alt="" width="129" height="45" border="0"></a></td>
+            </tr>
+          </tbody></table>
+        </div>
+        <div id="login-bt"></div>
+      </div>
+    </div>
+        <div style="float:left;width:800px;margin-bottom:6px;margin-left:10px;display:inline;text-align:center">
+    <iframe align="middle" height="90" width="728" src="http://www.girlgamesplaza.com/ads/leaderboard.html" scrolling="no" frameborder="0"></iframe>    </div>
+        <!-- CONTENT PAGE -->
+		
+    
+<div id="midpan">
+    <div id="latestgame-box" style="float:left;">
+    <div id="latestgame-box-header">Privacy Policy</div>
+    <div id="latestgame-box-contain" style="margin-top:15px">
+    Girlgamesplaza.com is very cautious about how your information is collected when you surf our website and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us.<br>
+
+We receive and store any information you enter on our website or give us in any other way for responding to your requests, improving our website, customizing future services for you, and to communicate with you for special offers, bonus points and related marketing information and activities.<br>
+
+Information about our customers is an important part of our business, and we do not sell it to others. We share customer information only with the subsidiaries of Girlgamesplaza.com, business partners or affiliated companies.<br>
+
+As we continue to develop our business, we might sell or buy other companies or entities. In such transactions, customer information generally is one of the transferred business assets. In the unlikely event that any of our assets are acquired, customer information might be one of the transferred assets. We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements, or protect the rights, property, or safety of Girlgamesplaza.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.<br>
+
+We work to protect the security of your information during any data transmission.<br>
+
+This Privacy Statement may be subject to change without notice. This notice will still govern your use of our services and it is your responsibility to review them for any occurring changes.<br>
+
+Girlgamesplaza.com does not sell products on its own. If you are under 18, you may use the services and offers only with involvement and approval of a parent.<br>
+
+If you choose to visit our website and use our services in any way, your visit and any dispute over privacy is subject to this Privacy Statement and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state. Our business changes constantly. This Privacy Statement and the Conditions of use will change too and use of information that we gather now is subject to the Privacy Statement in effect at the time of use. You should check our website frequently to see any new changes.
+    </div>
+    </div>
+    <div id="latestgame-box" style="margin-top:20px;float:left"><iframe align="middle" height="250" width="300" src="http://www.girlgamesplaza.com/ads/leftmedrect.html" scrolling="no" frameborder="0"></iframe>&nbsp;&nbsp;<iframe align="middle" height="250" width="300" src="http://www.girlgamesplaza.com/ads/rightmedrect.html" scrolling="no" frameborder="0"></iframe></div>
+    </div>	
+    <!-- END CONTENT PAGE -->		
+
+        <div id="rightpan">
+      <div id="rightpan">
+        <div id="rightadd" style="margin-bottom:10px;">
+        <div id="statics-head">Sponsor</div>
+        <div id="statics-contain" style="margin-top:5px;text-align:center">
+        <iframe align="middle" height="600" width="160" src="http://www.girlgamesplaza.com/ads/rightsky.html" scrolling="no" frameborder="0"></iframe>        </div>
+        </div>
+        <!--<div id="languages">
+        <div id="statics-head">Languages</div>
+        <div id="statics-contain" style="margin-top:5px;">
+            <flags> 
+<a href="http://www.girlgamesplaza.com/fr/"><img src="http://www.girlgamesplaza.com/images/flag_fr.gif" alt="Français" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/es/"><img src="http://www.girlgamesplaza.com/images/flag_es.gif" alt="Espanol" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ja/"><img src="http://www.girlgamesplaza.com/images/flag_ja.gif" alt="???" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/it/"><img src="http://www.girlgamesplaza.com/images/flag_it.gif" alt="Italiano" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/de/"><img src="http://www.girlgamesplaza.com/images/flag_de.gif" alt="Deutsch" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/zh/"><a href="http://www.girlgamesplaza.com/nl/"><img src="http://www.girlgamesplaza.com/images/flag_nl.gif" alt="Nederlands" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ko/"><img src="http://www.girlgamesplaza.com/images/flag_ko.gif" alt="???" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/pt/"><img src="http://www.girlgamesplaza.com/images/flag_pt.gif" alt="Port" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ru/"><img src="http://www.girlgamesplaza.com/images/flag_ru.gif" alt="??????" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/el/"><img src="http://www.girlgamesplaza.com/images/flag_el.gif" alt="????????" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/sv/"><img src="http://www.girlgamesplaza.com/images/flag_sv.gif" alt="Swedish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/id/"><img src="http://www.girlgamesplaza.com/images/flag_id.gif" alt="Indo" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/ro/"><img src="http://www.girlgamesplaza.com/images/flag_ro.gif" alt="Romanian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/pl/"><img src="http://www.girlgamesplaza.com/images/flag_pl.gif" alt="Polish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/no/"><img src="http://www.girlgamesplaza.com/images/flag_no.gif" alt="Norwegian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/hi/"><img src="http://www.girlgamesplaza.com/images/flag_hi.gif" alt="Hindi" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/fi/"><img src="http://www.girlgamesplaza.com/images/flag_fi.gif" alt="Finnish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/da/"><img src="http://www.girlgamesplaza.com/images/flag_da.gif" alt="Danish" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/cs/"><img src="http://www.girlgamesplaza.com/images/flag_cs.gif" alt="Czech" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/hr/"><img src="http://www.girlgamesplaza.com/images/flag_hr.gif" alt="Croatian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/bg/"><img src="http://www.girlgamesplaza.com/images/flag_bg.gif" alt="Bulgarian" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/"><br><img src="http://www.girlgamesplaza.com/images/flag_en.gif" alt="English - Original language" border="0" height="12" width="18"></a> <a href="http://www.girlgamesplaza.com/" target="_blank" style="display: none;">English</a>ENGLISH
+</flags>
+        </div>
+        </div>-->
+        <div id="topplayes-box">
+          <div id="topplayes-box-head"><strong>Top Players</strong></div>
+          <div id="topplayes-box-contain">
+            			<div style="width:100%;">
+                				<div style="width:35px; float:left;">
+                					<a href="http://www.girlgamesplaza.com/profiles/2/avtar2.html"><img src="http://www.girlgamesplaza.com/images/noavatar.gif" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:80px; float:left;">
+                					1. <a href="http://www.girlgamesplaza.com/profiles/2/avtar2.html " class="gamenamewhite">avtar2</a><br>
+                					<b>1591 points</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:35px; float:left;">
+                					<a href="http://www.girlgamesplaza.com/profiles/1/avtar1.html"><img src="http://www.girlgamesplaza.com/images/noavatar.gif" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:80px; float:left;">
+                					2. <a href="http://www.girlgamesplaza.com/profiles/1/avtar1.html " class="gamenamewhite">avtar1</a><br>
+                					<b>940 points</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:35px; float:left;">
+                					<a href="http://www.girlgamesplaza.com/profiles/75/allen31.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:80px; float:left;">
+                					3. <a href="http://www.girlgamesplaza.com/profiles/75/allen31.html " class="gamenamewhite">allen31</a><br>
+                					<b>159 points</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:35px; float:left;">
+                					<a href="http://www.girlgamesplaza.com/profiles/61/ashley.html"><img src="http://www.girlgamesplaza.com/images/noavatar.jpg" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:80px; float:left;">
+                					4. <a href="http://www.girlgamesplaza.com/profiles/61/ashley.html " class="gamenamewhite">ashley</a><br>
+                					<b>66 points</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>			<div style="width:100%;">
+                				<div style="width:35px; float:left;">
+                					<a href="http://www.girlgamesplaza.com/profiles/78/dabritt3.html"><img src="http://www.girlgamesplaza.com/images/noavatar.gif" width="30" height="30" style="margin:1px; border:1px solid #000000;"></a>
+                				</div>
+                				<div style="width:80px; float:left;">
+                					5. <a href="http://www.girlgamesplaza.com/profiles/78/dabritt3.html " class="gamenamewhite">DaBritt3</a><br>
+                					<b>52 points</b>
+                				</div>
+                				<div style="clear:both;"></div>
+                			</div>          </div>
+          <div id="topplayes-box-bot"></div>
+        </div>
+        <div id="statics">
+          <div id="statics-head">Site Statistics</div>
+          <div id="statics-contain">
+            
+		
+		
+			
+		  <div style="padding:4px;">
+Total Games: 1347<br>
+                   Played Today: 579<br>
+                   Overall Played: 116600<br>
+                
+                                   Total Members: 32<br>
+                   Newest Member: <a href="http://www.girlgamesplaza.com/profiles/110/malcolmomason.html" title="Click to View Profile">malcolmomason</a><br>
+                                  Total Users Online: 5                  <br>
+                
+                  <br>
+                  (0 members and 5 guests)
+
+
+		 </div>
+          </div>
+        </div>
+        <div id="rss">
+        	<div id="statics-head">RSS Feeds</div>
+        	<div id="statics-contain" style="margin-top:5px;">
+          	<!-- Begin Listing RSS Feed Icons -->
+			<a href="http://www.girlgamesplaza.com/rss.php?type=newest_content&amp;limit=15" title="Click to see the Newest Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/newest-content-rss.jpg" border="0" alt="Click to see the Newest Content RSS Feed"></a>
+			<a href="http://www.girlgamesplaza.com/rss.php?type=most_popular&amp;limit=15" title="Click to see the Most Popular Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/most-popular-rss.jpg" border="0" alt="Click to see the Most Popular Content RSS Feed"></a>
+			<a href="http://www.girlgamesplaza.com/rss.php?type=random_content&amp;limit=15" title="Click to see the Random Content RSS Feed"><img src="http://www.girlgamesplaza.com/images/random-content-rss.jpg" border="0" alt="Click to see the Random Content RSS Feed"></a>   
+			<a href="http://www.girlgamesplaza.com/index.php?action=rss" title="Click to see the More RSS Feeds"><img src="http://www.girlgamesplaza.com/images/more-feeds-rss.jpg" border="0" alt="Click to see more RSS Feeds"></a>   
+			<!-- End Listing RSS Feed Icons -->
+			</div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div id="footer-nav" class="footerbg">(c)2008-2009 - GirlGamesPlaza. All rights reserved.   <a href="/termsandconditions/">Terms &amp; Conditions</a> | <a href="/privacypolicy/">Privacy Statement</a> | <a href="/free-games/">Free Games of your Website</a> | <a href="/contactus/">Contact Us</a> 
+  <!-- Site Meter -->
+<script type="text/javascript" src="http://sm1.sitemeter.com/js/counter.js?site=sm1ggplaza">
+</script>
+<noscript>
+<a href="http://sm1.sitemeter.com/stats.asp?site=sm1ggplaza" target="_top">
+<img src="http://sm1.sitemeter.com/meter.asp?site=sm1ggplaza" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter --> 
+  </div>
+</div>
+</div>  
+
+</body></html>
