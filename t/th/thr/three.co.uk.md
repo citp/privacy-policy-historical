@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013200id_/http%3A//www.three.co.uk/personal/help_support_/privacy_policy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502135622id_/http%3A//www.three.co.uk/Help_Support/Terms_and_Conditions%3Fcontent_aid%3D1214305745043) for the most accurate reproduction.*
 
-# 3 - Privacy Policy
+# 3 - Help & Support - Terms and Conditions
 
 This policy statement relates to our privacy practices in connection with this website and is intended to inform you about the kinds of information we may obtain about you as a visitor to our website, how we may use that information and who we may share that information with. We are not responsible for the content or privacy practices of other websites.
 
@@ -28,7 +28,7 @@ You agree that any data you provide to us will be true, complete and accurate in
 If you are aged 16 or under, you must get your parent or guardian's consent to provide your personal information to 3's website, otherwise you are not allowed to provide any of your personal information to us.
 
 **Retention of data**  
-We will keep your personal information for as long as necessary for the purposes for which it was collected, to provide you with services and to conduct our legitimate business interests or where otherwise required by law. If you use '3 Services', we may hold your Communications Data for 12 months for legitimate business purposes (or longer in connection with any legal proceedings or disputes). 
+We will keep your personal information for as long as necessary for the purposes for which it was collected, to provide you with services and to conduct our legitimate business interests or where otherwise required by law. If you use '3 Services', we may hold your Communications Data for 12 months for legitimate business purposes (or longer in connection with any legal proceedings or disputes).
 
 **Disclosure**  
 Your personal information may also be processed by other organisations on our behalf for the purpose of processing applications, and providing information or services to you. The use of personal data for these purposes will remain under our control at all times. 
@@ -67,10 +67,8 @@ We may monitor and/or record communications between you and 3 for quality contro
 You should read this Policy in conjunction with our website terms and conditions (which apply to your use of this website), our Terms of Sale/Supply of Products (which apply to the purchase of products by you via this website) and the Terms for 3 Services (which apply to your use of 3 Services). Our customer privacy statement concerning your use of 3 Services is contained within the 'Privacy Notice' found in Section 13 of our Terms for 3 Services. Click the link below to download this document. 
 
 **Glossary of technical terms used**  
-web browser - The software you use to read web pages such as Microsoft Internet Explorer, Netscape Navigator and Opera. 
+web browser - The software you use to read web pages such as Microsoft Internet Explorer, Netscape Navigator and Opera.
 
 IP address - The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address (which may be permanent or change each time you access the internet) 
 
-cookies - Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site. 
-
-[](https://web.archive.org/customer/terms/print.omp?cid=1124179743355)
+cookies - Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
