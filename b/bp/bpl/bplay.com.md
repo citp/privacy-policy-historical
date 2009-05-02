@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052714id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502064642id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
 
 # Bplay : BlackBerry Games
 
