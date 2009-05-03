@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219123224id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503194854id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
 
 # PSD Privacy Policy
 
