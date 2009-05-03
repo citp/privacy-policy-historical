@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003226id_/http%3A//www.123inkcartridges.ca/123inkcartridges2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504010743id_/http%3A//www.123inkcartridges.ca/123inkcartridges2/privacy-policy) for the most accurate reproduction.*
 
-# Ink Cartridges Canada & Laser Toners | 123 Ink Cartridges | 123InkCartridges.ca
+# Ink & Toner Cartridges Canada | 123InkCartridges.ca | 123CartoucheDEncre.ca
 
 **1\. Objective & Scope of Privacy Policy**
 
