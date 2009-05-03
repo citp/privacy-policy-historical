@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224123759id_/http%3A//www.nbcbirdandpest.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503210338id_/http%3A//www.nbcbirdandpest.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Bird and Pest Control Franchise Company Privacy Policy
 
@@ -103,7 +103,7 @@ If you would like to change your preferences for contacts from us or other membe
 
 We reiterate that by submitting your personal information to us you consent to our (including our business partners' within the NBC Network) use of that personal information as set out in this privacy policy. If you have any questions concerns or comments about this privacy policy and/or our collection use or the accuracy of your personal information or if you wish to see any of the personal information we hold on you or if you wish us to stop processing your personal information for any particular purpose or purposes then please contact us by [enquiries@nbcbirdandpest.co.uk](mailto:enquiries@nbcbirdandpest.co.uk) or by writing to The Data Compliance Officer NBC Bird and Pest Solutions Limited (Registered Company No. 3475126) of Abbotsgate House, Hollow Road, Bury St Edmunds, Suffolk, IP32 7FA (Registered Office Address)
 
-© 2007 2008 Limited. NBC Bird and Pest Solutions Limited. All rights reserved.  
+© 2007 2009 Limited. NBC Bird and Pest Solutions Limited. All rights reserved.  
 [Website Terms of Use](https://web.archive.org/TermsandConditions.cfm); 
 
 Go back to top of Page
