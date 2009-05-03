@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122921id_/http%3A//www.rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidrepair.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503132120id_/http%3A//rapidrepair.com/Privacy/PP.htm) for the most accurate reproduction.*
 
 # Rapid Repair - Links | iPod Repair, iPhone Repair, Batteries, LCD Screens and more | Fast iPod Repair, iPhone Repair and Zune Repair | Fast iPod Repair, iPhone Repair and Zune Repair
 
@@ -91,6 +91,8 @@ If your personally identifiable information changes, or if you no longer desire 
 The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  To learn more about SSL, follow this  [ link](http://www.rapidssl.com/resources/siteseal/rapid-ssl.html).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 Affiliates
 
