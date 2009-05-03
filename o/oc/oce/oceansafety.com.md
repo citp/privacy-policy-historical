@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231091615id_/http%3A//www.oceansafetydirect.com/index.php%3Fdowhat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504013638id_/http%3A//www.oceansafetydirect.com/index.php%3Fdowhat%3Dprivacy) for the most accurate reproduction.*
 
 # Ocean Safety Direct
 
