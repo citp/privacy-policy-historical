@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155157id_/http%3A//www.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503151011id_/http%3A//covestor.com/privacy) for the most accurate reproduction.*
 
-# Make Money with Covestor's Proven Investors
+# Privacy Policy - Covestor
 
 ## Last Updated: 20 June 2008
 
@@ -118,4 +118,4 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can [Contact Us](https://web.archive.org/contact).
 
-2008 Covestor, Inc - 37 West 37th Street 12th Floor New York NY 10018 Tel:+1 646 217 4205 E-mail: [support@covestor.com](mailto:support@covestor.com)
+E-mail: [support@covestor.com](mailto:support@covestor.com)
