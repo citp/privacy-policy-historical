@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081901id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -86,14 +86,23 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 
 
   
-
-
-[](https://web.archive.org/web/20081217081901id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/TermsConditionsDisplay.do)
-
   
 
 
   
 
 
-| 
+|   
+---  
+| [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
+ | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
+  
+Partner Sites: [Pleasant Activities](http://www.pleasantactivities.com/) | [Hawaii World](http://www.hawaiiworld.com/) | [Distinguished Resorts](http://www.hawaiiworld.com/) | [Air by Pleasant](http://www.airbypleasant.com/)  
+  
+[Hawaii](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Hawaii.html) | [Mexico](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Mexico.html) | [Caribbean](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Caribbean.html) | [Costa Rica](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=CostaRica.html) | [Europe](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Europe.html) | [USA](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=USA.html) | [Tahiti](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Tahiti.html)  
+[Asia](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Asia.html) | [Australia](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Australia.html) | [New Zealand](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=NewZealand.html) | [Fiji/Cook Islands](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=FijiCookIslands.html)  
+[Cruise](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=Cruise_Destinations.html) | [Special Interest](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SpecialInterestTravel.html) | [Site Map](https://web.archive.org/web/20090503171203id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html)  
+  
+ Copyright © 1999-2009 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
+  
+SessionId: 0001rX_3QkYY0ZnX8bzui1xwO5k:1244ng167| 
