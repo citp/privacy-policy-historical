@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the covestor.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217155157id_/http%3A//www.covestor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the covestor.com privacy policy that was archived on 2009-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090503151011id_/http%3A//covestor.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head> 
-<title>Make Money with Covestor's Proven Investors</title>
-<meta name="title" content="Make Money with Covestor's Proven Investors">
-<meta name="description" content="Real-Trade sharing for self directed investors to build a track record and share their stock picks.  Brilliant personal investors beating professional money managers, mutual funds and hedge funds.  Free trade tacking, Investment tools, stock charts and stock market analysis">
+<title>Privacy Policy - Covestor</title>
+<meta name="title" content="Privacy Policy - Covestor">
+<meta name="description" content="At Covestor our most important asset is our relationship with you. Therefore, for both you and us, it is essential we safeguard the privacy of the personal information we maintain about you.">
 <meta name="keywords" content="Make Money, investors, investools, yahoo finance, seeking alpha, jim cramer, kramer, warren buffet, investing, funds, stocks, shares, portfolios, trades, mutual funds, hedge funds, investment, self directed, analysis, stock market investing, investor">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,17 +21,17 @@
 <meta name="revisit" content="5 days">
 
 
-<link href="/css/081112/cv.css" rel="stylesheet" type="text/css"><link href="/css/081112/widgets.css" rel="stylesheet" type="text/css"> <link href="/css/081112/home.css" rel="stylesheet" type="text/css"> <script src="/js/081112/prototype.js" type="text/javascript"></script>
-<script src="/js/081112/scriptaculous.js" type="text/javascript"></script>
+<link href="/css/081219/cv.css" rel="stylesheet" type="text/css"><link href="/css/081219/widgets.css" rel="stylesheet" type="text/css"> <link href="/css/081219/home.css" rel="stylesheet" type="text/css"> 
+<script src="/js/081112/protoaculous.js" type="text/javascript"></script>
 <script src="/js/081112/bf.js" language="javascript" type="text/javascript"></script>
 <script src="/js/081112/control.modal.js" language="javascript" type="text/javascript"></script>
 <script src="/js/081112/cal.js" language="javascript" type="text/javascript"></script>
 <script src="/js/081112/tooltip-v0.1.js" language="javascript" type="text/javascript"></script>
 
 
-	<!--[if IE 6]><link href="/css/081112/IE6styles.css" rel="stylesheet" type="text/css"><![endif]-->
+	<!--[if IE 6]><link href="/css/081219/IE6styles.css" rel="stylesheet" type="text/css"><![endif]-->
 
-	<!--[if IE 7]><link href="/css/081112/IE7styles.css" rel="stylesheet" type="text/css"><![endif]-->
+	<!--[if IE 7]><link href="/css/081219/IE7styles.css" rel="stylesheet" type="text/css"><![endif]-->
 
 	
 <script type="text/javascript">
@@ -136,8 +136,8 @@ function submitSearch(text, li) {
 										<option value="k">Keyword</option>
 									</select>
 									
-									<div class="auto_complete" id="search_auto_complete" style="display:none;"></div>
-									<input type="text" name="qu" id="qu" maxlength="100" value="" class="searchInput" style="float: left; margin: 3px 0px 0px 2px; height: 16px; _height: 17px !important; width: 150px;" onfocus="if (this.select &amp;&amp;  this.value=='') { this.value=''; }" onblur="if (this.value=='') { this.value=''; }">
+									<div class="member_auto_complete" id="search_auto_complete" style="display:none;"></div>
+									<input type="text" name="qu" id="qu" maxlength="100" value="" class="searchInput" style="float: left; margin: 3px 0px 0px 2px; height: 16px; _height: 17px !important; width: 150px;" onfocus="if (this.select &amp;&amp;  this.value=='') { this.value=''; }" onblur="if (this.value=='') { this.value=''; }" autocomplete="off">
 									<input type="image" name="action" id="action" src="/img/btn_search.gif" class="search_btn" value="submit" onclick="search($('qu'), $F('searchtype')); return false;"> 
 								</form>
 							</div>
@@ -251,14 +251,10 @@ function submitSearch(text, li) {
 			if($(divid)) {
 				if($(divid).style.display=='none') {
 					new Effect.BlindDown($(divid), {duration: 0.3});
-					//$(id).style.background='url("/img/arrowdown.gif") 5px 0px no-repeat !important';
-					$(id).style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id).style.backgroundPosition='1px -1175px';
+					$(id).className='lmenu2_header';
 				} else {
 					new Effect.BlindUp($(divid), {duration: 0.3});
-					//$(id).style.background='url("/img/arrowright.gif") 5px 0px no-repeat !important';
-					$(id).style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id).style.backgroundPosition='1px -513px';
+					$(id).className='lmenu2_header_collapsed';
 				}
 			}
 		}
@@ -266,18 +262,12 @@ function submitSearch(text, li) {
 		function toggle_lmenu(id) {
 				if($(id+'_footer').style.display=='none') {
 					$(id+'_header').className='lmenu_panel31_r1'; 
-					//$(id+'_lnk').style.background='1px 4px url("/img/arrowdown.gif") no-repeat';
-					$(id+'_lnk').style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id+'_lnk').style.backgroundPosition='1px -1175px';
-					
+					$(id+'_lnk').className='lmenu2_header';
 					$(id+'_footer').show();
 					new Effect.BlindDown($(id+'_div'), {duration: 0.3
 					});
 				} else {
-					//$(id+'_lnk').style.background='1px 4px url("/img/arrowright.gif") no-repeat';
-					$(id+'_lnk').style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id+'_lnk').style.backgroundPosition='1px -513px';
-					
+					$(id+'_lnk').className='lmenu2_header_collapsed';
 					$(id+'_footer').hide();
 					new Effect.BlindUp($(id+'_div'), {duration: 0.3,
 						afterFinish: function(){ 
@@ -289,14 +279,10 @@ function submitSearch(text, li) {
 		
 		function toggle_lmenu2(id) {
 				if($(id+'_div').style.display=='none') {
-					//$(id+'_lnk').style.background=' 1px 3px url("/img/arrowdown.gif") no-repeat';
-					$(id+'_lnk').style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id+'_lnk').style.backgroundPosition='1px -1175px';
+					$(id+'_lnk').className='lmenu2_header';
 					new Effect.BlindDown($(id+'_div'), {duration: 0.3});
 				} else {
-					//$(id+'_lnk').style.background=' 1px 3px url("/img/arrowright.gif") no-repeat';
-					$(id+'_lnk').style.background='url(/img/leftmenu-sprite.gif) no-repeat top left !important';
-					$(id+'_lnk').style.backgroundPosition='1px -513px';
+					$(id+'_lnk').className='lmenu2_header_collapsed';
 					new Effect.BlindUp($(id+'_div'), {duration: 0.3});
 				}
 		}
@@ -398,7 +384,7 @@ function truste_complaint_window_open() {
 <div id="content">
 <div class="content_c1">
 
-<h1>Covestor Privacy Policy</h1>
+<h1>Privacy Policy</h1>
 <h2>Last Updated: 20 June 2008</h2>
 
 <h2 class="grn">Introduction</h2>
@@ -465,7 +451,7 @@ function truste_complaint_window_open() {
 <p class="p2">The security of your personal information is important to us.  When you enter sensitive information (such as investment portfolio on our site, we encrypt that information using secure socket layer technology (SSL).</p>
 <p class="p2">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
 <p class="p2">If you have any questions about security on our Web site, you can <a style="font-size:13px" href="/contact">Contact Us</a>.</p>
-<p class="p2">2008 Covestor, Inc - 37 West 37th Street 12th Floor New York NY 10018  Tel:+1 646 217 4205 E-mail: <a style="font-size:13px" href="mailto:support@covestor.com">support@covestor.com</a></p>
+<p class="p2">E-mail: <a style="font-size:13px" href="mailto:support@covestor.com">support@covestor.com</a></p>
 </div>
 </div>
 
@@ -489,7 +475,7 @@ function verisign_window_open() {
 <nobr>
 <a href="/about/covestor">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://covestor.typepad.com/weblog/jobs/index.html" target="_blank">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/help/top10help">Top 10 Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/help/top10help">Top 10 FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/help/">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/help/faq">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://covestor.typepad.com/">Covestor Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -498,7 +484,7 @@ function verisign_window_open() {
 <a href="/help/glossary">Glossary</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/terms">Terms of Use</a>&nbsp;&nbsp;
 </nobr>
-<p style="float:left;margin-top:13px;color:#000000;font-size: 1em;font-family: " trebuchet="" ms",="" arial,="" sans-serif;font-weight:normal;"="">© 2008 Covestor, Inc - 37 West 37th Street 12th Floor New York NY 10018
+<p style="float:left;margin-top:13px;color:#000000;font-size: 1em;font-family: " trebuchet="" ms",="" arial,="" sans-serif;font-weight:normal;"="">© 2009 Covestor, Inc - 37 West 37th Street 12th Floor New York NY 10018
 </p>
 </div>
 <div id="footer_r1_c3">
@@ -532,4 +518,4 @@ function verisign_window_open() {
 
 
 <!-- 10 ms -->
-</body></html>
+<div id="modal_overlay" style="position: absolute; top: 0px; left: 0px; z-index: 9998; display: none;"></div><div id="modal_container" style="display: none;"></div><div id="modal_loading" style="display: none;"></div></body></html>
