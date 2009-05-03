@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022204127id_/http%3A//www.gitex.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503121305id_/http%3A//www.gitex.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
 
 # GITEX TECHNOLOGY WEEK | Privacy
 
@@ -41,4 +41,4 @@ GITEX TECHNOLOGY WEEK and Dubai World Trade Centre use reasonable security measu
  **Changes to the Privacy Policy**  
 We reserve the right to modify this Privacy Policy at any time without prior notice. In the event that we update or modify this Privacy Policy, we will strive to post such updates or modifications on this Website for a period of thirty days following any such modifications, and the last date this Privacy Policy was updated will be indicated as the latest Effective Date at the top of this Privacy Policy. Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty days. Your continued use of this Website shall constitute your acceptance of the modified Privacy Policy.
 
-[](https://web.archive.org/visiting/tickets_en_gb.aspx)
+[](https://web.archive.org/Advertise_en_gb.aspx)
