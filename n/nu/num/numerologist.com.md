@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080520id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503123415id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
 
 # Numerologist.com -- Privacy Policy
 
@@ -11,12 +11,12 @@ We collect personal information to allow us to personalize Horoscopes, Astrology
 ## WEBSITE ADMINISTRATION 
 
 Business name: Numerologist.com   
-Address: 46 Francis Avenue   
-City: Christchurch   
-State/Province: Canterbury   
-Country: New Zealand   
+Address: 14525 SW Millikan Way # 28110   
+City: Beaverton   
+State/Province: Oregon 97005-2343  
+Country: USA  
 Website URL: http://www.Numerologist.com  
-Website e-mail: blair@numerologist.com
+Website e-mail:blair@numerologist.com 
 
 ## INFORMATION COLLECTION AND USE
 
@@ -77,8 +77,9 @@ Blair Gorman
 Numerologist.com
 
 **  
-Numerologist.com**  
-46 Francis Avenue, Christchurch, New Zealand  
+****Numerologist.com**  
+14525 SW Millikan Way # 28110  
+Beaverton, OR 97005-2343 USA  
 [blair@numerologist.com](mailto:blair@123-astrology.com)  
   
 
