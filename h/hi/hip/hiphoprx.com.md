@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphoprx.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163832id_/http%3A//www.hiphoprx.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphoprx.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503171907id_/http%3A//www.hiphoprx.com/privacypolicy) for the most accurate reproduction.*
 
 # Hip Hop RX - Privacy Policy | HipHopRX.com - Your Daily Dose of Hip-Hop
 
@@ -23,7 +23,12 @@ We explicitly ask when we need information that personally identifies you. For e
 
 HipHopRX.com may occasionally inform you of new news, music, services, and events. We may select other companies to send you information about their products or services, but we are careful about who we deal with; nevertheless, if you don’t want HipHopRX.com to do this, then you may opt out when you give us your personal information, or you may email [info@hiphoprx.com](mailto:info@hiphoprx.com) to request that you not receive such offers. 
 
-If at any time you believe that HipHopRX.com has not adhered to these principles, please notify us by email to [info@hiphoprx.com](mailto:info@hiphoprx.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem. We may link to other sites which may ask you for your personal information to fulfill orders for products; please review the privacy policies of these companies for further information. For more information about protecting your privacy, see the Electronic Privacy Information Center (http://www.epic.org). 
+If at any time you believe that HipHopRX.com has not adhered to these principles, please notify us by email to [info@hiphoprx.com](mailto:info@hiphoprx.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
+
+We may link to other sites which may ask you for your personal information to fulfill orders for products; please review the privacy policies of these companies for further information. For more information about protecting your privacy, see the Electronic Privacy Information Center (http://www.epic.org). 
+
+**Third Parties**  
+We also use third party advertisements on HipHopRX.com to support our site. Some of these companies (such as Google through Google Adsense Program) may use technology such as cookies and web beacons when they advertise on our site, which will use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by [Google](http://www.google.com/privacy.html).
 
 **Passwords**  
 Many aspects of HipHopRX.com interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user’s identity. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly.
@@ -44,4 +49,4 @@ Access to personal information is strictly controlled and limited to certain ind
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 **How to Contact Us**  
-If you have any questions or concerns about the HipHopRX.com online privacy policy for this site or its implementation you may contact using [‘Contact Us’ link](http://www.hiphoprx.com/contact/) or at: [info@hiphoprx.com](mailto:info@hiphoprx.com) or at HipHoprX.com, (901)-248-6489.
+If you have any questions or concerns about the HipHopRX.com online privacy policy for this site or its implementation you may contact using [‘Contact Us’ link](http://www.hiphoprx.com/contact/) or at: [info@hiphoprx.com](mailto:info@hiphoprx.com).
