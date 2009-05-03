@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015442id_/http%3A//www2.marks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503105035id_/http%3A//www2.marks.com/privacy.asp) for the most accurate reproduction.*
 
 # Mark's Work Wearhouse
 
 E-CAST OFFERS  
-[Sign up now >](https://web.archive.org/web/20081216015442id_/http%3A//www2.marks.com/rewardsClub.asp)
+[Sign up now >](https://web.archive.org/web/20090503105035id_/http%3A//www2.marks.com/rewardsClub.asp)
 
 [](http://www2.marks.com/ourguarantee.asp)
 
@@ -156,16 +156,20 @@ If your questions, concerns or complaints have not been resolved to your satisfa
 SHOPPING CART  
 View items >
 
-[](http://www2.marks.com/products.asp?categoryID=363)  
-Industrial Footwear  
+[](http://www2.marks.com/category.asp?categoryID=1)  
+Men's Apparel and Footwear  
 
 
-[](http://www2.marks.com/products.asp?categoryID=292)  
-Polos  
+[](http://www2.marks.com/category.asp?categoryID=137)  
+Women's Apparel and Footwear  
 
 
-[](http://www2.marks.com/products.asp?categoryID=356)  
-Tops  
+[](http://www2.marks.com/category.asp?categoryID=195)  
+Industrial Apparel and Footwear  
+
+
+[](http://www2.marks.com/category.asp?categoryID=349)  
+Healthwear  
   
   
 ---|---|---|---|---
