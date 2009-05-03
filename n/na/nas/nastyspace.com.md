@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nastyspace.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205171455id_/http%3A//www.nastyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nastyspace.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503202327id_/http%3A//www.nastyspace.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
