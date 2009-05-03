@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231151336id_/http%3A//www.newbalance.com.au/%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com.au privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503063915id_/http%3A//www.newbalance.com.au/%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
 # New Balance
 
