@@ -1,0 +1,237 @@
+> *The following text is extracted and transformed from the walmartchecks.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503034427id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D120621) for the most accurate reproduction.*
+
+# Walmart.com: Help: Our Privacy Policy
+
+What Personal Information We Collect
+
+  
+
+
+As set forth in more detail below, Wal-Mart.com USA, LLC ("Walmart.com" or "We") collects personal information that you provide when using the Walmart.com website ("Site"). This information includes your first and last name, email address and a password when you create your Walmart.com account.
+
+  
+
+
+You can browse this Site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and other Walmart.com services.
+
+  
+
+
+We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity.
+
+  
+
+
+Top of Page
+
+Purchase Information
+
+  
+
+
+When you make a purchase from Walmart.com, we collect your name and payment method information, such as credit card information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address and phone number of the intended recipient(s).
+
+When you create an account at Walmart.com, you can choose to save your billing information in "My Account." You can also save one or more shipping addresses in your Walmart.com Address Book. You may change or delete this saved information anytime. Simply go to [My Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Credit Card Information," "Address Book" or "Change Name, Email & Password" and edit or delete whatever personal information you wish.
+
+Top of Page
+
+Services Account Information
+
+  
+
+
+We collect personal information from customers who wish to use any of the Walmart.com services, including but not limited to, Walmart.com's Photo Center, Music Downloads, Gift Registry, Pharmacy and Vision Center. In order to use these services, you must provide your email address and password or create an account at Walmart.com.
+
+Top of Page
+
+Contacting Walmart.com
+
+  
+
+
+We will use your email address, or phone number in some instances, to respond to your questions, suggestions and/or requests for assistance in using this Site.
+
+Top of Page
+
+Other Times We May Collect Personal Information
+
+  
+
+
+From time to time, Walmart.com may conduct surveys, contests and sweepstakes via this Site, email, other media or in Wal-Mart stores. If you participate, we may collect your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.
+
+Top of Page
+
+How We Use Your Personal Information
+
+Information we collect on Walmart.com may be used to enhance your shopping experience in the following ways:
+
+  
+
+
+  * Deliver merchandise and services that you purchase online
+  * Register you as a member of Walmart.com 
+  * Prevent fraud and bill you for your purchases 
+  * Confirm your orders 
+  * Respond to your customer service inquiries or requests 
+  * Communicate great values and featured items to you
+  * Find and stock the products you want 
+  * Customize your shopping experience
+  * Comply with valid legal procedures, requirements, regulations or statutes
+
+
+
+Top of Page
+
+When and With Whom We Share Your Personal Information
+
+We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information and/or purchase history only with our agents, representatives, service providers and contractors for limited purposes, including but not limited to, fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving customers' shopping experience; administering or facilitating surveys, contests or sweepstakes; offering targeted marketing communications to users that opted-in to receive such communications; enabling access to our partners' websites; providing a personalized shopping experience; preventing fraud; and completing payment method processing.
+
+Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability), or to comply with valid legal processes (subpoenas, warrants) as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
+
+Top of Page
+
+How You Can Control the Use of Your Personal Information
+
+  
+
+
+You can modify or delete your personal information anytime. Simply go to My Account . Log in with your email address and password, then click "Credit Card Information," "Checking Account Information," "Address Book" or "Change Name, Email & Password" and edit or delete whatever information you wish.
+
+  
+
+
+Do not share your Walmart.com password with anyone. Other than on this Site, Walmart.com will never ask you for your password.
+
+Top of Page
+
+How We Protect the Security of Your Personal Information
+
+The security of your personal information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent over the Internet.
+
+Walmart.com has also obtained a digital certificate from Verisign, Inc., a leading provider of Internet trust services. When you enter a secure portion of this Site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to a Walmart.com Web server, not to some unknown or unauthorized server.
+
+Ultimately, your personal information is protected by the password you created when you signed up for an account at Walmart.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Walmart.com will ever ask you for your password.
+
+The confidentiality of your password is yours to protect. You may change it anytime by going to [My Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Change Name, Email & Password" and enter a new password.
+
+Personal information that we maintain is subject to physical, administrative, and technical controls. When we do have to collect your most sensitive personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only.
+
+Top of Page
+
+Cookies and Other Computer Information
+
+When you visit Walmart.com, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of this cookie is to identify you when you visit the Site so that we can enhance and customize your online shopping experience.
+
+You can choose to browse on Walmart.com without cookies. However, without these identifier files you will not be able to complete a purchase or take advantage of certain features of the Site. These features include storing your shopping cart for later use and providing a more personalized shopping experience. Each browser is different, so check your browser?s "Help" menu to learn how to change your cookie preferences.
+
+We also collect certain technical information from your computer each time you request a page during a visit to Walmart.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to the Site and will not sell or rent this information to any third parties.
+
+We also contract with third parties to provide us with: data collection and reporting services regarding our customers' activities on the Site; tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. These third parties may use cookies and Web beacons (1 x 1 pixels), and may receive anonymous information about your browsing and buying activity on the Site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used to serve ads to you, you can change the settings of your browser to reject cookies. Each browser is different, so check your browser?s "Help" menu to learn how to change your cookie preferences.
+
+Top of Page
+
+Third Party Advertising
+
+  
+
+
+Walmart.com participates in cookie-based ad network advertising, known as ad serving, for a portion of the advertising found on the Site. This means that our ad serving partner uses cookies, web beacons, or similar technologies to serve you advertisements tailored to the interests you have demonstrated by browsing on this and other websites you have visited. The ad serving system also helps determine whether you have seen a particular advertisement before in order to avoid sending you duplicate advertisements. 
+
+We do not permit our ad serving partner to collect personal information about you on the Site, nor do we transmit to them any personal information about you. Our partner may use non-personal information about you (like browser information) that they collect or we send them to display ads on Walmart.com. This information will help improve the relevance of advertising you see on our site as well as other websites you view. Our ad serving partner may also use non-personal information about its own users, which may include you, to select ads to serve on our pages. Click here to learn more about the ad serving business practices and privacy policies of our ad serving partner, including how to decline participation in use of ad serving in this manner on Walmart.com. 
+
+Top of Page
+
+How You Can Decide What Marketing Communications You Receive From Us
+
+  
+
+
+Walmart.com may from time to time send you email messages or other forms of marketing communications describing new items, featured merchandise and great values. You can choose to stop receiving any marketing emails from us at any time by following these steps: 
+
+  1. Go to [My Account](https://web.archive.org/cservice/ya_index.gsp) and sign in.
+  2. Click "Newsletter Email Preferences."
+  3. Remove the check in the box next to the online email newsletter(s) you would no longer like to receive.
+
+
+
+Please allow up to 10 days for us to process your request. If you would prefer to stop receiving other forms of marketing communications from us, please follow the directions on the marketing materials or contact our Customer Service department. 
+
+The only email messages you will receive from Walmart.com when you elect not to receive marketing emails will be to: 
+
+  * Confirm any purchases you make on this Site
+  * Let you know your order has been shipped
+  * Share other information about your order
+  * Respond to your customer service inquiries
+  * Answer any other questions you may have about this Site 
+
+
+
+In addition, we may also need to send operational emails to inform you of any changes to this Site that might affect your personal information, or to announce product recalls. Finally, you will receive service and reminder emails if you register to use certain Walmart.com services, such as the Photo Center, Pharmacy, Vision Center, Music Downloads and Gift Registry, or if you elect to participate in our market research testing.
+
+Top of Page
+
+How We Protect the Privacy of Children
+
+To protect children's personal information and to meet the standards of the Children's Online Privacy Protection Act (COPPA), we do not collect any personal information from children under 13 that can be used to specifically identify them. Except for the Wal-Mart Toyland Site (further described below), Walmart.com is a general audience website not geared toward children. Children under the age of 13 may browse this Site, but they may not create a Walmart.com account, make a purchase, sign up for email newsletters or participate in contests or surveys.
+
+In several areas of Walmart.com, such as when customers contact us via email, create a Walmart.com account or sign up for email newsletters and alerts, we ask for birth year information. This information helps us ensure that children do not provide us with their personal detailed information.
+
+We do **not** save birth year information, or use it for any marketing, promotional or any other purpose.
+
+We appreciate your cooperation in helping enforce children's online privacy. Still have questions? We invite you to review our [Privacy Policy](https://web.archive.org/catalog/catalog.gsp?cat=538446), or get more information on COPPA from the [Federal Trade Commission](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.htm).
+
+Top of Page
+
+More About Your Privacy
+
+We realize that making purchases at Walmart.com, or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our customer, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address, and credit card or checking account information, in addition to any other personal information that can be linked to you, personally.
+
+We believe that you have a right to know, before shopping at Walmart.com or at any other time, exactly what information we might collect from you, why we collect it and how we use it.
+
+We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit.
+
+If you have an account at Walmart.com and you want to change, modify or delete any of your personal information, you can do so anytime by going to [My Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Credit Card Information," "Checking Account Information," "Address Book" or "Change Name, Email & Password" and edit or delete whatever personal information you wish.
+
+Walmart.com may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on this Site. Other websites may have their own policies regarding privacy and security.
+
+Walmart.com will obtain your consent before allowing the download of any software from Walmart.com, and Walmart.com will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to, downloaded software, required or automated updates, modifications, reinstallations or software otherwise obtained through the use of Walmart.com is done at your own discretion and risk, and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
+
+Top of Page
+
+The Wal-Mart Toyland Site
+
+  
+
+
+This site collects the first name, screen name and items on the Wish List provided by the child solely to permit the child to create a Wish List and share it with parents and adult family members. Walmart does not collect any information that can be used to personally identify the child.   
+In order to forward the Wish List to their parent or adult family member, the child submits an adult's e-mail address. This is used solely for the purpose of delivering the Wish List, and is not shared or used for any other purpose. 
+
+Top of Page
+
+How can I contact you with questions about my privacy?
+
+  
+
+
+If you have questions or comments about this privacy policy, please contact us in any of the following ways:
+
+> By Email:  
+>  [Privacy@wal-mart.com](mailto:Privacy@wal-mart.com)
+> 
+> By Mail:   
+>  Wal-Mart Stores, Inc.   
+>  Privacy Office (Mailstop #505)  
+>  508 SW 8th Street  
+>  Bentonville, AR 72716-0505
+
+Top of Page
+
+Changes to the Walmart.com Privacy Policy
+
+  
+
+
+This Privacy Policy was last updated on November 10, 2008. Please check our Privacy Policy periodically for changes.
+
+Top of Page
