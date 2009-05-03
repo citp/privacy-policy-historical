@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100740id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503073134id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
 * * *
 
-## Credit Card Security
-
-  
+**Credit Card Security**   
 The Payment Card Industry (PCI) Data Security Standard ("PCI Standard") is intended to protect cardholders' credit card account and transaction information. Invitation Consultants, Inc. has been   
-certified "PCI Compliant" by Hacker Safe®. 
+certified "PCI Compliant" by MacAfee®. 
 
 Click here to verify: 
 
-[](https://www.scanalert.com/RatingVerify?ref=www.invitationconsultants.com)  
+[](https://www.scanalert.com/RatingVerify?ref=www.invitationconsultants.com)
 
 * * *
 
 ## Privacy Notice: 
 
-_Last updated: 6/19/2007_ | [](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
+_Last updated: 12/23/2008_ | [ ](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
 
 Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.invitationconsultants.com.   
   
@@ -193,6 +191,6 @@ In the event Invitation Consultants, Inc. goes through a business transition, su
   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-**Invitation Consultants, Inc,  ** |  8176 Woodland Center Blvd.  |  Tampa, FL 33614 
+**Invitation Consultants, Inc.  ** |  8180 Woodland Center Blvd.  |  Tampa, FL 33614 
 
 (back to top)
