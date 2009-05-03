@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053645id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503130352id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
 
 # Grab Your FREE Website - TODAY - From YourBizWebsites
 
@@ -40,7 +40,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 By using the YourBizWebsites.com subscription form, you consent to the collection and use of information by Automated Income Stream Ltd as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Copyright 2008© YourBizWebsites.com | All rights reserved.
+Copyright 2009© YourBizWebsites.com | All rights reserved.
 
 **Automated Income Stream Ltd** : Suite 127, Communications House, 9 St Johns Street, Colchester, Essex CO2 7NN United Kingdom   
 Registered Number: 6307027. Data Protection Registration: Z1030471 
