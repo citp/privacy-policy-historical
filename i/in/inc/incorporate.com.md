@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084654id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503111122id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # The Company Corporation Privacy Policy | Incorporate.com
 
-[Home](https://web.archive.org/web/20081216084654id_/http%3A//www.incorporate.com/index.html "Home") > Privacy Policy 
+[Home](https://web.archive.org/web/20090503111122id_/http%3A//www.incorporate.com/index.html "Home") > Privacy Policy 
 
-**Last Revised: September 12, 2007**
+**Last Revised:  December 29, 2008**
 
 Our Privacy Statement explains how we gather your personal and company data, how we handle and protect this data, and what further steps you can take to protect your data. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data. All changes to this Statement will be effective upon posting to this Web site without any other notice to you. 
 
@@ -34,6 +34,6 @@ You play a vital role in ensuring the security of your information on this Web s
 
 You should also take the necessary precautions to safeguard your user i.d. and password to prevent unauthorized access to your information stored on this Web site and the applications within this Web site. 
 
-If you require assistance to update or delete your information, or if you feel that your user i.d. and password have been compromised, you should contact our Customer Service staff at 800-818-6082 (toll-free) or 302-636-5440. Our hours of operation are Monday - Friday from 8 a.m. to 8 p.m. Eastern Time and Saturday - Sunday from 9 a.m. to 6 p.m. Eastern Time. 
+If you require assistance to update or delete your information, or if you feel that your user i.d. and password have been compromised, you should contact our Customer Service staff at 800-818-6082 (toll-free) or 302-636-5440. Our hours of operation are Monday - Friday from 8 a.m. to 8 p.m. Eastern Time. 
 
 If you wish for your contact information not to be shared with outside parties, or if you would rather not receive any updates from us, please send a request to [remove@incorporate.com](mailto:remove@incorporate.com). 
