@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905171102id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503033351id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
 
 # ATEN KVM Switch - Simply Better Connections
 
