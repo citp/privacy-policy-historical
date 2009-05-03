@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getharvest.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080206id_/http%3A//www.getharvest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getharvest.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503121619id_/http%3A//www.getharvest.com/privacy) for the most accurate reproduction.*
 
-# Simple online time tracking, timesheet and reporting software: Harvest
+# Privacy Policy : Harvest Time Tracker & Invoicing Software
 
 HARVEST is a product of Iridesco, LLC. Iridesco, LLC. is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it. 
 
