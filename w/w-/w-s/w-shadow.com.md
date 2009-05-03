@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2008-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080706185919id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503053424id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
 
 # ø Privacy | W-Shadow.com ø
 
@@ -19,6 +19,10 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 ### Controlling Your Privacy
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+
+### Special Note About Google Advertising
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
 ### Contact Information
 
