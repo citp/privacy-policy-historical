@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035157id_/http%3A//www.cebupacificair.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503042835id_/http%3A//www.cebupacificair.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Cebu Pacific Air - It's time everyone flies
 
@@ -41,6 +41,6 @@ Your Cebu Pacific Account Information is password-protected for your privacy and
 Cebu Pacific may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions please [contact us here](https://web.archive.org/web/20081217035157id_/http%3A//www.cebupacificair.com/help/contact.html). 
+If you have questions or suggestions please [contact us here](https://web.archive.org/web/20090503042835id_/http%3A//www.cebupacificair.com/help/contact.html). 
 
-< [Back to Homepage](https://web.archive.org/web/20081217035157id_/http%3A//www.cebupacificair.com/index.html)
+< [Back to Homepage](https://web.archive.org/web/20090503042835id_/http%3A//www.cebupacificair.com/index.html)
