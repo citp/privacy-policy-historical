@@ -1,169 +1,61 @@
-> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116063350id_/https%3A//www.expertflyer.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503135443id_/http%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
 
-# PRIVACY POLICY ExpertFlyer.com Privacy Policy We at Expert Travel Services, LLC. ("we" or "ExpertFlyer.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the ExpertFlyer.com Website, but does not apply to any other Website or offline point of contact between ExpertFlyer.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time, and is subject to change without notice. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. Your IP Address Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. Cookies Like most Websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site. Information We Collect From You In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information;
+# ExpertFlyer.com
 
-PRIVACY POLICY
-ExpertFlyer.com Privacy Policy
-We at Expert Travel Services, LLC. ("we" or "ExpertFlyer.com") have created this
-privacy policy to demonstrate our firm commitment to protecting your personal
-information and informing you about how we handle it. This privacy policy only applies
-to transactions and activities in which you engage, and data gathered, on the
-ExpertFlyer.com Website, but does not apply to any other Website or offline point of
-contact between ExpertFlyer.com, or any other company, and consumers. Please review
-this privacy policy periodically as we may modify it from time to time, and is subject to
-change without notice. Each time you visit the Site or provide us with information, by
-doing so you are accepting the practices described in this privacy policy at that time.
-Your IP Address
-Like most e-commerce Websites, each time you visit the Site, we automatically collect
-your IP address and the web page from which you came. In order to administer and
-optimize the Site for you and to diagnose problems with our Site, we use your IP address
-to help identify you and to gather broad demographic information about you.
-Cookies
-Like most Websites, the Site uses cookies to keep track of your purchases and other
-activity on the Site and enhance your experience on the Site. Third party advertisers on
-the Site may also place or read cookies on your browser. If you wish to disable these
-cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if
-you set your browser to disable cookies, you may not be able to access certain areas on
-the Site.
-Information We Collect From You
-In order to operate the Site and to provide you with information about products or
-services that may be of interest to you, we may collect "personal information" (i.e.
-information that could be used to contact you directly (without using the Site) such as full
-name, postal address, phone number or email address), "financial information" (i.e. credit
-card numbers or passwords) or "demographic information" (i.e. information that you
-submit, or that we collect, that is neither personal information nor financial information;
+**ExpertFlyer.com® Privacy Policy**
 
+We at Expert Travel Services, LLC. ("we" or "ExpertFlyer.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the ExpertFlyer.com Website, but does not apply to any other Website or offline point of contact between ExpertFlyer.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time, and is subject to change without notice. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
-this may include, but is not limited to, zip code, postal code, hometown, username,
-purchase history information, browsing history information, searching history
-information, and registration history information), subject to the rest of this paragraph.
-Demographic information is divided into two categories: 1) "non-public information",
-which consists of purchase history information and one-on-one communications between
-you and other users of the Site; and 2) "public information", which consists of all other
-demographic information.
-Information Other Websites Collect From You
-On the Site, we place links to other Websites operated by other parties. Some of these
-other Websites contain our brand names and trademarks and other intellectual property
-that we own; others do not. When you click on these links and visit these other Websites,
-regardless of whether or not they contain our brand names, trademarks and other
-intellectual property, you need to be aware that we do not control these other Websites or
-these other Websites’ business practices, and that this privacy policy does not apply to
-these other Websites. Consequently, the operators of these other Websites may collect
-different kinds of information about you, and may use and disclose that information in
-different ways than we would if it were collected on the Site. We encourage you to
-review their privacy policies and remind you that we will not be responsible for their
-actions.
-How We Use Personal Information
-We use your email address and your other personal information to help us efficiently
-operate the Site, to contact you in connection with your transactions and other activities
-on the Site (including, but not limited to, confirmation emails or important news that
-could affect your relationship with ExpertFlyer.com). These types of communications are
-known as "Operational Communications." In some cases, Operational Communications
-may also contain commercial messages, such as banner ads and special offers.
-We also use personal information to send you newsletters, information, offers and other
-promotional materials for ExpertFlyer.com’s goods or services. We attempt to send you
-offers that are of value to you, such as discounts or exclusives. By signing up to use our
-services on the Site, you are opting in to receive the ExpertFlyer.com by email.
-To operate the Site, including processing your transactions and supporting your activities
-on the Site, we may share your personal information with our agents, representatives,
-contractors and service providers so they can provide us with support services such as
-authorization of credit card transactions, email origination, receipt or support services,
-customer relationship management services, order fulfillment and sweepstakes and
+**Your IP Address**
 
+Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
 
-promotional fulfillment. We require these entities not to use your information for any
-other purpose.
-By purchasing, or registering or making reservations for, products or services offered or
-sponsored by third parties on the Site, or electing to receive communications (such as
-emails or magazine subscriptions) or electing to participate in contests, sweepstakes or
-other programs (such as discount or rewards programs), offered or sponsored by third
-parties on the Site, you consent to our providing your personal information to those third
-parties. Those third parties may use your personal information in accordance with their
-own privacy policies. You will need to contact those third parties to instruct them directly
-regarding your preferences for the use of your personal information by them.
-Additionally, you agree that we may use and disclose all such information so submitted
-to such third parties in the same manner in which we are entitled to use and disclose any
-other information you submit to us.
-Any third party with whom we are allowed to share your personal information is
-authorized to use your personal information in accordance with our contractual
-arrangements with such third parties and in accordance with their own privacy policies,
-over which we have no control, and you agree that we are not responsible or liable for
-any of their actions or omissions.
-Please read the information below under the heading "Special Cases in which we Share
-Personal and Financial Information" to learn more ways in which we may share your
-personal information.
-How We Use Financial Information
-We use your financial information to check your qualifications, to bill you for products
-and services and to enable you to participate in discount, rebate and similar programs in
-which you may elect to participate. By making a purchase, or engaging in any other kind
-of activity or transaction that uses financial information, on the Site, you consent to our
-providing your financial information to our service providers and to such third parties as
-we determine are necessary to support and process your activities and transactions, as
-well as to your credit card issuer for their purposes. These third parties may include the
-credit card companies and banking institutions used to process and support the
-transaction or activity. By purchasing, or registering or making reservations for, products
-or services of third parties offered on the Site, or by participating in programs offered on
-the Site that are administered by third parties and that require you to submit financial
-information in order to use them, you also consent to our providing your financial
-information to those third parties. Additionally, you agree that we may use and disclose
-all such information so submitted to such third parties in the same manner in which we
-are entitled to use and disclose any other information that you submit to us. Please read
-the information below under the heading "Special Cases in which we Share Personal and
+**Cookies**
 
+Like most Websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site. 
 
-Financial Information" to learn more ways in which we may share your financial
-information.
-Special Cases in which we Share Personal and Financial Information
-Your personal information or financial information may be passed on to a third party in
-the event of a transfer of ownership or assets, or a bankruptcy. We may also disclose
-personal information or financial information when we determine that such disclosure is
-necessary to comply with applicable law, to cooperate with law enforcement or to protect
-the interests or safety of ExpertFlyer.com or other visitors to the Site. We also may
-disclose your personal information or financial information to our subsidiary and parent
-companies and businesses, and other affiliated legal entities and businesses with whom
-we are under common corporate control. Whenever personal information or financial
-information is disclosed under this paragraph, we may also disclose your demographic
-information along with it, on a non-anonymous basis. All of our parent, subsidiary and
-affiliated legal entities and businesses that receive your personal information, financial
-information, or non-anonymous demographic information from us will comply with the
-terms of this privacy policy with respect to their use and disclosure of such information.
-How We Use Public Information and Other Demographic Information
-We may review all demographic information. We may use demographic information to
-tailor the Site and communications to your interests. We may also share demographic
-information with advertisers on an anonymous and aggregated basis (i.e., without telling
-the advertisers your identity). One of the reasons we may do this is to increase the
-likelihood that our advertisers’ goods and services will appeal to ExpertFlyer.com’s
-users, so that we may target specific ads at specific demographic groups. Our sharing of
-demographic information with advertisers is anonymous (i.e., we do not tell advertisers
-which particular ExpertFlyer.com users are members of which demographic groups),
-subject to the rest of this privacy policy. When you respond to an advertisement,
-however, we ask you to remember that if that ad that is targeted to a demographic group
-and you decide to give the advertiser your personal information, then the advertiser may
-be able to identify you as being a member of that demographic group. Please also be
-aware that we may disclose your demographic information on a non-anonymous basis as
-described above in the paragraph titled "Special Cases in which we Share Personal and
-Financial Information."
+**Information We Collect From You**
 
+In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, username, purchase history information, browsing history information, searching history information, and registration history information), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Site; and 2) "public information", which consists of all other demographic information. 
 
-Our Security Precautions
-The Site has security measures in place to protect against the loss, misuse and alteration
-of the information under our control. Our secure server software (SSL) is the industry
-standard and among the best software available today for secure commerce transactions.
-We encrypt all of your personal and financial information as it travels over the Internet
-and we store your financial information on our servers in encrypted form. Your
-information may be transferred to and maintained on computer networks which may be
-located outside of the state, province, country or other governmental jurisdiction in which
-you reside, and the country or jurisdiction in which these computer networks are located
-may not have privacy laws as protective as the laws in your country or jurisdiction.
-Changing our Privacy Policy for Previously Gathered Information
-If at any point we decide to use particular personally identifiable information in a manner
-different from that stated at the time it was collected, we will notify users by way of an
-email or by providing 30 days notice on the Site. Please note that we will continue to
-have the right to change our privacy policy and practices, and how we use your
-personally identifiable information, without notice, as described in the first paragraph of
-this Privacy Policy, provided that such changes shall only apply to information gathered
-on or after the date of the change.
-If you have any questions or concerns about this privacy policy, the practices of the Site,
-or your dealings with the Site, you can contact us at legal@expertflyer.com. You can also
-send us mail to: Privacy Officer, ExpertFlyer.com, 414 West Sunrise Hwy, #311,
-Patchogue, NY 11772.
+**Information Other Websites Collect From You**
+
+On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites' business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions. 
+
+**How We Use Personal Information**
+
+We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with your transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with ExpertFlyer.com). These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
+
+We also use personal information to send you newsletters, information, offers and other promotional materials for ExpertFlyer.com's goods or services. We attempt to send you offers that are of value to you, such as discounts or exclusives. By signing up to use our services on the Site, you are opting in to receive the ExpertFlyer.com by email. 
+
+To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
+
+By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us. 
+
+Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. 
+
+Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information. 
+
+**How We Use Financial Information**
+
+We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine are necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support the transaction or activity. By purchasing, or registering or making reservations for, products or services of third parties offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your financial information. 
+
+**Special Cases in which we Share Personal and Financial Information**
+
+Your personal information or financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy. We may also disclose personal information or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of ExpertFlyer.com or other visitors to the Site. We also may disclose your personal information or financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. Whenever personal information or financial information is disclosed under this paragraph, we may also disclose your demographic information along with it, on a non-anonymous basis. All of our parent, subsidiary and affiliated legal entities and businesses that receive your personal information, financial information, or non-anonymous demographic information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such information. 
+
+**How We Use Public Information and Other Demographic Information**
+
+We may review all demographic information. We may use demographic information to tailor the Site and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers' goods and services will appeal to ExpertFlyer.com's users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular ExpertFlyer.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." 
+
+**Our Security Precautions**
+
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
+
+**Changing our Privacy Policy for Previously Gathered Information**
+
+If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. 
+
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at . You can also send us mail to: Privacy Officer, ExpertFlyer.com, 414 West Sunrise Hwy, #311, Patchogue, NY 11772.
+
+ExpertFlyer®, ExpertFlyer.com®, Empowering the Frequent Flyer® and the ExpertFlyer.com logo are registered trademarks of Expert Travel Services, LLC.
