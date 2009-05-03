@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mars.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100529id_/http%3A//www.mars.com/global/Policies/Privacy/pp_english.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mars.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503093435id_/http%3A//www.mars.com/global/Policies/Privacy/pp_english.htm) for the most accurate reproduction.*
 
 # Mars - pp_english
 
