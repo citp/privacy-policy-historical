@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521162819id_/http%3A//zoolert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503101823id_/http%3A//zoolert.com/privacy) for the most accurate reproduction.*
 
-# zooLert.com - Automated stock, availability, and alerts for hot products, electronics, games and toys
+# zooLert.com - Hot Deals Current In Stock!
 
-## Privacy Policy
+**zooLert services are all FREE!**    Suggestion or Comment?  [E-Mail Us!](mailto:webmaster@zoolert.com)
+
+### Privacy Policy:
 
 This is the web site of **zooLert.com**.  
 ****
 
-We can be reached via e-mail at [privacy@zoolert.com](mailto:privacy@zoolert.com)  
-or you can reach us by telephone at 
+We can be reached via e-mail at [privacy@zoolert.com](mailto:privacy@zoolert.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -27,4 +28,25 @@ http://www.google.com/privacypolicy.html
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
+zooLert may at any time, and without notice, revise this Privacy Policy statement by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the current Privacy Policy statement. 
+
 * * *
+
+### What's all this?
+
+## We're happy you found us!
+
+Now that you've found us, let us find things for you! zooLert.com's wild pack of web animals are scouring the web constantly looking for hard to find items. When we find them, we let you know!   **  
+If you like our services, please tell your friends about zooLert** **.**
+
+###  Today's Hot Product Trackers Alert Status:
+
+###  Today's Hot Deals:
+
+### What are people saying:
+
+"Yes, I was unsubscribing to both the [Wiigame list](http://www.zoolert.com/wiigames.php) and [Wiifit list](http://www.zoolert.com/wiifit.php). Using your service, I was able to successfully get [Mario Kart](http://www.zoolert.com/wiigames.php). I have already recommended your service to friends/family. - Thank you" - Matthew
+
+"After creating an account at Zoolert, I subscribed to receive notification when [Mario Kart](http://www.zoolert.com/wiigames.php) was in stock. Within 24 hours, I was notified that the game was available at an online retailer where I was able to make my purchase. Without Zoolert, it would have been months before I could have tracked this game down on my own. This is a phenomenal service that I will continue to use in the future. I have already recommended Zoolert to friends and family." - Matthew
+
+"You guys are doing a great job! This is the best and most appealing tracker site I've seen!" - Kim
