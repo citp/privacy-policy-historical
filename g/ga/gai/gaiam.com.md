@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218214215id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503144430id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Gaiam
 
@@ -74,8 +74,8 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 You may have certain rights under various state and federal statutes that may apply to the personal and non-personal information collected by Gaiam online. By accepting the terms of this Privacy Policy and using our Website, you are waiving all of such rights as to collection, use, disclosure and storage of your personally identifiable and non-personal information as described herein. You recognize that we are able to offer our Website and services to you at our rates based upon these terms, which are an integral part of our contract for the provision of services.
 
-By using our Website and providing your personal information to us, you also authorize the export of your personal information to the USA, as well as its storage and use as specified herein. Our headquarters is located in the state of Colorado, in the USA. This Privacy Policy and our legal obligations are subject to the laws of Colorado and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of Colorado.
+By using our Website and providing your personal information to us, you also authorize the export of your personal information to the USA, as well as its storage and use as specified herein. Our headquarters is located in the state of Colorado, in the USA at 833 W. South Boulder Rd., Louisville, CO 80027. This Privacy Policy and our legal obligations are subject to the laws of Colorado and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of Colorado.
 
 We may amend our Privacy Policy at any time, without notice to you, by posting such revised Privacy Policy on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes will only apply to information collected after the change is posted.
 
-This Privacy Policy was last updated on November 5, 2007. 
+This Privacy Policy was last updated on April 21, 2009. 
