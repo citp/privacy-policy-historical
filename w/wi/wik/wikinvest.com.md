@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikinvest.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170502id_/http%3A//www.wikinvest.com/site/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinvest.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503132408id_/http%3A//www.wikinvest.com/site/Privacy_Policy) for the most accurate reproduction.*
 
 # Site:Privacy Policy
 
@@ -21,6 +21,10 @@ Browser-type related information, IP address, requested URL, referring URL, time
 ###  Use of Cookies and IP Addresses 
 
 Like most websites, Wikinvest requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time, and it allows us to personalize your experience on the site by suggesting articles you may be interested in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Wikinvest site.] 
+
+###  Advertising 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf "http://www.networkadvertising.org/pdfs/NAI_principles.pdf"). 
 
 ###  Transfer/Disclosure of Information 
 
