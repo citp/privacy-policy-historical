@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imserba.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094545id_/http%3A//www.imserba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imserba.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504120011id_/http%3A//www.imserba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | imserba.com - free mobile cell phone applications, ringtones, themes, games, wallpapers, and screensavers
 
