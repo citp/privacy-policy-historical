@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebid.ie privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013140442id_/http%3A//www.ebid.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebid.ie privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504201822id_/http%3A//www.ebid.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ebid - Online Auctions Ireland & UK - US & Canada
 
