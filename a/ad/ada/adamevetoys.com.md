@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015613id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504021605id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
@@ -51,7 +51,7 @@ We work with third parties who provide services, including but not limited to we
 
 Further, we may use selected reputable third parties for marketing, targeting and analysis purposes. Some of these third parties may be given access to some, or all, of the information that you provide to us and may use cookies or other tracking technologies in connection with providing their services. To the extent that we provide your personally identifiable information to such third parties, we restrict their ability to use such information for their own marketing purposes to the best of our abilities; however, we cannot be responsible for the privacy policies or practices of such third parties. One of these service providers is Coremetrics; for more information regarding Coremetrics’ privacy practices, 
 
-[click here](http://www.coremetrics.com/company/policy.html).
+[click here](http://www.coremetrics.com/company/privacy.html).
 
 We do not disclose an individual customer's personally identifiable information to third parties for third-party direct marketing purposes if we have received and processed a request from that customer not to have his or her personal information shared for this purpose. You may submit this type of opt-out request by email or to the following mailing address: Customer Service, Adam & Eve., PO Box 800, Carrboro, NC 27510. In addition, we also allow you to decide whether you want to receive further marketing information from us. If you do not want Adameve.com to send you announcements or special offers by email, please 
 
@@ -99,7 +99,7 @@ If the box is checked, what type of emails will I receive from Adam & Eve?
 Exclusives, Sales & Special Offers, Newsletters: Get the scoop on weekly promotional events, email exclusive discounts and more.  
 
 
-Don’t forget you can unsubscribe from Adam & Eve Email at any time from any Email we send or you can update your email preferences in your [My Account](http://www.adamevetoys.com/MyAccount.aspx).
+Don’t forget you can unsubscribe from Adam & Eve Email at any time from any Email we send or you can update your email preferences in your [My Account](http://www.adamevetoys.com/myaccount.aspx).
 
 How do I ensure I continue to receive Adam & Eve e-mails in my personal inbox?  
 To make sure you continue to receive Adam & Eve e-mails in your personal in box (not bulk or junk folders), please take a moment to add aespecial@adameve.rsys1.com and custserv@adameve.com to your e-mail address book.
@@ -113,16 +113,16 @@ Online Shipping Confirmations
 Customer Service Inquires
 
 How do I opt out of emails from Adam & Eve?  
-If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please click on the unsubscribe link in any Adam & Eve email or update your email preferences in your [My Account](http://www.adamevetoys.com/MyAccount.aspx).
+If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please click on the unsubscribe link in any Adam & Eve email or update your email preferences in your [My Account](http://www.adamevetoys.com/myaccount.aspx).
 
 If I have an online account, how do I change my email address with Adam & Eve?  
-If you have an AdamEve.com Web site account and wish to update your e-mail address, please enter your changes under "Manage My Email and Catalog Notifications" in [My Account](http://www.adamevetoys.com/MyAccount.aspx). 
+If you have an AdamEve.com Web site account and wish to update your e-mail address, please enter your changes under "Manage My Email and Catalog Notifications" in [My Account](http://www.adamevetoys.com/myaccount.aspx). 
 
 What happens if I have multiple e-mail addresses?  
 Email subscription preference is at the email address level. For each email address Adam & Eve allows you to have individual subscription preferences.
 
 Can I create an online account and not receive marketing or promotional emails from Adam & Eve?  
-Yes, by un-checking the email address subscription preference box and clicking submit you will still create an online account; however you will not receive sales and special offers from Adam & Eve. [Click here to create an online account now.](https://www.adamevetoys.com/CreateAccount.aspx)
+Yes, by un-checking the email address subscription preference box and clicking submit you will still create an online account; however you will not receive sales and special offers from Adam & Eve. [Click here to create an online account now.](https://www.adamevetoys.com/createaccount.aspx)
 
   * How can I contact customer service?
 
