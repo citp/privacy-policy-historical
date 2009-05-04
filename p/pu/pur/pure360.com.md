@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure360.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050655id_/http%3A//pure360.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure360.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504233250id_/http%3A//pure360.com/privacy.html) for the most accurate reproduction.*
 
 # Pure ))) Email Marketing and Email Advertising
 
