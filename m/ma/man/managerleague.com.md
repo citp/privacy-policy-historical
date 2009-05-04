@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043159id_/http%3A//www.managerleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504132908id_/http%3A//www.managerleague.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : World Cup Soccer : Play Fantasy Soccer Games : ManagerLeague.com
 
@@ -72,5 +72,5 @@ Fifth Season regularly reviews its compliance with this Policy. We will cooperat
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.  
   
-© 2003-2007 Fifth Season AS, Oslo, Norway. [Privacy Policy](https://web.archive.org/web/20081217043159id_/http%3A//www.managerleague.com/privacypolicy.html). [Rules and Code of Conduct](https://web.archive.org/web/20081217043159id_/http%3A//www.managerleague.com/rules.html). [Sitemap](https://web.archive.org/web/20081217043159id_/http%3A//www.managerleague.com/sitemap.html).   
+© 2003-2007 Fifth Season AS, Oslo, Norway. [Privacy Policy](https://web.archive.org/web/20090504132908id_/http%3A//www.managerleague.com/privacypolicy.html). [Rules and Code of Conduct](https://web.archive.org/web/20090504132908id_/http%3A//www.managerleague.com/rules.html). [Sitemap](https://web.archive.org/web/20090504132908id_/http%3A//www.managerleague.com/sitemap.html).   
 Responsible Editor for ManagerLeague is Christian Lassem.
