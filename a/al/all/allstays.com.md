@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218225124id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504065720id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
-## **  
-****Privacy Policy**  
-
-
-**Last Updated: February 1st, 2005.**
+Last Updated: April 25th, 2009.
 
 AllStays is concerned about privacy on the internet. Please read the following to learn more about our privacy policy. Our site does not contain any objectionable material and is not adult-oriented in any manner. 
 
@@ -45,7 +41,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
 
     * We respond to subpoenas, court orders or legal process; or 
 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20081218225124id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20090504065720id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 
 
@@ -71,7 +67,13 @@ AllStays is concerned about privacy on the internet. Please read the following t
 **Questions or Suggestions**  
 
 
-  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20081218225124id_/http%3A//www.allstays.com/Services/feedback.htm)
+  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20090504065720id_/http%3A//www.allstays.com/Services/feedback.htm)
 
 
-[ ](https://web.archive.org/web/20081218225124id_/http%3A//www.allstays.com/Services/feedback.htm)
+
+
+* * *
+
+We hope you like our unique hotel guide.  
+Even if you book your trip elsewhere, use us for research, official websites and phone numbers.  
+We want to be your world travel website starting point.
