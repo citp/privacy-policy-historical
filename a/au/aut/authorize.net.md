@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202628id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504061844id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
 
-# Authorize.Net - Privacy Policy
+# Privacy Policy
 
 Authorize.Net takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from merchants who register for services and submit information to Authorize.Net through the Internet.
 
