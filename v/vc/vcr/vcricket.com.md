@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229055818id_/http%3A//www.vcricket.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504102542id_/http%3A//www.vcricket.com/privacy.aspx) for the most accurate reproduction.*
 
 # vCricket.com - Fastest Live Cricket Score Update with Free Cricket Score Syndication and Cricket News.
+
+| 
 
 * * *
 
@@ -34,3 +36,9 @@ We are not responsible  for voluntarily disclosure of personal information onli
 We do not promote our services to children under the age of 13.
 
 If there is is a change in privacy policy, we will post the changes here and would also notify to the user if there is a change in the policy.
+
+| 
+
+All Current Matches
+
+Did you know? you can display the above scorecard on your website for free! [Click here for details](https://web.archive.org/put_our_live_scoreboard_on_your_website_free.aspx)
