@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogrid.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050656id_/http%3A//gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogrid.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504104911id_/http%3A//www.gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# GoGrid Legal : Privacy Policy
+# GoGrid Cloud Hosting : Privacy Policy
 
 **Effective Date: October 31, 2008**
 
