@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020555id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504083933id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
 
 # QuickMBA Privacy Policy
 
@@ -40,6 +40,11 @@ The primary use of your e-mail information is to communicate with you about a me
 We do not sell, rent, or share your information with any third parties.
 
 If necessary, we may disclose personal information when required by law or by a legal process served on our site.
+
+  
+**Third Party Advertising Companies**
+
+This website uses third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
 
   
 **Updates to this Privacy Statement**
