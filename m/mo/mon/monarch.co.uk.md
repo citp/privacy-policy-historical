@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051125id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504184728id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.*
 
 # Monarch Airlines | Privacy Policy
 
