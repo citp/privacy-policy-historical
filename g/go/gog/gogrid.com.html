@@ -1,158 +1,48 @@
-<!--The following is the downloaded HTML source of the gogrid.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217050656id_/http%3A//gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gogrid.com privacy policy that was archived on 2009-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504104911id_/http%3A//www.gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>GoGrid Legal : Privacy Policy</title>
-<meta name="description" content="GoGrid Privacy Policy">
-<meta name="keywords" content="">
-<script type="text/javascript" src="/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="/js/prototype/effects.js"></script>
-<script type="text/javascript" src="/js/prototype/window.js"></script>
-<script type="text/javascript" src="/js/standard.js"></script>
-
-<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
-<link href="/styles.css" rel="stylesheet" type="text/css">
-
-<!--[if lte IE 7]>
-<style type="text/css">
-ul.techSpecs {
-	margin-left:85px;
-    }
-</style>
-
-<![endif]-->
-
+<title>GoGrid Cloud Hosting : Privacy Policy</title>
+<meta name="description" content="Read the ServePath/GoGrid Privacy Policy">
+<meta name="keywords" content="cloud hosting, cloud computing, gogrid, virtualized servers, windows cloud servers, linux cloud servers, cloud server support, cloud hosting support">
+<link href="/styles.core.css" type="text/css" rel="stylesheet">
+<link href="/favicon.png" rel="icon" type="image/png">
+<script src="/js/jquery/jquery.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.ui.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.accordion.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.chili.pack.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.easing.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.boxy.js" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready(function(){
+	$('.overlay').click(function(){
+		Boxy.load(this.href, {
+			modal: true,
+			title: $(this).attr('title'),
+			closeable: true, 
+			closeText: '<img src="/images/overlay_close.png" />',
+			unloadOnHide: true,
+			y: '0px'
+		});
+		return false;
+	})
+})
+// ]]>
+</script>
 <script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=69971338"></script></head>
-<body>
-<div id="container">
-<style>
-#contactUs {
-	float:right;
-	display:inline;
-	width:275px;
-	background:#f0f0f0 url(/images/contactUs_bot.png) no-repeat left bottom;
-	margin-right:15px;
-	}
-	
-#contactUs_top {
-	background:#b0afaf;
-	display:block;
-	height:18px;
-	padding:2px 5px;
-	color:#fff;
-	font-weight:bold;
-	font-size:12px;
-	text-align:right;
-	border-bottom:1px solid #e5e5e5;
-	width:265px;
-	}
-	
-#buttonContactUs {
-	float:left;
-	display:inline;
-	margin:1px 3px 0px 5px;
-	width:95px;
-	height:15px;
-	padding:0;
-	overflow:hidden;
-	]}
-	
-#buttonContactUs a:link, #buttonContactUs a:visited {
-	background:url(/images/button_contactUs.png) no-repeat top left;
-	display:block;
-	}
-	
-#buttonContactUs a:hover {
-	background-position:0px -15px;
-	}
-	
-#phoneNumbers {
-	text-align:right;
-	color:#333;
-	font-weight:normal;
-	float:right;
-	clear:both;
-	display:block;
-	padding:5px 5px;
-	cursor:pointer;
-	}
-	
-.phoneLabel {
-	text-align:right;
-	font-size:12px;
-	float:right;
-	display:inline;
-	width:100px;
-	padding:3px 0 0 0;
-	}	
-	
-.phoneNumber {
-	float:right;
-	clear:right;
-	display:inline;
-	width:125px;
-	height:16px;
-	font-size:16px;
-	}
-	
-#logo {
-	float:left;
-	display:inline;
-	margin:15px;
-	width:300px;
-	}
-	
-#liveCall_top {
-	font-size:13px;
-	cursor:pointer;
-	padding:2px 0;
-	}
-	
-	
-</style>
 
-<script>
+<body><div id="container">
+	<script type="text/javascript">
 
-Effect.phoneSwap = function(element){
-	var id;
-	var container = 'worldwide';
-    var div = document.getElementById(container);
-    var nodeList = div.childNodes;
-    var queue = Effect.Queues.get('menuScope');
-	
-	if(queue.toArray().length<1){
-        if(Element.visible(element)==false){
-            for(i=0;i<nodeList.length;i++){
-                if(nodeList.item(i).nodeName=="DIV" && nodeList.item(i).id!=element){
-                    if(Element.visible(nodeList.item(i))==true){
-                        Effect.Fade(nodeList.item(i),{queue:{position:'end',scope:'menuScope',limit:2}})
-                    }
-                }
-            }
-            Effect.Appear(element,{queue:{position:'end',scope:'menuScope',limit:2}})
-       }
-	   
-   }
-   
-}
-function rotate() {
-	rotatePhone();
+	function rotatePhone() {
+		$('.pn').toggle('slow');
 	}
-
-function rotatePhone() {
-		if (Element.visible('415number') == true) {
-			new Effect.phoneSwap('liveCall_top');
-			phone = '415number';
-			
-		} else if (Element.visible('liveCall_top') == true) {
-			new Effect.phoneSwap('415number');
-			phone = 'liveCall_top';
-		}
-	setTimeout("rotate()", 10000);	
-}
-
-Event.observe(window, "load", rotatePhone);
+	
+	$(document).ready(function(){
+		setInterval('rotatePhone()', 8000);
+	});
 
 </script>
 
@@ -174,8 +64,8 @@ Event.observe(window, "load", rotatePhone);
                 US and Canada : 
             </div>
             <div class="phoneNumber" id="worldwide">
-                <div id="415number" style="display:block;">+1.415.869.7444</div>
-                <div id="liveCall_top" style="display:none;">Click to Call <span style="color:#6fbe44; font-weight:bold;">FREE!</span></div>
+                <div id="ww_number" style="display:block;" class="pn">+1.415.869.7444</div>
+                <div id="liveCall_top" style="display:none;" class="pn">Click to Call <span style="color:#6fbe44; font-weight:bold;">FREE!</span></div>
             </div>
             <div class="phoneLabel">
                 Worldwide : 
@@ -183,14 +73,13 @@ Event.observe(window, "load", rotatePhone);
         </div>
     </div>
     <div id="logo">
-    	<a href="/index.php"><img src="/images/logo.gif" alt="GoGrid: A ServePath Company"></a>
+    	<a href="/index.php"><img src="/images/logo.png" alt="GoGrid Cloud Hosting"></a>
     </div>
-</div>  
-
+</div>    
 <div id="topNav">
 	<div id="customerLogin">
     	<a href="https://my.gogrid.com">
-        	<img src="/images/blank_custLogin.gif">
+        	<img src="/images/blank_custLogin.gif" alt="customer login">
         </a>
     </div>
 	<div class="topNav_item">
@@ -211,9 +100,10 @@ Event.observe(window, "load", rotatePhone);
     <div class="topNav_item">
     	<a href="/community/index.php" name="topNav_community">Community</a>
     </div>
-</div><!--<div id="box-top"></div>-->
-  <div id="box-middle">
-  	<style>
+</div>    <div id="box-middle">
+        <div id="sideNavigation">
+        	
+<style>
 #callout_referral {
 	float:left;
 	display:inline;
@@ -226,10 +116,6 @@ Event.observe(window, "load", rotatePhone);
 </style>
 
 
-
-
-
-<div id="sideNavigation">
 	<div id="sideNavigation_top" class="sideNavigation_title">
     	Legal    </div>
     <div id="sectionNavigation">
@@ -246,54 +132,33 @@ Event.observe(window, "load", rotatePhone);
             Start a Live Chat with<br>a GoGrid Sales Rep</a>
     	</div>
         
-        <!--
-        <div class="questionCallout" id="liveChat" onclick="javascript:window.open('/inc/liveChat_tracker.php&referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-        	<a href="https://server.iad.liveperson.net/hc/69971338/?cmd=file&file=visitorWantsToChat&site=69971338&byhref=1&SESSIONVAR!skill=Sales&offlineURL=http://www.gogrid.com/company/contact_chat.htm" target="chat69971338" onclick="javascript:window.open('/inc/liveChat_tracker.php&referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-            Start a Live Chat with<br />a GoGrid Sales Rep</a>
-    	</div>
-        -->
-        
-        
         <div class="questionCallout" id="liveCall" onclick="javascript:window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;"> 
         	<a href="javascript:void(0)" target="call69971338" onclick="javascript:window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
             Talk to a GoGrid<br>Sales Rep Now
             </a>
 		</div>
-        
-        
                 
     	<div class="questionCallout" id="sideNav_phone">
         	Call us Anytime:<br>
             <span class="sideNav_phone">1.415.869.7444</span>
     	</div>
         
-        
-        <!-- BEGIN LivePerson Button Code -->
-        
-
-
 	</div>
     
     
     <div id="sideNavigation_bot">
-    	<div id="sideNavigation_SignUpBtn"><a href="/pricing/index.php" name="sideNav_signup"><img src="/images/sideNav_SignUpBlank.png" alt="" border="0"></a></div>    </div>
-    </div>
+<div id="sideNavigation_SignUpBtn"><a href="/pricing/index.php" name="sideNav_signup"><img src="/images/sideNav_SignUpBlank.png" alt="" border="0"></a></div>    </div>
+    
+	
 
-
-
-
-<div id="rightside">
-	<div class="content-top">
-    </div>
-    <div class="content-middle">
-
-<style>
-blockquote {
-	color:#666;
-	}
-</style>
-        <h1>Privacy Policy</h1>
-        <p><strong>Effective Date: October 31, 2008</strong></p>
+         </div>
+        <div id="rightside">
+        	<div class="content-top"></div>
+            <div class="content-middle">
+            	                	<div class="pageTitle">
+                    	<h1>Privacy Policy</h1>
+                    </div>
+                            	<p><strong>Effective Date: October 31, 2008</strong></p>
         
         <p>GoGrid has created this Privacy Policy to record and explain our commitment to privacy, and as an agreement with our customers and with other third parties about our data-handling.  This policy lists the types of potentially private data GoGrid collects, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
         This Privacy Policy applies to GoGrid's services (collectively, the "Service") and to its website: www.GoGrid.com.</p>
@@ -363,49 +228,109 @@ blockquote {
         
         <p>This Privacy Policy doesn't address use of data by our customers or by other third parties, even if the data is stored on one of GoGrid's computers or collected through a website we host (Hosted Data), or collected through a website linked to our website.  GoGrid is not responsible for use or misuse of data by any third party, including any GoGrid customer or the operator of a website linked to one of our websites.</p>
         
-      <p>&nbsp;</p>
-  		</div>
-        <img src="/images/pageContent_bot.png" alt="">
+      <p>&nbsp;</p>            </div>
+            <img src="/images/boxBottom_bg.png" alt="">
+        </div>
+    	
     </div>
-  </div>
-<div id="box-bottom"></div>
-  
-
-<div id="footerLinks">
- <p><a href="/legal/terms-service.php">Terms of Service</a> | <a href="/legal/aup.php">Acceptable Use Policy</a> | <a href="/legal/privacy-policy.php">Privacy Policy</a> | <a href="/legal/sla.php">SLA</a></p>
- <p>GoGrid is a service of <a href="http://www.servepath.com/" target="_blank">ServePath Dedicated Hosting</a> © Copyright 2006 - 2008 ServePath LLC. All rights reserved. Patents pending.</p>
- <p>GoGrid is a registered trademark of ServePath LLC. Amazon and EC2 are trademarks of Amazon.com, Inc. All other trademarks are property of their respective owners.</p>
+    
+    <div id="box-bottom"></div>
+    <div id="footer">
+		<div id="footerLinks_links">
+    <a href="/how-it-works/">How it Works</a> |
+    <a href="/pricing/">Sign Up</a> | 
+    <a href="/support" target="_blank">Support</a> | 
+    <a href="/company">Company</a> |
+    <a href="/partners">Partners</a> |
+    <a href="/community">Community</a> |
+    <a href="http://blog.gogrid.com" target="_blank">Blog</a> | 
+    <a href="/legal/terms-service.php">Terms of Service</a> | 
+    <a href="/legal/aup.php">Acceptable Use Policy</a> | 
+    <a href="/legal/privacy-policy.php">Privacy Policy</a> | 
+    <a href="/legal/sla.php">SLA</a>
 </div>
-<!-- BEGIN LivePerson Monitor. -->
 
-<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "69971338",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
-</script>
+<p><a href="/how-it-works/">GoGrid Cloud Hosting</a> is a service of <a href="http://www.servepath.com" target="_blank">ServePath Dedicated Hosting</a> © Copyright 2006 - 2009 ServePath LLC. All rights reserved. Patents pending.</p>
 
-<!-- END LivePerson Monitor. -->
+<p>GoGrid is a registered trademark of ServePath LLC. Amazon and EC2 are trademarks of Amazon.com, Inc. All other trademarks are property of their respective owners.</p>    </div>
+</div>
 
 <!-- BEGIN Genius code  -->
 
 <script language="JavaScript" type="text/javascript">
-if (self==top){document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w' + "'></scr" + "ipt>");}
- </script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w"></script>
+	//<![CDATA[
+	if (self==top){
+		document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w' + "'>		</scr" + "ipt>");
+		}
+	//]]>
+</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w">		</script>
 
 <!-- END Genius code  -->
 
 
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js">
+</script>
+<script type="text/javascript">
+	__sfga();
+</script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 
 <script type="text/javascript">
-_uacct = "UA-3986422-1";
-_ulink=1;
-urchinTracker();
+	_uacct = "UA-3986422-1";
+	_udn="none";
+	_ulink=1;
+	urchinTracker();
+</script>
+
+<!-- BEGIN LivePerson Monitor. -->
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "69971338",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
+//]]>
 </script>
 
 
-</div>
+<!-- END LivePerson Monitor. -->
+
+<!-- SiteCatalyst code version: H.20.2.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://servepath-gogrid-dev.122.2O7.net/b/ss/servepath-gogrid-dev/1/H.20.2--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
 
 
-</body></html>
+        </body></html>
