@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkaction.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219010448id_/http%3A//www.thinkaction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkaction.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504072234id_/http%3A//www.thinkaction.com/privacy.htm) for the most accurate reproduction.*
 
 # ThinkAction - Leads Generation | Customer Acquisiton | Affiliate Network
 
