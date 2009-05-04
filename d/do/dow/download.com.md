@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062058id_/http%3A//www.cnetnetworks.com/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504233714id_/http%3A//www.cnetnetworks.com/editorial/privacy.html) for the most accurate reproduction.*
 
 # CBS Interactive - Editorial - Privacy Policy
 
