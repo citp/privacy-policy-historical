@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012112158id_/http%3A//www.bettesboutique.com/index.php/page/content/id/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504173717id_/http%3A//www.bettesboutique.com/index.php/page/content/id/5) for the most accurate reproduction.*
 
-# Bettes Boutique --Beauty, Accessories
+# Official U.S. Site for Beth Bender Beauty & The Get in Line Eyeliner Kit
 
 **ORDER PROCESSING**
 
 bettesboutique.com processes all orders placed on the internet within 48 hours. Orders placed on Saturday and Sunday will be processed the following Monday. Orders with Priority Shipping will be processed the same day if received by 3:00 PM EST except major holidays). Overnight Service and 2nd Day shipping orders, placed by 3:00 PM EST will be processed and shipped the same day, depending on availability. 
 
-Unfortunately, at this time we are not able to process overseas orders. 
+**RETURNS**
 
-**RETURNS AND EXCHANGES**
-
-If you are not satisfied with your bettesboutique.com purchase (cosmetics excluded), you may return the item within 10 days of delivery for a full refund. Please make sure to include all original tags. We will remit your account for the full amount of your purchase. If you prefer, you may exchange your purchase for other bette's boutique products. 
-
-Please send your return or exchange via UPS or insured Parcel Post for your protection and to insure prompt delivery. 
-
-We're sorry, but return shipping fees are not refundable. 
-
-For additional information on returns and exchanges, please contact us at 1-818-781-4864. 
+We do not accept returns on any beth bender beauty products once they have been shipped. Especially our custom blended products that are made to order. If your eyeshadows in any of the Get in Line Kits should arrive damaged we will replace your kit once we have recieved the orginal sent. For additonal information regarding shipping or questions about your order please email us at [bettesboutique@gmail.com](mailto:bettesboutique@gmail.com)
 
 **SHIPPING**
 
