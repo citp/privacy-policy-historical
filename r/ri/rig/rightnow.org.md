@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222085340id_/http%3A//www.rightnow.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.org privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504194333id_/http%3A//www.rightnow.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - RightNow.org
 
 ## COMMITMENT TO YOUR PRIVACY
 
-This site is owned and operated by Priority One International. Your privacy on the Internet is of the utmost importance to us. At Priority One International, we want to make your experience online satisfying and safe. 
+This site is owned and operated by Priority One International, a 501c3 Non-Profit organization. Your privacy on the Internet is of the utmost importance to us. At Priority One International, we want to make your experience online satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
