@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jira.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025539id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jira.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505002943id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Atlassian - Privacy Policy
+# Atlassian - Privacy and Legal Statement
 
 Atlassian* adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, and/or other identifiable information). 
 
@@ -34,12 +34,30 @@ Atlassian* adheres to a strict policy for ensuring the privacy of your personall
 
 By using this site, you signify your agreement to the terms and conditions of this Atlassian Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Should we ever need to change this policy, we will post the changes on this page. 
 
-Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20081217025539id_/http%3A//www.atlassian.com/about/contact.jsp). 
+Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20090505002943id_/http%3A//www.atlassian.com/about/contact.jsp). 
 
 * _including but not limited to[www.atlassian.com](http://www.atlassian.com/), [support.atlassian.com](http://support.atlassian.com/), [jira.atlassian.com](http://jira.atlassian.com/), [confluence.atlassian.com](http://confluence.atlassian.com/), [www.onconfluence.com](http://www.onconfluence.com/), [try.atlassian.com](http://try.atlassian.com/), [blogs.atlassian.com](http://blogs.atlassian.com/), and [www.javablogs.com](http://www.javablogs.com/)._
 
-###  Stay connected 
+## Trademarks
 
-[Subscribe](https://web.archive.org/newsletter) to the Atlassian Newsletter. 
+Atlassian has registered the trademarks below in Australia and internationally to protect our community of customers, developers, partners, and supporters for the benefit of everyone involved in the Atlassian story. 
 
-[ ](https://web.archive.org/about/jobs.jsp)
+You may use the [Atlassian logo](https://web.archive.org/about/press/logos.jsp) or product logo in any blog, news article, or on your website without our written consent, as long as you identify it in caps, with the ® symbol, i.e. 'CONFLUENCE ®' 
+
+Term  |  Status  |  Use   
+---|---|---  
+Atlassian  |  ®  |  Computer software company logo and its products / services   
+Atlassian Logo  |  ®  |  Computer software company and its products / services   
+JIRA  |  ®  |  Issue tracking project management software   
+JIRA Studio  |  ®  |  Computer software development suite   
+Confluence  |  ®  |  Enterprise wiki collaboration software   
+Atlassian Bamboo  |  ®  |  Continuous integration software   
+Atlassian Confluence  |  ®  |  Enterprise wiki collaboration software   
+Atlassian Crowd  |  ®  |  Single sign-on identity management software   
+Atlassian Clover  |  ®  |  Code coverage analysis software   
+FishEye  |  ®  |  Source code repository software   
+Atlassian Crucible  |  ®  |  Intuitive peer code review software   
+  
+If you have any questions or concerns, please [contact us](https://web.archive.org/about/contact.jsp). 
+
+[ ](https://web.archive.org/about/careers/ "Careers at Atlassian")
