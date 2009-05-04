@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024959id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504202938id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Competitions: car competition | Daily prize draws | iPod competition | win online today
-
-Last Updated: December 2006 
 
   * Introduction
 
@@ -31,9 +29,7 @@ Last Updated: December 2006
 
 ## Introduction
 
-MyOffers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.myoffers.co.uk](http://www.myoffers.co.uk/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [Ivan Southall](mailto:ivan.southall@ipt-ltd.co.uk). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns
+This privacy statement covers the site [http://www.myoffers.co.uk](http://www.myoffers.co.uk/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should first contact [Ivan Southall](mailto:ivan.southall@ipt-ltd.co.uk).
 
 MyOffers takes your privacy seriously and takes every reasonable precaution to safeguard the personal information you supply to it
 
@@ -115,11 +111,11 @@ There is information on how you can un-subscribe at the bottom of every email th
 
 Each email that MyOffers sends contains the following information:
 
-> "This email has been sent to the following email address: yourname@yourdomain.com MyOffers respects your privacy and only sends emails to registered members. Our emails are never sent unsolicited. To update your details online please visit http://www.myoffers.co.uk then login and select 'My Account'. If you wish to unsubscribe from our offers list either click here to unsubscribe online or alternatively please send an email to: my*****_****_remove@***.my05.co.uk with the word "unsubscribe" in the subject line. Please note that unsubscribe requests must be made from the email account used to register with MyOffers: yourname@yourdomain.com MyOffers Ltd 1 Vincent Square, LONDON, SW1P 2PN To find out more about our privacy policy: http://www.myoffers.co.uk/privacy.asp To find out more about us: http://www.myoffers.co.uk/aboutus.asp” 
+> "This email has been sent to the following email address: yourname@yourdomain.com MyOffers respects your privacy and only sends emails to registered members. Our emails are never sent unsolicited. To update your details online please visit http://www.myoffers.co.uk then login and select 'My Account'. If you wish to unsubscribe from our offers list either click here to unsubscribe online or alternatively please send an email to: my*****_****_remove@***.my05.co.uk with the word "unsubscribe" in the subject line. Please note that unsubscribe requests must be made from the email account used to register with MyOffers: yourname@yourdomain.com MyOffers Ltd 46 Gillingham Street, London SW1V 1AH To find out more about our privacy policy: http://www.myoffers.co.uk/privacy.asp To find out more about us: http://www.myoffers.co.uk/aboutus.asp” 
 
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you answer questions from one of our loans clients but do to apply for a loan you can state not applicable and you will not receive communication from the loan client.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by [emailing us](mailto:privacy@myoffers.co.uk), We offer an opportunity to opt-out of certain communications on our My Account section on MyOffers - <http://www.myoffers.co.uk/myaccount.asp> or you may contact us at 020 7932 4188 or MyOffers Limited, 1 Vincent Square, London, SW1P 2PN
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by [emailing us](mailto:privacy@myoffers.co.uk), We offer an opportunity to opt-out of certain communications on our My Account section on MyOffers - <http://www.myoffers.co.uk/myaccount.asp> or you may contact us at 020 7932 4188 or MyOffers Limited, 46 Gillingham Street, London SW1V 1AH
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -180,8 +176,6 @@ By email: [click here](mailto:privacy@myoffers.co.uk)
 By post:
 
 MyOffers Limited  
-1 Vincent Square  
+46 Gillingham Street  
 London  
-SW1P 2PN 
-
-Last Updated: December 2006 
+SW1V 1AH 
