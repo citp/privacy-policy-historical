@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2008-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080125170023id_/http%3A//www.healthinsurance.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.net privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504183752id_/http%3A//www.healthinsurance.net/privacy) for the most accurate reproduction.*
 
 # Privacy at | Health Insurance .NET -- Save THOUSANDS on group health insurance plans. Fast, reliable individual insurance quotes. Lowest possible rates.
 
