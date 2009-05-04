@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wgnradio.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020512id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgnradio.com privacy policy that was archived on 2009-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504081719id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>WGN Radio - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>WGN Radio - Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
 <meta name="author" content="Andrea Darlas">
 <meta name="description" content="News/Talk 720, WGN, The Voice of Chicago, a Tribune Broadcasting Station">
@@ -30,176 +30,96 @@ var jc_commentForm;
 </script>
 <script src="http://www.wgnradio.com/components/com_jomcomment/script.js?1.8" type="text/javascript"></script>
 	<link rel="shortcut icon" href="http://wgnradio.com/images/favicon.ico">
+			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="http://wgnradio.com/templates/wgn_home_ii/css/wgnmain/styles.css" rel="stylesheet" type="text/css">
+	<link href="http://wgnradio.com/templates/wgn_home_ii/css/template_css.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="http://wgnradio.com/templates/wgn_home_ii/js/jquery-1.3.1.min.js"></script>
+	
 	<script type="text/javascript">
-<!--
-//background flicker fix for IE
-try {
-  document.execCommand('BackgroundImageCache', false, true);
-} catch(e) {}
-
-var intvls = new Array();
-var tms = new Array();
-var current_menu = false;
-var current_id = false;
-
-sfHover = function() {
-
-	var subMU = document.getElementById("menuitem_2_12");
-	if(subMU)
-	{
-		subMU.onmouseover = function() { this.className = "hover"; };
-		subMU.onmouseout = function() { this.className = ""; };
-	}
+	    var $wgn = jQuery.noConflict();
+	     // Use jQuery via $wgn(...)
+	     $wgn(document).ready(function(){
+			 $wgn('.newsfeed-rss li:odd').addClass('newsfeed-rss-even');
+			 $wgn('.newsfeed-rss-off li:odd').addClass('newsfeed-rss-even');
+			 $wgn('#feedMenuBreak').click(function () {
+			 $wgn('.moduletable-rss').removeClass('moduletable-rss').addClass('moduletable-rss-off');
+			 $wgn('#breaking').removeClass('moduletable-rss-off').addClass('moduletable-rss');
+			 });
+			 $wgn('#feedMenuSports').click(function () {
+				$wgn('.moduletable-rss').removeClass('moduletable-rss').addClass('moduletable-rss-off');
+				$wgn('#sports').removeClass('moduletable-rss-off').addClass('moduletable-rss');
+			 });
+			 $wgn('#feedMenuNat').click(function () {
+				$wgn('.moduletable-rss').removeClass('moduletable-rss').addClass('moduletable-rss-off');
+				$wgn('#nat').removeClass('moduletable-rss-off').addClass('moduletable-rss');
+			 });
+			 $wgn('#feedMenuEntertain').click(function () {
+				$wgn('.moduletable-rss').removeClass('moduletable-rss').addClass('moduletable-rss-off');
+				$wgn('#entertain').removeClass('moduletable-rss-off').addClass('moduletable-rss');
+			 });
+			 $wgn('#feedMenuHealth').click(function () {
+				$wgn('.moduletable-rss').removeClass('moduletable-rss').addClass('moduletable-rss-off');
+				$wgn('#health').removeClass('moduletable-rss-off').addClass('moduletable-rss');
+		 });
 	
-	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+		$wgn("div#weatherWidget").click(
+			function() { window.location="index.php?option=com_wrapper&Itemid=146"; }
+		);
+		$wgn(".moduletable-trafficWidget").click(
+			function() { window.location="index.php?option=com_wrapper&Itemid=373"; }
+		);
 
-	sfEls[sfEls.length-1].className="MyWGN";
+	$wgn("#menulink_2_12-suckerfish-horizontal span.expanded").css("background-image", "url('/templates/wgn_home_ii/suckerfish-horizontal-1.0.1/images/arrow_right.gif')");
+	$wgn("#menulink_2_12-suckerfish-horizontal span.expanded").css("background-position", "right center");
+	$wgn("#menulink_2_12-suckerfish-horizontal span.expanded").css("background-repeat", "no-repeat");
 	
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].id="nav_" + i;
-		//temp workaround//
-//		alert(sfEls[i].parentNode.parentNode.tagName);
-		if(sfEls[i].parentNode.parentNode.tagName == "DIV") {
-//		if((i == 1) || (i == 14) || (i == 24) || (i == 28) || (i == 36) || (i == 41) || (i == 53)) {
-			sfEls[i].onmouseover = function(){
-					var id = this.id.replace("nav_", "");
-					intvls[id] = true;
-					clearTimeout(tms[id]);
-					if(this.className!="MyWGN")
-						this.className="hover";
+		});
+	</script>
+	<script type="text/javascript" src="http://wgnradio.com/templates/wgn_home_ii/js/jquery.galleryScroll1.4.0.pack.js"></script>
+	<script type="text/javascript" src="http://wgnradio.com/templates/wgn_home_ii/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://wgnradio.com/templates/wgn_home_ii/css/ie.css" media="screen"/><![endif]-->
+	<link href="http://wgnradio.com/templates/wgn_home_ii/suckerfish-horizontal-1.0.1/css/menu.css" rel="stylesheet" type="text/css">
 	
-					if(current_id && current_id != id)
-					{
-						//alert(id);
-					if(current_menu.className!="MyWGN")
-						current_menu.className="";
-					}
-						current_id = id;
-						current_menu = this;
-				};
-	//		}
-			sfEls[i].onmouseout=function() {
-				var id = this.id.replace("nav_", "");
-				intvls[id] = false;
-				tms[id] = setTimeout("hide_menu('"+id+"')", 600);
-				//this.className=this.className.replace(new RegExp("hover\\b"), "");
-			}
-		}
-	}
-}
+	</head>
+	
+	<body>
+		<div id="page">
+	<!-- logo start -->
+			<strong class="logo"><a href="http://wgnradio.com">WGN</a></strong>
+	<!-- logo end -->
+			<!-- Banner Ad -->
+			<div style="position: absolute; top: 8px; left: 250px;">
+						<div class="moduletable">
+			<!-- begin ad tag  (tile=1) --><script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=1;ptype=sf;pos=t;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=1;ptype=sf;pos=t;sz=728x90;ord=164417554547262.6?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/trb.wgnradio/hp;ptype=sf;pos=t;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.wgnradio/hp;ptype=sf;pos=t;tile=1;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript><!-- End ad tag -->		</div>
+					</div>
 
-hide_menu = function(i) {
-	if(!intvls[i])
-		if(document.getElementById("nav_"+i).className != "MyWGN")
-			document.getElementById("nav_"+i).className = "";
-}
-
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-<link href="http://wgnradio.com/templates/WGN Default/styles.css" rel="stylesheet" type="text/css">
-
-</head>
-
-<body onload="MM_preloadImages('images/listenNow_roll.gif');sfHover();">
-<div class="ban_top">
-	<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><!-- Begin -  Site: WGN Radio Zone: LEAD - General -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 52;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=40652&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=40652&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=40652&amp;SiteID=2&amp;Random=1582139829590"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=40652" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=40652" width="728" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: LEAD - General --></td>
-			<td valign="top"><img src="images/banners/ban_top_notice.jpg" align="top"></td>
-		</tr>
-	</tbody></table>
-</div>
-	<div id="head_wrap">
-		<div id="head">
-			<!--div id="dateTime">Friday, December 15 5:00pm</div-->
-			<div id="logo">
-				<a href="index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('listenNow','','templates/WGN%20Main/images/listenNow_roll.gif',1)"><img src="templates/WGN%20Main/images/listenNow_up.gif" alt="Listen Now" name="listenNow" width="128" height="33" border="0" id="listenNow"></a>
-				<a id="logo" href="http://wgnradio.com"></a>
-			</div>
-			<!-- logo -->
-			<!-- div id="search">
 				
-				<span class="yellowTitle">Search</span>
-				&nbsp;<input name="search" type="radio" value="keywords" /> Keywords
-				&nbsp;<input name="search" type="radio" value="fullsearch" checked="checked" /> Full Search<br />
-				<input name="searchTerms" type="text" size="20" /> <input name="search" type="button" value="Search" />
-			</div --><!-- search -->
-			<div id="Dashboard">		
-				
-<form action="index.php?option=com_search&amp;Itemid=1" method="get">
+			<!-- Search Box -->
+			<div style="position: absolute; top: 107px; left: 845px; *left: 830px; z-index: 5;">
+						<div class="moduletable">
+			<form action="index.php?option=com_search&amp;Itemid=1" method="get">
+
 	<div class="search">
-		<span class="yellowTitle">Search</span>
-			&nbsp;<input name="searchtype" type="radio" value="keywords" checked="checked"> Keywords
-			&nbsp;<input name="searchtype" type="radio" value="fullsearch"> Full Search<br><input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button">	</div>
+<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox" type="text" size="10" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"> <input type="submit" name="submit" value="Search" class="button">	</div>
 
 	<input type="hidden" name="option" value="com_search">
 	<input type="hidden" name="Itemid" value="1">	
 	
-</form><span id="datehour">Monday, December 15, 2008</span><div id="weatherWidget"><div class="title" style="position:relative; color:white">Weather<span style="position:absolute; right:2px">Sponsored by:</span></div><a href="index.php?option=com_wrapper&amp;Itemid=146" style="color:black;"><img border="0" style="border:none;margin-top:8px" src="images/weather/cliffordlaw4-55w.gif" align="right">
-<!-- Weather snippet #5 for Chicago as of 8:05 PM CST on December 15, 2008 -->
-	<img width="60" height="37" border="0" align="left" src="http://snsimages.tribune.com/images/weather/icons/nt_mostlycloudy.gif">
-	<span class="weather_temp">11°F</span><div style="clear:both"></div><span class="weather_cond"> Mostly Cloudy
-</span></a></div><div id="trafficWidget"><a href="index.php?option=com_wrapper&amp;Itemid=373" style="color:black;display:block;width:100%;height:100%"><div class="trafficWidgetBack" style="background: url(images/traffic/trafficicon.png) no-repeat left bottom;width:100%;height:100%"><div class="title" style="position:relative; color:white">Traffic<!-- span style="position:absolute; right:2px">Sponsored by:</span --></div></div></a></div>			</div>
-			<div style="clear:both"></div>
-		</div><!-- head -->
-	</div><!-- head_wrap -->
-	<div id="nav">
-		<div id="nav_mainmenu">
-			<ul id="menulist_root" class="mainlevel"><li id="nav_0"><a href="http://wgnradio.com/index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel" id="menulink_1">HOME</a></li><li id="nav_1"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=163" class="mainlevel" id="menulink_2">PROGRAMMING</a><ul id="menulist_2"><li id="nav_2"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=133" class="sublevel" id="menulink_2_1">Schedule</a></li><li id="nav_3"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=147&amp;Itemid=262" class="sublevel" id="menulink_2_2">Guests / Topics</a></li><li id="nav_4"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=29&amp;Itemid=127" class="sublevel" id="menulink_2_3">John Williams</a><ul id="menulist_2_3"><li id="nav_5"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=283&amp;Itemid=518" class="sublevel" id="menulink_2_3_1">John Williams 101</a></li><li id="nav_6"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=50&amp;Itemid=230" class="sublevel" id="menulink_2_3_2">Book Reviews</a></li><li id="nav_7"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=15&amp;Itemid=127" class="sublevel" id="menulink_2_3_3">Photos</a></li><li id="nav_8"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=234&amp;Itemid=416" class="sublevel" id="menulink_2_3_4">NewsClick Archive</a></li><li id="nav_9"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=260&amp;Itemid=465" class="sublevel" id="menulink_2_3_5">Blog: Sayeth King John</a></li><li id="nav_10"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=49&amp;Itemid=232" class="sublevel" id="menulink_2_3_6">Links &amp; Information</a></li><li id="nav_11"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=78&amp;Itemid=233" class="sublevel" id="menulink_2_3_7">Podcast</a></li><li id="nav_12"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=305&amp;Itemid=558" class="sublevel" id="menulink_2_3_8">Uncut Podcast</a></li><li id="nav_13"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=148&amp;Itemid=263" class="sublevel" id="menulink_2_3_9">Audio Archives</a></li><li id="nav_14"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=276&amp;Itemid=504" class="sublevel" id="menulink_2_3_10">Not Ready for Drive Time Players</a></li><li id="nav_15"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=268&amp;Itemid=481" class="sublevel" id="menulink_2_3_11">Bright Side of Life</a></li><li id="nav_16"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=270&amp;Itemid=485" class="sublevel" id="menulink_2_3_12">Weird News Roundup</a></li><li id="nav_17"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=249&amp;Itemid=446" class="sublevel" id="menulink_2_3_13">Bracket Battles</a></li><li id="nav_18"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=279&amp;Itemid=510" class="sublevel" id="menulink_2_3_14">CrownCam</a></li><li id="nav_19"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=254&amp;Itemid=451" class="sublevel" id="menulink_2_3_15">G-Tunes</a></li></ul></li><li id="nav_20"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=26&amp;Itemid=124" class="sublevel" id="menulink_2_4">Kathy &amp; Judy</a><ul id="menulist_2_4"><li id="nav_21"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=282&amp;Itemid=517" class="sublevel" id="menulink_2_4_1">K&amp;J 101</a></li><li id="nav_22"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=115&amp;Itemid=219" class="sublevel" id="menulink_2_4_2">Audio Archive</a></li><li id="nav_23"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=5&amp;Itemid=124" class="sublevel" id="menulink_2_4_3">Photos</a></li><li id="nav_24"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=65&amp;Itemid=220" class="sublevel" id="menulink_2_4_4">Links &amp; Information</a></li><li id="nav_25"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=77&amp;Itemid=221" class="sublevel" id="menulink_2_4_5">Podcast</a></li><li id="nav_26"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=303&amp;Itemid=555" class="sublevel" id="menulink_2_4_6">Uncut Podcast</a></li><li id="nav_27"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29666&amp;Itemid=314" class="sublevel" id="menulink_2_4_7">GirlfriendGram</a></li><li id="nav_28"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=66&amp;Itemid=223" class="sublevel" id="menulink_2_4_8">Radio Readers</a></li><li id="nav_29"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=255&amp;Itemid=452" class="sublevel" id="menulink_2_4_9">E-Your Piece</a></li></ul></li><li id="nav_30"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=231&amp;Itemid=409" class="sublevel" id="menulink_2_5">The Noon Show</a><ul id="menulist_2_5"><li id="nav_31"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=233&amp;Itemid=414" class="sublevel" id="menulink_2_5_1">Links and Information</a></li><li id="nav_32"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=246&amp;Itemid=439" class="sublevel" id="menulink_2_5_2">Audio Archive</a></li><li id="nav_33"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=301&amp;Itemid=553" class="sublevel" id="menulink_2_5_3">Walter Jacobson</a></li><li id="nav_34"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=256&amp;Itemid=457" class="sublevel" id="menulink_2_5_4">Noon Show Podcast</a></li><li id="nav_35"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=304&amp;Itemid=557" class="sublevel" id="menulink_2_5_5">Noon Show Uncut Podcast</a></li><li id="nav_36"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=264&amp;Itemid=472" class="sublevel" id="menulink_2_5_6">Noon Show Mailbox</a></li></ul></li><li id="nav_37"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=27&amp;Itemid=125" class="sublevel" id="menulink_2_6">Paul Harvey</a></li><li id="nav_38"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=28&amp;Itemid=126" class="sublevel" id="menulink_2_7">Steve Cochran</a><ul id="menulist_2_7"><li id="nav_39"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=298&amp;Itemid=544" class="sublevel" id="menulink_2_7_1">Steve Cochran 101</a></li><li id="nav_40"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=14&amp;Itemid=126" class="sublevel" id="menulink_2_7_2">Photos</a></li><li id="nav_41"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=116&amp;Itemid=225" class="sublevel" id="menulink_2_7_3">Audio Archive</a></li><li id="nav_42"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=76&amp;Itemid=227" class="sublevel" id="menulink_2_7_4">CochRANTings</a></li><li id="nav_43"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=87&amp;Itemid=228" class="sublevel" id="menulink_2_7_5">Links &amp; Information</a></li><li id="nav_44"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=79&amp;Itemid=229" class="sublevel" id="menulink_2_7_6">Podcast</a></li><li id="nav_45"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=306&amp;Itemid=559" class="sublevel" id="menulink_2_7_7">Uncut Podcast</a></li><li id="nav_46"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=194&amp;Itemid=326" class="sublevel" id="menulink_2_7_8">Kid of the Week </a></li><li id="nav_47"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=321&amp;Itemid=614" class="sublevel" id="menulink_2_7_9">20 Seconds</a></li><li id="nav_48"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30561&amp;Itemid=353" class="sublevel" id="menulink_2_7_10">Steve's Bio</a></li></ul></li><li id="nav_49"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=30&amp;Itemid=128" class="sublevel" id="menulink_2_8">Sports Central</a><ul id="menulist_2_8"><li id="nav_50"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=120&amp;Itemid=236" class="sublevel" id="menulink_2_8_1">Sports Central Blog</a></li><li id="nav_51"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=80&amp;Itemid=235" class="sublevel" id="menulink_2_8_2">Podcast</a></li><li id="nav_52"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=307&amp;Itemid=560" class="sublevel" id="menulink_2_8_3">Uncut Podcast</a></li><li id="nav_53"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=121&amp;Itemid=234" class="sublevel" id="menulink_2_8_4">Audio Archive</a></li><li id="nav_54"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=26&amp;Itemid=128" class="sublevel" id="menulink_2_8_5">Photos</a></li></ul></li><li id="nav_55"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=31&amp;Itemid=129" class="sublevel" id="menulink_2_9">Milt Rosenberg</a><ul id="menulist_2_9"><li id="nav_56"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=167&amp;Itemid=275" class="sublevel" id="menulink_2_9_1">Monthly Program Guide</a></li><li id="nav_57"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=128&amp;Itemid=238" class="sublevel" id="menulink_2_9_2">Audio Archive</a></li><li id="nav_58"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=129&amp;Itemid=237" class="sublevel" id="menulink_2_9_3">Audio Archive - Three Decade Retrospective</a></li><li id="nav_59"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=81&amp;Itemid=245" class="sublevel" id="menulink_2_9_4">Podcast</a></li><li id="nav_60"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=261&amp;Itemid=467" class="sublevel" id="menulink_2_9_5">Unabridged Podcast</a></li><li id="nav_61"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=308&amp;Itemid=561" class="sublevel" id="menulink_2_9_6">Uncut Podcast</a></li><li id="nav_62"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=48&amp;Itemid=240" class="sublevel" id="menulink_2_9_7">Milt's File: The Extension 720 Blog</a></li><li id="nav_63"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=28&amp;Itemid=129" class="sublevel" id="menulink_2_9_8">Photos</a></li><li id="nav_64"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=143&amp;Itemid=242" class="sublevel" id="menulink_2_9_9">Books of the Quarter</a></li><li id="nav_65"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=73&amp;Itemid=244" class="sublevel" id="menulink_2_9_10">Milt's Music</a></li><li id="nav_66"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29250&amp;Itemid=266" class="sublevel" id="menulink_2_9_11">Extension 720 Program Guide E-Mail</a></li></ul></li><li id="nav_67"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=32&amp;Itemid=130" class="sublevel" id="menulink_2_10">Steve &amp; Johnnie</a><ul id="menulist_2_10"><li id="nav_68"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=122&amp;Itemid=246" class="sublevel" id="menulink_2_10_1">Audio Archives</a></li><li id="nav_69"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=132&amp;Itemid=247" class="sublevel" id="menulink_2_10_2">Radio Road Tests</a></li><li id="nav_70"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=44&amp;Itemid=249" class="sublevel" id="menulink_2_10_3">Blog After Dark</a></li><li id="nav_71"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=82&amp;Itemid=250" class="sublevel" id="menulink_2_10_4">Podcast</a></li><li id="nav_72"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=309&amp;Itemid=562" class="sublevel" id="menulink_2_10_5">Uncut Podcast</a></li><li id="nav_73"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=29&amp;Itemid=130" class="sublevel" id="menulink_2_10_6">Photos</a></li><li id="nav_74"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=201&amp;Itemid=334" class="sublevel" id="menulink_2_10_7">Steve &amp; Johnnie's Funny Pages</a></li><li id="nav_75"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=202&amp;Itemid=338" class="sublevel" id="menulink_2_10_8">Cyber Squad</a></li><li id="nav_76"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=215&amp;Itemid=361" class="sublevel" id="menulink_2_10_9">Links and Information</a></li><li id="nav_77"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=203&amp;Itemid=374" class="sublevel" id="menulink_2_10_10">Recipes</a></li><li id="nav_78"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=3103&amp;Itemid=249" class="sublevel" id="menulink_2_10_11">Celiac Disease Information</a></li><li id="nav_79"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=278&amp;Itemid=508" class="sublevel" id="menulink_2_10_12">New Music Monday</a></li></ul></li><li id="nav_80"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=33&amp;Itemid=131" class="sublevel" id="menulink_2_11">Orion &amp; Max</a><ul id="menulist_2_11"><li id="nav_81"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=30&amp;Itemid=131" class="sublevel" id="menulink_2_11_1">Photos</a></li><li id="nav_82"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30582&amp;Itemid=355" class="sublevel" id="menulink_2_11_2">Business and Agri-Biz Schedule</a></li><li id="nav_83"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=238&amp;Itemid=421" class="sublevel" id="menulink_2_11_3">Links &amp; Information</a></li><li id="nav_84"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=271&amp;Itemid=488" class="sublevel" id="menulink_2_11_4">AgriCast Podcast</a></li><li id="nav_85"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=277&amp;Itemid=506" class="sublevel" id="menulink_2_11_5">Audio Archives</a></li></ul></li><li id="nav_86"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=25&amp;Itemid=115" class="sublevel" id="menulink_2_12">Weekends</a><ul id="menulist_2_12"><li id="nav_87"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=88&amp;Itemid=165" class="sublevel" id="menulink_2_12_1">Nick Digilio</a></li><li id="nav_88"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=211&amp;Itemid=352" class="sublevel" id="menulink_2_12_2">WGN Overnight (Fri-Sat)</a></li><li id="nav_89"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=90&amp;Itemid=166" class="sublevel" id="menulink_2_12_3">Mr. Fix-It</a></li><li id="nav_90"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=92&amp;Itemid=167" class="sublevel" id="menulink_2_12_4">Your Money</a></li><li id="nav_91"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=96&amp;Itemid=169" class="sublevel" id="menulink_2_12_5">Technology Tailor</a></li><li id="nav_92"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=97&amp;Itemid=170" class="sublevel" id="menulink_2_12_6">The Twilight Zone</a></li><li id="nav_93"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=98&amp;Itemid=173" class="sublevel" id="menulink_2_12_7">WGN Overnight (Sat-Sun)</a></li><li id="nav_94"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=99&amp;Itemid=174" class="sublevel" id="menulink_2_12_8">The Great Outdoors</a></li><li id="nav_95"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=100&amp;Itemid=175" class="sublevel" id="menulink_2_12_9">Love Changes Life</a></li><li id="nav_96"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=101&amp;Itemid=176" class="sublevel" id="menulink_2_12_10">The Lutheran Hour</a></li><li id="nav_97"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=102&amp;Itemid=177" class="sublevel" id="menulink_2_12_11">The Sunday Papers</a></li><li id="nav_98"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=94&amp;Itemid=178" class="sublevel" id="menulink_2_12_12">Dean Richards</a></li><li id="nav_99"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=295&amp;Itemid=536" class="sublevel" id="menulink_2_12_13">Cubs Confidential</a></li><li id="nav_100"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=93&amp;Itemid=168" class="sublevel" id="menulink_2_12_14">Legally Speaking</a></li><li id="nav_101"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=95&amp;Itemid=172" class="sublevel" id="menulink_2_12_15">Pet Central</a></li><li id="nav_102"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=232&amp;Itemid=410" class="sublevel" id="menulink_2_12_16">The Sunday Night Radio Special</a></li><li id="nav_103"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=103&amp;Itemid=181" class="sublevel" id="menulink_2_12_17">WGN Weekend</a></li></ul></li></ul></li><li id="nav_104"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=49" class="mainlevel" id="menulink_3">NEWS &amp; INFORMATION</a><ul id="menulist_3"><li id="nav_105"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=50" class="sublevel" id="menulink_3_1">News</a><ul id="menulist_3_1"><li id="nav_106"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=50&amp;Itemid=135" class="sublevel" id="menulink_3_1_1">AP Top Stories</a></li><li id="nav_107"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=229&amp;Itemid=400" class="sublevel" id="menulink_3_1_2">News Features</a></li><li id="nav_108"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=403" class="sublevel" id="menulink_3_1_3">News</a></li></ul></li><li id="nav_109"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=51" class="sublevel" id="menulink_3_2">Sports</a><ul id="menulist_3_2"><li id="nav_110"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=264" class="sublevel" id="menulink_3_2_1">FS Baseball</a></li><li id="nav_111"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=366" class="sublevel" id="menulink_3_2_2">FS Basketball</a></li><li id="nav_112"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=367" class="sublevel" id="menulink_3_2_3">FS Golf</a></li><li id="nav_113"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=368" class="sublevel" id="menulink_3_2_4">FS Football</a></li><li id="nav_114"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=369" class="sublevel" id="menulink_3_2_5">FS Hockey</a></li></ul></li><li id="nav_115"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=146" class="sublevel" id="menulink_3_3">WGN WeatherCenter</a></li><li id="nav_116"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=373" class="sublevel" id="menulink_3_4">Traffic Central</a></li><li id="nav_117"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=333" class="sublevel" id="menulink_3_5">Business</a></li><li id="nav_118"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=39017&amp;Itemid=492" class="sublevel" id="menulink_3_6">Election Central</a></li><li id="nav_119"><a href="http://wgnradio.com/index.php?option=ECC&amp;Itemid=186" class="sublevel" id="menulink_3_7">Emergency Closing Center</a></li><li id="nav_120"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=107&amp;Itemid=182" class="sublevel" id="menulink_3_8">Cubs Baseball</a><ul id="menulist_3_8"><li id="nav_121"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=108&amp;Itemid=312" class="sublevel" id="menulink_3_8_1">Cubs Blog - Cory's Cubs Comments</a></li><li id="nav_122"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=284&amp;Itemid=521" class="sublevel" id="menulink_3_8_2">Cubs Booth Blog - Boltzy's Blog</a></li><li id="nav_123"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=178&amp;Itemid=313" class="sublevel" id="menulink_3_8_3">Cubs Podcast</a></li><li id="nav_124"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=247&amp;Itemid=441" class="sublevel" id="menulink_3_8_4">Lou Piniella Podcast</a></li><li id="nav_125"><a href="http://chicago.cubs.mlb.com/index.jsp?c_id=chc" target="_blank" class="sublevel" id="menulink_3_8_5">Chicago Cubs Official Website</a></li></ul></li><li id="nav_126"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=293&amp;Itemid=533" class="sublevel" id="menulink_3_9">Blackhawks Hockey</a><ul id="menulist_3_9"><li id="nav_127"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=313&amp;Itemid=584" class="sublevel" id="menulink_3_9_1">Blackhawks Central Blog</a></li><li id="nav_128"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=314&amp;Itemid=591" class="sublevel" id="menulink_3_9_2">Blackhawkscast Podcast</a></li><li id="nav_129"><a href="http://blackhawks.nhl.com/" target="_blank" class="sublevel" id="menulink_3_9_3">Chicago Blackhawks Official Website</a></li></ul></li><li id="nav_130"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=170&amp;Itemid=293" class="sublevel" id="menulink_3_10">Northwestern Football</a><ul id="menulist_3_10"><li id="nav_131"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=169&amp;Itemid=589" class="sublevel" id="menulink_3_10_1">Northwestern Wildcat Podcat</a></li><li id="nav_132"><a href="http://nusports.cstv.com/sports/m-footbl/nw-m-footbl-body.html" target="_blank" class="sublevel" id="menulink_3_10_2">Northwestern Football Official Website</a></li></ul></li><li id="nav_133"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=171&amp;Itemid=294" class="sublevel" id="menulink_3_11">Northwestern Basketball</a><ul id="menulist_3_11"><li id="nav_134"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=169&amp;Itemid=590" class="sublevel" id="menulink_3_11_1">Northwestern Wildcat Podcat</a></li><li id="nav_135"><a href="http://nusports.cstv.com/sports/m-baskbl/nw-m-baskbl-body.html" class="sublevel" id="menulink_3_11_2">Northwestern Basketball Official Website</a></li></ul></li><li id="nav_136"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=46&amp;Itemid=311" class="sublevel" id="menulink_3_12">News/Weather/Traffic Staff</a></li></ul></li><li id="nav_137"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=59" class="mainlevel" id="menulink_4">AUDIO &amp; VIDEO</a><ul id="menulist_4"><li id="nav_138"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160" class="sublevel" id="menulink_4_1">Listen Now</a></li><li id="nav_139"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=136" class="sublevel" id="menulink_4_2">Podcasts</a></li><li id="nav_140"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29251&amp;Itemid=267" class="sublevel" id="menulink_4_3">Audio Archives</a></li><li id="nav_141"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=151&amp;Itemid=269" class="sublevel" id="menulink_4_4">Video</a></li><li id="nav_142"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=286&amp;Itemid=525" class="sublevel" id="menulink_4_5">CityCam</a></li></ul></li><li id="nav_143"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=63" class="mainlevel" id="menulink_5">FEATURES</a><ul id="menulist_5"><li id="nav_144"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=268" class="sublevel" id="menulink_5_1">Blogs</a></li><li id="nav_145"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;Itemid=139" class="sublevel" id="menulink_5_2">Photos</a></li><li id="nav_146"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29250&amp;Itemid=266" class="sublevel" id="menulink_5_3">E-Newsletters</a></li><li id="nav_147"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=9&amp;Itemid=149" class="sublevel" id="menulink_5_4">What's New?</a></li><li id="nav_148"><a href="http://wgnradio.com/index.php?option=com_joomap&amp;Itemid=132" class="sublevel" id="menulink_5_5">Site Map</a></li><li id="nav_149"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=15&amp;Itemid=104" class="sublevel" id="menulink_5_6">Spike O'Dell Archives</a><ul id="menulist_5_6"><li id="nav_150"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=292&amp;Itemid=532" class="sublevel" id="menulink_5_6_1">Spike 101</a></li><li id="nav_151"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=1&amp;Itemid=104" class="sublevel" id="menulink_5_6_2">Photos</a></li><li id="nav_152"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=111&amp;Itemid=215" class="sublevel" id="menulink_5_6_3">Audio Archive</a></li><li id="nav_153"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=75&amp;Itemid=217" class="sublevel" id="menulink_5_6_4">Podcast</a></li><li id="nav_154"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=302&amp;Itemid=554" class="sublevel" id="menulink_5_6_5">Uncut Podcast</a></li><li id="nav_155"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=212&amp;Itemid=354" class="sublevel" id="menulink_5_6_6">Links &amp; Information</a></li><li id="nav_156"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=236&amp;Itemid=418" class="sublevel" id="menulink_5_6_7">Current Events Quiz</a></li><li id="nav_157"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=262&amp;Itemid=470" class="sublevel" id="menulink_5_6_8">Paul's Calls</a></li><li id="nav_158"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=294&amp;Itemid=535" class="sublevel" id="menulink_5_6_9">Tommy Pritchard's Updates from Iraq</a></li><li id="nav_159"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=237&amp;Itemid=419" class="sublevel" id="menulink_5_6_10">Spike's Recipes</a></li><li id="nav_160"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30591&amp;Itemid=356" class="sublevel" id="menulink_5_6_11">Intern with the Morning Show</a></li><li id="nav_161"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=214&amp;Itemid=360" class="sublevel" id="menulink_5_6_12">Spike's Virtual Studio Tour</a></li></ul></li></ul></li><li id="nav_162"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=37&amp;Itemid=184" class="mainlevel" id="menulink_6">CONTESTS/EVENTS</a><ul id="menulist_6"><li id="nav_163"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=110&amp;Itemid=317" class="sublevel" id="menulink_6_1">Contests</a></li><li id="nav_164"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=113" class="sublevel" id="menulink_6_2">Prize Policy</a></li><li id="nav_165"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=134&amp;Itemid=189" class="sublevel" id="menulink_6_3">Hometown Voices</a></li><li id="nav_166"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29906&amp;Itemid=316" class="sublevel" id="menulink_6_4">Community Calendar</a></li></ul></li><li id="nav_167"><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=76" class="mainlevel" id="menulink_7">ABOUT US</a><ul id="menulist_7"><li id="nav_168"><a href="http://wgnradio.com/index.php?option=com_contact&amp;Itemid=3" class="sublevel" id="menulink_7_1">Contact Us - E-Mail</a></li><li id="nav_169"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31317&amp;Itemid=370" class="sublevel" id="menulink_7_2">Contact Us - Postal, Fax &amp; Phone</a></li><li id="nav_170"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=267&amp;Itemid=480" class="sublevel" id="menulink_7_3">Awards</a></li><li id="nav_171"><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=78" class="sublevel" id="menulink_7_4">Frequently Asked Questions</a></li><li id="nav_172"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=112" class="sublevel" id="menulink_7_5">History</a></li><li id="nav_173"><a href="http://wgnradio.com/index.php?option=com_google_maps&amp;Itemid=123" class="sublevel" id="menulink_7_6">Around the World</a><ul id="menulist_7_6"><li id="nav_174"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=28120&amp;Itemid=190" class="sublevel" id="menulink_7_6_1">Volcano Village, Hawaii</a></li></ul></li><li id="nav_175"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=244&amp;Itemid=428" class="sublevel" id="menulink_7_7">Neediest Kids Fund</a></li><li id="nav_176"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=110" class="sublevel" id="menulink_7_8">Internships</a></li><li id="nav_177"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29&amp;Itemid=117" class="sublevel" id="menulink_7_9">Employment</a></li><li id="nav_178"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30&amp;Itemid=118" class="sublevel" id="menulink_7_10">Sponsors</a></li><li id="nav_179"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=119" class="sublevel" id="menulink_7_11">Advertise with WGN Radio</a></li><li id="nav_180"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=34&amp;Itemid=120" class="sublevel" id="menulink_7_12">Privacy Policy</a></li><li id="nav_181"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=121" class="sublevel" id="menulink_7_13">Terms of Service</a></li></ul></li><li id="nav_182"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31689&amp;Itemid=388" class="mainlevel" id="menulink_8">SHOP WGN</a><ul id="menulist_8"><li id="nav_183"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=64&amp;Itemid=151" class="sublevel" id="menulink_8_1">WGN Radio CDs</a><ul id="menulist_8_1"><li id="nav_184"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=63&amp;Itemid=150" class="sublevel" id="menulink_8_1_1">WGN Radio Merchandise</a></li><li id="nav_185"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=67&amp;Itemid=153" class="sublevel" id="menulink_8_1_2">WGN Radio CD Cearance</a></li><li id="nav_186"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=69&amp;Itemid=158" class="sublevel" id="menulink_8_1_3">Books by WGN Radio Authors</a></li><li id="nav_187"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=74&amp;Itemid=162" class="sublevel" id="menulink_8_1_4">Order Forms</a></li></ul></li><li id="nav_188"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=320&amp;Itemid=609" class="sublevel" id="menulink_8_2">WGN Radio Show Items</a></li><li id="nav_189"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=596" class="sublevel" id="menulink_8_3">Logo Merchandise</a></li><li id="nav_190"><a href="http://wgnradiocalendars.com/" target="_blank" class="sublevel" id="menulink_8_4">Image Personalized Calendars</a></li><li id="nav_191"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=391" class="sublevel" id="menulink_8_5">WGN Radio Half-Price Chicago</a></li><li id="nav_192"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=45403&amp;Itemid=150" class="sublevel" id="menulink_8_6">WGN Radio Family Cookbook, Volume 2</a></li><li id="nav_193"><a href="http://www.giftgivingguide.org/main" target="_blank" class="sublevel" id="menulink_8_7">Holiday Gift Giving Guide</a></li><li id="nav_194"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31986&amp;Itemid=399" class="sublevel" id="menulink_8_8">WGN Radio Vehicle Village</a></li><li id="nav_195"><a href="http://www.pjgreetings.com/Articles.asp?ID=7&amp;Click=70" target="_blank" class="sublevel" id="menulink_8_9">PJ Greetings Personalized Cards and Gifts</a></li><li id="nav_196"><a href="http://whiterabbitinc.com/started.php" class="sublevel" id="menulink_8_10">White Rabbit Garage Organizers</a></li></ul></li><li id="nav_197"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=26972&amp;Itemid=185" class="mainlevel" id="menulink_9">PARTNERS</a><ul id="menulist_9"><li id="nav_198"><a href="http://chicagotribune.com" target="_blank" class="sublevel" id="menulink_9_1">ChicagoTribune.com</a></li><li id="nav_199"><a href="http://chicagotribune.com/sports" target="_blank" class="sublevel" id="menulink_9_2">ChicagoTribune.com/ Sports</a></li><li id="nav_200"><a href="http://www.cltv.com" target="_blank" class="sublevel" id="menulink_9_3">CLTV.com</a></li><li id="nav_201"><a href="http://www.cubs.com" target="_blank" class="sublevel" id="menulink_9_4">Cubs.com</a></li><li id="nav_202"><a href="http://metromix.chicagotribune.com" target="_blank" class="sublevel" id="menulink_9_5">Metromix.com</a></li><li id="nav_203"><a href="http://www.redeyechicago.com" target="_blank" class="sublevel" id="menulink_9_6">RedEyeChicago.com</a></li><li id="nav_204"><a href="http://www.wgntv.com" target="_blank" class="sublevel" id="menulink_9_7">WGNTV.com</a></li><li id="nav_205" class="MyWGN"><a href="http://www.tukaiz.com" target="_blank" class="sublevel" id="menulink_9_8">Tukaiz.com</a></li></ul></li></ul>		</div>
-	</div><!-- nav -->
-	<script>sfHover();</script>
-	<div id="mainWrapper">
-	<div id="main">
-		
-		<div id="content">
-						<div id="generalContent">
-												<table class="contentpaneopen">
+</form>			</div>
+					</div>
+	
+			<!-- Main Menu -->
+			<div style="position: absolute; top: 100px; z-index: 20;">
+						<div class="moduletable-arc">
+			<script type="text/javascript" language="JavaScript" src="http://wgnradio.com/templates/wgn_home_ii/suckerfish-horizontal-1.0.1/js/menu.js"></script> <div class="menu-suckerfish-horizontal"> <ul id="menulist_root-suckerfish-horizontal" class="mainlevel-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel-suckerfish-horizontal" id="menulink_1-suckerfish-horizontal">HOME</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=163" class="mainlevel-suckerfish-horizontal" id="menulink_2-suckerfish-horizontal"><span class="expanded">PROGRAMMING</span></a><ul id="menulist_2-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=133" class="sublevel-suckerfish-horizontal" id="menulink_2_1-suckerfish-horizontal"><span class="expanded">Schedule</span></a><ul id="menulist_2_1-suckerfish-horizontal"><li><a href="http://mobile.wgnradio.com" class="sublevel-suckerfish-horizontal" id="menulink_2_1_1-suckerfish-horizontal">WGN Radio Mobile Site</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=147&amp;Itemid=262" class="sublevel-suckerfish-horizontal" id="menulink_2_2-suckerfish-horizontal">Guests / Topics</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=29&amp;Itemid=127" class="sublevel-suckerfish-horizontal" id="menulink_2_3-suckerfish-horizontal"><span class="expanded">John Williams</span></a><ul id="menulist_2_3-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=283&amp;Itemid=518" class="sublevel-suckerfish-horizontal" id="menulink_2_3_1-suckerfish-horizontal">John Williams 101</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=50&amp;Itemid=230" class="sublevel-suckerfish-horizontal" id="menulink_2_3_2-suckerfish-horizontal">Book Reviews</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=15&amp;Itemid=127" class="sublevel-suckerfish-horizontal" id="menulink_2_3_3-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=234&amp;Itemid=416" class="sublevel-suckerfish-horizontal" id="menulink_2_3_4-suckerfish-horizontal">NewsClick Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=260&amp;Itemid=465" class="sublevel-suckerfish-horizontal" id="menulink_2_3_5-suckerfish-horizontal">Blog: Sayeth King John</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=49&amp;Itemid=232" class="sublevel-suckerfish-horizontal" id="menulink_2_3_6-suckerfish-horizontal">Links &amp; Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=78&amp;Itemid=233" class="sublevel-suckerfish-horizontal" id="menulink_2_3_7-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=305&amp;Itemid=558" class="sublevel-suckerfish-horizontal" id="menulink_2_3_8-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=148&amp;Itemid=263" class="sublevel-suckerfish-horizontal" id="menulink_2_3_9-suckerfish-horizontal">Audio Archives</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=276&amp;Itemid=504" class="sublevel-suckerfish-horizontal" id="menulink_2_3_10-suckerfish-horizontal">Not Ready for Drive Time Players</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=268&amp;Itemid=481" class="sublevel-suckerfish-horizontal" id="menulink_2_3_11-suckerfish-horizontal">Bright Side of Life</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=270&amp;Itemid=485" class="sublevel-suckerfish-horizontal" id="menulink_2_3_12-suckerfish-horizontal">Weird News Roundup</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=249&amp;Itemid=446" class="sublevel-suckerfish-horizontal" id="menulink_2_3_13-suckerfish-horizontal">Bracket Battles</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=279&amp;Itemid=510" class="sublevel-suckerfish-horizontal" id="menulink_2_3_14-suckerfish-horizontal">CrownCam</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=326&amp;Itemid=656" class="sublevel-suckerfish-horizontal" id="menulink_2_3_15-suckerfish-horizontal">World's Greatest Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=254&amp;Itemid=451" class="sublevel-suckerfish-horizontal" id="menulink_2_3_16-suckerfish-horizontal">G-Tunes</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=346&amp;Itemid=693" class="sublevel-suckerfish-horizontal" id="menulink_2_3_17-suckerfish-horizontal">Video</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=26&amp;Itemid=124" class="sublevel-suckerfish-horizontal" id="menulink_2_4-suckerfish-horizontal"><span class="expanded">Kathy &amp; Judy</span></a><ul id="menulist_2_4-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=282&amp;Itemid=517" class="sublevel-suckerfish-horizontal" id="menulink_2_4_1-suckerfish-horizontal">K&amp;J 101</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=115&amp;Itemid=219" class="sublevel-suckerfish-horizontal" id="menulink_2_4_2-suckerfish-horizontal">Audio Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=5&amp;Itemid=124" class="sublevel-suckerfish-horizontal" id="menulink_2_4_3-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=65&amp;Itemid=220" class="sublevel-suckerfish-horizontal" id="menulink_2_4_4-suckerfish-horizontal">Links &amp; Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=77&amp;Itemid=221" class="sublevel-suckerfish-horizontal" id="menulink_2_4_5-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=303&amp;Itemid=555" class="sublevel-suckerfish-horizontal" id="menulink_2_4_6-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29666&amp;Itemid=314" class="sublevel-suckerfish-horizontal" id="menulink_2_4_7-suckerfish-horizontal">GirlfriendGram</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=66&amp;Itemid=223" class="sublevel-suckerfish-horizontal" id="menulink_2_4_8-suckerfish-horizontal">Radio Readers</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=255&amp;Itemid=452" class="sublevel-suckerfish-horizontal" id="menulink_2_4_9-suckerfish-horizontal">E-Your Piece</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=347&amp;Itemid=694" class="sublevel-suckerfish-horizontal" id="menulink_2_4_10-suckerfish-horizontal">Video</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=231&amp;Itemid=409" class="sublevel-suckerfish-horizontal" id="menulink_2_5-suckerfish-horizontal"><span class="expanded">The Noon Show</span></a><ul id="menulist_2_5-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=233&amp;Itemid=414" class="sublevel-suckerfish-horizontal" id="menulink_2_5_1-suckerfish-horizontal">Links and Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=246&amp;Itemid=439" class="sublevel-suckerfish-horizontal" id="menulink_2_5_2-suckerfish-horizontal">Audio Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=301&amp;Itemid=553" class="sublevel-suckerfish-horizontal" id="menulink_2_5_3-suckerfish-horizontal">Walter Jacobson</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=256&amp;Itemid=457" class="sublevel-suckerfish-horizontal" id="menulink_2_5_4-suckerfish-horizontal">Noon Show Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=304&amp;Itemid=557" class="sublevel-suckerfish-horizontal" id="menulink_2_5_5-suckerfish-horizontal">Noon Show Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=264&amp;Itemid=472" class="sublevel-suckerfish-horizontal" id="menulink_2_5_6-suckerfish-horizontal">Noon Show Mailbox</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=339&amp;Itemid=682" class="sublevel-suckerfish-horizontal" id="menulink_2_6-suckerfish-horizontal"><span class="expanded">Garry Meier</span></a><ul id="menulist_2_6-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=342&amp;Itemid=687" class="sublevel-suckerfish-horizontal" id="menulink_2_6_1-suckerfish-horizontal">Garry Meier 101</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=343&amp;Itemid=688" class="sublevel-suckerfish-horizontal" id="menulink_2_6_2-suckerfish-horizontal">Video</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=345&amp;Itemid=690" class="sublevel-suckerfish-horizontal" id="menulink_2_6_3-suckerfish-horizontal">Garry Meier Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=344&amp;Itemid=689" class="sublevel-suckerfish-horizontal" id="menulink_2_6_4-suckerfish-horizontal">Garry Meier Uncut</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=28&amp;Itemid=126" class="sublevel-suckerfish-horizontal" id="menulink_2_7-suckerfish-horizontal"><span class="expanded">Steve Cochran</span></a><ul id="menulist_2_7-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=298&amp;Itemid=544" class="sublevel-suckerfish-horizontal" id="menulink_2_7_1-suckerfish-horizontal">Steve Cochran 101</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=14&amp;Itemid=126" class="sublevel-suckerfish-horizontal" id="menulink_2_7_2-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=116&amp;Itemid=225" class="sublevel-suckerfish-horizontal" id="menulink_2_7_3-suckerfish-horizontal">Audio Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=76&amp;Itemid=227" class="sublevel-suckerfish-horizontal" id="menulink_2_7_4-suckerfish-horizontal">CochRANTings</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=87&amp;Itemid=228" class="sublevel-suckerfish-horizontal" id="menulink_2_7_5-suckerfish-horizontal">Links &amp; Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=79&amp;Itemid=229" class="sublevel-suckerfish-horizontal" id="menulink_2_7_6-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=306&amp;Itemid=559" class="sublevel-suckerfish-horizontal" id="menulink_2_7_7-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=194&amp;Itemid=326" class="sublevel-suckerfish-horizontal" id="menulink_2_7_8-suckerfish-horizontal">Kid of the Week </a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=321&amp;Itemid=614" class="sublevel-suckerfish-horizontal" id="menulink_2_7_9-suckerfish-horizontal">20 Seconds</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30561&amp;Itemid=353" class="sublevel-suckerfish-horizontal" id="menulink_2_7_10-suckerfish-horizontal">Steve's Bio</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=340&amp;Itemid=685" class="sublevel-suckerfish-horizontal" id="menulink_2_7_11-suckerfish-horizontal">The Blatant Plug Page</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=341&amp;Itemid=686" class="sublevel-suckerfish-horizontal" id="menulink_2_7_12-suckerfish-horizontal">The Charity Page</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=348&amp;Itemid=695" class="sublevel-suckerfish-horizontal" id="menulink_2_7_13-suckerfish-horizontal">Video</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=30&amp;Itemid=128" class="sublevel-suckerfish-horizontal" id="menulink_2_8-suckerfish-horizontal"><span class="expanded">Sports Central</span></a><ul id="menulist_2_8-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=120&amp;Itemid=236" class="sublevel-suckerfish-horizontal" id="menulink_2_8_1-suckerfish-horizontal">Sports Central Blog</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=80&amp;Itemid=235" class="sublevel-suckerfish-horizontal" id="menulink_2_8_2-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=307&amp;Itemid=560" class="sublevel-suckerfish-horizontal" id="menulink_2_8_3-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=121&amp;Itemid=234" class="sublevel-suckerfish-horizontal" id="menulink_2_8_4-suckerfish-horizontal">Audio Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=26&amp;Itemid=128" class="sublevel-suckerfish-horizontal" id="menulink_2_8_5-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=349&amp;Itemid=696" class="sublevel-suckerfish-horizontal" id="menulink_2_8_6-suckerfish-horizontal">Video</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=31&amp;Itemid=129" class="sublevel-suckerfish-horizontal" id="menulink_2_9-suckerfish-horizontal"><span class="expanded">Milt Rosenberg</span></a><ul id="menulist_2_9-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=167&amp;Itemid=275" class="sublevel-suckerfish-horizontal" id="menulink_2_9_1-suckerfish-horizontal">Monthly Program Guide</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=128&amp;Itemid=238" class="sublevel-suckerfish-horizontal" id="menulink_2_9_2-suckerfish-horizontal">Audio Archive</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=129&amp;Itemid=237" class="sublevel-suckerfish-horizontal" id="menulink_2_9_3-suckerfish-horizontal">Audio Archive - Three Decade Retrospective</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=81&amp;Itemid=245" class="sublevel-suckerfish-horizontal" id="menulink_2_9_4-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=261&amp;Itemid=467" class="sublevel-suckerfish-horizontal" id="menulink_2_9_5-suckerfish-horizontal">Unabridged Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=308&amp;Itemid=561" class="sublevel-suckerfish-horizontal" id="menulink_2_9_6-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=48&amp;Itemid=240" class="sublevel-suckerfish-horizontal" id="menulink_2_9_7-suckerfish-horizontal">Milt's File: The Extension 720 Blog</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=28&amp;Itemid=129" class="sublevel-suckerfish-horizontal" id="menulink_2_9_8-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=143&amp;Itemid=242" class="sublevel-suckerfish-horizontal" id="menulink_2_9_9-suckerfish-horizontal">Books of the Quarter</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=73&amp;Itemid=244" class="sublevel-suckerfish-horizontal" id="menulink_2_9_10-suckerfish-horizontal">Milt's Music</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29250&amp;Itemid=266" class="sublevel-suckerfish-horizontal" id="menulink_2_9_11-suckerfish-horizontal">Extension 720 Program Guide E-Mail</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=32&amp;Itemid=130" class="sublevel-suckerfish-horizontal" id="menulink_2_10-suckerfish-horizontal"><span class="expanded">Steve &amp; Johnnie</span></a><ul id="menulist_2_10-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=122&amp;Itemid=246" class="sublevel-suckerfish-horizontal" id="menulink_2_10_1-suckerfish-horizontal">Audio Archives</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=132&amp;Itemid=247" class="sublevel-suckerfish-horizontal" id="menulink_2_10_2-suckerfish-horizontal">Radio Road Tests</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=44&amp;Itemid=249" class="sublevel-suckerfish-horizontal" id="menulink_2_10_3-suckerfish-horizontal">Blog After Dark</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=82&amp;Itemid=250" class="sublevel-suckerfish-horizontal" id="menulink_2_10_4-suckerfish-horizontal">Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=309&amp;Itemid=562" class="sublevel-suckerfish-horizontal" id="menulink_2_10_5-suckerfish-horizontal">Uncut Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=29&amp;Itemid=130" class="sublevel-suckerfish-horizontal" id="menulink_2_10_6-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=203&amp;Itemid=374" class="sublevel-suckerfish-horizontal" id="menulink_2_10_7-suckerfish-horizontal">Recipes</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=3103&amp;Itemid=249" class="sublevel-suckerfish-horizontal" id="menulink_2_10_8-suckerfish-horizontal">Celiac Disease Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=278&amp;Itemid=508" class="sublevel-suckerfish-horizontal" id="menulink_2_10_9-suckerfish-horizontal">New Music Monday</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=33&amp;Itemid=131" class="sublevel-suckerfish-horizontal" id="menulink_2_11-suckerfish-horizontal"><span class="expanded">Orion &amp; Max</span></a><ul id="menulist_2_11-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=30&amp;Itemid=131" class="sublevel-suckerfish-horizontal" id="menulink_2_11_1-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30582&amp;Itemid=355" class="sublevel-suckerfish-horizontal" id="menulink_2_11_2-suckerfish-horizontal">Business and Agri-Biz Schedule</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=238&amp;Itemid=421" class="sublevel-suckerfish-horizontal" id="menulink_2_11_3-suckerfish-horizontal">Links &amp; Information</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=271&amp;Itemid=488" class="sublevel-suckerfish-horizontal" id="menulink_2_11_4-suckerfish-horizontal">AgriCast Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=277&amp;Itemid=506" class="sublevel-suckerfish-horizontal" id="menulink_2_11_5-suckerfish-horizontal">Audio Archives</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=25&amp;Itemid=115" class="sublevel-suckerfish-horizontal" id="menulink_2_12-suckerfish-horizontal"><span class="expanded">Weekends</span></a><ul id="menulist_2_12-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=88&amp;Itemid=165" class="sublevel-suckerfish-horizontal" id="menulink_2_12_1-suckerfish-horizontal"><span class="expanded">Nick Digilio</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=90&amp;Itemid=166" class="sublevel-suckerfish-horizontal" id="menulink_2_12_2-suckerfish-horizontal"><span class="expanded">Mr. Fix-It</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=351&amp;Itemid=698" class="sublevel-suckerfish-horizontal" id="menulink_2_12_3-suckerfish-horizontal">Jerry Agar</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=352&amp;Itemid=699" class="sublevel-suckerfish-horizontal" id="menulink_2_12_4-suckerfish-horizontal">News Junkie</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=98&amp;Itemid=173" class="sublevel-suckerfish-horizontal" id="menulink_2_12_5-suckerfish-horizontal"><span class="expanded">WGN Overnight</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=99&amp;Itemid=174" class="sublevel-suckerfish-horizontal" id="menulink_2_12_6-suckerfish-horizontal"><span class="expanded">The Great Outdoors</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=100&amp;Itemid=175" class="sublevel-suckerfish-horizontal" id="menulink_2_12_7-suckerfish-horizontal">Love Changes Life</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=101&amp;Itemid=176" class="sublevel-suckerfish-horizontal" id="menulink_2_12_8-suckerfish-horizontal">The Lutheran Hour</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=102&amp;Itemid=177" class="sublevel-suckerfish-horizontal" id="menulink_2_12_9-suckerfish-horizontal"><span class="expanded">The Sunday Papers</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=94&amp;Itemid=178" class="sublevel-suckerfish-horizontal" id="menulink_2_12_10-suckerfish-horizontal"><span class="expanded">Dean Richards</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=295&amp;Itemid=536" class="sublevel-suckerfish-horizontal" id="menulink_2_12_11-suckerfish-horizontal">Cubs Confidential</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=350&amp;Itemid=697" class="sublevel-suckerfish-horizontal" id="menulink_2_12_12-suckerfish-horizontal">Simon Rendezvous</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=93&amp;Itemid=168" class="sublevel-suckerfish-horizontal" id="menulink_2_12_13-suckerfish-horizontal"><span class="expanded">Legally Speaking</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=232&amp;Itemid=410" class="sublevel-suckerfish-horizontal" id="menulink_2_12_14-suckerfish-horizontal"><span class="expanded">The Sunday Night Radio Special</span></a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=103&amp;Itemid=181" class="sublevel-suckerfish-horizontal" id="menulink_2_12_15-suckerfish-horizontal">WGN Weekend</a></li></ul></li></ul></li><li><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=49" class="mainlevel-suckerfish-horizontal" id="menulink_3-suckerfish-horizontal"><span class="expanded">NEWS &amp; INFORMATION</span></a><ul id="menulist_3-suckerfish-horizontal"><li><a href="http://www.wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=312&amp;Itemid=577" class="sublevel-suckerfish-horizontal" id="menulink_3_1-suckerfish-horizontal">News Links &amp; Information</a></li><li><a href="http://www.wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=229&amp;Itemid=577" class="sublevel-suckerfish-horizontal" id="menulink_3_2-suckerfish-horizontal">News Features</a></li><li><a href="http://www.wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=85&amp;Itemid=577" class="sublevel-suckerfish-horizontal" id="menulink_3_3-suckerfish-horizontal">News Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=51" class="sublevel-suckerfish-horizontal" id="menulink_3_4-suckerfish-horizontal"><span class="expanded">Sports</span></a><ul id="menulist_3_4-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=264" class="sublevel-suckerfish-horizontal" id="menulink_3_4_1-suckerfish-horizontal">FS Baseball</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=366" class="sublevel-suckerfish-horizontal" id="menulink_3_4_2-suckerfish-horizontal">FS Basketball</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=367" class="sublevel-suckerfish-horizontal" id="menulink_3_4_3-suckerfish-horizontal">FS Golf</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=368" class="sublevel-suckerfish-horizontal" id="menulink_3_4_4-suckerfish-horizontal">FS Football</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=369" class="sublevel-suckerfish-horizontal" id="menulink_3_4_5-suckerfish-horizontal">FS Hockey</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=146" class="sublevel-suckerfish-horizontal" id="menulink_3_5-suckerfish-horizontal">WGN WeatherCenter</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=373" class="sublevel-suckerfish-horizontal" id="menulink_3_6-suckerfish-horizontal">Traffic Central</a></li><li><a href="http://www.emergencyclosings.com" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_3_7-suckerfish-horizontal">Emergency Closing Center</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=107&amp;Itemid=182" class="sublevel-suckerfish-horizontal" id="menulink_3_8-suckerfish-horizontal"><span class="expanded">Cubs Baseball</span></a><ul id="menulist_3_8-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=108&amp;Itemid=312" class="sublevel-suckerfish-horizontal" id="menulink_3_8_1-suckerfish-horizontal">Cubs Blog - Cory's Cubs Comments</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=284&amp;Itemid=521" class="sublevel-suckerfish-horizontal" id="menulink_3_8_2-suckerfish-horizontal">Cubs Booth Blog - Boltzy's Blog</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=178&amp;Itemid=313" class="sublevel-suckerfish-horizontal" id="menulink_3_8_3-suckerfish-horizontal">Cubs Podcast</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=247&amp;Itemid=441" class="sublevel-suckerfish-horizontal" id="menulink_3_8_4-suckerfish-horizontal">Lou Piniella Podcast</a></li><li><a href="http://chicago.cubs.mlb.com/index.jsp?c_id=chc" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_3_8_5-suckerfish-horizontal">Chicago Cubs Official Website</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=293&amp;Itemid=533" class="sublevel-suckerfish-horizontal" id="menulink_3_9-suckerfish-horizontal"><span class="expanded">Blackhawks Hockey</span></a><ul id="menulist_3_9-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=313&amp;Itemid=584" class="sublevel-suckerfish-horizontal" id="menulink_3_9_1-suckerfish-horizontal">Blackhawks Central Blog</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=314&amp;Itemid=591" class="sublevel-suckerfish-horizontal" id="menulink_3_9_2-suckerfish-horizontal">Blackhawkscast Podcast</a></li><li><a href="http://blackhawks.nhl.com/" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_3_9_3-suckerfish-horizontal">Chicago Blackhawks Official Website</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=322&amp;Itemid=616" class="sublevel-suckerfish-horizontal" id="menulink_3_9_4-suckerfish-horizontal">Inside the Blackhawks</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=170&amp;Itemid=293" class="sublevel-suckerfish-horizontal" id="menulink_3_10-suckerfish-horizontal"><span class="expanded">Northwestern Football</span></a><ul id="menulist_3_10-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=169&amp;Itemid=589" class="sublevel-suckerfish-horizontal" id="menulink_3_10_1-suckerfish-horizontal">Northwestern Wildcat Podcat</a></li><li><a href="http://nusports.cstv.com/sports/m-footbl/nw-m-footbl-body.html" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_3_10_2-suckerfish-horizontal">Northwestern Football Official Website</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=171&amp;Itemid=294" class="sublevel-suckerfish-horizontal" id="menulink_3_11-suckerfish-horizontal"><span class="expanded">Northwestern Basketball</span></a><ul id="menulist_3_11-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=169&amp;Itemid=590" class="sublevel-suckerfish-horizontal" id="menulink_3_11_1-suckerfish-horizontal">Northwestern Wildcat Podcat</a></li><li><a href="http://nusports.cstv.com/sports/m-baskbl/nw-m-baskbl-body.html" class="sublevel-suckerfish-horizontal" id="menulink_3_11_2-suckerfish-horizontal">Northwestern Basketball Official Website</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=46&amp;Itemid=311" class="sublevel-suckerfish-horizontal" id="menulink_3_12-suckerfish-horizontal">News/Weather/Traffic Staff</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=50107&amp;Itemid=577" class="sublevel-suckerfish-horizontal" id="menulink_3_13-suckerfish-horizontal">Follow WGN Radio News</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=59" class="mainlevel-suckerfish-horizontal" id="menulink_4-suckerfish-horizontal"><span class="expanded">AUDIO &amp; VIDEO</span></a><ul id="menulist_4-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160" class="sublevel-suckerfish-horizontal" id="menulink_4_1-suckerfish-horizontal">Listen Now</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=136" class="sublevel-suckerfish-horizontal" id="menulink_4_2-suckerfish-horizontal">Podcasts</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29251&amp;Itemid=267" class="sublevel-suckerfish-horizontal" id="menulink_4_3-suckerfish-horizontal">Audio Archives</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=151&amp;Itemid=269" class="sublevel-suckerfish-horizontal" id="menulink_4_4-suckerfish-horizontal">Comcast Video Lounge</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=324&amp;Itemid=639" class="sublevel-suckerfish-horizontal" id="menulink_4_5-suckerfish-horizontal">Comcast Green Room</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=286&amp;Itemid=525" class="sublevel-suckerfish-horizontal" id="menulink_4_6-suckerfish-horizontal">CityCam</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=63" class="mainlevel-suckerfish-horizontal" id="menulink_5-suckerfish-horizontal"><span class="expanded">FEATURES</span></a><ul id="menulist_5-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=268" class="sublevel-suckerfish-horizontal" id="menulink_5_1-suckerfish-horizontal">Blogs</a></li><li><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;Itemid=139" class="sublevel-suckerfish-horizontal" id="menulink_5_2-suckerfish-horizontal">Photos</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29250&amp;Itemid=266" class="sublevel-suckerfish-horizontal" id="menulink_5_3-suckerfish-horizontal">E-Newsletters</a></li><li><a href="http://www.wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=273&amp;Itemid=499" class="sublevel-suckerfish-horizontal" id="menulink_5_4-suckerfish-horizontal">Green Minute</a></li><li><a href="http://wgnradio.com/index.php?option=com_joomap&amp;Itemid=132" class="sublevel-suckerfish-horizontal" id="menulink_5_5-suckerfish-horizontal">Site Map</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=37&amp;Itemid=184" class="mainlevel-suckerfish-horizontal" id="menulink_6-suckerfish-horizontal"><span class="expanded">CONTESTS/EVENTS</span></a><ul id="menulist_6-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=110&amp;Itemid=317" class="sublevel-suckerfish-horizontal" id="menulink_6_1-suckerfish-horizontal">Contests</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=113" class="sublevel-suckerfish-horizontal" id="menulink_6_2-suckerfish-horizontal">Prize Policy</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=193&amp;Itemid=670" class="sublevel-suckerfish-horizontal" id="menulink_6_3-suckerfish-horizontal">Upcoming Events</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29906&amp;Itemid=316" class="sublevel-suckerfish-horizontal" id="menulink_6_4-suckerfish-horizontal">Community Calendar</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=76" class="mainlevel_active-suckerfish-horizontal" id="menulink_7-suckerfish-horizontal"><span class="expanded">ABOUT US</span></a><ul id="menulist_7-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_contact&amp;Itemid=3" class="sublevel-suckerfish-horizontal" id="menulink_7_1-suckerfish-horizontal">Contact Us - E-Mail</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31317&amp;Itemid=370" class="sublevel-suckerfish-horizontal" id="menulink_7_2-suckerfish-horizontal">Contact Us - Postal, Fax &amp; Phone</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=50875&amp;Itemid=684" class="sublevel-suckerfish-horizontal" id="menulink_7_3-suckerfish-horizontal">Follow Us on Twitter</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=267&amp;Itemid=480" class="sublevel-suckerfish-horizontal" id="menulink_7_4-suckerfish-horizontal">Awards</a></li><li><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=78" class="sublevel-suckerfish-horizontal" id="menulink_7_5-suckerfish-horizontal">Frequently Asked Questions</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=112" class="sublevel-suckerfish-horizontal" id="menulink_7_6-suckerfish-horizontal">History</a></li><li><a href="http://wgnradio.com/index.php?option=com_google_maps&amp;Itemid=123" class="sublevel-suckerfish-horizontal" id="menulink_7_7-suckerfish-horizontal"><span class="expanded">Around the World</span></a><ul id="menulist_7_7-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=28120&amp;Itemid=190" class="sublevel-suckerfish-horizontal" id="menulink_7_7_1-suckerfish-horizontal">Volcano Village, Hawaii</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=244&amp;Itemid=428" class="sublevel-suckerfish-horizontal" id="menulink_7_8-suckerfish-horizontal">Neediest Kids Fund</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=110" class="sublevel-suckerfish-horizontal" id="menulink_7_9-suckerfish-horizontal">Internships</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29&amp;Itemid=117" class="sublevel-suckerfish-horizontal" id="menulink_7_10-suckerfish-horizontal">Employment</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30&amp;Itemid=118" class="sublevel-suckerfish-horizontal" id="menulink_7_11-suckerfish-horizontal">Sponsors</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=119" class="sublevel-suckerfish-horizontal" id="menulink_7_12-suckerfish-horizontal">Advertise with WGN Radio</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=34&amp;Itemid=120" class="sublevel_current-suckerfish-horizontal" id="menulink_7_13-suckerfish-horizontal">Privacy Policy</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=121" class="sublevel-suckerfish-horizontal" id="menulink_7_14-suckerfish-horizontal">Terms of Service</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31689&amp;Itemid=388" class="mainlevel-suckerfish-horizontal" id="menulink_8-suckerfish-horizontal"><span class="expanded">SHOP WGN</span></a><ul id="menulist_8-suckerfish-horizontal"><li><a href="http://wgnradio.tukaizproducts.com" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_1-suckerfish-horizontal">WGN Personalized Products</a></li><li><a href="http://companycasuals.com/RadiostoresWGN/start.jsp" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_2-suckerfish-horizontal">Buy WGN Apparel</a></li><li><a href="http://click.linksynergy.com/fs-bin/click?id=QNRutj2Xqfo&amp;offerid=148737.10000013&amp;type=4&amp;subid=0" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_3-suckerfish-horizontal">Cubs Merchandise</a></li><li><a href="http://www.scannermaster.com/SearchResults.asp?Search=sportsyncradio&amp;Click=53438" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_4-suckerfish-horizontal">SportSyncRadio</a></li><li><a href="http://www.mptree.com" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_5-suckerfish-horizontal">Baseball iPod Covers</a></li><li><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=391" class="sublevel-suckerfish-horizontal" id="menulink_8_6-suckerfish-horizontal">WGN Radio Half-Price Chicago</a></li><li><a href="http://www.pjgreetings.com/Articles.asp?ID=7&amp;Click=70" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_7-suckerfish-horizontal">PJ Greetings Personalized Cards and Gifts</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=45403&amp;Itemid=150" class="sublevel-suckerfish-horizontal" id="menulink_8_8-suckerfish-horizontal">WGN Radio Family Cookbook, Volume 2</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=64&amp;Itemid=151" class="sublevel-suckerfish-horizontal" id="menulink_8_9-suckerfish-horizontal"><span class="expanded">WGN Radio CDs</span></a><ul id="menulist_8_9-suckerfish-horizontal"><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=63&amp;Itemid=150" class="sublevel-suckerfish-horizontal" id="menulink_8_9_1-suckerfish-horizontal">WGN Radio Merchandise</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=67&amp;Itemid=153" class="sublevel-suckerfish-horizontal" id="menulink_8_9_2-suckerfish-horizontal">WGN Radio CD Cearance</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=69&amp;Itemid=158" class="sublevel-suckerfish-horizontal" id="menulink_8_9_3-suckerfish-horizontal">Books by WGN Radio Authors</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=74&amp;Itemid=162" class="sublevel-suckerfish-horizontal" id="menulink_8_9_4-suckerfish-horizontal">Order Forms</a></li></ul></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=320&amp;Itemid=609" class="sublevel-suckerfish-horizontal" id="menulink_8_10-suckerfish-horizontal">WGN Radio Show Items</a></li><li><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31986&amp;Itemid=399" class="sublevel-suckerfish-horizontal" id="menulink_8_11-suckerfish-horizontal">WGN Radio Vehicle Village</a></li><li><a href="http://whiterabbitinc.com/started.php" target="_blank" class="sublevel-suckerfish-horizontal" id="menulink_8_12-suckerfish-horizontal">White Rabbit Garage Organizers</a></li></ul></li></ul> </div>		</div>
+					</div>
+										
+			<div id="content">
+	<!-- main start -->
+				<div class="main">				
+								
+						
+					<div id="generalContent">				<table class="contentpaneopen">
 			<tbody><tr>
 								<td class="contentheading" width="100%">
 					Privacy Policy									</td>
@@ -304,240 +224,33 @@ Copyright © 2008, WGN Radio
 				<a href="javascript:history.go(-1)">
 					[ Back ]</a>
 			</div>
-											<div class="adDivBottom">Advertisement<br><table border="0" width="100%">
-<tbody><tr><td>
-
-<!-- Begin -  Site: WGN Radio Zone: BUTTON 1 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 97;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=16277&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=16277&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=16277&amp;SiteID=2&amp;Random=1582139829634"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=16277" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=16277" width="120" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: BUTTON 1 -->
-
-</td><td>
-
-<!-- Begin -  Site: WGN Radio Zone: BUTTON 2 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 98;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=8509&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=8509&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=8509&amp;SiteID=2&amp;Random=1582139829636"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=8509" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=8509" width="120" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: BUTTON 2 -->
-
-</td><td>
-
-<!-- Begin -  Site: WGN Radio Zone: BUTTON 3 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 99;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84100&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=84100&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84100&amp;SiteID=2&amp;Random=1582139829636"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=84100" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=84100" width="120" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: BUTTON 3 -->
-
-</td><td>
-
-<!-- Begin -  Site: WGN Radio Zone: BUTTON 4 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 100;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99711&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=99711&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99711&amp;SiteID=2&amp;Random=1582139829638"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=99711" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=99711" width="120" height="90" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: BUTTON 4 -->
-
-</td>
-</tr></tbody></table>						<div class="moduletable">
-			<div class="mod_contentitem"><table>
-<tbody><tr>
-<td colspan="1" style="vertical-align:top;">
-		<table class="contentpaneopen">
-				<tbody><tr>
-			<td valign="top" colspan="2">
-				<div align="center">
-<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-	<tbody>
-		<tr>
-			<td width="33%">
-			<div align="center">
-			<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">Site design, hosting and technical support provided by:</span><span style="font-size: 8pt; color: #ffffff; font-family: Arial"><a href="http://www.tukaiz.com/"><br>
-			</a></span><a href="http://www.tukaiz.com/">
-			<div style="text-align: center">
-			<img src="images/stories/tukaiz2001small.gif" border="0" alt="tukaiz2001small" title="tukaiz2001small" hspace="5" vspace="5" width="111" height="54"> 
 			</div>
-			<br>
-			</a>
-			</div>
-			</td>
-			<td width="33%">
-			<div align="center">
-			<a href="http://wgnradio.com/index.htm">
-			<div style="text-align: center">
-			<img src="images/stories/wgnlogo2000horiz150w.gif" border="0" alt="wgnlogo2000horiz150w" title="wgnlogo2000horiz150w" hspace="5" vspace="5" width="150" height="78"> 
-			</div>
-			</a>
-			</div>
-			</td>
-			<td width="33%">
-			<div align="center">
-			<span style="color: #ffffff; font-family: Arial"><span style="color: #ffffff; font-family: Arial"><span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">Additional features provided by:</span><span style="font-size: 8pt"><a href="http://www.tribuneinteractive.com/" target="_blank"><br>
-			</a></span></span></span><a href="http://www.tribuneinteractive.com/" target="_blank">
-			<div style="text-align: center">
-			<img src="images/stories/ti_logo120x40.gif" border="0" alt="ti_logo120x40" title="ti_logo120x40" hspace="5" vspace="5" width="120" height="40"> 
-			</div>
-			<br>
-			</a>
-			</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;</span> 
-</div>
-<div align="center">
-<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">wgnradio.com - © 2008 WGN Radio - All Rights Reserved<br>
-With the exception of podcasts/mp3 format audio files, materials appearing on or accessible through this website may not be recorded, reproduced or retransmitted, in whole or in part, without WGN Radio's prior written consent. Podcasts/mp3 format audio files may be recorded or reproduced for private non-commercial use only, but retransmission is prohibited.</span>
-</div>
-			</td>
-		</tr>
-				</tbody></table>
-
-		<span class="article_seperator">&nbsp;</span>
-
-		</td>
-</tr></tbody></table></div>		</div>
-		</div>
-			</div><!-- generalContent -->
-		</div><!-- content -->
-		<div id="leftBar">
-			<div class="leftHeading">News</div>
-						<table cellpadding="0" cellspacing="0" class="moduletable">
-					<tbody><tr>
-				<th valign="top">
-					WGN Radio Top Stories				</th>
-			</tr>
-					<tr>
-			<td>
-				<table cellpadding="0" cellspacing="0" class="moduletable">
-<tbody><tr>
-	<td>
-		<ul class="newsfeed">
-<li class="newsfeed">
-	<strong>
-        <a href="http://hosted.ap.org/dynamic/stories/O/OBAMA?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
-      Obama: Probe shows no contact in Ill. gov scandal</a>
-	</strong>
-</li>
-<li class="newsfeed">
-	<strong>
-        <a href="http://hosted.ap.org/dynamic/stories/N/NY_SENATE_SEAT?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
-      NY governor: Caroline Kennedy wants Senate seat</a>
-	</strong>
-</li>
-<li class="newsfeed">
-	<strong>
-        <a href="http://hosted.ap.org/dynamic/stories/I/ILLINOIS_GOVERNOR?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
-      Ill. lawmakers take first step to oust Blagojevich</a>
-	</strong>
-</li>
-    </ul>
-	</td>
-</tr>
-</tbody></table>
-			</td>
-		</tr>
-		</tbody></table>
-				<table cellpadding="0" cellspacing="0" class="moduletablenewsfeed">
-				<tbody><tr>
-			<td>
-				<ul class="newsfeed"><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=47430&amp;Itemid=50" target="_top">Illinois House Approves First Step in Impeachment Process<span style="white-space: nowrap;margin-left: 5px"></span></a></li><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=47427&amp;Itemid=50" target="_top">Arne Duncan Reportedly Tapped for Education Secretary<span style="white-space: nowrap;margin-left: 5px"></span></a></li><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=47426&amp;Itemid=50" target="_top">Obama: Internal Review Shows No Inappropriate Contact with Blagojevich<span style="white-space: nowrap;margin-left: 5px"></span></a></li></ul>			</td>
-		</tr>
-		</tbody></table>
-				<table cellpadding="0" cellspacing="0" class="moduletable">
-				<tbody><tr>
-			<td>
-				<p align="center">
-<span style="font-size: 10pt; color: #330099; font-family: verdana,geneva"><a href="index.php?option=com_content&amp;task=blogcategory&amp;id=312&amp;Itemid=566"><strong>News Links &amp; Information</strong></a></span> 
-</p>
-			</td>
-		</tr>
-		</tbody></table>
-				<table cellpadding="0" cellspacing="0" class="moduletable">
-				<tbody><tr>
-			<td>
-				<p align="center">
-<span style="font-size: 10pt; color: #330099; font-family: verdana,geneva"><strong><a href="http://hosted.ap.org/dynamic/files/specials/homepage/index2.html?SITE=WGN&amp;SECTION=HOME">Multimedia Digest</a></strong></span> 
-</p>
-			</td>
-		</tr>
-		</tbody></table>
-				<table cellpadding="0" cellspacing="0" class="moduletable_newsclick">
-					<tbody><tr>
-				<th valign="top">
-					John Williams' NewsClick				</th>
-			</tr>
-					<tr>
-			<td>
+					</div>
+	
+				<div class="sidebar">
+	
+							<div class="moduletable">
+			<a href="index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160"><img src="/images/onair/listennow/onair_sandj.jpg" border="0" width="329" alt="Listen Now"></a>		</div>
+				<div class="moduletable">
+			<!-- begin ad tag  (tile=2) --><script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=2;ptype=sf;pos=1;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=2;ptype=sf;pos=1;sz=300x250;ord=3151662264223700?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/trb.wgnradio/hp;ptype=sf;pos=1;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.wgnradio/hp;ptype=sf;pos=1;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript><!-- End ad tag -->		</div>
+				<div class="moduletable">
+			<center><table width="300" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#000000"><form name="search" action="http://wgnradiosearch.swagbucks.com" method="get">
+        <center><span><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>Search 
+          the Web &amp; Win with WGN Radio!</strong></font></span><br>
+          <input type="hidden" name="t" value="w">
+          <input type="hidden" name="p" value="1">
+          <input type="text" style="border: 1px solid black; width: 175px;" name="q">
+          <input name="submit" type="submit" style="border: 1px solid black; background-color: white; width: 60px;" value="Search">
+          <br>
+         </center> 
+      </form></td>
+  </tr>
+</tbody></table></center>		</div>
+				<div class="moduletable_newsclick">
+							<h3>
+					John Williams' NewsClick				</h3>
 						<script language="javascript" type="text/javascript">
 		<!--
 		function ajax_ip_checking1(){
@@ -600,12 +313,12 @@ With the exception of podcasts/mp3 format audio files, materials appearing on or
 		//-->
 		</script>		
 		<form name="pollxtd1" method="post" action="http://wgnradio.com/index.php?option=com_poll&amp;Itemid=127">
-		<input type="hidden" name="poll_id" value="430">
+		<input type="hidden" name="poll_id" value="516">
 		<table width="95%" border="0" cellspacing="0" cellpadding="1" align="center" class="poll_newsclick">
 		<thead>
 		<tr>
 			<td style="font-weight: bold;">
-				Should the Illinois Supreme Court strip Governor Blagojevich of his power.			</td>
+				Chrysler goes bankrupt but may survive. In general, my attitude is:			</td>
 		</tr>
 		</thead>
 		<tbody><tr>
@@ -613,20 +326,29 @@ With the exception of podcasts/mp3 format audio files, materials appearing on or
 				<table class="pollstableborder_newsclick" cellspacing="0" cellpadding="0" border="0">
 											<tbody><tr>
 								<td class="sectiontableentry2_newsclick" valign="top">
-									<input type="radio" name="voteid" id="voteid4993" value="4993" alt="4993">
+									<input type="radio" name="voteid" id="voteid6025" value="6025" alt="6025">
 								</td>
 								<td class="sectiontableentry2_newsclick" valign="top">
-									<label for="voteid4993">
-										Yes									</label>
+									<label for="voteid6025">
+										A)  Keep spending and working to save these car companies!									</label>
 								</td>
 							</tr>
 												<tr>
 								<td class="sectiontableentry1_newsclick" valign="top">
-									<input type="radio" name="voteid" id="voteid4994" value="4994" alt="4994">
+									<input type="radio" name="voteid" id="voteid6026" value="6026" alt="6026">
 								</td>
 								<td class="sectiontableentry1_newsclick" valign="top">
-									<label for="voteid4994">
-										No									</label>
+									<label for="voteid6026">
+										B)  We've done enough, they're on their own.									</label>
+								</td>
+							</tr>
+												<tr>
+								<td class="sectiontableentry2_newsclick" valign="top">
+									<input type="radio" name="voteid" id="voteid6027" value="6027" alt="6027">
+								</td>
+								<td class="sectiontableentry2_newsclick" valign="top">
+									<label for="voteid6027">
+										C)  We've done too much already!									</label>
 								</td>
 							</tr>
 									</tbody></table>
@@ -637,51 +359,52 @@ With the exception of podcasts/mp3 format audio files, materials appearing on or
 				<div align="center">
 					<input type="button" onclick="ajax_ip_checking1();" name="task_button" class="button" value="Vote">
 					&nbsp;
-					<input type="button" name="option" class="button" value="Results" onclick="document.location.href='http://wgnradio.com/index.php?option=com_poll&amp;task=results&amp;id=430&amp;Itemid=127';">
+					<input type="button" name="option" class="button" value="Results" onclick="document.location.href='http://wgnradio.com/index.php?option=com_poll&amp;task=results&amp;id=516&amp;Itemid=127';">
 				</div>
 			</td>
 		</tr>
 		</tbody></table>
 
-		<input type="hidden" name="id" value="430">
+		<input type="hidden" name="id" value="516">
 		<input type="hidden" name="task" value="vote">
-		<input type="hidden" name="j15ea8a0bbb89d2582a740c79d5d4db26" value="1">
+		<input type="hidden" name="j4c6b0272e3fe353b6591d92d1ba88bfb" value="1">
 		</form>
-					</td>
-		</tr>
-		</tbody></table>
-								</div><!-- leftBar -->
-		<div id="adDivRight">
-			<table width="160" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><div align="center"><a href="index.php?option=com_wrapper&amp;Itemid=391"><img src="images/stories/neofill/half_price_160x175.jpg" alt="WGN Radio Half-Price Chicago" width="160" height="175" border="0"></a></div></td>
-  </tr>
-</tbody></table>			<span class="adText">Advertisement</span>
-			<!-- Begin -  Site: WGN Radio Zone: SKY - General -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 2;
-var ZoneID = 7;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55008&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=55008&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55008&amp;SiteID=2&amp;Random=1582139829654"></script>
-<noscript>
-    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=55008" target="_blank">
-    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=55008" width="160" height="600" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: WGN Radio Zone: SKY - General -->		</div><!-- adDivRight -->
-		<div class="clearDiv"></div>
-	</div><!-- main -->
-	</div><!-- mainWrapper -->
+				</div>
+				<div class="moduletable">
+			<div>
+<a href="http://www.mindmymanor.com/" target="_blank" rel="nofollow"><img src="/images/aimages/amindmymanorsponsor2.gif" alt="Sponsored by MindMyManor.com" width="307" height="29"></a>
+</div>
+		</div>
+				<div class="moduletable-recent-videos">
+							<h3>
+					Recent Videos				</h3>
+				<!-- Video related code below -->
+<object width="308"><param name="movie" value="http://www.youtube.com/v/fWPJPi8fwZg&amp;hl=en&amp;fs=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/fWPJPi8fwZg&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="308"></object>
+
+		</div>
+				<div class="moduletable">
+			<div><a href="http://www.comcast.com" border="0" target="_blank" rel="nofollow"><img src="/images/aimages/acomcastsponsor.jpg" alt="Sponsored by Comcast"></a></div>		</div>
+				<div class="moduletable">
+			<div><a href="index.php?option=com_content&amp;task=blogcategory&amp;id=151&amp;Itemid=269" border="0"><img src="/images/aimages/amorevideos.jpg"></a></div>		</div>
+				<div class="moduletable">
+			<div style="text-align: center; padding: 5px"><!-- begin ad tag  (tile=3) --><a href="http://ad.doubleclick.net/jump/trb.wgnradio/hp;ptype=sf;pos=2;tile=3;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.wgnradio/hp;ptype=sf;pos=2;tile=3;sz=300x250;ord=123456789?" border="0" alt="" width="300" height="250"></a><!-- End ad tag --></div>		</div>
+			
+				</div>
+	<!-- sidebar end -->
+			</div>
+	<!-- footer start -->
+			<div id="footer">
+				<!-- begin ad tag  (tile=1) --><script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=1;ptype=sf;pos=t;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/trb.wgnradio/hp;tile=1;ptype=sf;pos=t;sz=728x90;ord=7027756389533319?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/trb.wgnradio/hp;ptype=sf;pos=t;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.wgnradio/hp;ptype=sf;pos=t;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript><!-- End ad tag --><div style="text-align: center">
+With the exception of podcasts/mp3 format audio files, materials appearing on or accessible through this website may not be recorded, reproduced or retransmitted, in whole or in part, without WGN Radio's prior written consent. Podcasts/mp3 format audio files may be recorded or reproduced for private non-commercial use only, but retransmission is prohibited.<br>
+Copyright © 2009 Tribune Interactive<br>
+By visiting this site, you are agreeing to our <a href="index.php?option=com_content&amp;task=view&amp;id=34&amp;Itemid=120">Privacy Policy</a> &amp; <a href="index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=121">Terms of Service</a>.<br>
+</div>
+			<div id="header">
+				<div class="main-nav-block">
+			</div>
+			</div>
+	<!-- footer end -->
+		</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -691,6 +414,5 @@ var pageTracker = _gat._getTracker("UA-1474986-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
-
-<!-- 1229393112 --></body></html>
+	
+	</div></body></html>
