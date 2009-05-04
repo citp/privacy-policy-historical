@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230052753id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504202934id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Good Cholesterol Count
 
-* Thank you for visiting Good Cholesterol Count and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
+Browse >
+
+[Home](http://www.goodcholesterolcount.com/ "Browse to: Home") / Privacy Policy 
+
+Thank you for visiting Good Cholesterol Count and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
 
 Please read this Policy carefully. If you have any questions about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy.
 
