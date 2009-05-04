@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kyschools.us privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630045632id_/http%3A//www.kyschools.us/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kyschools.us privacy policy that was archived on 2009-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504034550id_/http%3A//kyschools.us/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	Privacy
@@ -64,7 +64,45 @@ urchinTracker();
 </style>
 
 	
-	<script language="javascript" type="text/javascript"></script>
+		<script language="javascript" type="text/javascript">
+	<!--
+	function doSearch() {
+		var thisform = document.getElementById("cse-search-box");
+		if(document.getElementById("affiliateId").selectedIndex == 1) {
+			thisform.action = "http://www.kentucky.gov/Portal/Search.aspx";
+			document.getElementById("terms").value = document.getElementById("q").value;
+		} else {
+			thisform.action = "/search/results.html";
+		}
+		thisform.submit();
+	}
+	
+	function submitenter(myfield,e)
+	{
+		var keycode;
+		
+		if (window.event) {
+			keycode = window.event.keyCode;
+		} else if (e) {
+			keycode = e.which;
+		} else {
+			return true;
+		}
+		
+		if (keycode == 13)
+		{
+		   doSearch();
+		   return false;
+		} else {
+		   return true;
+		}
+	}
+	//-->
+</script>
+
+
+<!--<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>-->
+
 </head>
 <body class="KDE-fw1024">
 
@@ -75,26 +113,20 @@ urchinTracker();
 		<div class="ky-nav-pre"></div>
 		<div class="ky-nav-content section-content">
 			<span class="border-tl"></span><span class="border-tr"></span>  
-            
-            <form class="ky-search" name="quicksearch" id="quicksearch" method="get" action="http://www.kentucky.gov/Portal/Search.aspx">
+            <form class="ky-search" name="quicksearch" method="get" action="" id="cse-search-box">
 		        <div>
 		            <a class="ky-nav-logo" href="http://kentucky.gov" title="Go to the Kentucky state home page." tabindex="1"><img src="/NR/Unmanaged/images/kylogo_small.gif" alt="Logo for the Kentucky.gov site.  By clicking this logo, you will be taken to the Kentucky state home page."></a>
-		            <ul>
-		            <li><a href="http://kentucky.gov/Portal/OrgList.aspx" title="A listing of Kentucky state agencies." tabindex="2" target="_blank">KY Agencies</a></li>
-		            <li><a href="http://kentucky.gov/Portal/OnlineServices.aspx" title="View available online servies provided by Kentucky state government." tabindex="3" target="_blank">KY Services</a></li>
-            		
-		            <li><label for="ky-search-terms" title="Enter Alt-S (or Cmd-S) to type search parameters.">&nbsp;<em>S</em>earch</label>
+		            <a href="http://kentucky.gov/Portal/OrgList.aspx" title="A listing of Kentucky state agencies." tabindex="2" target="_blank">KY Agencies</a><span class="linkdivider">|</span>
+		            <a href="http://kentucky.gov/Portal/OnlineServices.aspx" title="View available online servies provided by Kentucky state government." tabindex="3" target="_blank">KY Services</a><span class="linkdivider">|</span>
+            		<label for="ky-search-terms" title="Enter Alt-S (or Cmd-S) to type search parameters.">&nbsp;<em>S</em>earch</label>
 		            <label for="ky-search-scope" title="Select the area that you want to search." class="hidden">Select your search:</label>
-		            <select id="affiliateId" name="affiliateId" tabindex="5">
-		                <option value="EDUCATION" selected="selected">KDE</option>
-			             <option value="">Kentucky</option> 
-		            </select>
-		            
-		            for
-		            <input type="text" name="terms" value="?" size="20" maxlength="200" title="Enter text to search." id="terms" accesskey="s" onfocus="javascript:this.select();" tabindex="6">
-		            
-		            <input type="submit" name="Image" value="Go" title="Submit your text query." class="ky-search-submit" tabindex="7"></li>
-		            </ul>
+		            <input type="hidden" name="terms" id="terms">
+					<select style="border:1px; font-size: 10px;" id="affiliateId" name="affiliateId" tabindex="5">
+		                <option value="" selected="selected">KDE</option>
+			            <option value="">Kentucky</option> 
+		            </select><input type="hidden" name="cx" value="002259339780532511197:8do6a4vdyd0"><input type="hidden" name="cof" value="FORID:11"><input type="hidden" name="ie" value="UTF-8">
+		            for <input style="border:1px; font-size: 10px;" type="text" name="q" id="q" size="31" tabindex="6" value=" ?" onfocus="javascript:this.select();" onkeypress="return submitenter(this,event);">
+		            <input type="submit" name="sa" value="Go" title="Submit your text query." class="ky-search-submit" tabindex="7" onclick="doSearch();">
 		        </div>
 	    	</form>
 			<div class="section-footer"></div>
@@ -103,7 +135,7 @@ urchinTracker();
 	</div>
 	<!-- End of the Enterprise Branding and Navigation Component -->
     <form name="aspnetForm" method="post" action="General.aspx?NRMODE=Published&amp;NRNODEGUID=%7b5F3DF922-E122-4D37-975E-F3C46D3580C5%7d&amp;NRORIGINALURL=%2fKDE%2fHomePageRepository%2fFooter%2fPrivacy.htm&amp;NRCACHEHINT=NoModifyGuest" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTQ5MDM3NzI1D2QWAmYPZBYCAgMPZBYEAgEPDxYCHgdWaXNpYmxlaGQWAgIBD2QWAgIBDw8WBB4EVGV4dAUFTG9nT24eC05hdmlnYXRlVXJsBZsCL0tERVdlYlNpdGUvTG9nb24uYXNweD9SZXR1cm5Vcmw9JTJmS0RFV2ViU2l0ZSUyZlRlbXBsYXRlcyUyZktERSUyZkdlbmVyYWwlMmZHZW5lcmFsLmFzcHglM2ZOUk1PREUlM2RQdWJsaXNoZWQlMjZOUk5PREVHVUlEJTNkJTI1N2I1RjNERjkyMi1FMTIyLTREMzctOTc1RS1GM0M0NkQzNTgwQzUlMjU3ZCUyNk5ST1JJR0lOQUxVUkwlM2QlMjUyZktERSUyNTJmSG9tZVBhZ2VSZXBvc2l0b3J5JTI1MmZGb290ZXIlMjUyZlByaXZhY3klMjUyZWh0bSUyNk5SQ0FDSEVISU5UJTNkTm9Nb2RpZnlHdWVzdGRkAgkPZBYGAgEPDxYEHghDc3NDbGFzcwUbS0RFLVNlY3Rpb24tTGVmdC1PbmUtQ29sdW1uHgRfIVNCAgJkFg4CAQ9kFgICAQ9kFgJmDw8WAh8AaGRkAgMPZBYCAgEPDxYCHwEFMkxhc3QgVXBkYXRlZCBvbiBUdWVzZGF5LCBNYXJjaCAwNiwgMjAwNyBhdCA1OjE3IEFNZGQCBQ9kFgJmDw8WAh8AaGRkAgkPZBYCZg8PFgIfAGhkZAIND2QWAmYPZBYCZg8PFgQfAmUfAGhkFgJmDw8WBh4ISW1hZ2VVcmxlHg1BbHRlcm5hdGVUZXh0ZR8AaGRkAhEPZBYCZg8PFgIfAGhkZAITD2QWAmYPZBYMAgEPDxYCHwEFC0pvQW5uYSBDcmltZGQCAw8PFgIfAQUeNTAwIE1lcm8gU3RyZWV0LCA2dGggRmxvb3IgQ1BUZGQCBQ8PFgIfAQUTRnJhbmtmb3J0LCBLWSA0MDYwMWRkAgcPDxYCHwBnZBYCAgEPDxYCHwEFFVBob25lOiAoNTAyKSA1NjQtMjAwMGRkAgkPZBYCAgEPDxYCHwEFBUZheDogZGQCCw8PFgIfAQV+PGEgaHJlZj0ibWFpbHRvOkpvQW5uYSYjNDY7Q3JpbSYjNjQ7ZWR1Y2F0aW9uJiM0NjtreSYjNDY7Z292P3N1YmplY3Q9UHJpdmFjeSI+Sm9Bbm5hJiM0NjtDcmltJiM2NDtlZHVjYXRpb24mIzQ2O2t5JiM0Njtnb3Y8L2E+ZGQCAw8PFgIfAGhkFgICAw8PFgIfAGhkFgQCAQ8PFgIfAGhkFgICAQ9kFgJmDw8WAh8AaGRkAgMPZBYCZg8PFgIfAGhkZAIFD2QWAmYPDxYCHwBoZBYEAgEPDxYCHwBoZGQCBQ8PFgIfAGhkZGQAJ0L9tHTBB3b2VVFDEpfYzs1pUQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTQ5MDM3NzI1D2QWAmYPZBYCAgMPZBYEAgEPDxYCHgdWaXNpYmxlaGQWAgIBD2QWAgIBDw8WBB4EVGV4dAUFTG9nT24eC05hdmlnYXRlVXJsBZsCL0tERVdlYlNpdGUvTG9nb24uYXNweD9SZXR1cm5Vcmw9JTJmS0RFV2ViU2l0ZSUyZlRlbXBsYXRlcyUyZktERSUyZkdlbmVyYWwlMmZHZW5lcmFsLmFzcHglM2ZOUk1PREUlM2RQdWJsaXNoZWQlMjZOUk5PREVHVUlEJTNkJTI1N2I1RjNERjkyMi1FMTIyLTREMzctOTc1RS1GM0M0NkQzNTgwQzUlMjU3ZCUyNk5ST1JJR0lOQUxVUkwlM2QlMjUyZktERSUyNTJmSG9tZVBhZ2VSZXBvc2l0b3J5JTI1MmZGb290ZXIlMjUyZlByaXZhY3klMjUyZWh0bSUyNk5SQ0FDSEVISU5UJTNkTm9Nb2RpZnlHdWVzdGRkAgkPZBYGAgEPDxYEHghDc3NDbGFzcwUbS0RFLVNlY3Rpb24tTGVmdC1PbmUtQ29sdW1uHgRfIVNCAgJkFg4CAQ9kFgICAQ9kFgJmDw8WAh8AaGRkAgMPZBYCAgEPDxYCHwEFMkxhc3QgVXBkYXRlZCBvbiBNb25kYXksIEF1Z3VzdCAxMSwgMjAwOCBhdCA4OjM0IEFNZGQCBQ9kFgJmDw8WAh8AaGRkAgkPZBYCZg8PFgIfAGhkZAIND2QWAmYPZBYCZg8PFgQfAmUfAGhkFgJmDw8WBh4ISW1hZ2VVcmxlHg1BbHRlcm5hdGVUZXh0ZR8AaGRkAhEPZBYCZg8PFgIfAGhkZAITD2QWAmYPZBYMAgEPDxYCHwEFCkxpc2EgR3Jvc3NkZAIDDw8WAh8BBR41MDAgTWVybyBTdHJlZXQsIDZ0aCBGbG9vciBDUFRkZAIFDw8WAh8BBRNGcmFua2ZvcnQsIEtZIDQwNjAxZGQCBw8PFgIfAGdkFgICAQ8PFgIfAQUTUGhvbmU6IDUwMi01NjQtMjAxNWRkAgkPZBYCAgEPDxYCHwEFBUZheDogZGQCCw8PFgIfAQV8PGEgaHJlZj0ibWFpbHRvOkxpc2EmIzQ2O0dyb3NzJiM2NDtlZHVjYXRpb24mIzQ2O2t5JiM0Njtnb3Y/c3ViamVjdD1Qcml2YWN5Ij5MaXNhJiM0NjtHcm9zcyYjNjQ7ZWR1Y2F0aW9uJiM0NjtreSYjNDY7Z292PC9hPmRkAgMPDxYCHwBoZBYCAgMPDxYCHwBoZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg8PFgIfAGhkZAIDD2QWAmYPDxYCHwBoZGQCBQ9kFgJmDw8WAh8AaGQWBAIBDw8WAh8AaGRkAgUPDxYCHwBoZGRkLJiWrpxd5sUPsrVkybtWTuC5Fsw=">
 
 
 <script language="javascript" type="text/javascript">
@@ -184,20 +216,23 @@ urchinTracker();
 <li><a href="/KDE/HomePageRepository/Calendars/" class="level1" tabindex="54">Calendars</a></li>
 <li><a href="http://www.kyepsb.net/" class="level1" tabindex="55">Certification</a></li>
 <li><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Core+Content+for+Assessment/default.htm" class="level1" tabindex="57">Core Content</a></li>
-<li><a href="/KDE/HomePageRepository/jobs/default.htm" class="level1" tabindex="58">Jobs</a></li>
-<li><a href="http://www.education.ky.gov/KDE/max+transition/" class="level1" tabindex="59">Max Data System</a></li>
-<li><a href="/KDE/HomePageRepository/News+Room/default.htm" class="level1" tabindex="60">News Room</a></li>
-<li><a href="http://education.ky.gov/KDE/HomePageRepository/Other+Kentucky+Education+Links.htm" class="level1" tabindex="61">Other Kentucky Education Links</a></li>
-<li><a href="/P16/" class="level1" tabindex="62">P-16 Council</a></li>
-<li><a href="/KDE/Instructional+Resources/Student+and+Family+Support/Parents+and+Families/default.htm" class="level1" tabindex="62">Parents &amp; Families</a></li>
-<li><a href="/KDE/HomePageRepository/Partners+Page/Partners+Page.htm" class="level1" tabindex="63">Partners</a></li>
-<li><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Program+of+Studies/default.htm" class="level1" tabindex="64">Program of Studies Revised 2006</a></li>
-<li><a href="/KDE/HomePageRepository/Proof+of+Progress/default.htm" class="level1" tabindex="65">Proof of Progress</a></li>
-<li><a href="/KDE/HomePageRepository/Publications/Publications.htm" class="level1" tabindex="66">Publications</a></li>
-<li><a href="/KDE/Administrative+Resources/School+Improvement/default.htm" class="level1" tabindex="67">School Improvement</a></li>
-<li><a href="/KDE/Instructional+Resources/Exceptional+Children/default.htm" class="level1" tabindex="68">Special Education</a></li>
-<li><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Teaching+Tools/default.htm" class="level1" tabindex="69">Teaching Tools</a></li>
-<li><a href="/KDE/Administrative+Resources/Testing+and+Reporting+/default.htm" class="level1" tabindex="70">Testing &amp; Reporting</a></li>
+<li><a href="/KDE/HomePageRepository/Data+Center" class="level1" tabindex="58">Data Center</a></li>
+<li><a href="/KDE/HomePageRepository/jobs/default.htm" class="level1" tabindex="60">Jobs</a></li>
+<li><a href="http://apps.kde.state.ky.us/max_reports/mailinglabel/" class="level1" tabindex="62">Mailing Labels: School / District </a></li>
+<li><a href="/KDE/HomePageRepository/News+Room/default.htm" class="level1" tabindex="64">News Room</a></li>
+<li><a href="http://education.ky.gov/KDE/HomePageRepository/Other+Kentucky+Education+Links.htm" class="level1" tabindex="65">Other Kentucky Education Links</a></li>
+<li><a href="/P16/" class="level1" tabindex="66">P-16 Council</a></li>
+<li><a href="/KDE/Instructional+Resources/Student+and+Family+Support/Parents+and+Families/default.htm" class="level1" tabindex="67">Parents &amp; Families</a></li>
+<li><a href="/KDE/HomePageRepository/Partners+Page/Partners+Page.htm" class="level1" tabindex="68">Partners</a></li>
+<li><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Program+of+Studies/default.htm" class="level1" tabindex="69">Program of Studies Revised 2006</a></li>
+<li><a href="/KDE/HomePageRepository/Proof+of+Progress/default.htm" class="level1" tabindex="70">Proof of Progress</a></li>
+<li><a href="/KDE/HomePageRepository/Publications/Publications.htm" class="level1" tabindex="72">Publications</a></li>
+<li><a href="/KDE/Administrative+Resources/School+Improvement/default.htm" class="level1" tabindex="74">School Improvement</a></li>
+<li><a href="/KDE/About+Schools+and+Districts/School+Report+Cards/default.htm" class="level1" tabindex="76">School Report Cards</a></li>
+<li><a href="/KDE/Instructional+Resources/Exceptional+Children/default.htm" class="level1" tabindex="78">Special Education</a></li>
+<li><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Teaching+Tools/default.htm" class="level1" tabindex="80">Teaching Tools</a></li>
+<li><a href="/KDE/Administrative+Resources/Testing+and+Reporting+/default.htm" class="level1" tabindex="82">Testing &amp; Reporting</a></li>
+<li><a href="/Search/" class="level1" tabindex="84">Search KDE</a></li>
 </ul>
 <div class="ky-image-link" style="text-align: center; background-color: white; border: solid #CCC 2px;"><p><a href="http://www.education.ky.gov/KDE/HomePageRepository/News+Room/Kentucky+Education+Issues.htm" target="_blank"><img src="/NR/Unmanaged/images/Education_Issues_Logo.jpg" title="Kentucky Teaching and Learning Conference" alt="Kentucky Teaching and Learning Conference"></a></p><p><a href="http://kentuckytlc.org/" target="_blank"><img src="/NR/Unmanaged/images/KTLC_Logo.gif" title="Kentucky Teaching and Learning Conference" alt="Kentucky Teaching and Learning Conference"></a></p><p><a href="/KDE/HomePageRepository/Publications/Kentucky+Teacher.htm" target="_blank"><img src="/NR/Unmanaged/images/KY-Teacher.jpg" title="Kentucky Teacher" alt="Kentucky Teacher"></a></p><p><a href="/KDE/Instructional+Resources/Curriculum+Documents+and+Resources/Teaching+Tools/KET+EncycloMedia.htm" target="_blank"><img src="/NR/Unmanaged/images/encyclomedia_250.gif" title="KET Encyclomedia" alt="KET Encyclomedia"></a></p><p><a href="http://kentucky.gov/unbridledspirit/" target="_blank"><img src="/NR/Unmanaged/images/unbridled_webicon.gif" title="Kentucky Unbridled Spirit" alt="Kentucky Unbridled Spirit"></a></p></div>
 </div>
@@ -236,14 +271,14 @@ urchinTracker();
 
             		    
 <div style="font-size: 0.8em; font-weight: normal;">
-    <span id="_ctl0_ContentPlaceHolder1_DisplayControl_LastUpdate1_lblLastUpdate">Last Updated on Tuesday, March 06, 2007 at 5:17 AM</span>
+    <span id="_ctl0_ContentPlaceHolder1_DisplayControl_LastUpdate1_lblLastUpdate">Last Updated on Monday, August 11, 2008 at 8:34 AM</span>
 </div>
 
     					
 				        <p>
                        
                             
-                            <span id="_ctl0_ContentPlaceHolder1_phDescription"></span></p><p>Your privacy and security are our highest priority. The Kentucky Department of Education collects only the personal information necessary to provide enhanced services to our citizens and customers. Please note that all non-exempt information collected by KDE may be subject to public disclosure under KRS 61.870, the Kentucky Open Records Act. However, public records containing information of a personal nature are protected from disclosure by the personal privacy exemption of state law. Personal data in our possession is maintained and used in ways that respect individual privacy.&nbsp;<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></p>
+                            <span id="_ctl0_ContentPlaceHolder1_phDescription"></span></p><p>Your privacy and security are our highest priority. The Kentucky Department of Education collects only the personal information necessary to provide enhanced services to our citizens and customers. Please note that all non-exempt information collected by KDE may be subject to public disclosure under KRS 61.870, the Kentucky Open Records Act. However, public records containing information of a personal nature are protected from disclosure by the personal privacy exemption of state law. Personal data in our possession is maintained and used in ways that respect individual privacy.&nbsp;<!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></p>
                        
                         <p></p>    
     				
@@ -257,7 +292,7 @@ urchinTracker();
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-INDENT: -0.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •&nbsp;information volunteered by the consumer, such as survey information.</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-INDENT: -0.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">&nbsp;</p>
 <p style="MARGIN: 0in 0in 0pt">This information is used only to improve the scope and content of our services on the Internet.</p>
-<p style="MARGIN: 0in 0in 0pt">&nbsp;<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></p>
+<p style="MARGIN: 0in 0in 0pt">&nbsp;<!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></p>
 <p style="MARGIN: 0in 0in 0pt"><b>KDE Information Sharing&nbsp; <o:p></o:p></b></p>
 <p style="MARGIN: 0in 0in 0pt">KDE will not release personal information to third parties except where it is already provided by law for purposes of notification. We will not provide, rent or sell personal information to third parties for marketing programs or any other purpose. State law restricts the use of personally identifiable information for commercial purposes. Depending on the specific nature of the service, information may be shared with other state agencies as stated in <a href="http://www.lrc.state.ky.us/krs/061-00/878.pdf">KRS 61.878 (5)</a>. This statute allows for the exchange of public records or sharing of information between public agencies when the exchange is serving a legitimate governmental need or is necessary in the performance of a legitimate government function.</p>
 <p style="MARGIN: 0in 0in 0pt"><b>&nbsp;<o:p></o:p></b></p>
@@ -267,7 +302,7 @@ urchinTracker();
 <p style="MARGIN: 0in 0in 0pt"><b>KDE Security Notice&nbsp; <o:p></o:p></b></p>
 <p style="MARGIN: 0in 0in 0pt">KDE uses the Secure Sockets Layer (SSL) protocol to safeguard your sensitive personal information, including your credit card number, during online transactions. Using this widely accepted form of encryption, your transaction is secured from your personal computer to the KDE computer processing your request. The KDE processing computers are located behind a secure firewall. For your protection, never put your credit card number or other sensitive information in unencrypted e-mail. For added security, your credit card information is not stored on a state government database and only authorized employees have access to your credit card number for card processing purposes.</p>
 <p style="MARGIN: 0in 0in 0pt">&nbsp;<o:p></o:p></p>
-<p style="MARGIN: 0in 0in 0pt">SSL is highly regarded to be a very safe encryption method, but we fully understand if you are not comfortable entering your credit card information online. In that event, please call our Office of Communications at 502-564-3421 and speak directly to one of our staff members.</p>
+<p style="MARGIN: 0in 0in 0pt">SSL is highly regarded to be a very safe encryption method, but we fully understand if you are not comfortable entering your credit card information online. In that event, please call our Office of Communications at 502-564-2000 and speak directly to one of our staff members.</p>
 <p style="MARGIN: 0in 0in 0pt">&nbsp;<o:p></o:p></p>
 <p style="MARGIN: 0in 0in 0pt">If you have trouble purchasing securely at our web site, then you may be behind a firewall or using a proxy server that doesn't allow for secure transactions. If that is the case, then you may phone or fax your order.</p>
                        
@@ -291,16 +326,16 @@ urchinTracker();
                     <div id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_pnlContactInformation" class="KDE-Contact-Info">
 		
     <strong>For more information contact:</strong> <br> <br>
-    <strong><span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblContactName">JoAnna Crim</span></strong><br> 
+    <strong><span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblContactName">Lisa Gross</span></strong><br> 
     <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblStreetAddress">500 Mero Street, 6th Floor CPT</span><br> 
     <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblCityStateZip">Frankfort, KY 40601</span><br>
     <div id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_pnlPhone">
 			
-        <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblPhone">Phone: (502) 564-2000</span><br>
+        <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblPhone">Phone: 502-564-2015</span><br>
     
 		</div>
     
-    <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblEmail"><a href="mailto:JoAnna.Crim@education.ky.gov?subject=Privacy">JoAnna.Crim@education.ky.gov</a></span><br>
+    <span id="_ctl0_ContentPlaceHolder1_Uc_ContactInfo1_lblEmail"><a href="mailto:Lisa.Gross@education.ky.gov?subject=Privacy">Lisa.Gross@education.ky.gov</a></span><br>
 
 	</div>
 
@@ -420,7 +455,7 @@ urchinTracker();
 		            <a href="/KDE/HomePageRepository/Footer/disabilities.htm" class="enterpriseFooterLink" tabindex="1005">Accessibility Statement</a>
 		        </div>
 		        <div class="ky-fc-copyright">
-                    <a href="/KDE/HomePageRepository/Footer/Copyright.htm" tabindex="1006">Copyright</a> © 1999-2008
+                    <a href="/KDE/HomePageRepository/Footer/Copyright.htm" tabindex="1006">Copyright</a> © 1999-2009
                      Commonwealth of Kentucky
 		        </div>
 	        </div>
@@ -437,7 +472,18 @@ urchinTracker();
         End Function
     //-->    
     </script>
-
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-7116118-1");
+            pageTracker._trackPageview();
+        } 
+        catch(err) {}
+    
+    </script>
 
 
 
