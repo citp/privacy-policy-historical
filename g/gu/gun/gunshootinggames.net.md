@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228022708id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504155838id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Play Privacy Policy Online
 
 Privacy Policy for www.gunshootinggames.net 
 
@@ -32,13 +32,3 @@ www.gunshootinggames.net has no access to or control over these cookies that are
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gunshootinggames.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-[](http://www.escapetheroomgames.net/)
-
-Total Files: 93  
-Overall Played:1,190,481  
-Played Today:1227  
-Total Members: 14  
-Users Online: 116 (0 member, 116guests)
-
-[](http://www.gunshootinggames.net/rss.php)
