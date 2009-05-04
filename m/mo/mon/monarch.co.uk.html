@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monarch.co.uk privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217051125id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monarch.co.uk privacy policy that was archived on 2009-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504184728id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Monarch Airlines | Privacy Policy</title>
@@ -70,8 +70,8 @@ function captureSearchText(searchText)
 		searchText.popup_pre_flight_date_2 = " or later. \n\nClick OK to reset your date selection.";
 		searchText.popup_post_live_flight_date_1 = "All flights are currently scheduled for\n";
 		searchText.popup_post_live_flight_date_2 = " or earlier. \n\nClick OK to reset your date selection.";
-		searchText.popup_initial_flight_date	= "Wednesday, 17 December 2008";
-		searchText.popup_final_flight_date		= "Saturday, 31 October 2009";
+		searchText.popup_initial_flight_date	= "Monday, 04 May 2009";
+		searchText.popup_final_flight_date		= "Saturday, 27 March 2010";
 		searchText.popup_flight_or_orig_dest	= "Please enter a flight number or\nselect cities of origin and/or destination.";
 		searchText.popup_invalid_city_pair		= "Your origin and destination cities\nare the same. Please change one or\nthe other.";
 		searchText.months 						= new Array();
@@ -103,8 +103,8 @@ function captureSearchPrefs(searchPrefs)
 		searchPrefs.initial_date_used			= '';
 		searchPrefs.final_date_used				= 'true';
 		searchPrefs.allow_todays_date			= 'true';
-		searchPrefs.SCHEDULED_END_DATE			= '20091031';
-		searchPrefs.CHARTER_END_DATE			= '20091031';
+		searchPrefs.SCHEDULED_END_DATE			= '20100327';
+		searchPrefs.CHARTER_END_DATE			= '20100430';
 		searchPrefs.return_date_offset			= (1000 * 60 * 60 * 24 * 7);
 
 		searchPrefs.paxTypes.push("ADULT");
@@ -161,7 +161,8 @@ function setScheduledDates() {
 			drpFromDays[drpFromDays.length] = new Option("01","01");
 			drpFromDays[drpFromDays.length] = new Option("02","02");
 			drpFromDays[drpFromDays.length] = new Option("03","03");
-			drpFromDays[drpFromDays.length] = new Option("04","04");
+			drpFromDays[drpFromDays.length] = new Option("04","04");				bUseCookie = false;
+				drpFromDays[drpFromDays.length - 1].selected = true;
 			drpFromDays[drpFromDays.length] = new Option("05","05");
 			drpFromDays[drpFromDays.length] = new Option("06","06");
 			drpFromDays[drpFromDays.length] = new Option("07","07");
@@ -174,8 +175,7 @@ function setScheduledDates() {
 			drpFromDays[drpFromDays.length] = new Option("14","14");
 			drpFromDays[drpFromDays.length] = new Option("15","15");
 			drpFromDays[drpFromDays.length] = new Option("16","16");
-			drpFromDays[drpFromDays.length] = new Option("17","17");				bUseCookie = false;
-				drpFromDays[drpFromDays.length - 1].selected = true;
+			drpFromDays[drpFromDays.length] = new Option("17","17");
 			drpFromDays[drpFromDays.length] = new Option("18","18");
 			drpFromDays[drpFromDays.length] = new Option("19","19");
 			drpFromDays[drpFromDays.length] = new Option("20","20");
@@ -190,17 +190,17 @@ function setScheduledDates() {
 			drpFromDays[drpFromDays.length] = new Option("29","29");
 			drpFromDays[drpFromDays.length] = new Option("30","30");
 			drpFromDays[drpFromDays.length] = new Option("31","31");
-			drpFromMonths[drpFromMonths.length] = new Option("Dec 2008","200812");
-			drpFromMonths[drpFromMonths.length] = new Option("Jan 2009","200901");
-			drpFromMonths[drpFromMonths.length] = new Option("Feb 2009","200902");
-			drpFromMonths[drpFromMonths.length] = new Option("Mar 2009","200903");
-			drpFromMonths[drpFromMonths.length] = new Option("Apr 2009","200904");
 			drpFromMonths[drpFromMonths.length] = new Option("May 2009","200905");
 			drpFromMonths[drpFromMonths.length] = new Option("Jun 2009","200906");
 			drpFromMonths[drpFromMonths.length] = new Option("Jul 2009","200907");
 			drpFromMonths[drpFromMonths.length] = new Option("Aug 2009","200908");
 			drpFromMonths[drpFromMonths.length] = new Option("Sep 2009","200909");
 			drpFromMonths[drpFromMonths.length] = new Option("Oct 2009","200910");
+			drpFromMonths[drpFromMonths.length] = new Option("Nov 2009","200911");
+			drpFromMonths[drpFromMonths.length] = new Option("Dec 2009","200912");
+			drpFromMonths[drpFromMonths.length] = new Option("Jan 2010","201001");
+			drpFromMonths[drpFromMonths.length] = new Option("Feb 2010","201002");
+			drpFromMonths[drpFromMonths.length] = new Option("Mar 2010","201003");
 
 	
 	drpToDays.length = 0;
@@ -209,7 +209,8 @@ function setScheduledDates() {
 			drpToDays[drpToDays.length] = new Option("01","01");
 			drpToDays[drpToDays.length] = new Option("02","02");
 			drpToDays[drpToDays.length] = new Option("03","03");
-			drpToDays[drpToDays.length] = new Option("04","04");
+			drpToDays[drpToDays.length] = new Option("04","04");				bUseCookie = false;
+				drpToDays[drpToDays.length - 1].selected = true;
 			drpToDays[drpToDays.length] = new Option("05","05");
 			drpToDays[drpToDays.length] = new Option("06","06");
 			drpToDays[drpToDays.length] = new Option("07","07");
@@ -222,8 +223,7 @@ function setScheduledDates() {
 			drpToDays[drpToDays.length] = new Option("14","14");
 			drpToDays[drpToDays.length] = new Option("15","15");
 			drpToDays[drpToDays.length] = new Option("16","16");
-			drpToDays[drpToDays.length] = new Option("17","17");				bUseCookie = false;
-				drpToDays[drpToDays.length - 1].selected = true;
+			drpToDays[drpToDays.length] = new Option("17","17");
 			drpToDays[drpToDays.length] = new Option("18","18");
 			drpToDays[drpToDays.length] = new Option("19","19");
 			drpToDays[drpToDays.length] = new Option("20","20");
@@ -238,17 +238,17 @@ function setScheduledDates() {
 			drpToDays[drpToDays.length] = new Option("29","29");
 			drpToDays[drpToDays.length] = new Option("30","30");
 			drpToDays[drpToDays.length] = new Option("31","31");
-			drpToMonths[drpToMonths.length] = new Option("Dec 2008","200812");
-			drpToMonths[drpToMonths.length] = new Option("Jan 2009","200901");
-			drpToMonths[drpToMonths.length] = new Option("Feb 2009","200902");
-			drpToMonths[drpToMonths.length] = new Option("Mar 2009","200903");
-			drpToMonths[drpToMonths.length] = new Option("Apr 2009","200904");
 			drpToMonths[drpToMonths.length] = new Option("May 2009","200905");
 			drpToMonths[drpToMonths.length] = new Option("Jun 2009","200906");
 			drpToMonths[drpToMonths.length] = new Option("Jul 2009","200907");
 			drpToMonths[drpToMonths.length] = new Option("Aug 2009","200908");
 			drpToMonths[drpToMonths.length] = new Option("Sep 2009","200909");
 			drpToMonths[drpToMonths.length] = new Option("Oct 2009","200910");
+			drpToMonths[drpToMonths.length] = new Option("Nov 2009","200911");
+			drpToMonths[drpToMonths.length] = new Option("Dec 2009","200912");
+			drpToMonths[drpToMonths.length] = new Option("Jan 2010","201001");
+			drpToMonths[drpToMonths.length] = new Option("Feb 2010","201002");
+			drpToMonths[drpToMonths.length] = new Option("Mar 2010","201003");
 
 	
 	if (bUseCookie) {
@@ -270,7 +270,8 @@ function setCharterDates() {
 			drpFromDays[drpFromDays.length] = new Option("01","01");
 			drpFromDays[drpFromDays.length] = new Option("02","02");
 			drpFromDays[drpFromDays.length] = new Option("03","03");
-			drpFromDays[drpFromDays.length] = new Option("04","04");
+			drpFromDays[drpFromDays.length] = new Option("04","04");				bUseCookie = false;
+				drpFromDays[drpFromDays.length - 1].selected = true;
 			drpFromDays[drpFromDays.length] = new Option("05","05");
 			drpFromDays[drpFromDays.length] = new Option("06","06");
 			drpFromDays[drpFromDays.length] = new Option("07","07");
@@ -283,8 +284,7 @@ function setCharterDates() {
 			drpFromDays[drpFromDays.length] = new Option("14","14");
 			drpFromDays[drpFromDays.length] = new Option("15","15");
 			drpFromDays[drpFromDays.length] = new Option("16","16");
-			drpFromDays[drpFromDays.length] = new Option("17","17");				bUseCookie = false;
-				drpFromDays[drpFromDays.length - 1].selected = true;
+			drpFromDays[drpFromDays.length] = new Option("17","17");
 			drpFromDays[drpFromDays.length] = new Option("18","18");
 			drpFromDays[drpFromDays.length] = new Option("19","19");
 			drpFromDays[drpFromDays.length] = new Option("20","20");
@@ -299,17 +299,18 @@ function setCharterDates() {
 			drpFromDays[drpFromDays.length] = new Option("29","29");
 			drpFromDays[drpFromDays.length] = new Option("30","30");
 			drpFromDays[drpFromDays.length] = new Option("31","31");
-			drpFromMonths[drpFromMonths.length] = new Option("Dec 2008","200812");
-			drpFromMonths[drpFromMonths.length] = new Option("Jan 2009","200901");
-			drpFromMonths[drpFromMonths.length] = new Option("Feb 2009","200902");
-			drpFromMonths[drpFromMonths.length] = new Option("Mar 2009","200903");
-			drpFromMonths[drpFromMonths.length] = new Option("Apr 2009","200904");
 			drpFromMonths[drpFromMonths.length] = new Option("May 2009","200905");
 			drpFromMonths[drpFromMonths.length] = new Option("Jun 2009","200906");
 			drpFromMonths[drpFromMonths.length] = new Option("Jul 2009","200907");
 			drpFromMonths[drpFromMonths.length] = new Option("Aug 2009","200908");
 			drpFromMonths[drpFromMonths.length] = new Option("Sep 2009","200909");
 			drpFromMonths[drpFromMonths.length] = new Option("Oct 2009","200910");
+			drpFromMonths[drpFromMonths.length] = new Option("Nov 2009","200911");
+			drpFromMonths[drpFromMonths.length] = new Option("Dec 2009","200912");
+			drpFromMonths[drpFromMonths.length] = new Option("Jan 2010","201001");
+			drpFromMonths[drpFromMonths.length] = new Option("Feb 2010","201002");
+			drpFromMonths[drpFromMonths.length] = new Option("Mar 2010","201003");
+			drpFromMonths[drpFromMonths.length] = new Option("Apr 2010","201004");
 
 		
 	drpToDays.length = 0;
@@ -318,7 +319,8 @@ function setCharterDates() {
 			drpToDays[drpToDays.length] = new Option("01","01");
 			drpToDays[drpToDays.length] = new Option("02","02");
 			drpToDays[drpToDays.length] = new Option("03","03");
-			drpToDays[drpToDays.length] = new Option("04","04");
+			drpToDays[drpToDays.length] = new Option("04","04");				bUseCookie = false;
+				drpToDays[drpToDays.length - 1].selected = true;
 			drpToDays[drpToDays.length] = new Option("05","05");
 			drpToDays[drpToDays.length] = new Option("06","06");
 			drpToDays[drpToDays.length] = new Option("07","07");
@@ -331,8 +333,7 @@ function setCharterDates() {
 			drpToDays[drpToDays.length] = new Option("14","14");
 			drpToDays[drpToDays.length] = new Option("15","15");
 			drpToDays[drpToDays.length] = new Option("16","16");
-			drpToDays[drpToDays.length] = new Option("17","17");				bUseCookie = false;
-				drpToDays[drpToDays.length - 1].selected = true;
+			drpToDays[drpToDays.length] = new Option("17","17");
 			drpToDays[drpToDays.length] = new Option("18","18");
 			drpToDays[drpToDays.length] = new Option("19","19");
 			drpToDays[drpToDays.length] = new Option("20","20");
@@ -347,17 +348,18 @@ function setCharterDates() {
 			drpToDays[drpToDays.length] = new Option("29","29");
 			drpToDays[drpToDays.length] = new Option("30","30");
 			drpToDays[drpToDays.length] = new Option("31","31");
-			drpToMonths[drpToMonths.length] = new Option("Dec 2008","200812");
-			drpToMonths[drpToMonths.length] = new Option("Jan 2009","200901");
-			drpToMonths[drpToMonths.length] = new Option("Feb 2009","200902");
-			drpToMonths[drpToMonths.length] = new Option("Mar 2009","200903");
-			drpToMonths[drpToMonths.length] = new Option("Apr 2009","200904");
 			drpToMonths[drpToMonths.length] = new Option("May 2009","200905");
 			drpToMonths[drpToMonths.length] = new Option("Jun 2009","200906");
 			drpToMonths[drpToMonths.length] = new Option("Jul 2009","200907");
 			drpToMonths[drpToMonths.length] = new Option("Aug 2009","200908");
 			drpToMonths[drpToMonths.length] = new Option("Sep 2009","200909");
 			drpToMonths[drpToMonths.length] = new Option("Oct 2009","200910");
+			drpToMonths[drpToMonths.length] = new Option("Nov 2009","200911");
+			drpToMonths[drpToMonths.length] = new Option("Dec 2009","200912");
+			drpToMonths[drpToMonths.length] = new Option("Jan 2010","201001");
+			drpToMonths[drpToMonths.length] = new Option("Feb 2010","201002");
+			drpToMonths[drpToMonths.length] = new Option("Mar 2010","201003");
+			drpToMonths[drpToMonths.length] = new Option("Apr 2010","201004");
 
 	
 	if (bUseCookie) {
@@ -457,236 +459,333 @@ function alterPaxCountList(e, max, txt) {
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
+		// SSH: apts[0]		= new airport( false, "ALC", "Alicante", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[0]		= new airport( false, "ALC", "Alicante", dests, dests_charter );
 
-		dests		= new Array('BHX','LTN','MAN');	
+		dests		= new Array('BHX','MAN');	
 		dests_charter	= new Array();
+		// SSH: apts[1]		= new airport( false, "LEI", "Almeria", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[1]		= new airport( false, "LEI", "Almeria", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
+		// SSH: apts[2]		= new airport( false, "AYT", "Antalya", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[2]		= new airport( false, "AYT", "Antalya", dests, dests_charter );
 
 		dests		= new Array('MAN');	
 		dests_charter	= new Array();
+		// SSH: apts[3]		= new airport( false, "BCN", "Barcelona", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[3]		= new airport( false, "BCN", "Barcelona", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter	= new Array('AYT','BJV','CFU','DLM','DBV','LPA','HER','ACE','NAP','PFO','RHO','TFS','ZTH');
+		dests_charter	= new Array('AYT','BJV','CFU','DLM','DBV','LPA','HER','ACE','NAP','PFO','RHO','SSH','TFS','ZTH');
+		// SSH: apts[4]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[4]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
+		// SSH: apts[5]		= new airport( false, "BJV", "Bodrum", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[5]		= new airport( false, "BJV", "Bodrum", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[6]		= new airport( false, "BOJ", "Bourgas", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[6]		= new airport( false, "BOJ", "Bourgas", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('CFU','HER','MAH','PMI');
+		// SSH: apts[7]		= new airport( false, "BRS", "Bristol", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[7]		= new airport( false, "BRS", "Bristol", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
+		dests_charter	= new Array('MAN');
+		// SSH: apts[8]		= new airport( false, "CTA", "Catania", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[8]		= new airport( false, "CTA", "Catania", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[9]		= new airport( false, "CHQ", "Chania", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[9]		= new airport( false, "CHQ", "Chania", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','STN','MAN');
+		dests_charter	= new Array('BHX','BRS','LGW','STN','MAN');
+		// SSH: apts[10]		= new airport( false, "CFU", "Corfu", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[10]		= new airport( false, "CFU", "Corfu", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','GLA','LGW','MAN');
+		// SSH: apts[11]		= new airport( false, "DLM", "Dalaman", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[11]		= new airport( false, "DLM", "Dalaman", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
+		dests_charter	= new Array('BHX','LGW','MAN');
+		// SSH: apts[12]		= new airport( false, "DBV", "Dubrovnik", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[12]		= new airport( false, "DBV", "Dubrovnik", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('MAH','NAP','TFS');
+		dests_charter	= new Array('MAH','NAP');
+		// SSH: apts[13]		= new airport( false, "EMA", "East Midlands", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[13]		= new airport( false, "EMA", "East Midlands", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
+		// SSH: apts[14]		= new airport( false, "FAO", "Faro", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[14]		= new airport( false, "FAO", "Faro", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[15]		= new airport( false, "FUE", "Fuerteventura", dests, dests_charter );
 
 		dests		= new Array('LTN','MAN');	
 		dests_charter	= new Array();
-		apts[16]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
+		// SSH: apts[15]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[15]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('DLM','ACE','NAP','TFS');
-		apts[17]		= new airport( false, "GLA", "Glasgow", dests, dests_charter );
+		// SSH: apts[16]		= new airport( false, "GLA", "Glasgow", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[16]		= new airport( false, "GLA", "Glasgow", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[18]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
+		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[17]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[17]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','BRS','LGW','MAN');
-		apts[19]		= new airport( false, "HER", "Heraklion", dests, dests_charter );
+		// SSH: apts[18]		= new airport( false, "HER", "Heraklion", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[18]		= new airport( false, "HER", "Heraklion", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
 		dests_charter	= new Array();
-		apts[20]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter );
+		// SSH: apts[19]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[19]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[21]		= new airport( false, "EFL", "Kefalonia", dests, dests_charter );
+		// SSH: apts[20]		= new airport( false, "EFL", "Kefalonia", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[20]		= new airport( false, "EFL", "Kefalonia", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[22]		= new airport( false, "KGS", "Kos", dests, dests_charter );
+		// SSH: apts[21]		= new airport( false, "KGS", "Kos", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[21]		= new airport( false, "KGS", "Kos", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('BHX','GLA','LGW','MAN','NCL');
-		apts[23]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
+		dests_charter	= new Array('BHX','LGW','MAN');
+		// SSH: apts[22]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[22]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
-		apts[24]		= new airport( false, "LCA", "Larnaca", dests, dests_charter );
+		// SSH: apts[23]		= new airport( false, "LCA", "Larnaca", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[23]		= new airport( false, "LCA", "Larnaca", dests, dests_charter );
 
 		dests		= new Array('ALC','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','TFS');	
-		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','GND','HER','EFL','KGS','ACE','LXR','MLE','MAH','MBA','MIR','MBJ','NAP','PMI','PFO','PVK','POP','RHO','SFB','JTR','SSH','JSI','TFS','SKG','TAB','VCE','ZTH');
-		apts[25]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
+		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','GND','HER','HRG','EFL','KGS','ACE','LXR','MLE','MAH','MBA','MIR','NAP','PMI','PFO','PVK','POP','RHO','SFB','JTR','SSH','JSI','TFS','TAB','VCE','VOL','ZTH');
+		// SSH: apts[24]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[24]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
+		dests		= new Array('ALC','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
 		dests_charter	= new Array('ZTH');
-		apts[26]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
+		// SSH: apts[25]		= new airport( false, "LTN", "London Luton", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[25]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('CFU','MAH','TFS');
-		apts[27]		= new airport( false, "STN", "London Stansted", dests, dests_charter );
+		dests_charter	= new Array('CFU','MAH');
+		// SSH: apts[26]		= new airport( false, "STN", "London Stansted", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[26]		= new airport( false, "STN", "London Stansted", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
 		dests_charter	= new Array();
-		apts[28]		= new airport( false, "AGP", "Malaga", dests, dests_charter );
+		// SSH: apts[27]		= new airport( false, "AGP", "Malaga", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[27]		= new airport( false, "AGP", "Malaga", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW');
+		// SSH: apts[28]		= new airport( false, "MLE", "Male", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[28]		= new airport( false, "MLE", "Male", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','BCN','FAO','GIB','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MAH','MIR','MBJ','NAP','PFO','PVK','POP','PUY','RHO','SFB','JTR','SSH','JSI','TFS','SKG','VCE','ZTH');
+		dests_charter	= new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MAH','MIR','NAP','PFO','PVK','POP','PUY','RHO','SFB','JTR','SSH','JSI','TFS','VCE','VOL','ZTH');
+		// SSH: apts[29]		= new airport( false, "MAN", "Manchester", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[29]		= new airport( false, "MAN", "Manchester", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('BRS','LGW','MAN');
+		dests_charter	= new Array('BRS','EMA','LGW','STN','MAN');
+		// SSH: apts[30]		= new airport( false, "MAH", "Menorca", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[30]		= new airport( false, "MAH", "Menorca", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
 		dests_charter	= new Array();
+		// SSH: apts[31]		= new airport( false, "MJV", "Murcia", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
 		apts[31]		= new airport( false, "MJV", "Murcia", dests, dests_charter );
 
 		dests		= new Array();	
-		dests_charter	= new Array('BHX','EMA');
+		dests_charter	= new Array('BHX','EMA','GLA','LGW','MAN');
+		// SSH: apts[32]		= new airport( false, "NAP", "Naples", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
 		apts[32]		= new airport( false, "NAP", "Naples", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('ACE','TFS');
-		apts[33]		= new airport( false, "NCL", "Newcastle", dests, dests_charter );
 
 		dests		= new Array('BHX','LTN','MAN');	
 		dests_charter	= new Array('BRS','LGW');
-		apts[34]		= new airport( false, "PMI", "Palma de Mallorca", dests, dests_charter );
+		// SSH: apts[33]		= new airport( false, "PMI", "Palma de Mallorca", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[33]		= new airport( false, "PMI", "Palma de Mallorca", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[35]		= new airport( false, "PFO", "Paphos", dests, dests_charter );
+		// SSH: apts[34]		= new airport( false, "PFO", "Paphos", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[34]		= new airport( false, "PFO", "Paphos", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('LGW','MAN');
-		apts[36]		= new airport( false, "PVK", "Preveza", dests, dests_charter );
+		// SSH: apts[35]		= new airport( false, "PVK", "Preveza", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[35]		= new airport( false, "PVK", "Preveza", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('MAN');
-		apts[37]		= new airport( false, "PUY", "Pula", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[38]		= new airport( false, "RHO", "Rhodes", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[39]		= new airport( false, "JTR", "Santorini", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[40]		= new airport( false, "JSI", "Skiathos", dests, dests_charter );
-
-		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter	= new Array('BHX','EMA','GLA','LGW','STN','MAN','NCL');
-		apts[41]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[42]		= new airport( false, "SKG", "Thessaloniki", dests, dests_charter );
-
-		dests		= new Array();	
-		dests_charter	= new Array('LGW','MAN');
-		apts[43]		= new airport( false, "VCE", "Venice", dests, dests_charter );
+		// SSH: apts[36]		= new airport( false, "PUY", "Pula", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[36]		= new airport( false, "PUY", "Pula", dests, dests_charter );
 
 		dests		= new Array();	
 		dests_charter	= new Array('BHX','LGW','MAN');
-		apts[44]		= new airport( false, "ZTH", "Zakynthos", dests, dests_charter );
+		// SSH: apts[37]		= new airport( false, "RHO", "Rhodes", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[37]		= new airport( false, "RHO", "Rhodes", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[38]		= new airport( false, "JTR", "Santorini", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[38]		= new airport( false, "JTR", "Santorini", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[39]		= new airport( false, "JSI", "Skiathos", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[39]		= new airport( false, "JSI", "Skiathos", dests, dests_charter );
+
+		dests		= new Array('BHX','LGW','LTN','MAN');	
+		dests_charter	= new Array('BHX','LGW','MAN');
+		// SSH: apts[40]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter, false, true );
+		// Replace line below with line above if adding back SSH
+		apts[40]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[41]		= new airport( false, "VCE", "Venice", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[41]		= new airport( false, "VCE", "Venice", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('LGW','MAN');
+		// SSH: apts[42]		= new airport( false, "VOL", "Volos", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[42]		= new airport( false, "VOL", "Volos", dests, dests_charter );
+
+		dests		= new Array();	
+		dests_charter	= new Array('BHX','LGW','LTN','MAN');
+		// SSH: apts[43]		= new airport( false, "ZTH", "Zakynthos", dests, dests_charter, ,  );
+		// Replace line below with line above if adding back SSH
+		apts[43]		= new airport( false, "ZTH", "Zakynthos", dests, dests_charter );
 
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[45]		= new airport( false, "BJL", "Banjul", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[44]		= new airport( false, "BJL", "Banjul", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[44]		= new airport( false, "BJL", "Banjul", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[46]		= new airport( false, "CUN", "Cancun", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[45]		= new airport( false, "CUN", "Cancun", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[45]		= new airport( false, "CUN", "Cancun", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[47]		= new airport( false, "GOI", "Goa", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[46]		= new airport( false, "FUE", "Fuerteventura", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[46]		= new airport( false, "FUE", "Fuerteventura", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[48]		= new airport( false, "GND", "Grenada", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[47]		= new airport( false, "GOI", "Goa", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[47]		= new airport( false, "GOI", "Goa", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[49]		= new airport( false, "LXR", "Luxor", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[48]		= new airport( false, "GND", "Grenada", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[48]		= new airport( false, "GND", "Grenada", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[50]		= new airport( false, "MLE", "Male", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[49]		= new airport( false, "HRG", "Hurghada", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[49]		= new airport( false, "HRG", "Hurghada", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[51]		= new airport( false, "MBA", "Mombasa", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[50]		= new airport( false, "LXR", "Luxor", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[50]		= new airport( false, "LXR", "Luxor", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[52]		= new airport( false, "MIR", "Monastir", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[51]		= new airport( false, "MBA", "Mombasa", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[51]		= new airport( false, "MBA", "Mombasa", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[53]		= new airport( false, "MBJ", "Montego Bay", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[52]		= new airport( false, "MIR", "Monastir", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[52]		= new airport( false, "MIR", "Monastir", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[54]		= new airport( false, "POP", "Puerto Plata", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[53]		= new airport( false, "POP", "Puerto Plata", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[53]		= new airport( false, "POP", "Puerto Plata", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[55]		= new airport( false, "SFB", "Sanford", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[54]		= new airport( false, "SFB", "Sanford", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[54]		= new airport( false, "SFB", "Sanford", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[56]		= new airport( false, "SSH", "Sharm El Sheikh", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[55]		= new airport( false, "SSH", "Sharm El Sheikh", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[55]		= new airport( false, "SSH", "Sharm El Sheikh", dests );	
 				dests		= new Array();
-			dests_charter	= new Array('BHX','LGW','MAN');
-			apts[57]		= new airport( false, "TAB", "Tobago", dests );
-	
+			dests_charter	= new Array('BHX','LGW','LTN','MAN');
+			//SSH: apts[56]		= new airport( false, "TAB", "Tobago", dests, dests_charter, ,  );
+			// Replace line below with line above if adding back SSH
+			apts[56]		= new airport( false, "TAB", "Tobago", dests );	
 				return apts;
 
 		}
@@ -699,75 +798,93 @@ function alterPaxCountList(e, max, txt) {
 		var dests_charter;
 	
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[0]		= new airport( false, "ALC", "Alicante", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[0]		= new airport( false, "ALC", "Alicante", dests, dests_charter );
 
-		dests		= new Array('BHX','LTN','MAN');	
-		dests_charter = new Array();
+		dests		= new Array('BHX','MAN');	
+		/*SSH:dests_charter = new Array();
+		apts[1]		= new airport( false, "LEI", "Almeria", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[1]		= new airport( false, "LEI", "Almeria", dests, dests_charter );
 
 		dests		= new Array('MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[2]		= new airport( false, "BCN", "Barcelona", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[2]		= new airport( false, "BCN", "Barcelona", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('AYT','BJV','CFU','DLM','DBV','LPA','HER','ACE','NAP','PFO','RHO','SSH','TFS','ZTH');
+		apts[3]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[3]		= new airport( false, "BHX", "Birmingham Intl", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[4]		= new airport( false, "FAO", "Faro", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[4]		= new airport( false, "FAO", "Faro", dests, dests_charter );
 
 		dests		= new Array('LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[5]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[5]		= new airport( false, "GIB", "Gibraltar", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','BCN','BHX','FAO','GIB','LPA','IBZ','ACE','LCA','LGW','LTN','AGP','MAN','MAH','MJV','PMI','TFS');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('LGW','MAN');
+		apts[6]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[6]		= new airport( false, "LPA", "Gran Canaria", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[7]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[7]		= new airport( false, "IBZ", "Ibiza", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('BHX','LGW','MAN');
+		apts[8]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[8]		= new airport( false, "ACE", "Lanzarote", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[9]		= new airport( false, "LCA", "Larnaca (Cyprus)", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[9]		= new airport( false, "LCA", "Larnaca (Cyprus)", dests, dests_charter );
 
 		dests		= new Array('ALC','FAO','IBZ','ACE','LCA','AGP','MAH','MJV','TFS');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('AYT','BJL','BJV','BOJ','CUN','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','GND','HER','HRG','EFL','KGS','ACE','LXR','MLE','MAH','MBA','MIR','NAP','PMI','PFO','PVK','POP','RHO','SFB','JTR','SSH','JSI','TFS','TAB','VCE','VOL','ZTH');
+		apts[10]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[10]		= new airport( false, "LGW", "London Gatwick", dests, dests_charter );
 
-		dests		= new Array('ALC','LEI','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
-		dests_charter = new Array();
+		dests		= new Array('ALC','FAO','GIB','ACE','LCA','AGP','MAH','PMI','TFS');	
+		/*SSH:dests_charter = new Array('ZTH');
+		apts[11]		= new airport( false, "LTN", "London Luton", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[11]		= new airport( false, "LTN", "London Luton", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[12]		= new airport( false, "AGP", "Malaga", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[12]		= new airport( false, "AGP", "Malaga", dests, dests_charter );
 
 		dests		= new Array('ALC','LEI','BCN','FAO','GIB','IBZ','ACE','LCA','AGP','MAH','MJV','PMI','TFS');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('AYT','BJL','BJV','BOJ','CUN','CTA','CHQ','CFU','DLM','DBV','FUE','GOI','LPA','HER','EFL','KGS','ACE','LXR','MAH','MIR','NAP','PFO','PVK','POP','PUY','RHO','SFB','JTR','SSH','JSI','TFS','VCE','VOL','ZTH');
+		apts[13]		= new airport( false, "MAN", "Manchester", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[13]		= new airport( false, "MAN", "Manchester", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('BRS','EMA','LGW','STN','MAN');
+		apts[14]		= new airport( false, "MAH", "Menorca", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[14]		= new airport( false, "MAH", "Menorca", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array();
+		apts[15]		= new airport( false, "MJV", "Murcia", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[15]		= new airport( false, "MJV", "Murcia", dests, dests_charter );
 
 		dests		= new Array('BHX','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('BRS','LGW');
+		apts[16]		= new airport( false, "PMI", "Palma (Mallorca)", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[16]		= new airport( false, "PMI", "Palma (Mallorca)", dests, dests_charter );
 
 		dests		= new Array('BHX','LGW','LTN','MAN');	
-		dests_charter = new Array();
+		/*SSH:dests_charter = new Array('BHX','LGW','MAN');
+		apts[17]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter, false, true );*/		dests_charter = new Array();
 		apts[17]		= new airport( false, "TFS", "Tenerife South", dests, dests_charter );
 
 				return apts;
@@ -1031,11 +1148,6 @@ function setStandardList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Newcastle","NCL");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Antalya","AYT");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
@@ -1076,11 +1188,6 @@ function setStandardList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Fuerteventura","FUE");
-					if (drp.options[newIndex].value == currentOption) {
-					drp.options[newIndex].selected = true; 
-				}
-					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Heraklion","HER");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
@@ -1092,6 +1199,11 @@ function setStandardList(drp) {
 				}
 					newIndex = drp.length;
 				drp.options[newIndex] = new Option("Kos","KGS");
+					if (drp.options[newIndex].value == currentOption) {
+					drp.options[newIndex].selected = true; 
+				}
+					newIndex = drp.length;
+				drp.options[newIndex] = new Option("Male","MLE");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -1131,12 +1243,12 @@ function setStandardList(drp) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Thessaloniki","SKG");
+				drp.options[newIndex] = new Option("Venice","VCE");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
 					newIndex = drp.length;
-				drp.options[newIndex] = new Option("Venice","VCE");
+				drp.options[newIndex] = new Option("Volos","VOL");
 					if (drp.options[newIndex].value == currentOption) {
 					drp.options[newIndex].selected = true; 
 				}
@@ -1235,7 +1347,7 @@ function capturePaymentPageAmounts(paymentPageAmount)
 			var oMonthYear		= "" + oYear + oMonth;
 
 
-			if ( okay == true && oDay == 17 && oMonthYear ==200812 )
+			if ( okay == true && oDay == 04 && oMonthYear ==200905 )
 			{
 				alert("\nBecause today\'s date has been selected, only \nflights that leave today at least 3 hours00 minutes\nfrom the current time will be shown on the next page.\n");
 
@@ -1714,8 +1826,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Glasgow			</option>	
 			<option value="STN">
 				London Stansted			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="AYT">
 				Antalya			</option>	
 			<option value="BJV">
@@ -1732,14 +1842,14 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Dalaman			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
-			<option value="FUE">
-				Fuerteventura			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
+			<option value="MLE">
+				Male			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1754,10 +1864,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Santorini			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>				</select>
 				<br>
@@ -1819,8 +1929,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Glasgow			</option>	
 			<option value="STN">
 				London Stansted			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="AYT">
 				Antalya			</option>	
 			<option value="BJV">
@@ -1837,14 +1945,14 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Dalaman			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
-			<option value="FUE">
-				Fuerteventura			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
+			<option value="MLE">
+				Male			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -1859,10 +1967,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Santorini			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>	
 			<option value="AYT">
@@ -1899,6 +2007,8 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Grenada			</option>	
 			<option value="HER">
 				Heraklion			</option>	
+			<option value="HRG">
+				Hurghada			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
@@ -1913,12 +2023,8 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Mombasa			</option>	
 			<option value="MIR">
 				Monastir			</option>	
-			<option value="MBJ">
-				Montego Bay			</option>	
 			<option value="NAP">
 				Naples			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="PFO">
 				Paphos			</option>	
 			<option value="PVK">
@@ -1937,12 +2043,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Sharm El Sheikh			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="TAB">
 				Tobago			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>				</select>
 </span>
@@ -1997,8 +2103,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Glasgow			</option>	
 			<option value="STN">
 				London Stansted			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="AYT">
 				Antalya			</option>	
 			<option value="BJV">
@@ -2015,14 +2119,14 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Dalaman			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
-			<option value="FUE">
-				Fuerteventura			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
+			<option value="MLE">
+				Male			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -2037,10 +2141,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Santorini			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>				</select>
 				<br>
@@ -2102,8 +2206,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Glasgow			</option>	
 			<option value="STN">
 				London Stansted			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="AYT">
 				Antalya			</option>	
 			<option value="BJV">
@@ -2120,14 +2222,14 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Dalaman			</option>	
 			<option value="DBV">
 				Dubrovnik			</option>	
-			<option value="FUE">
-				Fuerteventura			</option>	
 			<option value="HER">
 				Heraklion			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
 				Kos			</option>	
+			<option value="MLE">
+				Male			</option>	
 			<option value="NAP">
 				Naples			</option>	
 			<option value="PFO">
@@ -2142,10 +2244,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Santorini			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>	
 			<option value="AYT">
@@ -2182,6 +2284,8 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Grenada			</option>	
 			<option value="HER">
 				Heraklion			</option>	
+			<option value="HRG">
+				Hurghada			</option>	
 			<option value="EFL">
 				Kefalonia			</option>	
 			<option value="KGS">
@@ -2196,12 +2300,8 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Mombasa			</option>	
 			<option value="MIR">
 				Monastir			</option>	
-			<option value="MBJ">
-				Montego Bay			</option>	
 			<option value="NAP">
 				Naples			</option>	
-			<option value="NCL">
-				Newcastle			</option>	
 			<option value="PFO">
 				Paphos			</option>	
 			<option value="PVK">
@@ -2220,12 +2320,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				Sharm El Sheikh			</option>	
 			<option value="JSI">
 				Skiathos			</option>	
-			<option value="SKG">
-				Thessaloniki			</option>	
 			<option value="TAB">
 				Tobago			</option>	
 			<option value="VCE">
 				Venice			</option>	
+			<option value="VOL">
+				Volos			</option>	
 			<option value="ZTH">
 				Zakynthos			</option>				</select>
 </span>
@@ -2238,7 +2338,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="01">01</option>	
 					<option value="02">02</option>	
 					<option value="03">03</option>	
-					<option value="04">04</option>	
+					<option value="04" selected="">04</option>	
 					<option value="05">05</option>	
 					<option value="06">06</option>	
 					<option value="07">07</option>	
@@ -2251,7 +2351,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="14">14</option>	
 					<option value="15">15</option>	
 					<option value="16">16</option>	
-					<option value="17" selected="">17</option>	
+					<option value="17">17</option>	
 					<option value="18">18</option>	
 					<option value="19">19</option>	
 					<option value="20">20</option>	
@@ -2269,17 +2369,17 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				</select>
 				
 				<select name="departMonth1" size="1" id="departMonth1Select" onchange="resetDates(document.skylightsForm.travel[0].checked)">
-					<option value="200812">Dec 2008</option>	
-					<option value="200901">Jan 2009</option>	
-					<option value="200902">Feb 2009</option>	
-					<option value="200903">Mar 2009</option>	
-					<option value="200904">Apr 2009</option>	
 					<option value="200905">May 2009</option>	
 					<option value="200906">Jun 2009</option>	
 					<option value="200907">Jul 2009</option>	
 					<option value="200908">Aug 2009</option>	
 					<option value="200909">Sep 2009</option>	
 					<option value="200910">Oct 2009</option>	
+					<option value="200911">Nov 2009</option>	
+					<option value="200912">Dec 2009</option>	
+					<option value="201001">Jan 2010</option>	
+					<option value="201002">Feb 2010</option>	
+					<option value="201003">Mar 2010</option>	
 				</select>		<a href='javascript:openCalendar(1, "departDay1", "departMonth1","/skylights/cgi-bin/skylights.cgi?module=SB&amp;page=CALENDAR&amp;language=EN&amp;mode=&amp;sid=&amp;form_name=skylightsForm")'>
 		<img src="/images_site/ico/ico-calendar.gif" width="20" height="18" alt="Calendar" id="calendar1" class="search-input-fastbook-calendar-icon"></a>
 				
@@ -2290,7 +2390,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="01">01</option>	
 					<option value="02">02</option>	
 					<option value="03">03</option>	
-					<option value="04">04</option>	
+					<option value="04" selected="">04</option>	
 					<option value="05">05</option>	
 					<option value="06">06</option>	
 					<option value="07">07</option>	
@@ -2303,7 +2403,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 					<option value="14">14</option>	
 					<option value="15">15</option>	
 					<option value="16">16</option>	
-					<option value="17" selected="">17</option>	
+					<option value="17">17</option>	
 					<option value="18">18</option>	
 					<option value="19">19</option>	
 					<option value="20">20</option>	
@@ -2321,17 +2421,17 @@ function filterFieldValue(fieldToFilter, min, max, content)
 				</select>
 				
 				<select name="departMonth2" size="1" id="departMonth2Select">
-					<option value="200812">Dec 2008</option>	
-					<option value="200901">Jan 2009</option>	
-					<option value="200902">Feb 2009</option>	
-					<option value="200903">Mar 2009</option>	
-					<option value="200904">Apr 2009</option>	
 					<option value="200905">May 2009</option>	
 					<option value="200906">Jun 2009</option>	
 					<option value="200907">Jul 2009</option>	
 					<option value="200908">Aug 2009</option>	
 					<option value="200909">Sep 2009</option>	
 					<option value="200910">Oct 2009</option>	
+					<option value="200911">Nov 2009</option>	
+					<option value="200912">Dec 2009</option>	
+					<option value="201001">Jan 2010</option>	
+					<option value="201002">Feb 2010</option>	
+					<option value="201003">Mar 2010</option>	
 				</select>		<a href='javascript:openCalendar(2, "departDay2", "departMonth2","/skylights/cgi-bin/skylights.cgi?module=SB&amp;page=CALENDAR&amp;language=EN&amp;mode=&amp;sid=&amp;form_name=skylightsForm")'>
 		<img src="/images_site/ico/ico-calendar.gif" width="20" height="18" alt="Calendar" id="calendar2" class="search-input-fastbook-calendar-icon"></a>
 				
@@ -2339,7 +2439,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			</div>
 			<div id="search-input-fastbook-pax" class="txt-white">
 				<span class="search-input-fastbook-left">
-				<label for="adultSelect" id="adultLabel">passengers</label><br>		
+				<p><label for="adultSelect" id="adultLabel">passengers</label></p>		
 				<div class="search-input-fastbook-left">
 				<select name="ADULT" id="ADULTSelect">
 					<option value="1">1 adult</option>
@@ -2396,9 +2496,10 @@ function filterFieldValue(fieldToFilter, min, max, content)
 
 					</select>
 					<input type="hidden" name="defaultINFANT" value="-1">
-					<br><a href="#" onclick="javascript:alert('Note: Children aged 11 or under must be accompanied by an adult aged 16 or over.\n\nPassenger ages must be correct as of time of TRAVEL, not time of booking.')" class="txt-white">under 2 yrs</a>				</div>				</span>				
+					<br><a href="#" onclick="javascript:alert('Note: Children aged 11 or under must be accompanied by an adult aged 16 or over.\n\nPassenger ages must be correct as of time of TRAVEL, not time of booking.')" class="txt-white">under 2 yrs</a>				</div>
+				<div class="clear"></div>				</span>				
 				<div id="search-input-fastbook-submit">
-					<a href="#" onclick="submitSearch(20081217, 20091031,1);return false;"><img src="/images_site/btn/btn_red_white_purple_show_flights_EN.gif" alt="search" class="search-input-fastbook-buttons"></a>
+					<a href="#" onclick="submitSearch(20090504, 20100327,1);return false;"><img src="/images_site/btn/btn_red_white_purple_show_flights_EN.gif" alt="search" class="search-input-fastbook-buttons"></a>
 					<br><input type="checkbox" id="chkFlexible" name="chkFlexible" style="vertical-align: middle;"><label id="lblFlexible" for="chkFlexible">flexible on dates?</label>				</div>
 				<input type="hidden" name="farePriority" id="farePriority" value="">
 				
@@ -2426,8 +2527,8 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			<!--
 			<div class="buttonAlign"><input type="button" name="searchButton" id="searchButton" 
 											class="button" value="Find Flights >" 
-											onClick="submitSearch(20081217, 
-											20091031)"></div>
+											onClick="submitSearch(20090504, 
+											20100327)"></div>
 		</div>-->
 		
 		</div>
@@ -2448,12 +2549,12 @@ function filterFieldValue(fieldToFilter, min, max, content)
 			<input type="hidden" name="sector" value="">
 			<input type="hidden" name="dayControl" value="">
 			<input type="hidden" name="monthControl" value="">
-			<input type="hidden" name="dNow" value="17">
-			<input type="hidden" name="mNow" value="12">
-			<input type="hidden" name="yNow" value="2008">
-			<input type="hidden" name="dMax" value="31">
+			<input type="hidden" name="dNow" value="04">
+			<input type="hidden" name="mNow" value="05">
+			<input type="hidden" name="yNow" value="2009">
+			<input type="hidden" name="dMax" value="27">
 			<input type="hidden" name="mMaxToDisplay" value="11">
-			<input type="hidden" name="mMaxToDisplayCharter" value="11">
+			<input type="hidden" name="mMaxToDisplayCharter" value="12">
 		</form>	
 			</div>
 		</div>
@@ -2470,13 +2571,6 @@ function filterFieldValue(fieldToFilter, min, max, content)
 		<div id="layout-nav">
 
 
-
-			<div style="float: left; padding: 5px 0px;">
-			<a href="/cnt/travelinfo/booking.asp" target="_blank" style="vertical-align:middle;">
-			<img style="vertical-align:middle" src="/images_site/ico/ico_info_red.gif" hspace="5"></a>
-			<a href="/cnt/travelinfo/booking.asp" target="_blank" style="vertical-align:middle;">
-			book with confidence with Monarch </a> 
-			</div>	
 
 			<div id="nav-campaign">
 			<ul class="nav-campaign"><li class="first"><a class="txt-dark-red txt-bold" href="http://videos.monarch.co.uk/">videos</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/overseas-property/overseas-property.asp">overseas property</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/golf-holidays/golf-holidays.asp">golf holidays</a></li><li class="tab"><a class="txt-dark-red txt-bold" href="/cnt/about/environment.asp">environment</a></li></ul>
@@ -2501,7 +2595,7 @@ function filterFieldValue(fieldToFilter, min, max, content)
 							<ul onmouseover="nav_set_selected('nav-main-6',true);" onmouseout="nav_set_selected('nav-main-6',false);"><li><a href="/cnt/travelinfo/index.asp">travel info &amp; faqs</a></li><li><a href="/cnt/travelinfo/frequentflyer/index.asp">vantage club</a></li></ul>
 						</li>
 						<li id="nav-main-7"><a href="/skylights/cgi-bin/skylights.cgi?module=AP" id="nav-main-7-lft" onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><span id="nav-main-7-rgt"><div id="nav-main-7-ctr">travel extras</div></span></a>
-							<ul onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank">hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-rental" target="_blank">car rental</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.insurefor.com/B2C/index.aspx?ref=monarchmondial&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/insurance" target="_blank">travel insurance</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN" target="_blank">airport parking - Manchester</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">airport parking - other</a></li><li><a href="/cnt/travelextras/vouchers.asp">gift vouchers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/airport-hotels" target="_blank">airport hotels</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.holidaytaxis.com/?ref=fmo&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/transfers" target="_blank">airport transfers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarch.teetimesanywhere.com?mtc=flymonarch?&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/golf" target="_blank">golf bookings</a></li><li><a href="/cnt/travelextras/charter_upgrades.asp">charter upgrades</a></li></ul>
+							<ul onmouseover="nav_set_selected('nav-main-7',true);" onmouseout="nav_set_selected('nav-main-7',false);"><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank">hotels</a></li><li><a href="http://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228" target="_blank">car rental</a></li><li><a href="http://extras.monarch.co.uk/travel-insurance.asp" target="_blank">travel insurance</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN" target="_blank">airport parking - Manchester</a></li><li><a href="http://extras.monarch.co.uk/airport-parking.asp" target="_blank">airport parking - other</a></li><li><a href="/cnt/travelextras/vouchers.asp">gift vouchers</a></li><li><a href="http://extras.monarch.co.uk/airport-hotels.asp " target="_blank">airport hotels</a></li><li><a href="http://www.holidaytaxis.com/?ref=FMO" target="_blank">airport transfers</a></li><li><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarch.teetimesanywhere.com?mtc=flymonarch?&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/golf" target="_blank">golf bookings</a></li><li><a href="/cnt/travelextras/charter_upgrades.asp">charter upgrades</a></li></ul>
 						</li>
 						<li id="nav-main-8"><a href="/cnt/about/index.asp" id="nav-main-8-lft"><span id="nav-main-8-rgt"><div id="nav-main-8-ctr">&nbsp;about us&nbsp;</div></span></a></li>
 					</ul>
@@ -2610,7 +2704,7 @@ Please note that our privacy policy may change from time to time.  We therefore 
 
 	<script language="Javascript">
 		function submitParking(sel) {
-			var park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking";
+			var park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://extras.monarch.co.uk&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking";
 			if (sel[sel.selectedIndex].value == "MAN") {
 				park_url = "http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.manchesterairport.co.uk/app/CarParkBooking?affiliate=monarch&nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking-MAN";
 			}
@@ -2664,9 +2758,9 @@ Please note that our privacy policy may change from time to time.  We therefore 
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-rental" target="_blank"><img src="/images_site/ico/ico-car-anc.jpg" alt="<br />car hire"></a>
+					<a href="http://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228" target="_blank"><img src="/images_site/ico/ico-car-anc.jpg" alt="<br />car hire"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/https://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-rental" target="_blank"><br>car hire</a></h2>					
+						<h2><a href="http://www.sixt.com/apps/travel/hc/?lang=en&amp;opId=70564&amp;partnerNo=269228" target="_blank"><br>car hire</a></h2>					
 						
 					</div>
 					<span class="clear"></span>
@@ -2675,9 +2769,9 @@ Please note that our privacy policy may change from time to time.  We therefore 
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank"><img src="/images_site/ico/ico-hotels-anc.jpg" alt="<br />hotels"></a>
+					<a href="http://hotels.monarch.co.uk/" target="_blank"><img src="/images_site/ico/ico-hotels-anc.jpg" alt="<br />hotels"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.flymonarchhotels.com?nourl=www.flymonarch.com/3rdpartylinks/link2/accomodation" target="_blank"><br>hotels</a></h2>					
+						<h2><a href="http://hotels.monarch.co.uk/" target="_blank"><br>hotels</a></h2>					
 						
 					</div>
 					<span class="clear"></span>
@@ -2686,9 +2780,9 @@ Please note that our privacy policy may change from time to time.  We therefore 
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank"><img src="/images_site/ico/ico-parking-anc.jpg" alt="parking"></a>
+					<a href="http://extras.monarch.co.uk/airport-parking.asp" target="_blank"><img src="/images_site/ico/ico-parking-anc.jpg" alt="parking"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://parking.essentialtravel.co.uk/airportparkingFlyMonarch/monarch.html&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/car-parking" target="_blank">parking</a></h2>					
+						<h2><a href="http://extras.monarch.co.uk/airport-parking.asp" target="_blank">parking</a></h2>					
 						<p><select onchange="submitParking(this);"><option value="">Flying from</option><option value="MAN">Manchester</option><option value="OTH">Other</option></select></p>
 					</div>
 					<span class="clear"></span>
@@ -2697,9 +2791,9 @@ Please note that our privacy policy may change from time to time.  We therefore 
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.insurefor.com/B2C/index.aspx?ref=monarchmondial&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/insurance" target="_blank"><img src="/images_site/ico/ico-insurance-anc.jpg" alt="<br />insurance"></a>
+					<a href="http://extras.monarch.co.uk/travel-insurance.asp" target="_blank"><img src="/images_site/ico/ico-insurance-anc.jpg" alt="<br />insurance"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.insurefor.com/B2C/index.aspx?ref=monarchmondial&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/insurance" target="_blank"><br>insurance</a></h2>					
+						<h2><a href="http://extras.monarch.co.uk/travel-insurance.asp" target="_blank"><br>insurance</a></h2>					
 						
 					</div>
 					<span class="clear"></span>
@@ -2708,9 +2802,9 @@ Please note that our privacy policy may change from time to time.  We therefore 
 								
 			<div class="layout-ancillary-purple">
 				<div class="layout-bdr-purple-dot-top"><div class="layout-bdr-purple-dot-rgt"><div class="layout-bdr-purple-dot-btm"><div class="layout-bdr-purple-dot-lft"><div class="layout-cnr-purple-purple-bdr-btm-lft"><div class="layout-cnr-purple-purple-bdr-btm-rgt"><div class="layout-cnr-purple-purple-bdr-top-lft"><div class="layout-cnr-purple-purple-bdr-top-rgt">
-					<a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.holidaytaxis.com/?ref=fmo&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/transfers" target="_blank"><img src="/images_site/ico/ico-transfers-anc.jpg" alt="<br />transfers"></a>
+					<a href="http://www.holidaytaxis.com/?ref=FMN" target="_blank"><img src="/images_site/ico/ico-transfers-anc.jpg" alt="<br />transfers"></a>
 					<div class="text">
-						<h2><a href="http://reporting.flymonarch.com/cgi-bin/rr.cgi/http://www.holidaytaxis.com/?ref=fmo&amp;nourl=www.flymonarch.com/3rdpartylinks/link2/transfers" target="_blank"><br>transfers</a></h2>					
+						<h2><a href="http://www.holidaytaxis.com/?ref=FMN" target="_blank"><br>transfers</a></h2>					
 						
 					</div>
 					<span class="clear"></span>
@@ -2742,7 +2836,7 @@ Please note that our privacy policy may change from time to time.  We therefore 
 				<li><a href="/agents/">agent login</a>
 			</li></ul>
 		</div>
-		<div id="siteinfo-legal">Monarch scheduled flights - book budget flights online - Copyright © 2002 - 2008 Monarch Airlines</div>
+		<div id="siteinfo-legal">Monarch scheduled flights - book budget flights online - Copyright © 2002 - 2009 Monarch Airlines</div>
 	</div>	
 </div>
 
