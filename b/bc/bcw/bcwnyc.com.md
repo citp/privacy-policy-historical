@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828203004id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504105626id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Broadway Chiropractic And Wellness - Chiropractor In New York, NY, USA :: Privacy Policy
 
@@ -74,3 +74,5 @@ If you are not satisfied with the manner in which this office handles your compl
 >  200 Independence Avenue, S.W.  
 >  Room 509F HHH Building  
 >  Washington, DC 20201
+
+Top
