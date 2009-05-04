@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020512id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504081719id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.*
 
 # WGN Radio - Privacy Policy
 
@@ -47,7 +47,7 @@ We can be reached by contacting:
 > WGNRADIO.com Webmaster  
 >  435 N. Michigan Avenue  
 >  Chicago, IL 60611  
->  Email: [Click here](https://web.archive.org/web/20081216020512id_/http%3A//www.wgnradio.com/index.php?option=com_contact&catid=275&Itemid=3) 
+>  Email: [Click here](https://web.archive.org/web/20090504081719id_/http%3A//www.wgnradio.com/index.php?option=com_contact&catid=275&Itemid=3) 
 
 ### Changes to this policy.
 
