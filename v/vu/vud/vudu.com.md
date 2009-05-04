@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vudu.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081050id_/http%3A//www.vudu.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vudu.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504215936id_/http%3A//www.vudu.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VUDU - Privacy Policy
 
