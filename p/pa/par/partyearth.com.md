@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223131743id_/http%3A//partyearth.com/index.php%3Fsection%3Dpages%26id%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505194115id_/http%3A//www.partyearth.com/index.php%3Fsection%3Dpages%26id%3D63) for the most accurate reproduction.*
 
 # Party Earth :: Pages : Documents
 
