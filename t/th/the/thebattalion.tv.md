@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231201823id_/http%3A//www.thebattalion.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebattalion.tv privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505172758id_/http%3A//www.thebattalion.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Battalion
 
