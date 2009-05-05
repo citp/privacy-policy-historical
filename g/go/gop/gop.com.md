@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625230057id_/http%3A//www.gop.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505063911id_/http%3A//www.gop.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Republican • National • Committee
 
@@ -73,7 +73,7 @@ The Republican National Committee provides links to original articles written an
 
 **Can I change my information or opt out of RNC e-mailings?**
 
-  * **Use your password to edit your personal information:** When you register with GOP.com you automatically receive a user name and password. You can change your password or have it resent to your email account at any time. This password can be used to edit your personal information at any time. To edit your information or to have your password resent to your registered email address please go to: <https://www.gop.com/Secure/Profile.aspx>. 
+  * **Use your password to edit your personal information:** When you register with GOP.com you automatically receive a user name and password. You can change your password or have it resent to your email account at any time. This password can be used to edit your personal information at any time. To edit your information or to have your password resent to your registered email address please go to: <https://secure.gop.com//Secure/Profile.aspx>. 
   * **How to unsubscribe from our email list:** Communicating via email is one of the most powerful online tools Republicans use. We’re sure you will find the information useful and take advantage of the opportunities to assist the party and the President. Coast to coast, link by link, email to email, you are making a difference! 
 
 When registering with GOP.com, please know that you are opting to receive these emails by providing your email address. All signups for email communications and other features of our Web site are voluntary. We give you the opportunity to opt-in and we give you the power to opt-out of email communications. Should you wish to opt-out, an unsubscribe link is included in every e-mail. If your link is not working properly, or you wish to communicate your desire to opt-out directly to us: 
