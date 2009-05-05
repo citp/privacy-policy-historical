@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030434id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505182342id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
 
-# JDPower.com | Privacy Policy
+# JDPower.com | Privacy Notice
 
-[](https://web.archive.org/autos)[](https://web.archive.org/boats)[](https://web.archive.org/electronics)[](https://web.archive.org/finance)[](https://web.archive.org/healthcare)[](https://web.archive.org/homes)[](https://web.archive.org/insurance)[](https://web.archive.org/telecom)[](https://web.archive.org/travel)
+## Privacy Notice
 
-## Privacy Policy
-
-[Home](https://web.archive.org/) > Privacy Policy
+[Home](https://web.archive.org/) > Privacy Notice
 
 * * *
 
@@ -65,7 +63,3 @@ Attn: JDPower.com
 We reserve the right to confirm the identity of the requester and to limit the frequency and scope of an individual person’s requests.
 
 This notice is effective as of November 18, 2005.
-
-* * *
-
-[](http://corp.jdpower.com/jdpcc/global/canada/index.jsp)
