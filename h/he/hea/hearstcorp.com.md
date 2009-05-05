@@ -1,17 +1,49 @@
-> *The following text is extracted and transformed from the hearstcorp.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205070100id_/http%3A//www.hearstcorp.com/home1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearstcorp.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505155042id_/http%3A//www.hearstcorp.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This site complies with the following Privacy Policy. We can be reached by e-mail at [pphillips@hearst.com](mailto:pphillips@hearst.com). 
+** Privacy Policy ******
 
-This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us. 
+_Purpose of this Privacy Policy_
 
-A user's personally identifying information may be used for editorial purposes and we may also use such information for marketing and promotional purposes and may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes by sending an e-mail request to us at the address given above. 
+This privacy policy describes The Hearst Corporation's ("THC") policies with respect to the collection of personally identifiable information from the website to which this policy is linked. The website to which this policy applies is the home page, and related pages, of THC's corporate website, operating under the url "hearst.com". THC is one of the world's largest diversified communications companies, with interests in newspapers, magazines, broadcast and cable television, and a variety of other interests that are described on this website. 
 
-While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. 
+_Information To Which This Privacy Policy Does Not Apply_
 
-Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+This privacy policy only applies to the web site operating under the url "hearst.com" (and the underlying pages that operate under that primary url) to which this policy is linked. Any information you provide when you a visit web site other than that covered by this policy (including other web sites affiliated with Hearst and its newspapers, magazines, and other publications such as for example, "hearstmags.com" (where you may purchase subscriptions to our magazines) or "hearstent.com") is subject to the privacy policies posted on those websites, whether such websites are run and owned by subsidiaries or affiliates of THC or by third parties. This policy also does not apply to information you may provide to us offline. 
 
-Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
+_What is Personally Identifiable Information_
 
-Users can send e-mail to us at [pphillips@hearst.com](mailto:pphillips@hearst.com) with any further questions. 
+"Personally identifiable information" is information that can be used to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with you personally. 
+
+_No Personally Identifiable Information Collected_
+
+Hearst.com does not collect any personally identifiable information on this site, with the following exception. If you are an advertising agency or potential advertiser in certain of our magazines, you may make an online request to receive our media kit. In that event, we may collect information about your firm through an online registration process, and use that information to service your transactions with use and to send you promotional announcements. 
+
+_Cookies_
+
+Hearst.com (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site's computers and stored on your computer's hard drive. Hearst uses cookies to understand site usage and to improve the content and offerings on our site. 
+
+Our cookies contain no personally identifiable information. 
+
+Hearst.com (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose. 
+
+If you don't want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function efficiently. 
+
+_Non-US Users_
+
+If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this website, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of the United States in which the editorial staff of this website primarily does business. 
+
+_California & Canadian Users_
+
+California and Canadian users have certain rights to know how their personal information may be shared with third parties for direct marketing purposes. The websites maintained by Hearst's publications and affiliates post information about their data sharing practices, and how you can elect to opt-out of certain data sharing arrangements. Please check the website associated with the applicable publication or affiliate for more information. 
+
+_IP Address_
+
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our website. 
+
+_Changes to Privacy Policy and Notice_
+
+THC may change this policy from time to time in its discretion. Your continued use of this site indicates your consent to this privacy policy and any amended versions of it. 
+
+This policy was last updated on January 15, 2008. 
