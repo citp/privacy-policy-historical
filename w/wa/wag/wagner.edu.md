@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102003id_/http%3A//www.wagner.edu/about_wagner/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505134812id_/http%3A//www.wagner.edu/about_wagner/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement for Wagner College's Web Site | About Wagner
 
