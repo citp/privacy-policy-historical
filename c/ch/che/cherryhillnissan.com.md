@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherryhillnissan.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906144910id_/http%3A//www.cherryhillnissan.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherryhillnissan.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505172906id_/http%3A//www.cherryhillnissan.com/privacy.htm) for the most accurate reproduction.*
 
 # Cherry Hill Nissan is a New, Used and Pre-Owned Nissan dealership serving Cherry Hill, NJ
 
