@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125420id_/http%3A//www.ladieswholaunch.com/magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505082057id_/http%3A//www.ladieswholaunch.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-WEBSITE PRIVACY POLICY  
-EFFECTIVE DATE: June 21, 2007
+## Ladies Who Launch Privacy Policy
+
+EFFECTIVE DATE: January 1, 2009
 
 1\. INTRODUCTION
 
@@ -64,8 +65,8 @@ The Site may contain links to other websites. If you choose to visit other websi
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following privacy@ladieswholaunch.com or 212.967.3281:
 
 Ladies Who Launch, Inc.  
-265 West 37th Street, 7th floor  
-New York, NY 10018
+46 Shopping Plaza #190,   
+Chagrin Falls, OH 44022
 
 6.2 UPDATES AND CHANGES
 
