@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gawkk.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211050id_/http%3A//www.gawkk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gawkk.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505205711id_/http%3A//www.gawkk.com/privacy) for the most accurate reproduction.*
 
-# Gawkk - Discover New Videos with Friends
+# Share Videos with Friends on Gawkk
+
+The video you are looking for does not exist.
 
 Gawkk was founded on the principles of helping people to discover new videos by enabling them to share what they find interesting with one another. Gawkk understands that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Gawkk website, you are accepting the practices outlined in this Privacy Policy.
 
