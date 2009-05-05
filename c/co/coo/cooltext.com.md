@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134533id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505204614id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
 # Cool Text: Privacy Policy
+
+| 
 
 ## Cool Text Privacy Policy
 
@@ -19,3 +21,6 @@ Cool Text, as well as most sites on the Internet, use "cookies" to enhance your 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
 Cool Text uses a reputable third party to serve the advertisements that you see on the pages of our Web site.
+
+|    
+
