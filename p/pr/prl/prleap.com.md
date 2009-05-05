@@ -1,55 +1,56 @@
-> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924202208id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505182333id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PR Leap
 
-Welcome to PR Leap, a service brought to you by Condesa. We respect your privacy. That is why we don't ever sell your email address, and we don't ever spam. What this privacy policy covers: 
+This Privacy Policy is effective as of April 15, 2009. 
 
-  * This privacy policy pertains to the use of the PR Leap website at http://www.prleap.com/
-  * This privacy policy covers how PR Leap treats personal information that PR Leap collects and receives. Personal information about you that is personally identifiable like your name, address, email address, or phone number.
-  * You must be 18 years of age to use PR Leap service and this privacy policy makes no provision for childrenÕs use of the site.
+PRLeap.com is the website of Condesa. 
 
+We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.prleap.com ("Site" or "Service").This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes. 
 
+PR Leap is a newswire service which distributes press releases on behalf of our users. If you submit a press release for distribution through our system, we will transmit your entire press release including any personal information therein contained to our media contacts and online distribution points including search engines. 
 
-**Information collection and how it's used**
+By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US. 
 
-  * PR Leap collects personal information you register with PR Leap to use PR Leap services or to post content on PR Leap.
-  * When you register we ask for your email address, name, company name, address, phone number, and website address.
-  * If you would like to obtain a paid ("Pro") account, we will ask for your billing address and credit card information. 
-  * PR Leap automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request. 
-  * PR Leap uses information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+Any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us via our help desk here: <http://www.prleap.com/contact_us>
 
+We do not share user information with any third parties other than via press release distribution as described above. 
 
+Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one. 
 
-**Information Sharing and Disclosure**
+**Information Collected Upon Registration.**   
+If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to PR Leap. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with. 
 
-  * When you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. PR Leap does not rent or sell your personal information.
-  * PR Leap does not share or sell information with other organizations for commercial purposes, except to provide products or service youÕve requested and in the following circumstances: 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
-  * PR Leap may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims;
-    * We will transfer information about you if Condesa or PR Leap is acquired by or merged with another company. In this event, Condesa will notify you by email or by putting a prominent notice on the PR Leap web site before information about you is transferred and becomes subject to a different privacy policy. PR Leap may share demographic information with business partners, such as "69% of users who regularly use PR Leap service are between 24 and 35" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)
-  * PR Leap displays targeted advertisements based on personal information that is exhibited in people's profiles. "When you register with us, your personal information and other data will be stored and processed in the United States and this information may be subject to the laws of these jurisdictions.
+**Use of Contact Information**   
+In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications. 
 
+**Log Data**   
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service. 
 
-
-**Information Rights and Publicity**
-
-Unless you notify Condesa otherwise in writing, You hereby grant to Condesa and PR Leap and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features ("Brand Features") in presentations, marketing materials, web sites, customer lists, and financial reports. 
-
-**Editing and deleting account information. Security.**
-
-  * You can change your PR Leap Account information, at any time.
-  * We may send you certain communications relating to the PR Leap service, such as service announcements and administrative messages, that are considered part of your PR Leap account.
-  * You can request to delete your PR Leap account at any time from the help desk. Please note that your identification, billing and contact information may remain in PR Leap's records for some period.
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * Your PR Leap Account Information is password-protected.
-  * In certain areas, PR Leap uses SSL-encryption to protect data transmissions.
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * Cookies are required to use the PR Leap service.
+  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to the Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
 
 
-**Changes to this Privacy Policy**
+**Service Providers**   
+We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
 
-PR Leap may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your PR Leap account or by placing a prominent notice on our site. 
+**Compliance with Laws and Law Enforcement**   
+Condesa cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Condesa or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law, or when your actions violate the [Terms of Service](http://www.prleap.com/terms). 
 
-If you have questions or suggestions please use you the help form or you can contact us here. 
+**Business Transfers**   
+Condesa may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy. 
 
-Effective Date: October 18, 2006. 
+  * If you are a registered user of the Site, you may access and update or correct the information you provided to us at anytime by logging into your account here: <https://secure.prleap.com/>
+  * You can request to delete your PR Leap account at any time from the help desk here: <http://www.prleap.com/contact_us>. Please note that your identification, billing and contact information may remain in PR Leap's records for some period.
+
+
+
+Condesa is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. 
+
+We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+
+Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us via the help dek here: <http://www.prleap.com/contact_us>. We do not knowingly collect personally identifiable information from children under 18. If we become aware that a child under 18 has provided us with personal identifiable Information, we will delete such information from our files. 
