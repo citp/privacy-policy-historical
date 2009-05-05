@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itrust.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123706id_/http%3A//www.itrust.in/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrust.in privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505073216id_/http%3A//itrust.in/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy - iTrust
 
-We (Indian Dream Financial Advisors Pvt. Ltd using brand name - “iTrust”) receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as providing response to your queries.
+We (iTrust Financial Advisors Pvt. Ltd using brand name - "iTrust") receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as providing response to your queries.
 
 Where you provide personal information, we will only use it to deliver the services you have requested. 
 
