@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itrust.in privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217123706id_/http%3A//www.itrust.in/privacy-policy.action) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itrust.in privacy policy that was archived on 2009-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090505073216id_/http%3A//itrust.in/privacy-policy.action) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Privacy Policy - iTrust</title>
@@ -15,10 +15,20 @@
 <div id="container">
 			
 
+
+
+<script language="javascript" src="/js/prototype.js"></script>
 <script language="JavaScript">
 var host="www.itrust.in";
 var context="";
 var appPath=host+context;
+function callurl(url){	
+//	new Ajax.Updater('popChat', url, { method: 'get', evalScripts: true });	
+	//document.getElementById('popChat').style.display='block';
+	// alert(document.getElementById('popChat').innerHTML);	
+	abc = window.open(url, 'ChatWindow', "menubar=no,width=500,height=400,toolbar=no,scrollbars=yes,resizable=yes");
+	 return false;
+}
 </script>
 
 			
@@ -31,12 +41,12 @@ var appPath=host+context;
 <!--sphider_noindex-->
  <!-- robots content="noindex" -->
 <div id="logo">
-  <div class="left"><span><img src="/images/Logo-tagline.gif" alt="iTrust " width="451px" height="46px" border="0" usemap="#Map" title="Home"></span><span>
+  <div class="left"><img src="/images/Logo-tagline.gif" alt="iTrust " width="451px" height="46px" border="0" usemap="#Map" title="Home">
     <map name="Map" id="Map">
       <area shape="rect" coords="4,4,144,44" href="/Home.action">
     </map>
-  </span></div>
-	<div class="right">
+  </div>
+<div class="right">
 	  <div>
 		<img src="/images/header-top-link.gif" width="500px" height="32px" border="0" usemap="#Map2">
 <map name="Map2" id="Map2">
@@ -49,25 +59,36 @@ var appPath=host+context;
 
 
 
-<form action="/jsp/search-result.jsp" id="cse-search-box">
+<!--<form action="/jsp/search-result.jsp" id="cse-search-box" > -->
 	<div id="searchitrustHome">
-	<table border="0">
-  <tbody><tr>
-    <td width="127" height="24"> <input type="hidden" name="cx" value="006755403550724762631:gadwc0sjsxg">
-  <input type="hidden" name="cof" value="FORID:11"></td>
-    <td width="144" align="center"><input type="text" id="itrust" name="q" class="textbox"></td>
-    <td width="65" align="left"><input name="submit" src="/images/search-button.gif" width="55px" height="20px" border="0" type="image" value="Search" onclick="javascript:if(document.getElementById(&quot;itrust&quot;).value == &quot;&quot; ){alert(&quot;Please enter search parameter&quot;); return false;}else{document.google_custom_search.submit();}"></td>
+	  <!--<table  border="0" >
+  <tr>
+    <td width="39" height="24"> <input type="hidden" name="cx" value="006755403550724762631:gadwc0sjsxg" />
+  <input type="hidden" name="cof" value="FORID:11" /></td>
+    <td width="189" align="center" ><input type="text" id="itrust" name="q" class="textbox" onblur="if (this.value == '') { this.value = 'Search iTrust.in'; }" onfocus="if (this.value == 'Search iTrust.in') { this.value = ''; }" value="Search iTrust.in" /></td>
+    <td width="108" align="left"  ><input name="submit"   src="/images/search-button.gif" width="55px" height="20px"  border="0" type="image" value="Search" onclick='javascript:if(document.getElementById(&quot;itrust&quot;).value == &quot;&quot; ){alert(&quot;Please enter search parameter&quot;); return false;}else{document.google_custom_search.submit();}'/></td>
  
-   <td width="70" style="padding-top:3px;">
-   <a href="/rss/rssFeed.xml" alt="RSS Feed" title="RSS Feed">
-   <img src="/images/itrust-rss.gif" border="0" alt="RSS Feed" title="RSS Feed"> </a>  </td>
+   <td width="40" >
+     </td>
    
    </tr>
 
+</table> -->
+	<!-- TODO: 1) Make this  left aligned when done with soft release-->
+	  <table width="236" border="0" cellspacing="0" align="right">
+  <tbody><tr>
+     <td width="37" align="left"><a href="" onclick="callurl('/jsp/chatlayout.jsp'); return false;"><img src="/images/chat_link.gif" border="0" alt="Chat With Our Experts" title="Chat With Our Experts">  </a>	 </td>
+	
+     
+  
+    <td align="center" style="padding-left:10px;" valign="middle"><a href="/rss/rssFeed.xml" rel="nofollow" alt="RSS Feed" title="RSS Feed">
+   <img src="/images/itrust-rss.gif" border="0" alt="RSS Feed" title="RSS Feed"> </a></td>
+  </tr>
+  
 </tbody></table>
 
 </div>	
-</form>
+<!--</form> -->
 
 
 	
@@ -89,7 +110,7 @@ var appPath=host+context;
 		<div id="talkToUsDiv">
 			<img id="loadingImage" src="/images/loading.gif" style="display:none">
 						
-<form id="talk_To_Us_Index" name="talk_To_Us_Index" onsubmit="return true;" action="/talk_To_Us_Index.action" method="post">
+<form id="talk_To_Us_Index" name="talk_To_Us_Index" onsubmit="return true;" action="/talk_To_Us_Index.action;jsessionid=96820D306C7CB9C0205F03111DC97FDA" method="post">
 
 			<table width="410" border="0">
   <tbody><tr>
@@ -153,6 +174,33 @@ var appPath=host+context;
 		<span class="time">Monday - Saturday 9:30AM to 6:30PM IST </span>
 		</div>
 </div></div>	
+
+
+
+
+
+<div id="popnewsletter" style="DISPLAY: none">
+<div style="text-align:right"><a onclick="clearAndClose(document.getElementById('popnewsletter')); return false;" href=""><span style="color:#0099FF;font-family:Arial, Helvetica, sans-serif; font-size:12px;">Close</span></a> </div>
+<div>
+ <div class="heading">Subscribe iTrust Newsletter</div>
+ <form action="http://itrust.list-manage.com/subscribe/post" method="POST" target="_blank">
+ 		<input type="hidden" name="u" value="a012a53b0d530bb7bbf1cda10">
+        <input type="hidden" name="id" value="0ead40990b">
+        <table width="258" align="center" cellpadding="2" cellspacing="3">
+        <tbody><tr>
+        <td width="165" style="line-height: 150%;font-family: Arial;font-size: 12px;color: #333333;">
+     <strong>Email Address</strong> <em>*</em><br>
+            <input type="text" name="MERGE0" size="25" value="" style="width: 150px;">
+           
+            </td>
+          <td width="74" valign="bottom">
+        <input type="submit" value="Subscribe">        </td>
+        </tr>
+        </tbody></table>
+        </form>
+</div>
+</div>
+
  <!-- /robots -->
 <!--/sphider_noindex-->					  
 
@@ -168,8 +216,16 @@ var appPath=host+context;
  <!-- robots content="noindex" -->
 <div id="topNav">
 <ul>
-	<li id="normal"><a href="/Home.action" title="Home">Home</a></li>
-	<li id="normal"><a href="/financial-planning.action" title="Financial Planning">Financial Planning</a></li>
+		
+       <li id="normal"><a href="/Home.action" title="Home">Home</a></li>
+        <li id="normal"><a href="/financial-planning.action" title="Financial Planning">Financial Planning</a></li>
+        
+         <li> 
+         </li>  
+     
+     <li id="normal"><a href="/tax-planning.action" title="Tax"> &nbsp;Tax &nbsp; </a></li>
+     
+         
 	<li id="normal"><a href="/real-estate.action" title="Real Estate">Real Estate</a></li>
 	<li id="normal"><a href="/home-loan.action" title="Home Loan">Home Loans</a></li>
 	<li id="normal"><a href="/life-insurance.action" title="Life Insurance">Life Insurance</a></li>
@@ -180,6 +236,7 @@ var appPath=host+context;
 	<li id="normal"><a href="/fixed-deposit.action" title="Fixed Deposits">Fixed Deposits</a></li>
 
 	<li id="normal"><a href="/nri.action" title="NRI">&nbsp;NRI&nbsp;</a></li> 
+        
 		
 		
 	
@@ -241,7 +298,7 @@ var appPath=host+context;
 	<div class="boxtopHI"></div>
 	
 	<div class="boxmiddleHI">
-		<p>We (Indian Dream Financial Advisors Pvt. Ltd using brand name - “iTrust”) receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as providing response to your queries.</p>
+		<p>We (iTrust Financial Advisors Pvt. Ltd using brand name - "iTrust") receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as providing response to your queries.</p>
 		<p>Where you provide personal information, we will only use it to deliver the services you have requested. </p>
 		<p>The iTrust site does not automatically capture or store personal information, other than logging your IP address and session information such as length of your visit and the type of browser used. This is recognised by the web server. These data are only used for system administration and to provide user statistics, which we use to evaluate how the site is being used and how we can improve usability.</p>
 		<p>We use cookies to make sure your session on this website is secure. We also use embedded pixels, with cookies. These help us track how many people are using our site. These collect data about the paths that users take when navigating our website. We use this information to evaluate site content, navigability and composition, as well as page response rates (how quickly pages download). With both cookies and embedded pixel technology, the information we collect is anonymous and does not contain your name, address, telephone number, or email address. We cannot personally identify you. </p>
@@ -261,23 +318,44 @@ var appPath=host+context;
 
 
 <div id="footer">
-	<div><a href="/AboutUs.action">About Us</a> |
+<table width="100%" border="0" cellspacing="2">
+  <tbody><tr>
+    <td align="center"><table width="290" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+      <tbody><tr>
+        <td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.itrust.in&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+        <td width="155" valign="middle" style="font:11px/16px Arial,sans-serif; color:#000000;">iTrust uses VeriSign <a href="http://www.verisign.com/ssl-certificate/" target="_blank">SSL</a> for secure e-commerce and confidential communications.</td>
+      </tr>
+    </tbody></table></td>
+    </tr>
+  <tr>
+    <td>
+    
+   
+
+
+
+	<div><a href="/AboutUs.action" rel="nofollow">About Us</a> |
 	<a href="/Different.action" rel="nofollow">Why is iTrust different</a> | 
 	<a href="/Services.action" rel="nofollow">Services</a> |
-	<a href="/Team.action">Team</a> |
-	<a href="/Careers.action">Careers</a> |
+	<a href="/Team.action" rel="nofollow">Team</a> |
+	<a href="/Careers.action" rel="nofollow">Careers</a> |
 	<a href="/AdvisoryBoard.action" rel="nofollow">Advisory Board</a> | 
-	<a href="/Partners.action" rel="nofollow">Partners</a> |
-	<a href="/media.action">iTrust in the Media </a> |
-    <a href="/ContactUs.action" rel="nofollow">Contact Us</a> | 
-    <a href="/SiteMap.action">Sitemap</a>  <br>   
+	<a href="/media.action" rel="nofollow">iTrust in the Media </a>  | 
+    <a href="/Partners.action" rel="nofollow">Partners</a>  <br> 
+    <a href="/ContactUs.action" rel="nofollow">Contact Us</a> |
+    <a href="/SiteMap.action" rel="nofollow">Sitemap</a>  |
 	<a href="/Disclaimer.action" rel="nofollow">Disclaimer</a> |
-	<a href="/privacy-policy.action">Privacy Policy</a> | 
-    <a href="/complaint-redressal-process.action">Complaint Redressal </a>    
-	
+	<a href="/privacy-policy.action" rel="nofollow">Privacy Policy</a> | 
+    <a href="/complaint-redressal-process.action" rel="nofollow">Complaint Redressal</a> | 
+<!--<a href="/hot-topics/archivedHotTopics.action" rel="nofollow">Hot Topics Archive </a> -->
 	</div>
-  <p class="footerCopyright">© 2007 Indian Dream Financial Advisors Pvt. Ltd. All Rights Reserved.<br>
-	[Best viewed under 1024 X 768 + resolution.]</p>
+ 
+
+  <p class="footerCopyright">© 2007 <a href="/Home.action">iTrust Financial Advisors </a>  Pvt. Ltd. All Rights Reserved.  
+   [Best viewed under 1024 X 768 + resolution.]  </p>  </td>
+    </tr>
+</tbody></table>
+
 </div>
 <!--?xml version="1.0" encoding="UTF-8" ?-->
 
@@ -291,6 +369,10 @@ var pageTracker = _gat._getTracker("UA-2388188-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
+
+
+ 
 		</div>
 		</div>
 
