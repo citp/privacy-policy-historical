@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125335id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505022630id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # DownloadPipe.com Privacy Policy
 
@@ -15,6 +15,10 @@ Information submitted through our order forms is saved in a customer database. T
 DownloadPipe.Com does **NOT** sell this information to anyone for any reason.
 
 Federal law requires us to keep a record of your transactions with us for a minimum of 3 years after purchase in order to provide credit card companies with proof of purchase. This information includes credit card numbers, expiration dates, and transaction response codes. This information is saved in an encrypted state and is not available through the Internet to prevent malicious hackers from gaining access to this information.
+
+## Advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google's use of the "DART" cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ## External Links
 
