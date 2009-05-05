@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianproducts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094835id_/http%3A//www.asianproducts.com/service/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianproducts.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506002038id_/http%3A//www.asianproducts.com/service/privacy_policy.php) for the most accurate reproduction.*
 
 # Asian Products--Import Export Directory for Importers, manufacturers, exporters,suppliers
 
@@ -6,4 +6,8 @@ Whilst we encourage all visitors to our website to register with us, you are fre
 
 When we collect personal information from you, it is in order for us to identify you personally, and to quantify your specific requirements. This information is only collected in order to allow access to specialized online areas and services which you have requested. 
 
-Should you register with AsianProducts, we may use your personal information to contact you regarding products and or services we feel may be of interest to you. You can opt out from receiving such messages at any time. 
+Should you register with AsianProducts, we may use your personal information to contact you regarding products and or services we feel may be of interest to you. You can opt out from receiving such messages at any time.
+
+We respect your privacy, and will **NEVER** sell or pass on your personal information to anyone. It is for AsianProducts use only.
+
+AsianProducts provide links to other websites, and we are in no way responsible for the content of these sites and their privacy policies.
