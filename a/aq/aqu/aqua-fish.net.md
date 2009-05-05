@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094906id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505081339id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
 
 # Tropical freshwater aquarium fish: [EN] Privacy Policy
 
@@ -56,6 +56,8 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Controlling your personal information**
 
