@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013440id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505180045id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,8 @@ We also use non-personally identifiable information to improve our site and your
 Like most commercial websites, our site collects information about our visitors including how they came to our site, what browsers they use, what pages they visit, how long they spend on the site, from which pages they left our site, and to which sites they went to when they left our site. We use this information to improve our site and may share it with third party organizations.
 
 In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.
+
+Some of the advertising appearing on our sites is served by Google, Inc. Some of their advertising is [interest-based](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
 
 Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. 
 
