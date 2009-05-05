@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225145742id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505123221id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
 
 # Tour the International Culinary Center
 
