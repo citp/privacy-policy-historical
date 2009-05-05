@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908115610id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505092112id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
