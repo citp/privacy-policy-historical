@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the screencast.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219103817id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screencast.com privacy policy that was archived on 2009-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090506004845id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_masterHead"><title>
 	Privacy Policy
@@ -18,12 +18,63 @@
          
 <!--[if IE 6]>
       <style>
-      #headerLinksRight { margin-right: 10px; }
+      #logoLink
+      {
+         margin-left: 12px;
+      }
+      
+      .helpWidgetBox
+      {
+         margin-right: 17px;
+      }
+      
+      .loggedIn
+      {
+         margin-right: -5px;
+      }
+      .headerTable
+      {
+        width: 1000px;
+      }
       </style>
    <![endif]-->
-<div class="headerDiv">
-   <div id="header">      
-      
+<div id="ctl00_headerControl_headerPanel">
+	
+   <div class="headerDiv">
+      <div id="header">
+         <table id="headerTable" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+               <td rowspan="2" valign="bottom" style="vertical-align: bottom">
+                  <table>
+                    <tbody><tr>
+                       <td valign="bottom" style="vertical-align: bottom">
+                          <div id="ctl00_headerControl_LogoPanel">
+		
+                             <a href="http://www.screencast.com/">
+                                <img id="logoLink" src="/img/header/screencastlogo.gif" alt="Screencast.com" style="margin-left: 15px;"></a>
+                          
+	</div>
+                       </td>
+                       <td valign="bottom" style="vertical-align: bottom"> 
+                          <div id="ctl00_headerControl_LinkPanel">
+		
+                             <ul id="headerLinks">
+                                <li style="margin-left: -2px; padding-left: 0px;"><a href="http://www.screencast.com/tour.aspx">Tour</a></li>
+                                <li id="pricingMenuItem"><a href="http://www.screencast.com/pricing.aspx">Pricing</a></li>
+                                <li id="toolsMenuItem"><a href="http://www.screencast.com/tools.aspx">Tools</a></li>
+                                <li id="signUpMenuItem"><a class="importantMenuItem" href="http://www.screencast.com/signup.aspx">Sign Up</a></li>
+                                <li id="buyNowMenuItem" style="display: none;"><a class="importantMenuItem" href="/handlers/purchaseredirect.ashx?purchaseLink=">
+                                   Buy Now</a></li>
+                             </ul>
+                          
+	</div>           
+                       </td>
+                    </tr>
+                  </tbody></table>
+                  
+               </td>
+               <td nowrap="" style="vertical-align: top; height: 30px;">
+                  
 <div id="signinControl">
    <div id="ctl00_headerControl_signin_signinForm" class="signinForm">
       <form id="signinControlForm" action="https://www.screencast.com/signin.aspx" method="post">
@@ -158,19 +209,12 @@ function focusPassword( e, losingFocus )
 }
 </script>
 
-      
-      <div style="clear: both;">
-         <a href="http://www.screencast.com/"><img id="logoLink" src="/img/header/screencastlogo.gif" alt="Screencast.com Logo"></a>
-         <ul id="headerLinks">
-            <li><a href="http://www.screencast.com/tour.aspx">Tour</a></li>
-            <li id="pricingMenuItem"><a href="http://www.screencast.com/pricing.aspx">Pricing</a></li>
-            <li id="toolsMenuItem"><a href="http://www.screencast.com/tools.aspx">Tools</a></li>
-            <li id="signUpMenuItem"><a class="importantMenuItem" href="http://www.screencast.com/signup.aspx">Sign Up</a></li>
-            <li id="buyNowMenuItem" style="display: none;"><a class="importantMenuItem" href="/handlers/purchaseredirect.ashx?purchaseLink=">Buy Now</a></li>
-         </ul>
-
-         <div class="myLibrary">
-            <div class="helpWidgetBox">
+               </td>
+            </tr>
+            <tr>
+               <td valign="bottom" style="vertical-align: bottom">
+                   <div class="helpWidgetBox">
+                      
    <!--[if IE 6]>
       <style>
       .helpAnswer { width: 220px; margin-right: -30px; }
@@ -193,37 +237,42 @@ function focusPassword( e, losingFocus )
                <br><div class="helpAnswer" id="help_340"><p>The <em>Account Information</em> page is an overview of your Screencast.com account. This page is where you make changes to your Display Name, password, and email address.</p>... <a href="http://www.screencast.com/answers/Default.aspx?id=340" target="scHelp">more</a></div>
             </li>
          
-      
-      <li id="helpLast">Need more help?  Visit the <a class="helpCenter" href="http://www.screencast.com/answers/" target="scHelp">help center</a> or 
-         <a class="helpCenter" href="http://blog.screencast.com/" target="scBlog">blog</a>.
+      <li id="helpLast">Need more help?  Visit the <a class="helpCenter" href="http://www.screencast.com/answers/" target="scHelp">help center</a>.
          </li>
       </ul>
    </div>
-</div>
-         </div>
+
+                   </div>
+               </td>
+            </tr>
+         </tbody></table>
+         
       </div>
-      <br>
    </div>
+
+   <script type="text/javascript">
+      // Load the appropriate menu items for this users...
+      if ("False" == "True") {
+         // This user is logged in...
+         var pricing = document.getElementById("pricingMenuItem");
+         var signup = document.getElementById("signUpMenuItem");
+         if ( pricing != null ) { pricing.style.display = "none"; }
+         if ( signup != null ) { signup.style.display = "none"; }
+      }
+
+      if ("False" != "True") {
+         var buynow = document.getElementById("buyNowMenuItem");
+         if (buynow != null) { buynow.style.display = "none"; }
+      }
+      else {
+         var pricing = document.getElementById("pricingMenuItem");
+         if (pricing != null) { pricing.style.display = "block"; }
+      }
+   </script>
+
+
 </div>
 
-<script type="text/javascript">
-// Load the appropriate menu items for this users...
-if ( "False" == "True" )
-{
-   // This user is logged in...
-   document.getElementById( "pricingMenuItem" ).style.display = "none";
-   document.getElementById( "signUpMenuItem" ).style.display = "none";
-}
-
-if ( "False" != "True" )
-{
-   document.getElementById( "buyNowMenuItem" ).style.display = "none";
-}
-else
-{
-   document.getElementById( "pricingMenuItem" ).style.display = "block";
-}
-</script>
          
    
 
@@ -537,19 +586,32 @@ function displayInfo( statusMsg, append, timeout )
       </div>
    </div>
 
-         
-<div class="footerDiv">
-   <ul id="footer">
-      <li><a href="http://www.screencast.com/about.aspx">About</a></li>
-      <li><a href="http://www.screencast.com/answers" target="scHelp">Help Center</a></li>
-      <li><a href="http://blog.screencast.com/" target="scBlog">Blog</a></li>
-      <li><a href="http://www.screencast.com/feedback.aspx" target="scPop">Send Feedback</a></li>
-      <li><a href="http://www.screencast.com/privacy.aspx">Privacy Policy</a></li>
-      <li><a href="http://www.screencast.com/tos.aspx">Terms of Service</a></li>
-   </ul>
-   <ul id="footerTsc">
-      <li><a href="http://www.techsmith.com/" target="_blank"><img src="/img/footer/poweredbytsc.gif" alt="Powered by TechSmith"></a></li>
-   </ul>
+         <div id="ctl00_footerControl_footerPanel">
+	
+   <div class="footerDiv">
+      <div id="ctl00_footerControl_FooterLinks">
+		
+         <ul id="footer">
+            <li><a href="http://www.screencast.com/about.aspx">About</a></li>
+            <li><a href="http://www.screencast.com/answers" target="scHelp">Help Center</a></li>
+            <li><a href="http://blog.screencast.com/" target="scBlog">Blog</a></li>
+            <li><a href="http://www.screencast.com/feedback.aspx" target="scPop">Send Feedback</a></li>
+            <li><a href="http://www.screencast.com/privacy.aspx">Privacy Policy</a></li>
+            <li><a href="http://www.screencast.com/tos.aspx">Terms of Service</a></li>
+         </ul>
+      
+	</div>
+      <div id="ctl00_footerControl_FooterLogo">
+		
+         <ul id="footerTsc">
+            <li><a href="http://www.techsmith.com/" target="_blank">
+               <img src="/img/footer/poweredbytsc.gif" alt="Powered by TechSmith"></a></li>
+         </ul>
+      
+	</div>
+      <br clear="all">
+   </div>
+
 </div>
 
       </div>
