@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050513id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506005004id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Auto Parts, Car Parts, Truck Accessories, Truck Parts and Car Accessories at Streetsideauto.com
+
+30 Years in Business - Satisfaction Guaranteed · Largest In-Stock Inventory · Free Shipping on Orders Over $50* 
 
 For each visitor within StreetSide Auto's Web sites, our Web server automatically recognizes the visitor's domain name. We also collect the e-mail addresses of those who communicate with us via e-mail; aggregate information on what pages visitors access; and information volunteered by the visitor, such as survey information and/or site registrations.
 
