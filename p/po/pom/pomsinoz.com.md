@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026182413id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505105751id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PomsInOz.com Forum - Privacy Statement
 
@@ -21,5 +21,7 @@ You can opt-out of email communications at any time by changing your 'subscripti
 You can be personally identified throughout the site by your username / profile. In addition we provide a number of ways in which other members can communicate with you as a networking tool. We provide you with the facility to change your settings within 'subscriptions' to disable these communications. We cannot be held liable for the content of such communications.
 
 You can at any time review, and change your personally identifiable information by changing the settings in 'my profile'. We have taken all reasonable steps to ensure this information is held securely and we further state not to reveal your contact details to a third party under any circumstances, other that with your specific consent. 
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads based on visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 If you have any questions regarding this privacy policy please [contact us](http://www.pomsinoz.com/forum/sendmessage.php).
