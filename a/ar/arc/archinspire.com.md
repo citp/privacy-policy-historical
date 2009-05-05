@@ -1,53 +1,51 @@
-> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220054352id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505134813id_/http%3A//archinspire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Design Ideas | Decorating | Gardening - Archinspire.Com
 
-**Archinspire.Com Privacy Statement**
+Hello, thanks for visiting Archinspire.Com. Track last update from archinspire.com by subscribe to our feed :).
 
-What follows is the Privacy Statement for all **Archinspire.Com** websites including all the websites run under the **Archinspire.Com** domain.
+1\. Archinspire.Com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of Archinspire.Com and are only used for troubleshooting purposes.
 
-Please read this statement regarding our websites. If you have questions please ask us via our contact form.
+**Information we collects**
 
-**Email Addresses**
+2\. Archinspire.Com generally collects personally identifying information with your specific knowledge and consent. When you register to become a member of Archinspire.Com and subscribe to our services, you are asked to provide information, such as your e-mail address, name and/or other information.
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+**Use of this information**
 
-**Ownership of Information**
+3\. Archinspire.Com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice.
 
-Archinspire.Com is the sole owner of any information collected on our websites.
+4\. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-**Comments/Message Boards**
-
-Archinspire.Com websites may contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+5\. We may allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. Archinspire.Com does not bear any responsibility for any actions or policies of third parties.
 
 **Cookies**
 
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+6\. Archinspire.Com may use cookies to keep some information that are placed by a Web site in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies.
 
-**Third Party Cookies**
+7\. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. AircraftMania.Com does not have access to this data.
+8\. If you don’t want cookies stored on your computers, your Web browser would likely include an option that allows you to not accept cookies. However, if you set your browser to refuse cookies, some portions of Archinspire.Com may not function properly.
 
-**Traffic Reports**
+**Ad Servers**
 
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+9\. To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense) that use the DART cookie enables, Chitika, Commission Junction, etc., that place ads on our web site. As a result of your visit to our site, ad server companies, with the help of cookies, may collect information such as your domain type, your IP address and clickstream information. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For further information, consult the privacy policy of each those websites. Privacy Policy of Google and how to opt out of the user of DART cookie is available at [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-**Legal proceedings**
+10\. While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
-We will make every effort to preserve user privacy but Archinspire.Com may need to disclose information when required by law.
+**Children**
 
-**Business Transitions**
+10\. Archinspire.Com is not intended for use by minors or children, especially those under age 18. No one under age 18 is allowed to provide any personal information or use our public discussion areas, forums and/or chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardians(s) before using our services, including registration and/or subscriptions to our services offered by this site.
 
-If Archinspire.Com is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
+11\. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Archinspire.Com cannot be held responsible for any action by your children while using our services, with or without your consents.
 
-**Links**
+**Links to other Web sites**
 
-Archinspire.Com websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by Archinspire.Com
+12\. This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-**Notification of Changes**
+**Revision of this Privacy Policy**
 
-When Archinspire.Com makes changes to this privacy policy we will post those changes here.
+13\. This Privacy Policy may be modified from time to time without any prior notice to the visitors. Continued access of Archinspire.Com by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of Archinspire.Com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-**Contact Information**
+**Contacting Us**
 
-If you have any questions regarding our privacy policy, please contact us via our comment form.
+14\. This is the website of Archinspire.Com. We can be reached via [contact us page](http://archinspire.com/contact-us). If you feel that this site is not following its stated information policy, you may [send message to us](http://archinspire.com/contact-us).
