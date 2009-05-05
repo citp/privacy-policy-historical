@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222163953id_/http%3A//www.fireeye.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505225036id_/http%3A//www.fireeye.com/misc/privacy.html) for the most accurate reproduction.*
 
-# FireEye Web Privacy Policy
+# FireEye Web » Privacy Policy
 
 ## FireEye Online Privacy Statement
 
