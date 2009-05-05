@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the hcdistrictclerk.com privacy policy that was archived on 2008-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080212150533id_/http%3A//www.hcdistrictclerk.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcdistrictclerk.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505212509id_/http%3A//www.hcdistrictclerk.com/Common/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Office of Harris County District Clerk - Loren Jackson | Privacy Policy
 
-|  |  |   
----  
-|  Privacy Policy | Web Site Privacy Policy  
----  
-  
-* * *  
-  
 The Harris County District Clerk's Technical Services Bureau maintains the Web site for the Office of the District Clerk of Harris County, Texas as a public service. The following is the privacy policy for this site.
 
   1. When you log into our Web site, a small cookie will automatically be placed on your PC. The information gathered by the cookie is not reported or used in any manner that would reveal personally identifiable information. Note: A cookie file contains unique information a Web site can use to track such things as password, lists of pages you've visited, and the date when you last looked at a specific page or to identify your session at a particular Web site. A cookie is often used in commercial sites to identify the items selected for a specific shopping cart application.
@@ -31,6 +24,4 @@ We use log analysis tools to create summary statistics, which are used for purpo
   * **Protocol-** The transport protocol and version used.
 
   
-|  |  |  |   
----  
-|  |  |  | 
+
