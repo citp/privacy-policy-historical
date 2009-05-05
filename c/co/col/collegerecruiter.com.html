@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216013440id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegerecruiter.com privacy policy that was archived on 2009-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090505180045id_/http%3A//www.collegerecruiter.com/pages/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<!--declaration-->
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="/includes/screen.css">
+<link rel="stylesheet" type="text/css" href="/includes/screen.css" media="screen">
 <script src="/include/themes/classic/main.js"></script>
 <title> Entry Level Jobs and Internships </title>
 <meta http-equiv="description" content="Entry level jobs and internships.">
@@ -14,7 +15,7 @@
 
 <style>
 #int_page{
-	position:fixed;
+	position:fixed; 
 	top:0px;
 	left:20px;
 	height:445px;
@@ -91,46 +92,44 @@ var request2 = null;
 						if(data.error != '')
 						{
  							//alert(data.error);
-				var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
-	
-				var params = 'name='+document.getElementById('appr_name').value;
+							var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
 				
-				params+= '&email_address='+ document.getElementById('appr_from').value;
-				params += '&comments='+document.getElementById('coverletter').value;
-				params += '&filename='+document.getElementById('fileToUpload').value;
-				params += '&post_id='+document.getElementById('int_post_id').value;
-				params += '&notification='+document.getElementById('checkId').value;
-				
-				
-				request2.open("POST", url, true);
-				//Send the proper header information along with the request
-				request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-				request2.setRequestHeader("Content-length", params.length);
-				request2.setRequestHeader("Connection", "close");
-				request2.onreadystatechange =updatersvp;
-				request2.send(params);
-						}else
-						{
-							//alert(data.msg);
+							var params = 'name='+document.getElementById('appr_name').value;
 							
-				var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
-	
-				var params = 'name='+document.getElementById('appr_name').value;
+							params+= '&email_address='+ document.getElementById('appr_from').value;
+							params += '&comments='+document.getElementById('coverletter').value;
+							params += '&filename='+document.getElementById('fileToUpload').value;
+							params += '&post_id='+document.getElementById('int_post_id').value;
+							params += '&notification='+document.getElementById('checkId').value;
+							
+							
+							request2.open("POST", url, true);
+							//Send the proper header information along with the request
+							request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request2.setRequestHeader("Content-length", params.length);
+							request2.setRequestHeader("Connection", "close");
+							request2.onreadystatechange =updatersvp;
+							request2.send(params);
+						}else{
+							//alert(data.msg);
+							var url = "http://www.collegerecruiter.com/include/ajaxfileupload/interstitial.php";
 				
-				params+= '&email_address='+ document.getElementById('appr_from').value;
-				params += '&comments='+document.getElementById('coverletter').value;
-				params += '&filename='+document.getElementById('fileToUpload').value;
-				params += '&post_id='+document.getElementById('int_post_id').value;
-				params += '&notification='+document.getElementById('checkId').value;
-				
-				
-				request2.open("POST", url, true);
-				//Send the proper header information along with the request
-				request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-				request2.setRequestHeader("Content-length", params.length);
-				request2.setRequestHeader("Connection", "close");
-				request2.onreadystatechange =updatersvp;
-				request2.send(params);
+							var params = 'name='+document.getElementById('appr_name').value;
+							
+							params+= '&email_address='+ document.getElementById('appr_from').value;
+							params += '&comments='+document.getElementById('coverletter').value;
+							params += '&filename='+document.getElementById('fileToUpload').value;
+							params += '&post_id='+document.getElementById('int_post_id').value;
+							params += '&notification='+document.getElementById('checkId').value;
+							
+							
+							request2.open("POST", url, true);
+							//Send the proper header information along with the request
+							request2.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request2.setRequestHeader("Content-length", params.length);
+							request2.setRequestHeader("Connection", "close");
+							request2.onreadystatechange =updatersvp;
+							request2.send(params);
 						}
 					}
 				},
@@ -146,15 +145,16 @@ var request2 = null;
 
 	}
 
-
-function registrationByMail()
+function registrationByMail_iphone()
 {
+
+	
 	var error='';
 	if(document.getElementById('appr_name').value=='')
 	error="Please fill name.\n";
 	
 	if(document.getElementById('appr_from').value==''){
-	error+="Email address is required.\n";
+	error+="Please fill email address.\n";
 	}
 	if(document.getElementById('appr_from').value!=''){
 		check = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+[.][a-zA-Z]+[a-zA-Z.]*$/.test(document.getElementById('appr_from').value);
@@ -180,6 +180,7 @@ function registrationByMail()
 
 	if(error!=''){
 		alert(error);
+		showad();
 		return false;
 	}else{
 
@@ -187,7 +188,47 @@ function registrationByMail()
 	ajaxFileUpload();
 	
 	
+	}
+showad();
+return true;
+}
+
+
+
+
+function registrationByMail()
+{
 	
+	var error='';
+	if(document.getElementById('appr_name').value=='')
+	error="Please fill name.\n";
+	
+	if(document.getElementById('appr_from').value==''){
+	error+="Email address is required.\n";
+	}
+	if(document.getElementById('appr_from').value!=''){
+		check = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+[.][a-zA-Z]+[a-zA-Z.]*$/.test(document.getElementById('appr_from').value);
+		if (!check) 
+		{
+			error+="Please provide a valid email address.\n";
+		}
+	}
+
+
+	if(document.getElementById('fileToUpload').value!=''){
+		var sFileName=document.getElementById('fileToUpload').value;
+		var i = sFileName.lastIndexOf(".") ;
+		if (i == -1 || sFileName.substring(i,sFileName.length).toLowerCase() != ".doc" && sFileName.substring(i,sFileName.length).toLowerCase() != ".pdf" && sFileName.substring(i,sFileName.length).toLowerCase() != ".rtf")
+		{
+		error+="You can upload only .pdf, .rtf and .doc file.";
+		}
+	}
+	if(error!=''){
+		alert(error);
+		return false;
+	}else{
+	
+	ajaxFileUpload();
 	
 	}return true;
 }
@@ -214,6 +255,10 @@ function setValue()
 
 	}
 
+function showad() {
+	window.open('http://grz67.com/track/rd/65331552/10046/submit','_blank','scrollbars=yes,height=800,width=800,resizable=yes,toolbar=no,location=no,status=no');
+}
+
 	</script>
 
 <script type="text/javascript">
@@ -227,13 +272,12 @@ function setValue()
         }		
 </script>
 
-
 </head>
 <body onload="display();  banner();" id="sandbox" class="full">
 <div id="head">	
 <p id="tlinks"><a href="/myjobs/">My CollegeRecruiter.com</a> | <a href="/employers/">Employers &amp; Advertisers</a></p>
 	<div id="hwrap"><a href="/" id="logo"></a>
-		<p class="hlink"><a href="/jobs/">entry level jobs</a><a href="/internship/">internships</a><a href="/careers/">advice &amp; resources</a></p>
+		<p class="hlink"><a href="/jobs/">entry level jobs</a><a href="http://www.collegerecruiter.com/internship/">internships</a><a href="/careers/">advice &amp; resources</a></p>
 <script type="text/JavaScript" src="/scw/scw_js.php?lang=EN"></script>
 <form action="/index.php" method="get">
 <input type="hidden" name="action" value="search">
@@ -250,7 +294,7 @@ function setValue()
 </form>	
 <div id="adspace"><script language="javascript" type="text/javascript"><!--
 document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//--></script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID=19644533860.8491259797483064"></script><noscript><a href="http://a.tribalfusion.com/i.click?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" target="_blank"><img src="http://a.tribalfusion.com/i.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" width="468" height="60" border="0" alt="Click Here" /></a></noscript>
+//--></script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;pop=0&amp;requestID=19644535820.30290933178983015"></script><noscript><a href="http://a.tribalfusion.com/i.click?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" target="_blank"><img src="http://a.tribalfusion.com/i.ad?site=CollegeRecruitercom&amp;adSpace=JobBoard&amp;size=468x60&amp;requestID=710123390" width="468" height="60" border="0" alt="Click Here" /></a></noscript>
 	</div>
 </div>
 <h1>Privacy Policy: Disclosure Regarding Collection and Use of Information</h1>
@@ -277,6 +321,8 @@ document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.
 
 <p>In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.</p>
 
+<p>Some of the advertising appearing on our sites is served by Google, Inc. Some of their advertising is <a href="https://www.google.com/adsense/support/bin/answer.py?answer=100557">interest-based</a>.</p>
+
 <p>Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent. </p>
 
 <p>We have put in place physical, electronic, and other procedures to help keep your information safe and prevent unauthorized access. No security system is 100 percent safe from security breaches.  We cannot guaranty the security of the information collected on this website or information that you otherwise provide to us.  By using this website, you agree that you, and not us, bear the risk of any use or misuse of information about you due to a security breach.   Please note that credit card information submitted via this website is processed by a third party provider.  Further, when your information is provided to third party organizations their procedures will determine the safety of your data.  We cannot guarantee that they will keep your data as safe as you would want them to.</p>
@@ -297,30 +343,49 @@ document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.
 <!--<div id="col2">
 Left Column Will Go Here.
 </div>-->
+
+
 <div id="col3">
 <p>
-<a href="http://www.collegerecruiter.com/admanager/www/delivery/ck.php?oaparams=2__bannerid=1__zoneid=1__cb=bc457d4d87__maxdest=http://a.awopi.com/cgi/r?;n=203;c=471113;s=6844;x=7936;f=200810071510470;u=j;z=TIMESTAMP;hdr=471124" target="_blank">Get the best new job by completing your education at an on-line or a traditional, campus school.</a></p><div id="beacon_bc457d4d87" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.collegerecruiter.com/admanager/www/delivery/lg.php?bannerid=1&amp;campaignid=1&amp;zoneid=1&amp;cb=bc457d4d87" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><p></p><br>
+</p><br>
+
+<a href="http://sn.im/bnppv"><img src="/images/advertisements/180x150_recruit.gif"></a><br><br>
 
 	<b>Career Videos</b><br>
 	<iframe src="http://www.careertv.com/CollegeRecruiter/CR_Search.aspx?RefID=110&amp;keywords=internship" style="border: none; width: 200px; height: 200px;" scrolling="no" frameborder="0"></iframe><br>
 	
 <h3>Featured Employers</h3>
-	<center>
-	<div style=" height: 204px; border-bottom: 2px solid rgb(234, 234, 234); padding-bottom: 6px;">
-		<div id="FE1" class="FE"><a href="http://s0b.bluestreak.com/ix.e?hy&amp;s=7840359&amp;a=7074451"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/disney.gif"></a></div>
-		<div id="FE2" class="FE"><a href="http://snipurl.com/radio_shack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/rs.gif"></a></div>
-		<div id="FE3" class="FE"><a href="http://snipurl.com/internalrevenue"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/irs.gif"></a></div>
-		<div id="FE4" class="FE"><a href="http://snipurl.com/tmobile"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tmob.gif"></a></div>
-		<div id="FE5" class="FE"><a href="http://snipurl.com/collegepropainters"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crp.gif"></a></div>
-		<div id="FE6" class="FE"><a href="http://snipurl.com/newengland"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/necc.gif"></a></div>
-		<div id="FE7" class="FE"><a href="http://snipurl.com/transamass"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tra.gif"></a></div>
-		<div id="FE8" class="FE"><a href="http://snipurl.com/valpack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/valpak.gif"></a></div>
-		<div id="FE9" class="FE"><a href="http://snipurl.com/ups"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/ups.gif"></a></div>
-		<div id="FE10" class="FE"><a href="http://www.collegerecruiter.com/weblogs/intern-signup.php"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crec.gif"></a></div>
+	<!--<center>-->
+	<div style="min-height: 204px; border-bottom: 2px solid #eaeaea; padding-bottom: 6px; width: 120px;">
+		<div id="FE1" class="FE"><a href="http://snipurl.com/radio_shack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/rs.gif"></a></div>
+		<div id="FE2" class="FE"><a href="http://snipurl.com/internalrevenue"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/irs.gif"></a></div>
+		<div id="FE3" class="FE"><a href="http://snipurl.com/newengland"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/necc.gif"></a></div>
+		<div id="FE4" class="FE"><a href="http://snipurl.com/transamass"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/tra.gif"></a></div>
+		<div id="FE5" class="FE"><a href="http://snipurl.com/valpack"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/valpak.gif"></a></div>
+		<div id="FE6" class="FE"><a href="http://snipurl.com/ups"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/ups.gif"></a></div>
+		<div id="FE7" class="FE"><a href="http://sn.im/bnpyo"><img id="FEimg" src="http://www.collegerecruiter.com/featured_employers/crec.gif"></a></div>
+		<div id="FE8" class="FE"><a href="http://snipurl.com/9u5bn"><img id="FEimg" src="http://www.collegerecruiter.com/images/feat_employers/weyer.jpg"></a></div>
+		<div id="FE9" class="FE"><a href="http://sn.im/usarmy"><img id="FEimg" src="http://www.collegerecruiter.com/images/feat_employers/army-featured-emp.jpg"></a></div>	
 	</div>
 	
-<iframe src="http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=8" width="200" height="250" frameborder="0" scrolling="no" style="margin: 0; padding: 0;"></iframe>
-	</center>
+
+<script type="text/javascript" language="javascript">
+
+$(document).ready(function(){
+	$("#load_poll").hide();
+	$("#load_poll").load("http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=3");
+	$("#load_poll").show();
+
+});
+</script>
+<div id="load_poll" style="width:170px;display:none;">
+</div>	
+<!--	
+<iframe src="http://www.collegerecruiter.com/admanager/ads/poll/vertical.php?p=6" width="200" height="250" frameborder="0" scrolling="no" style="margin: 0; padding: 0;"></iframe>-->
+
+
+
+	<!--</center>-->
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-4473299699511092";
@@ -349,9 +414,60 @@ google_ad_height = 200;
 	<div style="margin: 1em 0pt 2em; text-align: center;">
 <a id="rss_job_feed_link" href="/pages/rss-subscribe.php"><img src="/upload_files/images/rss_logo.png" border="0"></a>
 	</div>
+    
+    <center>
+<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.collegerecruiter.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table>
+	</center>
 	
 	
-<!-- ad rotater--><script type="text/javascript">var timer=null;var counter=0;function banner(){timer=setTimeout("banner()",4000);counter++;var i;var id2;switch(counter){case 1:document.getElementById("FE1").style.display='block';document.getElementById("FE2").style.display='block';document.getElementById("FE3").style.display='block';document.getElementById("FE10").style.display='none';break;case 2:document.getElementById("FE4").style.display='block';document.getElementById("FE5").style.display='block';document.getElementById("FE6").style.display='block';for(i=1;i<4;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} break;case 3:document.getElementById("FE7").style.display='block';document.getElementById("FE8").style.display='block';document.getElementById("FE9").style.display='block';for(i=4;i<7;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} break;case 4:document.getElementById("FE10").style.display='block';for(i=7;i<10;i++){id2="FE"+i;document.getElementById(id2).style.display='none';} counter=0;break;}}</script>		
+<!-- ad rotater-->
+<script type="text/javascript">
+var timer=null;
+var counter=0;
+function banner(){
+	timer=setTimeout("banner()",4000);
+	counter++;
+	var i;
+	var id2;
+	switch(counter){
+		case 1:
+			document.getElementById("FE1").style.display='block';
+			document.getElementById("FE2").style.display='block';
+			document.getElementById("FE3").style.display='block';
+			for(i=7;i<10;i++){
+				id2="FE"+i;
+				document.getElementById(id2).style.display='none';
+			}
+		break;
+		case 2:
+			document.getElementById("FE4").style.display='block';
+			document.getElementById("FE5").style.display='block';
+			document.getElementById("FE6").style.display='block';
+			for(i=1;i<4;i++){
+				id2="FE"+i;
+				document.getElementById(id2).style.display='none';
+			} 
+		break;
+		case 3:
+			document.getElementById("FE7").style.display='block';
+			document.getElementById("FE8").style.display='block';
+			document.getElementById("FE9").style.display='block';
+			for(i=4;i<7;i++){
+				id2="FE"+i;
+				document.getElementById(id2).style.display='none';
+			}
+			counter=0;
+		break;
+	}
+$("#load_poll").show();
+}
+</script>
+		
 </div>
 <!-- end container tags -->
 		</div>
@@ -372,7 +488,7 @@ google_ad_height = 200;
 <li><a href="/myjobs/">Job Alerts</a> | </li> 
 <li><a href="/careers/ ">Advice &amp; Resources</a> | </li> 
 <li><a href="/salary/">Salary Calculator</a> | </li>
-<li><a href="http://a.awopi.com/cgi/r?;n=203;c=471113;s=6844;x=7936;f=200810071510470;u=j;z=TIMESTAMP;hdr=471124">School Finder</a> | </li> 
+<li><a href="http://l.lewpp.com/cgi/r?;n=203;c=498674;s=6844;x=7936;f=200903091459200;u=j;z=TIMESTAMP;ml=2;hdr=471124">School Finder</a> | </li> 
 <li>
 <a href="http://www.addthis.com/bookmark.php" onclick="addthis_url = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank">Bookmark</a> <script type="text/javascript">var addthis_pub = 'slickricky';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>| </li> 
 <li><a href="/pages/rss-subscribe.php">RSS</a> | </li> 
@@ -389,21 +505,34 @@ google_ad_height = 200;
 	<li><a href="/pages/ratecard-targeted-email-sms-direct-mail.php">Cell Phone Text Messaging</a> | </li>
 	<li><a href="/pages/ratecard-pay-per-lead-pay-per-click.php">Pay Per Lead/Click</a> | </li>
 	<li><a href="/pages/ratecard-banners-text-links-employer-spotlights.php">Banner Ads</a></li>
-	<!--<li><a href="/ratecard-facebook.php">Facebook Pages</a> | </li>-->
 	<!--<li><a href="/pages/ratecard-packages.php">Specials & Packages</a></li>-->
 </ul>
 
 <br>
-© Copyright 1996-2008 <a href="http://www.collegerecruiter.com/">CollegeRecruiter.com</a>  All rights reserved.
+© Copyright 1996-2009 <a href="http://www.collegerecruiter.com/">CollegeRecruiter.com</a>  All rights reserved.
 </div>
 
-<b><a href="http://www.RazorIT.com/" title="Website Design Site Management Maintenance" class="slickricky">Website Design, Management, Maintenance, Affordable</a></b>
+
+<b><a href="http://www.RazorIT.com/" title="Web Site Management, Website Maintenance, Web Design" class="slickricky"> Affordable Web Design, Website Management, Site Maintenance</a></b>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-88771-1";
 urchinTracker();
 </script>
+
+<script type="text/javascript">
+$("#local_time").click(function() {
+	server_time = $("#local_time").attr('title');
+	s_d = new Date();
+	s_l = new Date();
+	s_d.setTime(Date.parse(server_time));
+	off_set = s_l.getTimezoneOffset()-240;
+	s_d.setMinutes(s_d.getMinutes() - off_set);
+	alert("Your Local Start Time:\n"+s_d.toLocaleString());
+});
+</script>
+
 
 
 
