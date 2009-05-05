@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220065637id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1423name) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505185426id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1423name%26catalog_id%3D7566%26gift%3D71) for the most accurate reproduction.*
 
-# Help Desk
-
-  
-
+# Your-gift-zone
 
 **PRIVACY POLICY**
 
-**June 24, 2008**
+**March 26, 2009**
 
 **Our Commitment To Privacy**
 
@@ -37,6 +34,10 @@ In addition, in the event we consider a transaction involving the purchase or sa
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
 
+**Third Part Ad Servers.**
+
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
+
 **Security Of Your Information.**
 
 We use reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Information. However, nearly all Internet transmissions pass through many servers not controlled by us, and therefore we cannot guarantee that any information you provide us or we collect will not be intercepted or altered in that process. Also, as noted above, your Information is shared with third parties whose privacy policies and practices are beyond our control. 
@@ -60,3 +61,5 @@ If you wish to access, delete or correct the information you have provided to us
 If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name registration (email address), the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please mail your request to Customer Service Manager at the address listed in the footer of this site or the Contact Us page.
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
+
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9375
