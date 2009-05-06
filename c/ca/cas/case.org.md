@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219053756id_/http%3A//www.case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506073246id_/http%3A//case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
 
 # CASE - Privacy Statement
 
