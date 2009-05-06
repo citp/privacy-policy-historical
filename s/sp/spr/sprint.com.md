@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225072049id_/http%3A//www.sprint.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506120331id_/http%3A//sprint.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sprint | Privacy at Sprint Nextel
 
