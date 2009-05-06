@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218051852id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506050706id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Winamp Legal Policies
 
