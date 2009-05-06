@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506065647id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
 
 # About RoadTrip America®
 
-[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/guides.htm)  
+  
+  
+| 
+
+| 
+
+**About RoadTrip America ®  
+**Road Trips, Dashboarding, Maps, Books, & Roadtrip Planning
+
+|   
+---|---  
+  
+[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20090506065647id_/http%3A//www.roadtripamerica.com/guides.htm)  
 Copyright & Trademark Notice  
 Privacy Policy Statement  
-[Contact Information](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20081216160442id_/http%3A//www.roadtripamerica.com/address.htm)Since 1996, RoadTrip America® has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
+[Contact Information](https://web.archive.org/web/20090506065647id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20090506065647id_/http%3A//www.roadtripamerica.com/address.htm)Since 1996, RoadTrip America® has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
 
 RoadTrip America® features articles **** about [destinations](https://web.archive.org/places/places.htm), [routes](https://web.archive.org/links/routes.htm), and [attractions](https://web.archive.org/links/destinations.htm), as well as the Web's largest [gallery of funny road signs](https://web.archive.org/signs/signs.htm). A one-stop source for [the best in travel publications](https://web.archive.org/read/guides.htm), RTA posts reviews and recommendations for books and software available in association with [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/roadtriamericare). RTA also keeps abreast of [developments in mobile Internet access](https://web.archive.org/dashboarding/future.htm).
 
@@ -105,6 +117,8 @@ D. On-line Advertising:
 
 1\. RoadTrip America uses certain third party companies to deliver some banner advertisements and other on-line communication. These companies may collect and use information about the customers who clicked or viewed these banners. The information they collect is aggregated so as to protect the privacy of our readers, but RoadTrip America does not bear any responsibility for any actions or policies of any third parties.
 
+2\. One of the online advertisers is Google.com, and Google.com as a third party vendor uses the DoubleClick DART cookie. A DART cookie is used to observe and track how a user views this site and other sites on the Internet. More information about the DART cookie system, including how to opt-out of this system [can be viewed here](http://www.doubleclick.com/privacy/faq.aspx). Additional information about how Google.com uses this information [may be found here](http://www.google.com/privacy_ads.html). 
+
 
 
 
@@ -150,9 +164,11 @@ H. Use of RoadTrip America by children:
 
 I. Notification of Changes:
 
-1\. This privacy statement was last updated on August 31, 2008. A notice will be posted on the RoadTrip America home page for thirty (30) days whenever this privacy statement is changed.
+1\. This privacy statement was last updated on April 7, 2009. A notice will be posted on the RoadTrip America home page for thirty (30) days whenever this privacy statement is changed.
 
 
 
 
-If you have any questions or suggestions for improvements in this privacy policy, please contact the RoadTrip America Web site administrator at [mark@roadtripamerica.com](mailto:mark@roadtripamerica.com).
+If you have any questions or suggestions for improvements in this privacy policy, please contact the RoadTrip America Web site administrator at [mark@roadtripamerica.com](mailto:mark@roadtripamerica.com).  
+  
+---
