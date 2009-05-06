@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907105044id_/http%3A//www.vumber.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507010533id_/http%3A//vumber.com/privacy.aspx) for the most accurate reproduction.*
 
-# Vumber: The Anyphone Phone Number
+# Vumber: The Virtual Phone Number - Questions about Privacy and Support
 
 This privacy policy covers how we treat the personal information that we collect and receive when you subscribe for and use our services. This Policy explains the practices that apply to your personal Information.
 
@@ -18,6 +18,6 @@ In the event Vumber is acquired, consolidates or merges with another company, th
 
 We are committed to keeping your Vumber information private, and will use that information only for purposes of operating Vumber services and improving them. We have implemented security guidelines to help safeguard the privacy of your Vumber information from unauthorized access or improper use.
 
-If you have any questions or concerns about the Vumber Privacy Policy or its implementation, you can send email to [**privacy@vumber.com**](mailto:privacy@vumber.com)
+If you have any questions or concerns about the Vumber Privacy Policy or its implementation, you can send email to [**info@vumber.com**](mailto:info@vumber.com)
 
 Please review this Policy periodically at [**www.Vumber.com**](http://www.vumber.com/) We may update this Privacy Policy from time to time.
