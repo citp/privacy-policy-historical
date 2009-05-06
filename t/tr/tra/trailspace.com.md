@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151712id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506052919id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -30,11 +30,10 @@ Some of our business partners (for example, advertisers) may also use cookies on
 
 The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
-  * [Commission Junction Privacy Policy](http://www.cj.com/privacy.asp)
-  * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
-  * [Performics Privacy Policy](http://performics.com/privacy.html)
+  * [AvantLink Privacy Policy](http://www.avantlink.com/privacy_policy.php)
+  * [Commission Junction Privacy Policy](http://www.cj.com/privacy.html)
   * [Google Privacy Policy](http://www.google.com/privacy.html)
-  * [Tribal Fusion Privacy Policy](http://www.tribalfusion.com/www/about/privacy.html)
+  * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
 
 
 
@@ -46,4 +45,4 @@ Various websites may be linked through the Trailspace website. Visitors to those
 
 ## Contact Information
 
-To offer comments about the Trailspace website or about information presented in this Privacy Policy, contact [feedback@trailspace.com](mailto:feedback@trailspace.com).
+To offer comments about the Trailspace website or about information presented in this Privacy Policy, [contact us](https://web.archive.org/about/contact.html).
