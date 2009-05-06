@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917020423id_/http%3A//www.askgamblers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506222757id_/http%3A//www.askgamblers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AskGamblers.com
+# Privacy Policy
 
 **1\. General Policy and Information**  
 
