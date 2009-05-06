@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506050951id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -170,3 +170,10 @@ Federal Trade Commission
 600 Pennsylvania Ave., N.W., Washington, DC 20580
 
 There are services that assist in protecting consumers against identity theft. GMAC Mortgage offers its customers Identity Guard® from Intersections, Inc. If you are interested in enrolling in Identity Guard®, please call 866-893-3785 and a representative will assist you. Identity Guard® will be billed to your GMAC Mortgage monthly account statement, so have your mortgage account number available when you call.
+
+**Social Security Number**   
+**Privacy Protection Policy**
+
+GMAC Financial Services* collects social security numbers as necessary to support state and federal legal requirements, to provide products or services to you, and to meet our human resources needs. We restrict access to social security numbers to employees, agents, and subcontractors who need social security numbers to support these purposes. We provide social security numbers to government agencies, as required by law. We strive to protect social security numbers from unlawful disclosure and keep them confidential by maintaining physical, electronic, and procedural safeguards that comply with applicable state and federal regulations.
+
+***This policy applies to the following GMAC Financial Services companies:** Alexium Leasing Company, American Suzuki Financial Services Company LLC (ASFS), Central Originating Lease Trust (C.O.L. Trust), CIM Insurance Corporation, Ditech, LLC, GHS Mortgage, LLC, GMAC, GMAC Bank, GMAC CF LLC, GMAC Demand Notes, GMAC Direct Insurance Company, GMAC Home Services, LLC, GMAC Insurance Company Online, Inc., GMAC Insurance Management Corporation, GMAC Insurance Marketing, Inc., GMAC Mortgage, LLC, GMAC Mortgage, LLC of TN, GMAC Mortgage USA Corporation, GM Motor Club, Inc., Homecomings Financial, LLC, Homestate County Mutual Insurance Company - Administered by Integon National Insurance Company, Integon Casualty Insurance Company, Integon General Insurance Corporation, Integon Indemnity Corporation, Integon National Insurance Company, Integon Preferred Insurance Company, Integon Specialty Insurance Company, MEEMIC Insurance Company, MEEMIC Insurance Services Corporation, MIC General Insurance Corporation, National Auto Finance Company, National General Assurance Company, National General Insurance Company, New South Insurance Company, Nuvell Credit Company LLC, Nuvell Financial Services LLC, Residential Funding Company, LLC Saab Financial Services LLC, Saab Leasing Company, Semperian, and Union Trust Mortgage Services, Inc.
