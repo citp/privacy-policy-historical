@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102816id_/http%3A//www.bhomes.com/international/uae/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506104458id_/http%3A//www.bhomes.com/international/uae/privacy.xhtml) for the most accurate reproduction.*
 
 # :: Better Homes ::
 
@@ -10,4 +10,4 @@ We may use your personal information to market third party products and services
 
 **Contact Details**
 
-If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 4 344 7714 or email [customercare@bhomes.com](mailto:customercare@bhomes.com).
+If you have any questions/comments about privacy, or wish to stop receiving communications from us, please telephone +971 600 52 2212 or email [customercare@bhomes.com](mailto:customercare@bhomes.com).
