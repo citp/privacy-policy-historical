@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233015id_/http%3A//www.jamesallen.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506061533id_/http%3A//www.jamesallen.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy of JamesAllen.com Online Diamond Jewelry Store
 
   
 
