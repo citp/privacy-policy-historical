@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070219id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506063833id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
-# Good Gear Guide - Privacy Policy
+# Privacy Policy - Good Gear Guide
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
@@ -20,8 +20,8 @@ If you have questions or concerns regarding this statement, please contact:
 
 > Cheryl Podda  
 >  IDG Communications Pty Ltd  
->  88 Christie Street  
->  St Leonards NSW 2065  
+>  Level 22, 8-20 Napier St  
+>  North Sydney NSW 2060  
 >  E-mail: [privacy@idg.com.au](mailto:privacy@idg.com.au)
 
 **What information does IDG Communications collect?**
