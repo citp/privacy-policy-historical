@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025414id_/http%3A//www.kpbs.org/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506030958id_/http%3A//www.kpbs.org/about_us/privacy_policy) for the most accurate reproduction.*
 
 # KPBS > About Us > Privacy Policy
 
