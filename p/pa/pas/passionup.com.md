@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224041300id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506025735id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of PassionUp.com
 
@@ -50,7 +50,7 @@ At any time, a parent or legal guardian may revoke his/her consent or refuse to 
 
 Sharing/Co-registrations:
 
-During the registration process, subscribers may be asked if they would like to have their registration information made available to companies and partner sites that wish to offer products and services that our subscribers may be interested in. By opting in to receive email offers about products and services of interest, you are granting us permission to combine your personal information with other information, such as prior purchase history and publicly available demographic data, to provide you with email and postal offers geared towards your individual tastes and preferences, and to offer you stand alone advertising emails and third party advertising. We use data to send personalized, targeted information to the User in their e-mail messages or on our Web site to send advertising and promotions that allow us to provide our service to the Users. We also send opt-in e-mail offers about products and services of interest or special deals from our partner sites and other third parties based on the Users' chosen interests.
+During the registration process, subscribers may be asked if they would like to have their registration information made available to companies and partner sites that wish to offer products and services that our subscribers may be interested in. By opting in to receive email offers about products and services of interest, you are granting us permission to combine your personal information with other information, such as prior purchase history and publicly available demographic data, to provide you with email and postal offers geared towards your individual tastes and preferences, to offer you stand alone advertising emails, and to sell, license, transfer, and/or otherwise share your personal information with third party marketers and list brokers so that you can be sent advertising from third parties. We use data to send personalized, targeted information to the User in their e-mail messages or on our Web site to send advertising and promotions that allow us to provide our service to the Users. We also send opt-in e-mail offers about products and services of interest or special deals from our partner sites and other third parties based on the Users' chosen interests.
 
 Referral Program:
 
@@ -72,7 +72,7 @@ We will never use cookies to retrieve information from your computer that was no
 
 Unsubscribe:
 
-You may unsubscribe from our services at any time. To unsubscribe from our content publications, please email: [email@passionup.com](mailto:email@passionup.com)
+You may unsubscribe from our services at any time. To unsubscribe from our content publications, please contact us: [here](https://web.archive.org/contact.htm)
 
 Notification of Changes:
 
@@ -83,4 +83,4 @@ Contacting the Web Site:
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Customer Service:  
-[email@passionup.com](mailto:email@passionup.com)
+[Contact Us Here](https://web.archive.org/contact.htm)
