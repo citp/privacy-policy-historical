@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmacmortgage.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmacmortgage.com privacy policy that was archived on 2009-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090506050951id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -68,10 +68,10 @@
 	<div id="header">
 		<div id="utility_nav">
 			 <ul>
-				<script type="text/javascript" language="javascript">headerNavLogin()</script><li><a href="/logon/index.htm" title="Log On" onclick="s_objectID=&quot;https://web.archive.org/logon/index.htm_1&quot;;return this.s_oc?this.s_oc(e):true">Log On</a></li>
+				<script type="text/javascript" language="javascript">headerNavLogin()</script><li><a href="/logon/index.htm" title="Log On">Log On</a></li>
 
-				<li class="util_item"><a href="/Utilities/siteMap.html" title="Site Map" onclick="s_objectID=&quot;https://web.archive.org/Utilities/siteMap.html_1&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a></li>
-				<li class="util_item"><a href="/Utilities/Contact_Us/ContactUs.html" title="Contact Us" onclick="s_objectID=&quot;https://web.archive.org/Utilities/Contact_Us/ContactUs.html_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></li>
+				<li class="util_item"><a href="/Utilities/siteMap.html" title="Site Map">Site Map</a></li>
+				<li class="util_item"><a href="/Utilities/Contact_Us/ContactUs.html" title="Contact Us">Contact Us</a></li>
 			 </ul>
 		</div>
 							
@@ -85,7 +85,13 @@
 <script language="javascript">if (top != self) { top.location=self.location; }</script>
 		<div id="logo"><!-- 3/29/7 -->
 			
-					<a href="/" title="GMAC Mortgage Home" onclick="s_objectID=&quot;https://web.archive.org/_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/images/GMAC_logo.gif" alt="GMAC Mortgage Home"></a>
+					<a href="/" title="GMAC Mortgage Home"><img src="/images/GMAC_logo.gif" alt="GMAC Mortgage Home"></a>
+					<link rel="stylesheet" type="text/css" href="/Style/css/home.css" media="screen">
+                    <!--[if IE 6]>
+						<link rel="stylesheet" type="text/css" href="/Style/css/ie6hacks.css" />
+					<![endif]-->
+
+					<a href="#content" class="textonly">Skip navigation</a>
 					
 		</div>
 		<div id="print_header">
@@ -122,7 +128,7 @@
 				</div>
 			</div>
 				
-						<form action="/search.htm" method="get"><input type="text" name="qt" class="search_field" tabindex="1"><input type="image" name="search_btn" tabindex="2" src="/images/btn_search.gif" alt="Search">
+						<form action="/search.htm" method="get"><input type="text" name="qt" class="search_field" tabindex="1"><input type="image" name="search_btn" tabindex="2" src="/images/search.gif" alt="Search">
 						</form>		
 						
 			
@@ -133,43 +139,65 @@
 	</div>
 	<!--End Header Container-->
 	<!--Begin Main Navigation-->
-	<div id="main_nav">
+	
 		
-				<a href="/" id="661" onclick="s_objectID=&quot;https://web.archive.org/_2&quot;;return this.s_oc?this.s_oc(e):true">Home</a>
+					<div id="menu">
+		<ul id="tabnav">
+			<li id="home"><a href="/" id="661"><span>Home</span></a></li>
+			<script language="javascript">todisplay(661, 'Home');</script>		
+			<li id="purchase"><a href="/loan_intro/purchase/index.html" id="493"><span>Purchase</span></a></li>
+			<script language="javascript">todisplay(493, 'Purchase');</script>
+			<li id="refi"><a href="/loan_intro/refinance/index.html" id="214"><span>Refinance</span></a></li>
+			<script language="javascript">todisplay(214, 'Refinance');</script>	
+			<li id="he"><a href="/loan_intro/homeequity/index.html" id="229"><span>Home Equity</span></a></li>
+			<script language="javascript">todisplay(229, 'Home Equity');</script>
+			<li id="rates"><a href="/comparerates/enterLoanData.html" id="01"><span>Check Rates</span></a></li>
+			<script language="javascript">todisplay('01', 'Todays Rates');</script>	
+			<li id="rates"><a href="/Utilities/Contact_Us/ContactUs.html" title="Contact Us"><span>Contact us</span></a></li>
+			<script language="javascript">todisplay(3084, 'Contact Us');</script>
+			<li id="calcs"><a href="/calculators.do?method=init" id="1924"><span>Calculators</span></a></li>
+			<script language="javascript">todisplay(1924, 'Calculators');</script>
+			<li id="resource"><a href="/Resource_Center/ResourceCenter.html" id="235"><span>Resource Center</span></a></li>
+			<script language="javascript">todisplay(235, 'Resource Center');</script>
+			<li id="myaccount"><script language="javascript">mainNavLogin();</script><a $cmignore="" href="/logon/index.htm" id="02">My Account</a>
+</li>
+		</ul>
+	</div>
+	<!--end menu-->
+				<!--<a  href="/"  id="661" >Home</a>
 				<script language="javascript">
 								todisplay(661, 'Home');
 						</script>		
-					<a href="/loan_intro/purchase/index.html" id="493" onclick="s_objectID=&quot;https://web.archive.org/loan_intro/purchase/index.html_1&quot;;return this.s_oc?this.s_oc(e):true">Purchase</a>
+					<a href="/loan_intro/purchase/index.html" id="493" >Purchase</a>
 						<script language="javascript">
 								todisplay(493, 'Purchase');
 						</script>		
-					<a href="/loan_intro/refinance/index.html" id="214" onclick="s_objectID=&quot;https://web.archive.org/loan_intro/refinance/index.html_1&quot;;return this.s_oc?this.s_oc(e):true">Refinance</a>
+					<a href="/loan_intro/refinance/index.html" id="214" >Refinance</a>
 						<script language="javascript">
 								todisplay(214, 'Refinance');
 						</script>		
-					<a href="/loan_intro/homeequity/index.html" id="229" onclick="s_objectID=&quot;https://web.archive.org/loan_intro/homeequity/index.html_1&quot;;return this.s_oc?this.s_oc(e):true">Home Equity</a>
+					<a href="/loan_intro/homeequity/index.html" id="229" >Home Equity</a>
 						<script language="javascript">
 								todisplay(229, 'Home Equity');
 						</script>	
-						<a href="/comparerates/enterLoanData.html" id="01" onclick="s_objectID=&quot;https://web.archive.org/comparerates/enterLoanData.html_1&quot;;return this.s_oc?this.s_oc(e):true">Check Rates</a>
+						<a  href="/comparerates/enterLoanData.html" / id="01" >Check Rates</a>
 						<script language="javascript">
 								todisplay('01', 'Todays Rates');
 						</script>	
-						<a href="/calculators.do?method=init" id="1924" onclick="s_objectID=&quot;https://web.archive.org/calculators.do?method=init_1&quot;;return this.s_oc?this.s_oc(e):true">Calculators</a>
+						<a  href="/calculators.do?method=init"  id="1924" >Calculators</a>
 						<script language="javascript">
 								todisplay(1924, 'Calculators');
 						</script>		
-					<a href="/Resource_Center/ResourceCenter.html" id="235" onclick="s_objectID=&quot;https://web.archive.org/Resource_Center/ResourceCenter.html_1&quot;;return this.s_oc?this.s_oc(e):true">Resource Center</a>
+					<a href="/Resource_Center/ResourceCenter.html" id="235" >Resource Center</a>
 						<script language="javascript">
 								todisplay(235, 'Resource Center');
 						</script>
 						<script language="javascript">
 							mainNavLogin();
-						</script><a $cmignore="" href="/logon/index.htm" id="02" onclick="s_objectID=&quot;https://web.archive.org/logon/index.htm_2&quot;;return this.s_oc?this.s_oc(e):true">My Account</a>
-
+						</script>-->
 				
 			
-</div>
+
 	<!--End Main Navigation-->
 <hr>
 
@@ -211,7 +239,7 @@
 				
 				
 				
-				<a href="../about_us.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/about_us.htm_1&quot;;return this.s_oc?this.s_oc(e):true">About Us</a>
+				<a href="../about_us.html">About Us</a>
 	</div>
 <!-- show current level -->	
 					<script language="javascript">
@@ -222,7 +250,7 @@
 				
 							
 
-					<li id="36652" class="top1"><a href="../about_us.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/about_us.htm_2&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="36652" class="top1"><a href="../about_us.html">				
 					<script language="javascript">
 								var ThisLevel2ID="";
 								var ThisLevel="1";
@@ -261,7 +289,7 @@
 				
 							
 
-					<li id="2732" class="top2"><a href="../Company_Info/CompanyInfo.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Company_Info_1&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="2732" class="top2"><a href="../Company_Info/CompanyInfo.html">				
 					<script language="javascript">
 								var ThisLevel2ID="273";
 								var ThisLevel="2";
@@ -300,7 +328,7 @@
 				
 							
 
-					<li id="19782" class="top2"><a href="../Press_Room/press_releases.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_1&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="19782" class="top2"><a href="../Press_Room/press_releases.html">				
 					<script language="javascript">
 								var ThisLevel2ID="1978";
 								var ThisLevel="2";
@@ -339,7 +367,7 @@
 				
 							
 
-					<li id="5282" class="hide"><a href="../Press_Room/pr_2005_0316.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_2&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5282" class="hide"><a href="../Press_Room/pr_2005_0316.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -378,7 +406,7 @@
 				
 							
 
-					<li id="5272" class="hide"><a href="../Press_Room/pr_2005_0329.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_3&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5272" class="hide"><a href="../Press_Room/pr_2005_0329.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -417,7 +445,7 @@
 				
 							
 
-					<li id="5262" class="hide"><a href="../Press_Room/pr_2005_0505.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_4&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5262" class="hide"><a href="../Press_Room/pr_2005_0505.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -456,7 +484,7 @@
 				
 							
 
-					<li id="5252" class="hide"><a href="../Press_Room/pr_2005_0719.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_5&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5252" class="hide"><a href="../Press_Room/pr_2005_0719.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -495,7 +523,7 @@
 				
 							
 
-					<li id="5242" class="hide"><a href="../Press_Room/pr_2005_0720.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_6&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5242" class="hide"><a href="../Press_Room/pr_2005_0720.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -534,7 +562,7 @@
 				
 							
 
-					<li id="5232" class="hide"><a href="../Press_Room/pr_2005_0801_2.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_7&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5232" class="hide"><a href="../Press_Room/pr_2005_0801_2.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -573,7 +601,7 @@
 				
 							
 
-					<li id="5222" class="hide"><a href="../Press_Room/pr_2005_0801.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_8&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5222" class="hide"><a href="../Press_Room/pr_2005_0801.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -612,7 +640,7 @@
 				
 							
 
-					<li id="5212" class="hide"><a href="../Press_Room/pr_2005_0803.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_9&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5212" class="hide"><a href="../Press_Room/pr_2005_0803.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -651,7 +679,7 @@
 				
 							
 
-					<li id="5412" class="hide"><a href="../Press_Room/pr_2005_0831_2.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_10&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5412" class="hide"><a href="../Press_Room/pr_2005_0831_2.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -690,7 +718,7 @@
 				
 							
 
-					<li id="5202" class="hide"><a href="../Press_Room/pr_2005_0831.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_11&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="5202" class="hide"><a href="../Press_Room/pr_2005_0831.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -729,7 +757,7 @@
 				
 							
 
-					<li id="18842" class="hide"><a href="../Press_Room/pr_2005_1024_2.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_12&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="18842" class="hide"><a href="../Press_Room/pr_2005_1024_2.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -768,7 +796,7 @@
 				
 							
 
-					<li id="18822" class="hide"><a href="../Press_Room/pr_2005_1024.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_13&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="18822" class="hide"><a href="../Press_Room/pr_2005_1024.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -807,7 +835,7 @@
 				
 							
 
-					<li id="18812" class="hide"><a href="../Press_Room/pr_2005_1116.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_14&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="18812" class="hide"><a href="../Press_Room/pr_2005_1116.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -846,7 +874,7 @@
 				
 							
 
-					<li id="18802" class="hide"><a href="../Press_Room/pr_2005_1130.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_15&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="18802" class="hide"><a href="../Press_Room/pr_2005_1130.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -885,7 +913,7 @@
 				
 							
 
-					<li id="29142" class="hide"><a href="../Press_Room/pr_2006_0321.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_16&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="29142" class="hide"><a href="../Press_Room/pr_2006_0321.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -924,7 +952,7 @@
 				
 							
 
-					<li id="29152" class="hide"><a href="../Press_Room/pr_2006_0403.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_17&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="29152" class="hide"><a href="../Press_Room/pr_2006_0403.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -963,7 +991,7 @@
 				
 							
 
-					<li id="29222" class="hide"><a href="../Press_Room/pr_2006_0410.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_18&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="29222" class="hide"><a href="../Press_Room/pr_2006_0410.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1002,7 +1030,7 @@
 				
 							
 
-					<li id="29242" class="hide"><a href="../Press_Room/pr_2006_0411.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_19&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="29242" class="hide"><a href="../Press_Room/pr_2006_0411.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1041,7 +1069,7 @@
 				
 							
 
-					<li id="31582" class="hide"><a href="../Press_Room/pr_2006_0511.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_20&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="31582" class="hide"><a href="../Press_Room/pr_2006_0511.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1080,7 +1108,7 @@
 				
 							
 
-					<li id="30452" class="hide"><a href="../Press_Room/pr_2006_0519.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_21&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="30452" class="hide"><a href="../Press_Room/pr_2006_0519.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1119,7 +1147,7 @@
 				
 							
 
-					<li id="31242" class="hide"><a href="../Press_Room/pr_2006_0524.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_22&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="31242" class="hide"><a href="../Press_Room/pr_2006_0524.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1158,7 +1186,7 @@
 				
 							
 
-					<li id="31252" class="hide"><a href="../Press_Room/pr_2006_0531.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_23&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="31252" class="hide"><a href="../Press_Room/pr_2006_0531.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1197,7 +1225,7 @@
 				
 							
 
-					<li id="31282" class="hide"><a href="../Press_Room/pr_2006_0531_2.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_24&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="31282" class="hide"><a href="../Press_Room/pr_2006_0531_2.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1236,7 +1264,7 @@
 				
 							
 
-					<li id="38082" class="hide"><a href="../Press_Room/pr_2006_0815.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_25&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="38082" class="hide"><a href="../Press_Room/pr_2006_0815.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1275,7 +1303,7 @@
 				
 							
 
-					<li id="38122" class="hide"><a href="../Press_Room/pr_2006_0821.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_26&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="38122" class="hide"><a href="../Press_Room/pr_2006_0821.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1314,7 +1342,7 @@
 				
 							
 
-					<li id="38132" class="hide"><a href="../Press_Room/pr_2006_0911.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Press_Room/p_27&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="38132" class="hide"><a href="../Press_Room/pr_2006_0911.html">				
 					<script language="javascript">
 								var ThisLevel2ID="279";
 								var ThisLevel="4";
@@ -1353,7 +1381,7 @@
 				
 							
 
-					<li id="2862" class="top2_active"><a href="Privacy.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_1&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="2862" class="top2_active"><a href="Privacy.html">				
 					<script language="javascript">
 								var ThisLevel2ID="286";
 								var ThisLevel="2";
@@ -1392,7 +1420,7 @@
 				
 							
 
-					<li id="2872" class="top2"><a href="Disclosures.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_2&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="2872" class="top2"><a href="Disclosures.html">				
 					<script language="javascript">
 								var ThisLevel2ID="287";
 								var ThisLevel="2";
@@ -1431,7 +1459,7 @@
 				
 							
 
-					<li id="2882" class="top2"><a href="Licensing.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_3&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="2882" class="top2"><a href="Licensing.html">				
 					<script language="javascript">
 								var ThisLevel2ID="288";
 								var ThisLevel="2";
@@ -1470,7 +1498,7 @@
 				
 							
 
-					<li id="2892" class="top2"><a href="TermsOfUse.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_4&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="2892" class="top2"><a href="TermsOfUse.html">				
 					<script language="javascript">
 								var ThisLevel2ID="289";
 								var ThisLevel="2";
@@ -1509,7 +1537,7 @@
 				
 							
 
-					<li id="3022" class="top2"><a href="../Community_Involvement/CommunityInvolvement.html" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Community_In_1&quot;;return this.s_oc?this.s_oc(e):true">				
+					<li id="3022" class="top2"><a href="../Community_Involvement/CommunityInvolvement.html">				
 					<script language="javascript">
 								var ThisLevel2ID="302";
 								var ThisLevel="2";
@@ -1576,9 +1604,9 @@
 						<p><strong>Overview<br></strong>You take your privacy seriously and so does GMAC Mortgage. We are a company committed to protecting the personal information and privacy of our customers. This statement is one way of sustaining your trust in our company, our products and our services.</p>
 <p><strong>Privacy (Website Visitors)</strong><br>Our Online Privacy Statement describes how we collect, protect and use information about you either during your visit to our web site or when you are a GMAC Mortgage customer.</p>
 <p><strong>Information We Collect About You during Your Online Visit</strong></p>
-<p><strong><em>Website Visitors / Registered Users</em></strong><br>When you browse our site as a visitor or are a registered user of this website, we may collect and store information about your online visit (see <a href="#legal_cookies" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_5&quot;;return this.s_oc?this.s_oc(e):true">cookies</a>). This information may include the time and length of your visit, the pages you view on our site, the last site you visited before coming to ours, and the name of your internet service provider.</p>
+<p><strong><em>Website Visitors / Registered Users</em></strong><br>When you browse our site as a visitor or are a registered user of this website, we may collect and store information about your online visit (see <a href="#legal_cookies">cookies</a>). This information may include the time and length of your visit, the pages you view on our site, the last site you visited before coming to ours, and the name of your internet service provider.</p>
 <p>We use this data on an aggregate basis to measure site activity, and on an individual basis to make the site more useful and provide information that may be of interest to you.</p>
-<p><strong><em>Registered Users Only</em></strong><br>Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the <a href="#legal_infoCollectAndSharing" onclick="s_objectID=&quot;https://web.archive.org/web/20081217065958id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Inform_6&quot;;return this.s_oc?this.s_oc(e):true">Information Collection and Sharing Practices for Existing Customer</a> section for more information.</p>
+<p><strong><em>Registered Users Only</em></strong><br>Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the <a href="#legal_infoCollectAndSharing">Information Collection and Sharing Practices for Existing Customer</a> section for more information.</p>
 <p>As a registered user, you may use the website to:</p>
 <ul type="disc">
 <li>Provide information to us about you when you complete an online application or other form; 
@@ -1632,8 +1660,8 @@
 <p>If you are a registered user of this website, you may be able to update some information online. You will need to log-into your account in order to utilize this feature.</p>
 <p>How to contact us regarding your account:</p>
 <p>U.S. Mail:<br>GMAC Mortgage<br>Attn: Customer Service<br>P.O. Box 4622<br>Waterloo, IA 50704-4622<br></p>
-<p>Phone: 1-800-766-4622<br><a href="http://www.gmacmortgage.com/Utilities/Contact_Us/Email/Email.html" onclick="s_objectID=&quot;http://www.gmacmortgage.com/Utilities/Contact_Us/Email/Email.html_1&quot;;return this.s_oc?this.s_oc(e):true">Customer Service Email</a><br></p>
-<p>Questions about this Online Privacy Statement may be sent via email to: <a href="mailto:PrivacyOffice@gmacm.com" onclick="s_objectID=&quot;mailto:PrivacyOffice@gmacm.com_1&quot;;return this.s_oc?this.s_oc(e):true">PrivacyOffice@gmacm.com</a></p>
+<p>Phone: 1-800-766-4622<br><a href="http://www.gmacmortgage.com/Utilities/Contact_Us/Email/Email.html">Customer Service Email</a><br></p>
+<p>Questions about this Online Privacy Statement may be sent via email to: <a href="mailto:PrivacyOffice@gmacm.com">PrivacyOffice@gmacm.com</a></p>
 <p><strong><em>Policy Effective Date</em></strong><br>This Online Privacy Statement is effective February 25th, 2008 and remains in effect until amended. GMAC Mortgage reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. We will post any alterations to this Privacy Statement on our web site in a timely manner so please check periodically.</p>
 <p><strong>Identity Theft / Fraudulent Activities</strong><br><strong>Identity Theft/Fraud</strong></p>
 <p>Identity Theft occurs when someone uses sensitive information, called Personally Identifiable Information (or PII) of another person without their permission to commit fraud or other crimes, such as Account Takeover or Application Fraud. [<em>Account Takeover has occurred when an individual acquires another person's existing credit account information and purchases products and services at the victim's expense. Application Fraud has occurred when an individual uses another's Social Security Number or other Personally Identifiable Information to open new credit accounts in the victim's name.</em>]</p>
@@ -1643,11 +1671,18 @@
 <li>Equifax (1-800-525-6285)</li>
 <li>TransUnion (1-800-680-7289)</li></ul>
 <p>Carefully review your credit reports for: accounts you did not open, inquiries from  creditors you did not initiate, and for personal information (such as home address and social security number) that is not accurate. If you see anything you do not understand or any accounts you did not open, call the credit reporting agency at the telephone number on the report.</p>
-<p>If you decide not to place a fraud alert on your credit file, you can still obtain free copies of your credit report by going to the following Annual Credit Report website (<a href="http://www.annualcreditreport.com/" onclick="s_objectID=&quot;http://www.annualcreditreport.com/_1&quot;;return this.s_oc?this.s_oc(e):true">www.annualcreditreport.com</a>) or by calling them toll-free at 1-877-322-8228. (Hearing impaired consumers can access their TDD service at 1-877-730-4204.</p>
+<p>If you decide not to place a fraud alert on your credit file, you can still obtain free copies of your credit report by going to the following Annual Credit Report website (<a href="http://www.annualcreditreport.com/">www.annualcreditreport.com</a>) or by calling them toll-free at 1-877-322-8228. (Hearing impaired consumers can access their TDD service at 1-877-730-4204.</p>
 <p>To learn more about identity theft, visit the Federal Trade Commission's web site to receive further information and insights about how to protect your identity from identity thieves.</p>
 <p>Identity Theft Hotline: 877-438-4338<br>Web: www.consumer.gov/idtheft<br>Mail: Identity Theft Clearinghouse,<br>Federal Trade Commission<br>600 Pennsylvania Ave., N.W., Washington, DC  20580</p>
 <p>There are services that assist in protecting consumers against identity theft. GMAC Mortgage offers its customers Identity Guard® from Intersections, Inc.  If you are interested in enrolling in Identity Guard®, please call 866-893-3785 and a representative will assist you.  Identity Guard® will be billed to your GMAC Mortgage monthly account statement, so have your mortgage account number available when you call.</p>
 <p>&nbsp;</p>
+<p><strong>Social Security Number</strong> <br>
+<strong>Privacy Protection Policy</strong></p>
+
+<p>GMAC Financial Services* collects social security numbers as necessary to support state and federal legal requirements, to provide products or services to you, and to meet our human resources needs.  We restrict access to social security numbers to employees, agents, and subcontractors who need social security numbers to support these purposes.  We provide social security numbers to government agencies, as required by law.  We strive to protect social security numbers from unlawful disclosure and keep them confidential by maintaining physical, electronic, and procedural safeguards that comply with applicable state and federal regulations.</p>
+
+
+<p><small><strong>*This policy applies to the following GMAC Financial Services companies:</strong> Alexium Leasing Company, American Suzuki Financial Services Company LLC (ASFS), Central Originating Lease Trust (C.O.L. Trust), CIM Insurance Corporation, Ditech, LLC, GHS Mortgage, LLC, GMAC, GMAC Bank, GMAC CF LLC, GMAC Demand Notes, GMAC Direct Insurance Company, GMAC Home Services, LLC, GMAC Insurance Company Online, Inc., GMAC Insurance Management Corporation, GMAC Insurance Marketing, Inc., GMAC Mortgage, LLC, GMAC Mortgage, LLC of TN, GMAC Mortgage USA Corporation, GM Motor Club, Inc., Homecomings Financial, LLC, Homestate County Mutual Insurance Company - Administered by Integon National Insurance Company, Integon Casualty Insurance Company, Integon General Insurance Corporation, Integon Indemnity Corporation, Integon National Insurance Company, Integon Preferred Insurance Company, Integon Specialty Insurance Company, MEEMIC Insurance Company, MEEMIC Insurance Services Corporation, MIC General Insurance Corporation, National Auto Finance Company, National General Assurance Company, National General Insurance Company, New South Insurance Company, Nuvell Credit Company LLC, Nuvell Financial Services LLC, Residential Funding Company, LLC Saab Financial Services LLC, Saab Leasing Company, Semperian, and Union Trust Mortgage Services, Inc.</small></p>
 					
 		
 		
@@ -1818,6 +1853,7 @@ s.eVar32=""
 s.eVar33=""
 s.eVar34=""
 s.eVar35=""
+tc.extra_info = 'customerid='+s.eVar1;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.12. -->
@@ -1859,7 +1895,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			</b></td>
 </tr>
 <tr border="0"><td border="0">
-<center><a href="javascript:closeLegalMessage('http://www.gmacmortgage.com')" id="closeMessage" onclick="s_objectID=&quot;javascript:closeLegalMessage('http://www.gmacmortgage.com')_1&quot;;return this.s_oc?this.s_oc(e):true">Close</a></center>
+<center><a href="javascript:closeLegalMessage('http://www.gmacmortgage.com')" id="closeMessage">Close</a></center>
 </td></tr>
 </tbody></table>
 </div>
@@ -1874,7 +1910,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 			</b></p></td>
 </tr>
 <tr border="0"><td border="0">
-<center><a href="javascript:closeLegalMessage('http://www.gmacmortgage.com')" id="closeExtMessage" onclick="s_objectID=&quot;javascript:closeLegalMessage('http://www.gmacmortgage.com')_2&quot;;return this.s_oc?this.s_oc(e):true">Close</a></center>
+<center><a href="javascript:closeLegalMessage('http://www.gmacmortgage.com')" id="closeExtMessage">Close</a></center>
 </td></tr>
 </tbody></table>
 </div>
@@ -1885,13 +1921,9 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 <!-- Begin Page Footer -->
 
-					<div id="page_footer">
-				<p id="footer_nav"><a href="/About_Us/Legal_Information/Privacy.html" title="Privacy" onclick="s_objectID=&quot;https://web.archive.org/About_Us/Legal_Information/Privacy.html_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy</a> | <a href="/About_Us/Legal_Information/LegalInfo.html" title="Legal Information" onclick="s_objectID=&quot;https://web.archive.org/About_Us/Legal_Information/LegalInfo.html_1&quot;;return this.s_oc?this.s_oc(e):true">Legal Information</a> | <a href="javascript:initLegalMessage('http://www.GMACInsurance.com')" title="Auto Insurance" onclick="s_objectID=&quot;javascript:initLegalMessage('http://www.GMACInsurance.com')_1&quot;;return this.s_oc?this.s_oc(e):true">Auto Insurance</a> 
-					| <a href="/Utilities/Contact_Us/ContactUs.html" title="Contact Us" onclick="s_objectID=&quot;https://web.archive.org/Utilities/Contact_Us/ContactUs.html_2&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a> | <a href="/About_Us/about_us.html" title="About Us" onclick="s_objectID=&quot;https://web.archive.org/About_Us/about_us.html_1&quot;;return this.s_oc?this.s_oc(e):true">About Us</a> 
-						| <a href="http://jobpath.com/csh/search.aspx?csh=csh_gmacrfc&amp;pubjobs=true&amp;privjobs=true&amp;int=false" title="Careers" target="_blank" onclick="s_objectID=&quot;http://jobpath.com/csh/search.aspx?csh=csh_gmacrfc&amp;pubjobs=true&amp;privjobs=true&amp;int=false_1&quot;;return this.s_oc?this.s_oc(e):true">Careers</a> | <a href="/Utilities/siteMap.html" title="Site Map" onclick="s_objectID=&quot;https://web.archive.org/Utilities/siteMap.html_2&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a></p><p id="disclaimer"><span class="equal">&nbsp;</span>  © 2008 GMAC Mortgage, LLC (f/k/a GMAC Mortgage Corporation). All rights reserved.  <br>GMAC is a registered service mark.
-	<br><br><a href="/About_Us/Legal_Information/Privacy.html" onclick="s_objectID=&quot;https://web.archive.org/About_Us/Legal_Information/Privacy.html_2&quot;;return this.s_oc?this.s_oc(e):true"><img src="/images/red_logo.gif"></a></p>
-		<p id="print_disclaimer" align="left">  © 2008 GMAC Mortgage, LLC (f/k/a GMAC Mortgage Corporation). All rights reserved. GMAC is a registered service mark.</p>
-
+					<div id="page_footer"> <img src="/images/ehl_2.gif" alt="Equal Housing Lender" style="float:left; padding-left:170px;"> <a href="/About_Us/Legal_Information/Privacy.html"><img src="/images/red_logo.gif" alt="Digital Security by Entrust" style="float: right; padding-right:170px;"></a>
+		<p><a href="/About_Us/Legal_Information/Privacy.html">Privacy</a> | <a href="/About_Us/Legal_Information/LegalInfo.html">Legal Information</a> | <a href="javascript:initLegalMessage('http://www.GMACInsurance.com')">Auto Insurance</a> | <a href="/Utilities/Contact_Us/ContactUs.html">Contact Us</a> | <a href="/About_Us/about_us.html">About Us</a> | <a href="http://www.gmacfs.com/us/en/about/careers/careers.html" target="_blank">Careers</a> | <a href="/Utilities/siteMap.html">Site Map</a><br>
+	© 2009 GMAC Mortgage, LLC. All rights reserved. GMAC is a registered service mark.</p>
 					
 		
 </div>
