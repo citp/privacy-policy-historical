@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectgonzo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021016id_/http%3A//www.perfectgonzo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectgonzo.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506081206id_/http%3A//www.perfectgonzo.com/privacy.php) for the most accurate reproduction.*
 
 # Perfectgonzo.com Webmaster Program
 
@@ -7,4 +7,4 @@ We take your privacy VERY seriously. All information submitted to Perfectgonzo.c
 
 If you chose Epassporte as a payment option and you instructed us to create an account for you, you acknowledge that we must share the information about your name & address to Epassporte in order for your account to be created.
 
-If you have questions or comments please [contact us.](https://web.archive.org/web/20081217021016id_/http%3A//www.perfectgonzo.com/support.php)
+If you have questions or comments please [contact us.](https://web.archive.org/web/20090506081206id_/http%3A//www.perfectgonzo.com/support.php)
