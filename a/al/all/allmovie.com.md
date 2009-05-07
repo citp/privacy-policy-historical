@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616063858id_/http%3A//allmovie.com/a_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507171512id_/http%3A//www.allmovie.com/about/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - AllMovie
 
 Last Updated: June 2004
 
@@ -27,7 +27,7 @@ When you use any of the All Media Guide sites, we may collect tracking informati
 All Media Guide may provide aggregate statistics about our users, traffic patterns and related site information to reputable third-party vendors, but these statistics do not include personally-identifiable information. 
 
 **Tracking information -- cookies, Web bugs, and IP addresses**  
-To store and track user information, we use "cookies" and “clear GIFs,” which are also sometimes called “Web bugs” or “Web beacons.” Cookies alone do not tell us your e-mail address or other personally identifiable information unless you opt to provide this information to us by, for example, registering to use enhanced content features on the allmusic.com site. A cookie is data sent to your browser from a Web server. It is stored on your computer's hard drive, and contains a unique identifier that allows our sites to recognize your computer. If you are a Registered Member, a cookie on your computer lets us remember your user name and password so you don't have to re-enter that information each time you visit the site. It also helps us to ensure that a Registered Member’s account is only accessed and used by the account owner. 
+To store and track user information, we use "cookies" and clear GIFs, which are also sometimes called Web bugs or Web beacons. Cookies alone do not tell us your e-mail address or other personally identifiable information unless you opt to provide this information to us by, for example, registering to use enhanced content features on the allmusic.com site. A cookie is data sent to your browser from a Web server. It is stored on your computer's hard drive, and contains a unique identifier that allows our sites to recognize your computer. If you are a Registered Member, a cookie on your computer lets us remember your user name and password so you don't have to re-enter that information each time you visit the site. It also helps us to ensure that a Registered Members account is only accessed and used by the account owner. 
 
 The use of cookies is standard on the Internet, and you will find they are currently used by many major Web sites. You can set your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. We do not require you to use cookies, but please keep in mind that certain features and services will not function properly if you set your browser to refuse cookies. 
 
@@ -43,14 +43,14 @@ If you want to prevent a third-party advertiser from setting or reading cookies 
 
 All Media Guide uses commercially reasonable efforts to safeguard the confidentiality of your personally identifiable information. However, due to the design of the Internet, ever-changing technology and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. All Media Guide will have no liability for disclosure of personally identifiable information due to errors in transmission or unauthorized or unlawful acts of third parties. 
 
-**_COMMITMENT TO CHILDREN’S PRIVACY_**
+**_COMMITMENT TO CHILDRENS PRIVACY_**
 
 Protecting the privacy of children is important to All Media Guide. For that reason, none of our Web sites are structured specifically to attract anyone under 13, nor do we collect or maintain personally identifiable information at our sites from those who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personally identifiable information. 
 
 **_CHANGING YOUR PERSONAL INFORMATION & PREFERENCES_**
 
 **Your Right to Choose**  
-When you register to access enhanced allmusic.com content features, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personally identifiable information. You may also later opt out of receiving such information by changing your Account Preferences in the [Help Center](https://web.archive.org/cg/amg.dll?p=amg&sql=32:amg/info_pages/a_help_center.html). All newsletters and email announcements from All Media Guide will contain an “unsubscribe” link that also allows you to opt out at any time.
+When you register to access enhanced allmusic.com content features, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personally identifiable information. You may also later opt out of receiving such information by changing your Account Preferences in the [Help Center](https://web.archive.org/cg/amg.dll?p=amg&sql=32:amg/info_pages/a_help_center.html). All newsletters and email announcements from All Media Guide will contain an unsubscribe link that also allows you to opt out at any time.
 
 **Review and Correction**  
 You may review and update the personally identifiable information that you have provided us by visiting the Member Center and updating your Account Profile. 
@@ -65,7 +65,7 @@ All Media Guide will not otherwise use or disclose your personal information wit
 
 **_CHANGES_**
 
-All Media Guide will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. Any revisions to the Policy will be reflected by a change in the date in the “Last Updated” line at the top of this page. If there are material changes to this Policy or in how we treat your personally identifiable information, All Media Guide will prominently post such changes thirty (30) days prior to implementing the change, and will notify all Registered Members by email. All Media Guide encourages you to periodically review this Policy to be informed of how we are protecting your information. 
+All Media Guide will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. Any revisions to the Policy will be reflected by a change in the date in the Last Updated line at the top of this page. If there are material changes to this Policy or in how we treat your personally identifiable information, All Media Guide will prominently post such changes thirty (30) days prior to implementing the change, and will notify all Registered Members by email. All Media Guide encourages you to periodically review this Policy to be informed of how we are protecting your information. 
 
 **_CONTACT US_**
 
