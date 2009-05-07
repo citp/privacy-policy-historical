@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcfb.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223204455id_/http%3A//tcfb.com/community/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcfb.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508005747id_/http%3A//tcfb.com/community/privacy.php) for the most accurate reproduction.*
 
-# The Community For Business :: Privacy Policy
+# Privacy Policy
 
 **General**   
 TCFB.com takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it.
