@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013215id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507190301id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
 
 # Web Based Time Management QuickBooks® Timer, GetMyTime.com _ Privacy Statement
 
