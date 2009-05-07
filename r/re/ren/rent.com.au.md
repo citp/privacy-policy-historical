@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081423id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507184107id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
 
 # Search rental properties apartments, houses, units, holiday accommodation, shared property - rent.com.au
 
