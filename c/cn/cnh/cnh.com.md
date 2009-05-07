@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnh.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113104104id_/http%3A//www.cnh.com/wps/portal/cnhportal/cnh.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnh.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507211852id_/http%3A//cnh.com/wps/portal/cnhportal/cnh.com/privacyPolicy) for the most accurate reproduction.*
 
 # CNH >> Privacy Policy
 
@@ -21,13 +21,13 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 **Children's Guidelines**  
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
+Our Web site meets the guidelines of TRUSTe's Children's program and we will: 
 
-  * NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent 
-  * NOT collect personally identifiable offline contact information without prior parental consent 
-  * NOT distribute to third parties any personally identifiable information with out prior parental consent 
-  * NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
-  * NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity 
+  * NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. 
+  * NOT collect personally identifiable offline contact information without prior parental consent. 
+  * NOT distribute to third parties any personally identifiable information with out prior parental consent. 
+  * NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent. 
+  * NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. 
 
 
 
