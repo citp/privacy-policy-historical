@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ice.gov privacy policy that was archived on 2008-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081204143744id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ice.gov privacy policy that was archived on 2009-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090507182438id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>ICE Website Legal Information</title><!-- Begin Top Menu Bar -->
 <!-- STYLE -->
@@ -8,6 +8,15 @@
 	<link rel="stylesheet" href="/css/common/nav.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" href="/css/nav-fix.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
+     <!-- The following loads the collapsible menus for the Quick link tree menus, which may or may not be on every page -->
+    <link href="/css/spryassets/sprycollapsiblepanel-nav.css" rel="stylesheet" type="text/css">
+    <script src="/css/spryassets/sprycollapsiblepanel.js" type="text/javascript"></script>
+    
+    
+    <!-- This script loads the google search .css. If JS is turned on, the css loads and removes the search box that goes to the MS index search and replaces with the google search box. If JS is not on, the style sheet is not loaded and the MS index search box displays -->
+	 <script type="text/javascript">
+		document.write('<link rel="stylesheet" href="/css/search-css.css" type="text/css" media="screen, projection" />')
+	</script><link rel="stylesheet" href="/css/search-css.css" type="text/css" media="screen, projection">
 
 <!-- END STYLE -->
 	<script language="JavaScript" src="/css/ice_js_funcs.js" type="text/javascript"></script>
@@ -36,7 +45,7 @@
 <div id="pagecontainer">
 
 <!--Hidden Stuff-->
-<div class="hide"><a href="#content">Skip Navigation</a></div> 
+<div class="off-screen"><a href="#content">Skip Navigation</a></div> 
 <div id="printlogo"><img src="/images/print_logo.gif" alt="print logo" width="220" height="80"></div>
 
 <!-- Header -->
@@ -55,18 +64,30 @@
 <h4 class="mission">Protecting national security by enforcing 
 <span>our nation's customs and immigration laws</span></h4>
 
-		<form name="QueryForm" action="/exec/whereis/query.asp" method="post" class="search-box">
+		<form id="QueryForm" name="QueryForm" action="/exec/whereis/query.asp" method="post" class="search-box">
 			<input name="Advanced" type="hidden" value="on" alt="search">	
 			<input name="Action" type="hidden" value="Go">
 			<input type="hidden" name="FormScope" value="All">
             <label for="searchstring" class="structural structural">Enter search text</label>
-			<div class="search-container"><input id="searchstring" name="searchstring" type="text" title="Search" accesskey="3" class="populate"></div>
+			<div class="search-container"><input id="searchstring" name="searchstring" type="text" title="Search" accesskey="3" class="populate searchstring"></div>
             <input class="btn" type="submit" value="" title="Go">
 		</form>
+        
+        <form id="cse-search-box" action="/gcse-results.htm" class="search-box">
+      <div>
+        <input type="hidden" name="cx" value="008742725097888865614:-tv3i3imaqu">
+        <input type="hidden" name="cof" value="FORID:9">
+        <input type="hidden" name="ie" value="UTF-8">
+        <label for="searchstring-google" class="structural structural">Enter search text</label>
+		<input style="border-width: 0;" id="searchstring-google" name="q" type="text" accesskey="3" class="populate searchstring">
+        <input class="btn" name="sa" type="submit" value="" title="Go">
+      </div>
+    </form>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
 <div class="rss-report">
 <div class="pad">
-<a href="/doclib/rss/breakingnews.xml" class="rss"><img src="/images/global/icon_rss.gif" alt="ICE RSS feed"></a>
+<a href="/exec/rss_feeds.asp?limit=26&amp;month=all&amp;year=all&amp;category=top25&amp;state=all&amp;topic=all&amp;&amp;type=rss&amp;Submit=Go" class="rss"><img src="/images/global/icon_rss.gif" alt="ICE RSS feed"></a>
 
 <p class="report">Report suspicious activity
 <span>1-866-DHS-2-ICE</span></p>
@@ -87,7 +108,7 @@
 <td><a href="/about/index.htm"><span>About</span></a></td>
 <td><a href="/pi/topics/index.htm"><span>Programs</span></a></td>
 <td><a href="/careers/index.htm"><span>Careers</span></a></td>
-<td><a href="/pi/news/newsreleases/index.htm"><span>News</span></a></td>
+<td><a href="/pi/news/newsreleases/index.htm?top25=yes&amp;year=all&amp;month=all&amp;state=all&amp;topic=all&amp;Submit=Go"><span>News</span></a></td>
 <td class="last"><a href="/about/contact.htm"><span>Contact</span></a></td>
 <td class="border"><span>&nbsp;</span></td>
 </tr>
@@ -133,6 +154,7 @@
 <dd><a href="http://www.usa.gov/">USA.gov</a></dd>
 <dt>ICE.gov Site Tools</dt>
 <dd><a href="/about/contact.htm">Contact Us</a></dd>
+<dd><a href="/foia/index.htm">Freedom of Information</a></dd>
 <dd><a href="/about/plugins.htm">Get Browser Plug-Ins</a></dd>
 <dd><a href="/about/legal.htm">Privacy &amp; Usage Policy</a></dd>
 <dd><a href="/about/sitemap.htm">Site Map</a></dd>
@@ -179,6 +201,9 @@
 		</ul>        
 	</div> <!--boxGrayBorder-->
 
+<div style="margin-left:5px;">
+	<a href="/doclib/pi/reports/ice_annual_report/pdf/ice08ar_final.pdf"><img src="http://10.60.16.62/images/news/reports/icon_annual_report.jpg" alt="2008 ICE Annual Report Cover"></a>
+</div>
     
 </div>  <!--rightcontent-->
 
@@ -191,7 +216,7 @@
 		<!-- START: The Main section of Column D -->
 		<div id="column-d-main">
 			<div id="wedge"><div id="contenthead">
-				<h1>ICE.gov Site Tools</h1>
+				<h1>ICE Information</h1>
 
 			</div><!-- CONTENTSTART -->
 
@@ -453,7 +478,7 @@ Washington, D.C. 20528</p>
 <td><img src="/images/common/footer_divider.gif" alt="test divider"></td>
 <td><a href="http://www.usa.gov/" onclick="window.open('http://www.usa.gov/', 'window_name', 'toolbar=no, location=no, status=yes, menubar=yes, scrollbars=yes, resizable=yes, width=600, height=400'); return false">USA.gov</a></td>
 <td>|</td>
-<td><a href="/foia/index.htm">Freedom of Information (FOIA)</a></td>
+<td><a href="/foia/index.htm">Freedom of Information</a></td>
 <td>|</td>
 <td><a href="/about/legal.htm">Privacy &amp; Usage Policy</a></td>
 <td>|</td>
