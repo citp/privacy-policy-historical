@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the userzoom.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143846id_/http%3A//www.userzoom.com/home_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userzoom.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507181229id_/http%3A//www.userzoom.com/terms-service-and-privacy-policy) for the most accurate reproduction.*
 
-# UserZoom - Privacy Policy
+# Terms of service and privacy policy | Userzoom
+
+## Privacy Policy
 
 UserZoom is a user experience market research company. We have a technology that enables to do user experience and usability remote studies. Study participants may be clients, employees, panelists, suppliers, customers etc. of our customers. Information that study participants provide resides on our servers in a secure environment.
 
-**US contact information:**  
-440 N Wolfe Rd.  
+**US contact information:**
+
+  * 440 N Wolfe Rd.  
 Sunnyvale, CA 94085, USA  
 Email: [info@userzoom.com](mailto:info@userzoom.com)  
 Telephone at +1 408-524-7445
 
-**EUROPE contact information:**  
-Av. Diagonal 419, 3-2  
+
+
+**EUROPE contact information:**
+
+  * Av. Diagonal 419, 3-2  
 Barcelona, 08008, SPAIN  
 Email: [info@userzoom.com](mailto:info@userzoom.com)  
 Telephone at +34 93-414-7554
+
+
 
 ### Disclosure of Information
 
@@ -34,9 +42,9 @@ Please be aware that some of the Web sites you may choose to link to from our si
 
 "Cookies" are small text files stored on a study participants hard drive; not on our site. UserZoom only uses cookies to prevent participants from taking the same survey multiple times. We do not use "tracking cookies."
 
-Use of General Clients Data   
-UserZoom will not reveal to any customer what URLs or transactions another customer is measuring. UserZoom will not reveal to any customer any proprietary consulting reports.   
+Use of General Clients Data 
 
+UserZoom will not reveal to any customer what URLs or transactions another customer is measuring. UserZoom will not reveal to any customer any proprietary consulting reports. 
 
 ### Limitation of Liability
 
