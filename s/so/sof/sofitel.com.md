@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofitel.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612224300id_/http%3A//www.sofitel.com/gb/security-certificate/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofitel.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507080948id_/http%3A//www.sofitel.com/gb/security-certificate/index.shtml) for the most accurate reproduction.*
 
 # Sofitel: information relating to security and confidentiality
 
