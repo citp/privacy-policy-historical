@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108204756id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507204415id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
 
 # Elitist Jerks - FAQ: Privacy Statement
 
@@ -11,7 +11,10 @@
   
 | Welcome to Elitist Jerks  
 ---  
-If this is your first visit, please be sure to check out the [**FAQ**](http://elitistjerks.com/faq.php?faq=vb_faq#faq_forumrules) and the [forum rules](http://elitistjerks.com/misc.php?do=cfrules). Users must [**register**](https://web.archive.org/web/20081108204756id_/http%3A//elitistjerks.com/register.php) to post and new registrations are subject to a one day "mute" period to get acquainted with the community. To start viewing messages, select the forum that you want to visit from the selection below.   
+We're testing some new features on the site regarding OpenID registration and coordination with gamerDNA. If you experience any issues with registering an account, please take the time to fill out a report a [**send it to this e-mail address**](mailto:openid@elitistjerks.com?subject=OpenID%20Support%20Request). We would appreciate any assistance you could provide in making sure everything is functioning as intended. Thanks!
+
+If this is your first visit, please be sure to check out the [**FAQ**](https://web.archive.org/faq.php?faq=vb_faq#faq_forumrules) and the [**forum rules**](https://web.archive.org/misc.php?do=cfrules). Users must [**register**](https://web.archive.org/web/20090507204415id_/http%3A//elitistjerks.com/register.php) to post and new registrations are subject to a one day "mute" period to get acquainted with the community.   
+  
   
   
 Information Collection and Use  
@@ -24,7 +27,7 @@ We will not sell, trade, or rent your personally identifiable information to oth
   
 Cookies  
 ---  
-Our site may use cookies to help track usage patterns on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this, is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on their sites. However, we have no access to, or control over these cookies.  
+Our site may use cookies to help track usage patterns on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to login a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this, is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on their sites. However, we have no access to, or control over these cookies.  
   
 Legal Disclaimer  
 ---  
@@ -49,6 +52,5 @@ Elitist Jerks takes every precaution to protect users' information. When users s
 Questions?  
 ---  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us via e-mail to [admin@elitistjerks.com](mailto:admin@elitistjerks.com).  
-  
   
 
