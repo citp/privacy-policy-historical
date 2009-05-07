@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esquire.co.za privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219180105id_/http%3A//shop.esquire.co.za/legal.aspx%3Fkey%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esquire.co.za privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507224505id_/http%3A//shop.esquire.co.za/legal.aspx%3Fkey%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Esquire Technologies - Privacy Policy
 
