@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162718id_/http%3A//www.pixellogo.com/Privacy-Policy-sp-6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507085402id_/http%3A//www.pixellogo.com/Privacy-Policy-sp-6.html) for the most accurate reproduction.*
 
 # Logo Design – Logo Templates, Business & Company Logos, Custom Logo Design & Corporate Logos, 3D Logos
 
