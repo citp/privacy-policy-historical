@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108063854id_/http%3A//dating.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508192851id_/http%3A//www.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# Tubely - 100% Free Online Dating Service
+# Tubely
 
 **Tubely Privacy Policy**
 
@@ -78,7 +78,14 @@ Users who no longer wish to receive our weekly updates or news may opt-out of re
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Tubely does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networksThis privacy statement covers the use of cookies by Tubely and does not cover the use of cookies by any advertisers. 
+The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Tubely does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks This privacy statement covers the use of cookies by Tubely and does not cover the use of cookies by any advertisers.  
+
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 **Contacting the Web Site**
 
