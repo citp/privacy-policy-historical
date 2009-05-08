@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogads.com privacy policy that was archived on 2008-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081229184027id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogads.com privacy policy that was archived on 2009-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090508144730id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -173,6 +173,8 @@
                         <input type="password" size="15" alt="Password" accesskey="accesskeys-login" name="__ac_password" id="__ac_password">
                     </div>
 
+                    
+
                     <div class="formControls">
 
                         <input class="context" type="submit" name="submit" value="Log in" alt="Log in" accesskey="accesskeys-login">
@@ -188,6 +190,32 @@
         </div>
 
     </div>
+
+    <script type="text/javascript">
+    <!--
+    var email = document.getElementById('__ac_name');
+    var password = document.getElementById('__ac_password');
+
+    function get_email_address() {
+        var url = window.location.toString();
+        url.match(/\?(.+)$/);
+        var params = RegExp.$1;
+        var params = params.split("&");
+        var queryStringList = {};
+        for(var i=0;i<params.length;i++) {
+          var tmp = params[i].split("=");
+          queryStringList[tmp[0]] = unescape(tmp[1]);
+       }
+       return queryStringList['email'];
+    }
+
+    if (document.getElementById('error_field') && password && email) {
+        email.value = get_email_address();
+        password.value = '';
+        password.focus();
+    }
+    -->
+    </script>
 
 
 </div>
@@ -305,7 +333,7 @@
            <div class="portlet_content_from_wrapper"><div id="portlet-feed-display">
    <h4>Headlines</h4>
    <div>
-       <span class="blogad_rss_ad"><ul><li><a href="http://weblog.blogads.com/1727/huff-posts-aka-copypaste">Huff posts (aka copy/paste)</a></li><li><a href="http://weblog.blogads.com/1726/to-thick-to-run">To thick to run</a></li><li><a href="http://weblog.blogads.com/1723/education">Education</a></li><li><a href="http://weblog.blogads.com/1721/black-boxes-within-black-boxes">Black boxes within black boxes</a></li><li><a href="http://weblog.blogads.com/1720/photos-from-our-friday-night-holiday-bash">Photos from our Friday night holiday bash</a></li><li><a href="http://weblog.blogads.com/1719/pizza-hut-idiocy">Pizza Hut idiocy</a></li><li><a href="http://weblog.blogads.com/1718/blagojevichs-only-mistake">Blagojevich’s only mistake…</a></li><li><a href="http://weblog.blogads.com/1717/the-gift-that-keeps-on-giving-live">The gift that keeps on giving… live!</a></li><li><a href="http://weblog.blogads.com/1715/rot-wiles">Rot wiles</a></li><li><a href="http://weblog.blogads.com/1714/schnell">Schnell!</a></li></ul></span>
+       <span class="blogad_rss_ad"><ul><li><a href="http://weblog.blogads.com/1890/thestreetcom-ad-sales-off-26">TheStreet.com ad sales off 26%</a></li><li><a href="http://weblog.blogads.com/1889/ad-spending-off-9-in-q4">Ad spending off 9% in Q4?</a></li><li><a href="http://weblog.blogads.com/1888/vote-for-megans-hoodie">Vote for Megan’s hoodie!</a></li><li><a href="http://weblog.blogads.com/1887/celebrity-media-disruption">Celebrity media disruption</a></li><li><a href="http://weblog.blogads.com/1886/start-up-tips">Start-up tips</a></li><li><a href="http://weblog.blogads.com/1885/blogads-tee-shirts">Blogads tee-shirts</a></li><li><a href="http://weblog.blogads.com/1884/too-many-publishers">Too many publishers</a></li><li><a href="http://weblog.blogads.com/1883/risk-avalanche">Risk avalanche = higher yields</a></li><li><a href="http://weblog.blogads.com/1882/social-radar">Social radar</a></li><li><a href="http://weblog.blogads.com/1879/testing-new-rsstool">Testing new RSS tool</a></li></ul></span>
    </div>
 
 </div>
@@ -640,13 +668,17 @@ Agreement.</span>
 
       
 	<div id="portal-footer">
-        <span class="copyright">© Pressflex LLC 2002-2008</span>
+	
+	
+	    <span class="copyright">© Pressflex LLC 2002-2009</span>
+	
     	<span class="links">
     	    <a href="http://web.blogads.com/FAQ/viewers">FAQ</a> |
     	    <a href="http://web.blogads.com/ba_contact_us">Contact</a> |
     	    <a href="Documents/about_blogads">About</a> |
     	    <a href="Documents/privacy_policy">Terms &amp; Privacy Policy</a> |
     	    <a href="Documents/dmca_compliance_policy">DMCA Compliance</a>
+	    
 	    
 	</span>
 	<br>
