@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073249id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508115520id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # CareerAge.com Privacy Policy
 
@@ -70,11 +70,18 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on CareerAge.com. 
 
-  9. **Use of Web Beacons**
+    * Google, as a third party vendor, uses cookies to serve ads on CareerAge.com 
+    * Google's use of the DART cookie enables it to serve ads to our users based on their visit to CareerAge.com and other sites on the Internet. 
+    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  9. **Third-party Advertising Companies**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you 
+
+  10. **Use of Web Beacons**
 
 CareerAge.com Web pages do not contain electronic images known as Web beacons (sometimes called single-pixel gifs). 
 
-  10. **Access to and Modification of Your Information**
+  11. **Access to and Modification of Your Information**
 
 You may review, correct, update or change your account information at any time. 
 
@@ -84,17 +91,17 @@ If you opted to receive newsletters, commercial e-mails or other communications 
 
 We retain indefinitely all the information we gather about you in an effort to make your repeat use of CareerAge.com more efficient, practical, and relevant. Of course, you can delete your resume from CareerAge.com's online database, close your account at any time (by writing to us at support@CareerAge.com) in which event we will remove all our copies of your resume from CareerAge.com, your account information except for an archival copy which is not accessible on the Internet. 
 
-  11. **Security of the Personal Information**
+  12. **Security of the Personal Information**
 
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. 
 
 When you place an order online at CareerAge.com your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. We use a service company to process its credit card transactions. For further information on this company's privacy and security practices, please http://www.ccavenues.com and http://www.Paypal.com 
 
-  12. **Children**
+  13. **Children**
 
 The CareerAge.com Sites are not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18. 
 
-  13. **Changes to Privacy Statement**
+  14. **Changes to Privacy Statement**
 
 If we decide to materially change our Privacy Statement for CareerAge.com, we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. 
 
