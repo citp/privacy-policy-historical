@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuemagic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112820id_/http%3A//www.revenuemagic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuemagic.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508081334id_/http%3A//revenuemagic.com/privacy.php%3F%3F) for the most accurate reproduction.*
 
 # Cash Back Reward based Advertising at Revenue Magic!
 
