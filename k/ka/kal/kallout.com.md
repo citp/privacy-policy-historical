@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kallout.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003944id_/http%3A//kallout.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kallout.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508025007id_/http%3A//www.kallout.com/privacypolicy.html) for the most accurate reproduction.*
 
 # KallOut - Search Outside the Box
 
