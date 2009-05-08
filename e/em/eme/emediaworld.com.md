@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emediaworld.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118193818id_/http%3A//www.emediaworld.com/emediaworld.com-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediaworld.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508063532id_/http%3A//www.emediaworld.com/legal/privacy) for the most accurate reproduction.*
 
 # eMediaWorld.com Privacy - eMediaWorld - Newswire Service - FreePressRelease
 
