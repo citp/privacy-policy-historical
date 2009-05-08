@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010416id_/http%3A//www.webpt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508094819id_/http%3A//www.webpt.com/privacy.php) for the most accurate reproduction.*
 
 # WebPT.com Privacy Policy
 
@@ -55,4 +55,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at (866) 221-1870 or [send us an email](https://web.archive.org/web/20081220010416id_/http%3A//www.webpt.com/moreinfo.php "Email WebPT.com").
+Should you have other questions or concerns about these privacy policies, please call us at (866) 221-1870 or [send us an email](https://web.archive.org/web/20090508094819id_/http%3A//www.webpt.com/moreinfo.php "Email WebPT.com").
