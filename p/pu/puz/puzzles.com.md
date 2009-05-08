@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912185753id_/http%3A//www.puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzles.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508073253id_/http%3A//puzzles.com/Office/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Puzzles.COM - Our Privacy Policy
 
 |  |   
 ---|---|---  
-|  [ Home](https://web.archive.org/web/20080912185753id_/http%3A//www.puzzles.com/index.htm) / |   
+|  [ Home](https://web.archive.org/web/20090508073253id_/http%3A//puzzles.com/index.htm) / |   
 |  |   
 | 9 Quetions About Our Privacy Policy |   
 |  |   
@@ -84,12 +84,12 @@ Attn: A. Barthello
 
 You can also reach us by phone at 1-703-549-4999.
 
-Also a list of people who may access your information in addition to A. Barthello is [here](https://web.archive.org/web/20080912185753id_/http%3A//www.puzzles.com/Office/PPList.htm).
+Also a list of people who may access your information in addition to A. Barthello is [here](https://web.archive.org/web/20090508073253id_/http%3A//puzzles.com/Office/PPList.htm).
 
 |   
 |  |   
 |  *Puzzles.COM is owned and operated by ThinkFun Inc., Everybody plays. ThinkFun designs, manufactures and sells a wide range of thinking games, brainteaser puzzles and toys. |   
 |  |   
-|  |  Last Updated: July 24, 2008 | top |   
+|  |  Last Updated: January 2, 2009 | top |   
 ---|---|---  
 |  | 
