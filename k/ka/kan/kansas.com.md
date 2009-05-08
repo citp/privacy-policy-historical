@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014000id_/http%3A//www.kansas.com/ss/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508070044id_/http%3A//www.kansas.com/ss/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kansas.com
+# Privacy Policy | Wichita Eagle
 
 ##### Effective Date: February 23, 2007.
 
