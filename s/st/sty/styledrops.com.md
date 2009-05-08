@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160556id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508111804id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.*
 
 # Prada Gucci Fendi Tod's Hogan Designer Shoes Handbags and Apparel Made in Italy
 
@@ -28,8 +28,9 @@ We implement a variety of security measures to maintain the safety of your perso
 **Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:  
-**For US customers:** **0039-011-5096531** (Monday to Friday 7.30 am - 1.30 pm USA EST)   
-**For International Customers: +390115096531** (Monday to Friday 1.30 pm - 7.30 pm CET)
+**For US customers:** **0039-011-5096531** (Monday to Friday 8 am - 1.30 pm USA EST)   
+**For China:** +390115096531 (Monday to Friday 9 pm - 2.30 am Central European Time)  
+**For International Customers: +390115096531** (Monday to Friday 2 pm - 7.30 pm CET)
 
 **Do we disclose the information we collect to outside parties?  
 **We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include STYLEDROPS.com. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Styledrops's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
