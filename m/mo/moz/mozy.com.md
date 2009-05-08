@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035424id_/http%3A//mozy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508122308id_/http%3A//mozy.com/privacy) for the most accurate reproduction.*
 
 # Data Backup and Computer Backup Privacy Policy - Mozy.com - Privacy Policy
 
@@ -86,7 +86,7 @@ If you have a dispute or complaint about privacy on a Decho website, we kindly a
 
 **Adherance to European Union Safe Harbor Privacy Principles**
 
-Decho has instituted measures and mechanisms to ensure adherence to the European Union Safe Harbor Privacy Principles. Among other requirements, adherence involves engaging an independent third party to resolve privacy disputes. If you are a European consumer and feel your privacy dispute or complaint has not been adequately resolved, the [Council of Better Business Bureaus](http://www.bbbonline.org/privacy/eu.asp) has been contracted by Decho to handle complaints that allege a failure to comply with the Safe Harbor Privacy Principles.
+Decho has instituted measures and mechanisms to ensure adherence to the European Union Safe Harbor Privacy Principles. Among other requirements, adherence involves engaging an independent third party to resolve privacy disputes. If you are a European consumer and feel your privacy dispute or complaint has not been adequately resolved, the [Council of Better Business Bureaus](http://www.bbb.org/us/safe-harbor/) has been contracted by Decho to handle complaints that allege a failure to comply with the Safe Harbor Privacy Principles.
 
 **CONTACTING DECHO**
 
