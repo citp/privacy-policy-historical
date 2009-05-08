@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919091904id_/http%3A//hostdeal.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508134725id_/http%3A//hostdeal.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hostdeal - Zero Downtime Hosting, CPanel, Windows, Hybrid OS, Fantastico, Website Builder, Free Setup, Unmetered, Unlimited Domains
 
