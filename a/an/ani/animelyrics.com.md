@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011806id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509164950id_/http%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
-**Welcome to Animelyrics.com Guest. If you have a site account you can[log in](http://www.animelyrics.com/?action=login) here.** Our postal address is  
+Our postal address is  
 2006 Benson ave 3d  
 Brooklyn, NY 11214  
 We can be reached via e-mail at webmaster@animeglobe.com
