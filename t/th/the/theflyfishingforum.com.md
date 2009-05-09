@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theflyfishingforum.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224011346id_/http%3A//www.theflyfishingforum.com/forums/f52/nafff-privacy-policy-1259.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflyfishingforum.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509211421id_/http%3A//theflyfishingforum.com/forums/f52/nafff-privacy-policy-1259.html) for the most accurate reproduction.*
 
-# NAFFF Privacy Policy - The North American Fly Fishing Forum
+# NAFFF Privacy Policy - Fish&Fly North American Fly Fishing Forum
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
