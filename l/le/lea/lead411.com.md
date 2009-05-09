@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922201350id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509085134id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411 Privacy Policy
 
@@ -10,7 +10,7 @@ Lead411 holds the privacy and security of our site visitors and members as one o
 
 You can contact us by email: 
 
-[help@lead411.com](mailto:help@lead411.com), mail: 326 Hollipat Center Drive #17, Santa Barbara, CA 93111, or by telephone: 310.930.5865. Contact us if any of these privacy policies have been broken. 
+[help@lead411.net](mailto:help@lead411.net), mail: 326 Hollipat Center Drive #17, Santa Barbara, CA 93111, or by telephone: 805.896.1376. Contact us if any of these privacy policies have been broken. 
 
 **What Information is collected?**
 
@@ -39,7 +39,7 @@ All submitted information is treated as confidential by Lead411 staff, affiliate
 
 **User Access to Information Collected** In order for a Member to change or modify its password, eMail and/or user name, send an email to the following address: 
 
-[help@lead411.com](mailto:help@lead411.com). We will contact you to change your information. 
+[help@lead411.net](mailto:help@lead411.net). We will contact you to change your information. 
 
 **Lost or Stolen Information** If you lose your password, you may re-acquire it from the 
 
