@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071111id_/http%3A//lovemoney.com/help/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509161307id_/http%3A//www.lovemoney.com/help/privacystatement.aspx) for the most accurate reproduction.*
 
-# lovemoney.com - Privacy
+# Privacy statement - lovemoney.com
 
-lovemoney.com takes the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy and Cookie Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at 
+lovemoney.com takes the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This Privacy and Cookie Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback")
 
 ## The information we collect
 
@@ -10,13 +10,14 @@ lovemoney.com takes the issue of privacy very seriously and we are committed to 
   * **Emailing an article:** If you use our recommendation service to email an article you will need to provide us with your friend's email address. lovemoney.com will automatically send this person a one-time email, attaching the recommended article as well as inviting them to visit and register with our site. We will not use these email addresses for any other purpose. 
   * **Comparison centres:** We may also ask for additional information (such as your name, date of birth and financial data) when you initiate an inquiry about a product or service featured in one of our comparison centres. If you don't want to give us the information requested, you certainly don't have to, but you will not be able to take advantage of such offerings
   * **Optional services:** On occasion, we may also ask you for other personal information in connection with surveys, sweepstakes or other promotional offers running on our site but again, your participation in these features are purely voluntary. 
-  * **Information we automatically track:** While on our site, we automatically log certain information about how you're using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site.
+  * **Information automatically tracked:** While on our site, we automatically log certain information about how you're using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site.
+  * **lovemoney.com** engages the services of a third party analytics provider to track and analyse non-personally identifiable usage and volume statistical information from our users and visitors to our website. 
 
 
 
-If your browser is set up to accept them, we also use a feature known as a "[cookie](https://web.archive.org/help/cookie.aspx)." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours. 
+If your browser is set up to accept them, we also use a feature known as a "cookie." Cookies contain bits of information that Web sites transfer to your computer's hard drive for record keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours. 
 
-lovemoney.com may place a pixel on pages on our site, or those of our advertisers and partners. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience's behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-personally identifiable information is collected, and it cannot, by itself or in combination, be tracked to a specific individual. 
+We may also place a pixel on pages on our site, or those of our advertisers and partners. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience's behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-personally identifiable information is collected, and it cannot, by itself or in combination, be tracked to a specific individual. 
 
 Nothing in this Disclaimer excludes or limits lovemoney.com’s liability for death or personal injury caused by its proven negligence, or excludes or limits our duties or any liability under any applicable law. 
 
@@ -28,13 +29,13 @@ Nothing in this Disclaimer excludes or limits lovemoney.com’s liability for de
 
 
 
-Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use certain features of our sites . For more on managing cookies, we encourage you to read the Interactive Advertising Bureau UK's discussion on what you can do.
+Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use certain features of our sites . For more on managing cookies, we encourage you to read the [Interactive Advertising Bureau UK's](http://www.allaboutcookies.org/manage-cookies/index.html "managing cookies information") discussion on what you can do.
 
 ## Our use of this information
 
   * **More Customised Service** : lovemoney.com collects personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, lovemoney.com can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customise and seamless experience when using our service. 
   * **Internal research** : Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users' demographics and interests. Each browser accessing lovemoney.com is given a unique cookie which is then used to determine usage patterns, and to help in targeting content and ads based on user interests.
-  * **To confirm your registration and contact you** : Once you've registered, we will send you a confirmation email acknowledging your new account to the address that you supplied us. We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you'd rather not receive these subsequent communications, just drop us an email at: . 
+  * **To confirm your registration and contact you** : Once you've registered, we will send you a confirmation email acknowledging your new account to the address that you supplied us. We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you'd rather not receive these subsequent communications, just drop us an email at: [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback"). 
 
 
 
@@ -57,13 +58,13 @@ lovemoney.com is committed to protecting your personal information. All informat
 
 ## Direct mailings
 
-If you register with lovemoney.com or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only lovemoney.com will send you these notices. If you do not want to receive such offers and mailings, you can let us know or via email to  or send snail mail to: Privacy at lovemoney.com, 2nd Floor, Golden House, 30 Great Pulteney Street, London W1F 9LT. We'll remove your name from our lists as soon as we can. Another way is to simply to click the unsubscribe link found in our email messages.
+If you register with lovemoney.com or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only lovemoney.com will send you these notices. If you do not want to receive such offers and mailings, you can let us know or via email to [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback") or send snail mail to: Privacy at lovemoney.com, 2nd Floor, Golden House, 30 Great Pulteney Street, London W1F 9LT. We'll remove your name from our lists as soon as we can. Another way is to simply to click the unsubscribe link found in our email messages.
 
 ## Deactivating your account or editing your information
 
-You have the ability to edit your information and preferences at any time, including whether you want us to contact you about our various products and services. If you would rather not hear from us, you can let us know by emailing us at . Another way is to simply to click the unsubscribe link, which you will find on our email messages.
+You have the ability to edit your information and preferences at any time, including whether you want us to contact you about our various products and services. If you would rather not hear from us, you can let us know by emailing us at [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback"). Another way is to simply to click the unsubscribe link, which you will find on our email messages.
 
-If you want to correct or change the information in your Profile, or any other information we have about you, please go to your profile page or email us at . You will either be able to make your changes right there, or we'll give you instructions as to how to do what you want. If you want to change your email address for delivery of your email subscriptions or unsubscribe, you should email us at 
+If you want to correct or change the information in your Profile, or any other information we have about you, please go to your profile page or email us at [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback"). You will either be able to make your changes right there, or we'll give you instructions as to how to do what you want. If you want to change your email address for delivery of your email subscriptions or unsubscribe, you should email us at [feedback@lovemoney.com](mailto:feedback@lovemoney.com "Email your feedback")
 
 ## Other data processors
 
