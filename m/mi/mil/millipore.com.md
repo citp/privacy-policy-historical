@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081912id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509200405id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.*
 
 # Millipore - Security and Privacy
 
