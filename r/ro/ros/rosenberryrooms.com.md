@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055022id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509232642id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-|  |  Join our mailing list and receive montly specials in our newsletter  |   
-  
----|---|---  
-|  |  |   
-  
+| 
+
 * * *
 
 Thanks for shopping at Rosenberry Rooms. It is our top priority to ensure the security and privacy of your transactions with us. Any information gathered from you, including your name, email address, mailing address, phone number and credit card number, is kept secure and confidential. Rosenberry Rooms uses this information solely for order fulfillment, billing and shipping purposes. We will not share any information about you with anyone else, under any circumstances. 
@@ -33,6 +29,9 @@ U.S.A.
 Tel. +1-919-678-9999 
 
 [](http://smallbusiness.yahoo.com/merchant/)
+
+  
+
 
   
 
