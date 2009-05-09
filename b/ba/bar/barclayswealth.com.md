@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022225006id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509205648id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Barclays - Privacy Policy
+# Barclays Wealth - Privacy Policy
 
 Please read our Privacy Policy carefully before using this website ("the Site"). In this Policy "we", "us" and "our" means Barclays Bank PLC and “you” means the individual who is using the Site. By using our Site, you agree with the collection, the use and the disclosure of your personal data in accordance with this Privacy Policy. 
 
