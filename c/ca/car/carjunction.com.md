@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015746id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509164120id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Japanese Used cars and vehicles Exporter - Buy online second hand budget used cars from Japan
 
