@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160819id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509193330id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
 
 # UK Net Guide - your online guide to the best of the web: Privacy Policy
 
@@ -41,4 +41,4 @@ The UK Net Guide network contains links to other sites not affiliated with the U
 **COMMENT**  
 We suggest that you practise reasonable discretion with any site when providing site operators/owners with personal information. It should also be noted that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the Internet. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. You should feel free to contact any site that requests personal information from you if you have any questions regarding its policies. 
 
-[Back to Homepage](https://web.archive.org/default.asp)
+[Back to Homepage](https://web.archive.org/)
