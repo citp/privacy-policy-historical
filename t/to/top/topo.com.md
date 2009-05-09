@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112346id_/http%3A//www.topo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509104025id_/http%3A//topo.com/privacy) for the most accurate reproduction.*
 
 # TOPO! Explorer — Privacy Policy
 
