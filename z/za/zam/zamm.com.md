@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017205224id_/http%3A//www.zamm.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509082526id_/http%3A//www.zamm.com/company/privacy_policy) for the most accurate reproduction.*
 
-# ZAMM.com | PRIVACY POLICY
+# Privacy Policy
 
 This On-Line Privacy Policy includes details about the type of information we may collect as a result of your use of this website and the potential scope of our use of such collected information. You acknowledge and agree that ZAMM.com and/or its affiliated companies may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. 
 
@@ -33,3 +33,5 @@ We do not sell, trade, or rent to others the Personally Identifiable Information
 From time to time, we may be required to provide Personally Identifiable Information in response to a court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release certain Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of others and ourselves. It is also possible that ZAMM.com and/or its related entities could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a merger or acquisition occur, it is likely ZAMM.com and/or affiliate companies would share some or all of your Personally Identifiable Information to continue serving you and other users of the Site. 
 
 ZAMM Privacy Policy 1_1 
+
+* * *
