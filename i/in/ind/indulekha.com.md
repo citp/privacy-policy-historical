@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054033id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indulekha.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509203751id_/http%3A//indulekha.com/about/2005/11/privacy-policy.html) for the most accurate reproduction.*
 
 # INDULEKHA» about us: PRIVACY POLICY
 
