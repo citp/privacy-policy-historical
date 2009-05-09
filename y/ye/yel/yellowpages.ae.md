@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160913id_/http%3A//www.yellowpages.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509101325id_/http%3A//www.yellowpages.ae/privacy.php) for the most accurate reproduction.*
 
 # YellowPages.ae – UAE Official Online Yellow Pages/Business Directory – Privacy Policy
 
@@ -9,7 +9,7 @@
 ---  
 [](https://web.archive.org/statistics.php)  
 [](http://uae.ypmedia1.com/uploads/mob/en)  
-[](http://www.yellowpages.ae/shopping/index.php)  
+[](http://www.yellowpages.ae/shopping/)  
 [](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash)  
 [](http://www.yellowpages.ae/iypads.php)  
 | 
