@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629125157id_/http%3A//www.ekoventure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509093338id_/http%3A//www.ekoventure.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ekoVenture
 
 This site is owned and operated by ekoVenture, Inc., a Delaware Corporation. Your privacy on the Internet is of the utmost importance to us. At ekoVenture, we want to make your experience online satisfying and safe.
 
