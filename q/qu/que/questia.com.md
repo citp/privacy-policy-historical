@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221150343id_/http%3A//www.questia.com/questia/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509101115id_/http%3A//www.questia.com/questia/privacyPolicy) for the most accurate reproduction.*
 
 # The Questia Online Library
 
@@ -29,7 +29,7 @@ Specific questions or comments regarding this policy should be directed to Quest
 
 #### 1.  Information Collected
 
-Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20081221150343id_/http%3A//www.questia.com/questia/PII.html) page.
+Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [Online Registration Form](https://web.archive.org/subscribe) where you will be required to provide certain personal information. For a complete list of the information we currently may request, see our [ Personal Information Appendix](https://web.archive.org/web/20090509101115id_/http%3A//www.questia.com/questia/PII.html) page.
 
 Once you register, you can use your [My Account](https://web.archive.org/SelfCareMediator.qst?action=displaySelfCare) page to review and change the information that you submitted during registration at any time.
 
