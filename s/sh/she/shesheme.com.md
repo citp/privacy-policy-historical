@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shesheme.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913204952id_/http%3A//www.shesheme.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesheme.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510011205id_/http%3A//www.shesheme.com/privacy.htm) for the most accurate reproduction.*
 
 # SheSheMe.com
 
