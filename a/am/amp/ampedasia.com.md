@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062033id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509191914id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
 
 # Amped Asia Articles | Interviews | Opposite Sex | Style | Editorials | Entertainment
 
@@ -10,5 +10,9 @@ Amped Asia will periodically ask e-mail or contact information during some event
 When you visit Amped Asia, some information is collected such as your IP address, geographic location, and the pages you view. This information is not given to any third parties and will not be viewed by anyone besides the site administrator or senior staff members. 
 
 Cookies are set when you login to the forums, also third-party cookies are set by some of our advertising clients. These cookies are assured to be safe. 
+
+* Google, as a third party vendor, uses cookies to serve ads on Amped Asia.
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to Amped Asia and other sites on the Internet.
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
 
 If you have any questions, [contact us at mail[@]ampedasia.com](mailto:%20mail@ampedasia.com). Thank you. 
