@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227055710id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510130210id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
 # Superpages.com - Privacy Policy
 
-Idearc Media Corp. ("Idearc") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website covered by this policy. 
+Idearc Media LLC ("Idearc") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website covered by this policy. 
 
-**This Privacy Policy applies only to the user privacy of the www.superpages.com, www.bigbook.com, and www.bigyellow.com websites (each, “This Website”, as applicable). It does not apply to the offline activities of Idearc Media Corp. or any of its affiliates.**
+**This Privacy Policy applies only to the user privacy of the www.superpages.com, www.bigbook.com, and www.bigyellow.com websites (each, “This Website”, as applicable). It does not apply to the offline activities of Idearc Media LLC or any of its affiliates.**
 
 **Privacy Policy Effective Date / Updates**  
 This Privacy Policy is effective as of November 15, 2007. Our business changes constantly. Our Privacy Policy will change also, and information collected through This Website is subject to the Privacy Policy in effect at the time the information is collected (unless you consent otherwise as to information related to you). You are advised to check this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website) frequently to see recent changes. Idearc will notify users of any changes to this Privacy Policy by posting the version of the Privacy Policy containing such changes on this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website). 
