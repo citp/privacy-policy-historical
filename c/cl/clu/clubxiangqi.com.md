@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubxiangqi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040454id_/http%3A//www.clubxiangqi.com/%3FF%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubxiangqi.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510092027id_/http%3A//www.clubxiangqi.com/%3FF%3Dprivacy) for the most accurate reproduction.*
 
 # Play Chinese Chess - Xiangqi at Club Xiangqi
 
