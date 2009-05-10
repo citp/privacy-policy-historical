@@ -1,143 +1,37 @@
-> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125752id_/http%3A//www.philadelphiaweekly.com/contact/%3Fthis_page%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaweekly.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510130848id_/http%3A//www.philadelphiaweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# about us - privacy policy - philadelphia weekly online
+# Privacy Policy | Philadelphia Weekly
 
-|   
----  
-[ rss](http://www.philadelphiaweekly.com/rss)  
-[home](http://www.philadelphiaweekly.com/?show=home)  
-[top story](http://www.philadelphiaweekly.com/articles/cover-story)  
-[news & opinion](http://www.philadelphiaweekly.com/?inc=article_cat_listings&type=news-opinion)  
-[letters](http://www.philadelphiaweekly.com/articles/letters)  
-[a & e](http://www.philadelphiaweekly.com/?inc=article_cat_listings&type=ae)  
-[screen](http://www.philadelphiaweekly.com/articles/film-review)  
-[movie showtimes](http://affiliate.zap2it.com/movies/mvhome.do?aid=philwe)  
-[tv listings](http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=philwe)  
-[food](http://www.philadelphiaweekly.com/articles/restaurant-review)  
-[music](http://www.philadelphiaweekly.com/?inc=article_cat_listings&type=music)  
-[online extras](http://www.philadelphiaweekly.com/?inc=articles)  
-[archives](http://www.philadelphiaweekly.com/archives.php)  
-[blogs](http://www.philadelphiaweekly.com/?inc=blogs)  
-[podcasts](http://www.philadelphiaweekly.com/?inc=podcasts)  
-[photos](http://www.philadelphiaweekly.com/?inc=photo_galleries)  
-[video](http://www.philadelphiaweekly.com/?inc=video)  
-[listings](http://www.philadelphiaweekly.com/listings)  
-[menu guide](http://www.philadelphiaweekly.com/?inc=menu)  
-[happy hour  
-guide](http://www.philadelphiaweekly.com/happyhour)  
-[classifieds](http://www.philadelphiaweekly.com/classifieds_online)  
-[real estate](http://www.philadelphiaweekly.com/classifieds_online/?inc=classifieds&type=1)  
-[open house  
-directory](http://www.philadelphiaweekly.com/openhouse/)  
-[submit an ad](https://www.philadelphiaweekly.com/submit_ad)  
-[good stuff](http://www.philadelphiaweekly.com/?inc=goodstuff_intro)  
-[pw sponsored events](http://www.philadelphiaweekly.com/?inc=pw_events)  
-[about us /  
-contact](http://www.philadelphiaweekly.com/contact)  
-[advertising](http://www.philadelphiaweekly.com/contact/?this_page=advertise.html)  
-[  
-  
-last week's issue](http://www.philadelphiaweekly.com/?inc=archives_issue&issue_id=457&li=y)
+2\. PERSONAL INFORMATION WE COLLECT. We may collect Personal Information when You: (a) sign up as a subscriber; (b) make changes to Your subscriber profile information; and (c) send e-mail messages, forms, or other information to us or via the Service. When You sign up as a subscriber, we ask for Personal Information, such as an e-mail address, to allow us to create an account for You, respond to Your questions or contact You regarding Your account. We use the e-mail address You provide on the registration form as a primary user identifier to guarantee uniqueness across the Web. 
 
-* * *
+Like many other Web sites, RP uses a standard technology called "cookies". Cookies are small pieces of information stored on Your hard drive and not on our site. They can help make Your Internet experience quicker and more convenient. Cookies allow You to login without entering Your login information each time You use the Service. Cookies help us understand how subscribers use the Service, which allows us to improve and tailor the Service. You will not be able to use the Service if You disable cookies. 
 
-  
-[](http://twitter.com/PhillyWeekly) [](http://www.new.facebook.com/pages/Philadelphia-Weekly/23117126720) [](http://www.myspace.com/philadelphiaweekly)
+3\. ORGANIZATION COLLECTING INFORMATION. RP owns and operates the PhiladelphiaWeekly.com, SouthPhillyReview.com and ACWeekly.com domains, and RP is the company that collects the Personal Information about subscribers of the Service. RP's contact information is Web [at] reviewpublishing.com . 
 
-[](https://web.archive.org/contact)
+If You have any questions about RP or the Service, please contact us using the above information. 
 
-* * *
+4\. OUR USE OF PERSONAL INFORMATION. RP uses Your Personal Information to create a secure and personalized service for You. We also use Your Personal Information to contact You, if You expressly consent, regarding updates about the Service or RP Web sites. You may opt-out of receiving mailings from us at any time by following the instructions in Section 9. 
 
-* * *
+5\. DISCLOSURE OF PERSONAL INFORMATION. We do not sell, rent, or loan Your Personal Information to third parties without Your permission. So, for example, we do not sell Your e-mail address or other Personal Information to mass marketers. We may disclose Non-personally Identifiable Information and Aggregated Information about our subscribers, but that information does not contain Personal Information. 
 
-**Privacy Policy Statement:**
+As with other Web sites, if law enforcement or judicial authorities require RP to provide Personal Information on a subscriber, we must cooperate with the authorities provided they support their requirement with the necessary legal documentation. 
 
-  * When does www.philadelphiaweekly.com gather user information? 
-  * What are my options to control the use of my personal information?
-  * Will www.philadelphiaweekly.com share any user information it collects?
-  * What is registered user data used for?
-  * What is ad placement data used for?
-  * Where is user data stored, if at all?
+6\. CHOICES YOU HAVE REGARDING COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION. You can limit the collection and use of different elements of Your Personal Information by not participating in those activities in which we collect Personal Information, as stated in Section 2. You may choose to discontinue the collection, use, and disclosure of Your Personal Information by using the Service without registering or by discontinuing Your use of the Service altogether. 
 
+Please note that if You provide any information directly to parties other than RP, different rules may apply to their use or disclosure of the Personal Information You disclose to them. We encourage You to investigate and ask questions before disclosing information to third parties. 
 
+7\. THIRD PARTY VENDORS. RP works with a third party that serves ads to this site. To find out more about how 24/7 Real Media manages the privacy of information in conjunction with serving ads on this site, please go to: <http://www.247realmedia.com/EN-US/privacy-policy.html> . RP may use other third party vendors to provide You with value-added products or service. We do not disclose Personal Information to third party vendors. 
 
-**When does www.philadelphiaweekly.com gather user information?**
+8\. PRIVACY PROTECTION FOR CHILDREN. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide our Service to persons under the age of thirteen (13). If RP later learns that any subscriber is under the age of thirteen (13), we will take appropriate steps to remove the subscriber's information from the database and will restrict access to the Service. 
 
-When a user arrives at any _www.philadelphiaweekly.com_ webpage their IP address is logged by an internet server traffic statistics program. No personal identification data is gathered at this time.
+9\. CORRECTING, UPDATING AND DELETING PERSONAL INFORMATION. You can access and update Your registration information by logging onto the Service and selecting the Registration button. The Registration page allows You to update Your registration information. You may choose to have Your Personal Information deleted by contacting Web [at] reviewpublishing.com . 
 
-If you choose to register with this website, on the Registered Users Sign-Up page you will be required to enter name, postal address, email address, and date of birth. If you check the “remember me” check box while registering a cookie will be sent to your internet browser.
+We provide You with the opportunity to opt-in to receive communications from us or any of our customer Web sites when You register for our Service. Once You opt-in, You can discontinue receiving updates about RP by sending a message to Web [at] reviewpublishing.com .
 
-If you purchase an ad online from _www.philadelphiaweekly.com_ you will be required to enter your name, postal address, phone number, email address, credit card type, credit card number, and credit card expiration date to successfully place the ad.
+10\. SECURITY PROCEDURES. RP has implemented security measures to protect Your information from loss, misuse and alteration. We use industry-standard practices, such as encrypted storage and password protection systems, to safeguard the confidentiality of Your Personal Information 
 
-We may collect personally identifiable information from you when you provide content to us for display including but not limited to, when you participate in user surveys, post messages to forum areas, submit personals or other classified listings, or to report a problem with one of our sites. None of this information will be shared with a third party.
+11\. CONSENT. This Privacy Policy is a part of the Terms of Use Policy. When You use the Service. You are using a service provided by RP and You agree to be bound by the Terms of Use and this Privacy Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only addresses activities from our servers. Other sites (including those that we link to and third party sites or services which we co-brand) may have their own policies, which we do not control, and thus are not addressed or controlled by this policy. 
 
-Also, users have the option to email an article to a friend or to themselves. The email addresses entered here are not stored or recorded. They are simply used to send the email and then are promptly disposed of. This module is not a secure section of _www.philadelphiaweekly.com_ and users enter email addresses at their own risk. _www.philadelphiaweekly.com_ is not liable or responsible for data intercepted by a third party during transmission from an non-secure website page.
+12\. NOTIFICATION OF CHANGES. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-_**Cookies.**_ A cookie is a message that is sent to your web browser from an internet server and stored on your computer's hard drive. You can set your browser preferences to reject all cookies but then you may be required to repeatedly log in to participate in various services or promotions.
-
-**_IP Address._** IP addresses are logged for the purposes of systems administration and report information. IP address is a number that is assigned to your computer when you use the Internet. If you visit _www.philadelphiaweekly.com_ , our servers log your IP address. Your IP address is not linked to anything personally identifiable. 
-
-* * *
-
-**What are my options to control the use of my personal information?**
-
-Internet browsers can be configured to reject cookies or alert you when cookies are being sent. Keep in mind that if you reject cookies, it is possible that some sections of _www.philadelphiaweekly.com_ may not function as intended.  
-In addition, website users can edit their registered user information by clicking on their username in the top left corner of the site, under the Issue Date and above the sign-out link.
-
-* * *
-
-**Will www.philadelphiaweekly.com share any user information it collects?**
-
-No. Information entered at _www.philadelphiaweekly.com_ will never be shared with, sold to, or viewed by any third party organization. You will not receive any unsolicited (Spam) email as a result of entering information on this website.
-
-* * *
-
-**What is registered user data used for?**
-
-We review our users' preferences, demographics and traffic patterns, so we can identify who our audience is, and what that audience prefers. Tracking user preferences also helps us serve you more relevant advertising. Internet traffic information is analyzed and used to make improvements to _www.philadelphiaweekly.com_ , and for marketing purposes.
-
-Email address is used to add recipients to the PW eNewsletter mailing list. Recipients have the opportunity to opt-out of receiving the newsletter by following instructions contained in every eNewsletter email they receive. _www.philadelphiaweekly.com_ may also use this email address to communicate with you in regards to your account status, major changes to the website, changes in privacy policy, or participation in surveys requesting feedback about your website experience.
-
-This information is also used when website users register for promotional contests posted on _www.philadelphiaweekly.com_. Date of birth is required to enter a promotion for age verification purposes. Name, email address address, and postal address are used to contact contest winners.
-
-Statistics on the number of registered users on _www.philadelphiaweekly.com_ will be used for marketing purposes, however, no specific identification data will ever be used in marketing or made public.
-
-* * *
-
-**What is ad placement data used for?**
-
-User data collected during ad placement is used for scheduling of the purchased ad for publication. Name, postal address, email address, and phone number will be used to contact a client in the event of a problem with their ad. Credit card information is used to bill the client for advertising purchased through www.philadelphiaweekly.com.
-
-* * *
-
-**Where is user data stored, if at all?**
-
-Registered user information is stored in an encrypted format on a secured internet server. In addition all information entered is done so from a secure socket layer web page and is encrypted during transmission. Each time a user logs in there is a selectable option for _www.philadelphiaweekly.com_ to remember the user. If selected, a cookie containing the _www.philadelphiaweekly.com_ username is placed on the users computer. This cookie is used to identify a returning registered user. A cookie is a message that is sent to your browser from a web server and stored on your computer's hard drive.
-
-Information gathered during the process of placing an ad is securely transferred to a offline advertising accounting/scheduling application. Email address gathered while ads are purchased are stored in an encrypted format on the secure internet server indefinitely for the purpose of sending confirmation emails with specific regard to an ad that was purchased.
-
-| 
-
-_PW_ Online Extras
-
-[](https://web.archive.org/?inc=article&id=908&x=how-gay-are-philly-athletes&_c=a-e--in-extremis)
-
-[](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)
-
-[Gateau Fabulous](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)  
-Let's put the guts back in America -- and a real cake back in America's gob.  
-12/8 – _in extremis_
-
-  
-
-
-[](https://web.archive.org/?inc=article&id=908&x=how-gay-are-philly-athletes&_c=a-e--in-extremis)
-
-[](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)
-
-[Gateau Fabulous](https://web.archive.org/?inc=article&id=898&x=gateau-fabulous&_c=a-e--in-extremis)  
-Let's put the guts back in America -- and a real cake back in America's gob.  
-12/8 – _in extremis_
-
-  
-
+We hope this policy clarifies our procedures regarding Your Personal Information. We at RP believe strongly in respecting the privacy of all our users. We will update and amend this statement if and when it is necessary. Please check back often to read our most updated and amended statement. Upon posting the amended version, RP will take reasonable measures, either through email or other electronic medium, to obtain consent from You to the amended terms. If you have any questions regarding our privacy policy, please contact us by sending an email to web [at] reviewpublishing.com.
