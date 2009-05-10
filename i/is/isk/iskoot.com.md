@@ -1,129 +1,95 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913234238id_/http%3A//www.iskoot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510090007id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
 
-# iSkoot Privacy | Life on the go.
+# » Privacy Statement
 
-Your privacy is important to iSkoot; therefore, iSkoot is committed to respecting Your privacy and the confidentiality of Your personal data, traffic data and communications content. This Privacy Statement is designed to assist You in understanding how iSkoot uses and safeguards the information You provide in using iSkoot's software for your mobile internet telephony and data services.
+We respect your privacy. This policy explains the accepted privacy practices for our services including the iSkoot for Skype, the iSkoot web notification service, and iSkoot’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
 
-iSkoot collects and processes, or has third party service providers who collect and process on iSkoot's behalf, personal data relating to You, as strictly necessary to (1) perform the internet telephony and data service, in particular to convey the communications You make by means of the iSkoot Software, (2) invoice to You Your use of the internet telephony and data service and (3) carry out iSkoot marketing activities.
+THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 13. IF YOU ARE UNDER 13 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-In this Privacy Statement the following capitalized definitions are being used in the singular as well as plural.
+#### Personally identifiable Information that we may collect:
 
-**Communications Content:** any information that is communicated by users of iSkoot Software while using the iSkoot Software.
+The web notification service allows you to receive incoming online messages from your personal accounts in web content services, such as web-mail services, RSS feeds and messaging services, to your cellular phone. During the initial setup, after selecting your preferred services you will be asked to provide access information, such as user name and passwords, to your accounts for those services. The Service will retrieve and aggregate Online Content from your preferred services and deliver highlights of the Online Content to your cellular phone. You may then request to receive additional related information. We will store your online content and your access information for the duration of the content delivery session, and then delete the information from our systems.
 
-**Feedback Information:** any information that is reported to iSkoot by filling in the feedback forms on the Website.
+Some of the Services may require registration. In the course of registration we may ask you to provide personal information, such as your name, contact details and e-mail address. We will explicitly indicate the fields designated for mandatory completion. If you do not enter the requisite data in the mandatory fields, you will not be able to register with these Services. We may collect further information when you exchange communications with us, for example, when you submit an inquiry or contact our support team.
 
-**Passive Information:** Information that is necessary in order to provide You with the desired functionality of the iSkoot Software, such as a session ID token, source and destination addressing information, and the version of the software You are using.
+#### Username and password
 
-**Personal Data:** any information relating to an identified or identifiable user of iSkoot Software and/or internet telephony and data Services, including but not limited to such user's Register Information and Subscriber Information.
+Certain Services such as the web notification service will require you to provide a username and set a unique password that will identify you each time you use the Service. From time to time, we may require other or additional means or methods of identification.
 
-**PSTN:** Public Switched Telephone Network.
+You agree to maintain your username and password in absolute confidentiality and refrain from disclosing such to others. Make sure that you change your password frequently and at least once every six months.
 
-**Register Information:** any information provided when voluntarily registering at the Website, including, but not limited to, username and password.
+#### What do we do with your personally identifiable information?
 
-**iSkoot:** iSkoot, Inc., a company incorporated under the laws of Delaware, USA.
+We may use personally identifiable information for the following purposes:
 
-**iSkoot Software:** Software that allows You to communicate with any other "buddy system"/internet telephony and data service user from your mobile phone.
-
-**Subscriber Information:** Information that is necessary in order to verify Your identity and to provide internet telephony and data services, such as Your name, billing information and e-mail address on the Website.
-
-**Traffic Data:** any data processed for the purpose of the conveyance of communication or the billing thereof, including, but not limited to, the duration of a call and the (IP) numbers of the called party and the calling party.
-
-**User Profile:** any information about the user, filled in by the user on the Website, that is meant to be shared with other users of the Software, such as your IM chat service ID, that can be searched for by other iSkoot users and/or, only after the user's approval, can be added to another user's "friend's list", including the user's own "friend's list".
-
-**Internet telephony and data service:** means the payable services provided by iSkoot and/or iSkoot's partners, and other services which may be extended or changed from time to time.
-
-**Website:** the website located at [www.iskoot.com](http://www.iskoot.com/).
-
-**You:** You, the user of the iSkoot Software and the internet telephony and data service, also used in the form "Your" where applicable.
-
-* * *
-
-| 1. | What is iSkoot and what services does it offer?  
----|---  
-2. | What information does iSkoot collect?  
-3. | How does iSkoot use this information and for what purpose?  
-4. | To whom does iSkoot transfer Your personal information?  
-5. | What are cookies and how does iSkoot use them?  
-6. | How far does iSkoot's responsibility extend?  
-7. | How does iSkoot protect Your personal information?  
-8. | Can this Privacy Statement be modified?  
-9. | What rights do You have and how can You contact iSkoot?  
-  
+  * to provide you with the Services and to enable you to use them; to provide you with the Services and to enable you to use them;
+  * to improve and customize your experience with the Services;
+  * to enable the development and improvement of the Services;
+  * to provide you with support, assistance and updates;
+  * to handle inquiries and complaints;
+  * to send you updates, notices, upgrades and new releases;
+  * to provide you with information relating to the Services;
+  * to provide you with further marketing and advertising material, subject to your prior indication of consent At any time you may opt out of our mailing lists, by contacting us at the ‘Contact us’ page on the Website. In any case, we will not share your personally identifiable information with any advertisers, without your explicit consent;
+  * to facilitate communication between you and us, and between you and others;
+  * to enforce our Services’ end user license agreements;
+  * to contact you when we believe it to be necessary;
+  * to comply with any applicable law and assist law enforcement agencies as required;
+  * to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity theft and any other misuse of the Services;
+  * to take any action in case of any dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
+  * For any other purpose stipulated in this policy, or in the end user license agreements of the Services.
 
 
-* * *
 
-1\. What is iSkoot and what services does it offer?  
-Through the Website, iSkoot offers you the iSkoot Software, which may changed from time to time.
+#### The information we share with others
 
-  
-In order to provide the iSkoot Software, iSkoot gathers and processes the following information.
+We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes.
 
-• Register Information  
-• User Profile  
-• Personal Data of friends  
-• Feedback Information  
-• Passive Information  
-• E-mail addresses
+We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
 
-iSkoot does not collect any Communications Content.
-
-****  
-• _Register Information_  
-You need to register to use the iSkoot Software.
-
-• _User Profile_  
-iSkoot does not store the User Profile centrally on a server. In the event You choose to make the User Profile available, this information is temporarily transmitted to computers of other users in the peer-to-peer network. Since the User Profile is not stored centrally, iSkoot cannot guarantee that this information will always be available and will not disappear.
-
-_• Feedback Information_  
-Any and all information which is voluntarily submitted in feedback forms on the Website, is used for the purposes of reviewing this feedback and improving the iSkoot Software and Website. iSkoot reserves the right to utilize Feedback Information without attribution for marketing purposes, for instance by displaying selected comments on the Website or in other communications. Further, iSkoot may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time under any obligation to provide any of such data. iSkoot will not use any personally identifiable Feedback Information without Your explicit permission thereto.
-
-• _Passive Information_  
-Passive Information is automatically generated and is not stored centrally. iSkoot will only use this Passive Information, on an aggregated level, to provide You with better service or for statistical information.
-
-• _E-mail addresses_  
-iSkoot respects the privacy of personal e-mail accounts and stores Your e-mail addresses just as securely as other Personal Data. iSkoot will not send You unsolicited e-mail messages or junk mail, and Your details will not be passed to third parties without Your explicit permission. However, iSkoot will use e-mail to send You messages about faults and service issues. iSkoot may also use e-mail to keep You up to date with news about the iSkoot Software and internet telephony and data services. If You do not want to be kept informed in this way by e-mail, please contact iSkoot at [remove@iskoot.com](mailto:remove@iskoot.com).
-
-• _Subscriber Information_  
-iSkoot asks for Subscriber Information in order to verify Your identity and to provide internet telephony and data services. We use a third party banking organizations and other providers of payment services to bill You for internet telephony and data services and we will, therefore, provide this billing provider with the necessary billing data. This Subscriber Information is securely stored on a server of iSkoot or iSkoot's third party billing provider and is used by iSkoot, as well as by any such third party billing provider, in accordance with relevant legislation.
-
-Please note that Your billing data is sensitive information, which can be used to find out information about Your use of internet telephony and data services. Please be sure to keep this information safe and do not share it with others.
-
-• _Traffic Data_  
-In order to transmit Your calls through the PSTN iSkoot collects Traffic Data. iSkoot will erase Traffic Data, or make Traffic Data anonymous, as soon as it is no longer needed for the purpose of the transmission of the communication, unless applicable law provides otherwise.
-
-****  
-iSkoot shall not sell, rent or trade any Personal Data, Traffic Data or Communications Content to any third party without Your explicit permission, unless it is obliged to do so under applicable laws or by order of competent authorities.
-
-In order to provide You with internet telephony and data services or other services You have requested, iSkoot may sometimes, if necessary, share Your Personal Data and Traffic Data with carriers, partner service providers and/or agents, for example the PSTN-VoIP gateway provider, distributor of iSkoot Software and/or internet telephony and data service and/or the third party banking organization or other providers of payment services. iSkoot will require these third parties to take appropriate organizational and technical measures to protect Your Personal Data and Traffic Data and to observe relevant legislation.
-
-Please be informed that, notwithstanding the abovementioned, in the event of a competent authority requesting iSkoot or iSkoot's local partner responsible towards such authority, to retain and provide Personal Data and/or Traffic Data, or to install wiretapping equipment in order to intercept communications, iSkoot and/or its local partner will provide all necessary assistance and information to fulfill this request as required by applicable law.
-
-Information collected on the Website may be stored and processed in any country in which iSkoot maintains facilities. In this regard, iSkoot reserves the right to transfer information outside of Your country. As iSkoot continues to develop its business, iSkoot might sell or buy subsidiaries or business units. In such transactions as well as in the event iSkoot or substantially all of its assets are acquired, personal information of iSkoot users will generally be one of the transferred business assets. By using iSkoot Software or internet telephony and data services You consent to any such transfer of information outside of Your country. In case of such transfer, the information remains subject to any pre-existing Privacy Statement.
-
-****  
-Cookies are pieces of information that iSkoot will transfer to Your computer's hard drive through Your browser to enable iSkoot's systems to recognize Your browser. Cookies also enable iSkoot to gain information about the use of its Website and to enhance the Website accordingly to the preferences of the users.
-
-The Help option on the toolbar of most browsers will tell You how to prevent Your browser from accepting new cookies, how to have the browser notify You when You receive a new cookie, or how to disable cookies altogether. iSkoot's cookies do not contain any identifying information. Please bear in mind that some personalized services may not be available if You choose to disable cookies.
-
-  
-**  
-**  
-The Website may contain links that will let You leave the Website and access another website. Linked websites are not under the control of iSkoot and it is possible that these websites have a different privacy policy. The Privacy Statement applies solely to personal information that is acquired on the Website, so iSkoot urges You to be careful when You enter any personal information online. iSkoot accepts no responsibility or liability for these other websites.  
-**  
-  
-  
-**  
-iSkoot shall take appropriate organizational, physical and technical measures to protect the Personal Data and Traffic Data provided to it or collected by it, and shall not retain such information any longer than required in order to perform its services or as required under relevant legislation. Your Personal Data and Traffic Data can be accessed only by authorized employees, consultants or agents of iSkoot, iSkoot's affiliates or iSkoot's third-party service providers who need to have access to these data in order to be able to fulfill their given duties.
-
-iSkoot shall take appropriate technical measures to protect the confidentiality of the Communications Content via its iSkoot Software and internet telephony and data services, with due observance of applicable obligations and exceptions under relevant legislation. Other than for acts of gross negligence, iSkoot hereby disclaims any liability relating to the disclosure of Your Personal Data and Traffic Data.
-
-  
-  
+  * We will share your information with our business partners to the extent necessary to facilitate your use of the Services and the functionality of the Services;
+  * If we reasonably believe that you have breached one of the Services’ end user license agreements, or abused your rights to use any of the Services, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases with law enforcement officials, with other competent authorities and with any third party as may be required to handle the results of your wrongdoing;
+  * If we are required, or reasonably believe that we are required by law to share or disclose your information;
+  * In any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
+  * In any case where we may reasonably believe that sharing information is necessary to prevent imminent physical harm or damage to property;
+  * If we organize the operation of the Services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy;
+  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy.
 
 
-****  
-iSkoot reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform You of these changes on the Website. You agree that by continuing to use the iSkoot Software or internet telephony and data services following the publishing of the revised Privacy Statement You indicate your acceptance of the Privacy Statement.
 
-****  
-If You would like to exercise your right to view, correct, complete or remove Your Personal Data, please contact iSkoot at [remove@iskoot.com](mailto:remove@iskoot.com). Within a reasonable period of time and upon verification of your identity, iSkoot will fulfill Your request, provided iSkoot will not act contrary to applicable legislation by fulfilling Your request.
+#### Log files and aggregated information
+
+When you use the Services, we may automatically collect further information and store it in web-server log files. For example, we may record the frequency and scope of your use of the Website, the duration of your sessions, the web pages that you visit, advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Services.
+
+We may use anonymous, statistical or aggregated information, including by posting, disseminating, transmitting or otherwise communicating or making available such information through the Services, and by providing the information to users, suppliers, business partners, affiliates and any other third party, at our sole discretion, provided however, that the information will not identify you personally and that we will not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy.
+
+We may also use anonymous, statistical or aggregated information to properly operate and administer the Services, to improve the quality of the Services, to enhance your experience and customize the Services, to create new services, to change or cancel existing content or services and to facilitate other internal, functional and statistical purposes.
+
+#### Accessing your personal account
+
+At any time, you may contact us at: [support@iskoot.com](mailto:support@iskoot.com) and request to edit, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
+
+#### Data retention
+
+At any time, we may review, retain and disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request, as well as our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such information.
+
+#### Deletion of information
+
+If you wish to delete your personally identifiable information that is stored in our databases, please use the ‘Contact us’ page on the Website. We will inform you whether your request has been accepted, and may refuse to comply with your request, for example, if we believe that deleting certain information might prevent maintaining necessary contact with you, or jeopardize certain activities of the Services, or harm other users. In any case, we may keep any aggregated or anonymized information for statistical, marketing and other purposes.
+
+#### Information security
+
+We implement information security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks.
+
+We do not warrant that your personal information will be stored for the required durations, or that your personal information will not be retrieved after being deleted.
+
+#### Changes to this Privacy Policy
+
+We may change and update the terms of this policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this policy will be posted on the Website and take effect 7 days after their initial posting, unless we amend the policy to comply with legal requirements. In the latter cases the amendments will become effective immediately upon their initial posting, or as required.
+
+Continuing to use the Services will indicate your consent to the amended policy.
+
+#### Contact us
+
+You are welcome to contact us with requests, comments and questions at the [Contact us](https://web.archive.org/contact) page on the Website.
+
+Last update: January 14, 2009
