@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223013411id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510123527id_/http%3A//www.dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
 
 # DialIdol.com - Measuring the busy signal.
 
@@ -20,3 +20,5 @@ At no time is any information that DialIdol & DialIdol.com collects shared with 
 DialIdol is not distributed with any other software so no other software can collect this information or jeopardize your privacy.
 
 DialIdol & DialIdol.com does NOT know, search for, collect, track, trace or otherwise mine data other than what was disclosed in the above bullets. We especially do not collect any personal information.
+
+In 2009 DialIdol introduced a new feature called YourPredictions. Any predictions that you make will be available for public consumption however that consumption will only trace back to your DialIdol ID, not your actual name. If you choose to divulge your actual name in DialIdol's YourPredictions/forum registration process you may also be choosing to disclose your name to the public and people may be able to search for you and any content you have submitted to DialIdol based on that information.
