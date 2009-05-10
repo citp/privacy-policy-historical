@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225042724id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510091343id_/http%3A//www.smartypig.com/privacy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
 The _Privacy Policy_ can also be downloaded in [Adobe® PDF](http://www.adobe.com/products/acrobat/readstep2.html) format. Click the link below to save the Privacy Policy to your hard drive.
 
-[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=269d56e9-2db8-4a47-93cc-c06fcdcd622d) (PDF 84k)
+[Download Privacy Policy](https://web.archive.org/PdfDisplay.aspx?Id=9de545c7-c135-de11-b1f6-001a4b338aac) (PDF 78k)
 
-Last Updated:  June 10, 2008
+Last Updated:  April 30, 2009
 
 * * *
 
@@ -153,8 +153,8 @@ SmartyPig may update this privacy policy. In the event there are material change
 If you have any questions regarding our privacy policy, please contact SmartyPig Customer Support at 888-567-6278 or e-mail [privacy@smartypig.com](mailto:privacy@smartypig.com).
 
 SmartyPig, LLC  
-801 Grand Avenue, Suite 290  
-Des Moines, Iowa 50309
+4300 Westown Pkwy., Suite 200  
+West Des Moines, IA 50266-1266
 
 Main Number: 515-256-2086  
 Fax: 515-256-2091  
