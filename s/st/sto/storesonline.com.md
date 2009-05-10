@@ -1,96 +1,34 @@
-> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623085429id_/http%3A//www.imergentinc.com/privacypolicy/policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510142125id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# StoresOnline - Privacy Policy
 
-Privacy Policy
-As a customer of StoresOnline, we recognize the importance of protecting your personal
-information.
-This Privacy Policy will answer your questions about the kind of information we collect and how
-we use it.
-If you have any further questions or comments, contact us by privacy@myquickresponse.com.
-What information do you gather and how do you use it?
-We collect information about you from contracts you enter into with us, correspondence you
-submit, telephone contacts, and applications on file as well as visits to our web sites. When
-visiting our web site, we may access additional information, such as service provider, browser
-type, and operating system, pages accessed on our web site and the date and time of access to
-optimize your user experience and enhance your time spent with us online. When you send us an
-email, we will retain the content of the e-mail, your e-mail address, and our response in order to
-handle any follow-up questions you may have. We also use this information to measure how
-effectively we address your concerns.
-We may ask you for the following information:
-• Name and address
-• E-mail address
-• Credit/Debit card number and expiration date if products are purchased from us
-• Credit Information
-• Billing address
-• Shipping address
-• Phone/fax number
-• Social Security Number (used for identification only)
-• Employer
-• Education
-• Product Information
-• Customer Experience Information for quality checking
-We may ask you to voluntarily provide us with information regarding your personal or
-professional interests, demographics, experience with our products, and contact preferences.
-This information may be combined with information about you which we gathered from other
-offline sources. We use the information to design offers customized to your interests. For
-example, you may receive a special offer to purchase new products, or receive information on
-services we believe will be of assistance to you in operation a web-based business. If you do
-not wish to receive information from us, privacy@myquickresponse.com
-Do you share my personal information?
+StoresOnline, Inc. collects basic client information to make your support experience the very best on the Internet. We respect your privacy, and we assure you that we will maintain and use this information responsibly. 
 
+**Browser Data Collection**  
+StoresOnline, Inc. gathers navigational information about where you go on our Web site. This information allows us to see which areas are most visited. This helps us improve the quality of visitors' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding your use of our Web site (such as the time of your last visit to a page on our site).
 
-We may provide information about you to parties we believe will provide you with items of
-interest. We may also share your information with our vendors. You may request not to have
-information provided to any party. If you do not wish to have us share information with our
-partners, privacy@myquickresponse.com, Subject: Partner Removal
-We may share anonymous, aggregated information about all our users with third parties.
-Communications with StoresOnline
-StoresOnline may periodically conduct individual voluntary customer surveys. We encourage
-our customers to participate in these surveys because they provide us with important information
-that helps us to improve the types of services we offer, and how we provide them to you.
-How is Personal Information Used?
-StoresOnline and participating vendors (unless you have requested to not have this information
-shared or receive such information) may use and share personal information in different ways,
-such as:
-• To provide information as is necessary to fulfill the fundamental purpose of our products and
-    services;
-• To provide information to parties we believe can provide services that would be beneficial in
-    support of your business.
-• To identify users of StoresOnline products and services that may be interested in offers of
-    goods and services that are suited to their needs and interests, both from StoresOnline and
-    from other parties;
-• In response to a lawful request issued by a court, government agency, or regulatory authority
-    with jurisdiction to make the request or to otherwise comply with legal requirements;
-• To companies that work for StoresOnline or others providing services through this Site, such
-    as fulfillment printers or delivery companies. These companies are required to keep the
-    information provided to them confidential.
-How is My Information Protected?
-We use the latest technologies to secure your transactions. We use highest industry standard
-encryption to protect financial transactions.
-What if I Have a Question or Problem?
-StoresOnline is committed to preserving the privacy of our customers. We have described the
-manner in which we collect and use personal information. We have provided you with a choice
-regarding our use of personal information. In the event you have concerns or questions
-regarding our use of personal information, or this policy, or if you have any problems arising out
-of performance pursuant to this policy, it should be directed to privacy@myquickresponse.com.
-How to Update or Delete Your Information
-If you want to request that we update or delete your personal information in regard to
-StoresOnline products and services, you can send them to privacy@myquickresponse.com,
-Subject: Change/Modify.
-If you have any questions about this privacy statement, you can contact:
+**Disclosure of Personal Information:**  
+Any information you provide to us at this site when you establish or update an account, purchase credits online or request information (i.e. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure Web server and our internal systems. This information is used to enable StoresOnline, Inc. to deliver services to you. To ensure compliance with federal law, StoresOnline, Inc. does not maintain information provided by children under the age of 16.
 
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public.
 
-StoresOnline
-Attn: Privacy Department
-privacy@myquickresponse.com
-Links
-Portions of our web site may contain links to other sites. Please be aware that we are not
-responsible for the content or privacy practices of such other sites. We encourage our uses to be
-aware when they leave our site and to read the privacy statements of each and every web site that
-collects personally identifiable information.
-Changes
-By using this site, you signify your assent to the StoresOnline on-line privacy policy.
-StoresOnline reserves the right to make changes to the privacy statement at is sole discretion.
-Such changes, if any, will be posted at this location, so we recommend that you occasionally
-check back to this posted privacy statement for changes.
+StoresOnline, Inc. does not sell, rent or trade your e-mail address to third parties. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, and administering e-mails. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.
+
+**Use of Cookies:**  
+StoresOnline, Inc. uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow Volusion, Inc. to make our sites more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are typically stored on your computer's hard drive and are used by StoresOnline, Inc. to help track your clicks as you go through the pages within an StoresOnline, Inc. Web site. In addition, StoresOnline, Inc. uses cookies to help keep track of support requests and to tell us whether you have previously visited an Volusion, Inc. website. This allows registered users to avoid reentering information upon every new visit to our site. 
+
+**Updating Personal Information:**  
+We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging into your account.
+
+**Use of Forums / Discussion Boards:**  
+None of the information contained on our Website is medical, legal, business, or other advice or opinion of StoresOnline, Inc. Any opinion expressed via this service is that of its author. Users are reminded that postings are automatic, instantaneous, and are not pre-reviewed. Additional facts and information on legal or other developments may affect the subjects discussed. Confidential information should not be discussed. Volusion, Inc. assumes no responsibility for the content or consequences, direct or indirect, of communications by users.
+
+**Links:**  
+For your convenience, our Web site may contain links to other sites. StoresOnline, Inc. is not responsible for the privacy practices or the content of such Web sites.
+
+**Questions/Changes in Policy:**  
+If you have questions or concerns with respect to our Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20090510142125id_/http://www.storesonlinepro.com/store/1234/company/contact-us/) . If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this Web site. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about StoresOnline, Inc..
+
+StoresOnline, Inc. believes in providing a safe and secure shopping experience for all of our clients. We provide stringent and effective security measures on our Web site.
+
+It is our policy to never send private information, such as your credit card number, via e-mail. In fact, this is a practice we recommend you adopt in all of your Internet activities.
