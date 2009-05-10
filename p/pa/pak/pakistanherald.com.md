@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the pakistanherald.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133248id_/http%3A//pakistanherald.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanherald.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510132110id_/http%3A//www.pakistanherald.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Herald
 
+---  
+  
+|  **Privacy Policy**  
+---  
+  
 Introduction 
 
 **Pakistanherald.com** provides interactive environments on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in discussion-based virtual communities. One of our goals at Pakistanherald.com is to respect the privacy rights of anyone who joins Pakistanherald.com or visits any of our communities. Except as set forth within this privacy statement and within the scope of our community and content guidelines, we do not release personally identifiable information about our individual members and visitors without their permission. Our view is that our members and visitors are the ones who should generally control whether or not they share any personal information and how that information is used if it is shared. Furthermore, we believe that it is our responsibility to provide something of value in exchange for any information shared — in our case, discussion forums, email, and other free services. We appreciate your interest in and support of Pakistanherald.com and pledge to you our continued commitment to make our services better and better while enabling you — our members and visitors — to be comfortable with respect to your online privacy. To contact Pakistanherald.com about technical problems, to report a violation of our guidelines, to inquire about advertising within our domain, or any other item of interest or concern, please send us an email [sysadmin@pakistanherald.com](mailto:sysadmin@pakistanherald.com).
