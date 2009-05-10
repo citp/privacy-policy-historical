@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035832id_/http%3A//www.weddepot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511014634id_/http%3A//www.weddepot.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WedDepot.com
 
@@ -53,7 +53,7 @@ Information regarding you (such as name, address and phone number) or your order
 
 **Internet Commerce**
 
-The online store at WedDepot.com.com is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. WedDepot.com is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may always contact a sales representative over the telephone. Simply call 1-866-739-6280. It has always been a WedDepot.com practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
+The online store at WedDepot.com.com is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. WedDepot.com is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may always contact a sales representative over the telephone. Simply call . It has always been a WedDepot.com practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
 
 **Customized Experience**
 
