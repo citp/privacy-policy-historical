@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odeo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050732id_/http%3A//www.odeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odeo.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510072321id_/http%3A//www.odeo.com/privacy) for the most accurate reproduction.*
 
 # Odeo: Search, Discover and Share Digital Media from Millions of Audio and Video Clips
 
