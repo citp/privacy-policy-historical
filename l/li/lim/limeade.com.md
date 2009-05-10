@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limeade.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115448id_/http%3A//limeade.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limeade.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510125854id_/http%3A//limeade.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Limeade
 
@@ -51,7 +51,7 @@ As an example, Limeade may use “cookies” and/or “web beacons” to collect
 B.    _Subscription and Registration Profile_  
 Second, we require the submission of a working e-mail address for you to register to use the Site or receive notices about the Site.  Registration for Limeade does not require you to submit any other personal identifiers such as name, address, telephone number, or social security number.  We use the Personal information that you provide through registration to deliver relevant content and respond to questions from you and/or inform you of material changes to this Privacy Policy.  We may also use this information to send you email with special promotions or newsletters with content that we think may be of interest to you.  You can always opt-out of receiving email newsletters at the time you register or at any other time by clicking on the Email and Privacy tab on the Edit Profile page.
 
-You may also elect to voluntarily submit additional Personal Information, for example your name, address, birthdate, or picture, in order to enhance your profile on the Site.  Submission of these personal identifiers is strictly voluntary.
+You may also elect to voluntarily submit additional Personal Information, for example your name, address, birthdate, or photo, in order to enhance your profile on the Site.  Submission of these personal identifiers is strictly voluntary.
 
 C.        _Limeade Resource Tools._  
 Limeade will collect other information, some of which may be Personal Information, which you voluntarily provide to us when you choose to register for and use some of the Limeade services, such as wellness assessments and goal tracking. This may include, but is not limited to, specific information regarding medical conditions, lifestyle, diet, exercise habits, drug and alcohol usage, workplace matters and other relevant Personal Information relating to your wellness. We may also collect information you provide voluntarily through responses to surveys and questionnaires. 
