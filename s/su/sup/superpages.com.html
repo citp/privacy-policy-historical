@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2008-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081227055710id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2009-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090510130210id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -40,257 +40,192 @@
 </head> 
 
 <body bgcolor="FFFFFF" text="000000" link="0000FF" vlink="666666" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
-<!---header result page--->
-<link href="/css/searchwidget.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" src="http://www.superpages.com/sp.js"></script>
-<script language="JavaScript" src="/js/hfunc.js"></script>
-<link href="/css/spHeaderFooterv2.css" rel="stylesheet" type="text/css">
 
-<script type="text/JavaScript">
-<!--
-var isLogedin = 0;
-var displaySignin = "<a href=\"http://yellowpages.superpages.com/profiler/abook.jsp\">Sign In &amp; Personalize &gt;</a>";
-var myDirUserName = getcookie('myDirUserName');
-
-
-function setSignLink() {
-	var SPCUID = getcookie('SPCUID');
-	if(SPCUID != "") {
-		isLogedin = 1;
-		displaySignin = "Hi " + unescape(myDirUserName.replace('+', ' '));
-	}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-
-function P7_Snap() { //v2.67 by PVII
- var g,x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=P7_Snap.arguments;a=parseInt(a);
- if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
- if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
- a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
- da="document.all['"+args[k]+"']";if(document.getElementById){
- d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
- d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
- }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
- p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
- }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
- if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
-  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
-  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
-  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
- }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
-  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
-  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
- if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
-  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
- e.left=xx+pa;e.top=yy+pa;}}}
-}
-
-function MM_setTextOfTextfield(objName,x,newText) { //v3.0
-  var obj = MM_findObj(objName); if (obj) obj.value = newText;
-}
-
-function verifySimple() {
-	 var keywd = document.ypform.C.value;
-	 keywd = keywd.replace( /^\s+/g, "" );
-	 keywd = keywd.replace( /\s+$/g, "" ); 
-   if (keywd == "" || keywd == "Required field") {
-   		document.ypform.C.value = "Required field";
-   		document.ypform.C.style.color = "red";
-      document.ypform.C.focus();
-      return false;
-   }
-   return true;
-}
-
-
-var af = false;
-var al = false;
-function kw(){
-	if (al) return;
-		lastCookie();
-	if (af) return;
-		document.ypform.C.focus();
-}
-function checkSTYPE () {
-	if (document.ypform.RR != null && document.ypform.RR.selectedIndex == 0) {
-		document.ypform.STYPE.value = "S";
-		document.ypform.R.value = "";
-	} else if (document.ypform.RR != null) {
-			document.ypform.STYPE.value = "D";
-			document.ypform.R.value = "D";
-	}
-}
-  
-function checkTxtColor(fld) {
-
- if(fld.style.color == "red") {
-    fld.style.color = "black";
- }
-
-}
-//-->
-</script>
-<script type="text/javascript">
-setSignLink();
-setGeoLoc();
-
-</script>
-<!-- Header Change from 480x30 to 486x82 Sarayu 06/04/2008  -->
-<table cellspacing="0" cellpadding="0" width="950" border="0" align="center" style="margin-top:10px;">
-<tbody><tr>
-<td width="496" rowspan="2" valign="top"><a href="http://www.superpages.com/"><img src="http://img.superpages.com/images-yp/sp/images/header_spbranding08v1.gif" width="486" height="82" alt="Superpages.com - we know around here" border="0"></a></td>
-<td valign="top" align="right" colspan="4" height="28">
-	<span class="header_toplinks">
-		<a href="http://www.superpages.com/">Home</a> &nbsp;|&nbsp; 
-		<a href="http://advertising.superpages.com/">Advertisers</a> &nbsp;|&nbsp; 
-		<a href="http://www.superpages.com/toolbar/">Download Toolbar</a> &nbsp;|&nbsp; 
-		<a href="http://www.superpages.com/mobile/">Mobile Search</a> &nbsp;|&nbsp; 
-		<a href="http://yellowpages.superpages.com/help/help.jsp">Help</a>
-	</span>
-</td>
-</tr>
-<tr>
-<td width="187" height="62"><script type="text/javascript"> displayCityScape();</script><img src="https://web.archive.org/web/20071001141012/http://img.superpages.com/images/spacer.gif" alt="City Skyline" width="187" height="62" border="0"></td>
-<!-- END Header Change from 480x30 to 486x82 Sarayu 06/04/2008  -->
-<td width="10">&nbsp;</td>
-<td valign="bottom" width="257" align="left"><a class="mysp" title="Saved reviews, businesses..." href="http://yellowpages.superpages.com/profiler/abook.jsp">My 
-		Superpages</a></td>
-</tr>
-<tr>
-	<td height="24" bgcolor="#1e5192">
-		<table cellspacing="0" cellpadding="0" border="0">
-			<tbody>
-				<tr>
-					<td id="ctystate" class="HDtextsubhead" height="24" bgcolor="#1e5192" style="padding-left: 12px;">
-				</td></tr>
-			</tbody>
-		</table>
-	</td>
-	<td id="ctystate1" class="HDtextsubhead" height="24" bgcolor="#1e5192" style="padding-left: 2px;">
-		<!--vvv VLG --><script type="text/javascript">  document.write(TS);</script><!--^^^ VLG -->
-	</td>
-	<td width="10">
-	</td><td height="24" bgcolor="#1e5192" class="HDtextsubhead" style="padding-left:12px">
-		<script type="text/javascript">  document.write(displaySignin);</script><a href="http://yellowpages.superpages.com/profiler/abook.jsp">Sign In &amp; Personalize &gt;</a>
-	</td>
-</tr>
-<tr>
-<td colspan="4" height="10"></td></tr></tbody></table>
-<!--search widget-->
-<table align="center" border="0" cellspacing="0" cellpadding="0" height="70px" width="950px">
-	<tbody><tr>
-		<td>
-			<img src="http://img.superpages.com/images-yp/images/Businesses_on5.gif" alt="Businesses" usemap="#BPbutton" border="0" height="70px" width="102px">
-		</td>
-		<td style="padding-top: 2px;"> 
-			<table border="0" height="70px" width="848px" cellpadding="0" cellspacing="0" align="right" class="newSwidget">
-				<tbody><tr>
-					<td class="topL">&nbsp;</td>
-					<td>&nbsp;</td>
-					<td class="topR">&nbsp;</td>
-				</tr>
-				<tr>
-					<td class="bottomL">&nbsp;</td>
-					<td class="bottomC">
-						<table width="100%" border="0" cellpadding="0" cellspacing="0" class="newRight">
-							<form action="http://yellowpages.superpages.com/listings.jsp" method="get" name="ypform" onsubmit="checkSTYPE(); return verifySimple();"></form>
-								<tbody><tr>
-									<td width="70px" style="padding-left: 15px;font-size:11px;font-color: #000000;">Search for:&nbsp;</td>
-									<td width="155px">
-										<input id="keyword" title="Keyword" name="C" type="text" size="20" maxlength="300" value="" onkeydown="checkTxtColor(this);">
-									</td>
-									<input type="hidden" name="STYPE" value="S">
-									<input type="hidden" name="CID" value="">
-									<input type="hidden" name="scale" value="">
-									<input type="hidden" name="lng" value="">
-									<input type="hidden" name="lat" value="">
-									<input type="hidden" name="MCBP" value="true">
-									<input type="hidden" name="CS" value="L">
-									<input type="hidden" name="SRC" value="">
-									<td width="25" align="center" style="font-size:11px;font-color: #000000;">in</td>
-									<td width="155" align="left"><input id="location" title="Location" name="L" type="text" size="19" value=""></td>
-									<td width="100" style="padding-left: 5px;"><input type="image" src="http://img.superpages.com/images-yp/sp/images/07/searchbtn.gif" name="search" title="Find It" value="Find It"></td>
-									<td class="searchoptions" style="padding-left: 20px;" align="left" valign="center">
-										<a href="http://yellowpages.superpages.com/yp.advanced.jsp?Stype=AD&amp;C=&amp;OO=1&amp;MC=1&amp;F=1" onclick="P7_Snap('advanced_search_link','advanced_search_popup',-35,-20);MM_showHideLayers('advanced_search_popup','','show'); return false;"><img src="http://img.superpages.com/images-yp/sp/images/07/tri_unexp.gif" alt="Search Options" border="0" width="10" height="10"></a>
-										<a href="http://yellowpages.superpages.com/yp.advanced.jsp?Stype=AD&amp;C=&amp;OO=1&amp;MC=1&amp;F=1" id="advanced_search_link" onclick="P7_Snap('advanced_search_link','advanced_search_popup',-30,-20);MM_showHideLayers('advanced_search_popup','','show'); return false;"><nobr>Search Options</nobr></a>
-										<img src="http://img.superpages.com/images-yp/sp/images/07/spacer.gif" width="7" height="1">
-									</td>
-								</tr>
-							
-						</tbody></table>
-					</td>
-				   <td class="bottomR">&nbsp;</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-<map id="BPbutton" name="BPbutton">
-	 <area shape="rect" coords="1,40,94,83" href="http://find.person.superpages.com/" alt="People" rel="nofollow">
-</map>
-<!--/search widget-->
-
-<!--advanced search popup-->
-<div id="advanced_search_popup">
-	<div id="roundcorn">
-		<b class="rdtop"><b class="rdb1"></b><b class="rdb2"></b><b class="rdb3"></b><b class="rdb4"></b></b>
-		<div class="rdbordcontent">
-			<table border="0" width="185" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="3" rowspan="2">&nbsp;</td>
-					<td class="popup" colspan="2" valign="right">
-						<div class="pagination">
-							<div align="left" style="font-size:11px;color: #666666; margin-bottom:5px;text-align:left;margin-right:8px;" onclick="MM_showHideLayers('advanced_search_popup','','hide')" class="falselink">
-								<img height="10" src="http://img.superpages.com/images-yp/sp/images/07/downarrow.gif" width="10"><span style="text-decoration:underline;">Search Options<span>
-							</span></span></div>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td valign="left">
-						<div class="pagination" align="left">
-							<a href="http://yellowpages.superpages.com/yp.advanced.jsp?Stype=AD&amp;C=&amp;OO=1&amp;MC=1&amp;F=1" onclick="if (window.buildURL){ this.href=&quot;http://yellowpages.superpages.com/yp.advanced.jsp&quot;+buildURL(&quot;AD&quot;);}">Advanced Search</a><br>		
-							<a href="http://yellowpages.superpages.com/yp.basic.jsp?Stype=M&amp;C=&amp;OO=1&amp;MC=1&amp;F=1" onclick="if (window.buildURL) { this.href=&quot;http://yellowpages.superpages.com/mapbasedsearch/mapsearch.jsp&quot;+buildURL(&quot;M&quot;);}">Search Within a Map</a><br>			
-							<a href="http://yellowpages.superpages.com/yp.basic.jsp?Stype=D&amp;C=&amp;OO=1&amp;MC=1&amp;F=1" onclick="if (window.buildURL){ this.href=&quot;http://yellowpages.superpages.com/yp.basic.jsp&quot;+buildURL(&quot;D&quot;);}">Search By Distance</a><br>			
-							<a href="http://yellowpages.superpages.com/categorybrowser.jsp?Stype=S" onclick="if (window.buildURL){ this.href=&quot;http://yellowpages.superpages.com/categorybrowser.jsp&quot;+buildURL(&quot;S&quot;);}">Category Search</a><br>			
-							<a href="http://yellowpages.superpages.com/yp.advanced.jsp?Stype=AP" onclick="if (window.buildURL){ this.href=&quot;http://yellowpages.superpages.com/yp.advanced.jsp&quot;+buildURL(&quot;AP&quot;);}">Reverse Lookup by Phone</a>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		<b class="rdbottom"><b class="rdb4"></b><b class="rdb3"></b><b class="rdb2"></b><b class="rdb1"></b></b>
-	</div>
-</div>
-
-<script language="javascript" type="text/javascript">
-lastCookie();
-
-</script>
-<!--/advanced search popup-->
-<!-- SiteCatalyst code version: H.9.
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
+<link type="text/css" rel="stylesheet" href="/css/widget.css">
+<link type="text/css" rel="stylesheet" href="/css/citypopup.css"> 
+<link type="text/css" rel="stylesheet" href="/css/footer.css"> 
+<link type="text/css" rel="stylesheet" href="/css/homepage.css"> 
+<script language="JavaScript" src="/sp.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/hfunc.js"></script> 
+<script language="JavaScript" type="text/javascript" src="/js/homepage.js"></script> 
+<script language="JavaScript" type="text/javascript" src="/js/retlyviewed.js"></script> 
 <script language="JavaScript" src="//www.superpages.com/inc/s_code.js"></script>
-<!-- End SiteCatalyst code version: H.9. -->
-<div id="contentContainer">
-<!--/header-->
 
+	<!-- begin header -->
+	<script type="text/javascript">setSignLink();setGeoLoc();</script>
+	<div class="spwrap">
+		<!-- begin site wrapper for centering -->
+		<div class="hdrwrap">
+			<!-- begin header - row 1 -->
+			<div class="hdrcont">
+				<div class="hdrnav">
+					<ul class="hdrnavtxt">
+						<li><script type="text/javascript">displayEACLink();</script></li>
+					  	<li><script type="text/javascript">document.write(displaySignin);</script><a onclick="omniTrackGTnSecFeat('GT', 'Sign-in');" href="http://yellowpages.superpages.com/profiler/login_import.jsp?" title="Sign in to your account" rel="nofollow">Sign In</a>&nbsp;&nbsp;|</li>
+						<li><a onclick="omniTrackGTnSecFeat('GT', 'Home');" href="/" title="Yellow Pages">Home</a>&nbsp;&nbsp;|</li>
+						<li><a onclick="omniTrackGTnSecFeat('GT', 'Advertising');" href="http://advertising.superpages.com/spportal/index.jsp?campaignId=SP_header" title="Advertise with SuperPages.com">Advertising</a>&nbsp;&nbsp;|</li>
+						<li><a onclick="omniTrackGTnSecFeat('GT', 'Help');" href="http://yellowpages.superpages.com/help/help.jsp" rel="nofollow" title="Need help finding what you need? Contact us here.">Help</a><span class="hidden"> |</span></li>
+						<span class="hidden"><li><a href="#content" title="Skip to the content area.">Skip to Content</a></li></span>
+					</ul>			
+				</div>
+				<!-- begin Sign Out Link in Global Tool Bar -->
+				<div id="box" class="box hidden">
+					<div id="win"></div>			
+					<table id="tbAlert" style="position: relative; z-index:100px;top:4px; bottom: 10px;left:8px; width:375px; height:210px;" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td class="top_left"><div class="top_left"></div></td>
+							<td class="top_middle"><div class="top_middle"></div></td>
+							<td class="top_right"><div class="top_right"></div></td>
+						</tr>
+						<tr>
+							<td class="middle_left"><div class="middle_left"></div></td>
+							<td valign="top" bgcolor="#FFFFFF">			
+							   <div id="title_sp" class="title_sp" style="position:absolute;left:25px;top:9px;width:220px;height:20px;">SuperPages.com My Superpages</div>
+							   <div id="title_sp" class="title_sp" style="position:absolute;right:25px;top:8px;width:20px;height:20px;">[<a href="javascript:toggleContent(0,'box')" style="text-decoration: none; color: #ffffff;">&nbsp;<b>x</b>&nbsp;</a>]</div>
+							   <div id="content_wrapper" style="position:static;left:20px;top:35px;width:335px;height:148px;z-index:4;"><br>		
+									<div id="logoutContent">
+										<table width="100%" cellspacing="0" cellpadding="2px" border="0">
+											<tbody><tr>
+												<td width="100%" colspan="3" align="left">By staying logged in, you can save your information permanently and you don't have to worry about logging in again.<br>Are you sure you want to log out?<br>			
+													<ul>  
+														<li><a href="javascript:toggleContent(0,'box');">No, please keep me logged in.</a></li>
+														<li><span style="white-space:nowrap;"><a href="javascript:location.reload(true);" onclick="javascript:profilerLogout('superpages.com');toggleContent(0,'box')">I can remember my user name and password.</a></span><br>Yes, please log me out.</li>
+													</ul>	
+												</td>
+											</tr>
+										</tbody></table>
+									</div>			
+								</div> 
+							</td>
+							<td class="middle_right"><div class="middle_right"></div></td>
+						</tr>
+						<tr>
+							<td class="bot_left"><div class="bot_left"></div></td>
+							<td class="bot_middle"><div class="bot_middle"></div></td>
+							<td class="bot_right"><div class="bot_right"></div></td>
+						</tr>			
+					</tbody></table>
+				</div>
+				<!-- end Sign Out Link in Global Tool Bar -->
+				<!-- begin logo header -->
+				<div class="logocont">
+					<div class="logo"><a onclick="omniTrackGTnSecFeat('Header', 'SP.com Logo');" href="/" title="Yellow Pages"><img src="http://img.superpages.com/images-yp/sp/images/widget/logo.png" alt="SuperPages.com"></a></div>		
+					<div class="cityimg">
+						<div id="skyline"><script type="text/javascript">displayCityScape();</script><img src="https://web.archive.org/web/20071001141012/http://img.superpages.com/images/spacer.gif" alt="City Skyline" width="187" height="62" border="0"></div>
+					</div>
+				</div>
+				<!-- end logo header -->
+			</div>
+			<!-- end header - row 1 -->
+			<!-- begin navigation - row 2 -->
+			<div class="topnavcont">			
+				<div class="topnav">					
+					<ul class="topnavtxt">
+						<li class="selected"><a onclick="omniTrackHeaderTabs('Business Info');" href="/"><span class="tab1">Business Info</span></a></li>
+						<li><script type="text/javascript">displayResLink();</script><span class="tab2">Residential</span></li>
+						<li><script type="text/javascript">displayMapLink();</script><span class="tab3">Maps &amp; Directions</span></li>
+						<li><a onclick="omniTrackHeaderTabs('Shopping');" href="http://shopping.superpages.com/" rel="nofollow"><span class="tab4">Online Shopping</span></a></li>
+						<li class="rttab"><span class="widget_cityname"><!-- Yellow Pages --><h1 style="margin:0;padding:0;font-size:100%;display:inline;"><script type="text/javascript">displayLocation();</script>&nbsp;<!-- /Yellow Pages --></h1><a onclick="omniTrackHeaderLinks('Header', 'Change City');" href="javascript:toggleContent(1, 'changecity');" title="Choose Your City or Town" class="changelnk">Change City<img src="http://img.superpages.com/images-yp/sp/images/widget/down-arrow-b.gif" alt="Change City" border="0"></a></span></li>
+					</ul>				
+				</div>
+				<div id="changecity">
+					<div id="ccitylist">
+						<ul class="ccl">
+							<li><a href="/nm/albuquerque/" title="Albuquerque, NM Yellow Pages">Albuquerque, NM</a></li>
+							<li><a href="/ga/atlanta/" title="Atlanta, GA Yellow Pages">Atlanta, GA</a></li>
+							<li><a href="/tx/austin/" title="Austin, TX Yellow Pages">Austin, TX</a></li>
+							<li><a href="/md/baltimore/" title="Baltimore, MD Yellow Pages">Baltimore, MD</a></li>
+							<li><a href="/al/birmingham/" title="Birmingham, AL Yellow Pages">Birmingham, AL</a></li>
+							<li><a href="/ma/boston/" title="Boston, MA Yellow Pages">Boston, MA</a></li>
+							<li><a href="/ny/brooklyn/" title="Brooklyn, NY Yellow Pages">Brooklyn, NY</a></li>
+							<li><a href="/ny/buffalo/" title="Buffalo, NY Yellow Pages">Buffalo, NY</a></li>
+							<li><a href="/nc/charlotte/" title="Charlotte, NC Yellow Pages">Charlotte, NC</a></li>
+							<li><a href="/il/chicago/" title="Chicago, IL Yellow Pages">Chicago, IL </a></li>
+							<li><a href="/oh/cincinnati/" title="Cincinnati, OH Yellow Pages">Cincinnati, OH</a></li>
+							<li><a href="/oh/cleveland/" title="Cleveland, OH Yellow Pages">Cleveland, OH</a></li>
+							<li><a href="/oh/columbus/" title="Columbus, OH Yellow Pages">Columbus, OH</a></li>
+							<li><a href="/tx/dallas/" title="Dallas, TX Yellow Pages">Dallas, TX</a></li>
+							<li><a href="/co/denver/" title="Denver, CO Yellow Pages">Denver, CO</a></li>
+						</ul>
+						<ul class="ccl">
+							<li><a href="/mi/detroit/" title="Detroit, MI Yellow Pages">Detroit, MI</a></li>
+							<li><a href="/tx/fort-worth/" title="Fort Worth, TX Yellow Pages">Fort Worth, TX</a></li>
+							<li><a href="/tx/houston/" title="Houston, TX Yellow Pages">Houston, TX</a></li>
+							<li><a href="/in/indianapolis/" title="Indianapolis, IN Yellow Pages">Indianapolis, IN </a></li>
+							<li><a href="/fl/jacksonville/" title="Jacksonville, FL Yellow Pages">Jacksonville, FL</a></li>
+							<li><a href="/mo/kansas-city/" title="Kansas City, MO Yellow Pages">Kansas City, MO</a></li>
+							<li><a href="/nv/las-vegas/" title="Las Vegas, NV Yellow Pages">Las Vegas, NV</a></li>
+							<li><a href="/ca/los-angeles/" title="Los Angeles, CA Yellow Pages">Los Angeles, CA</a></li>
+							<li><a href="/ky/louisville/" title="Louisville, KY Yellow Pages">Louisville, KY</a></li>
+							<li><a href="/tn/memphis/" title="Memphis, TN Yellow Pages">Memphis, TN</a></li>
+							<li><a href="/fl/miami/" title="Miami, FL Yellow Pages">Miami, FL</a></li>
+							<li><a href="/wi/milwaukee/" title="Milwaukee, WI Yellow Pages">Milwaukee, WI</a></li>
+							<li><a href="/mn/minneapolis/" title="Minneapolis, MN Yellow Pages">Minneapolis, MN</a></li>
+							<li><a href="/tn/nashville/" title="Nashville, TN Yellow Pages">Nashville, TN</a></li>
+							<li><a href="/ny/new-york/" title="New York, NY Yellow Pages">New York, NY</a></li>
+						</ul>
+						<ul class="ccl">
+							<li><a href="/fl/orlando/" title="Orlando, FL Yellow Pages">Orlando, FL</a></li>
+							<li><a href="/pa/philadelphia/" title="Philadelphia, PA Yellow Pages">Philadelphia, PA</a></li>
+							<li><a href="/az/phoenix/" title="Phoenix, AZ Yellow Pages">Phoenix, AZ</a></li>
+							<li><a href="/pa/pittsburgh/" title="Pittsburgh, PA Yellow Pages">Pittsburgh, PA</a></li>
+							<li><a href="/or/portland/" title="Portland, OR Yellow Pages">Portland, OR</a></li>
+							<li><a href="/nc/raleigh/" title="Raleigh, NC Yellow Pages">Raleigh, NC</a></li>
+							<li><a href="/ca/sacramento/" title="Sacramento, CA Yellow Pages">Sacramento, CA</a></li>
+							<li><a href="/tx/san-antonio/" title="San Antonio, TX Yellow Pages">San Antonio, TX</a></li>
+							<li><a href="/ca/san-diego/" title="San Diego, CA Yellow Pages">San Diego, CA</a></li>
+							<li><a href="/ca/san-francisco/" title="San Francisco, CA Yellow Pages">San Francisco, CA</a></li>
+							<li><a href="/ca/san-jose/" title="San Jose, CA Yellow Pages">San Jose, CA</a></li>
+							<li><a href="/wa/seattle/" title="Seattle, WA Yellow Pages">Seattle, WA</a></li>
+							<li><a href="/fl/tampa/" title="Tampa, FL Yellow Pages">Tampa, FL</a></li>
+							<li><a href="/az/tucson/" title="Tucson, AZ Yellow Pages">Tucson, AZ</a></li>
+							<li><a href="/dc/washington/" title="Washington, DC Yellow Pages">Washington, DC</a></li>
+							<li class="bstate">Browse by <a href="/us/">State</a></li>
+						</ul>
+						<div id="closex" style="padding-right: 25px;"><a href="javascript:toggleContent(0,'changecity');"><img src="http://img.superpages.com/images-yp/sp/images/widget/closex.png" alt="close window" border="0"></a></div>				
+					</div>
+					<div id="city-list-search">						 
+						<form id="form1" action="/cgi-bin/setgeoloc.php" method="get" name="form1" onsubmit="return validateChooseCity();">
+							<label for="choose_city">Don't see the city you're looking for?</label>							
+							<input type="hidden" value="true" name="setts">
+							<input onfocus="MM_setTextOfTextfield('choose_city','','')" id="choose_city" name="search_terms" type="text" class="cls-input" value="City and State, or ZIP Code">
+							<input type="image" src="http://img.superpages.com/images-yp/sp/images/widget/srchbtn.gif" style="width:94px; height:33px" alt="Submit button" class="submit">
+						</form>
+					</div>
+				</div>						
+			</div>
+			<!-- end navigation -->
+			<!-- begin DYNAMIC AREA - Search Area - this changes with the tab change - row 3 -->
+			<div class="srchcont">
+				<div class="secondaryfeat">
+					<ul class="secfeatxt">
+						<li><a onclick="omniTrackGTnSecFeat('Search Widget', 'City Pages and Guides');" href="javascript:findCityLink2(T + '-' + S);">City Pages and Guides</a></li>
+						<li><a onclick="omniTrackGTnSecFeat('Search Widget', 'Local Coupons and Deals'); toggleMyDirHome('coupons'); return true;" href="http://yellowpages.superpages.com/profiler/abook.jsp" rel="nofollow">Local Coupons and Deals</a></li>
+						<li><a onclick="omniTrackGTnSecFeat('Search Widget', 'Mobile Search');" href="/mobile/">Mobile Search</a></li>
+					</ul>							
+				</div>		
+				<div class="advsrch"><a onclick="omniTrackHeaderLinks('Search Widget', 'Search Option');" href="http://yellowpages.superpages.com/yp.advanced.jsp?STYPE=AD" rel="nofollow" title="For more search options, use our advanced  search."><strong>Advanced</strong><br> Search</a></div>			
+				<div class="srchhdrcont">
+					<form action="http://yellowpages.superpages.com/listings.jsp" method="get" name="ypform" onsubmit="checkSTYPE(this); if (verifySimple(this)) {omniTrackHeaderSearch();} else {return false;}">
+						<input type="hidden" name="CS" value="L" style="display:none">
+						<input type="hidden" name="MCBP" value="true" style="display:none">
+						<input type="hidden" name="search" value="Find It" style="display:none">
+						<input type="hidden" name="SRC" value="">
+						<label for="what">What</label>						
+						<a name="content"></a>
+						<input type="text" name="C" id="what" value="Business Name, Category, Keyword" onkeydown="HandleInputEvents('what');changeTxtColor('what','Business Name, Category, Keyword');" onfocus="changeTxtColor('where','City, State, Zip');changeTxtColor('what','Business Name, Category, Keyword');" onclick="MM_setTextOfTextfield('what','','');changeTxtColor('what','Business Name, Category, Keyword');" size="30" maxlength="150" class="swfield">
+						<input type="hidden" name="STYPE" value="S" style="display:none">
+						<label for="where">Where</label>
+						<input type="text" name="L" class="swfield" title="where" id="where" value="City, State, Zip" onkeydown="HandleInputEvents('where');changeTxtColor('where','City, State, Zip');" onclick="MM_setTextOfTextfield('where','','');changeTxtColor('where','City, State, Zip');" size="30" maxlength="150">
+						<input type="image" src="http://img.superpages.com/images-yp/sp/images/widget/srchbtn.gif" style="width:94px; height:33px" alt="Submit button" class="submit">
+					</form>
+				</div>
+			</div>
+			<!-- end DYNAMIC AREA - Search Area - this changes with the tab change - row 3  -->			
+		<!-- end hdr wrap -->
+		</div>	
+		<!--- end header--->
+		
 <table width="950" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="margin-left:20px">
 <tbody><tr>
 <td colspan="2"><div align="LEFT">
@@ -316,9 +251,9 @@ http://www.omniture.com -->
 
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="620" align="LEFT" valign="TOP" class="style1">  <p class="style1">Idearc Media Corp. ("Idearc") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website covered by this policy. <br>
+<td width="620" align="LEFT" valign="TOP" class="style1">  <p class="style1">Idearc Media LLC ("Idearc") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website covered by this policy. <br>
         <br>
-        <strong>This Privacy Policy applies only to the user privacy of the www.superpages.com, www.bigbook.com, and www.bigyellow.com websites (each, “This Website”, as applicable).  It does not apply to the offline activities of Idearc Media Corp. or any of its affiliates. </strong><br>
+        <strong>This Privacy Policy applies only to the user privacy of the www.superpages.com, www.bigbook.com, and www.bigyellow.com websites (each, “This Website”, as applicable).  It does not apply to the offline activities of Idearc Media LLC or any of its affiliates. </strong><br>
         <br>
         <br>
         <strong>Privacy Policy Effective Date / Updates </strong><br>
@@ -516,33 +451,31 @@ Please note that Idearc may support features and content appearing on other comp
 </tr>
 </tbody></table>
 </td></tr></tbody></table>
-<!--- Footer cookied --->
-</div> <!--- / contentContainer --->
-<div id="Cookie">
-<div id="Structure">
-<div id="SpacerLines"></div>
-<div id="IdearcLogo"><a href="http://www.idearc.com/"><img src="http://img.superpages.com/images-yp/sp/images/07/footer_idearclogo.gif" alt="Idearc Media Corp." width="80" height="55" border="0"></a></div>
-<div id="Links">
-<b>
-<a href="http://advertising.superpages.com/">Advertise with Us</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/affiliate/">Affiliate Program</a>
-&nbsp;| &nbsp;<a href="http://advertising.superpages.com/spportal/businessprofilebegin.do">Add or Edit a Business</a></b>
-<br>
-<a href="http://www.superpages.com/">Yellow Pages</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/cities/">City Guides</a> 
-&nbsp;| &nbsp;<a href="http://shopping.superpages.com/products-categories">Online Shopping</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/yellowpages/">Popular Categories</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/us/">Popular Cities</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/supertips/">Consumer Center</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/about/sitemap.html">Site Map</a>
-<br>
-<a rel="nofollow" href="http://www.superpages.com/about/copyright.html">Terms of Use</a> 
-&nbsp;| &nbsp;<a rel="nofollow" href="/about/copyright.html?#patents" title="Patents">Patents</a>
-&nbsp;| &nbsp;<a rel="nofollow" href="http://www.superpages.com/about/privacy.html">Privacy Policy</a> 
-&nbsp;| &nbsp;<a href="http://www.superpages.com/about/">About Superpages</a> 
-&nbsp;| &nbsp;Copyright © <script type="text/javascript">document.write(new Date().getFullYear());</script>2020  <a href="http://www.idearc.com/">Idearc Media Corp.</a> All rights reserved.</div>
-</div>
-</div>
+<!-- footer begin -->
+<div class="spfooter">
+	<div id="footlogocont">
+		<a href="http://www.idearc.com/" onclick="omniTrackGTnSecFeat('FT', 'Idearc Media Logo');"><img src="http://img.superpages.com/images-yp/sp/images/homepage/IdearcLogo.png" width="78" height="51" alt="Logo"></a>
+	</div>
+	<div id="spfootcont">
+		<a href="http://advertising.superpages.com/spportal/index.jsp?campaignId=SP_FT_AdvertiseWithUs" title="Online advertising" onclick="omniTrackGTnSecFeat('FT', 'Advertise with Us');"><strong>Advertise with Us</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/affiliate/" title="Affiliate program" onclick="omniTrackGTnSecFeat('FT', 'Affiliate Program');"><strong>Affiliate Program</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://advertising.superpages.com/spportal/businessprofilebegin.do?campaignId=SP_FT_AddEditaBusiness" title="Free business listing" onclick="omniTrackGTnSecFeat('FT', 'Add/Edit a Business');"><strong>Add or Edit a Business</strong></a><br>
+		<a href="/" title="Yellow Pages" onclick="omniTrackGTnSecFeat('FT', 'Yellow Pages');">Yellow Pages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/cities/" title="City Guides" onclick="omniTrackGTnSecFeat('FT', 'City Guides');">City Guides</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://shopping.superpages.com/products-categories" title="Online Shopping" onclick="omniTrackGTnSecFeat('FT', 'Online Shopping');">Online Shopping</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/yellowpages/" title="Popular Categories" onclick="omniTrackGTnSecFeat('FT', 'Popular Categories');">Popular Categories</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/bp/" title="Featured Businesses" onclick="omniTrackGTnSecFeat('FT', 'Featured Businesses');">Featured Businesses</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/supertips/" title="Consumer Center" onclick="omniTrackGTnSecFeat('FT', 'Consumer Center');">Consumer Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/about/sitemap.html" title="Site map" onclick="omniTrackGTnSecFeat('FT', 'Site Map');">Site Map</a><br>
+		<a href="/about/" title="About Superpages" onclick="omniTrackGTnSecFeat('FT', 'About Superpages');">About Superpages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/about/copyright.html" rel="nofollow" title="Terms of Use" onclick="omniTrackGTnSecFeat('FT', 'Terms of Use');">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/about/copyright.html?#patents" rel="nofollow" title="Patents" onclick="omniTrackGTnSecFeat('FT', 'Patents');">Patents</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/about/privacy.html" rel="nofollow" title="Privacy Policy" onclick="omniTrackGTnSecFeat('FT', 'Privacy Policy');">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		Copyright © <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 <a href="http://www.idearc.com/" title="Media &amp; Advertising" onclick="omniTrackGTnSecFeat('FT', 'Idearc Media');">Idearc Media</a> LLC. All rights reserved.
+		<!-- CSG Footer --><!-- <br /><br />*Restrictions apply. For full details, see the <a onClick="omniTrackHPLinks('CSG', 'TC');" href="http://www.idearcmedia.com/CammsServlet?assetid=10236" title="Terms & Conditions (PDF)" target="_blank">Terms and Conditions</a> for this program.--><!-- /CSG Footer -->		
+	</div>		
+</div>     
+<!-- /footer end -->
 
 <!-- SiteCatalyst code version: H.9.
 Copyright 1997-2007 Omniture, Inc. More info available at
@@ -568,6 +501,5 @@ if (s) {
 </script>
 <!-- End SiteCatalyst code version: H.9. -->
 
-<!--- / Footer --->
 
-</body></html>
+</div></body></html>
