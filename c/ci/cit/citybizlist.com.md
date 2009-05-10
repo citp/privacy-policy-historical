@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211010642id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510124142id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # citybizlist: Privacy Policy
 
