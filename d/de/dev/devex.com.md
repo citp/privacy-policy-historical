@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162106id_/http%3A//www.devex.com/home/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510084105id_/http%3A//devex.com/home/privacy_statement) for the most accurate reproduction.*
 
-# Home - Devex – Jobs, business opportunities, professional networking, and news for professionals working in international development, global health, and foreign assistance
+# International Development - Home
 
 ## Privacy Statement
 
@@ -22,9 +22,6 @@ We are an independent company, registered in accordance with Delaware state law.
 
 We use ‘cookie’ technology to collect data regarding your visits to our website. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: 
 
-  
-
-
   * Keeping count of your return visits to our or our advertisers’ or partners’ websites
   * Accumulating and reporting aggregate, statistical information in connection with the Company
   * Determining which features users and registered users like best and 
@@ -39,9 +36,6 @@ We allow third party advertisers on our websites and, sometimes, in our newslett
 **Other Parties**
 
 We will make your personally identifiable information available to other companies or people when:
-
-  
-
 
   * You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
   * You volunteer information or create a public profile in the course of your participation in our interactive services or post your profile in any of our directories.
@@ -61,9 +55,6 @@ We provide you with the option of posting your personal profile including your s
 **Opt-in and Opt-out**
 
 Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view certain of the content and use certain of the services offered by our website without registering. We also give users the following options 
-
-  
-
 
   * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us and
   * Opting not to provide certain personal information when registering for a website, provided, however, that you may not be able to use some of our services without providing us with certain information.
@@ -89,6 +80,3 @@ Devex is committed to ensuring the most secure and private operating environment
 Thank you for using our services. We’ll keep working hard to earn your business, and your loyalty. 
 
 This privacy statement was last modified on December 5, 2007 and is effective immediately.
-
-  
-
