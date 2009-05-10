@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbhifionline.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012033id_/http%3A//www.jbhifionline.com.au/privacypolicy/Information/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhifionline.com.au privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510111910id_/http%3A//www.jbhifionline.com.au/privacypolicy/Information/18) for the most accurate reproduction.*
 
 # Music Games DVDs at JB Hi-Fi Australia
 
