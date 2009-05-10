@@ -1,77 +1,37 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617170247id_/http%3A//www.clipmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511005809id_/http%3A//amplify.com/privacy) for the most accurate reproduction.*
 
-# 
+# Welcome to Amplify.com - What Are You Reading?™
 
-[](https://web.archive.org/)   **PRIVACY POLICY**
+**Clipmarks, LLC**
 
-By using our Software or Site, you agree to the collection and use of your  
-information by us in accordance with this Privacy Policy.
+**Privacy Policy**
 
-**We** (Clipmarks, LLC, the owner and operator of Clipmarks™) are committed to protecting the privacy of the users and visitors of its products and services. This Privacy Policy applies only to the Clipmark Software and Site, and not to other web sites to which we link or to web sites that you access via the Site. See our [**User Agreement**](https://web.archive.org/eula) for definitions of terms. 
+Your privacy is critically important to us.
 
-We may update, modify or change this Privacy Policy at any time and your continued use of the Software or Site means that you have accepted the new Privacy Policy. 
+Clipmarks, LLC (” **Clipmarks** “) operates several websites including [amplify.com](http://www.amplify.com/), and [clipmarks.com](http://www.clipmarks.com/). It is Clipmarks’ policy to respect your privacy regarding any information we may collect while operating our websites. ****
 
-* * *
+**Website Visitors**
 
-**Information You Provide That Becomes Public**
+Like most website operators, Clipmarks collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Clipmarks’ purpose in collecting non-personally identifying information is to better understand how Clipmark’s visitors use its website. From time to time, Clipmarks may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-  * **Your Username and Profile Image** . When you register, you will be asked to provide us with information, including a **Username** , password and working email address. You will also have the opportunity to upload a Profile Image that is associated with your Username. You will need your Username and password to save Clips and access Clips you have saved from the Site and use other site features, including, but not limited to, adding comments, saving and popping other user's clips. **Much of your activity on the Site may be public and identifiable to you based on your Username and Profile Image**. Your Username will be displayed publicly on the Site, for instance, when you create, post or Pop a Clip or Comment to the Site, add a clip that another user posted to your own, get added to another User's Guide List, or add another user to your Guide List. Your Username may appear in the Site's Clipper list, which is linked to from the Site's home page. When your Username is displayed on the Site, it is clickable by other visitors and will link to your Personal Page. 
-  * **Your Personal Page and Personal Profile**. Your Clips show up on your **Personal Page** (and in your widget), which visitors will be taken to when they click on your Username. On your Personal Page, visitors will only be able to see Clips that you have not marked **Private** . Visitors will be able to, amongst other things, see and search through your Public Clips. You also may create a **Personal Profile** , which will be accessible by any visitor to the Site and contains other information about you. 
-  * **Your Discretion.** When posting a Clip or Commentary on the Site, remember that any information you disclose becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information. 
+Clipmarks also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Clipmarks does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. ****
 
+**Gathering of Personally-Identifying Information**
 
+Certain visitors to Clipmarks’s websites choose to interact with Clipmarks in ways that require Clipmarks to gather personally-identifying information. The amount and type of information that Clipmarks gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a Cliplog (Clog) at [Amplify.com](http://www.amplify.com/) to provide their full name as well as a user photo, username and email address. You may also provide additional personal information in your user profile. This information may be displayed on the web Clipmarks websites in conjunction with your activity on the websites. Clipmarks does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. Your email address may be used to send you notifications about activity the website. You can control these notifications on the Email Notifications page in the Settings menu. ****
 
-* * *
+**Aggregated Statistics**
 
-**Other Information You Provide and How We Use It**
+Clipmarks may collect statistics about the behavior of visitors to its websites. For instance, Clipmarks may monitor the most popular Clogs on the Amplify.com site or use spam screened by the Akismet comment spam prevention service to help identify spam. Clipmarks may display this information publicly or provide it to others. However, Clipmarks does not disclose personally-identifying information other than as described below. ****
 
-  * **Reports We Generate Using Your Information.** We may use your Username, all Clips you create or save and the information associated with them, within internal reports we generate for the purpose of monitoring the use of the Software and the activity on the Site. Personally identifiable data from these reports will not be distributed to third parties or used for any other purposes except as stated herein, although we may use the information in the aggregate to show publicly or to affiliates the usage of the Site. 
-  * **Your Email Address.** The email address you provide will not be distributed to third parties and will be used to respond to your customer support inquiries and forgot password requests, notify you about activity on Clipmarks, to enable other users to find you, and update you about changes to Clipmarks Software and Site. 
-  * **Disclosures to Third Parties.** We may use third party contractors to help us operate our business or administer activities on our behalf and may share your information (both personal and non-personal) with these contractors for those limited purposes. We will not share your personally identifiable information with third parties except as provided in this Privacy Policy or the User Agreement. 
-  * **Transfer or Sale of Your Information.** If Clipmarks is sold to or merges with another company, or declares bankruptcy, or if we sell the Site, some or all of the information collected from you (both personal and non-personal) may be transferred to a third party as a result. We may also disclose your personally identifiable information when we determine it is necessary to comply with applicable laws or protect the interests or safety of Clipmarks, the Clipmark Services, its users and visitors. 
+**Protection of Certain Personally-Identifying Information**
 
+Clipmarks discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Clipmarks’s behalf or to provide services available at Clipmarks’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Clipmarks’s websites, you consent to the transfer of such information to them. Clipmarks will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Clipmarks discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Clipmarks believes in good faith that disclosure is reasonably necessary to protect the property or rights of Clipmarks, third parties or the public at large. If you are a registered user of a Clipmarks website and have supplied your email address, Clipmarks may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Clipmarks and our products. We expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Clipmarks takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. ****
 
+**Cookies**
 
-* * *
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Clipmarks uses cookies to help Clipmarks identify and track visitors, their usage of Clipmarks website, and their website access preferences. Clipmarks visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Clipmarks’s websites, with the drawback that certain features of Clipmarks’s websites may not function properly without the aid of cookies. ****
 
-**Information Collected Automatically and How We Use It**
+**Privacy Policy Changes**
 
-  * **Your IP Address.** Our servers log your IP address automatically when you use the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers automatically identify your computer by its IP address. We do not link IP addresses to any personally identifiable information. We use IP address information for system administration and the compilation of aggregate information about the usage of the Site and Software. 
-  * **We collect certain information regarding your use of the Site and Software.** Such information includes, but is not limited to, the number of Clips you save both privately and publicly, the tags you associate with such Clips, the number of searches you do on the Site and the keywords you use with those searches, the Uniform Resource Locator (URL) of the online source of Content you Clip, the file type of the Content within a Clip, titles of Clips you create and the Username of the creator of such Clips. We use this information to generate reports that we use internally to understand how Clipmarks is being used and how we can improve upon it. We may use this information to create reports that will be made available on our Site regarding activity that occurs within the public parts of the Site. We may share information we gather with third parties, such as advertisers, business partners and sponsors, but only in the aggregate or in anonymous form. We will not connect your name or other personally identifiable information to the foregoing information should we choose to share it with third parties. 
-  * **Cookies.** Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're on a web site. The use of cookies is an industry standard technology you will find on many web sites. When you use the Site and/or Software we may automatically receive and record information in our server logs from your browser including your IP address, cookie information from Clips, and the page you request. We use the information collected for the purpose of improving our service and for anonymous reporting of Site and Software usage. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. We may share such information with advertisers, business partners, sponsors and other third parties. 
-  * **Software Updates.** We may identify what version of the Software you are using to determine if it requires updating. 
-  * **Globally Unique Identifiers (GUID)**. We assign each user a GUID in order to authenticate, and record the number of, users of the Site and Software. Your GUID may be associated with any of the information we gather regarding use of the Services. 
-
-
-
-* * *
-
-**Advertising Policy**
-
-We may serve advertisements on the Site. We do not bundle any third party software and will not serve any types of advertising outside our Site. If you have any questions about our advertising policy, please contact [support@clipmarks.com](mailto:support@clipmarks.com). 
-
-* * *
-
-**Children**
-
-**This Site Is Not Intended For Children Under Age 13**. We will not knowingly collect personally identifiable information from children under the age of 13. 
-
-* * *
-
-**Links to Third Party Sites and Data Security**
-
-  * **Links.** The Site and Clips posted on the Site may contain links to other sites, including, among others, those of Clip sources, advertisers, third parties and companies whose trademarks may appear on the Service. We are not responsible for the privacy practices or the content of the sites to which we link or which you access via the Software and/or Site. We recommend that you review the privacy policies of all such sites. 
-  * **Security**. Protecting your information is important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us. 
-
-
-
-* * *
-
-**Update Personal Information or Contact Us**
-
-  * If you would like to review, update, change or delete information we have collected from you, please send an e-mail to [support@clipmarks.com](mailto:support@clipmarks.com). Please note that changes may not be effective immediately. 
-  * We welcome comments and questions on this Privacy Policy. Please send them to [support@clipmarks.com](mailto:support@clipmarks.com). 
-
-Effective 06/2008
-
-Portions of this web site and/or the Clipmarks(TM) clipping tool are or may be covered by United States Patent Numbers 7216290, 7278092, 7360166.
+Although most changes are likely to be minor, Clipmarks may change its Privacy Policy from time to time, and in Clipmarks’s sole discretion. Clipmarks encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
