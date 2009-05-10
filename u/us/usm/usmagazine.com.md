@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154430id_/http%3A//www.usmagazine.com/node/1802) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmagazine.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511000322id_/http%3A//www.usmagazine.com/newsletter-privacy) for the most accurate reproduction.*
 
-# Usmagazine.com | Privacy Policy
+# Privacy Policy | Usmagazine.com
 
 Usmagazine.com is committed to protecting your privacy online. Please take a moment to read our policy explaining our use of the personal information that you provide and the choices you can make about the collection and use of your information by Usmagazine.com.
 
