@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054115id_/http%3A//www.property-system.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510124423id_/http%3A//www.property-system.com/property-tycoon-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY AND TERMS OF WEBSITE USE FOR WWW.PROPERTY-SYSTEM.COM
+**_PRIVACY POLICY_**
 
 **Your Consent **
 
 Below we set out our privacy policy which will govern the way in which we process any personal information that you provide to us.  [We will notify you if the way in which we process your information is to change at any time].
 
-**IF YOU SUBMIT YOUR DETAILS TO US VIA THIS WEBSITE, YOU ARE CONSENTING TO THEIR USE IN ACCORDANCE WITH THIS PRIVACY** **POLICY** **.   IF YOU DO NOT ACCEPT ANY OF THESE TERMS, LEAVE THIS WEBSITE NOW. **
+**IF YOU SUBMIT YOUR DETAILS TO US VIA THIS WEBSITE, YOU ARE CONSENTING TO THEIR USE IN ACCORDANCE WITH THIS PRIVACY ****POLICY** **.   IF YOU DO NOT ACCEPT ANY OF THESE TERMS, LEAVE THIS WEBSITE NOW. **
 
 Our details are :
 
-**Vadesha Properties Limited, 314 Uppingham Road, Leicester, LE5 2BE, England.   If you have any queries, please contact our managing director, Parmdeep Vadesha by email to deep@property-system.com or by phone on 0870 881 0512. **
+**Vadesha Properties Limited, 314 Uppingham Road, Leicester, LE5 2BE, England.   If you have any queries, please contact our managing director, Parmdeep Vadesha by email to [deep@property-system.com](mailto:deep@property-system.com) or by phone on 0116 2460205. **
 
 You can access our home page and browse our site without disclosing your personal data save information collected by cookies that we use (see below).
 
 **Who may process data **
 
-**Your personal information** (which includes your name, address and any other details you provide to us which concern you as an individual) **may be shared by us with other members in our group and processed both by us and those other companies** including www.1shoppingcart.com and www.123count.com.  Our website also includes a link to www.masterhost.ru and www.1shoppingcart.com and such company may collect personal data about visitors to our site.  Each of our group companies authorised to process your information as mentioned above will do so in accordance with this privacy policy.
+**Your personal information** (which includes your name, address and any other details you provide to us which concern you as an individual) **may be shared by us with other members in our group and processed both by us and those other companies** including www.1shoppingcart.com.  Our website also includes a link to www.1shoppingcart.com and such company may collect personal data about visitors to our site.  Each of our group companies authorised to process your information as mentioned above will do so in accordance with this privacy policy.
 
-**The server on which your personal data is hosted is located in the USA** **and the server on which this website is hosted is located in Russia.** These are countries which at present have not been designated as having an adequate system of data protection in place. 
+**The server on which your personal data is hosted is located in the** **UK.**
 
 **_BY PROVIDING YOUR DETAILS YOU WILL BE INDICATING YOUR CONSENT TO THE TRANSFER OF YOUR DATA TO THE COUNTRY/COUNTRIES SPECIFIED ABOVE. _**
 
@@ -48,11 +48,11 @@ We have implemented security policies, rules and technical measures to protect t
 
 You may ask us whether we are storing personal information about you by emailing us at deep@property-system.com and, if you wish and upon payment of a fee of £10, we will provide you with a copy of the personal data we hold about you by email.  We may ask for proof of your identity before providing any information and reserve the right to refuse to provide information requested if identity is not established.
 
-Copyright
+**Copyright **
 
 All website design, text, graphics, the selection and arrangement thereof are Copyright © 2004, **Vadesha Properties Limited** , ALL RIGHTS RESERVED.
 
-Disclaimer of Warranty and Liability
+**Disclaimer of Warranty and Liability **
 
 The following provisions may be curtailed or disallowed by the laws of certain jurisdictions.  In such case, the terms hereof are to be read as excluding or limiting such term so as to satisfy such law.
 
@@ -78,10 +78,8 @@ These terms and this disclaimer and any claim based on use of information from t
 
 **Enquiries**
 
-If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data please contact Parmdeep Vadesha at deep@property-system.com. If at any time you wish us to cease processing your information please send a message to Parmdeep Vadesha at deep@property-system.com and insert “unsubscribe” as the subject heading.
+If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data please contact Parmdeep Vadesha at [deep@property-system.com](mailto:deep@property-system.com). If at any time you wish us to cease processing your information please send a message to Parmdeep Vadesha at [deep@property-system.com](mailto:deep@property-system.com) and insert “unsubscribe” as the subject heading.
 
 **Consent **
 
 **In order to access the information on this website, you must signal acceptance of the terms and disclaimer set out above by providing your name and email address in exchange for our free mini course.   If you do not accept any of these terms, leave this website now. **
-
-Close this window
