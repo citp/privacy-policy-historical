@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220221336id_/http%3A//www.dc-storm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510105558id_/http%3A//www.dc-storm.com/privacy.aspx) for the most accurate reproduction.*
 
 # dc storm, online marketing software > privacy
 
@@ -6,7 +6,7 @@
 
 StormIQ™ provides a fully integrated solution to track and manage all your online marketing. Manage, Optimise and Analyse PPC, Natural Search, Banners, Email Campaigns, Referrers and Affiliates. Take a different view.
 
-[Contact us today for a no risk trial](https://web.archive.org/web/20081220221336id_/http%3A//www.dc-storm.com/signup.aspx)
+[Contact us today for a no risk trial](https://web.archive.org/web/20090510105558id_/http%3A//www.dc-storm.com/signup.aspx)
 
 ## DC Storm, privacy policy
 
