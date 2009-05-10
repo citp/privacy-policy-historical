@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921063830id_/http%3A//www.brandz.com/output/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510090941id_/http%3A//www.brandz.com/output/privacy.aspx) for the most accurate reproduction.*
 
 # 
+
+[](https://web.archive.org/)
 
 ### WPP Internet Privacy Policy
 
@@ -37,4 +39,4 @@ Under European data protection law you have a right to request access to persona
 Who is responsible for personal information collected on this site?   
 If you have any questions about WPP's privacy policy, please email our [Internet Editor](mailto:brandz@uk.millwardbrown.com), who controls the personal data collected on this website.
 
-© BrandZ 2008 - All rights reserved.
+© BrandZ 2009 - All rights reserved
