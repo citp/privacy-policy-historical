@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919103711id_/http%3A//vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511185254id_/http%3A//www.vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# VivahaBandhan : Privacy Policy
+# Vivabandhan privacy policies: Read and Register for Free to search your soulmate
 
 Information the Website collects and How It's Used
 
@@ -48,7 +48,7 @@ The Website has extensive security measures in place to protect the loss, misuse
 
 Pointers to protect your privacy [Optional Clause]
 
-Please take the following steps to further protect your privacy:
+Please take the following steps to further protect your privacy: 
 
   1. Always close your browser and log out from the Website once you have finished surfing the net to prevent other people gaining access to your information and correspondence. 
   2. The Website has no control over other websites that it may be link to, and the Website takes no responsibility for the conduct of these companies. Always read the Terms and Conditions when using other websites. 
