@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094726id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511101602id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/content) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
-We believe shopping at [Oasis-stores.com](http://www.oasis-stores.com/) (part of the Mosaic Fashions group) is as secure as shopping in store. In addition we respect the privacy rights of our online visitors and recognise the importance of protecting information collected from them.
+We believe shopping at [Oasis-stores.com](http://www.oasis-stores.com/) (part of Aurora Fashions) is as secure as shopping in store. In addition we respect the privacy rights of our online visitors and recognise the importance of protecting information collected from them.
 
-We are part of the Mosaic Fashions Group and we take your privacy very seriously. We work hard to make sure that we only use your information in the ways that you want us to. This Privacy Statement explains what information we collect on this website, how and when it is collected, what we use it for now and how we will use it in the future. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement please contact us at [help@oasis-stores.com](mailto:help@oasis-stores.com).
+We are part of Aurora Fashions and we take your privacy very seriously. We work hard to make sure that we only use your information in the ways that you want us to. This Privacy Statement explains what information we collect on this website, how and when it is collected, what we use it for now and how we will use it in the future. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement please contact us at [help@oasis-stores.com](mailto:help@oasis-stores.com).
 
 If you are under 18, we require that you inform a guardian or parent regarding Oasis privacy policy before ordering online.
 
@@ -52,11 +52,9 @@ In order to process your order and deliver your purchases to you we may have to 
 
 We will only provide these companies with the information which they need to carry out their jobs. They will only be allowed to use your information in the way in which we tell them, and they will not be entitled to use it in their own right.
 
-We may on occasion notify you by e mail about changes to our terms and conditions, or other important changes to our website or our service.
-
 In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud. We may disclose your address and postcode details to check against the IMRG Security Alert or any other Fraud Prevention Scheme. At all times where we disclose your information for the purposes of fraud prevention it will remain secure. If you believe your details are incorrect you may correct those details by following the procedure below.
 
-We will not pass your information to any third parties outside of Mosaic Fashions Ltd, except where required to do so as a part of the sale, disposal or transfer of our business, in whole or in part.
+We will not pass your information to any third parties outside of Aurora Fashions Ltd, except where required to do so as a part of the sale, disposal or transfer of our business, in whole or in part.
 
 ## Updating your personal details
 
@@ -79,6 +77,3 @@ Information on deleting or controlling cookies is available at [www.AboutCookies
 ## And lastly
 
 ### This Privacy Statement may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so. If you have any questions relating to this statement, please email [help@oasis-stores.com.](mailto:help@oasis-stores.com)
-
-  
-
