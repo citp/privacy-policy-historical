@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2008-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080221154923id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511130734id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
 
 # SGI - Protecting your privacy
 
@@ -86,7 +86,7 @@ To ensure that SGI has accurate information please notify us when there are chan
 
 **Privacy policy**
 
-For a complete copy of SGI’s corporate privacy policy, [click here](https://web.archive.org/web/20080221154923id_/http%3A//www.sgi.sk.ca/pdf/sgi_privacy.pdf) (PDF, 40kB).
+For a complete copy of SGI’s corporate privacy policy, [click here](https://web.archive.org/web/20090511130734id_/http%3A//www.sgi.sk.ca/pdf/sgi_privacy.pdf) (PDF, 40kB).
 
 **Privacy contact**
 
@@ -105,7 +105,7 @@ If you want to:
 >  2260 – 11th Ave.  
 >  Regina, Sask.  S4P 0J9  
 >  Telephone: 1-800-667-8015  
->  E-mail: [privacyofficer@sgi.sk.ca](mailto:%70%72%69%76%61%63%79%6f%66%66%69%63%65%72%40%73%67%69%2e%73%6b%2e%63%61)
+>  E-mail: [sgiinquiries@sgi.sk.ca](mailto:sgiinquiries@sgi.sk.ca)
 
 If you’re not satisfied with the outcome of an inquiry or complaint handled by SGI’s Chief Privacy Officer, you may address your concerns to:
 
