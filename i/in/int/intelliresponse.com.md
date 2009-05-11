@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104510id_/http%3A//www.intelliresponse.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512004417id_/http%3A//www.intelliresponse.com/privacy.aspx) for the most accurate reproduction.*
 
 # intelliResponse - Privacy Policy
 
