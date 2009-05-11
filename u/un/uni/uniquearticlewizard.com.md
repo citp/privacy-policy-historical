@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquearticlewizard.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161603id_/http%3A//www.uniquearticlewizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquearticlewizard.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511120436id_/http%3A//www.uniquearticlewizard.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -6,7 +6,7 @@ I believe very strongly in the right of all individuals to keep information abou
 
 For example, every time you use your credit card you give away information about where you were, at what time, what shop you were in, and what you bought.  From this the credit card company, or anyone they sell or give that information to, can build up a whole profile of your lifestyle.  It may seem insignificant, but add that to all the other information that people are collecting about you and you quickly realise your life is no longer only your affair!
 
-This may or may not be of concern to you.  In either case, I can assure you that I will not be adding to the problem.  My formal [Privacy Policy](https://web.archive.org/web/20081216161603id_/http%3A//www.uniquearticlewizard.com/privacy.html#privacy) (which my lawyer requires me to have) is written out below. Here are some additional points that will probably be of interest to you:
+This may or may not be of concern to you.  In either case, I can assure you that I will not be adding to the problem.  My formal [Privacy Policy](https://web.archive.org/web/20090511120436id_/http%3A//www.uniquearticlewizard.com/privacy.html#privacy) (which my lawyer requires me to have) is written out below. Here are some additional points that will probably be of interest to you:
 
 #### Shopping Security
 
@@ -114,7 +114,7 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**  
 
-You may direct questions, comments or reports to: [Noel Swanson](https://web.archive.org/web/20081216161603id_/http%3A//www.uniquearticlewizard.com/contact.html)
+You may direct questions, comments or reports to: [Noel Swanson](https://web.archive.org/web/20090511120436id_/http%3A//www.uniquearticlewizard.com/contact.html)
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE  **
 
@@ -140,7 +140,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE  **
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the [contact information](https://web.archive.org/web/20081216161603id_/http%3A//www.uniquearticlewizard.com/contact.html) of the web owner unless otherwise here specified.   In the event that litigation is brought to court, the proper court shall be the closest appropriate court to the [Seller's address](https://web.archive.org/web/20081216161603id_/http%3A//www.uniquearticlewizard.com/contact.html). 
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the [contact information](https://web.archive.org/web/20090511120436id_/http%3A//www.uniquearticlewizard.com/contact.html) of the web owner unless otherwise here specified.   In the event that litigation is brought to court, the proper court shall be the closest appropriate court to the [Seller's address](https://web.archive.org/web/20090511120436id_/http%3A//www.uniquearticlewizard.com/contact.html). 
 
 **APPLICABLE LAW  **
 
