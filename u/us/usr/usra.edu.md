@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usra.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024421id_/http%3A//www.usra.edu/cs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usra.edu privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511223357id_/http%3A//www.usra.edu/cs/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | USRA: Universities Space Research Association
 
