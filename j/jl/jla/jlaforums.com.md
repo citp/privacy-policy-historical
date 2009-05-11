@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlaforums.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220113805id_/http%3A//www.jlaforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlaforums.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512013854id_/http%3A//www.jlaforums.com/privacy.php) for the most accurate reproduction.*
 
 # JLA FORUMS - Privacy Statement
 
@@ -17,6 +17,18 @@ We use small text files called cookies to improve the overall Site experience. C
 
 **Third Party Advertising**  
 Ads appearing on this Web site may be delivered to users by JLA or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by JLA and does not cover the use of cookies by any advertisers.
+
+**Google DoubleClick DART Cookie**
+
+  * Google, as a third party vendor, uses cookies to serve ads on The JLA FORUMS
+  
+
+  * Google's use of the DART cookie enables it to serve ads to you based upon your visit to this site and other sites on the internet
+  
+
+  * Users may opt out of of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+
+
 
 **Disclosure**  
 We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to prevent harm to yourself or others. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which JLA participates or to a purchaser of all or substantially all of JLA's assets. Such successor entity shall be bound by the terms and conditions of this privacy policy.
