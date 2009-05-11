@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021739id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511192344id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetwater.com
 
@@ -27,7 +27,7 @@ We do not intentionally share your information with third parties except as requ
 In order to protect your information, we have put in place appropriate electronic, physical, and procedural safeguards. We utilize standard encryption/security technology to protect data transfer and our information systems are treated with the highest regard for security. In addition, we limit access to customer information to only authorized personnel.
 
 **How You Can Review or Correct Your Information**  
-To review or correct your personal information, or to change your communication preferences, please call us at 800-222-4700. Your Sales Engineer will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may [unsubscribe here](https://web.archive.org/publications/unsubscribe.php).
+To review or correct your personal information, or to change your communication preferences, please call us at 800-222-4700. Your Sales Engineer will be glad to help. You may choose to stop receiving promotional communications at any time. If you have subscribed to any of our email newsletters, you may unsubscribe anytime.
 
 **Links to Other Websites**  
 Sweetwater is not responsible for the content or practices employed by other websites that are linked to from Sweetwater.com. When you use a link to go from Sweetwater.com to another website, our privacy policy is no longer in effect.
