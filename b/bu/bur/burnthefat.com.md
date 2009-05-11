@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021343id_/http%3A//www.burnthefat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511092707id_/http%3A//www.burnthefat.com/privacy.html) for the most accurate reproduction.*
 
 # Burn the Fat Feed the Muscle, Fat Loss
 
@@ -59,4 +59,4 @@ Burnthefat.com
 C/O Fitness Renaissance, LLC  
 PO Box 5097  
 Hoboken, NJ 07030  
-[Click here to Email us](https://web.archive.org/web/20081216021343id_/http%3A//www.burnthefat.com/?doc=contact)
+[Click here to Email us](https://web.archive.org/web/20090511092707id_/http%3A//www.burnthefat.com/?doc=contact)
