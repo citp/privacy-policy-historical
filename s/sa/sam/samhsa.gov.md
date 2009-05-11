@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171733id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512000922id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
 
 # SAMHSA Privacy Policy
 
@@ -6,14 +6,12 @@ Thank you for visiting our SAMHSA (HHS) web site and for reviewing our Privacy P
 
 **508.samhsa.gov**  
 ---  
-**allmentalhealth.samhsa.gov**  
 **ars.samhsa.gov**  
 **asyouage.samhsa.gov**  
 **atr.samhsa.gov**  
 **bblocks.samhsa.gov**  
 **buprenorphine.samhsa.gov**  
-**coce.samhsa.gov / coocurring.samhsa.gov**  
-**csap-data.samhsa.gov**  
+**coce.samhsa.gov**  
 **Csapdcc.samhsa.gov  **  
 **csapdccc-csams.samhsa.gov  **  
 **csat.samhsa.gov**  
@@ -21,24 +19,20 @@ Thank you for visiting our SAMHSA (HHS) web site and for reviewing our Privacy P
 **dawninfo.samhsa.gov**  
 **dpt.samhsa.gov  **  
 **drugabusestatistics.samhsa.gov / oas.samhsa.gov**  
-**drugfreeworkplace.samhsa.gov / workplace.samhsa.gov**  
+**workplace.samhsa.gov**  
 **dwp.samhsa.gov**  
 **Epidcc.samhsa.gov**  
-**family.samhsa.gov / parentingispreveniton.samhsa.gov**  
+**family.samhsa.gov**  
 **fascenter.samhsa.gov / fasdcenter.samhsa.gov**  
 **findtreatment.samhsa.gov**  
 **gainscenter.samhsa.gov**  
 **getfit.samhsa.gov**  
-**GrantsTraining.samhsa.gov / grantsplanning.samhsa.gov**  
-**hablemos.samhsa.gov**  
 **hipaa.samhsa.gov**  
-**international.samhsa.gov   **  
 **kap.samhsa.gov**  
 **kap-elearning.samhsa.gov**  
 **mentalhealth.samhsa.gov**  
 **mentalhealthaids.samhsa.gov**  
 **mentalhealthcommission.gov**  
-**methprevention.samhsa.gov  **  
 **mhbg.samhsa.gov**  
 **modelprograms.samhsa.gov**  
 **nac.samhsa.gov**  
@@ -48,28 +42,25 @@ Thank you for visiting our SAMHSA (HHS) web site and for reviewing our Privacy P
 **ncsacw.samhsa.gov**  
 **nmhicstore.samhsa.gov**  
 **nrchmi.samhsa.gov**  
-**nrepp.samhsa.gov / nationalregistry.samhsa.gov**  
+**nrepp.samhsa.gov**  
 **nuestrasaludmental.samhsa.gov**  
 **PartnersForRecovery.samhsa.gov / pfr.samsha.gov**  
 **pathprogram.samhsa.gov**  
 **pathwayscourses.samhsa.gov**  
 **prevention.samhsa.gov  / csap.samhsa.gov**  
 **preventionpathways.samhsa.gov**  
-**preventionplatform.samhsa.gov / preventiondss.samhsa.gov / prevtech.samhsa.gov / preventiondss.org**  
+**preventionplatform.samhsa.gov / preventiondss.samhsa.gov / prevtech.samhsa.gov**  
 **preventiontraining.samhsa.gov**  
 **rcsp.samhsa.gov**  
 **recoverymonth.gov**  
 **refugeewellbeing.samhsa.gov**  
-**rhti.samhsa.gov**  
 **riskcommunication.samhsa.gov**  
 **samhsa.gov**  
-**samhsa-gpratrn.samhsa.gov**  
 **sbirt.samhsa.gov**  
 **sims.samhsa.gov**  
 **sshs.samhsa.gov**  
 **stopalcoholabuse.gov**  
-**StopStigma.samhsa.gov**  
-**strategicplan.samhsa.gov**  
+**StopStigma.samhsa.gov / promoteacceptance.samhsa.gov / allmentalhealth.samhsa.gov**  
 **systemsofcare.samhsa.gov**  
 **teachin.samhsa.gov**  
 **tie.samhsa.gov**  
@@ -136,7 +127,6 @@ Any information that is automatically collected and stored by SAMHSA is retained
 
 ##  Information Automatically Collected and Stored
 
-  
 When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit: 
 
   * the name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain); 
