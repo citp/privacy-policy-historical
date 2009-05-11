@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalwellbeing.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509072958id_/http%3A//www.naturalwellbeing.com/static/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalwellbeing.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511150737id_/http%3A//www.naturalwellbeing.com/static/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | NaturalWellBeing.com
 
