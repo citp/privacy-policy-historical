@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211063514id_/http%3A//www.globalcashcard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511093807id_/http%3A//www.globalcashcard.com/privacy.html) for the most accurate reproduction.*
 
-# Global Cash Card >> Privacy Statement
+# Privacy Policy :: Global Cash Card
 
 At Global Cash Card we recognize that privacy and security of personal financial information is a concern to our customers. We have taken the utmost care in establishing and implementing policies and procedures to protect this information.
 
