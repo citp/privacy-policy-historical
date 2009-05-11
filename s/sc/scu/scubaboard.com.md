@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511193342id_/http%3A//scubaboard.com/forums/matrix/privacy.php) for the most accurate reproduction.*
 
 # ScubaBoard - Privacy Policy
 
   
 |  **Register today and make this ad disappear!**  
-|  Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 100,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php) for a **free** account. As a registered member you will be able to: 
+|  Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 100,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/web/20090511193342id_/http%3A//scubaboard.com/forums/matrix/register.php) for a **free** account. As a registered member you will be able to: 
 
   * Participate in over 500 dive topic forums and browse from over 3,000,000 posts.
   * Communicate privately with other divers from around the world.
@@ -12,9 +12,9 @@
   * Gain access to our free classifieds marketplace to buy, sell and trade gear, travel and services.
   * Use the calendar to organize your events and enroll in other members' events.
 
-All this and much more is available to you absolutely free when you [register](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php) for an account, so [sign up today](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/register.php)! 
+All this and much more is available to you absolutely free when you [register](https://web.archive.org/web/20090511193342id_/http%3A//scubaboard.com/forums/matrix/register.php) for an account, so [sign up today](https://web.archive.org/web/20090511193342id_/http%3A//scubaboard.com/forums/matrix/register.php)! 
 
-If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/web/20081216030955id_/http%3A//www.scubaboard.com/forums/matrix/sendmessage.php) the ScubaBoard Support Team.  
+If you have any problems with the registration process or your account login, please [contact](https://web.archive.org/web/20090511193342id_/http%3A//scubaboard.com/forums/matrix/sendmessage.php) the ScubaBoard Support Team.  
   
 ---|---  
   
