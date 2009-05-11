@@ -1,57 +1,95 @@
-> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530104441id_/http%3A//xeonbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511175008id_/http%3A//www.xeonbd.com/privacy-policy/index.php) for the most accurate reproduction.*
 
-# Cheap Domain Registration, H-Sphere Web Hosting, Innovative Web Design - Bangladesh
+# Privacy Policy of XeonBD Service
 
-The XeonBD Privacy Policy provides you the commitment to protect you privacy. This privacy policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by XeonBD. The following discloses our Privacy Policy.  
-**  
-What information are you collecting and how are you collecting it?**
+Privacy Policy
 
-When a browser requests a page from any Web site within XeonBD, our Web servers automatically recognize that browser's domain name and IP address. The domain name and IP address expose nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in total, and to examine misuse of XeonBD, its users, or to assist with law enforcement. We do not gather and assess this information for specific persons. Our Web servers do not automatically trace e-mail addresses of any browser.
+XeonBD is committed to protect the privacy of its customers. This privacy policy governs the manner in which XeonBD uses, maintains and discloses information collected from customers and users of XeonBD website. XeonBD is committed to develop long lasting relationships based on trust. XeonBD will do everything in its power to ensure that your right to privacy is maintained and protected. This privacy policy applies to the websites managed by XeonBD as well as the services and products provided through this site. From time to time we may make alterations to our website and to the products and services provided through it. This may result in periodic changes to the privacy policy. Any such changes will be posted on our website and we would ask that you refer back to it regularly in order to review any changes.
 
-**What are cookies?**
+Use of the XeonBD's website and services indicates your consent to the collection and use of information as described below.
 
-A cookie is a little piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of XeonBD Network you have browse or customized, so the next time you browse; those pages may be readily accessible. Our advertisers may also use cookies to determine how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as future.
+Any questions which you may have regarding this privacy policy should be directed to **::** [info@xeonbd.com](mailto:info@xeonbd.com) (info)
 
-**What information do you collect when I register for something?**
+**1\. What information is collected and how is it used?**
 
-XeonBD offers access to some services that require registration. We may use your registration contact information to send notification to you of XeonBD products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See will you disclose the information that you collect to outside third parties?
+The collected information will be used in the management of our own database and to enable XeonBD to contact you about the service you have requested (for example, to confirm the registration of a domain or hosting plan or to inform you of the need to renew your registration when it expires or to change information in any plan of Web Promotion and SEO). Information passed to XeonBD from your web browser may be stored and used in our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on XeonBD's website.
 
-**What other information do you request?**
+**2\. Do we share the information with anyone else?**
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+XeonBD will not, without your consent, pass your personal information to a third party except in the following circumstances:
 
-We may from time to time send e-mail announcing new XeonBD products and services. Except as stated above, XeonBD will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
+**(i)** If required to do so by law or by any organization with appropriate authority;
 
-When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+**(ii)** To any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;
 
-When you use co-branded services, or those provided by a third party, within XeonBD, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+**(iii)** XeonBD may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;
 
-**What information do you collect when I purchase something?**
+**3\. Credit Cards**
 
-If you are purchasing something from XeonBD, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.  
-Certain XeonBD media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other XeonBD media properties do not use SSL and thereby do not offer a secure coded way to transfer information.   
-We make an effort to include a link to this Privacy Policy on every page in these cases and situations.
+Credit card payment for XeonBD's services is processed by [2Checkout.com](http://www.2checkout.com/), Inc. is an authorized retailer of goods and services provided by XeonBD. We do not record your credit card details on our database and the payment service provider does not record any other information about you.
 
-**Will you disclose the information you collect to outside third parties?**
+**4\. How long will we hold data on you?**
 
-XeonBD will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:  
-Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on XeonBD,  
-Protect and defend the rights or property of XeonBD of sites and related properties, or visitors to XeonBD of sites and related properties,  
-Identify persons who may be violating the law, the XeonBD legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing XeonBD or its related properties,  
-Fulfill a user's order or request.  
-XeonBD uses reasonable precautions to keep the information disclosed to us secure. XeonBD reserves the right to transfer all such information in connection with the sale of all or part of XeonBD assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users.
+XeonBD will not hold data for longer than is reasonably necessary for the purposes of the proper conduct of its business or as required by law.
 
-**What else should I know about my privacy when online?**
+**5\. Where is the data we hold stored?**
 
-XeonBD contains many hyperlinks to third party Web sites. XeonBD also contains advertisements of third parties, and is not responsible for the privacy practices or the content of such third party Web sites or advertisers. XeonBD does not share any of the individual personal information you provide XeonBD with the third parties to which XeonBD links, except as stated elsewhere within this Privacy Policy, although XeonBD may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy.
+Information which you submit via XeonBD's website is stored on a computer and sometimes on paper at our offices. This is necessary in order to process the information and to send you any information you have requested.
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+**6\. Security**
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+XeonBD places great importance on the security of all information associated with its customers and has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use XeonBD best efforts to prevent this.
 
-**Your Approval to This Agreement**
+**7\. Links to Other Sites**
 
-By using XeonBD, you approval to the collection and use of information by XeonBD as individual above. If we will change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+XeonBD website contains advertising and links to other websites. No personal information is passed to other websites if you follow one of these links. XeonBD is not responsible for the privacy practices or content of linked websites. We would encourage you to read the privacy statements of other websites, since their privacy policy may differ from XeonBD
 
-  
+**8\. Changes to Personal Information**
 
+If you need to change the information that we keep, for example because you have moved or to correct an error, please contact us at **::** [info@xeonbd.com](mailto:info@xeonbd.com) (info)
+
+**9\. Service Announcements**
+
+On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, a domain registration or web hosting service is temporarily suspended for maintenance.
+
+**10\. Your Responsibility**
+
+You are responsible for the security of your Account Number and passwords. Make sure you keep it in a safe place and do not share it with others.
+
+Always remember to log out after your session ends, to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
+
+**11\. 30 Days Money Back**
+
+If you are dissatisfied with 
+
+_annual_
+
+Linux hosting service, you may choose to cancel your subscription for a full refund. Only webhosting service covers this 30 Days Money Back policy. Domain name registration and additional services, all of which are non-refundable..
+
+If you would like to cancel your account for any reason, then please contact XeonBD Hosting billing department at: [billing@xeonbd.com](mailto:billing@xeonbd.com) .
+
+30 Days Money Back Guarantee only valid for the clients sign up from Bangladesh and for getting your money back you must visit XeonBD's office.
+
+_Clients outside of Bangladesh not eligible for 30 Days Money Back Guarantee in any condition_.
+
+Any product purchase during the time of special promotion/special offer will not valid for 30 Days Money Back.
+
+**Contact Information**
+
+In the event of questions about access to your Personal Information or Prospect Information; our collection, use, management, or disclosure of Personal Information or Prospect Information; or this Privacy Statement, contact us at:
+
+XeonBD  
+House 231, Road 06  
+Mohammadi Housing Limited  
+Mohammadpur, Dhaka 1207  
+Bangladesh.
+
+Hotline: +88 016 7010 8902
+
+**Effective Date**
+
+This Privacy Statement is effective as of (GMT +06:00, Dhaka) June 18, 2008.
+
+**Privacy Policy Version**
+
+Version 1.3
