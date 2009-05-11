@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020934id_/http%3A//prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511165526id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Fax Elsewhere: USA +1 972 380 8808
 Hours of operation: 08.00 – 18.00 hrs Mon - Fri  
 e-mail: ppass@prioritypassusa.com
 
-Priority Pass is part of the Collinson Group, which also includes the following companies: IAPA (International Airline Passengers Association), TravelPlan, Columbus Insurance, Expat Network, Lounge Pass, Golfing Elite and Priority Traveller.
+Priority Pass is part of Priority Travel Group, a division of the Collinson Group, specialising in the international travel clubs and services sector, which also includes the following companies: IAPA (International Airline Passengers Association), TravelPlan, Columbus Insurance, Expat Network, Lounge Pass, Golfing Elite and Priority Traveller.
 
 Priority Pass Ltd. understand and respect our members' desire for privacy and we extend that courtesy to all visitors to our site. To this end we would like you to know how we use any personal information you entrust to us.
 
