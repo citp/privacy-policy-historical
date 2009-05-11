@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509072958id_/http%3A//www.naturalwellbeing.com/static/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2009-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090511150737id_/http%3A//www.naturalwellbeing.com/static/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/internalNoSideNav.dwt.cfm" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -15,61 +15,42 @@
 <meta http-equiv="expires" content="0">
 <meta http-equiv="content-language" content="English">
 <meta name="distribution" content="global">
-<meta name="copyright" content="#2008, Natural Wellbeing Distribution Inc.">
+<meta name="copyright" content="#2009, Natural Wellbeing Distribution Inc.">
 <!-- InstanceBeginEditable name="headCustom" -->
 <link rel="stylesheet" type="text/css" href="/external/css/shopping.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/external/css/print.css" media="print">
 <!-- InstanceEndEditable -->
 <script type="text/javascript" language="javascript" src="/external/js/javascript.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="/external/js/s_code.js"></script>
 </head>
 <body>
-	
-	<div style="display:none;">
-		
-			<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-		
-		<script type="text/javascript"> 
-			<!--
-			var isDev = window.location.href.search(/vkistudios.net/);
-			if (isDev > -1){
-				_uacct="UA-981819-11"; //(dev account number)
-			}
-			else{
-			 _uacct="UA-981819-1"; //(live account number)
-			 _userv=2;
-			}
-			urchinTracker();
-			// -->
-		</script>
-	</div>
-	<div id="wrapper">
-		<div id="topcontainer">
-			
-			
 
-
-
-
-	
-	
-
-
-
-
-
+<div id="wrapper">
+  <div id="topcontainer">
+    
+    
 <div id="header">
 	<div id="logo" title="NaturalWellbeing.com">
-  	<a href="http://www.naturalwellbeing.com"><span class="fade">http://www.naturalwellbeing.com</span></a>
-  </div>
-  <div id="contactabout"><a href="http://blog.naturalwellbeing.com" title="About NaturalWellbeing" rel="nofollow">Blog</a> | <a href="http://www.naturalwellbeing.com/static/aboutus.cfm" rel="nofollow" title="About NaturalWellbeing">About</a> | <a href="http://www.naturalwellbeing.com/static/contactus.cfm" rel="nofollow" title="Contact Us">Contact</a> | <a href="http://www.naturalwellbeing.com/static/site-map.cfm" title="Site Map">Site Map</a></div>
-  
-  <div id="phone" title="Sales: 1.800.536.9353" style="background: url(/images/site/header/phonenumber.jpg);"><span class="fade">1.800.536.9353</span></div>
+		<a href="http://www.naturalwellbeing.com"><span class="fade">http://www.naturalwellbeing.com</span></a>
+	</div>
+	<div id="contactabout">
+		<a title="NaturalWellbeing Blog" href="http://blog.naturalwellbeing.com" rel="nofollow">Blog</a> |
+		<a title="About NaturalWellbeing" href="http://www.naturalwellbeing.com/static/aboutus.cfm" rel="nofollow">About</a> |
+		<a title="Contact Us" href="http://www.naturalwellbeing.com/static/contactus.cfm" rel="nofollow">Contact</a> |
+		<a title="Site Map" href="http://www.naturalwellbeing.com/static/site-map.cfm">Site Map</a> |
+		
+			<a title="Login" href="https://www.naturalwellbeing.com/store/login.cfm?page=account_info">Login</a>
+		
+	</div>
+	
+	<div id="phone" title="Sales: 1.800.536.9353" style="background: url(/images/site/header/phonenumber.jpg);"><span class="fade">1.800.536.9353</span></div>
 	<div class="clear"></div>
 </div>
 
-			
-			
-			
+    
+    
+    
 
 
 
@@ -94,8 +75,8 @@
 		</ul>
 	</div>
 
-			<div id="menutwo">
-				
+    <div id="menutwo">
+      
 <div id="topmenu">
 	<div id="navcontainer">
 		<ul class="navlist">
@@ -106,36 +87,45 @@
 	</div>
 </div>
 
-				
-
+      
 <script type="text/javascript" language="javascript">
-	function validateSearch(frm){
-		if (frm.search_text.value == '' || frm.search_text.value == 'Search Here'){
-			alert('Please provide a value for your search');
-			return false;
-		}
-		else
-			return true;
+function validateSearch(frm){
+	if (frm.search_text.value == '' || frm.search_text.value == 'Search Here'){
+		alert('Please provide a value for your search');
+		return false;
 	}
+	else{
+		frm.action = frm.action + "?search_text=" + frm.search_text.value;
+		return true;
+	}
+}
+
+function clearSearch(field){
+	if(field.value == 'Search Here'){
+		field.value = '';
+	}
+}
 </script>
 
-<form action="http://www.naturalwellbeing.com/search_results.cfm" method="post" name="frmSearch" onsubmit="return validateSearch(this);">
+<form action="/search_results.cfm" method="POST" autocomplete="off" name="frmSearch" onsubmit="return validateSearch(this);">
 	<div id="searchbox">
 		<div id="search">
-			<!--<strong>Search:</strong>&nbsp;-->
-			<input type="Text" name="search_text" class="search" value="Search Here">
+			<input type="Text" name="search_text" value="Search Here" onfocus="clearSearch(this);" autocomplete="off" class="search">
 		</div>
-		<div id="topgo"><input type="Image" src="/images/site/btn-search.gif" alt="Search"></div>
+		<div id="topgo">
+			<input type="Image" src="/images/site/btn-search.gif" title="Search" alt="Search">
+		</div>
 	</div>
+
 	<div class="clear"></div>
 </form>
 
-			</div>
-			
-		</div>
-		  	  
-		<div id="content2"> 
-			<!-- InstanceBeginEditable name="MainContent" -->
+    </div>
+    
+  </div>
+    	  
+  <div id="content2"> 
+    <!-- InstanceBeginEditable name="MainContent" -->
 		<h1 class="green">Privacy Policy </h1>
 		<p><img src="../images/site/hackerproof.gif" alt="Hacker Proof" width="140" height="60" class="rightimage"> <img src="../images/site/privacy.gif" alt="Privacy Protection" width="140" height="60" class="rightimage">Natural   Wellbeing is committed to protecting the privacy of our customers' information.   Whether we gather your personal information on the Internet or by other means,   we pledge:</p>
 		<ul>
@@ -160,17 +150,17 @@
 		<p>If you have any questions or concerns about Natural   Wellbeing's privacy policy, please contact us and we will be pleased to discuss   our policy with you.</p>
 		<p class="body">&nbsp;</p>
 		<!-- InstanceEndEditable -->
-		</div>	
-		
-		
-		
-		
+  </div>	
+  
+  
+  
+  
 	<div id="footer">
 		<ul class="footnav">
 			<li class="footnav first"><a href="http://www.naturalwellbeing.com/static/shipping_pop.cfm" rel="external nofollow" title="Shipping" target="_blank">Shipping</a></li>
 			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/security_pop.cfm" rel="external nofollow" title="Security" target="_blank">Security</a></li>
-      <li class="footnav"><a href="http://www.naturalwellbeing.com/static/guarantee_pop.cfm" rel="external nofollow" title="Guarantee" target="_blank">Guarantee</a></li>
-      <li class="footnav"><a href="http://www.naturalwellbeing.com/static/privacy.cfm" rel="nofollow" title="Privacy">Privacy Policy</a></li>
+			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/guarantee_pop.cfm" rel="external nofollow" title="Guarantee" target="_blank">Guarantee</a></li>
+			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/privacy.cfm" rel="nofollow" title="Privacy">Privacy Policy</a></li>
 			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/contactus.cfm" title="Contact Us">Contact Us</a></li>
 			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/textadvertising.cfm" title="Advertising">Advertising</a></li>
 			<li class="footnav"><a href="http://www.naturalwellbeing.com/static/link_directory.cfm" rel="nofollow" title="Resources">Resources</a></li>
@@ -179,8 +169,8 @@
 		</ul>
 	</div>
 
-		
-		
+  
+  
 
 <div id="footinfo">
 	<div id="vkilink"><a href="http://www.naturalwellbeing.com/static/internet-marketing-partner.cfm" rel="nofollow">Internet Marketing by VKI Studios</a></div>
@@ -192,7 +182,7 @@
 				</a><br>
 				All Products Shipped From Washington State USA<br>
 				NaturalWellbeing Distribution Inc.<br>
-				Copyright © 2001-2008<br>
+				Copyright © 2001-2009<br>
 				<img src="/images/site/usflag.gif" alt="USA Flag" width="40" height="26"><br>
 				<a href="http://www.naturalwellbeing.com/images/pdf/MailFaxOrder.pdf" rel="external nofollow">Fax/Mail Order Form</a><br>
 				<a href="http://www.adobe.com/products/acrobat/readstep2.cfm" rel="external">Requires Adobe Acrobat</a>
@@ -200,8 +190,164 @@
 	</div>
 </div>
 
-		
-	</div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+
+<script language="JavaScript" type="text/javascript">
+//s.pageName=""
+s.server="www.naturalwellbeing.com"
+s.channel="Main : General"
+s.pageType=""
+
+//s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4="Not Logged In"
+s.prop5=""
+
+/* Conversion Variables */
+//s.campaign=""
+s.zip=""
+s.state=""
+s.events=""
+//s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+//s.eVar4=""
+//s.eVar5=""
+s.eVar7=s.getValOnce('Not Logged In', 'visitor_status_cookie', 0);
+s.eVar8=s.getValOnce('Never Purchased', 'visitor_type_cookie', 0);
+//s.eVar9=""
+s.eVar13=s.getValOnce(s.server, 'server_cookie', 0);
+
+if(window.s.channel && window.s.channel != '') {
+ sitehierarchy = s.channel;
+
+ if(window.s.prop2 && window.s.prop2 != '') {
+  sitehierarchy = sitehierarchy+':'+s.prop2;
+  }
+ if(window.s.prop3 && window.s.prop3 != '') {
+   sitehierarchy = sitehierarchy+':'+s.prop3;
+  }
+}
+if (sitehierarchy)
+s.hier1= sitehierarchy;
+
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="https://102.112.2O7.net/b/ss/vkisnaturalwellbeing/1/H.17--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-981819-1");
+
+	var isDev = window.location.href.search(/vkistudios.net/);
+
+	if (isDev > -1)
+		pageTracker._setDomainName(".vkistudios.net");
+	else
+		pageTracker._setDomainName(".naturalwellbeing.com");
+
+	pageTracker._setLocalRemoteServerMode();
+	pageTracker._setAllowLinker(true);
+	pageTracker._setAllowHash(false);
+	pageTracker._initData();
+	pageTracker._trackPageview();
+} catch (err) {
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- InstanceEnd -->
 </body></html>
