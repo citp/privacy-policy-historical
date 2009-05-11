@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160229id_/http%3A//www.motorauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511223111id_/http%3A//www.motorauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MotorAuthority.com - Car news, reviews, spy shots and videos
 
