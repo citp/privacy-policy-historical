@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221110254id_/http%3A//www.aveva.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511132509id_/http%3A//www.aveva.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AVEVA
 
@@ -20,7 +20,7 @@ Any changes to this privacy policy will be clearly notified on this website.
 
 All comments, queries and requests relating to our use of your information should be addressed to [marketing.contact@aveva.com](mailto:marketing.contact@aveva.com)
 
-If you would like us to stop sending you information about AVEVA’s products and services at any time, please let us know by using the [Contact Us](https://web.archive.org/web/20081221110254id_/http%3A//www.aveva.com/contact_us.php) page on this website.
+If you would like us to stop sending you information about AVEVA’s products and services at any time, please let us know by using the [Contact Us](https://web.archive.org/web/20090511132509id_/http%3A//www.aveva.com/contact_us.php) page on this website.
 
 ## AVEVA's use of cookies
 
