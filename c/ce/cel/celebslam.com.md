@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530191425id_/http%3A//celebslam.buzznet.com/celebslam-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebslam.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512172119id_/http%3A//celebslam.celebuzz.com/celebslam-privacy-policy) for the most accurate reproduction.*
 
-# Celebslam Privacy Policy · Celebslam
+# Privacy Policy - Celebslam: They're Better Than Us
 
-This statement covers the site celebslam.buzznet.com (Celebslam). Please read this statement carefully before accessing Celebslam. Your use of Celebslam indicates your agreement to abide by the terms in effect.
+This statement covers the site celebslam.celebuzz.com (Celebslam). Please read this statement carefully before accessing Celebslam. Your use of Celebslam indicates your agreement to abide by the terms in effect.
 
 **Information Collection**
 
@@ -18,11 +18,11 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 **Third Party Advertising**
 
-The advertisements appearing on Celebslam are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. No personal information about our users is ever transferred to any party by Celebslam.
+The advertisements appearing on Celebslam are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. No personal information about our users is ever transferred to any party by Celebslam.
 
 **Log Files**
 
-Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
 **Legal Disclaimer**
 
@@ -30,7 +30,7 @@ Though we make every effort to preserve user privacy, Celebslam may need to disc
 
 **Business Transitions**
 
-In the event Celebslam goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+In the event Celebslam goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 **Links**
 
