@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyfragger.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820190201id_/http%3A//www.holyfragger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyfragger.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512222714id_/http%3A//www.holyfragger.com/privacy) for the most accurate reproduction.*
 
 # HolyFragger: Video Games PC Xbox 360 Playstation 3 PS3 Wii
 
@@ -9,6 +9,12 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and .
 
 With respect to cookies: We use cookies to store visitors preferences.
+
+Google, as a third party vendor, uses cookies to serve ads on our site.
+
+Google's use of the DART cookie enables it to serve ads based on your visit and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us at [www.holyfragger.com/members/](http://www.holyfragger.com/members/).
 
