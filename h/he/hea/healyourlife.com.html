@@ -1,0 +1,233 @@
+<!--The following is the downloaded HTML source of the healyourlife.com privacy policy that was archived on 2009-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090512044859id_/http%3A//www.healyourlife.com/index/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy | Heal Your Life</title>
+<!--|| FACEBOOK SHARE CONTENT ||-->
+<meta name="title" content="Privacy Policy at HealYourLife.com">
+<meta name="description" content="Please read the privacy policy for Heal Your Life.">
+<link rel="image_src" href="/img/logos/heal-your-life-logo.gif">
+<!--|| FACEBOOK SHARE CONTENT ENDS ||-->
+<link rel="stylesheet" type="text/css" href="/css/articles.css" media="all">
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="/css/960.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/sifr.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/ychyl.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" /><![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" /><![endif]-->
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/external.js"></script>
+<script type="text/javascript" src="/js/sifr.js"></script>
+<script type="text/javascript" src="/js/sifr-config.js"></script>
+<script type="text/javascript" src="/js/urchin.js"></script>
+<script type="text/javascript">
+        _udn="healyourlife.com";
+        urchinTracker();
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> 
+
+
+</head>
+<body id="privacy">
+<div id="wrapper" class="container_16">
+	<!--|| HEADER: views/elements/header.ctp ||-->
+  <!--|| Shows modal login window ||-->
+<script type="text/javascript">
+$(document).ready(function(){
+ 	$(".show_login").click(function(event){
+		$("form.login").toggle("fast");
+       // Stop the link click from doing its normal thing
+		return false;
+	});
+	$(".close_login").click(function(event){
+		$("form.login").hide("fast");
+		// Stop the link click from doing its normal thing
+		return false;
+	});
+
+		$('#MemberLoginForm').submit(function(event){
+		var params = $(this).serialize();
+		$.post('/members/login', params,
+			function(data) {
+				var result = $('#MemberLoginForm .result');
+				result.empty();
+				result.hide();
+				result.html(data);
+
+				if(result.find('.goto').length > 0) {
+					location = result.find('.goto').text();
+				}
+
+				result.html(result.find('.message').html());
+				result.fadeIn();
+			}
+		);
+		event.preventDefault();
+	});
+	 });
+</script>
+<div id="header">
+    <h1><a href="/index">Heal Your Life</a></h1>
+    <div id="account_area">
+        <div class="about"> <a href="/members/signup">Sign Up</a> | <a href="/index/mission">I’m new</a> </div>
+		        	<div class="links">
+            <a href="/members"><img src="/img/buttons/btn-mylife-home.gif" alt="mylife" class="members_home"></a><br>
+            <a href="/members"><img src="/img/buttons/btn-mylife-signin.gif" alt="mylife sign in" width="109" height="18" class="show_login"></a></div>
+                <!--|| HEADER: Login ||-->
+		<form class="login" id="MemberLoginForm" method="post" action="/members/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>		<input type="hidden" name="data[Member][popupLogin]" value="/index/privacy" id="MemberPopupLogin">		<a href="#" class="close_login" title="Close">Close</a>
+		<img src="/img/mylife_signin.gif" alt="mylife sign in">		<div class="result"></div>
+		<!--|| HEADER: Login - Username ||-->
+		<label for="username">Username</label>
+		<input name="data[Member][user_name]" type="text" class="text" maxlength="80" value="" id="MemberUserName">		<!--|| HEADER: Login - Password ||-->
+		<label for="password">Password</label>
+		<input type="password" name="data[Member][user_pass]" label="" div="" class="text" value="" id="MemberUserPass">		<div class="clear"></div>
+		<!--|| HEADER: Login - Submit ||-->
+		<input type="image" src="/img/buttons/btn-login.gif" class="button" alt="Log In">		<!--|| HEADER: Login - Remember Me ||-->
+		<input type="hidden" name="data[Member][remember]" id="MemberRemember_" value="0"><input type="checkbox" name="data[Member][remember]" class="checkbox" value="1" id="MemberRemember"><label class="checkbox">Remember me</label>
+		<div class="clear"></div>
+		<!--|| HEADER: Login - Forgot Password/Privacy ||-->
+		<div class="forgot">
+			<a href="/members/forgot_password"><span>»</span> Forgot your login?</a>
+			<a href="/index/privacy" class="privacy">Privacy</a>
+		</div>
+        <!--|| HEADER: Login - Sign Up ||-->
+        <a href="/members/signup" class="signup"><img src="/img/buttons/btn-signup.gif" alt="Sign Up"></a>        <p>Not signed up yet? It’s free! Join now to save, share and revisit favorites.</p>
+        </form> </div>
+    <div class="clear"></div>
+</div>
+<!--|| HEADER: Main Menu ||-->
+<ul id="main_nav">
+    <li class="home"><a href="/index">Home</a></li>
+    <li class="wisdom"><a href="/wisdom">Everyday Wisdom</a></li>
+    <li class="wisdom"><a href="/help">Life’s Help</a></li>
+    <!--||<li class="card"><a href="/card">Card Readings</a></li>||-->
+    <li class="blogs"><a href="/blogs">Blogs</a></li>
+    <li class="radio"><a href="/tunein">Tune In</a></li>
+    <li class="road"><a href="/events">Events</a></li>
+    <li class="affirmations"><a href="/wisdom/affirmations">Affirmations</a></li>
+    <li class="enews"><a href="/enews">Newsletters</a></li>
+    <li class="about-mylife"><a href="/index/about">About MyLife</a></li>
+    <li class="store"><a href="/store">Shop <strong>Catalog</strong></a></li>
+</ul>
+<div class="clear"></div>
+<!--|| SEARCH BAR ||-->
+<!--div id="search">
+	<form id="SiteSearchAddForm" method="post" action="/site_searches/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset>	<div class="input text"><input name="data[SiteSearch][search]" type="text" value="" id="SiteSearchSearch" /></div>    <div class="submit"><input type="image" src="/img/buttons/btn-search.gif" alt="Search" width="53px" height="16px" class="image" /></div>    </form>    > <a href="#">Advanced Search</a> </div>
+<div class="clear"></div-->
+  <!--|| CONTENT ||-->
+  <!--|| CONTENT: Center Column ||-->
+  <div id="content">
+  <div class="grid_13">
+    <h2>your <span class="museo500-black">PRIVACY</span></h2>
+    <div id="leftCol" class="grid_6"> </div>
+    <!--end leftCol -->
+    <div id="privacyContainer" class="grid_7">
+        <p class="titles2">LEGAL &amp; TERMS</p>
+        <p class="pullquote">Hay House has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.</p>
+        <p class="pullquote">Our online e-newsletter asks users to give us contact information (like their name and e-mail address). This information is used to contact the visitor when necessary about special promotions, and discounts, and is never divulged to third parties. This site contains links to other sites. Hay House is not responsible for the privacy practices or the content of such Web sites.</p>
+        <p class="pullquote">Our site uses an order form for customers to request information, products, and services. We collect visitor’s contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and occasional future promotional material. The customer’s contact information is also used to get in touch with the customer when necessary regarding the order. Financial information that is collected is used to bill the user for products and services.</p>
+        <p class="titles2">Choice/Opt-Out</p>
+        <p class="pullquote">Please contact Customer Service to request the removal of your information from our database or to no longer receive future communications.</p>
+       <p class="titles2"> Contacting the Web site</p>
+        <p class="pullquote">Hay House, Inc.<br>
+            P.O. Box 5100<br>
+            Carlsbad, CA 92018-5100<br>
+            (800) 654-5126</p>
+    </div>
+</div>
+<!--|| END MAIN CONTENT ||-->
+<!--|| CONTENT: Right Column ||-->
+<div id="right_col">
+<div class="grid_3"> <div id="mylifeContainer">
+    <div id="mylifeLogIn"> <img src="/img/members/mylife-sign-in.gif" alt="MyLife Sign In"><br>
+        <a href="/members/login"><img src="/img/buttons/btn-login.gif" alt="Log In"></a> </div>
+    <div class="clear"></div>
+    <!--|| HEADER: Login - Sign Up ||-->
+    <div id="mylifeSignup"> <a href="/members/signup" class="signup"><img src="/img/buttons/btn-signup.gif" alt="Sign Up"></a>        <p>Not signed up yet? It’s free! Join now to save, share and revisit favorites.</p>
+         </div>
+    <div class="clear"></div>
+</div>
+<!--end mylifeContainer -->
+    <div class="clear"></div>
+    <!--|| CONTENT: Right/Right Column - Promos ||-->
+    <div id="featuredProducts">
+        <h4>FEATURED PRODUCTS</h4>
+                <div class="site promo">
+		<a href="http://www.hayhouse.com/details.php?id=3460"><img src="/img/resize_cache/3460_c1.gif" alt="You Can Heal Your Life: The Movie"></a>		<a href="http://www.hayhouse.com/details.php?id=3460">You Can Heal Your Life: The Movie</a>
+		<p>Based on the best-selling book of the same name and hosted by author and teacher Louise L. Hay.</p>
+
+     <div class="buttons">
+				<a href="http://www.hayhouse.com/details.php?id=3460" class="store_more">More</a>									<a href="http://www.hayhouse.com/cart_.php?item3460=+1&amp;save=http://www.healyourlife.com/contest/thanks" class="store_buy">Add to Cart</a>    		        <div class="clear"></div>
+     </div>
+</div>
+<div class="clear"></div>
+ </div>
+    <div class="clear"></div>
+</div> 
+  </div>	<!--|| FOOTER: views/elements/footer.ctp ||-->
+    <div class="clear"></div>
+  
+  
+  </div>
+  <div id="footer">
+    <div id="footerLeft"> <img src="/img/footer/hHouse.gif" alt="hayhouse logo"> </div>
+    <!--end footerLeft -->
+    <div id="footerRight">
+        <ul class="topLinks">
+            <li> <span><a href="/index/copyright">© 2009 HAY HOUSE</a> </span></li>
+            <li><a href="/index/mission">HOW TO BEGIN</a> » </li>
+            <li><a href="/enews">NEWSLETTERS</a> » </li>
+            <li><a href="/index/affiliate">AFFILIATE PROGRAM</a> » </li>
+            <li><a href="/index/contact">CONTACT US </a> » </li>
+        </ul>
+        <div class="clear_both"></div>
+        <ul class="footerLinks">
+            <li class="no_link">OUR SITES:</li>
+            <li><a href="http://www.hayhouse.com/" rel="external">Hay House US</a></li>
+            <li>/</li>
+            <li><a href="http://www.hayhouseradio.com/" rel="external">HayHouseRadio.com</a></li>
+             <li>/</li>
+            <li><a href="http://www.hayhouse.co.uk/" rel="external">Hay House UK</a></li>
+            <li>/</li>
+            <li><a href="http://www.hayhouse.com.au/" rel="external">Hay House AU</a></li>
+          <li>/</li>
+            <li><a href="http://www.youcanhealyourlifemovie.com/" rel="external">YouCanHealYourLifeMovie.com</a></li>
+            <li>/</li>
+            <li><a href="http://www.dyermovie.com/" rel="external">DyerMovie.com</a></li>
+            <li>/</li>
+            <li><a href="http://www.louisehay.com/" rel="external">LouiseHay.com</a></li>
+        </ul>
+        <div class="clear"></div>
+        <ul class="privacyLink">
+            <li><a href="/index/privacy">privacy</a> &amp; <a href="/index/terms">terms of use</a></li>
+        </ul>
+    </div>
+    <!--end footerRight -->
+</div>
+
+</div>
+<div id="socialBottomContainer">
+<div id="socialBottom">
+
+
+
+<a href="http://www.facebook.com/pages/Heal-Your-Life/76244924246" rel="external"><img src="/img/footer/fbFooter.jpg" alt="Facebook"></a>
+
+<a href="http://twitter.com/HealYourLife" rel="external"><img src="/img/footer/twitterFooter.jpg" alt="Twitter"></a>
+
+
+
+</div>
+
+</div>
+
+
+
+<!-- 0.3007s --></body></html>
