@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetseeker.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084937id_/http%3A//inetseeker.com/police.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetseeker.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512174444id_/http%3A//inetseeker.com/police.html) for the most accurate reproduction.*
 
 # Shopping InetSeeker — shopping made simple
 
