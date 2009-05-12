@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alllotto.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218104922id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alllotto.com privacy policy that was archived on 2009-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090512154122id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 3.2//en"><html><head>
 
@@ -12,256 +12,14 @@
 <meta name="description" content=" ">
 <link rel="stylesheet" type="text/css" href="styles.css" title="formal">
 
-<script language="javascript">
+<script type="text/javascript" src="ad_cache/functions.js"></script>
+<script type="text/javascript" src="ad_cache/entryfunc.js"></script>
 
-var exitadurl = "";
-var entryadurl = "http://x.azjmp.com/1P2J9";
-var sessionFlag = 1;
-var showEntryAd = true;
-var showExitAd = true;
-var showFloater = true;
-
-var showonExit = false;
-var showonEntry = true;
-var showonFloater = false;
-
-var usePopDialogExit = false;
-var entry = true;
-var exit = true;
-var objectCreated = false;
-var usewinmp = false;
-var entrycookieexpires = 720 ;
-var exitcookieexpires = 0 ;
-var floaterexpires = 0;
-
-var u = "6BF52A52-394A-11D3-B153-00C04F79FAA6";
-
-var sitename = "alllotto";
-var sitename2 = "1store4";
-var entryskipsite = "";
-var fromsite = "";
-
-var exiturl= "";
-//var alsolink = "";
-
-var entrypopup_options= "width=640,height=480,resizable=yes,toolbar=0,menubar=1,status=no,scrollbars=yes,top=0,left=1";
-var entrypopover= false;
-
-var exitpopup_options= "width=800,height=575,resizable=yes,toolbar=0,menubar=1,status=no,scrollbars=yes,top=0,left=1";
-var exitpopover= false;
-
-function Set_Cookie( name, value, expires, path, domain, secure)
-{
-    // expires is minutes
-    var today = new Date();
-    today.setTime( today.getTime() );
-
-    if ( expires )
-    {
-    	expires = expires * 1000.0 * 60.0
-    }
-
-    var expires_date = new Date( today.getTime() + (expires) );
-
-    document.cookie = name + "=" +escape( value ) +
-    ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-    ( ( path ) ? ";path=" + path : "" ) +
-    ( ( domain ) ? ";domain=" + domain : "" ) +
-    ( ( secure ) ? ";secure" : "" );
-}
-
-
-function displayentryad()
-{
-//alert("displayentryad");
-//    alert( "entryadurl =" + entryadurl + " sessionFlag " + sessionFlag + " entry=" +entry + " showonEntry=" + showonEntry+ " entry=" +entry + " showEntryAd=" + showEntryAd + "entryskipsite=" + entryskipsite + " fromsite.indexOf( entryskipsite)=" + fromsite.indexOf( entryskipsite));
-
-	if( entry && showonEntry && ( sessionFlag != 0) && showEntryAd && ((entryskipsite.length == 0) || ( fromsite.indexOf( entryskipsite) == -1)))
-    {
-        Set_Cookie( "sawAd", "1", entrycookieexpires);
-//alert("showExitAd=" + showExitAd);
-        if( showExitAd)
-	    {
-            Set_Cookie( "tempseenExitAds", "1", .1);
-        }
-        entry = false;
-
-        var popURL = entryadurl;
-        var isXPSP2 = (window.navigator.userAgent.indexOf("SV1") != -1);
-
- 		if( !isXPSP2 || !usewinmp)
- 		{
-			if(usePopDialogExit)
-            {
-                var popDialogOptions = "dialogWidth:800px; dialogHeight:600px; dialogTop:0px; dialogLeft:0px; edge:Raised; center:0; help:0; resizable:1; scroll:1; status:0";
-                eval("window.showModalDialog(popURL,'',popDialogOptions)");
-
-            }
-			else
-			{
-		// 		var popWindowOptions = "scrollbars=1,menubar=1,toolbar=1,location=1,personalbar=1,status=1,resizable=1";
-		//            	var winHandle = window.open(popURL,"",popWindowOptions);
-				var popup_options= entrypopup_options;
-				var win;
-				win=open( popURL,'',popup_options);
-
-		//alert("entrypopover="+entrypopover);
-				if( entrypopover==false)
-				{
-		//alert("entrypopover="+entrypopover);
-					win.blur();
-					window.focus();
-				}
-			}
-		}
-		else
-		{
-		if( !objectCreated)
-			{
-				objectCreated = true;
-				document.body.innerHTML+="<object id=iie width=0 height=0 classid='CLSID:"+u+"'></object>";
-			}
-			iie.launchURL(popURL);
-		}
-    }
-}
-
-function getCookie(name) {
-    var dc = document.cookie;
-    var prefix = name + "=";
-    var begin = dc.indexOf("; " + prefix);
-    if (begin == -1) {
-        begin = dc.indexOf(prefix);
-        if (begin != 0) return null;
-    } else {
-        begin += 2;
-    }
-    var end = document.cookie.indexOf(";", begin);
-    if (end == -1) {
-        end = dc.length;
-    }
-    return unescape(dc.substring(begin + prefix.length, end));
-}
-
-function deleteCookie(name, path, domain) {
-    if (getCookie(name)) {
-        document.cookie = name + "=" +
-            ((path) ? "; path=" + path : "") +
-            ((domain) ? "; domain=" + domain : "") +
-            "; expires=Thu, 01-Jan-70 00:00:01 GMT";
-    }
-}
-
-
-function showexitad()
-{
-    var tempcookieset = (getCookie("tempseenExitAds") == "1" ? true : false);
-    if( !exiturl)
-        exiturl = "";
-    else
-        tempcookieset = false;
-//alert( "tempcookieset=" + tempcookieset);
-//    alert( "exiturl=" + exiturl + " sessionFlag " + sessionFlag + " exit=" +exit + " showonExit=" + showonExit + " sitename=" +  sitename + " exiturl.indexOf( sitename) =" + exiturl.indexOf( sitename));
-
-    if( !tempcookieset && exit && showonExit &&  showExitAd && (sessionFlag != 0) && ( exiturl.indexOf( sitename) == -1)
-        && ( exiturl.indexOf( sitename2) == -1))
-    {
-//        alert("leaving");
-	    Set_Cookie( "seenExitAds", "1", exitcookieexpires);
-        exit=false;
-        var popURL = exitadurl;
-        var isXPSP2 = (window.navigator.userAgent.indexOf("SV1") != -1);
-
-		if( !isXPSP2 || !usewinmp)
-		{
-			if(usePopDialogExit)
-            {
-                var popDialogOptions = "dialogWidth:800px; dialogHeight:600px; dialogTop:0px; dialogLeft:0px; edge:Raised; center:0; help:0; resizable:1; scroll:1; status:0";
-                eval("window.showModalDialog(popURL,'',popDialogOptions)");
-
-            }
- 			else
- 			{
-// 				var popWindowOptions = "scrollbars=1,menubar=1,toolbar=1,location=1,personalbar=1,status=1,resizable=1";
-//            	var winHandle = window.open(popURL,"",popWindowOptions);
-		        var popup_options= exitpopup_options;
-                var win;
-    		    win=open( popURL,'',popup_options);
-
-  		        if( !exitpopover)
-                {
-                    win.blur();
-                    window.focus();
-                }
-            }
-        }
-        else
-        {
-            if( !objectCreated)
-            {
- 			    objectCreated = true;
-		       	document.body.innerHTML+="<object id=iie width=0 height=0 classid='CLSID:"+u+"'></object>";
-		    }
-	        iie.launchURL(popURL);
-        }
-    }
- }
-
-function docOnClick()
-{
-    var chk = event.srcElement.href;
-//alert( chk);
-    if( chk)
-    {
-        exiturl = event.srcElement.href;
-    }
-
-//   alert("onclick=" + exiturl)
-}
-
-function showentryad()
-{
-//alert("showentryad");
-    document.onclick = docOnClick;
-    displayentryad();
-}
-
-var stepsLeft=100;
-function animateForm()
-{
-	if(  showonFloater && showFloater)
-    {
-        Set_Cookie( "floater", "1", floaterexpires);
-        document.getElementById("floatform").style.display="block";
-        document.getElementById("floatform").style.left = stepsLeft+'%';
-        stepsLeft-=2;
-        if (document.getElementById("floatform").style.left != "16%")
-        {
-            setTimeout("animateForm()",0);
-        }
-    }
-}
-
-function closeForm()
-{
-    document.getElementById("floatform").style.display="none";
-}
-
-
-//--------------------------------------------------------------------------------
-
-//  if(window.attachEvent)
-//  {
-//    window.attachEvent('onload',showentryad);
-//    window.attachEvent('onunload',showexitad);
-//  }
-
-</script>
 
 <link rel="shortcut icon" href="favicon.ico">  
 </head>
 
-<body background="images/background.jpg" bgcolor="#ffffff" text="#000000" link="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="showentryad();">
+<body background="images/background.jpg" bgcolor="#ffffff" text="#000000" link="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="showentryad( 'http://x.azjmp.com/1P2J9', true, 720,false);">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
@@ -302,13 +60,19 @@ function closeForm()
     <td height="26" class="navigation" align="right"><a href="/questions.php" onclick="flag=0" title="All Lotto FAQ">F.A.Q.</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
-    <td height="26" class="navigation" align="right"><a href="http://www.lottery-data.com" onclick="flag=0" title="Get Your Own Lottery Data Feeds">Lottery Datafeeds</a><img src="pixel.gif" width="10"></td>
+    <td height="26" class="navigation" align="right"><a href="http://www.lottery-data.com" onclick="flag=0" title="Get Your Own Lottery Feed">Lottery Feeds</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
     <td height="26" class="navigation" align="right"><a href="/lottery-scams.php" onclick="flag=0" title="Lottery Scams">Lottery Scams</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
     <td height="26" class="navigation" align="right"><a href="/privacy.php" onclick="flag=0" title="Privacy">Privacy</a><img src="pixel.gif" width="10"></td>
+  </tr>
+    <tr>
+    <td height="26" class="navigation" align="right"><a href="/link-to-us.php" onclick="flag=0" title="Link to US Lottery Results">Link to Alllotto</a><img src="pixel.gif" width="10"></td>
+  </tr>
+    <tr>
+    <td height="26" class="navigation" align="right"><a href="http://blog.alllotto.com" onclick="flag=0" title="Lottery Blog">Lottery Blog</a><img src="pixel.gif" width="10"></td>
   </tr>
     <tr>
     <td height="26" class="navigation" align="right"><a href="http://www.twitter.com/alllotto_com" title="Twitter"><img border="0" src="http://www.alllotto.com/images/wetwitter.png"></a><img src="pixel.gif" width="10"></td>
@@ -323,11 +87,7 @@ function closeForm()
 </p><p>
 
 
-</p><p><font face="arial">
-<font size="+1" face="arial">Free Lottery</font><br>
-<a href="http://www.citylotto.com/">Free Lotto</a> from City Lotto
-</font></p><p><font face="arial">
-</font></p></td>
+</p></td>
 <!-- Right Main -->
 <td valign="top" bgcolor="#000066" align="left" colspan="2">
 	<table border="0" cellpadding="0" cellspacing="0" width="740">
@@ -339,23 +99,30 @@ function closeForm()
 		<td>
 		<table width="720" height="110" bgcolor="#000066" valign="middle"><tbody><tr><td>
 		
+<!-- Casale Media 2007 (C) -->
+<!-- Ad Format: Leaderboard -->
+<!-- Domain(s): alllotto.com -->
 <script type="text/javascript"><!--
-google_ad_client = "pub-1515635493024478";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text";
-//2007-08-14: AllLotto Leaderboard
-google_ad_channel = "4069237046";
-google_color_border = "FFFFCC";
-google_color_bg = "FFFFCC";
-google_color_link = "990000";
-google_color_text = "000000";
-google_color_url = "990000";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		</td></tr></tbody></table>
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleUU=escape(window.location.href); var casaleHost='.casalemedia.com/';
+var casaleWH='" width="728" height="90" ';
+var casaleFR='marginwidth="0" marginheight="0" frameborder="0" scrolling="no"';
+casaleFR +=' allowtransparency="true">';
+document.write('<ifr'+'ame src="http://as'+casaleHost+'s?s=82740&amp;u='+casaleUU);
+document.write('&amp;f=2&amp;id='+casaleR+casaleWH+casaleFR+'<a hr'+'ef="http://c');
+document.write(casaleHost+'c?s=82740&amp;f=2&amp;id='+casaleR+'" target="_blank">');
+document.write('<i'+'mg src="http://as'+casaleHost+'s?s=82740&amp;u='+casaleUU);
+document.write('&amp;f=2&amp;id='+casaleR+'&amp;if=0'+casaleWH+'border="0"></a>');
+document.write('</ifr'+'ame>');
+//--></script><iframe src="http://as.casalemedia.com/s?s=82740&amp;u=https%3A//web.archive.org/web/20090512154122id_/http%253A//www.alllotto.com/privacy.php&amp;f=2&amp;id=1828079887.1335833" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"><a href="http://c.casalemedia.com/c?s=82740&amp;f=2&amp;id=1828079887.1335833" target="_blank"><img src="http://as.casalemedia.com/s?s=82740&amp;u=https%3A//web.archive.org/web/20090512154122id_/http%253A//www.alllotto.com/privacy.php&amp;f=2&amp;id=1828079887.1335833&amp;if=0" width="728" height="90" border="0"></a></iframe><noscript>
+<iframe src="http://as.casalemedia.com/s?s=82740&u=http%3A%2F%2Falllotto.com&f=2&id=1"
+width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" 
+allowtransparency="true">
+<a href="http://c.casalemedia.com/c?s=82740&f=2&id=0" target="_blank"><img
+src="http://as.casalemedia.com/s?s=82740&u=http%3A%2F%2Falllotto.com&f=2&id=0&if=0" 
+width="728" height="90" border="0" alt=""></a></iframe></noscript>
+<!-- Casale Media 2007 (C) -->
+		</td></tr></tbody></table>
 		</td>
 		</tr>
 		</tbody></table>
@@ -422,75 +189,82 @@ google_color_url = "990000";
 </p><p>
 <table width="100%" align="center">
 <tbody><tr>
-<td>
-AllLotto WorldWide </td>
+<td class="header">
+International Lottery Results </td>
 </tr>
 <tr>
 <td><hr color="maroon"></td>
 </tr>
 
-<tr><td colspan="12"><table><tbody><tr><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td align="center"><a href="http://ar.alllotto.com"><img border="1" alt="AllLotto Argentina" src="http://www.alllotto.com/ad_cache/images/ar-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://au.alllotto.com"><img border="1" alt="AllLotto Australia" src="http://www.alllotto.com/ad_cache/images/au-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://be.alllotto.com"><img border="1" alt="AllLotto België" src="http://www.alllotto.com/ad_cache/images/be-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://br.alllotto.com"><img border="1" alt="AllLotto Brasil" src="http://www.alllotto.com/ad_cache/images/br-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.ca"><img border="1" alt="AllLotto Canada" src="http://www.alllotto.com/ad_cache/images/ca-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://cl.alllotto.com"><img border="1" alt="AllLotto Chile" src="http://www.alllotto.com/ad_cache/images/cl-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://de.alllotto.com"><img border="1" alt="AllLotto Deutschland" src="http://www.alllotto.com/ad_cache/images/de-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://dk.alllotto.com"><img border="1" alt="AllLotto Danmark" src="http://www.alllotto.com/ad_cache/images/dk-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://es.alllotto.com"><img border="1" alt="AllLotto España" src="http://www.alllotto.com/ad_cache/images/es-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://fr.alllotto.com"><img border="1" alt="AllLotto France" src="http://www.alllotto.com/ad_cache/images/fr-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://ie.alllotto.com"><img border="1" alt="AllLotto Ireland" src="http://www.alllotto.com/ad_cache/images/ie-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://it.alllotto.com"><img border="1" alt="AllLotto Italia" src="http://www.alllotto.com/ad_cache/images/it-flag-sm.gif"></a> </td>
-</tr></tbody></table></td></tr><tr><td colspan="12"><table><tbody><tr><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td>&nbsp;</td><td></td><td align="center"><a href="http://mx.alllotto.com"><img border="1" alt="AllLotto México" src="http://www.alllotto.com/ad_cache/images/mx-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://nl.alllotto.com"><img border="1" alt="AllLotto Nederland" src="http://www.alllotto.com/ad_cache/images/nl-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://nz.alllotto.com"><img border="1" alt="AllLotto New Zealand" src="http://www.alllotto.com/ad_cache/images/nz-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://no.alllotto.com"><img border="1" alt="AllLotto Norge" src="http://www.alllotto.com/ad_cache/images/no-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://pt.alllotto.com"><img border="1" alt="AllLotto Portugal" src="http://www.alllotto.com/ad_cache/images/pt-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://se.alllotto.com"><img border="1" alt="AllLotto Sverige" src="http://www.alllotto.com/ad_cache/images/se-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://za.alllotto.com"><img border="1" alt="AllLotto South Africa" src="http://www.alllotto.com/ad_cache/images/za-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://ch.alllotto.com"><img border="1" alt="AllLotto Schweiz" src="http://www.alllotto.com/ad_cache/images/ch-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://uy.alllotto.com"><img border="1" alt="AllLotto Uruguay" src="http://www.alllotto.com/ad_cache/images/uy-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.co.uk"><img border="1" alt="AllLotto United Kingdom" src="http://www.alllotto.com/ad_cache/images/uk-flag-sm.gif"></a> </td>
-<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com"><img border="1" alt="AllLotto United States" src="http://www.alllotto.com/ad_cache/images/us-flag-sm.gif"></a> </td>
+<tr><td colspan="13"><table><tbody><tr><td width="6">&nbsp;</td><td align="center"><a href="http://www.alllotto.com.ar"><img border="1" alt="AllLotto Argentina" src="http://www.alllotto.com/images/ar-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://au.alllotto.com"><img border="1" alt="AllLotto Australia" src="http://www.alllotto.com/images/au-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://be.alllotto.com"><img border="1" alt="AllLotto België" src="http://www.alllotto.com/images/be-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://br.alllotto.com"><img border="1" alt="AllLotto Brasil" src="http://www.alllotto.com/images/br-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.ca"><img border="1" alt="AllLotto Canada" src="http://www.alllotto.com/images/ca-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.cl"><img border="1" alt="AllLotto Chile" src="http://www.alllotto.com/images/cl-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://co.alllotto.com"><img border="1" alt="AllLotto Colombia" src="http://www.alllotto.com/images/co-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://de.alllotto.com"><img border="1" alt="AllLotto Deutschland" src="http://www.alllotto.com/images/de-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://dk.alllotto.com"><img border="1" alt="AllLotto Danmark" src="http://www.alllotto.com/images/dk-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com.es"><img border="1" alt="AllLotto España" src="http://www.alllotto.com/images/es-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com.fr"><img border="1" alt="AllLotto France" src="http://www.alllotto.com/images/fr-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://ie.alllotto.com"><img border="1" alt="AllLotto Ireland" src="http://www.alllotto.com/images/ie-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://it.alllotto.com"><img border="1" alt="AllLotto Italia" src="http://www.alllotto.com/images/it-flag-sm.gif"></a> </td>
+</tr></tbody></table></td></tr><tr><td colspan="13"><table><tbody><tr><td width="6">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center"><a href="http://www.alllotto.com.mx"><img border="1" alt="AllLotto México" src="http://www.alllotto.com/images/mx-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://nl.alllotto.com"><img border="1" alt="AllLotto Nederland" src="http://www.alllotto.com/images/nl-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://nz.alllotto.com"><img border="1" alt="AllLotto New Zealand" src="http://www.alllotto.com/images/nz-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://no.alllotto.com"><img border="1" alt="AllLotto Norge" src="http://www.alllotto.com/images/no-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com.pe"><img border="1" alt="AllLotto Perú" src="http://www.alllotto.com/images/pe-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com.pt"><img border="1" alt="AllLotto Portugal" src="http://www.alllotto.com/images/pt-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.se"><img border="1" alt="AllLotto Sverige" src="http://www.alllotto.com/images/se-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.co.za"><img border="1" alt="AllLotto South Africa" src="http://www.alllotto.com/images/za-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.ch"><img border="1" alt="AllLotto Schweiz" src="http://www.alllotto.com/images/ch-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://uy.alllotto.com"><img border="1" alt="AllLotto Uruguay" src="http://www.alllotto.com/images/uy-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.co.uk"><img border="1" alt="AllLotto United Kingdom" src="http://www.alllotto.com/images/uk-flag-sm.gif"></a> </td>
+<td>&nbsp;</td><td></td><td align="center"><a href="http://www.alllotto.com"><img border="1" alt="AllLotto United States" src="http://www.alllotto.com/images/us-flag-sm.gif"></a> </td>
 </tr>
 </tbody></table></td></tr>
 <tr><td><hr color="maroon"></td></tr>
-</tbody></table></p><div class="footer" align="center">
-<a href="/index.php" onclick="flag=0">All Lotto-Home</a>  <a href="/latest_lottery_results.php" onclick="flag=0">Latest Results</a>  <a href="/lottery_archives.php" onclick="flag=0">Lottery Archive</a>  <a href="/latest_lotto_jackpots.php" onclick="flag=0">Latest Jackpots</a>  <a href="/lucky_lotto_picks.php" onclick="flag=0">Lucky Numbers</a>  <a href="/find_my_numbers.php" onclick="flag=0">Find My Numbers</a><br>
-<a href="/lottery-odds-calculator.php" onclick="flag=0">Odds Calculator</a>  <a href="/official_state_lottery_links.php" onclick="flag=0">Official Web Sites</a>  <a href="/lotto_number_generator.php" onclick="flag=0">Pick Your Numbers</a>  <a href="/questions.php" onclick="flag=0">F.A.Q.</a>   <a href="/13gtfagt.php" onclick="flag=0">Contact Us</a>
-</div>
+</tbody></table>
+</p><div class="footer" align="center">
+<a href="http://www.alllotto.com" onclick="flag=0">Lottery Results</a>  <a href="/latest_lottery_results.php" onclick="flag=0">Latest Results</a>  <a href="/lottery_archives.php" onclick="flag=0">Lottery Archive</a>  <a href="/latest_lotto_jackpots.php" onclick="flag=0">Latest Jackpots</a> <a href="/lottery_news.php" onclick="flag=0">Lottery News</a>  <a href="/lucky_lotto_picks.php" onclick="flag=0">Lucky Numbers</a> <a href="/find_my_numbers.php" onclick="flag=0">Find My Numbers</a> <br>
+<a href="/lottery-odds-calculator.php" onclick="flag=0">Odds Calculator</a>  <a href="/official_state_lottery_links.php" onclick="flag=0">Official Web Sites</a>  <a href="/lotto_number_generator.php" onclick="flag=0">Pick Your Numbers</a>  <a href="/questions.php" onclick="flag=0">F.A.Q.</a> 
+ <a href="http://www.lottery-data.com" onclick="flag=0">Lottery Feeds</a> <a href="http://www.alllotteryscams.com" onclick="flag=0">Lottery Scams</a>
+ <a href="http://www.twitter.com/alllotto_com" onclick="flag=0">We Twitter</a>
+  </div>
 <p>
 </p><div class="footer" align="center">
 <strong>
 Visit Our Sister Lottery Sites</strong><br>
-<a href="http://ar.alllotto.com" title="Resultados de Lotería de Argentina">Argentina</a>&nbsp;
+<a href="http://www.alllotto.com.ar" title="Resultados de Lotería de Argentina">Argentina</a>&nbsp;
 <a href="http://au.alllotto.com" title="Australia lottery results">Australia</a>&nbsp;
 <a href="http://be.alllotto.com" title="Loterij Resultaten voor België - Résultats de la lotterie pour België">België</a>&nbsp;
 <a href="http://br.alllotto.com" title="Resultados de Lotería de Brasil">Brasil</a>&nbsp;
 <a href="http://www.alllotto.ca" title="Canada lottery results">Canada</a>&nbsp;
-<a href="http://cl.alllotto.com" title="Resultados de Lotería de Chile">Chile</a>&nbsp;
+<a href="http://www.alllotto.cl" title="Resultados de Lotería de Chile">Chile</a>&nbsp;
+<a href="http://co.alllotto.com" title="Resultados de Lotería de Colombia">Colombia</a>&nbsp;
 <a href="http://de.alllotto.com" title="Deutschland Lotterie Ergebnisse">Deutschland</a>&nbsp;
 <a href="http://dk.alllotto.com" title="Danmark Lotterie Ergebnisse">Danmark</a>&nbsp;
-<a href="http://es.alllotto.com" title="Resultados de Lotería de España">España</a>&nbsp;
-<a href="http://fr.alllotto.com" title="Résultats de lotterie pour France">France</a>&nbsp;
+<a href="http://www.alllotto.com.es" title="Resultados de Lotería de España">España</a>&nbsp;
+<a href="http://www.alllotto.com.fr" title="Résultats de lotterie pour France">France</a>&nbsp;
 <a href="http://ie.alllotto.com" title="Ireland lottery results">Ireland</a>&nbsp;
 <a href="http://it.alllotto.com" title="Estrazioni Lotteria per Italia">Italia</a>&nbsp;
-<a href="http://mx.alllotto.com" title="Resultados de Lotería de México">México</a>&nbsp;
+<a href="http://www.alllotto.com.mx" title="Resultados de Lotería de México">México</a>&nbsp;
 <a href="http://nl.alllotto.com" title="Loterij Resultaten voor Nederland">Nederland</a>&nbsp;
 <a href="http://nz.alllotto.com" title="New Zealand lottery results">New Zealand</a>&nbsp;
 <a href="http://no.alllotto.com" title="Lotteriresultater for Norge">Norge</a>&nbsp;
-<a href="http://pt.alllotto.com" title="Resultados de Lotería de Portugal">Portugal</a>&nbsp;
-<a href="http://se.alllotto.com" title="Lotteriresultat för Sverige">Sverige</a>&nbsp;
-<a href="http://za.alllotto.com" title="South Africa lottery results">South Africa</a>&nbsp;
-<a href="http://ch.alllotto.com" title="Schweiz Lotterie Ergebnisse - Résultats de lotterie pour Suisse">Schweiz</a>&nbsp;
+<a href="http://www.alllotto.com.pe" title="Resultados de Lotería de Perú">Perú</a>&nbsp;
+<a href="http://www.alllotto.com.pt" title="Resultados de Lotería de Portugal">Portugal</a>&nbsp;
+<a href="http://www.alllotto.se" title="Lotteriresultat för Sverige">Sverige</a>&nbsp;
+<a href="http://www.alllotto.co.za" title="South Africa lottery results">South Africa</a>&nbsp;
+<a href="http://www.alllotto.ch" title="Schweiz Lotterie Ergebnisse - Résultats de lotterie pour Suisse">Schweiz</a>&nbsp;
 <a href="http://uy.alllotto.com" title="Resultados de Lotería de Uruguay">Uruguay</a>&nbsp;
 <a href="http://www.alllotto.co.uk" title="United Kingdom lottery results">United Kingdom</a>&nbsp;
 <a href="http://www.alllotto.com" title="US lottery results">United States</a>&nbsp;
 </div>
 <p></p><div class="footer" align="center">Always verify lottery results with an official lottery agent before quitting your job or burning your tickets.</div>
-<div class="footer" align="center">Copyright 1995-2008 White Pines Design Ltd., All rights reserved.    <a href="http://www.alllotto.com/13gtfagt.php">Contact US</a></div>
+<div class="footer" align="center">Copyright 1995-2009 White Pines Design Ltd., All rights reserved.    <a href="http://www.alllotto.com/13gtfagt.php">Contact US</a></div>
 
-<div class="footer" align="center">Lottery Data By: <a href="http://www.lottery-data.com">Lottery-Data.com</a>   <a href="http://www.alllotto.com/sitemap.xml">Sitemap</a>  </div>
+<div class="footer" align="center">Lottery Data By: <a href="http://www.lottery-data.com">Lottery-Data.com</a>   <a href="http://www.alllotto.com/sitemap.xml">sitemap</a>  </div>
 <p>
 </p></td>
 <!-- <td>&nbsp; </td> --->
@@ -515,6 +289,7 @@ google_color_url = "990000";
 </script></td></tr></tbody></table>
 </td></tr></tbody></table><table>
 
+<script type="text/javascript" src="http://forms.aweber.com/form/64/1836908364.js"></script>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">  
 </script>  
 <script type="text/javascript">  
