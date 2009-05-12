@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052407id_/http%3A//www.bca-europe.com/Default.aspx%3Fpage%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512025951id_/http%3A//www.bca-europe.com/Default.aspx%3Fpage%3D17) for the most accurate reproduction.*
 
 # Privacy Policy
 
