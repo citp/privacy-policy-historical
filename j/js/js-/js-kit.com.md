@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104248id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513005810id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.*
 
 # JS-Kit Privacy Policy
 
@@ -46,7 +46,7 @@ JS-Kit cooperates with government and law enforcement officials and private part
 
 ### Managing Your Information
 
-All registered Visitors may review, update or correct the Personal Information provided in their registration or profile by changing their "Visitor preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [support@js-kit.com](mailto:support@js-kit.com). 
+All registered Visitors may review, update or correct the Personal Information provided in their registration or profile by changing their "Visitor preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [support@js-kit.com](mailto:support@js-kit.com?subject=%27policy%20-%20delete%20account%27). 
 
 ### Security
 
