@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200312id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512152440id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Media, CD Media | Shop4tech
 
