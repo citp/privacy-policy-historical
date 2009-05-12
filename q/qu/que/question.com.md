@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513124247id_/http%3A//www.question.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513001618id_/http%3A//question.com/privacy.php) for the most accurate reproduction.*
 
 # Question.com
 
