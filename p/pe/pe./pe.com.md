@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923103428id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512095633id_/http%3A//www.pe.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PE.com | Southern California News | News for Inland Southern California
 
