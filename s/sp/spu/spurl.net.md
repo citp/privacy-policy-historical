@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spurl.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030138id_/http%3A//www.spurl.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spurl.net privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512200336id_/http%3A//www.spurl.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Spurl.net 1.0 - Free online bookmarks with so much more...
 
