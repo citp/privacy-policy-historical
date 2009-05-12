@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208202310id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512155714id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com at Hollywood.com
 
-Hollywood.com, Inc. ("Hollywood.com") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
+Hollywood.com, LLC. ("Hollywood.com") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
 By accepting this _Privacy Policy_ and our _Terms of Use_ , you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to our terms of use. 
 
@@ -16,7 +16,7 @@ Your Privacy is very important to us. As part of the normal operation of our ser
 
 **Information Collection, Use, Sharing and Disclosure**
 
-We use your IP address to help diagnose problems with our server and to administer our website and services. Through customer surveys, subscriptions, and newsletter registrations, our site may request users to give us contact, demographic and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site may use an order form for customers to subscribe to our for-pay services. We collect contact information (like e-mail address) and financial information (like account or credit card numbers). Contact information from the order form is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used, among other things, to bill the user for products and services for in-house statistics, advertising, and marketing target information. We will never share personal financial information with any other parties without your consent. Information collected during Hollywood.com subscriber registration is used for in-house statistics, marketing target information, and advising clients of Hollywood.com news and information. This site contains links to other sites. Hollywood.com is not responsible for the privacy practices or the content of such websites or any website from which you may have linked to Hollywood.com. 
+We use your IP address to help diagnose problems with our server and to administer our websiteadver and services. Through customer surveys, subscriptions, and newsletter registrations, our site may request users to give us contact, demographic and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site may use an order form for customers to subscribe to our for-pay services. We collect contact information (like e-mail address) and financial information (like account or credit card numbers). Contact information from the order form is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used, among other things, to bill the user for products and services for in-house statistics, advertising, and marketing target information. We will never share personal financial information with any other parties without your consent. Information collected during Hollywood.com subscriber registration is used for in-house statistics, marketing target information, and advising clients of Hollywood.com news and information. This site contains links to other sites. Hollywood.com is not responsible for the privacy practices or the content of such websites or any website from which you may have linked to Hollywood.com. 
 
 Hollywood.com is committed to protecting your privacy online. Please read this privacy policy to fully understand how we will make use of the personal information you share with us. Hollywood.com collects certain personal information in order to provide you with customized services, content, and advertisements. Some personal information is gathered when you register to receive certain Hollywood.com products or services. We may disclose to third parties certain aggregate information contained in your registration data or related data, provided that, such information will NOT include personally identifying information, except as specifically authorized by you or in the good faith belief that such action is reasonably necessary to comply with the law, legal process, or to enforce the terms of service. Hollywood.com will also use your personal information for the purposes of providing you with any services to which you subscribe, and any service-related activities such as collecting subscription fees from you for those services, and notifying you or contacting you regarding any problem with, or the expiration of, such services. In this regard, it may be necessary for Hollywood.com to disclose your personal information to one or more agents and contractors of Hollywood.com and their subcontractors, but such agents, contractors, and subcontractors will be required to agree to use the information obtained from Hollywood.com only for these purposes. We recommend that you do not divulge your password to anyone. Hollywood.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Hollywood.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Hollywood.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Hollywood.com reserves the right to change this statement at any time by posting revisions on the Hollywood.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of us. 
 
@@ -49,7 +49,7 @@ This site gives users the following options for removing their information from 
   * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
   * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
   * Users can send mail to the following postal address: 2255 Glades Road. Suite 221A, Boca Raton, Florida 33431 
-  * Users can call the following telephone number: (561) 998-8000
+  * Users can call the following telephone number: (561) 322-3449
 
  **Correct/Update – Your ability to update your information.**
 
@@ -60,7 +60,7 @@ The site gives users the following options for changing and modifying informatio
   * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
   * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
   * Users can send mail to the following postal address: 2255 Glades Road, Suite 221A, Boca Raton, Florida 33431
-  * Users can call the following telephone number: (561) 998-8000. 
+  * Users can call the following telephone number: (561) 322-3449. 
   * This policy may change from time to time so please check back periodically. 
 
 
@@ -69,8 +69,11 @@ The site gives users the following options for changing and modifying informatio
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
-Hollywood.com, Inc.  
+Hollywood.com, LLC  
 2255 Glades Road   
 Suite 221A   
 Boca Raton, Florida 33431   
 or email us at [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
+
+  
+
