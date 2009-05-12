@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020338id_/http%3A//www.lasenza.com/eng/customerSecurity/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasenza.com privacy policy that was archived on 2009-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090512042946id_/http%3A//www.lasenza.com/eng/customerSecurity/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -56,6 +56,10 @@
 	
 
 	<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/engine.js"></script>
+	<script type="text/javascript">
+		DWREngine.setOrdered(true);
+	</script>
+	
 	<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/util.js"></script>
 	<script type="text/javascript" src="http://www.lasenza.com/cfajax/core/settings.js"></script>
 	<script type="text/javascript" src="http://www.lasenza.com/sharedpages/javascript/ufo.js"></script>
@@ -83,20 +87,22 @@
 	</script>
 
 	<script type="text/javascript">
-		
-		sfHover = function() {
-			var sfEls = document.getElementById("international").getElementsByTagName("LI");
-			for (var i=0; i<sfEls.length; i++) {
-				sfEls[i].onmouseover=function() {
-					this.className+=" sfhover";
-				}
-				sfEls[i].onmouseout=function() {
-					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		if(document.getElementById("international"))
+		{
+			
+			sfHover = function() {
+				var sfEls = document.getElementById("international").getElementsByTagName("LI");
+				for (var i=0; i<sfEls.length; i++) {
+					sfEls[i].onmouseover=function() {
+						this.className+=" sfhover";
+					}
+					sfEls[i].onmouseout=function() {
+						this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+					}
 				}
 			}
+			if (window.attachEvent) window.attachEvent("onload", sfHover);
 		}
-		if (window.attachEvent) window.attachEvent("onload", sfHover);
-
 	</script>
 	
 	
@@ -160,7 +166,7 @@
 			}
 
 		function ShoppingBagGoToCheckout()	{
-			window.location.href ='http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&var=d&ckey=CA';
+			window.location.href ='http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&var=d&ckey=US';
 			}
 	</script>
 
@@ -168,12 +174,12 @@
 
 	<script language="javascript" type="text/javascript">
 		function Checkout() {
-			document.location='/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=CA';
+			document.location='http://www.lasenza.com/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=US&CFTOKEN=9c947cf7db2270e9-331536DF-BC0F-78C3-2FCC10C78A4030A6&CFID=5610871';
 			}
 
 		function shoppingBagClick(){
 				CloseShoppingCartPopUp();
-					openShoppingBag(0,0,'&var=d&ckey=CA');
+					openShoppingBag(0,0,'&var=d&ckey=US');
 				}
 	</script>
 
@@ -224,12 +230,12 @@
 
 	
 	
-	<li class="first"><a href="http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">Sign In</a></li>
-	<li><a href="http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">My Account</a></li>
+	<li class="first"><a href="http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">Sign In</a></li>
+	<li><a href="http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">My Account</a></li>
 
 					<li class="cart" onmouseover="javascript:ShowShopingCartPopUpDelay();">
 						
-				<a href="javascript:void(0);" onclick="javascript:window.location.href='http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&amp;var=d&amp;ckey=CA'">
+				<a href="javascript:void(0);" onclick="javascript:window.location.href='http://www.lasenza.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&amp;var=d&amp;ckey=US'">
 					View My Cart <span id="itemCount">(<span id="ShoppingBagInfoLine">0</span> items)</span>
 				</a>
 			</li>
@@ -246,9 +252,9 @@
 
 		
 		<div id="topForm">
-		
+
 			<div id="topForm1">
-		
+
 				<script language="javascript">
 
 				function submitSearchFormOnTop() {
@@ -372,36 +378,73 @@
 						<input type="text" name="keywords" id="searchTerm" onkeypress="return submitenter(this,event)">
 						<input type="hidden" name="isKeywordSearch" id="isKeywordSearch" value="true">
 						<input type="image" src="/_static/images/www/shared/btnGo.png" id="srcGo" name="srcGo">
-						<div id="advanced"><a href="http://www.lasenza.com/eng/storesection/redirect.cfm?sectionID=b2c/search/productSearchForm.cfm&amp;var=d&amp;var=d&amp;ckey=CA">advanced search</a></div>
+						<div id="advanced"><a href="http://www.lasenza.com/eng/storesection/redirect.cfm?sectionID=b2c/search/productSearchForm.cfm&amp;var=d&amp;var=d&amp;ckey=US">advanced search</a></div>
 					</form>
 				
+
 			
-			
+
 			</div>
-			
+
 		</div>
 
 	
 
 		
-<div id="nav" class="clearfix">
-<ul id="topNavSections">
-<li id="section1"><a href="http://www.lasenza.com/eng/categories/bras" onclick="if(this.blur)this.blur()" class="level1link">Bras</a>
-</li>
-<li id="section2"><a href="http://www.lasenza.com/eng/categories/panties" onclick="if(this.blur)this.blur()" class="level1link">Panties</a>
-</li>
-<li id="section3"><a href="http://www.lasenza.com/eng/categories/sexy-lingerie" onclick="if(this.blur)this.blur()" class="level1link">Sexy Lingerie</a>
-</li>
-<li id="section4"><a href="http://www.lasenza.com/eng/categories/sleepwear" onclick="if(this.blur)this.blur()" class="level1link">Sleepwear</a>
-</li>
-<li id="section5"><a href="http://www.lasenza.com/eng/categories/loungewear" onclick="if(this.blur)this.blur()" class="level1link">Loungewear</a>
-</li>
-<li id="section6"><a href="http://www.lasenza.com/eng/categories/accessories" onclick="if(this.blur)this.blur()" class="level1link">Accessories</a>
-</li>
-<li id="section7"><a class="level1link" href="http://www.lasenza.com/eng/sale">Sale &amp; Specials</a></li>
-<li id="section8"><a class="level1link" href="http://www.lasenza.com/eng/collections">Collections</a></li>
-</ul>
-</div>
+						<div id="nav" class="clearfix">
+
+							<ul id="topNavSections">
+								
+										<li id="section1"><a href="http://www.lasenza.com/eng/categories/Bras" onclick="if(this.blur)this.blur()" class="level1link">Bras</a>
+
+
+										
+										</li>
+
+									
+										<li id="section2"><a href="http://www.lasenza.com/eng/categories/Panties" onclick="if(this.blur)this.blur()" class="level1link">Panties</a>
+
+
+										
+										</li>
+
+									
+										<li id="section3"><a href="http://www.lasenza.com/eng/categories/SexyLingerie" onclick="if(this.blur)this.blur()" class="level1link">Sexy Lingerie</a>
+
+
+										
+										</li>
+
+									
+										<li id="section4"><a href="http://www.lasenza.com/eng/categories/Sleepwear" onclick="if(this.blur)this.blur()" class="level1link">Sleepwear</a>
+
+
+										
+										</li>
+
+									
+										<li id="section5"><a href="http://www.lasenza.com/eng/categories/Loungewear" onclick="if(this.blur)this.blur()" class="level1link">Loungewear</a>
+
+
+										
+										</li>
+
+									
+										<li id="section6"><a href="http://www.lasenza.com/eng/categories/Accessories" onclick="if(this.blur)this.blur()" class="level1link">Accessories</a>
+
+
+										
+										</li>
+
+									
+								<li id="section7"><a class="level1link" href="http://www.lasenza.com/eng/sale">Sale &amp; Specials</a></li>
+
+								
+								<li id="section8"><a class="level1link" href="http://www.lasenza.com/eng/collections">Collections</a></li>
+							</ul>
+
+						</div>
+						
 
 
 
@@ -437,10 +480,9 @@
 		}
 		else if(loggedIn == 'true' && 'false' == 'false') {
 			// Verify if we are logged
-			
 			if(userEmail != emailValue && userEmail != ""){	
-				showAlert({message:"Please logout before subscribing to a newsletter with another email address.",closeBText:'X',cssClass:'alertboxSmall'});
-				b_error = true;
+				//showAlert({message:"Please logout before subscribing to a newsletter with another email address.",closeBText:'X',cssClass:'alertboxSmall'});
+				//b_error = true;
 			}else{
 				// Same address as the userProfile and we are logged
 				document.form_SavingLeftNav.action = 'http://www.lasenza.com/sharedpages/cfclib/newsletter/controller.cfc';
@@ -452,6 +494,7 @@
 		if(b_error == false){
 			//Verify that the email is not a user email
 			DWREngine._execute(_cfUserProfileFunctionsLocation, null, 'isUserProfileEmailExist',emailValue,isUserProfileEmailExist_Result2);		
+			
 		}
 	}	
 
@@ -465,7 +508,7 @@
 	
 		//if(result == "false"){
 			//Verify that the email is not already in the newsletter table
-			DWREngine._execute(_cfNewsLetterLocation, null, 'isNewsLetterEmailExist',emailValue,isNewsLetterEmailExist_Result3);
+			DWREngine._execute(_cfNewsLetterLocation, null, 'isNewsLetterEmailExist',emailValue,'2',isNewsLetterEmailExist_Result3);
 		/* }else{
 			//Verify that the user is not already registred	
 			showAlert({message:alertMsg,closeBText:'X',cssClass:'alertboxSmall'});	
@@ -509,8 +552,8 @@
 	
 
 	
-	<form name="logoutUser" method="post" action="/sharedPages//frontEndComponents/specificComponents/b2c/servlet/myAccount/logout.cfm?&amp;var=d&amp;ckey=CA&amp;useNextPage=Y">
-		<input type="hidden" name="nextPage" value="http://www.lasenza.com/store.cfm?lang=eng&amp;ckey=CA">
+	<form name="logoutUser" method="post" action="/sharedPages//frontEndComponents/specificComponents/b2c/servlet/myAccount/logout.cfm?&amp;var=d&amp;ckey=US&amp;useNextPage=Y">
+		<input type="hidden" name="nextPage" value="http://www.lasenza.com/store.cfm?lang=eng&amp;ckey=US">
 	</form>
 
 	
@@ -524,7 +567,7 @@
 	</div>
 
 	<div class="alertbox" id="shoppingBagWindow" style="display:none;">
-		<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+		<!--[if lte IE 6.5]><iframe src="/sharedPages/presentationLayer/blank.html"></iframe><![endif]-->
 		<div id="alertBoxContent">
 			<div id="alertBoxCloseButton"><a href="#" onclick="CloseShoppingCartPopUp();return false;"><em>X</em></a></div>
 				<div id="ShippingBagLineItems"></div>
@@ -553,112 +596,112 @@
 						<div id="navMenu1">
 							
 
-								<h3>ORDERING ON LASENZA.COM - US</h3>
+								<h3>- ORDERING ON LASENZA.COM</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/placingAnOrder.cfm?&amp;var=d&amp;ckey=CA">Placing an Order</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/placingAnOrder.cfm?&amp;var=d&amp;ckey=US">Placing an Order</a></li>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/changingAnOrder.cfm?&amp;var=d&amp;ckey=CA">Changes or Cancellations</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/changingAnOrder.cfm?&amp;var=d&amp;ckey=US">Changes or Cancellations</a></li>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/expressOrder.cfm?&amp;var=d&amp;ckey=CA">Express Checkout</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/expressOrder.cfm?&amp;var=d&amp;ckey=US">Express Checkout</a></li>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/giftOrder.cfm?&amp;var=d&amp;ckey=CA">Gift Purchases</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/giftOrder.cfm?&amp;var=d&amp;ckey=US">Gift Purchases</a></li>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/taxes.cfm?&amp;var=d&amp;ckey=CA">Taxes</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/taxes.cfm?&amp;var=d&amp;ckey=US">Taxes</a></li>
 									
-								<li class=""><a href="/eng/customerServiceOrderUS/loyalty.cfm?&amp;var=d&amp;ckey=CA">Loyalty Cards</a></li>
+								<li class=""><a href="/eng/customerServiceOrderUS/loyalty.cfm?&amp;var=d&amp;ckey=US">Prestige Loyalty Cards</a></li>
 								
 								</ul>
 							
 
-								<h3>LASENZA.COM FEATURES - US</h3>
+								<h3>- LASENZA.COM FEATURES</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerServiceFeaturesUS/promotions.cfm?&amp;var=d&amp;ckey=CA">Promotional Offers</a></li>
+								<li class=""><a href="/eng/customerServiceFeaturesUS/promotions.cfm?&amp;var=d&amp;ckey=US">Promotional Offers</a></li>
 									
-								<li class=""><a href="/eng/customerServiceFeaturesUS/sharingProduct.cfm?&amp;var=d&amp;ckey=CA">Sharing a Product</a></li>
+								<li class=""><a href="/eng/customerServiceFeaturesUS/sharingProduct.cfm?&amp;var=d&amp;ckey=US">Sharing a Product</a></li>
 									
-								<li class=""><a href="/eng/customerServiceFeaturesUS/reviews.cfm?&amp;var=d&amp;ckey=CA">Reviews</a></li>
+								<li class=""><a href="/eng/customerServiceFeaturesUS/reviews.cfm?&amp;var=d&amp;ckey=US">Reviews</a></li>
 								
 								</ul>
 							
 
-								<h3>KNOW LASENZA.COM - US</h3>
+								<h3>- KNOW LASENZA.COM</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerServiceKnowUS/whyShopLasenza.cfm?&amp;var=d&amp;ckey=CA">Why Shop at Lasenza.com</a></li>
+								<li class=""><a href="/eng/customerServiceKnowUS/whyShopLasenza.cfm?&amp;var=d&amp;ckey=US">Why Shop at Lasenza.com</a></li>
 									
-								<li class=""><a href="/eng/customerServiceKnowUS/whatIsLasenzaspirit.cfm?&amp;var=d&amp;ckey=CA">What is Lasenzaspirit.com</a></li>
+								<li class=""><a href="/eng/customerServiceKnowUS/whatIsLasenzaspirit.cfm?&amp;var=d&amp;ckey=US">What is Lasenzaspirit.com</a></li>
 									
-								<li class=""><a href="/eng/customerServiceKnowUS/gettingAround.cfm?&amp;var=d&amp;ckey=CA">Getting Around the Site</a></li>
+								<li class=""><a href="/eng/customerServiceKnowUS/gettingAround.cfm?&amp;var=d&amp;ckey=US">Getting Around the Site</a></li>
 									
-								<li class=""><a href="/eng/customerServiceKnowUS/sizeCharts.cfm?&amp;var=d&amp;ckey=CA">Size Charts</a></li>
+								<li class=""><a href="/eng/customerServiceKnowUS/sizeCharts.cfm?&amp;var=d&amp;ckey=US">Size Charts</a></li>
 									
-								<li class=""><a href="/eng/customerServiceKnowUS/garments.cfm?&amp;var=d&amp;ckey=CA">Garment Glossary</a></li>
+								<li class=""><a href="/eng/customerServiceKnowUS/garments.cfm?&amp;var=d&amp;ckey=US">Garment Glossary</a></li>
 								
 								</ul>
 							
 
-								<h3>BILLING AND SHIPPING - US</h3>
+								<h3>- BILLING AND SHIPPING</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/shippingfees.cfm?&amp;var=d&amp;ckey=CA">Shipping Fees</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/shippingfees.cfm?&amp;var=d&amp;ckey=US">Shipping Fees</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/paymentMethods.cfm?&amp;var=d&amp;ckey=CA">Payment Methods</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/paymentMethods.cfm?&amp;var=d&amp;ckey=US">Payment Methods</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/paymentDeclines.cfm?&amp;var=d&amp;ckey=CA">Payment Declines</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/paymentDeclines.cfm?&amp;var=d&amp;ckey=US">Payment Declines</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/estimatedShipDays.cfm?&amp;var=d&amp;ckey=CA">Delivery Estimated Dates</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/estimatedShipDays.cfm?&amp;var=d&amp;ckey=US">Delivery Estimated Dates</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/trackingMyPackage.cfm?&amp;var=d&amp;ckey=CA">Tracking Your Package</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/trackingMyPackage.cfm?&amp;var=d&amp;ckey=US">Tracking Your Package</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/undeliverablePackages.cfm?&amp;var=d&amp;ckey=CA">Undeliverable Packages</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/undeliverablePackages.cfm?&amp;var=d&amp;ckey=US">Undeliverable Packages</a></li>
 									
-								<li class=""><a href="/eng/customerServiceBillingUS/shippingRestrictions.cfm?&amp;var=d&amp;ckey=CA">Shipping Restrictions</a></li>
+								<li class=""><a href="/eng/customerServiceBillingUS/shippingRestrictions.cfm?&amp;var=d&amp;ckey=US">Shipping Restrictions</a></li>
 								
 								</ul>
 							
 
-								<h3>EXCHANGES AND RETURNS - US</h3>
+								<h3>- EXCHANGES AND RETURNS</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerServiceReturnsUS/returns.cfm?&amp;var=d&amp;ckey=CA">Return Policies</a></li>
+								<li class=""><a href="/eng/customerServiceReturnsUS/returns.cfm?&amp;var=d&amp;ckey=US">Return Policies</a></li>
 									
-								<li class=""><a href="/eng/customerServiceReturnsUS/giftReturns.cfm?&amp;var=d&amp;ckey=CA">Gift Returns</a></li>
+								<li class=""><a href="/eng/customerServiceReturnsUS/giftReturns.cfm?&amp;var=d&amp;ckey=US">Gift Returns</a></li>
 									
-								<li class=""><a href="/eng/customerServiceReturnsUS/refunds.cfm?&amp;var=d&amp;ckey=CA">Refunds</a></li>
+								<li class=""><a href="/eng/customerServiceReturnsUS/refunds.cfm?&amp;var=d&amp;ckey=US">Refunds</a></li>
 									
-								<li class=""><a href="/eng/customerServiceReturnsUS/exchanges.cfm?&amp;var=d&amp;ckey=CA">Exchanges</a></li>
+								<li class=""><a href="/eng/customerServiceReturnsUS/exchanges.cfm?&amp;var=d&amp;ckey=US">Exchanges</a></li>
 								
 								</ul>
 							
 
-								<h3>SECURITY AND PRIVACY - US</h3>
+								<h3>- SECURITY AND PRIVACY</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerSecurityUS/privacyPolicy.cfm?&amp;var=d&amp;ckey=CA">Privacy Policy</a></li>
+								<li class=""><a href="/eng/customerSecurityUS/privacyPolicy.cfm?&amp;var=d&amp;ckey=US">Privacy Policy</a></li>
 									
-								<li class=""><a href="/eng/customerSecurityUS/termsOfUse.cfm?&amp;var=d&amp;ckey=CA">Legal Terms</a></li>
+								<li class=""><a href="/eng/customerSecurityUS/termsOfUse.cfm?&amp;var=d&amp;ckey=US">Legal Terms</a></li>
 									
-								<li class=""><a href="/eng/customerSecurityUS/security.cfm?&amp;var=d&amp;ckey=CA">Security Statement</a></li>
+								<li class=""><a href="/eng/customerSecurityUS/security.cfm?&amp;var=d&amp;ckey=US">Security Statement</a></li>
 									
-								<li class=""><a href="/eng/customerSecurityUS/technicalspecifications.cfm?&amp;var=d&amp;ckey=CA">Technical Specifications</a></li>
+								<li class=""><a href="/eng/customerSecurityUS/technicalspecifications.cfm?&amp;var=d&amp;ckey=US">Technical Specifications</a></li>
 								
 								</ul>
 							
 
-								<h3>ACCOUNT INFORMATION</h3>
+								<h3>- ACCOUNT INFORMATION</h3>
 								<ul>
 									
-								<li class=""><a href="/eng/customerMyAccountUS/whatIsAccount.cfm?&amp;var=d&amp;ckey=CA">What is an Account?</a></li>
+								<li class=""><a href="/eng/customerMyAccountUS/whatIsAccount.cfm?&amp;var=d&amp;ckey=US">What is an Account?</a></li>
 									
-								<li class=""><a href="/eng/customerMyAccountUS/changingInformation.cfm?&amp;var=d&amp;ckey=CA">Changing Your Information</a></li>
+								<li class=""><a href="/eng/customerMyAccountUS/changingInformation.cfm?&amp;var=d&amp;ckey=US">Changing Your Information</a></li>
 									
-								<li class=""><a href="/eng/customerMyAccountUS/addressbook.cfm?&amp;var=d&amp;ckey=CA">Address Book</a></li>
+								<li class=""><a href="/eng/customerMyAccountUS/addressbook.cfm?&amp;var=d&amp;ckey=US">Address Book</a></li>
 									
-								<li class=""><a href="/eng/customerMyAccountUS/closingAccount.cfm?&amp;var=d&amp;ckey=CA">Closing Your Account</a></li>
+								<li class=""><a href="/eng/customerMyAccountUS/closingAccount.cfm?&amp;var=d&amp;ckey=US">Closing Your Account</a></li>
 									
-								<li class=""><a href="/eng/customerMyAccountUS/emailsettings.cfm?&amp;var=d&amp;ckey=CA">Email Club Settings</a></li>
+								<li class=""><a href="/eng/customerMyAccountUS/emailsettings.cfm?&amp;var=d&amp;ckey=US">Email Club Settings</a></li>
 								
 								</ul>
 							
@@ -718,16 +761,16 @@ The following outlines our practices concerning the collection and use of your i
     <li><a href="/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/favorites/displayFavorites.cfm&amp;var=d&amp;ckey=US">Wish List</a></li>
 </ul>
 <ul>
-    <li class="first"><a href="/eng/membership/redirect.cfm?sectionID=b2c/prestige/displayPrestigeCardItem.cfm&amp;var=d&amp;ckey=CA">Loyalty Program</a></li>
+    <li class="first"><a href="/eng/membership/redirect.cfm?sectionID=b2c/prestige/displayPrestigeCardItem.cfm&amp;var=d&amp;ckey=US">Prestige Loyalty Card</a></li>
     <li><a href="/eng/customerServiceKnow/sizeCharts.cfm?&amp;var=d&amp;ckey=US">Size Charts</a></li>
-    <li><a href="/eng/customerServiceOrder/giftOrder.cfm?&amp;var=d&amp;ckey=US">Gift Services</a></li>
+    <li><a href="/eng/customerServiceOrderUS/giftOrder.cfm?&amp;var=d&amp;ckey=US">Gift Services</a></li>
 </ul>
 </div>
 <div id="footerBlockHalf2">
 <h2>Our Company</h2>
 <ul>
     <li class="first"><a href="/eng/aboutUs/aboutLaSenza.cfm">About La Senza</a></li>
-    <li><a href="/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm&amp;var=d&amp;ckey=CA">Store Locator</a></li>
+    <li><a href="/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm&amp;var=d&amp;ckey=US">Store Locator</a></li>
     <li><a href="http://www.limitedbrands.com/investor/">Investor Relations</a></li>
     <li><a href="http://jobs.lasenza.com/">Job Opportunities</a></li>
 </ul>
@@ -744,24 +787,24 @@ The following outlines our practices concerning the collection and use of your i
     <li><a href="/eng/customerSecurity/privacyPolicy.cfm">Privacy</a> |</li>
     <li><a href="/eng/customerServiceBillingUS/shippingfees.cfm?&amp;var=d&amp;ckey=CA">Shipping Information</a> |</li>
     <li><a href="/eng/customerServiceReturns/returns.cfm">Return Policy</a> |</li>
-    <li><a href="/sitemap.cfm?&amp;var=d&amp;ckey=CA">Site Map</a> |</li>
+    <li><a href="/sitemap.cfm?&amp;var=d&amp;ckey=US">Site Map</a> |</li>
     <li><a href="/eng/aboutUs/redirect.cfm?sectionid=contact/contact2.cfm">Contact Us</a></li>
 </ul>
 </div> 
 	<div id="footerNav">
 	<ul>
 			
-				<li id="section1"><a href="http://www.lasenza.com/eng/categories/bras" onclick="if(this.blur)this.blur()" class="level1link">Bras</a> |</li>
+				<li id="section1"><a href="http://www.lasenza.com/eng/categories/Bras" onclick="if(this.blur)this.blur()" class="level1link">Bras</a> |</li>
 				
-				<li id="section2"><a href="http://www.lasenza.com/eng/categories/panties" onclick="if(this.blur)this.blur()" class="level1link">Panties</a> |</li>
+				<li id="section2"><a href="http://www.lasenza.com/eng/categories/Panties" onclick="if(this.blur)this.blur()" class="level1link">Panties</a> |</li>
 				
-				<li id="section3"><a href="http://www.lasenza.com/eng/categories/sexy-lingerie" onclick="if(this.blur)this.blur()" class="level1link">Sexy Lingerie</a> |</li>
+				<li id="section3"><a href="http://www.lasenza.com/eng/categories/SexyLingerie" onclick="if(this.blur)this.blur()" class="level1link">Sexy Lingerie</a> |</li>
 				
-				<li id="section4"><a href="http://www.lasenza.com/eng/categories/sleepwear" onclick="if(this.blur)this.blur()" class="level1link">Sleepwear</a> |</li>
+				<li id="section4"><a href="http://www.lasenza.com/eng/categories/Sleepwear" onclick="if(this.blur)this.blur()" class="level1link">Sleepwear</a> |</li>
 				
-				<li id="section5"><a href="http://www.lasenza.com/eng/categories/loungewear" onclick="if(this.blur)this.blur()" class="level1link">Loungewear</a> |</li>
+				<li id="section5"><a href="http://www.lasenza.com/eng/categories/Loungewear" onclick="if(this.blur)this.blur()" class="level1link">Loungewear</a> |</li>
 				
-				<li id="section6"><a href="http://www.lasenza.com/eng/categories/accessories" onclick="if(this.blur)this.blur()" class="level1link">Accessories</a> |</li>
+				<li id="section6"><a href="http://www.lasenza.com/eng/categories/Accessories" onclick="if(this.blur)this.blur()" class="level1link">Accessories</a> |</li>
 								
 		<li id="section8"><a class="level1link" href="/eng/collections">Collections</a></li>
 	</ul>
@@ -793,7 +836,12 @@ The following outlines our practices concerning the collection and use of your i
 			
 		</div>
 
-		
+		<div id="verisign">
+			
+              <script src="https://seal.verisign.com/getseal?host_name=www.lasenza.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+			  <a href="http://www.verisign.com/ssl/ssl-information-center/" target="_blank"></a>
+			
+		</div>
 		<div id="visa">
 			
 				<a href="http://www.visa.ca/verified/card_vbvworks.cfm" target="hATW"><img src="/_static/images/www/eng/logoHP_verifiedVisa.gif" alt="VISA" border="0"></a>
@@ -804,10 +852,14 @@ The following outlines our practices concerning the collection and use of your i
 		 	 <a href="http://www.interaconline.com/learn/" target="hATW"><img src="/_static/images/www/eng/logoHP_Interact.png" alt="interact Logo" border="0"></a>
 		  
 		</div>
-		
+		<div id="paypal">
+			
+				<a href="/eng/marketing/paypal.cfm"><img src="/_static/images/www/shared/logofarm_paypal.png" border="0" alt="Additional Options"></a>
+		    
+		</div>
 
 	</div>
-	<div id="copyright">© 2008 La Senza Corporation. All rights reserved.</div>
+	<div id="copyright">© 2009 La Senza Corporation. All rights reserved.</div>
 	<gm:googlemapshow>
 
 		</gm:googlemapshow></div>
