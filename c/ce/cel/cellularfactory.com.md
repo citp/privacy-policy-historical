@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011530id_/http%3A//cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512184748id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
-# CellularFactory.com Customer Service Center
+# Customer Service Center- Cellularfactory.com
 
-**CELLULARFACTORY PRIVACY POLICY**
+## CELLULARFACTORY PRIVACY POLICY
 
 Echen Inc. is the single owner and doing business at CellularFactory.com.   
 **Last Updated on 11/23/2007**
@@ -109,27 +109,3 @@ Email : sales@cellularfactory.com
 Postal Address   
 1750 Old Canyon Dr. Hacienda Heights, CA 91745   
 Web site URL https://www.cellularfactory.com 
-
-  
-
-
-       Contact: 
-
-cellularfactory.com  
-1750 Old Canyon Dr. Hacienda Heights, CA 91745  
-Tel: (888)952-6550  
-Tel: 1-626-855-4620  
-Fax: 1-626-855-4621 
-
-  
-
-
-**FREE Cell Phone Website for Your Business**  
-Profit from your own cell phone website. We already have many partners generating several thousand dollars monthly.  
-[Click here](http://www.cellularfactory.com/affiliate/new_member.jsp) for details.
-
-     
-
- Customer Service (888)952-6550  
-8am-5pm PST M-F |    
----|---
