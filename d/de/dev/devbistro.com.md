@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devbistro.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516042629id_/http%3A//www.devbistro.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devbistro.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512235435id_/http%3A//devbistro.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Use
+# Privacy Policy and Terms of Use | Dev Bistro
 
 ## Privacy Policy
 
