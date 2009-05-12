@@ -1,25 +1,29 @@
-<!--The following is the downloaded HTML source of the toptenreviews.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216003132id_/http%3A//www.toptenreviews.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toptenreviews.com privacy policy that was archived on 2009-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090512153727id_/http%3A//www.toptenreviews.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <title>About TopTenREVIEWS</title>
 	<meta name="description" content="Looking to make the most of your software? TopTenREVIEWS is the place to learn about all the latest Windows software products. Read insightful software reviews, compare products gain access to how-to information, and find the best program software for your needs.">
 	<meta name="keywords" content="toptenreviews, about toptenreviews, who is toptenreviews, what is toptenreviews">
-	<meta name="copyright" content="All contents Copyright 2008 by TopTenREVIEWS. All rights reserved.">
+	<meta name="copyright" content="All contents Copyright 2009 by TopTenREVIEWS. All rights reserved.">
 	<meta name="robots" content="index,follow">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="icon" href="http://www.toptenreviews.com/i/home/favicon.ico" type="image/x-icon">
 	<link rel="alternate" type="application/rss+xml" title="TopTenREVIEWS News" href="http://www.toptenreviews.com/topten.xml">
 	<link rel="stylesheet" type="text/css" href="http://www.toptenreviews.com/css/ttr_home.css">
+        <link rel="stylesheet" type="text/css" href="http://www.toptenreviews.com/css/cms/shell.css">
 	<script language="JavaScript" type="text/javascript" src="http://www.toptenreviews.com/scripts/js.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://www.toptenreviews.com/scripts/ttr-ads.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://www.toptenreviews.com/scripts/motionpack.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://www.toptenreviews.com/scripts/js_functions.js"></script>
 	<script language="Javascript">
         <!--
         var axel = Math.random() + "";
         var ord = axel * 1000000000000000000;
         //-->
+        </script><script type="text/javascript">
+            document.domain="toptenreviews.com";
         </script>
 </head>
 <body>
@@ -41,10 +45,83 @@ pageTracker._trackPageview();
 						<div class="ad_sign"><img src="i/home/ad_sign.jpg" alt="Advertisment" border="0"></div>
                    		<div id="ad_1" class="ad_loc">&nbsp;</div>
 					</div>
+                					<div class="top_login" id="top_login">
+						<div id="faderbox" onclick="popgbox(2);"></div>
+						<div id="popcontent">
+							<div class="popcontentrow">
+								<div class="popheader">
+									<iframe name="pophead" id="pophead" src="http://www.toptenreviews.com/community/ifm_src.html" style="width:100%; height:25px; margin-left:-2px; .margin-left:0;" border="0"></iframe>
+								</div>
+							</div>
+							<div class="popcontentrow">
+								<iframe name="popfrm" id="popfrm" src="http://www.toptenreviews.com/community/ifm_src.html"></iframe>
+							</div>
+						</div>
+		
+						<iframe name="logfrm" id="logfrm" src="http://www.toptenreviews.com/community/ifm_src.html" style="display:none" onload="checklogstatus('logfrm','login_box','loginerr','lostpword','log_msg');"></iframe>
+						<div class="top_login_text">
+							<a href="javascript: showhidediv('log_msg',2); showhidediv('lostpword',2); showhidediv('why_join',2); showhidediv('login_box',1); document.login.username.focus(); document.login.username.select();">Log in</a> |
+							<a href="javascript: popgbox(1,'http://www.toptenreviews.com/community/greybox/cm-register1.php',760,650)" title="Sign up">Sign Up</a><br>
+							<a href="javascript: showhidediv('log_msg',2); showhidediv('lostpword',2); showhidediv('login_box',2); showhidediv('why_join',1);">Why Join?</a>
+						</div>
+						<div style="position:relative"></div>
+						<div class="login_box" id="login_box">
+							<div class="main_login_box">
+								<form name="login" action="http://www.toptenreviews.com/scripts/login/login.php" target="logfrm" method="post">
+									<div class="login_box_row">
+										<div class="user_box">
+											<input type="text" name="username" value="username or email" onfocus="doument.login.username.select();">
+										</div>
+										<div class="pass_box">
+											<input type="password" name="pswd" value="password" onfocus="doument.login.pswd.select();">
+										</div>
+										<div class="log_go">
+											<input type="image" src="http://www.toptenreviews.com/i/community/logingo.gif" alt="submit login">
+										</div>
+										<div class="login_close_button" onclick="showhidediv('login_box',2)"></div>
+									</div>
+									<div class="login_box_row2">
+										<div class="keeplogin">
+											<input name="keep_login" type="checkbox" checked="true"> Remember Me
+										</div>
+										<div class="lostpass">
+											<a href="javascript:showhidediv('login_box',2); showhidediv('log_msg',2); showhidediv('lostpword',1);">Forgot Password? </a>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+						<div class="login_box" id="lostpword">
+							<div class="login_box_row2">
+								<div class="login_close_button" onclick="showhidediv('lostpword',2);"></div>Enter Email address to Reset Password
+							</div>
+							<div class="login_box_row2">
+								<form name="lostpwd" action="http://www.toptenreviews.com/community/password_reset0.php" method="post" target="logfrm">
+									<input style="width:215px;" type="text" name="email"> <input type="image" src="http://www.toptenreviews.com/i/community/logingo.gif">
+								</form>
+							</div>
+						</div>
+						<div id="log_msg" class="login_box">
+							<div class="login_box_row">
+								<div class="login_close_button" onclick="showhidediv('log_msg',2);"></div>
+								<span class="loginerr" id="loginerr"></span>
+							</div>
+						</div>
+						<div style="display: none;" class="login_box" id="why_join">
+							<div class="login_box_row2">
+								<div class="login_close_button">
+									<img onclick="showhidediv('why_join',2);" src="http://www.toptenreviews.com/i/community/logclose.gif">
+								</div>
+								<span>Make your voice heard and your opinion count.</span>
+								Sign up to add comments, reviews and ratings
+								for software, web services and electronics.
+							</div>
+						</div>
+					</div>
                 </div>
 				 <div class="middle_row" style="height:63px;">
                     <!--<img src="i/home/header-tabs.gif" alt="header tabs" usemap="#tabsmap" border="0" align="bottom" />-->
-										<img src="http://www.toptenreviews.com/i/rev/site/cms/header-tabs-main-mobile.gif" alt="header tabs" usemap="#tabsmap" border="0" align="bottom">
+										<img src="http://www.toptenreviews.com/i/rev/site/cms/h-tabs-home.gif" alt="Header Tabs" usemap="#holidaytabsmap" style="width:970px; height:67px" border="0" align="bottom">
                 </div>
             </div>
             <div class="middle_row">
@@ -63,6 +140,16 @@ pageTracker._trackPageview();
                                 <input type="image" src="i/home/search-button2.gif" name="sa" value="Search" style="margin-bottom:2px;">
                             </div>
                         </form>
+                        <div class="content_left_row">
+                                <div class="new_left_nav_rss_link">
+                                    <div class="left_nav_rss_img_cont">
+                                        <a href="http://api.toptenreviews.com/rss/"><img src="http://www.toptenreviews.com/i/rss_white_back.jpg"></a>
+                                    </div>
+                                    <div class="left_nav_rss_txt_cont">
+                                        <a href="http://api.toptenreviews.com/rss/">See our feeds &gt;&gt;</a>
+                                    </div>
+                                </div>
+                            </div>
                         <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
 
@@ -150,6 +237,11 @@ pageTracker._trackPageview();
 									<span class="about_us_pages"><a href="how-we-review.html">How We Review</a></span>
 								</div>
 							</div>
+                                                        <div class="content_left_row">
+                                                                <div class="main_cat_header">
+                                                                        <span class="about_us_pages"><a href="submit_a_product.html">Submit A Product</a></span>
+                                                                </div>
+                                                        </div>
 							<div class="content_left_row">
 								<div class="main_cat_header">
 									<span class="about_us_pages"><a href="careers.html">Careers</a></span>
@@ -194,35 +286,8 @@ pageTracker._trackPageview();
 
 							</div>
 						</div><!-- Closes Div slider-->
-						<div class="content_left_row">
-							<div class="content_left_header">
-								<span class="left_header_img"><a href="javascript:;" onmousedown="toggleSlide('slide3');">
-								<img id="slide3img" src="http://toptenreviews.com/i/home/header-arrow.gif" alt="Header arrow" border="0"></a></span>
-								<span class="left_header_text"><a href="javascript:;" onmousedown="toggleSlide('slide3');">Review Notifications</a></span>
-							</div>
-						</div>
 
-						<div id="slide3" style="display:none; height:100%; float:left;">
-							<div class="content_left_row" style="margin-bottom:20px;">
-								<div class="data_img"><a href="http://www.toptenreviews.com/scripts/email_notifications/sign_up_p1.php"><img src="i/home/rev-notify.jpg" alt="Review Notifications Signup"></a></div>
-								<div class="data_info">Stay informed of our newest reviews <a href="http://www.toptenreviews.com/scripts/email_notifications/sign_up_p1.php">Sign&nbsp;up&nbsp;here&nbsp;»</a></div>
-							</div>
-						</div><!-- Closes Div slider-->
-
-						<div class="content_left_row">
-							<div class="content_left_header">
-								<span class="left_header_img"><a href="javascript: toggleSlide('slide4');">
-								<img id="slide4img" src="http://toptenreviews.com/i/home/header-arrow.gif" alt="Header arrow" border="0"></a></span>
-								<span class="left_header_text"><a href="javascript:;" onmousedown="toggleSlide('slide4');">Be a Contributor</a></span>
-							</div>
-						</div>
-
-						<div id="slide4" style="display:none; height:100%; float:left;">
-							<div class="content_left_row" style="margin-bottom:20px;">
-								<div class="data_img"><a href="http://toptenreviews.com/scripts/ttrcontributor/ttrcontrib.php"><img src="i/home/ctrb_img.gif" alt="TopTenREVIEWS Contributor Sign Up"></a></div>
-								<div class="data_info">Interested in becoming a <span class="data_ttr">TopTenREVIEWS</span> contributor? <a href="http://toptenreviews.com/scripts/ttrcontributor/ttrcontrib.php">Details&nbsp;here&nbsp;»</a></div>
-							</div>
-						</div><!-- Closes Div slider-->
+						
 
 
 						<div class="content_left_row">
@@ -240,7 +305,42 @@ pageTracker._trackPageview();
 								<span class="blog_data">Our staffers give their take on the newest gadgets &amp; trends. <a href="http://blog.toptenreviews.com/">Check&nbsp;it&nbsp;out&nbsp;here&nbsp;»</a></span>
 							</div>
 						</div><!-- Closes Div slider-->
-                    </div>
+                       	<div style="float:left"><form action="http://www.toptenreviews.com/scripts/email_notifications/subscription.php" method="post" id="signup_form" name="signup_form" onsubmit="return false;"><div class="content_left_row" style="height:'.$height.'px; margin-top:5px; margin-bottom:5px; width:165px;"><div class="newsletter_header_left_row">
+						<img src="http://www.toptenreviews.com/i/rev/site/newslhead.gif" style="height:25px; width:163px; _width:165px;" alt="Newsletter Sign Up">
+					</div>
+							<div class="newsletter_content_left_row" style="background-color:#e6e6e6;">
+						<div class="newsletter_text">
+						<span style="float:left;height:35px; width:150px;">We\'ll deliver fresh reviews, acticles, tips and deals right to your inbox.</span>
+								<div class="newsletter_boxes" style="margin-top:10px;">
+							<span style="float:left"><input type="checkbox" id="boxes[1]" name="1" value="1"></span><div class="chk_text">Movies</div>
+								</div>
+								<div class="newsletter_boxes">
+							<span style="float:left"><input type="checkbox" id="boxes[2]" name="2" value="2"></span><div class="chk_text">New Gadgets</div>
+								</div>
+								<div class="newsletter_boxes">
+							<span style="float:left"><input type="checkbox" id="boxes[3]" name="3" value="3"></span><div class="chk_text">Home Theater</div>
+							<div class="newsletter_link">
+									<a href="http://www.toptenreviews.com/scripts/email_notifications/subscription.php">See more...</a>
+							</div>
+								</div>
+								<div id="nl_email_addr_box" style="float:left;">
+							<input class="email_box" type="text" name="nl_email" id="nl_email" value="Enter your email address..." onfocus="clearbox();">
+								</div>
+								<div class="sign_up" id="nl_signup_button">
+							<input type="image" id="nl_signup_img" alt="Sign Up" onclick="validateNlPost();" src="http://www.toptenreviews.com/i/rev/site/newslsignup.gif">
+								</div>
+								<input type="hidden" id="nl_ref" style="width:0px; height:0px;" name="nl_ref" value="http://www.toptenreviews.com/privacy-policy.html">
+						</div>
+						
+							
+							</div>
+							</div>
+							</form></div>
+						
+					<div class="content_left_row" style="margin-bottom:5px; .margin-top:5px;">
+						<a href="http://www.toptenreviews.com/scripts/ttrcontributor/contribute_information.php"><img src="http://www.toptenreviews.com/i/rev/site/become_a_reviewer.jpg"></a>
+					</div>
+                </div>
 
 
 
@@ -256,7 +356,7 @@ pageTracker._trackPageview();
 
 						<br>
 						<br>
-						<br>
+		
 						<b><span class="press-highlights">Information Collected</span><br>
 							<br>
 
@@ -267,6 +367,8 @@ pageTracker._trackPageview();
 						<br>
 						We do collect email addresses from individuals that wish to take advantage of special promotional offers, but<b><i> we do not sell, rent or disclose collected email addresses to third parties.</i></b><br>
 
+						
+						<br>
 						<br>
 						<b><span class="press-highlights">Electronic Newsletters and Site Notification</span><br>
 
@@ -278,7 +380,7 @@ pageTracker._trackPageview();
 						<br>
 						Consumers may remove themselves from any mailing list by following the instructions contained at the end of every newsletter or website notification email.<br>
 
-						<br>
+
 						<br>
 						<br>
 						<b><span class="press-highlights">Cookies</span><br>
@@ -286,7 +388,7 @@ pageTracker._trackPageview();
 
 						</b>As you browse TopTenREVIEWS sites, we place “cookies” on your hard drive to show which source (search engine and keywords, newsletter or site notification, pay-per-click ad and so on) you used to find our site. We also use cookies when you press the buy button to collect aggregate data for analysis. We do not use cookies to track single-user data.<br>
 
-						<br>
+						
 						<br>
 						<br>
 						<b><span class="press-highlights">Opt-Out Policy</span><br>
@@ -296,7 +398,7 @@ pageTracker._trackPageview();
 					<p>• Opting not to receive our electronic newsletters when registering for a site<br>
 
 						• Opting not to receive review site notifications<br>
-						<br>
+						
 						<br>
 						<br>
 
@@ -304,25 +406,26 @@ pageTracker._trackPageview();
 							<br>
 						</b>Users may unsubscribe from any of our electronic newsletters or site notifications at any time by following the instructions contained at the end of each newsletter or notification.<br>
 
+						
 						<br>
 						<br>
-						<br>
-						<span class="press-highlights">USE OF COLLECTED INFORMATION</span><br>
+						<b><span class="press-highlights">USE OF COLLECTED INFORMATION</span><br>
 
 						<br>
-						Collecting the information described above enables us to tailor our content to our readers’ needs.<br>
+						</b>Collecting the information described above enables us to tailor our content to our readers’ needs.<br>
 						<br>
 
 						All personally identifiable information provided to TopTenREVIEWS is maintained by and accessible only to TopTenREVIEWS, unless stated otherwise in this privacy policy.<br>
 						<br>
 						<br>
 
-						<br>
+						
 						<b><span class="press-highlights">Third Party Partners</span><br>
 							<br>
-						</b>TopTenREVIEWS has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites.<br>
+						</b>TopTenREVIEWS has teamed up with reputable third party vendors in order to provide certain services to its online users. When leaving our website to view one of our partner websites, we encourage users to review the privacy statements of those websites as we cannot guarantee the privacy of users while visiting affiliate sites. TopTenREVIEWS may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use non-personally identifiable information about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies.  Our Website may also use Web beacons in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page, (sometimes referred to as "1x1 clear pixel," "Web beacon" or "clear GIF") in the pages of our Web site in order to gather additional statistical site usage information.<br><br> 
+                                                    If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.<br>
 
-						<br>
+						
 						<br>
 						<br>
 
@@ -332,7 +435,7 @@ pageTracker._trackPageview();
 						<br>
 
 						<br>
-						<br>
+						
 
 						<b><span class="press-highlights">Acceptance of Terms</span><br>
 							<br>
@@ -341,7 +444,7 @@ pageTracker._trackPageview();
 						<br>
 						<br>
 
-						<br>
+						
 						<b><span class="press-highlights">How to Contact Us</span><br>
 							<br>
 						</b>If you want to reach us, <a href="contact-us.html">click here</a>.<br>
@@ -372,7 +475,7 @@ pageTracker._trackPageview();
 				<li><a href="http://www.toptenreviews.com/sitemap.html">Sitemap</a></li>
 				<li><a href="http://www.toptenreviews.com/privacy-policy.html">Privacy Policy</a></li>
 			</ul>
-			<div class="copy_soft">Copyright © 2003 - 2008 TopTenREVIEWS, Inc. All Rights Reserved.</div>
+			<div class="copy_soft">Copyright © 2003 - 2009 TopTenREVIEWS, Inc. All Rights Reserved.</div>
 			<div class="copy_soft">Reproduction in whole or in part in any form or medium without express written permission of TopTenREVIEWS, Inc. is prohibited</div>
 		</div>
 	</div><!--Closes portal_body-->
@@ -389,20 +492,19 @@ pageTracker._trackPageview();
         <area title="Music" shape="rect" coords="702,36,800,62" href="http://music.toptenreviews.com/" alt="Music reviews" />
         <area title="Video Games" shape="rect" coords="800,36,898,62" href="http://games.toptenreviews.com/" alt="Video Games reviews" />
     </map>-->
-			<map id="tabsmap" name="tabsmap">
-        <area title="Home" shape="rect" coords="0,0,215,66" href="http://www.toptenreviews.com/" alt="TopTenReviews Home">
-    <area title="shop" shape="rect" coords="655,14,768,32" href="http://toptenreviews.pgpartner.com/" rel="nofollow" alt="shop">
-    <area title="rebates" shape="rect" coords="790,14,850,32" href="http://toptenreviews.pgpartner.com/home_rebates.php" rel="nofollow" alt="rebates">
-    <area title="Software" shape="rect" coords="225,35,319,65" href="http://software.toptenreviews.com/" alt="Software reviews">
-    <area title="Electronics" shape="rect" coords="319,35,410,65" href="http://electronics.toptenreviews.com/" alt="Electronic reviews">
-    <area title="Web Services" shape="rect" coords="410,35,504,65" href="http://web-services.toptenreviews.com/" alt="Web Services reviews">
-    <area title="Mobile" shape="rect" coords="504,35,598,65" href="http://mobile-technology.toptenreviews.com/" alt="Mobile">
-    <area title="Movies" shape="rect" coords="598,35,690,65" href="http://movies.toptenreviews.com/" alt="Movies reviews">
-    <area title="Music" shape="rect" coords="690,35,784,65" href="http://music.toptenreviews.com/" alt="Music reviews">
-    <area title="Video Games" shape="rect" coords="784,35,876,65" href="http://games.toptenreviews.com/" alt="Video Games reviews">
-    <area title="Holiday" shape="rect" coords="876,35,968,65" href="http://toptenreviews.com/holiday/" alt="Holiday">
+			&lt;<map id="holidaytabsmap" name="holidaytabsmap">
+        <area title="Home" shape="rect" coords="16,2,260,60" href="http://www.toptenreviews.com/" alt="TopTenReviews Home">
+<area title="shop" shape="rect" coords="657,12,777,35" href="http://toptenreviews.pgpartner.com/" rel="nofollow" alt="shop">
+<area title="rebates" shape="rect" coords="786,12,855,35" href="http://toptenreviews.pgpartner.com/home_rebates.php" rel="nofollow" alt="rebates">
+<area title="Software" shape="rect" coords="268,42,367,68" href="http://software.toptenreviews.com/" alt="Software reviews">
+<area title="Electronics" shape="rect" coords="368,42,464,68" href="http://electronics.toptenreviews.com/" alt="Electronic reviews">
+<area title="Web Services" shape="rect" coords="465,42,562,68" href="http://web-services.toptenreviews.com/" alt="Web Services reviews">
+<area title="Mobile" shape="rect" coords="563,42,660,68" href="http://mobile-technology.toptenreviews.com/" alt="Mobile Technology reviews">
+<area title="Movies" shape="rect" coords="661,42,758,68" href="http://movies.toptenreviews.com/" alt="Movies reviews">
+<area title="Music" shape="rect" coords="759,42,856,68" href="http://music.toptenreviews.com/" alt="Music reviews">
+<area title="Video Games" shape="rect" coords="857,42,955,68" href="http://games.toptenreviews.com/" alt="Video Games reviews">
 
-			</map>				
+    </map>				
 <!-- Tacoda tag -->
 <script language="JavaScript">var tcdacmd="dt";</script>
 <script src="http://an.tacoda.net/an/16724/slf.js" language="JavaScript"></script>
@@ -410,7 +512,7 @@ pageTracker._trackPageview();
 <div id="ad_swap_1" style="display:none">
         <script language="JavaScript1.1">
 document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/b.site2_006.opus/homepage-other;dcopt=ist;abr=!webtv;tile=1;sz=728x90;ord=' + ord + '?"></scr'+'ipt>');
-</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/b.site2_006.opus/homepage-other;dcopt=ist;abr=!webtv;tile=1;sz=728x90;ord=508336064624032450?"></script>
+</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/b.site2_006.opus/homepage-other;dcopt=ist;abr=!webtv;tile=1;sz=728x90;ord=732321465204457200?"></script>
 <script>
 <!--
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
