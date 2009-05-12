@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021021id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512155714id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com at Hollywood.com
 
@@ -49,7 +49,7 @@ This site gives users the following options for removing their information from 
   * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
   * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
   * Users can send mail to the following postal address: 2255 Glades Road. Suite 221A, Boca Raton, Florida 33431 
-  * Users can call the following telephone number: (561) 998-8000
+  * Users can call the following telephone number: (561) 322-3449
 
  **Correct/Update – Your ability to update your information.**
 
@@ -60,7 +60,7 @@ The site gives users the following options for changing and modifying informatio
   * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
   * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
   * Users can send mail to the following postal address: 2255 Glades Road, Suite 221A, Boca Raton, Florida 33431
-  * Users can call the following telephone number: (561) 998-8000. 
+  * Users can call the following telephone number: (561) 322-3449. 
   * This policy may change from time to time so please check back periodically. 
 
 
