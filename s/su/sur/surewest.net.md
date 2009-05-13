@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the surewest.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008165138id_/http%3A//www.surewest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.net privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513021956id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - SureWest Communications
+# SureWest - Privacy Policy
 
-## SureWest Communications Privacy Policy 
+****
 
 **Our commitment to privacy**
 
-The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies, including SureWest Communications, SureWest Broadband, SureWest Directories, SureWest Foundation, SureWest Internet, SureWest Wireless, Roseville Long Distance, Roseville Telephone Company and its divisions (Roseville Telephone Company Payphones, Roseville Telephone Museum).
+The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies. 
 
 The policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
@@ -14,7 +14,7 @@ The policy is designed to assist you in understanding how we collect, use and sa
 
 When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our website.
 
-### 1\. Personal information you choose to provide
+**1\. Personal information you choose to provide**
 
 **Credit card information**
 
@@ -33,7 +33,7 @@ This section applies when online credit card payment options are available throu
 
 If you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-### 2\. Website use information
+**2\. Website use information**
 
 Similar to other commercial websites, our website may utilize a standard technology called "cookies" (see explanation below: What are cookies?) and web server logs to collect information about how our website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and after our website. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
@@ -49,13 +49,15 @@ Cookies are a standard feature of web browser software that allow web servers to
 
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our website as they move from one page to another; this helps us improve our navigation and make it easier for you to find things. Web server logs allow us to count how many people visit our website and evaluate our website's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information about you, although they do permit us to display information or advertisements most likely to be of interest to you. 
 
-**Sharing information with affiliates**
+**  Sharing information with affiliates**
 
-We do not currently host advertising for outside companies on our website. However, we may decide sometime in the future to display notices or advertisements from outside companies on our website. In that event, we will take commercially reasonable measures to select product or service providers that appear to be responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies, and we do not warrant their products or services.
+Where not prohibited by law, and normally where a customer has accounts with more than one of our affiliates, we may share information across affiliates to better assist us in providing services to you.  With some affiliates, we may provide for written permission to do so in our contract with you.  Our contracts for some services may be somewhat more restrictive.  We seek to comply with all applicable laws, rules and regulations in this area.  
 
 **No sharing of information with third parties**
 
-We do not sell, trade or disclose to third parties any customer identifiable information derived from the registration for or use of our online services (including customer names and addresses) without your consent (except as required by subpoena, search warrant or other legal process, or in the case of imminent physical harm to yourself or others). When we use other agents, contractors or companies to perform services on our behalf, we will ensure that the company protects your customer identifiable information consistent with this policy.
+We do not sell, trade or disclose to third parties any customer identifiable information derived from the registration for or use of our online services (including customer names and addresses) without your consent (except as required by subpoena, search warrant or other legal process, or to help you in the case of potential harm to you or members of your household, or in other exceptional cases where we conclude in our discretion that such disclosure would be acceptable to you.)  Again, in some cases, our contracts for some services may be more restrictive.  When we use other agents, contractors or companies to perform services on our behalf, we advise them that they are to protect confidential information and not disclose it except in limited circumstances.  Again, we seek to comply with all applicable laws, rules and regulations in this area.
+
+Some of the pages on our site may contain links to other sites and to other companies.  When you click on those links, you will be connected to pages that are on another site, operated by another entity, and not subject to SureWest's site policies.  If you do business with one of these other companies, you will be providing information directly to that firm, and your relationship will be exclusively with that firm, not with SureWest.  Any information you provide to that firm will be subject to their information disclosure and other policies.  We cannot make any representations about the practices and policies of these companies, and we do not warrant their products or services.
 
 **Notice of new services and changes**
 
@@ -103,5 +105,3 @@ Please remember that when you use a link to go from our website to another websi
 **Your consent**
 
 By using our website you consent to our collection and use of your personal information as described in this privacy policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-Top of page
