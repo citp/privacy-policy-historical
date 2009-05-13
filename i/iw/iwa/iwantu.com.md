@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111446id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513025301id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
 
 # Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
