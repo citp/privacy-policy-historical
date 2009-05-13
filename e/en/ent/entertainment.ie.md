@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913050105id_/http%3A//entertainment.ie/sundry/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513044829id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie Ireland
 
@@ -17,10 +17,6 @@ entertainment.ie does not collect any personal data about you on this website, a
 #### Listings
 
 If you send us listings information for your events we will post those details on our website and share those details with our content partners 
-
-#### AdEvent
-
-If you register for AdEvent and pay to highlight your event, we require you to give us additional details such as your type of business, contact telephone numbers etc.
 
 #### Collection and use of technical information
 
