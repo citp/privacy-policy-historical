@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062200id_/http%3A//1-language.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513072221id_/http%3A//www.1-language.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Learn English - Learn English as a Second Language - ESL
+
+Privacy Policy for www.1-language.com 
+
+At 1-language.com, the privacy of our visitors is extremely important to us. This privacy policy document outlines the types of personal information received and collected by 1-language.com and how these bits of information are used. 
+
+**Log Files**
+
+Like many other Web sites, 1-language.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Cookies and Web Beacons**
+
+This website uses cookies to store information about visitor's preferences, record user-specific information on which pages the user accesses or visits, and/or customize Web page content based on the visitor's browser type or other information that the visitor sends via his or her browser. 
+
+**DoubleClick DART Cookie**
+
+.:: Google, as a third party vendor, uses cookies to serve ads on our site.  
+.:: Google's use of the DART cookie enables it to serve ads to our users based on their visit to 1-language.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+We use third-party ad networks to serve advertisements on this site. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+This website has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
   
 This privacy statement covers the site www.1-language.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.
