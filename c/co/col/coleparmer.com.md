@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913173307id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513085337id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
 
 # Cole-Parmer: Privacy Statement
 
-Privacy Policy Statement                  Effective: February 1, 2008
+Privacy Policy Statement                  Effective: February 1, 2009
 
 This is the Web site of  
 **Cole-Parmer**  
@@ -18,6 +18,8 @@ At Cole-Parmer, we understand your concerns about online security and privacy. A
 
 What Information Do We Collect?   
 When you visit ColeParmer.com, we'll be collecting various types of information from you. If you place an order from our site, we'll need to collect your shipping and billing information. Cole-Parmer will also be collecting data from all site visitors such as IP name, domain name, web page, length of time spent at the site and pages accessed while visiting the site, but not the e-mail address. We collect the e-mail address of visitors only via information volunteered by you, such as survey information, catalog requests, and/or site registrations. This information is collected for statistical purposes and to help with the administration and improvement of the site. 
+
+Also, we work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please click here. Visit the Network Advertising Initiatives Opt-Out by clicking here.
 
 Cole-Parmer also reserves the right to retain the content of any questions or comments that are sent to our employees. This information will be used to help improve responses to future questions. For international customers, information may be shared with our international dealers.
 
