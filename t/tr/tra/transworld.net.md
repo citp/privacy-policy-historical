@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transworld.net privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210140504id_/http%3A//transworld.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworld.net privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513101020id_/http%3A//transworld.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transworld
 
