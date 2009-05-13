@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913173307id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2009-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090513085337id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Cole-Parmer: Privacy Statement</title>
@@ -52,126 +52,6 @@ function gotoShoppingCart() {
 <div class="topHeaderbar">
 <div class="topHeader">
 
-<script language="JavaScript">
-function deleteQlistItem(theListID , targetSKU)
-{
-	if (confirm("Are you sure you want to delete this product from your list?"))
-	{
-		document.location = "/catalog/mycp/mycp_quick_list_item_delete.asp?QList=" + theListID + "&SKU=" + targetSKU;
-	}
-}
-</script>
-
-<script language="javascript">
-function Wlinkup() 
-{
-	var sRefNo
-	var sQNbr
-	var sAccNo
-	var sUrl
-	var sRecCount
-	var sQuoteNo
-	var sQuotezip
-	var sLoc = '';
-	
-	if (document.getElementById("cboDetails") != undefined)
-	  {
-		sRefNo = document.frmDropDown.cboDetails.options[document.frmDropDown.cboDetails.selectedIndex].text;
-	  } 	
-	else
-	  {
-		sRefNo = 'No Order'
-	  }
-	  	
-	if (document.getElementById("cboQuote") !=  undefined)
-	  {	
-		sQNbr = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].text;
-	  } 
-	else
-	  {
-	    sQNbr = 'Select a Quote'
-	  }  
-	  	
-	if ((sRefNo == 'Web Orders.........') && (sQNbr == 'Select a Quote'))
-	  {
-		sRefNo = '';
-		sQNbr = '';
-		alert("Please select a Web Order or a Quote, then click the GO button.");
-	  }
-	else
-	 {
-	 
- 	  if ((sRefNo == 'No Order') && (sQNbr == 'Select a Quote'))
-		{
-			sRefNo = '';
-			sQNbr = '';
-			alert("Please select a Quote, then click the GO button.");
-		}
-      else
-		{
-			if ((sRefNo == 'Web Orders.........') ||(sRefNo == 'No Order'))
-				{
-					sRefNo = '';
-				}
-				
-			if (document.getElementById("cboDetails") != undefined)
-				{
-					sAccNo = document.getElementById("cboDetails").options[document.getElementById("cboDetails").selectedIndex].value;
-					sNo = document.frmDropDown.cboDetails.selectedIndex;
-				}
-			else
-				{
-					sAccNo = 0;
-					sNo = 0;	
-				}	
-
-			sUrl = document.getElementById("hdnUrl").value;
-			sRecCount = document.getElementById("hdnRecCount").value;
-	
-			if (sRefNo != undefined)
-				{ 
-					document.getElementById("hdnRefNo").value = sRefNo;
-				}
-			else
-				{
-					document.getElementById("hdnRefNo").value = 0;
-				}	
-	
-			if (sAccNo != undefined)
-				{
-					document.getElementById("hdnAccNo").value = sAccNo;
-				}
-			else
-				{
-					document.getElementById("hdnAccNo").value = 0;
-				}	
-		
-			document.getElementById("hdnRecNo").value = sNo;
-	
-			sQuoteNo = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].text;
-			sQuotezip = document.getElementById("cboQuote").options[document.getElementById("cboQuote").selectedIndex].value;
-			document.getElementById("Quote").value = sQuoteNo
-			document.getElementById("cboQuote").value = sQuotezip
-		
-			if (sRefNo == '')
-			 {
-				//sLoc = "Quote_details.asp"
-				//document.frmDropDown.action = sLoc;
-				//document.frmDropDown.submit();
-				parent.location = "https://www.coleparmer.com/catalog/mycp/Quote_details.asp?Quote=" + sQuoteNo;
-			 }
-			else
-			 {
-				sLoc = "https://www.coleparmer.com/catalog/mycp/my_order_details.asp";
-				document.frmDropDown.action = sLoc;
-				document.frmDropDown.submit();
-			 }
-		}
-	}
-}
-
-</script>
-
 	<link rel="STYLESHEET" href="/catalog/includes/cp_style.css" type="text/css">
 	<link rel="STYLESHEET" href="/catalog/includes/layout.css"> 	 
 
@@ -200,9 +80,22 @@ function Wlinkup()
     
 
 	    <tbody><tr>
-	    
-		 
-	      <td class="iMainNavTitle" nowrap=""></td>
+	     
+	      <td nowrap="">
+	      
+<!-- BoldChat Live Chat Button HTML v1.20 (Type=HTML,ChatButton=My Chat Button,ChatWindow=Apps and CS Chat,Website=Coleparmer.com,Department=Applications) -->  
+<a href="http://livechat.boldchat.com/aid/3454673712453819773/bc.chat?cwdid=1466460158077267709&amp;wdid=3480086117925049250&amp;rdid=4278203832364788555&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;curl=" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/3454673712453819773/bc.chat?cwdid=1466460158077267709&amp;wdid=3480086117925049250&amp;rdid=4278203832364788555&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;curl=&amp;url=' + escape(document.location.href), 'Chat3511711064018668393', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;"><script language="JavaScript" type="text/javascript"><!--  
+document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/3454673712453819773/bc.cbhs?wdid=3480086117925049250&amp;rdid=4278203832364788555"></scr' + 'ipt>');  
+//-->  
+</script><script language="JavaScript" type="text/javascript" src="https://cbi.boldchat.com/aid/3454673712453819773/bc.cbhs?wdid=3480086117925049250&amp;rdid=4278203832364788555"></script><script language="JavaScript" type="text/javascript"><!--  
+bt_showChatHTML('Need Help? Let\'s Chat.','');  
+//-->  
+</script><noscript>Need Help? Let's Chat.</noscript></a>  
+<!-- /BoldChat Live Chat Button HTML v1.20 -->  
+
+<br>
+	       
+	       <span class="iMainNavTitle"></span></td>
 	      
 	      
 	      <td>&nbsp;
@@ -245,7 +138,7 @@ function Wlinkup()
 			</noscript>
 			<!--End 0f Vidi Emi Oculus -->
 		
-        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=50217735DCE84193A3A4A40F71696E96&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=">
+        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=65BBB8085AA54017BA9803F136FED30D&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=">
 	
 
 		   </td>
@@ -278,8 +171,8 @@ function Wlinkup()
 	
   	      <td valign="center" align="left" nowrap="">
 	        <img src="/catalog/images/clear.gif" height="1" width="5">
-			<a class="TinyTextBlue" href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)"><img src="/catalog/images/login-icon_15-14.gif" height="14" width="15" alt="Login" border="0"></a>
-		    <span class="TinyTextBlue"><a href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)">Login</a></span>
+			<a class="TinyTextBlue" href="/catalog/login.asp"><img src="/catalog/images/login-icon_15-14.gif" height="14" width="15" alt="Login" border="0"></a>
+		    <span class="TinyTextBlue"><a href="/catalog/login.asp">Login</a></span>
 		  </td>
 	  	  
 	
@@ -292,11 +185,11 @@ function Wlinkup()
 		  </tr>
 		 
 		  <tr>
-			  
+					  
 		  <td colspan="2" align="left" nowrap="">
     		   <img src="/catalog/images/clear.gif" height="1" width="5">
     		   
-				<span class="TinyText">New Customer?</span>&nbsp;<span class="TinyText"><a href="/catalog/mycp/mycp_account_info_edit.asp">Register</a></span>
+				<span class="TinyText">New Customer?</span>&nbsp;<span class="TinyText"><a href="https://www.coleparmer.com/catalog/mycp/mycp_account_info_edit.asp">Register</a></span>
 			  	
 		  </td>	
 		
@@ -306,7 +199,7 @@ function Wlinkup()
 									
 	  <td width="35" nowrap="">
 	  
-				<a href="javascript:openPopWin('/catalog/MyCP/gate.asp',400,400)"><img src="/images/CountryFlags/flag_USA_35-281.gif" width="35" height="28" border="0"></a>
+				<a href="/catalog/login.asp"><img src="/images/CountryFlags/flag_USA_35-281.gif" width="35" height="28" border="0"></a>
 				
 	</td>
 									   
@@ -317,11 +210,13 @@ function Wlinkup()
 
 <table width="740" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
-     <td valign="top" width="167" align="right">
-       <form name="frmiMainNavSearch" class="iMainNavSearchForm" action="javascript:runiMainNavSearch()" method="get">
- 		<input id="SearchFormInput" type="text" name="search" size="18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="2" id="image1" name="image1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <td valign="top" width="150" align="right">
+       <form name="frmiMainNavSearch" class="iMainNavSearchForm" action="javascript:runiMainNavSearch('http://www.coleparmer.com')" method="get">
+ 		<input id="SearchFormInput" type="text" name="search" size="18"><br style="height:2px">
+    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="2" id="image1" name="image1">
 	   </form>
+	 </td>
+	 <td width="17">
 	 </td>
 	
 	 <td>		
@@ -416,66 +311,29 @@ function Wlinkup()
 <div class="leftsidebar">
 <table><tbody><tr><td nowrap="">
 
-
-<script language="javascript"> 
+<script language="JAVASCRIPT">
 function addToBigForm()
 {
-	sLoc = "http://www.coleparmer.com/catalog/catalog_quick_add.asp"
+	sLoc = "http://www.coleparmer.com/catalog/catalog_quick_add.asp";
 
 	document.frmOPad.action = sLoc;
 	document.frmOPad.submit();
 }
-   
-function addToCart1() 
-        {
-        var sku
-        var qty
-        var ans
-        if (document.frmOPad.txtSku1.value != ""){
-		sku = document.frmOPad.txtSku1.value;
-		qty = document.frmOPad.txtQty1.value;
-		if (qty =="" || qty =="0"){
-		qty = "1";
-		}
-		ans = addProductToCart(sku,qty)
-     }   
-      if (document.frmOPad.txtSku2.value != ""){
-		sku = document.frmOPad.txtSku2.value;
-		qty = document.frmOPad.txtQty2.value;
-		if (qty =="" || qty =="0"){
-		qty = "1";
-		}
-		ans = addProductToCart(sku,qty)
-        
-     }   
-     if (document.frmOPad.txtSku3.value != ""){
-		sku = document.frmOPad.txtSku3.value;
-		qty = document.frmOPad.txtQty3.value;
-		if (qty =="" || qty =="0"){
-		qty = "1";
-		}
-		ans = addProductToCart(sku,qty)
-        
-     } 
-     if(ans)
-		{
-            window.document.location="/catalog/view_cart.asp"
-		}  
-}
 
-function addsmallorder(){
-	 if (document.frmOPad.txtSku1.value == "" &&
+function addsmallorder()
+{
+	if (document.frmOPad.txtSku1.value == "" &&
 		document.frmOPad.txtSku2.value == "" &&
 		document.frmOPad.txtSku3.value == "")
-		{
+	{
 		alert("Please enter at least 1 sku.");			
         }
-     else {
-	 document.frmOPad.hdnPageAction.value = "Insertorder"
+     else 
+	{
+	 document.frmOPad.hdnPageAction.value = "Insertorder";
 	 document.frmOPad.action = 'http://www.coleparmer.com/catalog/Processcart.asp';
 	 document.frmOPad.submit();
-     }
-      
+     	}     
 }
 </script>
 
@@ -547,7 +405,7 @@ function addsmallorder(){
 <br><a href="http://www.coleparmer.com/catalog/MyCP/mycp_account_info_express.asp"><img src="/catalog/images/btn-side-xpressreg_125-28.jpg" width="125" height="28" border="0"></a><br><a href="http://www.coleparmer.com/requests/default.asp"><img src="/catalog/images/btn-side-catalogsUS_125-28.jpg" width="125" height="28" border="0"></a><br><a href="http://www.coleparmer.com/promotions/promotions.asp"><img src="/catalog/images/btn-side-offersUS_125-28.jpg" width="125" height="28" border="0"></a>  
 	 <center>
  	 <img src="/catalog/images/white-rule_154-1.gif" width="154" height="1">
-<br><img src="/catalog/images/feedback_icon2.gif" border="0"> <a href="http://www.coleparmer.com/contact/feedback/feedb_entry.asp">Feedback</a><br>
+
 	 </center>
     </td>
 </tr>
@@ -558,10 +416,36 @@ function addsmallorder(){
 
 <div class="maincontent">
 
-<link href="cp_style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+	window.onerror=null;
+	var popWin = null;
+    
+	function openPopWin(URL){
+		//***** close any previously opened pop-up window
+		closePopWin()
+
+		//***** Adjust the following window.open parameters to suit the application requirements
+		popWin = window.open(URL,'relSite','toolbar=yes,location=yes,scrollbars=yes,resizable,width=700,height=600');
+	}
+
+	//***** Call this function from the BODY onfocus event to close any previously opened pop-up windows
+	function closePopWin() {
+		if(popWin != null) { 
+			if(!popWin.closed) { 
+				popWin.close()
+				popWin = null
+			} else {
+				popWin = null
+			}
+		}
+	}
+    
+</script>
+
+
 <table width="560">
 <tbody><tr><td>
-<span class="XLargeTextDarkBlue">Privacy Policy Statement</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="TinyTextBlack">Effective: February 1, 2008</span><br>
+<span class="XLargeTextDarkBlue">Privacy Policy Statement</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="TinyTextBlack">Effective: February 1, 2009</span><br>
 <br>
 This is the Web site of<br>
 <b>Cole-Parmer</b><br>
@@ -580,6 +464,21 @@ or you can reach us by telephone at 1-800-323-4340. <br>
 
 When you visit ColeParmer.com, we'll be collecting various types of information from you. If you place an order from our site, we'll need to collect your shipping and billing information. Cole-Parmer will also be collecting data from all site visitors such as IP name, domain name, web page, length of time spent at the site and pages accessed while visiting the site, but not the e-mail address. We collect the e-mail address of visitors only via information volunteered by you, such as survey information, catalog requests, and/or site registrations. This information is collected for statistical purposes and to help with the administration and improvement of the site. <br>
 <br>
+Also, we work with FetchBack to display Retargeted ads to
+our site prospects, on our behalf, across the Internet.
+They collect Non-Personally Identifiable Information
+about your visits to our Website, and your interaction
+with our products and services. The anonymous
+information is collected through the use of a pixel tag,
+which is industry standard technology used by most
+major web sites. No Personally Identifiable Information
+is collected during in this process. To read FetchBack’s
+  Privacy Policy, <a href="javascript:OpenNewWindow('http://www.fetchback.com/privacy.html')" title="Fetchback privacy">click here</a>. If you do not want FetchBack
+  to collect this information, you may opt out of their
+  service. Opting out will not in any way effect your use of
+  our site. To Opt-Out, of FetchBack Retargeting, please <a href="javascript:OpenNewWindow('http://www.fetchback.com/optout.html')">click here</a>. Visit the Network Advertising Initiatives Opt-Out by <a href="javascript:OpenNewWindow('http://www.networkadvertising.org/managing/opt_out.asp')">clicking here</a>.<br>
+<br>
+
 Cole-Parmer also reserves the right to retain the content of any questions or comments that are sent to our employees. This information will be used to help improve responses to future questions. For international customers, information may be shared with our international dealers.</p>
 
 <p><span class="BasicTextBold">What is this Information Used For?</span> <br>
@@ -603,20 +502,32 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 </tr>
 </tbody></table>
 
+<script>
+ function utmx_section(){}function utmx(){}  (function(){var k='2857142624',d=document,l=d.location,c=d.cookie;function
+ f(n){
+ if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return  c.substring(i+n.
+ length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+ d.write('<sc'+'ript src="'+
+ 'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
+ +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
+ +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+ '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+ </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2857142624&amp;utmx=&amp;utmxx=&amp;utmxtime=1580362286502" type="text/javascript" charset="utf-8"></script>
+
 	<table cellpadding="0" cellspacing="0" border="0" width="560"> 
 	<tbody><tr>
 	<td align="center" colspan="2">
 	<img src="/catalog/images/1-pxl_99ccff.gif" width="560" height="1">
 	</td></tr>
-	<tr><td colspan="2">&nbsp;</td></tr>
-	<tr><td align="center" nowrap="" colspan="2">
+	
+	<tr><td align="center" nowrap="" colspan="2" valign="middle" height="30">
 	<div class="Footer">
 	<a href="http://www.coleparmer.com/privacy.asp">Privacy</a>&nbsp;&nbsp;|&nbsp;
 	<a href="http://www.coleparmer.com/dealers/terms/19_terms.asp">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;
-	<a href="http://www.coleparmer.com/employment/jobs.asp">Careers@Cole-Parmer</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/dealers/terms/return-policy-general.asp">Returns</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.coleparmer.com/employment/jobs.asp">Careers</a>&nbsp;&nbsp;|&nbsp;
 	<a href="http://www.coleparmer.com/press_release/PressreleaseList.asp">Press Releases</a>&nbsp;&nbsp;|&nbsp;
-	<a href="http://www.coleparmer.com/catalog/help/sitemap.asp">Site Map</a>
-	</div>
+	<a href="http://www.coleparmer.com/catalog/help/sitemap.asp">Site Map</a>	</div>
 	</td></tr>
 	<tr><td valign="top" align="center" colspan="2">
 	<img src="/catalog/images/1-pxl_99ccff.gif" width="560" height="1">
@@ -647,7 +558,7 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 		<a href="mailto:info@coleparmer.com" class="SmallTextBlue">
 		info@Coleparmer.com</a><br>
 		<br>
-		Copyright © 2008
+		Copyright © 2009
 	    </span>
 	    </p>
 	    </td>
@@ -658,8 +569,11 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 	 <td valign="top">
 	  <table cellpadding="0" cellspacing="0" border="0" width="300"> 
 	   <tbody><tr>
-	    <td colspan="3" valign="top" class="SmallTextBold">
+	    <td colspan="2" valign="top" class="SmallTextBold">
 		 Cole-Parmer Sites
+		</td>
+		<td align="center" valign="top" nowrap="">
+			<a href="/contact/feedback/feedb_entry.asp"><img src="/catalog/images/feedback_icon1.gif" border="0"></a><a>&nbsp;</a><a href="/contact/feedback/feedb_entry.asp">Feedback</a>
 		</td>
 	   </tr>
 	   <tr><td colspan="3" height="7"></td></tr>   
@@ -691,13 +605,14 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 		</td>
 		
 		<td>
-			<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+			<table width="135" border="0" cellpadding="2" cellspacing="0">
 			<tbody><tr>
 			<td width="135" align="center" valign="top">
 			<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.coleparmer.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.coleparmer.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 
+            <span title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 			<script src="https://seal.verisign.com/getseal?host_name=www.coleparmer.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
-			<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+			<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></span></td>
 			</tr>
 			</tbody></table>
 		
@@ -729,6 +644,19 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 
 	</tr> 
 	</tbody></table>
+	<script>utmx_section("Fetchback_Pixel")</script>
+ 
+ <script>
+ if(typeof(urchinTracker)!='function')document.write('<sc'+'ript src="'+  'http'+(document.location.protocol=='https:'?'s://ssl':'://www')+
+ '.google-analytics.com/urchin.js'+'"></sc'+'ript>')
+ </script><script src="https://ssl.google-analytics.com/urchin.js"></script>
+ <script>
+ try {
+ _uacct = 'UA-6910405-1';
+ urchinTracker("/2857142624/test");
+ } catch (err) { }
+ </script>
+
 
 
 </div>
