@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutritiondata.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165111id_/http%3A//www.nutritiondata.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritiondata.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514002803id_/http%3A//www.nutritiondata.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – NutritionData.com
 
 Kids and parents click here!
 
-The following Privacy Policy summarizes the various ways that **CondeNet** ("Service Provider," "we" or "our") treats the information you provide while using **www.nutritiondata.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that **Condé Nast Digital** ("Service Provider," "we" or "our") treats the information you provide while using **www.nutritiondata.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **[http://www.nutritiondata.com/help/privacy](https://web.archive.org/help/privacy). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
@@ -22,7 +22,7 @@ Our servers may also automatically collect information about your computer when 
 
 Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
-Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact your Privacy Policy Coordinator as described below with your changes or [click here](http://www.condenet.com/emailform/optOut/entry) to be removed from all CondeNet mailing lists.
+Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact your Privacy Policy Coordinator as described below with your changes or [click here](http://www.condenet.com/emailform/optOut/entry) to be removed from all Condé Nast Digital mailing lists.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
 
@@ -56,11 +56,12 @@ If you're worried about your children's activities or their privacy on our site,
 
 **VI.     PRIVACY POLICY COORDINATOR**
 
-To be removed from all CondeNet email lists, [click here](http://www.condenet.com/emailform/optOut/entry)
+To be removed from all Condé Nast Digital email lists, [click here](http://www.condenet.com/emailform/optOut/entry)
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 > **Privacy Policy Coordinator  
->  CondeNet  
->  1166 Avenue of the Americas, 15th Floor  
->  New York, NY 10036**
+>  The Condé Nast Publications  
+>  1313 Market Street  
+>  Wilmington, DE 19801  
+>  [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com)**
