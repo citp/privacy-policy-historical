@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152255id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513052436id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -105,15 +105,16 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some case where we post a notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
 I.T. Dept  
 541-474-1776  
 privacy@worldnetdaily.com  
 WorldNetDaily.com, Inc.  
-PO Box 1627  
-Medford, OR 97501
+2020 Pennsylvania Ave NW, #351  
+Washington, DC 20006
 
-_Privacy statement updated Aug. 5, 2004._
+ _Privacy statement updated April 14, 2009._
 
 * * *
 
