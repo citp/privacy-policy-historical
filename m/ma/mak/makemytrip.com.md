@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112920id_/http%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513083457id_/http%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MakeMyTrip.com
 
-|  | 
-
- [Sign in ](http://www.makemytrip.co.in/makemytrip/signin.do?toPage=signinPage) | [Register](http://www.makemytrip.co.in/makemytrip/registration.do?toPage=registrationPage) | [Print E-Ticket](http://www.makemytrip.co.in/makemytrip/eticket.do?frompage=home) | [Feedback](https://web.archive.org/support/feedback.html)  
-  
+|  |   
 ---|---  
-|  | [CONTACT US](https://web.archive.org/support/contact_us.html)  
+   
 ---  
 |   
 ---  
