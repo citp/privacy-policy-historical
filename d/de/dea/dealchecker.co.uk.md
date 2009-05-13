@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004110id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513042913id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # dealchecker.co.uk - Privacy Policy
 
