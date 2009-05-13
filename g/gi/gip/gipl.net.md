@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gipl.net privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005013518id_/http%3A//www.gipl.net/privacy_legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gipl.net privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513090647id_/http%3A//www.gipl.net/privacy_legal.php) for the most accurate reproduction.*
 
 # Guj Info Petro Limited (GIPL)
 
