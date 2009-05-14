@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protolabs.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225231013id_/http%3A//www.protolabs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protolabs.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514234915id_/http%3A//www.protolabs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Proto Labs, Inc.
 
