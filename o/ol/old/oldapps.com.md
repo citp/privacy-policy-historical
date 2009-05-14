@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldapps.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216002353id_/http%3A//www.oldapps.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldapps.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514050050id_/http%3A//www.oldapps.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
 # OldApps.com - Privacy Policy
 
@@ -17,4 +17,4 @@ At OldApps.com we understand that privacy is important to you. We are committed 
 
 This site is supported by advertisements. If you click on any ads or on any outside links, OldApps.com is not responsible for privacy of such sites. We usually do not put any software that will take your information and deliver it to third party without your permission. By any chance if you notice such software please contact us immediately.
 
-Please note that our privacy policy may change time to time. If you have any question about this Privacy Statement please feel free to [contact us](https://web.archive.org/web/20081216002353id_/http%3A//www.oldapps.com/contact.php)
+Please note that our privacy policy may change time to time. If you have any question about this Privacy Statement please feel free to [contact us](https://web.archive.org/web/20090514050050id_/http%3A//www.oldapps.com/contact.php)
