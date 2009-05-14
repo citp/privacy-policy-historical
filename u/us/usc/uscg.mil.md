@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165426id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514195756id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.*
 
 # USCG: Privacy Policy
 
