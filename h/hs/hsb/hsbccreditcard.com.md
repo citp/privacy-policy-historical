@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbccreditcard.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061321id_/http%3A//www.hsbccreditcard.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbccreditcard.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514065713id_/http%3A//www.hsbccreditcard.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
@@ -269,7 +269,7 @@ Access to and use of password protected and/or secure areas of this website is r
 Top of Website Terms and Conditions  
 Back to Top
 
-Updates: These Terms and Conditions were last updated June 1, 2008. Please check periodically for changes.
+Updates: These Terms and Conditions were last updated May 1, 2009. Please check periodically for changes.
 
 Top of Website Terms and Conditions  
 Back to Top
