@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightbox.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912030207id_/http%3A//www.midnightbox.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightbox.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514080952id_/http%3A//www.midnightbox.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # MidnightBox.com :: Privacy Policy
 
@@ -28,12 +28,12 @@ MidnightBox.com will remain committed to protecting your privacy online. We may 
 
 #### Past Boxes
 
-  * [September, 10 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1021#1021)
-  * [September, 9 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1020#1020)
-  * [September, 8 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1019#1019)
-  * [September, 7 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1018#1018)
-  * [September, 6 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1017#1017)
-  * [September, 5 2008, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1016#1016)
+  * [May, 13 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1270#1270)
+  * [May, 12 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1269#1269)
+  * [May, 11 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1268#1268)
+  * [May, 10 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1267#1267)
+  * [May, 9 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1266#1266)
+  * [May, 8 2009, 12:00 AM EDT](https://web.archive.org/pastBoxes/listing/id/1265#1265)
 
 
 
