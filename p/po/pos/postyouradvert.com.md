@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121032303id_/http%3A//www.postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514025921id_/http%3A//postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# PostYourAdvert.Com - bringing the world to your doorstep
+# PostYourAdvert.Com - Free Advertising Free classifieds Free classified Ads Free Ads Free Internet advertising Free online advertising Email Advertising Online classifieds
 
 This policy tells you about how we use and protect your personal information
 
@@ -112,7 +112,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 ### Accessing, Reviewing and Changing Your Personal Information 
 
-You can see, review and change most of your personal information by signing on to PostYourAdvert. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ PostYourAdvert User Agreement](https://web.archive.org/web/20081121032303id_/http%3A//www.postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
+You can see, review and change most of your personal information by signing on to PostYourAdvert. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ PostYourAdvert User Agreement](https://web.archive.org/web/20090514025921id_/http%3A//postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
 
 ### Security 
 
@@ -136,4 +136,4 @@ Nigeria.
 
  or 
 
-using the [Contact Us](https://web.archive.org/web/20081121032303id_/http%3A//www.postyouradvert.com/OtherFiles/ContactUs.asp) form.
+using the [Contact Us](https://web.archive.org/web/20090514025921id_/http%3A//postyouradvert.com/OtherFiles/ContactUs.asp) form.
