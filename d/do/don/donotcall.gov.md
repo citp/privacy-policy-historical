@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204150210id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514195707id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
 
 # Federal Trade Commission
 
