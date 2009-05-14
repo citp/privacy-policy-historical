@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030827id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514072344id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
 
 # SnazzySpace.com - Privacy Policy!
 
@@ -78,4 +78,5 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 By using this site, you consent to the collection and use of this information by SNAZZYSPACE.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-[ ](http://www.snazzyspace.com/skinny-layouts/christmas/page/1 "Christmas Myspace Layouts")
+[ ](http://www.snazzyspace.com/image-effects/fluro-picture/ "Make a Fluro Scroller") [ ](http://www.snazzyspace.com/image-effects/image-animator/ "Animate your images") [ ](http://www.snazzyspace.com/image-effects/elektro-flasher/ "Make an Elektro Flasher")   
+[ ](http://www.snazzyspace.com/image-effects/fluro-flasher/ "Make a Fluro Flasher") [ ](http://www.snazzyspace.com/image-effects/black-white-flasher/ "Make a Black & White Flasher") [ ](http://www.snazzyspace.com/comment-graphics/post-it-notes/ "Make a Polaroid Picture")
