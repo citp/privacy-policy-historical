@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064818id_/http%3A//www.tgw.com/about/privacy-policy.jsp%3FCP%3DILC-SPIRA%26AD%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514235153id_/http%3A//www.tgw.com/about/privacy-policy.jsp%3FCP%3DILC-SPIRA%26AD%3DPrivacyPolicy%26ICID%3DFOOTER%3APrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TGW.com
 
