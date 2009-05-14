@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tigerairways.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035819id_/http%3A//www.tigerairways.com/home/privacy.php%3Fr%3DSGEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerairways.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514124934id_/http%3A//www.tigerairways.com/sg/en/privacy.php%3Fr%3DSGEN) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tiger Airways
 
-[Home](https://web.archive.org/web/20081217035819id_/http%3A//www.tigerairways.com/home/index.php) » Privacy Policy
+[Home](http://www.tigerairways.com/sg/en/index.php) » Privacy Policy
 
 This Privacy Policy statement outlines Tiger Airways' policy and responsibility in relation to the collection, processing and disclosure of your Customer Data. PART A refers to our general policy and PART B addresses Customer Data issues specific to usage on our 'websites'. 
 
