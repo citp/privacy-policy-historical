@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062058id_/http%3A//www.submitplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514050451id_/http%3A//www.submitplus.com/privacy.htm) for the most accurate reproduction.*
 
 # Submit Plus - 404 Page Not Found... Can I help!
 
