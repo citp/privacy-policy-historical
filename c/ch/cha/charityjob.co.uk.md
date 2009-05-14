@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215073723id_/http%3A//www.charityjob.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514082204id_/http%3A//www.charityjob.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy
 
 Under the Data Protection Acts of 1984 and 1998, we must comply with certain regulations which are designed to ensure that any data you provide to us is processed with due care and attention. 
 
