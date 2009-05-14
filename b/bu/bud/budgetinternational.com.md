@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetinternational.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222002651id_/http%3A//www.budgetinternational.com/budgetonline/terms.nsf/%28PrivacyStatement%29/472E7126C65AA1D0C1256E2E006DE799%21opendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinternational.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514041103id_/http%3A//www.budgetinternational.com/budgetonline/terms.nsf/%28PrivacyStatement%29/472E7126C65AA1D0C1256E2E006DE799%21opendocument) for the most accurate reproduction.*
 
 # Privacy Statement
 
