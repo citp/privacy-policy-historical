@@ -1,29 +1,31 @@
-<!--The following is the downloaded HTML source of the postyouradvert.com privacy policy that was archived on 2008-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081121032303id_/http%3A//www.postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postyouradvert.com privacy policy that was archived on 2009-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090514025921id_/http%3A//postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>PostYourAdvert.Com - bringing the world to your doorstep</title>
+<title>PostYourAdvert.Com - Free Advertising Free classifieds Free classified Ads Free Ads Free Internet advertising Free online advertising Email Advertising Online classifieds</title>
+<meta name="keywords" content="Free Advertising,Free Classifieds,Free Classified Ads,Free Ads,Classified Ads,Free Classified,Bulk Email Advertising,Opt In Email Marketing Services,Email Lists,Classified,Free Ad,Advertising Free,Classifieds,Classified Ad,Free Classified Ad,Site Promotion,Advertising For Free,Internet Marketing,Online Advertising,Online Marketing,Internet Advertising,Free Ads,Ads Free,Online Classifieds,Free Internet Advertising,Internet Ads,Internet Classified,Internet Classifieds,Internet Ad, advertise, advertize, classfied, advertisement, shopping, buy, sell, buy and sell, advert, adverts, post advert, post adverts, sales, for sale, product, products, service, services, shop, store, boost sales, increase sales, boost business, free advert, free adverts, free calssified, free advertisement, free advertizement, free advertising, free advertizing, online store, online stores, online shop, online shops, online shopping, electonics, housing, real estate, jobs, fairly used, tokunbo">
+<meta name="description" content="Join our free internet advertising and online classifieds ads portal today">
+<meta name="robots" content="noodp">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-79hUwzqKX-uhU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-79hUwzqKX-uhU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 <style>
 <!--
-p
-	{margin-right:0in;
-	margin-left:0in;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	}
 h1
 	{margin-right:0in;
 	margin-left:0in;
 	font-size:24.0pt;
 	font-family:"Times New Roman";
 	font-weight:bold}
- p.MsoNormal
-	{mso-style-parent:"";
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	margin-left:0in; margin-right:0in; margin-top:0in}
 h3
 	{margin-right:0in;
 	margin-left:0in;
@@ -32,23 +34,147 @@ h3
 	font-weight:bold}
 -->
 </style>
-</head>
+<script type="text/javascript">
+	function validateForm2()
+	{
+		var txtEmail_ = document.Form1.txtEmail_
+		var txtPassword_ = document.Form1.txtPassword_
 
-<body>
+		var strEmail=txtEmail_.value
+		var strPassword=txtPassword_.value
+		
+		if(!strEmail)
+		{
+			alert('you have omitted the email address.');
+			txtEmail_.focus();
+			return false;
+		}
+		if(!strPassword)
+		{
+			alert('you have omitted the password.');
+			txtPassword_.focus();
+			return false;
+		}
+		
+		var emailRegEx = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if(!strEmail.match(emailRegEx))
+		{
+			alert('you have entered an invalid email address.');
+			txtEmail_.focus();
+			return false;
+		}
+	}
+</script></head>
 
-<h1>PostYourAdvert.com Privacy Policy</h1>
-<form>
-	<p>This policy tells you about how we use and protect your personal 
+<body bgcolor="#3399FF">&lt;%on error resume next%&gt;
+<!-- #include file="DIVEITgUmFuZG9tSVaajR/LXO4mm8FO-BEShM2E8344.asp" -->
+<!-- #include file="DIVEITgUmFuZG9tSVaajR/EXO4mm8FO-BEShM2E8C6B.asp" -->
+<!-- #include file="DIVEITgUmFuZG9tSVaajR/Functions3.asp" -->
+&lt;%
+	If request.form("cmdLogin_") = "Log In" Then			
+		strEmail=request.form("txtEmail_")			
+		strPassword=request.form("txtPassword_")
+		if strEmail="" then
+			response.write "You have omitted the Email":response.end
+		end if
+		if strPassword="" then
+			call error("You have omitted the Password")
+		end if
+		strPassword=EncryptPassword(strPassword)
+
+		strSQLQuery = "SELECT * from tbl4_Members where (Memberstatus is null or Memberstatus='') and Email='" &amp; strEmail &amp; "'"
+		If rs.State &lt;&gt; 0 Then rs.Close
+		rs.Open strSQLQuery, conn, 3, 3					
+		if rs.Eof then
+			call error("You have entered an incorrect Email")
+		end if
+				
+		strSQLQuery = "SELECT * from tbl4_Members where (Memberstatus is null or Memberstatus='') and (Email='" &amp; strEmail &amp; "' and Password='" &amp; strPassword &amp; "')"
+		If rs.State &lt;&gt; 0 Then rs.Close
+		rs.Open strSQLQuery, conn, 3, 3					
+		if not rs.Eof then
+			Session("UserName")=rs("Username")			
+			Session("ConnectionID")=rs("Username")
+			response.redirect "MyAccount.asp"
+		else
+			call error("You have entered an incorrect Password")
+		end if
+	end if	
+%&gt;
+
+<form action="Default.asp" onsubmit="" runat="server" autocomplete="on" method="POST" name="Form1">
+
+
+<div style="position: absolute; width: 990px; height: 73px; z-index: 1; left: 8px; top: 2px" id="layer1">
+	<table border="0" width="100%" id="table3">
+		<tbody><tr>
+			<td align="left" valign="top" colspan="2">
+			<font face="Arial Black" style="font-size: 30pt; font-weight:700" color="#FFFFFF">&nbsp;PostYourAdvert.com</font></td>
+			<td width="38%" rowspan="2">
+			<table border="0" width="100%" id="table4">
+				<tbody><tr>
+					<td width="160"><font color="#FFFFFF" size="2">
+					Email</font></td>
+					<td width="148"><font color="#FFFFFF" size="2">
+					Password</font></td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="160">
+								<input size="20" name="txtEmail_" id="txtEmail_" tabindex="1"></td>
+					<td width="148">
+								<input type="password" maxlength="25" size="20" name="txtPassword_" tabindex="2"></td>
+					<td>
+								<input type="submit" align="left" value="Log In" onclick="return validateForm2();" name="cmdLogin_" tabindex="3"></td>
+				</tr>
+				<tr>
+					<td width="160"><font color="#FFFFFF" size="2">
+					<a href="ConfirmEmail.asp"><font color="#FFFFFF">forgot 
+					password?</font></a></font></td>
+					<td width="148">&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="16%">
+			&nbsp;</td>
+			<td align="left" valign="top" width="45%">
+				<font color="#FFFFFF" face="Arial" size="2"><b>
+				<a href="Default.asp"><span style="text-decoration: none; ">
+				<font color="#FFFFFF">Home</font></span></a> 
+			|| </b></font><b>
+				<font size="2" color="#FFFFFF" face="Arial">
+				<a href="Registration.asp">
+				<span style="text-decoration: none; "><font color="#FFFFFF">
+				Register</font></span></a> || <a href="MyAccount.asp">
+				<span style="text-decoration: none; "><font color="#FFFFFF">
+				My Account</font></span></a> || <a href="PostNewAd.asp?Action=NewPost">
+			<font color="#FFFFFF">
+				<span style="text-decoration: none; ">Post New Advert</span></font></a></font></b></td>
+		</tr>
+	</tbody></table>
+</div>
+<div style="position: absolute; width: 823px; height: 340px; z-index: 4; left: 168px; top: 86px; background-color: #FFFFFF" id="layer4">
+	<table border="0" width="100%" id="table8" cellspacing="0" cellpadding="0" height="100%">
+		<tbody><tr>
+			<td align="center">
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
+			<td align="center" width="799">
+
+<h1 align="justify">PostYourAdvert.com Privacy Policy</h1>
+	<p align="justify">This policy tells you about how we use and protect your personal 
 	information</p>
-	<h3>Scope</h3>
-	<p style="margin-top:0in">This Privacy Policy describes how we handle your 
+	<h3 align="justify">Scope</h3>
+	<p style="margin-top:0in" align="justify">This Privacy Policy describes how we handle your 
 	personal information for our services on the PostYourAdvert websites. It 
 	applies generally to the PostYourAdvert.com website and other related 
 	websites where this policy appears in the footer of the page. Some 
 	PostYourAdvert-branded websites or websites we operate may be governed by 
 	separate privacy policies. The policy that applies on any of our domains or 
 	subdomains is always the policy that appears in the footer of each website.</p>
-	<p>Our subsidiaries’ and joint ventures’ privacy practices are similar to 
+	<p align="justify">Our subsidiaries’ and joint ventures’ privacy practices are similar to 
 	those described in this Privacy Policy. Subject to the requirements of 
 	applicable law, we strive to provide a consistent set of privacy practices 
 	throughout the global PostYourAdvert trading community. By accepting the 
@@ -56,43 +182,43 @@ h3
 	to our collection, storage, use and disclosure of your personal information 
 	as described in this Privacy Policy. This Privacy Policy is effective upon 
 	acceptance for new users. </p>
-	<h3>Collection </h3>
-	<p style="margin-top:0in">You can browse our sites without telling us who 
+	<h3 align="justify">Collection </h3>
+	<p style="margin-top:0in" align="justify">You can browse our sites without telling us who 
 	you are or revealing any personal information about yourself. Once you give 
 	us your personal information, you are not anonymous to us. If you choose to 
 	provide us with personal information, you consent to the transfer and 
 	storage of that information on our servers. </p>
-	<p style="margin-bottom:0in;margin-bottom:.0001pt">We may collect and store 
+	<p style="margin-bottom:0in;margin-bottom:.0001pt" align="justify">We may collect and store 
 	the following personal information: </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>email address, physical contact information, and (depending on 
 	the service used) sometimes financial information, such as credit card or 
 	bank account numbers;</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>transactional information based on your activities on the 
 	sites (such as purchaseding, buying, selling, item and content you generate 
 	or that relates to your account); </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>shipping, billing and other information you provide to 
 	purchase or ship an item; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>community discussions, chats, dispute resolution, 
 	correspondence through our sites,&nbsp;and correspondence sent to us;</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>other information from your interaction with our sites, 
 	services, content and advertising, including computer and connection 
 	information, statistics on page views, traffic to and from the sites, ad 
 	data, IP address and standard web log information; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>information from other companies, such as demographic and 
 	traffic data; and</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>other supplemental information from third parties (for 
 	example, if you incur a debt to PostYourAdvert, we will generally conduct a 
@@ -102,63 +228,63 @@ h3
 	driver license, credit card statement, or a recent utility bill or other 
 	information confirming your address, or to answer additional questions 
 	online to help verify your information). </p>
-	<h3>Marketing </h3>
-	<p style="margin-top:0in">We may combine your information such as email 
+	<h3 align="justify">Marketing </h3>
+	<p style="margin-top:0in" align="justify">We may combine your information such as email 
 	addresses, phone numbers e.t.c&nbsp; with information we collect from other 
 	companies and use it to improve and personalize our services, content and 
 	advertising. You may also receive adverts or messages from us or a third 
 	party(individuals,companies,coporate organization e.t.c).</p>
-	<h3>Use </h3>
-	<p style="margin-top:0in">Our primary purpose in collecting personal 
+	<h3 align="justify">Use </h3>
+	<p style="margin-top:0in" align="justify">Our primary purpose in collecting personal 
 	information is to provide you with a safe, smooth, efficient, and customized 
 	experience. You agree that we may use your personal information to: </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>provide the services and customer support you request; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>resolve disputes, collect fees, and troubleshoot problems; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>prevent potentially prohibited or illegal activities, and 
 	enforce our User Agreement; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>customize, measure and improve our services, content and 
 	advertising; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>tell you about targeted marketing, service updates, and 
 	promotional offers based on your communication preferences; and </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>compare information for accuracy, and verify it with third 
 	parties.</p>
-	<h3>Our Disclosure of Your Information </h3>
-	<p style="margin-top:0in">We may disclose personal information to respond to 
+	<h3 align="justify">Our Disclosure of Your Information </h3>
+	<p style="margin-top:0in" align="justify">We may disclose personal information to respond to 
 	legal requirements, enforce our policies, respond to claims that a listing 
 	or other content violates the rights of others, or protect anyone's rights, 
 	property, or safety. </p>
-	<p style="margin-bottom:0in;margin-bottom:.0001pt">We may also share your 
+	<p style="margin-bottom:0in;margin-bottom:.0001pt" align="justify">We may also share your 
 	personal information with: </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Members of our corporate family to help detect and prevent 
 	potentially illegal acts and provide joint content and services (for 
 	example, registration, transactions and customer support). Our corporate 
 	affiliates will send marketing communications only to users who request 
 	these services. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Service providers under contract who help with our business 
 	operations (such as fraud investigations, bill collection, affiliate and 
 	rewards programs and co-branded credit cards). </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Other third parties to whom you explicitly ask us to send your 
 	information (or about whom you are otherwise explicitly notified and consent 
 	to when using a specific service). </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Law enforcement or other governmental officials, in response 
 	to a verified request relating to a criminal investigation or alleged 
@@ -166,7 +292,7 @@ h3
 	the investigation, such as name, city, state, zip code, telephone number, 
 	email address, User ID history, IP address, fraud complaints, and 
 	purchaseding and listing history.</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>PostYourAdvert VRO Program participants under confidentiality 
 	agreement, as we in our sole discretion believe necessary or appropriate in 
@@ -174,22 +300,22 @@ h3
 	infringement, piracy, or other unlawful activity. In such events, we will 
 	disclose name, street address, city, state, zip code, country, phone number, 
 	email address and company name. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Other business entities, should we plan to merge with or be 
 	acquired by that business entity. (Should such a combination occur, we will 
 	require that the new combined entity follow this privacy policy with respect 
 	to your personal information. If your personal information will be used 
 	contrary to this policy, you will receive prior notice.) </p>
-	<p>Without limiting the above, in an effort to respect your privacy and our 
+	<p align="justify">Without limiting the above, in an effort to respect your privacy and our 
 	ability to keep the community free from bad actors, we will not otherwise 
 	disclose your personal information to law enforcement, other government 
 	officials, or other third parties without a subpoena, court order or 
 	substantially similar legal procedure, except when we believe in good faith 
 	that the disclosure of information is necessary to prevent imminent physical 
 	harm or financial loss or to report suspected illegal activity.</p>
-	<h3>Activity Associated with User IDs </h3>
-	<p style="margin-top:0in">Your User ID is displayed throughout 
+	<h3 align="justify">Activity Associated with User IDs </h3>
+	<p style="margin-top:0in" align="justify">Your User ID is displayed throughout 
 	PostYourAdvert and is therefore available to the public. All of your 
 	activity on our sites is traceable to your User ID. Other people can see 
 	your purchases, items that you have purchased in the past, items for sale, 
@@ -199,8 +325,8 @@ h3
 	if you associate your name with your User ID, the people to whom you have 
 	revealed your name will be able to personally identify your PostYourAdvert 
 	activities. </p>
-	<h3>Using Information from PostYourAdvert.com </h3>
-	<p style="margin-top:0in">PostYourAdvert enables you to share personal and 
+	<h3 align="justify">Using Information from PostYourAdvert.com </h3>
+	<p style="margin-top:0in" align="justify">PostYourAdvert enables you to share personal and 
 	financial information to complete transactions. We encourage you to disclose 
 	your privacy practices and respect the privacy of other users. We cannot 
 	guarantee the privacy or security of your information and therefore we 
@@ -212,50 +338,50 @@ h3
 	contact and shipping information. In all cases, you must give other users a 
 	chance to remove themselves from your database and a chance to review what 
 	information you have collected about them.</p>
-	<p style="margin-bottom:0in;margin-bottom:.0001pt">You agree to use user 
+	<p style="margin-bottom:0in;margin-bottom:.0001pt" align="justify">You agree to use user 
 	information only for:</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>PostYourAdvert transaction-related purposes that are not 
 	unsolicited commercial messages; </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>using services offered through PostYourAdvert (<i>e.g.</i> 
 	escrow, insurance, shipping and fraud complaints), or</p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>other purposes that a user expressly chooses. </p>
-	<h3>Cookies </h3>
-	<p style="margin-top:0in">We use "cookies" (small files placed on your hard 
+	<h3 align="justify">Cookies </h3>
+	<p style="margin-top:0in" align="justify">We use "cookies" (small files placed on your hard 
 	drive) on certain of our pages to help analyze our web page flow; customize 
 	our services, content and advertising; measure promotional effectiveness, 
 	and promote trust and safety</p>
-	<p style="margin-bottom:0in;margin-bottom:.0001pt">A few important things 
+	<p style="margin-bottom:0in;margin-bottom:.0001pt" align="justify">A few important things 
 	you should know about cookies are that: </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>We offer certain features that are available only&nbsp;through the 
 	use of cookies. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>We use cookies to help identify you and maintain your 
 	signed-in status. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>Most cookies are "session cookies," meaning that they are 
 	automatically deleted from your hard drive at the end of a session. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>You are always free to decline our cookies if your browser 
 	permits, although doing so may interfere with your use of some of our sites 
 	or services. </p>
-	<p style="text-indent: -.25in; margin-left: .5in">
+	<p style="text-indent: -.25in; margin-left: .5in" align="justify">
 	<span style="font-size: 10.0pt; font-family: Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span>You may encounter cookies from third parties on certain pages 
 	of the sites that we do not control. (For example, if you view a web page 
 	created by another user, there may be a cookie placed by that web page.) </p>
-	<h3>No Spam, Spyware or Spoofing</h3>
-	<p style="margin-top:0in">We and our users do not tolerate spam. Make sure 
+	<h3 align="justify">No Spam, Spyware or Spoofing</h3>
+	<p style="margin-top:0in" align="justify">We and our users do not tolerate spam. Make sure 
 	to set your PostYourAdvert notification preferences so we communicate to 
 	you as you prefer. You are not licensed to add other PostYourAdvert users, 
 	even a user who has purchased an item from you, to your mailing list (email 
@@ -270,8 +396,8 @@ h3
 	in our community (via Refer-a-Friend or other tools), we do not permanently 
 	store that email or use that email address for any marketing purpose. We do 
 	not rent or sell these email addresses. </p>
-	<h3>Account Protection </h3>
-	<p style="margin-top:0in">Your password is the key to your account. Use 
+	<h3 align="justify">Account Protection </h3>
+	<p style="margin-top:0in" align="justify">Your password is the key to your account. Use 
 	unique numbers, letters and special characters, and do not disclose your 
 	PostYourAdvert password to anyone. If you do share your password or your 
 	personal information with others, remember that you are responsible for all 
@@ -280,8 +406,8 @@ h3
 	and may be subject to legally binding actions taken on your behalf. 
 	Therefore, if your password has been compromised for any reason, you should 
 	immediately notify PostYourAdvert and change your password. </p>
-	<h3>Accessing, Reviewing and Changing Your Personal Information </h3>
-	<p style="margin-top:0in">You can see, review and change most of your 
+	<h3 align="justify">Accessing, Reviewing and Changing Your Personal Information </h3>
+	<p style="margin-top:0in" align="justify">You can see, review and change most of your 
 	personal information by signing on to PostYourAdvert. Generally, we will 
 	not manually modify your personal information because it is very difficult 
 	to verify your identity remotely. You must promptly update your personal 
@@ -295,8 +421,8 @@ h3
 	<a style="color: blue; text-decoration: underline; text-underline: single" href="UserAgreement.htm">
 	PostYourAdvert User Agreement</a>, and take other actions otherwise 
 	permitted by law.</p>
-	<h3>Security </h3>
-	<p style="margin-top:0in">Your information is stored on our servers. We treat data as an asset that must be protected and 
+	<h3 align="justify">Security </h3>
+	<p style="margin-top:0in" align="justify">Your information is stored on our servers. We treat data as an asset that must be protected and 
 	use lots of tools (encryption, passwords, physical security, etc.) to 
 	protect your personal information against unauthorized access and 
 	disclosure. However, as you probably know, third parties may unlawfully 
@@ -305,8 +431,8 @@ h3
 	site. Therefore, although we work very hard to protect your privacy, we do 
 	not promise, and you should not expect, that your personal information or 
 	private communications will always remain private. </p>
-	<h3>Third Parties</h3>
-	<p style="margin-top:0in">Except as otherwise expressly included in this 
+	<h3 align="justify">Third Parties</h3>
+	<p style="margin-top:0in" align="justify">Except as otherwise expressly included in this 
 	Privacy Policy, this document addresses only the use and disclosure of 
 	information we collect from you. If you disclose your information to others, 
 	whether they are purchasers, buyers or sellers on our sites or other sites 
@@ -316,21 +442,106 @@ h3
 	the privacy policies of those third parties where applicable. We encourage 
 	you to ask questions before you disclose your personal information to 
 	others. </p>
-	<h3>General </h3>
-	<p style="margin:0in;margin-bottom:.0001pt">We may amend this Privacy Policy 
+	<h3 align="justify">General </h3>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">We may amend this Privacy Policy 
 	at any time by posting the amended terms on this site. All amended terms 
 	automatically take effect after they are initially posted on the Site. If your questions are not answered online, you may write to us at: PostYourAdvert a Division of NelloByte Systems Ltd. </p>
-	<p style="margin:0in;margin-bottom:.0001pt">&nbsp;</p>
-	<p style="margin:0in;margin-bottom:.0001pt">NelloByte Systems Ltd</p>
-	<p style="margin:0in;margin-bottom:.0001pt">P.O.Box 1185</p>
-	<p style="margin:0in;margin-bottom:.0001pt">Ijebu-ode, Ogun State,</p>
-	<p style="margin:0in;margin-bottom:.0001pt">Nigeria.</p>
-	<p style="margin:0in;margin-bottom:.0001pt">&nbsp;or </p>
-	<p style="margin:0in;margin-bottom:.0001pt">using the
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">&nbsp;</p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">NelloByte Systems Ltd</p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">P.O.Box 1185</p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">Ijebu-ode, Ogun State,</p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">Nigeria.</p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">&nbsp;or </p>
+	<p style="margin:0in;margin-bottom:.0001pt" align="justify">using the
 	<a style="color: blue; text-decoration: underline; text-underline: single" href="ContactUs.asp">Contact Us</a> form.</p>
+	<p style="margin:0 0in;" align="left">&nbsp;</p></td>
+		</tr>
+		<tr>
+			<td align="center" height="66" valign="bottom" colspan="2">
+	<table border="0" width="100%" id="table12" height="65" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+          <td style="FONT-SIZE: 10px" valign="top" align="middle" width="98%" bgcolor="#3399FF">&nbsp;</td>
+		</tr>
+		<tr>
+          <td style="FONT-SIZE: 10px" valign="top" align="middle" width="98%" bgcolor="#3399FF">
+			<p style="margin-top: 0; margin-bottom: 0"><font size="2"><b><font color="#FFFFFF">Copyright © 2008-2009 NelloByte Systems Ltd. 
+			All rights reserved.</font></b><br>
+            &nbsp;<b><a target="_top" href="PrivacyPolicy.htm"><font color="#FFFFFF">Privacy 
+			Policy</font></a><font color="#FFFFFF"> </font></b><font color="#FFFFFF"> 
+			&nbsp;|&nbsp; 
+			</font><b> 
+			<a target="_top" href="UserAgreement.htm">
+			<font color="#FFFFFF">User Agreement</font></a></b><br>
+<script language="JavaScript">
+	<!--
+	  if ( navigator.appName == 'Microsoft Internet Explorer' ) {
+	        var url = "PostYourAdvert.Com";
+	        var title = PostYourAdvert.Com - bringing the world to your doorstep";
+	        if( window.external && ( navigator.platform == 'Win32' ||
+	            ( window.ScriptEngine && ScriptEngine().indexOf('InScript') + 1 ) ) ) {
+	                          document.write(' <A id="bookmark" HREF="javascript:window.external.AddFavorite(url,title);"><font color="#800080">Bookmark this State</font></a>&nbsp;|');
+	                    } 
+	  }
+	// -->
+</script>            
+			<b> 
+			<a target="_top" href="AboutUs.htm">
+			<font color="#FFFFFF">About Us</font></a></b><font color="#FFFF00">&nbsp;
+			</font><font color="#FFFFFF">| 
+			</font><b><font color="#FFFFFF">&nbsp;</font><a href="ContactUs.htm"><font color="#FFFFFF">Contact Us</font></a></b><font color="#FFFFFF">
+			</font>&nbsp; <br>
+			</font><b>
+			<a target="_top" href="../ContactUs.asp">
+			<font size="2" color="#FFFFFF">Feed Back/Report Abuse</font></a></b></p></td>
+		</tr>
+	</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div style="position: absolute; width: 157px; height: 18px; z-index: 3; left: 16px; top: 375px" id="layer3">
+	<table border="0" width="100%" id="table6" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody></table>
+</div>
+<div style="position: absolute; width: 100px; height: 100px; z-index: 2; left: 14px; top: 86px" id="layer2">
+	<table border="0" width="100%" id="table5" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="5">&nbsp;</td>
+			<td bgcolor="#003399">
+			<p align="center">
+		<i><b>
+		<font face="Bookman Old Style" color="#FFFFFF" size="4">Advertise</font></b></i></p></td>
+		</tr>
+		<tr>
+			<td height="113" width="5">
+			<img border="0" src="../Assets/advert_left_pic.JPG" width="9" height="145"></td>
+			<td height="113">
+			<img border="0" src="../Assets/advert_main_pic.jpg" width="146" height="146"></td>
+		</tr>
+		<tr>
+			<td width="5">&nbsp;</td>
+			<td bgcolor="#003399">
+		<p style="margin-top: 0; margin-bottom: 0" align="center">
+		<i>
+		<font size="3" color="#FFFFFF" face="Tahoma">
+		<a href="FAQ.htm"><font color="#FFFFFF">
+		<span style="text-decoration: none">FAQ......................</span></font></a></font></i></p>
+		<p style="margin-top: 0; margin-bottom: 0" align="center">
+		<i>
+		<font size="3" color="#FFFFFF" face="Tahoma">
+		<a href="AboutUs.htm"><font color="#FFFFFF">
+		<span style="text-decoration: none">About Us...............</span></font></a></font></i></p>
+		<p style="margin-top: 0; margin-bottom: 0" align="center">
+		<i>
+		<font color="#FFFFFF" face="Tahoma"><a href="ContactUs.htm">
+		<font color="#FFFFFF" size="3"><span style="text-decoration: none">Contact Us.</span></font><font color="#FFFFFF"><span style="text-decoration: none">............</span></font></a></font></i></p></td>
+		</tr>
+	</tbody></table>
+</div>
+
+
 </form>
-
-
-
-
 </body></html>
