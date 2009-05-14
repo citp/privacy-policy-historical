@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the briggsandstratton.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216033520id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the briggsandstratton.com privacy policy that was archived on 2009-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090514030519id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
     <meta name="keywords" content="Briggs &amp; Stratton">
     <link type="text/css" rel="stylesheet" media="all" href="/App_Themes/default/global.css">
     <link type="text/css" rel="stylesheet" media="print" href="/App_Themes/default/global-print.css">
+    <link type="text/css" rel="stylesheet" media="screen" href="/App_Themes/default/engine_series.css">
 
     <script src="/scripts/common.js" type="text/javascript"></script>
 
@@ -28,15 +29,11 @@
     <script src="/scripts/navigation-expand.js" type="text/javascript"></script>
 
     <script src="/scripts/dhtml.js" type="text/javascript"></script>
-    <!--
-<script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="https://clients.multimap.com/API/maps/1.2/briggs_na_api" type="text/javascript" ></script>
-<script src="/scripts/multiMap.js" type="text/javascript" ></script>
--->
+
+
     <!--[if IE]>
 <link type="text/css" rel="stylesheet" href="/App_Themes/default/ie.css" />
 <![endif]-->
-
 </head>
 <body id="default" class="default">
     <!-- please do not remove this -->
@@ -98,24 +95,30 @@ if(hasRightVersion) {  // if we've detected an acceptable version
 // hide select boxes on find dealer page
 function hideSelect()
 {
-    var prodSel = document.getElementById("productType");
+    var stateSel = document.getElementById("stateProvince");
+    if (stateSel != null && stateSel != "")
+    {
+        stateSel.style.visibility = "hidden";
+        stateSel.style.zIndex = "9999";
+    }  
+    var countrySel = document.getElementById("country");
+    if (countrySel != null && countrySel != "")
+    {
+        countrySel.style.visibility = "hidden";
+        countrySel.style.zIndex = "9999";
+    } 
+    var searchDistSel = document.getElementById("searchCustom__searchRadius");
+    if (searchDistSel != null && searchDistSel != "")
+    {
+        searchDistSel.style.visibility = "hidden";
+        searchDistSel.style.zIndex = "9999";
+    }        
+    var prodSel = document.getElementById("searchCustom__product");
     if (prodSel != null && prodSel != "")
     {
         prodSel.style.visibility = "hidden";
         prodSel.style.zIndex = "9999";
     }
-    var searchDistSel = document.getElementById("searchdistance");
-    if (searchDistSel != null && searchDistSel != "")
-    {
-        searchDistSel.style.visibility = "hidden";
-        searchDistSel.style.zIndex = "9999";
-    }
-    var countrySel = document.getElementById("countryname");
-    if (countrySel != null && countrySel != "")
-    {
-        countrySel.style.visibility = "hidden";
-        countrySel.style.zIndex = "9999";
-    }   
 }
 
 // -->
@@ -128,10 +131,21 @@ function hideSelect()
 <div class="logo"><a href="/" title="Take me home"><img src="/images/site/logo.jpg" alt="Brigss &amp; Stratton Logo"></a></div>
 
 <div id="navigation-main">
-<div class="navigation-region"><a href="/engine_power/"><img id="img_nav1" src="/images/site/nav-engines-power-equip-red.gif" alt="Engines &amp; Outdoor Power Equipment"></a>
+<div class="navigation-region"><a href="/engine_power/engine_index.aspx"><img id="img_nav1" src="/images/site/nav-engines-red.gif" alt="Engines"></a>
 <div id="div_nav1" class="closed">
     <ul>
-        <li><a href="/engine_power/category.aspx?cid=1">Engines <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/engine_power/engine_index.aspx">Engines by Application <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/engine_power/engine_series.aspx">Engines by Series <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/engine_power/engine_why.aspx">Why Briggs &amp; Stratton <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/engine_power/engine_support.aspx">Engine Support and Manuals <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/engine_power/engine_glossary.aspx">Engines 101 <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+    </ul>
+</div>
+</div>
+<!-- END ENGINE -->
+<div class="navigation-region"><a href="/engine_power/"><img id="img_nav2" src="/images/site/nav-outdoor-power-red.gif" alt="Outdoor Power Equipment"></a>
+<div id="div_nav2" class="closed">
+    <ul>
         <li><a href="/engine_power/mowers/">Mowers <img src="/images/site/icon-arrow.gif" alt=""></a></li>
         <li><a href="/engine_power/category.aspx?cid=31">Portable Generators<img src="/images/site/icon-arrow.gif" alt=""></a></li>
         <li><a href="/engine_power/home_generator_systems/">Home Generator Systems<img src="/images/site/icon-arrow.gif" alt=""></a></li>
@@ -144,9 +158,9 @@ function hideSelect()
     </ul>
 </div>
 </div>
-<!-- END ENGINE POWER -->
-<div class="navigation-region"><a href="/home_yard/"><img id="img_nav2" src="/images/site/nav-home-yard-how-to-red.gif" alt="Home &amp; Yard How-To"></a>
-<div id="div_nav2" class="closed">
+<!-- END OUTDOOR POWER -->
+<div class="navigation-region"><a href="/home_yard/"><img id="img_nav3" src="/images/site/nav-home-yard-how-to-red.gif" alt="Home &amp; Yard How-To"></a>
+<div id="div_nav3" class="closed">
     <ul>
         <li><a href="/home_yard/lawn_care/">Lawn Care <img src="/images/site/icon-arrow.gif" alt=""></a></li>
         <li><a href="/home_yard/yard_projects/">Yard Projects <img src="/images/site/icon-arrow.gif" alt=""></a></li>
@@ -159,12 +173,12 @@ function hideSelect()
 </div>
 <!-- END HOME & YARD -->
 
-<div class="navigation-region"><a href="/maint_repair/"><img id="img_nav3" src="/images/site/nav-maintenance-repair-red.gif" alt="Maintenance &amp; Repair"></a>
-<div id="div_nav3" class="closed">
+<div class="navigation-region"><a href="/maint_repair/"><img id="img_nav4" src="/images/site/nav-maintenance-repair-red.gif" alt="Maintenance &amp; Repair"></a>
+<div id="div_nav4" class="closed">
     <ul>
         <li><a href="/maint_repair/routine_maintenance/">Routine Maintenance How-To <img src="/images/site/icon-arrow.gif" alt=""></a>
             <!-- Nested submenu -->
-            <div id="div_nav3_1" class="closed">
+            <div id="div_nav4_1" class="closed">
             <ul>
             <li><a href="/maint_repair/routine_maintenance/changing_oil/">Changing Oil <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
             <li><a href="/maint_repair/routine_maintenance/changing_air_filters/">Changing Air Filters <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
@@ -174,15 +188,8 @@ function hideSelect()
             </ul>
             </div>
         </li>
-        <li><a href="/maint_repair/manual_and_more/">Manuals, Parts Lists &amp; Wiring Diagrams <img src="/images/site/icon-arrow.gif" alt=""></a>
-            <div id="div_nav3_2" class="closed">
-            <ul>
-            <li><a href="/maint_repair/manual_and_more/index.aspx?manuType=Operator Manuals">Operator Manuals <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-            <li><a href="/maint_repair/manual_and_more/index.aspx?manuType=Illustrated Parts Lists">Illustrated Parts Lists <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-            <li><a href="/maint_repair/manual_and_more/index.aspx?manuType=Wiring Diagrams">Wiring Diagrams <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-            </ul>
-            </div>
-        </li>
+        <li><a href="/maint_repair/manual_and_more/">Manuals, Parts Lists &amp; Wiring Diagrams <img src="/images/site/icon-arrow.gif" alt=""></a></li>
+        <li><a href="/maint_repair/promo_index.aspx">Why Buy Briggs &amp; Stratton Genuine Parts <img src="/images/site/icon-arrow.gif" alt=""></a></li>
         <li><a href="/maint_repair/customer_support_faq/">Customer Support &amp; FAQ <img src="/images/site/icon-arrow.gif" alt=""></a></li>
         <li><a href="/maint_repair/register_products/">Register Your Product <img src="/images/site/icon-arrow.gif" alt=""></a></li>
     </ul>
@@ -190,23 +197,23 @@ function hideSelect()
 </div>
 <!-- END MAINTENANCE & REPAIR -->
 
-<div class="navigation-region"><a href="/buy/"><img id="img_nav4" src="/images/site/nav-home-buy-red.gif" alt="Buy Parts and Accessories"></a>
-<div id="div_nav4" class="closed">
+<div class="navigation-region"><a href="/buy/"><img id="img_nav5" src="/images/site/nav-home-buy-red.gif" alt="Buy Parts and Accessories"></a>
+<div id="div_nav5" class="closed">
     <ul>
     <li><a href="/maint_repair/parts_supplies/">Buy Maintenance Parts/Supplies <br>
     &amp; Accessories <img src="/images/site/icon-arrow.gif" alt=""></a>
         <!-- Nested submenu -->
-        <div id="div_nav4_1" class="closed">
+        <div id="div_nav5_1" class="closed">
         <ul>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Batteries">Batteries <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-        <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Carburetor+Parts">Carburetor Parts <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
+        <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Fuel+System+Parts">Fuel System Parts<img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Cleaners+%26+Sealants">Cleaners &amp; Sealants <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Filters">Filters <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Fuel+Additives">Fuel Additives <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Pressure+Washer+Parts+%26+Accessories">Pressure Washer Parts &amp; Accessories <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Greases+%26+Lubricants">Greases &amp; Lubricants <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Ignition+%26+Starter+Parts">Ignition &amp; Starter Parts <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-        <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Maintenance+Kits">Maintenance Kits <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
+        <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Tune-Up+Kits">Tune-Up Kits <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Mufflers">Mufflers <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Oil+%26+Oil+Parts">Oil &amp; Oil Parts <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
         <li><a href="/maint_repair/parts_supplies/category.aspx?scid=Spark+Plugs">Spark Plugs <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
@@ -214,15 +221,7 @@ function hideSelect()
         </div>
     </li>
     <li><a href="/maint_repair/repair_parts/">Buy Repair Parts <img src="/images/site/icon-arrow.gif" alt=""></a></li>
-    <li><a href="/maint_repair/manual_and_more/index.aspx?buy">Manuals, Parts Lists &amp; Wiring Diagrams <img src="/images/site/icon-arrow.gif" alt=""></a>
-        <div id="div_nav4_2" class="closed">
-        <ul>
-        <li><a href="/maint_repair/manual_and_more/index.aspx?buy&amp;manuType=Operator Manuals">Operator Manuals <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-        <li><a href="/maint_repair/manual_and_more/index.aspx?buy&amp;manuType=Illustrated Parts Lists">Illustrated Parts Lists <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-        <li><a href="/maint_repair/manual_and_more/index.aspx?buy&amp;manuType=Wiring Diagrams">Wiring Diagrams <img src="/images/site/icon-arrow-red.gif" alt=""></a></li>
-        </ul>
-        </div>
-    </li>
+    <li><a href="/maint_repair/manual_and_more/index.aspx?buy">Manuals, Parts Lists &amp; Wiring Diagrams <img src="/images/site/icon-arrow.gif" alt=""></a></li>
     <li><a href="/maint_repair/buy/index.aspx">Buy CDs, Books, Manuals, &amp; Videos <img src="/images/site/icon-arrow.gif" alt=""></a></li>
     <li><a href="http://shop.csepromo.com/Basco/" target="_blank">Buy Briggs &amp; Stratton Gear <img src="/images/site/icon-arrow.gif" alt=""></a></li>
     </ul>
@@ -230,252 +229,9 @@ function hideSelect()
 </div>
 <!-- END BUY PARTS & ACCESSORIES -->
 
-<style type="text/css">
-				    #banner_engines-matter {
-				        height:82px;
-				        width:263px;
-				        background:#D2D2D2;
-				        color:white;}
-				    
-				    #ematterFlyout {
-				        position:absolute; left:50%; top:410px;
-				        height:172px;
-				        width:708px;
-				        color:white;
-				        margin-left:-221px;
-				        z-index:10;}
-				        
-				    #banner_home-generator {
-				    	padding-top:5px;
-				        height:85px;
-				        width:263px;
-				        background:#D2D2D2;
-				        color:white;}
-</style>
-
-<div id="banner_engines-matter">
-<script type="text/javascript" language="javascript">
-	                if (AC_FL_RunContent == 0) {
-		                alert("This page requires AC_RunActiveContent.js.");
-	                } else {
-		                AC_FL_RunContent(
-			                'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
-			                'width', '263',
-			                'height', '82',
-			                'src', '/swf/banner_engines-matter',
-			                'quality', 'high',
-			                'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
-			                'align', 'middle',
-			                'play', 'true',
-			                'loop', 'true',
-			                'scale', 'showall',
-                            'wmode', 'transparent',
-			                'devicefont', 'false',
-			                'id', '/swf/banner_engines-matter',
-			                'bgcolor', '#d2d2d2',
-			                'name', '/swf/banner_engines-matter',
-			                'menu', 'true',
-			                'allowFullScreen', 'false',
-			                'allowScriptAccess','sameDomain',
-			                'movie', '/swf/banner_engines-matter',
-			                'salign', ''
-			                ); //end AC code
-	                }
-</script><embed width="263" height="82" src="/swf/banner_engines-matter.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#d2d2d2" name="/swf/banner_engines-matter" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash"> 
-
-<noscript>
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
-                            width="263" height="82" id="/swf/sidebar" align="middle">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="allowFullScreen" value="false" />
-<param name="movie" value="/swf/banner_engines-matter.swf" />
-<param name="quality" value="high" />
-<param name="bgcolor" value="#ffffff" />
-<embed src="/swf/banner_engines-matter.swf" quality="high" bgcolor="#ffffff" width="263" height="82"
-                                name="/swf/sidebar" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false"
-                                type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" />
-</object>
-</noscript>
-</div>
-<!-- END banner_engines-matter -->
-
-<div id="ematterFlyout" style="display: none;">
-<script type="text/javascript" language="javascript">
-	if (AC_FL_RunContent == 0) {
-		alert("This page requires AC_RunActiveContent.js.");
-	} else {
-		AC_FL_RunContent(
-			'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
-			'width', '708',
-			'height', '172',
-			'src', '/swf/flyout_engines-matter',
-			'quality', 'high',
-			'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
-			'align', 'middle',
-			'play', 'true',
-			'loop', 'true',
-			'scale', 'showall',
-			'wmode', 'transparent',
-			'devicefont', 'false',
-			'id', 'flyout_engines-matter',
-			'bgcolor', '#ffffff',
-			'name', '/swf/flyout_engines-matter',
-			'menu', 'true',
-			'allowFullScreen', 'false',
-			'allowScriptAccess','always',
-			'movie', '/swf/flyout_engines-matter',
-			'salign', ''
-			); //end AC code
-	}
-</script><embed width="708" height="172" src="/swf/flyout_engines-matter.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#ffffff" name="/swf/flyout_engines-matter" menu="true" allowfullscreen="false" allowscriptaccess="always" salign="" type="application/x-shockwave-flash"> 
-
-<noscript>
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
-                            width="708" height="172" id="/swf/flyout_engines-matter" align="middle">
-<param name="allowScriptAccess" value="always" />
-<param name="allowFullScreen" value="false" />
-<param name="movie" value="/swf/flyout_engines-matter.swf" />
-<param name="quality" value="high" />
-<param name="wmode" value="transparent" />
-<param name="bgcolor" value="#ffffff" />
-<embed src="/swf/flyout_engines-matter.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="708" height="172" name="/swf/flyout_engines-matter" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" />
-
-</object>
-</noscript>
-</div>
-
-<script type="text/javascript" language="javascript">		            
-		       		function adjustDiv(){
-		            	reportSize();
-		                //document.getElementById("ematterMain").innerHTML = "w: " + myWidth + "  h: " + myHeight;
-		                if (myWidth < 1000) {
-		                    //adjust the layer
-		                     document.getElementById("ematterFlyout").style.left = '490px';
-		                } else {
-		                    document.getElementById("ematterFlyout").style.left = '50%';
-		                }
-		            }
-		            
-                    function reportSize() {
-		                myWidth = 0, myHeight = 0;
-		                if( typeof( window.innerWidth ) == 'number' ) {
-		                    myWidth = window.innerWidth;
-		                    myHeight = window.innerHeight;
-		                } else {
-		                    if( document.documentElement &&
-		                        ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-		                        myWidth = document.documentElement.clientWidth;
-		                        myHeight = document.documentElement.clientHeight;
-		                    } else {
-		                        if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-		                            myWidth = document.body.clientWidth;
-		                            myHeight = document.body.clientHeight;
-		                        }
-		                    }
-		                }
-		            }
-                    
-                    function init(){
-                    	var curPath = parent.location.pathname;
-                    	if (curPath == "/index.aspx" || curPath == "/") {
-                    	    window.onresize = adjustDiv;
-			                adjustDiv();
-			                //added a cookie so the visitor will only see this banner once a day
-			                var cook = getCookie('viewEngineMatter');
-			                if (cook != null && cook != "")
-			                {
-				                //cookie is present, do not show flyout
-				                document.getElementById("ematterFlyout").style.display = "none";
-			                }
-			                else 
-			                {
-				                //create cookie . and set the expiration 1 day into the future
-				                var time = new Date();
-				                time.setDate(time.getDate()+1);
-				                document.cookie = 'viewEngineMatter=true; ' +  time;
-			                }
-                    	} else {
-                    	    //we are not on the home page so hide the layer div
-                    	    document.getElementById("ematterFlyout").style.display = "none";
-                    	}
-
-		            }
-		            
-		            function hidePromoLayer() {
-		                document.getElementById("ematterFlyout").style.display = "none"; 
-		            }
-		            
-		            function getCookie(c_name)
-			        {
-				        if (document.cookie.length>0)
-  				        {
-  					        c_start=document.cookie.indexOf(c_name + "=");
-  					        if (c_start!=-1)
-    					        { 
-    						        c_start=c_start + c_name.length+1; 
-    						        c_end=document.cookie.indexOf(";",c_start);
-    						        if (c_end==-1) c_end=document.cookie.length;
-    							        return unescape(document.cookie.substring(c_start,c_end));
-    						        } 
-  					        }
-					        return "";
-			        }
-		                                 
-                    init();                   
-</script>
-<!-- End ematterFlyout -->
-
-<div id="banner_home-generator"><!-- Note height of banner is taller than the banner above by 2px -->
-<script type="text/javascript" language="javascript">
-	                if (AC_FL_RunContent == 0) {
-		                alert("This page requires AC_RunActiveContent.js.");
-	                } else {
-		                AC_FL_RunContent(
-			                'codebase', 'https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
-			                'width', '263',
-			                'height', '85',
-			                'src', '/swf/banner_home-generator',
-			                'quality', 'high',
-			                'pluginspage', 'https://www.macromedia.com/go/getflashplayer',
-			                'align', 'middle',
-			                'play', 'true',
-			                'loop', 'true',
-			                'scale', 'showall',
-                            'wmode', 'transparent',
-			                'devicefont', 'false',
-			                'id', '/swf/banner_home-generator',
-			                'bgcolor', '#d2d2d2',
-			                'name', '/swf/banner_home-generator',
-			                'menu', 'true',
-			                'allowFullScreen', 'false',
-			                'allowScriptAccess','sameDomain',
-			                'movie', '/swf/banner_home-generator',
-			                'salign', ''
-			                ); //end AC code
-	                }
-</script><embed width="263" height="85" src="/swf/banner_home-generator.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#d2d2d2" name="/swf/banner_home-generator" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash"> 
-
-<noscript>
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"
-                            width="263" height="85" id="Object1" align="middle">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="allowFullScreen" value="false" />
-<param name="movie" value="/swf/banner_home-generator.swf" />
-<param name="quality" value="high" />
-<param name="bgcolor" value="#ffffff" />
-<embed src="/swf/banner_home-generator.swf" quality="high" bgcolor="#ffffff" width="263" height="85"
-                                name="/swf/sidebar" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false"
-                                type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" />
-</object>
-</noscript>
-</div>
-
-
-
-</div>
 <!-- /content: left column  -->
 
-                </td>
+                </div></td>
                 <!-- End Left Column -->
                 <td width="5" class="layout-margin">
                     &nbsp;</td>
