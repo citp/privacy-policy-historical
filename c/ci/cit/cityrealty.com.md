@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220022006id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.cr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514023809id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.cr) for the most accurate reproduction.*
 
 # Privacy Policy > CityRealty
 
