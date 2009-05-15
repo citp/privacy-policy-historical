@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914172227id_/http%3A//www.bodhost.co.uk/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515123158id_/http%3A//www.bodhost.co.uk/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Bodhost.co.uk - Privacy Policy
 
-  
 This Privacy Policy governs the manner in which BOD Host collects, uses, stores, archives, and discloses information collected from users of this Website. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
 **The Information We Collect :**  
