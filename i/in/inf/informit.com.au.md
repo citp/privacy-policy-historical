@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121044843id_/http%3A//www.informit.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515154438id_/http%3A//www.informit.com.au/privacy.html) for the most accurate reproduction.*
 
 # Informit
 
 ## 1\. Policy Statement
 
-RMIT Training Pty Ltd (“RMIT Training”) is committed to protecting the privacy of any information volunteered by visitors to its websites, and staff, students, and others who have rights to log into them. RMIT Training complies with the State of Victoria and Commonwealth of Australia privacy legislation through the RMIT Training Privacy Policy. In accordance with the Privacy Policy, Ian Penney, has been appointed as the Privacy Officer. He may be contacted for further information and advice on telephone 9925 8190 or by email [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au)
+RMIT Training Pty Ltd ("RMIT Training") is committed to protecting the privacy of any information volunteered by visitors to its websites, and staff, students, and others who have rights to log into them. RMIT Training complies with the State of Victoria and Commonwealth of Australia privacy legislation through the RMIT Training Privacy Policy. In accordance with the Privacy Policy, Ian Penney, has been appointed as the Privacy Officer. He may be contacted for further information and advice on telephone 9925 8190 or by email [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au)
 
 This Privacy and Security Statement is applicable to this Site and not necessarily to other RMIT Training sites on the World Wide Web. If you do not agree with this Privacy and Security Statement or the Privacy Policy, please do not use this Site.
 
 ## 2\. Privacy Policy Summary
 
-RMIT Training will collect ‘personal information’1 only if it is necessary for RMIT Training’s functions or activities. We will inform you of the purposes for which RMIT Training collects personal information and will use personal information only for the purposes for which it is collected. We will always explain what is being collected and how and by whom it is to be collected. RMIT Training will take all reasonable steps to protect personal information it holds about you from unauthorised access, modification or disclosure and will not use or disclose personal information about you except in the limited circumstances set out in this Privacy Policy.
+RMIT Training will collect 'personal information'1 only if it is necessary for RMIT Training's functions or activities. We will inform you of the purposes for which RMIT Training collects personal information and will use personal information only for the purposes for which it is collected. We will always explain what is being collected and how and by whom it is to be collected. RMIT Training will take all reasonable steps to protect personal information it holds about you from unauthorised access, modification or disclosure and will not use or disclose personal information about you except in the limited circumstances set out in this Privacy Policy.
 
 We will make sure that personal information we collect, use or disclose is accurate and up-to-date. You also have a responsibility here to assist RMIT Training by providing accurate and up-to-date information.
 
@@ -28,9 +28,9 @@ Such information is stored securely, retained for no longer than is necessary or
 
 RMIT Training will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. To edit your personal details on the Short Courses or Single Courses database log into: [www.shortcourses.rmit.edu.au](http://www.shortcourses.rmit.edu.au/) or call **1800 067 117**. Otherwise, if you come across any incorrect or outdated information on our websites please contact the Privacy Officer at [privacy.training@rmit.edu.au](mailto:privacy.training@rmit.edu.au) or call **9925 8179**.
 
-### 3.3 No junk mail or email!…
+### 3.3 No junk mail or email!...
 
-#### Email privacy and security…
+#### Email privacy and security...
 
 Other than for a related secondary purpose (see the Privacy Principles set out in the Privacy Policy), RMIT Training will not send you any unsolicited mail or email. You will be asked to give permission for RMIT Training to use your address to send any promotional information or to be placed on a mail list. You will also be informed of any related secondary purpose for which your information may be used and can opt-out of receiving any material that may result from that purpose at any stage.
 
@@ -68,7 +68,7 @@ Please note that users do not have to have permanent cookies enabled in order to
 
 ## Logging of visits to RMIT Training websites
 
-RMIT Training may make a record of your visits to RMIT Training websites and logs any of the following information for security, statistical, recording, and other business purposes: the user’s server address, the user’s domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. This information is not disclosed, sold, or made available to other organisations and is stored securely. An important use is to track and identify inappropriate usage and hence provide a more secure online environment. Any disclosure for reporting purposes is done in ways which do not allow an individual user to be identified.
+RMIT Training may make a record of your visits to RMIT Training websites and logs any of the following information for security, statistical, recording, and other business purposes: the user's server address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. This information is not disclosed, sold, or made available to other organisations and is stored securely. An important use is to track and identify inappropriate usage and hence provide a more secure online environment. Any disclosure for reporting purposes is done in ways which do not allow an individual user to be identified.
 
 In addition, RMIT Training does not acquire this sort of information from other organisations.
 
