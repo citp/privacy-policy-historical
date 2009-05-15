@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youth.ie privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118184448id_/http%3A//www.youth.ie/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youth.ie privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515112837id_/http%3A//www.youth.ie/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Youth.ie - Privacy Policy - About Us - Home
 
