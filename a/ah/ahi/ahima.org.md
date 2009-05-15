@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122212id_/http%3A//www.ahima.org/about/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515135016id_/http%3A//www.ahima.org/about/privacy_statement.asp) for the most accurate reproduction.*
 
 # AHIMA - American Health Information Management Association
 
@@ -80,7 +80,7 @@ E-mail: [info@ahima.org](mailto:info@ahima.org?subject=Inquiry%20about%20Privacy
 [ [About AHIMA](https://web.archive.org/about/) | [Schools/Jobs](https://web.archive.org/careers/) | [Professional Development](https://web.archive.org/products/) | [HIM Resources](https://web.archive.org/infocenter/) | [Foundation](https://web.archive.org/fore/) | [Help](https://web.archive.org/help/search.asp) | [Site Map](https://web.archive.org/help/sitemap.asp) ]  
 ---  
 |    
-Copyright © 2008 by the American Health Information Management Association. All rights reserved. No part of this site may be reproduced, reprinted, stored in a retrieval system, or transmitted, in any form or by any means, electronic, photocopying, recording, or otherwise, without the prior written permission of the association. |   
+Copyright © 2009 by the American Health Information Management Association. All rights reserved. No part of this site may be reproduced, reprinted, stored in a retrieval system, or transmitted, in any form or by any means, electronic, photocopying, recording, or otherwise, without the prior written permission of the association. |   
 ---|---  
   
 All contents, including images and graphics, on this Web site are copyrighted by AHIMA unless otherwise noted. You must obtain permission to reproduce any information, graphics, or images from this site. Permission must also be obtained to link to any of AHIMA's Web sites. To request permission, fill out the [AHIMA Permissions Request](https://secure.ahima.org/publications/reprint/) or contact [permissions@ahima.org](mailto:permissions@ahima.org).
