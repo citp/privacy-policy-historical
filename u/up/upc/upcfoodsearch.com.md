@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225130604id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515112814id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - UPC Food Search
 
@@ -10,7 +10,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 ### Cookies and Web Beacons
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. UPC Food Search does not use cookies to track personal information. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as adding and updating product information. UPC Food Search does not use cookies to track personal information. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into accounts. 
 
 ### Third Party Ads
 
