@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229035613id_/http%3A//multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515022536id_/http%3A//www.multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
 
 # Multidimensions.net Privacy Policy
 
@@ -12,11 +12,9 @@
   
 |  |   
   
-|   [New York City](https://web.archive.org/web/20081229035613id_/http%3A//multidimensions.net/index.php?IdContinent=29&IdCity=36) > Privacy Policy |  Sunday,December-28-2008  
+|   [New York City](https://web.archive.org/web/20090515022536id_/http%3A//www.multidimensions.net/index.php?IdContinent=29&IdCity=36) > Privacy Policy |  Thursday,May-14-2009  
 ---|---  
-Untitled Document |   
----  
-|   
+Untitled Document |  |   
 ---  
   
 **Privacy Policy**  
@@ -61,7 +59,7 @@ Search engines and other sites not affiliated with multidimensions - including [
 #### 5\. Circumstances in which multidimensions may release information
 
   * Multidimensions may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
-  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20081229035613id_/http%3A//multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
+  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20090515022536id_/http%3A//www.multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
 
 
 
@@ -71,7 +69,7 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 #### 7\. Feedback
 
-We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20081229035613id_/http%3A//multidimensions.net/php/response.php?mail=support).   
+We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20090515022536id_/http%3A//www.multidimensions.net/php/response.php?mail=support).   
   
   
 
