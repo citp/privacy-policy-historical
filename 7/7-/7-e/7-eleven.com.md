@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052601id_/http%3A//www.7-eleven.com/Home/tabid/72/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515124836id_/http%3A//www.7-eleven.com/Home/tabid/72/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # 7-Eleven.com > Home
 
