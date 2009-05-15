@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nympho.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125420id_/http%3A//nympho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nympho.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516003322id_/http%3A//nympho.com/privacy.html) for the most accurate reproduction.*
 
 # Nympho.com / Privacy / The newest FREE Adult Mega Site-100% FREE XXX PORN!! ONLY AN E-MAIL ADDRESS REQUIRED!
 
