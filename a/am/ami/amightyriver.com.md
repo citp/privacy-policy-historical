@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218144355id_/http%3A//www.amightyriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightyriver.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515115320id_/http%3A//www.amightyriver.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | A Mighty River
+# African American Job Search, Black Jobs - Privacy Policy
 
 A Mighty River is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, A Mighty River has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy.
 
