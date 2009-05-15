@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the exportersindia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095241id_/http%3A//www.exportersindia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportersindia.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515141922id_/http%3A//www.exportersindia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy,Privacy Informations,Important Notice from Exportersindia
 
-This is the Privacy Policy governing your use of the Exportersindia.com Site. By using this Site, you consent to our Privacy Policy. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Exportersindia.com which by use of this Site you agree to accept.   
-
+This is the Privacy Policy governing your use of the Exportersindia.com Site. By using this Site, you consent to our Privacy Policy. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Exportersindia.com which by use of this Site you agree to accept. 
 
 **_The Information We Collect_**
 
@@ -84,4 +83,4 @@ Exportersindia.com welcomes your continuous input regarding our Privacy Policy o
 
 **_Important Notice_ :-**
 
-Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy.
+Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy. 
