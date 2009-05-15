@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219233352id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515125641id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
 # BleepingComputer.com - Privacy Policy
 
-**Updated July 13, 2007**
+**Updated April 21, 2009**
 
 **Overview**
 
@@ -14,13 +14,13 @@ BleepingComputer is dedicated to protecting your personal information and due to
 
 BleepingComputer.com will collect personally identifying information during the following: (i) optional user surveys; (ii) optional events, sweepstakes, contests or promotion registrations; (iii) member registration; and (iv) registrations for certain interactive parts of our site where visitors can provide content and suggestions or participate in interactive discussions. 
 
-Each time a visitor connects to our Web Page, our Web Server will automatically log that visitor's domain name and ip address. This is standard policy with all sites and is used to track which pages visitors access and how long they spend there. This information will only be used internally to Bleeping Computer to allow us to find what content is relevant to our members. We will collect information that visitors provide to us through surveys and other submissions but will never share this information unless given permission by the member. BleepingComputer.com may retain information indefinitely. 
+Each time a visitor connects to our Web Page, our Web Server will automatically log that visitor's domain name and IP address. This is standard policy with all sites and is used to track which pages visitors access and how long they spend there. This information will only be used internally to Bleeping Computer to allow us to find what content is relevant to our members. We will collect information that visitors provide to us through surveys and other submissions but will never share this information unless given permission by the member. BleepingComputer.com may retain information indefinitely. 
 
 Email addresses are collected when you register an account or to contact the site administrators. These email addresses are used for only the following purposes: (i) Validation of a member registration, (ii) Topic and forum subscription notifications, (iii) For the site administrator to contact the particular user. At no time will email addresses be provided to 3rd parties or be used for other purposes. 
 
 BleepingComputer.com may at time allow user profiles to be visible to the public. These profiles may contain personally identifying information volunteered by its visitors. All information that is publicly visible is provided by the member and can be changed by the member by editing their profile. Under no circumstances will unauthorized member information be able to be seen by the public. 
 
-From time to time Bleeping Computer may offer surveys, sweekpstakes, and promotions to visitors. Any information that is collected by these surveys, sweepstakes, or promotions may be passed on to third party organizations. Under no circumstances will we pass on this information without notifying you that this will be done at the beginning of the survey, sweepstake, or promotion. If you choose not to participate in these promotions then your information will never be released to any third-party organizations. 
+From time to time Bleeping Computer may offer surveys, sweepstakes, and promotions to visitors. Any information that is collected by these surveys, sweepstakes, or promotions may be passed on to third party organizations. Under no circumstances will we pass on this information without notifying you that this will be done at the beginning of the survey, sweepstake, or promotion. If you choose not to participate in these promotions then your information will never be released to any third-party organizations. 
 
 **What does BleepingComputer.com do with the information it collects?**
 
@@ -50,24 +50,36 @@ We will not knowingly use information collected from visitors under 13 years of 
 
 BleepingComputer collects IP addresses for the purpose of statistical reporting and to report statistical information to our advertisers. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. The web servers that our site is running, will automatically log that information for our future use. 
 
-**How we use Cookies.**
+**How BleepingComputer.com uses Cookies.**
 
 Cookies are small text files that a web site sets on your computer in your hard drive in order to recognize you in the future. Cookies make using our site easier, as they allow you to save your password, and automatically log into BleepingComputer.com. The use of cookies is an industry standard and you will find them at almost all major web sites. 
 
-By using cookies we can also see how our guests use the site. From the cookies we can see which areas are most frequented and therefore most popular. From this information we can then gear our content towards what you want to find at BleepingComputer.com. 
-
 BleepingComputer.com uses cookies to save your password for future visits as well as for identifying what the more popular sections of the site are. At times we will use another company to handle our online commerce. When this is the case that company may use cookies to keep track of your shopping cart while you are shopping. 
 
-We do not use cookies to retrieve information from your computer that was not originally sent in a cookie nor use cookies to track your movements on the Internet or any other information. We will not use any information transferred through cookies for any promotional or marketing purposes other than what has been discussed before. 
+We do not use cookies to retrieve information from your computer that was not originally sent in a cookie nor use cookies to track your movements on the Internet or any other information. We will not use any information transferred through cookies for any promotional or marketing purposes. 
 
-You may occasionally get cookies from our advertisers. BleepingComputer.com does not control these cookies, and these cookies are not subject to the BleepingComputer.com cookies policy. 
+Certain web pages may contain images, sometimes called web beacons, that allow a web site to count users who have visited that page. BleepingComputer.com will only use web beacons within its web site in order to count users that have visited that page. 
 
-Certain web pages may contain images, sometimes called web beacons, that allow a web site to count users who have visited that page. BleepingComputer.com may use web beacons within its website in order to count users. 
+You may occasionally get cookies from our advertisers, such as Google. BleepingComputer.com does not control these cookies, and these cookies are not subject to the BleepingComputer.com cookies policy. Information about how our advertisers use cookies can be found in the next section.
+
+**How advertisers use cookies at BleepingComputer.com**
+
+We use third-party advertising companies, such as Google, to serve ads when you visit our web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+Google specific cookie information:
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+If you would like more information about Google's use of cookies and to know your choices about not having this information used by them, click [here](http://www.google.com/privacy_ads.html).
 
 **How to Unsubscribe from BleepingComputer.com**
 
 If you are a member of this site, and would like to unsubscribe, you can [contact us](http://www.bleepingcomputer.com/contactus.php) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it as per your wish. 
 
-By using this website, you signify your assent to the BleepingComputer Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time . Please check this page periodically for changes that may have occurred. You continued use of this website following the posting of these changes signifies that you accept those changes. 
+By using this web site, you signify your assent to the BleepingComputer Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time . Please check this page periodically for changes that may have occurred. You continued use of this web site following the posting of these changes signifies that you accept those changes. 
 
 If at any time you would like to communicate with us about your privacy concerns, please e-mail us using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
