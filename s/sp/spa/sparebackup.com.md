@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2008-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080804094848id_/http%3A//www.sparebackup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515231415id_/http%3A//sparebackup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,6 @@ You may decline to receive promotional email from us. Every promotional email we
 
 By using our Website, the user agrees to the terms and conditions set forth in this Privacy Statement and the Site Terms of Use INCLUDING ALL LIMITATIONS OF DAMAGES PROVISIONS which are an integral part hereof and the user consents to the collection and use of this information by SBI as disclosed in this Privacy Statement. 
 
-**Copyright ©2006-2008 Spare Backup, Inc. All rights reserved.**
+**Copyright ©2005-2009 Spare Backup, Inc. All rights reserved.**
 
-**This Privacy Policy was last revised on April 24, 2008.**
+**This Privacy Policy was last revised on January 05, 2009.**
