@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041331id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515190754id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
 
 # 0800-horoscope.com - Privacy Policy
-
- | 
 
 ### Privacy Statement
 
@@ -11,6 +9,14 @@ Euregio.Net AG has created this privacy statement in order to demonstrate our fi
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information such as the country where the requests are coming from.
 
 Our site uses cookies to keep track of your quiz entries and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests - such as personalized questions in quizzes and tests or horoscopes for your date of birth.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please read on.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our Web sites. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis - only global and broad information is being shared. No personal information about users is divulged.
 
@@ -66,6 +72,3 @@ Wirtzfeld 140
 4760 Büllingen  
 Belgium  
 webmaster@0800-horoscope.com 
-
-|    
----|---|---
