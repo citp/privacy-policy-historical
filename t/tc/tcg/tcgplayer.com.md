@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133231id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515143153id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -92,7 +92,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [Submit@TCGplayer.com](mailto:submit@TCGplayer.com)
+  1. You can send email to [Webmaster@TCGplayer.com](mailto:Webmaster@TCGplayer.com)
   2. You can use the edit functions built into the various programs being used on the site.
 
 
@@ -101,13 +101,24 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[Submit@TCGplayer.com](mailto:submit@TCGplayer.com) All original content herein is Copyright 2000-2008 **Ascension Gaming Network, Inc.**  
+[Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com) All original content herein is Copyright 2000-2009 **Ascension Gaming Network, Inc.**  
 No portion of this web site may be used in any way without expressed written consent.  
 All rights reserved.  
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  |  | LATEST DREAMBLADE ARTICLE  
+|  | 
+
+  
+| LATEST WoW TCG ARTICLE  
+---  
+  
+|  **[RC Prep: The Final Push](http://wow.tcgplayer.com/db/article.asp?ID=3086)**  
+---  
+  
+Realm Championships is now less than a week away, and it's time for finishing preparations. During this final week of prep you should take the time to familiarize yourself with your deck and its matchups.   
+  
+LATEST DREAMBLADE ARTICLE  
 ---  
 LATEST SPOILS ARTICLE  
 ---  
@@ -116,14 +127,6 @@ LATEST SPOILS ARTICLE
 ---  
   
 In this week's instalment of Canadien Bacon, we are going to continue talking about “Rogue Decks” of 1st Edition. We're switching gears and playing the aggro game.   
-  
-LATEST Pokemon ARTICLE  
----  
-  
-|  **[Kingdra](http://pokemon.tcgplayer.com/db/article.asp?ID=2742)**  
----  
-  
-With a new format, there are brand new cards and decks to choose from. Now that Scramble and Double Rainbow Energy have rotated out, the game has changed completely.   
   
 LATEST Heroclix ARTICLE  
 ---  
