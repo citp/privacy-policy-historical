@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021157id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516005908id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - The Diamond and Watch Specialist - Ernest Jones
 
