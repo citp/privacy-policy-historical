@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031550id_/http%3A//www.travelalaska.com/contact/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515131556id_/http%3A//www.travelalaska.com/contact/privacy.aspx) for the most accurate reproduction.*
 
 # Travel Alaska - Privacy Policy
 
@@ -14,6 +14,8 @@ Monthly travel tips, highlights and savings!
 
 Your Email:
 
+## My Alaska Trip
+
 ## Privacy Policy  
 
 The Alaska Travel Industry Association values you as a customer, and we respect your right to online privacy while using our web site. Our Privacy Policy is shared with you because we are committed to protecting your privacy while using our site.
@@ -26,8 +28,7 @@ We may from time to time collect anonymous information regarding the use of our 
 
 Your personal information is stored in secure operating environments that are not available to the public. Your personal information is only accessible by selected company employees who have access to selected databases, which are further protected by ID and password requirements.
 
-I am looking for in
-
-## My Alaska Trip
+I am looking for   
+in
 
 ## Featured Listings
