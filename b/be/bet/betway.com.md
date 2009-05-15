@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090702id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515195619id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
@@ -12,7 +12,7 @@ During the registration process and when you subsequently use your Betway accoun
 
 Your Personal Data is held by us on servers based in Malta and elsewhere from time to time.
 
-All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by [clicking here](https://web.archive.org/account/settings) and following the simple steps.
+All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by [clicking here](https://web.archive.org/myaccount/settings) and following the simple steps.
 
 Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other companies in our group, business partners, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
 
