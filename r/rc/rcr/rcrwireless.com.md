@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the rcrwireless.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217180830id_/http%3A//rcrwireless.com/section%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcrwireless.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515214321id_/http%3A//www.rcrwireless.com/section%26template%3Dprivacy) for the most accurate reproduction.*
 
-# None | RCR Wireless News
+# RCR Wireless News
 
 This is the Web site of RCR Wireless News.
 
 Our postal address is:  
-1746 Cole Blvd., Suite 150  
-Golden, CO 80401
+3112 Windsor Road, A349  
+Austin, TX 78703  
 
-We can be reached via e-mail at [rcrwebhelp@crain.com](mailto:rcrwebhelp@crain.com) or you can reach us by telephone at 303-733-2500.Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
+
+We can be reached via e-mail at [jmucci@ardenmediaco.com](mailto:jmucci@ardenmediaco.com) or you can reach us by telephone at 512-431-8912.Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
@@ -18,12 +19,12 @@ We may also set cookies to your computer to allow subscribers and users to store
 
 Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or “clicked” their advertising banners. We will disclose site usage information to third parties only in aggregate.
 
-From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [rcrwebhelp@crain.com](mailto:rcrwebhelp@crain.com) or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement.
+From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [jmucci@ardenmediaco.com](mailto:jmucci@ardenmediaco.com) or, if you are a print subscriber, please call 512-431-8912. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement.
 
-We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [rcrwebhelp@crain.com](mailto:rcrwebhelp@crain.com). You may not be able to fully access this Web site if you request removal of your personal information.
+We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [jmucci@ardenmediaco.com](mailto:jmucci@ardenmediaco.com). You may not be able to fully access this Web site if you request removal of your personal information.
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc. Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
+If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Arden Media Company at [jmucci@ardenmediaco.com](mailto:jmucci@ardenmediaco.com) or 512 431 8912.
 
-Policy Last Updated: January 1, 2005
+Policy Last Updated: May 12, 2009
