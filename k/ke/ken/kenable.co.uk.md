@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220013646id_/http%3A//www.kenable.co.uk/privacy.php%3FosCsid%3D7ccfb3537faaf193e79aaf4322a5620a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516014636id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
-# kenable - for cables, networking and peripherals
+# kenable for HDMI Optical TOS Network Ethernet RJ45 Scart Audio Phono Jack USB Firewire 800 ADSL Cable Leads
 
 |  |   
 ---  
