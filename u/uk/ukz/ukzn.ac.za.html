@@ -1,125 +1,861 @@
-<!--The following is the downloaded HTML source of the ukzn.ac.za privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615045534id_/http%3A//www.ukzn.ac.za/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukzn.ac.za privacy policy that was archived on 2009-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090515173312id_/http%3A//www.ukzn.ac.za/PrivacyPol.aspx) for the most accurate reproduction.-->
 
-<html><head></head><body background="/images/greyback.gif"><mm:beginlock translatorclass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22adovbs.inc%22--%3E" fileref="adovbs.inc" depfiles="file:///J|/wwwroot/inc/adovbs.inc">
-<mm:endlock>
-<mm:beginlock translatorclass="MM_SSI" type="ssi_comment" orig="%3C!--#include file=%22unglobals.inc%22--%3E" fileref="unglobals.inc" depfiles="file:///J|/wwwroot/inc/unglobals.inc"><mm:endlock> 
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="University of KwaZulu-Natal;UKZN;University;Natal;South Africa;Education;Durban;Study;Research;Alumni;Students;Student;Tertiary institution;Teritary;South;Higher Education ">
+<meta name="keywords" content="University of KwaZulu-Natal, South Africa - Web Site">
+<title>University of KwaZulu Natal</title>
+<link href="/ukzn_template.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/Common.js"></script>
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
 
 
+    function SearchSiteEnter(e) {
+
+        var key;
+        if (window.event)
+            key = window.event.keyCode; //IE
+        else
+            key = e.which; //firefox      
+
+        if (key == 13) {
+            var searchvalue = document.getElementById('q');
+            SearchSite(searchvalue);
+        }
+    }
+
+    function SearchSite(search) {
+        if (search.value != '')
+            window.parent.location = '/search.aspx?cx=011803114398820865437%3Augpuxu4q8rq&cof=FORID%3A11&q=' + search.value
+        else
+            window.alert('Please enter a search criteria');
+    }
+
+    function searchPersonEnter(e) {
+
+        var key;
+        if (window.event)
+            key = window.event.keyCode; //IE
+        else
+            key = e.which; //firefox      
+
+        if (key == 13)
+            searchPerson();
+    }
+
+    function searchPerson() {
+        var field = document.getElementById('sFirstName');
+        var search = document.getElementById('ctl00_txtPerson');
+
+        field.value = search.value;
+        //window.alert(field.value);
+
+        if (field.value == '') {
+            window.alert('Please enter a person to search for');
+            return false;
+        }
 
 
+        var oWnd = radopen('/Phonebook.aspx?search=' + field.value, 'RadWindow1');
+        oWnd.refresh();
+        oWnd.center();
+
+    }
+
+var weekdaystxt=["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+function showLocalTime(container, servermode, offsetMinutes, displayversion){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.displayversion=displayversion
+var servertimestring=(servermode=="server-php")? '<? print date("F d, Y H:i:s", time())?>' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '2009/05/15 07:33:26 PM'
+this.localtime=this.serverdate=new Date(servertimestring)
+this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
+this.updateTime()
+this.updateContainer()
+}
+
+showLocalTime.prototype.updateTime=function(){
+var thisobj=this
+this.localtime.setSeconds(this.localtime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+function formatField(num, isHour){
+if (typeof isHour!="undefined"){ //if this is the hour field
+var hour=(num>12)? num-12 : num
+return (hour==0)? 12 : hour
+}
+return (num<=9)? "0"+num : num//if this is minute or sec field
+}
+
+showLocalTime.prototype.updateContainer=function(){
+var thisobj=this
+if (this.displayversion=="long")
+this.container.innerHTML=this.localtime.toLocaleString()
+else{
+var hour=this.localtime.getHours()
+var minutes=this.localtime.getMinutes()
+var seconds=this.localtime.getSeconds()
+var ampm=(hour>=12)? "PM" : "AM"
+var dayofweek=weekdaystxt[this.localtime.getDay()]
+this.container.innerHTML=formatField(hour, 1)+":"+formatField(minutes)+":"+formatField(seconds)+" "+ampm+" ("+dayofweek+")"
+}
+setTimeout(function(){thisobj.updateContainer()}, 1000) //update container every second
+}
+
+function disableenter() {
+    if (window.event.keyCode == 13) {
+        event.returnValue = false;
+        event.cancel = true;
+    }
+} 
+
+</script>
+        
+    <style type="text/css">
 
 
+.RadMenu .rmText
+{
+	display:block;
+}
 
-<meta name="description" content="University of Natal;University;Natal;South Africa;Education;Durban;Study;Research;Alumni;Students;Student;Tertiary institution;Teritary;Saouth">
-<meta name="keywords" content="University of Natal, South Africa - Web Site">
-<title>University of KwaZulu-Natal - Exam Information</title>
-<script>
-	function findfast(target,URL,restore){ 
-	  eval(target+".location='"+URL.options[URL.selectedIndex].value+"'");
-	  if (restore) URL.selectedIndex=0;
-	}
+.RadMenu .rmText
+{
+	display:block;
+}
+
+.RadMenu .rmText
+{
+	display:block;
+}
+
+    </style>
+    
+	<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+}
+.style2 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+}
+        .style3
+        {
+            color: #000000;
+            font-size: 12px;
+        }
+-->
+</style>
+
+    
+        
+</head>
+<body bgcolor="#FFFFFF" onkeydown="disableenter()">
+    <form name="aspnetForm" method="post" action="PrivacyPol.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWBGYPD2QWAh4Jb25rZXlkb3duBR9qYXZhc2NyaXB0OnNlYXJjaFBlcnNvbkVudGVyKCk7ZAIJDw8WAh4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZBYCZg8PFgIfAWhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBQUZY3RsMDAkdWNNYWluTWVudTEkbW51TWFpbgUOY3RsMDAkUmFkTWVudTEFDmN0bDAwJFJhZE1lbnUyBRZjdGwwMCRyYWRXaW5kb3dNYW5hZ2VyBRBjdGwwMCRSYWRXaW5kb3cxA2ftVhJZt7q/QyArk9Xzy1gA6Rs=">
+
+<link class="Telerik_stylesheet" type="text/css" rel="stylesheet" href="/WebResource.axd?d=1zFiytJb4BJjP3_gz4nEloOBsZLkoycJN7CiKAnFoKgsf9rytBGCc6gBfPQU4ROf0&amp;t=633710074741002208"><link class="Telerik_stylesheet" type="text/css" rel="stylesheet" href="/WebResource.axd?d=1zFiytJb4BJjP3_gz4nEloOBsZLkoycJN7CiKAnFoKgsJ9xQ9Va0SsypTK3y1qdE0&amp;t=633710074741002208"><link class="Telerik_stylesheet" type="text/css" rel="stylesheet" href="/WebResource.axd?d=1zFiytJb4BJjP3_gz4nEloOBsZLkoycJN7CiKAnFoKiCKBx9w4ggH8NQJRQHR0Sf8IgtouA-e513Rk4f3eXB9A2&amp;t=633710074741002208"><link class="Telerik_stylesheet" type="text/css" rel="stylesheet" href="/WebResource.axd?d=1zFiytJb4BJjP3_gz4nEloOBsZLkoycJN7CiKAnFoKhTsgWYD73Mo6qT0oIVVSn7p8vsqKZ9F-T3G_NJ9J-lSQ2&amp;t=633710074741002208">
+<script src="/ScriptResource.axd?d=8j3dZRTup94Z18l-2NWp3kZOD2szW0vIg6PyeMFPGFzr3Ggwz0rW_jcNOU9n9bvypLRLS4hNZ-ieUFmeko_YfFRZX1RFiaZ9kPk8gd669ls1&amp;t=698c28ed" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
 </script>
 
-<link rel="stylesheet" href="/stylesheet.css" type="text/css">
-
-<script language="JavaScript1.2" src="/menu.js" type="text/JavaScript"></script>
-<script language="Javascript" src="/menu_build1.js" type="text/JavaScript"></script>
-<mm:beginlock translatorclass="MM_SSI" type="ssi_comment" orig="%3C!-- #include virtual=%22/navtop.htm%22 --%3E" fileref="/navtop.htm" depfiles="file:///C|/Inetpub/wwwroot/navtop.htm">  
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3" background="http://www.ukzn.ac.za/images/blue/topfuzz_blue.jpg">
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2KNCsXTdwewSe1RKeA0g32bgSBouCOhU0iqD82bhGEoq0&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2KNCsXTdwewSe1RKeA0g32YoX1ZrbrZ9ko8i1hney9o3W_YDHbQil71e7aNMX4WfPeiY5XDpbSpMC1TlMuVu-Pc1&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2KNCsXTdwewSe1RKeA0g32bcQWz4jJskYzmAHWrOxMLr2hWA0o9LyMes9j1s1tleLD9OBOiygjL1GtK4dMvZrns1&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2KNCsXTdwewSe1RKeA0g32ZAUZ6Kps2pokDaELtyotwy4pvx5Gto0faAjBn7iU3h1IVD8HAhtVgHGnar7PAovvU1&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2I8mjuerDEf71WV2wsWFWfFEgzHG_pzHcZMybloop3pEkpWSd6ZrxTP7OQvh5lJ3aw2&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2GCC9Phm_dQVjvtRG39ithx0gJy-3m9pjgd-_5giYr8k0&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2KNCsXTdwewSe1RKeA0g32Z7RkcE-sKZ7z8M8UemYvGxfEzJPbsx0XfWRpTMKmt1nA2&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2Myz5RgxYGA7fISn4mIOMGItJ-cnHXWlnCwVBXiLh0hWMDCWMl1UzdhgqXtzt63tWQ2&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k-z1xmhqIUY0G2hI_w6Z2Myz5RgxYGA7fISn4mIOMGL1Y-6no4ztjmu7x1SD0W5x3uCa2ErQ2JUyHCm83Ae2Iw2&amp;t=ffffffff9f4fd9b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDjOWCwLZCx-EDAeT1o689NdPvr_Pm1IV0wifK3oDNdffQ2&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDgMv8gpJSgtfQqxcyygI2hCsuClCNDxD7IW-bk5pnJvvQ2&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDh_OXz10tQIxWe2bSOSPBJEXFPITplj77nImHHOQ2stBg2&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDjSPe_Svt8i7UcVyqUkUs_rjfIuz0cy21EE6IwKXHDR1LPxT0YdyJoSHcSp9kFgDKM1&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDh_OXz10tQIxWe2bSOSPBJEI06ESf9f-djbvVbirqwzmKyG5qOAuPinFcEi1Pa66ks1&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDgFOXlw5a0pP74EArfPe4P7oOFFAenfjqSa5Xstx-o_EGGrzxxHr_RbIyutg9kNY-M1&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDgHdGjAkp2HBcPgyKg623dEbArf2EvNcTUUY4DCR2Dt0hU63TGYEuq4TBqhP0rM_9o1&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y6X-NWPDXoCrymOnM_xTvHkFFbzY6IhYMyqq81kSTDhntq9CsdIANzbi0Ly775qzKuZg1OQ0FBvRxLT9UPhh_l0YGC21mP1b6HISy63l9bc1&amp;t=ffffffff9b93df85" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwLKp5XfBALl2+WxBwLbnp78BALA6ffrCgLpzrSKBQL7nJ+NCgLencaaAwLX/M+yAQK//q2JDAK6mJyiDAKh342vDmnIknpXozkW4RQACuFOvq87LQu3">
+    <div>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="190"><a href="http://www.ukzn.ac.za/index.asp"><img border="0" src="http://www.ukzn.ac.za/images/logo.gif" width="190" height="62"></a></td>
-        <td width="*" valign="top">
-        <p align="right"><a href="http://www.ukzn.ac.za/search/default.asp"><font color="#000000">
-        Search</font></a> |
-        <a href="http://www.ukzn.ac.za/contact/contacts.asp">
-        <font color="#000000">Contacts</font></a> |
-        <a href="http://www.ukzn.ac.za/department/deptlist.asp"><font color="#000000">Site index</font></a><br>
-        &nbsp;</p></td>
-        <td width="160">
-        <p align="right"><img border="0" src="http://www.ukzn.ac.za/images/blue/blueguy.jpg" width="87" height="71"></p></td>
-      </tr>
-      <tr>
-        <td width="190" bgcolor="#0067A4" height="2"></td>
-        <td width="*" valign="top" bgcolor="#0067A4" height="2">
-        </td>
-        <td width="160" bgcolor="#0067A4" height="2">
-        </td>
-      </tr>
-	  <tr>
-        <td width="190" bgcolor="#0183D9" height="18"></td>
-        <td width="*" valign="top" bgcolor="#0183D9" height="18">
-        </td>
-        <td width="160" bgcolor="#0183D9" height="18">
-        </td>
-      </tr>
-    </tbody></table><mm:endlock>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr> 
-	
-    		<td width="150" valign="top" align="left" bgcolor="#CCCCCC">&nbsp;</td>
-    		<td width="*" valign="top" align="left">&nbsp;</td>
-	
-    
-  </tr>
+        <td height="106" background="/images/header_02.jpg"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="578" class="HEADERLOGO" onclick="javascript:window.location='http://www.ukzn.ac.za'"></td>
+            <td align="right" valign="middle"><table border="0" cellspacing="4" cellpadding="0">
+            <tbody><tr>              
+            <td><label>Personnel Search:</label></td>
+            <td>            
+                <input name="ctl00$txtPerson" type="text" id="ctl00_txtPerson" onkeydown="javascript:searchPersonEnter();" style="background-color :#f0f0f0; font-family :Verdana; font-size:10px; font-weight:bold; width:150px">                                      
+                                       
+            </td>
+            <td><img src="/images/search_06.png" alt="search" width="22" height="20" border="0" id="btnPersonal" style="cursor:pointer" onclick="javascript:searchPerson();"></td>
+          </tr>           
+          <tr>
+            <td><label>Site Search:</label></td>          
+            <td><input type="text" id="q" name="q" style="background-color:#f0f0f0; font-family:Verdana; font-size:10px; font-weight:bold; width:150px;" onkeydown="javascript:SearchSiteEnter(event);"></td>
+            <td><img src="/images/search_03.png" alt="search" width="22" height="18" onclick="javascript:SearchSite(q)"></td>
+          </tr>
+          <tr>
+          <td></td>
+          <td> <select name="ctl00$cboQuickLink" id="ctl00_cboQuickLink" onchange="MM_jumpMenu('parent',this,0)" style="background-color:#f0f0f0; font-family:Verdana; font-size:10px; font-weight:bold; width:150px">
+	<option value="Quick Links...">Quick Links...</option>
+	<option value="http://www.ukzn.ac.za/default.aspx">Home Page</option>
+	<option value="http://research.ukzn.ac.za/HomePage9744.aspx">Research</option>
+	<option value="http://alumniaffairs.ukzn.ac.za">Alumni</option>
+	<option value="http://groupwise.ukzn.ac.za/main.php">Groupwise Email</option>
+	<option value="http://library.ukzn.ac.za">UKZN Libraries</option>
+	<option value="http://timetable.ukzn.ac.za/HomePage12835.aspx">Lecture Time Tables</option>
+	<option value="http://sc.ukzn.ac.za/">Exam Results</option>
+
+</select></td>
+          <td></td>
+          </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+                <td height="25" colspan="2" class="RadMenu_Default">                       
+                    
+<link href="/RadControls/Default/Menu.Default.css" rel="stylesheet" type="text/css">
+<div id="qsfexWrapper">
+    <div id="ctl00_ucMainMenu1_mnuMain" class="RadMenu RadMenu_Default qsfexMenu"><font face="Arial" size="3">
+	<!-- 2008.3.1314.35 --><ul class="rmHorizontal rmRootGroup">
+		<li class="rmItem rmFirst"><a href="#" class="rmLink "><span class="rmText">About Us</span></a><div class="rmSlide">
+			<div class="rmScrollWrap rmGroup rmLevel1">
+				<ul class="rmVertical">
+					<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+						
+                        
+                        <table cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr valign="top">
+<td> 
+<div class="multicol">
+<h3>About UKZN</h3>
+                                <ul>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/ukznhistory.aspx">History</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/ukznmission.aspx">Vision &amp; Mission</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/goals.aspx">Goals &amp; Core Values</a></li> 
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/structure.aspx">Organizational Structure</a></li>
+	                 <li><a href="http://www.ukzn.ac.za/AboutUs/african_scholarship.aspx">African Scholarship</a></li>
+</ul></div></td><td><br><br><br>
+
+<div class="multicol">
+	            <ul>
+	                <li><a href="http://registrar.ukzn.ac.za">Office of the Registrar</a></li>	                
+	                <li><a href="http://www.ukzn.ac.za/aboutus/strategicplan.pdf">Strategic Plan 2007 – 2016</a></li>
+	                <li><a href="http://www.ukzn.ac.za/aboutus/AboutUs/ukzncampuses.aspx">Choice of Campuses</a></li>
+	                <li><a href="http://www.ukzn.ac.za/news/ukznthrust.asp?navid=5">UKZN Infrastructure</a></li>
+	                 <li><a href="http://www.ukzn.ac.za/AboutUs/ukznstatute.aspx">UKZN Statute</a></li>
+	                <li><a href="http://conservancy.ukzn.ac.za">Conservancy</a></li>
+	            </ul>
+	           </div></td></tr>
+
+<tr><td><div class="multicol">
+<h3>University Governance</h3>
+	           <ul>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/ukzncouncil1.aspx">Council</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/ukznsenate.aspx">Senate</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/ccommittees.aspx">Council committees</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/scommittees.aspx">Senate committees</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/jcs.aspx">Joint Committees</a></li>
+	                <li><a href="http://www.ukzn.ac.za/AboutUs/iforum.aspx">Institutional Forum</a></li>
+	                
+                                   
+	           </ul>
+	           </div></td>
+<td>
+<div class="multicol">
+<h3>University Leadership </h3><ul>
+                                    <li><a href="http://www.ukzn.ac.za/AboutUs/chancellor.aspx">Chancellor</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/AboutUs/chairofcouncil.aspx">Chair of Council</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/AboutUs/ukznvc.aspx">Vice-Chancellor</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/AboutUs/ukznexec.aspx">Executive Management</a></li>
+                                   <!-- <li><a href="http://www.ukzn.ac.za/AboutUs/execorganogram.pdf">Executive Management Organogram</a></li>-->
+                                   
+</ul></div></td></tr>
+
+<tr><td>
+<div class="multicol">
+<h3>Campus Maps</h3><ul>   
+	                <li><a href="http://www.ukzn.ac.za/campusmaps.aspx"> Edgewood</a></li>
+	                <li><a href="http://www.ukzn.ac.za/campusmaps.aspx">Westville</a></li> 
+                    <li><a href="http://www.ukzn.ac.za/campusmaps.aspx"> Howard College</a></li>
+                    <li><a href="http://www.ukzn.ac.za/campusmaps.aspx"> Pietermaritzburg</a></li>
+                    <li><a href="http://www.ukzn.ac.za/campusmaps.aspx"> Medical School</a></li>                                 
+                             </ul>
+</div>
+</td>
+                                <td>
+<div class="multicol">
+                                <h3>
+                                    Route Maps</h3>
+                                <ul>    
+                                
+                                <!--<map name="Map"><area shape="rect" coords="8,6,102,72" href="#"><area shape="rect" coords="106,6,198,73" href="#"  onclick="javascript:window.open('http://www.ukzn.ac.za/aboutus/Wmap.asp')"><area shape="rect" coords="9,78,102,143" href="#"  onclick="javascript:window.open('http://www.ukzn.ac.za/aboutus/Pmap.asp')"><area shape="rect" coords="107,78,199,142" href="#"  onclick="javascript:window.open('http://www.ukzn.ac.za/aboutus/Hmap.asp')"><area shape="rect" coords="8,148,101,212" href="#"  onclick="javascript:window.open('http://www.ukzn.ac.za/aboutus/Mmap.asp')"><area shape="rect" coords="108,148,198,213" href="#"  onclick="javascript:window.open('http://www.ukzn.ac.za/aboutus/Emap.asp')"></map>-->
+
+                                
+	               
+	                 <li><a href="http://www.ukzn.ac.za/aboutus/Emap.asp" target="_blank">Edgewood</a></li>
+	                 <li><a href="http://www.ukzn.ac.za/aboutus/Wmap.asp" target="_blank">Westville</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/aboutus/Hmap.asp" target="_blank">Howard College</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/aboutus/Pmap.asp" target="_blank">Pietermaritzburg</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/aboutus/Mmap.asp" target="_blank">Medical School</a></li>      
+                                </ul>
+                            </div></td>
+
+</tr>
+                        </tbody></table>
+                           
+                            
+                        
+					</div></li>
+				</ul>
+			</div>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Colleges</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+					
+                            <div class="qsfexCustomMenuSection">
+                                <h3>
+                                    Colleges</h3>
+                                <ul>
+                                    <li><a href="http://coh.ukzn.ac.za">College of Humanities</a></li>
+                                    <li><a href="http://caes.ukzn.ac.za">College of Agriculture, Engineering and Science</a></li>
+                                    <li><a href="http://chs.ukzn.ac.za">College of Health Sciences</a></li>
+                                    <li><a href="http://clm.ukzn.ac.za">College of Law and Management Studies</a></li>
+                                </ul>
+                            </div>
+                        
+				</div></li>
+			</ul>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Faculties &amp; Schools</span></a><div class="rmSlide">
+			<div class="rmScrollWrap rmGroup rmLevel1">
+				<ul class="rmVertical">
+					<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+						
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr valign="top">
+<td width="52%"> 
+<div class="multicol">
+                                <h3>
+                                    <a href="http://engineering.ukzn.ac.za" style="color: #107dca">Faculty of Engineering</a></h3><br>
+                                <ul>
+	                                 Schools
+				<li><a href="http://asap.ukzn.ac.za">Academic Support and Advancement Programme</a></li>	
+                                    <li><a href="http://www.beeh.unp.ac.za/index.htm">Bioresources, Engineering and Environmental Hydrology</a></li>
+                                    <li><a href="http://chemeng.ukzn.ac.za">Chemical Engineering</a></li>
+                                    <li><a href="http://cesc.ukzn.ac.za">Civil Engineering, Surveying and Construction</a></li>
+                                    <li><a href="http://www.ee.ukzn.ac.za">Electrical, Electronic and Computer Engineering</a></li>
+	                <li><a href="http://mecheng.ukzn.ac.za">Mechanical Engineering</a></li>	
+                                </ul>
+                  </div></td>
+                                <td width="48%">
+                            <div class="multicol">
+                                <h3>
+                                    <a href="http://www.sciag.ukzn.ac.za/faculty/" style="color: #107dca">Faculty of Science and Agriculture</a></h3>
+                                <ul>
+                                    Schools
+                                    <li><a href="http://www.ukzn.ac.za/sasa/">Agricultural Sciences and Agribusiness</a></li>
+                                    <li><a href="http://biology.ukzn.ac.za">Biological and Conservation Sciences</a></li>
+                                    <li><a href="http://www.sciag.ukzn.ac.za/bgm/">Biochemistry, Genetics, Microbiology and Plant Pathology</a></li>
+	                <li><a href="http://www.ukzn.ac.za/chemistry">Chemistry</a></li>
+	                <li><a href="http://www.cs.ukzn.ac.za/">Computer Science</a></li>
+	                <li><a href="http://www.sciag.ukzn.ac.za/ses/">Environmental Sciences</a></li>
+	                <li><a href="http://www.geology.ukzn.ac.za/">Geological Sciences</a></li>
+	                <li><a href="http://math.ukzn.za.org/">Mathematical Sciences</a></li>
+	                <li><a href="http://phys.ukzn.ac.za">Physics</a></li>
+	                <li><a href="http://statsactsci.ukzn.ac.za">Statistics and Actuarial Science</a></li>
+	                <li><a href="http://csa.ukzn.ac.za">Centre for Science Access</a></li>
+                                </ul>
+                            </div> </td></tr>
+
+<tr valign="top"> <td>
+                            <div class="multicol">
+                                <h3>
+                                    <a href="http://hs.ukzn.ac.za" style="color: #107dca">Faculty of Health Sciences</a>                                    </h3>
+                                <ul>
+                                    Schools
+                                    <li><a href="http://audotspl.ukzn.ac.za">Audiology, Occupational Therapy and Speech-Language Pathology</a></li>
+                                    <li><a href="http://dentistry.ukzn.ac.za">Dentistry</a></li>
+                                    <li><a href="http://medicalsciences.ukzn.ac.za">Medical Sciences</a></li>
+	                <li><a href="http://nursing.ukzn.ac.za">Nursing</a></li>
+	                <li><a href="http://www.ukzn.ac.za/pharmacy">Pharmacy and Pharmacology</a></li>
+	                <li><a href="http://audotspl.ukzn.ac.za">Physiotherapy, Sport Science and Optometry</a></li>
+	             </ul>
+                            </div> </td>
+
+	              <td>
+                            <div class="multicol">
+                                <h3>
+                                    <a href="http://education.ukzn.ac.za" style="color: #107dca">Faculty of Education</a></h3><br>
+                                <ul>
+                                    Schools
+                                    <li><a href="http://education.ukzn.ac.za/AdEd_HigherEd524.aspx">Adult and Higher Education</a></li>
+                                    <li><a href="http://www.edu.unp.ac.za/">Education and Development</a></li>
+                                    <li><a href="http://edstudies.ukzn.ac.za">Education Studies</a></li>
+	                <li><a href="http://www.ukzn.ac.za/ssse">Social Science Education</a></li>
+	                <li><a href="http://sllmde.ukzn.ac.za">Language, Literacy, Media and Drama Education</a></li>
+	                <li><a href="http://smte.ukzn.ac.za">Science, Mathematics and Technology Education</a></li>
+	             </ul>
+                            </div> </td>
+</tr>
+<tr valign="top">
+  <td><div class="multicol"><h3><a href="http://hdss.ukzn.ac.za" style="color: #107dca">Faculty of Humanities, Development and Social Sciences</a></h3>
+    <ul>
+      Schools
+      <li>Anthropology, Gender &amp; Historical Studies</li>
+      <li><a href="http://www.ukzn.ac.za/arch/">Architecture, Planning &amp; Housing</a></li>
+      <li><a href="http://sds.ukzn.ac.za/">Development Studies</a></li>
+      <li><a href="http://isizulu.ukzn.ac.za">IsiZulu Studies</a></li>
+      <li><a href="http://www.ukzn.ac.za/lll">Language, Literature &amp; Linguistics</a></li>
+      <li>Literary Studies, Media &amp; Creative Arts</li>
+      <li><a href="http://music.ukzn.ac.za">Music</a></li>
+      <li><a href="http://spe.ukzn.ac.za">Philosophy &amp; Ethics</a></li>
+      <li><a href="http://politics.ukzn.ac.za">Politics</a></li>
+      <li><a href="http://psychology.ukzn.ac.za">Psychology</a></li>
+      <li><a href="http://www.sorat.ukzn.ac.za/">Religion &amp; Theology</a></li>
+      <li><a href="http://swcd.ukzn.ac.za">School of Social Work and Community Development</a></li>
+      <li><a href="http://sass.ukzn.ac.za">Sociology &amp; Social Studies</a></li>
+    </ul></div></td>
+  <td><div class="multicol">
+    <h3><a href="http://msf.ukzn.ac.za" style="color: #107dca">Faculty of Management Studies</a> </h3><br>
+    <ul>
+      Schools
+      <li><a href="http://acc.ukzn.ac.za">Accounting</a></li>
+      <li><a href="http://is.ukzn.ac.za">Information System &amp; Technology</a></li>
+      <li><a href="http://publicadmin.ukzn.ac.za">Public Administration</a></li>
+      <li><a href="http://economics.ukzn.ac.za">Economics and Finance</a></li>
+      <li><a href="http://gsb.ukzn.ac.za">Graduate School of Business</a></li>
+      <li><a href="http://management.ukzn.ac.za">Management</a></li>
+    </ul></div></td>
+</tr>
+<tr valign="top">
+  <td><div class="multicol">
+    <h3><a href="http://medschool.ukzn.ac.za" style="color: #107dca">Nelson R Mandela School of Medicine</a> </h3>
+    <ul>
+      Schools
+      <li><a href="http://www.ukzn.ac.za/medicine/medicine/home.htm">Clinical Medicine</a></li>
+      <li>Family and Public Health</li>
+      <li>Laboratory Medicine</li>
+      <li>Maternal, Chid and Women's Health</li>
+      <li>Surgical Disciplines</li>
+      <li><a href="http://sume.ukzn.ac.za">Undergraduate Medical Education</a></li>
+    </ul>
+  </div></td>
+  <td><div class="multicol">
+    <h3><a href="http://law.ukzn.ac.za" style="color: #107dca">Faculty of Law</a></h3>
+    </div></td>
+</tr>
 </tbody></table>
 
-
-<table border="0" width="100%" height="70%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="right" valign="top" width="150">&nbsp;</td>
-    <td align="left" valign="top" width="*">
-    <p></p><h1>Privacy Policy</h1><p></p>
-    The
-    University of KwaZulu-Natal respects each individual user's right to privacy. <br>
-    <br>
-    In order to make your visit to the University of KwaZulu-Natal's Web site easier and more friendly
-    we may place a "cookie" on your hard drive. Cookies are small pieces of
-    information that a Web site places on your computer's hard drive for tracking where you
-    are in the site and also allows us to create page content dynamically from information
-    stored on our Web. <br>
-    <br>
-    We do not store any information collected while you are visiting our Web site. However,
-    under certain conditions, such as the filling a form requesting information from us or
-    when making an on-line application, such information is stored to enable us to process
-    your request. Also, such information enter here will be known to only two parties: you and
-    the University of KwaZulu-Natal.<br>
-    <br>
-    E-mail addresses and other personal information stored on your computer is never, under
-    any condition, read from your computer. <br>
-    <br>
-    If you have any queries regarding our Web site please <a href="/contact/contacts.asp">contact</a> us.<br>
-    <br>
-    
-    </td>
-  </tr>
-</tbody></table>
-
-	    	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-      <tbody><tr>
-        <td width="150" bgcolor="#E3E3E3" height="2"></td>
-        <td width="*" height="2"></td>
-      </tr>
-      <tr>
-        <td width="150" bgcolor="#E3E3E3">
-        &nbsp;</td>
-        <td width="*" bgcolor="#F6F4F5">
-        <p align="right">&nbsp;<a href="http://www.ukzn.ac.za/contact/contacts.asp">Contact us</a> |
-        <a href="http://www.ukzn.ac.za/search/default.asp">Search</a><br>
-        <a href="http://www.ukzn.ac.za/privacy/access.asp">Promotion of
-        Access to Information act</a> | <a href="http://www.ukzn.ac.za/privacy/default.asp">Privacy Policy</a><br><br>
-
-        <font size="1">Last updated on&nbsp;15 June 2006<br>
-        All information Copyright
-        <img border="0" src="/images/copyrightsymbol.gif" width="10" height="10"> 2004 University of KwaZulu-Natal. All rights 
-        reserved.</font></p></td>
+                      
+					</div></li>
+				</ul>
+			</div>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">News &amp; Publications</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+					
+                            <div class="qsfexCustomMenuSection">
+                                <h3>
+                                    News &amp; Publications</h3>
+                                <ul>
+                                    <li><a href="http://www.ukzn.ac.za/publications/default.aspx">UKZN Publications</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/publications/online.aspx">UKZN Online</a></li>
+                                    <li><a href="http://ukznnews.ukzn.ac.za/News.aspx">UKZN News</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/chs/admin.aspx">Directory of Experts</a></li>
+                                </ul>
+                            </div>
+                        
+				</div></li>
+			</ul>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Calendar</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+					
+                            <div class="qsfexCustomMenuSection">
+                                <h3>
+                                    Academic Calendar 2009</h3>
+                                <ul>
+                                    <li><a href="http://registrar.ukzn.ac.za/HCPMBW18228.aspx">Howard College,
+                                        Pietermaritzburg and Westville Campuses</a></li>
+                                    <li><a href="http://registrar.ukzn.ac.za/NRMSMSessionalDates200nine18139.aspx">Nelson R Mandela
+                                        School of Medicine</a></li>
+                                    <li><a href="http://registrar.ukzn.ac.za/2009EducationSessionalDates18134.aspx">Education</a></li>
+                                </ul>
+                            </div>
+                            <div class="qsfexCustomMenuSection">
+                                <h3>
+                                    Events Calendar</h3>
+                                <ul>
+                                    <li><a href="http://www.ukzn.ac.za/events.aspx">Events Calendar</a></li>
+                                </ul>
+                            </div>
+                        
+				</div></li>
+			</ul>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Services &amp; Resources</span></a><div class="rmSlide">
+			<div class="rmScrollWrap rmGroup rmLevel1">
+				<ul class="rmVertical">
+					<li class="rmItem rmFirst rmLast rmTemplate "><div class="rmText">
+						
+                            <div class="qsfexCustomMenuSection">
+                              <h3>Facilities</h3>
+                                <ul>
+                                    <li><a href="http://paton.ukzn.ac.za">Alan Paton Centre</a></li>
+                                    <li><a href="http://avc.ukzn.ac.za">Audio Visual Division</a></li>
+                                    <li><a href="http://campbell.ukzn.ac.za/">Campbell Collections</a></li>
+                                    <li><a href="http://scnc.ukzn.ac.za/">Documentation Centre</a></li>
+                                    <li><a href="http://ukzninternational.ukzn.ac.za">International Relations</a></li>
+                                    <li><a href="http://library.ukzn.ac.za">Libraries</a></li>
+                                    <li><a href="http://stip.ukzn.ac.za">Science &amp; Technology Innovation Park</a></li>
+                                    <li><a href="http://aidsprogramme.ukzn.ac.za">The Aids Programme</a></li>
+                                    <li><a href="http://library.ukzn.ac.za/UniversityArchives669.aspx">University Archives</a></li>                             
+                                </ul>
+                            </div>
+                            <div class="qsfexCustomMenuSection">
+                                <h3>
+                                    Support Services</h3>
+                                <ul>
+			 		<li><a href="http://foundation.ukzn.ac.za">Community Investment - UKZN Foundation</a></li>
+                                    
+                                    <li><a href="http://corporaterelations.ukzn.ac.za">Corporate Relations</a></li>
+				    <li><a href="http://finance.ukzn.ac.za">Finance</a></li>
+                                    <li><a href="http://hr.ukzn.ac.za">Human Resources</a></li>
+                                    <li><a href="http://ict.ukzn.ac.za">Information &amp; Communication Technology Division</a></li>
+                                    <li><a href="http://iptto.ukzn.ac.za">IP &amp; Technology Transfer Office</a></li>
+                                    <li><a href="http://www.ukzn.ac.za/dmi">Management Information</a></li>
+                                    <li><a href="http://qpa.ukzn.ac.za">Quality Promotion &amp; Assurance</a></li>
+                                    <li><a href="http://research.ukzn.ac.za">Research Office</a></li>
+                                    <li><a href="http://rms.ukzn.ac.za">Risk Management Services</a></li>
+                                                                        
+                                    <li><a href="http://saa.ukzn.ac.za">Student Academic Administration</a></li>
+                                    <li><a href="http://switchedon.ukzn.ac.za">Switched On</a></li>
+                                    <li><a href="http://utlo.ukzn.ac.za">University Teaching &amp; Learning Office</a></li>                                    
+                                </ul>
+                          </div>
+                        
+					</div></li>
+				</ul>
+			</div>
+		</div></li><li class="rmItem"><a href="http://www.ukzn.ac.za/department/deptlist.asp" class="rmLink "><span class="rmText">Site Index</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/contacts.aspx" class="rmLink "><span class="rmText">Contact Us</span></a></li>
+	</ul><input id="ctl00_ucMainMenu1_mnuMain_ClientState" name="ctl00_ucMainMenu1_mnuMain_ClientState" type="hidden">
+</font></div>
+</div>
+ 
+                </td>            
+         </tr>
+        </tbody></table></td>
       </tr>
     </tbody></table>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablemain" id="Table_01">
+    
+        
+        <tbody><tr>
+            <td colspan="3" align="left" valign="top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+              
+              <tbody><tr>
+                <td width="162" height="457" align="center" valign="top" bgcolor="#ECEDEF"><table width="162" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td height="26" align="left" valign="middle" bgcolor="#E0E0E0" class="style5">Information For</td>
+                  </tr>
+                  <tr>
+                    <td height="26" align="left" valign="top">
+                <div id="ctl00_RadMenu1" class="RadMenu RadMenu_ urbangreymenu">
+	<ul class="rmVertical rmRootGroup">
+		<li class="rmItem rmFirst"><a href="#" class="rmLink "><span class="rmText">  Prospective Students</span></a><div class="rmSlide">
+			<div class="rmScrollWrap rmGroup rmLevel1">
+				<ul class="rmVertical">
+					<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/prospective/appforms.aspx" class="rmLink "><span class="rmText">How to apply</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/EntranceReq2009.aspx" class="rmLink "><span class="rmText">Entrance<br>Requirements 2009</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/undergradprospectus.aspx" class="rmLink "><span class="rmText">Undergraduate<br>Prospectus 2009</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/studentfund/" class="rmLink " target="_blank"><span class="rmText">Student<br>Funding 2009</span></a></li><li class="rmItem"><a href="http://saa.ukzn.ac.za/Registration11070.aspx" class="rmLink "><span class="rmText">Registration<br>Information</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/Accomodation.aspx" class="rmLink "><span class="rmText">Accommodation</span></a></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Student Services &amp;<br>Development » </span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/prospective/StudentServices/AcadSupportDev.aspx" class="rmLink "><span class="rmText">Academic &amp; Support<br>Programmes</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/StudentServices/CaringForStudentsNeeds.aspx" class="rmLink "><span class="rmText">Caring for Students<br>Needs</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/StudentServices/SportnRec.aspx" class="rmLink "><span class="rmText">Sports &amp; Recreation</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/StudentServices/StudGovAct.aspx" class="rmLink "><span class="rmText">Student Government<br>&amp; Activities</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/prospective/StudentServices/StudFacilities.aspx" class="rmLink "><span class="rmText">Student Facilities</span></a></li>
+						</ul>
+					</div></li><li class="rmItem"><a href="http://www.cao.ac.za/" class="rmLink " target="_blank"><span class="rmText">Central Applications<br>Office</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/SafetySec.aspx" class="rmLink "><span class="rmText">Safety &amp; Security</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/handbooks" class="rmLink "><span class="rmText">Faculty Handbooks<br>2009</span></a></li><li class="rmItem"><a href="http://ukzninternational.ukzn.ac.za" class="rmLink "><span class="rmText">UKZN International</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/PDay.aspx" class="rmLink "><span class="rmText">Parents Day 2009</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Fees/FeeBooklet.aspx" class="rmLink "><span class="rmText">2009 Fees Booklet</span></a></li><li class="rmItem"><a href="Documents/accesspolicy.pdf" class="rmLink "><span class="rmText">Access Policy</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/prospective/AltAcces.aspx" class="rmLink "><span class="rmText">Alternative Access<br>Programmes</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/studentfund" class="rmLink " target="_blank"><span class="rmText">Scholarships &amp; Merit<br>Awards 2009</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/prospective/RulesForStudents.aspx" class="rmLink "><span class="rmText">Rules for Students</span></a></li>
+				</ul>
+			</div>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">  Current Students</span></a><div class="rmSlide">
+			<div class="rmScrollWrap rmGroup rmLevel1">
+				<ul class="rmVertical">
+					<li class="rmItem rmFirst"><a href="http://timetable.ukzn.ac.za/HomePage12835.aspx" class="rmLink " target="_blank"><span class="rmText">Lecture Timetables</span></a></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Examinination<br>Time Tables » </span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="http://examinations.ukzn.ac.za/HowardCollegeTimeTable16092.aspx" class="rmLink " target="_blank"><span class="rmText">Howard Colledge</span></a></li><li class="rmItem"><a href="http://examinations.ukzn.ac.za/PietermaritzburgTimetable16094.aspx" class="rmLink " target="_blank"><span class="rmText">Pietermartizburg</span></a></li><li class="rmItem"><a href="http://examinations.ukzn.ac.za/EdgewoodTimetable16095.aspx" class="rmLink " target="_blank"><span class="rmText">Edgewood</span></a></li><li class="rmItem rmLast"><a href="http://examinations.ukzn.ac.za/WestvilleCampusTimetable17600.aspx" class="rmLink " target="_blank"><span class="rmText">Westville</span></a></li>
+						</ul>
+					</div></li><li class="rmItem"><a href="https://dmi.ukzn.ac.za/eexams" class="rmLink " target="_blank"><span class="rmText">Electronic Exam<br>Papers</span></a></li><li class="rmItem"><a href="http://examinations.ukzn.ac.za/ExamResults16674.aspx" class="rmLink " target="_blank"><span class="rmText">Examination Results</span></a></li><li class="rmItem"><a href="http://registrar.ukzn.ac.za/Graduation19833.aspx" class="rmLink "><span class="rmText">Graduation 2009</span></a></li><li class="rmItem"><a href="http://examinations.ukzn.ac.za/" class="rmLink "><span class="rmText">Examinations</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Fees/FeeBooklet.aspx" class="rmLink "><span class="rmText">Fees Booklets 2009</span></a></li><li class="rmItem"><a href="http://groupwise.ukzn.ac.za" class="rmLink "><span class="rmText">Groupwise</span></a></li><li class="rmItem"><a href="http://sc.ukzn.ac.za" class="rmLink "><span class="rmText">Student Central</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/handbooks" class="rmLink "><span class="rmText">Faculty Handbooks</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/AcadSup.aspx" class="rmLink "><span class="rmText">Academic &amp; Support <br>Programmes</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/CaringForStudentsNeeds.aspx" class="rmLink "><span class="rmText">Caring for Students <br>Needs</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/SportnRec.aspx" class="rmLink "><span class="rmText">Sports &amp; Recreation</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/StudGovAct.aspx" class="rmLink "><span class="rmText">Student Government<br>&amp; Activities</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/StudFacilities.aspx" class="rmLink "><span class="rmText">Student Facilities</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/studentfund" class="rmLink " target="_blank"><span class="rmText">Financial Support</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Student/SRCElec.aspx" class="rmLink "><span class="rmText">SRC Constitution<br>and Elections<br>Information</span></a></li><li class="rmItem"><a href="http://pcounter.ukzn.ac.za" class="rmLink "><span class="rmText">Student Printing<br>Website</span></a></li><li class="rmItem"><a href="http://innerweb.ukzn.ac.za" class="rmLink "><span class="rmText">Innerweb</span></a></li><li class="rmItem"><a href="http://library.ukzn.ac.za" class="rmLink "><span class="rmText">Libraries</span></a></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Security Handbooks »</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/student/STUDENTHANDBOOKEdgewood2008.pdf" class="rmLink "><span class="rmText">Edgewood</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/student/STUDENTHANDBOOKHC2008.pdf" class="rmLink "><span class="rmText">Howard College</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/prospective/RulesForStudents.aspx" class="rmLink "><span class="rmText">Rules for Students</span></a></li>
+						</ul>
+					</div></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Staff/ShuttleTime.aspx" class="rmLink "><span class="rmText">Shuttle Timetable</span></a></li><li class="rmItem"><a href="http://aidsprogramme.ukzn.ac.za" class="rmLink "><span class="rmText">The Aids Programme</span></a></li><li class="rmItem rmLast"><a href="http://ukzninternational.ukzn.ac.za" class="rmLink "><span class="rmText">UKZN International</span></a></li>
+				</ul>
+			</div>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">  Staff</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a href="http://hr.ukzn.ac.za/Vacancies18953.aspx" class="rmLink "><span class="rmText">Staff Vacancies</span></a></li><li class="rmItem"><a href="http://groupwise.nu.ac.za" class="rmLink "><span class="rmText">Groupwise Web</span></a></li><li class="rmItem"><a href="http://notices.ukzn.ac.za/notices" class="rmLink "><span class="rmText">Notice System</span></a></li><li class="rmItem"><a href="http://intranet.ukzn.ac.za" class="rmLink "><span class="rmText">Innerweb</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/ukznms" class="rmLink "><span class="rmText">Medical Scheme</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/ukznrf" class="rmLink "><span class="rmText">Retirement Fund</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Staff/ShuttleTime.aspx" class="rmLink "><span class="rmText">Shuttle Timetable</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Staff/TRAF-RUL%20Staff.pdf" class="rmLink "><span class="rmText">Staff Traffic Rules</span></a></li><li class="rmItem"><a href="https://feeremission.nu.ac.za/" class="rmLink "><span class="rmText">Remission of Fees</span></a></li><li class="rmItem"><a href="http://hr.ukzn.ac.za/Webapps9310.aspx" class="rmLink "><span class="rmText">Leave Application</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/SendAnnouncement.aspx" class="rmLink "><span class="rmText">Send Announcements</span></a></li>
+			</ul>
+		</div></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">  Visitors</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/AboutUs/ukznmission.aspx" class="rmLink "><span class="rmText">Our Vision &amp; Mission</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/ukznexec.aspx" class="rmLink "><span class="rmText">Executive<br>Management</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/ukzncouncil1.aspx" class="rmLink "><span class="rmText">Council</span></a></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Route Maps »</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/aboutus/Emap.asp" class="rmLink "><span class="rmText">Edgewood</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/images/howard_college.gif" class="rmLink "><span class="rmText">Howard College</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/images/medschool.gif" class="rmLink "><span class="rmText">Medical School</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/Pmap.asp" class="rmLink "><span class="rmText">Pietermaritzburg</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/aboutus/images/westville.gif" class="rmLink "><span class="rmText">Westville</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a href="#" class="rmLink "><span class="rmText">Campus Maps »</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/campusmaps.aspx" class="rmLink "><span class="rmText">Edgewood</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/campusmaps.aspx" class="rmLink "><span class="rmText">Howard College</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/campusmaps.aspx" class="rmLink "><span class="rmText">Medical School</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/campusmaps.aspx" class="rmLink "><span class="rmText">Pietermaritzburg</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/campusmaps.aspx" class="rmLink "><span class="rmText">Westville</span></a></li>
+					</ul>
+				</div></li>
+			</ul>
+		</div></li><li class="rmItem rmLast"><a href="http://alumniaffairs.ukzn.ac.za/HomePage73.aspx" class="rmLink "><span class="rmText">  Alumni</span></a></li>
+	</ul><script type="text/javascript">
+		Telerik.Web.UI.RadMenu._adjustRootItemWidth("ctl00_RadMenu1");
+	</script><input id="ctl00_RadMenu1_ClientState" name="ctl00_RadMenu1_ClientState" type="hidden">
+</div>                   
+                     </td>
+                  </tr>
+                  <tr>
+                    <td height="26" align="left" valign="middle" bgcolor="#E0E0E0"><p><span class="style5">Information About</span></p>                </td>
+                  </tr>
+                  <tr>
+                    <td height="26" align="left" valign="top">
+<div id="ctl00_RadMenu2" class="RadMenu RadMenu_None urbangreymenu">
+	<ul class="rmVertical rmRootGroup">
+		<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/aboutus/ukzncampuses.aspx" class="rmLink "><span class="rmText">  Campuses</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/aboutus/Faculties.asp" class="rmLink "><span class="rmText">  Colleges &amp; Faculties</span></a></li><li class="rmItem"><a href="#" class="rmLink "><span class="rmText">Courses and Degrees</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a href="http://www.ukzn.ac.za/Courses/ScienceAgric.aspx" class="rmLink "><span class="rmText">College of Agriculture Engineering &amp; Science</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Courses/HealthSciences.aspx" class="rmLink "><span class="rmText">College of Health Sciences</span></a></li><li class="rmItem"><a href="http://www.ukzn.ac.za/Courses/humanities.aspx" class="rmLink "><span class="rmText">College of Humanities</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/Courses/LawManagement.aspx" class="rmLink "><span class="rmText">College of Law &amp; Management Studies</span></a></li>
+			</ul>
+		</div></li><li class="rmItem"><a href="http://research.ukzn.ac.za/" class="rmLink "><span class="rmText">  Research</span></a></li><li class="rmItem"><a href="http://library.ukzn.ac.za/HomePage718.aspx" class="rmLink "><span class="rmText">  Libraries</span></a></li><li class="rmItem rmLast"><a href="http://www.ukzn.ac.za/AdmissionsOffices.aspx" class="rmLink "><span class="rmText">Admissions Offices</span></a></li>
+	</ul><script type="text/javascript">
+		Telerik.Web.UI.RadMenu._adjustRootItemWidth("ctl00_RadMenu2");
+	</script><input id="ctl00_RadMenu2_ClientState" name="ctl00_RadMenu2_ClientState" type="hidden">
+</div></td>
+                </tr><tr><td>
+    <!--- <a href="http://www.ukzn.ac.za/UKZNonline/V3/02/TOWflyer.pdf"><img alt="TOW" src="http://www.ukzn.ac.za/images/tow.jpg" border="0" /></a>  ----></td></tr>                               
+                                           
+                    
+                  
+                  
 
-<!-- <p><br>
---------------------------------------------------------------------<br>
-<i>Please find our disclaimer at <a href=ttp://www.ukzn.ac.za/disclaimer">http://www.ukzn.ac.za/disclaimer</a></i><br>
---------------------------------------------------------------------<br>
-</p> -->
+<!---<tr>
+                    <td height="26" bgcolor="#E0E0E0"><p class="style5">&nbsp;</p>                </td>
+                  </tr>
+---->
+                </tbody></table>  
+                
+                 <a href="http://www.ukzn.ac.za/ukznonline/v3/06/openday.pdf" target="_blank"><img src="http://www.ukzn.ac.za/ukznonline/v3/06/pics/openday.JPG" alt="Jomba 2009"></a>
+                <!--<a href="http://www.ukzn.ac.za/gradmedia2009.aspx" ><img alt="Graduation Media Coverage 2009" src="http://www.ukzn.ac.za/images/grad09MEDIA.png" border="0" /></a>  <br/>					  
+<a href="http://www.ukzn.ac.za/gradhighlights2009.aspx" ><img alt="Graduation Highlights 2009" src="http://www.ukzn.ac.za/images/gradhighlights2.jpg" border="0" /></a>  <br/>
+<a href="http://registrar.ukzn.ac.za/Graduation19833.aspx" target="_blank"><img alt="grad" src="http://www.ukzn.ac.za/images/grad09.gif" border="0" /></a>  <br/>            -->
+                               </td>
+                <td align="left" valign="top">        
+                    
+    <br>
+  <table width="90%" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tbody><tr>
+    <td align="left" valign="top" bgcolor="#484848"><img src="../images/corner.jpg" alt="corner" width="14" height="21" hspace="0" vspace="0"><span class="style2">Privacy Policy</span></td>
+    <td align="right" bgcolor="#484848">&nbsp;</td>
+    <td align="right" valign="top" bgcolor="#484848"><img src="../images/corner2.jpg" alt="cornerrighttop" width="14" height="21" hspace="0" vspace="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><table width="100%" height="74" border="1" cellpadding="10" cellspacing="0" bordercolor="#484848">
+      <tbody><tr>
+        <td width="90%"><table width="90%" height="164" border="0" cellpadding="0" cellspacing="0" bordercolor="#484848">
+            <tbody><tr>
+                <td class="style3">
+                    
+                                   
+                      
+                      
+                           
+              The University of KwaZulu-Natal respects each individual user's right to privacy. <br><br>
 
-<title>UKZN - Privacy Policy</title></mm:endlock></mm:beginlock></mm:endlock></mm:beginlock></mm:endlock></mm:beginlock></body></html>
+In order to make your visit to the University of KwaZulu-Natal's Web site easier and more friendly we may place a "cookie" on your hard drive. Cookies are small pieces of information that a Web site places on your computer's hard drive for tracking where you are in the site and also allows us to create page content dynamically from information stored on our Web. <br>
+
+We do not store any information collected while you are visiting our Web site. However, under certain conditions, such as the filling a form requesting information from us or when making an on-line application, such information is stored to enable us to process your request. Also, such information enter here will be known to only two parties: you and the University of KwaZulu-Natal.<br>
+
+E-mail addresses and other personal information stored on your computer is never, under any condition, read from your computer. <br><br>
+
+If you have any queries regarding our Web site please contact us.
+
+                
+                </td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" colspan="3" bgcolor="#484848">&nbsp;</td>
+  </tr>
+</tbody></table>  <br>
+
+
+
+
+
+
+
+
+
+</td>
+              </tr>
+              
+    
+          </tbody></table></td>
+        </tr>
+        
+        <tr>
+            <td colspan="3" bgcolor="#8A8A8A">
+                <img src="images/spacer.gif" width="1" height="9" alt=""></td>
+        </tr>
+
+
+
+
+
+
+        <tr>
+<td colspan="3" align="left" valign="top" bgcolor="#B7B6B6"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+          <tbody><tr>
+            <td align="center"><a href="http://www.ukzn.ac.za/aboutus/webmaster.aspx">Comment on new design</a> <br><span class="footer">
+         
+Local Time: <span id="timecontainer">7:33:27 PM (Friday)</span>&nbsp;Last updated on
+            <script type="text/javascript">
+                new showLocalTime("timecontainer", "server-asp", 0, "short")
+                document.write(Get_LastUpdate());            
+            </script><br>            
+            <a href="http://www.ukzn.ac.za/AccesstoInfoF.aspx">Promotion of Access to Information Act</a> | <a href="http://www.ukzn.ac.za/PrivacyPol.aspx">Privacy Policy</a><br>
+            All information © 2006 University of KwaZulu-Natal. All rights reserved 
+</span></td>
+          </tr>
+      </tbody></table></td>
+	</tr>
+</tbody></table>
+<!-- End ImageReady Slices -->
+<input type="hidden" id="sFirstName" name="sFirstName" value="sss">
+    
+
+<div id="ctl00_RadAjaxManager1SU">
+	<span id="ctl00_RadAjaxManager1" style="display:none;"></span>
+</div>
+      <div id="ctl00_radWindowManager" style="z-index:52000;display:none;">
+	<div id="ctl00_RadWindow1" style="display:none;">
+		
+                    <input id="ctl00_RadWindow1_ClientState" name="ctl00_RadWindow1_ClientState" type="hidden">
+	</div><div id="ctl00_radWindowManager_alerttemplate" style="display:none;">
+		<div class="windowpopup radalert">			
+			<div class="dialogtext">
+			{1}				
+			</div>
+			
+			<div>
+				<a onclick="$find('{0}').close();" class="radwindowbutton" href="javascript:void(0);">
+					<span class="outerspan">
+						<span class="innerspan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_radWindowManager_prompttemplate" style="display:none;">
+		 <div class="windowpopup radprompt">			
+			    <div class="dialogtext">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function radwindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input onkeydown="return radwindowprompt_detectenter('{0}', event, this);" type="text" class="dialoginput" value="{2}">
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);" class="radwindowbutton" href="javascript:void(0);"><span class="outerspan"><span class="innerspan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="radwindowbutton" href="javascript:void(0);"><span class="outerspan"><span class="innerspan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_radWindowManager_confirmtemplate" style="display:none;">
+		<div class="windowpopup radconfirm">			
+			<div class="dialogtext">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);" class="radwindowbutton" href="javascript:void(0);"><span class="outerspan"><span class="innerspan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="radwindowbutton" href="javascript:void(0);"><span class="outerspan"><span class="innerspan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_radWindowManager_ClientState" name="ctl00_radWindowManager_ClientState" type="hidden">
+</div>
+            <input type="hidden" name="ctl00$TextBoxWatermarkExtender1_ClientState" id="ctl00_TextBoxWatermarkExtender1_ClientState">        
+            </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionListCssClass":"autocomplete_list","completionListItemCssClass":"autocomplete_listItem","delimiterCharacters":"","highlightedItemCssClass":"autocomplete_highlighted_listitem","id":"ctl00_AutoCompleteExtender1","minimumPrefixLength":2,"serviceMethod":"GetCompList","servicePath":"PersonAutoComplete.asmx"}, null, null, $get("ctl00_txtPerson"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_skin":"Default","clientStateFieldID":"ctl00_ucMainMenu1_mnuMain_ClientState","collapseAnimation":"{\"type\":12,\"duration\":200}","itemData":[{"groupSettings":{"height":"300px"},"items":[{"templated":true}]},{"items":[{"templated":true}]},{"groupSettings":{"height":"300px"},"items":[{"templated":true}]},{"items":[{"templated":true}]},{"items":[{"templated":true}]},{"groupSettings":{"height":"300px"},"items":[{"templated":true}]},{"navigateUrl":"http://www.ukzn.ac.za/department/deptlist.asp"},{"navigateUrl":"http://www.ukzn.ac.za/contacts.aspx"}]}, null, null, $get("ctl00_ucMainMenu1_mnuMain"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_flow":0,"clientStateFieldID":"ctl00_RadMenu1_ClientState","collapseAnimation":"{\"type\":12,\"duration\":200}","itemData":[{"groupSettings":{"height":"400px"},"items":[{"navigateUrl":"http://www.ukzn.ac.za/prospective/appforms.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/EntranceReq2009.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/undergradprospectus.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/studentfund/","target":"_blank"},{"navigateUrl":"http://saa.ukzn.ac.za/Registration11070.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/Accomodation.aspx"},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/prospective/StudentServices/AcadSupportDev.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/StudentServices/CaringForStudentsNeeds.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/StudentServices/SportnRec.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/StudentServices/StudGovAct.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/StudentServices/StudFacilities.aspx"}]},{"navigateUrl":"http://www.cao.ac.za/","target":"_blank"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/SafetySec.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/handbooks"},{"navigateUrl":"http://ukzninternational.ukzn.ac.za"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/PDay.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Fees/FeeBooklet.aspx"},{"navigateUrl":"~/Documents/accesspolicy.pdf"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/AltAcces.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/studentfund","target":"_blank"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/RulesForStudents.aspx"}]},{"groupSettings":{"height":"400px"},"items":[{"navigateUrl":"http://timetable.ukzn.ac.za/HomePage12835.aspx","target":"_blank"},{"items":[{"navigateUrl":"http://examinations.ukzn.ac.za/HowardCollegeTimeTable16092.aspx","target":"_blank"},{"navigateUrl":"http://examinations.ukzn.ac.za/PietermaritzburgTimetable16094.aspx","target":"_blank"},{"navigateUrl":"http://examinations.ukzn.ac.za/EdgewoodTimetable16095.aspx","target":"_blank"},{"navigateUrl":"http://examinations.ukzn.ac.za/WestvilleCampusTimetable17600.aspx","target":"_blank"}]},{"navigateUrl":"https://dmi.ukzn.ac.za/eexams","target":"_blank"},{"navigateUrl":"http://examinations.ukzn.ac.za/ExamResults16674.aspx","target":"_blank"},{"navigateUrl":"http://registrar.ukzn.ac.za/Graduation19833.aspx"},{"navigateUrl":"http://examinations.ukzn.ac.za/"},{"navigateUrl":"http://www.ukzn.ac.za/Fees/FeeBooklet.aspx"},{"navigateUrl":"http://groupwise.ukzn.ac.za"},{"navigateUrl":"http://sc.ukzn.ac.za"},{"navigateUrl":"http://www.ukzn.ac.za/handbooks"},{"navigateUrl":"http://www.ukzn.ac.za/Student/AcadSup.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Student/CaringForStudentsNeeds.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Student/SportnRec.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Student/StudGovAct.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Student/StudFacilities.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/studentfund","target":"_blank"},{"navigateUrl":"http://www.ukzn.ac.za/Student/SRCElec.aspx"},{"navigateUrl":"http://pcounter.ukzn.ac.za"},{"navigateUrl":"http://innerweb.ukzn.ac.za"},{"navigateUrl":"http://library.ukzn.ac.za"},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/student/STUDENTHANDBOOKEdgewood2008.pdf"},{"navigateUrl":"http://www.ukzn.ac.za/student/STUDENTHANDBOOKHC2008.pdf"},{"navigateUrl":"http://www.ukzn.ac.za/prospective/RulesForStudents.aspx"}]},{"navigateUrl":"http://www.ukzn.ac.za/Staff/ShuttleTime.aspx"},{"navigateUrl":"http://aidsprogramme.ukzn.ac.za"},{"navigateUrl":"http://ukzninternational.ukzn.ac.za"}]},{"items":[{"navigateUrl":"http://hr.ukzn.ac.za/Vacancies18953.aspx"},{"navigateUrl":"http://groupwise.nu.ac.za"},{"navigateUrl":"http://notices.ukzn.ac.za/notices"},{"navigateUrl":"http://intranet.ukzn.ac.za"},{"navigateUrl":"http://www.ukzn.ac.za/ukznms"},{"navigateUrl":"http://www.ukzn.ac.za/ukznrf"},{"navigateUrl":"http://www.ukzn.ac.za/Staff/ShuttleTime.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Staff/TRAF-RUL Staff.pdf"},{"navigateUrl":"https://feeremission.nu.ac.za/"},{"navigateUrl":"http://hr.ukzn.ac.za/Webapps9310.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/SendAnnouncement.aspx"}]},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/AboutUs/ukznmission.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/ukznexec.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/ukzncouncil1.aspx"},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/aboutus/Emap.asp"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/images/howard_college.gif"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/images/medschool.gif"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/Pmap.asp"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/images/westville.gif"}]},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/campusmaps.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/campusmaps.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/campusmaps.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/campusmaps.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/campusmaps.aspx"}]}]},{"navigateUrl":"http://alumniaffairs.ukzn.ac.za/HomePage73.aspx"}]}, null, null, $get("ctl00_RadMenu1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_flow":0,"_skin":"None","clientStateFieldID":"ctl00_RadMenu2_ClientState","collapseAnimation":"{\"type\":12,\"duration\":200}","itemData":[{"navigateUrl":"http://www.ukzn.ac.za/aboutus/ukzncampuses.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/aboutus/Faculties.asp"},{"items":[{"navigateUrl":"http://www.ukzn.ac.za/Courses/ScienceAgric.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Courses/HealthSciences.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Courses/humanities.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/Courses/LawManagement.aspx"}]},{"navigateUrl":"http://research.ukzn.ac.za/"},{"navigateUrl":"http://library.ukzn.ac.za/HomePage718.aspx"},{"navigateUrl":"http://www.ukzn.ac.za/AdmissionsOffices.aspx"}]}, null, null, $get("ctl00_RadMenu2"));
+});
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[{InitControlID : "",UpdatedControls : [{ControlID:"",PanelID:""}]}],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$RadAjaxManager1","updatePanelsRenderMode":0}, null, null, $get("ctl00_RadAjaxManager1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"behaviors":36,"clientStateFieldID":"ctl00_RadWindow1_ClientState","formID":"aspnetForm","height":"500px","iconUrl":"","keepInScreenBounds":true,"left":"","minimizeIconUrl":"","modal":true,"name":"RadWindow1","navigateUrl":"","overlay":true,"skin":"Vista","top":"","width":"500px"}, null, null, $get("ctl00_RadWindow1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"behaviors":36,"clientStateFieldID":"ctl00_radWindowManager_ClientState","formID":"aspnetForm","iconUrl":"","keepInScreenBounds":true,"left":"","minimizeIconUrl":"","modal":true,"name":"radWindowManager","skin":"Default","top":"","windowControls":"['ctl00_RadWindow1']"}, null, null, $get("ctl00_radWindowManager"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TextBoxWatermarkExtender1_ClientState","WatermarkCssClass":"watermark","WatermarkText":"Name  LastName  Dept","id":"ctl00_TextBoxWatermarkExtender1"}, null, null, $get("ctl00_txtPerson"));
+});
+//]]>
+</script>
+</form>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6574270-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body></html>
