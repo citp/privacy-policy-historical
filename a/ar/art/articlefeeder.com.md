@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefeeder.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625004917id_/http%3A//www.articlefeeder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefeeder.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515153923id_/http%3A//www.articlefeeder.com/privacy.php) for the most accurate reproduction.*
 
 # Article Submission Directory | Submit Your Articles For Huge Exposure
 
