@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218130200id_/http%3A//bswusa.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515021437id_/http%3A//www.bswusa.com/policies.asp) for the most accurate reproduction.*
 
 # Professional Studio Equipment for Audio Broadcast and Recording | BSWUSA.com
 
@@ -29,6 +29,6 @@ If you have any questions about this privacy statement, the practices of this si
 Tom Roalkvam
 
 BSW   
-7012 27th Street West   
-Tacoma, WA. 98466   
+2237 South 19th Street   
+Tacoma, WA. 98405   
 tomr@bswusa.com 
