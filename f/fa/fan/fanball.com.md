@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050916id_/http%3A//www.fanball.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanball.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515203250id_/http%3A//www.fanball.com/privacy.php) for the most accurate reproduction.*
 
 # Fanball - FanPoints - Fanball.com
 
@@ -25,8 +25,8 @@ This site also gives users the following options for removing their information 
 
 You can send email to: privacy@fanball.com  
 You can send mail to the following postal address:  
-PO Box 583282  
-Minneapolis, MN 55458-3282
+PO Box 28336  
+St. Louis, MO 63146
 
 **Correct/Update Account**  
 This site gives users the following options for changing or modifying information previously provided.
@@ -35,8 +35,8 @@ This site gives users the following options for changing or modifying informatio
 **2.** Email: update@fanball.com  
 **3.** Send mail to the following postal address:  
      Fanball.com  
-     PO Box 583282  
-     Minneapolis, MN 55458-3282  
+    PO Box 28336  
+    St. Louis, MO 63146  
 **4.** Click on the Help link found at the bottom of pages.
 
 **Contacting the Web Site**  
@@ -44,6 +44,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 webmaster@fanball.com  
 Fanball.com  
-PO Box 583282  
-Minneapolis, MN 55458-3282  
-612.332.0865
+PO Box 28336  
+St. Louis, MO 63146  
+314.991.1511
