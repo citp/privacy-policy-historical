@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012072141id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516234909id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | HoumaToday.com | The Courier | Houma, LA
+# PRIVACYPOLICY | HoumaToday.com | The Courier
 
 This Privacy Policy discloses the privacy practices for The Courier newspaper and HoumaToday.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Courier” include HoumaToday.com and The Courier newspaper. The Courier is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
@@ -81,7 +81,7 @@ The Courier may perform statistical, demographic and marketing analyses of subsc
 
 ### Products and Service Message from The Courier
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by The Courier, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by The Courier, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/HTC_DNM.html).
 
 ### Banner Advertising
 
