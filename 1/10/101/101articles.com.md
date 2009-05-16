@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124020501id_/http%3A//101articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517004239id_/http%3A//www.jingerjarrett.com/Privacy-Policy.php) for the most accurate reproduction.*
 
-# 101Articles.com - Article and News Directory
+# Internet Marketing, Search Engine Optimization and Writing
 
-Your privacy is important to www.101articles.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
+Your privacy is important to www.jingerjarrett.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on the www.101articles.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our private forums. The types of personal information collected at these pages may be any or all of the following: 
+This notice applies to all information collected or submitted on the www.jingerjarrett.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our private forums. The types of personal information collected at these pages may be any or all of the following: 
 
 Name  
 Address  
@@ -15,7 +15,7 @@ Email Address
 IP Address (required for use on our private forum)  
 Credit/Debit Card Information
 
-The credit and payment services we utilize to process your order have their own privacy statements which may be different from those found here at www.101articles.com. It is therefore recommended that you carefully read the privacy statements located on these other sites to help protect your privacy. 
+The credit and payment services we utilize to process your order have their own privacy statements which may be different from those found here at www.jingerjarrett.com. It is therefore recommended that you carefully read the privacy statements located on these other sites to help protect your privacy. 
 
 **How We Use Your Information**
 
@@ -37,8 +37,8 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Our Commitment to Children's Privacy**
 
-Protecting the privacy of the very young is especially important to us at www.101articles.com. And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13. 
+Protecting the privacy of the very young is especially important to us at www.jingerjarrett.com. And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13. 
 
 Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution. 
 
-_www.101articles.com_
+_www.jingerjarrett.com_
