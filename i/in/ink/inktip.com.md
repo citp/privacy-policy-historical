@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215012322id_/http%3A//www.inktip.com/confidential.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktip.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516191632id_/http%3A//inktip.com/privacy_policy.php%3Fcat%3Dmain%26scat%3Dcommon) for the most accurate reproduction.*
 
-# Scripts, Writers, Producers - InkTip.com - Confidential
+# InkTip - Privacy Policy
+
+## Privacy & Confidentiality
 
 InkTip believes that strong electronic privacy is crucial for the ongoing success of our service. 
 
 The following discloses the information gathering and dissemination practices for InkTip. 
 
-**Security**
+## Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
@@ -14,15 +16,15 @@ All industry professional registrations are manually reviewed to ensure that our
 
 All uploads and downloads of synopses, treatments, and scripts are logged by InkTip. Additionally, notice of download is provided to the script/book owner and his/her representative (if applicable), along with the contact information of the member who did the download. 
 
-If any member experiences problems in data transfer of scripts, please [contact us](mailto:jerrol@inktip.com) at once via email.
+If any member experiences problems in data transfer of scripts, please contact us at once via email.
 
-**Passwords and User IDs**
+## Passwords and User IDs
 
-New members create their own user IDs and passwords at the time of registration. Members are strongly encouraged to not make these codes available to other individuals. InkTip performs random verification of industry professionals who access our site. To protect our writers, all log-ins are recorded; any security problem will include a prompt investigation into the log in information we maintain on site. 
+New members create their own user IDs and passwords at the time of registration. Members are strongly encouraged to not make these codes available to other individuals. InkTip performs random verification of industry professionals who access our site. To protect our writers, all log-ins are recorded; any security problem will include a prompt investigation into the log in information we maintain on site.
 
 Members are also encouraged to change their password regularly so as to promote a more secure environment for all.
 
-**Cookies**
+## Cookies
 
 Websites use what are called "cookies" to store member names and passwords. Cookies allow us to both store and retrieve login information through a user's browser. 
 
@@ -38,7 +40,7 @@ Users may opt-out of receiving future mailings; see the opt-out section below.
 
 This site contains links to other sites. InkTip is not responsible for the privacy practices or the content of such websites. 
 
-**Shopping Cart**
+## Shopping Cart
 
 Our site uses an order form and shopping cart for members to purchase uploads of scripts to our server. We collect visitors' contact information (email address), unique identifiers (specifically their user ID and password), and financial information (like their account or credit card numbers). 
 
@@ -46,25 +48,26 @@ Financial information that is collected is used to bill the member for placing t
 
 Contact information from the order form is used to update the member's account and permit uploading of scripts and their descriptions.
 
-The member's contact information is also used to get in touch with the member when necessary.   
+The member's contact information is also used to get in touch with the member when necessary. 
+
 Members may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-**Choice/Opt Out**
+## Choice/Opt Out
 
 InkTip periodically sends our members electronic information we believe to be of value, including a free weekly e-newsletter. If a member wishes to opt-out of receiving such information, instructions will be provided on every newsletter for simple removal from our list. 
 
-To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20071215012322id_/http%3A//www.inktip.com/newsletter.php), or [send an email](mailto:jerrol@inktip.com) with the subject 'Opt Out.'
+To discontinue receiving future communications or to no longer receive our service, please [unsubscribe here](https://web.archive.org/web/20090516191632id_/http%3A//inktip.com/ep_newsletter_signup.php?cat=ep&scat=services), or [send an email with the subject 'Opt Out'](mailto:WritersDept@InkTip.com?subject=Opt%20Out).
 
 InkTip does not give out, sell, broker or otherwise distribute mailing lists, contact information or personal demographics information to third party companies or non-members. 
 
-**Correct/Update**
+## Correct/Update
 
 This site allows users to update and modify information previously provided, such as resume data and member contact information. Members who have placed scripts with InkTip may also update information pertaining to their scripts, such as synopses, treatments, scripts/books and script/book descriptions.
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please contact:
 
-[Jerrol@InkTip.com](mailto:jerrol@inktip.com)  
-[InkTip.com](http://www.inktip.com/)  
-PO Box 312  
-Glendale, CA 91209  
-Fax: 818.242.7753
+[WritersDept@InkTip.com](mailto:WritersDept@InkTip.com)  
+**InkTip**  
+P.O. Box 12418  
+La Crescenta, CA 91224  
+**Fax:** 818.951.8816 
