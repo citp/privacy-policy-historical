@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025507id_/http%3A//www.asia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516194639id_/http%3A//www.asia.com/privacy_policy) for the most accurate reproduction.*
 
-# Asia.com - Privacy Policy - Travel, Asia Flights, Asia Hotels, Asia Domains
+# Privacy Policy | Asia.com
 
 World Media Group provides this privacy policy because we value your right to privacy. This policy is effective as of November 10, 2007 and governs the collection of personal information through this website on or after this date.
 
