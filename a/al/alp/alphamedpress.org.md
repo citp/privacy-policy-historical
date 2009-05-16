@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912061923id_/http%3A//www.alphamedpress.org/misc/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516033733id_/http%3A//www.alphamedpress.org/misc/privacypolicy.dtl) for the most accurate reproduction.*
 
 # AlphaMed Press -- Privacy Policy
 
 [](https://web.archive.org/)   
+
+
+* * *
+
 **PRIVACY POLICY**
 
 AlphaMed Press, publisher of **_Stem Cells_** , **_The Oncologist_** , and other related publications, is committed to maintaining the privacy of personal information that you provide us when using any of the AlphaMed Press Web sites. We do not sell, exchange, or release any of your personal information.  
@@ -66,4 +70,4 @@ Telephone: 919-680-0011
 
 * * *
 
-**[Copyright © 2008 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
+**[Copyright © 2009 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
