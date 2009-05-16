@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the nakedpr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182802id_/http%3A//nakedpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedpr.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516191602id_/http%3A//nakedpr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# : Naked PR Blog
+
+## [ PRIVACY POLICY ](http://nakedpr.com/privacy-policy/)
+
+Posted by on  March 26th, 2008  in  [Naked PR](http://nakedpr.com/category/naked_pr/ "View all posts in Naked PR")
 
 **Privacy Policy for NakedPR.com**
 
@@ -16,4 +20,4 @@ We also use third party advertisements on NakedPR.com to support our site. Some 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-_This Privacy Policy Template Provided by[JenSense](http://bizammo.com/wp-admin/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)_
+_This Privacy Policy Template Provided by[JenSense](http://www.jensense.com/)_
