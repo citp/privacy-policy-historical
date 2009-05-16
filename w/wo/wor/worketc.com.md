@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081229id_/http%3A//www.worketc.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516065020id_/http%3A//www.worketc.com/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Policy - we hate spam too.
 
@@ -185,11 +185,13 @@ If you wish to discover the relevant laws in any particular jurisdiction, Veetro
   * [WorldLII Privacy Links](http://www.worldlii.org/catalog/273.html)
   * [Compilation of [U.S.] State and Federal Privacy Laws](http://www.privacyjournal.net/work1.htm), Privacy Journal, Providence RI 
   * [Privacy Law Sourcebook 2004, EPIC](http://www.epic.org/bookstore/pls2004/), Washington DC 
-  * the Australian Privacy Foundation's pages: 
+  * the Australian Privacy Foundation's pages: ul
   * [International Instruments Relating to Privacy Law](http://www.privacy.org.au/Resources/PLawsIntl.html)
   * [Privacy Laws of Countries of the World](http://www.privacy.org.au/Resources/PLawsWorld.html)
   * [Privacy Laws of the Commonwealth of Australia](http://www.privacy.org.au/Resources/PLawsClth.html)
   * [Privacy Laws of the States and Territories of Australia](http://www.privacy.org.au/Resources/PLawsST.html)
+/li>
+  * [Privacy International](http://www.privacyinternational.org/index.shtml?cmd%5B342%5D%5B%5D=c-1-Data+Protection+and+Privacy+Laws&als%5Btheme%5D=Data%20Protection%20and%20Privacy%20Laws&conds%5B1%5D%5Bcategory........%5D=Data%20Protection%20and%20Privacy%20Laws)
 
   
 
@@ -215,37 +217,5 @@ Your Data does not refer to data that can no longer be associated with you. This
 Consent means your concurrence with an action to be taken by Veetro. Consent may be express or implicit, but in either case must be informed and freely-given. 
 
   
-| 
-
-### Browse Features
-
-  * [Catalog Software for your Small Business](https://web.archive.org/Features/Catalog_Software_for_your_Small_Business)
-  * [CRM - Customer Relationship Management](https://web.archive.org/Features/CRM_Customer_Relationship_Management)
-  * [Help Desk Software](https://web.archive.org/Features/Help_Desk_Software)
-  * [Management Reports](https://web.archive.org/Features/Management_Reports)
-  * [Advanced Search](https://web.archive.org/Features/Advanced_Search)
-  * [Executive Dashboards](https://web.archive.org/Features/Executive_Dashboards)
-  * [Billing Software](https://web.archive.org/Features/Billing_Software)
-  * [Document Management](https://web.archive.org/Features/Document_Management)
-  * [Online Calendars](https://web.archive.org/Features/Online_Calendars)
-  * [Time Tracking Software](https://web.archive.org/Features/Time_Tracking_Software)
-  * [Address Book & Contacts](https://web.archive.org/Features/Address_Book_And_Contacts)
-  * [Project Management Software](https://web.archive.org/Features/Project_Management_Software)
-  * [Sales Management](https://web.archive.org/Features/Sales_Management)
-
-  
-
-
-### Blog Announcements
-
-  
-
-
-### Propaganda
-
-  * [Montreal Gazette](https://web.archive.org/Media/Montreal_Gazette)
-  * [AllBusiness.com rates Veetro](https://web.archive.org/Media/AllBusiness_com_rates_Veetro)
-  * [Cnet: reviews Veetro](https://web.archive.org/Media/Cnet_reviews_Veetro)
-
-  
----|---
+|  |     
+---|---|---
