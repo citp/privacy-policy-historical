@@ -1,47 +1,86 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190503id_/http%3A//www.tableausoftware.com/about/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517085821id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
 
-# Policies
+# Tableau Software Privacy Policy | Tableau Software
 
-## Privacy Policy
+## Welcome!
 
-Please read this document carefully. It is Tableau Software's ("Tableau's") privacy policy. This policy covers how Tableau treats personal information that Tableau collects and receives, including information related to your past use of Tableau products and services. Personal information is information about you that is personally identifiable, like your name, address, employer, email address, or phone number, that is not otherwise publicly available. 
+The Privacy Policy posted on this Site was updated on or about March 31, 2009
 
-This policy does not apply to the practices of companies that Tableau does not own or control, or to people that Tableau does not employ or manage.
+Privacy is very important to us. Please read this document carefully. This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Personally identifiable information is information about you that can be traced directly back to and identifies an individual. PII includes your name, address, employer, email address, or phone number. 
 
-## Information Collection and Use
+By using this Site, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. Your continued use of the Tableau website will signify your acceptance of these changes.
 
-Tableau collects personal information when you register with Tableau [(examples)](https://web.archive.org/useexamples), or when you use Tableau products or services. Tableau receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. We reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them. 
+## Scope of this Privacy Policy
 
-## Information Sharing and Disclosure
+This Privacy Policy applies only to PII collected by Tableau through software installation or visitation to the website where this Privacy Policy is posted (the “Site”) and does not apply to any other information collected by Tableau and its affiliated entities through any other means. Tableau and its affiliated entities are collectively referred to in this Privacy Policy as “Tableau,” “we,” “us” or the “Site.” It is important for you to understand this because Tableau allows you to navigate away from our Site at times to websites controlled by third parties (some of which we have a relationship with). When you click on one of those links, you leave the Tableau site, at which point our Privacy Policy no longer applies. We provide a notice warning our users when they are leaving our Site. We encourage you to review the Privacy Policies of any site you link to from Tableau.
 
-Tableau does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances: we provide the information to trusted partners who work on behalf of or with Tableau under confidentiality agreements. These companies may use your personal information to help Tableau communicate with you about offers from Tableau and our marketing partners. However, these companies do not have any independent right to share this information.
+Here is what we will cover in this Privacy Policy:
 
-## Confidentiality and Security 
+  * The information we collect
+  * How we use your personal information or the personal information of your children
+  * What cookies and web beacons are and how we use them
+  * What internet protocol addresses are
+  * Collection of information by third-party sites and sponsors
+  * How we secure your information
+  * Your rights if you are a California resident
+  * Use of our online forums
+  * How to contact us
+  * What to do if you want to correct or review your personal information
+  * How we may update our privacy policy
+  * Our agreement
 
-We limit access of your personal information to only those who we reasonably believe need this information in order to provide products or services to you.
 
-## Online Forums
 
-You agree, through your use of any and all online forums (e.g., the Tableau Support Center) made available on Tableau’s websites, that you will not post any material which is false, defamatory, inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually oriented, threatening, invasive of a person's privacy, adult material, or otherwise in violation of any International or United States Federal law. You also agree not to post any copyrighted material unless you own the copyright or you have written consent from the owner of the copyrighted material. Spam, flooding, advertisements, chain letters, pyramid schemes, and solicitations are also forbidden on this forum. 
+## The Information We Collect
 
-You have the ability, as you register, to choose your username. We advise that you keep the name appropriate. With this user account you are about to register, you agree to never give your password out to another person except an administrator, for your protection and for validity reasons. You also agree to NEVER use another person's account for any reason. We also HIGHLY recommend you use a complex and unique password for your account, to prevent account theft. 
+Tableau collects personal information when you register with Tableau, or when you use Tableau products or services. In registering with Tableau, you must provide us with your real name, e-mail address, phone number, and shipping address. Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request, and relates it to the PII you provide. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. Once you have registered or have purchased Tableau products, we reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them. 
 
-Note that it is impossible for Tableau to confirm the validity of posts. Please remember that Tableau does not actively monitor the posted messages, and as such, are not responsible for the content contained within. Tableau does not warrant the accuracy, completeness, or usefulness of any information presented. The posted messages express the views of the author, and not necessarily the views of Tableau. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator or moderator of this forum immediately. Tableau reserves the right to remove objectionable content, within a reasonable time frame, if they determine that removal is necessary. This is a manual process, however, please realize that they may not be able to remove or edit particular messages immediately. You remain solely responsible for the content of your posted messages. Furthermore, you agree to indemnify and hold harmless Tableau. Tableau also reserves the right to reveal your identity (or any other related information collected on this service) in the event of a formal complaint or legal action arising from any situation caused by your use of this forum. 
+## How We Use Your Personal Information
 
-Any information Tableau determines to be inaccurate, unhelpful or inappropriate for any reason will be removed, with or without prior notice. Appropriate sanctions may be applicable. This policy applies to member profile information as well. 
+We use PII for internal and Service-related purposes only. Tableau does not rent, sell, or share PII about you with other people or nonaffiliated companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances: we provide the information to trusted partners who work on behalf of or with Tableau under confidentiality agreements. These companies may use your PII to help Tableau communicate with you about offers from Tableau and our marketing partners. However, these companies do not have any independent right to share this information.
 
-Please note that with each post, your IP address is recorded, in the event that you need to be banned from this forum or your ISP contacted. This will only happen in the event of a major violation of this agreement. 
+Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a purchase is not used for any other purpose by our financial services providers or us and will not be kept longer than necessary for providing the services offered by us.
 
-Also note that Tableau’s online forums place a cookie, a text file containing bits of information (such as your username and password), in your browser's cache. The collection and usage of this information is governed by Tableau’s Privacy Policy. 
+We may disclose PII in response to legal process, for example, in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or End User License Agreement (EULA) (<http://www.tableausoftware.com/files/eula.pdf>), to verify or enforce compliance with the policies governing our products and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer PII about you if we or one of our business units are acquired by, sold to, or merged with another company.
 
-## Questions and Suggestions
+We reserve the right to transfer all PII in our system in the event that Tableau, is sold, merged or otherwise assigned such that control rests with a different entity.
 
-If you have questions or suggestions, please email Tableau at [support@tableausoftware.com](mailto:support@tableausoftware.com) or call us at (206) 633-3400.
+## What Cookies and Web Beacons Are and How We Use Them
 
-## Copyright & Trademarks
+Our Site uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any PII. "Web beacons" are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on our Site from time to time for this purpose.
 
-See our [Copyright](https://web.archive.org/about/copyright) page.
+## What Internet Protocol Addresses Are
 
-## Sitemap
+An Internet protocol (“IP”) address is the unique number assigned to your server or Internet Service Provider (“ISP”). Tableau may track such IP addresses for system administration, to report aggregate information, site tracking, or to prevent our servers from being abused.
 
-See our [Sitemap](https://web.archive.org/about/sitemap) page.
+## Collection of Information by Third-Party Sites and Sponsors
+
+Our Site contains links to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on our Site and visitors are directed away from our Site in order to participate in such contests or sweepstakes. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy Policy and may follow different procedures. 
+
+## How We Secure Your Information
+
+We have taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. We have put in place appropriate physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+We are particularly sensitive to visitors' security concerns regarding the use of credit cards to purchase Tableau’s products For orders placed on our Site, we use a technology that automatically encrypts credit card data while information is being transmitted over the Internet, provided that the visitor's browser supports the Secure Socket Layer protocol (SSL).
+
+To verify the security of your PC's web connection at our Service, check the lower left corner of your browser window after accessing the server. If you see an unbroken or a closed lock, then SSL is active and the server is secure. You may also check by looking at the URL line of your browser. When accessing a secure server, the Site address will change from "http" to "https".
+
+## Your California Privacy Rights
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the email and or regular mail address below.
+
+## Use of Our Online Forums
+
+As part of the Tableau Support Center we offer you the ability to post information and exchange ideas. We caution all users not to disclose any PII as part of their posts, even if requested to do so by other posters. Tableau will not be responsible in the event that you disclose PII in your posts or during any other communication with other site users. You acknowledge and agree that content provided by others (“Other User Content”) may include content owned by independent content providers (including other users), and licensed to us. You must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of any Other User Content. We do not pre-screen Other User Content as a matter of policy, but we reserve the right, but do not undertake the responsibility, to remove Other User Content at any time that we deem it to be harmful, offensive, or otherwise in violation of this Agreement.
+
+## How to Contact Us
+
+If you have questions or suggestions, please email Tableau at [customerservice@tableausoftware.com](mailto:customerservice@tableausoftware.com) or call us at (206) 633-3400. Written communication should be sent to Tableau Software, Inc., Attn: Legal Affairs, 400 North 34th Street, Suite 200, Seattle, Washington 98103.
+
+## What to Do if You Want to correct or Review Your Personal Information
+
+Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given proof of identity). This information can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address. We offer individuals the ability to have inaccuracies corrected within their contact information. This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address. 
+
+## How We May Update our Privacy Policy
+
+From time to time, we may use PII for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change we will immediately post any adjustments to our policy on this website. This will serve as your notification of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
