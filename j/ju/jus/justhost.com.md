@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justhost.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062955id_/http%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhost.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517091537id_/http%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Just Host
 
