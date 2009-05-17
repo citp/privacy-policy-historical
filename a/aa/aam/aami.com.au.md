@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102500id_/http%3A//www.aami.com.au/customer-service/privacy-terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518013452id_/http%3A//www.aami.com.au/customer-service/privacy-terms.aspx) for the most accurate reproduction.*
 
 # AAMI - Security and Privacy Policy
 
@@ -135,3 +135,5 @@ AAMI is under no obligation to specifically notify you of any variation to the S
 
 (C) Copyright 2000-2008 Australian Associated Motor Insurers Limited  
 ABN 92 004 791 744 Version 4 - 7 October 2008
+
+[Click here to read our Privacy Policy](https://web.archive.org/suncorp-privacy-policy.aspx).
