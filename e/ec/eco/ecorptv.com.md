@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205142958id_/http%3A//www.ecorptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517091052id_/http%3A//www.ecorptv.com/privacy) for the most accurate reproduction.*
 
-# eCorpTV.com
+# Business Video - Online Marketing for Corporate Videos: Business Video Directory, Online Business Videos
 
 **Personal Information**  
 Non-Account Activity. You can watch videos on eCorpTV.com without opening an Account. You can also contact us about a particular video without having a eCorpTV.com Account.
