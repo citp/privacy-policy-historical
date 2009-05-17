@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myimgallery.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227093238id_/http%3A//www.myimgallery.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myimgallery.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517092435id_/http%3A//myimgallery.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # My Image Gallery » More Information » Privacy Policy
 
