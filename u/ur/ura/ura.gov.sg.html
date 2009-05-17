@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ura.gov.sg privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219190707id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ura.gov.sg privacy policy that was archived on 2009-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090517091037id_/http%3A//www.ura.gov.sg/privacy/body.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/Privacy_statement.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -210,123 +210,12 @@ function MM_setTextOfTextfield(objName,x,newText) { //v3.0
 	}
 
 </script>
-<script language="JavaScript" type="text/JavaScript">
-// For clarifications on the below script, please contact shine_cs@ncs.com.sg
-// Release V1.1 - 22 Jan 2008 
-// - - - Start - Configuration - Settings the Agency can modify - - - //
-// All values passed to GSA must be URL-encoded. eg. spaces must be replaced by char '+'
-var Search_Text_Box_Size = 22;
-var Server_URL = "http://sgms.internet.gov.sg/search"; 
-var Collections = "";
-var SiteSearchItems = "";
-var MetaDataFilters = "";
-
-//Specify the Website's Feedback URL here e.g. http://www.mywebsite.gov.sg/feedback.html
-//must have http:// as the start
-var paramFeedbackPageURL ="http://www.ura.gov.sg/contactus/contactus_feedback.jsp";
-
-//Specify the Website's Contact Info URL here e.g. http://www.mywebsite.gov.sg/ContactInfo.html
-var paramContactInfoPageURL ="http://www.ura.gov.sg/contactus/contactus(phone).htm";
-
-
-// Specify additional Collection options using the following //
-Collections =
-[
-	["Within URA", "ura"],
-	["Within All Government Websites", "default"],
-	["Within Business", "within_biz"],
-	["Within Citizens And Residents", "within_cit_res"],
-	["Within Non-Residents", "within_non_res"]
-]
-
-// Specify within this site (ie. sitesearch) options using the following //
-// Only specify the website hosting this script
-SiteSearchItems =
-[
-//["Results Within This Website", ""]
-]
-
-// - - - End - Configuration - - - //
-
-
-function ShowResults()
-{
-    //document.write("<style type='text/css' media='screen,print'>");
-    //document.write("html,input,td{font-family:Arial;font-size:80%;}");
-    //document.write("select{font-family:Arial;font-size:90%}");
-    //document.write(".fLink{font-family: Arial;font-size: 11px;text-decoration: underline;color:Blue;cursor:hand;}")
-	
-    //document.write("</style>");
-
-	document.writeln("<form method='GET' target='_self' name='SearchPlugInfrm' action='" + Server_URL + "' >");
-	document.writeln("<table border='0' style='background:transparent; border-collapse:collapse;' cellspacing='0' cellpadding='0'>");
-	document.writeln("<tr><td valign='top'>&nbsp;</td><td align='left'>");
-	document.writeln("<input type='text' name='q' size='"+ Search_Text_Box_Size + "'> ");
-	document.writeln("<input type='submit' name='btnG' style='background-color:#333333; font-size:72%; color:white; border:outset 1px #fff; width:40px; cursor:hand' value='Search' />"); 
-	if (Collections != "")
-	{
-		var param_site_value = ""; //Do not remove
-
-		document.writeln("<SELECT name='site'>");
-		for (i = 0; i < Collections.length; i++)
-		{
-			document.writeln("<OPTION VALUE=" + Collections[i][1] +">" + Collections[i][0]);
-
-			//Do not remove
-			param_site_value += Collections[i][0] + "#" + Collections[i][1] + '|';
-		}
-		document.writeln("</SELECT>");
-
-		//Do not remove
-		document.writeln("<input type='hidden' name='filter_s' value='" + param_site_value + "' />");
-	}
-	else
-	{
-		//Do not remove
-		document.writeln("<input type='hidden' name='site' value='default' />");
-	}
-
-
-	document.writeln("</td></tr>");
-	
-	if(SiteSearchItems != "")
-	{
-		var param_ssearch_value = ""; //Do not remove
-
-		document.writeln("<tr><td>&nbsp;</td><td align='right'><a href='#' onclick=clearSelectedRadio('sitesearch'); class='fLink'>Clear Site Option</a>");
-		for (i = 0; i < SiteSearchItems.length; i++)
-		{
-			document.writeln("<input type='radio' name='sitesearch' VALUE=" + SiteSearchItems[i][1] +"><span style='font-size:9px'>" + SiteSearchItems[i][0] + "</span>");
-
-			//Do not remove
-			param_ssearch_value += SiteSearchItems[i][0] + "#" + SiteSearchItems[i][1] + "|";
-		}
-		//Do not remove
-		document.writeln("<input type='hidden' name='filter_ss' value='" + param_ssearch_value + "' />");
-		document.writeln("</td></tr>");
-	}
-	document.writeln("</table>");
-	
-	document.writeln("<input type='hidden' value='" + paramFeedbackPageURL + "' name='feedback_url'  />");
-	document.writeln("<input type='hidden' value='" + paramContactInfoPageURL + "' name='contact_url' />");
-	document.writeln("<input type='hidden' name='client' value='default' />");
-	document.writeln("<input type='hidden' name='proxystylesheet' value='default' />");
-	document.writeln("<input type='hidden' name='output' value='xml_no_dtd' />");
-	document.writeln("</form>");
-}
-
-function clearSelectedRadio(radioId) 
-{
-    var x=document.getElementsByName(radioId); 
-    for(i=0;i<x.length;i++){x[i].checked=false;}
-    document.getElementById('btnG').focus();
-}
-</script>
+<script src="/includes/sgms.js" type="text/javascript"></script>
 <table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="760"><table border="0" width="760" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="533"><iframe src="/maintainance/maintainance.htm" width="530" height="35" frameborder="0" scrolling="no" marginwidth="0"></iframe></td>
+          <td width="533"></td>
           <td width="227"><div align="right"> <a name="top"></a><a href="http://www.gov.sg" target="_blank"><img src="/images/sg_government.gif" width="226" height="35" border="0" alt="Singapore Government Online"></a></div></td>
         </tr>
       </tbody></table>
@@ -344,28 +233,7 @@ function clearSelectedRadio(radioId)
 						</td>
                       </tr>
                       <tr>
-                        <td height="33" valign="top"><script type="text/javascript" language="javascript">ShowResults();</script>
-<table border="0" style="background:transparent; border-collapse:collapse;" cellspacing="0" cellpadding="0">
-<tbody><tr><td valign="top">&nbsp;</td><td align="left">
-<input type="text" name="q" size="22"> 
-<input type="submit" name="btnG" style="background-color:#333333; font-size:72%; color:white; border:outset 1px #fff; width:40px; cursor:hand" value="Search">
-<select name="site">
-<option value="ura">Within URA
-</option><option value="default">Within All Government Websites
-</option><option value="within_biz">Within Business
-</option><option value="within_cit_res">Within Citizens And Residents
-</option><option value="within_non_res">Within Non-Residents
-</option></select>
-<input type="hidden" name="filter_s" value="Within URA#ura|Within All Government Websites#default|Within Business#within_biz|Within Citizens And Residents#within_cit_res|Within Non-Residents#within_non_res|">
-</td></tr>
-</tbody></table>
-<input type="hidden" value="http://www.ura.gov.sg/contactus/contactus_feedback.jsp" name="feedback_url">
-<input type="hidden" value="http://www.ura.gov.sg/contactus/contactus(phone).htm" name="contact_url">
-<input type="hidden" name="client" value="default">
-<input type="hidden" name="proxystylesheet" value="default">
-<input type="hidden" name="output" value="xml_no_dtd">
-
-</td>
+                        <td height="33" valign="top"><script type="text/javascript" language="javascript">ShowResults();</script></td>
                       </tr>
                   </tbody></table></td>
                 </tr>
@@ -522,7 +390,7 @@ function preloadImages() {
                                         <div align="justify">To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. </div><p></p>
                                       </li>
                                       <li>
-                                        <div align="justify">Should you have any queries about your personal data that you have earlier supplied to us, please contact us using the relevant telephone number or email address shown <a href="/eservices/eservices-contactList.jsp">here</a>. </div>
+                                        <div align="justify">Should you have any queries about your personal data that you have earlier supplied to us, please contact us using the relevant telephone number or email address shown <a href="/contactus/contactus(phone).htm">here</a>. </div>
                                         <p></p>
                                       </li>
                                       <li>
@@ -566,7 +434,7 @@ function preloadImages() {
 document.write("Last Updated on ");
 document.writeln(DocDate());
 // -->
-                              </script>Last Updated on Saturday 1 February, 2020
+                              </script>Last Updated on Friday 31 January, 2020
 </td>
                               <td width="37%"><div align="right"><a href="#top" class="nav-link">Top of this page<img src="../images/top.gif" width="16" height="16" hspace="10" vspace="5" border="0" align="absmiddle"></a></div></td>
                             </tr>
@@ -596,7 +464,7 @@ document.writeln(DocDate());
       </tr> 
     </tbody></table>
   
-
+</form>
 
 <!-- InstanceEnd -->
-</form></body></html>
+</body></html>
