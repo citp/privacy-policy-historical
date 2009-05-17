@@ -1,308 +1,274 @@
-<!--The following is the downloaded HTML source of the 977music.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219095759id_/http%3A//www.977music.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 977music.com privacy policy that was archived on 2009-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090517081648id_/http%3A//977music.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	
-            <title>Internet Radio .977 Music Portal - The Next Generation of Radio </title>
+    <base href="http://977music.com/">
+    
+            <title>The Next Generation of Radio .977 Internet Radio Music Portal</title>
             <meta name="resource-type" content="document">
             <meta name="robots" content="index,follow">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <meta http-equiv="content-language" content="en">
             <meta name="description" content="Internet radio portal for online streaming radio, featuring rock, alternative, country, pop, top 40 , hip hop, and 80s music!">
             <meta name="abstract" content="">
-            <meta name="keywords" content="Internet radio, dot 977, dot977, 80s, 80's music, 80s music, free music, mp3, music, pop, rock, retro, hip hop, rnb, r&amp;b, hard rock, metal, country, alternative, top 40">
+            <meta name="keywords" content="Internet radio, radio, dot 977, 80's, 80's music, 80s music, streaming internet radio, streaming music, music, online radio, music online, alternative, oldies, country, comedy, classic rock, smooth jazz, mix, hitz, earn prizes">
             <meta name="comments" content="">
             <meta name="copyright" content="Club 977, Inc">
             <meta name="author" content="TechXpress.net">
             <meta name="revisit-after" content="21 Days">
             
         
-	<link href="css/style.css" rel="stylesheet" type="text/css">
-	<link rel="shortcut icon" href="favicon.ico">
-	<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-	<script src="dashboard/js/scriptaculous/prototype.js" type="text/javascript"></script>
-	<script src="dashboard/js/scriptaculous/effects.js" type="text/javascript"></script>
-	<script src="dashboard/js/scriptaculous/controls.js" type="text/javascript"></script>
+    <script src="js/scriptaculous/prototype.js"></script>
+                     <script src="js/scriptaculous/effects.js"></script>
+                     <script src="js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="js/reflection.js"></script>
+<script>Reflection.defaultHeight = 0.3</script>
+<script>
+function toggle2(field_name) { $(field_name).toggle(); }
+</script>
+    <link href="css/style_ecomm.css" rel="stylesheet" type="text/css">
+    <link href="css/style_buttons.css" rel="stylesheet" type="text/css">
+    <link href="css/style_new.css" rel="stylesheet" type="text/css">
+    <link href="css/style_records.css" rel="stylesheet" type="text/css">
+    <link href="css/style_sn.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico"> 
 
-	<script type="text/javascript">
-		function verifyEmailForm() {
-			if (!document.newsletter_signup_form.agree.checked) {
-				alert("Please read and agree to the terms and conditions before you submit your information.");
-				return false;
-			}
-			var valid = true;
-			var errorString = "";
-			if (document.newsletter_signup_form.name.value.search(/^[^0-9]+$/) == -1) {
-				document.newsletter_signup_form.name.style.backgroundColor = "#F64";
-				valid = false; errorString = errorString + "<li>name</li>";
-			}
-			if (document.newsletter_signup_form.email.value.search(/^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$/) == -1) {
-				document.newsletter_signup_form.email.style.backgroundColor = "#F64";
-				valid = false; errorString = errorString + "<li>email</li>";
-			}
-			if (!document.newsletter_signup_form.gender[0].checked && !document.newsletter_signup_form.gender[1].checked) {
-				valid = false; errorString = errorString + "<li>gender</li>";
-			}
-			if (!document.newsletter_signup_form.age[0].checked && !document.newsletter_signup_form.age[1].checked && !document.newsletter_signup_form.age[2].checked && !document.newsletter_signup_form.age[3].checked) {
-				valid = false; errorString = errorString + "<li>age</li>";
-			}
-			if (document.newsletter_signup_form.phone.value.search(/^.?[0-9]?.?[0-9]{3}.{0,2}[0-9]{3}.?[0-9]{4}.?$/) == -1 && document.newsletter_signup_form.phone.value.length > 0) {
-				document.newsletter_signup_form.phone.style.backgroundColor = "#F64";
-				valid = false; errorString = errorString + "<li>phone</li>";
-			}
-			if (!valid) {
-				$("newsletter_warningField").innerHTML = "Please make sure all required fields have been filled: <ul>" + errorString + "</ul>";
-			}
-			return valid;
-		}
-
-		function clearField(el) {
-			el.style.backgroundColor = "";
-		}
-
-		var g_slideshowTimer = 0;
-		var g_slideshowDelay = 20000;
-
-		function playSlideshow() {
-			// Starts the slideshow playing and sets the global timer id for stopping the slideshow once a button is clicked
-			goToSlide(1);
-			g_slideshowTimer = setTimeout('nextSlide();', g_slideshowDelay);
-		}
-
-		function nextSlide() {
-			if (g_slideshowCurrent == 3) g_slideshowCurrent = 1;
-			else g_slideshowCurrent += 1;
-			goToSlide(g_slideshowCurrent);
-			g_slideshowTimer = setTimeout('nextSlide();', g_slideshowDelay);
-		}
-		
-		function goToSlide(n) {
-			// Changes the slide and button to n
-			g_slideshowCurrent = n;
-			if (g_slideshowTimer) clearTimeout(g_slideshowTimer);
-			$$('#slideshow_slides img').each(function(slideImg) {
-				if (slideImg.id == 'slideshow_slide_' + n) {
-					Effect.Appear(slideImg.id, {duration:0.8});
-				} else {
-					Effect.Fade(slideImg.id, {duration:0.8});
-				}
-			});
-			$$('.slideshow_button').each(function(slideBtn) {
-				if (slideBtn.id == 'slideshow_button_' + n) {
-					slideBtn.src = slideBtn.getAttribute('highlighted');
-					slideBtn.setAttribute('active', '1');
-				} else {
-					slideBtn.src = slideBtn.getAttribute('normal');
-					slideBtn.setAttribute('active', '0');
-				}
-			});
-		}
-	</script>
 </head>
-<body onload="playSlideshow();">
-	<div id="container" class="clearfix">
-		<div id="header" class="clearfix">
-			<div id="logo"><a href="index.php"><img src="images/logo.gif" alt="977Music" border="0"></a></div>
-			<div id="top_banner">
-				<div class="l_float"><img src="images/top_banner_left.gif"></div>
-				<div class="banner" style="text-align:center;">
-					<iframe src="http://www.977music.com/iframes/728x90trib.html" frameborder="0" width="728" height="90" scrolling="no" allowtransparency="TRUE" marginheight="0" marginwidth="0"></iframe>
-				</div>
-				<div class="l_float"><img src="images/top_banner_right.gif"></div>
-			</div>
-			<div id="tagline"><img src="images/the_next_generation.gif" alt="977Music - The Next Generation"></div>
-		</div>
-		
-		<div id="top_nav" class="clearfix">
-			<div class="item"><a href="http://www.977music.com/tunein/web/80s.asx">
-				<img src="images/nav_80s.gif" alt="The 80s" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/hitz.asx">
-				<img src="images/nav_hitz.gif" alt="The Hitz" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/country.asx">
-				<img src="images/nav_country.gif" alt="Country" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/rock.asx">
-				<img src="images/nav_rock.gif" alt="Rock" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/oldies128.asx">
-				<img src="images/nav_oldies.gif" alt="Oldies" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/mix.asx">
-				<img src="images/nav_mix.gif" alt="The Mix" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/classicrock.asx">
-				<img src="images/nav_classic_rock.gif" alt="Classic Rock" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/comedy.asx">
-				<img src="images/nav_comedy.gif" alt="Comedy" border="0">
-			</a></div>
-			<div class="item"><a href="http://www.977music.com/tunein/web/90s.asx">
-				<img src="images/nav_90s.gif" alt="The 90s" border="0">
-			</a></div>
-		</div>
-	
-		<div id="main_page" class="clearfix">
-			<div class="clearfix" id="main_col">
-				<div id="main_feature">
-					<div id="slideshow_slides"> <img src="images/slide-win5000.jpg" border="0" id="slideshow_slide_1" style="opacity: 1;"> <img src="images/slide-newsite.jpg" border="0" id="slideshow_slide_2" style="display: none; opacity: 0.212497;"> <img src="images/slide-about977.jpg" border="0" id="slideshow_slide_3" style="display: none; opacity: 0.212497;"> </div>
-					<div class="clearfix" id="slideshow_buttons_row"><img src="images/slide_button1-over.gif" border="0" normal="images/slide_button1.gif" highlighted="images/slide_button1-over.gif" onmouseover="this.src=this.getAttribute('highlighted');" onmouseout="if (this.getAttribute('active') != 1) this.src=this.getAttribute('normal');" onclick="goToSlide(1);" class="slideshow_button" id="slideshow_button_1" active="1"> <img src="images/slide_button2.gif" border="0" normal="images/slide_button2.gif" highlighted="images/slide_button2-over.gif" onmouseover="this.src=this.getAttribute('highlighted');" onmouseout="if (this.getAttribute('active') != 1) this.src=this.getAttribute('normal');" onclick="goToSlide(2);" class="slideshow_button" id="slideshow_button_2" active="0"> <img src="images/slide_button3.gif" border="0" normal="images/slide_button3.gif" highlighted="images/slide_button3-over.gif" onmouseover="this.src=this.getAttribute('highlighted');" onmouseout="if (this.getAttribute('active') != 1) this.src=this.getAttribute('normal');" onclick="goToSlide(3);" class="slideshow_button" id="slideshow_button_3" active="0"> </div>
-				</div>
-				<!-- End Main Feature  -->
-				
-				<div id="giveaway" class=""><img src="images/giveaway_top.gif">
-				<form action="index.php" method="post" name="newsletter_signup_form">
-					<input type="hidden" name="submitted" value="1">
-					<div class="headline">You got an opinion, speak up!</div>
-					<div class="maintext">Answer a few questions, tell us what you think and you could win $5000 the day our new website launches plus receive the latest news on our new site direct from us!</div>
-					
-					<div class="group">
-						Your First Name<br>
-						<input name="name" type="text" onfocus="clearField(this);">
-					</div>
-					<div class="group">
-						Email Address<br>
-						<input name="email" type="text" onfocus="clearField(this);">
-					</div>
-					<div class="group">
-						<input name="gender" type="radio" value="male" class="radio">Male&nbsp;&nbsp;&nbsp;
-						<input name="gender" type="radio" value="female" class="radio">Female
-					</div>
-					<div class="group">
-						Your Age<br>
-						<input name="age" type="radio" value="0" class="radio">Under 18<br>
-						<input name="age" type="radio" value="1" class="radio">19 - 34<br>
-						<input name="age" type="radio" value="2" class="radio">35 - 50<br>
-						<input name="age" type="radio" value="3" class="radio">Over 50
-					</div>
-					<div class="group">
-						Phone Number (optional)<br>
-						<input name="phone" type="text" onfocus="clearField(this);">
-					</div>
-					<div class="group clearfix">
-						<input type="checkbox" name="agree" style="float:left;">
-						<div style="float:left;width:140px;margin-left:10px">I agree to the <a href="index.php?p=conditions" target="blank">Terms &amp; Conditions</a> of the contest</div>
-					</div>
-					<div class="group warning" style="width:190px" id="newsletter_warningField">
-					</div>
-					<input name="submit" type="image" src="images/form_send.gif" value="submit" class="button" onclick="return verifyEmailForm();">
-				</form>
-				<div>
-				<div id="tx_built"><a href="http://www.techxpress.net/"><img src="images/tx_built.gif" alt="Built by TechXpress" width="220" height="75" border="0"></a></div>
+<body>
+<a name="top">
+</a><div id="container"><a name="top">
+    </a><div id="header"><a name="top">
+        </a><div id="logo"><a name="top"></a><a href="http://977music.com/" title="977Music.com"><img src="images/logo.jpg" alt=".977 music" border="0"></a></div>
+        
+        <div id="top_banner"><p><iframe height="90" frameborder="0" width="728" scrolling="no" marginwidth="0" marginheight="0" src="http://www.977music.com/marketing/728x90.html"></iframe></p></div><!-- End Top Banner -->
+        
+        <div id="tagline"><a href="http://977music.com/" title="977Music.com - The New Generation in Radio"><img src="images/the_new_generation.gif" alt="The New Generation In Radio" border="0"></a></div>
+        
+        <div id="top_nav">
+            <div class="top_nav_item" style="width: 90px;"><div class="top_nav_item_inner"><a href="http://977music.com/">Start Over</a></div></div>
+            <div class="top_nav_item" style="width: 70px;"><div class="top_nav_item_inner"><a href="index.php?p=browse">Browse<!--&nbsp;<img src="images/top_nav_dd.gif" border="0">--></a></div></div>
+            <div class="top_nav_item" style="width: 95px;"><div class="top_nav_item_inner"><a href="earn_points.html">Earn Points</a></div></div>
+            <div class="top_nav_item" style="width: 100px;"><div class="top_nav_item_inner"><a href="artists/">Top Artists</a></div></div>
+            <div class="top_nav_item" style="width: 60px;"><div class="top_nav_item_inner"><a href="index.php?p=sn_view_blogs">Blogs</a></div></div>
+            <div class="top_nav_item" style="width: 65px;"><div class="top_nav_item_inner"><a href="events.html">Events</a></div></div>                        
+            <div class="top_nav_item" style="width: 100px;"><div class="top_nav_item_inner"><a href="contact.html">Get the 411</a></div></div>
+            <div class="top_nav_item" style="width: 65px;"><div class="top_nav_item_inner"><a href="mobile.html">Mobile</a></div></div>
+            <div class="top_nav_item" style="width: 100px;"><div class="top_nav_item_inner"><a href="index.php?p=custom_page&amp;page_name=SHOUTcast">SHOUTcast</a></div></div>
+        </div>
+        <form method="get" action="http://977music.com/index.php">
+        <input type="hidden" name="p" value="search">
+        <div id="search_bar" class="clearfix">
+            <div style="float: left;"><input class="search_bar_input" type="text" value="Search" name="search_text" onfocus="if (this.value == 'Search') { this.value = ''; } this.setStyle({color: '#000'});" onblur="if (this.value == '') { this.value = 'Search';}  this.setStyle({color: '#000'});"></div>
+            <div style="float: left;"><input type="image" src="images/btn_find.gif" class="btn_find"></div>                
+        </div>  
+        </form>
+    </div>
+    <!-- End Header -->
 
-				<div style="padding:10px 0 0 40px; background-color:#FFFFFF; width:180px;  display:none;"><a href="http://go.microsoft.com/?linkid=7244586" target="_blank"><img src="images/wmalogo.jpg" alt="Microsoft WMA" border="0"></a></div>
 
-				</div>
+<div id="main_content" class="clearfix">
+    <div id="main_col">
+        
+<div id="left_col">
 
-				<div style="padding:0px; margin: 0px; background-color: #ffffff;  display:none;"><br><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289088708&amp;mt=8" target="_new"><img src="images/flytunes.jpg" alt="FlyCast" border="0" width="220"></a></div>
+    <div class="lc_menu">
+        <div class="lc_menu_content">
+            <div><img src="images/lc_menu_title_join_now.gif"></div>
+            <ul>
+                <li class="join_links_class"><a href="sn_manage_profile.html">Account Login</a></li>            </ul>
+        </div>
+        <div><img src="images/lc_menu_bottom.gif"></div>
+    </div><!-- End Left Menu -->
+    
+    <div class="lc_menu">
+        <div class="lc_menu_content">
+            <div><img src="images/lc_menu_title_the_buzz.gif"></div>
+            <ul>
+                <li class="buzz_links_class"><a href="weather.html">Weather</a></li><li class="buzz_links_class"><a href="lottery.html">Lottery</a></li><li class="buzz_links_class"><a href="horoscope.html">Horoscopes</a></li><li class="buzz_links_class"><a href="entertainment.html">Entertainment</a></li><li class="buzz_links_class"><a href="stocks.html">Stocks</a></li><li class="buzz_links_class"><a href="http://www.977music.com/chat/index.php" target="blank">Live Chat</a></li><li class="buzz_links_class"><a href="team_support.html">Other Links</a></li><li class="buzz_links_class"><a href="http://www.cafepress.com/977MusicStore" target="blank">The Marketplace</a></li><li class="buzz_links_class"><a href="http://977music.com/index.php?p=hotornot">Hot or Not</a></li>            </ul>
+        </div>
+        <div><img src="images/lc_menu_bottom.gif"></div>
+    </div><!-- End Left Menu -->	
+    
+    <div class="lc_banner">
+        <p><iframe marginwidth="0" marginheight="0" src="http://www.club977hitz.com/marketing/160x600.html" frameborder="0" width="160" scrolling="no" height="600"></iframe></p>    </div>	
 
-                </div><!-- End Giveaway  -->
-				
-				
-				
-				
-				<div id="main_content">
-				<div class="warning"></div>
-					<div id="page_textContent"><strong>977Music.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. </strong><br>
-<br>
-<ul>
-    <li><strong>Information Automatically Logged</strong><br>
-    We use your IP address to help determine our aggregate user levels, diagnose problems with our servers or ban offensive users, and to generally administer this Web site. <br>
-    </li>
-</ul>
-<ul>
-    <li><strong>Cookies<br>
-    </strong>This site uses cookies to limit display of the same ad repeatedly, and to deliver content specific to your interests. We may also use cookies to confirm our aggregate user levels. <br>
-    </li>
-</ul>
-<ul>
-    <li><strong>Advertisers<br>
-    </strong>For the majority of our advertising, we use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of this Website, cookies received with banner ads are collected by our ad agency, and we do not have access to this information. <br>
-    </li>
-</ul>
-<ul>
-    <li><strong>Surveys, Contests, Email, and Registrations<br>
-    </strong>Our site's forms require users to give us contact information such as name and email address, and occasionally demographic information such as zip code, or age. <br>
-    </li>
-</ul>
-<br>
-Contact information from these forms or incoming email is used to contact site registrants, contest winners or reply to incoming email inquiries. Club 977 will not sell, submit, or furnish your name or email address to any outside party without your permission, nor will we place you on any kind of mailing list. <br>
-<br>
-Basic demographic information is shared with advertisers on an aggregate basis. We use this data to tailor your experience at our site by featuring content that we believe you may be interested in, and displaying the content according to majority preferences. <br>
-<br>
-<ul>
-    <li> <strong>External Links<br>
-    </strong>This site contains links to other sites. Club 977 dot com is not responsible for the privacy practices or the content of such Web sites and these links are provided for convenience only. <br>
-    </li>
-</ul>
-<ul>
-    <li> <strong>Public Forums<br>
-    </strong>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. <br>
-    </li>
-</ul>
-<ul>
-    <li><strong>Data Quality/Access<br>
-    </strong>This site gives users the following options for changing and modifying information previously provided: <br>
-    </li>
-</ul>
-<br>
-Send email to <a href="mailto:info@977music.com" class="content">info at 977music.com</a> <br>
-<br>
-<ul>
-    <li><strong>Third Party Advertising<br>
-    </strong>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a target="_blank" href="http://www.maxonline.com/privacy_policy/index.php">click here</a>. </li>
-</ul>
-<ul>
-    <li><strong>Third Party Cookies<br>
-    </strong>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</li>
-</ul>
-<ul>
-    <li><strong>Contacting the Web Site<br>
-    </strong>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact <br>
-    </li>
-</ul>
-<br>
-<div align="center"><a href="mailto:info@977music.com">info at 977music.com</a></div></div>
-				</div>
-				
-			</div><!-- End Main Col  -->				
-				
-				<div id="r_col">
-					<div id="countdown">
-						<div id="countdown_clock">
-							<script type="text/javascript">
-								AC_FL_RunContent( "codebase","http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0","width","180","height","54","title","Countdown Clock","src","servercountdown","quality","high","pluginspage","http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash","movie","servercountdown" ); //end AC code
-							</script><embed width="180" height="54" title="Countdown Clock" src="servercountdown.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> 
-							<noscript>
-								<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="180" height="54" title="Countdown Clock">
-									<param name="movie" value="servercountdown.swf">
-									<param name="quality" value="high">
-									<embed src="servercountdown.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="180" height="54"></embed>
-								</object>
-							</noscript>
-						</div><!-- End Countdown Clock  -->
-					</div><!-- End Countdown  -->
-					
-					<div id="right_banner">
-						<iframe height="600" frameborder="0" width="160" scrolling="no" src="http://www.977music.com/iframes/160x600trib.html" vspace="0" hspace="0" marginheight="0" marginwidth="0"></iframe>
-					</div><!-- End Right Banner  -->
-				</div>
-				
-				<!-- End R Col  -->
+</div><!-- End Left Col -->
 
-			
-			<div id="footer">
-				<div class="l_float">For general information and advertising quotations please send enquiries to:<br><img src="images/email.gif" align="absmiddle"><a href="mailto:inbox@977music.com">inbox@977music.com</a></div>
-				<div class="r_float">Copyright 2008 Club977, Inc&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.php?p=terms">Terms &amp; Conditions</a>  |  <a href="index.php?p=privacy">Privacy Policy</a><br>
-				Website Development and Hosting by: <a href="http://www.techxpress.net/" target="_blank">TechXpress</a></div>
-			</div><!-- End Footer  -->
-			
-		</div><!-- End Main Page  -->
-		<div><img src="images/main_page_bottom.gif"></div>
+
+<div id="center_col">
+    <div class="cc_item">
+        <div><img src="images/cc_item_top.gif"></div>
+        <div class="cc_item_content">
+            <h2>Privacy Policy</h2>
+            <strong>Our Commitment To Privacy</strong><br>
+<br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.<br>
+<br>
+<strong>The Information We Collect:</strong><br>
+<br>
+This notice applies to all information collected or submitted on the !domain! website. On some pages, you can register to receive materials.<br>
+<br>
+<strong>The Way We Use Information:</strong><br>
+<br>
+We use return email addresses to answer the email we receive.<br>
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.<br>
+<br>
+<strong>Our Commitment To Data Security</strong><br>
+<br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.<br>
+<br>
+<strong>Our Commitment To Children's Privacy:</strong><br>
+<br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.<br><div class="record_row clearfix"></div><!-- end record row -->
+        </div>
+        <div><img src="images/cc_item_bottom.gif"></div>
+    </div>
 </div>
-<div style="display:none;">test: privacy</div>
 
+    </div><!-- End main_col -->
+    
+    
+    <div id="right_col">
+            <div id="main_stations2">
+        <div><img src="images/stations_header2.gif"></div>
+        
+        <div id="station_list2" class="clearfix">
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/hitz.asx" target="_blank"><b></b>The<b> Hitz</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/hitz.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/hitz/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/80s.asx" target="_blank"><b></b>The<b> 80's</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/80s.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/80s/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/country.asx" target="_blank"><b>Country</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/country.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/country/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/classicrock.asx" target="_blank"><b>Classic Rock</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/classicrock.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/classicrock/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/alt128.asx" target="_blank"><b>Alternative</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/alt128.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/alternative/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/oldies.asx" target="_blank"><b>Oldies</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/oldies.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/oldies/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/mix.asx" target="_blank"><b></b>The<b> Mix</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/mix.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/mix/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/smoothjazz.asx" target="_blank"><b>Smooth Jazz</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/smoothjazz.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/smoothjazz/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/comedy.asx" target="_blank"><b>Comedy</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/comedy.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/comedy/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                                    <div id="entry_wrap2">
+                        <ul> 
+                            <li><a href="http://www.977music.com/tunein/web/90s.asx" target="_blank"><b></b>The<b> 90s</b></a></li>
+                        </ul> 
+                        <div id="icon_wrap2">
+                            <span class="111111float_right" style="position: relative; relative; top: -2px;"><a href="http://www.977music.com/tunein/web/90s.asx" target="_blank"><img src="images/wmp_btn.gif" border="0"></a></span>
+                            <span class="111111float_right_padding" style="position: relative; top: -4px;"><a target="FlashPlayerWindow" href="#" onclick="window.open('http://www.977music.com/flashplayer/90s/4.html', 'FlashPlayerWindow', 'status=0,toolbar=0,location=0,menubar=0,resizable=0,scrollbars=1,width=768,height=768'); return false;"><img src="images/flash_btn.gif" border="0"></a></span>
+                        </div>
+                    </div> 
+                        </div>
+        
+        <div><img src="images/main_stations_bottom2.gif"></div>
+    </div><!-- End Main Stations -->
+
+<div class="rc_item">
+	<a href="http://977music.com/iphone_release.html"><img src="images/977iphoneapp.jpg" alt="977 Music iPhone App" border="0" title="977 Music App for Apple iPhone and iTouch"></a>
+</div>
+
+<div class="rc_item">
+	<a href="newsletter.html"><img src="images/subscribe.jpg" alt="Subscribe" border="0" title="Subscribe to the 977Music E-Newsletter"></a>
+</div>
+
+<div class="rc_item">
+	<!-- <img src="images/hot_not.jpg" alt="Who's Hot / Who's Not" /> -->
+</div>
+
+<div class="rc_item">
+    <div class="rc_banner"><p><iframe marginwidth="0" marginheight="0" src="http://www.club977.com/marketing/300x250.html" frameborder="0" width="300" scrolling="no" height="250"></iframe></p></div>
+</div>
+
+
+    </div><!-- End Left Col -->
+    
+</div><!-- End Main Content -->
+
+<div id="footer">
+<div class="l_float">For general information and advertising quotations please <a href="index.php?p=contact">contact us</a></div>
+<div class="r_float">Copyright 2009 Club977, Inc&nbsp;&nbsp;|&nbsp;&nbsp;
+                <a href="terms.html">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="faq.html">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sn_invite.html">Invite</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://977music.com/index.php?p=sn_groups">Top Artists</a><br>
+                Website Development and Hosting by: <a href="http://www.techxpress.net/" target="_blank">TechXpress</a></div>
+
+</div><!-- End Footer  -->
+</div><!-- End Container  -->
+
+
+
+<script type="text/javascript"> 
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+    var pageTracker = _gat._getTracker("UA-6395537-1");
+    pageTracker._trackPageview();
+</script> 
 
 
 
