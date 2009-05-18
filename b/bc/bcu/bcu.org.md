@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bcu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122503id_/http%3A//www.bcu.org/PrivacyandSecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcu.org privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519003013id_/http%3A//www.bcu.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# BCU -
 
-[about us](https://web.archive.org/web/20081217122503id_/http%3A//www.bcu.org/aboutbcu.aspx) > **privacy policy**
-
-### Privacy Policy
+## Privacy Policy
 
 **Notice of privacy practices for members  
 ** Important information about the personal data your credit union collects and how it is used. To assure the continued privacy and confidentiality of your personal financial information, your credit union observes the following practices and procedures:
