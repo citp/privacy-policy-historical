@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624134913id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518090015id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
-### Privacy Policy
+### [Indymedia](https://web.archive.org/indymedia)
+
+> ### Privacy Policy
 
 The SF Bay Area IMC intends to give you the user as much control as possible over your personal information. We will let each user know how we will use the personal information derived from each user's access to and use of the web site services.
 
@@ -49,6 +51,20 @@ In the event that the SF Bay Area IMC becomes aware that site security is compro
 
 If the SF Bay Area IMC becomes aware that a user's personal information provided to the SF Bay Area IMC has been disclosed in a manner not permitted by this Privacy Policy, the SF Bay Area IMC shall make reasonable efforts to notify the affected user, as soon as reasonably possible, of what information has been disclosed, to the extent that the SF Bay Area IMC knows this information.
 
+#### SECURE HTTP
+
+To browse or publish to Indybay using SSL encryption (HTTPS), users may import the certificate authority root certificate into their browsers from <http://www.cacert.org/certs/root.crt>. The Indybay site will then be available at <https://www.indybay.org/> without any warning message about an "untrusted certificate."
+
+Users should verify that the site they are reading or publishing to really is Indybay by verifying the site's SSL certificate fingerprints in their browser:  
+SHA1 fingerprint 8B:0B:FF:09:AC:1D:BA:69:48:E1:FB:62:73:E4:4C:AD:B3:5E:DC:26  
+MD5 fingerprint 51:78:0B:71:71:4F:75:69:42:6E:A3:D3:60:C4:B1:29
+
 #### UPDATES TO THE PRIVACY POLICY
 
 To update the privacy policy, we will post the changed version and its effective date at <http://www.indybay.org/>.
+
+If you visit a secure (HTTPS) website and your browser displays a warning about an "untrusted certificate," you have reason to be alarmed: someone may have hijacked your network and is trying to monitor your activity and/or steal your password. 
+
+However, many non-corporate sites, like Indybay, do not rely on the corporate system of supposedly "trusted" certificate authorities to verify their identity. Indybay uses a non-corporate certificate authority called [CAcert](http://www.cacert.org/). Because it's not "trusted" by corporate America, the CAcert certificate authority is not built-in to web browsers; instead, you have to import the root certificate from <http://www.cacert.org/certs/root.crt> into each browser you use to avoid the warning about untrusted certificates. 
+
+You should verify that the site you're reading or publishing to really is Indybay by verifying the site's SSL certificate fingerprints in your browser (see above).
