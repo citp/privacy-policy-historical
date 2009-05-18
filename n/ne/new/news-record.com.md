@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912070214id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-record.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518090252id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.*
 
-# News & Record Privacy Policy for Electronic Publications and Interfaces : News-Record.com : Greensboro, North Carolina
+# News & Record Privacy Policy for Electronic Publications and Interfaces : News-Record.com : Greensboro & the Triad's most trusted source for local news and analysis
 
 As of April 18, 2001
 
