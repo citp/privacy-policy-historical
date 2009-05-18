@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225355id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519011902id_/http%3A//www.teamsnap.com/privacy.php) for the most accurate reproduction.*
 
 # TeamSnap : Privacy Policy
 
@@ -14,7 +14,7 @@ When you communicate with us or use the TeamSnap system, we will know your email
 
 The only exception to this might be if we're required to share your information with law enforcement. Or maybe if there was some cataclysmic global event like an asteroid strike and we thought it might help. But short of that, your information is 100% confidential. In fact, we'd be inclined to lay down our lives to protect your information (or at least just lay down, like for a nap).
 
-However, if you violate our [Terms of Service](https://web.archive.org/web/20081219225355id_/http%3A//www.teamsnap.com/terms.php), all bets are off and we might send your information to crazy Russian spammers.
+However, if you violate our [Terms of Service](https://web.archive.org/web/20090519011902id_/http%3A//www.teamsnap.com/terms.php), all bets are off and we might send your information to crazy Russian spammers.
 
 #### Cookies
 
@@ -38,4 +38,4 @@ If there is a change to our privacy policy for any reason, we will notify you pr
 
 #### Questions?
 
-If you have any questions about this Privacy Policy, just send an email to [support@teamsnap.com](mailto:support@teamsnap.com). Or if for some reason you want to send us a letter (do people still do that?) just address it to Sparkplug, 818 SW Third Ave, Suite 300, Portland, OR, 97204 USA.
+If you have any questions about this Privacy Policy, just send an email to [howdy@teamsnap.com](mailto:howdy@teamsnap.com). Or if for some reason you want to send us a letter (do people still do that?) just address it to TeamSnap, 14525 SW Millikan Way #19610, Beaverton, OR, 97005 USA.
