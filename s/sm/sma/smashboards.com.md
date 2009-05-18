@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518121528id_/http%3A//www.smashboards.com/privacy.php) for the most accurate reproduction.*
 
 # Smash World Forums - Privacy Policy
 
   
-|  **[REGISTER HERE TODAY!](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/register.php?)**
+|  **[REGISTER HERE TODAY!](https://web.archive.org/web/20090518121528id_/http%3A//www.smashboards.com/register.php?s=038fb7ea11febb4b94635f5d67ddcf48&)**
 
 Welcome to **Smash Boards** , the world's largest Super Smash Bros. 64, Smash Bros. Melee, and [Smash Bros. Brawl](https://web.archive.org/news/) community! Over 110,000 Smash Bros. fans from around the world have come to discuss these great games in over 4 million posted discussions! 
 
-You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/register.php?)! 
+You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20090518121528id_/http%3A//www.smashboards.com/register.php?s=038fb7ea11febb4b94635f5d67ddcf48&)! 
 
 If you are looking for basic Super Smash Bros. information, a great place to start may be our [SmashWiki](http://www.smashwiki.com/) or [Smash News](http://smashboards.com/news/). If you have any problems with the registration process or your account login, please contact [support](https://web.archive.org/sendmessage.php).  
   
@@ -16,17 +16,16 @@ If you are looking for basic Super Smash Bros. information, a great place to sta
 
 
 _Did you know:_  
-When you login, you see less forum advertising?  
-Better yet, [Premium members](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/premium.php) see no forum advertising!   
+When you login, you see less forum advertising?   
 
 
 Welcome to the Smash World Forums.  
 ---  
-**[REGISTER HERE TODAY!](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/register.php?)**
+**[REGISTER HERE TODAY!](https://web.archive.org/web/20090518121528id_/http%3A//www.smashboards.com/register.php?s=038fb7ea11febb4b94635f5d67ddcf48&)**
 
 Welcome to **Smash Boards** , the world's largest Super Smash Bros. 64, Smash Bros. Melee, and [Smash Bros. Brawl](https://web.archive.org/news/) community! Over 110,000 Smash Bros. fans from around the world have come to discuss these great games in over 4 million posted discussions! 
 
-You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20081217035815id_/http%3A//www.smashboards.com/register.php?)! 
+You are currently viewing our boards as a guest, which gives you the ability to view most discussions and articles. By joining our **FREE** community you will be able to post new topics and reply to threads, communicate privately with other SmashBoards members (PM), sign up for Smash Bros. tournaments, **see fewer forum advertisements** , and access many other special features. Registration is fast, simple and absolutely free, so please, [**join our community today**](https://web.archive.org/web/20090518121528id_/http%3A//www.smashboards.com/register.php?s=038fb7ea11febb4b94635f5d67ddcf48&)! 
 
 If you are looking for basic Super Smash Bros. information, a great place to start may be our [SmashWiki](http://www.smashwiki.com/) or [Smash News](http://smashboards.com/news/). If you have any problems with the registration process or your account login, please contact [support](https://web.archive.org/sendmessage.php).  
   
@@ -47,7 +46,7 @@ Smash World's forums are directed to children, teenagers, and adults of all ages
 **_Third Party Advertising_**  
 We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you have questions or would like to see the specific privacy policies of our Adverts, please [email Gideon](mailto:gideon@smashboards.com?Subject=Policy_Questions). Our adverts and we reserve the right to change our Privacy Policy at anytime. 
 
-All times are GMT -4. The time now is 11:58 PM.
+All times are GMT -4. The time now is 08:15 AM.
 
   
   
@@ -57,6 +56,6 @@ All times are GMT -4. The time now is 11:58 PM.
 [](http://topsite.smashboards.com/)
 
 Powered by vBulletin®  
-Copyright ©2000 - 2008, Jelsoft Enterprises Ltd. 
+Copyright ©2000 - 2009, Jelsoft Enterprises Ltd. 
 
 Forum Contents, Rooms, and Names Copyright © Smash World. 
