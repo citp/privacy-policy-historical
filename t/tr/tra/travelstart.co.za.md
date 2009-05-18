@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220112228id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518094053id_/http%3A//www3.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # >>>Travelstart. Book your cheap flight, hotels, cars and packages on Travelstart today! | Privacy Policy<<<
 
