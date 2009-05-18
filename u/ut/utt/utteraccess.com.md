@@ -1,42 +1,40 @@
-> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220094855id_/http%3A//www.utteraccess.com/forums/uapriv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518021636id_/http%3A//www.utteraccess.com/forums/Privacy_Policy.php%3FCat%3D) for the most accurate reproduction.*
 
-# Utter Access Discussion Forums - Privacy statement
+# UtterAccess Discussion Forums - Privacy Policy
+
+| 
 
 **Welcome to UtterAccess.com!**
 
-UtterAccess.com created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website. 
+The UtterAccess.com (UA) privacy policy exists to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of UtterAccess.
 
 __Information Automatically Logged__  
-We use your IP address to help administer our Web site. In particular, we log IP addresses to help us to track malicious use of the discussion forums.
+We use your IP address to help administer UA. Specifically, IP addresses are automatically recorded to help us track any potential malicious use of UtterAccess.
 
 __Cookies__  
-Our Site uses cookies to save your discussion forum password so you don't have to re-enter it each time you visit our the discussion forums.
-
+UtterAccess uses cookies to save an encrypted version of your password. If you choose 'remember me!', you will not have to enter your password each time you visit.  
+Google, as a third party vendor, uses cookies to serve ads on UtterAccess.  
+Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to UtterAccess users based on their visit to UA and other sites on the Internet.  
+UtterAccess users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)  
 __Registration Forms__  
-Our discussion forum's registration form requires users to give us basic contact information (a valid email address), and a unique identifier ( _username_ ).
+When you sign up and become a member of the UA family, the registration form requires minimal contact information (a valid email address), and a unique identifier ( _username_ ).
 
  **UtterAccess.com does not and will not sell or transmit any personal information you have provided under any circumstances. This is our promise.**
 
-Information from the registration forms is used to contact you when necessary, and to provide a destination should you choose to subscribe to any of the boards.   
-Unique identifiers ( _usernames_ ) are collected from UtterAccess.com visitors to verify each users identity.
+Your registered email address may be used by UtterAccess Administrators and Editors to contact you if and when necessary, and to provide a destination should you choose to subscribe to any of the forum features we offer. Unique identifiers ( _usernames_ ) are required for all UtterAccess members to associate them with the posts they author.
 
 __External Links__  
-This site contains links to other sites. UtterAccess.com is not responsible for the privacy practices or the content of any other website.
-
+UtterAccess contains links to many other websites. UtterAccess is not responsible for the privacy practices or the content of any other website.  
 __Public Forums__  
-This site makes forums and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution before deciding to disclose any personal information.
-
+UtterAccess makes many of the forums available to the world. Please remember that information disclosed in these areas becomes public information. Please exercise caution before disclosing any personal information.  
 __Security__  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. The data provided when registering for membership of the discussion forum is stored in a secure database. 
-
+UtterAccess has security measures in place to protect the loss, misuse, and alteration of the information under our control. The data provided when registering for membership of the discussion forum is stored in secure databases, in secure servers within a secure data-center.   
 __Data Quality/Access__  
-This site gives users the following options for changing and modifying information previously provided:   
-You may edit any aspect of your personal profile within the discussion forum. 
+UtterAccess gives registered members the option to change or modify any aspect of their personal profile. Should a registered member desire a change to their Username, they must contact an Administrator.  
+__Contacting UtterAccess__  
+If you have any questions regarding this privacy statement, the practices of UtterAccess, or your dealings with UtterAccess, please feel free to contact us at anytime.
 
-__Contacting the Web Site__  
-If you have any questions regarding this privacy statement, the practices of this website, or your dealings with UtterAccess.com, please feel free to contact us at anytime.
-
-[ webmaster@UtterAccess.com](mailto:webmaster@UtterAccess.com "Write away!")  
+[webmaster@UtterAccess.com](mailto:webmaster@UtterAccess.com "Write away!")  
 
 
-[](http://validator.w3.org/check/referer)
+The UtterAccess.com privacy policy has been updated as of 2009-03-13 to explicitly reflect the use of Google's interest-based advertising. 
