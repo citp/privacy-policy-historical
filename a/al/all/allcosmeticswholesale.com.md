@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcosmeticswholesale.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209040635id_/http%3A//www.allcosmeticswholesale.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcosmeticswholesale.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518082313id_/http%3A//allcosmeticswholesale.com/privacypolicy.html) for the most accurate reproduction.*
 
-# allcosmeticswholesale.com
+# WWW.ALLCOSMETICSWHOLESALE.COM
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -23,6 +23,8 @@ The information we collect is only used to fulfill your order.
 Our Commitment To The Security of Your Data
 
 A secure database is protecting all of your data.
+
+Payment information such as credit card numbers and passwords are not collected by ACW at any point in your transaction. All payment information is kept secure with paypal payment system. We accept paypal secure payments exclusively.
 
 Contact Us
 
