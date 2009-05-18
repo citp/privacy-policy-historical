@@ -1,64 +1,56 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912190014id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519002409id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
 
 # UPS info for UPSers - Brown Cafe Privacy Statement
 
-## Privacy Statement for Brown Cafe
+> **Privacy Statement for the Style and Design LLC Family of Websites**
+> 
+> The privacy of our visitors is of extremely important to us. This privacy policy document outlines the types of personal information we receive and collect when you visit a Style and Design LLC websites and how we safeguard your information. 
+> 
+> **Personal Information**
+> 
+> Style and Design LLC makes chat rooms, forums, message boards, and private messaging and other interactive resources available to users. Please remember that any information that is disclosed in these areas becomes public information and that you should exercise caution when deciding to disclose your personal information on the internet. We do not sell any of your personal information to third parties.
+> 
+> **Log Files**
+> 
+> Like many other Web sites, our sites make use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+> 
+> **Cookies and Web Beacons**
+> 
+> Our sites do use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+> 
+> **Advertisers**
+> 
+> Some of our advertising partners may use cookies and web beacons on our sites. Our advertising partners include:
+> 
+>   * Google AdSense 
+> 
 
-**Brown Cafe** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Brown Cafe](http://www.browncafe.com/)
+>   * Amazon
+> 
 
-#### Information Automatically Logged
+> 
+> These third-party ad servers or ad networks use technology in the advertisements and links that appear on the Style and Design Family of Websites that is sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+> 
+> Style and Design LLC has no access to or control over these cookies that are used by third-party advertisers.
+> 
+> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Style and Design LLC ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+> 
+> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+> 
+> **DoubleClick DART Cookie**
+> 
+>   * Google, as a third party vendor, uses DoubleClick DART cookies to serve ads. 
+> 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site and for no other purpose.
+>   * Google’s use of the DART cookie enables it to serve ads to our users based on your visit to our sites and other sites on the Internet. 
+> 
 
-#### Cookies
+>   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+> 
 
-Our Site uses cookies to save the password of registered users at the Brown Cafe Community Board so you don't have to re-enter it each time you visit our site. We do not use cookies for the purpose of tracking useage or identifying individual users.
-
-#### Advertisers
-
-Syndicated content providers and outside ad companies display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-
-#### 
-
-#### Personal Information
-
-Some features of the Brown Cafe allow users to add personally identifiable information and demographic information to a searchable database. All information is optional and may be included at your discretion. Personally identifiable information is not sold to anyone or used for any purpose other than to provide this database for the convenience of our community. We do not share any personal information with any third parties nor do we use any personal information for any other purposes.
-
-#### External Links
-
-This site contains links to other sites. **Brown Cafe** is not responsible for the privacy practices or the content of such Web sites.
-
-#### Special Relationships
-
-Brown Cafe uses syndicated content providers for news feeds and various other content on this site. We do not share information about our users with them and do not receive any information about individual users from them.
-
-#### Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-#### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-#### Children's Guidelines
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
-  2. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
-    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.
-    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
-    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests specific instructions for a game) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
-  3. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
-  4. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
-  5. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
-  6. We will NOT provide any links to Web sites that are unsuitable for children.
-  7. We will encourage children to get their parent's permission before sharing personal information online.
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-[webmaster@browncafe.com](mailto:webmaster@browncafe.com)
+> 
+> **E-Mail Addresses**
+> 
+> When you make a comment or contact us using the contact page, your E-mail Address  is required. Please be assured that your E-mail address will only be used for responding to your E-mail or Comment and will never be made publicly available. We will never sell your email address to any third parties, ever.
+> 
+> If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.browncafe.com/forum/sendmessage.php).
