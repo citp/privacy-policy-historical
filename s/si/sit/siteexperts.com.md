@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929203257id_/http%3A//www.siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518200721id_/http%3A//www.siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
 
 # SiteExperts.com Privacy Statement
 
 [**Home**](https://web.archive.org/home.asp)  
- [Around the Web](https://web.archive.org/homeext.asp)   
- [Free Newsletters](https://web.archive.org/newsletters/newsletters.asp)   
- [Daily Log](https://web.archive.org/daily/daily.asp)
+
 
 [**Community**](https://web.archive.org/members/community.asp)  
  [Join SiteExperts](https://web.archive.org/members/newuser.asp)  
@@ -32,15 +30,7 @@
 **[Developer's Paradise](https://web.archive.org/paradise/getList.asp)**  
  [Inside Techniques](https://web.archive.org/paradise/getList.asp?res=Inside+Technique)  
   -[Cross Browser DHTML](https://web.archive.org/paradise/getList.asp?res=Inside+Technique&type=Task&cid=39&rname=Cross%2DBrowser+DHTML)   
-   [...More...](https://web.archive.org/paradise/getList.asp?res=Inside+Technique)   
- [Outside Techniques](https://web.archive.org/paradise/getList.asp?res=Outside+Technique)   
- [Developer Products](https://web.archive.org/paradise/getList.asp?res=Product)   
- [Product Reviews](https://web.archive.org/paradise/getList.asp?res=Review)   
- [Web Sites](https://web.archive.org/paradise/getList.asp?res=Web+Site)   
-  **[Submit Resource](https://web.archive.org/paradise/submit.asp)**
-
-**[High-Tech Jobs](https://web.archive.org/jobs/home.asp)**  
-
+   [...More...](https://web.archive.org/paradise/getList.asp?res=Inside+Technique)
 
 **[Site Tools](https://web.archive.org/tools/home.asp)**  
  [Web Logs, Guest Books](https://web.archive.org/tools/home.asp)  
@@ -83,4 +73,4 @@ A _cookie_ is a small file that can be written and accessed by the site that cre
 
 
 
-Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20080929203257id_/http%3A//www.siteexperts.com/info/privacy@SiteExperts.com). 
+Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20090518200721id_/http%3A//www.siteexperts.com/info/privacy@SiteExperts.com). 
