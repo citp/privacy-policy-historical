@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202051916id_/http%3A//www.dealereprocess.com/index.php/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519225338id_/http%3A//www.dealereprocess.com/index.php/site/privacy_policy) for the most accurate reproduction.*
 
 # Auto Dealership Website & SEO Provider – Dealer e Process
 
