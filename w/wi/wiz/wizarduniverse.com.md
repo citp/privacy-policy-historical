@@ -1,36 +1,32 @@
-> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/privacy.html) for the most accurate reproduction.*
 
 # WizardUniverse.com Privacy Policy
 
-[](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)
+[](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/index.html)
 
-| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)| | [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/comics.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/toys.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/movies.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/tv.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/games1.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/anime.html)| [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/blogs.html)| [](http://wizarduniverse.invisionzone.com/)|   
+| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/index.html)| | [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/comics.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/toys.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/movies.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/tv.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/games1.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/anime.html)| [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/blogs.html)| [](http://wizarduniverse.invisionzone.com/)|   
 ---|---|---|---|---|---|---|---|---|---|---  
-| | [](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html)| | **HOT TOPICS**  
+| | [](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/index.html)| | **HOT TOPICS**  
 ---|---  
-| | [ WIZARD TV](http://www.wizarduniverse.com/wizardtv.html)  
-| | [Weekly Comic Book Roundups](http://www.wizarduniverse.com/wuroundupspage.html)  
+| | [ Weekly Comic Book Roundups](http://www.wizarduniverse.com/wuroundupspage.html)  
 | | ['TMQB' Comic Book Reviews Archive](http://www.wizarduniverse.com/tmqb-archive.html)  
 | | [Weekly Features and Columns](http://www.wizarduniverse.com/weeklyfeatures.html)  
+| | [WIZARD TV](http://www.wizarduniverse.com/wizardtv.html)  
 | | [Comic Previews](http://www.wizarduniverse.com/preview-archive.html)  
-| | [Toy of the Day](http://www.wizarduniverse.com/toys.html)  
-| | [Movie Trailers](http://www.wizarduniverse.com/movies.html)  
-| | [TV Highlights](http://www.wizarduniverse.com/tv.html)  
 | | [Video Games](http://www.wizarduniverse.com/games1.html)  
 | | [Hobby Gaming](http://www.wizarduniverse.com/wugamingpage.html)  
 | | [Blogs](http://www.wizarduniverse.com/blogs.html)  
+| | [In The Press](http://www.wizarduniverse.com/press.html)  
 |  **WIZARD  
 WORLD TOUR**  
 ---|---  
-| | [Philadelphia](http://www.wizarduniverse.com/wizworeas20.html)  
-| | [Chicago Comic-Con](http://www.wizarduniverse.com/wizworchic20.html)  
-| | [Texas](http://www.wizarduniverse.com/wiwote20.html)  
-| | [Los Angeles](http://www.wizarduniverse.com/wiwolosan20.html)  
+| | [Philadelphia](http://www.wizarduniverse.com/wwphilly.html)  
+| | [Chicago Comic-Con](http://www.wizarduniverse.com/wwchicago.html)  
+| | [Big Apple Comic-Con](http://www.wizarduniverse.com/bigapple.html)  
 |  **SUBSCRIPTIONS**  
 ---|---  
 | | [ Wizard](http://www.wizarduniverse.com/wizmagsub.html)  
 | | [ToyFare](http://www.wizarduniverse.com/toymagsub.html)  
-| | [Anime Insider](http://www.wizarduniverse.com/aninmagsub.html)  
 | | [Twisted ToyFare](http://www.wizarduniverse.com/twtoth.html)  
 | | [Specials & Books](http://www.wizarduniverse.com/wizspeced.html)  
 | | [New This Month](http://www.wizarduniverse.com/newthismonth.html)  
@@ -39,21 +35,33 @@ WORLD TOUR**
 
  **THE WIZARD POLL**  
 ---  
-[](http://www.wizarduniverse.com/jul083581.html)  
+[](http://www.wizarduniverse.com/mar094031.html)  
 ---  
-[ToyFare #135 Star Wars: The Clone Wars](http://www.wizarduniverse.com/jul083581.html)  
-[](http://www.wizarduniverse.com/jul083579.html)  
-[Wizard Magazine #204 Mike Choi Captain America/Iron Man/Thor Cover](http://www.wizarduniverse.com/jul083579.html)  
-[](http://www.wizarduniverse.com/jul083580.html)  
-[Wizard Magazine #204 HEROES TV Photo Cover](http://www.wizarduniverse.com/jul083580.html)  
-[](http://www.wizarduniverse.com/jun083592.html)  
-[Anime Insider #60 Death Note Cover](http://www.wizarduniverse.com/jun083592.html)  
+[ToyFare #143 Twisted ToyFare Theatre Barack Obama Cover](http://www.wizarduniverse.com/mar094031.html)  
+[](http://www.wizarduniverse.com/mar094032.html)  
+[ToyFare #143 Transformers 2 Movie Cover](http://www.wizarduniverse.com/mar094032.html)  
+[](http://www.wizarduniverse.com/mar094029.html)  
+[Wizard Magazine #212 Top 100 Graphic Novels Cover](http://www.wizarduniverse.com/mar094029.html)  
+[](http://www.wizarduniverse.com/mar094030.html)  
+[Wizard Magazine #212 2009 Summer Preview Cover](http://www.wizarduniverse.com/mar094030.html)  
+[](http://www.wizarduniverse.com/jan098114.html)  
+[Wizard Magazine #211 PLATINUM Barack & Michelle Obama Cover by J. Scott Campbell](http://www.wizarduniverse.com/jan098114.html)  
+[](http://www.wizarduniverse.com/feb094003.html)  
+[Wizard Magazine #211 PLATINUM Exclusive Marvel Jam Cover](http://www.wizarduniverse.com/feb094003.html)  
+[](http://www.wizarduniverse.com/feb094004.html)  
+[Wizard Magazine #211 PLATINUM Movie Preview Cover](http://www.wizarduniverse.com/feb094004.html)  
+[](http://www.wizarduniverse.com/jan098102.html)  
+[Wizard Magazine #211 PLATINUM Exclusive Marvel Jam Sketch Cover 1 in 10](http://www.wizarduniverse.com/jan098102.html)  
+[](http://www.wizarduniverse.com/oct083766.html)  
+[Wizard Michael Turner Millennium Tribute Edition Limited Deluxe HC](http://www.wizarduniverse.com/oct083766.html)  
+[](http://www.wizarduniverse.com/feb094008.html)  
+[Wizard How To Draw: Heroic Anatomy Deluxe TPB Spiral Bound Edition](http://www.wizarduniverse.com/feb094008.html)  
 | | | |   
 ---|---|---  
 | ****  
 ---  
   
-[Home](https://web.archive.org/web/20080913014409id_/http%3A//www.wizarduniverse.com/index.html) > WizardUniverse.com Privacy Policy
+[Home](https://web.archive.org/web/20090519095655id_/http%3A//www.wizarduniverse.com/index.html) > WizardUniverse.com Privacy Policy
 
 |   
 ---  
