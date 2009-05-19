@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landwatch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100035id_/http%3A//www.landwatch.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landwatch.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520015250id_/http%3A//www.landwatch.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Land for sale, acreages for sale, lots for sale at LandWatch.com
 
