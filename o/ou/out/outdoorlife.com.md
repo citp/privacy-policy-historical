@@ -1,25 +1,19 @@
-> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006225623id_/http%3A//outdoorlife.com/article/Other/Privacy-Policy-1198078434868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519024844id_/http%3A//www.outdoorlife.com/privacy-policy) for the most accurate reproduction.*
 
-# OutdoorLife - Privacy Policy
-
-  
-**Bonnier Corporation's Privacy Policy**
-
-Mar 18, 2008
+# Privacy Policy | Outdoor Life
 
 **Bonnier Corporation Privacy Policy**
 
-__At Bonnier Corporation, your privacy is important to us.   This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
+At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the _[Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp)_.
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp).
 
-If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
+If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at [privacy@bonniercorp.com](mailto:privacy@bonniercorp.com), or via postal mail at: 
 
 Privacy Department  
-Bonnier Corporation
-
+Bonnier Corporation  
 460 N. Orlando Avenue, Suite 200  
 Winter Park, FL 32789
 
@@ -122,8 +116,3 @@ Winter Park, FL 32789
 If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
 
 _This policy was last updated on March 18, 2008._
-
-  
-  
-  
-
