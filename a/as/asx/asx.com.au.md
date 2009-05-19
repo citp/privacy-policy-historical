@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041356id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for the ASX website
 
@@ -6,7 +6,7 @@ This Privacy Statement applies to your use of the web site of ASX at [www.asx.co
 
 ASX recognises that your privacy is important to you. ASX is committed to protecting your personal information.
 
-The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the [ASX Privacy Policy](https://web.archive.org/web/20081217041356id_/http%3A//www.asx.com.au/legal/privacy_summary.htm) or you can contact us on: 131 279.
+The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the [ASX Privacy Policy](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/legal/privacy_summary.htm) or you can contact us on: 131 279.
 
 ### **Collection of Click Stream and other information**
 
@@ -37,7 +37,7 @@ A 'cookie' is a packet of information that allows ASX to grant users access to c
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences).
 
-If you disable the use of cookies on your web browser or remove or reject specific cookies from this website or linked sites then you may not be able to gain access to all of the content and facilities in this website. For further information on cookies and this website please [contact us](https://web.archive.org/asx/about/Feedback.jsp).
+If you disable the use of cookies on your web browser or remove or reject specific cookies from this website or linked sites then you may not be able to gain access to all of the content and facilities in this website. 
 
 ### **Links to other Sites**
 
@@ -69,8 +69,7 @@ When you provide personal information to us via the Internet, we rely on the acc
 ### **Personal Information Storage and Security**
 
 Personal information is stored in transmission logs and archived for a period of up to seven years, depending on the nature of the information being held.  
-Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  
-[More information about MyASX security](https://web.archive.org/web/20081217041356id_/http%3A//www.asx.com.au/about_site.htm#Security).
+Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/about_site.htm#Security).
 
 ### **Use and Disclosure of Personal Information**
 
