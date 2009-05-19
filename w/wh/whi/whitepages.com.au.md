@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220094741id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519030610id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
