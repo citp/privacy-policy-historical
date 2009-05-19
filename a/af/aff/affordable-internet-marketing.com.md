@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019191813id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519050554id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Affordable Internet Marketing
 
@@ -53,3 +53,7 @@ Welcome to Affordable Internet Marketing Blog.
 You may want to [Subscribe to my Updates](http://www.affordable-internet-marketing.com/subscribe.php) or to my [RSS feed](http://www.affordable-internet-marketing.com/feed/). Thanks for visiting!
 
 **Bookmark for later reading:**
+
+* * *
+
+**FORWARD:[](http://www.affordable-internet-marketing.com/2004/06/privacy-policy/email/ "Email This Post To A Friend") [Email This Post To A Friend](http://www.affordable-internet-marketing.com/2004/06/privacy-policy/email/ "Email This Post To A Friend") **
