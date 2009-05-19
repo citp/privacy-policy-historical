@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914011422id_/http%3A//www.halfhourmeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519140327id_/http%3A//www.halfhourmeals.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HalfHourMeals.com
 
