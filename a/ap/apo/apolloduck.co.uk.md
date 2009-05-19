@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apolloduck.co.uk privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929141222id_/http%3A//www.apolloduck.co.uk/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolloduck.co.uk privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519100315id_/http%3A//www.apolloduck.co.uk/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Boats for sale UK, used boats, new boat sales, free photo ads - Apollo Duck
 
@@ -9,139 +9,134 @@
 [New Boat Ranges](https://web.archive.org/new/index.phtml)  
 [All Boat Listings](https://web.archive.org/listings.phtml)
 
-[**Barges**](http://barges.apolloduck.co.uk/) 107  
+[**Barges**](http://barges.apolloduck.co.uk/) 141  
 [Boat Builders](https://web.archive.org/listings.phtml?cid=14) 7  
-[Boat Charters](https://web.archive.org/listings.phtml?cid=165) 9  
-[Boat Shares](https://web.archive.org/listings.phtml?cid=378) 13  
-[Boat Trailers](https://web.archive.org/listings.phtml?cid=373) 45  
-[Businesses](https://web.archive.org/listings.phtml?cid=379) 12  
-[Canoes & Kayaks](https://web.archive.org/listings.phtml?cid=9) 20  
-[Chandlery](https://web.archive.org/listings.phtml?cid=12) 63  
-[**Commercial**](http://commercial.apolloduck.co.uk/) 248  
-[Duck Boats](https://web.archive.org/listings.phtml?cid=85) 1  
-[Engines](https://web.archive.org/listings.phtml?cid=10) 301  
-[**Fishing Boats**](http://fishingboats.apolloduck.co.uk/) 261  
-[**House Boats**](http://houseboats.apolloduck.co.uk/) 238  
-[Hovercraft](https://web.archive.org/listings.phtml?cid=361) 3  
-[**Inflatable Boats**](http://inflatables.apolloduck.co.uk/) 221  
-[Marinas & Moorings](https://web.archive.org/listings.phtml?cid=16) 63  
-[Marine Services](https://web.archive.org/listings.phtml?cid=15) 27  
-[**Motor Boats**](http://motorboats.apolloduck.co.uk/) 1256  
-[**Narrow Boats**](http://narrowboats.apolloduck.co.uk/) 878  
-[Open Boats](https://web.archive.org/listings.phtml?cid=8) 57  
+[Boat Charters](https://web.archive.org/listings.phtml?cid=165) 2  
+[Boat Shares](https://web.archive.org/listings.phtml?cid=378) 12  
+[Boat Trailers](https://web.archive.org/listings.phtml?cid=373) 43  
+[Businesses](https://web.archive.org/listings.phtml?cid=379) 9  
+[Canoes & Kayaks](https://web.archive.org/listings.phtml?cid=9) 47  
+[Chandlery](https://web.archive.org/listings.phtml?cid=12) 91  
+[**Commercial**](http://commercial.apolloduck.co.uk/) 290  
+[**Engines**](http://engines.apolloduck.co.uk/) 335  
+[**Fishing Boats**](http://fishingboats.apolloduck.co.uk/) 237  
+[**House Boats**](http://houseboats.apolloduck.co.uk/) 279  
+[Hovercraft](https://web.archive.org/listings.phtml?cid=361) 1  
+[**Inflatable Boats**](http://inflatables.apolloduck.co.uk/) 241  
+[Marinas & Moorings](https://web.archive.org/listings.phtml?cid=16) 64  
+[Marine Services](https://web.archive.org/listings.phtml?cid=15) 26  
+[**Motor Boats**](http://motorboats.apolloduck.co.uk/) 1192  
+[**Narrow Boats**](http://narrowboats.apolloduck.co.uk/) 800  
+[Open Boats](https://web.archive.org/listings.phtml?cid=8) 64  
 [Personal Watercraft](https://web.archive.org/listings.phtml?cid=11) 19  
 [Rowing](https://web.archive.org/listings.phtml?cid=364) 12  
-[**Sailing Dinghies**](http://sailingdinghies.apolloduck.co.uk/) 746  
-[**Sailing Yachts**](http://yachts.apolloduck.co.uk/) 870  
-[**Sport Boats**](http://sportboats.apolloduck.co.uk/) 542  
-[Superyachts](https://web.archive.org/listings.phtml?cid=72) 21  
-[Waterside Properties](https://web.archive.org/listings.phtml?cid=17) 11  
-[Watersports](https://web.archive.org/listings.phtml?cid=13) 9  
+[**Sailing Dinghies**](http://sailingdinghies.apolloduck.co.uk/) 722  
+[**Sailing Yachts**](http://yachts.apolloduck.co.uk/) 770  
+[**Sport Boats**](http://sportboats.apolloduck.co.uk/) 475  
+[Superyachts](https://web.archive.org/listings.phtml?cid=72) 13  
+[Waterside Properties](https://web.archive.org/listings.phtml?cid=17) 18  
+[Watersports](https://web.archive.org/listings.phtml?cid=13) 6  
 
 
 [Aberdeenshire](https://web.archive.org/regions.phtml?rid=652) 4  
-[Anglesey](https://web.archive.org/regions.phtml?rid=627) 19  
-[Angus](https://web.archive.org/regions.phtml?rid=653) 4  
-[Argyll](https://web.archive.org/regions.phtml?rid=650) 48  
-[Avon](https://web.archive.org/regions.phtml?rid=56) 46  
-[Ayrshire](https://web.archive.org/regions.phtml?rid=654) 10  
-[Banffshire](https://web.archive.org/regions.phtml?rid=655) 3  
-[Bedfordshire](https://web.archive.org/regions.phtml?rid=57) 18  
-[**Berkshire**](http://berkshire.apolloduck.co.uk/) 134  
+[Anglesey](https://web.archive.org/regions.phtml?rid=627) 18  
+[Angus](https://web.archive.org/regions.phtml?rid=653) 1  
+[Argyll](https://web.archive.org/regions.phtml?rid=650) 43  
+[Avon](https://web.archive.org/regions.phtml?rid=56) 40  
+[Ayrshire](https://web.archive.org/regions.phtml?rid=654) 20  
+[Bedfordshire](https://web.archive.org/regions.phtml?rid=57) 19  
+[**Berkshire**](http://berkshire.apolloduck.co.uk/) 96  
 [Berwickshire](https://web.archive.org/regions.phtml?rid=656) 1  
-[Borders](https://web.archive.org/regions.phtml?rid=59) 1  
-[Buckinghamshire](https://web.archive.org/regions.phtml?rid=60) 32  
-[Cambridgeshire](https://web.archive.org/regions.phtml?rid=61) 69  
-[Central](https://web.archive.org/regions.phtml?rid=62) 3  
-[**Cheshire**](http://cheshire.apolloduck.co.uk/) 116  
-[Cleveland](https://web.archive.org/regions.phtml?rid=64) 8  
-[Clwyd](https://web.archive.org/regions.phtml?rid=65) 17  
-[**Cornwall**](http://cornwall.apolloduck.co.uk/) 110  
+[Buckinghamshire](https://web.archive.org/regions.phtml?rid=60) 40  
+[**Cambridgeshire**](http://cambridgeshire.apolloduck.co.uk/) 66  
+[Central](https://web.archive.org/regions.phtml?rid=62) 6  
+[**Cheshire**](http://cheshire.apolloduck.co.uk/) 164  
+[Cleveland](https://web.archive.org/regions.phtml?rid=64) 7  
+[Clwyd](https://web.archive.org/regions.phtml?rid=65) 20  
+[**Cornwall**](http://cornwall.apolloduck.co.uk/) 160  
 [Cotswolds](https://web.archive.org/regions.phtml?rid=67) 2  
-[County Antrim](https://web.archive.org/regions.phtml?rid=54) 27  
-[County Armagh](https://web.archive.org/regions.phtml?rid=55) 13  
-[County Down](https://web.archive.org/regions.phtml?rid=72) 45  
-[County Durham](https://web.archive.org/regions.phtml?rid=74) 4  
-[County Fermanagh](https://web.archive.org/regions.phtml?rid=80) 39  
-[County Tyrone](https://web.archive.org/regions.phtml?rid=128) 1  
-[Cumbria](https://web.archive.org/regions.phtml?rid=68) 26  
-[Derbyshire](https://web.archive.org/regions.phtml?rid=69) 30  
-[**Devon**](http://devon.apolloduck.co.uk/) 117  
-[**Dorset**](http://dorset.apolloduck.co.uk/) 215  
-[Dumfries and Galloway](https://web.archive.org/regions.phtml?rid=73) 2  
+[County Antrim](https://web.archive.org/regions.phtml?rid=54) 35  
+[County Armagh](https://web.archive.org/regions.phtml?rid=55) 16  
+[County Down](https://web.archive.org/regions.phtml?rid=72) 58  
+[County Durham](https://web.archive.org/regions.phtml?rid=74) 3  
+[County Fermanagh](https://web.archive.org/regions.phtml?rid=80) 45  
+[County Tyrone](https://web.archive.org/regions.phtml?rid=128) 3  
+[Cumbria](https://web.archive.org/regions.phtml?rid=68) 30  
+[Derbyshire](https://web.archive.org/regions.phtml?rid=69) 46  
+[**Devon**](http://devon.apolloduck.co.uk/) 151  
+[**Dorset**](http://dorset.apolloduck.co.uk/) 185  
+[Dumfries and Galloway](https://web.archive.org/regions.phtml?rid=73) 14  
 [Dunbartonshire](https://web.archive.org/regions.phtml?rid=660) 9  
-[Dyfed](https://web.archive.org/regions.phtml?rid=75) 6  
-[East Anglia](https://web.archive.org/regions.phtml?rid=76) 28  
-[East Lothian](https://web.archive.org/regions.phtml?rid=661) 3  
-[East Midlands](https://web.archive.org/regions.phtml?rid=77) 6  
-[East Sussex](https://web.archive.org/regions.phtml?rid=78) 59  
-[**Essex**](http://essex.apolloduck.co.uk/) 244  
-[Fife](https://web.archive.org/regions.phtml?rid=81) 15  
-[Gloucestershire](https://web.archive.org/regions.phtml?rid=82) 59  
-[Grampian](https://web.archive.org/regions.phtml?rid=83) 2  
-[Guernsey](https://web.archive.org/regions.phtml?rid=86) 8  
-[Gwent](https://web.archive.org/regions.phtml?rid=87) 3  
-[Gwynedd](https://web.archive.org/regions.phtml?rid=88) 65  
-[**Hampshire**](http://hampshire.apolloduck.co.uk/) 395  
-[Herefordshire](https://web.archive.org/regions.phtml?rid=90) 3  
-[Hertfordshire](https://web.archive.org/regions.phtml?rid=91) 48  
-[Highlands and Islands](https://web.archive.org/regions.phtml?rid=92) 21  
-[Humberside](https://web.archive.org/regions.phtml?rid=93) 28  
-[Inverness-shire](https://web.archive.org/regions.phtml?rid=662) 23  
-[Isle of Man](https://web.archive.org/regions.phtml?rid=94) 6  
-[Isle of Skye](https://web.archive.org/regions.phtml?rid=697) 2  
-[Isle of Wight](https://web.archive.org/regions.phtml?rid=95) 17  
-[Jersey](https://web.archive.org/regions.phtml?rid=97) 3  
-[**Kent**](http://kent.apolloduck.co.uk/) 395  
-[Kirkcudbrightshire](https://web.archive.org/regions.phtml?rid=665) 1  
-[Lake District](https://web.archive.org/regions.phtml?rid=99) 2  
-[Lanarkshire](https://web.archive.org/regions.phtml?rid=666) 6  
-[**Lancashire**](http://lancashire.apolloduck.co.uk/) 82  
-[Leicestershire](https://web.archive.org/regions.phtml?rid=101) 61  
-[Lincolnshire](https://web.archive.org/regions.phtml?rid=102) 24  
-[**London**](http://london.apolloduck.co.uk/) 164  
-[Londonderry](https://web.archive.org/regions.phtml?rid=103) 18  
+[Dyfed](https://web.archive.org/regions.phtml?rid=75) 14  
+[East Anglia](https://web.archive.org/regions.phtml?rid=76) 46  
+[East Lothian](https://web.archive.org/regions.phtml?rid=661) 1  
+[East Midlands](https://web.archive.org/regions.phtml?rid=77) 11  
+[East Sussex](https://web.archive.org/regions.phtml?rid=78) 48  
+[**Essex**](http://essex.apolloduck.co.uk/) 263  
+[Fife](https://web.archive.org/regions.phtml?rid=81) 8  
+[Gloucestershire](https://web.archive.org/regions.phtml?rid=82) 49  
+[Grampian](https://web.archive.org/regions.phtml?rid=83) 7  
+[Guernsey](https://web.archive.org/regions.phtml?rid=86) 6  
+[Gwent](https://web.archive.org/regions.phtml?rid=87) 8  
+[Gwynedd](https://web.archive.org/regions.phtml?rid=88) 53  
+[**Hampshire**](http://hampshire.apolloduck.co.uk/) 405  
+[Herefordshire](https://web.archive.org/regions.phtml?rid=90) 4  
+[Hertfordshire](https://web.archive.org/regions.phtml?rid=91) 47  
+[Highlands and Islands](https://web.archive.org/regions.phtml?rid=92) 3  
+[Humberside](https://web.archive.org/regions.phtml?rid=93) 27  
+[Inverness-shire](https://web.archive.org/regions.phtml?rid=662) 1  
+[Isle of Bute](https://web.archive.org/regions.phtml?rid=651) 1  
+[Isle of Lewis](https://web.archive.org/regions.phtml?rid=692) 1  
+[Isle of Man](https://web.archive.org/regions.phtml?rid=94) 10  
+[Isle of Wight](https://web.archive.org/regions.phtml?rid=95) 30  
+[Jersey](https://web.archive.org/regions.phtml?rid=97) 5  
+[**Kent**](http://kent.apolloduck.co.uk/) 406  
+[Lake District](https://web.archive.org/regions.phtml?rid=99) 1  
+[Lanarkshire](https://web.archive.org/regions.phtml?rid=666) 2  
+[**Lancashire**](http://lancashire.apolloduck.co.uk/) 86  
+[**Leicestershire**](http://leicestershire.apolloduck.co.uk/) 64  
+[Lincolnshire](https://web.archive.org/regions.phtml?rid=102) 22  
+[**London**](http://london.apolloduck.co.uk/) 216  
+[Londonderry](https://web.archive.org/regions.phtml?rid=103) 4  
 [Lothian](https://web.archive.org/regions.phtml?rid=104) 5  
-[Manchester](https://web.archive.org/regions.phtml?rid=85) 19  
-[Merseyside](https://web.archive.org/regions.phtml?rid=105) 31  
-[Mid Glamorgan](https://web.archive.org/regions.phtml?rid=106) 2  
-[Mid Lothian](https://web.archive.org/regions.phtml?rid=667) 3  
-[Middlesex](https://web.archive.org/regions.phtml?rid=700) 40  
-[Morayshire](https://web.archive.org/regions.phtml?rid=668) 4  
-[Nairnshire](https://web.archive.org/regions.phtml?rid=669) 1  
-[**Norfolk**](http://norfolk.apolloduck.co.uk/) 155  
-[North Humberside](https://web.archive.org/regions.phtml?rid=701) 4  
-[North Yorkshire](https://web.archive.org/regions.phtml?rid=108) 19  
-[Northamptonshire](https://web.archive.org/regions.phtml?rid=109) 46  
-[Northumberland](https://web.archive.org/regions.phtml?rid=110) 9  
+[Manchester](https://web.archive.org/regions.phtml?rid=85) 17  
+[Merseyside](https://web.archive.org/regions.phtml?rid=105) 27  
+[Mid Glamorgan](https://web.archive.org/regions.phtml?rid=106) 3  
+[Mid Lothian](https://web.archive.org/regions.phtml?rid=667) 2  
+[Middlesex](https://web.archive.org/regions.phtml?rid=700) 35  
+[Morayshire](https://web.archive.org/regions.phtml?rid=668) 3  
+[**Norfolk**](http://norfolk.apolloduck.co.uk/) 138  
+[North Yorkshire](https://web.archive.org/regions.phtml?rid=108) 21  
+[**Northamptonshire**](http://northamptonshire.apolloduck.co.uk/) 54  
+[Northumberland](https://web.archive.org/regions.phtml?rid=110) 10  
 [Northumbria](https://web.archive.org/regions.phtml?rid=111) 1  
-[Nottinghamshire](https://web.archive.org/regions.phtml?rid=112) 48  
+[Nottinghamshire](https://web.archive.org/regions.phtml?rid=112) 46  
 [Orkney](https://web.archive.org/regions.phtml?rid=113) 1  
-[Oxfordshire](https://web.archive.org/regions.phtml?rid=114) 33  
-[Pembrokeshire](https://web.archive.org/regions.phtml?rid=301) 7  
-[Powys](https://web.archive.org/regions.phtml?rid=115) 3  
-[Renfrewshire](https://web.archive.org/regions.phtml?rid=649) 3  
-[Ross-shire](https://web.archive.org/regions.phtml?rid=672) 3  
-[Shropshire](https://web.archive.org/regions.phtml?rid=118) 18  
-[Somerset](https://web.archive.org/regions.phtml?rid=119) 21  
-[South Glamorgan](https://web.archive.org/regions.phtml?rid=120) 60  
-[South Yorkshire](https://web.archive.org/regions.phtml?rid=121) 84  
-[**Staffordshire**](http://staffordshire.apolloduck.co.uk/) 138  
-[Stirlingshire](https://web.archive.org/regions.phtml?rid=675) 5  
-[Strathclyde](https://web.archive.org/regions.phtml?rid=123) 17  
-[Suffolk](https://web.archive.org/regions.phtml?rid=124) 56  
-[**Surrey**](http://surrey.apolloduck.co.uk/) 96  
-[Tayside](https://web.archive.org/regions.phtml?rid=126) 3  
-[Tyne & Wear](https://web.archive.org/regions.phtml?rid=127) 4  
-[Warwickshire](https://web.archive.org/regions.phtml?rid=129) 63  
-[West Glamorgan](https://web.archive.org/regions.phtml?rid=131) 6  
-[West Lothian](https://web.archive.org/regions.phtml?rid=677) 1  
-[West Midlands](https://web.archive.org/regions.phtml?rid=132) 48  
-[**West Sussex**](http://westsussex.apolloduck.co.uk/) 70  
-[West Yorkshire](https://web.archive.org/regions.phtml?rid=134) 43  
+[Oxfordshire](https://web.archive.org/regions.phtml?rid=114) 31  
+[Pembrokeshire](https://web.archive.org/regions.phtml?rid=301) 6  
+[Powys](https://web.archive.org/regions.phtml?rid=115) 6  
+[Renfrewshire](https://web.archive.org/regions.phtml?rid=649) 15  
+[Ross-shire](https://web.archive.org/regions.phtml?rid=672) 1  
+[Shropshire](https://web.archive.org/regions.phtml?rid=118) 28  
+[Somerset](https://web.archive.org/regions.phtml?rid=119) 24  
+[South Glamorgan](https://web.archive.org/regions.phtml?rid=120) 41  
+[**South Yorkshire**](http://southyorkshire.apolloduck.co.uk/) 56  
+[**Staffordshire**](http://staffordshire.apolloduck.co.uk/) 111  
+[Stirlingshire](https://web.archive.org/regions.phtml?rid=675) 4  
+[Strathclyde](https://web.archive.org/regions.phtml?rid=123) 43  
+[Suffolk](https://web.archive.org/regions.phtml?rid=124) 66  
+[**Surrey**](http://surrey.apolloduck.co.uk/) 87  
+[Tayside](https://web.archive.org/regions.phtml?rid=126) 8  
+[Tyne & Wear](https://web.archive.org/regions.phtml?rid=127) 8  
+[**Warwickshire**](http://warwickshire.apolloduck.co.uk/) 69  
+[West Glamorgan](https://web.archive.org/regions.phtml?rid=131) 25  
+[West Lothian](https://web.archive.org/regions.phtml?rid=677) 2  
+[West Midlands](https://web.archive.org/regions.phtml?rid=132) 47  
+[**West Sussex**](http://westsussex.apolloduck.co.uk/) 68  
+[West Yorkshire](https://web.archive.org/regions.phtml?rid=134) 45  
 [Wiltshire](https://web.archive.org/regions.phtml?rid=135) 50  
-[Worcestershire](https://web.archive.org/regions.phtml?rid=136) 75  
-[Yorkshire](https://web.archive.org/regions.phtml?rid=137) 37  
+[**Worcestershire**](http://worcestershire.apolloduck.co.uk/) 58  
+[Yorkshire](https://web.archive.org/regions.phtml?rid=137) 57  
 
 
 [Homes and Property](http://www.siliconink.com/)  
@@ -155,7 +150,7 @@
 [Copyright Notice](https://web.archive.org/legal/copyright.phtml)  
 Privacy Policy
 
-© 1998-2008  
+© 1998-2009  
 [ Santa Monica Airlines](http://www.santamonicaairlines.com/)
 
 ALL RIGHTS RESERVED
@@ -183,15 +178,15 @@ It is important for Apollo Duck to safeguard its users' privacy while providing 
 
 
 
-Copyright © 1998-2008 Santa Monica Airlines Ltd. 
+Copyright © 1998-2009 Santa Monica Airlines Ltd. 
 
 | 
 
 **Showcase Boats**
 
-[Lovely Ex- BW Conv](https://web.archive.org/go.phtml?go=1&advertId=83816)  
+[Houseboat London](https://web.archive.org/go.phtml?go=1&advertId=106083)  
 [  
-](https://web.archive.org/go.phtml?go=1&advertId=83816)[Reduced GBP 94,950](https://web.archive.org/go.phtml?go=1&advertId=83816)
+](https://web.archive.org/go.phtml?go=1&advertId=106083)[GBP 250,000.00](https://web.archive.org/go.phtml?go=1&advertId=106083)
 
 [ ](http://www.lifeafloat.co.uk/)  
 [Life Afloat](http://www.lifeafloat.co.uk/)
@@ -217,6 +212,7 @@ worldwide:**
 [South Africa](http://www.apolloduck.co.za/)  
 [Spain](http://www.apolloduck.es/)  
 [Sweden](http://www.apolloduck.se/)  
+[Thailand](http://th.apolloduck.com/)  
 [Turkey](http://www.apolloduck.web.tr/)  
 [UAE](http://www.apolloduck.ae/)  
 **UK**  
