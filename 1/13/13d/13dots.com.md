@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13dots.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503134144id_/http%3A//www.13dots.com/index.php%3Fcategoryid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13dots.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519112520id_/http%3A//www.13dots.com/index.php%3Fcategoryid%3D16) for the most accurate reproduction.*
 
 # 13dots - SwishMax And Photoshop Tutorials - Privacy
 
