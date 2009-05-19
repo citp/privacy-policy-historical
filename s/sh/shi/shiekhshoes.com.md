@@ -1,34 +1,55 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625132750id_/http%3A//shiekhshoes.com/customer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519051704id_/http%3A//www.shiekhshoes.com/store/t-privacy_policy.aspx) for the most accurate reproduction.*
 
-# Shiekh Shoes | Privacy
+# Privacy Policy
 
 **Privacy Policy**
 
-ShiekhShoes.com believes in keeping your private information confidential.    
-Having stated that, we are very clear about the information collected on our website. We do not, nor do we ever plan on sharing our database which hold your personal, identifiable information with any 3rd party client period.  We will clearly state the following concerns for your convenience, and understanding.
+The privacy policy adopted by Shiekh is designed to provide you with an understanding of the type of information we collect, how it is done, and what we do with this information. Shiekh is the sole owner of this information and it is never shared, sold or rented to anyone not disclosed in this statement.
 
-**Registration;**
+This policy only applies to this web site and does not necessarily apply to offline collection as stated below. 
 
-Our Online registration is a tool designed to help make your shopping experience as secure, and as convenient as possible.  Our form requires the users to provide us with a contact information (i.e. name, Address, telephone number, and E-mail address.)  This information is used to help provide you services for product shipping inquires, easier shopping experience on our website, and for any assistance over the telephone.
+Shiekh is not responsible for any content of information collected from non-Shiekhshoes.com web sites which link to Shiekhshoes.com or that Shiekhshoes.com links to.
 
-We also have a mail list which you can opt-in.  By joining, you receive product updates, New product release dates, up coming Shiekh events, new store openings, and possible future product give a ways.  You can always remove yourself from our list, and opt-out by simply e-mailing us Support@ShiekhShoes.com.  
+**Information Collection and Use**
 
-**Why Collect Order information?**
+Information Collected: Information is collected from a number of places on the web site including customer order and account registration forms. The goal in collecting this information is to make ordering more efficient and your shopping experience more meaningful. This information may be shared with our stores in order to better serve our customers who shop on line and in the stores. 
 
-Your order information such as billing address, shipping address, e-mail, name, and telephone number allows us to process a transaction completely, and securely.   It also allows for us to ship the product properly, and off course if you have any questions, or concerns, we need the info to help provide answers to your questions.  We also enter your info into a Bonus Club ([Click here](https://web.archive.org/web/20030625132750id_/http%3A//shiekhshoes.com/customer/Bonus.html)) for more info. 
+Registration and Ordering. During the order process we will ask you for information including, but not limited to your name, shipping and billing address, phone number, email address, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. 
 
-For those of you who choose to opt-in our mailing program, we collect info such as e-mail to help provide you the services you requested.
+Email Addresses. In addition to the order and registration forms we may ask you to enter your email address for purposes including but not limited to: to register for a contest; participate in surveys; or to sign up for our email newsletter and special offers. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners. 
 
-**How is the information used?**
+Email a Friend. If you elect to refer a friend to our website, we ask you for your name and email address and your friend's name and email address. We will automatically send the friend an email inviting him or her to view your selected items on the website. We use this information for the sole purpose of sending this email.
 
-The information which is collected from the website such as statistics amount of traffic on site, amount of traffic to product or particular page (which holds no personally, identifiable information about you whatsoever) may at times be shared with creditable 3rd party companies.  Our policy is clear about your personal identifiable information.  It is used to process your purchase, and to complete the order.  It is also collected for bonus club, and incase you have an inquire, that we may easily assist you with your concerns.  Other than that, the information is not shared.
+Cookies. Like most web sites we use cookies and other technology to assist navigation, track your browsing activity and record your preference. Cookies do not collect or store any personal data… it's really just a combination of numbers and letters that uniquely identify your computer. All real account information and transaction histories are kept in our secure database. When you leave our site, we terminate our interaction with the cookie. The cookie stays on your computer, and you can delete it anytime you'd like, but that means that you would need to login again and re-enter any preferences you have set. 
 
-Now if you Opted-in then we use the info to submit to an e-mail of all the new product releases, new stores openings, give away, etc.  But our main policy still remains the same. No third party member will have access to the database.
+Log Files. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes.
 
-**External Links:**
+Product Reviews. Should you choose to submit a product review we will ask for your geographic location and email address. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review.
 
-External links on Shiekh LLC have their own content, Privacy Policies, etc.  Shiekh LLC can not be held liable for other websites, privacy policies, nor the contents of those website.  It is your sole responsibility to make sure your aware of the policies of each website you visit.   
+**Information Use and Disclosure**
 
-**Contacting Website**
+Internal Use. We use your information for order processing and to provide customer service and delivery updates. Also, should you choose to receive our newsletters we will use your information to provide you with information on new products, brands, and promotional events. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 
-Incase you did not see any answers to the questions you were looking for. Please e-mail us, and we will do our best to help answer your questions
+External Use. As do most catalog and on-line retailers we sometimes ask others to perform specific functions on our behalf. For example, we enlist the services of UPS and USPS to deliver the merchandise you purchased on our site and need to share your information with them. In the case of shippers we only share the information required to complete the delivery, which includes order information such as the shipping address, phone number and email address provided when the order was placed. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information.
+
+Legal Process. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+
+**Opt Out and Corrections**
+
+Our users are given the opportunity to “opt-out” of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Customer Account information form has an opt-out mechanism so users who register with us but do not want any marketing material can keep their email address off our lists. If you no longer wish to receive our promotional materials, you may opt-out of receiving these communications by using the unsubscribe option at the bottom of any email communication you receive or contact us via Shiekhshoes.com customer service.
+
+Any changes to our privacy policy will be posted on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Additionally, if at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. At that time, you will have a choice as to whether we use your information in this different manner.
+
+If you feel that we are not abiding by our posted privacy policy, you should first contact:
+
+Shiekhshoes.com Customer Service  
+4083 East Airport Drive  
+Ontario, CA 91761 
+
+Contact us via Email
+
+[[ _Continue Shopping_](http://www.shiekhshoes.com/store) _]_
+
+ __
+
+_ _
