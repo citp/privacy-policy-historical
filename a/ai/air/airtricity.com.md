@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125228id_/http%3A//www.airtricity.com/ireland/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519210412id_/http%3A//airtricity.com/international/privacy_policy) for the most accurate reproduction.*
 
 # AIRTRICITY - PRIVACY POLICY
 
