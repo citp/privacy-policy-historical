@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154619id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519183226id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
 
 # wmplugins.com - Privacy Statement
 
@@ -76,7 +76,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 ## Contact Information
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us via [this form](https://web.archive.org/web/20081216154619id_/http%3A//www.wmplugins.com/Contacts.aspx) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us via [this form](https://web.archive.org/web/20090519183226id_/http%3A//www.wmplugins.com/Contacts.aspx) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 WMPlugins.com Privacy  
 Microsoft Corporation  
