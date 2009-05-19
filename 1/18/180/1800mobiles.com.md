@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182358id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519185639id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
