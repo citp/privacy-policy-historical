@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011834id_/http%3A//www.bonton.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519093232id_/http%3A//www.bonton.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy - Customer Service - Bon-Ton
+# Bon-Ton
 
 ### The Bon-Ton's Privacy Policy
 
