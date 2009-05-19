@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329044958id_/http%3A//www.yessy.com/privacy.html%3Fs%3Dbacjcabvezbog4anxn4czpjh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519105607id_/http%3A//yessy.com/privacy.html) for the most accurate reproduction.*
 
 # Yessy > Privacy Policy
 
@@ -41,5 +41,5 @@ Email: [support@yessy.com](mailto:support@yessy.com)
 Mail:  
   Yessy, Inc.  
   Re: Privacy Policy  
-  12081 W Alameda Parkway, #508  
+  12081 W Alameda Pkwy, Suite 508  
   Lakewood, CO 80228
