@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wepapers.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016224102id_/http%3A//www.wepapers.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wepapers.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520072842id_/http%3A//www.wepapers.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy - WePapers
+
+Privacy Policy and Copyright Policy
 
 Privacy Policy  
   
@@ -43,5 +45,52 @@ We reserve the right to transfer your personal information in the event of a tra
 Updating your information.
 
 You can change your wePapers account settings at any time in the "Settings" section of your account.  
-You can terminate your account at any time, by sending us an email to delete@wepapers.com. We typically deactivate accounts within eight business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.  
+You can terminate your account at any time, by sending us an email to contact@wepapers.com. We typically deactivate accounts within eight business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.  
 The services are offered by wePapers, located at wepapers.com, Metudela 3A Jerusalem, Israel. E-mail: support@wepapers.com. We hope you will enjoy using wePapers.
+
+Copyright Policy - Notice of Claims of Copyright Infringement
+
+  
+wePapers' policy respects the legitimate rights of copyright and other intellectual proterty owners. Abiding the DMCA (the Digital Millennium Copyright Act, 17 USC Section 512), wePapers has a designated agent who receives notifications of claimed copyright infringement on wePapers.com. We strictly enforce our copyright policy, and may terminate subscriptions of "serial infringers".   
+If you believe that your intellectual property has violated and your copyrightsyou’re your work have been infringed, please provide our copyright agent with the following information, in accordance with the DMCA:
+
+  1. An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest; 
+  2. a description of the copyrighted work or other intellectual property that You claim has been infringed; 
+  3. a description of where the material that You claim is infringing is located on the wePapers Site, with enough detail that We may find it on our Site; providing URLs in the body of an email is the best way to help us locate content quickly;
+  4. Your address, telephone number, and email address; 
+  5. a statement by You that You have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law; and 
+  6. a statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+
+
+
+wePapers' agent for claims of copyright and intellectual property infringement should be reached as follows:
+
+wePapers Ltd.  
+Metudela 3A  
+92305  
+Jerusalem, Israel  
+Telephone: +972 5 4847 299  
+Telephone: +1 617 326 7913  
+E-mail: support@wepapers.com   
+Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability. Counter-Notification   
+If you believe that the documents you posted was removed by mistake, and that you have the right to post the documents, you may send us a counter notice. To be effective the counter-notification must be a written communication provided to our designated agent that includes substantially the following (please consult your legal counsel or see 17 U.S.C. Section 512(g)(3) to confirm these requirements):
+
+  1. A physical or electronic signature of the subscriber. 
+  2. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled. Providing URLs in the body of an email is the best way to help us locate content quickly.
+  3. A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+  4. The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification of infringement or an agent of such person.
+
+
+
+Such written notice should be sent to our designated agent as follows:
+
+wePapers Ltd.  
+Metudela 3A  
+92305  
+Jerusalem, Israel  
+Telephone: +972 5 4847 299  
+Telephone: +1 617 326 7913  
+E-mail: support@wepapers.com   
+Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability.
+
+We apologize for any kind of abuse of our service and promise to do our best endeavours to find and terminate copyright-infringing files. 
