@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225212341id_/http%3A//www.kount.net/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520083009id_/http%3A//www.kount.net/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kount
 
