@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052724id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520062031id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
   
-We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information. | 
+We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
+
+If you're looking for the short version, we do not sell your user data to any 3rd-parties.
+
+If you want to opt-out of email communications from PartnerWithPaul.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
+
+1\. Email: [support@partnerwithpaul.com](mailto:support@partnerwithpaul.com)  
+  
+2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
+  
+3\. Postal Mail: 228 Park Ave S, Suite 17260, New York, NY 10003  
+  
+4\. Telephone: (347)562-1179
+
+| 
 
 [ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
 
@@ -23,44 +37,37 @@ We take your privacy very seriously, and we've created this Privacy Policy in or
   
 **_What information does PartnerWithPaul.com collect from visitors?_**
 
-PartnerWithPaul.com collects information from our visitors and users of our website and uses the information internally for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
+PartnerWithPaul.com collects information from our visitors and users of our website and uses the information for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
 
 As a user of this website, PartnerWithPaul.com may collect your personally identifiable information when you visit our site and create a PartnerWithPaul.com account.
 
 The personally identifiable information that we collect is limited to just your name and email.
 
-**PartnerWithPaul.com is the sole owner of the information collected on this website. We do not sell, rent, or share your personally identifiable information with others.**
-
 **_Why is information collected?_**
 
-Information may be collected in an effort to enhance your user experience, provide you with information regarding PartnerWithPaul.com services and special offers, and/or to provide you with the products and/or services you request.
+Information may be collected in an effort to enhance your user experience, provide you with information regarding PartnerWithPaul.com services or other related special offers, and/or to provide you with the products and/or services that you request.
 
-We, or our authorized third-party affiliates, may also collect general information about transactions as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but will not include personally identifiable information.
+We, or our authorized third-party affiliates, may also collect general information about transactions as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but 
 
-This information is used in an aggregated manner (i.e. How many customers purchased product "X") to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
+_does not include personally identifiable information_.
 
-In addition, information is collected for the following purposes:
+This information is used in an aggregated manner to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
 
-  * Upon creating an account you must provide your name and email.
-  * When ordering products or services your information will be collected for purposes of payment, product delivery and/or customer service.
-  * By registering at our web site and creating a PartnerWithPaul.com account, you'll be added to our internal mailing list. As a registered user, we may contact you about customer service related issues, functionality changes to the site, updates, new services, and special offers.
-  
-
-  
 **_How does PartnerWithPaul.com protect my information?_**
 
 We have implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by certain key employees.
 
-We do not collect credit card or other financial information.
+We do not collect or store any credit card or other financial information.
 
 Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you, PartnerWithPaul.com will require all recipients of such information to maintain the information as confidential information, use the information for the limited and intended purpose and agree not to disclose such information.
 
 **_Will PartnerWithPaul.com disclose the information it collects to others?_**
 
-PartnerWithPaul.com does not rent, sell or share any of the information collected by this website with other people or any other companies, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
+PartnerWithPaul.com does not rent, sell or share any of the information collected by this site with unrelated 3rd-parties, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of PartnerWithPaul.com's Terms of Use, or as otherwise required by law;
+  * We may share your user information with carefully selected and well-respected service providers or other companies that provide marketing services on our behalf or to other providers with whom we have joint marketing agreements;
   * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote PartnerWithPaul.com and earn over $600 in commissions in a calender year.  
 
 
@@ -101,7 +108,9 @@ If you believe PartnerWithPaul.com has any information from or about anyone unde
 
 **_Links to Other Sites_**
 
-This website may contain links to other sites. Please be aware that PartnerWithPaul.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+This website may contain links to other sites. Please be aware that PartnerWithPaul.com is not responsible for the privacy practices of such other sites.
+
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
 **_Your consent_**
 
@@ -111,4 +120,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
 
-This Privacy Policy was last updated October 26th, 2008.
+This Privacy Policy was last updated January 16th, 2009.
