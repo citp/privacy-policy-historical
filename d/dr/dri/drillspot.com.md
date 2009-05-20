@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drillspot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218190956id_/http%3A//www.drillspot.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drillspot.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520074323id_/http%3A//www.drillspot.com/go/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
