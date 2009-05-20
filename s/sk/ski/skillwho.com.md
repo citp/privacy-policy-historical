@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the skillwho.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153427id_/http%3A//www.skillwho.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillwho.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520130838id_/http%3A//www.skillwho.com/privacy.aspx) for the most accurate reproduction.*
 
 # SkillWho Privacy Policy
+
+﻿ 
 
 This is another legal page that no one ever reads or cares about. Last updated 3/20/2008. Here it goes... 
 
