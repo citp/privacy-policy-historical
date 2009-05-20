@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecontentarticles.net privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927214024id_/http%3A//www.freecontentarticles.net/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecontentarticles.net privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520134849id_/http%3A//www.freecontentarticles.net/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Free Content Articles Net
 
