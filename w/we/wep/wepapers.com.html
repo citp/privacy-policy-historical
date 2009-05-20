@@ -1,25 +1,104 @@
-<!--The following is the downloaded HTML source of the wepapers.com privacy policy that was archived on 2008-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081016224102id_/http%3A//www.wepapers.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wepapers.com privacy policy that was archived on 2009-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090520072842id_/http%3A//www.wepapers.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head id="ctl00_Head1">
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+    <title>
 	Privacy policy - WePapers
-</title><meta id="ctl00_PageDescription" name="description"><meta id="ctl00_PageKeywords" name="keywords"><link href="css/master.css" type="text/css" rel="Stylesheet"><link href="../css/master_rtl1.css" type="text/css" rel="Stylesheet">
-    
+</title><link href="css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css"><link href="css/dropdown/themes/default/default.css" media="all" rel="stylesheet" type="text/css"><meta id="ctl00_PageDescription" name="description"><meta id="ctl00_PageKeywords" name="keywords"><link href="css/master.css" type="text/css" rel="Stylesheet">
+        
     <script type="text/javascript" src="js/swfobject.js"></script>
     <script type="text/javascript" src="js/master.js"></script>
-    
+    <script type="text/javascript" src="js/AutoSuggest.js"></script>
+
+    <script type="text/javascript" src="js/CategoryFill.js"></script>
     
     <script type="text/javascript">
-    var GB_ROOT_DIR = "http://wepapers.com/greybox/";
+    var GB_ROOT_DIR = "http://www.wepapers.com/greybox/";
     </script>
     <script type="text/javascript" src="greybox/AJS.js"></script>
     <script type="text/javascript" src="greybox/AJS_fx.js"></script>
     <script type="text/javascript" src="greybox/gb_scripts.js"></script>
-    <link href="greybox/gb_styles.css" rel="stylesheet" type="text/css"></head>
-<body> 
+    <link href="greybox/gb_styles.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="js/jquery/jquery.dropdown.js"></script>
+ <script type="text/javascript">
+        function $(id)
+        {
+            if (typeof id == 'string')
+                return document.getElementById(id);
+                else
+                    return id;
+        }
+        function SearchMain(e)
+        {
+        var rootpath = document.search.rootpath.value;
+        var query= document.search.q.value;
+        query = Alltrim(query);
+        //query = query.replace("&", " ").replace(",", " ").replace("(", " ").replace(")", " ");
+        query = query.replace(/ /gi, "_");
+        //query = (query.replace("\"","")).replace("\"","");
+        var strHref="";
+        strHref=rootpath + "SearchRedirect.aspx?qu=" + query  + "&pg=" + document.search.s.value;
+        var _url=rootpath+ "SearchSession.aspx?S=1";
+        SetSessionNULL(_url);
+       if(e.keyCode==13)
+        {
+            document.search.action=strHref;
+        }
+            else
+        {
+            window.open(strHref,"_self");
+        }
+}
+        var SearchFirstClick=true;
+        function SearchValue(fld)
+        {
+            if(SearchFirstClick)
+                {
+                    SearchFirstClick=false;
+                    fld.value="";
+                }
+        }
+    function SrchSelect(obj)
+    {
+        $("srchPK").className="";
+        $("srchMem").className="";
+        $("srchDoc").className="";
+        $("srchCourse").className="";
+        //obj.parentNode.className="selected";
+        obj.className="selected";
+        obj.blur();
+        if(obj.id=="srchPK")
+        {
+            document.search.s.value="2";
+            //document.search.action="search.aspx";
+        }
+        if(obj.id=="srchDoc")
+        {
+            document.search.s.value="0";
+            //document.search.action="search.aspx";
+        }
+        if(obj.id=="srchMem")
+        {
+            document.search.s.value="";
+            //document.search.action="searchmembers.aspx?p=1";
+        }
+        if(obj.id=="srchCourse")
+        {
+            document.search.s.value="3";
+           // document.search.action="searchcourses.aspx";
+        }
+}
+</script> 
+   
+   
+    
+</head>
+<body onclick="HideDiv('','pnlSearch');"> 
 
 <map name="LogoMap">
-    <area href="http://www.wePapers.com" shape="rect" coords="27,35,170,88"> 
+    <area href="http://www.wepapers.com/" shape="rect" coords="7,5,260,88"> 
 </map>
 
 <div id="UplCtrl" style="border:0px solid;position:absolute;"></div>
@@ -29,16 +108,27 @@
         <div class="header">
             <div class="logo"><img src="images/Logo.gif" usemap="#LogoMap" alt="www.wepapers.com" border="0"></div>
             <div class="navCtrl">
-                <div class="papers">
                 
-                <a class="$$$" href="/my_profile/">My papers</a>
-                </div>
+                
+                <ul id="nav" class="dropdown dropdown-horizontal">
+	                <li class="dir"><a style="color:#0263CC;" href="http://www.wepapers.com/my_profile">My papers</a>
+		                <ul>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/my_profile">My Profile</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/my_papers">My Papers</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/myContacts/0/Contacts/Contacts">My Contacts</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/my_courses">My Courses</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/my_favorites/">My Favorites</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/messageinbox/0/Inbox/Inbox">My Inbox</a></li>
+			                <li class="mypaperssub"><a href="http://www.wepapers.com/invite/">Invite Friends</a></li>
+	                    </ul>
+	                </li>
+                </ul>
                 <div class="explore">
                 
-                <a class="$$$" href="/navigate/">Navigate</a>
+                <a href="/navigate/">Navigate</a>
                 </div>
                 <div class="upload">
-                <a href="UploadFiles.aspx">Upload</a>
+                <a href="http://www.wepapers.com/UploadFiles.aspx">Upload</a>
                 
                 </div>
                 <div style="clear:both"></div>
@@ -46,18 +136,18 @@
             <div class="s">
                 <div class="menu2">
             
-                    <div class="c1">
-                    <a class="$$$" href="/Login_Sign_Up/">sign up</a>
+                    <div class="c1"><a href="http://www.wepapers.com/signin.aspx">sign up</a>
+                    
                     </div>
                     <div class="c2">
+                    <a href="http://www.wepapers.com/signin.aspx">Login</a>
                     
-                    <a class="$$$" href="/Login_Sign_Up/">Login</a>
                     </div>
                 
                     
             
                 </div>
-                <div class="menu3" style="width:240px;">
+                <div class="menu3" style="text-align: right;">
                     <div class="c1"><a href="#" onclick="SrchSelect(this)" id="srchPK">Paper Key</a></div>
                     <div class="c4"><a href="#" onclick="SrchSelect(this)" id="srchCourse">Courses</a></div>
                     <div class="c2"><a href="#" onclick="SrchSelect(this)" id="srchMem">Members</a></div>
@@ -66,16 +156,28 @@
                 <form name="search" id="search" method="post">
                 <div class="srcBox">
                     <input type="hidden" name="s" value="0">
-                    <input type="hidden" name="rootpath" value="http://wepapers.com/">
+                    <input type="hidden" name="rootpath" value="http://www.wepapers.com/">
+                    <input type="hidden" name="FBAPI" value="49b38d5160be6d7538a1df9160da9420">
                     <input type="submit" style="position:absolute;visibility:hidden">
-                    <input type="text" name="q" class="sBoxInput" value="Search" onclick="SearchValue(this)"><img src="images/search.gif" class="sBtn" onclick="javascript:return SearchMain();" alt="Search">
+                    <input type="text" name="q" class="sBoxInput" value="Search" onclick="SearchValue(this)" onkeypress="javascript:if(event.keyCode==13){return SearchMain(event);}"><img src="images/search.gif" class="sBtn" onclick="javascript:return SearchMain(event);" alt="Search">
                 </div>
                 </form>
             </div>
         </div>    
+		<div style="width:950px; padding-right:20px; padding-top:10px;"><script type="text/javascript"><!--
+google_ad_client = "pub-1956206955140995";
+/* 728x90, created 4/23/09 */
+google_ad_slot = "4697951166";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
         <div class="clsData">
             <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" onsubmit="return FormSubmit();">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWBAIBDxYCHgdjb250ZW50ZGQCAg8WAh8AZGRktDjACu6GcwLngwQQisZftMCHsPc=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBGYPZBYEAgMPFgIeB2NvbnRlbnRkZAIEDxYCHwBkZAICDw8WAh4EVGV4dGVkZGSJAzpT5w0wkpVbsWRYxi3/mUksfQ==">
 
                 
 <style type="text/css">
@@ -101,12 +203,13 @@
 <p align="left">
 </p><table width="945" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="945" valign="top"><p><span class="style1"><span class="style2">Privacy  Policy<br>
-      </span></span><span class="style1"><br>
+    <td width="945" class="style5" valign="top"><p class="style2">Privacy Policy and Copyright Policy</p>
+      <p><span class="style1"><span class="style2">Privacy  Policy<br>
+        </span></span><span class="style1"><br>
           <span class="style5">wePapers is a free document management and sharing service.  This policy describes the types of personal information we may collect and how  we use it to provide the wePapers service.<br>
-        We respect your privacy. We will not give, sell or rent your  email address to any third party and at time, for any reason.<br>
-        When you register with wePapers, we ask your name, email  address and your account password. From time to time, we use your email address  to send you administrative email messages – we try to keep these to a minimum. <br>
-        By using wePapers, you agree to the collection and use of  your personal information as described further below. You should know:</span></span></p>
+          We respect your privacy. We will not give, sell or rent your  email address to any third party and at time, for any reason.<br>
+          When you register with wePapers, we ask your name, email  address and your account password. From time to time, we use your email address  to send you administrative email messages – we try to keep these to a minimum. <br>
+          By using wePapers, you agree to the collection and use of  your personal information as described further below. You should know:</span></span></p>
       <ul class="style4">
         <li> <strong>When  you visit this website, we collect your browser information (which typically  includes browser type, version, host operating system and browser language) and  IP address. We also send you a cookie or more for this purpose. </strong>This information is gathered from all of our visitors. To  access some of the services we offer, you will, from time to time, be asked to  submit personal information about yourself. We store this information on  our secure servers. </li>
         <li> We  will never rent, sell or share information that personally identifies you for  marketing purposes without your explicit consent.</li>
@@ -140,8 +243,49 @@
         <span class="style6">Updating your  information.</span><br>
   <br>
         <span class="style5">You can change your wePapers account settings at any time in  the "Settings" section of your account.<br>
-        You can terminate your account at any time, by sending us an  email to delete@wepapers.com. We typically deactivate accounts within eight  business days of such requests. You should be aware, however, that residual  copies of information may remain stored on our systems even after the deletion  of information or the termination of your account.<br>
-    The services are offered by wePapers, located at  wepapers.com, Metudela 3A Jerusalem, Israel. E-mail: support@wepapers.com. We  hope you will enjoy using wePapers.</span></p></td>
+        You can terminate your account at any time, by sending us an  email to contact@wepapers.com. We typically deactivate accounts within eight  business days of such requests. You should be aware, however, that residual  copies of information may remain stored on our systems even after the deletion  of information or the termination of your account.<br>
+    The services are offered by wePapers, located at  wepapers.com, Metudela 3A Jerusalem, Israel. E-mail: support@wepapers.com. We  hope you will enjoy using wePapers.</span></p>
+      <p class="style2">Copyright Policy - Notice of Claims of Copyright Infringement</p>
+      <p class="style5"><br>
+        wePapers' policy respects the legitimate rights of copyright  and other intellectual proterty owners. Abiding the DMCA (the Digital  Millennium Copyright Act, 17 USC Section 512), wePapers has a designated agent who  receives notifications of claimed copyright infringement on wePapers.com. We strictly  enforce our copyright policy, and may terminate subscriptions of "serial  infringers". <br>
+        If you believe that your intellectual property has violated  and your copyrightsyou’re your work have been infringed, please provide our  copyright agent with the following information, in accordance with the DMCA:</p>
+      <ol start="1" type="1"><p class="style2">
+        </p><li dir="ltr">An electronic or physical       signature of the person authorized to act on behalf of the owner of the       copyright or other intellectual property interest; </li>
+        <li dir="ltr">a description of the       copyrighted work or other intellectual property that You claim has been       infringed; </li>
+        <li dir="ltr">a description of where the       material that You claim is infringing is located on the wePapers Site, with       enough detail that We may find it on our Site; providing URLs in the body       of an email is the best way to help us locate content quickly;</li>
+        <li dir="ltr">Your address, telephone number,       and email address; </li>
+        <li dir="ltr">a statement by You that You       have a good faith belief that the disputed use is not authorized by the       copyright or intellectual property owner, its agent, or the law; and </li>
+        <li dir="ltr">a statement by You, made under       penalty of perjury, that the above information in Your notice is accurate       and that You are the copyright or intellectual property owner or       authorized to act on the copyright or intellectual property owner's       behalf.</li>
+      </ol>
+      <p dir="ltr">wePapers' agent for claims of copyright and intellectual  property infringement should be reached as follows:<br>
+          <br>
+        wePapers Ltd.<br>
+        Metudela 3A<br>
+        92305<br>
+        Jerusalem, Israel<br>
+        Telephone: +972 5 4847 299<br>
+        Telephone: +1 617 326 7913<br>
+        E-mail: support@wepapers.com <br>
+        
+        Please also note that under Section 512(f) any person who  knowingly materially misrepresents that material or activity is infringing may  be subject to liability. Counter-Notification <br>
+        If you believe that the documents you posted was removed by  mistake, and that you have the right to post the documents, you may send us a  counter notice. To be effective the counter-notification must be a written  communication provided to our designated agent that includes substantially the  following (please consult your legal counsel or see 17 U.S.C. Section 512(g)(3)  to confirm these requirements):</p>
+      <ol start="1" type="1">
+        <li dir="ltr">A physical or electronic       signature of the subscriber. </li>
+        <li dir="ltr">Identification of the material       that has been removed or to which access has been disabled and the       location at which the material appeared before it was removed or access to       it was disabled. Providing URLs in the body of an email is the best way to       help us locate content quickly.</li>
+        <li dir="ltr">A statement under penalty of       perjury that the subscriber has a good faith belief that the material was       removed or disabled as a result of mistake or misidentification of the       material to be removed or disabled.</li>
+        <li dir="ltr">The subscriber's name, address,       and telephone number, and a statement that the subscriber consents to the       jurisdiction of Federal District Court for the judicial district in which       the address is located, or if the subscriber's address is outside of the       United States, for any judicial district in which the service provider may       be found, and that the subscriber will accept service of process from the       person who provided notification of infringement or an agent of such       person.</li>
+      </ol>
+      <p dir="ltr">Such written notice should be sent to our designated agent  as follows:<br>
+          <br>
+        wePapers Ltd.<br>
+        Metudela 3A<br>
+        92305<br>
+        Jerusalem, Israel<br>
+        Telephone: +972 5 4847 299<br>
+        Telephone: +1 617 326 7913<br>
+        E-mail: support@wepapers.com <br>
+      Please note that under Section 512(f) of the Copyright Act,  any person who knowingly materially misrepresents that material or activity was  removed or disabled by mistake or misidentification may be subject to  liability.</p>
+      <p dir="ltr">We apologize for any kind of abuse of our service and promise to do our best endeavours to find and terminate copyright-infringing files. </p><p></p></td>
   </tr>
 </tbody></table>
 <p></p>
@@ -151,10 +295,11 @@
         </div>
         <!-- Main window -->
         <!-- Foot Line -->
+		
         <div id="pgfoot">
             <div class="footer">
-                <div class="credit"> <a class="$$$" href="/Privacy/">Privacy Policy</a>  | <a class="$$$" href="/Terms/">Terms of use</a>  | <a class="$$$" href="/About/">About</a>   | <a class="$$$" href="/contact_us/">Contact</a> | <a href="http://blog.wepapers.com">Blog</a> | 
-  Copyright ©2008 wePapers. Developed by <a href="http://intertech.co.il">Intertech</a></div>
+                <div class="credit"> <a href="/Privacy/">Privacy and Copyright Policy</a>  | <a href="/Terms/">Terms of use</a>  | <a href="/About/">About</a>   | <a href="/contact_us/">Contact</a> | <a href="http://blog.wepapers.com">Blog</a> | <a href="http://www.twitter.com/wepapers">wePapers on twitter</a> |
+  Copyright © 2008-2009 wePapers.</div>
             </div>               
         </div>
         <!-- Foot Line -->
@@ -171,7 +316,12 @@ var pageTracker = _gat._getTracker("UA-1370087-12");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<script src="http://wepapers.uservoice.com/pages/general/widgets/tab.js?alignment=right&amp;color=FFFFFF" type="text/javascript"></script>
+<script src="http://static.getclicky.com/58654.js" type="text/javascript"></script>
 
-
+<script type="text/javascript">
+    var FBIAPI = '49b38d5160be6d7538a1df9160da9420';
+        FB.init(FBIAPI, "xd_receiver.htm");
+    </script>
 
 </body></html>
