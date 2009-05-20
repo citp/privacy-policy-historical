@@ -1,76 +1,47 @@
-> *The following text is extracted and transformed from the workoutbox.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002133923id_/http%3A//www.workoutbox.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workoutbox.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520081643id_/http%3A//www.workoutbox.com/home/ctl/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WorkoutBox
+# WorkoutBOX | The Best Workout and Exercise Routines
 
-This privacy policy sets out how WorkoutBox.com uses and protects any information that you give WorkoutBox.com when you use this website.
+WorkoutBOX is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the WorkoutBOX Web site and governs data collection and usage. By using the WorkoutBOX website, you consent to the data practices described in this statement.
 
-WorkoutBox.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Collection of your Personal Information
 
-WorkoutBox.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21st July 2008
+WorkoutBOX collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. WorkoutBOX also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**What we collect**
+There is also information about your computer hardware and software that is automatically collected by WorkoutBOX. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by WorkoutBOX for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the WorkoutBOX Web site.
 
-We may collect the following information:
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through WorkoutBOX public message boards, this information may be collected and used by others. Note: WorkoutBOX does not read any of your private online communications.
 
-  * Name and job title
+WorkoutBOX encourages you to review the privacy statements of Web sites you choose to link to from WorkoutBOX so that you can understand how those Web sites collect, use and share your information. WorkoutBOX is not responsible for the privacy statements or other content on Web sites outside of the WorkoutBOX and WorkoutBOX family of Web sites.
 
-  * Contact information including email address
+Use of your Personal Information
 
-  * Demographic information such as postcode, preferences and interests
+WorkoutBOX collects and uses your personal information to operate the WorkoutBOX Web site and deliver the services you have requested. WorkoutBOX also uses your personally identifiable information to inform you of other products or services available from WorkoutBOX and its affiliates. WorkoutBOX may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-  * Other information relevant to customer surveys and/or offers
+WorkoutBOX does not sell, rent or lease its customer lists to third parties. WorkoutBOX may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, WorkoutBOX may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to WorkoutBOX, and they are required to maintain the confidentiality of your information.
 
+WorkoutBOX does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
+WorkoutBOX keeps track of the Web sites and pages our customers visit within WorkoutBOX, in order to determine what WorkoutBOX services are the most popular. This data is used to deliver customized content and advertising within WorkoutBOX to customers whose behavior indicates that they are interested in a particular subject area.
 
+WorkoutBOX Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on WorkoutBOX or the site; (b) protect and defend the rights or property of WorkoutBOX; and, (c) act under exigent circumstances to protect the personal safety of users of WorkoutBOX, or the public.
 
-**What we do with the information we gather**
+Use of Cookies
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+The WorkoutBOX Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-  * Internal record keeping. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize WorkoutBOX pages, or register with WorkoutBOX site or services, a cookie helps WorkoutBOX to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same WorkoutBOX Web site, the information you previously provided can be retrieved, so you can easily use the WorkoutBOX features that you customized.
 
-  * We may use the information to improve our products and services. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the WorkoutBOX services or Web sites you visit.
 
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+Security of your Personal Information
 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
+WorkoutBOX secures your personal information from unauthorized access, use or disclosure. WorkoutBOX secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-  * We may use the information to customise the website according to your interests.
+Changes to this Statement
 
+WorkoutBOX will occasionally update this Statement of Privacy to reflect company and customer feedback. WorkoutBOX encourages you to periodically review this Statement to be informed of how WorkoutBOX is protecting your information.
 
+Contact Information
 
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer''s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
-
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [address].
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+WorkoutBOX welcomes your comments regarding this Statement of Privacy. If you believe that WorkoutBOX has not adhered to this Statement, please contact WorkoutBOX at [contact@workoutbox.com](mailto:contact@workoutbox.com "Contact WorkoutBox"). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
