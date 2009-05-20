@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rednoseday.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224090853id_/http%3A//www.rednoseday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rednoseday.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520062319id_/http%3A//www.rednoseday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Nose Day 09
 
@@ -25,10 +25,12 @@ We also use your information to identify you and provide a personalised service 
 **Cookies**  
 Cookies are small pieces of information sent from our website to your computer to help us identify you quickly. Comic Relief uses cookies to help you use our site more effectively, to identify you when you visit our site, and to help us assess how our site is used.
 
-The Information Advertising Bureau provide in-depth information about cookies. Their website at www.allaboutcookies.org also tells you how to remove cookies from your browser. Please note that if you remove our cookies, you may not be able to use our site as effectively.
+The Information Advertising Bureau provide in-depth information about cookies. Their website at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") also tells you how to remove cookies from your browser. Please note that if you remove our cookies, you may not be able to use our site as effectively.
 
 **Users under 16**  
 If you are under 16, please get your parent/guardian's permission before you provide personal information to us. Users under 16 without this consent should not provide us with personal information.
 
-**Contacting us**  
-This website is owned and operated by Comic Relief Limited, a subsidiary of Charity Projects (operating as Comic Relief), a charity registered with the Charity Commission no. 326568, whose business address is Fifth Floor, 89 Albert Embankment, London, SE1 7TP, UK.
+**Who we are**  
+This website is owned and operated by Comic Relief of 5th Floor, 89 Albert Embankment, London, SE1 7TP, UK. 
+
+Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee and registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
