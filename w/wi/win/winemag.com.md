@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2008-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080131185215id_/http%3A//www.winemag.com/ME2/dirmod.asp%3Fsid%3D%26nm%3D%26type%3DPublishing%26mod%3DPublications%253A%253AArticle%26mid%3D8F3A7027421841978F18BE895F87F791%26tier%3D4%26id%3DB31A1825D4774B87B59FECF379649E2D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520175804id_/http%3A//www.winemag.com/ME2/dirmod.asp%3Fsid%3D%26nm%3D%26type%3DPublishing%26mod%3DPublications%253A%253AArticle%26mid%3D8F3A7027421841978F18BE895F87F791%26tier%3D4%26id%3DB31A1825D4774B87B59FECF379649E2D) for the most accurate reproduction.*
 
 # Privacy Policy | Articles | Wine Enthusiast Magazine
 
@@ -9,19 +9,17 @@
   
 | 
 
-[](https://web.archive.org/buyingguide/login.asp)
+[](http://buyingguide.winemag.com/)
 
-[](https://web.archive.org/buyingguide/login.asp?db=spirits)
-
-[](http://blog.winemag.com/)
+[](http://www.winemag.com/blogs/)
 
 [](https://web.archive.org/ME2/dirmod.asp?sid=A3025A36942D43C9A78C6A0CDBC41F4F&nm=Award+Winning+Restaurants&type=ESpotlight&mod=Directories%3A%3ARestaurants&mid=7E4C8360C6054ABEA3F48843326B7A25&tier=1)
 
 [](https://web.archive.org/ME2/dirmod.asp?sid=DF51BF6739994DC7A29DF9D0C2BC5CF9&nm=Departments&type=recurring&mod=Events&mid=7A41221F63DA4B72998F3F5810279001&tier=1)
 
-[](https://web.archive.org/ME2/dirmod.asp?sid=DF51BF6739994DC7A29DF9D0C2BC5CF9&nm=Departments&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=BF53FCDD7A8E41508D30D9AF966049C9)
+[](https://web.archive.org/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=70D1108E978940A190B8EB5F3B32CF90)
 
-|  |  [](https://web.archive.org/web/20080131185215id_/http%3A//www.winemag.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&id=B31A1825D4774B87B59FECF379649E2D&Title=%3CFONT+color%3D%23ffffff%3EPrivacy+Policy%3C%2FFONT%3E&AudID=&tier=5)  
+|  |  [](https://web.archive.org/web/20090520175804id_/http%3A//www.winemag.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&id=B31A1825D4774B87B59FECF379649E2D&Title=%3CFONT+color%3D%23ffffff%3EPrivacy+Policy%3C%2FFONT%3E&AudID=&tier=5)  
 Issue Date: July 2007, Posted On: 7/1/2007 
 
 Privacy Policy  
