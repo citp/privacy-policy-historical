@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224032149id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520032135id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
 
-# Suite101 Privacy Policy
+# Suite101 Privacy Policy | Suite101.com
 
 Protecting your privacy is important to Suite101.com Media Inc. ("Suite101").
 
@@ -68,4 +68,4 @@ V6B 5L1, Canada
 
 _18\. Language_ \- The parties have expressly requested and required that this Privacy Policy and all other related documents be drawn up in the English language. Les parties conviennent et exigent expressement que ce Politique et tous les documents qui s'y rapportent soient rediges en anglais.
 
-When using other Suite101 websites such as [Suite101 Brasil](http://www.suite101.com.br/), [Suite101 China](http://www.suite101.cn/), [Suite101 Deutschland](http://www.suite101.de/), [Suite101 España](http://www.suite101.es/), [Suite101 France](http://www.suite101.fr/), [Suite101 Italia](http://www.suite101.it/), [Suite101 Japan](http://www.suite101.jp/), and [Suite101 UK](http://www.suite101.co.uk/), please refer to their respective privacy policy documents.
+When using other Suite101 websites such as [Suite101 Brasil](http://www.suite101.com.br/), [Suite101 China](http://www.suite101.cn/), [Suite101 Deutschland](http://www.suite101.de/), [Suite101 Español](http://www.suite101.net/), [Suite101 France](http://www.suite101.fr/), [Suite101 Italia](http://www.suite101.it/), [Suite101 Japan](http://www.suite101.jp/), and [Suite101 UK](http://www.suite101.co.uk/), please refer to their respective privacy policy documents.
