@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029042422id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521011513id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
 # Privacy Policy - Hoboken 411 » Hoboken's Leading Web Community
 
@@ -22,9 +22,11 @@ While your personally identifying information is protected as outlined above, we
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider are sold, assigned, transferred or acquired by another company, the information from and about our Website users may be among the transferred assets.  
 **  
 III. COOKIES**  
-You may have read about “cookies,” nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.  
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.  
-If you don’t want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
+You may have read about “cookies,” nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies. 
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. Additionally, this site may occasionally use Google DART cookies to serve relevant ads based on visits to other sites. You may opt out of the use of DART cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+If you don’t want any other cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
 **IV. KIDS AND PARENTS**  
 This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.  
@@ -34,3 +36,5 @@ If you’re worried about your children’s activities or their privacy on our s
 **V. PRIVACY POLICY CONTACT**  
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
+
+Tags: [Hoboken411](http://technorati.com/tag/Hoboken411), [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
