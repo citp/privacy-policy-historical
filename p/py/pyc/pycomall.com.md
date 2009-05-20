@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413140328id_/http%3A//www.pycomall.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pycomall.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520024725id_/http%3A//www.pycomall.com/pages.php%3Fpageid%3D13) for the most accurate reproduction.*
 
-# Pycomall :: Help zone - Buy or sell digital goods online with paypal, digital delivery.
+# Privacy Policy :: Pycomall
 
 In order to provide uninterrupted services to you as a visitor or a user of our site, Pycomall, it is necessary that you provide us with your complete and correct personal information ("Personal Data") when you are applying to us and/or continue to subscribe with us for service(s) and/or product(s) ("Services").
 
@@ -28,5 +28,3 @@ You agree that, by providing us with your Personal Data, you allow us to use and
 In relating to the mentioned purposes above, you also accept our disclosure and transferring to any third party service providers, any credit providers, banks, financial institutions, any third party collection agencies, any credit reference agencies, any security agencies, our agents, contractors, our professional advisers, any other persons under a duty of confidentiality to us and any of our actual or proposed assignees or transferees of our rights with respect to you of using, disclosing, processing, holding, retaining or transferring such Personal Data.
 
 In case we deemed it necessary, we reserve the right to amend this Statement without prior notice. So, regular checking for any amendments is advisable.
-
- 
