@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffoc.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222204011id_/http%3A//www.ffoc.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffoc.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520173113id_/http%3A//www.ffoc.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FFOC.com
 
