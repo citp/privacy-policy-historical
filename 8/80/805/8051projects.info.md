@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165247id_/http%3A//www.8051projects.info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520070029id_/http%3A//www.8051projects.info/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Free 8051 Microcontroller Projects
 
@@ -45,6 +45,8 @@ We provide this privacy policy as a statement to you of our commitment to protec
 **Google Search Box**
 
 The search box on this website (Search Box) is powered by Google Inc (Google). You acknowledge and agree that Google™s privacy policy (located at  http://www.google.co.in/intl/en/privacy.html) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+
+**Google Ads** The Ads on this website is powered by Google Inc (Google). Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html)
 
 **Agreeing to Terms**
 
