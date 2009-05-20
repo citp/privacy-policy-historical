@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrum.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230214513id_/http%3A//www.scrum.com/scrum/rugby/page/78831.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrum.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520152438id_/http%3A//www.scrum.com/scrum/rugby/page/78831.html) for the most accurate reproduction.*
 
-# Rugby Union - Scrum.com - PRIVACY POLICY
+# Rugby Union | PRIVACY POLICY | Scrum.com
 
 **On-Line Registration**  
 This policy tells you how we collect information from you on the Scrum website (the Site), how we protect it and how we use it. ESPN (EUROPE, MIDDLE EAST, AFRICA) LTD (" **ESPN** "), a company registered in England with registration number 05620411, controls all personal information which you provide on the Site. ESPN (including its subsidiaries) is a member of the Disney Group, and is referred to in this Privacy Policy as "we", "us", "our" and "ourselves". 
