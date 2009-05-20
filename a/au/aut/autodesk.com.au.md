@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231182730id_/http%3A//south-apac.autodesk.com/adsk/servlet/index%3Fid%3D10901606%26siteID%3D1157326) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520033028id_/http%3A//south-apac.autodesk.com/adsk/servlet/index%3Fid%3D10901606%26siteID%3D1157326) for the most accurate reproduction.*
 
 # Autodesk - Privacy Policy
 
