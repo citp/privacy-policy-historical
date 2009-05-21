@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imvu.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217033736id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imvu.com privacy policy that was archived on 2009-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090521180105id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>IMVU Information</title>
@@ -59,8 +59,8 @@
 }
 
 </style>
-<link href="/catalog/stylesheet-header.css?v=9e535c59" rel="stylesheet" type="text/css">
-<link href="/catalog/stylesheet-status.css?v=9e535c59" rel="stylesheet" type="text/css">
+<link href="/catalog/stylesheet-header.css?v=94323734" rel="stylesheet" type="text/css">
+<link href="/catalog/stylesheet-status.css?v=94323734" rel="stylesheet" type="text/css">
 <link rel="search" type="application/opensearchdescription+xml" href="/catalog/opensearch-site.xml" title="IMVU">
 <link rel="search" type="application/opensearchdescription+xml" href="/catalog/opensearch-catalog.xml" title="IMVU Catalog">
 
@@ -88,27 +88,89 @@
         </script>
 
         
-    <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-    <script type="text/javascript">
-    var tracker = _gat._getTracker("UA-30366-2");
-    </script>
-            <script type="text/javascript">
-            _qoptions={
-            qacct:"p-8fZNjMQsH1Ews"
-            };
-        </script>
-        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
         <script type="text/javascript">
-    tracker._trackPageview();
-    </script>
-    <script src="/catalog/includes/xh_Request.js?v=9e535c59" type="text/javascript"></script>
+        var tracker;
+        if (typeof _gat != 'undefined') {
+            tracker = _gat._getTracker("UA-30366-2");
+            tracker._setDomainName(".imvu.com");
+            tracker._setAllowHash(false);
+        }
+        </script>
+        
+                 <script type="text/javascript">
+            function _uGC(l,n,s) {
+               // used to obtain a value form a string of key=value pairs
+               if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+               var i,i2,i3,c="-";
+               i=l.indexOf(n);
+               i3=n.indexOf("=")+1;
+               if (i > -1) {
+                  i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+                  c=l.substring((i+i3),i2);
+               }
+               return c;
+            }
+        
+            function checkFirst(){
+               // check if this is a first time visitor
+               newVisitor = 0;
+               var myCookie = " " + document.cookie + ";";
+               var searchName = "__utma=";
+               var startOfCookie = myCookie.indexOf(searchName)
+               if (startOfCookie == -1) {   // i.e. first time visitor
+                  newVisitor = 1;
+               }
+            }
+        
+            function grabReferrer(){
+               // grab campaign and referrer info from the _utmz cookie
+               if (newVisitor) {
+                  var z = _uGC(document.cookie, "__utmz=", ";");
+                  urchin_source = _uGC(z,"utmcsr=", "|");
+                  urchin_medium = _uGC(z,"utmcmd=", "|");
+                  urchin_term = _uGC(z,"utmctr=", "|");
+                  urchin_content = _uGC(z,"utmcct=", "|");
+                  urchin_campaign = _uGC(z,"utmccn=", "|");
+                  var gclid = _uGC(z,"utmgclid=","|");
+                  if (gclid) {
+                     urchin_source = "google";
+                     urchin_medium = "cpc";
+                  }
+                  
+                  tracker._setVar("/campaign=" + urchin_campaign + 
+                                  "/source="   + urchin_source + 
+                                  "/medium="   + urchin_medium + 
+                                  "/term="     + urchin_term + 
+                                  "/content="  + urchin_content);
+               }
+            }
+        </script>
+                
+        <script type="text/javascript">
+        if (tracker) {
+            
+                
+            checkFirst(); // checks if this is a new visitor
+            tracker._trackPageview();
+            grabReferrer(); // grab referrer info
+            
+        }
+        </script>
+                    <script type="text/javascript">
+                _qoptions={
+                qacct:"p-8fZNjMQsH1Ews"
+                };
+            </script>
+            <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <script src="/catalog/includes/xh_Request.js?v=94323734" type="text/javascript"></script>
 <script type="text/javascript" src="/catalog/includes/zaptophone.js"></script>
 <script type="text/javascript">
 function XHUpdateSetting(field_name, field_value) {
 }
 </script>
 
-<script src="/catalog/includes/xh_Request.js?v=9e535c59" type="text/javascript"></script>
+<script src="/catalog/includes/xh_Request.js?v=94323734" type="text/javascript"></script>
 <script type="text/javascript" defer="defer">
 window.setTimeout('updateStatus("olstatus", "ol", null, "www.imvu.com")', 3000);
 window.setTimeout('updateStatus("cpstatus", "cp", null, "www.imvu.com")', 4000);
@@ -151,13 +213,13 @@ document.write(pm_tag);
                 <td width="340" align="right">
                     <div id="mininav-userarea">
                         <div>
-                                                    <div id="mininav-userarea-line1">
-                                <a href="http://www.imvu.com/signup/index.php" style="line-height:1.1em;margin-right:5px;"><b>Sign Up Now to Chat in 3D!</b></a>
-                            </div>
-                            <div id="mininav-userarea-line2">
-                                <a href="http://www.imvu.com/catalog/login.php" style="line-height:1.5em;margin-right:5px;">Member Login</a>
-                            </div>
-                                                </div>
+                                                                                    <div id="mininav-userarea-line1">
+                                    <a href="http://www.imvu.com/signup/index.php" style="line-height:1.1em;margin-right:5px;"><b>Sign Up Now to Chat in 3D!</b></a>
+                                </div>
+                                <div id="mininav-userarea-line2">
+                                    <a href="http://www.imvu.com/catalog/login.php" style="line-height:1.5em;margin-right:5px;">Member Login</a>
+                                </div>
+                                                                            </div>
                     </div>
                 </td>
             </tr>
@@ -280,41 +342,37 @@ document.write(pm_tag);
 
 <div id="footerBanner">
 <!-- begin ZEDO for channel: Run of Network , publisher: IMVU , Ad
-Dimension: Pixel/Popup - 1 x 1 -->
-<iframe src="http://d3.zedo.com/jsc/d3/ff2.html?n=726;d=15;w=1;h=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="1" height="1"></iframe>
-<!-- end ZEDO for channel: Run of Network , publisher: IMVU , Ad
+Dimension: Pixel/Popup - 1 x 1 --><iframe src="http://d3.zedo.com/jsc/d3/ff2.html?n=726;d=15;w=1;h=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="1" height="1"></iframe><!-- end ZEDO for channel: Run of Network , publisher: IMVU , Ad
 Dimension: Pixel/Popup - 1 x 1 -->                    <table border="0" cellspacing="0" cellpadding="0" align="center">
                     <tbody><tr><td colspan="5" width="100%" height="1"><img width="100%" height="1" src="/catalog/web_images/space.gif"></td></tr>
-                    <tr><td colspan="5" align="middle" width="700" height="96"><a href="http://www.imvu.com/catalog/newsletter/bundles.php"><img border="0" width="700" height="96" src="http://static.imvu.com/imvufiles/bundleBanner_700x96"></a></td></tr>
+                    <tr><td colspan="5" align="middle" width="700" height="96"><a href="http://www.imvu.com/music/songwriters.php"><img border="0" width="700" height="96" src="http://static.imvu.com/imvufiles/ads/songwriters_700x96.jpg"></a></td></tr>
                     <tr><td colspan="5" width="100%" height="5"><img width="100%" height="5" src="/catalog/web_images/space.gif"></td></tr>
                     </tbody></table><!-- IMVU Ad --><!-- IMVU internal 728 x 90 --></div>
 <script language="JavaScript" type="text/javascript" src="/catalog/includes/wz_tooltip.js"></script>
         <div id="footer_style">
             <div id="ft_links2">
             
-                <a href="http://www.imvu.com/people/">People Search</a> | 
-                <a href="http://www.imvu.com/groups/">Groups</a> | 
-                <a href="http://www.imvu.com/forums">Forums</a> | 
-                <a href="http://www.imvu.com/rooms/">3D Chat</a> | 
-                <a href="http://www.imvu.com/shop/">Catalog</a> | 
-                <a href="http://www.imvu.com/store/store_us.php">Buy Credits</a> | 
-                <a href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=usagerewards&amp;nav_section=credits&amp;nav_subsection=earn">Earn Credits</a> | 
-                <a href="http://www.imvu.com/creators/">Creator Center</a>
+                <a href="http://www.imvu.com/people/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">People</a> | 
+                <a href="http://www.imvu.com/groups/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Groups</a> | 
+                <a href="http://www.imvu.com/forums?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Forums</a> | 
+                <a href="http://www.imvu.com/rooms/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">3D Chat Rooms</a> | 
+                <a href="http://www.imvu.com/shop/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">3D Virtual Catalog</a> | 
+                <a href="http://www.imvu.com/store/store_us.php?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Buy Credits</a> | 
+                <a href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=usagerewards&amp;nav_section=credits&amp;nav_subsection=earn?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Earn Credits</a> | 
+                <a href="http://www.imvu.com/creators/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Creator Center</a>
                 <!-- Site Map - TBD -->
             </div>
                 
-            <div id="ft_links3">
-                <a href="http://www.imvu.com/catalog/liveperson_iframe.php?lp_page=http://server.iad.liveperson.net/hc/s-91089018/cmd/kbresource/front_page!PAGETYPE">Help</a> | 
-                <a href="http://www.imvu.com/about/">About Us</a> | 
-                <a href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=contactus">Contact Us</a> | 
-                <a href="http://www.imvu.com/jobs/index.php">Jobs</a> | 
-                <a href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=terms_of_service">Terms of Service</a> | 
-                <a href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=privacy">Privacy</a> |                 
-                <a href="http://www.imvu.com/catalog/web_help_center.php">Help</a> | 
-                <a href="http://www.imvu.com/catalog/liveperson_iframe.php?lp_page=http://server.iad.liveperson.net/hc/s-91089018/cmd/kbresource/kb-2313510507870109480/mail_form_interstitial.html!PAGETYPE">Billing Inquiries</a> | 
-                <a href="http://www.imvu.com/catalog/web_safety_tips01.php">Safety</a> | 
-                <a href="http://www.imvu.com/catalog/web_delete_account.php">Delete Account</a> 
-                <span id="copyright">© 2008 IMVU All rights reserved</span>
+            <div id="ft_links3"> 
+                <a href="http://www.imvu.com/about/?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">About Us</a> | 
+                <a rel="nofollow" href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=contactus?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Contact Us</a> | 
+                <a href="http://www.imvu.com/jobs/index.php?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Jobs</a> | 
+                <a rel="nofollow" href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=terms_of_service?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Terms of Service</a> | 
+                <a rel="nofollow" href="http://www.imvu.com/catalog/web_info.php?section=Info&amp;topic=privacy?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Privacy</a> |                 
+                <a href="http://www.imvu.com/catalog/web_help_center.php?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Help</a> | 
+                <a rel="nofollow" href="http://www.imvu.com/catalog/parature_iframe.php?imvu_header=1&amp;lp_page=http://support.imvu.com/ics/support/default.asp?deptID=5611?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Billing Inquiries</a> | 
+                <a rel="nofollow" href="http://www.imvu.com/catalog/web_safety_tips01.php?osCsid=d6381e9ac76998cc4e9d3c779b6ae708">Safety</a> | 
+                <span id="copyright">© 2009 IMVU All rights reserved</span>
             </div>
         </div>
 <!-- footer_eof //-->
