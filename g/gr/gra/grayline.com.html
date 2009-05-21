@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grayline.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216010726id_/http%3A//grayline.com/Grayline/info/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grayline.com privacy policy that was archived on 2009-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090521103417id_/http%3A//grayline.com/Grayline/info/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Privacy Policy</title>
@@ -44,20 +44,28 @@
 <div align="center">
 <table width="759" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
+
 	<td colspan="2" align="right" style="padding-right:26px;padding-bottom:3px;"><a href="/Grayline/email.signup.aspx"><img src="/Grayline/GraylineBase/wrap/theme0/images/btn.emailsignup.gif" width="171" height="13" border="0" alt=""></a></td>
+	
 </tr>
 <tr>
-	<td width="222" bgcolor="#328ECD" align="left" valign="top" style="border-right: 1px solid #CCCCCC;"><a href="/Grayline/index.aspx"><img src="/Grayline/GraylineBase/wrap/theme0/images/logo.sub.gif" width="222" height="93" alt="Gray Line" border="0"></a><br>
+	<td width="222" bgcolor="#328ECD" align="left" valign="top" style="border-right: 1px solid #CCCCCC;">
+	
+	<a href="/Grayline/index.aspx"><img src="/Grayline/GraylineBase/wrap/theme0/images/logo.sub.gif" width="222" height="93" alt="Gray Line" border="0"></a><br>
+	
+	
 	<img src="/Grayline/GraylineBase/wrap/theme0/images/makeareservation.sub.gif" width="222" height="29" alt="Make a Reservation">
 	<div style="padding: 10px 26px 17px 12px; background-color:#FFFFFF;">
 	
 <form id="areaSearch" name="areaSearch" action="http://grayline.ezrez.com/travel/arc_waiting.cfm" method="get">
 <input type="hidden" id="search" name="search" value="true">
 <input type="hidden" id="activity1" name="activity1" value="true">
-<input type="hidden" id="area2" name="area2" value="">
-<input type="hidden" id="origin" name="origin" value="http://www.grayline.com/Grayline/info/privacypolicy.aspx">
 
+
+<input type="hidden" id="area2" name="area2" value="">
 <input type="hidden" id="nav" name="nav" value="default">
+
+<input type="hidden" id="origin" name="origin" value="http://www.grayline.com/Grayline/info/privacypolicy.aspx">
 <script language="JavaScript" type="text/javascript">
 			function destinations(region) {
 			var o = new Array();
@@ -107,6 +115,8 @@
 		
   					} else if (region=='Brazil') {
   				
+				o[++i]=['Buzios'];  		
+		
 				o[++i]=['Chapada Diamantina'];  		
 		
 				o[++i]=['Fernando de Noronha'];  		
@@ -131,10 +141,6 @@
 		
   					} else if (region=='Canada') {
   				
-				o[++i]=['Banff'];  		
-		
-				o[++i]=['Calgary'];  		
-		
 				o[++i]=['Halifax'];  		
 		
 				o[++i]=['Montreal'];  		
@@ -151,15 +157,31 @@
 		
 				o[++i]=['Yukon Territory'];  		
 		
+  					} else if (region=='Chile') {
+  				
+				o[++i]=['Chile'];  		
+		
   					} else if (region=='China') {
   				
 				o[++i]=['Beijing'];  		
+		
+				o[++i]=['Guangdong Province'];  		
+		
+				o[++i]=['Macau'];  		
 		
 				o[++i]=['Shanghai'];  		
 		
   					} else if (region=='Colombia') {
   				
-				o[++i]=['Colombia'];  		
+				o[++i]=['Bogota'];  		
+		
+				o[++i]=['Cali'];  		
+		
+				o[++i]=['Cartagena'];  		
+		
+				o[++i]=['Medellin'];  		
+		
+				o[++i]=['San Andres'];  		
 		
   					} else if (region=='Costa Rica') {
   				
@@ -168,6 +190,12 @@
   					} else if (region=='Czech Republic') {
   				
 				o[++i]=['Prague'];  		
+		
+  					} else if (region=='Dominican Republic') {
+  				
+				o[++i]=['Bayahibe'];  		
+		
+				o[++i]=['Punta Cana'];  		
 		
   					} else if (region=='Ecuador') {
   				
@@ -379,6 +407,8 @@
 		
 				o[++i]=['Los Angeles'];  		
 		
+				o[++i]=['Miami'];  		
+		
 				o[++i]=['Minneapolis'];  		
 		
 				o[++i]=['Monterey/Carmel'];  		
@@ -419,8 +449,6 @@
 		
 				o[++i]=['Tucson'];  		
 		
-				o[++i]=['Utah'];  		
-		
 				o[++i]=['Washington DC'];  		
 		
 			}
@@ -441,12 +469,17 @@
 				};
 				destination.selectedIndex=0;
 			} // change_options
-
+		</script>
+<script language="JavaScript" type="text/javascript">
 			function check_submit(frm) {
-				var blnRC = false;
+				var blnRC = true;
 				var strMsg = "Please correct the following errors:\n\n";
+
+
+				blnRC = false;
 				var regionName = frm.region.options[frm.region.selectedIndex].value;
 				var destinationName = frm.destination.options[frm.destination.selectedIndex].value;
+			
 				if (regionName=="" || destinationName=="") {
 					strMsg += "  * Please select a Region and Destination\n";
 					blnRC = false;
@@ -454,6 +487,7 @@
 					frm.area2.value = regionName + " - " + destinationName;
 					blnRC = true;
 				}
+
 				if (compareDates(frm.date1.value,'MM/dd/yyyy',frm.date2.value,'MM/dd/yyyy') > 0) {
 					strMsg += "  * Your Departure Date may not fall before your Arrival Date\n";
 					blnRC = false;
@@ -481,10 +515,12 @@
     <option value="Belize">Belize</option>
     <option value="Brazil">Brazil</option>
     <option value="Canada">Canada</option>
+    <option value="Chile">Chile</option>
     <option value="China">China</option>
     <option value="Colombia">Colombia</option>
     <option value="Costa Rica">Costa Rica</option>
     <option value="Czech Republic">Czech Republic</option>
+    <option value="Dominican Republic">Dominican Republic</option>
     <option value="Ecuador">Ecuador</option>
     <option value="Egypt">Egypt</option>
     <option value="El Salvador">El Salvador</option>
@@ -600,12 +636,11 @@
   </tr>
 </tbody></table>
 </form>
-
 	</div>
 	<div style="padding: 0px 0px 5px 0px; margin: 0px 0px 0px 0px">
 	
 	</div>
-	<a href="http://www.grayline.com/aaa" target="_blank"><img src="/Grayline/GraylineAssets/images/banner_ad/aaabannerk9finalblue.gif" width="222" height="48" alt="AAA" border="0"></a>
+<a href="http://www.grayline.com/aaa" target="_blank"><img src="/Grayline/GraylineAssets/images/banner_ad/aaabannerk9finalblue.gif" width="222" height="48" alt="AAA" border="0"></a>	
 	<div style="padding: 10px 10px 15px 12px;" id="franchiseSnippet">
 		<!--
 Error executing child request for /Grayline/info/snippet.privacypolicy.aspx.
@@ -622,7 +657,7 @@ Error executing child request for /Grayline/info/snippet.privacypolicy.aspx.
 	<div id="boxNav" style="position: absolute;">
 		<script type="text/javascript" language="JavaScript1.2" src="/Grayline/GraylineBase/wrap/theme0/js/data.js"></script>
 	</div>
-</div>
+</div>	
 	</div>
 	<div style="padding: 7px 19px 19px 14px;">
 	
@@ -693,7 +728,7 @@ Error executing child request for /Grayline/info/snippet.privacypolicy.aspx.
 			</td>
 		</tr>
 		</tbody></table>
-		
+
 <img src="/Grayline/GraylineBase/wrap/theme0/images/footerbar.gif" width="759" height="5" alt=""><br>
 <div id="boxFooter">
 	<div id="txtFooter">
@@ -707,7 +742,7 @@ Error executing child request for /Grayline/info/snippet.privacypolicy.aspx.
 		<a href="/Grayline/info/termsofuse.aspx">Terms of Use</a> | 
 		<a href="/Grayline/index.aspx">Home</a>
 	</div>
-</div>
+</div>		
 		</div>
 	
 
