@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbianize.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011205id_/http%3A//www.symbianize.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbianize.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521120727id_/http%3A//www.symbianize.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Symbianize
 
@@ -85,4 +85,4 @@ Symbianize has security measures in place to protect the loss, misuse and altera
 
 ### CONTACT US
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please [contact us](https://web.archive.org/web/20081216011205id_/http%3A//www.symbianize.com/sendmessage.php).
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please [contact us](https://web.archive.org/web/20090521120727id_/http%3A//www.symbianize.com/sendmessage.php).
