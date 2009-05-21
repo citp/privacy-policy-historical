@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105936id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521172816id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Freddie Mac Terms and Conditions: Privacy Policy
 
@@ -27,7 +27,7 @@ If you visit this website to read or download information, we collect and store 
 
 Some parts of this website may use a "cookie," which is a small text file that is placed on your computer's hard drive. The cookie captures no personally identifiable information. This website may use a cookie in order to log which pages you visit on the website or to provide certain features during your visit to the website. You can set your browser to refuse to accept cookies; however, some features of the website may not function properly if you do this.
 
-If you enter information into a financing or affordability calculator offered on this website (such as income, the down payment you want to make, the length of a loan you want or the price of a home you have in mind), that information is not seen or received by Freddie Mac. Your computer performs the calculator’s functions, and the results are displayed in your browser.
+If you enter information into a financing or affordability calculator offered on this website (such as income, the down payment you want to make, the length of a loan you want or the price of a home you have in mind), that information is not seen or received by Freddie Mac. Your computer performs the calculator's functions, and the results are displayed in your browser.
 
 ## What We Do With Information Covered by This Policy
 
@@ -64,8 +64,16 @@ We restrict access to Covered Information to those who need to know the informat
 
 We strive to maintain a high standard of security and privacy. However, no information can be guaranteed to be completely secure, and we make no such warranty or guarantee. In addition, we do not commit to protecting publicly available or non-confidential information except as may be required by applicable law or regulation. 
 
+## Special Statement Regarding the "Does Freddie Mac Own Your Mortgage?" Web Form and Self–Service Tool
+
+In connection with the federal _Making Home Affordable_ program, Freddie Mac has begun to provide a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. 
+
+Freddie Mac uses and discloses the information collected via the Look-up Tool only (i) to respond to the individual's inquiry, (ii) to provide services and fulfill Freddie Mac's obligations under the federal _Making Home Affordable_ program and similar programs, and (iii) in connection with other loss mitigation activities. All information that you enter into the Look-up Tool is transmitted from the Look-up Tool to Freddie Mac via an encrypted communication channel. 
+
+We do not store, use or distribute the Social Security number collected via the Look-up Tool for any purpose other than to respond to the inquiry. 
+
 ## How to Reach Us
 
 If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_inquiries@freddiemac.com](mailto:privacy_inquiries@freddiemac.com). ****
 
-Last updated: December 2, 2008
+Last updated: March 18, 2009
