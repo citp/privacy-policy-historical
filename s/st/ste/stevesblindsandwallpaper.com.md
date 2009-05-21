@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031259id_/http%3A//www.stevesblindsandwallpaper.com/sb_Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521204726id_/http%3A//www.stevesblindsandwallpaper.com/sb_Privacy.aspx%3FdisplayMode%3DUndfined) for the most accurate reproduction.*
 
 # Privacy Policy - Steve's Blinds & Wallpaper
 
