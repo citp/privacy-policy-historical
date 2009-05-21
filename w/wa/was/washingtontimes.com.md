@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229234808id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521115722id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
 
-# Washington Times - Politics, Breaking News, US and World News - Privacy
+# Privacy - Washington Times
 
 The Washington Times recognizes the importance of protecting the information it collects from users in the operation of WashingtonTimes.com, and other activities. As such, The Washington Times takes reasonable steps to maintain the security, integrity and privacy of this information. 
 
