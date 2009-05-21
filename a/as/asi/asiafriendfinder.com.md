@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiafriendfinder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081513id_/http%3A//asiafriendfinder.com/go/page/privacy.html%3Fsite%3Dffz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiafriendfinder.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522014716id_/http%3A//asiafriendfinder.com/go/page/privacy.html%3Fod%3Dasiafriendfinder) for the most accurate reproduction.*
 
 # Asia FriendFinder PRIVACY POLICY
 
