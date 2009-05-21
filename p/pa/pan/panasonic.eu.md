@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.eu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113828id_/http%3A//www.panasonic.eu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.eu privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521191656id_/http%3A//www.panasonic.eu/privacy.aspx) for the most accurate reproduction.*
 
 # Panasonic - Privacy Policy
 
