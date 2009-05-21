@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtamilhits.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022134940id_/http%3A//www.newtamilhits.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtamilhits.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521104730id_/http%3A//www.newtamilhits.com/Privacy.asp) for the most accurate reproduction.*
 
 # :: Terms of Use :: Good Quality NEW & OLD Tamil Movie mp3 Songs For Free Download - NewTamilHits.com ::
 
