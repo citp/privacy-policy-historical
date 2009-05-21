@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftitamerica.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219153558id_/http%3A//www.giftitamerica.com/lch2.php%3Flk%3D421%26bid%3D27%26sesp%3D395_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftitamerica.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521072758id_/http%3A//www.giftitamerica.com/lch2.php%3Flk%3D421%26bid%3D27%26sesp%3D395_0) for the most accurate reproduction.*
 
 # GiftItAmerica.com Privacy Policy
 
