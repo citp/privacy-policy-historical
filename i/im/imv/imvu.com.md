@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033736id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvu.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521180105id_/http%3A//www.imvu.com/catalog/web_info.php%3Fsection%3DInfo%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # IMVU Information
 
