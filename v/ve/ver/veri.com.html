@@ -1,0 +1,858 @@
+<!--The following is the downloaded HTML source of the veri.com privacy policy that was archived on 2009-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090521125303id_/http%3A//www.veri.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="Description" content="Veritocracy is a personalized news site that finds great content specifically for you.">
+<meta name="Description" content="Veri is a personalized news site that finds great content specifically for you.">
+
+<!-- Output the page html title -->
+<title>Privacy Policy - Veritocracy</title>
+
+
+<!-- Global Style sheets -->
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/layout.v14.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/alerts.v2.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/opinion.v6.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/topic.v8.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/popups.v21.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/jquery.autocomplete.v2.css">
+
+
+<!-- Xinha and other variables that have to be defined before the inclusion of other .js files -->
+<script language="Javascript">
+// Create new Veri Namespace
+	if (Veri == null || typeof(Veri) != "object") { var Veri = new Object(); }
+	// Xinha Variables
+	_editor_url  = "/public/lib/xinha.v0/";
+	_editor_lang = "en";
+        var base_url = "http://www.veri.com";
+	var image_base = "http://cdn.veri.com/images/";
+	var dynamic_image_base = "http://cdn2.veri.com/";
+	// We override this function in each view to handle reloading
+	//   data that will need to be refereshed when the user logs in
+	//   (i.e. any ajax data that show vote statuses or is ranked)
+	var _log_in_out_data_refesh = function(){ };
+	// How fast to fade in/out content
+	var js_fade_speed = 'fast';
+	// How fast to slide in/out content
+	var js_slide_speed = 'normal';
+	// If this variable is set to non-empty string
+	// the user will be prompted with this message
+	// when they logout to confirm the logout
+	var confirmLogout = '';
+
+	var gIsIphone = 0;
+</script>
+
+<!-- Global Javascript Libraries -->
+<script language="Javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+
+<script language="Javascript" src="http://cdn2.veri.com/lib/jquery.v1/jquery.compat-1.1.js"></script>
+<script language="Javascript" src="http://cdn2.veri.com/lib/jquery.v1/jqModal.js"></script>
+<script language="Javascript" src="http://cdn2.veri.com/lib/jquery.v1/jquery.veriquickmenu.packed.js"></script>
+<script language="Javascript" src="http://cdn2.veri.com/lib/jquery.v1/jquery.autocomplete.js"></script>
+<script language="Javascript" src="http://cdn2.veri.com/js/global.v21.js"></script>
+<script language="Javascript" src="http://cdn2.veri.com/js/md5.v2.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/text.v1.css">
+
+<!-- Begin: Javascript code rendered on the backend -->
+<script language="Javascript">
+/* BEGIN: Global JS */
+
+// Debug Mode?
+var DEBUG_MODE = 0;
+
+// Validators
+var Validators = {
+    greaterThan: function(floor)
+    {
+        var funcBody = 'if (!ValidationPatterns.INT_PATTERN.test(v)) { return false; }'
+                     + 'return v > ' + floor +';'
+        return new Function('v', funcBody);
+    }
+};
+
+// Validation patterns
+var ValidationPatterns = {
+    'DIGITS_PATTERN' : /^\d+$/,
+    'INT_PATTERN' : /^-?\d+$/,
+    'PERIOD_PATTERN' : /^(([0-9]{1,2} (hour|day|week|month|year)s?)|(all))$/,
+    'SORT_PATTERN' : /^(newest|oldest|top)$/,
+    'OPINION_TYPE_PATTERN' : /^(vu|vd|av|op|ap|lp|pv|sy)$/,
+    'USER_OPINION_TYPE_PATTERN' : /^(Submitted|Voted Up|Voted Down)$/,
+    'PUBLISH_STATE_PATTERN' : /^(pub|upb|edt|rpb|upv|upd|rvt|all)$/,
+    'OPINION_PREVIEW_SORT_PATTERN' : /^(topic|text|rank|edited|published|user|vote|vdate|updated)(-dsc)?$/,
+    'POLL_SCOPE_PATTERN' : /^(Topic|Category|Site)$/,
+    'SYNDQUEUE_STATE_PATTERN' : /^(pub|upb|rtp|nrp|all)$/,
+    'APRJ_STATE_PATTERN' : /^(unp|apr|rej|all)$/,
+    'POLLS_QUEUE_STATE_PATTERN' : /^(unprocessed|public|private|all)$/,
+    'OPINION_QUEUE_STATE_PATTERN' : /^(unp|mod|unm|rep|new)$/,
+    'SEARCH_SCOPE_PATTERN' : /^(all|[cf]:(\d+))$/
+};
+
+// Key, and error codes for captcha
+var CaptchaConfig = {"key":"6LewGAEAAAAAACrPUnct8AMR8QD1ghMcXlWQumPw","incorrectAnswerCode":"-1"};
+
+// Define USER Object with login satus
+var USER = {
+    'isLoggedIn':0,
+    'id':0,
+    'username':'',
+    'confirmed':-1,
+    'email':'-1', // Used to store email temporarily before stage 2 of signup
+    'code':''// User to store activation code temporarily before stage 2 of signup
+};
+
+// When the DOM has loaded, setup our clickable links for login, signup, and logout:
+$(document).ready(function() {
+
+    // Setup Login / Signup Popup
+    $("#loginSignupPop")
+        .jqm({trigger: false, onShow: jqmOpenLsp, onHide: jqmClose });
+
+    // Contact Popup
+    $('#contactPop')
+        .jqm({trigger: false, onShow: jqmOpen, onHide: jqmClose });
+
+    // Forgot Password Pop
+    $("#forgotPasswordPop")
+        .jqm({trigger: false, onShow: jqmOpen, onHide: jqmClose });
+
+    // What Is Veri Pop
+    $("#whatIsVeriPop")
+      .jqm({trigger: false, onShow: jqmOpen, onHide: jqmClose });
+
+    // Setup Login / Signup Popup
+    $("#kickstartPop")
+        .jqm({trigger: false, onShow: jqmOpenKick, onHide: jqmCloseKick });
+
+        // View opinion
+    $('#viewOpinionPop')
+      .jqm({trigger: false, onShow: jqmOpen, onHide: Veri.TopicOpinionPopup.jqmClose });
+    
+    
+    
+    
+    // Report Abuse Popup
+    $('#reportAbusePop')
+      .jqm({trigger: false,
+		       onShow : function(hash){
+	jqmOpen(hash); $("#reportAbuseMessage")[0].select();
+      },
+		       onHide: jqmClose });
+
+
+    // Global Ajax Error Handling
+    $.ajaxSetup({
+        error:   AjaxHandler.handleError,
+        success: AjaxHandler.handleSuccess,
+        timeout: 120000
+    });
+
+    // Popup Window Focus => Highlight Field (To Compensate For IE's lack of :focus)
+    /* This doesn't work with the rollout scripts
+    $("div.popWindow input.text_input").focus(function(){
+        $(this).css("background","url("+image_base+"post-content-span-input-focus.gif)");
+    }) .blur(function(){
+        $(this).css("background","url("+image_base+"post-content-span-input.gif)");
+    });
+    */
+
+    // Set Signup / Login Hints
+    $("#lsp_email").setHint("you will use this to login");
+    $("#lsp_username").setHint("your public name i.e. John Doe or god123");
+    $("#s2p_code").setHint("enter the activation code you received via email");
+    $("#fpp_email").setHint("enter your account email address");
+
+    // Set unread message display
+    updateUnreadMessageCount(0);
+
+    if ($.browser.mozilla) {
+        // strangely firefox won't set the width of <option>s according to
+        // css if border-left and border-right of the <select> is 1px
+
+        $('select').each(function() {
+            if (($(this).css('borderLeftWidth') == '1px')
+             && ($(this).css('borderRightWidth') == '1px')) {
+
+                $(this).bind('focus', function() {
+                    $('option', this).css({'width' : '100%'});
+                });
+                $(this).bind('blur', function() {
+                    $('option', this).css({'width' : ''});
+                });
+                $(this).bind('change', function() {
+                    var me = this;
+                    setTimeout(function() {
+                                   $('option', me).css({'width' : ''});
+                                   setTimeout(function() {
+                                                  $('option', me).css({'width' : '100%'});
+                                              },25);
+                               },25);
+                });
+            }
+        });
+    }
+
+    // Enable Home Interactivity
+    Veri.Vote.enableInteractivity();
+
+    // Mouse over for write icon
+    $("#nav_submit").mouseover(function(){
+      $(this).addClass("over");
+    }).mouseout(function(){
+      $(this).removeClass("over");
+    }).mousedown(function(){
+      $(this).addClass("click");
+    }).mouseup(function(){
+      $(this).removeClass("click");
+    });
+    // Mouse over for personalized icon
+    $("#nav_personalized").mouseover(function(){
+      $(this).addClass("over");
+    }).mouseout(function(){
+      $(this).removeClass("over");
+    }).mousedown(function(){
+      $(this).addClass("click");
+    }).mouseup(function(){
+      $(this).removeClass("click");
+    });
+    // Mouse over for syndicate icon
+    $("#nav_syndicate").mouseover(function(){
+      $(this).addClass("over");
+    }).mouseout(function(){
+      $(this).removeClass("over");
+    }).mousedown(function(){
+      $(this).addClass("click");
+    }).mouseup(function(){
+      $(this).removeClass("click");
+    });
+
+    var navSearchEl = $("#navSearch");
+
+    if (navSearchEl.length) {
+        // Keep track of autocomplete
+        var navSearchAutocomplete = -1;
+        // Activate Main Nav Autocomplete
+        navSearchEl.autocomplete(base_url + '/PostService/getAutoCompleteByQuery/',
+            {
+                max: 15,
+                minChars: 3,
+                selectFirst: false,
+                multiple: false,
+                matchContains: false,
+                mustMatch: false,
+                delay: 400,
+                cacheLength: 15,
+                autoFill: false,
+                scroll:false,
+                parse: function(xml) { // called to parse ajax response into js object
+                    var parsed = [];
+                    $(xml).find('results > topiclist > topic').each(function() {
+                    var row = {};
+                    $(this).children().each(function() {
+                        row[this.tagName] = $(this).text();
+                    });
+                    parsed.push({'data'  : row,
+                        'value' : row.title,
+                        'result': row.title });
+                    });
+                    return parsed;
+                },
+                formatItem: function(row, i, max, value, query) {
+                  return row.title;
+                }
+            }
+        ).result(function(info, topicData){
+            // sometimes autocomplete likes to call this function twice.  Set variable to
+            // tell us it's already been called.  Variable will be reset when search results
+            // come back.
+            if (navSearchAutocomplete == topicData.id) { return; }
+            navSearchAutocomplete = topicData.id;
+            if (topicData.title != navSearchEl.val()) {
+                // make absolutely sure the autocomplete's giving us back the right value
+                return;
+            }
+
+            var topicUrl = base_url + "/" + topicData.category_hash + "/" + topicData.hash;
+
+            // show topic popup
+            if (Veri.ViewTopic.view(topicUrl)) {
+                // or redirect to topic
+                window.location = topicUrl;
+            }
+
+            // Clear search field
+            $("#navSearch").val('');
+
+        });
+    }
+
+
+    // start timed login/logout cookie listener.
+    UserCookieListener.testCookie();
+
+    
+});
+
+AjaxHandler.userNotLoggedInCode = -10;
+AjaxHandler.invalidInputCode = -3;
+
+/* END: Global JS */
+</script>
+<!-- End: Javascript code rendered on the backend -->
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://cdn.veri.com/css/IEBugs.v2.css" />
+<![endif]-->
+
+</head>
+
+<body style="margin: 0px;">
+
+<div id="scrollToTopSmoothCover" style="position: absolute; top: 0px; left: 0px; bottom: 0px; width: 99.97%; height: 99.97%; background-color:#FFFFFF; min-height:100%; z-index:1000000; display: none;">&nbsp;</div>
+
+<div id="container" class="user">
+<!-- ... XHTML that makes up the header (logo, search, nav, etc) ... -->
+
+<!-- BEGIN HEADER -->
+	<div id="header">
+		<div id="header_inner">
+				<h1>
+					<a href="/" class="width"></a>
+				</h1>
+				<form action="/search/" method="GET">
+				<fieldset>
+                                <div>
+                                   <span id="welcomeLink" style="display: inline;">
+                                                                                                   <a id="headerLoginLink" href="javascript:lsp_show();">Login</a> |
+							<a class="modalLogin" href="javascript:lsp_show(null, 1);">Signup</a> 
+					                                        </span>
+                                    <span id="accountLink" style="display: none">
+                                        <a href="/prefs/" onclick="return canAccessSettings();">My Account<span id="nav_unreadMessageCount">&nbsp;</span></a> |
+                                        <a href="/users/">My Profile</a> |
+                                        <a id="accountLink_user" class="logout" href="javascript:doLogout(confirmLogout);">Logout</a>
+                                    </span>
+                                    <a href="javascript:void(0)" onclick="whatIsVeri()" id="nav_whatIsThis">What is this?</a>
+                                </div>
+				<div>
+                                    <label for="navSearch">Search:</label>
+				    <input type="text" id="navSearch" name="q" value="">
+                                    <select id="navSearchCategory" name="s" class="search">
+                                        <option value="all">entire site</option>
+                                                                            </select>
+                                    <button type="submit">Search</button>
+				</div>
+				</fieldset>
+				</form>
+		</div>
+	</div>
+
+	<div id="navigation">
+		<div id="navigation_inner">
+			<h2 class="navigation">Navigation</h2>
+			<p id="nav_submit"><a href="/post/"> </a></p>
+			<p onclick="Veri.Personalization.togglePersonalization(-1)" id="nav_personalized" class="off">
+				<a id="toggleLink" href="javascript: void(0);">Personalized for
+						<span id="nav_personalizedForUserName">
+							you</span></a>
+			</p>
+			<ul class="categories legal">
+                                                <li class="categoryTab " id="categoryTab">
+                                                        <a href="/" class="left" onclick="return gotoCategory(-1);"></a>
+                                                        <a href="/" onclick="return gotoCategory(-1);">All</a>
+                                                        <a href="/" class="right" onclick="return gotoCategory(-1);"></a></li>
+                                                <li class="categoryTab " id="categoryTab2">
+                                                        <a href="/Business/" class="left" onclick="return gotoCategory(2);">
+                                                        </a><a href="/Business/" onclick="return gotoCategory(2);">Business</a>
+                                                        <a href="/Business/" class="right" onclick="return gotoCategory(2);"></a></li>
+                                                <li class="categoryTab " id="categoryTab1">
+                                                        <a href="/Entertainment/" class="left" onclick="return gotoCategory(1);"></a>
+                                                        <a href="/Entertainment/" onclick="return gotoCategory(1);">Entertainment</a>
+                                                        <a href="/Entertainment/" class="right" onclick="return gotoCategory(1);"></a></li>
+                                                <li class="categoryTab " id="categoryTab3">
+                                                        <a href="/Politics/" class="left" onclick="return gotoCategory(3);"></a>
+                                                        <a href="/Politics/" onclick="return gotoCategory(3);">Politics</a>
+                                                        <a href="/Politics/" class="right" onclick="return gotoCategory(3);"></a></li>
+                                                <li class="categoryTab " id="categoryTab5">
+                                                        <a href="/Technology/" class="left" onclick="return gotoCategory(5);"></a>
+                                                        <a href="/Technology/" onclick="return gotoCategory(5);">Technology</a>
+                                                        <a href="/Technology/" class="right" onclick="return gotoCategory(5);"></a></li>
+						<li class="categoryTab " id="categoryTab4">
+                                                        <a href="/Veritocracy/" class="left" onclick="return gotoCategory(4);"></a>
+							<a href="/Veritocracy/" onclick="return gotoCategory(4);">Veri</a>
+                                                        <a href="/Veritocracy/" class="right" onclick="return gotoCategory(4);"></a></li>
+					</ul>
+				</div>
+			</div><!-- navigation -->
+
+<!-- BEGIN: Alert Small -->
+
+<div id="alertSmall" onclick="Veri.Alert.hideAlert(1);">
+		<div id="alert_close"><a href="javascript:void(0);" onclick="Veri.Alert.hideAlert(1);">x</a></div>
+		<p id="alertSmallTypeTxt">&nbsp;</p>
+		<p id="alertSmallTxt">&nbsp;</p>
+</div>
+
+<!-- END: Alert Small -->
+<!-- END HEADER -->
+
+<!-- BEGIN: View Opinion -->
+
+		   <div id="viewOpinionPop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#viewOpinionPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">	<div id="popOpinionWrap">
+		<div id="popOpinionNavBar" class="topicOpinionPopTopBar">
+			<p id="popOpinionNavTopic">
+				<a id="popOpinionNavTopicLink" onclick="return Veri.ViewTopic.view(this);"></a>
+			</p>
+			<p id="popOpinionNavNextPrev">
+				<a id="popOpinionNavPrev" onclick="return Veri.Article.navigate('prev');">&lt;&lt; Previous Article</a>
+				<a id="popOpinionNavNext" onclick="return Veri.Article.navigate('next');">Next Article &gt;&gt;</a>
+			</p>
+		</div>
+		<div id="popOpinionContent" class="ajaxLoad opinionContent">
+		</div>
+	</div>
+
+	<div id="popTopicWrap" class="popTopicWrap">
+	</div>
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: View Opinion -->
+
+
+<!-- BEGIN: What Is Veri Popup -->
+
+		   <div id="whatIsVeriPop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#whatIsVeriPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">                                <div class="popHeading">Better Information Finds You.</div>
+                                <div class="innerContent">
+                                    <div class="frame" id="whatIsVeriFrameOverview">
+                                        <div class="video">
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/F0p4CzjrQFU&amp;hl=en&amp;fs=1&amp;rel=0&amp;fmt=18"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/F0p4CzjrQFU&amp;hl=en&amp;fs=1&amp;rel=0&amp;fmt=18" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></object>
+                                        </div>
+                                        <div class="textPoint">
+                                        <h3>Welcome.</h3>
+				           <p>Welcome to Veritocracy. Check out the video overview, and then see <a href="javascript:wiv_gotoSlide('Personalized');">how Veri works</a>.</p>
+					   <div class="action"><a href="javascript:wiv_gotoSlide('Personalized');">How it works &gt;&gt;</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="frame" id="whatIsVeriFramePersonalized">
+                                        <div class="imagePoint">Personalized For You</div>
+                                        <div class="textPoint">
+                                        <h3>Personalized For You.</h3>
+					   <p>Veritocracy helps great content find you. Just vote up the articles you like, and down the ones you don't.
+                                           Veri's personalization technology learns to deliver the topics and
+                                           news stories that interest you most.</p>
+                                           <p>To get started quickly, try our <a href="javascript:void(0)" onclick="$('#whatIsVeriPop').jqmHide(); Kickstart.build(false);">kick-start</a> system.</p>
+                                           <div class="action"><a href="javascript:wiv_gotoSlide('How');">See a Better Picture &gt;&gt;</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="frame" id="whatIsVeriFrameHow">
+                                        <div class="imagePoint">See a Better Picture</div>
+                                        <div class="textPoint">
+                                        <h3>See a Better Picture.</h3>
+					   <p>For each story you read about, Veritocracy finds the best articles from the blogosphere, mainstream media, and readers, specifically for you. 
+                                           So instead of only getting a slice of information, you get a full and personalized picture each topic.</p>
+                                           <div class="action"><a href="javascript:wiv_gotoSlide('Personalized');">&lt;&lt;</a></div>
+					   <div class="action second"><a href="javascript:wiv_gotoSlide('Authors');">Publish on Veri &gt;&gt;</a></div>
+					</div>
+                                    </div>
+                                    <div class="frame" id="whatIsVeriFrameAuthors">
+					<div class="imagePoint"></div>
+                                        <div class="textPoint">
+                                        <h3>Publish On Veri.</h3>
+					   <p>If you have a better perspective on any topic, <a href="/post">submit</a> your own. Whether you're a casual reader, a blogger, or a publisher, 
+                                              Veritocracy automatically helps you build traffic and connect with people interested in similar topics.
+                                        <!--<div class="action"><a href="/prefs/#syndicate" onClick="$('#whatIsVeriPop').jqmHide()">Start Publishing Now!</a></div>-->
+                                        </p></div>
+                                    </div>
+                                </div>
+                                <div id="whatIsVeriNav">
+                                    <div id="whatIsVeriOverview" class="selected"><a href="javascript:wiv_gotoSlide('Overview');">Overview</a></div>
+                                    <div id="whatIsVeriPersonalized"><a href="javascript:wiv_gotoSlide('Personalized');">Personalized For You</a></div>
+                                    <div id="whatIsVeriHow"><a href="javascript:wiv_gotoSlide('How');">See a Better Picture</a></div>
+                                    <div id="whatIsVeriAuthors"><a href="javascript:wiv_gotoSlide('Authors');">Publish On Veri</a></div>
+                                </div>
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: What Is Veri Popup -->
+
+<!-- BEGIN: Report Abuse Popup -->
+
+		   <div id="reportAbusePop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#reportAbusePop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">				<div class="popHeading">Report This Article</div>
+				<div class="innerContent">
+					<form>
+						<div class="popSpacer">
+							<div class="inputLabel clear">Reason:</div>
+                                                        <input type="hidden" id="reportAbuseOpinionId" name="reportAbuseIdO" value="0">
+                                                        <input type="hidden" id="reportAbuseTopicId" name="reportAbuseIdT" value="0">
+							<select id="reportAbuseReason">
+                                                                <option value="">Select Reason:</option>
+								<option value="lan">Explicit / Hateful</option>
+								<option value="leg">Legal / Copyright</option>
+								<option value="spm">Spam</option>
+                                <option value="tpc">Wrong Topic</option>
+								<option value="oth">Other</option>
+							</select>
+						</div>
+						<div class="inputLabel clear">Explanation:</div>
+						<textarea rows="5" cols="30" id="reportAbuseMessage"></textarea>
+						<div class="bottomButtons">
+							<input id="submitAbuseBtn" type="button" class="button" value="Submit" onclick="Veri.Article.submitModerationReport();">
+							<input type="button" class="button" value="Cancel" onclick="$('#reportAbusePop').jqmHide();">
+						</div>
+					</form>
+				</div>
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: Report Abuse Popup -->
+
+<!-- BEGIN: Forgot Password Popup -->
+
+		   <div id="forgotPasswordPop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#forgotPasswordPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">	<div class="popHeading">Reset Password</div>
+	<div class="innerContent">
+		<form>
+			<div class="popSpacer">
+				<div class="inputLabel clear">1. Email Address:</div>
+				<input id="fpp_email" type="text">
+			</div>
+                        <div>
+   	   	  	     <div class="inputLabel clear">2. Prove You Are Human:</div>
+                             <div id="fpp_captchaImage" class="captchaContainer">
+                             </div>
+                        </div>
+			<div class="bottomButtons">
+				<input type="button" class="button first" value="Send Password" onclick="fpp_resetPassword();">
+				<input type="button" class="button" value="Cancel" onclick="$('#forgotPasswordPop').jqmHide();">
+			</div>
+		</form>
+	</div>
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: Forgot Password Popup -->
+
+<!-- BEGIN: Kickstart Popup -->
+
+		   <div id="kickstartPop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#kickstartPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">       <div class="popHeading">Kick-Start Personalization</div>
+       <div class="popSubHeading">Help Veri start to learn what you like. Select some categories that interest you.</div>
+       <div class="innerContent" id="kickstart_content">
+           <div class="kickstart_cat">Loading</div>
+           <div class="kickstart_cat_top">Loading</div>
+       </div>
+<div>
+       <div class="bottomContent">
+           <input type="button" onclick="Kickstart.submit();" onmouseover="Kickstart.submitHover(this);" onmouseout="Kickstart.submitHover(this);" class="kickButton" value="Finished">
+       </div>
+</div>  
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: Kickstart Popup -->
+
+
+<!-- BEGIN: Contact Popup -->
+
+		   <div id="contactPop" class="popWindow" style="display: none;">
+                                <div class="closeButton" onclick="$('#contactPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">                                <div class="popHeading">Contact Us</div>
+                                <div class="innerContent">
+                                        <form>
+                                                <div class="popSpacer">
+                                                        <div class="inputLabel clear">Subject:</div>
+                                                        <select id="cup_contactSubject">
+                                                                <option value="syndicate">Syndicate / Publish on Veri</option>
+                                                                <option value="feedback">Feedback</option>
+                                                                <option value="bug">Bug Report</option>
+                                                                <option value="technical">Technical Support</option>
+                                                                <option value="other">Other</option>
+                                                        </select>
+                                                </div>
+                                                <div class="popSpacer">
+                                                        <div class="inputLabel clear">Alternate Email:</div> 
+                                                        <input id="cup_contactEmail" type="text">
+                                                </div>
+
+						<div class="inputLabel clear">Enter A Message:</div>
+                                                <textarea rows="8" cols="50" id="cup_contactMessage"></textarea>
+                                                <div class="bottomButtons">
+                                                        <input type="button" class="button first" value="Send" onclick="cup_submitContact();">
+                                                        <input type="button" class="button" value="Cancel" onclick="$('#contactPop').jqmHide();">
+                                                </div>
+                                        </form>
+                                </div>
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div><!-- END: Contact Popup -->
+
+
+<!-- Begin outer combination login/signup modal window: -->
+
+		   <div id="loginSignupPop" class="popWindow lsp_window" style="display: none;">
+                                <div class="closeButton" onclick="$('#loginSignupPop').jqmHide();">&nbsp;</div>
+				<div class="popupTopWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+				<div class="popupMiddleWrap">
+					<div class="popupBorder side"></div>
+					<div class="popupBorder side right"></div>
+					<div class="popupContent">
+						<div class="contentWrap">				<!-- Begin modal window login box: -->
+				<div id="loginOld" class="login_pane">
+					<div class="popHeading">Login</div>
+					<div class="popSubHeading">Existing users login to<br>Veritocracy below.</div>
+					<form name="login" action="javascript:void(0);" onsubmit="lsp_doLogin();">
+					<div class="field_wrap">
+						<span class="inputLabel">Email Address</span><span class="smaller"> (or Name)</span><br>
+						<input class="text_input old" maxlength="50" type="text" id="lsp_loginUsername" value="">
+					</div>
+					<div class="field_wrap">
+						<span class="inputLabel">Password</span><br>
+                                                <div>
+						    <input class="text_input old" type="password" id="lsp_loginPassword" value="">
+                                                </div>
+						<div id="lsp_forgot_password" class="hint"><a href="javascript:void(0);" onclick="lsp_forgotPassword();">forgot your password?</a></div>
+					</div>
+                                        <div class="field_wrap remember_me">
+                                                <span class="inputLabel">Remember Me?</span><input type="checkbox" id="lsp_loginRememberme" checked="1">
+                                        </div>
+					<input type="submit" id="lsp_loginSubmit" class="submit" value="Login">
+					</form>
+				</div>
+				<!-- End modal window login box. -->
+
+				<!-- Begin modal window signup box: -->
+				<div id="loginNew" class="login_pane">
+							<p class="popHeading">New Users</p>
+							<div class="popSubHeading">
+                	                                	Create an account so Veritocracy can personalize itself to you.
+							</div>
+							<form action="javascript:void(0);" onsubmit="lsp_processSignup()">
+                                                        <div class="field_wrap">
+                                                                <span class="inputLabel">Name</span><br>
+                                                                         <input class="text_input" maxlength="20" type="text" id="lsp_username" onchange="lsp_verifyField(this.id);">
+                                                                <div id="lsp_username_error" class="error"></div>
+                                                        </div>
+							<div class="field_wrap">
+								<span class="inputLabel">Email Address</span><br>
+									<input class="text_input" maxlength="50" type="text" id="lsp_email" onchange="lsp_verifyField(this.id);">
+								<div id="lsp_email_error" class="error"></div>
+							</div>
+							<div class="field_wrap">
+								<span class="inputLabel">Password</span><br>
+								<input class="text_input" type="password" id="lsp_password" onchange="lsp_verifyField(this.id);">
+								<div id="lsp_password_error" class="error"></div>
+								</div>
+							<div>
+								<div class="inputLabel">
+									Prove You Are Human
+								</div>
+								<div>
+									<div id="lsp_captchaImage" class="captchaContainer">
+									</div>
+								</div>
+							</div>
+						 	<div id="lsp_submit" class="submit big" onclick="document.getElementById(&quot;fakeSubmit&quot;).click();">
+								 Create Account &amp; Login
+							</div>
+							<input type="submit" style="display:none" id="fakeSubmit">
+							</form>
+						</div>
+
+
+						</div>
+					</div>
+				</div>
+				<div class="popupBottomWrap">
+					<div class="popupBorder">&nbsp;</div>
+					<div class="popupBorder middle">&nbsp;</div>
+					<div class="popupBorder right">&nbsp;</div>
+				</div>
+			</div>				<!-- End modal window signup box. -->
+<!-- End out combination login/signup modal window: -->
+
+<div id="alert" class="homeWrap">
+  <div id="alertUser">
+		&nbsp;
+	</div>
+	</div>
+<div id="content" class="text"><h2>Privacy Policy</h2>
+
+<div id="bodyText" class="wrapper">
+
+<div class="padder">
+
+<p>Veritocracy allows you to find the best analysis and opinions an any topic, specifically for you. In using the site, you may post content, vote on content, connect with other users, or share personal information. Please read the following to learn more about our Privacy Policy. By actively using the site, you are accepting the practices outlined in this Privacy Policy.</p>
+
+<h3>What Information Does Veritocracy Collect?</h3>
+<p>Veritocracy only collects information with your specific knowledge and consent. At sign up, you are asked to supply a contact e-mail address, a display name, and a password. As a user of the site, you are able to share original opinions or post links to third party sites, vote on the articles you like or dislike, and create a profile that includes some personal information. </p>
+<p>Our servers may also automatically collect information about your computer when you visit the site, including the type of browser you are using, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company, or your university.</p>
+
+<h3>Creative Commons</h3>
+<p>All opinions and links posted, as well as all content syndicated via feeds on Veritocracy are dedicated to the Public Domain via Creative Commons. For more information, visit the <a href="http://creativecommons.org/licenses/publicdomain/" target="_blank">Creative Commons website</a>.</p>
+
+<h3>Cookies</h3>
+<p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Veritocracy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your display name or e-mail address is.</p>
+<p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave cookies activated in order for the Veritocracy web site and login system to function optimally.</p>
+<p>Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.</p>
+
+<h3>Information Security and Notification</h3>
+<p>Your account information on Veritocracy is protected by a password for your privacy and security. Also, Veritocracy will never provide your email address to a third party without your explicit permission, nor will we send you e-mails other than to notify you about activity on your account or specific events and system updates regarding the Veritocracy service. However, because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Veritocracy can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the site you agree to assume all risk in connection with the information sent to us or collected by us when you use the site. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may e-mail you at the address you have supplied for your account.</p>
+
+<h3>Children</h3>
+<p>Veritocracy is not intended for use by children under the age of 13. Any minor under the age of 13 will have his or her account terminated. Children between the ages of 13 and 17 must have parental permission before creating an account, posting content, voting on content, or entering any personal information on the site. Anyone who creates an account and/or discloses personal information about themselves are eligible to receive messages from other parties. For more information, please <a href="javascript:void(0);" onclick="$('#contactPop').jqmShow()">contact our administrators</a>.</p>
+
+<h3>Links</h3>
+<p>Veritocracy features links to many other Web sites. These links are provided for purely for your convenience, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. If you have concerns over any of these third party sites, please read their privacy policies before providing them with personal information.</p>
+
+<h3>Changes to this Privacy Policy</h3>
+<p>Veritocracy may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Veritocracy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+
+<h3>Conditions of Use</h3>
+<p>If you decide to visit the Veritocracy website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of New York state law.</p>
+
+<h3>Effective Date of this Privacy Policy</h3>
+<p>This Privacy Policy is effective as of May 1, 2008. Any amendments will be noted on the Veritocracy website.</p>
+
+<h3>Contact</h3>
+<p>For specific questions about this Privacy Policy, please <a href="javascript:void(0);" onclick="$('#contactPop').jqmShow()">contact us</a>.</p>
+
+</div>
+
+</div></div><!-- Global Footer (Horizontal line and Veritocracy text) -->
+	<div id="footer">
+		<ul>
+                        <li class="blog"><a href="/users/veritocracy/">News / Blog</a>|</li>
+                        <li class="twitter"><a href="http://www.twitter.com/veritocracy" target="_blank">Twitter</a>|</li>
+			<li class="contact"><a href="javascript:void(0);" onclick="$('#contactPop').jqmShow()">Contact</a>|</li>
+			<li class="copyright"><a href="/legal/tos/">Terms of Service</a>|</li>
+			<li class="privacy"><a href="/legal/privacy/">Privacy</a>|</li>
+                        <li class="syndicateBlog"><a href="/prefs/#syndicationQueue">Syndicate Your Content</a></li>
+		</ul>
+                <p><strong>© Veritocracy, LLC 2009</strong>   -   Topic information, headlines, vote counts, link lists, numerical summaries, ranks and other "aggregate / metadata information" is licensed under a <a href="http://creativecommons.org/licenses/publicdomain/" target="_blank">Creative Commons Public Domain License</a>. Article contents are copyright their respective owners. Veritocracy, Veri.com, logos, images and graphics are the trademark of Veritocracy, LLC.</p>
+		<p class="last">This web application was designed, built, and nurtured by the fine people at <a href="/consulting/">Veritocracy Consulting</a>.</p>
+	</div><!-- footer -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+  var pageTracker = _gat._getTracker("UA-4436127-1");
+  pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script language="Javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+
+<!-- SERVER STATUS: OK -->
+
+
+
+
+</div></body></html>
