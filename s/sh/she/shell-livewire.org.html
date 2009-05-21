@@ -1,0 +1,618 @@
+<!--The following is the downloaded HTML source of the shell-livewire.org privacy policy that was archived on 2009-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090521205525id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-gb"><head>
+  <title>Home - Privacy Policy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <link rel="stylesheet" href="/styles/reset-fonts.css" type="text/css">
+  <link rel="stylesheet" href="/styles/default.css" type="text/css">
+      <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css" /><![endif]-->
+  <script type="text/javascript" src="/javascript/swfobject.js"></script>
+  <script type="text/javascript" src="/javascript/jquery.js"></script>
+  <script type="text/javascript" src="/common/shadowbox/build/adapter/shadowbox-jquery.js"></script>
+  <script type="text/javascript" src="/common/shadowbox/build/shadowbox.js"></script>
+  
+    <script type="text/javascript" src="/javascript/interface-custom.js"></script>
+  <script type="text/javascript" src="/javascript/ui.core.js"></script>
+  <script type="text/javascript" src="/javascript/ui.tabs.min.js"></script>
+    <script type="text/javascript" src="/javascript/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="/javascript/jquery.flow.1.2.min.js"></script>
+  <script type="text/javascript" src="/javascript/pause.js"></script>
+  <script type="text/javascript" src="/javascript/functions.js"></script>
+  <script type="text/javascript" src="/javascript/iepngfix_tilebg.js"></script>
+  
+
+
+  <script type="text/javascript">                                         
+
+$(document).ready(function() {
+
+  // advert toggle
+  $("#footer_adverts_toggle").click(function() {
+   if ($("#footer_adverts").css("display") == "block") {
+    $("#footer_adverts").animate({height:"hide",opacity:"hide"},"slow");
+    $.get("/process.php",{action:"adtoggle",option:"hide"});
+    $("#footer_adverts_toggle").attr({value:"Open Ads"});
+   } else {
+    $("#footer_adverts").animate({height:"show",opacity:"show"},"slow");
+    $.get("/process.php",{action:"adtoggle",option:"show"});
+    $("#footer_adverts_toggle").attr({value:"Close Ads"});
+   }
+   return false;
+  });
+
+  // hide page editor save button (present to allow for non-javascript users)
+  $("#footer_editor_save_container").hide();
+  $("#feed_editor").hide();
+  $("#bop_editor").hide();
+  
+  $("#footer_editor_amend").click(function() {
+   $("#footer_editor_save").click();
+   return false;
+  });
+  
+  // page editor toggle
+  $("#footer_editor_toggle").click(function() {
+   if ($("#footer_editor").css("display") == "block") {
+    $("#footer_editor").animate({height:"hide",opacity:"hide"},"slow");
+    $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
+    $.get("/process.php",{action:'editortoggle',option:"hide"});
+   } else {
+    $("#footer_editor").animate({height:"show",opacity:"show"},"slow");
+    $("#footer_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
+    $.get("/process.php",{action:"editortoggle",option:"show"});
+   }
+   return false;
+  });
+
+  // page editor close
+  $("#footer_editor_close").click(function() {
+   $("#footer_editor").animate({height:"hide",opacity:"hide"},"slow");
+   $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
+   $.get("/process.php",{action:'editortoggle',option:"hide"});
+   return false;
+  });
+  
+  // feed editor toggle
+  $("#feed_editor_toggle").click(function() {
+   if ($("#feed_editor").css("display") == "block") {
+    $("#feed_editor").animate({height:"hide",opacity:"hide"},"slow");
+    $("#feed_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
+   } else {
+    $("#feed_editor").animate({height:"show",opacity:"show"},"slow");
+    $("#feed_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
+   }
+   return false;
+  });
+  
+  // feed editor toggle
+  $("#bop_editor_toggle").click(function() {
+   if ($("#bop_editor").css("display") == "block") {
+    $("#bop_editor").animate({height:"hide",opacity:"hide"},"slow");
+    $("#bop_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
+   } else {
+    $("#bop_editor").animate({height:"show",opacity:"show"},"slow");
+    $("#bop_editor_toggle_container").animate({height:"hide",opacity:"hide"},"fast");
+   }
+   return false;
+  });
+  
+    // feed editor close
+  $("#feed_editor_close").click(function() {
+   $("#feed_editor").animate({height:"hide",opacity:"hide"},"slow");
+   $("#footer_editor_toggle_container").animate({height:"show",opacity:"show"},"fast");
+   return false;
+  });
+  
+  // bop editor close
+  $("#bop_editor_close").click(function() {
+   $("#bop_editor").animate({height:"hide",opacity:"hide"},"slow");
+   return false;
+  });
+
+  // sublinks toggle
+  $("a.sublinks_list_item_link").bind("mouseenter mouseleave", function (e) {
+   var targetID = this.parentNode.id;
+   $(".sublinks_main").hide();
+   $("#"+targetID+"_main").show();
+   $(".sublinks_list_item").removeClass('sublinks_list_item_alt');
+   $("#"+targetID).addClass('sublinks_list_item_alt');
+  });
+
+  // mypage widget movement
+  $('div.sortable_column').Sortable({
+   accept: 'narrow_content_box',
+   helperclass: 'sort_helper',
+   handle: 'div.narrow_content_box_header',
+   tolerance: 'pointer',
+   onChange: function(ser) {},
+   onStart: function() { $.iAutoscroller.start(this, document.getElementsByTagName('body')); },
+   onStop : function() { $.iAutoscroller.stop(); serial = $.SortSerialize(); $.get("/process.php",{action:"widgetpos",option:serial.hash}); }
+  });
+
+  // mypage widget toggle
+  $('span.narrow_content_box_visibility').bind('click', function(e) {
+   var targetContent = $('div.narrow_content_box_body', this.parentNode.parentNode.parentNode);
+   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
+  });
+  
+  // mypage widget toggle
+  $('span.wide_content_box_visibility').bind('click', function(e) {
+   var targetContent = $('div.wide_content_box_panel_body', this.parentNode.parentNode.parentNode);
+   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
+  });
+  
+  // mypage widget toggle
+  $('span.nsw_wide_content_box_visibility').bind('click', function(e) {
+   var targetContent = $('div.nsw_wide_content_box_panel_body', this.parentNode.parentNode.parentNode);
+   if (targetContent.css('display') == 'none') { targetContent.slideDown(300); } else { targetContent.slideUp(300); }
+  });
+  
+  $('.news_listing_thumbnail').cycle({
+   fx: 'fade', 
+   speed: 'slow',
+   delay: -1000
+  });
+  
+  $('.news_item_thumbnail_image').cycle({
+   fx: 'fade', 
+   speed: 'slow',
+   delay: -1000,
+   pager: '.news_item_thumbnail_paging',
+   pagerEvent: 'mouseover',
+   pauseOnPagerHover: true
+  });
+
+  $("#widgetNewsController").jFlow({
+   slides: "#widgetNewsSlides",
+   controller: ".jFlowControl",
+   slideWrapper: "#jFlowSlide1",
+   width: "99%",
+   height: "85px",
+   duration: 400,
+   prev: ".widgetNewsPrev",
+   next: ".widgetNewsNext"
+  });
+  
+  $("#widgetInspirationController").jFlow({
+   slides: "#widgetInspirationSlides",
+   controller: ".jFlowControl4",
+   slideWrapper: "#jFlowSlide4",
+   width: "99%",
+   height: "95px",
+   duration: 400,
+   prev: ".widgetInspirationPrev",
+   next: ".widgetInspirationNext"
+  });
+  
+  
+  
+  $("#widgetFeedController").jFlow({
+   slides: "#widgetFeedSlides",
+   controller: ".jFlowControl2",
+   slideWrapper: "#jFlowSlide2",
+   width: "99%",
+   height: "105px",
+   duration: 400,
+   prev: ".widgetFeedPrev",
+   next: ".widgetFeedNext"
+  });
+  
+  $("#widgetBlogsController").jFlow({
+   slides: "#widgetBlogsSlides",
+   controller: ".jFlowControl3",
+   slideWrapper: "#jFlowSlide3",
+   width: "99%",
+   height: "105px",
+   duration: 400,
+   prev: ".widgetBlogsPrev",
+   next: ".widgetBlogsNext"
+  });
+  
+  // bop toggle
+  $(".bop-panel .bop-list p").bind("mouseenter mouseleave", function (e) {
+   var targetID = this.id;
+   $(".bop-main").hide();
+   $("#"+targetID+"_main").css("height",$(".bop-list").height()+5+"px").show();
+   $(".bop-panel .bop-list p").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  // bop toggle
+  $(".tools-list p").bind("mouseenter mouseleave", function (e) {
+   var targetID = this.id;
+   $(".tool-main").hide();
+   $("#"+targetID+"_main").show();
+   $(".tools-list p").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  // business kit tab toggle  
+  $("#mybuskit-tabs li").bind("click", function (e) {
+   var targetID = this.id;
+   $(".mybuskit-panel").hide();
+   $("#"+targetID+"_main").show();
+   $("#mybuskit-tabs li").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  // business kit awards tab toggle  
+  $("#awards-tabs li").bind("click", function (e) {
+   var targetID = this.id;
+   $(".mybuskit-awards-panel").hide();
+   $("#"+targetID+"_main").show();
+   $("#awards-tabs li").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  // related info tab toggle  
+  $("#relinfo-tabs li").bind("click", function (e) {
+   var targetID = this.id;
+   $(".relinfo-panel").hide();
+   $("#"+targetID+"_main").show();
+   $("#relinfo-tabs li").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  // homepage tab toggle  
+  $("#intro-tabs li").bind("click", function (e) {
+   var targetID = this.id;
+   $(".intro_container").hide();
+   $("#"+targetID+"_main").show();
+   $("#intro-tabs li").removeClass();
+   $("#"+targetID).addClass('active');
+  });
+  
+  $("#viewFavourites").bind("click", function (e) {
+  	$("#quickFavourites").toggle();
+  });
+  
+  $(".bop-main").css("height",$(".bop-list").height()+5+"px");
+  
+  $(".helpicon img").bind("click", function() {
+		showHelpPanel(this.id);
+    });
+
+});
+		
+  </script>
+ </head>
+ <body>
+  <div id="layout">
+   <div id="page_header">
+    <h1><a href="/" id="header_logo" title="Link to Shell LiveWIRE's Homepage"></a></h1>
+    <div id="header_other_livewire_link">
+          <a href="http://www.shell-livewire.com" target="_blank">Shell LiveWIRE International</a>
+    </div>
+    <div id="header_search_bar">
+     <form action="/search/" method="get">
+      <div class="link_button_dark_submit link_button_dark_submit_right no_wrap"><div class="link_button_dark_left"></div><input type="submit" name="continue" value="Go" class="link_button_dark_submit_text link_button_dark_submit_text_small"><div class="link_button_dark_right"></div></div>
+      <input type="text" id="search_bar_keywords" name="keywords" value="">
+      <label id="search_bar_label" for="search_bar_keywords">Search</label>
+      <a href="#" id="increase_font_size" title="increase font size" onclick="fontSizer('big');"></a>
+      <div id="search_bar_resize_font"></div>
+      <a href="#" id="decrease_font_size" title="decrease font size" onclick="fontSizer('mid');"></a>
+     </form>
+    </div>
+    <div id="header_menu_bar">
+           <ul>
+       <li><a href="/" id="header_menu_bar_first">Home</a></li>
+               <li><a href="/news/">News</a></li>
+               <li><a href="/my-business-kit/">My Business Kit</a></li>
+               <li><a href="/community/">Community</a></li>
+               <li><a href="/promote-yourself/">Promote Yourself</a></li>
+               <li><a href="/business-library/">Business Library</a></li>
+               <li><a href="/awards/">Awards</a></li>
+               <li><a href="/inspiration/">Inspiration</a></li>
+               <li><a href="/video-lounge/">Video Lounge</a></li>
+             </ul>
+          <div class="clear_floats"></div>
+    </div>
+   </div>
+   <div id="page_body">
+         <div id="body_breadcrumb"><a href="/">Home</a> | <a href="/">Privacy Policy</a></div>
+	         <div id="help-panel">
+	<p id="help-close"><a href="#" onclick="hideHelpPanel();">close</a></p>
+	<div id="tab">
+		<p id="help-title">&nbsp;</p>
+		<p id="help-instructions">&nbsp;</p>
+	</div>
+</div>
+
+
+	<script type="text/javascript">
+		$(".successAlert").pause(5000).fadeOut("slow");
+	</script>
+
+
+    <div id="body_main">
+     <div class="wide_content_box">
+      <div class="content_box_padding">
+       <h2>Privacy Policy</h2>
+       <p>We respect the privacy of everyone who visits this site. Please read our Privacy Policy carefully so that you can understand how we collect and use the personal information that you provide to us.</p>
+<p>By submitting your personal data to us, you will be treated as having given your permission for disclosures referred to in this policy.</p>
+<p><strong>What does this privacy policy cover?</strong></p>
+<p>This privacy policy covers our use of your personal information, which is collected through or in connection with this site. For the purposes of this policy, "this site" means the www.shell-livewire.org web site, which links to other Shell web sites. Other Shell web sites may contain privacy policies, which are different from this privacy policy. This privacy policy relates to the www.shell-livewire.org web site. On your journey around the Shell web sites please check the privacy policy of each web site, which you visit and do not assume that this privacy policy applies to all Shell web sites.</p>
+<p><strong>Who is responsible for the personal information collected on this site?</strong></p>
+<p>Shell International Limited controls the personal data collected on this site. The data is collected and stored by The PNE Group who are acting as agents for Shell International Limited, The PNE Group will not make any use of the data other than in ways prescribed by Shell International Limited and any such use will be in accordance with this privacy policy.</p>
+<p><strong>Information collection and use</strong></p>
+<p>We collect and use personal information (including name, address, telephone number and email) in order to: </p>
+<ul>
+<li>respond to queries or requests submitted by you </li>
+<li>process applications submitted by you </li>
+<li>administer or otherwise carry out our obligations in relation to any agreement you have with us </li>
+<li>send news and updates via email, if you have positively consented to this service </li></ul>
+<p>As part of the services offered to you through our site, the information you provide to us may be transferred to countries outside of the European Economic Area ("EEA"). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.</p>
+<p>Shell also collects data when visitors respond to surveys or promotional activities on our website. This information is used solely to administer the survey or promotion. Except as set out in this privacy policy, we will not disclose any personally identifiable information without your permission unless we are legally entitled or required to do so (for example, if required to do so by legal process or for the purposes of prevention of fraud or other crime) or if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of our users/customers etc. </p>
+<p><strong>Use of your information by affiliates</strong></p>
+<p>This site and the services offered on this site may be transferred to one of our affiliated companies in the future either as part of a group restructuring or otherwise. We may therefore transfer your personal information to any affiliated company that in the future owns or operates this site or the services available on this site but such company shall use your personal information in accordance with this privacy policy at all times.</p>
+<p><strong>Collection of non-personal information</strong></p>
+<p>We may automatically collect non-personal information about you such as the type of internet browsers you use or the web site from which you linked to our site. We may also aggregate details, which you have submitted to the site (for example, your age and the town where you live). You cannot be identified from this information and it is only used to assist us in providing an effective service on this web site. We may from time to time supply third parties with this non-personal or aggregated data for uses in connection with this site.</p>
+<p><strong>The use of cookies</strong></p>
+<p>We may store some information (commonly known as a "cookie") on your computer when you look at our site. We are able to read these cookies for information purposes when you revisit our web site. The type of information we collect as a result of a cookie being accepted by you is specific to your PC and includes the IP address, the date and time the PC visited the web site, what parts of our web site were looked at and whether the web pages requested were delivered successfully. This information is anonymous; it represents a computer rather than a person.We use the cookie information to improve our knowledge of the use of our web site and to enable us to be able to ascertain whether the web site is operating at an optimal level. This allows us to enhance our web offerings to you and to provide an enjoyable and an innovative online experience. <br>
+You can erase or block this information by changing the settings on your computer (please refer to your help screens or manuals). If you do erase or block this information you may not be able to utilise some features of the site.</p>
+<p><strong>Chat rooms, notice boards, newsgroups </strong></p>
+<p>If at any time this site offers any chat rooms, notice board facilities, newsgroups, etc, we may collect the information that you disclose. Such information will be used in accordance with this privacy policy. Please note that we cannot be responsible for other parties' use of the personal information, which you make available to such third parties through any chat room, notice board, newsgroup, etc, on this site. Please be careful about what personal information you disclose in this way.</p>
+<p><strong>Keeping our records accurate</strong></p>
+<p>We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below.</p>
+<p><strong>Security of your personal data</strong></p>
+<p>We have implemented technology and policies with the objective of protecting your privacy from unauthorised access and improper use and will update these measures as new technology becomes available, as appropriate.</p>
+<p><strong>Use of your personal information submitted to other web sites</strong></p>
+<p>We cannot be responsible for the privacy policies and practices of other web sites even if: </p>
+<ul>
+<li>you accessed the third party web site using links from our web site; or </li>
+<li>you linked to our web site from a third party web site. </li></ul>
+<p>We recommend that you check the policy of each site you visit and contact the owner or operator of such web site if you have any concerns or questions.</p>
+<p><strong>Will this privacy policy change?</strong></p>
+<p>From time to time we may make changes to this privacy policy. If we make any substantial changes to this privacy policy and the way in which we use your personal data we will post these changes on this page and will do our best to notify you of any significant changes. Please check our privacy policy on a regular basis.</p>
+<p><strong>How you can contact us</strong></p>
+<p>If at any time you would like to contact us about our privacy policy, you can do so by emailing us at:</p>
+<p>&nbsp;<br>
+<a href="mailto:enquiries@shellspringboard.org">&nbsp;<u>enquiries@shell-livewire.org</u> </a></p>
+              <div class="clear_floats"></div>
+      </div>
+      
+            <div class="article-tags">
+      	 &nbsp; <a href="/search/?tag=privacy policy">privacy policy</a>
+      </div>
+            
+            <div class="nsw_wide_content_box_panel">
+	     <div class="nsw_wide_content_box_header">
+			  <label><span class="nsw_wide_content_box_visibility">&nbsp;</span> <strong>Related Information</strong></label>
+		 </div>
+		 <div class="nsw_wide_content_box_panel_body">	
+		 	<ul id="relinfo-tabs">        	
+	        	<li id="relinfo-tabs3" class="active">Websites (0)</li>
+				<li id="relinfo-tabs2">Discussions (10)</li>
+				<li id="relinfo-tabs1">Tools (0)</li>
+	        	<li id="relinfo-tabs4">Downloads (0)</li>
+	        </ul>
+	        <div id="relinfo-tabs1_main" class="relinfo-panel" style="display:none;">
+	        				<p class="myRelItems" style="padding:10px;">Sorry, no tools found.</p>
+						</div>
+	        <div id="relinfo-tabs2_main" class="relinfo-panel" style="display:none;">
+								<ul class="myRelItems">
+								<li><a href="/forums/showthread.php?threadid=22809">Shell LiveWIRE Livechat on 'Business Planning' w/ Kerry Dixon, Barclays (23rd April)</a></li>
+								<li><a href="/forums/showthread.php?threadid=22785">Setting up a web forum</a></li>
+								<li><a href="/forums/showthread.php?threadid=22500">Business start-up loans and the credit crunch?</a></li>
+								<li><a href="/forums/showthread.php?threadid=22566">2008 – 2009 Recession, the end and future vision within the UK &amp; EU initially.</a></li>
+								<li><a href="/forums/showthread.php?threadid=22474">New web business</a></li>
+								<li><a href="/forums/showthread.php?threadid=22472">Terms of business</a></li>
+								<li><a href="/forums/showthread.php?threadid=22454">Is this a good Idea - feedback welcomed</a></li>
+								<li><a href="/forums/showthread.php?threadid=22379">How to keep a business carbon neutral?</a></li>
+								<li><a href="/forums/showthread.php?threadid=22337">P I Insurance</a></li>
+								<li><a href="/forums/showthread.php?threadid=22195">Can't decice which way to go</a></li>
+								</ul>
+							</div>
+	        <div id="relinfo-tabs3_main" class="relinfo-panel">
+								<p class="myRelItems" style="padding:10px;">Sorry, no websites found.</p>
+							</div>
+	        <div id="relinfo-tabs4_main" class="relinfo-panel" style="display:none;">
+								<p class="myRelItems" style="padding:10px;">Sorry, no downloads found.</p>
+							</div>
+		 </div>
+	  </div>
+	        
+           </div>
+    </div>
+    <div id="body_side">
+     <div class="narrow_content_box">
+             <div class="side_image">
+		
+				<img src="/store/1225983855.280LID0.jpg" alt="Shell LiveWIRE" title="Shell LiveWIRE">
+			</div>
+                         
+
+<div class="narrow_content_box" id="find">
+ <div class="narrow_content_box_header">
+  <label><span class="narrow_content_box_visibility" title="open / close">&nbsp;</span> Can't Find </label><span class="helpicon"><img src="/images/layout/body/help.png" alt="help" id="help_find"></span>
+ </div>
+ <div class="narrow_content_box_body">
+  <div class="widget_container"><div class="widget_padding">
+Can't find what you are looking for? Try using the search, discussion forum, social network or<br><br>
+<a href="/contact/" class="widget_more">Email Shell LiveWIRE &gt;</a>
+</div>
+   <div class="clear_floats"></div>
+  </div>
+ </div>
+</div>
+           </div>
+    </div>
+       
+    <div class="clear_floats"></div>
+   </div>
+   <div id="page_footer">
+    <div id="footer_header">
+     <div id="footer_random_block">&nbsp;</div>
+     <a href="http://www.shell.com" target="_blank" id="footer_provided_by" title="Shell LiveWIRE is a Social Investment Programme"></a>
+    </div>
+    <div id="footer_controls">
+     <form action="/process.php" method="get">
+      <input type="hidden" name="action" value="adtoggle">
+      <input type="hidden" name="option" value="show">
+      <input type="hidden" name="origin" value="http://www.shell-livewire.org/privacy/">
+      <div class="link_button_submit link_button_submit_right no_wrap"><div class="link_button_left"></div><input type="submit" name="continue" value="Open Ads" id="footer_adverts_toggle" class="link_button_submit_text link_button_submit_text_wide"><div class="link_button_right"></div></div>
+     </form>
+          
+    </div>
+         <div id="footer_adverts" style="display: none;">
+  <div id="footer_adverts_container">
+       <div class="footer_advert_item"><a href="/video-lounge/"><img src="/store/1229697686.408LID0.jpg" alt="Video Lounge Banner Ad" title="Video Lounge Banner Ad"></a></div>
+       <div class="footer_advert_item"><a href="/inspiration/"><img src="/store/1229697626.259LID0.jpg" alt="Inspiration Banner Ad" title="Inspiration Banner Ad"></a></div>
+       <div class="footer_advert_item"><a href="/community/"><img src="/store/1229697671.822LID0.jpg" alt="Community Banner Ad" title="Community Banner Ad"></a></div>
+       <div class="footer_advert_item"><a href="/my-business-kit/"><img src="/store/1229697657.770LID0.jpg" alt="My Business Kit Banner Ad" title="My Business Kit Banner Ad"></a></div>
+      <div class="clear_floats"></div>
+  </div>
+  <div class="clear_floats"></div>
+ </div>
+    <div id="footer_body">
+     <div id="footer_content">
+      <h4><strong>Shell LiveWIRE UK</strong> / Community</h4>
+      <ul id="footer_panels">
+       <li class="footer_panel" id="footer_panel1">
+        <h5><a href="/network/">Social Network</a></h5>
+        <ul>
+         <li>
+          Members : 96828 members
+         </li>
+        <li>
+          Friends : 2871 friends
+         </li>
+         <li>
+          Comments : 1025 comments
+         </li>
+        </ul>
+       </li>
+       <li class="footer_panel" id="footer_panel2">
+        <h5><a href="/forums/showthread.php?threadid=22888#post141014">Discussion Forum Posts</a></h5>
+        <ul>
+         		 <li>
+          <a href="/forums/showthread.php?threadid=22888#post141014">Simple 3 page website needed</a> / <a href="/forums/showthread.php?threadid=22888#post141014">May. 21, 2009 9:53 PM</a>
+          <p class="footer-text">Hi FlickMee,
+
+Welcome to the forum - I'm<br>a 'new oldie' (used to use the forum wh... <a href="/forums/showthread.php?threadid=22888#post141014">more&gt;</a></p>
+         </li>
+         		 <li>
+          <a href="/forums/showthread.php?threadid=22869#post141013">Creating a wesbite - What &amp; who do I need?</a> / <a href="/forums/showthread.php?threadid=22869#post141013">May. 21, 2009 9:48 PM</a>
+          <p class="footer-text">There are various SEO mods that you can<br>install into Joomla to help improve your... <a href="/forums/showthread.php?threadid=22869#post141013">more&gt;</a></p>
+         </li>
+                 </ul>
+       </li>
+       <li class="footer_panel" id="footer_panel3">
+        <h5><a href="/network/funkipixi/blog/404/">Latest Blogs</a></h5>
+        <ul>
+        
+         		 <li>
+          <a href="/network/funkipixi/blog/404/">http://www.funkipixi.co.uk</a> / <a href="/network/funkipixi/blog/404/">May. 21, 2009 11:42 AM</a>
+          <p class="footer-text">Hi every one I&nbsp; just joined this<br>exciting Blog ....and Id like to let you<br>k... <a href="/network/funkipixi/blog/404/">more&gt;</a></p>
+         </li>
+         		 <li>
+          <a href="/network/Lord Lancaster/blog/403/">April 'Grand Ideas' Award videos announced!</a> / <a href="/network/Lord Lancaster/blog/403/">May. 20, 2009 2:38 PM</a>
+          <p class="footer-text">It's that time again...! We have 8<br>fantastic new business ideas up for the ... <a href="/network/Lord Lancaster/blog/403/">more&gt;</a></p>
+         </li>
+                 </ul>
+       </li>
+       <li class="footer_panel" id="footer_panel4">
+        <h5><a href="http://www.shell-livewire.org/network/Jarvooo/">Member of the Month</a></h5>
+        		<ul>
+         <li id="footer_motm_thumb">
+          <a href="http://www.shell-livewire.org/network/Jarvooo/"><img src="/store/1236070545.221LID0.jpg" title="Jarvooo" alt="Jarvooo" width="58"></a>
+         </li>
+         <li id="footer_motm_text">
+          <a href="http://www.shell-livewire.org/network/Jarvooo/" class="footer_listing_header">Jarvooo</a>
+          <p>Jarvooo (Colin Jarvis) runs a professional web and graphic design company based in Manchester specialising in branding, print design, web design, new media design and marketing strategy.</p>
+	  <p><a href="http://www.shell-livewire.org/network/Jarvooo/">more&gt;</a></p>
+         </li>
+        </ul>
+               </li>
+      </ul>
+      <div class="clear_floats"></div>
+     </div>
+    </div>
+    <div id="footer_base">
+     <div id="footer_copyright">
+      Copyright 2009
+     </div>
+     <div id="footer_links">
+      <ul>
+       <li><a href="/about/">About</a></li>
+       <li><a href="/contact/">Contact</a></li>
+       <li><a href="/terms/">Terms and Conditions</a></li>
+       <li><a href="/privacy/">Privacy Policy</a></li>
+       <li><a href="/site-map/">Site Map</a></li>
+       <li id="footer_last_link"><a href="http://www.indigomultimedia.com/" target="_blank">Web Design by Indigo</a></li>
+      </ul>
+     </div>
+     <div class="clear_floats"></div>
+    </div>
+    <div class="clear_floats"></div>
+   </div>
+  </div>
+  
+	<map id="mapbuskit"><area shape="RECT" coords="475,226,584,250" href="/my-business-kit/"></map>
+	<map id="mapinspiration"><area shape="RECT" coords="477,207,585,232" href="/inspiration/"></map>
+	<map id="mapcommunity"><area shape="RECT" coords="434,216,585,240" href="/community/"></map>
+	<map id="mapcompetition"><area shape="RECT" coords="334,215,468,240" href="/competitions/"></map>
+	<map id="mapvidlounge"><area shape="RECT" coords="475,223,585,249" href="/video-lounge/"></map>
+
+ 
+
+ <!-- BEGIN WEBSIDESTORY CODE v3.0.0 (pro)-->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+<script language="javascript">
+var _pn="++Privacy+Policy"; 	//page name(s)
+var _mlc="CONTENT+CATEGORY";	//multi-level content category
+var _cp="null"; 	//campaign
+var _acct="WE5003237HAD19EN3"; 	//account number(s)
+var _pndef="title";	//default page name
+var _ctdef="full"; 	//default content category
+var _prc="";	//commerce price
+var _oid="";	//commerce order
+var _dlf="";	//download filter
+var _elf="";	//exit link filter
+var _epg=""; 	//event page identifier
+var _mn="wp110"; //machine name
+var _gn="phg.hitbox.com"; //gateway name
+
+var _hcv=68;function _wn(n){return((n.indexOf("NAME")>0&&n.indexOf("PUT")>-1)||
+(n.indexOf("CONTENT")>-1&&n.indexOf("CATEGORY")>0))};function _gd(x,w){var _ed=
+x.lastIndexOf("/");var _be=(w!="full")?x.lastIndexOf("/",_ed-2):x.indexOf("/");
+return(_be==_ed)?"/":x.substring(_be,_ed);};function _gf(x){return x.substring(
+x.lastIndexOf("/")+1,x.length);};var _hl=location;var _lp=_hl.protocol.indexOf(
+'https')>-1?'https://':'http://';var _zo=(new Date()).getTimezoneOffset();
+function _ps(_ip,_pml){return(_ip&&_wn(_pml))?((_pndef=="title"&&
+document.title!="")?document.title:_gf(_hl.pathname)?_gf(_hl.pathname):_pndef):
+(_wn(_pml)?_gd(_hl.pathname,_ctdef):_pml)};function _pm(m,_fml,h){if(m.indexOf(
+";")!=-1){_nml=m.substring(0,m.indexOf(";"));_rm=m.substring(m.indexOf(";")+1,
+m.length);_fml+=_ps(h,_nml)+";";return _pm(_rm,_fml,h);}else{return _fml+_ps(h,
+m);}};var _sv=10;var _hn=navigator;var _bn=_hn.appName;if(_bn.substring(0,9)==
+"Microsoft"){_bn="MSIE";};var _bv=(Math.round(parseFloat(_hn.appVersion)*100));
+if((_bn=="MSIE")&&(parseInt(_bv)==2))_bv=301;function _ex(v){return escape(v)};
+var _rf=_ex(document.referrer);_mlc=_pm(_mlc,"",0);_pn=_pm(_pn,"",1);</script>
+<script language="javascript1.1">_sv=11</script><script language="javascript1.1" src="http://stats.hitbox.com/js/hbp.js" defer=""></script><script language="javascript">if(_sv<11){if(document.cookie.indexOf("CP=")>-1){_ce="y";}
+else{document.cookie="CP=null*; path=/; expires=Wed, 1 Jan 2020 00:00:00 GMT";
+_ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";};if((_rf=="undefined")||
+(_rf=="")){_rf="bookmark";};_x2="<img src='"+_lp+_gn+"/HG?hc="+_mn+"&hb="+
+_ex(_acct)+"&n="+_ex(_pn);_x3="&cd=1&hv=6' border=0 height=1 width=1>";_ar=
+"&bn="+_ex(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&ja=na&sv="+_sv+"&con="+
+_ex(_mlc)+"&vcon="+_ex(_mlc)+"&epg="+_epg+"&hp=u&cy=u&dt=&ln=na&cp="+_ex(_cp)+
+"&pl=&prc="+_ex(_prc)+"&oid="+_ex(_oid)+"&rf="+_rf;document.write(_x2+_ar+_x3);}
+if(_bn!='Netscape'&&_bv>399)document.write("<\!"+"--");</script><noscript><img 
+src="http://phg.hitbox.com/HG?hc=wp110&cd=1&hv=6&ce=u&hb=WE5003237HAD19EN3&n=++Privacy+Policy&vcon=CONTENT+CATEGORY" border='0' width='1' height='1'></noscript><!--//-->
+<!-- END WEBSIDESTORY CODE  -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7123349-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<div id="sortHelper" style="display: none;">&nbsp;</div></body></html>
