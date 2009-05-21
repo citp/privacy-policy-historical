@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2008-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081106040349id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521235019id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY OVERVIEW
 
-| **PRIVACY POLICY OVERVIEW**  
----  
+**PRIVACY POLICY OVERVI** **EW**  
   
 Dear Adventurers,
 
@@ -13,11 +12,12 @@ Battle on!
 Artix   
   
    
-**PRIVACY POLICY** (REVISED JULY 9, 2007)  
+  
+**PRIVACY POLICY** (REVISED April 6, 2009)  
   
 AdventureQuest (created and run by Artix Entertainment, LLC) provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of the personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. 
 
-We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for the children under 13 years of age to use our website. We explain this information under the Kids' Privacy Policy section below.   
+We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Kids' Privacy Policy section below.   
   
    
   
@@ -31,9 +31,13 @@ We are also aware, that due to our content we may have some younger users on our
   * Contacting AdventureQuest 
 
   
+  
+  
 Information You Provide to Us And How We Use This Information  
+  
 I. Free Accounts   
-AdventureQuest has a large portion of the game available to the users for free. In order to register a character for the free version of the game, the only information that AdventureQuest collects is the user's e-mail address. The e-mail address is used for the following purposes: 
+  
+AdventureQuest has a large portion of the game available to the users for free. In order to register a character for the free version of the game, the only information that AdventureQuest collects is the user's e-mail address if the user is over 13 years of age. The e-mail address is used for the following purposes: 
 
   * To send a confirmation notice to the user of their character registration and password information. 
   * Upon the user's request, to send the user password information when the user has lost or forgotten the password. 
@@ -46,6 +50,7 @@ AdventureQuest has a large portion of the game available to the users for free. 
 * AdventureQuest game is unique in a sense that we design and run numerous special events that keep the game constantly fresh, challenging, fun and interesting for our users. Some of these events coincide with actual real life holidays, such as Valentine's Day, other events are made up as we go along. We use the newsletter to notify our users of all the current events, changes, improvements, upgrades, new characters, etc. In addition, occasionally we may notify our users of new products and services that AdventureQuest has designed and made available exclusively to our users. Please note, that the products and services are from AdventureQuest only and will not come from any advertisers or third parties.   
   
    
+  
 II. Guardian Accounts   
   
 A Guardian Account is a paid membership account that provides our users with additional access and privileges while playing AdventureQuest. The Guardian Account requires and uses all of the information listed under the Free Account in the same manner. In addition to the above, however, we will require you to provide the following information: 
@@ -59,13 +64,13 @@ A Guardian Account is a paid membership account that provides our users with add
 We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.   
   
    
+  
 III. Artix Affiliate Program   
   
-The Artix Entertainment Partner Program is Artix’s affiliate marketing program. The Partner Program is the FIRST EVER such program for a Massively Single Player Role Playing Game (MSPRPG), and it is open to anyone 18 years old or older with an active website. For additional information on the Partner Program, please go to _[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp)_. In order to register for the Partner Program, we will require you to provide the following information:
+The Artix Entertainment Partner Program is Artix’s affiliate marketing program. The Partner Program is the FIRST EVER such program for a Massively Single Player Role Playing Game (MSPRPG), and it is open to anyone 18 years old or older with an active website. For additional information on the Partner Program, please go to _<http://www.battleon.com/aq-partner.asp>_. In order to register for the Partner Program, we will require you to provide the following information:
 
   * First and last name
-
-  * Address, city, state, zip code and country 
+  * Address, city, state, zip code and country
   * Phone number
   * Email address
   * Social security number/Corporate ID number/ABN/EIN
@@ -73,20 +78,33 @@ The Artix Entertainment Partner Program is Artix’s affiliate marketing program
 
   
    
+  
 IV. What We WILL DO With Your Personal Information   
+  
 AdventureQuest does not disclose any personal information except to those that help it provide technical, administrative and data processing services(including hosting, billing, affiliate tracking, fulfillment, and data storage and security) “Affiliated Parties”.  The Affiliated Parties to whom AdventureQuest discloses your personal information all have agreed to abide by this Privacy Policy. Please note that some of these Affiliated Parties have separate privacy policies that govern their collection, use and storage of information that you provide to them directly. Example: Paypal has their own privacy policy for customers using their services.  
+  
    
+  
 V. What We WILL NOT DO With Your Personal Information   
+  
 AdventureQuest is supported by its Guardian Account Users. Therefore AdventureQuest does not sell or knowingly divulge your information to advertisers or any other non-Affiliated Parties, unless we are required to share your information with a third party in order to comply with law, to comply with a court order or subpoena; to enforce our site or game rules; to protect the safety and security of our users and our Web sites.    
+  
    
+  
 VI. Other Provisions   
+  
 **What Are Cookies?**  
+  
 A cookie is a little piece of information handed to a web browser to a web server that contains information that can be retrieved from the server later. AdventureQuest uses cookies only to the limited extent of recognizing the registered user and pairing that user with the character that the user created and the account preferences set by that user within the game.   
+  
    
 **Message Boards**  
-The AdventureQuest message board is a place for users of the game to interact by posting messages. The message board must be signed up for separately from the game and is subject to TERMS OF USE.   
+  
+The AdventureQuest message board is a place for users of the game to interact by posting messages. The message board must be signed upfor separately from the game and is subject to TERMS OF USE.   
+  
    
 **Security and Credit Card Use**  
+  
 AdventureQuest does not process your payments directly. Instead we contract this service to other, secure companies.
 
 **PayPal**  
@@ -99,12 +117,16 @@ Founded in 1998, PayPal, an eBay Company, enables any individual or business wit
 ** Founded in 2001, SlimCD provides secure link merchant services for credit card payments. To find out more about SlimCD and its privacy and security policies, please click on the following link <http://www.slimcd.com/>  
   
    
-KID'S PRIVACY POLICY   
+  
+KID'S PRIVACY POLICY  
+  
 AdventureQuest encourages parents and legal guardians to spend time online with their children. We urge parents and legal guardians to instruct their children to never give out their personal information online without permission. We also recognize a special need to protect personal information obtained from children. In compliance with Children's Online Privacy Protection Act (“COPPA”), we have adopted the following policies regarding children under the age of 13 (“kids”):   
+  
    
+  
 Type and Use of Information Collected from Kids   
   
-AdventureQuest does require all users to provide us with his/her e-mail address in order to set up a free account and register a character in our game. If we are aware that the user is under the age of 13, at this time we require for the parents to set up the account for their kids. The setting up of the account by the parents is considering an actual verifiable consent by the parent for the kid to use this website as required by COPPA. 
+To create a Free Account, AdventureQuest does not collect or require for the child to provide any personally identifiable information if the child is known to AdventureQuest to be under the age of 13. The setting up of the account by the parents is considering an actual verifiable consent by the parent for the child to use this website as required by COPPA. 
 
 We use your child's e-mail address for the following purposes:
 
@@ -127,6 +149,7 @@ AdventureQuest does not sell or knowingly divulge your kid's information to adve
 Also, please note that AdventureQuest does not condition a kid's participation in an online activity on the kid providing more personal information than is reasonably necessary for the activity.   
   
    
+  
 Notification and Verifiable Parental Consent   
   
 At this time, whenever AdventureQuest is aware that a user is under the age of 13, AdventureQuest requires for the parents to set up the account for their kid. The setting up of account by the parent is considered an actual verifiable consent by the parent to the kid's use of our website as required by COPPA. 
@@ -134,10 +157,13 @@ At this time, whenever AdventureQuest is aware that a user is under the age of 1
 For Guardian Accounts, the receipt of payment is considered actual, verifiable consent from the parents to the child's use of our website and to any information that was divulged as reasonably necessary to process payments, verify and maintain the account.   
   
    
+  
 How can parents access, change or delete personally identifiable information about their kids?   
+  
 Once again, we would like to assure you that we do not keep any information other than what is listed above. However, parents are welcome to contact us about any personally identifiable information about their child by email. Parents can request to purge either all or specific portions of that information by e-mailing:  
   
    
+  
 Revision Information   
   
 AdventureQuest reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws or changes within the game or for any other reason at any time. Therefore our users are encouraged to check the Privacy Policy periodically to read about any changes, modifications, or revisions.   
@@ -159,6 +185,4 @@ Land O' Lakes, FL 34639
 
 **Please Note: This number is for Privacy Policy purposes only.** Only call this number if you are calling in reference to our Privacy Policy. We do not take [orders](http://www.battleon.com/help/aq-payments-othermethods.asp) over the phone, nor provide [Technical Support](http://www.battleon.com/help/aq-technical.asp) over the phone. For any issue other than the Privacy Policy, such as [Billing Questions](http://www.battleon.com/help/aq-payments.asp) and [Account Recovery](http://www.battleon.com/help/aq-cantlogin.asp) questions, please visit the [Help Pages](http://www.battleon.com/help).
 
-Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email response system.  
-  
- 
+Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email response system.
