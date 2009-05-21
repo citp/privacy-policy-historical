@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218054044id_/http%3A//www.tigerwoodsfoundation.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521173917id_/http%3A//www.tigerwoodsfoundation.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Tiger Woods Foundation - Privacy Policy
 
@@ -28,4 +28,5 @@ If you choose to modify your personal information or you have forgotten your pas
 
 This website is the only official website of Tiger Woods Foundation and is © Copyright 'TigerWoodsFoundation.org'. Commercial reproduction, distribution or transmission of any part of this website or any information contained therein by any means whatsoever without the prior written permission of 'TigerWoodsFoundation.org' is not permitted.
 
-[](http://www.hottomali.com/)
+Site by  
+Hot Tomali
