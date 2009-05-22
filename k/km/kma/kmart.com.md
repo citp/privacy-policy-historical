@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045017id_/http%3A//www.kmart.com/shc/s/nb_10151_10104_NB_CSprivacy%3FadCell%3DAF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522110235id_/http%3A//www.kmart.com/shc/s/nb_10151_10104_NB_CSprivacy%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Clothing, Toys, Electronics, Jewelry, Jaclyn Smith - Kmart.com
 
@@ -53,7 +53,7 @@ Back to top
 
 How does Kmart Handle PII Collected On Children?
 
-The online privacy and safety of children is important to Kmart. Please click here to read our [Children´s Online Privacy Policy](https://web.archive.org/shc/s/nb_10151_10104_NB_CSkids?adCell=A4) (“COPP”) for information on Kmart´s general policy regarding the collection of PII on children under 13 years of age. COPP addresses Kmart´s general policy regarding the following: 
+The online privacy and safety of children is important to Kmart. Please click here to read our [Children´s Online Privacy Policy](https://web.archive.org/shc/s/nb_10151_10104_NB_CSkids?adCell=W4) (“COPP”) for information on Kmart´s general policy regarding the collection of PII on children under 13 years of age. COPP addresses Kmart´s general policy regarding the following: 
 
   * Collection of children´s personal information
   * Use of the children´s personal information
@@ -83,11 +83,11 @@ Kmart takes appropriate precautions to protect users´ information. Your informa
 
 How Can I Access My Kmart Information?
 
-You can personalize your experience at Kmart by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link at the top of each Kmart Website page. Your account information is secure and is accessible by using a password that you select. To become a registered user at Kmart, or to modify your current preferences, [Click Here.](https://web.archive.org/shc/s/LogonForm?langId=-1&storeId=10151&catalogId=10104&krypto=ZGuYz14ZweWOlfYrgHKDwQ%3D%3D&ddkey=LogonForm&adCell=A4)
+You can personalize your experience at Kmart by becoming a registered Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive e-mail about special sales, promotions and other events. Once registered, you can review and maintain your account information at anytime by clicking on the 'My Profile' link at the top of each Kmart Website page. Your account information is secure and is accessible by using a password that you select. To become a registered user at Kmart, or to modify your current preferences, [Click Here.](https://web.archive.org/shc/s/LogonForm?langId=-1&storeId=10151&catalogId=10104&krypto=ZGuYz14ZweWOlfYrgHKDwQ%3D%3D&ddkey=LogonForm&adCell=W4)
 
 Can I "opt-out" of Receiving Promotional E-mails from Kmart?
 
-Kmart may send you e-mails with promotional offers if you opt-in to receiving such e-mails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from Kmart, please click [here](https://web.archive.org/shc/s/nb_10151_10104_NB_EmailNOSignup?adCell=A4) and follow the “Unsubscribe” instructions. Your e-mail address will be removed from Kmart´s marketing list. If you are a registered user, you can also unsubscribe through changing your e-mail preferences in the My Profile section, under the My Info heading. Please note that the date if the most recent opt-in/out request will supercede prior requests.
+Kmart may send you e-mails with promotional offers if you opt-in to receiving such e-mails. If you would no longer like to receive e-mailed special event information, sales notifications or other messages from Kmart, please click [here](https://web.archive.org/shc/s/nb_10151_10104_NB_EmailNOSignup?adCell=W4) and follow the “Unsubscribe” instructions. Your e-mail address will be removed from Kmart´s marketing list. If you are a registered user, you can also unsubscribe through changing your e-mail preferences in the My Profile section, under the My Info heading. Please note that the date if the most recent opt-in/out request will supercede prior requests.
 
 Will I Receive Notice of Changes to the Privacy Policy?
 
