@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2008-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081009062825id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522194618id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
-# Privacy Policy - VWAUDI Forum
+# VWAudi Forum - "Privacy Policy" - VWAUDI Forum
 
-\- Administrator -
-
- 
-
-[](https://web.archive.org/web/20081009062825id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
-
-| 
-
-**Privacy Policy**
+**VWAudi Forum - "Privacy Policy"**
 
 * * *
 
@@ -62,20 +54,26 @@ This Privacy Policy was last updated on April 23rd 2004. © 2004 VWAudi Forum. A
 
 __________________
 
- ** _Stuart - Website Administrator & Owner_**
+ ** _Stuart - Website Chairman_**
+
+  
+
 
 _**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**_
 
 _**If you need a Part, a Garage, a Tuning Company, or even an Official Dealer the please visit**_
 
+  
+
+
 _**Details of the VWAudi Forum Insurance Scheme,[See Here](http://www.vwaudiforum.co.uk/forum/showthread.php?t=24937)**_
 
-_****_
+[](http://www.iam.org.uk/)
 
-**_VWAF PartZone \- Need a part? If our Sponsors can't help, [EMAIL ME ](mailto:stuart@vwaudiforum.co.uk)the details, and I will see what I can do... _**
+_**Take the "Skills for Life" challenge and become a better driver... Join the Institute of Advance Motorists**_
 
-**_Most items (depending on weight/size) will be sent Royal Mail Special Delivery & charged at cost._**
+_**Fully Registered VCDS 805.3 - HEX-USB+CAN Interface
 
-**How many more times!!!** Please **DO NOT, I REPEAT DO NOT!!** email or PM me with any vehicle related questions.
+Need a part number or diagram? - OFFICIAL LICENCED" VAG ETOS Parts Catalogue **NOW AVAILABLE**
 
-I do not have the experience or time to answer them, so they will be deleted! **PLEASE** use the correct forum section to ask!
+**_
