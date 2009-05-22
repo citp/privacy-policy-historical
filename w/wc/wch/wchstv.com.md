@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914192428id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522194639id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -31,5 +31,9 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**  
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
-|  |  |  |    
+|  |  |  | 
+
+  
+Also Visit:  
+[](http://www.wvah.com/)  
 
