@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satanspace.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912131315id_/http%3A//www.satanspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satanspace.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522083115id_/http%3A//www.satanspace.com/privacy) for the most accurate reproduction.*
 
 # SatanSpace : Horror movies, metal videos, gothic profile pictures, evil layouts, forum from hell, and more.
 
