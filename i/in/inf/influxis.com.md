@@ -1,43 +1,66 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606171624id_/http%3A//www.influxis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522091408id_/http%3A//www.influxis.com/other/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**Privacy Policy**
+Influxis respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which Influxis protects the privacy of information supplied by visitors to websites that are owned and operated by Influxis, including labs.influxis.com and forums.influxis.com. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, and will be noted in the date below. Please check back periodically to review this information.
 
-**We respect your privacy and are committed to protecting it. This Privacy Policy explains how your personal information is processed and used. Your information will be used only as specified below.**
+**What Information do we collect?**  
+We collect information from you when you place an order.
 
-**Information collection and use**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number, credit card information or billing address. You may, however, visit our site anonymously.
 
-1\. Our Web servers do not record e-mail addresses of visitors. E-mail addresses of advertisers are recorded for customer-service purposes only, such as the sending of renewal notices.  
-2\. Influxis does not send "cookies" (identifying data tags that reside on your hard drive) to the computers of visitors or advertisers.  
-3\. Influxis maintains a strict "no-spam" policy, meaning that we do not sell, rent, or otherwise provide your e-mail address to any third party.  
-4\. If you choose to place an advertisement on Influxis, you will be asked to provide your name, e-mail address, mailing address, credit card number, and expiration date. This is ONLY for the processing and fulfillment of your order. We do not use the data for any other purpose.  
-5\. Influxis may from time to time send e-mail announcing new Influxis products and services.
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website Please refer to the 'do we use cookies?’ section below for information about cookies and how we use them.
 
-**Information disclosure**
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways: 
 
-1\. Influxis will release personal information when required by law or in the good-faith belief that such action is necessary to:   
+*** To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose & delivering the purchased product or service requested. 
 
+*** To send periodic emails**  
+The email address you provide for order processing may be used to send you information and updates pertaining to your order in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-  * conform to legal statutes or comply with a legal process served on Influxis 
-  * protect and defend the rights or property of Influxis or its visitors 
-  * cooperate with the investigations of alleged unlawful activities 
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
+**Do we use cookies?**  
+Yes. Cookies are small tiles that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
 
-2\. Influxis is not responsible for any breach of security or for any actions of any third parties which receive the information.  
-3\. Influxis displays banner advertisements delivered by Engage Media, a third-party broker. We are not responsible for [Engage Media's privacy policies](http://www.engage.com/privacy/), which are addressed in the Engage policy. To find out more about how Engage manages the privacy of information, please go to [www.engage.com](http://www.engage.com/).  
-4\. Influxis reserves the right to transfer information in connection with the sale of all or part of the company's capital stock or assets.
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**Access to information by other users**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-1\. Whenever you voluntarily disclose personal information (such as your e-mail address or telephone number) online, that information can be collected and used by others. Influxis accepts no responsibility for any unsolicited communications you may receive as a result. 
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as these parties agree to keep this information confidential we may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**Your consent to this agreement**
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-By using our Web site, you consent to the collection and use of information by Influxis as specified above. In the event that changes are made to our privacy policy, we will immediately post those changes on this page and elsewhere throughout the site. 
-    
-    
-    	
-    	
-    	
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years d age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+**Online Privacy Policy Only**  
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](http://www.influxis.com//other/terms.html "Terms and Conditions")
+
+**Your Consent**  
+By using our site, you consent to our privacy policy. 
+
+Changes to our Privacy Policy  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on February 13, 2009.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by emailing [support@influxis.com](mailto:support@influxis.com) or in writing at
+
+**Influxis**  
+28110 Avenue Stanford, Unit D  
+Valencia, CA 91355  
+USA
