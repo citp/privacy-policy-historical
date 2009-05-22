@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the tnaflix.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054829id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tnaflix.com privacy policy that was archived on 2009-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522083145id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Free Porn | Sex | Porno &gt; Tnaflix - Privacy Policy</title>
+			<title>Free Porn | Sex | Porno &gt; Tnaflix - Privacy Policy</title>
+	
 	<meta name="Description" content="Watch Free Porn videos, Tnaflix is a Porn Tube site with thousands of sex movies. Download Free Porn and Stream Pornos from all niches, Share your Porn Movies.">
 	<meta name="keywords" content="porn, sex, porno, free porn, porn tube, porn videos, porn movies, streaming porn, free streaming porn, xxx, free porn videos, porn videos, sex videos">
 	<meta name="revisit-after" content="2 day">
@@ -29,26 +30,193 @@
 	</style><![endif]-->
 	
 	
+				
+		<script type="text/javascript">
+		<!--
+			var timeout = setTimeout("track_ref()", 2000);
+			
+			function track_ref(){
+				if(timeout){
+					clearTimeout(timeout);
+				}
+				
+				var url = "include/reflog.php";
+				
+				xmlhttp.open("GET", url);
+				xmlhttp.send(null);
+			}
+		
+		// -->
+		</script>
 		
 	
+	
+	
 	<script type="text/javascript">
+	<!--
 	if (top.location != location){
 	        window.top.location.href = this.location;
 	}
+	// -->
 	</script>
 	
 	
-	</head>
+		
+	<style type="text/css">
+	
+		.blockScreen {
+		    position: absolute;
+		    left: 0px;
+		    top: 0px;
+		    width: 100%;
+		    height: 100%;
+		    background-color: #000000;
+		    filter: alpha(opacity = 0);
+		    opacity:.0;
+		    display: none;
+		    z-index: 9999999;
+		}
+	
+	</style>
+	<script type="text/javascript">
+	
+	<!-- 
+	function cacheHack(){
+		return "?t=" +new Date().getTime();
+	}
+	function getPageSize(){
+		
+		var xScroll, yScroll;
+		
+		if (window.innerHeight && window.scrollMaxY) {	
+			xScroll = document.body.scrollWidth;
+			yScroll = window.innerHeight + window.scrollMaxY;
+		} else if (document.body.scrollHeight > document.body.offsetHeight){ // all but Explorer Mac
+			xScroll = document.body.scrollWidth;
+			yScroll = document.body.scrollHeight;
+		} else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
+			xScroll = document.body.offsetWidth;
+			yScroll = document.body.offsetHeight;
+		}
+		
+		var windowWidth, windowHeight;
+		if (self.innerHeight) {	// all except Explorer
+			windowWidth = self.innerWidth;
+			windowHeight = self.innerHeight;
+		} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+			windowWidth = document.documentElement.clientWidth;
+			windowHeight = document.documentElement.clientHeight;
+		} else if (document.body) { // other Explorers
+			windowWidth = document.body.clientWidth;
+			windowHeight = document.body.clientHeight;
+		}	
+		
+		// for small pages with total height less then height of the viewport
+		if(yScroll < windowHeight){
+			pageHeight = windowHeight;
+		} else { 
+			pageHeight = yScroll;
+		}
+	
+		// for small pages with total width less then width of the viewport
+		if(xScroll < windowWidth){	
+			pageWidth = windowWidth;
+		} else {
+			pageWidth = xScroll;
+		}
+	
+	
+		arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight) 
+		return arrayPageSize;
+	}
 
-<body>
+	function opacity(id, opacStart, opacEnd, millisec) {
+		//speed for each frame
+		var the_link = document.getElementById("lights_out");
+		if(the_link.innerHTML == "Lights Out"){
+			the_link.innerHTML = "Lights On";
+			the_link.href = "javascript:opacity('blockScreen',70, 0, 1000);";
+		} else {
+			the_link.innerHTML = "Lights Out";
+			the_link.href = "javascript:opacity('blockScreen', 0, 70, 1000);";
+		}
+		var speed = Math.round(millisec / 100);
+		var timer = 0;
+		
+		//determine the direction for the blending, if start and end are the same nothing happens
+		if(opacStart > opacEnd) {
+		    for(i = opacStart; i >= opacEnd; i--) {
+		         if(i == opacEnd){
+		        	setTimeout("changeOpac(" + i + ",'" + id + "', true)",(timer * speed));
+		        } else {
+		        	 setTimeout("changeOpac(" + i + ",'" + id + "', false)",(timer * speed));
+		        }
+		        timer++;
+		        
+		    }
+		} else if(opacStart < opacEnd) {
+		    for(i = opacStart; i <= opacEnd; i++)
+		        {		      
+		       
+		        setTimeout("changeOpac(" + i + ",'" + id + "', false)",(timer * speed));
+		        timer++;
+		    }
+		}
+	}
+	
+	//change the opacity for different browsers
+	function changeOpac(opacity, id, end) {	
+		var object = document.getElementById(id).style;
+		if(end == true){
+			object.display = "none";
+		} else {
+			object.display = "block";
+		}
+		object.opacity = (opacity / 100);
+		object.MozOpacity = (opacity / 100);
+		object.KhtmlOpacity = (opacity / 100);
+		object.filter = "alpha(opacity=" + opacity + ")";
+	} 
+	
+	//check the items to see if they are all empty, if not, check the other item
+	function check_and_check(items_to_check, item_to_check, perform_check) {
+		perform_check = typeof(perform_check) != 'undefined' ? perform_check : true;
+		item_is_checked=false;
+		for(i=0; i<items_to_check.length; i++) {
+			item_is_checked=(item_is_checked || document.getElementById(items_to_check[i]).checked);
+		}
+		if(!item_is_checked) {
+			document.getElementById(item_to_check).checked=true;
+		} else if(perform_check) {
+				document.getElementById(item_to_check).checked=!document.getElementById(item_to_check).checked;
+		}
+	
+	}
+	
+	// -->
+	
+	</script>
+	<script defer="" type="text/javascript" src="http://www.tnaflix.com/js/png.js"></script>
+</head>
+
+<body onunload="showJpeg('');">
+
+
+<object style="position:absolute; top:-900; left: -900;" type="application/x-shockwave-flash" data="http://www.tnaflix.com/thumb_player_v0.0.1.swf" width="160" height="120" name="thumb" id="thumb">
+<param name="allowScriptAccess" value="always">
+<param name="movie" value="http://www.tnaflix.com/thumb_player_v0.0.1.swf">
+</object>
+
 <div id="header">
 	<div id="logo"><a href="http://www.tnaflix.com"><img src="http://usa.tnaflix.com/images/blank.gif" alt="Free Porn Videos" width="165" height="40"><h1>Share and Watch Porn Videos</h1></a></div>
 	<div id="woman"><img src="http://usa.tnaflix.com/images/blank.gif" alt="Porn Movies, Streaming straight to your pc!" height="70" width="444"></div>
 	<div id="top_menu_wrapper">
-		<div id="ov_guide"><a href="http://www.ovguide.com/TNA-Flix-siteinfo-6029.html?show=comment"><img src="http://usa.tnaflix.com/images/blank.gif" alt="Vote for our free porn videos" width="98" height="52"></a></div>
+		<div id="ov_guide"><a href="http://www.tnaflix.com/links/"><img src="http://usa.tnaflix.com/images/blank.gif" alt="Vote for our free porn videos" width="98" height="52"></a></div>
 		<div class="top_menu_item"><a href="http://www.tnaflix.com/contact.php">Contact</a></div>
 		<div class="top_menu_item"><a href="http://www.tnaflix.com/faq.php">FAQ</a></div>
 		<div class="top_menu_item"><a href="http://www.tnaflix.com/blog.php">Blog</a></div>
+		<div class="top_menu_item"><a href="http://www.tnaflix.com/job_advert.php" style="color: yellow;">Jobs</a></div>	
+		
 	</div>
 </div>
 <div id="menuBG">
@@ -56,83 +224,30 @@
 		<div id="menu">
 			<ul>
 				<li id="home"><a href="http://www.tnaflix.com" title="Free Streaming Porn">&nbsp;</a></li>
-				<li id="videos"><a href="http://www.tnaflix.com/video.php" title="Free Porn Videos" onmouseover="mopen('drop_video')" onmouseout="mclosetime()">&nbsp;</a>
-				<div id="drop_video" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">					
-					<ul>
-						<li><a href="http://www.tnaflix.com/video.php?category=bw">Being Watched</a></li>
-						<li><a href="http://www.tnaflix.com/video.php?category=mr">Most Recent</a></li>
-						<li><a href="http://www.tnaflix.com/video.php?category=mv">Most Viewed</a></li>
-						<li><a href="http://www.tnaflix.com/video.php?category=tr">Top Rated</a></li>
-						<li><a href="http://www.tnaflix.com/video.php?category=rd">&gt; 15 Mins</a></li>
-					</ul>
-				</div>
-				</li>
+				<li id="videos"><a href="http://www.tnaflix.com/video.php" title="Free Porn Videos">&nbsp;</a></li>
+				<li id="cats"><a href="http://www.tnaflix.com/channels.php" title="Free Porn categories">&nbsp;</a></li>
 				
-				<li id="cats">
-				<a href="http://www.tnaflix.com/channels.php" onmouseover="mopen('drop_channel')" onmouseout="mclosetime()" title="Free Porn categories">&nbsp;</a>
-				<div id="drop_channel" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">					
-					<ul>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=11">100% Girl</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=6">Amateur</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=4">Anal</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=28">Animation</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=17">Asians</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=26">Babes</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=32">BBW</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=13">Big Boobs</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=27">Big Cock</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=7">BJ/HJ</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=31">Classic</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=15">Creampie</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=3">Cum</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=21">DP</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=16">Ebony</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=14">Fisting</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=20">Gang Bang</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=30">Gay/Bi-Male</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=10">Group Sex</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=1">Hardcore</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=35">Home made</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=12">Interracial</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=18">Latinas</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=9">Mature</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=25">Other Fetish</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=24">Petite</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=34">Piss</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=19">Porn Stars</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=29">POV</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=23">Shemale/Trans</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=22">Softcore</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=8">Solo</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=5">Squirting</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=33">Storyline</a></li>
-<li><a href="http://www.tnaflix.com/browsechannel.php?chid=2">Teens</a></li>
-</ul>
-				</div>
-				</li>
-				
-				<li id="prem"><a href="http://www.tnaflix.com/premium_reg.php" title="Premium Porn Access">&nbsp;</a></li>
-				<li id="dating"><a href="http://adultfriendfinder.com/go/p558067.subTnaflix" title="Adult Dating">&nbsp;</a></li>
-				<li id="cams"><a href="http://www.cams.com/go/p260229.subtnaflixcams" title="Free Live Cams">&nbsp;</a></li>
-			</ul>
+				<li id="cams"><a href="http://mbs.tnaflixlive.com/xtarc/602064/452/0/?mta=341198" title="Free Live Sex" target="_blank">&nbsp;</a></li> 
+				<li id="links"><a href="http://www.tnaflix.com/links/">&nbsp;</a></li>
+			</ul> 
 			
 		
-		     <form name="search" method="GET" action="search.php">
+		   <form name="search" method="GET" action="search.php" style="margin: 0; padding: 0;">
 		              <input name="what" type="text" onblur="if(this.value=='') this.value='Search for videos...'; " onfocus="if(this.value=='Search for videos...') this.value='';" onchange="predictSearch(this);" onkeydown="predictSearch(this);" onkeyup="predictSearch(this);" onmouseout="startTimeout(this);" value="Search for videos..." autocomplete="off" id="search">
 		              
 					  
 		              <input name="search_button" type="submit" value="" id="searchButton" onclick="clearPredict();">
 		     </form>
 		
-		     <a href="http://upload.tnaflix.com/uploads.php" title="Upload your Porn movie" id="upload"><img src="http://www.tnaflix.com/images/blank.gif" alt="Upload Free Porn Videos"></a>
+		    <a href="http://upload.tnaflix.com/uploads.php" title="Upload your Porn movie" id="upload"><img src="http://www.tnaflix.com/images/blank.gif" alt="Upload Free Porn Videos"></a> 
 		      
 		</div>
 	</div>
 </div>
 
-<div id="login">
-	<img src="http://usa.tnaflix.com/images/arrow.gif" alt="Login to your TNAFlix account"> <a href="http://www.tnaflix.com/login.php" title="Log In">Login</a> | <a href="http://www.tnaflix.com/register.php" title="Register for a free account">Register</a></div>
-
+<div id="login" style="margin-top:3px; text-align:center;">
+		<img src="http://usa.tnaflix.com/images/arrow.gif" alt="Login to your TNAFlix account">	<a href="http://www.tnaflix.com/getiton.php" title="Log In">Login</a> | <a href="http://www.tnaflix.com/register.php" title="Register for a free account">Register</a>
+	</div>
 
 <div class="clear"></div>
 <div id="container">
@@ -140,16 +255,25 @@
 
 </div>
 <div class="clear"></div>
+
 <div id="filters">
-	<form method="GET" action="#">
-		<div class="filter_item"><input type="checkbox" onclick="window.location='http://www.tnaflix.com/set_filter.php?type=straight&amp;target=/privacy.php'" checked=""><a href="http://www.tnaflix.com/set_filter.php?type=straight&amp;target=/privacy.php" title="Straight Porn">Straight</a></div>
-		<div class="filter_item"><input type="checkbox" onclick="window.location='http://www.tnaflix.com/set_filter.php?type=gay&amp;target=/privacy.php'"> <a href="http://www.tnaflix.com/set_filter.php?type=gay&amp;target=/privacy.php" title="Gay Porn">Gay</a></div>
-		<div class="filter_item"><input type="checkbox" onclick="window.location='http://www.tnaflix.com/set_filter.php?type=tranny&amp;target=/privacy.php'"> <a href="http://www.tnaflix.com/set_filter.php?type=tranny&amp;target=/privacy.php" title="Shemale/Tranny Porn">Tranny</a></div>
+	<form action="http://www.tnaflix.com/set_filter.php" method="post" style="display:inline;">
+		<div class="filter_item">
+		<span style="color:white;">Show Me: </span>
+		<input type="checkbox" id="filter_type_straight" name="types[]" value="straight" checked="" onclick="check_and_check(['filter_type_gay', 'filter_type_tranny'], 'filter_type_straight', false);"><a href="#" onclick="check_and_check(['filter_type_gay', 'filter_type_tranny'], 'filter_type_straight');">Straight</a>
+		<input type="checkbox" id="filter_type_gay" name="types[]" value="gay" onclick="check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay', false);"><a href="#" onclick="check_and_check(['filter_type_straight', 'filter_type_tranny'], 'filter_type_gay');">Gay</a>
+		<input type="checkbox" id="filter_type_tranny" name="types[]" value="tranny" onclick="check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny', false);"><a href="#" onclick="check_and_check(['filter_type_straight', 'filter_type_gay'], 'filter_type_tranny');">Tranny</a>
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:white;">Video Type: </span>
+		<input type="checkbox" id="filter_type_widescreen" name="filters[]" value="widescreen" checked="" onclick="check_and_check(['filter_type_tv'], 'filter_type_widescreen', false);"><a href="#" onclick="check_and_check(['filter_type_tv'], 'filter_type_widescreen');">Widescreen</a>
+		<input type="checkbox" id="filter_type_tv" name="filters[]" value="standard" checked="" onclick="check_and_check(['filter_type_widescreen'], 'filter_type_tv', false);"><a href="#" onclick="check_and_check(['filter_type_widescreen'], 'filter_type_tv');">Standard</a>
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:white;">Thumbnails: </span>
+		<input type="radio" id="filter_preview_video" name="preview" value="video" checked=""><a href="#" onclick="check_and_check(['filter_preview_image'], 'filter_preview_video');">Video</a>
+		<input type="radio" id="filter_preview_image" name="preview" value="image"><a href="#" onclick="check_and_check(['filter_preview_video'], 'filter_preview_image');">Image</a>
+		 &nbsp; <input type="submit" value="Save"><input type="hidden" name="target" value="/privacy.php"></div>
 	</form>
-</div><br>        <div class="clear"></div>
-        	<div id="message">
-	                <a href="http://www.tnaflix.com/job_advert.php"><img src="http://usa.tnaflix.com/images/job_advert.gif" alt="Free Porn Movies in every genre, Tnaflix Share and Watch Free Porn Movies"></a>
-            </div>
+</div>
+
+<iframe src="http://ifa.tnaflixlive.com/dif/?cid=936x58" allowtransparency="true" marginheight="0" marginwidth="0" frameborder="0" height="60" scrolling="no" width="936" style="margin: 5px 0px 10px 5px"></iframe>
 <br><div id="page_container">
 <h1>TnaFlix Privacy Policy</h1>
 <div id="text_content_inner">
@@ -182,9 +306,7 @@ This privacy notice may be revised periodically and users are encouraged to revi
  
 </div>
 </div><br>
-<div id="job_message">
-<a href="http://www.tnaflix.com/job_advert.php"><img src="http://usa.tnaflix.com/images/job_advert.gif" alt="Wanna work for a free porn videos site? Click here"></a>
-</div>
+
 
 </div>
 
@@ -192,17 +314,18 @@ This privacy notice may be revised periodically and users are encouraged to revi
 <div id="footer_container">
 	<a id="rtaImg" href="http://www.rtalabel.org" title="Restricted to adults"><img src="http://usa.tnaflix.com/images/blank.gif" alt="RTA - Adults Only"></a>
           <ul id="footerNav">
-         	  <li><a href="abuse.php">Report Abuse</a></li>
-              <li> | <a href="faq.php">FAQ</a></li>
+         	  <li><a href="http://www.tnaflix.com/abuse.php">Report Abuse</a></li>
+              <li> | <a href="http://www.tnaflix.com/faq.php">FAQ</a></li>
 
-              <li> | <a href="contact.php">Contact Us</a></li>
-              <li> | <a href="sitemap.php">Sitemap</a></li>
-              <li><br><a href="terms.php">Terms Of Service</a></li>
-              <li> | <a href="privacy.php">Privacy Policy</a></li>
+              <li> | <a href="http://www.tnaflix.com/contact.php">Contact Us</a></li>
+              <li><br><a href="http://www.tnaflix.com/terms.php">Terms Of Service</a></li>
+              <li> | <a href="http://www.tnaflix.com/privacy.php">Privacy Policy</a></li>
 
-              <li> | <a href="dmca.php">DMCA Policy</a></li>
+              <li> | <a href="http://www.tnaflix.com/dmca.php">DMCA Policy</a></li>
+              <li><br><a href="http://www.tnaflix.com/forbidden.php">List of forbidden content</a><br></li>
+              <li><br><a href="http://www.tnaflix.com/links/">$$ WEBMASTERS $$</a></li>
           </ul>
-	<div id="copyright">Copyright © 2008 | TNAFLIX<br>All rights reserved</div>
+	<div id="copyright">Copyright © 2009 | TNAFLIX<br>All rights reserved</div>
 	<div class="clear"></div>
 <div style="color: #cccccc;"><br>Tnaflix is dedicated to the best free porn videos and being the best porn tube site. Streaming porn or downloading porn we've got the pornos you need!</div>
 </div>
