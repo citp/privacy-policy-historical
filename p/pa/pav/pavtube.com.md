@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pavtube.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195747id_/http%3A//www.pavtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pavtube.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522112214id_/http%3A//www.pavtube.com/privacy.html) for the most accurate reproduction.*
 
 # Join Pavtube Now, And Grow Up With Pavtube Studio.
 
