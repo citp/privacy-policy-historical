@@ -1,278 +1,469 @@
-<!--The following is the downloaded HTML source of the aisquared.com privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913052601id_/http%3A//www.aisquared.com/PrivacyPolicy/index.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aisquared.com privacy policy that was archived on 2009-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522145213id_/http%3A//www.aisquared.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Ai Squared Website Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style type="text/css">
-<!--
-a:link {text-decoration: none}
-a:visited {text-decoration: none}
-a:active {text-decoration: none}
-a:hover {text-decoration: underline}
--->
-</style>
-<link href="../AiWebStyles.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+            <title>ai squared - making accessibility simple</title>
+
+<meta name="description" content="Ai Squared is here to help – for over twenty years, we’ve been helping people use their computers with greater comfort and ease. We offer a range of magnification and screen reading software products to fit anyone’s needs. Whether you are visually impaired, or squint at your computer screen and lean in to read the fine print, we have a solution for you.">
+<meta name="keywords" content="zoomtext, screen magnifier, magnification, screen magnification, screen reading">
+<meta name="robots" content="index,follow,archive">
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<meta name="DC.title" content="ai squared - making accessibility simple">
+<meta name="DC.creator" content="AI Squared">
+<meta name="DC.subject" content="zoomtext, screen magnifier, magnification, screen magnification, screen reading">
+<meta name="DC.description" content="Ai Squared is here to help – for over twenty years, we’ve been helping people use their computers with greater comfort and ease. We offer a range of magnification and screen reading software products to fit anyone’s needs. Whether you are visually impaired, or squint at your computer screen and lean in to read the fine print, we have a solution for you.">
+<meta name="DC.publisher" content="AI Squared">
+<meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2009-05-22T14:52:12-0600">
+<meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2009-05-22T14:52:13-0600">
+<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2009-05-28T16:52:12-0600">
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
+<meta name="DC.rights" scheme="DCTERMS.URI" content="AI Squared">
+<meta name="DC.format" content="text/html">
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.aisquared.com/privacy_policy/"> 
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aisquared.com/site/rss_2.0/">
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.aisquared.com/site/atom/">   
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen">
+	<link rel="shortcut icon" href="/images/favicon.ico">
+
+	<script src="/scripts/jquery-1.2.6.pack.js" type="text/javascript"></script>
+	<script src="/scripts/jquery.validate.js" type="text/javascript"></script>
+	<script src="/scripts/jquery.cookie.js" type="text/javascript"></script>
+	<script src="/scripts/global.js" type="text/javascript"></script>
+	<script src="/scripts/swfobject_modified.js" type="text/javascript"></script>
+    <!--[if IE 7]>
+    	<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen" />
+    <![endif]-->
+    <!--[if IE 6]>
+    	<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="screen" />
+    <![endif]-->
+
+	<script type="text/javascript" charset="utf-8">//<![CDATA[
+		$(document).ready(function()
+		{
+			var secNav = $("#secondaryNav");
+			var firstLevel = $(".nav_categories > li > a");
+			firstLevel.each(function(i)
+			{
+				var next = this.nextSibling;
+				while(next)
+				{
+					if(next.nodeType == 1 && next.nodeName.toLowerCase() == "ul")
+					{
+						this.parentNode.className = "expand";
+						// this.onclick = function()
+						// {
+						// 	// console.log(this.parentNode.className);
+						// 	if(this.parentNode.className.match(/\bexpand\b/))
+						// 		this.parentNode.className = this.parentNode.className.replace("expand","contract");
+						// 	else if(this.parentNode.className.match(/\bcontract\b/))
+						// 		this.parentNode.className = this.parentNode.className.replace("contract","expand");
+						// 	(next.style.display == "block") ? contractNav(next) : expandNav(next);
+						// 	return false;
+						// };
+						break;
+					}
+					else
+					{
+						next = next.nextSibling;
+					}
+				}
+				
+			});
+			var sideNav = document.getElementsByClassName("nav")[0];
+			if(sideNav == "undefined" || sideNav == null)
+				return false;
+			var sideLinks = sideNav.getElementsByTagName("a");
+			
+			/**** constants for the side nav links that have to be hard coded ****/
+			var interPricingMag = "/zoomtext/more/zoomtext_magnifier_international_pricing";
+			var interPricingMagreader = "/zoomtext/more/zoomtext_magnifier_reader_international_pricing";
+			var magnifierPricing = "/zoomtext/more/zoomtext_magnifier_pricing";
+			var magreaderPricing = "/zoomtext/more/zoomtext_magnifier_reader_pricing";
+			/*************************************************/
+			
+			// start with 1 so that we skip the first link which is the section heading
+			for(var i=1,z=sideLinks.length;i<z;i++)
+			{
+				var pieces = sideLinks[i].href.split("/");
+				var currentPath = ("/"+pieces[pieces.length-3]) + ("/"+pieces[pieces.length-2]) + ("/"+pieces[pieces.length-1]);
+
+				if(sideLinks[i].href == location.href)
+				{
+					expandNav(sideLinks[i]);
+					break;
+				}
+				else if(currentPath == magnifierPricing && location.pathname == interPricingMag)
+				{
+					expandNav(sideLinks[i]);
+					break;
+				}
+				else if(currentPath == magreaderPricing && location.pathname == interPricingMagreader)
+				{
+					expandNav(sideLinks[i]);
+					break;
+				}
+			}
+		});
+		
+		//expands the side nav menu and highlights the current link
+		function expandNav(sideLink)
+		{
+			if(location.hash)
+				var hash = location.hash;
+			sideLink.className = "current";
+			var temp = sideLink.parentNode.parentNode.parentNode;
+			var temp2 = sideLink.parentNode;
+			if(temp.className == "expand")
+			{
+				temp.className = "contract";
+				sideLink.parentNode.parentNode.style.display = "block";
+				if(hash == "#magreader" || hash == "#magnifier")
+					document.getElementById("zoomTextStore").style.display = "block";
+				//console.log("if ",sideLink.parentNode.parentNode);
+			}
+			else if(temp2.className == "expand")
+			{
+				temp2.className = "contract";
+				sideLink.nextSibling.nextSibling.style.display = "block";
+				//console.log("else if ",sideLink.parentNode.parentNode);
+			}
+			else
+			{
+				sideLink.parentNode.parentNode.style.display = "block";
+			}
+		}
+		// function expandNav(el) {$(el).slideDown();}
+		// function contractNav(el) {$(el).slideUp();}
+	//]]></script>
+
 </head>
 
-<body link="#0000FF" vlink="#800080" alink="#8888FF" leftmargin="0" topmargin="0">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" class="SideMenuDkFill">
-  <!--DWLayoutTable-->
-  <tbody><tr> 
-    <td height="130" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../Assets_Images/TopBarBG.gif">
-        <!--DWLayoutTable-->
-        <tbody><tr> 
-          <td width="29" height="18"></td>
-          <td width="105"></td>
-          <td width="28"></td>
-          <td colspan="2" rowspan="2" valign="top"><!-- #BeginLibraryItem "/Library/topphotoset.lbi" --> 
+<body class="<?php echo $pageClass ?>">
+<!-- Begin: Site Nav -->
+<p id="skipLink"><a href="#content" title="Skip to Main Content">Skip to Main Content</a></p>
+<div id="header" class="wrapper">
+	<div class="content">
+		<div class="inner-wrapper">
+			<ul id="controls">
+				<li class="JSonly contrast">
+                	<span>Contrast</span>
+                    <a href="#" class="high" title="show the high contrast version">show the high contrast version</a> 
+                    <a href="#" class="standard" title="show the standard version">show the standard version</a>
+                </li>
+				<li class="textsize">
+					<span class="floatLeft">Text size</span>
+					<a id="textSize" href="/textsize" title="Learn how to change text size">Learn how to change text size</a>
+				</li>
+			</ul>
+			<p id="logo"><a href="/">AI Squared, making accessibility simple.</a></p>
+			<ul id="nav">
+				<li id="homeTab" class="active"><a href="/">Home</a></li>
+				<li id="productsTab"><a href="/products">Products</a></li>
+				<li id="dealersTab"><a href="/dealers">Dealers</a></li>
+				<li id="customerSvcTab"><a href="/customer_stories">Customer Stories</a></li>
+				<li id="newsTab"><a href="/news">News</a></li>
+				<li id="supportTab"><a href="/support">Support</a></li>
+				<li id="aboutTab"><a href="/about_us">About Us</a></li>
+			</ul>
+			<script type="text/javascript" charset="utf-8">
+				var segment = "privacy_policy";
+				switch(segment)
+				{
+					case "products":
+						document.getElementById("productsTab").className = "active";
+						break;
+					case "zoomtext":
+						document.getElementById("productsTab").className = "active";
+						break;
+					case "zoomtext_keyboard":
+						document.getElementById("productsTab").className = "active";
+						break;
+					case "zoomware":
+						document.getElementById("productsTab").className = "active";
+						break;
+					case "dealers":
+						document.getElementById("dealersTab").className = "active";
+						break;
+					case "customer_stories":
+						document.getElementById("customerSvcTab").className = "active";
+						break;
+					case "news":
+						document.getElementById("newsTab").className = "active";
+						break;
+					case "support":
+					case "knowledge_base":
+						document.getElementById("supportTab").className = "active";
+						break;
+					case "about_us":
+						document.getElementById("aboutTab").className = "active";
+						break;
+					case "search":
+					break;
+					default:
+						document.getElementById("homeTab").className = "active";
+						break;
+				}
+			</script>
+			<form method="post" action="http://www.aisquared.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="19">
+<input type="hidden" name="XID" value="2d1a741018759f81170b43a962f2c038fc530494">
+<input type="hidden" name="RP" value="search/results">
+<input type="hidden" name="NRP" value="">
+<input type="hidden" name="RES" value="">
+<input type="hidden" name="status" value="">
+<input type="hidden" name="weblog" value="not homepage">
+<input type="hidden" name="search_in" value="everywhere">
+<input type="hidden" name="where" value="all">
+<input type="hidden" name="site_id" value="1">
+</div>
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td width="39" rowspan="3"></td>
-    <td rowspan="3" align="center" valign="bottom">&nbsp;&nbsp;&nbsp;<img src="http://www.aisquared.com/images/Final-silo-copy.gif" alt="Easy to see, Easy to Hear, Easy to Use." border="0" width="260" height="62"></td>
-
-	
-	<td height="19" valign="middle" align="right" colspan="2">
-		
-        <p class="BodyText">Welcome, Guest | <a href="http://www.aisquared.com/Account/ForceUserLogin.cfm?return=/PrivacyPolicy/index.cfm">Login</a>&nbsp;</p>
-    
-  
-  </td></tr>
-  <tr>
-      <td height="33" valign="middle" align="right" class="SubHead">
-	Making Accessibility Simple <sup>®</sup>&nbsp;</td>
-  </tr>
-  <tr>
-    <td height="18" valign="top">&nbsp;</td>
-  </tr>
-</tbody></table>
-<!-- #EndLibraryItem --></td>
-        </tr>
-        <tr> 
-          <td height="52"></td>
-           <td rowspan="4" valign="top" align="right"><a href="http://www.aisquared.com"><img src="http://www.aisquared.com/images/ai2home.gif" alt="Back to Home Page" width="98" height="110" border="0"></a></td>
- <td></td>
-        </tr>
-        <tr> 
-          <td height="33">&nbsp;</td>
-          <td>&nbsp;</td>
-          <td width="45" rowspan="3" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <!--DWLayoutTable-->
-              <tbody><tr> 
-                <td width="45" height="60" valign="top"><img name="testtopcurve3pt2" src="../Assets_Images/testtopcurve3pt2.gif" width="45" height="60" border="0" alt=""></td>
-              </tr>
-            </tbody></table></td>
-          <td width="548" valign="top" nowrap="" class="staticspacer">  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <!--DWLayoutTable-->
-  <tbody><tr>
-    <td width="78" align="center" valign="bottom" nowrap="" class="TopMenuGray"><a href="../Products/index.cfm"><font color="#000000">PRODUCTS</font></a></td>
-    <td width="18" valign="top" nowrap="" class="staticspacer"><img src="../Assets_Images/topendsgray3pt.gif" width="18" height="31"></td>
-    <td width="73" align="center" valign="top" nowrap="" class="TopMenuGray"><a href="../Support/index.cfm"><font color="#000000">SUPPORT</font></a></td>
-    <td width="18" valign="top" nowrap=""><img src="../Assets_Images/topendsgray3pt.gif" width="18" height="31"></td>
-    <td width="68" align="center" valign="top" nowrap="" class="TopMenuGray">&nbsp;<a href="../Dealers/index.cfm"><font color="#000000">DEALERS</font></a>&nbsp;</td>
-    <td width="18" valign="top" nowrap=""><img src="../Assets_Images/topendsgray3pt.gif" width="18" height="31"></td>
-    <td width="65" align="center" valign="middle" nowrap="" class="TopMenuGray">&nbsp;<a href="../News/index.php"><font color="#000000">NEWS</font></a></td>
-    <td width="18" valign="top" nowrap=""><img src="../Assets_Images/topendsgray3pt.gif" width="18" height="31"></td>
-    <td width="72" align="center" valign="middle" nowrap="" class="TopMenuGray"><a href="../Account/index.cfm"><font color="#000000">ACCOUNT</font></a></td>
-    <td width="18" valign="top" nowrap=""><img src="../Assets_Images/topendsgray3pt.gif" width="18" height="31"></td>
-    <td width="70" align="center" valign="top" nowrap="" class="TopMenuGray"><a href="../AboutUs/index.cfm"><font color="#000000">ABOUT 
-      US</font></a></td>
-    <td width="30" valign="top" nowrap=""><img src="../Assets_Images/topendright3pt.gif" width="30" height="31"></td>
-  </tr>
-</tbody></table></td>
-        </tr>
-        <tr> 
-          <td height="14"></td>
-          <td></td>
-          <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <!--DWLayoutTable-->
-              <tbody><tr> 
-                <td width="548" height="27" valign="top" class="Locator"><!--DWLayoutEmptyCell-->&nbsp;</td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          <td height="13"></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tbody></table></td>
-    <td width="100%" valign="top" class="lefttest10"></td>
-    <td width="1">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td width="163" height="2" valign="top"><img src="../Assets_Images/Bluelinegradient2.gif" width="162" height="2"></td>
-    <td width="6" rowspan="7" valign="top" class="BlueVertLineFill3pt"><!--DWLayoutEmptyCell-->&nbsp;</td>
-    <td width="570" rowspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <!--DWLayoutTable-->
-        <tbody><tr> 
-          <td height="25" colspan="2" valign="top" class="Head1">Privacy Policy</td>
-        </tr>
-        <tr> 
-          <td width="30" height="56" valign="top" class="staticspacerwhite">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-          <td width="540" rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <!--DWLayoutTable-->
-              <tbody><tr> 
-                <td width="540" height="280" valign="top"><p class="BodyText"><span class="BodyText"><br>
-                    Thank you for visiting aisquared.com. We are committed to 
-                    respecting the privacy of our users and we strive to provide 
-                    a safe, secure user experience. This Privacy Statement outlines 
-                    the online data collection and usage policies that apply to 
-                    aisquared.com, and applies solely to the information we collect 
-                    there. By using our website, you consent to the policies and 
-                    practices described in this Statement.</span></p>
-                  <p class="BodyText"><span class="SubHead">What personal information 
-                    is collected from you through our Website</span><span class="BodyText"><br>
-                    </span>Unless you provide it to us, we do not collect any 
-                    personal information about you when you visit our website. 
-                    If you place an online order or request a free trial of our 
-                    software, we do ask for information such as your name, postal 
-                    address, telephone number and e-mail address. If you do give 
-                    us your postal or e-mail address, you may receive periodic 
-                    mailings from Ai Squared or other vendors with information 
-                    on upgrades and new or related products.</p>
-                  <p><span class="SubHead">Links to other sites</span><span class="BodyText"><br>
-                    Our sites contain links to other Web sites over which we have 
-                    no control. Ai Squared is not responsible for the privacy 
-                    policies or practices of other Web sites to which you choose 
-                    to link from aisquared.com. We encourage you to review the 
-                    privacy policies of those other Web sites so you can understand 
-                    how they collect, use and share your information. </span></p>
-                  <p><span class="SubHead">About cookies</span><span class="BodyText"><br>
-                    A cookie is a small file that a Website puts on your computer's 
-                    hard drive so that it can remember you at a later time. This 
-                    file contains nothing more than a 32-digit code. It does not 
-                    contain your name, address, or any other personal information. 
-                    Cookies are a standard part of Internet use and allow server 
-                    computers to recognize your computer’s browser when 
-                    you return to our site. For example, cookies allow us to retain 
-                    items you've placed in your shopping cart, so if you leave 
-                    to view other areas on our site, or other websites, you won’t 
-                    have to start shopping from scratch when you return.<br>
-                    <br>
-                    </span><span class="SubHead">Security</span><span class="BodyText"><br>
-                    We use industry-standard methods to protect your personal 
-                    financial information from unauthorized access. When you enter 
-                    sensitive information on an order form (such as a credit card 
-                    number), that information is encrypted, and is protected with 
-                    128-bit encryption SSL technology. Information is then stored 
-                    on a computer behind our "firewall" in a secure 
-                    location.<br>
-                    <br>
-                    </span><span class="BodyText"> </span><span class="SubHead">How 
-                    to update your personal information</span><br>
-                    <span class="BodyText">You can help Ai Squared maintain the 
-                    accuracy of your personal information by notifying us when 
-                    you change your name, address, title, phone number, or e-mail 
-                    address. If at any time you wish to update your information, 
-                    or you prefer to stop receiving communication from Ai Squared, 
-                    feel free to contact us:</span></p>
-                  <p class="BodyText"><span class="BodyText"><strong>M</strong></span><span class="BodyTextBold">ail:<br>
-                    </span>Ai Squared<br>
-                    P.O. Box 669<br>
-                    Manchester Center, VT 05255<br>
-                    <br>
-                    <span class="BodyTextBold">Phone:<br>
-                    </span>802-362-3612<br>
-                    <font color="#FF0000"><br>
-                    </font><span class="BodyTextBold">Fax:<br>
-                    </span>802-362-1670<br>
-                    <br>
-                    <span class="BodyTextBold">Email:<br>
-                    </span>sales@aisquared.com<font color="#FF0000"><br>
-                    <br>
-                    </font><span class="BodyTextBold">Website:<br>
-                    </span><span class="BodyText">www.aisquared.com</span><span class="BodyText"> 
-                    </span></p></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          <td height="1066">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td width="16"></td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="30">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="84" valign="top"><!-- #BeginLibraryItem "/Library/SearchBox.lbi" -->
-<link href="../AiWebStyles.css" rel="stylesheet" type="text/css">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <!--DWLayoutTable-->
-              <tbody><tr> 
+            <div>
+                <input type="text" title="Search" value="Search" class="text title-switch" name="keywords" id="keywords">
                 
-    <td width="163" height="20" align="center" valign="top" class="SideMenuHdWhiteCenter"><font color="#FFFFFF">SEARCH</font></td>
-              </tr>
-              <!--DWLayoutTable-->
-              <tr><td height="46" align="center" valign="top"> <form method="get" action="http://search.atomz.com/search/">
-                  
-        <input name="sp-q" class="searchfieldbox" size="18">
-                  <br>
-                  <input name="submit" type="submit" value="GO">
-                  <input type="hidden" name="sp-a" value="sp10025524">
-                  <input type="hidden" name="sp-p" value="any">
-                  <input type="hidden" name="sp-f" value="ISO-8859-1">
-                </form></td>
-            </tr></tbody></table><!-- #EndLibraryItem --></td>
-    <td>&nbsp;</td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="1035">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="3"></td>
-    <td></td>
-    <td></td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="41"></td>
-    <td colspan="2" valign="top"><!-- #BeginLibraryItem "/Library/Footer.lbi" --><table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <!--DWLayoutTable-->
-              <tbody><tr> 
-                
-    <td width="610" height="41" align="center" valign="top"><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">Toll-Free 
-      (800) 859-0270 <br>
-      © 2005 Ai Squared, Inc. All Rights Reserved<br>
-      <a href="../TermsOfUse/index.cfm">Terms of Use</a> <font color="#000000">| 
-      </font><a href="index.cfm">Privacy</a> <font color="#000000">| 
-      <a href="../SiteMap/index.cfm">Site Map</a> </font><font size="-2" face="Verdana, Arial, Helvetica, sans-serif"> 
-      <font color="#000000">| </font></font><a href="../FAQs.cfm">FAQs</a> </font></td>
-              </tr>
-            </tbody></table><!-- #EndLibraryItem --></td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="6"></td>
-    <td></td>
-    <td></td>
-    <td valign="top" class="lefttest10"></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td height="1"><img src="../Assets_Images/spacer.gif" alt="" width="163" height="1"></td>
-    <td><img src="../Assets_Images/spacer.gif" alt="" width="6" height="1"></td>
-    <td><img src="../Assets_Images/spacer.gif" alt="" width="570" height="1"></td>
-    <td><img src="../Assets_Images/spacer.gif" alt="" width="16" height="1"></td>
-    <td></td>
-    <td><img src="../Assets_Images/spacer.gif" alt="" width="1" height="1"></td>
-  </tr>
-</tbody></table>
+                <button type="submit">Go</button>
+            </div>
+            </form>   
+            
+		</div>
+	</div>
+</div>
+<!-- End: Site Nav -->
+
+<div id="page" class="wrapper">
+    <div class="content">
+        <div class="inner-wrapper">
+
+            <div class="secondary">
+				
+            </div><!-- /.secondary -->
+        
+            <div id="content" class="primary">
+				
+                <h1 style="text-transform:capitalize;">Privacy Policy</h1>
+				<p>Thank you for visiting aisquared.com. We are committed to respecting the privacy of our users and we strive to provide a safe, secure user experience. This Privacy Statement outlines the online data collection and usage policies that apply to aisquared.com, and applies solely to the information we collect there. By using our website, you consent to the policies and practices described in this Statement.
+</p>
+<h2>What personal information is collected from you through our Website</h2><p>
+Unless you provide it to us, we do not collect any personal information about you when you visit our website. If you place an online order or request a free trial of our software, we do ask for information such as your name, postal address, telephone number and e-mail address. If you do give us your postal or e-mail address, you may receive periodic mailings from Ai Squared or other vendors with information on upgrades and new or related products.
+</p>
+<h2>Links to other sites</h2><p>
+Our sites contain links to other Web sites over which we have no control. Ai Squared is not responsible for the privacy policies or practices of other Web sites to which you choose to link from aisquared.com. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
+</p>
+<h2>About cookies</h2><p>
+A cookie is a small file that a Website puts on your computer’s hard drive so that it can remember you at a later time. This file contains nothing more than a 32-digit code. It does not contain your name, address, or any other personal information. Cookies are a standard part of Internet use and allow server computers to recognize your computer’s browser when you return to our site. For example, cookies allow us to retain items you’ve placed in your shopping cart, so if you leave to view other areas on our site, or other websites, you won’t have to start shopping from scratch when you return.
+</p>
+<h2>Security</h2><p>
+We use industry-standard methods to protect your personal financial information from unauthorized access. When you enter sensitive information on an order form (such as a credit card number), that information is encrypted, and is protected with 128-bit encryption SSL technology. Information is then stored on a computer behind our “firewall” in a secure location.
+</p>
+<h2>How to update your personal information</h2><p>
+You can help Ai Squared maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, or e-mail address. If at any time you wish to update your information, or you prefer to stop receiving communication from Ai Squared, feel free to contact us:
+</p>
+<h2>Mail:</h2><p>
+Ai Squared
+<br>
+P.O. Box 669
+<br>
+Manchester Center, VT 05255
+</p>
+<h2>Phone:</h2><p>
+802-362-3612
+</p>
+<h2>Fax:</h2><p>
+802-362-1670
+</p>
+<h2>Email:</h2><p>
+<script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 100';l[9]=' 101';l[10]=' 114';l[11]=' 97';l[12]=' 117';l[13]=' 113';l[14]=' 115';l[15]=' 105';l[16]=' 97';l[17]=' 64';l[18]=' 115';l[19]=' 101';l[20]=' 108';l[21]=' 97';l[22]=' 115';l[23]='>';l[24]='\"';l[25]=' 109';l[26]=' 111';l[27]=' 99';l[28]=' 46';l[29]=' 100';l[30]=' 101';l[31]=' 114';l[32]=' 97';l[33]=' 117';l[34]=' 113';l[35]=' 115';l[36]=' 105';l[37]=' 97';l[38]=' 64';l[39]=' 115';l[40]=' 101';l[41]=' 108';l[42]=' 97';l[43]=' 115';l[44]=':';l[45]='o';l[46]='t';l[47]='l';l[48]='i';l[49]='a';l[50]='m';l[51]='\"';l[52]='=';l[53]='f';l[54]='e';l[55]='r';l[56]='h';l[57]='a ';l[58]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') document.write("&#"+unescape(l[i].substring(1))+";"); 
+else document.write(unescape(l[i]));
+}
+//]]>
+</script><a href="mailto:sales@aisquared.com">sales@aisquared.com</a>
+</p>
+<h2>Website:</h2><p>
+<a href="http://www.aisquared.com">http://www.aisquared.com</a>
+</p>
+				
+            </div>
+
+        </div>
+    </div>
+</div>
+<div id="sitemap" class="wrapper">
+	<div class="content">
+		<div class="inner-wrapper">
+			<div class="split first">
+				<h3><a href="/" title="Home">Home</a></h3>
+                <!-- PRODUCTS -->
+				<h3><a href="/products" title="Products">Products</a></h3>
+				<ul>
+					<li><a href="/zoomtext/" title="ZoomText">ZoomText</a>
+						<ul><li><a href="/zoomtext/more/zoomtext_magnifier" title="Magnifier">Magnifier</a></li>
+                        	<li><a href="/zoomtext/more/zoomtext_magnifier_reader/" title="MagReader">MagReader</a></li>
+                            <li><a href="/zoomtext/more/zoomtext_on_usb/" title="ZoomText on USB">ZoomText on USB</a></li>
+                            <li><a href="/zoomtext/tour/tour/" title="Tour">Tour</a></li>
+                            <li><a href="/zoomtext/more/download_zoomtext_trial/" title="Download Trial">Download Trial</a></li>
+                            <li><a href="/zoomtext/more/upgrade/" title="Upgrade">Upgrade</a></li>
+                            <li><a href="/store/" title="Buy">Buy</a></li>
+                       </ul>
+                    </li>
+					<li><a href="/zoomtext_keyboard" title="ZoomText Keyboard">ZoomText Keyboard</a>
+						<ul><li><a href="/zoomtext_keyboard/categories/category/key_features/" title="Key Features">Key Features</a></li>
+                            <li><a href="/store/" title="Buy">Buy</a></li>
+                            <li><a href="/zoomtext_keyboard/categories/category/reassign_hot_keys/" title="Reassign Hot Keys">Reassign Hot Keys</a></li>
+                       </ul>
+                    </li>
+					<li><a href="/zoomware" title="ZoomWare">ZoomWare</a>
+						<ul><li><a href="/zoomware/more/features/" title="Features">Features</a>
+								<!--<ul><li><a href="/zoomware/more/magnification/" title="Magnification">Magnification</a></li>
+									<li><a href="/zoomware/more/color_enhancements/" title="Color Enhancements">Color Enhancements</a></li>
+									<li><a href="/zoomware/more/pointer_enhancements/" title="Pointer Enhancements">Pointer Enhancements</a></li>
+									<li><a href="/zoomware/more/cursor_enhancements/" title="Cursor Enhancements">Cursor Enhancements</a></li>
+                                </ul> -->
+                            </li>
+                            <li><a href="/store/" title="Buy">Buy</a></li>
+							<li><a href="/zoomware/more/download_zoomware_trial/" title="Download Trial">Download Trial</a></li>
+                            <li><a href="/zoomware/more/zoomware_system_requirements/" title="System Requirements">System Requirements</a></li>
+                       </ul>
+                    </li>
+                    <li><a href="/products/more/compare_products_by_product_type" title="Compare Products">Compare Products</a></li>
+				</ul>
+			</div>
+			<div class="split">
+            	<!-- DEALERS -->
+				<h3><a href="/dealers" title="Dealers">Dealers</a></h3>
+				<ul><li><a href="/dealers/categories/category/us_dealers/" title="United States">United States</a></li>
+					<li><a href="/dealers/categories/category/canadian_dealers/" title="Canada">Canada</a></li>
+					<li><a href="/dealers/categories/category/international/" title="International">International</a></li>
+					<li><a href="/dealers/categories/category/dealer_login/" title="Dealer Login">Dealer Login</a></li>
+					<li><a href="/dealers/categories/category/become_a_dealer/" title="Become a Dealer">Become a Dealer</a></li>
+				</ul>
+                <!-- CUSTOMER STORIES -->
+				<h3><a href="/customer_stories" title="Customer Stories">Customer Stories</a></h3>
+				<ul>
+					<li><a href="/customer_stories/categories/category/stories_archive/" title="Stories Archive">Stories Archive</a></li>
+					<li><a href="/customer_stories/categories/category/testimonials/" title="Testimonials">Testimonials</a></li>
+					<li><a href="/customer_stories/categories/category/case_studies/" title="Case Studies">Case Studies</a></li>
+					<li><a href="/customer_stories/categories/category/human_interest/" title="Human Interest">Human Interest</a></li>
+				</ul>
+				<!-- NEWS -->
+				<h3><a href="/news" title="News">News</a></h3>
+				<ul><li><a href="/news/newsletters/" title="Newsletter">Newsletter</a>
+                		<ul><li><a href="/news/newsletters/unsubscribe/" title="Unsubscribe">Unsubscribe</a></li>
+                        	<li><a href="/news/categories/category/archive/" title="Archive">Archive</a></li>
+                        </ul>
+                    </li>
+					<li><a href="/news/categories/category/events/" title="Events">Events</a></li>
+					<li><a href="/news/categories/category/mauries_corner/" title="Maurie's Corner">Maurie’s Corner</a></li>
+					<li><a href="/news/more/rss/" title="Subscribe via RSS">Subscribe via RSS</a></li>
+				</ul>
+			</div>
+			<div class="split">
+                <!-- SUPPORT -->
+				<h3><a href="/support" title="Support">Support</a></h3>
+				<ul>
+					<li><a href="/knowledge_base/" title="Knowledge Base">Knowledge Base</a></li>
+					<li><a href="/support/more/activation/" title="Activation">Activation</a>
+						<ul><li><a href="/support/more/how_to_activate/" title="How to Activate">How to Activate</a></li>
+							<li><a href="/support/more/transferring_your_zoomtext_license/" title="Transfer License">Transfer License</a></li>
+							<li><a href="/support/more/faq/" title="FAQ">FAQ</a></li>
+							<li><a href="/support/more/manual_activation/" title="Manual Activation">Manual Activation</a></li>
+                       </ul>
+                    </li>
+					<li><a href="/forums/" title="Forums">Forums</a></li>
+					<li><a href="/support/more/contact_support/" title="Contact Support">Contact Support</a></li>
+					<li><a href="/support/more/esp_overview/" title="ESP Overview">ESP Overview</a>
+                        <ul><li><a href="/support/more/pricing/" title="Pricing">Pricing</a></li>
+                            <li><a href="/support/more/terms_policies/" title="Terms &amp; Policies">Terms &amp; Policies</a></li>
+                            <li><a href="/support/more/esp_support_request/" title="ESP Support Request">ESP Support Request</a></li>
+                            <li><a href="/support/more/sma/" title="SMA">SMA</a></li>
+                       </ul>
+                    </li>
+					<li><a href="/support/more/updates/" title="Updates">Updates</a></li>
+                    <li><a href="/support/more/release_notes/" title="Release Notes">Release Notes</a></li>
+					<li><a href="/support/more/register_your_product/" title="Register Your Product">Register Your Product</a></li>
+					<li><a href="/support/more/documentation/" title="Documentation">Documentation</a></li>
+					<li><a href="/support/more/training_and_consulting/" title="Training &amp; Consulting">Training &amp; Consulting</a></li>
+					<li><a href="/support/more/tutorial/" title="Tutorial">Tutorial</a></li>
+				</ul>
+			</div>
+			<div class="split">
+            	<!-- ABOUT US -->
+				<h3><a href="/about_us" title="About Us">About Us</a></h3>
+				<ul>
+					<li><a href="/about_us/categories/category/company_history/" title="Company History">Company History</a></li>
+					<li><a href="/about_us/categories/category/management/" title="Management">Management</a></li>
+					<li><a href="/about_us/categories/category/our_customers/" title="Our Customers">Our Customers</a></li>
+					<li><a href="/about_us/categories/category/partners/" title="Partners">Partners</a></li>                    
+					<li><a href="/about_us/categories/category/other_resources/" title="Other Resources">Other Resources</a>
+						<ul><li><a href="/about_us/categories/category/agencies/" title="Agencies">Agencies</a></li>
+							<li><a href="/about_us/categories/category/low_vision_resources/" title="Low Vision Resources">Low Vision Resources</a></li>
+                       </ul>                    
+                    </li>                    
+					<li><a href="/about_us/categories/category/careers/" title="Careers">Careers</a>
+						<ul><li><a href="/about_us/categories/category/current_career_opportunities/" title="Current Career Opportunities">Current Career Opportunities</a></li>
+							<li><a href="/about_us/categories/category/submit_a_resume/" title="Submit a Resume">Submit a Resume</a></li>
+                       </ul>                    
+                    </li>
+					<li><a href="/about_us/categories/category/contact_us/" title="Contact Us">Contact Us</a></li>
+					<li><a href="/about_us/categories/category/how_to_find_us/" title="How to Find Us">How to Find Us</a></li>
+					<li><a href="/about_us/categories/category/vermont_information/" title="Vermont Information">Vermont Information</a></li>
+					<li><a href="/about_us/categories/category/press_center/" title="Press Center">Press Center</a>
+						<ul><li><a href="/about_us/categories/category/press_releases/" title="Press Releases">Press Releases</a></li>
+							<li><a href="/about_us/categories/category/in_the_news/" title="In The News">In The News</a></li>
+                       </ul>
+                    </li>
+				</ul>
+				<h3><a href="/terms_of_use" title="Terms of Use">Terms of Use</a></h3>
+				<h3><a href="/privacy_policy" title="Privacy Policy">Privacy Policy</a></h3>
+				<h3><a href="/about_us/categories/category/contact_us/" title="Contact Us">Contact Us</a></h3>
+				<h3><a href="/accessibility" title="Accessibility">Accessibility</a></h3>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" class="wrapper">
+	<div class="content">
+    	<div class="vcard">
+            <div class="adr">
+                <strong class="fn org">Ai Squared</strong>
+                <span class="street-address">130 Taconic Business Park <abbr title="Road">Road</abbr></span>
+                <span class="locality">Manchester Center</span>
+                <abbr class="region" title="Vermont">Vermont</abbr>
+                <span class="postal-code">05255</span>
+            </div>
+            <ul>
+                <li class="tel"><strong>Phone</strong> <span class="value">+1(802)362-3612</span></li>
+                <li class="tel"><strong class="type">Fax</strong> <span class="value">+1(802)362-1670</span></li>
+                <li class="email"><strong>Sales</strong> <a class="value" href="mailto:sales@aisquared.com" title="sales@aisquared.com">sales@aisquared.com</a></li>
+                <li class="email"><strong>Support</strong> <a class="value" href="/support/more/contact_support/" title="Contact Support">Contact Support</a></li>
+            </ul>
+    	</div>
+        <div class="facebook">
+            <p><a href="http://www.facebook.com/pages/ZoomText/53900640282"><img src="http://www.aisquared.com/images/facebook.gif" alt="Image of Facebook Icon"></a><br>© 2009 Ai Squared, all rights reserved.</p>
+        </div>
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1692189-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+	<!--
+	// SWFFix.registerObject("FlashID");
+	//-->
+</script>
 
 </body></html>
