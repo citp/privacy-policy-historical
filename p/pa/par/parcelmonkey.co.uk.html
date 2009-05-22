@@ -1,0 +1,315 @@
+<!--The following is the downloaded HTML source of the parcelmonkey.co.uk privacy policy that was archived on 2009-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522143152id_/http%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Privacy Policy | Parcel Monkey</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<style type="text/css">
+	
+	html {
+		height:101%;
+	}
+	
+	body {
+		background-color: #ffff99;
+		font-size:76%;
+		color: #333;
+		font-family: Arial;
+	}
+
+	.onepixborder {
+		border: 1px solid #000000;
+	}
+	.input_brownborder {
+		border: 1px solid #4F360A;
+		background-color: #FFFFFF;
+	}
+	
+	#mainbody {
+		background-image:url(images/pagebg.jpg);
+		background-position: center;
+		background-repeat: repeat-y;
+		padding-top:20px;
+	}
+	
+	a {
+		color:#4f360a;
+		text-decoration: underline;
+	}
+	
+	#menu {
+		margin-bottom:15px;
+	}
+	
+	#menu a {
+		font-weight: bold;
+		color: #4f360a;
+		font-size:12px;
+		margin-right: 12px;
+		text-decoration: none;
+	}
+	
+	#menu a:hover {
+		color:#dda01d;
+	}
+	
+	h1 {
+		font-size: 1.6em;
+		color: #4f360a;
+		margin:0 0 0.5em 0;
+	}
+
+	h2 {
+		font-size: 1.2em;
+		color: #4f360a;
+		margin:0 0 0.5em 0;
+	}
+	
+	#footer {
+		color: #4f360a;
+		font-size:0.8em;
+		position: relative;
+		bottom: 7px;
+	}
+	
+	.oddrow td,.oddrow th {
+	}
+	
+	.evenrow td,.evenrow th {
+		background-color:#ffffda;
+	}
+	
+	.actionbutton {
+		padding: 3px 10px 3px 10px;
+		background-color:#ddbb1d;
+		color:#4f370b;
+		font-weight:bold;
+		border: solid 1px #4f370b;
+		cursor:pointer;
+		text-decoration: none;
+	}
+	
+	.actionbutton:hover {
+		background-color:#de8d17;
+	}
+
+</style>
+<style type="text/css">
+
+div.box2 {
+	background-image:url(images/box-bg.jpg); 
+	background-repeat: repeat-y; 
+	background-position: center; 
+	width:360px;
+}
+
+.box2 div {
+	background-image:url(images/box-top.jpg); 
+	background-repeat: no-repeat; 
+	background-position: top center;
+}
+
+.box2 div div {
+	background-image:url(images/box-bottom.jpg); 
+	background-repeat: no-repeat; 
+	background-position: bottom center; 
+	padding:15px;
+	text-align:left;
+}
+
+.box2 div div div {
+	background-image:none;
+	padding:0;
+}
+
+
+</style>
+<script type="text/javascript" src="jquery.js"></script>
+
+<style type="text/css">
+	
+	.tabs div {
+		display:none;
+		padding:10px 0 10px 0;
+		border-top:solid 1px #CCC;
+		clear:both;
+	}
+	
+	.tabs ul {
+		list-style:none;
+		padding:0;
+		margin:0;
+	}
+	
+	.tabs ul li {
+		margin:0;
+		padding:0;
+		float:left;
+	}
+	
+	.tabs ul li a {
+		display:block;
+		padding:5px 15px 5px 15px;
+		border-top:solid 1px #CCC;
+		border-left:solid 1px #CCC;
+		border-right:solid 1px #CCC;
+		background-color:#F1F1F1;
+		color:#000;
+		color:#555;
+		font-weight:bold;
+		text-decoration: none;
+		margin-right:5px;
+		position:relative;
+		top:1px;
+		border-bottom:solid 1px #CCC;
+	}
+	
+	.tabs ul li:first-of-type a {
+		margin-left:5px;
+	}
+	
+	.tabs ul li a:hover {
+		color:#000;
+	}
+	
+	.tabs ul li a.active {
+		border-bottom:solid 1px #FFF;
+		background-color:#FFF;
+		color:#000;
+	}
+	
+	.box1 {
+		padding:15px; background-color:#fce7c2; border:solid 1px #4f370b;
+	}
+	
+	form {
+		padding:0;
+		margin:0;
+	}
+	
+</style>
+
+<script type="text/javascript">
+
+function multipack() {
+	if($('#multi_pack').attr('checked') == true) {
+		// expand it
+		$('#pieces').attr('value','');
+		$('#multi_pack_info').slideDown('fast',function() {
+			//$('#pieces').focus();
+		});
+		
+	}else{
+		// close it
+		$('#multi_pack_info').slideUp('fast',function() {
+			$('#pieces').attr('value','1');			
+		});
+	}	
+}
+
+$(document).ready(function() {
+	// make current tab active
+	var myFile = document.location.toString();
+	if (myFile.match('#')) { // the URL contains an anchor
+	  var myAnchor = myFile.split('#')[1];
+		$('.tabs div#' + myAnchor).show();
+		var original=$('.tabs div#' + myAnchor);
+	}else{
+		// Make first active
+		$('.tabs div:first').show();
+		var original=$('.tabs div:first');
+	}
+	$('.tabs ul li a[href="#' + original.attr('id') + '"]').addClass('active');
+	$('.tabs ul li a').each(function() {
+		$(this).click(function(e) {
+			$('.tabs div').hide();
+			$('.tabs ul li a').removeClass('active');
+			$(this).addClass('active');
+			$('.tabs div' + $(this).attr('href')).show();						
+		});
+	});
+	
+	// If Pieces > 0 show it
+	if($('#pieces').attr('value') > 1) {
+		$('#multi_pack_info').show();
+		$('#multi_pack').attr('checked',true);
+	}
+	
+});
+
+
+</script>
+
+</head>
+<body>
+
+<div align="center">
+	
+	<div style="background-image:url(images/header.jpg); height: 150px; background-repeat: no-repeat; background-position: center">
+		<table cellpadding="0" cellspacing="0" width="740">
+			<tbody><tr>
+				<td style="padding-top: 38px;">
+					<a href="index.php"><img src="images/spacer.gif" border="0" alt="Parcel Monkey" height="75" width="300"></a>
+				</td>
+				<td align="right" style="color: #FFF; font-weight:bold; font-size:18px; padding-top: 58px; line-height: 22px;">
+			
+					next day? SMS tracking?<br>
+					door to door courier? insurance?<br>
+					<span style="color:#ddbb1d">good bananas!</span>
+					
+				</td>
+			</tr><tr>
+		</tr></tbody></table>
+	</div>
+	
+	<div id="mainbody">
+		<div style="width:740px;" align="left">
+			
+			<div id="menu">
+				<a href="index.php">HOME</a><a href="news">NEWS</a><a href="professional-courier-company">ABOUT US</a><a href="faqs">FAQS</a><a href="api-integration">API INTEGRATION</a><a href="regular-sender">REGULAR SENDER?</a><a href="cart">CART</a><a href="orders">ORDERS</a><a href="contact-us">CONTACT US</a>
+			</div>
+			<h1>Privacy Policy</h1><p><a href="index.php"><img src="images/monkey/button_back.gif" border="0" alt="Back" width="53" height="17"></a></p><p>Parcel Monkey is committed to preserving the privacy of users of our web sites. Any information about you that we collect is used purely to improve the services we offer to you, and to make our web site's content and services easier to use and more appropriate to you. We may use this information, with your permission, to contact you with information about updates to our web site or other marketing information. DHL has never shared any information obtained on or from its web sites with any other organisation, and will not do so in future, unless required by law. Nor will we sell information obtained on this site to any party or parties external to DHL and its subsidiaries. <br><br>Certain areas of the Parcel Monkey web site including, but not limited to, Web Shipping require registration or a password for access. Information obtained from users of these areas may also be used for Parcel Monkeys marketing purposes. Parcel Monkey provides a right of access and rectification of personal data under the applicable legislation.<br><br>Certain shipment data will be provided to the authorities of the country of transit or destination for customs and tax clearance or for security screening, as required by the laws of such country. The information provided would usually include: shipper name and address, receiver name and address, description of the goods, number of pieces, weight and value of shipment.<br><br>Parcel Monkey reserves the right to change its privacy policy at any time with or without prior notice. Please check back frequently to be informed of any changes. By using the Parcel Monkey web site you agree to this Privacy Policy.</p>
+		    
+            <div align="right" style="vertical-align:middle"><br>
+              <a href="http://www.facebook.com/group.php?gid=56206860307"><img src="images/facebook.gif" alt="Follow us on Facebook" border="0"></a><a href="http://twitter.com/parcelmonkey/"><img src="images/twitter.gif" alt="Follow us on Twitter" border="0"></a>
+            <!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="49feee7025602b73";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END -->
+			</div>
+		</div>
+		
+	</div>
+	
+	<div>
+		<img src="images/base.jpg">
+	</div>
+	
+			<div id="menu">
+				<a href="index.php">HOME</a><a href="news">NEWS</a><a href="professional-courier-company">ABOUT US</a><a href="faqs">FAQS</a><a href="api-integration">API INTEGRATION</a><a href="regular-sender">REGULAR SENDER?</a><a href="cart">CART</a><a href="orders">ORDERS</a><a href="contact-us">CONTACT US</a>
+			</div>    
+    
+	<div style="width: 740px;" align="left" id="footer">
+		<div align="center">Copyright © 2006-2009 Parcel Connect Limited company number 05856854 trading as Parcel Monkey. <a href="/privacy-policy">Privacy Policy</a> <a href="/terms-and-conditions">Terms &amp; Conditions</a> <a href="/site-map">Site Map</a>		  <br>
+		  <a href="http://www.buckleconsulting.com/"><br>
+		  Designed, Built and Powered by Buckle Consulting</a>	    </div>
+	</div>
+	
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8152899-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+
+</body></html>
