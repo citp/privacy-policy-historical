@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115413id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522104205id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
