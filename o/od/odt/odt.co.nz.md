@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015114950id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192356id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Otago Daily Times Online
 
