@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213021id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522065023id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,6 @@
 
 Check out [the DG homepage](https://web.archive.org/) for a brief overview of what you'll find in this gardening mega-site.
 
-  
 |  The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
 
 The type of information we gather falls into the categories below.
