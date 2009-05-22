@@ -1,94 +1,150 @@
-> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205113700id_/http%3A//www.brits.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522103453id_/http%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Brit Awards › Privacy Policy
+# BRITs 2009 – Privacy Policy
 
-Privacy Policy
+**BRIT AWARDS LIMITED PRIVACY POLICY**
 
-1\. Introduction and General Terms  
-BRIT Awards Limited (“BAL”) is committed to protecting you and your family’s personal information when you are using BAL services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the brits.co.uk or classicalbrits.co.uk websites or the BRITs pages of the bpi.co.uk website.
+BRIT Awards Limited (referred to in these terms and conditions as “BAL”, “we”, “us” or “our”) is a wholly owned subsidiary of BPI (British Recorded Music Industry) Limited (“BPI”). BAL and BPI are committed to protecting your privacy on-line. We use the information we collect about you to provide services to you when you visit the websites currently located at [www.brits.co.uk](http://www.brits.co.uk/), [www.classicalbrits.co.uk](http://www.classicalbrits.co.uk/) the BRITs pages of the [www.bpi.co.uk](http://www.bpi.co.uk/) website, including, without limitation, [www.bpi.co.uk/theacademy](http://www.bpi.co.uk/theacademy) (each a “Site” and, together, the “Sites”). We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.
 
-In order to provide you with the full range of BAL services, we are sometimes required to collect information about you.  
-This privacy policy explains the following:  
-• what information BAL may collect about you;   
-• how BAL will use information we collect about you;   
-• when BAL may use your details to contact you;   
-• whether BAL will disclose your details to anyone else;   
-• your choices regarding the personal information you have provided to us;   
-• the use of cookies on BAL websites and how you can reject these cookies. 
+It is your responsibility to read and understand this Privacy Policy. If you do not understand or accept this Privacy Policy then you should contact our Information Protection Officer whose contact details are set out below. If you do not agree to all of this Privacy Policy and do not wish to be bound by it, you are not authorised to access or otherwise use any of our Sites.
 
-As set out above, BAL is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the “data protection laws”).  
-The websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+**Introduction**
 
-2\. What information will BAL collect about me?  
-When you sign up to participate in or receive a service from brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, such as newsletters, competitions/prize draws, live chats, message boards or register with brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, we may ask for personal information about you. This can consist of information such as your name, email address, postal address, telephone or mobile number or date of birth. Different web pages may ask for different personal information.   
-By entering your details in the fields requested, you enable BAL and its service providers to provide you with the services you select.   
-Please note that sometimes on particular web pages we will require you to provide additional personal information. When we do this we will specify further on these web pages why we are collecting your information and how we will use it.  
-BAL also uses cookies (see paragraph 12 for details) and may collect IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). 
+This Privacy Policy explains the following:  
+• What information we collect about you;   
+• How we store your information;  
+• How your information is used;   
+• When we may contact you;   
+• Whether we will disclose your details to anyone else;  
+• Any age restrictions on supplying personal information to us;   
+• How long we may keep your personal information;  
+• Our use of cookies on the Sites and how you can reject these cookies;   
+• How to contact us.
 
-3\. How will BAL use the information they collect about me?  
-BAL will use your personal information for a number of purposes including the following:  
-• for “service administration purposes”, which means that BAL may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);   
-• to contact you about a submission you have made to the websites, including any content you provide;   
-• IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and   
-• to analyse and improve the services offered on brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk. e.g. to provide you with the most user-friendly navigation experience.   
-Where BAL proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.
+**1\. What Information We Collect**
 
-4\. When will BAL contact me?  
-BAL may contact you:  
-• in relation to the functioning of any service you have signed up for in order to ensure that BAL can deliver the services to you;   
+So that we can provide a personalised service, we may, upon registration or at other times on our Sites, ask you to submit personal information to us. You may also be required to provide personal information to order products, enter competitions, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, telephone/mobile number, your gender and date of birth. Different web pages on a Site may ask for different personal information. We may ask you for other information, including, but not limited to, your interests, opinions and the way you use our service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.
+
+You are under no obligation to provide such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services. 
+
+If you’re entering a competition, you can choose to tick either ‘yes’ or ‘no’ to let us know if you would like to be contacted or not. And don’t worry, ticking ‘no’ won’t affect your entry into the competition – your chances are as good as everyone else’s! If you’re registering specifically to hear from us, we’ll take this as your consent, so we won’t ask you to tick ‘yes’ or ‘no’.
+
+Please note that sometimes on particular web pages on the Sites we will require you to provide additional personal information. When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
+
+**2\. How We Store Your Information**
+
+Information you submit via a Site is sent to a computer located in the United Kingdom. Information submitted by you may be transferred to, stored and processed by us, our subsidiaries, BPI and any subsidiaries of BPI as well as BAL and BPI’s service providers and to other reputable third party organisations, which may be situated outside the European Economic Area. In addition if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
+
+By submitting information, you agree to the collection, transfer, storage or processing of information about you for the purposes described in this Privacy Policy. BAL and BPI will take all reasonable steps to ensure that information about you is treated securely in accordance with this policy and that all information you provide to us is stored on BAL or BPI’s secure servers or those of our service providers.
+
+**3\. How Your Information Is Used**
+
+We will use the information you provide to us to:  
+• monitor, develop and improve the Sites, services and your experience;  
+• assist in and administer the provision of services to you (i.e. dispatch news and communications via email, post, fax or phone, provide you with password reminders or to notify you that a particular service has been suspended for maintenance);   
+• process and deal with any complaints or enquiries made about you;  
+• contact you about a submission you have made to a Site, including any content you provide; and  
+• understand customer trends and patterns.
+
+**4\. When We May Contact You**
+
+We may contact you:  
+• in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the services to you;   
 • where you have opted to receive further correspondence;   
-• in relation to any contribution you have made to brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, e.g. on BAL message boards;   
-• to invite you to participate in surveys about BAL services (participation is always voluntary); and   
-• for marketing purposes where you have specifically agreed to this (see paragraph 5)   
-Local pages will give you detailed information about how BAL will contact you in relation to specific services.
+• in relation to any contribution you have made to a Site, e.g. on our message boards;   
+• to invite you to participate in surveys about our services (participation is always voluntary); and   
+• for marketing purposes where you have specifically agreed to this (see paragraph 5 below)   
+Local pages will give you information about how we will contact you in relation to specific services.
 
-5\. Will I be contacted for marketing purposes?  
-BAL won’t contact you for marketing purposes, or promote new services to you unless you specifically agree to be contacted for these purposes. 
+**5\. Will I Be Contacted For Marketing Purposes?**
 
-6\. Will BAL share my personal information with anyone else?  
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7. Generally, we will only use your information within BAL. However, sometimes BAL uses third parties to process your information. BAL will require these third parties to comply strictly with its instructions and BAL will require that they do not use your personal information for their own business purposes. 
+Where and only where requested by you we will:
 
-7\. Offensive or inappropriate content on BAL websites  
-If you post or send offensive, inappropriate or objectionable content anywhere on or to brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, or otherwise engage in any disruptive behaviour on brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, BAL may use your personal information to stop such behaviour.   
-Where BAL reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), BAL may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+• send you and keep you updated with information by email, telephone (including SMS) or mail about existing and new services, products and special offers from us; and/or  
+• send you information by email, telephone or mail about related products or services of selected third parties that may be of interest to you. However, you always have the opportunity to remove your consent to such use by following the ‘unsubscribe’ link at the foot of any emails that we send to you or by emailing us at britwebsite@bpi.co.uk or writing to us at the address set out below with a request to remove your consent. 
 
-8\. What if I am a user aged 16 or under?  
-If you are aged 16 or under, please get your parent/guardian’s permission beforehand whenever you provide personal information to BAL’s websites. Users without this consent are not allowed to provide us with personal information. 
+We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details.
 
-9\. How long will BAL keep my personal information?   
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with BAL. In the case that you wish to cancel your registration as a brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk member, once an account is deleted, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.  
-Where you contribute to brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, BAL will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. 
+You can tell us not to contact you or share the information with a third party either at initial registration or later through updates or amendments to your personal information. We may occasionally contact you about products and services we feel may be of interest to you. This will only come from us (or our agents) and only if you have indicated that you do not object to these offers.
 
-10\. Can I find out what personal information BAL holds about me?  
-Under the Data Protection Act you have the right to request a copy of the personal information BAL holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+**6\. Will We Share Your Personal Information With Anyone Else?**
 
-Please address requests and questions about this or any other question about this Privacy Policy to The Data Protection Officer, BRIT Awards Limited, Riverside Building, County Hall, London, SE1 7JA Email: [contactus@brits2008.com](mailto:contactus@brits2008.com)
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7. Generally, we will only use your information within BAL, BAL’s subsidiaries, BPI and any subsidiaries of BPI. However, sometimes BAL and/or BPI use third parties to process your information. BAL and/or BPI will require these third parties to comply strictly with its instructions and will require that they do not use your personal information for their own business purposes.
 
-11\. What if I am accessing BAL websites outside the UK?  
-www.brits.co.uk, classicalbrits.co.uk and the BRITs pages of bpi.co.uk is published in the UK by BAL. All personal information submitted by you to the site will be processed in accordance with this Privacy Policy (and any local terms that apply on websites) unless terms on sites specify otherwise.
+**7\. Offensive Or Inappropriate Content On A Site**
 
-12\. Changes to BAL’s Privacy Policy  
-This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any brits.co.uk or classicalbrits.co.uk website or the BRITs pages of bpi.co.uk website. The date of the most recent revisions will appear on this page.
+If you post or send offensive, inappropriate or objectionable content anywhere on or to a Site, or otherwise engage in any disruptive behaviour on a Site, we may use your personal information to stop such behaviour. Where we reasonably believe that you are or may be in breach of any of applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use your personal information to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behaviour.
 
-13\. Cookies Policy -Information BAL collects from you  
-a. What is a cookie?  
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.  
-Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk features. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.
+**8\. What If I Am A User Aged 16 or Under?**
 
-During the course of any visit to brits.co.uk, classicalbrits.co.uk or the BRITs pages of bpi.co.uk, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.  
-b. How does BAL use cookies?  
-Information supplied by cookies can help us to analyse the profile of our visitors and help us to keep the websites secure and provide you with a better user experience.
+If you are aged 16 or under, please get your parent/guardian’s permission beforehand whenever you provide personal information to a Site. Users without this consent are not allowed to provide us with personal information. If we become aware that you are under 16 and are attempting to or have submitted personal information via a Site without your parent/guardian’s permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
 
-BAL also uses a number of independent measurement and research companies. They gather information regarding the visitors to BAL sites on our behalf using cookies, log file data and code which is embedded on our websites. BAL uses this type of information to help improve the services it provides to its users. BAL strictly requires that this information is not to use any information for their own business or other purposes (see paragraph 6). 
+**9\. Keeping Our Records Accurate**
 
-14\. Contacting BAL about this Privacy Policy and Cancellation of Registration  
-If you have any questions or comments about this Privacy Policy or would like to cancel your registration at any time, please contact:
+We aim to keep our information about you as accurate as possible, but we depend on our users to update their personal information whenever necessary. You can inform us of a change in your details or unsubscribe from our mailing list by emailing us at britwebsite@bpi.co.uk or by writing to us at the address set out below. If you have another query relating to your information, please contact us as set out below.
 
-The Data Protection Officer  
+**10\. Limitation Of Liability**
+
+The Sites may contain links to other websites where information practices may be different to ours. For example, if you “click” on a link, the “click” may take you off the Site. Visitors should consult the other websites’ privacy policies as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+
+We may sometimes offer content (e.g., competitions, sweepstakes, or promotions) sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the website activity. We are not responsible for and have no control over these third parties’ use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+
+We may use a reputable third party to present or serve the advertisements that you may see at the Sites. This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
+
+**11\. Legal Disclaimer**
+
+We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal information.
+
+**12\. How Long Will We Keep Your Personal Information?**
+
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with BAL. In the case that you wish to cancel your registration as a Site member, once an account is deleted, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
+
+Where you contribute to a Site, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. 
+
+**13\. Can I Find Out What Personal Information We Hold About You?**
+
+Under the Data Protection Act 1998 you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.  
+Please address requests and questions about this or any other question about this Privacy Policy to The Information Protection Officer, BRIT Awards Limited, Riverside Building, County Hall, London, SE1 7JA. 
+
+**14\. Accessing A Site Outside The UK**
+
+The Sites are published in the UK by BAL. All personal information submitted by you to a Site will be processed in accordance with this Privacy Policy (and any local terms that apply on a Site) unless terms on a Site specify otherwise.
+
+**15\. Updates**
+
+We reserve the right, from time to time, and at our sole discretion, to change or update this Privacy Policy. 
+
+All changes to this Privacy Policy will be published on this page and on the applicable Site(s). Upon publication, each change will become effective and you will be deemed to be aware of and bound by it. You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+
+**16\. Cookies**
+
+Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a website if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user’s computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
+
+We may use cookies to:  
+• identify who you are and to access your account information;  
+• estimate our audience size and patterns;  
+• control how often visitors see similar adverts on the Sites; and  
+• track preferences to improve and update our Sites.
+
+For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau UK at [www.allaboutcookies.org/](http://www.allaboutcookies.org/)
+
+**17\. Security**
+
+Our Sites have security installed to ensure that any personal data entered onto the Sites is protected against loss, misuse or alteration. However, due to the nature of the Internet, we can’t guarantee the protection of your personal information and we can’t be responsible for any outcomes resulting from a breach of security when the Sites are used. We’re confident in our security, and it is always a top priority to ensure we do not get any problems. 
+
+**18\. Your Acceptance Of These Terms**
+
+By using a Site, you consent to the collection and use of this information by BAL and to this Privacy Policy. 
+
+**19\. Contacting Us And Cancellation Of Registration**
+
+If you have any questions or comments about this Privacy Policy or would like to cancel your registration to a Site at any time, please contact:
+
+The Information Protection Officer  
 BRIT Awards Limited  
 Riverside Building  
 County Hall  
 London  
 SE1 7JA 
 
-Email: [contactus@brits2008.com](mailto:contactus@brits2008.com)
+This Privacy Policy was last updated on 30 January 2009.
