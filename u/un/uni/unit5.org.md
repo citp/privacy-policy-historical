@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050028id_/http%3A//www.unit5.org/districtinformation/contact/departments/technology/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522201143id_/http%3A//www.unit5.org/departments/technology/privacy.shtml) for the most accurate reproduction.*
 
 # Online and Hosted Unit 5 Sites Privacy Policy
 
-######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20081219050028id_/http%3A//www.unit5.org/districtinformation/contact/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
+######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20090522201143id_/http%3A//www.unit5.org/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
 
 ##### **Online and Hosted Unit 5 Sites** Privacy Policy
 
