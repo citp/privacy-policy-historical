@@ -1,87 +1,87 @@
-> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
 
 # Rat Race Rebellion - Screened work at home job leads from Staffcentrix
 
-[](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/job_postings.html)
+[](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/job_postings.html)
 
 As seen in/on:
 
   
 Screened Work at Home Hirers by Field  
   
-[Accounting & Financial Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-accounting.htm)  
+[Accounting & Financial Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-accounting.htm)  
   
-[Administrative & Clerical Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-admin.htm)  
+[Administrative & Clerical Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-admin.htm)  
   
-[Artistic Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-artistic.htm)  
+[Artistic Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-artistic.htm)  
   
-[Call Center & Customer Service Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/CS_Comparison.html)  
+[Call Center & Customer Service Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/CS_Comparison.html)  
   
-[Consultant / Expert Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-SME.htm)  
+[Consultant / Expert Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-SME.htm)  
   
-[Education & Tutoring Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-education.htm)  
+[Education & Tutoring Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-education.htm)  
   
-[Engineering Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-engineering.htm)  
+[Engineering Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-engineering.htm)  
   
-[Healthcare & Medical Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-health.htm)  
+[Healthcare & Medical Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-health.htm)  
   
-[Human Resources Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-HR.htm)  
+[Human Resources Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-HR.htm)  
   
-[Job Search Lists & Boards](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-lists.htm)  
+[Job Search Lists & Boards](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-lists.htm)  
   
-[Legal Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-legal.htm)  
+[Legal Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-legal.htm)  
   
-[Medical Transcription & Coding Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-medical.htm)  
+[Medical Transcription & Coding Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-medical.htm)  
   
-[Miscellaneous Job Categories](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-misc.htm)  
+[Miscellaneous Job Categories](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-misc.htm)  
   
-[Mystery Shopping Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-mysteryshopping.htm)  
+[Mystery Shopping Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-mysteryshopping.htm)  
   
-[Non-Profit Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-nonprofits.htm)  
+[Non-Profit Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-nonprofits.htm)  
   
-[Notary Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-notary.htm)  
+[Notary Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-notary.htm)  
   
-[Surveys - Paid](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-surveys.htm)  
+[Surveys - Paid](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-surveys.htm)  
   
-[Technical & Web Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-tech.htm)  
+[Technical & Web Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-tech.htm)  
   
-[Transcription (non-medical) Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-transcribe-non-med.htm)  
+[Transcription (non-medical) Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-transcribe-non-med.htm)  
   
-[Translation & Linguistic Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-linguist.htm)  
+[Translation & Linguistic Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-linguist.htm)  
   
-[Writing & Editing Jobs](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/jobs-writing.htm)  
+[Writing & Editing Jobs](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/jobs-writing.htm)  
 
 
 Work At Home Resources  
-[Google Your Way to Telework Job Leads](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/google_search.html)  
+[Google Your Way to Telework Job Leads](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/google_search.html)  
   
-[Tips for Spotting Scams](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/spottingscams.htm)  
+[Tips for Spotting Scams](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/spottingscams.htm)  
   
-[Home-Based Careers by Niche](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/HBCareers.htm)  
+[Home-Based Careers by Niche](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/HBCareers.htm)  
   
-[Telework/Telecommute Resources](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/telework.htm)  
+[Telework/Telecommute Resources](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/telework.htm)  
   
-[Business Ownership Resources](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/BizOwner.htm)  
+[Business Ownership Resources](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/BizOwner.htm)  
   
-[Freelance/Contractor Resources](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/freelance.htm)  
+[Freelance/Contractor Resources](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/freelance.htm)  
   
 [Telework Primer for "Newbies"](http://www.teleworkhub.com/)  
 
 
 Bonus Resources  
-[Freebies](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/freebies.htm)  
+[Freebies](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/freebies.htm)  
   
-[Family & Children](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/familyChildren.htm)  
+[Family & Children](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/familyChildren.htm)  
   
-[Lifestyle & Society](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/lifestyle.htm)  
+[Lifestyle & Society](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/lifestyle.htm)  
   
-[Aging Workforce / Boomers](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/boomers.htm)  
+[Aging Workforce / Boomers](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/boomers.htm)  
   
-[Military Spouses](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/militaryspouse.htm)  
+[Military Spouses](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/militaryspouse.htm)  
   
-[People with Disabilities](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/pwd.htm)  
+[People with Disabilities](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/pwd.htm)  
   
-[The Environment](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/enviro.htm)  
+[The Environment](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/enviro.htm)  
 
 
 About Us
@@ -90,20 +90,20 @@ About Us
 
 
 Who are Chris & Mike?  
-\- [Personal](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/bios-personal.htm)  
-\- [Professional](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/bios-professional.htm)  
+\- [Personal](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/bios-personal.htm)  
+\- [Professional](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/bios-professional.htm)  
   
-[For the Media](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/mediapage.htm)  
+[For the Media](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/mediapage.htm)  
   
 [Our Blog](http://ratracerebellion.typepad.com/)  
   
-[In the News](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/inthenews.htm)  
+[In the News](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/inthenews.htm)  
   
-[Speaking](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/speaking.htm)  
+[Speaking](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/speaking.htm)  
   
-[Contact Us](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/contactus.htm)  
+[Contact Us](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/contactus.htm)  
   
-[Privacy Policy](https://web.archive.org/web/20081218070252id_/http%3A//www.ratracerebellion.com/privacy.html)  
+[Privacy Policy](https://web.archive.org/web/20090522231634id_/http%3A//www.ratracerebellion.com/privacy.html)  
 
 
 We're the Virtual Career Advisors for Military.com   
@@ -131,10 +131,11 @@ When a person subscribes to one of our email newsletters (distributed via yourma
 **Cookies**  
 This site does not use cookies (a piece of code that is placed on a user’s computer and tied to information about the user) except in instances when the user has entered a password to access information that is password-protected.   
     
-As with many other websites, some of our advertisers may be using cookies; however, we cannot control these cookies once the advertiser has been given permission to place the ad.   
+Advertiser Cookies  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
     
 [Click here](http://www.aboutcookies.org/Default.aspx?page=2) for a tutorial on cookie removal.   
-    
+   
 **Links**  
 This site contains links to other sites. Staffcentrix is not responsible for the privacy practices or content of those sites. We encourage you to be aware of when you leave our site and recommend that you refer to other sites' privacy policies for more information.   
     
