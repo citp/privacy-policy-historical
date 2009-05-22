@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animetake.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012639id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animetake.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522230006id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeTake.com - Privacy Policy
 
-The privacy of our visitors to [animetake.com](http://animetake.com/ "http://animetake.com") is important to us.
+The privacy of our visitors to animetake.com is important to us.
 
-At [animetake.com](http://animetake.com/ "http://animetake.com"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit [animetake.com](http://animetake.com/ "http://animetake.com"), and how we safeguard your information.Â  We never sell your personal information to third parties.
+At animetake.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit animetake.com, and how we safeguard your information.Â  We never sell your personal information to third parties.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files.Â  The information in the log files includeÂ  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.Â
@@ -12,6 +12,6 @@ As with most other websites, we collect and use the data contained in log files.
 **Cookies and Web Beacons**  
 We do use cookies to store information, such as your personal preferences when you visit our site.Â  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on [animetake.com](http://animetake.com/ "http://animetake.com") to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.Â  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on animetake.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.Â  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.Â  However, this can affect how you are able to interact with our site as well as other websites.Â  This could include the inability to login to services or programs, such as logging into forums or accounts.
