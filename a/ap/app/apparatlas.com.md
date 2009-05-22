@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apparatlas.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052707id_/http%3A//www.thankyoupath.com/%3Fmodule%3Dpublic%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparatlas.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522235808id_/http%3A//www.apparatlas.com/%3Fmodule%3Dpublic%26action%3Dprivacy) for the most accurate reproduction.*
 
 # ThankYouPath
 
@@ -54,8 +54,8 @@ services are developed by people over whom Foodocal exercises no control. These 
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. 
 
-If you have any additional questions, please feel free to contact us any time at [privacy@thankyoupath.com](https://web.archive.org/web/20081217052707id_/http%3A//www.thankyoupath.com/privacy@thankyoupath.com). 
+If you have any additional questions, please feel free to contact us any time at [privacy@thankyoupath.com](https://web.archive.org/web/20090522235808id_/http%3A//www.apparatlas.com/privacy@thankyoupath.com). 
 
 For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, click on the links to the side of this page. 
 
-[Click Here To Return Home](https://web.archive.org/web/20081217052707id_/http%3A//www.thankyoupath.com/index.php?module=home&action=main)
+[Click Here To Return Home](https://web.archive.org/web/20090522235808id_/http%3A//www.apparatlas.com/index.php?module=home&action=main)
