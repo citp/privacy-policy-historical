@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004352id_/http%3A//www.longhornsteakhouse.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522222727id_/http%3A//www.longhornsteakhouse.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # LongHorn Steakhouse
 
@@ -11,7 +11,7 @@ LongHorn Steakhouse respects the privacy of every individual who visits our webs
 **If you visit our website:**  
 In general, you can visit our website without telling us who you are or revealing any personally identifiable information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors.
 
-In some cases, we may collect information about you that is not personally identifiable. This information is collected using a “cookie” that enables us to learn which advertisements bring users to our website. Cookies are small files placed on your hard drive that allow us to collect that information. LongHorn Steakhouse, along with our ad management partner, DoubleClick, uses this information to help us manage online advertising. None of the information collected by a cookie is personally identifiable, i.e., does not contain your name, address, email address, etc. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
+In some cases, we may collect information about you that is not personally identifiable. This information is collected using a “cookie” that enables us to learn which advertisements bring users to our website. Cookies are small files placed on your hard drive that allow us to collect that information. LongHorn Steakhouse, along with our ad management partner, uses this information to help us manage online advertising. None of the information collected by a cookie is personally identifiable, i.e., does not contain your name, address, email address, etc. 
 
 LongHorn Steakhouse also utilizes a third party to track and analyze usage and volume statistical information from our website customers in order to constantly improve the quality of our website. No data collected by a third party on behalf of LongHorn Steakhouse may be owned or used by such third party. LongHorn Steakhouse reserves the right to publish nonpersonally identifiable, summary information regarding its website customers for promotional purposes and as a representative audience for advertisers.
 
