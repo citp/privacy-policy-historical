@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913063726id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192349id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
 
 # Uniform Advantage Privacy Policy
 
