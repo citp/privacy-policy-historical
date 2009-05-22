@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the beautypedia.com privacy policy that was archived on 2008-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081023183927id_/http%3A//www.beautypedia.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beautypedia.com privacy policy that was archived on 2009-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522101959id_/http%3A//beautypedia.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head id="ctl00_HtmlHead"><title>
 	Beautypedia - Privacy Statement
 </title><link rel="stylesheet" type="text/css" href="./Styles.css">
+    <script src="/js/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script>
     
     <script language="JavaScript"> 
    <!-- 
@@ -21,12 +22,19 @@
             return false;
         } 
         return true; 
-    } 
+    }
+
+    function executeLoadFunctions() {
+        disableselect();      
+        document.getElementById("aspnetForm").style.visibility = 'visible'; //this enables the form - attempt to fix viewstate mac issue
+    }
     
     function disableselect()
     {
         if (typeof document.body.style.MozUserSelect!="undefined") //Firefox route
-            document.body.style.MozUserSelect="none";
+            document.body.style.MozUserSelect = "none";
+
+                    
     }
     
     document.onmousedown=right; 
@@ -34,20 +42,35 @@
     if (document.layers) window.captureEvents(Event.MOUSEDOWN); window.onmousedown=right; 
     document.onselectstart= new function() { return false; }  
         
-    function CaptureEnter(clientID) 
+    function CaptureEnter(e) 
     {        
          if(event.keyCode == 13) 
          {
-            SearchSubmitted = true;
-            DoSearch(clientID);            
+            //SearchSubmitted = true;
+            SubmitEmail('ctl00_txtEmail');            
          }
+         
+    }
+    
+    function CaptureEnterSearch(e) {
+       
+         if(e.keyCode == 13) {
+
+             document.getElementById('ctl00_PopUpRegion_BookmarkPopup1_pnlAddBookmark').style.visibility = 'hidden';
+            SearchSubmitted = true;
+            DoSearch('ctl00_txtSearch');                       
+         }
+         
     }
     
     function DoSearch(clientID) 
     {
-         
-        window.location = '/search.aspx?k=' + escape(document.getElementById(clientID).value) + '&new=1';
+        if (document.getElementById(clientID).value == 'Search Beautypedia...') document.getElementById(clientID).value = '';
+        window.location = '/search.aspx?k=' + escape(document.getElementById(clientID).value) + '&st=1%2c2%2c3%2c4&rid=1%2c2%2c3%2c4%2c5%2c6%2c7&new=1';
         
+    }
+    function SubmitEmail(clientID){
+        window.location = '/FreeEmailUpdates.aspx?e=' + escape(document.getElementById(clientID).value.replace('@','~'));
     }
     
     function CanSubmitForm() 
@@ -81,6 +104,13 @@
                 url = url + "?rnd=" + ran_number;
 			    var NewWindow = window.open(url,title,'top='+TopLeftY+', left='+TopLeftX+', width='+width+',height='+height+',directories=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no,resizable=no');					
 			    //NewWindow.document.getElementById('Content').innerHTML = document.getElementById('PFVArea').innerHTML;
+	}
+	
+	function OpenHTTPs(url)
+	{	            
+        var newurl = url.replace("https://", "http://");
+		window.open(newurl);					
+		//NewWindow.document.getElementById('Content').innerHTML = document.getElementById('PFVArea').innerHTML;
 	}
 	
 	function DoDDLChange() 
@@ -165,8 +195,38 @@
         }
     }
 
+    function UncheckAll(linkID,list) {
+        var link = document.getElementById(linkID);
+        var chkBoxList = document.getElementById(list);
+        var chkBoxCount = chkBoxList.getElementsByTagName("input");
+        for (var i = 0; i < chkBoxCount.length; i++) {
+            chkBoxCount[i].checked = false;
+        }
+        link.innerHTML = 'Check all';
+        link.href = "javascript:CheckAll('" + linkID + "','" + list+ "');";
+    }
+    
+    function CheckAll(linkID,list) {
+        var link = document.getElementById(linkID);
+        var chkBoxList = document.getElementById(list);
+        var chkBoxCount = chkBoxList.getElementsByTagName("input");
+        for (var i = 0; i < chkBoxCount.length; i++) {
+            chkBoxCount[i].checked = true;
+        }
+        link.innerHTML = 'Uncheck all';
+        link.href = "javascript:UncheckAll('" + linkID + "','" + list+ "');";
+    }
+
     //-->
     </script>    
+    
+    <!-- Add pipes between menu items - JA 3/26/2009 -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.menu tbody tr td table').css("border-right", "solid 1px #ffffff");
+            $('.menu tbody tr td table:last').css("border-right", "none");
+        });
+    </script>
     <!--Start Google Analytics -->
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -181,93 +241,189 @@
     </script> 
     <!--End Google Analytics -->   
 </head>
-<body onload="disableselect()">
-    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" onkeypress="return CanSubmitForm();">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<body onload="executeLoadFunctions();" ondragstart="return false" onselectstart="return false">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" onkeypress="return CanSubmitForm();" style="visibility: visible;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
 
-<script src="/ScriptResource.axd?d=jaqp8Z2yFtp-V8NLY5WE9_-zgRtydwYrrWeWPMOX-VNfXiVZKiL-6W68JWcHrewJnt4j5U8P9AUtCc4gbqMonz7mIY9t8pmf0&amp;t=633499161495937500" type="text/javascript"></script>
+<script src="/WebResource.axd?d=2gZHPGj5LqLhSpucEVFgZA2&amp;t=633705947808437500" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jaqp8Z2yFtp-V8NLY5WE97J53e5RBSRGRXsSTuRrSJ77ggp-hF5rzoosBO-9L17YmT5gdSatFNf_Jp9I8GUir-F4BxFfzSaE0&amp;t=2dcfd83b" type="text/javascript"></script>
 <script src="/menufiles/menuscript.js" type="text/javascript"></script>
 <script src="/js/global.js" type="text/javascript"></script>
-          
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="v6JCEg9Avyd+vUdlKTfZO7d67SsqS5wFmYxEW+gcX00x9RwjDfNsZapq21KnhsI/">          
+        <input type="hidden" name="ctl00$ScriptManager1" id="ctl00_ScriptManager1">  
       
-           <table cellpadding="0" cellspacing="0" width="100%" class="MainTable">
+           <table cellpadding="0" cellspacing="0" width="100%" class="MainTable" id="maintable">
                <tbody><tr>
-                   <td>
+                   <td align="center">
                        <table cellpadding="0" cellspacing="0">
-                       <tbody><tr><td width="100" height="100%" style="width: 100px;"><img src="/images/transparent.gif" width="100"></td>
-                           <td class="CenterCell"><table width="774" height="92" cellspacing="0" cellpadding="0">
+                       <tbody><tr><td width="20" height="100%" style="width: 20px;" valign="top"><img src="/images/redesign/bg_left.jpg"></td>
+                           <td class="CenterCell"><table width="842" height="92" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                        <td class="TopNav">
-                                            <table width="100%" height="100%" cellpadding="0" cellspacing="0">
-                                                <tbody><tr>
-                                                    <td style="color: Black;font-size:10px;">
-                                                        <a href="/aboutbeautypedia.aspx">About Beautypedia</a>&nbsp;|
-                                                        <a href="/DearPaula.aspx"><span class="free">Free</span> Dear Paula Q &amp; A</a>&nbsp;|
-                                                        <a href="http://www.cosmeticscop.com/learn-skin-care-facts.aspx" target="_blank"><span class="free">Free</span> Articles</a>&nbsp;|
-                                                        <a href="http://www.cosmeticscop.com/cosmetic-ingredient-dictionary.aspx" target="_blank"><span class="free">Free</span> Cosmetic Ingredient Dictionary</a>
-                                                    </td>
-                                                    <td align="right">
-                                                        <select name="ddlTopNav" id="ddlTopNav" class="TopNavDDL">
-	                                                        <option value="Paula's Choice.com">Paula's Choice.com</option>
-	                                                        <option value="Paula's Choice Australia">Paula's Choice Australia</option>
-	                                                        <option value="Paula's Choice Europe">Paula's Choice Europe</option>
-	                                                        <option value="Paula's Choice Indonesia">Paula's Choice Indonesia</option>
-	                                                        <option value="Paula's Choice Korea">Paula's Choice Korea</option>
-	                                                        <option value="Paula's Choice Malaysia">Paula's Choice Malaysia</option>
-	                                                        <option value="Paula's Choice Mexico">Paula's Choice Mexico</option>
-	                                                        <option value="Paula's Choice Taiwan">Paula's Choice Taiwan</option>
-                                                        </select>
-                                                        
-                                                    </td>
-                                                    <td>&nbsp;<img src="/images/btn_go.jpg" onclick="javascript:DoDDLChange();" style="cursor:pointer;"></td>
-                                                </tr>
-                                            </tbody></table>                                        
+                                        <td class="TopNav" align="right">
+                                            <a href="http://www.paulaschoice.com/" target="_blank">Shop Paula's Choice</a>|
+                                            <a href="http://www.cosmeticscop.com/learn-paulas-choice.aspx" target="_blank">Cosmetics Cop</a>|
+                                            <a href="http://www.cosmeticscop.com/paulas-choice-community-page.aspx" target="_blank">Community</a>|
+                                            <a href="http://www.cosmeticscop.com/paula-begoun-about.aspx" target="_blank">About Paula Begoun</a>
                                         </td>
                                     </tr>                 
                                      <tr>
-                                        <td class="HeaderLeft"><table width="100%" height="100%" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="/default.aspx"><img src="/images/BEAUTYPEDIA-logo-9-08.gif" border="0"></a></td>
-                                        <td class="HeaderRight">
-                                            <div style="float: right; text-align: right; margin-right: 25px; padding-top: 15px;">
-                                            <div style="font-size:12px">Welcome to Beautypedia</div>
-                                            <div style="padding-right: 1px;">                                            
+                                        <td class="HeaderLeft"><table width="100%" height="100%" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="/default.aspx"><img src="/images/redesign/logo.gif" border="0"></a></td>
+                                        <td class="HeaderRight" align="right">
                                             
-                                            <div style="float:left; font-size:13px"></div><a href="default.aspx" id="ctl00_lnkSignIn" style="font-size:13px">Sign In</a>  &nbsp;|&nbsp;
-                                            <a href="login.aspx" id="ctl00_lnkLoginRegister" style="font-size:13px">Subscribe now</a>                                            
-                                            </div>
-                                            <div></div>
-                                            <div>
-                                                                                               
                                                 
-                                            </div>
+                                                <div style="padding-right: 1px; font-size:12px;">                                            
+                                                    
+                                                    <a href="login.aspx" id="ctl00_lnkLoginRegister" style="font-size:13px; border:0"><img src="/images/redesign/btn_subscribenow.jpg" alt="Subscribe Now" style="border:0"></a><br>
+                                                    
+                                                </div>
+                                                <div></div>
                                                 
-                                            </div>
+                                                <div style="padding-top:8px;">
+                                                    <table style="float:right;" cellpadding="0" cellspacing="0">
+                                                        <tbody><tr>
+                                                            
+                                                            <td align="right" style="font-size:12px;">                                                                
+                                                                    <span style="position: relative; top: -2px; right: -3px">
+                                                                        <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" onkeydown="CaptureEnterSearch(event);" onfocus="javascript:ctl00_txtSearch.value='';" value="Search Beautypedia..." style="width:150px">
+                                                                    </span>
+                                                                    <span style="position: relative; top: 5px;">                                                                        
+                                                                        <a href="javascript:DoSearch('ctl00_txtSearch');">
+                                                                        <img src="/images/searchicon.png" border="0"></a>
+                                                                    </span>                                                              
+                                                            </td>
+                                                            
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="right"><a href="/AdvancedSearch.aspx" style="color:#8F2140">Advanced Search</a></td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </div>
+                                            
                                         </td></tr></tbody></table></td>
                                      </tr>   
                                                      
                                      <tr id="ctl00_trSearch" class="Bar">
-	<td height="36" align="center" valign="middle">
-                                            <table cellpadding="0" cellspacing="0" width="724">
+	<td height="31" align="center" valign="top">
+                                            <div width="100%" style="border-top: solid 1px #cdd1b3;"></div>
+                                            <div width="100%" style="border-top: solid 1px #f0f1e8;margin-left:1px;margin-right:1px;"></div>
+                                            <table cellpadding="0" cellspacing="0" width="822" height="28">
                                                 <tbody><tr>
-                                                    <td style="font-size:12px; font-weight: bold">                                                    
+                                                    <td style="font-size:12px; font-weight: bold;" align="center">  
                                                         
-                                                        <div id="ctl00_pnlShowWhatsNew" align="center">
-		
-                                                            <a href="/AdvancedSearch.aspx" style="color:#1B9A9A;">Customize Your Search</a>&nbsp;&nbsp;&nbsp;<span style="color: White; font-size: 18px;">|</span>&nbsp;&nbsp;
-                                                            <a href="/brandlist.aspx" style="color:#1B9A9A;">Master Brand List</a>                                                    
-                                                            &nbsp;&nbsp;&nbsp;<span style="color: White; font-size: 18px;">|</span>&nbsp;&nbsp;
-                                                            <a href="/bestproducts.aspx" style="color:#1B9A9A">Best Products</a>
-                                                            &nbsp;&nbsp;&nbsp;<span style="color: White; font-size: 18px;">|</span>&nbsp;&nbsp;
-                                                            <a href="/whatsnew.aspx" style="color:#1B9A9A">What's New</a>
+                                                        <a href="#ctl00_Menu1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=4qjAE2_kul6N6LryfGnKnw2&amp;t=633705947808437500" width="0" height="0" border="0"></a><table id="ctl00_Menu1" class="menu" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n0"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-right: 1px solid rgb(255, 255, 255);">
+				<tbody><tr>
+					<td nowrap="nowrap"><a href="/aboutUs.aspx"><u>About Beautypedia</u></a></td>
+				</tr>
+			</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n1"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-right: 1px solid rgb(255, 255, 255);">
+				<tbody><tr>
+					<td nowrap="nowrap"><a href="javascript:OpenCenterPopUp('/videotour/large/BeautypediaTourHighQuality.html', '710', '510');"><u>Beautypedia Video Tour</u></a></td>
+				</tr>
+			</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n2"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-right: 1px solid rgb(255, 255, 255);">
+				<tbody><tr>
+					<td nowrap="nowrap"><a href="#"><u>Product Reviews</u></a></td>
+				</tr>
+			</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n3"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-right: 1px solid rgb(255, 255, 255);">
+				<tbody><tr>
+					<td nowrap="nowrap"><a href="#"><u>FREE</u></a></td>
+				</tr>
+			</tbody></table></td><td width="3"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n4"><table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-right: none;">
+				<tbody><tr>
+					<td nowrap="nowrap"><a href="/WhatsNew.aspx"><u>What's New</u></a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div id="ctl00_Menu1n2Items" class="adjustedZIndex" style="display:none;">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n5">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/AdvancedSearch.aspx">Find a Product</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n6">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/BestProducts.aspx">Best Products</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n7">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/BrandList.aspx">Master Brand List</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n8">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/WhatRatingsMean.aspx">Explanation of Ratings</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n9">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/PaulasReviews.aspx">How Paula Does Her Reviews</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="left" id="ctl00_Menu1n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+			<img src="/WebResource.axd?d=kKmUc449ANXPrQvfazlctWUMgG2wwsyw0&amp;t=633705947808437500" alt="Scroll up">
+		</div><div class="left" id="ctl00_Menu1n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+			<img src="/WebResource.axd?d=kKmUc449ANVvsFt8K4pRFiWOS1pUhFTw0&amp;t=633705947808437500" alt="Scroll down">
+		</div>
+	</div><div id="ctl00_Menu1n3Items" class="adjustedZIndex" style="display:none;">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n10">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/ProductReviews.aspx">Review Sneak Peeks</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n11">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/CosmeticDictionary.aspx">Cosmetic Ingredient Dictionary</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n12">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/BrandList.aspx?">Free Brand Summaries</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n13">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/Articles.aspx">Expert Skin Care Advice</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n14">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="/DearPaula.aspx">Dear Paula</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n15">
+				<td><table class="left" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td nowrap="nowrap" width="100%"><a class="left" href="http://www.paulabegoun.com" target="_blank">Paula's Beauty Bunch Blog</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table><div class="left" id="ctl00_Menu1n3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+			<img src="/WebResource.axd?d=kKmUc449ANXPrQvfazlctWUMgG2wwsyw0&amp;t=633705947808437500" alt="Scroll up">
+		</div><div class="left" id="ctl00_Menu1n3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+			<img src="/WebResource.axd?d=kKmUc449ANVvsFt8K4pRFiWOS1pUhFTw0&amp;t=633705947808437500" alt="Scroll down">
+		</div>
+	</div><a id="ctl00_Menu1_SkipLink"></a>
                                                         
-	</div>
                                                     </td>
-                                                    <!--<td align="right" style="font-size:11px;"><span style="position: relative; top: -2px;">Search&nbsp;&nbsp;<input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="SearchInput" onkeydown="javascript:CaptureEnter('ctl00_txtSearch');" /></span>&nbsp;<span style="position: relative; top: 2px; padding-left: 5px;"><a href="javascript:DoSearch('ctl00_txtSearch');"><img src="/images/btn_go.gif" border=0 /></a></span></td>-->
+                                                    
                                                 </tr>
                                             </tbody></table>                
-                                        
-                                        
-                                        
+                                                                                                                        
                                         </td>
 </tr>
 
@@ -289,44 +445,40 @@
 
 
 
-                                        
+                                                                                    
                                         </td>
                                      </tr> 
+                                     
+                                                        
                                      <tr>
-                                        <td class="Bar">
-                                            <table cellpadding="0" cellspacing="0" width="100%" class="footerTop" border="0">
-                                                <tbody><tr>
-                                                    <td align="center">
-                                                        <b><a href="/freeEmailUpdates.aspx" class="free">FREE E-MAIL UPDATES</a></b><span style="color:#1b9a9a;">&nbsp;&nbsp;|&nbsp;</span>
-                                                        <b><a href="/whatsnew.aspx" class="free">What's New</a></b><span style="color:#1b9a9a;">&nbsp;&nbsp;|&nbsp;</span>
-                                                        <b><a href="/beautybuzz.aspx" class="free">Beauty Buzz</a></b><span style="color:#1b9a9a;">&nbsp;&nbsp;|&nbsp;</span>
-                                                        <a href="/aboutUs.aspx">About Us</a><span style="color:#1b9a9a;">&nbsp;&nbsp;|&nbsp;</span>
-                                                        <a href="/STAF.aspx">Send to a Friend</a><span style="color:#1b9a9a;">&nbsp;&nbsp;|&nbsp;</span><a href="/affiliate/default.aspx">Affiliates</a>
-                                                    </td>
-                                            </tr></tbody></table>
-                                        </td>
-                                     </tr>
-                                     <tr>
-                                        <td class="FooterBottom">
-                                            <div style="line-height:1.5em;width: 750px; height: 100%; padding: 12px; text-align: center; font-weight: normal; vertical-align: middle;">
-                                                Copyright © 2002-2008 Paula's Choice. All rights reserved. <br>
-                                                <a href="/SiteMap.aspx">Site Map</a> | <a href="/Privacy.aspx">Privacy &amp; Security Policy</a> | <a href="/TOU.aspx">Terms Of Use</a> | <a href="/contact.aspx">Contact Us</a>&nbsp;<span style="font-weight: normal">or Call</span> 1-800-831-4088<br>
-                                                <span style="font-size:9px;">Please do not use the BACK button to navigate Beautypedia. Using the navigation links provided on Beautypedia will result in the best experience.</span>
+                                        <td class="FooterBottom" style="height:70px;">
+                                            <div style="line-height:1.5em;width: 842px; height: 100%; padding-top: 12px; text-align: center; font-weight: normal; vertical-align: middle;">
+                                                Copyright © 2002-2009 Paula's Choice. All rights reserved. <br>
+                                                <a href="/SiteMap.aspx">Site Map</a> | <a href="/Privacy.aspx">Privacy &amp; Security Policy</a> | <a href="/TOU.aspx">Terms Of Use</a> | <a href="/contact.aspx">Contact Us</a> | 
+                                                
+                                                <!-- AddThis Button BEGIN -->
+                                                <script type="text/javascript">var addthis_pub="sapplegate";</script>
+                                                <a href="https://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', 'http://www.beautypedia.com', 'Beautypedia')" onmouseout="addthis_close()" onclick="return addthis_sendto()">Share This Site</a>
+                                                <script type="text/javascript" src="https://secure.addthis.com/js/152/addthis_widget.js"></script>
+                                                <!-- AddThis Button END -->
+
+                                                 | <a href="/affiliate/default.aspx">Earn Free Months of Beautypedia</a><br>
+                                                <!--<span style="font-size:9px;">Please do not use the BACK button to navigate Beautypedia. Using the navigation links provided on Beautypedia will result in the best experience.</span>-->
                                             </div>
                                             <!-- Start Quantcast tag -->
                                             <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
                                             <script type="text/javascript">_qacct="p-c5DiL8ARls-g-";quantserve();</script>
                                             <noscript>
-                                            <a href="http://www.quantcast.com/p-c5DiL8ARls-g-" target="_blank"><img src="//secure.quantserve.com/pixel/p-c5DiL8ARls-g-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+                                            <a href="https://www.quantcast.com/p-c5DiL8ARls-g-" target="_blank"><img src="//secure.quantserve.com/pixel/p-c5DiL8ARls-g-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
                                             </noscript>
                                             <!-- End Quantcast tag -->                                                                                                     
                                         </td>
                                      </tr>
                                 </tbody></table>
                             </td>
-                            <td width="100">
+                            <td width="20" style="width: 20px;" valign="top"><img src="/images/redesign/bg_right.jpg"></td>
                             <!--RIGHT COLUMN -->            
-                            </td>
+                            
                         </tr>
                         </tbody></table>  
                    </td>
@@ -336,10 +488,17 @@
            
            
     
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="z5+fIDntrXEe8f60mO06SKOnEpaH24azduew7lOKfKP6XbwW2S3DopSsiNRU5GUx">
 
 <script type="text/javascript">
 //<![CDATA[
+var ctl00_Menu1_Data = new Object();
+ctl00_Menu1_Data.disappearAfter = 500;
+ctl00_Menu1_Data.horizontalOffset = 0;
+ctl00_Menu1_Data.verticalOffset = 8;
+
+Sys.Application.setServerId("ctl00_ScriptManager1", "ctl00$ScriptManager1");
+
+Sys.Application._enableHistoryInScriptManager();
 Sys.Application.initialize();
 //]]>
 </script>
