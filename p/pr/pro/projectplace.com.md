@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724191625id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522131844id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
 
 # Online project management & collaboration - software as a service
 
@@ -26,7 +26,7 @@ We use cookies to save your email address and language preference so you don't h
 
 We recognize the importance our customers place on security. We exercise great care to see to that any information you enter or upload to your account is handled in a secure manner. Therefore, all communication between your computer and our servers is encrypted using SSL encryption technology. Furthermore, any document you upload to your account is securely transmitted (using SSL) and is then stored in an encrypted format.
 
-This service has security measures in place to protect the loss, misuse and alteration of the information under our control. Internally, we restrict access to personally identifiable information to employees who need access to the information to do their job. All employees have to execute comprehensive nondisclosure agreements with us. Employees are not allowed to access your project data or uploaded documents. In fact, our extensive encryption procedures effectively prevents anyone (including our employees) to access this information. This information can only be accessed by the people you choose to share it with within a project. Backups of user and project data are scheduled on a regular basis and these backups are stored encrypted and safely locked up. For further information on the security of Projectplace.com we refer to our [Security policy](https://web.archive.org/web/20080724191625id_/http://www.projectplace.com/terms/securitypolicy/). 
+This service has security measures in place to protect the loss, misuse and alteration of the information under our control. Internally, we restrict access to personally identifiable information to employees who need access to the information to do their job. All employees have to execute comprehensive nondisclosure agreements with us. Employees are not allowed to access your project data or uploaded documents. In fact, our extensive encryption procedures effectively prevents anyone (including our employees) to access this information. This information can only be accessed by the people you choose to share it with within a project. Backups of user and project data are scheduled on a regular basis and these backups are stored encrypted and safely locked up. For further information on the security of Projectplace.com we refer to our [Security policy](https://web.archive.org/en/terms/securitypolicy/). 
 
 ## Choice/Opt-Out
 
@@ -50,8 +50,8 @@ Projectplace reserves the right to modify or amend this Privacy Statement at any
 
 ## Additional information
 
-Additional [security information](https://web.archive.org/web/20080724191625id_/http://www.projectplace.com/About-us/Security-and-Availability/).   
-Additional information on the [terms of use](https://web.archive.org/web/20080724191625id_/http://www.projectplace.com/terms/termsofuse/). 
+Additional [security information](https://web.archive.org/en/About-us/Security-and-Availability/).   
+Additional information on the [terms of use](https://web.archive.org/en/terms/termsofuse/). 
 
 ## Contact information
 
