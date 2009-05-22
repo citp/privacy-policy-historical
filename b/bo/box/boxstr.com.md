@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the boxstr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034418id_/http%3A//boxstr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxstr.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522102222id_/http%3A//boxstr.com/help.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - BOXSTr Free File Hosting and Online Data Storage
-
-This is the web site of **BOXSTr / WorldClearing US, LLC**.
+# Uploader- Boxstr 5GB Free File Hosting and Online Data Storage
 
 Our postal address is   
 **50 California Street ste 1500  
 San Francisco, CA 94111, USA**
 
-We can be reached via e-mail at [support@boxstr.com](mailto:support@boxstr.com)  
+We can be reached via e-mail at [support@Boxstr.com](mailto:support@Boxstr.com)  
 or you can reach us by telephone at (415) 578-4539
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
