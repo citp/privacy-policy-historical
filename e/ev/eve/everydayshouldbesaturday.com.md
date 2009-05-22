@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the everydayshouldbesaturday.com privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909221236id_/http%3A//www.everydayshouldbesaturday.com/%3Fpage_id%3D3718) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayshouldbesaturday.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522195133id_/http%3A//www.everydayshouldbesaturday.com/%3Fpage_id%3D3718) for the most accurate reproduction.*
 
 # EDSBS » Privacy Policy
-
-### [Privacy Policy](http://www.everydayshouldbesaturday.com/privacy-policy/)
 
 Every Day Should Be Saturday takes your privacy seriously. Every Day Should Be Saturday has created this privacy statement in order to demonstrate our commitment to privacy. Please read the following to learn more about our privacy policy.
 
@@ -22,13 +20,3 @@ Every Day Should Be Saturday’s service contains links to third party web sites
 
 **Privacy Policy Changes**  
 Every Day Should Be Saturday reserves the right to make changes to this privacy statement. Any material changes to this statement will be prominently posted online and accessible via the Every Day Should Be Saturday site prior to taking effect.
-
-  
-  
-
-
-## No Replies 
-
-No comments yet.
-
-Sorry, the comment form is closed at this time.
