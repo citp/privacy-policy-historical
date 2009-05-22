@@ -1,35 +1,72 @@
-> *The following text is extracted and transformed from the adsimilis.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219184357id_/http%3A//www.adsimilis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsimilis.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522094732id_/http%3A//www.adsimilis.com/privacy.html) for the most accurate reproduction.*
 
-# Adsimilis - Privacy Policy
+# Adsimilis - Privacy
 
-With a clear mission and a strong, enthusiastic team Adsimilis has quickly gained a firm foothold within the online marketing industry. Learn why!  
+### Privacy Policy.
 
+Your privacy is of tremendous importance to us.
 
-Please review the Adsimilis privacy policy assuring privacy for our advertisers, publishers and web site visitors below.
+Adsimilis.com (the "Website") is an Internet property of Adsimilis.("us" or "we"). We provide this privacy policy ("Privacy Policy) so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [www.adsimilis.com](http://www.adsimilis.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [info@adsimilis.com](mailto:info@adsimilis.com). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
-Collected Information  
-Adsimilis, through sign-up and application processes, collects publisher and advertiser personal information, which is used solely for billing, payout and marketing purposes.  
-Publishers: Website information, name, e-mail address, telephone number, media kit.  
-Advertisers: Campaign information, name, e-mail address, telephone number, external RFP file
+_Personally Identifiable Information:_  
+We collect Personally Identifiable Information ("PII") from this Website when you attempt to become a Client or otherwise choose to provide PII to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone number, mobile number and/or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on our Website. Once collected, we will store your PII for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
 
-Non-disclosure  
-Adsimilis is committed to protecting the privacy of our publishers, advertisers, and Web site visitors. Adsimilis does not disclose any of the gathered information to third parties. While Adsimilis cannot fully control the actions of their Web site publishers, Adsimilis does require full disclosure of each site’s privacy guidelines for every site that serves Adsimilis ads.
+_Information Sharing:_  
+Adsimilis will not sell, share or rent your PII to or with others. Your PII is not shared with any third parties, except: (a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client; (b) in the case of a breach of any agreement between Client and Adsimilis; (c) where required by law, or requested by a court of competent jurisdiction; (d) (c) in the event of Adsimilis bankruptcy, or if Adsimilis is sold or acquired; or (e) where Adsimilis determines, in its sole discretion, that such disclosure is necessary to protect the rights of Adsimilis and/or a third party, or necessary to protect Adsimilis from liability of any kind. 
 
-Use of Information  
-If Adsimilis for any reason uses the personal information that publishers/advertisers have provided, written permission will be obtained before doing so. The only exception to this will be the use of a publisher’s company name and/or logo while finding advertising to be used on their site, displaying companies that have displayed on the Adsimilis network on the Adsimilis website or to promote the Adsimilis network.
+_Non-Personally Identifiable Information:_  
+We collect Non-Personally Identifiable Information ("Non-PII") from Website visitors. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to our Website, the referring URL and/or your computer's operating system. 
 
-Cookies  
-If a visitor to a Web site views an ad served by Adtegrity.com, they are assigned a unique number, known as a cookie, that is recorded and stored on their computer in their Web browser’s cookie file. If the visitor then visits another Web site that has ads served by Adsimilis, the cookie is recognized by the computer and may be used to target ads to that Web surfer based on his or her past browsing experience. Cookies do not harm visitors’ computers and do not gather personal information.
+_Cookies and Web Beacons:_  
+We use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies/>. 
 
-Why use Cookies?  
-They help to ensure that ads are not repeated to visitors  
-They help advertisers learn how their Web site is used  
-They help advertisers gain knowledge to improve the look and feel of their Web sites  
-They help advertisers learn which ads are most effective and appealing to Web site visitors  
-Overall, the cookie helps the ad network, Adsimilis, determine which advertisements best fit which visitors and which Web sites. A visitor may choose to opt-out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser’s user manual for instructions.
+_Third Party Websites:_  
+This Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of Adsimilis. While we endeavor to associate only with reputable entities, Adsimilis cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies of all websites that you visit. 
 
-Third-party Advertising  
-The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
+_Minors:_  
+This Website is not intended for visitors that are under eighteen (18) years of age. Adsimilis does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected PII from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
 
-Third-party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+_Security:_  
+All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users' PII, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
+
+Once we receive the transmission of your PII, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All our end-users' PII is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to PII. Employees not adhering to our policies are subject to disciplinary action. In compliance with applicable federal and state law, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
+
+_Changes to this Privacy Policy & Notification of Changes:_  
+Adsimilis reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+
+_Deleting your PII:_  
+If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at [info@adsimilis.com](mailto:info@adsimilis.com) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
+
+_Contacting the Website:_  
+If you have any questions about this Privacy Policy or the practices of Adsimilis, please feel free to contact us at [info@adsimilis.com](mailto:info@adsimilis.com), or via postal mail at:  
+Adsimilis  
+Privacy Dept.  
+Prins Bernhardlaan 55  
+2264 CB Leidschendam  
+The Netherlands
+
+**Privacy Practices Applicable to Our Technology:**
+
+Adsimilis' clients are primarily businesses. Our Clients use our Technology to help deliver online advertisements to consumers while they are online.
+
+**Types of Information that We Collect Via Our Technology:**
+
+_Personally Identifiable Information_  
+We don't collect PII via our Technology. 
+
+_Non-Personally Identifiable Information_  
+As with all web content delivery systems, our Technology records information about the interaction between a web user's browser and our servers. Those interactions include advertisement content (banner) delivery, counting click-throughs on an advertisement, and tracking web page views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This Non-PII is collected from web users to assist in the proper function of our Services, as well as the targeting of advertisements sent by our customers and the reporting of aggregate data to both Advertisers and Publishers. Adsimilis does not collect, use, sell or purchase PII.
+
+_Cookies:_  
+Remote "cookies" on web user computers and server databases at Adsimilis facilities are used by Adsimilis in connection with the Technology to store information. When used in connection with the Technology, a cookie is a piece of data placed on the web user's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase web users' hard drives or otherwise damage web users' computers. Usage of a cookie is in no way linked to any PII. 
+
+We use cookies to ensure that when a web user clicks on an advertisement, he/she is sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows Advertisers to determine with greater accuracy the composition of the audience that they reach. Cookies are also used to sequence the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement. In the course of serving advertisements to target websites, our Advertisers may place or recognize a cookie on visiting web users' browsers.
+
+Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this.
+
+_Information Sharing:_  
+Web user information obtained by and through the Technology (all of which is Non-PII) is shared with our Advertisers and Publishers on an aggregate basis. This means, for example, that of the millions of web users that we deliver banners to each month, an Advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the Services that we offer. Adsimilismay augment web user information with additional Non-PII, such as adding an IP address to a 5-digit postal code in order to cross-reference in an effort to improve local targeting of advertising. IP addresses are not linked to PII by Adsimilis.
+
+_Third Party Advertising_  
+In connection with the Technology we use third-party advertising companies to serve advertisements when web users visit the websites on which we serve advertisements. These companies may use information (not including web users' names, addresses, email addresses and telephone numbers) about such web users' visits to those websites in order to provide future advertisements on those websites that may be of interest to such web users. If web users would like more information about this practice or would like to prevent this information from being used by these companies, they may [click here](http://www.networkadvertising.org/managing/opt_out.asp).  
+
