@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113230631id_/http%3A//www.santaclaraca.gov/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192448id_/http%3A//www.santaclaraca.gov/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Contacting the Website
   
 If you have any questions about this privacy policy statement, the practices of this site, or your dealings with this website, you can contact:
 
-[Web Manager](https://web.archive.org/web/20081113230631id_/http%3A//www.santaclaraca.gov/about_us/email-us.aspx?webmanager)  
+[Web Manager](https://web.archive.org/web/20090522192448id_/http%3A//www.santaclaraca.gov/about_us/email-us.aspx?webmanager)  
 City of Santa Clara  
 1500 Warburton Avenue  
 Santa Clara, CA 95050   
@@ -66,7 +66,7 @@ Santa Clara, CA 95050
    
 [More Links ]   
   
-[Disclaimer](https://web.archive.org/web/20081113230631id_/http%3A//www.santaclaraca.gov/disclaimer.html)  
+[Disclaimer](https://web.archive.org/web/20090522192448id_/http%3A//www.santaclaraca.gov/disclaimer.html)  
   
    
    
