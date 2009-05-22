@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912184255id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522102220id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for rekkerd.org at rekkerd.org
 
@@ -12,7 +12,9 @@ Cookies are used on rekkerd.org to store information, such as your personal pref
 
 I use third party advertisements on rekkerd.org to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on the site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
 
-You can choose to disable or selectively turn off rekkerd.org cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with rekkerd.org as well as other websites.
+Google Adsense, one of the ad provider on this website, uses a DoubleClick DART cookie, which enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html "link to Google ad and content network privacy page").
+
+You can also choose to disable or selectively turn off rekkerd.org cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with rekkerd.org as well as other websites.
 
 **Email subscriptions / contact information**  
 It is possible to subscribe to certain services at rekkerd.org (i.e. email notification on post comments and newly posted content). When contacting rekkerd.org you will need to provide your email address as well. I (or an automated system) will only use this information for the intended purpose of notifying you. If you do not want to receive any further notification, you can simply opt-out or contact rekkerd.org to have your information removed from these particular services.
