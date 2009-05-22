@@ -1,84 +1,92 @@
-> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517083433id_/http%3A//www.babelgum.com/terms_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522093058id_/http%3A//www.babelgum.com/privacy-policy) for the most accurate reproduction.*
 
-# Babelgum™
+# Babelgum - Privacy Policy
 
-## Privacy Policy
+**We take the privacy rights of users of this Site and the Babelgum Services very seriously and this Privacy Policy explains to you what information we collect about you in connection with your use of the Site and Babelgum Services and how certain information about you may be used, stored and processed.**
 
-### 1\. Description of Babel’s Activities
+**This Privacy Policy is incorporated in and subject to the[Terms of Service](https://web.archive.org/terms-of-service) ("Terms"). By using the Site and the Babelgum Services, you expressly consent to the use of your Data in accordance with this Privacy Policy. **
 
-Babel Networks Ltd. (“Babel”) provides free or upon payment use over the Internetof Video and Audio content and/or programs consisting of movies, television programs and series, sports events, music products, cartoons, documentaries and any other audio-visual materials (“Babelgum™ Content Services”), which are protected by copyright and/or other intellectual property rights and any other rights related thereto.   
-Babelgum™ Content Services may be freely accessed, provided that targeted advertisements   may be featured in the Contents, through posts, links and other means. For this purpose, we may collect personal information of the kind specified in Section 3 below.   
-Furthermore, additional information may be required to access Babelgum™ Content Services upon payment, in order to carry out and complete relevant online transactions.  
-You may choose not to provide certain information, although in so doing, You may not be able to take advantage of many of our features.
+The Site is not intended for children under 13 years of age and we do not knowingly collect personal information from children under this age.
 
-### 2\. Consent to use of Information
+**The definitions in the Terms shall apply to this Privacy Policy.**
 
-By accepting these Privacy Conditions in registering to the User Terms or the Babel Uploading Terms and Conditions, You expressly consent to our collection, storage, use and disclosure of Your personal information as described in these Privacy Conditions.  
-The definitions contained in the User Terms and Conditions and the Babel Uploading Terms and Conditions also apply to these Privacy Conditions. 
+  1. ### Your Data
 
-### 3\. Collected Information
+"Your Data" means any information about you which is personally identifiable, including, without limitation, your name, date of birth, gender, email address, address, country of residence, user name, password __ and other information from which you can be identified and which you may disclose to us or otherwise via the Site at any time.
 
-#### 3.1 Information as to log in / log out and  connection
+  2. ### Collection of your Data
 
-We may collect information as to: the date and time of login and logout; the IP address from which access is made; Your e-mail address; Your computer and connection information such as Your browser type and version, operating system and platform; Your use of Contents and/or Contents access history. We may compile such information with similar information from other customers to create specific features or for statistical purposes. We may also use software tools to measure and collect information about access to Babelgum™ Content Services through software applications and web sites provided by Babel, including network access response times, download errors, length of visits and software interaction information (such as scrolling, clicks, and mouse-overs). 
+We collect your Data when:
 
-#### 3.2 Babelgum™ Content Services Traffic Information 
+    1. you create an online account;
+    2. you make a complaint or enquiry or provide other feedback to us;
+    3. you submit an entry to a questionnaire or survey, competition or prize draw; or
+    4. you disclose your Data to us or otherwise through the Site at any other point.
+  3. ### Use Of your Data
 
-We may collect information regarding the Contents You preview and/or download and/or purchase when You access Babelgum™ Content Services, which sections of the services You visit and the times You access our services. We may also collect information such as comments, tags, opinions and recommendations You contribute within the sphere of the Babelgum™ Content Services. We may use this information to understand our customers’ tastes and preferences, to shape or customize content programming and advertising and to manage the load on our servers in order to improve our service. 
+We use your Data to:
 
-#### 3.3 Questionnaires, Surveys and Profile Data
+    1. process the registration of your online account and maintain your online account;
+    2. process and deal with any complaints or enquiries made by you;
+    3. monitor, develop and improve the Site, the Babelgum Services and your experience, and tailor the Site and the Babelgum Services to your specific preferences;
+    4. investigate any suspected breach of the Terms made by or otherwise relating to you;
+    5. where (and only where) agreed by you, to send you and keep you updated with information by email and/or SMS about existing and new services and special offers from us;
+    6. where you have submitted an entry to a survey or questionnaire, to publish the results of such survey or questionnaire; and
+    7. where you are a prize winner, to publish or otherwise make available a list of prize winners.
+    8. To opt-out of receiving any information pursuant to paragraph 3.1.5, you can: 
+      1. amend your preferences accordingly in your on-line account;
+      2. use the facility contained in any such communication; or
+      3. email us at [support@babelgum.com](mailto:support@babelgum.com).
+  4. ### Passing On your Data To Third Parties
 
-We may offer optional questionnaires and surveys to our Users to collect demographic information, to assess their interests, needs and trends as well as individual tastes and preferences. In the event that any personally identifiable information is collected, Users will be adequately informed in advance of its intended use. 
+    1. We may pass on your Data to other parties as follows 
+      1. to our employees and agents to administer your on-line account and orders (including, without limitation, providing customer and marketing services, data analysis and postal and email delivery services);
+      2. to Babel Networks Limited group companies to provide the Babelgum Services to you or to promote the services offered by us or them which may interest you;
+      3. some general statistical information about the Site user base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying you; or
+      4. we may disclose your Data, without your consent, to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms by you or where required by law.
+    2. By submitting a Notification through our [Copyright Notice](https://web.archive.org/copyright-policy) procedure, you agree that such communication can be forwarded to the person or entity who stored or transmitted the content addressed by your communication, in order to help resolve your compliant.
+    3. If you choose to use our invitation service to tell a friend about this Site, we will ask you for your friend's email address. We will automatically send your friend a one-time email from your email address inviting him or her to visit the site. If your friend replies to this email, the response will be sent to your email address. We store your friend's email address only for the purposes of sending this one-time email and registering your friend if your friend accepts the invitation to join the Site. Your friend may contact us at [support@babelgum.com](mailto:support@babelgum.com) to request that we remove this information from our database.
+    4. From time to time, we may ask you to participate in surveys designed to help us improve the Site. Any Data provided to us in connection with any survey will be used only in relation to that survey, and will only be disclosed to third parties in non-personally-identifying form.
+    5. We reserve the right to transfer all Data in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Babel's assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred personally–identifying information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-in to accept it. Data submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.
+    6. The third parties to whom we pass on your Data will be restricted by law or under the terms of our confidentiality agreements with such third parties from using your Data for purposes other than those set out in this paragraph 4.
+    7. We do not pass or sell your Data to third persons for any other purpose than those set out in this Section 4. Any marketing under paragraph 3 is conducted by us on behalf of third parties and they do not have any access to your Data unless you yourself choose to contact them.
+  5. ### Data Security
 
-### 4\. Level of security. Protection of user data 
+    1. We endeavour to take all reasonable steps to protect your Data. All the Data collected by us is stored on a secure server. The secure server software encrypts all information you input before it is sent to us.
+    2. We recommend that you protect your password, username and your computer from access by unauthorised users. We suggest that you change your password on a regular basis. Please ensure that you sign out when you finish using the Babelgum Services.
+    3. If you are resident in the United States we will notify you at the most current email address that you have provided to us in the event of a security breach. It is therefore extremely important that you update us if you change email addresses and that you make sure that we always have the most current email address for you on file. Any security breach notice will be sent to you in as soon as possible following our discovery or notice of a security breach, and without unreasonable delay, subject to any determination by a law enforcement agency that notice would impede a criminal investigation, in which case the notice will be sent once the agency determines that notice will not compromise the investigation. If you would prefer to receive a security breach notice by regular mail, advise us of that fact by writing to us at: Floor 9, 665 Fifth Avenue, New York City, NY 10022, USA.
+  6. ### Cookies
 
-Babel will keep User data in secure servers. Babel will make its best efforts to protect the security of Your information during transmission by using encryption techniques.   
-Babel will reveal only the last five digits of Your credit card numbers when confirming Your purchases. Babel will transmit the entire credit card number duly encrypted to the appropriate credit card company.  
-In any case, You should know that the best protection from unauthorised use of Babelgum™ services by third parties is to protect Your password and Your computer access from unauthorised users. For this purpose, we suggest that You change Your password frequently. Be sure to log-out when You finish a session. 
+    1. Cookies are small pieces of information stored by your browser on your computer's hard drive. We use cookies to allow us to understand who has seen which pages and advertisements and when, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and most popular Content and generally in order to monitor usage of the Site. We also use cookies to enable us to customise your experience of the Babelgum Services and to target Content and advertising in accordance with your preferences. Most web browsers automatically accept cookies, though you do not have to. We do not control the use of cookies by third parties. If you wish to disable cookies then you can do so by readjusting your browser settings although please note that by disabling cookies you may not be able to register with or use all features of the Site.
+    2. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+    3. A " **Web Beacon** " is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. We (or third parties authorised to act on our behalf) may use Web Beacons on the Site to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users' Data; they are a technique we may use to compile aggregated statistics about Site usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
+  7. ### Access to and Updating your Data
 
-### 5\. Use and Disclosure of Collected Information 
+    1. Where you are a registered online account holder, you may access and update your Data contained in your online account accessed in the "My Profile" section of the Site. You must make sure that you update your Data as soon as possible with any and all relevant changes. You may also delete your registered online account and your Data from our system. Please note that you will not be able to access certain of the Babelgum Services if you delete your Data.
 
-#### 5.1 Internal Uses 
+    2. If you would like to receive a copy of your Data held by us, please email us at [support@babelgum.com](mailto:support@babelgum.com) we may charge you a small administration fee to comply with your request.
+  8. ### Location of your data
 
-We will collect, store and process Your personal information on servers operated by Babel. We will use the information we collect in order: 
+We hold your Data in Ireland where the Site servers are located. As set out in paragraph 4, we may pass onto Babel Networks Limited group companies or reputable third parties general statistical information about the Site user base, sales patterns, traffic volumes and related matters but these details will not include information personally identifying you. In addition, we may need to share your information (including in some instances personally identifying information) with reputable third parties for the purposes described in paragraph 4.1.1 above. These Babel Networks Limited group companies or reputable third parties may be based outside the EEA and, by using the Site and the Babelgum Services, you expressly agree that we may transfer your Data outside the EEA solely for these purposes.
 
-  1. to provide Babelgum™ Content Services;
-  2. to process Your transactions; 
-  3. to provide customized services;
-  4. to make advertisements relating to our products and/or services or to those of third parties; 
-  5. to promote offers tailored to Your tastes and preferences; 
-  6. to improve Babelgum™  products and services.
+  9. ### Other links
 
+Please be aware that the Site may link to other web sites that may be accessed by you through our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put your Data where you choose to purchase products or services or otherwise to contact them via this Site. It is your responsibility to review the data policies, content or security of these linked websites.
 
+  10. ### Changes to this privacy policy
 
-#### 5.2 Disclosure to Content producers or other Third Parties 
+We may change this Privacy Policy at any time by giving you notice or by publishing the modified Privacy Policy on the Site. It is your responsibility to review this Privacy Policy (as amended by us from time to time). However, we will not use your Data for any new purposes without your consent. If any amendment to this Privacy Policy is unacceptable to you, you should cease using the Site and/or the Babelgum Services. If you continue using the Babelgum Services following notification of the modified Privacy Policy, you will be deemed to have accepted and will be bound by the modified Privacy Policy.
 
-Unless expressly authorized, Babel will not sell, rent or make in any way available to third parties any of Your personally identifiable information, except under the following circumstances:
+  11. ### Contacting Us
 
-  1. we may share information with companies that cooperate with  us to process the transactions You request, such as by checking Your credit card number through security services;
-  2. we may disclose the information we collect to companies that perform marketing services on our behalf, to other  individuals or companies  with which we have services agreements, or to other third parties such as credit reference agencies; 
-  3. we may disclose the information we collect to companies and/or individuals that perform functions on our behalf. Examples may include fulfilling orders, sending postal mail and e-mail, analyzing data, providing marketing assistance and providing customer service;
-  4. we may share Your information with our parent, subsidiaries and joint ventures to help coordinate the services we provide to You, to enforce our terms and conditions, and to promote trust and safety.
-
+If you have any questions about our Privacy Policy or how we use your Data please contact us by email at [legal@babelgum.com](mailto:legal@babelgum.com)
 
 
-In the above cases, third parties are restricted by law or by confidentiality agreements with us from using the information for purposes other than those stated above or beyond such purposes.  
-Some parts of  Babelgum™ Content Services may include links to the websites of third parties. These sites are subject to their own privacy rules and Babel is not responsible for their operations, including, but not limited to, their information practices. In these cases, we suggest You to review the privacy statement of these sites before providing them with personally identifiable information.  
-In all circumstances, Babel may disclose information in response to compulsory demands under civil or criminal legal proceedings without Your prior consent. 
 
-### 6\. User Access to and mofification of Information Collected by Babel 
 
-Users may at any time access Babelgum™ Content Services to control or modify the data pertaining to his or her personal account information.  Users may at any time request that his or her personal account data be updated, amended or removed from Babel database, with the understanding that under these circumstances, Babel may no longer be able to provide its services.
+This Privacy Policy was last updated on 13 November 2008.
 
-### 7\. Change of Conditions
+Copyright 2006-2009 Babel Networks Limited
 
-These conditions may be revised on occasion as new features or suggestions from our customers are added to Babelgum™ Content Services.   
-We will make commercially reasonable efforts to post in a timely fashion the amended Privacy Conditions on our website, where You may review them.
+  
 
-### 8\. Ownership and  Responsility for Collected Information
-
-The ownership and responsibility for Collected Information lies with Babel Networks Ltd with legal office in Dublin.  
-Our Privacy Office is responsible for ensuring that our day-to-day procedures comply with these Privacy Conditions. If You have any questions about these Privacy Conditions or about information collected that pertains to You, please contact us by addressing Your queries to: [privacy@babelnetworks.com](mailto:privacy@babelnetworks.com).  
-These Privacy Conditions are effective upon acceptance for new users and are otherwise effective on December 1, 2006. 
-
-Copyright © 2006 Babel Networks Ltd. All rights reserved
