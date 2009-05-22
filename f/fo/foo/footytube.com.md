@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footytube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050426id_/http%3A//www.footytube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footytube.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522093519id_/http%3A//www.footytube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Footytube.com - Latest Football Video Highlights
 
