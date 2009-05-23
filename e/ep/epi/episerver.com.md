@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912081419id_/http%3A//www.episerver.com/en/Start_page/System/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523211150id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Statement - EPiServer 2008
+# Privacy - The official Web Site of EPiServer Products for web content management and online communities
 
-EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the Web site [www.episerver.com](http://www.episerver.com). This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this Web site, you consent to the principles for collection and usage of information described in this privacy statement.
+EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the Web site [www.episerver.com](http://www.episerver.com/). This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this Web site, you consent to the principles for collection and usage of information described in this privacy statement.
 
-Handling Personal Information
+## Handling Personal Information
 
-General
+### General
 
 The Personal Data Act (1998:204) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. EPiServer AB, company number 556208-3435, Finlandsgatan 38, 164 74 Kista is responsible for the information provided to EPiServer AB and its subsidiaries.
 
-Use of Your Personal Information
+## Use of Your Personal Information
 
 By filling in Web forms, providing registration details or, in any other way, providing EPiServer AB with personal information, you thereby approve the following conditions for the handling of your personal information. The personal information collected by EPiServer AB is used to be able to fulfill our commitment to you as a user of EPiServer AB's services, and to be able to maintain our customer registry. The information may also be used for customized information and for marketing purposes. Your personal information may be shared with EPiServer AB's partners, in certain cases outside the European Union, so that they will be able to send you information about their products and services. EPiServer AB can also distribute or deliver the personal information registry to a third party, if that third party either partly or fully takes over EPiServer AB's business activities.
 
@@ -53,7 +53,7 @@ In your web browser you can choose not to accept cookies, but then the web site 
 
 
 
-[Read more about the law about cookies](http://www.pts.se/Sidor/sida.asp?Sectionid=1930&Itemid=&Languageid=EN)
+[Read more about the law about cookies (in Swedish)](http://www.pts.se/sv/Dokument/Rapporter/Internet/2003/Internet-och-lagen-om-elektronisk-kommunikation-PTS-ER-200336/)
 
 ## Changes to this Privacy Statement
 
@@ -61,4 +61,4 @@ We may occasionally update this privacy statement. When we do, we will also upda
 
 ## Contact Information
 
-If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: [pul@ep.se](mailto:pul@ep.se "pul@ep.se").
+If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: nospam@localhostpulnospam@localhost@nospam@localhostep.senospam@localhost.
