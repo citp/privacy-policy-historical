@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azmovies.net privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121101725id_/http%3A//www.azmovies.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azmovies.net privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215851id_/http%3A//www.azmovies.net/privacy.html) for the most accurate reproduction.*
 
 # AZ Movies Privacy Policy
 
