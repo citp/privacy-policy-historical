@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capetownalive.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140723id_/http%3A//www.capetownalive.co.za/system/registrations/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capetownalive.co.za privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523043940id_/http%3A//www.capetownalive.co.za/system/privacy-policy.html) for the most accurate reproduction.*
 
 # Cape Town Alive - Your Travel Community
 
@@ -50,7 +50,7 @@ Controlling your personal information**
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **[james@capetownalive.co.za](mailto:james@capetownalive.co.za)**
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **[james@capetownalive.co.za](mailto:james@capetownalive.co.za) **
 
 
 
