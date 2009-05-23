@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630030440id_/http%3A//www.flightglobal.com/staticpages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523202209id_/http%3A//www.flightglobal.com/staticpages/privacy.html) for the most accurate reproduction.*
 
-# Flight - Airline Industry news, aviation jobs & airline recruitment -
+# Privacy Statement
 
 This website is owned and operated by Reed Business Information Limited [Reed Business Information Limited ('RBI')](http://www.flightinternational.com/StaticPages/aboutRBI.html)  
 Information we collect from our customers and users of our websites may be used in the following ways. 
@@ -59,4 +59,4 @@ We may use aggregated data to identify employment trends across different indust
 If you create a personalised account on any of our websites it will be protected by your password and may only be accessed by you.   It does not form part of our database available for searching or access by our customers. You can delete your account at any time.  
 
 
-[](http://flightglobal.com/home/privacy.html?PrinterFriendly=true) [Printer Friendly](http://flightglobal.com/home/privacy.html?PrinterFriendly=true)
+[](http://www.flightglobal.com/home/privacy.html?PrinterFriendly=true) [Printer Friendly](http://www.flightglobal.com/home/privacy.html?PrinterFriendly=true)
