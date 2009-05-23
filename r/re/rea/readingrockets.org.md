@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913044421id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523085837id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
 
 # Reading Rockets : Privacy Policy
 
