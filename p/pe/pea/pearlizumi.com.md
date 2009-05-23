@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907034859id_/http%3A//www.pearlizumi.com/cms/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523083918id_/http%3A//www.pearlizumi.com/cms/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The following states the Pearl Izumi USA policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. 
 
 Our mailing address  
-620 Compton St. Broomfield, Co. 80020  
+1886 Prairie Way  
+Louisville, CO, 80027  
 [info@pearlizumi.com](mailto:info@pearlizumi.com)   
 800-328-8488 within the US. 
 
