@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2008-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081123031210id_/http%3A//htmlcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcenter.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523222413id_/http%3A//htmlcenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HTMLCenter - Web Help and Web Development Blog
+# Privacy Policy | HTMLCenter Web Development Blog
 
 HTMLCenter takes your privacy seriously. We will never sell or rent your e-mail address or contact details.Please read the following to learn more about our privacy policy. 
 
@@ -54,6 +54,6 @@ HTMLCenter takes your privacy seriously. We will never sell or rent your e-mail 
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions [contact us](https://web.archive.org/contacts/index.cfm?PHPSESSID=adfa16958ea6b628af3010ca82bc1aed).
+  * If you have questions or suggestions [contact us](https://web.archive.org/contacts/index.cfm).
 
 
