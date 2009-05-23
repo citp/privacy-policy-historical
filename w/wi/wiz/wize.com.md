@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219222056id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523125633id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
 # Wize Product Reviews Privacy Policy
 
