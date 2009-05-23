@@ -1,92 +1,69 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415012737id_/http%3A//www.hostelbookers.com/static/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523212612id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26TB_iframe%3Dtrue%26height%3D600%26width%3D820) for the most accurate reproduction.*
 
-# Data protection and privacy
+# Knowledge Base
 
-**Data protection and privacy**
+Here you can find information on our website and how it works. You can either search for the specific information, browse our top 10 most popular articles or view all articles using the navigation to the left. 
 
- **Overview**  
-1\. We offer a reservation service to make bookings in hostels worldwide. This includes online processing of payments, back-end office administration of customer details, and processing of confirmed transactions to hostel properties.  
-2\. We operate a free monthly newsletter for our customers to advise of interesting articles and facts from our industry.  
-3\. We arrange free e-mailings from time to time, advising of cost savings in the hostel industry.  
-4\. We hold a regular competition open to all users, offering complimentary stays in hostels.  
-5\. We offer our customers the opportunity to add a rating to the hotels, ensuring the quality of our content, whilst giving you the user an opportunity of feedback.
+#### Hostelbookers Privacy Policy
 
-**Personal Information**   
-In each of these circumstances above you will be required to enter personal information of some kind (later described), to process these transactions, to assist the personalisation of our service to you and enhance the experience that is Hostelbookers.com.
+Privacy
 
-We are required to collect personal information. We value your trust in this matter and wish that you understand how we treat this personal information. We reassure you that we take such matters seriously and hope that within this statement it is clear exactly what happens to this information you provide 
+HostelBookers understands and respects the importance of your privacy and we are committed to safeguarding your personal information. In providing our service to you, we must collect personal information from you and make subsequent use of it as detailed below.
 
-**Common questions and shortcuts**
+HOW?
 
-  * How do I know you have collected personal details?
-  * Where/when are you collecting data?
-  * If I give you my email to book, how do I know that you will not send spam?
-  * Can I unsubscribe?
-  * Who else gets my information?
-  * Is my credit card safe?
-  * I am unsure and want to ask something
+We will only collect personal information from you by specifically asking for it:- 
+
+  * When you make a booking with us, over the telephone or via our internet booking facilities.
+  * When you register with us for newsletters, email updates, enter competitions or take part in surveys and customer feedback
+  * When you write, fax, telephone or email us to make an enquiry.
 
 
 
-**You are in control  
-**It is important to note that we only collect your personal information when it has been volunteered by yourselves. We provide you with a clear process so that it is easily understood as to why you are entering personal information. At all times you are aware when submitting such information and at no times do you provide information that may be later reused for any other purpose.
+WHAT INFORMATION WILL WE COLLECT?
 
-**So.. How do we, when, and what do we do with your data**   
-There are two main areas in which we collect your data. We will separate these circumstances now.
+We may collect all or some of the following information relating to you or other members of your holiday party:- 
 
-**1\. Booking process**  
-**_Personal information_**  
-It is necessary to collect your personal information here, simply to process the transaction you require. We may collect your name, email address, telephone number etc. 
+  * names and contact details
+  * credit/ debit card or other payment details
+  * special requirements such as those relating to any disability or medical condition which may affect the chosen holiday arrangements
+  * dietary restrictions (which may disclose your religious beliefs)
+  * travel preferences
 
-From here we are then able to confirm your reservation with the relevant hostel. The data is then stored in our back office administration and may be recalled for internal administration matters, such as reporting or responding to enquiries.
 
-**_Credit card_**  
-We will also collect your credit card number, expiry date and other relevant details such as security number, your name etc.
 
-A deposit is taken to confirm your reservation and it is necessary then that we collect your credit card details to process this. Please see our credit card statement later in this report for more information on our high level of security here.
+Some of the information we collect (such as about health or religion) will only be collected on the condition that we have your positive consent to its use. We will seek this consent when necessary. 
 
-In both cases, information is provided to the hostel property to complete the transaction. 
+WHAT WILL WE DO WITH IT?
 
-By volunteering your information here we will not contact you for any matter other than the reservation itself. We do not use details here to send you our subscribed services.
+(1) For the purpose of providing you with our services, we may disclose the information to the providers of the services making up your holiday arrangements (who could be located outside the UK/EEA). 
 
-**2\. Subscribed service’s, feedback**  
-We offer you a free service to receive updates and cost saving opportunities in the hostel or travel industry, as well as our free newsletter that can be mailed to you. You are also given the opportunity of entering in our draw for free hostel bookings, or for giving feedback on your stay.
+(2) In order for you to travel overseas, it may be mandatory (as requested government authorities) to disclose your information for immigration, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
 
-In each option we are required to collect your personal details such as name and email address. This helps us to personalise our communication with you and to send only relevant information. This information is then simply collected and stored in our back office administration.
+(4) We may need to disclose our customer list including any personal information relating to you to a third party who acquires or attempts to acquire all or substantially all of the asset/ stock in our company or our website. 
 
-This information is recalled for administration purposes, for each mailing, i.e the monthly newsletter, or for the drawing of our competition winner. You can of course unsubscribe at any time if you wish to discontinue receiving offers.
+(5) We may also disclose information to organisations who act as “data processors” on our behalf, or to other organisations who perform business functions on our behalf, some of whom are outside the UK/EEA. These functions include administration, providing services (and contacting you where necessary), customer care, business management and operation, re-organisation/structuring/sale of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, measuring and assessing customer purchasing preferences and trends, dispute resolution, credit checking and debt collection. 
 
-**Unsubscribe**  
-You have the option to unsubscribe to our services at any time. We will also promote this option available to you whenever we communicate our mailing services, i..e newsletter, e-mailing. You can also unsubscribe at any time by using our contact page.
+(6) We may from time to time contact you with information about special offers, brochures, new products, forthcoming events or competitions. If do not wish to receive such information, you may ask us in writing not to receive it. 
 
-**Other collected information**  
-Technical information may also be collected i.e. IP address, operating system, browser software etc. whilst you are on the site. This is quite usual and this information is used only for our internal statistical purposes, like recording where our customers are coming from. This does not include personal information and we do not collect personal information in this way. 
+We have taken all reasonable steps to have appropriate security measures in place to protect your information. Outside the European Economic Area, controls on data protection may not be as wide as the legal requirements in this country. 
 
-We use cookies for each visit to our site. A cookie is a type if id tag that is placed in your computer’s hard drive each time you visit a website. This does not take up heavy space on your pc, but what this does do is enable websites to recognise you when you when you are on a site. For example, once you are logged in under a password and login and then click to go to a new page, the website will not ask you for your password again because from the cookie it can recognise that it is still you on the site, until of course you log out. HostelBookers use cookies to remember you if you ever come back again. 
+WHAT CAN I DO?
 
-It is possible for you to disable the acceptance of such cookies from all websites. You need to configure your browser capabilities and to do so will depend on which browser you use. We do not recommend this however, as cookies are helpful to enhancing your experience on the internet.  
-Note, Cookies do not contain personal information.
+If you do not agree to our use of the information as set out above, you should inform us as soon as possible by contacting us at www.HostelBookers.com/contact/ 
 
-**Consent**  
-By subscribing you consent to receive from us email offers, news or relevant information. You of course have the option to unsubscribe at any time. By volunteering the entry of your personal information you consent for us to hold and store this data and to administer where necessary, as laid out in this privacy statement.
+You may ask us in writing for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request. 
 
-**Third parties**  
-We are required to pass hostel properties your information on your behalf, in order to finalise the booking process.
+COOKIES
 
-HostelBookers may contract a reliable third party to facilitate the distribution of promotions, feedback, competitions details etc.
+Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. ‘Cookies’ are a feature of web browser software which allows web servers to temporarily store information within your browser. ‘Cookies’ allow us to obtain information regarding users of our site which essentially helps us to provide you with a better user experience and tailor our services to your individual needs. We don’t store and record any of your passwords or other highly sensitive data. Most browsers automatically allow ‘cookies,’ however usually your web browser will enable you to disable ‘cookies’ should you wish to do so. 
 
-We will not disclose your personal information to any other third parties unless we have your prior consent. On all pages where information is collected we specifically describe what information is required in order to provide you with the service you have requested.
+Please note that our website contains certain literature and hyperlinks to websites owned by third parties. This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. 
 
-**Storage**  
-Personal data will be securely contained by us and may be used only for those services listed above and for other matters such as internal administration.
+MONITORING
 
-**Credit card guarantee**  
-We collect, administer and store credit card numbers in order to process each transaction. We are required also to collect other such personal information as the organisation, name, your name etc. This information is held in our back end server, protected by powerful Secure Sockets Layer (SSL) encryption technology.
+To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; and (2) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
 
-**Secure details**  
-Transactions are secure on the HostelBookers.com website. Each transaction is protected, encrypted by SSL technology, meaning that every message is ‘scambled’ once a request is submit and travels over the internet. We then collect this information using secure password protected areas. We do not operate bookings over the phone, and so need this high level security. 
+UPDATES AND CHANGES
 
-Your personal information is safe with Hostelbookers.com.
-
-**Contact**  
-At any time we will be glad to offer our assistance to answer any questions or doubts that you may need clearing. Please feel free to contact at any time. Go here to jump to our contact area and post your question online.
+As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. 
