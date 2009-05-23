@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011905id_/http%3A//www.gradesaver.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523211035id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
 
-# GradeSaver: Privacy Policy
-
-Getting you the grade since 1999.
+# Privacy Policy | GradeSaver
 
 **Introduction:**
 
@@ -16,7 +14,7 @@ When you use our site, we receive and collect certain information. Some informat
 
  **Description and Disclosure of How and For What Purpose Information is Collected:**
 
-Both GradeSaver and its third party advertisers (such as BurstMedia!, Advertising.com, and Google Adsense) use cookies to enhance your experience on our website. To find out more about how Burstmedia manages the privacy of information in conjunction with serving ads on this site, please go to http://www.burstmedia.com/. 
+Both GradeSaver and its third party advertisers (such as BurstMedia!, Advertising.com, and Google Adsense) use cookies to enhance your experience on our website. To find out more about how Burstmedia manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/>.
 
 When you click on links and banners on our site that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, GradeSaver cannot be responsible for the actions of any third-party web sites.
 
@@ -26,7 +24,7 @@ Additional information such as your credit card information may be requested if 
 
  **Your Access To and Ability To Change or Update Information:**
 
-Your information may be changed by you at any time by going to the My Account section of our website. If you forget your password, you can go to https://www.gradesaver.com/login/lost.html and request a new password. If you want to change your password or other account information, you can also do so at https://www.gradesaver.com/account/. 
+Your information may be changed by you at any time by going to the My Account section of our website. If you forget your password, you can go to [my-account/lost-password.html](http://www.gradesaver.com/my-account/lost-password.html) and request a new password. If you want to change your password or other account information, you can also do so at [my-account/](http://www.gradesaver.com/my-account/). 
 
 **Description of Safeguards and Security Measures Used to Protect Information:**
 
