@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913055240id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523101732id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
 
 # Anime Online - Privacy Statement
 
@@ -58,5 +58,5 @@ Any personal information (email address, home address etc) we obtain from users 
 
 If you have any questions about this Privacy Statement, [Terms of Use](http://www.animeonline.net/index.php?act=tos), the practices or your dealings with this website, you can contact the below Staff:
 
-Dragon Ball - support@animeonline.net  
+Cowboy Bebop- support@animeonline.net  
 
