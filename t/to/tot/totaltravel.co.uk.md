@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaltravel.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231257id_/http%3A//www.totaltravel.com/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524010000id_/http%3A//www.totaltravel.com/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# totaltravel.com - Privacy Policy
+# 
 
 totaltravel.com understands that interacting with websites involves a great deal of trust on your part. We respect your trust in us and we are committed to ensuring the security and confidentiality of the personally identifiable information you provide us. 
 
@@ -92,6 +92,6 @@ This statement will change in accordance with the constantly changing face of ou
 
 ### Checking your details
 
-Should you wish to check what personally identifiable information we hold about you, amend your information, request that your information be removed or have any queries regarding the above statement, please contact us.
+Should you wish to check what personally identifiable information we hold about you, amend your information, request that your information be removed or have any queries regarding the above statement, please [contact us](http://www.totaltravel.com/about/contact/).
 
 ©2000-2007,totaltravel.com, all rights reserved 
