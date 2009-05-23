@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912204230id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26mainnav%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215852id_/http%3A//www.ataglance.com/webapp/wcs/stores/servlet/MWPrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10002%26mainnav%3DY) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -8,15 +8,19 @@ We understand your concerns about online security and use Secure Socket Layer ("
 
 ### The Secure Order Process
 
+When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in an industry standard encrypted format. 
+
 Using IBM's ebusiness software, in conjunction with features built into popular browser software, our site provides advanced security for your online purchases. 
 
 Once you start the order process by clicking the [“Checkout”](https://web.archive.org/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&storeId=10054&catalogId=10002&orderId=&mainnav=Y&shopStoreID=10052) button on the shopping cart page or log into [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052), the security features are automatic and you don’t need to do anything special to invoke them. Your browser looks for a digital certificate to confirm communication with ataglance.com. Once a positive ID is made, your order continues. Your computer and our server begin communicating in secure mode, sending data back and forth in an encrypted format. At this point you may see a pop-up window, which some browsers display when you are about to receive a secure document. It's fine to click "OK" (or "Continue") to proceed – it simply means you will begin receiving pages in a highly secure encrypted format.
 
-After your browser has entered secure mode, we'll ask you to enter, or if you're using Quick Checkout, to confirm, your credit card information. The encryption features of browser software are exceptionally powerful and ensure the security of this data as it is transmitted to our server. Our site makes use of the Secure Sockets Layer (SSL) protocol and 128-bit strong encryption to provide the highest level of security available. 
+After your browser has entered secure mode, we'll ask you to enter, or if you're using Quick Checkout, to confirm, your credit card information. The encryption features of browser software are exceptionally powerful and help to provide for the security of this data as it is transmitted to our server. Our site makes use of the Secure Sockets Layer (SSL) protocol and 128-bit strong encryption to provide a high level of security. 
 
 Security measures continue even after you've placed your order, as we process your order in a highly secure computing environment.
 
 ### Security: Watching It Work
+
+It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. While no data storage or transmission can ever be totally secure, we use a variety of current technologies and processes for protection of our customer data. 
 
 The most popular web browsers use clear visual symbols to let you know whether or not they are in secure mode. The symbols are displayed either at the bottom left or bottom right of your browser window and resemble a closed lock.
 
@@ -24,11 +28,11 @@ Another indication that a browser is in secure mode can be found in the website 
 
 ### If You Forget Your Password
 
-In the event you forget your [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052) password, we offer an online process that verifies your identity and allows you to receive a new password. When you complete this process, we take an extra measure of security and delete any credit card information saved in your ataglance.com [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052). Of course, you may reenter your credit card information once you've entered a new password. (If you simply change your password after logging in, saved credit card information remains intact.) 
+In the event you forget your [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052) password, we offer an online process that verifies your identity and allows you to receive a new password. When you complete this process, as an extra measure of security, we delete any credit card information saved in your ataglance.com [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052). Of course, you may reenter your credit card information once you've entered a new password. (If you simply change your password after logging in, saved credit card information remains intact.) 
 
 ### Your Privacy Rights
 
-We appreciate the trust you place in us, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on April 1, 2007, describes the information we collect and how we use it. 
+We appreciate the trust you place in us, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on April 29, 2009, describes the information we collect and how we use it. 
 
 We always welcome your questions and feedback. For privacy-related issues, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at:
 
@@ -38,23 +42,26 @@ We always welcome your questions and feedback. For privacy-related issues, pleas
 >  Kettering, OH 45429  
 >  800-648-6323  
 >  937-495-4163 Fax  
->  cop_consumer_relations@meadwestvaco.com
+>  cop_consumer_relations@meadwestvaco.com  
+> 
 
 ### Information We Collect
 
 We may collect information (including name, address, telephone number, email address and, when necessary, credit card information) when you:
 
-> * Place an order from our catalogs or on our website
-> * Return an item or make an exchange 
-> * Inquire about our services 
-> * Request a catalog 
-> * Receive a gift package 
-> * Create an account at ataglance.com 
-> * Subscribe to our email services 
-> * Register at our website 
-> * Enter a contest or sweepstakes 
-> * Are referred to us through a marketing promotion 
-> * Participate in a marketing survey, promotion or event
+>   * Place an order from our catalogs or on our website 
+>   * Return an item or make an exchange 
+>   * Inquire about our services 
+>   * Request a catalog 
+>   * Receive a gift package 
+>   * Create an account at ataglance.com 
+>   * Subscribe to our email services 
+>   * Register at our website 
+>   * Enter a contest or sweepstakes 
+>   * Are referred to us through a marketing promotion 
+>   * Participate in a marketing survey, promotion or event 
+> 
+
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources whose policies meet the Direct Marketing Association's privacy standards.
 
@@ -64,31 +71,36 @@ We also gather information about how visitors navigate through our website by us
 
 At ataglance.com, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we collect information that allows us to:
 
-> * Process and track your order 
-> * Provide the services you request 
-> * Contact you about the status of an order 
-> * Send you catalogs or promotional offers we believe will be of interest to you 
-> * Send you the ataglance.com emails, if requested 
-> * Identify your product and service preferences 
-> * Customize our communications to you 
-> * Provide information concerning product recalls or products you have purchased 
-> * Improve our merchandise selection and customer service 
+>   * Process and track your order 
+>   * Provide the services you request 
+>   * Contact you about the status of an order 
+>   * Send you catalogs or promotional offers we believe will be of interest to you 
+>   * Send you the ataglance.com emails, if requested 
+>   * Identify your product and service preferences 
+>   * Customize our communications to you 
+>   * Facilitate your transactions with our third party marketing partners
+>   * Provide information concerning product recalls or products you have purchased 
+>   * Improve our merchandise selection and customer service 
+> 
+
 
 ### Information We Share with Others and Your Privacy Rights
 
-We contract with other companies to provide certain services, including credit card processing, shipping, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than ataglance.com.
+We contract with other companies to provide certain services, including credit card processing, shipping, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than ataglance.com.
 
-From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. If you prefer that we do not share any information with these companies, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002).
+From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices are represented as meeting the Direct Marketing Association's privacy standards. If you prefer that we do not share any of your information with these companies, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002).
+
+We may also offer certain carefully chosen third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address, email, credit/debit card number and any other customer information required to that third party in order to facilitate the service or transaction that you request.
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
 ### Your Choices
 
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from ataglance.com or if you prefer to receive them less frequently, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address shown at the top. If you no longer wish to receive our emails you also may [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address above or unsubscribe using the link provided in each edition of the email.
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from ataglance.com or if you prefer to receive them less frequently, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address shown at the top. If you no longer wish to receive our emails you also may [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address above or unsubscribe using the link provided in each edition of the email. 
 
 If you do not want to receive mailings from other carefully screened companies, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address above.
 
-Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive unwanted communications, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) again and we will make every effort to correct the situation.
+Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If you continue to receive unwanted communications, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) again and we will make every effort to correct the situation.
 
 ### Cookies and Pixel Tags
 
@@ -96,10 +108,13 @@ A cookie is a small data file that is stored by your web browser on your compute
 
 > For example, we use cookies to:  
 > 
-> * Remember what items are in your shopping cart 
-> * Recognize you when you return to our website 
-> * Enable you to use Quick Checkout, if you have created an account at ataglance.com
-> * Study how our customers navigate through our website and which products they request in site searches 
+> 
+>   * Remember what items are in your shopping cart 
+>   * Recognize you when you return to our website 
+>   * Enable you to use Quick Checkout, if you have created an account at ataglance.com 
+>   * Study how our customers navigate through our website and which products they request in site searches 
+> 
+
 
 If you set your browser to refuse cookies or experience an issue placing your order online, please call us at 800.365.9327 to place your order.
 
@@ -115,17 +130,11 @@ It is our intent to send you promotional email (promotions and special offers) o
 
 ### Links to Other Sites
 
-Occasionally we provide links on our website to other sites we think you will enjoy. These sites may operate independently of ataglance.com and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.
+Occasionally we provide links on our website to other sites we think you will enjoy. We also provide direct links to selected third party marketing partners which offer goods or services which you can purchase directly by linking through to their site. These sites operate independently of ataglance.com and have their own privacy and security policies which may differ from those at ataglance.com. We strongly encourage you to review these policies at any such third party site you visit or link to. (See also: Information We Share with Others and Your Privacy Rights, above)
 
 ### Updating or Reviewing Your Information
 
 To update your customer information (name, address, telephone number and email address), please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/MWContactView?langId=-1&storeId=10052&shopStoreID=10052&catalogId=10002) at the address above or log onto [“My Account”](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&catalogId=10002&mainnav=Y&storeId=10054&shopStoreID=10052) online. To protect your privacy, we will need to validate your identity before you update or review your information either through password verification or specific account questions.
-
-### Security
-
-It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
-
-When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See About Security for details.
 
 ### Privacy of Children on Our Website
 
@@ -134,6 +143,10 @@ Our website is not intended for use by children under the age of 13, and we do n
 ### Policy Changes
 
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our website. We encourage you to review our privacy policy periodically.
+
+### Business Transfers
+
+In the unlikely event that ataglance.com or substantially all of its assets are acquired or sold, customer information will be one of the transferred assets. Of course your personal information will remain subject to the privacy promises set forth in this Privacy and Security Notice.
 
 ### Questions or Comments?
 
