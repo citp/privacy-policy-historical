@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icef.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910030231id_/http%3A//www.icef.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icef.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523152009id_/http%3A//www.icef.com/privacy-policy.html) for the most accurate reproduction.*
 
-# ICEF: Privacy Policy
+# ICEF Student Fairs - Privacy Policy
 
 All personal data you provide to us is protected by ICEF's Privacy Policy. 
 
