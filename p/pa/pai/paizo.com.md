@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422164724id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523083652id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
 
 # paizo.com - Paizo / About Paizo / Privacy Policy
 
-## Paizo Publishing, LLC Website Privacy Policy
+##  Paizo Publishing, LLC Website Privacy Policy 
 
-### This document was last updated September 18, 2006
+### This document was last updated June 3, 2008
 
 We at Paizo Publishing are committed to protecting your personal information. This policy applies to transactions made and data gathered on the paizo.com website, and does not apply to any other website or offline contact between Paizo Publishing and consumers.
 
@@ -16,7 +16,7 @@ Please review the Privacy Policy from time to time as we may update it periodica
 To provide you with products and services, we may collect personal information (i.e. name, mailing address, phone number, email address), financial information (i.e. credit card numbers and billing addresses), and demographic information (i.e. zip code, age). Please note that nowhere on this site do we knowingly collect information from children under the age of 13.
 
 **How We Use Your Personal Information**  
-We use the information you provide for us to help us deliver the services you have requested, to contact you when necessary in connection with those service requests, and to send you information regarding your order or requested services. In some cases, it is necessary for us to provide information particular to you to a third party. For example, in order to deliver your magazine using the address you have provided, it is often necessary for us to provide your name to the printer for the production of delivery information, to a service that may provide notification regarding the expiration of your subscription, and to a delivery company so that you can receive your magazine. Note that, in the case of subscriptions to _Dragon_ or _Dungeon_ magazines, pertinent subscription information is also provided to Wizards of the Coast, Inc.
+We use the information you provide for us to help us deliver the services you have requested, to contact you when necessary in connection with those service requests, and to send you information regarding your order or requested services. In some cases, it is necessary for us to provide information particular to you to a third party. For example, in the case of the magazines that we previously published, it was necessary for us to provide your name and mailing address to the printer for the production of delivery information, to a service that provided notification regarding the expiration of your subscription, and/or to a delivery company so that you could receive your magazine. Also, in the case of subscriptions to _Dragon_ or _Dungeon_ magazines, pertinent subscription information was also provided to Wizards of the Coast, Inc.
 
 We use the financial information you give us to check your qualifications and to charge you for products and services you order from us. By making a purchase or engaging in other activity on the Site that uses financial information, you consent to our providing your financial information to our service providers and the third parties necessary to process your transactions.
 
