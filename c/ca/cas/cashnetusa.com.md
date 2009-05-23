@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023808id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523131405id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CashNetUsa - Fast Payday Loans
 
