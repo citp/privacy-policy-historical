@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2008-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081106025638id_/http%3A//markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524013717id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Forex Privacy Policy | FX Privacy Statement | Forex Disclosures: Market Traders Institute Inc.
+# Market Traders Institute | Privacy Policy
 
 Market Traders Institute Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
