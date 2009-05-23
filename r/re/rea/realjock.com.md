@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221064147id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523233043id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - RealJock
 
@@ -16,7 +16,7 @@ You may not participate in the Website if you are under 18 years old. All adults
 
 RealJock collects a variety of information from you when you register with the Website, as well as during your use of the Website in order to provide you with best possible experience. None of the information collected by RealJock as part of the registration process is made accessible to the public, other users of the site, or anyone not employed by RealJock directly, except to the extent you include such information in your Profile (as defined in the Terms of Use) and to the extent that your age (not your date of birth) may be included by RealJock in your Profile. This information is held strictly confidential and can be deleted at the user's request. Nonmember visitors to RealJock are not allowed access to this information in any way.
 
-Information you include on your Profile will be made accessible to other users of the site. This includes nonmembers who will be able to see your Profile if someone provides them with a direct link to your Profile (e.g. http://profile.realjock.com/membername). However, nonmembers will only see the primary image (non-adult), thumbnails of secondary non-adult images, and any text you have included about yourself. Of course, the nonmember will not be able to communicate with you without logging in.
+Information you include on your Profile will be made accessible to other users of the site. This includes nonmembers who will be able to see your Profile if someone provides them with a direct link to your Profile (e.g. http://www.realjock.com/membername). However, nonmembers will only see the primary image (non-adult), thumbnails of secondary non-adult images, and any text you have included about yourself. Of course, the nonmember will not be able to communicate with you without logging in.
 
 Though we make every effort to preserve user privacy, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone's safety. In addition, as we develop our business, we may buy or sell assets and, depending on the transaction, your personally identifiable information may be one of the transferred assets. In the event that we are acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
 
@@ -30,7 +30,7 @@ If you forget your password, upon request we will email it to the email address 
 
 **EMAIL COMMUNICATIONS**
 
-In general, you will receive one email notification asking that you confirm having created a RealJock membership. You will also receive one email notification every time you purchase a product or subscription from RealJock. You will be similarly notified of subscription or membership renewal transactions when they occur. You will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot list or buddy list, if another member comments on one of your photos or writes you a testimonial, if a member you have added to your hot list or buddy list updates his or her Profile, and a once-a-week newsletter sent by RealJock staff. You can change your preferences for the types of emails you receive from us by clicking the "opt out" or "unsubscribe" links in the emails we send to you or by changing your selections in the Email Preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT.
+In general, you will receive one email notification asking that you confirm having created a RealJock membership. You will also receive one email notification every time you purchase a product or subscription from RealJock. You will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot list or buddy list, if another member comments on one of your photos or writes you a testimonial. You will also be notified by email of a once-a-week newsletter sent by RealJock staff and delivered to your RealJock inbox. You can change your preferences for the types of emails you receive from us by clicking the "opt out" or "unsubscribe" links in the emails we send to you or by changing your selections in the Email Preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT.
 
 **INFORMATION WE AUTOMATICALLY COLLECT FROM YOU**
 
@@ -70,4 +70,4 @@ If you have any questions or concerns regarding our privacy policy, please conta
 
 By email: [privacy@realjock.com](mailto:privacy@realjock.com)
 
-Copyright © 2006-2008 RealJock, Inc. All rights reserved
+Copyright © 2006-2009 RealJock, Inc. All rights reserved
