@@ -1,0 +1,808 @@
+<!--The following is the downloaded HTML source of the citywaboo.com privacy policy that was archived on 2009-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523222836id_/http%3A//mywaboo.citywaboo.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+
+<meta name="description" content="Online community city guide incorporating business reviews, friend recommendations, personal blogs, social networking, events, yellow pages and more.">
+<meta name="keywords" content="citywaboo, mywaboo,  business reviews, friend recommendations, groups, music, videos, yellow pages, social network, search, community, city guide, blogs, media, polls, events.">
+<title> Privacy - Online Community City Guide - CityWaboo</title>
+<link rel="stylesheet" type="text/css" href="themes/waboo_new/gfx/style.css">
+<script src="http://mywaboo.citywaboo.com/jscript/zxml.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/jquery.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/jquery.ui.all.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/thickbox.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/jquery_autocomplete.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://mywaboo.citywaboo.com/player/swfobject.js"></script>
+<script language="JavaScript">
+//<![CDATA[
+var tempTimeout = 0;
+var closeTimeout = null;
+function HS_VChatRequest( type, param )
+{
+	var oXHR = zXmlHttp.createRequest();
+	oXHR.open("post", MainURL+"modules/vchat.php", true);
+	oXHR.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+	oXHR.onreadystatechange = function() {
+		if (oXHR.readyState == 4) {
+			HS_ShowVChatWindow( oXHR.responseText );
+		}
+	}
+
+	var post = null;
+
+	switch(type){
+		case 'invite':
+			post = "action=invite&per_id="+param;
+			break;
+		case 'cancel':
+			HS_CloseVChatWindow();
+			post = "action=cancel&session_id="+param;
+			break;
+		case 'accept':
+			HS_CloseVChatWindow();
+			post = "action=accept&session_id="+param;
+			break;
+		case 'decline':
+			HS_CloseVChatWindow();
+			post = "action=decline&session_id="+param;
+			break;
+		case 'ignore':
+			HS_CloseVChatWindow();
+			post = "action=ignore&session_id="+param;
+			break;
+		case 'invited':
+			post = "action=invited&session_id="+param;
+			break;
+		case 'unavailable':
+			post = "action=unavailable&session_id="+param;
+			break;
+		case 'open_invited':
+			post = "action=open_invited&session_id="+param;
+			break;
+		case 'open_invitee':
+			post = "action=open_invitee&session_id="+param;
+			break;
+		case 'declined':
+			post = "action=declined&session_id="+param;
+			break;
+		case 'close':
+			HS_CloseVChatWindow();
+			break;
+	}
+
+	oXHR.send( post );
+}
+
+function HS_HandleVChatSignal( code )
+{
+	var details = code.split(".");
+	HS_VChatRequest( details[0], details[1] );
+}
+
+function HS_AlignVChatWindow()
+{
+	var ns = (document.layers)?1:0;
+	var Position = new Array;
+	if(ns){
+		Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+		Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+	}//if
+	else{
+		Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+		Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+	}//else
+	var VChatWindow = document.getElementById("vchat_window");
+	VChatWindow.style.top = (Position['Top']/2) - (VChatWindow.offsetHeight/2);
+	VChatWindow.style.left = (Position['Left']/2) - (VChatWindow.offsetWidth/2);
+	if(tempTimeout)
+		setTimeout( "HS_AlignVChatWindow()", 500 );
+}
+function HS_ShowVChatWindow( content )
+{
+	if(content){
+		var element = document.getElementById( "vchat_window" );
+		element.innerHTML = content;
+		tempTimeout = 1;
+		HS_AlignVChatWindow();
+		element.style.visibility = "visible";
+	}
+}
+
+function HS_CloseVChatWindow()
+{
+	tempTimeout = 0;
+	var element = document.getElementById( "vchat_window" );
+	element.innerHTML = "";
+	element.style.visibility = "hidden";
+}
+
+function HS_LaunchVChat( session_id )
+{
+	HS_CloseVChatWindow();
+	url = MainURL+"modules/vchat.php?action=launch&session_id="+session_id;
+	var newwin = window.open(url, "vchat", "width=550,height=330,scrollbars=no,menubar=no,resizable=no,location=no");
+	newwin.focus();
+}
+
+//]]>
+</script>
+<style type="text/css">
+<!--
+	#BLIND {
+		position: absolute;
+		visibility: hidden;
+		top: 0;
+		left: 0;
+		width: 180px;
+		height: 115px;
+		z-index: 1;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+	#blinds_panel {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 1;
+	}
+	#body{
+		z-index: 2;
+	}
+	.blind{
+		width: 180;
+		height: 115;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+//-->
+
+</style>
+
+<script language="JavaScript">
+<!--
+	var NotiTimer = new Array;
+	var BlindIDCount = 0;
+	function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}//MM_preloadImages
+	function HS_LaunchIM(){
+		url = MainURL+"modules/instant_messenger.php?action=launch";
+		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		imwin.focus();
+	}//HS_LaunchIM
+	function HS_LaunchChat(per_id){
+		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
+		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		newwin.focus();
+	}//HS_LaunchChat
+	function HS_BuildBlind(){
+		BlindIDCount++;
+		var BlindID = "BLIND_"+BlindIDCount;
+		var BlindTemplate = document.getElementById("BLIND").innerHTML;
+		var Temp = new Array;
+		Temp = BlindTemplate.split("BLIND");
+		BlindTemplate = Temp.join(BlindID);
+		var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
+		var BlindsHandler = document.getElementById("blinds_panel");
+		if(BlindsHandler.offsetHeight >= 117){
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
+		}//if
+		else{
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
+		}//else
+		BlindsHandler.innerHTML+= BlindContent;
+		return BlindID;
+	}//HS_BuildBlind
+	function HS_BuildNotification(NotiType,NotiMessage){
+		BlindID = HS_BuildBlind();
+		switch(NotiType){
+			case 'im':
+				var Link = "<a href=\"javascript:HS_LaunchIM();\">"+NotiMessage+"</a>";
+				break;
+			case 'calendar':
+				var Link = "<a href=\"index.php?page=calendar\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+			case 'mailbox':
+				var Link = "<a href=\"index.php?page=mailbox&section=inbox\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+			case 'view':
+				var Link = "<a href=\"index.php?page=views\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+		}//switch
+		var MessageHandler = document.getElementById("notification_message_"+BlindID);
+		MessageHandler.innerHTML = Link;
+		HS_FadeBlind(BlindID,"in");
+		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
+	}//HS_BuildNotification
+	function HS_FadeBlind(BlindID,Direction){
+		var Timer = 0;
+		var Speed = 50;
+		if(Direction == "in"){
+			HS_ChangeAlign('blinds_panel',3);
+			for(var i=10;i<=100;i=i+10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
+            	Timer++;
+			}//for
+		}//if
+		else if(Direction == "out"){
+			for(var i=90;i>=0;i=i-10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
+            	Timer++;
+			}//for
+			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
+			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
+		}//else if
+	}//HS_FadeBlind
+	function HS_ChangeOpacity(OpacityValue,BlindID){
+		var BlindObjStyle = document.getElementById(BlindID).style;
+    	BlindObjStyle.opacity = (OpacityValue / 100);
+    	BlindObjStyle.MozOpacity = (OpacityValue / 100);
+    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100);
+    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")";
+	}//HS_ChangeOpacity
+	function HS_PosBlinds(){
+		var ns = (document.layers)?1:0;
+		var Position = new Array;
+		if(ns){
+			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+		}//if
+		else{
+			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+		}//else
+		var BlindsPanel = document.getElementById("blinds_panel");
+		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
+		BlindsPanel.style.left = Position['Left'] - 180;
+		setTimeout("HS_PosBlinds()",500);
+	}//HS_PosBlinds
+	function HS_ChangeAlign(BlindID,Pos){
+		var BlindObjStyle = document.getElementById(BlindID).style;
+		BlindObjStyle.zIndex = Pos;
+	}//HS_ChangeAlign
+	function HS_RemoveBlind(BlindID){
+		var BlindObj = document.getElementById(BlindID);
+		BlindObj.innerHTML = "";
+	}//HS_RemoveBlind
+	function HS_CloseNotification(BlindID){
+		clearTimeout(NotiTimer[BlindID]);
+		HS_FadeBlind(BlindID,'out');
+	}//HS_CloseNotification
+//-->
+</script>
+
+<script type="text/javascript">
+
+var current_keyword = ""; 
+
+var default_keyword = "";
+
+function checkSearchKeywordField() {
+	if(current_keyword.length > 1) {
+		//document.getElementById("query").value = current_keyword;
+	} 
+	if(document.getElementById("query").value == default_keyword) {
+		document.getElementById("query").value = "";	
+	}
+}
+function checkSearchKeywordFieldRevert() {
+	current_keyword = document.getElementById("query").value;
+	if(current_keyword.length > 1) {
+			//document.getElementById("query").value = current_keyword;
+		}
+		if(document.getElementById("query").value == "" || document.getElementById("query").value.length < 1) {
+			document.getElementById("query").value = default_keyword;
+		}
+}
+function searchKeywordTextFieldDefault() {
+	if(document.getElementById("query").value == "" || document.getElementById("query").value.length < 1) {
+	document.getElementById("query").value = default_keyword;
+   }
+}
+function checkCityStateField() {
+var default_city = document.getElementById("city").value;
+	if(document.getElementById("city").value == default_city) {
+                current_city = default_city;
+		document.getElementById("city").value = "";	
+	}
+}
+function checkCityStateFieldRevert() {
+var default_city = current_city;
+	var current_city_in_box = document.getElementById("city").value;
+	if(document.getElementById("city").value == "") {
+		document.getElementById("city").value = default_city;	
+	}
+	if(current_city_in_box.indexOf(" ") == -1) {
+		document.getElementById("city").value = default_city;
+	}
+}
+
+function getSelectionId(text, li) {
+
+}
+function changeMyCityNow() {
+	var citystate = document.getElementById("ccchange").value;
+	window.location = "http://www.citywaboo.com/changemycity.php?citystate="+encodeURIComponent(citystate);
+}
+
+function changeCity(zip, current_page) {
+$(document).ready(function(){
+
+$.post( "/modules/change_city.php?zipcode="+encodeURIComponent(zip)+"&currentpage="+encodeURIComponent(current_page), function(data){
+document.getElementById("changeCity_request").style.display="block";
+$('#changeCity_request').html(data);
+});
+});
+}
+
+
+function switch_city(city_state) {
+	var query = "citystate="+ encodeURIComponent(city_state);
+}
+$(document).ready(function(){
+  current_keyword = document.getElementById("query").value;
+  checkSearchKeywordField();
+  searchKeywordTextFieldDefault(); // INSERT THE DEFAULT TEXT FOR KEYWORD SEARCH
+  
+  
+  $("#query").focus( function () { checkSearchKeywordField(); } );
+  $("#query").blur( function () { checkSearchKeywordFieldRevert(); } );  
+  $("#city").blur( function () { checkCityStateFieldRevert(); } );
+  $("#city").focus( function () { checkCityStateField(); } );
+  
+ 
+  
+});
+
+function closeChangeCities() {
+		document.getElementById("changeCity_request").style.display = "none";
+}
+// go to search
+function goto_search() {
+	var words = document.getElementById('query').value;
+  
+  if(words == 'e.g., "Pizza" or "John\'s Salon"')
+  {
+  alert("Please tell us what you are searching for.");
+ }else if(words == ''){
+alert("Please tell us what you are searching for.");
+  }else{
+	var location = document.getElementById('city').value;   
+location = location.replace(",", "-");
+  words = words.replace("&", "::and::");  
+  words = words.replace("/", " ");
+  words = words.replace("/", " ");
+  words = words.replace("/", " ");
+  words = words.replace("/", " ");  
+  if(location == ""){  
+  alert("Please tell us a city and state to search in.");  
+  } else {  		
+    if(document.getElementById('bus_search').checked == true){
+      var url = "http://www.citywaboo.com/search/"+ encodeURIComponent(words) +"/"+ encodeURIComponent(location);
+    } 
+    if(document.getElementById('friend_search').checked == true){           
+      var url = "http://www.citywaboo.com/friends/index.php?action=start_search&search_key="+ encodeURIComponent(words) +"&city="+ encodeURIComponent(location);
+    }
+        	
+	  window.location = url; 
+  }
+}
+}
+function getMedia(type){
+$(document).ready(function(){
+
+$.post( '/modules/getmedia.php?type='+type, function(data){
+
+$('div#media').html(data);
+});
+});
+}
+
+function getCategories(subdomain, city_state){
+$(document).ready(function(){
+
+$.post( '/modules/create_cat_links.php?sub='+subdomain+'&citystate='+city_state, function(data){
+
+$('div#cat_links').html(data);
+});
+});
+}
+$(document).ready(function(){
+$("#query").autocomplete("/modules/suggest.php", { minChars:3 });
+$("#city").autocomplete("/modules/autocity.php", { minChars:3 });
+});
+
+
+function prependObject(){
+var objects = document.getElementsByTagName("object");
+  for(var i = 0; i < objects.length; i++){
+   var text = "<param name='wmode' value='opaque'></param>";
+   objects[i].appendChild(text);
+  }
+}
+</script>
+
+<script src="http://mywaboo.citywaboo.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/CH_ThumbsPreview.js" type="text/javascript"></script>
+<script src="http://mywaboo.citywaboo.com/jscript/zxml.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/themes/waboo_new/gfx/thickbox.css">
+<script language="JavaScript">
+<!--
+	var MainURL = "./";
+//-->
+</script>
+</head>
+<body onload="HS_PosBlinds();;">
+<script type="text/javascript" src="./jscript/sblib.js"></script>
+<script type="text/javascript" src="./jscript/wz_tooltip.js"></script>
+<div id="BLIND">
+<div class="noti"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
+	<tbody><tr height="20"><td height="20" align="center" class="noti-header">Notification [<a href="javascript:HS_CloseNotification('BLIND')">x</a>]</td></tr>
+	<tr><td align="center" style="padding:5px;" class="noti-body"><div id="notification_message_BLIND"></div></td></tr>
+</tbody></table></div>
+<div id="notification_message_BLIND"></div>
+</div>
+<div id="blinds_panel"></div>
+<iframe name="notifications_js" id="notifications_js" src="./modules/my_waboo.php?action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe><div id="vchat_window"></div>
+
+<div class="handler">
+	<div class="page">
+	
+	   <div class="top">
+        <div style="height:94px">
+		      <div class="logo"><a href="http://www.citywaboo.com"><img src="/themes/waboo_new/gfx/waboologoh_03.jpg" border="0"></a></div>
+        </div>
+     </div>
+ 
+  
+    <div class="topb">
+    
+        <div class="topleft">      
+            <div class="menubar">
+
+	     <a href="http://www.citywaboo.com"><span>Home</span></a>
+|<a href="http://www.citywaboo.com/Los Angeles-CA/yellowpages"><span>Business Listings</span></a>
+|<a href="./index.php?page=events"><span>Events</span></a>
+|<a href="./index.php?page=clubs"><span>Groups</span></a>
+|<a href="http://www.citywaboo.com/friends"><span>Friends Recommend</span></a>
+       |<a href="/index.php"><span>My Waboo</span></a>
+
+	           </div>
+
+            <div class="mainsearch">
+               <table border="0" cellpadding="0" cellspacing="0" width="650" align="center">
+<tbody><tr>
+<td valign="top">
+<div id="home_search_header">
+
+<div class="home_search_divcontents_form">
+<form onsubmit="goto_search(); return false;">
+<table border="0" cellpadding="0" cellspacing="3" style="text-align:left;width:650px;margin-top:7px;margin-left:10px;">
+		<tbody><tr>
+      <td style="font-size:12px;color:#CACACA;font-weight:bold;">What:&nbsp;&nbsp;<span style="font-size:9px;font-weight:normal;">e.g. "Pizza" or "John's Salon"</span></td>
+      <td style="font-size:12px;color:#CACACA;font-weight:bold;">Where</td>
+      <td></td>  
+  </tr>
+  <tr>
+		<td><input type="text" name="query" id="query" value="" style="width:275px;color:#666666;"></td>		
+    <td><input type="text" name="city" id="city" value=", " style="width:200px;color:#666666;"></td>
+		<td><input type="image" src="/themes/waboo_new/gfx/search_button.png"></td>
+	</tr>
+	   <tr>
+	     <td colspan="3" align="center">
+	       <table align="left" width="600" style="text-align:left;">
+	       <tbody><tr>
+	          <td width="12"><input type="radio" onclick="document.getElementById('friend_search').checked = false;" id="bus_search" name="bus_search" value="1" checked=""> </td><td style="color:white;font-size:11px;"> Business Listings </td>
+            <td width="12"><input type="radio" onclick="document.getElementById('bus_search').checked = false;" id="friend_search" name="friend_search" value="2"> </td><td style="color:white;font-size:11px;"> Friend Recommendations </td>
+            <td width="12"><img src="/themes/waboo_new/gfx/dropdown_arrow.jpg" border="0"></td><td style="color:white;font-size:11px;"> &nbsp;<a href="/modules/change_city.php?zipcode=90001&amp;width=400&amp;height=" class="thickbox" title="Change City" style="color:white;">Change Your Location</a></td>
+	       </tr>
+        </tbody></table>
+      </td>
+    </tr>
+	</tbody></table>
+</form>
+</div>
+</div>
+
+<div id="changeCity_request" name="changeCity_request" style="display:none;position:absolute;"></div>
+
+</td>
+</tr>
+</tbody></table>
+           
+             </div>
+            <div class="bottommenu">
+            <a href="./index.php?page=blogs"><span>Member Blogs</span></a>
+|<a href="./index.php?page=ecards"><span>eCards</span></a>
+|<a href="./index.php?page=music"><span>Music</span></a>
+|<a href="./index.php?page=videos"><span>Videos</span></a>
+|<a href="./index.php?page=polls"><span>Polls</span></a>
+|<a href="./index.php?page=search&amp;section=members"><span>Social Search</span></a>
+ |  &nbsp;&nbsp;<a href="javascript:void(0)" onclick="sbDropDown( this )" onmouseout="sbHide()" onmouseover="sbStopTimer()">Bookmark</a> 
+            </div>
+  
+          </div>
+<div class="topright">
+
+<div class="topmenu">
+
+<center>
+<table width="295" style="padding-left:5px;">
+<form action="index.php" method="post" name="login"></form>
+<input type="hidden" name="handler" value="login">
+<input type="hidden" name="action" value="do_login">
+<input type="hidden" name="route_to" value="">
+	<tbody><tr>
+	<td colspan="2" style="text-align:left;color:#ffffff;border-bottom:1px dotted #f8f8f8;font-weight:bold;font-size:14px;padding-bottom:5px;">
+	Log In
+	</td>
+	</tr>
+	<tr>
+		<td style="padding:10px 0;">		
+		<div style="float:left;">
+			<div class="loginlabel">Email</div>
+			<div class="loginelement"><div class="formset"><input class="textfield" type="text" style="width:100px" name="email" value=""></div></div>
+			</div>	
+		<div style="float:left;">
+			<div class="loginlabel">Password</div>
+			<div class="loginelement"><div class="formset"><input class="textfield" type="password" style="width:100px" name="password"></div></div>
+		</div>			
+		</td>
+	<td width="50" valign="top" style="padding-top:20px;">
+	<div class="loginbutton">
+		<div><input type="image" src="/themes/waboo_new/gfx/buttons/login.png" width="50" height="20" border="0" name="submit" id="submit" onclick=""></div>	</div>
+	</td>
+</tr>
+
+</tbody></table> 
+<div style="margin:0px 0 5px 15px;text-align:left;">
+<a href="index.php?page=forgot">Forgot your password?</a>    
+</div>
+<div style="margin-left:10px;text-align:center;">
+<a href="/index.php?page=join"><img src="/themes/waboo_new/gfx/join.png" border="0"></a>
+</div>
+</center>
+
+</div>
+	
+            
+
+            </div>
+
+      </div>
+
+
+<div style="clear:both;"></div>
+
+
+
+
+
+
+	
+	
+		
+<div class="padded">
+
+
+
+	<div class="blue-long">
+<div class="blue-header">Privacy Policy</div>
+<div class="blue-body">	
+<div class="ua-globalContainer">	
+
+<p class="ua-introtext">
+CityWaboo.com understands and respects your concerns about privacy and is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive through this Web site. This Privacy Policy is part of and should be read in conjunction with the Terms of Use Agreement (Agreement) posted on the Site. CityWaboo.com reserves the right to modify this Privacy Policy at any time from time to time. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Site is not intended for use by persons under the age of thirteen. Individuals who are under the age of thirteen are hereby prohibited from submitting content and/ or any personally identifiable information about themselves to CityWaboo.com. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children. By submitting any personal information to this Site, you consent to the collection and processing of such information in the United States and/or any other country. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">1. Personally identifiable information collected by CityWaboo.com collects from you, and how CityWaboo.com uses such information. </span> <br>
+CityWaboo.com collects and stores personal information through different parts of this Site including online order forms. This information may include your legal name, email address, age, gender, address, telephone number(s), financial information, User ID, User Password and other self-identifying information. CityWaboo.com collects this information for the purpose of providing you with our customized services that fit your preferences. We may make message boards and discussion forums available to you. If you choose to voluntarily disclose certain information on any such public area of the Site, this Privacy Policy will not cover such disclosure of information. We urge exercising caution when disclosing information on public message boards or discussion forums. We may also collect information about you in surveys or for sweepstakes and contests on the Site and information about the searches you perform and the pages you visit on the Site. CityWaboo.com may also monitor, on an anonymous aggregate basis, patterns of use in connection with emails that it sends out, in order to enhance the content of our news letters that we send out to our users. We may also automatically collect your Internet Protocol address for technical support. We may also use your information to contact you, if necessary. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">2. Sharing the collected information.</span> <br>
+CityWaboo.com will not sell, rent or barter your personal information other than to its business partners as set forth herein. However, we may from time to time aggregate statistical information regarding our customers, traffic patterns and site usage, or sell our research, which may contain aggregate information. In addition, we may report aggregate information to our advertisers. Such aggregate information will not individually identify any user. We reserve the right to disclose any information if such action is necessary (a) to conform to the requirements of the law or to comply with legal process or subpoena served on CityWaboo.com, (b) to protect and defend the legal rights or property of CityWaboo.com, the Site, or its users, or (c) in an emergency, to protect the health and safety of its users or the general public. We further reserve the right to release any information concerning any user if that user participates (or is reasonably suspected of participating) in any illegal activity, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">3. Choices you may have regarding the collection, use and distribution of your information.</span> <br> 
+You may occasionally receive updates about the products or services. In the event you are requested to register, you may be given an opportunity to "opt in" to receive mailings from CityWaboo.com and/or its partners. You may subsequently contact us to request to be removed from this list. CityWaboo.com reserves the right to limit any registrations on our Site to those who will accept our information and to those who will provide the requested information. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">4. Use of cookies. </span> <br>
+CityWaboo.com uses cookies to store and sometimes track information about you to help provide customized services to you. A cookie is a small amount of data that is transferred to your computer's hard drive. All portions of the Site that prompt you to log in or that are customizable require that you accept cookies. Cookies will not be used by us to retrieve any information about you, or from your computer, that you have not voluntarily given to us. Cookies may also be placed on your computer when you link from the Site to our partners' web sites or when you click banner ads provided on our Site. CityWaboo.com is not responsible for Cookies placed on your computer by third parties by or through the Site. You can usually edit your browser not to accept cookies, but the features of our Site may not function properly if you do not accept cookies. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">5. Protecting your information.</span> <br> 
+For all our transactions, we employ reasonable and current Internet security methods and technologies. Where appropriate, we password protect, use encryption techniques and install firewalls. We strive to protect you. We encourage our participating service providers to adopt and honor their own consumer privacy policies. For all our efforts to safeguard your privacy, no system can be guaranteed. We cannot ensure or warrant the security of any information that you transmit to us, or that we transmit to you, or guarantee that it will be free from unauthorized access by third parties. Once we receive your information, we use reasonable efforts to ensure its security on our systems. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">6. Access, update and delete your information.</span> <br> 
+You are responsible for maintaining and updating your account information as to keep current and accurate. You may view, update and/or edit your account information you have provided to CityWaboo.com by logging in to your account and following the appropriate instructions. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">7. Other parties web sites.</span> <br>
+The Site may contain links to other web sites and advertising. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
+</p>
+<p class="ua-agreementContainer">
+<span class="txtbold">8. Contact us. </span> <br>
+Please direct any questions or comments you may have regarding our Privacy Policy to: 
+<br>
+<br>
+<span class="txtbold">City Waboo Inc.</span>  <br>
+209 E. Alameda Ave., Suite 100 <br>
+Burbank, CA 91502 <br>
+
+
+<a href="mailto:info@citywaboo.com" class="emailColorLink">Info@CityWaboo.com</a>
+ <br>
+</p>
+</div>	
+	<div style="clear:both;"></div>
+</div>
+</div>	
+
+
+</div><div style="clear:both;height:5px;"><img src="themes/waboo_new/gfx/spacer.gif" alt="" width="1" height="1" border="0"></div>
+
+
+<div class="footer">     
+<div style="padding:5px;">
+<a href="http://www.citywaboo.com/friends" class="wbTxtLink">Friends Recommend</a> | 
+<a href="http://www.citywaboo.com/yellowpages" class="wbTxtLink"><!--?= $config['major_city'] ?--> Business Listings</a> | 
+<a href="http://mywaboo.citywaboo.com/" class="wbTxtLink">My Waboo</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=blogs" class="wbTxtLink">Member Blogs</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=groups" class="wbTxtLink">Member Groups</a> |  
+<a href="http://mywaboo.citywaboo.com/index.php?page=search&amp;section=members" class="wbTxtLink">Social Search</a> <br> <br>
+<a href="http://mywaboo.citywaboo.com/index.php?page=events" class="wbTxtLink">Events</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=videos" class="wbTxtLink">Videos</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=music" class="wbTxtLink">Music</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=polls" class="wbTxtLink">Polls</a> | 
+<a href="http://mywaboo.citywaboo.com/index.php?page=ecards" class="wbTxtLink">eCards</a> | 
+<a href="http://advertise.citywaboo.com/signup" class="wbTxtLink">Add or Update Your Business Listing</a>
+</div>
+</div>
+
+<div class="footer2">
+<table width="100%">
+  <tbody><tr>
+    <td valign="top" style="border-right:1px dotted #006699;">
+      <table width="150">
+        <tbody><tr>
+          <td><span style="font-weight:bold;font-size:11px;color:#FFFF33;">CityWaboo</span></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo">About CityWaboo</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/">CityWaboo Official Blog</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo/success-stories/" class="wbTxtLink">Success Stories</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo/faq/">FAQ's</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/category/press/">Press</a></td>
+        </tr>
+       </tbody></table> 
+       <br>
+       <table width="150">
+        <tbody><tr>
+          <td><span style="font-weight:bold;font-size:11px;color:#FFFF33;">Contact</span></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo/contact-us/">Contact Us</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo/feedback/">Site Feedback</a></td>
+        </tr><tr>
+          <td><a href="http://blog.citywaboo.com/citywaboo/careers/">Careers</a></td>
+        </tr>
+       </tbody></table> 
+    </td>
+
+    <td valign="top" align="center" style="border-right:1px dotted #006699;">   
+      <table width="270">
+        <tbody><tr>
+          <td colspan="2"><span style="font-weight:bold;font-size:11px;color:#FFFF33;">Popular Cities</span></td>
+        </tr><tr>	
+          <td><a href="http://atlanta.citywaboo.com/">Atlanta, GA</a></td> 
+          <td><a href="http://austin.citywaboo.com/">Austin, TX</a></td>
+        </tr><tr> 
+          <td><a href="http://boston.citywaboo.com/">Boston, MA</a></td> 
+          <td><a href="http://chicago.citywaboo.com/">Chicago, IL</a></td>
+        </tr><tr>   
+          <td><a href="http://dallas.citywaboo.com/">Dallas, TX</a></td> 
+          <td><a href="http://denver.citywaboo.com/">Denver, CO</a></td>
+         </tr><tr>  
+          <td><a href="http://houston.citywaboo.com/">Houston, TX</a></td> 
+          <td><a href="http://lasvegas.citywaboo.com/">Las Vegas, NV</a></td>
+         </tr><tr>  
+          <td><a href="http://losangeles.citywaboo.com/">Los Angeles, CA</a></td>      
+          <td><a href="http://miami.citywaboo.com/">Miami, FL</a></td>
+        </tr><tr>   
+          <td><a href="http://newyork.citywaboo.com/">New York, NY</a></td> 
+          <td><a href="http://portland.citywaboo.com/">Portland, OR</a></td>
+         </tr><tr>  
+          <td><a href="http://sandiego.citywaboo.com/">San Diego, CA</a></td> 
+          <td><a href="http://sanfrancisco.citywaboo.com/">San Francisco, CA</a></td>
+          </tr><tr>
+          <td><a href="http://seattle.citywaboo.com/">Seattle, WA</a></td>
+          <td></td>
+        </tr>
+      </tbody></table>      
+      </td>
+      
+      <td valign="top" align="center">
+        <div id="cat_links" style="width:450px;">              
+        </div>
+      </td>     
+    </tr>
+  </tbody></table>
+<script type="text/javascript">
+getCategories('losangeles', 'Los Angeles-CA');
+</script>
+
+
+</div>
+
+
+</div>
+</div>
+<div id="sbdropdown" onmouseover="sbStopTimer()" onmouseout="sbHide()">
+<div class="sbitem" onclick="window.external.AddFavorite('http://mywaboo.citywaboo.com/index.php?page=privacy','Privacy - Online Community City Guide - CityWaboo')" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/star.png" alt="" style="vertical-align:middle;"> Favorites</div>
+<div class="sbitem" onclick="sbBookmark('http://del.icio.us/post?url=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy;title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/delicious.png" alt="" style="vertical-align:middle;"> Del.icio.us</div>
+<div class="sbitem" onclick="sbBookmark('http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/digg.png" alt="" style="vertical-align:middle;"> Digg</div>
+<div class="sbitem" onclick="sbBookmark('http://www.furl.net/storeIt.jsp?u=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;t=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/furl.gif" alt="" style="vertical-align:middle;"> Furl</div>
+<div class="sbitem" onclick="sbBookmark('http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/magnolia.png" alt="" style="vertical-align:middle;"> Magnolia</div>
+<div class="sbitem" onclick="sbBookmark('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/stumbleupon.png" alt="" style="vertical-align:middle;"> StumbleUpon</div>
+<div class="sbitem" onclick="sbBookmark('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/google.gif" alt="" style="vertical-align:middle;"> Google</div>
+<div class="sbitem" onclick="sbBookmark('http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy+-+Online+Community+City+Guide+-+CityWaboo&amp;u=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/yahoo.png" alt="" style="vertical-align:middle;"> Yahoo</div>
+<div class="sbitem" onclick="sbBookmark('http://technorati.com/faves?add=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/technorati.gif" alt="" style="vertical-align:middle;"> Technorati</div>
+<div class="sbitem" onclick="sbBookmark('http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fmywaboo.citywaboo.com%2Findex.php%3Fpage%3Dprivacy&amp;Title=Privacy+-+Online+Community+City+Guide+-+CityWaboo',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://mywaboo.citywaboo.com/includes/sbicons/blinklist.png" alt="" style="vertical-align:middle;"> BlinkList</div>
+</div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-280057-3";
+urchinTracker();
+</script>
+
+
+
+
+<div style="text-align:center;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;margin-top:20px;margin-bottom:20px;">
+
+<center>
+<table border="0" cellpadding="3" cellspacing="0" style="text-align:center;font-family:Verdana, Arial, Helvetica, sans-serif;color:#464646;font-size:9px;">
+<tbody><tr>
+<td>
+    <table width="100%" cellpadding="2" cellspacing="0" border="0" style="font-size:10px;color:#686868;">
+      <tbody><tr align="center">
+        <td>Help build the largest open-content restaurant guide on the web.</td>
+      </tr>
+      <tr align="center">
+        <td>
+            Submit a <a class="a_white" target="_new" href="http://chefmoz.org/cgi-bin/add.pl?where=">Restaurant</a> |
+            <a class="a_white" target="_new" href="http://chefmoz.org/cgi-bin/review.pl?ID=">Review</a> |
+            <a class="a_white" target="_new" href="http://chefmoz.org/cgi-bin/link.pl?restID=">Link</a> -
+            <a class="a_white" target="_new" href="http://chefmoz.org/about.html"><b>ChefMoz Project</b></a> -
+            <a class="a_white" target="_new" href="http://chefmoz.org/cgi-bin/apply.pl?where=">Become an Editor</a>
+        </td>
+      </tr>
+    </tbody></table>
+</td>
+</tr>
+</tbody></table>
+</center>
+<br>
+
+Copyright © 2007 - 2009 CityWaboo.com is a registered trademark of City Waboo, Inc. All rights reserved. <a href="http://mywaboo.citywaboo.com/index.php?page=terms" target="_new" class="a_white">Terms of Use</a> / <a href="http://mywaboo.citywaboo.com/index.php?page=privacy" target="_new" class="a_white">Privacy Policy</a>
+</div> 
+<div>&nbsp;</div>
+
+
+</body></html>
