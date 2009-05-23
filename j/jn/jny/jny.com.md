@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930173154id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jny.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523202820id_/http%3A//www.jny.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Jones New York
+# Jones New York: Privacy Policy
 
 This jny.com web site is a service of Jones Retail Corporation. 
 
@@ -24,7 +24,7 @@ Jones New York uses this information to confirm and process sales transactions o
 
 Jones New York also uses this information to enhance and personalize your shopping experience, both online and in our stores, to communicate with you for marketing and promotional purposes via targeted postal pieces, phone messages, or personalized emails, and to improve the effectiveness of our websites and business activities. You may indicate your contact preferences regarding promotional communications either directly to us online or to customer service representatives. 
 
-You may access and edit the information that you provide online by signing in at jny.com. You may access and edit the information that you provide online by signing in at jny.com. Simply click on the "[Sign In](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Login-Show)" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don't have/know my password?" or "I forgot my password" link at which time jny.com will email your password to the associated email address. Currently, we do not provide online access to information that you provided to Jones New York offline. But at any time you may request access to your information from our customer service representatives. 
+You may access and edit the information that you provide online by signing in at jny.com. Simply click on the "[Sign In](http://www.jny.com/on/demandware.store/Sites-jonesny-Site/default/Login-Show)" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don't have/know my password?" or "I forgot my password" link at which time jny.com will email your password to the associated email address. Currently, we do not provide online access to information that you provided to Jones New York offline. But at any time you may request access to your information from our customer service representatives. 
 
 Unfortunately, no data transmission over the Internet can be unconditionally guaranteed to be secure. Therefore any information you transmit to us is sent at your own risk. 
 
