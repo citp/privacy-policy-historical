@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the xignite.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225070433id_/http%3A//www.xignite.com/Policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xignite.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523101335id_/http%3A//xignite.com/Documents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# Privacy Policy - Market Data Feeds, Financial Web Services :: Xignite
 
 ## Our Commitment To Privacy
 
-Xignite, Inc values you as a customer and respects your privacy. Our goal is to make your visits to our web site fun and informative, convenient and secure. We will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, to communicate with you about our products, services and promotions. We are committed to managing this information responsibly and ensuring that you are in control of your personal information and the communications you receive from us. We do not sell your personal information. At any time you may contact Xignite, Inc with any privacy questions or concerns you may have. You also may ask at any time to see the personal data you have given us and request correction or deletion. 
+Xignite, Inc values you as a customer and respects your privacy. Our goal is to make your visits to our web site fun and informative, convenient and secure. We will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, to communicate with you about our products, services and promotions. We are committed to managing this information responsibly and ensuring that you are in control of your personal information and the communications you receive from us. 
+
+We do not sell your personal information. At any time you may contact Xignite, Inc with any privacy questions or concerns you may have. You also may ask at any time to see the personal data you have given us and request correction or deletion. 
 
 ## The Information We Collect
 
@@ -16,7 +18,7 @@ Xignite, Inc uses customer information for three general purposes: to customize 
 
 Your should be aware that we may disclose specific information about you if necessary to do so by law or b ased on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our web site, the site or the public. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above and will never sell or distribute any information to outside parties.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above and will never sell or distribute any information to outside parties. 
 
 ## How You Can Access, Change or Delete Your Information
 
@@ -30,7 +32,7 @@ On our client page, we display a partial list of our clients as reference for ot
 
 Xignite, Inc gathers navigational information about where visitors go on our web site and information about the technical efficiencies of our web site (such as time to connect to our web site, time to download pages). This information allows us to see which area of Xignite, Inc are most visited and helps us to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-More important, this information helps us to improve the quality of our visitors\' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (i.e. browser version, service provider, domain type and IP address) may be collected.
+More important, this information helps us to improve the quality of our visitors\' online shopping experiences by recognizing and delivering more of the features, services and products our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (i.e. browser version, service provider, domain type and IP address) may be collected. 
 
 ## Use of Cookies
 
@@ -44,7 +46,7 @@ For your convenience, our web site may contain links to other sites. We are not 
 
 ## Applicability of Privacy Statement
 
-This privacy policy statement applies only to the information collected online at Xignite, Inc.
+This privacy policy statement applies only to the information collected online at Xignite, Inc. 
 
 ## Data Security 
 
@@ -60,6 +62,6 @@ Xignite, Inc reserves the right to change, modify or amend this policy at any ti
 
 ## Questions About Our Policy 
 
-If you have questions or concerns about our Privacy and Security Policy, please feel free to contact us at [support@xignite.com](mailto:support@xignite.com). 
+If you have questions or concerns about our Privacy Policy, please feel free to contact us at [support@xignite.com](mailto:support@xignite.com). 
 
 This privacy & security policy is effective October 17, 2006 
