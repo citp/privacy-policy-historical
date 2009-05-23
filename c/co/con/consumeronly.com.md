@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeronly.com privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505050512id_/http%3A//www.consumeronly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeronly.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215736id_/http%3A//www.consumeronly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,6 +31,6 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ### Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20080505050512id_/http%3A//www.consumeronly.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2006.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20090523215736id_/http%3A//www.consumeronly.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2006.**
 
 © 2006 consumeronly.com
