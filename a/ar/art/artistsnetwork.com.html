@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artistsnetwork.com privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913050113id_/http%3A//www.artistsnetwork.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artistsnetwork.com privacy policy that was archived on 2009-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523085452id_/http%3A//www.artistsnetwork.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Artists Network - Privacy Policy</title>
@@ -42,6 +42,52 @@
         }
         return true; 
       } 
+
+	
+function Set_Cookie( name, value, expires, path, domain, secure ) 
+
+{
+// set time, it's in milliseconds
+var today = new Date();
+today.setTime( today.getTime() );
+
+/*
+if the expires variable is set, make the correct 
+expires time, the current script below will set 
+it for x number of days, to make it for hours, 
+delete * 24, for minutes, delete * 60 * 24
+*/
+
+if ( expires )
+{
+ expires = expires * 1000 * 60 * 60 * 24;
+}
+
+var expires_date = new Date( today.getTime() + (expires) );
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+( ( path ) ? ";path=" + path : "" ) + 
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+ 
+// this function gets the cookie, if it exists
+function Get_Cookie( name ) 
+{     
+      var start = document.cookie.indexOf( name + "=" );
+      var len = start + name.length + 1;
+      if ( ( !start ) &&      ( name != document.cookie.substring( 0, name.length ) ) )
+      {
+            return null;
+      }
+      if ( start == -1 ) 
+            return null;
+      var end = document.cookie.indexOf( ";", len );
+      if ( end == -1 ) 
+            end = document.cookie.length;
+      return unescape( document.cookie.substring( len, end ) );   
+}
     //--></script>
 
     
@@ -53,8 +99,8 @@
     <!-- BEGIN ARTISTS NETWORK RICH-MEDIA BURST! CODE -->	
       <script language="JavaScript">
         rnum=Math.round(Math.random() * 100000);
-        document.write('<SCR'+'IPT SRC="http://ads.addesktop.com/cgi-bin/ads/ad12946c.cgi/RS=234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A;120X600A;160X600A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=ARNPrivacy_Policy,NOFORUM/V=3.0R/'+rnum+'/CNW/RETURN-CODE/"></SCR'+'IPT>');
-      </script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946c.cgi/RS=234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A;120X600A;160X600A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=ARNPrivacy_Policy,NOFORUM/V=3.0R/61276/CNW/RETURN-CODE/"></script>					
+        document.write('<SCR'+'IPT SRC="http://ads.addesktop.com/cgi-bin/ads/ad12946c.cgi/RS=1X1A-234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A;120X600A;160X600A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=ARNPrivacy_Policy,NOFORUM/V=3.0R/'+rnum+'/CNW/RETURN-CODE/"></SCR'+'IPT>');
+      </script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946c.cgi/RS=1X1A-234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A;120X600A;160X600A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=ARNPrivacy_Policy,NOFORUM/V=3.0R/28710/CNW/RETURN-CODE/"></script>					
     <!-- END ARTISTS NETWORK BURST CODE -->
 
     
@@ -155,7 +201,7 @@ draw_468X60A_728X90A();
 	<a class="more2" href="http://www.artistsnetwork.tv/">ArtistsNetwork.TV</a>
 <img alt="" src="/upload/images/dot.jpg" align="absmiddle">
 
-	<a class="more2" href="http://www.fwbookstore.com/category/art-instruction/?r=artnetworknav">Art Books</a>
+	<a class="more2" href="http://www.northlightshop.com?r=ANGL" target="_blank">Art Books</a>
 
     </div>
 
@@ -211,11 +257,11 @@ draw_234X60A();
 
     <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3631')" onmouseout="MenuItemOut();" href="/magazines/">Art Magazines</a></td><td class="separator">|</td>
 
-    <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3632')" onmouseout="MenuItemOut();" href="/artbooks/">Books</a></td><td class="separator">|</td>
+    <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3632')" onmouseout="MenuItemOut();" href="http://www.northlightshop.com?r=ANGL" target="_blank">Books</a></td><td class="separator">|</td>
 
     <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3633')" onmouseout="MenuItemOut();" href="/artist_resources/">Resources</a></td><td class="separator">|</td>
 
-    <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3590')" onmouseout="MenuItemOut();" href="/shop/">Shop</a></td>
+    <td class="Item"><a class="TopNav" onmouseover="MenuItemOver('3590')" onmouseout="MenuItemOut();" href="http://www.northlightshop.com?r=ANGL" target="_blank">Shop</a></td>
 
   </tr></tbody></table>
 
@@ -245,7 +291,7 @@ draw_234X60A();
 
 <div class="separator">|</div>
 
-<a class="sublinkheader" href="/artistsmagazinearticles/">The Artist's Magazine</a>
+<a class="sublinkheader" href="/artistsmagazinearticles/">The Artist’s Magazine</a>
 
 <div class="separator">|</div>
 
@@ -335,6 +381,18 @@ draw_234X60A();
 
 <a class="sublinkheader" href="/pasteljournalcompetition/">The Pastel 100</a>
 
+<div class="separator">|</div>
+
+<a class="sublinkheader" href="/21under31/">21 Under 31 Competition</a>
+
+<div class="separator">|</div>
+
+<a class="sublinkheader" href="/21over31/">21 Over 31 Competition</a>
+
+<div class="separator">|</div>
+
+<a class="sublinkheader" href="/watermediashowcase/">Watermedia Showcase</a>
+
 </div>
 
 
@@ -369,11 +427,7 @@ draw_234X60A();
 
 <div id="submenu_3632" style="display: none;height:16px; line-height:16px;" class="Item">
 
-<a class="sublinkheader" href="http://www.fwbookstore.com/category/north-light">North Light Books online store</a>
-
-<div class="separator">|</div>
-
-<a class="sublinkheader" href="https://www.northlightbookclub.com/">North Light Book Club</a>
+<a class="sublinkheader" href="/northlight/">What's New at North Light Books</a>
 
 </div>
 
@@ -389,6 +443,10 @@ draw_234X60A();
 
 <div class="separator">|</div>
 
+<a class="sublinkheader" href="/art_online_seminars/">Artist's Network Online Seminars</a>
+
+<div class="separator">|</div>
+
 <a class="sublinkheader" href="http://www.artists-marketplace.com/AS/StoreLocator.aspx?advid=800053&amp;cat=1337">Store Locator</a>
 
 <div class="separator">|</div>
@@ -397,7 +455,7 @@ draw_234X60A();
 
 <div class="separator">|</div>
 
-<a class="sublinkheader" href="http://www.fwbookstore.com/category/north-light">Book Store</a>
+<a class="sublinkheader" href="http://www.northlightshop.com?r=ANGL" target="_blank">Book Store</a>
 
 <div class="separator">|</div>
 
@@ -761,7 +819,7 @@ Google Inc.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
         </tr>
         <tr>
             <td class="learn" valign="top" align="right">BOOKS:</td>
-            <td style="PADDING-LEFT: 5px" valign="top" align="left"><a class="footer" target="_blank" href="http://www.fwbookstore.com/category/north-light">Northlight Books </a>&nbsp;<span class="footer1">|</span>&nbsp;<a class="footer" target="_blank" href="https://www.northlightbookclub.com">Northlight Book Club</a> &nbsp;<span class="footer1">|</span>&nbsp;<a class="footer" target="_blank" href="http://www.mycraftivityshop.com/?r=glan0808">MyCraftivity.Com</a></td>
+            <td style="PADDING-LEFT: 5px" valign="top" align="left"><a target="_blank" href="http://www.northlightshop.com?r=ANGL">Northlight Books</a> &nbsp;<span class="footer1">|</span>&nbsp;&nbsp;<span class="footer1">|</span>&nbsp;<a class="footer" target="_blank" href="http://www.mycraftivityshop.com/?r=glan0808">MyCraftivity.Com</a></td>
         </tr>
         <tr>
             <td class="learn" valign="top" align="right">CORPORATE:</td>
@@ -782,12 +840,18 @@ var dteNow = new Date();
 var intYear = dteNow.getFullYear();
 document.write(intYear);
 //-->
-</script>2020 F+W Publications, Inc.  All rights reserved.
-</div>		
+</script>2020 F+W Media, Inc. All rights reserved.</div>		
         <!--end nested table for copyright blurb-->
 
 
     </div>
+    
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_1X1A();
+</script>
+<!-- END BURST CODE -->
+
     <!--END PageLayout //-->
 
 
