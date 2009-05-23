@@ -1,0 +1,468 @@
+<!--The following is the downloaded HTML source of the 1millionwomen.com.au privacy policy that was archived on 2009-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523215111id_/http%3A//www.1millionwomen.com.au/Privacy-Policy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>1 Million Women</title>
+    <meta name="keywords" content="1 million women,one million women campaign,carbon,co2,climate change,climate action,climate coolers,greenhouse gas pollutant,grassroots programs,greenpower,renewable energy, cut carbon emissions">
+	<meta name="description" content="1 Million Women - A campaign of daughters, mothers, sisters and grandmothers - Committed to protecting our climate, our communities and our future, leading change for the better.">
+    <link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="stylesheet" href="css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+    <!--[if IE]><link rel="stylesheet" href="css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+    <!--[if lt IE 7]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
+    <![endif]-->
+    <script src="js/jquery.js" type="text/javascript"></script>
+	<script>jQuery.noConflict();</script>
+	<script type="text/javascript" src="js/mootool/mootools.js"></script>
+	<script src="js/sifr.js" type="text/javascript"></script>
+	<script src="js/sifr-config.js" type="text/javascript"></script>
+	<script src="js/ui.core.js" type="text/javascript"></script>
+	
+	
+    <script src="js/jquery.simpletip-1.3.1.pack.js" type="text/javascript"></script>
+	<script src="js/jquery.simplemodal-1.2.3.js"></script>
+    <script src="js/common.js" type="text/javascript"></script>
+	<script src="js/interface.js" type="text/javascript"></script>
+	
+<script language="JavaScript" type="text/javascript">
+<!--
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+  document.write(str);
+}
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblclick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+// -->
+</script>
+
+</head>
+<body>
+<div id="header" class="container">
+	
+	<h1 id="logo" class="imgBg"><a href="http://www.1millionwomen.com.au/index.cfm" title="1 Million Women">1 Million Women</a></h1>
+	
+		
+			
+			<div class="logOut"><a href="http://www.1millionwomen.com.au/Login.cfm">Login</a></div>
+		
+	
+	<ul id="mainNav" class="menu column span-16">
+		<li id="mainNav_home">
+			<a href="http://www.1millionwomen.com.au/index.cfm" class="imgBg " title="1 Million Women Homepage">Home</a>
+		</li>
+		<li id="mainNav_more">
+			<a href="http://www.1millionwomen.com.au/Get-Involved.cfm" class="imgBg " title="Get Involved">Get Involved</a>		</li>
+		<li id="mainNav_womantowoman">
+			<a href="http://www.1millionwomen.com.au/Sharing-Stories.cfm" class="imgBg " title="Sharing Stories">Sharing Stories</a>
+		</li>
+		<li id="mainNav_ourteam">
+			<a class="imgBg cursor " title="About Us">About Us</a>
+			<ul class="menu">
+				<li><a href="http://www.1millionwomen.com.au/The-Campaign.cfm" title="The Campaign">The Campaign</a></li>
+                <li><a href="http://www.1millionwomen.com.au/Our-Ambassadors.cfm" title="Our Ambassadors">Our Ambassadors</a></li>
+				<li><a href="http://www.1millionwomen.com.au/Climate-Coolers.cfm" title="Climate Coolers">Campaign Creators</a></li>
+			</ul>
+		</li>
+		<li id="mainNav_about">
+			<a href="http://www.1millionwomen.com.au/Our-Partners.cfm" class="imgBg " title="Partners">Partners</a>
+		</li>
+		<li id="mainNav_news">
+			<a href="http://www.1millionwomen.com.au/News-and-Events.cfm" class="imgBg " title="News &amp; Events">News &amp; Events</a>
+		</li>
+	</ul>
+	<ul id="subNav" class="menu">
+    	<li id="nav_tell"><a href="http://www.1millionwomen.com.au/Tell-a-Friend.cfm" class="imgBg " title="Tell a Friend">Tell a Friend</a></li>
+		<li id="nav_donate"><a href="http://www.1millionwomen.com.au/Contact-Us.cfm" class="imgBg " title="Contact Us">Contact Us</a></li>
+		<li id="nav_join"><a href="http://www.1millionwomen.com.au/Join.cfm" class="imgBg " title="Join">Join</a></li>
+		<li id="nav_myprofile"><a href="http://www.1millionwomen.com.au/login.cfm" class="imgBg " title="My Profile">My Profile</a></li>
+	</ul>
+	 
+</div>
+
+
+<div id="content" class="container">
+	<h2 class="sifr_h2">Privacy Policy</h2>
+	
+	<div class="column span-16 generalPage">
+		
+		
+		
+					<p></p><p class="MsoNormal"><strong>EXECUTIVE OVERVIEW</strong></p>
+<p class="MsoNormal">YOUR PRIVACY: The 1 Million Women campaign and its parent organisation Australian Climate Coolers Limited (Climate Coolers), and their affiliates, recognise that your privacy is very important to you. Providing your personal information is an act of trust that we take very seriously, and we are committed to protecting your privacy. We undertake that we will&nbsp;not sell, trade, give or rent any of the personal information obtained from you to a third party. </p>
+<p class="MsoNormal">INFORMATION: We acknowledge that we will collect and store information about you as part of the normal operation of this&nbsp;website, and we and/or our approved agents will use aggregated data thus collected to access campaign progress, to identify improvements, and to report internally and externally on the campaign's achievements. Information volunteered by you, such as e-mail address, name, address and telephone number (not required by us), is used only for the purpose for which it was disclosed. We do not publish personally identifiable information collected through this website. In regard to our activity centre, carbon calculator, online census questionnaire, and other polls for campaign purposes, we will aggregate responses for research and reporting but will not disclose your personal responses to any third party.</p>
+<p class="MsoNormal">COMMUNICATIONS TO YOU: In the normal course of our evolving campaign, we will also send you a range of updates on the campaign from time to time, and also 'alerts' and 'offers' and 'specials' including but not necessarily limited to: 1 Million Women campaign merchandise and projects; campaign-relevant partner and sponsor product and service opportunities including discount offers; new government programs and rebates; upcoming events, campaign questionnaires, polls and petitions etc&nbsp;. You can opt out of receiving such materials at any time (see Participant Choice section below)</p>
+<p class="MsoNormal">PRINCIPLES: In this regard, we will act ethically and as evidence of this commitment, we will take reasonable steps to comply with a number of&nbsp;principles (see in greater detail below) in relation to the information you give to us about you.</p>
+<p class="MsoNormal">AUTOMATIC RECORDING: We may automatically record details about any computer used to access our website (such as the IP address, domain name and browser type), the date and the time of access and details of information downloaded. This information is not capable of identifying you. <br>
+<br>
+COOKIES: This website may use cookies. Cookies are pieces of information stored on an individual's computer and are used for customising site information to improve user experience and tracking user navigation. If you are concerned about the use of cookies, you can set your browser to refuse cookies or warn you when cookies are being used. <br>
+<br>
+SECURITY:&nbsp;We take all reasonable security measures to protect personal information from loss, unauthorised access or modification. We reserve the right to gather more extensive information about any attempted access to this website that raises security issues and, if appropriate, make disclosures to the relevant authorities. <br>
+<br>
+POLICY UPDATING: This website will be continually improved and up-dated. This may change the way we manage personal information. The content of this internet Privacy Statement may be up-dated from time to time to reflect any changes.You should check this page periodically for changes to this Privacy Statement.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">FURTHER DETAIL</strong></p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Collection<o:p></o:p></strong></p>
+<p class="MsoNormal">1 Million Women and Climate Coolers&nbsp;collect the personal data that you volunteer on registering to join on our website <a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>,&nbsp;or through other forms, or by email.</p>
+<p class="MsoNormal">This information will only be collected by lawful and fair means.</p>
+<p class="MsoNormal">In order to register on the 1 Million Women&nbsp;website&nbsp;we require some basic information about you. We also allow you to provide additional non-required information on registration and at other times. Only information marked, as ‘required’ during registration is needed to use services on the website. This information is used for identification purposes and to contact you when necessary.</p>
+<p class="MsoNormal">As you browse the 1 Million Women&nbsp;website we may log the IP address of your computer, session details, and domain name to evaluate which parts of the website you visit and how long you stay there. We do not link your computer’s IP address with any other information you have submitted to us. While a <a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;user’s session may be tracked, all users remain anonymous when tracked.</p>
+<p class="MsoNormal">IP tracking information is aggregated with tracking data from all site visitors to measure number of visits, average time spent on the website, pages viewed, and to help diagnose problems with our server.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Use and disclosure<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;requires you to provide certain information about yourself in order to provide services to you. We will not rent, sell or exchange information about you to third parties (other than related parties) except where you consent, or except where you would expect the information to be disclosed, or except where we have indicated we may disclose; or except where we are legally obliged to disclose such information.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Data quality<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;will take reasonable steps to ensure that information we have about you is accurate, complete and up to date when we collect and use it.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Data security<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;will take reasonable steps to ensure that the personal information we hold about you is kept secure at all times.</p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;will limit access to your personal information to employees and data processors, or approved researchers who are assisting the 1 Million Women campaign,&nbsp;that need it to carry out or to develop the service provided by us except where we inform you otherwise. Our employees and data processors are obliged to respect the confidentiality of clients' and website visitors' personal data. 1 Million Women and Climate Coolers&nbsp;will reinforce with other employees and any approved agents the policies and practices in relation to safeguarding personal information of clients and visitors, preventing its unauthorised access, use or disclosure, and ensuring its proper handling.</p>
+<p class="MsoNormal">Our website has policies, rules and measures in place to protect the visitor's personal data from:</p>
+<ul>
+    <li>
+    <div class="MsoNormal">Unauthorised access</div>
+    </li>
+    <li>
+    <div class="MsoNormal">Improper use</div>
+    </li>
+    <li>
+    <div class="MsoNormal">Alteration</div>
+    </li>
+    <li>
+    <div class="MsoNormal">Unlawful or accidental destruction</div>
+    </li>
+    <li>
+    <div class="MsoNormal">Accidental loss.</div>
+    </li>
+</ul>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Openness<o:p></o:p></strong></p>
+<p class="MsoNormal">w<a href="http://www.climatecoolers.com">ww.1millionwomen.com.au</a> will be honest and open with you about the type of personal information that is collected about you and the actual use of any such information. If&nbsp;when registering you select "Yes, please send me special offers and discounts",&nbsp;by giving out your personal information, or filling in the entry or application form, you have consented to the use of this information in future, for marketing campaigns that 1 Million Women and Climate Coolers feel you may be interested in.</p>
+<p class="MsoNormal">At any time you have the option to opt out from receiving any future marketing material by sending an email to <a href="mailto:enquiries@www.1millionwomen.com.au">enquiries@www.1millionwomen.com.au</a>&nbsp;and requesting to opt out from newsletters.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Access and correction<o:p></o:p></strong></p>
+<p class="MsoNormal">If you provide us with satisfactory personal identification, such as your login details, <a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a> will let you have access to the information we keep about you and give you the opportunity to have that information corrected if it is found to be incorrect.</p>
+<p class="MsoNormal">Further, if <a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a> is not able to release details of personal information to you, then we will provide you with reasons for any denial of access or correction.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Anonymity<o:p></o:p></strong></p>
+<p class="MsoNormal">You can access our web site home page and browse the public area of the 1 Million Women website without disclosing personal information.</p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;will, wherever it is lawful and practicable, give you the option of not identifying yourself to us except where it is necessary to use our website services.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Transfer of Data<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a> will take reasonable steps to ensure that if any information you give us about you will remain subject to the protection given by our Privacy Statement or another statute or binding scheme which is substantially similar to this Privacy Statement.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Sensitive information<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a> will not collect information that is considered highly personal or highly sensitive about you. For example, information relating to your racial or ethnic origin, religious or philosophical beliefs, sexual orientation or in relation to your health will not be collected by us.</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Cookies<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;uses cookies to hold session information, improve security during a visitor's session online, ensure effective advertising tailored to the visitor's needs, and provide you with your information.</p>
+<p class="MsoNormal">We store the following information in cookies: your unique user ID</p>
+<p class="MsoNormal">You can use your browser to disable cookies; <span style="mso-spacerun: yes">&nbsp;<a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a> is not liable for any errors which may be encountered with the website as a result.</span></p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Participant Choice<o:p></o:p></strong></p>
+<p class="MsoNormal">By registering with <a href="http://www.1millionwomen.com.au">www.1millionwomen.com.au</a>&nbsp;you have chosen to receive promotional or marketing information from our web site or organisation and/or affiliates and alliances. At any time you can opt out from receiving such Information by sending a request to Opt Out using any of the following methods:</p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Email&nbsp;Address:<o:p></o:p></strong></p>
+<p class="MsoNormal"><a href="mailto:enquiries@1millionwomen.com.au">enquiries@1millionwomen.com.au</a>&nbsp; <br>
+<strong style="mso-bidi-font-weight: normal"></strong></p>
+<p class="MsoNormal"><strong style="mso-bidi-font-weight: normal">Coverage and Complaints<o:p></o:p></strong></p>
+<p class="MsoNormal">Our Privacy Statement covers Australian Climate Coolers&nbsp;Limited (Climate Coolers) ABN 86 122 248 122 and the 1 Million Women website:</p>
+<p class="MsoNormal">If you would like to make a complaint on the basis that you feel your privacy has been breached because we have failed to comply with this Privacy Statement, you should contact us using the following methods:</p>
+<p class="MsoNormal"><strong>Email Address:</strong><br>
+<br>
+<a href="mailto:enquiries@1millionwomen.com.au">enquiries@1millionwomen.com.au</a> </p> <div style="height:1px; width:1px; clear:both;"></div> <p></p>
+					
+				
+		
+	</div>
+	
+</div>
+   
+
+
+<div id="footer" class="container">
+	<p id="msg_footer" class="imgBg">1 Million Women is a campaign of daughters and mothers, sisters and grandmothers who are serious about fighting climate change.</p>
+	
+	
+	<div class="terms">© Copyright 1 Million Women 2009 <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Terms-of-Use.cfm" title="Terms of Use">Terms of Use</a> <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Privacy-Policy.cfm" title="Privacy Policy">Privacy Policy</a> <span class="seperator">|</span> <a href="http://www.1millionwomen.com.au/Sitemap.cfm" title="Sitemap">Sitemap</a> <span class="seperator">|</span>  Find us on: <a href="http://www.facebook.com/pages/1-Million-Women-Campaign/211657000392" title="Facebook" target="_blank"> <img src="images/footer-facebook.gif" border="0" width="16" height="16" alt="Facebook" style="padding:0px 0px 0px 5px; vertical-align:middle;"></a></div>
+   
+    <div class="collab"><a href="http://www.moongroup.com.au/" target="_blank">Moon Communications Group - creative</a> <span class="seperator">.</span> <a href="http://www.samiam.com.au/" target="_blank">Julia Schauenburg - photography</a> <span class="seperator">.</span> <a href="http://www.carbonsystems.com.au/" target="_blank">Carbon Systems Australia - activity centre</a> <span class="seperator">.</span> <a href="http://www.the3rddegree.com.au/" target="_blank">the 3rd degree - activity centre</a> <span class="seperator">.</span> <a href="http://www.keepleftpr.com.au/" target="_blank">Keep Left Public Relations - PR</a></div>
+    
+    <div class="collab2"><span class="cc"><a href="http://www.climatecoolers.com/">Climate Coolers - campaign creator</a></span> <span class="seperator">.</span> <span class="gg"><a href="http://www.gingergroup.com.au" title="Ginger Group" target="_blank">Website by Ginger Group</a></span> <img src="images/footer-gingergroup.gif" width="22" height="23" alt="Ginger Group" style="padding:0px 0px 0px 5px; vertical-align:middle;"></div>
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8927869-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+</body></html>
