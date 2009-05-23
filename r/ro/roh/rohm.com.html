@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2008-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080906185800id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2009-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523085917id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
@@ -57,8 +57,8 @@
 
 	<div id="header">
 
-			<h1 id="header-logo"><a href="/"><img src="/cmn/images/header-logo.jpg" alt="Excellence in Electronics ROHM" width="137" height="63"></a></h1>
-
+			<h1 id="header-logo"><a href="/"><img src="/cmn/images/header-logo.jpg" alt="Excellence in Electronics ROHM" width="89" height="70"></a></h1>
+		<div id="sw_fontsize"><script type="text/javascript">setActiveFontSize();</script></div>
 		<ul id="language-list">
 
 			<li><a href="http://www.rohm.com.cn/"><img src="/cmn/images/chinese2-link.jpg" alt="Simplified Chinese" width="64" height="14"></a></li>
@@ -66,41 +66,40 @@
 			<li><a href="http://www.rohm.co.kr/"><img src="/cmn/images/korean-link.jpg" alt="Korean" width="64" height="14"></a></li>
 			<li><a href="http://www.rohm.co.jp/"><img src="/cmn/images/japanese-link.jpg" alt="Japanese" width="64" height="14"></a></li>
 		</ul>
-
 		<div id="search" class="clearfix">
-			<form name="form1" method="get" action="http://www.rohm.com/cgi-bin/EopenWS.cgi" id="s-search" style="display: block;"><!--サイト内検索-->
-				<input type="hidden" name="lang" value="e">
-				<input type="hidden" name="idxname" value="index-e">
-				<input name="query" type="text" size="20" value="Site Search" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
-				<input type="submit" class="sserchb" value="Search">
+        <form id="pullMnu">
+        <select name="schange" onchange="radioChange();">
+          <option selected="selected">Site Search</option>
+          <option>Catalog Search</option>
+        </select>
+        </form>
+			<form name="form1" method="get" action="http://search.rohm.com/en/" id="s-search"><!--Site Search-->
+                <input type="text" name="q" value="" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
+			  <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
 			</form>
-			<form name="product_search" method="get" action="http://www.rohm.com/cgi-bin/EopenPS.cgi" id="c-search" style="display: none;"><!--カタログ検索-->
-				<input size="13" name="reslang" value="e" type="hidden">
-				<input name="adminsw" value="off" type="hidden">
-				<input name="queryword" size="20" value="Catalogue Search" type="text" class="mrg-r">
-				<input type="submit" class="sserchb" value="Search">
+			
+            
+            <form style="display: none;" name="product_search" method="get" action="http://search.rohm.com/en/pdf/" id="c-search"><!--Catalog Search -->
+                <input type="text" name="q" value="" class="mrg-r">
+                <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
 			</form>
-			<form name="schange">
-				<input type="radio" name="radio1" value="1" onclick="radioChange()" class="search-select" checked=""><p>Site Search</p>
-				<input type="radio" name="radio1" value="0" onclick="radioChange()" class="search-select">
-<p>Catalog Search</p>
-			</form>
-			<p id="ser-op"><a href="http://www.rohm.com/search-e.html">Search Option</a></p>
-		</div>
+			
+			<p id="ser-op"><a href="/search-e.html"><img src="/cmn/images/help_btn.gif" alt="Help"></a></p>
+<!--Catalogue Search-->
+</div>
 
 		<ul id="global-menu">
 			<li id="gmlitop"><a href="/">HOME, Products</a></li>
 			<li><a href="/products/application/">Applications</a></li>
 			<!--<li><a href="#">クロスリファレンス</a></li>-->
 			<li><a href="/ad/index.html">New Products</a></li>
-			<li><a href="/event/index.html">Exhibition Info</a></li>
-			<li><a href="http://www.rohm.com/index2.html">Company Profile</a></li>
+			<li><a href="/index2.html">Company Profile</a></li>
 			<li><a href="/corporate/support/japan.html">Sales</a></li>
-			<li><a href="http://www.rohm.com/contact/">Contact us</a></li>
+			<li><a href="/contact/">Contact us</a></li>
 			<!--<li><a href="https://direct.rohm.co.jp/jp/NTF0103.asp" target="_blank">MY ROHM</a></li>-->
 		</ul>
 
-		<p id="sitemap"><a href="http://www.rohm.com/sitemap/">Site Map</a></p>
+		<p id="sitemap"><a href="/sitemap/">Site Map</a></p>
 
 
 		<ul id="topic-path">
@@ -171,8 +170,21 @@
 
 		<p id="p-policy"><a href="/privacy.html">Privacy Policy</a></p>
 		<p id="s-policy"><a href="/policy.html">Terms &amp; Conditions</a></p>
-		<p id="copy-r">Copyright © 1997-2008 ROHM CO.,LTD.</p>
-	</div><!--footer end-->
+		<p id="copy-r">Copyright © 1997-2009 ROHM Co., Ltd.</p>
+	</div>
+	<!--footer end-->
+	<!--Analytics start -->
+		<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8111365-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	<!--Analytics end -->
+
 
 
 
