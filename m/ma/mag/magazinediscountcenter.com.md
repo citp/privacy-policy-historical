@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220170340id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinediscountcenter.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523111801id_/http%3A//www.magazinediscountcenter.com/privecypolicy.html) for the most accurate reproduction.*
 
 # Discount Magazine Subscription | Cheap Magazines Subscriptions | Magazine Discounts: Magazine Discount Center
 
@@ -46,7 +46,7 @@ The information regarding your order is always sent in encrypted format in order
 
 **Updating Information**
 
-Personal information which you have supplied  to us may be changed at any time. You can make the changes by accessing your on line account or by calling customer service at **1-866-400-MAGS(6247)**
+Personal information which you have supplied  to us may be changed at any time. You can make the changes by accessing your on line account or by calling customer service at **1-800-321-MAGS(6247)**
 
 **Notification of Changes**
 
