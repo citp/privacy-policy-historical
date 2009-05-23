@@ -1,28 +1,34 @@
-<!--The following is the downloaded HTML source of the mydiplomasoon.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217080547id_/http%3A//www.mydiplomasoon.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydiplomasoon.com privacy policy that was archived on 2009-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523105825id_/http%3A//mydiplomasoon.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>My Diplomasoon.com</title>
-
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style21 {font-size: 10px}
--->
-</style>
-<script language="JavaScript">
-function isNumeric(s)
-{   var i;
-    for (i=0; i<s.length; i++)
-    {   
-        // Check that current character is number.
-        var c = s.charAt(i);
-        if (((c < "0") || (c >"9"))) return false;
-    }
-    // All characters are numbers.
-    return true;
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="scripts/prototype.lite.js"></script>
+<script type="text/javascript" src="scripts/moo.fx.js"></script>
+<script type="text/javascript" src="scripts/moo.fx.pack.js"></script>
+<script type="text/javascript">
+function init(){
+	var stretchers = document.getElementsByClassName('box');
+	var toggles = document.getElementsByClassName('tab');
+	var myAccordion = new fx.Accordion(
+		toggles, stretchers, {opacity: false, height: true, duration: 600}
+	);
+	//hash functions
+	var found = false;
+	toggles.each(function(h3, i){
+		var div = Element.find(h3, 'nextSibling');
+			if (window.location.href.indexOf(h3.title) > 0) {
+				myAccordion.showThisHideOpen(div);
+				found = true;
+			}
+		});
+		if (!found) myAccordion.showThisHideOpen(stretchers[0]);
 }
+</script>
+
+<script language="JavaScript">
 function validate()
 {
  var box=document.degreeface;
@@ -33,304 +39,481 @@ function validate()
   }
  else document.degreeface.submit();  
 }
-
-function validate1()
+</script>
+<script language="JavaScript">
+function validatezip()
 {
-
- var txt=document.diploma;
- if(txt.txtfname.value=="" || txt.txtfname.value== null)
- {
-   alert("Please enter first name.");
-   txt.txtfname.focus();
-   return false;
-  }
-  else if(txt.txtlastname.value=="" || txt.txtlastname.value== null)
- {
-   alert("Please enter last name.");
-   txt.txtlastname.focus();
-   return false;
-  }
-  else if(txt.txtaddress.value=="" || txt.txtaddress.value== null)
- {
-   alert("Please enter address.");
-   txt.txtaddress.focus();
-   return false;
-  }
-   else if(txt.txtaddress.value=="" || txt.txtaddress.value== null)
- {
-   alert("Please enter address name.");
-   txt.txtaddress.focus();
-   return false;
-  }
-  else if(txt.txtphone.value=="" || txt.txtphone.value== null)
- {
-   alert("Please enter phone no.");
-   txt.txtphone.focus();
-   return false;
-  }
-  else if(isNumeric(txt.txtphone.value)==false)
-  {
-   alert("Please enter proper phone no.");
-   txt.txtphone.focus();
-   return false;
-  }
-   else if(txt.txtemail.value=="" || txt.txtemail.value== null)
- {
-   alert("Please enter email id.");
-   txt.txtemail.focus();
-   return false;
-  }
-  
-else if (echeck(txt.txtemail.value)==false){
-		//txt.txtemail.value=""
-		txt.txtemail.focus()
-		return false
-	}
-  
-   else if(txt.txtcity.value=="" || txt.txtcity.value== null)
- {
-   alert("Please enter city.");
-   txt.txtcity.focus();
-   return false;
-  }
-  else if(txt.txtstate.value=="" || txt.txtstate.value== null)
- {
-   alert("Please enter state.");
-   txt.txtstate.focus();
-   return false;
-  }
-   else if(txt.txtzip.value=="" || txt.txtzip.value== null)
- {
-   alert("Please enter zip.");
-   txt.txtzip.focus();
-   return false;
-  }
-  else if(isNumeric(txt.txtzip.value)==false)
-  {
-   alert("Please enter proper Zip code.");
-   txt.txtzip.focus();
-   return false;
-  }
-  
- else 
- 
-  if(!txt.ruparent(0).checked && !txt.ruparent(1).checked) 
-  {
-     alert("Please select whether you are a parent looking for loan or not?");
-	  return false;
-   
-  }
- else 
- {
- document.diploma.submit();  
- 
- }
- 
-
-function echeck(str) {
-
-		var at="@"
-		var dot="."
-		var lat=str.indexOf(at)
-		var lstr=str.length
-		var ldot=str.indexOf(dot)
-		if (str.indexOf(at)==-1){
-		   alert("Invalid E-mail ID")
-		   return false
-		}
-
-		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
-		   alert("Invalid E-mail ID")
-		   return false
-		}
-
-		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-		    alert("Invalid E-mail ID")
-		    return false
-		}
-
-		 if (str.indexOf(at,(lat+1))!=-1){
-		    alert("Invalid E-mail ID")
-		    return false
-		 }
-
-		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-		    alert("Invalid E-mail ID")
-		    return false
-		 }
-
-		 if (str.indexOf(dot,(lat+2))==-1){
-		    alert("Invalid E-mail ID")
-		    return false
-		 }
-		
-		 if (str.indexOf(" ")!=-1){
-		    alert("Invalid E-mail ID")
-		    return false
-		 }
-
- 		 return true					
-	}
-
-function ValidateForm(){
-	var emailID=document.frmSample.txtEmail
+var box=document.zipcode;
+ if(box.zip.value=="" || box.zip.value== null)
+	{
+	alert("Please enter zip code.");
+	box.zip.focus();
+	return false;
 	
-	if ((emailID.value==null)||(emailID.value=="")){
-		alert("Please Enter your Email ID")
-		emailID.focus()
-		return false
-	}
-	if (echeck(emailID.value)==false){
-		emailID.value=""
-		emailID.focus()
-		return false
-	}
-	return true
- }
-
- 
+	} 
+ else if(isNaN(box.zip.value) == true)
+	{
+	alert('Please enter valid zip');
+	box.zip.focus();
+	return false;
+	}	
+  else if(box.zip.value.length != 5) 
+	{
+		alert('Zip must be 5 digit in length');
+		box.zip.focus();
+		return false;
+	} 
+  else if((box.zip.value == '12345' ) || (box.zip.value == '00000') || (box.zip.value == '11111')|| (box.zip.value == '22222') || (box.zip.value == '33333') || (box.zip.value == '44444')|| (box.zip.value == '55555') || (box.zip.value == '66666') || (box.zip.value == '77777') || (box.zip.value == '88888')|| (box.zip.value == '99999'))
+	{
+		alert('Please enter valid zip');
+		box.zip.focus();
+		return false;
+	} 
+ else document.zipcode.submit(); 
 }
 </script>
-</head>
 
-<body>
 
-<table width="778" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<!--popup start-->
+
+<script type="text/javascript">
+
+/***********************************************
+* Image w/ description tooltip- By Dynamic Web Coding (www.dyn-web.com)
+* Copyright 2002-2007 by Sharon Paine
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+/* IMPORTANT: Put script after tooltip div or 
+	 put tooltip div just before </BODY>. */
+
+var dom = (document.getElementById) ? true : false;
+var ns5 = (!document.all && dom || window.opera) ? true: false;
+var ie5 = ((navigator.userAgent.indexOf("MSIE")>-1) && dom) ? true : false;
+var ie4 = (document.all && !dom) ? true : false;
+var nodyn = (!ns5 && !ie4 && !ie5 && !dom) ? true : false;
+
+var origWidth, origHeight;
+
+// avoid error of passing event object in older browsers
+if (nodyn) { event = "nope" }
+
+///////////////////////  CUSTOMIZE HERE   ////////////////////
+// settings for tooltip 
+// Do you want tip to move when mouse moves over link?
+var tipFollowMouse= true;	
+// Be sure to set tipWidth wide enough for widest image
+var tipWidth= 160;
+var offX= 20;	// how far from mouse to show tip
+var offY= 12; 
+var tipFontFamily= "Verdana, arial, helvetica, sans-serif";
+var tipFontSize= "10pt";
+// set default text color and background color for tooltip here
+// individual tooltips can have their own (set in messages arrays)
+// but don't have to
+var tipFontColor= "#FFF";
+var tipBgColor= "#9AB526"; 
+var tipBorderColor= "#000080";
+var tipBorderWidth= 0;
+var tipBorderStyle= "ridge";
+var tipPadding= 0;
+
+// tooltip content goes here (image, description, optional bgColor, optional textcolor)
+var messages = new Array();
+// multi-dimensional arrays containing: 
+// image and text for tooltip
+// optional: bgColor and color to be sent to tooltip
+messages[0] = new Array('images/red_balloon.gif','Arts & Humanities');
+messages[1] = new Array('images/duck2.gif','Business');
+messages[2] = new Array('images/test.gif','Computers & I.T.');
+messages[3] = new Array('images/edu_hover.gif','Education & Teching');
+messages[4] = new Array('images/health_hover.gif','Health & Medicine');
+messages[5] = new Array('images/social_hover.gif','Social Sciences');
+
+
+////////////////////  END OF CUSTOMIZATION AREA  ///////////////////
+
+// preload images that are to appear in tooltip
+// from arrays above
+if (document.images) {
+	var theImgs = new Array();
+	for (var i=0; i<messages.length; i++) {
+  	theImgs[i] = new Image();
+		theImgs[i].src = messages[i][0];
+  }
+}
+
+// to layout image and text, 2-row table, image centered in top cell
+// these go in var tip in doTooltip function
+// startStr goes before image, midStr goes between image and text
+var startStr = '<table width="' + tipWidth + '"><tr><td align="center" width="100%"><img src="';
+var midStr = '" border="0"></td></tr><tr><td valign="top">';
+var endStr = '</td></tr></table>';
+
+////////////////////////////////////////////////////////////
+//  initTip	- initialization for tooltip.
+//		Global variables for tooltip. 
+//		Set styles
+//		Set up mousemove capture if tipFollowMouse set true.
+////////////////////////////////////////////////////////////
+var tooltip, tipcss;
+function initTip() {
+	if (nodyn) return;
+	tooltip = (ie4)? document.all['tipDiv']: (ie5||ns5)? document.getElementById('tipDiv'): null;
+	tipcss = tooltip.style;
+	if (ie4||ie5||ns5) {	// ns4 would lose all this on rewrites
+		tipcss.width = tipWidth+"px";
+		tipcss.fontFamily = tipFontFamily;
+		tipcss.fontSize = tipFontSize;
+		tipcss.color = tipFontColor;
+		tipcss.backgroundColor = tipBgColor;
+		tipcss.borderColor = tipBorderColor;
+		tipcss.borderWidth = tipBorderWidth+"px";
+		tipcss.padding = tipPadding+"px";
+		tipcss.borderStyle = tipBorderStyle;
+	}
+	if (tooltip&&tipFollowMouse) {
+		document.onmousemove = trackMouse;
+	}
+}
+
+window.onload = initTip;
+
+/////////////////////////////////////////////////
+//  doTooltip function
+//			Assembles content for tooltip and writes 
+//			it to tipDiv
+/////////////////////////////////////////////////
+var t1,t2;	// for setTimeouts
+var tipOn = false;	// check if over tooltip link
+function doTooltip(evt,num) {
+	if (!tooltip) return;
+	if (t1) clearTimeout(t1);	if (t2) clearTimeout(t2);
+	tipOn = true;
+	// set colors if included in messages array
+	if (messages[num][2])	var curBgColor = messages[num][2];
+	else curBgColor = tipBgColor;
+	if (messages[num][3])	var curFontColor = messages[num][3];
+	else curFontColor = tipFontColor;
+	if (ie4||ie5||ns5) {
+		var tip = startStr + messages[num][0] + midStr + '<span style="font-family:' + tipFontFamily + '; font-size:' + tipFontSize + '; color:' + curFontColor + ';">' + messages[num][1] + '</span>' + endStr;
+		tipcss.backgroundColor = curBgColor;
+	 	tooltip.innerHTML = tip;
+	}
+	if (!tipFollowMouse) positionTip(evt);
+	else t1=setTimeout("tipcss.visibility='visible'",100);
+}
+
+var mouseX, mouseY;
+function trackMouse(evt) {
+	standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body //create reference to common "body" across doctypes
+	mouseX = (ns5)? evt.pageX: window.event.clientX + standardbody.scrollLeft;
+	mouseY = (ns5)? evt.pageY: window.event.clientY + standardbody.scrollTop;
+	if (tipOn) positionTip(evt);
+}
+
+/////////////////////////////////////////////////////////////
+//  positionTip function
+//		If tipFollowMouse set false, so trackMouse function
+//		not being used, get position of mouseover event.
+//		Calculations use mouseover event position, 
+//		offset amounts and tooltip width to position
+//		tooltip within window.
+/////////////////////////////////////////////////////////////
+function positionTip(evt) {
+	if (!tipFollowMouse) {
+		standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body
+		mouseX = (ns5)? evt.pageX: window.event.clientX + standardbody.scrollLeft;
+		mouseY = (ns5)? evt.pageY: window.event.clientY + standardbody.scrollTop;
+	}
+	// tooltip width and height
+	var tpWd = (ie4||ie5)? tooltip.clientWidth: tooltip.offsetWidth;
+	var tpHt = (ie4||ie5)? tooltip.clientHeight: tooltip.offsetHeight;
+	// document area in view (subtract scrollbar width for ns)
+	var winWd = (ns5)? window.innerWidth-20+window.pageXOffset: standardbody.clientWidth+standardbody.scrollLeft;
+	var winHt = (ns5)? window.innerHeight-20+window.pageYOffset: standardbody.clientHeight+standardbody.scrollTop;
+	// check mouse position against tip and window dimensions
+	// and position the tooltip 
+	if ((mouseX+offX+tpWd)>winWd) 
+		tipcss.left = mouseX-(tpWd+offX)+"px";
+	else tipcss.left = mouseX+offX+"px";
+	if ((mouseY+offY+tpHt)>winHt) 
+		tipcss.top = winHt-(tpHt+offY)+"px";
+	else tipcss.top = mouseY+offY+"px";
+	if (!tipFollowMouse) t1=setTimeout("tipcss.visibility='visible'",100);
+}
+
+function hideTip() {
+	if (!tooltip) return;
+	t2=setTimeout("tipcss.visibility='hidden'",100);
+	tipOn = false;
+}
+
+document.write('<div id="tipDiv" style="position:absolute; visibility:hidden; z-index:100"></div>')
+
+</script></head><body><div id="tipDiv" style="position: absolute; visibility: hidden; z-index: 100; width: 160px; font-family: Verdana, arial, helvetica, sans-serif; font-size: 10pt; color: rgb(255, 255, 255); background-color: rgb(154, 181, 38); border-color: rgb(0, 0, 128); border-width: 0px; padding: 0px; border-style: ridge;"></div>
+<!--popup end-->
+
+
+
+
+
+
+
+
+<div id="main_div">
+<table class="main" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td height="135" colspan="3" align="right" valign="bottom" background="Images/banner2.gif"><table width="267" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><div align="center"></div></td>
-      </tr>
-    </tbody></table></td>
+    <td><a href="default.asp"><img border="0" src="images/banner2.jpg" alt="" width="1003" height="136"></a></td>
   </tr>
   <tr>
-    <td height="191" valign="top" style="background:url(Images/lady_bg1.gif); background-repeat: no-repeat;"><table width="98%" height="191" border="0" cellpadding="0" cellspacing="0">
+    <td align="center"><table class="main2" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td colspan="2" align="center" valign="top"><table width="70%" border="0" align="right" cellpadding="0" cellspacing="0">
+        <td><table width="953" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td align="left" valign="top" class="style2"><div align="left">
-		<table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
-          <form name="diploma" action="loan.asp" method="post"></form><tbody><tr>
-            <td height="30" align="left" valign="middle" class="style2">&nbsp;</td>
-            <td align="left" valign="middle">&nbsp;</td>
+            <td align="left" valign="top" class="left_top_pic"><h1 class="h1-welcome">Welcome<span class="small">to our site</span></h1>
+		<h2>Mydiplomasoon.com wants to help you earn your degree as quickly as possible. This means finding the right school and program. Request free information from any of our featured schools and an advisor will contact you soon.</h2>	</td>
+            <td valign="top"> <p class="green-text">&nbsp;</p>
+              <p align="left" style="padding-left:78px;"><img src="Images/greenbttn.jpg" width="239" height="37"></p>
+              <div id="wrapper">
+	<div id="content"><h3 class="tab" title="first">
+	<div class="tabtxt"><a href="#">Zip Code Search</a></div></h3><div class="tab"><h3 class="tabtxt" title="second"><a href="#">Program Search</a></h3></div><div class="tab"><h3 class="tabtxt" title="third"><a href="#">Degree Level</a></h3></div><div class="tab"><h3 class="tabtxt" title="fourth"><a href="#">Online School</a></h3></div><div class="boxholder">
+		<div class="box" style="overflow: hidden; height: 61.0465px;">
+			<form name="zipcode" action="searchresults_zip.asp" method="post" onsubmit="return validatezip()" class="form_pad"><h2 class="header1">Zip Code Search		</h2>
+		
+		<p>
+		  <input type="text" name="zip" class="input-zip" maxlength="5">
+		  <input name="go" type="submit" class="button-go" id="go" value="GO">
+		</p>
+			</form>		</div>
+			
+			
+		<div class="box" style="overflow: hidden; height: 0px;">
+			<form name="degreeface1" action="searchresults_industry.asp" method="post" class="form_pad" onsubmit="return validate1();">
+		<h2 class="header1">Find A Program Near You		</h2>
+		<p>
+		  <select class="list" name="Industry">
+            <option selected="selected">Select One</option>
+            <option value="Business">Accounting</option>
+            <option value="Business">Business</option>
+            <option value="Criminaljusties">Criminal Justice</option>
+            <option value="Art">Culinary</option>
+            <option value="Education">Education</option>
+            <option value="Computers">Engineering</option>
+            <option value="Health">Healthcare</option>
+            <option value="Health">Human Relations</option>
+            <option value="Health">Massage Therapy</option>
+            <option value="Health">Medical/Nursing</option>
+            <option value="Criminaljusties">Paralegal/Legal</option>
+            <option value="Health">Psychology</option>
+            <option value="Computers">Technology</option>
+          </select>
+		  <input type="submit" value="GO" class="button-go"></p>
+			</form>
+		</div>
+		<div class="box" style="overflow: hidden; height: 0px;">
+			<form name="degreeface" action="searchresults.asp" method="post" onsubmit="return validate()" class="form_pad"><h2 class="header1">Degree Level		</h2>
+		
+		<p><select class="list" name="degree" id="degree">
+		<option selected="selected">Select One</option>
+		<option value="Associate's">Associate’s</option>
+		<option value="Bachelor's">Bachelor’s</option>
+		<option value="Master's">Master’s</option>
+		<option value="Doctorate">Doctorate</option>
+		<option value="Certificate">Certification</option>
+		<option value="Diploma">Diploma</option>
+		</select> <input type="submit" value="GO" class="button-go">
+		</p></form>		</div>
+		
+		<div class="box" style="overflow: hidden; height: 0px;">
+			<form action="searchresults_online.asp" method="post" class="form_pad"><h2 class="header1"></h2>
+		
+		<p><strong>Search Online Schools Now!		</strong><input name="go" type="submit" value="GO" class="button-go"></p>
+			</form>		
+		</div>
+	</div></div>
+</div>
+<script type="text/javascript">
+	Element.cleanWhitespace('content');
+	init();
+</script></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td valign="bottom"><img src="images/titlebar_green.jpg" alt="" width="953" height="51"></td>
+      </tr>
+      <tr>
+        <td align="left" class="border2">
+		
+		
+		
+		
+			
+			<div><table width="90%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="40%" align="right" valign="top"><table width="50%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left"><p class="caption_bg">Browse Degrees by Industry</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="46%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5" style="margin-top:10px;">
+      <tbody><tr>
+        <td><a href="art.asp" onmouseover="doTooltip(event,0)" onmouseout="hideTip()"><img src="Images/pop_arts.jpg" alt="" width="145" height="69" border="0"></a></td>
+        <td valign="top"><a href="education.asp" onmouseover="doTooltip(event,3)" onmouseout="hideTip()"><img src="Images/pop_education.jpg" alt="" width="183" height="55" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="business.asp" onmouseover="doTooltip(event,1)" onmouseout="hideTip()"><img src="Images/pop_busi.jpg" alt="" width="145" height="69" border="0"></a></td>
+        <td valign="top"><a href="health.asp" onmouseover="doTooltip(event,4)" onmouseout="hideTip()"><img src="Images/pop_health.jpg" alt="" width="183" height="55" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="computers.asp" onmouseover="doTooltip(event,2)" onmouseout="hideTip()"><img src="Images/pop_com.jpg" alt="" width="145" height="69" border="0"></a></td>
+        <td valign="top"><a href="criminaljustice.asp" onmouseover="doTooltip(event,5)" onmouseout="hideTip()"><img src="Images/pop_social.jpg" alt="" width="183" height="65" border="0"></a></td>
+      </tr>
+    </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+                <img src="images/brows_line.jpg" alt="" width="326" height="1" style="padding-left:40px;"></td>
+              </tr>
+              <tr>
+                <td align="left">
+				<p class="brows_text">&nbsp;</p>
+				<p class="caption_bg">Featured Schools</p></td>
+              </tr>
+              <tr>
+                <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="5" style="margin-top:5px;">
+                  <tbody><tr>
+                    <td align="left"><a href="applications/aiu"><img src="Images/banners/aiu.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    <td align="right"><a href="applications/ashford/"><img src="Images/banners/asu.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    </tr>
+                  <tr>
+                    <td align="left"><a href="applications/boston/"><img src="Images/banners/boston.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    <td align="right"><a href="applications/capella/"><img src="Images/banners/capella.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    </tr>
+                  <tr>
+                    <td align="left"><a href="applications/ctu/"><img src="Images/banners/ctu.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    <td align="right"><a href="applications/hitech/"><img src="Images/banners/hti.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    </tr>
+                  <tr>
+                    <td align="left"><a href="applications/norwich/"><img src="Images/banners/norwich.jpg" alt="" width="174" height="82" border="0"></a></td>
+                    <td align="right"><!--<a href="applications/rockies/"><img src="Images/banners/rockies.jpg" alt="" width="174" height="82" border="0" /></a>--></td>
+                    </tr>
+                  
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+            <td align="left" valign="top" style="padding-left:20px;">
+			
+			<div id="body_scroll">
+		
+			
+			<table width="539" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+            <td height="135" align="left" valign="top" class="border"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+         <tbody><tr>
+            
+            <td align="left" class="caption_bg">Privacy Policy:</td>
           </tr>
 		  <tr>
 						 
-						  <td colspan="2" class="style5" height="35" valign="top"><div align="justify"><strong>MyDiplomasoon.com Web Privacy Statement</strong> </div>
-						    <p align="justify">MyDiplomasoon is committed to protecting your privacy when you   visit our Websites, so we want you to know what information we collect when you   visit one of our sites, how we use that information, and how you can update it.   We reserve the right to append or otherwise modify this Privacy Statement at any   time, so please re-visit this page occasionally to check for updates. </p>
-						    <p align="justify"><strong>Information We Collect</strong><br>
+						  <td colspan="2" class="style5" height="35" valign="top"><div class="box_content"><strong>MyDiplomasoon.com Web Privacy Statement</strong> </div>
+						    <p class="box_content">MyDiplomasoon is committed to protecting your privacy when you   visit our Websites, so we want you to know what information we collect when you   visit one of our sites, how we use that information, and how you can update it.   We reserve the right to append or otherwise modify this Privacy Statement at any   time, so please re-visit this page occasionally to check for updates. </p>
+						    <p class="box_content"><strong>Information We Collect</strong><br>
 						      We collect various   types of information from our visitors so we can adjust our site to meet our   users' needs and expectations. Some of this information is collected   automatically through cookies and other information is collected when you   register for any of our online services or when you request information from one   of our partners. </p>
-						    <p align="justify"><br>
+						    <p class="box_content"><br>
 				          </p>
 					      </td>
 					  </tr>
-        </tbody></table>
-		</div>              <div align="justify"></div>
-		</td>
+        </tbody></table></td>
           </tr>
-          
-        </tbody></table>
-              <p align="left" class="style2">&nbsp;</p>
-          <p align="left" class="style2"><br>
-          </p></td>
-      </tr>
-    </tbody></table>
-      <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
         <tbody><tr>
-          <td><p align="justify" class="style2"><strong>Information Collected Automatically</strong><br>
+          <td><p align="justify" class="box_content"><strong>Information Collected Automatically</strong><br>
             The   types of information your browser or Internet session automatically sends us   each time you visit one of our sites, which we automatically collect, includes: </p>
-            <div align="justify" class="style21">
+            <div align="justify" class="box_content">
               <ul>
-                <li class="style2">Your browser, e.g., Internet Explorer, Netscape Navigator. </li>
-                <li class="style2">Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. </li>
-                <li class="style2">You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux. </li>
-                <li class="style2">Your navigation path, i.e., the URLs of where you come to our site from,   which of our pages you visit, and where you go as you leave. </li>
-                <li class="style2">Your IP address. </li>
+                <li class="box_content">Your browser, e.g., Internet Explorer, Netscape Navigator. </li>
+                <li class="box_content">Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. </li>
+                <li class="box_content">You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux. </li>
+                <li class="box_content">Your navigation path, i.e., the URLs of where you come to our site from,   which of our pages you visit, and where you go as you leave. </li>
+                <li class="box_content">Your IP address. </li>
               </ul>
             </div>
-            <p align="justify" class="style2">This information lets us see how users are finding our sites,   and it tells us which pages are visited the most often so we can make our   Websites more useful. </p>
-            <p align="justify" class="style2"><strong>Information You Provide to Us</strong><br>
+            <p align="justify" class="box_content">This information lets us see how users are finding our sites,   and it tells us which pages are visited the most often so we can make our   Websites more useful. </p>
+            <p align="justify" class="box_content"><strong>Information You Provide to Us</strong><br>
               In addition   to the information automatically collected by your browser, we also collect   information that you provide to us when you request information about a   particular school or educational program. </p>
-            <p align="justify" class="style2">Our websites provide users the opportunity to request   information from schools, and to learn about various education opportunities.   These information request sites require users to provide us with contact   information (name, address, phone number, email address, gender, age, work   experience, etc.) as well as information about their interest in one of our   educational partners (universities, colleges, test prep companies, etc.) We   collect this information that you provide, and may use it to make your future   requests from our websites easier by pre-populating contact forms with the   information that you have provided. We provide this contact information that you   provide to the educational partner that you requested information from. Customer   interest information is collected to determine what information the customer   wishes to be sent. OFFLINE data can be merged with online data.</p>
-            <p align="justify" class="style2"><strong>How We Use This Information</strong><br>
+            <p align="justify" class="box_content">Our websites provide users the opportunity to request   information from schools, and to learn about various education opportunities.   These information request sites require users to provide us with contact   information (name, address, phone number, email address, gender, age, work   experience, etc.) as well as information about their interest in one of our   educational partners (universities, colleges, test prep companies, etc.) We   collect this information that you provide, and may use it to make your future   requests from our websites easier by pre-populating contact forms with the   information that you have provided. We provide this contact information that you   provide to the educational partner that you requested information from. Customer   interest information is collected to determine what information the customer   wishes to be sent. OFFLINE data can be merged with online data.</p>
+            <p align="justify" class="box_content"><strong>How We Use This Information</strong><br>
               We use the   information we automatically collect to help us better plan our Website to meet   your Internet needs. Information you provide to us is used for marketing   purposes, and may result in follow-up communications. </p>
-            <p align="justify" class="style2">MyDiplomasoon may share personally identifiable information with   third party businesses for the purpose of direct marketing, specifically email   marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and   are required to be in full compliance of all consumer opt-out rules and   regulations. </p>
-            <p align="justify" class="style2"><strong>Your Rights Our Obligations</strong><br>
+            <p align="justify" class="box_content">MyDiplomasoon may share personally identifiable information with   third party businesses for the purpose of direct marketing, specifically email   marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and   are required to be in full compliance of all consumer opt-out rules and   regulations. </p>
+            <p align="justify" class="box_content"><strong>Your Rights Our Obligations</strong><br>
               The company   respects the privacy of users visiting our sites and will abide by all   applicable laws concerning the release of personal information. On an occasion   we may use certain directory information that we have collected to send you   information about products and services, or updates and other information we   think may be of interest to you. We may share this information with our   educational partners to bring similar information to your attention. If you tell   us that you do not wish to have this information used as a basis for further   contact with you, we will respect your wishes. Please contact us to request your   name and address be removed from our lists. If you do not want to receive our   e-mail marketing, please submit a request to have your e-mail address removed by   using the form below. </p>
-            <p align="justify" class="style2">Other than directory information, data you provide to us as you   use the Website will be held in strict confidence by the company and will be   used for company purposes only. </p>
-            <p align="justify" class="style2"><strong>Our Security Measures</strong><br>
+            <p align="justify" class="box_content">Other than directory information, data you provide to us as you   use the Website will be held in strict confidence by the company and will be   used for company purposes only. </p>
+            <p align="justify" class="box_content"><strong>Our Security Measures</strong><br>
               Our Websites have   security measures in place to protect against the loss, misuse, and alteration   of the information under our control. </p>
-            <p align="justify" class="style2"><strong>Why We Use "Cookies"</strong><br>
+            <p align="justify" class="box_content"><strong>Why We Use "Cookies"</strong><br>
               When you visit some of   our sites, we use cookies to keep track of your information. This small piece of   program code resides on your computer and stores your contact information for   all of our request information sites. We do this so you are not required to   re-enter your contact information as you move from one site to another. </p>
-            <p align="justify" class="style2"><strong>Links From Our Site To Other Sites </strong><br>
+            <p align="justify" class="box_content"><strong>Links From Our Site To Other Sites </strong><br>
               Some of   our sites may contain links to other sites external to our sites. When you   access these external Websites, the providers of the sites will have access to   certain information about you. MyDiplomasoon is not responsible for the privacy   practices or the content of any Websites which we do not directly control. </p>
-            <p align="justify" class="style2"><strong>Definitions</strong><br>
+            <p align="justify" class="box_content"><strong>Definitions</strong><br>
               <strong>Cookies</strong><br>
               Data   created by a Web server that is stored on a user's computer. It provides a way   for the Website to keep track of a user's patterns and preferences and, with the   cooperation of the Web browser, to store them on the user's own hard disk. </p>
-            <p align="justify" class="style2">The cookies contain a range of URLs (Web addresses) for which   they are valid. When the browser encounters those URLs again, it sends those   specific cookies to the Web server. For example, if a user's ID were stored as a   cookie, it would save that person from typing in the same information all over   again when accessing that service for the second and subsequent time during the   same browser session. </p>
-            <p align="justify" class="style2">You can opt out of the use of cookies by having your browser   disable cookies or warn you before accepting a cookie. Look for the cookie   options in your browser in the Options or Preferences menu. </p>
-            <p align="justify" class="style2"><strong>IP (Internet Protocol) Address</strong><br>
+            <p align="justify" class="box_content">The cookies contain a range of URLs (Web addresses) for which   they are valid. When the browser encounters those URLs again, it sends those   specific cookies to the Web server. For example, if a user's ID were stored as a   cookie, it would save that person from typing in the same information all over   again when accessing that service for the second and subsequent time during the   same browser session. </p>
+            <p align="justify" class="box_content">You can opt out of the use of cookies by having your browser   disable cookies or warn you before accepting a cookie. Look for the cookie   options in your browser in the Options or Preferences menu. </p>
+            <p align="justify" class="box_content"><strong>IP (Internet Protocol) Address</strong><br>
               This is the   address of a computer attached to a TCP/IP network. Every client and server   station must have a unique IP address. Client workstations have either a   permanent address or one that is dynamically assigned for each dial-up session.   IP addresses are written as four sets of numbers separated by periods; for   example, 204.171.64.2. </p>
-            <p align="justify" class="style2"><strong>Browser Session</strong><br>
+            <p align="justify" class="box_content"><strong>Browser Session</strong><br>
               A browser session is   defined as the period of time a browser is in consecutive use. The session   begins when you open the browser and ends when you close it. When you reopen the   browser, you begin a new session. </p>
-            <p align="justify" class="style2"><strong>SSL Encryption (Secure Sockets Layer)</strong><br>
+            <p align="justify" class="box_content"><strong>SSL Encryption (Secure Sockets Layer)</strong><br>
               The   leading security protocol on the Internet. When an SSL session is started, the   browser sends its public key to the server so that the server can securely send   a secret key to the browser. The browser and server exchange data via secret key   encryption during that session. We also use SSL encryption whenever we display   your personal information (e.g., name and address, scheduled courses, grades). </p>
-            <p align="justify" class="style2"><strong>URL (Uniform Resource Locator)</strong><br>
+            <p align="justify" class="box_content"><strong>URL (Uniform Resource Locator)</strong><br>
           An Internet   address. URLs are used to locate sites on the Internet and to navigate between   sites and pages within sites. The URL for MyDiplomasoon is <a href="http://www.mydiplomasoon.com/index.htm" class="b">MyDiplomasoon.com</a> </p></td>
         </tr>
-      </tbody></table>
-    <p>&nbsp;</p></td>
-    <td rowspan="2" valign="top" background="Images/line_divider_ver.gif"></td>
-    <td width="270" rowspan="2" valign="top" bgcolor="#FFFFFF"><br>
-        <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td align="center"><img src="Images/pic.gif" width="140" height="165"></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><form action="schools.asp" method="post" name="degreeface" id="degreeface">
-                <table width="263" border="0" align="right" cellpadding="5" cellspacing="0">
-                  <tbody><tr>
-                    <td height="20" align="center"><div align="center"><span class="style3">Choose your area of interest</span></div></td>
-                  </tr>
-                  <tr>
-                    <td align="center" valign="middle"><select name="degree" id="degree">
-                        <option selected="selected" value="">- - - Choose One - - -</option>
-                        <option value="associate">Associate's</option>
-                        <option value="bachelor">Bachelor's</option>
-                        <option value="master">Master's</option>
-                    </select></td>
-                  </tr>
-                  <tr>
-                    <td align="center"><img src="Images/submit.gif" width="81" height="24" border="0" style="cursor:hand;" onclick="validate()"></td>
-                  </tr>
-                </tbody></table>
-            </form></td>
-          </tr>
       </tbody></table></td>
-  </tr>
-  <tr>
-    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td bgcolor="#FFFFFF"><img src="Images/spacer.gif" width="514" height="1"></td>
+            </tr>
+         
+        </tbody></table>
+			
+			</div>
+			
+			
+			</td>
+          </tr>
+          <tr>
+            <td align="right" valign="top">&nbsp;</td>
+            <td align="left" valign="top" style="padding-left:20px;">&nbsp;</td>
+          </tr>
+        </tbody></table></div>
+		
+		
+		
+		
+		
+		
+		
+
+		</td>
+      </tr>
+      <tr>
+        <td height="50" align="center" valign="middle" bgcolor="#6C8D0B"><table width="200" class="footer_link" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="35" align="center"><a href="default.asp">Home</a></td>
+            <td width="10" align="center">|</td>
+            <td width="63" align="center"><a href="contact.asp">Contact Us </a></td>
+            <td width="2" align="center">|</td>
+            <td width="91" align="center"><a href="privacy.html">Privacy Policy </a></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="3" bgcolor="#FFFFFF"></td>
       </tr>
     </tbody></table></td>
   </tr>
-  <tr>
-    <td height="20" colspan="3" align="left" valign="top" bgcolor="#FFFFFF"><p><img src="Images/line_hr_bot.gif" width="778" height="10"></p></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" valign="top" bgcolor="#6C8D0A" class="style14"><p><br>
-      <span class="style17"><a href="index.htm">home</a> | <a href="studentdebt.html">student loan</a> | <a href="contact.html">contact us</a> | <a href="privacy.html">privacy policy</a></span><br>
-            <br>
-            <span class="style17">Copyright© 2007 Online Degree. All Rights Reserved</span><br>
-            <br>
-            <br>
-    </p></td>
-  </tr>
 </tbody></table>
+</div>
 
 
 </body></html>
