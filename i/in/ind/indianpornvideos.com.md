@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221002809id_/http%3A//indianpornvideos.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523171235id_/http%3A//indianpornvideos.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Indian Porn Videos - Privacy Policy
-
-| [HOME](http://indianpornvideos.com/index.php) | [UPLOAD](http://indianpornvideos.com/upload.php) | [WATCH](http://indianpornvideos.com/recent/) | [TAGS](http://indianpornvideos.com/tags.php) | [CHANNELS](http://indianpornvideos.com/channels.php) | [GROUPS](http://indianpornvideos.com/groups.php)  
----|---|---|---|---|---  
-  
-
 
  
 
@@ -82,7 +77,3 @@ In the event that IPV is acquired by or merged with a third party entity, we res
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the IPV Sites constitutes your agreement to this Privacy Notice and any future revisions. 
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-Copyright © 2008 Indian Porn Videos. All rights reserved.
-
-Powered by [vShare](http://www.buyscripts.in/youtube_clone.html)
