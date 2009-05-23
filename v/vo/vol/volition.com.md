@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Volition® LLC PRIVACY POLICY STATEMENT
 
-[](http://www.volition.com/cgi-bin/ads.pl?banner=amercop1)
+[](http://www.volition.com/cgi-bin/ads.pl?banner=entertainment120)
 
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/index.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/free.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/getpaid.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/prize.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/ChooseYourItem/)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/coupons.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/home.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/auto.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/health.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/food.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/travel.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/bookshop/postcard.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/sites.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/index.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/free.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/getpaid.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/prize.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/ChooseYourItem/)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/coupons.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/home.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/auto.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/health.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/food.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/travel.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/sites.html)  
 [](http://forum.volition.com/)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/www.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/fwebm.html)  
-[](https://web.archive.org/web/20080513123757id_/http%3A//www.volition.com/recommend.html)
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/www.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/fwebm.html)  
+[](https://web.archive.org/web/20090523215759id_/http%3A//www.volition.com/recommend.html)
+
+[](http://www.volition.com/cgi-bin/ads.pl?banner=myview120)
 
 |     |  This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.volition.com which is owned by Volition.com LLC. By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement.
 
