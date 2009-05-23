@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epcc.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217234708id_/http%3A//www.epcc.edu/ElPasoCommunityCollege/tabid/60/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epcc.edu privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523065323id_/http%3A//www.epcc.edu/ElPasoCommunityCollege/tabid/60/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # El Paso Community College
 
