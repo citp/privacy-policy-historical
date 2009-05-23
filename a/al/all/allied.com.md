@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912233534id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215247id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Allied Van Lines Privacy Policy | Allied Van Lines
 
