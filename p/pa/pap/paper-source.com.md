@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065650id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523112917id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
 
 # Paper Source - security & privacy
 
