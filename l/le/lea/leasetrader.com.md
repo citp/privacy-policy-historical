@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2008-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080830044808id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523202811id_/http%3A//leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - LeaseTrader.com
 
 **Privacy Statement**  
+
+
 **THE INFORMATION WE COLLECT**  
 At LeaseTrader.com you can take-over a lease, post a lease, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
@@ -10,7 +12,7 @@ At LeaseTrader.com you can submit information about other people. For example, y
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
 In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.   
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Mozilla Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
 **HOW WE USE THE INFORMATION**  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.  
@@ -23,7 +25,7 @@ Agents and contractors of LeaseTrader who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, click here for instructions on how to make your request.
+We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [contact us](https://web.archive.org/contactUs.xhtml).
 
 **COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS**  
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
@@ -41,4 +43,5 @@ If you feel that this company is not abiding by its posted privacy policy, pleas
 LeaseTrader.com   
 1835 E. Hallandale Blvd.   
 Suite 431   
-Hallandale, Florida 33009
+Hallandale, Florida 33009  
+
