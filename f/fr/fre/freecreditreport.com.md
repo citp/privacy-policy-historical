@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050617id_/http%3A//www.freecreditreport.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D735%26SiteID%3D100133%26sc%3D668568%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523214148id_/http%3A//www.freecreditreport.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D753%26SiteID%3D100133%26sc%3D990604%26bcd%3D%26campaignID%3D22) for the most accurate reproduction.*
 
 # Privacy Policy | FreeCreditReport.com
 
