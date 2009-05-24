@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the axa-equitable.com privacy policy that was archived on 2008-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081120075245id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axa-equitable.com privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524021500id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Statement</title>
@@ -15,8 +15,9 @@
 <script src="/javascript/jquery-impromptu.1.4.js" type="text/javascript"></script>
 <script src="/javascript/utility.js" type="text/javascript"></script> 
 <script src="/javascript/common.js" type="text/javascript"></script> 
-<script src="/javascript/windows.js" type="text/javascript"></script> 
 <script src="/javascript/fpbox.js" type="text/javascript"></script> 
+<script src="/javascript/windows.js" type="text/javascript"></script> 
+<script src="/javascript/mrs_cookie.js" type="text/javascript"></script> 
 	
 	
 </head>
@@ -151,6 +152,34 @@
 								    
 								              	    
 									  <li class="last innerlist public " id="s200831016510985"><a href="/axa/history-1991-2006.html">Our History 1991-2006</a></li>
+								    
+							    </ul>
+						      
+		
+		
+		</li>
+	
+				
+ 
+          	    
+
+		<li class="more   outerlist public " id="p2008120815320283"><div class="plusMinus"></div><a href="/axa/awards.html">Awards</a>
+		
+
+				 
+						
+					
+
+				
+							    <ul style="display: none;">
+								    
+								    
+								              	    
+									  <li class="first innerlist public " id="s2008120815320284"><a href="/axa/awards-advertising.html">Advertising Awards</a></li>
+								    
+								    
+								              	    
+									  <li class="last innerlist public " id="s2008120815320285"><a href="/axa/awards-web.html">Web Awards</a></li>
 								    
 							    </ul>
 						      
@@ -332,7 +361,7 @@
 							 <div id="fontSize">Text Size: <a id="txt-sm" onclick="return resizeFont(this.id)" href="#txt-sm" class="smaller">A</a><a id="txt-md" onclick="return resizeFont(this.id)" href="#txt-md" class="medium current">A</a><a id="txt-lg" onclick="return resizeFont(this.id)" href="#txt-lg" class="bigger">A</a></div>
 <div class="emailPrint">
 <ul class="">
-  <li class="first"><a id="email" href="mailto:?subject=AXA Equitable - Privacy Statement&amp;body=https://web.archive.org/web/20081120075245id_/http%3A//www.axa-equitable.com/axa/privacy.html" class="email">Email</a></li> 
+  <li class="first"><a id="email" href="mailto:?subject=AXA Equitable - Privacy Statement&amp;body=https://web.archive.org/web/20090524021500id_/http%3A//www.axa-equitable.com/axa/privacy.html" class="email">Email</a></li> 
 	  <li><a onclick="window.print();return false;" href="#" class="print">Printer Friendly</a></li>
 </ul>
 </div>
@@ -426,6 +455,7 @@ If you have any questions about this privacy policy, please call us at 1-877-806
 
 
 <div class="loginBox" style="height: 229px;">
+<!--- div class="loginBox" style="height: 400px;"--->
   <div class="header">Login to AXA Equitable</div>
   <div class="HFWC">
     Login options for <span onclick="return activateMoreMenu();" class="moreLinks" id="more1">Employer Plan Administration</span>
@@ -446,8 +476,13 @@ If you have any questions about this privacy policy, please call us at 1-877-806
 	<input type="checkbox" name="rememberLogin" id="rememberLogin" class="smCheck">
 	<label for="rememberLogin" class="remember">Remember my User ID</label>
 	<input type="submit" class="btn submitBut" value="Login" name="submitLogin" id="submitLogin">
-	<p style="margin: 4px 0px 0px 0px;"><a href="https://uls.axa-equitable.com/uls/jsp/forgot.jsp" rel="nofollow">Forgot my User ID or Password</a><br>
-	<a href="https://uls.axa-equitable.com/uls/jsp/registration_terms.jsp" rel="nofollow">Customer Online Access Registration</a></p>
+	<p style="margin: 0px 0px 4px 0px;"><a href="https://uls.axa-equitable.com/uls/jsp/forgot.jsp" rel="nofollow">Forgot my User ID or Password</a><br>
+	<a href="https://uls.axa-equitable.com/uls/jsp/registration_terms.jsp" rel="nofollow">Customer Online Access Registration</a>
+	
+	<br><a href="/axa/important-message.html"><img src="/images/events/trading-hours.jpg" border="0"></a>	
+	</p>
+	<!--- p>The NYSE will be closed on Friday, April 10th in observance of Good Friday. Transactions submitted after 4 PM ET on Thursday, April 9th will be effective the next business day, Monday, April 13th. There will be no unit values calculated for Friday, April 10th. Limited telephone support will be provided, 8 AM - 5 PM ET, Friday, at 877-222-2144.</p --->
+ 	
   </form>		
 </div>
 
@@ -1081,17 +1116,12 @@ dcsTag();
 					
 							
 					<div id="searchArea">
-
-
-
-
-	<form onsubmit="javascript:return checkSpecialChars(this);" action="/search/results.cfm" method="post">
-	<input id="criteria" name="criteria" class="text" value="Enter a Search term (e.g., Life Insurance, Annuity)" onclick="if(this.value=='Enter a Search term (e.g., Life Insurance, Annuity)')this.value='';">
+	<form action="/eqsearch/eqsearch.jsp" method="get">
+	<input type="text" name="q" value="Enter a Search term (e.g., Life Insurance, Annuity)" onclick="if(this.value=='Enter a Search term (e.g., Life Insurance, Annuity)')this.value='';">
+	<input type="hidden" name="pager.offset" value="0">
 	<input type="submit" src="/images/btn_search.gif" value="Search" class="btn submitBut">
-	
 	</form>
 </div>
-
 					                         
 					<br class="clr">
                          
@@ -1100,55 +1130,24 @@ dcsTag();
 					<div id="navArea">
 					
 					
-								
-
-
-
-
- 
-  
-    
-
-<!-- START HORIZONTAL NAV -->			
+								<!-- START HORIZONTAL NAV -->			
 <ul id="primaryNav">
-
-	
-			 
 		<li class="first outerlist " id="tab_home"><a href="/home.jsp">Home</a></li>
-	
-			 
 		<li class=" outerlist " id="myaccounts"><a href="https://onlineaccess.axa-equitable.com/cps/clientlogin">My Accounts</a></li>
-	
-			 
-		<li class=" outerlist " id="tab_cs"><a href="/customer-service/overview.html">Customer Service</a></li>
-	
-			 
+		<li class=" outerlist " id="tab_cs"><a href="/customer-service/overview.html">Customer Service</a></li>	
+<script type="text/javascript">
+	if(($.cookie("AXAUserRole") == 'C' || $.cookie("AXAUserRole") == 'F' || $.cookie("AXAUserRole") == 'E') && $.cookie("USER_STATUS") == 'A')
+	{
+			document.write("<li class=' outerlist public ' id='p200930417250597'><a href='https://www.axa-equitable.com/performance/performance-overview.jsp' >Performance</a></li>");
+	} 
+	else{}
+</script>
 		<li class=" outerlist " id="tab_ret"><a href="/retirement/overview.html">Retirement</a></li>
-	
-			 
 		<li class=" outerlist HFWC " id="tab_inv"><a href="/investments/overview.html">Investments</a></li>
-	
-			 
 		<li class=" outerlist " id="tab_ins"><a href="/life-insurance/overview.html">Insurance</a></li>
-	
-			 
 		<li class=" outerlist HFWC " id="tab_fe"><a href="/for-employers/overview.html">For Employers</a></li>
-	
-			 
 		<li class="last outerlist " id="tab_lc"><a href="/learning-center/overview.html">Learning Center</a></li>
-	
-</ul>	
-	
-	
-
-
-  
-
-
-
-
-
-
+</ul>
 							
 					
 					
