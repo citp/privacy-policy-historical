@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921163300id_/http%3A//ceridian.com/about_us_nav/1%2C6267%2C15737%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084527id_/http%3A//www.ceridian.com/about_us_nav/1%2C6267%2C15737%2C00.html) for the most accurate reproduction.*
 
-# Ceridian Web Site Privacy Statement - Ceridian Payroll & Human Resources Solutions
+# Ceridian Web Site Privacy Statement - Ceridian
 
 **Applicability**   
 Ceridian understands and respects your concerns about privacy. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. This Web site provides information and resources related to the products and services offered by Ceridian. We hope that you will find the Web site useful and we provide you with this notice of our intentions with respect to the information we may collect from you while you are using this site. Supplemental statements may apply to certain countries, products, or services in particular. Links to supplemental statements, if any, can be found at the end of this page. Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers. 
