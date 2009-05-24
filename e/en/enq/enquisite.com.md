@@ -1,54 +1,69 @@
-> *The following text is extracted and transformed from the enquisite.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071439id_/http%3A//www.enquisite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enquisite.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524144003id_/http%3A//www.enquisite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enquisite
 
-This Privacy Policy discloses the privacy practices of Enquisite Reporting, a wholly owned property of RJ Research Inc. (”Enquisite”). It is intended to inform our customers and visitors to our customers’ websites, about Enquisite’s data collection and usage relating to information we process through Enquisite Software and Enquisite Reports (collectively referred to as “Enquisite Products”).
+### Enquisite Privacy Policy - Effective May 19, 2009
 
-If you install or use Enquisite Products, you are subject to this Privacy Policy and Software License & Terms Of Service And Conditions Of Use, including, but not limited to the limitations on damages, and application of the law of the Province of British Columbia.
+This Privacy Policy describes the privacy practices of Enquisite, Inc., a Delaware corporation (”Enquisite”). It is intended to inform our customers and visitors to our and our customers’ websites, about Enquisite’s data collection and usage relating to information we may collect on our website as well as information we process through Enquisite’s products and services (collectively “Enquisite Products”).
 
-As our business changes, our Privacy Policy will also change, and we reserve the right to change how we handle the information we process on behalf of our customers. If you use Enquisite Products, you should check our website frequently to see recent changes. If a material change has been made to our Privacy Policy, we may also notify our registered users via e-mail of such material changes.
+By submitting your information to us or by installing and/or using the Enquisite Products, you are consenting to our use of your data as described in this Privacy Policy.
 
-### What does Enquisite Products do?
+As our business changes, our Privacy Policy will also change, and we reserve the right to change how we handle the information we collect. You should check our website frequently to see any changes to our Privacy Policy. If a material change has been made to our Privacy Policy, we may also notify our registered users via e-mail.
 
-We provide web site data analysis services based on information provided by our customers regarding interactions visitors have on their websites. We use this data to create trend reports (”Enquisite Reports”) which analyze search engine traffic patterns. If you are unsure what these reports look like, or what information is contained within them, please review the [training documents](https://web.archive.org/web/20081218071439id_/http://www.enquisite.com/privacy-policy/how-to-use-it).
+### Information Collection and Use - Our Website
 
-### What Information Does Enquisite Collect From Its Customers and How Is That Data Used?
+We collect contact information, such as name, address, email address and/or phone number, and credit card information for online registration of Enquisite Products. We use this information to provide services that are requested by our website visitors, customers or prospective customers (for example, to respond to your request for further information about us or our services, send a requested newsletter or white paper, or provision a customer to use Enquisite Products).
 
-Enquisite’s customers are businesses, not individuals. Enquisite collects contact and related information from our customers and prospective customers who request information or services from Enquisite or who register for Enquisite Products. To the extent that any personal contact information is collected, we use this contact information for business purposes, such as responding to requests for information about Enquisite Products and services, providing access to certain services, and for registration of Enquisite Products.
+We consider your personal information highly confidential and will not pass it on to anyone outside of Enquisite and its affiliates and resellers, except where required to do so by law or to prevent a crime or violation of our customer contract. Affiliates, and resellers are authorized agents/resellers of Enquisite Products. We may pass on your information to them to complete a particular service or offer you requested from our website.
 
-By submitting your information to us and by installing and/or using the Enquisite Products, you are consenting to our use of your data as described herein and are consenting to the Software License & Terms Of Service And Conditions Of Use. If you do not consent, you should not register with Enquisite and you should not install and/or use the Enquisite Products.
+If you participate in any customer case studies or online discussions posted on the Enquisite website, you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-### What Information Does Enquisite Collect Through Enquisite Products From Visitors to Its Customers’ Websites, and How Is That Data Used?
+We may collect general demographic and profile data on our website from time to time in order to better understand and assist our customers and to help improve our site. This data is used only in anonymous form and does not identify you or your personal details. We also reserve the right to aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to third parties for marketing, promotional, and other purposes as long as we do not disclose any information that could be used to identify you personally.
 
-Upon confirmation of sign up, Enquisite provides a Javascript for our customers to embed into their websites. The Javascript data initiates electronic image requests for a single-pixel gif, also known as an action tag or web beacon, which is a small graphic image on a web page designed to allow the site owner or a third party to monitor who is visiting a site. The image is used to count web page accesses and gather some general statistical information, such as the IP address of a visitor’s computer, the URL of the page the tag comes from and the time it was viewed, log files and other traffic data, such as referring search engine name, rank on the page, search query initiated and browser used (collectively referred to as “statistical data”). We do not collect any personally identifiable information from visitors to our customers’ websites.
+**Third-Party Service Providers**. We use other third parties to provide certain services, such as sending postal mail and e-mail, or processing credit card payments, on our behalf. These third parties are prohibited from using your personally identifiable information for any other purpose.
 
-The statistical data collected is processed by Enquisite to produce Enquisite Reports which aggregate the data collected for our customers.
+**Service-related Announcements**. If you are a customer of Enquisite, we will send you strictly service-related announcements when it is necessary to do so. For instance, we may send you an email if our service is temporarily suspended for maintenance. You may not opt-out of these communications, which are not promotional in nature.
 
-Enquisite requests that its customers adopt privacy policies that fully inform visitors to the customers’ websites about the customers’ installation and use of the Enquisite Products and the collection of statistical data from their visitors. Enquisite customers must also represent that this data collection does not violate any laws, confidentiality or other obligations between customers and their visitors.
+**Customer Service.** Based upon the personally identifiable information you provide us, we may send you a Welcome email to verify your username and password. We will also communicate with you, by email or telephone, in response to your inquiries.
 
-### Is Information Shared With Third Parties?
+### Information We Process Through Enquisite Products
 
-Enquisite does not sell, share, or distribute any private or personal information with any third parties.
+**What do Enquisite Products do?** We provide search marketing measurement and optimization software services and solutions. Our platform and suite of applications enable interactive agencies and digital marketers to manage, measure, report, audit and monetize their search marketing activities.
 
-We may however employ other companies and individuals to perform functions on our behalf. Examples include registering users, sending postal mail and email, analyzing data, providing marketing assistance and providing customer service. To perform these functions, these companies and individuals may have access to information needed to perform their functions, but may not use it for other purposes.
+**What Information Does Enquisite Collect From its Customers and How Is That Data Used?** Our customers are businesses, not individuals. To the extent that any personal contact information is collected through Enquisite Products, we use this contact information for business purposes, such as responding to requests for information about Enquisite Products and services, providing access to certain services, and for registration of Enquisite Products.
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Enquisite or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+**What Information Does Enquisite Collect Through Enquisite Products From Visitors to Its Customers’ Websites, and How Is That Data Used?** Upon confirmation of sign up, we provide a Javascript code for our customers to embed into their websites to gather certain general statistical information, such as the IP address of a visitor’s computer, the URL of the page the tag comes from and the time it was viewed, log files and other traffic data (collectively referred to as “statistical data”). Enquisite does not collect any personally identifiable information from visitors to our customers’ websites.
 
-We may also release information when we believe release is appropriate to comply with the law; enforce or apply our Software License & Terms Of Service And Conditions Of Use and other agreements; or to protect the rights, property, or safety of Enquisite, our users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+The statistical data collected is processed by the Enquisite Products to produce reports that aggregate the data collected for our customers. We generally requests our customers to adopt privacy policies that fully inform visitors to the customers’ websites about the collection and use of statistical data from their visitors.
 
-### How Can I Access and Update My Customer Information?
+### IP Addresses and Cookies
 
-Customers that provided contact information may contact Enquisite at our [Support Page](https://web.archive.org/support) to update their contact information.
+When you connect to our website, our web servers recognize your IP address and certain other information about your computer. This is necessary to deliver downloaded products, administer the web server, and track problems. We also uses what are called “cookies” to store and retrieve customer information through a user’s web browser. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and normally can only be read by a web server in the domain that issued the cookie to you. Cookies permit a website to serve you more effectively. Our customers may also use cookies to collect non-personally identifiable information for internal evaluation of their website.  
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.
 
-### Whom Do I Contact With Questions?
+### Access to Personally Identifiable Information
 
-If you have a concern about privacy at Enquisite, please contact us with a thorough description, and we will try to resolve it. You can contact us at our [Support Page](https://web.archive.org/support), or for written inquiries, address them to:
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate your account by submitting a request via Support page or by contacting us by telephone or postal mail at the contact information listed below. Enquisite will respond to all access requests within 30 days.
 
-**Enquisite, Inc.**  
-649 Mission Street, 5th floor  
-San Francisco, CA 94105  
-USA
+### Security
 
-Or call us at +1 (415) 655-4970.
+Enquisite Products have security measures in place to protect the loss, misuse and alteration of the information under our control. We use industry standard SSL (Secure Sockets Layer) encryption to protect your privacy and account details.
 
-Please remember to include your postal address, email address and phone number with your correspondence.
+### Other Sites
+
+Our website contains links to other sites. We have no control over and are not responsible for the privacy practices or content of any of these websites or any other websites.
+
+### Right to Opt Out
+
+You have the following options for removing your information from our database to not receive future communications or services:  
+1\. You can send us an email requesting removal to [optout@enquisite.com.](mailto:optout@enquisite.com)  
+2\. You can send us regular mail requesting removal to the following postal address: Webmaster, Enquisite, Inc., 649 Mission Street, Suite 500, San Francisco, CA 94105.  
+3\. If you no longer wish to receive our newsletter, customer service and/or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@enquisite.com](mailto:optout@enquisite.com).
+
+### Legal Disclaimer
+
+We reserve the right to disclose or release information when we believe release is appropriate to comply with the law; enforce or apply our Terms Of Service And Conditions Of Use and other agreements; or to protect the rights, property, or safety of Enquisite, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection.
+
+### Contacting the Web Site Administrator
+
+We welcome comments and questions about the Enquisite site or any other aspect of our web site or products or services, including this Privacy Policy. Please contact us by emailing us at [optout@enquisite.com](mailto:optout@enquisite.com); or by sending regular mail to Webmaster, Enquisite, Inc., 649 Mission Street, Suite 500, San Francisco, CA 94105 U.S.A. Please remember to include your postal address, email address and phone number with your correspondence.
