@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913031746id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524214123id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: About: Privacy Policy
 
@@ -7,7 +7,7 @@ The Brooklyn Museum is deeply committed to safeguarding your privacy online. We 
 ### Information Provided by Visitors  
 
 
-**When You Register**  
+ **When You Register**  
 You may use the Brooklyn Museum's Web site without registering or submitting any personally identifiable information. However, in order to have access to certain options, such as our Commentary Feature and the Museum's e-mail newsletters, you must register with us online.
 
 If you decide to register with us online, you will be asked to provide personally identifiable information that may include a user name and password, your name, e-mail address, postal address, and phone number. Online memberships are processed through a secure server, [NetSolutions](https://dnbweb1.blackbaud.com/OPXREPHIL/Privacy.asp?cguid=0710A1AE%2D6E5C%2D4BA1%2DB78C%2D0AD017D7204C&sid=B1ACE6AD%2DFCA0%2D48BC%2DB235%2DA7963F6404A1).
@@ -32,23 +32,23 @@ If you prefer not to have your personally identifiable information shared this w
 
 ### E-mail Communications
 
-**Newsletters**  
+ **Newsletters**  
 If you sign up for or subscribe to an e-mail newsletter, discussion list, or special interest alert, you will receive the information that you have requested; you have the option of unsubscribing or removing your name from the list at any time. By providing this information, you may receive occasional e-mail messages from the Brooklyn Museum or other organizations, for marketing and promotional purposes.
 
 **E-mails**  
 The Museum tries to respond to e-mail messages requiring a response, including customer service inquiries related to purchases in the Museum Shop, within one week. If you e-mail the Museum, your message and e-mail address will be forwarded to the appropriate department within the Museum. Any message, material, business information, ideas, concepts, or other information sent to the Museum by e-mail will be treated as non-confidential and non-proprietary. Your e-mail address will not be used for any other purpose but to contact you if needed.
 
-**Brooklyn Museum Commentary Feature (The Posse)**  
+**Brooklyn Museum Commentary Feature** **(The Posse)**  
 It is required that you provide your e-mail information in order to be a member of the Brooklyn Museum Posse. The e-mail address you provide will not be used for any other purpose but to contact you if needed. Your submissions (commenting, tagging), when using the Posse, must follow our [comment guidelines](https://web.archive.org/community/comment/agreement.php) and may be edited for clarity. We reserve the right to decide not to post your comments. You may be contacted regarding your comments. Your comments may be reused.
 
 ### Information Collected Automatically  
 
 
-**Cookies**  
+ **Cookies**  
 We do not store any information about you that we gather from using cookies on our Web site. A cookie is a small amount of data that is sent to your browser from our Web server when you visit our online Brooklyn Museum Shop; it is stored on your computer's hard drive. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. We use cookies only to keep track of the items in your shopping order. If you choose to reject cookies, you will still be able to use the Brooklyn Museum Web site but you will not be able to build a shopping order. [See the Brooklyn Museum Shop Privacy Policy](http://shop.brooklynmuseum.org/privacypolicy.html).
 
 **PatronMail**  
-If you sign up for our PatronMail newsletter or special interest alert, you will receive the information that you have requested; you have the option of unsubscribing or removing your name from the list at any time. Any information you choose to provide regarding special interests may be used for marketing and promotional purposes. For further inquiries regarding PatronMail's Privacy Policy please see [Patron Technology's Privacy Policy](http://www.patrontechnology.com/privacy.cfm).
+If you sign up for our PatronMail newsletter or special interest alert, you will receive the information that you have requested; you have the option of unsubscribing or removing your name from the list at any time. Any information you choose to provide regarding special interests may be used for marketing and promotional purposes. For further inquiries regarding PatronMail's Privacy Policy please see [Patron Technology's Privacy Policy](http://www.patrontechnology.com/privacy).
 
 ### Terms of Usage
 
@@ -61,9 +61,11 @@ See [Rights and Reproductions](https://web.archive.org/research/Rights_and_Repro
 ### Changes to Privacy Policy  
 
 
-The Brooklyn Museum may revise its Privacy Policy at any time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we gather and how we may use that information.
+The Brooklyn Museum may revise its Privacy Policy at any time. We encourage you to visit this page periodically to review our current policy so that you will always know what information we gather and how we may use that information.  
+
 
 ### Third-Party Links  
 
 
-The Brooklyn Museum's Web site contains links to other Internet sites. We encourage all of our partners, contributors, and third parties to implement policies and practices that respect the privacy of our users. However, the Brooklyn Museum is not responsible for the privacy practices or content of such Web sites. Once you leave this Web site the Privacy Policy will not apply.
+The Brooklyn Museum's Web site contains links to other Internet sites. We encourage all of our partners, contributors, and third parties to implement policies and practices that respect the privacy of our users. However, the Brooklyn Museum is not responsible for the privacy practices or content of such Web sites. Once you leave this Web site the Privacy Policy will not apply.  
+
