@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontohydro.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910045050id_/http%3A//corporate.torontohydro.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontohydro.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524215118id_/http%3A//corporate.torontohydro.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto Hydro Corporation
 
