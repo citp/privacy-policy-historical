@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032055id_/http%3A//www.kfoxtv.com/station/1940010/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524213220id_/http%3A//www.kfoxtv.com/community/1940010/detail.html) for the most accurate reproduction.*
 
-# Privacy Policy - KFOX-TV News Story - KFOX El Paso
+# Privacy Policy - Community News Story - KFOX El Paso
 
 Effective date: 1/28/03 
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KTVU Partnership, d/b/a KFOX-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-David Bennallack  
+Elizabeth O'Hara  
 KFOX-TV  
 6004 N. Mesa  
 El Paso, Texas 79912  
-[david.bennallack@cox.com](mailto:david.bennallack@cox.com)
+[elizabeth.ohara@kfox.com](mailto:elizabeth.ohara@kfox.com)
 
  **CHILDREN'S PRIVACY**
 
@@ -40,7 +40,7 @@ We also may use cookies to allow third parties to better serve advertisements to
 
  **Third Party Advertising** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
- **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+ **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
  **DISCLOSURE OF INFORMATION**
 
