@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlm-thewholetruth.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202085123id_/http%3A//www.mlm-thewholetruth.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlm-thewholetruth.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524215116id_/http%3A//mlm-thewholetruth.com/privacy.shtml) for the most accurate reproduction.*
 
 # MLM-theWholeTruth.com - Privacy Policy
 
