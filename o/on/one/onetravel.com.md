@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040557id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524055244id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
 
 # OneTravel Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.onetravel.com&sealid=101)**INTRODUCTION**  
-OneTravel.com is strongly committed to protecting your privacy.
+**INTRODUCTION**  
+OneTravel is strongly committed to protecting your privacy.
 
-OneTravel is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.onetravel.com](http://www.onetravel.com/) and [www.onetravelindia.com](http://www.onetravelindia.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+OneTravel is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.onetravel.com](http://www.onetravel.com/) and [www.onetravelindia.com](http://www.onetravelindia.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact customer service at [TLC@onetravel.com](mailto:TLC@onetravel.com?Subject=Lowest%20Fare%20Promise). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-OneTravel is committed to providing fair information practices and adopts the highest degree of privacy policy in protecting customer’s private and personal information submitted to OneTravel in connection with purchasing travel products from OneTravel. 
+OneTravel is committed to providing fair information practices and adopts the highest degree of privacy policy in protecting customer’s private and personal information submitted to OneTravel in connection with purchasing travel products from OneTravel.
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
 
@@ -22,14 +22,14 @@ To keep you informed about our latest services, we may notify you via email news
 Other sites accessible through our Website have their own privacy policies and data collection practices. Please consult each site's privacy policy. OneTravel is not responsible for the actions of third parties.
 
 **AGENTS**  
-This Website uses cookies to personalize your experience, and to speed up the member sign in process. Cookies are information stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Website and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member’s area. Some of our business partners (Traffic Analyzing Software) use cookies on our Website. We have no access to, or control over these cookies. 
+This Website uses cookies to personalize your experience, and to speed up the member sign in process. Cookies are information stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Website and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member’s area. Some of our business partners (Traffic Analyzing Software) use cookies on our Website. We have no access to, or control over these cookies.
 
 **THIRD PARTY TRACKING TECHNOLOGIES**  
-We use a third-party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate. 
+We use a third-party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate.
 
 We use an outside shipping company to ship paper tickets, and a credit card processing company to bill you for travel products. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-This privacy statement covers the use of cookies by OneTravel only and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by OneTravel only and does not cover the use of cookies by any advertisers
 
 **SECURITY**  
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this [link](http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/)]
@@ -45,7 +45,7 @@ We reserve the right to disclose your personally identifiable information as req
 If we decide to change our privacy policy, we will post those changes to this privacy statement page, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time. Please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [TLC@onetravel.com](mailto:TLC@onetravel.com?Subject=Lowest%20Fare%20Promise) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [TLC@onetravel.com](mailto:TLC@onetravel.com?Subject=Lowest%20Fare%20Promise) or by contacting us by telephone or postal mail at the contact information listed below.
 
 **OPT-OUT**  
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form.
@@ -57,10 +57,13 @@ You will be notified when your personal information is collected by any third pa
 If you have questions or concerns regarding this privacy policy, you should first contact  
 **One Travel**  
 DBA of WK Travel, Inc.  
-1050 East Flamingo Road, Suite E302   
-Las Vegas, NV 89119   
+1050 East Flamingo Road, Suite S-302  
+Las Vegas, NV 89119  
 [TLC@onetravel.com](mailto:TLC@onetravel.com?Subject=Lowest%20Fare%20Promise)   
 **(866)883-0908**
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint). [TRUSTe](https://www.truste.org/) will serve as a liaison with us to resolve your concerns.  
+
 
   
 
