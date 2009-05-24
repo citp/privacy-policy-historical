@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apastyle.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013633id_/http%3A//www.apa.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apastyle.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524180951id_/http%3A//www.apa.org/about/privacy.html) for the most accurate reproduction.*
 
 # APA Privacy Statement
 
@@ -12,12 +12,12 @@ The American Psychological Association (APA) is committed to maintaining your co
 Basic Confidentiality Policy  
 Where personal information is required for use of the website or in interacting with the website it is APA policy that information, such as your name, postal and e-mail address or telephone number, is private and confidential. The personal information you provide is stored in a secure location, is accessible only by appropriate staff, and is used only for the purposes for which you provide the information, such as to reply to your request or to send you requested materials.
 
-Note, the membership roster is a benefit of membership. Use of the roster is subject to specific rules, see [terms of use](http://www5.apa.org/membership/login/terms.cfm). The roster's information is based on that information which members have indicated is publishable and it is available to other members in the members-only section.
+Note, the membership roster is a benefit of membership. Use of the roster is subject to specific rules, see [terms of use](http://www.apa.org/about/termsofuse.html). The roster's information is based on that information which members have indicated is publishable and it is available to other members in the members-only section.
 
 If you also indicate on our site that you would like to receive announcements and notices from the APA, your personal information will be added to the appropriate APA mailing list. If at any time you change your mind and would like to add or remove your name from the APA's mailing list, or correct your personal information, please email us at [ Webmaster](mailto:webmaster@apa.org).
 
 No Release of Information to Third Parties  
-Personal information collected as a function of this website will not be released to third parties except to further the purpose for which you provide the information or if such release is required by law. Note, the membership roster is available to members and affiliates of APA in the members-only section. See roster use specific rules [terms of use](http://www5.apa.org/membership/login/terms.cfm). The roster is compiled from information provided by members for reference uses such as searching for and contacting colleagues or for making referrals, etc.
+Personal information collected as a function of this website will not be released to third parties except to further the purpose for which you provide the information or if such release is required by law. Note, the membership roster is available to members and affiliates of APA in the members-only section. See roster use specific rules [terms of use](http://www.apa.org/about/termsofuse.html). The roster is compiled from information provided by members for reference uses such as searching for and contacting colleagues or for making referrals, etc.
 
 Collection and Use of Information  
 The APA site requires you to provide certain personally identifiable information in order to use certain "Members Only" features and functions of the site. By providing such information, you consent to our collection and use of it, as described in this Privacy Policy.
