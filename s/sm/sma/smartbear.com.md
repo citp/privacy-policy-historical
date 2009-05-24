@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161518id_/http%3A//www.smartbear.com/about-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524052047id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
 
-# About Smart Bear | Privacy Policy
+# Smart Bear Software - Privacy Policy
 
 ### Introduction
 
-Smart Bear, Inc. ("Smart Bear") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of February 16, 2007. Any questions regarding this policy should be directed by email to [unsubscribe@smartbearsoftware.com](mailto:unsubscribe@smartbearsoftware.com). You may also contact Smart Bear at 9020 Capital of Texas Hwy N, Building 1, Suite 310, Austin, TX 78759-7904. The following discloses Smart Bear's information gathering and dissemination practices for its website. 
+Smart Bear, Inc. ("Smart Bear") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of February 16, 2007. Any questions regarding this policy should be directed by email to [unsubscribe@smartbear.com](mailto:unsubscribe@smartbear.com). You may also contact Smart Bear at 9020 Capital of Texas Hwy N, Building 1, Suite 310, Austin, TX 78759-7904. The following policy discloses Smart Bear's information gathering and dissemination practices for its website. 
 
 ### Information Collected and Received
 
@@ -12,7 +12,6 @@ Smart Bear may collect or receive information about each person who registers wi
 
 ### Uses of Information
 
-  
 **WE WILL NEVER SELL YOUR EMAIL ADDRESS, OR ANY OTHER PERSONAL INFORMATION, TO ANY THIRD PARTY. EVER.**
 
 Smart Bear reserves the right to disclose information when required by law.
@@ -21,15 +20,15 @@ We occasionally use other companies to perform services necessary to our operati
 
 Smart Bear may use your IP address to help diagnose problems with Smart Bear's server and to administer Smart Bear's web site. Your IP address may also be used to help identify you and your online profile and to gather broad demographic information.
 
-Smart Bear's site's registration forms require users to give Smart Bear contact information (such as your name and email address) and demographic information (such as your zip code, age, or income level). Smart Bear uses customer contact information from the registration form to send the user information about Smart Bear and promotional material from some of Smart Bear's partners. The customer's contact information is also used to contact the user when necessary. Smart Bear may use demographic and/or profile data to tailor the visitor's experience on Smart Bear's site, show the visitor content that Smart Bear thinks you may be interested in, and display content according to your preferences. The demographic and profile data will be shared with advertisers ONLY on an aggregate basis.
+Smart Bear's site's registration forms require you to give Smart Bear contact information (such as your name and email address) and demographic information (such as your zip code, age, or income level). Smart Bear uses the information from the registration form to send you information about Smart Bear and promotional material from some of Smart Bear's partners. Your contact information is also used to contact you when necessary. Smart Bear may use demographic and/or profile data to tailor your experience on Smart Bear's site, show you content that Smart Bear thinks you may be interested in, and display content according to your preferences. The demographic and profile data will be shared with advertisers ONLY on an aggregate basis.
 
 We may also disclose, on an anonymous basis, statements made by our customers. 
 
-In the case of online ordering, your information is used to process your order, general product license codes, and to deliver products or product license codes. For free license code registration, your information is used as part of our technical support and quality assurance programs. In addition, we may use the information to contact you regarding a technical support issue or to follow up on a trial. 
+In the case of online ordering, your information is used to process your order, create general product license codes, and to deliver products or product license codes. For free license code registration, your information is used as part of our technical support and quality assurance programs. In addition, we may use the information to contact you regarding a technical support issue or to follow up on a trial. 
 
 ### Security
 
-Smart Bear uses industry-standard technologies when transferring and receiving consumer data exchanged between Smart Bear and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under Smart Bear's control. Smart Bear's servers are backed up regularly and protected by security systems.
+Smart Bear uses industry-standard technologies when exchanging consumer data between Smart Bear and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under Smart Bear's control. Smart Bear's servers are backed up regularly and protected by security systems.
 
 ### Cookies
 
@@ -41,11 +40,11 @@ Smart Bear may create links to other web sites. Smart Bear will make a reasonabl
 
 ### Amendments
 
-Smart Bear may amend this policy at any time. If Smart Bear is going to use personally identifiable information collected through Smart Bear's corporate site in a manner materially different from that stated at the time of collection Smart Bear will notify users via email and/or by posting a notice on Smart Bear's Web site for 30 days prior to such use. This Agreement may not be otherwise amended except in a writing that specifically refers to this Privacy Policy and is physically signed by both parties.
+Smart Bear may amend this policy at any time. If Smart Bear is going to use personally identifiable information collected through Smart Bear's corporate site in a manner materially different from that stated at the time of collection, Smart Bear will notify users via email and/or by posting a notice on Smart Bear's Web site for 30 days prior to such use. This Agreement may not be otherwise amended except in a writing that specifically refers to this Privacy Policy and is physically signed by both parties.
 
 ### Contacts
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact privacy@Smartbearsoftware.com. Upon request, Smart Bear will provide you with access to information (e.g., name, address, phone number) that Smart Bear collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email: privacy@Smartbearsoftware.com; or (ii) visit www.Smartbearsoftware.com. There you can also log into your account to update your contact information.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact us at [privacy@smartbear.com](mailto:privacy@smartbear.com). Upon request, Smart Bear will provide you with access to information (e.g., name, address, phone number) that Smart Bear collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email [privacy@smartbear.com](mailto:privacy@smartbear.com); or (ii) visit www.smartbear.com. There you can also log into your account to update your contact information.
 
 ### Opt-Out
 
