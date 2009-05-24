@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914013120id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524083625id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at InvitationBox.com
 
 Thank you for shopping with us at InvitationBox.com. We have ensured the privacy and security of your transactions with us. Your credit card information and other data given during the order process will be guarded with the highest levels of security and confidentiality. We believe the following info will address this as well as other privacy issues.
 
@@ -27,3 +27,7 @@ Do you use Cookies?
 Yahoo! uses cookies and we also reserve the right to use cookies to track visits, keep your account information up-to-date, and estimate audience size. The information collected by cookies helps us to better understand our market and provide the best service to our customers.
 
  _Please note: This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+
+Third-Party Web Beacons: 
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
