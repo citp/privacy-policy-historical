@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913193915id_/http%3A//www.rodanandfields.com/RFContent.aspx%3FPageId%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524090358id_/http%3A//www.rodanandfields.com/RFContent.aspx%3FPageId%3D215) for the most accurate reproduction.*
 
 # Privacy Policy
 
