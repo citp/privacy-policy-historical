@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2008-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080904093515id_/http%3A//www.ukbettingcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbettingcentral.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524220028id_/http%3A//www.ukbettingcentral.com/privacy.html) for the most accurate reproduction.*
 
-# UK Betting Central Privacy Policy
+# UKBettingCentral.com - Privacy Policy - UK Betting Directory:Free Bets|Stan James And Tote Bookmakers|Ladbrokes UK|365,Paddypower And Victor Chandler Casino|Bet UK
 
 This website (the " ** _Site_** ") is operated by UKBettingCentral.com, a division of MMA Associates (Yorkshire) Ltd (" ** _UKBettingCentral.com_** "). 
 
