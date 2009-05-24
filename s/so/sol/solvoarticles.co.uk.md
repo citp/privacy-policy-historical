@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvoarticles.co.uk privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204001940id_/http%3A//www.solvoarticles.co.uk/index.php%3Fpagedb%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvoarticles.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524083110id_/http%3A//www.solvoarticles.co.uk/index.php%3Fpagedb%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Solvo Articles Directory
 
