@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-online-tv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064438id_/http%3A//www.live-online-tv.com/tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-online-tv.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524045745id_/http%3A//www.live-online-tv.com/tv/privacy.html) for the most accurate reproduction.*
 
 # LIVE TV ONLINE TV live free online tv watch tv online
 
@@ -19,6 +19,8 @@ A cookie is a small text file sent by a web server to a web browser, and stored 
 A web beacon (also called a clear gif or pixel tag) is a 1x1 pixel .gif image that advertisers place on their webpages. When you visit these pages, the web beacons can send your browser type, IP address, and other basic information to a server so advertisers can analyze the effectiveness of their ad campaigns. If you'd like to opt-out of web beacon tracking, you can clear your cookies.   
 However these cookies are not used to extract any information from you. Personal information cannot be collected via cookies. We do not track or monitor these "cookies".   
 Our advertisers may send you cookies to collect data in the advertising serving process. Any information collected from users by advertisers using cookies within this website is not subject to this website privacy policy, but rather the privacy policy of the individual advertiser.   
+**DoubleClick DART cookies**   
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Paris, you may see Paris hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does not track personal information about you. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>   
 **Policy amendments**   
 We may update this privacy policy from time to time by posting a new version on our website.   
 You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. You should check this page occasionally to ensure you are happy with any changes.   
