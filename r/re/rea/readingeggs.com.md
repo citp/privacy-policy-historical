@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202225158id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084310id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Reading Eggs
+# ABC Reading Eggs
 
 ## Privacy Policy
 
@@ -21,7 +21,8 @@ We may use the information we collect from you when you register, purchase produ
   * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
-  * We will send you periodic e-mails describing the progress of your child at Reading Eggs. We may also send you news and promotional emails about Raeding Eggs products and extra site features.If you would no longer like to receive promotional e-mail from us, please check the unsubcribe button at the bottom of any promotional emails you receive from us. You can remove or modify information you have provided to us in your My account section of the site. Visitors who register and become members of the site are able to see ‘members-only’ content and must adhere to the Reading Eggs terms of use policy.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only’ content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * Also, if you have opted-in to receive the ABC Shop newsletter on new releases from the ABC Shop, the Australian Broadcasting Corporation may send you periodic emails. If you would no longer like to receive these promotional emails, you may unsubscribe at any time from a link in the email.
 
 
 
@@ -42,6 +43,8 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Blake Education. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties such as Pascal Press, 3P Learning, VEA and Clickview for marketing, advertising, or other uses.
+
+Finally, we do not give the Australian Broadcasting Corporation your personally identifiable information except as follows. The ABC Shop may contact you with its regular email newsletter if you ticked the box entitled “I would like to receive information on new releases from the ABC Shop (includes ABC For Kids)” when you registered for a Reading Eggs subscription. You can unsubscribe at any time from a link in this email. Personal information collected by the Australian Broadcasting Corporation is governed by the ABC’s own privacy policy.
 
 ### How can you opt-out, remove or modify information you have provided to us?
 
@@ -72,3 +75,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 ### Your consent
 
 By using our site, you consent to our privacy policy.
+
+This website is published by Blake Publishing. The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
+
+We have created this privacy policy in accordance with the Commonwealth Privacy Act 1988 (Cth).
