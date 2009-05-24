@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the expedia.com.au privacy policy that was archived on 2008-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080909023257id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expedia.com.au privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524142939id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
 
-<!-- srvpush 19:32:57(:530) -->
+<!-- srvpush 07:29:37(:397) -->
 
 
 
@@ -21,6 +21,13 @@
 
 
 
+
+
+
+
+
+
+ 
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <basefont face="Arial, Helvetica, Sans Serif">
 
@@ -530,6 +537,20 @@ a.RBtn:hover {color:#fff}
 .tsText { color:#666666; text-align:right; }
 .ckonew ul {list-style-type:disc;margin-left:16px;margin-top:0px;margin-bottom:0px; padding-left:0px;}
 
+.swxlBody {color:#333; font-family:Arial, Helvetica, Sans Serif;margin:16px 0px 0px 16px;padding:0px; border-top:solid 1px #e8e8e8;width:962px;}
+.swxlContent {margin:16px 0px 0px 0px;padding:0px;}
+.swxlContent ul, .swxlContent ul li, .swxlLinks ul, .swxlItem {list-style-type:none;line-height:12px;margin:0px;padding:0px;}
+.swxlTitle {margin-bottom:4px;line-height:16px;}
+.swxlTitle h5 {font-size:10px; margin:0 0 4px 0;}
+.swxcName, .swxlItem {display:inline;line-height:12px; font-size:10px;}
+.swxlItem {color:#BAC9DF;}
+.swxcName {width:70px;display:block;float:left;margin:0 5px 0 0;}
+.swxlLinks {float:left;display:block;width:871px;}
+.swxlItem a, .swxlItem a:visited, .swxlItem a:active{color:#339;}
+.swxlItem a:hover {color:#f60; text-decoration: underline; }
+.swxlClear {clear:both;}
+
+
 
 
 
@@ -695,6 +716,36 @@ function FreeEventsOnUnLoad()
 }
 
 
+function GetCurrentFormState(szFormName)
+{
+	var curForm;	
+	var szFormState = "";
+	
+	//If no form name is supplied, grab the first form after the toolbar form.
+	if (szFormName == undefined)
+	curForm = document.forms[1]; 
+	else
+	curForm = document.forms[szFormName];
+
+	for (var iElement=0; iElement < curForm.elements.length; iElement++)
+	{
+	var fAddElement = true;
+	var CurrElement = curForm.elements[iElement];
+	if ((CurrElement.type == "radio" || CurrElement.type == "checkbox") && CurrElement.checked != true)
+	{
+	fAddElement = false;
+	}
+	if (fAddElement)
+	{
+	szFormState += "&" + CurrElement.name + "=" + CurrElement.value;
+	}
+	}
+	
+	return szFormState;
+}
+
+
+
 
 
 
@@ -706,12 +757,6 @@ function WriteCookie(c)
 {
 	document.cookie=c
 }
-
-
-
-
-
-
 
 
 //-->
@@ -748,6 +793,13 @@ function WriteCookie(c)
 
 
 
+
+
+
+
+
+
+
 	
 	
 	
@@ -767,7 +819,7 @@ function WriteCookie(c)
 	<div id="HEADPRODDIV">
 	
 	
-
+<!--EapID:0 -->
 <script type="text/javascript">
 function szGetOrigParams()
 {
@@ -785,8 +837,8 @@ function szGetOrigParams()
 
 
 
-<!-- Ad Parms --> 
-<!--AdLocation:  AdSubLocation:  AdOrig:  AdDest:  yy-->
+
+
 
 <style type="text/css">
 <!--
@@ -796,7 +848,7 @@ function szGetOrigParams()
 div#logo, #logo a {display:block; width:204px; height:34px; float:left;}
 div#logo span, #logo a span {display:none;}
 #track	{float:left; width:1px}
-#topAd {float:right; width:468px; height:60px; margin-top:2px}
+#Banner {float:right; width:468px; height:60px; margin-top:2px}
 #sky {width:150px; position:absolute; left:785px; top:120px; height:600px;}
 .clearleft {clear:left; height:5px;}
 /* Tabs Style */
@@ -834,10 +886,13 @@ div#logo span, #logo a span {display:none;}
 <!--New Omniture code - ACJ 30/1/07-->
 <script language="javascript" src="/daily/common/script/wiz_srch_trck.js"></script>
 
+<!-- DeDup Solution - 23-12-2008-->
+<script language="JavaScript" type="text/javascript" src="/daily/shared/common/script/ChannelTracking.js"></script>
 
 <div id="header"> 
 
 	<div id="logo"><a href="http://www.expedia.com.au"><span>Expedia.com.au</span></a></div>
+	<div id="Banner"></div>
 	<div id="track">
 	<!-- Start DI Tracking Code for HEAD section-->
 	<script language="JavaScript1.2">
@@ -862,27 +917,8 @@ div#logo span, #logo a span {display:none;}
 	
 	<!-- End Action Tracking Code -->
 	</div>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+ 
 
-	
-	<div id="topAd">
-	
-	<!--Do not serve ad -->
-	
-	</div>
-	
-	
-	
 
 
 
@@ -895,15 +931,15 @@ div#logo span, #logo a span {display:none;}
  /* Tabs Style */
  #nav-menu {width:710px; height:24px; font-size:13px; font-weight:bold; margin-left:50px; font-family:Arial!important}
  #nav-menu ul{list-style:none; padding:0; margin:0;}
- #nav-menu li{height:21px; float:left; margin:0 3px 0 0; text-align:center;padding-top:3px}
- #nav-menu .bluehome , #nav-menu .blueflight ,#nav-menu .bluehotels #nav-menu .bluecars,#nav-menu .bluepackages ,#nav-menu .blueattractions ,#nav-menu .bluedestinations, #nav-menu .reddeals {background-repeat:no-repeat; color:#fff;}
- #nav-menu .bluehome a,#nav-menu .blueflight a,#nav-menu .bluehotels a ,#nav-menu .bluecars a ,#nav-menu .bluepackages a ,#nav-menu .blueattractions a , #nav-menu .bluedestinations a, #nav-menu .reddeals a{height:21px;color:#fff;text-decoration:none;} 
- #nav-menu .yellowhome , #nav-menu .yellowflight ,#nav-menu .yellowhotels #nav-menu .yellowcars,#nav-menu .yellowpackages ,#nav-menu .yellowattractions ,#nav-menu .yellowdestinations,#nav-menu .yellowdeals {background-repeat:no-repeat; color:#900;}
- #nav-menu .yellowhome a,#nav-menu .yellowflight a,#nav-menu .yellowhotels a ,#nav-menu .yellowcars a ,#nav-menu .yellowpackages a ,#nav-menu .yellowattractions a ,#nav-menu .yellowdestinations a ,#nav-menu .yellowdeals a{height:21px;color:#900; text-decoration:none;} 
+ #nav-menu li{height:21px; float:left; margin:0 3px 0 0; text-align:center;padding-top:3px;font-size:13px;}
+ #nav-menu .bluehome , #nav-menu .blueflight ,#nav-menu .bluehotels #nav-menu .bluecars,#nav-menu .bluepackages ,#nav-menu .blueattractions,#nav-menu .blueweekends ,#nav-menu .bluedestinations, #nav-menu .reddeals {background-repeat:no-repeat; color:#fff;}
+ #nav-menu .bluehome a,#nav-menu .blueflight a,#nav-menu .bluehotels a ,#nav-menu .bluecars a ,#nav-menu .bluepackages a ,#nav-menu .blueattractions a, #nav-menu .blueweekends a , #nav-menu .bluedestinations a, #nav-menu .reddeals a{height:21px;color:#fff;text-decoration:none;} 
+ #nav-menu .yellowhome , #nav-menu .yellowflight ,#nav-menu .yellowhotels #nav-menu .yellowcars,#nav-menu .yellowpackages ,#nav-menu .yellowattractions,#nav-menu .yellowweekends ,#nav-menu .yellowdestinations,#nav-menu .yellowdeals {background-repeat:no-repeat; color:#900;}
+ #nav-menu .yellowhome a,#nav-menu .yellowflight a,#nav-menu .yellowhotels a ,#nav-menu .yellowcars a ,#nav-menu .yellowpackages a,#nav-menu .yellowattractions a ,#nav-menu .yellowattractions a ,#nav-menu .yellowdestinations a ,#nav-menu .yellowdeals a{height:21px;color:#900; text-decoration:none;} 
  
  /* Travel Home Tab */
- #nav-menu .bluehome {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_home.gif); } 
- #nav-menu .yellowhome {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_home.gif);} 
+ #nav-menu .bluehome {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_hotels.gif); } 
+ #nav-menu .yellowhome {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_hotels.gif);} 
  /* Flights Tab */
  #nav-menu .blueflight {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_flights.gif);} 
  #nav-menu .yellowflight {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_flights.gif);} 
@@ -915,7 +951,12 @@ div#logo span, #logo a span {display:none;}
  #nav-menu .yellowcars {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_cars.gif);} 
  /* Holiday Packages Tab */
  #nav-menu .bluepackages {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_packages.gif);} 
- #nav-menu .yellowpackages {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_packages.gif); } 
+ #nav-menu .yellowpackages {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_packages.gif);} 
+ 
+ /* Weekends Packages Tab */
+ #nav-menu .blueweekends {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_attractions.gif);} 
+ #nav-menu .yellowweekends{background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_attractions.gif);} 
+ 
  /* Attractions Packages Tab */
  #nav-menu .blueattractions {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/blue_attractions.gif);} 
  #nav-menu .yellowattractions {background-image:url(http://media.expedia.com/media/content/expaus/graphics/common/header/yellow_attractions.gif);} 
@@ -929,11 +970,12 @@ div#logo span, #logo a span {display:none;}
 <div style="clear:both"></div>
 <div id="nav-menu">
  <ul>
- <li style="width:95px;" class="bluehome"><a href="/" onclick="window.parent.location.href='/default.aspx?rfrr=-0';return false;">Travel home</a></li>
+ <li style="width:55px;" class="bluehome"><a href="/" onclick="window.parent.location.href='/default.aspx?rfrr=-0';return false;">Home</a></li>
  <li style="width:55px;" class="blueflight"><a href="/travel/flights-airfares.aspx" onclick="window.parent.location.href='/travel/flights-airfares.aspx?rfrr=-1';return false;">Flights</a></li>
  <li style="width:55px;" class="bluehotels"><a href="/travel/hotel-reservations.aspx" onclick="window.parent.location.href='/travel/hotel-reservations.aspx?rfrr=-2';return false;">Hotels</a></li>
  <li style="width:69px;" class="bluecars"><a href="/travel/car-hire.aspx" onclick="window.parent.location.href='/travel/car-hire.aspx?rfrr=-3';return false;">Car hire</a></li>
  <li style="width:128px;" class="bluepackages"><a href="/travel/package-holidays.aspx" onclick="window.parent.location.href='/travel/package-holidays.aspx?rfrr=-4';return false;">Holiday packages</a></li>
+ <li style="width:86px;" class="blueweekends"><a href="/travel/weekend-deals.aspx">Weekends</a></li>
  <li style="width:86px;" class="blueattractions"><a href="/travel/attractions-activities.aspx" onclick="window.parent.location.href='/travel/attractions-activities.aspx?rfrr=-5';return false;">Attractions</a></li>
  <li style="width:96px;" class="bluedestinations"><a href="/destinations/default.aspx" onclick="window.parent.location.href='/destinations/default.aspx?rfrr=-6';return false;">Destinations</a></li>
  <li style="width:49px;" class="reddeals"><a href="/travel/deals.aspx" onclick="window.parent.location.href='/travel/deals.aspx?rfrr=-7';return false;">Deals</a></li>
@@ -941,7 +983,6 @@ div#logo span, #logo a span {display:none;}
  </div>
 
  <!-- Tab: Tab_Non Mod: Help -->
- 
  
 
 <div id="yellowBar">
@@ -974,13 +1015,15 @@ div#logo span, #logo a span {display:none;}
 
 <script language="JavaScript" type="text/javascript" src="/pubspec/scripts/include/sav.js"></script>
 <script type="text/javascript">
-s_pageName = "HTX_PRIVACYPOLICY"; 
+s_pageName = "HTX_PRIVACYPOLICY";
+var s_pageNameOrig = s_pageName; 
 s_server = "www.expedia.com.au";	
 s_channel = "Help";
 s_prop1 = ""; 
 s_prop11 = ""; 
-s_prop12 = "1EE9D63A3BC744E0AD727D0EB1738230"; 
+s_prop12 = "917631cd474fd8a3c98defb6a091dcf5"; 
 s_account = "Expedia" + "25";
+s_exp_account = s_account;
 s_pageType = ""; 
 s_hier1 = "HTX," + s_channel;
 s_purchaseID = "";
@@ -991,6 +1034,7 @@ s_prop30 = "";
 s_eVar30 = ""; 
 s_prop34 = "";
 s_eVar34 = "";
+var rfrrLN = new Array();
 
 function PLSetPageName(p)	{	s_pageName = p;	}
 function PLSetChannel(c)	{	s_channel = c;	s_hier1="HTX,"+c;}
@@ -1052,6 +1096,9 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+ 
+ <noscript><iframe width="992" height="190" id="ifSeoErr" src="/pub/agent.dll?qscr=hgen&hfnm=ScriptInlineErr.htx" MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE FRAMEBORDER=0 SCROLLING=NO></iframe></noscript>
+
 
 <a name="skpn" id="skpn"></a>
 
@@ -1060,6 +1107,44 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+
+<script type="text/javascript">
+	var tyOfferImage = new Object ();
+	tyOfferImage.loadTYOfferImage = function ()
+	{
+	// Insert ThankYou offer image in the DCol after the page loads. 
+	var tyDiv = document.getElementById('TYImageDivId');
+	
+	var absoluteTopPosition = 147;
+	var absoluteLeftPosition = 784;
+	
+	if ( tyDiv != null)
+	{
+	var tyImage = document.getElementById('ThankYouImage');
+	if (tyImage != null)
+	{
+	var imageHeight = tyImage.height;	
+	var iframeId = document.getElementById('dColFrame');
+	if( iframeId != null)
+	{
+	// Push the IFrame ad colum down by the height of the ThankYou image
+	var topPosition = iframeId.style.top;
+	var newAdPos = parseInt(topPosition) + parseInt(imageHeight) + parseInt(30);
+	iframeId.style.top = newAdPos + 'px';
+	}
+	// Position the ThankYou image and make it visible
+	tyDiv.style.position="absolute";
+	tyDiv.style.zIndex="100";
+	tyDiv.style.top = absoluteTopPosition + 'px';
+	tyDiv.style.left = absoluteLeftPosition + 'px';
+	tyDiv.style.visibility = "visible";
+	}
+	}
+	}
+	AddLoadFn('tyOfferImage.loadTYOfferImage();');
+</script>
+
+ 
 
 
 
@@ -1667,26 +1752,42 @@ your travel itinerary. </span></p>
 
 
 
+
+
+
+
 <script type="text/javascript">
 <!--
 
-var rfrrLN = new Array();
+
 
 
 
 function RegisterClick(id)
 {
-
-	SetSGSDelay(0);
-	s_linkType='o';
-	s_linkName="RCID: " + id + "";
+	SetSGSDelay(10);
 	if (rfrrLN && rfrrLN[id])
-	s_linkName += ": " + rfrrLN[id]; 
-	s_lnk="#";
+	{
+	PLSetPageName(s_pageNameOrig + "_" + rfrrLN[id]);
 	s_gs('');	
+	}
+	PLSetPageName(s_pageNameOrig);
 	ResetSGSDelay();
+}
+
+function RegisterExitClick(id)
+{
+
+	s_linkTrackVars='prop16,eVar28';
+	s_linkType='e';
+	s_linkName='RFRR Exit Link';
+	s_prop16=id;
+	s_eVar28=id;
+	s_lnk=s_co(this);
+	s_gs(s_account);
 
 }
+
 var qscr_rfrr = "";
 PLSetChannel("Help");
 
@@ -1695,13 +1796,11 @@ PLSetChannel("Help");
 
 
 
-<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script><img name="s_i_expedia25" height="1" width="1" border="0" alt="" src="https://oms.expedia.com/b/ss/expedia25/1/G.9p2/s36837403626308?[AQB]&amp;ndh=1&amp;t=30/0/2020%2015%3A59%3A44%204%200&amp;ce=ISO-8859-1&amp;cdp=2&amp;pageName=HTX_PRIVACYPOLICY&amp;g=https%3A//web.archive.org/web/20080909023257id_/http%253A//www.expedia.com.au/pub/agent.dll%253Fqscr%253Dhgen%2526hfnm%253DPrivacyPol.htx&amp;ch=Help&amp;server=web.archive.org&amp;events=event15&amp;h1=HTX%2CHelp&amp;c12=1EE9D63A3BC744E0AD727D0EB1738230&amp;v17=HTX_PRIVACYPOLICY&amp;v18=HTX_PRIVACYPOLICY&amp;c34=HTX_PRIVACYPOLICY&amp;c50=20090105.1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script><img name="s_i_expedia25" height="1" width="1" border="0" alt="" src="https://oms.expedia.com/b/ss/expedia25/1/G.9p2/s39009270310423?[AQB]&amp;ndh=1&amp;t=30/0/2020%2015%3A59%3A52%204%200&amp;ce=ISO-8859-1&amp;cdp=2&amp;pageName=HTX_PRIVACYPOLICY&amp;g=https%3A//web.archive.org/web/20090524142939id_/http%253A//www.expedia.com.au/pub/agent.dll%253Fqscr%253Dhgen%2526hfnm%253DPrivacyPol.htx&amp;ch=Help&amp;server=web.archive.org&amp;events=event15&amp;h1=HTX%2CHelp&amp;c12=917631cd474fd8a3c98defb6a091dcf5&amp;v17=HTX_PRIVACYPOLICY&amp;v18=HTX_PRIVACYPOLICY&amp;c34=HTX_PRIVACYPOLICY&amp;c50=20090105.1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 
 
 
-
-	
 	
 	
 	
@@ -1933,12 +2032,50 @@ PLSetChannel("Help");
 
 </div>
 
+<!-- Hotel Video removed 14.01.2009 -->
+
+<!-- Call Centre Pop-up removed -->
+
+<!-- updated 21.10.08 2.25 pm - For Hotel -->
+
+
+<!-- updated 03.12.08 for Package -->
+
+
+
+<div style="clear:both"></div>
+
+<!-- Call Centre Number -->
+
+
+<!-- check domain name www.expedia.com.au -->
+
+
+<!-- Ad Handling Starts -- only search results pages included -->
+
+
+
+
+<!-- Top3Hotels -->
+<div style="position:absolute; height:auto; width:220px; top:120px; left:780px;">
+
+</div>
+
+
+ <!-- Ad Parms --> 
+	<!--AdLocation:  AdSubLocation:  AdOrig:  AdDest:  -->
+ 
+
+<!-- Ad Handling Ends -->
+
+
+
+<!-- Updated Atlas Action tags 13.2.2009 -->
 
 
 
 
 
-<!-- Call Centre pop-up Code (nd 28 July 2008)-->
 
 	
 	
@@ -1947,7 +2084,7 @@ PLSetChannel("Help");
 
 
 
-<!--TS (25/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.196.68.10, Req=19:32:57(:515), Rsp=19:32:57(:687), hash=10(0x936c3588) ET=172ms Dur=172ms Mif=0 --><comment id="ProcTime" title="172"></comment>
+<!--TS (25/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.51, Req=07:29:37(:397), Rsp=07:29:38(:053), hash=69(0x57683588) ET=656ms Dur=656ms Mif=0 --><comment id="ProcTime" title="656"></comment>
 
 	
 	
@@ -1979,7 +2116,7 @@ PLSetChannel("Help");
 
 
 
-<comment id="TotalBytes" title="102811" title1="0"></comment>
+<comment id="TotalBytes" title="107061" title1="0"></comment>
 
 
 
