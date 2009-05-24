@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddsmaker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054624id_/http%3A//www.oddsmaker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmaker.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524184256id_/http%3A//www.oddsmaker.com/privacy.php) for the most accurate reproduction.*
 
-# OddsMaker.com Privacy Policy - The World's Largest Online Gaming Site
+# Oddsmaker � Online Casino & Poker Games Privacy Policy
 
 OddsMaker.com and oddsmaker.com are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about the OddsMaker.com's privacy policy.
 
