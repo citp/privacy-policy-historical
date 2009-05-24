@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carolina.com privacy policy that was archived on 2008-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081120012242id_/http%3A//www.carolina.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carolina.com privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524215007id_/http%3A//www.carolina.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 // Disable edit cell tab.
@@ -30,8 +30,6 @@ function saveForm() {
 
             <!-- Place marker for administrative stylesheet. You are browsing-->
         
-
-
 
 
 
@@ -93,21 +91,50 @@ function saveForm() {
     <meta name="keywords" content=" ">
   
 
-        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
+
+		
+		<script type="text/javascript" language="javascript">
+				
+			document.domain = 'carolina.com';			 
+
+		function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, buyAgainPercentage, productID)
+		{			
+			 if (totalReviewsCount > 0) {
+				 var bvRevCntr = document.getElementById("BVReviewsContainer");
+			if (bvRevCntr) { bvRevCntr.style.display = "block"; }
+				 var bvSVPLink = document.getElementById("BVSVPLinkContainer");
+			if (bvSVPLink) { bvSVPLink.style.display = "block"; }
+			 }
+			 // Other custom items leveraging these values.
+			 // TODO: insert Web Analytics tracking here
+			 omnitureObjectName='s';
+			 eval('var s=this.'+omnitureObjectName);if(typeof(omnitureReview)=='undefined')
+			 omnitureReview=new Object();var bvo=omnitureReview;bvo.totalReviewCount=totalReviewsCount;
+			 bvo.avgRating=avgRating;bvo.totalRatingOnlyCount=ratingsOnlyReviewCount;bvo.buyAgainPercentage=buyAgainPercentage;
+			 bvo.reviewsFound=1;if(typeof(s)!='undefined'){var ltv=s.linkTrackVars;
+			 bvo.ajaxCatch=1;s.tl(true,'o','BazaarVoice Catch');s.linkTrackVars=ltv}
+		}
+		//-->
+		</script>
+		<link type="text/css" rel="STYLESHEET" href="http://reviews.carolina.com/static/4902/bazaarvoice.css">
+		<script language="JavaScript" src="http://reviews.carolina.com/static/4902/bazaarvoice.js" type="text/javascript"></script>
+
+
+	
+
+
         <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
         <script src="/includes/common.js"></script>
         <script src="/includes/flyopen.js"></script>
         <script src="/includes/rollover.js"></script>
         <script src="/includes/cleartext.js"></script>
-        
     </head>
 <body class="main">
-
 <table width="768" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
 
   <tbody><tr>
-    <td colspan="3" class="navheaderbg">
-      <div><!--EndecaTopNav Start-->
+	  <td colspan="4" class="navheaderbg">
+		  <div><!--EndecaTopNav Start-->
 
 
 
@@ -166,47 +193,12 @@ function saveForm() {
   function onTrackClick(){
 	var temp= false;
 	if (temp==true)
-	{				launchHistory('','OrdersPLUS','','0','');
+	{				launchHistory('https://ordersplus.carolina.com/SmartPagesCarolinaPD/Processes/Handshake.aspx','OrdersPLUS','SCHandshake','30','username=null; domain=carolina.com; secure');
 	}else{
 		//alert("temp");
 	}
   }
-
-  function onloadOP(){
-	  
-	  var newTemp = "null";
-	  //alert("newTemp:"+newTemp);
-	  if(newTemp=="ordTracking" || newTemp=="siteMap"){		  launchHistory('','OrdersPLUS','','0','');
-	  }
-  }
-  // for Internet Explorer (using conditional comments)
-  /*@cc_on @*/
-  /*@if (@_win32)@*/
-  document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
-  var script = document.getElementById("__ie_onload");
-  script.onreadystatechange = function() {
-	  if (this.readyState == "complete") {
-		  onloadOP(); // call the onload handler  
-	  }
-  };
-  /*@end @*/
-
-  // for Safari
-  if (/WebKit/i.test(navigator.userAgent)) { // sniff
-  var _timer = setInterval(function() {
-  if (/loaded|complete/.test(document.readyState)) {
-	clearInterval(_timer);
-	onloadOP(); // call the onload handler
-	}
-  }, 10);
-  }
-
-     /* for Mozilla */
-   if (document.addEventListener) {
-       document.addEventListener("DOMContentLoaded", onloadOP, false);
-   }	
-  //window.onload = onloadOP();
-</script><script id="__ie_onload" defer="" src="javascript:void(0)"></script>
+</script>
 
 
 <table border="0" width="768" cellpadding="0" cellspacing="0">
@@ -291,7 +283,7 @@ function saveForm() {
 <!--EndecaTopNav End-->
 
 </div>
-      <div><!--CatNav Start-->
+			<div><!--CatNav Start-->
 
 
 
@@ -388,7 +380,7 @@ with(menuStyle0=new mm_style()){
   borderwidth="1";
 }
 
-with(milonic=new menuname("Menu4")){style=menuStyle0;aI("text=`Animals & Insects`;showmenu=Menu100047;url=/category/living+organisms/animals.do;");aI("text=`Wisconsin Fast Plants`;showmenu=Menu100065;url=/category/living+organisms/wisconsin+fast+plants.do;");aI("text=`C-FERN`;showmenu=Menu100068;url=/category/living+organisms/c-fern.do;");aI("text=`Plants`;showmenu=Menu100071;url=/category/living+organisms/plants.do;");aI("text=`Plant Tissue Culture & Plant Physiology`;showmenu=Menu100088;url=/category/living+organisms/plant+tissue+culture+%26+plant+physiology.do;");aI("text=`Protists`;showmenu=Menu100093;url=/category/living+organisms/protists.do;");aI("text=`Prokaryotes`;showmenu=Menu100097;url=/category/living+organisms/prokaryotes.do;");aI("text=`Viruses`;showmenu=Menu100101;url=/category/living+organisms/viruses.do;");aI("text=`Fungi`;showmenu=Menu100049;url=/category/living+organisms/fungi.do;");aI("text=`Biological Media & Supplies`;showmenu=Menu100102;url=/category/living+organisms/biological+media.do;");aI("text=`Aquaria & Supplies`;showmenu=Menu100107;url=/category/living+organisms/aquaria+%26+supplies.do;");}with(milonic=new menuname("Menu5")){style=menuStyle0;aI("text=`Animals (Mammals)`;showmenu=Menu100117;url=/category/preserved+organisms/preserved+animals+%28mammals%29.do;");aI("text=`Animals (Non-Mammals)`;showmenu=Menu100019;url=/category/preserved+organisms/preserved+animals+%28non-mammals%29.do;");aI("text=`Dissection Kits`;showmenu=Menu100141;url=/category/preserved+organisms/dissection+kits.do;");aI("text=`Dissection Supplies`;showmenu=Menu100165;url=/category/preserved+organisms/dissection+supplies.do;");aI("text=`Botany & Protozoans`;showmenu=Menu100159;url=/category/preserved+organisms/botany+%26+protozoans.do;");aI("text=`Alternatives to Dissection`;showmenu=Menu100571;url=/category/preserved+organisms/alternatives+to+dissection.do;");aI("text=`Herbarium Supplies`;showmenu=Menu100591;url=/category/preserved+organisms/herbarium+supplies.do;");aI("text=`Books`;showmenu=Menu100164;url=/category/preserved+organisms/dissection+books.do;");aI("text=`Dissection Software`;showmenu=Menu100166;url=/category/preserved+organisms/dissection+software.do;");aI("text=`DVDs and Videos`;showmenu=Menu100167;url=/category/preserved+organisms/dissection+dvds+and+videos.do;");}with(milonic=new menuname("Menu100269")){style=menuStyle0;aI("text=`Inquiries in Science Biology Series`;showmenu=Menu103371;url=/category/life+science/inquiries+in+science+biology+series.do;");aI("text=`AP Biology`;showmenu=Menu100270;url=/category/life+science/ap+biology.do;");aI("text=`Biotechnology Kits & Materials`;showmenu=Menu100277;url=/category/life+science/biotechnology+kits+%26+materials.do;");aI("text=`Biotechnology Equipment & Plasticware`;showmenu=Menu100293;url=/category/life+science/biotechnology+equipment+%26+plasticware.do;");aI("text=`Forensics`;showmenu=Menu100304;url=/category/life+science/forensics.do;");aI("text=`Genetics`;showmenu=Menu100310;url=/category/life+science/genetics.do;");aI("text=`Physiology`;showmenu=Menu100317;url=/category/life+science/physiology.do;");aI("text=`Anatomical Models and Skeletons`;showmenu=Menu100322;url=/category/life+science/anatomical+models+and+skeletons.do;");aI("text=`Microscope Slides`;showmenu=Menu100329;url=/category/life+science/microscope+slides.do;");aI("text=`Biological Displays`;showmenu=Menu100344;url=/category/life+science/biological+displays.do;");aI("text=`Elementary Life Science`;showmenu=Menu100350;url=/category/life+science/elementary+life+science.do;");aI("text=`Books`;showmenu=Menu100362;url=/category/life+science/books.do;");aI("text=`Computer Software`;showmenu=Menu100363;url=/category/life+science/computer+software.do;");aI("text=`DVDs and Videos`;showmenu=Menu100364;url=/category/life+science/dvds+and+videos.do;");aI("text=`Teaching Resources`;showmenu=Menu100365;url=/category/life+science/teaching+resources.do;");}with(milonic=new menuname("Menu6")){style=menuStyle0;aI("text=`AP Chemistry`;showmenu=Menu48;url=/category/physical+science/ap+chemistry.do;");aI("text=`Chemistry`;showmenu=Menu47;url=/category/physical+science/chemistry.do;");aI("text=`Physics`;showmenu=Menu46;url=/category/physical+science/physics.do;");aI("text=`Elementary Physical Science`;showmenu=Menu45;url=/category/physical+science/elementary+physical+science.do;");}with(milonic=new menuname("Menu7")){style=menuStyle0;aI("text=`AP Environmental Science`;showmenu=Menu100031;url=/category/earth+and+environmental+science/ap+environmental+science.do;");aI("text=`Environmental Systems`;showmenu=Menu100498;url=/category/earth+and+environmental+science/environmental+systems.do;");aI("text=`Meters & Data Acquisition `;showmenu=Menu100503;url=/category/earth+and+environmental+science/meters+%26+data+acquisition+.do;");aI("text=`Ecology`;showmenu=Menu100504;url=/category/earth+and+environmental+science/ecology.do;");aI("text=`Field Collection`;showmenu=Menu100508;url=/category/earth+and+environmental+science/field+collection.do;");aI("text=`GLOBE Program`;showmenu=Menu100514;url=/category/earth+and+environmental+science/globe+program.do;");aI("text=`Earth Science`;showmenu=Menu100515;url=/category/earth+and+environmental+science/earth+science.do;");aI("text=`Space Science`;showmenu=Menu100524;url=/category/earth+and+environmental+science/space+science.do;");aI("text=`DVDs and Videos`;showmenu=Menu100525;url=/category/earth+and+environmental+science/dvds+and+videos.do;");aI("text=`Teacher Resources`;showmenu=Menu100526;url=/category/earth+and+environmental+science/teacher+resources.do;");}with(milonic=new menuname("Menu21")){style=menuStyle0;aI("text=`Microscopes & Optics`;showmenu=Menu84;url=/category/equipment+and+supplies/microscopes+%26+optics.do;");aI("text=`Furniture`;showmenu=Menu100015;url=/category/equipment+and+supplies/furniture.do;");aI("text=`Glass and Plasticware`;showmenu=Menu100033;url=/category/equipment+and+supplies/glass+and+plasticware.do;");aI("text=`Measuring Equipment`;showmenu=Menu83;url=/category/equipment+and+supplies/measuring+equipment.do;");aI("text=`General Equipment`;showmenu=Menu82;url=/category/equipment+and+supplies/general+equipment.do;");aI("text=`Biotechnology Equipment & Supplies`;showmenu=Menu81;url=/category/equipment+and+supplies/biotechnology+equipment+%26+supplies.do;");aI("text=`Lab Tools`;showmenu=Menu80;url=/category/equipment+and+supplies/lab+tools.do;");aI("text=`Lab Safety`;showmenu=Menu79;url=/category/equipment+and+supplies/lab+safety.do;");aI("text=`Cleaning Supplies`;showmenu=Menu78;url=/category/equipment+and+supplies/cleaning+supplies.do;");aI("text=`Instructional Equipment and Devices`;showmenu=Menu77;url=/category/equipment+and+supplies/instructional+equipment+and+devices.do;");aI("text=`Organizers `;showmenu=Menu100397;url=/category/equipment+and+supplies/organizers+.do;");aI("text=`Probeware`;showmenu=Menu100398;url=/category/equipment+and+supplies/probeware.do;");}with(milonic=new menuname("Menu22")){style=menuStyle0;aI("text=`STC PROGRAM for Elementary`;showmenu=Menu100021;url=/category/k-8+curriculum+programs/stc+program+science+%26+technology+for+children.do;");aI("text=`STC PROGRAM for Middle School`;showmenu=Menu100602;url=/category/k-8+curriculum+programs/stc+program+for+middle+school.do;");aI("text=`GEMS`;showmenu=Menu100035;url=/category/k-8+curriculum+programs/gems.do;");aI("text=`GEMS Core Curriculum Sequences`;showmenu=Menu100618;url=/category/k-8+curriculum+programs/gems+core+curriculum+sequences.do;");aI("text=`Math Out of the Box`;showmenu=Menu100038;url=/category/k-8+curriculum+programs/math+out+of+the+box.do;");aI("text=`Building Blocks of Science`;showmenu=Menu100624;url=/category/k-8+curriculum+programs/building+blocks+of+science.do;");aI("text=`Literacy`;showmenu=Menu100627;url=/category/k-8+curriculum+programs/literacy.do;");aI("text=`Zula Science`;showmenu=Menu102555;url=/category/k-8+curriculum+programs/zula+science.do;");aI("text=`Other Curriculum Products`;showmenu=Menu100632;url=/category/k-8+curriculum+programs/other+curriculum+products.do;");}
+with(milonic=new menuname("Menu4")){style=menuStyle0;aI("text=`Animals & Insects`;showmenu=Menu100047;url=/category/living+organisms/animals.do;");aI("text=`Wisconsin Fast Plants`;showmenu=Menu100065;url=/category/living+organisms/wisconsin+fast+plants.do;");aI("text=`C-FERN`;showmenu=Menu100068;url=/category/living+organisms/c-fern.do;");aI("text=`Plants`;showmenu=Menu100071;url=/category/living+organisms/plants.do;");aI("text=`Plant Tissue Culture & Plant Physiology`;showmenu=Menu100088;url=/category/living+organisms/plant+tissue+culture+%26+plant+physiology.do;");aI("text=`Protists`;showmenu=Menu100093;url=/category/living+organisms/protists.do;");aI("text=`Prokaryotes`;showmenu=Menu100097;url=/category/living+organisms/prokaryotes.do;");aI("text=`Viruses`;showmenu=Menu100101;url=/category/living+organisms/viruses.do;");aI("text=`Fungi`;showmenu=Menu100049;url=/category/living+organisms/fungi.do;");aI("text=`Biological Media & Supplies`;showmenu=Menu100102;url=/category/living+organisms/biological+media.do;");aI("text=`Aquaria & Supplies`;showmenu=Menu100107;url=/category/living+organisms/aquaria+%26+supplies.do;");}with(milonic=new menuname("Menu5")){style=menuStyle0;aI("text=`Animals (Mammals)`;showmenu=Menu100117;url=/category/preserved+organisms/preserved+animals+%28mammals%29.do;");aI("text=`Animals (Non-Mammals)`;showmenu=Menu100019;url=/category/preserved+organisms/preserved+animals+%28non-mammals%29.do;");aI("text=`Dissection Kits`;showmenu=Menu100141;url=/category/preserved+organisms/dissection+kits.do;");aI("text=`Dissection Supplies`;showmenu=Menu100165;url=/category/preserved+organisms/dissection+supplies.do;");aI("text=`Botany & Protozoans`;showmenu=Menu100159;url=/category/preserved+organisms/botany+%26+protozoans.do;");aI("text=`Alternatives to Dissection`;showmenu=Menu100571;url=/category/preserved+organisms/alternatives+to+dissection.do;");aI("text=`Herbarium Supplies`;showmenu=Menu100591;url=/category/preserved+organisms/herbarium+supplies.do;");aI("text=`Books`;showmenu=Menu100164;url=/category/preserved+organisms/dissection+books.do;");aI("text=`Dissection Software`;showmenu=Menu100166;url=/category/preserved+organisms/dissection+software.do;");aI("text=`DVDs and Videos`;showmenu=Menu100167;url=/category/preserved+organisms/dissection+dvds+and+videos.do;");}with(milonic=new menuname("Menu100269")){style=menuStyle0;aI("text=`Inquiries in Science Biology Series`;showmenu=Menu103371;url=/category/life+science/inquiries+in+science+biology+series.do;");aI("text=`AP Biology`;showmenu=Menu100270;url=/category/life+science/ap+biology.do;");aI("text=`Biotechnology Kits & Materials`;showmenu=Menu100277;url=/category/life+science/biotechnology+kits+%26+materials.do;");aI("text=`Biotechnology Equipment & Plasticware`;showmenu=Menu100293;url=/category/life+science/biotechnology+equipment+%26+plasticware.do;");aI("text=`Forensics`;showmenu=Menu100304;url=/category/life+science/forensics.do;");aI("text=`Genetics`;showmenu=Menu100310;url=/category/life+science/genetics.do;");aI("text=`Physiology`;showmenu=Menu100317;url=/category/life+science/physiology.do;");aI("text=`Anatomical Models and Skeletons`;showmenu=Menu100322;url=/category/life+science/anatomical+models+and+skeletons.do;");aI("text=`Microscope Slides`;showmenu=Menu100329;url=/category/life+science/microscope+slides.do;");aI("text=`Biological Displays`;showmenu=Menu100344;url=/category/life+science/biological+displays.do;");aI("text=`Elementary Life Science`;showmenu=Menu100350;url=/category/life+science/elementary+life+science.do;");aI("text=`Books`;showmenu=Menu100362;url=/category/life+science/books.do;");aI("text=`Computer Software`;showmenu=Menu100363;url=/category/life+science/computer+software.do;");aI("text=`DVDs and Videos`;showmenu=Menu100364;url=/category/life+science/dvds+and+videos.do;");aI("text=`Teaching Resources`;showmenu=Menu100365;url=/category/life+science/teaching+resources.do;");}with(milonic=new menuname("Menu6")){style=menuStyle0;aI("text=`AP Chemistry`;showmenu=Menu48;url=/category/physical+science/ap+chemistry.do;");aI("text=`Chemistry`;showmenu=Menu47;url=/category/physical+science/chemistry.do;");aI("text=`Physics`;showmenu=Menu46;url=/category/physical+science/physics.do;");aI("text=`Elementary Physical Science`;showmenu=Menu45;url=/category/physical+science/elementary+physical+science.do;");}with(milonic=new menuname("Menu7")){style=menuStyle0;aI("text=`Inquiries in Science Environmental Science Series`;showmenu=Menu103652;url=/category/earth+and+environmental+science/inquiries+in+science+environmental+science+series.do;");aI("text=`AP Environmental Science`;showmenu=Menu100031;url=/category/earth+and+environmental+science/ap+environmental+science.do;");aI("text=`Environmental Systems`;showmenu=Menu100498;url=/category/earth+and+environmental+science/environmental+systems.do;");aI("text=`Meters & Data Acquisition `;showmenu=Menu100503;url=/category/earth+and+environmental+science/meters+%26+data+acquisition+.do;");aI("text=`Ecology`;showmenu=Menu100504;url=/category/earth+and+environmental+science/ecology.do;");aI("text=`Field Collection`;showmenu=Menu100508;url=/category/earth+and+environmental+science/field+collection.do;");aI("text=`GLOBE Program`;showmenu=Menu100514;url=/category/earth+and+environmental+science/globe+program.do;");aI("text=`Earth Science`;showmenu=Menu100515;url=/category/earth+and+environmental+science/earth+science.do;");aI("text=`Space Science`;showmenu=Menu100524;url=/category/earth+and+environmental+science/space+science.do;");aI("text=`DVDs and Videos`;showmenu=Menu100525;url=/category/earth+and+environmental+science/dvds+and+videos.do;");aI("text=`Teacher Resources`;showmenu=Menu100526;url=/category/earth+and+environmental+science/teacher+resources.do?sortby=bestMatches&page=1;");}with(milonic=new menuname("Menu21")){style=menuStyle0;aI("text=`Microscopes & Optics`;showmenu=Menu84;url=/category/equipment+and+supplies/microscopes+%26+optics.do;");aI("text=`Furniture`;showmenu=Menu100015;url=/category/equipment+and+supplies/furniture.do;");aI("text=`Glass and Plasticware`;showmenu=Menu100033;url=/category/equipment+and+supplies/glass+and+plasticware.do;");aI("text=`Measuring Equipment`;showmenu=Menu83;url=/category/equipment+and+supplies/measuring+equipment.do;");aI("text=`General Equipment`;showmenu=Menu82;url=/category/equipment+and+supplies/general+equipment.do;");aI("text=`Biotechnology Equipment & Supplies`;showmenu=Menu81;url=/category/equipment+and+supplies/biotechnology+equipment+%26+supplies.do;");aI("text=`Lab Tools`;showmenu=Menu80;url=/category/equipment+and+supplies/lab+tools.do;");aI("text=`Lab Safety`;showmenu=Menu79;url=/category/equipment+and+supplies/lab+safety.do;");aI("text=`Cleaning Supplies`;showmenu=Menu78;url=/category/equipment+and+supplies/cleaning+supplies.do;");aI("text=`Instructional Equipment and Devices`;showmenu=Menu77;url=/category/equipment+and+supplies/instructional+equipment+and+devices.do;");aI("text=`Organizers `;showmenu=Menu100397;url=/category/equipment+and+supplies/organizers+.do;");aI("text=`Probeware`;showmenu=Menu100398;url=/category/equipment+and+supplies/probeware.do;");}with(milonic=new menuname("Menu22")){style=menuStyle0;aI("text=`STC PROGRAM for Elementary`;showmenu=Menu100021;url=/category/k-8+curriculum+programs/stc+program+science+%26+technology+for+children.do;");aI("text=`STC PROGRAM for Middle School`;showmenu=Menu100602;url=/category/k-8+curriculum+programs/stc+program+for+middle+school.do;");aI("text=`GEMS`;showmenu=Menu100035;url=/category/k-8+curriculum+programs/gems.do;");aI("text=`GEMS Curriculum Sequences`;showmenu=Menu100618;url=/category/k-8+curriculum+programs/gems+curriculum+sequences.do;");aI("text=`Math Out of the Box`;showmenu=Menu100038;url=/category/k-8+curriculum+programs/math+out+of+the+box.do;");aI("text=`Building Blocks of Science`;showmenu=Menu100624;url=/category/k-8+curriculum+programs/building+blocks+of+science.do;");aI("text=`Literacy`;showmenu=Menu100627;url=/category/k-8+curriculum+programs/literacy.do;");aI("text=`Other Curriculum Products`;showmenu=Menu100632;url=/category/k-8+curriculum+programs/other+curriculum+products.do;");}
 drawMenus();
 </script><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return 0" id="menu4" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;background:#eef2f5;border:1px solid #CCCCCC;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
 <!-- milonic menu end -->
@@ -449,16 +441,13 @@ drawMenus();
 </tbody></table>
 <!--CatNav End-->
 </div>
-    </td>
-  </tr>
+		</td>
+	</tr>	
+	
 
-
-  <tr valign="top">
+	<tr valign="top">
     
-    <td width="15" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
-    <td width="738" class="contentbg">
-      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="738" height="20" border="0"></div>
-	  <div>
+      <td class="navleftbg" width="192">
 
 
 
@@ -480,151 +469,181 @@ drawMenus();
 
 
 
-</div>
-	  <div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-      <div>
-        
-        
-
-
-
-
-        <table border="0" cellpadding="0" cellspacing="0" width="738">
-          <tbody><tr>
-            <td>
-              <table border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td><a href="/category/customer+service.do"><img src="/images/en_US/local/headers/main/custserv_privacy.gif" border="0" alt="Customer Service"></a></td>
-                  <td>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  function changeCat(frm, thisbox) {
-     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
-     if (optiontxt == "0") return;
-     else location.href = optiontxt
-  }
-</script>
-
-
-<select name="subCatdd" onchange="changeCat(this.form,this)">
-    
-    
-            <option value="/category/customer+service/contact+us.do">Contact Us</option>
-        
-    
-    
-            <option value="/category/customer+service/shipping+information.do">Shipping Information</option>
-        
-    
-    
-            <option value="/category/customer+service/frequently+asked+questions.do">Frequently Asked Questions</option>
-        
-    
-    
-            <option value="/category/customer+service/ordering+and+payment.do">Ordering and Payment</option>
-        
-    
-    
-            <option value="/category/customer+service/privacy+and+security.do?sortby=ourPicks&amp;page=1" selected="">Privacy and Security</option>
-        
-    
-    
-            <option value="/category/customer+service/returns+and+exchanges.do">Returns and Exchanges</option>
-        
-    
-    
-            <option value="/category/customer+service/international+customers.do">International Customers</option>
-        
-    
-    
-            <option value="/category/customer+service/conference+schedule.do">Conference Schedule</option>
-        
-    
-    
-            <option value="/category/customer+service/about+us.do">About Us</option>
-        
-    
-    
-            <option value="/category/customer+service/terms+of+use.do">Terms of Use</option>
-        
-    
-    
-            <option value="/category/customer+service/employment+opportunities.do">Employment Opportunities</option>
-        
-    
-</select>
-
+  <table width="192" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr valign="top">
+      <td><div class="headerCategoryOn" style="padding-left:15px;" onclick="location.href='/category/customer+service.do'"><a href="/category/customer+service.do">Customer Service</a></div>
+<div class="lineBorder"> </div>
+<div class="catDimBorder"><div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/about+us.do'"><a href="/category/customer+service/about+us.do">About Us</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/ordersplus.do'"><a href="/category/customer+service/ordersplus.do">Carolina OrdersPLUS™</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/ratings+and+reviews.do'"><a href="/category/customer+service/ratings+and+reviews.do">Ratings and Reviews </a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/conference+schedule.do'"><a href="/category/customer+service/conference+schedule.do">Conference Schedule</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/contact+us.do'"><a href="/category/customer+service/contact+us.do">Contact Us</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/employment+opportunities.do'"><a href="/category/customer+service/employment+opportunities.do">Employment Opportunities</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/frequently+asked+questions.do'"><a href="/category/customer+service/frequently+asked+questions.do">Frequently Asked Questions</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/international+customers.do'"><a href="/category/customer+service/international+customers.do">International Customers</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/ordering+and+payment.do'"><a href="/category/customer+service/ordering+and+payment.do">Ordering and Payment</a></div>
+<div class="navCategoryLeft1OnSelected" style="padding-left:15px;" onclick="location.href='/category/customer+service/privacy+and+security.do?sortby=ourPicks&amp;page=1'"><a href="/category/customer+service/privacy+and+security.do?sortby=ourPicks&amp;page=1">Privacy and Security</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/returns+and+exchanges.do'"><a href="/category/customer+service/returns+and+exchanges.do">Returns and Exchanges</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/shipping+information.do'"><a href="/category/customer+service/shipping+information.do">Shipping Information</a></div>
+<div class="navCategoryLeft1Off" style="padding-left:15px;" onmouseover="cssRollOver(this)" onmouseout="cssRollOver(this)" onclick="location.href='/category/customer+service/terms+of+use.do'"><a href="/category/customer+service/terms+of+use.do">Terms of Use</a></div>
+</div><div class="lineBorder"> </div>
+<div class="navCategoryLeft2Spacer"> </div>
 </td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-          <tr>
-            <td class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
-          </tr>
-          <tr>
-            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
-          </tr>
-          <tr valign="top">
-            <td>
-              <div class="default"><!--- PRIVACY AND SECURITY ---><span class="colorsubheader">We take your privacy and security seriously<!--(C) Copyright MarketLive. 2006. All rights reserved.MarketLive is a trademark of MarketLive, Inc.Warning: This computer program is protected by copyright law and international treaties.Unauthorized reproduction or distribution of this program, or any portion of it, may resultin severe civil and criminal penalties, and will be prosecuted to the maximum extentpossible under the law.--></span><p>We take considerable precautions to assure the security and privacy of any information passed through our Web site, and we continually enhance our security measures as the online environment changes. Read more about how we keep your information secure below. </p><p><b>How We Handle Your Personal Information</b><br>Unlike other vendors, Carolina will not sell or rent your account information or email address. Nor will we share your confidential information with anyone except as necessary to process your order.</p><p><b>About Cookies</b><br>A cookie is a small piece of information stored on your computer which helps us provide pricing and account information unique to you. The cookie contains no personally-identifiable information, and the information is further secured through encryption by SSL software to protect your privacy.</p><b>VeriSign™ Payment Security</b><br>All sales at our site are protected by VeriSign™ Secure Server ID technology, which assigns our server a unique digital ID. This assures you that our site is registered and authentic. It also means that all information passed back and forth is encrypted to protect your privacy and security. To verify that your private information is protected through SSL technology, look for the "s" (for "secure") after "http" in the address bar and for the padlock icon. On pages where no confidential information is exchanged, the "s" and padlock icon are not displayed.<p></p><p>VeriSign’s SGC-enabled SSL Certificates provide 128- or 256-bit encryption to over 99.9% of Web site visitors, including the tens of millions who use certain older versions of Windows® and Internet Explorer®. Many of the world's largest banks, Fortune 500 companies, governments, and public institutions trust VeriSign™ to secure their sites and protect their brands.</p><b>Carolina.com is PCI Compliant</b><br>Carolina is proud to announce that our Web site has attained Payment Card Industry-Data Security Standard (PCI-DSS) compliance. This means that when you shop at Carolina.com, you can rest assured that you or your institution's credit/purchasing card and personal information is completely safe and secure!<p>The PCI-DSS standard was developed by the PCI Security Standards Council to establish consistent data security measures around the globe and further ensure that your credit card data, account and transaction information is safe from hackers or any malicious system intrusion. </p><p></p></div>
-            </td>
-          </tr>
-        </tbody></table>
-    </div>
-      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="738" height="15" border="0"></div>
-    </td>
-    <td width="15" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="245" border="0"></td>
-  </tr>
+    </tr>
+  </tbody></table>
 
 
-  <tr valign="bottom">
-    <td align="center" colspan="3" class="navfooterbg"><!--BottomNav Start-->
+
+
+<div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="192" height="1" border="0"></div>
+</td>
+    
+		<td width="15" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+		<td width="546" class="contentbg">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="546" height="10" border="0"></div>
+
+<div class="breadcrumb">
+    
+        
+          	
+          	
+            	<a class="breadcrumb" href="/home.do">Home</a>
+          	            	
+          
+        
+            <span class="breadcrumb">&gt;</span>
+        
+    
+        
+          	
+          	
+            	<a class="breadcrumb" href="/category/customer+service.do">Customer Service</a>
+          	            	
+          
+        
+            <span class="breadcrumb">&gt;</span>
+        
+    
+        
+            <span class="breadcrumb">Privacy and Security</span>
+          
+        
+    
+</div>
+<div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="546" height="10" border="0"></div>
+</div>
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	  		<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+			<div>	
+   
+   
+
+
+
+
+	<!-- Gateway LeftNav 02-->
+		<table border="0" cellpadding="0" cellspacing="0" width="546">
+		 <tbody><tr>
+		            <td class="headerrule"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		          </tr>
+		          <tr>
+		            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+		
+    		<tr><td>
+    		<table>
+		<tbody><tr>
+			<td colspan="3"><link href="/text/content/content_stylesheet.css" rel="stylesheet" type="text/css"><div id="content_body"><!--- PRIVACY AND SECURITY ---><span class="colorsubheader">We take your privacy and security seriously<!--(C) Copyright MarketLive. 2006. All rights reserved.MarketLive is a trademark of MarketLive, Inc.Warning: This computer program is protected by copyright law and international treaties.Unauthorized reproduction or distribution of this program, or any portion of it, may resultin severe civil and criminal penalties, and will be prosecuted to the maximum extentpossible under the law.--></span><p>We take considerable precautions to assure the security and privacy of any information passed through our Web site, and we continually enhance our security measures as the online environment changes. Read more about how we keep your information secure below. </p><p><b>How We Handle Your Personal Information</b><br>Unlike other vendors, Carolina will not sell or rent your account information or email address. Nor will we share your confidential information with anyone except as necessary to process your order.</p><p><b>About Cookies</b><br>A cookie is a small piece of information stored on your computer which helps us provide pricing and account information unique to you. The cookie contains no personally-identifiable information, and the information is further secured through encryption by SSL software to protect your privacy.</p><b>VeriSign™ Payment Security</b><br>All sales at our site are protected by VeriSign™ Secure Server ID technology, which assigns our server a unique digital ID. This assures you that our site is registered and authentic. It also means that all information passed back and forth is encrypted to protect your privacy and security. To verify that your private information is protected through SSL technology, look for the "s" (for "secure") after "http" in the address bar and for the padlock icon. On pages where no confidential information is exchanged, the "s" and padlock icon are not displayed.<p></p><p>VeriSign’s SGC-enabled SSL Certificates provide 128- or 256-bit encryption to over 99.9% of Web site visitors, including the tens of millions who use certain older versions of Windows® and Internet Explorer®. Many of the world's largest banks, Fortune 500 companies, governments, and public institutions trust VeriSign™ to secure their sites and protect their brands.</p><b>Carolina.com is PCI Compliant</b><br>Carolina is proud to announce that our Web site has attained Payment Card Industry-Data Security Standard (PCI-DSS) compliance. This means that when you shop at Carolina.com, you can rest assured that you or your institution's credit/purchasing card and personal information is completely safe and secure!<p>The PCI-DSS standard was developed by the PCI Security Standards Council to establish consistent data security measures around the globe and further ensure that your credit card data, account and transaction information is safe from hackers or any malicious system intrusion. </p><p></p></div></td>
+		</tr>
+		<tr>
+			<td colspan="3"></td>
+		</tr>
+		<tr>
+			<td colspan="3"></td>
+		</tr>
+		</tbody></table>
+		</td>
+		</tr>
+		</tbody></table>
+	</div>
+			<div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="546" height="15" border="0"></div>
+		</td>
+		<td width="15" class="contentbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="245" border="0"></td>
+	</tr>
+
+	<tr valign="bottom">
+		<td align="center" colspan="4" class="navfooterbg"><!--BottomNav Start-->
 
 
 
@@ -741,7 +760,7 @@ drawMenus();
 						2700 York Road, Burlington, NC 27215-3398&nbsp;&nbsp;&nbsp;800.334.5551
 					</td>
 					<td nowrap="" align="right" class="footerCopyright" valign="top">     
-						©2008 Carolina Biological Supply Company
+						©2009 Carolina Biological Supply Company
 					</td>
 					<td class="clearbg" width="10">
 						<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"><br>
@@ -758,9 +777,8 @@ drawMenus();
 </tbody></table>
 <!--BottomNav End-->
 </td>
-  </tr>
+	</tr>
 </tbody></table>
-
 
  
    
@@ -814,7 +832,6 @@ height="1" width="1" border="0" alt="" /></noscript>
 
 
       
-
 
 
 
