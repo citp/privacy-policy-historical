@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121102442id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524083604id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripps Health - San Diego
 
