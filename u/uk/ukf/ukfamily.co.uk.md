@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055224id_/http%3A//www.ukfamily.co.uk/general/1943.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524145706id_/http%3A//ukfamily.co.uk/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
