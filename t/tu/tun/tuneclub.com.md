@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneclub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216135351id_/http%3A//www.tuneclub.com/index.php%3FcID%3D92%26FICMSSID%3D403320a52660e31551d8b59e844b784d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneclub.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524033532id_/http%3A//www.tuneclub.com/index.php%3FcID%3D92%26FICMSSID%3D4aea4cba0235dc83c237882ae9be0abe) for the most accurate reproduction.*
 
 # TuneClub
 
