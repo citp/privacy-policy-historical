@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914064942id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084454id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Shoe Carnival :: Privacy Policy
 
