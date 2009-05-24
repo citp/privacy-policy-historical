@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitealive8.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105014id_/http%3A//www.websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive8.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524081547id_/http%3A//www.websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Live help, Live chat software, Live support, Chat software, Live chat by WebsiteAlive
+# Website Alive
 
 We are committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics. 
 
@@ -117,10 +117,11 @@ Although WebsiteAlive will use all reasonable efforts to safeguard the confident
 
 WebsiteAlive reserves the right to change or update this Privacy Policy, or any other company policy or practice, at any time with reasonable notice to users of the Site. Any changes or updates will be effective immediately upon posting to the Site. 
 
-**Most Recent Update**
-
-Last Updated: 8/19/2007 
-
 **Contacting Us**
 
-Please [contact us](https://web.archive.org/web/20081217105014id_/http%3A//www.websitealive.com/support.asp) if you should have any questions, comments or concerns about this privacy policy. 
+AYU Technology Solutions LLC  
+ATTN: Legal Department  
+2100 West Loop South, Suite 900  
+Houston, Texas 77027 
+
+Last Updated 12/15/2008 
