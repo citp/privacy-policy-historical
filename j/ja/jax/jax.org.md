@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621180555id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524220231id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Jackson Laboratory
 
@@ -16,7 +16,7 @@ We collect two types of information during Web visits:
 
   _We will never intentionally collect any information from children or minors. No part of The Jackson Laboratory website is targeted to children or minors._
 
-Please be assured that we will not sell or rent information collected during visits to the Web site to any third party. However, we may need to provide such information to a third party if required by third party license agreements, by grant obligations, or by law. 
+Please be assured that we will not sell or rent information collected during visits to the Website to any third party. However, we may need to provide such information to a third party if required by third party license agreements, by grant obligations, or by law. 
 
 #### Information you submit
 
@@ -26,16 +26,16 @@ If you choose to provide us with additional information about yourself through a
 
 #### Aggregate information
 
-Our computer server(s) operating the Web site automatically collect statistical information on site traffic and usage patterns (e.g., how many people visit the site, frequently visited pages, browsers used, etc.). Data about visits is analyzed in aggregate with many other visits to give us information about the effectiveness of the Web site. An example of use of this aggregate information would be analyzing this information to identify specific Web pages to improve that would enhance the overall functionality of the Web site.
+Our computer server(s) operating the Web site automatically collect statistical information on site traffic and usage patterns (e.g., how many people visit the site, frequently visited pages, browsers used, etc.). Data about visits is analyzed in aggregate with many other visits to give us information about the effectiveness of the Website. An example of use of this aggregate information would be analyzing this information to identify specific Web pages to improve that would enhance the overall functionality of the Website.
 
 #### Standard information collected about individual website visits
 
-The standard information that is automatically collected and stored about your visit to our Web site includes: 
+The standard information that is automatically collected and stored about your visit to our Website includes: 
 
   * The domain name from which you access the Internet. For example, if you connect to the Internet through America Online, the domain name is aol.com. 
   * The name and version of your computer's operating system and browser. For example, Windows XP, Internet Explorer, or Firefox. 
   * The Internet protocol address of the computer you use to access the Internet. An Internet protocol address is a number that is automatically assigned to your computer whenever you log on to your Internet service provider. 
-  * The Internet address of the Web site from which you come to our site if you do not directly type in www.jax.org. 
+  * The Internet address of the Website from which you come to our site if you do not directly type in www.jax.org. 
   * The date, time, and duration of your visit to our site, and the pages you visit. 
 
 
@@ -46,15 +46,15 @@ Our web site may use _cookies_ ; a unique, alphanumeric identifier sent to your 
 
 If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
 
-The Jackson Laboratory is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of The Jackson Laboratory is owned and used by The Jackson Laboratory . The Jackson Laboratory  reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. [Read Omniture's privacy policy](http://www.omniture.com/privacy "Omniture Privacy Policy"), including how to opt out.
+The Jackson Laboratory is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of The Jackson Laboratory is owned and used by The Jackson Laboratory . The Jackson Laboratory  reserves the right to publish non-personally identifiable, summary information regarding its Website visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. [Read Omniture's privacy policy](http://www.omniture.com/privacy "Omniture Privacy Policy"), including how to opt out.
 
 ### Information use & sharing 
 
 #### General practices
 
-We treat information about visits to our Web Site with the utmost respect and attention to confidentiality. This information is critically important to providing a high level of individualized service to our site visitors. Information collected from Web site visits is used to help ensure that your experience with our Web site is productive, time efficient, helpful, and personalized. 
+We treat information about visits to our Website with the utmost respect and attention to confidentiality. This information is critically important to providing a high level of individualized service to our site visitors. Information collected from Website visits is used to help ensure that your experience with our Website is productive, time efficient, helpful, and personalized. 
 
-Please be assured that we will not sell or rent information gathered during visits to the Web site to any third party. However, we may need to provide some of this information to a third party if required by third party license agreements, by grant obligations, or by law.
+Please be assured that we will not sell or rent information gathered during visits to the Website to any third party. However, we may need to provide some of this information to a third party if required by third party license agreements, by grant obligations, or by law.
 
 #### Use and sharing of personal information
 
@@ -72,17 +72,17 @@ The Jackson Laboratory uses (and, where specified, shares) your personal informa
 
 #### Surveys
 
-Occasionally, we post surveys on the Web site. Participation in these surveys is completely voluntary. By choosing to participate in a survey on the Web site, the survey participant gives us consent to use information in the survey and to disclose results in aggregate with other survey responses. Some examples of uses for survey information include, but are not limited to monitoring use of and satisfaction with the Web site and helping guide our priorities for improving this site. 
+Occasionally, we post surveys on the Website. Participation in these surveys is completely voluntary. By choosing to participate in a survey on the Website, the survey participant gives us consent to use information in the survey and to disclose results in aggregate with other survey responses. Some examples of uses for survey information include, but are not limited to monitoring use of and satisfaction with the Website and helping guide our priorities for improving this site. 
 
 #### Email communications
 
-If you have registered for our courses and/or services, and have supplied an email address, you will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with The Jackson Laboratory.  You can "opt-out" from receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message.
+If you have registered for our courses and/or services, and have supplied an email address, you will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with The Jackson Laboratory.  You can "opt-out" from receiving these types of emails by using the opt-out mechanism located within a received email message.  Other newsletters are permission based where users can opt-in and opt-out.
 
 ### Security and encryption
 
 #### General security
 
-We use reasonable precautions to protect against loss of, misuse of, alteration of, or unauthorized access to information provided through use of the Web site. We are not responsible for any breach of neither security nor any subsequent actions of any third parties that may receive information provided through use of the Web site as a result of such a breach. 
+We use reasonable precautions to protect against loss of, misuse of, alteration of, or unauthorized access to information provided through use of the Website. We are not responsible for any breach of neither security nor any subsequent actions of any third parties that may receive information provided through use of the Website as a result of such a breach. 
 
 #### Security related to sensitive information
 
@@ -90,11 +90,11 @@ When our order forms asks users to enter sensitive information (such as credit c
 
 #### Links to other sites
 
-The Web site contains links to other Web sites, including other Jackson Laboratory Web sites as well as external Web sites. The Jackson Laboratory Privacy Policy applies to information gathered and collected during site visits to our site.  The Jackson Laboratory is not responsible for the privacy practices, the privacy statements, or content of external Web sites.
+The Website contains links to other websites, including other Jackson Laboratory Websites as well as external Websites. The Jackson Laboratory Privacy Policy applies to information gathered and collected during site visits to our site.  The Jackson Laboratory is not responsible for the privacy practices, the privacy statements, or content of external Websites.
 
 #### Your consent to this agreement & changes to this privacy policy
 
-By using The Jackson Laboratory Web site, you consent to the collection and use of information as described in this policy. We reserve the right to change the Web Site Privacy Policy at any given time as deemed necessary. 
+By using The Jackson Laboratory Website, you consent to the collection and use of information as described in this policy. We reserve the right to change the Website Privacy Policy at any given time as deemed necessary. 
 
 Reasons to change this policy may include, but are not limited to: a) to improve this policy; b) to keep pace with the rapidly evolving Internet environment; and/or c) to reflect the activities of The Jackson Laboratory. If a material change is made to this privacy policy, we will post prominent notice of the nature of such a change on the first page of this privacy policy for a six-month period following the date of the change.
 
