@@ -1,0 +1,644 @@
+<!--The following is the downloaded HTML source of the holland.com privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524223255id_/http%3A//us.holland.com/e/13875) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Holland.com : Holland.com Privacy Policy</title>
+		<script type="text/javascript" src="/ajax.js"></script>
+		<script type="text/javascript">
+			function getSelect(handler, element, target, base){
+			var e = document.getElementById(element).value;
+			string = base + '&elm=' + e;
+				
+			ajaxrequest(handler,target, string);
+			
+			}	
+			
+		</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Holland.com may collect both voluntary (names, addresses, emails, etc.) and involuntary (ip address, browser, operating system, and other technical data) information about all site users. Much of this information is used for identifying key demographic in">
+<meta name="keywords" content="Holland, Amsterdam, Travel, Netherlands, vacation, hague, maastricht, overseas, vacation, tourism">
+<!-- Media Object Embed -->
+<script type="text/javascript" src="/objv2.js"></script>
+<!-- Ajax Engine -->
+<script type="text/javascript" src="/ajax.js"></script>
+<!-- Template JS Functions -->
+<script type="text/javascript" src="/templatejscripts.php"></script>
+<!-- Google Suggest stuff --> 
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+
+<script language="javascript">
+	//changes the state of the login or logged
+	function changeLogin()
+	{
+		javascript:ajaxrequest('/handler.php', 'headerLogin', 'action=changeLogin');
+		//alert(document.getElementById("rating"));
+		//alert(document.getElementById("comments"));
+
+		
+		if(document.getElementById("rating") != null){
+			javascript:ajaxrequest('/handler.php', 'rating', 'action=changeRating');
+		}
+		if(document.getElementById("comments") != null){
+			javascript:ajaxrequest('/handler.php', 'comments', 'action=changeComments');
+		}
+
+		if(document.getElementById("sendToAFriend") != null){
+			javascript:ajaxrequest('/handler.php', 'sendToAFriend', 'action=changeSendToAFriend');
+		}
+
+		if(document.getElementById("translate") != null){
+			javascript:ajaxrequest('/handler.php', 'translate', 'action=showTranslateLink');
+		}
+
+		if(document.getElementById("flag") != null){
+			javascript:ajaxrequest('/handler.php', 'flag', 'action=flagdisplay');
+		}
+	}
+
+	function resizeElement(objectId,w,h) {
+		var eid=getStyleObject(objectId);
+		
+		if (w!=="") {
+			eid.width=w;
+		} 
+
+		if (h!=="") {
+			eid.height=h;
+		}
+
+	}
+
+
+
+
+
+function getObject(objectId) {
+    // cross-browser function to get an object's style object given its id
+    if(document.getElementById && document.getElementById(objectId)) {
+	// W3C DOM
+	return document.getElementById(objectId);
+    } else if (document.all && document.all(objectId)) {
+	// MSIE 4 DOM
+	return document.all(objectId);
+    } else if (document.layers && document.layers[objectId]) {
+	// NN 4 DOM.. note: this won't find nested layers
+	return document.layers[objectId];
+    } else {
+	return false;
+    }
+} 
+
+function getStyleObject(objectId) {
+  // checkW3C DOM, then MSIE 4, then NN 4.
+  //
+  if(document.getElementById && document.getElementById(objectId)) {
+	return document.getElementById(objectId).style;
+   }
+   else if (document.all && document.all(objectId)) {  
+	return document.all(objectId).style;
+   } 
+   else if (document.layers && document.layers[objectId]) { 
+	return document.layers[objectId];
+   } else {
+	return false;
+   }
+}
+
+function setColumnHeights() {
+	var winH;
+
+	// make sure this works even when flash movie is not loaded yet
+	if (window.document.grass) { 
+		//alert (getObject("leftcol").offsetHeight + "," + getObject("centercol").offsetHeight + "," + getObject("rightcol").offsetHeight);
+		
+//		alert(document.body.offsetHeight); // ie 6
+//		alert(window.innerHeight); // ffox pc & mac , safari  
+//		alert(document.body.scrollHeight);
+//		alert(document.body.offsetHeight); // ie 6
+
+
+
+		if (navigator.appVersion.toLowerCase().indexOf("msie")!=-1) {
+
+			if (navigator.appVersion.toLowerCase().indexOf("msie 6.")!=-1) {
+				winH=document.body.offsetHeight; // ie
+				//getStyleObject("content").setAttribute("min-height",winH+"px;");
+			} else {
+				winH=screen.height-100; // ie
+			}
+			
+		} else {
+			winH=window.innerHeight; // ffox pc & mac , safari  
+		}
+		getObject("content").setAttribute("style","min-height:"+winH+"px;");
+
+
+
+
+		 window.document.grass.SetVariable("leftcolumn_height", getObject("leftcol").offsetHeight );
+ 		 window.document.grass.SetVariable("centercolumn_height", getObject("centercol").offsetHeight );
+		 window.document.grass.SetVariable("rightcolumn_height", getObject("rightcol").offsetHeight );
+	}
+
+	if (window.document.top10_flash) {
+		window.document.top10_flash.SetVariable("go_ahead", "true" );
+	}
+
+}
+
+function calendarrequest (fileurl, elementid, query) {
+//	window.location.hash="calendar";
+	window.scrollTo(0, 400);
+	ajaxrequest(fileurl, elementid, query);
+}
+
+
+
+
+</script>
+
+<script>
+
+	function counter(pagetype, user){
+	
+	
+		if(pagetype == 'USER'){
+			div = 'user_online';
+			
+			browseuser = '&browseuser=' + user;
+			
+	
+					
+		}else{
+			div = 'namez';
+			
+			browseuser = '';
+		}
+	
+		ajaxrequest('/whosonline.php', div, 'upd=1&pagetype=' + pagetype + browseuser);
+		
+		//setTimeout("counter(,);", 5000); 
+		
+	}
+	
+</script>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAr5dLJro2T7r0yvFTAaiuYxRGk4yw0ZjUY9NG5Aw5qcFDobZe7BRIcVsRyBzUeHs4al0gRDTSkyjidQ" type="text/javascript">
+</script>
+<script src="/jscripts/googlemaps.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
+<script type="text/javascript" src="/jscripts/rofl.js"></script>
+<link href="/style/default.css" rel="stylesheet" type="text/css">
+</head>
+<body id="home" onload="setColumnHeights();load('0', '0', '13875');" onunload="GUnload();">
+<iframe src="http://www.traveladvertising.com/Live/Pixel.aspx?PlacementId=19062" height="1px" width="1px" style="position:absolute; display:none;"> </iframe><img src="http://www.traveladvertising.com/Live/Pixel.aspx?PlacementId=19062" height="1px" width="1px" style="position:absolute; display:none;"> <iframe src="https://secure.traveladvertising.com/Live/Pixel.aspx?PlacementId=19062" height="1px" width="1px" style="position:absolute; display:none;"> </iframe><img src="https://secure.traveladvertising.com/Live/Pixel.aspx?PlacementId=19062" height="1px" width="1px" style="position:absolute; display:none;">  
+
+
+
+			<div class="container"> <!--  Main Container Div -->
+
+ 			<div id="content"> <!-- main content div 887px wide -->
+			
+
+
+<!-- ######### FLASH ELEMENT ######### -->
+<div class="topflash" id="topflashdiv" style="width:1004px;height:83px;">
+        <script language="javascript" type="text/javascript">
+                writeFlash('/sitegfx/top.swf','100%','100%','','top_flash','view=&init=&user_alias=&current_page=%2Fe%2F13875%2F','8,0,0,0');
+        </script>
+        <noscript>
+                <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" WIDTH="100%" HEIGHT="100%" id="top_flash"><PARAM NAME=movie VALUE="/sitegfx/top.swf?jsna=true"><PARAM NAME=quality VALUE=high><PARAM NAME=menu VALUE=false><param name="wmode" value="transparent" /><PARAM NAME=FlashVars VALUE="view=&init=&user_alias=&current_page=%2Fe%2F13875%2F"><EMBED src="/sitegfx/top.swf?jsna=true" FlashVars="view=&init=&user_alias=&current_page=%2Fe%2F13875%2F" quality=high WIDTH="100%" HEIGHT="100%" NAME="top_flash" menu="false" wmode="transparent" swLiveConnect="true" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>
+        </noscript>
+        </div>	
+<div class="contentContainer" style="margin-left:64px;">
+<!-- ######### TOP MENU ######### --> 
+
+			
+
+<style =="" "text="" css"="">
+
+ul, ol, dl{
+	
+}
+
+#sddm
+{	margin: 0;
+	margin-left: -20px;
+	margin-top:0px;
+	padding: 0;
+	z-index: 30}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 11px arial}
+
+#sddm li a
+{	display: block;
+	line-height:20px;
+	margin: 4px 1px 0 0;
+	padding: 0px 0px;
+	height:20px;
+	width: 87px;
+	color: #FFF;
+	background-image: url(http://us.holland.com/sitegfx/menubggray.gif);
+	font-family: MS Sans Serif4, Geneva, Verdana;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	text-decoration: none}
+
+#sddm li a:hover
+{	background-image: url(http://us.holland.com/sitegfx/menubg.gif);}
+
+#sddm div
+{	position: absolute;
+	z-index: 1;
+	visibility: hidden;
+	width:100px;
+	margin: 0;
+	padding: 0;
+	filter:alpha(opacity=90);
+	-moz-opacity:.9;
+	opacity:.9;
+	padding-top:4px;
+	background: #ddd;}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding-top:2px;
+		padding-bottom:2px;
+		padding-left:10px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #ddd;
+		color: #222;
+		font-weight:bold;
+		font-family: arial;
+		font-size: 11px;}
+
+	#sddm div a:hover
+	{	background: #ff6600;
+		color: #fff}
+</style>
+
+<script type="text/javascript">
+
+	var timeout	= 500;
+	var closetimer	= 0;
+	var ddmenuitem	= 0;
+
+	// open hidden layer
+	function mopen(id)
+	{	
+		// cancel close timer
+		mcancelclosetime();
+
+		// close old layer
+		if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+		// get new layer and show it
+		ddmenuitem = document.getElementById(id);
+		ddmenuitem.style.visibility = 'visible';
+
+	}
+	// close showed layer
+	function mclose()
+	{
+		if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+	}
+
+	// go close timer
+	function mclosetime()
+	{
+		closetimer = window.setTimeout(mclose, timeout);
+	}
+
+	// cancel close timer
+	function mcancelclosetime()
+	{
+		if(closetimer)
+		{
+			window.clearTimeout(closetimer);
+			closetimer = null;
+		}
+	}
+
+	// close layer when click-out
+	document.onclick = mclose; 
+</script>
+<ul id="sddm">
+    <li><a href="http://us.holland.com" onmouseover="mclose()">
+		Home
+	</a></li>
+    
+		
+	<li><a href="http://us.holland.com/s/2/travel.php" onmouseover="mopen('m1')" onmouseout="mclosetime()">Travel</a>
+        <div id="m1" style="width:110px" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="http://us.holland.com/t/hotel">Hotels</a>
+        <a href="http://us.holland.com/t/restaurants">Restaurants</a>
+        <a href="http://us.holland.com/t/tulips">Tulips</a>
+        <a href="http://us.holland.com/t/traditions">Traditions</a>
+        <a href="http://us.holland.com/t/gay">Gay &amp; Lesbian</a>
+        <a href="http://us.holland.com/t/kids">Kids</a>
+        <a href="http://us.holland.com/t/student">Student</a>
+        </div>
+    </li>
+	
+	    <li><a href="http://us.holland.com/t/art" onmouseover="mopen('m2')" onmouseout="mclosetime()">Arts</a>
+		<div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="http://us.holland.com/t/art">Art</a>
+        <a href="http://us.holland.com/t/museum">Museums</a>
+        <a href="http://us.holland.com/t/dance">Dance</a>
+        <a href="http://us.holland.com/t/music">Music</a>
+        <a href="http://us.holland.com/t/theater">Theater</a>
+        </div>
+	</li>
+	
+		
+    <li><a href="http://us.holland.com/s/3/style.php" onmouseover="mopen('m3')" onmouseout="mclosetime()">Style</a>
+		<div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="http://us.holland.com/t/architecture">Architecture</a>
+        <a href="http://us.holland.com/t/design">Design</a>
+        <a href="http://us.holland.com/t/fashion">Fashion</a>
+        <a href="http://us.holland.com/t/shopping">Shopping</a>
+        <a href="http://us.holland.com/t/nightlife">Nightlife</a>
+        </div>
+	</li>
+	
+	    <li><a href="http://us.holland.com/s/1/deals.php" onmouseover="mclose()">
+		Deals
+	</a></li>
+    
+		<li><a href="http://us.holland.com/videos.php" onmouseover="mclose()">
+		Videos
+	</a></li>
+	
+		<li><a href="http://us.holland.com/images.php" onmouseover="mclose()">
+		Images
+	</a></li>
+	
+		<li><a href="http://us.holland.com/calendar.php" onmouseover="mclose()">
+		Calendar
+	</a></li>
+	
+		<li><a href="http://us.holland.com/blog.php" onmouseover="mclose()">
+		Triplog
+	</a></li>
+	
+		<li><a href="http://us.holland.com/staticcontent.php?page=info_index" style="width: 83px;" onmouseover="mclose()">
+		Info
+	</a></li>
+</ul>
+<div style="clear:both; line-height:4px;">&nbsp;</div>
+							
+<!-- header file ends here --><script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+		<div class="leftcolumn" id="leftcol">
+					<!-- Start Tag Container -->
+				<div style="height:10px"></div>
+		<div id="related_content">
+			<h3><img src="/sitegfx/icon_related_content.gif" style="margin:3px 3px 0px -2px">Useful Information</h3>
+							<div class="orangelink"><a href="/e/16775/Noordwijk.php">Noordwijk</a></div>
+							<div class="orangelink"><a href="/e/17072/Facts+%26amp%3B+Figures.php">Facts &amp; Figures</a></div>
+							<div class="orangelink"><a href="/e/17949/Restaurant+La+Rive.php">Restaurant La Rive</a></div>
+							<div class="orangelink"><a href="/e/17934/Kantjil+en+de+Tijger.php">Kantjil en de Tijger</a></div>
+							<div class="orangelink"><a href="/e/17919/Pure+Liner+.php">Pure Liner</a></div>
+							<div class="orangelink"><a href="/e/17927/Westergasfabriek.php">Westergasfabriek</a></div>
+							<div class="orangelink"><a href="/e/7774/Traditional+Dutch+Drinks.php">Traditional Dutch Drinks</a></div>
+							<div class="orangelink"><a href="/e/17293/Carlton+President.php">Carlton President</a></div>
+							<div class="orangelink"><a href="/e/17928/d%27Vijff+Vlieghen+.php">d'Vijff Vlieghen</a></div>
+							<div class="orangelink"><a href="/e/7799/Pilgrim+Treasures+-+Byzantium+Jerusalem.php">Pilgrim Treasures - Byzantium </a></div>
+					</div>
+				<!-- End Tag Container -->
+		&nbsp;
+			<div style="margin-top:5px; margin-bottom: 5px; padding-top: 3px; padding-bottom: 3px; width:187px;"><center><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://us.holland.com/admin/advertisements/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:31");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adjs.php?n=086073902&amp;what=zone:31&amp;exclude=,"></script><noscript><a href='http://us.holland.com/admin/advertisements/adclick.php?n=afd03ed0' target='_blank'><img src='http://us.holland.com/admin/advertisements/adview.php?what=zone:31&amp;n=afd03ed0' border='0' alt=''></a></noscript>
+</center></div><div style="margin-top:5px; margin-bottom: 5px; padding-top: 3px; padding-bottom: 3px; width:187px;"><center><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://us.holland.com/admin/advertisements/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:16");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adjs.php?n=127935036&amp;what=zone:16&amp;exclude=,"></script><noscript><a href='http://us.holland.com/admin/advertisements/adclick.php?n=afd03ed0' target='_blank'><img src='http://us.holland.com/admin/advertisements/adview.php?what=zone:16&amp;n=afd03ed0' border='0' alt=''></a></noscript>
+</center></div>	</div>
+	
+	<div class="centercolumn" id="centercol">
+		<div class="grey_bar_1" style="width:464px; margin-left:-2px; padding-left:2px; padding-top:2px; margin-bottom:5px; color:#fff; font-size:11px"><span style="float:left; margin-left:2px;">
+			Holland.com &gt;  Travel &gt; Featured &gt; Holland.com Privacy Policy		</span></div>
+	<div class="entityListing">
+		
+	
+			<div class="entityListing">
+				<div class="entityTitle"><div style="float:left;width:auto;margin-right:-5px;">
+										</div><div style="float:left; margin-top:1px;">
+					Apr 30, 2007 5:10 PM GMT			
+				</div>
+				<div style="float:right; width:175px; text-align:right; margin-top:1px;margin-right:12px">
+				By: <a href="/e/17803" onmouseover="javascript:switchDiv('userinfo_switch','block');" onmouseout="javascript:switchDiv('userinfo_switch','none');" style="color:#fff">NBTC</a>				</div>
+				
+				<div>
+					<div id="userinfo_switch" class="userinfofloat"> 
+										<div style="text-align:center;"><img align="middle" src="/sitegfx/holland_white.gif" style="margin:0px;border:0;" width="193">	</div>
+										</div>
+				</div>
+				</div>
+			<div class="entityDescription">
+				<div style="border:0px">
+			<div class="entity_title_featured" id="title_13875" style="line-height:1em; clear:both">
+			<span style="float:left">Holland.com Privacy Policy</span>			
+			</div>
+			<div style="clear:left"></div>
+			<div id="image_cntr">
+						
+			</div>
+				<div id="body_13875">
+					<p>Holland.com may collect both voluntary (names, addresses, emails, etc.) and involuntary (ip address, browser, operating system, and other technical data) information about all site users. Much of this information is used for identifying key demographic indicators of site users for the purposes of more targeted marketing strategies from our advertisers. Please note that this shared information is vague and never breaches your personal privacy by providing specific information that can be identified to you. It is the policy of Holland.com to never give this type of personal information to any third party sources without your express permission. We also strictly adhere to the COPPA act and require children under the age of 13 to obtain parental permission before submitting any personal information. We further recommend that children do not provide any personal information in their public profiles.</p> <p>We have also adopted a policy to collect the minimal amount of personal information possible for MyHolland community registration. It is at the discretion of the user how much personal information they reveal to both holland.com and to the public through their personal management system "located in the MyHolland page." Under account settings, users can choose to opt-out of receiving mass mailings and divulging personal information to other site users. </p>				</div>
+				<div class="entityLink">
+				</div>				<div id="admin_submit_cancel_13875"></div>
+				<div style="height:10px"></div>
+							</div>
+		</div>
+						<div style="clear:both;height:10px"></div>
+<div style="clear:both;height:20px"></div>
+		<div id="comments">
+											</div>
+		</div>
+	</div>
+	<div style="margin-top:5px; margin-bottom: 5px; padding-top: 3px; padding-bottom: 3px; width:187px;"><center><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://us.holland.com/admin/advertisements/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adjs.php?n=466370650&amp;what=zone:3&amp;exclude=,"></script><noscript><a href='http://us.holland.com/admin/advertisements/adclick.php?n=a81b2d15' target='_blank'><img src='http://us.holland.com/admin/advertisements/adview.php?what=zone:3&amp;n=a81b2d15' border='0' alt=''></a></noscript>
+</center></div>	</div>
+	<div class="rightcolumn" id="rightcol">
+		<div id="stats" style="color:#333333;">
+			<h3><img src="/sitegfx/stats.gif">&nbsp; Stats</h3>
+			<div><b>Page Views:</b> 7607</div>
+			<div style="height:5px;"></div>	
+			<div><b>Avg. Rating:</b> None</div>			
+			<div style="height:5px;"></div>
+			<div><b>Total Comments:</b> 0</div>
+			<div style="height:5px;"></div>
+						<div><b>Total MySuitcase Adds:</b> 0<br><b>Type:</b> info</div>
+			<div style="height:5px;"></div>
+		</div>
+		<div id="social_bookmarking">
+					<h3><div style="float:left"><img src="/sitegfx/soc_book.gif" style="margin:3px 3px 0px 0px">Social Bookmarks&nbsp;</div><div style="float:left;margin-top:2px;z-index:99;"><a href="" onmouseover="javascript:switchDiv('help_box_social_bookmark','block');" onmouseout="javascript:switchDiv('help_box_social_bookmark','none');"><img src="/sitegfx/help_orangeback.gif" align="texttop" style="margin-top:0px;border:0;" alt="help"></a><div id="help_box_social_bookmark" style="display:none; position:absolute; z-index:99; margin-top:10px;margin-left:-130px; width:200px; height:auto; border:1px solid #666; background-color:white; padding:2px; color:#333; vertical-align:middle; text-align:left;line-height:1em; font-weight:normal;"><div style="color:white;background-color:#990000;height:25px;font-size:12px;font-weight:bold;vertical-align:middle;"><span style="float:left;width:83%;margin-left:3px;margin-top:6px;line-height:1.4em">What are social bookmarks?</span><span class="questionmark" style="float:right;width:13%;font-size:24px;text-align:right;margin-right:3px;height:25px;font-family:arial;">?</span></div><div style="padding:3px;font-size:10px;">Social bookmarks are links to other community-based websites that are built on user submitted content (like Holland.com). If you believe others may enjoy the page you are currently viewing, you may submit it to one of the listed sites.</div></div></div></h3>
+				<div style="width:160px;">
+				<div style="float:left; width:80px;">
+				  <a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F" target="_blank"><img src="/sitegfx/socialbookmarks/digg.png" alt="Digg" style="border:0" align="baseline"> Digg</a><br>
+				  <a href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;h=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/newsvine.gif" alt="Newsvine" style="border:0" align="baseline"> Newsvine</a><br>
+				  <a href="http://www.furl.net/storeIt.jsp?t=Holland.com Privacy Policy&amp;u=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F" target="_blank"><img src="/sitegfx/socialbookmarks/furl.png" alt="Furl" style="border:0" align="baseline"> Furl</a><br>
+				  <a href="http://reddit.com/submit?url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/reddit.gif" alt="Reddit" style="border:0" align="baseline"> Reddit</a><br>
+				  <a href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;Title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/blinklists.gif" alt="Blinklist" style="border:0" align="baseline"> Blinklist</a><br>
+				  <a href="http://www.spurl.net/spurl.php?url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/spurl.gif" alt="Spurl" style="border:0" align="baseline"> Spurl</a><br>
+				  </div>
+				  <div style="float:right;width:80px;">
+					<a href="http://www.shadows.com/features/tcr.htm?url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/shadows.gif" alt="Shadows" style="border:0" align="baseline"> Shadows</a><br>
+				  <a href="http://wists.com/r.php?c=&amp;r=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/wists.gif" alt="Wists" style="border:0" align="baseline"> Wists</a><br>
+				  <a href="http://del.icio.us/post?url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/delicious.png" alt="Delicious" style="border:0" align="baseline"> Delicious</a><br>
+				  <a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;new_comment=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/fark.gif" alt="Fark" style="border:0" align="baseline"> Fark</a><br>
+				  <a href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;title=Holland.com Privacy Policy" target="_blank"><img src="/sitegfx/socialbookmarks/magnolia.gif" alt="Magnolia" style="border:0" align="baseline"> Magnolia</a><br>
+				  <a href="http://blogmarks.net/my/marks,new?title=Holland.com Privacy Policy&amp;url=http%3A%2F%2Fus.holland.com%2Fe%2F13875%2F&amp;summary=&amp;via=refer;" target="_blank"><img src="/sitegfx/socialbookmarks/blogmarks.gif" alt="Blogmarks" style="border:0" align="baseline"> BlogMarks</a><br>
+				  </div>
+				</div>
+							</div>
+		<div style="margin-top:5px; margin-bottom: 5px; padding-top: 3px; padding-bottom: 3px; width:187px;"><center><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://us.holland.com/admin/advertisements/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:18");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://us.holland.com/admin/advertisements/adjs.php?n=901718908&amp;what=zone:18&amp;exclude=,"></script><noscript><a href='http://us.holland.com/admin/advertisements/adclick.php?n=adc5fa00' target='_blank'><img src='http://us.holland.com/admin/advertisements/adview.php?what=zone:18&amp;n=adc5fa00' border='0' alt=''></a></noscript>
+</center></div>	</div>
+<!-- footer file starts here -->
+			  <br style="clear:both;"> <!-- Need this to expand background to bottom on FF -->
+		<div id="credits">
+		<a href="/e/17803/">NBTC</a> · <a href="/e/17893/">WEBVERTISING</a> · <a href="/e/13854/">TERMS FOR USE</a> · <a href="/e/13875/">PRIVACY POLICY</a> · <a href="/e/13876/">CONTACT US</a> · <a href="/e/12457/">FAQ</a> · <a href="http://www.brinkmedia.com">SITE BY BRINKMEDIA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		</div>
+		<div id="footerWrapper">
+		<br>
+			</div>
+	
+	<!-- end of debug stuff  -->
+			
+				</div>
+
+			 </div> <!-- Main content div 887px Wide -->
+<!--       </div> end gradients div -->			 
+ <!--      </div> end gradients div -->
+		 </div> <!--End Container div -->
+
+        <script language="javascript" type="text/javascript">
+                writeFlash('/sitegfx/grass.swf','100%','720','','grass','','8,0,0,0');
+        </script>
+        <noscript>
+                <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" WIDTH="100%" HEIGHT="720" id="grass"><PARAM NAME=movie VALUE="/sitegfx/grass.swf?jsna=true"><PARAM NAME=quality VALUE=high><PARAM NAME=menu VALUE=false><param name="wmode" value="transparent" /><PARAM NAME=FlashVars VALUE=""><EMBED src="/sitegfx/grass.swf?jsna=true" FlashVars="" quality=high WIDTH="100%" HEIGHT="720" NAME="grass" menu="false" wmode="transparent" swLiveConnect="true" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>
+        </noscript>
+        <!--End of template -->
+<!-- Google analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1759161-2";
+urchinTracker();
+</script>
+<!-- end google analytics -->
+
+
+<!-- footer file ends here -->
+
+</body></html>
