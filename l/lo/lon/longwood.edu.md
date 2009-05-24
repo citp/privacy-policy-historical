@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201193554id_/http%3A//www.longwood.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151116id_/http%3A//www.longwood.edu/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Longwood University
 
@@ -14,7 +14,7 @@ Nearly all of our web sites may be visited without revealing any personal inform
 
 ###  For Functionality and Services 
 
-Certain functionality and services provided by our web sites may utilize cookies. As an example, cookies are used to remember your font size preferences when visiting the Longwood web site. A cookie is a small piece of data that is sent to your web browser from one of our web sites and stored on your computer's hard disk. A cookie can not read any data off your hard disk, read cookie files created by other web sites or perform any other action against your computer. You can configure your web browser to allow or disallow cookies by changing your browser's options or preferences, but disabling cookies may prevent some areas of our web sites from working properly. 
+Certain functionality and services provided by our web sites may utilize cookies. As an example, cookies are used to remember your font size preferences when visiting the Longwood web site. A cookie is a small piece of data that is sent to your web browser from one of our web sites and stored on your computer's hard disk. A cookie cannot read any data off your hard disk, read cookie files created by other web sites or perform any other action against your computer. You can configure your web browser to allow or disallow cookies by changing your browser's options or preferences, but disabling cookies may prevent some areas of our web sites from working properly. 
 
 ###  For Statistical Tracking 
 
@@ -36,6 +36,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ##  Contact 
 
-If you have any questions concerning this privacy statement or our web sites, please email [webteam@longwood.edu](mailto:webteam@longwood.edu). 
+If you have any questions concerning this privacy statement or our web sites, please email [webteam@longwood.edu](mailto:webteam@longwood.edu). If you wish to review or change information gathered about you via an official Longwood Web site but you do not know how, the University web team will assist in locating the persons responsible for that site so that you may make your request for that review or change directly to them. 
 
-_Last Updated: August 6, 2008_
+_Last Updated:  February 18, 2009_
