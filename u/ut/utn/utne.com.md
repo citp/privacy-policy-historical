@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112211555id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524194112id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Ogden Publications Privacy Policy
 
@@ -55,6 +55,8 @@ Some of our business affiliates use cookies on our sites in ads or promotions. H
 For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use.
 
 We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in an aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
+
+We use third-party advertising companies to serve ads when you visit our website. Some of these companies, such as Google use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, ** **[ **click here**](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") **.**
 
 #### **WITH WHOM YOUR INFORMATION IS SHARED**
 
