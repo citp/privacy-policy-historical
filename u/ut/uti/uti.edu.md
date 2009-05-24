@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913192757id_/http%3A//www.uti.edu/Home/PrivacyPolicy/tabid/583/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084456id_/http%3A//www.uti.edu/Home/PrivacyPolicy/tabid/583/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,8 +28,7 @@ We currently do not set any cookies. Our Web server does not automatically recog
 
 ###  How Do We Use Info Collected?
 
-We use the information you provide to improve the design and content of our Web site for the benefit of the users of our Web site. In addition, the information you provide us is used for marketing purposes, and may result in follow-up communications via mail, e-mail or telephone. If you do not wish to receive such contact, please let us know by writing to us at the e-mail address or by calling us at the telephone number provided below, and providing us with your name, address and phone number. We will remove/deactivate your contact information from our database.   
-
+We use the information you provide to improve the design and content of our Web site for the benefit of the users of our Web site. In addition, the information you provide us is used for marketing purposes, and may result in follow-up communications via mail, e-mail or telephone. If you do not wish to receive such contact, please let us know by writing to us at the e-mail address or by calling us at the telephone number provided below, and providing us with your name, address and phone number. We will remove/deactivate your contact information from our database. 
 
 ### Commitment To Data Security
 
@@ -45,4 +44,4 @@ You may opt-out of receiving e-mail communications from Universal Technical Inst
 
 ### Contact Universal Technical Institute, Inc.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [privacy@uticorp.com](mailto:privacy@uticorp.com) or by telephone at 623-445-9500.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [privacy@uticorp.com](mailto:privacy@uticorp.com) or by telephone at 623-445-9500. 
