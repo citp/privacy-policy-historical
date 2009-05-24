@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913024736id_/http%3A//www.cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151352id_/http%3A//www.cvisiontech.com/legal/general/privacy.html) for the most accurate reproduction.*
 
-# Privacy - CVISION
+# Privacy
 
 This is the web site of **CVISION Technologies**. 
 
@@ -41,4 +41,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Generated in 0.59528 Seconds
+Generated in 1.61363 Seconds
