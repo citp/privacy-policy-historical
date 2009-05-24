@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204055704id_/http%3A//www.orafaq.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524062952id_/http%3A//www.orafaq.com/wiki/Oracle_FAQ%3APrivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Oracle FAQ
+# Oracle FAQ:Privacy policy - Oracle FAQ
 
-The Oracle FAQ is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use this site:
+### From Oracle FAQ
+
+[](https://web.archive.org/wiki/Image:Nospam.gif "No Spam!")
+
+The [Oracle FAQ](https://web.archive.org/wiki/Oracle_FAQ:About "Oracle FAQ:About") is committed to safeguarding your **privacy** on-line. Please read the following **policy** to understand how your personal information will be treated as you make full use this site: 
 
   * Wherever we collect personal information, we will do so transparently and only with your informed consent. 
+
+
   * We do not sell, trade or rent personal information. 
+
+
   * We do not take part in spam advertising, nor do we support or help people doing so. 
+
+
   * We cannot protect private information (like telephone numbers or E-mail addresses) left by users on discussion forums and chat boards. We will, however, remove such information when requested to do so. 
-  * We assume your consent to this policy if you continue to visit our site.
+
+
+  * We assume your consent to this policy if you continue to visit our site. 
 
 
 
-This policy may change from time to time so please check back periodically.  
-If you have any additional questions, please contact our [webmaster](https://web.archive.org/feedback).  
-
+This policy may change from time to time so please check back periodically. If you have any additional questions, please contact the site's [webmaster](http://www.orafaq.com/feedback "http://www.orafaq.com/feedback"). 
