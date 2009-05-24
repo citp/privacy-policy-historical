@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173809id_/http%3A//www.cybergolf.com/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524142447id_/http%3A//www.cybergolf.com/privacy) for the most accurate reproduction.*
 
-# Cybergolf PRIVACY POLICY
+# Cybergolf
 
-**Cybergolf Privacy Policy**
+## Cybergolf Privacy Policy
 
 Cybergolf shares basic visitor information with advertisers, business partners, sponsors and other third parties.
 
 Cybergolf.com analyzes information from our web server logs such as IP addresses, referrers, and other data. We use this information to determine how much traffic the site(s) receives, usability issues (like errors and missing files), and the types of web browsers that visitors are using.
 
-Our site uses "cookies" to help users customize their experience on Cybergolf.
+Our site uses cookies to help users customize their experience on Cybergolf.
 
 Information that is sent through this site via forms is currently not encrypted. 
