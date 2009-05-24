@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orkut.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516050733id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkut.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524072904id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
 **orkut Privacy Notice**
 
-February 29, 2008
+February 18, 2009
 
 The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use orkut. In addition, the following describes our additional privacy practices that are specific to orkut. If you are using Google Talk in conjunction with orkut, please refer to the [Google Talk Privacy Notice](http://www.google.com/talk/privacy.html) for information about our privacy practices that are specific to Talk.
 
@@ -29,12 +29,19 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 
 
 
+**Ads served by third parties on orkut**
+
+  * **Ads served on orkut outside of applications:** Google uses [Google AdSense](http://www.google.com/adsense/) technology to serve ads on the orkut website. Most of the ads you see on orkut (outside of applications) are served by Google through Google AdSense. However, Google also allows advertisers to choose to use a third-party ad server to serve ads through AdSense. Those third-party ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. A list of those third party servers is available [here](http://help.orkut.com/bin/answer.py?answer=140020), along with links to their websites which provide information about how to opt-out of their cookies if such functionality is available from the ad server. 
+  * **Ads served within applications:** Application developers may choose to use a third-party ad server to serve ads into the developer's applications on the orkut site. Such ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. We encourage you to contact the application developers to obtain more information about which ad servers the developers use and/or if you are seeking information about how to opt-out of the cookie for such ad servers (if such functionality is available from the ad servers). 
+
+
+
 **Your choices**
 
   * Google provides a number of tools to restrict who can view your profile and other personal information. When you create your profile, look for the "golden key" icon, which allows you to limit viewing certain information to yourself, your friends, friends of friends, or to make the information available to all orkut members.
   * You can update your profile information at any time by clicking on the "edit" button in your profile setting.
   * Messages you receive from orkut can be sent to your primary email address or orkut inbox, depending on the preferences you choose in the "my settings" page.
-  * You can terminate your account at any time. To learn how, [click here](http://help.orkut.com/support/bin/answer.py?answer=11596). If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from orkut servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
+  * You can terminate your account at any time. To learn how, [click here](http://help.orkut.com/support/bin/answer.py?answer=11596&p=Privacy.aspx). If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from orkut servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
 
 
 
