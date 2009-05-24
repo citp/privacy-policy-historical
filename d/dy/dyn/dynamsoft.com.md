@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930090930id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524145432id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,5 +34,5 @@ Apple, EMC, 3M, Fujitsu, GE, HP, HR Block, IBM, InfoSys Intel, Olympus, Pricewat
 
 ## About Us
 
-We are the leading developer of Version Control software, Bug Tracking software, Issue tracking software, Visual SourceSafe replacement, Source Control software   
+We are the leading developer of Version Control software, Bug Tracking software, Issue tracking software, Visual SourceSafe replacement, Source Code Control software   
 [More](http://www.dynamsoft.com/Company/AboutDynamsoft.aspx) >
