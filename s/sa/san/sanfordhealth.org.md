@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022091951id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151438id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.*
 
-# About System: Privacy Statement - Legal - Sanford Health
+# About System: Privacy Statement
 
 **At Sanford Health, we vow to keep any information that we collect via our web site confidential. This includes your name, address, email address and other information that you disclose. The data you provide us is used to process the services in which you have requested and is only accessed by authorized personnel.**
 
