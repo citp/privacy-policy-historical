@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913033325id_/http%3A//www.eventbee.com/portal/helplinks/privacystatement.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524224118id_/http%3A//www.eventbee.com/portal/helplinks/privacystatement.jsp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -18,106 +18,152 @@
      <table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" width="840px" ;="">
       <tbody><tr> <td>
 
+<style>
+
+.FB_ImgLogoContainer{position:relative;width:50px;height:45px;display:block;float:left;}
+ img.FB_ImgLogo{height:15px;width:15px;bottom:0;right:0;position:absolute;margin:0;}
+
+</style>
 
 
+
+<link rel="stylesheet" type="text/css" href="/home/css/webintegration.css">
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript">
+	function fbdummy(){ }
+</script>
+
+<script type="text/javascript" language="JavaScript" src="/home/js/advajax.js">
+        function advajxdummy(){ }
+</script>
+<script type="text/javascript" language="JavaScript" src="/home/js/ajax.js">
+        function ajaxdummy(){ }
+</script>
+<script type="text/javascript" language="JavaScript" src="/home/js/dhtmlpopup.js">
+        function dhtmlpopupdummy(){ }
+</script><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
+<script type="text/javascript" language="JavaScript" src="/home/js/authentication.js">
+        function authdummy(){ }
+</script>
+<script type="text/javascript" language="JavaScript" src="/home/js/fbconnect.js">
+        function fbpopupdummy(){ }
+</script>
 <script language="javascript" src="/home/js/popup.js">
- function dummy(){}
+ 	function popupdummy(){}
+</script>
+<script>
+ 	
+ 	function ShowLinkingscreen(){
+		var fbuid;
+		  if(FB.Facebook.apiClient!=null && FB.Facebook.apiClient.get_session()!=null){
+			fbuid=FB.Facebook.apiClient.get_session().uid;
+			getEventbeeLinkscreen("/portal/fbauth/linkFBaccount.jsp?fbuid="+fbuid);
+		}
+	}
+	function logout(onLogoutURL){
+		if(FB.Facebook.apiClient!=null && FB.Facebook.apiClient.get_session()!=null)
+			FB.Connect.logoutAndRedirect(onLogoutURL);
+		else
+			window.location.href=onLogoutURL;		
+		
+	}
+	function createFBSectionForHeader(){
+		FB_RequireFeatures(["XFBML"], function(){
+		FB.Facebook.init("578ea8f7fdc0ab02b19d74c53d21a0c4", "/portal/xd_receiver.jsp");
+		if(FB.Facebook.apiClient!=null && FB.Facebook.apiClient.get_session()!=null){
+			ShowFBProfile();
+		} 
+		});
+	}
+	
 </script>
 
 <table border="0" width="840" cellspacing="0" cellpadding="0" background="/home/images/header.jpg">
-	<tbody><tr><td align="center">
-
+<tbody><tr><td align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
-  <tbody><tr height="10">
-    <td width="300" height="0">
-    </td><td width="5">
-    </td><td width="450">
-    </td><td width="5">
-    </td><td width="10">
-  </td></tr>
- <tr>
+<tbody><tr height="10">
+<td width="450" height="0">
+</td><td width="390">
+</td></tr>
+<tr>
+<td width="53%" valign="top" height="60">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+<tbody><tr>
+<td height="16" valign="bottom" width="19%">
+<div align="left"><a href="http://www.eventbee.com/portal/home.jsp">
+<img src="/home/images/logo_big.jpg" border="0"><br><img src="/home/images/caption.jpg" border="0"></a></div>
+</td></tr>
+</tbody></table>
+</td>
+<td width="47%" height="60" valign="top">
 
-    <td width="53%" valign="top" height="60" colspan="5">
+<table width="100%" align="center" border="0" cellpadding="5" cellspacing="0">
+<tbody><tr>
+<td width="50%" colspan="3" height="55" valign="middle" align="center">
+<div align="right">
+<table>
+<tbody><tr>
+<td>
+<span id="fbusername"></span>
+</td>
+</tr>
+<tr>
+<td>
+<span class="FB_ImgLogoContainer" id="fbprofile_pic"></span>			
+</td>
+</tr>
+<tr><td align="left"><div id="connectlinkmsg" style="display:none">
+<a href="#" onclick="ShowLinkingscreen()" style="text-decoration: none"><b><span class="headerfont">Link with Eventbee</span></b></a> 
+</div></td></tr>
+</tbody></table>
+
+<a href="http://www.eventbee.com/portal/guesttasks/signup.jsp?isnew=yes&amp;entryunitid=13579" style="text-decoration: none">
+<b><span class="headerfont">Sign Up</span></b>
+</a>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> |  </font>
+<a href="http://www.eventbee.com/portal/community.jsp" style="text-decoration: none">
+<b><span class="headerfont">Login</span></b>
+</a>
+
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> |  </font>
+<a href="http://help.eventbee.com" target="_blank" style="text-decoration: none">
+<b><span class="headerfont">Help</span></b>
+</a>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> | </font>
+<a href="javascript:popupwindow('http://www.eventbee.com/home/links/livechat.html','Tags','600','400')" style="text-decoration: none">
+<b><span class="headerfont">Chat</span></b>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="maintab2" width="30%" height="15">
+<div align="center"> <a href="http://www.eventbee.com/portal/eventdetails/events.jsp?evttype=event&amp;UNITID=13579">
+<span class="tabfont">Events</span> </a> </div>
+</td>
+<td class="maintab2" width="30%">
+<div align="center"> <a href="http://www.eventbee.com/portal/eventdetails/events.jsp?evttype=class&amp;UNITID=13579">
+<span class="tabfont">Classes</span> </a> </div>
+</td>
+<td class="maintab2" width="40%">
+<div align="center"> <a href="http://www.eventbee.com/portal/hub/clubsview.jsp">
+<span class="tabfont">Communities</span> </a></div>
+</td>
+</tr>
+
+</tbody></table>
+</td></tr>
+<tr bgcolor="blue"><td height="1" colspan="2"></td></tr> 
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
 
 
-
-		<table width="100%" border="0" cellpadding="5" cellspacing="0">
-			<tbody><tr>
-			  <td height="40" valign="bottom" width="19%">
-			    <div align="left"><a href="http://www.eventbee.com/portal/home.jsp">
-				<img src="/home/images/logo_big.jpg" border="0"><br><img src="/home/images/caption.jpg" border="0"></a></div>
-			  </td></tr>
-		</tbody></table>
-	</td>
-	<td width="47%" height="60" valign="top">
-		<table width="100%" align="center" border="0" cellpadding="5" cellspacing="0"><tbody><tr>
-			<td width="50%" colspan="20" height="55" valign="middle" align="center">
-			  <div align="right">
-			  
-			  
-				  
-				  <font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333">  </font>
-				   <a href="http://www.eventbee.com/portal/guesttasks/signup.jsp?isnew=yes&amp;entryunitid=13579" style="text-decoration: none">
-
-				  <b><span class="headerfont">Sign Up</span></b>
-				  </a>
-				   <font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> |  </font>
-				 
-				  <a href="http://www.eventbee.com/portal/community.jsp" style="text-decoration: none">
-				  				  <b><span class="headerfont">Login</span></b>
-				  </a>
-
-			  
-			    <font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> |  </font>
-				 
-			  <a href="http://help.eventbee.com" target="_blank" style="text-decoration: none">
-			 			  				<b><span class="headerfont">Help</span></b>
-			 			  				</a>
-			 			  				<font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> | </font>
-			 			  				<a href="javascript:popupwindow('http://www.eventbee.com/home/links/livechat.html','Tags','600','400')" style="text-decoration: none">
-			 			  				<b><span class="headerfont">Chat</span></b>
-				</a>
-			<!--<font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#333333"> | </font>
-			  <a href="javascript:popupwindow('http://www.eventbee.com/home/links/FAQ.html','','800','600');" STYLE="text-decoration: none">
-			  <b><span class="headerfont">FAQ</span></b>
-			  </a>-->
-			  </div>
-
-			</td>
-		  </tr>
-
-  <tr>
-   
-		  <td class="maintab2" width="30%" height="15">
-	            <div align="center"> <a href="http://www.eventbee.com/portal/eventdetails/events.jsp?evttype=event&amp;UNITID=13579">
-	              <span class="tabfont">Events</span> </a> </div>
-	          </td>
-		  
-		  <td class="maintab2" width="30%">
-		    <div align="center"> <a href="http://www.eventbee.com/portal/eventdetails/events.jsp?evttype=class&amp;UNITID=13579">
-		      <span class="tabfont">Classes</span> </a> </div>
-	          </td>
-		  
-		   <td class="maintab2" width="40%">
-	            <div align="center"> <a href="http://www.eventbee.com/portal/hub/clubsview.jsp">
-	              <span class="tabfont">Communities</span> </a></div>
-	          </td>
-		  
-		</tr></tbody></table></td></tr>
-	        <tr bgcolor="blue">
-	          <td height="1" colspan="25"></td>
-        </tr> 
-      </tbody></table>
-    
-    
-
-    </td>
-
-  </tr>
- </tbody></table>
- 
- 
- 
+<script>
+ 	createFBSectionForHeader();
+</script>
 
 
                 	 </td></tr>
@@ -395,7 +441,7 @@
 						of Service</span></a><span class="footertab"> | </span><a href="/portal/helplinks/trademarks.jsp" style="text-decoration: none"><span class="footertab">Trade
 						Marks</span></a><span class="footertab"> | </span><a href="/portal/helplinks/contact.jsp" style="text-decoration: none"><span class="footertab">Contact</span></a>
 			<span class="footertab">  |  </span><a href="http://blog.eventbee.com" style="text-decoration: none"><span class="footertab">Blog</span></a>
-			<span class="footertab">  |  </span><a href="http://twitter.eventbee.com/" style="text-decoration: none"><span class="footertab">Twitter</span></a>
+			<span class="footertab">  |  </span><a href="http://twitter.com/eventbee/" style="text-decoration: none"><span class="footertab">Twitter</span></a>
 			<span class="footertab">  |  </span><a href="http://support.eventbee.com/community/supportcommunity" style="text-decoration: none"><span class="footertab">Community<img src="/home/images/new.gif" border="0"></span></a><br>
 			
 			
