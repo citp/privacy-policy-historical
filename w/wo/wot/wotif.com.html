@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the wotif.com privacy policy that was archived on 2008-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081013094929id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wotif.com privacy policy that was archived on 2009-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524123017id_/http%3A//wotif.com/info/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Wotif.com: Privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link href="http://images.wotif.com/stylesheets/global.css" rel="stylesheet" type="text/css">
-<link href="http://images.wotif.com/stylesheets/customer.css" rel="stylesheet" type="text/css">
-<link rel="Shortcut Icon" href="http://images.wotif.com/image/favicon.ico">
+<link href="//images.wotif.com/stylesheets/2/global.css" rel="stylesheet" type="text/css">
+<link href="//images.wotif.com/stylesheets/2/customer.css" rel="stylesheet" type="text/css">
+<link rel="Shortcut Icon" href="//images.wotif.com/image/favicon.ico">
 
 
 
 
 
-<script language="javascript" type="text/javascript" src="http://images.wotif.com/include/common.js"></script>
+<script language="javascript" type="text/javascript" src="//images.wotif.com/include/1/common.js"></script>
 
 
 
-<script language="javascript" type="text/javascript" src="http://images.wotif.com/__utm.js"></script>
+<script language="javascript" type="text/javascript" src="//images.wotif.com/__utm.js"></script>
 
 
 </head>
@@ -29,12 +29,12 @@
 
 
 
-<!-- Generated at 13Oct2008 19:49:28.543 -->
+<!-- Generated at 24May2009 22:30:14.535 -->
 
 <div id="topnav">
 	
 		
-  			<a href="/"><img src="http://images.wotif.com/image/wotif_logo.gif" hspace="0" vspace="0" alt="Wotif.com" border="0" class="leftarea">
+  			<a href="http://www.wotif.com/"><img src="//images.wotif.com/image/wotif_logo.gif" hspace="0" vspace="0" alt="Wotif.com" border="0" class="leftarea">
             </a>
 		
 		
@@ -49,11 +49,15 @@
         <li><a href="http://info.wotif.com/about_us"><span>About Us</span></a></li>
 		<!-- contact us link -->
 		
-		<li><a href="/info/ContactUs" rel="nofollow"><span>Contact Us</span></a></li>
+		<li><a href="http://www.wotif.com/info/ContactUs" rel="nofollow"><span>Contact Us</span></a></li>
 	</ul>
   	
 
-    <img src="http://images.wotif.com/image/topnav_right_curve.gif" hspace="0" vspace="0" alt="" class="rightarea">
+    <a href="http://promo.wotif.com/threemths" rel="nofollow">
+        <img src="//images.wotif.com/image/three-months.gif" hspace="0" vspace="0" alt="" class="month-promo">
+    </a>
+    
+    <img src="//images.wotif.com/image/topnav_right_curve.gif" hspace="0" vspace="0" alt="" class="rightarea">
 
 	<ul id="secondary">
 	
@@ -73,7 +77,7 @@
 
 
 
-<!-- Generated at 13Oct2008 19:49:28.545 -->
+<!-- Generated at 24May2009 22:30:14.536 -->
 
 
 	<h1>Privacy</h1>
@@ -213,7 +217,7 @@
 
 
 
-<!-- Generated at 13Oct2008 14:29:51.251 -->
+<!-- Generated at 23May2009 22:40:33.434 -->
 <script type="text/javascript">
 var azElement = null;
 var timer = null;
@@ -242,8 +246,8 @@ function hide(element)
 
 <div id="footernav">
     <div id="footer">
-        <img src="http://images.wotif.com/image/footer_left_curve.gif" hspace="0" vspace="0" alt="" class="leftarea">
-        <img src="http://images.wotif.com/image/footer_right_curve.gif" hspace="0" vspace="0" alt="" class="rightarea">
+        <img src="//images.wotif.com/image/footer_left_curve.gif" hspace="0" vspace="0" alt="" class="leftarea">
+        <img src="//images.wotif.com/image/footer_right_curve.gif" hspace="0" vspace="0" alt="" class="rightarea">
         <ul>
             <li><a href="/info/TermsAndConditions" title="Terms and Conditions for this service." rel="nofollow">Terms &amp; Conditions</a> |</li>
             <li><a href="/info/Privacy" title="Privacy notices for this service." rel="nofollow">Privacy</a> |</li>
@@ -292,7 +296,7 @@ function hide(element)
     </p>
 
     <div id="copyright">
-        <p>© Copyright 2008 Wotif.com Holdings Limited. ABN 41 093 000 456.</p>
+        <p>© Copyright 2009 Wotif.com Holdings Limited. ABN 41 093 000 456.</p>
     </div>
     <br>
 </div>
@@ -316,7 +320,15 @@ if(ourPageName != 'null') {
 s.eVar34=s.getQueryParam("stlcmpid")
 s.eVar35=s.getQueryParam("affiliateId")
 s.eVar36=s.getQueryParam("affiliateSource")
-        
+
+var startDayIso = s.getQueryParam("startDay");
+if (startDayIso != '' && todayDateString.type != "undefinded") {
+    s.prop26 = (parseDate(startDayIso)-parseDate(todayDateString))/(3600*1000*24);
+    s.prop27 = startDayIso;
+    s.eVar42 = s.prop26;
+    s.eVar43 = s.prop27;
+}
+
 s.prop1='customer'
 s.eVar2='customer'
 
