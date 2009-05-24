@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the icmrindia.org privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914102132id_/http%3A//www.icmrindia.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmrindia.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084319id_/http%3A//www.icmrindia.org/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | ICMR
+# Privacy Policy - Cases, Case Studies, Case Study in Business, Management | Case Volumes | Case Pack
+
+  | 
 
 ICMR is committed to respecting your privacy and recognize your need for appropriate protection and management of personal information you share with us (such as name, email Id, address, phone no., etc). We believe it is important for you to know, how we treat the information about you, which we receive on the Internet.
 
@@ -10,10 +12,14 @@ ICMR does not engage in or support spamming or misuse of email addresses.
 
 We do our best to maintain the accuracy of personal information you supply to us; we are working on tools that will allow you to review and update your information in the future. We will take appropriate steps to protect the information you share with us from unauthorized access or disclosure. 
 
-We are committed to privacy. Personal data privacy is a new and evolving area, and ICMR is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments, suggestions or questions regarding our privacy policy, please contact us at [support@icfai.org](mailto:support@icfai.org). We will address any issue to the best of our abilities. 
+We are committed to privacy. Personal data privacy is a new and evolving area, and ICMR is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments, suggestions or questions regarding our privacy policy, please contact us at [info@icmrindia.org](mailto:info@icmrindia.org). We will address any issue to the best of our abilities. 
 
 [www.icmrindia.org](http://www.icmrindia.org/ "Case Studies in Business, Management") may contain links to other sites. While we try to link to only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. 
 
 By using this site, you signify your acceptance to the ICMR Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the ICMR Website following the posting of changes to these terms will mean you accept those changes. 
 
 We thank you for your support of these policies.
+
+  
+|     
+---|---|---
