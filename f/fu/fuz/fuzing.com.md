@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024633id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084249id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
 
 # Fuzing.com! - Privacy Policy
-
-[](http://www.truste.org/ivalidate.php?url=www.fuzing.com&sealid=101)
-
- 
 
 PRIVACY POLICY
 
@@ -16,9 +12,7 @@ Fuzing.com and Fuzing, Inc. (The legal owner and the operator of this site) trea
 
 The services that Fuzing.com provides you with may require that we gather, process, use and distribute your member information which you provide by filling out our various forms and formats; for example, your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Fuzing.com does not guarantee that your information will be protected from exposure to any particular party. In fact the purpose of this e-marketplace is to set up a virtual online trade show that facilitates making you and your company as well-known as possible. If you wish to remove your company’s information from Fuzing.com you may do so at any time by contacting us (see section below on how to Contact Us). If you wish to update your company’s information, you may do so by logging in to your account and making those changes.
 
-Fuzing.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.fuzing.com](http://www.fuzing.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Peter Beresford by telephone at +1-720-221-4469, or in writing to: Fuzing, Inc., 5551 Sunshine Canyon Dr., Boulder, Colorado 80302, USA. If you do not receive acknowledgement of you inquiry or your inquiry has not been satisfactorily addresses, you should contact TRUSTe at: http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.  
+If you have questions or concerns regarding this statement, you should first contact Peter Beresford by telephone at +1-720-221-4469, or in writing to: Fuzing, Inc., 5551 Sunshine Canyon Dr., Boulder, Colorado 80302, USA.  
 
 
 1\. The Information We Collect 
