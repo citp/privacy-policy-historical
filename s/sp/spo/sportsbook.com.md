@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221120518id_/http%3A//www.sportsbook.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525004414id_/http%3A//www.sportsbook.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
