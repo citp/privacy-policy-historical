@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210085434id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151439id_/http%3A//www.wjactv.com/station/18334809/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WJAC-TV News Story - WJAC Johnstown
 
-Effective date: 2/6/03 
+Effective date: 2/4/03 
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by WJAC, Inc., d/b/a WJAC-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-James Edwards  
-WJAC-TV  
+Dick Schrott   
+Vice President & General Manager  
+WJAC-TV/DT  
 49 Old Hickory Lane  
-Johnstown, PA 15905  
-[jim.edwards@coxtv.com](mailto:jim.edwards@coxtv.com)
+Johnstown, PA 15905
 
  **CHILDREN'S PRIVACY**
 
@@ -40,7 +40,7 @@ We also may use cookies to allow third parties to better serve advertisements to
 
  **Other Methods of Collecting Information.** Our web pages may contain electronic images (called "single-pixel GIFs" or "web beacons") that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us.
 
- **Browser Level Information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
+Browser Level Information and IP Addresses. Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
 
  **DISCLOSURE OF INFORMATION**
 
@@ -48,9 +48,7 @@ We also may use cookies to allow third parties to better serve advertisements to
 
  **Vendors and Service Providers.** To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers ("Provider Partners"). Our chat, email newsletters, email services and online classifieds for example, may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Provider Partners will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies, which you can find on their websites.
 
- **Our Affiliates.** We may share the information that we collect from you with our parent company, Cox Enterprises, Inc. and with any wholly or majority-owned subsidiary of Cox Enterprises, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
-
- **Statistical Information.** Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
+ **Our Affiliates.** We may share the information that we collect from you with our parent company, Cox Enterprises, Inc. and with any wholly or majority-owned subsidiary of Cox Enterprises, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you. Statistical Information. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
 
  **Sites to Which We Link.** Of course, our site includes links to plenty of other websites, and provide access to products and services offered by third parties, whose privacy policies we don't control. When you access another site or purchase products or services or conduct other transactions through our sites, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services, even if it appears that you're on WJAC-branded pages.
 
@@ -77,3 +75,5 @@ All information gathered on our site is stored within a database operated by us 
  **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
+
+ _Copyright 2008 by[WJACTV.com](mailto:johnnews@wjactv.com). All rights reserved. This material may not be published, broadcast, rewritten or redistributed._
