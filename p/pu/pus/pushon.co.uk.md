@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913021447id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524153915id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy and Legal: PushON
+# Privacy
 
 ## Use of our Website
 
@@ -33,7 +33,8 @@ We use IP addresses and [CGI data](http://www.pushon.co.uk/privacy-legal.htm#cgi
 
 Under normal circumstances we manage all our administration and handling of enquiries in-house and therefore never pass on your personal information to third parties, except when required to do so by law.
 
-However, there may come a time when we will need to pass your personal information to another third party.  If such an event occurs we will notify you by email at the time of such transfer, provide you with the reason for the transfer of information and a means for opting out. If you do not agree to this you should not volunteer personal information on our site.
+However, there may come a time when we will need to pass your personal information to another third party.  If such an event occurs we will notify you by email at the time of such transfer, provide you with the reason for the transfer of information and a means for opting out. If  
+you do not agree to this you should not volunteer personal information on our site.
 
 ### Linked sites
 
@@ -51,4 +52,4 @@ You can ask us to amend any information we hold on you or remove you from any se
 
 We keep your information stored on information systems protected by passwords in premises secured by 24/7 monitored alarms.
 
-**CGI** \- basically standard data passed between a user's browser and a server to determine what operating system and other settings are enabled on users’ computers to enable the proper functioning of a browser session.
+**CGI** \- basically standard data passed between a user’s browser and a server to determine what operating system and other settings are enabled on users’ computers to enable the proper functioning of a browser session.
