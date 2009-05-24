@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152952id_/http%3A//www.searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524053517id_/http%3A//www.searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
 
-# searchengine.com - finance
+# searchengine.com - Welcome to the leading search engine
 
   
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [searchengine.com](http://searchengine.com/) (the "Website"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
