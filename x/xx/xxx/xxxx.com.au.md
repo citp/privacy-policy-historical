@@ -1,173 +1,97 @@
-> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215190219id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525144638id_/http%3A//www.xxxx.com.au/brandhub/privacy.php) for the most accurate reproduction.*
 
-# XXXX
+# XXXX Privacy Policy
 
-> The purpose of this document is to tell you how Castlemaine Perkins Pty Limited (“XXXX ”, “we or “us”) manages your personal information.  We may vary the XXXX Privacy Policy from time to time.  We will notify you of any changes by publishing them on XXXX web sites.
-> 
-> XXXX is committed to the protection of your personal information. XXXX Privacy Policy tells you what sort of personal information we will typically hold, for what purpose and how we collect, hold, use, disclose and protect that personal information. 
-> 
-> Our Privacy Policy contains the following important information: 
-> 
-> [Security of your information](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#1)  
-> [Disclosure of your information](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#2)  
-> [Collection of your personal information](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#3)  
-> [How we use the personal information you give us](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#4)  
-> [How we use information gathered from site usage](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#5)  
-> [How & when you can Opt In to receive communication](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
-> [How & when you can Opt Out of receiving communication](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
-> [How to access, correct or update your information](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#7)  
-> [What else you should know about Privacy](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#8)  
-> [How to contact us](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#9)
-> 
-> When you visit a XXXX web site, you are encouraged to read the information provided on the XXXX sites you are using each time you enter them. 
-> 
-> If you have any concerns, questions or complaints regarding privacy and management of your personal data by XXXX, please use the [Contact Us](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/ContactUs/default.asp) button or email us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
-> 
-> **_**__****__**Security of your information_**
-> 
-> We take all reasonable steps to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons for legitimate business purposes.  Data transmissions sent to or from XXXX are routinely monitored for quality control.  Unfortunately, as you may know, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of the passage of any information you transmit to us or receive from us. These activities are conducted at your own risk.  However, once we receive your data transmission, we take all reasonable steps to ensure its security. 
-> 
-> **_Secure destruction of your information_**
-> 
-> XXXX takes all reasonable steps to ensure your personal information is securely destroyed or de-identified when it is no longer needed for any purpose for which it was collected.
-> 
-> **_**_Disclosure of your information_**_**
-> 
-> The information we collect from you is held in accordance with all applicable privacy laws, industry codes and policies. XXXX will not reveal, disclose, sell, distribute, rent, licence, share or pass that information on to any third parties for marketing purposes.
-> 
-> However, XXXX may contract with third party organisations to administer and manage the data we collect from time to time. These organisations are required to keep all information confidential, or are subject to a statute or binding scheme, which imposes equivalent restrictions regarding the handling of personal information. 
-> 
-> Subject to the exceptions below, if we wish to use or disclose any of your personal information or data for any purpose other than those specified to you at the time of collection, we will not do so unless:
-> 
-> ·         we have notified you of the organisation(s) that will be receiving the data; and
-> 
-> ·         you have explicitly given us permission to do so by opting to receive third party offers when you registered on the site or at any subsequent point after registration. 
-> 
-> _**Exceptions to XXXX policy of non-disclosure**_
-> 
-> In certain circumstances we may disclose or use your personal information, for a purpose (“new purpose”) other than the primary purpose which is specified to you at the time of collection.
-> 
-> This will occur when:
-> 
-> ·  you would reasonably expect us to disclose the information for that   
->    new purpose; 
-> 
-> ·  the new purpose we plan to use your personal information for is   
->    related to the primary purpose that we initially disclosed to you on   
->    collection; and 
-> 
-> ·  it is impracticable for us to seek your consent.
-> 
-> In particular, XXXX reserves its rights to use or disclose your personal information:
-> 
-> ·  where there are reasonable grounds to believe that disclosure is   
->    necessary to prevent a serious and imminent threat to life or health;   
->    or
-> 
-> ·  where XXXX has reason to suspect that unlawful activity is or has   
->    been engaged in and uses or discloses your personal information or   
->    data to investigate that suspected unlawful activity; or 
-> 
-> ·  where the use or disclosure is authorised or required by law or   
->    where XXXX reasonably believes that it is reasonably necessary to   
->    enforce the law or prevent a criminal offence.
-> 
->   
-> **_**_Collection of your personal information_**  
-> _**  
->  When XXXX collects your personal information via the Internet, competitions, surveys, promotional coupons and any other media we use to collect your personal information we will inform you of how the information will be used and disclosed. In all cases, your information will be held in accordance with all applicable privacy laws, industry codes and policies.
-> 
-> We will not collect sensitive information about you, which may reveal specific personal preferences or traits (including, for example, racial or ethnic origin, or your political views, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation) without your express consent.
-> 
-> The types of personal information that we generally collect from you will depend on the purpose for which you are providing your personal information. The information that we may collect will be gathered from what you choose to provide to us and, in the case of the Internet, from what we track through your use of our web sites.
-> 
->   
-> **_**_How we use the personal information you give us  
-> _**  
-> _**
-> 
-> We use your personal information for a number of reasons including:
-> 
-> **Date of Birth**
-> 
-> We need to ask for your date of birth to ensure that you are of legal drinking age. If you are not 18 years of age or over then you may not use a XXXX website. 
-> 
-> **Your contact details**
-> 
-> Contact information that we collect, such as name, e-mail address and phone number, is used for identification purposes and to allow us to contact you with personalised information on promotions and offers. You may opt out of receiving these communications by any or all of the contact methods you have provided at any time.  See the “How & when you can ‘Opt‑Out’ of receiving communication” section below for details.
-> 
-> **Gender**  
->  We may ask you to provide gender information to enable us to monitor the increasing involvement of women in the beer category and to tailor our marketing programs more effectively.
-> 
-> **Additional information about you and your interests**  
->  We may ask you to provide details of your drinking habits and preferred beer brands to enable us to understand our marketplace better and to tailor our marketing programs more effectively.
-> 
-> **Other information**  
->  From time to time we may also ask you to provide us with information on your wider interests either directly or through your participation in competitions, surveys, promotional coupons and the like. This information will be used to ensure that our marketing activities and communications are tailored to your needs and interests. We may also contact you with details of offers and activities, which we believe may be of interest to you based on the information you have provided to us. You will be given the option to opt out of receiving further communication in each instance.
-> 
-> **_**_How we use information gathered from site usage_**_**
-> 
-> **Your unique use of a XXXX web site**  
->  We may record information that we access automatically on your use of a XXXX web site, what areas of activity you participate in when you are there and where you have come into the site from. This usage information is used by us to monitor and improve the web site and our service to you.
-> 
-> **General XXXX web site usage**  
->  XXXX aggregates the data that is gathered from all individual users of XXXX web sites for analysis purposes (for example, we obtain information regarding web trends and web usage). Personally identifiable characteristics are removed and users remain anonymous, unless they have given prior specific consent for XXXX to recognise their usage.
-> 
-> This information may be shared with third parties for the purpose of examining general web and Internet trends and demographics and for measuring the site’s performance.
-> 
-> We may use or disclose this personal information or data for a purpose other than the primary purpose (specified above) if you would reasonably expect us to use the personal information for that other purpose, the other purpose is related to the primary purpose and it is impracticable for us to seek your consent. 
-> 
-> **_**_How & when you can 'Opt In' to receive communication_**_**
-> 
-> XXXX will provide you an express opportunity to make a request to receive further marketing communications from XXXX, via an "opt-in" mechanism. You may opt in when you register on a XXXX website.
-> 
-> You may opt in at anytime after that by contacting XXXX by email via the Contact Us link on a XXXX website and notifying us that you wish to receive further communications from XXXX.
-> 
-> **_**_How & when you can 'Opt Out' of receiving communication_**_**
-> 
-> You will not receive marketing communications from XXXX unless you have expressly “opted in” to receive them.
-> 
-> We will provide you an XXXX, via an "opt-out" mechanism. You may opt out at any time after you have Opted In  by using the following options:
-> 
-> ·  clicking on the Opt Out box, which will be included in any   
->    communication which you receive from XXXX; or 
-> 
-> ·  contacting XXXX by email via the Contact Us link on a XXXX website   
->    and notifying us that you do not wish to receive further  
->    communications  from XXXX. 
-> 
-> **_**_How to access, correct or update your information_**_**
-> 
-> You may request access to and correction of all personal information which XXXX holds about you at any time, by sending an email via the [Contact Us](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the XXXX website or emailing us at consumerprivacy@xxxx.com.au.  Your request will be processed in a reasonable time.  There is no fee for requesting access to your information, however you may be charged the reasonable cost of processing your request.
-> 
->   
-> XXXX reserves the right to decline to correct or update personal information about you where:
-> 
-> ·  providing access would be unlawful, would be likely to prejudice an    
->    investigation of possible unlawful activity, would be likely to    
->    prejudice law enforcement activities, or denying access is   
->    specifically authorised by law; or 
-> 
-> ·  your request for access is frivolous or vexatious; or
-> 
-> ·  providing access would have an unreasonable impact upon the    
->    privacy of other individuals; or
-> 
-> ·  providing access would reveal the intentions of XXXX in relation to    
->    negotiations with you in such a way as to prejudice those   
->    negotiations; or
-> 
-> ·  providing access would reveal evaluative information generated   
->    within XXXX in connection with a commercially sensitive decision   
->    making process.
-> 
-> If XXXX declines you access to your personal information or refuses to correct your personal information, we will provide you with the reasons for our decision.  
-> 
-> 
-> **_**_What else you should know about privacy_**_** Remember that you will have to exercise reasonable care when accessing, or providing information, where you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. For further Privacy information, please refer to The Australian Privacy Commissioner’s Web Site by linking to [http://www.privacy.gov.au/](http://www.privacy.gov.au/).
-> 
-> **_**_How to contact us_**_**
-> 
-> If you have any concerns, questions or complaints regarding privacy and management of your personal data, please contact XXXX by using the [Contact Us](https://web.archive.org/web/20051215190219id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the website or by emailing us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
-> 
-> Thank you for taking the time to read the XXXX Privacy Policy.
+Lion Nathan Limited (“Lion Nathan”) is committed to protecting the privacy of any personal information it holds about individuals in accordance with the applicable laws. Lion Nathan has implemented measures to comply with its obligations under the relevant Australian and New Zealand privacy laws.  
+Why does Lion Nathan collect my personal information?  
+Lion Nathan collects your personal information to allow it to perform its business functions. For example, Lion Nathan may collect your personal information to enable you to participate in a Lion Nathan promotion or to allow Lion Nathan to market its current and future products and services to you.  
+What personal information does Lion Nathan collect?  
+The types of personal information Lion Nathan collects will depend on the nature of your dealings with Lion Nathan and may (but does not always) include:
+
+  * your name;
+  * gender;
+  * date of birth;
+  * address;
+  * personal and/or work contact details (e.g. phone numbers and email addresses); and/or
+  * payment details (e.g. credit card number). 
+
+
+
+If necessary, Lion Nathan may also ask you to provide it with additional personal information from time to time.
+
+Importantly, Lion Nathan does not collect any personal information it does not need to perform a business function, and generally it will not collect any information about you without your prior consent.  
+What if you don’t provide Lion Nathan the personal information it requires?  
+If you can’t, or won’t, provide Lion Nathan with the personal information it reasonably requires, Lion Nathan may be unable to provide you with the information, goods or services you have requested.  
+How does Lion Nathan collect my personal information?  
+Lion Nathan tries to collect personal information directly from you. That collection generally occurs when you:
+
+  * request information from, or have dealings directly with Lion Nathan or one of its related companies;
+  * participate in a competition or trade promotion conducted by Lion Nathan or one of its related companies;
+  * participate in a survey conducted by Lion Nathan or one of its related companies;
+  * purchase tickets or merchandise from a website operated by Lion Nathan or one of its related companies;
+  * access or request information from Lion Nathan’s website or the website of one of its related companies; or
+  * provide information to Lion Nathan’s customer service call centre. 
+
+
+
+In some circumstances however, Lion Nathan may also collect your personal information from third parties, but where it does so, it will ensure that it acts in accordance with relevant privacy laws.
+
+Lion Nathan will take reasonable steps to ensure that you are aware of the purposes for which it collects your personal information.  
+How does Lion Nathan use my personal information?  
+Lion Nathan uses your personal information for purposes including (but not limited to):
+
+  * providing you with the Lion Nathan goods or services you request;
+  * promoting and marketing Lion Nathan’s current and future products and services to you;
+  * informing you of upcoming events, special promotions and offers, discounts and other matters which Lion Nathan considers may be of interest to you;
+  * conducting research (including but not limited to client surveys) concerning Lion Nathan’s current and future products or services; and
+  * to improve the operation or navigation of Lion Nathan’s website. 
+
+
+
+Lion Nathan may also use your personal information for other purposes not listed above which will be made obvious to you at the time Lion Nathan collects that information, or for such purposes as may be required or permitted by law.
+
+If Lion Nathan uses your personal information for direct marketing purposes, all correspondence sent to you by Lion Nathan will give you the opportunity to “opt out” of receiving any further direct marketing correspondence.  
+Will Lion Nathan give your personal information to anyone else?  
+In providing you the information, goods or services you request, Lion Nathan may be required to disclose your personal information to:
+
+  * Lion Nathan’s related companies (including those located in Australia and New Zealand); and
+  * Lion Nathan’s consultants, contractors and service providers performing services including (but not limited to) legal and accounting services, credit reporting, mail-house, transport and printing services. 
+
+
+
+Other than those third parties referred to above, Lion Nathan will not disclose your personal information to any other third party unless it has reasonable grounds to believe:
+
+  * you have authorised Lion Nathan to do so;
+  * your safety, or the safety of others in the community, is at risk; or
+  * Lion Nathan is required or permitted by law to do so. 
+
+
+
+If Lion Nathan provides your personal information to a third party, Lion Nathan generally requires the third party to protect your personal information in the same way Lion Nathan does.  
+Is my personal information secure?  
+Lion Nathan takes reasonable steps to ensure personal information it holds about you is protected from risks such as loss, unauthorised access, use, destruction, modification or disclosure. Lion Nathan only permits its authorised personnel or consultants to access your personal information for legitimate business purposes.
+
+No data transmission over the internet is totally secure. As a result, any personal information you send to Lion Nathan over the Internet (including via email) is sent at your own risk.
+
+If Lion Nathan determines it no longer requires your personal information, Lion Nathan will take reasonable steps to de-identify or securely destroy that information as soon as practicable.  
+Your rights of access and correction  
+The accuracy of your personal information is important. Lion Nathan takes reasonable steps to ensure personal information it holds about you is accurate, complete, up-to-date, relevant and not misleading. If you believe that any personal information Lion Nathan holds about you is incorrect, please contact Lion Nathan’s Privacy Officer by email to privacy@lion-nathan.com.au with details of the relevant updated information.
+
+You have a general right to access the personal information Lion Nathan holds about you. You may contact Lion Nathan’s Privacy Officer to request details of your personal information by email to privacy@lion-nathan.com.au. Lion Nathan can deny your request in some circumstances and if it does so, will provide you with written reasons for that denial.
+
+While there is no fee for requesting access to the personal information Lion Nathan holds about you, Lion Nathan reserves the right to charge a reasonable fee for the preparation and provision of that information to you.
+
+You also have the right to request the correction of personal information which Lion Nathan holds about you. You may do so at any time by contacting Lion Nathan’s Privacy Officer by email to privacy@lion-nathan.com.au. Lion Nathan does however reserve the right to refuse to correct your information in some circumstances. If Lion Nathan refuses to correct any personal information about you, and subsequent agreement cannot be reached between the parties on this issue, you may request that a note or statement regarding the correction requested be attached to your personal information  
+Changes to this privacy policy  
+Lion Nathan reserves the right to change this Privacy Policy from time to time. If Lion Nathan changes this Privacy Policy, it will post a copy of the updated policy on this website and your continued use of this website following that posting will constitute your acceptance of the terms of the updated policy.  
+How do I obtain more information or lodge a privacy complaint?  
+If you:
+
+  * require further information regarding this Privacy Policy or any other steps Lion Nathan has taken to protect your personal information or privacy; or
+  * have any concerns or a complaint regarding Lion Nathan’s privacy practices or its management of your personal information, 
+
+
+
+Please contact Lion Nathan’s Privacy Officer by email to [privacy@lion-nathan.com.au](mailto:privacy@lion-nathan.com.au).
+
+Lion Nathan will endeavour to respond to you within 20 business days.
