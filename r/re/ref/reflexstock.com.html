@@ -1,26 +1,32 @@
-<!--The following is the downloaded HTML source of the reflexstock.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220141342id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reflexstock.com privacy policy that was archived on 2009-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090525140459id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-	<base href="http://www.reflexstock.com/index.cfm?dynURLmode=page&amp;page=privacy-policy">
-	
+<base href="http://www.reflexstock.com/">    
 
-<title>Stock Photography: Premium Royalty Free Photos And Rights Managed Images, Illustrations And Vector Art | Reflexstock.com</title>
-<meta name="description" content="Reflex stock photography, leading supplier of royalty free stock photos, images and illustrations. Search our stock library and purchase royalty free or rights managed stock photos at reflexstock.com.">
-<meta name="keywords" content="stock photography, stock image, royalty free, stock photos, image search, online photos, photography, photo search, photo sharing, reflexstock, rights managed, digital stock, high resolution, stock photo, vector art, illustrations">
+
+
+
+<title>Stock Photos privacy policy, Royalty Free Images &amp; Rights Managed Stock Photography | Reflex Stock </title>
+<meta name="description" content="Stock photography and royalty free images. Search 12 million royalty free stock images, photos and footage. Download stock photography. Purchase royalty free stock photos and rights managed images from reflex stock.">
+<meta name="keywords" content="stock photos, stock images, photo stock, image stock, photos, images, royalty free images, stock photography, royalty free photos, photo search, stock, royalty-free, rights managed images, photo collection, image gallery, rights managed photos, stock footage, vector art, illustrations">
 <meta name="copyright" content="Reflex Stock">
 <meta name="language" content="en">
 <meta name="verify-v1" content="mv18GktxV2ljvRjg5PCjPc/FFzlkTW/lPeMU6v7FTK4=">
 
 
-	<link rel="stylesheet" href="Reflexstock/inc/reflexstock.css">
-	<link rel="shortcut icon" href="Reflexstock/img/backgrounds/favicon.ico">
-	
-		<script language="javascript" src="Reflexstock/inc/reflexstock.js" type="text/javascript"></script>
-	
-	<script language="JavaScript" src="Reflexstock/inc/popupscript.js" type="text/javascript"></script>
-	
+
+
+	<script language="javascript" src="Reflexstock/inc/reflexstock.js" type="text/javascript"></script>
+
+	<script language="JavaScript" src="popupscript.js" type="text/javascript"></script>
+<link href="Reflexstock/inc/stylesheet.css" type="text/css" rel="stylesheet">
+<link href="Reflexstock/inc/default.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="Reflexstock/img/backgrounds/favicon.ico">
+
+
+
 
 
 
@@ -31,6 +37,7 @@
 
 
 	<script language="JavaScript">
+	var advSearchIsOpen = 0;
 	
 	//bookmark function
 	function bookmark(url, description)
@@ -57,7 +64,7 @@
 		extIntCode = (extIntCode==null)?0:extIntCode;
 		if(puttype=='1'){//lighbox
 			
-			alert("You need to be logged in in order to use lightboxes.");
+				alert("You need to be logged in in order to use lightboxes.");
 			
 		}
 		else{//add to basket
@@ -439,17 +446,72 @@
 
 	}
 	
-	</script>
+	function hideadvanced(todo){
+		var todo2='none';
+		
+		if (todo=='none'){
+			todo2='block';
+			advSearchIsOpen = 0;
+			document.getElementById("showlink").style.display='block';
+			document.getElementById("adv_search_lnk_2").style.display='none';
+			document.getElementById("refine_holder").style.display='none';
+			document.getElementById("advanced_search_tracker").value='0';
+			document.getElementById("searchShowAdvanced").value='0';
+			document.getElementById("mustcontain").value='';
+		}
+		else {
+			advSearchIsOpen = 1;
+			document.getElementById("refine_holder").style.display='block';
+			document.getElementById("nav_user").style.clear='none';
+			document.getElementById("advanced_formx").style.display='block';
+			document.getElementById("showlink").style.display='none'; 
+			document.getElementById("adv_search").style.display='none';
+			document.getElementById("advanced_search_tracker").value='1'
+			document.getElementById("searchShowAdvanced").value='1'
+			document.getElementById("searchShowAdvanced").value='1'
+			document.getElementById("adv_search_lnk_2").style.display='block';
+		}
+		
+		if (document.getElementById("srch_middle_holder") !=null){
+			document.getElementById("adv_search").style.display=todo;
+			if (document.getElementById("dropper") !=null){
+				document.getElementById("dropper").style.display=todo2;
+			}
 	
+			if (todo=='none'){
+				document.getElementById("compIframe2").src='http:\/\/www.reflexstock.com/reflexstock/scripts/setadvancedsearch.cfm?show=none';
+			}
+			else {
+				document.getElementById("compIframe2").src='http:\/\/www.reflexstock.com/reflexstock/scripts/setadvancedsearch.cfm?show=block';
+				if (document.getElementById("showadvancedlink2")!=null){
+					document.getElementById("showadvancedlink2").style.display='none'
+				}
+			}
+		}
+	}
+	
+	function chkAdvFeaturesUsed(){
+		f = document.Searchform;
+		if(!f.orientation[0].checked)
+			return 1;
+			
+		else if(!f.color[0].checked)
+			return 1;
+			
+		else if(!f.people[0].checked)
+			return 1;
+			
+		else if(!f.ethnicity[0].checked)
+			return 1;
+		
+		
+	}
+	
+	function resetAdvFeatures(){
+		
+	}
 
-
-	
-	
-	
-	
-	<script language="JavaScript" type="text/javascript">
-    <!--
-    function setCur(cur){
+	function setCur(cur){
 		document.userCountryForm.usercountry.options[cur].selected = 1;
 		document.userCountryForm.submit();
 	}
@@ -457,1585 +519,135 @@
 	function setCurid(curid){
 		location = 'index.cfm?dynURLmode=page&page=privacy-policy&clearImEx=1&usercountry='+curid;
 	}
-    //-->
-    </script>
-</head>
-
-<body marginheight="0" marginwidth="0" leftmargin="0" bottommargin="0" rightmargin="0" topmargin="0">
-
-<script language="javascript">
-var str;
-var res;
-
-str = (document.location.href.indexOf("https") == 0) ? "https" : "http";
-res = "<s"+"cript language='javas"+"cript'>jsv=10;UserID=3679;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.1'>jsv=11;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.2'>jsv=12;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.3'>jsv=13;<\/s"+"cript>";
-res += "<s"+"cript language='javas"+"cript' src='" + str + ":\/\/tracker.roitesting.com\/roitracker2.js'><\/s"+"cript>";
-document.write(res);
-</script><script language="javascript">jsv=10;UserID=3679;</script><script language="JavaScript1.1">jsv=11;</script><script language="JavaScript1.2">jsv=12;</script><script language="JavaScript1.3">jsv=13;</script><script language="javascript" src="https://tracker.roitesting.com/roitracker2.js"></script>
-
-
-
-
-<table cellspacing="0" border="0" cellpadding="0" align="center" width="100%"> 
-<tbody><tr>
-	<td colspan="1" height="39" style="font-family: 'trebuchet ms', verdana, arial; font-size: 9pt; font-weight: bold; padding-left: 17px;">
-		<em>Premium Royalty Free / Rights Managed Stock Photography, Stock Motion &amp; Images</em>
-	</td>
-	<td align="right" style="padding-right:50px;">
+	</script>
 		
-				
-	</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" border="0" cellpadding="0" align="center" width="100%" class="bottomlineFat"> 
-<tbody><tr>
-	<td height="51" valign="bottom" width="200">
-		<a href="index.cfm?/start_en"><img src="Reflexstock/img/homepage/reflexlogo2.jpg" border="0" hspace="10" alt="Reflex Stock Image Library"></a>
-	</td>
-	<td align="right" height="51" valign="bottom" style="padding-right: 5px;">
-		<table cellspacing="0" cellpadding="0" border="0">
+	
+
+
+<script src="reflexstock/inc/slide.js"></script>
+<script language="JavaScript" src="reflexstock/inc/domtab/domtab.js"></script>
+
+<style type="text/css">
+	@import "reflexstock/inc/domtab/domtab.css";
+</style>
+<!--[if gt IE 6]>
+	<style type="text/css">
+		html>body ul.domtabs a:link,
+		html>body ul.domtabs a:visited,
+		html>body ul.domtabs a:active,
+		html>body ul.domtabs a:hover{
+			height:3em;
+		}
+	</style>
+<![endif]-->
+
+<script type="text/javascript" src="domtab.js"></script>
+<script type="text/javascript">
+	document.write('<style type="text/css">');    
+	document.write('div.domtab div{display:none;}<');
+	document.write('/s'+'tyle>');    
+</script><style type="text/css">div.domtab div{display:none;}</style>
+
+
+
+
+</head>
+<body>
+<base target="_top">
+	
+		<div class="container">
+    	
+		
+	<div class="logo_nav">
+		<div class="logo_click" onclick="window.location='http://www.reflexstock.com/'" style="font-family: 'trebuchet ms', verdana, arial; font-size: 9pt; font-weight: bold;font-style:italic;"><br>Stock Photography: Royalty Free Stock Photos and Rights Managed Images</div>
+		<div class="logo_nav_right">
+			
+				<ul class="login_menu">
+					<li><a href="index.cfm?/login_en">Login</a></li>
+                       <li>|</li>
+					<li><a href="index.cfm?/Register_en">Register</a></li>
+				</ul>
+			
+		</div>
+	</div>
+	
+
+	<div style="clear:both;"></div>
+	
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	<div class="header_nav" style="text-align:center;">
+		<table cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
-			<td></td>
-			<td valign="top" align="right" style="padding-right:50px;">								
-				<table cellspacing="0" cellpadding="0" border="0" valign="bottom">
-                <tbody><tr>
-					<td>
-					<!-- User Account Items when Logged in!-->	
-					<table cellspacing="0" cellpadding="0" border="0">
-					<tbody><tr>
-						
-						
-						
-							<td><a href="index.cfm?/login_en" class="userMenuItemlblue">Login</a></td>
-							<td>&nbsp;|&nbsp;</td>
-							
-							<td><a href="index.cfm?/Register_en" class="nav">Register</a></td>
-							<td>&nbsp;|&nbsp;</td>
-						
-						
-						
-						<td><a href="index.cfm?/basket_en" class="nav">Basket (0)</a></td>
-						
-						
-						
-						
-							<td>&nbsp;</td>
-							<td>
-								
-								<img src="Reflexstock/img/backgrounds/flagusa.gif" border="0">
-								
-							</td>
-						
-					</tr>
-					</tbody></table>	
-				</td>
+			<td width="20%">&nbsp;</td>
+			<td width="60%" align="center">
+				<table cellpadding="0" cellspacing="0" width="930">
+				<tbody><tr>
+					<td align="left">
+						<table cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td class="nav_menu"><a href="index.cfm?/search_en&amp;searchtype=RF,RM" target="_top" class="activemain">all images</a></td>
+							<td class="nav_menu"><a href="index.cfm?/search_en&amp;searchtype=RF" target="_top">royalty free</a></td>
+							<td class="nav_menu"><a href="index.cfm?/search_en&amp;searchtype=RM" target="_top">rights managed</a></td>
+							<td class="nav_menu"><a href="index.cfm?/search_en&amp;searchtype=budget" target="_top">budget rf</a></td>
+						</tr>
+						</tbody></table>
+					</td>
 				</tr>
 				</tbody></table>
-				<br>
-				<table cellspacing="0" cellpadding="0" border="0">
+
+					
+					
+
+			</td>
+			<td width="20%" align="right" id="logout">
+				<table align="right">
 				<tbody><tr>
-					<td><a href="index.cfm?/start_en" class="nav">Home</a></td>
-					<td>&nbsp;|&nbsp;</td>
+					<td><a href="http://www.reflexstock.com/index.cfm" target="_top"><img src="reflexstock/img/backgrounds/home-btn.jpg" alt="Home" title="Home" border="0"></a></td>
 					
-
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/imagesearch.html" class="nav">Image search</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
+					<td>
 					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
 						
-							<td><a href="page/cdstore.html" class="nav">CD store</a></td>
+							<img src="Reflexstock/img/backgrounds/flagusa.gif" border="0" class="curflag">
 						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
 					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/galleries.html" class="nav">Galleries</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
-					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-
-                            <td><a href="page/special-offers.html" class="userMenuItemlblue">Special offers</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
-					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/team.html" class="nav">Team</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
-					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/reflex-rewards.html" class="nav">Reflex Rewards</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
-					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/film-search.html" class="nav">Film search</a></td>
-						
-						
-						<td>
-							&nbsp;|&nbsp;
-						</td>
-					
-                    
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                                      
-                    
-                    		
-                     
-                    
-						
-							<td><a href="page/services.html" class="nav">Services</a></td>
-						
-						
-						<td>
-							
-						</td>
-					
-                   </tr>
-				<tr>
-					<td><img src="Reflexstock/img/spacer.gif" width="1" height="4"></td>
+					</td>
 				</tr>
-                   </tbody></table>
+				</tbody></table>
 			</td>
 		</tr>
 		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-
-	<table cellspacing="0" cellpadding="0" width="1000" align="center">
-		
-			<tbody><tr>
-				<td width="1000" valign="top" colspan="2" height="45" class="bottomlineFat" style="padding-top: 13px;padding-left: 2px;">
-					
-
-
-
-
-<div style="width:100%; padding: 0px; padding-bottom: 13px">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	</div>
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
-	 
-
+	
+	<div id="xbody">
 
 		
-				
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
+		
+		
 		
 
 
 
+<div class="search_nav" id="search_nav">
+    <div id="search_form">
+     
 
 
-	
-	
-	
 
 
-		
-	
-	
-	
-		
-	
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-
-
+<div style="">
 
 
 
@@ -2139,7 +751,484 @@ document.write(res);
 
 
 
+		
 
+
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+	
+		
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+			
+
+	
+		
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+	
+		
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+			
+
+	
+		
+
+
+
+
+
+
+		
 
 
 
@@ -2179,23 +1268,24 @@ function dosearch(tp){
 }
 
 function setAdvanced(val){
-	val = val==null?0:val;
+	val = val==null?1:val;
 	document.searchForm.searchShowAdvanced.value = val;
 	document.searchForm.searchWasSet.value = 1;
 	document.searchForm.submit();
 }
 
 function checkSearchForm(tp){
-	tp = tp==null?1:tp;//tp=0 is quick search, other is full search
 	f = document.searchForm;
 	
 	if(top.searchSubmitted==1){
 		return false;
 	}
 	
-	if(tp!=0){
-		setSearch();
+	if (typeof(document.getElementById("thdirsel")) !=undefined){
+		document.getElementById("thdirhidden").value= get_radio_value('thdirsel','0');
 	}
+	
+	setSearch();
 	
 	if ( (f.criteria.value=='') && (f.imgnr.value=='') && (f.criteriaAll.value=='') && (f.cdtitle.value=='')){
 		return false;
@@ -2206,42 +1296,31 @@ function checkSearchForm(tp){
 
 function setSearch(){//sets the hidden fields for advanced properties
 	f = document.searchForm;
-		
-	getType();
-	
+
 	if(f.criteriaView.value == 'Keywords or image #')
 		f.criteriaView.value = '';
 		
 	if(f.criteriaView.value != ''){
-		
-		if(f.newInres[0].checked){
-			f.criteriaAll.value = f.criteriaView.value;
-		}
-		else{
-			f.criteriaAll.value = f.criteriaAll.value + ' ' + f.criteriaView.value;
-		}
-		
+		f.criteriaAll.value = f.criteriaView.value;
 	}
-
 	
-	if(f.imagecolor_C.value==0 && f.imagecolor_BW.value==0){
-		f.imagecolor_C.value=1;
-		f.imagecolor_BW.value=1;
-	}
-	if(f.imageOrient_P.value==0 && f.imageOrient_L.value==0 && f.imageOrient_S.value==0){
-		f.imageOrient_P.value=1;
-		f.imageOrient_L.value=1;
-		f.imageOrient_S.value=1;
-	}
+	getType();
+	extraConditions();
 
-
-	f.imagecolor_C.value = (f.chkbx_imagecolor_C.checked==1)?1:0;
-	f.imagecolor_BW.value = (f.chkbx_imagecolor_BW.checked==1)?1:0;
-	f.imageOrient_P.value = (f.chkbx_imageOrient_P.checked==1)?1:0;
-	f.imageOrient_L.value = (f.chkbx_imageOrient_L.checked==1)?1:0;
-	f.imageOrient_S.value = (f.chkbx_imageOrient_S.checked==1)?1:0;
-	f.imageAvail_CD.value = 1;//(f.chkbx_imageAvail_CD.checked==1)?1:0;
-	f.imageAvail_S.value = 1;//(f.chkbx_imageAvail_S.checked==1)?1:0;
+	if (document.getElementById("advanced_search_tracker").value==1){
+		//get new script for getting orientation, colortype etc
+		getnewFilters();
+		
+		if(f.imagecolor_C.value==0 && f.imagecolor_BW.value==0){
+			f.imagecolor_C.value=1;
+			f.imagecolor_BW.value=1;
+		}
+		if(f.imageOrient_P.value==0 && f.imageOrient_L.value==0 && f.imageOrient_S.value==0){
+			f.imageOrient_P.value=1;
+			f.imageOrient_L.value=1;
+			f.imageOrient_S.value=1;
+		}
+	}
 	
 	getBrandFilter();
 	
@@ -2250,71 +1329,188 @@ function setSearch(){//sets the hidden fields for advanced properties
 
 function getType(){//upon submit, check the type radiobuttons
 	f = document.searchForm.elements;
-	proceed=1;
-	f.alamy_mr.value=1;
 	
-	if((document.searchForm.cdtitle.value!='') && (document.searchForm.criteriaAll.value=='') && (document.searchForm.criteriaNot.value=='') && (document.searchForm.imgnr.value=='')){
+	tp = 'RF';
+	bud = 0;
+	
+	//collectiefilters worden hier uitgezet obv type. Later in brandfilter() wordt alsnog een eventuele specifieke selectie toegepast.
+	f.brandsToFilter.value='';
+	f.brandFilter.value='0';
+	
+	if(bud==2){
+		f.imagetype.value = 'RF';
+		f.budgetimages.value = 2;
+	}
+	else if(tp=='all' || tp=='RF,RM'){
+		f.imagetype.value = 'RF,RM';
+		f.budgetimages.value = 1;
+	}
+	else if(tp=='RF'){
+		f.imagetype.value = 'RF';
+		f.budgetimages.value = 0;
+	}
+	else if(tp=='RM'){
+		f.imagetype.value = 'RM';
+		f.budgetimages.value = 0;
+	}
+	else if(tp=='CD'){
 		f.imagetype.value = 'CD';
 		f.budgetimages.value = 0;
-		f.chkbx_type[4].checked = 1;
-		proceed=0;
-	}	
-	
-	
-	if(proceed==1){
-		tp = '';
+	}
+	else if(tp=='EDITORIAL'){
+		f.imagetype.value = 'editorial';
+		f.budgetimages.value = 0;
 		
-		for(x=0; x<f.chkbx_type.length; x++){
-			if(f.chkbx_type[x].checked){
-				tp = f.chkbx_type[x].value;
-			}
-		}
-		
-		if(tp=='all'){
-			f.imagetype.value = 'RF,RM';
-			f.budgetimages.value = 1;
-		}
-		else if(tp=='RF'){
-			f.imagetype.value = 'RF';
-			f.budgetimages.value = 0;
-		}
-		else if(tp=='RM'){
-			f.imagetype.value = 'RM';
-			f.budgetimages.value = 0;
-		}
-		else if(tp=='RFB'){
-			f.imagetype.value = 'RF';
-			f.budgetimages.value = 2;
-		}
-		else if(tp=='CD'){
-			f.imagetype.value = 'CD';
-			f.budgetimages.value = 0;
-		}
-		else if(tp=='editorial'){
-			f.imagetype.value = 'editorial';
-			f.budgetimages.value = 0;
-			
-			f.brandsToFilter.value='IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:CCA6D085-0133-45BC-AE57DD81E516E2EF,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:35882D8C-921B-4472-8AD85C66E6CFE5F0,IMSSUPPLIER:0075BD82-3C01-45A2-9F18229BC16B4160,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:03D9B48D-81C5-4859-92539276030612F3,IMSSUPPLIER:2A644891-50C3-4E53-A1F4BD32BB7F807D,IMSSUPPLIER:13046605-C07B-405F-89CDD4181DBD1DE3,IMSSUPPLIER:7B90AD4B-92EB-4916-A09093C6BCF621BB,IMSSUPPLIER:7E0DECA4-6235-4C8C-96B6BC00C9F1F4E1,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:11E1960B-97B7-4FB6-A1BE531029BCBA67,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:B1F3EBFC-1F2F-4355-85B0EE2940AEFC49,IMSSUPPLIER:FD19EE63-F370-4EA2-958F8FB688FBFB3A,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:936DC2AF-073E-4EFA-885DAE57644E1406,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:7D9B33D4-B40E-4F73-B4222361C3A4BB1F,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:42F42A5E-6AEF-45BA-A1AE7D16D2D38CE4,IMSSUPPLIER:C9A4F86E-15C5-8747-F6E2393070A6740E,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823961D9-15C5-8747-F658ACDFAF6422C7,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:29E8DEAC-368B-46A7-92F65613CB8584A2,IMSSUPPLIER:ABE5F433-2255-4EAF-8F205E3051211725,IMSSUPPLIER:47110135-89E3-4A3D-AC0B7A707B6C904C,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:5BBA26EF-00EB-44BC-A38D0087E9AB792C,IMSSUPPLIER:D53B2D0B-4B08-4DE9-A72D4E0089BD2F41,IMSSUPPLIER:24EF4612-65B3-4216-82E7EDC9D2BA849D,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:5626C335-15C5-8747-F62BDB09EA24B227,IMSSUPPLIER:B95706E3-15C5-8747-F6B87BB1BEFD4D4A,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:2EAE7F3B-15C5-8747-F63ACF177E1774C8,IMSSUPPLIER:A4124989-866D-486F-8C3C8D09CB87F370,IMSSUPPLIER:79D2F957-2CC3-4727-9FA218D7658B5B21,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:BEDDE11E-A233-4CEC-A8CF8EAB0B62226E,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:837FB4AC-15C5-8747-F6B7116437F448EE,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:2EAF8D5F-15C5-8747-F65C84D4EE7C1601,IMSSUPPLIER:9FE5CDC2-15C5-8747-F6191FC4E7999B1B,IMSSUPPLIER:805D6C42-C66A-4D6C-96264BB869DE19EE,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:3867F9FF-E964-4F77-9D84A0314E1C29FA,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:397FDBE1-15C5-8747-F62DCB0F347D0303,IMSSUPPLIER:BE717A6E-274B-442C-BAAD293D35888BD3,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:2B1BFA5B-F478-421F-AF2104FF4BCCD4E8,IMSSUPPLIER:09F14995-B273-4724-A7A657CC75329D8F,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:DEAF862E-74A4-44D4-930FD8E39A4ADAC9,IMSSUPPLIER:FC383E84-DA6F-0BBB-8F8B37EFA7F69424';
-			
-			//IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41
-			
-			
-			f.brandFilter.value='1';
-			f.alamy_mr.value=0;
-			f.imagetype.value ='editorial'
-		}
-		else if(tp=='illustration'){
-			f.imagetype.value = 'illustration';
-			f.budgetimages.value = 1;
-		}
+		f.brandsToFilter.value='IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:CCA6D085-0133-45BC-AE57DD81E516E2EF,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:35882D8C-921B-4472-8AD85C66E6CFE5F0,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:03D9B48D-81C5-4859-92539276030612F3,IMSSUPPLIER:2A644891-50C3-4E53-A1F4BD32BB7F807D,IMSSUPPLIER:13046605-C07B-405F-89CDD4181DBD1DE3,IMSSUPPLIER:7E0DECA4-6235-4C8C-96B6BC00C9F1F4E1,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:11E1960B-97B7-4FB6-A1BE531029BCBA67,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:B1F3EBFC-1F2F-4355-85B0EE2940AEFC49,IMSSUPPLIER:FD19EE63-F370-4EA2-958F8FB688FBFB3A,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:936DC2AF-073E-4EFA-885DAE57644E1406,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:7D9B33D4-B40E-4F73-B4222361C3A4BB1F,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:42F42A5E-6AEF-45BA-A1AE7D16D2D38CE4,IMSSUPPLIER:C9A4F86E-15C5-8747-F6E2393070A6740E,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823961D9-15C5-8747-F658ACDFAF6422C7,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:29E8DEAC-368B-46A7-92F65613CB8584A2,IMSSUPPLIER:ABE5F433-2255-4EAF-8F205E3051211725,IMSSUPPLIER:47110135-89E3-4A3D-AC0B7A707B6C904C,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:5BBA26EF-00EB-44BC-A38D0087E9AB792C,IMSSUPPLIER:D53B2D0B-4B08-4DE9-A72D4E0089BD2F41,IMSSUPPLIER:24EF4612-65B3-4216-82E7EDC9D2BA849D,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:5626C335-15C5-8747-F62BDB09EA24B227,IMSSUPPLIER:B95706E3-15C5-8747-F6B87BB1BEFD4D4A,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:2EAE7F3B-15C5-8747-F63ACF177E1774C8,IMSSUPPLIER:79D2F957-2CC3-4727-9FA218D7658B5B21,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:BEDDE11E-A233-4CEC-A8CF8EAB0B62226E,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:837FB4AC-15C5-8747-F6B7116437F448EE,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:8A10D2CE-7A5E-46D4-B3332D3BE7A378B7,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:2EAF8D5F-15C5-8747-F65C84D4EE7C1601,IMSSUPPLIER:9FE5CDC2-15C5-8747-F6191FC4E7999B1B,IMSSUPPLIER:805D6C42-C66A-4D6C-96264BB869DE19EE,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:3867F9FF-E964-4F77-9D84A0314E1C29FA,IMSSUPPLIER:580AADE1-AC39-4AFC-9E9F86830CA0E4E6,IMSSUPPLIER:6494575B-F2C7-ABC7-404F55936EAEF040,IMSSUPPLIER:05E2850B-B9F6-47EE-A63BEA7A43F768AC,IMSSUPPLIER:A387A694-0E02-223E-F39ED24C58A9161D,IMSSUPPLIER:3BB037D2-15C5-8747-F6FB447BFC053B6F,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:11D9156A-0130-45F8-80520474224D6B83,IMSSUPPLIER:6344051C-9D9D-4B3E-2B5B6EB5395074A5,IMSSUPPLIER:154B5B4A-9E49-CEF3-DE781CB5E0D5481C,IMSSUPPLIER:87F0329D-F673-4C2E-ACCF0BC83A159E48,IMSSUPPLIER:7AC8AE45-FC7D-BDED-296259D1F84148D3,IMSSUPPLIER:95E9785D-0058-42D5-879DB3909537670C,IMSSUPPLIER:A8B8ED35-BA3B-4458-9951273F8F55422B,IMSSUPPLIER:BE717A6E-274B-442C-BAAD293D35888BD3,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:C2F4F3D3-064C-8FE1-7A3D7D6174AD0996,IMSSUPPLIER:1FBF816A-0FDB-D822-605ACE8187B0567A,IMSSUPPLIER:2B1BFA5B-F478-421F-AF2104FF4BCCD4E8,IMSSUPPLIER:09F14995-B273-4724-A7A657CC75329D8F,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:DEAF862E-74A4-44D4-930FD8E39A4ADAC9,IMSSUPPLIER:FC383E84-DA6F-0BBB-8F8B37EFA7F69424,IMSSUPPLIER:4FE1DB54-CCC1-7269-49AEBD35D40C2594,IMSSUPPLIER:BB70873F-C74A-778F-5954F92ED8E04BD9,IMSSUPPLIER:72160CEB-775A-4105-BF083822D34644F6,IMSSUPPLIER:646A64C5-A31B-DBC8-DD552BFB9513B01F,IMSSUPPLIER:7F21407E-93E1-01CA-BE0AC6C90849E92E,IMSSUPPLIER:FD8871A4-0892-4C98-9BC159AA01DF159D,IMSSUPPLIER:7AC973A8-021C-B491-8B48524E3A2A7082,IMSSUPPLIER:808DC68F-F8B4-9668-1FD5B6615364EAF6,IMSSUPPLIER:F02197C5-ABCE-8B46-96BF0C2A552208A9,IMSSUPPLIER:D7B53A45-CCC9-05EB-F81BEF94E37D0D3E,IMSSUPPLIER:8156EA33-F48C-A40C-7105213F3C999C4E,IMSSUPPLIER:906DB333-15C5-8747-F6CE791E2D348FDE';
+		f.brandFilter.value='1';
+		f.alamy_mr.value=0;
+		f.imagetype.value ='editorial'
+	}
+	else if(tp=='ILLUSTRATION'){
+		f.imagetype.value = 'illustration';
+		f.budgetimages.value = 1;
 	}
 }
 
-function uncheckCD(){//called upon clicking the RM type checkbox
+function extraConditions(){
+	if(f.newInres_extra[0].checked){
+		mustcontain = f.mustcontain.value;
+		extracontain = mustcontain.replace(' ','+')
+		f.criteriaAll.value = f.criteriaAll.value + ' ' + extracontain;
+		//f.criteriaView.value = f.criteriaView.value + ' ' + extracontain;
+		//alert(f.criteriaAll.value);
+	}
+	if(f.newInres_extra[1].checked){
+		f.criteriaNot.value = f.criteriaNot.value + ' ' + f.mustcontain.value;
+	}
+	else {
+		f.criteriaNot.value =''
+	}
+}
+
+function getnewFilters(){
+	document.getElementById("customfilter").value ='';
+	get_radio_value('people','1');
+	get_radio_value('ethnicity','1');
+	get_radio_value('viewpoint','1');
+	get_radio_value('copyspace','1');
+	f = document.searchForm;
 	
-		if(document.searchForm.chkbx_type_RM.checked == 1){
-			document.searchForm.chkbx_cdonly.checked = 0;
+	if(get_radio_value('orientation','0')=='p'){
+
+	f.imageOrient_P.value = 1;
+	f.imageOrient_L.value = 0;
+	f.imageOrient_S.value = 0;
+	}
+	else if(get_radio_value('orientation','0')=='l'){
+	f.imageOrient_P.value = 0;
+	f.imageOrient_L.value = 1;
+	f.imageOrient_S.value = 0;
+	}
+	else if(get_radio_value('orientation' ,'0')=='s'){
+	f.imageOrient_P.value = 0;
+	f.imageOrient_L.value = 0;
+	f.imageOrient_S.value = 1;
+	}
+	else{
+
+	f.imageOrient_P.value = 1;
+	f.imageOrient_L.value = 1;
+	f.imageOrient_S.value = 1;
+	}
+
+	if(get_radio_value('color','0')=='color'){
+	f.imagecolor_C.value = 1;
+	f.imagecolor_BW.value = 0;
+	}
+	else if (get_radio_value('color','0')=='bw'){
+	f.imagecolor_C.value = 0;
+	f.imagecolor_BW.value = 1;
+	}
+	else{
+	f.imagecolor_C.value = 1;
+	f.imagecolor_BW.value = 1;
+	}
+	if (get_radio_value('mrfilter','0')=='1'){
+	only_editorial();
+	}
+	else {
+	document.getElementById("use_modelfilter").value='0'
+	}
+}
+
+function getBrandFilter(){//upon submit, check the brandlist for selected brands.
+	f = document.searchForm;
+	brandsToFilter = '';
+	allbrands = 1;
+	hasbeen=0;
+	
+	//alert('brandfilter 1: advIsOpen='+advSearchIsOpen);
+	
+	allSupChk = document.getElementById("allcollections");
+	
+	//vanuit editorial filter (gettype), kunnen al merken gefilterd zijn. Als expliciet collecties zijn gekozen, filter dan deze lijst obv de editorial selectie. Anders gewoon alle geselecteerde
+	if(typeof(allSupChk)!='undefined' && !allSupChk.checked  && advSearchIsOpen==1){
+		//alert('brandfilter 2: check collections');
+		
+		for(x=0 ; x<f.brandlist.length ; x++){
+			if(f.brandlist[x].checked==1){;
+				bruuid = f.brandlist[x].value;
+				if(f.brandsToFilter.value=='' || f.brandsToFilter.value.toLowerCase().indexOf(bruuid.toLowerCase())!=-1){
+					brandsToFilter = brandsToFilter + bruuid + ',';
+				}
+			}
+			else{
+				allbrands = 0;
+			}
 		}
+	}
+	
+	//alert('brandfilter 3: allbrands='+allbrands);
+	
+	if(allbrands==1 && f.brandsToFilter.value!=''){
+		//editorial filter was al aangezet
+		//alert('brandfilter 4a: was al gezet, doe verder niets');
+	}
+	else if(brandsToFilter==''){
+		f.brandFilter.value = 0;
+		f.brandsToFilter.value = '';
+		//alert('brandfilter 4b: brand filter is uit');
+	}
+	else{
+		f.brandFilter.value = allbrands==1?0:1;
+		f.brandsToFilter.value = allbrands==1?'':brandsToFilter;
+		
+		//alert('brandfilter 4c: merken selectie actief');
+	}
+}
+
+//===================================== misc functions, not used upon submit of search ===========================
+function get_radio_value(fieldname,addkeyword){
+	f = document.searchForm;
+	usefield = f.elements[fieldname];
+	for (var i=0; i < usefield.length; i++){
+		if (usefield[i].checked){
+			var rad_val = usefield[i].value;
+			if (rad_val.length > 2 && fieldname !='color' && addkeyword ==1){
+				addtocustom(rad_val)
+			}
+			return rad_val;		 
+		}
+   }
+}
+
+function addtocustom(fieldvalue){
+	var targetfield = document.getElementById("criteriaAll").value;
+	if (targetfield.indexOf(fieldvalue,0)==-1){
+		document.getElementById("criteriaAll").value = targetfield + ' ' + fieldvalue
+		// targetfield = targetfield + ' ' + fieldvalue;
+	}
+}
+
+
+
+function uncheckCD(){//called upon clicking the RM type checkbox
 	
 }
 
@@ -2333,27 +1529,38 @@ function setType(type, budget){//called from Tab titles to change searchtype
 	
 	if(type != document.searchForm.imagetype.value || budget != document.searchForm.budgetimages.value){
 		f = document.searchForm.elements;
-		old = f.criteriaAll
-		nieuwes =  f.criteriaAll.value
+
+		old = f.criteriaView
+		nieuwes =  f.criteriaView.value
 		f.criteriaAll.value = nieuwes.replace("illustration","");
+	
 		f.alamy_mr.value=1;
 		f.imagetype.value = type;
 		f.budgetimages.value = budget;
+		document.getElementById("tabtype").value=type;
+		if (budget==2){
+		document.getElementById("tabtype").value='budget';
+		}
 		
 		if(f.imagetype.value!='CD' && f.cdtitle.value!=''){
 			f.criteriaAll.value = f.cdtitle.value;
 			f.cdtitle.value = '';
 		}
 		if (type=='editorial'){
-			f.brandsToFilter.value='IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:CCA6D085-0133-45BC-AE57DD81E516E2EF,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:35882D8C-921B-4472-8AD85C66E6CFE5F0,IMSSUPPLIER:0075BD82-3C01-45A2-9F18229BC16B4160,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:03D9B48D-81C5-4859-92539276030612F3,IMSSUPPLIER:2A644891-50C3-4E53-A1F4BD32BB7F807D,IMSSUPPLIER:13046605-C07B-405F-89CDD4181DBD1DE3,IMSSUPPLIER:7B90AD4B-92EB-4916-A09093C6BCF621BB,IMSSUPPLIER:7E0DECA4-6235-4C8C-96B6BC00C9F1F4E1,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:11E1960B-97B7-4FB6-A1BE531029BCBA67,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:B1F3EBFC-1F2F-4355-85B0EE2940AEFC49,IMSSUPPLIER:FD19EE63-F370-4EA2-958F8FB688FBFB3A,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:936DC2AF-073E-4EFA-885DAE57644E1406,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:7D9B33D4-B40E-4F73-B4222361C3A4BB1F,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:42F42A5E-6AEF-45BA-A1AE7D16D2D38CE4,IMSSUPPLIER:C9A4F86E-15C5-8747-F6E2393070A6740E,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823961D9-15C5-8747-F658ACDFAF6422C7,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:29E8DEAC-368B-46A7-92F65613CB8584A2,IMSSUPPLIER:ABE5F433-2255-4EAF-8F205E3051211725,IMSSUPPLIER:47110135-89E3-4A3D-AC0B7A707B6C904C,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:5BBA26EF-00EB-44BC-A38D0087E9AB792C,IMSSUPPLIER:D53B2D0B-4B08-4DE9-A72D4E0089BD2F41,IMSSUPPLIER:24EF4612-65B3-4216-82E7EDC9D2BA849D,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:5626C335-15C5-8747-F62BDB09EA24B227,IMSSUPPLIER:B95706E3-15C5-8747-F6B87BB1BEFD4D4A,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:2EAE7F3B-15C5-8747-F63ACF177E1774C8,IMSSUPPLIER:A4124989-866D-486F-8C3C8D09CB87F370,IMSSUPPLIER:79D2F957-2CC3-4727-9FA218D7658B5B21,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:BEDDE11E-A233-4CEC-A8CF8EAB0B62226E,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:837FB4AC-15C5-8747-F6B7116437F448EE,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:2EAF8D5F-15C5-8747-F65C84D4EE7C1601,IMSSUPPLIER:9FE5CDC2-15C5-8747-F6191FC4E7999B1B,IMSSUPPLIER:805D6C42-C66A-4D6C-96264BB869DE19EE,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:3867F9FF-E964-4F77-9D84A0314E1C29FA,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:397FDBE1-15C5-8747-F62DCB0F347D0303,IMSSUPPLIER:BE717A6E-274B-442C-BAAD293D35888BD3,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:2B1BFA5B-F478-421F-AF2104FF4BCCD4E8,IMSSUPPLIER:09F14995-B273-4724-A7A657CC75329D8F,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:DEAF862E-74A4-44D4-930FD8E39A4ADAC9,IMSSUPPLIER:FC383E84-DA6F-0BBB-8F8B37EFA7F69424';
+			f.brandsToFilter.value='IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:CCA6D085-0133-45BC-AE57DD81E516E2EF,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:35882D8C-921B-4472-8AD85C66E6CFE5F0,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:03D9B48D-81C5-4859-92539276030612F3,IMSSUPPLIER:2A644891-50C3-4E53-A1F4BD32BB7F807D,IMSSUPPLIER:13046605-C07B-405F-89CDD4181DBD1DE3,IMSSUPPLIER:7E0DECA4-6235-4C8C-96B6BC00C9F1F4E1,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:11E1960B-97B7-4FB6-A1BE531029BCBA67,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:B1F3EBFC-1F2F-4355-85B0EE2940AEFC49,IMSSUPPLIER:FD19EE63-F370-4EA2-958F8FB688FBFB3A,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:936DC2AF-073E-4EFA-885DAE57644E1406,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:7D9B33D4-B40E-4F73-B4222361C3A4BB1F,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:42F42A5E-6AEF-45BA-A1AE7D16D2D38CE4,IMSSUPPLIER:C9A4F86E-15C5-8747-F6E2393070A6740E,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823961D9-15C5-8747-F658ACDFAF6422C7,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:29E8DEAC-368B-46A7-92F65613CB8584A2,IMSSUPPLIER:ABE5F433-2255-4EAF-8F205E3051211725,IMSSUPPLIER:47110135-89E3-4A3D-AC0B7A707B6C904C,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:5BBA26EF-00EB-44BC-A38D0087E9AB792C,IMSSUPPLIER:D53B2D0B-4B08-4DE9-A72D4E0089BD2F41,IMSSUPPLIER:24EF4612-65B3-4216-82E7EDC9D2BA849D,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:5626C335-15C5-8747-F62BDB09EA24B227,IMSSUPPLIER:B95706E3-15C5-8747-F6B87BB1BEFD4D4A,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:2EAE7F3B-15C5-8747-F63ACF177E1774C8,IMSSUPPLIER:79D2F957-2CC3-4727-9FA218D7658B5B21,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:BEDDE11E-A233-4CEC-A8CF8EAB0B62226E,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:837FB4AC-15C5-8747-F6B7116437F448EE,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:8A10D2CE-7A5E-46D4-B3332D3BE7A378B7,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:2EAF8D5F-15C5-8747-F65C84D4EE7C1601,IMSSUPPLIER:9FE5CDC2-15C5-8747-F6191FC4E7999B1B,IMSSUPPLIER:805D6C42-C66A-4D6C-96264BB869DE19EE,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:3867F9FF-E964-4F77-9D84A0314E1C29FA,IMSSUPPLIER:580AADE1-AC39-4AFC-9E9F86830CA0E4E6,IMSSUPPLIER:6494575B-F2C7-ABC7-404F55936EAEF040,IMSSUPPLIER:05E2850B-B9F6-47EE-A63BEA7A43F768AC,IMSSUPPLIER:A387A694-0E02-223E-F39ED24C58A9161D,IMSSUPPLIER:3BB037D2-15C5-8747-F6FB447BFC053B6F,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:11D9156A-0130-45F8-80520474224D6B83,IMSSUPPLIER:6344051C-9D9D-4B3E-2B5B6EB5395074A5,IMSSUPPLIER:154B5B4A-9E49-CEF3-DE781CB5E0D5481C,IMSSUPPLIER:87F0329D-F673-4C2E-ACCF0BC83A159E48,IMSSUPPLIER:7AC8AE45-FC7D-BDED-296259D1F84148D3,IMSSUPPLIER:95E9785D-0058-42D5-879DB3909537670C,IMSSUPPLIER:A8B8ED35-BA3B-4458-9951273F8F55422B,IMSSUPPLIER:BE717A6E-274B-442C-BAAD293D35888BD3,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:C2F4F3D3-064C-8FE1-7A3D7D6174AD0996,IMSSUPPLIER:1FBF816A-0FDB-D822-605ACE8187B0567A,IMSSUPPLIER:2B1BFA5B-F478-421F-AF2104FF4BCCD4E8,IMSSUPPLIER:09F14995-B273-4724-A7A657CC75329D8F,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:DEAF862E-74A4-44D4-930FD8E39A4ADAC9,IMSSUPPLIER:FC383E84-DA6F-0BBB-8F8B37EFA7F69424,IMSSUPPLIER:4FE1DB54-CCC1-7269-49AEBD35D40C2594,IMSSUPPLIER:BB70873F-C74A-778F-5954F92ED8E04BD9,IMSSUPPLIER:72160CEB-775A-4105-BF083822D34644F6,IMSSUPPLIER:646A64C5-A31B-DBC8-DD552BFB9513B01F,IMSSUPPLIER:7F21407E-93E1-01CA-BE0AC6C90849E92E,IMSSUPPLIER:FD8871A4-0892-4C98-9BC159AA01DF159D,IMSSUPPLIER:7AC973A8-021C-B491-8B48524E3A2A7082,IMSSUPPLIER:808DC68F-F8B4-9668-1FD5B6615364EAF6,IMSSUPPLIER:F02197C5-ABCE-8B46-96BF0C2A552208A9,IMSSUPPLIER:D7B53A45-CCC9-05EB-F81BEF94E37D0D3E,IMSSUPPLIER:8156EA33-F48C-A40C-7105213F3C999C4E,IMSSUPPLIER:906DB333-15C5-8747-F6CE791E2D348FDE';
 			f.brandFilter.value='1';
 			f.alamy_mr.value=0;
 			f.imagetype.value ='editorial'
+			document.getElementById("tabtype").value='editorial';
 		}
 		else if(type=='illustration'){
 			f.imagetype.value = 'illustration';
 		}
-		
+		else{
+			f.brandsToFilter.value='';
+			f.brandFilter.value='0';
+		}
+		extraConditions();
 		
 		document.searchForm.startpos.value = 1;
 		document.searchForm.submit();
@@ -2367,8 +1574,10 @@ function goSearchInRes(kw){//search within results
 }
 
 function gotoPage(strt){
-	document.searchForm.startpos.value = strt;
-	document.searchForm.submit();
+	if(checkSearchForm(1)){
+		document.searchForm.startpos.value = strt;
+		document.searchForm.submit();
+	}
 }
 
 function setKW(kw){
@@ -2401,22 +1610,6 @@ function setSup(supid){
 	
 	
 	f.submit();
-}
-
-function getBrandFilter(){//upon submit, check the brandlist for selected brands.
-	f = document.searchForm;
-	brandsToFilter = '';
-	allbrands = 1;
-	for(x=0 ; x<f.brandlist.options.length ; x++){
-		if(f.brandlist.options[x].selected==1){
-			brandsToFilter = brandsToFilter + f.brandlist.options[x].value + ',';
-		}
-		else{
-			allbrands = 0;
-		}
-	}
-	f.brandFilter.value = allbrands==1?0:1;
-	f.brandsToFilter.value = brandsToFilter;
 }
 
 function doMaxrows(){
@@ -2455,67 +1648,204 @@ function checkAllSup(){//triggered when changing the supplier selection
 
 
 
-<form name="searchForm" action="index.cfm?/search_en" onsubmit="return checkSearchForm(0);" method="post">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td style="padding-left: 5px;">
-			<b>Image search:</b>&nbsp;
-		</td>
-		<td>
-			<input type="text" class="inp" name="criteriaAll" value="Enter keywords or image #" style="width:170px; height: 23px; padding-top: 4px;" onfocus="this.value='';">
-			<input type="submit" value=" Go ">
-		</td>
-		<td>
-			&nbsp;
-			<a href="index.cfm?/search_en&amp;searchShowAdvanced=1" class="searchHome" style="text-decoration: underline;">Advanced search</a>
-		</td>
+
+<script>
+function setaction(settotype){
+	var f = document.getElementById("searchFormhome");
+	if (settotype=='Footage'){
+		f.action='index.cfm?id=271';
+		f.actiontype[0].checked =false;
+		f.actiontype[1].checked =false;
+	}
+	else if (settotype=='Editorial'){
+			f.actiontype[0].checked =false;
+			f.actiontype[2].checked =false;
+			f.action='index.cfm?/search_en';
+			f.brandsToFilter.value='IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:CCA6D085-0133-45BC-AE57DD81E516E2EF,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:35882D8C-921B-4472-8AD85C66E6CFE5F0,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:03D9B48D-81C5-4859-92539276030612F3,IMSSUPPLIER:2A644891-50C3-4E53-A1F4BD32BB7F807D,IMSSUPPLIER:13046605-C07B-405F-89CDD4181DBD1DE3,IMSSUPPLIER:7E0DECA4-6235-4C8C-96B6BC00C9F1F4E1,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:11E1960B-97B7-4FB6-A1BE531029BCBA67,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:B1F3EBFC-1F2F-4355-85B0EE2940AEFC49,IMSSUPPLIER:FD19EE63-F370-4EA2-958F8FB688FBFB3A,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:936DC2AF-073E-4EFA-885DAE57644E1406,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:7D9B33D4-B40E-4F73-B4222361C3A4BB1F,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:42F42A5E-6AEF-45BA-A1AE7D16D2D38CE4,IMSSUPPLIER:C9A4F86E-15C5-8747-F6E2393070A6740E,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823961D9-15C5-8747-F658ACDFAF6422C7,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:29E8DEAC-368B-46A7-92F65613CB8584A2,IMSSUPPLIER:ABE5F433-2255-4EAF-8F205E3051211725,IMSSUPPLIER:47110135-89E3-4A3D-AC0B7A707B6C904C,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:5BBA26EF-00EB-44BC-A38D0087E9AB792C,IMSSUPPLIER:D53B2D0B-4B08-4DE9-A72D4E0089BD2F41,IMSSUPPLIER:24EF4612-65B3-4216-82E7EDC9D2BA849D,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:5626C335-15C5-8747-F62BDB09EA24B227,IMSSUPPLIER:B95706E3-15C5-8747-F6B87BB1BEFD4D4A,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:2EAE7F3B-15C5-8747-F63ACF177E1774C8,IMSSUPPLIER:79D2F957-2CC3-4727-9FA218D7658B5B21,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:BEDDE11E-A233-4CEC-A8CF8EAB0B62226E,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:837FB4AC-15C5-8747-F6B7116437F448EE,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:8A10D2CE-7A5E-46D4-B3332D3BE7A378B7,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:2EAF8D5F-15C5-8747-F65C84D4EE7C1601,IMSSUPPLIER:9FE5CDC2-15C5-8747-F6191FC4E7999B1B,IMSSUPPLIER:805D6C42-C66A-4D6C-96264BB869DE19EE,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:3867F9FF-E964-4F77-9D84A0314E1C29FA,IMSSUPPLIER:580AADE1-AC39-4AFC-9E9F86830CA0E4E6,IMSSUPPLIER:6494575B-F2C7-ABC7-404F55936EAEF040,IMSSUPPLIER:05E2850B-B9F6-47EE-A63BEA7A43F768AC,IMSSUPPLIER:A387A694-0E02-223E-F39ED24C58A9161D,IMSSUPPLIER:3BB037D2-15C5-8747-F6FB447BFC053B6F,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:11D9156A-0130-45F8-80520474224D6B83,IMSSUPPLIER:6344051C-9D9D-4B3E-2B5B6EB5395074A5,IMSSUPPLIER:154B5B4A-9E49-CEF3-DE781CB5E0D5481C,IMSSUPPLIER:87F0329D-F673-4C2E-ACCF0BC83A159E48,IMSSUPPLIER:7AC8AE45-FC7D-BDED-296259D1F84148D3,IMSSUPPLIER:95E9785D-0058-42D5-879DB3909537670C,IMSSUPPLIER:A8B8ED35-BA3B-4458-9951273F8F55422B,IMSSUPPLIER:BE717A6E-274B-442C-BAAD293D35888BD3,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:C2F4F3D3-064C-8FE1-7A3D7D6174AD0996,IMSSUPPLIER:1FBF816A-0FDB-D822-605ACE8187B0567A,IMSSUPPLIER:2B1BFA5B-F478-421F-AF2104FF4BCCD4E8,IMSSUPPLIER:09F14995-B273-4724-A7A657CC75329D8F,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:DEAF862E-74A4-44D4-930FD8E39A4ADAC9,IMSSUPPLIER:FC383E84-DA6F-0BBB-8F8B37EFA7F69424,IMSSUPPLIER:4FE1DB54-CCC1-7269-49AEBD35D40C2594,IMSSUPPLIER:BB70873F-C74A-778F-5954F92ED8E04BD9,IMSSUPPLIER:72160CEB-775A-4105-BF083822D34644F6,IMSSUPPLIER:646A64C5-A31B-DBC8-DD552BFB9513B01F,IMSSUPPLIER:7F21407E-93E1-01CA-BE0AC6C90849E92E,IMSSUPPLIER:FD8871A4-0892-4C98-9BC159AA01DF159D,IMSSUPPLIER:7AC973A8-021C-B491-8B48524E3A2A7082,IMSSUPPLIER:808DC68F-F8B4-9668-1FD5B6615364EAF6,IMSSUPPLIER:F02197C5-ABCE-8B46-96BF0C2A552208A9,IMSSUPPLIER:D7B53A45-CCC9-05EB-F81BEF94E37D0D3E,IMSSUPPLIER:8156EA33-F48C-A40C-7105213F3C999C4E,IMSSUPPLIER:906DB333-15C5-8747-F6CE791E2D348FDE';
+//			f.brandsToFilter.value='IMSSUPPLIER:2B12676A-B589-443D-856F054FBECE5D02,IMSSUPPLIER:37F72271-15C5-8747-F69106715EDCB4FB,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:22E753D3-52B4-43F2-88E45BF1572FCC41';
+			f.brandFilter.value='1';			
+			f.alamy_mr.value=0;
+			f.imagetype.value ='editorial'
+	}
+	else if(settotype=='Creative') {
+	f.action='index.cfm?/search_en';
+	f.brandsToFilter.value='';
+	f.brandFilter.value='0';			
+	f.imagetype.value ='rf,rm'
+	f.alamy_mr.value='1';
+	f.actiontype[1].checked =false;
+	f.actiontype[2].checked =false;
+	}
+	
+
+}
+
+$(document).ready(function()
+{
+	$('a.adv_lnk').click(function(){
+		$('#advanced_form').slideToggle(600);
+	});
+});
+
+function hint(){
+window.open('index.cfm?/hint','hint','width=500,height=300,resizable,scrollbars')
+}
+</script>
+<form name="searchForm" id="searchFormhome" action="index.cfm?/search_en" onsubmit="return checkSearchForm(0);" method="post">
+	<div style="clear:both;">&nbsp;</div>
+	<div id="srch_left_holder" style="">
+		<div id="srch_middle_holder" style="display:none;">
+      		<div class="drop_b" id="dropper">
+            	
+        	</div> 
+            <div id="thmbnl_size">
+                <div id="thmbnl_size_label">
+                    Thumbnail size:
+                </div>
+                <input type="radio" name="thdirsel" id="thdirsel" style="padding-top:30px;" value="th170" checked=""><img src="reflexstock/img/thmb_big.gif" alt="" vspace="5" title="">
+                <input type="radio" name="thdirsel" id="thdirsel" value="th"><img src="reflexstock/img/thmb_small.gif" alt="" title="">
+            </div>
+            <div id="thmbnl_pp">
+                <div id="thmbnl_pp_label">
+                    Thumbnails per page:
+                </div>			
+                <input type="radio" name="maxros" value="48" checked="">48x
+                <input type="radio" name="maxros" value="100">100x
+                <input type="radio" name="maxros" value="200">200x
+            </div> 
+            <div id="previews">
+                <div id="previews_label">
+                    Previews:
+                    <img src="reflexstock/img/spacer.gif" onload="swichPopupOnOff(0);">
+                </div>
+                <input type="radio" name="previews" value="0" onclick="popupswitcher()">ON
+                <input type="radio" name="previews" id="doImgOver" value="1" onclick="popupswitcher()" checked="">OFF
+            </div>                          
+    	</div>
+		<div id="search_label">
+			Search 12 million images 
+	    	<input type="hidden" id="advanced_search_tracker" value="0">
+        </div>
+        <div id="search_holder">		
+			
+				
+			
+            <input type="text" name="criteriaView" id="criteriaView" value="" onkeydown="top.searchSubmitted=0" onblur="top.searchSubmitted=0">
+            <input type="image" name="submit" src="reflexstock/img/search_button.gif" id="search_bttn">
+		</div>
+        <div id="wasset">
+			TIP: Add or delete words to refine search results
+            
+                <input type="hidden" name="refinekeywords" value="">
+            
+        </div>
+        <div id="refine_holder" style="display:none;">
+            <div id="refine_label">
+                Refine Tool <a href="javascript:hint();" id="L_hintlink">HINT</a> 
+            </div>
+            <div id="refine_srch" style="padding-top:4px;">
+                <input type="text" name="mustcontain" id="mustcontain" value="">
+                <input type="image" name="submit" src="reflexstock/img/refine_bttn.jpg" id="search_bttn">   
+            </div>
+            <div style="border: 0px solid red; clear:left; float: left;padding-top:4px;">
+                <input type="radio" name="newInres_extra" value="new" checked="checked">Must contain
+                <input type="radio" name="newInres_extra" value="exclude">Must exclude
+            </div>
+        </div>
+		<div style="clear:both;"></div>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td colspan="3" height="10" style="height:1px;">
 		
-	</tr>
-	</tbody></table>
-<input type="hidden" class="inp" name="criteria" value="" style="width:160px;">
-<input type="hidden" class="inp" name="criteriaNot" value="" style="width:160px;">
-<input type="hidden" class="inp" name="imgnr" value="" style="width:160px;">
-<input type="hidden" class="inp" name="cdtitle" value="" style="width:160px;">
-<input type="hidden" class="inp" name="BudgetImages" value="1">
-<input type="hidden" name="brandFilter" value="0">
-<input type="hidden" name="brandsToFilter" value="">
-<input type="hidden" name="imagecolor_C" value="1">
-<input type="hidden" name="imagecolor_BW" value="1">
-<input type="hidden" name="imageOrient_P" value="1">
-<input type="hidden" name="imageOrient_L" value="1">
-<input type="hidden" name="imageOrient_S" value="1">
-<input type="hidden" name="imageAvail_CD" value="1">
-<input type="hidden" name="imageAvail_S" value="1">
+	           
+			<div id="advanced_formx" style="display:none;width:100%;float:left;" class="advscfm">
 
-<input type="hidden" name="imagetype" value="RF,RM">
 
-<input type="hidden" name="startpos" value="1">
-<input type="hidden" name="searchmode" value="2">
-<input type="Hidden" name="searchShowAdvanced" value="1">
 
-</form>
+
 
 </div>
 
-				</td>
-			</tr>
+
+
+
+	    
+		</td></tr>
+		<tr><td width="200" valign="bottom" height="10" style="height:10px;">
+        <div class="link_adv" id="showlink" style="">
+      	<a href="javascript:hideadvanced('block');" class="adv_lnk">Advanced search</a><img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_down.gif" alt="" title="">
+        </div>
+		<div id="adv_search_lnk_2" style="display:none;">
+        
+        &nbsp;&nbsp;&nbsp;<a href="javascript:hideadvanced('none');" class="adv_lnk">Advanced search</a> <img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_up.jpg" alt="" title=""><br>
+        </div>
 		
-		<tr>
-			<td width="1000" valign="top" colspan="2" height="450" style="padding-top: 13px; padding-left: 2px;">
+		</td>
+		<td style="height:10px;">&nbsp;</td>
+		<td width="900" valign="bottom" align="right" height="10" style="height:10px;">
+		  <div id="nav_user">
+	        <ul class="nav_user_menu">
+	            <li><a href="index.cfm?/myAccount_en&amp;myScopeAct=4">account</a></li>
+	            <li>|</li>
+	            <li><a href="index.cfm?/myAccount_en&amp;myScopeAct=2">lightbox</a></li>
+	            <li>|</li>
+	            <li><a href="index.cfm?/basket_en">basket</a></li>
+				<li>|</li>
+	            <li><a href="index.cfm?/myaccount_en&amp;myScopeAct=3">orders</a></li>
+	            
+	        </ul>			  
+	  	  </div>    
+		</td>
+		</tr>
+	</tbody></table>	    
 	
 
+          
+	
+    
+    	<input type="hidden" class="inp" name="criteriaAll" id="criteriaAll" value="" style="width:160px;">
+    	<input type="hidden" id="customfilter" name="customfilter" value="" style="width:160px;">
 		
-		
+    <input type="hidden" class="inp" name="criteria" value="" style="width:160px;">
+    <input type="hidden" class="inp" name="criteriaNot" value="" style="width:160px;">
+    <input type="hidden" class="inp" name="imgnr" value="" style="width:160px;">
+    <input type="hidden" class="inp" name="cdtitle" value="" style="width:160px;">
+    <input type="hidden" class="inp" name="budgetimages" id="budgetimages" value="0">
+    <input type="hidden" name="brandFilter" id="brandFilter" value="0">
+    <input type="hidden" name="brandsToFilter" value="">
+    <input type="hidden" name="imagecolor_C" value="1">
+    <input type="hidden" name="imagecolor_BW" value="1">
+    <input type="hidden" name="imageOrient_P" value="1">
+    <input type="hidden" name="imageOrient_L" value="1">
+    <input type="hidden" name="imageOrient_S" value="1">
+    <input type="hidden" name="imageAvail_CD" value="1">
+    <input type="hidden" name="imageAvail_S" value="1">
+    <input type="hidden" name="alamy_mr" id="alamy_mr" value="">
+    <input type="hidden" name="imagetype" id="imagetype" value="RF">
+    <input type="hidden" name="startpos" value="1">
+    <input type="hidden" name="searchmode" value="2">
+    <input type="hidden" name="searchShowAdvanced" id="searchShowAdvanced" value="0">
+    <input type="hidden" name="thdir" id="thdirhidden" value="th170">
+	<input type="hidden" class="inp" name="tabtype" id="tabtype" value="RF,RM">
+	<input type="Hidden" name="autoPreview" value="0">
+</div>
+</form>
+
+<div style="clear:both;">&nbsp;</div>
+</div>
 
 
-		
-		
-		
+						
+    </div>		
+</div>
 
+<div style="clear: both;">&nbsp;</div>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
+<div style="width: 930px; clear: both; float: center;margin:auto;">
+	<table width="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td>
+	
+
 
 
 
@@ -2624,7 +1954,7 @@ function checkAllSup(){//triggered when changing the supplier selection
 
 
 
-
+		
 
 
 
@@ -2657,9 +1987,10 @@ function checkAllSup(){//triggered when changing the supplier selection
 
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td><strong><span style="FONT-WEIGHT: normal; COLOR: windowtext; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold">
+
+<div id="textbox">
+	
+	<strong><span style="FONT-WEIGHT: normal; COLOR: windowtext; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold">
 <p><strong><span style="FONT-WEIGHT: normal; COLOR: windowtext; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold">Privacy Policy Statement:<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></strong></p>
 <p><span style="COLOR: black">Reflex Stock Limited (“Reflex Stock”) adheres to the following policy about the information that is collected about you (“Privacy Policy”) and is subsequently used and disclosed by Reflex Stock in the course of its normal business activities. This includes but is not limited to the information about you that is collected on the</span><span style="COLOR: gray"> <span style="mso-bidi-font-weight: bold"><a href="http://www.reflexstock.com/"><b><span style="COLOR: gray">www.reflexstock.com</span></b></a></span></span><span style="COLOR: windowtext"> </span><span style="COLOR: black">web site (the “Web Site”) and during conversations with staff at Reflex Stock.<o:p></o:p></span></p>
 <p><span style="COLOR: black">Any purchase or license by you of any product or service offered by<span style="mso-spacerun: yes">&nbsp; </span>Reflex Stock or the use of the Web Site signifies your consent and agreement to the terms and conditions contained in this Privacy Policy, and to the collection, use and disclosure described herein of your personal information by<span style="mso-spacerun: yes">&nbsp; </span>Reflex Stock.<o:p></o:p></span></p>
@@ -2703,1555 +2034,3916 @@ function checkAllSup(){//triggered when changing the supplier selection
 <p><span style="COLOR: black">In the event that you have a concern with respect to our collection, use or disclosure of information about you, please forward a statement of concern</span><span style="COLOR: gray"> <a href="mailto:info@reflexstock.com"><span style="COLOR: gray; mso-ansi-font-weight: normal">info@reflexstock.com</span></a></span><span style="COLOR: black">, we will within 60 (60) days review your written statement and advise you as to the response to your request.<o:p></o:p></span></p>
 <p><span style="COLOR: black">Contact Us<o:p></o:p></span></p>
 <p><span style="COLOR: black">You may contact Reflex Stock Limited on +44 (0) 288 77 89229, or by e-mail at </span><span style="mso-bidi-font-weight: bold"><a href="mailto:info@reflexstock.com"><b>info@reflexstock.com</b></a></span><o:p></o:p></p>
-</span></strong><p><strong>Postal Address: Reflex Stock Limited, The Loft Business Centre, 6a <st1:street w:st="on"><st1:address w:st="on">Derrycaw Road</st1:address></st1:street>, Moy, <st1:place w:st="on"><st1:city w:st="on">Dungannon</st1:city>, <st1:postalcode w:st="on">BT71 6NA</st1:postalcode>, <st1:country-region w:st="on">United Kingdom</st1:country-region></st1:place></strong></p></td>
-</tr>
-</tbody></table>
+</span></strong><p><strong>Postal Address: Reflex Stock Limited, The Loft Business Centre, 6a <st1:street w:st="on"><st1:address w:st="on">Derrycaw Road</st1:address></st1:street>, Moy, <st1:place w:st="on"><st1:city w:st="on">Dungannon</st1:city>, <st1:postalcode w:st="on">BT71 6NA</st1:postalcode>, <st1:country-region w:st="on">United Kingdom</st1:country-region></st1:place></strong></p>
+</div>
+
+
+
+</div>
+
+
+
+	</td>
+	</tr>
+	</tbody></table>
+</div>
+
+	
+
+
+
+
+	
+		
+			
+
+
+</div>
+<base target="_top">
+
+
+	<div style="clear: both;">&nbsp;</div>
+	<div id="footer_top" style="text-align:center;">
+
+		<div id="footer_nav">
+               <div id="column1_title">cd store</div>
+               <div id="column2_title">galleries</div>
+               <div id="column3_title">services</div>
+               <div id="column4_title">news</div>
+               <div id="column5_title">legals</div>
+               <div id="column6_title">contact</div>
+               <div id="column7_title">team</div>        
+           </div>
+
+       </div>
+       <div id="footer_content" style="">
+           <div id="linkjes" style="width:930px;float:center;text-align:center;margin:auto;">   
+               <div id="column1">
+				
+
+				   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact.html" target="_blank">sales team</a>
+					
+				
+				   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact.html" target="_blank">research team</a>
+					
+				
+				   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact.html" target="_blank">administration team</a>
+					
+				              
+               </div>
+               <div id="column2">
+                   
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact-team-usa.html">team usa</a>
+					
+                   
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact-team-uk.html">team uk</a>
+					
+                   
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/contact-team-europe.html">team europe</a>
+					
+                           
+               </div>            
+               <div id="column3">   
+                   
+
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/terms-and-conditions.html">terms &amp; conditions</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/privacy-policy.html">privacy policy</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/Disclaimer.html">disclaimer</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/license-information.html">license information</a>
+					
+                                    
+               </div>            
+               <div id="column4">            
+                   
+
+                   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/about-us.html">about us</a>
+					
+                   
+                   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://blog.reflexstock.com/" target="_blank">reflex stock blog</a>
+					
+                   
+                   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://twitter.com/reflexstock" target="_blank">reflex is on twitter</a>
+					
+                   
+                   	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://feeds2.feedburner.com/ReflexStockBlog" target="_blank">reflex rss feed</a>
+					
+                   
+               </div>            
+               <div id="column5">
+                   
+
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/content-research.html">content research</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/rights-clearance.html">rights clearance</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/price-negotiations.html">price negotiations</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/image-submissions.html">image submissions</a>
+					
+                   
+                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="http://www.reflexstock.com/page/help.html">help</a>
+					
+                   
+               </div>            
+               <div id="column6">
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+	
+		
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+			
+
+	
+		
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:48C6E21C-1D09-6D43-CB8BB4FFEE28AF90">Festivals</a>
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:48BB563D-1D09-6D43-CB8C55FBDCF86A05">Aging</a>
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:48AC934F-1D09-6D43-CBC9F7A360532C13">Weather</a>
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:B8D01689-1D09-6D43-CB3D2A3769A963C3">Easter</a>
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:B8C4DB0C-1D09-6D43-CBC0173E4A0111C5">Spring Time</a>
+				
+					<a href="index.cfm?/gallerydetails_en&amp;iid=IMSHOMEPAGE_GALLERY:287E54A4-1D09-6D43-CB18A637EFAD9263">Spring Break</a>
+				
+				
+               </div>            
+               <div id="column7">            
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+	
+	
+		
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+			
+
+	
+		
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+	
+	 
+
+
+		
+
+					
+						<a href="cd/53644/Higher-Faster-Stronger.html">Featured cd</a>
+						<a href="page/cdstore.html">Cd store</a>
+					
+               </div>            
+           </div> 
+		
+       </div> 
+ 
+       <div style="clear:both;text-valign:center;padding-top:20px;float:center;width:100%;text-align:center;">
+		<div style="width:930px;float:center;text-align:center;margin:auto;">
+		<table border="0" cellspacing="0" cellpadding="0" align="center">
+			<tbody><tr>
+			<td width="305"><img src="reflexstock/img/payment_icons.jpg" alt="" title=""></td>
+			<td width="725"><strong>Email: <a href="mailto:sales@reflexstock.com" class="std"><strong>sales@reflexstock.com</strong></a> &nbsp;&nbsp;    USA: 1800 356 5131  &nbsp;&nbsp;  UK: 0800 389 7244   &nbsp;&nbsp; Intl: +44 28 877 89 229</strong></td>
+			</tr>
+			<tr>
+			<td colspan="2" width="930" align="left"><br>
+			Stock Photography / Royalty Free Stock Photos and Rights Managed Images are authorised for license by Reflex Stock Limited. The Reflex Stock Photo / image library provides access to one of the worlds largest collections of royalty free / rights managed stock photographs, stock footage and creative stock image collections.  
+			© 2005-2009 Reflex Stock Limited All rights reserved<br><br>
+			</td>
+			</tr>
+		</tbody></table>
+		</div>                                	
+	</div>
 
 
 </div>
 
 
 	
-
-</td>
-</tr>
-</tbody></table>
-
-
-
-	
-		
-			
-</td>
-</tr>
-<tr>
-	<td colspan="2"><img src="Reflexstock/img/spacer.gif" width="1" height="5"></td>
-</tr>
-</tbody></table>
-
-<table cellpadding="0" cellspacing="0" class="footerCenter" width="100%">
-<tbody><tr>
-	<td width="230" style="padding-top: 4px; width:230px;" valign="top">
-		<img src="Reflexstock/img/backgrounds/reflpayments.jpg" border="0" alt="Reflex Stock provides immediate image and CD download when you purchase using your credit or debit card">
-	</td>
-	<td valign="top" style="padding-top: 4px;" width="770">
-		<table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td class="large">Image Research, <a href="mailto:search@reflexstock.com" class="lblue large">search@reflexstock.com</a>&nbsp;&nbsp;</td>
-			<td class="large">Tel:</td>
-			<td>&nbsp;&nbsp;</td>
-			<td class="large">+44 (0)28 877 89 229</td>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-			<td class="large">RoI:</td>
-			<td>&nbsp;&nbsp;</td>
-			<td class="large">048 877 89 229</td>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-			<td class="large">USA:</td>
-			<td>&nbsp;&nbsp;</td>
-			<td class="large">1800 356 5131</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td colspan="2" align="center">
+	<div id="compDIV" onmousemove="mousemove(event)" style="display:none; position:absolute; left:0px; top:0px; overflow:hidden; background-color: white; border: solid gray 1px;">
+		<img id="compIMG" onmouseover="unresetComp()" onmouseout="clearComp()" style="display:none; float: left; clear: both;border: none;">
+		<img id="thIMG" style="display:none; float: left; clear: both; cursor:pointer; border: none;">
 		<br>
-		
-
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/about-us.html" class="footerCenter">About us</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/licence-info.html" class="footerCenter">License Information</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/disclaimer.html" class="footerCenter">Disclaimer</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/privacy-policy.html" class="footerCenter">Privacy Policy</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/terms_and_conditions.html" class="footerCenter">Terms &amp; Conditions*</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/help.html" class="footerCenter">Help</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/news.html" class="footerCenter">News</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/contact.html" class="footerCenter">Contact</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/sitemap.html" class="footerCenter">Sitemap</a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/faq.html" class="footerCenter">Image Licensing FAQs   </a><span class="small lgray"> | 
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-	
-	
-		
-	
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-			
-
-	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-			
-
-
-
-
-
-
-
-
-
-
-	
-	 
-
-
-		
-
-                  
-		
-            	
-               
-		   	<a href="page/submission_guidelines.html" class="footerCenter">Submission Guidelines</a>
-        
-		<br>
-		<br>
-		<br>
-
-	</span></span></span></span></span></span></span></span></span></span></td>
-</tr>
-<tr>
-	<td colspan="2" class="small" align="justify" style="padding-left: 5px; font-size: 9px;">
-	Reflex Stock image library provides a unique mix of premium royalty free / rights managed stock photographs, stock footage and creative stock images. www.reflexstock.com and Reflex Stock Limited is an authorised stock image distributor and licensor of Royalty-Free (RF) &amp; Rights Managed (RM) Stock Photos, stock illustrations, stock motion and creative stock images. The Reflex image library has over 3 million images which can be licensed for use in advertising, graphic design, multi-media, publishing, print and web design. Register and benefit from large comping images, immediate image download, account management &amp; light box functions, it's free to register. Download images, illustrations, stock motion clips and earn points towards cool gear and rewards, check out our reflexrewards program. Premium stock images can be easily found via our super fast online search engine. If you're looking for royalty-free stock photography, stock photos, images, stock illustrations, stock pictures, clip art, vector graphics / digital art and all other forms of creative stock images - you've come to the right place. All the images found on this site must be purchased before commercial use. Stock Photography, Royalty Free &amp; Rights Managed Stock Photos are copyright protected and a license from Reflex Stock Limited must be obtained prior to use. Purchase photographs / images using debit / credit card and download your stock images and stock image collections (VCD) immediately. 
-	
-	
-	
-	</td>
-</tr>
-</tbody></table>
-
-
-
-	
-	<div id="compDIV" onmousemove="mousemove(event)" style="display:none; position:absolute; cursor:pointer; left:0px; top:0px; overflow:hidden;">
-	<img id="compIMG" onload="showComp" onclick="gotoDetails()" onmouseover="unresetComp()" onmouseout="resetComp()" style="display:none; position:absolute; cursor:pointer; border: solid gray 1px;">
+		<div id="captionDiv" style="text-align: center; clear: both; float:left; width:10px; overflow: hidden; font-family: verdana; font-size: 9px; color: black; background-color: #ffffff; Z-index:60;"></div>
 	</div>
 
+	
 
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-896546-1";
-urchinTracker();
-</script>
+<iframe src="blank.cfm" id="compIframe2" style="visibility:hidden; position:absolute; cursor:pointer; left:0px; top:0px; overflow:hidden; border: none;" scrolling="No"></iframe>	
 
 
 
@@ -4261,26 +5953,15 @@ urchinTracker();
 
 
 
-&gt;
 
+		
+		
+	
+	
 
+	
   
 
 
 
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	</body></html>
+</body></html>
