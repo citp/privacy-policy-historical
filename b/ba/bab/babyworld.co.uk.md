@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021011id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526000543id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # babyworld - Privacy Policy
-
-[](https://web.archive.org/)
-
-[](http://shop.babyworld.co.uk/)
-
-[](http://shop.babyworld.co.uk/)
-
-Experts predict measles epidem
-
-Do you have a Carbon Monoxide Alarm Vote now!
-
-Win a fantastic prize when you recommend the babyworld shop to 6 friends  [click here](https://web.archive.org/shop/recommend_friend/default.asp)
 
 babyworld.com Ltd ("babyworld"), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant products, and process any orders that you may make through our website.
 
@@ -63,5 +51,3 @@ We welcome your questions and comments about privacy issues. Should you have any
 See also our [Terms of Use](http://www.babyworld.co.uk/bbs/discussion_rules.asp), [copyright](http://www.babyworld.co.uk/notices/copyright.asp) and [disclaimer](http://www.babyworld.co.uk/notices/disclaimer.asp) information.
 
 **Last revised 22 July 2003**
-
-[](https://web.archive.org/abm/abmc.asp?b=634&z=3)
