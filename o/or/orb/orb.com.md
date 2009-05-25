@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082029id_/http%3A//www.orb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525111234id_/http%3A//www.orb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Orb Networks
 
@@ -44,10 +44,9 @@ Orb may employ procedural and technological measures, such as encryption, firewa
 
 Security and Confidentiality
 
-If you forget your password, you will be asked to go on the Site, answer your security question and create a new password. No plain text passwords will ever be passed through e-mail.   
-Your Web-based access to your personally identifiable information is protected by an encrypted password. We recommend that you do not disclose your password to anyone. The security of your personally identifiable information also relies on customers protecting their Orb password. If you suspect that someone may have obtained access to your password, please change it immediately by signing in to your account at http://www.orb.com/ to manage your "myOrb Account Settings." 
+You can retrieve your login (if you have verified your email address) or change your password: just click the Forgot your login or password links on the mycast.orb.com login page and follow the prompts.  
+Your Web-based access to your personally identifiable information is protected by an encrypted password. We recommend that you do not disclose your password to anyone. The security of your personally identifiable information also relies on customers protecting their Orb password. If you suspect that someone may have obtained access to your password, please change it immediately by signing in to your account at [http://mycast.orb.com](http://mycast.orb.com/) & change it from Settings->User Account->Password->Click here to change your password. Additionally, your personally identifiable information resides on a firewall-protected server that only selected Orb personnel have access to via password.  
 
-Additionally, your personally identifiable information resides on a firewall-protected server that only selected Orb personnel have access to via password. 
 
 Communications
 
@@ -65,8 +64,9 @@ Contact Information
 If you have any questions about anything in this privacy policy, or about collection of personally identifiable information via this Site, please direct any questions regarding the above statement to us at privacy@orb.com. 
 
 Privacy Officer  
-Orb, Inc. 6425 Christie Ave.  
-Emeryville, CA 94608 Tel: 510.903.0920 E-Mail: privacy@orb.com 
+Orb, Inc.  
+428 13th Street, 3rd Floor  
+Oakland, CA 94612 Tel: 510.836.1000 E-Mail: privacy@orb.com 
 
 This Privacy policy was last updated: February 14, 2004   
 This Privacy policy is effective as of: Nov 1, 2004
