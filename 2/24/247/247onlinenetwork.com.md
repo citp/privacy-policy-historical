@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111205857id_/http%3A//www.247onlinenetwork.com/privacy.php%3Fcityid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525102848id_/http%3A//www.247onlinenetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement provided by 247onlineNetwork
 
@@ -23,3 +23,9 @@ The ads appearing on this Web site may be delivered to you by a number of affili
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Google DoubleClick DART Cookie**
+
+* Google, as a third party vendor, uses cookies to serve ads.
+* Google's use of the DART cookie enables it to serve ads to users based on their visit to 247onlineNetwork sites and other sites on the Internet. 
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
