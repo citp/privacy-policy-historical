@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choosewhat.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929074259id_/http%3A//www.choosewhat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosewhat.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043624id_/http%3A//choosewhat.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to ChooseWhat.com - The Entrepeneur's resource website!
+# Welcome to ChooseWhat.com - The Entrepreneur's resource website!
 
 ChooseWhat.com takes your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below:
 
