@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020072238id_/http%3A//www.journalhome.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525030241id_/http%3A//www.journalhome.com/about/privacy.php) for the most accurate reproduction.*
 
 # Journal Home Free Blog Host Privacy Policy - JournalHome.com
 
