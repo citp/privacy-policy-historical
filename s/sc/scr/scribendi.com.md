@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102438id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525085611id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Privacy | Scribendi.com
 
@@ -6,7 +6,7 @@ Because your privacy is important to us, Scribendi.com operates by these princip
 
   1. The Scribendi.com web site ("Site") is maintained by Scribendi Inc., 405 Riverview Drive, Suite 201, Chatham, Ontario, N7M 5J5. Scribendi Inc. is a company federally incorporated in Canada.
   2. Our use of any personal information you provide to Scribendi is regulated and protected by the laws of the Province of Ontario, Canada, including Canada's _Personal Information Protection and Electronic Documents Act._
-  3. This Privacy Policy forms part of our [Terms & Conditions](https://web.archive.org/web/20081218102438id_/http%3A//www.scribendi.com/terms.en.html).
+  3. This Privacy Policy forms part of our [Terms & Conditions](https://web.archive.org/web/20090525085611id_/http%3A//www.scribendi.com/terms.en.html).
   4. To the extent that Scribendi collects any information from its visitors and users, whether that information is personally identifying or not, either from actively provided information, from "cookies," or from its web hosting service, Scribendi uses such information only for its own purposes relating to providing our services. Such information is not knowingly provided to any third parties except as explicitly disclosed herein.
 
 
