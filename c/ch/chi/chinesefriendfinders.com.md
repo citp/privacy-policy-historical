@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesefriendfinders.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216004902id_/http%3A//chinesefriendfinders.com/go/page/privacy.html%3Fdcb%3Dchinesefriendfinders) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesefriendfinders.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525091922id_/http%3A//chinesefriendfinders.com/go/page/privacy.html%3Fdcb%3Dchinesefriendfinders%26od%3Dchinesefriendfinders) for the most accurate reproduction.*
 
 # Chinese FriendFinder PRIVACY POLICY
 
