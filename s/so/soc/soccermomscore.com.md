@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccermomscore.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120163941id_/http%3A//www.soccermomscore.com/MCE/sms/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccermomscore.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525202120id_/http%3A//www.soccermomscore.com/MCE/sms/0/privacy) for the most accurate reproduction.*
 
 # SoccerMomScore.com :: Privacy Policy
 
