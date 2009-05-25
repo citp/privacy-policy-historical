@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219085656id_/http%3A//www.mastersportal.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525091905id_/http%3A//www.mastersportal.eu/about/privacy) for the most accurate reproduction.*
 
 # MastersPortal.eu - Privacy Statement
 
@@ -40,4 +40,4 @@ Our website may contain links to enable you to visit other websites of interest 
 
 ## Changes to this Policy
 
-Master's Portal may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the 6th of June 2007.
+Master's Portal may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the 19th of March 2009.
