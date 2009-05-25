@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921102242id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525200457id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
