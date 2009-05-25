@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026064908id_/http%3A//www.theistudio.com/muse/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043448id_/http%3A//www.theistudio.com/muse/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | At Your Service...
 
@@ -47,3 +47,5 @@ This Web site contains links to other sites. Please be aware that I am not respo
 I use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help me improve your access to my site and identify repeat visitors to my site. Cookies can also enable me to track and target the interests of my users to enhance their experience on my site. Usage of a cookie is in **no way** linked to any personally identifiable information.
 
 If you have any difficulties or questions about The IStudio®’s privacy policy, you should contact me immediately via telephone at 662-560-6956 or via [e-mail](http://www.theistudio.com/muse/contact/).
+
+[ Tweet This](http://twitter.com/home/?status=+Privacy+%26%23038%3B+Security "Post to Twitter \(\)")
