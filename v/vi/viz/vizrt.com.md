@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019024433id_/http%3A//www.vizrt.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525215827id_/http%3A//vizrt.com/about/privacy_statement) for the most accurate reproduction.*
 
 # Vizrt - Content meets expression - Privacy Statement
 
