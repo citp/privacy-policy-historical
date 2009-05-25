@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022134552id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525025527id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Books Direct - Privacy Policy
 
 Privacy Statement
 
-BCA is an organisation within DirectGroup Bertelsmann. BCA respects the privacy concerns of users of its web sites and is registered under the relevant Data Protection legislation.  
+BCA respects the privacy concerns of users of its web sites and is registered under the relevant Data Protection legislation.  
 In order to provide you with the best service we can, BCA has made it its policy to monitor the use of its websites and collect certain personal information. When you register to use a BCA website, BCA will store your e-mail address along with any other information you may provide. When you use the services on the website, we may need to collect further information about you. This information may include, but is not limited to, details such as your name, address and your credit card details.  
 We may use the information provided to process any transactions undertaken by you and for internal administration and analysis. We disclose your information to third parties for the purpose of administration and providing services to you.  
 From time to time we may employ a third party to send out e-mail campaigns and to serve cookies and pixel tags. The information may also be used to notify you of products and services, including those of third parties where you have opted to receive information by email about third party offers, which may be of interest to you. If you do not wish to receive such offers, please advise BCA in writing.  
@@ -21,7 +21,7 @@ By providing BCA or a third party website with your email address you consent to
 
 **Can I unsubscribe from e-mails?**
 
-All subscribers have the option to opt-out of receiving marketing emails from us at any time. If you do not wish to receive marketing emails from us we recommend you opt-out by using the link at the foot of the email.  All requests to unsubscribe will normally be processed within 7 days.
+All subscribers have the option to opt-out of receiving marketing emails from us at any time. If you do not wish to receive marketing emails from us we recommend you opt-out by using the link at the foot of the email.  All requests to unsubscribe will normally be processed within 7 days. Members can unsubscribe by going to 'My Account' and clicking on 'Email Preferences'.
 
 **Do you trade under any other names?**
 
@@ -42,20 +42,15 @@ Company Details
   
 Your book club is owned by BCA, a partnership of:
 
-  
-Book Club Associates Limited, registration 2094795 
+Book Club Associates Limited, registration 2094795
 
-England registered office: 5 Chancery Lane, London EC4A 1BU
-
-  
 and
 
-  
 Book Club Trading Limited 
 
 registration number: 3528183 
 
-England registered office: 5 Chancery Lane, London EC4A 1BU
+England registered office: 1 Fleet Place, London EC4 7 WS for both Book Club Associates Ltd and Book Club Trading Ltd.
 
 **Address**
 
