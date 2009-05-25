@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104120611id_/http%3A//www.newcars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525082000id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
@@ -6,11 +6,9 @@ Introduction
 
 Welcome to NewCars.com (the “Site”), a member of the Better Business Bureau of the Southland, Inc.
 
-[](http://www.bbbonline.org/cks.asp?id=103012218215929215)
-
 We provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
 
-Collection of Information 
+Collection of Information
 
 The Site currently collects personally identifiable information in one of two ways: (1) through your voluntary submission of a quote request form or (2) through your voluntary submission of a “contact us”, “get more information“, or other similar form available on the Site. When you request a quote, the types of information that we collect in conjunction with a quote request may include your name, address, phone number, e-mail address and information regarding the particular vehicle(s) that you are interested in. You must provide all required fields of information for your request to be processed. The types of information we collect on the "contact us", "get more information", or other similar form may include your name, dealership name and address, phone number, and email address.
 
@@ -50,13 +48,13 @@ We may disclose personally identifiable information to third parties: (a) when r
 
 With respect to information collected passively through technical means, we use this information for a variety of reasons, including but not limited to, Site administration, troubleshooting, performing statistical analyses of user behavior, and for development purposes. For example, cookies may be used to measure traffic, collect statistical information (such as which pages of the Site are visited most often by users) and to make your visit more pleasant (by remembering who you are when you return to the Site and by pre-populating forms on the Site with your information so you don't have to re-type it).
 
-In addition to the practices described above, we reserve the right to use and share with any third party non-personally identifying information (in aggregate or other form) collected through your use of the Site for any reason. 
+In addition to the practices described above, we reserve the right to use and share with any third party non-personally identifying information (in aggregate or other form) collected through your use of the Site for any reason.
 
-Although we take steps to help prevent the misuse of your information, after any information is provided to third parties, we do not and cannot control their subsequent use or disclosure of such information and we are not responsible for their use. 
+Although we take steps to help prevent the misuse of your information, after any information is provided to third parties, we do not and cannot control their subsequent use or disclosure of such information and we are not responsible for their use.
 
 Accessing or Changing Information
 
-If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/web/20081104120611id_/http%3A//www.newcars.com/mailer.php). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
+If you wish to access, verify the accuracy of, correct, or change the personally identifiable information you have submitted via the Site, please contact us via [e-mail](https://web.archive.org/contact). To protect your privacy, we may take reasonable steps to verify your identity before granting access or making corrections.
 
 Security
 
@@ -68,12 +66,12 @@ This Site is not directed to, or intended for use by, individuals under the age 
 
 Links
 
-The Site contains links to other Web sites. We are not responsible for the privacy practices of Web sites that are linked to or from this Site. Use of any personally identifiable information provided to any such Web site will be governed by that Web site's privacy statement. 
+The Site contains links to other Web sites. We are not responsible for the privacy practices of Web sites that are linked to or from this Site. Use of any personally identifiable information provided to any such Web site will be governed by that Web site's privacy statement.
 
-Notification of Changes 
+Notification of Changes
 
 If this privacy statement materially changes, the new privacy statement will be posted on the Site and identified as “Updated”. Your continued use of Site after such changes have been posted shall signify acceptance of the revised privacy statement.
 
 Questions
 
-If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/web/20081104120611id_/http%3A//www.newcars.com/mailer.php).
+If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/contact).
