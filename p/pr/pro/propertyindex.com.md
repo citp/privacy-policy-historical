@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyindex.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220032124id_/http%3A//www.propertyindex.com/www/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyindex.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526002957id_/http%3A//www.propertyindex.com/www/aboutus/privacy.aspx) for the most accurate reproduction.*
 
-# Property Index | PropertyIndex.com
+# About Property Index | PropertyIndex.com
 
 PropertyIndex.com Privacy Policy. Effective Date: 8th October 2008
 
