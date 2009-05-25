@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014131219id_/http%3A//businesstn.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043931id_/http%3A//www.businesstn.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessTN
 
