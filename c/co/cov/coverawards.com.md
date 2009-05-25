@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202224710id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525195408id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mark Pasetsky's Cover Awards
+# Privacy Policy | CoverAwards
 
 Coverawards.com Media Privacy Policy  
-Last Updated: January 14, 2008
+Last Updated: January 14, 2009
 
 **Coverawards.com** Mark Allen & Company LLC/Tecktonik Media/coverawards.com and all their affiliates (collectively referred to in this Privacy Statement as “we” or “coverawards.com”) recognize the importance of protecting the information provided by users of our website. Coverawards.com has implemented this Privacy Policy to govern the use of personally identifiable information that we collect from this Site (“Personal Information”). This Privacy Policy does not govern Personal Information collected from any other source or in any other manner.
 
@@ -19,7 +19,7 @@ Or contact us via postal mail at:
 California Privacy Rights Information  
 coverawards.com  
 c/o Tecktonic Media  
-48 West 21st Street, Suite 906  
+120 W 21st Street, Ste. 1007  
 New York, NY 10011  
 Attn: California Privacy Rights Administrator
 
@@ -87,7 +87,7 @@ Coverawards.com
 c/o Tecktonik Media  
 48 West 21st Street, Suite 906  
 New York, NY 10010  
-Attn: Privacy Coordinator 
+Attn: Privacy Coordinator
 
 **Governing Law**  
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. In the event that any portion of these Terms and Conditions are deemed unenforceable, unlawful or void by a Court of competent jurisdiction, in any jurisdiction for any reason because of the scope, duration or area of its applicability or for other reasons, unless narrowed by construction, such provision shall for purposes of such jurisdiction only, be construed as if such invalid, prohibited or unenforceable provision had been more narrowly drawn so as not to be invalid, prohibited or unenforceable (or if such language cannot be drawn narrowly enough, the court making any such determination shall have the power to modify, to the extent necessary to make such provision or provisions enforceable in such jurisdiction, such scope, duration or area or all of them, and such provision shall then be applicable in such modified form). If, notwithstanding the foregoing, any such provision would be held to be invalid, prohibited or unenforceable in any jurisdiction for any reason, such provision, as to such jurisdiction only, shall be ineffective to the extent of such invalidity, prohibition or unenforceability, without invalidating the remaining provisions. No narrowed construction, court-modification or invalidation of any provision shall affect the construction, validity or enforceability of such provision in any other jurisdiction. No waiver by coverawards.com of any term or condition of these Terms and Conditions shall be deemed a further or continuing waiver of such term or of any other term, and Coverawards.com ’s failure to assert any right or demand compliance with any provision of these Terms and Conditions shall not be deemed to constitute a waiver of any such right or provision.
