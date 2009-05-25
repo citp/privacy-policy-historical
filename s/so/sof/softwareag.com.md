@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111141204id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525201118id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## PRIVACY POLICY 
-
-### Declaration on Data Protection
+## Declaration on Data Protection
 
 Software AG appreciate your visit to our website and thank you for your interest in our company, our products and our services. Protection of your privacy and personal data is an important matter for us. In order to guarantee you a high level of transparency and security, our declaration on data protection as set forth below will inform you as to the nature, scope and purpose of any collection, use and processing of information and data recorded by us. 
 
@@ -89,4 +87,5 @@ Data Protection Officer 
 H.C. Höpker   
 Uhlandstrasse 12   
 64297 Darmstadt   
+Germany   
 E-mail: hans-christoph.hoepker (at) softwareag.com
