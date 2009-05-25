@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115525id_/http%3A//www.furniture.com/common/CustomerService/policies/default.asp%237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525133431id_/http%3A//www.furniture.com/common/CustomerService/policies/default.asp%237) for the most accurate reproduction.*
 
 # Furniture.com
 
 |   | 
 
-|  | [](http://www.furniture.com/default.aspx?se=203) |  | [](http://www.furniture.com/Common/Advice/default.asp) | [](http://www.furniture.com/Common/CustomerService/default.asp) | [](http://www.furniture.com/Common/Order/shoppingcart.asp?se=13) |   
+|  | [](http://www.furniture.com/default.aspx?se=215) |  | [](http://www.furniture.com/Common/Advice/default.asp) | [](http://www.furniture.com/Common/CustomerService/default.asp) | [](http://www.furniture.com/Common/Order/shoppingcart.asp?se=31) |   
 ---|---|---|---|---|---  
    
 |   |    
