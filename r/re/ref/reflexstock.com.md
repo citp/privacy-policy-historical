@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220141342id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525140459id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Stock Photography: Premium Royalty Free Photos And Rights Managed Images, Illustrations And Vector Art | Reflexstock.com
+# Stock Photos privacy policy, Royalty Free Images & Rights Managed Stock Photography | Reflex Stock
+
+**
 
 **Privacy Policy Statement:**
 
@@ -87,5 +89,7 @@ In the event that you have a concern with respect to our collection, use or disc
 Contact Us
 
 You may contact Reflex Stock Limited on +44 (0) 288 77 89229, or by e-mail at [**info@reflexstock.com**](mailto:info@reflexstock.com)
+
+**
 
 **Postal Address: Reflex Stock Limited, The Loft Business Centre, 6a Derrycaw Road, Moy, Dungannon, BT71 6NA, United Kingdom**
