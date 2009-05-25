@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220013348id_/http%3A//www.parentree.in/parentree-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525220139id_/http%3A//www.parentree.in/info/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Parentree
 
-|   
 ---  
 Privacy-policy  
 Last updated: 7/30/2008 5:00PM IST  
