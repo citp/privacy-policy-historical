@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210080655id_/http%3A//www.powerobjects.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525044654id_/http%3A//www.powerobjects.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # PowerObjects
 
