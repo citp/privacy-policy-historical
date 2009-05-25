@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914134522id_/http%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043656id_/http%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
 
 # WorkInSports.com - Privacy Policy
 
@@ -39,7 +39,7 @@ Should you post your resume, the amount of information you choose to keep confid
 Refer-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WorkInSports.com stores this information for the sole purpose of sending this one-time email. 
 
-Your friend may contact [Customer Support](https://web.archive.org/web/20080914134522id_/http%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
+Your friend may contact [Customer Support](https://web.archive.org/web/20090525043656id_/http%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
 
 Target Job Information  
 We also use Personal Information to provide you with targeted job information. For example, your email job alert will contain job information based on the job locations and categories you choose. 
@@ -62,7 +62,7 @@ You can update your email preferences by logging onto your “Account Settings�
 
 As a registered user of WorkInSports.com, you will automatically receive our service announcements (e.g., email address confirmation, signup confirmation, administrative messages, etc.) at your email address. Transactional communication is required as they may contain information vital to your account; you may not unsubscribe from service announcements unless you deactivate your account. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20080914134522id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20090525043656id_/http%3A//www.workinsports.com/wiscontactus.asp). 
 
 **Cookies**
 
@@ -94,7 +94,7 @@ In the event WorkinSports.com goes through a business transition, such as a merg
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20080914134522id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+If your personally identifiable information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20090525043656id_/http%3A//www.workinsports.com/wiscontactus.asp). 
 
 **Legal Disclaimer**
 
@@ -107,7 +107,8 @@ As such, we cannot ensure that your Personal Information will not be disclosed t
 If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 Work In Sports, LLC  
-7335 E Acoma Drive, Suite 200  
-Scottsdale, Arizona 85260  
+7010 East Chauncey Ln  
+Suite 115  
+Phoenix, AZ 85054  
 [privacy@WorkInSports.com](mailto:privacy@WorkInSports.com)  
 
