@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912195837id_/http%3A//www.undergear.com/privacyPolicy.asp%3Fnavtheme%3Dcserv%26cm_re%3Dhp-_-nav4.2-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525082009id_/http%3A//www.undergear.com/privacyPolicy.asp%3Fnavtheme%3Dcserv%26cm_re%3Dhp-_-nav4.2-_-privacy) for the most accurate reproduction.*
 
 # Site Privacy Policy - Cookies - Security Monitoring - Undergear
 
 ### **PRIVACY**
 
 Undergear  
-340 Poplar Street  
-Hanover, PA 17331  
+455 Park Plaza Drive  
+La Crosse, WI 54601  
 1-800-853-8555  
 [service@Undergear.com](mailto:service@Undergear.com)
 
@@ -57,7 +57,7 @@ If you prefer that we do not include you in lists of information we share with o
 If you have requested a catalog from us, or have purchased from us at any time, we will send you one of our catalogs If for any reason you no longer wish to receive catalogs from Undergear **®** by postal mail, [**click here**](https://www.undergear.com/editaccount.asp?opt=1&fromprivacy=1#privacyoptions),
 
 **Correction of Your Personal Profile**  
-You can always edit or correct any personal information you give Undergear **®** by writing to us at: [**custserv@undergear.com**](mailto:custserv@undergear.com).
+You can always edit or correct any personal information you give Undergear **®** by writing to us at: [**service@undergear.com**](mailto:service@undergear.com).
 
 **Shopping Analysis Provided by Third Party**  
 Undergear **®** uses a number of third party data gathering and analysis services, which aggregate information into broad categories to help us provide you better products, services, and improved websites. We refer to them here as our "Data Compilers". Our Data Compilers are contractually bound to keep our visitors' and customers' data absolutely secure and confidential, and only to analyze the information they have access to by the software we license from them and return it back to Undergear **®**. They have no rights to use this information for any purpose, match it against any other information in their possession, nor transfer or disclose this information to anyone other than to Undergear **®**.
@@ -78,7 +78,7 @@ We share much of our data, including personally identifiable information about y
 It is possible that Undergear **®** Hanover Direct, or its affiliated companies, or any combination, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Undergear **®** would share some or all of your information in order to continue to provide this Undergear **®** shopping experience. You will receive notice of such event (to the extent it occurs) as provided in the paragraph below entitled 'Notice', and we will require that the new combined entity follow the practices disclosed in this Privacy Policy with respect to your personal information.
 
 **Problems**   
-If at any time you have a question or dispute concerning your visit here, your order transaction, or our compliance with this privacy policy, you may contact us at [**custserv@undergear.com**](mailto:custserv@undergear.com). Please provide your first and last name, order number, if any, and, if you have a question about our merchandise, item number(s), and we will get back to you promptly. If we are unable to resolve your complaint to your satisfaction, you may elect to proceed to submit your complaint to an independent arbitrator to obtain an impartial assessment of your case, in writing. Any such arbitration will be deemed 'conditionally binding', meaning that the decision of the arbitrator will be binding upon Undergear **®** if you elect to accept the decision, and it will be binding upon you as well. If your dispute concerns our compliance with this privacy policy, and if we are unable to resolve your complaint to your satisfaction, you may elect to proceed with BBBOnLine's Privacy Policy Review Service by completing the [ **BBBOnline complaint form**](http://www.bbbonline.org/consumer/submit.asp). 
+If at any time you have a question or dispute concerning your visit here, your order transaction, or our compliance with this privacy policy, you may contact us at [**service@undergear.com**](mailto:service@undergear.com). Please provide your first and last name, order number, if any, and, if you have a question about our merchandise, item number(s), and we will get back to you promptly. If we are unable to resolve your complaint to your satisfaction, you may elect to proceed to submit your complaint to an independent arbitrator to obtain an impartial assessment of your case, in writing. Any such arbitration will be deemed 'conditionally binding', meaning that the decision of the arbitrator will be binding upon Undergear **®** if you elect to accept the decision, and it will be binding upon you as well. If your dispute concerns our compliance with this privacy policy, and if we are unable to resolve your complaint to your satisfaction, you may elect to proceed with BBBOnLine's Privacy Policy Review Service by completing the [ **BBBOnline complaint form**](http://www.bbbonline.org/consumer/submit.asp). 
 
 **To Residents of a European Union Member Country (EU Residents) - Re: The DMA Safe Harbor Program**   
 If you are an EU Resident, your personal data in the possession or control of Undergear **®** is subject to the United States-European Union Safe Harbor Privacy Principles, FAQ's and other relevant EU documents (the 'Safe Harbor'). Safe Harbor Privacy Principles are made available by the U.S. Department of Commerce on their website at [ **http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm**](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm). FAQs and other relevant Safe Harbor documents are made available by the U.S. Department of Commerce on their website at [ **http://www.export.gov/safeharbor/SafeHarborDocuments.htm**](http://www.export.gov/safeharbor/sh_documents.html).
