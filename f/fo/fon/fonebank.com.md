@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219114608id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525155518id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
-# Sell, trade in or recycle your old mobile phone for cash
+# Sell mobile phones for cash – Trade in, Recycle mobile phones
+
+| |    
+
 
 Privacy Policy
 
@@ -51,3 +54,6 @@ Any changes to our privacy policy in the future will be posted to the website an
 CONTACT
 
 All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@fonebank.com. 
+
+|  |   
+---|---|---|---
