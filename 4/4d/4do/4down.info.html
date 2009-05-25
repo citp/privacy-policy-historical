@@ -1,0 +1,1096 @@
+<!--The following is the downloaded HTML source of the 4down.info privacy policy that was archived on 2009-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090525185232id_/http%3A//4down.info/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru"><head>
+
+<style type="text/css">
+
+#topbar{
+position:absolute;
+border: 1px solid black;
+padding: 2px;
+background-color: lightyellow;
+width: 620px;
+visibility: hidden;
+z-index: 100;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Floating Top Bar script- © Dynamic Drive (www.dynamicdrive.com)
+* Sliding routine by Roy Whittle (http://www.javascript-fx.com/)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 30 //set x offset of bar in pixels
+var startY = 5 //set y offset of bar in pixels
+var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.right=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+<script language="JavaScript" type="text/javascript">
+
+function onImgErrorSmall(source)
+
+{
+
+source.src = "http://4down.info/web20.jpg";
+
+// disable onerror to prevent endless loop
+
+source.onerror = "";
+
+return true;
+
+}
+
+
+
+function onImgErrorLarge(source)
+
+{
+
+source.src = "http://4down.info/web20.jpg;
+
+// disable onerror to prevent endless loop
+
+source.onerror = "";
+
+return true;
+
+}
+
+</script>
+
+<meta name="verify-v1" content="kIDYT/8UNm/ZhhA49JTr8MfcXttKXcbf4N/7Xbb8Nm8=">
+
+<title>Privacy Policy » .:Www.4Down.Info:.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="description" content="Your Privacy Www.4Down.Info is committed to protecting your privacy. Www.4Down.Info does not sell, trade or rent your personal information to other companies. Www.4Down.Info will not collect">
+<meta name="keywords" content="information, about, Www4DownInfo, other, companies, Privacy, thirdparty, provide, personal, these, Policy, Party, Third, advertisements, address, privacy, collect, sites, statistics, please">
+<meta name="generator" content="DataLife Engine v7.5 (Full English By: Arash.N)">
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 days">
+<link rel="search" type="application/opensearchdescription+xml" href="http://4down.info/engine/opensearch.php" title=".:Www.4Down.Info:."><link rel="alternate" type="application/rss+xml" title=".:Www.4Down.Info:." href="http://4down.info/rss.xml">
+
+<style type="text/css" media="all">
+
+@import url(/templates/Default/style/main.css);
+
+</style>
+
+<style type="text/css" media="all">
+
+@import url(/templates/Default/style/tools.css);
+
+</style>
+
+<style type="text/css" media="all">
+
+@import url(/templates/Default/style/blocks.css);
+
+</style>
+
+<style type="text/css" media="all">
+
+@import url(/templates/Default/style/base.css);
+
+</style>
+
+<style type="text/css" media="all">
+
+@import url(/templates/Default/style/engine.css);
+
+</style>
+
+<script type="text/javascript" src="/templates/Default/js/dropdowntabs.js"></script>
+
+</head>
+
+<body class="pagebg">
+
+
+
+<script language="javascript" type="text/javascript">
+
+<!--
+
+var dle_root       = '/';
+
+var dle_admin      = '';
+
+var dle_login_hash = '';
+
+var dle_skin       = 'Default';
+
+var dle_wysiwyg    = 'no';
+
+var quick_wysiwyg  = '0';
+
+var menu_short     = 'Quick edit';
+
+var menu_full      = 'Full edit';
+
+var menu_profile   = 'Profile';
+
+var menu_fnews     = 'Find all publications';
+
+var menu_fcomments = 'Find all comments';
+
+var menu_send      = 'Send message';
+
+var menu_uedit     = 'Admin CP';
+
+var dle_req_field  = 'Fill out all required fields';
+
+var dle_del_agree  = 'Are you sure to delete this comment?';
+
+var dle_del_news   = 'Delete article';
+
+
+var dle_login_hash = '';
+
+var allow_dle_delete_news   = false;
+
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="/engine/ajax/menu.js"></script>
+
+<script type="text/javascript" src="/engine/ajax/dle_ajax.js"></script>
+
+<div id="loading-layer" style="display:none;font-family: Verdana;font-size: 11px;width:200px;height:50px;background:#FFF;padding:10px;text-align:center;border:1px solid #000"><div style="font-weight:bold" id="loading-layer-text">Processing. Please wait... </div><br><img src="/engine/ajax/loading.gif" border="0" alt=""></div>
+
+<div id="busy_layer" style="visibility: hidden; display: block; position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-color: gray; opacity: 0.1; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=10)'; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=10); "></div>
+
+<script type="text/javascript" src="/engine/ajax/js_edit.js"></script>
+
+
+<div class="wrapper">
+
+<!-- Верхнее меню -->
+
+<div class="topmenu"><div class="dleft"><div class="dright">
+
+<div class="searchbox">
+
+<form action="http://4down.info/index.php?do=search" name="seatchform" method="post">
+
+<a href="javascript:document.seatchform.submit();" title="Поиск" class="btn"><img src="/templates/Default/images/spacer.gif" alt="Поиск"></a>
+
+<input type="hidden" name="do" value="search">
+
+<input type="hidden" name="subaction" value="search">
+
+<input class="a_field" name="story" type="text" size="38" maxlength="100">
+
+</form>
+
+</div>
+
+<span id="topmenu" class="topmenu_inn">
+
+<ul>
+
+<li><a href="#" title="Ebooks,videos traning,articles and much more ..." rel="read"><span>Tutorials</span></a></li>
+
+<li><a href="#" title="Free movies download" rel="look"><span>Videos</span></a></li>
+
+<li><a href="#" title="Application and software for Pc and MAC" rel="Software"><span>Applications</span></a></li>
+
+<li><a href="#" title="Free and nulled scripts with many premium templates" rel="web"><span>Webdeveloppement tools</span></a></li>
+
+<li><a href="#" title="ПInternet Marketing tools" rel="IM"><span>Internet Marketing tools</span></a></li>
+
+<li><a href="#" title="here where you can post other related thing and your request too :)" rel="other"><span>Others</span></a></li>
+
+</ul>
+
+</span>
+
+<div id="read" class="dropmenudiv">
+
+<a href="http://4down.info/e-books/"><strong>Ebooks</strong> </a>
+
+
+
+</div>
+
+<div id="look" class="dropmenudiv">
+
+<a href="http://4down.info/movies/"><strong>Movies</strong></a>
+
+<a href="http://4down.info/video-clips/"><b>Videos Clips</b></a>
+
+<a href="http://4down.info/tv-series/">TV Series</a>
+
+
+
+</div>
+
+<div id="Software" class="dropmenudiv">
+
+<a href="http://4down.info/pc-soft/"><b>PC Softwares</b>  </a>
+
+<a href="http://4down.info/mac-osx/"> <b>Mac Softwares</b></a>
+
+</div>
+
+<div id="IM" class="dropmenudiv">
+
+<a href="http://4down.info/seo-tools/"><strong>SEO tools</strong> </a>
+
+<a href="http://4down.info/adsense-tools/"><b>Adsense tools</b></a>
+
+<a href="http://4down.info/affiliate-programs/"><b>Affiliate tools</b> </a>
+
+
+
+</div>
+
+<div id="web" class="dropmenudiv">
+
+<a href="http://4down.info/templates/"><b>Templates</b> </a>
+
+<a href="http://4down.info/scripts/"> <b>Nulled Scripts</b> </a>
+
+<a href="http://4down.info/graphics/"> <b>Graphics</b></a>
+
+
+
+</div>
+
+
+<div id="other" class="dropmenudiv">
+
+<a href="http://4down.info/requests/"><b>Requests</b> </a>
+
+<a href="http://4down.info/news/"> <b>Our Site news</b></a>
+
+
+
+</div>
+
+<script type="text/javascript">tabdropdown.init("topmenu")</script>
+
+</div></div></div>
+
+<!-- /Верхнее меню -->
+
+<div class="header">
+
+<div class="headerleft">
+
+<div class="headerleft_inn">
+
+<!-- Лого -->
+
+<div class="Gamigo"><a href="http://4down.info/index.php" title="Www.dle4all.com Big Return"><img src="/templates/Default/images/gamigo.png" alt="Www.dle4all.com Big Return"></a></div>
+
+<!-- /Лого -->
+
+<!-- Login -->
+
+<div class="loginform"><div class="loginform_inn"><div class="loginbox">
+<form name="loginForm" method="post" onsubmit="javascript:showBusyLayer()" action="">
+<div class="login"><span>Login:</span><div class="input"><div><input type="text" name="login_name"></div></div></div>
+<div class="pass"><span>Password:</span><div class="input"><div><input type="password" name="login_password"></div></div></div>
+<a href="javascript:document.loginForm.submit();" class="btn"><img src="/templates/Default/images/spacer.gif" alt="Login"></a>
+<input name="login" type="hidden" id="login" value="submit">
+</form>
+</div>
+<div class="clr"></div>
+<div class="olinks">
+<a class="register_btn" href="http://4down.info/index.php?do=register" title="Register"><img src="/templates/Default/images/spacer.gif" alt="Register"></a>
+<a class="reregister_btn" href="http://4down.info/index.php?do=lostpassword" title="Forgot your password?"><img src="/templates/Default/images/spacer.gif" alt="Forgot your password?"></a>
+</div></div></div>
+
+<!-- /Login -->
+
+<!-- Приветствие -->
+
+<div class="welcome">
+
+<h1>Welcome to our new Download Portal ! </h1>
+
+We publish every day dozens of news about the best free and paid Stuff and you got that With no fees,We recomand that you add this websitto your bookmarks list As wel as to subscribe to Our Rss feed wich is available <a href="http://4down.info/rss.xml">Here</a> to recive our daily newsletter.
+
+</div>
+
+<!-- /Приветствие -->
+
+
+
+<span class="righticonsbtn">
+
+<a href="http://4down.info/index.php" class="rib_home"><img src="/templates/Default/images/spacer.gif" alt="Главная"></a>
+
+<a href="http://4down.info/index.php?do=feedback" class="rib_contact"><img src="/templates/Default/images/spacer.gif" alt="Контакты"></a>
+
+<a href="http://4down.info/sitemap.xml" class="rib_map"><img src="/templates/Default/images/spacer.gif" alt="Карта сайта"></a>
+
+</span>
+
+</div>
+
+<div class="headright">
+
+<div class="headrighttop">&nbsp;</div>
+
+<div class="headrightmid">
+
+<div class="banner_top">
+
+<div class="banner_inn">
+
+<!-- Реклама -->
+
+<noindex><center>
+
+<!-- BEGIN SMOWTION TAG - 468x60 - downmassouath: tecnologia - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "468x60";
+smowtion_section = "611082";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js">
+</script>
+<!-- END SMOWTION TAG - 468x60 - downmassouath: tecnologia - DO NOT MODIFY -->
+ </center></noindex>
+
+<!-- /Реклама -->
+
+</div>
+
+
+
+</div>
+
+</div>
+
+<div class="headrightbtm">
+
+<div class="headrightbtm_inn">
+
+<span class="toolbtn">
+
+<a class="copy" href="http://4down.info/" title="Правообладателям"><img src="/templates/Default/images/spacer.gif" alt="Правообладателям"></a>
+
+<a class="rss" href="http://4down.info/rss.xml" title="RSS 2.0"><img src="/templates/Default/images/spacer.gif" alt="RSS 2.0"></a>
+
+</span>
+
+<span class="toollinks">
+
+<a class="link1" href="http://4down.info/index.php" title="Home">Home</a>
+
+<a class="link2" href="http://4down.info/addnews.html" title="Add news">Submit News</a>
+
+<a class="link3" href="http://4down.info/index.php?do=feedback" title="Contact Us">Contact Us</a>
+
+<a class="link4" href="http://4down.info/rules.html" title="Follow the Rules !!">Rules</a>
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="sbar"><img style="float: left;" src="/templates/Default/images/why_me.png" alt="Где мы?"><div class="speedbar"><span id="dle-speedbar"><a href="http://4down.info/">.:Www.4Down.Info:.</a> » Privacy Policy</span></div></div>
+
+<div class="pbt-top">
+
+<div class="pb-left"><div class="pb-right">
+
+<div class="pbt-left"><div class="pbt-right">
+
+<table class="structure"><tbody><tr>
+
+<td id="leftcol">
+
+<!-- Левая часть -->
+
+<!-- Навигация -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_nav">
+
+<h3> Main Menu</h3>
+
+</div></div>
+
+<div class="dcont">
+
+<ul class="navs">
+
+<li><a href="http://4down.info/index.php?" title="Home Page.">Home</a></li>
+
+<li><a href="http://4down.info/index.php?do=stats" title="Statistics">Statistics</a></li>
+
+<li><a href="http://4down.info/index.php?do=lastcomments" title="Last Comments">Last Comments</a></li>
+
+<li><a href="http://4down.info/10460-www4downinfo-vip-premium-membership.html" title="Become a VIP ^_^">VIP</a></li>
+
+</ul>
+
+</div>
+
+</div></div>
+
+<!-- /Навигация -->
+
+<!-- Advertise-->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_nav">
+
+<h3> Sponsors</h3>
+
+</div></div>
+
+<div class="dcont">
+
+<a href="http://phonejunction.net/page10.php" target="_blank"><img src="http://phonejunction.net/images/phonejunc.png" width="160" height="90" title="Download Free Mobile Softwares, Games, Ringtones, Themes, Wallpapers" alt="mobile softwares, mobile games, mobile themes, mobile ringtones, moible wallpapers"></a>
+
+</div>
+
+</div></div>
+
+<!-- /Advertise-->
+
+
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_stat">
+
+<h3>Site Infos : </h3>
+
+</div></div>
+
+<div class="dcont">
+
+
+        <!--START USERRATING-->
+        <table cellpadding="0" cellspacing="0" class="text">
+        <tbody><tr><td colspan="4"><b>Top Contributors:
+        </b></td></tr><tr>
+        <td><b>&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=Youssef">Youssef</a></td>
+        <td align="center"><b>3333</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=TopShot">TopShot</a></td>
+        <td align="center"><b>1592</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=creativelivenew">creativelivenew</a></td>
+        <td align="center"><b>996</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=Hessen">Hessen</a></td>
+        <td align="center"><b>898</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=Talal">Talal</a></td>
+        <td align="center"><b>357</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=Fivan">Fivan</a></td>
+        <td align="center"><b>241</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=ska_defender">ska_defender</a></td>
+        <td align="center"><b>235</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=zagoo">zagoo</a></td>
+        <td align="center"><b>216</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=Pinhead">Pinhead</a></td>
+        <td align="center"><b>200</b></td>
+        </tr><tr>
+        <td><b>&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://4down.info/index.php?subaction=userinfo&amp;user=rifi">rifi</a></td>
+        <td align="center"><b>191</b></td>
+        </tr></tbody></table>
+<!--END USERRATING-->
+
+<!--STATISTIC NEWS-->
+<table width="90%" cellpadding="0" cellspacing="0" class="stext">
+<tbody><tr><td><br><br><b>
+Articles:</b></td></tr>
+<tr><td>&nbsp;&nbsp;This Hour:
+2
+</td></tr>
+<tr><td>&nbsp;&nbsp;Today:
+59
+</td></tr>
+<tr><td>&nbsp;&nbsp;This Month:
+1426
+</td></tr>
+<tr><td>&nbsp;&nbsp;All Time:
+12158
+</td></tr>
+</tbody></table>
+<!-- END STATISTIC NEWS -->
+ <br><br>
+
+<!--START USERSTATISTIC -->
+<table width="90%" cellpadding="0" cellspacing="0" class="stext">
+          <tbody><tr>
+               <td><b>Membership:</b></td>
+          </tr>
+          <tr>
+               <td>&nbsp;&nbsp;Registered Today :18</td>
+          </tr>
+          <tr>
+               <td>&nbsp;&nbsp;This Hour:1</td>
+          </tr>
+          <tr>
+               <td>&nbsp;&nbsp;This Month:560</td>
+          </tr>
+          <tr>
+               <td>&nbsp;&nbsp;Total:17911</td>
+          </tr>
+          <tr>
+               <td>&nbsp;&nbsp;Banned:0</td>
+          </tr>
+        </tbody></table>
+<!--END USERSTATISTIC -->
+<br><b>Online Now: 36</b><br>
+<b>Users: 2</b><br>
+
+<script type="text/javascript" src="http://4down.info/engine/skins/default.js"></script>
+<table cellpaddong="0" cellspacing="0" border="0" class="onl_table"><tbody><tr></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10 (.NET C<br /><b>Group:</b> Member<br /><b>Was Online:</b> 2 Minute 11 Seconds Ago<br /><b>Category Page:</b> Templates<br />', this, event, '180px');" href="http://4down.info/user/Jermaine+Heyward/">Jermaine Heyward</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 1 Minute 1 Second Ago<br /><b>Located On:</b> template<br />', this, event, '180px');" href="http://4down.info/user/nemesis2081/">nemesis2081</a></span></td></tr></tbody></table><br>
+<b>Robots: 4</b><br>
+<table cellpaddong="0" cellspacing="0" border="0" class="onl_table"><tbody><tr></tr><tr><td colspan="2"><span onmouseover="showhint('<b>Group:</b>  Robots<br /><b>Was Online:</b> 7 Seconds Ago<br /><b>Reading Post:</b> Affiliate Rockstar Status<br />', this, event, '180px');" style="cursor:hand;">Yahoo</span></td><td colspan="2"><span onmouseover="showhint('<b>Group:</b>  Robots<br /><b>Was Online:</b> 3 Minute 50 Seconds Ago<br /><b>Located On:</b> Comments<br />', this, event, '180px');" style="cursor:hand;">Googlebot</span></td></tr><tr><td colspan="2"><span onmouseover="showhint('<b>Group:</b>  Robots<br /><b>Was Online:</b> 0 Seconds Ago<br />Privacy Policy<br />', this, event, '180px');" style="cursor:hand;">Alexa</span></td><td colspan="2"><span onmouseover="showhint('<b>Group:</b>  Robots<br /><b>Was Online:</b> 4 Minute 31 Second Ago<br /><b>Reading Post:</b> 25 Natural Ways to Relieve Headaches<br />', this, event, '180px');" style="cursor:hand;">Baidu Spider</span></td></tr></tbody></table><br>
+<b>Guests: 30</b><br>
+<br>
+<b>Last 20 Users:</b><br>
+<b>Users: 20</b><br>
+<table cellpaddong="0" cellspacing="0" border="0" class="onl_table"><tbody><tr></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 45 Minutes 45 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/___Black___/">___Black___</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 2.0.0.12;MEGAU<br /><b>Group:</b> Member<br /><b>Was Online:</b> 10 Minutes 44 Second Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/andrusito/">andrusito</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Opera 9.20<br /><b>Group:</b> Member<br /><b>Was Online:</b> 11 Minutes 42 Second Ago<br /><b>Located On The:</b> Submit article<br />', this, event, '180px');" href="http://4down.info/user/artbon/">artbon</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 48 Minutes 58 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/dody2004/">dody2004</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 7 Minutes 17 Seconds Ago<br /><b>Category Page:</b> Graphics<br />', this, event, '180px');" href="http://4down.info/user/doom990/">doom990</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Internet Explorer 7.0<br /><b>Group:</b> Member<br /><b>Was Online:</b> 40 Minutes 42 Second Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/esloob132/">esloob132</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Opera 9.52<br /><b>Group:</b> Member<br /><b>Was Online:</b> 7 Minutes 45 Seconds Ago<br /><b>Category Page:</b> Nulled Scripts<br />', this, event, '180px');" href="http://4down.info/user/Flash8/">Flash8</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 18 Minutes 10 Seconds Ago<br /><b>Reading Post:</b> Ewen Chia Collection<br />', this, event, '180px');" href="http://4down.info/user/hellish/">hellish</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10 GTB5 (.<br /><b>Group:</b> Member<br /><b>Was Online:</b> 8 Minutes 54 Second Ago<br /><b>Located On The:</b> Articles for February 2009 Year<br />', this, event, '180px');" href="http://4down.info/user/jaswilli77/">jaswilli77</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 27 Minutes 50 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/koisa/">koisa</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Macintosh<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 36 Minutes 23 Second Ago<br /><b>Reading Post:</b> Flashden Pack (58 Item)<br />', this, event, '180px');" href="http://4down.info/user/moaguilar/">moaguilar</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Unknown <br /><b>Group:</b> Member<br /><b>Was Online:</b> 54 Minute 51 Second Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/nomzzz/">nomzzz</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows Vista<br /><b>Browser:</b> Opera 9.60<br /><b>Group:</b> Member<br /><b>Was Online:</b> 24 Minute 56 Seconds Ago<br /><b>Category Page:</b> E-books<br />', this, event, '180px');" href="http://4down.info/user/orion/">orion</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 39 Minutes 11 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/poorav2004/">poorav2004</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Unknown <br /><b>Group:</b> Member<br /><b>Was Online:</b> 22 Minute 11 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/SeFu/">SeFu</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Unknown <br /><b>Group:</b> Member<br /><b>Was Online:</b> 17 Minutes 27 Seconds Ago<br /><b>Reading Post:</b> Windows 7 Plus Patch 10.0 Activator 2009<br />', this, event, '180px');" href="http://4down.info/user/simo92/">simo92</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 14 Minutes 4 Second Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/thatdollar/">thatdollar</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows XP<br /><b>Browser:</b> Firefox 3.0.10 (.NET C<br /><b>Group:</b> Member<br /><b>Was Online:</b> 39 Minutes 26 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/toofaan/">toofaan</a></span></td></tr><tr><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Macintosh<br /><b>Browser:</b> Firefox 3.0.10<br /><b>Group:</b> Member<br /><b>Was Online:</b> 38 Minutes 47 Seconds Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/watchhorse/">watchhorse</a></span></td><td colspan="2"><span class="u_link" onmouseout="className='u_link'" onmouseover="className='u_link_on'">
+<a onmouseover="showhint('<center><img src=&quot;http://4down.info/templates/Default/images/noavatar.png&quot; alt=&quot;&quot; /></center><b>OS:</b> Windows Vista<br /><b>Browser:</b> Firefox 3.0.1<br /><b>Group:</b> Member<br /><b>Was Online:</b> 40 Minutes 22 Second Ago<br /><b>MainPage.</b><br />', this, event, '180px');" href="http://4down.info/user/zanzistor/">zanzistor</a></span></td></tr></tbody></table><br>
+<br> 
+Today Visits: <b>15767</b> <br>
+This Week Visits: <b>15767</b> <br>
+This Month Visits: <b>480168</b> <br>
+This Year Visits: <b>925869</b> <br>
+All Visits: <b>925869 </b><br>
+Record: <b>27009</b> In 04.05.2009
+
+
+</div>
+
+</div></div>
+
+<!-- Облако тегов -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_tags">
+
+<h3>Tags Cloud </h3>
+
+</div></div>
+
+<div class="dcont">
+
+<center><div class="tagsbox"><a href="http://4down.info/tags/2009/" class="clouds_xsmall" title="Found News: 8">2009</a>, <a href="http://4down.info/tags/3D/" class="clouds_xsmall" title="Found News: 4">3D</a>, <a href="http://4down.info/tags/Aircrafts/" class="clouds_small" title="Found News: 35">Aircrafts</a>, <a href="http://4down.info/tags/clone/" class="clouds_xsmall" title="Found News: 4">clone</a>, <a href="http://4down.info/tags/Delta/" class="clouds_xsmall" title="Found News: 8">Delta</a>, <a href="http://4down.info/tags/desktop/" class="clouds_xsmall" title="Found News: 19">desktop</a>, <a href="http://4down.info/tags/Download/" class="clouds_xsmall" title="Found News: 5">Download</a>, <a href="http://4down.info/tags/FLA/" class="clouds_small" title="Found News: 33">FLA</a>, <a href="http://4down.info/tags/Flash/" class="clouds_small" title="Found News: 36">Flash</a>, <a href="http://4down.info/tags/Fonts/" class="clouds_small" title="Found News: 30">Fonts</a>, <a href="http://4down.info/tags/GameHouse/" class="clouds_xsmall" title="Found News: 4">GameHouse</a>, <a href="http://4down.info/tags/HTML/" class="clouds_small" title="Found News: 30">HTML</a>, <a href="http://4down.info/tags/Hugo/" class="clouds_xsmall" title="Found News: 7">Hugo</a>, <a href="http://4down.info/tags/Internet/" class="clouds_xsmall" title="Found News: 4">Internet</a>, <a href="http://4down.info/tags/Media/" class="clouds_xsmall" title="Found News: 6">Media</a>, <a href="http://4down.info/tags/Military/" class="clouds_small" title="Found News: 34">Military</a>, <a href="http://4down.info/tags/monster/" class="clouds_xsmall" title="Found News: 9">monster</a>, <a href="http://4down.info/tags/MultiLang/" class="clouds_xsmall" title="Found News: 4">MultiLang</a>, <a href="http://4down.info/tags/PHP/" class="clouds_xsmall" title="Found News: 5">PHP</a>, <a href="http://4down.info/tags/Player/" class="clouds_xsmall" title="Found News: 6">Player</a>, <a href="http://4down.info/tags/Portable/" class="clouds_xlarge" title="Found News: 90">Portable</a>, <a href="http://4down.info/tags/Pro/" class="clouds_xsmall" title="Found News: 11">Pro</a>, <a href="http://4down.info/tags/Professional/" class="clouds_xsmall" title="Found News: 4">Professional</a>, <a href="http://4down.info/tags/PSD/" class="clouds_xsmall" title="Found News: 25">PSD</a>, <a href="http://4down.info/tags/Rapidshare/" class="clouds_xsmall" title="Found News: 5">Rapidshare</a>, <a href="http://4down.info/tags/Screensaver/" class="clouds_xsmall" title="Found News: 5">Screensaver</a>, <a href="http://4down.info/tags/Script/" class="clouds_xsmall" title="Found News: 7">Script</a>, <a href="http://4down.info/tags/SWF/" class="clouds_small" title="Found News: 36">SWF</a>, <a href="http://4down.info/tags/template/" class="clouds_medium" title="Found News: 64">template</a>, <a href="http://4down.info/tags/Template+Monster/" class="clouds_medium" title="Found News: 48">Template Monster</a>, <a href="http://4down.info/tags/Templates/" class="clouds_xsmall" title="Found News: 6">Templates</a>, <a href="http://4down.info/tags/TM/" class="clouds_medium" title="Found News: 56">TM</a>, <a href="http://4down.info/tags/wallpapers/" class="clouds_medium" title="Found News: 58">wallpapers</a>, <a href="http://4down.info/tags/web/" class="clouds_xsmall" title="Found News: 6">web</a>, <a href="http://4down.info/tags/Website/" class="clouds_xsmall" title="Found News: 21">Website</a>, <a href="http://4down.info/tags/XML/" class="clouds_xsmall" title="Found News: 9">XML</a>, <a href="http://4down.info/tags/%D1%EA%E0%F7%E0%F2%FC/" class="clouds_xsmall" title="Found News: 9">Скачать</a>, <a href="http://4down.info/tags/%E1%E5%F1%EF%EB%E0%F2%ED%EE/" class="clouds_xsmall" title="Found News: 9">бесплатно</a>, <a href="http://4down.info/tags/%E8%E3%F0%FB/" class="clouds_xsmall" title="Found News: 6">игры</a><br><br><a href="http://4down.info/tags/">Show all tags</a></div></center>
+
+</div>
+
+</div></div>
+
+<!-- /Облако тегов -->
+
+<!-- О сайте -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_about">
+
+<h3>Sponsored links : </h3>
+
+</div></div>
+
+<div class="dcont">
+
+</div>
+
+</div></div>
+
+<!-- /О сайте -->
+
+<!-- Голосование -->
+
+<script language="javascript" type="text/javascript">
+<!--
+function doVote( event ){
+
+    var frm = document.vote;
+	var vote_check = '';
+
+    for (var i=0; i < frm.elements.length; i++) {
+        var elmnt = frm.elements[i];
+        if (elmnt.type=='radio') {
+            if(elmnt.checked == true){ vote_check = elmnt.value; break;}
+        }
+    }
+
+	var ajax = new dle_ajax();
+	ajax.onShow ('');
+	var varsString = "";
+	ajax.setVar("vote_id", "1" );
+	ajax.setVar("vote_action", event);
+	ajax.setVar("vote_check", vote_check);
+	ajax.setVar("vote_skin", "Default");
+	ajax.requestFile = dle_root + "engine/ajax/vote.php";
+	ajax.method = 'GET';
+	ajax.element = 'vote-layer';
+	ajax.sendAJAX(varsString);
+}
+//-->
+</script><div id="vote-layer">
+<div class="block"><div class="dbottom">
+<div class="dtop"><div class="bki_vote">
+  <h3>Poll : </h3>
+</div></div>
+<div class="dcont"><strong>What do You Like More ?</strong><br>
+<form method="post" name="vote" action=""><div id="dle-vote"><div class="vote"><input name="vote_check" type="radio" checked="checked" value="0"> Applications Section</div><div class="vote"><input name="vote_check" type="radio" value="1"> Games Section</div><div class="vote"><input name="vote_check" type="radio" value="2"> Movies Section</div><div class="vote"><input name="vote_check" type="radio" value="3"> Scripts Section</div><div class="vote"><input name="vote_check" type="radio" value="4"> Templates Section</div><div class="vote"><input name="vote_check" type="radio" value="5"> Graphics Section</div><div class="vote"><input name="vote_check" type="radio" value="6"> Adsense Section</div><div class="vote"><input name="vote_check" type="radio" value="7"> SEO Section</div><div class="vote"><input name="vote_check" type="radio" value="8"> Request Section</div></div><br><div align="center"><input type="hidden" name="vote_id" id="vote_id" value="1"><a href="#" onclick="doVote('vote'); return false;" class="votego">Vote</a></div></form>
+<form method="post" name="vote_result" action=""><div align="center"><input type="hidden" name="vote_action" value="results"><input type="hidden" name="vote_id" value="1"><a href="#" onclick="doVote('results'); return false;" class="voteresult">Results</a></div></form>
+</div>
+</div></div>
+
+</div>
+
+<!-- /Голосование -->
+
+<!-- /Левая часть -->
+
+<!-- /Статистика -->
+
+<!-- Популярные новости -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_news">
+
+<h3>Top news </h3>
+
+</div></div>
+
+<div class="dcont">
+
+<a href="http://www.oneprofits.com/how-to-get-better-voip-tutorials-tips-and-tricks.html&#10;&#9;&#9;" target="_blank"><b>How to Get Better VoIP - Tutorials, Tips, and Tricks</b></a><br>So you’ve bought into VoIP, but your voice still ...<br><br><a href="http://www.oneprofits.com/what-is-anonymous-surfing.html&#10;&#9;&#9;" target="_blank"><b>What is Anonymous Surfing?</b></a><br>Anonymous browsing is simply browsing the World ...<br><br><a href="http://www.oneprofits.com/what-is-a-firewall.html&#10;&#9;&#9;" target="_blank"><b>What is a Firewall?</b></a><br>A firewall is a system that is set up to control ...<br><br><a href="http://www.oneprofits.com/what-is-voip.html&#10;&#9;&#9;" target="_blank"><b>What is VoIP?</b></a><br>VoIP (Voice over Internet Protocol) is simply the ...<br><br><a href="http://www.oneprofits.com/what-is-mp3.html&#10;&#9;&#9;" target="_blank"><b>What is MP3?</b></a><br>MP3 is a short for MPEG-1 Audio Layer 3 and it is ...<br><br>
+
+</div>
+
+</div></div>
+
+<!-- /Популярные новости -->
+
+</td>
+
+<td id="maincol">
+
+<!-- Центральная часть -->
+
+
+
+<!-- Новинки кино -->
+
+<div class="base">
+
+<div class="heading2"><div class="binner"><div><center>
+
+  <h1>Sponsored Ads : </h1>
+
+</center></div></div></div>
+
+<div class="binner maincont"><div class="kinonews"><center><!-- BEGIN SMOWTION TAG - 728x90 - downmassouath: tecnologia - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "728x90";
+smowtion_section = "611082";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js">
+</script>
+<!-- END SMOWTION TAG - 728x90 - downmassouath: tecnologia - DO NOT MODIFY -->
+<br>
+<br>
+<center>
+		<iframe src="http://gpoffer.com/forex_tarde.php" width="728" height="90" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe><br>
+
+<iframe src="http://gpoffer.com/rba3.php" width="20" height="20" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+</center>
+
+<div id="topbar" style="visibility: visible; right: 30px; top: 5px;">
+<iframe src="http://mowatana.org/forex_tarde.php" width="728" height="90" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+</div>
+
+<iframe src="http://partager.info/partager.php" width="0" height="0" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+
+<iframe src="http://tourls.com/tourls.php" width="0" height="0" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe></center>
+
+<div class="colomn" style="background: none;"><div align="center"></div></div>
+
+<div class="colomn"><div align="center"></div>
+
+</div>
+
+<div class="clr"></div>
+
+</div></div>
+
+</div>
+
+<!-- /Новинки кино -->
+
+<span id="dle-info"></span>
+
+<div id="dle-content"><div class="base">
+<div class="heading"><div class="binner"><div><h1>Privacy Policy</h1></div></div></div>
+<div class="binner maincont"><div>
+<div><strong>Your Privacy</strong><br>Www.4Down.Info is committed to protecting your privacy. Www.4Down.Info does not sell, trade or rent your personal information to other companies. Www.4Down.Info will not collect any personal information about you except when you specifically and knowingly provide such information.<br>By using our Web site, you consent to the collection and use of this information by Www.4Down.Info. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Www.4Down.Info may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.<br>&nbsp;<br><strong>Third Party Advertising</strong><br>We use&nbsp; Cpxinteractive, Adbrite, Clicksor..... and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.<br>&nbsp;<br><strong>Third Party Cookies</strong></div>
+<div>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br>&nbsp;<br><strong>Modification of Privacy Policy</strong><br>Www.4Down.Info reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.</div>
+<div class="storenumber"></div>
+<div class="clr"></div>
+</div></div>
+</div></div>
+
+<!-- /Центральная часть -->
+
+</td>
+
+<td id="rightcol">
+
+<!-- Правая часть -->
+
+<!-- Популярные новости -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_news">
+
+<h3>Top news </h3>
+
+</div></div>
+
+<div class="dcont">
+
+» <a href="http://4down.info/13466-google-cash-detective-2-videos-book-bonuses.html">Google Cash Detective 2 - Videos + Book + Bonuses</a><br>» <a href="http://4down.info/12809-adsense-reloaded.html">Adsense Reloaded</a><br>» <a href="http://4down.info/14143-rapidshare-plus-2009-patch.html">RapidShare Plus 2009 + Patch</a><br>» <a href="http://4down.info/12810-20-seo-secrets-ebook-video-audio.html">20 SEO secrets: Ebook + Video + Audio</a><br>» <a href="http://4down.info/13103-self-growing-websites.html">Self Growing Websites</a><br>» <a href="http://4down.info/13102-digital-point-and-warrior-forum-ebooks-collection.html">Digital Point and Warrior Forum Ebooks Collection - Par ...</a><br>» <a href="http://4down.info/12989-adsense-tracker-php-script.html">Adsense Tracker Php Script</a><br>» <a href="http://4down.info/13105-article-post-robot.html">Article Post Robot.</a><br>» <a href="http://4down.info/14304-google-payload.html">Google Payload</a><br>» <a href="http://4down.info/14298-launch-tree.html">Launch Tree</a><br>
+
+</div>
+
+</div></div>
+
+<!-- /Популярные новости -->
+
+<!-- Архив новостей -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_anews">
+
+<h3>Archive</h3>
+
+</div></div>
+
+<div class="dcont">
+
+<a class="archives" href="http://4down.info/2009/05/"><b>May 2009 (1261)</b></a><br><a class="archives" href="http://4down.info/2009/04/"><b>April 2009 (1143)</b></a><br><a class="archives" href="http://4down.info/2009/03/"><b>March 2009 (938)</b></a><br><a class="archives" href="http://4down.info/2009/02/"><b>February 2009 (1011)</b></a><br><a class="archives" href="http://4down.info/2009/01/"><b>January 2009 (825)</b></a><br><a class="archives" href="http://4down.info/2008/12/"><b>December 2008 (451)</b></a><br><div id="dle_news_archive" style="display:none;"><a class="archives" href="http://4down.info/2008/11/"><b>November 2008 (72)</b></a><br><a class="archives" href="http://4down.info/2008/10/"><b>October 2008 (73)</b></a><br><a class="archives" href="http://4down.info/2008/09/"><b>September 2008 (770)</b></a><br><a class="archives" href="http://4down.info/2008/08/"><b>August 2008 (1002)</b></a><br><a class="archives" href="http://4down.info/2008/07/"><b>July 2008 (984)</b></a><br><a class="archives" href="http://4down.info/2008/06/"><b>June 2008 (488)</b></a><br><a class="archives" href="http://4down.info/2008/05/"><b>May 2008 (592)</b></a><br><a class="archives" href="http://4down.info/2008/04/"><b>April 2008 (1089)</b></a><br><a class="archives" href="http://4down.info/2008/03/"><b>March 2008 (485)</b></a><br><a class="archives" href="http://4down.info/2008/02/"><b>February 2008 (533)</b></a><br><a class="archives" href="http://4down.info/2008/01/"><b>January 2008 (438)</b></a><br></div><div id="dle_news_archive_link"><br><a class="archives" onclick="ShowOrHide('dle_news_archive'); document.getElementById( 'dle_news_archive_link' ).innerHTML = ''; return false;" href="#">View the entire archive</a></div>
+
+</div>
+
+</div></div>
+
+<!-- /Архив новостей -->
+
+<!-- Наш выбор -->
+
+
+
+<!-- /Наш выбор -->
+
+<noindex><!-- Статистика -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_stat">
+
+<h3>Donation Form </h3>
+
+</div></div>
+
+<div class="dcont">
+
+<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.4down.info"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-8454268-1");
+pageTracker._trackPageview();
+} catch(err) {} 
+</script>
+
+</div>
+
+</div></div>
+
+
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_stat">
+
+<h3>Last Comments </h3>
+
+</div></div>
+
+<div class="dcont">
+
+<script type="text/javascript" src="http://4down.info/engine/skins/default.js"></script> <div onmouseover="showhint('<b>Comment</b>:</b><br />its too hard to find a better link when u find something for free hahahaha <br /><br /><br /><br />well the links do work but it takes 500 seconds from the first<br /><br />and from the second it takes more then 15 minutes till the link comes and its stil hard to download from it <br /><br /><br />well thanks uploader  :p <br /><br /><br />', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/cool+baby/">cool baby</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/13763-30-great-web-layouts-design-from-deviantart.html#comment">30 Great Web Layouts Design From DeviantART</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />file not found.', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/party/">party</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/14405-wordpress-dump-2800-article.html#comment">wordpress dump 2800 article</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />thankssssssssssssssssssssssssssssssss  :)<br /><br />', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/cool+baby/">cool baby</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/9036-facebook-v1.5-php-script.html#comment">FaceBook v1.5 PHP Script</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />does not work <!--smile:recourse--><img style=&quot;vertical-align: middle;border: none;&quot; alt=&quot;recourse&quot; src=&quot;http://4down.info/engine/data/emoticons/recourse.gif&quot; /><!--/smile--> give a working version <!--smile:request--><img style=&quot;vertical-align: middle;border: none;&quot; alt=&quot;request&quot; src=&quot;http://4down.info/engine/data/emoticons/request.gif&quot; /><!--/smile-->', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/maitre/">maitre</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/12123-clone-photoshop-online-script.html#comment">clone photoshop online script</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />any other link other then rapidshare  i dnt have an acount in that <br /><br />:(', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/cool+baby/">cool baby</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/2333-dolphin-community-builder-6.0-nulled.html#comment">Dolphin Community Builder 6.0 Nulled</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />Hi Youssef <br /><br />The link for Squidoo Queen is dead. Can you put a new link of Squidoo Queen please it would be great.', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/true12/">true12</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/3549-squidoo-queen.html#comment">Squidoo queen</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />dear youssef, <br /><br />if you can&amp;#039;t maintain www.miniup.net then why you put links here from miniup site. this is being so hassling dear.<br /><br />&amp;quot;salam&amp;quot; this is on miniup.net<br /><br />anyways again here is the mirror for the file<br /><br /><a href=&quot;http://depositfiles.com/files/6bfag2ncc&quot; target=&quot;_blank&quot;>http://depositfiles.com/files/6bfag2ncc</a>', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/warezlogin/">warezlogin</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/12810-20-seo-secrets-ebook-video-audio.html#comment">20 SEO secrets: Ebook + Video + Audio</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />some user deleted the file and the guy here shared the admin page for his hotfile account...<br /><br />poor o poor<br />here is mirror: http://rapidshare.com/files/210626051/Chinese_Dragons_www.softarchive.net.rar', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/warezlogin/">warezlogin</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/14433-dragons-birds.html#comment">Dragons &amp; Birds</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />sorry link shows some error messabge<br /><br />Error<br /><br />This file is neither allocated to a Premium Account, or a Collector&amp;#039;s Account, and can therefore only be downloaded 10 times.<br /><br />This limit is reached.<br /><br />To download this file, the uploader either needs to transfer this file into his/her Collector&amp;#039;s Account, or upload the file again. The file can later be moved to a Collector&amp;#039;s Account. The uploader just needs to click the delete link of the file to get further information.<br />', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/shalabh1977/">shalabh1977</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/14405-wordpress-dump-2800-article.html#comment">wordpress dump 2800 article</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />Links are working fine. Just copy the link properly since its broken in to two lines.', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/user/simplysam/">simplysam</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://4down.info/14363-cb-bonus-domination-20.html#comment">CB Bonus Domination 2.0</a></div></div> 
+
+</div>
+
+</div></div>
+
+<!-- Друзья -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_friend">
+
+<h3>Sponsored Links </h3>
+
+</div></div>
+
+<div class="dcont">
+
+<!-- BEGIN SMOWTION TAG - 120x600 - downmassouath: tecnologia - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "120x600";
+smowtion_section = "611082";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js">
+</script>
+<!-- END SMOWTION TAG - 120x600 - downmassouath: tecnologia - DO NOT MODIFY -->
+
+<hr>
+
+</div>
+
+</div></div>
+
+<!-- /Друзья -->
+
+<noindex><!-- Рекомендуем -->
+
+<div class="block"><div class="dbottom">
+
+<div class="dtop"><div class="bki_recomend">
+
+<h3>Friends</h3>
+
+</div></div>
+
+<div class="dcont">
+
+<!-- MarketNews Start --><div>
+
+  
+
+</div><!-- MarketNews End -->
+
+</div>
+
+</div></div>
+
+<!-- /Рекомендуем --></noindex>
+
+<!-- /Правая часть -->
+
+</noindex></td>
+
+</tr></tbody></table>
+
+</div></div></div>
+
+</div></div>
+
+<div class="pbd-bottom"><div class="dleft"><div class="dright">
+
+&nbsp;
+
+</div></div></div>
+
+<!-- Футбар -->
+
+<div class="footbar"><a href="http://4down.info/" class="Gamigo" title="Copyright © Www.dle4all.com and Www.Dle4all.Com"><img src="/templates/Default/images/gamigofoot.png" alt="Copyright © Www.dle4all.com and Www.Dle4all.Com"></a>
+
+<div class="fmenu">
+
+  <p><a href="http://4down.info/" title="Home">Home</a> | <a href="http://4down.info/index.php?do=feedback" title="give Us a feedback">Contact Us</a> | <a href="http://4down.info/rules.html" title="Rules">Rules</a> | <a href="http://4down.info/DMCA.html" title="DMCA">DMCA</a> | <a href="http://4down.info/privacy.html" title="Privacy policies">Privacy policy</a> | <a href="http://4down.info/sitemap.xml" title="See our Sitemap">Sitemap</a> | <a href="http://4down.info/rss.xml" title="RSS 2.0">RSS 2.0</a></p>
+
+  </div>
+
+</div>
+
+<!-- /Футбар -->
+
+<!-- Нижняя часть -->
+
+<div class="footer">
+
+  <div class="ftags">.</div>
+
+  <noindex><a rel="nofollow" class="centroarts" href="http://www.centroarts.com/" target="_blank" title="CENTROARTS.com"><img src="/templates/Default/images/centroarts_com.gif" alt=""></a></noindex></div>
+
+<!-- /Нижняя часть -->
+
+</div>
+
+
+
+<!-- Start of StatCounter Code -->
+
+<script type="text/javascript">
+
+var sc_project=4528519; 
+
+var sc_invisible=1; 
+
+var sc_partition=34; 
+
+var sc_click_stat=1; 
+
+var sc_security="170a5e04"; 
+
+</script>
+
+<script language="javascript" type="text/javascript" src="http://4down.info/pop.js"></script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+
+class="statcounter"><a title="blogspot visitor counter"
+
+href="http://www.statcounter.com/blogger/"
+
+target="_blank"><img class="statcounter"
+
+src="http://c.statcounter.com/4528519/0/170a5e04/1/"
+
+alt="blogspot visitor counter" ></a></div></noscript>
+
+<!-- End of StatCounter Code -->
+
+
+<!-- DataLife Engine English Copyright (http://English.DatalifeCms.iR/) Full English By: Arash.N -->
+</body></html>
