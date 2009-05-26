@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213954id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526225538id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
 
 # Insurance Journal - Privacy Policy
 
