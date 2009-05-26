@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225506id_/http%3A//www.gardencitygroup.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526033311id_/http%3A//gardencitygroup.com/site/privacy.html) for the most accurate reproduction.*
 
 # Garden City Group - Privacy Policy - Class action, legal administration, bankruptcy services, claims administration, claim management, litigation support
 
