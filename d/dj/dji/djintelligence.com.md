@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912230611id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526023506id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Friday, September 12, 2008   **  
+**Monday, May 25, 2009   **  
    
 | **   [Home Page](http://www.djintelligence.com/)**  
-| **   [Try The Demo Sites](http://www.djintelligence.com/pages/demo.asp)**  
-| **   [View The Features](http://www.djintelligence.com/pages/features.asp)**  
-| **   [Feel The Benefits](http://www.djintelligence.com/pages/benefits.asp)**  
+| **   [Live Demo Sites](http://www.djintelligence.com/pages/demo.asp)**  
+| **   [Exclusive Features](http://www.djintelligence.com/pages/features.asp)**  
+| **   [Unmatched Benefits](http://www.djintelligence.com/pages/benefits.asp)**  
 | **   [Common Questions](http://www.djintelligence.com/pages/questions.asp)**  
 | **   [How It Works](http://www.djintelligence.com/pages/works.asp)**  
 | **   [True DJ Stories](http://www.djintelligence.com/pages/success.asp)**  
-| **   [Pricing / Sign Up](https://www.djintelligence.com/signup/signup.asp)**  
-| **   [Special Trial Offer](https://www.djintelligence.com/signup/trial.asp)**  
+| **   [Sign Up Now](https://www.djintelligence.com/signup/signup.asp)**  
+| **   [Start Your Trial](https://www.djintelligence.com/signup/trial.asp)**  
 | **   [Contact Us](http://www.djintelligence.com/pages/contact.asp)**  
+| **   [News Blog](http://www.djintelligence.com/pages/news/news.asp)**  
 | **   [Account Login](http://www.djintelligence.com/account)**  
    
   
@@ -24,11 +25,11 @@
 **Professional DJs Speak Up   **  
  
 
-|  "I LOVE the software. It has made booking and planning a lot easier, not only for me, but my customers as well." |    
+|  "I already have approximately 10 clients on my site doing all their forms and this has already improved my business." |    
 ---|---  
   
    
-[Mike's Music](http://www.djintelligence.com/pages/success.asp)    
+[Professional DJ Services](http://www.djintelligence.com/pages/success.asp)    
    
   
 ---  
@@ -42,8 +43,6 @@
 **Account Quick Login   **  
   
  
-
-**Privacy Statement**
 
 Intelligence, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -99,6 +98,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20080912230611id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20090526023506id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
 
