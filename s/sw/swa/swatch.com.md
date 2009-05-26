@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218091803id_/http%3A//www.swatch.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527003935id_/http%3A//www.swatch.com/zz_en/privacy.html) for the most accurate reproduction.*
 
-# Official Swatch Website:: Spring Summer 2007 collection, Swatch Bijoux, Swiss watches
+# Official Swatch Website
 
 ## Processing of personal data
 
 Swatch Ltd. takes the security and privacy of your personal information very seriously and will process any personal data obtained as a result of your use of the website in accordance with the applicable data protection legislation for the purposes for which the information was submitted. We will not transfer your name, address, email address or any other personal information to any third party without your permission, except for processing the data in accordance with the purpose for which it was submitted and/or as part of a restructuring or sale of Swatch Ltd. However, where we are required by law or legal process to provide information about a customer we might have to divulge your personal information.
+
+In addition, we may disclose your personal data to other Swatch Group companies, as well as to assignees that are rendering services to us or to any of our suppliers in connection with the purposes for which the data was submitted. The data that we collect from you may be transferred to, and stored at, a destination outside Switzerland and the European Economic Area.
+
+By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 ## Processing of non-personal data
 
