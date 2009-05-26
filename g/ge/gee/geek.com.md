@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014301id_/http%3A//www.geek.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526033556id_/http%3A//www.geek.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek.com
 
