@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216124017id_/http%3A//www.4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526144138id_/http%3A//www.4jobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Job Search - Post & Search Resumes - Employment Site - 4Jobs.com
+# US Jobs and Careers from 4Jobs.com
 
 ### Privacy Policy
 
