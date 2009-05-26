@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919231957id_/http%3A//www.axway.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526211046id_/http%3A//www.axway.com/company/privacy.php) for the most accurate reproduction.*
 
 # Axway.com | Privacy Policy
 
