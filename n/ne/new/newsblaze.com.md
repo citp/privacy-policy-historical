@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174559id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526062754id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -54,6 +54,8 @@ Any communication which, in its sole discretion, the site deems to be a testimon
 
 Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that cookies will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
+Google, a third party vendor, uses cookies to serve ads on this and other sites. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to this and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 **INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS **
 
 If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend.  You must assume that referred emails or web pages may appear to come from your email.  You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
@@ -100,7 +102,7 @@ This Privacy Policy is dynamic.  It will continually change.  You may not assu
 
 **LATEST UPDATE **
 
-This Privacy Policy was last updated on:  March 29 2005 
+This Privacy Policy was last updated on:  April 7 2009 
 
 **COPYRIGHT **
 
