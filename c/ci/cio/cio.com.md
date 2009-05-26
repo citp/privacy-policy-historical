@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219131258id_/http%3A//www.cio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526093410id_/http%3A//www.cio.com/privacy-policy) for the most accurate reproduction.*
 
 # CIO.com - Business Technology Leadership - Privacy Policy
 
