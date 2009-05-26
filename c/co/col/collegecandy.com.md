@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegecandy.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915014850id_/http%3A//www.collegecandy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecandy.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526084511id_/http%3A//collegecandy.com/privacy) for the most accurate reproduction.*
 
-# College Candy » Privacy Policy
+# Privacy Policy : College Candy
 
 Online privacy is a top concern at CollegeCandy..com. For further information or questions about privacy, email us at privacy@CollegeCandy.com. Your use is based on your acceptance of how CollegeCandy.com operates, as indicated in this Privacy Policy.
 
