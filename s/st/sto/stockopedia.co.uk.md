@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213723id_/http%3A//www.stockopedia.co.uk/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527012242id_/http%3A//www.stockopedia.co.uk/legal/privacy_policy) for the most accurate reproduction.*
 
 # Stockopedia Privacy Policy
 
 Privacy
 
-Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via the [feedback form](http://www.stockopedia.co.uk/feedback/comment)
+Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via the [feedback form](http://www.stockopedia.co.uk/feedback)
 
 We may collect, store and use the following kinds of personal data: 
 
@@ -36,13 +36,15 @@ We may use your personal information to:
 
 (c) enable your use of the services available on the website, including the facility to submit content to the website; 
 
-(d) send you general (non-marketing) commercial communications; 
+(d) send you general commercial communications; 
 
-(e) send you email notifications which you have specifically requested; 
+(e) send you site-related email notifications, for example related to site improvement, new features, or premium offerings; 
 
-(f) deal with enquiries and complaints made by or about you relating to the website; and 
+(f) send you email notifications of related third party offers which are targeted to Stockopedia's focus (i.e. no spam) but not where you have opted out via the email settings on your profile; 
 
-(g) provide third parties with statistical information about our users – but this information will not be used to identify any individual user. 
+(g) deal with enquiries and complaints made by or about you relating to the website; and 
+
+(h) provide third parties with statistical information about our users – but this information will not be used to identify any individual user. 
 
 You acknowledge that our website is a social networking website and, where you submit personal information for publication on our website (including as part of your profile) we will publish and otherwise use that information in accordance with the terms of the licence you grant to us. Similarly, user ratings and reviews concerning you, and details of the performance of your public funds, may be published on our website. 
 
@@ -86,4 +88,4 @@ The website contains links to other websites. We are not responsible for the pri
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated. 
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by using the [feedback form ](http://www.stockopedia.co.uk/feedback/comment) or by post to Stockopedia Ltd at Office 404, 4th Floor, Albany House, 324/326 Regent Street, London, W1B 3HH, U.K.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by using the [feedback form ](http://www.stockopedia.co.uk/feedback) or by post to Stockopedia Ltd at Office 404, 4th Floor, Albany House, 324/326 Regent Street, London, W1B 3HH, U.K.
