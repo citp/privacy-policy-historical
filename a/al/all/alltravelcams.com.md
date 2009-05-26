@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltravelcams.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204093841id_/http%3A//www.alltravelcams.com/resources/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravelcams.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526224303id_/http%3A//www.alltravelcams.com/resources/privacy.php) for the most accurate reproduction.*
 
 # ALLTravelCams.com: Privacy Policy
 
