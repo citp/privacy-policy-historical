@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013213858id_/http%3A//cruisedirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526065206id_/http%3A//cruisedirect.com/privacy.php) for the most accurate reproduction.*
 
 # CruiseDirect.com | Terms & Conditions
+
+[](http://www.addthis.com/bookmark.php)
 
 CruiseDirect understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us. 
 
