@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023236id_/http%3A//www.247spares.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526040654id_/http%3A//www.247spares.co.uk/privacy.php) for the most accurate reproduction.*
 
 # 247 Spares - Privacy Policy
 
