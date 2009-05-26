@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922004052id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527005114id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GMI Privacy Policy
 
@@ -50,7 +50,7 @@ GMI does not sell or rent user information to anyone. We will notify you at the 
 
 ### What is GMI's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-For members of GMI's GlobalTestMarket, you may edit your GlobalTestMarket Account Information and your public GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](http://www.globaltestmarket.com/forgotten.php). Your GlobalTestMarket account can be deleted or deactivated. Please contact privacypolicy@GlobalTestMarket.com for further instructions about deleting or deactivating your GlobalTestMarket account.
+For members of GMI's GlobalTestMarket, you may edit your GlobalTestMarket Account Information and your public GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](http://www.globaltestmarket.com/forgotten.php). Your GlobalTestMarket account can be deleted or deactivated. Please contact [privacypolicy@GlobalTestMarket.com](mailto:privacypolicy@globaltestmarket.com?subject=) for further instructions about deleting or deactivating your GlobalTestMarket account.
 
 For users of any of GMI's other products and services, you can [contact us](https://web.archive.org/contact/) if you have forgotten your login or password.  Please also [contact us](https://web.archive.org/contact/) with any questions regarding access to personally identifiable information. 
 
