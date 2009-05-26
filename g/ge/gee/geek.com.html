@@ -1,57 +1,114 @@
-<!--The following is the downloaded HTML source of the geek.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216014301id_/http%3A//www.geek.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geek.com privacy policy that was archived on 2009-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090526033556id_/http%3A//www.geek.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
+		
+	
 		<!--nm_SEO_start-->
-	<title>Privacy Policy | Geek.com</title>	
+	<title>Privacy Policy | Geek.com</title>
+<meta name="description" content="">
+<meta name="keywords" content="Geek.com, ">	
 	<!--nm_SEO_end-->
 	
 
 	
-	<link rel="Shortcut Icon" href="http://www.geek.com/wp-content/themes/geek5a/favicon.ico">
+	<link rel="Shortcut Icon" href="http://www.geek.com/wp-content/themes/geek6/favicon.ico">
 	<link rel="alternate" type="application/rss+xml" title="Geek.com RSS Feed" href="http://www.geek.com/feed/">
 	<link rel="pingback" href="http://www.geek.com/xmlrpc.php">
 
 	
-	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek5a/style.css">
+	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek6/style.css">
 	
 	
 	
-	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek5a/styles/tab-widget.css">
-	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek5a/styles/search.css">
+	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek6/styles/tab-widget.css">
+	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek6/styles/search.css">
 	
 		
 		
 		
 		
 		
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/commonjs.php"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/dropdowntab.js"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/validation.js"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/ajax_actions.js.php"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/price-grabber.js.php"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/search.js.php"></script>
-	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek5a/scripts/jquery-1.2.6.js"></script>
 	
-	<script type="text/javascript">
+	<link rel="stylesheet" type="text/css" media="screen, projector" href="http://www.geek.com/wp-content/themes/geek6/styles/redesign.css">
+	
+	
+	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/commonjs.php"></script>
+	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/dropdowntab.js"></script>
+	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/jquery-1.2.6.js"></script>
+	
+		<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/validation.js"></script>
+	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/ajax_actions.js.php"></script>
+	<script type="text/javascript" src="http://www.geek.com/wp-content/themes/geek6/scripts/search.js.php"></script>
+		<script type="text/javascript">
         var ord = Math.random()*10000000000000000;
 	</script>
+	
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.tabs li').click(function(){
+    $(this).addClass('on');
+    $(this).siblings().removeClass('on');
+    
+    $('#' + $(this).attr('id') + '-c').show();
+    $('#' + $(this).attr('id') + '-c').siblings().hide();
+    
+    return false;
+  });
+  
+  var currentfeatured = 1;
+  var nextfeatured = 2;
+  var interval = 1
+  
+  $('.featured-tabs li a').click(function(){
+    clearInterval(interval);
+    $(this).parent().addClass('on');
+    $(this).parent().siblings().removeClass('on');
+    
+    $('#' + $(this).parent().attr('id') + '-c').show();
+    $('#' + $(this).parent().attr('id') + '-c').siblings().hide();
+    
+    if(currentfeatured != parseInt($(this).parent().attr('id').split("-")[1]))
+    {
+      currentfeatured = parseInt($(this).parent().attr('id').split("-")[1]);
+      nextfeatured = (currentfeatured + 1) % 4;
+      return false;
+    }
+    
+    
+  });
+  
+  function nextFeatured() {
+    $('.featured-tabs').find('#featured-' + nextfeatured).addClass('on').siblings().removeClass('on');
+    $('#featured-' + nextfeatured + '-c').show().siblings().hide();
+    
+    currentfeatured = nextfeatured;
+    nextfeatured = currentfeatured + 1;
+    if(nextfeatured == 5) { nextfeatured = 1}
+  }
+  
+  interval = setInterval(function() {
+    nextFeatured();
+  }, 5000);
+  
+  
+});
+</script>
 		
 	<meta name="verify-v1" content="DaeOsREDKGt9v49pn8loPenRO6/Z23cckJz0doLIxkg=">
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.geek.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.geek.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 2.6.2">
 
-
-<!-- all in one seo pack 1.4.6.14 [277,316] -->
-<!-- /all in one seo pack -->
 	
 </head>
 
-<body>
+<body><div id="geek">
 
 <!--nm_SEO_body_start-->
 
@@ -59,17 +116,22 @@
 
 
 <!-- Google Analytics -->
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-    <script type="text/javascript">	_uacct = "UA-1231130-15"; urchinTracker();</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1231130-15");
+pageTracker._trackPageview();
+} catch(err) {}</script> 
 <!-- /Google Analytics -->
 
 <!--  header -->
+<div class="header-wrap">
 <div class="header">
-    <table cellspacing="0" cellpadding="0" border="0" class="headerTable">
-    	<tbody><tr>
-    		<td class="left"><a href="http://www.geek.com/"><img src="http://www.geek.com/wp-content/themes/geek5a/images/header/geek-header-logo.jpg" alt="Geek.com" class="logo"></a></td>
-    		<td class="right">
-    			<div class="leaderboard">
+    <a href="http://www.geek.com/"><img src="http://www.geek.com/wp-content/themes/geek6/images/redesign/header/logo.gif" alt="Geek.com" class="logo"></a>
+    <div class="leaderboard">
     									<!-- BEGIN NetShelter Ad Tag for Geek.com 728x90 new -->
 					<script language="JavaScript" type="text/javascript">
 					if (!window.netshel_ord) { netshel_ord=Math.random()*10000000000000000;
@@ -77,42 +139,29 @@
 					if (!window.netshel_tile) { netshel_tile=1; }
 					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=728x90;dcopt=ist;tile='+netshel_tile+';ord=' + netshel_ord + '?" type="text/javascript"></scr' + 'ipt>');
 					netshel_tile++;
-					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=728x90;dcopt=ist;tile=1;ord=821838958707859?" type="text/javascript"></script>
-					<!-- END AD TAG -->							
-    			</div>
-    		</td>
-    	</tr>
-    </tbody></table>
-</div>
+					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=728x90;dcopt=ist;tile=1;ord=6204904440558929?" type="text/javascript"></script>
+					<!-- END AD TAG -->    	</div>
+</div></div>
 <!-- /header -->
 
 <div id="mainMenu" class="topnav">
 	<ul>
-		<li><a href="http://www.geek.com/" class="off"><img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/tab-arrow-off.jpg" alt=" " class="icon">Home<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/home-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/" class="off"><img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/tab-arrow-off.jpg" alt=" " class="icon">Home<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/home-icon-off.jpg" alt=" " class="icon"></a></li>
 		
-		<li>
-				<a href="http://www.geek.com/articles/apple/" class="off apple">Apple<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/apple-icon-off.jpg" alt=" " class="icon"></a>
-				<!-- begin ad tag -->
-					<span id="apple-sponsor">
-						<script type="text/javascript">
-						//<![CDATA[
-						ord = window.ord || Math.floor(Math.random()*1E16);
-						document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ns.geek/bose;sz=250x100;ord=' + ord + '?"><\/script>');
-						//]]>
-						</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/ns.geek/bose;sz=250x100;ord=5661541939535124?"></script>
-						<noscript><a href="http://ad.doubleclick.net/jump/ns.geek/bose;sz=250x100;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ns.geek/bose;sz=250x100;ord=123456789?" border="0" alt="" /></a></noscript>
-						<!-- end ad tag -->
-					</span>
-			</li><li><a href="http://www.geek.com/articles/gadgets/" class="off gadgets">Gadgets<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/gadgets-icon-off.jpg" alt=" " class="icon"></a></li><li><a href="http://www.geek.com/articles/mobile/" class="off mobile">Mobile<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/mobile-icon-off.jpg" alt=" " class="icon"></a></li><li><a href="http://www.geek.com/articles/games/" class="off games">Games<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/games-icon-off.jpg" alt=" " class="icon"></a></li><li><a href="http://www.geek.com/articles/chips/" class="off chips">Chips<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/chips-icon-off.jpg" alt=" " class="icon"></a></li>		
-		<li><a href="http://www.geek.com/articles/" class="off"><img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/forums-icon-off.jpg" alt=" " class="icon">Geek-cetera<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/forums-icon-off.jpg" alt=" " class="icon"></a></li>
-		<li><a href="http://www.geek.com/forums/" rel="dropForums" class="off"><img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/tab-arrow-off.jpg" alt=" " class="arrow">Forums<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/forums-icon-off.jpg" alt=" " class="icon"></a></li>
-		<li><a style="width: 60px;" href="http://www.geek.com/shop/" rel="dropShop" class="off"><img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/tab-arrow-off.jpg" alt=" " class="arrow">Shop<img src="http://www.geek.com/wp-content/themes/geek5a/images/topnav/shop-icon-off.jpg" alt=" " class="icon"></a></li>
+				<li><a href="http://www.geek.com/articles/apple/" class="off apple">Apple<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/apple-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/articles/gadgets/" class="off gadgets">Gadgets<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/gadgets-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/articles/mobile/" class="off mobile">Mobile<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/mobile-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/articles/games/" class="off games">Games<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/games-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/articles/chips/" class="off chips">Chips<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/chips-icon-off.jpg" alt=" " class="icon"></a></li>	
+		<li><a href="http://www.geek.com/articles/" class="off"><img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/forums-icon-off.jpg" alt=" " class="icon">Geek-cetera<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/forums-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a href="http://www.geek.com/forums/" rel="dropForums" class="off"><img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/tab-arrow-off.jpg" alt=" " class="arrow">Forums<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/forums-icon-off.jpg" alt=" " class="icon"></a></li>
+		<li><a style="width: 60px;" href="http://www.geek.com/shop/" rel="dropShop" class="off"><img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/tab-arrow-off.jpg" alt=" " class="arrow">Shop<img src="http://www.geek.com/wp-content/themes/geek6/images/topnav/shop-icon-off.jpg" alt=" " class="icon"></a></li>
 	</ul>
 </div>
 
 <!-- Forums down menu -->
 <div id="dropForums" class="dropmenudiv">
-        	<a href="http://www.geek.com/forums/forum/tech-support">Tech Support</a>
+            	<a href="http://www.geek.com/forums/forum/tech-support">Tech Support</a>
         	<a href="http://www.geek.com/forums/forum/chips">Chips</a>
         	<a href="http://www.geek.com/forums/forum/apple">Apple</a>
         	<a href="http://www.geek.com/forums/forum/mobile">Mobile</a>
@@ -121,7 +170,7 @@
         	<a href="http://www.geek.com/forums/forum/software">Software</a>
         	<a href="http://www.geek.com/forums/forum/the-lounge">The Lounge</a>
         	<a href="http://www.geek.com/forums/forum/geekcom-stuff">Geek.com Stuff</a>
-    </div>
+</div>
 
 <div id="dropShop" class="dropmenudiv">
 	<ul> 
@@ -129,19 +178,13 @@
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=52">Cell Phones</a></li>
 		<li><a href="http://www.geek.com/shop/pg-category/?catid=1">Computers</a></li>
 		<li><a href="http://www.geek.com/shop/pg-category/?catid=2">Electronics</a></li>
-		
-		
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=2">Laptops</a></li>
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=5">Memory</a></li>
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=3">Monitors</a></li>
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=39">PDAs</a></li>		
-		
 		<li><a href="http://www.geek.com/shop/pg-category/?catid=6">Software</a></li>
-		
 		<li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=6">Storage Devices</a></li>
-		
 		<li><a href="http://www.geek.com/shop/pg-category/?catid=3">Video Games</a></li>
-		
 		<li><a href="http://www.geek.com/shop/">All Products</a></li>  
 	</ul>
 </div>
@@ -155,10 +198,9 @@
 		<div class="searchTop">	
 		
 			<!-- search -->
-			<span class="wIcon"><img src="http://www.geek.com/wp-content/themes/geek5a/images/header/search-icon.jpg" alt="Search" class="icon"></span>
+			<label>Search:</label>
 			<div class="searchbox" style="position: relative;">
 				<form id="top_search" name="top_search" action="http://www.geek.com/search/">
-					<input id="search_input" type="text" name="term" class="text" utocomplete="off">
 					<select name="section">
 						<option value="">All</option>
 						<option value="articles">Articles</option>
@@ -166,7 +208,8 @@
 						<option value="glossary">Glossary</option>
 						<option value="forums">Forums</option>
 					</select>
-					<input type="submit" value="Search" class="button">
+					<input id="search_input" type="text" name="term" class="text" utocomplete="off">
+					<input type="submit" value="GO" class="button">
 				</form>
 				
 			</div>
@@ -180,10 +223,10 @@
 			
 							
 				<!-- Log In/Out -->
-				<a href="http://www.geek.com/users/login/" onclick="return toggle_login();" class="wIcon"><img src="http://www.geek.com/wp-content/themes/geek5a/images/header/login-icon.jpg" alt="Log In/Out" class="icon">Log In</a>
+				<a href="http://www.geek.com/users/login/" onclick="return toggle_login();" class="wIcon"><img src="http://www.geek.com/wp-content/themes/geek6/images/header/login-icon.jpg" alt="Log In/Out" class="icon">Log In</a>
 				<!-- Sign Up -->
 				
-				<a href="http://www.geek.com/users/register/" class="wIcon"><img src="http://www.geek.com/wp-content/themes/geek5a/images/header/signup-icon.jpg" alt="Sign Up" class="icon">Register</a>
+				<a href="http://www.geek.com/users/register/" class="wIcon"><img src="http://www.geek.com/wp-content/themes/geek6/images/header/signup-icon.jpg" alt="Sign Up" class="icon">Register</a>
 			
 					</div><!-- /welcomeTop -->
 		<div class="reset"></div>	
@@ -200,7 +243,7 @@
 			<input name="password" type="password" id="password" class="text" maxlength="40">
 			</div>
 			<input type="submit" class="orangeButton" style="height: 23px;" value="Log In">
-			<input type="hidden" id="_wpnonce" name="_wpnonce" value="0e8a68694f"><input type="hidden" name="_wp_http_referer" value="/about/privacy-policy/">			<input type="hidden" name="submitted" value="1">
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="81d0dfbac0"><input type="hidden" name="_wp_http_referer" value="/about/privacy-policy/">			<input type="hidden" name="submitted" value="1">
 			<a href="#" onclick="return toggle_login();" class="greyButton">Cancel</a>
 			Forgot <a href="http://www.geek.com/users/login/?action=recover_username">Username</a> / <a href="http://www.geek.com/users/login/?action=reset_password">Password</a>?	
 		</form>
@@ -219,188 +262,7 @@
 		<!-- Regular Column -->
 			<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
- 					<td class="sidebar">
-    <div class="sidenav">
-    	    	
-    	<!-- Recent Reviews -->
-    	    	
-    	<a onclick="toggle_sidebar('reviews_links')" id="reviews_links_link" class="level1Closed">Recent Reviews</a>
-    	<div style="display: none;" class="level2" id="reviews_links">
-    		<ul>
-    			    				<li><a href="http://www.geek.com/articles/chips/review-norton-antivirus-2009-20081215/">Norton AntiVirus 2009</a></li>
-    			    				<li><a href="http://www.geek.com/articles/gadgets/review-ihome-zn9-zune-clock-radio-20081215/">iHome ZN9 Zune Clock Radio</a></li>
-    			    				<li><a href="http://www.geek.com/articles/games/review-chrono-trigger-for-nintendo-ds-20081215/">Chrono Trigger for Nintendo DS</a></li>
-    			    				<li><a href="http://www.geek.com/articles/games/review-tomb-raider-underworld-for-ps3-20081212/">Tomb Raider Underworld for PS3</a></li>
-    			    				<li><a href="http://www.geek.com/articles/games/review-last-remnant-for-xbox-360-20081212/">Last Remnant for Xbox 360</a></li>
-    			    		<ul>
-    	</ul></ul></div>
-    	<!-- / Recent Reviews -->
-    	
-				<!-- Popular links --> 
-		
-		<a onclick="toggle_sidebar('popular_links')" id="popular_links_link" class="level1Closed">Popular</a>
-		<div style="display: none;" class="level2" id="popular_links">
-		<!-- 4 days -->
-			<ul>
-				
-				
-				<li><a href="http://www.geek.com/articles/news/teacher-tells-helios-project-to-stop-spreading-linux-20081211/">Teacher tells Helios Project to stop spreading Linux</a></li>
-				
-				
-				<li><a href="http://www.geek.com/articles/chips/lack-of-intel-supply-prompts-switch-to-amd-in-australia-20081212/">Lack of Intel supply prompts switch to AMD in Australia</a></li>
-				
-				
-				<li><a href="http://www.geek.com/articles/gadgets/last-chance-to-enter-to-win-6000-worth-of-hp-gear-20081212/">Last chance to enter to win $6000 worth of HP gear</a></li>
-				
-				
-				<li><a href="http://www.geek.com/articles/mobile/radio-shack-and-att-offer-us100-laptop-20081212/">Radio Shack and AT&amp;T offer $100 laptop</a></li>
-				
-				
-				<li><a href="http://www.geek.com/articles/chips/review-norton-antivirus-2009-20081215/">Review: Norton AntiVirus 2009</a></li>
-				
-								
-			</ul>
-		</div>
-		<!-- /Popular links -->
-		
-		<!-- Archives links -->
-		<a onclick="toggle_sidebar('archive_links')" id="archive_links_link" class="level1Closed">Archives</a>
-		<div style="display: none;" class="level2" id="archive_links">
-			<ul>
-			    <li><a href="http://www.geek.com/articles/archives/">Geek Archives Main</a></li>
-									<li><a href="http://www.geek.com/articles/archives/apple/">Apple</a></li>
-									<li><a href="http://www.geek.com/articles/archives/gadgets/">Gadgets</a></li>
-									<li><a href="http://www.geek.com/articles/archives/mobile/">Mobile</a></li>
-									<li><a href="http://www.geek.com/articles/archives/games/">Games</a></li>
-									<li><a href="http://www.geek.com/articles/archives/chips/">Chips</a></li>
-								<li><a href="http://www.geek.com/articles/review/">Reviews</a></li>
-				<li><a href="http://www.geek.com/newsletters/archives/">Newsletters</a></li>
-			</ul>
-			
-		</div>
-		<!-- /Archives links -->
-		
-		<!-- Forum links -->
-		
-		<a onclick="toggle_sidebar('forum_links')" class="level1Closed" id="forum_links_link">Forums</a>
-		<div style="display: none;" id="forum_links" class="level2">
-			<ul>
-				<li><a href="http://www.geek.com/forums/">Geek Forums Home</a></li>
-							        				
-    				<li><a href="http://www.geek.com/forums/forum/tech-support">Tech Support</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/chips">Chips</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/apple">Apple</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/mobile">Mobile</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/games">Games</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/gadgets">Gadgets</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/software">Software</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/the-lounge">The Lounge</a></li>
-    			    				
-    				<li><a href="http://www.geek.com/forums/forum/geekcom-stuff">Geek.com Stuff</a></li>
-    						</ul>
-			
-		</div>
-		<!-- /Forum links -->	
-		
-		<!-- quick links -->
-		<a onclick="toggle_sidebar('quick_links')" id="quick_links_link" class="level1Closed">Quick Links</a>
-		<div style="display: none;" class="level2" id="quick_links">
-			<ul>
-				<li><a href="/technical-glossary/">Glossary</a></li>
-<li><a href="/category/archive/labs/">Geek.com Labs</a></li>
-<li><a href="/category/featured/">Features</a></li>
-<li><a href="/laptop-buyers-guide/">Laptop Buying Guide</a></li>
-<li><a href="/forums/topic.php?id=34149&amp;page&amp;replies=1" title="Feedback for alpha">Feedback</a></li>
-<li><a href="/articles/gadgets/review-asus-eee-pc-1000h-netbook-2008093/">Asus Eee PC 1000H Review</a></li>
-			</ul>
-			
-		</div>
-		<!-- /quick links -->
-		
-		<!-- Geek Shop menu -->
-		<a onclick="toggle_sidebar('shop_links')" class="level1Closed" id="shop_links_link">Geek Shop</a>
-		<div style="display: none;" class="level2" id="shop_links">				
-			<ul>
-			    <li>
-			    	<a href="http://www.geek.com/shop/">Geek Shop Home</a>
-			    </li>   
-			    	 
-							    	<li>
-			    		
-			    	<a href="http://www.geek.com/shop/pg-category/?catid=1">Computers</a>
-			    					</li>
-							    	<li>
-			    		
-			    	<a href="http://www.geek.com/shop/pg-category/?catid=2">Electronics</a>
-			    					</li>
-							    	<li>
-			    			
-			    	<a href="http://www.geek.com/shop/pg-category/?catid=3">Video Games</a>	
-			    					</li>
-							    	<li>
-			    		
-			    	<a href="http://www.geek.com/shop/pg-category/?catid=6">Software</a>
-			    					</li>
-							    	<li>
-			    		
-			    	<a href="http://www.geek.com/shop/pg-category/?catid=11">Cameras</a>
-			    					</li>
-							    <li>
-			    	<div class="searchbox sidenavSearch">
-			    		<form name="searchShop" action="http://www.geek.com/search/">
-			    		<p>Search Geek Shop:<br>
-			    		<input type="text" name="term" value=""></p>
-						<input type="hidden" name="section" value="products">
-						
-			    		<a href="javascript:document.searchShop.submit()" class="submit">GO</a>
-			    		</form>
-			    	</div>
-			    </li>
-			</ul>
-			
-		</div>
-		<!-- /Geek shop menu -->	
-    </div>
-    <!-- /Sidenav -->
-    
-    <div id="rm_1">
-    	
-			<div id="realmatch_1" class="realmatch">
-			<script type="text/javascript" id="rms_1" src="http://www.realmatch.com/Widgets/JS/Widget_JSON.js"></script>
-			<script type="text/javascript">
-			
-				var rm_widgetId=77;
-				var rm_serviceLocation="http://www.realmatch.com/Widgets/Pages/Widget_JSON.aspx";
-				var widgetContainerID = "wContainer_1";
-				getWidget();
-			</script>
-			<script type="text/javascript">
-				document.getElementById("wContainer_1").className = "wContainer";
-				document.getElementById("wContainer_1").style.width = "170px";
-			</script>
-			<noscript><a href="http://www.realmatch.com">Job search</a>by realmatch</noscript>
-			</div>
-			    </div>
-    		
-    <!-- 160 X 600 Ad -->
-    <div class="skyscraper">
-    	<script language="JavaScript" type="text/javascript">
-							if (!window.netshel_ord) { netshel_ord=Math.random()*10000000000000000;
-							}
-							if (!window.netshel_tile) { netshel_tile=1; }
-							document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=120x600,160x600;tile='+netshel_tile+';ord=' + netshel_ord + '?" type="text/javascript"></scr' + 'ipt>');
-							netshel_tile++;
-							</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=120x600,160x600;tile=2;ord=821838958707859?" type="text/javascript"></script>    </div>
-    <!-- /160 X 600 Ad -->
-    
-</td> 			
+ 					 			
  					<!-- Center Column -->
  					<td class="contentCenter" cellpadding="3">
  						
@@ -425,12 +287,9 @@ Geek.com has many mechanisms for users to submit content to us, including CGI sc
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Geek.com, you can <a href="/contact-us/">contact us</a>. This privacy policy is subject to change without notice, but typically updates clarify wording to provide more detail or describe our policy on new services. We take pride in our privacy policy and the business choices we’ve made to respect the privacy of our users.</p>
 
  						</td><td class="contentRight">
- 						<!-- Related Content -->
-<!-- Related Content -->
-
-<!-- sponsored link -->
-	<div class="ad336">
-		
+ 						
+	<!-- sponsored link -->
+	<div class="ad336"><center>
 					<!-- BEGIN NetShelter Ad Tag for Geek.com 300x250,336x280 -->
 					<script language="JavaScript" type="text/javascript">
 					if (!window.netshel_ord) { netshel_ord=Math.random()*10000000000000000;
@@ -438,119 +297,94 @@ If you have any questions about this privacy statement, the practices of this si
 					if (!window.netshel_tile) { netshel_tile=1; }
 					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile='+netshel_tile+';ord=' + netshel_ord + '?" type="text/javascript"></scr' + 'ipt>');
 					netshel_tile++;
-					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile=3;ord=821838958707859?" type="text/javascript"></script>
+					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile=2;ord=6204904440558929?" type="text/javascript"></script>
 					<!-- END AD TAG -->
-						</div>
-<!-- /sponsored link -->
+					</center></div>
+	<!-- /sponsored link -->
+    <div class="contentBox recentBox"><h2>Recent Geek Activity</h2>
+      <div class="inside">
+        <ul class="tabs">
+          <li id="tab-forum" class="on"><a href="#">Forum Talk</a></li>
+          <li id="tab-comments"><a href="#">Article Comments</a></li>
+          <li id="tab-popular"><a href="#">Popular</a></li>
+        </ul>
+        <div class="tab-content">
+        <div id="tab-forum-c">
+          <ul>
+            <li>
+              <h5><a href="http://www.geek.com/forums/topic/hp-laptop-not-starting-up-3">awesomeo</a></h5>
+              <p>3 short beeps using AMI BIOS is Base 64K RAM failure. Get a screwdriver and take the memory door off the bottom. Remo...</p>
+              <span>Posted In: <a href="http://www.geek.com/forums/forum/tech-support">Tech Support</a></span>
+              <a class="more" href="http://www.geek.com/forums/topic/hp-laptop-not-starting-up-3">Read More »</a>
+            </li>
+            <li>
+              <h5><a href="http://www.geek.com/forums/topic/airtunes">MrMakiavely</a></h5>
+              <p>AirTunes — built into the AirPort Express Base Station — takes the music from the iTunes library...
+yo...he...</p>
+              <span>Posted In: <a href="http://www.geek.com/forums/forum/geekcom-stuff">Geek.com Stuff</a></span>
+              <a class="more" href="http://www.geek.com/forums/topic/airtunes">Read More »</a>
+            </li>
+            <li>
+              <h5><a href="http://www.geek.com/forums/topic/mon-lovely-amigos-hola-all">actiomodo</a></h5>
+              <p>dear friends! I was about  for a while and now i'm registered:)
+Hope i'm welcome here...</p>
+              <span>Posted In: <a href="http://www.geek.com/forums/forum/geekcom-stuff">Geek.com Stuff</a></span>
+              <a class="more" href="http://www.geek.com/forums/topic/mon-lovely-amigos-hola-all">Read More »</a>
+            </li>
+          </ul>
+          <a href="http://www.geek.com/forums/" class="all">View All Forum Talk »</a>
+        </div>
+        <!-- /tab-forum-c -->
+        <div id="tab-comments-c">
+        	<ul><li>
+        			<h5><a href="http://www.geek.com/articles/gadgets/samsungs-latest-8-photo-frame-doubles-as-a-display-20090525/#comment-1257152">Michael Schiedel-Webb</a></h5>
+        			<p>I didn't see anything in the press release about this being display capable. The resolution is listed but no mention of ...</p>
+        			<span>Posted In: <a href="http://www.geek.com/articles/gadgets/samsungs-latest-8-photo-frame-doubles-as-a-display-20090525/">Samsung’s latest 8″ Photo Frame doubles as a display</a></span>
+        		</li><li>
+        			<h5><a href="http://www.geek.com/articles/news/pandalabs-finds-30000-youtube-videos-riddled-with-malspam-20090525/#comment-1256892">Nathan Britzius</a></h5>
+        			<p>I hope they catch who-ever is uploading the malware. It would be poetic justice if their own machine got nailed with mal...</p>
+        			<span>Posted In: <a href="http://www.geek.com/articles/news/pandalabs-finds-30000-youtube-videos-riddled-with-malspam-20090525/">PandaLabs finds 30,000 YouTube videos riddled with malspam</a></span>
+        		</li>
+        			<li style="border-bottom:0px;">
+        			<h5><a href="http://www.geek.com/articles/chips/installing-and-customizing-windows-7-on-the-hp-mini-1000-2009025/#comment-1256532">netsearchworld.com</a></h5>
+        			<p>And who does not wish to pay for a hosting, is urgent here - the <a href="http://netsearchworld.com/" rel="nofollow">bes...</a></p><a href="http://netsearchworld.com/" rel="nofollow">
+        			<span>Posted In: </span></a><a href="http://www.geek.com/articles/chips/installing-and-customizing-windows-7-on-the-hp-mini-1000-2009025/">Feature: Installing and customizing Windows 7 on the HP Mini 1000</a>
+        		</li>
+        	</ul>
+        </div>
+        <!-- /tab-comments-c -->
+        <div id="tab-popular-c">
+        	<ul><li>
+        			<h5><a href="http://www.geek.com/articles/games/thq-sends-the-queen-a-gold-plated-wii-20090521/">THQ sends the Queen a gold-plated Wii</a></h5>
+        			<p></p>
 
-<!-- Related Content -->
-<!-- /Related Content -->
+        		</li><li>
+        			<h5><a href="http://www.geek.com/articles/chips/opinion-microsofts-out-linux-is-in-ubuntu-904-i-hear-your-call-20090522/">Opinion: Microsoft’s out, Linux is in. Ubuntu 9.04, I hear your call…</a></h5>
+        			<p></p>
 
-<!-- Recent Forum Topics -->
-<!-- recent forum topics -->
-<div class="contentBox forumBox">
-	<h2>Recent Forum Talk
-		<a href="http://www.geek.com/forums/?new=1" class="orangeButton">Add A New Topic</a>
-	</h2>
-	<!-- inside -->
-	<div class="inside">
-		<table cellspacing="0" cellpadding="0" border="0" class="newsTable">
-							<tbody><tr>
-					<td class="type reply"><a href="http://www.geek.com/forums/topic/dell-latitude-d500-will-not-charge-batteries#postform">Reply</a></td>
-					<td class="desc">
-						<h3><a href="http://www.geek.com/forums/topic/dell-latitude-d500-will-not-charge-batteries">Dell Latitude D500 will not charge batteries</a></h3>
-						<p class="author">51 minutes ago <span>typethree</span></p>
-						<p class="text">&lt;table style="width... | <a href="http://www.geek.com/forums/topic/dell-latitude-d500-will-not-charge-batteries">Read More »</a></p>
-					</td>
-				</tr>
-							<tr>
-					<td class="type reply"><a href="http://www.geek.com/forums/topic/excel-2003-formula-issue#postform">Reply</a></td>
-					<td class="desc">
-						<h3><a href="http://www.geek.com/forums/topic/excel-2003-formula-issue">Excel 2003 Formula Issue</a></h3>
-						<p class="author">8 hours ago <span>DennisB</span></p>
-						<p class="text">I'm wanting to develop... | <a href="http://www.geek.com/forums/topic/excel-2003-formula-issue">Read More »</a></p>
-					</td>
-				</tr>
-							<tr>
-					<td class="type reply"><a href="http://www.geek.com/forums/topic/cialis#postform">Reply</a></td>
-					<td class="desc">
-						<h3><a href="http://www.geek.com/forums/topic/cialis">cialis</a></h3>
-						<p class="author">12 hours ago <span>attashalmor</span></p>
-						<p class="text">ok super
-... | <a href="http://www.geek.com/forums/topic/cialis">Read More »</a></p>
-					</td>
-				</tr>
-						<tr>
-				<td colspan="2" class="right">
-											<a href="http://www.geek.com/forums/">View All Forum Talk » </a>
-									</td>
-			</tr>
-		</tbody></table>
-	</div>
-</div>
-<!-- /recent forum topics --><!-- /Recent Forum Topics -->
+        		</li><li>
+        			<h5><a href="http://www.geek.com/articles/news/circuit-city-to-reemerge-as-an-online-store-in-the-next-few-days-20090521/">Circuit City to reemerge as an online store in the next few days</a></h5>
+        			<p></p>
 
-<!-- Geek Shops -->
-<style type="text/css">
-@import url(http://www.geek.com/wp-content/themes/geek5a/styles/price-grabber.css);
-</style>
-	<!-- content box: shop -->
-	<div class="contentBox shopBox">
-		<h2>
-		Shop Geek.com
-		<a href="http://www.geek.com/shop/" class="orangeButton">Go Shop</a>
-		</h2>
-		<!-- inside -->
-		<div class="inside">
-			<!-- shopping widget -->
-			<div class="tabWidget">
-				<div id="wTabs">
-				<ul>
-					<li><a href="javascript: showPGWidget(0)">CPUs</a></li> 
-					<li><a href="javascript: showPGWidget(1)">Mobile</a></li> 
-					<li><a href="javascript: showPGWidget(2)">Apple</a></li> 
-					<li><a href="javascript: showPGWidget(3)">Games</a></li>
-					<li><a href="javascript: showPGWidget(4)">Gadgets</a></li> 
-				</ul>      
-				</div>
-				<div class="reset"></div>  
-				<!-- search -->	
-				<form name="search" id="search" action="http://www.geek.com/search/" method="get">
-					<div class="searchbox">
-						Search:
-						<input type="text" id="keyword" name="term" class="text">	
-						<input type="hidden" name="section" value="products">				
-						<input type="submit" class="submit" value="GO">
-					
-					</div>
-				</form>
-				<!-- /search -->
-				<div class="reset"></div>
+        		</li><li>
+        			<h5><a href="http://www.geek.com/articles/chips/samsung-hoping-to-increase-disc-space-20090521/">Samsung hoping to increase disc space 2000x</a></h5>
+        			<p></p>
 
-				<div id="wContent">
-					<!-- cpus -->
-					<div class="wContentBox">
-					
-					</div>
-					
-					<!-- /gadgets -->
-				</div>
-			</div>
-			<script>
-			showPGWidget(0);			</script>
-			<!-- /shopping widget -->
-		</div>
-		<!-- /inside -->
-		<!-- box footer -->
-		<div id="pa" class="boxFooter">
-		</div>
-		<!-- /box footer -->
-	</div>
-	<!-- /content box: shop geek.com --><!-- /Geek Shops -->
+        		</li><li style="border-bottom:0px;">
+        			<h5><a href="http://www.geek.com/articles/news/hilarious-review-of-honda-insight-sheds-first-honest-light-on-hybrids-20090522/">Hilarious review of Honda Insight sheds first honest light on Hybrids</a></h5>
+        			<p></p>
 
-<!-- sponsored link -->
-<div class="ad336">
+        		</li>        	
+        	</ul>
+        </div>
+        <!-- /tab-popular-c -->
+       
+        </div>
+      </div>
+    </div>
 	
+	<!-- sponsored link -->
+	<div class="ad336"><center>
 					<!-- BEGIN NetShelter Ad Tag for Geek.com 300x250,336x280 -->
 					<script language="JavaScript" type="text/javascript">
 					if (!window.netshel_ord) { netshel_ord=Math.random()*10000000000000000;
@@ -558,58 +392,185 @@ If you have any questions about this privacy statement, the practices of this si
 					if (!window.netshel_tile) { netshel_tile=1; }
 					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile='+netshel_tile+';ord=' + netshel_ord + '?" type="text/javascript"></scr' + 'ipt>');
 					netshel_tile++;
-					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile=4;ord=821838958707859?" type="text/javascript"></script>
+					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/homepage;sz=300x250,336x280;tile=3;ord=6204904440558929?" type="text/javascript"></script>
 					<!-- END AD TAG -->
-					</div>
-<!-- /sponsored link -->
-
-<!-- jobs widget -->
-
-<div id="rm_2" class="realmatchBlock">
+					
+	</center></div>
+	<!-- /sponsored link -->
 	
-			<div id="realmatch_2" class="realmatch">
-			<script type="text/javascript" id="rms_2" src="http://www.realmatch.com/Widgets/JS/Widget_JSON.js"></script>
-			<script type="text/javascript">
-			
-				var s = document.getElementById("wContainer_1").innerHTML;
-				var re;
-				re = /id=\"RM/gi;
-				s = s.replace(re, "id=\"1RM");
-				re = /id=\"ctl00_Container/gi;
-				s = s.replace(re, "id=\"1ctl00_Container");
-				re = /id=\"ctl00_Main/gi;
-				s = s.replace(re, "id=\"1ctl00_Main");
-				re = /RM_DataItem/gi;
-				s = s.replace(re, "1RM_DataItem");
-				document.getElementById("wContainer_1").innerHTML = s;
-				
-				var rm_widgetId=125;
-				var rm_serviceLocation="http://www.realmatch.com/Widgets/Pages/Widget_JSON.aspx";
-				var widgetContainerID = "wContainer_2";
-				getWidget();
-			</script>
-			<script type="text/javascript">
-				document.getElementById("wContainer_2").className = "wContainer";
-				document.getElementById("wContainer_2").style.width = "300px";
-			</script>
-			<noscript><a href="http://www.realmatch.com">Job search</a>by realmatch</noscript>
-			</div>
-			</div>
-<!-- /jobs widget -->
-
-<!-- Site Feed -->
-<div class="siteUpdates">
-	<h4>Receive Site Updates:</h4>
-	<ul>
-		<li>
-			<a href="http://www.geek.com/feed/">Full Geek.com feed</a>
-		</li>
-		
-			</ul>
-	<p><a href="http://www.geek.com/articles/feeds/">More Feeds</a></p>
-</div>
-<!-- /Site Feed -->
- 						</td>				
+	<!-- Geek Shops -->
+    <style type="text/css">
+    @import url(http://www.geek.com/wp-content/themes/geek5a/styles/price-grabber.css);
+    </style>
+    <!-- content box: shop -->
+  	<div class="contentBox shopBox">
+  		<h2>
+  		  Shop Geek.com
+  		  <a href="http://www.geek.com/shop" class="orangeButton">Go Shop</a>
+  		</h2>
+  		<!-- inside -->
+  		<div class="inside">
+  		  <h4>Today's Top 10 Products</h4>
+  		  <ul class="top">
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=96946413" class="image"><img src="http://ai.pricegrabber.com/pi/9/69/46/96946413_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=96946413">Inspiron Mini 9 Black Netbook - Customizable</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=96946413" class="tag">$249.00</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=96946413">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=713843342" class="image"><img src="http://ai.pricegrabber.com/pi/71/38/43/713843342_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=713843342">Inspiron 15 Notebook - Customizable</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=713843342" class="tag">$449.00</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=713843342">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=81199105" class="image"><img src="http://ai.pricegrabber.com/pi/8/11/99/81199105_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=81199105">T240HD Black 24" Widescreen LCD Monitor</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=81199105" class="tag">$314.99</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=81199105">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=4215519" class="image"><img src="http://ai.pricegrabber.com/pi/0/42/15/4215519_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=4215519">Z-2300 2.1 Speaker System</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=4215519" class="tag">$115.92</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=4215519">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=700525229" class="image"><img src="http://ai.pricegrabber.com/pi/70/05/25/700525229_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=700525229">Core i7 I7-920 Quad Core Processor</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=700525229" class="tag">$279.99</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=700525229">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=89797218" class="image"><img src="http://ai.pricegrabber.com/pi/8/97/97/89797218_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=89797218">My Passport Essential 500GB Portable Hard Drive - Black</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=89797218" class="tag">$119.98</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=89797218">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=64130753" class="image"><img src="http://ai.pricegrabber.com/pi/6/41/30/64130753_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=64130753">EOS Rebel XSi Black SLR Digital Camera Kit</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=64130753" class="tag">$569.95</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=64130753">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=85331802" class="image"><img src="http://ai.pricegrabber.com/pi/8/53/31/85331802_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=85331802">E71 Cell Phone - Gray</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=85331802" class="tag">$319.99</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=85331802">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li>
+  		<a href="http://www.geek.com/shop/pg-product/?pid=74217428" class="image"><img src="http://ai.pricegrabber.com/pi/7/42/17/74217428_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=74217428">Jawbone 2 Wireless Cell Phone Headset</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=74217428" class="tag">$64.99</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=74217428">Compare Prices »</a>
+    	</div>
+  	</li>
+	<li style="border-bottom:0px">
+  		<a href="http://www.geek.com/shop/pg-product/?pid=715677053" class="image"><img src="http://ai.pricegrabber.com/pi/71/56/77/715677053_50.jpg" alt="Product"></a>
+  		<div class="main">
+  			<h6><a href="http://www.geek.com/shop/pg-product/?pid=715677053">VIERA TC-P50G10 50" Plasma TV</a></h6>
+  		  	
+  		</div>
+  		<div class="price">
+    		<a href="http://www.geek.com/shop/pg-product/?pid=715677053" class="tag">$1399.99</a>
+    		<a href="http://www.geek.com/shop/pg-product/?pid=715677053">Compare Prices »</a>
+    	</div>
+  	</li>
+  		  </ul>
+  		  <form class="search" action="http://www.geek.com/search/" method="get">
+  		    <label>Search: <span>10,300,330 Products</span></label>
+  		    <input type="text" class="text" name="term">
+  		    <input type="hidden" name="section" value="products">
+  		    <input type="submit" value="GO" class="button black">
+  		  </form>
+  		  <h5>Geek Shop Categories</h5>
+  		  <ul class="categories">
+  		    <li><a href="http://www.geek.com/shop/pg-category/?catid=11">Cameras</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=52">Cell Phones</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-category/?catid=1">Computers</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-category/?catid=2">Electronics</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=2">Laptops</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=5">Memory</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=3">Monitors</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=39">PDAs</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-category/?catid=6">Software</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-sub-cat/?scatid=6">Storage Devices</a></li>
+  		    <li><a href="http://www.geek.com/shop/pg-category/?catid=3">Video Games</a></li>
+  		    <li><a href="http://www.geek.com/shop">All Products</a></li>
+  		    <li><a href="http://www.geek.com/laptop-buyers-guide/">Laptop Buying Guide</a></li>
+  		  </ul>
+  		</div>
+  		<!-- /inside -->
+  	</div>
+  	<!-- /content box: shop geek.com -->
+    <!-- /Geek Shops -->    <div class="contentBox feedsBox">
+      <h2>
+        <img src="http://www.geek.com/wp-content/themes/geek6/images/redesign/icons/rss-dark.gif" class="rss" alt="Geek Feeds">
+        Geek Feeds
+      </h2>
+      <div class="inside">
+        <ul>
+          <li><a href="http://www.geek.com/articles/apple/feed/"><span>Apple</span></a></li>
+          <li><a href="http://www.geek.com/articles/gadgets/feed/"><span>Gadgets</span></a></li>
+          <li><a href="http://www.geek.com/articles/mobile/feed/"><span>Mobile</span></a></li>
+          <li><a href="http://www.geek.com/articles/games/feed/"><span>Games</span></a></li>
+          <li><a href="http://www.geek.com/articles/chips/feed/"><span>Chips</span></a></li>
+          <li><a href="http://www.geek.com/articles/feeds/"><span>More</span></a></li>
+        </ul>
+        <h5>Geek Goes Social</h5>
+        <div class="social">
+          <a href="http://www.facebook.com/pages/Geekcom/45041537375" target="new"><img src="http://www.geek.com/wp-content/themes/geek6/images/redesign/banners/facebook.gif" alt="Geek on Facebook"></a>
+          <a href="http://www.youtube.com/wwwgeekdotcom" target="new"><img src="http://www.geek.com/wp-content/themes/geek6/images/redesign/banners/youtube.gif" alt="Geek on Youtube"></a>
+          <a href="http://twitter.com/geekdotcom" target="new"><img src="http://www.geek.com/wp-content/themes/geek6/images/redesign/banners/twitter.gif" alt="Geek on Twitter"></a>
+        </div>
+      </div>
+    </div> 						</td>				
  						 					
  					
                 </tr>
@@ -619,31 +580,41 @@ If you have any questions about this privacy statement, the practices of this si
 	</tr>
 </tbody></table>
 <!-- /content (fully expandable table) -->
+<table width="100%">
+	<tbody><tr><td align="center">
+					<!-- BEGIN NetShelter Ad Tag for Geek.com 728x90 new -->
+					<script language="JavaScript" type="text/javascript">
+					if (!window.netshel_ord) { netshel_ord=Math.random()*10000000000000000;
+					}
+					if (!window.netshel_tile) { netshel_tile=1; }
+					document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=728x90;dcopt=ist;tile='+netshel_tile+';ord=' + netshel_ord + '?" type="text/javascript"></scr' + 'ipt>');
+					netshel_tile++;
+					</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/ns.geek/general;sz=728x90;dcopt=ist;tile=4;ord=6204904440558929?" type="text/javascript"></script>
+					<!-- END AD TAG -->	</td></tr>
+</tbody></table>
 <!-- footer -->
+<div class="reset"></div>
+<div class="footer-wrap">
 <div class="footer">
 	
-	<span class="left">© 1996-2008 Geek.com, LLC - All rights reserved</span>
+	<span class="left">© 1996-2009 Geek.com, LLC - All rights reserved</span>
 	
 	<span class="right">
 
-		<a href="http://www.geek.com/about/">About</a>
-	<a href="http://www.geek.com/about#contact">Contact Us</a>
-	<a href="http://www.geek.com/about#advertise">Advertise</a>
-	
-				<a href="http://www.geek.com/about/posting-guidelines/">Posting Guidelines</a>
-					<a href="http://www.geek.com/about/privacy-policy/">Privacy Policy</a>
-					<a href="http://www.geek.com/about/terms-of-use/">Terms of Use</a>
-			
+		<a href="http://www.geek.com/about/" rel="nofollow">About</a>
+	<a href="http://www.geek.com/about#contact" rel="nofollow">Contact Us</a>
+	<a href="http://www.geek.com/about#advertise" rel="nofollow">Advertise</a>
+	<a href="http://www.geek.com/about/posting-guidelines/" rel="nofollow">Posting Guidelines</a>
+	<a href="http://www.geek.com/about/privacy-policy/" rel="nofollow">Privacy Policy</a>
+	<a href="http://www.geek.com/about/terms-of-use/" rel="nofollow">Terms of Use</a>
+	<a href="http://www.geek.com/glossary/" rel="nofollow">Glossary</a>
 	</span>
-</div>
+</div></div>
 <!-- /footer -->
-
 <div id="nointelliTXT">
 	<!-- start Vibrant Media IntelliTXT script section -->
 						<script type="text/javascript" src="http://geek.us.intellitxt.com/intellitxt/front.asp?ipid=141"></script>
 						<!-- end Vibrant Media IntelliTXT script section --></div>
-
-<script type="text/javascript" src="http://cetrk.com/pages/scripts/0006/9281.js"></script>
 
 
 <!-- Start Quantcast tag -->
@@ -661,12 +632,15 @@ qacct:"p-c5El8QwYYkAh-"
 <!-- Behavioral Pixel -->
 <script>
 document.write("<scr"+"ipt src='http://bp.specificclick.net?pixid=21009303&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");
-</script><script src="http://bp.specificclick.net?pixid=21009303&amp;u=https%3A//web.archive.org/web/20081216014301id_/http%3A//www.geek.com/about/privacy-policy/&amp;r="></script>
+</script><script src="http://bp.specificclick.net?pixid=21009303&amp;u=https%3A//web.archive.org/web/20090526033556id_/http%3A//www.geek.com/about/privacy-policy/&amp;r="></script>
 <noscript>
 <img src="http://bp.specificclick.net?pixid=21009303" width="0" height="0" border="0" />
 </noscript> 
 <!-- End Behavioral Pixel -->
 
+<script src="http://cdn.media6degrees.com/static/nm1132.js" type="text/javascript"></script> 
+</div>
+<script type="text/javascript" src="http://track.netshelter.net/js/sites/geek.com.js"></script>
 
 
 
