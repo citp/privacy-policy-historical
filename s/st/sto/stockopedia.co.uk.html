@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockopedia.co.uk privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218213723id_/http%3A//www.stockopedia.co.uk/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockopedia.co.uk privacy policy that was archived on 2009-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090527012242id_/http%3A//www.stockopedia.co.uk/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	
@@ -12,7 +12,7 @@
 	
 	
 
-<link rel="stylesheet" type="text/css" href="http://www.stockopedia.co.uk/media/mini/596a401ffcfc65812d4f83194fa227d9.css">
+<link rel="stylesheet" type="text/css" href="http://www.stockopedia.co.uk/media/mini/c7f06b49fb60c2d9e1c0ccdfb4ff97d6.css">
 
 <link rel="stylesheet" type="text/css" href="http://www.stockopedia.co.uk/media/mini/7e6b3686fad9d9fe23ff56a9935b6716.css">
 <!--calendar-->
@@ -21,9 +21,10 @@
 		
 		
 		
+	
 			
 	<script type="text/javascript" src="media/scriptaculous/prototype_1603.js"></script>	
-		<script type="text/javascript" src="http://www.stockopedia.co.uk/media/mini/a0cf64c9c03a2003b07c415ce209b366.js"></script>
+		<script type="text/javascript" src="http://www.stockopedia.co.uk/media/mini/f62926e40873c4500c8fe9310d0737bc.js"></script>
 <!-- don't minify css menu, seems to make IE work better -->	
 	<script type="text/javascript" src="media/njs/cssmenu.js"></script>
 		
@@ -78,49 +79,60 @@ onloadAdd('calendar_stup()');
 	}
 </style>
 
-
-
 <script type="text/javascript" charset="utf-8">	onloadOn();</script>
+
 </head>
 <body>
+
+    
 <!-- For some reason scriptaculous clashes with tinymce in Firefox 2.0 unless it's out of the header... if moving it back Double Check it works in all browsers!!!-->
 	<script type="text/javascript" src="media/scriptaculous/scriptaculous_shrink.js"></script>
-	<script type="text/javascript" charset="utf-8" src="media/njs/fabtabs.js"></script><script type="text/javascript" charset="utf-8" src="media/njs/calendar.js"></script>		
+	<script type="text/javascript" charset="utf-8" src="media/njs/fabtabs.js"></script><script type="text/javascript" charset="utf-8" src="media/njs/calendar.js"></script><script type="text/javascript" charset="utf-8" src="media/njs/modal.js"></script>		
 
 	<div id="primary">
-	
-					<script>				
-					Event.observe(window, 'load', function() {
-					  	timeinit();				
-					});
-							
-					function timeinit(){
-						document.getElementById('countdown').innerHTML = "Market closed and will re-open at 8:00am";
-					}								
-					</script>
+			
+				<script>
+
+				Event.observe(window, 'load', function() {
+				  	timeinit();				
+				});
+
+				var flash_message = 'market closed';
+
+				function timeinit(){
+					simpleTime();			
+					setInterval(simpleTime, 1000);
+				}
 				
+				function simpleTime()
+				{
+					
+					var d = new Date();	
+					var hour = d.getHours();	
+					var minutes = d.getMinutes();
+					var seconds = d.getSeconds();
+					var day = d.getDay();			
+					
+					var ap = 'AM';
+				   	if (hour   > 11) { ap = 'PM';             }
+				   	if (hour   == 0) { hour = 12;             }
+				   	if (hour   < 10) { hour   = '0' + hour;   }
+				   	if (minutes < 10) { minutes = '0' + minutes; }
+				   	if (seconds < 10) { seconds = '0' + seconds; }
+				   					
+					document.getElementById('countdown').innerHTML =  hour + ":" + minutes + ":" + seconds + " " + ap;	
+				}
+			
+				</script>
+			
 	<div id="nav_bar">
 		<a href="" alt="Go to your Homepage">
 			<img class="logo" src="http://images.stockopedia.co.uk/stockopedialogo1.gif"></a>
-
-		
+	
 		<div id="date">
 
-			<!--Google-->
-			<form action="http://www.stockopedia.co.uk/search/google" id="cse-search-box" style="float:right;height:20px">
-			  <div>
-			    <input type="hidden" name="cx" value="010600732963884670287:fm5bnobnbsm">
-			    <input type="hidden" name="cof" value="FORID:9">
-			    <input type="hidden" name="ie" value="UTF-8">
-			    <input type="text" name="q" size="20" style="height:10px">
-			    <input type="submit" name="sa" value="Go">
-			  </div>
-			</form>
-			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
-		
 		<span id="countdown" style="float:right; padding-right:30px; color:silver"></span> 
-		<span style="float:right; padding-right:5px">Thu 18 Dec : </span> 
+		<span style="float:right; padding-right:5px">Wed 27 May : </span> 
 
 
 
@@ -147,7 +159,6 @@ onloadAdd('calendar_stup()');
 		</li>
 		
 		<li><a class="starter" title="Browse by Tags" href="tags">Tags</a></li>
-		<li><a class="starter" title="News" href="stocks/news">News</a></li>
 		<li><a class="starter close_menu" title="Charts" href="charts">Charts</a></li>
 	</ul>
 </li>
@@ -170,10 +181,11 @@ onloadAdd('calendar_stup()');
 			<ul id="003_001_001" class="menu">
 				<li><a class="starter open_menu" title="Stocks" href="forum/index/stock">Stocks</a></li>
 				<li><a class="starter" title="Sectors" href="forum/index/sector">Sectors</a></li>
-				<li><a class="starter" title="Themes" href="forum/index/theme">Themes</a></li>
-				<li><a class="starter close_menu" title="Active Threads" href="forum/active_threads">Active Threads</a></li>			
-			</ul>
-		</li>
+				<li><a class="starter close_menu" title="Themes" href="forum/index/theme">Themes</a></li>
+		</ul>
+		</li>			
+				<li><a class="starter" title="Active Threads" href="forum/active_threads">Active Discussions</a></li>	
+				<li><a class="starter" title="Start Discussion" href="forum/create_new">Start Discussion</a></li>						
 		<li><a class="starter" title="Sentiment" href="sentiment">Sentiment <img class="top_menu_img" src="http://images.stockopedia.co.uk/icon_arrow_list.png"></a>
 			<ul id="003_002_001" class="menu">
 				<li><a class="starter open_menu" title="Graph" href="sentiment">Graph</a></li>
@@ -187,49 +199,73 @@ onloadAdd('calendar_stup()');
 		<li><a class="starter" title="Top Posters" href="investors/hall_of_fame">Top Posters</a></li>
 		<li><a class="starter close_menu" title="Search" href="search/forum">Search</a></li>
 	</ul>
-</li>
-<li class="menubar"><a class="starter top_menu_offset" title="funds" href="fund/index">funds </a>
+</li>			
+<li class="menubar"><a class="starter top_menu_offset" title="news" href="news/rns_index">news</a>
 	<ul id="004_001" class="menu">
+<li><a class="starter " title="Headlines" href="news/headlines">Web Headlines</a></li>	
+		<li><a class="starter" title="RNS News" href="news/rns_index">Regulatory News</a></li>				
+
+	<li><a class="starter" title="Tweets" href="news/tweets">Tweets</a></li>	
+	<li><a class="starter close_menu" title="User News" href="news/user_index">User Generated News</a></li>
+					
+		</ul>			
+</li>		
+<li class="menubar"><a class="starter top_menu_offset" title="funds" href="fund/index">funds </a>
+	<ul id="005_001" class="menu">
 		<li><a class="starter open_menu" title="Trading Portal" href="fund/index">Trading Portal</a></li>
-		<li><a class="starter close_menu" title="Rankings" href="fund/rankings">Rankings <img class="top_menu_img" src="http://images.stockopedia.co.uk/icon_arrow_list.png"></a>
-			<ul id="004_002_001" class="menu">
+	<li><a class="starter" title="2009 Challenge" href="fund/challenge">2009 Challenge</a></li>			
+	<li><a class="starter" title="Leagues" href="fund/league">Leagues</a></li>	
+			
+					
+			
+		<li><a class="starter close_menu" title="Leaderboard" href="fund/rankings">Leaderboard <img class="top_menu_img" src="http://images.stockopedia.co.uk/icon_arrow_list.png"></a>
+			<ul id="005_002_001" class="menu">
 				<li><a class="starter open_menu" title="1 week" href="fund/rankings?time=1week">1 week</a></li>
 				<li><a class="starter" title="1 month" href="fund/rankings?time=1month">1 month</a></li>
 				<li><a class="starter" title="3 month" href="fund/rankings?time=3month">3 month</a></li>
 				<li><a class="starter" title="6 month" href="fund/rankings?time=6month">6 month</a></li>
-				<li><a class="starter" title="1 year" href="fund/rankings?time=1year">1 year</a></li>
-				<li><a class="starter close_menu" title="annualised" href="fund/rankings?time=annualised">annualised</a></li>
+				<li><a class="starter close_menu" title="1 year" href="fund/rankings?time=1year">1 year</a></li>
 			</ul>
 		</li>
 	</ul>
 </li>
 <li class="menubar"><a class="starter top_menu_offset" title="investors" href="investors">investors </a>
-	<ul id="005_001" class="menu">
+	<ul id="006_001" class="menu">
 				<li><a class="starter" title="Hall of Fame" href="investors/hall_of_fame">Hall of Fame</a></li>
 		<li><a class="starter" title="Gurus" href="investors/gurus">Gurus</a></li>
 		<li><a class="starter close_menu" title="Who''s Online" href="investors/whos_online">Who's Online</a></li>
 	</ul>
 </li>
 <li class="menubar"><a class="starter top_menu_offset" title="help" href="help">help </a>
-	<ul id="006_001" class="menu">
+	<ul id="007_001" class="menu">
 		
 				<li><a class="starter open_menu" title="Help Guidelines" href="help">Help Menu</a>
 
 		</li>
 		<li><a class="starter " title="Feature Tour" href="tour">Feature Tour</a>
 		</li>
-
+				<li><a class="starter" title="About Stockopedia" href="tour/index/about">About Stockopedia</a></li>
+	<li><a class="starter" title="Stockopedia BookShop" href="bookshop">Stockopedia Bookshop</a></li>			
 		<li><a class="starter " title="Search" href="search/index">Search</a></li>
-		<li><a class="starter" title="Feedback" href="feedback/comment">Feedback</a></li>
+		<li><a class="starter close_menu" title="Feedback" href="feedback">Feedback</a></li>
 
-				<li><a class="starter close_menu" title="About Stockopedia" href="tour/index/about">About Stockopedia</a></li>
 	</ul>
 </li>
 
 <li class="menubar"><a href="blog" title="help" class="starter top_menu_offset">blog</a></li>
+
+
+<li class="menubar"><a class="starter top_menu_offset" title="Stockopedia on Twitter" href="http://www.twitter.com/Stockopedia" target="_blank">
+	<img height="11.6" width="50" src="http://images.stockopedia.co.uk//twitter_logo_125x29.png">
+	</a>
+	<ul id="008_001" class="menu">		
+	<li><a class="starter open_menu" title="Stockopedia on Twitter" href="http://www.twitter.com/Stockopedia" target="_blank">StockoTwitter</a></li>
+	<li><a class="starter" title="Stockopedia News on Twitter" href="http://www.twitter.com/Stockonews" target="_blank">StockoNews</a></li>
+	<li><a class="starter" title="Stockopedia Chat on Twitter" href="http://www.twitter.com/Stockochat" target="_blank">StockoChat</a></li>
+	<li><a class="starter close_menu" title="Stockopedia Stats on Twitter" href="http://www.twitter.com/Stockostats" target="_blank">StockoStats</a></li>		
 </ul>
 
-</div>
+</li></ul></div>
 		</div>
 	
 	</div>
@@ -272,16 +308,36 @@ onloadAdd('calendar_stup()');
 
 				<form action="admin/login" method="post" class="login_form"> 
 			Username	<input class="user_details" type="text" name="username" size="14" maxlength="20" value="" onclick="this.value=''" style="margin-bottom:5px"> 
-			Password	<input class="user_details" type="password" name="userpass" size="14" maxlength="20" value="" onclick="this.value=''" style="margin-bottom:5px"> 
+			Password	<input class="user_details" type="password" name="userpass" size="14" maxlength="20" value="" onclick="this.value=''" style="margin-bottom:5px"> <br>
+			<input type="checkbox" name="remember_me" value="on" id="remember_me"> <label for="remember_me">Remember Me</label>
+			
 			<input type="submit" name="submit" value="sign in">
-				<a href="admin/register" class="submit_form">Register</a><br>
+				<a href="admin/register" class="submit_form" style="color:#C6C3C6">Register</a><br>
 			<input type="hidden" name="submitted" value="TRUE">
 			<input type="hidden" name="url" value="legal/privacy_policy">
-				<a href="admin/forgot_password" class="forgot_password">Forgot password?</a>
+				<a href="admin/forgot_password" class="forgot_password" style="color:#C6C3C6">Forgot password?</a>
 		</form>
 				
 		
+		
+	<br>
+	<a href="fund/challenge">
+	<img src="http://images.stockopedia.co.uk//marketing/Stockopedia-Challenge-Side.jpg" style="border:1px solid white">
+	</a><br>
+		
 
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9935873485060435";
+google_ad_slot = "1812127825";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	
+	
 	</div>
 	
 
@@ -295,8 +351,7 @@ onloadAdd('calendar_stup()');
 
 
 	
-	
-<div id="header_thin">
+	<div id="header_thin">
 	
 	<h1>Stockopedia Legal</h1>
 	
@@ -328,7 +383,7 @@ onloadAdd('calendar_stup()');
 </p><div class="legal">	
 <div class="heading info">Privacy</div>	
 		
-Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via the <a href="feedback/comment">feedback form</a> 
+Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via the <a href="feedback">feedback form</a> 
 <p>
 </p><h1 id="1_Information_collection"> (1)	Information collection </h1> 
 <p>
@@ -366,13 +421,15 @@ We may use your personal information to:
 </p><p>
 (c)	enable your use of the services available on the website, including the facility to submit content to the website;
 </p><p>
-(d)	send you general (non-marketing) commercial communications;
+(d)	send you general commercial communications;
 </p><p>
-(e)	send you email notifications which you have specifically requested;
+(e)	send you site-related email notifications, for example related to site improvement, new features, or premium offerings;
 </p><p>
-(f)	deal with enquiries and complaints made by or about you relating to the website; and
+(f)	send you email notifications of related third party offers which are targeted to Stockopedia's focus (i.e. no spam) but not where you have opted out via the email settings on your profile;
 </p><p>
-(g)	provide third parties with statistical information about our users – but this information will not be used to identify any individual user.
+(g)	deal with enquiries and complaints made by or about you relating to the website; and
+</p><p>
+(h)	provide third parties with statistical information about our users – but this information will not be used to identify any individual user.
 </p><p>
 You acknowledge that our website is a social networking website and, where you submit personal information for publication on our website (including as part of your profile) we will publish and otherwise use that information in accordance with the terms of the licence you grant to us.  Similarly, user ratings and reviews concerning you, and details of the performance of your public funds, may be published on our website.
 </p><p>		
@@ -430,7 +487,7 @@ Please let us know if the personal information which we hold about you needs to 
 </p><p>
 </p><h1 id="11_Contact">(11) 	Contact</h1>
 <p>
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by using the <a href="feedback/comment">feedback form </a> or by post to Stockopedia Ltd at Office 404, 4th Floor, Albany House, 324/326 Regent Street, London, W1B 3HH, U.K.</p></div><div style="clear:both"></div>
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by using the <a href="feedback">feedback form </a> or by post to Stockopedia Ltd at Office 404, 4th Floor, Albany House, 324/326 Regent Street, London, W1B 3HH, U.K.</p></div><div style="clear:both"></div>
 
 </div>
 </div>
@@ -446,15 +503,15 @@ This site cannot substitute for professional investment advice and/or independen
 <li id="Privacy"><a href="legal/privacy_policy">Privacy</a></li>
 <li id="Disclaimer"><a href="legal/disclaimer">Disclaimer</a></li>
 <li id="About Stockopedia"><a href="tour/index/about">About Stockopedia</a></li>
-<li><a href="feedback/comment">Feedback &amp; Suggestions</a></li>
+<li><a href="feedback">Feedback &amp; Suggestions</a></li>
 <li id="Help"><a href="tour">Help</a></li>	
 </ul>
 
 <b>Share Data provided by </b><a href="http://www.sharedataservices.com/" target="_blank">ShareData Services</a>. 
 <br><br>
- If you like this site, share the love:
 
-		
+If you like this site, share the love:
+
 		
 <!-- ADDTHIS BUTTON BEGIN -->
 <script type="text/javascript">
@@ -464,10 +521,23 @@ addthis_options         = 'favorites, email, digg, delicious, myspace, facebook,
 <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img style="margin-top:5px" src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a>
 <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 <!-- ADDTHIS BUTTON END -->
-                                  
+
+<p></p><p>			
+<br><br><br>
+		
+<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.stockopedia.co.uk"></script>
+	
+
+	
+<a target="_blank" href="http://download.alexa.com/?amzn_id=stockopedia-20">
+ <img style="border:1px solid silver;
+ width: 150px; height:45px; margin-left: 8px; cursor: pointer;" src="http://images.stockopedia.co.uk/alexa.jpg">
+ </a>
+
+	 	                                  
 			
 				
-</div> 
+</p></div> 
 
  <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -477,4 +547,22 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-5753249-1");
 pageTracker._trackPageview();
 </script>  
+
+
+<script type="text/javascript">
+  var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
+  document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+</script><script src="https://uservoice.com/javascripts/widgets/tab.js" type="text/javascript"></script>
+<script type="text/javascript">
+UserVoice.Tab.show({ 
+  key: 'stockopedia',
+  host: 'stockopedia.uservoice.com', 
+  forum: 'forum improvements', 
+  alignment: 'right',
+  background_color:'#f00', 
+  text_color: 'white',
+  hover_color: '#06C',
+  lang: 'en'
+})
+</script> 
 </div></div></body></html>
