@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045239id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526192130id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoneDeal Help
 
 ## 1\. Introduction
 
-This Web Site is owned and operated by Done Deal Limited, of 69 Clonard Village, Clonard, Wexford, Ireland ("DoneDeal.ie", "DoneDeal", "our", "we" or "us"). DoneDeal.ie is the controller of all personal information collected on this Site.
+This Web Site is owned and operated by Done Deal Limited, of Unit B, Tuskar House, Johns Gate Street, Wexford, Ireland ("DoneDeal.ie", "DoneDeal", "our", "we" or "us"). DoneDeal.ie is the controller of all personal information collected on this Site.
 
 We at DoneDeal.ie respect your right to privacy and aim to comply with our obligations under the Data Protection Legislation currently in force in Ireland. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. We use your information only as set out in this Privacy Policy. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
 
@@ -62,4 +62,4 @@ Any changes to this Website Privacy Policy will be posted on this website so you
 
 ## 9\. Questions or Comments
 
-If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/contact), or send a letter to DoneDeal.ie, 69 Clonard Village, Clonard, Wexford, Ireland.
+If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/contact), or send a letter to DoneDeal.ie, Unit B, Tuskar House, Johns Gate Street, Wexford, Ireland.
