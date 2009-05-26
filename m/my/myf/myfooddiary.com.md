@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055104id_/http%3A//myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527003554id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
 
@@ -103,7 +103,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.myfooddiary.com/contact_form.asp?dept=cs>.
 
 MyFoodDiary.com  
-1030 Monarch Street, Ste. 120  
-Lexington, KY 40513
+651 Perimeter Drive, Ste. 620  
+Lexington, KY 40517
 
-Last Updated on 10/22/2007 
+Last Updated on 12/31/2008 
