@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012103827id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527011457id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy - Michael Page International
 
@@ -70,4 +70,4 @@ If, at any time, you have questions or concerns about Michael Page International
 
 Michael Page International is an equal opportunities employer and a company committed to diversity.  This means that all job applicants and members of staff will receive equal treatment and that we will not discriminate on grounds of gender, marital status, race, ethnic origin, colour, nationality, national origin, disability, sexual orientation, religion or age. 
 
-As part of our commitment to equal opportunities we may from time to time use information provided by you for the purposes of diversity monitoring. Any such information will be used on an anonymised basis in accordance with the terms of our Privacy Policy.
+As part of our commitment to equal opportunities we may from time to time use information provided by you for the purposes of diversity monitoring. Any such information will be used on an anonymised basis in accordance with the terms of our Privacy Policy. [For more information on diversity please click here](https://web.archive.org/content/16033/diversity.html). 
