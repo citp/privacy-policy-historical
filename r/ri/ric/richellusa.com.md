@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richellusa.com privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925094053id_/http%3A//www.richellusa.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richellusa.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526032525id_/http%3A//www.richellusa.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
