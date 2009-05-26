@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062419id_/http%3A//newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527003459id_/http%3A//newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
 
-# NewsBiscuit: Privacy Policy
+# NewsBiscuit » Privacy Policy
 
 This privacy policy sets out how Net Loss Ltd uses and protects any information that you give Net Loss Ltd when you use this website.
 
@@ -12,21 +12,17 @@ _What we collect_
 
 We may collect the following information:
 
-  * user name
-  * email address
-
-
+* user name  
+* email address
 
 _What we do with the information we gather_
 
 We require this information to provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping. 
-  * If you have registered for ‘Get headlines straight to my inbox’ you will receive new stories as they are published. 
-  * If you have ticked the box for ‘send me the occasional email about new features’ we may periodically send promotional email about new features, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you by email for market research purposes. We will only use your information in conjunction with NewsBiscuit.
-
-
+* Internal record keeping.  
+* If you have registered for ‘Get headlines straight to my inbox’ you will receive new stories as they are published.  
+* If you have ticked the box for ‘send me the occasional email about new features’ we may periodically send promotional email about new features, special offers or other information which we think you may find interesting using the email address which you have provided.  
+* From time to time, we may also use your information to contact you by email for market research purposes. We will only use your information in conjunction with NewsBiscuit.
 
 _Security_
 
