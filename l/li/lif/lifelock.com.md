@@ -1,142 +1,73 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220133711id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526164119id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy) for the most accurate reproduction.*
 
 # Identity Theft Prevention – Identity Theft Protection
 
-[](http://www.truste.org/ivalidate.php?url=www.lifelock.com&sealid=101)Welcome to LifeLock. Keeping your non-public personal information secure and confidential is one of our top priorities. This LifeLock Privacy Policy describes our information practices. Please take a moment to read this LifeLock Privacy Policy carefully to learn how we handle your personal information.
+[](http://www.lifelock.com/)
 
-This policy may change from time to time. By accessing our web site, you agree to be bound by the terms of this Privacy Policy. Each time you enroll, access or use our services or our web site, the current version of the Privacy Policy will apply. Accordingly, you should check this Privacy Policy when you visit our web site, and from time to time while you are enrolled for our service. Online customers may check our website regularly for updates to this Privacy Policy. You may also obtain a paper copy of the current version of our Privacy Policy by calling us at 1-800-LifeLock (543-3562) or writing us at LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281.
+## Welcome to LifeLock!
 
-We take reasonable steps to (i) give you, a member of LifeLock or a user of our web site, clear notice when we are requesting or collecting information from you, and (ii) advise you of the types of information we collect about you, the general purposes for which that information will be used or disclosed, and the categories of users to whom we provide the information. Furthermore, we take reasonable steps to maintain accurate records, provide you with access to your personally identifiable information, and to safeguard the non-public personal information we collect about you through physical and electronic systems.
+This LifeLock, Inc. ("LifeLock") Privacy Policy (the "Policy") was developed as an extension of LifeLock's commitment to combine the highest-quality services with the highest level of integrity in dealing with LifeLock's valued customers, and the companies, businesses and organizations they represent or that represent them (collectively, "you").
 
-## How we collect non-public personal information
+_**IF YOU DO NOT AGREE TO THE POLICY, YOU MUST NOT USE THIS INTERNET WEBSITE (THE "WEBSITE"). LIFELOCK MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE WEBSITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED POLICY. EACH TIME YOU USE THE WEBSITE, THE LATEST VERSION OF THE POLICY WILL BE DISPLAYED AND WILL APPLY.**_
 
-While enrolling for services, we will ask you for the following types of information: contact information (such as name, address, phone number, and email address); sensitive information (such as date of birth, driver's license number, and social security number); personal information to verify your identity, and financial information (such as credit card number). This information is required in order to verify your identity, charge you the agreed fees for our services, and to fulfill our obligation to provide services to you, including communicating with third parties as necessary to provide those services, such as identification verification companies, consumer reporting agencies, payment validation companies, law enforcement agencies, or others.
+As a member, you will be notified of any substantive modifications to the Policy by email, and we will prominently post notice of any such modifications on our website. You understand and agree that you will be bound by all such modifications, if any, regardless of whether you provide such email address or receive such notice.
 
-We also receive information from you when you send us email, applications and other forms, when you enroll for our services, or when you call us. We may also collect information about your transactions with us, such as what products and services you ordered, as well as your transactions with any third parties with whom we put you in communication.
+> 1\. **INFORMATION**. LifeLock obtains information from and about you in a number of different ways, including: 
+>
+>> A. **General Information**. Some information ("General Information") is gathered automatically when you access the Website. This General Information (which may include Website pages visited, type of web browser used, type of operating system, and the domain name of your Internet service provider, and similar information) does not identify you personally.
+>
+>> B. **Personal Information**. Some information ("Personal Information") is not gathered automatically when you access the Website and instead is provided by you voluntarily. Personal Information is information that is identifiable as yours, including without limitation your name, address, telephone number, email address, date of birth, driver's license number, Social Security number, and other personal information to verify your identity, as well as financial information such as your credit card number. You must provide Personal Information to LifeLock as part of the registration process if you wish to receive "Services" as defined in the LifeLock [Terms of Use](https://web.archive.org/about-us/about-lifelock/terms-and-conditions). The following are some of the kinds of Personal Information you may choose to provide: 
+>>
+>>> **(i)** Registration Information. When you register at the Website, you will be required to provide certain Personal Information;
+>>
+>>> **(ii)** Third Party Information. When you register at a third party website, and provide Personal Information to such third parties, LifeLock may (pursuant to agreements between LifeLock and those third parties) obtain such information to populate LifeLock registration forms for use when you hyperlink to the Website; and
+>>
+>>> **(iii)** Email Information. When you send LifeLock email messages or call LifeLock by telephone, LifeLock may retain the content of your email or telephone messages, together with your email address and LifeLock's response to you.
+>
+>> C. **Cookies**. Cookies are small text files that are stored by a user's web browser on the hard drive of a user's computer. Cookies can "remember" what information ("Cookie Information") a user accesses on a particular web page to simplify subsequent interactions with that website by the same user, or can use that information to streamline the user's transactions on related websites. The Cookies LifeLock uses on the Website may be "session" Cookies that are erased when you leave the Website, or may be "persistent" Cookies that remain on your computer's hard drive after you leave the Website. LifeLock also uses a Cookie installed by Google, Inc. to provide LifeLock with usage information regarding the Website. The Cookies LifeLock uses do not capture your individual email address or any personally identifying information, but do permit LifeLock to send focused advertising, online banner advertisements, new services, promotions or other such responses to you or assist your use of the Website. LifeLock may also set Cookies when you register at the Website, and may do so without notice to or permission from you or any third party. Third party websites which are accessible from the Website via links, banner ads, or "click-throughs" may also use Cookies, and LifeLock shall have no responsibility whatsoever for such Cookies.
 
-## Cookies
+> 2\. **USE AND DISCLOSURE OF INFORMATION**. LifeLock uses and discloses your information as follows: 
+>
+>> A. **General Information**. LifeLock uses and discloses General Information to understand Website demographics and content preferences, and may do so without notice to, or permission from, you or any third party. In particular, LifeLock may provide General Information about LifeLock customers, sales, Website traffic patterns and related information to LifeLock affiliates or third parties;
+>
+>> B. **Personal Information**. LifeLock shall protect your Personal Information from disclosure to third parties using a reasonable degree of care, and does not otherwise use or disclose your Personal Information except as follows: 
+>>
+>>> **(i)** LifeLock may use your Personal Information and disclose your Personal Information: (a) to a consumer reporting agency representative; (b) in the course of placing a fraud alert; (c) to law enforcement; (d) to an insurance company; (e) to a representative of a payment verification service, financial institution or credit card company; (f) to a consumer reporting agency or other organizations in order to obtain informational credit reports about you or a minor child for whom you have registered for Services; or (g) to third party service providers, such as administrators of a customer rewards program;
+>>
+>>> **(ii)** LifeLock may disclose your Personal Information to third parties for the purpose of providing you information regarding products and services that LifeLock believes will be of interest to you;
+>>
+>>> **(iii)** LifeLock may disclose your Personal Information to LifeLock affiliates for the purpose of administering or performing Services;
+>>
+>>> **(iv)** If you registered another person at the Website, LifeLock may share your Personal Information with that person;
+>>
+>>> **(v)** LifeLock may use and disclose your Personal Information: (a) in order to help investigate possible misconduct or crime, such as fraud or identity theft; (b) in connection with the sale, purchase, merger or reorganization of LifeLock; or (c) when LifeLock believes it is necessary to protect the rights, property or safety of LifeLock or other persons;
+>>
+>>> **(vi)** LifeLock may use and disclose your Personal Information to notify you about changes to the Website or LifeLock business, or new LifeLock services and special offers you may find valuable; and
+>>
+>>> **(vii)** LifeLock may transfer your Personal Information to third parties for those parties to use to populate their own website registration forms when you hyperlink from the Website to their websites, in order to save you time in filling out their registration forms. Such third party websites may include websites that are owned by third parties or that are "co-branded" sites of LifeLock.
+>
+>> C. **Cookie Information**. LifeLock uses and discloses Cookie Information to improve the Website and better serve you and other customers, and may do so without notice to, or permission from, you or any third party.
 
-For visitors or members using our web site, we **may** also collect information about you through cookies on our web site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We link the information we store in cookies to personally identifiable information you submit while on our web site. We use both session ID cookies and persistent cookies. We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+> 3\. **SECURITY STANDARDS**. The security of your Personal Information is important to LifeLock. LifeLock encrypts certain Personal Information using secure socket layer ("SSL") or other technology. If you have any questions about security of your Personal Information or the security on the Website, you can send LifeLock an email at [member.services@lifelock.com](mailto:member.services@lifelock.com). You understand and agree that perfect security does not exist anywhere, and you will therefore protect your Personal Information in a reasonable way at all times. Accordingly, you will not recklessly disclose or publish your Social Security number or any other Personal Information to those that would reasonably be expected to improperly use or disclose that Personal Information such as by way of example in response to "phishing" scams, unsolicited emails or pop-up messages seeking disclosure of Personal Information.
 
-We also use a third party cookie from Google.com, which provides us with usage information regarding our site. That cookie is not linked to any personally identifiable information you submit on our site.
+> 4\. **OPT OUT FROM FURTHER MARKETING FROM LIFELOCK**. If you register at the Website, you may receive marketing messages and materials from LifeLock or LifeLock affiliates. If you do not wish to receive such messages or materials, you may notify LifeLock of your preference by following the instructions included in each communication, by emailing LifeLock at [member.services@lifelock.com](mailto:member.services@lifelock.com), contacting LifeLock at 1-800-LifeLock (543-3562), or by regular mail at: LifeLock Member Services, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281. Regardless of any such notice from you, LifeLock may still contact you about Services for which you have registered.
 
-If you reject cookies, you may still use our web site, but your ability to use some areas of our web site, such as the signup procedure or login, will be limited.
+> 5\. **CHILDREN'S PRIVACY**. The Website is not intended for the use by anyone under the age of eighteen (18), other than as to minor children receiving Services from LifeLock through registration by their parent or legal guardian. Otherwise, LifeLock does not knowingly solicit and does not wish to receive any Personal Information from children.
 
-## Aggregate Data
+> 6\. **ACCESS TO PERSONAL INFORMATION**. You have access to the Personal Information you have provided to LifeLock. If you would like to review that Personal Information, contact LifeLock at [member.services@lifelock.com](mailto:member.services@lifelock.com) or call 1-800-LifeLock (543-3562). If you need to make changes to, but not purge, your Personal Information, you may do so by logging into your [mylifelock](https://secure.lifelock.com/portal/login.aspx) account and clicking the "Manage Member Details" button, by calling LifeLock Member Services Group at 1-800-LifeLock (543-3562), or by mail sent to LifeLock Member Services, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281. If you have any questions or suggestions regarding the Privacy Policy, please contact LifeLock at: 1-800-LifeLock (543-3562), at [member.services@lifelock.com](mailto:member.services@lifelock.com), or by mail at: LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281.
 
-With respect to visitors and members using our web site, LifeLock also collects general Internet data, such as how often each of our web pages was visited and how much time was spent on each page. None of this information identifies you personally. We use it only to analyze traffic patterns on our web site in order to make our site more useful to our visitors and to evaluate the effectiveness of our marketing efforts. We use log files on our webserver as well as third-party and internally developed Customer Relationship Management (CRM) technology to capture and analyze this data.
+> 7\. **TRUSTe®**. LifeLock, Inc. is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact LifeLock at [member.services@lifelock.com](mailto:member.services@lifelock.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with LifeLock to resolve your concerns.
 
-## Links to Other Sites
+Copyright © 2009 LifeLock, Inc.  
+All Rights Reserved  
+Version 1.0 February, 2009
 
-The LifeLock web site contains links to other sites, including a third party referral program site. Our Privacy Policy only applies to information we collect from you while you are at and while you are actively in a session on our website. LifeLock does not share your non-public personal information with those web sites and is not responsible for their privacy practices, which may differ from ours in significant ways. We encourage you to learn about the privacy policies of those web sites and the companies that operate them. In addition, web sites to which we link may use cookie technology to gather and store data about their visitors.
+LifeLock, Inc.  
+60 E. Rio Salado Parkway, #400  
+Tempe, AZ 85281  
+1-800-LifeLock (543-3562)  
+480-682-5100
 
-Any information collected in our store is collected by our merchandise supplier on their servers. This information includes ordering information such as shipping and billing names and addresses, phone numbers, email addresses and credit card information. They use this information to fulfill customer orders and requests. They do not share this information with any third parties. To learn more about our merchandise supplier's privacy practices please read their privacy policy.
+with the most advanced Identity Theft Protection system available!
 
-## Why we collect non-public personal information
-
-As a member of LifeLock or as a user of our web site, we want you to know that we collect your non-public personal information for the following reasons:
-
-  * To enroll you as a member or complete a transaction
-  * To request placement of a fraud alert on your consumer report
-  * To perform or complete other LifeLock services for you, or to contact you about other LifeLock services from time to time
-
-
-
-## When and to whom we disclose non-public personal information
-
-We may disclose non-public personal information about you directly to third parties on your behalf in order to process or perform our services for you. For example, we may provide information to:
-
-  * a consumer reporting agency representative, in the course of placing a fraud alert
-  * a police officer, in the course of filing a police report
-  * an insurance claims officer, in the course of filing an insurance claim
-  * a representative of a financial institution or credit card company
-  * a consumer reporting agency or other organizations to order informational reports about you on your behalf
-  * service providers as described below
-
-
-
-## Service Providers
-
-We may also disclose non-public personal information about you to service providers to assist us in providing our services to you. For example, we may use a payment verification company to provide credit card validation for us, an identity verification service, or a third party administrator for any customer rewards program. When you enroll for our services, we will share your information with these services providers as necessary to provide our services to you. We prohibit these service providers by contract from using your personally identifiable information for any purpose other than to complete the delivery and performance of our services.
-
-## Other Members on Your Account
-
-If you have enrolled for our services with another person, we may share personally identifiable information with any other person enrolled with you on your LifeLock account.
-
-## Our Marketing Agents, Other Disclosures and Disclosures Required by Law
-
-We may provide information that we collect about you to entities who market our services so that they may confirm your enrollment or deliver to you additional products or services you are expecting upon enrollment, such as special discounts or rewards. In addition, we reserve the right to use or disclose personal information we collect about you (i) in order to investigate a possible crime, such as fraud or identity theft; (ii) in connection with the sale, purchase, merger, or reorganization of LifeLock; or (iii) when we believe it is necessary to protect the rights, property, or safety of LifeLock or other persons. Further, at times we may be required by law or legal process to disclose your personal information. We will comply with any such law or legal process.
-
-## How we protect your non-public personal information
-
-LifeLock uses strict physical, electronic, and managerial procedures to safeguard the confidentiality and security of the non-public personal information you provide to us.
-
-  * We do not disclose your non-public personal information except as described in this privacy statement.
-  * We limit access to your non-public personal information to those individuals who "need to know" in order to perform a business purpose related to our Service.
-  * We encrypt sensitive non-public personal information stored electronically.
-  * Any data we transmit over a private network will be sent via secure, encrypted channels.
-
-
-
-## Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security of your non-public personal information or the security on our web site, you can send us email at [member.services@lifelock.com](mailto:member.services@lifelock.com) Likewise, we urge you to take every precaution to protect your personal data, both on and off the Internet.
-
-## Opt Out from Further Marketing from LifeLock
-
-If you enroll for our products or services but do not wish to receive any additional marketing material from us, contact us at 1-800-LifeLock (543-3562).
-
-Even if you elect not to receive communications about our other products or services, we may still contact you about the services for which you have enrolled with us. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by contacting us at 1-800-LifeLock (543-3562).
-
-If you subscribe to our newsletter or consent to our promotional communications and then decide that you no longer wish to receive them, you may notify us of your preference regarding future communications by following the instructions included in each newsletter or communication by emailing us at [member.services@lifelock.com](mailto:member.services@lifelock.com), contacting us at 1-800-LifeLock (543-3562), or by regular mail at:
-
-LifeLock Member Services  
-60 East Rio Salado Parkway  
-Suite 400  
-Tempe, AZ 85281
-
-## Bulletin Boards and Chat Rooms
-
-From time to time we place testimonials on our web site from our members. We do this only after asking permission from the member providing the testimonial. It may be removed at any time at the request of the member. Should you choose to disclose personal information in a testimonial on our site, we are not responsible for the way third parties may use this information. Third parties may use your personal information for a variety of purposes, including unsolicited marketing and sales attempts.
-
-## Children's Privacy
-
-The LifeLock web site is not intended for the use of children, defined as individuals under the age of 18. We do not knowingly solicit personal information from children or send them requests for non-public personal information.
-
-## Access to your non-public personal information
-
-You always have access to the information we have about you. If you would like to review non-public personal information that LifeLock may have about you, contact us at [member.services@lifelock.com](mailto:member.services@lifelock.com) or call 1-800-LifeLock (543-3562). If you need to make changes to your non-public personal information, you may do so by logging into your [mylifelock](https://secure.lifelock.com/portal/login.aspx) account and clicking the manage member details button, by calling our Member Services Group at 1-800-LifeLock (543-3562), or by mail at:
-
-LifeLock Member Services  
-60 East Rio Salado Parkway  
-Suite 400  
-Tempe, AZ 85281
-
-**Our companywide commitment to privacy**
-
-We communicate our Privacy Policy to every LifeLock employee.
-
-## Changes in this Privacy Statement
-
-If we decide to make material changes to our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here and by means of a notice on our home page.
-
-## Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 1-800-LifeLock (543-3562), [member.services@lifelock.com](mailto:member.services@lifelock.com), [www.lifelock.com](https://web.archive.org/), or by mail at:
-
-LifeLock  
-60 East Rio Salado Parkway  
-Suite 400  
-Tempe, AZ 85281
-
-## TRUSTe
-
-**LifeLock, Inc** is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at [member.services@lifelock.com](mailto:member.services@lifelock.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-Revised September 25, 2008
+[](https://secure.lifelock.com/enrollmentform.aspx)
