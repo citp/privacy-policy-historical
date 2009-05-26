@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925183744id_/http%3A//www.geron.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526064824id_/http%3A//www.geron.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D380) for the most accurate reproduction.*
 
 # GSA - Privacy Policy Statement
 
-[](http://www.agingconference.com/)
+[](http://www.geron.org/Annual%20Meeting)
 
 | 
 
