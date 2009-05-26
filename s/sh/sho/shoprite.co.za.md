@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoprite.co.za privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913035842id_/http%3A//www.shoprite.co.za/pages/127416071/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.co.za privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526230648id_/http%3A//www.shoprite.co.za/pages/127416071/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 
 **1\. Introduction**
 
-Please read this Privacy Policy carefully as it contains important information about the use of any personal information which you provide to us. Your privacy is very important to us. We are therefore committed to protecting that privacy whenever personal information is requested from you.[](http://www.edgars.co.za/) Provided it is reasonably possible, we will try to use or disclose your personal information only in the manner stated in this Privacy Policy. We do, however, reserve the right to amend this Privacy Policy from time to time, in which case the amended Privacy Policy will supersede and replace any previous policies with effect from the date on which it is posted on this website. Wherever possible, we will give you notice of any changes prior to their implementation. Please visit this Privacy Policy regularly to familiarise yourself with the latest version and to understand what we can do with your personal information. This Privacy Policy forms part of the [Terms and Conditions](http://www.shoprite.co.za/pages/127416071/Terms-Conditions.asp) of use for this website . 
+Please read this Privacy Policy carefully as it contains important information about the use of any personal information which you provide to us. Your privacy is very important to us. We are therefore committed to protecting that privacy whenever personal information is requested from you.Provided it is reasonably possible, we will try to use or disclose your personal information only in the manner stated in this Privacy Policy. We do, however, reserve the right to amend this Privacy Policy from time to time, in which case the amended Privacy Policy will supersede and replace any previous policies with effect from the date on which it is posted on this website. Wherever possible, we will give you notice of any changes prior to their implementation. Please visit this Privacy Policy regularly to familiarise yourself with the latest version and to understand what we can do with your personal information. This Privacy Policy forms part of the [Terms and Conditions](http://www.shoprite.co.za/pages/127416071/Terms-Conditions.asp) of use for this website . 
 
 **2\. Personal Information**
 
