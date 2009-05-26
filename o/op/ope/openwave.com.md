@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213143948id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526224213id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
 
-# Openwave - Legal - Openwave Privacy Policy
+# Openwave Privacy Policy | Legal | Openwave
 
   |  This Privacy Policy statement describes our practices regarding how personal information we collect on the Openwave web site is used and shared with third parties. By visiting the Openwave web site or otherwise submitting your personal information to us, you accept the practices described in this statement. The information that we receive through our web site depends on what you do during your visit, and what service(s) you request. 
 
@@ -50,7 +50,7 @@ We may amend this privacy policy at any time by, in our discretion, either: (1) 
 
   
    
-If you have a question or comment about the Openwave site or a request to correct or delete your personal information, please send it to us by using our web site [Feedback form](https://web.archive.org/us/about_openwave/contact_us/web_feedback.htm). We will use commercially reasonable efforts to fulfill your request in a timely manner. However, even if Openwave deletes such personal information from its 'live' database(s), it may still be stored on other databases (including those kept for archival purposes). 
+If you have a question or comment about the Openwave site or a request to correct or delete your personal information, please send it to us by using our web site [Feedback form](https://web.archive.org/us/about_openwave/contact_us/). We will use commercially reasonable efforts to fulfill your request in a timely manner. However, even if Openwave deletes such personal information from its 'live' database(s), it may still be stored on other databases (including those kept for archival purposes). 
 
   
    
