@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913173855id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526212742id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
 
-# Data Protection and Privacy - Vision-Net - Irish And UK Company Information
+# Data Protection and Privacy - Vision-Net - Irish Company Information, Irish Business Info And UK Company Info
 
 Vision-net.ie is concerned about the protection of privacy and security. We will not disclose your personal information to any other party outside the CFI Group of companies.
 
@@ -12,7 +12,7 @@ Vision-net.ie and/or it's sister companies may wish to send you information abou
 
 ## Personal Data Right of Access
 
-Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to get a copy of the personal data, which we have relating to you. An access request should be in writing (e-mail or written letter accepted) addressed to CFI Online Ltd, 22 Northumberland Road, Ballsbridge, D4. Applications must be sent with proof of identity such as a passport copy or driving license. We will also require applications to include any personal data, which relates to our company, such as your Username or password. We will do our best to ensure that your request is dealt with within 28 days of receipt of application.
+Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to get a copy of the personal data, which we have relating to you. An access request should be in writing (e-mail or written letter accepted) addressed to VisionNet Limited, 22 Northumberland Road, Ballsbridge, D4. Applications must be sent with proof of identity such as a passport copy or driving license. We will also require applications to include any personal data, which relates to our company, such as your Username or password. We will do our best to ensure that your request is dealt with within 28 days of receipt of application.
 
 ## Company Data Right of Access
 
