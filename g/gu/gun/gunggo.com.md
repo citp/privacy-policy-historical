@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunggo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040156id_/http%3A//www.gunggo.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunggo.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526082040id_/http%3A//www.gunggo.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Advertising Network - Privacy Policy
 
@@ -12,7 +12,7 @@ All browsers offer "cookies" and if you permit their use, they will store small 
 
   * We will not use cookies to identify, monitor or track any personally identifiable information. 
   * Our cookies do not contain any personally identifiable information about you. 
-  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>[>](http://www.cookiecentral.com/faq/) . 
+  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/> . 
 
 
 
