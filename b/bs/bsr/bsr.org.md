@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218233631id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526085857id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # BSR | BSR Privacy Policy
 
