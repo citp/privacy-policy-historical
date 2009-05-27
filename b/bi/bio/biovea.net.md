@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160227id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527162038id_/http%3A//biovea.net/display.aspx%3FWID%3D47) for the most accurate reproduction.*
 
-# Welcome to BIOVEA
+# Welcome to Biovea
 
 Absolute Confidentiality
 
@@ -14,8 +14,8 @@ Remove yourself from our mailing list at any time
 
 During the checkout process, you can choose not to receive any email correspondence from us, such as discounts and promotions. 
 
-You can also remove yourself from our mailing list at any time by sending an email to [support@biovea.co.uk   
-](mailto:support@biovea.co.uk)  
+You can also remove yourself from our mailing list at any time by sending an email to [support@biovea.co.uk](mailto:support@biovea.co.uk)
+
 The email SUBJECT line should read: UNSUBSCRIBE
 
 The email BODY should contain: your membership email address, as well as your first and last name.
