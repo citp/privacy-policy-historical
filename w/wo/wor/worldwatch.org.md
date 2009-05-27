@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwatch.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030221id_/http%3A//www.worldwatch.org/node/998) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwatch.org privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527094245id_/http%3A//www.worldwatch.org/node/998) for the most accurate reproduction.*
 
 # Privacy Policy | Worldwatch Institute
 
