@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112200351id_/http%3A//www.coastal.com/site/security-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527085556id_/http%3A//www.coastal.com/site/security-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Security and Privacy Policy
 
@@ -97,4 +97,4 @@ With respect to Ad Servers: We do not partner with or have special relationships
 **  
 ****Contact Information**
 
-We enjoy hearing from you. If you have any comments on this or other issues concerning Coastal, [visit this page for contact information](http://www.coastal.com/contactus.html). 
+We enjoy hearing from you. If you have any comments on this or other issues concerning Coastal, [visit this page for contact information](http://www.coastal.com/site/contactus.html). 
