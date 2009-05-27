@@ -1,37 +1,29 @@
-> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216122514id_/http%3A//www.worlddatingpartners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worlddatingpartners.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527184447id_/http%3A//www.worlddatingpartners.com/privacy-policy) for the most accurate reproduction.*
 
-# PARTNER AND MEMBER PRIVACY AGREEMENT
-
-| 
-
-#### PARTNER AND MEMBER PRIVACY AGREEMENT
+# Privacy Policy - Partners and Members - Worlddatingpartners.com
 
 This privacy policy outlines our compliance with the UK Data Protection Act 1998. For more information on this please follow this link:  
 <http://www.opsi.gov.uk/ACTS/acts1998/19980029.htm>
 
-This privacy statement discloses the privacy practices for the **World Dating Partners** Web site. We agree to notify you of:
+This privacy statement discloses the privacy practices for the **World Dating Partners** website. We agree to notify you of:
 
-The organization collecting the information 
+1\. The organization collecting the information
 
-> 1\. The organization collecting the information
-> 
-> 2\. What information this site gathers/tracks about you
-> 
-> 3\. What this site does with the information it gathers/collects
-> 
-> 4\. With whom the information may be shared 
-> 
-> 5\. What choices are available to you regarding deleting and deactivating the information 
-> 
-> 6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information 
-> 
-> 7\. How you can correct any inaccuracies in the information 
-> 
-> 8\. Security surrounding the use of credit cards
-> 
-> 9\. Changes in our Privacy Policy 
-> 
-> 10\. Contacting the Web Site
+2\. What information this site gathers/tracks about you
+
+3\. What this site does with the information it gathers/collects
+
+4\. With whom the information may be shared 
+
+5\. What choices are available to you regarding deleting and deactivating the information 
+
+6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information 
+
+7\. How you can correct any inaccuracies in the information 
+
+8\. Changes in our Privacy Policy 
+
+9\. Contacting us
 
 **1\. The organization collecting the information...**
 
@@ -64,7 +56,7 @@ Email addresses, full name, personal and/or company address, phone numbers, tax 
 
 **World Dating Partners** :  
 Information submitted by the Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between **World Dating Partners** and the Partner. Partners may not view or access private information about members of our site or the Partner’s affiliated site. Partners may change their personal or business information within the partners administration area or by contacting us by email at [partners@world-dating-partners.com](mailto:partners@world-dating-partners.com)  
-We use your IP address, server, and browser related information to help diagnose problems with our server, and to administer our Web site.
+We use your IP address, server, and browser related information to help diagnose problems with our server, and to administer our website.
 
 **Database ownership**
 
@@ -89,6 +81,21 @@ Our site uses temporary cookies to keep Partner session information. We use cook
 **World Dating Partners** gives registered members the following options for accessing, correcting or modifying the information stored in **World Dating Partners** database. You may update this information at any time from within your account or - You can send email to [partners@world-dating-partners.com](mailto:partners@world-dating-partners.com)
 
 **8\. Changes in our Privacy Policy**  
-If our privacy policy changes in a way that will materially affect our partners, we will either notify by e-mail or post notice of any changes on the site.   
+If our privacy policy changes in a way that will materially affect our partners, we will either notify by email or post notice of any changes on the site. 
+
+**9\. Contacting us**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
+
+World Dating Partners Limited (Head Office)  
+The Exchange  
+Express Park  
+Bristol Road  
+Somerset  
+United Kingdom  
+TA7 8LH  
+Tel: +44(0)12 7858 8060  
+Fax: +44(0)12 7842 8049  
+[contacts@worlddatingpartners.com](mailto:contacts@worlddatingpartners.com)
+
   
-World Dating Partners™ - © 2008 Datech Limited. Company Number 4305177. Data Protection Act. Registration No. Z9532548
+
