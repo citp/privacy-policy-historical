@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223104928id_/http%3A//www.mid-day.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527202548id_/http%3A//www.mid-day.com/policy.htm) for the most accurate reproduction.*
 
-# Mid-Day :: Make Work Fun
+# Mid Day: News, Sports Entertainment, Lifestyle, What�s On, Classifieds, Blog, Video, Mumbai News, Delhi News, Bangalore News, Pune News
 
 Mid-Day is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Mid-Day Web site and governs data collection and usage. By using the Mid-Day website, you consent to the data practices described in this statement.
 
