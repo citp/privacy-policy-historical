@@ -1,19 +1,62 @@
-> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216110005id_/http%3A//www.linentablecloth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527122037id_/http%3A//www.linentablecloth.com/privacy_policy.html) for the most accurate reproduction.*
 
-# LinenTableCloth.com
+# LinenTablecloth - Privacy Policy
 
-**Overview**  
-At Royal Palm Restaurant & Event Supply, we respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the Royal Palm Restaurant & Event Supply site and how that information is used. 
+|  |  |  |  |   
+---|---|---  
+|  |  [Home](https://web.archive.org/) > [privacy policy](https://web.archive.org/web/20090527122037id_/http%3A//www.linentablecloth.com/privacy_policy.html)  
+---  
+LinenTablecloth - Privacy Policy  
+   
+  
 
-**Collection and Use of Information by Royal Palm Restaurant & Event Supply **  
-Royal Palm Restaurant & Event Supply explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by Royal Palm Restaurant & Event Supply may be used to tailor the Web site or any requested email communications, and to display information that is more relevant to you. Royal Palm Restaurant & Event Supply also compiles demographic and product use information, but in the aggregate only, and may make that aggregate information publicly available. **Under no circumstances will Royal Palm Restaurant & Event Supply make any personal information about an individual user available to anyone. **
 
-Your email address is used to only send you information that you have requested. As part of your use of any Royal Palm Restaurant & Event Supply product, Royal Palm Restaurant & Event Supply allows you to elect to receive, or not receive, certain information from Royal Palm Restaurant & Event Supply or its partners. Royal Palm Restaurant & Event Supply adheres strictly to permission-based email policy. Except as mentioned above, Royal Palm Restaurant & Event Supply will not send you unsolicited email information, commercial offers or advertisements **Royal Palm Restaurant & Event Supply will not sell, rent, or loan our contact lists or our customer's contact lists (including customer data) to any outside firms nor will Royal Palm Restaurant & Event Supply use customer contact lists for our own marketing purposes. **
+* * *  
+  
+|  | **Collection and Use of Information** |   
+---|---  
+  
+It is the policy of LinenTablecloth (our " **Site** ") to keep your personal information private and secure. When you make a purchase from our Site, you may be required to provide your name, email address, credit card information, address, phone number, and a password. We use this information only to process your orders, keep you updated on your order status and personalize your shopping experience.
 
-While IP addresses (address of a computer) are logged to track a user's session, the user's identity is anonymous. Tracking IP addresses gives Royal Palm Restaurant & Event Supply information about which parts of our site are used most often and what information is viewed. IP addresses are not linked to anything that can personally identify a visitor. Thus, session details are tracked, but the user is anonymous. 
+Our secure servers protect your information using advanced encryption techniques and firewall technology. Additionally, your payment information may be sent securely, through an encrypted connection, to a third party payment processor to authorize your transaction. In accordance with our privacy practices, no credit card payments will be accepted by phone or fax under any circumstances. You will be solely responsible for ensuring the security of the computer through which you place your order and LinenTablecloth will never have access to your full credit card number, so that your transactions with our Site are as secure as possible.
 
-**Information Use by Third Parties**  
-It is Royal Palm Restaurant & Event Supply policy to never provide your personal information to third parties without your express permission or only in instances where such disclosure is necessary to process transactions or provide services that you have requested. We do not release personal information about you as an individual. There is an exception to this policy - if Royal Palm Restaurant & Event Supply is compelled to do so by an appropriately empowered governmental authority. Royal Palm Restaurant & Event Supply only does business with partners who agree to respect our Privacy Policy. 
+Our site uses unobtrusive code to keep track of your current shopping session and personalize your experience so that you may access your account information and retrieve your shopping cart at any time. Our Site also tracks statistics and demographic information about sales and site activity using your IP address (an address identifying a computer), however, the information we collect does not compromise your anonymity. IP addresses are not associated with anything that can personally identify a visitor, thus allowing us to respond to trends in our store and improve the shopping experience while respecting our users' privacy.  
+  
+^ Top  
+  
+* * *  
+  
+   
+| **Email Address Usage** |   
+---|---  
+  
+If you elect to join the mailing list through our Site, we will occasionally use the email address you provide to keep you informed about our latest offers, current promotions, specials and new additions to the LinenTablecloth site. You may unsubscribe from our newsletters by following the unsubscribe instructions in our emails or on the Mailing List portion of our Site.
 
-**The Bottom Line**  
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at info@royalpalmeventsupply.com. 
+LinenTablecloth adheres strictly to a permission-based email policy. Except as mentioned above, LinenTablecloth will not send you unsolicited email information, commercial offers or advertisements. **LinenTablecloth will not sell, rent, or loan our contact lists or our customers' contact lists (including customer data) to any outside firms or third parties nor will LinenTablecloth use customer contact lists for our own marketing purposes.**  
+  
+^ Top  
+  
+* * *  
+  
+   
+| **Third Party Sites** |   
+---|---  
+  
+In an attempt to provide increased value to our visitors, LinenTablecloth may link to sites operated by third parties. However, even if the third party is affiliated with our Site, LinenTablecloth has no control over linked sites, all of which have separate privacy and data collection practices, independent of LinenTablecloth. Any third party linked sites are available only for your convenience and, as our Site is not responsible for the practices of any third party sites, you access them at your own risk. However, LinenTablecloth desires to protect the integrity of our Site and the links herein and welcomes feedback our own site and third party sites linked from LinenTablecloth.  
+  
+^ Top  
+  
+* * *  
+  
+   
+| **Disclosure of Information** |   
+---|---  
+  
+LinenTablecloth reserves the right at all times to monitor your use of this site. However, LinenTablecloth will never provide your personal information to third parties without your express permission except in instances where such disclosure is necessary to process transactions or provide services that you have requested, or when LinenTablecloth is compelled to do so to satisfy any applicable law, regulation, legal process or governmental request or to protect its rights or a third party's safety. LinenTablecloth only does business with partners who comply with our Privacy Policy.  
+  
+^ Top  
+  
+* * *  
+  
+   
+|  | 
