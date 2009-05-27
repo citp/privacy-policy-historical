@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022153618id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deardoctor.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527072545id_/http%3A//www.deardoctor.com/legal.php%23privacy) for the most accurate reproduction.*
 
-# Dear Doctor - Legal Information
+# Terms of Use | Dear Doctor - Dentistry & Oral Health
 
 [](http://www.deardoctor.com/)   
 Welcome to deardoctor.com, the Web site of _Dear Doctor - Dentistry & Oral Health_ magazine, which is published by Dear Doctor, Inc. Dear Doctor does not control, and is not responsible for, any third-party site to which the Web site links. 
