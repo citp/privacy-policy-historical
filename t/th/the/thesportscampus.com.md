@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229042406id_/http%3A//www.thesportscampus.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527033939id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,10 @@ We will share your information with our third party service providers only if th
 **Links**
 
 Our Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of these sites. We encourage our users to be aware when they leave our Site and to read the privacy statements applicable on those sites. This privacy policy does not apply to information collected on third parties' Sites.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies **,** please write to us.
 
 **Your right to access the information**
 
