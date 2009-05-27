@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2008-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080929081832id_/http%3A//www.amritatv.com/html/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527092945id_/http%3A//www.amritatv.com/html/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Amrita TV
 
