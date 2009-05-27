@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910221921id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527021000id_/http%3A//dailycomedy.com/privacy) for the most accurate reproduction.*
 
 # DailyComedy.com | Privacy Policy
 
-Live Show News: PunchlineMagazine.com's 3rd Anniversary Show with Greg Giraldo, Robert Kelly, Laurie Kilmartin, Ray Ellin, Christian Finnegan and more! October 7, 2008 at 8 PM ET Comix, NY [ Get tickets now! ](http://www.dailycomedy.com/oa/adclick.php?bannerid=53&zoneid=0&source=&dest=http%3A%2F%2Fwww.comixny.com%2Fevent.aspx%3Feid%3D463%26sid%3D1459&ismap=) or Call (212) 524-2500. 
+Did you know?  **We now allow guest commenting and rating on all our jokes and comedy videos! No need to register, just comment and rate. Go ahead... knock yourself out! Underneath each joke and video you can click on _comments_ to read and post, and click on a star () to rate.**
 
 ## Daily Comedy Privacy Policy
 
