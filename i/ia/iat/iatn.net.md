@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912065718id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527233455id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -58,6 +58,7 @@ There may be situations where iATN collects data through a survey, web form, or 
   * We use cookies to store certain preferences you have selected for viewing our site, your username, and your encrypted password. As we develop the site further, we may increase the number of cookies in use. We will NEVER store critical information in cookies, such as credit card numbers, due to security concerns.
   * There are many programs available to you that can block all cookies sent to your browser. Blocking iATN cookies may result in making iATN harder to enjoy (or eliminate certain features completely). We recommend that you leave cookies turned on. However...
   * You may tell your browser to ignore "3rd-party cookies" or cookies that are not sent "by the originating server," with no ill effect on iATN. Those types of cookies are normally used by advertising sites to track your movements. We do NOT use those types of cookies.
+  * We use Google AdSense to display text ads on some iATN pages aimed at the general public. Google's use of cookies enables it to serve ads to our users based on their visit to other sites on the Internet. Users may opt out of the use of Google's "ad cookie" by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
@@ -133,7 +134,7 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
   * [Terms of Use](http://www.iatn.net/disclaim.html)
   * [The Email iATN Sends](http://www.iatn.net/nospam.html)  
 
-  * [Member Agreement (Made When Registering)](http://www.iatn.net/join/)
+  * [Member Agreement (Made When Joining iATN)](http://www.iatn.net/join/)
   * [iATN Guidelines](http://www.iatn.net/guide.html)
   * [iATN Membership Overview](http://www.iatn.net/standard-membership/)
 
@@ -150,6 +151,7 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 
 ### **Privacy Policy - History**
 
+  * **Revision 1.0.6 (March 13, 2009)** Clarified "Registering" means "Joining iATN." Explained Google AdSense cookie and how to turn it off at [Google's site](http://www.google.com/privacy_ads.html) if desired.
   * **Revision 1.0.5 (May 21, 2007)** Clarified "Agents of iATN" section.
   * **Revision 1.0.4 (July 22, 2006)** Updated our mailing address.
   * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email []() if you need our FAX number.)
