@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nutraingredients.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913042148id_/http%3A//www.nutraingredients.com/Publications/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraingredients.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527234754id_/http%3A//www.nutraingredients.com/Publications/Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
-
-### Decision news media
 
 ## Privacy statement
 
@@ -86,7 +82,7 @@ You may view and update information that you previously submitted to the Sites b
 
 This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information. 
 
-An opt out request will not be specific to a particular service or product. For example, if you opt out of receiving third party offers from the Sites, you will be removed from the marketing database of all other Decision News Media sites that you are registered with. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you experience any problems or continue to receive marketing material please contact us immediately [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com). 
+An opt out request will not be specific to a particular service or product. For example, if you opt out of receiving third party offers from the Sites, you will be removed from the marketing database of all other Decision News Media sites that you are registered with. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you experience any problems or continue to receive marketing material please contact us immediately [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) . 
 
 Any opt out request will only be effective after a reasonable period of time for processing. 
 
@@ -96,7 +92,7 @@ The Sites contain content, services, advertising and other materials that link t
 
 ## Contact
 
-If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com). 
+If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) . 
 
 **The Sites are operated by:**
 
