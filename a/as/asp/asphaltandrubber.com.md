@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asphaltandrubber.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202150842id_/http%3A//www.asphaltandrubber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asphaltandrubber.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527070615id_/http%3A//www.asphaltandrubber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Asphalt & Rubber
-
-### Privacy Policy
 
 Asphalt & Rubber is founded on the principles of bringing motorcyclists together, and to provide them with a source for motorcycle related news and events. Asphalt & Rubber knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the Asphalt & Rubber website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -70,6 +68,3 @@ If you decide to visit Asphalt & Rubber website, your visit and any possible d
 
 **Effective Date of this Privacy Policy**  
 This Privacy Policy is effective as of November 11, 2008.
-
-  
-
