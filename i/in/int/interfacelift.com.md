@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030355id_/http%3A//www.interfacelift.com/site_beta/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527202351id_/http%3A//interfacelift.com/site_beta/privacy_policy.php) for the most accurate reproduction.*
 
 # InterfaceLIFT // Privacy Policy
 
