@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the advanc-ed.org privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528025100id_/http%3A//www.advanc-ed.org/about_us/privacy_policy/) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Privacy Policy
+
+Advance Education, Inc., "AdvancED" is committed to operating its Internet services in a manner that is committed to, recognizes and respects the privacy and security of its online users. We appreciate that your use of our site and the sharing of your personal information requires your trust in our ability to deliver a quality Internet experience in a safe and secure manner. 
+
+What Information Does AdvancED Collect and How Is It Used? 
+
+We collect information and data from our users to assist in personalizing the use of our site and continuously improving the user experience at www.advanc-ed.org. We collect information and data from various sources such as: a) our Internet server logs; b) our use of cookies and other automatic information; c) information provided to AdvancED by our Web site's users; and d) e-mail information. 
+
+When you visit our Web site, we may gather information intended to assist us in improving the operation of the site and evaluating its usage. Information collected from our logs might include your IP address, the type of browser or computer you use, links clicked on during your visit, state or country of user, date and time of visit, name of your Internet service provider, web page your visit originated from, and information viewed during your visit. Other information collected may include the total number of visits to our Web site and the number and frequency of visitors to each area of our Web site. 
+
+The information collected may be used individually or in aggregate form and for a variety of purposes including but not limited to, system maintenance, tracking customer tendencies, preferences or usage patterns to assist in the improvement of the Internet experience, as well as, products and services provided by AdvancED. The non-personal statistical or demographic information collected may be aggregated and shared with third parties for marketing or research purposes. 
+
+Our Web site may use cookies to track information and provide a better Web site experience to our users. Cookies enable us to monitor your preferences, login and other information, thereby allowing AdvancED to improve the individualized experience of the user. You can reject cookies by changing the settings in your browser. However, disabling cookies on your browser may reduce the function of some of our Web site's features. 
+
+You may be required to register to purchase products or services, receive personalized web content, and participate in surveys or opinion polls. If you purchase a product or service at our site, we may ask for your credit card number or other account number you wish to have charged for the products or services. AdvancED does not give out your credit card or other account information to third parties unless you authorize us to do so or if it is necessary to fulfill our responsibilities, including, but not limited to, delivering a product or service you order. Any financial information we receive is handled in a secure manner and used only to arrange for payment of the products and services you purchased. If you use a credit card for your purchase, we may forward any and all required information to your credit card provider to process your purchase. AdvancED does not store or maintain credit card numbers on its database. 
+
+We strive to protect your credit card information during transmission by using Secure Sockets Layer (SSL) software and/or contracting with service providers who use SSL or comparable software, which encrypts sensitive information. When transmitting your credit card information, we comply with Fair and Accurate Credit Transaction Act (FACTA) requirements. 
+
+We use various technological and procedural tools to keep your information safe and secure. All AdvancED employees and contractors agree to be bound and abide by our Privacy Policy. We restrict access to your information to authorized personnel only. Said personnel are limited in their access and use to what is necessary for the performance of their duties and maintenance of our Web site. Any employees found to be in violation of our Privacy Policy are subject to disciplinary action, including termination, as determined by AdvancED's Officers or Board of Trustees. 
+
+DISCLAIMERS
+
+OUR WEB SITE AND ALL CONTENT FOUND WITHIN ARE PROVIDED TO THE USER "AS IS" AND EXCLUDES AND RELEASES TO THE FULL EXTENT PERMISSIBLE UNDER THE APPLICABLE LAW ANY AND ALL WARRANTY, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY OR FITNESS FOR A PARTICULAR PURPOSE. THE USER OR PURCHASER ASSUMES THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION DUE TO USER'S VISIT TO OUR WEB SITE. 
+
+Except as specifically affirmed by law or AdvancED policy, neither AdvancED nor its trustees, employees, officers, vendors, consultants, affiliates or other representatives or agents shall be liable for damages of any kind, including but not limited to, lost profit, direct and indirect damages, compensatory, consequential, exemplary, special, incidental and/or punitive damages arising out of your use or inability to use our Web site. This waiver shall apply to the fullest extent of the law. Your use of the Web site indicates your agreement to be bound by this policy and all of its provisions. 
+
+AdvancED's Web site may contain links to other Web sites. It is our hope that any sites that are accessible through our site maintain the same high expectation of user privacy. However, AdvancED does not control or operate these other Web sites and is not responsible for the content or policies of said sites. We encourage you to review the Privacy Policy and Terms and Conditions of Use for any site that you visit. 
+
+Contacting Us
+
+To provide you with the best Web site experience possible, we attempt to maintain the most accurate and current information about you in our records. If you feel that the information we currently have about you needs updating, please contact us by e-mail at [privacy@advanc-ed.org](mailto:privacy@advanc-ed.org) with any corrections or updates. 
+
+The AdvancED Web site is intended for adults. AdvancED does not knowingly collect personally identifiable information from children under the age of 18. If AdvancED discovers that it has on its Web site personally identifiable information concerning a minor child, AdvancED will take any and all reasonable steps to immediately delete said information from our files. Please contact us at the above e-mail address if you have reason to believe that personally identifiable information concerning a minor has been submitted to our site. 
+
+By visiting our Web site, you agree that any and all disputes over your privacy shall be subject to this Policy and our Terms and Conditions of Use, including but not limited to, any and all limitations on damages, resolution of disputes, and application of the law of the state of Georgia. If you have any questions concerning this Policy or the content or operation of the Web site, please contact us with a brief description of your question or concern. The operation of our Web site is constantly changing and our policies are constantly changing to keep pace. Any and all changes to our policies shall be posted on our Web site. We strongly encourage you to visit the policies on a regular basis to keep yourself informed about our policies and procedures. In no event shall we change the policies and procedures to make them less protective of your information without the consent of any affected users. 
