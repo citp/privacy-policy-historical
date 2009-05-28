@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
 
 # Ashdown Park Hotel Privacy Page
 
@@ -41,60 +41,33 @@ Please use our Contact Us page if you have any questions or would like to contac
 
 ## Check Availability
 
+[](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
+
 ### Special Offers
 
-FREE, FREE, FREE
+**_5th & 6th / 12th & 13th June _**
 
-MIDWEEK 
+**2 BED & FULL IRISH BREAKFAST, 1 GOURMET DINNER, **
 
-2 Nights bed & Breakfast & 1 Gourmet Dinner,   
-go Ice Skating free or free extra night. 2 Kids free, €139 per person 
+**FROM €129 PER PERSON**
 
-WEEKEND 
+**_SUNDAY - WEDNESDAY_**  
 
-2 Nights Bed & Breakfast & 1 Gourmet Dinner, Complimentary Wine or Ice Skating 
+**1 BED, BREAKFAST & GOURMET DINNER €69 PER PERSON **
 
-€169 per person 
+**_FANTASTIC FRIDAY OFFERS_**
 
-FANTASTIC FRIDAYS 
+**1 NIGHT BED & FULL IRISH BREAKFAST**
 
-Dinner Bed & Breakfast only €89 per person 
+**1 GOURMET DINNER FROM ONLY €79 PER PERSON**
 
-GOLDEN YEARS 
+**LIMITED AVAILABILITY- SELECTED DATES**
 
-3 nights Bed & Full Irish Breakfast including 2 Gourmet Dinners from €139 per person 
-
-  
-All our Guests have complimentary use of our Sauna, Steam-room, Swimming Pool, Full Gym and Jacuzzi, Playroom. 
-
-For just €25 per person why not ask for an upgrade to our excellent superior suites. 
-
-0539480500 or [info@ashdownparkhotel.com](mailto:info@ashdownparkhotel.com)
-
-ALL SUBJECT TO AVAILABILITY 
-
-[Click here for all Special Offers](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)
+[Click here for all Special Offers](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/irish_hotel_offers/index.htm)
 
 ### Upcoming Events
 
-**_LIVE MUSIC COMING SOON_**
-
-Sunday 30th November Country Music
-
-Dominic Kirwan
-
-Sunday 7th December Musical
-
-High School Musical
-
-**Live  Country Music every Wednesday & Sunday nights.**
-
-**Live music in our Ivy Bar every Friday, Saturday night.**
-
-**Live Jazz every Sunday & traditional Irish music Wednesday night.**
-
-**Traditional Irish session every Wednesday. Everybody free entry**
-
-[Click here for all Upcoming Events](https://web.archive.org/web/20081202124238id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
+  
+[Click here for all Upcoming Events](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
 
 Enter your name and email address to receive our Newsletter 
