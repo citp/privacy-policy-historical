@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162202id_/http%3A//www.usa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528100453id_/http%3A//usa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # USA.com - Privacy Policy
 
