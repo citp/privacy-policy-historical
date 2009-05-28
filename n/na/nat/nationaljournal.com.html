@@ -1,714 +1,361 @@
-<!--The following is the downloaded HTML source of the nationaljournal.com privacy policy that was archived on 2003-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030417111830id_/http%3A//nationaljournal.com/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationaljournal.com privacy policy that was archived on 2009-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090528094411id_/http%3A//www.nationaljournal.com/siteservices/privacy.php) for the most accurate reproduction.-->
 
-<html><head><title>NationalJournal.com Help - Privacy Policy</title>
-
-<!-- ************************************** -->
-<!-- *** HTML INCLUDES - DO NOT CHANGE  *** -->
-<!-- ************************************** -->
-<!-- Ad and page code included below -->
-<!-- THE INCLUDE TOP1.HTM PULLS IN HEADER DATA, -->
-<!-- AS WELL AS TOP OF PAGE CODE UP THRU THE -->
-<!-- FIRST BANNER AD -->
-
-<script language="javascript">
-<!--
-
-browserName = navigator.appName;
-browserVersion = parseInt(navigator.appVersion);
-
-goodVersion = ((browserName == "Netscape") && (browserVersion >= 4)) || ((browserName == "Microsoft Internet Explorer") && (browserVersion >= 4)) ? true : false;
-
-if (document.getElementById) {
-	browserName = "Compliant";
-}
-
-// CHANGEME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-browserReady = true;
-navOnOff = false;
-thisTask = 0;
-
-if (goodVersion) {
-
-//
-// *************************************
-// *                                   *
-// *  start variable declaration area  *
-// *                                   *
-// *************************************
-//
-
-// the "secondsDelay" variable defines how long to wait, in
-// seconds, before a menu is to disappear after the mouse has
-// left it's region.
-
-secondsDelayIn = .25;
-secondsDelayOut = .75;
-
-// the path to navigation images and the start of the
-// image name
-
-navImagePath = "/img/popups/f2_";
-
-// the domain of the server
-
-cookieDomain = "NationalJournal.com";
-
-// declaring the menus
-
-menuInfo["adspot"] = new menuInfo("adspot",0);
-menuInfo["almanac"] = new menuInfo("almanac",1);
-menuInfo["buzz"] = new menuInfo("buzz",2);
-menuInfo["campaigns"] = new menuInfo("campaigns",3);
-menuInfo["daybook"] = new menuInfo("daybook",4);
-menuInfo["early"] = new menuInfo("early",5);
-menuInfo["markups"] = new menuInfo("markups",6);
-menuInfo["news"] = new menuInfo("news",7);
-menuInfo["poll"] = new menuInfo("poll",8);
-menuInfo["reviews"] = new menuInfo("reviews",9);
-
-//
-// ***********************************
-// *                                 *
-// *  end variable declaration area  *
-// *                                 *
-// ***********************************
-//
-
-}
-
-function starterFunc() {
-	if (goodVersion) {	
-		// get cookie
-		cookieThing = document.cookie;
-
-		cookiePos = (cookieThing.indexOf("BitWrenchMadeNavCookie="))+23;
-		if (cookiePos == 22) {
-			navOnOff = true;
-		} else {
-			cookieValue = cookieThing.charAt(cookiePos);
-			if (cookieValue == 1){
-				navOnOff = true;
-			} else {
-				navOnOff = false;
-			}
-		}
-	
-		// reset cookie
-		if (navOnOff) {
-			cookieValue = 1;
-		} else {
-			cookieValue = 0;
-		}
-	
-		cookieDate = new Date();
-		cookieModDate = cookieDate.getTime() + (90*7*24*60*60*1000);
-		cookieDate.setTime(cookieModDate);
-	
-		document.cookie = "BitWrenchMadeNavCookie="+cookieValue+"; expires="+(cookieDate.toGMTString())+"; path=/;";
-
-		if (!navOnOff) {
-			document.images["navOnOffImage"].src="/img/popups/nav_off.gif";
-		}
-	}
-}
-
-function swapNav() {
-	if (goodVersion){
-		navOnOff = !navOnOff;
-		if (!navOnOff) {
-			document.images["navOnOffImage"].src="/img/popups/nav_off.gif";
-		} else {
-			document.images["navOnOffImage"].src="/img/popups/nav_on.gif";
-		}
-	
-		// reset cookie
-		if (navOnOff) {
-			cookieValue = 1;
-		} else {
-			cookieValue = 0;
-		}
-	
-		cookieDate = new Date();
-		cookieModDate = cookieDate.getTime() + (90*7*24*60*60*1000);
-		cookieDate.setTime(cookieModDate);
-	
-		document.cookie = "BitWrenchMadeNavCookie="+cookieValue+"; expires="+(cookieDate.toGMTString())+"; path=/;";
-
-	}
-}
-
-//
-// create array of menus
-//
-
-function menuInfo (ComplexUnusedName,ComplexUnusedNumber) {
-
-	this.name = ComplexUnusedName;
-	this.mainName = "main"+ComplexUnusedName;
-	this.mainState = false;
-	this.subName = "sub"+ComplexUnusedName;
-	this.subState = false;
-	this.number = ComplexUnusedNumber;
-	this.menuOn = false;
-
-	this.off = new Image();
-    this.off.src = navImagePath + ComplexUnusedName + "0.gif";
-
-	this.on = new Image();
-    this.on.src = navImagePath + ComplexUnusedName + "1.gif";
-
-	this.pop = new Image();
-    this.pop.src = navImagePath + ComplexUnusedName + "2.gif";
-}
-
-//
-// mouseover an image
-//
-
-function mainOver(name) {
-
-	if (goodVersion) {
-	
-		menuInfo[name].mainState = !menuInfo[name].mainState;
-	
-		if (browserReady) {
-			if (!menuInfo[name].menuOn) {
-				document.images[name+"_navimage"].src = menuInfo[name].on.src;
-			} else {
-				document.images[name+"_navimage"].src = menuInfo[name].pop.src;
-			}
-		}
-
-		// erase other popups that may be active
-	
-		if (navOnOff) {
-			for (pulledname in menuInfo) {
-				if ((pulledname != name) && (pulledname != "ComplexUnusedName") && (pulledname != "ComplexUnusedNumber")) {
-					if (browserName == "Netscape") {
-						document.layers["sub"+pulledname].visibility = "hidden";
-					} else {
-						if (browserName == "Compliant") {
-							document.getElementById("sub"+pulledname).style.visibility = "hidden";
-							document.getElementById("sub"+pulledname).style.top = -500;
-						} else {
-							document.all["sub"+pulledname].style.visibility = "hidden";
-						}
-					}
-					if (browserReady) {
-						document.images[pulledname+"_navimage"].src = menuInfo[pulledname].off.src;
-					}
-					menuInfo[pulledname].menuOn = false;
-				}
-			}
-
-			thisTask += 1;
-			if (thisTask > 10000) {
-				thisTask = 0;
-			}
-			a = setTimeout("realCreator('"+name+"',"+thisTask+")",1000*secondsDelayIn);
-		}
-	}
-}
-
-function realCreator(name,thrownTask) {
-
-	if ((menuInfo[name].mainState) && (thrownTask == thisTask))	{
-
-		if (browserReady) {
-			document.images[name+"_navimage"].src = menuInfo[name].pop.src;
-		}
-
-		if (browserName == "Netscape") {
-			document.layers["sub"+name].top = 163 + (menuInfo[name].number * 22);
-			document.layers["sub"+name].visibility = "visible";
-		} else {
-			if (browserName == "Compliant") {
-				document.getElementById("sub"+name).style.top = 163 + (menuInfo[name].number * 22);
-				document.getElementById("sub"+name).style.visibility = "visible";
-			} else {
-				document.all["sub"+name].style.top = 163 + (menuInfo[name].number * 22);
-				document.all["sub"+name].style.visibility = "visible";
-			}
-		}
-
-		menuInfo[name].menuOn = true;
-	}
-}
-
-function mainOut(name) {
-
-	if (goodVersion) {
-
-		menuInfo[name].mainState = !menuInfo[name].mainState;
-
-		if (menuInfo[name].menuOn) {
-	
-			thisTask += 1;
-			if (thisTask > 10000) {
-				thisTask = 0;
-			}
-			a = setTimeout("realKiller('"+name+"',"+thisTask+")",1000*secondsDelayOut);
-	
-		} else {
-			if (browserReady) {
-				document.images[name+"_navimage"].src = menuInfo[name].off.src;
-			}
-		}
-	}
-}
-
-function subOver(name) {
-	menuInfo[name].subState = !menuInfo[name].subState;
-	if (browserName == "Netscape") {
-		document.layers["sub"+name].top = 163 + (menuInfo[name].number * 22);
-		document.layers["sub"+name].visibility = "visible";
-	} else {
-		if (browserName == "Compliant") {
-			document.getElementById("sub"+name).style.top = 163 + (menuInfo[name].number * 22);
-			document.getElementById("sub"+name).style.visibility = "visible";
-		} else {
-			document.all["sub"+name].style.top = 163 + (menuInfo[name].number * 22);
-			document.all["sub"+name].style.visibility = "visible";
-		}
-	}
-	menuInfo[name].menuOn = true;
-}
-
-function subOut(name) {
-	menuInfo[name].subState = !menuInfo[name].subState;
-
-	thisTask += 1;
-	if (thisTask > 10000) {
-		thisTask = 0;
-	}
-	a = setTimeout("realKiller('"+name+"',"+thisTask+")",1000*secondsDelayOut);
-
-}
-
-function realKiller(name,thrownTask) {
-	if ((!menuInfo[name].mainState) && (!menuInfo[name].subState) && (thrownTask == thisTask)) {
-		if (browserName == "Netscape") {
-			document.layers["sub"+name].visibility = "hidden";
-		} else {
-			if (browserName == "Compliant") {
-				document.getElementById("sub"+name).style.visibility = "hidden";
-				document.getElementById("sub"+name).style.top = -500;
-			} else {
-				document.all["sub"+name].style.visibility = "hidden";
-			}
-		}
-		if (browserReady) {
-			document.images[name+"_navimage"].src = menuInfo[name].off.src;
-		}
-		menuInfo[name].menuOn = false;
-	}
-}
-
-//-->
-</script>
-
-<!-- the following script preloads the rollover images for the right-hand and top navigations -->
-        
-<script language="javascript">
-
-<!--
-
-if (document.images){
-        roll09 = new Image();
-        roll09.src = "/img/nav/p_nj_pollt_on.gif";
-        roll10 = new Image();
-        roll10.src = "/img/nav/p_hotline_on.gif";
-        roll11 = new Image();
-        roll11.src = "/img/nav/p_congress_on.gif";
-        roll12 = new Image();
-        roll12.src = "/img/nav/p_tech_on.gif";
-        roll13 = new Image();
-        roll13.src = "/img/nav/p_american_on.gif";
-        roll14 = new Image();
-        roll14.src = "/img/nav/p_about_on.gif";
-} else {
-        cripple=1
-}
-
-function rollover(img,file){
-        if (document.images){
-                filename = "/img/nav/" + file;
-                document.images[img].src = filename;    
-   
-        }
-}
-
-//-->
-
-</script>
-<!-- end of script -->
-
-<!-- Begin Random Number Script -->
-<script language="javascript">
-function setCookie (name, value, expires, path, domain, secure) {
-      document.cookie = name + "=" + escape(value) +
-        ((expires) ? "; expires=" + expires : "") +
-        ((path) ? "; path=" + path : "") +
-        ((domain) ? "; domain=" + domain : "") +
-        ((secure) ? "; secure" : "");
-}
-
-function getCookie(name) {
-	var cookie = " " + document.cookie;
-	var search = " " + name + "=";
-	var setStr = null;
-	var offset = 0;
-	var end = 0;
-	if (cookie.length > 0) {
-		offset = cookie.indexOf(search);
-		if (offset != -1) {
-			offset += search.length;
-			end = cookie.indexOf(";", offset)
-			if (end == -1) {
-				end = cookie.length;
-			}
-			setStr = unescape(cookie.substring(offset, end));
-		}
-	}
-	return(setStr);
-}
-
-function getRandom() {
-	var raw = Math.random();
-	var ranged = Math.floor(raw * 899999999) + 100000000;
-	return ranged;
-}
-
-function getlongRandom() {
-	var raw = Math.random();
-	var ranged = Math.floor(raw * 899999999999999) + 100000000000000;
-	return ranged;
-}
-
-mylongrandom = getlongRandom();
-</script>
-<!-- end random number script -->
-       
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>National Journal - National Journal Group's Privacy Policy</title>
+  <script type="text/javascript" src="/js/nj.js"></script>
+  <script type="text/javascript" src="/js/swfobject.js"></script>
+  <script language="javascript1.1" src="/js/v40/eluminate.js"></script>
+  <script language="javascript1.1" src="/js/v40/techprops.js"></script>
+  <script language="javascript1.1" src="/js/cmdatatagutils.js"></script>
+  <link href="/css/nj_global.css" rel="stylesheet" type="text/css">
+  <link href="/css/njonline.css" rel="stylesheet" type="text/css">
+  <link href="/css/nj_home.css" rel="stylesheet" type="text/css">
+  <!--[if IE]>
+    <link href="/css/nj_ie.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <link href="/css/media.css" rel="stylesheet" type="text/css">
+  <!--[if IE 6]>
+    <link href="/css/ie6.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if IE 7]>
+    <link href="/css/ie7.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link href="/css/ie8.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
 </head>
-
-
-<body onload="starterFunc();" background="/img/pub_bg.gif" text="#000000" link="#6666CC" alink="#333366" vlink="#6666CC" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
-
-
-<table width="768" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img src="/img/pixel.gif" width="13" height="4"></td>
-<td><img src="/img/pixel.gif" width="110" height="4"></td>
-<td><img src="/img/pixel.gif" width="15" height="4"></td>
-<td><img src="/img/pixel.gif" width="110" height="4"></td>
-<td><img src="/img/pixel.gif" width="15" height="4"></td>
-<td><img src="/img/pixel.gif" width="380" height="4"></td>
-<td rowspan="3"><img src="/img/pixel.gif" height="1" width="5"></td>
-<td rowspan="5" valign="top">
-<img src="/img/pixel.gif" width="120" height="105"><br>
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#CCCC99">&nbsp;&nbsp;<b>April 17, 2003</b></font><br>
-
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<!-- THIS IS THE PROMO BUG THAT GOES IN THE UPPER -->
-<!-- LEFT CORNER OF ALL COMMON FEATURE PAGES -->
-
-<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=AMY&amp;cds_page_id=11655&amp;cds_response_key=IAKE0302E"><img src="/img/promo/atlantic_trial_button.gif" width="80" height="60" border="0" alt="Get A Free Issue Of The Atlantic Monthly"></a>
-
-
-
-
-</td>
-<td colspan="3" align="left">
-
-<script language="JavaScript"> 
-myVar = getCookie("number");
-var expdate = new Date ();
-expdate.setTime (expdate.getTime() + (365 * 24 * 60 * 60 * 1000));
-if (! myVar) {
-         myRandom = getRandom();
-         setCookie("number", myRandom, expdate.toGMTString(), "/");
-}
-
-document.write("<NOLAYER>"); 
-document.write("<IFRAME src=\"http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," name=\"frame468601\" width=468 height=60 border=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" > ");
-document.write("<a href=\"http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," > ");
-document.write("<img src=\"http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," height=60 width=468 border=0 ></a> ");
-document.write("</IFRAME> ");
-document.write("</NOLAYER> ");
-document.write("<ILAYER id=\"layer468601\" visibility=hide height=60></ILAYER> ");
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=411165983;ord=703017616012712 name=" frame468601"="" width="468" height="60" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> <a href="http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=411165983;ord=703017616012712 > <img src="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=411165983;ord=703017616012712 height=60 width=468 border=0 ></a> </iframe> </nolayer> <ilayer id="layer468601" visibility="hide" height="60"></ilayer> 
-
-
-
-<noscript>
-<A HREF="http://ad.doubleclick.net/www.nationaljournal.com/common;sz=468x60;tile=1;ord=1?">
-<IMG SRC="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;sz=468x60;tile=1;ord=1?" border=0 height=60
-width=468 ></A>
-</noscript>
-<!-- THE INCLUDE TOP2.HTM CLOSES OUT THE AD TABLE CELL, -->
-<!-- AND INCLUDES ALL CODING FOR PUB NAVIGATION ACROSS -->
-<!-- THE TOP OF THE PAGE -->
-</td>
-</tr>
-<tr>
-<td colspan="6"><img src="/img/pixel.gif" width="13" height="5"></td>
-</tr>
-<tr>
-<td colspan="7" align="left" valign="top"><a href="/pubs/nj/" target="_top" onmouseover="rollover('nj','p_nj_pollt_on.gif'); window.status='National Journal Magazine'; return true;" onmouseout="rollover('nj','p_nj_pollt.gif'); window.status=''; return true;"><img name="nj" src="/img/nav/p_nj_pollt.gif" width="123" height="26" border="0"></a><a href="/pubs/hotline/" target="_top" onmouseover="rollover('hotline','p_hotline_on.gif'); window.status='The Hotline'; return true;" onmouseout="rollover('hotline','p_hotline.gif'); window.status=''; return true;"><img name="hotline" src="/img/nav/p_hotline.gif" width="85" height="26" border="0"></a><a href="/pubs/congressdaily/" target="_top" onmouseover="rollover('congress','p_congress_on.gif'); window.status='CongressDaily'; return true;" onmouseout="rollover('congress','p_congress.gif'); window.status=''; return true;"><img name="congress" src="/img/nav/p_congress.gif" width="100" height="26" border="0"></a><a href="/pubs/techdaily/" target="_top" onmouseover="rollover('tech','p_tech_on.gif'); window.status='Technology Daily'; return true;" onmouseout="rollover('tech','p_tech.gif'); window.status=''; return true;"><img name="tech" src="/img/nav/p_tech.gif" width="115" height="26" border="0"></a><a href="/pubs/healthline/" target="_top" onmouseover="rollover('american','p_american_on.gif'); window.status='American Health Line'; return true;" onmouseout="rollover('american','p_american.gif'); window.status=''; return true;"><img name="american" src="/img/nav/p_american.gif" width="145" height="26" border="0"></a><a href="/about/" target="_top" onmouseover="rollover('about','p_about_on.gif'); window.status='About National Journal Group'; return true;" onmouseout="rollover('about','p_about.gif'); window.status=''; return true;"><img name="about" src="/img/nav/p_about.gif" width="64" height="26" border="0"></a><img src="/img/r_curve_top.gif" width="14" height="26"></td></tr>
-
-<!-- Main table and left column included below -->
-<!-- THE INCLUDE LEFT_POLL_NAV.HTM CONTAINS THE POLLTRACK -->
-<!-- HEADER GRAPHIC, THE MARKETING COLUMN CODE AND THE -->
-<!-- TABLE CODING TO SET UP THE MAIN BODY COPY AREA -->
-
-        <tr>
-                <td colspan="7" valign="top" width="670"><img src="/img/l_heading.gif" width="123" height="60" border="0" align="bottom"><img src="/img/commonfeatures/title_help.gif" width="509" height="60" border="0" align="bottom"><img src="/img/r_curve_bot.gif" width="16" height="60"></td>           
-        </tr>
-        <tr>
-                <td colspan="8"><img src="/img/pixel.gif" height="9" width="1"></td>
-        </tr>
-        <tr>
-                <td><img src="/img/pixel.gif" height="1" width="13"></td>
-                <td valign="top">
-<!-- THIS IS THE GRAPHIC AND CGI LINK -->
-<!-- FOR THE PRINT-FRIENDLY OPTION -->
-<!-- This is the include for the print-friendly CGI -->
-
-<a href="#" onclick="window.open('/scripts/printpage.cgi?/help/privacy.htm','_print','toolbar,scrollbars,menubar,height=400,width=600,left=50,top=50,screenX=50,screenY=50');"><img src="/img/printfriendly.gif" width="80" height="34" border="0" alt="Click here for a print friendly version"></a>
-
-
-<!-- PRINT-FRIENDLY LINK ENDS HERE-->
-<br>
-<br>
-
-
-
-
-<!-- THIS PULLS IN THE MARKETING & -->
-<!-- PROMO TEXT IN THE LEFT COLUMN -->
-<!-- THIS IS MARKETING/PROMO COPY THAT GETS PULLED -->
-<!-- INTO THE HOME PAGE AND ALL COMMON FEATURES -->
-
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-2" color="#000000">
-
-
-
-
-
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Need A Reprint?</b></font><br>
-<a href="/help/reprints.htm">Click here</a> for details on reprints, permissions and back issues.
-<br>
-<br>
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Advertise With Us</b></font><br>
-Details on advertising with National Journal Group -- both online and in print -- can be found in our online <a href="/mediakit/">media kit</a>.
-<br>
-<br>
-
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Go Wireless</b></font><br>
-Get <a href="/help/avantgo.htm">daily political updates</a> on your handheld computer.
-<br>
-<br>
-
-
-
-
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Make This Your Home Page</b></font><br>
-<a href="/help/home.htm">Click here</a> for step-by-step help in starting your day with our site.
-<br>
-<br>
-
-
-
-<a href="/about/contentlicensing/"><img src="/img/adgraphics/syndication/license_nj.gif" width="110" height="90" border="0" alt="Learn More About Licensing National Journal Group Content"></a>
-<br>
-<br>
-
-
-<a href="http://www.govexec.com/"><img src="/img/adgraphics/ge_logo.gif" width="110" height="33" border="0" alt="GovExec.com - Covering The Business Of The Federal Government"></a><br>
-
-</font>
-<!-- MARKETING/PROMO TEXT ENDS HERE-->
-                        </td>
-                <td><img src="/img/pixel.gif" height="1" width="15"></td>
-                <td valign="top" colspan="3">
-                   <table width="100%" border="0" cellpadding="3">
-                                <tbody><tr><td valign="TOP">
-<!-- ***************************** -->
-<!-- This is a placeholder include -->
-<!--  to accomodate old CR coding  -->
-<!-- ***************************** -->
-
-<!-- *********************************************** -->
-<!-- *** All Body Copy Goes Below This Warning   *** -->
-<!-- *********************************************** -->
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" size="+1" color="#6666CC">National Journal Group's Privacy Policy</font></b>
-
-<p>
-At National Journal Group we want you to enjoy and benefit from NationalJournal.com with the comfort and knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect about you and how we use it. 
-</p><p>
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#6666CC" size="-1">What We Learn</font></b>
-<br>
-This site automatically recognizes your domain name, IP address, browser version, operating system and the site you passed through to reach NationalJournal.com.   In addition, our site automatically gathers certain usage information like the numbers and frequency of visitors to NationalJournal.com and its areas, very much like television ratings that tell how many people tuned in to a program. Information you provide to us, such as your name, organization, address, telephone number and e-mail address, are only collected when you complete a request for a free trial or subscribe to a National Journal Group product or service.   
-
-</p><p>
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#6666CC" size="-1">How We Use What We Learn</font></b>
-<br>
-The information we collect is used to improve the content of our Web sites and to help develop new products.  Also, we compile and use this information so that we may keep you apprised of special offers and new National Journal Group products that may be of interest to you.
-
-</p><p>
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#6666CC" size="-1">What We Tell Others About You</font></b>
-<br>
-We do not furnish the information that we automatically gather about you personally to third parties unless we are legally required to do so. We may provide statistical usage data in the aggregate -- never information about you personally -- to our partners about how visitors use NationalJournal.com.  From time to time, we may also be approached by third parties with an interest in identifying subscribers to National Journal Group publications.  We may provide National Journal Group's mailing list to such third parties if we believe you would be interested  in hearing from them. And in some cases, we may be required by law to disclose  information about you to a third party. 
-
-</p><p>
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#6666CC" size="-1">Any Questions?</font></b>
-<br>
-For more information on our Privacy Assurance Policy, contact us at <a href="mailto:njcirc@nationaljournal.com">njcirc@nationaljournal.com</a>.
-</p><p>
-
-<!-- ********************************************************** -->
-<!-- ***Do Not Make Changes Below This Warning*** -->
-<!-- ********************************************************** -->
-<!-- THE INCLUDE RIGHT_HELP_NAV.HTM CLOSES OUT THE BODY -->
-<!-- COPY AREA, AND CONTAINS THE RIGHT-COLUMN TWO-TIER -->
-<!-- NAVIGATION AND ITS ATTENDANT TABLE CODING -->
-
-	</p></td></tr></tbody></table>
-    </td>
-    <td>
-
-	</td>
-    <td valign="top">                       
-
-<!-- This Include Pulls In The Actual Nav Graphics -->
-<!-- THIS INCLUDE CONTAINS THE RIGHT-COLUMN BUTTONS -->
-<!-- THAT ARE PULLED IN BY RIGHT-NAV INCLUDES SITEWIDE -->
-
-<a href="/members/adspotlight/" onmouseover="mainOver('adspot');" onmouseout="mainOut('adspot');"><img src="/img/popups/f2_adspot0.gif" alt="" width="95" height="22" border="0" name="adspot_navimage" hspace="5"></a><br>
-<a href="/members/almanac/" onmouseover="mainOver('almanac');" onmouseout="mainOut('almanac');"><img src="/img/popups/f2_almanac0.gif" alt="" width="95" height="22" border="0" name="almanac_navimage" hspace="5"></a><br>
-<a href="/members/buzz/" onmouseover="mainOver('buzz');" onmouseout="mainOut('buzz');"><img src="/img/popups/f2_buzz0.gif" alt="" width="95" height="22" border="0" name="buzz_navimage" hspace="5"></a><br>
-<a href="/members/campaign/" onmouseover="mainOver('campaigns');" onmouseout="mainOut('campaigns');"><img src="/img/popups/f2_campaigns0.gif" alt="" width="95" height="22" border="0" name="campaigns_navimage" hspace="5"></a><br>
-<a href="/members/calendar/" onmouseover="mainOver('daybook');" onmouseout="mainOut('daybook');"><img src="/img/popups/f2_daybook0.gif" alt="" width="95" height="22" border="0" name="daybook_navimage" hspace="5"></a><br>
-<a href="/members/earlybird/" onmouseover="mainOver('early');" onmouseout="mainOut('early');"><img src="/img/popups/f2_early0.gif" alt="" width="95" height="22" border="0" name="early_navimage" hspace="5"></a><br>
-<a href="/members/markups/" onmouseover="mainOver('markups');" onmouseout="mainOut('markups');"><img src="/img/popups/f2_markups0.gif" alt="" width="95" height="22" border="0" name="markups_navimage" hspace="5"></a><br>
-<a href="/members/news/" onmouseover="mainOver('news');" onmouseout="mainOut('news');"><img src="/img/popups/f2_news0.gif" alt="" width="95" height="22" border="0" name="news_navimage" hspace="5"></a><br>
-<a href="/members/polltrack/" onmouseover="mainOver('poll');" onmouseout="mainOut('poll');"><img src="/img/popups/f2_poll0.gif" alt="" width="95" height="22" border="0" name="poll_navimage" hspace="5"></a><br>
-<a href="/members/reviews/" onmouseover="mainOver('reviews');" onmouseout="mainOut('reviews');"><img src="/img/popups/f2_reviews0.gif" alt="" width="95" height="22" border="0" name="reviews_navimage" hspace="5"></a><br>
-
-
-
-
-
-
-
-
-<a href="/"><img src="/img/nav/nj_home_page.gif" width="98" height="45" border="0" alt="Click to go to nationaljournal.com home page." hspace="5"></a>
-
-
-
-
-<form action="/cgi-bin/simple_srch4?ENG+7-crindex" method="POST">
-<img align="left" src="/img/pixel.gif" width="5" height="50"><font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#CCCC99"><b>Search</b></font><br>
-<input type="HIDDEN" name="DBSELECT2" value="">
-<input type="HIDDEN" name="ELEMENT_SET" value="F">
-<input type="HIDDEN" name="RANKTYPE" value="REVERSE">
-<input type="HIDDEN" name="DBLIST" value="ALL">
-<input type="HIDDEN" name="SEARCH_TYPE" value="ALL">
-<input type="text" name="QUERY" size="8" maxlength="100">
-<input type="IMAGE" name="SUBMIT" src="/img/search/home_go.gif" width="17" height="18" border="0"><br>
-<a href="/members/search/"><img src="/img/search/adv.gif" width="80" height="13" border="0"></a>
-</form>
-
-<br>
-<div align="center">
-<b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#FFFFFF" size="-2">- Advertisement -</font></b><br>
-<script language="JavaScript"> 
-myVar = getCookie("number");
-var expdate = new Date ();
-expdate.setTime (expdate.getTime() + (365 * 24 * 60 * 60 * 1000));
-if (! myVar) {
-         myRandom = getRandom();
-         setCookie("number", myRandom, expdate.toGMTString(), "/");
-}
-
-document.write("<NOLAYER>"); 
-document.write("<IFRAME src=\"http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=120x600;tile=1;u=",myVar,";ord=",mylongrandom," name=\"frame1206001\" width=120 height=600 border=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" > ");
-document.write("<a href=\"http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=120x600;tile=1;u=",myVar,";ord=",mylongrandom," > ");
-document.write("<img src=\"http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=120x600;tile=1;u=",myVar,";ord=",mylongrandom," height=600 width=120 border=0 ></a> ");
-document.write("</IFRAME> ");
-document.write("</NOLAYER> ");
-document.write("<ILAYER id=\"layer1206001\" visibility=hide height=600></ILAYER> ");
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=120x600;tile=1;u=411165983;ord=703017616012712 name=" frame1206001"="" width="120" height="600" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> <a href="http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=120x600;tile=1;u=411165983;ord=703017616012712 > <img src="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=120x600;tile=1;u=411165983;ord=703017616012712 height=600 width=120 border=0 ></a> </iframe> </nolayer> <ilayer id="layer1206001" visibility="hide" height="600"></ilayer> 
-
-
-
-
-<noscript>
-<A HREF="http://ad.doubleclick.net/www.nationaljournal.com/common;sz=120x600;tile=1;ord=1?">
-<IMG SRC="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;sz=120x600;tile=1;ord=1?" border=0 height=600 width=120></A>
-</noscript>
-
-<br><b><font face="Trebuchet MS, Arial, Verdana, Helvetica" color="#FFFFFF" size="-2">- Advertisement -</font></b>
+<body class="toplevel sub_page">
+	
+
+<!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://www.nationaljournal.com/js/omniture/"></script>
+<script language="JavaScript" type="text/javascript">
+NJ_Section = 'siteservices|siteservices';
+NJ_Feature = 'privacy policy';
+NJ_PubDate = '04/14/2008';
+NJ_Title = 'National Journal Group's Privacy Policy';
+NJ_ID = '0';
+sendMetrics();
+</script>
+<div id="wrapper">
+  <div id="content">
+<div id="top_leaderboard">
+			<!-- Begin ad tag  (tile=1) -->
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/nationaljournalgroup/njonline;feature=generic;pos=top_leaderboard;tile=1;sz=728x90;ord=1243463990?" type="text/javascript"></script>
+			<noscript><a href="http://ad.doubleclick.net/jump/nationaljournalgroup/njonline;feature=generic;pos=top_leaderboard;tile=1;sz=728x90;ord=1243463990?" target="_blank"><img src="http://ad.doubleclick.net/ad/nationaljournalgroup/njonline;feature=generic;pos=top_leaderboard;tile=1;sz=728x90;ord=1243463990?" width="728" height="90" border="0" alt=""></a></noscript>
+			<!-- End ad tag (tile = 1)--></div>	<div id="global_nav">
+		<ul id="logo_strip">
+					<li id="nj_logo"><a href="/njonline/"><img src="/images/log162x023nj_sub.gif" alt="National Journal.com" width="162" height="23" border="0"></a></li>
+		<li id="log_button" class="nav_right">
+	<p class="gnav_button">
+	<a href="/siteservices/log_in.php">Sign In</a>	</p>
+</li>
+<li id="head_links" class="nav_right"><a href="/siteservices/my_account.php">My Account</a> | <a href="/siteservices/freetrial_signup.php">Free Trial</a><br><br><a href="mailto:sitefeedback@nationaljournal.com">Submit site feedback</a></li>
+
+		</ul>
+			     	 <p id="gnav_breadcrumb"><a href="/njonline/index.php">nationaljournal.com</a>
+	     	 		</p>
+				<ul id="gnav_contain">
+			<li id="gnav_first">
+	          <ul id="gnav">
+	            	          		<li id="gnav_home"><a href="/njonline/">Home</a></li>
+	        	
+	            <li id="gnav_njmag"><a href="/njmagazine/">The Magazine</a></li>
+	            <li id="gnav_hotline"><a href="/hotline/">The Hotline</a></li>
+	            <li id="gnav_congress"><a href="/congressdaily/">CongressDaily</a></li>
+	          </ul>
+	        </li>
+            <li id="gnav_last">Thursday, May 28, 2009</li>
+	        <!-- FOLLOWING POLICY COUNCIL LINK REMOVED BY ATD PER TICKET #259
+	     	<li id="gnav_last">
+	          <p class="gnav_button"><a href="/sponsoredlinks/">Sponsored Links</a></p>
+	        </li>-->
+	      </ul>
+	    </div>
+	    <!-- end global nav div //-->
+    <div id="middle_container">
+	<div id="left_nav">
+		<ul id="nav_categories">
+			<li><a href="/siteservices/about.php">About Us</a></li>
+
+			<li class="nav_cat_head">News</li>
+			<li><a href="/njonline/earlybirdtopnews.php">Earlybird</a></li>
+			<li><a href="/njonline/insiderinterviews_archive.php">Insider Interviews</a></li>
+			<li><a href="/polling">Polling</a></li>
+			<li><a href="/njonline/markupreports_archive.php">Markup Reports</a></li>
+                        <li><a href="http://promises.nationaljournal.com/">The Promise Audit</a></li>
+
+			<li class="nav_cat_head">Blogs</li>
+			<li><a href="http://hotlineblog.nationaljournal.com/">Hotline On Call</a></li>
+			<li><a href="/expertblogs">Expert Blogs</a></li>
+			<li><a href="http://ninthjustice.nationaljournal.com">Court Nominee Blog</a></li>
+			<li><a href="http://undertheinfluence.nationaljournal.com">Lobbying Blog</a></li>
+			<li><a href="http://blogometer.nationaljournal.com/">Blogometer</a></li>
+			<li><a href="http://techdailydose.nationaljournal.com/">Tech Daily Dose</a></li>
+
+			<li class="nav_cat_head">Multimedia</li>
+			<li><a href="/hotline/playoftheday.php">Play of the Day</a></li>
+			<li><a href="/hotline/sundaysnapshot.php">Sunday Snapshot</a></li>
+			<li><a href="/hotline/hotlinetv.php">Hotline TV</a></li>
+			<li><a href="/onair/">National Journal On Air</a></li>
+                        <li><a href="/multimedia/">Audio &amp; Video</a></li>
+
+			<li class="nav_cat_head">Columns</li>
+			<li><a href="/njonline/mysterypollster.php">Mark Blumenthal</a></li>
+			<li><a href="/njmagazine/politicalconnections.php">Ronald Brownstein</a></li>
+			<li><a href="/njonline/rulesofthegame.php">Eliza Newlin Carney</a></li>
+			<li><a href="/njonline/offtotheraces.php">Charlie Cook (Tues.)</a></li>
+			<li><a href="/njmagazine/cookreport.php">Charlie Cook (Fri.)</a></li>
+			<li><a href="/njmagazine/wealthofnations.php">Clive Crook</a></li>
+			<li><a href="/njonline/politiscope.php">John Mercurio</a></li>
+			<li><a href="/njmagazine/socialstudies.php">Jonathan Rauch</a></li>
+			<li><a href="/njmagazine/economicinterests.php">Bruce Stokes</a></li>
+			<li><a href="/njmagazine/politicalpulse.php">William Schneider</a></li>
+			<li><a href="/njmagazine/openingargument.php">Stuart Taylor</a></li>
+			<li><a href="/njonline/onthetrail.php">Amy Walter</a></li>
+
+			<li class="nav_cat_head">Subscriber Resources</li>
+			<li><a href="/almanac/">The Almanac</a></li>
+			<li><a href="/njonline/capitalsource.php">Capital Source</a></li>
+                        <li><a href="/members/calendar/index.cgi">Daybook</a></li>
+                        <li><a href="/members/adspotlight/2008/">Ad Spotlight</a></li>
+
+<!--	WILL NEED TO CHANGE PATH ONCE /sponsoredlinks/ IS CREATED
+			<li><a href="/sponsoredlinks/">Sponsored Links</a></li>
+-->
+		</ul>
+		<div id="left_nav_ad">
+		</div>
+
+		<ul id="left_affiliate_sites">
+			<li class="affiliate_head">Affiliate Sites</li>
+			<li><a href="http://www.theatlantic.com/" target="_blank">The Atlantic</a></li>
+			<li><a href="http://www.cookpolitical.com/" target="_blank">The Cook Political Report</a></li>
+			<li><a href="http://gsn.nti.org" target="_blank">Global Security Newswire</a></li>
+			<li><a href="http://www.govexec.com/" target="_blank">Government Executive</a></li>
+			<li><a href="http://www.pbs.org/weta/washingtonweek/" target="_blank">Washington Week</a></li>
+		</ul>
+
+<!--
+		<div id="insider_update">
+			<a href="http://www.njtelecomupdate.com/">Telecom Update</a>
+		</div>
+-->
+		</div>
+		<!-- end left nav div -->
+      <div id="center_right_columns">
+<div id="content_column_head">
+
+<h2>
+National Journal</h2>
+
+<div id="search_subsection">
+	<div id="search_box">
+		<table id="search_zone" cellpadding="0" cellspacing="2">
+			<tbody><tr>
+			<td valign="top">
+						<form name="frmSearch" method="post" action="http://search1.atlantic-media.us:8080/AtlanticMedia/queryResultsAction.do?nav=none&amp;val=none">
+				<input name="query" type="text">
+				<input type="hidden" name="property" value="nj">
+				<input type="hidden" name="action" value="doNewQuery">
+				<input type="hidden" name="site" value="nj">
+				<a href="javascript:document.frmSearch.submit()" class="srch_button">Search</a>
+				<p class="adv_srch_label"><a href="http://search1.atlantic-media.us:8080/AtlanticMedia/searchAdvanced.jsp?sitecode=njm">Advanced Search</a></p>
+			</form>
+			</td>
+			<td valign="top">
+									<span class="srch_sponsor">Search Sponsor:</span>
+						<div>
+			<!-- Begin ad tag  (tile=2) -->
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/nationaljournalgroup/search;feature=generic;pos=search;tile=2;sz=88x31;ord=1243463990?" type="text/javascript"></script>
+			<noscript><a href="http://ad.doubleclick.net/jump/nationaljournalgroup/search;feature=generic;pos=search;tile=2;sz=88x31;ord=1243463990?" target="_blank"><img src="http://ad.doubleclick.net/ad/nationaljournalgroup/search;feature=generic;pos=search;tile=2;sz=88x31;ord=1243463990?" width="88" height="31" border="0" alt=""></a></noscript>
+			<!-- End ad tag (tile = 2)--></div>							</td>
+			</tr>
+		</tbody></table>
+		<!-- end search form div //-->
+	</div>
+	<!-- end search box div //-->
 </div>
+<!-- end search subsection div //-->
+
+  </div>
+<!-- end content column head div //-->
+		<div id="content_links_columns">
+		  <div id="main_content">
+		    <!--  MAIN CONTENT TEMPLATE -->
+<a name="page_top"></a>
+<div id="storyheaders">
+
+<!--?php
+	require_once("../modules/ads.php");
+	//echo getAd ('', '', '88', '31');
+?-->
 
 
+	<div id="print_options">
+      <ul id="article">
+        <li id="article_print_mult_no_arrow"><a href="print_friendly.php?ID=ss_20070721_7235">Print</a>
+          <ul>
+            <li class=""><a href="print_friendly.php?ID=ss_20070721_7235">Print</a></li>
+			
+           </ul>
+        </li>
+        <li id="article_email"><a href="email_article.php?ID=ss_20070721_7235">Email</a></li>
+        <li id="article_reprints"><a href="/siteservices/reprints.php">Reprints</a></li>
+      </ul>
+      <ul id="sponsor">
+        <li id="sponsor_text">Tools Sponsor:</li>
+        <li id="sponsor_logo">
+			<!-- begin ad tag  (tile=1) -->
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/nationaljournalgroup/article_tools;pos=article_tools;tile=1;sz=88x31;ord=1211414759?" type="text/javascript"></script>
+			<noscript><a href="http://ad.doubleclick.net/jump/nationaljournalgroup/article_tools;pos=article_tools;tile=1;sz=88x31;ord=1211414759?" target="_blank"><img src="http://ad.doubleclick.net/ad/nationaljournalgroup/article_tools;pos=article_tools;tile=1;sz=88x31;ord=1211414759?" width="88" height="31" border="0" alt=""></a></noscript>
+			<!-- End ad tag (tile = 1)--></li>
+      </ul>
+    </div><span class="vrt"><h2>National Journal Group's Privacy Policy</h2>
+</span></div><br class="clear">
+<p class="lede"></p><p>At National Journal Group we want you to enjoy and benefit from NationalJournal.com, secure in the knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect and how we use it.</p>
+
+<p class="subhead">What We Learn</p>
+
+<p>This site automatically recognizes your domain name, IP address, browser version, operating system and the site you passed through to reach NationalJournal.com. In addition, our site automatically gathers certain usage information like the numbers and frequency of visitors to NationalJournal.com and its areas, very much like television ratings that tell how many people tuned in to a program. Information you provide to us, such as your name, organization, address, telephone number and email address, are only collected when you complete a request for a free trial or subscribe to a National Journal Group product or service. Information gathered through the use of cookies (defined below) is not related to any personally identifiable details.</p>
+
+<p class="subhead">How We Use What We Learn</p>
+
+<p>The information we collect is used to improve the content of our website and to help develop new products. Also, we compile and use this information so that we may keep you apprised of special offers and new National Journal Group products that may be of interest to you.</p>
+
+<p>A user's personally identifiable information may be used by National Journal Group for editorial purposes, such as to contact you as part of an online survey. Additionally, we may use the information provided by you to: 1) contact you in order to comply with any legal requirements, 2) advise you of any material changes or additions to our service, 3) advise you of account status and 4) inform you of additional products and services, special and exclusive offers.</p>
+
+<p class="subhead">What We Tell Others About You</p>
+
+<p>From time to time, we may also be approached by third parties with an interest in identifying subscribers to National Journal Group publications. We may provide National Journal Group's mailing list (but not email addresses) to such third parties if we believe you would be interested in hearing from them. If you do not want your information to be shared, you can choose not to allow the transfer by letting us know by emailing, calling or writing us (see addresses below).</p>
+
+<p>We may provide statistical usage data in the aggregate - not information about you personally - to our partners about how visitors use NationalJournal.com. National Journal Group from time to time does research on our users' demographics, interests and behavior based on the information you provide to us upon registration, on order forms, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and National Journal Group may share this aggregated data with advertisers or other businesses. And in some cases, we may be required by law to disclose information about you to a third party.</p>
+
+<p class="subhead">What Are Cookies And How Do We Use Them?</p>
+
+<p>NationalJournal.com places a "cookie" on the browser of a NationalJournal.com user's computer to gather and store basic tracking information and to monitor the presentation of advertisements. We may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that subscribers to National Journal Group publications do not have to reenter their login name or password during visits. Cookies are also used to restrict access to bona fide subscribers and to enable you to set up customized alerts that no other subscribers are permitted to see. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie.</p>
+
+<p>Advertising service vendors that serve ads into our site may also use their own cookies. You may opt-out of the cookies delivered by NationalJournal.com by changing the setting on your browser. Some browsers are set to refuse all cookies, or to restrict the conditions under which they are set. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by NationalJournal.com.</p>
+
+<p>Online advertising for NationalJournal.com is delivered by the vendor DoubleClick. This vendor, like other advertising service vendors, places cookies on a user's hard drive so that its systems can identify your computer. By placing such cookies on your system, DoubleClick is able, among other things, to determine automatically whether you have seen a particular advertisement before and avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. DoubleClick allows visitors the option to opt-out of advertising cookies. If you do not want the benefits of advertising cookies, there is a simple procedure that allows you to deny or accept this feature. For more information about DoubleClick's use of cookies, and to "opt-out" of the cookies, visit <a href="http://www.doubleclick.net/us/corporate/privacy" target="blank">www.doubleclick.net/us/corporate/privacy.</a></p>
+
+<p class="subhead">Advertisers and Links</p>
+
+<p>This site contains links to other sites, including those produced by other organizations. Additionally, National Journal Group advertisers, or websites that have links on our site, may also collect personally identifiable information directly from you. National Journal Group is not responsible for the privacy policies or contents of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies.</p>
+
+<p class="subhead">Data Security</p>
+
+<p>NationalJournal.com has in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.</p>
+
+<p class="subhead">Disclaimer</p>
+
+<p>This Privacy Policy may be changed at any time at National Journal Group's discretion.</p>
+
+<p class="subhead">Any Questions?</p>
+
+<p>For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at <a href="mailto:service@nationaljournal.com">service@nationaljournal.com</a>, calling us at (202) 266-7230 or writing to us at the address listed below.</p>
+
+<p class="subhead">Our Postal Address:</p>
+
+<p>National Journal Group</p>
+
+<p>600 New Hampshire Avenue, NW</p>
+
+<p>Washington, DC 20037</p>
 
 
+<div id="bottom_leaderboard">
+			<!-- begin ad tag  (tile=2) -->
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/nationaljournalgroup/njonline;topic=privacy;pos=bottom_leaderboard;tile=2;sz=336x280;ord=1211414759?" type="text/javascript"></script>
+			<noscript><a href="http://ad.doubleclick.net/jump/nationaljournalgroup/njonline;topic=privacy;pos=bottom_leaderboard;tile=2;sz=336x280;ord=1211414759?" target="_blank"><img src="http://ad.doubleclick.net/ad/nationaljournalgroup/njonline;pos=bottom_leaderboard;tile=2;sz=336x280;ord=1211414759?" width="336" height="280" border="0" alt=""></a></noscript>
+			<!-- End ad tag (tile = 2)--></div>
 
-    </td>
-    </tr>
+		    </div>
+			  <div id="right_links_column">
+<h3>Subscriptions</h3>
+  <ul class="right_col_links">
+    <li class="no_bullet"><b>800-424-2921</b></li>
+    <li class="no_bullet"><a href="mailto:memberships@nationaljournal.com">memberships@nationaljournal.com</a></li>
+  </ul>
+  <br><br>
+<!-- end natl journal subscriptions div //--><h3>Get a Free Trial!</h3>
+<div class="basic_pad">
+  <p>Sign up now to start receiving valuable insight with free trial subscriptions 
+  to <em>National Journal</em>, <em>CongressDaily</em>, or <em>The Hotline</em>. Click <a href="/siteservices/freetrial_signup.php">here</a>.</p>
+</div>
+<!-- end free trial div //--><div id="highlights" class="about">
+<h3>Publications</h3>
 
+<h4 class="flag_hotline">The Hotline</h4>
+<ul class="right_col_links">
+	<li>The publication of record on American politics, polling, and campaign developments
+with original reporting and coverage from over 2,500 media sources.</li>
+	<li><a href="/siteservices/abouthotline.php">About</a> | <a href="/siteservices/subscriptionhotline.php">Subscriptions</a> | <a href="/siteservices/contacthotline.php">Contact</a></li>
+</ul>
+<hr class="dotted">
 
-<!-- CODING FOR TABLE ROW CONTAINING BOTTOM AD -->
-<tr><td colspan="3"></td><td colspan="3" align="center">
+<h4 class="flag_nj_mag">National Journal</h4>
+<ul class="right_col_links">
+	<li>The weekly publication providing "Insight for Insiders" through nonpartisan reporting
+on the current political environment and emerging trends.</li>
+	<li><a href="/siteservices/aboutnjmagazine.php">About</a> | <a href="/siteservices/subscriptionnjmagazine.php">Subscriptions</a> | <a href="/siteservices/contactnjmagazine.php">Contact</a></li>
+</ul>
+<hr class="dotted">
 
+<h4 class="flag_congressdaily">CongressDaily</h4>
+<ul class="right_col_links">
+	<li>The twice-daily source for congressional news and analysis providing access to the
+conversations, strategies, and alliances that drive congressional action.</li>
+	<li><a href="/siteservices/aboutcongressdaily.php">About</a> | <a href="/siteservices/subscriptioncongressdaily.php">Subscriptions</a> | <a href="/siteservices/contactcongressdaily.php">Contact</a></li>
 
+<!--</ul>
+<hr class="dotted" />
+<h4 class="flag_techdaily">Technology Daily</h4>
+<ul class="right_col_links">
+	<li>The twice-daily resource that decision makers depend on for essential technology
+policy coverage.</li>
+	<li><a href="/siteservices/abouttechdaily.php">About</a> | <a href="/siteservices/subscriptiontechdaily.php">Subscriptions</a> | <a href="/siteservices/contacttechdaily.php">Contact</a></li>
+</ul>-->
+<!---
+<hr class="dotted" />
+<h4>Almanac of American Politics</h4>
+<ul class="right_col_links">
+	<li>The definitive news source on information technology politics and policy</li>
+	<li><a href="#">About</a> | <a href="#">Subscriptions</a> | <a href="#">Contact</a></li>
+</ul>
 
-<!-- Ad Code Can Be Found In default_bottom.bak -->
-<!-- FOOTER2.HTM CLOSES THE AD CELL -->
-<!-- COMPLETES THE PAGE HTML -->
-<!-- INCLUDES THE SECOND-TIER NAVIGATION  -->
-<br><center><font size="-1" face="Trebuchet MS, Arial, Verdana, Helvetica" color="#000000">
-[ <a href="/help/feedback.htm">E-mail NationalJournal.com</a> ]<br>
-[ <a href="/help/">Site Index</a> | <a href="/members/help/contact.htm">Staff</a> |
-<a href="/help/privacy.htm">Privacy Policy</a> | <a href="/members/help/emailalerts.htm">E-Mail Alerts</a> ]<br>
-[ <a href="/help/reprints.htm">Reprints And Back Issues</a> | <a href="/about/contentlicensing/">Content Licensing</a> ]<br>
-[ <a href="/help/home.htm">Make NationalJournal.com Your Homepage</a> ]<br>
-[ <a href="/about/">About National Journal Group Inc.</a> ]<br>
-[ <a href="/about/contactjobs.htm">Employment Opportunities</a> ]<br>
+<hr class="dotted" />
+<h4>CAPITAL SOURCE</h4>
+<ul class="right_col_links">
+	<li>The definitive news source on information technology politics and policy</li>
+	<li><a href="#">About</a> | <a href="#">Subscriptions</a> | <a href="#">Contact</a></li>
+</ul>
 
-Copyright 2003 by National Journal Group Inc.<br>
-1501 M St., NW #300  Washington, DC 20005<br>
-202-739-8400 · fax 202-833-8069<br>
-NationalJournal.com is an Atlantic Media publication.
-</font></center></td>
-<td colspan="2"></td></tr></tbody></table>
+<hr class="dotted" />
+<h4>GOVERNMENT EXECUTIVE</h4>
+<ul class="right_col_links">
+	<li>The definitive news source on information technology politics and policy</li>
+	<li><a href="#">About</a> | <a href="#">Subscriptions</a> | <a href="#">Contact</a></li>
 
+</ul>--->
+</ul></div>
+<!-- end natl journal publications div //-->			  </div>
 
-
-<script language="JavaScript"> 
-document.write("<LAYER SRC=\"http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom,"\" visibility=hide onload=\"moveToAbsolute(layer468601.pageX, layer468601.pageY);clip.height=60;clip.width=468;visibility=\'show\';\"></layer> ");
-
-document.write("<LAYER SRC=\"http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=120x600;tile=1;u=",myVar,";ord=",mylongrandom,"\" visibility=hide onload=\"moveToAbsolute(layer1206001.pageX, layer1206001.pageY);clip.height=600;clip.width=120;visibility=\'show\';\"></layer> ");
-</script><layer src="http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=411165983;ord=703017616012712" visibility="hide" onload="moveToAbsolute(layer468601.pageX, layer468601.pageY);clip.height=60;clip.width=468;visibility='show';"></layer> <layer src="http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=120x600;tile=1;u=411165983;ord=703017616012712" visibility="hide" onload="moveToAbsolute(layer1206001.pageX, layer1206001.pageY);clip.height=600;clip.width=120;visibility='show';"></layer> 
-
-
-<!-- Bottom Ad code temporarily removed. -->
-<!-- Backup is footer2.0122.bak -->
-
-
-
-
-
-
+			</div>
+			<!-- end content/links container div //-->
+                
+      </div><!-- end center/right column container div //-->
+      
+    </div><!-- end middle container div //-->
+    <div id="footer"><a href="/siteservices/staff.php">Staff</a> <a href="/siteservices/contact.php">Contact</a> <a href="http://www.atlanticmediacompany.com/careers/index.html">Employment</a> <a href="/siteservices/reprints.php">Reprints &amp; Back Issues</a> <a href="/siteservices/privacy.php">Privacy Policy</a> <a href="http://www.nationaljournal.com/mediakit/">Advertising</a> <br>
+      Copyright 2009 by National Journal Group Inc.  The Watergate  600 New Hampshire Ave., NW  Washington, DC 20037<br>202-739-8400 · fax 202-833-8069  NationalJournal.com is an Atlantic Media publication.
+    </div>
+    <!-- end footer div //-->  </div><!-- end content div //-->
+  <div id="skyscraper">
+  </div>
+  <!-- end skyscraper div //-->
+</div><!-- end wrapper div //-->
 
 </body></html>
