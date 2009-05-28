@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewildcoins.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055539id_/http%3A//www.freewildcoins.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewildcoins.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528170424id_/http%3A//www.freewildcoins.com/legal/privacy) for the most accurate reproduction.*
 
 # FreeWildCoins.com
 
