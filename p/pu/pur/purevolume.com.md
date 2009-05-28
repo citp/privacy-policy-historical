@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160259id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevolume.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528160507id_/http%3A//www.purevolume.com/privacy_policy) for the most accurate reproduction.*
 
-# purevolume™ | We're Listening To You
-
-## Privacy Policy
+# PureVolume™ | We're Listening To You
 
 Welcome to PureVolume.com (“PureVolume”), owned, produced and operated by PureVolume Inc. (“Company”) and, potentially, in part or in whole, by its parents, subsidiary and affiliate corporations, successors, and assigns (collectively referred to as “Companies”). Unless explicitly stated otherwise, any current, updated and new products and services (“Products and Services”), including the addition of new properties shall be subject to this Privacy Policy, as well as the General Terms and Conditions of Use (“Terms and Conditions”). By using PureVolume you agree to be bound by this Privacy Policy and the Terms and Conditions, whether or not you register as a listener (“Listener”). Please read this Privacy Policy carefully. 
 
