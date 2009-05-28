@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metadefender.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118220952id_/http%3A//www.metadefender.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metadefender.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528203859id_/http%3A//www.metadefender.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Metadefender AntiVirus Software Development Kit (SDK)
 
@@ -25,14 +25,14 @@ If you have any questions or concerns regarding our online privacy policy or sho
 
 | 
 
-09.11.2008
+05.04.2009
 
-Metadefender 1.8.78 released [read more](http://www.metadefender.com/news/#09112008)
+Metadefender 1.10.86 released [read more](http://www.metadefender.com/news/#05042009)
 
-17.10.2008
+05.03.2009
 
-Metadefender 1.7.77 released [read more](http://www.metadefender.com/news/#17102008)
+Metadefender 1.9.84 released [read more](http://www.metadefender.com/news/#05032009)
 
-31.08.2008
+13.02.2009
 
-Metadefender 1.7.76 released [read more](http://www.metadefender.com/news/#31082008)
+Metadefender 1.9.83 released [read more](http://www.metadefender.com/news/#13022009)
