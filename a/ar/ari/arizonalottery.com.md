@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911141917id_/http%3A//www.arizonalottery.com/include/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529015505id_/http%3A//www.arizonalottery.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Arizona Lottery
 
 **Disclaimer**
 
@@ -14,7 +14,7 @@ The Arizona Lottery offers access to its public information online that you migh
 
 **Collection and Use of Information**
 
-The Arizona Lottery does not collect information for commercial marketing.  The Arizona Lottery does not collect or track personal information from Lottery website visitors unless we are given explicit permission by the visitor. From time to time, the Lottery may conduct surveys and will collect general demographic information to better understand and serve our players. When we present a survey page on the site, use of cookies is limited to the minimum function necessary to prevent duplication of survey results from that page. A cookie is only transmitted at the time you submit the survey to us. You can always avoid receiving the cookie by not submitting the survey to us. 
+The Arizona Lottery does not collect information for commercial marketing.  The Arizona Lottery does not collect or track personal information from Lottery website visitors unless we are given explicit permission by the visitor. From time to time, the Lottery may conduct surveys and will collect general demographic information to better understand and serve our players. When we present a survey page on the site, use of cookies is limited to the minimum function necessary to prevent duplication of survey results from that page. A cookie is only transmitted at the time you submit the survey to us. You can always avoid receiving the cookie by not submitting the survey to us.
 
 Additionally, generic information from server logs may be used to track the number of hits to the site and to find out what types of browser software are used by visitors. This information will be used only in aggregate form solely for improving website design. 
 
@@ -22,12 +22,12 @@ Please be aware that in the state of Arizona , laws exist to ensure that state g
 
 **Security**
 
-The Arizona Lottery and its consultants have taken several steps to safeguard the integrity of its computer systems and networks, including, but not limited to, individual authentication, the security of transmitted data, security monitoring, and auditing. Security methods and measures have been integrated into the design, implementation, and day-to-day practices of the entire website. 
+The Arizona Lottery and its consultants have taken several steps to safeguard the integrity of its computer systems and networks, including, but not limited to, individual authentication, the security of transmitted data, security monitoring, and auditing. Security methods and measures have been integrated into the design, implementation, and day-to-day practices of the entire website.
 
 **Other External Links Disclaimer**
 
-The Arizona Lottery website has links to other websites. When you link to another site, you are no longer on the Lottery website, and this privacy statement will not apply to other sites. When you link to another website, you are subject to the privacy policy of that new site. Neither the Lottery nor any employee of the Lottery warrants the accuracy, reliability, or timeliness of any information, nor endorses any content, viewpoints, products, or services linked from this website and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Any person or entity that relies on any information obtained from this system does so at his or her own risk. 
+The Arizona Lottery website has links to other websites. When you link to another site, you are no longer on the Lottery website, and this privacy statement will not apply to other sites. When you link to another website, you are subject to the privacy policy of that new site. Neither the Lottery nor any employee of the Lottery warrants the accuracy, reliability, or timeliness of any information, nor endorses any content, viewpoints, products, or services linked from this website and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
 **Privacy Policy Statement is Subject to Change**
 
-This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated. 
+This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated.
