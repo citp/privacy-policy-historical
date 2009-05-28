@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617095833id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528222435id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Security and Disclosure of Amp Futures - futures, options and forex trading
 
-AMP Futures, LLC., an introducer to Dorman Trading (collectively "AMP"), respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former customers as well as our current customers. 
+## Privacy Policy: Security and Disclosure 
+
+AMP Trading, LLC., (collectively "AMP"), respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former customers as well as our current customers. 
 
 **Personal Information**
 
-When you apply for or maintain a live or demo account with AMP, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include:   
-
+When you apply for or maintain a live or demo account with AMP, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include: 
 
   * Application Information - Information you provide to us on applications and other forms, such as your name, address, birth date, social security number, occupation, assets, and income.
   * Transaction Information - Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries and our responses.
-  * Verification Information - Information necessary to verify your identity such as a passport or driver’s license. Examples also include background information about you we receive from public records or from other entities not affiliated with AMP. The USA Patriot Act requires us to collect information and take actions necessary to verify your identity.
+  * Verification Information - Information necessary to verify your identity such as a passport or driver�s license. Examples also include background information about you we receive from public records or from other entities not affiliated with AMP. The USA Patriot Act requires us to collect information and take actions necessary to verify your identity.
 
 
 
@@ -48,7 +49,41 @@ Under limited circumstances, AMP may disclose your personal information to third
 If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail or or send your request to: 
 
   
-AMP Futures LLC.   
+AMP Trading LLC.   
 Attention: Privacy Officer   
-151 N. Michigan Avenue ste.2904   
+155 N. Michigan Avenue ste.615   
 Chicago, IL 60601 
+
+There is a risk of loss in trading futures and options. Futures trading is not appropriate for all investors. Please read our Risk Disclosure and Privacy Policy. 
+
+Simulated Paper Demo
+
+Emini Futures Tading Kit
+
+Learn To Trade Futures
+
+Futures Trading Resources
+
+Daily Trade Recommendations
+
+Support & Resistance Levels 
+
+S&P500 Futures Squawk Box
+
+Real-Time Day Trading Alerts
+
+Consultation with a Trader
+
+Trading Lessons
+
+Trading Alerts
+
+Live Chat Room Pass
+
+Pivot Point Calculator
+
+Futures Webinar
+
+Futures 101 Booklet 
+
+Foreign IB Starter Kit 
