@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the acresso.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017120916id_/http%3A//www.acresso.com/company/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acresso.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528225609id_/http%3A//www.acresso.com/company/about/privacy-legal.htm) for the most accurate reproduction.*
 
 # Legal and Privacy Notices - Legal - Acresso
-
-Legal and Privacy Notes  
-
 
 Review Acresso’s legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
