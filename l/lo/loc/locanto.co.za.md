@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208002316id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.co.za privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528113342id_/http%3A//www.locanto.co.za/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
