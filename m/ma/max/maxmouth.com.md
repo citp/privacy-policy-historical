@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031244id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528115415id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
 
 # MaxMouth
-
-| 
-
-Recently Added
-
-Most Viewed
-
-Highest Rated
-
-Popular Tags
-
-| 
 
 _Last Updated July 25, 2007_
 
@@ -63,7 +51,7 @@ MaxMouth uses commercially reasonable physical, managerial, and technical safegu
 
 If MaxMouth learns of a security systems breach, then we may attempt to notify you as required by law so that you can take appropriate protective steps. 
 
-To protect your privacy and security, we use industry standard security technologies and we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.  You should contact us immediately at [Privacy@maxmouth.com](mailto:Privacy@maxmouth.com) if you believe your account information or your password has been compromised.
+To protect your privacy and security, we use industry standard security technologies and we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.  You should contact us immediately at [privacy@maxmouth.com](mailto:privacy@maxmouth.com) if you believe your account information or your password has been compromised.
 
 ## We Are Committed To Children’s' Privacy
 
@@ -83,8 +71,8 @@ Please contact MaxMouth with any questions or comments about this Privacy Notice
 
 | 
 
-[](http://bonjovi.maxmouth.com/)
+[](http://montgomerygentry.maxmouth.com/)
 
-MaxMouth video- click to view videos  
+MaxMouth videos - click to view  
   
----|---|---
+---|---
