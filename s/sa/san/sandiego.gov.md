@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203220204id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528184034id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Notice | City of San Diego
 
@@ -43,10 +43,10 @@ Any information collected by any City of San Diego website from children 13 and 
 
 
 
-Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the [Kidz Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) websites.
+Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the Kidz Privacy websites.
 
 ### Security
 
 Unless a particular web page on the City of San Diego's Web site indicates that encryption technology is being used, the user should not assume that information uploaded through that web page to the City of San Diego's Web server will be treated as confidential. If a user submits information to the City of San Diego's server through a web page containing visible indicators of active encryption technology, the City of San Diego will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure.
 
-Copyrighted © 2002-2005 City of San Diego. All rights reserved.
+Copyrighted © 2002-2009 City of San Diego. All rights reserved.
