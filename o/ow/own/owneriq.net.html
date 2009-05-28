@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the owneriq.net privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216003256id_/http%3A//owneriq.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the owneriq.net privacy policy that was archived on 2009-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090528055300id_/http%3A//owneriq.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="timestamp" content="2008-12-11 05:24:16">
+<meta name="timestamp" content="2009-05-20 11:41:40">
 <meta name="description" content="OwnerIQ. Self-Support your products. Manuals, installation guides and help. Help forums, tips and tutorials.">
 
 <title>OwnerIQ: Product user manuals, help, forums tips and tutorials.</title>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js?load=builder,effects,controls"></script>
 
 <script type="text/javascript" src="http://owneriq.net/javascript/libs.js"></script><script type="text/javascript" src="/javascript/sites/www.owneriq.net/cs.js"></script>
 <script type="text/javascript" src="/javascript/urchin.js"></script>
@@ -17,7 +20,8 @@
 	pageLoaded = false;
 </script>
 
-<script type="text/javascript">var memSiteGenId="LBUWK89B_CP1_T2LNN8_L947";</script><script src="http://owneriq.net/regman/mem/initsession" type="text/javascript"></script><script type="text/javascript">Event.observe(window, "load", function() {logEvent("page view");});</script>
+<script type="text/javascript">var memSiteGenId="LBUWK89B_IIM_TD1I4Q_6WBI";</script><script src="http://owneriq.net/regman/mem/initsession?sessionargs=YToyOntzOjM6InVyaSI7czoxMzoiL3ByaXZhY3kuaHRtbCI7czo2OiJzZXJ2ZXIiO3M6MTE6Im93bmVyaXEubmV0Ijt9" type="text/javascript"></script><script type="text/javascript">var segmentServer="px.owneriq.net";</script>
+
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/widget.css" rel="stylesheet" type="text/css" media="screen">
 </head>
@@ -25,28 +29,45 @@
 <body id="body">
 	<div id="header">
 		<h1><a href="http://owneriq.net" title="OwnerIQ"><span>Less Hassle. More Fun.</span></a></h1>
-	</div><!-- end header -->
+	</div>
+<!-- end header -->
    <div id="topNav">
 		<div id="topNavContent">
-        <div id="topNavContentRt">
-				<span id="searchLabel">search our site:</span>
-				<form action="/search.html" method="GET">
-					<input type="text" name="q" id="searchboxTopNav" value="">
-					<div id="searchButton">
-						<input type="image" src="/images/but_search_sm.gif" align="absmiddle" alt="Search" name="submit">
-					</div>
-				</form>
-			</div>
-			<ul id="navMenu">
+        	<ul id="navMenu">
 				<li><a href="/">Home</a></li>
 				<li><a href="/owneriqnetwork.html">OwnerIQ Network</a></li>
+				<li><a href="http://blog.owneriq.net">Blog</a></li>
                 <li><a href="/research.html">Research</a></li>
 				<li><a href="/press.html">Press</a></li>
                 <li style="border-right:none"><a href="/about.html">About</a></li>
 			</ul>
 	 </div>
-	</div><!-- end topNav --><br> 
-	<div id="wrapper">		<div id="leftCol">
+</div><!-- end topNav --><br> 
+	<div id="wrapper">
+        <!-- Container for LeftCol and CenterCol -->
+        <div id="contentContainer">
+				<!-- SEARCHBOXIF This IF separates search box variants for CellPhone and for all other sites --> 
+					<!-- SEARCHBOXIF Beginning of part for all other sites -->
+                <div class="searchbox">
+                    <div id="searchboxLong">
+                                                <form action="/search.html" method="GET">
+                            <input type="text" name="q" id="input" value="">
+                            <input type="image" src="http://owneriq.net/images/but_search.gif" alt="Search" name="submit">
+                        </form>
+                    </div>
+                    <!--  end Searchbox -->
+                    <div id="searchTip">Enter Manufacturer Name and Model Number
+							<div id="autocomplete_choices" style="position:absolute;left:0px;top:1px;width:542px;" class="solr_autocomplete"></div>
+					</div>
+                </div>
+			 <!-- end of SEARCHBOXIF --> 
+<!-- Autosuggestion for SOLR search -->
+<script type="text/javascript">
+	$('input').focus();
+	new Ajax.SolrAutocompleter("input", "autocomplete_choices", "/dataserv/solr/autosuggestion", { paramName: "q", minChars: 1});
+</script>
+
+		<div id="leftCol">
 			<div id="memUserPane" style="display:none;">
 				<h1>FREE Membership!</h1>
                 	<ul class="numberList">
@@ -71,11 +92,12 @@
                 <li><a href="http://babycare.owneriq.net"><span class="bullet">›</span>Baby Care</a></li>
 						<li><a href="http://camera.manualsonline.com"><span class="bullet">›</span>Cameras</a></li>
 						<li><a href="http://caraudio.manualsonline.com"><span class="bullet">›</span>Car Audio</a></li>
-						<li><a href="http://fitness.manualsonline.com"><span class="bullet">›</span>Fitness</a></li>
+						<li><a href="http://cellphone.owneriq.net"><span class="bullet">›</span>Cell Phones</a></li>
+						<li><a href="http://fitness.owneriq.net"><span class="bullet">›</span>Fitness</a></li>
                 <li><a href="http://homeappliance.manualsonline.com"><span class="bullet">›</span>Home Appliances</a></li>
 						<li><a href="http://kitchen.manualsonline.com"><span class="bullet">›</span>Kitchen</a></li>
 						<li><a href="http://laundry.manualsonline.com"><span class="bullet">›</span>Laundry</a></li>
-						<li><a href="http://lawnandgarden.manualsonline.com"><span class="bullet">›</span>Lawn and Garden</a></li>
+						<li><a href="http://lawnandgarden.owneriq.net"><span class="bullet">›</span>Lawn and Garden</a></li>
 						<li><a href="http://music.manualsonline.com"><span class="bullet">›</span>Musical Equipment</a></li>
                         <li><a href="http://office.manualsonline.com"><span class="bullet">›</span>Office</a></li>
                         <li><a href="http://outdoorcooking.manualsonline.com"><span class="bullet">›</span>Outdoor Cooking</a></li>
@@ -123,11 +145,11 @@
 	5. <a href="http://babycare.owneriq.net.com">BabyCare.OwnerIQ.net</a><br>
 	6. <a href="http://camera.manualsonline.com">Camera.ManualsOnline.com</a><br>
 	7. <a href="http://caraudio.manualsonline.com">CarAudio.ManualsOnline.com</a><br>
-	8. <a href="http://fitness.manualsonline.com">Fitness.ManualsOnline.com</a><br>
+	8. <a href="http://fitness.owneriq.net">Fitness.OwnerIQ.net</a><br>
 	9. <a href="http://homeappliance.manualsonline.com">HomeAppliance.ManualsOnline.com</a><br>
 	10. <a href="http://kitchen.manualsonline.com">Kitchen.ManualsOnline.com</a><br>
 	11. <a href="http://laundry.manualsonline.com">Laundry.ManualsOnline.com</a><br>
-	12. <a href="http://lawnandgarden.manualsonline.com">LawnandGarden.ManualsOnline.com</a><br>
+	12. <a href="http://lawnandgarden.owneriq.net">LawnandGarden.OwnerIQ.net</a><br>
 	13. <a href="http://music.manualsonline.com">Music.ManualsOnline.com</a><br>
 	14. <a href="http://office.manualsonline.com">Office.ManualsOnline.com</a><br>
 	15. <a href="http://outdoorcooking.manualsonline.com">OutdoorCooking.ManualsOnline.com</a><br>
@@ -229,12 +251,13 @@ We allow other companies that are presenting advertisements on our sites and, so
         <div id="centerColHeadBottom">&nbsp;</div>
       </div><!-- end centerCol -->
         
+	</div><!-- end contentContainer -->
 		<div id="rightCol">
 			
 			<div class="rightColBox recentSidebar" id="recentBlogBox">
 				<div class="recentSidebarItem"><h1>Recent Blog Posts</h1>
 					<ul class="recentArticles">
-					<li><a href="http://blog.owneriq.net/?p=1213"><img src="http://blog.owneriq.net/wp-content/uploads/2008/11/drainsystem_205.jpg" width="75" border="0">3 Green Reasons to Build a Drainage System and Prevent Erosion</a><br><span class="postDate">Thursday, November 20, 2008</span><br clear="all"></li><li><a href="http://blog.owneriq.net/?p=1178"><img src="http://blog.owneriq.net/wp-content/uploads/2008/11/iphonetools_205.jpg" width="75" border="0">10 Ways the iPhone Can Save Gas, Time and Money</a><br><span class="postDate">Tuesday, November 11, 2008</span><br clear="all"></li><li><a href="http://blog.owneriq.net/?p=1168"><img src="http://blog.owneriq.net/wp-content/uploads/2008/11/cegift_205.jpg" width="75" border="0">Consumer Electronics Holiday Gift Guide</a><br><span class="postDate">Tuesday, November 11, 2008</span><br clear="all"></li>					</ul>
+					<li><a href="http://blog.owneriq.net/puree-101-basic-guide-to-blending-tool.html"><img src="http://blog.owneriq.net/wp-content/uploads/2009/05/blender_205.jpg" width="75" border="0">Puree 101 - Basic Guide to Blending Tool</a><br><span class="postDate">Thursday, May 14, 2009</span><br clear="all"></li><li><a href="http://blog.owneriq.net/furnace-maintenance-diy-spring-cleaning-tips.html"><img src="http://blog.owneriq.net/wp-content/uploads/2009/05/furnace_205.jpg" width="75" border="0">Furnace Maintenance: DIY Spring Cleaning Tips</a><br><span class="postDate">Thursday, May 14, 2009</span><br clear="all"></li><li><a href="http://blog.owneriq.net/beyond-organic-certifications-and-labels.html"><img src="http://blog.owneriq.net/wp-content/uploads/2009/05/organic_label_205.jpg" width="75" border="0">Beyond Organic: Certifications and Labels</a><br><span class="postDate">Thursday, May 14, 2009</span><br clear="all"></li>					</ul>
 				</div>
 			</div>
 			<br>
@@ -244,7 +267,7 @@ We allow other companies that are presenting advertisements on our sites and, so
 			<div class="rightColBox recentSidebar" id="recentUGCBox">
 				<div class="recentSidebarItem"><h1>Recent User Activity</h1>
 					<ul class="recentArticles">
-					<li><a href="http://audio.manualsonline.com/ex/thread/view/idThread/1270967">LG Shelf Stereo System mcd212-aou</a><br><strong>Please help find the manual for this LG Shelf Stereo System</strong><br>no puedo grabar de cassette a cassette</li><li><a href="http://fitness.manualsonline.com/ex/thread/view/idThread/1270952">Weider Home Gym 4300</a><br><strong>Please help find the manual for this Weider Home Gym</strong><br></li><li><a href="http://laundry.manualsonline.com/ex/thread/view/idThread/1270947">Kenmore Gas Dryer 11078712895</a><br><strong>Please help find the manual for this Kenmore Gas Dryer</strong><br></li><li><a href="http://lawnandgarden.manualsonline.com/ex/thread/view/idThread/1270972">Robin America Portable Generator RGX505</a><br><strong>power drop</strong><br>my generator starts off fine but imediatly loss power the generator not the engine what would cause …</li><li><a href="http://camera.manualsonline.com/ex/thread/view/idThread/1270962">Sanyo Digital Camera VPC-5500</a><br><strong>Flash</strong><br>My flash has quit working and my camera takes 3 copies of all my pics.one clear and two blurry.</li><li><a href="http://camera.manualsonline.com/ex/thread/view/idThread/1270957">Panasonic Camcorder HDC-HS9P/PC</a><br><strong>MAC compatibility</strong><br>I need to get my video clips from my HDC-HS9P Hard Drive onto my Mac computer -- please advise</li><li><a href="http://phone.manualsonline.com/ex/thread/view/idThread/1270942">AT&amp;T Cordless Telephone 25942GE2-A</a><br><strong>delete voice mail calls</strong><br>can't locate pin</li><li><a href="http://homeappliance.manualsonline.com/ex/thread/view/idThread/1270937">Craftsman Garage Door Opener 139.53673SRT3</a><br><strong>Have to hold button down to close</strong><br>Goes up fine, have to hold down button to close. There is a clicking sound (the light flashes on and…</li><li><a href="http://kitchen.manualsonline.com/ex/thread/view/idThread/1270932">Frigidaire Gas Range FGFL7905</a><br><strong>burner ignition</strong><br>igniters will not shutoff</li><li><a href="http://phone.manualsonline.com/ex/thread/view/idThread/1270927">Uniden Corded Telephone ucis135</a><br><strong>the phone keys are blocked</strong><br>when I try to dial a number from the telephone, I can see that this message is `freezes on display: …</li>			
+					<li><a href="http://office.manualsonline.com/ex/thread/view/idThread/428913">Maxtor maxtor peripheral pte one touch</a><br><strong>Instructional Manual download</strong><br>Where can I get a free download of maxtor peripheral pte - one touch product?</li><li><a href="http://tv.manualsonline.com/ex/thread/view/idThread/2113627">JVC Flat Panel Television HD-61G887</a><br><strong>jvc tv</strong><br>i can not get it off digital ch</li><li><a href="http://tv.manualsonline.com/ex/thread/view/idThread/2113842">Whirlpool electric_dryer wed9200sq</a><br><strong>thermal fuse</strong><br>dryer comes on counts down but does not turn heat or any thing else</li><li><a href="http://kitchen.manualsonline.com/ex/thread/view/idThread/2113897">Fisher &amp; Paykel paprika 875557</a><br><strong>re, heating would like to view a manual</strong><br>very hot oven</li><li><a href="http://kitchen.manualsonline.com/ex/thread/view/idThread/2113892">Palsonic Microwave Oven PMO 600</a><br><strong>MANUAL PLEASE</strong><br>WOULD YOU BE ABLE TO EMAIL A MANUAL FOR THE ABOVE MICROWAVE PLEASE</li><li><a href="http://caraudio.manualsonline.com/ex/thread/view/idThread/1658417">Pioneer Car Stereo System 6-Disc CD Payer CDX-FM687</a><br><strong>Please help me find the manual for this Pioneer 6-Disc CD Payer CDX-FM687 Car Stereo System</strong><br></li><li><a href="http://laundry.manualsonline.com/ex/thread/view/idThread/2097617">Speed Queen Clothes Dryer AEM407W</a><br><strong>Putting it back together</strong><br>Hello, I took my dryer apart a couple days ago to replace the element and a drum roller wheel. I got…</li><li><a href="http://portablemedia.manualsonline.com/ex/thread/view/idThread/2112122">Sharper Image Clock Radio Mi602</a><br><strong>outside weather</strong><br>outside weather don,t work</li><li><a href="http://homeappliance.manualsonline.com/ex/thread/view/idThread/2113902">Hotpoint Air Conditioner AEE12DM</a><br><strong>Request for Owner's Manual</strong><br>Hotpoint Airconditionaire  When I bought my airconditionaire I was not given an owners manual. Now I…</li><li><a href="http://tv.manualsonline.com/ex/thread/view/idThread/2113787">Philips Universal Remote PHILIPS Universal Remote</a><br><strong>need to code my remote</strong><br>sanyo tv and rca satelite</li>			
 					</ul>
 				</div>
 			</div>
@@ -275,11 +298,12 @@ We allow other companies that are presenting advertisements on our sites and, so
                     <a href="http://babycare.owneriq.net">BabyCare.OwnerIQ.net</a> | 
 					<a href="http://camera.manualsonline.com">Camera.ManualsOnline.com</a> | 
                     <a href="http://caraudio.manualsonline.com">CarAudio.ManualsOnline.com</a> | 
-					<a href="http://fitness.manualsonline.com">Fitness.ManualsOnline.com</a> | 
+					<a href="http://cellphone.owneriq.net">CellPhone.OwnerIQ.net</a> | 
+					<a href="http://fitness.owneriq.net">Fitness.OwnerIQ.net</a> | 
                     <a href="http://homeappliance.manualsonline.com">HomeAppliance.ManualsOnline.com</a> | 
                     <a href="http://kitchen.manualsonline.com">Kitchen.ManualsOnline.com</a> | 
                     <a href="http://laundry.manualsonline.com">Laundry.ManualsOnline.com</a> | 
-                    <a href="http://lawnandgarden.manualsonline.com">LawnandGarden.ManualsOnline.com</a> | 
+                    <a href="http://lawnandgarden.owneriq.net">LawnandGarden.OwnerIQ.net</a> | 
 					<a href="http://music.manualsonline.com">Music.ManualsOnline.com</a> | 
 					<a href="http://office.manualsonline.com">Office.ManualsOnline.com</a> | 
                     <a href="http://outdoorcooking.manualsonline.com">OutdoorCooking.ManualsOnline.com</a> | 
@@ -293,7 +317,7 @@ We allow other companies that are presenting advertisements on our sites and, so
           </div><!-- end networkFooter -->
           
 			<div id="copyright">
-				<p>Copyright © 2008 OwnerIQ, Inc. All Rights Reserved.  Designated trademarks and brands are the property of their respective owners.
+				<p>Copyright © 2009 OwnerIQ, Inc. All Rights Reserved.  Designated trademarks and brands are the property of their respective owners.
 					<br>
 				OwnerIQ, Inc. · 320 Congress Street · Boston, MA · 02210 · USA
 				  <br>
