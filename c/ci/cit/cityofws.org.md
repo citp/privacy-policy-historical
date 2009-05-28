@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820173049id_/http%3A//www.cityofws.org/Home/HomeCenter/Articles/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528093534id_/http%3A//www.cityofws.org/Home/HomeCenter/Articles/Privacy) for the most accurate reproduction.*
 
 # City of Winston-Salem, NC :: Privacy
 
@@ -16,3 +16,5 @@ We do not collect visitor information except as general web site statistics.  I
 Cookies created on your computer from using City web sites do not contain personally identifiable information and do not compromise your privacy or security. The cookie feature is used to store a randomly generated identifying tag on your computer to remember the pages on this web site that you visit. You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
 
 If you have further questions about cookies, the Computer Incident Advisory Capacity Unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998, of the risks to users of cookies, titled "Information Bulletin 1-034: Internet Cookies".
+
+10/6/2007 
