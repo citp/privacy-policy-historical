@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914213047id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookah-shisha.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528085442id_/http%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.*
 
-# Hookah-Shisha.com Privacy Policy. A secure hookah site you can trust and build confidence in. - Hookah and Shisha Central
+# Hookah-Shisha.com Privacy Policy. A secure hookah site you can trust and build confidence in. at Hookah-Shisha.com
 
 ### Our Commitment To Privacy:
 
@@ -20,30 +20,32 @@ In our commitment to provide the most outstanding customer service possible, we 
 
 ### Cookies:
 
-Hookah-Shisha.com uses "cookies," which is a small collection of data, including the user name and the current date and time, that is sent to your web browser and stored as a text file on your hard drive. Cookies are solely used to identify visitors who have previously registered or visited our website. We do not use cookies to store or view any of your personal information. You have the option to "turn off" the cookies on your web browser and will still be able to access and navigate our website. 
+Hookah-Shisha.com uses "cookies," which is a small collection of data, including the user name and the current date and time, that is sent to your web browser and stored as a text file on your hard drive. Cookies are solely used to identify visitors who have previously registered or visited our website. We do not use cookies to store or view any of your personal information. You must have cookies "enabled" on your browser to place an order on the hookah-shisha.com website. If you do not wish to enable cookies on your browser you may still place your order over our Live Help chats or by telephone. 
 
 ### Our Commitment To Data Security/Credit Card Information:
 
-Hookah-Shisha.com is obligated to protect your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we are given online. We use an SSL (secure socket layer) encryption certificate provided by VeriSign®, the leading SSL Certificate authority enabling secure e-commerce and communications. Hookah-shisha.com does NOT store your credit card number, nor is your credit card number accessible by any employee or affiliate of Hookah-Shisha.com. We process credit card transactions through Linkpoint® International, a leader in e-commerce transactions. 
+Hookah-Shisha.com is obligated to protect your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we are given online. We use an SSL (secure socket layer) encryption certificate provided by VeriSign®, the leading SSL Certificate authority enabling secure e-commerce and communications. Credit card transactions are processed through Linkpoint® International, a leader in e-commerce transactions. 
+
+In an effort to combat credit card fraud and to prevent the purchase of our products by minors, hookah-shisha.com reserves the right to request additional verification before an order is processed and shipped. The information requested may include, but is not limited to, copies of the cardholders ID and/or credit card used to make the purchase. Hookah-shisha.com does not share this information with 3rd parties and it strictly used for verification purposes. 
 
 ### Links to Other Websites:
 
-Hookah-Shisha.com contains hyperlinks to third party Web Sites. Hookah-Shisha.com is not responsible for the privacy practices or the content of said third party Web sites or advertisers. Hookah-Shisha.com does not share any of your personal information to third parties to which we link to.  Please check with those Web sites to determine their privacy policy.
+Hookah-Shisha.com contains hyperlinks to third party Web Sites. Hookah-Shisha.com is not responsible for the privacy practices or the content of said third party Web sites or advertisers. Hookah-Shisha.com does not share any of your personal information to third parties to which we link to. Please check with those Web sites to determine their privacy policy.
 
 ### Disclosure of information to 3rd Parties:
 
 Hookah-Shisha.com may disclose any personal information when required by law or in a good-faith belief that such action is necessary to:
 
-1.  Cooperate with the investigations of purported unlawful activities (including but not limited to: credit card fraud, purchases of our products by minors, and use of our products with      controlled substances) and conform to the edicts of state and federal law or comply with legal process served on Hookah-Shisha.com.  
+1\. Cooperate with the investigations of purported unlawful activities (including but not limited to: credit card fraud, purchases of our products by minors, and use of our products with controlled substances) and conform to the edicts of state and federal law or comply with legal process served on Hookah-Shisha.com.  
 
 
-2.  Protect and defend the rights or property of Hookah-Shisha.com and related properties, or visitors to the Hookah-Shisha.com sites and related properties.
+2\. Protect and defend the rights or property of Hookah-Shisha.com and related properties, or visitors to the Hookah-Shisha.com sites and related properties.
 
-3.  Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the Hookah-Shisha.com network or its related properties.
+3\. Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the Hookah-Shisha.com network or its related properties.
 
 ### Legal Notice:
 
-All Hookahs and smoking accessories sold at Hookah-Shisha.com are intended for legal tobacco smoking use by adults (18 years or older) only. Any other use of such products, by minors or for use with controlled substances is punishable by law.  Credit card fraud is a felony and we will aggressively prosecute anyone attempting to misuse a credit card number. We track every transaction and will use all means available to prosecute persons attempting fraud.  
+All Hookahs and smoking accessories sold at Hookah-Shisha.com are intended for legal tobacco smoking use by adults (18 years or older) only. Any other use of such products, by minors or for use with controlled substances is punishable by law. Credit card fraud is a felony and we will aggressively prosecute anyone attempting to misuse a credit card number. We track every transaction and will use all means available to prosecute persons attempting fraud. 
 
 ### Intellectual Property:
 
