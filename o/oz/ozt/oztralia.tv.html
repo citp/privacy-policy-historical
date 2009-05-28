@@ -1,0 +1,309 @@
+<!--The following is the downloaded HTML source of the oztralia.tv privacy policy that was archived on 2009-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090528134536id_/http%3A//www.oztralia.tv/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="OZtralia.tv is the number one online channel in the world focused on Australian travel and Australia's current events.Kangaroos, Sydney's Opera House, the red outback, and the deep dark blue South Pacific are just some of the amazing things you will find here in Australia." name="description">
+<meta content="australia,australia online,australia video,travel in australia,australia travel info,australia western,australian video,australia online travel" name="keywords">
+<meta name="verify-v1" content="KMMHmDofrNT4WnYmbIvTy/O0YK7luzb8QZNW69RqhUo=">
+<title>OZtralia.tv :: Privacy Policy</title>
+<base href="http://www.oztralia.tv/">
+<link rel="shortcut icon" href="http://www.oztralia.tv/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/oztralia.css">
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/effects.js"></script>
+<script type="text/javascript" src="/js/overlib421/overlib.js"></script>
+<script type="text/javascript" src="/js/email.js"></script>
+<script type="text/javascript" src="js/jBookmarker.js"></script>
+</head>
+<body>
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+<script language="javascript">
+	var http_inv;
+	function handleHttpResponse_req_inv(){
+		if (http_inv.readyState == 4) {
+			var result = http_inv.responseText;
+			document.getElementById("invite_id").innerHTML=result;
+		}
+	}
+	function getHTTPObject() {
+		var xmlhttp;
+		/*@cc_on
+		@if (@_jscript_version >= 5)
+		try {
+		xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+		} catch (e) {
+		try {
+		xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (E) {
+		xmlhttp = false;
+		}
+		}
+		@else
+		xmlhttp = false;
+		@end @*/
+		if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+			try {
+				xmlhttp = new XMLHttpRequest();
+			}         catch (e) {
+				xmlhttp = false;
+			}
+		}
+		return xmlhttp;
+	}
+	function send_inv_request(name_exp,name_dest, email_dest)
+	{
+		url = "http://www.oztralia.tv/invite_a_friend/?mode=1&name_exp="+encodeURI(name_exp)+"&name_dest="+encodeURI(name_dest)+"&email_dest="+encodeURI(email_dest);
+		http_inv.open("GET", url, true);
+		http_inv.onreadystatechange = handleHttpResponse_req_inv;
+		http_inv.send(null);
+	}
+
+	function get_inv()
+	{
+		var name_exp = document.getElementById('name_exp').value;
+		var name_dest = document.getElementById('name_dest').value;
+		var email_dest = document.getElementById('email_dest').value;
+		http_inv=getHTTPObject();
+		document.getElementById("invite_id").innerHTML='Loading ...';
+		send_inv_request(name_exp, name_dest, email_dest);
+	}
+	
+</script>
+
+<table cellpadding="0" cellspacing="0" class="main_table" align="center">
+	<tbody><tr>
+		<td>
+			<table width="975" align="center" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="top">
+						<div class="logo_oz"><a href="/australia-information"></a></div>
+						<!-- <div class="newsletter_home">							
+							<div class="f-r padd_newsletter" >
+								<a href="/subscribe/"><img src="/images/bt_go.gif" alt="" width="18" height="18" border="0" /></a>
+							</div>
+							<div class="f-r padd_newsletter"><input type="text" name="textfield" class="text_box_home" /></div>
+						</div> -->
+					</td>
+				</tr>
+				<tr>
+					<td class="bg_liniuta"><img src="/images/spacer.gif" height="3" width="1" alt=""></td>
+				</tr>
+				<tr>
+					<td>
+						<div class="f-l"><img src="/images/header_imgs/random_header_image13.jpg" alt="australia online,australia video,travel in australia,australia western,australia online travel" width="729" height="154"></div>
+						<div>
+<div id="login_id" class="login_area text_login">
+	<form method="POST" action="/sign_in/" name="user_login" onsubmit="if (!this.username.value.length || !this.password.value.length){alert('Username or Password is not supplied!'); return false;}">
+		<div class="login_boxes">
+			<div style="padding:4px;">Username: <input name="username" id="username" type="text" class="input_text_login"></div>
+			<div style="padding:3px;">Password: <input name="password" id="password" type="password" class="input_text_login"></div>
+		</div>
+		<div class="login_buton">
+			<input type="image" src="/images/bt_go_2.gif" class="bt_go_2">
+		</div>
+	
+	</form>
+	<div class="c-b"></div>
+	<div class="text_login_2"><a href="/lost_password/">Recover password</a><br>
+    <a href="/sign_up/"><b>Create your free OZtralia.tv Account!</b></a></div>
+
+	<div class="c-b"></div>
+
+</div>
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+
+function validate_form()
+{
+	var username = document.getElementById('username');
+	var password = document.getElementById('password');
+
+	if (username.value == '')
+	{
+		alert('Please fill in the username field.');
+		username.focus();
+		return false;
+	}
+	else
+	if (password.value == '')
+	{
+		alert('Please fill in the password field.');
+		password.focus();
+		return false;		
+	}
+	
+	document.getElementById('login_form').submit();
+
+	
+}
+
+
+</script>						
+</div>
+						<div>
+
+<div id="invite_id" style="display: none;" class="invite_area text_login">
+
+<div style="margin: 0; display: block; width: 238px;">	
+	<form action="http://www.oztralia.tv/invite_a_friend/" method="get" name="invite_friend" style="margin: 0; display: inline;" onsubmit="return validate_invite_form();">
+		<div class="login_boxes">
+			<div style="padding: 0 0 6px 0;">Your Name: <input name="name_exp" id="name_exp" type="text" class="input_text_login_invite"></div>
+			<div style="padding: 0 0 6px 0;">Your Friend's Name: <input name="name_dest" id="name_dest" type="text" class="input_text_login_invite"></div>
+			<div style="padding: 0 0 6px 0;">Your Friend's Email: <input name="email_dest" id="email_dest" type="text" class="input_text_login_invite"></div>
+		</div>
+		
+		<div class="login_buton" style="margin-top: 59px;">
+			<input onclick="if (validate_invite_form()) get_inv(); return false;" type="image" src="/images/bt_go_2.gif" class="bt_go_2">
+		</div>
+	</form>
+</div>
+
+
+
+
+<script type="text/javascript" language="javascript">
+	function validate_invite_form()
+	{
+		var name_exp = document.getElementById('name_exp');
+		var name_dest = document.getElementById('name_dest');
+		var email_dest = document.getElementById('email_dest');
+		if (name_exp.value == '')
+		{
+			alert("The name field is mandatory.");
+			name_exp.focus();
+			return false;
+		}
+		if (name_dest.value == '')
+		{
+			alert("The friend's name field is mandatory.");
+			name_dest.focus();
+			return false;
+		}
+		if (email_dest.value == '')
+		{
+			alert("The friend's email field is mandatory..")
+			email_dest.focus();
+			return false;
+		}
+		if (!is_valid_email(email_dest.value))
+		{
+			alert("The friend's email address is incorrect.")
+			email_dest.focus();
+			return false;
+		}
+		return true;
+	}
+</script></div>
+
+<div id="but_func" class="inv_a_friend"><a href="#" onclick="toggleDiv('invite_id', 'login_id'); return false;"></a></div>
+
+
+</div>
+						
+					</td>
+				</tr>
+				<tr><td><img src="/images/spacer.gif" height="1" width="1" alt=""></td></tr>
+				<tr>
+					<td class="menu" align="center">
+						<div class="menu_travel_oz"><a href="/Travel/"></a></div>
+						<div class="menu_video_map"><a href="/australia-online/australia-video/"></a></div>
+						<!-- <div class="menu_this_week"><a href="/this_week/"></a></div> -->
+						<div class="menu_news"><a href="/australia-travel-news/"></a></div>
+						<div class="menu_features"><a href="/australia-features/"></a></div>
+						<div class="menu_community"><a href="/community/"></a></div>
+						<div class="menu_blog"><a href="http://blog.oztralia.tv"></a></div>
+						<div class="menu_your_videos"><a href="/your-australian-video/"></a></div>
+						<div class="menu_about"><a href="/about/"></a></div>
+					</td>
+				</tr>
+				<tr>
+						
+
+<td>
+	<table width="975" align="center" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td class="main_title"><img src="/images/privacy_policy_title.gif" alt="" width="209" height="52"></td>
+		</tr>
+		<tr>
+			<td><img src="/images/spacer.gif" height="1" width="1" alt=""></td>
+		</tr>
+		<tr>
+			<td>
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td width="700" class="list_content_2cols" valign="top">
+							<div class="padd_content">
+<p class="MsoNormal"><b><span lang="EN-AU" style="FONT-SIZE: 9pt; COLOR: rgb(100,100,100); FONT-FAMILY: Arial">OZtralia.tv</span></b><span lang="EN-AU" style="FONT-SIZE: 9pt; COLOR: rgb(100,100,100); FONT-FAMILY: Arial"> <b>Privacy Notice</b> <br><br>OZtralia.tv ("OZtralia.tv ") recognizes that its customers, visitors, users, and others who use OZtralia.tv (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the OZtralia.tv Site. OZtralia.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the OZtralia.tv Site. <br><br>This Privacy Notice is incorporated into and is subject to the OZtralia.tv Terms of Use. Your use of the OZtralia.tv Site and any personal information you provide on the OZtralia.tv Site remains subject to the terms of this Privacy Notice and our Terms of Use. <br><br>Please note that any video, image, or other content posted at the direction of Users onto the OZtralia.tv Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice. <br><b><br>The Information OZtralia.tv Collects </b><br><br><u>User Provided Information</u>: You provide certain personally identifiable information (such as your name and email address) to OZtralia.tv when choosing to participate in various activities on the OZtralia.tv Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. <br><br><u>Cookies Information</u>: When you visit the OZtralia.tv Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. OZtralia.tv uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the BodyArchitect.tv Site may not function properly if the ability to accept cookies is disabled. <br><br><u>Log File Information</u>: When you use the OZtralia.tv Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. <br><u><br>Clear GIFs Information</u>: When you use the OZtralia.tv Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. <br><br><b>The Way OZtralia.tv Uses Information </b><br><br>If you submit personally identifiable information to us through the OZtralia.tv Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the OZtralia.tv Site. <br><br>Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the OZtralia.tv Site and other Users can contact you through messages and comments. Any videos that you submit to the OZtralia.tv Site may be redistributed through the internet and other media channels, and may be viewed by the general public. <br><br>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major OZtralia.tv Site changes or for customer service purposes). <br><br>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the OZtralia.tv Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. <br><br>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the OZtralia.tv Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. <br><br><b>When OZtralia.tv</b> <b>Discloses Information </b><br><br>We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. <br><br>We do not share your personally identifiable information, such as name or email address, with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. <br><br>We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the OZtralia.tv Site. <br><br>We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. <br><br>OZtralia.tv also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that OZtralia.tv believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of OZtralia.tv, our Users or others. <br><br><b>Your Options </b><br><br>You may, of course, decline to submit personally identifiable information through the OZtralia.tv Site, in which case OZtralia.tv may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the OZtralia.tv Site cannot be removed and remain subject to our Terms of Use. <br><br>To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. <br><br>Please contact OZtralia.tv with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this contact form. <br><br><b>Third-party Advertisers, Links to Other Site </b><br><br>OZtralia.tv allows other companies, called third-party ad servers or ad networks, to serve advertisements within the OZtralia.tv Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the OZtralia.tv Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. <br><br>OZtralia.tv does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks OZtralia.tv to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the OZtralia.tv Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. <br><br>You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. OZtralia.tv ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Site. <br><br><b>Our Commitment To Data Security </b><br><br>OZtralia.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to OZtralia.tv and you do so at your own risk. Once we receive your transmission of information, OZtralia.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. <br><br>If OZtralia.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. OZtralia.tv may post a notice on the OZtralia.tv Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this contact form. <br><br><b>Our Commitment To Childrens' Privacy </b><br><br>We are committed to protecting the privacy of young children. For that reason, OZtralia.tv does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the OZtralia.tv Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then do not use or access the OZtralia.tv Site at any time or in any manner. If OZtralia.tv learns that personally identifiable information of persons under 13 years of age has been collected on the OZtralia.tv Site without verified parental consent, then OZtralia.tv will take the appropriate steps to delete this information. <br><br><b>Special Note to International Users </b><br><br>The OZtralia.tv Site is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the OZtralia.tv Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the OZtralia.tv Site, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. <br><br><b>Merger, Sale, or Bankruptcy </b><br><br>In the event that OZtralia.tv is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. <br><br><b>Changes and updates to this Privacy Notice </b><br><br>This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the OZtralia.tv Site constitutes your agreement to this Privacy Notice and any future revisions. <br><br>For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. <br><br><b>Date Last Modified: </b><br>This Privacy Notice was last modified May 1, 2007. <br><br><b>Contact Information: </b><br>Please contact OZtralia.tv with any questions or comments about this Privacy Notice using this contact form. <!--?XML:NAMESPACE PREFIX = O /--><o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="EN-AU"></span></p></div>
+						</td>
+						<td align="center" width="275" valign="top">
+						<div class="newsletter_interior_box">
+							<form style="display:inline; margin:0px;" name="newsletter" action="/subscribe/" method="post" onsubmit="return checkEmail2(document.forms['newsletter'].email.value, 'email', 'Warning! The email address is not valid. Please try again.');">
+							<div class="align_textbox_2"><input type="text" name="email" id="email" class="text_box_2" value="e-mail address" onfocus="if (this.value=='e-mail address') this.value='';"></div>
+
+							<div class="f-r padd_newsletter" style="padding: 74px 30px 0 0;">
+								<input type="image" src="/images/bt_go_2.gif" class="bt_go_2">
+							</div>
+							<div class="c-b"></div>
+						</form>
+						</div>
+
+						<br>
+							<span class="advertisment_title">advertisement</span><br><br>
+							<a href="http://www.networkglobal.tv/" title="" target="_blank"><img src="/images/banners/network_global_ad2.jpg" alt="" border="0"></a>
+							<br>
+						</td>
+					</tr>
+				</tbody></table>
+
+				
+			</td>
+		</tr>
+	</tbody></table>
+
+	<div class="c-b text_footer">We want you to experience the excitement of <b>Australia</b>. OZtralia.tv is designed to give you a unique look at <b>Australia</b> through video, before you visit. When you <b>travel in Australia</b> and see the country with your own eyes, we hope that our <b>Australia video</b> coverage helps you have an exhilarating time in the country.
+
+Experiencing <b>Australia online</b>, through video on OZtralia.tv, will enable you to create a dynamic and exciting travel experience in <b>Australia</b>. The OZtralia.tv team is dedicated to the theme "Seeing is Believing". We hope you enjoy experiencing the soul of <b>Australia</b>.</div>
+</td>
+				</tr>
+			</tbody></table>
+		</td> 
+	</tr>	
+	<tr>
+		<td><img src="/images/img_footer.gif" alt="" width="996" height="15"></td>
+	</tr>	
+</tbody></table>
+
+<table width="996" cellpadding="3" cellspacing="3" border="0" align="center">
+<tbody><tr>
+	<td align="center" class="link_footer border1" style="background:none;">
+		<a href="/advertise/">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact/">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms/">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/">Privacy Policy</a> 
+	</td>
+</tr>
+<tr>
+	<td>
+		<div class="f-l link_footer">
+		Copyright 2007 - 2009 OZtralia.tv, LLC All rights reserved.<br>
+		A <a href="http://www.networkglobal.tv" target="_blank">NetworkGlobal.tv </a>Family Member
+		</div>
+		<div class="f-r link_footer"><a href="http://www.zitec.ro">solution by Zitec</a></div>
+	</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1338171-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>
