@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926132020id_/http%3A//iamthetrend.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528071849id_/http%3A//www.iamthetrend.com/content/privacy-policy) for the most accurate reproduction.*
 
-# I AM THE TREND: INDIE CLOTHING DIRECTORY
+# I Am The Trend: Privacy Policy
 
 Privacy Policy Statement  
-This is the web site of iamthetrend.com.
+This is the web site of **iamthetrend.com.**
 
 Our postal address is  
 738 Southwind Dr  
@@ -34,6 +34,10 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.  
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+
+IAMTHETREND.COM can in no way guarantee your company gets a certain amount of business or traffic from our site, We do our best to promote our website and also maintain a professionally working and looking website. Any questions, comments, or complaints can be sent to info@iamthetrend.com
+
+You may request to remove your company page at any time by emailing us at info@iamthetrend.com
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
