@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sometrics.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219044858id_/http%3A//www.sometrics.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sometrics.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528183147id_/http%3A//www.sometrics.com/corp/privacy) for the most accurate reproduction.*
 
 # Sometrics - Social Advertising, Analytics - Quantitative ROI for Media and Brand Marketing
 
@@ -42,12 +42,3 @@ In order to gather and aggregate statistical data for our customers, we may from
 ### Data Security
 
 The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information collected by us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
-
-### Mailing Address
-
-Sometrics, Inc.  
-448 S. Hill St.  
-Suite 515  
-Los Angeles, CA  
-90013  
-
