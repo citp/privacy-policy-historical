@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218083531id_/http%3A//www.peopleclick.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529222850id_/http%3A//www.peopleclick.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Peopleclick Privacy Policy
 
-Peopleclick provides web-based service software to recruit and manage our client's permanent and contract workforce, as well as integrated EEO software and expertise in affirmative action and diversity planning. In providing the above listed services, Peopleclick and its agents and subcontractors (hereinafter referred to as "Peopleclick";) may have access to certain personally identifiable information. Personal data that may be maintained by Peopleclick on behalf of our clients include, but is not limited to names, contact information, CV or resume, data of birth, national insurance numbers, social security numbers, salary, and race and ethnic origin.
+Peopleclick provides web-based service software to recruit and manage our client's permanent and contract workforce, as well as integrated EEO software and expertise in affirmative action and diversity planning. In providing the above listed services, Peopleclick and its agents and subcontractors (hereinafter referred to as "Peopleclick") may have access to certain personally identifiable information. Personal data that may be maintained by Peopleclick on behalf of our clients include, but is not limited to names, contact information, CV or resume, data of birth, national insurance numbers, social security numbers, salary, and race and ethnic origin.
 
 Peopleclick takes technical, contractual, administrative and physical steps to protect against unauthorized access to and disclosure of individually identifiable information. If, during their employment, Peopleclick employees acquire confidential or proprietary information belonging to Peopleclick or its clients, such information will be handled in confidence and may not be disclosed to unauthorized third parties. Peopleclick employees are also responsible for the internal security of such information. 
 
@@ -22,6 +22,6 @@ The Peopleclick.com Web site may contain links to other Web sites. Peopleclick i
 
 An individual wishing to review or update personal data maintained in the Peopleclick system should initially contact the third party company to whom they have indicated an interest in employment. If the third party company is unable or unwilling to resolve the discrepancy, the individual should contact the Peopleclick Data Security Officer. 
 
-Peopleclick is committed to cooperating with the EU Data Protection Authorities or their authorized representatives as an Independent third party recourse mechanism for any individual who believes their personal data protection has been violated.
+Peopleclick conforms to Safe Harbor Principles and is committed to cooperating with the EU Data Protection Authorities or their authorized representatives, as an Independent third party recourse mechanism for any individual who believes their personal data protection has been violated.
 
 The United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against the organization regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy.
