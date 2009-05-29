@@ -1,27 +1,19 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023957id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529065143id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
-# Action Figures, Toys, Gifts, and Collectibles at Entertainment Earth
+# Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
 |  |    |  |     
 ---|---|---  
   |  |     
   |  |     
-  |   
-  |    
-|     
+  |  |     
   |  **CONTACT US** |     
   |    
 Order by Phone:  
 1-800-370-2320
 
 Monday - Friday:  
-7:00am - 5:30pm   
-Pacific Time
-
-Saturdays:  
-Nov. 22, 29 and   
-Dec. 6, 13,   
-10:00am to 2:00pm   
+7:30am - 5:00pm   
 Pacific Time
 
 Client Services:  
