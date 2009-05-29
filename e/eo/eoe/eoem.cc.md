@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920040825id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529035441id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
 
-# Privacy Policy_Detail Info_Information_Eoem Online Wholesale Shop - Phone Service Devices Sparepart Repairing Tools and any more
+# Privacy Policy_Detail Info_Information_Wholesale - China Wholesale - Buy Wholesale Products from Chinese Wholesaler
 
-| 
-
-Privacy Policy
-
-|   
----|---|---  
-  
   **Last modified: August 8, 2008**
 
 At Eoem we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Eoem Co.,LTD. or its subsidiaries or affiliated companies , In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information.
