@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220040810id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530005218id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Search Forecast - Privacy Policy, SEO, Post Free Classifieds, Lead Generation, Website Optimization - Marc Phillips
 
