@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052815id_/http%3A//business.rapleaf.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529080931id_/http%3A//www.rapleaf.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Rapleaf Business: Rapleaf Privacy Statement
+# Rapleaf Business: Privacy - Rapleaf Privacy Statement
 
 _**Last Updated: July 17, 2008**_
 
@@ -8,7 +8,7 @@ Rapleaf respects your privacy. This Privacy Statement is intended to answer ques
 
 Rapleaf is a pioneering information provider that believes in the power of transparency, choice, and control when it comes to personal information online. We view privacy and security as fundamental design requirements in our technologies and services and core to our business practices and operations. We collect and index personal and non-personal information from openly available sources on the web, including forums, review sites, social networks, commerce sites, message boards, and other sites where individuals post information about themselves.
 
-This Privacy Statement applies to all websites and domains maintained by Rapleaf, including rapleaf.com, blog.rapleaf.com, and business.rapleaf.com. 
+This Privacy Statement applies to all websites and domains maintained by Rapleaf, including rapleaf.com, blog.rapleaf.com, and www.rapleaf.com. 
 
 |   |  |   
 ---  
@@ -116,7 +116,7 @@ Under certain circumstances personal information may be subject to disclosure pu
 
 We are committed to ensuring the quality and accuracy of the personal information maintained by Rapleaf. After signing in as a member, you can access, review, and change your registration information at any time. You may change your password, username, name, and any other communication preferences within our system. You may access other information collected and processed about yourself and adjust the display settings, including subscribing or unsubscribing to any email communications from Rapleaf.
 
-We also provide anyone the opportunity to permanently opt-out of our services. Upon receiving an opt-out request, we will send a confirmation to the email address you enter. You must respond to this email to complete the process. For additional information or to opt-out an email address now, see <http://www.rapleaf.com/opt_out>.
+We also provide anyone the opportunity to permanently opt-out of our services. Upon receiving an opt-out request, we will send a confirmation to the email address you enter. You must respond to this email to complete the process. For additional information or to opt-out an email address now, see [/opt_out](https://web.archive.org/opt_out).
 
 We provide our business customers with the means to access, review, update, and/or delete information they have submitted to Rapleaf. We ask our business customers to work through their Rapleaf contact to take advantage of any of these mechanisms.
 
