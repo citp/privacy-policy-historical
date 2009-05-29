@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatemple.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092508id_/http%3A//www.mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatemple.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529022923id_/http%3A//www.mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
 
 # (mt) Media Temple - Company - Legal - Privacy Policy
 
