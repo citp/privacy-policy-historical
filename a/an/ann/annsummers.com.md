@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035414id_/http%3A//www.annsummers.com/webapp/wcs/stores/servlet/StaticPage_40151_PRIVACY_-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529034822id_/http%3A//www.annsummers.com/webapp/wcs/stores/servlet/StaticPage_40151_PRIVACY_-1_10001) for the most accurate reproduction.*
 
 # Ann Summers - ANN SUMMERS PRIVACY POLICY
 
