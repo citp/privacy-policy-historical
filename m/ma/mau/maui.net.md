@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maui.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172025id_/http%3A//www.maui.net/site-info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maui.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529072422id_/http%3A//www.maui.net/site-info/privacy_policy.php) for the most accurate reproduction.*
 
 # Maui Net: Visitor Information For Your Maui Vacation | Maui.Net - All Things Maui
 
