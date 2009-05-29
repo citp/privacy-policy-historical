@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2008-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081020004643id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529235421id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
-This Web site (the "Site") is operated by TripAdvisor LLC, 464 Hillside Ave., Suite 304, Needham, MA 02494, USA.
+This Web site (the "Site") is operated by TripAdvisor LLC, 141 Needham Street, Newton, MA 02464, USA.
 
 TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of August 6, 2007, and governs the collection and use of personal information through this Site on or after this date.
 
