@@ -1,5 +1,7 @@
-> *The following text is extracted and transformed from the guidestar.org privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231072117id_/http%3A//www.guidestar.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestar.org privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530004040id_/http%3A//www2.guidestar.org/rxg/privacy-policy.aspx) for the most accurate reproduction.*
 
-# GuideStar - Privacy Policy
+# Privacy Policy
+
+[Home](https://web.archive.org/Home.aspx) > Privacy Policy
 
 GuideStar values your privacy. Although GuideStar compiles standard log files to measure the GuideStar Site's traffic, users' e-mail addresses in these files are used only to monitor appropriate use of the GuideStar Site. GuideStar does not share e-mail addresses or other personal information provided by GuideStar Participants, GuideStar Basic users, GuideStar Premium users, newsletter subscribers, and customers who purchase or subscribe to our products and services, except to the extent necessary to complete transactions. Information collected from log files and our users is utilized to improve the GuideStar Site, products, and services and is not shared with other organizations or individuals.
