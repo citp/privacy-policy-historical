@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044749id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529045737id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Bronto Software
 
