@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominionenterprises.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031103id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominionenterprises.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529020845id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
 # Dominion Enterprises | Privacy Policy
 
