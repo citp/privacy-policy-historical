@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveindia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050710id_/http%3A//www.iloveindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveindia.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529024727id_/http%3A//www.iloveindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # iLoveIndia - Privacy Policy.
 
@@ -39,3 +39,9 @@ Members can edit their iLoveIndia User Account Information and iLoveIndia profil
 Our members are our assets and we will never knowingly do anything to harm this trust. Any information given voluntarily to us by you is used to enhance your experience on our site, to provide you with interactive or personalized elements on the sites and to better prepare for future content based on your areas of interests. We gather this information to determine which areas are liked by our site members and which are not liked based on the traffic to those areas.
 
 We don't track what individual members read, but rather try to determine how well each page performs. This helps us continue to provide better services to you. We also use the information that is gathered to tailor the content to best suit your needs and help our advertisers better understand our members.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
