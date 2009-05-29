@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161353id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529040509id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -20,11 +20,10 @@
 [Sitemap](http://www.java-tips.org/sitemap/)  
 Java Network   
 ---  
-|  [Java Forums](http://www.java-forums.org/)  
   
----  
-[Java Tips Blog](http://www.java-tips.org/blog/)  
-  
+[Java Forums](http://www.java-forums.org/)  
+
+
   
   
   
@@ -57,7 +56,7 @@ Top Rated Tips
 
 Statistics   
 ---  
-| Registered Users: | 769  
+| Registered Users: | 770  
 ---|---  
 Java SE Tips:|  614  
 Java ME Tips:|  201  
