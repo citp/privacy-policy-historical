@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512021532id_/http%3A//www.myapartmentmap.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529151936id_/http%3A//www.myapartmentmap.com/privacy_policy.php) for the most accurate reproduction.*
 
-# MyApartmentMap Apartment Rental Search. Boston Apartments, New York Apartments
+# My Apartment Map Apartment Rental Search. Map Based Listings of Apartments for Rent
 
 #### Effective 02/01/2008 
 
