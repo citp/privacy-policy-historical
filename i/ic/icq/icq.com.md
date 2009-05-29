@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025656id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529065750id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
 
 # The ICQ Privacy Policy - ICQ Terms Of Service - ICQ.com
 
@@ -114,6 +114,8 @@ You should be aware that communications over the Internet are not secure unless 
 **European Union Members - International Transfer of Data**
 
 The ICQ Services is international in scope. By using the ICQ Services you consent to your ICQ Services Information being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
+
+ICQ LLC. is a division of AOL LLC and adheres to the EU-US Safe Harbor Privacy Principles. [Click here](http://about.aol.com/aolnetwork/safe_harbor) for more information. 
 
 **Special Note for Parents**
 
