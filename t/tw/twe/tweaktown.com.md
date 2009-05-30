@@ -1,32 +1,42 @@
-> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202013700id_/http%3A//www.tweaktown.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530051558id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
 
-# TweakTown
+# Legal and Privacy Policy
 
-**TweakTown Privacy Statement  
-**TweakTown has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+**By accessing the TweakTown website and its subdomains, you agree to the following Terms and Conditions**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather demographic information for audience analysis. Nothing more, nothing less.
+All content (including the name "TweakTown" as well as any combinations and site design) copyright Tweak Town Pty Ltd registered in Australia (herein referred to as Tweak Town Pty Ltd) by Australian copyright laws and International Treaties, all rights reserved. 
 
-We recognizes the importance of protecting the privacy of you as a user of this website. This website does not collect personal information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.) The personal information you do submit will not in any circumstance be sold to third party companies.
+All information and contents posted on TweakTown are the property of TweakTown Pty Ltd, and are protected by Australian and foreign copyright and trademark laws. While every care has been taken in the preparation of this online publication, we cannot be held responsible for the accuracy of the information contained throughout the website. E&OE. 
 
-We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this website.
+Reproduction or distribution of content whole or part, either "online" or "offline", must have prior written consent. 
 
-This site contains links to other sites. TweakTown is not responsible for the privacy practices or the content of such websites.
+Tweak Town Pty Ltd will not accept any responsibilities for personal opinions or suggestions expressed in Articles, Guides, Reviews or any other form of content published by Tweak Town Pty Ltd staff or its affiliated members. 
 
-Sometimes our online surveys may ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Content not owned by Tweak Town Pty Ltd, published, is copyright of their respective owners. 
 
-We use a outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our website. Our website does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+Tweak Town Pty Ltd will not take any responsibility for any software or hardware damage due to the use of guide related content on TweakTown or any affiliated members or links. The work you conduct on your PC through advice given by Tweak Town Pty Ltd is done by choice and as such, you are responsible for any damages, which may occur. 
 
-**Security  
-**This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, in the event of a security breach of this site please note that no personal information of the visitors would be accessible online as none are stored locally.
+In accordance with Section 91 of the Broadcasting Services Act Australia, Tweak Town Pty Ltd will not be held responsible for personal opinions or suggestions expressed in the TweakTown Forums or any other part of the Web Site where users have the option to interact, such as User Reviews and News Comments.
 
-**Public Forums  
-**This site makes chat rooms, forums and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+  
 
-**Contacting Us  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this website you can contact,
 
-Cameron Wilmot - CEO of TweakTown
+**The privacy of our visitors to TweakTown.com is important to us.**
 
-[camwilmot@tweaktown.com](mailto:camwilmot@tweaktown.com)  
+At TweakTown.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TweakTown.com, and how we safeguard your information. We never sell your personal information or email address to third parties.
 
+**Log Files**
+
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+
+**Cookies and Web Beacons**
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on TweakTown.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+**Interest-based Advertising**
+
+We use interest-based advertising which allows advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, our partner Google Adsense recognizes the types of web pages you visit throughout the Google content network. As an example, if you visit a number of sports pages, we will add you to the "sports enthusiast" interest category.
