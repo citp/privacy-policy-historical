@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045803id_/http%3A//www.naturalcures.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530054430id_/http%3A//www.naturalcures.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NaturalCures.com
 
-[>> Home Page](https://web.archive.org/index.aspx) >> Privacy Policy
-
 Natural Cures (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users' right to privacy to guide our relationships with our users.
 
--The kinds of personal information we collect from users of the Site and how that information is collected;  
--How we use your personal information;   
--The circumstances under which we disclose personal information to third parties; and   
--The mechanisms we have implemented to protect your personal information.
+  * The kinds of personal information we collect from users of the Site and how that information is collected;
+  * How we use your personal information; 
+  * The circumstances under which we disclose personal information to third parties; and 
+  * The mechanisms we have implemented to protect your personal information.
+
+
 
 We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only to transactions made and data gathered on web pages, discussion lists and opt-in announcement lists owned and operated by NCI and does not apply to any other transactions, information, web site or Internet, telephone or offline point of contact between NCI and you or other consumers. As we continue to develop our Site and take advantage of technologies to improve the services we offer, this policy may change. Such revisions shall be effective to you immediately upon posting. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
 
@@ -43,49 +43,48 @@ Wherever NCI collects personal information we make an effort to include a link t
 
 ### Who do we share our information with?
 
-> **Companies That Help Deliver NCI Products or Services**
-> 
-> Sometimes we hire companies to help us deliver products or services (including processing your transaction, vendor direct shipping, credit card authorization and fraud prevention). In those instances, we need to share your information with these companies. Sometimes we also work with other companies who assist us in gathering your information in order to enable us and the other businesses of NCI to provide you products and services. All of these companies are only allowed to use your information for delivery of the product or service.
-> 
-> **Companies Offering Promotions, Products, or Services**  
->  On occasion, NCI may share your information with other unrelated outside third parties selected by us, so that these third parties can directly market their products or services via e-mail, telephone and/or postal mail.
-> 
-> **Information Sharing Between Affiliates**  
->  NCI reserves the right to share your personally identifiable information, including but not limited to your email, postal address, phone number and purchase history, with its Affiliates. NCI may share your personally identifiable information with Affiliates in order to conduct promotions, offer special premiums, and share databases and equipment. We reserve the right to share your information with other companies that become Affiliates.
-> 
-> **Third-Party Advertisers**  
->  Once you've clicked on a third-party advertisement and have left our Web site, our Privacy Policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
-> 
-> **Purchase or Sale of Businesses**  
->  As NCI continually strives to improve our business, from time to time, NCI may purchase a business or sell one or more of its businesses, and personally identifiable information regarding you may be transferred as a part of the purchase or sale. If NCI purchases a business, the personally identifiable information received with that business would be treated in accordance with the privacy policy of that business on the date of sale. If NCI and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party. NCI will make reasonable efforts to include provisions in the selling contract to require the purchaser to treat your personally identifiable information in the same manner you requested under this Privacy Policy.
-> 
-> **Content Partners**  
->  On some of our sites, we provide content that is created by a third-party partner Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between NCI and our third-party sponsors. These third parties will receive your information because you will be visiting their Web sites or using their links and, in doing so, you may provide information directly to them. You therefore should refer to their privacy policies to understand how they handle your information and what kinds of choices you have.
-> 
-> On some of our sites, NCI may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you.
-> 
-> You also may make a purchase from NCI through a link from another Web site or search engine and may use their express checkout tool to do so. When you do, please be aware that both NCI and that Web site or search engine will receive your information.
-> 
-> **Mandatory Disclosures Required By Law**  
->  NCI will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
-> 
-> 1) Conform to the edicts of the law or comply with legal process served on NCI,
-> 
-> 2) Protect and defend the rights or property of the NCI Network of sites and related properties, or visitors to the NCI Network of sites and related properties,
-> 
-> 3) Identify persons who may be violating the law, the NCI Terms of Use Agreement, the rights of third parties, or otherwise misusing the NCI Network or its related properties,
-> 
-> 4) Cooperate with the investigations of purported unlawful activities. 
+**Companies That Help Deliver NCI Products or Services**  
+Sometimes we hire companies to help us deliver products or services (including processing your transaction, vendor direct shipping, credit card authorization and fraud prevention). In those instances, we need to share your information with these companies. Sometimes we also work with other companies who assist us in gathering your information in order to enable us and the other businesses of NCI to provide you products and services. All of these companies are only allowed to use your information for delivery of the product or service.
+
+**Companies Offering Promotions, Products, or Services**  
+On occasion, NCI may share your information with other unrelated outside third parties selected by us, so that these third parties can directly market their products or services via e-mail, telephone and/or postal mail.
+
+**Information Sharing Between Affiliates**  
+NCI reserves the right to share your personally identifiable information, including but not limited to your email, postal address, phone number and purchase history, with its Affiliates. NCI may share your personally identifiable information with Affiliates in order to conduct promotions, offer special premiums, and share databases and equipment. We reserve the right to share your information with other companies that become Affiliates.
+
+**Third-Party Advertisers**  
+Once you've clicked on a third-party advertisement and have left our Web site, our Privacy Policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
+
+**Purchase or Sale of Businesses**  
+As NCI continually strives to improve our business, from time to time, NCI may purchase a business or sell one or more of its businesses, and personally identifiable information regarding you may be transferred as a part of the purchase or sale. If NCI purchases a business, the personally identifiable information received with that business would be treated in accordance with the privacy policy of that business on the date of sale. If NCI and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party. NCI will make reasonable efforts to include provisions in the selling contract to require the purchaser to treat your personally identifiable information in the same manner you requested under this Privacy Policy.
+
+**Content Partners**  
+On some of our sites, we provide content that is created by a third-party partner Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between NCI and our third-party sponsors. These third parties will receive your information because you will be visiting their Web sites or using their links and, in doing so, you may provide information directly to them. You therefore should refer to their privacy policies to understand how they handle your information and what kinds of choices you have.
+
+On some of our sites, NCI may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you.
+
+You also may make a purchase from NCI through a link from another Web site or search engine and may use their express checkout tool to do so. When you do, please be aware that both NCI and that Web site or search engine will receive your information.
+
+**Mandatory Disclosures Required By Law**  
+NCI will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
+
+  1. Conform to the edicts of the law or comply with legal process served on NCI,  
+
+  2. Protect and defend the rights or property of the NCI Network of sites and related properties, or visitors to the NCI Network of sites and related properties,
+  3. Identify persons who may be violating the law, the NCI Terms of Use Agreement, the rights of third parties, or otherwise misusing the NCI Network or its related properties,
+  4. Cooperate with the investigations of purported unlawful activities. 
+
+
 
 ### Your Control Over Your Personal Information
 
-> **Opt-Out**  
->  Every communication NCI sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Please allow five to seven days for processing. Permission changes will however not affect any information which you provided to us and which we previously shared with third parties and/or Content Partners.
+**Opt-Out**  
+Every communication NCI sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Please allow five to seven days for processing. Permission changes will however not affect any information which you provided to us and which we previously shared with third parties and/or Content Partners.
 
 ### OTHER MATTERS
 
 **Your California Privacy Rights**  
-As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to this Site who are residents of California to request information regarding NCI's disclosure of their information to third parties for direct marketing purposes. To make such a request, please send an e-mail to our customer privacy care center at [privacy@itvcorporate.com](mailto:privacy@itvcorporate.com). 
+As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to this Site who are residents of California to request information regarding NCI's disclosure of their information to third parties for direct marketing purposes.
 
 **Data Security**  
 NCI is committed to doing its best to maintain the security of information collected on our site.  
