@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160840id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531012021id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Varsity
+# Cheerleading & Dance Uniforms & Events - Varsity.com
 
 To view this site, you need to have Flash Player 9.0 or later installed. Click [here](http://www.macromedia.com/go/getflashplayer/) to get the latest Flash player. 
 
@@ -52,7 +52,7 @@ Your profile information (any demographic information you provide to Varsity.com
 
 We use 'cookies' to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit the site. For more information on cookies and why we use them, please read our Varsity.com Frequently Asked Question (FAQ) page.
 
-**Agreement, Interactive Features Guidelines and policies ** | back to top
+**Agreement, Interactive Features Guidelines and policies **| back to top
 
 From time to time, we'll make our visitorship list available to carefully selected outside organizations. We may also send approved commercial communications to visitors on behalf of outside parties. If you do not want your name, address, e-mail address or other personal information to be provided for such purposes, indicate your intent by going to Visitor Preferences and choosing to opt out. 
 
@@ -60,17 +60,17 @@ Varsity.com uses strict procedures and safeguards designed to protect the privac
 
 Varsity.com complies in all respects with the Electronic Communications Privacy Act of 1986, as amended, ('ECPA'). Subject to the subpoena, warrant, consent, and court order provisions of ECPA, we must provide visitor information and/or Internet communications to the proper authorities.
 
-**AggregateInformation ** | back to top
+**AggregateInformation **| back to top
 
 Varsity.com tracks the total number of visitors to each of our pages in an aggregate form to allow us to update and improve our sites. Personally identifiable information is not extracted in this process. Varsity.com may use or disclose aggregated (not personally identifiable) information for any purpose. 
 
 On a limited basis, we use 'cookie' technology. Cookies are pieces of information that an Internet site transfers to your hard drive for record-keeping purposes. Our servers then use these cookies to make your sessions easier by saving your preferences while you are on Varsity.com pages. The use of cookies is an industry standard -- you'll find them almost everywhere on the Internet. Our cookie usage is single session-only information, and is not stored across multiple sessions. There are two cookies used throughout our site. The first cookie allows us to know who the Visitor is and that he or she properly authenticated into our network. This cookie information can be used to retrieve personal information needed during the Visitor session, for example, to build your customized pages. Personal user information is stored only temporarily in this cookie. Once this information is retrieved for this purpose, the visitor identity is not stored or used for any other purpose. The second cookie is an 'advertising' cookie which we use to keep track of the ads you have seen. Varsity.com tracks which ads have been viewed, and we tie it to demographic data, but not to personally identifiable information. Remember, this describes cookie usage ONLY on Varsity.com (and its affiliate) sites. We have no control over the use of cookies by other Internet sites and their owners. 
 
-**E-Commerce ** | back to top
+**E-Commerce **| back to top
 
 If you make a purchase from a store hosted by Varsity.com (please note that this does NOT include linked e-commerce sites where the 'Return to Varsity.com' phrase appears in the frame), you need to review the merchant's privacy policy prior to providing them with your information. The information obtained during your visit to those stores, and the information you give such as your credit card number and contact information, is provided to the merchants. This is to enable transactions to take place and for the items to be shipped to you. However, these merchants, by contract, cannot use this information for any other purpose without your permission. For example, the merchant may ask if you would like to receive marketing information directly from them. If you choose to receive this information (by checking an 'opt-in' box at the point of purchase), you will receive marketing information directly from the merchant in the future until such time as you ask them directly to be taken off of their distribution list. While we encourage all of our merchant partners to adhere to a privacy policy, it is a good idea to read the merchant's privacy policy yourself before agreeing to give them permission to use your personal information for marketing purposes. For example, their privacy policy may not prevent them from selling or sharing your personal information with other third parties. If you do not grant our merchant partners permission to contact you with marketing information (which will be signified by checking an 'opt-out' box at the point of purchase or by leaving an 'opt-in' box blank), the merchant is prohibited from contacting you directly, except to communicate customer service information regarding a specific purchase and cannot share or sell any of your information to third parties.
 
-**A Special Note Concerning Privacy andChildren Online ** | back to top
+**A Special Note Concerning Privacy andChildren Online **| back to top
 
 Although the Internet offers a wealth of information and exciting opportunities to explore, some of its content may not be suitable for children. Understandably, as the popularity of the Internet has grown, so have concerns among parents. Varsity.com believes that parents should supervise their children's online activities and suggests that they consider using parental control tools such as Cyber Patrol, and software manufacturers that help provide a child-friendly online environment. 
 
@@ -125,6 +125,6 @@ Because some of the content on the Internet consists of material that is adult-o
 
 Varsity.com recommends that to avoid any such surprises, you take advantage of the access controls that Varsity.com offers, as we discuss above, and be diligent in your supervision of any children you allow to use Varsity.com Internet. 
 
-**ContactInformation ** | back to top
+**ContactInformation **|  back to top
 
 For answers to specific concerns regarding privacy that are not addressed here, see our About Us and Reporting Violations sites. These sites provide information on whom and how to contact us at Varsity.com. 
