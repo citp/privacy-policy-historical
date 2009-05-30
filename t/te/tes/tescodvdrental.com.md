@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625095808id_/http%3A//www.tescodvdrental.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530190423id_/http%3A//www.tescodvdrental.com/info/privacypolicy.html) for the most accurate reproduction.*
 
-# Tesco DVD Rental
+# 
 
-Tesco DVD Rental (a trading name of LOVEFiLM International Ltd. ) recognises that your privacy is very important to you and that it is your right to control your personal information. We know that providing personal information is an act of trust and we take that trust seriously. Tesco DVD Rental will _never_ sell, rent or otherwise disclose any of your personal information, including your Email address, to any third party without your consent. Unless you give us specific consent to act otherwise, the following policies will govern how Tesco DVD Rental handles the personal information that you provide to us.
+We wanted to let you know of a change we have made to the Lovefilm group, which operates Tesco DVD Rental. With effect from 1 November 2008, your contract and account information were transferred from Video Island Entertainment Limited to LOVEFiLM UK Limited. LOVEFiLM UK Limited is another member of the LOVEFiLM group of companies (like Video Island Entertainment Limited is). Don't worry, everything else stays the same and you don't have to do anything. We have made the small changes necessary to our Terms and Conditions and Privacy Policy to reflect this transfer.
+
+Tesco DVD Rental (a trading name of LOVEFiLM UK Limited. ) recognises that your privacy is very important to you and that it is your right to control your personal information. We know that providing personal information is an act of trust and we take that trust seriously. Tesco DVD Rental will _never_ sell, rent or otherwise disclose any of your personal information, including your Email address, to any third party without your consent. Unless you give us specific consent to act otherwise, the following policies will govern how Tesco DVD Rental handles the personal information that you provide to us.
 
 This Privacy Policy sets out:
 
@@ -95,7 +97,7 @@ Companies and individuals registered in the Tesco DVD Rental Affiliate Program r
 
 Tesco DVD Rental also provides analyses of our customers in the aggregate to prospective partners, advertisers, movie distributors and other third parties. We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers.
 
-Linked websites are not under the control of Tesco DVD Rental and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Tesco DVD Rental privacy policy please write to us at: Tesco DVD Rental, c/o Lovefilm International Limited, No 9, 6 Portal Way, London W3 6RU.
+Linked websites are not under the control of Tesco DVD Rental and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. As a subscriber you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, or if you have any questions concerning the Tesco DVD Rental privacy policy please write to us at: Tesco DVD Rental, c/o Lovefilm UK Limited, No 9, 6 Portal Way, London W3 6RU.
 
 ### Security and prevention against loss, misuse or alteration of information
 
@@ -107,7 +109,7 @@ While we make every effort to ensure that your information is secure on our syst
 
 Your Tesco DVD Rental account information is password-protected for your privacy and security. You can play an important role in keeping your personal information secure by maintaining the confidentiality of your password used on the Tesco DVD Rental website. We recommend that you change your password from time to time for additional security. Please advise us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
-Access authorisation is granted to key Tesco DVD Rental (LOVEFiLM International Ltd.) staff only. Backups are run to prevent loss of information, and our Internet servers are housed in secure facilities.
+Access authorisation is granted to key Tesco DVD Rental (LOVEFiLM UK Limited.) staff only. Backups are run to prevent loss of information, and our Internet servers are housed in secure facilities.
 
 ### Your ability to edit and cancel your account
 
@@ -124,9 +126,9 @@ From time to time, Tesco DVD Rental will review and may edit this policy in acco
 If you have questions or concerns regarding this Privacy Policy, please contact Tesco DVD Rental:
 
 Attention: Privacy Officer   
-LOVEFiLM International Ltd, No 9, 6 Portal Way, London W3 6RU, UK   
+LOVEFiLM UK Limited, No 9, 6 Portal Way, London W3 6RU, UK   
 Email: [general@tescodvdrental.com](mailto:general@tescodvdrental.com)
 
-Tesco DVD Rental (a registered trademark) is owned and operated by LOVEFiLM International Ltd Registered No: 4392195; Registered Office: No. 9, 6 Portal Way, London W3 6RU, UK.
+Tesco DVD Rental is owned and operated by LOVEFiLM UK Limited Registered No: 6528297; Registered Office: No. 9, 6 Portal Way, London, W3 6RU.
 
-This version last updated 25th April 2007.
+This version last updated 5 November 2008.
