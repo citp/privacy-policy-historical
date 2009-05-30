@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notify.me privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063137id_/http%3A//www.notify.me/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notify.me privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530145654id_/http%3A//notify.me/privacy_policy) for the most accurate reproduction.*
 
 # notify.me - Privacy Policy
 
