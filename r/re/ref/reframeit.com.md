@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210050329id_/http%3A//reframeit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reframeit.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530071856id_/http%3A//reframeit.com/privacy) for the most accurate reproduction.*
 
-# Reframe It › Privacy
+# Privacy › Reframe It
 
 ## User Privacy
 
