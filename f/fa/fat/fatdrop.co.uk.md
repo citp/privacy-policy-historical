@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827193224id_/http%3A//www.fatdrop.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530202028id_/http%3A//www.fatdrop.co.uk/privacy_policy%3Fsub_domain%3Dwww) for the most accurate reproduction.*
 
-# Fatdrop - digital music promotion
+# FATdrop - digital music services
 
-Fatdrop (referred to in this Privacy Policy as "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Fatdrop, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of our Terms and Conditions.
+We take the privacy of client and end user data very seriously. The FATdrop system is designed to provide clients with complete control over their data and end users the ability to unsubscribe from the service at any time
+
+We do not rent, sell or otherwise disclose data to 3rd parties unless we are required to by law. 
+
+We expect all clients to respect the privacy of their opt in users' data within the parameters of our Privacy Policy and our Terms and Conditions.
+
+FATdrop (referred to in this Privacy Policy as "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through FATdrop, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of our Terms and Conditions.
 
 1\. Contact details   
-The Fatdrop website (the "Site") and the Fatdrop delivery service (together, the "Services") are provided by Fatdrop  
+The FATdrop website (the "Site") and the FATdrop delivery service (together, the "Services") are provided by FATdrop  
 Contact e-mail: [info@fatdrop.co.uk](mailto:info@fatdrop.co.uk)
 
 2\. Introduction   
@@ -18,7 +24,7 @@ Contact e-mail: [info@fatdrop.co.uk](mailto:info@fatdrop.co.uk)
 3\. Personal Information Collected   
 3.1 We will only collect personal information about you that you have given, either:   
 (a) when you register for the Services; or   
-(b) if you have previously registered your details with a company which has since joined the Fatdrop Services. 
+(b) if you have previously registered your details with a company which has since joined the FATdrop Services. 
 
 3.2 When you register to use the Services you may be asked to provide personal information such as your name, postal and e-mail addresses, contact telephone numbers, date of birth, gender and other lifestyle information. 
 
@@ -63,12 +69,12 @@ Contact e-mail: [info@fatdrop.co.uk](mailto:info@fatdrop.co.uk)
 
 11\. Access rights 
 
-11.1 You have a right to access the personal data that is held about you. To obtain a copy of the personal information we hold about you, please [contact us](https://web.archive.org/contact.php) A fee of £10 will be charged for this service to cover our administration costs. 
+11.1 You have a right to access the personal data that is held about you. To obtain a copy of the personal information we hold about you, please [contact us](https://web.archive.org/contact) A fee of £10 will be charged for this service to cover our administration costs. 
 
 When contacting us, please state your name, postal address and mobile phone number and provide brief details of the information that you require. 
 
 12\. Contact us 
 
-If you would like to contact us with any queries or comments on our privacy practices, please use the [contact form](https://web.archive.org/contact.php).
+If you would like to contact us with any queries or comments on our privacy practices, please use the [contact form](https://web.archive.org/contact).
 
 Last updated 10/01/07
