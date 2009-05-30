@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onhercam.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033245id_/http%3A//www.onhercam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhercam.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530221143id_/http%3A//www.onhercam.com/privacy%3Fnats%3DMDowOjU%26natsvip%3DMDowOjg) for the most accurate reproduction.*
 
 # OnHerCam.com - Privacy Policy
 
@@ -6,7 +6,7 @@ OnHerCam.com is committed to maintaining a privacy policy that benefits each ind
 
 NOTE: Our privacy policy is null and void in cases of fraud!
 
-This policy explains the privacy practices for Trifecta Creations, Inc., a Toronto corporation, (hereinafter referred to as "Trifecta, Inc.", "Trifecta", "OnHerCam.com", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, Trifecta collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with Trifecta in order to ensure the accuracy of the data we collect and use.
+This policy explains the privacy practices for MASSIVE ONLINE LIMITED, a UK-based corporation, (hereinafter referred to as "Trifecta, Inc.", "Trifecta", "OnHerCam.com", "Massive Onlne", "OnHerCam", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, Trifecta collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with Trifecta in order to ensure the accuracy of the data we collect and use.
 
 1) Information Collection:  
 Visitors can access our Web site home page and browse our Web site without disclosing any personal data. However, in order to provide you with a particular product or service online, Trifecta may request that you voluntarily supply Trifecta with primary personal data (such as name and email address) and identifiers (such as credit card number and web site password). Trifecta gives you the option of using a secure transmission method of sending such information.
