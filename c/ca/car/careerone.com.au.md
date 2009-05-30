@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103007id_/http%3A//www.careerone.com.au/jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530152712id_/http%3A//www.careerone.com.au/about-careerone/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - job search, employment information and career advice at careerone.com.au
 
 We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
 
