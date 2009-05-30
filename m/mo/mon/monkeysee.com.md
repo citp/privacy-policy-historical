@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511202216id_/http%3A//www.monkeysee.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531003437id_/http%3A//www.monkeysee.com/main/privacy) for the most accurate reproduction.*
 
 # MonkeySee - Privacy Policy
 
