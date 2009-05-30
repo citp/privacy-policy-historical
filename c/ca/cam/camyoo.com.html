@@ -1,0 +1,565 @@
+<!--The following is the downloaded HTML source of the camyoo.com privacy policy that was archived on 2009-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090530140557id_/http%3A//www.camyoo.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+	<title>CamYoo</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="verify-v1" content="hfWBa+akogUeAe9SyVScGpJtwZMIMJ9t/QWI0ekpxB8=">
+	<link rel="shortcut icon" href="http://www.camyoo.com/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://www.camyoo.com/favicon.ico" type="image/x-icon">
+	<link href="/styles/main.css" rel="stylesheet" type="text/css">
+		<!--link href="/styles/tree.css" rel="stylesheet" type="text/css"-->
+	
+	<script language="JavaScript" type="text/javascript" src="/js/main.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/js/common.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/js/control/xcommon.js"></script>
+
+	<script language="JavaScript" type="text/javascript" src="/js/control/xajax.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/js/control/xchecker2.js"></script>
+		<script src="/js/control/b.js"></script>
+		<script language="JavaScript" type="text/javascript" src="/js/jquery/jquery.js"></script>
+	<script language="JavaScript" type="text/javascript">jQuery.noConflict();</script>
+	<script type="text/javascript" src="/js/jquery/jquery.uploadify.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table cellpadding="0" cellspacing="0" width="960" align="center">
+	<tbody><tr>
+		<td>
+			<table cellpadding="0" cellspacing="4" width="100%">
+				<tbody><tr>
+					<td>
+						&nbsp;
+					</td>
+					<td align="right">
+						<table cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><a href="/sign-up.html"><img src="/images/play.gif"></a></td>
+								<td><a href="/sign-up.html" class="asignup">Join Camyoo world</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="topbg1">
+			<table cellpadding="0" cellspacing="5" width="100%">
+				<tbody><tr>
+					<td style="padding-left: 20px;" width="33%">
+												<a href="/"><img style="padding-top: 11px;" src="/images/logo.gif"></a>
+					</td>
+					<td class="row2" width="39%">
+																									<div class="search">
+					<form onsubmit="return qsrch.fCheck()" id="searchForm" method="POST">
+					<input type="hidden" name="module" value="video">
+					<input type="hidden" name="action" value="search">
+					<table cellpadding="0" cellspacing="10">
+						<tbody><tr>
+							<td><input id="search_string" name="search_string"></td>
+							<td>
+																<table cellpadding="0" cellspacing="0" class="btnoc" onclick="if (qsrch.fCheck()) $('searchForm').submit()">
+	<tbody><tr>
+		<td><img src="/images/btnol.gif" "=""></td>
+		<td class="btno">									Find								</td>
+		<td><img src="/images/btnor.gif" "=""></td>
+	</tr>
+</tbody></table>
+<input type="submit" class="invis">
+							</td>
+						</tr>
+					</tbody></table>
+					</form>
+					<script>
+										var qsrch = new xHelper;
+					qsrch.vElementId = $('search_string');
+					qsrch.vDataUrl = '/dynamic/user/video/helper_search_list.ajax';
+					qsrch.vUseCache = true;
+					qsrch.vDefaultValue = 'search';
+					qsrch.vTopDelta = 1;
+					qsrch.vLeftDelta = 2;
+					qsrch.vWidth = '185px';
+					qsrch.fInit();
+										qsrch.fCheck = function ()
+					{
+						var s = $('search_string').value;
+						if (s != this.vDefaultValue && s!= '')
+						{
+							if (s.length < 2)
+							{
+								alert('You have to input 2 letters minimal to search');
+								return false;
+							}
+							return true;
+						}
+						else
+							alert('Search pattern required');
+						return false;
+					}
+					</script>
+				</div>
+															</td>
+					<td style="padding-left: 20px;">
+																		<form method="POST" onsubmit="return loginSubmit()" id="loginForm">
+						<input type="hidden" name="module" value="user">
+						<input type="hidden" name="action" value="login">
+						<table cellpadding="0" cellspacing="2" class="boxlogin" id="boxlogin">
+							<tbody><tr class="fixheight">
+								<td align="right">Login</td>
+								<td colspan="2" width="155"><input style="width: 150px" name="login" id="mainlogin"></td>
+							</tr>
+							<tr>
+								<td width="90" align="right">Password</td>
+								<td colspan="2"><input style="width: 150px" id="mainpasswd" name="password" type="password"></td>
+							</tr>
+							<tr>
+								<td colspan="3">
+									<table cellpadding="0" cellspacing="0" width="100%">
+										<tbody><tr>
+											<td><a href="javascript:showHide_('boxlogin');" class="link">Forgot password?</a></td>
+											<td align="right">
+																								<div class="btn2m" style="float: right;">
+<ul class="btn2 fl">
+	<li onclick="if (loginSubmit()) $('loginForm').submit()">
+		<div class="btnl2"></div>
+		<div class="btnc2">													Ok												</div>
+		<div class="btnr2"></div>
+	</li>
+</ul>
+</div>
+<input type="submit" class="invis">
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						</form>
+						<form method="POST" onsubmit="cforget.fCheck(this); return false;">
+						<table cellpadding="0" cellspacing="2" class="boxlogin" id="boxlogin_" style="display: none">
+							<tbody><tr class="fixheight">
+								<td colspan="3" align="center">Forgot your password?</td>
+							</tr>
+							<tr>
+								<td width="90" align="right">Email</td>
+								<td colspan="2"><input style="width: 150px" id="mainemail"></td>
+							</tr>
+							<tr>
+								<td colspan="3">
+									<table cellpadding="0" cellspacing="0" width="100%">
+										<tbody><tr>
+											<td><a href="javascript:showHide_('boxlogin');" class="link">Login</a></td>
+											<td align="right">
+																								<div class="btn2m" style="float: right;">
+<ul class="btn2 fl">
+	<li onclick="cforget.fCheck(this)">
+		<div class="btnl2"></div>
+		<div class="btnc2">													Send												</div>
+		<div class="btnr2"></div>
+	</li>
+</ul>
+</div>
+<input type="submit" class="invis">
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						</form>
+						<script>
+						function loginSubmit()
+						{
+							var l = $('mainlogin').value, p = $('mainpasswd').value;
+							if (l && p)
+							{
+								return true;
+							}
+							else
+							{
+								alert('Enter login and password');
+								return false;
+							}
+						}
+						//var cforget = new xChecker2('mainemail', '/dynamic/user/user/forgot-password.ajax', 'Enter email address');
+						var cforget = new xChecker2('mainemail', null, '/dynamic/user/user/forgot-password.ajax', 'Enter email address');
+						cforget.fShow = function ()
+						{
+							if (this.vExists == 1)
+							{
+								alert('Your password has been sent to you');
+								showHide_('boxlogin');
+							}
+							else
+								alert('Email not found');
+							$(this.vIdElement).disabled = false;
+							this.vButton.disabled = false;
+						}
+						</script>
+																	</td>
+				</tr>
+			</tbody></table>
+		</td><td>
+	</td></tr>
+
+		<tr>
+		<td class="menu">
+			<ul class="menuul">
+						</ul>
+<script>
+if ($('blinkmenu'))
+{
+	function blink()
+	{
+		$('blinkmenu').className = 'blink1';
+		setTimeout(function (){$('blinkmenu').className = ''}, 350);
+	}
+	setInterval('blink()', 4000);
+}
+</script>
+		</td>
+	</tr>
+		<tr>
+		<td align="center">
+					<script type="text/javascript"><!--
+google_ad_client = "pub-1310828123110726";
+/* 728x90, created 1/5/09 */
+google_ad_slot = "3668691405";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		</td>
+	</tr>
+		<tr>
+		<td valign="top" class="contenttd">	<div><span style="font-family: Arial; font-size: x-small;">CamYoo, Inc. (“CamYoo” or “we”) operates 
+CamYoo.com. This Privacy Policy describes CamYoo’s use and sharing of personally 
+identifiable information (“PII”-- your full name, email address, mailing 
+address, telephone number) that Members voluntarily provide to CamYoo when they 
+register (also known as “Registration PII”). The Term “User” refers to a Visitor 
+or a Member. This Privacy Policy applies to the services offered by CamYoo, 
+including any CamYoo-branded URL (the “CamYoo Website”), the CamYoo instant 
+messaging service, the CamYoo application developer service and other features 
+(for example, music and video embedded players), CamYoo mobile services, and any 
+other features, content, or applications offered from time to time by CamYoo in 
+connection with the CamYoo Website (collectively, the “CamYoo Services”). The 
+CamYoo Services are hosted in the United States.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">The CamYoo Website is a general audience site and 
+does not knowingly collect PII from children under 13 years of age.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">From time to time CamYoo may modify this Privacy 
+Policy to reflect industry initiatives or changes in the law, our PII collection 
+and use practices, the features of the CamYoo Services, or technology, and such 
+modifications shall be effective upon posting by CamYoo on the CamYoo Website. 
+Your continued use of the CamYoo Services after CamYoo posts a revised Privacy 
+Policy signifies your acceptance of the revised Privacy Policy. It is therefore 
+important that you review this Privacy Policy regularly to ensure you are 
+updated as to any changes. If CamYoo materially changes its practices regarding 
+collection or use of your PII, your PII will continue to be governed by the 
+Policy under which it was collected unless you have been provided notice of, and 
+have not objected to, the change.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">COLLECTION AND SUBMISSION OF PII AND NON-PII ON 
+CamYoo</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">General. When CamYoo collects PII from you it is 
+because you are voluntarily submitting Registration PII to us in order to 
+register as a Member of CamYoo. CamYoo may also collect PII from you if you 
+choose to participate in CamYoo Services activities like sweepstakes, contests, 
+and surveys, because you want us to furnish you with products, services, 
+newsletters, or information, or in connection with content or suggestions you 
+submit to CamYoo for review.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">In addition, CamYoo collects other non-PII 
+including IP address, aggregate user data, and browser type. This data is used 
+to manage and improve the CamYoo Services, track usage, and for security 
+purposes. </span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">CamYoo Members may also choose to provide or store 
+non-PII information in their profiles, including but not limited to date of 
+birth, interests, hobbies, lifestyle choices, groups with whom they are 
+affiliated (schools, companies), videos and/or pictures, private messages, 
+bulletins or personal statements (collectively “Profile Information”). The 
+Profile Information in a Member’s profile is provided at his or her sole 
+discretion.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">CamYoo Members can change their Registration PII 
+and Profile Information at any time and can control how Visitors, other Members 
+and CamYoo communicate with them by controlling their account settings, 
+available within the “Edit Profile” portion of their CamYoo profile. Link to 
+Privacy Settings.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">Cookies. Cookies are small bits of information that 
+CamYoo places on your computer. CamYoo uses cookies to identify your Internet 
+browser, store Users’ preferences, and determine whether you have installed the 
+enabling software needed to access certain material on the CamYoo Services. Data 
+in cookies may be read to authenticate user sessions or provide 
+services.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">Third party advertisements displayed on CamYoo 
+Services may also contain cookies set by Internet advertising companies or 
+advertisers (known as “third party cookies”). CamYoo does not control these 
+third party cookies and Users of the CamYoo Services should check the privacy 
+policy of the Internet advertising company or advertiser to see whether and how 
+it uses cookies. See the “Notice” section below for more information on 
+customized advertising on CamYoo. A pixel tag is a tiny image inserted in a 
+webpage and used to record the number and types of views for that page. CamYoo 
+may allow third party pixel tags to be present on CamYoo Services for purposes 
+of advertising, providing services or data and statistics 
+collection.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">You can program your computer to warn you each time 
+a cookie is being sent, block third party cookies or block all cookies. However, 
+by blocking all cookies you may not have access to certain features on the 
+CamYoo Services.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">NOTICE: CamYoo WILL PROVIDE YOU WITH NOTICE ABOUT 
+ITS PII COLLECTION PRACTICES</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">When you voluntarily provide PII to CamYoo, we will 
+make sure you are informed about who is collecting the information, how and why 
+the information is being collected and the types of uses CamYoo will make of the 
+information to the extent it is being used in a manner that differs from what is 
+allowed pursuant to this Privacy Policy.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">At the time you provide your PII, CamYoo will 
+notify you of your options regarding our use of your PII (See “Choice” below). 
+Except as described in this Privacy Policy, CamYoo will not share your PII with 
+third parties unless you have given CamYoo permission to do so (See “Use” 
+below).</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">CamYoo Services may be linked to Internet sites 
+operated by other companies. CamYoo Services may also carry advertisements from 
+other companies. CamYoo is not responsible for the privacy practices of websites 
+or other services operated by third parties that are linked to or integrated 
+with the CamYoo Services or for the privacy practices of third party Internet 
+advertising companies. Once you leave CamYoo Services via such a link, access a 
+third party application (such as widgets) or click on an advertisement, you 
+should check the applicable privacy policy of the third party or advertiser site 
+to determine, among other things, how they will handle any PII they collect from 
+you.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">CamYoo Services may also be linked to sites 
+operated by companies affiliated with CamYoo (i.e., that are part of the News 
+America Group: “Affiliated Companies”). Although all Affiliated Companies adhere 
+to the News America corporate Privacy Principles, Users who visit those 
+Affiliated Company sites should still refer to their separate privacy policies 
+and practices, which may differ in some respects from this Privacy 
+Policy.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: Arial; font-size: x-small;">CamYoo may use cookies and similar tools to 
+customize the content and advertising you receive based on the Profile 
+Information you have provided. Profile Information you provide in structured 
+profile fields or questions (multiple choice questions like “Marital Status,” 
+“Education” and “Children”) (“Structured Profile Information”), information you 
+add to open-ended profile fields and questions (essay questions like “About Me,” 
+“Interests” and “Movies”) (“Non-Structured Profile Information”) and other 
+non-PII about you may also be used to customize the online ads you encounter to 
+those we believe are aligned with your interests. For example, based on your 
+music interests we might display an advertisement to make sure you are advised 
+when your favorite band is coming to town. The information used for this feature 
+does not provide your PII or identify you as an individual to third parties. If 
+you would like to disable advertising customization for Non-Structured Profile 
+Information, please log in and click here.</span></div>
+<div>&nbsp;</div>
+<p><span style="font-family: Arial; font-size: x-small;">
+</span></p><div><br>Some of the advertisements that appear on CamYoo Services may also be 
+delivered to you by third party Internet advertising companies. These companies 
+utilize certain technologies to deliver advertisements and marketing messages 
+and to collect non-PII about your visit to or use of CamYoo Services, including 
+information about the ads they display, via a cookie placed on your computer 
+that reads your IP address. To opt out of information collection by these 
+companies, or to obtain information about the technologies they use or their own 
+privacy policies, please click here.</div>
+<div>&nbsp;</div>
+<div><br>Third party applications (such as widgets) created by third party 
+developers may also be available on the CamYoo Services. Third party 
+applications are small bits of software, often with interactivity, that can be 
+installed into Members’ profiles or shared with other Users. However, CamYoo 
+does not control the third party developers, and cannot dictate their actions. 
+When a Member engages with a third party application, that Member is interacting 
+with the third party developer, not with CamYoo. CamYoo encourages Members not 
+to provide PII to the third party’s application unless the Member knows the 
+party with whom it is interacting.</div>
+<div>&nbsp;</div>
+<div>CHOICE: CamYoo WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR 
+PII</div>
+<div>&nbsp;</div>
+<div>Except as described in this Privacy Policy, CamYoo will get your permission 
+before we use the PII you provide to us in a way that is inconsistent with the 
+purpose for which it was submitted or share your PII with third parties that are 
+not affiliated with CamYoo.</div>
+<div>&nbsp;</div>
+<div>USE: CamYoo'S USE OF PII</div>
+<div>&nbsp;</div>
+<div>CamYoo will only use the PII you provide under this Privacy Policy in a 
+manner that is consistent with this Privacy Policy. If CamYoo obtains PII from a 
+third party, such as a business partner, our use of that information is also 
+governed by this Privacy Policy.</div>
+<div>&nbsp;</div>
+<div>In order to locate other CamYoo Members that you may already know in the 
+physical world, CamYoo allows Users to search for Members using Registration PII 
+(i.e., full name or email address). CamYoo also allows Users to browse for 
+certain Profile Information in order to help connect with Members (i.e., schools 
+and/or companies where Users may have attended or worked). CamYoo may also 
+enable Members to publicly display some Registration PII as an element of their 
+Profile Information if they choose to do so via a profile setting under “Edit 
+Profile.” Search engines may index the portion of a Member’s profile (including 
+the Profile Information it contains) that is publicly displayed.</div>
+<div>&nbsp;</div>
+<div>If you have consented to receive promotional materials (e.g., newsletters) 
+or notifications from CamYoo, CamYoo may periodically use your email address to 
+send you such materials related to the CamYoo Services, as applicable. If you 
+want to stop receiving such materials from CamYoo, you can change your profile 
+settings under “Account Settings,” or follow the unsubscribe instructions at the 
+bottom of each email.</div>
+<div>&nbsp;</div>
+<div>CamYoo employees, agents and contractors must have a business reason to 
+obtain access to your PII. CamYoo may share your PII with those who help us 
+manage or provide CamYoo Services’ information activities (for example, message 
+board administration, order fulfillment, statistical analyses, data processing), 
+or with outside contractors, agents or sponsors who help us with the 
+administration, judging and prize fulfillment aspects of contests, promotions 
+and sweepstakes.</div>
+<div>&nbsp;</div>
+<div>These outside contractors, agents or sponsors may temporarily store some 
+information on their servers, but they may only use your PII to provide CamYoo 
+with a specific service and not for any other purpose. CamYoo may also provide 
+your PII to a third party in those instances where you have chosen to receive 
+certain information and have been notified that the fulfillment of such a 
+request requires the sharing of your PII. CamYoo also may share your PII with 
+Affiliated Companies if it has a business reason to do so.</div>
+<div>&nbsp;</div>
+<div>As described in “Notice” above, CamYoo may customize the advertising and 
+marketing messages you receive on the CamYoo Website, or may work with outside 
+companies to do so. Your non-PII and/or Profile Information may be shared with 
+these companies so this customization can be accomplished. CamYoo prohibits 
+these companies from sharing your non-PII and/or Profile Information with any 
+third party or from using it for any other purpose. Anonymous click stream, 
+number of page views calculated by pixel tags, and aggregated demographic 
+information may also be shared with CamYoo’s advertisers and business 
+partners.</div>
+<div>&nbsp;</div>
+<div>There may be instances when CamYoo may access or disclose PII, Profile 
+Information or non-PII without providing you a choice in order to: (i) protect 
+or defend the legal rights or property of CamYoo, our Affiliated Companies or 
+their employees, agents and contractors (including enforcement of our 
+agreements); (ii) protect the safety and security of Users of the CamYoo 
+Services or members of the public including acting in urgent circumstances; 
+(iii) protect against fraud or for risk management purposes; or (iv) comply with 
+the law or legal process. In addition, if CamYoo sells all or part of its 
+business or makes a sale or transfer of all or a material part of its assets or 
+is otherwise involved in a merger or transfer of all or a material part of its 
+business, CamYoo may transfer your PII to the party or parties involved in the 
+transaction as part of that transaction.</div>
+<div>&nbsp;</div>
+<div>When a Member who is located in the European Union chooses to post Profile 
+Information that will be publicly disclosed, that Member is responsible for 
+ensuring that such information conforms to all local data protection laws. 
+CamYoo is not responsible under the EU local data protection laws for 
+Member-posted information.</div>
+<div>&nbsp;</div>
+<div>SECURITY: CamYoo PROTECTS THE SECURITY OF PII</div>
+<div>&nbsp;</div>
+<div>ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR 
+PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT CamYoo ABOUT PRIVACY 
+CONCERNS</div>
+<div>&nbsp;</div>
+<div>Whenever possible, CamYoo Members may review the Registration PII we 
+maintain about them in our records. We will take reasonable steps to correct any 
+PII a Member informs us is incorrect. If you are a Member, you can view and 
+change your Registration PII, Member preferences and Profile Information by 
+logging into your account and accessing features such as “Edit Profile” and 
+“Account Settings.”</div>
+<div>&nbsp;</div>
+<div>If you ask CamYoo to stop using your PII, CamYoo will honor that request 
+while retaining any record of your PII that is necessary to comply with 
+applicable federal, state or local law.</div>
+<div>&nbsp;</div>
+<div>If you would like to communicate with us about this Privacy Policy or 
+CamYoo’s collection and use of your PII please contact CamYoo at:</div>
+<div>&nbsp;<br></div>
+<div>Email:<br><a href="mailto:privacy@CamYoo.com" target="_blank">privacy@CamYoo.com</a><br><br>Mail:<br>1040 Avenue of the Americas, <br>18th Floor New York, NY 10018 <br></div><p></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-bottom: 10px">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1310828123110726";
+/* 728x15, created 1/27/09 */
+google_ad_slot = "7988088983";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+/*ads*/
+</script>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			
+			<div class="topmenu1">
+																				 | 									<a href="/codeofconduct.html">Code of conduct</a>
+																						 | 									<a href="/about.html">About</a>
+																						 | 									Privacy
+																																 | 									<a href="/help.html">Help</a>
+																																																				 | 									<a href="/unsubscribe.html">Unsubscribe</a>
+																						 | 									<a href="/contact-us.html">Contact us</a>
+																																																</div>		</td>
+	</tr>
+	<tr>
+		<td class="smalltext" align="center">©2009 Camyoo. All Rights Reserved</td>
+	</tr>
+</tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+/*analytics*/
+</script>
+<script type="text/javascript">
+_uacct = "UA-3523523-3";
+urchinTracker();
+</script>
+
+<script>
+	var tTab = document.getElementsByTagName('TABLE');
+	for (var i=0; i<tTab.length; i++)
+	{
+		if ((tTab[i].getAttribute('zebra') == 1) || (tTab[i].getAttribute('zebra') == 2))
+		{
+			tTab[i].className = 'zebra' + (tTab[i].getAttribute('zebra') == 2?'1':'');
+			var tCou = 0;
+			if (tTab[i].childNodes[0].tagName != 'TBODY')
+				var tTbody = tTab[i].childNodes[1];
+			else
+				var tTbody = tTab[i].childNodes[0]
+			if (!tTab[i].getAttribute('skip'))
+				var start = 1;
+			else
+				var start = tTab[i].getAttribute('skip');
+			for (var ii=start; ii<tTbody.childNodes.length; ii++)
+				if (tTbody.childNodes[ii].tagName == 'TR' && tTbody.childNodes[ii].getAttribute('no_zebra') != '1')
+				{
+					tCou++;
+					tTbody.childNodes[ii].className = (tCou % 2 == 1?'row_odd':'row_even');
+				}
+		}
+	}
+
+//	var tImg = document.getElementsByTagName('IMG');
+//	for (var i=0; i<tImg.length; i++)
+//	{
+//		tImg[i].oncontextmenu = function ()
+//		{
+//			return false;
+//		}
+//	}
+</script>
+<center style="color: white">0.1657</center></body></html>
