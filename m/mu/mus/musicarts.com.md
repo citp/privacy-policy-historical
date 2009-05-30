@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093639id_/http%3A//www.musicarts.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530171416id_/http%3A//www.musicarts.com/MAC-Privacty-Policy-g20006t0.mac) for the most accurate reproduction.*
 
-# Music & Arts Center: About
+# Music & Arts
 
 All rights reserved. Copyright on this document is owned by Music & Arts Center, Inc. Any person is hereby authorized to view, copy, print, and distribute this document subject to the following conditions: 
 
@@ -16,7 +16,7 @@ Music & Arts Center and musicarts.com are trademarks and/or registered trademark
 
 **This online publication is provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.**
 
- **This publication may include technical inaccuracies and typographical errors. Changes are constantly added to the information herein; these changes will be incorporated in new editions of the publication. Music & Arts Center and musicarts.com may make improvements and/or changes in the product(s) described on this Web site at any time. **
+**This publication may include technical inaccuracies and typographical errors. Changes are constantly added to the information herein; these changes will be incorporated in new editions of the publication. Music & Arts Center and musicarts.com may make improvements and/or changes in the product(s) described on this Web site at any time. **
 
 For further information on Intellectual Property matters contact Music & Arts Center, a Division of Guitar Center Stores, Inc. at 5795 Lindero Canyon Road, Westlake Village, CA 91362. 
 
@@ -86,7 +86,7 @@ Privacy Top
 
 **What choices do I have about Music & Arts Center collecting, using, and sharing my information?**
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from Music & Arts Center and from our third-party partners. You can request at any time that Music & Arts Center not send future e-mail to you by unsubscribing using the instructions included in each e-mail, or by filling out the remove form ([email list removal](https://web.archive.org/about/remove.cfm)), as mentioned above, there are ways to limit the information collected through technology--though some of our features won't work if you decide to do this. For the safety of minors, we request that children under the age of 18 not fill out any personal information on our Web site without first receiving the approval of a parent or guardian. 
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from Music & Arts Center and from our third-party partners. You can request at any time that Music & Arts Center not send future e-mail to you by unsubscribing using the instructions included in each e-mail, or by filling out the remove form ([email list removal](https://web.archive.org/MyAccount/Preferences.aspx)), as mentioned above, there are ways to limit the information collected through technology--though some of our features won't work if you decide to do this. For the safety of minors, we request that children under the age of 18 not fill out any personal information on our Web site without first receiving the approval of a parent or guardian. 
 
 Privacy Top   
 
