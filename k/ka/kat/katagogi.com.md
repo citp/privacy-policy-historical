@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katagogi.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827181455id_/http%3A//www.katagogi.com/General/Default.aspx%3FaID%3D033%26fID%3DA125%26cID%3D1%26No%3D123%26l%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katagogi.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530171401id_/http%3A//www.katagogi.com/General/Default.aspx%3FaID%3D033%26fID%3DA125%26cID%3D1%26No%3D123%26l%3DEN) for the most accurate reproduction.*
 
 # Family tree
 
@@ -55,5 +55,5 @@ MEMBER PROFILES
 You may provide information about yourself to the community and other areas of our Website, but only at your option. If provided in a public community area, the data is, of course, public. Participation in public areas and community services is at your discretion. 
 
   
-If you have any questions about our Privacy Policy, if you want to know what information we have collected about you, or if you want to inquire with us about this Website use the [Inquiry Form](https://web.archive.org/web/20080827181455id_/http%3A//www.katagogi.com/contact/feedback.aspx?l=EN).   
+If you have any questions about our Privacy Policy, if you want to know what information we have collected about you, or if you want to inquire with us about this Website use the [Inquiry Form](https://web.archive.org/web/20090530171401id_/http%3A//www.katagogi.com/contact/feedback.aspx?l=EN).   
 
