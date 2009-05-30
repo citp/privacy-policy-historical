@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2009-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531015324id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -9,6 +9,38 @@
 	
 
 
+	 
+	<style>
+		body{padding-top:0 !important;} 
+                div#mtvuBar{ clear:both; overflow:hidden; background:#000 url(/images/site/mtvuBar-bg.jpg) repeat-x; margin-bottom:15px;}
+                
+                div#mtvuBar .inner{ width:994px; margin:0 auto;} 
+                div#mtvuBar .left{ float:left; width: 350px; text-align:left;} 
+                div#mtvuBar .right{float:right; width: 350px;} 
+                div#mtvuBar .left a, div#mtvuBar .right a{ position:relative; display:block; height:15px; padding:2px 0px;} 
+
+                div#mtvuBar .left a:hover, div#mtvuBar .right a:hover{ background-color: transparent;} 
+                div#mtvuBar .left a{font: normal 10px arial; color:#fff; text-decoration:none; background:url(/images/site/mtvuBar-logo.jpg) no-repeat 0 0px; padding-left:43px;}
+                
+                div#mtvuBar .right a{font: normal 10px arial; color:#bbd746; text-decoration:none; padding-left:10px;}
+                
+                div#mtvuBar .right a strong{text-decoration:underline; font-weight:normal;} 
+
+	</style>
+	
+		
+		<!-- mtvU Bar Start Here --> 
+		<div id="mtvuBar"> 
+		<div class="inner"> 
+		<div class="left"><a href="http://www.mtvu.com/?src=rmp" target="_blank">College Music, Activism, Shows and Activities on Campus</a></div>
+		
+		<div class="right"><a href="http://www.mtvu.com/category/shows/professors-strike-back/?src=rmp" target="_blank">See what your professors think of your ratings. <strong>Click here.</strong></a></div></div>
+		
+		</div> 
+		<!-- mtvU Bar End Here --> 
+
+
+	
 	<!-- Date: 2007-02-25 -->
 	<link rel="stylesheet" href="http://static.ratemyprofessors.com/stylesheets/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<!-- Vic S: 5-16-08 -->
@@ -137,6 +169,8 @@
 		}
 		
 
+		
+
 
 
 </script> 
@@ -147,37 +181,137 @@
 
 <script language="Javascript">
 	var ordJS=Math.floor(Math.random()*10000000000000000000);
-	var fnm = location.pathname.substring(1,location.pathname.lastIndexOf("."));
+ 	var fnm = "";
+	var lp=location.pathname;
 	var sectionParamAndValue = "";
-	if(fnm=="" || fnm=="index") // http://dev.ratemyprofessors.com:8060
-	{
-		sectionParamAndValue = "sec0=_hp";
+	var sectionParam="";
+	var tempseg1="";
+	var sname1="";
+	var state1="";
+	var country1="0";
+	var iii=0;
+	var jjj=0;
+		
+	if(location.pathname.indexOf(".") != -1){
+	   fnm = location.pathname.substring(1,location.pathname.lastIndexOf("."));
 	}
-	else if(fnm=="/" && location.pathname.indexOf("member")==-1) // http://dev.ratemyprofessors.com:8060/
+	else{
+	    fnm = location.pathname.substring(1,location.pathname.length-1);
+	   }
+	//alert("fnm:" + fnm);
+	//alert("location.pathname: " + lp);
+	
+	sname1= RepBeginningNumber(RepBadChars(sname1));
+	state1= RepBeginningNumber(RepBadChars(state1));
+	fnm= RepBeginningNumber(RepBadChars(fnm));
+	
+	if( (fnm=="" || fnm=="/" || fnm=="index") && lp.indexOf("member")== -1 ) // http://dev.ratemyprofessors.com:8052/
 	{
-		sectionParamAndValue = "sec0=_hp";
+		sectionParam="_hp/_"+ country1;
+		sectionParamAndValue = "sec0=_hp;sec1=_" + country1;
+		fnm="";
 	}
-	else if(fnm=="/" && location.pathname.indexOf("member")>-1) // http://dev.ratemyprofessors.com:8060/member/
+	else if((lp.indexOf("SelectSchool")> -1) && lp.indexOf("member")== -1 )
 	{
-		sectionParamAndValue = "sec0=member";
+			if(state1=='null' || country1=='null') {
+			   sectionParamAndValue = "sec0=null;sec1=null;sec2=null";
+			  }
+			else{ sectionParamAndValue = "sec0=" + fnm + ";sec1=" + state1 + ";sec2=_" + country1;
+			    }
+			fnm += "/" + state1 + "/_" + country1; 
 	}
-	else if(location.pathname.indexOf("member")>-1) // http://dev.ratemyprofessors.com:8060/member/*.*
+	else if( ( (lp.indexOf("SelectTeacher")> -1) || (lp.indexOf("ShowRatings")> -1) || (lp.indexOf("AddRating")> -1) || (lp.indexOf("ShowRatingReview")> -1)) && ( lp.indexOf("member")== -1))
 	{
-		sectionParamAndValue = "sec0=member;";
-		sectionParamAndValue += "sec1=" + fnm.substring(fnm.indexOf("/")+1, fnm.length);
+		   if(state1=='null' || country1=='null' || sname1=='null' )
+		     {  sectionParamAndValue = "sec0=null;sec1=null;sec2=null;sec3=null";
+		      }
+		     else{ sectionParamAndValue = "sec0=" + fnm + ";sec1=" + state1 + ";sec2=" + sname1 + ";sec3=_" + country1;
+		         }
+			fnm+="/" + state1 + "/" + sname1 + "/_" + country1;
+	
+	}
+	else if(lp.indexOf("jive/vodka/")> -1 && lp.indexOf("member")== -1)
+	{
+		fnm = location.pathname.substring((location.pathname.lastIndexOf("/")+1),(fnm.length+1));
+		sectionParamAndValue = "sec0=" + fnm + ";sec1=_mn;sec2=_"+ country1;
+		fnm +="/_mn/_" + country1;
 	}
 	else
-	{
-		sectionParamAndValue = "sec0=" + fnm;
-	}
-	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;tile=1;sz=728x90;dcopt=ist;u=mtype-standard|tile-1;ord=20081215082023" + ordJS + "?' type='text\/javascript'><\/script>");
-	//alert("location.pathname: " + location.pathname);
-	//alert("fnm: " + fnm);
-	//alert("sectionParamAndValue: " + sectionParamAndValue);
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/atf_j_s/web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us;sec0=web/20081216012023id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us;pos=atf;tag=adj;mtype=standard;tile=1;sz=728x90;dcopt=ist;u=mtype-standard|tile-1;ord=200812150820233168075392938249700?" type="text/javascript"></script>
+       {
+		tempseg1=fnm.split("/");
+		jjj=0;
+	
+		for(iii=0;iii<tempseg1.length;iii++)
+		  {
+		   if(tempseg1[iii] != "")
+			 {  
+			  tempseg1[iii]=(RepBeginningNumber(RepBadChars(tempseg1[iii])));
+			 
+			 if( tempseg1[iii].indexOf('.')!= -1 )
+			   {
+				tempseg1[iii]=tempseg1[iii].substring(0,tempseg1[iii].indexOf('.'));
+			   }
+			 sectionParamAndValue += "sec" + jjj + "=" + tempseg1[iii] +";";
+			 jjj++;
+			}
+		  }
+		  sectionParamAndValue += "sec" + jjj + "=_mn;sec" + ++jjj + "=_" + country1 ;
+		  sectionParam +="/_mn/_" + country1;
+  }
+	
+ 	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=20090530095324" + ordJS + ";' type='text\/javascript'><\/script>");
+    //alert( "'http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=20090530095324" + ordJS + ";'type=");
+
+function RepBadChars(badstr) {
+   var str="";
+   str=badstr;
+   var invalidch= ["-","`","&",";","~",":","?","@","{","}","^","$","\\","%","|"," "];
+   var iii=0;
+   var jjj=0;
+   var strnew;
+       
+    for(iii=0; iii < str.length ;iii++)
+	   {
+       for(jjj=0;jjj< invalidch.length; jjj++)
+          {  
+            if(str.charAt(iii)==invalidch[jjj])
+              { strnew = str.split(str.charAt(iii));
+            	strnew = strnew.join("_");
+            	str=strnew;
+                break;
+              }      
+          } 
+      } 
+    return str;
+}   
+ 
+function RepBeginningNumber(str){
+
+var str1=str;
+var iii=0;
+var rstr="";
+var flag=false;
+
+if((isNaN(str1.charAt(0))))
+  {
+  return str1;
+  }
+else
+  {
+	while((!(isNaN(str1.charAt(iii))) && iii < str1.length))
+   		{
+    	iii++;
+    	flag=true;   
+   		}
+   rstr= "__" + str1.substring(iii,str1.length); 
+   return rstr; 
+  }
+}
+
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/atf_j_s/web/20090531015324id_/http_3A//www.ratemyprofessors.com/PrivacyPolicy_us/_mn/_0;sec0=web;sec1=__id_;sec2=http_3A;sec3=www;sec4=PrivacyPolicy_us;sec5=_mn;sec6=_0;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=sec0-web|sec1-__id_|sec2-http_3A|sec3-www|sec4-PrivacyPolicy_us|sec5-_mn|sec6-_0|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=200905300953246673740446988594000;" type="text/javascript"></script>
 <noscript>
-	<a href="http://ad.doubleclick.net/jump/rmp.mtvi/_hp;tile=2;sz=728x90;ord=123456789?" target="_blank">
-		<img src="http://ad.doubleclick.net/ad/rmp.mtvi/_hp;tile=2;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" />
+	<a href="http://ad.doubleclick.net/jump/rmp.mtvi/_hp;tile=1;sz=728x90;ord=123456789?" target="_blank">
+		<img src="http://ad.doubleclick.net/ad/rmp.mtvi/_hp;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" />
 	</a>
 </noscript>
 	      	
@@ -601,31 +735,43 @@ urchinTracker();
 		//var dispatcher=com.mtvi.reporting.Dispatcher;
 		var dispatcher=new com.mtvi.reporting.Dispatcher();
 		var pn = location.pathname;
-		var h1 = location.pathname.substring(1);
+		if(pn.charAt(pn.lastIndexOf("/")+1) == ""){
+		   pn= pn+"index.jsp";
+		   }
+		//var h1 = location.pathname.substring(1);
+		//var pagename= "< %=pagenamevalue%>";
+		var h2 = "interact/terms/privacy policy";
+		var channel= "interact";
 		dispatcher.setAttribute('pageName',pn);
-		dispatcher.setAttribute('hier1',h1);
-		//if("FBDF02A0A75847891706417F1D3C887F" != "") commented as per 8/23 email from Sam @ 12:23 
+		dispatcher.setAttribute('channel',channel);
+		//dispatcher.setAttribute('hier1',h1);
+		dispatcher.setAttribute('hier2',h2);
+		dispatcher.setAttribute('eVar2',"");
+		dispatcher.setAttribute('eVar3',"");
+		//if("< %=userSession%>" != "") commented as per 8/23 email from Sam @ 12:23 
 			dispatcher.setAttribute('prop1', "");
-		//if("USA" != "")
+		//if("< %=userCountry%>" != "")
 			dispatcher.setAttribute('prop2', "USA");
-		//if("propertyInfo" != "")
+		//if("< %=thePageCategory%>" != "")
 			dispatcher.setAttribute('prop3', "");
-		//if("" != "")
+		//if("< %=theForumId%>" != "")
 			dispatcher.setAttribute('prop4', "");
-		//if("" != "")
+		//if("< %=theState%>" != "")
 			dispatcher.setAttribute('prop5', "");
-		//if("" != "")
+		//if("< %=theSchoolName%>" != "")
 			dispatcher.setAttribute('prop6', "");
-		//if("" != "")
+		//if("< %=theProfessorName%>" != "")
 			dispatcher.setAttribute('prop7', "");
-		//if("visitor" != "")
+		//if("< %=userAccessRights%>" != "")
 			dispatcher.setAttribute('prop8', "visitor");
-		//if("" != "")
-			//dispatcher.setAttribute('prop9', "");
+		//if("< %=theLinkAlias%>" != "")
+			// dispatcher.setAttribute('prop9', "< %= theSchoolId %>");
+			dispatcher.setAttribute('prop10', "");
+		//	dispatcher.setAttribute('prop11', "< %=thesearchKeyword%>");
 		dispatcher.sendCall();
 </script>
 
-<font color="white">w5 </font>  
+<font color="white">w2 </font>  
 
 <center>
 			<!-- BEGIN FOOTER -->
