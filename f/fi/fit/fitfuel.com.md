@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042838id_/http%3A//www.fitfuel.com/customer_care_privacy_faq.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531010159id_/http%3A//www.fitfuel.com/customer_care_privacy_faq.php) for the most accurate reproduction.*
 
 # FitFuel.com - Nutritional Supplements, Organic Foods, Fitness Apparel, Sporting, Anti-Aging
 
