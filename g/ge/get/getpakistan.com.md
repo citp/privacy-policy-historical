@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025034447id_/http%3A//www.getpakistan.com/home/gpc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpakistan.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530080110id_/http%3A//www.getpakistan.com/home/gpc/privacy.htm) for the most accurate reproduction.*
 
 # getPakistan.com: Privacy Policy
 
