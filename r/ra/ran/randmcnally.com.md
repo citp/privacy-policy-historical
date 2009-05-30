@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020217id_/http%3A//www.randmcnally.com/rmc/common/cmnPrivacy.jsp%3Fcmty%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530231620id_/http%3A//www.randmcnally.com/rmc/common/cmnPrivacy.jsp%3Fcmty%3D0) for the most accurate reproduction.*
 
 # Rand McNally
 
@@ -94,5 +94,5 @@ For your convenience, our websites contain links to a wide variety of other webs
 If you have any questions about our Privacy and Security Policy please feel free send us your comments and questions, or contact us by postal mail at:
 
 randmcnally.com  
-8255 N. Central Park,   
-Skokie, IL 60076 USA 
+9855 Woods Drive  
+Skokie, IL 60077 USA 
