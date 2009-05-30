@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baskinrobbins.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080513id_/http%3A//www.baskinrobbins.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baskinrobbins.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530021606id_/http%3A//www.baskinrobbins.com/privacy.aspx) for the most accurate reproduction.*
 
 # Baskin-Robbins Your Neighborhood Ice Cream Store
 
