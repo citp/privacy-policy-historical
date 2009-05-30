@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912055401id_/http%3A//www.noamdesign.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530173344id_/http%3A//www.noamdesign.com/Web-Design-Privacy) for the most accurate reproduction.*
 
-# Noam Design Privacy Policy
-
-## Web Design Company, New York | Website Design Firm | Website Development Company, New York, NY
+# Web Design Company Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every pages of our website. 
 
@@ -28,8 +26,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 This website may provide links to third-party websites. Any such links are provided solely as a convenience to you. **Noam Design** has no control over these websites or their content and does not assume any responsibility or liability for these websites. **Noam Design** does not endorse or make any representations about these websites, or any information, materials, or products found thereon. If you access any of the third-party websites linked on this Web site, you do so at your own risk.
 
-At any time, you may later review or update the personal information we have collected online from you by contacting us at: [support@noamDesign.com](mailto:support@noamDesign.com)
+At any time, you may later review or update the personal information we have collected online from you by contacting us at: [support@noamDesign.com](mailto:support@noamDesign.com "Email Web Design Support")
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [support@noamDesign.com](mailto:support@noamDesign.com)
+Should you have other questions or concerns about these privacy policies, please send us an email at [support@noamDesign.com](mailto:support@noamDesign.com "Email Web Design Support")
