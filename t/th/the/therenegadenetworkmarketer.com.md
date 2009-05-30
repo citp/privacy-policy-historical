@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the therenegadenetworkmarketer.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604230439id_/http%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therenegadenetworkmarketer.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530202933id_/http%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
-##  Renegade System Network 
+Renegade System Network
 
-###  Privacy Policy 
+Privacy Policy
 
-Thank you for visiting the Renegade System Network, which is owned by 80/20 Marketing, Inc., its subsidiary companies, affiliate companies, successors and assigns (hereinafter collectively referred to as "Renegade System," "We", or "Us") and which operates web sites accessible through www.TheRenegadeNetworkMarketer.com and www.TheRenegadeSystem.com, among other URLs (collectively referred to as the "Renegade System Network" or "the Site") and reviewing our Privacy Policy, effective May 24, 2007 We take your privacy very seriously and are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our Site. 
+Thank you for visiting the Renegade System Network, which is owned by 80/20 Marketing, Inc., its subsidiary companies, affiliate companies, successors and assigns (hereinafter collectively referred to as "Renegade System," "We", or "Us") and which operates web sites accessible through www.TheRenegadeNetworkMarketer.com and www.TheRenegadeSystem.com, among other URLs (collectively referred to as the "Renegade System Network" or "the Site") and reviewing our Privacy Policy, effective June 15, 2007 We take your privacy very seriously and are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our Site. 
 
 **Overview**
 
@@ -24,60 +24,62 @@ Generally, we collect information in two ways. Some information is gathered when
 
 Wherever The Renegade System Network collects personal information we make an effort to include a link to this Privacy Policy on that page. 
 
-**What are "cookies" and how does The Renegade System Network use them?**
+**What are "cookies" and how does The Renegade System use them?**
 
 Data collection devices, such as "cookies," are used to store, and sometimes track, information about you. Generally, these cookies help provide personalized services and promote trust and safety. A cookie is a small file containing a small amount of data that is sent to your browser from a web server and placed on your computer's hard drive to assist us in providing our services. All pages on the Site where you are prompted to login or that are customizable request that you accept cookies. Cookies are only read by the server that placed them and are unable to execute any code or virus. Most cookies are "session cookies," and are automatically deleted from your hard drive at the end of a session. 
 
-More specifically, we use cookies to remind us of who you are and to access your account information in order to deliver to you a more personalized service. We also use cookies, along with IP addresses, to measure your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on Renegade System Network a better one. We may also use this information to better personalize the content, banners, and promotions that you and other Users will see on our Site. 
+More specifically, we use cookies to remind us of who you are and to access your account information in order to deliver to you a more personalized service. We also use cookies, along with IP addresses, to measure your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on Renegade System a better one. We may also use this information to better personalize the content, banners, and promotions that you and other Users will see on our Site. 
 
-**How does the Renegade System Network use my information?**
+**How does the Renegade System use my information?**
 
-We use your information to provide you with a customized website experience. We also may use your personal information to manage and monitor your purchases with us; communicate with you via email; resolve disputes; troubleshoot problems; manage our marketing programs; detect and protect against error, fraud, or other criminal activity; and enforce our Terms and Conditions of Use Agreement. 
+We use your information to provide you with a customized website experience. We also may use your personal information to manage and monitor your purchases with us; communicate with you; resolve disputes; troubleshoot problems; manage and operate our marketing programs; detect and protect against error, fraud, or other criminal activity; and enforce our Terms and Conditions of Use Agreement. 
 
 **Who is collecting information?**
 
-When you are using the Site and are asked for personal information, you are sharing that information with the Renegade System Network and, if you arrived at the Site via an affiliate of the Renegade System Network, then with that affiliate as well. 
+When you are using the Site and are asked for personal information, you are sharing that information with the Renegade System Network and, if you arrived at the Site via an affiliate link or affiliate of the Renegade System Network, then with that affiliate as well. 
 
 Please be advised that the Renegade System Network affiliates, advertisers, and Web sites that have links on our Site may collect personally identifiable information about you. The information practices of those affiliates, advertisers, and Web sites linked to the Renegade System Network are not covered by this privacy statement. 
 
 **With whom does the Renegade System Network share my information?**
 
-Generally, the Renegade System Network will not disclose your personally identifiable information unless we have your permission or under special circumstances, such as those described below. 
+Generally, the Renegade System will not disclose your personally identifiable information unless we have your permission or under certain circumstances, such as those described below. 
 
-_Affiliates_ : If you have visited the Renegade System Network through a link provided by an affiliate of the Renegade System Network ("Affiliate"), we will share your personally identifiable information with the Affiliate responsible for your visit. 
+_Affiliates_ : If you have visited the Renegade System Network through a link provided by an affiliate of the Renegade System ("Affiliate"), we will share your personally identifiable information with the Affiliate responsible for your visit and the Affiliate may contact you. 
+
+_Employees, Associates and Consultants_ : To help deliver Renegade System Network services and information, we may provide your personally identifiable information to our employees, associates and consultants. All of our employees, associates and consultants are subject to non-disclosure agreements with us. This prohibits their use of the information you provide us for any purpose except to facilitate the operation and activities of the Renegade System Network, unless you agreed or gave your prior permission to them for additional uses. 
 
 _Third Party Data & Data in the Aggregate_: Aggregate data (data gathered across all user accounts) may be gathered in a non-personally identifiable form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our visitors, and by measuring demographics and interests regarding specific areas and services of the Site. Aggregate data may be disclosed in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, no personal information that could be used to identify you personally is disclosed in these situations. 
 
 _External Service Providers_ : Separate services are offered by third parties, also known as external service providers, some of whom advertise on the Site or are linked to from the Site. If you choose to use these services, disclose information to these parties, and/or grant them permission to collect information about you, their privacy policy governs the use of your information. We will not disclose your personal information to external service providers without your express consent. 
 
-_Business Transaction_ : The Renegade System Network reserves the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business. In the event the Renegade System Network enters a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information may be among the assets transferred. 
+_Business Transaction_ : The Renegade System reserves the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business. In the event the Renegade System enters a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information may be among the assets transferred. 
 
-_Other_ : We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions of Use Agreement or may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Site users, or anyone else that could be harmed by such activities. The Renegade System Network may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our services. 
+_Other_ : We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions of Use Agreement or may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Site users, or anyone else that could be harmed by such activities. The Renegade System may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our services. 
 
 We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or Users may abuse or misuse your personal information that they collect from the Site. We use industry standard practices to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
 **What are my choices regarding collection, use, and distribution of my information?**
 
-You do not have to disclose personally identifiable information to view the Site. If you choose to purchase a product from us, you will need to disclose certain information as specified above. The Renegade System Network will send you email upon a purchase from the Site. The Renegade System Network may also send you email regarding our products and services from time to time. Only the Renegade System Network, or agents working on behalf of the Renegade System Network, will send you these emails. You may opt out of receiving these emails at any time by following the unsubscribe directions in the email message. 
+You do not have to disclose personally identifiable information to view the Site. If you choose to purchase a product from us, you will need to disclose certain information as specified above. The Renegade System will send you email upon a purchase from the Site. The Renegade System may also send you email regarding our products and services from time to time. Only the Renegade System, or associates working on behalf of the Renegade System, will send you these emails. You may opt out of receiving emails directly from Us the at any time by following the unsubscribe directions in the email message. 
 
 **How may I use other users' information?**
 
 Recognizing the global nature of the Internet, you agree to comply with all applicable local laws and rules regarding online conduct and privacy, as well as content. Specifically, but not as a limitation, you agree to comply with all applicable laws regarding transmission of technical and personal data exported from the United States or the country in which you reside. 
 
-We do not tolerate spam. You are not licensed to add a Renegade System Network's User, even a User who contacted you, to your mail (email or physical mail) list without their express, written consent. 
+We do not tolerate spam. You are not licensed to add a Renegade System's User, even a User who contacted you, to your mail (email or physical mail) list without their express, written consent. 
 
 **What security precautions are in place to protect the loss, misuse, or alteration of my information?**
 
-Whenever the Renegade System Network handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms and Conditions of Use Agreement and this Policy. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+Whenever the Renegade System handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms and Conditions of Use Agreement and this Policy. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
 **How are children's privacy protected?**
 
-Children under the age of 18 are not authorized to use the Site and we ask that children do not submit any personal information to us. We do not share personal information about Users under the age of 18 with third parties and we do not sell or rent personal information about any of our Users, regardless of age. 
+Children under the age of 18 are not authorized to use the Site and we ask that children do not submit any personal information to us. 
 
 **Additional Information**
 
-Any questions regarding this statement should be directed to _________________. 
+Any questions regarding this statement should be directed to [support@therenegadenetworkmarketer.com](mailto:support@therenegadenetworkmarketer.com). 
 
-This Policy is the sole authorized statement of the Renegade System Network's practices with respect to the online collection of personally identifiable information and the usage of such information. Any summaries of this Policy generated by third party software or otherwise shall have no legal effect, are in no way binding upon the Renegade System Network, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. 
+This Policy is the sole authorized statement of the Renegade System's practices with respect to the online collection of personally identifiable information and the usage of such information. Any summaries of this Policy generated by third party software or otherwise shall have no legal effect, are in no way binding upon the Renegade System, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. 
 
 Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline. 
