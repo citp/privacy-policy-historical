@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021934id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530133050id_/http%3A//sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Make your own Online Games Arcade, War Space & Fantasy Games
+# Privacy Policy - Make your own Online Games Arcade, War Space & Platformer Games
 
 ### Privacy Policy
 
@@ -23,6 +23,12 @@ Clients can change most account information online. Information that cannot be c
 #### Cookies
 
 The system uses cookies to record session information, so that the client's data files and content remain accessible accross multiple page-views in the site.
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to users based on visits to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 #### E-mail Communication
 
