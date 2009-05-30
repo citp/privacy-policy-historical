@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091456id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasview.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530082544id_/http%3A//www.vegasview.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# VegasView.com
+# Privacy Policy - VegasView.com
 
-|  At VegasView.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
+Select A Hotel:
+
+Check-In Date:
+
+Check-Out Date:
+
+  
+At VegasView.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
 What information do we collect? How do we use it?  When you reserve a hotel room we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your reservation request and to notify you of your reservation status. When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new VegasView.com services, and special offers we think you'll find valuable. Does VegasView.com protect customer information? When you place orders or access your account information, we offer the use of secure encryption algorithms to protect sensitive data. The encryption algorithms encrypt all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
 
