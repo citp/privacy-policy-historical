@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eyeofdubai.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144204id_/http%3A//www.eyeofdubai.com/v1/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeofdubai.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530081000id_/http%3A//www.eyeofdubai.com/v1/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Eye of Dubai
-
-**Privacy Policy**
 
 **1\. Introduction  
 **This policy covers the EYE OF DUBAI’S use of personal information that the EYE OF DUBAI collects when you use eyeofdubai.com the policy also gives you information about eye of Dubai - Fourth Dimension Co and third parties' use   
