@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012412id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorgames.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531012758id_/http%3A//armorgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Armor Games
 
@@ -40,3 +40,10 @@ Questions and Complaints
 If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us @ webmaster@ArmorGames.com 
 
 By using this site, you signify your assent to the ArmorGames.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+
+_Additional Information_  
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
