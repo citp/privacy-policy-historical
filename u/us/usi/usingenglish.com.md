@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152142id_/http%3A//www.usingenglish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531011823id_/http%3A//www.usingenglish.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
@@ -28,7 +28,7 @@ As a member of UsingEnglish.com you will receive our monthly site update newslet
 
 ## Advertisers
 
-We use an outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use third-party vendors to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with ads are collected by ad companies, and we do not have access to this information. For example, Google uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ## Public Forums
 
