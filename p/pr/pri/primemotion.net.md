@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primemotion.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072613id_/http%3A//primemotion.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primemotion.net privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530143009id_/http%3A//primemotion.net/privacy.php) for the most accurate reproduction.*
 
 # PrimeMotion - Privacy & Policy
 
