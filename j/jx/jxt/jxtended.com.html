@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jxtended.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217085854id_/http%3A//jxtended.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jxtended.com privacy policy that was archived on 2009-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090530033805id_/http%3A//jxtended.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	  <base href="http://jxtended.com/privacy.html">
@@ -12,7 +12,9 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy</title>
   <link href="/templates/jxtended/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/finder.css" type="text/css">
   <link rel="stylesheet" href="/components/com_zine/media/slimbox/slimbox.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_finder/media/css/advanced.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/components/com_zine/media/slimbox/slimbox.js"></script>
@@ -31,8 +33,7 @@
 	<!--[if IE 7]>
 		<link rel="stylesheet" type="text/css" href="/templates/jxtended/css/ie_7.css" media="screen, projection" />
 	<![endif]-->
-	
-</head>
+	</head>
 
 <body id="joomla">
     <div id="page">
@@ -50,7 +51,7 @@
                 <a name="mainmenu"></a>
         <div id="nav" class="clear">
             		<div class="moduletable">
-					<ul class="menu-nav"><li class="parent item34"><a href="http://jxtended.com/basics.html"><span>Basics</span></a></li><li class="parent item35"><a href="http://jxtended.com/solutions.html"><span>Solutions</span></a></li><li class="parent item36"><a href="http://jxtended.com/products.html"><span>Products</span></a></li><li class="parent item2"><a href="http://jxtended.com/about-us.html"><span>About Us</span></a></li><li class="item11"><a href="http://jxtended.com/contact.html"><span>Contact</span></a></li><li class="parent item16"><a href="http://jxtended.com/support.html"><span>Support</span></a></li><li class="parent item22"><a href="http://jxtended.com/news.html"><span>News</span></a></li></ul>		</div>
+					<ul class="menu-nav"><li class="item1"><a href="http://jxtended.com/"><span>Home</span></a></li><li class="parent item34"><a href="http://jxtended.com/basics.html"><span>Basics</span></a></li><li class="parent item36"><a href="http://jxtended.com/products.html"><span>Products</span></a></li><li class="parent item2"><a href="http://jxtended.com/about-us.html"><span>About Us</span></a></li><li class="item11"><a href="http://jxtended.com/contact.html"><span>Contact</span></a></li><li class="parent item16"><a href="http://jxtended.com/support.html"><span>Support</span></a></li><li class="parent item97"><a href="/documentation.html"><span>Documentation</span></a></li><li class="parent item22"><a href="http://jxtended.com/news.html"><span>News</span></a></li></ul>		</div>
 			<div class="moduletable-mainmenu">
 					
 <script type="text/javascript">
@@ -58,34 +59,50 @@
 		var value;
 
 		// Set the input value if not already set.
-		if (!$('mod_finder_q').getProperty('value')) {
-			$('mod_finder_q').setProperty('value', 'search...');
+		if (!$('mod_finder_q100').getProperty('value')) {
+			$('mod_finder_q100').setProperty('value', 'search...');
 		}
 
 		// Get the current value.
-		value = $('mod_finder_q').getProperty('value');
+		value = $('mod_finder_q100').getProperty('value');
 
 		// If the current value equals the previous value, clear it.
-		$('mod_finder_q').addEvent('focus', function() {
+		$('mod_finder_q100').addEvent('focus', function() {
 			if (this.getProperty('value') == value) {
 				this.setProperty('value', '');
 			}
 		});
 
 		// If the current value is empty, set the previous value.
-		$('mod_finder_q').addEvent('blur', function() {
+		$('mod_finder_q100').addEvent('blur', function() {
 			if (!this.getProperty('value')) {
 				this.setProperty('value', value);
 			}
+		});
+
+		
+		$('mod-finder-100').addEvent('submit', function(e){
+			e = new Event(e);
+			e.stop();
+
+			// Disable select boxes with no value selected.
+			if ($chk($('mod-finder-100-advanced'))) {
+				$('mod-finder-100-advanced').getElements('select').each(function(s){
+					if (!s.getProperty('value')) {
+						s.setProperty('disabled', 'disabled');
+					}
+				});
+			}
+
+			$('mod-finder-100').submit();
 		});
 	});
 </script>
 
 <div class="finder-mainmenu">
-	<form action="/search.html" method="get">
-		<label for="mod_finder_q" class="accessibility">Search</label>
-		<input type="text" name="q" id="mod_finder_q" size="20" value="">
-	</form>
+		<form id="mod-finder-100" action="/search.html" method="get">
+		<input type="text" name="q" id="mod_finder_q100" class="inputbox" size="20" value="">
+			</form>
 </div>		</div>
 	
         </div><!-- end nav -->
@@ -113,9 +130,6 @@
 
 <h1 class="article_title">
 Privacy</h1>
-
-<p class="buttonheading">
-</p>
 
 <div class="clear"></div>
 
@@ -261,43 +275,43 @@ Privacy</h1>
 					
 <ul class="list-doc">
 	<li>
-						<a href="/news/product/82-jxtended-reports-212-stable-released.html" class="contentpagetitle">
-				JXtended Reports 2.1.2 Stable Released</a>
+						<a href="/news/product/204-searching-joomla-sites-walking-through-jxtended-finder.html" class="contentpagetitle">
+				Searching Joomla Sites - Walking through JXtended Finder</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/product/81-jxtended-exchange-203-stable-released.html" class="contentpagetitle">
-				JXtended Exchange 2.0.3 Stable Released</a>
+						<a href="/news/product/205-jxtended-finder-110-stable-release.html" class="contentpagetitle">
+				JXtended Finder 1.1.0 Stable Release</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/product/80-introducing-labels.html" class="contentpagetitle">
-				Labels: A New Way to Group and Organize Content for Joomla!</a>
+						<a href="/news/product/199-jxtended-comment-121-beta-released.html" class="contentpagetitle">
+				JXtended Comment 1.2.1 Beta Released</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/product/75-content-manager-frontend-acl-editing-in-joomla-beta-testing.html" class="contentpagetitle">
-				Content Manager - Frontend ACL Editing in Joomla - Beta Testing</a>
+						<a href="/news/product/77-jxtended-magazine-215-released.html" class="contentpagetitle">
+				JXtended Magazine 2.1.5 Released</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/product/72-reports-210-stable-released.html" class="contentpagetitle">
-				Reports 2.1.0 Stable Released</a>
+						<a href="/news/product/92-inside-jxtended-finder-part-2-search-filters.html" class="contentpagetitle">
+				Inside JXtended Finder 1.1 - Part 2 - Search Filters</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/product/73-comments-111-stable-released.html" class="contentpagetitle">
-				Comments 1.1.1 Stable Released</a>
+						<a href="/news/product/88-jxtended-comments-120-stable-released.html" class="contentpagetitle">
+				JXtended Comments 1.2.0 Stable Released</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
@@ -315,43 +329,43 @@ Privacy</h1>
 					
 <ul class="list-doc">
 	<li>
-						<a href="/news/company/84-precision-banner-tagging-in-joomla.html" class="contentpagetitle">
-				Precision Banner Tagging in Joomla</a>
+						<a href="/news/company/209-joomla-qa-on-twitter-part-2.html" class="contentpagetitle">
+				Joomla! Q&amp;A on Twitter - Part 2</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/company/83-solution-profile-techinfocenter.html" class="contentpagetitle">
-				Solution Profile: Techinfocenter</a>
+						<a href="/news/company/208-joomla-qa-on-twitter-part-1.html" class="contentpagetitle">
+				Joomla! Q&amp;A on Twitter - Part 1</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/company/79-joomla-day-san-francisco-bay-area-roundup.html" class="contentpagetitle">
-				Joomla Day - San Francisco Bay Area Roundup</a>
+						<a href="/news/company/94-best-joomla-developer-training-coming-to-vegas.html" class="contentpagetitle">
+				Best Joomla developer training coming to Vegas</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/company/76-the-mystery-behind-user-id-62.html" class="contentpagetitle">
-				The Mystery Behind User ID 62</a>
+						<a href="/news/company/93-viover60no-is-using-joomla-and-jxtended-magazine.html" class="contentpagetitle">
+				viover60.no is using Joomla and JXtended Magazine</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/company/74-school-family-media-launches-with-jxtended-magazine.html" class="contentpagetitle">
-				School Family Media launches with JXtended Magazine</a>
+						<a href="/news/company/91-jxtended-heading-to-melbourne-australia.html" class="contentpagetitle">
+				JXtended heading to Melbourne, Australia</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
  	 	</li>
 	<li>
-						<a href="/news/company/68-meet-the-jxtended-developers.html" class="contentpagetitle">
-				Meet the JXtended Developers</a>
+						<a href="/news/company/90-peoplebrowsr-running-on-joomla-and-a-dash-of-jxtended.html" class="contentpagetitle">
+				PeopleBrowsr running on Joomla, and a dash of JXtended</a>
 			
 	
 			<span class="article_separator">&nbsp;</span>
@@ -385,7 +399,7 @@ Privacy</h1>
 		<button type="submit">Login</button>
 	</fieldset>
 
-	<input type="hidden" name="fe2b6f5d5ff1b4e40be0857628866f8b" value="1"></form>
+	<input type="hidden" name="d3b1236403587dd80a8e384b11ce9c89" value="1"></form>
 <br style="clear:both">
 
 <ul class="list-arrow">
