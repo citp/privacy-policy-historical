@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612160902id_/http%3A//panthers.com/Help/Default.aspx%3Fid%3D4762) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531003944id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Panthers.com
+# Carolina Panthers | Privacy Policy
 
-## Carolina Panthers Website Privacy Policy
+### PRIVACY POLICY
 
-_Revised August 17, 2007_
+#### Carolina Panthers Website Privacy Policy
+
+ _Revised August 17, 2007_
 
 [ ](http://www.truste.org/ivalidate.php?url=www.panthers.com&sealid=102)This privacy policy applies to the Carolina Panthers website located at www.panthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -12,7 +14,7 @@ The Website is operated by Panthers Football LLC.
 
 Panthers Football LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.panthers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com)or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 The Website complies with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -21,21 +23,21 @@ When this privacy policy uses the term "personally identifiable information" or 
 Please read the information below to learn more about our data collection policies and practices.  
 
 
-  1. Types Of Information That May Be Collected
-  2. How Information May Be Collected
-  3. How We Use The Information Collected
-  4. With Whom The Information May Be Shared
-  5. Links To Other Websites
-  6. Security
-  7. A Special Note For Parents Concerning Privacy
-  8. Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
-  9. Correcting/Updating Personal Information
-  10. Your California Privacy Rights
-  11. Questions About This Privacy Policy
+  1. [Types Of Information That May Be Collected](https://web.archive.org/about-us/privacy-policy.html#1)
+  2. [How Information May Be Collected](https://web.archive.org/about-us/privacy-policy.html#2)
+  3. [How We Use The Information Collected](https://web.archive.org/about-us/privacy-policy.html#3)
+  4. [With Whom The Information May Be Shared](https://web.archive.org/about-us/privacy-policy.html#4)
+  5. [Links To Other Websites](https://web.archive.org/about-us/privacy-policy.html#5)
+  6. [Security](https://web.archive.org/about-us/privacy-policy.html#6)
+  7. [A Special Note For Parents Concerning Privacy](https://web.archive.org/about-us/privacy-policy.html#7)
+  8. [Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy](https://web.archive.org/about-us/privacy-policy.html#8)
+  9. [Correcting/Updating Personal Information](https://web.archive.org/about-us/privacy-policy.html#9)
+  10. [Your California Privacy Rights](https://web.archive.org/about-us/privacy-policy.html#10)
+  11. [Questions About This Privacy Policy](https://web.archive.org/about-us/privacy-policy.html#11)
 
 
 
-##  Types Of Information That May Be Collected
+#### Types Of Information That May Be Collected
 
 The following are types of information we may collect.
 
@@ -45,7 +47,7 @@ Site Usage Information: We may receive and store certain types of internet usage
 
 Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
-##  How Information May Be Collected
+#### How Information May Be Collected
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
@@ -66,11 +68,11 @@ IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-str
 
 Transaction Information: If you conduct a financial transaction with our Website, such as purchase services offered on our Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
-##  How We Use The Information Collected
+#### How We Use The Information Collected
 
 As applicable, the information you provide to us may be used to contact you about the Website; contact you relating to your membership status; confirm or fulfill an order you have made; inform you of a prize you have won; monitor or improve the use of the Website; customize the advertising and content you see; monitor compliance with our terms and conditions of use of the Website; and send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
 
-##  With Whom The Information May Be Shared
+#### With Whom The Information May Be Shared
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
@@ -84,35 +86,35 @@ Other Promotional Offers: We may send offers to you on behalf of our marketing p
 
 Subsidiaries and Affiliates: We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates defined as Panthers Stadium, LLC. and Stadium Food and Beverage, Inc. Examples include sharing email addresses to promote stadium events or to process food and beverage service selections. If you do not want us to share your information with our subsidiaries and affiliates, you may opt out by replying to unsubscribe, or emailing us at [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com).
 
-Third-Party Ad Serving & Audience and Traffic Measurement Services: The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/optout_nonppii.asp)in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
+Third-Party Ad Serving & Audience and Traffic Measurement Services: The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
 
 Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See "Your Acceptance of the Privacy Policy and Notification of Changes to the Policy" section below.
 
 Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
-##  Links To Other Web Sites
+#### Links To Other Web Sites
 
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information. 
 
-##  Security
+#### Security
 
 This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect, and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
 
-##  A Special Note For Parents Concerning Privacy
+#### A Special Note For Parents Concerning Privacy
 
 The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.
 
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web Website](http://www.the-dma.org/)and explore the Get CyberSavvy! Program as well as the [GetNetWise Website](http://www.getnetwise.org/)to learn more about parental control tools.
+The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web Website](http://www.the-dma.org/) and explore the Get CyberSavvy! Program as well as the [GetNetWise Website](http://www.getnetwise.org/) to learn more about parental control tools.
 
-##  Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
+#### Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and/or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address. 
 
-##  Correcting/Updating Personal Information
+#### Correcting/Updating Personal Information
 
 If your personally identifiable information changes, such as your email address or zip code, or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, using an opt out, replying to unsubscribe, or emailing us at [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com). We will respond to your request within 30 days. 
 
-##  Your California Privacy Rights
+#### Your California Privacy Rights
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes. 
 
@@ -120,8 +122,8 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in/opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [caprivacy@panthers.nfl.com](mailto:caprivacy@panthers.nfl.com)or write to us at Carolina Panthers, Attn: CA Privacy Rights, 800 South Mint Street, Charlotte, NC 28202.
+If you are a California resident and have questions about our compliance with this law, please send an email to [caprivacy@panthers.nfl.com](mailto:caprivacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: CA Privacy Rights, 800 South Mint Street, Charlotte, NC 28202.
 
-##  Questions About This Privacy Policy
+#### Questions About This Privacy Policy
 
-If you have any questions about this privacy policy or the privacy practices of this Website, please send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com)or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. 
+If you have any questions about this privacy policy or the privacy practices of this Website, please send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com) or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. 
