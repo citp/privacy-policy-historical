@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042821id_/http%3A//www.donnahay.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531002050id_/http%3A//www.donnahay.com.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Donna Hay - Food, Recipes & Cooking - Magazine & Books - Ideas & Tips
 
 
 
 
-In this privacy policy "donna hay" means Donna Hay Home Pty Ltd ACN 126 041 183 as trustee for the "donna hay" trading trust and all references to "donna hay" include its affiliate body corporate and Donna Hay personally. The words "you" and "your" mean the person or entity contacting the "donna hay" website for any purpose.
+In this privacy policy "donna hay" means donna hay general store ABN 6289 2484 639 as trustee for the donna hay general store trust and all references to "donna hay" include its affiliate body corporate and Donna Hay personally. The words "you" and "your" mean the person or entity contacting the "donna hay" website for any purpose.
 
   1.  **protecting your information is important**
 
@@ -13,16 +13,12 @@ At "donna hay" we understand the importance you attach to information that ident
 
   2.  **what information we collect about you + what we do with it**
 
-"donna hay" collects information about you each time you come to any part of the "donna hay" website. We collect information about the time, date, duration and usage of the "donna hay" website. 
-
-We collect personal data for the purpose of providing a specific product or service requested by our customers and consumer marketing data. Certain information may be required in order to provide this product or service, including your full name, e-mail address, billing address, contact phone numbers and credit card number.
-
-"donna hay" uses statistics about the use of our website to continually improve it and to improve our customer service.
-
-If you submit information to "donna hay" through the "donna hay" website either using an electronic form or by sending an email we collect that information and use it for the purposes that you have provided it.
-
-In addition, we may use your information to provide you with special offers, information about new products and special promotions that we think may interest you. If you do not want to receive this information, you can let us know by sending "donna hay" an email at [enquiries@donnahay.com.au](mailto:enquiries@donnahay.com.au), or by mail to "donna hay" Level 5, 83-97 Kippax St, Surry Hills NSW 2010 or call (02) 9282 6500. Please provide us with your customer details including name, address and contact number. In addition, indicate if you do not wish to receive any more promotional material.
-
+"donna hay" collects information about you each time you come to any part of the "donna hay" website. We collect information about the time, date, duration and usage of the "donna hay" website.  
+We collect personal data for the purpose of providing a specific product or service requested by our customers and consumer marketing data. Certain information may be required in order to provide this product or service, including your full name, e-mail address, billing address, contact phone numbers and credit card number.  
+"donna hay" uses statistics about the use of our website to continually improve it and to improve our customer service.  
+If you submit information to "donna hay" through the "donna hay" website either using an electronic form or by sending an email we collect that information and use it for the purposes that you have provided it.  
+We also collect information when people join our mailing list at the donna hay general store. As with all information we hold this will be compliant with our privacy policy.   
+In addition, we may use your information to provide you with special offers, information about new products and special promotions that we think may interest you. If you do not want to receive this information, you can let us know by sending "donna hay" an email at [enquiries@donnahay.com.au](mailto:enquiries@donnahay.com.au), or by mail to "donna hay" Level 5, 83-97 Kippax St, Surry Hills NSW 2010 or call (02) 9282 6500. Please provide us with your customer details including name, address and contact number. In addition, indicate if you do not wish to receive any more promotional material.  
 The information collected may also be used to inform you of additional products and services, which may be of interest to you. All marketing material sent to you will include an option for you to request removal from our contact lists for any future marketing. 
 
   3. **what is a cookie and what are they used for?**
