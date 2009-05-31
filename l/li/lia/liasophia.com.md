@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liasophia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102641id_/http%3A//corporate.liasophia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liasophia.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601012233id_/http%3A//corporate.liasophia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lia Sophia Fashion Jewelry - Share the Love of Jewelry
 
@@ -12,7 +12,7 @@ Consent
 
 By entering this Web site, you agree to **lia sophia's** collection and use of this information in accordance of this policy.
 
-Collected Information and It's Uses
+Collected Information and Its Uses
 
 When placing an order online, we need your name, mailing address, phone number, e-mail address and credit card information with expiration date for processing.
 
