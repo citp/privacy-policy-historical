@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220160216id_/http%3A//www.alternativeapparel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531181613id_/http%3A//www.alternativeapparel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Alternative | Privacy & Security
+# Alternative | Privacy Policy
 
 |    
 
