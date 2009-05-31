@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215034042id_/http%3A//www.toonboom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531081348id_/http%3A//toonboom.com/help/privacy.php) for the most accurate reproduction.*
 
 # 2D Animation | Computer Animation Software | Toon Boom
 
@@ -56,13 +56,13 @@ Back
   
 **2.COMMUNICATION OF YOUR PERSONAL INFORMATION TO AFFILIATES AND THIRD PARTIES**
 
-When you provide information to us, we may communicate and disclose your information to with our affiliates, distributors and other third parties for the purpose of fulfilling and completing your requests and the transactions related thereto or for such third parties to offer you their products and services. These affiliates and third parties may be in Canada, the United States, the European Union or in other parts of the world. 
+When you provide information to us, we do not communicate or disclose your information to other third parties for the purpose of fulfilling and completing your requests and the transactions related thereto or for such third parties to offer you their products and services. The exception being any customers who purchase Animation-ish, a product jointly developed by Toon Boom Animation Inc. and FableVision Inc. In this case, the customer information will be shared by both Toon Boom and FableVision.
 
-Occasionally, you may receive e-mail communications with information from TOON BOOM or from third parties, which may be useful to you, including information about our products and services or about offerings from TOON BOOM and our affiliates or third parties. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mails or other marketing contacts. 
+Occasionally, you may receive e-mail communications with information from TOON BOOM, which may be useful to you, including information about our products and services or about offerings from TOON BOOM and our affiliates or third parties. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mails or other marketing contacts.
 
-We may also aggregate statistics that we gather about our customers, sales, traffic patterns, and products and services and provide these statistics to third parties; however, when we do, these statistics will not include any personal information that identifies individuals. All reasonable measures have also been taken so that the information you provide to us will not be used by our affiliates or third parties for purposes other than those indicated herein. 
+We may also aggregate statistics that we gather about our customers, sales, traffic patterns, and products and services and provide these statistics to third parties; however, when we do, these statistics will not include any personal information that identifies individuals. All reasonable measures have also been taken so that the information you provide to us will not be used by our affiliates or third parties for purposes other than those indicated herein.
 
-We may also use, disclose and communicate your personal information if required to do so by law including by an order of any court or to any potential purchaser of an interest in our enterprise or of shares in our enterprise as well as to any of our lenders or potential lenders.   
+We may also use, disclose and communicate your personal information if required to do so by law including by an order of any court or to any potential purchaser of an interest in our enterprise or of shares in our enterprise as well as to any of our lenders or potential lenders.  
   
    
   
