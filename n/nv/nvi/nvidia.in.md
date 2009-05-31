@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231536id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531030807id_/http%3A//www.nvidia.in/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
-
-| 
-
-  
-  
----  
- | NVIDIA Privacy Policy
 
 This policy was last updated on February 25, 2008.
 
@@ -26,7 +19,10 @@ NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-o
   9. Online Privacy Policy Updates
   10. Your Consent
 
+
+
 ________________________________________________________________________ 
+
   1. #### Introduction
 
 NVIDIA® is committed to implementing appropriate protections for any Personal Information that our users share with us. 
