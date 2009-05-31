@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225012902id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfootballgames.co.uk privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531052911id_/http%3A//www.myfootballgames.co.uk/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy : Play Privacy Policy Game Free Online at MyFootballGames.co.uk
 
@@ -27,10 +27,12 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.myfootballgames.co.uk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
+Google, as a third party vendor, uses cookies to serve ads on myfootballgames.co.uk
+
+Google's use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet.
+
 www.myfootballgames.co.uk has no access to or control over these cookies that are used by third-party advertisers. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.myfootballgames.co.uk's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-Copyright 2007 - 2008© **_Football Games - Soccer Games - Free Online Sports Games_** \- All rights reserved.
