@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iponsel.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012033709id_/http%3A//iponsel.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iponsel.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531043137id_/http%3A//iponsel.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Windows Mobile Themes - Privacy Policy
 
@@ -17,3 +17,6 @@ We use other third-parties advertising companies to serve ads when you visit our
 
 **Contact Information**  
 If you have any questions regarding our privacy policy, please contact us.
+
+ **Update 2-April-2009**  
+To try and bring you offers that are of interest to you, we have relationships with other companies like Google that use the DART cookie enables, that place ads on our web site. As a result of your visit to our site, ad server companies, with the help of cookies, may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of each those websites. Privacy Policy of Google and how to opt out of the user of DART cookie is available at [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
