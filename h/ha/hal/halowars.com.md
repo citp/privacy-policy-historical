@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227050153id_/http%3A//www.halowars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531182048id_/http%3A//www.halowars.com/privacy.html) for the most accurate reproduction.*
 
 # Halo Wars Privacy Statement
 
-(Last updated: 09/27/2006)
+(Last updated: 1/22/2009)
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Ensemble Studios' Halo Wars site (the "Site"); it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Microsoft's Halo Wars site (the "Site"); it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
 **Collecting Your Personal Information**
 
@@ -50,9 +50,4 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information**
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at webmaster@ensemblestudios.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-Ensemble Studios Webmaster  
-10440 N Central Expy Suite 1600  
-Dallas, Texas  
-75231
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at contact@robotentertainment.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
