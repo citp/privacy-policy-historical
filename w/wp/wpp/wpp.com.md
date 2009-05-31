@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165257id_/http%3A//www.wpp.com/WPP/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531063522id_/http%3A//www.wpp.com/wpp/privacy.htm) for the most accurate reproduction.*
 
-# WPP - WPP Internet Privacy Policy
+# WPP Internet Privacy Policy - WPP
 
   
 
