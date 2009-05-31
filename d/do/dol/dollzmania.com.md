@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803164819id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531100047id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
 
 # Dollz Mania Dolls - Doll makers and Dress up games - Make Cartoon Dolls @ Dollz Mania
 
@@ -22,13 +22,22 @@ Your personal information is collected through our contact forms, members area &
 
 Advertisers:
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.   
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on this website for  displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 
 
 * * *
 
 Summation:  
-If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20080803164819id_/http%3A//www.dollzmania.com/contact.htm)  
+If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20090531100047id_/http%3A//www.dollzmania.com/contact.htm)  
 
 
 * * *
