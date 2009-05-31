@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014211id_/http%3A//amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531165045id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY at Amiclubwear.com
 
@@ -32,4 +32,4 @@ Except as otherwise stated in this Policy, at present Amiclubwear.com does not d
 
 Occasionally Amiclubwear.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Amiclubwear.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-At Amiclubwear.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology. 
+At Amiclubwear.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology.
