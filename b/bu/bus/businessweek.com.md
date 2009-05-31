@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220082703id_/http%3A//www.businessweek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531191152id_/http%3A//www.businessweek.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Week Online: Privacy Notice
 
@@ -16,7 +16,7 @@ BusinessWeek Digital uses permanent cookies to recognize you and enable an autom
 
 BusinessWeek Digital uses third-party advertising companies to serve ads when you visit our Web site. Third-party advertising companies track information about your visits to this Web site to serve ads to you. In the course of advertisements being served to you, the third-party advertising company may place or recognize a unique third-party cookie or cookies on your browser. In addition, BusinessWeek may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site.
 
-For more information about cookies, [click here](https://web.archive.org/web/20081220082703id_/http%3A//www.businessweek.com/global_ssi/custserv/faq_web.htm#18)
+For more information about cookies, [click here](https://web.archive.org/web/20090531191152id_/http%3A//www.businessweek.com/global_ssi/custserv/faq_web.htm#18)
 
 **Choice:**  
 If you would prefer not to receive information from BusinessWeek, The McGraw-Hill Companies, or from companies outside The McGraw-Hill Companies, please submit the [Opt Out form](http://bwso.businessweek.com/r/bwo_o.asp).
