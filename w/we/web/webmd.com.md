@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2008-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081031082535id_/http%3A//www.webmd.com/policies/about-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531170312id_/http%3A//www.webmd.com/policies/about-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ To give you confidence that we adhere to strict healthcare industry privacy stan
 
 URAC - WebMD has been awarded e-Health accreditation from URAC, formerly the American HealthCare Accreditation Association. URAC is an independent accrediting body that has reviewed and approved WebMD's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards that are based on the Hi-Ethics Principles. WebMD helped create the Hi-Ethics Principles as a founding member of the Hi-Ethics alliance. Hi-Ethics was an organization of health Web sites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. To verify our compliance, click on the URAC logo. Please note that the URAC certification only applies to the WebMD.com site.
 
-[ ](http://www.truste.org/ivalidate.php?url=www.webmd.com&sealid=101)
+[ ](https://web.archive.org/click?url=http://www.truste.org/ivalidate.php?url=www.webmd.com&sealid=101)
 
 TRUSTe - WebMD is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. As required of TRUSTe licensees, we will inform you of the following in this Privacy Policy:
 
