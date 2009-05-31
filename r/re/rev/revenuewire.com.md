@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064713id_/http%3A//www.revenuewire.com/about/revenuewire-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531030042id_/http%3A//www.revenuewire.com/privacy/revenuewire-privacy) for the most accurate reproduction.*
 
 # RevenueWire Privacy Policy
-
-  
-
 
 ## Privacy Policy
 
 RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personal information you may provide to us when using any of our online services. This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire. RevenueWire, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.revenuewire.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at privacy@revenuewire.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [privacy@revenuewire.com](https://web.archive.org/web/20090531030042id_/http%3A//www.revenuewire.com/privacy/privacy@revenuewire.com.). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Information Collection
 
@@ -17,7 +14,7 @@ When you submit information to open an account to either offer your digital down
 
 When creating an account as an Affiliate or Merchant on our site, if you wish to have payments wired to your bank account, we will ask you to submit Bank Account information to us in order to facilitate these payments. The Bank Account information you submit to us is sensitive information and is therefore protected by us using industry-standard SSL Encryption.
 
-We also give our users the option of receiving useful product information (such as product updates, new product offerings, or other information that may be of interest to you), via opt-in permission based email. You may opt-out of receiving such email communications from us at any time by clicking the Unsubscribe link in the applicable email, or by sending us an email with your request to privacy@revenuewire.com, and including 'UNSUBSCRIBE' in the subject line. We fully ensure your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
+We also give our users the option of receiving useful product information (such as product updates, new product offerings, or other information that may be of interest to you), via opt-in permission based email. You may opt-out of receiving such email communications from us at any time by clicking the Unsubscribe link in the applicable email, or by sending us an email with your request to [privacy@revenuewire.com](https://web.archive.org/web/20090531030042id_/http%3A//www.revenuewire.com/privacy/privacy@revenuewire.com.), and including 'UNSUBSCRIBE' in the subject line. We fully ensure your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
@@ -50,7 +47,7 @@ We may collect and record information that is related to the interaction between
 
 Once you have submitted your personal information to our web site, we provide you with the opportunity to access that information in order to update or correct it. If you have created a profile as a Merchant or Affiliate, you may login to your account with us and update the information there. You may update your email address from the 'Profile' link, and your other information from the 'Setup' link.
 
-If you did not create a profile on www.revenuewire.com, you may send us an email with your request to access your information at privacy@revenuewire.com.
+If you did not create a profile on www.revenuewire.com, you may send us an email with your request to access your information at [privacy@revenuewire.com](https://web.archive.org/web/20090531030042id_/http%3A//www.revenuewire.com/privacy/privacy@revenuewire.com.).
 
 ## Cookies
 
@@ -71,3 +68,14 @@ We may change this Privacy Policy at any time and without prior notice to you in
 ## Acceptance of Terms
 
 By using the RevenueWire services or accessing the RevenueWire web site you are consenting to the practices relating to information collection and use that are described in this Privacy Policy.
+
+If you have any questions regarding this privacy policy, please contact us at [privacy@revenuewire.com](https://web.archive.org/web/20090531030042id_/http%3A//www.revenuewire.com/privacy/privacy@revenuewire.com.).
+
+Alternatively, you may contact us by mail at:
+
+**RevenueWire, Inc.**  
+780 Tolmie Ave.  
+Suite 201  
+Victoria, BC V8X 3W4  
+Canada  
+
