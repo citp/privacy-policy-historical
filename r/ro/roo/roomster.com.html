@@ -1,0 +1,532 @@
+<!--The following is the downloaded HTML source of the roomster.com privacy policy that was archived on 2009-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531080459id_/http%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="main_app"><head>
+    <title>roommate search service, roommate finder, roommates wanted.</title>
+    <meta name="keywords" content="roommate,roomate,roommate search,roommate finder,roommate wanted,rooms for rent,find a roommate,roomate wanted,share a room,find roommates,apartments,sublet apartment,apartment">
+    <meta name="description" content="Roomster - roommate search service and roommate finder. Find affordable rooms and friendly roommates. We match roommates based on personality, not just rent and location.">		
+    <meta name="netinsert" content="0.0.1.2.27.1">
+
+    <link rel="stylesheet" type="text/css" href="http://static.roomster.com/css/common.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.roomster.com/themes/default.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.roomster.com/themes/lighting.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.roomster.com/themes/alphacube.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://static.roomster.com/script/facebox/facebox.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://static.roomster.com/css/nice_menus/nice_menus.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://static.roomster.com/css/nice_menus/nice_menus_default.css?13" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://static.roomster.com/css/autocomplete/jquery.autocomplete.css?13" media="screen">
+    <!--[if lte IE 6]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(http://static.roomster.com/css/ie6.css?13); /* ]]> */</style><![endif]-->
+    <!--[if gte IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(http://static.roomster.com/css/ie7.css?13); /* ]]> */</style><![endif]-->
+
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/divs.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/ajax/xmlhttp2.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/ajax/ajax_search.js?13"></script>    
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/lazy_links.js?13"></script>    
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/common/manage_user_services.js?13"></script>  
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/nice_menus.js"></script>
+    <script type="text/javascript" language="javascript">
+        function imageLoadError(img){img.src = "http://static.roomster.com/img/nophoto_profile.gif";return true;}
+        function thumbLoadError(img){img.src = "http://static.roomster.com/img/nophoto.gif";return true;}
+    </script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/protoaculous.1.8.2.min.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/jquery/jquery.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/jquery/jquery.bgiframe.min.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/jquery/jquery.ajaxQueue.js?13"></script>    
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/jquery/jquery.autocomplete.min.js?13"></script>    
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/facebox/facebox.js?13"></script> 
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/window/window.js?13"></script>
+    <script type="text/javascript" language="javascript" src="http://static.roomster.com/script/css_classes_edit.js?13"></script>
+    <script type="text/javascript" language="javascript">
+        jQuery.noConflict();
+        jQuery(document).ready(function($) {
+          $('a[rel*=facebox]').facebox({
+            loadingImage : 'http://static.roomster.com/script/facebox/loading.gif',
+            closeImage   : 'http://static.roomster.com/script/facebox/closelabel.gif'
+           });
+        });
+    </script>
+</head>
+<body>
+    <div id="container" style="overflow:visible;">
+        
+
+<script type="text/javascript">
+    function get_non_empty_value(input)
+    {
+        if (input == null)
+            return "";
+        else 
+            return input.value;
+    }
+        
+    // POPULATE ZIPCODE
+    function populate_zipcode(container_id, zipcode_value)
+    {
+        var temp = new Array();
+        temp = zipcode_value.split(' ');
+        if (document.getElementById(container_id + "2") != null) 
+        {
+            document.getElementById(container_id + "2").value = "";
+            document.getElementById(container_id + "2").focus();
+        }
+        if (temp.length > 1 && document.getElementById(container_id + "2") != null) // populate_separrately
+        {
+            document.getElementById(container_id).value = temp[0];
+            document.getElementById(container_id + "2").value = temp[1];
+        }
+        else
+        {
+            document.getElementById(container_id).value = zipcode_value;
+        }
+        jQuery(document).trigger('close.facebox');
+    }
+
+    // SAVE USER SEARCH ZIPCODE
+    var changezip_ajax = new xmlhttp2();
+    
+    function save_user_search_zipcode(zipcode, school_name_id)
+    {        
+        var p = new Array();
+        p.push(new paramDesc("user_id", user_id));
+        p.push(new paramDesc("zipcode", zipcode));
+        p.push(new paramDesc("school_name_id", school_name_id));
+        var bb = changezip_ajax.makeBoundary();
+        
+        var url = js_global_full_app_url + 'search/actions/user_search_zipcode.aspx';
+        changezip_ajax.request(url, "post", changezip_ajax.makePostParams(p, bb), true, on_save_user_zipcode_form_load, null, changezip_ajax.makeContentType(bb));
+    }
+    
+    function on_save_user_zipcode_form_load(_xmlhttp)
+    {       
+        if (_xmlhttp.responseText == "ok")
+        {
+            window.location.href = 'http://www.roomster.com/';
+        }
+        else
+        {
+            //err_div.style.display = 'block';
+            //findzip_form_outer_div.style.display = 'none';
+            //err_span.innerHTML = _xmlhttp.responseText;
+        }
+    }
+    
+    function populate_full_location_data(zip_hidden_id, zip, country_id_hidden_id, country_id, school_name_id_hidden_id, school_name_id, location_textbox_id, location, code_to_eval_ondone)
+    {
+        var zip_hidden = document.getElementById(zip_hidden_id);
+        if (zip_hidden != null)
+            zip_hidden.value = zip;
+        
+        var country_id_hidden = document.getElementById(country_id_hidden_id);
+        if (country_id_hidden != null)
+            country_id_hidden.value = country_id;
+        
+        var school_name_id_hidden = document.getElementById(school_name_id_hidden_id);
+        if (school_name_id_hidden != null)
+            school_name_id_hidden.value = school_name_id;
+        
+        var location_textbox = document.getElementById(location_textbox_id);
+        if (location_textbox != null)
+            location_textbox.value = location;
+        
+        eval(code_to_eval_ondone);
+    }
+    
+    function location_search_input_value(box, default_value, action){
+        if(action == 'onfocus'){
+            if(box.value == default_value){
+                box.value = '';
+                box.style.color = '#000';
+            }
+        }
+        else if(action == 'onblur'){
+            if(box.value == ''){
+                box.value = default_value;
+                box.style.color = '#a3a3a3';
+            }
+        }
+    }
+    
+    // homepage search box fucntions
+    function search_box_tab_selected(selected_service_to_search)
+    {
+        var selected_service_input = document.getElementById('search_box_service_selected_to_search');
+        if (selected_service_input != null)
+            selected_service_input.value = selected_service_to_search;
+        
+        for (var i=1; i<=5; i++)
+        {
+            var tab = document.getElementById('search_box_tab_' + i);
+            if (tab != null)
+            {
+                if (i == selected_service_to_search)
+                {
+                    tab.style.display = "block";
+                }
+                else
+                {
+                    tab.style.display = "none";
+                }
+            }
+        }
+    }
+    
+    function search_button_pressed_homepage(search_box_id, default_value, min_chars)
+    {
+        var search_box_input = document.getElementById(search_box_id);
+        if (search_box_input != null)
+        {
+            if (search_box_input.value == '' || search_box_input.value == default_value) 
+            {
+                jQuery.facebox('Please, type some location in the field');
+            }
+            else if (search_box_input.value.length < min_chars)
+            {
+                jQuery.facebox('The keyword is too short!');
+            }
+            else
+            {
+                jQuery.facebox({ ajax: 'http://www.roomster.com//search/location_search_box/locations_list.aspx?keyword=' + search_box_input.value})
+            }
+        }
+    }
+</script>
+        <script type="text/javascript">
+            var user_id = 0;
+            var locale = 'en-US';
+            var js_global_full_app_url = 'http://www.roomster.com/';
+        </script>
+   
+        
+
+
+    <div style="font-weight:bold; background:#197b30 url(http://static.roomster.com/img/visitor_homepage_header_bg.png) repeat-x bottom; overflow:visible; height:87px; margin-bottom:3px;">
+        <div style="float:left; width:5px; background:transparent url(http://static.roomster.com/img/icons/header_corner_left.gif) no-repeat bottom; height:87px;">&nbsp;</div>
+        <div style="float:left; padding:17px 0px 0px 25px;"><a href="http://www.roomster.com/"><img src="http://static.roomster.com/img/logo_visitor.gif" style="margin-right:10px;" alt="apartments, roommates &amp; sublets search"></a></div>
+        
+        <div style="float:right; width:5px; background:transparent url(http://static.roomster.com/img/icons/header_corner_right.gif) no-repeat bottom; height:87px;">&nbsp;</div>
+        
+            <div style="float:right; width:500px; font-weight:normal; padding-top:28px; padding-right:35px;">
+                <form id="frm" action="http://www.roomster.com/reg/login.aspx" method="post" style="margin:0px; padding:0px;">
+                    <table cellpadding="0" cellspacing="0" style="border:none; table-layout:fixed;" align="right">
+                        <tbody><tr>
+                            <td style="padding-bottom:3px; text-align:right; height:20px; width:250px;">
+                                <input type="checkbox" id="remember_email_homepage" name="remember_email_homepage">
+                                <label for="remember_email_homepage" style="color:#4fd36e; font-weight:normal;">Remember me</label>
+                            </td>
+                            <td style="padding-bottom:3px; text-align:right; height:20px; width:164px;"><a href="http://www.roomster.com/reg/retrieve.aspx" style="color:#4fd36e;">Forgot your password?</a></td>
+                            <td style="padding-bottom:3px; text-align:right; height:20px; width:79px;"></td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:16px; text-align:right;"> 
+                                <span style="font-size:11px; font-weight:bold; color:#ffffff;"><a href="http://www.roomster.com/reg/personal_info.aspx" style="font-size:11px; font-weight:bold; color:#ffffff; text-decoration:underline;">Signup</a> or</span>
+                                <input type="text" id="email_homepage" name="email_homepage" maxlength="100" class="inputtext" style="width:150px; color:#cfcfcf; font-weight:bold; font-size:10px; padding-left:5px;" onfocus="textbox_prompt_value(this,'Email','onfocus');" onblur="textbox_prompt_value(this,'Email','onblur');" value="">
+                            </td>
+                            <td style="padding-left:16px;">
+                                <input type="text" id="password_txt" name="password_txt" maxlength="100" class="inputtext" style="width:150px; color:#cfcfcf; font-weight:bold; font-size:10px; padding-left:5px;" onfocus="textbox_prompt_value(this,'Password','onfocus');">
+                                <input type="password" id="password_homepage" name="password_homepage" maxlength="100" class="inputtext" style="width:150px; display:none;  font-size:10px; padding-left:5px;" onblur="textbox_prompt_value(this,'Password','onblur');">
+                            </td>
+                            <td style="padding-left:16px;">
+                                <input type="submit" value="Log In" class="inputsubmit_new" onclick="clear_name_inputs();" style="width:51px;">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </form>
+            </div>
+            <script type="text/javascript">
+                var email_homepage_input = document.getElementById('email_homepage');
+                var password_homepage_txt = document.getElementById('password_txt');
+                var password_homepage_input = document.getElementById('password_homepage');
+
+                function textbox_prompt_value(input, default_value, action)
+                {
+                    if(action == 'onfocus'){
+                        if(input.value == default_value){
+                            if (input == password_homepage_txt)
+                            {
+                                password_homepage_txt.style.display = "none";
+                                password_homepage_input.style.display = "inline";
+                                password_homepage_input.focus();
+                            }
+                            else
+                            {
+                                input.value = '';
+                                input.style.color = '#000000';
+                            }
+                        }
+                    }
+                    else if(action == 'onblur'){
+                        if(input.value == ''){
+                            if (input == password_homepage_input)
+                            {
+                                password_homepage_txt.style.display = "inline";
+                                password_homepage_input.style.display = "none";
+                            }
+                            else
+                            {
+                                input.value = default_value;
+                                input.style.color = '#cfcfcf';
+                            }
+                        }
+                    }
+                }
+                
+                function clear_name_inputs()
+                {
+                    if (email_homepage_input.value == "Email")
+                    {
+                        email_homepage_input.value = "";
+                    }
+                    password_homepage_txt.value = "";
+                }
+                
+                textbox_prompt_value(email_homepage_input,'Email','onblur');
+                textbox_prompt_value(password_homepage_txt,'Password','onblur');
+            </script>
+        
+    </div>
+
+        
+            <div class="clearfix">
+                <div style="width:760px;float:left;">
+                
+<div class="editor_panel clearfix" style="border-bottom:1px solid #898989;border-top:1px solid #898989;">
+    <div style="border:1px solid #ddd;margin:5px 15px;background-color:#fff;padding:20px;">
+        <div style="margin-bottom:10px;padding-bottom:3px;border-bottom:solid 1px #ccc;">
+            <span class="box_head_label">    
+                Privacy Policy
+            </span>
+        </div>
+        Protecting your privacy is critical to Roomster. We will not sell, lease or 
+			exchange your personal data to third parties without first obtaining your 
+			express consent.
+			<br>
+			<br>
+
+			This privacy policy describes how we collect and use your data. If you have any 
+			questions or comments regarding Roomster's privacy policy or its 
+			enforcement, please contact us at <a href="mailto:privacy@roomster.com">privacy@roomster.com</a>
+			<ol>
+				<li>
+					ABOUT ROOMSTER. Roomster is an online apartment, roommate and 
+					subletting community that connects people with apartments with help from their 
+					friends. Members create their own profiles, and those profiles are then shown 
+					to their network of friends.<br>
+					<br>
+				</li><li>
+					INFORMATION WE COLLECT. Roomster collects information our 
+					users submit to us such as their name and e-mail address to allow us to 
+					identify users and notify them of changes or updates to our service. We also 
+					collect personal information submitted by our users in filling out their 
+					profile on the service such as gender, state of residence, occupation, 
+					interests, etc. We collect this personal information when our users: (a) sign 
+					up as a member; (b) make changes to their member profile information; and (c) 
+					send e-mail messages, forms, or other information to us via Roomster. 
+					Members may choose to provide additional information beyond their basic profile 
+					for their personal and professional profiles. Providing additional information 
+					beyond what is required at registration is entirely optional, but enables our 
+					users to better identify each other and more effectively connect and interact 
+					with their network.<br>
+
+					<br>
+					Roomster also collects information from users that is unique, but cannot be 
+					linked to a specific individual, such as IP address and browser type. A user's 
+					session will be tracked, but each user will remain anonymous. We gather this 
+					information on all visitors to www.roomster.com for systems administration 
+					purposes and to track user trends, such as our most popular features. We do not 
+					link IP addresses to any personally identifiable information.<br>
+					<br>
+				</li><li>
+					COOKIES Like many other Web sites, Roomster uses a standard 
+					technology called "cookies." Cookies are small pieces of information stored on 
+					your hard drive -- not on our site. They can help make the Internet experience 
+					quicker and more convenient. Cookies allow our users to login without entering 
+					their ID and password each time they use Roomster. Cookies help us 
+					understand how members use Roomster, which allows us to improve upon the 
+					service. Members who disable cookies will not be able to use Roomster.<br>
+					<br>
+				</li><li>
+					HOW WE USE YOUR PERSONAL INFORMATION. Roomster uses personal 
+					information to create a secure and personalized service for our members. The 
+					Basic Profile information (first name, photo, age, gender, city, state, and 
+					occupation) is displayed to all members of Roomster. All other profile 
+					information members provide is displayed only to people registered members.<br>
+
+					<br>
+					Email address and full name are used when a user invites a friend via email to 
+					join the service, when a user requests to add another user to their friend 
+					list, and when we send notifications to a user related to their use of the 
+					service. Except when members invite friends, their email address is not shared 
+					or displayed with people within or outside of their Personal Network. Users 
+					within a Personal Network communicate on Roomster with each other through 
+					the Roomster service without disclosing their email addresses.<br>
+					<br>
+				</li><li>
+					DISCLOSURE OF PERSONAL INFORMATION. We will not sell, lease or exchange your 
+					personal data to third parties without first obtaining your express consent, 
+					unless required by law or to protect your membership.<br>
+					<br>
+				</li><li>
+					INVITING FRIENDS. If you use our Invite feature to invite a friend to our 
+					service, we will ask you for their friend's email address. We'll automatically 
+					send the friend an email inviting them to join your Personal Network. 
+					Roomster does not sell these email addresses or use them to send any 
+					communication other than the invitation to join your Personal Network. 
+					Roomster stores this information for the sole purpose of sending this 
+					one-time email and tracking the success of our Invite functionality. The friend 
+					receiving the invitation may contact Roomster at 
+					<a href="mailto:help@roomster.com">help@roomster.com</a> to request the 
+					removal of this information from our database.<br>
+
+					<br>
+				</li><li>
+					LINKS TO OTHER WEBSITES. The Roomster site may contain links to other Web 
+					sites. Please be aware that Roomster is not responsible for the privacy 
+					practices of other sites our users choose to visit. If our users provide any 
+					information directly to parties other than Roomster (even if those sites 
+					are showing the Roomster brand), different rules may apply to the use or 
+					disclosure of the personal information disclosed. We encourage you to 
+					investigate and ask questions before disclosing your personal information to 
+					third parties.<br>
+					<br>
+				</li><li>
+					THIRD PARTY ADVERTISERS. Roomster may choose to deploy advertising on the 
+					service that is delivered to users through a third party's advertising server. 
+					Information about users' visit to Roomster, such as number of times they 
+					have viewed an ad (but no personally identifiable information), would be used 
+					to serve ads to users on this site.<br>
+					<br>
+				</li><li>
+
+					CHAT ROOMS, MESSAGE BOARDS, AND PUBLIC FORUMS. Please be aware that whenever 
+					members voluntarily disclose personal information online - e.g., message 
+					boards, chat areas, file uploads, events, and listings - that information 
+					becomes public and can be collected and used by others. By posting personal 
+					information online in public forums, members may receive unsolicited messages 
+					from other parties.<br>
+					<br>
+				</li><li>
+					PRIVACY PROTECTION FOR CHILDREN. In compliance with the Children's Online 
+					Privacy Protection Act (COPPA), we will not knowingly provide access to 
+					Roomster to persons under the age of thirteen (13). If Roomster 
+					later learns that any member is under the age of thirteen (13), 
+					we will take appropriate steps to remove the member's information from the 
+					database and we will restrict this individual from future access to the 
+					Roomster service.<br>
+					<br>
+				</li><li>
+					UPDATING AND DELETING PERSONAL INFORMATION. Members can access, change and 
+					update their registration and personal information by logging onto Roomster 
+					and selecting the Edit Profile option. Users who leave the service may choose 
+					to have their personal information deleted by contacting help@roomster.com<br>
+
+					<br>
+				</li><li>
+					OPT-OUT OF EMAIL. Users of Roomster may choose not to receive email 
+					notifications at their registered email addresses. To opt out of the 
+					announcements, click the Account link at the top of any page, and uncheck the 
+					box next to "Send email notifications."<br>
+					<br>
+				</li><li>
+					SECURITY PROCEDURES. Roomster has implemented security measures to protect 
+					member information from loss, misuse and alteration. We use industry-standard 
+					practices such as encrypted storage, firewalls and password protection systems 
+					to safeguard the confidentiality of your personal information. Each of our 
+					employees is aware of our security policies, and your information is only 
+					available to those employees who need it to perform their jobs.<br>
+					<br>
+				</li><li>
+
+					CONSENT. This Privacy Policy is a part of the Roomster Terms of Use policy. 
+					By using Roomster, including services available at the Roomster and 
+					Roomster domains, users are using a service provided by Roomster 
+					and they agree to be bound by the Terms of Use and this Privacy 
+					Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only 
+					addresses activities from our servers.<br>
+					<br>
+				</li><li>
+					NOTIFICATION OF CHANGES. If Roomster changes its policy and seeks to use 
+					your personally identifiable information in a manner different from that stated 
+					at the time of collection, you will be notified via email. In addition, if we 
+					make any material changes in our privacy practices that do not affect user 
+					information already stored in our database, we will post a notice on our Web 
+					site notifying users of the change. In some cases where we post the notice, we 
+					will also email users who have opted to receive communications from us to 
+					notify them of the changes in our privacy practices.<br>
+					<br>
+				</li><li>
+					ORGANIZATION COLLECTING INFORMATION. Roomster Corp. owns and operates the 
+					Roomster.com domain. You may contact Roomster at <a href="mailto:privacy@roomster.com">
+					privacy@roomster.com</a><br>
+					<br>
+				</li>
+			</ol>
+    </div>        
+</div>
+</div>
+                <div style="width:160px;padding:5px;float:right;border-left:solid 0px #ddd;text-align:center;">
+    
+    
+<div style="margin:5px 0px 10px;">
+<script type="text/javascript"><!-- 
+google_ad_client = "pub-4029578820310208";
+google_hints = "moving movers";
+google_ad_slot = "9318857313";
+google_ad_width = 160;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+</div>
+            </div>
+                        
+        
+<div class="dashboard_header" style="margin-bottom:10px; text-align:center;">
+    <div class="dh_actions" style="padding-bottom:10px; padding-top:10px;">
+        <a href="http://www.roomster.com/info/aboutus.aspx">About us</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/contactus.aspx">Contact us</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/terms_of_use.aspx">Terms of use</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/privacy_policy.aspx">Privacy policy</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/press">Press</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/tips">Tips</a>
+        <span class="pipe">|</span>
+        <a href="http://www.roomster.com/info/resources/links.aspx">Resources</a>
+        <span class="pipe">|</span>
+        
+        <a href="http://www.roomster.com/info/faq.aspx">FAQ</a>
+        <span class="pipe">|</span>
+        
+        <a href="http://www.roomster.com/roommate-apartment-cities.html">roommate apartment cities</a>
+        <span class="pipe">|</span>
+        <a href="http://www.hud.gov/offices/fheo/FHLaws/yourrights.cfm" target="_blank">Equal housing opportunity</a>
+    </div>
+    <div style="color:#888;">Roomster © 2009</div>
+    <div style="margin:20px auto;"><a href="/apartment-roommate-search.html">apartment roommate search</a></div>
+</div>
+
+<div id="bookmark" style="margin:10px 0px;text-align:center;">			
+		<!-- AddThis Bookmark Button BEGIN -->
+
+		<script type="text/javascript">
+		addthis_url    = location.href;   
+		addthis_title  = document.title;  
+		addthis_pub    = 'info@roomster.net';     
+		</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+		<!-- AddThis Bookmark Button END -->
+</div>
+
+
+    </div>
+    <div id="visitor_warning" style="display:none;" class="clearfix">
+        To contact this member
+        <a href="http://www.roomster.com/reg/personal_info.aspx" style="font-weight:bold;">sign up</a> for a free account<br>
+        or <a href="http://www.roomster.com/reg/login.aspx" style="font-weight:bold;">sign in</a>
+    </div>
+
+
+</body></html>
