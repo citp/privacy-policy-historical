@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202093549id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531075433id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - VideoJug
 
@@ -35,6 +35,10 @@ Please also note that we do not disclose your personal information to third part
 You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising. 
 
 Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that "personalised" services may be affected if the cookie option is disabled. 
+
+###  Advertising 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html). 
 
 ###  Security and Data Retention 
 
