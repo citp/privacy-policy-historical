@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034237id_/http%3A//www.dole.com/Global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531121324id_/http%3A//www.dole.com/Global/Privacy.jsp) for the most accurate reproduction.*
 
-# Dole | Site Map
+# Dole | Privacy Policy
 
 **Last Updated: July 25, 2005** This website (dole.com) and its associated United States-based websites (dolenutrition.com, dolesuperfoods.com, dolefoodservice.com, and dole5aday.com) (collectively, the "Sites"), are controlled or maintained by Dole Food Company, Inc. ("Dole," "we," "us," or "our"). At Dole, we recognize that many visitors to our Sites are concerned about the information they provide to us and how we treat that information. Dole respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Sites and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through our Sites and not through any other sources. This Privacy Policy is subject to the terms and conditions posted on our Sites ("Terms and Conditions"). Please review this Privacy Policy each time you visit our Sites to ensure that you have read and agree with the current policy, as it may be amended without notice. The date of our Privacy Policy is set forth at the top of the document. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on our Sites. Your use of our Sites constitutes your agreement to the terms and conditions set forth in this Privacy Policy.
 
@@ -38,7 +38,7 @@ We may also collect a child's name and e-mail address to the extent necessary, a
 
 Dole does not currently give or sell any personally identifiable information collected from children under the age of 13 on our Sites to anyone, including affiliated companies. If we propose to share information with other parties, we will notify the child's parent or legal guardian and will state with whom we propose sharing information and why. The child's parent or legal guardian must consent to the disclosure of the child's personal information before it can be shared. Parents may consent to Dole's collection and use of their child's personal information without consenting to the disclosure of the information to third parties, including affiliated companies.
 
-A parent or legal guardian can request that we remove, change or refuse further submission of information relating to a child under the age of 13 by sending an e-mail to [**dole_consumercenter@na.dole.com**](mailto:dole_consumercenter@na.dole.com) or by contacting us at the address listed below. Any such request must contain the child's name, address and e-mail address so we can locate such child's information.
+A parent or legal guardian can request that we remove, change or refuse further submission of information relating to a child under the age of 13 by sending an e-mail to [**Dole.Consumer.Center@dole.com**](mailto:Dole.Consumer.Center@dole.com) or by contacting us at the address listed below. Any such request must contain the child's name, address and e-mail address so we can locate such child's information.
 
 **OTHER SITES  
 **  
@@ -61,4 +61,4 @@ One Dole Drive
 Westlake Village, California 91362-7300  
 Attention: Consumer Center  
 Phone: 1-800-232-8888  
-E-mail: [dole_consumercenter@na.dole.com](mailto:dole_consumercenter@na.dole.com)
+E-mail: [Dole.Consumer.Center@dole.com](mailto:Dole.Consumer.Center@dole.com)
