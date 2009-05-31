@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015420id_/http%3A//dailystrength.org/content/view/201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531031056id_/http%3A//dailystrength.org/content/view/201) for the most accurate reproduction.*
 
 # Privacy Policy for DailyStrength
 
@@ -95,7 +95,7 @@ Even though DailyStrength has taken significant steps to ensure that your Person
 
 **Contact Us**
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://dailystrength.org/component/option,com_feedback).
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://www.dailystrength.org/component/option,com_feedback).
 
 **Privacy Policy Updates**
 
