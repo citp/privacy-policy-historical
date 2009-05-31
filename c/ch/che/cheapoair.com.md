@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012416id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531141108id_/http%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
-|  |  | [](http://www.truste.org/ivalidate.php?url=www.cheapoair.com&sealid=101)  
----|---|---  
-  
-## CheapOair.com is strongly committed to protecting your privacy.  
-  
+   Privacy Policy | [](http://www.truste.org/ivalidate.php?url=www.cheapoair.com&sealid=101)  
+---|---  
+CheapOair.com is strongly committed to protecting your privacy.  
 FAREPORTAL is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [CheapOair.com](http://www.cheapoair.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
@@ -68,10 +66,4 @@ New York, NY 10001
 [cservice@CheapOair.com](mailto:cservice@cheapoair.com)**  
   
    
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.  
-  
-  
-  
-  
-  
- 
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.
