@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060248id_/http%3A//fye.com/helpcenter.htm%3Ffile%3Dhelp_popup_index_policies%23privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531085515id_/http%3A//fye.com/help-popup-index-policies.htm%23privatepolicy) for the most accurate reproduction.*
 
 # FYE: : Help
 
@@ -22,10 +22,10 @@ From time-to-time, FYE may run contests on our site in which we ask visitors for
 FYE also allows any customer to create an account with FYE. This allows the user to simplify his or her purchase process at any FYE site. All the information that a customer may supply when creating an account will be held in the strictest confidence. It will be used simply to manage the payment of orders and the shipping of same by us or by third party marketing partners with whom you have elected to do business. FYE does not share any private financial information about its customers with any outside company or agency unless required by law. We may share other information with marketing partners.
 
 **Opt Out**  
-Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. However, please understand that even if you have previously opted out, but later consent to sharing your information by accepting a third party’s marketing offer, we will share your contact and billing information with that specific third party.
+Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. However, please understand that even if you have previously opted out, but later consent to sharing your information by accepting a third party's marketing offer, we will share your contact and billing information with that specific third party.
 
 **Links**  
 Pages at FYE contain links to other sites. FYE is not responsible for the privacy practices or the content of such web sites.
 
 **Security**  
-The security of your data is of utmost importance to FYE. [Click here](https://web.archive.org/helpcenter.htm?file=help_safe_shop) to learn about our security guarantee.
+The security of your data is of utmost importance to FYE. [Click here](https://web.archive.org/help-safe-shop.htm) to learn about our security guarantee.
