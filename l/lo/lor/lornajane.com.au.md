@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220214557id_/http%3A//www.lornajane.com.au/content/cms/PrivacyPolicy/2408) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531084217id_/http%3A//www.lornajane.com.au/content/cms/PrivacyPolicy/2408) for the most accurate reproduction.*
 
 # 
 
@@ -45,7 +45,8 @@ You must not provide personal information to Lorna Jane about another person, un
 
 We use your personal information for the primary purpose for which it has been provided, or for purposes related to or ancillary to that primary purpose, that is, for the purposes of you becoming a registered user of the website and any other purposes outlined above as nominated or requested by you. 
 
-By providing us with your personal information, you agree to receive communications from Lorna Jane or our agencies, contractors, related companies and promotional partners. You may choose to opt out of receiving these communications and we will give you the opportunity to do that each time we contact you, except in the instance where receipt of the communications are essential to the participation in a competition. 
+By providing us with your personal information, you agree to receive communications from Lorna Jane or our agencies, contractors, related companies and promotional partners. You may choose to opt out of receiving these communications and we will give you the opportunity to do that each time we contact you, except in the instance where receipt of the communications are essential to the participation in a competition.   
+
 
 4\. Disclosure of information
 
@@ -57,14 +58,16 @@ Your personal information is only provided to third parties where required by la
 
 Foreign countries
 
-Lorna Jane will not transfer your personal information to foreign countries without your express or implied consent. 
+Lorna Jane will not transfer your personal information to foreign countries without your express or implied consent.   
+
 
 5\. Accuracy and security of your personal information
 
 We will take all reasonable steps to secure any personal information which we and our agencies, contractors, related companies and promotional partners hold about you and to keep that information accurate and up-to-date. Personal information will be stored electronically.
 
   
-If any personal information held by Lorna Jane about you is incorrect, you should contact us immediately, so that we can take reasonable steps to correct incorrect information about you. 
+If any personal information held by Lorna Jane about you is incorrect, you should contact us immediately, so that we can take reasonable steps to correct incorrect information about you.   
+
 
 6\. Access To Personal Information
 
@@ -81,7 +84,6 @@ Or by Fax No: +61 7 3252 4740
 
 8\. Changes to this Privacy Statement
 
-We reserve the right to amend this Privacy Statement at any time. You will be notified of any amendments through the replacement of this policy with an updated verison.  
-
+We reserve the right to amend this Privacy Statement at any time. You will be notified of any amendments through the replacement of this policy with an updated verison.
 
 * * *
