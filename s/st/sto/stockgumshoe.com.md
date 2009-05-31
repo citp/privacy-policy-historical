@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531110242id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
+
+# Stock Gumshoe Investigates: Privacy Policy
+
+StockGumshoe.com collects some information about all visitors in the process of operating, including IP addresses that could conceivably allow individual users to be identified. No effort is made by this site’s owner to identify individuals, but they may voluntarily supply personal information while registering for the site and that information is kept for the purpose of contacting readers via email, if they choose, or facilitating their participation in site activities (like commenting on articles or contributing reviews). 
+
+Other data is collected and reported in aggregate by third party statistics providers and used to track readership levels, usage of the site in general, and monitor the use of each page on the site. No effort it made by the owners of this site to tie that activity to individuals or to store such records, though doing so may be possible. Wordpress, the content management system for this website, will probably place a cookie on your computer or similar information that will allow you to more easily log in or stay logged in to your account unless you prohibit such actions. 
+
+Third parties, including Google and other advertising partners, may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. Google uses what they call a “DoubleClick DART” cookie to serve ads based on your visit to this sites and other sites on the Internet so they can show you advertisements related to your interests. You may specifically opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). “Cookies” are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup. Deleting cookies or managing your cookies should not change your ability to access the content on this site. 
+
+——————————————
+
+[ ](http://www.tkqlhce.com/click-2591717-10378894)
