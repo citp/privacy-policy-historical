@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegreenhead.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216161821id_/http%3A//www.thegreenhead.com/privacy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegreenhead.com privacy policy that was archived on 2009-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531084950id_/http%3A//www.thegreenhead.com/privacy/index.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,37 +13,13 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.thegreenhead.com/rss">
 
 <link rel="stylesheet" type="text/css" href="/inc/css/style.css">
-
-<link rel="stylesheet" type="text/css" href="/inc/css/jcarousel.css">
-<link rel="stylesheet" type="text/css" href="/inc/css/carousel.css">
-
-<script type="text/javascript" src="/inc/js/jquery-1.2.6.pack.js"></script>
-<script type="text/javascript" src="/inc/js/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="/inc/js/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="/inc/js/jquery-1.3.2.min.js"></script>
 
 <script type="text/javascript">
-
-// Credits: Robert Penners easing equations (http://www.robertpenner.com/easing/).
-jQuery.easing['BounceEaseOut'] = function(p, t, b, c, d) {
-	if ((t/=d) < (1/2.75)) {
-		return c*(7.5625*t*t) + b;
-	} else if (t < (2/2.75)) {
-		return c*(7.5625*(t-=(1.5/2.75))*t + .75) + b;
-	} else if (t < (2.5/2.75)) {
-		return c*(7.5625*(t-=(2.25/2.75))*t + .9375) + b;
-	} else {
-		return c*(7.5625*(t-=(2.625/2.75))*t + .984375) + b;
-	}
-};
-
-jQuery(document).ready(function() {
-    jQuery('#mycarousel').jcarousel({
-        vertical: true,
-        easing: 'BounceEaseOut',
-        wrap: 'last',
-        animation: 1000
-    });
-});
-
+function load(id) {
+$("#wrapper").load("/3dtag.php?q="+id+"");
+}
 </script>
 
 </head>
@@ -52,25 +28,51 @@ jQuery(document).ready(function() {
 
 <div id="container">
 
+<div id="header-home">
+<div id="header-right"><form id="form" name="form" method="get" action="http://www.thegreenhead.com/search.php" target="_top"><input type="text" class="search" value="search" id="inputString" name="q" onfocus="if(this.value=='search')this.value=''"><input type="image" name="button" value="Search" class="button" src="http://www.thegreenhead.com/img/button-go.gif"></form></div>
+<div id="header-nav"><ul id="nav">
+<li class="icon-home"><a href="/" target="_top">home</a></li>
+<li class="icon-rss"><a href="/rss" target="_top">RSS</a></li>
+<li class="icon-newsletter"><a href="/newsletter" target="_top">newsletter</a></li>
+<li class="icon-live"><a href="/sort/live" target="_top">LIVE!</a></li>
+<li class="icon-contact"><a href="/contact" target="_top">contact</a></li>
+</ul></div>
+</div>
+
+<div id="header-flash">
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0',
+			'width', '1000',
+			'height', '135',
+			'src', '/flash/header',
+			'quality', 'best',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'opaque',
+			'devicefont', 'false',
+			'id', 'header-flash',
+			'bgcolor', '#000000',
+			'name', 'header-flash',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', '/flash/header',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
 <div id="header">
 <div id="header-left"><h1><a href="http://www.thegreenhead.com" title="The Green Head - Finds Cool New Stuff!">The Green Head - Finds Cool New Stuff!</a></h1></div>
-<div id="header-right"><form id="form" name="form" method="get" action="http://www.thegreenhead.com/search.php"><input type="text" class="search" value="search" id="inputString" name="q" onkeyup="lookup(this.value);" onblur="fill();" onfocus="if(this.value=='search')this.value=''"><input type="image" name="button" value="Search" class="button" src="http://www.thegreenhead.com/img/button-go.gif"></form></div>
-<div id="header-nav"><ul id="nav">
-<li class="icon-home"><a href="/">home</a></li>
-<li class="icon-rss"><a href="/rss">RSS</a></li>
-<li class="icon-newsletter"><a href="/newsletter">newsletter</a></li>
-<li class="icon-contact"><a href="/contact">contact</a></li>
-</ul></div>
-<div id="header-content"><script type="text/javascript"><!--
-google_ad_client = "pub-5974487035449536";
-/* 728x90, created 5/24/08 */
-google_ad_slot = "1473138945";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+</div>
+</noscript>
 </div>
 
 <div id="wrapper">
@@ -79,55 +81,58 @@ google_ad_height = 90;
 
 <h1>PRIVACY POLICY</h1>
 
-</div>
-<div id="posts">
+<div class="clear"></div></div>
+<div class="title-bottom"><div class="clear"></div></div>
 
-<p style="padding: 0px 15px">This document was last updated <strong>April 15, 2007</strong>.
+<div id="main-posts-solid">
+
+
+<div class="privacy">
+
+<p>This document was last updated <strong>April 15, 2007</strong>.
 <br>
 This Privacy Policy discloses the general privacy practices for <strong>The Green Head - www.thegreenhead.com</strong>.</p>
 
-<div style="padding: 0px 15px; margin: 0px;">
-
 <h3>SUMMARY</h3>
-<p style="padding: 0px 15px">The Green Head is committed to respecting the privacy rights of visitors to any of its associated web sites. While visiting these web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, The Green Head has adopted a set of information management guidelines, outlined below, that serve as the basis for our customer and advertiser relationships.</p>
+<p>The Green Head is committed to respecting the privacy rights of visitors to any of its associated web sites. While visiting these web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. To further the protection of your Personal Information, The Green Head has adopted a set of information management guidelines, outlined below, that serve as the basis for our customer and advertiser relationships.</p>
 <div class="left-bottom-white"></div>
 
 <h3>CHILDREN</h3>
-<p style="padding: 0px 15px">No information should be submitted to The Green Head by children under 18 years of age without their parent's or guardian's consent. The Green Head does not monitor the age of its user audience.</p>
+<p>No information should be submitted to The Green Head by children under 18 years of age without their parent's or guardian's consent. The Green Head does not monitor the age of its user audience.</p>
 <div class="left-bottom-white"></div>
 
 <h3>AFFILIATE MARKETING</h3>
-<p style="padding: 0px 15px">The Green Head is a marketing program affiliate with several brand name online retailers (such as Amazon, eBay, etc.), this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only.</p>
+<p>The Green Head is a marketing program affiliate with several brand name online retailers (such as Amazon, eBay, etc.), this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only.</p>
 <div class="left-bottom-white"></div>
 
 <h3>INFORMATION &amp; COOKIES</h3>
-<p style="padding: 0px 15px">In order to perform certain search inquiries and handle the technological navigation through our web sites, we sometimes have to have a way to identify who has requested what from our website. We may do this, through means of a "cookie" which is used by The Green Head to identify certain technology settings. These cookies are only for use on our website and do not affect your computer in any way.</p> 
+<p>In order to perform certain search inquiries and handle the technological navigation through our web sites, we sometimes have to have a way to identify who has requested what from our website. We may do this, through means of a "cookie" which is used by The Green Head to identify certain technology settings. These cookies are only for use on our website and do not affect your computer in any way.</p> 
 
-<p style="padding: 0px 10px 15px 10px;">We may use cookies to track usage of the Site and further customize your experience when you are visiting our site. By tracking usage, we can best determine what features of the Site best serve the users. We never give out information to others about individual usage. However, we may provide advertisers with aggregate information about our users, such as "100,000 people viewed your ad today.".</p>
+<p>We may use cookies to track usage of the Site and further customize your experience when you are visiting our site. By tracking usage, we can best determine what features of the Site best serve the users. We never give out information to others about individual usage. However, we may provide advertisers with aggregate information about our users, such as "100,000 people viewed your ad today.".</p>
 <div class="left-bottom-white"></div>
 
 <h3>THIRD PARTY COOKIES</h3>
-<p style="padding: 0px 15px">Some of our third party advertisers and affiliates may use cookies on the Site to track information such as the number of times an advertisement has been viewed (but not personal identifying information such as user names). The Green Head may give third party advertisers permission to set cookies for advertising, but The Green Head has no control over or access to such third party cookies.</p>
+<p>Some of our third party advertisers and affiliates may use cookies on the Site to track information such as the number of times an advertisement has been viewed (but not personal identifying information such as user names). The Green Head may give third party advertisers permission to set cookies for advertising, but The Green Head has no control over or access to such third party cookies.</p>
 <div class="left-bottom-white"></div>
 
 <h3>WHAT CAN A COOKIE DO/NOT DO?</h3>
-<p style="padding: 0px 15px">A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites nor the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie.</p>
+<p>A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites nor the information contained therein. Additionally, we cannot learn your email address or any other information about you through the use of a cookie.</p>
 <div class="left-bottom-white"></div>
 
 <h3>MAY I DECLINE TO ACCEPT A COOKIE?</h3>
-<p style="padding: 0px 15px">On the pages of the Site that do not require registration, you may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies. However, some portions of the Site may require registration in order to access those areas. In such case, we ask that you register and provide us with basic information on our registration page. Finally in other cases, our website may not handle your "navigation request" correctly, without a cookie.</p>
+<p>On the pages of the Site that do not require registration, you may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies. However, some portions of the Site may require registration in order to access those areas. In such case, we ask that you register and provide us with basic information on our registration page. Finally in other cases, our website may not handle your "navigation request" correctly, without a cookie.</p>
 <div class="left-bottom-white"></div>
 
 <h3>LINKS TO OTHER MATERIALS</h3>
-<p style="padding: 0px 15px">If any link is offered connecting you to a third party web site, it is as an accommodation to the respective third party site owner and without charge. Third party sites linked to and from the Site are not necessarily under the control of The Green Head. The Green Head assumes no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. The Green Head does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. The Green Head hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.</p>
+<p>If any link is offered connecting you to a third party web site, it is as an accommodation to the respective third party site owner and without charge. Third party sites linked to and from the Site are not necessarily under the control of The Green Head. The Green Head assumes no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. The Green Head does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. The Green Head hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.</p>
 <div class="left-bottom-white"></div>
 
 <h3>COMMENTS</h3>
-<p style="padding: 0px 15px">We only require a valid email address to leave a comment on pages of the Site. Your email address will never be displayed on the Site nor be disclosed to any third party. Comments that are inappropriate, purely promotional, vulgar, insensitive, all CAPS, unlawful or anything else we don't like, will be removed at our discretion. We reserve the right to remove any comments at any time.</p>
+<p>We only require a valid email address to leave a comment on pages of the Site. Your email address will never be displayed on the Site nor be disclosed to any third party. Comments that are inappropriate, purely promotional, vulgar, insensitive, all CAPS, unlawful or anything else we don't like, will be removed at our discretion. We reserve the right to remove any comments at any time.</p>
 <div class="left-bottom-white"></div>
 
 <h3>USE OF PERSONAL INFORMATION</h3>
-<p style="padding: 0px 15px">Personal Information collected or requested by The Green Head will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form. We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes.
+<p>Personal Information collected or requested by The Green Head will never be given out to a third party in a manner that they can contact you directly. Any information provided to third parties is only in an aggregate form. We may disclose aggregated user statistics in order to describe our services to potential advertisers, partners and other third parties, and for other lawful purposes.
 <br>
 <br>
 This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, or through other web sites throughout the Internet, different policies may apply. Since The Green Head does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of that third party, and The Green Head shall not be responsible for the use or dissemination of your private information by that third party. Therefore, we encourage you to ask questions before you disclose your personal information to others.
@@ -154,50 +159,26 @@ The Green Head may periodically update this Privacy Policy. If so, The Green Hea
 
 <div id="right">
 
-<!--December 16, 2008, 12:05 am-->
+<div id="follow">
+<div class="icon"><a href="/goto/twitter" target="_blank"><img src="/img/social/follow-twitter.gif" width="50" height="64" border="0" alt="Follow us on Twitter"></a></div>
+<div class="icon"><a href="/goto/facebook" target="_blank"><img src="/img/social/follow-facebook.gif" width="50" height="64" border="0" alt="Follow us on Facebook"></a></div>
+<div class="icon"><a href="/rss" target="_top"><img src="/img/social/follow-rss.gif" width="50" height="64" border="0" alt="Follow us on RSS Feed"></a></div>
+<div style="clear:both;"></div></div>
+
+<div id="subscribe">
+<h2>Daily Email Update!</h2>
+<form action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=105268', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" class="input" name="email" value="Email Address" onfocus="if(this.value=='Email Address')this.value=''"><input type="image" name="button" value="Subscribe" class="button" src="http://www.thegreenhead.com/img/button-submit.gif"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=105268" name="url"><input type="hidden" value="The Green Head - Finds Cool New Stuff!" name="title"><input type="hidden" name="loc" value="en_US"></form><div style="clear:both;"></div></div>
+<div class="bottom-right" align="center"><a href="/newsletter" target="_top">Click Here For Details</a><div class="clear"></div></div>
+
+
+<!--May 31, 2009, 12:05 am-->
 
 <div class="ebay">
-<a href="/ebay_find/christmas-vacation-moose-mugs" target="_blank"><img src="/img/ebay/christmas-vacation-moose-mugs.jpg" alt="Christmas Vacation Moose Mugs - These glass Moose Mugs are handmade by the original artist, who made the original mugs for the Christmas Vacation movie back in 1989! These Moose Mugs are destined to become family heirlooms as you are obtaining highly-detailed pieces of hand/mouth-blown glass - almost too nice to use for eggnog!" width="150" height="150" border="0"></a><br><a href="/ebay_find/christmas-vacation-moose-mugs" target="_blank">Christmas Vacation Moose Mugs</a>
+<a href="/ebay_find/lifesize-ironman-suit" target="_blank"><img src="/img/ebay/lifesize-ironman-suit.jpg" alt="Lifesize Ironman Suit! - This is a lifesize and wearable replica of the Ironman armor!" width="150" height="150" border="0"></a><div style="padding:5px 0px;"><a href="/ebay_find/lifesize-ironman-suit" target="_blank">Lifesize Ironman Suit!</a></div>
 </div>
-<div class="bottom-ebay"><div class="clear"></div></div>
+<div class="bottom-ebay" align="center"><a href="/ebay.xml" target="_top"><img src="/img/icons/icon-rss-ebay-sm.gif" border="0" alt="eBay RSS Feed" width="10" height="10" style="vertical-align: middle;"></a> <a href="/ebay.xml" target="_top" style="font-size: 75%; color: #f00;">eBay RSS Feed</a><div class="clear"></div></div>
 
 
-<div id="slider">
-
-<div class="random">
-<h2>Holiday Stuff</h2>
-
-<div class=" jcarousel-skin-ie7"><div id="mycarousel" class="jcarousel-container jcarousel-container-vertical" style="display: block;">
-<div class="jcarousel-prev jcarousel-prev-vertical jcarousel-prev-disabled jcarousel-prev-disabled-vertical" disabled="true" style="display: block;"></div><div class="jcarousel-next jcarousel-next-vertical" disabled="false" style="display: block;"></div><div class="jcarousel-clip jcarousel-clip-vertical"><ul class="jcarousel-list jcarousel-list-vertical" style="height: 3100px; top: 0px;">
-
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-1 jcarousel-item-1-vertical" jcarouselindex="1"><a href="/2005/11/charlie-brown-pathetic-christmas-tree.php" target="_top"><img src="http://www.thegreenhead.com/imgs/charlie-brown-xmas-tree-sm.jpg" alt="Good Grief! Charlie Brown Pathetic Christmas Tree" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-2 jcarousel-item-2-vertical" jcarouselindex="2"><a href="/2007/09/7-foot-pre-lit-corner-christmas-tree.php" target="_top"><img src="http://www.thegreenhead.com/imgs/corner-christmas-tree-sm.jpg" alt="7-Foot Pre-Lit Corner Christmas Tree" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-3 jcarousel-item-3-vertical" jcarouselindex="3"><a href="/2008/11/animated-christmas-tree-cable-cars.php" target="_top"><img src="http://www.thegreenhead.com/imgs/animated-christmas-tree-cable-cars-sm.jpg" alt="Mr. Christmas - Animated Christmas Tree Cable Cars" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-4 jcarousel-item-4-vertical" jcarouselindex="4"><a href="/2008/11/pine-cone-stocking-hangers.php" target="_top"><img src="http://www.thegreenhead.com/imgs/pine-cone-stocking-hangers-sm.jpg" alt="Pine Cone Stocking Hangers" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-5 jcarousel-item-5-vertical" jcarouselindex="5"><a href="/2008/11/skiing-snowball.php" target="_top"><img src="http://www.thegreenhead.com/imgs/skiing-snowball-sm.jpg" alt="Skiing Snowball" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-6 jcarousel-item-6-vertical" jcarouselindex="6"><a href="/2006/11/mr-christmas-lights-sounds-christmas.php" target="_top"><img src="http://www.thegreenhead.com/imgs/lights-sounds-christmas-sm.jpg" alt="Amazing Synchronized Christmas Light &amp; Sound Device - Outdoors" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-7 jcarousel-item-7-vertical" jcarouselindex="7"><a href="/2006/10/gold-frankincense-myrrh-original-christmas-gift.php" target="_top"><img src="http://www.thegreenhead.com/imgs/gold-frankincense-myrrh-sm.jpg" alt="Gold, Frankincense, and Myrrh - The Original Christmas Gift" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-8 jcarousel-item-8-vertical" jcarouselindex="8"><a href="/2008/11/massive-outdoor-lighted-christmas-ornaments.php" target="_top"><img src="http://www.thegreenhead.com/imgs/outdoor-lighted-christmas-ornaments-sm.jpg" alt="Massive Outdoor Lighted Christmas Ornaments" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-9 jcarousel-item-9-vertical" jcarouselindex="9"><a href="/2007/12/modern-gingerbread-house.php" target="_top"><img src="http://www.thegreenhead.com/imgs/modern-gingerbread-house-sm.jpg" alt="Modern Gingerbread House" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-10 jcarousel-item-10-vertical" jcarouselindex="10"><a href="/2008/11/animated-singing-dancing-christmas-coal.php" target="_top"><img src="http://www.thegreenhead.com/imgs/animated-singing-dancing-christmas-coal-sm.jpg" alt="Animated Singing and Dancing Christmas Coal" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-11 jcarousel-item-11-vertical" jcarouselindex="11"><a href="/2007/09/amazing-snow-flurry-generating-snowman.php" target="_top"><img src="http://www.thegreenhead.com/imgs/snow-flurry-generating-snowman-sm.jpg" alt="Amazing Snow Flurry Generating Snowman" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-12 jcarousel-item-12-vertical" jcarouselindex="12"><a href="/2005/11/giant-inflatable-snow-globes-they.php" target="_top"><img src="http://www.thegreenhead.com/imgs/inflatable-snowglobe-sm.jpg" alt="Giant Inflatable Snow Globes - They Actually Snow Inside!!" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-13 jcarousel-item-13-vertical" jcarouselindex="13"><a href="/2006/10/coal-gum.php" target="_top"><img src="http://www.thegreenhead.com/imgs/coal-gum-sm.jpg" alt="Coal Gum - Perfect for Christmas Stockings" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-14 jcarousel-item-14-vertical" jcarouselindex="14"><a href="/2007/11/mr-christmas-lights-sounds-christmas-indoors.php" target="_top"><img src="http://www.thegreenhead.com/imgs/lights-sounds-christmas-indoors-sm.jpg" alt="Amazing Synchronized Christmas Light &amp; Sound Device - Indoors" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-15 jcarousel-item-15-vertical" jcarouselindex="15"><a href="/2008/12/3d-holiday-cards.php" target="_top"><img src="http://www.thegreenhead.com/imgs/3d-holiday-cards-sm.jpg" alt="3D Holiday Cards" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-16 jcarousel-item-16-vertical" jcarouselindex="16"><a href="/2006/11/snowman-sugar-dispenser.php" target="_top"><img src="http://www.thegreenhead.com/imgs/snowman-sugar-dispenser-sm.jpg" alt="Life Of The Snowman Sugar Dispenser" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-17 jcarousel-item-17-vertical" jcarouselindex="17"><a href="/2005/09/7-foot-upside-down-pre-lit-christmas.php" target="_top"><img src="http://www.thegreenhead.com/imgs/upside-down-xmas-tree-sm.jpg" alt="The 7-Foot Upside-Down Pre-Lit Christmas Tree" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-18 jcarousel-item-18-vertical" jcarouselindex="18"><a href="/2008/12/openx-precision-wrapping-paper-slitter.php" target="_top"><img src="http://www.thegreenhead.com/imgs/openx-precision-wrapping-paper-slitter-sm.jpg" alt="OpenX - Precision Wrapping Paper Slitter" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-19 jcarousel-item-19-vertical" jcarouselindex="19"><a href="/2008/11/mr-christmas-wireless-synchronized-lights-sounds-christmas.php" target="_top"><img src="http://www.thegreenhead.com/imgs/mr-christmas-wireless-synchronized-lights-sounds-christmas-sm.jpg" alt="Mr. Christmas - Wireless Synchronized  Lights and Sounds of Christmas" width="150" height="150" border="0"></a></li>
-<li class="jcarousel-item jcarousel-item-vertical jcarousel-item-20 jcarousel-item-20-vertical" jcarouselindex="20"><a href="/2006/12/instant-snow-just-add-water.php" target="_top"><img src="http://www.thegreenhead.com/imgs/insta-snow-sm.jpg" alt="Amazing Instant Snow -  Just Add Water w/ Video Demo" width="150" height="150" border="0"></a></li>
-
-</ul></div>
-</div></div>
-
-</div>
-
-<div class="bottom-right"><div class="clear"></div></div>
-</div>
 <div class="clear"></div>
 </div>
 
@@ -223,47 +204,47 @@ The Green Head may periodically update this Privacy Policy. If so, The Green Hea
 <br>
 
 <div class="hdr">Navigation</div>
-<span style="font-size:12px"><strong>Browse:</strong> <a href="/index.php">Home</a> | <a href="/privacy/index.php">Privacy</a><br>
+<span style="font-size:12px"><strong>Browse:</strong> <a href="/index.php">Home</a> | <a href="/sort/live">LIVE!</a> | <a href="/privacy/index.php">Privacy</a><br>
 <strong>Contact:</strong> <a href="/contact">Contact / Tips / Advertise</a><br>
-<strong>Subscribe:</strong> <a href="/rss">RSS Feed</a> | <a href="/newsletter">Newsletter</a><br>
-<strong>Social:</strong> <a href="http://www.facebook.com/pages/The-Green-Head-Finds-Cool-New-Stuff/106689375222" target="_blank">FaceBook</a> | <a href="http://www.linkedin.com/in/thegreenhead" target="_blank">LinkedIn</a> | <a href="http://www.twitter.com/thegreenhead" target="_blank">Twitter</a><br>
+<strong>Subscribe:</strong> <a href="/rss">RSS</a> | <a href="/ebay.xml">RSS eBay</a> | <a href="/newsletter">Newsletter</a><br>
+<strong>Social:</strong> <a href="/goto/facebook" target="_blank">FaceBook</a> | <a href="http://www.twitter.com/thegreenhead" target="_blank">Twitter</a><br>
 <strong>Shop:</strong> <a href="http://www.kaboodle.com/thegreenhead" target="_blank">Kaboodle</a> | <a href="http://www.thisnext.com/by/thegreenhead/" target="_blank">ThisNext</a> | <a href="http://www.wists.com/thegreenhead" target="_blank">Wists</a></span>
 
 </div>
 
 <div class="clmn">
 <div class="hdr">Just Added <a href="http://www.thegreenhead.com/rss"><img src="/img/icons/icon-rss-sm.png" border="0" width="16" height="16" alt="RSS Feed: Just Added"></a></div>
-<span style="font-size:11px"><a href="/2008/12/glow-graffiti-paint-with-light.php" target="_top">Glow Graffiti Light Spray - Paint With Light</a><br><br>
-<a href="/2008/12/black-bears-paddling-canoe-draft-dodger.php" target="_top">Black Bears Paddling in a Canoe - Draft Dodger</a><br><br>
-<a href="/2008/12/openx-precision-wrapping-paper-slitter.php" target="_top">OpenX - Precision Wrapping Paper Slitter</a><br><br>
-<a href="/2008/12/16-ton-doorstop.php" target="_top">16 Ton Doorstop</a><br><br>
-<a href="/2008/12/keg-line-polo-shirt.php" target="_top">Keg Line Polo Shirt</a><br><br>
-<a href="/2008/12/instant-fill-gas-cap.php" target="_top">InStant Fill Fuel Cap - Refuel Quicker and Cleaner</a><br><br>
-<a href="/2008/12/bacon-scarf.php" target="_top">Bacon Scarf</a><br><br>
-<a href="/2008/12/four-square-table-tennis-game.php" target="_top">Four Square Table Tennis Game</a><br><br>
-<a href="/2008/12/star-trek-interactive-tribbles.php" target="_top">Star Trek Interactive Tribbles</a><br><br>
-<a href="/2008/12/pets-eye-view-digital-camera.php" target="_top">Pet's Eye View Digital Camera</a><br><br>
+<span style="font-size:11px"><a href="/2009/05/cherry-bark-tea-canister.php" target="_top">Cherry Bark Tea Canister</a><br><br>
+<a href="/2009/05/retro-mini-handheld-nes-system.php" target="_top">Retro Mini - Handheld NES System</a><br><br>
+<a href="/2009/05/yakuza-tattoo-table.php" target="_top">Yakuza Tattoo Table</a><br><br>
+<a href="/2009/05/gourmac-onion-saver.php" target="_top">Gourmac Onion Saver</a><br><br>
+<a href="/2009/05/bloody-butchers-apron.php" target="_top">Bloody Butcher's Apron</a><br><br>
+<a href="/2009/05/aquaglide-summit-express-inflatable-water-slide.php" target="_top">AquaGlide Summit Express - 16' Gigantic Inflatable Water Slide!</a><br><br>
+<a href="/2009/05/drinkwell-360-pet-fountain.php" target="_top">Drinkwell 360 Pet Fountain</a><br><br>
+<a href="/2009/05/japanese-popping-edamame-keychain.php" target="_top">Japanese Popping Edamame Keychain</a><br><br>
+<a href="/2009/05/darth-vader-bust-bank.php" target="_top">Darth Vader Bust Bank</a><br><br>
+<a href="/2009/05/peri-peri-keychain-electronic-shipping-envelope-simulator.php" target="_top">Peri Peri Keychain - Tearing Open a Shipping Envelope Simulator</a><br><br>
 </span>
 <div class="clear"></div></div>
 
 <div class="clmn">
-<div class="hdr">Latest Comments</div>
-<span style="font-size:11px"><a href="/2006/11/mr-christmas-lights-sounds-christmas.php#comments">Amazing Synchronized Christmas Light &amp; Sound Device - Outdoors</a><br>I am wanting to do a LOR or... <em><a href="/2006/11/mr-christmas-lights-sounds-christmas.php#comments" style="text-decoration: none;">►</a></em><br><br>
+<div class="hdr">Latest Comments <a href="http://www.thegreenhead.com/rss-comments"><img src="/img/icons/icon-rss-sm.png" border="0" width="16" height="16" alt="RSS Feed: Latest Comments"></a></div>
+<span style="font-size:11px"><a href="/2007/12/dell-xps-m1530-notebook-computer.php#comments">Dell XPS M1530 Notebook Computer</a><br>vizag, visakhapatnam, buzz,araku, borra caves, jungle bells, chaparayi,vizag... <em><a href="/2007/12/dell-xps-m1530-notebook-computer.php#comments" style="text-decoration: none;">►</a></em><br><br>
 
-<a href="/2006/11/mr-christmas-lights-sounds-christmas.php#comments">Amazing Synchronized Christmas Light &amp; Sound Device - Outdoors</a><br>I am not sure how many I have... <em><a href="/2006/11/mr-christmas-lights-sounds-christmas.php#comments" style="text-decoration: none;">►</a></em><br><br>
+<a href="/2005/09/spine-cradling-office-chair.php#comments">The Spine-Cradling Office Chair</a><br>Loved this post!  Great information I can... <em><a href="/2005/09/spine-cradling-office-chair.php#comments" style="text-decoration: none;">►</a></em><br><br>
 
-<a href="/2007/11/national-lampoons-christmas-vacation-advent-house-calendar.php#comments">National Lampoons Christmas Vacation Advent House Calendar</a><br>Harriet...so glad those moose mugs worked out. They're... <em><a href="/2007/11/national-lampoons-christmas-vacation-advent-house-calendar.php#comments" style="text-decoration: none;">►</a></em><br><br>
+<a href="/2008/04/klean-kanteen-stainless-steel-water-bottles.php#comments">Klean Kanteen Stainless Steel Water Bottles</a><br>Plastic for a water bottle is a bad... <em><a href="/2008/04/klean-kanteen-stainless-steel-water-bottles.php#comments" style="text-decoration: none;">►</a></em><br><br>
 
-<a href="/2008/12/black-decker-energy-saver-series-power-monitor.php#comments">Black &amp; Decker Power Monitor - Displays Real-Time Electricity Costs</a><br>Great. B&amp;D has also a very nice Thermal... <em><a href="/2008/12/black-decker-energy-saver-series-power-monitor.php#comments" style="text-decoration: none;">►</a></em><br><br>
+<a href="/2007/03/super-size-topsy-turvy-upside-down-tomato-tree.php#comments">Super-Size Topsy-Turvy Upside-Down Tomato Tree</a><br>I bought the planter with the stand....NO directions... <em><a href="/2007/03/super-size-topsy-turvy-upside-down-tomato-tree.php#comments" style="text-decoration: none;">►</a></em><br><br>
 
-<a href="/2006/11/perfect-pod-maker.php#comments">Perfect Pod Maker - Make Your Own Coffee Pods!</a><br>I love my Pod Maker.  I can... <em><a href="/2006/11/perfect-pod-maker.php#comments" style="text-decoration: none;">►</a></em><br><br>
+<a href="/2005/05/hovermower-by-eastman-industries.php#comments">The Hover Mower by Eastman Industries</a><br>I live in Canada after moving here from... <em><a href="/2005/05/hovermower-by-eastman-industries.php#comments" style="text-decoration: none;">►</a></em><br><br>
 
 </span>
 <div class="clear"></div></div>
 
 <div class="clmn">
 <div class="hdr">Shameless</div>
-<a href="http://www.zazzle.com/the_green_head_official_2008_t_shirt_black-235623394543998398?rf=238774048276854283" target="_blank"><img src="/img/green-head-tshirts.gif" border="0" width="225" height="275" alt="Official Green Head T-Shirts Now Available!!!"></a>
+<a href="http://www.thegreenhead.com/goto/green-head-store" target="_blank"><img src="/img/green-head-tshirts.gif" border="0" width="225" height="275" alt="Official Green Head T-Shirts Now Available!!!"></a>
 </div>
 
 <div class="clear"></div>
@@ -274,7 +255,7 @@ The Green Head may periodically update this Privacy Policy. If so, The Green Hea
 
 <div class="footer-bottom"></div>
 
-<div id="copyright">Copyright © 2003-2008 <a href="http://www.thegreenhead.com/goto/michaelkiely" target="_blank">Michael Kiely</a>. All Rights Reserved. <a href="/privacy/index.php">Privacy Policy</a>.<br>1492 Cool New Items Offered To The Green Head Since 2003.</div>
+<div id="copyright">Copyright © 2003-2009 <a href="http://www.thegreenhead.com/goto/michael" target="_blank">Michael Kiely</a>. All Rights Reserved. <a href="/privacy/index.php">Privacy Policy</a>.<br>1719 Cool New Items Discovered Since 2003.</div>
 
 <div class="clear"></div>
 </div>
