@@ -1,29 +1,105 @@
-> *The following text is extracted and transformed from the djs-teens.net privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224053312id_/http%3A//www.livejasmin.com/info.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djs-teens.net privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531134356id_/http%3A//adultfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
 
-# Live Sex - Hot Live Sex Shows!... LiveJasmin ..
+# Adult FriendFinder PRIVACY POLICY
 
-\- We **NEVER** sell, rent or share Your personal information or e-mail address with any other party!  
-\- We may send You occasional promotional e-mails, and every e-mail will contain an unsubscribe option.  
-\- Your personal information is **NEVER** stored on LiveJasmin.com's server, so it cannot be stolen by hackers.
+|   
+---  
+  
+  
+  
+  
+**Adult FriendFinder PRIVACY POLICY**  
+---  
+We at Adult FriendFinder understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using Adult FriendFinder.  
+  
+  
+**Table of Contents**   
+A Special Note About Children   
+About Adult FriendFinder and Information We Collect   
+Our Use of Your Information   
+Our Disclosure of Your Information   
+Your use of Other Users' Information   
+Control of Your Password   
+Reviewing and Changing Your Personally Identifiable Information   
+Third Party Collections of Information   
+Security   
+Update/Delete  
+  
+**1\. A Special Note About Children**  
+Children under eighteen years of age are not eligible to use our services. We ask that children not submit information to us.  
+  
+**2\. About Adult FriendFinder and Information We Collect**  
+Adult FriendFinder is an online network which provides you useful tools and communities to build relationships online. Adult FriendFinder basic service is FREE to all qualified members. 
 
-LiveJasmin is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding LiveJasmin from selling such information, the trading of which is an extremely lucrative business, LiveJasmin is serious in its commitment to protecting your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we never will.  
-**As a general rule, LiveJasmin collects only three kinds of information about you:**
+In our online **ANONYMOUS** registration form, we ask you to provide us with certain information such as your age and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire Gold and Silver member privileges. **However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.**
 
-**1.** Information that You voluntarily provide to us or authorize us to view, such as your name, address, credit-card and other account information as submitted on the LiveJasmin Membership Submission Form.
+In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites automatically collect this information. If you choose to post messages in our Advice Columns, chat rooms, or other message areas, we will only display such information about you as you choose to reveal. 
 
-**2.** "Log information" about the areas of LiveJasmin that You visit, that are accessible from the general internet environment.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-**3.** Private correspondence, such as the contents of telephone conversations, chat client logs, faxes or letters to LiveJasmin staff, e-mail messages to performers or LiveJasmin staff, performer chat client logs.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Adult FriendFinder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [Customer Service](http://adultfriendfinder.com/p/help.cgi?contact=1) to request that we remove this information from our database.  
+  
+  
+**3\. Our Use of Your Information**  
+We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs. 
 
-**Log information bears greater explanation:**
+We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions. 
 
-Log information typically consists of such things as your browser type (i.e., Netscape or MSIE), your IP address (i.e., 102.316.52.11), the domain name from which You are visiting LiveJasmin (i.e., "aol.com"), and the pages of LiveJasmin that You visit. Like all internet services, we analyze our log files to better understand which areas of LiveJasmin are more popular than others. And like most other large-scale internet properties, we also use this information to "customize" the LiveJasmin experience to match your tastes. For example, if You first visit LiveJasmin by searching an internet portal for a search term such as "voyeur" and clicking upon an LiveJasmin banner or link, LiveJasmin may set a "cookie" on your computer which records the term as a "search preference" ( **Note: Everyday log-analysis programs such as WebTrends include such tracking of keyword-specific traffic as a regular feature - indeed, using such tools, the administrators of most websites on earth track traffic originating from search engines by searched keyword** ).
+We also send periodic informational updates to our members via email. 
 
-Later, as You navigate through LiveJasmin, You will likely observe that the content You see on LiveJasmin tends to be tailored to match your recorded search preference. **Note: such cookies are "secure" in that they cannot be read by other internet companies, but can only be read by the web site which placed the cookie on Your computer.**
+We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement.  
+  
+**4\. Our Disclosure of Your Information**  
+We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
 
-LiveJasmin also uses your recorded "search preference" information to better target and allocate marketing expenditures.  
-For example, if LiveJasmin learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from LiveJasmin than individuals who search for terms such as "livecams", LiveJasmin may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, LiveJasmin has more disposable capital that can be deployed toward development efforts which improve the LiveJasmin platform and provide a richer customer experience for all.
+In order to maintain a healthy community, Adult FriendFinder cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. 
 
-Speaking of cookies, another kind of cookie that LiveJasmin sets is an "identification cookie". This cookie is written whenever You successfully use your login and password to access a restricted area of LiveJasmin; the identification cookie is available only to individuals who have already been verified as adults, via LiveJasmin's verification procedures. When LiveJasmin's servers observe this identification cookie on your computer, they recognize You and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit your indicated preferences.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
+  
+  
+**5\. Your use of Other Users' Information**  
+**You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. **Adult FriendFinder reserves the right to terminate those who misuse other user’s information or who otherwise violate the Adult FriendFinder Terms of Use.****  
+  
+**6\. Control of Your Password**  
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.  
+  
+**7\. Reviewing and Changing Your Personally Identifiable Information**  
+Once you register, you will be able to review and change much of your personally identifiable information at Adult FriendFinder including: 
 
-Another question that might concern you: "Does LiveJasmin outsource to other companies any privacy-sensitive functions such as management of its e-mail newsletter system, web hosting, or its e-commerce platform?" Because LiveJasmin is committed to safeguarding the integrity of your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation. 
+Your email address  
+Your city, state, zip code, country  
+Your password  
+Your profile
+
+Please promptly update your information if it changes by logging in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorized access to your account information. 
+
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [Customer Service](http://adultfriendfinder.com/p/help.cgi?contact=1). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our Terms of Use Agreement.  
+  
+  
+**8\. Third Party Collections of Information**  
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While Adult FriendFinder is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. 
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp) .  
+  
+  
+**9\. Security**  
+Adult FriendFinder has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. Adult FriendFinder uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at Adult FriendFinder work hard to ensure your secure use of our services.  
+  
+**10\. Update/Delete**  
+Adult FriendFinder Members have the following choices to modify or delete their information from our database:  
+
+
+  * Send an email to [Customer Service](http://adultfriendfinder.com/p/help.cgi?contact=1);  
+
+  * Log in with your password and modify/delete your profile;  
+
+  * Send a snail mail to Adult FriendFinder at 220 Humboldt Ct, Sunnyvale, CA 94089, USA  
+
+  * Call us at (610) 757-1920 
+
+Click [here](https://web.archive.org/cgi-bin/public/register.cgi) to join our [free](https://web.archive.org/cgi-bin/public/register.cgi), safe, and exciting community now.   
+  
+Adult FriendFinder PRIVACY POLICY  
+Effective on: (12/22/05)
+
+Top
