@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913141102id_/http%3A//www.wfmz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531123326id_/http%3A//www.wfmz.com/privacy.asp) for the most accurate reproduction.*
 
-# WFMZ Online Privacy Statement
+# WFMZ-TV Online
 
 **PRIVACY STATEMENT FOR wfmz.com  
 **as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT   
@@ -37,15 +37,20 @@ This site offers several services for which registration is required.  These in
 
 A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times.
 
-The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [CLICK HERE](https://web.archive.org/web/20080913141102id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
+The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates.  You may [_CLICK HERE_](https://web.archive.org/web/20090531123326id_/http%3A//www.wfmz.com/stormcenter/cookie.html) to learn about the Stormcenter Update cookie.
 
 **Correct / update policy**
 
 Users may correct or change the information collected during registration for Stormcenter Update. The instructions for doing this can be found in the Stormcenter Update portion of our website. Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at:
 
+| General issues:  | [ _webmaster@wfmz.com_](mailto:webmaster@wfmz.com) |   
+---|---|---|---  
+| Headline Email News issues: | [ _listmaster@wfmz.com_](mailto:listmaster@wfmz.com) |   
+| Stormcenter Update | [ _stormcenter@wfmz.com_](mailto:stormcenter@wfmz.com) |   
+  
 Phone:   610.797.4530
 
-    WFMZ Online  
+   WFMZ Online  
    300 East Rock Road  
    Allentown, PA 18103-7599
 
