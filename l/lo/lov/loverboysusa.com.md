@@ -1,51 +1,53 @@
-> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322095025id_/http%3A//www.loverboysusa.com/cfnm-strippers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverboysusa.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531112429id_/http%3A//www.loverboysusa.com/privacy.html) for the most accurate reproduction.*
 
-# CFNM and the international male stripper LoverBoysUSA
+# LoverboysUSA.com - Privacy Policy
 
-#### Privacy Policy Statement
+## Last updated: 1st September 2008
 
-For casual visitors to our web site, we **do not** collect any information regarding domains, e-mail addresses, or any other personal details.
+Privacy policy statement for casual visitors to our website, we do not collect any information regarding domains, email addresses, or any other personal details.
 
-The information that we collect from our customers is **not** shared with other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, please let us know by sending an email to us via the [contact page](https://web.archive.org/cfnm-strippers/contact) stating that you do not wish to receive any further communications from our company.
+The information that we collect from our customers is not shared with other organisations for commercial purposes. If you do not want to receive e-mail, mailings, or telephone calls - if you supplied us with those details - from us in the future, please contact us and we will remove you from any mailing lists.
 
-If you have supplied us with your postal address on-line, you may receive periodic mailings from us with information on new products, services or upcoming events. Please provide us with your exact name and address if you do not wish to receive such mailings, send details via the [contact page](https://web.archive.org/cfnm-strippers/contact).
+LoverboysUSA.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering and dissemination practices for our websites.
 
-Persons who have supplied us with their telephone number on-line may receive calls from us with information regarding orders they have placed on-line. Please provide us with your correct phone number via the [contact page](https://web.archive.org/cfnm-strippers/contact) if you do not wish to receive any such contact.
+## Automatically collected information
 
-#### Our Privacy Statement
+We use your IP address to help diagnose problems with our server, and keep track of how many visitors our websites have had, what country they have come from and what browser version they use. At no time is your IP address used to help identify you.
 
-LoverboysUSA.com have created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
+IP addresses are unique numeric identifiers that are assigned to each computer accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
 
-We use your IP address to help diagnose problems with our server, and to administer our web site, your IP address is used to help identify you and your shopping cart.
+## Cookies
 
-This site contains links to other sites and is not responsible for the privacy practices or the content of such sites.
+We use cookies to help maintain a consistent experience for our customers. Cookies are used throughout our site to enable us to keep track of options selected by you. At no time is any personal information stored within a cookie. Visitors to our site can refuse cookies by turning them off in their browser, please note this will result in various aspects or our site becoming inaccessible due to relying on cookies for functionality.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (such as email address) and financial information (i.e. account or credit card numbers). Contact information from order forms are used to send order details and information to our company from our customers. The customer's contact information is also used to get in touch with the visitor when necessary.
+Cookies are small text files stored on your computer by your web browser software.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill customers for products and/or services. The information that you provide to LoverboysUSA.com will not be shared or sold to any other company or individuals at any time.
+## Personal information
 
-#### Public Forums
+Our website uses a basic contact form for customers to request information about our products and services and also to request general information. We do not collect and store visitors' personal contact information.
 
-This site makes chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Registered users may opt-out of receiving future mailings; see the choice/opt-out section below. The information that you provide to us will not be shared or sold to any other company or individuals at any time.
 
-#### Security
+## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When you make a purchase "Add to shopping cart" you will be taken to a secure server. At the bottom of the page you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". This site only uses the highest level of Internet Security. At no time will your information be in any danger of theft.
+All Payments from this site are made via either [VXSBill](http://www.vxsbill.com/), [CCBill](http://www.ccbill.com/), or [NetBilling](http://www.netbilling.com/). When you make a purchase you will be taken to a secure server. Depending on your web browser you will see a small padlock that informs you that your information is encrypted and you are on a secure server (SSL). Also, in the address bar the URL should start with "https://". VXSBill and CCBill only use the highest level of Internet security. At no time will your information be in any danger of theft.
 
-#### Choice/Opt-Out
+## Public forums
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+We do not have any forums, guest books or message boards on this site. Under no circumstances will information passed to LoverboysUSA.com from online forms, postal order forms or from any other source be made public.
 
-If you do not wish to be placed on our mailing list please contact us via our [contact page](https://web.archive.org/cfnm-strippers/contact) with a request to be removed. This will be carried out without any hesitation.
+## Advertisers
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+This site does not use third party ad companies to display advertisements on our site. However we do have outside companies advertising in our resources section (link exchange pages) these companies may use cookies and other information gathering methods to target ads to visitors.
 
-#### Correct/Update
+## External Links
 
-This site gives users the following options for changing and modifying information previously provided.
+LoverboysUSA.com's site contains links to other sites. LoverboysUSA.com is not responsible for the privacy policies, privacy practices or the content of such websites.
 
-**Contacting the Web Site**
+## Choice/Opt-Out
 
-If at any time you wish to contact us, please go to the [contact page](https://web.archive.org/cfnm-strippers/contact). Here you will be able to contact us via on-line form, telephone, or mailing address.
+Our site provides users the opportunity to opt-out of receiving communications from us. If you do not wish to be placed on our mailing list please make sure you have opted by contacting us.
 
-[Click here](https://web.archive.org/cfnm-strippers/contact) to be taken to the contact page. 
+## Contacting the website
+
+If at any time you wish to contact us with a membership issue, please login to the members area and send us a message from the contact form provided. If you are having issues gaining access then please direct all queries to the [billing support pages](https://web.archive.org/contact.php).
