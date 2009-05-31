@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2008-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080915121402id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2009-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531205927id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="copyright" content="Great Nonprofits 2007-2008">
-   <meta name="description" content="Great Nonprofits is a place to find, review, and talk about great�and perhaps also not so great�nonprofits. Members witness and share their personal stories about nonprofits that make a real difference.">
+   <meta name="description" content="Great Nonprofits is a place to find, review, and talk about great—and perhaps also not so great—nonprofits. Members witness and share their personal stories about nonprofits that make a real difference.">
    <meta name="keywords" content="nonprofit, impact, effective, philanthropy, pittsburgh, review, donate, volunteer, find, charities, giving, guidestar, fundraising">
+   <title>"Great Nonprofits - Find ratings and reviews of the best nonprofits, charities, and volunteer opportunities" </title>
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://gnpdev.com/rss_2.0/">
-<link rel="alternate" type="application/atom+xml" title="Atom" href="http://gnpdev.com/atom/">
-<link rel="alternate" type="application/atom+xml" title="Atom2" href="http://gnpdev.com/atom2/">
-
+<!-- link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.greatnonprofits.org//rss_2.0/" / -->
+<!-- link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.greatnonprofits.org//atom/" / -->
+<link rel="alternate" type="application/atom+xml" title="GNP Blog" href="http://www.greatnonprofits.org/atom2/">
+<link rel="alternate" type="application/atom+xml" title="Recent Reviews" href="http://www.greatnonprofits.org/rss-reviews/">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.greatnonprofits.org/favicon.ico">
 <!-- Core Javascripts -->
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/default.js"></script>
 <script type="text/javascript" src="http://www.greatnonprofits.org/.src/prototype.js?v=150"></script>
@@ -46,6 +48,22 @@ overflow:hidden;
 width:700px;
 }
 </style>
+
+<!-- some google stuff -->
+<meta name="verify-v1" content="DlLgAS2ggORyabmNIk3aVTIcJzA69fUa5Tjc+CXl3hY=">
+<meta name="verify-v1" content="jlfGr9zzEicfjO5jTHz6XL7ImTgAMktgoplbfjLnX3A=">
+<meta name="verify-v1" content="xZJO6PUQwkj246vVViZVJK0c1b1KM9aRZQ4Y2YUAdLY=">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-354868-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- some google stuff end -->
+
 <script type="text/javascript">
 //<![CDATA[
  window.onload = function() {init()}
@@ -97,21 +115,21 @@ font-size: 1.2em;
 
    Element.cleanWhitespace($('global'));
    //]]>
+
   </script>
 
     </h1>
 
     <ul id="nav">
       <li id="nav1"><a href="/reviews"><span class="ctext">Find Reviews</span></a></li>
-      <li id="nav2"><a href="/reviews/write"><span class="ctext">Write a Review</span></a></li>
+      <li id="nav2"><a href="/reviews/find"><span class="ctext">Write a Review</span></a></li>
       <li id="nav3"><a href="/needs"><span class="ctext">Needs &amp; Offers</span></a></li>
         <li id="nav4"><a href="/user"><span class="ctext">My Page</span></a></li>
       <li id="nav5" class="last"><a href="http://www.greatnonprofits.org/about/"><span class="ctext">About Us</span></a></li>
     </ul>
     <div id="finder">
-      <div id="finder-label"><span class="ctext">Nonprofit Finder</span>
-</div>
-<form id="form-search" name="org-lookup" method="post" action="http://www.greatnonprofits.org/">
+  <div id="finder-label"><span class="ctext">Nonprofit Finder</span></div>
+  <form id="form-search" name="org-lookup" method="post" action="http://www.greatnonprofits.org/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
 <input type="hidden" name="XID" value="">
@@ -119,7 +137,7 @@ font-size: 1.2em;
 <input type="hidden" name="NRP" value="&amp;#47;search&amp;#47;no_results">
 <input type="hidden" name="RES" value="40">
 <input type="hidden" name="status" value="not closed">
-<input type="hidden" name="search_in" value="everywhere">
+<input type="hidden" name="search_in" value="">
 <input type="hidden" name="weblog" value="reviews">
 <input type="hidden" name="show_future_entries" value="yes">
 <input type="hidden" name="site_id" value="1">
@@ -145,9 +163,9 @@ function changemenu(index)
 	{
 		theSearchForm = document.searchform;
 	}
-	else if (document.getElementById('searchform'))
+	else if (document.getElementById('form-search'))
 	{
-		theSearchForm = document.getElementById('searchform');
+		theSearchForm = document.getElementById('form-search');
 	}
 	
 	if (theSearchForm.elements['weblog_id'])
@@ -177,18 +195,357 @@ function changemenu(index)
 		if (blogs == "3")
 		{	
             categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Abilene, TX", "833"); i++; 
+            categories[i] = new Option("Aguadilla, PR", "857"); i++; 
+            categories[i] = new Option("Akron, OH", "712"); i++; 
+            categories[i] = new Option("Albany - Schenectady - Troy, NY", "790"); i++; 
+            categories[i] = new Option("Albany, GA", "879"); i++; 
+            categories[i] = new Option("Albuquerque, NM", "641"); i++; 
+            categories[i] = new Option("Alexandria, LA", "853"); i++; 
+            categories[i] = new Option("Allentown - Bethlehem - Easton, PA", "807"); i++; 
+            categories[i] = new Option("Altoona, PA", "889"); i++; 
+            categories[i] = new Option("Amarillo, TX", "834"); i++; 
+            categories[i] = new Option("Anchorage, AK", "695"); i++; 
+            categories[i] = new Option("Ann Arbor, MI", "708"); i++; 
+            categories[i] = new Option("Anniston, AL", "865"); i++; 
+            categories[i] = new Option("Appleton - Oshkosh - Neenah, WI", "639"); i++; 
+            categories[i] = new Option("Arecibo, PR", "860"); i++; 
+            categories[i] = new Option("Asheville, NC", "831"); i++; 
+            categories[i] = new Option("Athens, GA", "880"); i++; 
+            categories[i] = new Option("Atlanta, GA", "651"); i++; 
+            categories[i] = new Option("Atlantic-Cape May, NJ", "677"); i++; 
+            categories[i] = new Option("Auburn-Opelika, AL", "866"); i++; 
+            categories[i] = new Option("Augusta-Aiken, GA-SC", "737"); i++; 
+            categories[i] = new Option("Austin-San Marcos, TX", "671"); i++; 
+            categories[i] = new Option("Bakersfield, CA", "611"); i++; 
+            categories[i] = new Option("Baltimore, MD", "635"); i++; 
+            categories[i] = new Option("Bangor, ME", "917"); i++; 
+            categories[i] = new Option("Barnstable-Yarmouth, MA", "859"); i++; 
+            categories[i] = new Option("Baton Rouge, LA", "836"); i++; 
+            categories[i] = new Option("Beaumont-Port Arthur, TX", "830"); i++; 
+            categories[i] = new Option("Bellingham, WA", "688"); i++; 
+            categories[i] = new Option("Benton Harbor, MI", "694"); i++; 
+            categories[i] = new Option("Bergen-Passaic, NJ", "707"); i++; 
+            categories[i] = new Option("Billings, MT", "825"); i++; 
+            categories[i] = new Option("Biloxi - Gulfport - Pascagoula, MS", "736"); i++; 
+            categories[i] = new Option("Binghamton, NY", "674"); i++; 
+            categories[i] = new Option("Birmingham, AL", "704"); i++; 
+            categories[i] = new Option("Bismarck, ND", "741"); i++; 
+            categories[i] = new Option("Bloomington, IN", "826"); i++; 
+            categories[i] = new Option("Bloomington-Normal, IL", "847"); i++; 
+            categories[i] = new Option("Boise City, ID", "680"); i++; 
+            categories[i] = new Option("Boston, MA-NH", "628"); i++; 
+            categories[i] = new Option("Boulder-Longmont, CO", "706"); i++; 
+            categories[i] = new Option("Brazoria, TX", "667"); i++; 
+            categories[i] = new Option("Bremerton, WA", "607"); i++; 
+            categories[i] = new Option("Bridgeport, CT", "890"); i++; 
+            categories[i] = new Option("Brockton, MA", "848"); i++; 
+            categories[i] = new Option("Brownsville - Harlingen - San Benito, TX", "839"); i++; 
+            categories[i] = new Option("Bryan-College Station, TX", "789"); i++; 
+            categories[i] = new Option("Buffalo-Niagara Falls, NY", "716"); i++; 
+            categories[i] = new Option("Burlington, VT", "756"); i++; 
+            categories[i] = new Option("Caguas, PR", "935"); i++; 
+            categories[i] = new Option("Canton-Massillon, OH", "799"); i++; 
+            categories[i] = new Option("Casper, WY", "823"); i++; 
+            categories[i] = new Option("Cedar Rapids, IA", "750"); i++; 
+            categories[i] = new Option("Champaign-Urbana, IL", "909"); i++; 
+            categories[i] = new Option("Charleston, WV", "815"); i++; 
+            categories[i] = new Option("Charleston-North Charleston, SC", "810"); i++; 
+            categories[i] = new Option("Charlotte-Gastonia-Rock Hill, NC-SC", "697"); i++; 
+            categories[i] = new Option("Charlottesville, VA", "829"); i++; 
+            categories[i] = new Option("Chattanooga, TN-GA", "702"); i++; 
+            categories[i] = new Option("Cheyenne, WY", "814"); i++; 
+            categories[i] = new Option("Chicago, IL", "663"); i++; 
+            categories[i] = new Option("Chico-Paradise, CA", "654"); i++; 
+            categories[i] = new Option("Cincinnati, OH-KY-IN", "748"); i++; 
+            categories[i] = new Option("Clarksville-Hopkinsville, TN-KY", "846"); i++; 
+            categories[i] = new Option("Cleveland-Lorain-Elyria, OH", "621"); i++; 
+            categories[i] = new Option("Colorado Springs, CO", "634"); i++; 
+            categories[i] = new Option("Columbia, MO", "876"); i++; 
+            categories[i] = new Option("Columbia, SC", "734"); i++; 
+            categories[i] = new Option("Columbus, GA-AL", "824"); i++; 
+            categories[i] = new Option("Columbus, OH", "672"); i++; 
+            categories[i] = new Option("-------", ""); i++; 
             categories[i] = new Option("Computer Hardware and Software", "5"); i++; 
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Corpus Christi, TX", "794"); i++; 
+            categories[i] = new Option("Corvallis, OR", "686"); i++; 
+            categories[i] = new Option("Cumberland, MD-WV", "767"); i++; 
+            categories[i] = new Option("Dallas, TX", "602"); i++; 
+            categories[i] = new Option("Danbury, CT", "891"); i++; 
+            categories[i] = new Option("Danville, VA", "888"); i++; 
+            categories[i] = new Option("Davenport-Moline-Rock Island, IA-IL", "910"); i++; 
+            categories[i] = new Option("Dayton-Springfield, OH", "776"); i++; 
+            categories[i] = new Option("Daytona Beach, FL", "693"); i++; 
+            categories[i] = new Option("Decatur, AL", "868"); i++; 
+            categories[i] = new Option("Decatur, IL", "887"); i++; 
+            categories[i] = new Option("Denver, CO", "661"); i++; 
+            categories[i] = new Option("Des Moines, IA", "914"); i++; 
+            categories[i] = new Option("Detroit, MI", "665"); i++; 
+            categories[i] = new Option("Dothan, AL", "804"); i++; 
+            categories[i] = new Option("Dover, DE", "811"); i++; 
+            categories[i] = new Option("Dubuque, IA", "916"); i++; 
+            categories[i] = new Option("Duluth-Superior, MN-WI", "669"); i++; 
+            categories[i] = new Option("Dutchess County, NY", "812"); i++; 
+            categories[i] = new Option("Eau Claire, WI", "769"); i++; 
+            categories[i] = new Option("El Paso, TX", "744"); i++; 
+            categories[i] = new Option("Elkhart-Goshen, IN", "758"); i++; 
+            categories[i] = new Option("Elmira, NY", "932"); i++; 
+            categories[i] = new Option("Enid, OK", "851"); i++; 
+            categories[i] = new Option("Erie, PA", "668"); i++; 
+            categories[i] = new Option("Eugene-Springfield, OR", "689"); i++; 
+            categories[i] = new Option("Evansville-Henderson, IN-KY", "722"); i++; 
+            categories[i] = new Option("Fargo-Moorhead, ND-MN", "813"); i++; 
+            categories[i] = new Option("Fayetteville - Springdale - Rogers, AR", "803"); i++; 
+            categories[i] = new Option("Fayetteville, NC", "886"); i++; 
+            categories[i] = new Option("Fitchburg-Leominster, MA", "933"); i++; 
+            categories[i] = new Option("Flagstaff, AZ-UT", "727"); i++; 
+            categories[i] = new Option("Flint, MI", "743"); i++; 
+            categories[i] = new Option("Florence, AL", "867"); i++; 
+            categories[i] = new Option("Florence, SC", "791"); i++; 
+            categories[i] = new Option("Fort Collins-Loveland, CO", "821"); i++; 
+            categories[i] = new Option("Fort Lauderdale, FL", "637"); i++; 
+            categories[i] = new Option("Fort Myers-Cape Coral, FL", "745"); i++; 
+            categories[i] = new Option("Fort Pierce-Port St. Lucie, FL", "785"); i++; 
+            categories[i] = new Option("Fort Smith, AR-OK", "852"); i++; 
+            categories[i] = new Option("Fort Walton Beach, FL", "775"); i++; 
+            categories[i] = new Option("Fort Wayne, IN", "718"); i++; 
+            categories[i] = new Option("Fort Worth-Arlington, TX", "784"); i++; 
+            categories[i] = new Option("Fresno, CA", "622"); i++; 
+            categories[i] = new Option("-------", ""); i++; 
             categories[i] = new Option("Fundraising", "7"); i++; 
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Gadsden, AL", "816"); i++; 
+            categories[i] = new Option("Gainesville, FL", "625"); i++; 
+            categories[i] = new Option("Galveston-Texas City, TX", "762"); i++; 
+            categories[i] = new Option("Gary, IN", "630"); i++; 
+            categories[i] = new Option("Glens Falls, NY", "870"); i++; 
+            categories[i] = new Option("Goldsboro, NC", "796"); i++; 
+            categories[i] = new Option("Grand Forks, ND-MN", "925"); i++; 
+            categories[i] = new Option("Grand Junction, CO", "747"); i++; 
+            categories[i] = new Option("Grand Rapids - Muskegon - Holland, MI", "795"); i++; 
+            categories[i] = new Option("Great Falls, MT", "822"); i++; 
+            categories[i] = new Option("Greeley, CO", "698"); i++; 
+            categories[i] = new Option("Green Bay, WI", "755"); i++; 
+            categories[i] = new Option("Greensboro -- Winston-Salem -- High Point, NC", "603"); i++; 
+            categories[i] = new Option("Greenville - Spartanburg - Anderson, SC", "731"); i++; 
+            categories[i] = new Option("Greenville, NC", "892"); i++; 
+            categories[i] = new Option("Hagerstown, MD", "900"); i++; 
+            categories[i] = new Option("Hamilton-Middletown, OH", "777"); i++; 
+            categories[i] = new Option("Harrisburg - Lebanon - Carlisle, PA", "894"); i++; 
+            categories[i] = new Option("Hartford, CT", "742"); i++; 
+            categories[i] = new Option("Hattiesburg, MS", "855"); i++; 
+            categories[i] = new Option("Hickory - Morganton - Lenoir, NC", "885"); i++; 
+            categories[i] = new Option("Honolulu, HI", "599"); i++; 
+            categories[i] = new Option("Houma, LA", "751"); i++; 
+            categories[i] = new Option("Houston, TX", "633"); i++; 
+            categories[i] = new Option("Huntington-Ashland, WV-KY-OH", "874"); i++; 
+            categories[i] = new Option("Huntsville, AL", "808"); i++; 
+            categories[i] = new Option("Indianapolis, IN", "692"); i++; 
+            categories[i] = new Option("Iowa City, IA", "806"); i++; 
+            categories[i] = new Option("Jackson, MI", "733"); i++; 
+            categories[i] = new Option("Jackson, MS", "783"); i++; 
+            categories[i] = new Option("Jackson, TN", "869"); i++; 
+            categories[i] = new Option("Jacksonville, FL", "705"); i++; 
+            categories[i] = new Option("Jacksonville, NC", "849"); i++; 
+            categories[i] = new Option("Jamestown, NY", "927"); i++; 
+            categories[i] = new Option("Janesville-Beloit, WI", "768"); i++; 
+            categories[i] = new Option("Jersey City, NJ", "877"); i++; 
+            categories[i] = new Option("Johnson City-Kingsport-Bristol, TN-VA", "837"); i++; 
+            categories[i] = new Option("Johnstown, PA", "931"); i++; 
+            categories[i] = new Option("Jonesboro, AR", "778"); i++; 
+            categories[i] = new Option("Joplin, MO", "883"); i++; 
+            categories[i] = new Option("Kalamazoo-Battle Creek, MI", "732"); i++; 
+            categories[i] = new Option("Kankakee, IL", "913"); i++; 
+            categories[i] = new Option("Kansas City, MO-KS", "604"); i++; 
+            categories[i] = new Option("Kenosha, WI", "875"); i++; 
+            categories[i] = new Option("Killeen-Temple, TX", "828"); i++; 
+            categories[i] = new Option("Knoxville, TN", "709"); i++; 
+            categories[i] = new Option("Kokomo, IN", "928"); i++; 
+            categories[i] = new Option("La Crosse, WI-MN", "753"); i++; 
+            categories[i] = new Option("Lafayette, IN", "759"); i++; 
+            categories[i] = new Option("Lafayette, LA", "713"); i++; 
+            categories[i] = new Option("Lake Charles, LA", "844"); i++; 
+            categories[i] = new Option("Lakeland-Winter Haven, FL", "843"); i++; 
+            categories[i] = new Option("Lancaster, PA", "730"); i++; 
+            categories[i] = new Option("Lansing-East Lansing, MI", "735"); i++; 
+            categories[i] = new Option("Laredo, TX", "842"); i++; 
+            categories[i] = new Option("Las Cruces, NM", "626"); i++; 
+            categories[i] = new Option("Las Vegas, NV-AZ", "632"); i++; 
+            categories[i] = new Option("Lawrence, KS", "660"); i++; 
+            categories[i] = new Option("Lawrence, MA-NH", "904"); i++; 
+            categories[i] = new Option("Lawton, OK", "850"); i++; 
+            categories[i] = new Option("Lewiston-Auburn, ME", "754"); i++; 
+            categories[i] = new Option("Lexington, KY", "749"); i++; 
+            categories[i] = new Option("Lima, OH", "929"); i++; 
+            categories[i] = new Option("Lincoln, NE", "738"); i++; 
+            categories[i] = new Option("Little Rock-North Little Rock, AR", "670"); i++; 
+            categories[i] = new Option("Longview-Marshall, TX", "664"); i++; 
+            categories[i] = new Option("Los Angeles-Long Beach, CA", "600"); i++; 
+            categories[i] = new Option("Louisville, KY-IN", "723"); i++; 
+            categories[i] = new Option("Lowell, MA-NH", "918"); i++; 
+            categories[i] = new Option("Lubbock, TX", "725"); i++; 
+            categories[i] = new Option("Lynchburg, VA", "763"); i++; 
+            categories[i] = new Option("Macon, GA", "720"); i++; 
+            categories[i] = new Option("Madison, WI", "765"); i++; 
+            categories[i] = new Option("Manchester, NH", "923"); i++; 
+            categories[i] = new Option("Mansfield, OH", "780"); i++; 
+            categories[i] = new Option("Mayaguez, PR", "862"); i++; 
+            categories[i] = new Option("McAllen - Edinburg - Mission, TX", "802"); i++; 
+            categories[i] = new Option("Medford-Ashland, OR", "646"); i++; 
+            categories[i] = new Option("Melbourne-Titusville-Palm Bay, FL", "721"); i++; 
+            categories[i] = new Option("Memphis, TN-AR-MS", "787"); i++; 
+            categories[i] = new Option("Merced, CA", "658"); i++; 
+            categories[i] = new Option("Miami, FL", "781"); i++; 
+            categories[i] = new Option("Middlesex-Somerset-Hunterdon, NJ", "798"); i++; 
+            categories[i] = new Option("Milwaukee-Waukesha, WI", "653"); i++; 
+            categories[i] = new Option("Minneapolis-St. Paul, MN-WI", "631"); i++; 
+            categories[i] = new Option("Missoula, MT", "752"); i++; 
+            categories[i] = new Option("Mobile, AL", "691"); i++; 
+            categories[i] = new Option("Modesto, CA", "656"); i++; 
+            categories[i] = new Option("Monmouth-Ocean, NJ", "774"); i++; 
+            categories[i] = new Option("Monroe, LA", "701"); i++; 
+            categories[i] = new Option("Montgomery, AL", "854"); i++; 
+            categories[i] = new Option("Muncie, IN", "922"); i++; 
+            categories[i] = new Option("Myrtle Beach, SC", "878"); i++; 
+            categories[i] = new Option("Naples, FL", "863"); i++; 
+            categories[i] = new Option("Nashua, NH", "899"); i++; 
+            categories[i] = new Option("Nashville, TN", "782"); i++; 
+            categories[i] = new Option("Nassau-Suffolk, NY", "724"); i++; 
+            categories[i] = new Option("New Bedford, MA", "934"); i++; 
+            categories[i] = new Option("New Haven-Meriden, CT", "640"); i++; 
+            categories[i] = new Option("New London-Norwich, CT-RI", "921"); i++; 
+            categories[i] = new Option("New Orleans, LA", "624"); i++; 
+            categories[i] = new Option("New York, NY", "606"); i++; 
+            categories[i] = new Option("Newark, NJ", "714"); i++; 
+            categories[i] = new Option("Newburgh, NY-PA", "770"); i++; 
+            categories[i] = new Option("Norfolk-Virginia Beach-Newport News, VA-NC", "683"); i++; 
+            categories[i] = new Option("Oakland, CA", "623"); i++; 
+            categories[i] = new Option("Ocala, FL", "771"); i++; 
+            categories[i] = new Option("Odessa-Midland, TX", "820"); i++; 
+            categories[i] = new Option("-------", ""); i++; 
             categories[i] = new Option("Office and Stationery Supplies", "6"); i++; 
             categories[i] = new Option("Office Equipment and Furniture", "4"); i++; 
             categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Pittsburgh", "8"); i++; 
+            categories[i] = new Option("Oklahoma City, OK", "719"); i++; 
+            categories[i] = new Option("Olympia, WA", "678"); i++; 
+            categories[i] = new Option("Omaha, NE-IA", "696"); i++; 
+            categories[i] = new Option("Orange County, CA", "612"); i++; 
+            categories[i] = new Option("Orlando, FL", "648"); i++; 
+            categories[i] = new Option("Owensboro, KY", "786"); i++; 
+            categories[i] = new Option("Panama City, FL", "817"); i++; 
+            categories[i] = new Option("Parkersburg-Marietta, WV-OH", "873"); i++; 
+            categories[i] = new Option("Pensacola, FL", "673"); i++; 
+            categories[i] = new Option("Peoria-Pekin, IL", "884"); i++; 
+            categories[i] = new Option("Philadelphia, PA-NJ", "629"); i++; 
+            categories[i] = new Option("Phoenix-Mesa, AZ", "620"); i++; 
+            categories[i] = new Option("Pine Bluff, AR", "801"); i++; 
+            categories[i] = new Option("Pittsburgh, PA", "666"); i++; 
+            categories[i] = new Option("Pittsfield, MA", "896"); i++; 
+            categories[i] = new Option("Pocatello, ID", "827"); i++; 
+            categories[i] = new Option("Ponce, PR", "861"); i++; 
+            categories[i] = new Option("Portland, ME", "901"); i++; 
+            categories[i] = new Option("Portland-Vancouver, OR-WA", "601"); i++; 
+            categories[i] = new Option("Portsmouth-Rochester, NH-ME", "779"); i++; 
+            categories[i] = new Option("Providence-Fall River-Warwick, RI-MA", "764"); i++; 
+            categories[i] = new Option("Provo-Orem, UT", "649"); i++; 
+            categories[i] = new Option("Pueblo, CO", "608"); i++; 
+            categories[i] = new Option("Punta Gorda, FL", "864"); i++; 
+            categories[i] = new Option("Racine, WI", "728"); i++; 
+            categories[i] = new Option("Raleigh-Durham-Chapel Hill, NC", "703"); i++; 
+            categories[i] = new Option("Rapid City, SD", "912"); i++; 
+            categories[i] = new Option("Reading, PA", "882"); i++; 
+            categories[i] = new Option("Redding, CA", "662"); i++; 
             categories[i] = new Option("Regions", "10"); i++; 
-            categories[i] = new Option("San Francisco", "9"); i++; 
+            categories[i] = new Option("Reno, NV", "679"); i++; 
+            categories[i] = new Option("Richland - Kennewick - Pasco, WA", "699"); i++; 
+            categories[i] = new Option("Richmond-Petersburg, VA", "772"); i++; 
+            categories[i] = new Option("Riverside-San Bernardino, CA", "613"); i++; 
+            categories[i] = new Option("Roanoke, VA", "897"); i++; 
+            categories[i] = new Option("Rochester, MN", "911"); i++; 
+            categories[i] = new Option("Rochester, NY", "729"); i++; 
+            categories[i] = new Option("Rockford, IL", "760"); i++; 
+            categories[i] = new Option("Rocky Mount, NC", "893"); i++; 
+            categories[i] = new Option("Sacramento, CA", "636"); i++; 
+            categories[i] = new Option("Saginaw-Bay City-Midland, MI", "915"); i++; 
+            categories[i] = new Option("Salem, OR", "690"); i++; 
+            categories[i] = new Option("Salinas, CA", "657"); i++; 
+            categories[i] = new Option("Salt Lake City-Ogden, UT", "644"); i++; 
+            categories[i] = new Option("San Angelo, TX", "681"); i++; 
+            categories[i] = new Option("San Antonio, TX", "682"); i++; 
+            categories[i] = new Option("San Diego, CA", "610"); i++; 
+            categories[i] = new Option("San Francisco, CA", "642"); i++; 
+            categories[i] = new Option("San Jose, CA", "655"); i++; 
+            categories[i] = new Option("San Juan-Bayamon, PR", "858"); i++; 
+            categories[i] = new Option("San Luis Obispo-Atascadero-Paso Robles, CA", "616"); i++; 
+            categories[i] = new Option("Santa Barbara-Santa Maria-Lompoc, CA", "614"); i++; 
+            categories[i] = new Option("Santa Cruz-Watsonville, CA", "659"); i++; 
+            categories[i] = new Option("Santa Fe, NM", "818"); i++; 
+            categories[i] = new Option("Santa Rosa, CA", "638"); i++; 
+            categories[i] = new Option("Sarasota-Bradenton, FL", "687"); i++; 
+            categories[i] = new Option("Savannah, GA", "792"); i++; 
+            categories[i] = new Option("Scranton -- Wilkes-Barre -- Hazleton, PA", "905"); i++; 
+            categories[i] = new Option("Seattle-Bellevue-Everett, WA", "618"); i++; 
+            categories[i] = new Option("Sharon, PA", "800"); i++; 
+            categories[i] = new Option("Sheboygan, WI", "920"); i++; 
+            categories[i] = new Option("Sherman-Denison, TX", "793"); i++; 
+            categories[i] = new Option("Shreveport-Bossier City, LA", "739"); i++; 
+            categories[i] = new Option("Sioux City, IA-NE", "740"); i++; 
+            categories[i] = new Option("Sioux Falls, SD", "805"); i++; 
+            categories[i] = new Option("South Bend, IN", "872"); i++; 
+            categories[i] = new Option("Spokane, WA", "675"); i++; 
+            categories[i] = new Option("Springfield, IL", "908"); i++; 
+            categories[i] = new Option("Springfield, MA", "845"); i++; 
+            categories[i] = new Option("Springfield, MO", "676"); i++; 
+            categories[i] = new Option("St. Cloud, MN", "881"); i++; 
+            categories[i] = new Option("St. Joseph, MO", "919"); i++; 
+            categories[i] = new Option("St. Louis, MO-IL", "700"); i++; 
+            categories[i] = new Option("Stamford-Norwalk, CT", "797"); i++; 
+            categories[i] = new Option("State College, PA", "906"); i++; 
+            categories[i] = new Option("Steubenville-Weirton, OH-WV", "871"); i++; 
+            categories[i] = new Option("Stockton-Lodi, CA", "627"); i++; 
+            categories[i] = new Option("Sumter, SC", "895"); i++; 
+            categories[i] = new Option("Syracuse, NY", "809"); i++; 
+            categories[i] = new Option("Tacoma, WA", "685"); i++; 
+            categories[i] = new Option("Tallahassee, FL", "788"); i++; 
+            categories[i] = new Option("Tampa-St. Petersburg-Clearwater, FL", "684"); i++; 
+            categories[i] = new Option("Terre Haute, IN", "761"); i++; 
+            categories[i] = new Option("Texarkana, TX-Texarkana, AR", "835"); i++; 
+            categories[i] = new Option("Toledo, OH", "757"); i++; 
+            categories[i] = new Option("Topeka, KS", "841"); i++; 
+            categories[i] = new Option("Trenton, NJ", "605"); i++; 
+            categories[i] = new Option("Tucson, AZ", "647"); i++; 
+            categories[i] = new Option("Tulsa, OK", "650"); i++; 
+            categories[i] = new Option("Tuscaloosa, AL", "856"); i++; 
+            categories[i] = new Option("Tyler, TX", "643"); i++; 
+            categories[i] = new Option("Utica-Rome, NY", "773"); i++; 
+            categories[i] = new Option("Vallejo-Fairfield-Napa, CA", "619"); i++; 
+            categories[i] = new Option("Ventura, CA", "615"); i++; 
+            categories[i] = new Option("Victoria, TX", "840"); i++; 
+            categories[i] = new Option("Vineland - Millville - Bridgeton, NJ", "930"); i++; 
+            categories[i] = new Option("Visalia - Tulare - Porterville, CA", "645"); i++; 
             categories[i] = new Option("-------", ""); i++; 
             categories[i] = new Option("Volunteer", "11"); i++; 
             categories[i] = new Option("-------", ""); i++; 
-            categories[i] = new Option("Washington D.C.", "12"); i++; 
+            categories[i] = new Option("Waco, TX", "838"); i++; 
+            categories[i] = new Option("Washington, DC-MD-VA-WV", "609"); i++; 
+            categories[i] = new Option("Waterbury, CT", "907"); i++; 
+            categories[i] = new Option("Waterloo-Cedar Falls, IA", "926"); i++; 
+            categories[i] = new Option("Wausau, WI", "924"); i++; 
+            categories[i] = new Option("West Palm Beach-Boca Raton, FL", "711"); i++; 
+            categories[i] = new Option("Wheeling, WV-OH", "898"); i++; 
+            categories[i] = new Option("Wichita Falls, TX", "832"); i++; 
+            categories[i] = new Option("Wichita, KS", "766"); i++; 
+            categories[i] = new Option("Williamsport, PA", "715"); i++; 
+            categories[i] = new Option("Wilmington, NC", "726"); i++; 
+            categories[i] = new Option("Wilmington-Newark, DE-MD", "819"); i++; 
+            categories[i] = new Option("Worcester, MA-CT", "746"); i++; 
+            categories[i] = new Option("Yakima, WA", "710"); i++; 
+            categories[i] = new Option("Yolo, CA", "617"); i++; 
+            categories[i] = new Option("York, PA", "902"); i++; 
+            categories[i] = new Option("Youngstown-Warren, OH", "903"); i++; 
+            categories[i] = new Option("Yuba City, CA", "652"); i++; 
+            categories[i] = new Option("Yuma, AZ", "717"); i++; 
 
 		} // END if blogs
 			
@@ -222,29 +579,364 @@ function changemenu(index)
 </script>
 	
 		
-<input type="hidden" name="where" value="all">
-<input type="hidden" name="orderby" value="title">
-<input type="hidden" name="sort_order" value="asc">
+    <input type="hidden" name="where" value="all">
+    <input type="hidden" name="member_name" value=" ">
 
+    <input type="text" name="keywords" id="keywordsa" class="textfield" maxlength="100">
+    <select id="location" name="cat_id[]">
+    <option value="">Anywhere</option>
+    <option value="833">Abilene, TX</option>
+<option value="857">Aguadilla, PR</option>
+<option value="712">Akron, OH</option>
+<option value="790">Albany - Schenectady - Troy, NY</option>
+<option value="879">Albany, GA</option>
+<option value="641">Albuquerque, NM</option>
+<option value="853">Alexandria, LA</option>
+<option value="807">Allentown - Bethlehem - Easton, PA</option>
+<option value="889">Altoona, PA</option>
+<option value="834">Amarillo, TX</option>
+<option value="695">Anchorage, AK</option>
+<option value="708">Ann Arbor, MI</option>
+<option value="865">Anniston, AL</option>
+<option value="639">Appleton - Oshkosh - Neenah, WI</option>
+<option value="860">Arecibo, PR</option>
+<option value="831">Asheville, NC</option>
+<option value="880">Athens, GA</option>
+<option value="651">Atlanta, GA</option>
+<option value="677">Atlantic-Cape May, NJ</option>
+<option value="866">Auburn-Opelika, AL</option>
+<option value="737">Augusta-Aiken, GA-SC</option>
+<option value="671">Austin-San Marcos, TX</option>
+<option value="611">Bakersfield, CA</option>
+<option value="635">Baltimore, MD</option>
+<option value="917">Bangor, ME</option>
+<option value="859">Barnstable-Yarmouth, MA</option>
+<option value="836">Baton Rouge, LA</option>
+<option value="830">Beaumont-Port Arthur, TX</option>
+<option value="688">Bellingham, WA</option>
+<option value="694">Benton Harbor, MI</option>
+<option value="707">Bergen-Passaic, NJ</option>
+<option value="825">Billings, MT</option>
+<option value="736">Biloxi - Gulfport - Pascagoula, MS</option>
+<option value="674">Binghamton, NY</option>
+<option value="704">Birmingham, AL</option>
+<option value="741">Bismarck, ND</option>
+<option value="826">Bloomington, IN</option>
+<option value="847">Bloomington-Normal, IL</option>
+<option value="680">Boise City, ID</option>
+<option value="628">Boston, MA-NH</option>
+<option value="706">Boulder-Longmont, CO</option>
+<option value="667">Brazoria, TX</option>
+<option value="607">Bremerton, WA</option>
+<option value="890">Bridgeport, CT</option>
+<option value="848">Brockton, MA</option>
+<option value="839">Brownsville - Harlingen - San Benito, TX</option>
+<option value="789">Bryan-College Station, TX</option>
+<option value="716">Buffalo-Niagara Falls, NY</option>
+<option value="756">Burlington, VT</option>
+<option value="935">Caguas, PR</option>
+<option value="799">Canton-Massillon, OH</option>
+<option value="823">Casper, WY</option>
+<option value="750">Cedar Rapids, IA</option>
+<option value="909">Champaign-Urbana, IL</option>
+<option value="815">Charleston, WV</option>
+<option value="810">Charleston-North Charleston, SC</option>
+<option value="697">Charlotte-Gastonia-Rock Hill, NC-SC</option>
+<option value="829">Charlottesville, VA</option>
+<option value="702">Chattanooga, TN-GA</option>
+<option value="814">Cheyenne, WY</option>
+<option value="663">Chicago, IL</option>
+<option value="654">Chico-Paradise, CA</option>
+<option value="748">Cincinnati, OH-KY-IN</option>
+<option value="846">Clarksville-Hopkinsville, TN-KY</option>
+<option value="621">Cleveland-Lorain-Elyria, OH</option>
+<option value="634">Colorado Springs, CO</option>
+<option value="876">Columbia, MO</option>
+<option value="734">Columbia, SC</option>
+<option value="824">Columbus, GA-AL</option>
+<option value="672">Columbus, OH</option>
+<option value="794">Corpus Christi, TX</option>
+<option value="686">Corvallis, OR</option>
+<option value="767">Cumberland, MD-WV</option>
+<option value="602">Dallas, TX</option>
+<option value="891">Danbury, CT</option>
+<option value="888">Danville, VA</option>
+<option value="910">Davenport-Moline-Rock Island, IA-IL</option>
+<option value="776">Dayton-Springfield, OH</option>
+<option value="693">Daytona Beach, FL</option>
+<option value="868">Decatur, AL</option>
+<option value="887">Decatur, IL</option>
+<option value="661">Denver, CO</option>
+<option value="914">Des Moines, IA</option>
+<option value="665">Detroit, MI</option>
+<option value="804">Dothan, AL</option>
+<option value="811">Dover, DE</option>
+<option value="916">Dubuque, IA</option>
+<option value="669">Duluth-Superior, MN-WI</option>
+<option value="812">Dutchess County, NY</option>
+<option value="769">Eau Claire, WI</option>
+<option value="744">El Paso, TX</option>
+<option value="758">Elkhart-Goshen, IN</option>
+<option value="932">Elmira, NY</option>
+<option value="851">Enid, OK</option>
+<option value="668">Erie, PA</option>
+<option value="689">Eugene-Springfield, OR</option>
+<option value="722">Evansville-Henderson, IN-KY</option>
+<option value="813">Fargo-Moorhead, ND-MN</option>
+<option value="803">Fayetteville - Springdale - Rogers, AR</option>
+<option value="886">Fayetteville, NC</option>
+<option value="933">Fitchburg-Leominster, MA</option>
+<option value="727">Flagstaff, AZ-UT</option>
+<option value="743">Flint, MI</option>
+<option value="867">Florence, AL</option>
+<option value="791">Florence, SC</option>
+<option value="821">Fort Collins-Loveland, CO</option>
+<option value="637">Fort Lauderdale, FL</option>
+<option value="745">Fort Myers-Cape Coral, FL</option>
+<option value="785">Fort Pierce-Port St. Lucie, FL</option>
+<option value="852">Fort Smith, AR-OK</option>
+<option value="775">Fort Walton Beach, FL</option>
+<option value="718">Fort Wayne, IN</option>
+<option value="784">Fort Worth-Arlington, TX</option>
+<option value="622">Fresno, CA</option>
+<option value="816">Gadsden, AL</option>
+<option value="625">Gainesville, FL</option>
+<option value="762">Galveston-Texas City, TX</option>
+<option value="630">Gary, IN</option>
+<option value="870">Glens Falls, NY</option>
+<option value="796">Goldsboro, NC</option>
+<option value="925">Grand Forks, ND-MN</option>
+<option value="747">Grand Junction, CO</option>
+<option value="795">Grand Rapids - Muskegon - Holland, MI</option>
+<option value="822">Great Falls, MT</option>
+<option value="698">Greeley, CO</option>
+<option value="755">Green Bay, WI</option>
+<option value="603">Greensboro -- Winston-Salem -- High Point, NC</option>
+<option value="731">Greenville - Spartanburg - Anderson, SC</option>
+<option value="892">Greenville, NC</option>
+<option value="900">Hagerstown, MD</option>
+<option value="777">Hamilton-Middletown, OH</option>
+<option value="894">Harrisburg - Lebanon - Carlisle, PA</option>
+<option value="742">Hartford, CT</option>
+<option value="855">Hattiesburg, MS</option>
+<option value="885">Hickory - Morganton - Lenoir, NC</option>
+<option value="599">Honolulu, HI</option>
+<option value="751">Houma, LA</option>
+<option value="633">Houston, TX</option>
+<option value="874">Huntington-Ashland, WV-KY-OH</option>
+<option value="808">Huntsville, AL</option>
+<option value="692">Indianapolis, IN</option>
+<option value="806">Iowa City, IA</option>
+<option value="733">Jackson, MI</option>
+<option value="783">Jackson, MS</option>
+<option value="869">Jackson, TN</option>
+<option value="705">Jacksonville, FL</option>
+<option value="849">Jacksonville, NC</option>
+<option value="927">Jamestown, NY</option>
+<option value="768">Janesville-Beloit, WI</option>
+<option value="877">Jersey City, NJ</option>
+<option value="837">Johnson City-Kingsport-Bristol, TN-VA</option>
+<option value="931">Johnstown, PA</option>
+<option value="778">Jonesboro, AR</option>
+<option value="883">Joplin, MO</option>
+<option value="732">Kalamazoo-Battle Creek, MI</option>
+<option value="913">Kankakee, IL</option>
+<option value="604">Kansas City, MO-KS</option>
+<option value="875">Kenosha, WI</option>
+<option value="828">Killeen-Temple, TX</option>
+<option value="709">Knoxville, TN</option>
+<option value="928">Kokomo, IN</option>
+<option value="753">La Crosse, WI-MN</option>
+<option value="759">Lafayette, IN</option>
+<option value="713">Lafayette, LA</option>
+<option value="844">Lake Charles, LA</option>
+<option value="843">Lakeland-Winter Haven, FL</option>
+<option value="730">Lancaster, PA</option>
+<option value="735">Lansing-East Lansing, MI</option>
+<option value="842">Laredo, TX</option>
+<option value="626">Las Cruces, NM</option>
+<option value="632">Las Vegas, NV-AZ</option>
+<option value="660">Lawrence, KS</option>
+<option value="904">Lawrence, MA-NH</option>
+<option value="850">Lawton, OK</option>
+<option value="754">Lewiston-Auburn, ME</option>
+<option value="749">Lexington, KY</option>
+<option value="929">Lima, OH</option>
+<option value="738">Lincoln, NE</option>
+<option value="670">Little Rock-North Little Rock, AR</option>
+<option value="664">Longview-Marshall, TX</option>
+<option value="600">Los Angeles-Long Beach, CA</option>
+<option value="723">Louisville, KY-IN</option>
+<option value="918">Lowell, MA-NH</option>
+<option value="725">Lubbock, TX</option>
+<option value="763">Lynchburg, VA</option>
+<option value="720">Macon, GA</option>
+<option value="765">Madison, WI</option>
+<option value="923">Manchester, NH</option>
+<option value="780">Mansfield, OH</option>
+<option value="862">Mayaguez, PR</option>
+<option value="802">McAllen - Edinburg - Mission, TX</option>
+<option value="646">Medford-Ashland, OR</option>
+<option value="721">Melbourne-Titusville-Palm Bay, FL</option>
+<option value="787">Memphis, TN-AR-MS</option>
+<option value="658">Merced, CA</option>
+<option value="781">Miami, FL</option>
+<option value="798">Middlesex-Somerset-Hunterdon, NJ</option>
+<option value="653">Milwaukee-Waukesha, WI</option>
+<option value="631">Minneapolis-St. Paul, MN-WI</option>
+<option value="752">Missoula, MT</option>
+<option value="691">Mobile, AL</option>
+<option value="656">Modesto, CA</option>
+<option value="774">Monmouth-Ocean, NJ</option>
+<option value="701">Monroe, LA</option>
+<option value="854">Montgomery, AL</option>
+<option value="922">Muncie, IN</option>
+<option value="878">Myrtle Beach, SC</option>
+<option value="863">Naples, FL</option>
+<option value="899">Nashua, NH</option>
+<option value="782">Nashville, TN</option>
+<option value="724">Nassau-Suffolk, NY</option>
+<option value="934">New Bedford, MA</option>
+<option value="640">New Haven-Meriden, CT</option>
+<option value="921">New London-Norwich, CT-RI</option>
+<option value="624">New Orleans, LA</option>
+<option value="606">New York, NY</option>
+<option value="714">Newark, NJ</option>
+<option value="770">Newburgh, NY-PA</option>
+<option value="683">Norfolk-Virginia Beach-Newport News, VA-NC</option>
+<option value="623">Oakland, CA</option>
+<option value="771">Ocala, FL</option>
+<option value="820">Odessa-Midland, TX</option>
+<option value="719">Oklahoma City, OK</option>
+<option value="678">Olympia, WA</option>
+<option value="696">Omaha, NE-IA</option>
+<option value="612">Orange County, CA</option>
+<option value="648">Orlando, FL</option>
+<option value="786">Owensboro, KY</option>
+<option value="817">Panama City, FL</option>
+<option value="873">Parkersburg-Marietta, WV-OH</option>
+<option value="673">Pensacola, FL</option>
+<option value="884">Peoria-Pekin, IL</option>
+<option value="629">Philadelphia, PA-NJ</option>
+<option value="620">Phoenix-Mesa, AZ</option>
+<option value="801">Pine Bluff, AR</option>
+<option value="666">Pittsburgh, PA</option>
+<option value="896">Pittsfield, MA</option>
+<option value="827">Pocatello, ID</option>
+<option value="861">Ponce, PR</option>
+<option value="901">Portland, ME</option>
+<option value="601">Portland-Vancouver, OR-WA</option>
+<option value="779">Portsmouth-Rochester, NH-ME</option>
+<option value="764">Providence-Fall River-Warwick, RI-MA</option>
+<option value="649">Provo-Orem, UT</option>
+<option value="608">Pueblo, CO</option>
+<option value="864">Punta Gorda, FL</option>
+<option value="728">Racine, WI</option>
+<option value="703">Raleigh-Durham-Chapel Hill, NC</option>
+<option value="912">Rapid City, SD</option>
+<option value="882">Reading, PA</option>
+<option value="662">Redding, CA</option>
+<option value="679">Reno, NV</option>
+<option value="699">Richland - Kennewick - Pasco, WA</option>
+<option value="772">Richmond-Petersburg, VA</option>
+<option value="613">Riverside-San Bernardino, CA</option>
+<option value="897">Roanoke, VA</option>
+<option value="911">Rochester, MN</option>
+<option value="729">Rochester, NY</option>
+<option value="760">Rockford, IL</option>
+<option value="893">Rocky Mount, NC</option>
+<option value="636">Sacramento, CA</option>
+<option value="915">Saginaw-Bay City-Midland, MI</option>
+<option value="690">Salem, OR</option>
+<option value="657">Salinas, CA</option>
+<option value="644">Salt Lake City-Ogden, UT</option>
+<option value="681">San Angelo, TX</option>
+<option value="682">San Antonio, TX</option>
+<option value="610">San Diego, CA</option>
+<option value="642">San Francisco, CA</option>
+<option value="655">San Jose, CA</option>
+<option value="858">San Juan-Bayamon, PR</option>
+<option value="616">San Luis Obispo-Atascadero-Paso Robles, CA</option>
+<option value="614">Santa Barbara-Santa Maria-Lompoc, CA</option>
+<option value="659">Santa Cruz-Watsonville, CA</option>
+<option value="818">Santa Fe, NM</option>
+<option value="638">Santa Rosa, CA</option>
+<option value="687">Sarasota-Bradenton, FL</option>
+<option value="792">Savannah, GA</option>
+<option value="905">Scranton -- Wilkes-Barre -- Hazleton, PA</option>
+<option value="618">Seattle-Bellevue-Everett, WA</option>
+<option value="800">Sharon, PA</option>
+<option value="920">Sheboygan, WI</option>
+<option value="793">Sherman-Denison, TX</option>
+<option value="739">Shreveport-Bossier City, LA</option>
+<option value="740">Sioux City, IA-NE</option>
+<option value="805">Sioux Falls, SD</option>
+<option value="872">South Bend, IN</option>
+<option value="675">Spokane, WA</option>
+<option value="908">Springfield, IL</option>
+<option value="845">Springfield, MA</option>
+<option value="676">Springfield, MO</option>
+<option value="881">St. Cloud, MN</option>
+<option value="919">St. Joseph, MO</option>
+<option value="700">St. Louis, MO-IL</option>
+<option value="797">Stamford-Norwalk, CT</option>
+<option value="906">State College, PA</option>
+<option value="871">Steubenville-Weirton, OH-WV</option>
+<option value="627">Stockton-Lodi, CA</option>
+<option value="895">Sumter, SC</option>
+<option value="809">Syracuse, NY</option>
+<option value="685">Tacoma, WA</option>
+<option value="788">Tallahassee, FL</option>
+<option value="684">Tampa-St. Petersburg-Clearwater, FL</option>
+<option value="761">Terre Haute, IN</option>
+<option value="835">Texarkana, TX-Texarkana, AR</option>
+<option value="757">Toledo, OH</option>
+<option value="841">Topeka, KS</option>
+<option value="605">Trenton, NJ</option>
+<option value="647">Tucson, AZ</option>
+<option value="650">Tulsa, OK</option>
+<option value="856">Tuscaloosa, AL</option>
+<option value="643">Tyler, TX</option>
+<option value="773">Utica-Rome, NY</option>
+<option value="619">Vallejo-Fairfield-Napa, CA</option>
+<option value="615">Ventura, CA</option>
+<option value="840">Victoria, TX</option>
+<option value="930">Vineland - Millville - Bridgeton, NJ</option>
+<option value="645">Visalia - Tulare - Porterville, CA</option>
+<option value="838">Waco, TX</option>
+<option value="609">Washington, DC-MD-VA-WV</option>
+<option value="907">Waterbury, CT</option>
+<option value="926">Waterloo-Cedar Falls, IA</option>
+<option value="924">Wausau, WI</option>
+<option value="711">West Palm Beach-Boca Raton, FL</option>
+<option value="898">Wheeling, WV-OH</option>
+<option value="832">Wichita Falls, TX</option>
+<option value="766">Wichita, KS</option>
+<option value="715">Williamsport, PA</option>
+<option value="726">Wilmington, NC</option>
+<option value="819">Wilmington-Newark, DE-MD</option>
+<option value="746">Worcester, MA-CT</option>
+<option value="710">Yakima, WA</option>
+<option value="617">Yolo, CA</option>
+<option value="902">York, PA</option>
+<option value="903">Youngstown-Warren, OH</option>
+<option value="652">Yuba City, CA</option>
+<option value="717">Yuma, AZ</option>
+    </select>
+    <button type="submit" id="submit" name="submit" value="submit" class="button"></button>
+  </form>
 
-<input type="text" name="keywords" id="keywordsa" class="textfield" maxlength="100">
-<select id="location" name="cat_id[]">
-<option value="">Anywhere</option>
-<option value="8">Pittsburgh</option>n<option value="9">San Francisco</option>n<option value="12">Washington D.C.</option>n</select>
-<button type="submit" id="submit" name="submit" value="submit" class="button"></button>
-</form>
+  <ul id="search-options">
+  <li><a id="search-browsetag" href="/reviews/browse/advocacy">Browse by Keyword</a></li>
+  <li><a id="search-azdir" href="/reviews/a2z/a">A-Z Directory</a></li>
+  </ul>
 
-      <ul id="search-options">
-        <li><a id="search-browsetag" href="/reviews/browse/advocacy">Browse by Keyword</a></li>
-        <li><a id="search-azdir" href="/reviews/a2z/a">A-Z Directory</a></li>
-      </ul>
-
-    </div>
+    </div> <!-- finder -->
     <div class="clear"></div>
 
   </div> <!-- header -->
 <div id="error">
-<p>Oops!  You must enter a search term greater than 3 charcters.</p>
+<p>Oops!  You must enter a search term greater than 3 characters.</p>
 </div>
 
 <script type="text/javascript">
@@ -257,7 +949,13 @@ Event.observe(window, 'load',
     );
 function check_keyword(e){
   var the_keyword = document.getElementById('keywordsa').value;
-  if(the_keyword.length < 3){
+  if(the_keyword.length == '0'){
+    window.location = '/search/region/C' + document.getElementById('location')[document.getElementById('location').selectedIndex].value;
+    //for some reason ff will try to continue typical submit without this, but if e.preventDefault() is on w/o the check, ie tries typical submit.  go figure.
+    if(document.addEventListener){e.preventDefault();}
+    return false;
+  }
+  else if(the_keyword.length < 3){
     document.getElementById('error').style.display = 'block';
     document.getElementById('keywordsa').style.border = '1px solid #FF6347';
 
@@ -432,17 +1130,13 @@ If you indicate to us that you are interested in creating a personalized account
    <li><a href="http://www.greatnonprofits.org/cust/">Contact Us</a></li>
    <li><a href="http://www.greatnonprofits.org/privacy/">Privacy</a></li>
    <li><a href="http://www.greatnonprofits.org/terms/">Terms of Use</a></li>
-   <li class="last">© 2006-2008 Great Nonprofits</li>
+   <li class="last">© 2006-2009 Great Nonprofits</li>
   </ul>
  </div> <!-- footer -->
 </div> <!-- page -->
-<!-- google analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-354868-2";
-urchinTracker();
-</script>
+
+
+
 
 
 </body></html>
