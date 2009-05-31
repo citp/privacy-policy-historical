@@ -1,123 +1,88 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202125006id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531042151id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### **PPL Web Site Privacy Policy**
+**PPL ELECTRIC UTILITIES**
 
-PPL Corporation and its affiliates, PPL Electric Utilities Corporation; PPL EnergyPlus, LLC; PPL Global, LLC; PPL Generation, LLC; PPLSolutions, LLC; PPL Broadband, LLC; and PPL Spectrum, Inc. (collectively, "PPL"), have developed this Privacy Policy for the benefit of the Users of its family of Web sites (collectively, the "Site") to demonstrate our serious commitment to protecting privacy on this Site. The following material summarizes PPL's personal data gathering and distribution practices for _pplweb.com_  and any other Web sites owned and maintained by PPL Corporation or an affiliate. PPL reserves the right to change this policy at any time and to contact Users regarding their account status, the User Agreement, and this Privacy Policy. 
+**WEB SITE PRIVACY POLICY**
 
-Please read the following to understand PPL's views and practices regarding privacy and how they may pertain to users of this Site as they make full use of its many offerings.
+**(Revised March 2009)**
 
-**Collection of Personal Information from Site Users**
+PPL Electric Utilities Corporation and its affiliates (“us” or “we”) are concerned about protecting your privacy. This Privacy Policy describes our practices and policies with respect to the collection and use of personal information submitted by you through our web sites (“Web Site” or “Web Sites”), the sharing of that information with third parties and the measures we take to secure such personal information. By using www.pplelectric.com or any of our affiliated websites, you are agreeing to be bound by the terms of this Privacy Policy. Please review the contents of this Privacy Policy frequently as we reserve the right to modify or amend this Privacy Policy at any time.
 
-In order to provide our Users with a more personalized, relevant, and intelligent service, PPL regularly makes improvements to this Site. The collection of personal data assists PPL in this improvement process by identifying the interests and needs of the numerous Users to this Site. Data collection also assists PPL by allowing it to advertise its products and/or services in a more efficient manner.
+**Personal Information We May Collect**
 
-**Personal Information that PPL Might Collect**
+You can view most of our Web Sites without providing any personal information at all. If, however, you register to access your account online, open or close an account, sign up for specialty billing services, report an electric outage, enable online payment, access our Energy Analyzer, or to access any other services or applications available through our Web Site, you may be asked to provide personally identifiable information about yourself, including your name, address, telephone number, email address, social security number, residential and/or business account number, bank account information or payment and account history. We will only collect personally identifiable information to the extent necessary to serve our business purposes or as required or permitted by law.
 
-Through the use of online data entry, survey, and registration forms, PPL may choose to collect and/or monitor, in aggregate and individual form, personal identifying facts or data on, among other things, the following information:
+By providing personally identifiable information, you expressly consent to the privacy practices described in this policy. We do not collect any of this information unless you provide it to us voluntarily. If you do not wish to provide your personal information you do not need to do so.
 
-**"Energy" Information**
+**Our Use of Personal Information**
 
-• account number
+We use the personally identifiable information you provide to identify and assess the interests and needs of our customers, to provide information to customers about specific products, services, news and events, to allow customer access to online services such as surveys and account management programs, and to gather broad demographic information about customer trends. We may also use your personal information to send you information about products and services that we think might interest you. 
 
-• rate class
+**Sharing of Personal Information**
 
-• electricity kwh usage
+In general, we do not disclose our customers’ personally identifiable information to third parties without their consent. We may, however, share personally identifiable information that you provide to us as permitted or required by applicable law and for our business purposes, including without limitation the following:
 
-• electricity supplier "Technical" Information
+· Sharing such information with our affiliates and subsidiaries, unless such sharing is prohibited by law; 
 
-• home server
+· Disclosing such information that is required by regulatory bodies or compelled by law;
 
-• domain name
+· Transferring such information in connection with a merger, consolidation, acquisition, divestiture or other corporate restructuring (including bankruptcy); 
 
-• e-mail address "Reference" Information
+· Making such information available to third parties who are providing a product, service or information that you have requested from us; 
 
-• name
+· Making such information available to third parties who are providing services to us or our affiliates; 
 
-• mailing address
+· Disclosing such information if necessary to investigate, prevent, or take action regarding any illegal activities or regarding interference with the operation of our site or violation of its terms of use; and
 
-• telephone number
+· Disclosing such information is allowed by law.
 
-• password 
+**Collection and Use of Non-Personal Information**
 
-**"Cookies"**
+We may collect certain non-personally identifiable information about you which is made available by your browser, computer hardware and/or software, including but not limited to your IP address, browser type, operating system, domain name, access times and referring and exit web sites. For example, we may use “cookies” and “Clear GIFs” to track your activity on our Web Sites and to improve the efficiency of our Web Sites. Cookies are small pieces of information that a web server may place on your computer when you visit a Web Site. Clear GIFs are small pieces of data that may be embedded in images on our Web Sites. Clear GIFs enable us to track your usage of our site.
 
-"Cookies" are small pieces of information that are stored by your Web browser software on your computer's hard drive. The use of cookies is now an industry standard, and Users will find them on most major Web sites including PPL. 
+We use cookies and clear GIFs for a number of purposes, such as to maintain continuity during a user session, to gather data about the usage of our Web Site for research and other purposes, to store your preferences for certain kinds of information and marketing offers, or to store a user name or encrypted identification number so that you do not have to provide this information every time you return to our Web Site. 
 
-**Use of Personal Information Collected**
+Our cookies will track only your online activity relating to our Web Site, and will not track your other Internet activity. Our cookies do not gather personally identifiable information about you. You can decide if and how your computer will accept cookies and clear GIFs by configuring your preferences or options in your browser. If you choose to reject cookies, you may not be able to use certain of our online products and services or Web Site features.
 
-By knowing a little about its Users, PPL can deliver more relevant content and advertisements, and hence better service, to Users of this Site. PPL may use the energy, technical, and reference information it collects, in aggregate or individual form, for, among other things, the following purposes:
+Additionally, we may use “click stream” data to determine the type of computer and browsing software you use, and other site usage information. Any collection or use of click stream data will be anonymous and aggregate, and will not contain any personally identifiable information.
 
-• promotion
+We reserve the right to use and share aggregate and anonymous data (including data aggregated from your and other users of our online products and services such as our Energy Analyzer) for any purpose and with any third parties, unless prohibited by law.
 
-• advertising
+**Information Protection and Security**
 
-• customer support
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as a credit card number and/or social security number) on our registration or order forms on our sites, we encrypt that information during transmission using secure socket layer technology (SSL). We also maintain administrative, technical and physical safeguards designed to protect the security, integrity and privacy of your information. However, please be advised the electronic communications, including the Internet, are not completely secure, and we cannot guarantee the security of your information. 
 
-• site customization
+**Children**
 
-• statistical analysis
+We do not knowingly collect or solicit personally identifiable information from children under the age of 13. If you are under 13 years of age, please talk to your parents about what sites are appropriate.
 
-• product development
+**Links to Other Web Sites**
 
-• order processing
+Our Web Sites may contain links to third party web sites not owned or operated by us. We are not responsible for the privacy practices or the content of any web sites operated by third parties. Once you have left our Web Site, we suggest you check the applicable privacy policy of the third party web site to determine how they will handle any information they collect from you.
 
-• marketing 
+**Changes to Privacy Policy**
 
-• announcements
-
-• content improvement
-
-• technical support
-
-**Disclosure of Personal Information to Third-Parties**
-
-PPL only discloses to third-parties publicly available or volunteered technical or reference information in aggregate form. PPL does not disclose individual personal data records to third-parties except as described below. Moreover, PPL does not currently rent, license, or sell personal data to third parties.
-
-To the extent required or permitted by law, we may also collect, use and disclose personal information in connection with security-related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements. We may also use personal information as permitted by law to perform credit checks, report or collect debts owed, or protect the rights or property of PPL, our Web site, or its Users.
-
-**External Web Sites**
-
-To the extent hyperlinks are utilized to access third-party sites, Users should be aware that these third-party Web sites are not controlled by PPL and therefore, are not subject to this Privacy Policy. Users should check the privacy policies of these individual sites to see how their personal information will be utilized by the proprietors of those third-party Web sites.
-
-**Security Features**
-
-PPL has implemented a number of security features to prevent the unauthorized release of, or access to, personal information. For example, only authorized personnel have access to any stored personal information PPL may collect on its Users. Moreover, when a User registers online or accesses his or her account information through this Site, PPL offers the User the ability to use a secure server. The secure server encrypts all information a User inputs before it is sent to PPL. 
-
-Please be advised, however, that although PPL has endeavored to create a secure and reliable Site for Users, the confidentiality of any communication or material transmitted to/from PPL via this Site or E-mail cannot be guaranteed. Accordingly, PPL is not responsible for the security of information transmitted via the Internet. For more private communication, Users can contact us by telephone at the numbers listed in the "Contact Us" portion of this Site.
-
-**Opt-Out Right**
-
-To the extent possible, PPL offers Users of this Site the ability to avoid the collection of their personal data by "opting-out." For instance, a User can opt out of having their personal information used by PPL for marketing purposes. Users can opt out by checking the appropriate box when the data is collected, or may opt out at any time by writing to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
+We reserve the right to amend or modify this Privacy Policy at any time without notice to you. Any amendments or modifications to this Privacy Policy will be posted on our Web Sites with a new revision date and will become effective immediately upon posting. Your continued use of any of our Web Sites following the posting of a revised version of this Privacy Policy will constitute your acceptance of the revised Privacy Policy. If you do not agree with the revised privacy policy do not use any of our Web Sites.
 
 **Access and Ability to Correct Personal Information**
 
-At any time, a User may contact PPL via postal mail, E-mail, or phone to request: 
+If you believe that the personal information we have about you as submitted to us via one of our Web sites is incorrect, please send an e-mail request to the contact information below. We will make reasonable efforts to correct or update it. In order to stop receiving electronic marketing communications from us, you may unsubscribe from our newsletters and other services by following the unsubscribe directions included at the end of each e-mail we send. In the event we receive a request to change or delete your information, we may need to contact you to confirm or verify the request.
 
-• a summary of any personal information retained by PPL on such User,
+**Contacting PPL**
 
-• a change to the User's personal data record maintained by PPL, or 
+To contact us about our Privacy Policy, please contact using any one of the following methods:
 
-• removal of the User's personal data record from PPL's database. 
+By Email: privacypolicy@pplweb.com
 
-Users may send their requests by mail to PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-6494, or may send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User's personal record.
+By Telephone: 610-774-6494
 
-**Collection of Personal Information from Children**
+My Mail: PPL
 
-This Site is not primarily intended for individuals under the age of 18 ("children").
+Attention: Corporate Internet/Privacy Policy  
+GENTW4, 2 N. Ninth St.
 
-Accordingly, PPL will not knowingly collect or post information from children without parental or guardian consent. Moreover, PPL will not knowingly use any personal data collected from children for any purpose whatsoever, including disclosure to any third-party. 
-
-If a child provides us with personally identifiable information, a parent or guardian of that child may have that information deleted from our records by contacting us at PPL, attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or e-mailing us at [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
-
-**Future Changes**
-
-Any modifications to this Privacy Policy will be posted in this space, and are effective when posted. Continued use of the site after the policy is modified constitutes acceptance of the changes.
-
-Last modified: Jan. 4, 2005.
-
-**Questions**
-
-PPL welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to PPL at attention: Corporate Internet/Privacy Policy, GENTW4, 2 N. Ninth St., Allentown, Pa., 18101, or call 610-774-6494, or send an e-mail to [privacypolicy@pplweb.com](mailto:privacypolicy@pplweb.com). 
+Allentown, PA 18101
 
 | 
