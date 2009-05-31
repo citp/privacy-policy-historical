@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919075133id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531105349id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
 
 # BitRock :: About Us :: Privacy
 
@@ -21,6 +21,10 @@ In order to buy the software, a user must first complete a registration form. Du
 ### Log Files
 
 We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, administer the site, etc. IP addresses, etc. are not linked to personally identifiable information.
+
+Part of this information is gathered using a tracking cookie set by the [Google Analytics](http://www.google.com/analytics/) service and handled by Google as described in their [privacy policy](http://www.google.com/privacy.html). See your browser documentation for instructions on how to disable the cookie if you prefer not to share this data with Google.
+
+The use of Google Adwords technology allow us to track at an aggregate level which ads are most effective in bringing people to our site.
 
 ### Correction/Updating
 
