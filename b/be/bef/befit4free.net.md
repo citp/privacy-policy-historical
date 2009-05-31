@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the befit4free.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023511id_/http%3A//www.befit4free.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befit4free.net privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531144755id_/http%3A//www.befit4free.com/privacypolicy) for the most accurate reproduction.*
 
-# privacypolicy
+# 
 
 Privacy Policy All information received by our company when you place your order is kept strictly confidential and will not be distributed to any other company or individual party. The information will be used only to ensure that your order gets delivered in a timely matter. 
 
