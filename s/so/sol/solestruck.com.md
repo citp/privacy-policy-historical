@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912153318id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531023242id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
 
 # Solestruck Customer Assistance - Free Shipping on Qualified Orders and Free Returns.
 
@@ -19,7 +19,7 @@ There may be links to other websites from Solestruck.com. Solestruck does not co
 In order to protect the privacy of children on the Internet, we will not knowingly collect personally identifiable information from children under the age of 13 without the prior written consent of a parent or guardian. If we learn that a customer or registered user is actually under the age of 13, we will make every effort to delete all personal information for this person from our database, as our site is intended for adults over the age of 18.  
 **Ordering Over the Phone**
 
-If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 1-800-494-1260. Our representatives are ready to take your order over the phone 24 hours a day, seven days a week.  
+If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 1-800-494-1260. Our representatives are ready to take your order over the phone Monday through Friday 7am - 5pm PST.  
   
 **Solestruck Mailings**
 
@@ -39,6 +39,6 @@ Attention: Website Privacy
 P.O. Box 80069  
 Portland, Oregon 97280  
   
-Or call us at any time toll-free at 1-800-494-1260.  
+Or call us toll-free at 1-800-494-1260 from M-F 7am to 5pm PST.  
 The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.  
 [ ](http://www.solestruck.com/)
