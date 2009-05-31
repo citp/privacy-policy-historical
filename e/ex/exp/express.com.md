@@ -1,135 +1,158 @@
-> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217125020id_/http%3A//www.express.com/custservice/cs_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601011744id_/http%3A//www.express.com/custserv/custserv_popup.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# DVDExpress.com
+# EXPRESS: Help-Privacy and Security
+
+**EXPRESS.COM PRIVACY POLICY**
+
+When you visit express.com, we collect certain information to enhance your online experience. To help ensure an enjoyable online experience for all of our visitors, we provide this summary of what information express.com collects online, and how express.com uses that information. 
+
+As you may have noted, as of July 7, 2008 our site is a full e-commerce site, so many of the revisions that you see in this privacy policy are the result of this change to our site.  We would also note that we have changed the format of our privacy policy in order to make it easier to read.
+
+This Privacy Policy applies only to the information collected online by express.com.
+
+  * **WHAT INFORMATION DO WE COLLECT ONLINE?**
+  * **HOW DO WE USE INFORMATION THAT WE COLLECT?**
+  * **WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?**
+  * **WHAT SHOULD VISITORS FROM OUTSIDE THE U.S KNOW?**
+  * **HOW DO WE USE COOKIES?**
+  * **HOW CAN YOU UPDATE YOUR PERSONAL INFORMATION?**
+  * **PRIVACY OF CHILDREN ON OUR WEB SITE**
+  * **LINKS TO OTHER WEB SITES AND SERVICES**
+  * **HOW WILL YOU KNOW WHEN WE UPDATE OUR PRIVACY POLICY?**
+  * **WHERE SHOULD YOU DIRECT YOUR QUESTIONS?**
+  * **SECURITY STATEMENT**
+
+
+
+**WHAT INFORMATION DO WE COLLECT?**
+
+**General Browsing:**  
+General Browsing: Express.com gathers navigational information about where visitors go on our Web site and information about the technical efficiencies of our Web site and services (i.e. time to connect to our Web site, time to download pages, etc.). This information allows us to see which areas of express.com are most visited and helps us better understand our customers’ experiences at our site. This helps us improve the quality of your online experiences by recognizing and delivering more of the preferred features, areas and services. In the process of gathering navigational information non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor’s use of our Web site (such as the time of a visitor’s last visit to a page on our site).
+
+**Collection of Personal Information:** **E** xpress.com may ask you to provide personal information when you establish or update an express.com account, enter a contest, participate in a survey, quiz or poll, shop online, check the status of an order or review order history, purchase and send a gift card. You may also provide information online at express.com to set up a profile and job agent if you are interested in a career with Express, LLC.
+
+Categories of information collected include name, address (shipping and billing), email address, recipient’s name and e-mail address, order information, order number, telephone number, credit card information, gender, wish lists and demographic information if you participate in surveys.  If you are interested in a career with Express, LLC. the information you submit at express.com will include name, e-mail address, postal address, phone and, if you have one, your resume, plus the type of position you are seeking.
+
+**HOW DO WE USE THE INFORMATION THAT WE COLLECT?**
+
+Express.com uses the personal information we collect from you for the following purposes:   
+
+
+  * to deliver products that you have ordered, fulfill requests that you have created, and process your return or exchange; 
+  *  
+  * to understand your needs and preferences, possibly through surveys, product evaluations or cookies; 
+  *  
+  * to develop, market and sell products and services to you and to tailor your experience on the our website to your interests and to send you information about special offers, media events, new products and much more; 
+  *  
+  * to contact you or the product recipient(s) in the event of order or delivery difficulties; 
+  *  
+  * to manage and develop our business and operations, administer accounts, collect and process payments; 
+  *  
+  * to respond to your inquiries;   
+
+  *   
+
+  * to deliver information through the various communication channels you have provided to us about our products or website, including adding you to our email list or to our customer phone and mail marketing list when you register for an account or make a purchase; 
+  *  
+  * if you e-mail a wish list to a friend, we will not collect, retain or review the names or e-mail addresses of the recipient of your wish list; and 
+  *   
+
+  * if you indicate when taking a quiz, poll or survey that you would like to be considered for participation in future Express marketing research, we will associate your answers with your e-mail registration information and use this combined information to contact you for future Express marketing research; 
+  *   
+
+  * we will use the information you provide in a career profile, including in your resume, to assist in your goal of becoming an associate with Express LLC. and, if hired, we will use the information submitted for employment and business-related purposes. 
+
+
+
+**WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?**
+
+****We may use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, processing gift card orders, maintaining our database and administering e-mails, drawings or sweepstakes or contests that we sponsor. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third party service providers, we will require that such information be maintained by them in confidence, unless otherwise specified in this privacy policy or otherwise required by Official Rules for sweepstakes.  
+
+
+Express.com has and will continue to share your e-mail address with Bath & Body Works, The Limited, Victoria’s Secret, and other companies affiliated with Bath and Body Works and Victoria’s Secret.  If you provide your email address to us after July 7, 2008 (including updating your e-mail information), provided you have not opted out of receiving marketing emails from us, your email address may also be shared with other companies, so that those businesses may send you information about their products.  If you no longer want to receive email from express.com, you can follow the removal instructions located at the bottom of the next e-mail you receive from express.com. Please be aware, even if you elect not to receive e-mail, or subsequently ask to be removed from receiving email from express.com, you may still receive e-mail confirmations for online purchases and you may receive e-mails sent by a friend using E-mail a Friend.
+
+Express makes names and addresses in its direct mailing list available to other companies. If you no longer wish to receive our direct mailings or have your name and address shared with other companies (other than third parties who provide services to express.com) please call us at 1-800-749-0564.
 
   
-|  **[DVD EXPRESS](https://web.archive.org/default.asp) >** **[CUSTOMER SERVICE](https://web.archive.org/custservice/default.asp) >** **PRIVACY POLICY**
-
- **PRIVACY POLICY**
-
-DVD Express is firmly committed to protecting your privacy. Without your consent we will not use your personal information to send you promotional materials you have not requested nor will we release it to other companies.  We may share your information with subsidiaries of DVD Express so long as such subsidiaries have privacy policies at least as protective as those of DVD Express. At DVD Express, privacy _is_ our policy.
-
-Because the information we gather from you is personal, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy discloses what information we gather, how we use it, and how to correct or change it. 
-
- By using the Site (as defined in the Terms and Conditions), you consent to the collection and use of this information by DVD Express.  
 
 
-**TRUSTe Licensee**
+The information you provide when you make a purchase at express.com (for example, name, address, credit card) will be added to a database and is shared with Bath and Body Works and Victoria’s Secret.  The information in the database may also be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to express.com) please call us at 1-800-749-0564.
 
-* * *
-
- This confirms that DVD Express is a licensee of the TRUSTe Privacy Program.  This statement discloses the privacy practices for [www.DVDExpress.com](http://www.dvdexpress.com/).  When you visit a web site displaying the TRUSTe trusmark, you can expect to be notified of:
-
-  1. What personally identifiable information of yours or third party personal identification is collected from you. 
-  2. The organization collecting the information. 
-  3. How the information is used. 
-  4. With whom the information may be shared. 
-  5. What choices are available to you regarding collection, use and distribution of the information. 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under DVD Express control. 
-  7. How you can correct any inaccuracies in the information. 
+  
 
 
+When you send an E-mail a Friend from express.com, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from express.com.
 
-If you have questions regarding or concerns this statement you should fist contact DVD Express by sending an email to [techsupport@dvdexpress.com](mailto:techsupport@dvdexpress.com).  If you do not receive acknowledgment of you inquiry or you inquiry has not been satisfactorily addressed, you should then contact TRUSTE [http://www.truste.org](http://www.truste.org/).  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+World Financial Network National Bank (WFNNB) issues and owns the Express credit card accounts. If you apply online for an Express credit card with WFNNB and, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB’s privacy policies.
 
-be directed to the DVD Express Customer Service Department at techsupport@dvdexpress.com.  If your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/users/watchdog.html>.  
+We may occasionally participate in sweepstakes with other companies with a link to a Web site hosted by the other company. If you elect to participate in the sweepstakes by going to the linked Web site, you may be providing personal information, such as name, postal address, e-mail address, telephone number and gender directly to the company that is hosting the sweepstakes Web site. However, some, if not all, of the personal information that you provide on the sweepstakes Web site may be provided to us by the company hosting the sweepstakes.
 
-
-**Collection and** **Use of Information**
-
-* * *
-
-When you visit the Site, we will occasionally ask you to provide us with some personal information. We need this information to fill your orders, send you important messages, and personalize your shopping experience.
-
-Here is the information we collect at DVD Express and how we use it: 
-
-  * When you create an account with DVD Express, we will ask for your name, mailing address, phone number, email address and password. With your consent, we will occasionally use this information to contact you about new releases, bargains and special giveaways. You have the option of removing yourself from our mailing list at any time. 
-  * When you purchase an item, we will ask for your shipping address, billing address and your credit card number/expiration date. This information allows us to process and fulfill your order, and to notify you of your order's status. 
-  * If you wish to send a product link to a friend, we will ask for your friend's email address in order to fulfill your request. DVD Express will not disclose this email address to other parties or send promotional emails to this address. 
-  * When you enter an DVD Express contest or play a promotional game, we will ask for your name, mailing address, email address or other relevant personal information so that we can administer the contest and notify winners. 
-  * We collect generalized, non-individual aggregate information about our users and share it with advertisers and business development partners. 
-  * If you post a customer review, we collect the information you post. 
-  * If you email DVD Express with questions, suggestions or comments, we will collect your email address so that we may respond. 
-  * While you are shopping at DVD Express, you may store products you would like to purchase later in a personalized Wish List. If you would like to send this Wish List to a friend or family member, we will ask for that person's email address. 
-  * If your order is to be shipped to another address as a gift, you will need to submit the recipient's name, mailing address and phone number (optional) as the shipping address. 
-  * We also offer Gift Certificates that can be sent electronically or through the mail. If you purchase one, you must submit the recipient's email or mailing address. Again, DVD Express will not disclose this information or use it to send promotional messages. 
-  * In order to make our emails to you more interesting, we often receive a confirmation when you open an email from us. 
-  * Sometimes we receive and use information about you from other sources to improve our service to you.  As an example, we may receive an updated address for you from a shipping company. 
-  * If you choose to become a member of our Affiliate Program, we will ask you for  information about you and your Web site in order to administer your participation in the Program. 
-  * We use some of the foregoing types of information internally to improve how the Site benefits you. 
-  * If required by law or to enforce, protect or apply our rights, we may release such information as is required.  
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or to enforce or apply our Site Use Terms and Conditions or it is necessary to protect the users of our Web site, the site or the public.  
 
 
+In the event Express sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of Express are acquired, consumer information may be transferred as part of the acquisition.
+
+In addition, we may participate with certain unrelated companies who will link you to our website from their website that you have visited, which may include recognition of purchases from our website.express.com may share personally identifiable information we collect from you with the company linking to our website. Express.com is not responsible for the privacy practices of the companies providing these links and we encourage you to review the privacy policy of each of these companies should you visit their websites. 
+
+**WHAT SHOULD VISITORS FROM OUTSIDE THE U.S. KNOW?   
+**
+
+If you are visiting express.com from a location outside of the U.S., your connection will be through and to servers located in the U.S., and your orders placed through express.com will be accepted and fully processed in and shipped only within the U.S. All information you receive from express.com will be created on servers located in the U.S. and all information you provide will be maintained in our Web server and internal systems located within the U.S and used as indicated in this privacy policy.  
+****
+
+**HOW DO WE USE COOKIES?**
+
+1\. _What are cookies_?
+
+Express.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer’s hard drive and are used by express.com to help track clicks and pass information as you go through the pages within the express.com Web site.  Cookies also help us keep track of how many items you put into your shopping bag and to remember you when you return to our web site. We may also use a cookie and/or a technology known as clear gifs or web bugs which are typically stored in e-mails to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Cookies can allow us to associate navigational information from browsing visits with personal information you provide at our site.
+
+2\. 
+
+_Do we share information from cookies with third parties_
+
+?
+
+We may share non-transactional behavioral data collected through the use of cookies after July 7, 2008 with other businesses. 
+
+3\. 
+
+_How do third parties use cookies on our site_
+
+?
+
+We select third-party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit them and when you visit express.com. These selected companies may use information (not including your name, address, credit card information, email address, or telephone number) about your choice to visit and your visits to our site and other websites to provide advertisements about our products and services on this and other websites. These selected companies also provide this information to us which we use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes. If you would like more information about this practice and to know your choices about no longer having information from these third-party cookies used by these companies or provided to us, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We have also selected companies that will assist us in better understanding your use of our site.  These companies will place cookies on your computer upon a visit to our site to collect information on our behalf and may also make use of web bugs. These companies may use both third-party and first-party cookies. Blocking cookies served from third-party domains will not block the first-party cookies. The information these companies collect educates us on such things as search engine referral, how you navigate around our site, traffic driven by banner ads, responses to email, unique visitor identification, and product browsing and purchasing information, and allows us to better serve your interests and provide you with more personalized product offerings.express.com does not allow these companies to collect credit card, username or password information.  The information collected on our behalf is analyzed and returned to express.com. Other than possibly allowing use of collected data on an aggregate basis, the companies providing these services are required to maintain all information collected and the analysis of this information in confidence. As a visitor to express.com, you have the option to deactivate the ability of these companies to analyze your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience which this analysis allows us to provide to you. Since this opt-out relies on cookies, if you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to these companies and to exercise your choice, 
+
+[Click Here](http://www.omniture.com/en/privacy/2o7#optout) To Opt-Out of 2o7.net Cookie Tracking Now.
+
+**HOW CAN YOU UPDATE YOUR PERSONAL INFORMATION?**
+
+****If you need to update your name, mailing address or e-mail address, just go to your account that you have created by using your password and revise the information in the account.  
+  
+**PRIVACY OF CHILDREN ON OUR WEBSITE**
+
+****To ensure compliance with the Children’s Online Privacy Protection Act of 1998, express.com does not knowingly maintain information provided by children under the age of 13.
+
+**LINKS TO OTHER WEB SITES AND SERVICES**
+
+****For your convenience, our Web site may contain links to other Web sites. Some of these Web sites may request or require you to provide personal information. Express.com is not responsible for the privacy practices of such Web sites and you should review their privacy policies prior to providing any personal information. Links that appear on express.com should not be deemed in all cases to imply that express.com endorses or has any affiliation with the linked Web sites.
+
+**HOW WILL YOU KNOW WHEN WE UPDATE OUR PRIVACY POLICY?**
+
+As we continue to offer our visitors new and different types of content and services, express.com may modify our information collection and use practices. Should there be a material change to our information collection and use practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy statement.
+
+**WHERE SHOULD YOU DIRECT YOUR QUESTIONS?**
+
+If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at [talk@expressfashion.com](mailto:talk@expressfashion.com).
+
+**SECURITY STATEMENT**
+
+Express.com takes the following types of security measures: use of technologies and policies such as limited access data-centers, firewall technology, and secure socket layer certificate authentication.  
 
 
-**Protecting Your Information**
+We designed express.com to accept orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology. SSL is encryption technology that provides security while information is being transmitted over the Internet.
 
-* * *
+While we implement the above security measures on this Web site, you should be aware that 100% security is not always possible on the Internet.
 
- ****
-
-****  The Site uses a variety of security measures to maintain the safety and security of your personal information. All user contact information is contained behind secured networks and is accessible only by a limited number of employees who have agreed to comply with all of our privacy and security policies. Passwords and credit card numbers are encrypted in our secure database, which is also located behind secured networks and certified by Verisign, Inc. ** ** All credit card information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in DVD Express's databases as stated above. 
-
-Please be sure that your web browser is SSL-enabled.  We recommend Netscape Navigator version 3.0 or higher, or Microsoft Internet Explorer version 3.0 or higher. You should always upgrade your web browser software to the latest versions for optimum security.
-
- **Automatic Collection of Information;** **Cookies and IP Addresses**
-
-* * *
-
- We use a feature of your web browser called a "cookie" to assign a unique identity to your computer. Cookies are files that your web browser places on your computer's hard drive. Our cookies enable us to provide features such as welcoming you by name, saving your Wish List, storing items in your Shopping Cart between visits, and setting up other preferences you establish during each visit to the Site.
-
-We also use cookies to help determine whether you came to the Site from a particular Internet link or banner advertisement. Cookies can be used to help save and retrieve usernames used on the Site and provide information on past purchases. This is done for convenience and saves you the trouble of reentering information on every visit to the Site. Cookies cannot be used by us to retrieve any personal information about you unless you have previously purchased from or registered with the Site. DVD Express does not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you.
-
-Most web browsers automatically accept cookies, but you can usually change your browser's settings to block them. 
-
-Every computer on the Internet is identified by a unique number called an IP address. If you have a static IP address, you get the same number each time you connect. If you have a dynamic IP address, a number is assigned from a pool of addresses maintained by your ISP (Internet Service Provider) on a first-come basis. DVD Express only uses your IP address to help diagnose problems with our server, to administer our Site, and to gather basic demographic information. 
-
- Examples of other types of automated information we may collect include, connection information such as browser type and version; operating system; and URL clickstream to, through and from the Site.  
-
-
-**Links to Other Sites **
-
-* * *
-
-The Site contains links to partners, advertisers and third-party websites and services that may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of DVD Express. DVD Express has no responsibility or liability for these independent policies or actions, and is not responsible for the privacy practices or the content of such sites.  
-
-
-**Agents**
-
-* * *
-
- ****
-
-****We may employ other companies to perform certain functions on our behalf such as using a shipping company to deliver your order or using a processing company to authorize and verify your credit card.   These companies have access to such of your information as is necessary to perform their task.  
-
-
-**Change and Modify Your Account **
-
-* * *
-
-DVD Express gives users the following options for altering their information in our database or having it removed and stopping our service: 
-
-  * [Click here](https://web.archive.org/myaccount/change_nep.asp) to change your name, email address or password. 
-  * Send an email message to techsupport@dvdexpress.com. 
-  * Send a letter to the following postal address:
-
-
-
-Express Media Group, Inc.  
-Attn: Customer Service  
-5890 West Jefferson Boulevard  
-Los Angeles, CA 90016-3194  
-
-
-**Business Transfer**
-
-* * *
-
-If DVD Express were to be sold, it is possible that some of your information might be included in the transfer.  In such event, you will receive notice of such transfer and DVD Express will require the transferee to have a privacy policy which is at least as protective as this Privacy Policy.  
-
-
-**Changes to Privacy Policy **
-
-* * *
-
-If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of our policies. DVD Express reserves the right to modify, alter or update these policies at any time, and you agree to be bound by such modifications, alterations or updates.  If at some point in the future we change information usage practices that directly and materially affect your personal information, we will notify you by email of the relevant changes. At that time, you will be able to opt-out of this information usage by sending a message to the following email address: [marketing@dvdexpress.com](mailto:marketing@dvdexpress.com).  |   | 
+This privacy policy effective July 7, 2008.
