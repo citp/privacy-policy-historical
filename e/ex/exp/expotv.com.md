@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025102id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531135157id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Expo TV Privacy Policy | Expo | Consumer Product Reviews in Video
 
 ### Expo Privacy Policy
 
-This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("Expo") and affiliated companies (collectively "we," "us," or "our"), including www.ExpoTV.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between Expo and consumers. This privacy policy was updated on October 7, 2008.
+This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("Expo") and affiliated companies (collectively "we," "us," or "our"), including www.ExpoTV.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between Expo and consumers. This privacy policy was updated on March 23, 2009.
 
 ### Changes to the Privacy Policy
 
@@ -16,7 +16,7 @@ Each time you visit the Sites, our Web server automatically collects your IP add
 
 ### Cookies and Software
 
-The Sites use cookies to keep track of your activity on the Sites and enhance your experience on the Sites. Third parties present on the Sites, such as advertisers, may also place cookies on your browser.
+The Sites use cookies to keep track of your activity on the Sites and enhance your experience on the Sites. Third parties present on the Sites, such as advertisers, may also place cookies on your browser. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We restrict third parties who may place cookies on your browser from having access to any personally identifiable information you have given to us.
 
 Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Sites may not function properly.
 
