@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231063816id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531192145id_/http%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Symantec Corp.
 
@@ -110,7 +110,7 @@ Symantec may also use web beacons in promotional email messages to determine whe
 
 Symantec also uses third party scripts on our site to optimize the effectiveness of Symantec's ads appearing on other parties' sites. The information collected is not personally identifiable and is limited to the minimum information necessary to optimize effectiveness. 
 
-### 1.5 Web Site Traffic 
+### 1.5 Web Site Traffic
 
 Through our various tracking methods discussed above, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Symantec’s Web site. Such information is not correlated with any personal information. 
 
@@ -140,7 +140,3 @@ Symantec Corporation - Privacy Officer
 Springfield, OR. 97477  
 Telephone 541-335-5000  
 Email: [privacy@symantec.com](mailto:privacy@symantec.com)
-
-### 1.10 Your California Privacy Rights
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Symantec who are California residents to request certain information regarding Symantec’s disclosure of personal information to third parties for their direct marketing purposes. To request such information, please contact us using one of the options listed above in section 1.9. 
