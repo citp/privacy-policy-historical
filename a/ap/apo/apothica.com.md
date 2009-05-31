@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AnneMichele.com Privacy Policy
+# Apothica.com Privacy Policy
 
 Privacy | Information and Policies
 
 Last Update: 11/15/07
 
-While visiting our site, "http://annemichele.com", certain pieces of data will be collected about you.  It is important to know what we collect and why we collect it and what is done to protect that information.  If you have any questions regarding this policy, please feel free to [contact us](http://annemichele.com/contactus.html).
+While visiting our site, "http://apothica.com", certain pieces of data will be collected about you.  It is important to know what we collect and why we collect it and what is done to protect that information.  If you have any questions regarding this policy, please feel free to [contact us](http://apothica.com/contactus.html).
 
 ## Licensee of TRUSTe's Privacy Program
 
-AnneMichele.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://annemichele.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Apothica.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://apothica.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service Manager by calling 1-877-924-5819 or via our [contact us](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/contactus.html) page. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Customer Service Manager by calling 1-877-924-5819 or via our [contact us](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/contactus.html) page. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Visitor Information
 
-When you visit AnneMichele.com, your IP address is logged into our system.  This is a requirement to use our online shopping & tracking system and is not used for any other purpose, nor shared with 3rd parties.  We also implement the use of cookies.
+When you visit Apothica.com, your IP address is logged into our system.  This is a requirement to use our online shopping & tracking system and is not used for any other purpose, nor shared with 3rd parties.  We also implement the use of cookies.
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to information you submit while on our site to improve site usability and extra features. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
@@ -28,21 +28,21 @@ We retain information, such as referring websites, which is linked to your perso
 
 If you use the forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-To post messages on our forums and bulletin boards you will need to register.  This registration collects basic non-sensitive personal information (name, email, username, password).  Registrants of our forums may choose to let other forum members see their email address and email them directly.  We are not responsible for damages caused by this as it is an option the forum users choose.  The feature for displaying your email address to other forum users can be disabled at any time.  Information entered into the forum is not sold to third parties.  Occasionally, the AnneMichele.com forum administrators may send emails out to registered forum users announcing forum policy changes and other forum modifications.
+To post messages on our forums and bulletin boards you will need to register.  This registration collects basic non-sensitive personal information (name, email, username, password).  Registrants of our forums may choose to let other forum members see their email address and email them directly.  We are not responsible for damages caused by this as it is an option the forum users choose.  The feature for displaying your email address to other forum users can be disabled at any time.  Information entered into the forum is not sold to third parties.  Occasionally, the Apothica.com forum administrators may send emails out to registered forum users announcing forum policy changes and other forum modifications.
 
 ## Personal Information Privacy
 
-When placing an order on AnneMichele.com you must provide contact information such as Name, email, billing and shipping addresses and financial information (such as credit card number, expiration date).  We also collect other information such as products ordered for our website features which display tracking and order histories for the convenience of our customers.  We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+When placing an order on Apothica.com you must provide contact information such as Name, email, billing and shipping addresses and financial information (such as credit card number, expiration date).  We also collect other information such as products ordered for our website features which display tracking and order histories for the convenience of our customers.  We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
 We use other third parties (iTransact, Paypal) to provide payment processing on our site. When you order products, we will share payment information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose.
 
-Rest assured, AnneMichele.com does not share, sell, rent, or trade your personal information to third parties for promotional purposes.
+Rest assured, Apothica.com does not share, sell, rent, or trade your personal information to third parties for promotional purposes.
 
-If your personally identifiable information changes, you may correct or update it by making the change on our [member information](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/sign-in.html?sec_y=1) page or by contacting [customer service](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/contactus.html?sec_y=1).
+If your personally identifiable information changes, you may correct or update it by making the change on our [member information](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/sign-in.html?sec_y=1) page or by contacting [customer service](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/contactus.html?sec_y=1).
 
 ## Posting a Review
 
-We post customer reviews on our web site which may contain personally identifiable information such as the reviewers's name. By posting a review on our site you grant us the right to publish your review along with the name you enter.  You may withdraw your review by [contacting customer service](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/contactus.html) at any time.
+We post customer reviews on our web site which may contain personally identifiable information such as the reviewers's name. By posting a review on our site you grant us the right to publish your review along with the name you enter.  You may withdraw your review by [contacting customer service](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/contactus.html) at any time.
 
 ## Right to Disclose Information
 
@@ -54,7 +54,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/securityrx.html) page.  You may also contact [customer service](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/contactus.html).
+For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/securityrx.html) page.  You may also contact [customer service](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/contactus.html).
 
 ## Changes in this Privacy Statement
 
@@ -64,13 +64,13 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Terms of Use
 
-For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/disclaimer.html) page.
+For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/disclaimer.html) page.
 
 ## Questions
 
-Please direct all questions to our [contact us](https://web.archive.org/web/20081218123831id_/http%3A//annemichele.com/contactus.html) page or write:
+Please direct all questions to our [contact us](https://web.archive.org/web/20090531073401id_/http%3A//apothica.com/contactus.html) page or write:
 
-AnneMichele.com, LLC  
+Apothica.com, LLC  
 ATTN: Privacy Department  
 1055 South 700 West  
 Salt Lake City, UT 84104
