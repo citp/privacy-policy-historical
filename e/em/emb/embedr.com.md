@@ -1,65 +1,25 @@
-> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080243id_/http%3A//www.embedr.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531074143id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
 
-# BSQUARE Corporation -- Privacy Statement
+# Privacy Policy - Embedr, Create Custom Video Playlists
 
-BSQUARE Privacy Policy
+Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-BSQUARE respects the privacy of everyone who visits our web site. This policy describes the information BSQUARE collects and what it does with that information.
+### The Information We Collect
 
-**HOW WE COLLECT INFORMATION**
+You can register with our website if you would like to save your playlists and/or access other advanced features. Information you submit on our website will only be used to access your account. The types of personal information collected at these pages are: Email address, Password.
 
-BSQUARE may collect personal information from you in several ways. In all cases providing BSQUARE this information is voluntary; however, if you do not provide it BSQUARE will be unable to respond to you.
+### The Way We Use Information:
 
-> **Products:**
-> 
-> BSQUARE may collect information from you as part of a process of downloading its software, as part of your response to an offer, by your voluntary subscription to a BSQUARE newsletter or other service, by your response to a promotion or your response to a survey on our web site.
-> 
-> **Other:**
-> 
-> BSQUARE may collect information from you in order to respond to your request for other BSQUARE information.
+We use the information you provide about yourself when registering as a member to complete the registration process. We do not share this information with outside parties except to the extent necessary to provide our advertisers with aggregated data about our website.
 
-NOTE: BSQUARE also automatically collects certain technical information, such as the type of browser your use, the domain name of the web site you used to link to the BSQUARE web site, the type of operating system you use, etc. None of this information can be used to identify you.
+### Our Commitment to Data Security
 
-**COOKIES:** BSQUARE does set cookies, but only if and when you visit the support section of our web site. These are used to authenticate a user during a session on the support section of our web site and are not otherwise used.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**INFORMATION BSQUARE COLLECTS:**
+### Third Party Cookies
 
-BSQUARE collects your name and your email address from most communications with us. BSQUARE may also collect your postal address, company, and telephone numbers, in addition to your name and email address, depending on what you respond to as described above.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-If you order products or services directly from BSQUARE, and if you provide your credit card number, it will be encrypted. As part of your purchase transaction, your name, credit card number and the amount purchased is sent to the appropriate institution for processing. An example of another use of your credit card information is to give you credit should you return something you purchased. Except with respect to your particular transaction, BSQUARE does not make any other use of credit card numbers.
+### How To Contact Us
 
-**BSQUARE'S LINKS TO OTHER WEB SITES:**
-
-BSQUARE's web site contains links to other companies' web sites. Each of these companies may have its own privacy policy. BSQUARE is not responsible for any information you provide to any other company even if you link to it from our site. This includes any information provided to a third party for orders of products (BSQUARE's or anyone else's).
-
-**WHAT BSQUARE WILL DO WITH YOUR INFORMATION:**
-
-  1. BSQUARE will respond to your request. All data collected may be used for BSQUARE marketing purposes, including product campaigns and promotions through email, direct mail and telephone solicitation.
-  2. We may share your information with our subsidiaries as well as authorized third party distributors, sales representatives and value added resellers for their promotional purposes.
-  3. We may send you promotional materials via direct mail or email. We may also conduct telephone solicitations.
-  4. We will not sell any of your personal information to any third parties. However, if we sell a product line in which you have expressed interest, or if BSQUARE was acquired by another company, your information may be transferred as part of the transaction.
-
-
-
-**JOB APPLICANTS:**
-
-We list our job openings on our web site. You may apply for one of those openings by sending us your resume via email. Your resume goes to our Human Resources staff for evaluation. If you are selected for an interview, a copy of your resume will also be provided to those who interview you. Statistical information, but no personally identifying information, may be used to fulfill government reporting requirements. No other use of this information will be made.
-
-**OPTING OUT:**
-
-You can change your mind about receiving additional information, or request that we not share your information either with our subsidiaries or other third parties, at any time. To tell us that you no longer want to receive information, please email [privacy@bsquare.com](mailto:privacy@bsquare.com) or send mail to:
-
-> Privacy  
->  BSQUARE Corporation  
->  3150 139th Avenue SE  
->  Suite 500  
->  Bellevue, WA 98005-4081
-
-**POLICY CHANGES:**
-
-We may change our privacy policy at any time. Please check our web site periodically to see what changes might have been made. You may also email our web master at [webmaster@bsquare.com](mailto:webmaster@bsquare.com).
-
-Return to top
-
-  
-
+Should you have other questions or concerns about these privacy policies, please send us an email at [support@embedr.com](mailto:support@embedr.com). 
