@@ -1,16 +1,11 @@
-<!--The following is the downloaded HTML source of the homedepot.ca privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217091233id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homedepot.ca privacy policy that was archived on 2009-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601061546id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.-->
 
-<html><head><link type="text/css" rel="STYLESHEET" href="http://answers.homedepot.ca/answers/1998g/static/bazaarvoiceQA.css">
-<script language="JavaScript" src="http://answers.homedepot.ca/answers/1998g/static/bazaarvoiceQA.js" type="text/javascript"></script>
-
- 
-
-
+<html><head>
 
 
 	<script type="text/javascript" language="javascript">
-		document.domain = "homedepot.ca"; 		
+		//document.domain = "homedepot.ca"; 		
 	</script>
 
 
@@ -30,7 +25,7 @@
 
 	
 	
-	        
+	  
     
         <title>Home Improvement, Home Renovation, Tools, &amp; Hardware | Home Depot Canada - Privacy &amp; Security</title>
 	
@@ -39,8 +34,7 @@
 	<meta name="description" content="">
 
 
-
-<link rel="stylesheet" type="text/css" href="/wcsstore/HomeDepotCanada/css/hdstyle.css"><link rel="index" href="/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15"><script language="JavaScript" src="/wcsstore/HomeDepotCanada/javascript/HDUtils/common_lib-min.js"></script><link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.homedepot.ca/rss/reviews"></head> 
+<link rel="stylesheet" type="text/css" href="/wcsstore/HomeDepotCanada/css/hdstyle.css"><link rel="index" href="/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15"><script language="JavaScript" src="/wcsstore/HomeDepotCanada/javascript/HDUtils/common_lib-min.js"></script><link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.homedepot.ca/rss/reviews"><script src="/wcsstore/HomeDepotCanada/javascript/ForeSee/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head> 
 
 <!-- File Name: ScriptIncludes.jspf  -->
 
@@ -99,7 +93,7 @@
 
 
   
-  
+    
  
 
 
@@ -218,21 +212,24 @@
 
 
 
+
 <script type="text/javascript" language="JavaScript">
-<!--  
+ 
 	var HD_Domain_HostName=''; 
-	document.domain = 'homedepot.ca';
+	
+	
 	
 	// check if there exists parameter "externalSite", this is flag for third party to use header/footer.
 	// yes, use full path for all url/image links, otherwise, use relative path.
 	if(location.href.indexOf("externalSite")>=0){
 		HD_Domain_HostName =location.protocol + '//' + location.hostname; 
 	} 
-//-->
+
 </script>	
  
 
-<link rel="stylesheet" type="text/css" href="http://www.homedepot.ca/wcsstore/HomeDepotCanada/css/global/en_CA/global.css?v=1.15">
+<link rel="stylesheet" type="text/css" href="http://www.homedepot.ca/wcsstore/HomeDepotCanada/css/global/en_CA/global.css?v=1.18">
+
 
 
 
@@ -246,14 +243,14 @@
 <script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/jquery.bgiframe-2.1.pack.js"></script>
 <script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/jquery.cookie-min.js"></script>
 
-<script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/global-min.js?v=1.1"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/global-min.js?v=1.2"></script>
 <script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/jquery.params-min.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/typeahead-min.js"></script>
 <script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/swfobject-2.1.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/javascript/Global/typeahead.js"></script>
  
-
+ 
 <script type="text/javascript" language="JavaScript">
-<!--  
+
 	
 	
 function resetMiniShopcart() {
@@ -294,7 +291,28 @@ function switchLanguage(){
 
 	}
 }
-//-->
+
+function switchExternalSiteLanauage(){	
+
+	var langId = '-15';
+	var newLangId = '-15'; 
+	if(langId == '-15'){
+		newLangId = '-16';
+	}
+
+	var nvps = 'langId='+langId;
+	var newNvps = 'langId='+newLangId;
+
+	var url = window.location.href;
+	if(url.indexOf("langId")>0){
+		url = url.replace(nvps,newNvps);
+	}else{
+		url += '&'+newNvps;
+	}             
+	window.location.href=url;
+	
+}
+
 </script>
 
 
@@ -302,20 +320,10 @@ function switchLanguage(){
 <script type="text/javascript" src="/wcsstore/HomeDepotCanada/javascript/catnav/catnav.js"></script>
 
 
-
-
-
-
-
-
 <!-- FORESEE Survey -->
 
 
-<script language="JavaScript" src="/wcsstore/HomeDepotCanada/javascript/ForeSee/triggerParams-min.js?v=1.1"></script>
-<script language="JavaScript" src="/wcsstore/HomeDepotCanada/javascript/ForeSee/stdLauncher-min.js?v=1.0"></script>
-<script language="JavaScript">
-document.domain="homedepot.ca";Poll();
-</script>
+	<script type="text/javascript" src="/wcsstore/HomeDepotCanada/javascript/ForeSee/foresee/foresee-trigger.js"></script>
 
 
 
@@ -340,7 +348,7 @@ document.domain="homedepot.ca";Poll();
 
  
 
-<!-- hostname [hd-app2] -->
+<!-- hostname [hd-app3] -->
 
 <div id="wrap" class="storeWrapper" lang="en_CA" langid="-15" storeid="10051" catalog="10051">
 
@@ -348,10 +356,10 @@ document.domain="homedepot.ca";Poll();
     <!-- Sign In Form -->    
     <div id="signIn">
     	
-        	<h4>Sign In<span><a href="#" onclick="javascript: hide('signIn');">Close x</a></span></h4>
+        	<div class="top"><h4>Sign in</h4><a class="closeLink" href="#" onclick="javascript: hide('signIn');">Close</a></div>
         
         
-        <form method="post" name="LogonMain" action="http://www.homedepot.ca/webapp/wcs/stores/servlet/Logon" id="Logon">
+        <form method="post" name="LogonMain" action="https://www.homedepot.ca/webapp/wcs/stores/servlet/Logon" id="Logon">
             <input type="hidden" name="storeId" value="10051" id="WC_AccountDisplay_FormInput_storeId_In_Logon_1">
             <input type="hidden" name="catalogId" value="10051" id="WC_AccountDisplay_FormInput_catalogId_In_Logon_1">		
             <input type="hidden" name="langId" value="-15">			
@@ -370,13 +378,22 @@ document.domain="homedepot.ca";Poll();
             <input type="hidden" name="URL" value="OrderItemMove?page=account&amp;URL=OrderCalculate%3FURL%3DLogonForm" id="WC_AccountDisplay_FormInput_URL_In_Logon_1">
             
             
-                <label>Email Address:</label><input name="logonId" id="email" class="inputlogon" type="text" size="30">
-                <label>Password:</label><input name="logonPassword" id="password" class="inputpassword" type="password" size="30">
-                <div>
-                    <input name="rememberEmail" type="checkbox" id="cb" class="outcheckbox" onclick="setCheck(this)"><label id="rememberEmailOpt"><a href="#" onclick="bsetCheck('cb')">Remember my email address</a></label>
+                <div style="clear:both;">
+					<label style="float:left">Email Address:</label>
+					<input style="float:right" name="logonId" id="email" class="inputlogon" type="text">
+				</div>
+                <div style="clear:both;">
+					<label style="float:left;">Password:</label>
+					<input style="float:right" name="logonPassword" id="password" class="inputpassword" type="password">
+				</div>
+                <div class="checkBox" style="clear:both">
+                    <input name="rememberEmail" type="checkbox" id="cb" class="outcheckbox" onclick="setCheck(this)">
+					<label id="rememberEmailOpt"><a href="#" onclick="bsetCheck('cb')">Remember my email address</a></label>
                 </div>   
-                <p>Not Registered? <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/UserRegistrationForm?langId=-15&amp;storeId=10051&amp;catalogId=10051&amp;new=Y">Register today!</a></p>
+                <div class="bottom">  
+				<p>Not Registered? <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/UserRegistrationForm?langId=-15&amp;storeId=10051&amp;catalogId=10051&amp;new=Y">Register today!</a></p>
                 <button class="button btnSignIn" onclick="javascript:document.LogonMain.submit();">Sign-In</button>
+				</div>  
             
             
         </form>
@@ -397,31 +414,31 @@ document.domain="homedepot.ca";Poll();
  
 
 	<div id="toptopnav_wrapper">
-        <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15" id="toptopnav_first">Site Map</a>
-        
-         
-        
-        <div id="toptopnav_welcome">
+
+        <ul id="toptopnav" name="toptopnav">
+		  <li id="toptopnav_welcome">
             
                 					
     
             
-                	Welcome <span class="userName">Guest</span>!
-                    <span class="wrongUser">If you are not <span class="userName">Guest</span>, <a onclick="javascript:resetMiniShopcart(); return;" href="Logoff?storeId=10051&amp;catalogId=10051&amp;langId=-15"><u>click here</u></a>.</span>
+                	Welcome <span class="userName">Guest</span>
+                    	   
+											   
+											   		<span class="wrongUser">If you are not <span class="userName">Guest</span>, <a onclick="javascript:resetMiniShopcart(); return;" href="Logoff?storeId=10051&amp;catalogId=10051&amp;langId=-15"><u>click here</u></a>.</span>
+											   			   
             
 
             
-        </div>
-
-        <ul id="toptopnav" name="toptopnav">
-    
-  
-            <li class="yourAccount userAction"><a href="LogonForm?langId=-15&amp;storeId=10051&amp;catalogId=10051">Your Account</a></li>
-            <li class="register userAction"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/UserRegistrationForm?langId=-15&amp;storeId=10051&amp;catalogId=10051&amp;new=Y">Register</a></li>
-            <li class="logIn userAction"><a href="#" onclick="javascript: show('signIn');">Log In</a></li>
+        </li>
+            <li class="yourAccount userAction">
+				<a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/LogonForm?langId=-15&amp;storeId=10051&amp;catalogId=10051">Your Account
+			</a>
+			</li>
+            <li class="register userAction">
+				Please <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/UserRegistrationForm?langId=-15&amp;storeId=10051&amp;catalogId=10051&amp;new=Y">create an account</a> or <a class="logIn userAction" href="#" onclick="javascript: show('signIn');">sign in</a>	
+				</li>
+            <li style="border:none;"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay?orderId=.&amp;storeId=10051&amp;catalogId=10051"><p style="margin-right:4px;" class="topnav_cart"></p>Cart</a></li>
             
-            
-            <li><a href="#" id="languageBtn" onclick="switchLanguage();return false;">Français</a></li>
         </ul>        
         
         <script type="text/javascript">	
@@ -441,26 +458,40 @@ document.domain="homedepot.ca";Poll();
 		</script>    
     </div>		
 
+      <ul id="topnav" name="topnav">
+            <li style="padding-left:0px;" id="topnav_store"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=store_locator">Store Finder</a></li>
+            <li id="topnav_eflyer"><a href="javascript:popUp('http://director.flyerservices.com/HDP/default.aspx?language=EN');">eFlyer</a></li>
+            <li id="topnav_diy"><a href="http://diy.homedepot.ca/diy/landing.jsp?N=0&amp;langId=-15">Do-It-Yourself</a></li>
+            <li id="topnav_value"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10051&amp;langId=-15&amp;Nty=1&amp;Ntx=mode%2Bmatchall&amp;Ntk=level1&amp;D=1&amp;Dx=mode%2Bmatchall&amp;catNav=1&amp;N=154404">Value Centre</a></li>
+            <li id="topnav_rebate"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=current_promotions">Rebate Centre</a></li>
+			<li id="topnav_gift"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=design-centre&amp;eid=homepage_Footer2&amp;utm_source=homepage">Design Centre</a></li>
+            <li id="topnav_services"><a href="http://www.homedepot.ca/webapp/hdis/IS_index.jsp?langId=-15">Installation Services</a></li>
+             <li id="topnav_sitemap"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15" id="toptopnav_first">Site Map</a></li>
+						
+						
+					            <li style="border-right:none;padding-right:0px;"><a href="#" id="languageBtn" onclick="switchLanguage();return false;">Français</a></li>
+						                      
+        </ul>
     <div id="topShadow"></div>
     <div id="mainHeaderContent">
-
-        <ul id="topnav" name="topnav">
-            <li id="topnav_diy"><a href="http://diy.homedepot.ca/diy/landing.jsp?N=0&amp;langId=-15">DO-IT-YOURSELF</a></li>
-            <li id="topnav_eflyer"><a href="javascript:popUp('http://director.flyerservices.com/HDP/default.aspx?language=');">EN');"&gt;E-FLYER</a></li>
-            <li id="topnav_rebate"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=current_promotions">REBATE CENTRE</a></li>
-            <li id="topnav_value"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10051&amp;langId=-15&amp;Nty=1&amp;Ntx=mode%2Bmatchall&amp;Ntk=level1&amp;D=1&amp;Dx=mode%2Bmatchall&amp;valueNav=1&amp;N=1000004">VALUE CENTRE</a></li>
-            <li id="topnav_gift"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;Nty=1&amp;Ntx=mode+matchall&amp;Ntk=level1&amp;D=1&amp;Dx=mode+matchall&amp;giftNav=1&amp;N=1000000">GIFT CENTRE</a></li>
-            <li id="topnav_services"><a href="http://www.homedepot.ca/webapp/hdis/IS_index.jsp?langId=-15">SERVICES</a></li>
-            <li id="topnav_store"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=store_locator">STORE FINDER</a></li>
-            <li id="topnav_cart"><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay?orderId=.&amp;storeId=10051&amp;catalogId=10051">CART</a></li>
-        </ul>
-						
-					  
+	  
         <ul id="headerContent">
-            <li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/Home?storeId=10051&amp;catalogId=10051&amp;langId=-15"><img id="HDlogo" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/images/HDHeader/en_CA/HDlogo.png" alt="" width="299" height="97" border="0" style="margin-left: 19px;"></a></li>
+            <li>
+            	<a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/Home?storeId=10051&amp;catalogId=10051&amp;langId=-15">
+               			<p class="HDLogo">
+                        	The Home Depot
+                            
+                        </p>
+                        
+                		<p class="HDSubLogo">
+                        	More Saving. More Doing.
+                            
+                        </p>
+                </a>
+            </li>
             <li id="headerContent_e1">           
             	
-					<a href="DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=holidayshipping&amp;eid=homepage_A1&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20081211/header_zoneA2_en.jpg" alt="" border="0"></a> 
+					<a href="HammerDropView?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;eid=homepage_A1&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20090528/zoneA1_EN.jpg" alt="" border="0"></a> 
 				
 
 			
@@ -468,7 +499,7 @@ document.domain="homedepot.ca";Poll();
             <li id="headerContent_e2">
             
             	
-					<a href="CatalogSearchResultView?D=1&amp;Ne=10&amp;srchFor=Brand&amp;Ntk=level1&amp;langId=-15&amp;Dx=mode%20matchall&amp;storeId=10051&amp;Ntx=mode%20matchall&amp;Ns=P_Rating|1&amp;N=112428%204294967196&amp;catalogId=10051&amp;Nty=1&amp;eid=homepage_A2&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20081211/200x88_gh2_en.jpg" alt="" border="0"></a> 
+					<a href="DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=hrtc&amp;eid=homepage_A2&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20090528/zoneA2_EN.jpg" alt="" border="0"></a> 
 				
 					
 							
@@ -572,8 +603,14 @@ document.domain="homedepot.ca";Poll();
                     <li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=buying_landing">Buying Guides</a></li>
                 </ul>
             </li>    
-            <li class="topNavItem" id="sitemap">
-            	<a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15">Site Map</a></li>
+            <li class="topNavItem" id="knowHow">
+            	
+            	
+            	<a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/KnowHowHomeView?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;externalSite=n">
+                Know How
+                </a>
+              
+            </li>
 		</ul>
 		<!-- End Top Menu -->
 
@@ -608,18 +645,23 @@ function Search() {
 	var mode        = 'matchallpartial';	
 	
 	// Create new url with property search and dimension search
-	var removeterms = ["krypto","ddkey","display","ecoNav","s","subDir","srchFor","summaryOnly","recN","valueNav","giftNav","catNav","tab","searchLevel","searchTermForCompare","compare","partNumber","R","N","Ne","No","Nao","Ntk","Ntt","D","Nty","Ns","Ntx","Dx","in_dym","in_dim_search","viewall","sourcePage","compareType"];
+	var removeterms = ["krypto","ddkey","display","ecoNav","s","subDir","srchFor","summaryOnly","recN","giftNav","catNav","tab","searchLevel","searchTermForCompare","compare","partNumber","R","N","Ne","No","Nao","Ntk","Ntt","D","Nty","Ns","Ntx","Dx","in_dym","in_dim_search","viewall","sourcePage","compareType"];
 	if ( ecoNavParam == "1"  && document.search_terms_form.wheretoSearch.value == '1000006' ) {
 		var addterms = ["N="+1000006,"Ntk="+property,"Ntt="+terms,"Nty=1","D="+1000006,"Ntx=mode+"+mode,"Dx=mode+"+mode,"s=true","ecoNav=1"];
 	} else {
-		var addterms = ["N=0","Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode, "s=true"];
+		if(location.href.indexOf("storeId") >= 0){
+			var addterms = ["N=0","Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode, "s=true"];
+		}
+		else{
+			var addterms = ["storeId=10051","catalogId=10051","N=0","Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode, "s=true"];
+		}		
 	}
 	
 	
 	queryString = ConstructURL(window.location.search.substring(1), removeterms, addterms);
 	
-	window.location.replace("http://www.homedepot.ca/webapp/wcs/stores/servlet/CatalogSearchResultView?" + queryString);
-
+	window.location.href = "http://www.homedepot.ca/webapp/wcs/stores/servlet/CatalogSearchResultView?" + queryString;
+return false;
 } 
 
 
@@ -630,29 +672,31 @@ function Search() {
  	
 	<tbody><tr>
 		<form action="Javascript:Search()" name="search_terms_form"></form>
-		<td valign="top"><img src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/images/HDHeader/en_CA/search.gif" alt="" border="0" style="margin-top: 5px; margin-left: 15px; margin-right: 4px;"></td>
-		<td><input class="searchTerms" type="text" maxlength="200" name="searchterms" onfocus="this.value='';" id="" style="margin-top: 0px;"></td>
-		<td id="ecoSearchDropDown" style="display:none;">&nbsp;
+		<td><p class="searchLabel"></p></td>
+		<td><input class="searchTerms" type="text" maxlength="250" name="searchterms" onfocus="this.value='';" id="srchTermsField" style="margin-top: 0px;"></td>
+		<!-- <td id="ecoSearchDropDown" style="display:none;">&nbsp;
 			<select name="wheretoSearch" style="font-size:10px;">
 				<option value="1000006" selected="selected">In Eco Options</option>
 				<option value="0">All Of Home Depot</option>
 			</select>
-		</td>
+		</td>-->
 		<td>
-			<input type="image" onclick="javascript:Search();return false;" src="http://www.homedepot.ca/wcsstore/HomeDepotCanada/images/HDHeader/en_CA/go.gif" style="float:left;margin:0 0 0 4px;">
+			<input class="arrowBtn" type="submit" onclick="return javascript:Search();" value="" style="float:left;margin:0 0 0 4px; border:0;">
 		</td>
 		
 	</tr>
 </tbody></table>
 
 <script type="text/javascript">
-
+/*
 if (ecoNavParam == "1") {
 	document.getElementById("ecoSearchDropDown").style.display = 'block';
 }
+*/
 </script>
             </div>
-			<table id="breadCrumbContainer" border="0" cellpadding="0" cellspacing="0">
+		
+            <table id="breadCrumbContainer" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td valign="middle">
 	
@@ -775,9 +819,17 @@ if (ecoNavParam == "1") {
 
 				
 				
-				
-				
-				
+
+		
+
+					
+
+
+
+
+
+
+
 				
 				
                 
@@ -812,16 +864,29 @@ if (ecoNavParam == "1") {
 				
 				
 				
-				
-				
-				
                 
                 
                 
                 
+                
+                
+
+                
+
+                
+
+                
+
+                
+                
+                
+
 				
 				
 				
+				
+
+
 					
 </p>
 </div>            
@@ -830,7 +895,7 @@ if (ecoNavParam == "1") {
 </script>
 
 <!--body starts-->
-<script>campaign15='';</script>
+
 <table width="777" border="0" cellspacing="0" cellpadding="0" class="content">
 	<tbody><tr>
 	<td><img src="/wcsstore/HomeDepotCanada/images/HDHeader/en_CA/spacer.gif" alt="" width="3" height="1" border="0"></td>	
@@ -956,6 +1021,8 @@ a.blackUnder:link { FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-F
 a.blackUnder:visited { FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: underline; }
 a.blackUnder:active { FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: underline; }
 a.blackUnder:hover { FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: underline; }
+
+
 
 </style>
 
@@ -1096,23 +1163,22 @@ More information for  parents about our Kids Workshops can be obtained from your
 <div class="GRAYcontentBOLD"><b>
 Personal Information Disclosure: Home Depot will not trade, rent or sell your personal information, without your prior consent, except as otherwise set out herein.</b></div><br>
 
-<p></p><div class="GRAYcontentBOLD"><b>Home Depot Financial Products:</b></div>  
-Home Depot uses Service Providers to offer financial products, such as the Home  Depot credit card and home improvement loan. We may share personal information  about Home Depot consumers with these Service Providers in order to provide you  with tailored information about products and services and special offers. These  Service Providers also have their own privacy statement that sets out the  manner in which they will collect, use and disclose personal information. We  encourage you to review each Service Provider's privacy statement at the time  you submit your application for such services.<p></p>
+<p><span class="ContentSubHeader">Home Depot Financial Products:</span><br>
+Home Depot uses Service Providers to offer financial products, such as the Home Depot Consumer Credit Card. We may share personal information  about Home Depot consumers with these Service Providers in order to provide you  with tailored information about products and services and special offers. These  Service Providers also have their own privacy statement that sets out the  manner in which they will collect, use and disclose personal information. We  encourage you to review each Service Provider's privacy statement at the time  you submit your application for such services.</p>
 
-<p></p><div class="GRAYcontentBOLD"><b>Extended Warranty Services:</b></div> 
-If you purchase a Home Depot Extended Warranty Service you will be  required to provide information such as your name and address to our warranty  Service Provider. While these Service Providers are limited by contract in the  way they may use your information to provide the Home Depot Warranty Services,  we encourage you to review the Service Provider's privacy statement at the time  you submit your personal information for such services. <p></p>
-<p></p>
+<p><span class="ContentSubHeader">Extended Warranty Services:</span><br>
+If you purchase a Home Depot Extended Warranty Service you will be  required to provide information such as your name and address to our warranty  Service Provider. While these Service Providers are limited by contract in the  way they may use your information to provide the Home Depot Warranty Services,  we encourage you to review the Service Provider's privacy statement at the time  you submit your personal information for such services. </p>
 
-<p></p><div class="GRAYcontentBOLD"><b>Companies that work with or on behalf of Home Depot:</b></div> 
+<p><span class="ContentSubHeader">Companies that work with or on behalf of Home Depot:</span><br>
 Some of our operations, such as our call centres and the  employment application section of any of our Sites, may be managed by our  Canadian, US and foreign Service Providers. Also, if you purchase installation  services from Home Depot, these services may not be provided by Home Depot  associates, but rather by reputable local or national Service Providers with  which we contract to provide such services. These Service Providers may have  access to your personal information on a confidential basis to the extent  necessary to perform their functions. In no event will these companies have the  right to use your personal information for any reason other than to provide you  with those specific services, except as may be permitted by law. Information  provided by you will be used by Home Depot and its Service Providers to learn  about the experiences of our customers so that we may enhance our programs and  improve our level of service.<br><br>
 If your purchases are being  shipped to you, we will share your shipping information on a confidential basis  with our delivery Service Providers (U.S. Postal Service, Canada Post, or other  delivery companies we or you select). Our delivery Service Providers are  prohibited from using your personal information for any purpose other than  making the delivery.
-<p></p>
+</p>
 
-<p></p><div class="GRAYcontentBOLD"><b>Sale of Business:</b></div> 
-Home Depot reserves the right to transfer any information we have  about you in the event we sell or transfer all or a portion of our business or  assets to a third party acquirer. <p></p>
+<p><span class="ContentSubHeader">Sale of Business:</span><br>
+Home Depot reserves the right to transfer any information we have  about you in the event we sell or transfer all or a portion of our business or  assets to a third party acquirer. </p>
 
-<p></p><div class="GRAYcontentBOLD"><b>Legal:</b></div> 
-Please note that Home Depot and our Service Providers must provide  your personal information in response to a search warrant or other legally  valid inquiry or order, or to an investigative body in the case of a breach of  an agreement or contravention of law, or as otherwise required by law. We may  also disclose personal information to assist us in collecting a debt owed by you. Your personal information may be maintained  and processed on our behalf by Home Depot US and our Service Providers who may  be required to disclose information in accordance with applicable US or other  foreign laws.<p></p>
+<p><span class="ContentSubHeader">Legal:</span><br>
+Please note that Home Depot and our Service Providers must provide  your personal information in response to a search warrant or other legally  valid inquiry or order, or to an investigative body in the case of a breach of  an agreement or contravention of law, or as otherwise required by law. We may  also disclose personal information to assist us in collecting a debt owed by you. Your personal information may be maintained  and processed on our behalf by Home Depot US and our Service Providers who may  be required to disclose information in accordance with applicable US or other  foreign laws.</p>
 
 <p><span class="ContentSubHeader">Access to Personal Information</span><br>
   You  may request access to the personal information that we have about you. As a  registered user with our Sites, you can access your profile information at any  time by: 
@@ -1167,9 +1233,9 @@ M3C 4H9<br>
                           Pour la version française de la déclaration de confidentialité, voir <a href="DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-16&amp;display=cust_supp_privacy_faq" class="blackUnder">Déclaration sur la sécurité et la confidentialité</a>. 
                           <br>
                           <br>
-                          Last updated: December 11, 2008. 
+                          Last updated: December 18, 2008. 
                           <br>
-                          <br>
+                          <br><a href="#" class="Jlink"><img src="/wcsstore/HomeDepotCanada/images/content/English/arrow_up.gif" width="10" height="10" alt="Back to top" border="0"> &nbsp;Back to top</a><br><br>
                         </p>
 						
                       </td>
@@ -1317,12 +1383,19 @@ M3C 4H9<br>
 
 
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
 <script type="text/javascript">
-_uacct = "UA-2218545-3";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2218545-3");
+pageTracker._setDomainName("homedepot.ca");
+pageTracker._setCookieTimeout("2592000"); //set the campaign tracking cookie expiration time in seconds; number of seconds in 30 days
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
  
 
@@ -1359,7 +1432,7 @@ urchinTracker();
              </div>
              <div class="espot">   
 				
-					<a href="DisplayTemplate?display=top-rated&amp;langId=-15&amp;storeId=10051&amp;catalogId=10051&amp;eid=homepage_Footer3&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20081204/footer_03_en.jpg" alt="" border="0"></a> 
+					<a href="DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=gc_landing&amp;eid=homepage_Footer3&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20090330/footer_03_EN.jpg" alt="" border="0"></a> 
 				 		
              </div>
 		</div>
@@ -1375,8 +1448,8 @@ urchinTracker();
                     <ul>
                         <li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=affiliate" title="">Become an Affiliate</a></li>
                         <li><a href="http://media.monster.ca/homedepot/2008Q1En/Index.html" title="">Careers in Canada</a></li>							
-                        <li><a href="http://www.homedepot.ca/communityaffairs/content/en_CA/CAHomepage.html" target="_blank" title="">Community Affairs</a></li>
-                        <li><a href="http://www.homedepot.ca/communityaffairs/content/en_CA/CAHomepage.html" target="_blank" title="">Corporate Information</a></li>											
+                        <li><a href="http://www.homedepot.ca/foundation/html/en/index.html" target="_blank" title="">The Home Depot Canada Foundation</a></li>
+                        <li><a href="http://www.homedepot.ca/communityaffairs/content/en_CA/CAHomepage.html" target="_blank" title="">Corporate Affairs</a></li>											
                         <li><a href="http://www.homedepotopinion.com" target="_new" title="">homedepotopinion.com</a></li>
                     </ul>
                 
@@ -1396,7 +1469,7 @@ urchinTracker();
                     </ul>
                     
                     <ul class="customerRight">
-                    	<li><a href="/popups/en_CA/Shade-O-Matic_Faux_Wood_Public_Notification.pdf">Product Recall Notice</a></li>
+                    	<li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=product-notifications">Product Notifications</a></li>
                         <li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=cust_supp_prod_faq">Products FAQ</a></li>
                     	<li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=cust_supp_return_faq">Returns Policy</a></li>
                         <li><a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=cust_supp_delivery_faq ">Shipping FAQ</a></li>
@@ -1431,17 +1504,17 @@ urchinTracker();
             <div class="adCol" id="adColOne">
 				
 				
-					<a href="HammerDropView?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;eid=homepage_A1&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20081204/footerX_en.gif" alt="" border="0"></a> 
+					<a href="HammerDropView?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;eid=homepage_A1&amp;utm_source=homepage"><img src="/wcsstore/HomeDepotCanada/images/espots/20090406/footerX_en.gif" alt="" border="0"></a> 
 							
             </div>
             <div class="adCol" id="adColTwo">
                
                 
-					<a href="AuctionHomeView?storeId=10051&amp;jspStoreDir=HomeDepotCanada&amp;catalogId=10051&amp;langId=-15"><img src="/wcsstore/HomeDepotCanada/images/espots/20081204/footerY_en.gif" alt="" border="0"></a> 
+					<a href="DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=barbq_selector"><img src="/wcsstore/HomeDepotCanada/images/espots/20090330/bbq_selector_footer_EN.gif" alt="" border="0"></a> 
 					
             </div>
 			<form name="addEmailReg" class="emailForm" method="post" action="http://www.homedepot.ca/webapp/wcs/stores/servlet/HomeDepotEmailRegistrationAddCmd">
-				<input type="hidden" name="emailTypeArray" value="0,1,2,3,4">
+				<input type="hidden" name="emailTypeArray" value="0,1">
 				<input type="hidden" name="selectLanguage" value="-15">
 				<input type="hidden" name="action" value="create">
 				<input type="hidden" name="URL" value="http://www.homedepot.ca/webapp/wcs/stores/servlet/TopCategoriesDisplay?catalogId=10051&amp;storeId=10051&amp;langId=-15">
@@ -1449,6 +1522,9 @@ urchinTracker();
 				<input type="hidden" name="catalogId" value="10051">
 				<input type="hidden" name="storeId" value="10051">
 				<input type="hidden" value="0" name="emailType">
+				<input type="hidden" value="87" name="sourceId">
+				<input type="hidden" name="xOptInHomeDepotCA" value="1">
+       			<input type="hidden" name="xOptInGardenClub" value="1">
 				<label>
 					<span>Enter your email address
 					</span>
@@ -1466,8 +1542,8 @@ urchinTracker();
     <div class="bottomFooter">&nbsp;</div>
     
         <p class="footerText">
-            © 2008 Homer TLC Inc. All Rights Reserved. Use of This Website is Subject to Certain 
-            <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=10051&amp;langId=-15&amp;display=cust_supp_terms_faq">Terms of Use</a> Which Constitute a Legal Agreement Between You and 
+            © 2009 Homer TLC Inc. All Rights Reserved. Use of This Website is Subject to Certain 
+            <a href="http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&amp;catalogId=&#10;            10051&amp;langId=-15&amp;display=cust_supp_terms_faq">Terms of Use</a> Which Constitute a Legal Agreement Between You and 
         </p>   
         <p class="footerText">Home Depot of Canada Inc.</p>
     
@@ -1478,7 +1554,6 @@ urchinTracker();
 <!--END HD FOOTER-->
 
 <!-- End - JSP File name:  style1/CachedFooterDisplay.jsp -->
-
 	
 	                    </div> 		
 	                    
@@ -1504,7 +1579,15 @@ urchinTracker();
 					s.pageName="Privacy & Security"
 					s.server=""
 					
+					
+					
+					
+					
+					  
 					s.pageType=""
+					
+					
+					
 					
 					/* E-commerce Variables */
 					s.campaign=s.getQueryParam('eid')
@@ -1515,9 +1598,9 @@ urchinTracker();
 					s.products=""
 					s.purchaseID=""
                     //s.eVar15=s.getQueryParam('intcmp');
-					s.eVar15=campaign15;
 					s.eVar14="English"
 					s.eVar18="anonymous"
+					
 					
 					
 					
