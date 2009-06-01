@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221124528id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601202624id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,8 @@ When you click on links and/or ad banners that take you to third-party web sites
 Some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Use of their cookies is subject to their own privacy policies. 
 
 Specifically, some ads that appear on our site are served by a third party under the Google AdSense program. As such, all issues regarding privacy related to these ads (including use of cookies and web beacons to gather information such as IP address, ISP, geographic location, browser, how to opt-out, etc.) are governed by Google’s privacy policy, which can be viewed [here](http://www.google.com/privacypolicy.html). 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the Doubleclick DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Some ads that appear on our site are served by another third party ad network company, [FastClick](http://www.fastclick.com/). As such, all issues regarding privacy related to these ads (including use of cookies, opting-out, etc.) are governed by FastClick's privacy policy, which can be viewed [here](http://www.fastclick.com/co_privacy.html). 
 
