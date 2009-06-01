@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112104306id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601224550id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected from or submitted to the following Fulltiltpoker.com ("FTP") web site, but to make this notice easier to read we will use the term "our Web Site", which means Fulltiltpoker.com. Other FTP affiliate web sites may operate under their own privacy notices as provided at said sites.
+This notice applies to all information collected from or submitted to the following Fulltiltpoker.com ("FTP") web site or through downloading the game software and creating a Full Tilt Poker account. To make this notice easier to read we will use the term "our Web Site" to include Fulltiltpoker.com and our game software. Other FTP affiliate web sites may operate under their own privacy notices as provided at said sites.
 
 Our Web Site contains links to other web sites operated by third parties. FTP is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those web sites.
 
@@ -45,7 +45,7 @@ Circumstances may arise where we are required to disclose your personal informat
 
 You can opt out of receiving further marketing from FTP at any time.
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only FTP (or agents or contractors working on behalf of FTP and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from FTP by emailing us at [unsubscribe@FullTiltPoker.com](mailto:unsubscribe@FullTiltPoker.com).
+We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only FTP (or agents or contractors working on behalf of FTP and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from FTP by emailing us at [announce@FullTiltPoker.com](mailto:announce@FullTiltPoker.com).
 
 **Our Commitment to Data Security**
 
