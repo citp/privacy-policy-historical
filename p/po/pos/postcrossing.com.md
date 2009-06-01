@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042454id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601163643id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
-# Postcrossing - Postcards Traveling The World
+# Privacy Policy - Postcrossing
 
 “send a postcard and receive a postcard back from a random person somewhere in the world!”
 
@@ -33,8 +33,8 @@ With respect to cookies: cookies are pieces of data stored in a user's computer.
 
 ### Ads
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with third parties whom we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
-[Google Ads Privacy Policy](http://www.google.com/privacypolicy.html)
+With respect to Ad Servers: to try and bring you offers that are of interest to you, we have relationships with third parties whom we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
+[Google Ads Privacy Policy](http://www.google.com/privacy_ads.html)
 
 ### Updates
 
@@ -46,4 +46,4 @@ We can be reached via email at [webmaster@postcrossing.com](mailto:webmaster@pos
 
 If you feel that this site is not following its privacy policy, you may contact us at the address above. 
 
-© Copyright 2004-2008 by Paulo Magalhães 
+© Copyright 2004-2009 by Paulo Magalhães 
