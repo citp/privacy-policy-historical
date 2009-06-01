@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121004059id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evitamins.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601125847id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.*
 
 # eVitamins - Privacy Policy
 
 This privacy statement covers the site www.evitamins.com. eVitamins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. **Because eVitamins wants to demonstrate its commitment to our users’ privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe**. If users have questions or concerns regarding this statement, they should first contact the eVitamins privacy department by one of the following ways:
 
  **EMAIL:** privacy@eVitamins.com  
- **PHONE:** (586) 786-0405 Ext. 407  
+ **PHONE:** (586) 786-0405  
  **POSTAL MAIL:**
 
   
@@ -27,6 +27,7 @@ eVitamins respects and is committed to protecting your privacy. We use the infor
   * What about "cookies"?
   * Will eVitamins disclose the information it collects to outside parties?
   * What you should know!
+  * Third Parties
   * What about email?
 
 
@@ -49,7 +50,7 @@ To place an order on our site, your browser must except SSL. We use some of the 
 
 **Will eVitamins disclose the information it collects to outside parties?**
 
-eVitamins does not sell, trade, or rent your personal information to others (EVER!). eVitamins may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will never include any personally identifying information. We use an outside shipping company to ship orders (FedEx, DHL, USPS, or UPS), and a credit card processing company to bill users for goods and services. These companies may receive personally identifiable information to help us process your order. These companies will not retain, share, store or use personally identifiable information for any secondary purposes. Your personal data will be stored on file for as long as your account is active. An account will become inactive if an order is not placed within 24 months using that account. If your account is inactive it will automatically be deleted from our records. To have your account deleted earlier then the required expiration period, simply [contact us](https://www.evitamins.com/email.asp) and tell us to delete your personal information. If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account manager or by [contacting](https://www.evitamins.com/email.asp) our Customer Support Department. Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page. We may share your non-identifiable information such as your zip code with our business partners for demographic purposes. They are not able to personally identify you with this information. 
+eVitamins may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will never include any personally identifying information. We use an outside shipping company to ship orders (FedEx, DHL, USPS, or UPS), and a credit card processing company to bill users for goods and services. These companies may receive personally identifiable information to help us process your order. These companies will not retain, share, store or use personally identifiable information for any secondary purposes. Your personal data will be stored on file for as long as your account is active. An account will become inactive if an order is not placed within 24 months using that account. If your account is inactive it will automatically be deleted from our records. To have your account deleted earlier then the required expiration period, simply [contact us](https://www.evitamins.com/email.asp) and tell us to delete your personal information. If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account manager or by [contacting](https://www.evitamins.com/email.asp) our Customer Support Department. Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page. We may share your non-identifiable information such as your zip code with our business partners for demographic purposes. They are not able to personally identify you with this information. We may send your browsing or buying patterns to a third party vendor to administer emails on our behalf or help serve up product placements on our web site that we think you may find enjoyable and personable to help your shopping experience. This information will never contain any personal information. 
 
 **What you should know!**
 
@@ -61,8 +62,12 @@ Ste. 101
 Shelby Township, MI  
 48316
 
+**What about third parties?**
+
+eVitamins uses tracking technologies and may send anonymous information about your browsing habits to a third party company. Links in our email communications to recipients are tracked via Web Beacons once you land on our website. Web Beacons appear on our website as 1x1 transparent images which transmit information such as your operating system, browser, resolution, geographical location, products ordered, and order total. This information is used to help our webmasters and marketers understand the behavior of visitors to our website and understand the effectiveness of online and email messages. Your information is submitted anonymously, and no sensitive or personally identifiable information is transmitted. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase. eVitamins handles the sending of order related and customer service related messages internally, as well as advertising related emails. eVitamins service providers do not retain nor use your personal information, including your email address for any other purpose except to provide the service on our behalf. 
+
 **What about email?**
 
 eVitamins sends out order confirmation and order tracking emails to our customers when you place an order. These order related emails are vital to making sure your order is delivered correctly therefore, you do not have the opportunity to opt out or unsubscribe from these order emails. You may also sign up for one of our newsletter emails during the checkout process when placing an order. You may unsubscribe to these newsletters emails at anytime by logging into your account and changing your communication preferences. In addition, you may also unsubscribe to any newsletter email by following the "unsubscribe" link at the bottom of each newsletter.
 
- **eVitamins last updated our privacy policy on:** 2/14/2006
+ **eVitamins last updated our privacy policy on:** 3/25/2009
