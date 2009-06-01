@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024909id_/http%3A//freewareweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602011945id_/http%3A//www.freewareweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewareWeb -> Privacy Statement
 
@@ -17,7 +17,7 @@ FreewareWeb does not sell, rent, loan, trade, or lease any personal information 
 FreewareWeb analyzes website logs to constantly improve the value of the materials available on website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site.
 
 [](https://web.archive.org/cgi-bin/go.pl?glb_bot)| **SPECIAL SALE - MASSIVE WEB HOSTING!**  
-Get 1000 GB of Web space, 1000 GB monthly download bandwidth, FTP, Frontpage, SQL, PHP, Perl, SSI, Web-based email, Live support and more. Don't miss out on this, get ONE YEAR of top notch hosting that includes all of the above for just ~~$7.95~~ $4.44 per month, with **NO set up fee AND a free domain**! Moreover, use exclusive [Globat coupon code](https://web.archive.org/coupons/?cpn=6) james1 and get _another month free_ on top of all that!  
+Get unlimited web space, unlimited monthly download bandwidth, FTP, Frontpage, SQL, PHP, Perl, SSI, Web-based email, Live support and more. Don't miss out on this, get ONE YEAR of top notch hosting that includes all of the above for just ~~$7.95~~ $4.44 per month, with **free set up AND a free domain**! Moreover, use exclusive [Globat coupon code](https://web.archive.org/coupons/?cpn=6) james1 and get _another month free_ on top of all that!  
 [Try it with full ONE YEAR money back guarantee today!](https://web.archive.org/cgi-bin/go.pl?glb_bot)  
 ---|---  
   
