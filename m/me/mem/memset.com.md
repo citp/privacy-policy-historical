@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624183253id_/http%3A//www.memset.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MEMSET Hosting : Privacy Policy
 
 #####  Memset have proved to be reliable and professional, with exceptional quality and speed of service and support.  
-Geoff Elwell, [Private Eye](https://web.archive.org/web/20080624183253id_/http%3A//www.memset.com/casestudies.php?study=privateeye&PHPSESSID=cb1947d1b203735d8054ef59b9bf74e2)
+Geoff Elwell, [Private Eye](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/casestudies.php?study=privateeye)
 
   
 
@@ -42,4 +42,4 @@ We use technology to track the patterns of behaviour of visitors to our site, an
 
 We reserve the right to pass on your personal information to any law enforcement agencies properly requesting it in connection with the commission of any offence once we are reasonable satisfied as to the circumstances surrounding the request.
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20080624183253id_/http%3A//www.memset.com/contact.php?PHPSESSID=cb1947d1b203735d8054ef59b9bf74e2).
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/contact.php).
