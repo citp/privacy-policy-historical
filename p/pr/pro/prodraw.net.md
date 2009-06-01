@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220145416id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602004459id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
 
 # ProDraw Graphics
 
@@ -10,8 +10,8 @@ We use your IP address to help diagnose problems with our server and to administ
 ******Cookies**  
 Our Site uses cookies to keep track of your shopping cart. 
 
-******Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+******Advertising Privacy**  
+We use third-party advertising companies([Google](http://www.google.com/privacy_ads.html) and [BurstMedia](http://www.burstmedia.com/)) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 ******Registration Forms** **/ Mailling List**  
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), and unique identifiers (like their social security number).
@@ -33,7 +33,7 @@ Unique identifiers (such as social security numbers) are collected from Web site
 This site contains links to other sites. **ProDraw Graphics** is not responsible for the privacy practices or the content of such Web sites.
 
 ******Special Relationships**  
-All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20081220145416id_/http%3A//www.prodraw.net/contact.htm). Thanks.
+All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20090602004459id_/http%3A//www.prodraw.net/contact.htm). Thanks.
 
 ******Public Forums**  
 This site makes public gallery, web site launch pad and guest book available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -45,4 +45,4 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 This site gives users the following options for changing and modifying information previously provided: 
 
 ******Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@prodraw.net](mailto:webmaster@prodraw.net).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster[at]prodraw.net.
