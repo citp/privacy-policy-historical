@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032614id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601073356id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Staff group - Mod DB
 
@@ -33,9 +33,13 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
+## Our Refund Policy
+
+All content on Mod DB is free to browse and consume. When products and services are available for sale, our refund policy shall be displayed on the payment page. If for any reason we are unable to dispatch your order or fulfil the service requested we will notify you within 2 business days and will provide a refund in this situation, should it be requested.
+
 ## Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 128bit SSL encryption.
 
 ## Our Commitment To Children's Privacy
 
@@ -55,4 +59,4 @@ This policy may be modified at any time at the sole discretion of the Provider. 
 
 Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.moddb.com/contact).
 
-Last Updated: Feb 20, 2007
+Last Updated: March 19, 2009
