@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509063607id_/http%3A//www.krystal.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601154530id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Krystal Hosting
+# Krystal Hosting Privacy Policy - UK cPanel & PHP/MySQL Web Hosting, Premium Web Hosting and Domain Names
 
-Krystal Solutions is committed to protecting the privacy of our customers and visitors. We follow the 8 guiding principles set down by the Data Protection Act (DPA) and as such any personal information submitted or data gathered at any Krystal Site is; - 
+Krystal Hosting is committed to protecting the privacy of our customers and visitors. Details of our privacy policy are outlined below. If you have any questions about our Data handling and Protection policy then don't hesitate to get in touch with our team and we will gladly answer your queries.
 
-**1.** Processed fairly and lawfully;
+## Privacy Policy
 
-**2.** Only collected for specified and lawful purpose(s) and is not processed in a manner that is incompatible with that purpose or purposes;
+  * **Data Protection Policy** Client details and any data gathered by Krystal is held in accordance with the Data Protection Act (DPA). Only internal staff have access to your data. We never sell or pass on your data to third parties. 
 
-**3.** Adequate, relevant and not excessive to the purpose for which it is being held;
+  * **Client Web Site Information** Clients acknowledge that the internet has a "world viewable" nature and accept sole responsible for the level of personal information displayed on their website(s). 
 
-**4.** Accurate and up to date;
+  * **Visitor Logging** As a visitor certain information will be recorded when you visit our sites. These include, but are not limited to; your ISP's domain, the time accessed and the pages visited. This is to analyse the web traffic and improve the delivery of content through our sites. Once again we never give away or sell this demographic information to third party companies or individuals. 
 
-**5.** Kept no longer than it needs to be; 
+  * **Email Communication** We communicatate electronically predominantly through e-mail using the email address provided at signup. Notifications for your account are sent to this address. We are obliged to provide this email address to Nominet and Enom (our registrars) for domain name purchases. 
 
-**6.** Processed in accordance to the rights of the person it applies to;
+  * **Traditional Communication** We keep your postal address and telephone number on file that you provided on signup for personal verification and to pass onto our domain registrars should you register a new domain or transfer an existing domain to your account. 
 
-**7.** Secure;
 
-**8.** Is not transferred outside of the European Economic Area (EEA) unless an adequate level of security can be guaranteed there;
 
-More information of the DPA, how it affect you, and your rights, can be found [here](http://www.dpr.gov.uk/).
 
-**Clients**  
-In accordance with the DPA, the information collected from customers when signing up is used for billing and administration purposes only and will be kept confidential. We NEVER pass on or sell your information to third parties. As a client, you have the right to view the data we have on record for you and ask that it is updated if it is inaccurate.
+## Important Points
 
-Clients acknowledge that the internet has a "world viewable" nature and accept sole responsible for the level of personal information displayed on their website(s)
+  * Accordance with DPA
+  * Your Information is protected
+  * Data is never passed on to 3rd parties
+  * SSL encryption for data protection
+  * Visitors to the web site are logged
+  * Personal details used for verification
 
-**Visitors  
-**As a visitor certain information will be recorded when you visit our sites. These include, but are not limited to; your ISP's domain, the time accessed and the pages visited. This is to analyse the web traffic and improve the delivery of content through our sites. Once again we never give away or sell this demographic information to third party companies or individuals.
+
