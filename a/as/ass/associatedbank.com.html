@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218091845id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2009-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601231421id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Associated Bank : Privacy</title>
@@ -297,9 +297,9 @@ function submitFrm(){
     </div>
     <div id="PageOptions">
         <ul>
-            <li>Search 
+            <li>Search
                 <form method="POST" action="/ResourceCenter/search.asp">
-				    <input id="txtSearchField" class="textbox" type="text" name="q" value="&nbsp;Need Answers?" maxlength="256" onfocus="this.value=''"> 
+				    <input id="txtSearchField" class="textbox" type="text" name="q" value="" maxlength="256"> 
 				    <input type="image" alt="click here to search" src="/images/pageElements/arrow.gif" id="btnSearchField" class="arrow">
 				    <input type="hidden" name="site" value="All">
 				    <input type="hidden" name="client" value="abc_new_dev">
@@ -313,7 +313,7 @@ function submitFrm(){
                 </form>
             </li>
             <!--li><a href="#" onclick="window.print();">Print Page</a> <input onclick="window.print();" type="image" alt="click here to print this page" src="/images/pageElements/arrow.gif"  id="btnPrintPage" class="arrow" /></li-->
-            <li><a id="btnPrintPage" class="arrow" href="/Security/Privacy.asp?print=true&amp;" style="vertical-align:bottom;" type="image" alt="click here to print this page">Print Page <img src="/images/pageElements/arrow.gif" border="0"></a></li>
+            <li><a id="btnPrintPage" class="arrow" href="/Security/Privacy.asp?print=true&amp;" style="vertical-align:bottom;" type="image" alt="click here to print this page">Print Page <img src="/images/pageElements/arrow.gif" border="0"></a></li>		
             <!-- Font size code <li id="FontSizes">Text Size <a href="" class="selected" style="font-size:11px">a</a> <a href="" style="font-size:14px">a</a> <a href="" style="font-size:18px">a</a></li> -->
         </ul>
     </div>
@@ -381,6 +381,8 @@ Throughout this communication we may use terms you are not familiar with, so ple
 <b>Nonpublic personal information </b>– Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
 </p><p>
 <b>Affiliate</b> – A company Associated Banc-Corp owns or controls.
+</p><p>
+<b>Consumer</b> – An individual who obtains or has obtained a financial product or service from us that is to be used primarily for personal, family or household purposes, or that individual's legal representative.
 </p><p>
 <b>Nonaffiliated third party</b> – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.
 </p><p>
@@ -478,7 +480,7 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 			            <option value="http://www.associatedbank.com/Security/CreditReport.asp">Credit Report</option>
 			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/RetirementCenter/PersonalTrustServices/RetirementSplash.asp">Retirement Plan</option>
 			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/RetirementCenter/PersonalTrustServices/AssocTrust.asp">Trust Portfolio</option>
-			            <option value="http://www.associatedbank.com/MyBrokerageAccount.asp">Brokerage Accounts</option>
+			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/BrokeragePersonalInvestmentServices/Brokerage-Online.asp">Brokerage Accounts</option>
 			            <option value="http://www.associatedbank.com/InvestorRelations.asp">Investor Relations</option>
                     </select>
 		            <span class="Go"><a href="#" onclick="submitFrm();">Go</a></span>       
@@ -584,7 +586,7 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 			
 					<li><img src="/images/imgeqlhous.gif" alt="Equal Housing Lender"></li>
 				
-            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC</a> and Associated Banc-Corp © 2008 Associated Banc-Corp All Rights Reserved.</li>
+            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC</a> and Associated Banc-Corp © 2009 Associated Banc-Corp All Rights Reserved.</li>
         </ul>
     </div>
 </div> 
@@ -637,10 +639,10 @@ goHere = what.options[what.selectedIndex].value
   if (document.apps.account.selectedIndex == 2 ){
 		document.appsStore.holder.value = document.apps.account.selectedIndex
 		CitiLeavingAlert(goHere)
-	}else if (document.apps.account.selectedIndex == 6 ){
-		document.appsStore.holder.value = document.apps.account.selectedIndex
-		AlertAIS()
-		window.open(goHere)
+//	}else if (document.apps.account.selectedIndex == 6 ){
+//		document.appsStore.holder.value = document.apps.account.selectedIndex
+//		AlertAIS()
+//		window.open(goHere)
 	}else if (document.apps.account.selectedIndex == 7 ){
 		document.appsStore.holder.value = document.apps.account.selectedIndex
 		LeavingAlert();
