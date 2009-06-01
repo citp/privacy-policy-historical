@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2008-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081022092430id_/http%3A//www.olsen-twins-news.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601063729id_/http%3A//www.olsen-twins-news.com/privacy) for the most accurate reproduction.*
 
-# Olsen Twins News - Privacy
+# » Privacy Statement » Olsen Twins NEWS © 2009
 
 ## Privacy
 
@@ -19,9 +19,11 @@ Olsen Twins News is not responsible for the content of external internet sites. 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads based on the sites you visit on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 **Cookies**
 
-A "cookie" is a small data text file that is placed in your browser and allows Olsen Twins News to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Olsen Twins News does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+A "cookie" is a small data text file that is placed in your browser and allows Olsen Twins News to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Olsen Twins News does not use cookies to collect personal information. 
 
 **Remember The Risks Whenever You Use The Internet**
 
@@ -29,4 +31,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information use the contact form [here](https://web.archive.org/contact-me/)
+For any other information use the contact form [here](http://www.olsen-twins-news.com/contact-me/)
