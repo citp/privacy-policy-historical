@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022445id_/http%3A//disinfo.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601150153id_/http%3A//disinfo.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Disinformation Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 **Effective Date: July 6, 2007**
 
-The Disinformation Company Ltd. (about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("Disinformation Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us [here](https://web.archive.org/web/20081216022445id_/http%3A//disinfo.com/catalog/contact.php)
+The Disinformation Company Ltd. (about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("Disinformation Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us [here](https://web.archive.org/web/20090601150153id_/http%3A//disinfo.com/catalog/contact.php)
 
 **Does Disinformation Ever Make Changes to its Privacy Policy?**
 
@@ -68,7 +68,7 @@ You may be able to access third party websites directly from the Website. This P
 
 **Under Thirteen.** The Disinformation Services are intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any Personal Information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13.
 
-**Thirteen to Seventeen.** Prospective users between the ages of 13 and 17 can only use the Disinformation Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at [here](https://web.archive.org/web/20081216022445id_/http%3A//disinfo.com/catalog/contact.php)
+**Thirteen to Seventeen.** Prospective users between the ages of 13 and 17 can only use the Disinformation Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at [here](https://web.archive.org/web/20090601150153id_/http%3A//disinfo.com/catalog/contact.php)
 
 **Can I Opt-Out From Receiving Communications From Disinformation?**
 
