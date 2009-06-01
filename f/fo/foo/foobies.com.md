@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20081229053141id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
@@ -37,7 +37,7 @@
 > 
 
 > 
-> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <http://cgi.fark.com/cgi/fark/feedback.pl?type=legal>
+> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <http://www.fark.com/cgi/feedback.pl?type=legal>
 > 
 > Fark, TotalFark, Foobies, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. 
 > 
