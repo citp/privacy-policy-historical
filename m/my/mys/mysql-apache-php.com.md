@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql-apache-php.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922114130id_/http%3A//www.mysql-apache-php.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql-apache-php.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601165746id_/http%3A//www.mysql-apache-php.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -30,5 +30,9 @@ This Web site contains links to other third party external sites. We are not res
 
 **Advertisers**  
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Bidvertiser and more... Please check their websites for respective privacy policies.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 We encourage our users to check back our privacy policy frequently as it may change from time to time. 
