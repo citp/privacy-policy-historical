@@ -1,35 +1,47 @@
-> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225050356id_/http%3A//www.iconarchive.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601193120id_/http%3A//www.iconarchive.com/service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Introduction
 
-This statement discloses the privacy practices for this website **Leo's Icon Archive**.  
-IconArchive.com respects the privacy and rights of its visitors. We collect no personally identifiable data, and therefore protect user privacy. No effort is made to identify individuals without their knowledge. Please read the following to learn more about our privacy policy. 
+This statement discloses the privacy practices for this website [**Icon Archive**](http://www.iconarchive.com/).  
+IconArchive.com respects the privacy and rights of its visitors. We do not collect personal identifiable data, and therefore protect user privacy. No effort is made to identify individuals without their knowledge. Please read the following to learn more about our privacy policy. 
 
-## Statistics
+## Visitor Stats
 
-**Internal Visitor Stats (www.1001stats.com)**  
-Visitor information (including IP addresses and referring URL information) is collected through our own domain www.1001stats.com. Incoming clicks (referring URL's) and outgoing clicks (combined with IP-Adresses to avoid double counts) are recorded to analyse traffic to affiliate partner sites. Cookies are used on www.1001stats.com only to track returning visitors, they are not used in any other way. 
+We are using two different web analytics services to improve and optimize our website.  
+Both services use cookies to track visitor behaviour. For further details please visit their privacy policies. 
 
-**External Visitor Stats (www.statcounter.com)**  
-IconArchive.com uses a free web counter service provided by StatCounter.com. Statistics collected by StatCounter include browser type, OS, country, host IP and screen resolution. StatCounter uses cookies to track visitors to this site. 
+  1. [Google Analytics](http://www.google.com/analytics/) ([Privacy Policy](http://www.google.com/privacy.html)) 
+  2. [Statcounter](http://www.statcounter.com/) ([Privacy Policy](http://www.statcounter.com/privacy.html)) 
+
+
 
 ## Ad Networks
 
-We let other companies show advertisement on our pages. They may set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. We use the following advertising networks. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please review their policies. 
 
-  * Burst! Media (www.burstmedia.com) 
-  * Casale Media (http://www.casalemedia.com/) 
-  * Google Adsense (https://adwords.google.com/select/) 
-  * Tribal Fusion (www.tribalfusion.com) 
-  * Valueclickmedia (http://www.valueclickmedia.com/) 
+We use the following advertising networks: 
+
+  * Burst! Media ([Privacy Policy](http://www.burstmedia.com/isl/privacy.asp)) 
+  * Casale Media ([Privacy Policy](http://www.casalemedia.com/privacy.html)) 
+  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html)) 
+  * Tribal Fusion ([Privacy Policy](http://www.exponential.com/who-we-are/privacy-policy.jsp)) 
+  * Valueclickmedia ([Privacy Policy](http://www.valueclickmedia.com/privacy.shtml)) 
 
 
 
-## External sites
+## Especially Google Adsense Privacy Policy
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+## Links to external sites
 
 This site contains links to other sites.  
 IconArchive.com is not responsible for the privacy practices or the content of such Web sites. 
 
-If you have any additional questions or concerns about this policy, please feel free to [contact](https://web.archive.org/service/contact.html) us. 
+If you have any additional questions or concerns about this policy, please feel free to [contact](https://web.archive.org/contact/) us. 
