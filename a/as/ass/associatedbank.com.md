@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091845id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601231421id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
 
 # Associated Bank : Privacy
 
@@ -36,6 +36,8 @@ Throughout this communication we may use terms you are not familiar with, so ple
 **Nonpublic personal information** – Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. 
 
 **Affiliate** – A company Associated Banc-Corp owns or controls. 
+
+**Consumer** – An individual who obtains or has obtained a financial product or service from us that is to be used primarily for personal, family or household purposes, or that individual's legal representative. 
 
 **Nonaffiliated third party** – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship. 
 
