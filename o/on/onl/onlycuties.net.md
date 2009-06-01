@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlycuties.net privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207123756id_/http%3A//www.onlycuties.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycuties.net privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601201858id_/http%3A//www.onlycuties.com/privacy) for the most accurate reproduction.*
 
 # OnlyCuties - Only hot cuties for you -
 
