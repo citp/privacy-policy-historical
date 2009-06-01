@@ -1,47 +1,33 @@
-> *The following text is extracted and transformed from the acnnewswire.com privacy policy that was archived on 2006-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060304190821id_/http%3A//www.acnnewswire.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnnewswire.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601154116id_/http%3A//www.acnnewswire.com/privacy.asp) for the most accurate reproduction.*
 
-# Asia Corporate News Network > Home ( DNN 3.2.2 )
+# ACN Newswire - Privacy Policy
 
-Asia Corporate News Network is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Asia Corporate News Network Web site and governs data collection and usage. By using the Asia Corporate News Network website, you consent to the data practices described in this statement.
+This statement discloses the privacy policies of the ACN Newswire website. ACN has adopted a set of information management guidelines, which serve as the basis for its customer relationships. Any changes to these guidelines will be posted here. 
 
-Collection of your Personal Information
+**What information does ACN Newswire gather or track?**
 
-Asia Corporate News Network collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Asia Corporate News Network also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+ACN Newswire requires that visitors supply personal information, including name, company name, telephone number and e-mail address, prior to receiving certain corporate news and information. ACN also logs IP addresses, browser information (including navigation history) and referral information in order to improve both the design and content of its website. 
 
-There is also information about your computer hardware and software that is automatically collected by Asia Corporate News Network. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Asia Corporate News Network for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Asia Corporate News Network Web site.
+**What does ACN Newswire do with the information it gathers?**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Asia Corporate News Network public message boards, this information may be collected and used by others. Note: Asia Corporate News Network does not read any of your private online communications.
+ACN Newswire and its representatives may follow up, either by e-mail, phone or mail, with people who have downloaded information or materials from its website. Using the e-mail addresses provided at registration, NCN periodically sends promotional e-mail about new products, product enhancements and special offers. Upon request, ACN will remove any subscriber (and their personal information) from its database, allow subscribers to "opt out" of further contact, or edit/correct subscriber personal information. 
 
-Asia Corporate News Network encourages you to review the privacy statements of Web sites you choose to link to from Asia Corporate News Network so that you can understand how those Web sites collect, use and share your information. Asia Corporate News Network is not responsible for the privacy statements or other content on Web sites outside of the Asia Corporate News Network and Asia Corporate News Network family of Web sites.
+**With whom does ACN share the information it gathers or tracks?**
 
-Use of your Personal Information
+ACN Newswire does not release personal information about individual subscribers to outside parties. However, ACN does share personal information with its customers and global offices for the purpose of providing users with high quality, localized service. This process often includes sending the personal information across international borders. ACN is not responsible for the content or the privacy policies of websites to which it is linked. 
 
-Asia Corporate News Network collects and uses your personal information to operate the Asia Corporate News Network Web site and deliver the services you have requested. Asia Corporate News Network also uses your personally identifiable information to inform you of other products or services available from Asia Corporate News Network and its affiliates. Asia Corporate News Network may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**What security procedures are in place to protect against the loss, misuse or alteration of information under the Company's control?**
 
-Asia Corporate News Network does not sell, rent or lease its customer lists to third parties. Asia Corporate News Network may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Asia Corporate News Network may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Asia Corporate News Network, and they are required to maintain the confidentiality of your information.
+ACN Newswire operates secure data Newswires protected by industry standard firewall and SSL systems. The Company's security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by users. 
 
-Asia Corporate News Network does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+**Advertisers and Other Third Parties**
 
-Asia Corporate News Network keeps track of the Web sites and pages our customers visit within Asia Corporate News Network, in order to determine what Asia Corporate News Network services are the most popular. This data is used to deliver customized content and advertising within Asia Corporate News Network to customers whose behavior indicates that they are interested in a particular subject area.
+ACN Newswire contains links to other sites. The Company is not responsible for the privacy practices or the content of such websites. ACN may use a third-party ad company to display ads on the website. These ads may contain cookies received with banner ads which are collected by the third-party ad company, and we do not have access to this information. The privacy practices of companies who provide services or ads through our site are not covered by this Privacy Policy. Please contact those companies directly for more information about their privacy practices. 
 
-Asia Corporate News Network Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Asia Corporate News Network or the site; (b) protect and defend the rights or property of Asia Corporate News Network; and, (c) act under exigent circumstances to protect the personal safety of users of Asia Corporate News Network, or the public.
+ACN Newswire makes every effort to ensure that personal information is treated securely and in accordance with the site's Terms of Use and this Privacy Policy. Unfortunately, the security of online data transmission cannot be guaranteed. As a result, while ACN strives to protect personal information, it cannot guarantee the security of information, and you use these services at your own risk. 
 
-Use of Cookies
+**Contacting the Website**
 
-The Asia Corporate News Network Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+ACN Newswire is published and maintained by Asia Corporate News Newswire ("ACN") K.K., a privately held and run company registered in Asia. For more information, or if you have any questions about this Privacy Policy, the practices of this site or your dealings with ACN, please contact us via e-mail at [info@acnnewswire.com](mailto:info@acnnewswire.com), by telephone at +1-866-599-7972, or by mail: Asia Corporate News Network K.K., 900 Euclid, Suite 405, Santa Monica, California, 90405, U.S.A. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Asia Corporate News Network pages, or register with Asia Corporate News Network site or services, a cookie helps Asia Corporate News Network to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Asia Corporate News Network Web site, the information you previously provided can be retrieved, so you can easily use the Asia Corporate News Network features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Asia Corporate News Network services or Web sites you visit.
-
-Security of your Personal Information
-
-Asia Corporate News Network secures your personal information from unauthorized access, use or disclosure. Asia Corporate News Network secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Changes to this Statement
-
-Asia Corporate News Network will occasionally update this Statement of Privacy to reflect company and customer feedback. Asia Corporate News Network encourages you to periodically review this Statement to be informed of how Asia Corporate News Network is protecting your information.
-
-Contact Information
-
-Asia Corporate News Network welcomes your comments regarding this Statement of Privacy. If you believe that Asia Corporate News Network has not adhered to this Statement, please contact Asia Corporate News Network at [webmechanic@telstra.com](mailto:webmechanic@telstra.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Last updated: January 2009 
