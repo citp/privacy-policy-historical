@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishingworks.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220132735id_/http%3A//www.fishingworks.com/siteinfo/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishingworks.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601085616id_/http%3A//www.fishingworks.com/siteinfo/PrivacyStatement) for the most accurate reproduction.*
 
 # privacystatement | Fishing Works
 
