@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926212718id_/http%3A//more4you.ws/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more4you.ws privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601115114id_/http%3A//more4you.ws/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Frank Bauer's More4you Blogletter
 
