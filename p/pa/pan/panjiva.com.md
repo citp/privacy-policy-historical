@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121002914id_/http%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjiva.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601065019id_/http%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.*
 
-# Panjiva – Privacy Policy
+# Privacy Policy — Panjiva
 
 Your privacy, and the privacy of all registered users of web sites that are part of the Panjiva service, is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.
 
