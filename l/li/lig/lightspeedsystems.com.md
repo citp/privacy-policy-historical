@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222030924id_/http%3A//www.lightspeedsystems.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601120653id_/http%3A//www.lightspeedsystems.com/about/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy — Lightspeed Systems
+# Privacy Policy – Lightspeed Systems
 
-**PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
+### Privacy Policy
 
 This site is owned and operated by Lightspeed Systems Inc. Your privacy on the Internet is of the utmost importance to us. At Lightspeed Systems, we want to make your online experience satisfying and safe.
 
@@ -27,7 +27,7 @@ In brief, Lightspeed Systems:
 
 Lightspeed Systems gathers information about websites and information about users of Lightspeed’s websites.
 
-We gather information about web sites because our software solutions include an integrated Internet Content Database, which is used to help manage student and employee access to Internet resources. The entries within this database are divided into distinguishing categories which help network administrators comply with Federal and State laws and community/school district standards for "appropriate" Internet access.
+We gather information about web sites because our software solutions include an integrated Internet Content Database, which is used to help manage student and employee access to Internet resources. The entries within this database are divided into distinguishing categories which help network administrators comply with Federal and State laws and community/school district standards for "appropriate" Internet access.
 
 To provide and maintain this database, it is imperative that we minutely examine, accurately evaluate and consistently categorize the content and nature of any and all websites that may be accessed by the students and staff of those institutions. Our methodologies for building and maintaining this public database of categorized entities (domains, businesses, free and fee services, informational websites, etc.) includes a thorough, automated and systematic review of ALL available public-content domains, including webservers, webpages, content files and linked websites addressed within those domains. We do not attempt to access and examine the content of secured addresses, and simply categorize the parent domain based upon the available ‘public’ content.
 
