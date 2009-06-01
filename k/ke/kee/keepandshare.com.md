@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepandshare.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162124id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepandshare.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601231412id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.*
 
 # KeepandShare - Privacy Policy
 
@@ -41,6 +41,6 @@ Thank you for your interest in using the online information sharing service oper
 **Questions.**  If you have any questions about this Privacy Policy, please feel free to contact us by e‑mail at [privacy@keepandshare.com](mailto:privacy@keepandshare.com).
 
 | www.KeepandShare.com  
-© Copyrights 2006-2008,  
+© Copyrights 2004-2009,  
 KeepandShare, All Rights Reserved  
 ---|---
