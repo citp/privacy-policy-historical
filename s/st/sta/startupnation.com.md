@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011856id_/http%3A//www.startupnation.com/pages/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601155753id_/http%3A//www.startupnation.com/pages/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,4 +51,4 @@ This Site is not intended for children under the age of 18. If you are under 18 
 
 ## CONTACT FOR PRIVACY INQUIRIES
 
-If you have any questions about this Privacy Policy please contact us at 1-866-55-START. 
+If you have any questions about this Privacy Policy please contact us at 1-866-597-8278. 
