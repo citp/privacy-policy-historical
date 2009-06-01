@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094731id_/http%3A//jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601140452id_/http%3A//www.jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Jonas Brothers Fan - The #1 Jonas Brothers Fansite
 
