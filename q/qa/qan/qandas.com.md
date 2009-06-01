@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qandas.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807114610id_/http%3A//www.qandas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qandas.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601052700id_/http%3A//www.qandas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Featured Q&As
 
@@ -21,6 +21,8 @@ Aggregated General Information: We may share aggregated general information abou
   * We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site. 
 
 
+
+We utilize Google Advertising on some pages. * Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy http://www.google.com/privacy_ads.html. 
 
 Correspondence: If you contact QandAs.com, we may keep a record of that correspondence and we may collect your email address. 
 
