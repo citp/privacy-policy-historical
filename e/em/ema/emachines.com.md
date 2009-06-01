@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518105743id_/http%3A//www.emachines.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emachines.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601112344id_/http%3A//www.emachines.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# eMachines Official Site: Privacy Policy
 
 Privacy Statement
 
@@ -24,7 +24,7 @@ We gather personal information from our customers so we can better develop our r
 
 We will proactively communicate with customers via e-mail or other online delivery devices to provide offers and information we believe will be of interest. Customers who no longer wish to receive these communications should inform us and we will remove their names from our mailing lists. Gateway will be judicious in the use of e-mail and paper mail to communicate with customer, putting ourselves in the place of the recipients of our mail and treating our customers as we ourselves would like to be treated. 
 
-Our Website shares usage information about site visitors with reputable third-party companies for targeting our Internet banner advertisements on this site and other sites, as well as for gathering aggregate information about site traffic and usage. For these purposes, we and our third-party companies note some of the pages you visit on our Website using pixel tags (also called clear gifs). The information collected by our third-party advertiser using these pixel tags is not personally identifiable. Some of the information collected by our third-party analytics provider may be personally identifiable; however, our provider is contractually precluded from selling, licensing or conveying any such information to any third party or from using that information in any way outside Gateway.s own privacy policy. [View more information](http://www.privacychoices.org/) about our third-party advertiser, or [opt out](http://www.privacychoices.org/optout.htm) of the targeting program. [View more information](http://www.omniture.com/global/privacy) about our third-party analytics provider, including how to opt out of the data collection. 
+Our Website shares usage information about site visitors with reputable third-party companies for targeting our Internet banner advertisements on this site and other sites, as well as for gathering aggregate information about site traffic and usage. For these purposes, we and our third-party companies note some of the pages you visit on our Website using pixel tags (also called clear gifs). The information collected by our third-party advertiser using these pixel tags is not personally identifiable. Some of the information collected by our third-party analytics provider may be personally identifiable; however, our provider is contractually precluded from selling, licensing or conveying any such information to any third party or from using that information in any way outside Gateway.s own privacy policy. [View more information](http://www.privacychoices.org/) about our third-party advertiser, or [opt out](http://www.privacychoices.org/optout.htm) of the targeting program. [View more information](http://www.omniture.com/privacy/) about our third-party analytics provider, including how to opt out of the data collection. 
 
 Notification of Changes
 
@@ -34,7 +34,7 @@ Order Information Privacy and Credit Card Security
 
 We currently use the Secure Sockets Layer (SSL) protocol to safeguard your information, including your credit card number, during online transactions. None of the tens of thousands of people, who have made purchases through Gateway's Website using SSL, have reported to us fraudulent use of their credit card as a result of their online order. We believe SSL to be a very safe encryption method, but we are always looking for even more secure encryption methods to safeguard information sent online. Our server will run detection software to help ensure you are using a secure browser and your information is secure when you check out. If our browser determines you are not using a secure browser, a message will appear at checkout. 
 
-For more information on SSL technology, read the Gateway [Privacy & Data Security](http://www.gateway.com/about/legal/ssl.shtml) policy page. 
+For more information on SSL technology, read the Gateway [Privacy & Data Security](http://www.gateway.com/about/legal/ssl.php) policy page. 
 
 To protect your information once your transaction is complete, Gateway stores your information on an off-line server stored securely behind our firewall. There is no external access to this information and its internal access is strictly monitored. 
 
@@ -46,7 +46,7 @@ Gateway helps ensure your protection by offering a safe shopping guarantee. Unde
 
 Cookies
 
-Gateway currently uses "cookies" on our site. Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site. To learn more about cookies, read [Gateway's Cookie Policy](http://www.gateway.com/about/legal/cookies.shtml). 
+Gateway currently uses "cookies" on our site. Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site. To learn more about cookies, read [Gateway's Cookie Policy](http://www.gateway.com/about/legal/cookies.php). 
 
 Contact Us
 
