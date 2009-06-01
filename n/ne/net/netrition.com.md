@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622012754id_/http%3A//www4.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601171228id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
-|  | 
+  
+
 
 ### Privacy Statement for Netrition
 
@@ -41,5 +42,3 @@ Netrition, Inc.
 25 Corporate Circle, Suite 118  
 Albany, NY 12203  
 Or [contact us online](http://www.netrition.com/cgi/feedback_form.cgi)
-
-|  | 
