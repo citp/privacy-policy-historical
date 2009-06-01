@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091233id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601061546id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.*
 
 # Home Improvement, Home Renovation, Tools, & Hardware | Home Depot Canada - Privacy & Security
 
@@ -67,27 +67,22 @@ More information for parents about our Kids Workshops can be obtained from your 
 
  **Personal Information Disclosure: Home Depot will not trade, rent or sell your personal information, without your prior consent, except as otherwise set out herein.**
 
-**Home Depot Financial Products:**
+  
+Home Depot uses Service Providers to offer financial products, such as the Home Depot Consumer Credit Card. We may share personal information about Home Depot consumers with these Service Providers in order to provide you with tailored information about products and services and special offers. These Service Providers also have their own privacy statement that sets out the manner in which they will collect, use and disclose personal information. We encourage you to review each Service Provider's privacy statement at the time you submit your application for such services.
 
-Home Depot uses Service Providers to offer financial products, such as the Home Depot credit card and home improvement loan. We may share personal information about Home Depot consumers with these Service Providers in order to provide you with tailored information about products and services and special offers. These Service Providers also have their own privacy statement that sets out the manner in which they will collect, use and disclose personal information. We encourage you to review each Service Provider's privacy statement at the time you submit your application for such services. 
-
-**Extended Warranty Services:**
-
+  
 If you purchase a Home Depot Extended Warranty Service you will be required to provide information such as your name and address to our warranty Service Provider. While these Service Providers are limited by contract in the way they may use your information to provide the Home Depot Warranty Services, we encourage you to review the Service Provider's privacy statement at the time you submit your personal information for such services. 
 
-**Companies that work with or on behalf of Home Depot:**
-
+  
 Some of our operations, such as our call centres and the employment application section of any of our Sites, may be managed by our Canadian, US and foreign Service Providers. Also, if you purchase installation services from Home Depot, these services may not be provided by Home Depot associates, but rather by reputable local or national Service Providers with which we contract to provide such services. These Service Providers may have access to your personal information on a confidential basis to the extent necessary to perform their functions. In no event will these companies have the right to use your personal information for any reason other than to provide you with those specific services, except as may be permitted by law. Information provided by you will be used by Home Depot and its Service Providers to learn about the experiences of our customers so that we may enhance our programs and improve our level of service.
 
 If your purchases are being shipped to you, we will share your shipping information on a confidential basis with our delivery Service Providers (U.S. Postal Service, Canada Post, or other delivery companies we or you select). Our delivery Service Providers are prohibited from using your personal information for any purpose other than making the delivery. 
 
-**Sale of Business:**
-
+  
 Home Depot reserves the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets to a third party acquirer. 
 
-**Legal:**
-
-Please note that Home Depot and our Service Providers must provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We may also disclose personal information to assist us in collecting a debt owed by you. Your personal information may be maintained and processed on our behalf by Home Depot US and our Service Providers who may be required to disclose information in accordance with applicable US or other foreign laws. 
+  
+Please note that Home Depot and our Service Providers must provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We may also disclose personal information to assist us in collecting a debt owed by you. Your personal information may be maintained and processed on our behalf by Home Depot US and our Service Providers who may be required to disclose information in accordance with applicable US or other foreign laws.
 
   
 You may request access to the personal information that we have about you. As a registered user with our Sites, you can access your profile information at any time by: 
@@ -134,17 +129,7 @@ We want to assure you that Home Depot is dedicated to protecting your privacy. Y
   * faxing us at 1-877-496-9470 
   * e-mailing us at [customercare@homedepot.com](mailto:customercare@homedepot.com)
   * accessing your registration information on our Sites 
-  * registering or changing your privacy preferences at [www.homedepot.com/privacypreferences](https://web.archive.org/web/20081217091233id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/PrivacyPreferencesDisplay?storeId=10051&catalogId=10051&langId=-15)
+  * registering or changing your privacy preferences at [www.homedepot.com/privacypreferences](https://web.archive.org/web/20090601061546id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/PrivacyPreferencesDisplay?storeId=10051&catalogId=10051&langId=-15)
   * writing us at the address below (please include your e-mail address and phone number with your correspondence along with the information needed to support your request): 
 
 
-
-Home Depot of Canada Inc.  
-Attention: Privacy Officer  
-900-1 Concorde Gate  
-Toronto, Ontario  
-M3C 4H9
-
-Pour la version française de la déclaration de confidentialité, voir [Déclaration sur la sécurité et la confidentialité](https://web.archive.org/web/20081217091233id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&catalogId=10051&langId=-16&display=cust_supp_privacy_faq). 
-
-Last updated: December 11, 2008. 
