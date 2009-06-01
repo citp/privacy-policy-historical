@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070244id_/http%3A//www.toshiba-europe.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601034545id_/http%3A//www.toshiba-europe.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Toshiba Europe Region Portal
 
