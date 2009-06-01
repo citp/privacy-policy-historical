@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216073556id_/http%3A//freeagentcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601035936id_/http%3A//www.freeagentcentral.com/website/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - FreeAgent Central
+# Privacy Policy - FreeAgent Central
+
+Maintaining your privacy is one of our core principles. You entrust us with sensitive financial information. We take that responsibility seriously.
 
 **Version 3.0:** This policy was last updated on 5th February 2008. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though. 
 
