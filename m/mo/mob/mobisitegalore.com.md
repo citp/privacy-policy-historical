@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914062140id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601033917id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Free mobile wap sites
 
