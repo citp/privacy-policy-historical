@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917063651id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601133026id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# STP Web Hosting: Privacy Policy
-
-| 
-
-  
-**Privacy Policy**
+# STPWebhosting.com :: VPS Hosting
 
 **Content:**
 
@@ -38,7 +33,7 @@ We collect client's information under assumption that the client is providing ne
 
 1\. Carry out and process financial transactions; during various financial transactions the information are provided to different payment gateways viz. LinkPointCentral.com, Verisign.com, 2checkout.com, BluePay.com; 
 
-2\. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 3\. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process; 
+2\. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 3. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process; 
 
 **Divulgence of Information :**
 
