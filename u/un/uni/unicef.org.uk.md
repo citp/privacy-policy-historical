@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919223224id_/http%3A//www.unicef.org.uk/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601100731id_/http%3A//www.unicef.org.uk/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # UNICEF UK Privacy Policy Statement: Privacy statement for www.unicef.org.uk: UNICEF UK
 
 1\. Statement of Intent
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters and competitions, live chats and message boards and personalised services such as "funding update". By entering your details in the fields requested, UNICEF UK will be able to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. UNICEF will act in accordance with current legislation and aim to meet current internet best practice. 
+From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters and competitions, live chats and message boards and personalised services such as "funding update". By entering your details in the fields requested, UNICEF UK will be able to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. UNICEF will act in accordance with current legislation and aim to meet current internet best practice.
 
 2\. Information on visitors
 
@@ -24,7 +24,7 @@ You have the right to request a copy of the personal information which UNICEF ho
 
 6\. Direct marketing and user surveys
 
-As UNICEF’s services expand, there will be more opportunities to enhance the services provided to you. From time to time we may provide you with details of other UNICEF services and products which may be of interest to you and offer you the opportunity to subscribe to them. We may also offer you the opportunity to participate in surveys carried out by UNICEF or its agents which help our research into the types of service we offer. UNICEF will keep a record of information provided by you. Please note that any information you provide to UNICEF will only be used within UNICEF, and will never be supplied to third parties without first obtaining your consent. The only time we may do so is if we are obliged by law to disclose information.
+As UNICEF’s services expand, there will be more opportunities to enhance the services provided to you. From time to time we may provide you with details of other UNICEF services and products which may be of interest to you and offer you the opportunity to subscribe to them. We may also offer you the opportunity to participate in surveys carried out by UNICEF or its agents which help our research into the types of service we offer. UNICEF will keep a record of information provided by you. Please note that any information you provide to UNICEF will only be used within UNICEF, and will never be supplied to third parties without first obtaining your consent. The only time we may do so is if we are obliged by law to disclose information. For any and all email transmitted information you will be provided with an unsubscribe mechanism. We will only send you by email information that you have opted to receive. Your email address will only be used for the sole purposes of communicating with you and not provided to other organisations.
 
 7\. Users under 18
 
@@ -33,5 +33,9 @@ If you are under 18, please make sure that you obtain your parent/guardian's per
 8\. Security
 
 No data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information UNICEF UK cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+9\. Fraudulent Online Activity
+
+UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our helpdesk in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our helpdesk on 0855 8012414 between 9.00am – 5.00pm from Monday to Friday, or you can email them at helpdesk@unicef.org.uk 
 
 For more information, please contact: [webmaster@unicef.org.uk](mailto:webmaster@unicef.org.uk)
