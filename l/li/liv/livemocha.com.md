@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524012316id_/http%3A//www.livemocha.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601192950id_/http%3A//www.livemocha.com/pages/privacy) for the most accurate reproduction.*
 
-# Livemocha: Privacy
+# Language Learning with Livemocha | Learn a Language Online - Free!
 
-Welcome to LiveMocha.com (“Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice.  LiveMocha.com is owned and operated by LiveMocha, Inc.  LIVEMOCHA, INC is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.  If you have specific questions about these practices, please contact us by email at postmaster@LiveMocha.com.
+Welcome to LiveMocha.com ("Site"), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice.  LiveMocha.com is owned and operated by LiveMocha, Inc.  LIVEMOCHA, INC is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.  If you have specific questions about these practices, please contact us by email at [support@livemocha.com](mailto:support@livemocha.com).
 
 ## 1\. Information Collected   
 
@@ -12,7 +12,7 @@ When you use LiveMocha.com, you may set up your personal profile, form relations
 
 You can choose not to provide this information to us, but in general some information about you is required in order for you to register and participate in the features offered through the Site.
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend an email inviting him or her to visit the site. LiveMocha.com may attempt to send invitations more than once. LiveMocha.com stores this information to send email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at postmaster@livemocha.com to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend an email inviting him or her to visit the site. LiveMocha.com may attempt to send invitations more than once. LiveMocha.com stores this information to send email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [support@livemocha.com](mailto:support@livemocha.com) to request that we remove this information from our database.
 
 We automatically collect some information about your computer when you visit the Site.  For example, we will collect your IP address, Web browser software (such as Netscape Navigator or Internet Explorer), and referring web site.  We also may collect information about your activity on this Site, such as the courses in which you enroll.  One of our goals in collecting this automatic information is to help improve your user experience.
 
@@ -50,51 +50,55 @@ We also may share aggregate or anonymous information with third parties, includi
 
 Please keep in mind that whenever you voluntarily disclose personal information online, that information can be collected and used by others.  By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
-## 5\. Access To Personal Information
+## 5\. Suggested Language Partners
 
-You may obtain a copy of any personal information about you that you provide through the Site or otherwise request that LIVEMOCHA, INC update or make changes to such personal information by sending an email to postmaster@LiveMocha.com.
+If you elect to let Livemocha suggest language partners, we will display a list of people who may be useful learning partners. This list is generated using only the information about languages you both speak and learn and your proficiency in each. You can choose whether or not to interact with these individuals; Livemocha does not take responsibility for the content or effects of these interactions.
 
-## 6\. Your Choices With Respect To The Collection and Use of Personal Information
+## 6\. Access To Personal Information
+
+You may obtain a copy of any personal information about you that you provide through the Site or otherwise request that LIVEMOCHA, INC update or make changes to such personal information by sending an email to [support@livemocha.com](mailto:support@livemocha.com).
+
+## 7\. Your Choices With Respect To The Collection and Use of Personal Information
 
 (a)    As noted above, you can choose not to provide LIVEMOCHA, INC with personal information, although it may be needed to register as a member on the Site and to participate in certain features offered through the Site.
 
-(b)   You can access or update your personal information by sending an email to postmaster@LiveMocha.com. 
+(b)   You can access or update your personal information by sending an email to [support@livemocha.com](mailto:support@livemocha.com). 
 
-(c)    You may stop the delivery of email communications by following the instructions accompanying a particular communication or by contacting us at postmaster@LiveMocha.com.
+(c)    You may stop the delivery of email communications by following the instructions accompanying a particular communication or by contacting us at [support@livemocha.com](mailto:support@livemocha.com).
 
 (d)   The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-## 7\. Security
+## 8\. Security
 
 While no web site can guarantee security, LIVEMOCHA, INC has implemented appropriate administrative, technical, and physical security procedures to help protect personal information.  For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions.
 
-## 8\. Children Under 13
+## 9\. Children Under 13
 
-As noted above, the Site is not intended for use by children.  Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that the Site is not intended for children under the age of 13 and we will delete that information from our records.  If you believe that we might have any information from or about a child under 13, please contact us at postmaster@livemocha.com
+As noted above, the Site is not intended for use by children.  Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that the Site is not intended for children under the age of 13 and we will delete that information from our records.  If you believe that we might have any information from or about a child under 13, please contact us at [support@livemocha.com](mailto:support@livemocha.com).
 
-## 9\. Third Party Websites
+## 10\. Third Party Websites
 
 Web sites to which this Site links do not operate under this Privacy Policy.  We recommend that you examine the privacy statements posted on those other web sites to understand their procedures for collecting, using, and disclosing personal information. 
 
-## 10\. Third Party Advertising
+## 11\. Third Party Advertising
 
 Advertisements that appear on LiveMocha.com are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. LiveMocha.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on LiveMocha.com unless you choose to share it with them. 
 
 This privacy policy covers the use of cookies by LiveMocha.com and does not cover the use of cookies or other tracking technologies by any of its advertisers.
 
-## 11\. Changes To This Privacy Policy
+## 12\. Changes To This Privacy Policy
 
 LIVEMOCHA, INC may update this Privacy Policy in the future to reflect changes in our privacy practices, our website functionality, or applicable legislation, so please check back often.  We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Site. 
 
-## 12\. How You Can Contact Us
+## 13\. How You Can Contact Us
 
-If you have questions about this privacy policy, please e-mail us at postmaster@LiveMocha.com.  You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at privacyofficer@livemocha.com or writing to:
+If you have questions about this privacy policy, please e-mail us at [support@livemocha.com](mailto:support@livemocha.com).  You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at privacyofficer@livemocha.com or writing to:
 
 LiveMocha, Inc – Privacy Officer
 
-1220, 116th Ave NE, #200, 
+11000 33rd NE #305
 
-Bellevue, WA 
+Bellevue, WA
 
 98004
 
