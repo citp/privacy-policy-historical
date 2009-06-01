@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022414id_/http%3A//www.t-shirtforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601171648id_/http%3A//www.t-shirtforums.com/privacy.php) for the most accurate reproduction.*
 
 # T-Shirt Forums Privacy Policy
 
@@ -30,7 +30,13 @@ Our Site uses cookies to make sure you don't see the same ad repeatedly. We also
 ####    
 Advertisers 
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Our site serves ads by our own advertising software as well as third party ads. We may use an outside ad company, such as Google, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the DART cookie enables it to serve ads to you based on their visit to our site and other sites on the internet
+  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy page](http://www.google.com/privacy_ads.html).
+
+
 
 ####    
 Registration Forms
