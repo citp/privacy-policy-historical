@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609143142id_/http%3A//www.army.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601172516id_/http%3A//www.army.com/privacy.html) for the most accurate reproduction.*
 
-# Army.com - Privacy Policy
+# Army.com - Advertising
 
 Activv recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. 
 
@@ -26,6 +26,8 @@ Activv may use aggregate, non-personally identifying information for purposes th
 
 It is possible that in the future Activv or its assets may be acquired by another company. It is also possible that Activv may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information may be transferred to the new business entity as one of Activv’s assets. 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
+
 While extremely rare, it is our policy to cooperate with law enforcement or other official investigations if we receive an official request for information pertaining to an on-going investigation. 
 
 You may request deletion of your Activv account by contacting Customer Service at customerservice@activv.com. Please note that some information may possibly remain in our archived records after your account has been deleted. 
@@ -40,5 +42,5 @@ USA
 
 **Changes to this Privacy Policy:**
 
-This privacy policy was last modified on May 1, 2004. Activv may revise this policy from time to time. If we make substantial changes, we will post those amendments so that you are aware of the changes.   
+This privacy policy was last modified on March 13, 2009. Activv may revise this policy from time to time. If we make substantial changes, we will post those amendments so that you are aware of the changes.   
 
