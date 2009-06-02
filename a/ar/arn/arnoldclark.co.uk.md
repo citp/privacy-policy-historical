@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502005156id_/http%3A//www.arnoldclark.co.uk/privacy_policy.html%3Bjsessionid%3D0C37E173A71EC5B70CD19B2B62EBE42A) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602091409id_/http%3A//www.arnoldclark.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
