@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the telstra.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042011id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telstra.com.au privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602024932id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Telstra
 
-## Privacy Statement (Telstra Corporation Limited)
+## Telstra Corporation Limited
 
 ### Protecting your privacy
 
@@ -34,7 +34,7 @@ We collect personal information in a number of ways, including:
   * from publicly available sources of information; 
   * from the organisations identified under 'When we disclose your personal information'; 
   * from our own records of how you use your Telstra services; 
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/web/20081216042011id_/http%3A//www.telstra.com.au/privacy/information.htm); or 
+  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/web/20090602024932id_/http%3A//www.telstra.com.au/privacy/information.html); or 
   * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000. 
 
 
@@ -85,7 +85,7 @@ We take reasonable steps to ensure that these organisations are bound by confide
   * our related companies; 
   * our professional advisers, including our accountants, auditors and lawyers; 
   * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes); 
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/web/20081216042011id_/http%3A//www.telstra.com.au/privacy/information.htm); 
+  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/web/20090602024932id_/http%3A//www.telstra.com.au/privacy/information.html); 
   * government and regulatory authorities and other organisations, as required or authorised by law; and 
   * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation). 
 
@@ -110,9 +110,9 @@ We reserve the right to charge a fee for searching for and providing access to y
 
 ### How to contact us
 
-If you have any questions in relation to privacy, please contact us on 1800 039 059 between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to our Privacy Manager at Locked Bag 5782, Melbourne, VIC 8100 or by sending an email to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
 
-You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/web/20081216042011id_/http%3A//www.telstra.com.au/privacy/index.htm). 
+You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/web/20090602024932id_/http%3A//www.telstra.com.au/privacy/index.html). 
 
 Telstra Privacy Statement March 2008  
 Telstra Corporation Limited ABN 33 051 775 556  
