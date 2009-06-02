@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011121608id_/http%3A//operationdropship.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602233844id_/http%3A//operationdropship.com/support/privacy) for the most accurate reproduction.*
 
-# Operation Drop Ship - Privacy
+# Privacy Policy
 
 ## PRIVACY POLICY
 
-_Last updated January, 2006._
+_Last updated February, 2008._
 
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY FOR UPDATES.
 
