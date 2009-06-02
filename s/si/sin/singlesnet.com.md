@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108112943id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlesnet.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602170052id_/http%3A//www.singlesnet.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy%26PHPSESSID%3D1b6fac77b943e4638b5c8398627f2ddd) for the most accurate reproduction.*
 
 # Singlesnet.com - privacy policy
 
