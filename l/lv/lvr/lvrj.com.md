@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223061426id_/http%3A//www.reviewjournal.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603010750id_/http%3A//www.reviewjournal.com/about/privacy.html) for the most accurate reproduction.*
 
 # reviewjournal.com -- About
 
@@ -22,7 +22,7 @@ First, our Web server recognizes automatically I.P. (Internet Protocol) addresse
 
 Second, we may require users to voluntarily register in order to access features of the site, become members, to request certain features, to request subscriptions or to make purchases, such as editorial or other archives.  Users may also volunteer information when they participate in contest and sweepstakes, chat rooms and other interactive areas of our site.  We use the information we collect to improve the content of our site, customize content, notify users and consumers about updates to our site and provide support for internal operations as well as contact users and consumers for marketing purposes. 
 
-We will disclose, when legally required to do so, at the request of governmental authorities conducting an investigation, information about users.  We also disclose information to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website or when use may be harmful to reviewjournal.com.  We may combine information from many users to determine usage patterns.
+We will disclose, when legally required to do so, information about users.  We also disclose information to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website or when use may be harmful to reviewjournal.com.  We may combine information from many users to determine usage patterns.
 
 **_Registration_**
 
