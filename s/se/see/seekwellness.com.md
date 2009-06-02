@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085136id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602072106id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -28,7 +28,7 @@ Q. **What should you look for in a privacy policy?**
 
   1. Make sure it's easy to understand. If you have trouble understanding it, chances are the website doesn't want you to know what it does with your information. 
 
-_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20081217085136id_/http%3A//www.seekwellness.com/%3C?php%20print\(relativelink\(%27emailform.htm%27\).%27?t=audaev1dhw1d44skkkkks48sw%27\)?)._
+_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20090602072106id_/http%3A//www.seekwellness.com/emailform.htm?t=dln66uv4vzra0wow408sow8gg)._
 
   2. Check to see that the website includes an opt-in or opt-out option for registered visitors. Opt-in means that you have the right to choose if and when your information is released to others. Opt-out means that your information will be shared with others until you specifically request that it not be. If there is a choice listed, check its wording to see if the default setting is opt-out and you have to do something to stop the website from sharing your information. At that point, look at how difficult the website makes it for you to opt-out. 
 
@@ -89,33 +89,49 @@ _SeekWellness Response: If and when SeekWellness shares information about you wi
 
 _SeekWellness uses WebTrends Live software to track visitor traffic to and on the website. Please read the[WebTrends Privacy Policy](https://ondemand.webtrends.com/privacypolicy.asp#PSFV); you should refer to the WebTrends Live Privacy Policy to learn how they collect and use information. WebTrends Live fully complies with applicable law; and protects privacy in a manner consistent with the principles of an industry-approved privacy certification program._
 
-  8. The website should describe its security system for storing your personal information including encryption software, if used, passwords, physical storage characteristics, and the personnel policies that determine who has access to your information within the organization. 
+ _SeekWellness uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/).  
+_  
+ _SeekWellness uses the **Google AdSense** program to serve ads. Google makes these statements about information it collects for this program from its users:
 
-_SeeWellness Response: SeekWellness encrypts all passwords and keeps its database behind a firewall in its own directory. This allows SeekWellness to filter out and prevent all but specific types of information from entering or leaving the server and database._
+"We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. “Aggregated non-personal information” is information that is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. Publishers who use Google products on their websites must notify their users of the use of cookies and/or web beacons to collect data in the ad serving process.
 
-_Furthermore, for the purposes of e-commerce, the website uses SSL (Secure Socket Layer) as a protocol:_
+_
+
+ _The_ _[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)_ _is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.  _
+
+    * _Google's use of the DART cookie enables it to serve ads to our users based on their visit to  SeekWellness and other sites on the Internet.   
+_
+    * _Users may opt out of the use of the DART cookie by visiting the_[ _Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html) _.  
+_  
+
+  8. The website should describe its security system for storing your personal information including encryption software, if used, passwords, physical storage characteristics, and the personnel policies that determine who has access to your information within the organization.  
+ _  
+SeeWellness Response: SeekWellness encrypts all passwords and keeps its database behind a firewall in its own directory. This allows SeekWellness to filter out and prevent all but specific types of information from entering or leaving the server and database._ F _urthermore, for the purposes of e-commerce, the website uses SSL (Secure Socket Layer) as a protocol:_
+
+
 
     * _to authenticate that both the users and website are who they say they are_
     * _to insure that data is transferred without being tampered with_
     * _to encrypt data during transfer so that only the intended recipient can read it._
 
+
+
 _The SeekWellness server is located with Electronic Consultants, Inc and is physically stored in a special locked room with cameras and security guards that check visitors in and out of the room. Everything is tracked and only specific individuals have access to the physical machine - SeekWellness' Internet Manager and representatives of Electronic Consultants, Inc where the machine is housed.  _
 
-  9. The existence of a seal from TRUSTe or other such entities does not necessarily mean that the website has adequate privacy protection. There are many examples of websites using these seals that have poor or inadequate privacy policies. You are your own best resource for protecting your privacy. 
+  1. The existence of a seal from TRUSTe or other such entities does not necessarily mean that the website has adequate privacy protection. There are many examples of websites using these seals that have poor or inadequate privacy policies. You are your own best resource for protecting your privacy. 
 
 _SeekWellness Response: SeekWellness would rather have an agreement with its visitors to provide reasonable safeguards in storing and using their information than an agreement with a privacy organization that does not police websites about privacy issues._
 
-  10. Email messages sent to any website are not usually secure - do not send confidential information via email to anyone unless you are using a secure server. 
+  2. Email messages sent to any website are not usually secure - do not send confidential information via email to anyone unless you are using a secure server. 
 
 
 
-_Effective January 1, 2001_ , _last updated August 15, 2005_  
+_Effective January 1, 2001_   
+_Last updated  March 12, 2009_  
 
 
 ### Resources
 
-> [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm), information about safe travel on the Internet from the Federal Trade Commission 
-> 
 > [The Privacy Journal](http://www.privacyjournal.net/bio.htm)
 
 
