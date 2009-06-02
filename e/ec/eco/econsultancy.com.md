@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093452id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602071921id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
 
-# Econsultancy | Privacy Policy
+# Privacy Policy | About | Econsultancy
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 Econsultancy is committed to protecting and respecting your privacy. This privacy policy is based on the guidelines laid out by the TRUSTe Privacy Program and as required by the UK Data Protection Acts of 1984 and 1998. Econsultancy is a Licensee of TRUSTe's privacy program. TRUSTe is a non-profit organisation dedicated to building trust in the Internet by having member organisations disclose information practices.
 
-TRUSTe operates as a third-party "watchdog" by auditing privacy practices to make sure that they are in compliance with TRUSTe's privacy standards. In as far as this represents best practice on the web, Econsultancy is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. If you have questions or concerns regarding this statement, you should first contact Econsultancy, via our contact form. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Econsultancy to resolve your concerns.
+[](http://www.truste.org/ivalidate.php?url=econsultancy.com&sealid=101) TRUSTe operates as a third-party "watchdog" by auditing privacy practices to make sure that they are in compliance with TRUSTe's privacy standards. In as far as this represents best practice on the web, Econsultancy is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. If you have questions or concerns regarding this statement, you should first contact Econsultancy, via our contact form. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Econsultancy to resolve your concerns.
 
 This document discloses the data protection and privacy practices for Econsultancy including:
 
@@ -22,7 +22,7 @@ This document discloses the data protection and privacy practices for Econsultan
 
 
 
-Questions regarding this privacy policy should be directed to Econsultancy via our [contact form](https://web.archive.org/about/contact).
+Questions regarding this privacy policy should be directed to Econsultancy via our [contact form](https://web.archive.org/contact).
 
 ## Table of Contents
 
@@ -150,10 +150,10 @@ The TRUSTe program covers only information that is collected through this Web si
 
 ### 12\. Mailing Address
 
-Telephone | +44 (0)20 7681 4052  
+Telephone | +44 (0)20 7269 1450  
 ---|---  
-Office address |  Lemon Studios  
-2nd Floor  
-85 Clerkenwell Road  
+Office address | 4th Floor, The Corner  
+91-93 Farringdon Road  
 London  
-EC1R 5AR 
+EC1M 3LN  
+United Kingdom
