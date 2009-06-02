@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012044id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603013422id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.*
 
 # Monster Cable - Privacy Policy
 
