@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2008-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081207025919id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603013049id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
-# India Travel Guide, India Tourism & Travel Tips:Must See India
+# India Travel Guide, India Tourism & Travel Tips, privacy:Must See India
 
-Privacy Policy
+## Privacy Policy
 
 This Policy covers the treatment of personally identifiable information collected by www.mustseeindia.com, ("MSI"), when you access the website MSI . This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to MSI in any other context. By accessing the MSI website or any website of the Company, you are consenting to the information collection and use practices described in this Policy. 
 
@@ -35,12 +35,17 @@ c. We respond to requests from any Indian or foreign government, security, defen
 d. If required to do so by law or in the good faith belief that such action is necessary to conform to / reply to any court orders / legal process / summons served on MSI 
 
 **Usage by our partners**   
-We may from time to time engage external agencies to provide certain services on our behalf. These services may range from sending dispatches by mail, co-ordination of feedback, delivery of prizes (if any) etc. These external agencies are obligated to us in terms of confidentiality agreements and will be provided the personal information strictly on a need to know basis. 
+We may from time to time engage external agencies to provide certain services on our behalf. These services may range from booking of any service offered on this website, sending dispatches by mail, co-ordination of feedback, delivery of prizes (if any) etc. These external agencies are obligated to us in terms of confidentiality agreements and will be provided the personal information strictly on a need to know basis. 
 
 **Collection of information by third parties**   
 MSI may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain information that you voluntarily submit to participate in the activity. We have no control over these third parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices. 
+
+**Advertisement**   
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 **Amendment of this policy**   
 MSI may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on ____". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure. 
 
 If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by clicking [here](http://www.mustseeindia.com/contact). 
+
+_Revised on Mar 13, 2009_
