@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2008-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081215111008id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602100848id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # New York Life Online Privacy Policy
 
@@ -43,10 +43,10 @@ New York Life P.O. Box 6916 Cleveland, OH 44101
 
 * The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
 
-New York Life Insurance Company | NYL Executive Benefits LLC  
+New York Life Insurance Company | McMorgan Funds  
 ---|---  
 NYLife Insurance and Annuity Corporation | McMorgan & Company LLC  
-New York Life International, Inc. | McMorgan Funds  
+New York Life International, Inc. | NYL Executive Benefits LLC  
 NYLife Investment Management LLC | New York Life Retirement Plan Services  
 Eagle Strategies LLC | New York Life Trust Company  
 Eclipse Funds | NYLIFE Distributors LLC  
