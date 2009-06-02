@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxinus.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019153343id_/http%3A//www.boxinus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxinus.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603001100id_/http%3A//boxinus.com/privacy.aspx) for the most accurate reproduction.*
 
 # www.boxinus.com
 
