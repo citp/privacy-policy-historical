@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204102458id_/http%3A//www.sellathon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602085320id_/http%3A//www.sellathon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sellathon
 
-  
+|    
 **This privacy statement discloses the types of information we gather, how we use it and how to correct or change it.**
 
 **What personal information we collect**
@@ -60,4 +60,4 @@ In the event that Sellathon merges or is acquired by another company, all curren
 All questions, comments and concerns can be submitted via email at info@Sellathon.com. You will receive an answer as soon as possible.
 
   
-
+| 
