@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218005527id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602021130id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
 # CPAP Machines and CPAP Masks for the Treatment of Sleep Apnea
 
@@ -63,6 +63,8 @@ We provide an opt-in Newsletter that is delivered through email to users who hav
 It is customary for CPAP.com to send out emails or use other communications to contact you regarding your orders on CPAP.com. For example, when you place an order with CPAP.com, we send out an order confirmation via email and a shipping confirmation once shipped. These types of communications are necessary and required in the normal course of transacting with CPAP.com and are not optional. By definition these types of emails are known as transactional emails. 
 
 CPAP.com may also from time to time contact its customers for various reasons such as customer surveys, product replacement reminders, user reviews, special promotions concerning products and services we offer, or very important news, legal notices, or other information that could affect our customers. If you do not wish to receive these types of communications you may contact us directly by phone or email to change your Communication Preferences. 
+
+Inbound phone calls to the CPAP.com phone numbers 1-800-356-5221, 713-351-3414 or other phone numbers used in CPAP.com marketing and promotions, may be monitored or recorded for training or quality assurance purposes. When you call a CPAP.com phone number, a recorded disclosure states "This call may be monitored or recorded for training or quality assurance purposes." By staying on the phone call after the recorded disclosure, you are hereby granting your consent for the call to be recorded.
 
 **Protecting Your Account**  
 The password you choose is indispensable to access your account. Use a combination of unique identifiers (letters, numbers, and characters), and do not give away your CPAP.com password to anybody. If for some reason you decide to give away your password or your personal information to others, be aware that you are accountable and liable for any and all activity executed under your account. If your password is compromised, you may lose considerable authority over your personal information and may be subject to legally binding actions taken on your behalf. Accordingly, if for any reason you have revealed or lost control of your password, then you should notify CPAP.com and change your password without delay. 
