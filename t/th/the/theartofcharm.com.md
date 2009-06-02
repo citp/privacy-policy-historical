@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofcharm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023335id_/http%3A//www.theartofcharm.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofcharm.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602063245id_/http%3A//www.theartofcharm.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | The Art of Charm
 
@@ -23,6 +23,10 @@ We may provide access to your Personal Information when legally required to do s
 **Links.** Our Web site and subscriber e-mails contain links to third party sites. Please be aware that we are not responsible for the privacy practices of any third party sites. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by this Web Site.
 
 **Notification of Changes.** We reserve the right to change this Privacy Policy at any time by posting revisions on our Web Site. This Privacy Policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party. If we are going to use your information in a manner different from that stated at the time of collection we will provide you with a choice as to whether or not we use your information in this different manner. Please periodically check this page for information about revisions to this Privacy Policy.
+
+**Program Registration.** Your deposit is non refundable at all times. Any monies retained by The Art of Charm, can be used as a credit towards future programming for up to one year from deposit date.
+
+**Guarantee.** Our 100% money back guarantee is subject to completion of registered program in its entirety. If after the conclusion of your program you are not totally satisfied with your ability to apply our teachings and methods, and you have in good faith made a valiant effort to learn and apply them, we will then review the circumstances to determine if you are entitled to a refund.
 
 **Contacting Our Web Site.** If you have any questions about our Privacy Policy, the practices of our web site, or your dealings with our web site, you may contact us at the address listed below.
 
