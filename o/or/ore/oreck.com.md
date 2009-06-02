@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226054224id_/http%3A//www.oreck.com/customer-service/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602205039id_/http%3A//www.oreck.com/customer-service/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Oreck customer service, Oreck.com online privacy policies
 
@@ -21,8 +21,6 @@ Preference and options configurations in your browser determine if and how a coo
 We use third-party advertising companies to serve ads on sites on which we advertise. These third-parties use so-called Web beacons (also known as "clear-gifs") to gather non-personal information from visitors to our sites, such as pages viewed and information related to clicking through the ads. These third parties may also place a unique third-party cookie or cookies as a text file in your Internet browsing history files. In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To "opt-out", please click here <<http://www.atlassolutions.com/privacy>>. At no time will Oreck.com or its third party advertisers use Web beacons or cookies at the Oreck.com site to collect any personal information from you without your prior consent.
 
 **The Way We Use Information**  
-We do not sell or rent personally-identifying information collected during your use of our Website without your permission.
-
 We use non-personally-identifying information we collect at our site to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
 
 We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We may ask you to provide us voluntarily with additional information regarding your personal or business interests, experience or requests, which we may use to customize our service for you.
