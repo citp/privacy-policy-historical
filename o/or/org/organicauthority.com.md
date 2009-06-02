@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131013id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603011306id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Organic Food, Organic Living - OrganicAuthority.com
+# Privacy Policy
 
 This is the web site of **OrganicAuthority.com**.
 
@@ -8,7 +8,7 @@ Our postal address is
 **9190 Olympic Blvd. 305  
 Beverly Hills, CA 90034**
 
-We can be reached via e-mail at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy32803%20=%20'liveorganic'%20+%20'@';%20addy32803%20=%20addy32803%20+%20'organicauthority'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy32803%20+%20'\\'%3E'%20\);%20document.write\(%20addy32803%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20Javascript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[liveorganic@organicauthority.com](mailto:liveorganic@organicauthority.com)  
+We can be reached via e-mail at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy60176%20=%20'liveorganic'%20+%20'@';%20addy60176%20=%20addy60176%20+%20'organicauthority'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy60176%20+%20'\\'%3E'%20\);%20document.write\(%20addy60176%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[liveorganic@organicauthority.com](mailto:liveorganic@organicauthority.com)   
 or you can reach us by telephone at 310-694-8306
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -48,3 +48,6 @@ This website contains links to and from other websites. Please be aware that we 
 We do not provide site visitors with access to information that we have collected and that we maintain about them.
 
 Access to this website and its content is provided without charge to users “AS IS” and without warranty of any kind. We shall bear no responsibility or liability for any damages of any kind arising out or in connection with, the use copying or display of content from this website. 
+
+|  [< Prev](http://www.organicauthority.com/lime-test.html?catid=) |    |  [Next >](http://www.organicauthority.com/404.html?catid=)  
+---|---|---
