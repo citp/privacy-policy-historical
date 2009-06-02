@@ -1,29 +1,53 @@
-> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040200id_/http%3A//www.growingtreetoys.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602193815id_/http%3A//www.growingtreetoys.com/customer-service-security.html) for the most accurate reproduction.*
 
-# Growing Tree Toys - privacy and security
+# Customer Service - Security
 
-Growing Tree Toys only uses the personal information provided from customers to notify them of Growing Tree Toys news, services and activities. Growing Tree Toys will hold all information securely and will not disclose anything except for the above-stated purpose or when required by law. Customers may inspect and update account details at any time. Any customer that does not wish to hear from Growing Tree Toys for any reason should email the request to [privacy@growingtreetoys.com](mailto:privacy@growingtreetoys.com). 
+[Home](http://www.growingtreetoys.com/) » Customer Service - Security 
 
-Growing Tree Toys is committed to protecting the privacy and security of customers and their personal information. The only uses of the information collected is for Growing Tree Toys to service orders and make improvements to the website to better serve customers. Please review the following policy information to learn how Growing Tree Toys protects all customers' personal information. Please contact Growing Tree Toys with any questions at [privacy@growingtreetoys.com](mailto:privacy@growingtreetoys.com). 
+**PRIVACY POLICY  
+TERMS AND CONDITIONS**  
+  
+**PRIVACY POLICY**  
+Growing Tree Toys is committed to protecting the privacy and security of customers and their personal information by holding all customer information securely. The only uses of the information collected is for Growing Tree Toys to service orders and make improvements to our website to better serve our customers. Please review the following policy information to learn how Growing Tree Toys protects all customers' personal information.
 
-**How does Growing Tree Toys protect customer information?**
+**How does Growing Tree Toys protect customer information?**  
+When placing an order at Growing Tree Toys, personal information is encrypted using SSL (Secure Sockets Layer) technology and is then transmitted over a secure server. To verify SSL technology and security, Growing Tree Toys posts a VeriSign Secure Seal throughout the site. Simply click on the seal for proof of SSL technology and a secure ordering environment.
 
-When placing an order with Growing Tree Toys through the web site, personal information is transmitted over a secure server. All online transactions with Growing Tree Toys automatically take place on a secure server. Growing Tree Toys encrypts all information prior to transmitting by using SSL technology. As an added measure of security for credit information, Growing Tree Toys does not retain credit card numbers once an order is processed. 
+**What information is being collected by Growing Tree Toys?**  
+All customers browse the Growing Tree Toys website anonymously. Only when a customer places an order does Growing Tree Toys need to know customer information such as name, email address, mailing address, credit card number, and expiration date. This information allows Growing Tree Toys to process and fulfill orders, as well as notify customers of order status. Growing Tree Toys does not collect personal or business information, unless visitors share this information voluntarily.
 
-**What information is being collected by Growing Tree Toys?**
+**Does Growing Tree Toys offer a Safe Shopping Guarantee?**  
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of unauthorized charges. If your bank does hold you liable for any of this $50, Growing Tree Toys will cover the entire liability for you, up to the full $50 – so Growing Tree Toys customers don’t owe a dime! Please note, in the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures first.
 
-All customers browse the Growing Tree Toys web site anonymously. Only when a customer orders product does Growing Tree Toys need to know name, email address, mailing address, credit card number, and expiration date. This information allows Growing Tree Toys to process and fulfill orders, as well as notify customers of order status. 
+**Does Growing Tree Toys use cookies?**  
+Like most ecommerce sites, Growing Tree Toys makes use of a browser-safe technology known as a “cookie” to better serve customers. A cookie is a small amount of data that a website puts on your hard drive so that it can remember something about you at a later time. For instance, Growing Tree Toys cookies keep track of the items in your cart for checkout! We are very committed to your privacy and does not analyze this data on the personal level, and this information remains totally anonymous.
 
-Growing Tree Toys does not collect personal or business information, unless visitors share this information voluntarily. Growing Tree Toys will use information collected from customers, with their permission, in order to assess interest in the products and services provided on the web site. This collected information will help Growing Tree Toys better serve customers. 
+Cookies also provide information to help us continually improve the shopping experience for customers! Among other things, this non-personally identifiable information allows Growing Tree Toys to know which areas of the site are customer favorites, which areas need a bit of improvement, or what technologies and services are being used by visitors. This data is great feedback and allows us to make educated improvements to better serve customers.
 
-Periodically, Growing Tree Toys will use the information collected to notify customers regarding updates to the web site. Any customer wishing to be removed from the mailing list should email Growing Tree Toys at [privacy@growingtreetoys.com](mailto:privacy@growingtreetoys.com). 
+**Will personal information be sold to third parties?**  
+Never! Growing Tree Toys will never sell, trade, rent or give individually identifying information to third parties, ever! We only use the collected personal information to process orders, deliver orders, contact customers regarding questions about orders, and improve the website to better serve our customers. 
 
-**What about the privacy of my personal information? Will the information be sold to third parties?**
+**Will I receive unsolicited e-mail from Growing Tree Toys?**  
+Growing Tree Toys sends order confirmation emails and order tracking emails to all customers that place an order. All other communications are opt-in on the part of the customer, and if customers would like to receive email updates from Growing Tree Toys, they should check the appropriate box during checkout.
 
-Growing Tree Toys will not sell, trade, rent or give individually identifying information to third parties without permission. Growing Tree Toys only uses the collected personal information to process orders, deliver orders, contact customers regarding questions about orders, and improve the web site to better serve customers. 
+**How can I opt out of Growing Tree Toys communications?**  
+Opting out of communications is easy! Simply click the “unsubscribe” link at the bottom of any email and you will be unsubscribed immediately. If you no longer have the email you received, please visit the [**Contact Us**](http://www.growingtreetoys.com/contact-us.html) page to request removal from our email list, and you will be removed from future communications immediately.
 
-**Will I receive unsolicited e-mail from Growing Tree Toys?**
+**What is the Growing Tree Toys Privacy Policy regarding children?**  
+Growing Tree Toys does not knowingly solicit or collect personally identifiable information online from children under the age of 18 without prior verifiable parental consent. If Growing Tree Toys learns that any child under the age of 18 has submitted personally identifiable information online it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose. If you are under the age of 18 and would like to place an order, please have your parent or guardian to place the order for you.
 
-Growing Tree Toys sends email confirmations of orders to all customers that place an order. In addition, Growing Tree Toys periodically may contact customers by email with updates regarding the web site. If customers would like to receive emails or the newsletter from Growing Tree Toys, they should check the appropriate box on the order form. 
+**Does Growing Tree Toys link to other web sites?**  
+Growing Tree Toys may link to other sites (such as a manufacturer web site) to assist customers with questions. Please note that the privacy policies at these sites may be different from Growing Tree Toys and you should review the policies accordingly.
 
-**< Back to previous page**
+**How do I contact Growing Tree Toys?**  
+To contact Growing Tree Toys regarding privacy-related questions, please refer to the various options available on the [**Contact Us**](http://www.growingtreetoys.com/contact-us) page of our website.
+
+Back to Top
+
+  
+**TERMS AND CONDITIONS**  
+To access the Terms and Conditions for Growing Tree Toys, please visit our [Legal](http://www.growingtreetoys.com/legal.html) page. Thank you for shopping with Growing Tree Toys!
+
+Back to Top
+
+Go Back to the [**Customer Service Center**](http://www.growingtreetoys.com/customer-service.html).
