@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224054542id_/http%3A//www.epsilon.com/Privacy-Policy/p24-l1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602074900id_/http%3A//www.epsilon.com/Privacy-Policy/p24-l1) for the most accurate reproduction.*
 
 # Epsilon | Privacy Policy
 
 **Epsilon Privacy Policy** \- **Last revised March 6, 2007**
 
-Epsilon is a leading provider of multi-channel marketing services, technologies, database and data solutions. This Privacy Policy (also referred to herein as our "Policy") has been created by Epsilon as part of our commitment to data protection and privacy. Because you may provide us with personal information, we have developed this Policy to inform you of Epsilon's practices concerning such information. If you have additional questions about this Policy, please [click here](http://www.epsilon.com/Contact-Us/p30-l2).  If you would like to optout of the Abacus cooperative database, please [click here](http://www.abacusoptout.com/).
+Epsilon is a leading provider of multi-channel marketing services, technologies, database and data solutions. This Privacy Policy (also referred to herein as our "Policy") has been created by Epsilon as part of our commitment to data protection and privacy. Because you may provide us with personal information, we have developed this Policy to inform you of Epsilon's practices concerning such information. If you have additional questions about this Policy, please [click here](http://www.epsilon.com/Contact-Us/p30-l2). **If you would like to optout of the Abacus cooperative database, please[click here](http://www.abacusoptout.com/).**
 
 **Epsilon's Privacy Policy  
 **
@@ -123,7 +123,9 @@ Some of our clients independently use Epsilon's technology platforms to design a
 
 **EU Safe Harbor**
 
-The collection of personal information in the European Union is governed by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995. This Directive addresses the protection of individuals with regard to the processing of personal information and on the free movement of such information, as well as the national legislation of European Union Member states (EU). For more information, see <http://europa.eu.int/comm/internal_market/privacy/index_en.htm>.
+The collection of personal information in the European Union is governed by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995. This Directive addresses the protection of individuals with regard to the processing of personal   
+information and on the free movement of such information, as well as the national   
+legislation of European Union Member states (EU). For more information, see <http://europa.eu.int/comm/internal_market/privacy/index_en.htm>.
 
 The following Epsilon entities, **Epsilon Data Management, LLC** and **Alliance Data FHC, Inc., trading as Epsilon Interactive International** are safe harbor certified and participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first [contact us](http://info.epsiloninteractive.com/p/Web%20Site%20Leads/privacycontact).
 
@@ -154,7 +156,7 @@ For information about TRUSTe or the operation of TRUSTe's dispute resolution pro
 
 **TRUSTe Privacy Program**
 
-Epsilon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. For more information on TRUSTe, please [click here](http://www.truste.org/). Because Epsilon wants to demonstrate its commitment to its clients and consumers' privacy, its privacy practices have been reviewed for compliance by TRUSTe.
+Epsilon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit, organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. For more information on TRUSTe, please [click here](http://www.truste.org/). Because Epsilon wants to demonstrate its commitment to its clients and consumers' privacy, its privacy practices have been reviewed for compliance by TRUSTe.
 
 If you feel that Epsilon is not abiding by its posted privacy Policy, you should first contact Epsilon's Privacy Administrator by [email](http://info.epsiloninteractive.com/p/Web%20Site%20Leads/privacycontact).
 
@@ -186,6 +188,3 @@ This Policy is the sole authorized statement of Epsilon's practices with respect
  **Links To Other Web Sites  
 **    
 This Web site contains links to other sites. The inclusion of any link does not imply our endorsement of the external site company, its web site, or the products and services it promotes and sells. Please be aware that Epsilon is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Epsilon. 
-
-[  
-](http://www.truste.org/ivalidate.php?url=www.epsilon.com&sealid=102%20)
