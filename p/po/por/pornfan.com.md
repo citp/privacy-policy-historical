@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornfan.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202165330id_/http%3A//www.pornfan.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfan.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602074219id_/http%3A//www.pornfan.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornFan
+# Privacy Policy - Pornfan
 
 This document details important information regarding the use and disclosure of User Data collected on PornFan.com 
 
