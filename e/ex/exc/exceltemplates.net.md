@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2008-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080904082133id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceltemplates.net privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602123904id_/http%3A//exceltemplates.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Excel Templates
 
@@ -10,7 +10,7 @@ Please read this statement regarding our website. If you have questions please a
 
 **Ownership of Information**
 
-Exceltemplates.net is collected all information from many sources in the internet to be shared freely to our reader. All excel files available in this website is copyright of its respective owners.
+Exceltemplates.net is collected and received all information from many sources in the internet to be shared freely to our reader. All excel files available in this website is copyright of its respective owners.
 
 **Comments/Message Boards**
 
@@ -22,7 +22,7 @@ Currently we assign cookies to our readers in order to save their preferences. T
 
 **Third Party Cookies**
 
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. Exceltemplates.net does not have access to this data.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "Google Privacy Policy").
 
 **Traffic Reports**
 
