@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-writers-block.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065713id_/http%3A//www.the-writers-block.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-writers-block.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602133909id_/http%3A//www.the-writers-block.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The-Writers-Block.com
 
