@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624080652id_/http%3A//www.amny.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602223405id_/http%3A//www.amny.com/about/am-about-privacypolicy%2C0%2C1055716.htmlstory) for the most accurate reproduction.*
 
-# Privacy Policy - AM New York
-
-  
-
-
-## Privacy Policy
+# Privacy Policy -- amNY.com
 
 **amNY.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by amNY.com online and does not impact information collected or used by amNY.com or its affiliates through other means. 
 
@@ -25,9 +20,11 @@ Personally Identifiable Information collected by amNY.com may also be used for o
 
 As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
 
-**Your choice to opt out.**
+**Your choice to opt out.**  
 
-The quality news and information on amNY.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf. 
+
+The quality news and information on amNY.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf.   
+
 
 **Affiliated sites, linked sites and advertisements.**
 
