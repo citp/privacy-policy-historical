@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vazumo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055650id_/http%3A//www.vazumo.com/companydetails/191491/Vazumo/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vazumo.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602082351id_/http%3A//www.vazumo.com/companydetails/191491/Vazumo/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Vazumo - View Business Details - VAZUMO.COM
 
