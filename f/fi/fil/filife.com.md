@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the filife.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206154411id_/http%3A//www.filife.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filife.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603013602id_/http%3A//www.filife.com/info/privacy) for the most accurate reproduction.*
 
-# FiLife.com Privacy Policy
+# Privacy Policy: FiLife (a WSJ Partner)
 
-FiLife is a 50/50 joint venture between Dow Jones and IAC. Dow Jones & Company publishes the world's most vital business and financial news and information. The cornerstone of Dow Jones is its flagship publication, The Wall Street Journal, which is the world's leading business publication, with a current circulation of nearly 2.1 million. For more information about Dow Jones, please visit [www.dowjones.com](http://www.dowjones.com/). IAC operates more than 35 leading and diversified Internet businesses across 37 countries. The company's mission is to harness the power of interactivity to make daily life easier and more productive for people all over the world. For a list of all of IAC's businesses, please visit [www.iac.com.](http://www.iac.com/)
-
-**FiLife Privacy Policy  
-Your Privacy Rights  
-Last Updated: May 14, 2008**
+FiLife is a 50/50 joint venture between Dow Jones and IAC. Dow Jones & Company publishes the world's most vital business and financial news and information. The cornerstone of Dow Jones is its flagship publication, The Wall Street Journal, which is the world's leading business publication, with a current circulation of nearly 2.1 million. For more information about Dow Jones, please visit [www.dowjones.com](http://www.dowjones.com/). IAC operates more than 35 leading and diversified Internet brands across 40 countries. The company's mission is to harness the power of interactivity to make daily life easier and more productive for people all over the world. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). 
 
 FiLife respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of FiLife.com or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
@@ -14,20 +10,14 @@ We encourage you to read this Privacy Policy carefully when using our website or
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-## Information we collect about you
-
-### In General.
-
-We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
-
-  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, your financial life and other demographic information, as well as public information such as user ratings, reviews and comments, saved articles, and other information you view on the website.
+  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, your financial life and other demographic information, as well as public information such as user ratings, reviews and comments, and other information you view or contribute to the website.
   * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other Dow Jones and IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information. 
   * **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient.
 
   
 
 
-### Use of cookies and other technologies to collect information.
+## Use of cookies and other technologies to collect information.
 
 We use various technologies to collect information from your computer and about your activities on our site. 
 
@@ -36,7 +26,6 @@ We use various technologies to collect information from your computer and about 
   * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
   * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, Dow Jones and IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
-  
 
 
 ## How we use the information we collect
@@ -48,12 +37,13 @@ We may use information that we collect about you to:
   * deliver the products and services that you have requested; 
   * manage your account and provide you with customer support; 
   * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
+  * aggregate data such as the anonymous personal financial data you may enter into our tools. This aggregate information does not identify particular users or otherwise allow anyone to recover sensitive information about individual users. Aggregate information belongs to FiLife, and is not subject to this privacy policy 
   * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister Dow Jones and IAC companies or other third parties; 
   * develop and display content and advertising tailored to your interests on our site and other sites; 
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
   * enforce our terms and conditions; 
   * manage our business and 
-  * perform functions as otherwise described to you at the time of collection.
+  * perform functions as otherwise described to you at the time of collection. 
 
 
 
@@ -120,11 +110,11 @@ If you are a resident of California, in addition to the rights set forth above, 
 
   1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
   2. the names and addresses of the third parties that received that information; and
-  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
 
 
 
-We may provide this information in a standardized format that is not specific to you. The designated form for submitting these requests is [located here](https://web.archive.org/contact/legal).
+We may provide this information in a standardized format that is not specific to you. The designated form for submitting these requests is located here.
 
 ## How we protect your personal information
 
@@ -134,7 +124,7 @@ We want you to feel confident using our website to transact business. However, n
 
 ## Blogs, bulletin boards, reviews and chat rooms 
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of products, establishments, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](https://web.archive.org/web/20081206154411id_/http%3A//www.filife.com/info/terms). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of products, establishments, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use](https://web.archive.org/info/terms). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
 
 ## Children's privacy 
 
