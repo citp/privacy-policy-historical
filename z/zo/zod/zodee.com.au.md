@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115100id_/http%3A//www.zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602130935id_/http%3A//www.zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy
 
