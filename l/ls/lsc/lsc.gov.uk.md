@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195801id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602094310id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
 
 # Learning and Skills Council - Privacy and copyright statement
 
