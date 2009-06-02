@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2008-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080505032816id_/http%3A//www.ethiotube.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602042601id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
 
-# EthioTube - Broadcast Ethiopia | The Home of Ethiopian Videos :: Privacy Policy
+# EthioTube - Broadcast Ethiopia | Ethiopian Videos | Ethiopian Comedy | Ethiopian Music | Ethiopian Film | Ethiopian Politics | Ethiopian News and more |
 
 The use of this version of the "EthioTube - Broadcast Ethiopia" website and/or EthioTube - Broadcast Ethiopia software and any other related software, upgrades or updates and all related services and special offers provided by "EthioTube - Broadcast Ethiopia" are subject to the hereunder provisions of this Privacy Policy.:
 
-## General
+**General**
 
 "EthioTube - Broadcast Ethiopia" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
 
@@ -12,7 +12,7 @@ BY USING OR ACCESSING ANY EthioTube - Broadcast Ethiopia WEBSITE OR DOWNLOADING 
 
 If you are under the age of 13, you are not eligible to use the Service, and we ask you not to submit any personal information to us.
 
-## Collection of Information
+**Collection of Information**
 
 **Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password.
 
@@ -32,23 +32,20 @@ Additionally, "EthioTube - Broadcast Ethiopia" or its advertisers may use other 
 
 "EthioTube - Broadcast Ethiopia" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies.
 
-## Special Note for Parents
+**Special Note for Parents**
 
 "EthioTube - Broadcast Ethiopia"'s Service and website are not intended for a general audience, and children under the age of thirteen (13) are not permitted to register with EthioTube - Broadcast Ethiopia's Service and websites.
 
-## Modification and Deletion of Personally Identifiable Information (Opt-Out)
+**Modification and Deletion of Personally Identifiable Information (Opt-Out)**
 
 In order to delete the personally identifiable information you submitted, notify us, to the following email address: [info@ethiotube.net](mailto:info@ethiotube.net) that you wish to delete your personally identifiable information or any part thereof contained at our databases.
 
-## Modification
+**Modification**
 
 If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: [info@ethiotube.net](mailto:info@ethiotube.net).
 
 Please note that deletion of your personally identifiable information from EthioTube - Broadcast Ethiopia's database will not prevent EthioTube - Broadcast Ethiopia from using gathered anonymous information.
 
-## Third Parties' Practices
+**Third Parties' Practices**
 
 This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that EthioTube - Broadcast Ethiopia does not own or control, or does not employ or manage.
-
-
-
