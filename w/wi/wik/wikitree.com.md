@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226140852id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,21 +6,21 @@ We spend a great deal of time working on privacy issues. Privacy is one of the m
 
 We do everything we can to protect your privacy while still enabling online collaboration, but the bottom line is that we are just a host. You use WikiTree at your own risk. You are responsible for the information you share about yourself and other people.
 
-Please read and understand the following Privacy Policy ( _last revised on August 21, 2008_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20081226140852id_/http%3A//www.wikitree.com/about/terms.html).
+Please read and understand the following Privacy Policy ( _last revised on March 24, 2009_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/terms.html).
 
 This Privacy Policy is provided by Interesting.com, Inc. ("we" or "us") to describe the collection and use of information on WikiTree.com ("WikiTree", "Website", or "services") so that users ("you," "your," or "user") can make informed decisions. Section headings and bold text are included for convenience only.
 
 ### Personally Identifiable Information
 
-We invite you to provide information if you choose to use WikiTree — such as your name and e-mail address — that is considered "[Personally Identifiable Information](http://en.wikipedia.org/wiki/Personally_identifiable_information)". You may, of course, decline to submit Personally Identifiable Information to the Website, in which case you may not be able to register or WikiTree may not be able to provide certain services to you.
+We invite you to share information if you choose to use WikiTree — such as your name and e-mail address — that is considered "[Personally Identifiable Information](http://en.wikipedia.org/wiki/Personally_identifiable_information)". You may, of course, decline to submit Personally Identifiable Information to the Website, in which case you may not be able to register or WikiTree may not be able to provide certain services to you.
 
-If you submit Personally Identifiable Information through the Website, people you allow in your Trusted Family & Friends List will have access to this information. You can control which people can access your information through your Trusted List but those people could forward this information to other users or non-users.
+If you submit Personally Identifiable Information through the Website, people you allow in your Trusted List will have access to this information. You can control which people can access your information through your Trusted List but those people could forward this information to other users or non-users.
 
 ### Other Personal Information
 
 In addition to your name and e-mail address we invite you to submit information that is not generally classified as Personally Identifiable Information but which you may consider personal or private, such as your family history, country, state, or city of residence, gender, age, names of schools attended, etc.
 
-You can control access to most of these details through your Trusted Family & Friends List. However, some of it will be made public so that relatives can find you. Public information may include the following: preferred name, primary photograph, decade of birth (not the exact date), state and country of residence (not the street, which is never solicited, or the city), state and country of death (not the city), marital status (not the name of spouse), number of children (not their names), and number of siblings (not their names).
+You can control access to most of these details through your Trusted List. However, some of it will be made public so that relatives can find you. Public information may include the following: preferred name, primary photograph, decade of birth (not the exact date), state and country of residence (not the city or the street, which is never solicited), state and country of death (not the city), marital status (not the name of spouse), number of children (not their names), and number of siblings (not their names).
 
 You may update or remove any of your information on the Website at any time. You may request that we remove information by contacting us, with the understanding that we may maintain an archive or back-up of the information not on the Website.
 
@@ -28,7 +28,7 @@ You may update or remove any of your information on the Website at any time. You
 
 Protecting the privacy of young children is especially important and is mandated by United States law. Therefore, we do not knowingly collect Personally Identifiable Information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then you must not use or access the Website at any time or in any manner or provide any information to the Website.
 
-Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20081226140852id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
+Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
 
 ### For International Users
 
@@ -36,7 +36,7 @@ The Website and services are void where prohibited. If you are accessing the Web
 
 ### E-Mail Addresses
 
-WikiTree will use your e-mail address to complete the signup process and we will use your relatives' e-mail addresses to invite them to join your family tree. By providing your e-mail address to WikiTree you consent to our using the e-mail address to send you Service-related notices, including among other things notices required by law, in lieu of postal mail. You may not opt out of Service-related e-mails. We may also use your e-mail address to send you other messages, including changes to WikiTree features and special offers. If you do not want to receive such e-mail messages, you may opt out by changing your account settings or by sending mail to the following postal address:  
+WikiTree will use your e-mail address to complete the signup process and we will use your friends' and relatives' e-mail addresses to invite them to join you. By providing your e-mail address to WikiTree you consent to our using the e-mail address to send you Service-related notices, including among other things notices required by law, in lieu of postal mail. You may not opt out of Service-related e-mails. We may also use your e-mail address to send you other messages, including changes to WikiTree features. If you do not want to receive such e-mail messages, you may opt out by changing your account settings or by sending mail to the following postal address:  
 Interesting.com, Inc.  
 49 Bramblebush Road  
 Croton on Hudson, NY 10520
@@ -69,11 +69,7 @@ We may provide information, including personal information, to affiliated compan
 
 ### Advertisements
 
-Third-parties may serve advertisements on the Website. We do not provide any personally identifiable information to these third-party ad servers or ad networks without your consent.
-
-Note that ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
 
 ### Changes to this Privacy Policy
 
