@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writerspenarticledirectory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023739id_/http%3A//www.writerspenarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writerspenarticledirectory.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602201000id_/http%3A//www.writerspenarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # writers pen
 
@@ -40,7 +40,7 @@ WritersPenArticleDirectory.com does not knowingly collect or solicit Personally 
 
 **Contacting Us**
 
-We can be reached by [emailing us.](https://web.archive.org/web/20081216023739id_/http%3A//www.writerspenarticledirectory.com/contacts.php)
+We can be reached by [emailing us.](https://web.archive.org/web/20090602201000id_/http%3A//www.writerspenarticledirectory.com/contacts.php)
 
 **Changes to this Policy**
 
