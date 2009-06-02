@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220042654id_/http%3A//www.confetti.co.uk/article/view/6793-7753-0-Privacy_policy_About_Confetti.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602122954id_/http%3A//www.confetti.co.uk/article/view/6793-8280-0-Privacy_policy.do) for the most accurate reproduction.*
 
-# Privacy policy at confetti.co.uk
+# Privacy policy
 
 This page explains the privacy policy for Confetti Network Ltd (80 - 81 Tottenham Court Road, London, W1T 4TE). Confetti respects the importance of your privacy, and the privacy of all its customers. This privacy policy will explain how we gather and use any information you give to us, and what you can do about it. 
 
