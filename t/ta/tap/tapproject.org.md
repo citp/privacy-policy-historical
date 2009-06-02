@@ -1,46 +1,44 @@
-> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224135535id_/http%3A//tapproject.unicefusa.org/site/PageNavigator/Tap_Project/tap_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602111902id_/http%3A//www.tapproject.org/privacy-policy.html) for the most accurate reproduction.*
 
-# UNICEF USA: Tap Project Privacy Statement
+# Privacy Policy
 
-## Privacy Policy
-
-The U.S. Fund for UNICEF is dedicated to honoring the privacy and wishes of our supporters at all times. Following are details about our online policies, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. This privacy statement does not disclose how the U.S. Fund's product fulfillment vendors use data directed to them. The statement was last updated on December 12, 2007. Please visit this page from time to time and check for any updates.
+The U.S. Fund for UNICEF is dedicated to honoring the privacy and wishes of our supporters at all times. Following are details about our online policies, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. This privacy statement does not disclose how the U.S. Fund's product fulfillment vendors use data directed to them. The statement was last updated on January 11, 2009. Please visit this page from time to time and check for any updates.
 
 **Contact us**  
 This website is owned by the United States Fund for UNICEF. Please feel free to contact us in any of the following ways if you have questions or concerns.
 
-_Postal mail:_  
+Postal mail:  
 U.S. Fund for UNICEF  
 125 Maiden Lane  
 New York, NY 10038 
 
-  _Phone:_  
+ Phone:  
 212.922.2651
 
-  _FAX:_  
+ FAX:  
 212.779.1679 
 
-  _E-mail:_  
-[webmaster@unicefusa.org](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org")
+ E-mail:   
+[**webmaster@unicefusa.org**](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org")
 
 **Collection of personal data**  
 The U.S. Fund for UNICEF only collects and maintains personal information that is sent to us directly from an individual or company. This information is obtained from the following places on our website:
 
-    * * Donation and pledge forms
-    * * eCommerce/product fulfillment forms
-    * * eNews registration
-    * * ShopUNICEF registration
-    * * Volunteer Center registration
-    * * Friends-Asking-Friends registration
-    * * Trick-or-Treat Online registration
-    * * Take Action advocacy form
-    * * E-mail messages sent directly to our attention
-    * * Contact Us form
+    * * Donation and pledge forms 
+    * * eCommerce/product fulfillment forms 
+    * * eNews registration 
+    * * ShopUNICEF registration 
+    * * Volunteer Center registration 
+    * * Team Raiser registration 
+    * * Trick-or-Treat Online registration 
+    * * Take Action advocacy form 
+    * * E-mail messages sent directly to our attention 
+    * * Contact Us form 
     * * Online surveys
 
 
 
-You can visit <http://www.unicefusa.org/> without telling us who you are and without revealing any information about yourself. However, to access certain portions of the website, you may have to submit information such as a user-id and password, or you may have to provide personal information such as your name, address and e-mail.
+You can visit [**http://www.unicefusa.org/**](http://www.unicefusa.org/) without telling us who you are and without revealing any information about yourself. However, to access certain portions of the website, you may have to submit information such as a user-id and password, or you may have to provide personal information such as your name, address and e-mail.
 
 To complete online transactions, you will be asked for your address, e-mail and credit card information. This required information is necessary for us to process transactions, protect you against credit card fraud and contact you should the need arise in administering your account.
 
@@ -49,7 +47,7 @@ Our site may contain surveys, trivia games and other forms for collecting inform
 **Information security and quality**  
 The U.S. Fund for UNICEF intends to protect the quality and integrity of your personally identifiable information. We have implemented appropriate physical, technical and organizational measures, including industry-standard encryption for transmission of credit card information, to help keep your information secure, accurate, current and complete.
 
-Donations made on the <http://www.unicefusa.org/> website are secure to the fullest extent possible. We use strong 128-bit encryption through Secure Socket Layer (SSL) technology. SSL protects information as it is transferred through the Internet.
+Donations made on the [**http://www.unicefusa.org/**](http://www.unicefusa.org/) website are secure to the fullest extent possible. We use strong 128-bit encryption through Secure Socket Layer (SSL) technology. SSL protects information as it is transferred through the Internet.
 
 You can recognize secure web pages by checking for the secure symbol at the bottom of your browser screen. For most browsers, this symbol is either a lock or a key. When the lock symbol appears to be locked, the page is secure. When it appears to be unlocked, the page is insecure.
 
@@ -62,9 +60,9 @@ You can recognize secure web pages by checking for the secure symbol at the bott
 You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our site may not function properly.
 
 **Disclosure to third parties**  
-The U.S. Fund for UNICEF does not rent, exchange or sell the e-mail addresses or credit card information of our supporters. However, from time to time we make our postal mailing list available to other worthy organizations. If you prefer that your postal information not be shared, please write to us at [webmaster@unicefusa.org](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org") and we will honor your wishes immediately.
+The U.S. Fund for UNICEF does not rent, exchange or sell the e-mail addresses or credit card information of our supporters. However, from time to time we make our postal mailing list available to other worthy organizations. If you prefer that your postal information not be shared, please write to us at [**webmaster@unicefusa.org**](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org") and we will honor your wishes immediately.
 
-We may also share donor and campaign information with the national and local offices of our affiliate organizations, and we publish a list of top fundraising schools and groups annually on the U.S. Fund for UNICEF's website. If you prefer that we do not include your name or the name of your organization in these cases, please write to us at [webmaster@unicefusa.org](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org").
+We may also share donor and campaign information with the national and local offices of our affiliate organizations, and we publish a list of top fundraising schools and groups annually on the U.S. Fund for UNICEF's website. If you prefer that we do not include your name or the name of your organization in these cases, please write to us at [**webmaster@unicefusa.org**](mailto:webmaster@unicefusa.org "E-mail webmaster@unicefusa.org").
 
 **E-mail**  
 The U.S. Fund for UNICEF adheres to a strict anti-spam policy, making it easy for our eNews subscribers to unsubscribe. The U.S. Fund may also provides e-mail marketing tools to some website visitors who have created personal web pages. These tools provide convenient ways to communicate with friends and family on a personal level; they are not designed for sending out bulk emails.
