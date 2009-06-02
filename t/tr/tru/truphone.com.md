@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064420id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602033423id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Cheap Calls using VoIP with Truphone - Your Mobile VoIP Provider
 
