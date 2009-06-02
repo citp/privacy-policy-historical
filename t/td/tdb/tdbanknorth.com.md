@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044100id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602040657id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
@@ -55,7 +55,7 @@ Access to your personal and account information is restricted to those employees
 We recognize that the accuracy of your personal and account information is critical to you and, to that end, we follow procedures to reasonably ensure the accuracy of your information. If you find that any information we have on file or have reported to another party does not appear to be accurate, please write to us at:   
 **TD Banknorth, Attention: Loan and Account Research, 32 Chestnut St., Lewiston, ME 04240**  
 _or_  
-**TD Bank, Attention: Customer Service Center, P.O. Box 5400, Cherry Hill, NJ 08034-0211**
+**TD Bank, Attention: Customer Service Center, P.O. Box 5400, Cherry Hill, NJ 08034-5400**
 
 Please include your account or policy number. 
 
@@ -148,13 +148,9 @@ This privacy statement applies to the following entities within the TD Banknorth
 
 **TD Bank, N.A. Divisions:**
 
-Commerce Bank
-
 TD Banknorth
 
-TD Banknorth Mortgage
-
-TD Banknorth Wealth Management Group
+TD Bank Mortgage
 
 TD Banknorth Project Finance
 
@@ -166,21 +162,19 @@ Shoppers Charge Accounts Co.
 
 Bancnorth Investment Planning Group, Inc. 
 
-Bancnorth Investment & Insurance Agency, Inc.
+Bancnorth Investment and Insurance Agency, Inc.
 
 Commerce Capital Markets, Inc.
 
-Commerce Commercial Leasing, LLC
-
-TD Aviation Finance, Inc.
-
-TD Banknorth Leasing Corporation
+TD Aviation Finance, LLC
 
 TD Equipment Finance, Inc.
 
-TD Insurance Agency (in New York)
+TD Insurance Agency
 
-TD Insurance, Inc. 
+TD Insurance, Inc.
+
+TD Wealth Management Services Inc. 
 
 **TDBanknorth.com  
 800-211-1979**
