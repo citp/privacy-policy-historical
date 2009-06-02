@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtdownload.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910095249id_/http%3A//www.gtdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtdownload.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602123222id_/http%3A//www.gtdownload.com/privacy.php) for the most accurate reproduction.*
 
 # GTdownload.com - Your free download software collection.
 
