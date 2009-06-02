@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914172356id_/http%3A//www.healia.com/healia/en/healia_privacypolicy.jsp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603014651id_/http%3A//www.healia.com/pages/Healia_privacypolicy) for the most accurate reproduction.*
 
-# Healia - health search engine
+# Healia privacypolicy - Healia
 
-Awards:  
-[](http://www.interactivemediaawards.com/winners/certificate.asp?param=41899&cat=1)
-
-[](http://www.seomoz.org/web2.0)
-
-| 
-
-Privacy Policy
+##  Privacy Policy 
 
 Healia is completely committed to protecting your privacy. We realize that ensuring user privacy is particularly important for a health search engine. This privacy policy describes what information we collect on our site and how it is used. This policy only applies to our site. When you click on a link on a search result page, on an ad, or a sponsored message on our site, you will leave Healia and the privacy policy of the site you visit applies. You should review the privacy policies of all Web sites before you use them. We have no control over the content or the privacy practices of other Web sites. 
 
@@ -27,6 +20,8 @@ Information about users and site usage may be collected when you visit any Web s
   * the address (URL) of the Web site you were previously at before accessing our site 
   * the search terms and any content filter options you submitted 
   * any email addresses submitted to us when sending links to others or when submitting feedback to us 
+
+
 
 **Cookies**
 
