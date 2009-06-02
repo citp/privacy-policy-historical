@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012457id_/http%3A//photo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603014514id_/http%3A//photo.net/privacy-policy) for the most accurate reproduction.*
 
 # photo.net Privacy Policy
 
@@ -30,6 +30,10 @@ Some photo.net pages incorporate HTML or Javascript code that references adverti
   * [Yahoo! privacy](http://privacy.yahoo.com/)
 
 
+
+## Third Party Advertising
+
+We use third-party advertising companies to serve ads when you visit Photo.net. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on Photo.net, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 ##  Your Password 
 
