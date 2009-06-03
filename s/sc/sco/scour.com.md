@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223045108id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603194844id_/http%3A//scour.com/privacy) for the most accurate reproduction.*
 
 # Scour - Search Socially
 
@@ -57,4 +57,6 @@ By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor re
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy. 
 
-© 2008 SCOUR.COM. All rights reserved. 
+#### Opt-Out of Scour Invites
+
+If you prefer not to receive invitations from ANY scour members, please click [here](http://scour.com/unsubscribe/) -OR- Write to us at: Scour, Inc., 15303 Ventura Blvd. Suite 220, Sherman Oaks, CA 91403, USA. 
