@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordresearchpro.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013120413id_/http%3A//www.keywordresearchpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordresearchpro.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603234250id_/http%3A//www.keywordresearchpro.com/privacy.html) for the most accurate reproduction.*
 
 # Keyword Research Pro Privacy Policy
 
