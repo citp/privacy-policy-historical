@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the seodesignsolutions.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220224404id_/http%3A//www.seodesignsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seodesignsolutions.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604000933id_/http%3A//www.seodesignsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
 PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
 
-This site is owned and operated by [SEO Design Solutions](http://www.seodesignsolutions.com/index.php). Your privacy on the Internet is of the utmost importance to us. At SEO Design Solutions, we want to make your experience online satisfying and safe.
+This site is owned and operated by [SEO](http://www.seodesignsolutions.com/) Design Solutions. Your privacy on the Internet is of the utmost importance to us. At SEO Design Solutions, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
 INFORMATION SEO Design Solutions GATHERS AND TRACKS
 
-SEO Design Solutions gathers two types of information about users:
+**SEO Design Solutions gathers two types of information about users:**
 
 * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, or receive a free website analysis for search engine optimization purposes. 
 
 * Information SEO Design Solutions gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because SEO Design Solutions derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does SEO Design Solutions divulge any information about an individual user to a third party.
 
-SEO Design Solutions Gathers User Information In The Following Processes:
+**SEO Design Solutions Gathers User Information In The Following Processes:**
 
 Optional Voluntary Information
 
@@ -51,7 +51,7 @@ SEO Design Solutions tracks user traffic patterns throughout all of our sites. H
 SEO Design Solutions sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.  
 
 
-USE OF INFORMATION
+**USE OF INFORMATION**
 
 SEO Design Solutions uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
@@ -61,15 +61,15 @@ When we use tracking information to determine which areas of our sites users lik
 
 SEO Design Solutions creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-SHARING OF THE INFORMATION
+**SHARING OF THE INFORMATION**
 
 SEO Design Solutions uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-SECURITY
+**SECURITY**
 
 SEO Design Solutions operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
-OPT-OUT POLICY
+**OPT-OUT POLICY**
 
 We give users options wherever necessary and practical. Such choices include:
 
@@ -77,6 +77,6 @@ We give users options wherever necessary and practical. Such choices include:
 
 * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
 
-YOUR CONSENT
+**YOUR CONSENT**
 
 By using this site, you consent to the collection and use of this information by SEO Design Solutions. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
