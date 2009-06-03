@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103631id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603050724id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.*
 
 # Automotive News -- In-depth coverage of the automotive industry with special features for subscribers
 
