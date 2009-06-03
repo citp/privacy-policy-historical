@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the scour.com privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223045108id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scour.com privacy policy that was archived on 2009-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090603194844id_/http%3A//scour.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Scour - Search Socially</title>
   <style type="text/css" media="all">@import "/css/all.css";</style>
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
   <meta name="msnbot" content="noarchive">
-  <link rel="shortcut icon" href="/favicon.ico"> 
-  <script type="text/javascript" src="/js/all.js?v=4094"></script>  
+  <link rel="shortcut icon" href="/favicon.ico">
+  <script type="text/javascript" src="/js/all.js?v=4094"></script>
   <script type="text/javascript">
 // <!--
     $(document).ready(
@@ -28,9 +28,43 @@
           $("#sign_in_user").show();
           $("#new_user").show();
         }
+
+        $('#verifyEmailNow, #verifyaccount-header-link').click(function(e){
+          e.preventDefault();
+          $("#verifyemailmodal").modal({
+              close: false,
+              overlayId: 'report-overlay',
+              containerId: 'report-container'
+            });
+        });
+        $('#verifymodal-resendverification').click(function(e){
+          e.preventDefault();
+					$.ajax({
+						url: '/services/resendverification',
+						data: null,
+						type: 'post',
+						cache: false,
+						dataType: 'json',
+						complete: function (xhr) {
+              $('#verifymodal-notificationsent').fadeIn();
+						}
+					});
+        });
+
+        $("#web100-link").click(function(e){
+          $.ajax({
+            url: '/services/trackweb100click',
+            data: { 'tracking_location': 2},
+            type: 'post',
+            cache: false,
+            dataType: 'json',
+            complete: function (xhr) {
+            }
+          });
+        });
 	    }
-	  ); 
-// -->    
+	  );
+// -->
   </script>
 
   <!--[if lt IE 7]>
@@ -42,15 +76,16 @@
 <body>
   <div id="topbar">
     <div class="user_submenu">
-      <div id="welcome_user" class="hide"><strong>Welcome <span id="welcome_user_name"></span></strong> (<span id="logout"><a href="/logout/">logout</a></span>) <a href="/profile/" title="Customize Scour" class="mysettings" accesskey="m">My Profile</a>
-    </div>
-      <span id="sign_in_user" class="scour_points_sign_in hide"><strong>Have Account?</strong> <a href="/login/">Sign in</a> || </span>  
-      <span id="new_user" class="scour_points_new_use hide"><strong>New user?</strong> <a href="/signup/">Join Now</a></span>
+      <div id="welcome_user" class="hide"><strong>Welcome <span id="welcome_user_name"></span></strong> (<span id="logout"><a href="/logout/">logout</a></span>) <a href="/profile/" title="Customize Scour" class="mysettings" accesskey="m">My Profile</a> &nbsp; <span id="header-new-messages" style="display:none;margin-right:5px;"><a href="/profile/messages/inbox/" style="color:red;text-decoration:none" title="New Scour Message"><img src="/images/top_menu_new_messages.gif"><span id="header-new-message-count" style="margin-left:3px;"></span></a></span><span id="verifyaccount-header" style="display:none"><strong><a href="" style="color:red" id="verifyaccount-header-link">Not Verified</a></strong></span></div>
+
+      <span id="sign_in_user" class="scour_points_sign_in" style="display:none"><strong>Have Account?</strong> <a href="/login/">Sign in</a> || </span>
+      <span id="new_user" class="scour_points_new_use" style="display:none"><strong>New user?</strong> <a href="/signup/">Join Now</a></span>
     </div>
     <span class="toplinkmenu">
       <a href="/faq/" title="You have questions - we have answers" accesskey="q">F.A.Q.</a>
       <a href="http://blog.scour.com" title="Scour blog" accesskey="b">Blog</a>
-      <a href="#" title="Where you can scream and yell at us or give us a hug" accesskey="f" onclick="return showFeedbackForm()">Feedback</a>
+      <a href="#" title="Where you can scream and yell at us or give us a hug" accesskey="f" onclick="UserVoice.Popin.show(); return false;">Feedback</a>
+      <a href="/leaderboard/" title="Check out our top running users." accesskey="l">Leaderboard</a>
       <a href="/goodies/" title="Toys we are working on" accesskey="g">Goodies</a>
       <a href="/index.html" title="Scour - home" accesskey="h">Home</a>
       <a href="#" onclick="showdemo('http://scour.com/demo/','demo','990','800','center','front'); return false;" title="Learn more about Scour" accesskey="d"><strong>How it works</strong></a>
@@ -61,7 +96,7 @@
 
                 <center>
             <a href="/index.html" title="Scour Home">
-             <img src="/images/logo.gif" class="logo" alt="Scour - the social search engine" border="0" height="77" width="221">
+             <img src="http://assets.scour.com/images/logo.gif" class="logo" alt="Scour - the social search engine" border="0" height="77" width="221">
             </a>
           </center>
             <center>
@@ -155,25 +190,31 @@ By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor re
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy.
 </p>
 
+<h4>Opt-Out of Scour Invites</h4>
 <p>
-© 2008 SCOUR.COM. All rights reserved.
+If you prefer not to receive invitations from ANY scour members, please
+click <a href="http://scour.com/unsubscribe/">here</a>
+-OR-
+Write to us at:
+Scour, Inc., 15303 Ventura Blvd. Suite 220, Sherman Oaks, CA 91403, USA.
 </p>
+
                       </div>
             <div class="content_box_bottom"></div>
                   </div>
       </center>
-    </div>    
+    </div>
   </div>
   <div id="footer">
     <center>
-      <div style="width:600px;">
+      <div style="width:650px;">
        <div class="footer_link_container"><a href="/about/">About</a></div>
        <div class="footer_link_container"><a href="/privacy/">Privacy Policy</a></div>
        <div class="footer_link_container"><a href="http://www.abcsearch.com/cgi-bin/referadvfree.pl?referrerId=scour">Advertise</a></div>
        <div class="footer_link_container"><a href="http://blog.scour.com/press/">News</a></div>
        <div class="footer_link_container"><a href="http://scour.com/unsubscribe/">Unsubscribe</a></div>
        <div class="footer_link_container"><a href="/communityguidelines/">Community Guidelines</a></div>
-       <center><div class="copyright">© 2008 Scour.com</div></center>
+       <center><div class="copyright">© 2009 Scour.com</div></center>
       </div>
     </center>
   </div>
@@ -185,7 +226,7 @@ If you have any questions, comments or concerns about our Privacy Policy, please
       <div class="feedback-loading" style="display:none"></div>
       <div class="feedback-message" style="display:none"></div>
       <form action="#" style="display:none">
-        <div class="padded">Before you send your comments, have a <a href="" target="_blank">look at our FAQ page</a>, many of the the common questions and comments we receive are discussed on there.<br> 
+        <div class="padded">Before you send your comments, have a <a href="" target="_blank">look at our FAQ page</a>, many of the the common questions and comments we receive are discussed on there.<br>
         Please take our <a href="http://www.surveymonkey.com/s.aspx?sm=aqMokaRqXMRmc30tF6veHA_3d_3d">Survey</a>.</div>
         <label for="feedback-name">*Your Name:</label>
         <input type="text" id="feedback-name" class="feedback-input" name="name" tabindex="1001">
@@ -216,11 +257,46 @@ If you have any questions, comments or concerns about our Privacy Policy, please
       </form>
     </div>
   </div>
+
+  <div id="verifyemailmodal" class="modal-main padded" style="display:none;">
+		<h2 class="modal-title">Verify your Email</h2>
+		<div id="loginmodal-close" class="modal-close" onclick="$.modal.close();">X</div>
+    <p class="padded"><strong>Note:</strong> To ensure you receive all future Scour Cash Out notifications, please verify your address through the Verification Email we sent you after sign up. Please be sure to <a href="/faq/whitelist/" target="_blank">whitelist Scour</a>.</p>
+    <div class="clear padded">
+      <a href="#" id="verifymodal-resendverification" class="resultTitle" style="border:0">Resend my verification email</a>
+    </div>
+    <div style="display:none" id="verifymodal-notificationsent">
+      <p class="highlight padded">
+        Verification has been re-sent, please check inbox and junk/spam folders.
+      </p>
+    </div>
+
+    <div class="clear padded">
+      <a href="/profile/settings/editprofile/" class="resultTitle" style="border:0">Change my email address</a>
+    </div>
+	</div>
+
   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
   </script>
   <script type="text/javascript">
   _uacct = "UA-4569478-1";
   urchinTracker();
+  </script>
+  <script type="text/javascript">
+    var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
+    document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+  </script><script src="https://uservoice.com/javascripts/widgets/tab.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  UserVoice.Tab.show({ 
+    key: 'scour',
+    host: 'scour.uservoice.com', 
+    forum: 'general', 
+    alignment: 'right',
+    background_color:'#83BC14', 
+    text_color: 'white',
+    hover_color: '#06C',
+    lang: 'en'
+  })
   </script>
 
 
