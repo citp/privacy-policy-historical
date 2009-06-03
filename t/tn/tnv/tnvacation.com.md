@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnvacation.com privacy policy that was archived on 2008-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081122072104id_/http%3A//www.tnvacation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnvacation.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603051637id_/http%3A//www.tnvacation.com/privacy) for the most accurate reproduction.*
 
 # Tennessee Vacation - The State's Official Travel Planning Website
 
@@ -48,4 +48,4 @@ A user who no longer wishes to receive the TDTD newsletter or promotional materi
 
 If TDTD decides to change this privacy policy, TDTD will post such changes on TDTD's privacy page so users are always aware of what information is being collected, how it will be used, and under what circumstances, if any, TDTD will disclose it. If at any point TDTD decides to use personally identifiable information in a manner different from that stated at the time it was collected, TDTD will notify users by way of an email. Users will have a choice as to whether or not TDTD may use their information in this or in a different manner. TDTD will use information in accordance with the privacy policy under which the information was collected.
 
-If you have comments or questions regarding the Department of Tourist Development web site privacy policy, contact [tourdev@state.tn.us](mailto:tourdev@state.tn.us).
+If you have comments or questions regarding the Department of Tourist Development web site privacy policy, contact [tourdev@tn.gov](mailto:tourdev@tn.gov).
