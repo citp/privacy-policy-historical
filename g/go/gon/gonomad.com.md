@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020832id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603173810id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for GoNOMAD.com
 
@@ -70,5 +70,3 @@ GoNOMAD.com will not send you any email if you do not wish to receive any. If yo
 If you have any further questions or suggestions about this privacy statement, please contact [editorial at gonomad.com](mailto:editorial@gonomad.com). If you are concerned about a specific page on our site, please include the address in the email message. 
 
 | 
-
-[](http://www.addthis.com/bookmark.php)
