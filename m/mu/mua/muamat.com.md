@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081935id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603033915id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -57,6 +57,6 @@ As muamat.com expands its offerings, we will update our Privacy Policy to addres
 **Questions or Suggestions**  
 If you have questions or concerns about our privacy policy, please email us using our contact us form. 
 
-Last updated November 10, 2005
+Last updated April 01, 2009
 
 [Muamat.com Classifieds](http://www.muamat.com/)
