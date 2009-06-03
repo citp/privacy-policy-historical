@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodhaba.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101258id_/http%3A//www.photodhaba.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodhaba.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603121517id_/http%3A//www.photodhaba.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoDhaba
 
@@ -21,7 +21,11 @@ VideoDhaba analyzes website logs to constantly improve the value of the material
 
 We do not use cookies on this site. However since we use outside companies to display ads on our site, these ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-**Complains:**
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. ([Click Here](http://www.google.com/privacy_ads.html)) **
+
+Complains:
+
+**
 
 In case of any complains related anything with VideoDhaba, send us an email at [admin@videodhaba.com](mailto:admin@videodhaba.com)
 
