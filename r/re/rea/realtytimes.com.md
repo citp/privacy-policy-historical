@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182927id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603043348id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -74,7 +74,7 @@ The Privacy Notice posted on this site was updated on or about August 1, 2006.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\PitneyBowes_Banner_C2&LINK=http://altfarm.mediaplex.com/ad/ck/10236-68434-18289-6)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\WebcastCity_Banner_C1&LINK=http://WebcastCity.com/)
 
 |    
 
@@ -84,25 +84,33 @@ Real Estate News Network
 [ ](http://www.adobe.com/go/getflashplayer)
 
 **Mortgage Rates**  
-30 Year Fixed: 5.47%  
-15 Year Fixed: 5.20%  
-1 Year Adj: 5.82%  
+30 Year Fixed: 4.91%  
+15 Year Fixed: 4.53%  
+1 Year Adj: 4.69%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines  
 
 
-  * [Market Conditions](https://web.archive.org/rtpages/20081217_mrktconditions.htm)
-  * [Budget for HOA Success](https://web.archive.org/rtpages/20081217_hoasuccess.htm)
-  * [Back to School, Back to the Basics](https://web.archive.org/rtpages/20081217_backbasics.htm)
-  * [Make New Friends but Keep the Old!](https://web.archive.org/rtpages/20081217_newfriends.htm)
-  * [Market Conditions](https://web.archive.org/rtpages/20081216_mrktconditions.htm)
-  * [Attention Shoppers! A Transformative Business Model Now Available in Consulting Isle](https://web.archive.org/rtpages/20081216_busmodel.htm)
-  * [Virtual Home Is the First Step: HomelessNation.org](https://web.archive.org/rtpages/20081216_homelessnation.htm)
-  * [Tips for an Eco-Friendly Holiday](https://web.archive.org/rtpages/20081216_ecoholiday.htm)
-  * [Real Estate Outlook: Affordability Dramatically Improved](https://web.archive.org/rtpages/20081216_realestateoutlook.htm)
-  * [Market Conditions](https://web.archive.org/rtpages/20081215_mrktconditions.htm)
+  * [Market Conditions](https://web.archive.org/rtpages/20090602_mrktconditions.htm)
+  * [Emphasis on Social Norms Will Help Brokerages in the Long Run](https://web.archive.org/rtpages/20090602_socialnorms.htm)
+  * [Real Estate Outlook: Consumer Confidence Rising](https://web.archive.org/rtpages/20090602_realestateoutlook.htm)
+  * [G8 Meets "Cottage Country"](https://web.archive.org/rtpages/20090602_cottage.htm)
+  * [Condo Trends: Come Home to the Mall](https://web.archive.org/rtpages/20090601_condotrends.htm)
+  * [Helping Clients Estimate Their Affordability Range](https://web.archive.org/rtpages/20090601_helpafford.htm)
+  * [Washington Report: HUD Raises Expectations](https://web.archive.org/rtpages/20090601_washingtonreport.htm)
+  * [Market Conditions](https://web.archive.org/rtpages/20090529_mrktconditions.htm)
+  * [Convey Your Competitive Advantage in Prospect Presentations](https://web.archive.org/rtpages/20090529_convey.htm)
+  * [Investor Report: Gorilla Housing](https://web.archive.org/rtpages/20090529_investorreport.htm)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\PitneyBowes_Sponsor_C2&LINK=http://altfarm.mediaplex.com/ad/ck/10236-68434-18289-5)   
+  
+
+
+* * *
+
+Spotlight 
+
+  
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\WebcastCity_Spotlight_C1&LINK=http://WebcastCity.com/)   
 
