@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetunes.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705114601id_/http%3A//www.streetunes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetunes.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604010506id_/http%3A//www.streetunes.com/privacy.html) for the most accurate reproduction.*
 
-# Streetunes - Ringtones, Realtones, Wallpapers, Animations. Cool mobile downloads for Cingular, T-mobile and Sprint
+# Streetunes - Polytones, Realtones, Wallpapers, Animations. Cool mobile downloads for AT&T,Verizon Wireless,T-mobile and Sprint
 
 At Streetunes, which is operated by SMBP Iglu, Ltd. and its family of companies, we take your privacy seriously. This privacy policy applies to the personal information we collect through this Web site, and describes how we collect, use, disclose, protect, and provide you with access to the personal information about you that we maintain. This privacy policy does not apply to personal information you may otherwise provide to us, or that we may otherwise collect.
 
@@ -41,7 +41,7 @@ Streetunes may share your personal information in limited circumstances, includi
 
 ### Access to Personal Information 
 
-You can call us at 1-877-268-8110 or e-mail us at support@streetunes.com to update, change, or request that we delete your personal information. 
+You can call us at 1-877-2688110 or e-mail us at support@streetunes.com to update, change, or request that we delete your personal information. 
 
 ### Protection of Personal Information 
 
@@ -61,6 +61,6 @@ Streetunes may update this privacy policy in the future. We will notify you abou
 
 ### How To Contact Us 
 
-If you have questions about our privacy policy, please call us at 1-877-268-8110; or e-mail us at support@streetunes.com. 
+If you have questions about our privacy policy, please call us at 1-877-2688110; or e-mail us at support@streetunes.com. 
 
 * * * This privacy policy is effective as of 20/2/2006. 
