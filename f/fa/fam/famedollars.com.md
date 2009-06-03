@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the famedollars.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609044219id_/http%3A//www.gammae.com/famedollars/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famedollars.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603230254id_/http%3A//www.gammae.com/famedollars/privacy.php) for the most accurate reproduction.*
 
-# Fame Dollars
+# FameDollars v2.0 - Privacy Policy
 
 **This website is owned by Net Fame Solutions**
 
