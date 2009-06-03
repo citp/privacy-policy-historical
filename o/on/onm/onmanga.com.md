@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmanga.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517145758id_/http%3A//www.onnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmanga.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604005229id_/http%3A//www.onnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ON Networks
 
@@ -6,7 +6,7 @@
 
 **ON Networks, Inc.** ("ON Networks") recognizes that its customers, visitors, users, and others (collectively or individually "Users") who use [www.onnetworks.com](http://www.onnetworks.com/) or other web sites owned or operated by ON Networks (collectively the "Website") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Website.
 
-  * Your use of the Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and the [ON Networks Terms of Use](https://web.archive.org/web/20080517145758id_/http%3A//www.onnetworks.com/legal/#terms).
+  * Your use of the Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and the [ON Networks Terms of Use](https://web.archive.org/web/20090604005229id_/http%3A//www.onnetworks.com/legal/#terms).
   * Please note that any comment or other content you post or send to the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
 
@@ -55,7 +55,7 @@
 ### 4\. Cookies 
 
   * ON Networks may set and access ON Networks cookies on your computer. You may disable these cookies within your browser, but some portions of the Website may require that your ON Networks cookies be enabled.
-  * ON Networks lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies. use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ON Networks' cookies.
+  * ON Networks lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies. use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ON Networks' cookies. To learn more about cookies visit [www.networkadvertising.org](http://www.networkadvertising.org/)
 
 
 
