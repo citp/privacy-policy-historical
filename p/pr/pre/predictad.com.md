@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035756id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603071858id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # PredictAd - Privacy Policy
 
@@ -40,6 +40,6 @@ For more information about our privacy practices, please contact us any time.
 Or write to us at: 
 
 Privacy Matters  
-SimplyGen Ltd.  
-P.O. 3030  
-Ra'anana, Israel
+SimplyGen Ltd.(PredictAd)  
+1150 Lake Hearn Drive, Suite 130  
+Atlanta, Georgia 30342 
