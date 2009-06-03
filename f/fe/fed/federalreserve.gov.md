@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092012id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603071129id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -51,7 +51,7 @@ The Board’s website is part of a Federal computer system used to accomplish Fe
 
 ## How to Contact Us about the Website
 
-If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20081217092012id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551.
+If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20090603071129id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551.
 
 ## Responsibility
 
@@ -69,9 +69,17 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [Electronic Applications System (34 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_eapps.pdf)
 
+[Electronic Workpaper Program (EWP) Supervisory Systems (49 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_electronic_workpapers_program_supervisory_systems_final.pdf)
+
 [Office of Inspector General Information Technology Infrastructure Systems (29 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_oig_it.pdf)
 
-[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/web/20081217092012id_/http%3A//www.federalreserve.gov/generalinfo/privacy/privacyimpactpiv.pdf)
+[Office of the Secretary’s Directors Program Database (37 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_directors.pdf)
+
+[](https://web.archive.org/generalinfo/privacy/pia_for_directors.pdf)[Office of the Secretary Electronic Comments Routing System (46 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_secrs_final.pdf)
+
+[Personal Identity Verification (PIV) Program (36 KB PDF)](https://web.archive.org/generalinfo/privacy/privacyimpactpiv.pdf)
+
+[Studies to Develop and Test Consumer Regulatory Disclosures (43 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_for_consumer.pdf)
 
 [Supervisory Enforcement Actions and Special Examinations Tracking System (32 KB PDF)](https://web.archive.org/generalinfo/privacy/pia_sease.pdf)
 
