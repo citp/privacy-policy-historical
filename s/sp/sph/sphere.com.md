@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sphere.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093203id_/http%3A//www.sphere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sphere.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603032749id_/http%3A//www.sphere.com/privacy) for the most accurate reproduction.*
 
 # Sphere | Privacy Policy
 
