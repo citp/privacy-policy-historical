@@ -1,20 +1,15 @@
-<!--The following is the downloaded HTML source of the healingcrystals.com privacy policy that was archived on 2008-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080903131605id_/http%3A//www.healingcrystals.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healingcrystals.com privacy policy that was archived on 2009-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090603045438id_/http%3A//www.healingcrystals.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
+
+<!-- /public_html/templates/Original/main_page.tpl.php sof -->
+ 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- BOF: Generated Meta Tags -->
-  <meta name="Description" content="Privacy Statement We appreciate your business and respect your privacy!
-
-ALL of your information collected on HealingCrystals.com will be kept confidential.
-
-We do not resell or disclose any of the information you ">
-  <meta name="Keywords" content="Privacy Statement We appreciate your business and respect your privacy!
-
-ALL of your information collected on HealingCrystals.com will be kept confidential.
-
-We do not resell or disclose any of the information you ">
-  <title>Privacy Statement</title>
+<title>Privacy Statement - HealingCrystals.com - Selling High Quality Healing Crystals at Discount Prices</title>
+<meta name="DESCRIPTION" content="Privacy Statement - HealingCrystals.com - Selling High Quality Healing Crystals at Discount Prices">
+<meta name="Keywords" content="privacy,statement,selling,high,quality,healing,crystals,discount,prices">
 <!-- EOF: Generated Meta Tags -->
 <base href="http://www.healingcrystals.com/">
 	
@@ -55,27 +50,124 @@ window.attachEvent("onload", correctPNG);
 </script>
 <![endif]-->
 
+<!-- 
+4/28/09 edit by Bob <www.site-webmaster.com>: renamed popup for all pages:
+ -->
+<script language="javascript" type="text/javascript"><!--
+function popupWindow2(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=800,screenX=50,screenY=50,top=50,left=50')
+}
+//-->
+</script>
+
+<style type="TEXT/CSS">
+#dhtmltooltip{
+position: absolute;
+width: 125px;
+border: 1px solid black;
+visibility: hidden;
+text-align:center;
+z-index: 100;
+}
+</style>
 
 </head>
-<!-- 7/24/08 edit by Bob <site-webmaster.com>:
-/public_html/templates/Original/main_page.tpl.php
--->  
+
 <body>
 <!-- warnings //-->
 <!-- warning_eof //-->
 
 <!-- header //-->
+<!-- sof start  /public_html/templates/Original/header.php -->
 <!-- 
-7/28/08 code cleaned by Bob http://www.site-webmaster.com/
-to eliminate most invalid HTML code
-
+5/15/09 edit by Bob <www.site-webmaster.com>: 
+script moved from /public_html/includes/column_left.php:
  -->
-<!--  start  /public_html/templates/Original/header.php -->
+
+<script language="javascript" type="text/javascript"><!--
+function popupWimpy(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=550,height=430,screenX=5,screenY=5,top=150,left=150')
+}
+
+//-->
+</script>
+
 <!---tableAbhi-->
-<!-- 7/24/08 edit by Bob <site-webmaster.com>: -->  
-<script language="JavaScript" type="text/javascript">
+
+<div id="dhtmltooltip"></div>
+<script type="text/javascript">
 var curMenu;
 var timer;
+var showTimer=3000; //3000 miliseconds Change to edit delay in drop down menu
+var isOver=false;
+var timer2;
+var offsetxpoint=-100 //Customize x offset of tooltip
+var offsetypoint=-30 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function showtip(thetext, thecolor, thewidth){ 
+// Comment out the next 7 lines to disable the tool tip for the drop-down menus
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+} 
+// End Comment to disable tool tips
+}
+
+function positiontip(e){ 
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+// COMMENT out the next line to disable tool tips 
+tipobj.style.visibility="visible"
+//
+setTimeout("hidetip()", showTimer);
+}
+}
+
+function hidetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
 
 function clearMenuTimer() {
     if( timer ) {
@@ -88,36 +180,118 @@ function setMenuTimer() {
     if( timer )
         window.clearTimeout( timer );
     timer = window.setTimeout("hide()", 0);
+    if( timer2 )
+        window.clearTimeout( timer2 );
+    
 } 
 
 function hide(){
 	document.getElementById("faq").style.visibility="hidden";
+	document.getElementById("catalog").style.visibility="hidden";
+	document.getElementById("crystalInfo").style.visibility="hidden";
 	document.getElementById("account").style.visibility="hidden";
 	curMenu = null;
-	document.getElementById("accountbt").src="templates/Original/images/header/bt_acount_login_off.gif";
-	document.getElementById("faqbt").src="templates/Original/images/header/bt_faq_off.gif";
 	clearMenuTimer();
 }
 
 function show(cObj, cId, e){
 alert("SDF");
 }
-
-function show1(cObj, cId, e){
-	cDiv = document.getElementById(cId);
-	if (cDiv != 'undefined' && cDiv != null){
+function showOnClick(cObj, cId, e){
+    cDiv = document.getElementById(cId);
+    var visDiv = cDiv.style.visibility;
+    
+    if(visDiv == 'inherit'){
+        //alert(visDiv);
+        cDiv.style.visibility = 'hidden';
+    }else{
+      var table = cDiv.childNodes[0];
+        if(table.nodeName.toLowerCase() != 'table'){
+		table = cDiv.childNodes[1];
+        }
+        if(cId == 'catalog' || cId == 'crystalInfo'){
+            table.setAttribute('width', (2*cObj.offsetWidth));
+		}else{
+            table.setAttribute('width', cObj.offsetWidth);
+		}
 		if (navigator.userAgent.indexOf('Gecko')>0){
+			if(cId == 'faq' || cId == 'account'){
+				w = (0);
+            	h = (26);
+			}else{
+				w = (0);
+				h = (26);
+			}
+            if(cId == 'crystalInfo'){
+                cDiv.style.left = GetElementLeft(document.getElementById('shpCatalog'))-w;
+            }else{
+                cDiv.style.left = GetElementLeft(cObj)-w;
+            }
+            cDiv.style.top  = GetElementTop(cObj)+h;
+		}else{
 			w = (0);
-            h = (10);
-			cDiv.style.left = GetElementLeft(cObj)-w;
+            h = (26);
+            if(cId == 'crystalInfo'){
+                cDiv.style.posLeft = GetElementLeft(document.getElementById('shpCatalog'))-w;
+            }else{
+                cDiv.style.posLeft = GetElementLeft(cObj)-w;
+            }
+			cDiv.style.posTop = GetElementTop(cObj)+h;
+		}
+
+           cDiv.style.visibility = "inherit";
+        }
+    }
+function show1(cObj, cId, e){
+//alert(cObj);
+	cDiv = document.getElementById(cId);
+	
+	if (cDiv != 'undefined' && cDiv != null){
+			var table = cDiv.childNodes[0];
+	if(table.nodeName.toLowerCase() != 'table'){
+		table = cDiv.childNodes[1];
+	}
+	if(cId == 'catalog' || cId == 'crystalInfo'){
+		table.setAttribute('width', (2*cObj.offsetWidth));
+		}else{
+		table.setAttribute('width', cObj.offsetWidth);	
+		}
+	
+		if (navigator.userAgent.indexOf('Gecko')>0){
+			
+			if(cId == 'faq' || cId == 'account'){
+				w = (0);
+            	h = (13);
+			}else{
+				w = (0);
+				h = (26); 
+			}
+			
+		if(cId == 'crystalInfo'){
+		cDiv.style.left = GetElementLeft(document.getElementById('shpCatalog'))-w;
+		}else{
+		cDiv.style.left = GetElementLeft(cObj)-w;	
+		}
+			
 			cDiv.style.top  = GetElementTop(cObj)+h;
 		}else{
 			w = (0);
             h = (26);
-			cDiv.style.posLeft = GetElementLeft(cObj)-w;
+            	if(cId == 'crystalInfo'){
+		cDiv.style.posLeft = GetElementLeft(document.getElementById('shpCatalog'))-w;
+		}else{
+	cDiv.style.posLeft = GetElementLeft(cObj)-w;
+		}
+			
 			cDiv.style.posTop = GetElementTop(cObj)+h;
 		}
-		cDiv.style.visibility = 'inherit';
+        
+       
+       isOver=true;
+           timer2 = setTimeout('if(isOver==true)cDiv.style.visibility = "inherit"',showTimer);
+       
+
+		
 	}
 	curMenu = cId;
 
@@ -130,6 +304,16 @@ function GetElementLeft(eElement) {
         eParElement = eParElement.offsetParent;  
     }
     return nLeftPos;                            
+}
+function GetElementRight(eElement) {
+    var nRightPos = eElement.offsetRight;          
+    var eParElement = eElement.offsetParent;    
+	//alert(eParElement);
+    while (eParElement != null) {                                            
+        nRightPos += eParElement.offsetLeft;      
+        eParElement = eParElement.offsetParent;  
+    }
+    return nRightPos;                            
 }
 
 function ChangeImage(elid,imagesrc)
@@ -152,97 +336,240 @@ function GetElementTop(eElement) {
     }
     return nTopPos;                              
 }
+function popupWimpy(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=550,height=430,screenX=5,screenY=5,top=150,left=150')
+}
 
-</script>
-<table height="132" cellspacing="0" cellpadding="0" width="100%" background="templates/Original/images/header/bg.gif" border="0" style="border-collapse: collapse" bordercolor="#111111">
+  // array of images 
+  var imgs = new Array(9); 
+    imgs[0] = "templates/Original/images/header/bt_shoppingcart_on.gif"; 
+    imgs[1] = "templates/Original/images/header/bt_wholesale_on.gif"; 
+    imgs[2] = "templates/Original/images/header/bt_contact_on.gif";
+    imgs[3] = "templates/Original/images/header/bt_acount_login_on.gif";
+    imgs[4] = "templates/Original/images/header/bt_faq_on.gif";
+    imgs[5] = "templates/Original/images/infobox/title_home1_on.gif";
+    imgs[6] = "templates/Original/images/infobox/hdr1_left_on.gif";
+    imgs[7] = "templates/Original/images/infobox/hdr1_right_on.gif";
+    imgs[8] = "templates/Original/images/infobox/hdr_bg_on.gif";
+  
+  
+  // preload the images 
+  function preload() { 
+   var tmp = null; 
+   for (var j = 0; j < imgs.length; j++) { 
+     tmp = imgs[j]; 
+     imgs[j] = new Image(); 
+     imgs[j].src = tmp; 
+   } 
+  } 
+  void(preload()); 
+
+function swapImage(id, sr){
+	//alert(id);
+	document.getElementById(id).src = sr;
+}
+function swapHoverImage(element){
+	if (element == 'catalog') {
+		document.getElementById('catalogleft').src = 'templates/Original/images/infobox/hdr1_left_on.gif';
+		document.getElementById('catalogright').src = 'templates/Original/images/infobox/hdr1_right_on.gif';
+		document.getElementById('catalogtd').className = 'hdrButtonhover';
+	} else if (element == 'information') {
+		document.getElementById('informationleft').src = 'templates/Original/images/infobox/hdr1_left_on.gif';
+		document.getElementById('informationright').src = 'templates/Original/images/infobox/hdr1_right_on.gif';
+		document.getElementById('informationtd').className = 'hdrButtonhover';
+	}
+}
+function swapHoverImageOut(element){
+	if (element == 'catalog') {
+		document.getElementById('catalogleft').src = 'templates/Original/images/infobox/hdr1_left.gif';
+		document.getElementById('catalogright').src = 'templates/Original/images/infobox/hdr1_right.gif';
+		document.getElementById('catalogtd').className = 'hdrButton';
+	} else if (element == 'information') {
+		document.getElementById('informationleft').src = 'templates/Original/images/infobox/hdr1_left.gif';
+		document.getElementById('informationright').src = 'templates/Original/images/infobox/hdr1_right.gif';
+		document.getElementById('informationtd').className = 'hdrButton';
+	}
+}
+</script> 
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="height:112px;border-collapse: collapse;background-image: url(templates/Original/images/header/bg.gif);border-color:#111111">
   <tbody>
   <tr>
-    <td>
-    <div align="right">
-      <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="90%" id="AutoNumber1" cellpadding="0" background="templates/Original/images/header/logo_bg1.gif">
+    <td width="121" align="left">
+    <div>
+      <table border="0" cellspacing="0" width="90%" id="AutoNumber1" cellpadding="0">
         <tbody><tr>
-          <td width="100%">
-			<img height="117" src="templates/Original/images/header/star1.gif" width="111" border="0" alt=""></td>
+          <td valign="bottom">
+			<img height="112" src="templates/Original/images/header/star1.gif" width="111" border="0" alt=""></td>
+			
         </tr>
+        
       </tbody></table>
     </div>
-    </td>
+    </td>  
+    
     <td>
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2" height="117">
-        <tbody><tr>
-       	  <td background="templates/Original/images/header/logo_bg1.gif">
-          <table cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse: collapse" bordercolor="#111111">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="AutoNumber2">
+   
         <tbody>
         <tr>
-          <td align="center">
-          <img height="48" src="templates/Original/images/header/logo1.gif" width="365" border="0" alt=""></td></tr>
+          <td align="center" colspan="3" valign="top" height="48">
+          <img src="templates/Original/images/header/logo1.gif" border="0" alt="">
+		  </td></tr>
         <tr>
-          <td align="center"><img border="0" src="templates/Original/images/header/text1.gif" width="336" height="54" alt=""></td>
+          <td align="center" valign="middle" height="32" colspan="3" width="100%" style="color:#000000; font-size:12px;">"Promoting the Education and Use of Crystals<br>to Support Healing"</td>
+		</tr>
+		<tr>	
+		<td height="32" class="headernavigation" nowrap="" align="left" valign="top" onclick="location.href='/'" style="cursor:pointer;" onmouseover="document.getElementById('home').style.display='none';document.getElementById('overhome').style.display='block';" onmouseout="document.getElementById('home').style.display='block';document.getElementById('overhome').style.display='none';">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0" id="home">
+  <tbody> <tr>
+   			<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" style="cursor:pointer;" width="100%" align="center">Home</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+   
+   </tr></tbody>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" style="display:none;" id="overhome">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left_on.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButtonhover" style="cursor:pointer;" width="100%" align="center">Home</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right_on.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+        </td>
+		        <td id="shpCatalog" width="48%" title="" class="headernavigation" nowrap="" align="left" height="26" onmouseover="hide();show1(this, 'catalog'); swapHoverImage('catalog'); showtip('Click to Open/Close Menu', 'white','150');" onmouseout="hidetip();setMenuTimer(); swapHoverImageOut('catalog');" onclick="showOnClick(this, 'catalog');" valign="top">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+   		<td width="7" align="left"><img id="catalogleft" src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td id="catalogtd" class="hdrButton" style="cursor:pointer;" width="100%" align="center">Shopping Catalog</td>
+		<td width="7" align="right"><img id="catalogright" src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+      </tr>  
+</tbody></table>         
+		  </td>			 
+          <td id="crtlInfo" width="48%" title="" class="headernavigation" nowrap="" align="left" height="26" onmouseover="showtip('Click to Open/Close Menu', 'white', '150');hide();show1(this, 'crystalInfo');swapHoverImage('information');" onclick="showOnClick(this, 'crystalInfo'); return false;" onmouseout="hidetip();setMenuTimer();swapHoverImageOut('information');" valign="top">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+   		<td width="7" align="left"><img id="informationleft" src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" width="100%" align="center" id="informationtd" style="cursor:pointer;">Crystal Information</td>
+		<td width="7" align="right"><img id="informationright" src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+      </tr>  
+</tbody></table>         
+		  </td>	
+
 		</tr>
         </tbody>
 		</table>
           </td>
-          <td>
-          <img border="0" src="templates/Original/images/header/logo_brd1.gif" width="2" height="117" alt=""></td>
-        </tr>
-      </tbody></table>
-	  
-      </td>
-    <td align="center">
-            <table cellspacing="0" cellpadding="0" width="268" border="0" style="border-collapse: collapse" bordercolor="#111111">
+          
+     
+    <td align="left" width="256">
+            <table cellspacing="0" cellpadding="0" align="left" width="256" border="0">
         <tbody>
         <tr>
-          <td height="48">
-            <form name="quick_find" action="http://www.healingcrystals.com/advanced_search_result.php" method="get">
-            <div align="center">
+          <td valign="bottom" height="48">
+            <form name="quick_find" action="/advanced_search_result.php" method="get">
               <center>
-            <table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" bordercolor="#111111">
+            <table cellspacing="0" cellpadding="0" border="0">
               <tbody>
               <tr>
-                <td valign="middle"><input maxlength="30" size="12" name="keywords"></td>
-                <td valign="middle">&nbsp;<input title="BOX_HEADING_SEARCH" type="image" alt="BOX_HEADING_SEARCH" src="templates/Original/images/header/button_quick_find.gif"></td></tr>
+                <td valign="top"><input maxlength="30" size="12" name="keywords"></td>
+                <td valign="top">&nbsp;<input title="BOX_HEADING_SEARCH" type="image" alt="BOX_HEADING_SEARCH" src="templates/Original/images/header/button_quick_find.gif"></td></tr>
               <tr>
-                <td colspan="2" class="headernavigation">
-                <a class="headernavigation1" href="http://www.healingcrystals.com/advanced_search.php"><b>
-                <font style="font-size: 9pt">More Search Options</font></b></a></td>
+                <td colspan="2" class="headernavigation" align="left">
+                <a class="headernavigation1" href="/advanced_search.php">Search Options</a></td>
                 </tr></tbody></table></center>
-
-            </div>
             </form></td>
 			
-          <td class="headernavigation" nowrap="" align="center" height="48">
-          	<a href="http://www.healingcrystals.com/shopping_cart.php"><img border="0" src="templates/Original/images/header/bt_shoppingcart_off.gif" id="shoppingcartbt" width="128" height="40" alt=""></a> </td>
+          <td class="headernavigation" nowrap="" align="center" valign="bottom" height="48">
+          	<a href="/shopping_cart.php"><img border="0" src="templates/Original/images/header/bt_shoppingcart_off.gif" onmouseout="javascript:this.src='templates/Original/images/header/bt_shoppingcart_off.gif';hidetip();" onmouseover="javascript:this.src='templates/Original/images/header/bt_shoppingcart_on.gif';" id="shoppingcartbt" width="128" alt="" title=""></a> </td>
 		</tr>
 		
-        <tr>
-          <td class="headernavigation" nowrap="" align="center" height="34" width="128">
-		  	 <table cellspacing="0" cellpadding="0" width="100%" border="0">
-   				<tbody><tr>
-   					<td align="left" width="7"><img src="templates/Original/images/infobox/hdr1_left.gif" width="7" height="26" alt="" border="0"></td>
-					<td align="center" width="100%" class="hdrButton"><a class="hdrButton" href="http://www.healingcrystals.com/information.php?info_id=2">Shipping</a></td>
-					<td align="right" width="7"><img src="templates/Original/images/infobox/hdr1_right.gif" width="7" height="26" alt="" border="0"></td>
-	  			</tr>  
-			 </tbody></table></td>
-			 
-          <td class="headernavigation" nowrap="" align="center" height="34" width="128">		  
-		  <table cellspacing="0" cellpadding="0" width="100%" border="0">
-   				<tbody><tr>
-   					<td align="left" width="7"><img src="templates/Original/images/infobox/hdr1_left.gif" width="7" height="26" alt="" border="0"></td>
-					<td align="center" width="100%" class="hdrButton"><a class="hdrButton" href="http://www.healingcrystals.com/contact_us.php">Contact Us</a></td>
-					<td align="right" width="7"><img src="templates/Original/images/infobox/hdr1_right.gif" width="7" height="26" alt="" border="0"></td>
-</tr>
+        <tr> 
+
+    <td valign="middle" class="headernavigation" onclick="location.href='How_do_I_receive_Wholesale_Prices__Articles_388.html'" style="cursor:pointer;" onmouseover="document.getElementById('wholesalet').style.display='none';document.getElementById('overwholesalet').style.display='block';" onmouseout="document.getElementById('wholesalet').style.display='block';document.getElementById('overwholesalet').style.display='none';">
+    <table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:block;" id="wholesalet">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" style="cursor:pointer;" width="100%" align="center">Wholesale</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
 </tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:none;" id="overwholesalet">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left_on.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButtonhover" style="cursor:pointer;" width="100%" align="center">Wholesale</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right_on.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+
 </td>
+
+         <td valign="bottom" class="headernavigation" onclick="location.href='contact_us.php'" style="cursor:pointer;" onmouseover="document.getElementById('contactt').style.display='none';document.getElementById('overcontactt').style.display='block';" onmouseout="document.getElementById('contactt').style.display='block';document.getElementById('overcontactt').style.display='none';">
+    <table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:block;" id="contactt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" style="cursor:pointer;" width="100%" align="center">Contact Us</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:none;" id="overcontactt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left_on.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButtonhover" style="cursor:pointer;" width="100%" align="center">Contact Us</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right_on.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+
+</td>
+
+
 </tr>
 <tr>
 
-          <td class="headernavigation" nowrap="" align="center" height="34">
-          <a class="headernavigation1" onmouseover="hide();show1(this, 'account');" onmouseout="setMenuTimer();" href="http://www.healingcrystals.com/account.php">
-          <img border="0" src="templates/Original/images/header/bt_acount_login_off.gif" id="accountbt" width="128" height="26" alt=""></a>
+          <td class="headernavigation" align="left" height="32" valign="middle" style="cursor:pointer;" width="128" onclick="showOnClick(this, 'account'); return false;" onmouseover="showtip('Click to Open/Close Menu','white', '150');hide();show1(this, 'account'); document.getElementById('accountt').style.display='none';document.getElementById('overaccountt').style.display='block';" onmouseout="hidetip();setMenuTimer(); document.getElementById('accountt').style.display='block';document.getElementById('overaccountt').style.display='none'">
+
+        <table cellspacing="0" cellpadding="0" border="0" style="display:block;" id="accountt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" style="cursor:pointer;" width="100%" align="center">Account Login</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" style="display:none;" id="overaccountt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left_on.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButtonhover" style="cursor:pointer;" width="100%" align="center">Account Login</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right_on.gif" alt="" width="7" border="0"></td>
+        
+   </tr>
+</tbody></table>
+
 		  </td>
-          <td class="headernavigation" nowrap="" align="center" height="34">
-          <a class="headernavigation1" onmouseover="hide();show1(this,'faq',event);" onmouseout="setMenuTimer();" href="http://www.healingcrystals.com/faq.php">
-          <img border="0" src="templates/Original/images/header/bt_faq_off.gif" id="faqbt" width="128" height="26" alt=""></a>
+
+          <td class="headernavigation" align="left" height="32" valign="middle" style="cursor:pointer;" width="128" onclick="showOnClick(this, 'faq'); return false;" onmouseover="showtip('Click to Open/Close Menu','white', '150');hide();show1(this,'faq',event); document.getElementById('faqt').style.display='none';document.getElementById('overfaqt').style.display='block';" onmouseout="hidetip();setMenuTimer(); document.getElementById('faqt').style.display='block';document.getElementById('overfaqt').style.display='none'">
+
+        <table cellspacing="0" cellpadding="0" border="0" style="display:block;" id="faqt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButton" style="cursor:pointer;" width="100%" align="center">F.A.Q</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right.gif" alt="" width="7" border="0"></td>
+   
+   </tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" style="display:none;" id="overfaqt">
+   <tbody><tr>
+   		<td width="7" align="left"><img src="templates/Original/images/infobox/hdr1_left_on.gif" alt="" width="7" border="0"></td>
+		<td class="hdrButtonhover" style="cursor:pointer;" width="100%" align="center">F.A.Q</td>
+		<td width="7" align="right"><img src="templates/Original/images/infobox/hdr1_right_on.gif" alt="" width="7" border="0"></td>
+        
+   </tr>
+</tbody></table>
+
 		  </td>
  
 </tr>
@@ -262,62 +589,65 @@ function GetElementTop(eElement) {
 <div id="faq" style="LEFT: 0px; VISIBILITY: hidden; WIDTH: 100px; POSITION: absolute; TOP: 167px">
 <table cellspacing="0" cellpadding="0" width="128" border="0">
 
-<!-- 7/24/08 edit by Bob <site-webmaster.com>: -->  
+
 <tbody><tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
 
-<td class="headerNavigationT">
-   <table cellspacing="0" cellpadding="0" width="100%" border="0">
+<td>
+   <table cellspacing="0" cellpadding="0" width="100%" border="0">   
         <tbody><tr>
-			<td align="left" valign="top"><img src="templates/Original/images/infobox/hdr_top_left.gif" border="0" alt=""></td>
-			<td width="100%" background="templates/Original/images/infobox/hdr_top_bg.gif"><img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
-			<td align="right" valign="top"><img src="templates/Original/images/infobox/hdr_top_right.gif" border="0" alt=""></td>
+			<td align="left" height="12" width="12" valign="top"><img src="templates/Original/images/infobox/hdr1_top_left.gif" border="0" alt=""></td>
+			<td width="100%" height="12" class="headerNavigationT" style="background-image: url(templates/Original/images/infobox/hdr1_top_bg.gif); background-repeat:repeat-x;"></td>
+			<td align="right" valign="top"><img src="templates/Original/images/infobox/hdr1_top_right.gif" border="0" alt=""></td>
 		</tr>	   
 	   <tr>
-	   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr_left_bg.gif); 	background-repeat: repeat-y;" width="6"><img height="1" src="templates/Original/images/header/spacer.gif" width="6" border="0" alt=""></td>
-		<td class="boxText" align="left" width="100%">
-		 
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody>
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/Newsletter_Archive_Topics_2.html">Newsletter Archive</a></td></tr>
+		   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_left_bg.gif); 	background-repeat: repeat-y;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		<td align="left" width="100%" class="boxText headerNavigationT">
+		
+ 
+<ul class="hdrDropDownLinks">
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/About_Us_Articles_1111.html">
+			About Us</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/What_is_your_Return_Policy__Articles_1032.html">
+			Return Policy</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/FAQ_-_Summary_Articles_1109.html#shippinginformation">
+			Shipping Info</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/FAQ_-_Summary_Articles_1109.html#paymentinformation">
+			Payment Info</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/FAQ_-_Summary_Articles_1109.html#orderinginformation">
+			Ordering Info</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/Do_you_have_a_Catalog__Articles_1023.html">
+			Catalog</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/How_do_I_receive_Wholesale_Prices__Articles_388.html">
+			Wholesale</a>
+	</li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+		<a href="/sitemap.php">
+			Site Map</a>
+	</li>
+</ul>
 
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/Articles_on_Crystals_Topics_1.html">Articles on Crystals</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/Customer_Comments_Topics_5.html">Customer Reviews</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/Checkout_FAQ_Topics_11.html">Checkout Info</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> 	<a href="http://www.healingcrystals.com/allprods_by_price.html">Price List</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> 	<a href="http://www.healingcrystals.com/faq.php">About Us - FAQ</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> 	<a href="http://www.healingcrystals.com/links.php">Link Directory</a></td></tr>
-
-	<tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    	<td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/sitemap.html">Site Map</a></td></tr>
-</tbody></table>
 
 		 </td>
-		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr_right_bg.gif); background-repeat: repeat-y;" width="6"><img height="1" src="templates/Original/images/header/spacer.gif" width="6" border="0" alt=""></td>
+		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_right_bg.gif); background-repeat: repeat-y; background-position:top right;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
 		 </tr>
 		 <tr>
-			<td align="left" valign="bottom"><img src="templates/Original/images/infobox/hdr_down_left.gif" border="0" alt=""></td>
-			<td width="100%" background="templates/Original/images/infobox/hdr_down_bg.gif"><img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
-			<td align="right" valign="bottom"><img src="templates/Original/images/infobox/hdr_down_right.gif" border="0" alt=""></td>
+			<td height="5" align="left" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_left.gif" border="0" alt=""></td>
+			   <td height="5" width="100%" class="headerNavigationT" style="background-image: url(templates/Original/images/infobox/hdr1_down_bg.gif); background-repeat:repeat-x; background-position:bottom;">
+			<img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
+			<td height="5" align="right" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_right.gif" border="0" alt=""></td>
  
 </tr>
 </tbody></table>
@@ -328,47 +658,202 @@ function GetElementTop(eElement) {
 
 </div>
 
+<div id="catalog" style="LEFT: 0px; VISIBILITY: hidden;  POSITION: absolute; TOP: 167px">
 
-<div id="account" style="LEFT: 0px; VISIBILITY: hidden; WIDTH: 100px; POSITION: absolute; TOP: 167px">
-<table cellspacing="0" cellpadding="0" width="128" border="0">
-<tbody><tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><td class="headerNavigationT">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+
+<tbody><tr onmouseover="clearMenuTimer(); swapHoverImage('catalog');" onmouseout="setMenuTimer();swapHoverImageOut('catalog');">
+
+<td>
    <table cellspacing="0" cellpadding="0" width="100%" border="0">
         <tbody><tr>
-			<td align="left" valign="top"><img src="templates/Original/images/infobox/hdr_top_left.gif" border="0" alt=""></td>
-			<td width="100%" background="templates/Original/images/infobox/hdr_top_bg.gif"><img height="1" src="templates/Original/images/header/spacer.gif" width="1" border="0" alt=""></td>
-			<td align="right" valign="top"><img src="templates/Original/images/infobox/hdr_top_right.gif" border="0" alt=""></td>
+			<td height="12" align="left" valign="top"><img src="templates/Original/images/infobox/hdr1_top_left.gif" border="0" alt=""></td>
+			<td height="12" class="headerNavigationT" width="100%" style="background-image: url(templates/Original/images/infobox/hdr1_top_bg.gif); background-repeat:repeat-x;"></td>
+			<td height="12" align="right" valign="top"><img src="templates/Original/images/infobox/hdr1_top_right.gif" border="0" alt=""></td>
 		</tr>	   
 	   <tr>
-	   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr_left_bg.gif); 	background-repeat: repeat-y;" width="6"><img height="1" src="templates/Original/images/header/spacer.gif" width="6" border="0" alt=""></td>
-		<td class="boxText" align="left" width="100%">
+	   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_left_bg.gif); 	background-repeat: repeat-y;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		<td class="boxText headerNavigationT" align="left" width="100%">
+		<table width="100%" border="0"><tbody><tr>
 		
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody>
-  <tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    <td class="headerNavigation" nowrap=""><img src="templates/Original/images/arrow_right.gif" border="0" alt=""> 
-<a href="https://www.healingcrystals.com/login.php">Login</a></td></tr>    
+		<td width="50%">
+  <ul class="hdrDropDownLinks">
+  
+    <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/specials_text.html">Crystals on Sale Today!</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Discount_Assortments/">Assortments</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Wholesale_Quantity_Discounts/">Wholesale</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Listing_by_Stone_Type/">Listing by Stone Type</a></li>	
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Cut___Polished_Crystals/">Cut &amp; Polished</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Crystal_Jewelry/">Crystal Jewelry</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Tumbled_Stones_-_Gem_Stones/">Tumbled Stones</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Merkaba_-_Merkabah_Stars/">Merkabas - Merkabahs</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Sacred_Geometry_Crystals/">Sacred Geometry</a></li>
+	</ul>
+	</td><td width="50%">
+	
+	<ul class="hdrDropDownLinks">
 
-  <tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    <td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/account.php">My Account</a></td></tr>
-  <tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    <td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/account_history.php">Order History</a></td></tr>
-  <tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    <td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/wishlist.php">Wish List</a></td></tr>
-  <tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
-    <td class="headerNavigation" nowrap="">
-    	<img src="templates/Original/images/arrow_right.gif" border="0" alt=""> <a href="http://www.healingcrystals.com/subscribe.php">Free Newsletter</a></td></tr>
-</tbody></table>
-
- </td>
-		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr_right_bg.gif); background-repeat: repeat-y;" width="6"><img height="1" src="templates/Original/images/header/spacer.gif" width="6" border="0" alt=""></td>
+	
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Quartz_Points__All_/">Quarts Points (All)</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Quartz_Clusters__All_//">Quartz Clusters (All)</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Quartz_Points_by_Type/">Quartz Points (by Type)</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Quartz_Points__Wholesale_/">Quartz Points (Wholesale)</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>	
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Natural_Crystals___Minerals/">Natural Crystals &amp; Minerals</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Crystal_Points___Clusters/">Points &amp; Clusters</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/Pouches___Other_Items/">Pouches &amp; More</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>  
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/allprods.html">Full Catalog (text only)</a></li>
+  <li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><a href="/all_pictures.html">Full Catalog (w/ photos)</a></li>
+	</ul>
+	</td></tr></tbody></table></td>
+		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_right_bg.gif); background-repeat: repeat-y; background-position:top right;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
 		 </tr>
 		 <tr>
-			<td align="left" valign="bottom"><img src="templates/Original/images/infobox/hdr_down_left.gif" border="0" alt=""></td>
-			<td width="100%" background="templates/Original/images/infobox/hdr_down_bg.gif"><img height="1" src="templates/Original/images/header/spacer.gif" width="1" border="0" alt=""></td>
-			<td align="right" valign="bottom"><img src="templates/Original/images/infobox/hdr_down_right.gif" border="0" alt=""></td>
+			<td height="5" align="left" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_left.gif" border="0" alt=""></td>
+			   <td height="5" width="100%" class="headerNavigationT" style="background-image: url(templates/Original/images/infobox/hdr1_down_bg.gif); background-repeat:repeat-x; background-position:bottom right;">
+			<img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
+			<td align="right" height="5" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_right.gif" border="0" alt=""></td>
+ 
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</div>
+<div id="crystalInfo" style="RIGHT: 0px; VISIBILITY: hidden;  POSITION: absolute; TOP: 167px">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr onmouseover="clearMenuTimer(); swapHoverImage('information');" onmouseout="setMenuTimer(); swapHoverImageOut('information');">
+<td>
+   <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tbody><tr>
+			<td height="12" align="left" valign="top" style="background:transparent;"><img src="templates/Original/images/infobox/hdr1_top_left.gif" border="0" alt=""></td>
+			<td height="12" class="headerNavigationT" width="100%" style="background-image: url(templates/Original/images/infobox/hdr1_top_bg.gif); background-repeat:repeat-x;"></td>
+			<td height="12" align="right" valign="top"><img src="templates/Original/images/infobox/hdr1_top_right.gif" border="0" alt=""></td>
+		</tr>	   
+	   <tr>
+	   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_left_bg.gif); 	background-repeat: repeat-y;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		<td class="boxText headerNavigationT" align="left" width="100%">
+		<table width="100%" border="0"><tbody><tr><td width="50%">
+<ul class="hdrDropDownLinks">
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/forum/viewforum.php?f=9">Issues &amp; Ailment Guide</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/forum/viewforum.php?f=18">Crystal Formations</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/forum/viewforum.php?f=6">Crystal Cautions</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/forum/viewforum.php?f=13">Chakra Articles</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/Astrology_Crystals_Topics_6.html">Astrology Articles</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/forum/viewforum.php?f=52">Sacred Geometry Articles</a></li>
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><center>-------------------------------------------------------------</center></li>  	
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/videos.php">How to Clear Crystals</a></li>
+	
+	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> 
+	
+<!-- 
+	5/15/09 edit by Bob <www.site-webmaster.com>: made url valid:
+ -->
+
+	<a href="/articles.php?tPath=&amp;search=program&amp;key=title">How to Program Crystals</a>
+	
+	</li>    	
+
+</ul>
+</td>
+<td width="50%">
+<!-- 5/8/09 edit by Bob <www.site-webmaster.com>: fixed /Gem_Show_Information.html link:
+5/12/09 edit by Bob <www.site-webmaster.com>: fixed MPD links-->
+	<ul class="hdrDropDownLinks">
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/forum">
+				Community Forum</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/subscribe.php">
+				Free Monthly Newsletter</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/Newsletter_Archive_Topics_2.html">
+				Newsletter Archive</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<center>
+				-------------------------------------------------------------
+			</center>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="http://www.healingcrystals.biz/Gem_Show_Information.html">
+				Dates for Crystal Shows</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/cards.php">
+				Free Crystal Cards</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="http://www.crystalwiki.com">
+				Online Crystal Encyclopedia</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<center>
+				-------------------------------------------------------------
+			</center>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/Metaphysical_Directory_Crystal_Guide_Topics_3.html">
+				Metaphysical Directory w/Pictures</a>
+		</li>
+		<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();">
+			<a href="/Metaphysical_Directory_Crystal_Guide_Text_Topics_3.html">
+				Metaphysical Directory Text Only</a>
+		</li>
+	</ul>
+
+	</td></tr></tbody></table>	 </td>
+		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_right_bg.gif); background-repeat: repeat-y; background-position:top right;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		 </tr>
+		 <tr>
+			<td align="left" height="5" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_left.gif" border="0" alt=""></td>
+			   <td class="headerNavigationT" height="5" width="100%" style="background-image: url(templates/Original/images/infobox/hdr1_down_bg.gif); background-repeat:repeat-x; background-position:bottom right;">
+			<img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
+			<td height="5" align="right" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_right.gif" border="0" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="account" style="LEFT: 0px; VISIBILITY: hidden; WIDTH: 100px; POSITION: absolute; TOP: 167px">
+<table cellspacing="0" cellpadding="0" width="128" border="0">
+<tbody><tr onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"><td>
+   <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tbody><tr>
+			<td height="12" align="left" valign="top"><img src="templates/Original/images/infobox/hdr1_top_left.gif" border="0" alt=""></td>
+			<td class="headerNavigationT" height="12" width="100%" style="background-image: url(templates/Original/images/infobox/hdr1_top_bg.gif); background-repeat:repeat-x;"></td>
+			<td height="12" align="right" valign="top"><img src="templates/Original/images/infobox/hdr1_top_right.gif" border="0" alt=""></td>
+		</tr>	    
+	   <tr>
+	   	<td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_left_bg.gif); 	background-repeat: repeat-y;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		<td class="boxText headerNavigationT" align="left" width="100%">
+		
+<ul class="hdrDropDownLinks"><li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> 
+<a href="/login.php">Login</a></li>    
+
+  
+    	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/account.php">My Account</a></li>
+    	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/account_history.php">Order History</a></li>
+    	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/wishlist.php">Wish List</a></li>
+    	<li onmouseover="clearMenuTimer();" onmouseout="setMenuTimer();"> <a href="/subscribe.php">Newsletter</a></li></ul>
+
+ </td>
+		 <td style="BACKGROUND-IMAGE: url(templates/Original/images/infobox/hdr1_right_bg.gif); background-repeat: repeat-y; background-position:top right;" width="5"><img height="1" src="templates/Original/images/header/spacer.gif" width="5" border="0" alt=""></td>
+		 </tr>
+		 <tr>
+			<td height="5" align="left" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_left.gif" border="0" alt=""></td>
+			<td height="5" class="headerNavigationT" width="100%" style="background-image: url(templates/Original/images/infobox/hdr1_down_bg.gif); background-repeat:repeat-x; background-position:bottom right;"><img height="1" alt="" src="templates/Original/images/header/spacer.gif" width="1" border="0"></td>
+			<td height="5" align="right" valign="bottom"><img src="templates/Original/images/infobox/hdr1_down_right.gif" border="0" alt=""></td>
  
 </tr>
 </tbody></table>
@@ -379,7 +864,7 @@ function GetElementTop(eElement) {
 
 </div>
 
-<!--  end  /public_html/templates/Original/header.php -->
+<!-- eof end  /public_html/templates/Original/header.php -->
 <!-- header_eof //-->
 <!-- body //-->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -396,22 +881,13 @@ function GetElementTop(eElement) {
 to eliminate most invalid HTML code
  -->
 <!--  column_left.php start -->
+<!-- /public_html/includes/column_left.php sof -->
+<!-- 
+5/15/09 edit by Bob <www.site-webmaster.com>: 
+moved script popupWimpy to header
+ -->
 
-<tbody><tr>
-<td valign="middle" align="left">
-<script language="javascript" type="text/javascript"><!--
-function popupWimpy(url) {
-  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=550,height=430,screenX=5,screenY=5,top=150,left=150')
-}
-
-//-->
-</script>
-	<a href="/"><img src="templates/Original/images/infobox/title_home1_off.gif" border="0" alt="" align="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	
-	<a href="http://www.healingcrystals.com/Meditation_Music/"><img src="templates/Original/images/infobox/title_music_off.gif" onmouseover="this.src='templates/Original/images/infobox/title_music_on.gif'" onmouseout="this.src='templates/Original/images/infobox/title_music_off.gif'" border="0" align="middle" alt="Browse our Meditation Music Selection" title="Browse our Meditation Music Selection"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<!-- <a href="javascript: popupWimpy('http://www.healingcrystals.com/wimpyplayer.php')"><img src="templates/Original/images/infobox/title_player_off.gif" onMouseOver="this.src='templates/Original/images/infobox/title_player_on.gif'" onMouseOut="this.src='templates/Original/images/infobox/title_player_off.gif'" border=0 alt="Listen for FREE Beautiful Meditation Music from our Exclusive Artists." title="Listen for FREE Beautiful Meditation Music from our Exclusive Artists." align="middle"></a></td></tr> -->
-	<a href="http://www.healingcrystals.com/wimpyplayer.php" target="_blank"><img src="templates/Original/images/infobox/title_player_off.gif" onmouseover="this.src='templates/Original/images/infobox/title_player_on.gif'" onmouseout="this.src='templates/Original/images/infobox/title_player_off.gif'" border="0" alt="Listen for FREE Beautiful Meditation Music from our Exclusive Artists." title="Listen for FREE Beautiful Meditation Music from our Exclusive Artists." align="middle"></a></td></tr>
-<tr><td><img height="5" alt="" src="templates/Original/images/spacer.gif" width="1" border="0"></td></tr>
+			<tbody><tr><td><img height="5" alt="" src="templates/Original/images/spacer.gif" width="1" border="0"></td></tr>
 
 <!-- categories //-->
 
@@ -429,7 +905,7 @@ function popupWimpy(url) {
   <tbody><tr><td>
 	  <table class="infoBoxLeftContents" cellspacing="0" cellpadding="1" width="100%" border="0">
          <tbody><tr><td><img height="1" alt="" src="templates/Original/images/pixel_trans.gif" width="100%" border="0"></td></tr>
-         <tr><td class="boxText" align="left"><table cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse: collapse"><tbody><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/specials.html">Crystals on Sale Today!</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Discount_Assortments/">Discount Assortments</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Chakra_Assortments/">Chakra Assortments</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Crystal_Jewelry/">Crystal Jewelry</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Crystal_Points___Clusters/">Crystal Points &amp; Clusters</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Cut___Polished_Crystals/">Cut &amp; Polished Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Meditation_Music/">Meditation Music</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Merkaba_-_Merkabah_Stars/">Merkaba - Merkabah Stars</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Natural_Crystals___Minerals/">Natural Crystals &amp; Minerals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points__All_/">Quartz Points (All)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points__Wholesale_/">Quartz Points (Wholesale)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points_by_Type/">Quartz Points by Type</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Clusters__All_/">Quartz Clusters (All)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Sacred_Geometry_Crystals/">Sacred Geometry Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Salt_Lamps___Pouches/">Salt Lamps &amp; Pouches</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Tumbled_Stones_-_Gem_Stones/">Tumbled Stones - Gem Stones</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Wholesale_Quantity_Discounts/">Wholesale Quantity Discounts</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Listing_by_Stone_Type/">Listing by Stone Type</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/allprods.html">Price List -  Alphabetical</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/all_pictures.html">Pictures of ALL Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/sitemap.html">Site Map</a></td></tr></tbody></table></td></tr>
+         <tr><td class="boxText" align="left"><table cellspacing="0" cellpadding="0" width="100%" border="0" style="border-collapse: collapse"><tbody><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/specials_text.html">Crystals on Sale Today!</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Discount_Assortments/">Discount Assortments</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Chakra_Assortments/">Chakra Assortments</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Crystal_Jewelry/">Crystal Jewelry</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Crystal_Points___Clusters/">Crystal Points &amp; Clusters</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Cut___Polished_Crystals/">Cut &amp; Polished Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Clusters__All_/">Quartz Clusters (All)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points__All_/">Quartz Points (All)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points__Wholesale_/">Quartz Points (Wholesale)</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Quartz_Points_by_Type/">Quartz Points by Type</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Merkaba_-_Merkabah_Stars/">Merkaba - Merkabah Stars</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Natural_Crystals___Minerals/">Natural Crystals &amp; Minerals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Pouches___Other_Items/">Pouches &amp; Other Items</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Sacred_Geometry_Crystals/">Sacred Geometry Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Tumbled_Stones_-_Gem_Stones/">Tumbled Stones - Gem Stones</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Wholesale_Quantity_Discounts/">Wholesale Quantity Discounts</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/Listing_by_Stone_Type/">Listing by Stone Type</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/allprods.html">Price List -  Alphabetical</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/all_pictures.html">Pictures of ALL Crystals</a></td></tr><tr><td><img src="templates/Original/images/arrow_right.gif" border="0" alt="" width="12" height="12"></td><td class="infoBoxContents"><a class="infoBoxContents" href="http://www.healingcrystals.com/sitemap.php">Site Map</a></td></tr></tbody></table></td></tr>
          <tr><td><img height="1" alt="" src="templates/Original/images/pixel_trans.gif" width="100%" border="0"></td></tr>
 	   </tbody></table>
    </td></tr>
@@ -459,30 +935,22 @@ function couponpopupWindow(url) {
 //-->
 </script>
 </td></tr>
-<tr><td valign="top" class="infoBoxBg">
-
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-   <tbody><tr onclick="document.location.href='shopping_cart.php';">
-  		<td align="left" width="7">
-  		 <img src="templates/Original/images/infobox/hdr_left.gif" width="7" height="26" alt="" border="0">
-  		 </td>
-		<td align="center" width="100%" class="infoBoxLeftHeading">
-
-<!-- 8/12/08 edit by Bob <site-webmaster.com>: -->  
-		<div id="infoBoxLeftHeading">
-		<a href="shopping_cart.php" class="infoBoxLeftHeading">
-
-		Shopping Cart
-		</a>
-		</div>
-
-		
-		</td>
-		<td align="right" width="7"><img src="templates/Original/images/infobox/hdr_right.gif" width="7" height="26" alt="" border="0">
-		</td>	
-		
-		
-      </tr>
+<tr><td valign="top" class="infoBoxBg" style="cursor:pointer;" onclick="document.location.href='shopping_cart.php';" onmouseover="document.getElementById('shoppingcart').style.display='none';document.getElementById('overshoppingcart').style.display='block';" onmouseout="document.getElementById('shoppingcart').style.display='block';document.getElementById('overshoppingcart').style.display='none';">
+  <table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:block;" id="shoppingcart">
+   <tbody><tr>
+   		<td align="left" width="7"><img src="templates/Original/images/infobox/hdr_left.gif" width="7" height="26" alt="" border="0"></td>
+		<td align="center" width="100%" class="hdrbutton" height="26">Shopping Cart</td>
+		<td align="right" width="7"><img src="templates/Original/images/infobox/hdr_right.gif" width="7" height="26" alt="" border="0"></td>
+   
+   </tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="display:none;" id="overshoppingcart">
+   <tbody><tr>
+   		<td align="left" width="7"><img src="templates/Original/images/infobox/hdr1_left_on.gif" width="7" height="26" alt="" border="0"></td>
+		<td align="center" width="100%" class="hdrButtonhover" height="26">Shopping Cart</td>
+		<td align="right" width="7"><img src="templates/Original/images/infobox/hdr1_right_on.gif" width="7" height="26" alt="" border="0"></td>
+   
+   </tr>
 </tbody></table>
 <table class="infoBoxLeft" cellspacing="0" cellpadding="1" width="100%" border="0">
   <tbody><tr><td>
@@ -517,7 +985,8 @@ function couponpopupWindow(url) {
 
 <!-- shopping_cart_eof //-->
 
-<!-- start metaphyisical.php -->
+
+<!-- /public_html/templates/Original/boxes/metaphyisical.php sof -->
 <!-- 8/12/08 edit by Bob <site-webmaster.com>: 
 cleaned for W3C compliance -->  
 
@@ -542,10 +1011,15 @@ cleaned for W3C compliance -->
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
 
   </tr>
-  <tr>
-    <td class="boxText"><a href="Metaphysical_Directory_Topics_3.html">Metaphysical Directory</a>&nbsp;(125)</td>
-  </tr>
-  <tr>
+ <!-- 5/12/09 edit by Bob <www.site-webmaster.com>: link updated: -->
+<tr>
+	<td class="boxText">
+		<a href="Metaphysical_Directory_Crystal_Guide_Text_Topics_3.html">
+			Metaphysical Directory</a>
+	</td>
+</tr>
+<tr>
+
     <td><img height="1" alt="" src="templates/Original/images/spacer.gif" width="100%" border="0"></td>
   </tr>
 </tbody></table>
@@ -563,8 +1037,7 @@ cleaned for W3C compliance -->
 <tr><td class="infoBoxBg"><img border="0" src="templates/Original/images/divider1.gif" width="190" height="7" alt=""></td></tr>
 <tr><td><img height="5" alt="" src="templates/Original/images/spacer.gif" width="1" border="0"></td></tr>
 
-
-	<!-- END metaphyisical.php -->
+<!-- /public_html/templates/Original/boxes/metaphyisical.php eof -->
 <!-- free newsletter //-->
 <!-- 8/12/08 edit by Bob <site-webmaster.com>: 
 cleaned for W3C compliance -->
@@ -616,8 +1089,11 @@ cleaned for W3C compliance -->
 <!-- free newsletter_eof //-->
 
 
-<!-- articles //-->
+<!-- 
+/public_html/templates/Original/boxes/articles.php //-->
 
+
+<!-- /public_html/templates/Original/boxes/articles.php sof -->
 
 <!-- 8/13/08 edit by Bob <site-webmaster.com>: 
 cleaned for W3C compliance --> 
@@ -634,7 +1110,7 @@ cleaned for W3C compliance -->
 
 <table class="infoBoxLeft" cellspacing="0" cellpadding="1" width="100%" border="0">
 
-<tbody><tr><td><br><div align="center"><b>Most Recent Articles</b></div><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/_I_am_very_impressed__Articles_796.html"><u>"I am very impressed"</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/Free_Crystal_Resources_Articles_795.html"><u>Free Crystal Resources</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/Pendulums_and_Animal_Companions___Pets_Articles_794.html"><u>Pendulums and Animal Companions / Pets</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr> 
+<tbody><tr><td><br><div align="center"><b>Most Recent Articles</b></div><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/Chlorite_in_Quartz_Articles_1190.html"><u>Chlorite in Quartz</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/Chlorite_in_Quartz_Articles_1189.html"><u>Chlorite in Quartz</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr><tr><td class="boxText" align="left" style="padding-left: 5px;"><a class="article" href="http://www.healingcrystals.com/Moonstone__Rainbow_Articles_1191.html"><u>Moonstone, Rainbow</u></a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td></tr> 
   <tr><td style="padding-left: 5px;"><b>------------------------------</b></td></tr>
   
   
@@ -649,7 +1125,7 @@ cleaned for W3C compliance -->
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td class="boxText"><a href="http://www.healingcrystals.com/articles_new.php">New Articles</a> (24)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/articles.php">All Articles</a> (968)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/About_Us_Topics_9.html">About Us</a>&nbsp;(13)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Articles_on_Crystals_Topics_1.html">Articles on Crystals</a>&nbsp;(276)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Astrology_Crystals_Topics_6.html">Astrology Crystals</a>&nbsp;(12)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Checkout_FAQ_Topics_11.html">Checkout FAQ</a>&nbsp;(35)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Crystal_Recommendations_Topics_10.html">Crystal Recommendations</a>&nbsp;(218)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Customer_Comments_Topics_5.html">Customer Comments</a>&nbsp;(188)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/New___Updated_Products_Topics_4.html">New &amp; Updated Products</a>&nbsp;(81)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Newsletter_Archive_Topics_2.html">Newsletter Archive</a>&nbsp;(35)<br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td>
+    <td class="boxText"><a href="http://www.healingcrystals.com/articles_new.php">New Articles</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/articles.php">All Articles</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/About_Us_Topics_9.html">About Us</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Chakra_Crystals_Topics_15.html">Chakra Crystals</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Crystal_Reference_Library_Topics_14.html">Crystal Reference Library</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Metaphysical_Directory__Detailed_Topics_13.html">Metaphysical Directory: Detailed</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Sacred_Geometry_Topics_16.html">Sacred Geometry</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Crystal_Healing_Articles_Topics_1.html">Crystal Healing Articles</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Astrology_Crystals_Topics_6.html">Astrology Crystals</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Crystal_Recommendations_Topics_10.html">Crystal Recommendations</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Customer_Comments_Topics_5.html">Customer Comments</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/FAQ_-_Checkout_Questions_Topics_11.html">FAQ - Checkout Questions</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Metaphysical_Directory__Summary_Topics_3.html">Metaphysical Directory: Summary</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br><a href="http://www.healingcrystals.com/Newsletter_Archive_Topics_2.html">Newsletter Archive</a><br><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5"><br></td>
   </tr>
   <tr>
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -666,45 +1142,20 @@ cleaned for W3C compliance -->
 
 </td></tr>
 <tr>
-<td background="templates/Original/images/infobox_bg1.gif">
+<td style="background-image:url(templates/Original/images/infobox_bg1.gif)">
 <img border="0" src="templates/Original/images/divider1.gif" width="190" height="7" alt="">
 </td></tr>
 <tr><td>
 <img height="5" src="templates/Original/images/spacer.gif" width="1" border="0" alt=""></td></tr>
 <!-- articles EOF //-->
-<!-- favorites /public_html/templates/Original/boxes/favorites.php //-->
-
-<!-- 8/13/08 edit by Bob <site-webmaster.com>: 
-cleaned for W3C compliance , corrected filename in comments --> 
-
-<tr>
-  <td valign="top">
-	<table cellspacing="0" cellpadding="0" width="100%" border="0">
-   	  <tbody><tr>
-   		<td align="left" width="7"><img src="templates/Original/images/infobox/hdr_left.gif" width="7" height="26" alt="" border="0"></td>
-		<td align="center" width="100%" class="infoBoxLeftHeading">
-		<div id="infoBoxLeftHeading">
-		<a href="#" class="infoBoxLeftHeading" onclick="window.external.AddFavorite('http://www.healingcrystals.com/index.php', 'HealingCrystals.com - Discount Prices on Healing Crystals, Minerals &amp; Tumbled Stones');return false;">
-		Add to Favorite
-		</a>
-		</div>
-		</td>
-		<td align="right" width="7"><img src="templates/Original/images/infobox/hdr_right.gif" width="7" height="26" alt="" border="0"></td>
-   	  </tr> 
-	</tbody></table>
- </td>	
-	</tr>
-<tr><td><img height="5" alt="" src="templates/Original/images/spacer.gif" width="1" border="0"></td></tr>
-<!-- favorites_eof /public_html/templates/Original/boxes/favorites.php //-->
-
-
+<!-- /public_html/templates/Original/boxes/articles.php eof -->
 <!-- links /public_html/templates/Original/boxes/links.php //-->
 
 <!-- 8/13/08 edit by Bob <site-webmaster.com>: 
 cleaned for W3C compliance, corrected file names in comments --> 
 
 <tr>
-  <td valign="top" background="templates/Original/images/infobox_bg1.gif">
+  <td style="background-image:url(templates/Original/images/infobox_bg1.gif)">
 	<table cellspacing="0" cellpadding="0" width="100%" border="0">
    	  <tbody><tr>
    		<td align="left" width="7"><img src="templates/Original/images/infobox/hdr_left.gif" width="7" height="26" alt="" border="0"></td>
@@ -751,7 +1202,7 @@ cleaned for W3C compliance, corrected file names in comments -->
 <!-- 8/13/08 edit by Bob <site-webmaster.com>: 
 cleaned for W3C compliance --> 
 
-<tr><td valign="top" background="templates/Original/images/infobox_bg1.gif">
+<tr><td style="background-image:url(templates/Original/images/infobox_bg1.gif)">
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
    <tbody><tr>
@@ -787,7 +1238,8 @@ cleaned for W3C compliance -->
 </tbody></table>
 
 </td></tr>
-<tr><td background="templates/Original/images/infobox_bg1.gif">
+<tr>
+<td style="background-image:url(templates/Original/images/infobox_bg1.gif)">
 <img border="0" src="templates/Original/images/divider1.gif" width="190" height="7" alt=""></td></tr>
 <tr><td><img height="5" alt="" src="templates/Original/images/spacer.gif" width="1" border="0"></td></tr>
 
@@ -845,7 +1297,7 @@ cleaned for W3C compliance -->
 <!-- currencies_eof //-->
 
 <!-- column_left.php end -->
-<!-- left_navigation_eof //-->
+<!-- /public_html/includes/column_left.php eof --><!-- left_navigation_eof //-->
 </tbody></table>
 
 	</td>
@@ -911,8 +1363,8 @@ We <u>do not</u> resell or disclose any of the information you give to us.</font
     <td colspan="2"><img src="images/spacer.gif" width="1" height="14" alt="" border="0"></td>
   </tr>
   <tr class="footer">
-    <td height="26" class="footer">&nbsp;&nbsp;Wednesday 03 September, 2008&nbsp;&nbsp;</td>
-    <td class="footer" align="right">&nbsp;&nbsp;7890629 requests since Wednesday 26 November, 2003&nbsp;&nbsp;</td>
+    <td height="26" class="footer">&nbsp;&nbsp;Wednesday 03 June, 2009&nbsp;&nbsp;</td>
+    <td class="footer" align="right">&nbsp;&nbsp;11512247 requests since Wednesday 26 November, 2003&nbsp;&nbsp;</td>
   </tr>
   </tbody>
   </table>
@@ -923,7 +1375,18 @@ We <u>do not</u> resell or disclose any of the information you give to us.</font
   <tbody><tr>
     <td align="center" class="smallText">
 
-Copyright © 2007 Foundation for Balance and Harmony dba <a href="http://www.HealingCrystals.com">www.HealingCrystals.com</a>
+<center>Copyright © 2009 HealingCrystals.com, owned and operated by Foundation for Balance and Harmony.<br>
+All profits from this website go to support our <a href="http://www.healingcrystals.com/About_Us_Articles_1111.html">non-profit activities.</a></center>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8259967-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
     </td>
   </tr>
@@ -932,7 +1395,7 @@ Copyright © 2007 Foundation for Balance and Harmony dba <a href="http://www.Hea
 <!-- footer_eof //-->
 <!-- footer_eof //-->
 <!-- 
-end /public_html/templates/Original/main_page.tpl.php
+end eof /public_html/templates/Original/main_page.tpl.php
  -->
 
 
