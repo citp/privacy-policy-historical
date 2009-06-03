@@ -1,68 +1,74 @@
-> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219140311id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603083842id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Phone Shop - Dial-a-Phone
 
-Dial-a-Phone is a trading division of Phones 4u Limited, which is a limited company registered in England with registered company number 03154198, VAT number GB 884 2536 96, and its registered office at Osprey House, Ore Close, Lymedale Business Park, Newcastle-under-Lyme, Staffordshire, ST5 9QD, a limited company registered in England.
+* We will treat all your personal information:
 
-Dial-a-Phone is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
-
-  1. ### The Information We Collect and How We Use It ...Top
-
-When you wish to obtain products and services from us we need to know your name, your address (and for contract mobile phones 3 years of address history), e-mail address, telephone number, credit card number and expiry date and your bank sort code and account number. We also need to know your date of birth and your residential, employment and marital status.
-
-We gather this information to allow us to process any orders you may make which may include undertaking credit checks (both by us and third parties) and in connection with you obtaining an airtime agreement and mobile phone insurance. The relevant information is then used by us, our agents and sub-contractors, airtime providers and insurance companies to provide you with the products and services you have ordered and to communicate with you on any matter relating to the provision of the services and products in general. To help us and airtime providers to make credit decisions about you, to prevent fraud and to check your identity we and third parties may search their respective files and the files of credit reference agencies who will record any credit searches on your file. Details of how you conduct your account may be disclosed to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated, for fraud prevention, money laundering prevention and occasionally for tracing debtors.
-
-We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
-
-From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone, SMS and other messaging services or fax to ask you for your feedback and comments on our services and products.
-
-We and our group companies may also wish to provide you with information about other services or products we think may be of interest to you. You may be contacted by any of the above methods for this purpose. We may also want to provide you with related information from third parties we think may be of interest to you. We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. You may be contacted by any of the methods referred to above for these purposes. If you would rather not receive this information either directly from us or from selected third parties, or if you would rather only receive this information by particular methods (such as email) please use the account management facilities provided on-line by going to [www.dialaphone.co.uk](http://www.dialaphone.co.uk/) and clicking on MyAccount.
-
-We may also be required to provide your personal information to the Financial Services Authority and other regulatory and governmental agencies.
-
-  2. ### Our Use of Cookies and Other Information Gathering Technologies ...Top
-
-We monitor the use of our website for customer traffic and purchasing patterns by the use of “session cookies”.
-
-Cookies are text files that identify your computer to our server. Our server will automatically issue you with a cookie when you enter our site. Many sites use cookies to track traffic flows through their sites.
-
-Our cookies only record those areas of the site that have been visited by your computer, and for how long. You do have the opportunity to set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
-
-  3. ### How We Protect your Information ...Top
-
-The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy.
-
-We realise how important it is to securely store any information that you provide. Dial-a-Phone on all of its websites maintains the highest levels of security. Our sites use high-level SSL encryption technology, the most advanced security software currently available for online transactions. You can therefore rest assured that we take the privacy and security of your payment and personal details very seriously. 
-
-You can tell whether a page is secure as a small locked padlock will appear in the bottom bar of your browser window. Only the Checkout stage will be secure to protect your data.
-
-We also keep your information confidential. The internal procedures of Dial-a-Phone cover the storage, access and disclosure of your information.
-
-We must advise that despite the measures that we take to ensure that the security facilities that we provide are of the highest standards as possible, it is necessary for us to notify you that there is no guarantee that any e-mail sent by you to us at this site will be received by Dial-a-Phone, or that the message will remain confidential whilst in transit. You therefore accept that by acknowledging this situation that you do so at your own risk.
-
-  4. ### Sale of Business ...Top
-
-If our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. 
-
-  5. ### Updating your Details ...Top
-
-#### Existing Customers
-
-If any of the information that you have provided us changes, for example if you change your e-mail address, name, address or other details, you can correct the information by using the account management facilities provided on-line by going to [www.dialaphone.co.uk](http://www.dialaphone.co.uk/) and clicking on MyAccount.
-
-#### Non Dial-a-Phone Customers
-
-If you are not an existing customer of Dial-a-Phone and have received promotional emails that you no longer wish to receive you can unsubscribe by following the links at the top of the email.
-
-  6. ### Your Consent ...Top
-
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it.
-
-Owing to the global nature of the Internet infrastructure, the information you provide may be transferred to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers. 
-
-  7. ### Complaints...Top
-
-If you have any complaints regarding how your data is managed you can email privacy@dialaphone.com or write to The Privacy Manager, Dial-a-Phone, 53-79 Highgate Road, London, NW5 1TL. Please note this email and postal address are only provided for issues relating to storage and use of your data and we cannot guarantee any response to queries relating to any other issues.
+  * As confidential and will only disclose the same in the circumstances set out below; and,
+  * In accordance with Data Protection legislation from time to time in force in England and Wales.
 
 
+* When you shop on this Website, we will ask you to input personal details in order for us to identify you, such as your name, e-mail address, billing and delivery address, credit card or other payment information. We confirm that this information will be held by us in accordance with the registration we have with the Data Commissioner's office and collected lawfully in accordance to the Data Protection Act 1998. We will use your personal information for the following purposes:
 
+  * Processing your orders;
+  * To administer this Website;
+  * For statistical purposes to improve this Website and its services to you;
+  * If you have not objected during the registration process, to notify you of products or special offers that may be of interest to you;
+  * If you have not objected during the registration process, to disclose to other members within our group of companies and also to other relevant third parties, who may contact you about their products or services that may be of interest to you;
+
+
+* If you have not objected during the registration process, but do not want us to:
+
+  * Contact you regarding products or services which may be of interest to you; or
+  * To transfer your data to group companies and third parties so that they can contact you about their products and services;
+
+**Then please write to us at:**
+
+Dialaphone Web Customer Services Team  
+Osprey House  
+Ore Close  
+Lymedale Business Park  
+Newcastle-under-Lyme  
+Staffordshire  
+ST5 9QD 
+
+and notify us accordingly. 
+
+
+* Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or in writing and you do not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999.
+
+You should be aware that if the police requests us or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so.
+
+* **Cookies**
+
+Like many other web sites we use Cookies on our site. Cookies can help a website to personalise your visit. A Cookie is a text-only string of information that a website transfers to the Cookie file of the browser on your computer's hard disk so that the website can, among other things, remember who you are. A Cookie will typically contain the name of the domain from which the Cookie has come, the "lifetime" of the Cookie, and a value, usually a randomly generated unique number. Three types of electronic access, storage and/or tracing devices are used on this website:-
+
+* **Session Cookies:**
+
+which are temporary Cookies that remain in the cookie file of your browser until you leave the site. This information is not stored after you have left the site. We use Session Cookies to allow you to carry information across pages of our site and avoid having to re-enter information, during that particular visit. This information will not be available next time you visit our website.
+
+* **Persistent cookies:**
+
+which remain in the Cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie but this may be indefinitely or until deleted).
+
+We use Persistent Cookies to help us recognise you as a unique visitor when you next visit our website. The information stored may be recognised and used by our web-site next time you visit and we may use this information to personalise your visits and specifically tailor advertising and/or information directed toward you. This information may also be used to assist in the efficiency of the sign up process and to compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. Unless specifically deleted this information may be stored and accessed for an indefinite period of time.
+
+We cannot identify you personally in this way and we do not collect or monitor your customer information in conjunction with your Cookie information][although we may collect and monitor your customer information in conjunction with your Cookie information.
+
+* **Web Beacons:**
+
+which are electronic images known as Web Beacons (also called "clear gifs") that allow us to count the number of users who have visited these Web pages.
+
+We use Web Beacons to collect only limited information including but not limited to, a Cookie number, which Web page you visited, the number of times you visited that Web page, the time and date you visited that Web page, the length of that visit and a description of the Web page which you visited and on which the Web Beacon resides. We use this information to compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. We can also use this information to recognise whether you have visited our Website before. Unless specifically deleted this information may be stored and accessed for an indefinite period of time.
+
+Cookies cannot be used by themselves to identify you. However, if you are an existing customer and you have logged onto this site and identified yourself as a customer, we may be able to connect your personal information with your cookie information.
+
+How we use these electronic devices on our Website and what Information we collect.
+
+* **Third party Cookies:**
+
+We use third-party advertising technology to serve our advertisements when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise, to serve our advertisements to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use Web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These Web beacons enable our ads server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising.
+
+* **Disabling Cookies:**
+
+If you do not wish to accept our Cookies or Web Beacons you can decline Cookies and/or Web Beacons and/or refuse access to previously stored information by using your web Browser. The facilities within your web Browser to allow you to do this will vary from Browser to Browser but they may be found in the “Privacy” or “Cookies” section of the “Properties” menu of your Browser. If you require assistance in disabling Cookies you should refer to the "help" menu within your Browser. Please note however, that you may not be able to use all of the interactive features of our Website if Cookies and/or Web Beacons are disabled.
