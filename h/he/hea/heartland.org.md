@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2008-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081126211045id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603190703id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
 
 # The Heartland Institute: Privacy Policy
 
