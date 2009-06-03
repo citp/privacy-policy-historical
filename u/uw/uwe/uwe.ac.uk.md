@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022852id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603110357id_/http%3A//www.uwe.ac.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - UWE Bristol
 
@@ -20,7 +20,7 @@ To maintain and improve the quality of our website we use the SiteStat web metri
 
 ## Cookies
 
-Please see the University's [Cookie Policy](https://web.archive.org/web/20081216022852id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
+Please see the University's [Cookie Policy](https://web.archive.org/web/20090603110357id_/http%3A//www.uwe.ac.uk/info/cookiePolicy.shtml). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies. 
 
 ## Personal disclosures 
 
@@ -52,3 +52,13 @@ You should not use the email facility within Blackboard to email _en masse_ to y
 ## Web Beacons
 
 We use web beacons to gather information about how our web site is used. We do not gather personal information from their use.
+
+## UWE e-mail privacy
+
+The following relates to e-mails that link to this page at their base.
+
+Using the information that you provided on registration UWE may, from time to time, contact you by e-mail. UWE uses [Emailcenter UK](http://www.emailcenteruk.com/privacy.php) to send such e-mails. Emailcenter UK uses unique identifiers in those e-mails to perform tracking functions. We use the tracking data they collect to ensure our e-mails are both relevant to your interests and also to ensure we do not e-mail you needlessly. You can prevent this tracking by not allowing images to download when you open our e-mails. Information on how to do this can be found online or in your e-mail program instructions. You may choose to opt out of e-mails sent by UWE using the link provided on the e-mail. 
+
+UWE does not send unsolicited e-mail. If you appear to have received unsolicited e-mails from us please use the unsubscribe link on the e-mail or contact us and we will remove you from our lists.
+
+UWE does not share its e-mail lists with third parties.
