@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229060452id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603034644id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # iXiGO.com - Privacy Policy
 
@@ -12,7 +12,8 @@ You can visit iXiGO without revealing any personally identifiable information. W
 
 ## 3\. Cookies: 
 
-Cookies are small text files stored on user's hard drive containing data and information about the user. iXiGO may place cookies on your computer to enhance your overall site experience. These cookies generally do not allow us to personally identify you. However, external websites including our search partners may place their own cookies on your computer during your visit to their external website through links provided on our site. Use of the information contained in these cookies may be subject to their own privacy policies. Additionally, we may allow advertisers to place their own cookies in order to be able to serve more relevant adverts on this or other sites by tracking some of the searches and clicks on iXiGO as well as your response to each ad. In general, none of these third parties can make use of this information to identify you personally. 
+Cookies are small text files stored on user's hard drive containing data and information about the user. iXiGO may place cookies on your computer to enhance your overall site experience. These cookies generally do not allow us to personally identify you. However, external websites including our search partners may place their own cookies on your computer during your visit to their external website through links provided on our site. Use of the information contained in these cookies may be subject to their own privacy policies. Additionally, we may allow advertisers to place their own cookies in order to be able to serve more relevant adverts on this or other sites by tracking some of the searches and clicks on iXiGO as well as your response to each ad. In general, none of these third parties can make use of this information to identify you personally.   
+Additionally, some third-party advertising companies we partner with to serve ads when you visit our website may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/adsense/support/bin/answer.py?answer=100557). 
 
 ## 4\. Aggregate Information:
 
