@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219110621id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603062700id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
 
 # HerRoom Privacy Policy
 
+  * FREE SHIPPING
+  * Orders for $70.00 or more qualify for FREE standard U.S. shipping. [See offer details](https://web.archive.org/web/20090603062700id_/http%3A//www.herroom.com/shipping.aspx).   
+ 
+
+
+
 |   | 
 
-Free Shipping
-
-Orders for $70.00 or more qualify for FREE standard U.S. shipping. [See offer details](https://web.archive.org/web/20081219110621id_/http%3A//www.herroom.com/shipping.aspx).   
----|---  
-  
-> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20081219110621id_/http%3A//www.herroom.com/contact.aspx). 
+> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20090603062700id_/http%3A//www.herroom.com/contact.aspx). 
 > 
 > **When I visit HerRoom, what information is gathered about me and why?**  
 > 
@@ -32,17 +33,17 @@ Orders for $70.00 or more qualify for FREE standard U.S. shipping. [See offer de
 > 
 > **Who else has access to the information I provide to HerRoom?**
 > 
-> HerRoom does not sell, rent, or give away your personal information to anyone. We do supplement financial information for the purpose of billing and shipping your order. In other words, we do get approval from the credit card company and do give the shipper your address. The other form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them; or, if you complete a "tell a friend" form on our site. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to 1) comply with the law, 2) enforce or apply the terms of any of our user agreements or 3) protect the rights, property, or safety of HerRoom and our users, or others. 
+> HerRoom does not sell, rent, or give away your personal information to anyone. We do supply information for the purpose of billing and shipping your order. In other words, we do get approval from the credit card company and do give the shipper your address. The other form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them; or, if you complete a "tell a friend" form on our site. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to 1) comply with the law, 2) enforce or apply the terms of any of our user agreements or 3) protect the rights, property, or safety of HerRoom and our users, or others. 
 > 
 > **How do I manage how much information I share or if I share any at all?**
 > 
-> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20081219110621id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
+> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20090603062700id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
 > 
 > **What is HerRoom doing to protect my privacy?**
 > 
 > This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages which contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available. 
 > 
-> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20081219110621id_/http%3A//www.herroom.com/contact.aspx). 
+> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20090603062700id_/http%3A//www.herroom.com/contact.aspx). 
 
   
 
