@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordsanalyzer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055658id_/http%3A//www.blueinfinity.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordsanalyzer.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603115125id_/http%3A//www.blueinfinity.net/Privacy.aspx) for the most accurate reproduction.*
 
 # Blue Infinity Software | Privacy
 
