@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091218id_/http%3A//www.bongous.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603132136id_/http%3A//www.bongous.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Bongo International, LLC. Privacy Policy
+# Mail Forwarding of American Products for International Delivery
 
 This policy explains how Bongo treats personal information that it collects and receives, including information related to your past use of Bongo's services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. By visiting BongoInternational.com, you are accepting the practices described in this notice.
 
