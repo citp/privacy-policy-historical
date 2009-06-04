@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021615id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604183812id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
-# lululemon athletica | yoga-inspired athletic apparel | privacy policy
+# lululemon athletic, yoga-inspired athletic apparel: our privacy policy
 
 ## Your Privacy: Overview
 
@@ -18,7 +18,7 @@ You can access some areas of the Site without submitting any personally identifi
 
 ## Protection of Your Information
 
-To prevent unauthorized access or disclosure, maintain data accuracy and facilitate the appropriate use of information, lululemon uses physical, technological and administrative procedures to attempt to protect the personally identifiable information we collect through the Site. Nevertheless, Internet transmissions are never completely private or secure. You understand that any messages or information you send to the Site may be read or intercepted by others. If you have any questions about the security of personally identifiable information collected by lululemon, please contact us at: [webmaster@lululemon.com](mailto:webmaster@lululemon.com).
+To prevent unauthorized access or disclosure, maintain data accuracy and facilitate the appropriate use of information, lululemon uses physical, technological and administrative procedures to attempt to protect the personally identifiable information we collect through the Site. Nevertheless, Internet transmissions are never completely private or secure. You understand that any messages or information you send to the Site may be read or intercepted by others. If you have any questions about the security of personally identifiable information collected by lululemon, please contact us at: [gec@lululemon.com](mailto:gec@lululemon.com).
 
 ## Use of Your Personally Identifiable Information
 
@@ -50,11 +50,11 @@ lululemon recognizes the privacy interests of children and we encourage parents 
 
 ## Choice and Opt-Out Preferences
 
-lululemon does not collect your personally identifiable information unless you choose to provide it. If, at any time, you prefer not to receive further e mail communications from lululemon (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by lululemon. If, at any time, you prefer not to receive any other form of communication from lululemon, you will have the ability to unsubscribe from such communications by contacting us at: [webmaster@lululemon.com](mailto:webmaster@lululemon.com).
+lululemon does not collect your personally identifiable information unless you choose to provide it. If, at any time, you prefer not to receive further e mail communications from lululemon (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by lululemon. If, at any time, you prefer not to receive any other form of communication from lululemon, you will have the ability to unsubscribe from such communications by contacting us at: [gec@lululemon.com](mailto:gec@lululemon.com).
 
 ## Access and Accuracy
 
-lululemon will use commercially reasonable efforts to provide access to your personally identifiable information if you request such access in writing submitted to: [webmaster@lululemon.com](mailto:webmaster@lululemon.com). lululemon reserves the right to deny access to your personally identifiable information: **(a)** when such denial of access is required by law, **(b)** when granting you access is reasonably likely to negatively impact other people's privacy,Your Acceptance of This Privacy Policy and Revisions to This Privacy Policywhen such access is cost prohibitive, Your Acceptance of This Privacy Policy and Revisions to This Privacy Policy to protect lululemon's rights and property, and **(e)** when such requests are frivolous or made in bad faith. If you believe that the personally identifiable information maintained by lululemon about you is inaccurate or incomplete, you may notify lululemon in writing describing in details any inaccuracies or omissions, submitted to: [webmaster@lululemon.com](mailto:webmaster@lululemon.com). Following receipt of such a properly submitted written notice, lululemon will, within a reasonable time period, use commercially reasonable efforts to, in its sole discretion, either: **(y)** amend or correct your personally identifiable information to reflect corrected or additional information provided by you, or **(z)** in connection with your personally identifiable information, make note of any claimed inaccuracies or omissions reflected in the notice submitted by you.
+lululemon will use commercially reasonable efforts to provide access to your personally identifiable information if you request such access in writing submitted to: [gec@lululemon.com](mailto:gec@lululemon.com). lululemon reserves the right to deny access to your personally identifiable information: **(a)** when such denial of access is required by law, **(b)** when granting you access is reasonably likely to negatively impact other people's privacy,Your Acceptance of This Privacy Policy and Revisions to This Privacy Policywhen such access is cost prohibitive, Your Acceptance of This Privacy Policy and Revisions to This Privacy Policy to protect lululemon's rights and property, and **(e)** when such requests are frivolous or made in bad faith. If you believe that the personally identifiable information maintained by lululemon about you is inaccurate or incomplete, you may notify lululemon in writing describing in details any inaccuracies or omissions, submitted to: [gec@lululemon.com](mailto:gec@lululemon.com). Following receipt of such a properly submitted written notice, lululemon will, within a reasonable time period, use commercially reasonable efforts to, in its sole discretion, either: **(y)** amend or correct your personally identifiable information to reflect corrected or additional information provided by you, or **(z)** in connection with your personally identifiable information, make note of any claimed inaccuracies or omissions reflected in the notice submitted by you.
 
 ## Your Acceptance of This Privacy Policy and Revisions to This Privacy Policy
 
@@ -71,5 +71,3 @@ Attention: David Negus
 Vancouver, BC  
 V5N 3G9  
 Canada 
-
-Top of Page
