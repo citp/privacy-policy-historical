@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014836id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604082737id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PhotoBox - Photobox
+# Privacy Policy | PhotoBox - PhotoBox
 
 This privacy policy together with our terms of use sets out how PhotoBox Limited, part of the Photoways group, ("we", "our", "us") will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the "website"). 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controllers are PhotoBox Limited of UNIT 2-3, Park Royal, Metro Centre, Britannia Way, London, NW10 7PA and Photoways, ZAC des Parriers, 37-39 de Beauce, 785–Sartrouville. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors"). 
+For the purpose of the Data Protection Act 1998 (the Act), the data controllers are PhotoBox Limited of Bridge House, 1st Floor, 63-65 North Wharf Road, London, W2 1LA and Photoways, ZAC des Parriers, 37-39 de Beauce, 785–Sartrouville. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors"). 
 
 We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.
 
@@ -20,6 +20,8 @@ We collect and use personal information in order to:
 In order carry out the above, we need to collect and process personal information about you (including but not limited to, your name, address, telephone number, email address, details of your visits to the website and any transactional information in relation to order fulfilment). We may ask you for this information on the website during the registration process or at any subsequent point. The data we collect may be provided to Data Processors for analysis so that we may tailor the goods, services and marketing materials we, and other third parties, offer to you (where you have consented to receive the same). 
 
 In order to take advantage of some of our services, you may need to supply us with the personal details of a third party (for example, their name and address if you wish to send them some prints). We will not use this information for anything other than providing the service for which the information was supplied. 
+
+We may disclose your first name and last name, to selected third parties, including but not limited to Pro-Gallery owners from whom you have purchased items. The purpose of this is so that a record may be kept by the third parties of who has purchased photo related items from them. It is a condition of your use of our services that you agree to this disclosure of your data.
 
 We will not disclose any personally identifiable information without your permission unless: 
 
