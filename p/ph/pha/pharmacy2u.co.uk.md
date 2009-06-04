@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131348id_/http%3A//www.pharmacy2u.co.uk/Static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604225157id_/http%3A//www.pharmacy2u.co.uk/static/privacy.aspx) for the most accurate reproduction.*
 
-# Pharmacy2U
+# Pharmacy2U - Your Internet Pharmacy
 
 All information at Pharmacy2U Ltd is held, retained and destroyed in accordance with NHS guidelines. Our commitment to publish information excludes any information which can be legitimately withheld under the exemptions set out in the NHS Openness code or Freedom of Information Act 2000. Where individual Classes are subject to exemptions, the main reasons are, for example, the protection of commercial interests and personal information under the Data Protection Act 1998. This applies to all Classes within the publication scheme. The information on this Scheme is grouped into the following broad categories:
 
-|  **1\. Who we are**  
+| **1\. Who we are**  
 ---  
-Details of the pharmacy, organisational structures, key personnel and how we fit into the NHS.   
+Details of the pharmacy, organisational structures, key personnel and how we fit into the NHS.  
   
 The Leeds Primary Care Trust has made arrangements with Pharmacy2U Ltd for the provision of pharmaceutical services under section 41 of the National Health Service Act 1977. The Pharmacy is contracted to provide a range of NHS services and a full list of these appears in Class 2.
 
@@ -21,13 +21,11 @@ Miss Naila Dad | Full Time
   
 We employ dispensing technicians from time to time.
 
-The Pharmacy Superintendent/manager is Mr Daniel Lee. Our pharmacy may also employ locum pharmacists from time to time. 
+The Pharmacy Superintendent/manager is Mr Daniel Lee. Our pharmacy may also employ locum pharmacists from time to time.
 
 The complete list of persons who undertake to provide pharmaceutical services to the NHS in the area of East Leeds Primary Care Trust can be obtained from the primary care trust or found on [www.nhs.uk](http://www.nhs.uk/).
 
 Some information may be withheld, including personal, confidential information about individuals that is protected by the Data Protection Act (1998).
-
- 
 
 **2\. Our services**  
 ---  
@@ -40,7 +38,7 @@ The range of services that we provide under contract to the East Leeds Primary C
 
 
 
-We also provide the following services without NHS remuneration: 
+We also provide the following services without NHS remuneration:
 
   * Advice from the pharmacist
   * Prescription delivery service
@@ -98,13 +96,11 @@ Our opening hours are:
 09:00 - 13:00 
   * Sundays: 
 Closed  
- 
-
 **3\. Financial and funding information**  
 ---  
-Funding details and charging policies   
+Funding details and charging policies  
   
-Some patients can get free prescriptions under certain circumstances – please ask for leaflet HC11 (<http://www.dh.gov.uk/PolicyAndGuidance/MedicinesPharmacyAndIndustry/Prescriptions/NHSCosts/fs/en>). Anyone who has to pay and gets more than 5 prescription items in 4 months, or 14 in 12 months, could save money with a pre-payment certificate (PPC). You can call **0845 850 0030** to buy one over the phone or to get more details. You can also apply by post – please ask for application form FP95 (or see <http://www.ppa.org.uk/ppa/ppc_intro.htm>).
+Some patients can get free prescriptions under certain circumstances – please ask for leaflet HC11 ([Policy & Guidance](http://www.dh.gov.uk/PolicyAndGuidance/MedicinesPharmacyAndIndustry/Prescriptions/NHSCosts/fs/en)). Anyone who has to pay and gets more than 5 prescription items in 4 months, or 14 in 12 months, could save money with a pre-payment certificate (PPC). You can call **0845 850 0030** to buy one over the phone or to get more details. You can also apply by post – please ask for application form FP95 (or see <http://www.ppa.org.uk/ppa/ppc_intro.htm>).
 
 As from 1 April 2006 the prescription charge is £6.65, a 4-month prepayment certificate costs £33.90 and a 12-month prepayment certificate costs £93.20. These charges are set annually by the Department of Health.
 
@@ -114,7 +110,7 @@ Some information in this class may not be released because it is confidential or
 
 **4\. Information about policies, prescribing and prescriptions**  
 ---  
-Protocols in relation to prescribing protocols and standard operating procedures relating to the dispensing of prescriptions, data protection.   
+Protocols in relation to prescribing protocols and standard operating procedures relating to the dispensing of prescriptions, data protection.  
   
 We have protocols and standard operating procedures relating to dispensing of prescriptions and data protection. Copies of these documents are available from:
 
@@ -126,7 +122,7 @@ We have protocols and standard operating procedures relating to dispensing of pr
 >  Yorkshire  
 >  LS14 1PQ
 > 
-> Tel: 0845 803 9033 
+> Tel: 0845 803 9033
 
 **5\. Regular publications and information for the public**  
 ---  
@@ -136,7 +132,7 @@ There is a range of leaflets and books distributed by Pharmacy2U Ltd. It is one 
 
 **6\. Complaints**  
 ---  
-Policies, procedures and contacts for complaints.   
+Policies, procedures and contacts for complaints.  
   
 If you are not happy with the service you have received from us, please contact:
 
@@ -148,7 +144,7 @@ If you are not happy with the service you have received from us, please contact:
 >  Yorkshire  
 >  LS14 1PQ
 > 
-> Tel: 0845 803 9033 
+> Tel: 0845 803 9033
 
 The complaints policy about NHS services provided by Pharmacy2U Ltd is Please see seperate complaints procedure.
 
@@ -175,13 +171,10 @@ Our complaints policy is in line with the NHS Pharmaceutical Services Regulation
 
 **7\. This publication scheme**  
 ---  
-In this class we will publish any changes we make to this publication scheme, the criteria on which our information management policies are made and a referral point for all enquires regarding information management generally in the practice. We will also publish any proposed changes or additions to publications already available.   
-  
-**Cost of Information**  
-
+In this class we will publish any changes we make to this publication scheme, the criteria on which our information management policies are made and a referral point for all enquires regarding information management generally in the practice. We will also publish any proposed changes or additions to publications already available.  
+**Cost of Information**
 
   * For the most part, we will charge you only for hard copies or copying onto media (e.g. CD-ROM). Some information is available free, but for others there may be a charge. The charges will vary according to how information is made available. Charges are as follows:
-
 
 
 
