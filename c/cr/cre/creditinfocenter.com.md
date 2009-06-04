@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104243id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604083542id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy/Acceptable Use Policy - creditinfocenter.com
 
@@ -25,9 +25,13 @@ Web Nation, Inc. will not sell or rent your personally identifiable information 
   * We respond to subpoenas, court orders or legal process. 
   * We find that your actions on our websites violate the Web Nation, Inc. terms of service, or any of our usage guidelines for specific products or services. 
 
-**Cookie technology**
 
-Web Nation, Inc. does not use cookies on this site.
+
+Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
 
 **Changes to this privacy policy**
 
@@ -35,5 +39,3 @@ Web Nation, Inc. may edit this policy from time to time. If we make any substant
 
 **Do you have a question you feel we haven't answered?**  
 For a small fee, [you can talk to a counselor on the phone](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php) or [Buy the Book!](http://www.creditinfocenter.com/Books/)
-
-» 
