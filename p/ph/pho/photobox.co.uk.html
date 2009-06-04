@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the photobox.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216014836id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photobox.co.uk privacy policy that was archived on 2009-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604082737id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 			<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 			<meta http-equiv="Content-Language" content="en">
 			
-			<title>Privacy Policy | PhotoBox - Photobox</title>
-			<meta content="photos, photo, digital photos, prints, processing, photo shop, photo albums, galleries, personalised, mouse pad, calendar, photo upload, photograph, photography, frames, pictures, mug, t-shirt, free mms, online, sharing photos, library, printer, gift, lab, flash card" name="keywords">
+			<title>Privacy Policy | PhotoBox - PhotoBox</title>
+			<meta content="photos, online, digital, prints, printing, gifts, sharing, share, storage, store, service, personalised, photo books" name="keywords">
 			<meta content="Order digital photo prints online at PhotoBox, upload your photos &amp; order digital prints today. Free online photo storage and send free ecards to your friends and family, buy personalised gifts such as calendars, mouse pads, mugs &amp; t-shirts" name="description">
 			
 
@@ -21,8 +21,10 @@
 				var pbx_loadInProgress = true;
 				/**
 				 * This section prevents user to click on pbx_ajax link in all the document before the jquery bindings are performed
+				 * Fields having class pbx_field_switch are prevented to be changed too, but so far only works on checkboxes.
 				 * TODO: comment it out on next test release
 				 * TODO: try to skip events when an <a onclick="pbx.something()"> is called and the page is not fully loaded
+				 * TODO: investigate onchange/onclick for pbx_field_switch to make it working with all input types
 				 */
 				function checkLoadInProgress(ev)
 				{
@@ -39,12 +41,12 @@
 					}
 					if (pbx_loadInProgress)
 					{
-						if (pbx_target.className && pbx_target.className.match(/pbx_ajax/))
+						if (pbx_target.className && pbx_target.className.match(/pbx_ajax|pbx_field_switch/))
 						{
 							return false;
 						}
 						// try with the parent
-						if ((pbx_target = pbx_target.parentNode) && pbx_target.className && pbx_target.className.match(/pbx_ajax/))
+						if ((pbx_target = pbx_target.parentNode) && pbx_target.className && pbx_target.className.match(/pbx_ajax|pbx_field_switch/))
 						{
 							return false;
 						}
@@ -55,32 +57,40 @@
 			</script>
 			
 
-			<link rel="shortcut icon" href="http://assets.photobox.com/assets/images/common/favicon.ico?20081208141347" type="image/vnd.microsoft.icon">
+			<link rel="shortcut icon" href="http://assets.photobox.com/assets/images/common/favicon.ico?20090602074935" type="image/vnd.microsoft.icon">
 			
 
 			<!-- Development CSS Files -->
 			
 			
 				
-				<link rel="stylesheet" href="http://assets.photobox.com/assets/css/p_default.css?20081208141347" type="text/css">
+				<link rel="stylesheet" href="http://assets.photobox.com/assets/css/p_default.css?20090602074935" type="text/css">
 			
 
 			<!-- CMS ASSETS  -->
 			
-			<link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_product.css?1229011482" type="text/css"><link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_content.css?1228989280" type="text/css"><link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_content_popup.css?1220432023" type="text/css">
+			<link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_product.css?1243585567" type="text/css"><link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_content.css?1243585612" type="text/css"><link rel="stylesheet" href="http://assets.photobox.com/assets/css/c1_content_popup.css?1220432023" type="text/css">
 
 			
 			
 
+			<!-- START NEW CMS GROUP TAGS -->
+			
+			
+			<!-- END NEW CMS GROUP TAGS -->
 
-			<link rel="stylesheet" href="http://assets.photobox.com/assets/css/themes/c1_christmas1.css?1227610136" type="text/css">
+			<!-- Whitelabel -->
+			
+			
+
+			<!-- extra CSS, using shared method -->
 			
 
 			<!-- Print media -->
-			<link rel="stylesheet" media="print" href="http://assets.photobox.com/assets/css/p_print.css?20081208141347" type="text/css">
+			<link rel="stylesheet" media="print" href="http://assets.photobox.com/assets/css/p_print.css?20090602074935" type="text/css">
 
 			<!-- safari hack file, keep it in the end of css files -->
-			<link rel="stylesheet" href="http://assets.photobox.com/assets/css/p_safari.css?20081208141347" type="text/css">
+			<link rel="stylesheet" href="http://assets.photobox.com/assets/css/p_safari.css?20090602074935" type="text/css">
 
 			<!-- facebook link -->
 			
@@ -88,6 +98,7 @@
 	
 			<body class="pbx_layout_fixed" id="pbx">
 				
+				<div id="pbx_body">
 				<div class="pbx_fixed" id="pbx_wrapper">
 					
 						
@@ -153,7 +164,7 @@
 							</div>
 							<a href="/" id="pbx_logo">
 			
-				<img width="160" alt="Photobox" src="http://assets.photobox.com/assets/content_graphics/46/8646.jpg?1229009269" height="43" title="Photobox">
+				<img width="173" alt="PhotoBox" src="http://assets.photobox.com/assets/content_graphics/46/8646.jpg?1234779473" height="43" title="PhotoBox">
 			
 			
 		</a>
@@ -195,7 +206,7 @@
 							<a href="#" class="pbx_menu_tab_link">
 								<span class="pbx_menu_left"></span>
 								<span class="pbx_icon_droppable"></span>
-								<span>My albums</span>
+								<span>My photos</span>
 								<span class="pbx_menu_right"></span>
 								<!--[if gte IE 7]><!-->
 							</a>
@@ -204,21 +215,21 @@
 		<!--[if gte IE 7]><!--><ul class="pbx_menu_fix" id="pbx_menu_album_tree_root"><!--<![endif]-->
 			<li class="pbx_hidden">
 				<span id="pbx_menu_album_page_url" class="pbx_hidden">/my/album?album_id=--albumid--</span>
-				
+				<span class="pbx_hidden" id="pbx_menu_album_refresh"></span>
 			</li>
 			
 			<li id="pbx_menu_tmpalbum">
 				<a href="/album/temporary" id="pbx_menu_album_tmp" title="Your temporary album">
 					
-					
-					<span class="pbx_icon pbx_icon_tmpalbum"></span>Your tem...
+					<em id="album_photocount_tmp">(0)</em>
+					<span class="pbx_icon pbx_icon_tmpalbum"></span>Your temporary al...
 				</a>
 			</li>
 			
 			
 			
 			
-			<li class="pbx_menu_last"><iframe src="http://assets.photobox.com/assets/html/blank.html?20081208141347" class="pbx_menu_iframe"></iframe></li>
+			<li class="pbx_menu_last"><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
 		<!--[if gte IE 7]><!--></ul><!--<![endif]-->
 		<!--[if lte IE 6]></ul></td></tr></table></a><![endif]-->
 	
@@ -270,7 +281,7 @@
 								<a href="/shop/prints">
 									<span class="pbx_menu_left"></span>
 									<span class="pbx_icon_droppable"></span>
-									<span>Prints</span>
+									<span>Print</span>
 									<span class="pbx_menu_right"></span>
 								<!--[if IE 7]><!--></a><!--<![endif]-->
 								<!--[if lte IE 6]><table><tr><td><![endif]-->
@@ -286,7 +297,7 @@
 									</li><li>
 										<a href="/shop/prints/framed-prints" title="Framed prints" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>Framed prints</a>
 									</li>
-									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20081208141347" class="pbx_menu_iframe"></iframe></li>
+									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
 								</ul>
 								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 							
@@ -303,7 +314,7 @@
 								<a href="/shop">
 									<span class="pbx_menu_left"></span>
 									<span class="pbx_icon_droppable"></span>
-									<span>Photo gifts</span>
+									<span>Create</span>
 									<span class="pbx_menu_right"></span>
 								<!--[if IE 7]><!--></a><!--<![endif]-->
 								<!--[if lte IE 6]><table><tr><td><![endif]-->
@@ -326,20 +337,12 @@
 										<a href="/shop/clothing-and-accessories" title="Clothing &amp; accessories"><span class="pbx_icon pbx_icon_hover"></span>Clothing &amp; accessories</a>
 									</li><li>
 										<a href="/shop/fun-stuff" title="Fun stuff"><span class="pbx_icon pbx_icon_hover"></span>Fun stuff</a>
-									</li><li class="pbx_menu_seperate">
+									</li><li>
 										<a href="/shop/kids-collection" title="Kids collection"><span class="pbx_icon pbx_icon_hover"></span>Kids collection</a>
 									</li><li>
-										<a href="/shop/christmas/stocking-fillers" title="Stocking fillers"><span class="pbx_icon pbx_icon_hover"></span>Stocking fillers</a>
-									</li><li>
-										<a href="/shop/christmas/gifts-under-10" title="Gifts under £10"><span class="pbx_icon pbx_icon_hover"></span>Gifts under £10</a>
-									</li><li>
-										<a href="/shop/christmas/gifts-under-15" title="Gifts under £15"><span class="pbx_icon pbx_icon_hover"></span>Gifts under £15</a>
-									</li><li>
-										<a href="/shop/christmas/gifts-under-25" title="Gifts under £25"><span class="pbx_icon pbx_icon_hover"></span>Gifts under £25</a>
-									</li><li>
-										<a href="/shop/christmas/luxury-gifts" title="Luxury gifts" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>Luxury gifts</a>
+										<a href="/shop/cadbury/mug" title="Cadbury Dairy Milk" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>Cadbury Dairy Milk</a>
 									</li>
-									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20081208141347" class="pbx_menu_iframe"></iframe></li>
+									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
 								</ul>
 								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 							
@@ -353,30 +356,49 @@
 							
 							
 							
-								<a href="/content/news">
+								<a href="/content/share">
 									<span class="pbx_menu_left"></span>
 									<span class="pbx_icon_droppable"></span>
-									<span>Community</span>
+									<span>Share</span>
 									<span class="pbx_menu_right"></span>
 								<!--[if IE 7]><!--></a><!--<![endif]-->
 								<!--[if lte IE 6]><table><tr><td><![endif]-->
 								<ul>
 									<li>
-										<a href="/content/news" title="Community home"><span class="pbx_icon pbx_icon_hover"></span>Community home</a>
+										<a href="/content/share" title="Share your book - new!"><span class="pbx_icon pbx_icon_hover"></span>Share your book - new!</a>
 									</li><li>
-										<a href="/content/welcome-new-site" title="Welcome to your new site"><span class="pbx_icon pbx_icon_hover"></span>Welcome to your new site</a>
+										<a href="/content/share" title="Share your slideshow - new!"><span class="pbx_icon pbx_icon_hover"></span>Share your slideshow - new!</a>
 									</li><li>
-										<a href="http://blog.photobox.co.uk" title="Blog"><span class="pbx_icon pbx_icon_hover"></span>Blog</a>
-									</li><li>
-										<a href="http://www.facebook.com/pages/PhotoBox/8411712370" title="PhotoBox on Facebook"><span class="pbx_icon pbx_icon_hover"></span>PhotoBox on Facebook</a>
-									</li><li>
-										<a href="/content/news/fotb" title="Photo news &amp; tips"><span class="pbx_icon pbx_icon_hover"></span>Photo news &amp; tips</a>
-									</li><li>
-										<a href="/public-galleries" title="Public albums"><span class="pbx_icon pbx_icon_hover"></span>Public albums</a>
-									</li><li>
-										<a href="http://www.photoboxgallery.com/" title="PhotoBox old Pro Galleries" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>PhotoBox old Pro Galleries</a>
+										<a href="/my/refer/new" title="Refer a friend" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>Refer a friend</a>
 									</li>
-									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20081208141347" class="pbx_menu_iframe"></iframe></li>
+									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
+								</ul>
+								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+							
+						</li>
+				
+					
+					
+					
+						<li>
+							
+							
+							
+							
+								<a href="/content/sell">
+									<span class="pbx_menu_left"></span>
+									<span class="pbx_icon_droppable"></span>
+									<span>Sell</span>
+									<span class="pbx_menu_right"></span>
+								<!--[if IE 7]><!--></a><!--<![endif]-->
+								<!--[if lte IE 6]><table><tr><td><![endif]-->
+								<ul>
+									<li>
+										<a href="/content/sell" title="Sell your book- new!"><span class="pbx_icon pbx_icon_hover"></span>Sell your book- new!</a>
+									</li><li>
+										<a href="http://www.photoboxgallery.com" title="Create a Pro Gallery" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>Create a Pro Gallery</a>
+									</li>
+									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
 								</ul>
 								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 							
@@ -397,7 +419,7 @@
 								<a href="/my/album/upload/aurigma" id="pbx_upload_link">
 									<span class="pbx_menu_left"></span>
 									<span class="pbx_icon_upload"></span>
-									<span>Upload photos</span>
+									<span>Upload</span>
 									<span class="pbx_menu_right"></span>
 								<!--[if IE 7]><!--></a><!--<![endif]-->
 								<!--[if lte IE 6]><table><tr><td><![endif]-->
@@ -413,7 +435,7 @@
 									</li><li>
 										<a href="/my/album/upload/ftp" title="FTP" class="pbx_menu_last"><span class="pbx_icon pbx_icon_hover"></span>FTP</a>
 									</li>
-									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20081208141347" class="pbx_menu_iframe"></iframe></li>
+									<li><iframe src="http://assets.photobox.com/assets/html/blank.html?20090602074935" class="pbx_menu_iframe"></iframe></li>
 								</ul>
 								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 							
@@ -437,200 +459,395 @@
 						<div id="pbx_left">
 
   <div id="pbx_leftnav">
-    <h3 class="pbx_product_range_christmas">
-      <a href="/shop/christmas/last-minute-gifts">Still time to buy</a>
-    </h3>
-    <ul>
-      <li id="pbx_range_christmas_lastminute"> 
-       <a href="/shop/christmas/last-minute-gifts" class="pbx_product_range_header pbx_clickable">Last minute gifts</a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/giftbox" class="pbx_product_range_header pbx_clickable">Giftbox - <em>New!</em></a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/shop/wall-decor/collage-prints" class="pbx_product_range_header pbx_clickable">Collage Calendars</a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/shop/prints/framed-prints" class="pbx_product_range_header pbx_clickable">Framed Prints</a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/shop/cards-and-stationery/photo-greeting-cards" class="pbx_product_range_header pbx_clickable">Christmas Cards</a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/shop/prints/enlargement-prints" class="pbx_product_range_header pbx_clickable">Enlargement Prints</a>
-        
-      </li><li id="pbx_product_deluxe_box"> 
-       <a href="/shop/wall-decor/poster-prints" class="pbx_product_range_header pbx_clickable">Poster Prints</a>
-        
-      </li>
-    </ul>
-  
     <h3>
       <a href="/shop">Photo gifts by range</a>
+      
     </h3>
     <ul>
-      <li id="pbx_product_deluxe_box"> 
-       <a href="/giftbox" class="pbx_product_range_header pbx_clickable">Giftbox - <em>New!</em></a>
+      <li id="pbx_product">
+       <a href="/shop/fathers-day-gifts" class="pbx_product_range_header pbx_clickable">Father's Day gifts</a>
         
-      </li><li id="pbx_product_range_photobooks"> 
-       <a href="/shop/photo-books" class="pbx_product_range_header pbx_clickable">Photo books</a>
-        <ul>
-          <li>
-            <a href="/shop/photo-books/a3-personalised-cover-photobook">Large Personalised P'book</a>
-          </li><li>
-            <a href="/shop/photo-books/crystal-deluxe-photobook">Crystal Deluxe P'book</a>
-          </li><li>
-            <a href="/shop/photo-books/personalised-cover-photobook">A4 Personalised P'book</a>
-          </li><li>
-            <a href="/shop/photo-books/classic-a4-photobook">Classic A4 Photobook</a>
-          </li><li>
-            <a href="/shop/photo-books/square-stylebook">Square Stylebook</a>
-          </li><li>
-            <a href="/shop/photo-books/small-stylebook">Small Stylebook</a>
-          </li><li>
-            <a href="/shop/photo-books/minibook">Minibook</a>
-          </li>
-        </ul>
-      </li><li id="pbx_product_range_calendar"> 
-       <a href="/shop/calendars-and-diaries" class="pbx_product_range_header pbx_clickable">Calendars &amp; diaries</a>
-        <ul>
-          <li>
-            <a href="/shop/calendars-and-diaries/a3-poster-calendar">A3 Poster Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/deluxe-desk-calendar">Deluxe Desk Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/deluxe-diary">Deluxe Diary</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/a3-double-page-calendar">A3 Double Page Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/a3-and-a4-wall-calendars">A3 Wall Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/a3-and-a4-wall-calendars">A4 Wall Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/desk-calendar">Desk Calendar</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/photo-diaries">Photo Diaries</a>
-          </li><li>
-            <a href="/shop/calendars-and-diaries/a3-and-a4-single-page-calendars">A3 &amp; A4 Single Page</a>
-          </li>
-        </ul>
-      </li><li id="pbx_product_range_cards"> 
-       <a href="/shop/cards-and-stationery" class="pbx_product_range_header pbx_clickable">Cards &amp; stationery</a>
-        <ul>
-          <li>
-            <a href="/shop/cards-and-stationery/photo-notebook">Photo Notebooks</a>
-          </li><li>
-            <a href="/shop/cards-and-stationery/greetings-by-photobox/?cid=cpbx10">Designer greeting cards</a>
-          </li><li>
-            <a href="/shop/cards-and-stationery/photo-greeting-cards">Photo greeting cards</a>
-          </li><li>
-            <a href="/shop/cards-and-stationery/postcard">Postcard</a>
-          </li>
-        </ul>
-      </li><li id="pbx_product_range_prints"> 
+      </li><li id="pbx_product_range_prints">
        <a href="/shop/prints" class="pbx_product_range_header pbx_clickable">Prints</a>
         <ul>
           <li>
             <a href="/shop/prints/standard-prints">Standard Prints</a>
+            
           </li><li>
             <a href="/shop/prints/enlargement-prints">Enlargement Prints</a>
+            
+          </li><li>
+            <a href="/shop/prints/print-packs">Print Packs</a>
+            
           </li><li>
             <a href="/shop/prints/print-credits">Print Credits</a>
+            
           </li><li>
             <a href="/shop/prints/framed-prints">Framed Prints</a>
+            
           </li><li>
             <a href="/shop/prints/walbum">Walbum</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_walldecor"> 
+      </li><li id="pbx_product_range_photobooks">
+       <a href="/shop/photo-books" class="pbx_product_range_header pbx_clickable">Photo books</a>
+        <ul>
+          <li>
+            <a href="/shop/photo-books/a3-personalised-cover-photobook">Large Personalised P'book</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/crystal-deluxe-photobook">Crystal Deluxe P'book</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/personalised-cover-photobook">A4 Personalised P'book</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/classic-a4-photobook">Classic A4 Photobook</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/lovebook">Lovebook</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/square-stylebook">Square Stylebook</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/small-stylebook">Small Stylebook</a>
+            
+          </li><li>
+            <a href="/shop/photo-books/minibook">Minibook</a>
+            
+          </li>
+        </ul>
+      </li><li id="pbx_product_share">
+       <a href="/content/share?osid=pukls01" class="pbx_product_range_header pbx_clickable"><strong>Share your Photo books</strong></a>
+        
+      </li><li id="pbx_product_range_calendar">
+       <a href="/shop/calendars-and-diaries" class="pbx_product_range_header pbx_clickable">Calendars &amp; diaries</a>
+        <ul>
+          <li>
+            <a href="/shop/calendars-and-diaries/a3-poster-calendar">A3 Poster Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/deluxe-desk-calendar">Deluxe Desk Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/deluxe-diary">Deluxe Diary</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/a3-double-page-calendar">A3 Double Page Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/a3-and-a4-wall-calendars">A3 Wall Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/a3-and-a4-wall-calendars">A4 Wall Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/desk-calendar">Desk Calendar</a>
+            
+          </li><li>
+            <a href="/shop/calendars-and-diaries/photo-diaries">Photo Diaries</a>
+            
+          </li>
+        </ul>
+      </li><li id="pbx_product_range_cards">
+       <a href="/shop/cards-and-stationery" class="pbx_product_range_header pbx_clickable">Cards &amp; stationery</a>
+        <ul>
+          <li>
+            <a href="/shop/cards-and-stationery/invitation-cards">Invitation Cards</a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/announcement-cards">Announcement Cards</a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/slim-cards">Slimvites<em>New!</em></a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/photo-notebook">Photo Notebooks</a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/greetings-by-photobox/?cid=cpbx10">Designer greeting cards</a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/photo-greeting-cards">Photo greeting cards</a>
+            
+          </li><li>
+            <a href="/shop/cards-and-stationery/postcard">Postcard</a>
+            
+          </li>
+        </ul>
+      </li><li id="pbx_product_range_walldecor">
        <a href="/shop/wall-decor" class="pbx_product_range_header pbx_clickable">Wall décor</a>
         <ul>
           <li>
             <a href="/shop/wall-decor/acrylic-prints">Acrylic Prints</a>
+            
           </li><li>
             <a href="/shop/wall-decor/canvas-prints">Canvas Prints</a>
+            
           </li><li>
             <a href="/shop/wall-decor/collage-prints">Collage Prints</a>
+            
           </li><li>
             <a href="/shop/wall-decor/poster-prints">Poster Prints</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_gifts"> 
+      </li><li id="pbx_product_range_gifts">
        <a href="/shop/home-gifts" class="pbx_product_range_header pbx_clickable">Home gifts</a>
         <ul>
           <li>
             <a href="/shop/home-gifts/photo-mug">Photo Mug</a>
+            
           </li><li>
             <a href="/shop/home-gifts/photo-coasters">Coasters</a>
+            
           </li><li>
             <a href="/shop/home-gifts/photo-placemats">Placemats</a>
+            
           </li><li>
             <a href="/shop/home-gifts/photo-cushion">Cushions</a>
+            
           </li><li>
             <a href="/shop/home-gifts/photo-mousemat">Mousemat</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_clothing"> 
+      </li><li id="pbx_product_range_clothing">
        <a href="/shop/clothing-and-accessories" class="pbx_product_range_header pbx_clickable">Clothing &amp; accessories</a>
         <ul>
           <li>
             <a href="/shop/clothing-and-accessories/photo-bags">Bags</a>
+            
           </li><li>
             <a href="/shop/clothing-and-accessories/photo-t-shirts">T-Shirts</a>
+            
           </li><li>
             <a href="/shop/clothing-and-accessories/photo-fashion">Photo Fashion</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_funstuff"> 
+      </li><li id="pbx_product_range_funstuff">
        <a href="/shop/fun-stuff" class="pbx_product_range_header pbx_clickable">Fun stuff</a>
         <ul>
           <li>
             <a href="/shop/fun-stuff/etched-glass">Etched Glass</a>
+            
           </li><li>
             <a href="/shop/fun-stuff/photo-fridge-magnet">Fridge Magnet</a>
+            
           </li><li>
             <a href="/shop/fun-stuff/photo-jigsaw">Jigsaw</a>
+            
           </li><li>
             <a href="/shop/fun-stuff/photo-stickers">Photo Stickers</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_blank"> 
+      </li><li id="pbx_product_shop_kids">
        <a href="/shop/kids-collection" class="pbx_product_range_header pbx_clickable">Gifts for Kids</a>
+        <ul>
+          <li>
+            <a href="/shop/thomas-and-friends">Thomas &amp; Friends</a>
+            <ul>
+              <li>
+                <a href="/shop/thomas-and-friends/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/thomas-and-friends/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/thomas-and-friends/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/disney-princesses">Princess</a>
+            <ul>
+              <li>
+                <a href="/shop/disney-princesses/calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/disney-princesses/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/disney-princesses/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/disney-princesses/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/pirates-of-the-caribbean">Pirates of the Caribbean</a>
+            <ul>
+              <li>
+                <a href="/shop/pirates-of-the-caribbean/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/pirates-of-the-caribbean/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/pirates-of-the-caribbean/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/disney-cars">Cars</a>
+            <ul>
+              <li>
+                <a href="/shop/disney-cars/calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/disney-cars/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/disney-cars/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/disney-cars/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/nemo">Nemo</a>
+            <ul>
+              <li>
+                <a href="/shop/nemo/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/nemo/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/nemo/photo-notebook" title="Notebooks">Notebooks</a>
+              </li><li>
+                <a href="/shop/nemo/photo-cards" title="Cards">Cards</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/winnie-the-pooh">Winnie</a>
+            <ul>
+              <li>
+                <a href="/shop/winnie-the-pooh/photo-calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/winnie-the-pooh/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/winnie-the-pooh/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/winnie-the-pooh/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/looney-tunes">Looney Tunes</a>
+            <ul>
+              <li>
+                <a href="/shop/looney-tunes/photo-calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/looney-tunes/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/looney-tunes/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/looney-tunes/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/bugs-bunny">Bugs Bunny</a>
+            <ul>
+              <li>
+                <a href="/shop/bugs-bunny/photo-calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/bugs-bunny/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/bugs-bunny/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/bugs-bunny/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/tweety">Tweety</a>
+            <ul>
+              <li>
+                <a href="/shop/tweety/photo-calendars" title="Calendars">Calendars</a>
+              </li><li>
+                <a href="/shop/tweety/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/tweety/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/tweety/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/taz">Taz</a>
+            <ul>
+              <li>
+                <a href="/shop/taz/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/taz/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/taz/photo-notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/snoopy">Snoopy</a>
+            <ul>
+              <li>
+                <a href="/shop/snoopy/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/snoopy/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/snoopy/notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li><li>
+            <a href="/shop/pingu">Pingu</a>
+            <ul>
+              <li>
+                <a href="/shop/pingu/collage-prints" title="Collages">Collages</a>
+              </li><li>
+                <a href="/shop/pingu/poster-prints" title="Posters">Posters</a>
+              </li><li>
+                <a href="/shop/pingu/notebook" title="Notebooks">Notebooks</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li><li id="pbx_product_range_cadbury">
+       <a href="/shop/cadbury" class="pbx_product_range_header pbx_clickable">Cadbury Dairy Milk</a>
+        <ul>
+          <li>
+            <a href="/shop/cadbury/mug">Eyebrow Mug</a>
+            
+          </li>
+        </ul>
+      </li><li id="pbx_product_deluxe_box">
+       <a href="/giftbox" class="pbx_product_range_header pbx_clickable">Giftbox</a>
         
       </li>
     </ul>
+    
   
     <h3>
       <a href="#">Services</a>
+      
     </h3>
     <ul>
-      <li id="pbx_product_range_blank"> 
+      <li id="pbx_product_range_blank">
        <a href="/content/prices-and-services" class="pbx_product_range_header pbx_clickable">Prices &amp; services</a>
         
-      </li><li id="pbx_product_range_blank"> 
-       <a href="/content/delivery" class="pbx_product_range_header pbx_clickable">Delivery information</a>
+      </li><li id="pbx_product_range_blank">
+       <a rel="nofollow" href="/content/delivery" class="pbx_product_range_header pbx_clickable">Delivery information</a>
         
-      </li><li id="pbx_product_range_aboutus" class="pbx_opened"> 
+      </li><li id="pbx_product_range_aboutus" class="pbx_opened">
        <a href="/content/about-us" class="pbx_product_range_header pbx_clickable">About us</a>
         <ul>
           <li>
             <a href="/content/brand-promises">Brand promises</a>
+            
           </li><li>
             <a href="http://www.photobox.com/?set_site_pref=none">Other countries</a>
+            
           </li><li>
             <a href="/content/legal/terms-of-use">Terms of use</a>
-          </li><li>
+            
+          </li><li class="pbx_opened">
             <a href="/content/legal/privacy" class="pbx_selected">Privacy</a>
+            
           </li>
         </ul>
-      </li><li id="pbx_product_range_blank"> 
-       <a href="/content/help/contact-us" class="pbx_product_range_header pbx_clickable">Contact us</a>
+      </li><li id="pbx_product_range_blank">
+       <a rel="nofollow" href="/content/help/contact-us" class="pbx_product_range_header pbx_clickable">Contact us</a>
         
-      </li><li id="pbx_product_range_blank"> 
-       <a href="/help" class="pbx_product_range_header pbx_clickable">Help</a>
+      </li><li id="pbx_product_range_blank">
+       <a rel="nofollow" href="/help" class="pbx_product_range_header pbx_clickable">Help</a>
         
       </li>
     </ul>
+    
   
 </div>
 
@@ -638,107 +855,78 @@
 
 </div>
 						
-						<div style="width: 770px;" id="pbx_content"><div id="pbx_content_page"><div id="pbx_content_page_header"><img src="http://assets.photobox.com/assets/content_graphics/50/2950.jpg?1207672068" alt="Your security is our security" title="Your security is our security" width="768" height="275"></div>
+						<div style="width: 770px;" id="pbx_content"><div id="pbx_content_page"><div id="pbx_content_page_header">
+    <img src="http://assets.photobox.com/assets/content_graphics/50/2950.jpg?1207672068" alt="Your security is our security" title="Your security is our security" width="768" height="275">
+  </div>
   <div id="pbx_content_left">
-  	<h1>Privacy policy </h1>
-            
-    		<p>This privacy policy together with our terms of use sets out how PhotoBox Limited, part of the Photoways group, ("we", "our", "us") will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the "website"). </p>
-            <p>
-For the purpose of the Data Protection Act 1998 (the Act), the data controllers are PhotoBox Limited of UNIT 2-3, Park Royal, Metro Centre, Britannia Way, London, NW10 7PA and Photoways, ZAC des Parriers, 37-39 de Beauce, 785–Sartrouville. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors"). </p>
-			
-            <p>We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.</p>
+    <h1>Privacy policy </h1>
+<p>This privacy policy together with our terms of use sets out how PhotoBox Limited, part of the Photoways group, ("we", "our", "us") will use any personal data we collect from you, or you provide to us during your use of the on-line photo service (the "website").  </p>
+<p>For the purpose of the Data Protection Act 1998 (the Act), the data controllers are PhotoBox Limited of Bridge House, 1st Floor, 63-65 North Wharf Road, London, W2 1LA and Photoways, ZAC des Parriers, 37-39 de Beauce, 785–Sartrouville. We may from time to time use data processors, who are not employees, agents or otherwise connected with us, with whom we have an agreement to process your data ("Data Processors").  </p>
+<p>We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.</p>
+<br>
+<p>We collect and use personal information in order to: </p>
+<ul>
+  <li>Administer or otherwise carry out our obligations in relation to any agreement that you may have with us.</li>
+  <li>Anticipate and resolve problems with your service.</li>
+  <li>Carry out market research and the tracking of sales.</li>
+  <li>Create and inform you of products and services provided either by us or by carefully selected third parties that you may be interested in, where you have consented to be contacted for such purposes and allow Data Processors to do the same.  </li>
+</ul>
+<p>In order carry out the above, we need to collect and process personal information about you (including but not limited to, your name, address, telephone number, email address, details of your visits to the website and any transactional information in relation to order fulfilment). We may ask you for this information on the website during the registration process or at any subsequent point. The data we collect may be provided to Data Processors for analysis so that we may tailor the goods, services and marketing materials we, and other third parties, offer to you (where you have consented to receive the same). </p>
+<p>In order to take advantage of some of our services, you may need to supply us with the personal details of a third party (for example, their name and address if you wish to send them some prints). We will not use this information for anything other than providing the service for which the information was supplied.  </p>
+<p>We may disclose your first name and last name, to selected third parties, including but not limited to Pro-Gallery owners from whom you have purchased items.  The purpose of this is so that a record may be kept by the third parties of who has purchased photo related items from them.  It is a condition of your use of our services that you agree to this disclosure of your data.</p>
+<br>
+<p>We will not disclose any personally identifiable information without your permission unless:  </p>
+<ul>
+  <li>We are legally entitled to do so (for example, pursuant to a court order or for the purposes of prevention of crime or fraud). You will be treated as having given your permission for disclosures referred to in this policy.</li>
+  <li>We are in negotiations with a third party for the sale or purchase of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+  <li>We, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+  <li>To enforce or apply our <a href="/content/legal/terms-of-use">terms of use</a> and other agreements; or to protect our rights, property, safety, customers, or others. </li>
+</ul>
+<p>If you do not wish to receive mailings from us and/or from our partners, please access the "My Details" area from your home page on the website and ensure that the box for promotional mailings is turned off. </p>
+<h2>Non-Personal Details</h2>
+<p>We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information. </p>
+<h2>Competitions</h2>
+<p>From time to time, we may hold competitions via the website. When you enter a competition, we may ask you to tell us your name, email address, mailing address and telephone number. We will collect and use these details in accordance with the provisions of this privacy policy.</p>
+<h2>Cookies</h2>
+<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report information to our branded partners. </p>
+<p>We may store some information on your computer when you visit the website. This information facilitates your use of the website, and ensures that you do not need to re-enter your details on each visit. The information may be stored in a cookie which is required for the shopping basket and other e-commerce facilities to function. You can set your browser to notify you when you receive a cookie, which allows you to choose whether or not to accept it, however switching off cookies may result in the website having dramatically reduced functionality including, but not limited to, being able to shop on the site. To find out how to enable/disable cookies, please <a href="http://www.allaboutcookies.org/manage-cookies/">click here</a>. We do not have any control over cookies which our advertisers or branded partners may use on the website. </p>
+<h2>Accuracy</h2>
+<p>We aim to keep our records as accurate as possible. If you would like to review or change the details that you have supplied us with at any time you can either amend your details directly by going to the 'My Details' section of your homepage of the website, or by contacting us using the details below.</p>
+<h2>Security</h2>
+<p>The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorised access and improper use. We will continue to update these measures as new technology becomes available. </p>
+<h2>Your Rights</h2>
+<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, or by going to the 'My Preferences' area of the 'My Details' section of your homepage of the website. You can also exercise the right at any time by <a href="/content/help/contact-us">contacting us</a>.</p>
+<h2>Access to Information</h2>
+<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of  £10 to meet our costs in providing you with details of the information we hold about you. </p>
+<h2>Links</h2>
+<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+<h2>Contact us</h2>
+<p>If you would like to contact us <a href="/content/help/contact-us">click here</a>.</p>
 
-            
-            <br>
-            <p>We collect and use personal information in order to: </p>
-            <ul>
-            	<li>Administer or otherwise carry out our obligations in relation to any agreement that you may have with us.</li>
-                <li>Anticipate and resolve problems with your service.</li>
-                <li>Carry out market research and the tracking of sales.</li>
-                <li>Create and inform you of products and services provided either by us or by carefully selected third parties that you may be interested in, where you have consented to be contacted for such purposes and allow Data Processors to do the same. </li>
-
-            </ul>
-                
-               
-                
-            <p>In order carry out the above, we need to collect and process personal information about you (including but not limited to, your name, address, telephone number, email address, details of your visits to the website and any transactional information in relation to order fulfilment). We may ask you for this information on the website during the registration process or at any subsequent point. The data we collect may be provided to Data Processors for analysis so that we may tailor the goods, services and marketing materials we, and other third parties, offer to you (where you have consented to receive the same). </p>
-            
-            <p>In order to take advantage of some of our services, you may need to supply us with the personal details of a third party (for example, their name and address if you wish to send them some prints). We will not use this information for anything other than providing the service for which the information was supplied. </p>
-            
-            <br>
-            <p>We will not disclose any personally identifiable information without your permission unless: </p>
-            
-            	<ul>
-                	<li>We are legally entitled to do so (for example, pursuant to a court order or for the purposes of prevention of crime or fraud). You will be treated as having given your permission for disclosures referred to in this policy.</li>
-
-                    <li>We are in negotiations with a third party for the sale or purchase of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-                    <li>We, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-                    <li>To enforce or apply our <a href="/content/legal/terms-of-use">terms of use</a> and other agreements; or to protect our rights, property, safety, customers, or others. </li>
-                </ul>
-            
-           	<p>If you do not wish to receive mailings from us and/or from our partners, please access the "My Details" area from your home page on the website and ensure that the box for promotional mailings is turned off. </p>
-
-           
-           	<h2>Non-Personal Details</h2> 
-			<p>We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information. </p>
-            
-           	<h2>Competitions</h2> 
-			<p>From time to time, we may hold competitions via the website. When you enter a competition, we may ask you to tell us your name, email address, mailing address and telephone number. We will collect and use these details in accordance with the provisions of this privacy policy.</p>
-			
-            <h2>Cookies</h2> 
-			<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report information to our branded partners. </p>
-			<p>We may store some information on your computer when you visit the website. This information facilitates your use of the website, and ensures that you do not need to re-enter your details on each visit. The information may be stored in a cookie which is required for the shopping basket and other e-commerce facilities to function. You can set your browser to notify you when you receive a cookie, which allows you to choose whether or not to accept it, however switching off cookies may result in the website having dramatically reduced functionality including, but not limited to, being able to shop on the site. To find out how to enable/disable cookies, please <a href="http://www.allaboutcookies.org/manage-cookies/">click here</a>. We do not have any control over cookies which our advertisers or branded partners may use on the website. </p>
-
-			
-            <h2>Accuracy</h2> 
-            <p>We aim to keep our records as accurate as possible. If you would like to review or change the details that you have supplied us with at any time you can either amend your details directly by going to the 'My Details' section of your homepage of the website, or by contacting us using the details below.</p>
-            <h2>Security</h2>
-			<p>The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorised access and improper use. We will continue to update these measures as new technology becomes available. </p>
-			
-            <h2>Your Rights</h2> 
-			<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, or by going to the 'My Preferences' area of the 'My Details' section of your homepage of the website. You can also exercise the right at any time by <a href="/content/help/contact-us">contacting us</a>.</p> 
-			
-            <h2>Access to Information</h2> 
-			<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of  £10 to meet our costs in providing you with details of the information we hold about you. </p>
-
-			
-            <h2>Links</h2> 
-			<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p> 
-			
-            <h2>Contact us</h2> 
-			<p>If you would like to contact us <a href="/content/help/contact-us">click here</a>.</p> 
-	
   </div>
   <div id="pbx_content_right"></div>
   <div class="pbx_spacer"></div>
-
-</div>
-
-
-
-
-
-			<!-- --><!-- omniture_tag --></div>
+</div><!-- --><!-- omniture_tag --></div>
 						<div class="pbx_spacer"></div>
 					</div>
 					<div id="pbx_footer_wrapper">
 						<div id="pbx_footer">
 			<ul id="pbx_footer_doors">          
-  <li><a rel="nofollow" href="/">Home</a><span>|</span></li>
-  <li><a rel="nofollow" href="/content/site-map">Site Map</a><span>|</span></li>
-  <li><a rel="nofollow" href="http://blog.photobox.co.uk" class="pbx_external">Blog</a><span>|</span></li>
-  <li><a rel="nofollow" href="/shop/prints">Prints</a><span>|</span></li>
-  <li><a rel="nofollow" href="/shop">Photo Gifts</a><span>|</span></li>
-  <li><a rel="nofollow" href="/public-galleries">Public Albums</a><span>|</span></li>
-  <li><a rel="nofollow" href="/content/prices-and-services">Prices</a><span>|</span></li>
+  <li><a href="/">PhotoBox</a><span>|</span></li>
+  <li><a href="/content/site-map">Site Map</a><span>|</span></li>
+  <li><a href="http://blog.photobox.co.uk" class="pbx_external">Blog</a><span>|</span></li>
+  <li><a href="/shop/prints">Photo Prints</a><span>|</span></li>
+  <li><a href="/content/share">Photo Sharing</a><span>|</span></li>
+  <li><a href="/shop">Photo Gifts</a><span>|</span></li>
+  <li><a href="http://www.photoboxgallery.com" class="pbx_external">Pro Gallery</a><span>|</span></li> 
+  <li><a href="http://myfo.to" title="Free photo sharing for social media" class="pbx_external">myfo.to</a><span>|</span></li>
+  <li><a alt="blah" href="/content/prices-and-services">Prices</a><span>|</span></li>
   <li><a rel="nofollow" href="/content/quality-advice">Quality Advice</a><span>|</span></li>
   <li><a rel="nofollow" href="/content/jobs">Jobs</a><span>|</span></li>
-  <li><a rel="nofollow" href="/content/affiliation">Affiliates</a><span>|</span></li>
-  <li><a rel="nofollow" href="/content/about-us">About Us</a><span>|</span></li>
-  <li><a rel="nofollow" href="/content/press/press-index">Press</a><span>|</span></li>
+  <li><a href="/content/about-us">About Us</a><span>|</span></li>
+  <li><a href="/content/press">Press</a><span>|</span></li>
   <li><a rel="nofollow" href="/content/legal/terms-of-use">Terms of Use</a><span>|</span></li>
   <li><a rel="nofollow" href="/content/legal/privacy">Privacy</a><span>|</span></li>
-  <li><a rel="nofollow" href="/service-status">Service status</a><span>|</span></li>
   <li><a rel="nofollow" href="/content/help/contact-us">Contact Us</a></li>
   <div class="pbx_spacer"></div>
 </ul>
@@ -749,24 +937,25 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controllers 
 <div id="pbx_photo_partners">
 <br>
       <p><strong>Choose photos from these popular websites or upload from your desktop:</strong></p>
-        <a href="http://picasa.google.com/" class="pbx_external"><img src="http://assets.photobox.com/assets/content_graphics/09/6509.jpg?1222335612" alt="Picasa" title="Picasa" width="65" height="20"></a>
-       <a href="http://www.new.facebook.com/apps/application.php?id=37946903376" class="pbx_external"><img src="http://assets.photobox.com/assets/content_graphics/10/6510.jpg?1222335669" alt="Facebook" title="Facebook" width="65" height="20"></a>
-        <a href="/content/flickr-how-it-works"><img src="http://assets.photobox.com/assets/content_graphics/08/6508.jpg?1222335424" alt="Flickr" title="Flickr" width="65" height="20"></a>
+        <a rel="nofollow" href="http://picasa.google.com/" class="pbx_external"><img src="http://assets.photobox.com/assets/content_graphics/09/6509.jpg?1222335612" alt="Picasa" title="Picasa" width="65" height="20"></a>
+       <a rel="nofollow" href="/content/facebook-how-it-works"><img src="http://assets.photobox.com/assets/content_graphics/10/6510.jpg?1222335669" alt="Facebook" title="Facebook" width="65" height="20"></a>
+        <a rel="nofollow" href="/content/flickr-how-it-works">  <img src="http://assets.photobox.com/assets/content_graphics/08/6508.jpg?1222335424" alt="Flickr" title="Flickr" width="65" height="20">
+</a>
   </div>
 
   <div id="pbx_footer_partners">
     <img src="http://assets.photobox.com/assets/content_graphics/40/3040.jpg?1210852877" width="212" height="32"> 
-    <a href="/shop/cards-and-stationery/greetings-by-photobox"><img src="http://assets.photobox.com/assets/content_graphics/36/3736.jpg?1210852955" alt="Greetings by PhotoBox" title="Greetings by PhotoBox" width="64" height="30"></a>
+    <a href="http://greetings.photobox.co.uk"><img src="http://assets.photobox.com/assets/content_graphics/36/3736.jpg?1210852955" alt="Greetings by PhotoBox" title="Greetings by PhotoBox" width="64" height="30"></a>
   </div>
 
 </div>
 
 <br>
 <br>
-  <div id="pbx_footer_copyright">© Photobox 2008 - Personal publishing and printing online - bring your digital photos to life</div>
+  <div id="pbx_footer_copyright">© PhotoBox 2009 - Personal publishing and printing online - bring your digital photos to life</div>
 			<div id="pbx_footer_seo" class="pbx_footer_seo"></div>
 			
-			<span style="display:none" id="server_ip">10.52.10.18</span>
+			<span style="display:none" id="server_ip">10.52.10.16</span>
 			
 		</div>
 	
@@ -778,7 +967,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controllers 
 				</div>
 				<div id="pbx_body_footer"></div>
 				
-			<!-- SiteCatalyst code version: '15.1'. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com ** --><script src="http://assets.photobox.com/assets/content_graphics/files/analytics/gb/15.1/s_code.js?20081208141347" type="text/javascript"></script>
+			<!-- SiteCatalyst code version: '15.1'. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com ** --><script src="http://assets.photobox.com/assets/content_graphics/files/analytics/gb/15.1/s_code.js?20090602074935" type="text/javascript"></script>
 			<script type="text/javascript"><!--
  
 var myOmnGrabName1 = '/content/legal/privacy';
@@ -910,15 +1099,15 @@ s.eVar17=s.getValOnce(s.eVar17,"OSID",0);
 		</div>
 	
 		<div class="pbx_noprint" id="pbx_loads">
-			<div class="pbx_hidden pbx_loading_string">Loading</div>
-			<div id="pbx_loading"><p class="pbx_sudo_h1">Loading in progress</p>
+			<div class="pbx_hidden pbx_loading_string">Loading...</div>
+			<div id="pbx_loading"><p class="pbx_sudo_h1">Loading...</p>
 		<p></p>
 		<br>
 		<br>
 		
 		<div class="pbx_loading_status">
-			<span>Loading in progress...</span><br>
-			<img alt="Loading..." src="http://assets.photobox.com/assets/images/common/loading_animation.gif?20081208141347">
+			<span>Loading...</span><br>
+			<img alt="Loading..." src="http://assets.photobox.com/assets/images/common/loading_animation.gif?20090602074935">
 		</div>
 	</div>
 			
@@ -967,13 +1156,12 @@ s.eVar17=s.getValOnce(s.eVar17,"OSID",0);
 		<form accept-charset="utf-8" action="/content/legal/privacy" id="pbx_loginform" method="post" class="pbx_form">
 			<p>
 				<input value="login" name="global_action" type="hidden">
-				
 				<label for="pbx_login_email">Email:</label>
-				<input name="email" type="text" id="pbx_login_email" class="pbx_input_text"><br>
+				<input name="email" class="pbx_input_text" id="pbx_login_email" type="text"><br>
 			</p>
 			<p>
 				<label for="pbx_login_password">Password:</label>
-				<input name="password" type="password" id="pbx_login_password" class="pbx_input_text">
+				<input name="password" class="pbx_input_text" id="pbx_login_password" type="password">
 			</p>
 			<p class="pbx_form_actions">
 				<span id="pbx_login_unsuccessful" class="pbx_error">Please try again</span>
@@ -998,12 +1186,15 @@ s.eVar17=s.getValOnce(s.eVar17,"OSID",0);
 <div class="pbx_float_left">Not yet a member?</div>
 <div class="pbx_float_right">
 	<a href="/register" title="Not yet a member?" class="pbx_button_action pbx_color_default" id="pbx_signin_joinnow"><span>Join free</span></a>
+	
 </div>
 <div class="pbx_spacer"></div>
 
 <br>
 
 <p>Having difficulties signing in? <strong><a href="/content/sign-in-help">Get help here</a></strong></p>
+
+
 		</form>
 	</div>
 			
@@ -1075,24 +1266,26 @@ s.eVar17=s.getValOnce(s.eVar17,"OSID",0);
 		</div>
 		<a href="/content/legal/privacy?cat=popup&amp;action=open&amp;settings=pbx_popup_forgottenpassword" id="pbx_passwordforgotten_popup" class="pbx_ajax" title="Forgotten your password?">Forgotten your password?</a>
 		
-			<script src="http://assets.photobox.com/assets/js/lib/lib.js?20081208141347" type="text/javascript"></script>
-			
+			<script src="http://assets.photobox.com/assets/js/lib/lib.js?20090602074935" type="text/javascript"></script>
+
 			<script type="text/javascript">
-				
-				// <!--
-				pbx['obj'] =  {"member":{"street":"","company_name":"","reward_percentage":"0","town":"","_instance_id":"instance-9001086523050","meta":"","email":"","password":"","other_dates":"0000-00-00 00:00:00","custom_date_name":"","prefs":"","is_vendor":"","id":"1086523050","vat_number":"","last_event_alert_id":"0","telephone":"","billing_contact_id":"0","active":"","meta_cache":{"prefs":{"photos_per_page":20,"confirm_upload":0,"java_uploader":0,"remember_me":0,"default_product":1,"photo_sort":"newestfirst","print_thumbs":0,"share_hires":0,"currency":"eur","photo_date":0,"creations_sort":"updated","email_vat":0,"autosave":0,"email2":"","default_style":1,"albums_sort":"updated","lax_upload":0,"fit_photos":0}},"marketing_segment_id":"","lastupdated":"0000-00-00 00:00:00","last_access":"","meta_hash":{},"photo_count":"0","county":"","title":"","class":"Community.Member","quota":"","legacy_customer_id":"0","privileges":"","custom_date":"0000-00-00 00:00:00","is_gallery":"0","member_refcode":"0","other_dates_selection":"","mobile":"","last_name":"","delivery_contact_id":"0","country_id":"1","whereheard":"","offers":"","birthday":"0000-00-00 00:00:00","postcode":"","lightweight":"0","channel_id":"1002","country":"1","currency_id":"1","language":"en","email2":"","nickname":"","settings":"","created":"0000-00-00 00:00:00","news":"","legacy_company":"0","first_name":"","quota_used":"0"},"session":{"privileges":"","user_ip":"67.202.56.179","_instance_id":"instance-9001086523050","maturity_id":"1","meta":"insecure_host,www.photobox.co.uk","_environment":{"basket":{"vat_charged":"0","subtotal":"0.00","_instance_id":"instance-90080278966","meta":"","delivery_product_id":"0","monetary_discount":"0.00","member_id":"1086523050","billing_address_id":"0","payment_id":"0","shipping_name":"","weight":"0","id":"80278966","free_delivery":"0","line_count":"0","printcredit_usage":"enabled","channel_id":"1002","locked":"0","currency_id":"1","item_count":"0","vendor_id":"0","offer_product_id":"0","total_delivery":"0.00","discount":"0.00","total":"0.00","created":"2008-12-16 01:40:48","lastupdated":"2008-12-16 01:40:48","delivery_address_id":"0","free_count":"0","meta_hash":{},"total.formatted":"&pound;0.00","class":"Shopping.Basket"},"member":{"street":"","company_name":"","reward_percentage":"0","town":"","_instance_id":"instance-9001086523050","meta":"","email":"","password":"","other_dates":"0000-00-00 00:00:00","custom_date_name":"","prefs":"","is_vendor":"","id":"1086523050","vat_number":"","last_event_alert_id":"0","telephone":"","billing_contact_id":"0","active":"","meta_cache":{"prefs":{"photos_per_page":20,"confirm_upload":0,"java_uploader":0,"remember_me":0,"default_product":1,"photo_sort":"newestfirst","print_thumbs":0,"share_hires":0,"currency":"eur","photo_date":0,"creations_sort":"updated","email_vat":0,"autosave":0,"email2":"","default_style":1,"albums_sort":"updated","lax_upload":0,"fit_photos":0}},"marketing_segment_id":"","lastupdated":"0000-00-00 00:00:00","last_access":"","meta_hash":{},"photo_count":"0","county":"","title":"","class":"Community.Member","quota":"","legacy_customer_id":"0","privileges":"","custom_date":"0000-00-00 00:00:00","is_gallery":"0","member_refcode":"0","other_dates_selection":"","mobile":"","last_name":"","delivery_contact_id":"0","country_id":"1","whereheard":"","offers":"","birthday":"0000-00-00 00:00:00","postcode":"","lightweight":"0","channel_id":"1002","country":"1","currency_id":"1","language":"en","email2":"","nickname":"","settings":"","created":"0000-00-00 00:00:00","news":"","legacy_company":"0","first_name":"","quota_used":"0"},"channel":{"meta":"max_basket_items,2500,max_basket_items,2500,default_uploader,/my/album/upload/aurigma,remove_offer,1,checkout_telephone_notmandatory,0,PICLENS_OFF,0","enable_mobile_services":"1","prefs":"date_format,%e %b %Y,timezone,Europe/London,datetime_format,%e %b %Y %T,albums_sort,created_desc,photo_sort,alpha,setpassword_icase,1","marketing_group":"photobox.co.uk","enable_special_instructions":"1","code":"38C270","enable_sharing":"1","default_language":"","product_list":"*,!5121, !5157, !5456, !5567","report_email":"","meta_cache":{"meta":{"max_basket_items":"2500","PICLENS_OFF":"0","remove_offer":"1","checkout_telephone_notmandatory":"0","default_uploader":"/my/album/upload/aurigma"}},"referrer_offer_id":"0","content_parent_id":"1","lastupdated":"2008-12-10 17:33:02","email_addresses":"feedback,betafeedback@photobox.co.uk,journalist,betafeedback@photobox.co.uk,offence,admin@photobox.co.uk","title":"Photobox.co.uk","created_by":"0","registration_printcredits_duration":"30","source_host":"","service_name":"Photobox","import_shared_products":"1","credit_account_channel":"0","enable_public_albums":"1","ignore_member_channel":"0","currency_id":"1","referee_printcredits":"0","enable_extra_stats":"0","style":"css/themes/christmas1.css","payment_processor":"cybersource","website_domains":"","_instance_id":"instance-9001002","default_printcredit_product_id":"804","channel_domain_id":"1","modified_by":"0","channel_type":"photobox","id":"1002","enable_retouch":"1","referer_printcredits_duration":"30","enable_galleries":"1","active":"0","marketing_subtype":"","marketing_type":"Local website","default_delivery_product_id":"8","referer_printcredits":"50","meta_hash":{"max_basket_items":"2500","PICLENS_OFF":"0","remove_offer":"1","checkout_telephone_notmandatory":"0","default_uploader":"/my/album/upload/aurigma"},"perorder_quota":"200","class":"Community.Channel","payment_types":"Mastercard,1,Visa,1,American Express,1,Maestro,2,Electron,2,PayPal,3","use_summed_delivery":"0","default_quota":"1000","product_margins":" gifts=0 externalgifts=0 accessories=0 prints=0","referee_offer_id":"0","enable_offers":"1","default_referee_channel_id":"1151","rightnow_url":"","combine_imported_styles":"1","force_personal_message":"0","legal_entity":"PHTB LTD","registration_printcredits":"40","fallback_quota":"0","enable_upsell":"1","country_id":"1","force_whereheard":"0","languages":"en","contact_id":"1","product_parent_id":"1","registration_offer_id":"0","mail_from":"info@photobox.co.uk","created":"","enable_accessories":"1","service_url":"www.photobox.co.uk","combine_imported_products":"1","enable_stats":"1","margin":"0.00","combine_imported_content":"1"}},"country_id":"1","member_id":"1086523050","id":"1086523050","_basket":{"vat_charged":"0","subtotal":"0.00","_instance_id":"instance-90080278966","meta":"","delivery_product_id":"0","monetary_discount":"0.00","member_id":"1086523050","billing_address_id":"0","payment_id":"0","shipping_name":"","weight":"0","id":"80278966","free_delivery":"0","line_count":"0","printcredit_usage":"enabled","channel_id":"1002","locked":"0","currency_id":"1","item_count":"0","vendor_id":"0","offer_product_id":"0","total_delivery":"0.00","discount":"0.00","total":"0.00","created":"2008-12-16 01:40:48","lastupdated":"2008-12-16 01:40:48","delivery_address_id":"0","free_count":"0","meta_hash":{},"total.formatted":"&pound;0.00","class":"Shopping.Basket"},"code":"a6b17e4fa62391e4c0d9f327acdfd2e2","channel_id":"1002","_channel":{"meta":"max_basket_items,2500,max_basket_items,2500,default_uploader,/my/album/upload/aurigma,remove_offer,1,checkout_telephone_notmandatory,0,PICLENS_OFF,0","enable_mobile_services":"1","prefs":"date_format,%e %b %Y,timezone,Europe/London,datetime_format,%e %b %Y %T,albums_sort,created_desc,photo_sort,alpha,setpassword_icase,1","marketing_group":"photobox.co.uk","enable_special_instructions":"1","code":"38C270","enable_sharing":"1","default_language":"","product_list":"*,!5121, !5157, !5456, !5567","report_email":"","meta_cache":{"meta":{"max_basket_items":"2500","PICLENS_OFF":"0","remove_offer":"1","checkout_telephone_notmandatory":"0","default_uploader":"/my/album/upload/aurigma"}},"referrer_offer_id":"0","content_parent_id":"1","lastupdated":"2008-12-10 17:33:02","email_addresses":"feedback,betafeedback@photobox.co.uk,journalist,betafeedback@photobox.co.uk,offence,admin@photobox.co.uk","title":"Photobox.co.uk","created_by":"0","registration_printcredits_duration":"30","source_host":"","service_name":"Photobox","import_shared_products":"1","credit_account_channel":"0","enable_public_albums":"1","ignore_member_channel":"0","currency_id":"1","referee_printcredits":"0","enable_extra_stats":"0","style":"css/themes/christmas1.css","payment_processor":"cybersource","website_domains":"","_instance_id":"instance-9001002","default_printcredit_product_id":"804","channel_domain_id":"1","modified_by":"0","channel_type":"photobox","id":"1002","enable_retouch":"1","referer_printcredits_duration":"30","enable_galleries":"1","active":"0","marketing_subtype":"","marketing_type":"Local website","default_delivery_product_id":"8","referer_printcredits":"50","meta_hash":{"max_basket_items":"2500","PICLENS_OFF":"0","remove_offer":"1","checkout_telephone_notmandatory":"0","default_uploader":"/my/album/upload/aurigma"},"perorder_quota":"200","class":"Community.Channel","payment_types":"Mastercard,1,Visa,1,American Express,1,Maestro,2,Electron,2,PayPal,3","use_summed_delivery":"0","default_quota":"1000","product_margins":" gifts=0 externalgifts=0 accessories=0 prints=0","referee_offer_id":"0","enable_offers":"1","default_referee_channel_id":"1151","rightnow_url":"","combine_imported_styles":"1","force_personal_message":"0","legal_entity":"PHTB LTD","registration_printcredits":"40","fallback_quota":"0","enable_upsell":"1","country_id":"1","force_whereheard":"0","languages":"en","contact_id":"1","product_parent_id":"1","registration_offer_id":"0","mail_from":"info@photobox.co.uk","created":"","enable_accessories":"1","service_url":"www.photobox.co.uk","combine_imported_products":"1","enable_stats":"1","margin":"0.00","combine_imported_content":"1"},"currency_id":"1","expiry":"2009-01-15 01:40:47","language":"en","vendor_id":"0","logged_in":"0","meta_cache":{"meta":{"insecure_host":"www.photobox.co.uk"}},"created":"2008-12-16 01:40:48","lastupdated":"2008-12-16 01:40:48","_member":{"street":"","company_name":"","reward_percentage":"0","town":"","_instance_id":"instance-9001086523050","meta":"","email":"","password":"","other_dates":"0000-00-00 00:00:00","custom_date_name":"","prefs":"","is_vendor":"","id":"1086523050","vat_number":"","last_event_alert_id":"0","telephone":"","billing_contact_id":"0","active":"","meta_cache":{"prefs":{"photos_per_page":20,"confirm_upload":0,"java_uploader":0,"remember_me":0,"default_product":1,"photo_sort":"newestfirst","print_thumbs":0,"share_hires":0,"currency":"eur","photo_date":0,"creations_sort":"updated","email_vat":0,"autosave":0,"email2":"","default_style":1,"albums_sort":"updated","lax_upload":0,"fit_photos":0}},"marketing_segment_id":"","lastupdated":"0000-00-00 00:00:00","last_access":"","meta_hash":{},"photo_count":"0","county":"","title":"","class":"Community.Member","quota":"","legacy_customer_id":"0","privileges":"","custom_date":"0000-00-00 00:00:00","is_gallery":"0","member_refcode":"0","other_dates_selection":"","mobile":"","last_name":"","delivery_contact_id":"0","country_id":"1","whereheard":"","offers":"","birthday":"0000-00-00 00:00:00","postcode":"","lightweight":"0","channel_id":"1002","country":"1","currency_id":"1","language":"en","email2":"","nickname":"","settings":"","created":"0000-00-00 00:00:00","news":"","legacy_company":"0","first_name":"","quota_used":"0"},"basket_id":"80278966","class":"Community.Session"},"form_validation":{"creation_details":[{"perl":"\\w+","children":[],"javascript":"/\\w+/","error_code":1,"field":"name"}],"search":[{"perl":"\\w{3,}","children":[],"javascript":"/\\w{3,}/","error_code":2,"field":"search_string"}],"collection_details":[{"perl":"\\w+","children":[],"javascript":"/\\w+/","error_code":1,"field":"name"}],"vendor_terms":[{"perl":"^1$","children":[],"javascript":"/checked/","error_code":1,"field":"is_vendor"}],"vendor_prices":[{"perl":"\\A[1-9][0-9]*\\z","children":[],"javascript":"/^[1-9][0-9]*$/","error_code":2,"field":"markupAll"},{"perl":"\\A[1-9][0-9]*\\z","children":[],"javascript":"/^[1-9][0-9]*$/","error_code":2,"field":"editPricePlan"}],"vendor_details":[{"perl":"\\w+","children":[],"javascript":"/\\w+/","error_code":1,"field":"name"},{"perl":"\\w+","children":[],"javascript":"/\\w+/","error_code":1,"field":"short_name"},{"perl":".*","children":[],"javascript":"/.*/","error_code":2,"field":"telephone"},{"perl":"^$|^([a-zA-Z0-9_\\.\\-])+\\@(([a-zA-Z0-9\\-])+\\.)+([a-zA-Z0-9]{2,4})+$","children":[],"javascript":"/^$|^([a-zA-Z0-9_\\.\\-])+\\@(([a-zA-Z0-9\\-])+\\.)+([a-zA-Z0-9]{2,4})+$/","error_code":2,"field":"email"},{"perl":"^$|^(http(s?)\\:\\/\\/|~/|/)?([\\w]+:\\w+@)?([a-zA-Z]{1}([\\w\\-]+\\.)+([\\w]{2,5}))(:[\\d]{1,5})?((/?\\w+/)+|/?)(\\w+\\.[\\w]{3,4})?((\\?\\w+(=\\w+)?)(&\\w+(=\\w+)?)*)?","children":[],"javascript":"/^$|[A-Za-z0-9\\.-]{3,}\\.[A-Za-z]{3}/","error_code":2,"field":"website"},{"perl":".*","children":[],"javascript":"/.*/","error_code":2,"field":"quicklink"}],"change_sharing_password":[{"perl":"/^\\w*$/","children":[{"perl":"/^\\w{4,}$/","children":[],"javascript":"/^\\w{4,}$/","error_code":2,"field":"password"}],"javascript":"/^\\w*$/","error_code":1,"field":"password"}],"album_authorization":[{"perl":"/^\\w{4,}$/","children":[],"javascript":"/^\\w{4,}$/","error_code":1,"field":"password"}]},"js_settings":null} ;
-				// -->
-				
-				// <!--
+			
+			// <!--
+				pbx['obj'] =  {"member":{"street":"","company_name":"","reward_percentage":"0","town":"","_instance_id":"instance-9001133536696","meta":"","email":"","clipboard_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704405","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"clipboard","delflag":"0","id":"117704405","intensionally_public":"0","is_linking_to_photos":"0","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"Your temporary album","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"clipboard"},"other_dates":"0000-00-00","custom_date_name":"","prefs":"","is_vendor":"0","id":"1133536696","vat_number":"","last_event_alert_id":"0","telephone":"","billing_contact_id":"0","active":"0","marketing_segment_id":"0","lastupdated":"0000-00-00 00:00:00","streetnumandname":"","is_permitted_to_share":"1","building":"","last_access":"0000-00-00 00:00:00","meta_hash":{},"photo_count":"0","county":"","may_act":"rw","title":"","class":"Community.Member","flat":"","quota":"0","legacy_customer_id":"0","privileges":"","custom_date":"0000-00-00","is_gallery":"0","member_refcode":"0","other_dates_selection":"","mobile":"","last_name":"","delivery_contact_id":"0","country_id":"1","whereheard":"","offers":"0","prefs_hash":{"photos_per_page":20,"confirm_upload":0,"java_uploader":0,"remember_me":0,"default_product":1,"photo_sort":"newestfirst","print_thumbs":0,"share_hires":0,"currency":"eur","photo_date":0,"creations_sort":"updated","email_vat":0,"autosave":0,"email2":"","default_style":1,"albums_sort":"updated","lax_upload":0,"fit_photos":0},"favourites_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704406","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"favourites","delflag":"0","id":"117704406","intensionally_public":"0","is_linking_to_photos":"1","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"Favourites","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"favourites"},"birthday":"0000-00-00","postcode":"","lightweight":"0","channel_id":"1002","country":"1","currency_id":"1","language":"en","email2":"","nickname":"","normal_root_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704404","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"root","delflag":"0","id":"117704404","intensionally_public":"0","is_linking_to_photos":"0","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"root","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"normal_root"},"last_activity_date":"0000-00-00","settings":"","created":"0000-00-00 00:00:00","legacy_company":"0","news":"0","first_name":"","quota_used":"0"},"session":{"privileges":"","basket":{"vat_charged":"0","subtotal":"0.00","_instance_id":"instance-900115860590","meta":"","weight":"0","shipping_name":"","payment_id":"0","id":"115860590","free_delivery":"0","total_money":"GBP 0.00","monetary_discount_money":"GBP 0.00","total_delivery":"0.00","total":"0.00","discount":"0.00","total_delivery_money":"GBP 0.00","lastupdated":"2009-06-04 08:27:35","meta_hash":{},"may_act":"rw","total.formatted":"&#xa3;0.00","class":"Shopping.Basket","subtotal_money":"GBP 0.00","delivery_product_id":"0","monetary_discount":"0.00","member_id":"1133536696","billing_address_id":"0","line_count":"0","channel_id":"1002","printcredit_usage":"enabled","discount_money":"GBP 0.00","currency_id":"1","item_count":"0","vendor_id":"0","offer_product_id":"0","created":"2009-06-04 08:27:35","delivery_address_id":"0","free_count":"0"},"user_ip":"67.202.54.191","_show_splash":"","_instance_id":"instance-9001133536696","channel":{"paypal_c2c_invoice_handling_fee_applies":"1","meta":"PICLENS_OFF,0,allow_order_cancellation,1,checkout_telephone_notmandatory,0,cooling_enabled,1,default_uploader,/my/album/upload/aurigma,disable_creation_markup,0,disable_creation_share_progallery,0,disable_creation_sharing,0,disable_flash_slideshow,0,disable_ledger,0,disable_payme,0,max_basket_items,2500,paypal_c2c_invoice_handling_fee_applies,1,paypal_c2c_invoice_handling_fee_cutoff_value,50,remove_offer,1,upload_fastupload_off,0,use_old_checkout,0","enable_mobile_services":"1","prefs":"date_format,%e %b %Y,timezone,Europe/London,datetime_format,%e %b %Y %T,albums_sort,created_desc,photo_sort,alpha,setpassword_icase,1","marketing_group":"photobox.co.uk","enable_special_instructions":"1","code":"38C270","enable_sharing":"1","default_language":"","product_list":"*,!5121, !5157, !5456, !5567","report_email":"","referrer_offer_id":"0","content_parent_id":"1","lastupdated":"2009-06-01 16:19:55","email_addresses":"feedback,betafeedback@photobox.co.uk,journalist,betafeedback@photobox.co.uk,offence,offence@photobox.co.uk","title":"Photobox.co.uk","paypal_c2c_invoice_handling_fee_amount":"1.00","created_by":"0","registration_printcredits_duration":"30","paypal_c2c_invoice_handling_fee_cutoff_value_money":"GBP 50.00","c2c_paypal_payment_delay_days":"14","source_host":"","service_name":"PhotoBox","import_shared_products":"1","credit_account_channel":"0","email_addresses_hash":{"journalist":"betafeedback@photobox.co.uk","offence":"offence@photobox.co.uk","feedback":"betafeedback@photobox.co.uk"},"enable_public_albums":"1","ignore_member_channel":"0","currency_id":"1","referee_printcredits":"0","enable_extra_stats":"0","paypal_c2c_invoice_handling_fee_amount_money":"GBP 1.00","style":"","payment_processor":"cybersource","website_domains":"","_instance_id":"instance-9001002","default_printcredit_product_id":"804","channel_domain_id":"1","payment_types_hash":{"PayPal":"3","American Express":"1","Electron":"2","Visa":"1","Maestro":"2","Mastercard":"1"},"c2c_account_payment_delay_days":"5","modified_by":"0","channel_type":"photobox","id":"1002","referer_printcredits_duration":"30","enable_retouch":"1","enable_galleries":"1","active":"1","marketing_subtype":"","marketing_type":"Local website","referer_printcredits":"50","default_delivery_product_id":"8","meta_hash":{"paypal_c2c_invoice_handling_fee_applies":"1","PICLENS_OFF":"0","disable_creation_sharing":"0","disable_flash_slideshow":"0","disable_ledger":"0","max_basket_items":"2500","use_old_checkout":"0","upload_fastupload_off":"0","cooling_enabled":"1","disable_creation_share_progallery":"0","disable_payme":"0","remove_offer":"1","checkout_telephone_notmandatory":"0","disable_creation_markup":"0","default_uploader":"/my/album/upload/aurigma","allow_order_cancellation":"1","paypal_c2c_invoice_handling_fee_cutoff_value":"50"},"perorder_quota":"200","class":"Community.Channel","may_act":"r","payment_types":"Mastercard,1,Visa,1,American Express,1,Electron,2,PayPal,3,Maestro,2","use_summed_delivery":"1","paypal_c2c_invoice_handling_fee_cutoff_value":"50.00","default_quota":"1000","product_margins":" gifts=0 externalgifts=0 accessories=0 prints=0","referee_offer_id":"0","enable_offers":"1","default_referee_channel_id":"1151","rightnow_url":"","legal_entity":"PHTB LTD","force_personal_message":"0","combine_imported_styles":"1","registration_printcredits":"40","fallback_quota":"0","enable_upsell":"1","country_id":"1","languages":"en","force_whereheard":"0","prefs_hash":{"date_format":"%e %b %Y","timezone":"Europe/London","datetime_format":"%e %b %Y %T","photo_sort":"alpha","albums_sort":"created_desc","setpassword_icase":"1"},"contact_id":"1","product_parent_id":"1","mail_from":"info@photobox.co.uk","registration_offer_id":"0","created":"0000-00-00 00:00:00","enable_accessories":"1","service_url":"www.photobox.co.uk","enable_stats":"1","combine_imported_products":"1","margin":"0.00","combine_imported_content":"1"},"maturity_id":"1","meta":"insecure_host,www.photobox.co.uk","country_id":"1","member_id":"1133536696","id":"1133536696","code":"5b85e9df0586ce1221a819b929ad6e46","channel_id":"1002","currency_id":"1","expiry":"2009-07-04 08:27:35","language":"en","vendor_id":"0","member":{"street":"","company_name":"","reward_percentage":"0","town":"","_instance_id":"instance-9001133536696","meta":"","email":"","clipboard_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704405","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"clipboard","delflag":"0","id":"117704405","intensionally_public":"0","is_linking_to_photos":"0","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"Your temporary album","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"clipboard"},"other_dates":"0000-00-00","custom_date_name":"","prefs":"","is_vendor":"0","id":"1133536696","vat_number":"","last_event_alert_id":"0","telephone":"","billing_contact_id":"0","active":"0","marketing_segment_id":"0","lastupdated":"0000-00-00 00:00:00","streetnumandname":"","is_permitted_to_share":"1","building":"","last_access":"0000-00-00 00:00:00","meta_hash":{},"photo_count":"0","county":"","may_act":"rw","title":"","class":"Community.Member","flat":"","quota":"0","legacy_customer_id":"0","privileges":"","custom_date":"0000-00-00","is_gallery":"0","member_refcode":"0","other_dates_selection":"","mobile":"","last_name":"","delivery_contact_id":"0","country_id":"1","whereheard":"","offers":"0","prefs_hash":{"photos_per_page":20,"confirm_upload":0,"java_uploader":0,"remember_me":0,"default_product":1,"photo_sort":"newestfirst","print_thumbs":0,"share_hires":0,"currency":"eur","photo_date":0,"creations_sort":"updated","email_vat":0,"autosave":0,"email2":"","default_style":1,"albums_sort":"updated","lax_upload":0,"fit_photos":0},"favourites_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704406","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"favourites","delflag":"0","id":"117704406","intensionally_public":"0","is_linking_to_photos":"1","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"Favourites","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"favourites"},"birthday":"0000-00-00","postcode":"","lightweight":"0","channel_id":"1002","country":"1","currency_id":"1","language":"en","email2":"","nickname":"","normal_root_album":{"cover_photo_id":"0","effective_publicity":"private","_instance_id":"instance-900117704404","meta":"","category_id":"0","view_count":"0","member_id":"1133536696","share_status":"root","delflag":"0","id":"117704404","intensionally_public":"0","is_linking_to_photos":"0","suggested_product_id":"0","link_count":"0","sort_by":"alpha","name":"root","description":"","tags":"","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","quickshare":"","photo_count":"0","may_act":"rwd","class":"Community.Album","allow_shares":"0","attributes":"","role":"normal_root"},"last_activity_date":"0000-00-00","settings":"","created":"0000-00-00 00:00:00","legacy_company":"0","news":"0","first_name":"","quota_used":"0"},"logged_in":"0","created":"2009-06-04 08:27:35","lastupdated":"2009-06-04 08:27:35","meta_hash":{"insecure_host":"www.photobox.co.uk"},"may_act":"rwd","basket_id":"115860590","class":"Community.Session"},"js_settings":null} ;
+			// -->
+			
+			// <!--
 				pbx['extra_config'] =  {} ;
-				// -->
-				
-				// <!--
-				pbx['config'] =  {"ZmxpY2tyQXBpS2V5":"YjcxNTdjNDgwM2E4M2E0MDkzODE2OGY0ZDY0MWY4MzA=","YXNzZXRVcmxQYXRo":"L2Fzc2V0cy9jb250ZW50X2dyYXBoaWNz","cGlrZW9TZWNyZXQ=":"Y2M0NTNmOWRlMg==","UElLRU9USU1FT1VU":"","cGlrZW9YbWxycGNTZXJ2aWNl":"aHR0cDovL2FwaTIucGlrZW8uY29tL3NlcnZpY2VzL3Bpa2VvL3YyL3htbHJwYw==","cGlrZW9SZXN0U2VydmljZQ==":"aHR0cDovL2FwaTIucGlrZW8uY29tL3NlcnZpY2VzL3Bpa2VvL3YyL3Jlc3Q=","ZmxpY2tyWG1scnBjU2VydmljZQ==":"aHR0cDovLzEwLjUyLjEuMjU0L2Zvcm0=","cGljbGVuc09mZg==":"MA==","UElLRU9QUk9HUkVTU1JFRlJFU0g=":"","ZmxpY2tyUGFzc1RocnUy":"YmFiZWwuODQuMTQuMjU0Ljc2","cGljbGVuc0lk":"SFhXWFFlSENXcG9V","ZmxpY2tyU2VjcmV0":"ZTI0MDU0NzAxNTA4YTg0MA==","cGlrZW9Qcm94eQ==":"MA==","UElLRU9NQVhQSE9UT1M=":"","c2VjdXJlSG9zdA==":"c2VjdXJlLnBob3RvYm94LmNvbQ==","cGljbGVuc1Jzc0ZlZWQ=":"aHR0cDovL2JhY2tlbmQyLnBob3RvYm94LmNvLnVrL2FsYnVtLnJzcw==","cGljbGVuc01heFNjYWxl":"Mg==","cGlrZW9BcGlLZXk=":"MDg1NTY2Yjk5OGU4N2E3M2UyZmQwNDVkM2JmYzhmMzc=","YXNzZXRIb3N0":"YXNzZXRzLnBob3RvYm94LmNvbQ==","ZmxpY2tyRXh0cmFQYXJhbXM=":"MTAwMg==","YmFiZWxzZXJ2aWNl":"aHR0cDovLzEwLjUyLjEuMjU0L2JhYmVs"} ;
-				// -->
-				
-			</script>
-			<script src="http://assets.photobox.com/assets/js/lib/p_babel.js?20081208141347" type="text/javascript"></script>
+			// -->
+			
+			// <!--
+				pbx['config'] =  {"ZmxpY2tyQXBpS2V5":"YjcxNTdjNDgwM2E4M2E0MDkzODE2OGY0ZDY0MWY4MzA=","YXNzZXRVcmxQYXRo":"L2Fzc2V0cy9jb250ZW50X2dyYXBoaWNz","cGlrZW9TZWNyZXQ=":"Y2M0NTNmOWRlMg==","UElLRU9USU1FT1VU":"","cGlrZW9YbWxycGNTZXJ2aWNl":"aHR0cDovL2FwaTIucGlrZW8uY29tL3NlcnZpY2VzL3Bpa2VvL3YyL3htbHJwYw==","Zmxhc2hTbGlkZXNob3dPZmY=":"MA==","cGlrZW9SZXN0U2VydmljZQ==":"aHR0cDovL2FwaTIucGlrZW8uY29tL3NlcnZpY2VzL3Bpa2VvL3YyL3Jlc3Q=","ZmxpY2tyWG1scnBjU2VydmljZQ==":"aHR0cDovLzEwLjUyLjEuMjU0L2Zvcm0=","cGljbGVuc09mZg==":"MQ==","UElLRU9QUk9HUkVTU1JFRlJFU0g=":"","ZmxpY2tyUGFzc1RocnUy":"YmFiZWwuODQuMTQuMjU0Ljc2","cGljbGVuc0lk":"SFhXWFFlSENXcG9V","ZmxpY2tyU2VjcmV0":"ZTI0MDU0NzAxNTA4YTg0MA==","YXNzZXRfbGFzdF91cGRhdGU=":"MjAwOTA2MDIwNzQ5MzU=","cGlrZW9Qcm94eQ==":"aHR0cDovL3d3dy5waG90b2JveC5jby51ay9wcm94eQ==","UElLRU9NQVhQSE9UT1M=":"","c2VjdXJlSG9zdA==":"c2VjdXJlMi5waG90b2JveC5jb20=","cGljbGVuc1Jzc0ZlZWQ=":"aHR0cDovL2JhY2tlbmQyLnBob3RvYm94LmNvLnVrL2FsYnVtLnJzcw==","cGljbGVuc01heFNjYWxl":"MQ==","cGlrZW9BcGlLZXk=":"MDg1NTY2Yjk5OGU4N2E3M2UyZmQwNDVkM2JmYzhmMzc=","YXNzZXRIb3N0":"YXNzZXRzLnBob3RvYm94LmNvbQ==","ZmxpY2tyRXh0cmFQYXJhbXM=":"MTAwMg==","YmFiZWxzZXJ2aWNl":"aHR0cDovLzEwLjUyLjEuMjU0L2JhYmVs"} ;
+			// -->
+			
+		</script>
+	
+
+			<script src="http://assets.photobox.com/assets/js/lib/p_babel.js?20090602074935" type="text/javascript"></script>
 			
 			
 		
@@ -1129,6 +1322,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'
 
 		<div style="position:absolute"></div>
 	
+				</div>
 			
 			
 			
