@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216025042id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2009-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
-		<title>Aquasana® - Privacy Policy</title>
+		<title>Aquasana Water Filters - Privacy Policy</title>
 		<meta name="description" content="Aquasana Privacy Policy">
 		<meta name="keywords" content="Water Filter, water filters, Water filtration systems, water purifiers, aquasana water filters, home water filtration, contact aquasana, contact us">
 		<meta name="resource-type" content="document">
@@ -48,8 +48,10 @@ function popWindow(url,width,height) {
 	window.open(url,"","height="+height+",width="+width+",location=no,menubar=no,resizable=no,scrollbars=yes,status=no,titlebar=yes,toolbar=no,left="+(screen.availWidth-width)/2+",top="+(screen.availHeight-height)/2);
 }
 
-function launchVideoWindow(video,type,width,height) {
-	var videoWindow = window.open('videos/index.php?video='+video+'&type='+type,'aquasanavideoWnd','alwaysRaised=yes,directories=no,height='+height+',width='+width+',menubar=no,resizable=no,toolbar=no,scrollbars=no');
+function launchVideoWindow(video) {
+	height=350;
+	width=400;
+	var videoWindow = window.open('videos/video.php?video='+video,'aquasanavideoWnd','alwaysRaised=yes,directories=no,height='+height+',width='+width+',menubar=no,resizable=no,toolbar=no,scrollbars=no,left='+(screen.availWidth-width)/2+',top='+(screen.availHeight-height)/2);
 	videoWindow.focus();
 }
 
@@ -59,57 +61,80 @@ function launchVideoWindow(video,type,width,height) {
 
 <link rel="stylesheet" href="styles.css">
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
-<table id="Table_01" width="800" height="151" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<body>
+
+<div id="top_container">
+<div id="topbanner"><a href="http://www.aquasana.com/"><img src="images/topbanner.jpg" border="0" alt="Aquasana.Com"></a></div>
+
+<table id="topnav" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="8">
-			<a href="http://www.aquasana.com/"><img src="images/menubar_01.gif" width="800" height="116" border="0" alt=""></a></td>
-	</tr>
-	<tr>
 		<td>
-			<img src="images/menubar_02.gif" width="75" height="35" alt=""></td>
+			<a href="allaboutwater.php">ABOUT WATER</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/allaboutwater.php" onmouseover="changeImages('menubar_03', 'images/menubar_03-over.gif'); return true;" onmouseout="changeImages('menubar_03', 'images/menubar_03.gif'); return true;" onmousedown="changeImages('menubar_03', 'images/menubar_03-over.gif'); return true;" onmouseup="changeImages('menubar_03', 'images/menubar_03-over.gif'); return true;">
-				<img name="menubar_03" src="images/menubar_03.gif" width="108" height="35" border="0" alt="All About Water" title="All About Water"></a></td>
+			<a href="lifestyle.php">LIFESTYLE</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/lifestyle.php" onmouseover="changeImages('menubar_04', 'images/menubar_04-over.gif'); return true;" onmouseout="changeImages('menubar_04', 'images/menubar_04.gif'); return true;" onmousedown="changeImages('menubar_04', 'images/menubar_04-over.gif'); return true;" onmouseup="changeImages('menubar_04', 'images/menubar_04-over.gif'); return true;">
-				<img name="menubar_04" src="images/menubar_04.gif" width="108" height="35" border="0" alt="Water Filters for a Healthy Lifestyle" title="Water Filters for a Healthy Lifestyle"></a></td>
+			<a href="products.php">PRODUCTS</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/products.php" onmouseover="changeImages('menubar_05', 'images/menubar_05-over.gif'); return true;" onmouseout="changeImages('menubar_05', 'images/menubar_05.gif'); return true;" onmousedown="changeImages('menubar_05', 'images/menubar_05-over.gif'); return true;" onmouseup="changeImages('menubar_05', 'images/menubar_05-over.gif'); return true;">
-				<img name="menubar_05" src="images/menubar_05.gif" width="109" height="35" border="0" alt="Aquasana Water Filter Products" title="Aquasana Water Filter Products"></a></td>
+			<a href="about_us.php">ABOUT US</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/about_us.php" onmouseover="changeImages('menubar_06', 'images/menubar_06-over.gif'); return true;" onmouseout="changeImages('menubar_06', 'images/menubar_06.gif'); return true;" onmousedown="changeImages('menubar_06', 'images/menubar_06-over.gif'); return true;" onmouseup="changeImages('menubar_06', 'images/menubar_06-over.gif'); return true;">
-				<img name="menubar_06" src="images/menubar_06.gif" width="107" height="35" border="0" alt="About Aquasana" title="About Aquasana"></a></td>
+			<a href="site_map.php">SITE MAP</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/site_map.php" onmouseover="changeImages('menubar_07', 'images/menubar_07-over.gif'); return true;" onmouseout="changeImages('menubar_07', 'images/menubar_07.gif'); return true;" onmousedown="changeImages('menubar_07', 'images/menubar_07-over.gif'); return true;" onmouseup="changeImages('menubar_07', 'images/menubar_07-over.gif'); return true;">
-				<img name="menubar_07" src="images/menubar_07.gif" width="108" height="35" border="0" alt=""></a></td>
+			<a href="contact_us.php">CONTACT US</a>
+		</td>
+		<td width="1">
+			<img src="images/nav_sep.jpg">
+		</td>
 		<td>
-			<a href="http://www.aquasana.com/contact_us.php" onmouseover="changeImages('menubar_08', 'images/menubar_08-over.gif'); return true;" onmouseout="changeImages('menubar_08', 'images/menubar_08.gif'); return true;" onmousedown="changeImages('menubar_08', 'images/menubar_08-over.gif'); return true;" onmouseup="changeImages('menubar_08', 'images/menubar_08-over.gif'); return true;">
-				<img name="menubar_08" src="images/menubar_08.gif" width="108" height="35" border="0" alt=""></a></td>
-		<td width="77" style="background-color:#3154DE; text-align:center;">
-			<a href="http://www.aquasana.com/blog/feed"><img src="images/icon_rss.gif" border="0" alt=""></a></td>
+			<a href="international.php">INTERNATIONAL DEALERS</a></td>
 	</tr>
 </tbody></table>
 
-<table id="Table_01" width="800" height="30" border="0" cellpadding="0" cellspacing="0" align="center">
-	<tbody><tr>
-		<td width="575" valign="bottom">
-			<a href="http://www.aquasana.com/water4life.php"><img src="images/topwflbanner.gif" border="0" alt="Water 4 Life Auto-Ship Cartridge Replacement Program" title="Water 4 Life Auto-Ship Cartridge Replacement Program"></a>
-		</td>
-		<td class="cart-account" align="center">
-			<a class="cart-link" href="http://www.aquasana.com/cart.php"><img src="images/shopping-cart.gif" border="0">
-			my cart: 0 items</a>
-			| <a class="cart-link" href="https://www.aquasana.com/account.php"><img src="images/user_login.gif" border="0"> my account</a>
-		</td>
-	</tr>
-</tbody></table>
+<div id="top_cart_acct">
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" height="30">
+		<tbody><tr>
+			<th>
+				<a href="http://www.aquasana.com/water4life.php"><img src="images/wfl_topbanner.gif" border="0" alt="Water 4 Life Auto-Ship Cartridge Replacement Program" title="Water 4 Life Auto-Ship Cartridge Replacement Program"></a>
+			</th>
+			<td>
+				<a href="http://www.aquasana.com/cart.php"><img src="images/shopping-cart.gif" border="0">	my cart: 0 items</a>
+				<div id="top_cart_acct_sep">|</div>
+				<a href="https://www.aquasana.com/account.php"><img src="images/user_login.gif" border="0"> my account</a>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+
+</div>
+
 <table width="800" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
 		<td colspan="2">&nbsp;</td>
 	</tr>
   <tr>
     <td width="570" class="main-text" valign="top">
-							<span class="huge">Aquasana® Privacy Policy</span>
+							<span class="huge">Aquasana Privacy Policy</span>
 				<hr size="1" color="#8398EB">
 <p><span class="heading">Aquasana® Privacy Policy</span><br>
 (last revised April 23, 2008)
@@ -182,13 +207,13 @@ Haltom City, Texas 76117
   </tr>
 </tbody></table>
 
-<br>&nbsp;
 <table width="800" border="0" cellpadding="0" cellspacing="0" align="center">
-  <tbody><tr>
-    <td>
-			<a href="http://www.aquasana.com/water4life.php"><img src="images/w4lfooter.gif" border="0" alt="Join Aquasana's Water4Life® Auto-ship Program" title="Join Aquasana's Water4Life® Auto-ship Program and get replacement water filter cartridges shipped automatically every 6 months!  The ultimate in value and convenience!"></a></td>
+	  <tbody><tr>
+    <td height="70">
+			<a href="http://www.aquasana.com/water4life.php"><img src="images/w4lfooter.gif" border="0" alt="Join Aquasana's Water4Life® Auto-ship Program" title="Join Aquasana's Water4Life® Auto-ship Program and get replacement water filter cartridges shipped automatically every 6 months!  The ultimate in value and convenience!"></a>
+		</td>
   </tr>
-	<tr>
+		<tr>
 		<td class="bottom-links" align="center">
 			<a class="bottom-links" href="http://www.aquasana.com/water_filters.php">Water Filtration Systems</a> | 
 			<a class="bottom-links" href="http://www.aquasana.com/category.php?category_id=1">Drinking Water Filtration Systems</a> | 
@@ -208,11 +233,11 @@ Haltom City, Texas 76117
 	</tr>
 	<tr>
 		<td class="copyright" align="center">
-			Copyright © 2002 - 2008, Sun Water Systems
+			Copyright © 2002 - 2009, Sun Water Systems
 		</td>
 	</tr>
 </tbody></table>
-
+<div style="height:10px;"></div>
 <!-- Google Analytics stuff -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
