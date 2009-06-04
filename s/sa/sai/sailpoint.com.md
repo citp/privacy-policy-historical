@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206091522id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604205534id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: SailPoint Home
+
+Identity Governance Buyer's Guide
+
+[](http://info.sailpoint.com/BuyersGuideFinal.html)Contains tools to help you identify your priorities, conduct side-by-side product analysis and find a solution that suits your needs. [Download the Guide »](http://info.sailpoint.com/BuyersGuideFinal.html)
 
 Stay Connected
 
