@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailyherald.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219092553id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailyherald.com privacy policy that was archived on 2009-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604212008id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	<title>Daily Herald | Privacy Policy</title>
@@ -22,11 +22,10 @@
 	<link href="/css/ie6_main.css" rel="stylesheet" type="text/css" media="screen" />
 	<![endif]-->
 
-	
-<link rel="shortcut icon" href="http://www.dailyherald.com/favicon.ico" type="imag/x-icon">
+	<link rel="shortcut icon" href="http://www.dailyherald.com/favicon.ico" type="imag/x-icon">
 <link rel="icon" href="http://www.dailyherald.com/favicon.ico" type="imag/x-icon">
 
-
+<script src="http://i.dailyherald.com/apt/info/privacypolicy.asp"></script>
 
 
 	<script type="text/javascript">
@@ -36,7 +35,7 @@
 
 	</script>
 
-	<!-- w1 -->
+	<!-- w2 -->
 
 	<!-- Page Tag Info -->
 	<script type="text/javascript">
@@ -51,50 +50,139 @@
 		var t_URL = 'http://'+t_Server.toLowerCase()+window.location.pathname.replace( /index\.asp/i, '' );
 		var t_OAS = 'www.dailyherald.com/index.asp';
 		var t_Positions = '';
+
+		var t_APT = {
+			publisherId:'20175253771',
+			siteName:'Daily Herald',
+			type:'',
+			topicId:'',
+			topic1:'',
+			topic2:'',
+			topic3:'',
+			customCategory:'',
+			customSection:'',
+			positions:'',
+			buildSlots:function() {
+				var slots = {};
+				var posArr = this.positions.split( ',' );
+				for (var i = 0; i < posArr.length; i++ ) {
+					var slot = {};
+					slot.ad_size_list = [ posArr[ i ].split( '_' )[ 1 ] ];
+					slot.ad_delivery_mode = posArr[ i ].split( '_' )[ 0 ];
+					slot.ad_format_list = [ "Standard Graphical", "Rich Media" ];
+					slot.cstm_content_cat_list = this.customCategory ? this.customCategory.split( /,\s*/ ) : [];
+					slot.content_type_list = this.type ? [ this.type ] : [];
+					slot.clk_dest = "_blank";
+					slots[ posArr[ i ] ] = slot;
+				}
+				return slots;
+			}
+		};
 	</script>
 	<!-- /Page Tag Info -->
-	<!-- OASSETUPbegin -->
-	<script type="text/javascript">
-	<!--
-	//configuration
-	OAS_url = 'http://oascentral.dailyherald.com/RealMedia/ads/';
-	OAS_sitepage = t_OAS;	
-	OAS_listpos = t_Positions;
-	OAS_query = '';
-	OAS_target = '_top';
-	//end of configuration
-	OAS_version = 10;
-	OAS_rn = '001234567890'; OAS_rns = '1234567890';
-	OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-	function OAS_NORMAL(pos) {
-	  document.write('<' + 'A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
-	  document.write('<I' + 'MG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></' + 'A>');
+
+<!-- Begin Yahoo! Ad Code !-->
+<script type="text/javascript">
+	yld_mgr = {};
+	yld_mgr.pub_id = t_APT.publisherId;
+	yld_mgr.site_name = t_APT.siteName;
+
+	yld_mgr.request_type = "ac";
+	yld_mgr.container_type = "js";
+
+	yld_mgr.site_section_name_list = [t_APT.customSection];
+	yld_mgr.content_topic_id_list = [t_APT.topicId];
+	yld_mgr.content_lang = "en-US";
+
+	yld_mgr.slots = t_APT.buildSlots();
+
+	function explore( obj, level ) {
+		var expArr = new Array();
+		expArr.length = level;
+		var reportStr = '';
+
+		for( var key in obj ) {
+
+			if ( typeof obj[ key ] == 'object' ) {
+				if ( obj[ key ][ 0 ] == null ) {
+					reportStr += expArr.join( '\t' ) + '\t"' + key + '":{\n';
+					reportStr += explore( obj[ key ], level + 1 );
+				}
+				else {
+					reportStr += expArr.join( '\t' ) + '\t"' + key + '":["' + obj[ key ].join( '","' ) + '"],\n';
+				}
+			}
+			else if ( typeof obj[ key ] != 'function' ) {
+				reportStr += expArr.join( '\t' ) + '\t"' + key + '":"' + obj[ key ] + '",\n';
+			}
+		}
+		reportStr += expArr.join( '\t' ) + '},\n';
+		return reportStr;
 	}
-	//-->
-	</script>
-	<script type="text/javascript">
-	<!--
-	OAS_version = 11;
-	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-	  OAS_version = 10;
-	if (OAS_version >= 11)
-	  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SC' + 'RIPT>');
-	//-->
-	</script><script language="JavaScript1.1" src="http://oascentral.dailyherald.com/RealMedia/ads/adstream_mjx.ads/www.dailyherald.com/index.asp/1712018046@?"></script>
-	<script type="text/javascript">
-	<!--
-	document.write('');
-	function OAS_AD(pos) {
-	  if (OAS_version >= 11)
-		OAS_RICH(pos);
-	  else
-		OAS_NORMAL(pos);
+
+	function aptTagInfo() {
+		var reportStr = '';
+
+		reportStr += 'yld_mgr = {' + "\n";
+
+		reportStr += explore( yld_mgr, 1 );
+
+		return reportStr;
 	}
-	//-->
-	</script>
-	<!-- OASSETUPend -->
+
+	if ( location.search.indexOf( 'apttag=true' ) != -1 || location.search.indexOf( 'apttag=1' ) != -1 ) {
+		alert( aptTagInfo() );
+	}
+	else if ( location.search.indexOf( 'apttag=2' ) != -1 ) {
+		document.write( '<text' + 'area>' + aptTagInfo() + '</text' + 'area>' );
+	}
+
+</script>
+<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+<!--End Yahoo! Ad Code-->
+
+<script type="text/javascript">
+	function OAS_AD( pos ) {
+		
+		if ( pos == 'Top1' ) {
+			yld_mgr.place_ad_here("ipatf_728x90");
+		}
+		else if ( pos == 'Top2' ) {
+			yld_mgr.place_ad_here("ipatf_980x32");
+		}
+		else if ( pos == 'Middle1' || pos == 'Middle2' ) {
+			if ( yld_mgr.slots[ 'ipatf_300x250' ] != null ) {
+				yld_mgr.place_ad_here("ipatf_300x250");
+			}
+			else if ( yld_mgr.slots[ 'ipbtf_300x250' ] != null ) {
+				yld_mgr.place_ad_here("ipbtf_300x250");
+			}
+		}
+		else if ( pos == 'Middle3' ) {
+			yld_mgr.place_ad_here("ipatf_468x60");
+		}
+		else if ( pos == 'Right1' ) {
+			yld_mgr.place_ad_here("ipstf_160x600");
+		}
+		else if ( pos == 'Right2' ) {
+			yld_mgr.place_ad_here("ipbtf_160x600");
+		}
+		else if ( pos == 'x11' || pos == 'x10' ) {
+			yld_mgr.place_ad_here("ipatf_300x100");
+		}
+		else if ( pos == 'x02' ) {
+			yld_mgr.place_ad_here("ipatf_120x240");
+		}
+		else if ( pos == 'Position1' ) {
+			yld_mgr.place_ad_here("ipatf_1x1");
+		}
+	}
+</script>
+
+
 
 	<script type="text/javascript" src="/js/yahoo/contextual.js"></script>
+
 </head>
 
 <body>
@@ -148,8 +236,8 @@
 
 		<div class="midHeader">
 			<div class="loginHolder">
-				<div style="float:left;margin:0 0 0 3px;width:155px;z-index:3;" id="loginGreeting"><a class="loginText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20081219092553id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Sign In / Sign Up">You are not signed in</a></div>
-				<div style="position:relative;top:-1px;float:left;margin:0 0 0 9px;width:78px;z-index:3;color:white;text-align:center;" id="loginActions"><a class="profileText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20081219092553id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Sign in to DailyHerald.com">Sign In</a> | <a class="profileText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20081219092553id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Become a member of DailyHerald.com">Sign Up</a></div>
+				<div style="float:left;margin:0 0 0 3px;width:155px;z-index:3;" id="loginGreeting"><a class="loginText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20090604212008id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Sign In / Sign Up">You are not signed in</a></div>
+				<div style="position:relative;top:-1px;float:left;margin:0 0 0 9px;width:78px;z-index:3;color:white;text-align:center;" id="loginActions"><a class="profileText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20090604212008id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Sign in to DailyHerald.com">Sign In</a> | <a class="profileText" href="https://web.archive.org/web/20080408210418/http://my.dailyherald.com/account/?redirect=https%3A//web.archive.org/web/20090604212008id_/http%253A//www.dailyherald.com/info/privacypolicy.asp" title="Become a member of DailyHerald.com">Sign Up</a></div>
 			</div>
 			<script type="text/javascript">
 				loginText();
@@ -476,7 +564,7 @@ Paddock reserves the right to change this Privacy Policy at any time.  It is you
 	<div class="lowerFoot">
 		<div class="lowerFootLinks">
 		<a href="https://chatterbox-isd.ca/arli/TransactionType.asp" class="footerAhref">Customer Services</a>  |  <a href="/hr/index.asp" class="footerAhref">Jobs at Daily Herald</a>  |  <a href="/info/mediakit/index.htm" class="footerAhref">Advertise</a>  |  <a href="http://www.dailyherald.com/info/feedback.asp" class="footerAhref">Feedback</a><br>
-		Copyright © 2008 Daily Herald Inc.  All rights reserved. |  <a href="/info/privacypolicy.asp" class="footerAhref">Privacy Policy</a>  |  <a href="/info/copyright.asp" class="footerAhref">Terms of Use</a> <!-- Paddock Pubblications -->
+		Copyright © 2009 Daily Herald Inc.  All rights reserved. |  <a href="/info/privacypolicy.asp" class="footerAhref">Privacy Policy</a>  |  <a href="/info/copyright.asp" class="footerAhref">Terms of Use</a> <!-- Paddock Pubblications -->
 		</div>
 		<div class="footerDropText">
 			<span class="footerText">Visit other Daily Herald sites:</span>
