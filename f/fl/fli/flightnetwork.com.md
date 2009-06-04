@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219093130id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604083805id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
-# Flight Network | Privacy Policy
+# Privacy Policy | Flight Network
 
 This Privacy Policy explains how we collect your personal information on our website, how we protect such information, and the choices you have concerning the use and disclosure of such information.  Please read this Privacy Policy carefully. 
 
@@ -89,8 +89,8 @@ Remember, Flight Network will not disclose or sell any of your personal informat
 If we decide to change our privacy policy, we will post those changes to this privacy statement page, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. **Please refer back to this Privacy Policy on a regular basis.   By using our website, or any of our online products or services, you agree to the terms of this Privacy Policy.**
 
 **How to Contact Us**  
-If you have any questions about this Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our privacy officer at **Telephone:** 905 820 4321   
-**Fax:** 905 820 1090. ****
+If you have any questions about this Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our privacy officer at **Telephone:** 905 829 8699   
+**Fax:** 905 829 9102. ****
 
 **Contacting Office of the Privacy Commissioner of Canada**
 
@@ -107,3 +107,5 @@ Fax: (613) 947-6850
 www.privcom.gc.ca
 
 **UPDATED: May 30, 2007**
+
+Copyright © 1998 - 2009 Flight Network Cheap Flights. All Rights Reserved.
