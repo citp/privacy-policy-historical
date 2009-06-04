@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090724id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604144325id_/http%3A//www.prospectiv.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Prospectiv Corporate Website : Contact Us
 
-**Prospectiv's Privacy Policy**
+Prospectiv's Privacy Policy
 
 Prospectiv takes privacy seriously. As a leading provider of online marketing solutions, we are committed to establishing and maintaining policies which protect the privacy of all information gathered from our customers, prospects and other visitors to our website.
 
@@ -36,5 +36,5 @@ Cookies are used on Prospectiv.com for session management, so that the web pages
 Prospectiv owns and operates several consumer websites including [Eversave.com](http://www.eversave.com/), [TheKnowledgeStop.com](http://www.theknowledgestop.com/) and [Healthier.com](http://www.healthier.com/). Please click on the link below to read the privacy policy for each Prospectiv website:
 
 [Eversave.com Privacy Policy](http://www.eversave.com/eversave/consumers/PrivacyPolicy.jsp)  
-[TheKnowledgeStop.com Privacy Policy](http://www.theknowledgestop.com/eversave/consumers/KnowledgeStop-PrivacyPolicy.jsp)  
+[TheKnowledgeStop.com Privacy Policy](http://www.theknowledgestop.com/PrivacyPolicy.jsp)  
 [Healthier.com Privacy Policy](http://www.healthier.com/PrivacyPolicy.jsp)
