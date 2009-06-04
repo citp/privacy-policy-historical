@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020402id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604095505id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy MembershipMillionaire.com
 
 WEBSITE PRIVACY POLICY
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to MembershipMillionaire.com & Power House Technology, LLC  to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to MembershipMillionaire.com & MemberSpeed, Inc  to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
 
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, Power House Technology, LLC  follow different principles in accordance with worldwide practices for customer privacy and data protection.
+We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, MemberSpeed, Inc follow different principles in accordance with worldwide practices for customer privacy and data protection.
 
 We won`t sell or give away your name, mail address, phone number, email address or any other information to anyone. 
 
@@ -22,13 +22,13 @@ To help you quickly find software, services or information.
 
 To help us create content most relevant to you. 
 
-To alert you to product upgrades, special offers, updated information and other new services from Power House Technology, LLC. 
+To alert you to product upgrades, special offers, updated information and other new services from MemberSpeed, Inc. 
 
 **CONSENT**
 
 If you choose not to register or provide personal information, you cannot access the member area. 
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding Power House Technology, LLC products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Power House Technology, LLC. 
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding MemberSpeed, Inc products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from MemberSpeed, Inc. 
 
 **ACCESS**
 
@@ -40,15 +40,15 @@ Tell us whether you want us to send you member updates or special offers.
 
 **SECURITY**
 
-Power House Technology, LLC has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+MemberSpeed, Inc has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
 These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
 
 In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-Power House Technology, LLC strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+MemberSpeed, Inc strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where Power House Technology, LLC, its subsidiaries, affiliates or agents are located.
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where MemberSpeed, Inc, its subsidiaries, affiliates or agents are located.
 
 You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
 
@@ -58,7 +58,7 @@ We adhere to the Children's Privacy Act. You must be 18 years of age to join or 
 
 **ENFORCEMENT**
 
-If for some reason you believe Power House Technology, LLC has not adhered to these principles, please notify us at: [http://www.MMEhelp.com](http://www.mmehelp.com/), support @ membershipmillionaire.com or by certified mail, return receipt requested, [http://www.MMEhelp.com](http://www.mmehelp.com/) or by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe MemberSpeed, Inc has not adhered to these principles, please notify us at: [http://www.MMEhelp.com](http://www.mmehelp.com/), support @ membershipmillionaire.com or by certified mail, return receipt requested, [http://www.MMEhelp.com](http://www.mmehelp.com/) or by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **ELECTRONIC PRODUCT REGISTRATION**
 
@@ -78,9 +78,9 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 **CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION**
 
-Except as otherwise provided in this Privacy Policy, Power House Technology, LLC will not share your personal information with any third parties without your consent. 
+Except as otherwise provided in this Privacy Policy, MemberSpeed, Inc will not share your personal information with any third parties without your consent. 
 
-Power House Technology, LLC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Power House Technology, LLC or the site; (b) protect and defend the rights or property of Power House Technology, LLC and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+MemberSpeed, Inc will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on MemberSpeed, Inc or the site; (b) protect and defend the rights or property of Power House Technology, LLC and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
 
 If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
 
