@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217015318id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2009-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604141636id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -7,34 +7,38 @@
 <meta name="description" content="News, photos, video and debates from citizen journalists and bloggers around the world.">
 
 <style type="text/css">
-@import url(/yui-2.css);
-@import url(/commonmin-24.css);
+@import url(/yui-3.css);
+@import url(/commonmin-42.css);
 </style>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
+<script type="text/javascript" src="/yui-6.js">
+</script>
+<script type="text/javascript" src="/djmin-80.js">
+</script>
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1077026815079259");
-GS_googleEnableAllServices();
+var pubid="ca-pub-1077026815079259";
+djp.ga_addserv(pubid);
+djp.ga_enable();
 </script>
 <script type="text/javascript">
 var ga_load = Array(0)
 </script>
 <script type="text/javascript">
-  GA_googleAddSlot("ca-pub-1077026815079259", "Leaderboard");
-  GA_googleAddSlot("ca-pub-1077026815079259", "Self-Promotion");
-  GA_googleAddSlot("ca-pub-1077026815079259", "Bottom-Right");
-  GA_googleAddSlot("ca-pub-1077026815079259", "Exclusive-QW");
+  djp.ga_addslot(pubid, "Leaderboard");
+  djp.ga_addslot(pubid, "One-Liner");
+  djp.ga_addslot(pubid, "Self-Promotion");
+  djp.ga_addslot(pubid, "Bottom-Right");
+  djp.ga_addslot(pubid, "Exclusive-QW");
   if (ga_load)
 	  for(var i=0;i<ga_load.length;i++)
-		  GA_googleAddSlot("ca-pub-1077026815079259", ga_load[i]);
+		  djp.ga_addslot(pubid, ga_load[i]);
 </script>
 <script type="text/javascript">
-GA_googleFetchAds();
+djp.ga_fetch();
 </script>
 
-<script type="text/javascript" src="/yui-4.js"></script>
-<script type="text/javascript" src="/djmin-52.js"></script>
 <script type="text/javascript">
 	djp.user.init_user();
 </script>
@@ -46,71 +50,90 @@ GA_googleFetchAds();
 <iframe id="djajaxfrm" src="/images/djlogo_onblack.gif"></iframe>
 <input id="djajaxfld" type="hidden">
 </div>
+<div id="loadextrasinv">
+<img src="/images/ratebgup.gif">
+<img src="/images/ratebgup_over.gif">
+</div>
 
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="djheadtop">
-<table align="center" class="djheader invrs" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-	<td width="259" style="padding:14px 5px 6px 0;"><a href="/" onclick="return true;var img=this.firstChild;var cur=parseInt(img.src.replace(/^.*_onblack([0-9]*)\.gif$/,'$1')),max=3;if(!cur)cur=0;cur=(cur+1)%max;djp.status('showing '+(cur+1)+' of '+max);if(!cur)cur='';img.src='/images/djlogo_onblack'+cur+'.gif';this.blur();return false;"><img src="/images/djlogo_onblack.gif" border="0"></a><img class="invis" src="/images/djlogo_april2008.jpg" border="0" width="260"></td>
-		<td class="h4 tar uact">
-		<a href="/user/action/article_add" onclick="if(!djp.user.is_loggedin()){ djp.user.show_login_form({ signup:1});return false;}">Post News ($)</a>
-		&nbsp;
-		&nbsp;
-		<a href="" onclick="if(!djp.user.is_loggedin()) djp.user.show_login_form({ signup:1}); else{ var b=new DJImage();b.upload(); } return false;">Upload Images»</a>
-	</td>
-	<td class="tar">
-
-<div class="nowrap h4"><a href="" onclick="djp.user.show_login_form();return false;">Log In»</a> &nbsp; &nbsp; &nbsp; <a href="/user/signup.php">Sign Up Now»</a></div>
-
-</td></tr></tbody></table>
-</td>
-</tr>
-<tr>
-	<td class="djheadbot invrs">
-	<table class="djheader" align="center" cellpadding="2" cellspacing="0" border="0" width="100%">
+	<td class="djheadtop invrs">
+	<table align="center" class="djheader" cellpadding="2" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
-	<td style="padding-left:0">
-	<select onchange="var url=this.options[this.selectedIndex].value;if(url)djp.gotourl(url);else return false;">
-		<option value="" class="imp">Jump to</option>
-		<option value="/">Front Page</option>
-		<option value="/user/signup.php">Sign up</option>
-		<option value="/user/benefits.php">Help Center</option>
-		<option value="" class="nimp">------------</option>
-		<option value="" class="imp">News Categories</option>
-<option value="/news/Arts">Arts</option><option value="/news/Business">Business</option><option value="/news/Crime">Crime</option><option value="/news/Education">Education</option><option value="/news/Entertainment">Entertainment</option><option value="/news/Environment">Environment</option><option value="/news/Food">Food</option><option value="/news/Health">Health</option><option value="/news/Internet">Internet</option><option value="/news/Lifestyle">Lifestyle</option><option value="/news/Politics">Politics</option><option value="/news/Religion">Religion</option><option value="/news/Science">Science</option><option value="/news/Sports">Sports</option><option value="/news/Technology">Technology</option><option value="/news/Travel">Travel</option><option value="/news/World">World</option>	
-	</select>
-	</td>
-	<td>
+	<td width="240"><a href="/"><img src="/images/djlogo_onblack.gif" border="0" width="240" height="28" vspace="5"></a></td>
+		<td style="font-size:12px;color:#cccccc;padding-left:10px;">One World, Many Voices</td>
+	<th class="uact">
+	</th>
+	<td class="tar">
+	<div class="small uact p nimp">
+		<a href="/user/action/article_add" onclick="if(!djp.user.is_loggedin()){ djp.user.show_login_form({ signup:1});return false;}">Post News ($)</a> <a href="" onmouseover="djp.user.tt(this,event,{ t:'help', id:'post_news'});" onclick="return false;"><img src="/images/help.gif" border="0" align="absmiddle" style="padding-bottom:4px;"></a>
+	| <a href="" onclick="var b=new DJImage();b.upload();return false;">Upload Images</a>
+	&nbsp;
+	&nbsp;
+	<a href="" onclick="djp.user.show_login_form();return false;">Log In</a> | <a href="/user/signup.php">Sign Up</a>
 
-	<table cellpadding="3" cellspacing="0" border="0" width="99%"><tbody><tr>
-	<td id="ppnav1"><a href="/w/newsindex">News»</a>
+	
+	</div>
+		<form style="margin:0" onsubmit="var m=this.q.value.replace(/^(user|group):.*$/,'$1');if(m &amp;&amp; this.q.value!=m)this.mode.value=m;" action="/search/" method="get"><input type="text" size="30" style="width:175px;" title="Search Digital Journal" name="q" value="" class="small"> <input type="submit" value="Search" class="small"><input type="hidden" name="mode" value=""></form>
+	</td>
+	</tr></tbody></table>
+</td></tr>	
+</tbody></table>
+
+<table align="center" class="djcont" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top">
+	<td><div class="block"><div class="blockin"><div class="blockcnt">
+<table cellpadding="5" width="100%" cellspacing="0" border="0">
+<tbody><tr valign="top">
+	<td>
+<script type="text/javascript">
+    djp.ga_fill("Leaderboard");
+</script>
+</td><td style="padding-left:0;">
+<script type="text/javascript">
+    djp.ga_fill("Self-Promotion");
+</script>
+
+	</td></tr>
+</tbody></table>
+</div></div></div></td></tr></tbody></table>
+
+<center>
+<table class="djcont" bgcolor="white" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td><div class="block"><div class="blockin"><div class="blockcnt">
+
+						<div class="odd">
+	<table cellpadding="3" cellspacing="0" border="0" width="100%" class="ppnavc" style="padding:0 2px 0 7px;"><tbody><tr>
+	<th><a href="/">Home»</a></th>
+	<th id="ppnav1"><a href="/w/newsindex">News»</a>
 		<span class="invis">
-			<a href="/w/newsindex">Top News»</a>
-			<a href="/w/newsindex?ni=latest">Latest News»</a>
-			<a href="/user/action/article_add" onclick="if(!djp.user.is_loggedin()){ djp.user.show_login_form({ signup:1});return false;}">Post News ($)</a>
-		</span></td>
-	<td id="ppnav2"><a href="/w/blogs">Blogs»</a><span class="invis">
+			<a href="/w/newsindex?ni=latest" class="odd">Latest News»</a>
+			<a href="/w/newsindex" class="odd">Top News»</a>
+			<a href="/user/action/article_add" onclick="if(!djp.user.is_loggedin()){ djp.user.show_login_form({ signup:1});return false;}" class="odd" style="margin-bottom:10px;">Post News ($)</a>
+						<a href="/news/Arts">Arts</a>						<a href="/news/Business">Business</a>						<a href="/news/Crime">Crime</a>						<a href="/news/Education">Education</a>						<a href="/news/Entertainment">Entertainment</a>						<a href="/news/Environment">Environment</a>						<a href="/news/Food">Food</a>						<a href="/news/Health">Health</a>						<a href="/news/Internet">Internet</a>						<a href="/news/Lifestyle">Lifestyle</a>						<a href="/news/Politics">Politics</a>						<a href="/news/Religion">Religion</a>						<a href="/news/Science">Science</a>						<a href="/news/Sports">Sports</a>						<a href="/news/Technology">Technology</a>						<a href="/news/Travel">Travel</a>						<a href="/news/World">World</a>					</span></th>
+	<th id="ppnav2"><a href="/w/blogs">Blogs»</a><span class="invis">
 			<a href="/w/blogs">Top Blogs»</a>
 			<a href="/w/blogs?view=latest">Latest Blogs»</a>
 			<a href="?tp=1" onclick="if(!djp.user.is_loggedin()) djp.user.show_login_form({ signup:1}); else return true; return false;">Post Blog»</a>
-		</span></td>
-	<td id="ppnav3"><a href="/w/pics">Images»</a><span class="invis">
+		</span></th>
+	<th id="ppnav3"><a href="/w/pics">Images»</a><span class="invis">
 			<a href="/w/pics">Top Images»</a>
 			<a href="/w/pics?view=latest">Latest Images»</a>
 			<a href="" onclick="if(!djp.user.is_loggedin()) djp.user.show_login_form({ signup:1}); else{ var b=new DJImage();b.upload(); } return false;">Upload Images»</a>
-		</span></td>
-	<td><a href="http://www.digitaljournal.tv/">TV»</a></td>
-	<td id="ppnav4"><a href="/w/groups">Groups»</a><span class="invis">
+		</span></th>
+	<th><a href="http://www.digitaljournal.tv/">TV»</a></th>
+	<th id="ppnav4"><a href="/w/groups">Groups»</a><span class="invis">
 			<a href="/w/groups">View Groups»</a>
 			<a href="" onclick="if(!djp.user.is_loggedin()) djp.user.show_login_form({ signup:1}); else { var g=new DJGroup(); g.edit();} return false;">Create a Group»</a>
-		</span></td>
-	<td><a href="/w/events">Live Events»</a></td>
-	<td id="ppnav5"><a href="/alerts/">Alerts»</a><span class="invis">
+		</span></th>
+	<th><a href="/w/events">Live Events»</a></th>
+	<th id="ppnav5"><a href="/alerts/">Alerts»</a><span class="invis">
 			<a href="/alerts/">Create an Alert»</a>
 			<a href="" onclick="if(!djp.user.is_loggedin()) djp.user.show_login_form({ signup:1}); else return true; return false;">Manage Alerts»</a>
-		</span></td>
-	<td id="ppnav6"><a href="/user/benefits.php">Help Center»</a><span class="invis">
+		</span></th>
+	<th id="ppnav6"><a href="/user/benefits.php">Help Center»</a><span class="invis">
 			<a href="/user/benefits.php?b=cj">Get paid to report news»</a>
 			<a href="/user/benefits.php?b=post">Post blogs»</a>
 			<a href="/user/benefits.php?b=images">Upload images»</a>
@@ -118,19 +141,20 @@ GA_googleFetchAds();
 			<a href="/user/benefits.php?b=groups">Join/create groups»</a>
 			<a href="/user/benefits.php?b=vote">Vote on news &amp; images»</a>
 			<a href="/user/benefits.php?b=comment">Comment &amp; debate»</a>
-		</span></td>
+		</span></th>
+		<td width="400">
+		<script type="text/javascript">
+			djp.ga_fill("One-Liner");
+		</script>
+		</td>
 	</tr></tbody></table>
+</div>
 
-	<div class="invis">
-	<a href="/user/benefits.php?b=cj">Post News ($)»</a> &nbsp; &nbsp; 
-	<a href="/user/benefits.php?b=post">Post Blog»</a> &nbsp; &nbsp; 
-	<a href="/user/benefits.php?b=images">Upload Image»</a> &nbsp; &nbsp; 
-	<a href="/w/groups">Groups»</a> &nbsp; &nbsp; 
-	<a href="/w/events">Events»</a> &nbsp; &nbsp; 
-	<a href="/alerts/">Alerts»</a> &nbsp; &nbsp; 
-	<a href="/user/benefits.php">Help Center»</a>
-	</div>
-	<script>
+<div style="margin-bottom:10px;">
+</div>
+
+
+	<script type="text/javascript">
 	<!--
 	djp.htmlFormedEvent.subscribe(function(){
 		var nodes = YAHOO.util.Dom.getChildrenBy(gebi('ppnav1').parentNode,function(n){ return (n.id && n.id.match(/^ppnav[0-9]+$/)); });
@@ -145,48 +169,28 @@ GA_googleFetchAds();
 	});
 	//-->
 	</script>
-	</td>
-	<td class="tar">
-			<form style="margin:0" onsubmit="var m=this.q.value.replace(/^(user|group):.*$/,'$1');if(m &amp;&amp; this.q.value!=m)this.mode.value=m;" action="/search/" method="get"><input type="text" size="30" style="width:150px;color:#999999;" title="Search Digital Journal" name="q" value="Search..." onfocus="if(this.value=='Search...'){ this.style.color='black';this.value=''; }"><input type="hidden" name="mode" value=""></form>
-	</td>
-	</tr></tbody></table>
-</td></tr></tbody></table>
-<center>
 
-<table class="djcont" cellpadding="0" align="center" cellspacing="0" border="0" style="padding-top:5px;">
-<tbody><tr>
-	<td class="tal" style="padding-right:5px"><div style="width:728px;height:90px;">
-<script type="text/javascript">
-    GA_googleFillSlot("Leaderboard");
-</script>
-</div></td>
-	<td width="235"><div style="float:right;overflow:hidden;width:235px;height:90px;"><div style="float:right;display:inline;">
-<script type="text/javascript">
-  GA_googleFillSlot("Self-Promotion");
-</script>
-</div></div></td>
-</tr>
-</tbody></table>
-
-
-<table class="djcont" bgcolor="white" align="center" cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr valign="top">
-<td width="100%" id="djframe">
+	<td width="100%" id="djframe">
 
 
 <script type="text/javascript">
 var vis_cc = "US";
+var vis_city = "21188";
 </script>
 <script type="text/javascript">
 <!--
-if (vis_cc && vis_cc.length==2) {
-	var d=new Date();d.setTime(d.getTime()+604800000);
+var d=new Date();d.setTime(d.getTime()+86400000);
+if (vis_cc && vis_cc.length==2)
 	djp.set_cookie('vis_cc', vis_cc, d, '/', 'digitaljournal.com');
-}
+if (vis_city)
+	djp.set_cookie('vis_city', vis_city, d, '/', 'digitaljournal.com');
 //-->
 </script>
 
-<div class="h3">
+<div class="blockind">
+	<div class="h3">
 
 DigitalJournal.com Privacy Policy 
 </div>
@@ -273,7 +277,15 @@ How does DigitalJournal.com collect cookies?
 
 </div>
 <div class="p">
-As an alphanumeric identifier, we transfer cookies to your computer's hard disk through your Internet browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. DigitalJournal.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+As an alphanumeric identifier, we transfer cookies to your computer's hard disk through your Internet browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people.
+</div>
+<div class="p">
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>.
+
+</div>
+<div class="p">
+	We use Google, a third party vendor, that uses cookies to serve ad on our site. This includes the <a href="http://www.doubleclick.com/privacy/faq.aspx" target="_blank">DoubleClick DART cookie</a> when users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on your browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the Web. Google's use of the DART cookie enables it to serve ads to you based on the visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy, located <a href="http://www.google.com/privacy_ads.html" target="_blank">here</a>.
 
 </div>
 <div class="p">
@@ -285,8 +297,7 @@ How do I see what information is publicly available, and how do I change it?
 
 </div>
 <div class="p">
-In order to see what information of yours is available to other users, ensure you are logged in at DigitalJournal.com. Click on your name at the top of the page and your profile page will be displayed. This information is visible to anyone that visits the site. In order to change this information, click on My Account at the top of your page, and click the Profile tab. Here you can change your name, sex, city, country, photo, personal website and password. In the event you need to close your account, you can also perform this action here. 
-
+	In order to see what information of yours is available to other users, ensure you are logged in at DigitalJournal.com. Hover over your name at the top of the page and then go to Settings. Here you can change your city, country, photo, personal website and password. In the event you need to close your account, you can also perform this action here.
 </div>
 <div class="h3">
 Conditions of Use 
@@ -298,45 +309,37 @@ If you decide to visit and/or use DigitalJournal.com, your visit and any possibl
 
 </div>
 
-
+</div>
 
 </td>
 <td width="10" rowspan="2" style="width:10px;"><img src="/images/tr.png" height="1" width="10" border="0"></td>
-<td width="300" rowspan="2" id="rightcol">
+<td width="310" rowspan="2" id="rightcol">
 
 
 
 
-<div style="padding:5px;margin:5px 0 10px 0;font-size:11px;border:1px solid #cccccc">
-
-<ul style="padding: 0; margin: 0; width: 100%; list-style: none;">
-<li style="margin: 0; padding: 0; float: left; width: 50%; clear: none; display: block;">  <a href="http://www.reliabilitydirectstore.com/">Industrial Maintenance</a>  </li>
-<li style="margin: 0; padding: 0; float: left; width: 50%; clear: none; display: block;">  <a href="http://www.yellowpagesforme.com">Free Yellow Pages</a>  </li>
-<li style="margin: 0; padding: 0; float: left; width: 50%; clear: none; display: block;">  <a href="http://www.t-mobile.com">Cell Phones</a>  </li>
-<li style="margin: 0; padding: 0; float: left; width: 50%; clear: none; display: block;">  <a href="http://www.treatment-centers.net">Drug Treatment Centers</a>  </li>
-</ul><br clear="all"><div class="nimp tar" style="padding-top:5px;">Sponsored Links</div>
-</div>
 
 <div style="padding-bottom:10px">
 <script type="text/javascript">
-  GA_googleFillSlot("Exclusive-QW");
+djp.ga_fill("Exclusive-QW");
 </script>
 </div>
 
 
 <div style="padding: 10px 0 10px 0;">
 <script type="text/javascript">
-  GA_googleFillSlot("Bottom-Right");
+djp.ga_fill("Bottom-Right");
 </script>
-<div class="ss tac" style="margin-top:3px;padding:3px;"><a href="/advertise.php">Buy an ad on DigitalJournal.com</a></div>
+<div class="ss small" style="padding:3px;"><a href="/advertise.php">Buy an ad on DigitalJournal.com</a></div>
 </div>
 
 </td>
 </tr><tr valign="bottom"><td class="djframebot p"><div class="tar">
 	<a href="#" onclick="scroll(0,0);return false;">Go to top ▲</a>
 </div></td></tr>
-
 </tbody></table>
+</div></div></div>
+</td></tr></tbody></table>
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td class="djfoottop invrs">
 
@@ -353,11 +356,11 @@ If you decide to visit and/or use DigitalJournal.com, your visit and any possibl
 </div><div>
 <a href="/corporate/about_us.php">About Us</a>
 </div><div>
-<a href="/announcements/">Press</a>
+<a href="/announcements/">Press/Media</a>
 </div><div>
 <a href="/advertise.php">Advertise</a>
 </div><div>
-<a href="/info/type/user/bloggers">Top Citizen Journalists</a>
+<a href="/info/type/user/bloggers">Top Digital Journalists</a>
 </div><div>
 <a href="/corporate/investor_relations.php">Investors &amp; Partners</a>
 </div>
@@ -390,11 +393,22 @@ If you decide to visit and/or use DigitalJournal.com, your visit and any possibl
 <a href="/magazine/">Magazine</a>
 </div>
 	 </td>
+<td width="20%" style="width:20%;border-left:1px solid #cccccc;padding:0 20px;">
+<h4>Sponsored Links</h4>
+
+<ul style="padding: 0; margin: 0; width: 100%; list-style: none;">
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">  <a href="http://www.reliabilitydirectstore.com/">Industrial Maintenance</a>  </li>
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">  <a href="http://www.treatment-centers.net">Drug Treatment Centers</a>  </li>
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">  <a href="http://www.autoinsurancea.com/">auto insurance</a>  </li>
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">  <a href="http://www.t-mobile.com">Cell Phones</a>  </li>
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">Download Best  <a href="http://www.fxfisherman.com/forums/index.php">Forex Systems</a>  for Free MT4</li>
+<li style="margin: 0; padding: 0; float: left; width: 100%; clear: none; display: block;">  <a href="http://www.royalmewigs.com">lace front wigs</a>  </li>
+</ul><br clear="all"></td> 
  </tr>
  </tbody></table>
 
 	<div style="padding-top:10px">
-	<div class="details" style="text-align: center">copyright © 1998-2008 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.com/" target="_blank">dell servers</a></div>
+	<div class="details" style="text-align: center">copyright © 1998-2009 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.com/" target="_blank">dell servers</a></div>
 	</div>
 	</div>
 	</td>
@@ -416,11 +430,19 @@ If you decide to visit and/or use DigitalJournal.com, your visit and any possibl
 <input type="hidden" name="frameless" value="1"><input type="hidden" name="output_mode" value="xml"><input type="hidden" name="login_ia" value="1"><div></div></form>
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<div class="invis">
+	<img src="/images/loading.gif" border="0" width="30" height="30">
+</div>
+
 <script type="text/javascript">
-_uacct = "UA-521285-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	var pageTracker = _gat._getTracker("UA-521285-1");
+	pageTracker._trackPageview();
+} catch(err) {}
 djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); });
 djp.htmlFormedEvent.fire(djp);
 </script>
