@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015318id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604141636id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Journal: Your News Network
 
@@ -42,14 +42,20 @@ In the event DigitalJournal.com is buying or selling assets, user information is
 
 How does DigitalJournal.com collect cookies? 
 
-As an alphanumeric identifier, we transfer cookies to your computer's hard disk through your Internet browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. DigitalJournal.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+As an alphanumeric identifier, we transfer cookies to your computer's hard disk through your Internet browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+
+We use Google, a third party vendor, that uses cookies to serve ad on our site. This includes the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) when users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on your browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the Web. Google's use of the DART cookie enables it to serve ads to you based on the visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy, located [here](http://www.google.com/privacy_ads.html). 
 
 Some of our business partners, advertisers and other websites that are linked on DigitalJournal.com may use cookies on our website. However, we have no access to or control over these cookies. Click on the "help" portion of your browser's toolbar to find information on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. However, we strongly recommend that you leave the cookies activated otherwise you may not be able to use all of DigitalJournal.com's features and services. 
 
 How do I see what information is publicly available, and how do I change it? 
 
-In order to see what information of yours is available to other users, ensure you are logged in at DigitalJournal.com. Click on your name at the top of the page and your profile page will be displayed. This information is visible to anyone that visits the site. In order to change this information, click on My Account at the top of your page, and click the Profile tab. Here you can change your name, sex, city, country, photo, personal website and password. In the event you need to close your account, you can also perform this action here. 
+In order to see what information of yours is available to other users, ensure you are logged in at DigitalJournal.com. Hover over your name at the top of the page and then go to Settings. Here you can change your city, country, photo, personal website and password. In the event you need to close your account, you can also perform this action here. 
 
 Conditions of Use 
 
 If you decide to visit and/or use DigitalJournal.com, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law. 
+
+|  | 
