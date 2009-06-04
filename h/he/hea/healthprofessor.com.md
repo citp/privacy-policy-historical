@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144253id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604172301id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Health Professor - Privacy Policy
 
@@ -70,8 +70,8 @@ This Privacy Policy applies to consumers that have signed up on the HealthProfes
 **Delete/Deactivate Policy**  
 Users at any time may unsubscribe to our electronic mailings by following the instructions that we include at the end of every mailing. To correct, update or request that we delete information you provided, please contact us via email, or by writing to:  
 HealthProfessor, LLC  
-2701 NW Boca Raton Blvd, Suite 111  
-Boca Raton, FL 33431
+5030 Champion Blvd. #154  
+Boca Raton, FL 33496
 
 **You can unsubscribe at any time by entering your e-mail address**[here](http://www.purelyunsub.com/)
 
@@ -84,8 +84,8 @@ The Company endeavors at all times to meet and exceed standards of online privac
 For additional information or specific questions, please contact us at:
 
 HealthProfessor, LLC.  
-2701 NW Boca Raton Blvd, Suite 111  
-Boca Raton, FL 33431
+5030 Champion Blvd. #154  
+Boca Raton, FL 33496
 
 Copyright © 2007-2008 HealthProfessor.com and HealthProfessorRX.com. All Rights Reserved.
 
