@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uptake.com privacy policy that was archived on 2008-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081122135208id_/http%3A//www.uptake.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptake.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604090029id_/http%3A//www.uptake.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy/ Your California Privacy Rights
+# Privacy Policy
 
 ## Data You Provide Us
 
@@ -80,7 +80,7 @@ We use industry-standard security protocols, such as (if and where we think appr
 
 ## Truste
 
-[](http://www.kango.com/images/cms/vertical-normal.gif "vertical normal")UpTake Networks Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.uptake.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.uptake.com&sealid=101 "vertical normal")UpTake Networks Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.uptake.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Alex Von Oech at [avonoech@uptake.com](mailto:avonoech@uptake.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -92,8 +92,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make significant material changes to this policy, we will notify you here, and other places we deem appropriate, including a prominent notice on our home page.
 
-PHYSICAL ADDRESS:  
-654 High St Suite 220 Palo Alto CA 94301  
+PHYSICAL ADDRESS:
+
+654 High St Suite 220 Palo Alto CA 94301
+
 Privacy Policy Effective September 23 2008
 
 We welcome suggestions on how to improve our service for you. Please [email us](mailto:feedback@uptake.com) your feedback - the good, the ugly, the things we should add and what needs to be fixed! We appreciate your input.
