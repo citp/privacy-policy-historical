@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101204id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604035347id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Broadband Finder Privacy Policy - Broadband Finder
+# Broadband Finder Privacy Policy
 
 The following privacy statement explains our policy regarding the personal information we collect about you.
 
