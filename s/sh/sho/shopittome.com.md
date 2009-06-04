@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219090218id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604090719id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
 
 # Shop It To Me: Better than Sample Sales -- Free personal shopper for sales on clothing and accessories
 
