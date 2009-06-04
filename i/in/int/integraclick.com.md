@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218235058id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604134528id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
 
 # IntegraClick
 
@@ -9,7 +9,7 @@ IntegraClick inc.
 301 N. Cattlement Road, Suite 300   
 Sarasota, Florida 34232 
 
-We can be reached via e-mail at john@integraclick.com  
+We can be reached via e-mail at compliance@integraclick.com  
 or you can reach us by telephone at 941.483.4188
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
