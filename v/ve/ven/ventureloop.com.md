@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventureloop.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611051637id_/http%3A//www.ventureloop.com/ventureloop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventureloop.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604131624id_/http%3A//www.ventureloop.com/ventureloop/privacy.php) for the most accurate reproduction.*
 
 # Jobs, News, Emerging Growth Companies, Startups, Venture Capital, Silicon Valley, Boston, Austin
 
