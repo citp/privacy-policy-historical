@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044459id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604053557id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Charity Fundraising through Personal Web Pages – Your Cause
 
@@ -77,7 +77,9 @@ A cause must directly support an official, **IRS–registered, 501(c) (3), tax-e
 
 You understand and agree that the Company may, but is not obligated to, review the Site and may delete or remove (without notice) any Site Content or User Content in its sole discretion, for any reason or no reason, including User Content that in the sole judgment of the Company violates this Agreement or which might be offensive, illegal, or that might violate the rights, harm, or threaten the safety of users or others. 
 
-In addition, we reserve the right to reject any cause or user content for any reason including, but are not limited to, content that we deem obscene, pornographic or sexually explicit, depicts graphic or gratuitous violence, makes threats of any kind or that intimidates, harasses, or bullies anyone, or is derogatory, demeaning, malicious, defamatory, abusive, offensive or hateful.  
+In addition, we reserve the right to reject any cause or user content for any reason including, but are not limited to, content that we deem obscene, pornographic or sexually explicit, depicts graphic or gratuitous violence, makes threats of any kind or that intimidates, harasses, or bullies anyone, or is derogatory, demeaning, malicious, defamatory, abusive, offensive or hateful. 
+
+This Site is intended solely for users who are thirteen (13) years of age or older, or under 13 only with parental consent. Any registration by, use of or access to the Site by anyone under 13, is unauthorized, unlicensed and in violation of these Terms of Use. By using the Service or the Site, you represent and warrant that you are 13 or older and that you agree to and to abide by all of the terms and conditions of this Agreement.  
   
 |  |   
   
