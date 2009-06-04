@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153648id_/http%3A//www.furniture123.co.uk/Layouts/content.asp/storyid/%257BEC5B1096-003A-4250-88FC-A376845A08B5%257D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604032923id_/http%3A//www.furniture123.co.uk/Layouts/content.asp/storyid/%257B9E40F65C-B25F-46BF-A2CA-E8B7AD678751%257D) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -30,6 +30,6 @@ We store information about you using cookies (files which are sent by us to your
 
 If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies will have ’furniture123’ in the file name.
 
-Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you will not be able to place an order using the website, please contact us to place your order by telephone.
+Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you will not be able to place an order using the website, please contact us to place your order by [clicking here](https://web.archive.org/content/contact-us-form.asp?d=j3af1).
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/Layouts/content.asp/storyid/%7B7FA7E851-70F0-4EF6-8BD4-B64A5677B3BB%7D)
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/content/contact-us.asp)
