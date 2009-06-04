@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dailytrader.com privacy policy that was archived on 2008-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080810101033id_/http%3A//www.dailytrader.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytrader.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604202232id_/http%3A//www.dailytrader.com/privacy.php) for the most accurate reproduction.*
 
 # DailyTrader.com - Privacy Policy
+
+### Privacy Policy
 
 ####  Registration | Participation | Cookies | Newsletter | Forum | Security | Termination | Data | Summary
 
@@ -20,7 +22,9 @@ Participation describes information that is provided "actively" - meaning, you c
 
 #### Cookies
 
-Apart from described above (members login) we don't use cookies elsewhere on the site. 
+We use Google, as a third-party vendor, which uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.co.uk/privacy_ads.html
+
+Apart from described above (members login and Google) we don't use cookies elsewhere on the site. 
 
 [Top]
 
