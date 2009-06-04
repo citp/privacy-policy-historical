@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareapic.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155027id_/http%3A//www.shareapic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareapic.net privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604230351id_/http%3A//www.shareapic.net/privacy.php) for the most accurate reproduction.*
 
 # Shareapic - The pic sharing site that gives back!
 
@@ -12,7 +12,7 @@ Shareapic.net only allows shows ads from legitimate companies to show advertisem
 
 **IP address**
 
-Each users IP address may be stored on our server.  This will allow us to recognize which users are doing the best and also will allow us to do statistical analysis help prevent fraud. In the case that we recognize an IP address to be promoting unlawful or unauthorized acts, the IP address will be banned from this web site.
+Each user's IP address may be stored on our server.  This will allow us to prevent fraud and protect innocent users. In the case that we recognize an IP address to be promoting unlawful or unauthorized acts, the IP address will be banned from this web site.
 
 **Personal Information**
 
@@ -30,4 +30,4 @@ Shareapic.net is not responsible for any practices or content of external links 
 
 **Contact**
 
-If there are any concerns, suggestions, or comments regarding our Privacy Policy please e-mail [admin@Shareapic.net](mailto:admin@imagebucks.com "mailto:info@imagebucks.com") or use our contact form under the contact link.
+If there are any concerns, suggestions, or comments regarding our Privacy Policy please e-mail shareapicadmin@gmail.com or contact our moderators in the forums.
