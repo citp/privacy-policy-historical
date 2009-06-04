@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmcmarketsstockbroking.com.au privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603093940id_/http%3A//www.cmcmarketsstockbroking.com.au/trading/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcmarketsstockbroking.com.au privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604142340id_/http%3A//www.cmcmarketsstockbroking.com.au/trading/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CMC Markets Stockbroking
 
