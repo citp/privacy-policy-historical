@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604132059id_/http%3A//www.infopia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Infopia - Privacy Policy
 
@@ -33,7 +33,7 @@ Infopia provides you notice of information practices. Infopia offers you choices
   
 ---  
   
-[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/solutions-auction.shtml)[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/lp-VLED-casestudy-0808.shtml)[](http://www.merchantadvantage.com/webinar08/08282008/index.cfm?p=homeLink)[](https://www1.gotomeeting.com/register/440062048)[](https://www1.gotomeeting.com/register/172617381)[](https://web.archive.org/web/20081216011757id_/http%3A//www.infopia.com/solutions-website.shtml)  
+[](https://web.archive.org/web/20090604132059id_/http%3A//www.infopia.com/solutions-auction.shtml)[](https://web.archive.org/web/20090604132059id_/http%3A//www.infopia.com/lp-PE-whitepaper-0904a.shtml)[](http://www.merchantadvantage.com/webinar08/08282008/index.cfm?p=homeLink)[](https://www1.gotomeeting.com/register/440062048)[](https://www1.gotomeeting.com/register/172617381)[](https://web.archive.org/web/20090604132059id_/http%3A//www.infopia.com/solutions-website.shtml)  
   
 ---  
  
