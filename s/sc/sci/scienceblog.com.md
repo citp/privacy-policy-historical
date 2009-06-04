@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503115514id_/http%3A//www.scienceblog.com/cms/privacy-15554.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604020932id_/http%3A//www.scienceblog.com/cms/privacy-15554.html) for the most accurate reproduction.*
 
-# Privacy | Science Blog
+# Privacy and Site Disclaimer | Science Blog
 
 PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
 
@@ -10,7 +10,7 @@ Because we gather certain types of information about our users, we feel you shou
 
 INFORMATION SCIENCEBLOG.COM GATHERS AND TRACKS
 
-ScienceBlog.com gathers two types of information about users:
+ScienceBlog.com gathers multiple types of information about users:
 
 * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards, forums or blogs, to email a friend, and from participation in polls and surveys:
 
@@ -47,6 +47,14 @@ Usage tracking
 ScienceBlog.com tracks user traffic patterns throughout all of our sites. ScienceBlog.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
 
 ScienceBlog.com sometimes tracks and catalogs the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you.
+
+In addition, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx).
+
+In addition, please note:
+
+* Google, as a third party vendor, uses cookies to serve ads on our sites.  
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Cookies
 
@@ -87,3 +95,8 @@ We give users options wherever necessary and practical. Such choices include:
 YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by ScienceBlog.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+SITE DISCLAIMER  
+The opinions expressed by ScienceBlog.com bloggers and those providing comments are theirs alone, and do not reflect the opinions of ScienceBlog.com or any employee thereof. ScienceBlog.com is not responsible for the accuracy of any of the information supplied by site bloggers, commenters, or of the third-party press releases posted on this site. In other words EVERYTHING ON THIS SITE IS LIABLE TO BE INACCURATE EITHER NOW OR AT SOME POINT IN THE FUTURE. As you read the content on this site, keep in mind that science and medicine are moving targets. Advice you get here may cause cause blindness and stigmata, halitosis and loneliness. Generally, it should be ignored. If you're sick, talk to your doctor. Don't rely on what you find here for much of anything beyond entertainment.
+
+##### [Permalink](https://web.archive.org/cms/privacy-15554.html)
