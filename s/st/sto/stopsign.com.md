@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219203114id_/http%3A//www.eacceleration.com/company/privacy/%3Fpg%3Dss_di001%26ver%3Donline%26n%3Dd_mss_clk01%26SV%3Dsi013d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604184353id_/http%3A//www.eacceleration.com/company/privacy) for the most accurate reproduction.*
 
 # eAcceleration Corp. - Privacy Policy
 
