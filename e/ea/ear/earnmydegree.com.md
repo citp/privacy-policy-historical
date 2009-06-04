@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219110810id_/http%3A//www.earnmydegree.com/online-education/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604170947id_/http%3A//www.earnmydegree.com/online-education/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EarnMyDegree.com
 
-**EarnMyDegree.com Web Privacy Statement**  
-_This privacy policy was last updated on January 16th, 2006_
+[Home](https://web.archive.org/) » Privacy Policy
+
+## This privacy policy was last updated on February 9th, 2009
 
 EarnMyDegree is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
 
@@ -31,10 +32,14 @@ Our websites provide users the opportunity to request information from schools, 
 **How We Use This Information**  
 We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
 
-EarnMyDegree may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+EarnMyDegree will not share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
 
 **Your Rights Our Obligations**   
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@earnmydegree.com. 
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@earnmydegree.com or send a letter to:
+
+EarnMyDegree.com  
+157 Yesler Way, Suite 200  
+Seattle, WA 98104
 
 Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. 
 
@@ -47,7 +52,7 @@ When you visit some of our sites, we use cookies to keep track of your informati
 **Links From Our Site To Other Sites**   
 Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. EarnMyDegree is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
 
-**Definitions**
+### Definitions
 
 **Cookies**  
 Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk.
@@ -67,5 +72,3 @@ The leading security protocol on the Internet. When an SSL session is started, t
 
 **URL (Uniform Resource Locator)**  
 An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for EarnMyDegree is www.earnmydegree.com.
-
-Copyright © 2007 EarnMyDegree.com. All rights reserved.
