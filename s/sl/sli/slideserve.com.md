@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slideserve.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221220643id_/http%3A//www.slideserve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideserve.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604051124id_/http%3A//www.slideserve.com/privacy) for the most accurate reproduction.*
 
-# SlideServe - Taking your PowerPoint Presentations online
+# SlideServe - Privacy Policy
 
 Privacy Policy  
 SlideServe is committed to protecting your privacy when you use the SlideServe Service, which is comprised of (i) the SlideServe website, currently located at www. SlideServe.com (and/or any successor or additional website(s) owned or operated by or for SlideServe); (ii) the SlideServe client/player, a downloadable application that enables users to view content (the " SlideServe Client"); (iv) the servers operated by or on behalf of SlideServe; and/or (v) any other technology and/or services that SlideServe provides its users. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information. 
