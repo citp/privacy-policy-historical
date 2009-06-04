@@ -1,127 +1,116 @@
-<!--The following is the downloaded HTML source of the smugmug.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216013857id_/http%3A//www.smugmug.com/aboutus/privacy.mg) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smugmug.com privacy policy that was archived on 2009-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604174036id_/http%3A//www.smugmug.com/aboutus/privacy.mg) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <!-- pageon: Privacy -->
+    <title>SmugMug Privacy  Policy</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="description" content="The ultimate in photo sharing.  Easily create online photo albums.  Share, store, organize and print.">
     <meta name="keywords" content="online photo albums, photo sharing, photo hosting, photo storage, albums, photo albums, photo, sharing, picture sharing, share photos, photo galleries, photo gallery, photos, photographs, online gallery, picture gallery, picture galleries, online galleries, smugmug gallery, smugmug, smug mug, smugmug photos, images, image galleries, image gallery, gallery hosting, galleries hosting, hosting">
     <meta name="robots" content="all, index, follow">
-    <link rel="SHORTCUT ICON" href="/favicon.ico"><!-- pageon: Privacy --><link type="text/css" rel="stylesheet" id="yui_core" href="http://cdn.smugmug.com/include/css/other//other/yui_core-277e7e449408b9ba1fb1e5a0a6e695ee.css"><link type="text/css" rel="stylesheet" id="smugmugBlackCSS" href="http://cdn.smugmug.com/include/css/other//other/smugmugBlack-20081115212528-stretch.css"><link type="text/css" rel="stylesheet" id="pureSmugBlack" href="http://cdn.smugmug.com/include/css/other//other/pureSmugBlack-20081115212528-stretch.css">
-    <script type="text/javascript">
-        //SM namespace
-        if (typeof SM === 'undefined') {
-            var SM = {};
+    <meta http-equiv="imagetoolbar" content="no">
+    <link rel="SHORTCUT ICON" href="/favicon.ico">
+    <link type="text/css" rel="stylesheet" id="yui_core" href="http://cdn.smugmug.com/include/css/other//other/yui_core-eb7ea22af5c2c32cb494483fac3735a1.css">
+    <link type="text/css" rel="stylesheet" id="smugmugBlackCSS" href="http://cdn.smugmug.com/include/css/other//other/smugmugBlack-20090430131602-stretch.css">
+    <link type="text/css" rel="stylesheet" id="pureSmugBlack" href="http://cdn.smugmug.com/include/css/other//other/pureSmugBlack-20090409175653-stretch.css">
+    <script type="text/javascript" id="sm_js_base">
+      //SM namespace
+      if (typeof SM === 'undefined') {
+        var SM = {};
+      }
+      SM.namespace = function() {
+        var a = arguments, o = null, i, j, d;
+        for (i = 0; i < a.length; ++i) {
+          d = a[i].split(".");
+          o = SM;
+          // SM is implied, so it is ignored if it is included
+          for (j = (d[0] === "SM") ? 1 : 0; j < d.length; ++j) {
+            o[d[j]] = o[d[j]] || {};
+            o = o[d[j]];
+          }
         }
-
-        SM.namespace = function() {
-            var a = arguments, o = null, i, j, d;
-
-            for (i = 0; i < a.length; ++i) {
-                d = a[i].split(".");
-                o = SM;
-
-                // SM is implied, so it is ignored if it is included
-                for (j = (d[0] === "SM") ? 1 : 0; j < d.length; ++j) {
-                    o[d[j]] = o[d[j]] || {};
-                    o = o[d[j]];
-                }
-            }
-
-            return o;
-        };
-
-        SM.currentContext = {};
-
-        SM.hostConfig = {
-            'mainHost': 'www.smugmug.com',
-            'uploadHost': 'upload.smugmug.com',
-            'cdnHost': 'cdn.smugmug.com',
-            'sessionDomain': '.smugmug.com',
-            'cartUrl': 'https://secure.smugmug.com/cart',
-            'mapsHost': 'maps.smugmug.com'
-        };
-
-        SM.appVersion = {
-            'MacDaddy' : '3.0.3',
-            'ShizamSlides' : '2008090902',
-            'ninjaLoader' : '2008090902',
-            'ShizVidz' : '2008120101',
-            'clipboardSmuggler' : '2008110602',
-            'yui': '2.5.2'
+        return o;
+      };
+      SM.currentContext = {};
+      SM.hostConfig = {
+        'mainHost': 'www.smugmug.com',
+        'uploadHost': 'upload.smugmug.com',
+        'cdnHost': 'cdn.smugmug.com',
+        'sessionDomain': '.smugmug.com',
+        'cartUrl': 'https://secure.smugmug.com/cart',
+        'mapsHost': 'maps.smugmug.com'
+      };
+      SM.appVersion = {
+        'MacDaddy' : '3.0.3',
+        'ShizamSlides' : '2009050804',
+        'ninjaLoader' : '2009020901',
+        'ShizVidz' : '2008120101',
+        'clipboardSmuggler' : '2008110602',
+        'yui': '2.7.0'
+      }
+      var primaryCSScolor = 'Black';
+      try {document.execCommand('BackgroundImageCache', false, true);} catch(err) {}
+      var rightClickWarning = "These photos are copyrighted by their respective owners. All rights reserved. Unauthorized use prohibited.";
+      function rightProtect(e) {
+        if (window.event) {
+          var srcEl = event.srcElement ? event.srcElement : event.target;
+        } else {
+          var srcEl = e.srcElement ? e.srcElement : e.target;
         }
-
-        var primaryCSScolor = 'Black';
-
-        try {
-            document.execCommand('BackgroundImageCache', false, true);
-        } catch(err) {
+        var className = srcEl.className;
+        if (className.indexOf('protected') != -1) {
+          window.alert(rightClickWarning);
+          return false;
+        } else {
+          return true;
         }
-
-        var rightClickWarning = "These photos are copyrighted by their respective owners. All rights reserved. Unauthorized use prohibited.";
-
-        function rightProtect(e) {
-            if (window.event) {
-                var srcEl = event.srcElement ? event.srcElement : event.target;
-            } else {
-                var srcEl = e.srcElement ? e.srcElement : e.target;
-            }
-
-            var className = srcEl.className;
-
-            if (className.indexOf('protected') != -1) {
-                window.alert(rightClickWarning);
-                return false;
-            } else {
-                return true;
-            }
-        }
-
-        document.oncontextmenu = rightProtect;
+      }
+      document.oncontextmenu = rightProtect;
     </script>
-<script type="text/javascript" src="http://cdn.smugmug.com/include/js/yui_core-min-6513dd7a183d47fe6e74a0957ee53060.js"></script><script type="text/javascript" src="http://cdn.smugmug.com/include/js/smugmug_core-min-ee68b6d38e08aa0611b6b8ac423e20b7.js"></script><title>SmugMug Privacy  Policy- powered by SmugMug</title>
-    </head>
-<body class="tempClass2 notLoggedIn pureSmugCSS bodyColor_Black">
-        <script type="text/javascript">
-    (function() {
+    <script type="text/javascript" src="http://cdn.smugmug.com/include/js/yui_core-min-05c2add6bf8b2f904dcec85d5c7070a1.js"></script>
+    <script type="text/javascript" src="http://cdn.smugmug.com/include/js/smugmug_core-min-10958cce75310911115ed74332e4c42a.js"></script>
+  </head>
+  <body class="tempClass2 notLoggedIn pureSmugCSS bodyColor_Black">
+    <script type="text/javascript">
+      (function() {
         var parts = window.location.href.split("#");
-
-        if (parts.length < 2 || YD.hasClass(document.body, 'smugmug_ajax') || YD.hasClass(document.body, 'singleImage')) {
-            return;
+        if (parts.length < 2 || YD.hasClass(document.body, 'smugmug_ajax') ||
+            YD.hasClass(document.body, 'singleImage'))
+          return;
+        if (YD.hasClass(document.body,'galleryPage')
+            || YD.hasClass(document.body,'keywordPage')
+            || YD.hasClass(document.body,'datePage')
+            || YD.hasClass(document.body,'popularGallery')
+            || YD.hasClass(document.body,'popularImage')
+            || YD.hasClass(document.body,'communityKeyword')) {
+          var goHere = SM.util.normalizeURL();
+          if (/\w+\-[A-Z0-9]+\-LB$/.test(parts[1])) {
+            goHere += ('?c=1#' + parts[1]);
+          }
+          location.href = goHere;
         }
-
-        //if (parts.length === 2 && !YD.hasClass(document.body,'smugmug_ajax') && !YD.hasClass(document.body,'singleImage') && (YD.hasClass(document.body,'galleryPage') || YD.hasClass(document.body,'keywordPage') || YD.hasClass(document.body,'datePage') || YD.hasClass(document.body,'popularGallery') || YD.hasClass(document.body,'popularImage') || YD.hasClass(document.body,'communityKeyword'))) {
-        if (YD.hasClass(document.body,'galleryPage') || YD.hasClass(document.body,'keywordPage') || YD.hasClass(document.body,'datePage') || YD.hasClass(document.body,'popularGallery') || YD.hasClass(document.body,'popularImage') || YD.hasClass(document.body,'communityKeyword')) {
-            var goHere = SM.util.normalizeURL();
-
-            if (/\w+\-[A-Z0-9]+\-LB$/.test(parts[1])) {
-                goHere += ('?c=1#' + parts[1]);
-            }
-
-            location.href = goHere;
-        }
-    })();
+      })();
     </script>
     <div id="bodyWrapper">
-            <!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
-        <div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div><div id="extraDiv3"><span></span></div>
-        <div id="extraDiv4"><span></span></div><div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
-    <!-- Start Header -->
-    <div id="header_wrapper" class="top_border bottom_border">
-        <div id="header">
-                <a href="http://www.smugmug.com/" id="homelink"><img src="http://cdn.smugmug.com/img/spacer.gif" alt="SmugMug" title="SmugMug" width="116" height="24" hspace="0" vspace="0" border="0" class="smuglogo"></a>
-                <div id="toolbar" class="nav"><a href="http://www.smugmug.com/" class="nav">Home</a>                |
-                <a href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy.mg" class="nav">Login</a>                |
-                    <a href="http://www.smugmug.com/visitor-help" class="nav">Help</a>
-                |<form name="searchBox" id="searchBox" method="get" action="/search/index.mg" onsubmit="checkInput('Search','searchWords',' ')"><input type="text" onclick="checkInput('Search','searchWords','')" onblur="checkInput('','searchWords','Search')" id="searchWords" name="searchWords" value="Search"><input type="hidden" name="searchType" value="global"><input type="image" src="http://cdn.smugmug.com/img/spacer.gif" alt="Submit Search" title="Submit Search" class="searchglass" onclick="if(document.searchBox.searchWords.value == 'Search') { document.searchBox.searchWords.value = ' '; }"></form>                |<a href="https://secure.smugmug.com/cart"><img src="http://cdn.smugmug.com/img/spacer.gif" alt="View Cart" title="View Cart" width="21" height="18" hspace="0" vspace="0" border="0" class="shoppingcart"></a>
-            </div>
-            <div class="spacer"></div>
-        </div>
+      <!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+      <div id="extraDiv1"><span></span></div>
+      <div id="extraDiv2"><span></span></div>
+      <div id="extraDiv3"><span></span></div>
+      <div id="extraDiv4"><span></span></div>
+      <div id="extraDiv5"><span></span></div>
+      <div id="extraDiv6"><span></span></div>
+      <!-- Start Page Header -->
+      <div id="header_wrapper" class="top_border bottom_border">
+  <div id="header">
+    <a href="http://www.smugmug.com/" id="homelink"><img src="http://cdn.smugmug.com/img/spacer.gif" alt="SmugMug" title="SmugMug" width="116" height="24" hspace="0" vspace="0" border="0" class="smuglogo"></a>
+    <div id="toolbar" class="nav">
+      <a href="http://www.smugmug.com" class="nav">Home</a> | <a href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy.mg" class="nav">Login</a> | <a href="http://www.smugmug.com/visitor-help" class="nav">Help</a> | <form name="searchBox" id="searchBox" method="get" action="/search/index.mg" onsubmit="checkInput('Search','searchWords','')"><input name="searchWords" id="searchWords" type="text" value="Search" onclick="checkInput('Search', 'searchWords', '')" onblur="checkInput('', 'searchWords', 'Search')"><input type="hidden" name="searchType" value="global">&nbsp;<input type="image" src="http://cdn.smugmug.com/img/spacer.gif" alt="Submit Search" title="Submit Search" class="searchglass" onclick="if(document.searchBox.searchWords.value == 'Search') {document.searchBox.searchWords.value = ' ';}"></form>
+|<a href="https://secure.smugmug.com/cart"><img src="http://cdn.smugmug.com/img/spacer.gif" alt="View Cart" title="View Cart" width="21" height="18" hspace="0" vspace="0" border="0" class="shoppingcart"></a>
     </div>
-<!-- End Header -->
-<!-- Start Content -->
-
-
-
+    <div class="spacer"></div>
+  </div>
+</div>
+ <!-- ----------------------- END CONTROLLED HEADER -----------------------  -->
  
  <div id="content">
 <div class="box enclosedBox">
@@ -224,7 +213,6 @@ Mountain View, CA  94040</p>
  </div>
  <div class="spacer"></div>
  </div>
-    <div class="spacer"></div>
 </div>
 <!-- End Content -->
 
@@ -239,7 +227,7 @@ Mountain View, CA  94040</p>
         }
     // -->
     </script>
-    <div id="footer_wrapper" class="top_border" style="visibility: visible; display: block;">
+    <div id="footer_wrapper" class="top_border" style="visibility: visible; display: block; clear: both;">
         <div id="footer" class="nav" style="visibility: visible; display: block;">
             <a href="http://www.smugmug.com/aboutus/news.mg" class="nav">News</a> |
             <a href="http://www.smugmug.com/browse/" class="nav">Browse</a> |
@@ -248,7 +236,7 @@ Mountain View, CA  94040</p>
             <a href="http://www.smugmug.com/help/dgrin" class="nav">Forum</a> |
             <a href="http://wiki.smugmug.net/display/SmugMug/Home" class="nav">Wiki</a> |
             <a href="http://www.smugmug.com/ClubSmug" class="nav">ClubSmug</a> |
-            <a href="http://www.smugmug.com/prints/catalog.mg" class="nav">Prints &amp; Gifts</a> |
+            <a href="http://www.smugmug.com/prints/catalog/P" class="nav">Prints &amp; Gifts</a> |
             <a href="https://secure.smugmug.com/cart" class="nav">Shopping Cart</a> |
             <a href="https://secure.smugmug.com/login.mg?goTo=http%3A%2F%2Fwww.smugmug.com%2Faboutus%2Fprivacy.mg" class="nav">Login</a>            <br>
             <a href="http://www.smugmug.com/aboutus/terms.mg" class="nav">Terms</a> |
@@ -258,7 +246,7 @@ Mountain View, CA  94040</p>
             <a href="http://blogs.smugmug.com/" class="nav">Blogs</a> |
             <a href="http://wiki.smugmug.net/display/SmugMug/API" class="nav">API</a> |
             <a href="http://www.smugmug.com/affiliates/" class="nav">Affiliates</a> |
-            <span class="text">© 2008 SmugMug, Inc.</span>
+            <span class="text">© 2009 SmugMug, Inc.</span>
         </div>
     </div>
     <script type="text/javascript">
@@ -292,6 +280,9 @@ Mountain View, CA  94040</p>
         })();
     </script>
         <!-- End Footer -->
+
+
+
     
 
 </body></html>
