@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshot.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053353id_/http%3A//www.gameshot.org/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshot.org privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604210118id_/http%3A//www.gameshot.org/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
