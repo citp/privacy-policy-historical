@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218030441id_/http%3A//www.cashu.com/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605005437id_/http%3A//www.cashu.com/site/privacyPolicy) for the most accurate reproduction.*
 
 # cashU Privacy Policy
 
@@ -14,11 +14,11 @@ We only use your personal information to service your account and to improve our
 
  **Control of Personal Information**
 
-If a user's personally identifiable information changes (such as your phone, email or postal address), or if a user no longer desires our service, we provide a way to correct and update that user's personally identifiable information, as provided to us. This can be done via our website, or as a last resort by e-mailing us on info@cashU.com. In order to deactivate your account you will need to contact our support team via the website or via info@cashU.com. However, please understand we cannot completely delete user information because of legal/regulatory and technical back up requirements
+If a user's personally identifiable information changes (such as your phone, email or postal address), or if a user no longer desires our service, we provide a way to correct and update that user's personally identifiable information, as provided to us. This can be done via our website, or as a last resort by contacting our Customer Support Team. In order to deactivate your account you will need to contact our Customer Support Team via the website. However, please understand we cannot completely delete user information because of legal/regulatory and technical back up requirements
 
  **Communication**
 
-Upon registration every user will receive an email confirming his successful registration. Established members will occasionally receive information on products, services and special deals via newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications and this choice can be made at the time of registration. Should the user wish to change their choice after registration they can e-mail info@cashU.com.
+Upon registration every user will receive an email confirming his successful registration. Established members will occasionally receive information on products, services and special deals via newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications and this choice can be made at the time of registration. Should the user wish to change their choice after registration they can contact cashU Customer Support.
 
  **Links**
 
@@ -42,6 +42,6 @@ cashU secures your account information from unauthorised access, use or disclosu
 
  **Notification of Changes**
 
-Changes to this privacy statement are posted here so you know what use is made of your information. If we are going to use your Personal Information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice whether or not to allow us to use your information in this new manner. However, if your account has been suspended or closed your account, then you will not be contacted, nor will your information be used in this new manner. If you have questions or concerns about cashU's collection, use, or disclosure of your personal information, please email info@cashU.com. 
+Changes to this privacy statement are posted here so you know what use is made of your information. If we are going to use your Personal Information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice whether or not to allow us to use your information in this new manner. However, if your account has been suspended or closed your account, then you will not be contacted, nor will your information be used in this new manner. If you have questions or concerns about cashU's collection, use, or disclosure of your personal information, please contact our Customer Support. 
 
 Version 1.0 21/11-2005 
