@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220190455id_/http%3A//www.broadridge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604210525id_/http%3A//www.broadridge.com/privacy.asp) for the most accurate reproduction.*
 
 # Broadridge
+
+Broadridge collects Social Security numbers in the ordinary course of its business. Broadridge has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers from unlawful use and unauthorized disclosure. All Broadridge workers are required to follow these established procedures.   
+In particular:
+
+  * Access to Social Security numbers is limited to those workers and service providers who have a need to access the information to perform tasks for Broadridge. 
+  * Social Security numbers are only disclosed to third parties in accordance with Broadridge’s established policies. Broadridge will only disclose Social Security numbers to those service providers, auditors, advisors, and/or successors in interest who are legally or contractually obligated to protect them or as required or permitted by law. 
+
+
+
+If you have any questions, please contact us at: [info@broadridge.com](mailto:info@broadridge.com).
 
 Broadridge believes that privacy is important to the success and use of the Internet. This statement describes the practices that Broadridge will follow with respect to the personal information it collects from users of www.broadridge.com and the other Broadridge websites or hosted websites that link to this Privacy Statement. 
 
