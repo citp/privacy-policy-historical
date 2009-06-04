@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007141659id_/http%3A//www.classworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604191703id_/http%3A//www.classworks.com/privacy.php) for the most accurate reproduction.*
 
 # Curriculum Advantage, Inc - Producer of educational curriculum and management tools
 
@@ -17,13 +17,17 @@ We only collect personal information that is relevant to the purpose of our webs
 Information You Provide to Us:  
 We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-  * Registration
-    * In order for you to use Curriculum Advantage, Inc. services, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
-  * Automatic Information
-    * We receive and store certain types of information whenever you interact with us. Curriculum Advantage, Inc. and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Curriculum Advantage, Inc. cookie information, and the page you requested. Curriculum Advantage, Inc. uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
-    * Curriculum Advantage, Inc. may collect and, on any page, display the total counts that page has been viewed.
-    * Many companies offer programs that help you to visit websites anonymously. While Curriculum Advantage, Inc. will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
+Registration
 
+  * In order for you to use Curriculum Advantage, Inc. services, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
+
+Automatic Information
+
+  * We receive and store certain types of information whenever you interact with us. Curriculum Advantage, Inc. and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Curriculum Advantage, Inc. cookie information, and the page you requested. Curriculum Advantage, Inc. uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * Curriculum Advantage, Inc. may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit websites anonymously. While Curriculum Advantage, Inc. will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
+
+  
 **E-mail Communications**
 
 Curriculum Advantage, Inc. is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Curriculum Advantage, Inc. may send out e-mails with Curriculum Advantage, Inc.-related news, products, offers, surveys or promotions. You may also receive notification e-mails from Curriculum Advantage, Inc., which inform you of actions that have been performed on the site. If you do not want to receive e-mail from us, please send an email to [remove@curriculumadvantage.com](mailto:remove@curriculumadvantage.com). However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
@@ -44,6 +48,7 @@ Rest assured that we neither rent nor sell your personal information to anyone a
   * Syndication: Curriculum Advantage, Inc. allows for the RSS syndication of all of its public content within the Curriculum Advantage, Inc. website. 
   * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
 
+  
 **Keeping Information Secure**
 
 Your Curriculum Advantage, Inc. account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
@@ -57,6 +62,7 @@ Ways to Control Display and Use of Your Information
   * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our features. 
 
+  
 **Changes to this Privacy Policy**
 
 Curriculum Advantage, Inc. may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Curriculum Advantage, Inc. website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
