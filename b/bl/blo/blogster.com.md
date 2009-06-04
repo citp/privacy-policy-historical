@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the blogster.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019000741id_/http%3A//www.blogster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogster.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604080252id_/http%3A//www.blogster.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## PRIVACY NOTICE
-
-## INFORMATION GATHERED
-
-## NOMENCLATURE DATA
-
-## SECURITY
-
-## SHARING OF INFORMATION
-
-## PRIVACY OF CHILDREN
-
-## LINKS
-
-## DISPUTE RESOLUTION
-
-## MODIFICATION OF PRIVACY POLICY
-
-## CUSTOMER RELATIONS
+# Blogster - Blogster
 
 ## PRIVACY NOTICE
 
@@ -32,33 +12,26 @@ If BLOGSTER.COM believes it has a legitimate business reason for sharing identif
 
 The information BLOGSTER.COM learns from customers helps to personalize and continually improve the customer's experience at BLOGSTER.COM. BLOGSTER.COM may gather the following types of information (if provided by a user):
 
-Surname and forename
+  * Surname and forename
+  * Preferred language
+  * Delivery address and billing address
+  * E-mail address
+  * Website addresses/URL's
+  * Telephone numbers
+  * Facsimile numbers
+  * Social security or other national ID numbers
+  * Items purchased
+  * Bank card information including card type, number, expiry date, security code, card holder's surname and forename, and billing address.
 
-Preferred language
 
-Delivery address and billing address
-
-E-mail address
-
-Website addresses/URL's
-
-Telephone numbers
-
-Facsimile numbers
-
-Social security or other national ID numbers
-
-Items purchased
-
-Bank card information including card type, number, expiry date, security code, card holder's surname and forename, and billing address.
 
 BLOGSTER.COM uses the information that the customer provides for purposes such as responding to the customer's requests, customizing future shopping for him or her, and communicating with him or her.
 
-In addition, BLOGSTER.COM may also use standard software to collect non-identifying information about customers and other visitors to the site, such as:
+In addition, BLOGSTER.COM may also use standard software to collect non-identifying information about customers and other visitors to the site, such as: 
 
-  * Date and time the site was accessed;
-  * IP address (a numeric address given to servers connected to the Internet); and
-  * Web browser used (collectively, "Anonymous Information").
+  * Date and time the site was accessed; 
+  * IP address (a numeric address given to servers connected to the Internet); and 
+  *   * Web browser used (collectively, "Anonymous Information"). 
 
 
 
@@ -110,15 +83,15 @@ BLOGSTER.COM may contain links to other sites on the Internet that are owned and
 
 This Privacy Policy shall be governed by Indiana law, without giving effect to any choice or conflict of law provision or rule.
 
-For deliveries to California addresses, pursuant to California law, BLOGSTER.COM and the customer agree that any and all disputes, claims or controversies arising out of or relating to this Privacy Policy shall be submitted to an arbitrator chosen and paid by BLOGSTER.COM.
+For deliveries to California addresses, pursuant to California law, BLOGSTER.COM and the customer agree that any and all disputes, claims or controversies arising out of or relating to this Privacy Policy shall be submitted to an arbitrator chosen and paid by BLOGSTER.COM. Prior to the arbitration, a period of time shall be allowed for the discovery or exchange of non-privileged information relevant to the dispute. The dispute shall be determined by arbitration in the customer's hometown area, before one arbitrator. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
 
-Prior to the arbitration, a period of time shall be allowed for the discovery or exchange of non-privileged information relevant to the dispute. The dispute shall be determined by arbitration in the customer's hometown area, before one arbitrator. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+For all other disputes between BLOGSTER.COM, it[s] owners and/or employees and you as user of the site, and/or services offered within, and/or provided within this site arising out of use of this site or services offered within this site regardless of the manner of resolution, shall be arbitrated, litigated (tried in a court of law), or otherwise resolved by a tribunal located in Marion County, Indiana.
 
 ## MODIFICATION OF PRIVACY POLICY
 
 BLOGSTER.COM reserves the exclusive right, at its discretion, to update, change, modify, add, or remove portions of BLOGSTER.COM and this Privacy Policy. The effective date of the latest version of the Privacy Policy, as stated below, indicates the last time the policy was materially modified. Checking the effective date below allows the customer to determine whether there have been material modifications since the last time he or she reviewed the policy.
 
-The Privacy Policy was last materially modified on __________________ 2007.
+The Privacy Policy was last materially modified on November 12, 2008.
 
 The customer's continued use of BLOGSTER.COM following any change in the Privacy Policy will constitute his or her acknowledgement and acceptance of such change. If he or she does not agree to any change, he or she must immediately stop using and accessing BLOGSTER.COM.
 
