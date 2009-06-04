@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ascensus.com privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927044655id_/http%3A//www.ascensus.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascensus.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604210248id_/http%3A//www.ascensus.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ascensus
 
-[ ](http://www.ascensus.com/news/news.aspx?ID=105)
+[ ](http://www.ascensus.com/images/Ff09datesflash4.swf)
 
 | 
 
-[Home](https://web.archive.org/web/20080927044655id_/http%3A//www.ascensus.com/default.aspx) >> Privacy Policy
+[Home](https://web.archive.org/web/20090604210248id_/http%3A//www.ascensus.com/default.aspx) >> Privacy Policy
 
-[Click Here](https://web.archive.org/web/20080927044655id_/http%3A//www.ascensus.com/nonPublicInfo.aspx) for AscensusSM Policy Concerning NonPublic Personal Consumer Information. 
+[Click Here](https://web.archive.org/web/20090604210248id_/http%3A//www.ascensus.com/nonPublicInfo.aspx) for AscensusSM Policy Concerning NonPublic Personal Consumer Information. 
 
 Ascensus is committed to the privacy interests of users of this website. This privacy statement summarizes the privacy practices and procedures Ascensus has adopted. Ascensus is the sole owner of the information collected on this website. 
 
@@ -45,4 +45,4 @@ P.O. Box 979
 Brainerd, MN 56401  
 Last modified: June 16, 2008 
 
-AscensusSM and the AscensusSM Logo are trademarks and are used under license by Ascensus, Inc.
+AscensusSM and the AscensusSM logo are service marks and are used under license by Ascensus, Inc.
