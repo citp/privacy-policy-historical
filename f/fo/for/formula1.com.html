@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2008-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081225061821id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2009-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605224233id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_Head1"><title>
 	The Official Formula 1 Website
@@ -13,18 +13,14 @@
 <link href="/css/videobox.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 
+<link href="/assets/fragment/css/dynamic.css" rel="stylesheet" type="text/css" media="screen">
+
 <!--[if lt IE 7]>
     <link href="/css/ie6.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
 <!--[if IE]>
     <link href="/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
-
-<script type="text/javascript">
-if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
-      document.write('<link href="/css/mac.css" rel="stylesheet" type="text/css" media="screen" />');
-}     
-</script>
 <script type="text/javascript" src="/js/swfobject2.js"></script>
 
 <script type="text/javascript" src="/js/mootools.js"></script>
@@ -40,13 +36,6 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 
 <script type="text/javascript" src="/js/time.js"></script>
 <script type="text/javascript" src="/js/webservice.js"></script>
-
-
-<style type="text/css">
-    #wrapperHeading {
-        background: url('/img/heading/head_generic.gif') no-repeat 50% 0;
-    }
-</style>
 
 <noscript>
 <style type="text/css">
@@ -65,16 +54,27 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
   
     <div id="wrapperHeading">
         <div id="wrapperContent"><a name="top"></a>
-            <h1><a href="/"><img id="blackImage" src="/img/heading/logo_f1.gif" alt="Home - The Official Formula 1 Website"><img id="whiteImage" src="/img/heading/logo_f1_wte.gif" alt="Home - The Official Formula 1 Website" style="display: none;"></a> <a id="skipNav" href="#content">Skip to content</a></h1>
-            
+            <div id="f1logo">
+                <div id="f1logoTarget">
+            	    <script type="text/javascript">
+		                window.addEvent('domready', function(){
+		                    var flashvars = false;
+	                        var attributes = false;
+	                        var params = { allowScriptAccess: "sameDomain", wmode: "transparent" };
+	                        swfobject.embedSWF("/flash/homepage/site_logo/fLogo.swf", "f1logoTarget", "980", "128", "9.0.0", "/js/expressInstall.swf", flashvars, params, attributes);
+		                });
+                    </script>
+                </div>
+            </div>
+
             <div id="nav">
                 
 		<ul id="primaryNav">
 	
 		
 		
-			<li><a href="/news/">NEWS</a>
-			<ul class="navNEWS navNEWS_en">
+			<li class="navNEWS navNEWS_en"><a href="/news/">NEWS</a>
+			<ul>
 		
 		
 				<li>
@@ -107,8 +107,8 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/races/">RACES</a>
-			<ul class="navRACES navRACES_en">
+			<li class="navRACES navRACES_en"><a href="/races/">RACES</a>
+			<ul>
 		
 		
 				<li>
@@ -126,8 +126,8 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/results/">RESULTS</a>
-			<ul class="navRESULTS navRESULTS_en">
+			<li class="navRESULTS navRESULTS_en"><a href="/results/">RESULTS</a>
+			<ul>
 		
 		
 				<li>
@@ -150,8 +150,8 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/gallery/">GALLERY</a>
-			<ul class="navGALLERY navGALLERY_en">
+			<li class="navGALLERY navGALLERY_en"><a href="/gallery/">GALLERY</a>
+			<ul>
 		
 		
 				<li>
@@ -179,8 +179,8 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/teams_and_drivers/">TEAMS &amp; DRIVERS</a>
-			<ul class="navTEAMS &amp; DRIVERS navTEAMS &amp; DRIVERS_en">
+			<li class="navTEAMSDRIVERS navTEAMSDRIVERS_en"><a href="/teams_and_drivers/">TEAMS &amp; DRIVERS</a>
+			<ul>
 		
 		
 				<li>
@@ -203,8 +203,8 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/inside_f1/">INSIDE F1</a>
-			<ul class="navINSIDE F1 navINSIDE F1_en">
+			<li class="navINSIDEF1 navINSIDEF1_en"><a href="/inside_f1/">INSIDE F1</a>
+			<ul>
 		
 		
 				<li>
@@ -242,33 +242,13 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 	
 		
 		
-			<li><a href="/services/">SERVICES</a>
-			<ul class="navSERVICES navSERVICES_en">
+			<li class="navSERVICES navSERVICES_en"><a href="/services/">SERVICES</a>
+			<ul>
 		
 		
 				<li>
 				
 				<a href="/services/live_timing/">LIVE TIMING</a>
-				</li>
-			
-				<li>
-				
-				<a href="/services/play_video.html">VIDEO</a>
-				</li>
-			
-				<li>
-				
-				<a href="/services/tickets_and_travel.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Tickets'); }">TICKETS &amp; TRAVEL</a>
-				</li>
-			
-				<li>
-				
-				<a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/F1Store'); }">F1 STORE</a>
-				</li>
-			
-				<li>
-				
-				<a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Mobile'); }">MOBILE</a>
 				</li>
 			
 				<li>
@@ -289,11 +269,57 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 			</ul>
 		</li>
 	
+		
+		
+			<li class="navVIDEO navVIDEO_en"><a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/Video'); }">VIDEO</a>
+			<ul>
+		
+		
+				<li>
+				
+				<a href="/video/race_edits.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">RACE EDITS</a>
+				</li>
+			
+				<li>
+				
+				<a href="/video/onboard.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">ONBOARD</a>
+				</li>
+			
+			</ul>
+		</li>
+	
+		
+		
+			<li class="navTICKETSTRAVEL navTICKETSTRAVEL_en"><a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/Tickets'); }">TICKETS &amp; TRAVEL</a>
+			<ul>
+		
+		
+			</ul>
+		</li>
+	
+		
+		
+			<li class="navF1STORE navF1STORE_en"><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/F1Store'); }">F1 STORE</a>
+			<ul>
+		
+		
+			</ul>
+		</li>
+	
+		
+		
+			<li class="navMOBILE navMOBILE_en"><a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/Mobile'); }">MOBILE</a>
+			<ul>
+		
+		
+			</ul>
+		</li>
+	
 		</ul>
 	           
             </div>
 
-            <div id="content" class="removeRightPadding">
+            <div id="content">
                 
                 
 
@@ -335,7 +361,7 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 <p><b>Correcting and Updating Personal Information</b><br>If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to <a href="mailto:admin@formula1.com">admin@formula1.com</a></p>
 <p><b>Site and Service Updates</b><br>We may send you Site and service announcements or updates. You cannot unsubscribe from service announcements, as they will contain important information about the services provided on the Site.</p>
 <p><b>Notification of Changes</b><br>We may occasionally modify our Privacy Policy, and when this happens, we will notify you via our homepage.</p>
-<p><b>Privacy Support</b><br>If you have any enquiry or concern about our privacy policy, please email us at <a href="mailto:admin@formula1.com">admin@formula1.com</a></p><a name="misc"></a>
+<p><b>Privacy Support</b><br>If you have any enquiry or concern about our privacy policy, please email us at <a href="mailto:admin@formula1.com">admin@formula1.com</a></p><a name="misc"></a><p></p>
         </div>
     </div>
 
@@ -353,7 +379,7 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
     
 
 <div class="subModule">
-    <a href="/services/play_video.html" onclick="if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }" title="Play Video"><img src="/flash/video/vidButton.jpg" alt="Play video"></a>
+    <a class="rhsPromoButton" title="Play Video" onclick="if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }" href="/video/race_edits.html"></a>
 </div>
     
     
@@ -370,13 +396,13 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
         <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=OMT8MJ3C" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/F1Store'); }" target="_blank">F1 STORE</a>
     </div>    
     <div class="button button_tnt">
-        <a href="/services/tickets_and_travel.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets'); }">TICKETS &amp; TRAVEL</a>
+        <a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets'); }">TICKETS &amp; TRAVEL</a>
     </div>
     <div class="button button_mobile">
         <a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }" target="_blank">MOBILE SERVICES</a>
     </div>
     <div class="button button_video last">
-        <a href="/services/play_video.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">VIDEO</a>
+        <a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">VIDEO</a>
     </div>
 
 </div>
@@ -403,7 +429,7 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 		</ul>
 		<img id="footerLogo" src="/img/footer_logo.png" alt="Formula 1">
 	</div>
-	<p>© 1999-2008 Formula One Administration Ltd</p>
+	<p>© 1999-2009 Formula One Administration Ltd</p>
 </div>
 
 
@@ -420,9 +446,11 @@ if ( navigator.platform.toLowerCase().indexOf("mac")>=0 ) {
 <!-- Google Analytics -->
 
 
-<!--[if lt IE 7]>
-	<script defer type="text/javascript" src="/js/pngfix.js"></script>
-<![endif]-->
+
+    <!--[if lt IE 7]>
+	    <script defer type="text/javascript" src="/js/pngfix.js"></script>
+    <![endif]-->
+
 
             </div><!-- END content -->
         </div><!-- END wrapperContent -->
