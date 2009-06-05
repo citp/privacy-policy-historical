@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045157id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605192627id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Thirteen/WNET » Privacy Policy
+# Privacy Policy « THIRTEEN
 
 **Thank You**  
 for visiting Thirteen.org. As an extension of our broadcast mission we want your visit to Thirteen.org to enlighten, inform and entertain you. Thirteen/WNET New York is strongly committed to protecting the privacy of its online guests, Members, donors, and friends. We believe that maintaining the highest standards of privacy on the Web is crucial to maintaining your trust in Thirteen. For this reason, we want to inform our visitors about the types of information we collect and how we use that information.
