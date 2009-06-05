@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224022244id_/http%3A//www.tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605231418id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
 
 # Tazinga!
 
-This PRIVACY POLICY (this "Policy") relates to the use of Adverplex's website, TAZINGA�.COM, (the "Site") and is applicable to all information collected about you through the Site.
+This PRIVACY POLICY (this "Policy") relates to the use of Adverplex's website, TAZINGA™.COM, (the "Site") and is applicable to all information collected about you through the Site.
 
 Adverplex, Inc. ("Adverplex", "we", "us" or "our") discloses the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that we collect from you on this Site and the other people who may also visit the Site (the "Users") and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy.
 
-Please read this Policy carefully before providing us with any information. If you have questions about this Policy, e-mail us at info@tazinga.com.
+Please read this Policy carefully before providing us with any information. If you have questions about this Policy, e-mail us at [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d).
 
 ## How We Handle Information
 
@@ -71,7 +71,7 @@ If you have questions specifically about this Policy, or to issues pertaining to
 
 ## Contact Information
 
-E-mail: info@tazinga.com
+E-mail: [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d)
 
 Effective Date: 12/01/08
 
