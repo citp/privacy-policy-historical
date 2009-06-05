@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221045241id_/http%3A//www.movieweb.com/features/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605175934id_/http%3A//www.movieweb.com/features/privacy.php) for the most accurate reproduction.*
 
 # MovieWeb.com Privacy Policy
 
@@ -100,5 +100,3 @@ MovieWeb.com privacy practices may change periodically. MovieWeb.com will notify
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:   
 MovieWeb  
 Email: [webmaster@movieweb.com](mailto:webmaster@movieweb.com)
-
-| 
