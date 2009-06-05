@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2009-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605041345id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-				<!-- Start Ads JS -->
-				<!-- pre jsAd html -->
+                <!-- Start Ads JS -->
+                <!-- pre jsAd html -->
 <script language="JavaScript">
 <!--
   function getProto(){
@@ -119,9 +119,9 @@
   // -->
 </script>
 
- 
+
                 <!-- End Ads JS -->
-			
+            
 
 <!--[if IE]>
 <style type="text/css" media="screen">
@@ -133,9 +133,9 @@
 body {
 behavior: url(/scripts/csshover2.htc);
 font-size: 100%;
-} 
+}
 #menu ul li {float: left; width: 100%;}
-#menu ul li a {height: 1%;} 
+#menu ul li a {height: 1%;}
 
 </style>
 <![endif]-->
@@ -161,6 +161,11 @@ urchinTracker();
 </script>
 
 
+
+
+
+
+
 <script src="/__utm.js" type="text/javascript"></script>
 <script language="JavaScript1.1" src="/js/Layout.js" type="text/javascript"></script>
 
@@ -170,7 +175,46 @@ urchinTracker();
 				@import url(http://www.akc.org/layouts/Standard/styles/elements.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/applications.css);
 				@import url(http://www.akc.org/layouts/Standard/styles/leftnav.css);
-				</style><style type="text/css" media="print"> @import url(http://www.akc.org/layouts/Standard/styles/print_style.css); </style></head>
+				</style><style type="text/css" media="print"> @import url(http://www.akc.org/layouts/Standard/styles/print_style.css); </style>
+			
+				<!-- JQuery package version management - for use with JQueryManager -->
+				<script type="text/javascript" src="/libraries/jquery/versions.js">
+				</script>
+			
+		
+			
+				<!-- JQuery core imported with JQueryManager -->
+				<script type="text/javascript" src="/libraries/jquery/1.3.2/jquery-1.3.2.js">
+				</script>
+				<script type="text/javascript">
+					Versions.debug = true;
+					Versions.add('jquery', 'default latest 1.3.2', jQuery.noConflict(true));
+				</script>				
+			
+		
+			
+				<script type="text/javascript">
+					$ = jQuery = Versions.use('jquery', '1.3.2');
+				</script>				
+			
+		
+	<script type="text/javascript">
+		Versions.use('jquery', 'default')(function($) {
+			var jQuery = $
+			jQuery.fn.fadeToggle = function(speed, easing, callback) {
+			   return this.animate({opacity: 'toggle'}, speed, easing, callback);
+			};
+			$(document).ready(function(){
+				// Slide open/close ul elements with the class of sidebar_list when clcik the h2 element
+				$("h2").click(function () {
+					$(this).next("ul").fadeToggle(500);
+				});
+			});
+
+		});
+	</script>
+	<link rel="stylesheet" href="/sidebar/sidebar.css">
+</head>
 
 
 <body>
@@ -179,8 +223,8 @@ urchinTracker();
 
 <div id="ad_display" style="background: url(&quot;/layouts/Standard/images/top_bkg.gif&quot;);">
 <table class="move_over_ad" width="758" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="center"> 
+    <tbody><tr>
+        <td align="center"> 
 <div id="TopLeft_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;margin: 5px;">
 <script language="JavaScript">
 <!--
@@ -189,7 +233,7 @@ jsAd( "TopLeft")
 </script>
 </div>
 </td>
-	</tr>
+    </tr>
 </tbody></table>
 </div>
 
@@ -202,67 +246,80 @@ jsAd( "TopLeft")
 
 
 <style type="text/css" media="screen">
-
-#toplevel_nav{
-z-index: 1;
+#header_wrapper {
+width:758px;
+height:118px;
+position:relative;
+margin:0;
+padding:0;
+}
+#header_graphic {
+width:758px;
+height:90px; 
+margin:0;
+padding:0;
+position:absolute;
+top:0;
+left:0;
+}
+#main_navbar_wrapper{
 width: 758px;
 height:28px;
-background-image:url(/layouts/Standard/images/new/main_nav_bkg.gif);
-background-repeat:repeat-x;
+margin:0;
+padding:0;
+background:#D8DEE9 url(/layouts/Standard/images/new/main_nav_bkg.gif) repeat-x top left;
+position:absolute;
+top:90px;
+left:0;
 }
-
-#toplevel_nav td{
-vertical-align:middle;
+#main_navbar{
+list-style:none;
+margin:0;
+padding:0 0 0 .2em;
+width: 758px;
+height:28px;
 }
-
-#toplevel_nav a{
-padding: 6px 8px;
-font-size:14px;
-font-weight:bold;
+#main_navbar li{
+float:left;
 color: #000000;
-text-decoration:none;
-margin-top:5px;
+display:block;
+margin:0.5em 0 0 0;
+padding:0;
 }
-
-#toplevel_nav a:hover{
-color: #7320bd;
-font-size:14px;
+#main_navbar a:link, #main_navbar a:visited{
+margin:0;
+color: #000000;
+font-size:1.2em;
 font-weight:bold;
-}
-
-#toplevel_nav a#current{
-font-size:14px;
-font-weight:bold;
-color: #7320bd;
 text-decoration:none;
+padding:0 .5em;
+}
+#main_navbar a:hover{
+color: #7320bd;
+}
+#main_navbar a#current{
+color: #7320bd;
 }
 
 </style>
-<div class="print_head">
-<img class="print_head" src="/images/print/akc_h_tm_k_www.gif" width="758" height="90" alt=""></div>
-
-<table width="758" border="0" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr><td valign="top">
-<a href="/index.cfm?nav_area=homepage" class="hide_all"><img src="http://images.akc.org/template/header/header.jpg" width="758" height="90" border="0" id="headerGraphic" alt=""></a></td>
-</tr></tbody></table><table id="toplevel_nav" width="758" border="0" cellspacing="0" cellpadding="0" bgcolor="#D8DEE9">
-  <tbody><tr>
-    <td><a title="Breeds" href="/breeds/index.cfm?nav_area=breeds" target="_top">Breeds</a></td>
-    <td>|</td>
-    <td><a title="Events" href="/events/index.cfm?nav_area=events" target="_top">Events</a></td>
-    <td>|</td>
-    <td><a title="Breeders" href="/breeders/index.cfm?nav_area=breeders" target="_top">Breeders</a></td>
-    <td>|</td>
-    <td><a title="Dog Owners" href="/dog_owners/index.cfm?nav_area=dog_owners" target="_top">Dog Owners</a></td>
-    <td>|</td>
-    <td><a title="Future Dog Owners" href="/future_dog_owner/index.cfm?nav_area=future_dog_owners" target="_top">Future Dog Owners</a></td>
-    <td>|</td>
-    <td><a title="Clubs" href="/clubs/index.cfm?nav_area=clubs" target="_top">Clubs</a></td>
-    <td>|</td>
-    <td><a title="Registration" href="/reg/index.cfm?nav_area=registration" target="_top">Registration</a></td>
-    <td>|</td>
-    <td><a title="Kids/Juniors" href="/kids_juniors/index.cfm?nav_area=kids_juniors" target="_top">Kids/Juniors</a></td>
-  </tr>
-</tbody></table>
+<div class="print_head"><img class="print_head" src="/images/print/akc_h_tm_k_www.gif" width="758" height="90" alt=""></div><div id="header_wrapper">
+<div id="header_graphic">
+<a href="/index.cfm?nav_area=homepage" class="hide_all"><img src="http://images.akc.org/template/header/header.jpg" width="758" height="90" border="0" id="headerGraphic" alt="The American Kennel Club"></a>
+</div>
+<div id="main_navbar_wrapper">
+<ul id="main_navbar">
+<li><a title="Breeds" href="/breeds/index.cfm?nav_area=breeds" target="_top">Breeds</a></li><li>|</li><li><a title="Events" href="/events/index.cfm?nav_area=events" target="_top">Events</a></li>
+<li>|</li>
+<li><a title="Breeders" href="/breeders/index.cfm?nav_area=breeders" target="_top">Breeders</a></li><li>|</li><li><a title="Dog Owners" href="/dog_owners/index.cfm?nav_area=dog_owners" target="_top">Dog Owners</a></li>
+<li>|</li>
+<li><a title="Future Dog Owners" href="/future_dog_owner/index.cfm?nav_area=future_dog_owners" target="_top">Future Dog Owners</a></li><li>|</li><li><a title="Clubs" href="/clubs/index.cfm?nav_area=clubs" target="_top">Clubs</a></li>
+<li>|</li>
+<li><a title="Registration" href="/reg/index.cfm?nav_area=registration" target="_top">Registration</a></li>
+<li>|</li>
+<li><a title="Kids/Juniors" href="/kids_juniors/index.cfm?nav_area=kids_juniors" target="_top">Kids/Juniors</a></li>
+</ul>
+</div>
+</div>
 </td></tr>
 
 
@@ -437,218 +494,94 @@ jsAd( "Right")
 
 
 
-<font class="title">AKC Web Site Privacy Statement</font><br><br>
+<h1>AKC Web Site Privacy Statement</h1>
 
+<p>At The American Kennel Club, we are committed to protecting your privacy. We use the information we collect about you on our Web site to process your orders, respond to information requests, provide a more personalized experience while you are browsing or shopping in our Online Store, and create a better experience for our Web site users. Please read on for more details about our Web site privacy policy.</p>
 
-At The American Kennel Club, 
-  we are committed to protecting your privacy. We use the information we collect 
-  about you on our Web site to process your orders, respond to information requests, 
-  provide a more personalized experience while you are browsing or shopping in 
-  our Online Store, and create a better experience for our Web site users. Please 
-  read on for more details about our Web site privacy policy.
-<br><br>
+<p><strong>What information do we collect? How do we use it?</strong></p>
 
- <b>What information do 
-  we collect? How do we use it?</b><br><br>
-  An account is required for you to utilize certain services on our Web site, 
-  such as making purchases in our Online Store, using Your AKC, and donating to 
-  the AKC CAR Canine Support and Relief Fund. When you create an account, we ask 
-  for personally identifiable information, that is, information which tells us 
-  specifically who you are. We need to know your name, mailing address, phone 
-  number, email address, credit card number and expiration date so that we can 
-  process and fulfill your purchase orders and notify you of your order status. 
-  We also ask for other non-personally identifiable information, such as whether 
-  you own an AKC registered dog. We use the information we collect to customize 
-  your experience and provide services and features that most likely meet your 
-  needs so that your use of our Web site is more enjoyable.
-<br><br>
+<p>An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC CAR Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable.</p>
 
-In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you register a dog or litter through our online system. We use this information to process your application. We also may ask you for personally identifiable information when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.
-	  <br><br>
-	  
-	  We will ask you for personally identifiable information when you take out a subscription to our magazines.  AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request.  This third party service provider collects and stores this information in a secure, password-protected database.  Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC. 
-        
-<br><br>
+<p>In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you register a dog or litter through our online system. We use this information to process your application. We also may ask you for personally identifiable information when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.</p>
 
+<p>We will ask you for personally identifiable information when you take out a subscription to our magazines.  AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request.  This third party service provider collects and stores this information in a secure, password-protected database.  Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC.</p>
 
-If you send us email, we 
-  may collect and store such information. We use the information to reply to your 
-  email communication. If you register a litter or dog using our online system, we may ask you for your email address, collect and store this information.  We use this information to process your application.
-AKC rules and procedures do not allow a minor to sign an AKC registration application. If a dog or litter is to be registered in the name of a minor, the procedures outlined by AKC should be followed. You should not supply email addresses for minors. <br>
-<br>
+<p>If you send us email, we may collect and store such information. We use the information to reply to your email communication. If you register a litter or dog using our online system, we may ask you for your email address, collect and store this information.  We use this information to process your application. AKC rules and procedures do not allow a minor to sign an AKC registration application. If a dog or litter is to be registered in the name of a minor, the procedures outlined by AKC should be followed. You should not supply email addresses for minors.</p>
 
-We may also use the information 
-  we collect to occasionally notify you about important functionality changes 
-  to the Web site, new AKC services, and special offers we think you'll find valuable. 
-  If you would rather not receive this information, you may indicate your preference 
-  by <a class="white" href="/account/">updating your AKC account</a>.
-<br>
-<br>
+<p>We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, you may indicate your preference by <a href="/account/">updating your AKC account</a>.</p>
 
-AKC uses a reputable third 
-  party to serve some of the advertisements that you see on the pages of our Web 
-  site. If you would like to know more about the information gathering practices 
-  and "opt-out" procedure of our third party ad server, please <a class="white" href="http://247realmedia.com/privacy.html">click 
-  here</a>.
-<br>
-<br>
+<p>AKC uses a reputable third party to serve some of the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedure of our third party ad server, please <a href="http://247realmedia.com/privacy.html">click here</a>.</p>
 
-<b>How does AKC protect 
-  customer information?</b><br><br>
-  When you place orders or access account information, we use a secure server. 
-  We use secure socket layer (SSL) software to encrypt all information you input 
-  before it is sent to us. Further, all of the customer data we collect and store 
-  is protected against unauthorized access.
-<br><br>
+<p><strong>How does AKC protect customer information?</strong></p>
 
-<b>What about "cookies?"</b><br><br>
-  A "cookie" is a small data file stored by your browser on your computer's 
-  hard drive. Cookies contain a unique identifier which allows us to match your 
-  computer with the information we store for you in our database. Our cookies 
-  do not contain any personally identifying information, but they do enable us 
-  to personalize and enhance your experience with us. Some examples of ways we 
-  use cookies are: to save your account preferences so that you will not have 
-  to re-enter them the next time you visit our Web site; to store account names 
-  and passwords you create; to store items added to your shopping cart; to store 
-  previous inquiries you make on our Web site; to offer personalized services 
-  such as Your AKC. We also use cookies to alert you of new areas that we think 
-  might be of interest to you when you return to our Web site, record past activity 
-  at our Web site, analyze usage of our Web site, target advertisements, or customize 
-  Web page content, layout and services.
-<br><br>
+<p>When you place orders or access account information, we use a secure server. We use secure socket layer (SSL) software to encrypt all information you input before it is sent to us. Further, all of the customer data we collect and store 
+  is protected against unauthorized access.</p>
 
-Most Web browsers automatically 
-  accept cookies, but you can usually change your browser to prevent that. By 
-  accepting cookies from our Web site, you allow us to maintain the preferences 
-  stored in your AKC accounts and to utilize our online information services. 
-  If you choose not to accept cookies from our Web site, personalization and purchasing 
-  of online information are not possible from our Web site. However, if you choose 
-  not to accept cookies, you may be able to use other features of our Web site 
-  which do not involve personalization and making purchases.
-  <br><br>
+<p><strong>What about "cookies?"</strong></p>
+
+<p>A "cookie" is a small data file stored by your browser on your computer's hard drive. Cookies contain a unique identifier which allows us to match your computer with the information we store for you in our database. Our cookies do not contain any personally identifying information, but they do enable us to personalize and enhance your experience with us. Some examples of ways we use cookies are: to save your account preferences so that you will not have to re-enter them the next time you visit our Web site; to store account names and passwords you create; to store items added to your shopping cart; to store previous inquiries you make on our Web site; to offer personalized services such as Your AKC. We also use cookies to alert you of new areas that we think might be of interest to you when you return to our Web site, record past activity at our Web site, analyze usage of our Web site, target advertisements, or customize Web page content, layout and services.</p>
+
+<p>Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. By accepting cookies from our Web site, you allow us to maintain the preferences stored in your AKC accounts and to utilize our online information services. If you choose not to accept cookies from our Web site, personalization and purchasing of online information are not possible from our Web site. However, if you choose not to accept cookies, you may be able to use other features of our Web site which do not involve personalization and making purchases.</p>
+
+<p><strong>Will AKC disclose the information it collects on its Web site to outside parties?</strong></p>
   
-  <b>Will AKC disclose the information it collects on its Web site to outside 
-  parties?</b><br><br>
+<p>We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by <a href="/account/">updating your AKC account</a>.</p>
+
+<p>If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at <a href="mailto:info@akc.org">info@akc.org</a>  or 919-233-9767 to request that your name and address not be released to third parties.</p>
+
+<p>In addition, some of your personally identifiable information is disclosed to third party service providers, vendors or manufacturers when you order certain products or merchandise from our Online Store or subscribe to our magazines. Your personally identifiable information is disclosed so that these third parties can process and fulfill your orders. Therefore, by ordering certain products or merchandise from our Online Store, you are indicating your consent to the release of your personally identifiable information to third parties.</p>
+
+<p>You may indicate your preference that AKC not release to third parties your personally identifiable information collected when you subscribe to our magazines by checking the appropriate box on the subscription invoice form or subscription renewal form that we mail to you.</p>
+
+<p>AKC also will disclose personally identifiable information if legally required to do so through, for example, subpoena, search warrant or other legal process. In this instance, disclosure may take place without your consent.</p>
+
+<p><strong>How can you access, edit or delete your information?</strong></p>
+
+<p>You may access, edit or delete your personally identifiable information by <a href="/account/">updating 
+  your AKC account</a>. For magazine subscribers, you may edit your postal mailing address at the <a href="https://www.kable.com/pub/agzt/coa.asp">Change My Address page</a>.</p>
   
-  We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by <a class="white" href="/account/">updating 
-  your AKC account</a>.
-If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at <a href="mailto:info@akc.org">info@akc.org</a>  or 919-233-9767 to request that your name and address not be released to third parties.<br>
-<br>
+<p><strong>What about privacy policies of Web sites linked to the AKC Web site?</strong></p>
 
-In addition, some of your 
-  personally identifiable information is disclosed to third party service providers, 
-  vendors or manufacturers when you order certain products or merchandise from 
-  our Online Store or subscribe to our magazines. Your personally identifiable 
-  information is disclosed so that these third parties can process and fulfill 
-  your orders. Therefore, by ordering certain products or merchandise from our 
-  Online Store, you are indicating your consent to the release of your personally 
-  identifiable information to third parties.
-<br><br>
-
-You may indicate your preference 
-  that AKC not release to third parties your personally identifiable information 
-  collected when you subscribe to our magazines by checking the appropriate box 
-  on the subscription invoice form or subscription renewal form that we mail to 
-  you.
-<br><br>
-
-AKC also will disclose personally 
-  identifiable information if legally required to do so through, for example, 
-  subpoena, search warrant or other legal process. In this instance, disclosure 
-  may take place without your consent.
-  <br><br>
+<p>Our Web site contains links to other, third party Web sites. Please note that once you access another Web site, you are subject to the privacy policy of that Web site. We do not represent or guarantee that those Web site policies conform 
+  to our own.</p>
   
-  <b>How can you access, edit or delete your information?</b><br><br>
-  You may access, edit or delete your personally identifiable information by <a class="white" href="/account/">updating 
-  your AKC account</a>. For magazine subscribers, you may edit your postal mailing 
-  address at the <a class="white" href="https://www.kable.com/pub/agzt/coa.asp">Change My Address page</a>.
-<br>
-<br>
+<p><strong>Your consent</strong><br>
+By using our Web site, you consent to the collection and use of this information by AKC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
 
+<p><a name="kids"></a><strong>Kids Privacy Policy</strong></p>
 
-  <b>What about privacy policies of Web sites linked to the AKC Web site?</b><br>
-  Our Web site contains links to other, third party Web sites. Please note that 
-  once you access another Web site, you are subject to the privacy policy of that 
-  Web site. We do not represent or guarantee that those Web site policies conform 
-  to our own.
-	  <br><br>
-	  
-	  <b>Your consent</b><br>
-        By using our Web site, you consent to the collection and use of this information 
-        by AKC. If we decide to change our privacy policy, we will post those 
-        changes on this page so that you are always aware of what information 
-        we collect, how we use it, and under what circumstances we disclose it. 
-        <br>
-        <br>
-        <a name="kids"></a><strong>Kids Privacy Policy</strong><br><br>
+<p>The AKC Web site is a general audience Web site. This policy applies only to information collected at AKC's Web site and not to information collected by the AKC through other means. The only instances in which the AKC knowingly collects information from children under thirteen are email to "Dear Bailey" and a request to receive the AKC Junior e-newsletter.</p>
+
+<p><strong>Junior e-newsletter</strong></p>
+
+<p>The AKC collects email addresses from children under thirteen in order to send them a Junior e-newsletter. In order to send the Junior e-newsletter the child's email address will be sent to a third party to process the request and send the newsletter. This third party is restricted by contract from using the email address for any other purpose other than sending the e-newsletter. Prior to sending the Junior e-newsletter to a child under thirteen, the AKC will contact the parent or legal guardian at the email address given to the AKC by the person requesting to receive the Junior e-newsletter. Parents or legal guardians may request to review the information that has been collected, find out how the information collected has been used, and, if you choose, prohibit us from making further use of your child's information and that your child's information be deleted. Additionally, if you request the deletion of the collected information it will also be deleted by the third party.</p>
+
+<p><strong>Dear Bailey</strong></p>
+
+<p>"Dear Bailey" email connects your child with the American Kennel Club. If your child sends us an email with a question or comment or enters one of our contests, the American Kennel Club will respond using his or her email address. The AKC will not store that email for future communications and will not share it with any third parties. The American Kennel Club reserves the right to post an email submitted by a child on our Kids' Corner newsletter site. We will identify your child by first name, age and state only. If your child submits artwork, stories, comments or anything else to us which is posted at our site, he or she will be identified by first name, age and state.</p>
+
+<p>You and your child's use of this site are conditioned on your having accepted these terms. You should check back at this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modification hereto.</p>
+
+<p>In order to review the information collected and to request deletion, a parent or child may email <a href="mailto:master@akc.org">master@akc.org</a> write privacy policy in the message space or contact us at the address or phone number listed below.</p>
+
+<p>Mailing Address:</p>
+
+<p>Robert Burns<br>
+Privacy Policy<br>
+American Kennel Club<br>
+8051 Arco Corporate Drive, Suite 100<br>
+Raleigh, NC 27617-3390</p>
+
+<p>Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern Time<br>
+Phone number: 919-233-9767</p>
+
+<p><strong>Tell us what you think</strong><br>
+AKC welcomes your questions and comments about privacy and our Web site. Please send email to <a href="mailto:info@akc.org">info@akc.org</a>.</p>
         
-        The AKC Web site is a general audience Web site. This policy applies only 
-        to information collected at AKC's Web site and not to information collected 
-        by the AKC through other means. The only instances in which the AKC knowingly 
-        collects information from children under thirteen are email to "Dear 
-        Bailey" and a request to receive the AKC Junior e-newsletter.<br>
-        <br>
-        <strong>Junior e-newsletter</strong><br><br>
         
-        The AKC collects email addresses from children under thirteen in order 
-        to send them a Junior e-newsletter. In order to send the Junior e-newsletter 
-        the child's email address will be sent to a third party to process the 
-        request and send the newsletter. This third party is restricted by contract 
-        from using the email address for any other purpose other than sending 
-        the e-newsletter. Prior to sending the Junior e-newsletter to a child 
-        under thirteen, the AKC will contact the parent or legal guardian at the 
-        email address given to the AKC by the person requesting to receive the 
-        Junior e-newsletter. Parents or legal guardians may request to review 
-        the information that has been collected, find out how the information 
-        collected has been used, and, if you choose, prohibit us from making further 
-        use of your child's information and that your child's information be deleted. 
-        Additionally, if you request the deletion of the collected information 
-        it will also be deleted by the third party. <br>
-        <br>
-		
-        <strong>Dear Bailey</strong> <br><br>
+      
         
-        "Dear Bailey" email connects your child with the American Kennel Club. 
-        If your child sends us an email with a question or comment or enters 
-        one of our contests, the American Kennel Club will respond using his or 
-        her email address. The AKC will not store that email for future communications 
-        and will not share it with any third parties. The American Kennel Club 
-        reserves the right to post an email submitted by a child on our Kids' 
-        Corner newsletter site. We will identify your child by first name, age 
-        and state only. If your child submits artwork, stories, comments or anything 
-        else to us which is posted at our site, he or she will be identified by 
-        first name, age and state. <br>
-        <br>
-		
-        You and your child's use of this site are conditioned on your having accepted 
-        these terms. You should check back at this policy frequently, since it 
-        is subject to change from time to time, and your continued use of the 
-        site is conditioned upon your acceptance of any modification hereto.<br>
-        <br>
-		
-        In order to review the information collected and to request deletion, 
-        a parent or child may email <a class="white" href="mailto:master@akc.org">master@akc.org</a> 
-        write privacy policy in the message space or contact us at the address 
-        or phone number listed below.<br>
-        <br>
-		
-        Mailing Address: <br>
-        <br>
-		
-        Robert Burns <br>
-        Privacy Policy<br>
-        American Kennel Club <br>
-        8051 Arco Corporate Drive, Suite 100<br>
-        Raleigh, NC 27617-3390<br>
-        <br>
-		
-        Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern 
-        Time <br>
-        Phone number: 919-233-9767 <br>
-        <br>
-        <b>Tell us what you think</b><br>
-        AKC welcomes your questions and comments about privacy and our Web site. 
-        Please send email to <a class="white" href="mailto:info@akc.org">info@akc.org</a>.
+        
 
 </div></td>
         </tr>
@@ -670,58 +603,174 @@ jsAd( "Bottom")
 	 </td>
   </tr>
 </tbody></table>
+<style type="text/css">
+#footer_wrapper {
+width:758px;
+text-align:center;
+margin:.7em 0 0 .7em;
+padding:0 0 2em 0;
+}
+#footer {
+list-style:none;
+margin:1em 0;
+padding:0 0.6em;
+width:758px;
+float:left;
+}
+#footer li {
+float:left;
+margin:0;
+padding:0 0.3em;
+font-size:0.9em;
+color:#ffcc99;
+}
+#footer li a:link, #footer li a:active, #footer li a:visited {
+font-size:1em;
+color:#ffcc99;
+text-decoration:none;
+font-weight:normal;
+}
+#footer_wrapper span a {
+font-size:0.9em;
+color:#ffcc99;
+text-decoration:none;
+font-weight:normal;
+}
+#footer li a:hover, #footer_wrapper span a:hover {
+text-decoration:underline;
+}
+</style>
 
-<table width="758" height="9" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td width="149">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table> 
-<table width="758" border="0" align="left" id="bottomnavbar">
+<div id="footer_wrapper">
+<ul id="footer">
+	<li><a href="/index.cfm" title="AKC Homepage">AKC Homepage</a></li>
+    <li>|</li>
+	<li><a href="/about/site/about.cfm" title="About this Site">About this Site</a></li>
+    <li>|</li>
+    <li><a href="/about/job_opportunities.cfm" title="Employment">Employment</a></li>
+    <li>|</li>
+	<li><a href="/about/telephone_directory.cfm" title="Contact Us">Contact Us</a></li>
+    <li>|</li>
+	<li><a href="/about/site/advertising.cfm" title="Corporate Advertising">Corporate Advertising</a></li>
+    <li>|</li>
+	<li><a href="/about/site/privacystatement.cfm" title="Privacy Statement">Privacy Statement</a></li>
+    <li>|</li>
+	<li><a href="/about/site/terms_use.cfm" title="Terms of Use">Terms of Use</a></li>
+    <li>|</li>
+	<li><a href="/about/california_privacy.cfm" title="Your CA Privacy Rights">Your CA Privacy Rights</a></li>
+</ul>
 
+	<span><a href="/about/site/copy.cfm" title="AKC Copyright and Trademark Statement">© 2009 American Kennel Club® (AKC Copyright and Trademark Statement)</a></span>
 
-<tbody><tr height="5">
-<td height="5">
-</td>
-</tr>
-<tr align="center" id="bottomnavbar">
-<td align="center" id="bottomnavbar">
-	
-		<a href="http://www.akc.org/index.cfm" class="footer" title="AKC Homepage">AKC Homepage</a>&nbsp;|&nbsp;
-	    <a href="http://www.akc.org/about/site/about.cfm" class="footer" title="About this Site">About this Site</a>&nbsp;|&nbsp;
-        <a href="http://www.akc.org/about/job_opportunities.cfm" class="footer" title="Employment">Employment</a>&nbsp;|&nbsp;
-	    <a href="http://www.akc.org/about/telephone_directory.cfm" class="footer" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
-	    <a href="http://www.akc.org/about/site/advertising.cfm" class="footer" title="Corporate Advertising">Corporate Advertising</a>&nbsp;|&nbsp;
-	    <a href="http://www.akc.org/about/site/privacystatement.cfm" class="footer" title="Privacy Statement">Privacy Statement</a>&nbsp;|&nbsp;
-		<a href="http://www.akc.org/about/site/terms_use.cfm" class="footer" title="Terms of Use">Terms of Use</a>&nbsp;|&nbsp;
-		<a href="http://www.akc.org/about/california_privacy.cfm" class="footer" title="Your CA Privacy Rights">Your CA Privacy Rights</a>
-	
-    </td>
-</tr>
-<tr align="center" id="footnote">
-<td align="center" id="footnote">
-
-<div align="center"></div><a href="http://www.akc.org/about/site/copy.cfm" class="footer" title="AKC Copyright and Trademark Statement">© 2008 American Kennel Club® (AKC Copyright and Trademark Statement)</a>
-
-</td>
-</tr>
-</tbody></table>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
 
 
 
-<div id="sidebar_main" style="margin-top: 95px;">  
+<div id="breed_images_box" style="margin-top: 95px;"> <div id="breedheaderimage"> <a href="/breeds/spinone_italiano/index.cfm"><img src="/images/rotating/spinone_italiano2.png" width="227" height="90" border="0"></a> 
+</div>
 
 
-<table border="0" cellpadding="0" cellspacing="0" id="sidebar_table">
-	<tbody><tr>
-            <td>
-              <script language="JavaScript">
+ 
+
+
+
+
+
+
+
+</div>
+<div id="second_nav_box" style="margin-top: 95px;"><style type="text/css">
+#second_nav_box {
+position:absolute;
+left:205px;
+top:20px;
+width: 600px;
+z-index:300;
+display:block;	
+}
+/*#dogcom {
+position:absolute;
+left:127px;
+top:16px;
+width: 100px;
+z-index:300;
+display:block;
+color:#FFFFFF;
+font-size:10px;	
+}*/
+#second_nav  {
+list-style:none;
+margin:0;
+padding:0;
+width:400px;
+float:left;
+}
+#second_nav li {
+margin:0;
+padding:0 ;
+float:left;
+display:block;
+color:#FFF;
+}
+#second_nav li a:link, #second_nav li a:active, #second_nav li a:visited  {
+font-size:0.9em;
+color: #FFFFFF;
+background:none;
+text-decoration:none;
+font-weight:normal;
+padding:0 0.4em;
+}
+#second_nav li a:hover {
+text-decoration:underline;
+}
+#second_nav li a#current {
+color: #9dc5fb;
+}
+</style>
+
+<ul id="second_nav">
+
+    <li><a id="current" title="Home" href="/index.cfm?nav_area=homepage">Home</a></li>
+    <li>|</li>
+    <li><a title="Press Center" href="/press_center/index.cfm?nav_area=press_center">Press</a></li>
+    <li>|</li>
+    <li><a title="AKC Reports and Information" href="/shop/index.cfm?nav_area=online_store">Store</a></li>
+    <li>|</li>
+    <li><a title="AKC Store by Dog.com" href="http://www.dog.com/akcstore.aspx?srccode=AKCSTORE" target="_blank">Dog.com</a></li>
+   <li>|</li>
+    <li><a title="Customer Service" href="/contact/answer_center/index.cfm?nav_area=contact_akc">Customer Service</a></li>
+    <li>|</li>
+    <li><a title="About AKC" href="/about/index.cfm?nav_area=about_akc">About</a></li>
+    <li>|</li>
+    <li><a title="Online Services" href="/online_services/index.cfm?nav_area=online_services">Online Services</a></li>
+  </ul>
+
+
+</div>
+<div id="slogan_box" style="margin-top: 95px;"><div id="slogan_text"><img src="http://images.akc.org/template/header/tagline.gif"></div></div>
+<div id="site_search" style="margin-top: 95px;"> 
+
+
+ <!-- Google CSE Search Box Begins -->
+<form method="post" action="/sitesearch/index.cfm" id="searchbox_000165061515928511887:cg0wps9qldu">
+<input type="hidden" name="cx" value="000165061515928511887:cg0wps9qldu">
+  <input type="hidden" name="cof" value="FORID:11">
+  <div class="site_search_text">Search:</div><input type="text" name="q" value="" size="38" style="background: url(&quot;http://images.akc.org/template/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
+  <button onclick="this.form.submit();" style="border:none;background:none;"><img src="/sitesearch/images/search_go.gif" name="submitsearch" id="submitsearch"></button>
+</form>
+
+ <script> 
+(function() { var f = document.getElementById('searchbox_000165061515928511887:cg0wps9qldu'); if (!f) { f = document.getElementById('searchbox_demo'); } if (f && f.q) { var q = f.q; var n = navigator; var l = location; if (n.platform == 'Win32') { q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;'; } var b = function() { if (q.value == '') { q.style.background = '#FFFFFF url(http://images.akc.org/template/google_custom_search_watermark.gif) left no-repeat'; } }; var f = function() { q.style.background = '#ffffff'; }; q.onfocus = f; q.onblur = b; if (!/[&?]q=[^&]/.test(l.search)) { b(); } } })();  
+ </script>
+ <!-- Google CSE Search Box Ends --> </div>
+
+
+
+<div id="sidebar_wrapper" style="margin-top: 95px;">
+<div id="sidebar_content"> 
+
+
+ <script language="JavaScript">
     function openWin( windowURL, windowName, windowFeatures ) { 
 	return window.open( windowURL, windowName, windowFeatures ) ; 
     }
@@ -742,172 +791,121 @@ jsAd( "Bottom")
     
     
     </script>
-  
+<div id="myakc_wrapper">
     
-    
-    <table width="179px" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
 
-           <table border="0" cellspacing="0" cellpadding="0" align="center">
-            <tbody><tr>
-                <td>
-				
-				
-				
- 
-                 
                          <form action="https://www.akc.org/online_accounts/index.cfm?get_template=login" method="POST" name="portal1">
-                         
-                        <table border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr><td id="sidebar_myakc_text"><h1>&nbsp;My AKC</h1></td></tr>
-                            <tr>
-                            <td id="sidebar_myakc_text">
+                           
+                       <h1>My AKC</h1>
+                            
 
-                            &nbsp;&nbsp;Enter Account Name<br>
+                            <label>Enter Account Name</label>
                             <input type="Text" name="user_name" value="" required="No" size="15" maxlength="50" tabindex="90" id="sidebar_input_box"><br>
-                            &nbsp;&nbsp;Enter User Password<br>
-                            <input type="Password" name="password" size="15" maxlength="50" id="sidebar_input_box" tabindex="91"><br>         </td> 
-                            </tr>
-						</tbody></table>
-                        <table width="179" border="0" cellspacing="0" cellpadding="0">   
-                        <tbody><tr>
-                        <td width="68%" valign="middle">
-                         
-                         
-						 <a class="sidebar_href" href="/online_accounts/faqs/getting_started.cfm" tabindex="93">Getting Started</a>
-                        
-						 <a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=create_account_form" tabindex="94">Create Account</a>
-                        <br>
-                        <a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=dsp_forgot_password" tabindex="95">Forgot Password?</a>                       
-                        <br>
-                        <a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=dsp_forgot_username" tabindex="95">Forgot Account Name?</a>                       
+                            <label>Enter User Password</label>
+                            <input type="Password" name="password" size="15" maxlength="50" id="sidebar_input_box" tabindex="91"><br>         
 
-                         </td> 
-                        <td width="32%" align="left" valign="middle">
-                          <img src="/layouts/Standard/images/sidebar/sidebar_spacer.gif" width="2" height="8"><br>
+	                    
+        <ul class="myakc_sidebar_list">                      
+        <li><a class="sidebar_href" href="/online_accounts/faqs/getting_started.cfm" tabindex="93">Getting Started</a></li> 
+        <li><a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=create_account_form" tabindex="94">Create Account</a></li> 
+        <li><a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=dsp_forgot_password" tabindex="95">Forgot Password?</a></li> 
+        <li><a class="sidebar_href" href="/online_accounts/account_management/index.cfm?get_template=dsp_forgot_username" tabindex="95">Forgot Account Name?</a></li>                       
+        </ul>
+                
+
+<div id="myakc_login_button">                         
                           
-                           <input type="hidden" name="redirect" id="redirect" value=""> 
-
-                          <input type="submit" name="submit" value="Login" tabindex="92">
-                        </td>
-                        </tr>
-                    </tbody></table>
+	<input type="hidden" name="redirect" id="redirect" value=""> 
+    <input type="submit" name="submit" value="Login" tabindex="92">
+                   
+</div>
 					
                     </form>
-                	
+ 
 
-
-                </td>                
-            </tr>    
-            </tbody></table>
-		
-			</td>
-
-	</tr>
-</tbody></table>
+  
+				
+</div>
 
 
 
 
-<hr id="sidebar_hr" align="center"> 
 
 
-      
-            </td>    
-    	</tr> 
-      
-	<tr>
-		<td>
 
-		
-			
-<div style="margin-left:9px;"><strong>Free eNewsletter Signup</strong></div>
-<a href="http://cs.silverpop.com/akc/preferences/" class="sidebar_href">Click here</a> 
-			<hr id="sidebar_hr" align="center">
-			
+<hr id="sidebar_hr">
+<a href="http://cs.silverpop.com/akc/preferences/" class="sidebar_main_link">Free eNewsletter Signup</a>
+<a href="http://cs.silverpop.com/akc/preferences/" class="sidebar_href">Click here</a>
 
 
-<style>
-<!--
-#foldheader{cursor:pointer; margin-left:0px; padding-left:0px;}
-#foldinglist{list-style-type:none;}
-//-->
-</style>
 
 
-<script language="JavaScript1.2">
-<!--
 
-//Smart Folding Menu tree- By Dynamic Drive (rewritten 03/03/02)
-//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
-//This credit MUST stay intact for use
 
-var head="display:''"
-
-var ns6=document.getElementById&&!document.all
-var ie4=document.all&&navigator.userAgent.indexOf("Opera")==-1
-
-function checkcontained(e){
-var iscontained=0
-cur=ns6? e.target : event.srcElement
-i=0
-if (cur.id=="foldheader")
-iscontained=1
-else
-while (ns6&&cur.parentNode||(ie4&&cur.parentElement)){
-if (cur.id=="foldheader"||cur.id=="foldinglist"){
-iscontained=(cur.id=="foldheader")? 1 : 0
-break
-}
-cur=ns6? cur.parentNode : cur.parentElement
-}
-
-if (iscontained){
-var foldercontent=ns6? cur.nextSibling.nextSibling : cur.all.tags("UL")[0]
-if (foldercontent.style.display=="none"){
-foldercontent.style.display=""
-}
-else{
-foldercontent.style.display="none"
-}
-}
-}
-
-if (ie4||ns6)
-document.onclick=checkcontained
-
-//-->
-</script>
-
-<ul id="sidebar_list">
-   <li id="foldheader"><strong>AKC News</strong></li>
-   <ul id="foldinglist" style="display:none;">
-      <li><a href="/news/index.cfm" class="sidebar_href">News Homepage</a></li>
-	  <li><a href="/news/sections/legislative_alerts.cfm" class="sidebar_href">Legislative Alerts</a></li>
-      <li><a href="/news/news_archive.cfm" class="sidebar_href">News Archive</a></li>
-   </ul>
-
+<hr id="sidebar_hr"> 
+	
+<h2>AKC News</h2>	
+<ul class="sidebar_list">
+	<li><a href="/news/index.cfm" class="sidebar_href">News Homepage</a></li>
+	<li><a href="/news/sections/legislative_alerts.cfm" class="sidebar_href">Legislative Alerts</a></li>
+	<li><a href="/news/news_archive.cfm" class="sidebar_href">News Archive</a></li>
 </ul>
 
 
-			<hr id="sidebar_hr" align="center">
-			<a href="/news/sections/legislative_alerts.cfm" class="sidebar_main_link">Legislative Alerts</a>
-			
-			<hr id="sidebar_hr" align="center">
-			
-<ul id="sidebar_list">
-   <li id="foldheader"><strong>Translate This Page</strong></li>
-   <ul id="foldinglist" style="display:none">
-   <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Czh-CN&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Chinese</a></li>  
+
+
+
+
+<hr id="sidebar_hr"> 
+<a href="/news/sections/legislative_alerts.cfm" class="sidebar_main_link">Legislative Alerts</a>
+
+
+<hr id="sidebar_hr"> 
+<h2>Translate This Page</h2>
+
+<ul class="sidebar_list">
+  <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Czh-CN&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Chinese</a></li>  
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Ces&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Español</a></li>
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cfr&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Français</a></li>
       <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cde&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Deutsch</a></li>
 	  	  <li><a href="http://translate.google.com/translate?u=http://www.akc.org/about/site/privacystatement.cfm&amp;langpair=en%7Cpt&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" class="sidebar_href" target="_blank">Portugese</a></li>
-	  
-   </ul>
 </ul>
 
+
+</div>
+
+
+
+
+<div id="sidebar_ads">
+
+<div id="Frame1_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "Frame1")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20090605041345id_/http%3A//www.akc.org/about/site/privacystatement.cfm/624477201@Frame1,Frame2,BottomRight!Frame1"></script>
+</div>
+
+<div id="Frame2_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "Frame2")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20090605041345id_/http%3A//www.akc.org/about/site/privacystatement.cfm/624477201@Frame1,Frame2,BottomRight!Frame2"></script>
+</div>
+
+<div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "BottomRight")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20090605041345id_/http%3A//www.akc.org/about/site/privacystatement.cfm/624477201@Frame1,Frame2,BottomRight!BottomRight"></script>
+</div>
+
+
+
+</div> 
 
 
 <style type="text/css">
@@ -955,226 +953,67 @@ height:20px;
    width:475px;
   }
 </style> 
-			<hr id="sidebar_hr" align="center">
-			
-<table cellpadding="2" cellspacing="0" border="0" width="165" align="center" id="sidebar_myakc_text">
-	<tbody><tr>
-		<td colspan="2">
-			<b>Quick Poll:</b><br>
-		</td>
-	</tr>
-<tr>
-	<td colspan="2">
-		<table cellpadding="5" cellspacing="0" border="0" id="sidebar_myakc_text">
+					<div id="sidebar_poll_content">
+		            
+
+<h2>Quick Poll:</h2>
+<p>Are you a member of a dog club?</p>
+<form action="/poll/akc_quick_poll.cfm" method="post">
+		<input name="cde_poll" type="hidden" value="20090306082607">	
+<table cellpadding="3" cellspacing="0" border="0">
+	
+		
 			<tbody><tr>
-				<td>
-					Which component of our National Championship coverage do you enjoy the most?<br>
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-	<form action="/poll/akc_quick_poll.cfm" method="post"></form>
-		<input name="cde_poll" type="hidden" value="20081512104414">
-		
-			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200815121044141">
+						<input name="cde_answer" type="radio" value="200903060826071">
 					
-			  </td>
+			  	</td>
 				<td>
-					Competition and win shot photos<br>
+					Yes<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="200815121044142">
+						<input name="cde_answer" type="radio" value="200903060826072">
 					
-			  </td>
+			  	</td>
 				<td>
-					Bred By Exhibitor video coverage<br>
+					No<br>
 				</td>
 			</tr>
 		
-			<tr>
-				<td width="20" valign="top">
-					
-						<input name="cde_answer" type="radio" value="200815121044143">
-					
-			  </td>
-				<td>
-					Entries and Results areas<br>
-				</td>
-			</tr>
-		
-			<tr>
-				<td width="20" valign="top">
-					
-						<input name="cde_answer" type="radio" value="200815121044144">
-					
-			  </td>
-				<td>
-					Judges' biographies<br>
-				</td>
-			</tr>
-		
-			<tr>
-				<td width="20" valign="top">
-					
-						<input name="cde_answer" type="radio" value="200815121044145">
-					
-			  </td>
-				<td>
-					Obedience &amp; Agility coverage<br>
-				</td>
-			</tr>
-		
-		<tr align="right">
-			<td colspan="2">
-				<input type="image" name="Submit" onclick="Javascript:this.form.submit();" src="/layouts/Standard/images/sidebar/go.gif" id="sidebar_go">
-		  </td>
-		</tr>
 	
 </tbody></table>
-
-			</td>
-	</tr>
-
-</tbody></table> 
-
-	
-    <br> 
-<div id="Frame1_ad" class="hide_all" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
-<script language="JavaScript">
-<!--
-jsAd( "Frame1")
-//-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!Frame1"></script>
-</div>
-
-<div id="Frame2_ad" class="hide_all" style="margin-bottom: 10px;margin-left: 0px;margin-right: 0px;float:left; ">
-<script language="JavaScript">
-<!--
-jsAd( "Frame2")
-//-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!Frame2"></script>
-</div>
-
-<div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;float:left; ">
-<script language="JavaScript">
-<!--
-jsAd( "BottomRight")
-//-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20081217094731id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1633548014@Frame1,Frame2,BottomRight!BottomRight"></script>
-</div>
-
-	<div style="color:#000873">
-	whippet
- - ecom
-	</div> 
-
-</div>
-
-
-<div id="breed_images_box" style="margin-top: 95px;"> <a href="/breeds/irish_water_spaniel/index.cfm"><img src="/images/rotating/irish_water_spaniel.png" width="227" height="90" border="0"></a> </div>
-<div id="second_nav_box" style="margin-top: 95px;"><div id="second_nav_text"><style type="text/css">
-#second_nav_box {
-position:absolute;
-left:205px;
-top:20px;
-width: 600px;
-z-index:300;
-display:block;	
-}
-/*#dogcom {
-position:absolute;
-left:127px;
-top:16px;
-width: 100px;
-z-index:300;
-display:block;
-color:#FFFFFF;
-font-size:10px;	
-}*/
-#second_nav_text {
-color:#FFFFFF;
-background:none;
-font-weight:normal;
-}
-#second_nav  {
-color:#FFFFFF;
-background:none;
-text-align:center;
-}
-#second_nav a {
-font-size:11px;
-color: #FFFFFF;
-background:none;
-text-decoration:none;
-font-weight:normal;
-}
-#second_nav a:hover {
-color: #FFFFFF;
-background:none;
-font-size:11px;
-text-decoration:underline;
-font-weight:normal;
-}
-#second_nav a#current {
-color: #9dc5fb;
-background:none;
-font-size:11px;
-text-decoration:none;
-font-weight:normal;
-}
-</style>
-
-<table id="second_nav" width="400" border="0" cellspacing="3" cellpadding="0">
-  <tbody><tr>
-    <td><a id="current" title="Home" href="/index.cfm?nav_area=homepage">Home</a></td>
-    <td>|</td>
-    <td><a title="Press Center" href="/press_center/index.cfm?nav_area=press_center">Press</a></td>
-    <td>|</td>
-    <td><a title="AKC Reports and Information" href="/shop/index.cfm?nav_area=online_store">Store</a></td>
-    <td>|</td>
-    <td><a title="AKC Store by Dog.com" href="http://www.dog.com/akcstore.aspx?srccode=AKCSTORE" target="_blank">Dog.com</a></td>
-    <td>|</td>
-    <td><a title="Customer Service" href="/contact/answer_center/index.cfm?nav_area=contact_akc">Customer Service</a></td>
-    <td>|</td>
-    <td><a title="About AKC" href="/about/index.cfm?nav_area=about_akc">About</a></td>
-    <td>|</td>
-    <td><a title="Online Services" href="/online_services/index.cfm?nav_area=online_services">Online Services</a></td>
-  </tr>
-</tbody></table>
-
-</div></div>
-<div id="slogan_box" style="margin-top: 95px;"><div id="slogan_text"><img src="http://images.akc.org/template/header/tagline.gif"></div></div>
-<div id="site_search" style="margin-top: 95px;"> 
-
-
- <!-- Google CSE Search Box Begins -->
-<form method="post" action="/sitesearch/index.cfm" id="searchbox_000165061515928511887:cg0wps9qldu">
-<input type="hidden" name="cx" value="000165061515928511887:cg0wps9qldu">
-  <input type="hidden" name="cof" value="FORID:11">
-  <div class="site_search_text">Search:</div><input type="text" name="q" value="" size="38" style="background: url(&quot;http://images.akc.org/template/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
-  <input type="image" onclick="Javascript:this.form.submit();" src="/sitesearch/images/search_go.gif" name="submitsearch" id="submitsearch">
+	<button id="sidebar_go" name="Submit" onclick="this.form.submit();">
+    	<img src="/layouts/Standard/images/sidebar/go.gif">
+    </button>
+						
 </form>
 
- <script> 
-(function() { var f = document.getElementById('searchbox_000165061515928511887:cg0wps9qldu'); if (!f) { f = document.getElementById('searchbox_demo'); } if (f && f.q) { var q = f.q; var n = navigator; var l = location; if (n.platform == 'Win32') { q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;'; } var b = function() { if (q.value == '') { q.style.background = '#FFFFFF url(http://images.akc.org/template/google_custom_search_watermark.gif) left no-repeat'; } }; var f = function() { q.style.background = '#ffffff'; }; q.onfocus = f; q.onblur = b; if (!/[&?]q=[^&]/.test(l.search)) { b(); } } })();  
- </script>
- <!-- Google CSE Search Box Ends --> </div>
+
+
+
+                    </div>
+					
+	<div id="sidebar_main_machine">
+	borzoi - ecom
+	</div> 
+
+
+</div>
 
 
 
 
+        
 <script>
+
 function findPosY(obj)
   {
-	if (obj != null){  
+	if (obj != null){
 	var curtop = 0;
 	if(obj.offsetParent)
 		while(1)
@@ -1189,65 +1028,53 @@ function findPosY(obj)
 	return curtop;
 	}
   }
-		  
-var egp = 1;		  
- if ( document.getElementById("TopLeft_ad") ) {
-	egp = document.getElementById("TopLeft_ad").innerHTML.indexOf("empty.gif");
-	if ( egp > 0 ) {
-		document.getElementById('TopLeft_ad').style.display      = 'none';
-	}
-} // end if ( check for TopLeft_ad div )
-	  
+
+
+  
+
 	
 	
-		var typicalOffset = 12;
-		var addToOffset   = -8;	
-		  
+			var egp = 1;
+			
+			
+				var typicalOffset = 12;
+				var addToOffset   = -8;
+			
+			
+					
+			egp = document.getElementById("TopLeft_ad").innerHTML.indexOf("empty.gif");
+			if ( egp > 0 ) {
+				document.getElementById('TopLeft_ad').style.display      = 'none';
+			}
+	
+			var A =  findPosY(document.getElementById("headerGraphic"));
+			var B =  findPosY(document.getElementById("sidebar_wrapper"));
+			var C =  findPosY(document.getElementById("slogan_box"));
+			var D =  findPosY(document.getElementById("breed_images_box"));
+			var E =  findPosY(document.getElementById("site_search"));
+			var F =  findPosY(document.getElementById("second_nav_box"));		
+	
+	
+			if ( A > typicalOffset   &&   egp < 1 ) {
+				var addToOffset   = 4;	
+	
+				$("#sidebar_wrapper").css("marginTop",A - typicalOffset + addToOffset);
+				$("#slogan_box").css("marginTop",A - typicalOffset + addToOffset);
+				$("#breed_images_box").css("marginTop",A - typicalOffset + addToOffset);
+				$("#site_search").css("marginTop",A - typicalOffset + addToOffset);
+				$("#second_nav_box").css("marginTop",A - typicalOffset + addToOffset);
+				$("#ad_display").css("background","url(/layouts/Standard/images/top_bkg.gif)");
+			
+			}
+			else {
+				$("#sidebar_wrapper").css("marginTop",A  + addToOffset);
+				$("#slogan_box").css("marginTop",A  + addToOffset);
+				$("#breed_images_box").css("marginTop",A  + addToOffset);
+				$("#site_search").css("marginTop",A  + addToOffset);
+				$("#second_nav_box").css("marginTop",A  + addToOffset);
+				$("#ad_display").css("background","url(/layouts/Standard/images/top_bkg_clear.gif)");
+			}
 		
-		  
-	var A =	 findPosY(document.getElementById("headerGraphic"));
-	var B =  findPosY(document.getElementById("sidebar_main"));
-	var C =  findPosY(document.getElementById("slogan_box"));
-	var D =  findPosY(document.getElementById("breed_images_box"));
-	var E =  findPosY(document.getElementById("site_search"));
-	var F =  findPosY(document.getElementById("second_nav_box"));
-	
-	if (! StartTop) {
-	var G =  0;
-	var StartTop = 0;
-	} else {
-	var StartTop = 140;
-	var G = StartTop;
-	}
-	if ( A > typicalOffset   &&   egp < 1 ) {
-		var addToOffset   = 4;
-		if(document.getElementById("sidebar_main")!=null){
-		document.getElementById("sidebar_main").style.marginTop     = A - typicalOffset + addToOffset;
-		}
-		document.getElementById("slogan_box").style.marginTop       = A - typicalOffset + addToOffset;
-		document.getElementById("breed_images_box").style.marginTop = A - typicalOffset + addToOffset;
-		document.getElementById("site_search").style.marginTop      = A - typicalOffset + addToOffset;
-		document.getElementById("second_nav_box").style.marginTop   = A - typicalOffset + addToOffset;
-		document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg.gif)';
-		if (StartTop) {
-			//alert (StartTop);
-			StartTop = StartTop + (A - typicalOffset); 
-			//alert (StartTop);
-		}
-		//else {
-		//	StartTop = 1;
-		//}
-	} else {
-		//document.getElementById('ad_display').style.background      = 'none';
-		if(document.getElementById("sidebar_main")!=null){
-		document.getElementById("sidebar_main").style.marginTop     = A  + addToOffset;
-		}
-		document.getElementById("slogan_box").style.marginTop       = A  + addToOffset;
-		document.getElementById("breed_images_box").style.marginTop = A  + addToOffset;
-		document.getElementById("site_search").style.marginTop      = A  + addToOffset;
-		document.getElementById("second_nav_box").style.marginTop   = A  + addToOffset;	
-		document.getElementById('ad_display').style.background      = 'url(/layouts/Standard/images/top_bkg_clear.gif)';
-	} 	
 
 
 </script>
@@ -1256,4 +1083,30 @@ var egp = 1;
 
 
 
- </body></html>
+
+
+
+<script type="text/javascript" src="//cetrk.com/pages/scripts/0010/0819.js"> </script>
+
+
+<!-- Start Quantcast tag, provides demographic information for current/potential advertisers -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-0eXam7IyheRCk"
+};
+</script>
+<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+<noscript>
+<img src="//secure.quantserve.com/pixel/p-0eXam7IyheRCk.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+		
+
+
+
+
+</body></html>
