@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161825id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605100139id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -6,7 +6,7 @@
 
 'Saga' means the Saga Group of companies and all companies within the Saga Group resident anywhere in the world.
 
-'AA' means the AA Group of companies and Automobile Association Personal Finance Limited (a joint venture company with Halifax Bank of Scotland). A list of the companies within the AA Group can be obtained from the AA address below.
+'AA' means the AA Group of companies and Automobile Association Personal Finance Ltd (a joint venture company with Halifax Bank of Scotland). A list of the companies within the AA Group can be obtained from the AA address below.
 
 Saga and AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
@@ -20,7 +20,7 @@ Examples of how we may personalise information might include preparing an insura
 
 Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
-If you apply for the Saga Visa Card or the AA Master Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
+If you apply for the Saga Credit Card or the AA Master Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
 We ask for your home, mobile telephone number, and e-mail address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another genuine reason for doing so. If you provide us with credit or debit card details in order to pay for a service or product, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
 
@@ -34,7 +34,7 @@ Occasionally, we may also use the information we collect to notify you by post, 
 
 Generally, by providing the requested data you consent to Saga and AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, telephone and/or e-mail. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. If you wish to exercise the opt-out, for Saga products please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. If you have more than one address or e-mail address please make sure to notify any changes to your preferences for each address or e-mail address you have registered with us.
+Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. If you wish to exercise the opt-out, for Saga products please write to the Group Data Protection Officer at Enbrook Park, Folkestone, Kent, CT20 3SE or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. If you have more than one address or e-mail address please make sure to notify any changes to your preferences for each address or e-mail address you have registered with us.
 
 ##### How we protect customer information
 
@@ -42,9 +42,9 @@ As required by the Data Protection Act 1998, we follow strict security procedure
 
 If we provide information to a third party (either a provider of a product or service, or an external data processing agency such as a mailing house) we will exercise the strictest control over the third party contractually, requiring it to:
 
-  * Maintain the security and confidentiality of the information and restrict access to those of its own employees; 
-  * Use the data for the agreed purpose only and prevent it being used for any other purpose by any other party; 
-  * Refrain from communicating with you other than concerning the product in question; 
+  * Maintain the security and confidentiality of the information and restrict access to those of its own employees;
+  * Use the data for the agreed purpose only and prevent it being used for any other purpose by any other party;
+  * Refrain from communicating with you other than concerning the product in question;
   * Return the data to us at the conclusion of any contract term and destroy or delete any copies made of all or any part of the information unless copies are needed to be kept to comply with regulations.
 
 
@@ -61,7 +61,7 @@ Before you provide any data to us, we will endeavour to make it clear why we nee
 
 A customer may properly give his or her spouse or partner's consent over the telephone or via the website provided he confirms that he has permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
-Please note that we provide products and services including Saga holidays outside the European Economic Area (EAA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the European Economic Area. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance. It is worth noting however that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details, you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
+Please note that we provide products and services including holidays outside the European Economic Area (EAA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the European Economic Area. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance. It is worth noting however that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details, you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
 
@@ -187,7 +187,7 @@ If you have any doubts or do not use any of the above systems please refer to [A
 
 ##### Disclosure of information to third parties
 
-As previously mentioned Saga and AA do not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you go on a Saga holiday, the hotel needs to know whom you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
+As previously mentioned Saga and AA do not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you go on a holiday, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
 
 We may of course be obliged at law to pass on your information to the Police or any other statutory authority.
 
@@ -207,11 +207,11 @@ Please advise us in writing as to any changes in your circumstances. Obviously i
 
 ##### Subject Access Requests
 
-You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE, United Kingdom for requests relating to information held by Saga Group companies or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA for requests relating to information held by AA Group companies. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or AA Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at Enbrook Park, Folkestone, Kent, CT20 3SE for requests relating to information held by Saga Group companies or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA for requests relating to information held by AA Group companies. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Acromas Group Ltd or AA Ltd. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 ##### Your choice of information
 
-You may change the type of material sent to you at any time. We allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
+You may change the type of material sent to you at any time. We allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to Information Processing at Enbrook Park, Folkestone, Kent, CT20 3SE.
 
 ##### Changes to our Privacy Policy
 
@@ -219,4 +219,4 @@ If we decide to change our Privacy Policy, we will update all relevant documenta
 
 ##### Tell us what you think
 
-Saga and AA welcome your questions and comments about privacy. Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent, CT20 3SE, United Kingdom or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA.
+Saga and AA welcome your questions and comments about privacy. Please write to the Group Data Protection Officer, Enbrook Park, Folkestone, Kent, CT20 3SE or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA.
