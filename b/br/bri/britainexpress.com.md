@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024195924id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605174558id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
   
 
 
+  
 |    | 
 
 Britain Express has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
@@ -17,6 +18,14 @@ This site contains links to other sites. **Britain Express** is not responsible 
 Our occassional online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 We may run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Your IP address may be used to gather broad demographic information (like your country of residence). 
+
+Cookies 
+
+We use third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+* Google, as a third-party vendor, uses cookies to serve ads on this website.  
+* Google's use of the 'DART' cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
 
 Security
 
@@ -62,16 +71,18 @@ GL54 2ND
 
 | 
 
- UK Ordnance Survey Maps  
+Great British Heritage Pass  
   
 ---  
-[](https://web.archive.org/Ordnance-Survey-maps.htm)[**Every OS map**](https://web.archive.org/Ordnance-Survey-maps.htm) including  
-Landranger, Explorer, and new Right to Roam. Free UK post and **Up to 36% Discount on OS Maps!**  
   
- Car Rental  
+[](https://web.archive.org/gbhp.htm) [**Free entry to almost 600 top UK attractions**](https://web.archive.org/gbhp.htm)
+
+**Visit** castles, gardens, abbeys, stately homes, Roman forts, museums, mills, historic buildings, lighthouses, townhouses, museums, windmills, nature reserves, stone circles, medieval tithe barns, industrial heritage sites, dovecotes, battlefields, tunnels, cathedrals, bridges, and royal palaces. **Whew!**
+
+All with one pass. [**The Great British Heritage Pass**](https://web.archive.org/gbhp.htm)
+
+(overseas visitors only)  
   
----  
-[**The Car Rental Centre**](https://web.archive.org/Travel/cars/car-rental-uk.htm) Wholesale rates, instant quotes, from all the major car rental companies  
   
   
 
