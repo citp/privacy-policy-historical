@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021800id_/http%3A//iab.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605024632id_/http%3A//www.iab.net/privacy_policy) for the most accurate reproduction.*
 
 # IAB - Privacy Policy
 
@@ -8,9 +8,9 @@ _This Privacy Policy was last modified and is effective as of Wednesday, August 
 
 **IAB Privacy Policy** (including your California Privacy Rights)
 
-This is our official Privacy Policy which forms part of your legal agreement with us UNDER OUR [TERMS OF USE](https://web.archive.org/legal_disclaimer). Please read our Privacy Policy carefully to be sure you understand how we collect and use information and under what circumstances we share information about you.
+This is our official Privacy Policy which forms part of your legal agreement with us UNDER OUR [TERMS OF USE](http://www.iab.net/legal_disclaimer). Please read our Privacy Policy carefully to be sure you understand how we collect and use information and under what circumstances we share information about you.
 
-Any terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/legal_disclaimer).
+Any terms not defined in this Privacy Policy are defined in our [Terms of Use](http://www.iab.net/legal_disclaimer).
 
 WE CAN MODIFY THIS PRIVACY POLICY
 
@@ -32,7 +32,7 @@ You may stop or restrict cookies on your computer or purge them from your browse
 
 HOW WE USE YOUR INFORMATION
 
-We will only use information we collect or obtain when you use our Website as described in this Privacy Policy, for our internal research purposes or to ensure compliance with our [Terms of Use](https://web.archive.org/legal_disclaimer). If, at any time in the future, we decide we are going to use your Personal Information in a way that differs from our then current Privacy Policy, we will give you notice as described in the section above entitled We Can Modify This Privacy Policy, at least 30 days’ in advance notice. We will provide you the opportunity to decline consent ("opt-out") of such differing uses.
+We will only use information we collect or obtain when you use our Website as described in this Privacy Policy, for our internal research purposes or to ensure compliance with our [Terms of Use](http://www.iab.net/legal_disclaimer). If, at any time in the future, we decide we are going to use your Personal Information in a way that differs from our then current Privacy Policy, we will give you notice as described in the section above entitled We Can Modify This Privacy Policy, at least 30 days’ in advance notice. We will provide you the opportunity to decline consent ("opt-out") of such differing uses.
 
 ADVERTISERS, CO-SPONSORS AND LINKS TO OTHERS
 
@@ -54,7 +54,7 @@ We also reserve the right to make your Personal Information available:
 
 · When compelled by a governmental agency, law, regulation, a court or other legal process;
 
-· If we believe you are, have or may violate any law, regulation or our [Terms of Use](https://web.archive.org/legal_disclaimer);
+· If we believe you are, have or may violate any law, regulation or our [Terms of Use](http://www.iab.net/legal_disclaimer);
 
 · If we believe you are or may be a threat to safety, security, property, interests or rights of us or anyone else;
 
