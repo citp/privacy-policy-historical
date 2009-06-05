@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511164707id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605042744id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
 # SPORTSBIKESHOP - Privacy Policy
 
@@ -32,32 +32,4 @@ Two types of cookies are used on this website:
 This website may not function properly if cookies are disabled by your browser.
 
 If you have any questions/comments about privacy, please contact us.   
-
-
-  
-  
-  
-  
-
-
-QUICK HELP
-
-Please select a product category from the left hand menu.
-
-Alternatively, use the product search function to help you find what you are looking for. 
-
-GRAB YOURSELF A BARGAIN!
-
-[](http://www.sportsbikeshop.co.uk/motorcycle_parts/content_cat/330)  
-
-
-CUSTOMER COMMENTS...
-
-"Not only did you have the best price, £50 cheaper than ********* for example, but the helmet was delivered very quickly and properly packaged. I would use you again."
-
- **Duncan Welch - Essex**
-
-FREE UK DELIVERY OVER £25
-
-  
 
