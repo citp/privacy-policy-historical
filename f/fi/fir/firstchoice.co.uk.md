@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015085557id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605025252id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # First Choice | Our Policies | Privacy Policy
 
@@ -16,7 +16,7 @@ Here are a few things you should know:
 
 In addition:
 
-  * We may wish to contact you for feedback or to provide details of other products and offers from First Choice (a trading name of TUI UK Ltd) and other divisions within the group of companies of TUI UK Ltd.
+  * We may use it to contact you regarding other services or products offered by TUI Travel PLC, or ones that are available to First Choice customers from our selected trading partners
   * We may send your information to selected trading partners and third parties so that they can contact you regarding travel- and non-travel-related products and services that you may be interested in
 
 
