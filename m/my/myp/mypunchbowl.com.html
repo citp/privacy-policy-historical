@@ -1,10 +1,17 @@
-<!--The following is the downloaded HTML source of the mypunchbowl.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160629id_/http%3A//www.mypunchbowl.com/corporate/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypunchbowl.com privacy policy that was archived on 2009-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605071841id_/http%3A//www.mypunchbowl.com/corporate/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Punchbowl Software</title>
 	<meta http-equiv="content-type" content="text/ html;charset=utf-8">
+        <link href="http://www.mypunchbowl.com/stylesheets/global_nav.css" media="all" rel="stylesheet" type="text/css">
+        <link href="stylesheets/global_nav_corp.css" media="all" rel="stylesheet" type="text/css">
 	<link href="stylesheets/pbs.css" media="all" rel="Stylesheet" type="text/css">
+
+        <!-- [if IE 6]>
+          <link href="http://www.mypunchbowl.com/stylesheets/global_nav-ie6.css" media="all" rel="stylesheet" type="text/css" />
+        <![endif]-->
+
 
 	<meta name="ROBOTS" content="NOINDEX">
 
@@ -19,18 +26,72 @@
 	}
 	</style>
 	<![endif]-->
-</head>
-<body>
-<div id="container">
 
+  <script>
+  var more_menu_visible = false;
+
+  function show_more(e) {
+    e.stop();
+    more_menu_visible = !more_menu_visible;
+    $('more_menu_title').toggleClassName('selected');
+    $('more_menu').toggle();
+  }
+
+  function hide_more(e) {
+    if (more_menu_visible) {
+      $('more_menu_title').removeClassName('selected');
+      $('more_menu').hide();
+      more_menu_visible = !more_menu_visible;
+    }
+  }      
+
+  document.observe('dom:loaded', function() {
+    in_guest_view = $$('body')[0].hasClassName('guest_view');
+    $$('body')[0].observe('click', hide_more);
+    $('more_menu_title').observe('click', show_more);
+  });
+    
+
+</script>
+
+
+</head>
+
+<body>
+
+<div id="global_nav_wrapper" style="position: relative; z-index: 100">
+  <div id="global_nav">
+    <ul class="nav_links">
+
+    <li class="logo"><img alt="Gvnav_logo_107x33" class="trans" src="/images/gvnav_logo_107x33.png?1238707069"></li>
+    <li class="party_planning"><a href="http://www.mypunchbowl.com" title="Online party planning">Party Planning</a></li>
+    <li class="separator">&nbsp;</li>
+    <li class="ecards"><a href="http://www.mypunchbowl.com/ecards" title="Free eCards">eCards</a></li>
+    <li class="separator">&nbsp;</li>
+    <li class="weddings"><a href="http://www.mypunchbowl.com/weddings" title="Engagement Announcements">Weddings</a></li>
+    <li class="separator">&nbsp;</li>
+
+    <li class="reminders"><a href="http://www.mypunchbowl.com/birthday-reminders" title="Birthday Reminder Service">Birthday Reminders</a></li>
+
+    <li class="separator">&nbsp;</li>
+
+    <li class="shopping"><a href="http://www.mypunchbowl.com/shopping" title="Party Supplies" id="global_nav_shopping_link">Shopping</a></li>
+
+    </ul>
+
+    <div style="clear:both;"></div>
+  </div>
+</div>
+
+<div id="container">
 <div id="header">
-	<div id="sub_nav"><p><a href="http://www.mypunchbowl.com/">MyPunchbowl.com</a> | <a href="http://blog.mypunchbowl.com/">Blog</a></p></div>
 	<div id="logo"><a href="http://www.mypunchbowl.com"><img src="images/mypunchbowl_logo.gif" alt="" width="210" height="51"></a></div>
-	<!-- <div id="sign_up"><a href="http://www.mypunchbowl.com/"><img src="images/sign_up.jpg" alt="" width="79" height="79" /></a></div> -->
-</div><!-- end header -->
+</div>
+
 
 <div id="wrapper">
 	<div id="content">
+
 <h1>Privacy Policy</h1>
 
 <p><strong>This policy is effective as of August 8, 2007.</strong></p>
@@ -91,9 +152,10 @@
 			<li><a href="team.php">Team</a></li>
 			<li><a href="news.php">News Mentions</a></li>
 			<li><a href="faq.php">FAQ</a></li>
+      <li><a href="ambassadors.php">Ambassadors</a></li>
 			<li><a href="investors.php">Investors</a></li>
 			<li><a href="press.php">Press Room</a></li>
-			<li><a href="jobs.php">Jobs</a></li>
+			<li><a href="jobs.php">Careers</a></li>
 			<li><a href="contact.php">Contact</a></li>
 		</ul>
 	</div><!-- end navigation -->
@@ -105,9 +167,10 @@
 <div id="bottom"></div>
 
 <div id="footer">
-	<p>Copyright © 2008 Punchbowl Software | <a href="privacy_policy.php">Privacy</a> | <a href="terms_conditions.php">Terms</a></p>
+	<p>Copyright © 2009 Punchbowl Software | <a href="privacy_policy.php">Privacy</a> | <a href="terms_conditions.php">Terms</a></p>
 </div><!-- end footer -->
 
 </div><!-- end container -->
+
 
 </body></html>
