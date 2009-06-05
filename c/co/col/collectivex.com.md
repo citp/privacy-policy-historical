@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collectivex.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085028id_/http%3A//www.collectivex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectivex.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605020250id_/http%3A//www.collectivex.com/privacy) for the most accurate reproduction.*
 
-# CollectiveX - Create a Groupsite for Work, Life, Anything
+# Your Network -- Powered by CollectiveX
 
 CollectiveX is a group communication and networking platform. This policy describes the types of personal and/or group information we may collect and how we use it to provide the CollectiveX.com ("CollectiveX") service. The information that we collect is used to improve the content of our Web pages and the quality of our service and is not shared with or sold to other organizations for commercial purposes, except to provide products or services under the terms of this agreement. 
 
@@ -26,7 +26,7 @@ _Account information._ When you register with CollectiveX, we will request some 
 
 _Email._ CollectiveX will send to the primary email address specified in your CollectiveX profile a monthly Groupsites-related newsletter. You may unsubscribe from this newsletter by writing to news(at)collectivex.com with UNSUBSCRIBE in the subject line or using the opt-out URL provided in every newsletter. 
 
-Groupsite Managers of Instant Enterprise accounts may also notify CollectiveX if they wish their Groupsite members' addresses to be collectively suppressed from our newsletter distribution. Such requests can be made in writing to: news@collectivex.com and will not apply to Groupsite members that are also members of any other Groupsite. 
+Groupsite Managers of Groupsites Pro accounts may also notify CollectiveX if they wish their Groupsite members' addresses to be collectively suppressed from our newsletter distribution. Such requests can be made in writing to: news@collectivex.com and will not apply to Groupsite members that are also members of any other Groupsite. 
 
 CollectiveX may occasionally contact pending Groupsite members with invitations to join your group by e-mail. Pending members are individuals who have not responded (with either a negative or affirmative response) to membership invitations extended by Groupsite managers and/or members. Invitations extended by CollectiveX to pending members will clearly identify CollectiveX, the name of the relevant Groupsite, the name of the person who invited them and an email opt-out option. 
 
