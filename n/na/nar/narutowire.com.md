@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035735id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605220805id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
 
-# NarutoWire.com :: Privacy Policy
+# Privacy Policy :: NarutoWire.com
 
-[](http://www.narutowire.com/index.php)        [](http://www.ovguide.com/)
+[](http://www.narutowire.com/index.php)        [](http://www.ovguide.com/awards)
 
 **Please use 'Report Broken Link' tab in video page or 'Technical Difficulties' message board in forum to report broken links!!**
 
@@ -44,11 +44,11 @@ Special Note for Parents
 
 Modification and Deletion of Personally Identifiable Information (Opt-Out) 
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: inquiries@narutowire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+  In order to delete the personally identifiable information you submitted, notify us, to the following email address: contact@narutowire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Modification 
 
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: inquiries@narutowire.com. Please note that deletion of your personally identifiable information from NarutoWire.com's database will not prevent NarutoWire.com from using gathered anonymous information. 
+  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: contact@narutowire.com. Please note that deletion of your personally identifiable information from NarutoWire.com's database will not prevent NarutoWire.com from using gathered anonymous information. 
 
 Third Parties' Practices 
 
