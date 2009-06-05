@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226042353id_/http%3A//www.paychex.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605073725id_/http%3A//www.paychex.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Paychex Privacy Statement: Paychex Company Information
 
@@ -10,7 +10,7 @@ At times, Paychex will provide you with links to other websites. This Privacy St
 
 ## The Information Paychex Collects
 
-You may sign up for Paychex services either, in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](https://web.archive.org/web/20081226042353id_/http%3A//www.paychex.com/company/locations.aspx) to provide this information.
+You may sign up for Paychex services either, in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](https://web.archive.org/web/20090605073725id_/http%3A//www.paychex.com/company/locations.aspx) to provide this information.
 
 ## The Way Paychex Uses the Information Collected
 
@@ -24,6 +24,6 @@ A "cookie" is a piece of data that our websites may provide to your browser whil
 
 ## Security
 
-For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](https://web.archive.org/web/20081226042353id_/http%3A//www.paychex.com/company/security.aspx).
+For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](https://web.archive.org/web/20090605073725id_/http%3A//www.paychex.com/company/security.aspx).
 
 Printable Version
