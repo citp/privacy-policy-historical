@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the anblik.com privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913231158id_/http%3A//www.anblik.com/page/anblik-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anblik.com privacy policy that was archived on 2009-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605214435id_/http%3A//www.anblik.com/page/anblik-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<title>Anblik: Anblik Privacy Policy</title>
+<title>Anblik Privacy Policy | Anblik</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="language" content="en">
@@ -17,18 +17,17 @@
 <meta name="keywords" content="anblik privacy policy, anblik privacy policy">
 <meta name="description" content="Anblik Web Design Company is committed to protecting your privacy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy.">
 <meta name="author" content="Anblik">
-<meta name="copyright" content="Copyright 2005-2020, Ananyoo CMS, a Anblik.com Project.">
+<meta name="copyright" content="Copyright 2003-2008, Ananyoo CMS, a Anblik.com Project.">
 <meta name="generator" content="http://www.ananyoo.com">
 <link rel="alternate" type="application/rss+xml" title="Anblik" href="http://www.anblik.com/rss.xml?type=all">
 <link rel="home" href="http://www.anblik.com" title="Anblik Home">
 <link rel="contents" type="text/html" href="http://www.anblik.com/sitemap/" title="Anblik Site Index (TOC) ">
 <link rel="search" href="http://www.anblik.com/searchresults.php" title="Anblik Search">
-<link rel="copyright" type="text/html" href="http://www.anblik.com/page/copyright.html" title="Anblik Copyright Statment">
+<link rel="copyright" type="text/html" href="http://www.anblik.com/page/copyright.html" title="Anblik Copyright Statement">
 <link rel="help" type="text/html" href="http://www.anblik.com/webstandards/access-options.html" title="Anblik Help">
 <link rel="bookmark" type="text/html" title="Bookmark Anblik">
 <link rel="shortcut icon" type="image/x-icon" href="http://www.anblik.com/media/anblik/general/favicon.ico">
-<link rel="up" type="text/html" href="http://www.anblik.com/page/" title="Anblik Informative Web Pages"><link rel="next" type="text/html" href="http://www.anblik.com/page/web-design-company.html" title="Web Design Company"><link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/toggleElements.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/style.css" media="all">
+<link rel="up" type="text/html" href="http://www.anblik.com/page/" title="Anblik Informative Web Pages"><link rel="next" type="text/html" href="http://www.anblik.com/page/web-design-company.html" title="Web Design Company"><link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/style.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/screen-style.css" media="screen">
 <link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/print-style.css" media="print">
 <link type="text/css" rel="stylesheet" href="http://www.anblik.com/themes/anblik/default/handheld-style.css" media="handheld">
@@ -44,13 +43,33 @@
 		@import url('http://www.anblik.com/themes/anblik/default/not-IE-style.css');
 	 </style>
 	<![endif]--><script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/roundcorner/ruzeeborders.js"></script><script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/roundcorner/cssquery2-p.js"></script>	<!--for jquery -->
+	
 	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/jquery.js"></script>
 	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/plugins/jquery.lightbox-0.5.js"></script>              <!-- For business directory module page-->
 	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/plugins/jquery.dimensions.js"></script>				 <!-- For tooltip  used in form-->	
 	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/plugins/jquery.tooltip.js"></script>					 <!-- For tooltip  used in form-->	
-	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/plugins/jquery.toggleElements.pack.js"></script>			
 	<script type="text/javascript" src="http://www.anblik.com/includes/class/javascript/javascript-class.js"></script>
-
+	<script type="text/javascript">		
+		function limitChars(textid, limit, infodiv)
+		{
+			var text = $('#'+textid).val();	
+			var textlength = text.length;
+			if(textlength > limit)
+			{
+				$('#' + infodiv).html('You cannot write more then '+limit+' characters!');
+				$('#'+textid).val(text.substr(0,limit));
+				return false;
+			}
+			else
+			{
+				$('#' + infodiv).html('You have '+ (limit - textlength) +' characters left.');
+				return true;
+			}
+		}
+	</script>
+	
+	
+	
 	<script type="text/javascript">
 			$(function() {
 		        $('.imggallery a').lightBox();
@@ -72,6 +91,10 @@
 		showURL: false,
 		showBody: "Help: ",
 		extraClass: "right"
+		});
+		
+		$('#descFld').keyup(function(){
+			limitChars('descFld', 160, 'charlimitinfo');
 		});
 		
 		$('.help-block img').tooltip({	
@@ -99,6 +122,8 @@
 		});
 		
 		});
+		
+		
 		initializecategorytree();		
 		
 	}
@@ -118,7 +143,7 @@
 <div id="top" style="clear:both; margin:0 auto; width: 790px">
 <div class="clearboth topstyle">
 <div class="clearboth hor">
-<ul class="webList"><li>[<a href="#leftcolumn" accesskey="2" title="Skip to Content">Skip to Content</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com" accesskey="2" title="Home">Home</a>&nbsp;|&nbsp;</li><li>Previous&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/page/web-design-company.html" accesskey="" title="Next Page: Web Design Company">Next</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/page/" accesskey="" title="up: Anblik Informative Web Pages">up</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/webstandards/access-options.html" accesskey="0" title="Access Options">Access Options</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/sitemap/" accesskey="3" title="Site Index">Site Index</a>&nbsp;|&nbsp;</li><li><a href="javascript:window.print()" accesskey="0" title="Print this page">Print this page</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/webstandards/share-page.html" accesskey="7" title="Share Page">Share Page</a>&nbsp;|&nbsp;</li><li><a href="http://www.google.com/gwt/n?hl=&amp;mrestrict=xhtml&amp;u=http://www.anblik.com" title="Website Mobile Version">Mobile</a>]</li></ul></div>
+<ul class="webList"><li>[<a href="#leftcolumn" accesskey="2" title="Skip to Content">Skip to Content</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com" accesskey="2" title="Home">Home</a>&nbsp;|&nbsp;</li><li>Prev&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/page/web-design-company.html" accesskey="" title="Next Page: Web Design Company">Next</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/page/" accesskey="" title="up: Anblik Informative Web Pages">up</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/webstandards/access-options.html" accesskey="0" title="Access Options">Access Options</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/sitemap/" accesskey="3" title="Site Index">Site Index</a>&nbsp;|&nbsp;</li><li><a href="javascript:window.print()" accesskey="0" title="Print this page">Print this page</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/webstandards/share-page.html" accesskey="7" title="Share Page">Share Page</a>&nbsp;|&nbsp;</li><li><a href="http://www.google.com/gwt/n?hl=&amp;mrestrict=xhtml&amp;u=http://www.anblik.com" title="Website Mobile Version">Mobile</a>]</li></ul></div>
 </div>
 </div>
 <div id="topbottom" style="clear:both; margin:0 auto; width: 725px">
@@ -174,10 +199,9 @@ Anblik Privacy Policy</h1><p>Anblik <a href="/page/web-design-company.html" titl
 <div class="clearboth rightcolumnstyle">
 <div class="roundcorner clearboth ver" style="background-color:#ffe582; color:inherit; border:1px solid #feb44c;">
 <div class="footer-col-border"><h2 class="menuheader">Site<br>Navigation</h2>
-			<ul class="menu_ver">
-			<li class=""><a href="http://www.anblik.com/article/" class="" title="services">services</a></li><li class=""><a href="http://www.anblik.com/store/" class="" title="products">products</a></li><li class=""><a href="http://www.anblik.com/portfolio/" class="" title="portfolio">portfolio</a></li><li class=""><a href="http://www.anblik.com/rfp/" class="" title="request a free quote">request a free quote</a></li><li class=""><a href="/searchresults.html" class="" title="search site">search site</a></li><li class=""><a href="http://www.anblik.com/usermanagement" class="" title="client area">client area</a></li></ul></div></div>
-<div class="roundcorner clearboth ver" style="border:1px solid #000000;">
-	<div class="clearboth ver"><h2 class="featured-projects">Featured<br>Projects</h2><div class="block-p1"><a href="http://www.anblik.com/portfolio/cms-and-social-networking/lestout.html" title="LesTout : View Full Portfolio"><img src="http://www.anblik.com/modules/portfolio/images/anblik/thumb/portfolio-lestout.gif" alt="LesTout : View Full Portfolio"></a></div><div class="block-p2"><a href="http://www.anblik.com/portfolio/web-application/hollywoodnews.html" title="Hollywoodnews : View Full Portfolio"><img src="http://www.anblik.com/modules/portfolio/images/anblik/thumb/portfolio-hollywoodnews.jpg" alt="Hollywoodnews : View Full Portfolio"></a></div><div class="visit">
+			<ul class="menu_ver"><li class=""><a class="" href="http://www.anblik.com/article/" title="services">services</a></li><li class=""><a class="" href="http://www.anblik.com/store/" title="products">products</a></li><li class=""><a class="" href="http://www.anblik.com/portfolio/" title="portfolio">portfolio</a></li><li class=""><a class="" href="http://www.anblik.com/rfp/request-a-free-quote.html" title="request a free quote">request a free quote</a></li><li class=""><a class="" href="/searchresults.html" title="search site">search site</a></li><li class=""><a class="" href="http://www.anblik.com/faq/" title="FAQ">FAQ</a></li><li class=""><a class="" href="http://www.anblik.com/usermanagement/" title="client area">client area</a></li></ul></div></div>
+<div class="roundcorner clearboth ver">
+	<div class="clearboth ver"><h2 class="featured-projects">Featured<br>Projects</h2><div class="block-p1"><a href="http://www.anblik.com/portfolio/cms-and-social-networking/lestout.html" title="LesTout : View Full Portfolio"><img src="http://www.anblik.com/modules/portfolio/images/anblik/thumb/portfolio-lestout.jpg" alt="LesTout : View Full Portfolio"></a></div><div class="block-p2"><a href="http://www.anblik.com/portfolio/cms-and-social-networking/acharya-jagadish-chandra-bose-college.html" title="Acharya Jagadish Chandra Bose College : View Full Portfolio"><img src="http://www.anblik.com/modules/portfolio/images/anblik/thumb/portfolio-acharya-jagadish-chandra-bose-college.gif" alt="Acharya Jagadish Chandra Bose College : View Full Portfolio"></a></div><div class="visit">
 <a href="http://www.anblik.com/portfolio/" title="View&nbsp;Portfolio">View&nbsp;Portfolio</a>
 </div><br></div></div>
 <div class="clearboth">
@@ -214,20 +238,25 @@ google_ad_height = 200;
 <div id="footer" style="clear:both; margin:0 auto; width: 790px">
 <div class="clearboth footerstyle">
 <div class="clearboth hor">
-<div class="wbstard"><ul class="webList"><li>[</li><li><a href="http://validator.w3.org/check?uri=referer" rel="nofollow external" title="XHTML" class="new_win">xhtml</a>&nbsp;|&nbsp;</li><li><a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow external" title="CSS" class="new_win">css</a>&nbsp;|&nbsp;</li><li><a href="http://www.w3.org/WAI/WCAG1AAA-Conformance" rel="nofollow external" title="AAA" class="new_win">aaa</a>&nbsp;|&nbsp;</li><li><a href="http://www.contentquality.com/mynewtester/cynthia.exe?rptmode=-1&amp;url1=&lt;#sitesurl&gt;" rel="nofollow external" title="508" class="new_win">508</a>&nbsp;|&nbsp;</li><li><a href="http://feedvalidator.org/check.cgi?url=http://www.anblik.com/rss.xml?type=all" rel="nofollow external" title="Get RSS" class="new_win">get rss</a></li><li>]</li></ul></div></div>
+<div class="wbstard"><ul class="webList"><li>[</li><li><a href="http://validator.w3.org/check?uri=referer" rel="nofollow external" title="XHTML" class="new_win">xhtml</a>&nbsp;|&nbsp;</li><li><a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow external" title="CSS" class="new_win">css</a>&nbsp;|&nbsp;</li><li><a href="http://www.w3.org/WAI/WCAG1AAA-Conformance" rel="nofollow external" title="AAA" class="new_win">aaa</a>&nbsp;|&nbsp;</li><li><a href="http://www.contentquality.com/mynewtester/cynthia.exe?rptmode=-1&amp;url1=&lt;#sitesurl&gt;" rel="nofollow external" title="508" class="new_win">508</a>&nbsp;|&nbsp;</li><li><a href="http://feedvalidator.org/check.cgi?url=http://www.anblik.com/rss.xml?type=all" rel="nofollow external" title="RSS" class="new_win">rss</a></li><li>]</li></ul></div></div>
 <div class="clearboth">
-Copyright © 2003-2010, <a href="http://www.anblik.com" title="Anblik web design company">Anblik</a>.</div>
+<span class="leftdiv">Copyright © 2008, <a href="http://www.anblik.com" title="Anblik web design company">Anblik</a>.</span><span class="leftdiv"><a href="http://www.anblik.com/get-rss.html" title="Subscribe to our Full RSS feed"><img src="http://www.anblik.com/media/anblik/general/rss_2.gif" alt="Subscribe to our Full RSS feed" style="margin:5px 0 0 5px"></a></span></div>
 <div class="clearboth hor">
 <div class="footer_menu"><ul class="webList"><li>[</li><li><a href="http://www.anblik.com" title="home">home</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/contactus/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/page/anblik-privacy-policy.html" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;</li><li><a href="http://www.anblik.com/webstandards/" title="Web standards">Web standards</a></li><li>]</li></ul></div></div>
 <br><div class="clearboth">
-<div class="\&quot;block-hidden\&quot;">
-<script src="\&quot;http://www.google-analytics.com/urchin.js\&quot;" type="\&quot;text/javascript\&quot;">
-</script>
-<script type="\&quot;text/javascript\&quot;">
-_uacct = \"UA-3823218-1\";
-urchinTracker();
-</script>
-</div></div>
+<div class="block-hidden">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3823218-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+
+</div>
 </div>
 </div>
 <script type="text/javascript">
