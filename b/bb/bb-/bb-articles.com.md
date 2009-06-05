@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913202342id_/http%3A//bb-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb-articles.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605051357id_/http%3A//bb-articles.com/privacy.php) for the most accurate reproduction.*
 
-# BB Articles Directory | Search Find Free Content | Submit Articles | Author Submission
+# bb-articles.com
 
 **[www.bb-articles.com](http://www.bb-articles.com/) Privacy Policy**
 
@@ -66,5 +66,8 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-[](http://1.ofsnetwork.com/z/27112/CD7124/&dp=0&l=0&subid1=BB&subid2=&subid3=&subid4=&subid5=)  
+[Article Directory Software](http://www.articledashboard.com/download.htm)   
+Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
 
+
+[ ](http://www.bb-articles.com/Recommends/host)
