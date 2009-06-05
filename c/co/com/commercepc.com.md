@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034022id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605080140id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Commerce Bank Serving Central PA - Privacy Policy
 
@@ -31,10 +31,10 @@ Remember that cellular, mobile and cordless phones are not secure. Neither is el
 
 Commerce Bank takes crime prevention very seriously. For your convenience, the links below go to practical, expert advice.
 
-  * [Avoid Identity Theft & Online Fraud](https://web.archive.org/web/20081217034022id_/http%3A//www.commercepc.com/inside_commerce/consumerAlert.cfm) (Source: Commerce Bank)
+  * [Avoid Identity Theft & Online Fraud](https://web.archive.org/web/20090605080140id_/http%3A//www.commercepc.com/inside_commerce/consumerAlert.cfm) (Source: Commerce Bank)
   * How to Guard Against Identity Theft (Source: Federal Trade Commission)
   * Advice for Safe Online Shopping (Source: Federal Deposit Insurance Corporation)
-  * [ATM Safety Tips](https://web.archive.org/web/20081217034022id_/http%3A//www.commercepc.com/inside_commerce/atmSafetyTips.cfm) (Source: Commerce Bank)
+  * [ATM Safety Tips](https://web.archive.org/web/20090605080140id_/http%3A//www.commercepc.com/inside_commerce/atmSafetyTips.cfm) (Source: Commerce Bank)
   * How to Protect Childrens' Privacy Online (Source: Federal Trade Commission)
 
 
