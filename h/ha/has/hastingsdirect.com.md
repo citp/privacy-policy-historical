@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226071324id_/http%3A//www.hastingsdirect.com/Privacy%2520Policy/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605235451id_/http%3A//www.hastingsdirect.com/Privacy%2520Policy/Privacy%2520Policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Hastings Direct
 
 ### Contents
 
@@ -153,6 +153,3 @@ No amendments or updates to this Privacy Policy will affect your right to choose
 This Privacy Policy is governed by the law of England and Wales and subject to the jurisdiction of the courts of England and Wales. 
 
 Back to top 
-
-  
-
