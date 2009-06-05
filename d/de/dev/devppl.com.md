@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devppl.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915123637id_/http%3A//www.devppl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devppl.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605044607id_/http%3A//www.devppl.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
