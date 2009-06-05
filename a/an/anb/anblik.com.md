@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anblik.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913231158id_/http%3A//www.anblik.com/page/anblik-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anblik.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605214435id_/http%3A//www.anblik.com/page/anblik-privacy-policy.html) for the most accurate reproduction.*
 
-# Anblik: Anblik Privacy Policy
+# Anblik Privacy Policy | Anblik
 
 Anblik [Web Design Company](https://web.archive.org/page/web-design-company.html "Web Design Company") is committed to protecting your privacy, which is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. You can tour through most of our site without giving us any information that personally identifies you, reveals personal information or allows us to contact you, but sometimes we do need information to respond to your requests. This privacy statement explains the data we collect from you and its use. Please read the complete privacy statement.
 
