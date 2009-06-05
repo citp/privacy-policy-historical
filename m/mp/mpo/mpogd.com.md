@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054959id_/http%3A//www.mpogd.com./privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605022932id_/http%3A//www.mpogd.com/privacy.asp) for the most accurate reproduction.*
 
 # Multiplayer Online Games Directory / Privacy Policy - Find Multiplayer Games Here
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=869)
+| | | [](https://web.archive.org/ads/redirect.asp?id=906)
 
 _This document was last updated December 27, 2001._
 
@@ -46,4 +46,4 @@ MPOGD.com will occasionally update this privacy statement. When we do, we will a
 **Contact Information**  
 MPOGD welcomes your comments regarding this Statement of Privacy, please contact us by [e-mail](mailto:doug@mpogd.com), or postal mail.
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=850)
+| | | [](https://web.archive.org/ads/redirect.asp?id=918)
