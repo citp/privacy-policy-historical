@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpreviews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085634id_/http%3A//cooliris.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpreviews.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605235050id_/http%3A//cooliris.com/legal/privacy) for the most accurate reproduction.*
 
 # Cooliris | Discover More
 
@@ -66,11 +66,11 @@ It is our policy to provide notifications, whether such notifications are requir
 
 ## Access to Personal Information
 
-Cooliris allow you to access certain information about yourself for the purpose of viewing, and in certain situations, updating that information via our website. The types of information that you can access and update will change as the Cooliris Products change.
+Cooliris allows you to access certain information about yourself for the purpose of viewing, and in certain situations, updating that information via our website. The types of information that you can access and update will change as the Cooliris Products change.
 
 ## Policy Changes
 
-This effective date of this Privacy Policy is December 10, 2008.
+The effective date of this Privacy Policy is December 10, 2008.
 
 This Privacy Policy may be updated from time to time.
 
