@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222102912id_/http%3A//nimsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605165543id_/http%3A//www.nimsoft.com/privacy.php) for the most accurate reproduction.*
 
-# Nimsoft - Privacy & Security Policy
+# Nimsoft Privacy & Security Policy
+
+## **Nimsoft Privacy & Security Policy**
 
 **Your Privacy**
 
@@ -43,7 +45,3 @@ Your privacy is important to us. You may “opt out” at any time via the opt-o
 By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [privacy@nimsoft.com](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [webmaster@nimsoft.com](mailto:webmaster@nimsoft.com).
-
-"The extreme ease of implementation from Nimsoft especially impressed us. Additionally, Nimsoft was very flexible in accommodating our needs, and continuously made modifications and enhancements based on our requirements. We've been especially pleased with Nimsoft's end-to-end infrastructure monitoring capabilities, and with how quickly they could develop solutions for our ever-changing needs." 
-
-Morten Hagland Hansen, Global IP Engineering Manager, RigNet
