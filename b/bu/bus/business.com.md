@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063907id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605212558id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Business.com Privacy Policy
 
-Last Updated September 25, 2008 
+Last Updated March 18, 2009 
 
 Business.com, Inc. ("Business.com") understands and respects your concerns about privacy. This notice describes Business.com's privacy policy as it pertains to the website at www.business.com (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. **By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
 
@@ -40,6 +40,8 @@ In addition to the information you knowingly provide, Business.com collects the 
 
 **Links:** The Website may contain links to third-party websites. Business.com is not responsible for the privacy practices or the content of such websites. 
 
+**Your California Privacy Rights:** If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you request it, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the Contact section below, specifying that you seek your "California Customer Choice Notice." Please allow thirty days for a response. 
+
 **Contacts:** If you have any questions, concerns, or suggestions regarding this privacy policy, please direct them to:  
 Business.com  
 Attn: Customer Service - Business.com Privacy  
@@ -47,4 +49,4 @@ Attn: Customer Service - Business.com Privacy
 Santa Monica, CA 90404  
 [customerservice@business.com](mailto:customerservice@business.com)
 
-Copyright © 2008 Business.com, Inc. All rights reserved.
+Copyright © 2009 Business.com, Inc. All rights reserved.
