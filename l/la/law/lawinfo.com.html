@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawinfo.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217232142id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawinfo.com privacy policy that was archived on 2009-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605043208id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>Privacy Policy - LawInfo.com</title>
@@ -7,9 +7,12 @@
 <meta name="keywords" content="privacy policy,lawinfo">
 <meta name="verify-v1" content="OW+KhBSqpTVsZygkWAd7REVWGseGv+vcJJSUCMnycXo=">
 <meta name="msvalidate.01" content="C7A9BE42CE8D442284B7CA9EF60E7B25">
-<script src="http://www.lawinfo.com/j/jquery.js?v=1.2.6.pack" type="text/javascript" charset="utf-8"></script>
-<script src="http://www.lawinfo.com/j/global.js?v=1" type="text/javascript" charset="utf-8"></script>
-<link rel="stylesheet" href="http://www.lawinfo.com/css/style.css?v=11" type="text/css" media="screen" charset="utf-8">
+<link rel="shortcut icon" href="http://www.lawinfo.com/favicon.ico"> 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.lawinfo.com/j/jquery.bgiframe.min.js?v=2.1.1"></script>
+<script type="text/javascript" src="http://www.lawinfo.com/j/jquery.overlay.js?v=0.14"></script>
+<script type="text/javascript" src="http://www.lawinfo.com/j/global.js?v=4"></script>
+<link rel="stylesheet" href="http://www.lawinfo.com/css/style.css?v=4.0" type="text/css" media="screen" charset="utf-8">
 <!--[if IE 7]><link type='text/css' rel='stylesheet' href='http://www.lawinfo.com/css/ie7.css?v=1' /><![endif]-->
 <!--[if lte IE 6]><link type='text/css' rel='stylesheet' href='http://www.lawinfo.com/css/ie6.css?v=1' /><![endif]-->
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blog.lawinfo.com/feed/rss2/">
@@ -34,8 +37,15 @@
 <li class="hoverable"><a href="http://www.lawinfo.com/business.html" class="crumb">Business Resources</a></li>
 <li class="hoverable"><a href="http://www.lawinfo.com/experts.html" class="crumb">Legal Experts</a></li>
 <li class="hoverable"><a href="http://www.lawinfo.com/programs.html" class="crumb">Advertise With Us</a></li>
+<li class="hoverable"><a href="http://www.lawinfo.com/espanol.html" class="crumb" title="Recursos Legales Gratuitos">Español</a></li>
 </ul>
 </div>
+</div>
+<div id="geoLocation">
+Your current location: <span id="locationData">
+Seattle, WA. (206)
+</span> |
+<a id="changeLocation" href="http://www.lawinfo.com/change-location.html" rel="#external">Change Location</a>
 </div>
 <!-- SEARCH -->
 <div id="search-bar">
@@ -80,6 +90,7 @@
 <option value="1311">Asset Protection</option>
 <option value="1317">Asylum</option>
 <option value="1177">Auto/Truck Accidents</option>
+<option value="2641">Avandia</option>
 <option value="51">Aviation Law</option>
 <option value="4">Banking &amp; Finance</option>
 <option value="5">Bankruptcy</option>
@@ -144,6 +155,7 @@
 <option value="1310">Guardianship and Conservatorship</option>
 <option value="20">Health Law</option>
 <option value="1192">Heart Device Litigation</option>
+<option value="2644">Hydroxycut</option>
 <option value="2617">Identity Theft</option>
 <option value="21">Immigration</option>
 <option value="22">Insurance</option>
@@ -195,7 +207,6 @@
 <option value="37">Taxation</option>
 <option value="1260">Tequin</option>
 <option value="76">Traffic Violations</option>
-<option value="38">Transportation</option>
 <option value="2616">Trasylol</option>
 <option value="70">Trial</option>
 <option value="60">Trusts</option>
@@ -214,13 +225,13 @@
 <tbody><tr>
 <td>
 <span>Area Code</span><br>
-<input class="text" maxlength="5" type="text" name="areaCode" value="" id="qs-area-code">
+<input class="text" maxlength="5" type="text" name="areaCode" value="206" id="qs-area-code">
 </td>
 <td class="qs-search-or">- OR -</td>
 <td>
 <span>Your City</span><br>
-<input class="text" type="text" name="city" value="" id="qs-city">
-<select id="qs-state" name="state">
+<input class="text" type="text" name="city" value="Seattle" id="qs-city" onkeydown="jQuery('#qs-area-code').val('');">
+<select id="qs-state" name="state" onchange="jQuery('#qs-area-code').val('');">
 <option value="">State</option>
 <option value="AK">AK</option>
 <option value="AL">AL</option>
@@ -269,7 +280,7 @@
 <option value="UT">UT</option>
 <option value="VA">VA</option>
 <option value="VT">VT</option>
-<option value="WA">WA</option>
+<option value="WA" selected="">WA</option>
 <option value="WI">WI</option>
 <option value="WV">WV</option>
 <option value="WY">WY</option>
@@ -286,7 +297,7 @@
 </form>
 <form id="resource-search" class="inactive" action="http://resources.lawinfo.com/Search.html?" method="get" accept-charset="utf-8">
 <div class="input-group">
-<label for="rs-query">What are you looking for? Enter one or more keywords to search; e.g. drunk driving</label>
+<label for="rs-query">What are you looking for? Enter one or more keywords to search: Eg. drunk driving</label>
 <input class="text labelize" type="text" name="q" value="" id="rs-query">
 </div>
 <div class="button"><button type="submit">Search</button></div>
@@ -351,13 +362,13 @@ own risk.</p>
 <li><a class="first" href="http://www.lawinfo.com/attorney">Lawyers By Practice Area</a></li>
 <li><a href="http://www.lawinfo.com/in-your-city.html">Local Attorneys</a></li>
 <li><a href="http://www.lawinfo.com/properties/index.html">Attorney Search By State</a></li>
-<li><a href="http://california.lawinfo.com" target="_blank">CA</a></li>
-<li><a href="http://florida.lawinfo.com" target="_blank">FL</a></li>
-<li><a href="http://www.illinoislawyerdirectory.com" target="_blank">IL</a></li>
-<li><a href="http://massachusetts.lawinfo.com" target="_blank">MA</a></li>
-<li><a href="http://northcarolina.lawinfo.com" target="_blank">NC</a></li>
-<li><a href="http://newyork.lawinfo.com" target="_blank">NY</a></li>
-<li><a href="http://texas.lawinfo.com" target="_blank">TX</a></li>
+<li><a href="http://california.lawinfo.com" rel="nofollow" target="_blank">CA</a></li>
+<li><a href="http://florida.lawinfo.com" rel="nofollow" target="_blank">FL</a></li>
+<li><a href="http://www.illinoislawyerdirectory.com" rel="nofollow" target="_blank">IL</a></li>
+<li><a href="http://massachusetts.lawinfo.com" rel="nofollow" target="_blank">MA</a></li>
+<li><a href="http://northcarolina.lawinfo.com" rel="nofollow" target="_blank">NC</a></li>
+<li><a href="http://newyork.lawinfo.com" rel="nofollow" target="_blank">NY</a></li>
+<li><a href="http://texas.lawinfo.com" rel="nofollow" target="_blank">TX</a></li>
 <li><a href="http://www.lawinfo.com/properties/index.html">more</a> ...</li>
 </ul>
 </div>
@@ -365,7 +376,7 @@ own risk.</p>
 <h3>LEGAL EXPERTS:</h3>
 <ul>
 <li><a class="first" href="http://www.lawinfo.com/expert-witnesses.html">Expert Witnesses</a></li>
-<li><a href="http://www.lawinfo.com/bail-bonds.html">Bail Bonds</a></li>
+<li><a href="http://www.lawinfo.com/bailbonds.html">Bail Bonds</a></li>
 <li><a href="http://www.lawinfo.com/private-investigators.html">Private Investigators</a></li>
 <li><a href="http://www.lawinfo.com/court-reporters.html">Court Reporters</a></li>
 <li><a href="http://www.lawinfo.com/process-servers.html">Process Servers</a></li>
@@ -378,9 +389,9 @@ own risk.</p>
 <ul>
 <li><a class="first" href="http://www.lawinfo.com/media-partners.html">Media Partners</a></li>
 <li><a href="http://www.lawinfo.com/leadcounsel-application.html">Apply For Lead Counsel </a></li>
-<li><a href="https://secure.lawinfo.com/ols/preferred-packages.html">Preferred Packages</a></li>
+<li><a href="https://secure.lawinfo.com/ols/preferred-packages.html" rel="nofollow">Preferred Packages</a></li>
 <li><a href="http://www.lawinfo.com/lawyermarketing">Lawyer Marketing</a></li>
-<li><a href="http://chat.lawinfo.com/newthread.php?do=contact">Sponsor A Chat Board</a></li>
+<li><a href="http://chat.lawinfo.com/newthread.php?do=contact" rel="nofollow">Sponsor A Chat Board</a></li>
 </ul>
 </div>
 <div class="group clear" id="footer-lawinfo">
@@ -392,21 +403,48 @@ own risk.</p>
 <li><a href="http://www.lawinfo.com/terms-and-conditions.html">Terms &amp; Conditions</a></li>
 <li><a href="http://www.lawinfo.com/sitemap.html">Site Map</a></li>
 <li><a href="http://www.lawinfo.com/contact.html">Contact Us</a></li>
-<li><a href="http://www.lawinfo.com/copyright-and-notice.html">LawInfo © 1995-2008</a></li>
+<li><a href="http://www.lawinfo.com/copyright-and-notice.html">LawInfo © 1995-2009</a></li>
 </ul>
 </div>
 <div class="group clear" id="footer-res">
 <h3>RESOURCES:</h3>
 <ul>
-<li><a class="first" href="http://jobs.lawinfo.com/">Jobs</a></li>
-<li><a href="http://chat.lawinfo.com/" title="Legal Discussions">Discussion Boards</a></li>
-<li><a href="http://blog.lawinfo.com/" title="Lawyer Blog">Blog</a></li>
+<li><a class="first" href="http://jobs.lawinfo.com/" rel="nofollow">Jobs</a></li>
+<li><a href="http://chat.lawinfo.com/" rel="nofollow" title="Legal Discussions">Discussion Boards</a></li>
+<li><a href="http://blog.lawinfo.com/" rel="nofollow" title="Lawyer Blog">Blog</a></li>
 <li><a href="http://www.lawinfo.com/legal-topics.html" title="Legal Definitions">Legal Topics</a></li>
+<li><a href="http://www.lawinfo.com/properties.html" title="Find a Lawyer by Geographic Location">Geography Sitemap</a></li>
 </ul>
 </div>
-<p><a id="bbb" href="http://www.bbbonline.org/cks.asp?id=1060619145433" target="_blank">BBB Reliable Program</a></p>
+<p><a id="bbb" href="http://www.bbbonline.org/cks.asp?id=1060619145433" rel="nofollow" target="_blank">BBB Reliable Program</a></p>
 </div>
 </div>
+<div id="external" class="overlay" style="background-image: none;" bg="http://static1.lawinfo.com/images/white.png">
+<div class="close" style="z-index: 1;"></div>
+<div id="changeLocationBox" style="height:210px;">
+<div class="titleBar">Change Your Location</div>
+<div class="insideContainer">
+<form id="locationForm" name="locationForm" action="http://lawinfo.com/inc/updateLocation.cfm">
+<h3>Enter Your New Location:</h3>
+<input id="newLocation" name="newLocation" size="25"><br>
+<h5>(e.g., San Diego, CA or 92121 or 619)</h5>
+<div class="bottom" align="center">
+<input type="submit" id="saveLocation" name="Save" value="Update" class="searchButton">
+<input type="Button" name="close" value="Close" class="searchButton" onclick="javascript:jQuery.overlayClose();">
+</div>
+</form>
+<p>Based on your IP Address, your default location is:</p>
+<ul>
+<li>Area Code: 206</li>
+<li>City: Seattle</li>
+<li>State: WA</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript" language="JavaScript">
+jQuery("a#changeLocation").overlay();
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
