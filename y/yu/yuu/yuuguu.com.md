@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011849id_/http%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuuguu.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605025027id_/http%3A//www.yuuguu.com/privacy_policy) for the most accurate reproduction.*
 
-# Yuuguu
+# Yuuguu - for Online Meetings, Online Presentations, Remote Teams and Remote Support
 
 ## Yuuguu Service Privacy policy
 
@@ -15,6 +15,7 @@ You do not need a Yuuguu Account to access the Yuuguu web based service. Yuuguu 
 When you use the Yuuguu web based service we may record information about your usage, such as when you use Yuuguu, the people you communicate with and the frequency and size of data transfers, Information displayed or clicked on in the Yuuguu web based service interface (including UI elements, settings and other information) is also recorded. 
 
   2. (b) _Content_. We will store the contents of text chats. These text chats are only stored when they all participants in the chat use the Yuuguu downloadable client. 
+  3. (c) _Payment details_. We do not store any of your financial details (eg credit card number). All our payment processing is performed by PayPal.
 
 
 
