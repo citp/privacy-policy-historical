@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201031919id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605142734id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
 
 # Bills.com Privacy Policy
 
@@ -8,8 +8,6 @@
 Last updated: Novemeber 1, 2008. 
 
 Bills.com recognizes your expectation of privacy and security, and we greatly respect your privacy concerns. Your security and the security of your personal information is a top priority for Bills.com. This privacy policy applies to the information you submit on the www.bills.com and www.theeasyloansite.com (collectively, “Bills.com”) websites, and outlines how we gather information and how bills.com maintains your private data to ensure our goal of satisfied and trusted users. This Privacy Policy does not apply to websites maintained by other partners or companies that we link to or that we work with – for information on other partners’ policies, please refer to their own privacy policies. If you have questions or concerns regarding this Privacy Policy, you may contact Bills.com at [customercare@bills.com](mailto:customercare@bills.com) or [customercare@theeasyloansite.com](mailto:customercare@theeasyloansite.com).
-
-By participating in the Council of Better Business Bureau's BBBOnLine® Reliability Program, we have made a commitment to meet the program's strict requirements regarding how we treat your information and have our practices reviewed by BBBOnLine.
 
 Bills.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites www.bills.com and www.theeasyloansite.com . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
