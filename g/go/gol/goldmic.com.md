@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212193216id_/http%3A//goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605231243id_/http%3A//goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Goldmic: The Hip-Hop Network: Privacy Policy
 
@@ -7,6 +7,10 @@
 SECTION I
 
 **
+
+**Third Party**
+
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please [click here](https://web.archive.org/myaccount/all-preferences.cfm). http://www.doubleclick.com/privacy/index.aspx. 
 
 **Collection of Information**
 
