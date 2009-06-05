@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230141718id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605075632id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.co.uk
 
