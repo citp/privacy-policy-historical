@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043034id_/http%3A//99designs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606010959id_/http%3A//99designs.com/help/privacy) for the most accurate reproduction.*
 
 # 99designs » Privacy Policy
 
@@ -55,26 +55,4 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
 
-[99designs Pty Ltd](http://99designs.com/)
-
-Pref
-
-48 Cambridge Street
-
-Collingwood, VIC, 3066
-
-Australia
-
-Intl
-
-410 Townsend Street
-
-Suite 450
-
-San Francisco, CA, 94107
-
-USA
-
 You may [contact us](https://web.archive.org/contact) by email at contact@99designs.com
-  *[VIC]: Victoria
-  *[CA]: California
