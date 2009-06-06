@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101549id_/http%3A//getads.com/index-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606054624id_/http%3A//getads.com/index-5.html) for the most accurate reproduction.*
 
-# 
+# GetAds - Advertising Network, Affiliate Network and Business Solutions
 
 **GETADS, LLC, and each of its related web sites (** **** **GetAds** **** **) Privacy Policy**  
 Last updated September 26, 2007.    
