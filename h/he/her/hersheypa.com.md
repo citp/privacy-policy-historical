@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hersheypa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217214534id_/http%3A//www.hersheypa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheypa.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606030001id_/http%3A//www.hersheypa.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Hershey Entertainment & Resorts Company Privacy Policy
 
