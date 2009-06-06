@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallydev.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220172627id_/http%3A//www.rallydev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallydev.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607015038id_/http%3A//www.rallydev.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Rally Software Development
 
