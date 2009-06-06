@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pass4sure.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219165121id_/http%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pass4sure.com privacy policy that was archived on 2009-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090606145206id_/http%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,52 +8,79 @@
 <link href="css/right.css" rel="stylesheet" type="text/css">
 <link href="css/other.css" rel="stylesheet" type="text/css">
 <script type="text/JavaScript" src="/js/jquery.js"></script>
+<script type="text/JavaScript" src="/js/nav.js"></script>
 </head>
 
 <body>
 <div class="layout">
+<link rel="shortcut icon" href="/favicon.ico">
+<!--STARTheader-->
 <script type="text/javascript">
 function check(obj){
-	if(obj.searchvalue.value == ""){
+	if(obj.searchvalue.value == "" || obj.searchvalue.value == "Search"){
 		return false;
 	}
 }
 </script>
-<div id="top">
-	<div class="top_2">
-		<div class="logo"><a href="/"><img src="/images/logo_1.gif" border="0"></a></div>
-	  <div class="logo_title">The Worldwide Renowned<br> IT Certification Material Provider</div>
-		<div class="L_right">
-		  <div class="bookmark"><strong><img src="/images/shoppingcart_icon.gif"><a href="/shoppingcart/">Shopping Cart</a></strong>&nbsp;&nbsp;<strong><font color="#c20d06">0</font></strong> Items</div>
-		  <div class="search">
-		  <form name="searchform" id="searchform" action="/searchshow.php" method="post" onsubmit="return check(this);">
-		  	<dd class="t1"><input type="text" class="search_input" name="searchvalue" value=""></dd>
-			<dd class="t2"><input name="Submit" type="submit" class="search_submit" value="Search"></dd>
-		  </form>
-		  </div>
-	  </div>
-	</div>
-</div>
+<script type="text/JavaScript" src="/js/login.js"></script>
+  <div id="top">
+    <div class="topleft">
 
-<div id="nav">
-	<ul>
-		<li class="s1"><a href="/">Home</a></li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/allproducts.php">Products</a></li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/guarantee.php">Guarantee</a></li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/faqs.php">F.A.Q</a></li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="http://affiliate.pass4sure.com/">Affiliate</a> </li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/bundle/">Bundles</a> </li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/newslist.php">News</a></li>
-		<li class="s2"><img src="/images/nav_line.gif"></li>
-		<li class="s1"><a href="/membercenter/">User Center</a></li>
-	</ul>
-</div>
+    </div>
+    <div class="topright"><span id="login_dom"><a href="/login.php" rel="nofollow">Sign in or Register</a></span> | <a href="/membercenter/" rel="nofollow">My Account</a> | <a href="/contactus.php" rel="nofollow">Contact Us</a> | <a href="/shoppingcart/" class="nationicon" rel="nofollow">Shopping Cart</a></div>
+    <div class="logo"> 
+    <a href="/" title="The Worldwide Renowned IT Certification Material Provider"><img src="/images/logo.jpg" alt="pass4sure"></a>
+      <p>The World Renowned <br>IT Certification Material Provider</p>
+    </div>
+    <div class="toprbody">
+      <div class="secure">
+        <div style="margin-bottom:5px;">
+        </div></div>
+      <div class="toprin">
+        <div class="shopcart">&nbsp;</div>
+        <form name="searchform" id="searchform" action="/searchshow.php" onsubmit="return check(this);">
+          <p>
+            <input type="text" name="searchvalue" class="inputtext" value="Search" onblur="if(this.value=='')this.value='Search'" onfocus="if(this.value=='Search')this.value=''">
+            <input type="submit" value="" class="searchbtn">
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+  <!--ENDheader-->
+  <!--STARTmenu-->
+  <div class="menu">
+    <ul class="navlist">
+      <li><a href="/">Home</a></li>
+      <li><a href="/allproducts.php" id="nav_1">Products</a> </li>
+      <li><a href="/guarantee.php" id="nav_2">Guarantee</a> </li>
+      <li><a href="/faqs.php" id="nav_3">F.A.Q.</a> </li>
+      <li>
+      <a href="javascript:void(0);" id="nav_4" onmouseover="showMenu('nav_4','subnav4')">Sales <img class="newicon" src="/images/new_index.gif" width="15" height="5"></a>
+        <div class="subnav disable" id="subnav4">
+          <p class="pointer">.</p>
+          <p><span><a href="/freesales.php">Buy One,Get One Free</a> | <a href="/salespage.php">Microsoft Promotion</a> | <a href="/mall/">Pass4sure Mall</a></span></p>
+        </div>
+      </li>
+      <li><a href="javascript:void(0);" id="nav_5" onmouseover="showMenu('nav_5','subnav5')">Partner<img class="newicon" src="/images/new_index.gif" width="15" height="5"></a>
+        <div class="subnav disable" id="subnav5">
+          <p class="pointer">.</p>
+          <p><span> <a href="http://affiliate.pass4sure.com/">Affiliate</a> | <a href="/reseller.php">Reseller</a></span></p>
+        </div>
+      </li>
+      <li><a href="javascript:void(0);" id="nav_6" onmouseover="showMenu('nav_6','subnav6')">Hot Deals<img class="newicon" src="/images/new_index.gif" width="15" height="5"></a>
+        <div class="subnav disable" id="subnav6">
+          <p class="pointer">.</p>
+<p><span> <a href="/pass4surevip.php">VIP</a> | <a href="/bundle/">Bundles</a> | <a href="/hardcopyrule.php">HardCopy</a> | <a href="/E-magazine.html">IT Pioneer</a> | <a href="/points/">Points for gifts</a></span></p>
+        </div>
+      </li>
+      <li><a href="/membercenter/" id="nav_7">User Center</a>
+
+      </li>
+    </ul>
+  </div>
+  <!--ENDmenu-->
+
 
 
 <div id="mainbody">
@@ -109,102 +136,50 @@ For example, we request information from you when you:</p>
 
 
 	<div id="right">
-<script type="text/JavaScript" src="/js/login.js"></script>
-<div id="loginloadding"><img src="/images/loading.gif"></div>
-<!-- login div -->
-	<div id="login" style="display:none;">
-		<h4><img src="/images/login_dot.gif" width="20" height="21"></h4>
-		<h5> Account Login</h5>
-		<div class="wrong">
-		<img id="ajax-loader" style="display:none;" src="/images/ajax-loader.gif">
-		<font color="#cc0000" id="login_alert"></font>
-		</div>
-       <div class="text">
-			<ul>
-			<form name="loginform" id="loginform" method="post" onsubmit="return login();">
-			<li class="s1">Email:</li>
-			<li class="s2"><input name="useremail" id="useremail" type="text" class="login_input"></li>
-			<li class="s1">Password:</li>
-			<li class="s2"> <input name="password" id="password" type="password" class="login_input"></li>
-			<li>
-			  <input type="button" id="signup" class="login_botton" value="Sign up">
-			  &nbsp;&nbsp;
-			  <input type="submit" class="login_botton" value="Login">
-			</li>
-			<li class="s3"><a href="" name="forgot" id="forgot">Forgotten your password?</a></li>
-			</form>
-			</ul>
-		</div>
-	</div>
-<!--END login div-->
-<!--user_info -->
 <div class="br"></div>
-	<div id="user_info" style="display:none;">
-		<h4><img src="/images/login_dot.gif" width="20" height="21"></h4>
-		<h5> Account Login</h5>
-        <div class="text1">
-		Welcome <strong id="userfirstandlastname"></strong>  <br>
-    - <a href="/membercenter/">Visit User Center</a>  <br>
-    - <a href="" name="logout">Logout</a>
-    </div>
-	</div>
-<!--END user_info -->
+<div id="Shoppingcart" style="display:none;" class="Shoppingcart">
+  <script type="text/JavaScript" src="/js/shoppingcart.js"></script>
+  <div class="rtitle"><span class="ntl"></span>Shopping Cart<span class="ntr"></span></div>
+  <div class="wrong"> <img id="shopping-loader" style="display:none;" src="/images/ajax-loader.gif"> </div>
+  <div class="text" id="shopping_list">
+    <dl class="l3">
+      Total&nbsp;:&nbsp;$<span id="total_price"></span>
+    </dl>
+    <dl class="l4">
+      <a href="/shoppingcart/"><img src="/images/checkout.gif"></a>
+    </dl>
+  </div>
+</div>
 
-<!-- Start of StatCounter Code JUST LOGIN-->
-<script type="text/javascript">
-var sc_project=4111417;
-var sc_invisible=1;
-var sc_partition=49;
-var sc_click_stat=1;
-var sc_security="7b251540";
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<!-- End of StatCounter Code -->
-<div class="br"></div>
-		<div id="Shoppingcart" style="display:none;">
-		<script type="text/JavaScript" src="/js/shoppingcart.js"></script>
-		<h4><img src="/images/shopping_dot.gif" width="20" height="21"></h4>
-		<h5> Shopping Cart </h5>
-		<div class="wrong">
-		<img id="shopping-loader" style="display:none;" src="/images/ajax-loader.gif">
-		</div>
-		<div class="text" id="shopping_list">
-			<dl class="l3">Total&nbsp;:&nbsp;$<span id="total_price"></span></dl>
-			<dl class="l4"><a href="/shoppingcart/"><img src="/images/checkout.gif"></a></dl>
-	    </div>
-	</div>
 <script src="/files/right-live-chat.js" type="text/javascript"></script>
 
 <div class="br"></div>
-	<div id="vendors">
-		<div class="v_title">Most Popular Vendors</div>
-		<div class="v_text">
-			<ul>
-				<li class="v1"> <a href="/3COM-index.html" title="3COM">3COM</a></li>
-				<li class="v1"> <a href="/Adobe-index.html" title="Adobe">Adobe</a></li>
-				<li class="v1"> <a href="/Check-Point-Software-Technologies-index.html" title="Check Point Software Technologies">Check Point</a></li>
-				<li class="v1"> <a href="/Cisco-index.html" title="Cisco">Cisco</a></li>
-				<li class="v1"> <a href="/Citrix-index.html" title="Citrix">Citrix</a></li>
-				<li class="v1"> <a href="/CIW-index.html" title="CIW">CIW</a></li>
-				<li class="v1"> <a href="/CompTIA-index.html" title="CompTIA">CompTIA</a></li>
-				<li class="v1"> <a href="/CWNP-index.html" title="CWNP">CWNP</a></li>
-				<li class="v1"> <a href="/EC-Council-index.html" title="EC-Council">EC-Council</a></li>
-                <li class="v1"> <a href="/EMC-index.html" title="EMC">EMC</a></li>
-				<li class="v1"> <a href="/EXIN-Inc-index.html" title="EXIN,Inc">EXIN,Inc</a></li>
-				<li class="v1"> <a href="/HP-index.html" title="HP">HP</a></li>
-				<li class="v1"> <a href="/IBM-index.html" title="IBM">IBM</a></li>
-				<li class="v1"> <a href="/Juniper-index.html" title="Juniper">Juniper</a></li>
-				<li class="v1"> <a href="/Microsoft-index.html" title="Microsoft">Microsoft</a></li>
-				<li class="v1"> <a href="/Nortel-index.html" title="Nortel">Nortel</a></li>
-				<li class="v1"> <a href="/Novell--Inc-index.html" title="Novell, Inc">Novell, Inc</a></li>
-				<li class="v1"> <a href="/Oracle-index.html" title="Oracle">Oracle</a></li>
-				<li class="v1"> <a href="/SUN-index.html" title="SUN">SUN</a></li>
-				<li class="v1"> <a href="/VMware-index.html" title="VMware">VMware</a></li>
-			</ul>
-			<a href="/allproducts.php" target="_blank" title="View All Vendors" style="cursor:pointer;"><div class="more">&gt;&gt;&gt; View All  Vendors</div></a>
-		</div>
-	</div>
+      <div class="nav">
+        <div class="rtitle"><span class="ntl"></span>Most Popular Vendors<span class="ntr"></span></div>
+        <ul>
+          <li> <a href="/3COM-index.html" title="3COM">3COM</a></li>
+          <li> <a href="/Adobe-index.html" title="Adobe">Adobe</a></li>
+          <li> <a href="/Check-Point-Software-Technologies-index.html" title="Check Point Software Technologies">Check Point</a></li>
+          <li> <a href="/Cisco-index.html" title="Cisco">Cisco</a></li>
+          <li> <a href="/Citrix-index.html" title="Citrix">Citrix</a></li>
+          <li> <a href="/CIW-index.html" title="CIW">CIW</a></li>
+          <li> <a href="/CompTIA-index.html" title="CompTIA">CompTIA</a></li>
+          <li> <a href="/CWNP-index.html" title="CWNP">CWNP</a></li>
+          <li> <a href="/EC-Council-index.html" title="EC-Council">EC-Council</a></li>
+          <li> <a href="/EMC-index.html" title="EMC">EMC</a></li>
+          <li> <a href="/EXIN-Inc-index.html" title="EXIN,Inc">EXIN,Inc</a></li>
+          <li> <a href="/HP-index.html" title="HP">HP</a></li>
+          <li> <a href="/IBM-index.html" title="IBM">IBM</a></li>
+          <li> <a href="/Juniper-index.html" title="Juniper">Juniper</a></li>
+          <li> <a href="/Microsoft-index.html" title="Microsoft">Microsoft</a></li>
+          <li> <a href="/Nortel-index.html" title="Nortel">Nortel</a></li>
+          <li> <a href="/Novell--Inc-index.html" title="Novell, Inc">Novell, Inc</a></li>
+          <li> <a href="/Oracle-index.html" title="Oracle">Oracle</a></li>
+          <li> <a href="/SUN-index.html" title="SUN">SUN</a></li>
+          <li> <a href="/VMware-index.html" title="VMware">VMware</a></li>
+          <li> <a href="/allproducts.php" target="_blank" title="View All Vendors" class="more">&gt;&gt;&gt;View All  Vendors</a></li>
+        </ul>
+      </div>
 	<div class="br"></div>
 
 </div>
@@ -236,9 +211,20 @@ var sc_security="7b251540";
 	</div>
 	<div class="br"></div>
 	<div class="copyright">Any charges made through this site will appear as Free Tech Service LTD. All trademarks are the property of their respective owners.</div>
-	<div class="copyright">Copyright © 2001-2008 FREETECH SERVICES Ltd. All Rights Reserved.</div>
+	<div class="copyright">Copyright © 2001-2009 FREETECH SERVICES Ltd. All Rights Reserved.</div>
 	</div>
 </div>
+
+
+<!-- statking.net-->
+<script language="javascript">
+ var _PCSHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
+ var _PCSWebSite="100007";
+ var _PCSText="num1";
+ document.write(unescape("%3Cscript src='" + _PCSHost + "statking.net/stat/count/count.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.statking.net/stat/count/count.js" type="text/javascript"></script>
+<!-- /statking.net-->  
+
 <!-- Start of StatCounter Code -->
 <script type="text/javascript" language="javascript">
 var sc_project=2317615;
@@ -254,6 +240,16 @@ var sc_security="903c5278";
 <script type="text/javascript">_gos='c3.gostats.com';_goa=302547;
 _got=5;_goi=1;_goz=0;_gol='free hit counter javascript';_GoStatsRun();</script>
 <!-- End GoStats JavaScript Based Code -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-878286-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 <div class="br"></div>
 
