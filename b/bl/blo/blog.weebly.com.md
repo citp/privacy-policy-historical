@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072556id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606174141id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
 **What This Privacy Policy Covers**
 
-This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us," or "our") treats personal information that it collects and receives on www.weebly.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns. 
+This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us," or "our") treats personal information that it collects and receives on www.weebly.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
 **Information We Gather**
 
@@ -72,7 +72,7 @@ This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us
 
 **Changes to this Privacy Policy**
 
-Weebly may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Weebly account or by placing a prominent notice on our site. 
+Weebly may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Weebly account or by placing a prominent notice on our site.
 
 **Confidentiality and Security**
 
@@ -84,7 +84,7 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 
 
-If Weebly learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Weebly or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at info@weebly.com. 
+If Weebly learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Weebly or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at info@weebly.com.
 
 **Changing your Preferences and Personal Information**
 
