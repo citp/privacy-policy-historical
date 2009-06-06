@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121652id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606025745id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy / Infopackets.com
 
@@ -61,7 +61,3 @@ Policy updates:
     All updates to this policy will be posted here.
 
 * * *
-
-[ ](http://www.infopackets.com/news/software/reviews/2007/20070510_registrybooster_review.htm)
-
-[ ](http://www.infopackets.com/news/software/reviews/2007/20070403_speedupmypc_3_0_review.htm)
