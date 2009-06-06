@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061508id_/http%3A//www.getmarried.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606145947id_/http%3A//www.getmarried.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Get Married - Wedding Planning, TV, Brides & More
+# Get Married Privacy Policy
+
+  
+
 
 At www.getmarried.com, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us.  
 We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States.   
@@ -51,9 +54,9 @@ f. a statement by you, made under penalty of perjury, that the above information
 
 Claims of infringement should be mailed via certified mail, return receipt requested, to the following address:  
 Get Married Media, Inc.  
-3453 Holcomb Bridge Road  
-Suite 100  
-Norcross, GA 30092
+3980 Dekalb Technology Parkway  
+Building 700 Suite 700  
+Atlanta, GA 30340
 
 **Security**  
 We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors. 
@@ -64,5 +67,5 @@ The site may contain links to third-party websites, which may have privacy polic
 
   
 **Contact Us**  
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [privacy@getmarried.com](https://web.archive.org/web/20081216061508id_/http%3A//www.getmarried.com/privacy@getmarried.com). Please include "Question or Comment" in the subject line.  
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [privacy@getmarried.com](http://www.getmarried.com/privacy@getmarried.com). Please include "Question or Comment" in the subject line.   
 
