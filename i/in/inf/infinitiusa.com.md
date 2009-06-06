@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitiusa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040540id_/http%3A//www.infiniti.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitiusa.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606193307id_/http%3A//www.infinitiusa.com/global/privacy.html) for the most accurate reproduction.*
 
 # Infiniti Privacy & Legal - Infiniti USA
 
@@ -35,9 +35,9 @@ Infiniti advertising at other non-Infiniti sites may be serviced by Infiniti ser
 
 Users may choose to volunteer personal information (name, e-mail, address, phone number, etc.) in order for us to provide them with services such as brochure and information requests, surveys and contests, site announcements, and special offers at the time of the request or in the future.
 
-If you previously gave us your e-mail address and no longer wish to receive e-mail announcements, you can have your name removed from our e-mail list by sending an e-mail to [unsubscribe@Infiniti.com](mailto:unsubscribe@Infiniti.com), calling, or by sending regular mail (see contact information below). Infiniti does not sell or rent user information to any third parties. We share user information with our affiliates and retailers, and marketing partners contracted to do business on our behalf (e.g., brochure fulfillment). When the user signs up for certain services and offers on our site, we will share names or other contact information necessary for any associate third party to provide these services. Infiniti will share user information in accordance with the privacy policy in effect at the time the information is collected.
+If you previously gave us your e-mail address and no longer wish to receive e-mail announcements, you can have your name removed from our e-mail list by sending an e-mail to [unsubscribeUSA@Infiniti.com](mailto:unsubscribeUSA@Infiniti.com), calling, or by sending regular mail (see contact information below). Infiniti does not sell or rent user information to any third parties. We share user information with our affiliates and retailers, and marketing partners contracted to do business on our behalf (e.g., brochure fulfillment). When the user signs up for certain services and offers on our site, we will share names or other contact information necessary for any associate third party to provide these services. Infiniti will share user information in accordance with the privacy policy in effect at the time the information is collected.
 
-If a user's personal information changes, we will endeavor to provide a way to correct or update that user's personal data provided to us. This can be done by e-mailing [privacy@Infiniti.com](mailto:privacy@Infiniti.com) or by contacting Infiniti Consumer Affairs as outlined below.
+If a user's personal information changes, we will endeavor to provide a way to correct or update that user's personal data provided to us. This can be done by e-mailing [privacyUSA@Infiniti.com](mailto:privacyUSA@Infiniti.com) or by contacting Infiniti Consumer Affairs as outlined below.
 
 If a user elects to e-mail a friend from this Web site, a function available from the "Build Your Vehicle" page, we ask for the friend's e-mail address. Nissan North America, Inc. captures this information for the sole purpose of sending this one-time e-mail.
 
@@ -45,7 +45,7 @@ Infiniti takes all reasonable precautions to protect our users' information, bot
 
 When our credit pre-approval form asks users to enter sensitive information such as social security number, that information is encrypted and is protected with SSL 128-bit encryption software, an industry standard for reputable organizations. While on a secure page, such as our credit pre-approval application form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing." For more information on the Infiniti Financial Services (IFS) privacy notice, see "IFS Privacy Policy" below.
 
-Furthermore, once the information has been received by us, we use security procedures and policies commensurate with industry standards to safeguard against loss, theft, unauthorized access, destruction, use, modification and disclosure. If you have any questions about the security of our Web site, you can send an e-mail to [privacy@Infiniti.com](mailto:privacy@Infiniti.com).
+Furthermore, once the information has been received by us, we use security procedures and policies commensurate with industry standards to safeguard against loss, theft, unauthorized access, destruction, use, modification and disclosure. If you have any questions about the security of our Web site, you can send an e-mail to [privacyUSA@Infiniti.com](mailto:privacyUSA@Infiniti.com).
 
 This Web site contains links to other sites. Please be aware that Infiniti is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each Web site that collects personal information. This privacy statement applies solely to information collected by this Web site.
 
@@ -61,7 +61,7 @@ Infiniti does not knowingly allow anyone under the age of 13 to participate in a
 
 To contact Infiniti, click on the "Contact Us" link below or send mail to:  
 Infiniti Consumer Affairs  
-Attn: Infiniti.com Privacy  
+Attn: InfinitiUSA.com Privacy  
 P.O. Box 685003  
 Franklin TN 37068-5003  
 Or, during business hours, call 1-800-662-6200.
