@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananalotto.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218045828id_/http%3A//www.bananalotto.co.uk/mentions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananalotto.co.uk privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607003954id_/http%3A//bananalotto.co.uk/mentions.php) for the most accurate reproduction.*
 
 # Bananalotto - 100% free game - Win up to £100,000; !
 
