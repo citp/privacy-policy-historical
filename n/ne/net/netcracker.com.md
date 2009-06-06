@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919220750id_/http%3A//www.netcracker.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606071054id_/http%3A//netcracker.com/en/legal) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -77,4 +77,6 @@ NetCracker will undertake reasonable efforts to notify you of material changes t
 
 #### 9\. Contacting Us
 
-We value your opinions. If you have comments or questions about our privacy statement, please send them to [webmaster@netcracker.com](mailto:webmaster@netcracker.com).
+We value your opinions. If you have comments or questions about our Privacy Statement, please send them to [Webmaster@NetCracker.com](mailto:Webmaster@NetCracker.com).
+
+© 2008 NetCracker Technology Corp. All rights reserved.
