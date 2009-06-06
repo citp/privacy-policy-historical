@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095325id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606200800id_/http%3A//closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Closetmaid - Living Room/Home Office
+# Closetmaid - Main
 
 |  |   
 ---  
