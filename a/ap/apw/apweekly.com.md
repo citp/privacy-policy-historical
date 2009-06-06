@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apweekly.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610000526id_/http%3A//www.apweekly.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apweekly.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606235100id_/http%3A//www.apweekly.com/privacy/index.asp) for the most accurate reproduction.*
 
 # APweekly.com
 
