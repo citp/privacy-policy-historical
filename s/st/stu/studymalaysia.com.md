@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152419id_/http%3A//www.studymalaysia.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606085756id_/http%3A//www.studymalaysia.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # StudyMalaysia.com - Privacy
 
