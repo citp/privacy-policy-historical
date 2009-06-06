@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913201750id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607013654id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
 
 # CCCApply - Privacy Policy Statement
 
@@ -100,9 +100,6 @@ This privacy policy may be amended from time to time to reflect changes in CCCAp
 
 **QUESTIONS**  
 If you have any questions about this Privacy Policy and the privacy practices on this site, you may contact us at [privacy@xap.com](mailto:privacy@xap.com).   
-
-
-  
 
 
   
