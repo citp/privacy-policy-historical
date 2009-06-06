@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006061508id_/http%3A//www.directoryfood.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606021911id_/http%3A//directoryfood.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy, Food Directory, Food Safety, Beverages, Recipes, Nutrition, World Cuisines
+# Privacy Policy, Food Directory
 
-**DirectoryFood.com Privacy Statement**  
+DirectoryFood.com Privacy Statement  
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.directoryfood.com. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Log Files**  
@@ -21,4 +21,7 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@directoryfood.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+  
+
