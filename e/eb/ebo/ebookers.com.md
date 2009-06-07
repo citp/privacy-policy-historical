@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012409id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223313id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -159,15 +159,12 @@ If you consent as set out above, your Personal Information will be subject to We
 
 This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
 
+ **Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent. Such circumstances may include:**
+
   * To protect our Website and our rights under our website terms and conditions of use; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.
   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.
   * Where the information is public.
   * To our insurers and to regulatory agencies.
-
-
-
- **Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent. Such circumstances may include:**
-
   * If required to comply with an order or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records.
   * If we believe in good faith that a law, regulation, rule or guideline requires it.
   * To a person who needs the information because of an emergency that threatens the life, health, or security of an identifiable person or group.
@@ -265,12 +262,8 @@ We may change or supplement this Privacy Policy from time to time. We may also u
 
 If you have any questions or concerns about (a) access to Personal Information, (b) the collection, use, management or disclosure of Personal Information, or (c) this policy or our information handling practices, (d) with whom your Personal Information is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Legal department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them.
 
-Legal Department
-
-ebookers Limited
-
-140 Aldersgate Street
-
-London
-
+Legal Department  
+ebookers Limited  
+140 Aldersgate Street  
+London  
 EC1A 4HY
