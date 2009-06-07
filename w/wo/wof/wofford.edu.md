@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003122007id_/http%3A//www.wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofford.edu privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607112849id_/http%3A//wofford.edu/info/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Wofford College - Privacy Policy
 
