@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607012337id_/http%3A//gfmag.com/c_to/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608005917id_/http%3A//www.gfmag.com/c_to/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
