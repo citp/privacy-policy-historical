@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
 
 # NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
 
@@ -131,14 +131,14 @@ Web site: [www.nextstudent.com ](http://www.nextstudent.com/)
 
 > ### Quick Links
 > 
-> [**»** NextStudent FAQ](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
->  [**»** Customer Testimonials](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
->  [**»** Contact NextStudent](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
->  [**»** Corporate Overview](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
->  [**»** Investment Opportunities](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
->  [**»** Opportunities At NextStudent](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
->  [**»** Privacy](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
->  [**»** Terms Of Use](https://web.archive.org/web/20080911131559id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
+> [**»** NextStudent FAQ](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
+>  [**»** Customer Testimonials](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
+>  [**»** Contact NextStudent](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
+>  [**»** Corporate Overview](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
+>  [**»** Investment Opportunities](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
+>  [**»** Opportunities At NextStudent](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
+>  [**»** Privacy](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
+>  [**»** Terms Of Use](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
 
   
 
