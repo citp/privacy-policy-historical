@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011034id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607100046id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement: Discount Golf World
+
+Notice: We are unable to ship to addresses outside of the USA. [More Info](https://web.archive.org/service/international-shipping.php)
 
  Discount Golf World has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[DiscountGolfWorld.com](http://www.discountgolfworld.com/)**. 
 
@@ -40,8 +42,17 @@ This site gives users the following options for removing their information from 
 Questions? Call us toll-free 1-866-411-4349. 
 
   
+[](https://web.archive.org/brands/taylormade)| [](https://web.archive.org/brands/cleveland)| [](https://web.archive.org/brands/titleist)| [](https://web.archive.org/brands/nike)| [](https://web.archive.org/brands/bagboy)| [](https://web.archive.org/brands/callaway)| [](https://web.archive.org/brands/touredge) | [More...](https://web.archive.org/brand.php)  
+---|---|---|---|---|---|---|---  
   
-[ ](http://www.discountgolfworld.com/service/payment-options.html) |  [ ](http://www.bbbonline.org/cks.asp?id=1060307151215) |  [](https://www.scanalert.com/RatingVerify?ref=www.discountgolfworld.com) |  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |   
----|---|---|---|---  
   
+
+
+  * [Nike Womens Hat Clip and Ball Marker](http://www.discountgolfworld.com/products/nike/womens-hat-clip.html)
+  * [Nike Range Finder/Ball/Valuables Holder](http://www.discountgolfworld.com/products/nike/range-finder-ball-valuable-bag.html)
+  * [Nike Tiger Woods 1/2-Zip Dri-Fit Wind Sweater](http://www.discountgolfworld.com/products/nike/dri-fit-wind-sweater-336834.html)
+  * [Nike Club Flight Rolling Travel Bag](http://www.discountgolfworld.com/products/nike/club-flight-bag.html)
+  * [Club Glove Burst Proof](http://www.discountgolfworld.com/products/clubglove/cg-burst-proof.html)
+  * [Cleveland Backpack](http://www.discountgolfworld.com/products/cleveland/clev-backpack-08.html)
+
 
