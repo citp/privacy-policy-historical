@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219034953id_/http%3A//www.seo-scoop.com/about-seo-scoop/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607044656id_/http%3A//www.seo-scoop.com/about-seo-scoop/%23privacypolicy) for the most accurate reproduction.*
 
 # About SEO Scoop | SEO Scoop
 
