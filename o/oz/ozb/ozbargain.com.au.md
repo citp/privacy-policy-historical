@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014011id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607101543id_/http%3A//www.ozbargain.com.au/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - OzBargain
+# Privacy Policy « OzBargain
 
 **OzBargain** values our users and is 100% committed to protect your privacy. Since this is a growing website and Internet technologies are constantly evolving, our privacy policy is subject to change and any change will be reflected in this page. OzBargain is not responsible for the content or privacy policy of the websites it links it.
 
