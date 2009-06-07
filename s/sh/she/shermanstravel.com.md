@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064943id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607070654id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
 
 # Pages
 
@@ -91,10 +91,10 @@ Shermans Travel is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepe
 
 If you have any questions about our privacy policy contact us at [privacy@shermanstravel.com](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109; "Send email to: &#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109;"). 
 
-©2007 Shermans Travel, Inc.  
-255 W. 36th Street  
-15th Floor  
+©2009 Shermans Travel, Inc.  
+112 W. 34th St.  
+#2110  
 New York, NY  
-10018 
+10120 
 
-Last updated April 6, 2006
+Last updated April 22, 2009
