@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xfm.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020550id_/http%3A//www.xfm.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfm.co.uk privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223029id_/http%3A//www.xfm.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # XFM Privacy Policy - Xfm
 
-added 08 July 2003 at 20.50
+added 14 January 2009 at 10.42
 
  **Xfm is owned and operated by Global Radio UK Limited company registered in England and Wales under number 6251684 with its registered office at 30 Leicester Square, London WC2H 7LA ("Global Radio").   **
 
