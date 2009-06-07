@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102635id_/http%3A//www.good.is/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607203603id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
 
-# GOOD »
+# GOOD Privacy
 
 ### GOOD.is Privacy Policy
 
