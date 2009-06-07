@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2008-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080712183426id_/http%3A//ariba.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607042618id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# Ariba Web Site Privacy Statement
+# Ariba.com Privacy Statement
 
-  
-
-
-#### Ariba Web Site Privacy Statement
+**Ariba Web Site Privacy Statement**
 
 Effective July 17, 2007
 
