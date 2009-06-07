@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216124028id_/http%3A//acecashexpress.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607195358id_/http%3A//www.acecashexpress.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ACE Cash Express: Privacy Policy
 
-ARBITRATION PROVISION AND PRIVACY NOTICE
-
+  
 ARBITRATION PROVISION
 
 PLEASE READ THIS ARBITRATION PROVISION CAREFULLY. IT PROVIDES THAT, UPON THE ELECTION OF EITHER PARTY, ANY LEGAL DISPUTE BETWEEN THE PARTIES WILL BE RESOLVED BY BINDING ARBITRATION. IN ARBITRATION, A DISPUTE IS RESOLVED BY AN ARBITRATOR INSTEAD OF A JUDGE OR JURY. ARBITRATION PROCEDURES ARE SIMPLER AND MORE LIMITED THAN COURT PROCEDURES.
