@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201095632id_/http%3A//www.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeskier.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607092601id_/http%3A//www.freeskier.com/pages/privacyPolicy.php) for the most accurate reproduction.*
 
 # Freeskier Magazine: Privacy Policy
 
@@ -77,4 +77,5 @@ WARNING: Deactivating your account will result in the loss of access to Members-
 You also have the option of changing and modifying information previously provided. You can edit your Freeskier.com registered user information at anytime by visiting the Customer Service page.
 
 |  |    
+  
 
