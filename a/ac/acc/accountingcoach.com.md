@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201744id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607042354id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach.com
 
@@ -74,4 +74,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please ******[send us an email by using our contact form](https://web.archive.org/web/20081218201744id_/http%3A//www.accountingcoach.com/contact.html)**.
+Should you have other questions or concerns about these privacy policies, please ******[send us an email by using our contact form](https://web.archive.org/web/20090607042354id_/http%3A//www.accountingcoach.com/contact.html)**.
