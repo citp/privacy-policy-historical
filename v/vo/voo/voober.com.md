@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the voober.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607222000id_/http%3A//www.voober.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Watch Anime Online - Voober.com
+
+## Privacy Policy 
+
+Last Updated: **November 5, 2008** **Overview**  
+We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. **Children**  
+The Voober.com member area is not directed to children under the age of 13. Voober.com prohibits registration by, and Voober.com will not knowingly collect personally identifiable information from, anyone under 13. This requirement will be posted at points of data collection within Voober.com. **Use of Cookies**  
+On the Internet, a “cookie” is a piece of information (a file) that a Web site transfers to a user’s computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of Kumby.com involves cookies. We use cookies to recognize users who have already registered on Voober.com, allowing those users to speed up their future activities on the site. Cookies help Voober.com track the frequency and placement of advertisements. Cookies also enable us to measure aggregate (total) usage and traffic to Voober.com. This aids us in producing content that best meets our users’ preferences. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of Voober.com. Certain pages of Voober.com may contain electronic images (called a “single-pixel GIF” or “web beacon”) that allow a web site to count users who have visited that page. Voober.com may occasionally use web beacons in order to count users and to recognize registered users by accessing the Voober.com cookies. **Information Collection**  
+We may collect information from you in order for you to use our services. This can include, but is not limited to your name, email address, and Internet Protocol address. Aside from your name or chosen nickname, other information will not be publicly available to others. We do not promote nor send spam thus we will not redistribute your information to any third parties.
+
+We may collect cookies from your computer depending on your preferences. Cookies are plain text files that are stored on your computer generally used to serve to your convenience for future visits. This can prevent repeatedly performing tasks such as typing in your name or email address each time by saving this information for future use. You can stop accepting cookies by configuring the settings in your browser, however, you may not be able to fully use the website features.
+
+In addition, third party advertisements may also set or read cookies on your computer to collect information about users who view or interact with their advertisements. The actions of such parties and how they use such information is subject to the particular third parties privacy policy.
+
+ **Updating Personal Information**  
+Voober.com reserves the right to restrict access at will to users who are perceived as being detrimental to the community.
