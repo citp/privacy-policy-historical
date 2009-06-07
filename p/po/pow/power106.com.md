@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050405id_/http%3A//www.power106.com/station/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607233659id_/http%3A//www.power106.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# .::: Power 106 FM Where Hip-Hop Lives :::.
+# Power 106- Where Hip Hop Lives!
 
-Privacy Policy  
+* * *
+
 General KPWR-FM (POWER 106) and its affiliates respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information. This Privacy Policy supplements our general Terms of Use, which we also urge you to read. By using our Web site (the "Site"), you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately. 
 
   
