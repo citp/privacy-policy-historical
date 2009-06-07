@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070023id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607083325id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy
 
