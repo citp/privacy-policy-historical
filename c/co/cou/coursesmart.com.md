@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224021850id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608122815id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
 
 # CourseSmart - Privacy Policy
 
