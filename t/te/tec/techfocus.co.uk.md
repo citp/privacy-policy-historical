@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050938id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608212343id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
 
 # Creative Zen Accessories, iPod Accessories, iTrip MP3 FM Transmitters, TomTom Chargers UK - Techfocus
 
