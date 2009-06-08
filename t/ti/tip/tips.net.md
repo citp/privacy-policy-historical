@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230025737id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608115440id_/http%3A//www.tips.net/privacy.html) for the most accurate reproduction.*
 
 # Tips.Net: Privacy Policy
 
@@ -10,9 +10,9 @@ If at any time you would like to add or remove your name from any of our subscri
 
    
  **No Computer Tracking of Identifiable Information**  
-Our computer is not set up to track, collect or distribute personal information about visitors to this site. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by our staff.
+Our computers are not set up to track, collect or distribute personal information about visitors to this site. They do recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by our staff.
 
-Our computer also recognizes the site where a visitor linked to our site, but we cannot identify you, the visitor, or your address. Site information is used to verify the effectiveness of marketing efforts for our newsletters and products. It may also be used to advise interested parties of the number of visitors who come to our site from their sites. No personal information is collected.
+Our computers also recognize the site where a visitor linked to our site, but we cannot identify you, the visitor, or your address. Site information is used to verify the effectiveness of marketing efforts for our newsletters and products. It may also be used to advise interested parties of the number of visitors who come to our site from their sites. No personal information is collected.
 
 In addition, we track information about the visits to the various parts of our Web site. For example, we compile statistics that show the number of visitors to our site, the daily requests we receive for particular files on, and where those requests come from. These aggregated statistics are used internally to better provide services to our visitors and may also be provided to others. These statistics provide an overview of how visitors use our site, but contain no personal information and cannot be used to gather such information.
 
@@ -23,3 +23,7 @@ Personal information that you have entrusted to our care will not be released to
 There are no other circumstances under which we will provide or sell personal information to third parties, with one exception. If you provide us permission to share your e-mail address with others, we may do so, at our discretion. In this case, your address is stored in a "sharing list" that is separate and distinct from the newsletter subscription lists. You always have the opportunity to remove your name from our "sharing list," if you so request. We honor such requests promptly and fully.
 
 We will not share our newsletter subscription lists with others, period. We will not sell, distribute, post, copy, or otherwise disseminate your subscription e-mail address or other personal information to others.
+
+   
+ **Collection of Information by Third Parties**  
+The Tips.Net network relies on third parties to provide some of the advertising you see on our sites. Information collected by those third parties, if any, is covered by those parties' privacy policies and is beyond the ability of Tips.Net to monitor or control. For instance, some third parties may collect information about your browsing preferences or habits. That information is not collected or maintained by Sharon Parq Associates, Inc. Contact information for the third parties we use is availabe upon request to allen (at) sharonpart.com.
