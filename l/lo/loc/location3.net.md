@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the location3.net privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720160846id_/http%3A//www.location3.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the location3.net privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609011206id_/http%3A//location3.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Location3 Media, Inc. Privacy Policy
 
