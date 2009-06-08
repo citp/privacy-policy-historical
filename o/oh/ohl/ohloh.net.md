@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020829id_/http%3A//www.ohloh.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608054552id_/http%3A//www.ohloh.net/about/privacy) for the most accurate reproduction.*
 
 # Ohloh Corporation Privacy Policy
 
