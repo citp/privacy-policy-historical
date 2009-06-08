@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the puresolo.com privacy policy that was archived on 2008-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081021045748id_/http%3A//www.puresolo.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puresolo.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608083629id_/http%3A//www.puresolo.com/privacy) for the most accurate reproduction.*
 
-# PureSolo - Downloadable backing tracks, karaoke downloads & free karaoke software
+# Downloadable backing tracks, karaoke downloads & free karaoke software | PureSolo
 
 _Last Updated: Wednesday 6th August 2008_
 
 This Privacy Policy (the " **Privacy Policy** ") explains how and for what purposes we use the information we collect about you via our website www.puresolo.com (the " **Site** ") . Please read this Privacy Policy carefully. By using the Site and the Service we offer via the Site, you are agreeing to be bound by this Privacy Policy. 
 
-In this Privacy Policy, words defined in the Pure Solo Terms of Use ("[ **Terms of Use**](https://web.archive.org/pages/terms_and_conditions)") have the same meaning. 
+In this Privacy Policy, words defined in the [Pure Solo](https://web.archive.org/) Terms of Use ("[Terms of Use](https://web.archive.org/terms-and-conditions)") have the same meaning. 
 
 For the purpose of the Data Protection Act 1998 (the **"Act"** ), the data controller is Pure Solo Limited, incorporated in England and Wales with registration number 06107958 , whose registered office is at 83 Baker Street, London W1U 6AG, England (" **Pure Solo** " or " **we** "). 
 
@@ -89,7 +89,7 @@ We may disclose your Personal Data to third parties as follows:
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](https://web.archive.org/pages/contact_us). 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact-us). 
 
 ### YOUR PROFILE AND PRIVACY SETTINGS
 
@@ -99,7 +99,7 @@ Any information which you post in any public areas of the Site, such as weblogs,
 
 While you can choose to make your profile accessible to people who are not registered with the Site, we advise you to be cautious about sharing your personal information with people that you do not know, and if you choose do so you should make sure that your profile does not include any personal contact information. 
 
-You can change any details in your profile and adjust your privacy settings at any time. If you need any assistance with this, please [contact us](https://web.archive.org/pages/contact_us). 
+You can change any details in your profile and adjust your privacy settings at any time. If you need any assistance with this, please [contact us](https://web.archive.org/contact-us). 
 
 ### LINKS TO THIRD PARTY SITES
 
@@ -113,7 +113,7 @@ When we contact your friend, we always advise them of the name and email address
 
 ### CHILDREN
 
-If you are under 16 years old, you must let your parent or guardian know about this Privacy Policy and the [Terms of Use](https://web.archive.org/pages/terms_and_conditions), and they must give their consent for you to use the Service. 
+If you are under 16 years old, you must let your parent or guardian know about this Privacy Policy and the [Terms of Use](https://web.archive.org/terms-and-conditions), and they must give their consent for you to use the Service. 
 
 Otherwise you are not eligible to use the Service and must not attempt to register with the Site . 
 
@@ -121,7 +121,7 @@ If we become aware that we have collected any personal information from any pers
 
 ### CANCELLATION
 
-You may cancel your registration with the Site at any time by notifying us using the contact details given on the [contact us](https://web.archive.org/pages/contact_us) page on the Site. 
+You may cancel your registration with the Site at any time by notifying us using the contact details given on the [contact us](https://web.archive.org/contact-us) page on the Site. 
 
 When we receive notice of cancellation from you, we will endeavour to delete any of your Personal Data we hold as soon as possible, unless there is a legitimate reason for us to retain this information. 
 
@@ -135,4 +135,4 @@ This Privacy Policy is governed by English law and you and we agree to submit to
 
 ### CONTACT
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to us via the [contact us](https://web.archive.org/pages/contact_us) page. 
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to us via the [contact us](https://web.archive.org/contact-us) page. 
