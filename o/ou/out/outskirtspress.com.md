@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outskirtspress.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080409id_/http%3A//outskirtspress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outskirtspress.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608191957id_/http%3A//www.outskirtspress.com/privacy.html) for the most accurate reproduction.*
 
 # Outskirts Press - Privacy Policy
 
@@ -40,5 +40,7 @@ We limit employee and contractor access to your personal information. For exampl
 If you include any personal information in content that you save to your author webpage or include in your book, that information may be widely available to other users. Outskirts Press does not exercise control over those users and cannot guarantee that your personal information will be protected as described in this Privacy Policy. Outskirts Press does not delete or edit your personal information from any content you provide. If you do not want your personal information to be displayed, then only include it in the Author Profile section of your author's center.
 
 Outside of what is described above, Outskirts Press does not share your personal information with other people or nonaffiliated companies, although we may need to disclose your personal information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise required by law. Additionally, we may need to disclose your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our production and distribution agreement. Lastly, we would need to share your personal information in the event Outskirts Press is acquired by or merged with another company.
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
 This policy does not apply to the practices of companies that Outskirts Press, Inc. does not own or control, nor to people that Outskirts Press does not employ.
