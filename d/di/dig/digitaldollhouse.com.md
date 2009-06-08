@@ -1,40 +1,82 @@
-> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612102351id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608120828id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Digital Dollhouse
 
-In the course of serving its customers, Verio acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Verio by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Verio in the normal course of providing service. Verio also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, Verio uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within Verio. In addition, Verio may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
+Digital Playspace, Inc. owns, produces, operates, and maintains DigitalDollhouse.com (“Digital Dollhouse” “the site” “we”). Digital Dollhouse cares about the privacy and safety of all of our users. Before visiting the site or submitting any personal information, please read this Privacy Policy with your parents/child. If you have any privacy-related questions, please contact us at:
 
-This Privacy Policy applies only to Verio's treatment of data collected online, and does not apply to any offline data collection practices or to the data collection practices of any third parties, Verio customers, or any entities affiliated with Verio. Also, please note that use of Verio's website constitutes acceptance of this Privacy Policy. 
+Digital Playspace, Inc.  
+1217 North Bellevue  
+Los Angeles, CA 90026  
+Phone: 213.580.1479  
+Fax: 413.294.1430  
+Email: privacy@digitaldollhouse.com  
+This email address is only for privacy-related questions.
 
-Verio's policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, Verio's policies and procedures are subject to change. Changes will be posted to the website and use of Verio�s website will constitute acceptance of and agreement to be bound by those changes. 
+## Effective Date
 
-**Data Security**
+Digital Dollhouse last updated this Privacy Policy on **April 7, 2009**. The Privacy Policy applies to all information the site previously obtained. Digital Dollhouse reserves the right to change its Privacy Policy at its sole discretion. By continuing to use this site and/or providing to us personal information, you accept and will be subject to the revised Privacy Policy. Digital Dollhouse will inform users of any such changes by posting a new Privacy Policy on this site. If Digital Dollhouse revises our data collection, use, and/or disclosure practices in a manner that requires notice and/or verifiable parental consent, we will do so in accordance with the Children’s Online Privacy Protection Act (COPPA).
 
-Verio protects the confidentiality of its customers' information, account information and personal communications. To secure the information collected online, prevent unauthorized access, maintain data accuracy and ensure only appropriate use of information that is collected from customers, Verio has implemented appropriate physical, electronic, and managerial procedures. Further, Verio requires that employees keep customer information confidential. Verio cautions its customers and website visitors that no medium of communication, including the Internet, is entirely secure. Accordingly, Verio cannot be responsible for loss, corruption or unauthorized acquisition and use of personal information provided to our website, or for any damages resulting from such loss, corruption, unauthorized acquisition or unauthorized use. 
+Visit [Protecting Kid’s Privacy](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information on COPPA and children’s privacy.
 
-**How is customer information used?**
+## Privo’s Privacy Assurance Program
 
-Verio may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. Verio may also use customer information to provide its customers with system information or information about new or upgraded products. In addition, Verio may collect and share non personally identifiable information (such as website usage information) from visitors to its web sites with third-party companies for various purposes such as statistical analysis, performance optimization and promotional uses. In the case of a business transaction, including but not limited to, a merger or sale of a portion of Verio's assets, customer information will likely be part of the assets transferred. In this event, Verio will attempt to notify impacted customers that their information has been transferred. 
+[](http://www.privo.com/digitaldollhouse.htm)
 
-**Opt Out & Modifications **
-
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20080612102351id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio that is essential for maintaining or updating customers' accounts or system information. 
-
-Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate Verio Billing organization. 
-
-Domain name customers who have registered a domain name with Verio and wish to change the Technical Contact from Verio to another company, may send a request to [veriohostmaster@verio.net](mailto:veriohostmaster@verio.net). It is important to note that customer domain name registration information is made publicly available in the registry of domain names. 
-
-**Disclosure of customer information and communications**
-
-Verio will not otherwise disclose its customers' personal and account information unless Verio has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio's customers, or others, or where Verio has a good faith belief that the law requires such disclosure such as in response to legal process seeking disclosure of such information. Verio also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
-
-  1. it is necessary in order to provide service to the customer; 
-  2. it is necessary to protect the legitimate interests of Verio and its customers; 
-  3. it is required to cooperate with interception orders, warrants, or other legal process that Verio determines in its sole discretion to be valid and enforceable; and 
-  4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Verio and appear to pertain to the commission of a crime. 
+Digital Dollhouse is a participant in the Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Digital Dollhouse adheres to the strict information collection, use, and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Digital Dollhouse has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 213.580.1479 or privacy@digitaldollhouse.com. If you have further concerns after you have contacted Digital Dollhouse, you can contact Privo directly at privacy@privo.com.  
 
 
+## Information Collection and Use
 
-Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio, however, review, delete or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio's [Acceptable Use Policy](http://dev.portal.verio.com/about/legal/aup.cfm). 
+Digital Dollhouse does not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. Below is a description of how Digital Dollhouse collects and uses information from users.
 
-Last revised June 2007 
+### Registration
+
+In order to create an account, Digital Dollhouse requires users to provide a Member Name (not their real name), the parent’s email address, and a password. Digital Dollhouse collects the parents’ email addresses primarily for our automated account activation and password retrieval systems and may use it to verify parental consent of children to use the site. We retain the right to communicate safety and privacy messages, general updates, and usability features via email. For special reasons, we may also send marketing materials. 
+
+### Purchasing Subscriptions, ddCoins, or Gifts
+
+In order to purchase a subscriptions or Digital Dollhouse Coins (ddCoins), Digital Dollhouse requires purchasers to provide first name, last name, street address, city, state, country, and postal code along with valid credit card number and owner’s name. 
+
+### Invite-A-Friend
+
+Digital Dollhouse members that are signed-in can invite friends who aren’t members to join by submitting the friends’ email addresses. Digital Dollhouse neither collects the member or recipient’s name nor allows member to freely type any information in the email message. Digital Dollhouse deletes the recipient’s email address after sending the invitation email.
+
+### FAQ 
+
+Digital Dollhouse allows users to submit questions to Digital Dollhouse at its FAQ page. Digital Dollhouse requires the user to provide a name, email address, subject, and the question’s content. Digital Dollhouse collects this information for the sole purpose of responding directly, on a one-time basis, to the specific question. Digital Dollhouse does not use the information to re-contact the user after the initial response and subsequently deletes the personal information. 
+
+### Contact Us  
+
+
+Digital Dollhouse allows users to submit feedback and questions to Digital Dollhouse at its Contact Us page. Digital Dollhouse requires the user to provide a name, email address, subject, and the feedback or question’s content. Digital Dollhouse collects this information for the sole purpose of responding directly, on a one-time basis, to the specific feedback or question. Digital Dollhouse does not use the information to re-contact the user after the initial response and subsequently deletes the personal information.
+
+### Cookies  
+
+
+Digital Dollhouse uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor's use of this web site to personal information that a visitor has provided, such as an email address, we do not use them for this purpose. We do use "cookies" to determine how many visitors we have and how often they visit various sections of our site.
+
+### Web Visit Logs
+
+Digital Dollhouse may collect information about users through technology to make our web site more interesting and useful to you. We routinely collect our users' visit information including pages visited on the site, the date and time of the visit, IP address, and the version of browser used. We use this information for improving our content and services and for investigating cases of suspected abuse.  
+
+
+## Third Parties
+
+Digital Dollhouse does not share any personally identifiable information of our users with any third parties, commercial or otherwise, except that we may provide such information to parties involved in a merger, consolidation or other reorganization of Digital Dollhouse or to a party that purchases substantially all of our assets related to the site. We may, however, also comply with requests for personally identifiable information from law enforcement or other governmental agencies, or requested pursuant to appropriate legal process.  
+
+
+## Parental Rights
+
+Parents can review their child’s personal information, have it deleted, and refuse to allow the further collection or use of the child’s information. Digital Dollhouse allows parents to manage all of the aspects of the child’s membership in the Parents Dashboard. At the Parents Dashboard, parents can edit the child’s profile; cancel or update the child’s subscription; manage orders; view the amount of their ddCoins; add ddCoins to the child’s account; and view the child’s friends list. In order to access this information, the parent must provide the child’s member name and password. If the parent has forgotten the password, the parent can send a request for the password here. Digital Dollhouse will then send to the current parent email address a message containing a link that will allow the parent to log in and change the account password. The link works only once and expires after one day. Nothing will happen if it's not used. Parents can also request to review their child’s personal information, have it deleted, and refuse to allow the further collection or use of the child’s information by contacting Digital Dollhouse by phone, fax, email, or in writing at the address listed below. Please be sure to include your email address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the information that we collect and maintain about your child. Please note that this may require that we cancel and delete your child's account.  
+
+
+## Your California Privacy Rights
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of our users' personal information to third parties for their direct marketing purposes. To make such a request, please send an email or write us:
+
+Digital Playspace, Inc.  
+1217 North Bellevue  
+Los Angeles, CA 90026  
+Phone: 213.580.1479  
+Fax: 413.294.1430  
+Email: privacy@digitaldollhouse.com
