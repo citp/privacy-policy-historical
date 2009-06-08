@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2008-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081008005520id_/http%3A//scnet.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608205928id_/http%3A//scnet.net/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | servercentral
+# Privacy Policy | ServerCentral: Colocation and Managed Data Center Solutions
 
 ### Privacy Policy
 
@@ -27,7 +27,7 @@ Your email address may be entered to receive ServerCentral's electronic newslett
 ServerCentral will not sell or otherwise provide the information we collect to outside third parties for the purpose of direct or indirect mass email marketing. ServerCentral will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:  
 1\. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on ServerCentral,  
 2\. Protect and defend the rights or property of ServerCentral sites and related properties, or visitors to the ServerCentral sites and related properties,  
-3\. Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the MedSource Network or its related properties,
+3\. Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the ServerCentral Network or its related properties,
 
 ## What safeguards are in place?
 
