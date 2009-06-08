@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011247id_/http%3A//www.tmzhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608033123id_/http%3A//tmzhosting.com/privacy.php) for the most accurate reproduction.*
 
-# TMZHosting - Reliable & Affordable cPanel Web Hosting, Fantastico and SiteBuilder
+# Web Hosting, Reseller Hosting, Proxy Hosting, VPS and Dedicated Hosting with cPanel - TmzHosting
 
 ## Privacy Policy  
 Last Edited on: 10/6/2008
