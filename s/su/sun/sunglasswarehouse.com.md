@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917132816id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasswarehouse.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608084542id_/http%3A//www.sunglasswarehouse.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy | SunglassWarehouse.com
 
 The Site ("sunglasswarehouse.com") is owned and operated by One Click Internet Ventures, LLC. We have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
-
-**Hosted by Yahoo! Store**  
-This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information. 
 
 **Collection of Data**  
 This Site does not collect identity or contact information from Internet Users to this website. This site may however, collect non-personally identifiable information, for example, browser type, operating system, domain name, time spent on the web site, or referring link. This information may be used for system, website, and process improvements. 
