@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014249id_/http%3A//www.extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608184354id_/http%3A//www.extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Extreme Science Privacy Policy
 
@@ -9,6 +9,15 @@ Extreme Science collects data on website visitors who register for our opt-in ne
 
 **Use of Cookies**   
 Cookies are small text files placed on your computer's hard drive that enable websites to recognize repeat visitors. If you use the shopping cart in the Extreme Science Webstore, a cookie will be placed on your computer to "remember" the contents of your shopping cart.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+**Third-Party Advertisements**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 **Log Files**   
 Our server has a log file that tracks user sessions, i.e page views and downloaded files (for example, free wallpaper and calendar). We maintain these log files solely for our own internal purposes. Log files are not shared with third parties. 
