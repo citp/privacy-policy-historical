@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212125014id_/http%3A//www.fullhyd.com/htdocs/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhyderabad.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608063952id_/http%3A//www.fullhyderabad.com/articles/15) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - fullhyd.com
 
-This site is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to: 
+This site (including the URLs fullhyd.com, fullhyderabad.com, fullhyd.in, fullhyderabad.in and fullhydblogs.com) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to: 
 
 1\. feel comfortable using our web sites  
 2\. feel secure submitting information to us  
@@ -11,7 +11,7 @@ This site is the responsibility of LRR Technologies (Hyderabad) Private Limited.
 
 **WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
 
-We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from "cookies", sent to your browser from a
+We may collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies", sent to your browser from a
 
 1\. web server and stored on your hard drive   
 2\. an IP address, assigned to the computer which you use   
@@ -89,7 +89,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 **IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK?**
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit this link: http://www.maxonline.com/privacy_policy/index.php
+We use Google, CareerBuilder and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
@@ -97,8 +97,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 To correct or update any information you have provided, our sites give you the following options for changing: 
 
-Send an e-mail to webmaster at fullhyd dot com  
-Call the following telephone number: +91 (40) 55665175
+Send an e-mail to webmaster at fullhyd dot com
 
 **POLICY UPDATES**
 
