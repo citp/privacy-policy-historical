@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054040id_/http%3A//www.maxthon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608025750id_/http%3A//www.maxthon.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Maxthon Browser
 
@@ -28,4 +28,4 @@ We do not use or disclose information about your individual visits to Maxthon or
 
 If we decide to change our privacy policy for Maxthon, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
 
-If you have questions or concerns regarding this statement, you can [Contact Us](https://web.archive.org/web/20081217054040id_/http%3A//www.maxthon.com/about.htm#contact). 
+If you have questions or concerns regarding this statement, you can [Contact Us](https://web.archive.org/web/20090608025750id_/http%3A//www.maxthon.com/about.htm#contact). 
