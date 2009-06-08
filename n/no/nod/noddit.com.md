@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229055823id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noddit.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608083741id_/http%3A//www.noddit.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noddit
 
@@ -18,7 +18,7 @@ We have features where you can submit information to us (for example contacting 
 When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, IP address (IP address is a number that is used by computers on the network to identify your computer so that data such as the web pages you request can be sent to you. ) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law. 
 
 What About Cookies?  
-A "cookie" is a small text file that an Internet site can place on your computer's hard drive for record-keeping purposes. Cookies can recognize your browser. As this site contains advertisements like Google Adsense, they may use cookies also. 
+A "cookie" is a small text file that an Internet site can place on your computer's hard drive for record-keeping purposes. Cookies can recognize your browser. As this site contains advertisements like Google Adsense, they may use cookies also. Google also uses DART cookie to display ads based on your visit to this site and other sites on the internet. You can opt out of DART cookie by visiting [this url](http://www.google.com/privacy_ads.html)
 
 **WITH WHOM WE SHARE YOUR INFORMATION**  
 Noddit will not sell or rent your personally identifiable information to third parties. Noddit may disclose personally identifiable information about you to third parties when: a). We have your consent to share the information b). We have to cooperate with the investigations of purported unlawful activities c). we respond to subpoenas, court orders in compliance with the legal process. d). when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
