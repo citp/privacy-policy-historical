@@ -1,149 +1,133 @@
-> *The following text is extracted and transformed from the professionaltravelguide.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professionaltravelguide.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608232213id_/http%3A//www.professionaltravelguide.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Professional Travel Guide
 
-#### Find Answers To Your Questions:
+**Professional Travel Guide, LLC**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+**Internet Privacy Policy**  
 
-### Privacy Policy
+**UPDATED AND REVISED AS OF October 10, 2007**
 
-**Why A Privacy Policy?**  
+Professional Travel Guide, LLC publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and the other PROFESSIONAL TRAVEL GUIDE-affiliated websites. This policy is not applicable to information gathered by other methods or controlled by other agreements.  
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+**How We Collect Information**  
 
- **This Privacy Policy protects your privacy by:**
+PROFESSIONAL TRAVEL GUIDE collects personal information in a variety of ways, including when you register with PROFESSIONAL TRAVEL GUIDE on this website, when you subscribe to PROFESSIONAL TRAVEL GUIDE services through this website, when you use PROFESSIONAL TRAVEL GUIDE products or services via the website, when you visit PROFESSIONAL TRAVEL GUIDE websites or the websites of certain PROFESSIONAL TRAVEL GUIDE partners, and when you enter Internet-based promotions or sweepstakes sponsored or administered by PROFESSIONAL TRAVEL GUIDE. 
 
- **Informing you about:**
+**User Registration**  
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your business’s assets or income. Once you register with PROFESSIONAL TRAVEL GUIDE and sign in to our services, you are not anonymous to us. 
 
+**e-letters**  
 
+Users may elect to participate in a variety of PROFESSIONAL TRAVEL GUIDE e-letters (email services), ranging from daily news to supplier hot specials. PROFESSIONAL TRAVEL GUIDE collects personal information in connection with the registration for and use of such services. 
 
-**Empowering you to choose:**
+**Contests**  
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Users may elect to participate in promotions and/or promotional contests that PROFESSIONAL TRAVEL GUIDE conducts from time to time on behalf of its clients. PROFESSIONAL TRAVEL GUIDE collects personal information in connection with user registration for and participation in such promotions and contests.    
 
+**Educational Programs and Seminars**  
 
+Users may elect to participate in educational programs and seminars that PROFESSIONAL TRAVEL GUIDE conducts from time to time. PROFESSIONAL TRAVEL GUIDE collects personal information in connection with user registration for and participation in such programs.    
 
-**Assuring you that Network Solutions:**
+**Cookies**  
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. PROFESSIONAL TRAVEL GUIDE or its advertisers may send a cookie to your computer through your browser. PROFESSIONAL TRAVEL GUIDE uses cookies to track page requests and the duration of each user’s visit and the use of cookies allows us to provide a user’s browser with information tailored to the visitor’s preferences and needs and to also streamline the user’s visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended.  
 
+**IP Addresses**  
 
+PROFESSIONAL TRAVEL GUIDE automatically receives and records information on our server logs from your browser, including your IP address, PROFESSIONAL TRAVEL GUIDE cookie information, and the website page you request. PROFESSIONAL TRAVEL GUIDE uses this information to help diagnose problems with our servers, for system administration, and to examine our website traffic in aggregate.  The information may be collected and used to improve the content of our Web pages and to customize content and/or layout for each user.    
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+**Purchases**  
 
-  
-**Third Party Advertising and Cookies**
+If you are purchasing something from a PROFESSIONAL TRAVEL GUIDE website, we need to know personally identifiable information such as your name, email address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by PROFESSIONAL TRAVEL GUIDE to notify you of related products and services. Credit card information will not be shared or sold to unaffiliated third parties for any purpose without your express permission, except as necessary to process the transaction.  
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+**Use of Information**  
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+If you elect to provide us personal information, we use it primarily to deliver the service you requested. PROFESSIONAL TRAVEL GUIDE may use personal information in a variety of ways including the following: 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+o        PROFESSIONAL TRAVEL GUIDE may use personal information to collected through its website to send out targeted email promotions on behalf of its advertisers and industry partners. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+o        PROFESSIONAL TRAVEL GUIDE may combine information about you that we have with information we obtain from business partners or other companies in order to better deliver products and services that may be of interest and benefit to you. 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+o        PROFESSIONAL TRAVEL GUIDE may use personal information to contact users regarding renewing subscriptions to PROFESSIONAL TRAVEL GUIDE services and products. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+o        PROFESSIONAL TRAVEL GUIDE may use personally identifiable information to send notification of PROFESSIONAL TRAVEL GUIDE’s or our partners’ products and services by such methods as email and/or postal mail. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+o        If you provide financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, subscriptions, etc. 
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+o        PROFESSIONAL TRAVEL GUIDE may send product announcements or special edition e-letters to online registrants. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+o        If you participate in an PROFESSIONAL TRAVEL GUIDE educational program, seminar, or other time-sensitive program, we may contact you to remind you of upcoming deadlines or additional information concerning these programs. 
 
- **Getting to Know Our Customers**
+o        PROFESSIONAL TRAVEL GUIDE occasionally conducts subscriber and/or user surveys to better target our content to our audiences. The aggregated information collected is sometimes shared with our advertisers, however, we will do not share specific individual information with a third-party. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+o        PROFESSIONAL TRAVEL GUIDE operates several websites featuring its travel-related content and services. PROFESSIONAL TRAVEL GUIDE may share personal information collected from users of its websites internally across these websites to better serve its users.  
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+PROFESSIONAL TRAVEL GUIDE has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in PROFESSIONAL TRAVEL GUIDE services and promotions, PROFESSIONAL TRAVEL GUIDE provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from PROFESSIONAL TRAVEL GUIDE provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact [registration@ptgemail.com](mailto:registration@ptgemail.com).
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+From time to time we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website. 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+**Sharing of Information Collected With Third Parties**  
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+In general, PROFESSIONAL TRAVEL GUIDE does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances:  
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+o        We may provide personal information about our users to trusted partners and vendors who work on behalf of or with PROFESSIONAL TRAVEL GUIDE under confidentiality and similar agreements prohibiting such parties’ further use of the information. These companies may use your personal information to help PROFESSIONAL TRAVEL GUIDE communicate with you about offers from PROFESSIONAL TRAVEL GUIDE and our marketing partners. However, these companies do not have any independent right to use or share this information. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+o        When you register for an educational program, contest, or other promotion that is sponsored by a third party, the third party will be provided personally identifiable information unless otherwise posted in connection with the promotion.  
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+o        PROFESSIONAL TRAVEL GUIDE may from time to time share personal information such as email addresses with trusted third parties who deliver content that is likely to be of interest to the user and subject to opt-out obligation on the part of such third party. 
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+o        We may share personal information where we have a good faith belief that such action is necessary to comply with a judicial proceeding, a court order, or legal process served on PROFESSIONAL TRAVEL GUIDE, or to establish or exercise our legal rights or defend against legal claims. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+o        We may share such information where we have a good faith belief that it is necessary in order to investigate (or assist in the investigation of), prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of PROFESSIONAL TRAVEL GUIDE's terms of use, or as otherwise required by law.  
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+o        If PROFESSIONAL TRAVEL GUIDE is acquired by or merged with another company, we will transfer information about you to this other company in connection with the acquisition or merger. 
 
-b. Click “Edit User Info” in the left menu;
+**Discussion Groups**  
 
-c. Scroll to the bottom of the page;
+Email discussion groups are available for our users on some of our websites. Participants should be aware that information disclosed in these discussion lists is made available to all members and thus becomes public information. We suggest that you exercise caution when deciding to disclose any personal information in such discussion groups. 
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+**Security**  
 
-e. Click “SAVE.”
+This website takes commercially reasonable precautions to protect your personal information.  When we transfer and receive certain types of sensitive information such as credit card and payment information, we re-direct users to industry standard SSL (Secure Socket Layer) encrypted servers. As a result, sensitive data you submit to our website such as credit card and payment information is transmitted securely over the Internet. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+**Disclaimers**  
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+PROFESSIONAL TRAVEL GUIDE is not responsible for any breach of security or for any actions of any third parties that receive the information. PROFESSIONAL TRAVEL GUIDE also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+**About Children's Privacy**  
 
-b. Click “Edit User Info” in the left menu;
+This PROFESSIONAL TRAVEL GUIDE website is not intended for use by children and PROFESSIONAL TRAVEL GUIDE does not knowingly collect information from children. You must be 18 years old to access or use this site. 
 
-c. Scroll to the bottom of the page;
+**Update/Change Your Data**  
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+To update your email address or change your email preferences please contact [registration@ptgemail.com](mailto:registration@ptgemail.com). 
 
-e. Click “SAVE.” 
+**Changes to this Privacy Policy**  
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+PROFESSIONAL TRAVEL GUIDE reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the website.  Any such change, update or modification will be effective immediately upon positing on the website.  Users will be informed of changes to this Privacy Policy via the “updated as of” link on the PROFESSIONAL TRAVEL GUIDE website.   
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+**What Else Should I Know About My Privacy When Online?**  
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+The PROFESSIONAL TRAVEL GUIDE website contains many hyperlinks to other websites. The PROFESSIONAL TRAVEL GUIDE website also contains advertisements of third parties. PROFESSIONAL TRAVEL GUIDE is not responsible for the privacy practices or the content of such third party websites or advertisers. PROFESSIONAL TRAVEL GUIDE does not share any of the individual personal information you provide PROFESSIONAL TRAVEL GUIDE with the websites to which PROFESSIONAL TRAVEL GUIDE links, except as stated elsewhere within this Privacy Policy, although PROFESSIONAL TRAVEL GUIDE may share aggregate data with such websites (such as how many people use our Site).  
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+Please check with those third party sites to determine their privacy policy. When PROFESSIONAL TRAVEL GUIDE embeds third party content into one of it's PROFESSIONAL TRAVEL GUIDE web pages, PROFESSIONAL TRAVEL GUIDE will use reasonable efforts to advise our users that they have exited an PROFESSIONAL TRAVEL GUIDE operated website and are entering a third party controlled website. Customers/users should read and understand any privacy policy noted on all third party websites. 
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through email, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.  
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.  
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+**Your California Privacy Rights**  
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+Under a provision of California law, a California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.  
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+To the extent an California resident using this Site for personal, family, or household purposes seeks information covered the law, this Site qualifies for the alternative option. As stated in our Privacy Policy, users of the Site may opt-out or opt-in to the use of your personal information by third parties. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information during the preceding year for marketing purposes. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on the Site. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+California residents who utilize this Site for personal, family, or household purposes may request further information about our compliance with this law by e-mailing [registration@ptgemail.com](mailto:registration@ptgemail.com). You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address. 
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+**Your Consent To This Policy**  
+
+By using our website, you consent to the collection and use of information by PROFESSIONAL TRAVEL GUIDE as specified in this policy.  Please also note that your use of the website is governed by the PROFESSIONAL TRAVEL GUIDE Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services.   
+
+Please send any questions about PROFESSIONAL TRAVEL GUIDE's Privacy Policy to [registration@ptgemail.com](mailto:registration@ptgemail.com).
