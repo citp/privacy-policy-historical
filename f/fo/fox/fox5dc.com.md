@@ -1,111 +1,71 @@
-> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2006-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060701170942id_/http%3A//www.fox5dc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608051607id_/http%3A//www.myfoxdc.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
-# fox5dc.COM | FOX5 - WTTG
+# Privacy_Policy
 
-FOX 5, a unit of Fox Television Stations, Inc. ("Fox"), is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. FOX 5 has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
+Effective as of January 1, 2009 
 
-From time to time FOX 5 may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.
+MyFoxDC.com operates the Internet web site located at www.MyFoxDC.com (the "MyFoxDC.com Web site" or the "Site"). MyFoxDC.com is part of the News America Group, which has adopted a set of Privacy Principles available at <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. MyFoxDC.com has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") such as your full name, email address, mailing address, telephone number or credit card number we obtain from users of our Site. This Privacy Policy applies to the services offered by MyFoxDC.com, including the Site, FoxHiLites, the MyFoxDC.com mobile services and any other features, content, or applications offered from time to time by MyFoxDC.com in connection with the Site (collectively, the "Services"). 
 
-**__**_
+The MyFoxDC.com Web site is a general audience site and MyFoxDC.com does not knowingly collect PII from children under 13 years of age. 
 
-**COLLECTION:** COLLECTION **** OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FOX 5
+From time to time MyFoxDC.com may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the Services, or technology. Your continued use of the Services after MyFoxDC.com posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If MyFoxDC.com materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. 
 
-_
+**COLLECTION: COLLECTION OF PII BY MYFOXDC.COM**
 
-_General_. FOX 5 **** collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services, or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
+General. When MyFoxDC.com collects PII from you it is because you are voluntarily submitting the PII to us in order to register for the MyFoxDC.com Web site. MyFoxDC.com may also collect PII from you if you choose to participate in MyFoxDC.com's activities like sweepstakes, contests, games, and surveys or because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to MyFoxDC.com for review. Registration PII required includes email address along with screen name and password. Other information including birth date, gender, country and zip code are optional. We may also obtain PII from reputable third parties. 
 
-_Cookies_. Cookies are small bits of information that the Internet sites operated by FOX 5 place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable FOX 5 to make your visits to our site(s) more enjoyable. The cookie itself does not contain PII and FOX 5 does not combine cookies with PII. FOX 5’s site currently generates cookies that remain only for the duration of the session for which you are logged in, and are then deleted. A new session cookie is generated each time you visit FOX 5’s site.
+In addition, MyFoxDC.com collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the Services, track usage, and for security and monitoring purposes. 
 
-Third party advertisements displayed on Internet site(s) operated by FOX 5 may also contain cookies. FOX 5 does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies.
+Cookies. Cookies are small bits of information that MyFoxDC.com places on your computer. MyFoxDC.com uses the cookies to identify your Internet browser, store users' preferences, and to determine whether you have installed the enabling software needed to access certain material on the Services. 
 
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. 
+Third-party advertisements displayed on the Services may also contain cookies set by Internet advertising companies or advertisers. MyFoxDC.com does not control these cookies and users of the Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third party advertising. 
 
-**__**
+You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Services 
 
-**_NOTICE:_ **FOX 5 WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
+**NOTICE: MYFOXDC.COM WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**
 
-When FOX 5 collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FOX 5 will make of the information. 
+When you voluntarily provide PII to MyFoxDC.com, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses MyFoxDC.com will make of the information. 
 
-This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See "Use" below). However, at the time your PII is collected, FOX 5 will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below). 
+At the time you provide your PII, MyFoxDC.com will notify you of your options regarding our use of your PII (See "Choice" below). Except as described in this Privacy Policy, MyFoxDC.com will not share your PII with third parties unless you have given MyFoxDC.com permission to do so (See "Use" below). 
 
-Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
+Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Privacy Policy and other relevant information from us. 
 
-FOX 5’s web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a FOX 5 logo, even though they are not operated or maintained by FOX 5. FOX 5’s web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, FOX 5 is not responsible for the privacy practices of web sites operated by third parties that are linked to our sites or for the privacy practices of third party or so-called national advertisers. Once you’ve left FOX 5’s site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
+The Services may be linked to Internet sites operated by other companies. Some of these third- party sites may be co-branded with the MyFoxDC.com logo or an affiliated entity, even though they are not operated or maintained by MyFoxDC.com (for example, co-sponsored chat pages, or advertising sponsor pages). The MyFoxDC.com Web site may also carry advertisements from
 
-FOX 5’s web site(s) may also be linked to sites operated by companies affiliated with FOX 5. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+other companies. MyFoxDC.com is not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Services or for the privacy practices of third parties or Internet advertising companies. Once you've left the Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any PII they collect from you. 
 
-**__**_
+The Services may also be linked to sites operated by companies affiliated with MyFoxDC.com (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's Privacy Principles located at <http://www.newscorp.com/privacy.html> , visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy. 
 
-**CHOICE:** FOX 5 WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
+Some of the advertisements that appear on MyFoxDC.com are delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to or use of our Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit: 
 
-_
+<http://www.networkadvertising.org/managing/opt_out.asp> . 
 
-FOX 5 will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with FOX 5 (i.e., not part of the News America Group).
+**CHOICE: MYFOXDC.COM WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
 
-**__**_
+Except as described in this Privacy Policy, MyFoxDC.com will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with MyFoxDC.com (i.e., not part of the News America Group), without your permission. 
 
-**USE:** FOX 5’S USE OF PII
+**USE: MYFOXDC.COM'S USE OF PII**
 
-_
+MyFoxDC.com will only use the PII you provide in a manner that is consistent with this Privacy Policy. If MyFoxDC.com obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. 
 
-FOX 5 will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. 
+If you have consented to receive promotional materials from MyFoxDC.com, MyFoxDC.com may periodically use your email address to send you notifications related to the Services. If you want to stop receiving promotional materials from MyFoxDC.com, click the unsubscribe link at the bottom of each promotional email. 
 
-FOX 5 **** may share your PII with companies that are affiliated with us, that is part of the News America Group of companies. FOX 5 may also share your PII with companies that are not affiliated with FOX 5, but would like to send you information about their products and services. However, you will always have the opportunity to instruct us not to share your information with third parties.
+MyFoxDC.com may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. Provided you have given us permission, MyFoxDC.com may also share your PII with advertisers and business partners that are not affiliated with MyFoxDC.com, but would like to send you information about their products and services. For example, some of the companies who supply prizes for MyFoxDC.com's contests may have special offers or promotions that might be of interest to users of the MyFoxDC.com Web site. We will not share your PII with third parties without your permission. 
 
-FOX 5 employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide FOX 5 with a specific service and not for any other purpose.
+We will not share your credit card information with third parties except those MyFoxDC.com uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through MyFoxDC.com. MyFoxDC.com employees, agents and contractors must have a legitimate business reason to obtain access to your PII. MyFoxDC.com may share your PII with outside contractors or agents who help us manage our information activities (i.e., message boards, sweepstakes administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with administration, judging and prize fulfillment aspects of contest, promotions, and sweepstakes. These outside contractors, agents, or sponsors may only use your PII to provide MyFoxDC.com with a specific service and not for any other purpose without your consent. MyFoxDC.com may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. 
 
-If FOX 5 obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy.
+As described in the "Notice" section above, MyFoxDC.com may customize the advertising and marketing messages you receive on our Site, or may work with outside companies to do so. Your non-PII may be shared with these companies so this customization can be accomplished. MyFoxDC.com prohibits these companies from sharing your information with any third party or from using it for any purpose other than targeting advertising. 
 
-FOX 5 may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites.
+MyFoxDC.com may aggregate PII and use it anonymously. Anonymous click stream, number of page views calculated by web beacons, and aggregated demographic information may also be shared with MyFoxDC.com's advertisers and business partners. 
 
-**__**_
+There may be instances when MyFoxDC.com may access or disclose
 
-**SECURITY** : FOX 5 PROTECTS THE SECURITY OF PII
+PII or non-PII without providing you with a choice in order to: (i) protect or defend the legal rights of MyFoxDC.com, other companies within the News America Group or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of users of the Services or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; (iv) or to comply with the law or legal process. In addition, if MyFoxDC.com sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, MyFoxDC.com may transfer your PII to a third party as part of that transaction. 
 
-_
+**SECURITY: MYFOXDC.COM PROTECTS THE SECURITY OF PII**
 
-FOX 5 uses reasonable administrative, technical, personnel, and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure, or modification. In addition, FOX 5 uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
+MyFoxDC.com uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, MyFoxDC.com uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
 
-**__**_
+ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT MYFOXDC.COM ABOUT PRIVACY CONCERNS 
 
-**ACCESS** : HOW TO ACCESS, CORRECT OR DELETE YOUR PII
-
-_
-
-Visitors to FOX 5’s site may review the PII we maintain about them in our records. If you would like to review, correct, or delete this information, or to stop all future communication from us, please contact us at:
-
-E-mail: [Privacy@foxtv.com](http://164.109.57.207/privacy_wttg.asp)
-
-Phone: 310-584-2000
-
-Mail:
-
-Fox Television Stations, Inc.
-
-Attn: Privacy Officer
-
-1999 S. Bundy Drive
-
-Los Angeles, CA 90025
-
-**__**_
-
-**REMEDIES AND COMPLIANCE** : HOW TO CONTACT FOX 5 ABOUT PRIVACY CONCERNS
-
-_
-
-FOX 5 welcomes any suggestions on how to make our site a better and safer place. If you would like to communicate with us about our Privacy Policy or about our collection and use of your PII, please contact us at:
-
-E-mail: [Privacy@foxtv.com](http://164.109.57.207/privacy_wttg.asp)
-
-Phone: 310-584-2000
-
-Mail:
-
-Fox Television Stations, Inc.
-
-Attn: Privacy Officer
-
-1999 S. Bundy Drive
-
-Los Angeles, CA 90025
+To access your PII, send an e-mail with the word "Privacy" in the subject line to FIMPrivacy@fox.com, or write to the FIM Internet Privacy Information at Fox Interactive Media, Inc., Business and Legal Affairs, 407 North Maple Drive, Beverly Hills, California 90210, requesting a listing of the PII that is on file that you have provided or that has been obtained from a third party. FIM will provide you with a list of your PII within thirty (30) calendar days from receipt of your request. There may be certain instances when FIM may not be able to provide the PII, such as when access would violate the privacy of another individual or when access is prohibited by law. In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to FIM Internet Privacy Information at Fox Interactive Media, Inc., Business and Legal Affairs, 407 North Maple Drive, Beverly Hills, California 90210, including (1) all of the incorrect PII, (2) the corrections that you wish to make to your PII, and (3) your signature authorizing such changes. FIM will then correct the PII in its database and send a written confirmation to you within forty-five (45) business days. If you would like to communicate with us about this Privacy Policy or MyFoxDC.com's collection and use of your PII, to review or correct your PII, or to stop all future communication from us, please contact MyFoxDC.com at: [FIMPrivacy@fox.com](mailto:FIMPrivacy@fox.com) .
