@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608210116id_/http%3A//simplyelectronics.net/privacy.php) for the most accurate reproduction.*
 
 # Buy Consumer Electronics at Simply Electronics
 
   
 | **   Shopping Basket**  
 ---  
-|    
-  
-  
-|   **usd** | [](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/checkout.php)  
----|---  
-  
-**   Country**  
----  
-|  |  |     
----|---  
-  
+| 
+
+Your shopping basket is empty
+
+|   
   
 **   Security**  
 ---  
@@ -23,6 +17,9 @@
   
 | [](http://server.iad.liveperson.net/hc/19483306/?cmd=file&file=visitorWantsToChat&site=19483306&byhref=1&imageUrl=http://images.liveperson.com/lp/19483306)  
 ---|---  
+  
+|  [](https://web.archive.org/web/20090608210116id_/http%3A//simplyelectronics.net/reasons.php) |   
+---|---|---  
   
   
 It is our commitment to safeguard our customers information when shopping with SimplyElectronics.net. 
@@ -59,22 +56,26 @@ This privacy policy only covers our Websites. Any other websites which may be li
 
 | 
 
+[](https://web.archive.org/web/20090608210116id_/http%3A//simplyelectronics.net/contact.php)
+
+  
+
+
   
 
 
   
 
 
-[](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/deal.php)
+  
+
+
+[](https://web.archive.org/web/20090608210116id_/http%3A//simplyelectronics.net/deal.php)
 
   
 
 
-[](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/exdemo.php)
+[](https://web.archive.org/web/20090608210116id_/http%3A//simplyelectronics.net/exdemo.php)
 
-  
-| **   Buying From Us**  
----  
-|  [](https://web.archive.org/web/20081219020130id_/http%3A//simplyelectronics.net/reasons.php) |   
   
 
