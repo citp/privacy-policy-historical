@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160150id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608062210id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.html) for the most accurate reproduction.*
 
 # MySQL :: Web Privacy Policy
 
@@ -35,7 +35,7 @@ When you complete the [MySQL Contact and Questions Form](http://www.mysql.com/co
 
 When you register for a white paper or webinar you are asked to provide your first and last name, job function, company/organization, primary business activity, e-mail address, state/province, country, ZIP/postal code, and the intended primary use of MySQL products/services. MySQL may add further mandatory fields.
 
-If you want to purchase products from the [MySQL Online Shop](https://shop.mysql.com/) you have to register and open a MySQL.com account. In order to accept your order we have to receive from you your correct primary address, valid credit card and technical contact information. MySQL may entrust third parties to operate all or part of the MySQL Online Shop in the future without further notice to you, subject to a written agreement that includes provisions relating to data processing.
+If you want to purchase products from the [MySQL Online Shop](http://shop.mysql.com/) you have to register and open a MySQL.com account. In order to accept your order we have to receive from you your correct primary address, valid credit card and technical contact information. MySQL may entrust third parties to operate all or part of the MySQL Online Shop in the future without further notice to you, subject to a written agreement that includes provisions relating to data processing.
 
 When you register as a partner you will have to provide contact names, e-mail address, phone number and your company's address. MySQL may add further mandatory fields.
 
@@ -111,6 +111,6 @@ You can review and validate the information, that we have collected about you by
 
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, we welcome you to contact [webmaster@mysql.com](mailto:webmaster@mysql.com) and/or [privacy@mysql.com](mailto:privacy@mysql.com).
 
-[**Download Web Privacy Policy (PDF)  »**](https://web.archive.org/web/20081216160150id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.pdf)
+[**Download Web Privacy Policy (PDF)  »**](https://web.archive.org/web/20090608062210id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.pdf)
 
 **Last modified: January 1, 2008**
