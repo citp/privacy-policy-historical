@@ -1,116 +1,106 @@
-> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409180724id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dool_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608184745id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
 
-# Optimum
-
-## Protecting Your Privacy
+# Optimum Online - Privacy Policy - Customer
 
 At Cablevision, we value your privacy.
 
-Please select another link below to view another privacy policy.
+* * *
 
-**Optimum Online  
-Privacy Policy**
+  * [Website  
+Privacy Policy](https://web.archive.org/Privacy)
+  * Cablevision Customer  
+Privacy Policy
 
-## Optimum Online Subscriber Privacy Policy
-
-Click below for specific information about:
-
-  * Collection of personally identifiable information
-  * How we use personally identifiable information
-  * Disclosure of personally identifiable information
-  * Length of time that we retain personally identifiable information
-  * Protection of personally identifiable information
-  * Access to records containing personally identifiable information
-  * Your rights under federal law
-  * Notification for changes to this Policy
-  * Protection of Children's Privacy
-  * Third Party Advertising
-  * Third Party Cookies
+  
 
 
+* * *
 
-We provide the following policy to inform Optimum Online and Optimum Online Boost subscribers ("you") of our practices regarding personally identifiable information that may be collected, used and disclosed during the course of providing our Optimum Online and Optimum Online Boost services (individually and collectively the "Optimum Online Service(s)"). Optimum Online Services are provided by CSC Holdings, Inc. ("Cablevision" or "we"). Optimum Online Boost offers you additional features that may be provided by authorized third party providers. You may direct any questions regarding our Optimum Online privacy practices to:
+  
 
-Attn: Security  
-CSC Holdings, Inc.  
-1111 Stewart Avenue  
-Bethpage, NY 11714-3581  
-abuse@cv.net
 
-You should also be aware that our Optimum Online Service may allow you to view third party content, applications or interact with third party entities or individuals that are independent of Cablevision as well as third parties who operate co-branded features of or optional services through the Optimum Online Service pursuant to agreements with Cablevision. By using services provided or operated by third parties, you may enable these third parties to obtain personally identifiable information about you. The practices described in this policy do not apply to any such third parties. You must review the privacy policies, if any, provided by these third parties. If you do not agree with the posted privacy practices or are unsure about any aspect of third party privacy practices, you should not access or use that third party service. Cablevision is not responsible or liable if any of these third parties fails to follow their posted policies.
+Click below for specific information about: 
 
-### I. Collection of personally identifiable information
+Cablevision is committed to protecting the privacy of its customers. This notice is designed to give you a general understanding of how Cablevision protects your privacy in connection with our cable television services (such as iO TV), our high-speed Internet services (such as Optimum Online), our voice services (such as Optimum Voice) and any other cable service or communication service we may provide to you using our cable system as such services are defined by applicable law (together "Covered Services").
 
-We collect personally identifiable information about you when: (a) you voluntarily provide information to us; (ii) it is necessary to provide our services to you, operate efficiently or provide enhancements to the Optimum Online Service; or (c) to prevent unauthorized reception of our services. The types of information about you that may constitute personally identifiable information includes:
+This notice does not generally cover Cablevision's websites, such as Optimum.com, interactive television channels, such as Optimum Autos and Optimum Homes, or other products or services that may be accessed through Covered Services. These other services are governed by separate privacy policies which we encourage you to review when using these other services to understand how your information is handled. This notice does not cover Cablevision's Lightpath service.
 
-**Registration and account information** , including your name, home, e-mail and work address, screen names, telephone numbers, social security number, driver's license number, billing, service, payment and credit records, credit card or bank account information, customer correspondence, complaint and service history, and records of violations or alleged violations of the terms, conditions and policies that govern your use of the Optimum Online Service;
+In this notice, "we" and "Cablevision" refer to CSC Holdings, Inc. and/or any affiliate of CSC Holdings, Inc. that owns, operates, or provides Covered Services.
 
-**Account usage information** , including the services you subscribe to, service preferences and settings you indicate through your voluntary interaction with the system, certain transactions you make through the Optimum Online Service, how often you access and how long you use the Optimum Online Service, and the number and name of additional e-mail addresses or accounts set up through the Optimum Online Service;
+In connection with the initiation and ongoing provisioning of Covered Services, as well as with our ongoing efforts to improve the quality and value of the Covered Services, we may maintain certain information related to you that you provide to us or that we collect using the cable systems ("Subscriber Information"). Certain Subscriber Information may be personally identifiable information ("Personally Identifiable Information"). Personally Identifiable Information does not include, among other things, any aggregate data which does not identify a particular person or information which by itself does not identify a particular person, such as your zip code or gender. We may collect Personally Identifiable Information using the cable system in order to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications.
 
-**Technical information** , including the types and number of devices you use to connect directly or indirectly to the system (e.g., converters, cable modems, or other equipment), the location and configuration of these devices, the delivery and routing of our service to you, and maintenance and repair records for the devices used for the Optimum Online Service; and
+Subscriber Information may include information which you provide to us such as your name, service address, billing address, work address, email address, home telephone number, work telephone number, date of birth, social security number, drivers license number, credit card number and expiration date, bank account number, and other financial information. In addition, as part of our normal course of business, we generate and maintain billing and account information such as your billing history, the services to which you have subscribed, your payment history, your maintenance and repair history, and the kind, location, configuration and MAC addresses of equipment (including TV sets, set-top boxes, CableCARDs, modems, and telephones) connected to our facilities.
 
-**Other information** , including research records containing information obtained through voluntary subscriber interviews or surveys, information provided to Cablevision from receipt of cable or other services, publicly available information, home ownership or rental information so we can obtain any permission required prior to installing or servicing our equipment, or other information we need to render our Optimum Online Service to you.
+Sometimes, we also obtain additional information from publicly available sources such as research consultants and marketing firms to supplement your information. From time to time, we may combine this publicly available information with information that we collect from you.
 
-We may combine personally identifiable information with other publicly available information (such as census and household information) or information obtained from our affiliated entities, third-party providers of co-branded services as part of or through the Optimum Online Service or other third parties. We may use this information to create an enhanced subscriber database, to research our service features, or we may segment personally identifiable information to create separate subscribers lists or aggregate information lists. Aggregate information lists that we may collect or create do not identify individual subscribers.
+For customer services purposes, we also may keep copies of correspondence concerning your account or records of complaints or inquiries that may be made about our service. In addition, we may sometimes collect responses to customer satisfaction surveys which are maintained on an anonymous basis. We may also collect information that helps us detect unauthorized use of our services.
 
-### II. How we use personally identifiable information
+We may also collect service-specific Subscriber Information depending on the Covered Services to which you subscribe:
 
-We use personally identifiable information to provide you with accurate and high quality customer service, including responding to subscriber inquiries and troubleshooting; to ensure proper billing and delivery of our Optimum Online Services; to protect the security of our equipment and services; to communicate with subscribers about service issues, enhanced features and new product or service offerings; to improve the quality of our services; to ensure compliance with applicable laws and the terms, conditions and policies governing the Optimum Online Service; and to maintain our accounting and tax records.
+  * **Optimum Voice.** If you are a subscriber of a covered Cablevision voice service such as Optimum Voice (which is an interconnected Voice-over-Internet Protocol "VoIP" service), we may collect customer proprietary network information ("CPNI"). CPNI is information that relates to the quantity, technical configuration, type, destination, location, and amount of use of an interconnected VoIP service or telecommunications service subscribed to by any customer, and that is made available to the carrier by the customer solely by virtue of the provider-customer relationship; and information contained in the bills pertaining to interconnected VoIP service, telephone exchange service or telephone toll service received by a customer. The disclosure and use of CPNI is subject to specialized restrictions as described in Section F below.
+  * **Internet Service, including Optimum Online.** If you subscribe to a covered Cablevision high-speed Internet service such as Optimum Online, we may maintain records of Internet Protocol addresses and email accounts that we assign to you, as well as any violations or alleged violations of applicable terms and conditions of usage. We may also collect usage information as it relates to portions of our websites which subscribers may access for the purpose of managing or operating their use of the Covered Services. Additional information about our privacy practices specific to our high-speed Internet service can be found in the Additional Privacy Information for [Cablevision's High Speed Internet Service](https://web.archive.org/Privacy/OOL).
+  * **iO Digital Cable.** If you are a digital cable television subscriber, we may also automatically collect information when providing services or when you interact with our systems such as changing your television channel, reviewing listings in an electronic program guide, using your remote, ordering or viewing on-demand programming, or engaging in other interactive programming features. This information is maintained on an anonymous basis, except in connection with billing related information such as VOD, pay-per-view, and e-Bill.
 
-Subscribers may choose to not receive Optimum Online promotional or marketing information calls, e-mail or direct mail by contacting us at 1-888-4Optimum.
 
-### III. Disclosure of personally identifiable information
 
-We will only disclose personally identifiable information about you to others if you provide written or electronic consent in advance or it is permitted by federal law. Specifically, federal law allows us to disclose personally identifiable information to third parties when (i) it is necessary to render, or conduct a legitimate business activity related to, our services provided to you; (ii) for advertising or mailing lists as described below; or (iii) when disclosure is required by court order or other legal process.
+We use Personally Identifiable Information primarily to conduct business activities such as account administration, service provisioning, operations, billings and collections, marketing, customer service, technical support, and fraud prevention. These purposes may specifically include the following uses of Personally Identifiable Information:
 
-Consistent with these limitations, people that may have authorized access to your personally identifiable information include our employees, billing and collection services; credit reporting agencies; installation, repair and subscriber assistance subcontractors or agents; sales representatives; attorneys, consultants and accountants; software vendors; service suppliers; auditors of service providers; marketers of Optimum Online products and services, entities affiliated through common ownership or control with Optimum Online and Cablevision, strategic partners offering or providing products or services jointly or on behalf of Optimum Online or Cablevision; consumer and market research entities; merchants or other third parties from whom you make purchases or other requests; a purchasing entity if we sell or transfer ownership; and authorized representatives of government.
+  * to help us provide high-quality, competitively-priced Covered Services in an efficient manner;
+  * to ensure that you receive the services to which you have subscribed and execute requests that you make;
+  * to provide you with programming, services and advertising that are of an enhanced value and interest to you;
+  * to facilitate billing and collections functions and obligations;
+  * to provide you with accurate and high quality customer service, including responding to subscriber inquiries and troubleshooting;
+  * to comply with tax obligations, accounting rules, and contractual obligations to vendors;
+  * to ensure that you receive information about products and services that may be of interest to you;
+  * to ensure compliance with applicable laws and the terms, conditions and policies governing the Covered Services;
+  * to protect our rights, such as preventing fraud, service theft, and abusive practices; and
+  * to improve our facilities and the services that we provide over them.
 
-The frequency of disclosures to these persons varies according to business or legal needs. For example, information for billing purposes is generally provided on a monthly basis. Information for other purposes may be provided on a daily basis.
 
-Disclosures necessary to render or conduct a legitimate business activity include, but are not limited to, disclosures to connect and utilize your Optimum Online Service, fulfill requested transactions, personalize your online experience, properly service and bill your account, to help research, develop and offer new and enhanced services provided by Cablevision, or disclosures pursuant to a transfer in ownership of all or a part of the Optimum Online Service or Cablevision.
 
-Unless you object, federal law also allows us to disclose Optimum Online subscribers' names, addresses and the level or type of service subscription to affiliated or non-affiliated third parties, including charities, advertisers and marketing entities for product advertisement, direct marketing and research. If we decide to disclose this information, under no circumstances will we disclose to these third parties the extent of your viewing practices or the transactions you make over the system. If you do not want your name or address disclosed to these third parties, please inform us in writing and then include with your Optimum Online subscriber bill and payment.
+We may use Subscriber Information to generate anonymized or aggregated information - that is, data from which Personally Identifiable Information has been removed. We may also employ automated processes to generate anonymized or aggregated information from any of our Covered Services. We may use anonymized or aggregated information to improve our systems and to improve the content that subscribers receive and their service experience (for example, to measure viewership of channels, TV shows and commercials). We may also use anonymized information to provide targeted content for our services. Anonymized or aggregated information does not identify you, and our collection, use, and disclosure of aggregate information is not subject to any of the restrictions in this policy and is subject to our sole discretion.
 
-Consistent with the requirements found in the Cable Communications Policy Act of 1984 ("Cable Act"), the Electronic Communications Privacy Act ("ECPA"), the Digital Millennium Copyright ("DMCA") and other federal laws, we may disclose personally identifiable information to representatives of government or other authorized persons. We will disclose such information pursuant to a warrant, court order, administrative subpoena, other legal process or voluntarily if we reasonably believe that an emergency involving immediate danger of death or serious injury to any person justifies disclosure of the information.
+Our use of certain Subscriber Information associated with voice service however, is limited as described in Section F below.
 
-A private party may also use a subpoena under the DMCA to require our disclosure of a subscriber's personally identifiable information when the party believes the subscriber has infringed on the copyright of such party. Upon receipt of the subpoena, we are required to identify the alleged infringer, without any notice to such subscriber.
+Individuals who may have authorized access to Personally Identifiable Information include our employees, agents, and affiliates within our family of affiliated businesses (including but not limited to Madison Square Garden and Rainbow Media Holdings), though we seek to limit access to individuals on a need to know basis. Sometimes, we may provide access to certain information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to certain information to companies providing services to us, including installation and repair, billing, call center, sales and marketing, market research, fulfillment, mailings, data storage, analysis and processing, bill collection, auditing and accounting, credit reporting, and legal services. We may also provide access to third parties who assist us in providing targeted advertising and audience analysis initiatives. We will provide access to CPNI for use in sales and marketing only to our agents and affiliates. The frequency of such access depends on our business needs.
 
-The ECPA also authorizes, and other laws may require, the disclosure of subscriber content or other communications made via our Optimum Online Service if we become aware of evidence of child pornography, we inadvertently obtain content or communications and it appears to pertain to the commission of a crime, or disclosure is to law enforcement if we believe there is an emergency involving death or serious injury that requires disclosure. Disclosure of content and communications is also permitted to an addressee or intended recipient; to a person involved in forwarding such information to its destination; when it is necessarily incident to providing our Optimum Online Service or to protect our rights or property; or to others with your consent or the consent of the addressee or intended recipient of the communications.
+Except as set forth below, Cablevision will not disclose Personally Identifiable Information to others unless (a) it is necessary for us to render our Covered Services or conduct a legitimate business activity related to our Covered Services; or (b) you provide appropriate consent in advance.
 
-If federal law requires, we will provide you with notice of the disclosures provided above.
+If you subscribe to a Covered Service other than voice service, we may furnish mailing-list information to marketing organizations, programmers and other businesses. Mailing-list information includes your name, addresses, and the non-voice services to which you subscribe (for example, basic tier, HBO). The law allows us to disclose this information unless you tell us otherwise. IF YOU DO NOT WANT US TO DISCLOSE MAILING-LIST INFORMATION ABOUT YOU, PLEASE CALL US AT 1-888-425-2089. Please note, your opt-out preferences may not take effect immediately and cannot be applied retroactively.
 
-### IV. Length of time that we retain personally identifiable information
+If you subscribe to a covered Cablevision voice service such as Optimum Voice, applicable regulations allow us to disclose "subscriber list information," which includes your name, address, and telephone number that has been published or accepted for publication in any directory format. For example, we may give your name, address, and number to organizations who publish phone directories or who provide 411 services or similar public services. We may transmit your name and number so that the person you call can see such information on his or her Caller ID. Certain procedures allow you to block transmission of Caller ID information. You may contact us to obtain additional information about these procedures. We may also transmit your name, number, and registered location to a public safety answering point ("PSAP") when you dial 911 for emergency services. Disclosure of CPNI data is subject to additional specific limitations, as described in Section F below.
 
-We retain personally identifiable information only as long as it is necessary for the purpose for which it was collected, to comply with laws governing our business, including tax and accounting laws, or to satisfy pending requests or orders for access by subscribers, the government or pursuant to court order. For example, to comply with tax or other accounting laws, this means we may retain personally identifiable information for seven years or longer. When information is no longer necessary for these purposes, we destroy it.
+We may also provide your Personally Identifiable Information to third parties when you expressly consent to such disclosure, such as when you make purchases from third party vendors using our Optimum Click technology or request information from third parties through certain interactive channels.
 
-### V. Protection of personally identifiable information
+We may furnish certain anonymous information, on either an aggregate or non-aggregate basis, regarding viewing habits and system interaction to third parties in connection with various business needs and activities such as providing you with more relevant programming, advertising and features, increasing the value of the Covered Services, or providing you with information or offers about products or services that we believe may be of interest to you.
 
-We take reasonable technical and physical security measures to protect your personally identifiable information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain our Optimum Online subscriber database in a restricted area and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' personally identifiable information to specifically authorized employees and agents and other parties identified in the disclosure section above. As an added measure, we provide additional security suggestions on our Optimum Online Web site.
+You acknowledge, consent and agree that we may access, preserve and disclose your Subscriber Information, including your Personally Identifiable Information, your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of Cablevision, its agents and affiliates, its users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
-Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. These risks are not unique to the Optimum Online Service, but exist whether you access the Internet through other providers or technologies. If you use the Optimum Online Service or the Internet to send, receive or post personal or confidential information, you do so at your own risk.
+Finally, we also reserve the right to disclose and transfer all of your Subscriber Information, including your Personally Identifiable Information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
 
-### VI. Access to records containing personally identifiable information
+We generally keep some or all Subscriber Information for as long as necessary for the purpose(s) for which it was collected or as required by law. When information is no longer needed or required to be maintained, we destroy it in accordance with our internal policies.
 
-You have the right to inspect our Optimum Online records that contain personally identifiable information about you and to notify of us if you believe there are errors that need correcting in such information. Cablevision retains the right, in its sole discretion, to determine: (1) whether such information is correct; and (2) if corrections are required, the timing and manner of such corrections. If you wish to view such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to arrange a mutually convenient time for review during our regular business hours.
+You also have the right to inspect Personally Identifiable Information that Cablevision has collected and maintains in connection with the provision of Covered Services to you. If you would like access to such information, please notify us in writing at the local business office specified on your service bill. We will then contact you to set up an appointment during regular business hours. Please note, Cablevision reserves the right to charge you its reasonable costs in connection with retrieving Subscriber Information and providing you with access thereto. In order to obtain CPNI, please see Section F below.
 
-### VII. Your rights under federal law
+Subscribers may choose not to receive promotional or marketing telephone calls or postal mailings regarding the Covered Services by contacting us at 1-888-425-2088 for placement on Cablevision's "Do Not Call" list or by contacting us at 1-888-425-2090 for placement on Cablevision's "Do Not Mail" list.
 
-If you believe that we have violated the Cable Act's limitations on the collection, disclosure and retention of personally identifiable information, you may have the right to bring an action for damages in Federal District Court. In the Optimum Online Terms of Service Agreement, you have agreed that, to the extent permitted by law, certain claims you may have against us, including damage amounts, will be limited.
+Under federal law, you have a right, and we have a duty, to protect the confidentiality of a category of telephone-related information known as "customer proprietary network information" or "CPNI." Cablevision restricts access to your CPNI. For example, call detail records, which contain information about the calls you make, are not available, except online. In order to access call detail records online, you must have a password. All other CPNI is restricted by requiring a password online and by requiring that certain information be provided by you over the phone to confirm your identity. A written request may also be used to obtain your CPNI. You must send the written request to Cablevision OV at 6 Corporate Center Drive, Melville New York 11747, Attn. Shared Services- CDR. All requests will be verified.
 
-### VIII. Notification for changes to this Policy
+Cablevision also restricts the use of your CPNI. Unless we have your express permission, Cablevision does not share your CPNI with non-affiliates for marketing purposes. We will, however, use such information to tailor your service and to market related Cablevision Optimum Voice products and services to you.
 
-We will review our privacy practices on a periodic basis as we deem appropriate and when we change or update our Optimum Online Service. We will post these changes in a revised privacy policy that we will make available to subscribers either through our Optimum Online Service, Web site or by mail. Use of the Optimum Online Service following notice of a revised policy constitutes your acceptance to the revised privacy provisions.
+The Cable Act imposes limitations with respect to the collection and disclosure of personally identifiable information by cable operators, unless you provide us consent to collect or disclose information in another fashion. Generally speaking, cable operators may not use the cable system to collect personally identifiable information concerning subscribers without prior consent of the subscriber concerned except to obtain information necessary to render our cable service or other services to our subscribers or to detect unauthorized reception of cable communications. In addition, subject to certain specified exceptions, cable operators generally may not disclose personally identifiable information without consent of the subscriber concerned. Also, cable operators must take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator. If we violate your rights, you may be entitled to bring a civil action in a federal court, which may award actual, liquidated, and punitive damages, fees and costs, and other remedies that may be available. In addition, if anyone asks us to provide information about you, we may have to notify you, and you may have the right to appear in court.
 
-### IX. Protection of Children's Privacy
+We employ physical, electronic and procedural safeguards to protect Subscriber Information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain certain subscriber databases in restricted areas and secure the content by use of firewalls and other security methods. We also limit access to databases containing subscribers' Personally Identifiable Information to specifically authorized employees and agents and other parties identified in the disclosure section above.
 
-We do not collect personally identifiable information from children under thirteen years of age to connect and provide the Optimum Online Service. If, as a part of a future service offering, we decide to request personally identifiable information from children under thirteen, we will require verifiable parental consent before we collect this information, except in circumstances authorized by law.
+Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. If you use Cablevision's high-speed Internet service such as Optimum Online, to send, receive or post personal or confidential information, you do so at your own risk.
 
-### X. Third Party Advertising
+If you have any questions about our privacy protections and policies, please write to us at: 
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/privacy/index.aspx).
+Cablevision Corporation,  
+Attn. Shared Services Dept,  
+6 Corporate Center Drive,  
+Melville NY 11747.
 
-### XI. Third Party Cookies
+We will review this privacy policy periodically as we deem appropriate and when we change or update Covered Services. We will notify you of any material changes by posting the revised policy on our Optimum website or by written or electronic correspondence. Your use of the Covered Service(s) following the notice of a revised policy constitutes your acceptance of the revised privacy policy.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-© Copyright CSC Holdings Inc. Pricing, terms and offerings subject to change and discontinuance without notice. 
+Effective May 1, 2008.
