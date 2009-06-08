@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electude.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221144304id_/http%3A//www.electude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electude.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608233303id_/http%3A//electude.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Electude
 
@@ -19,4 +19,4 @@ To enhance your experience with our site, our web pages may use "cookies." A coo
 Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us at our website. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.  
 You can choose not to accept these cookies by setting your browser accordingly. However, not accepting cookies can mean that you will not be able to access some pages on our website.
 
-© 2008 Electude B.V.
+© 2009 Electude B.V.
