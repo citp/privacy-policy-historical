@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017220711id_/http%3A//www.longtailvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608184806id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
 
-# LongTail Video
-
-Privacy Policy  
-LongTail Ad Solutions, Inc. (jeroenwijering.com, longtailadsolutions.com, longtailvideo.com, longtail.tv) is committed to protecting the privacy of our customers. Note that this Privacy Policy may change for time to time, so please check back periodically.
+# Privacy Policy | LongTail Video | Home of the JW Player
 
 1\. Information we gather from our users.
 
@@ -11,7 +8,7 @@ We receive and store any information you enter on our website. You can choose no
 
 We obtain information about you when you purchase a product, partake in a newsletter, or comment with customer service.
 
-We also use �cookie� technology on our website. The cookies we use do not reveal any personal information. We use this technology to enhance your experience and to determine for which one of our partners, if any, referred you to our website.
+We also use "cookie" technology on our website. The cookies we use do not reveal any personal information. We use this technology to enhance your experience and to determine for which one of our partners, if any, referred you to our website.
 
 2\. How do we use the information we receive from you?
 
