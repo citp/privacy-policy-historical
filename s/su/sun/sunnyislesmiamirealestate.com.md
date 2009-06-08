@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914020710id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608140319id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
 # Sunny Realty Of South Florida Privacy Statement
 
@@ -35,11 +35,11 @@ www.Sunny-Realty.com contain links to other websites that are not operated by Su
 
 **Contact Sunny Realty Of South FLorida**
 
-Sunny Realty Of South FLorida is the sole operator of the electronic web pages known as www.Sunny-Realty.com or www.SunnyRealtyFL.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2004-2008 by Sunny Realty Of South FLorida. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
+Sunny Realty Of South FLorida is the sole operator of the electronic web pages known as www.Sunny-Realty.com or www.SunnyRealtyFL.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2004-2009 by Sunny Realty Of South FLorida. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
 
 **Mailing Address:**   
 Sunny Realty Of South FLorida  
-19370 Collins Ave, cu# 7  
+17086 Collins Ave  
 Sunny Isles Beach, FL 33160
 
 **Toll Free:** 1-877-368-2318  
@@ -48,4 +48,4 @@ Sunny Isles Beach, FL 33160
 
 **General Feedback:** [ info@Sunny-Realty.com](mailto:info@Sunny-Realty.com)
 
-Effective Date: 9/13/2008 
+Effective Date: 6/8/2009 
