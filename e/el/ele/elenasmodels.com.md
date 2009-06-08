@@ -1,21 +1,77 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015816id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608212202id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
 [ ](http://www.elenasmodels.com/services/membership.htm)  
-**Tired of being alone?** [Join today](http://www.elenasmodels.com/services/membership.htm) \- HUGE CHRISTMAS SPECIALS during the checkout! 
+**Tired of being alone?** Join today - UNLIMITED mails from **only $16.50 a month! ** [Click here](http://www.elenasmodels.com/index.php?method=staticpay)
 
-"Thank you so much to everyone at Elena's models! Dreams do come true!"   
-Mark and Elena (Australia) 
+"Elena's is the best Eastern European Dating site in the world. I highly recommend this site for a man who is serious about meeting a quality lady." (Barry and Anastasia, U.S.A. - Ukraine)
+
+[](http://www.elenasmodels.com/testimonials.htm#story130)
+
+* * *
+
+"I am happy to announce that in January of 2009 we married!" (Mark and Tatiana, United States)
+
+[](http://www.elenasmodels.com/testimonials.htm#story128)
+
+* * *
+
+"It's amazing how two people could be so perfect for each other..." (Darrell, U.S.A. and Natasha, Russia)
+
+[](http://www.elenasmodels.com/testimonials.htm#story127)
+
+* * *
+
+"Thank you for finding the love of my life... To all of you guys hesitating if it's worth while trying I can say: **_"Go for it! I am a normal guy like you and I succeeded in finding my girl. So, you can do it too!"_** (Bene and Marina, Belgium)
+
+[](http://www.elenasmodels.com/testimonials.htm#story120)
+
+* * *
+
+"We are so happy!" (Anna and Everardo, Mexico)
+
+[](http://www.elenasmodels.com/testimonials.htm#story126)
+
+* * *
+
+"Thank you all at Elena's Models!"   
+Johnny and Svetlana (Sweden)
+
+[](http://www.elenasmodels.com/testimonials.htm#story119)
+
+* * *
+
+"10 Days until our first wedding anniversary and still in total amazement!" (Todd and Elly, USA)
+
+[](http://www.elenasmodels.com/testimonials.htm#story121)
+
+* * *
+
+"We want to personally thank you for bringing us together!"   
+Robert and Tatiana (USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story118)
+
+* * *
+
+"Thank you so much to everyone at Elena's Models for helping us find each other in this wonderful world!"   
+Elena and Mark (Australia) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story116)
 
 * * *
 
-"Thank you for bringing us together! We got married on the 12th of September, 2008. I am the happiest man alive!"   
-Larry and Natalya(USA) 
+"I must thank Elena's Models for helping me find the woman of my dreams and a woman who loves me" (Chris and Ilona, USA)
 
-[](http://www.elenasmodels.com/testimonials.htm#story117)
+[](http://www.elenasmodels.com/testimonials.htm#story123)
+
+* * *
+
+"Thank you so much to everyone at Elena's Models! Dreams do come true!"   
+Mark and Elena (Australia) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story116)
 
 * * *
 
@@ -23,13 +79,6 @@ Larry and Natalya(USA)
 Paul and Valentina (USA) 
 
 [](http://www.elenasmodels.com/testimonials.htm#story111)
-
-* * *
-
-"Marina and I wish to thank Elena's Models because it gave us the opportunity to meet! To anybody who has doubts about this way of meeting, we can say...it can really work out!"   
-Bene and Marina, Belgium 
-
-[](http://www.elenasmodels.com/testimonials.htm#story100)
 
 * * *
 
@@ -47,27 +96,6 @@ Olya and Brent
 
 * * *
 
-"I would like to thank Elena's Models for having such a wonderful site which helped me find a wonderful partner! I would tell everyone searching for a Russian girl to trust Elena's Models!   
-Ashwini and Svetlana (Australia) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story89)
-
-* * *
-
-"Nick and I met online in March 2007 and we were married on the 20th of October! Thank you Elena's Models!   
-Elena and Nick (UK) 
-
-[](http://www.elenasmodels.com/testimonials07.htm#story88)
-
-* * *
-
-"In each of us we have found our soul mate and feel that we have been blessed by God."   
-(Bryan & Ramona, USA) 
-
-[](http://www.elenasmodels.com/testimonials07.htm#story84)
-
-* * *
-
 "We are extremely happy, Elena's Models brought us together" (Lena and Stefan, Germany)
 
 [](http://www.elenasmodels.com/testimonials07.htm#story75)
@@ -77,12 +105,6 @@ Elena and Nick (UK)
 "We are enormously proud of our marriage!" (Svetlana and Hugh, New Zealand)
 
 [](http://www.elenasmodels.com/testimonials07.htm#story74)
-
-* * *
-
-"So it works, Thank you!!!" (Marina and Doug, USA)
-
-[](http://www.elenasmodels.com/testimonials07.htm#story72)
 
 * * *
 
@@ -147,8 +169,6 @@ Elena and Nick (UK)
 [](http://www.elenasmodels.com/testimonials04.htm#story14)   
 [More testimonials from our clients](http://www.elenasmodels.com/testimonials.htm)
 
-[](http://hop.clickbank.net/?beauties/petrova) **Russian women are different.** Don't even think about dating one without reading this. [Why?](http://hop.clickbank.net/?beauties/petrova)
-
 [](http://www.12simplerules.com/em/)  
 NEW! **#1 Love & Romance bestseller**  
 Don't miss out - [**Click here**](http://www.12simplerules.com/em/)
@@ -178,7 +198,7 @@ In order to use our services, a user must first complete the registration proces
 
 Elena's Models do not process credit cards itself, and use a third party service for all payments. Secure transactions are served by WorldPay - a reliable provider of online credit card payment facilities for thousands of Internet businesses of different trades. Your contact details and credit card details that are necessary for billing purposes are provided by you at a separate website via a secure server.
 
-Your credit card will be billed by **WELON**  
+Your credit card will be billed by **CLK*BANK (ClickBank)**  
 The words "Elena's Models" will NOT appear on your credit card statement.
 
 **Cookies**
@@ -201,126 +221,126 @@ This web site contains links to other sites. Please be aware that Elena's Models
 
 * * *
 
-If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20081216015816id_/http%3A//www.elenasmodels.com/contact.htm).
+If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20090608212202id_/http%3A//www.elenasmodels.com/contact.htm).
 
 | 
 
-[](https://web.archive.org/index.php?ap=3528843)
+[](https://web.archive.org/index.php?ap=8810487)
 
-Tania, 22 
+Tatiana, 24 
 
-[](https://web.archive.org/index.php?ap=8114701)
+[](https://web.archive.org/index.php?ap=4517290)
 
-Lubov, 35 
+Irina, 27 
 
-[](https://web.archive.org/index.php?ap=1922233)
+[](https://web.archive.org/index.php?ap=3847912)
 
-Elena, 36 
+Elena, 25 
 
-[](https://web.archive.org/index.php?ap=9965320)
+[](https://web.archive.org/index.php?ap=4720852)
 
-Natalia, 26 
+Tatiana, 24 
 
-[](https://web.archive.org/index.php?ap=7365292)
+[](https://web.archive.org/index.php?ap=1056189)
 
-Nadya, 30 
+Tatiana, 21 
 
-[](https://web.archive.org/index.php?ap=5024059)
+[](https://web.archive.org/index.php?ap=7908239)
 
-Tatiana, 30 
+Lyba, 37 
 
-[](https://web.archive.org/index.php?ap=399461)
+[](https://web.archive.org/index.php?ap=6591100)
 
-Olga, 35 
+Anastasya, 26 
 
-[](https://web.archive.org/index.php?ap=7240802)
-
-Tanya, 26 
-
-[](https://web.archive.org/index.php?ap=553763)
-
-Alyona, 45 
-
-[](https://web.archive.org/index.php?ap=856465)
-
-Ludmila, 30 
-
-[](https://web.archive.org/index.php?ap=8748837)
-
-Kristina, 27 
-
-[](https://web.archive.org/index.php?ap=3783409)
-
-Maria, 33 
-
-[](https://web.archive.org/index.php?ap=9456505)
-
-Oksana, 30 
-
-[](https://web.archive.org/index.php?ap=850542)
-
-Liel, 23 
-
-[](https://web.archive.org/index.php?ap=278690)
-
-elena, 33 
-
-[](https://web.archive.org/index.php?ap=6671672)
-
-Alena, 25 
-
-[](https://web.archive.org/index.php?ap=4395087)
-
-Elena, 28 
-
-[](https://web.archive.org/index.php?ap=8965204)
-
-Inna, 29 
-
-[](https://web.archive.org/index.php?ap=5916323)
-
-Simona, 26 
-
-[](https://web.archive.org/index.php?ap=861433)
-
-Tatiana, 32 
-
-[](https://web.archive.org/index.php?ap=8288620)
-
-Evelina, 29 
-
-[](https://web.archive.org/index.php?ap=9056012)
+[](https://web.archive.org/index.php?ap=7497834)
 
 Kristina, 25 
 
-[](https://web.archive.org/index.php?ap=3721788)
+[](https://web.archive.org/index.php?ap=2120972)
 
-Marina, 31 
+Kate, 20 
 
-[](https://web.archive.org/index.php?ap=3261868)
+[](https://web.archive.org/index.php?ap=4459786)
 
-Viktoria, 28 
+Olga, 43 
 
-[](https://web.archive.org/index.php?ap=8031768)
+[](https://web.archive.org/index.php?ap=1499779)
 
-Elena, 29 
+Maria, 30 
 
-[](https://web.archive.org/index.php?ap=4805134)
+[](https://web.archive.org/index.php?ap=4014282)
 
-Svetlana, 35 
+Diana, 20 
 
-[](https://web.archive.org/index.php?ap=2636586)
+[](https://web.archive.org/index.php?ap=3881031)
 
-Olya, 28 
+Julia, 25 
 
-[](https://web.archive.org/index.php?ap=7051726)
+[](https://web.archive.org/index.php?ap=689612)
 
-natalia, 29 
+Olga, 25 
 
-[](https://web.archive.org/index.php?ap=5845093)
+[](https://web.archive.org/index.php?ap=429227)
 
-Irina, 30 
+Victoria, 31 
 
-[](https://web.archive.org/index.php?ap=9393656)
+[](https://web.archive.org/index.php?ap=3633242)
 
-Irina, 32 
+Natalya, 32 
+
+[](https://web.archive.org/index.php?ap=9837471)
+
+Irina, 20 
+
+[](https://web.archive.org/index.php?ap=4217771)
+
+Anna, 19 
+
+[](https://web.archive.org/index.php?ap=8909801)
+
+Ira, 23 
+
+[](https://web.archive.org/index.php?ap=2629463)
+
+Lara, 31 
+
+[](https://web.archive.org/index.php?ap=3985776)
+
+Elena, 36 
+
+[](https://web.archive.org/index.php?ap=4507372)
+
+Valentina, 33 
+
+[](https://web.archive.org/index.php?ap=8902466)
+
+Svetlana, 25 
+
+[](https://web.archive.org/index.php?ap=3010069)
+
+Zoya, 26 
+
+[](https://web.archive.org/index.php?ap=1682)
+
+Anna, 38 
+
+[](https://web.archive.org/index.php?ap=9084628)
+
+Inna, 32 
+
+[](https://web.archive.org/index.php?ap=4722436)
+
+Olga, 34 
+
+[](https://web.archive.org/index.php?ap=4375547)
+
+Maria, 29 
+
+[](https://web.archive.org/index.php?ap=3866659)
+
+Lili, 22 
+
+[](https://web.archive.org/index.php?ap=7653604)
+
+Helen, 38 
