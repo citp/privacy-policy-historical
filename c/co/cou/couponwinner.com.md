@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponwinner.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033815id_/http%3A//www.couponwinner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponwinner.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608134549id_/http%3A//www.couponwinner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Couponwinner.com - Privacy Policy
 
@@ -30,7 +30,7 @@ If you have questions or concerns regarding this statement, please feel free to 
 
 CouponWinner.com 
 
-**SurfMyAds.com**   
-800 N. Milpas St. Suite E   
+**SurfMyAds.com, Inc.**   
+115 W. Figueroa Street   
 Santa Barbarba, CA 93101 USA   
 [www.SurfMyAds.com](http://www.surfmyads.com/)
