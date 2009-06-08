@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161432id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608025703id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
