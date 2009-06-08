@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011212id_/http%3A//www.shopjustice.com/customerService/Privacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608034630id_/http%3A//www.shopjustice.com/customerService/Safety_Security_and_Privacy%23content_2) for the most accurate reproduction.*
 
-# Justice just for girls!
+# Girls Fashion and Preteen Clothing - Justice Clothing for Girls Privacy Policy
 
-**Privacy & Security Policy**   
+Safety, Security and Privacy 
+
+**Security of Our Website**   
+Justice uses reasonable administrative, technical, personnel and physical measures to safeguard your personal information in its possession against loss, theft and unauthorized use, disclosure or modification. All information is stored by Justice behind firewalls. Credit information is encrypted both in transit and when stored with Justice's online databases. 
+
+**Privacy Policy**   
 Effective as of June 6, 2008. 
 
 Dear Justice Parent, 
@@ -13,7 +18,7 @@ We do not collect and keep any personal information from you unless you voluntee
 
 IF YOU ARE UNDER 18, PLEASE BE SURE TO READ THIS POLICY WITH YOUR PARENTS AND ASK QUESTIONS ABOUT THINGS YOU DO NOT UNDERSTAND. IF YOU ARE UNDER 13, JUSTICE MUST RECEIVE YOUR PARENT'S PERMISSION BEFORE YOU SHARE ANY PERSONAL INFORMATION INCLUDING YOUR E-MAIL ADDRESS WITH JUSTICE.COM
 
-We recognize the need to provide additional protections for children who visit our website, and it is our intention to always comply with the Children's Online Privacy Protection Act. For a complete description of our policies and practices that relate to children, please [click here](https://web.archive.org/customerService/Childrens_Privacy)
+We recognize the need to provide additional protections for children who visit our website, and it is our intention to always comply with the Children's Online Privacy Protection Act. For a complete description of our policies and practices that relate to children, please [click here](https://web.archive.org/customerService/Safety_Security_and_Privacy#content_3)
 
 **1.       Collection of Customer Information.**
 
@@ -85,15 +90,15 @@ Please keep in mind that any opt-out choices you make will not apply in situatio
 
 There are several methods by which you can exercise your opt-out choices: (a) sending a written request via email to: [justiceprivacy@tweenbrands.com](mailto:justiceprivacy@tweenbrands.com) and by writing "Justice Privacy Policy" in the subject line; (b) sending a written request via postal mail to: Justice Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062 or (c) telephone 1-866-246-5822 and press the appropriate option key to leave a message for our Shopjustice.com privacy policy team. Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those emails. Regardless of which method you choose, please be sure to indicate your opt-out choice.
 
-**CALIFORNIA RESIDENTS:** Under California law, you may make a written request to Justice about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, Justice may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing.
+**8\. CALIFORNIA RESIDENTS:** Under California law, you may make a written request to Justice about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, Justice may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing.
 
-**8.       Who Do I contact if I Have Questions or Comments Regarding this Privacy Policy?**
+**9.       Who Do I contact if I Have Questions or Comments Regarding this Privacy Policy?**
 
 If you have questions or wish to send us comments, you can let us know by sending us an Email at [justice@tweenbrands.com](mailto:justice@tweenbrands.com) and writing "Justice Privacy Policy" in the subject line, or by writing to us at: Justice Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062.
 
 Customers may also contact 1-866-246-5822 and press the appropriate option key to leave a message for our Justice Privacy Policy team.
 
-**9.       Security of our Web Site.**
+**10.       Security of our Web Site.**
 
 Justice uses reasonable administrative, technical, personnel and physical measures to safeguard your personal information in its possession against loss, theft and unauthorized use, disclosure or modification. All information is stored by Justice behind firewalls. Credit information is encrypted both in transit and when stored with Justice's online databases.
 
@@ -105,3 +110,68 @@ Justice
 107 Heritage Drive  
 Pataskala, OH 43062  
 e-mail: [justice@tweenbrands.com](mailto:justice@tweenbrands.com)
+
+**Children's Online Privacy Policy (COPPA)**   
+Effective as of June 6, 2008. 
+
+Dear Justice Parent, 
+
+The Internet provides Justice an opportunity to reach tween girls in new and exciting ways with information about our clothes, sweepstakes, surveys, email and other forms of interactivity. The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our Web sites. Also, when we use the term "parent" below, we mean to include legal guardians.
+
+The following is a supplement to our Privacy Policy. If you wish to read our Privacy Policy, [click here](https://web.archive.org/customerService/Safety_Security_and_Privacy#content_1). 
+
+**CONTENTS**
+
+**1\. Online Collection and Use of a Child's Information by Justice.**
+
+We may collect a child's personally identifiable information (including first name, last name, birth date, and e-mail address) for such activities as emails, surveys, games, requests for suggestions, or regarding products or services, or requests for additional information that may assist us in offering the best service. In these instances we will initially collect only the child's name and online contact information and the e-mail address of the child's parent. Any email address submitted through the Wish List is not retained by Justice.
+
+  * Justice, like all website operators, is prohibited by law from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in such activity.
+  * We may collect a child's name and e-mail address to the extent reasonably necessary to protect the security of this web site, to protect against liability or as required or permitted by law. Information collected for these reasons will not be used for any other purpose.
+
+
+
+**2\. Disclosure of Children's Personal Information with Third Parties.**
+
+  * Justice does not share a child's personally identifiable information with third parties unless the disclosure is reasonable necessary to comply with law, web site or sweepstake rules, or to protect the security of our web site.
+  * Justice may share information with contracted companies, but only if necessary to allow them to help us process and fulfill orders or requests, website services, or provide other similar services to Justice. All contracted companies are contractually bound to maintain the confidentiality and security of all customer information.
+
+
+
+**3\. Parental Consent to Collection and Use of Children's Personal Information.**
+
+  * Before using a child's personal information for any purpose, we will send the parent an e-mail that (a) informs the parent that we wish to collect and use the child's personal information and request the parent's consent to do so, and (b) provides the parent with a link to access to this Privacy Policy, which describes our information collection and use policies as required by COPPA. Justice will ask the parent to provide consent at our Web site. Upon receipt of the consent, we will send the parent a confirming e-mail that will allow parents 48 hours to change their mind. If parental consent is not obtained within one week, any information collected online by Justice will be deleted from its records. In addition, Justice provides parents the option to revoke a prior consent at any time.
+
+
+
+**4\. Parental Review and Making Changes to Personally Identifiable Information Collected From Children Under 13.**   
+Parents of children under age 13 may revoke consent for Justice to contact your child at any time. These contacts may include marketing offers, surveys, games, requests for suggestions or regarding product or service information, and requests for additional information that may assist us in offering the best service. There are several methods by which you can exercise your opt-out choices:   
+Your five opt-out choices are: 
+
+(i.) Registering for a Justice account (at the same time you give your consent to allow Justice to contact your child) and logging into your 'My Account' page; 
+
+(ii.) sending a written request via email to: [justice@tweenbrands.com](mailto:justice@tweenbrands.com) writing "Justice Privacy Policy" in the subject line; 
+
+(iii.) sending a written request via postal mail to: Justice Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062; 
+
+(iv.) or telephone 1-866-246-5822 and press the appropriate option key to leave a message for our Shopjustice.com privacy policy team. 
+
+(v.) Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those emails. Please note, if you revoke your consent, we may have to limit their participation in our activities. 
+
+In addition, upon proper identification, parents or legal guardians may review the personal information we have collected about their child, request deletion, or refuse to allow further collection or use of the information. 
+
+Personal Information Review Access Request:  
+Justice Privacy Policy  
+107 Heritage Drive  
+Pataskala, OH 43062  
+
+
+**5\. Who Do I contact if I Have Questions or Comments Regarding this Privacy Policy?**
+
+If you have questions or wish to send us comments, you can let us know by sending us an Email at [ justice@tweenbrands.com](mailto:justice@tweenbrands.com) and writing " Justice Privacy Policy" in the subject line, or by writing to us at: Justice Privacy Policy, 107 Heritage Drive, Pataskala, OH 43062.
+
+Customers may also contact 1-866-246-5822 and press the appropriate option key to leave a message for our Justice Privacy Policy team.
+
+**6\. How we will notify parents if our Children's Privacy Policy changes?**
+
+We may amend our Children's Privacy Policy at any time. We will provide parents notice by email or posting on our web site of any material changes in the way we intend to collect, use, and/or share a child's personal information. We will apply material changes in our Children's Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
