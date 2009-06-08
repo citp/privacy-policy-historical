@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceiva.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216120058id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceiva.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608110422id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.*
 
 # CEIVA Privacy Policy
 
@@ -18,6 +18,6 @@ Our site may use cookies to keep track of your sign-in name, items in your shopp
 
 You always have the option of setting your browser to reject cookies without any consequence other than the order form must always be manually filled out when placing an order, and you will always have to log on and sign in to the site.
 
-If at anytime after you register, you change your mind about receiving information from us or allowing us to share your information with some of our marketing partners, send your requests to . If you need to send updates or correct information or contact us for any other reason, you may do so at this same address.
+If at any time after you register, you change your mind about receiving information from us or allowing us to share your information with some of our marketing partners, change your settings in [your Member profile](https://web.archive.org/member/my_profile.jsp). If you need to update or correct your information, you may do so in your member profile, as well.
 
 This website may contain links to other websites. Please keep in mind that when clicking on one of these links, you are being transferred to another website. You are encouraged to read the privacy statements of these linked sites, as their privacy policies may differ from ours.
