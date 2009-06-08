@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225044045id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608070959id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | ComputerWeekly.com
 
