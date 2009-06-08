@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodycandy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052750id_/http%3A//www.bodycandy.com/cgi-bin/category/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodycandy.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608083401id_/http%3A//www.bodycandy.com/cgi-bin/category/privacypolicy) for the most accurate reproduction.*
 
 # Body Candy Body JewelryŽ
 
