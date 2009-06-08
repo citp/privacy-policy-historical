@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014303id_/http%3A//www.123onlinemovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608054650id_/http%3A//www.123onlinemovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Free Online Movies, Bollywood News, Gossips, Telugu Movies, Hindi Movies, TV Shows, Cricket, Watch Free Online Hindi Movies, Tollywood News
 
