@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i-say.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011623id_/http%3A//i-say.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-say.com privacy policy that was archived on 2009-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090609181755id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html lang="en"><head>
 	<title>Ipsos i-Say Privacy Policy - For Online Panel Members</title>
@@ -8,22 +8,35 @@
 	<meta name="description" content="Join the Ipsos i-Say online survey panel and have your say. Win great prizes. It's fun easy and free!">
 	<meta name="keywords" content="online surveys, market research, join panel, surveys, take survey, answer questionnaire, test new products, opinion, quiz poll, rewards, join free, win prize ">
 	<link rel="stylesheet" type="text/css" media="all" title="regular" href="lib/global.css">
-	<script src="lib/global.js" type="text/javascript"></script>
 	<script language="javascript" type="text/javascript" src="/aspnet_client/system_web/1_1_4322/WebUIValidation.js"></script>
-       <script type="text/javascript">
-            sfHover = function() {
-	            var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-	            for (var i=0; i<sfEls.length; i++) {
-		            sfEls[i].onmouseover=function() {
-			            this.className+=" sfhover";
-		            }
-		            sfEls[i].onmouseout=function() {
-			            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		            }
-	            }
-            }
-            if (window.attachEvent) window.attachEvent("onload", sfHover);
-        </script>		
+    <script language="javascript" type="text/javascript">
+		function jumpMenu(target, url){
+			if(target=="parent"){
+				parent.location.href = url;	
+			}else if(target=="top"){
+				top.location.href = url;	
+			}else if(target=="window"){
+				window.location.href = url;	
+			}else if(target=="blank"){
+				window.open(url);	
+			}else{
+				window.location.href = url;	
+			}
+		}	
+	
+		sfHover = function() {
+			var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfhover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+				}
+			}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);				
+	</script>    
 
 </head>
 
@@ -33,11 +46,12 @@
 <div id="header">
 
 
-    <div style="text-align: center;" class="homehide" id="banner_car">
+    <div style="float: left; text-align: center;" class="homehide" id="banner_car">
             <a href="http://www.facebook.com/apps/application.php?id=11901394292" target="_blank">
                 <img src="/banners/60x690-polpredictor.jpg" title="Play Poll Predictor on Facebook!" alt="Play Poll Predictor on Facebook!" style="margin: 0 0 0 -7px; border: none; height: 60px; width: 690px;">
             </a>
     </div>
+
 
 	<h1 id="top"><a href="default.aspx">Ipsos i-Say</a></h1>
     
@@ -80,8 +94,8 @@
 	            <li><a href="#">Fun Stuff</a>
 		            <ul>
 			            <li><a href="http://soundoff.myisay.com/question/live/lang/1">Sound Off!</a></li>
-			            <li><a href="quickpolls.aspx">Suggest-A-Poll</a></li>
-						<li><a href="http://meetourpanel.myisay.com/?cc=0">Meet Our Panel</a></li>
+			            <li><a href="http://pollshare.myisay.com/index.php/main/index/country/1">PollShare</a></li>
+						<li><a href="http://meetourpanel.myisay.com/?cc=0" target="_blank">Meet Our Panel</a></li>
                         <li><a href="http://www.facebook.com/apps/application.php?id=11901394292" target="_blank">Poll Predictor</a></li>			            
 		            </ul>
 	            </li>
