@@ -1,66 +1,61 @@
-> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2008-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609022945id_/http%3A//hcsc.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
-
-|   
----  
-[](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/index.htm)  
-[](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/abouthcsc.htm)  
-[](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/div_and_subsid.htm)  
-[](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/newsroom.htm)  
-[](https://web.archive.org/web/20080808102516id_/http%3A//www.hcsc.com/contact_us.htm)  
-| 
+# Health Care Service Corp (HCSC)
 
 At Health Care Service Corporation, a Mutual Legal Reserve Company (HCSC), we know how important your privacy is to you, and it is very important to us as well. Whether you are a current customer or just visiting our Web site, we are committed to attempting to protect the information you provide, just as we protect it when you provide it to us over the phone, in person or through the mail. 
 
 We value your relationship with us, so we want you to understand our privacy objectives for our Web site, and how and why we collect, use and disclose the personal information about you on our Web sites. 
 
-| •  | **Personal Information we Collect and Use at This Web Site**  
----|---  
-  | 
+* * *
+
+**Personal Information We Collect and Use at This Web Site**
 
 We do not collect any personal information about you at our Web sites unless you choose to provide it to us voluntarily. We define “personal information” as information that is unique to you and might include your phone number, name, age, address or Social Security Number. If you encounter a screen or page that requests information you do not want to share with us, do not enter the information and do not proceed with that screen or page.
 
-If you do provide us with personal information, we will restrict its use to the purposes expressed where it was collected. We will not sell, license, transmit or disclose this information outside of HCSC unless (1) you expressly authorize us to do so, (2) it is necessary to allow our contractors or agents to provide services for us, (3) it is required to provide our products or services to you, or (4) otherwise as we are required or permitted by law.
+If you do provide us with personal information, we will restrict its use to the purposes expressed where it was collected. We will not sell, license, transmit or disclose this information outside of HCSC unless (1) you expressly authorize us to do so, (2) it is necessary to allow our contractors or agents to provide services for us, (3) it is required to provide our products or services to you, or (4) otherwise as we are required or permitted by law.  
+Top of Page
 
-Top of Page   
-  
-  
-   
-•  | **Use of E-Mail**  
-  | You may have the opportunity to provide information to us through online surveys and forms. We use this information to better understand health care needs and to provide quality products, services and other opportunities. 
+* * *
 
-HCSC wants your visit to our Web site to be informative and enjoyable. We plan to use any information we obtain from you to help us continually improve the content, functionality and overall usefulness of our Web site.
+**Use of E-Mail**
 
-Top of Page  
-  
-   
-•  | **Confidentiality and Security**  
-  | We restrict access to personal information collected about you at our Web sites to our employees, our affiliates' employees, or others who need to know that information to provide services to you or are conducting our normal business operations. We maintain appropriate physical, electronic, and procedural safeguards to protect personal information. 
+You may have the opportunity to provide information to us through online surveys and forms. We use this information to better understand health care needs and to provide quality products, services and other opportunities.   
+HCSC wants your visit to our Web site to be informative and enjoyable. We plan to use any information we obtain from you to help us continually improve the content, functionality and overall usefulness of our Web site.  
+Top of Page
+
+* * *
+
+**Confidentiality and Security**
+
+We restrict access to personal information collected about you at our Web sites to our employees, our affiliates' employees, or others who need to know that information to provide services to you or are conducting our normal business operations. We maintain appropriate physical, electronic, and procedural safeguards to protect personal information. 
 
 Please note the advice above, under “E-mail,” regarding sending confidential, personal or sensitive information by e-mail. If you do provide your personal information to us, such as an e-mail, telephone or fax number, or other identifying information, we do not plan to disclose it without your consent. We will plan to maintain this information, as well as any other transactions, according to our usual security and confidentiality standards.
 
-Top of Page  
-  
-   
-•  | Confidentiality  
-  |  Again, please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed. 
+Top of Page
 
-If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on the back of your insurance card. 
+* * *
 
+**Confidentiality**
+
+Again, please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed.   
+If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on the back of your insurance card.   
 If you do provide personal information, such as an e-mail, telephone or fax number, or other identifying information, we do not plan to disclose it without your consent. We will plan to maintain this information, as well as any other transactions, according to our usual security and confidentiality standards. 
 
-Top of Page  
-  
-   
-•  | **Links to Other Sites**  
-  | For your convenience we may provide links to other Web sites and Web pages that we do not control. We cannot be and thus, we are not responsible for the privacy practices of any Web sites or pages not under our control. We do not endorse any of these Web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages. 
+Top of Page
 
-Top of Page  
-  
-   
-•  | **Use of Cookies or Other Data Collection Tools**  
-  | A cookie is a piece of information which a Web server may place on your computer when you visit a Web site. Cookies are commonly used by Web sites to improve the user experience and have not been known to transmit computer viruses or otherwise harm your computer. Many cookies last only through a single Web site session, or visit. Others may have an expiration date, or may remain on your computer until you delete them.
+* * *
+
+**Links to Other Sites** ****
+
+For your convenience we may provide links to other Web sites and Web pages that we do not control. We cannot be and thus, we are not responsible for the privacy practices of any Web sites or pages not under our control. We do not endorse any of these Web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages. 
+
+Top of Page
+
+* * *
+
+**Use of Cookies or Other Data Collection Tools** ****
+
+A cookie is a piece of information which a Web server may place on your computer when you visit a Web site. Cookies are commonly used by Web sites to improve the user experience and have not been known to transmit computer viruses or otherwise harm your computer. Many cookies last only through a single Web site session, or visit. Others may have an expiration date, or may remain on your computer until you delete them.
 
 We may use cookies for a number of purposes - for example, to maintain continuity during a user session, to gather data about the usage of our Web site for research and other purposes, to store your preferences for certain kinds of information and marketing offers, or to store a user name or encrypted identification number so that you do not have to provide this information every time you return to our Web site. 
 
@@ -74,13 +69,12 @@ In addition to the information we collect from cookies, we also obtain informati
 
 You may have the opportunity to provide information to us through online surveys and forms. We use this information to better understand health care needs and to provide quality products, services and other opportunities. HCSC wants your visit to our Web site to be informative and enjoyable. We plan to use any information we obtain from you to help us continually improve the content, functionality and overall usefulness of our Web site. 
 
-Top of Page  
-  
-   
-•  | **Changes to our Web Site Privacy Statement**  
-  | Evolving technology will continue to provide us with new and better ways to collect and use information so that we may better serve your health coverage needs. We may change this Statement at any time and from time to time. The most recent version of the Statement is reflected by the version date located at the bottom of this Statement. This Statement is not intended to and does not create any contractual or other legal right in or on behalf of any party.
+Top of Page
 
-Top of Page  
-  
-  
+* * *
 
+**Changes to our Web Site Privacy Statement** ****
+
+Evolving technology will continue to provide us with new and better ways to collect and use information so that we may better serve your health coverage needs. We may change this Statement at any time and from time to time. The most recent version of the Statement is reflected by the version date located at the bottom of this Statement. This Statement is not intended to and does not create any contractual or other legal right in or on behalf of any party.
+
+Top of Page
