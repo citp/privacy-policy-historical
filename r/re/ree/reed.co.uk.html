@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216085053id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reed.co.uk privacy policy that was archived on 2009-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090609222850id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="copyright" content="© 2008 Reed Executive PLC">
+        <meta name="copyright" content="© 2009 Reed Executive PLC">
         <title>
             
 reed.co.uk - Privacy
@@ -18,13 +18,14 @@ reed.co.uk - Privacy
         <link type="text/css" rel="stylesheet" media="screen" href="/resources/css/core.css">
         <link type="text/css" rel="stylesheet" media="print" href="/resources/css/print.css">
         <script src="/Resources/scripts/core.js" type="text/javascript"></script>
-        <script src="/resources/scripts/jquery-1.2.6.min.js" type="text/javascript"></script>
+        <script src="/resources/scripts/jquery-1.3.1.min.js" type="text/javascript"></script>
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         
 	<link type="text/css" rel="stylesheet" media="screen" href="resources/css/copyPage.css">
 
     </head>
     <body id="ctl00_mainBody">
+    <a id="top"></a> 
         <div class="headerContainerMain">
             <div class="navBG">
                 
@@ -38,7 +39,7 @@ reed.co.uk - Privacy
                         </div>
                         
                             <div id="ctl00_Header_TopBanner_reedTopBannerStats_divTopStats" class="jobNumber">
-    <span>124,345</span>&nbsp;jobs from <span class="recruiterNo">10,336</span>&nbsp;recruiters online</div>
+    <span>97,984</span>&nbsp;jobs from <span class="recruiterNo">8,797</span>&nbsp;recruiters online</div>
                         
                         <div class="skiplink"><a href="#startcontent">Skip over navigation</a></div>
                         <div class="headerNavigation">
@@ -48,12 +49,9 @@ reed.co.uk - Privacy
     <li style="border-left:none"><a href="/Default.aspx" class="homeLink" title="Go to the reed.co.uk jobseekers home page" accesskey="0">Home</a></li>
     <li><a href="/Tempzone/Default.aspx?ot=2&amp;jt=4" title="Reed Temp Zone - the home of temping with Reed" accesskey="1">Temp Zone</a></li>
     <li><a href="/CareerTools/Default.aspx" title="Tools and career information to help you progress" accesskey="2">Career Tools</a></li>
-    
-    <li><a href="/cms/LearningCentre" title="The reed.co.uk Learning Centre" accesskey="4">
-        Learning Centre</a></li>
+    <li><a href="/LearningCentre/" title="The reed.co.uk Learning Centre" accesskey="4">Learning Centre</a></li>
     <li style="border-right:none"><a href="/Contact.aspx" title="Find your local Reed office, follow up an application or contact the technical team" accesskey="5">Contact</a></li>
 </ul>
-
 					        <ul class="jobseekerSignPost">
                                 <li class="jobseekerSignPostRight">&nbsp;</li>
                                 <li><a href="/JobSeekersServices/shortlist.aspx" id="ctl00_Header_hypShortlists" class="jsShortlist" title="Shortlist of jobs to review later">Shortlist <span id="ctl00_Header_lblShortList">(0)</span></a></li>
@@ -65,7 +63,7 @@ reed.co.uk - Privacy
 					        </ul>
 					        </div>
                             <div class="recruiterLink">
-		                        <a href="/Recruiter/"><span>Recruiters</span><br>Post a job »</a>
+		                        <a href="/Recruiter/"><span>RECRUITING?</span><br>Advertise a vacancy »</a>
 	                        </div>
                         </div>
                     </div>
@@ -81,169 +79,41 @@ reed.co.uk - Privacy
 <script type="text/javascript" src="/resources/scripts/Ajax/TownsProvider.js"></script>
 <script type="text/javascript" src="/resources/scripts/Ajax/TownsListener.js"></script>
 <script type="text/javascript" src="/resources/scripts/ErrorBox.js"></script>
+<script type="text/javascript" src="/resources/scripts/JobSearch.js"></script>
+
 <script language="javascript" type="text/javascript">
-function LogSeacrhParams()
-{
-    try {
-	    var Max = document.getElementById("mxs").value;    	
-	    var Min = document.getElementById("ms").value;    	
-	    var Location = document.getElementById("l").value;
-	    var Keywords = document.getElementById("k").value;
-	    var ParentSector = document.getElementById("s").options[0].text;
-	    var SubSector = document.getElementById("s").options[document.getElementById("s").selectedIndex].text;
-	    var SearchTitleOnly = "";
-	    if (document.getElementById("chkTitleOnly").checked == true)
-	       SearchTitleOnly = "Yes";
-	    else
-	       SearchTitleOnly = "No";
-	       
-	    if(SubSector.length > 0){
-		    if(SubSector.indexOf('-') == 0){
-			    ParentSector = ParentSector.substring(4, ParentSector.length);
-			    SubSector = SubSector.substring(1,SubSector.length);
-		    }
-		    else
-		        ParentSector = SubSector;		    
-	    }
-	    else{
-		    ParentSector = "All sectors";
-		    SubSector = "All roles";	
-	    }
-    	var Proximity = document.getElementById("lp").options[document.getElementById("lp").selectedIndex].text;
-	    var SalType = document.getElementById("st").options[document.getElementById("st").selectedIndex].text;
-        var JobType = "";
-	    var addComma = "";
-	    if (document.getElementById("permenent").checked){
-		    JobType +="Permenent";
-		    addComma = ",";
-	    }
-	    if (document.getElementById("temporary").checked){
-	        if(JobType.length > 0)
-	            addComma = ",";
-	        JobType += addComma + "Temporary";
-		    addComma = "";
-	    }
-	    if (document.getElementById("partTime").checked){
-		    if(JobType.length > 0)
-	             addComma = ",";
-	        JobType += addComma + "PartTime";
-		    addComma = "";
-	    }
-	    if (document.getElementById("contract").checked){
-		    if(JobType.length > 0)
-	            addComma = ",";
-	        JobType += addComma + "Contract";
-		    addComma = "";
-	    }
-        dcsMultiTrack('DCS.dcsuri','/job/search.html','DCSext.LogType','QuickSearch','DCSext.Keywords',Keywords,'DCSext.MinSal',Min,'DCSext.MaxSal',Max,'DCSext.SalType',SalType,'DCSext.LocationName',Location,'DCSext.JobType',JobType,'DCSext.Sector',ParentSector,'DCSext.SubSector',SubSector,'DCSext.Proximity',Proximity,'DCSext.SearchTitleOnly',SearchTitleOnly);
-    }
-    catch(e){}
-}
-
-    //Error box popup
-    var ValidMinSalary, ValidMaxSalary, ValidLocation;
-	var IsAllFieldsEmpty = true;
-	var ValidSalaryOrder = true;
-		
-	function OnSearch() 
-	{
-	    try {
-			ClearPlaceHolders();
-			if (CheckIfAllFieldsAreEmpty()){
-			    document.getElementById("EmptyFieldErrorPlaceHolder").innerHTML = "<div style=\"display: inline; opacity: 1;\" class=\"errorPopup\" id=\"errorBox\"><div class=\"heading\"><h3>Note:<\/h3><span><a href=\"Javascript:CloseErrorBox('errorBox')\">Close<\/a><\/span><\/div><div class=\"errorMessage\"><b>Please ensure you have entered some search criteria.<\/b><\/div><\/div>";
-				return false;
-			}
-
-			minSalary = CleanSalary(document.getElementById("ms").value, "From");
-			document.getElementById("ms").value = minSalary;
-
-			maxSalary = CleanSalary(document.getElementById("mxs").value, "To");
-			document.getElementById("mxs").value = maxSalary;
-			
-			ValidMinSalary = ValidateSalary(minSalary,null,null,"From");	
-			ValidMaxSalary = ValidateSalary(maxSalary,null,null,"To");
-			if (ValidMaxSalary && ValidMinSalary)
-                ValidSalaryOrder = ValidateSalaryOrder(maxSalary, minSalary, "To", "From");
-			
-			ValidLocation = ValidateLocation(); //this will force a async call to validation the location on the server - and the listener will process the result
-			
-			//Valid location - but invalid salary
-			if(ValidLocation && !(ValidMinSalary && ValidMaxSalary && ValidSalaryOrder)){
-				ErrorPopup = new ErrorBox("errorBox", document.getElementById("SalaryErrorPlaceHolder"), !ValidMaxSalary, !ValidMinSalary, !ValidSalaryOrder, false, false, document.getElementById("l"));
-				ErrorPopup.Display();
-				return false;
-			}
-			//Everything's valid
-			else if(ValidLocation && ValidMinSalary && ValidMaxSalary && ValidSalaryOrder)
-				return true;
-			else
-				return ValidLocation;			
-		}
-		catch(ex){return true;}
-    }
-	
-	function ClearPlaceHolders(){
-		document.getElementById("EmptyFieldErrorPlaceHolder").innerHTML = "";
-		document.getElementById("SalaryErrorPlaceHolder").innerHTML = "";
-		document.getElementById("LocationErrorPlaceHolder").innerHTML = "";
-	}	
-	
-	function CheckIfAllFieldsAreEmpty(){
-		if (document.getElementById("k").value.length > 0)
-		    return false;
-		if (document.getElementById("lg") != null){
-			if (document.getElementById("lg").options[document.getElementById("lg").selectedIndex].value.length > 0)
-			    return false;			
-		}
-		if (document.getElementById("s").options[document.getElementById("s").selectedIndex].value.length > 0)
-		    return false;
-		if (document.getElementById("l").value.length > 0)
-			return false;
-		if (document.getElementById("ms").value.length > 0 && document.getElementById("ms").value != "From")
-			return false;
-		if (document.getElementById("mxs").value.length > 0 && document.getElementById("mxs").value != "To")
-			return false;
-		if (document.getElementById("permenent").checked)
-			return false;
-		if (document.getElementById("temporary").checked)
-			return false;
-		if (document.getElementById("partTime").checked)
-			return false;
-		if (document.getElementById("contract").checked)
-			return false;
-		return true;
-	}
-	
-	function ValidateLocation()	{	
-		var reg = /^\w{1,2}\d+/; 
-		var isValid = true;
-		locationBox = document.getElementById("l");
-		if((locationBox.value != '') && (!reg.test(locationBox.value)))	{
-		    try {
-			    loadingDiv = document.getElementById("ValdateLocation");
-			    loadingDiv.style.display = "inline";
-			    listener = new TownsListener(loadingDiv, "errorBox", document.getElementById("JobSearchForm"), document.getElementById("LocationErrorPlaceHolder"), document.getElementById("SalaryErrorPlaceHolder"), ValidMaxSalary, ValidMinSalary, ValidSalaryOrder, locationBox);
-			    TownProvider = new TownsProvider(listener);
-			    TownProvider.validate(locationBox.value);
-			    isValid = false;
-		    }
-		    catch(ex){}
-		}
-		return isValid;
-	}
+    //
+    var jobSearchFields =
+    {
+        MaxSal:         'mxs',
+        MinSal:         'ms',
+        Location:       'l',
+        Keywords:       'k',
+        SectorIds:      's',
+        LocationProx:   'lp',
+        SalType:        'st',
+        LangIds:        'lg',
+        SalFromText:    'From',
+        SalToText:      'To',
+        TitleOnly:      'chkTitleOnly',
+        Perm:           'permenent',
+        Temp:           'temporary',
+        PartTime:       'partTime',
+        Contract:       'contract'
+    };
 </script>
  <div class="searchContainer">
-    <form action="/job/searchresults.aspx" id="JobSearchForm" method="get" onsubmit="return OnSearch()" class="searchForm">
+    <form action="/job/searchresults.aspx" id="JobSearchForm" method="get" onsubmit="return OnSearch(jobSearchFields, 'EmptyFieldErrorPlaceHolder', 'SalaryErrorPlaceHolder', 'LocationErrorPlaceHolder', 'ValdateLocation', 'JobSearchForm')" class="searchForm">
 	<h2>Search Jobs</h2>
 		<fieldset>
 		<div class="errorPlaceHolder" id="EmptyFieldErrorPlaceHolder"></div>
        	
         <div class="searchPanels">
-			<label for="k"><span style="float:left;">Enter keyword(s)</span>
+			<label for="k"><span style="float:left;">Enter keyword(s):</span>
 			<a href="/Help/JobSearch.aspx" target="_blank" onclick="popUpWin('/Help/JobSearch.aspx',800,550); return false;" title="This will open in a new window" onkeypress="popUpWin('/Help/JobSearch.aspx',800,550); return false;" class="searchHelp"><img src="/resources/images/core/searchHelp.png" width="13" height="13" alt="Help" align="top"></a></label><br>
 			<input type="text" maxlength="255" id="k" name="k" class="keywordInput" title="Enter keywords" value=""><br>
 			<p class="radioButtons">
-			   <label for="chkTitleDesc" class="labelSmall" style="font-weight:normal;"><input type="radio" id="chkTitleDesc" value="false" name="jto" title="in title and description" checked="">in title &amp; description</label>
+			   <label for="chkTitleDesc" class="labelSmall" style="font-weight:normal;"><input type="radio" id="chkTitleDesc" value="false" name="jto" title="in title and description" checked="checked">in title &amp; description</label>
 			   <label for="chkTitleOnly" class="labelSmall" style="font-weight:normal;"><input type="radio" id="chkTitleOnly" name="jto" title="title" value="true">title only</label>
 			</p>
 		</div>
@@ -290,6 +160,8 @@ function LogSeacrhParams()
 		                <option value="24">Human Resources</option>
 		            
 		                <option value="52">IT &amp; Telecoms</option>
+		            
+		                <option value="9998">IT Contractor</option>
 		            
 		                <option value="101">Legal</option>
 		            
@@ -338,7 +210,7 @@ function LogSeacrhParams()
 			
 			<input type="text" maxlength="50" class="locationInput" id="l" name="l" title="Enter town, county or postcode" value="">
 			<select id="lp" name="lp" class="locationWithin">
-				<option selected="" value="">Within</option>
+				<option selected="selected" value="">Within</option>
 				<option value="0">0 miles</option>
 				<option value="3">3 miles</option>
 				<option value="5">5 miles</option>
@@ -347,7 +219,7 @@ function LogSeacrhParams()
 				<option value="30">30 miles</option>
 			</select>
 			<p class="checkBoxes">
-			<label class="labelSmall" for="rememberLocation" style="font-weight:normal;"><input type="checkbox" id="rememberLocation" name="rl" value="true" title="Remember this location">Remember this location</label>				
+			    <label class="labelSmall" for="rememberLocation" style="font-weight:normal;"><input type="checkbox" id="rememberLocation" name="rl" value="true" title="Remember this location">Remember this location</label>				
 			</p>
 		</div>
 
@@ -355,11 +227,11 @@ function LogSeacrhParams()
 		<div class="errorPlaceHolder" id="SalaryErrorPlaceHolder"></div>
 		<div class="searchPanels">
 			<label for="ms">Enter salary range (£):</label><br>
-			<input type="text" maxlength="7" class="salaryInput" title="Salary from" id="ms" name="ms" value="From" onfocus="if(this.value=='From')this.value='';" onblur="if(this.value=='')this.value='From';">
-			<input type="text" maxlength="7" class="salaryInput" id="mxs" name="mxs" title="Salary to" value="To" onfocus="if(this.value=='To')this.value='';" onblur="if(this.value=='')this.value='To';">
+			<input type="text" maxlength="8" class="salaryInput" title="Salary from" id="ms" name="ms" value="From" onfocus="if(this.value=='From')this.value='';" onblur="if(this.value=='')this.value='From';">
+			<input type="text" maxlength="8" class="salaryInput" id="mxs" name="mxs" title="Salary to" value="To" onfocus="if(this.value=='To')this.value='';" onblur="if(this.value=='')this.value='To';">
 			<select id="st" title="Salary type" class="salaryType" name="st">
 				<option value="0">salary type</option>
-				<option selected="" value="5">per annum</option>
+				<option selected="selected" value="5">per annum</option>
 				<option value="4">per month</option>
 				<option value="3">per week</option>
 				<option value="2">per day</option>
@@ -396,20 +268,18 @@ function LogSeacrhParams()
 			<input type="hidden" name="da" value="8630"> 
 
 			<div class="searchSubmit">
-				<input type="submit" value="Search jobs &nbsp;" onclick="LogSeacrhParams();" title="Search Jobs">
+				<input type="submit" value="Search jobs &nbsp;" onclick="LogSeacrhParams(jobSearchFields);" title="Search Jobs">
 			</div>
 		</div>  
-		
-		
 		</fieldset>
 		<div class="progressIndicator"><span id="ValdateLocation" style="display:none"></span></div>
-    <div class="searchLinks">
-		
-		<a href="/Job/AdvancedSearch.aspx" id="ctl00_LeftMenu_JobSearch1_divAdvancedSearchLink">Advanced Search</a>
-		<a href="/LocalJobs/" id="ctl00_LeftMenu_JobSearch1_divLocalJobLink">Local Job Search</a>
-		<a href="/RecruiterDirectory/Default.aspx">Company Search</a>
-		<a href="/Job/ReferenceSearch.aspx" id="ctl00_LeftMenu_JobSearch1_divRefSearchLink">Job Reference Search</a>
-	</div>
+        <div class="searchLinks">
+		    
+		    <a href="/Job/AdvancedSearch.aspx" id="ctl00_LeftMenu_JobSearch1_divAdvancedSearchLink">Advanced Search</a>
+		    <a href="/LocalJobs/" id="ctl00_LeftMenu_JobSearch1_divLocalJobLink">Local Job Search</a>
+		    <a href="/RecruiterDirectory/Default.aspx">Company Search</a>
+		    <a href="/Job/ReferenceSearch.aspx" id="ctl00_LeftMenu_JobSearch1_divRefSearchLink">Job Reference Search</a>
+	    </div>
     </form>
 </div>
 
@@ -455,21 +325,32 @@ such equipment, is recorded as part of a relevant filing system or with the inte
         <div class="skyContainer">
 	   
 <script language="JavaScript" type="text/javascript">
-if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
-if(typeof(tile)=="undefined"){var tile=1} else {tile++};
-if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/reedad21/ros;tile=' + tile + ';' + dcopt + 'sz=120x600;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/reedad21/ros;tile=1;dcopt=ist;sz=120x600;ord=536693996?" type="text/javascript"></script>
+    /* <![CDATA[ */
+        if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
+        if(typeof(tile)=="undefined"){var tile=1} else {tile++};
+        if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist;"} else {dcopt=""};
+        document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/reedad21/ros;tile=' + tile + ';' + dcopt + 'sz=120x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+    /* ]]> */
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/reedad21/ros;tile=1;dcopt=ist;sz=120x600;ord=5651878146?" type="text/javascript"></script>
 <noscript>
     <a href="http://ad.uk.doubleclick.net/jump/reedad21/ros;sz=120x600;ord=123456789?" target="_blank">
     <img src="http://ad.uk.doubleclick.net/ad/reedad21/ros;sz=120x600;ord=123456789?" width="120" height="600" border="0" alt=""/></a>
-
 </noscript>
 
 
     </div>
-
                 
+                
+                    <script type="text/javascript">
+                        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                        try {
+                            var pageTracker = _gat._getTracker("UA-403581-1");
+                            pageTracker._trackPageview();
+                        } catch (err) { }
+                    </script>
             </div>
         </div>
         
@@ -505,15 +386,15 @@ document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/
     <br>
     <br>
     <br>
-    ©1995-2008
+    ©1995-2009
 </div>
-
                 </div>
             </div>
-            <script type="text/javascript" src="/Scripts/WebTrends.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsmswey810000o2ufu3r5avo_3o6i/wtid.js"></script>
+            <script type="text/javascript" src="/Resources/Scripts/WebTrends.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsmswey810000o2ufu3r5avo_3o6i/wtid.js"></script>
             <noscript>
                 <img alt="" name="dcsimg" width="0" height="0" src="http://statse.webtrendslive.com/dcsmswey810000o2ufu3r5avo_3o6i/njs.gif?dcsuri=/nojavascript&amp;wt.js=no&amp;wt.tv=8.0.0" />
             </noscript>
         
     
+
 </body></html>
