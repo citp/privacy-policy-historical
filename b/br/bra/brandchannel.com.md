@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065838id_/http%3A//www.brandchannel.com/disclaimer.asp%23disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandchannel.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609161718id_/http%3A//www.brandchannel.com/disclaimer.asp%23disclaimer) for the most accurate reproduction.*
 
 # brandchannel.com | disclaimer
 
@@ -17,10 +17,10 @@ Brandchannel.com. The world's only online exchange about branding.
   | 
 
 **Brandchannel.com**   
-130 Fifth Avenue  
+130 Fifth Avenue   
 New York, NY 10011   
-tel.: +1.212.798.7597  
-fax: +1.212.798.7672
+tel: + 1 (212) 798-7597   
+fax: + 1 (212) 798-7672 
 
 For general site questions, please email: [question@brandchannel.com](mailto:question@brandchannel.com)
 
@@ -29,11 +29,7 @@ For general site questions, please email: [question@brandchannel.com](mailto:que
   |  Brandchannel Contributors |    
   | 
 
-John Allert, Kim Barnet, Michelle Boisson, A.K.Cabell, Ian Cocoran, Edwin Colyer, Randall Frost,  
-Vincent Grimaldi, Evelyn Hafferty, Ron Irwin, Anil Kachala, Preeti Khicha, Sergey Khorenko,  
-Kartikeya Kompella, Vivian Manning-Schaffel, Pete Markiewicz, Alycia de Mesa, Joe Ray, Robin Rusch,  
-Abram Sauer, Cristi Sauser, Michael Standaert, Jeff Swystun, James Thompson, Tasha Walters, Iris Yee,  
-Anthony Zumpano. 
+John Allert, Kim Barnet, Michelle Boisson, A.K.Cabell, Ian Cocoran, Edwin Colyer, Randall Frost, Vincent Grimaldi, Evelyn Hafferty, Ron Irwin, Anil Kachala, Preeti Khicha, Sergey Khorenko, Kartikeya Kompella, Asher J. Levine, Vivian Manning-Schaffel, Pete Markiewicz, Alycia de Mesa, Joe Ray, Robin Rusch, Abram Sauer, Cristi Sauser, Barry Silverstein, Michael Standaert, Jeff Swystun, James Thompson, Tasha Walters, Iris Yee, Anthony Zumpano. 
 
 |    
    
@@ -125,4 +121,4 @@ Brandchannel.com reserves the right to change its terms and policy at any time w
 
 |    
   
-Copyright © 2001-2008 brandchannel. All rights reserved. 
+Copyright © 2001-2009 brandchannel. All rights reserved. 
