@@ -1,0 +1,164 @@
+<!--The following is the downloaded HTML source of the ragial.com privacy policy that was archived on 2009-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090610010917id_/http%3A//ragial.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="ragial"><head>
+<title> Ragial - Privacy Policy</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-language" content="en">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+<meta id="description" name="description" content="Ragial is an iRO fan site that offers real time market information, price history, and merchant vend history.">  
+	<script type="text/javascript"> 
+	var userVisible=false;
+
+	function ToggleUser() {
+		if (userVisible == true)
+			DoUserOff();
+		else
+			DoUserOn();
+	}
+	function DoUserOn() {
+		document.getElementById('bignblack').style.opacity = 0.60;
+		document.getElementById('bignblack').style.filter = 'alpha(opacity=60)';
+		document.getElementById('bignblack').style.visibility = 'visible';
+		document.getElementById('userbox').style.visibility= 'visible';
+
+		userVisible=true;
+	}
+	function DoUserOff()
+	{
+		document.getElementById('bignblack').style.visibility = 'hidden';
+		document.getElementById('userbox').style.visibility= 'hidden';
+		userVisible=false;
+	}
+  	function DoSubmitRedirect(module, field)
+	{
+		var searchStr=document.getElementById(field).value;
+		searchStr=searchStr.replace(/\+/g, "%2B");
+		searchStr=escape(searchStr);
+
+		var server=document.getElementById('market_server').value;
+		
+		document.location="http://ragial.com/"+module+"/"+server+"/"+searchStr;
+		
+		return false;
+	}
+	function ImageToggle(id, imgLoc, newUrl)
+	{
+		document.getElementById(id).innerHTML="<a href=\"javascript:ImageToggle('"+id+"','"+newUrl+"','"+imgLoc+"')\"><img src=\""+imgLoc+"\"/></a>";
+	}
+  </script>
+	<link type="text/css" rel="stylesheet" href="http://ragial.com/template/default/default.css">
+	<link rel="shortcut icon" href="res/favicon.ico">
+</head>
+<body>
+<div id="bignblack"></div>
+	<div id="userbox">
+		<h1>User Control Panel</h1><div id="userboxhl"><a href="javascript:DoUserOff()" class="ubxbutton">X</a></div>
+		<div id="login">
+			<form action="" method="get" class="user_login">
+			<table cellspacing="0" cellpadding="0" id="user_login_table">
+			<tbody><tr><td colspan="2" id="user_login_head">Login</td></tr>
+			<tr><td colspan="2" id="user_login_spacer"></td></tr>
+			<tr><td id="user_login_left">Username:</td><td id="user_login_right"><input type="text" name="user" id="user_login_user" tabindex="0"></td></tr>
+			<tr><td id="user_login_left">Password:</td><td><input type="password" name="pass" id="user_login_pass" tabindex="1"></td></tr>
+			<tr><td colspan="2" id="user_login_both"><a href="" class="left">Lost password?</a><input type="image" src="http://ragial.com/template/default//img/login.png" name="login" value="login" id="user_login_login" title="Search market" tabindex="2"></td></tr>
+			</tbody></table>
+			</form>
+		</div>
+		<div id="register">
+			<form action="" onsubmit="javascript:DoUserLogin()" method="get" class="user_login">
+			<table cellspacing="0" cellpadding="0" id="user_login_table">
+			<tbody><tr><td colspan="4" id="user_login_head">Register</td></tr>
+			<tr><td colspan="4" id="user_reg_spacer"></td></tr>
+			<tr>
+				<td id="user_reg_text">Username:</td><td id="user_reg_input"><input type="text" name="user" id="user_login_user" tabindex="0"></td>
+				<td id="user_reg_text">Password:</td><td><input type="password" name="pass" id="user_login_pass" tabindex="1"></td>
+			</tr>
+			<tr>
+				<td id="user_reg_text">E-mail:<h6>must be valid</h6></td><td><input type="password" name="pass" id="user_login_pass" tabindex="1"></td>
+				<td id="user_reg_text">Password:<h6>repeat previous</h6></td><td><input type="password" name="pass" id="user_login_pass" tabindex="1"></td>
+			</tr>
+			<tr><td colspan="4" id="user_login_both"><p class="left"><a href="">Terms of Serivce</a> &nbsp;|&nbsp; <a href="">Privacy Policy</a> </p><input type="image" src="http://ragial.com/template/default//img/register.png" name="login" value="login" id="user_login_login" title="Search market" tabindex="2"></td></tr>
+			</tbody></table>
+			</form>
+		</div>
+	</div>
+<div id="container">
+	<div id="head_bg">
+		<div id="head_container">
+			<div id="head_nav">Logged in as <a href="javascript:ToggleUser()">Guest</a></div>
+			<div id="head_logo"><a href="http://ragial.com/"><img src="http://ragial.com/template/default//img/logo.png"></a></div>
+			<div id="head_search">
+				<div id="head_search_text">
+					<a href="http://ragial.com/2">Chaos</a> | 
+					<a href="http://ragial.com/1">Loki</a> | 
+					<a href="http://ragial.com/0">Iris</a> | 
+					Valkyrie  
+				</div>
+				<div id="head_search_form">
+					<form action="" onsubmit="return DoSubmitRedirect('search', 'market_input')" target="_self" method="get" class="market_search">
+					<input type="text" name="searchStr" id="market_input" class="search_box" tabindex="0">
+					<input type="image" src="http://ragial.com/template/default//img/search.png" name="Search" value="Search" id="market_submit_image" class="search_button" title="Search market" tabindex="1">
+					<input type="hidden" name="server" id="market_server" value="3">
+					<p id="hidden"><input type="button" name="Submit" value="Search" id="market_submit_button" class="search_button" title="Search market"></p>
+					</form>
+				</div>
+			</div>
+			<div id="head_updated">updated ??m ago</div>
+		</div>
+	</div>
+	<div id="body_container">
+<div id="body_left">
+	<div id="bl_full">
+		<h1>Ragial.com Privacy Policy</h1>
+		<p>To aid in protecting your privacy as you see fit, we provide this statement explaining our information practices and how they affect you. </p>
+		<h4>What information is collected?</h4>
+		<p>Ragial.com retains in-depth information about all user activities.  Page views, search terms, and other usage habits are recorded.  </p>
+		<p>Certain pages require a user account to access.  The only type of information required to create a user account is an e-mail address.  Other personally identifiable information may be requested, but it is not required.</p>
+		<h4>How is the information used?</h4>
+		<p>We may use the non-personally identifiable information gathered on our site to improve our services, display anonymous usage statistics, and to improve the information shown to you, the user.  </p>
+		<p>The identifiable information you provide to us will not be given out. The information may be used by us to contact you about your account with us, fulfill requests you have made, and to update you on changes in our user agreement. We will occasionally contact you with information about our services that we believe may be of interest to you.  </p>
+		<p>If you choose to submit content to Ragial.com we may publish identifiable information you have provided to us.</p>
+		<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us.</p>
+		<p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement.</p>
+		<p>Finally, Ragial.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
+		<h4>Cookies</h4>
+		<p>Ragial.com makes extensive use of cookies.  Cookies are text files we place on your computer's hard drive to store your browsing preferences.  Cookies do not tell us your e-mail address or any other personally identifiable information.  We will never store personally identifiable information in cookies.  Information stored in cookies includes user preferences and your account name.  Cookies may also be used to improve the content displayed to you.</p>
+		<h4>Security</h4>
+		<p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
+		<h4>Notification of Changes</h4>
+		<p>If we decide to change our privacy policy we will post changes to this privacy statement.  Users may be contacted by email, but there is no gurantee.</p>
+		<h4>Conflict Resolution / Changing Your Information</h4>	
+		<p>All disputes will be resolved in a timely manner.  If problems arise users may contact us at the address listed below.</p>	
+<h4>How to Contact Us</h4>
+		<p>If you have any questions or concerns about the online privacy statement for this site, disputes about your personal information, or other inqueries you may contact us at <a href="mailto:support@ragial.com">support@ragial.com</a></p>
+	<h3></h3>
+	</div>
+</div>
+	
+			<div id="body_right">
+			<div id="br_full">
+				<h1>Tracked Items</h1>
+				<table cellpadding="0" cellspacing="0" id="tbl_item">
+					<tbody><tr><td>No tracked items</td></tr>					</tbody></table>
+				<h3> </h3>
+			</div>
+			<div id="br_full">
+				<h1>Recently Viewed</h1>
+				<table cellpadding="0" cellspacing="0">
+				<tbody><tr class="tbl_ro"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3641867"> <img src="http://ragial.com/res/img/head/1m/0907.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3641867">docDos</a></td></tr><tr class="tbl_rt"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3615603"> <img src="http://ragial.com/res/img/head/1m/0100.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3615603">kite22</a></td></tr><tr class="tbl_ro"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3575779"> <img src="http://ragial.com/res/img/head/0m/0508.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3575779">VendOrDie</a></td></tr><tr class="tbl_rt"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3553967"> <img src="http://ragial.com/res/img/head/1m/0100.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3553967">Big McLargeHuge</a></td></tr><tr class="tbl_ro"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3582005"> <img src="http://ragial.com/res/img/head/1m/0608.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3582005">God~of~forging</a></td></tr><tr class="tbl_rt"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3601934"> <img src="http://ragial.com/res/img/head/0m/2102.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3601934">*Alchemist*</a></td></tr><tr class="tbl_ro"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3514375"> <img src="http://ragial.com/res/img/head/1m/0100.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3514375">*Alphonse Elric*</a></td></tr><tr class="tbl_rt"><td id="br_tracked_itemimg" class="black"><a href="http://ragial.com/view/3V3486097"> <img src="http://ragial.com/res/img/head/0m/0507.png"></a></td><td id="br_recent_name"><a href="http://ragial.com/view/3V3486097">Pots R Us</a></td></tr>	</tbody></table>
+				<h3> </h3>
+			</div>
+		</div>	<div id="foot_bg">
+		<div id="foot_container"> 
+			<div id="foot_cent">©2009 Ragial.  All rights reserved.<br>Ragial is in no way endorsed by or affiliated with Gravity. <br> Ragnarok Online® is ©2002-2009 Gravity Co., Ltd. &amp; Lee Myoungjin. </div>
+			<div id="foot_right"><a href="http://ragial.com/terms">Terms of Service</a> &nbsp;|&nbsp; <a href="http://ragial.com/privacy">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://ragial.com/help">Help</a><br><br><a href="http://ragial.com/about">About us</a> &nbsp;|&nbsp; <a href="http://ragial.com/donate">Donate</a> &nbsp;|&nbsp; Version (<a href="http://ragial.com/changelog">0.4.0</a>)<br><br></div>
+		</div>
+	</div>
+</div>
+	</div>
+
+
+
+</body></html>
