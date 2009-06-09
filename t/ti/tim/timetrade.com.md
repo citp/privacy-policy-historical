@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514175913id_/http%3A//www.timetrade.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610003823id_/http%3A//www.timetrade.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # TimeTrade - Privacy Statement
 
