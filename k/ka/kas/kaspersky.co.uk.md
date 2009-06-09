@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218084931id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609171152id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Privacy policy
 
-The following statement discloses Kaspersky Labs' privacy policies for the Kaspersky Labs' web sites. We do update our policy periodically without notice so please check occasionally for any changes. Updates to our privacy policy will be published in this section.
+The following statement discloses Kaspersky Lab's privacy policies for the Kaspersky Lab's web sites. We do update our policy periodically without notice so please check occasionally for any changes. Updates to our privacy policy will be published in this section.
 
 We are always ready to explain: 
 
