@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041304id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609212040id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
   | 
+
+Last Revised December 15, 2008
 
 This Privacy Policy forms part of the Member Agreement and is incorporated by reference therein. This Privacy Policy covers information you may provide to Keen through the Keen.com website. Capitalized terms not defined herein will have the meanings set forth in the Member Agreement and related policies.   
 Your privacy is very important to us at Keen. Keen is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Keen.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
