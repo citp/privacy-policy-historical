@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202210516id_/http%3A//www.lonelyplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609084910id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
@@ -132,4 +132,16 @@ You know what we're famous for, and we love doing it! In publishing our fantasti
 
 ### What information do we collect?
 
-We collect information from many sources in order to provide the best travel information that we can. In some cases (mainly for preparing listings and reviews in our publications) this will include personal information about individuals (things like the name of an individual who runs a hotel, restaurant or tour company). In order to present unbiased and accurate information and opinion in our travel
+We collect information from many sources in order to provide the best travel information that we can. In some cases (mainly for preparing listings and reviews in our publications) this will include personal information about individuals (things like the name of an individual who runs a hotel, restaurant or tour company). In order to present unbiased and accurate information and opinion in our travel publications, we cannot always identify ourselves. After all, we need to get the real story!
+
+### Who do we tell?
+
+We may share personal information amongst companies in the [Lonely Planet family](http://www.lonelyplanet.com/legal/corporate-entities). We may also disclose that information to our authors, some of whom are on contract to us, to other contractors who help us put together Lonely Planet publications and, where relevant, to our business partners who assist us in providing our publications.
+
+### Complaints, comments or corrections?
+
+Lonely Planet is keen to share the views and experiences of others but if you are unhappy that personal information about you has been included in one of our publications, please let us know. Remember, this means personal information about you as an individual, not information or opinions about your business. Where reasonable and possible we will remove that personal information at the next practical opportunity - where it has been included in one of our publications that may be the next reprint or next edition.
+
+If you have any queries regarding personal information, please contact us at [privacy@lonelyplanet.com.au](mailto:privacy@lonelyplanet.com.au) or by writing to us at Locked Bag 1, Footscray, Victoria 3011, Australia.
+
+Back to top
