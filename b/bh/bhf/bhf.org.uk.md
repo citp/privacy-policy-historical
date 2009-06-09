@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218190700id_/http%3A//www.bhf.org.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609102100id_/http%3A//www.bhf.org.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # British Heart Foundation - Privacy Statement
 
