@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkanimefestival.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001145143id_/http%3A//www.nyanimefestival.com/en-us/popup/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkanimefestival.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609165415id_/http%3A//www.nyanimefestival.com/en-us/privacypolicy.cfm) for the most accurate reproduction.*
 
 # New York Anime Festival Privacy Policy & Terms & Conditions
 
@@ -24,6 +24,9 @@ Reed-US will accept, implement and maintain any customer request to opt out of f
 
 **Security  
 ** This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.
+
+**Method of Transaction Security  
+** Products of New York Anime Festival use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.
 
 **Cookies  
 ** A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The NY Anime Festival website uses temporary, session-specific cookies to ensure visits to its websites are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. We use permanent or persistent cookies that remain on a visitor's computer after the visitor leaves the NY Anime Festival website. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor's computer or interact with other cookies on the visitor's hard drive.
