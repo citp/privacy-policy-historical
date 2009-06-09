@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912204138id_/http%3A//www.newsok.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609062601id_/http%3A//www.newsok.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# NewsOK Privacy Policy | NewsOK.com
 
 ### PRIVACY POLICY OF NEWSOK.COM
 
@@ -20,7 +20,7 @@ OPUBCO requests you to review the privacy statements and policies of other websi
 
 ### Use of Your Personal Information
 
-We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [help@newsok.com](https://web.archive.org/web/20080912204138id_/http%3A//www.newsok.com/home/help@newsok.com). 
+We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [help@newsok.com](https://web.archive.org/web/20090609062601id_/http%3A//www.newsok.com/help@newsok.com). 
 
 The information we gather from you may be used in several ways, now or in the future, as follows: 
 
