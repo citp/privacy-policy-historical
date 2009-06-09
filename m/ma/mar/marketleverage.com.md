@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketleverage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052721id_/http%3A//www.marketleverage.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleverage.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609202838id_/http%3A//www.marketleverage.com/policies.php) for the most accurate reproduction.*
 
 # MarketLeverage
 
 **Privacy Policy**
 
-MarketLeverage is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Notice have the same meanings as in MarketLeverage's Website [Terms of Use](https://web.archive.org/web/20081217052721id_/http%3A//www.marketleverage.com/use.php)). MarketLeverage created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+MarketLeverage is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Notice have the same meanings as in MarketLeverage's Website [Terms of Use](https://web.archive.org/web/20090609202838id_/http%3A//www.marketleverage.com/use.php)). MarketLeverage created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
 BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
 
@@ -51,7 +51,7 @@ MarketLeverage analyzes Traffic Data and information gathered using Cookies to h
 
 
   * **By Law or to Protect Rights** \- MarketLeverage discloses Identifying Information when required to do so by law, or in response to an enforcement inquiry, subpoena or court order, in the event of a complaint or legal action arising from Your use of the Website or Services, or when MarketLeverage believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of MarketLeverage, third parties or the public at large. 
-  * **Business Transfers; Bankruptcy** \- MarketLeverage reserves the right to transfer all Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of MarketLeverage's assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by MarketLeverage�s successor organization. 
+  * **Business Transfers; Bankruptcy** \- MarketLeverage reserves the right to transfer all Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of MarketLeverage's assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by MarketLeverage’s successor organization. 
   * **Investigations; Enforcement of Agreements** \- MarketLeverage reserves the right to disclose all Identifying Information in its possession to assist in the investigation of any suspected fraud or other wrongdoing, or to otherwise enforce its agreements and policies.
 
 
