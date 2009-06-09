@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228032032id_/http%3A//www.habbo.com.sg/help/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610001438id_/http%3A//www.habbo.com.sg/help/35) for the most accurate reproduction.*
 
-# Habbo ~
+# Habbo:
 
 At Habbo Hotel, we want everyone to have a good time. The Hotel is a place for you to hang out, play, and meet new people. We promise to keep the Hotel as secure and private as we can, but you need to be conscious of safe Internet habits as well. Furthermore, we have the Habbo Way, which are guidelines for players inside the Hotel, and you need to read that before playing. Before you can become a member, you need to read the Privacy Policy all the way through before you can join. 
 
 By clicking the 'Accept' button when you register, you are allowing us to hold and process your personal information as described in this Privacy Policy. 
 
-If you are under 14 years old, you should ask your parents or guardian to let them know that you're signing up with Habbo. Please get them to explain any part of this statement you may not fully understand. 
+If you are under 13 years old, you should ask your parents or guardian to let them know that you're signing up with Habbo. Please get them to explain any part of this statement you may not fully understand. 
 
 If you have any concerns regarding your personal information, website content, or any queries with regard to Habbo Hotel practices please [contact us](http://www.habbohotel.com.sg/iot/go?lang=en_SG&country=sg). 
 
@@ -45,7 +45,7 @@ All information you provide us with, and all information contained in your accou
 
 **CHILDREN**
 
-Habbo Hotel is not intended for use by children, especially those under the age of 14. No one under the age of 14 is allowed to provide any personal information or to use our public discussion areas without parental consent. 
+Habbo Hotel is not intended for use by children, especially those under the age of 13. No one under the age of 13 is allowed to provide any personal information or to use our public discussion areas without parental consent. 
 
 If your child discloses information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, it is up to you to ensure they abide by our Terms and Conditions, caution them not to share personal information, and to monitor their use of the Website. 
 
