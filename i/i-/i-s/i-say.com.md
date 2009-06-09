@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011623id_/http%3A//i-say.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609181755id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ipsos i-Say Privacy Policy - For Online Panel Members
 
