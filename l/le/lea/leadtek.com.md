@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052733id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609173618id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
 
 # Leadtek - We make dreams a reality
 
-Leadtek Research Inc. (hereinafter called as “Leadtek”) is strongly committed to protecting the privacy of consumers of its interactive products and services. Leadtek has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.leadtek.com](https://web.archive.org/web/20081216052733id_/http%3A//www.leadtek.com/) Throughout cyberspace, we want to contribute to providing a safe and secure environment for customers, and in particular, ensure that kid’s information is protected. 
+Leadtek Research Inc. (hereinafter called as “Leadtek”) is strongly committed to protecting the privacy of consumers of its interactive products and services. Leadtek has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.leadtek.com](https://web.archive.org/web/20090609173618id_/http%3A//www.leadtek.com/) Throughout cyberspace, we want to contribute to providing a safe and secure environment for customers, and in particular, ensure that kid’s information is protected. 
 
 **1.** **Collection of your Personal Information**
 
@@ -56,4 +56,4 @@ The majority of the online banner advertisements you see on Leadtek Web sites ar
 
 Leadtek does not collection, use and sharing of their children's (ages 13 and under) personal information onlineto third parties. 
 
-**8.** This Privacy statement was last update on November 1st, 2001. For the improvement of technology and evaluation of laws, Leadtek reserve the right to modify this Privacy Policy Statement, from time to time, for protecting to privacy right of users. Any changes will be disclosed at the home page of Leadtek Web Site at [www.leadtek.com](https://web.archive.org/web/20081216052733id_/http%3A//www.leadtek.com/). ****
+**8.** This Privacy statement was last update on November 1st, 2001. For the improvement of technology and evaluation of laws, Leadtek reserve the right to modify this Privacy Policy Statement, from time to time, for protecting to privacy right of users. Any changes will be disclosed at the home page of Leadtek Web Site at [www.leadtek.com](https://web.archive.org/web/20090609173618id_/http%3A//www.leadtek.com/). ****
