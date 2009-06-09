@@ -1,149 +1,181 @@
-> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609100159id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
 
-# Privacy Policy
+# Patent Buddy -Privacy Policy Highlights
 
-#### Find Answers To Your Questions:
-
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
-
-### Privacy Policy
-
-**Why A Privacy Policy?**  
+This page summarizes the key highlights from our privacy policy. For more information, read our full privacy policy. 
 
   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
- **This Privacy Policy protects your privacy by:**
-
- **Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+Personal information collected.   
+We collect information:   
 
 
-
-**Empowering you to choose:**
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Uses of personal information.   
+We use the information you provide to:   
 
 
-
-**Assuring you that Network Solutions:**
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+Your information choices.   
+You can:   
 
 
+Important information.   
+Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy. 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+Security.   
+Personal information you provide will be secured with industry standards and technology. 
 
-  
-**Third Party Advertising and Cookies**
+How to contact us.   
+If you have any questions or comments please email us at [support@patentbuddy.com](mailto:support@patentbuddy.com) or contact us at:  
+Patent Buddy LLC  
+Attn: Privacy Policy Issues  
+Minneapolis, MN   
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+PatentBuddy Privacy Policy.   
+Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:  
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Patent Buddy service after notice of changes have been sent to you or published on the Patent Buddy website, you are consenting to the changes.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+* What personally identifiable information of yours is collected by Patent Buddy.  
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+* How the information is used.   
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+* With whom the information may be shared.  
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+* How you can access and change your Account settings.  
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+* What security procedures are in place to protect the loss, misuse or alteration of information collected by Patent Buddy  
 
- **Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
-
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
+* How to contact us.   
 
   
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Personal Information Collected.   
+The purpose of the Patent Buddy website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Patent Buddy website. If you have any hesitation about providing such information to us and/or having such information displayed on the Patent Buddy website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a member of the Patent Buddy community. 
 
-b. Click “Edit User Info” in the left menu;
+We collect your personal information in the following ways: 
 
-c. Scroll to the bottom of the page;
+Registration.   
+In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Patent Buddy, to identify you: name, email address, phone number, name of the organization that you are associated with, and a password chosen by you.   
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
 
-e. Click “SAVE.” 
+Profile Information.   
+Once you become a User, you may provide additional information in the Profile section describing your skills, professional experiences, and awards/recognitions. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Patent Buddy system to build and leverage your professional network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.   
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+Contacts Information.   
+In order to invite others to connect with you directly in Patent Buddy, you may use the Patent Buddy services to invite them if they are a User, or choose their names and enter email addresses. This information will be used by Patent Buddy to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.   
+You may not invite anyone to connect with you whom you do not know. All information entered there will only be viewable by you and will not be searchable by others in the Patent Buddy network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own information.   
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+Customer Service.   
+Patent Buddy may collect information through the Patent Buddy website or through the Customer Service in order to, among other things, accurately categorize and respond to a customer's inquiry and deliver appropriate service levels.   
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+Cookies.   
+Like most websites, Patent Buddy uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Patent Buddy to recognize you as a User when you return to the Patent Buddy website using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the Patent Buddy website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.   
+One type of cookie, known as a "persistent" cookie, is set once you've logged in to your Patent Buddy account. The next time you visit the Patent Buddy website, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.   
+Additionally, if you log out of the Patent Buddy website you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the Patent Buddy website. Session cookies expire after a short time or when you close your web browser.   
+We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Patent Buddy website or services effectively. Patent Buddy does not store personally identifiable information in the cookies.   
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+Web Beacons.   
+We allow other companies, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Patent Buddy may "target" some ads to Users that fit a certain general profile - for example, "product managers in Texas". Patent Buddy does NOT use personally identifiable information to target ads.   
+To deliver these ads properly, Patent Buddy may include a file, called a web beacon, from these ad networks within pages served by Patent Buddy so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.   
+Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.   
+These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. Patent Buddy does not provide personally identifiable information to any advertiser or any other third party.   
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+Log files, IP addresses and information about your computer.   
+Due to the communications standards on the Internet, when you visit the Patent Buddy web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Patent Buddy. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Patent Buddy service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.   
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+
+Consent to Patent Buddy Processing Information About You.   
+Certain information you provide to Patent Buddy may reveal, or allow others to identify more about you. Please be aware that in providing information to Patent Buddy for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Patent Buddy's User Agreement. The supplying of all such information by you to Patent Buddy, including all information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.   
+
+
+Rights to Access, Correct and Eliminate Information About You.   
+You have a right to access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein.   
+We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [support@patentbuddy.com](mailto:support@patentbuddy.com) or by contacting us at:   
+Patent Buddy LLC  
+Attn: Privacy Policy Issues  
+Minneapolis, MN  
+United States of America  
+
+
+Uses of personal information.   
+Patent Buddy is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Patent Buddy from Users (such as, for example, patterns of utilization) and is exclusively owned by Patent Buddy. This information can be utilized by Patent Buddy in such manner as Patent Buddy, in its sole discretion, deems appropriate.   
+
+
+Patent Buddy Communications.   
+Patent Buddy will communicate with you through email and notices posted on the Patent Buddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Patent Buddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. Patent Buddy may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to [support@patentbuddy.com](mailto:support@patentbuddy.com).   
+
+
+Customized Content.   
+Information provided to Patent Buddy (or to third parties with whom it offers combined services) is also used to customize your experience on our website. For example, when you login to your account we will display the screen names of new Users who have recently joined your network.   
+
+
+Sharing Information with Third Parties.   
+Patent Buddy takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing company to bill Users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.   
+Patent Buddy offers a "public profile" feature which allows Users to publish portions of their Patent Buddy profile, including their "name", but not their "email address", however Patent Buddy does not warrant how often third-party search engines will update their cache.   
+We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Patent Buddy.   
+
+
+Testimonials and Advertisement Placed through Patent Buddy DirectAds Service.   
+If you provide any testimonials about the Patent Buddy service or place advertisements through the Patent Buddy DirectAds services, we may post those testimonials and examples of advertisements you place in connection with Patent Buddy's promotion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided.   
+
+
+Communications to other Users.   
+Many emails you initiate through Patent Buddy, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Other communications that you initiate through the Patent Buddy website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.   
+
+
+Legal Disclaimers.   
+It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to Patent Buddy brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.   
+
+
+Disclosures to others.   
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Patent Buddy corporation division or company. Any third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.   
+
+
+Your Information Choices.   
+**Accessing and Changing Your Account Information**  
+You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Patent Buddy account including your email, and contact preferences, at any time by logging in to your account on the Patent Buddy website. Please be aware that even after your request for a change is processed, Patent Buddy may retain information about you, that is publicly available, in its database.   
+**Closing Your Account**  
+You can also close your account on Patent Buddy website. If you close your Patent Buddy account, your name will still show up from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account from the Patent Buddy website, please send your request to [support@patentbuddy.com](mailto:support@patentbuddy.com). Please send your request using an email account that you have registered with Patent Buddy under your name. You will receive a response to requests sent to [support@patentbuddy.com](mailto:support@patentbuddy.com) within few business days of its receipt. For more details please visit Patent Buddy's Policy and Procedure For Error Correction and Name Removal Requests   
+
+
+Your Obligations.   
+As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members, such as Patent Buddy:   
+
+
+  * You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the User Agreement. This includes respecting all intellectual property rights which may belong to third parties (such as photographs).   
+
+  * You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Patent Buddy and its community of Users.   
+
+  * You must not provide information to Patent Buddy and /or other Users which you believe might be injurious or detrimental to your person, professional or social status. 
+  
+Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Patent Buddy, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Patent Buddy website and the services which it offers.   
+
+
+Important Information.   
+**Children**  
+Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service unless identified as registered US patent attorney /or patent agent or inventor on US patent and /or published application.   
+**Changes to this Privacy Policy**  
+Patent Buddy may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the Patent Buddy website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.   
+If you use the Patent Buddy service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.   
+
+
+Security.   
+In order to secure your personal information, access to your data on Patent Buddy is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the Patent Buddy web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information. Please note that emails and instant messaging and similar means of communication with other users of Patent Buddy are not encrypted and we strongly request you not to communicate any confidential information through these means.   
+
+
+Customer Support   
+If you would like to contact our customer support department, please call 612-977-1709. You can also contact us via email at [support@patentbuddy.com](mailto:support@patentbuddy.com) or write us at:   
+Patent Buddy Corporation  
+Minneapolis, MN   
+
+
+  
+
+
