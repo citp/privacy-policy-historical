@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165953id_/http%3A//www.girlsgogames.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609211021id_/http%3A//www.girlsgogames.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Online Girls Games on GirlsGoGames.co.uk
+# Free Online Girls Games on GirlsGoGames.co.uk
 
 This privacy policy (hereinafter the “Privacy Policy”) is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities hereinafter collectively referred to as the “Website”). SPIL GAMES B.V. (hereinafter referred to as “SPIL”) with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates’ or reputable third parties’ services for the processing of personal data collected on or through the Website.
 
-## 1\. General data of visitors of the Website
+**1\. General data of visitors of the Website**
 
 When you visit the Website, our servers automatically save your computer’s IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.  
 
 
-## 2\. Cookies and web beacons
+**2\. Cookies and web beacons**
 
 **2.1**. SPIL may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to   
 **(a)** operate and improve offerings through the Website;   
@@ -22,22 +22,22 @@ When you visit the Website, our servers automatically save your computer’s IP 
 **2.4.** Most browsers are initially set to accept cookies, but you can (re-)set your browser to refuse all cookies or indicate when a cookie is being sent. However, some features and services may not function properly if the cookies are disabled.  
 
 
-## 3\. Email addresses
+**3\. Email addresses**
 
 **3.1**. We only collect those email addresses that were provided to us directly by the addressee or when it is beyond doubt that the addresses were provided to or on behalf of us.  
 **3.2**. Email addresses will only be used for the purposes for which the email addresses were provided and for those promotion-, service- and other purposes that you expressly approved of.  
 **3.2**. Without your approval we shall not use your email address for commercial purposes.  
 
 
-## 4\. Combination of personal data
+**4\. Combination of personal data**
 
 For optimizing our services and the Website and for the purposes mentioned in the articles 1, 2 and 3 of this Privacy Policy, we are entitled to combine your personal data, including your email address as the case may be, with other information about you collected by or provided to us.
 
-## 5\. Access to the information we collected about you
+**5\. Access to the information we collected about you**
 
 If you wish to have access to the information that we collect about you, please send a written request thereto to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, The Netherlands, together with a copy of your passport (to prevent misuse of requests for information).
 
-## 6\. Miscellaneous
+**6\. Miscellaneous**
 
 **6.1.** We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Website. You should check the Website regularly for amendments.  
 **6.2.** Internet is a global environment and using the internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using the Website you acknowledge and agree to our processing of personal data in this way.  
