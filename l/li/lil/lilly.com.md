@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162624id_/http%3A//lilly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609050742id_/http%3A//www.lilly.com/privacy) for the most accurate reproduction.*
 
 # Eli Lilly and Company » Privacy Policy
 
@@ -8,7 +8,7 @@ Eli Lilly and Company ("Lilly") has established a comprehensive privacy program,
 
 ## U.S. - EU Safe Harbor Privacy Statement
 
-For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that Lilly receives from the European Economic Area, including Switzerland, Lilly has committed to handling such personal information in accordance with the Safe Harbor Principles. Lilly's Safe Harbor certification can be found at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at http://www.export.gov/safeharbor/sh_overview.html.
+For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that Lilly receives from the European Economic Area, including Switzerland, Lilly has committed to handling such personal information in accordance with the Safe Harbor Principles. Lilly's Safe Harbor certification can be found at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
 
 ## Social Security Number Protection Policy
 
