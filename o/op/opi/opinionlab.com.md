@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160406id_/http%3A//opinionlab.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609153257id_/http%3A//www.opinionlab.com/privacy.asp) for the most accurate reproduction.*
 
 # OpinionLab › Privacy
 
