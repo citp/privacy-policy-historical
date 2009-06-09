@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanpix.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216231326id_/http%3A//www.fanpix.net/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpix.net privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609121508id_/http%3A//www.fanpix.net/index/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - FanPix.Net
 
@@ -44,4 +44,4 @@ FanPix.Net is not intended for use by children under the age of 13. If you are u
 If you choose to visit FanPix.Net, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at FanPix.Net, please send us a thorough description to our help desk, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
 
 **Related Practices and Information**  
-[Terms and Conditions of Use](https://web.archive.org/web/20081216231326id_/http%3A//www.fanpix.net/index/terms.asp)
+[Terms and Conditions of Use](https://web.archive.org/web/20090609121508id_/http%3A//www.fanpix.net/index/terms.asp)
