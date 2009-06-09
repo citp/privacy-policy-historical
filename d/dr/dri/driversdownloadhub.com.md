@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228005942id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609162011id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,8 @@ Agreement**
 
 If you are a customer of our products, have engaged in a free download on this website or have participated in anything else under this domain you have accepted our actions conducive to this privacy policy. Your personal information will be protected and used as described above.
 
-[  
-](http://driversdownload.pcdriversheadqu.revenuewire.net/driver-detect/download?7greenbot)[Download Driver-Detective Absolutely FREE!](http://driversdownload.pcdriversheadqu.revenuewire.net/driver-detect/download?5)
+[ ](http://driversdownloadhub.com/driversd1.php?2 "Free Download!")
 
-**Download Driver-Detective for free and upgrade all your drivers automatically!**
+[Download DriverCure Absolutely FREE!](http://driversdownloadhub.com/driversd1.php?2)
+
+**Download DriverCure for free and upgrade all your drivers automatically!**
