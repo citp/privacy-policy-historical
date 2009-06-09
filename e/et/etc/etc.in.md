@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2008-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081018174804id_/http%3A//www.etc.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609020124id_/http%3A//etc.in/privacy.aspx) for the most accurate reproduction.*
 
 # ETC
 
