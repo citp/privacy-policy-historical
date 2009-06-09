@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113412id_/http%3A//www.ha.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610011150id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
   
-Heritage Privacy Policy Any information that you provide to us is personal, private, and valuable. When you choose to provide us with information, we realize that you trust us and expect us to act responsibly. Our policy is that the information you provide will be used to better serve you. 
+Heritage Privacy Policy  
+Information that you provide us is held in confidence, except as herein noted. We do not sell your information to third parties nor do we provide it for any third party's general commercial usage. Certain anonymous information may be used in our archival files such as prices realized for specific items. We reserve the right to share information, when we deem appropriate, with third parties that are acting proper legal authority (e.g. subpoenas), including police and governmental agencies. We respond to credit references initiated by you or in the trade. In such instances, we generally will verify whether you are a known customer, the length of time you may have done business with us, your high credit, and whether your account is in good standing. 
 
 As we update and expand our services, this privacy policy will change to better serve everyone. Check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy.
 
-If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail ([Webmaster@HA.com](mailto:Webmaster@HA.com)) or writing us at the following address:
+If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail [Webmaster@HA.com](mailto:Webmaster@HA.com) or writing us at the following address:
 
 Heritage Auction Galleries  
 3500 Maple Avenue, 17th Floor  
@@ -21,7 +22,7 @@ Dallas, TX 75219-3941
 
   4. What are cookies and how are they used?  
 
-  5. What security measures are in place to protect your personal information?  
+  5. How do we ensure the protection of your personal information?  
 
   6. Reviewing and changing your information  
 
