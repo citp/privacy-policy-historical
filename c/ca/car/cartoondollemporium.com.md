@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609120525id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
+
+# Cartoon Doll Emporium Privacy Policy
+
+**Privacy Policy**
+
+Cartoondollemporium.com (CDE) is a safe, carefully-moderated games website and social network for kids ages 6 - 14. The entire CDE site is in full compliance with COPPA regulations, as outlined below. CDE is owned and operated by people who care about your children as if they were their own. CDE was born as a labor of love and continues to be one every day. We encourage parents to bring their questions, comments, and concerns to us. 
+
+**CDE is located at:**
+
+Cartoon Doll Emporium  
+336 West 37th Street, Suite 304  
+New York, NY 10018 
+
+The main areas of CDE are free to use, require no registration, collect no information, and do not store any personally identifiable information. These include our “dolls,” “entertainment,” and “games” sections. There are only two sections of our site that require registration: our forum and our social network, MyCDE. Some games require registration with our social network in order to play, and are covered under the “MyCDE Social Network paragraph” below.
+
+**CDE Forum**
+
+Registering for our forum involves inputting an e-mail address and a handle, or username. We require users to input their e-mail address in order to protect our users. 
+
+By verifying that a valid e-mail address is used, we can be certain the registrant is a person and not a robot who could cause harm to our forum or its participants. CDE does not view or use registrants' e-mail addresses for any purpose except to identify potential threats to the safety of our environment. In addition, children under 13 who register for our forum must do so with a parent's permission. An e-mail is sent to the parent for verification that the parent allows his/her child to participate in the forum. No third parties ever, for any reason, get any information about our forum members
+
+**MyCDE Social Network**
+
+Registering for MyCDE involves inputting an e-mail address, city and state, and a handle, or username. As with our forum, we require users to input their e-mail address in order to protect our users. By verifying that a valid e-mail address is used, we can be certain the registrant is a person and not a robot who could cause harm to our social network or its participants. We require our users to input their city and state so we can better serve them information and entertainment. CDE does not view or use registrants' e-mail addresses or city/state information for any purpose except to identify potential threats to the safety of our environment and serve relevant information. CDE does e-mail users on occasion, but never more than once per week, and only if they have opted to receive updates about our social network. Updates and announcements about MyCDE are the only kinds of e-mails users will ever receive from us. CDE occasionally uses cookies to track how our users landed on our site, but not to collect any personal information.
+
+CDE **never** asks its users for personally identifiable information such as full name, telephone number, or home address. In addition, MyCDE is monitored 24 hours per day, 7 days per week by live people, and electronic scripts are constantly running in order to prevent the transmission of personally identifiable information and generally protect the identities of MyCDE users. 
+
+CDE **never** discloses any of the information it collects to third parties for any reason whatsoever.
+
+Users under the age of 13 must be accompanied by a parent during their registration and that parent must verify his/her e-mail address in order to give permission for their child to use MyCDE. Parents’ e-mail address will be used to deliver relevant safety updates and announcement about the site. They may also be used to log in to the MyCDE parents section in order to monitor their child’s online behavior. 
+
+At any time, a parent may request that their child’s account and information be deleted. A representative from MyCDE may ask for clarification about the reasons for deletion for our own internal records, but will never refuse to delete an account except if there are grave safety concerns involved (for instance, if a user has been bullying another user, we may choose to retain the account of either party for a short amount of time in order to properly address the situation).
+
+***
+
+To address privacy concerns, please contact us at [cartoondollemporium@gmail.com](mailto:cartoondollemporium@gmail.com). You may also contact us at 212-695-4074, but we strongly prefer you seek help by e-mail first. We will always be happy to speak with you and help you to feel as comfortable as possible with our efforts to keep our online community exceptionally safe.
