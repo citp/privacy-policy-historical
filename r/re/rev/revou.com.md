@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226014302id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609130320id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
 
 # Twitter clone PHP social networking script. Micro blogging social network software - IM/SMS/Web. Start your own site just like twitter and jaiku.
 
@@ -26,17 +26,25 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
 Contacting REVOU  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can us at:
 
+Apr 28, 2009
+
+[ Dominating the social networking world](http://blog.revou.com/2009/04/27/dominating-the-social-networking-world/)
+
+Feb 02, 2009
+
+[ Earn more with ReVou SMS Ads plugin](http://blog.revou.com/2009/02/02/earn-more-with-revou-sms-ads-plugin/)
+
+Jan 23, 2009
+
+[ ReVou announces partnership with Newrosoftmods...](http://blog.revou.com/2009/01/23/revou-announces-partnership-with-newrosoftmods-for-software-customization/)
+
+Jan 20, 2009
+
+[ Twitter for business: $5 million funding](http://blog.revou.com/2009/01/20/twitter-for-business-5-million-funding/)
+
 Dec 18, 2008
 
 [ Why is Twitter an indispensable tool not only for you but...](http://blog.revou.com/2008/12/18/why-is-twitter-an-indispensable-tool-not-only-for-you-but-also-for-companies-who-are-reaching-out-to-consumers/)
-
-Dec 15, 2008
-
-[ December Promo: $100 off for ReVou Software](http://blog.revou.com/2008/12/15/december-promo-100-off-for-revou-software/)
-
-Oct 10, 2008
-
-[ The ultimate race for Twitter Enterprise continues](http://blog.revou.com/2008/10/09/the-ultimate-race-for-twitter-enterprise/)
 
 Sep 29, 2008
 
