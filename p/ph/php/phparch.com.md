@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523135251id_/http%3A//www.phparch.com/c/phpa/p/legal%2Cprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609173217id_/http%3A//www.phparch.com/c/phpa/p/legal%2Cprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy— php|architect, PHP Magazine, PHP Conferences, PHP Books
+
+[](https://web.archive.org/c/phpa/magazine/about/content,webnotwar)
 
 Your privacy is extremely important to us. This page outlines the steps that we have undertaken to protect it:
 
 ## Data we collect and its use
 
-  * If you visit the website as an anonymous user (that is, without logging in), we only collect the information that your web browser sends us. We use this information for statistical purposes only, and we do not resell or otherwise share it with third parties for commercial purposes, although we may use it, as part of a statistical sample and never in a way that it could be connected to you personally, to target advertisement on our website and/or to inform our advertisers of our ability to reach our readers.
+  * Whenever you visit our site, we track basic anonymous statistical information (e.g.: browser type, screen size, etc.); we do this so that we can better taylor our site to the needs of our users, and we only share the information collected with the companies that provide us with statistical analysis.
 
 
-  * If you participate to our forums, we will also collect the information that you provide when you subscribe and/or enter your messages. This information will be made public in accordance with what indicated when you create your profile. We will we not resell or otherwise share it with third parties for commercial purposes, although we may send information to you directly or on behalf of third parties.
+  * All personal information collected through site (with the exception of credit card data) remains in our database and is shared with third parties only for the purpose of providing you with the services you provide (e.g.: shipping companies, etc.). We do not resell or lease our user list to anyone.
 
 
-  * If you subscribe to one of our publications, we will collect the information in our subscription form with the purpose of providing your with the subscription service. We will not resell or share this information with third parties for commercial purposes but, if you authorize us to do so when you subscribe, we will use the information you provide to send you promotional information directly or on behalf of third parties. Regardless of your subscription choices, we will always send you an e-mail message to notify you when a new issue of one of our publications is available to you for download.
+  * If you sign up for a webcast marked as a “sponsored” webcast, we will share the following information with the sponsor: your name, e-mail and physical address with the sponsor of the webcast for promotional purposes.
 
 
-  * If you sign up for a webcast marked as a “sponsored” webcast, we will share the following information: your name, e-mail and physical address with the sponsor of the webcast for promotional purposes.
+  * We may, from time to time, contact you with special offers and promotions. We take this privilege very seriously and do not intend to abuse it; however, you can remove yourself from our promotional mailing list from the “Personal Information” section of your [account page](https://web.archive.org/c/account).
+
+
+  * Regardless of your promotional e-mail settings, we will also send you a monthly e-mail whenever a new issue of one of our magazines is released. You can unsubscribe from these mailing from the “Magazines / Subscription” section of your [account page](https://web.archive.org/c/account).
 
 
 
@@ -25,11 +30,13 @@ You must be older than 13 in order to be able to use this website.
 
 ## Use of Cookies
 
-Like many websites, we use cookies to maintain certain information about you while you are visiting our website. However, we do not share the contents of our cookies with any third party, under any circumstances. Should we allow a third party to provide advertisement through our website or through our magazine, please be advised that we are not responsible for their use of cookies, and that we do not normally have access to the information that they store in their cookies.
+Like many sites, we use cookies for a variety of reasons, including maintain session state, collecting anonymous statistical information and providing you with chat-based customer support. Your browser must support and accept cookies in order to use our site.
 
 ## Changes in Your Account
 
-We provide a number of web-based account management tools directly through our website. Should you require assistance with any of these tools, or should these tools be unable to perform the action you require, please contact us for a prompt resolution of your problem. Please be advised that we may ask you to validate your account information in order to protect your privacy and those of our other readers. Please remember that we will never, under any circumstance, ask you for your password or credit card information in an e-mail. If you receive an e-mail apparently from us requesting this information, please contact us immediately for further information.
+Most of your account settings (including promotional e-mail settings) can be changed directly from your [account page](https://web.archive.org/c/account). Please note that our personnel will **never** , under any circumstance, ask you for your password or credit card information over e-mail.
+
+Access to your account is protected by a password; please ensure that you keep your password confidential and change it often.
 
 ## Changes to the Privacy Policy
 
