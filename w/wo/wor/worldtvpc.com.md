@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034703id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtvpc.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609213717id_/http%3A//www.worldtvpc.com/privacy.php) for the most accurate reproduction.*
 
 # Free tv, Internet TV Online, watch World TV on your PC, totally free satellite worldwide internet pc tv portal movies scifi cartoons adult news HDTV PCTV and many more channels
 
@@ -39,6 +39,18 @@ We request information from the user on our order form. Here a user must provide
 A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
+
+
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
+
+> We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
+
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
 
 ### Advertising
 
