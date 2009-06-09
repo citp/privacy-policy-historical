@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114810id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609145843id_/http%3A//www.almanac.com/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Old Farmer's Almanac
 
@@ -21,9 +21,3 @@ Thank you for your interest in Almanac.com.
 Yankee Publishing Inc. 
 
 Yankee Publishing Inc., publishers of: _Yankee_ Magazine, _Yankee Magazine's Travel Guide to New England,_ _The Old Farmer's Almanac,_ and _The Old Farmer's Almanac All-Seasons Garden Guide_. 
-
-Yankee Publishing Inc.,  P.O. Box 520, Dublin, NH 03444, USA,  (603) 563-8111
-
-**Copyright ©2008, Yankee Publishing Inc. All rights reserved.**
-
-Interactive features developed and maintained by [Reinvented Inc.](http://www.reinvented.info/)
