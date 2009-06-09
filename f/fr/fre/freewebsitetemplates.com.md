@@ -1,33 +1,25 @@
-> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055613id_/http%3A//www.freewebsitetemplates.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609210802id_/http%3A//www.freewebsitetemplates.com/privacy) for the most accurate reproduction.*
 
-# Free Website Templates, Affordable Website Templates, Webmaster Tools, Hosting
+# Free Website Templates - Privacy Policy
 
-This privacy notice discloses the privacy practices for FreeWebsiteTemplates.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+Privacy Policy for freewebsitetemplates.com
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
-  2. What choices are available to you regarding the use of your data. 
-  3. The security procedures in place to protect the misuse of your information. 
-  4. How you can correct any inaccuracies in the information. 
+The privacy of our visitors to freewebsitetemplates.com is important to us.
+
+At freewebsitetemplates.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit freewebsitetemplates.com, and how we safeguard your information. We never sell your personal information to third parties.
+
+Log Files  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+Cookies and Web Beacons  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on freewebsitetemplates.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site. 
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
-
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
-
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
-
-**Your Access to and Control over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the contact form or phone number given on our website:
-
-See what data we have about you, if any.
-
-Change/correct any data we have about you.
-
-Have us delete any data we have about you.
-
-Express any concern you have about our use of your data.
-
-**Links**  
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
