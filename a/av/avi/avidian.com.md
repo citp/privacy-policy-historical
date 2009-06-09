@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060044id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609083221id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Management Software & Sales CRM Software for Outlook - Easy & Simple
 
