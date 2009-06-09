@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226043634id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609122031id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
 
 # Hollywood Toys & Costumes - Privacy / Terms and Conditions - Halloween Costumes - Holiday Costumes - Hollywood Costumes - Accessories
 
@@ -90,47 +90,8 @@ Premium | Generally arrives 1 o 2 business days after shipment
   
 Some costumes or items are oversized and do not fall within our normal shipping rates. Mascots, Santa suits, and oversized items require extra shipping and handling which will be quoted to you upon receipt of your order.
 
-**Shipping Charges**
-
-Our shipping charges are based on the value of the order.  Our base shipping charges for orders up to $20 are as follows:
-
-**_Economy_**
-
-| 
-
-**_  Standard_**
-
-| 
-
-**_  Express_**
-
-| 
-
-**_  Premium_**
-
-| **_Next Day_**  
----|---|---|---|---  
-  
- $7.95 
-
-| 
-
- $8.95 
-
-| 
-
- $13.95 
-
-| 
-
- $19.95 
-
-| 
-
- $49.95   
-  
 Thereafter, shipping charges are increased with the increase in the value of your order.  Shipping charges are shown at the time of checkout and you have he ability to select alternative methods of shipment to meet your delivery requirement and the respective shipping charges.
 
 **Free Economy Shipping Promotion**
 
-For a limited time, we offer Free Economy Shipping for orders over $50.  This Free Economy Shipping offer will be automatically applied to your purchase during the checkout process.  No action needs to be taken by you in order to benefit from this offer other than to purchase over $50 in products.  The $50 purchase requirement is for the cost of product only and does not include any other charges, including shipping or taxes, if any.
+For a limited time, we offer Free Economy Shipping for orders over $75.  This Free Economy Shipping offer will be automatically applied to your purchase during the checkout process.  No action needs to be taken by you in order to benefit from this offer other than to purchase over $75 in products.  The $75 purchase requirement is for the cost of product only and does not include any other charges, including shipping or taxes, if any.
