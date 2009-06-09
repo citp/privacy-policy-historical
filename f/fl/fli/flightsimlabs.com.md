@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightsimlabs.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024180110id_/http%3A//www.flightsimlabs.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightsimlabs.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609032657id_/http%3A//www.flightsimlabs.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Flight Sim Labs, Ltd. > Home
 
