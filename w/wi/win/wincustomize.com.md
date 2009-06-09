@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021813id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609150331id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock.com - Your Edge In Software
 
