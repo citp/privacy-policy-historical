@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130807id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609223814id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
 
 # Timetoast timelines - Privacy
 
@@ -28,4 +28,4 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Although most changes are likely to be minor, Timetoast may change its Privacy Policy from time to time, and in Timetoast’s sole discretion. Timetoast encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Timetoast.com account, you should also check the 'your timelines' dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Last updated: 8th July
+Last updated: 8th July, 2008
