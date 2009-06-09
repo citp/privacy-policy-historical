@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021536id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609062732id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,6 +84,24 @@ We provide registered Stylus Studio® users the opportunity to opt-out of receiv
 If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
 
 [Prev: **"Contact Stylus Studio"**](https://web.archive.org/xml_contact.html "Contact Stylus Studio") [Next: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement")
+
+### [Airlines, Aerospace and Defense](http://www.stylusstudio.com/customers/Air_Defense.html)
+
+Want to know what airlines, aerospace and defense companies are soaring high with Stylus Studio 2006? Well now you can! Come check out these leading companies and soar with Stylus Studio 2006 yourself.
+
+### [XQuery Integration](http://www.stylusstudio.com/xquery_integration.html)
+
+Learn how new XQuery technologies can simplify legacy data integration by leveraging industry standards, proven open-source XML processing components, and Stylus Studio's integrated XQuery & XML tools.
+
+### [XQuery Documentation Generator](http://www.stylusstudio.com/xquery/xqdoc.html)
+
+Stylus Studio provides integrated support for xqDoc so you can generate XQuery documentation directly from the XQuery editor.
+
+### [XML Code Folding](http://www.stylusstudio.com/xml_code_folding.html)
+
+Stylus Studio's XML Editor features XML code folding, a powerful and intuitive way to maximize limited screen real-estate and help make sense of large XML files.
+
+#### [Stylus Most Wanted](https://web.archive.org/advertise.html)
 
 |   
 ---|---|---
