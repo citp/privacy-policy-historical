@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madberries.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060647id_/http%3A//www.madberries.com/mb/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madberries.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609135928id_/http%3A//www.madberries.com/mb/pages/privacy_policy) for the most accurate reproduction.*
 
 # madberries.com: Style Wins, Every Day!
 
