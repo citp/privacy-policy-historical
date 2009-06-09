@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2008-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081017082406id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingdirectaffinity.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609194625id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
-# Your future awaits you on DatingDirectAffinity
+# Dating Direct Affinity Privacy Policy.
 
-(Limited Privacy Policy: www.datingdirectaffinity.com, 09/10/2008.)
+(Limited Privacy Policy: DatingDirectAffinity.com, 09/10/2008.)
 
 **1\. Who are we?**
 
-1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: 27 OLD GLOUCESTER STREET, LONDON, WC1N 3XX. You can contact us at the following postal address: BCM DATING DIRECT, LONDON, W1CN 3XX.
+1.1 We are DatingDirect.com Limited. We are registered in the UK (technically "England & Wales") under number 03850701. Our registered office is at: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX. You can contact us at the following postal address: DATING DIRECT BCM DATING DIRECT, LONDON, WC1N 3XX.
 
 1.2 We own and operate this site.
 
@@ -40,7 +40,7 @@
 
 5.3 Persistent cookies stay in the cookie file of your browser for longer (though how long will depend on the lifetime of the specific cookie). We use persistent cookies to track whether you entered our site from a link on a site of one of our business partners, avoid showing you the same ad one repeatedly, to display ads or other content tailored to your preferences.
 
-5.4 Usually you can modify the settings of your browser to accept or reject all cookies or be notified when a cookie is set. To view your security settings in Internet Explorer, access the Internet Options within the tools menu in your browser and select the Privacy tab to choose a privacy setting for the internet zone you are in. For further information on cookies and cookie settings, including how to delete cookies, visit www.allaboutcookies.org.
+5.4 Usually you can modify the settings of your browser to accept or reject all cookies or be notified when a cookie is set. To view your security settings in Internet Explorer, access the Internet Options within the tools menu in your browser and select the Privacy tab to choose a privacy setting for the internet zone you are in. For further information on cookies and cookie settings, including how to delete cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 5.5 As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these ads are clicked on or viewed by users and later purchases by such users), avoid showing you the same ad repeatedly and display ads on this and other sites tailored to your preferences. We don't have any access to or control over these third party technologies as these aren't covered by this policy. Also, if you would like more information about this practice and to know your choices about not having this information used by certain of these companies, please click here. Please contact the third parties directly for more information about their privacy practices.
 
@@ -52,7 +52,7 @@
 
 6.3 We may use cookies, IP addresses or personal data to recognize you when you visit or return to our site so we can show you ads or other content tailored to your preferences, to track anonymised traffic, demographic and usage patterns, to prevent or detect fraud or abuses or to help us improve our site. 
 
-6.4 We may access, monitor, remove, alter or store or otherwise use any personal data if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where if we are required to do so by law or appropriate authority.s
+6.4 We may access, monitor, remove, alter or store or otherwise use any personal data if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where if we are required to do so by law or appropriate authorities.
 
 **7\. How do we protect personal data?**
 
@@ -90,4 +90,4 @@ b) in the case of an actual or proposed (including negotiations for a) sale or m
 
 9.1 You can access, rectify or delete your personal data by contacting us via the "Help" section on our website. We will of course need to be satisfied that you are who you say you are. We may charge an administration fee in line with data protection laws.
 
-9.2 For information about your rights under UK data protection laws, see the website of the UK Information Commissioner (linkto : http://www.dataprotection.gov.uk/)
+9.2 For information about your rights under UK data protection laws, see the website of the UK Information Commissioner (<http://www.dataprotection.gov.uk/>)
