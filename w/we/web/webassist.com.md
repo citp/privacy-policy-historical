@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160455id_/http%3A//www.webassist.com./corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609025934id_/http%3A//www.webassist.com/company/privacy.php) for the most accurate reproduction.*
 
 # WebAssist - Privacy Policy
 
@@ -7,7 +7,8 @@
 
 ### Effective Date: March 8, 2006
 
-WebAssist.com Corporation. ("WebAssist") values the users of our web site (the "Web Site") and the services offered on it (the "WebAssist Services"). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information ("Personal Information") that we may collect when you use the Web Site and the WebAssist Services. Your privacy is very important to us. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the WebAssist Web Site you are accepting the practices described in this policy. If you have any questions or comments regarding this Privacy Policy, please contact us at: privacy@webassist.com 
+WebAssist.com Corporation. ("WebAssist") values the users of our web site (the "Web Site") and the services offered on it (the "WebAssist Services"). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information ("Personal Information") that we may collect when you use the Web Site and the WebAssist Services. Your privacy is very important to us. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the WebAssist Web Site you are accepting the practices described in this policy. If you have any questions or comments regarding this Privacy Policy, please contact us at: privacy@webassist.com   
+
 
 ### Does WebAssist Ever Make Changes to its Privacy Policy?
 
