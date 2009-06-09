@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprops.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020928id_/http%3A//www.myprops.org/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprops.org privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609135205id_/http%3A//www.myprops.org/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MyProps.org - Privacy Policy
 
