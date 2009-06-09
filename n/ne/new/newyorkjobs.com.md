@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913234420id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609211032id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # New York Jobs - NewYorkJobs.com
 
@@ -27,7 +27,7 @@ We may disclose personal information when required by law or in the good-faith b
 
 **Links**   
 NewYorkJobs.com contains links to other sites. These sites have their own policies and practices with respect to online privacy, and NewYorkJobs.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a NewYorkJobs.com advertiser may ask you for personal information. NewYorkJobs.com cannot be responsible for the privacy practices of its advertisers.   
-'We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies: The following third parties are supported:
+'We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies: The following third parties are supported: 
 
 **North America: Ad servers**
 
@@ -47,8 +47,9 @@ NewYorkJobs.com contains links to other sites. These sites have their own polici
 
 \- Dynamic Logic/Safecount ([www.safecount.net](http://www.safecount.net/))  
 \- Factor TG ([www.factortg.com](http://www.factortg.co/))  
-\- IAG ([www.iagr.com](http://www.iagr.com/))  
-\- InsightExpress ([www.insightexpress.com](http://www.insightexpress.com/))
+\- IAG ([www.iagr.com](http://www.iagr.com/)) \- InsightExpress ([www.insightexpress.com](http://www.insightexpress.com/)) 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **Notification of Changes**   
 This policy may be revised over time and as new features are added to the website. 
