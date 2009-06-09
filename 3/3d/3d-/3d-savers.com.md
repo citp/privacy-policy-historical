@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043843id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609160358id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
-|  [Free 3D Fireplace Screensaver](http://off.freeze.com/survey/3dfireplace2/index.asp?a=6965&f=left_3ds)   
+|  [](http://www.3d-savers.com/files/freeenchantedforest.exe) [Free Enchanted Forest Screensaver](http://www.3d-savers.com/files/freeenchantedforest.exe)   
 |  |  |  |  |  [](https://web.archive.org/) |  |  |  |  |  [](https://web.archive.org/free.html) |  |  |  |  |  [](https://web.archive.org/animated.html) |  |  |  |  |  [](https://web.archive.org/news.html) |  |  |  |  |  [](https://web.archive.org/contact.html) |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |  | 
@@ -26,13 +26,13 @@ If you have any questions or concerns about this 3D Savers Privacy Policy or its
   
 
 
-[FREE My 3D Christmas Tree ScreenSaver](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds)  
+[FREE Our Planet 3D Screensaver](http://www.3d-savers.com/files/ourplanet.exe)  
   
 ---  
 |    
-[](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds) |  Decorate your own Christmas tree or set to random and enjoy the beauty of the holiday season. Watch the snow fall on our Christmas village while birds and rabbits frolic in the fresh snow. Get in the spirit with the holiday music included. 
+[](http://www.3d-savers.com/files/ourplanet.exe) |  Would you like to see how your home planet looks from outer space? Then this screensaver is what you need! Just download it for free and put the highly realistic 3D model of Earth on your desktop. Formed 4.45 billion years ago Earth is the largest terrestrial planet of the Solar System. Experience the thrill of watching our unique planet from space without leaving your home! 
 
-[FREE My 3D Christmas Tree ScreenSaver Download](http://off.freeze.com/survey/xmastree/index.asp?a=6965&f=foot2_3ds)
+[FREE Our Planet 3D Screensaver Download (~4,3 MB)](http://www.3d-savers.com/files/ourplanet.exe)
 
 |   
   
@@ -46,15 +46,15 @@ If you have any questions or concerns about this 3D Savers Privacy Policy or its
 ---|---|---  
 | 
 
+**06.05.2009.**   Free 3D Japan Screensaver has been released. [**more**](https://web.archive.org/free-3d-japan-screensaver.html)
+
+**23.03.2009.**   Free Underwater Life Screensaver added to our collection! [**more**](https://web.archive.org/underwater-life-screensaver.html)
+
+**24.01.2009.**   Free Hogwarts Screensaver has come out! [**more**](https://web.archive.org/free-hogwarts-screensaver.html)
+
 **01.12.2008.**   Christmas Night Screensaver added to our collection! [**more**](https://web.archive.org/christmas-night-screensaver.html)
 
 **10.11.2008.**   Free 3D Christmas Screensaver has come out! [**more**](https://web.archive.org/free-3d-christmas-screensaver.html)
-
-**10.10.2008.**   3D Halloween Holiday has been released. [**more**](https://web.archive.org/3D-halloween-holiday.html)
-
-**23.09.2008.**   Check out new Free 3D Jupiter Screensaver now! [**more**](https://web.archive.org/free-3d-jupiter-screensaver.html)
-
-**26.08.2008.**   Free 3D Valley Screensaver added to our collection! [**more**](https://web.archive.org/free-3d-valley-screensaver.html)
 
 |   
 |  |   
