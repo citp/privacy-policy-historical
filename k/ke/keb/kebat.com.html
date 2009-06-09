@@ -1,0 +1,595 @@
+<!--The following is the downloaded HTML source of the kebat.com privacy policy that was archived on 2009-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090609045813id_/http%3A//www.kebat.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Kebat - Privacy Policy</title>
+
+<link href="http://www.kebat.com/images/css/smstyle.css" rel="stylesheet" type="text/css">
+<style>
+* {text-align: left; margin: 0; padding: 0;}
+
+body {
+	background-color: #ffffff;
+	font-size:12px;
+		}
+		
+p{
+background-image:url(http://www.kebat.com/images/divider.gif);
+background-position:bottom;
+background-repeat:repeat-x;
+height:12px;
+padding-top:5px;
+}
+
+.layer_0 {
+	border:0px solid #E4E4E4;
+	display:none;left:0px;
+	position:fixed;
+	top:0px;
+	overflow:hidden;
+	z-index:999;
+	opacity:0.8;
+	width:100%;
+	height:100%;
+	display:table;
+	/*background-color:#bebebe;*/
+	background-color:#e3b68e;
+}
+
+#layer_2 {
+	background: white none repeat scroll 0% 50%; 
+	position: fixed; 
+	z-index: 3100; 
+	width: 580px; 
+	margin-top: -90px;
+	font-family:'Trebuchet MS',Verdana,Arial;
+	font-size:16px;
+	left:50%;
+	margin-left:-210px;
+	text-align:left;
+	top:15%;
+	border-top-color:#999999;
+	border-top-style:solid;
+	border-top-width:5px;
+	border-bottom-color:#999999;
+	border-bottom-style:solid;
+	border-bottom-width:5px;
+	border-left-color:#CCCCCC;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#CCCCCC;
+	border-right-style:solid;
+	border-right-width:1px;
+}
+#layer_5 {
+border-bottom-color:#999999;
+border-bottom-style:solid;
+border-bottom-width:5px;
+border-left-color:#CCCCCC;
+border-left-style:solid;
+border-left-width:1px;
+border-right-color:#CCCCCC;
+border-right-style:solid;
+border-right-width:1px;
+border-top-color:#999999;
+border-top-style:solid;
+border-top-width:5px;
+text-align:center;
+width:550px;
+background: white none repeat scroll 0% 50%; 
+position: fixed; 
+z-index: 3103; 
+margin-top: -90px;
+font-family:'Trebuchet MS',Verdana,Arial;
+font-size:16px;
+left:50%;
+margin-left:-210px;
+top:15%;
+}
+
+</style>
+
+<script language="javascript" type="text/javascript">
+var fade_flg = false;
+function supportsOpacity( el ) 
+{
+	if ( el.style.opacity != undefined )
+        		return true;
+	if( el.style.MozOpacity != undefined )
+		return true;
+
+	if ( el.style.filter != undefined )
+		return true;
+    	return false;
+}
+
+function setOpacity( el, opaciLevel ) 
+{
+	if ( el.style.opacity != undefined ) {
+		el.style.opacity = opaciLevel;
+	} else if( el.style.MozOpacity != undefined ) {
+		el.style.MozOpacity = opaciLevel;
+	} else if ( el.style.filter != undefined ) {
+		var oplvl = Math.round(opaciLevel*100);
+		el.style.filter="alpha(opacity=" + oplvl + ")";
+
+	}
+}
+
+function fadeIn( id, currentOpacity )
+{
+	var counterLimit = 5;
+	var el = document.getElementById( id );
+	if( !currentOpacity )
+	{
+		currentOpacity = 1;
+	}
+	if( currentOpacity > counterLimit )
+	{
+        		return;
+	}
+	
+	if(currentOpacity/counterLimit == 0.8)
+	{
+		fade_flg = true;
+		return;
+	}
+	setOpacity( el, ( currentOpacity/counterLimit ) );
+	currentOpacity++;
+	var func = "fadeIn( '" + id + "', " + currentOpacity + ")";
+	window.setTimeout( func, 50);
+}
+
+function show( id ) {
+    var elem = document.getElementById( id );
+    if( supportsOpacity( elem )) {
+        // first set 0% opacity to make it completely transparent
+        setOpacity( elem, 0 );
+        // when we set display = "block" it's still invisible
+        elem.style.display = "block";
+        // call the function to gradually increase opacity
+        fadeIn( id );
+    } else {
+        // can't modify opacity, so just make it visible...
+        elem.style.display = "block";
+        fade_flg = true;
+    }//return 1;
+}
+
+function hide( id )
+{
+	var elem = document.getElementById( id );
+	document.body.removeChild(elem);
+	if(id == "layer_0")
+	{
+		window['layer_0'] = "";
+	}
+	if(id == "layer_2")
+	{
+		window['layer_2'] = "";
+	}
+	if(id == "layer_5")
+	{
+		window['layer_5'] = "";
+	}
+}
+</script>
+<script language="javascript">
+var click_act = "web";
+function screen_lock_unloack(show_flag,sect)
+{
+   //Lock The Screen With Totaly Transparent DIV,
+   //DIv's sed in Locking Screen are Generated On Runtime if Not Found in Source Code
+	var layer_0 = window['layer_0'] || document.getElementById("layer_0");//fading div
+	var layer_2 = window['layer_2'] ||document.getElementById("layer_2");//about us
+	var layer_5 = window['layer_5'] ||document.getElementById("layer_5");//contact us
+	
+	if( !layer_0 )
+	{
+		
+		var w = "";
+		var sm = 0;
+	   	var bname = navigator.appName;
+	   	if (bname.search(/netscape/i) == 0)
+	   	{
+	   		w = ( window.innerWidth)- 10;h = (window.innerHeight)-10;
+	   	}
+	   	else if (bname.search(/microsoft/i) == 0)
+	   	{
+	   		w = ( document.body.offsetWidth)- 10, h = (document.body.offsetHeight);
+	   	}
+	   	else
+	   	{
+	   		w = ( document.body.offsetWidth)- 10, h = (document.body.offsetHeight)-10;
+	   	}
+			   	
+	   	layer_0 = document.createElement('DIV');
+	   	layer_0['id'] = 'layer_0';
+	   	layer_0['className'] = 'layer_0';
+	   	layer_0['style']['width'] =  100 + "%"; 
+		if (bname.search(/microsoft/i) == 0)
+		{
+			layer_0['style']['height'] = h + "px";
+			layer_0['style']['position'] = "absolute";	
+		}
+	   	document.body.appendChild( layer_0 );
+		
+	   	if(sect == "au")//aboutus
+	   	{
+	   		var tpp = document.getElementById('aboutus');
+	   		var ttt = tpp.cloneNode(tpp);
+	   		
+	   		sm = (w/2) - (550/2) ;//750 is the Middle content width
+	   		sm += 'px';
+
+	   		layer_2 = document.createElement('DIV');
+	   		layer_2['id'] = 'layer_2';
+			layer_2['style']['left'] = "43%";
+			layer_2['style']['position'] = "absolute";
+	   		layer_2.innerHTML = ttt.innerHTML;
+	   		document.body.appendChild(layer_2);
+	   	}
+	   	if(sect == "cu")//aboutus
+	   	{
+	   		var tpp3 = document.getElementById('contactus');
+	   		var ttt3 = tpp3.cloneNode(tpp3);
+	   		
+	   		sm = (w/2) - (550/2) ;//750 is the Middle content width
+	   		sm += 'px';
+
+	   		layer_5 = document.createElement('DIV');
+	   		layer_5['id'] = 'layer_5';
+			layer_5['style']['left'] = "43%";
+
+			layer_5['style']['position'] = "absolute";
+	   		layer_5.innerHTML = ttt3.innerHTML;
+	   		document.body.appendChild(layer_5);
+	   	}
+	}
+	
+	if(layer_0)
+	{
+		window['layer_0'] = layer_0;	
+	}
+	
+	if(layer_2)
+	{
+		window['layer_2'] = layer_2;
+	}
+	if(layer_5)
+	{
+		window['layer_5'] = layer_5;
+	}
+	
+	if( show_flag )
+	{
+		show(layer_0['id']);
+		wait(sect);
+	}
+	else
+	{
+		layer_0['style']['display'] = 'none';
+		
+	   	if(sect == "au")//aboutus
+	   	{
+	   		layer_2['style']['display'] = 'none';
+	   	}
+	   	if(sect == "cu")//contactus
+	   	{
+	   		layer_5['style']['display'] = 'none';
+	   	}
+		
+		fade_flg = false;
+	}
+}
+
+function wait(sect)
+{
+	var alt ="";
+	
+	if(fade_flg == true)
+	{
+		//modify div feedbackform
+		if(sect == "feed") 
+		{
+			var dv_feed_form = document.getElementById("feedbackform");
+			dv_feed_form.style.display = "";
+			dv_feed_form.getElementsByTagName("div")[1].style.height="400px";
+			dv_feed_form.getElementsByTagName("div")[1].style.display="";
+			
+			//now get form tag in this div
+			dv_feed_form.getElementsByTagName("div")[1].getElementsByTagName("form")[0].style.display = "block";
+			
+			dv_feed_form.className="modalData";                 // set the style classname  
+			var dv_feed_form_clone = dv_feed_form.cloneNode(true);
+			dv_cont.appendChild(dv_feed_form_clone);
+			document.body.removeChild(dv_feed_form);
+		}
+		if(sect == "au")
+		{
+			layer_2['style']['display'] = "block";
+		}
+		if(sect == "cu")
+		{
+			layer_5['style']['display'] = "block";
+		}
+		clearTimeout(t);
+		return;
+	}
+	t= setTimeout( "wait('"+sect+"')", 10);
+}</script>
+</head>
+
+<body>
+<!--baap-->
+<div class="baap">
+
+<div style="width:780px; margin:auto; border-top:5px solid #999999; border-bottom:5px solid #999999; text-align:center;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><a href="http://www.kebat.com"><img border="0" src="http://www.kebat.com/images/inner_logo.jpg" width1="320" height1="43" style=" padding-left:17px;"></a></td>
+          <td align="right" valign="top">&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+    <tr>
+      <td align="center"><br>
+        <br>
+        <div style=" margin:auto; width:95%;">
+        <form id="form1" name="form1" method="post" action=""> 
+		<table width="100%" border="0" align="center" cellpadding="3" cellspacing="0">
+        	<tbody><tr>
+            	<td align="left" valign="middle" class="feedback_txt" style="background-image:url(http://www.kebat.com/images/privacy_policy.jpg); background-y-position:top; background-repeat:no-repeat;">
+	                <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+	                  <tbody><tr>
+	                    <td height="25"></td>
+	  					</tr>
+	                  	<tr>
+	                    <td height="15"></td>
+	    				</tr> 
+						<tr>
+	    					<td>
+	                    	<div class="feedback_txt02" style="width:720px;text-align:justify;">
+	                    	KEBAT.COM respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site, http://www.KEBAT.com (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.<br>
+<br>
+<b>INFORMATION AUTOMATICALLY COLLECTED BY THE SITE</b><br>
+Like many websites, we collect and analyze certain user behavior on the Site and store it in log files. This information is non-personally identifiable and may include, but is not limited to, Internet Protocol (IP) addresses, browser type, referring/exit pages, the date &amp; time, and search queries. We also collect information regarding user activities on the Site. We use this information to analyze website traffic, improve the performance of our search services, improve our geo-targeted advertising services, administer the website and prevent fraud. This helps us to determine how best to provide useful information to users and to understand which parts of the Site and services are of most interest to them.<br>
+<br>
+On occasion we may share your non-personally identifiable information that we collect to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of KEBAT.COM's Terms of Use, in order to diagnose a problem with our server, to administer the Site or as we otherwise deem necessary in our sole and absolute discretion. We will transfer information about you if KEBAT.COM is acquired by or merged with another company and this may occur with or without notice to you. Also, we will provide your personal information to respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims.<br>
+<br>
+<b>COOKIES AND WEB BEACONS</b>:<br>
+We track user behavior and use of our services through the use of cookies and web beacons. A “cookie” is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the website or to make it easier to use certain website functions. The cookie transmits this information back to the website's computer. Many users do not know that “cookies” are being placed on their computers when they visit a website. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a website attempts to place a “cookies” on your computer.<br>
+<br>
+We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search and which advertisements they click on. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. We use cookies on the Site to provide our service, including without limitation, in the following ways: We use cookies to track when a search user clicks on a sponsored listing, and in some cases we use cookies and web beacons to determine whether the click resulted in an actual purchase of products or services from the advertiser's site. This information is used to determine the effectiveness of our advertising services. We also use cookies to analyze how visitors, in the aggregate, use the Site, in order to make the Site as useful as possible for them. We do not use cookies to collect or store personally identifiable information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our services may not function properly if your cookies are disabled. We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or the Site analytics company's servers) are informed of when the web page has been viewed.<br>
+<br>
+<b>PERSONAL INFORMATION</b>:<br>
+We do not collect any personally identifiable information or financial information like credit card numbers, postal address, financial statements, etc. We do however collect a user's name and email address (if and when a user voluntarily chooses to provide) when he submits his feedback on ways to improve his experience on KEBAT.com<br>
+<br>
+<b>LINKS TO OTHER WEBSITES</b>:<br>
+The Site includes links to thousands of other websites whose privacy practices may differ from those of KEBAT.COM. KEBAT.COM does not control the websites of third parties that are linked from the Site or through our services, and is not responsible for information included in those services. If you submit personal information to any of those websites, your information is subject to their privacy statements. KEBAT.COM's Privacy Policy applies only to our own services, and does not apply to any other website. We encourage you to carefully read the privacy statement of any website you visit. KEBAT.COM is not responsible for the privacy practices or the content of other websites.<br>
+<br>
+<b>PRIVACY POLICY UPDATES</b>:<br>
+KEBAT.COM may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.<br>
+<br>
+<b>TERMS OF USE</b>:<br>
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located <a style="font-size:14px;text-decoration:none;" href="/termsofuse.html">here</a>. Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.<br>
+<br>
+<b>CONTACTING US</b>:<br>
+If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us at: <a style="font-size:14px;" href="mailto:admin@KEBAT.com">admin@KEBAT.com</a>.
+	                    	</div>
+	                    	</td>
+	    				</tr>
+	                  	<tr>
+	                    	<td>&nbsp;</td>
+						</tr>
+	  				</tbody></table>
+				</td>
+              </tr>
+		</tbody></table>
+	    </form>
+      </div></td></tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody></table>
+</div>
+<div style="height:35px;">
+		<div style="margin:auto; width:450px; text-align:center; padding-top:12px" class="footer_text">
+	<a href="/termsofuse.html">Terms of Use</a>
+	<span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|&nbsp;</span>
+	<a href="/privacy.html">Privacy Policy</a>
+	<span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|&nbsp;</span>
+	<a href="#" style="cursor:hand;cursor:pointer;" onclick="screen_lock_unloack(1,'cu');">Contact Us</a>
+	<!--<span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|</span>
+	<a href="#">Feedback</a>-->
+</div>
+<div style="margin:auto; width:450px; text-align:center; padding: 5px 10px 5px 10px;" class="footer_text">© 2006-2009 kebat.com. All rights reserved.</div>	</div>
+  <!--baap ends-->
+</div>
+
+<!--about us-->
+<div id="aboutus" style="display:none;">
+  <!--<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="http://www.kebat.com/images/inner_logo.gif" width="265" height="60" / style=" padding-left:48px;" /></td>
+          <td align="right" valign="top"><div align="right"><img style="cursor:hand;cursor:pointer;" src="http://www.kebat.com/images/close_01.gif" width="77" height="30" align="right" onclick="hide('layer_2');hide('layer_0');" /></div></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center"><div style=" margin:auto; width:95%;">
+       <form id="form1" name="form1" method="post" action=""> 
+	   <table width="100%" border="0" align="center" cellpadding="3" cellspacing="0">
+            <tr>
+              <td align="left" valign="middle" class="feedback_txt" style="background-image:url(http://www.kebat.com/images/about_us.jpg); background-position:top; background-repeat:no-repeat;padding-left:10px;">
+            <table width="93%" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left:25px;">
+  <tr>
+    <td height="115">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="15"></td>
+  </tr> 
+  <tr>
+    <td style="font-size:16px;font-weight:normal; color:#757575;line-height:22px; text-align:justify;" >
+	Searchoodle.com is out to provide you with a unique search experience. We don't just supply you with plain links, but make the whole experience more fruitful by providing you images, videos, news, local, encyclopedia results and are working towards adding more venues each day. We source content from various partners and apply our aggressive algorithms to improve the overall results that you get for every search. And wait, search results are delivered in the slick web 2.0 style. 
+	<br/>
+	<br/>
+We'd love to hear from you. Please send your rants and raves to <a href="mailto:feedback@searchoodle.com">feedback@searchoodle.com</a>
+	<br/>&nbsp;</td>
+  </tr>
+ 
+</table>
+</td>
+            </tr>
+          </table>
+		    </form>
+      </div></td>
+    </tr>
+  </table>-->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><img src="images/inner_logo.gif" width="320" height="43" style=" padding-left:35px;"></td>
+          <td align="right" valign="top"><div align="right"><img style="cursor:hand;cursor:pointer;" onclick="hide('layer_2');hide('layer_0');" src="images/close_01.gif" width="77" height="30" align="right"></div></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+    <tr>
+      <td align="center"><div style=" margin:auto; width:95%;">
+       <form id="form1" name="form1" method="post" action=""> 
+	   <table width="100%" border="0" align="center" cellpadding="3" cellspacing="0">
+            <tbody><tr>
+              <td align="left" valign="middle" class="feedback_txt" style="background-image:url(images/about_us.jpg); background-position:top; background-repeat:no-repeat;">
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left:25px;">
+  <tbody><tr>
+    <td height="135">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="15"></td>
+  </tr> 
+  <tr>
+    <td><span class="feedback_txt01">
+	Searchoodle.com is out to provide you with a unique search experience. We don't just supply you with plain links, but make the whole experience more fruitful by providing you images, videos, news, local, encyclopedia results and are working towards adding more venues each day. We source content from various partners and apply our aggressive algorithms to improve the overall results that you get for every search. And wait, search results are delivered in the slick web 2.0 style.
+ <br>
+        <br>
+        We'd love to hear from you. Please send your rants and raves to 	 </span></td>
+  </tr>
+ 
+  <tr>
+    <td><img src="images/feedemail.jpg" alt="email" width="309" height="25"></td>
+  </tr>
+</tbody></table>
+</td>
+            </tr>
+          </tbody></table>
+		    </form>
+      </div></td>
+    </tr>
+    <tr>
+      <td><br>
+        <br></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--about us-->
+<!--contact us -->
+<div id="contactus" style="display:none;">
+  <!--<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="http://www.kebat.com/images/inner_logo.gif" width="265" height="60" / style=" padding-left:35px;" /></td>
+          <td align="right" valign="top"><div align="right"><img style="cursor:hand;cursor:pointer;" src="http://www.kebat.com/images/close_01.gif" width="77" height="30" align="right" onclick="hide('layer_5');hide('layer_0');" /></div></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center"><div style=" margin:auto; width:95%;">
+       <form id="form1" name="form1" method="post" action=""> 
+	   <table width="100%" border="0" align="center" cellpadding="3" cellspacing="0">
+            <tr>
+              <td align="left" valign="middle" class="feedback_txt" style="background-image:url(http://www.kebat.com/images/contact_bg.jpg); background-position:top; background-repeat:no-repeat;">
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left:25px;">
+  <tr>
+    <td height="75">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><span class="feedback_txt01" style="line-height:45px;"><strong>Got anything for us? </strong></span>
+      <span class="feedback_txt01"><br />
+      Get in touch with us on</span>
+      <br />      <a href="mailto:legal@searchoodle.com">help@searchoodle.com</a><br />
+       <span class="feedback_txt01"> For Legal</span>
+      <br />
+      <a href="mailto:legal@searchoodle.com">legal@searchoodle.com</a>      <br />
+        <span class="feedback_txt01">For Administrative</span>
+      <br />
+      <a href="mailto:admin@searchoodle.com">admin@searchoodle.com</a>      <br />
+        <span class="feedback_txt01">Advertise with us</span>
+      <br />      <a href="mailto:advertise@searchoodle.com">advertise@searchoodle.com</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</td>
+            </tr>
+          </table>
+		    </form>
+      </div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>-->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td align="left"><img src="http://www.kebat.com/images/inner_logo.jpg" width1="320" height1="43" style=" padding-left:35px;"></td>
+          <td align="right" valign="top"><div align="right"><img style="cursor:hand;cursor:pointer;" src="http://www.kebat.com/images/close_01.gif" onclick="hide('layer_5');hide('layer_0');" width="77" height="30" align="right"></div></td>
+        </tr>
+      </tbody></table></td>
+    </tr>
+    <tr>
+      <td align="center"><div style=" margin:auto; width:95%;">
+       <form id="form1" name="form1" method="post" action=""> 
+	   <table width="100%" border="0" align="center" cellpadding="3" cellspacing="0">
+            <tbody><tr>
+              <td align="left" valign="middle" class="feedback_txt" style="background-image:url(http://www.kebat.com/images/contact_bg.jpg); background-position:top; background-repeat:no-repeat;"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left:25px;">
+                <tbody><tr>
+                  <td height="75">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><span class="feedback_txt01" style="line-height:45px;"><strong>Got anything for us? </strong></span> <span class="feedback_txt01"><br>
+                    Get in touch with us on</span> <br>
+                    <img src="http://www.kebat.com/images/helpemail.gif" alt="help"><br>
+                    <span class="feedback_txt01"> For Legal</span> <br>
+                    <img src="http://www.kebat.com/images/legalemail.gif" alt="legal"><br>
+                    <span class="feedback_txt01">For Administrative</span> <br>
+                    <img src="http://www.kebat.com/images/adminemail.gif" alt="Admin"><br>
+                    <span class="feedback_txt01">Advertise with us</span> <br>
+                    <img src="http://www.kebat.com/images/advemail.gif" alt="Advertise"></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+		    </form>
+      </div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody></table>
+</div><!--contact us -->
+
+
+</body></html>
