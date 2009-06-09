@@ -1,39 +1,138 @@
-> *The following text is extracted and transformed from the quizrocket.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230152628id_/http%3A//www.quizrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizrocket.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609032609id_/http%3A//www.quizrocket.com/privacy) for the most accurate reproduction.*
 
 # Fun Personality Quizzes and Fun Tests Online - Quiz Rocket!
 
-This site is run by Quiz Rocket and this Privacy Policy covers Quiz Rocket's treatment of personally identifiable information that Quiz Rocket collects when you are on the Quiz Rocket Website and when you use Quiz Rocket's services. It is important that visitors are fully informed about the use of their personal information. Quiz Rocket believes in 100% permission-based marketing. 
+At Quiz Rocket, we are committed to protecting your privacy. We use the information we collect from you to personalize your experience in accordance with your preferences. We only sell, trade or rent your personal information to other parties in accordance with this Privacy Policy and your preferences. 
 
-Registration with Quiz Rocket is required to participate in the Quiz Rocket quiz, or in any other promotion or contests run by Quiz Rocket. This Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from Quiz Rocket and Quiz Rocket's joint marketing advertisers ("Advertisers") , whether at our Website, via email, on third party websites, via co-registration or otherwise. Quiz Rocket collects user information on certain portions of our Website, through methods which include, but are not limited to, responding to questions and surveys, registering for the site, or through various offers provided on site. The personal profile information you submit to Quiz Rocket and Advertisers remains your property, but by submitting that information to Quiz Rocket you grant Quiz Rocket the right to use that information for marketing purposes including, but not limited to, sharing such information via co-registration with Advertisers. Quiz Rocket may also use such information to deliver certain direct marketing offers to you via telemarketing, e-mail marketing, direct mail, SMS messaging and other types of direct marketing, fulfill prizes, track compliance with our Quiz Rocket Rules, or for content improvement and feedback purposes. We may sell the personal information that you supply to us to selected third parties. These businesses may include, but are not limited to: (a) providers of direct marketing services to via telemarketing, e-mail marketing, direct mail, SMS messaging and other types of direct marketing; and (b) providers of applications, including lookup and reference, data enhancement, suppression and validation. Quiz Rocket reserves the right to release current or past member information in the event Quiz Rocket believes that the membership is being or has been used to commit unlawful acts, if the information is subpoenaed, if Quiz Rocket is sold or acquired, or when Quiz Rocket deems it necessary or appropriate. By agreeing to these terms, you hereby consent to disclosure of any record or communication to any third party when Quiz Rocket, in its sole discretion, determines the disclosure to be appropriate. To the extent that customer credit card-specific information is collected by Quiz Rocket and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent. Notwithstanding the foregoing, Quiz Rocket and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent. 
+Please read the following details of our Privacy Policy. This Privacy Policy applies to users of the Quiz Rocket network of web sites, and applies to all sites on the domain www.quizrocket.com. Information collection, use and protection of personally identifiable information (referred to hereafter as "PII") and the choices you have concerning PII are described in this policy. Quiz Rocket is controlled by Pangea Media, located at P.O. Box 0125, Watertown, MA 02471. 
 
-Quiz Rocket shares Website usage information about visitors to our Website, who have received targeted promotional campaigns, with Advertisers for the purpose of formatting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our Advertisers track some of the pages that you visit on our Website through the use of pixel tags (also called clear gifs). By registering with Quiz Rocket, you agree to allow Quiz Rocket to share such Website usage information with third parties. 
+**By using Quiz Rocket you agree to the terms of this Privacy Policy.**
 
-Quiz Rocket also reserves the right to provide aggregate or group data about Quiz Rocket users for lawful purposes. Aggregate or Group data is data that describes the demographics, usage, or characteristics of Quiz Rocket participants as a group. By opening a Quiz Rocket account, you agree to allow Quiz Rocket to provide such aggregate data to third parties. 
+  * [I. Collected Information](http://www.quizrocket.com/privacy#collected_information)
+  * [II. Use Of Collected Information](http://www.quizrocket.com/privacy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](http://www.quizrocket.com/privacy#information_sharing_and_disclosure)
+  * [IV. Preferences/Opt-Out](http://www.quizrocket.com/privacy#preferences_optout)
+  * [V. Third Parties](http://www.quizrocket.com/privacy#third_parties)
+  * [VI. Security](http://www.quizrocket.com/privacy#security)
+  * [VII. Accessing and Updating Personal Informatio](http://www.quizrocket.com/privacy#accessing_and_updating_personal_information)n
+  * [VIII. Data Integrity](http://www.quizrocket.com/privacy#data_integrity)
+  * [IX. Children ](http://www.quizrocket.com/privacy#children)
 
-Visitors under 13 years of age are not allowed to participate in quizzes or surveys offered by Quiz Rocket. No information should be submitted to, or posted at, any Quiz Rocket Web sites by visitors under 13 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
-Registrants may receive e-mail confirming their Registration with Quiz Rocket, co-registration with Advertisers, as well as promotional marketing of commercial products and services. Quiz Rocket reserves the right to collect and retain data relating to email marketing sent to, and opened by, individuals on our marketing list(s). If you do not want to receive e-mail from Quiz Rocket in the future, please let Quiz Rocket know by completing an opt-out request at the following URL: 
 
-<http://www.quizrocket.com/unsubscribe>
+We regularly review our compliance with this Policy. Quiz Rocket may edit this Policy from time to time. When we make substantial changes to uses of PII, we will notify you by posting a prominent notice on our privacy policy, as well as an indicator on the home page of Quiz Rocket. Please feel free to direct any questions or concerns regarding this Policy via email to  , or via postal mail to P.O. Box 0125, Watertown, MA 02471. When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. 
 
-To unsubscribe from any co-registration Advertiser's website, please visit their website for complete details. 
+## I. Collected Information
 
-Quiz Rocket does not endorse, nor is Quiz Rocket responsible for the accuracy of, the Privacy Policies and/or Terms and Conditions of each of the Advertisers on the Quiz Rocket Website. The entities which advertise and/or place banner ads on the Quiz Rocket Website including, but not limited to, co-registration Advertisers, are independent third parties and are not affiliated with Quiz Rocket. 
+**Registration:** Registration is required to participate in Quiz Rocket quizzes, or in any other promotion or contests run by Quiz Rocket. You will be asked for PII as part of the registration process. Quiz Rocket requires that a user be thirteen (13) years of age or older. PII collected at registration may include email address, telephone number, gender, birth date, age, street address, home town, country and postal code. 
 
-Quiz Rocket delivers to your web browser many of the advertisements you see when you use the Website. However, Quiz Rocket also allows other companies, called third-party ad servers or ad networks, to serve advertisements within and/or on the Website. Because your web browser must request these advertising banners from the ad networks' servers, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the Website. In addition, Quiz Rocket uses third-party service provider partners to employ anonymous cookies for accounting and data integrity purposes. 
+**Additional PII:** Additional PII may be collected through use of the site including responses to questions , taking quizzes, surveys or polls, or through various offers provided on site. Quiz Rocket may collect and retain PII relating to email marketing sent to, and opened by, users on our marketing list(s). Quiz Rocket may additionally run promotions that may ask for additional demographic data. 
 
-If you want to prevent a third-party ad server and/or third-party service provider from sending and reading cookies on your computer, currently you must visit each ad network's and service provider's website individually and opt out (if they offer this capability). Note that disabling cookies may limit, or in some cases, preclude your use of this site. 
+**Other Information:** In addition to PII, additional information may be collected, such as system information, browser type (e.g., Netscape, Internet Explorer), IP address, the type of operating system you are using (e.g., Windows XP or Mac OS), what version of Adobe Flash you are using (e.g., Flash 9.0), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access), information about your geographic location, and the domain name of your Internet service provider. We also track some of the pages that you visit on our Website through the use of pixel tags (also called clear gifs). This tracks usage information about users who have received targeted promotional campaigns. In addition, Quiz Rocket uses third-party service provider partners to employ anonymous cookies for accounting and data integrity purposes. 
 
-### Your Acceptance of These Terms
+**Other sources:** We may receive information about you from other sources, including publicly available information or information available from third party sources, such as updated delivery and address information from our carriers or third parties, and add it to our account information, generally for updating purposes. We may also obtain information about you through optional co-registration and/or advertisements on sites operated by third parties. 
 
-By using this site and/or agreeing to receive information from Quiz Rocket, you agree to the Quiz Rocket Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the Quiz Rocket Website or acceptance of our e-mails following the posting of changes to these terms will mean that you accept these changes. If you do not agree to the terms of this Privacy Policy, you may unsubscribe from our services by completing an opt-out request at the following URL: 
+**Cookies:** Cookies are pieces of data stored in the browser's memory or written to the user's hard drive that provide the ability to recall information across user sessions. This also enables tracking of various user actions and helps customize the display of site content and personalized advertisements. Most web browsers are automatically set to accept cookies. You do not have to accept cookies to use Quiz Rocket, but Quiz Rocket may not work correctly if cookies are disabled, and some functionality may be completely unavailable. You may reset your browser to notify you when you receive a cookie or to reject cookies generally. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. 
 
-**[Unsubscribe here!](http://www.quizrocket.com/unsubscribe)**
+You can request that we stop storing cookies on your computer, and that we don't set any more. **Please be aware that if you decline the use cookies set by Quiz Rocket, you will be unable to use the site.**
+
+[Click here to opt-out of Quiz Rocket cookies](http://www.quizrocket.com/remove-all-cookies)
+
+## II. Use of Collected Information 
+
+**Marketing:** PII you submit to Quiz Rocket remains your property, but by submitting PII to Quiz Rocket you grant Quiz Rocket the right to use that information for marketing purposes including: 
+
+  * Sharing such information whether at Quiz Rocket, via email, on third party websites, via co-registration or otherwise with Advertisers
+  * Delivering certain direct marketing offers to you via telemarketing, e-mail marketing, direct mail, SMS messaging and other types of direct marketing unless you request for this information not to be disclosed to third parties for marketing purposes using the opt out below or you have previously opted out from your PII being disclosed to third parties for marketing purposes.
+
+
+
+Your PII is used in a variety of other ways, including: 
+
+  * Ensuring better presentation of site content to match demographic interests
+  * Customizing advertising on the site [in accordance with your preferences]
+  * Improving the site
+  * Contacting you regarding Quiz Rocket (including your registration with Quiz Rocket
+  * Fulfilling prizes
+  * Tracking compliance with our Quiz Rocket Rules
+  * Improving content and feedback purposes
+  * Confirming user registration with Quiz Rocket and co-registration with Advertisers
+  * Combining with information from third party sources
+
+
+
+## III.Information Sharing and Disclosure
+
+We only share PII with other companies or individuals outside of Pangea Media in the following limited circumstances: 
+
+**Third Party Service-Providers:** Quiz Rocket may from time to time share email addresses and other PII with third parties to perform functions on our behalf, such as sending informational emails about our products and services. In these cases, Quiz Rocket uses only trusted partners who have entered into non-disclosure agreements prohibiting use or dissemination of PII and that meet the requirements set out in the .Security. section below. 
+
+**Third Party Marketers:** We may sell PII you supply to us to selected third parties for direct marketing purposes, unless you request for this information not to be disclosed to third parties for marketing purposes using the opt out below or you have previously opted out from your PII being disclosed to third parties for marketing purposes. These businesses may include, providers of direct marketing services via telemarketing, e-mail marketing, direct mail, SMS messaging and other types of direct marketing. 
+
+**Other Third Parties:** We may sell PII you supply to us to other selected third parties, including providers of applications, including lookup and reference, data enhancement, suppression and validation. 
+
+**Protection of Pangea Media and others:** We reserve the right to access, use, preserve or disclose PII: as required by law , regulation, legal process or governmental request and when we believe that access, use, preservation or disclosure is necessary to protect our or our users' rights, property or safety and / or comply with a judicial proceeding, court order, legal process or governmental request served upon our company; enforce the [terms and conditions](http://www.quizrocket.com/terms) of Quiz Rocket, including investigation of potential violations; and to detect, prevent, or otherwise address fraud, security or technical issues. 
+
+**Non-Personally Identifiable Information:** We may share aggregated, non-personally identifiable information about our user base with partners and advertisers, and to run promotions [in accordance with your preferences], and this may include demographics, usage, or characteristics of Quiz Rocket participants as a group. We may also share with Advertisers usage information about users who have received targeted promotional campaigns, for the purpose of formatting future campaigns and upgrading user information used in reporting statistics in accordance with your preferences. This information is collected by tracking some of the pages you visit on Quiz Rocket through the use of pixel tags (also called clear gifs). 
+
+**Merger/Acquisitions:** If Pangea Media becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before PII is transferred and becomes subject to a different privacy policy. 
+
+## IV. Preferences/Opt Out
+
+If you provide us with your address, telephone number and/or email, you may receive occasional mailings, phone calls, or emailings from us or our agents with information on Pangea Media, new products, industry news, product features, and upcoming events. We send promotional email to our users, including users who have not opted out after having received promotional email from us. 
+
+To the extent we use PII to email you about our products and services, our email practices are in compliance with the U.S. SPAM laws. 
+
+If you do not wish to receive promotional communications from us, please [unsubscribe here](http://www.quizrocket.com/unsubscribe), or the bottom of promotional emails you may receive from us or you can also contact us by email at   or in writing to P .O. Box 0125, Watertown, MA 02471. 
+
+If you do not want us to sell your PII to third parties for direct marketing purposes, please unsubscribe here, or you can also contact us by email at   or in writing to P .O. Box 0125, Watertown, MA 02471. 
+
+Quiz Rocket also displays personalized third party advertising based on your PII. Advertisers may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the advertisement (e.g. all female users in California). If you do not want us to use your PII to allow third party advertisements to be personalized, please follow the opt out process below. 
+
+If you do not wish to receive personalized advertising from us, please contact us by email at   or in writing to P.O. Box 0125, Watertown, MA 02471. 
+
+## V. Third Parties
+
+Quiz Rocket includes third party advertising and links to other websites. These third party websites and advertisers, or internet advertising companies working on their behalf, may deliver to your web browser many of the advertisements you see when you use the Website. They may also use cookies, Javascript, web beacons (also known as action tags or single-pixel gifs) and other technologies to measure the effectiveness of their advertisement and to personalize advertising content. We do not have access to or control over cookies or other features they may use, and the privacy practices of these entities are not covered by this Policy. Please contact them directly for more information about their privacy practices. 
+
+If you want to prevent a third-party ad server and/or third-party service provider from sending and reading cookies on your computer or using any of the other features referred to above, currently you must visit each ad network's and service provider's website individually and opt out (if they offer this capability). Note that disabling cookies may limit, or in some cases, preclude your use of this site. 
+
+Please remember that this Privacy Policy applies only to information collected by us at Quiz Rocket. On Quiz Rocket or within messages received from Quiz Rocket there may be embedded code or links to other third party websites (including Advertisers) that have different privacy and security policies. Quiz Rocket does not endorse, nor is Quiz Rocket responsible for the accuracy of these policies. The entities which advertise and/or place banner ads on Quiz Rocket including co-registration Advertisers are independent third parties and are not affiliated with Quiz Rocket. You should consult these third party sites for their policies. 
+
+## VI. Security
+
+Quiz Rocket has security measures in place to protect information against unauthorized access, destruction, use, modification or disclosure, including a comprehensive information security program. Quiz Rocket uses industry-standard procedures and guidelines. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store PII. 
+
+Quiz Rocket also ensures that all third parties who receive PII have in place reasonable security procedures and practices appropriate to the nature of the information, to protect it from unauthorized access, destruction, use, modification or disclosure and that third party service providers maintain information security practices and programs in accordance with applicable law. 
+
+We restrict access to PII to: key executives of Pangea Media and members of the development team (including employees, contractors and agents of Pangea Media) who have direct access to information under our control, who need to know that information in order to operate, develop or improve our products and services; or persons who need to comply with record retention requirements by law. These individuals are bound by confidentiality obligations. 
+
+Personal information collected on Quiz Rocket is stored in our system for a period of one year for administration purposes before being deleted automatically. 
+
+## VII. Accessing and updating personal information 
+
+Please contact us by email at   or in writing to P.O. Box 0125, Watertown, MA 02471 if you would like to access PII we have collected about you. We will make good faith efforts to provide you with access to your PII and either correct this data if it is inaccurate or delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask that you identify yourself and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. 
+
+## VIII. Data integrity
+
+We process PII only for the purposes for which it was collected and in accordance with this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on you to update or correct your personal information whenever necessary. 
+
+## IX. Children 
+
+Quiz Rocket does not knowingly collect personal information from minors under the age of 13. If you are under the age of 13, please do not provide us with your personal information. If you have reason to believe that a child has provided us with their personal information, please contact us at the address given above and we will delete that information from our databases. 
+
+Users under 13 years of age are not allowed to participate in quizzes or surveys offered by Quiz Rocket. Quiz Rocket is not responsible for information obtained from underage users who have provided false information regarding their age. However, in these instances parents may visit the Quiz Rocket Unsubscribe page to unsubscribe the child's email, and have his/her information removed. Quiz Rocket is not responsible for any offers presented to underage users who have provided false information regarding their age. Parents must contact offer providers directly. No information should be submitted to, or posted at, any Quiz Rocket Web sites by users under 13 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
+
+## Your Acceptance of These Terms
+
+If you do not agree to the terms of this Privacy Policy, you may unsubscribe from our services by completing an opt-out request at the following URL: 
+
+[Unsubscribe here!](http://www.quizrocket.com/unsubscribe)
 
 Alternatively, you may send postal mail to the following address: 
 
-Quiz Rocket  
+Quiz Rocket   
 P.O. Box 0125  
 Watertown, MA 02471 
 
-Last updated 05/11/2007 
+Last updated 01/20/2009 
