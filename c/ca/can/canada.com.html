@@ -1,21 +1,179 @@
-<!--The following is the downloaded HTML source of the canada.com privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223055902id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canada.com privacy policy that was archived on 2009-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090610050655id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Canwest Broadcast</title>
-	<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
-	<link title="stylesheet" href="/css/menu.css" type="text/css" rel="stylesheet">
-	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/ie6.css" media="screen"/><![endif]-->
-	<script src="/js/global-navbar.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- HEAD OPENER HERE --><!-- ABOVE LINE IS CRITICAL CODE AND PAGE HEADERS IMPORT SAME FOR ALL PAGES --><!-- DEFINE ANY PAGE ATTRIBUTES IN FOLLOWING BLOCK --><!-- DEFING ALL PAGE ATTRIBUTES IN ABOVE BLOCK --><!-- STANDARD HEADER  BELOW, SAME FOR ALL PAGES --><!-- END HEAD OPENER --><head>
+
+<script lang="JavaScript">
+  var DOMType;
+
+  function Initialize()
+  {
+    if (document.all)
+    {
+      DOMType = 'MS';
+      oLastPanel = document.all['NewspaperDivision'];
+      oLastDivision = document.all['Blank'];
+      oLastButton = document.all['DisplayAdsButton'];
+    }
+    else if (document.getElementById)
+    {
+      DOMType = 'W3C';
+      oLastPanel = document.getElementById('NewspaperDivision');
+      oLastDivision = document.getElementById('Blank');
+      oLastButton = document.getElementById('DisplayAdsButton');
+    }
+    else if (document.layers)
+    {
+      DOMType = 'NS4';
+      oLastPanel = document.layers['NewspaperDivision'];
+      oLastDivision = document.layers['Blank'];
+      oLastButton = document.layers['DisplayAdsButton'];
+    }
+    else
+    {
+      DOMType = 'None';
+    }
+  }
+
+  function ToggleMenuItem(strMenuName, iMenuLevel)
+  {
+    var oMenuItem, oCloseMenuItem, oMenuBottomBar, oCloseMenuBottomBar;
+    var strCloseMenuName, strParentMenuName;
+    var bKeepGoing;
+    var i, iLength;
+	var strMenuBottomBar, strCloseMenuBottomBar;
+	
+	strMenuBottomBar = strMenuName + '_Bottom'
+
+    if (DOMType == "MS")
+    {
+      oMenuItem = document.all[strMenuName];
+      oMenuBottomBar = document.all[strMenuBottomBar];
+    }
+    else if (DOMType == "W3C")
+    {
+      oMenuItem = document.getElementById(strMenuName);
+      oMenuBottomBar = document.getElementById(strMenuBottomBar);
+    }
+    else if (DOMType == "NS4")
+    {
+      oMenuItem = document.layers[strMenuName];
+      oMenuBottomBar = document.layers[strMenuBottomBar];
+    }
+
+    if (oMenuItem.style.display == "inline")
+    {
+      oMenuItem.style.display = "none";
+      if (oMenuBottomBar)
+	  {
+		  oMenuBottomBar.style.display = "inline";
+	  }
+    }
+    else
+    {
+
+      iLength = strMenuName.length - 1;
+      bFound = false;
+      i = iLength
+      while (i > 0 && !bFound)
+      {
+        i = i - 1
+        if (strMenuName.charAt(i) == '_')
+        {
+          strParentMenuName = strMenuName.substr(0, i + 1)
+          bFound = true;;
+        }
+      }
+
+      i = 0
+      bKeepGoing = true;
+      while (bKeepGoing)
+      {
+        strCloseMenuName = strParentMenuName + i
+		strCloseMenuBottomBar = strCloseMenuName + '_Bottom';
+        if (DOMType == "MS")
+        {
+          oCloseMenuItem = document.all[strCloseMenuName];
+          oCloseMenuBottomBar = document.all[strCloseMenuBottomBar];
+        }
+        else if (DOMType == "W3C")
+        {
+          oCloseMenuItem = document.getElementById(strCloseMenuName);
+		  oCloseMenuBottomBar = document.getElementById(strCloseMenuBottomBar);
+
+        }
+        else if (DOMType == "NS4")
+        {
+          oCloseMenuItem = document.layers[strCloseMenuName];
+          oCloseMenuBottomBar = document.layers[strCloseMenuBottomBar];
+        }
+
+        if (oCloseMenuItem != null)
+        {
+          oCloseMenuItem.style.display = "none";
+          if (oCloseMenuBottomBar)
+         {
+            oCloseMenuBottomBar.style.display = "inline";
+          }
+          i += 1;
+        }
+        else
+        {
+          bKeepGoing = false;
+        }
+      }
+      oMenuItem.style.display = "inline";
+      if (oMenuBottomBar)
+     {
+        oMenuBottomBar.style.display = "none";
+      }
+    }
+  }
+
+  Initialize();
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <title>Canwest - Privacy Statement</title>
+  <meta name="keywords" content="index,follow,advertising,canwest,media,sales,search,mediaworks,planning,buying,corporate,broadcast,research,online,digital,marketing,print">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
+<link href="/css/menu.css" rel="stylesheet" type="text/css" title="stylesheet">
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/style/ie6.css" media="screen"/><![endif]-->
+<script src="/js/global-navbar.js" type="text/javascript"></script>
+<!-- HEAD OPENER HERE -->
+
+<!-- STANDARD HEADER ABOVE, SAME FOR ALL PAGES -->
+<!-- ANY ADDITIONAL INSTRUCTIONS YOU WANT IN THE HEAD TAG PUT BETWEEN THIS AND THE NEXT COMMENT TAG -->
+
+
+<!-- ANY ADDITIONAL ISNRUCTIONS CONTENT YOU WANT IN THE HEAD TAG PUT PETWEEN THIS AND THE PREVIOUS COMMENT TAG --> 
+<!--
+	6 Different headers are available for choice header on standard pages.  Key is as follows:
+		enlightenHeader.asp 		- blue: advertisiing section
+		enlightenHeader1.asp		- Blue: careers section
+		informHeader0.asp		- green: theCompany section
+		informHeader1.asp		- green: inVestors Section
+		informHeader2.asp		- green: newsRoom Section
+		entertainHeader0.asp		- orange: theBusiness Section		
+-->
+
+<!-- CHOICE HEADER OPTIONS ARE DETAILED ABOVE  -->
+<!-- END HEAD OPENER -->
+<!-- ARRRR, LEFT NAV & HEADER IS BELOW ME -->
+
 
 
 </head>
+
+
 <body>
-	<div id="main">
-		<div id="header" class="small">
-			<a class="logo" href="/default.asp">Canwest</a>
-			<!--seacrh form-->			      <div class="form">
+
+  <div id="main">
+    <div id="header" class="corporatesmall">
+      <a class="logo" href="/default.asp">Canwest</a>
+      <div class="form">
         <form name="yider_form" action="/search/search.asp" method="post">
           <div>
             <input name="yider" type="text" class="input" size="30" value="">
@@ -23,42 +181,72 @@
           </div>
         </form>
       </div>
-	
-		<div id="main_nav">	  
-			<ul class="top-nav">
-				<li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
-				<li><a href="#" onmouseover="ypSlideOutMenu.showMenu('menu1');return true;" onmouseout="ypSlideOutMenu.hideMenu('menu1');return true;"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
-				<li><a href="/investors/default.asp"><span>INVESTORS</span><span class="right">&nbsp;</span></a>	
-				</li>
-				<li><a href="/media/default.asp"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
-				<li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
-				<li><a href="/advertising/default.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a></li>
-			</ul>
-			
-			</div>
-  	  <div id="flyout_space" style="width:585px">
+      <div id="main_nav">	  
+        <ul class="top-nav">
+<noindex>
+  <div class="nospider">
+          <li><a href="/about/default.asp"><span class="first">ABOUT US</span><span class="right">&nbsp;</span></a></li>
+
+          <li><a href="/brands/default.asp"><span>OUR BRANDS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/investors/default.asp"><span>INVESTORS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/media/default.asp"><span>MEDIA</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/careers/default.asp"><span>CAREERS</span><span class="right">&nbsp;</span></a></li>
+          <li><a href="/advertising/index.asp"><span>ADVERTISING</span><span class="last">&nbsp;</span></a>
+  </li></div>
+</noindex>
+
+
+
+          
+        </ul>
+      </div>
+
+      <div id="top_subnav">
+
+      </div>
+
+      <div id="flyout_space" style="width:585px">
         <div id="menu1Container"> 
-  	      <div id="menu1Content" class="menu">
-	          <ul>
-		          <li><a href="/brands/Broadcast.asp">BROADCASTING</a></li>
-		          <li><a href="/brands/publishing.asp">PUBLISHING</a></li>
-		              <li><a href="/brands/advertising.asp">ADVERTISING</a></li>
-  	        </ul>
-	        </div>
+          <div id="menu1Content" class="menu">
+            <ul>
+              <li><a href="/brands/broadcast.asp">BROADCAST</a></li>
+              <li><a href="/brands/publishing.asp">PUBLISHING</a></li>
+              <li><a href="/brands/advertising.asp">INTERNATIONAL</a></li>
+            </ul>
+          </div>
         </div>
       </div> 				
-			<div class="image" style="clear:left;"></div>
-			<div class="background"></div>
-		</div>
+      <div class="image" style="clear:left;"></div>
+      <div class="background"></div>
+    </div>
 		
+
 		
 		<div id="content">
 			<div id="left-column">
+<br>
 			</div>
 			
 			<div id="rigth-column">			  
-					<span class="breadcrumbs"><a href="/default.asp">Home</a> &gt; Privacy Statement</span>
 				<div class="text">
+<br>
+
+
+<!-- LEFT NAV & HEADER IS ABOVE ME -->		
+<!-- CONTENT STARTS HERE -->
+
+<!-- CHOICE HEADER OPTION IS LOADED ABOVE  -->
+
+<!-- 
+	All content exists inside a table cell.  Before the content is an open table  cell 
+	with valign="top" and no other attributes.  You may put whatever you please in the content including 
+	open a table immediately as this may give you greater control. 
+	
+	Depending on the wether you have left navigation or not you will have 942 pixels width wise without 
+	navigation and 752 pixels if navigation is required. 
+-->
+<!-- content starts here -->   
+
 					<h1>Customer Privacy Statement</h1>
 
 <p>
@@ -232,7 +420,7 @@ To contact the privacy officers click the appropriate link below:
 				<li><a href="/privacy.asp">Privacy Statement</a></li>
 				<li><a href="/copyright.asp">Copyright</a></li>
 			</ul>
-			<span>All rights reserved 2007 Canwest Global Communications Corp</span>
+			<span>All rights reserved 2009 Canwest Global Communications Corp</span>
 
 		</div>
 <!--
