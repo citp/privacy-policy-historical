@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222052137id_/http%3A//www.movabletype.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610030037id_/http%3A//www.movabletype.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Movable Type: Movable Type: Privacy Policy
 
