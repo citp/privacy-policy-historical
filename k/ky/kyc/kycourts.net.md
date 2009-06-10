@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kycourts.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160236id_/http%3A//kentucky.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kycourts.net privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610173150id_/http%3A//kentucky.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # Kentucky.gov : Privacy and Security
 
