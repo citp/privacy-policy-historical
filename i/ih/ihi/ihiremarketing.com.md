@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630071409id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611015837id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
 
-# iHireMarketing - Marketing jobs
+# Marketing Jobs
 
 **_Privacy Policy_**
 
