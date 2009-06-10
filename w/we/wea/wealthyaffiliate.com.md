@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608085238id_/http%3A//www.wealthyaffiliate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610043907id_/http%3A//www.wealthyaffiliate.com/privacy.php) for the most accurate reproduction.*
 
 # WealthyAffiliate.com - Disclaimer
 
@@ -22,8 +22,7 @@ WealthyAffiliate.com uses information for the following general purposes: to ful
 
 **Information Sharing and Disclosure**
 
-WealthyAffiliate.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
-We provide the information to trusted partners who work on behalf of or with WealthyAffiliate.com under confidentiality agreements. These companies may use your personal information to help WealthyAffiliate.com communicate with you about offers from WealthyAffiliate.com and our marketing partners. However, these companies do not have any independent right to share this information.
+WealthyAffiliate.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission.
 
 We transfer information about you if WealthyAffiliate.com is acquired by or merged with another company. In this event, WealthyAffiliate.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
