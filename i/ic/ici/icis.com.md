@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083246id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610083424id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
-# ICIS - Home
+# Chemical Industry News & Intelligence | ICIS.com
 
 ICIS.COM is owned and operated by Reed Business Information Limited ('RBI'). 
 
@@ -46,4 +46,4 @@ AdTech, the third party company which serves advertisements on the site, uses co
 
 Bluestreak, the third party company which handles our user database, also uses cookies. These cookies may include personally identifying information that you have provided to us by filling in an online form. For more information, please visit their site [http://www.bluestreak.com](http://www.bluestreak.com/). 
 
-[](http://www.icis.com/Home/privacy.htm?PrinterFriendly=true) [Printer Friendly](http://www.icis.com/Home/privacy.htm?PrinterFriendly=true)
+[](http://www.icis.com/staticpages/privacy.htm?PrinterFriendly=true) [Printer Friendly](http://www.icis.com/staticpages/privacy.htm?PrinterFriendly=true)
