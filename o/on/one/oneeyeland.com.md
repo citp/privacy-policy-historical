@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneeyeland.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228130439id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneeyeland.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610223307id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.*
 
-# One EyeLand - Meet the world's finest photographers and their creations
+# One Eyeland - The one community for creative photographers.
 
 _Revision date: 24th December, 2008_
 
