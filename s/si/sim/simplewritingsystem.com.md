@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220135158id_/http%3A//www.simplewritingsystem.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610083735id_/http%3A//www.simplewritingsystem.com/privacypolicy.html) for the most accurate reproduction.*
 
-# John Carlton - The Marketing Rebel - PrivacyPolicy
+# Simple Writing System 5 - PrivacyPolicy
 
 **Privacy Policy  
 **    
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
-**We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
+**We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
 **Sharing and Selling Information**
 
@@ -14,11 +14,11 @@ We **do not** share, trade, rent, lend, lease, or sell any of the information th
 
 **Choice/Opt-In/Opt-Out**
 
-If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting.  You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages.  Every email we send comes with an Opt-Out / Unsubscribe link.  Click that link, and we will discontinue sending you messages as soon as technically feasible. 
+If you choose to provide us your email address, we may at times email you information and/or offers we think you might find interesting.  You can Opt-Out / Unsubscribe from these emails at any time and you will not receive future messages.  Every email we send comes with an Opt-Out / Unsubscribe link.  Click that link, and we will discontinue sending you messages as soon as technically feasible.
 
 **What Information Do We Collect?**
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 **1\. Personal Information You Choose to Provide**
 
@@ -36,7 +36,7 @@ We do not collect or store any credit card information.  We use secure 3rd part
 
 **2\. Web Site Use Information**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
 **How Do We Use the Information That You Provide to Us?**
 
@@ -52,11 +52,11 @@ A cookie is a very small text document, which often includes an anonymous unique
 
 **How Do We Use Information We Collect from Cookies?**
 
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
 **IP Addresses**
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you.
 
 **How Can You Access and Correct Your Information?**
 
@@ -64,39 +64,37 @@ You may request access to all your personally identifiable information that we c
 
 **What About Legally Compelled Disclosure of Information?**
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
 **What About Other Web Sites Linked to Our Web Site?**
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.   
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  
+Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
 **Your Consent**
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
 
 **Our Commitment To Data Security**
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **Surveys & Contests**
 
-From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 **A Special Note About Children**
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 16) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 16) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
 **Acquisition or Changes in Ownership**
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
+In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
 **Policy Modifications**
 
 We may change this Privacy Policy from time to time.  We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
- This policy was created February 26, 2006.
+  This policy was created February 26, 2006.
 
 If you have any questions or concerns regarding our privacy policy please direct them to [support@marketingrebel.com](mailto:support@marketingrebel.com) .
-
-Close Window
