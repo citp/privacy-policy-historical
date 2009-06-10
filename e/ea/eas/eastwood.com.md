@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081039id_/http%3A//www.eastwoodco.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611010511id_/http%3A//www.eastwood.com/custserv-privacy) for the most accurate reproduction.*
 
-# Eastwood Company: Auto Tools, Body Repair, Classic Car Restoration, House of Kolor Paint, Powder Coating
+# Customer Service - Privacy Policy
+
+Untitled Document
 
 **Privacy Policy**
 
@@ -32,5 +34,12 @@ However, if you choose to disable cookies, you may not be able to use features s
 
 **CHANGES TO THE EASTWOOD COMPANY PRIVACY POLICY:** It may be necessary for The Eastwood Company to make changes to this privacy policy. If changes are made, they will be announced on this page. 
 
-**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/custserv/customerservicemain.jsp?cid=12)**  
+**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/web/20090611010511id_/http%3A//www.eastwood.com/custserv-terms)**  
+
+
+  
+
+
+[  
+ABOUT SSL CERTIFICATES](http://www.thawte.com/digital-certificates/)   
 
