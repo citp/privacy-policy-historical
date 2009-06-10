@@ -1,0 +1,69 @@
+> *The following text is extracted and transformed from the buylowauctions.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611013343id_/http%3A//buylowauctions.com/index.php%3F/site/pop_privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+### Effective Date: February 2009
+
+We take your privacy very seriously. We have prepared this Privacy Policy to describe the types of personal and non-personal information we collect, how we use such information, and to whom and under what circumstances we disclose such information. By using our Website and/or ordering any of our products, you signify your assent to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy.
+
+### Collection of Information
+
+#### Personal Information
+
+As a general policy, BUYLOW AUCTIONS only collects personal information from you when you voluntarily provide it to us by: (1) placing an order; (2) registering on the Website; (3) contacting us (including our customer service representatives and other employees), including but not limited to by email, postal mail, telephone or through any of the contact forms found on our website; and (4) completing any surveys. We may collect personal information, including, but not limited to, your name, physical address, e-mail address, telephone number, cellular telephone number, credit card number, credit card expiration date, other unique identifiers, website password, username, and other demographic information.
+
+#### Non-Personal Information
+
+As part of the standard operation of our Website and Internet servers, we may collect certain non-personal information from you including, but not limited to, your IP address, and the Web page from which you accessed the Website.
+
+In addition, we may collect information about your browsing behavior, such as the date and time you visit our Website, the areas or pages of our Website that you visit, the amount of time you spend viewing our Website, the number of times you return to our Website, and other click-stream data. 
+
+#### Cookies and Web Beacons
+
+We may use cookies to collect the non-personal information described above, which may be combined with your personal information. A cookie is a small text file that may be stored on the hard drive of your computer when you access our Website. Only you and the entity that places a specific cookie on your computer may access that cookie.
+
+We may also use cookies and/or single-pixel GIF image files (also called "Web beacons") to: (1) track and report your order to an affiliate Company so you may receive credit for your order, when applicable (the affiliate company may have also placed a cookie on your computer for this purpose); (2) conduct research to improve our content and services; (3) access your account when you login to the website and provide you with customized content, when applicable; and (4) require you to re-enter your password periodically to help prevent others from accidentally accessing your account information, when applicable.
+
+You are always free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.)
+
+To the extent third parties may place advertising on the Website, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. We are not responsible for information collected by third parties in this manner, nor for the collection or use of information by other sites to which the Website is linked.
+
+#### Use of Information
+
+We may use the information we collect from you for purposes including but not limited to the following: (1) to fulfill your requests for certain products and services; (2) to provide you with targeted offers based on your specific requests or your stated preference to receive certain categories of offers; (3) to send you information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers, and other third parties; (4) to deliver targeted display advertisements and offers (by matching criteria provided by our advertisers with information collected from our visitors); (5) to enable our marketing partners, advertisers, and other third parties to communicate with individuals; (6) to contact visitors of our Website when necessary; (7) to help address questions and problems with our Website or services; (8) to administer our Website; (9) to conduct internal reviews of our Website (for example, to determine the number of visitors to specific pages within the Website); (10) to help us better understand visitors’ use of our Website; and (11) to protect the security or integrity of our Website.
+
+Non-personal information may be used for these purposes as well to monitor our Website, provide a greater online experience for our visitors, identify the source of orders and obtain accurate aggregate demographic usage patterns.
+
+#### Disclosure of Information
+
+BUYLOW AUCTIONS may transfer or otherwise disclose information collected from you to the following entities for the following purposes: (1) to our employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable any of these entities to perform a business, professional, or technical support function for us; (2) to our employees, independent contractors, service providers and suppliers, to fulfill a product or service request; (3) to our marketing and business partners and advertisers, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of the Website; (4) as necessary if BUYLOW AUCTIONS determines that there has been a violation of the Terms of Use and/or applicable law; (5) as necessary if we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, other users of our Website, or anyone else that could be harmed by such activities; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation as permitted by law, or otherwise as required by law; and (7) as provided for under the “Unforeseen Circumstances” section below. BUYLOW AUCTIONS may also sell, rent, lease or otherwise transfer any personal information collected from you to any of its marketing partners, advertisers, or other third parties.
+
+#### Security
+
+BUYLOW AUCTIONS utilizes reasonable security measures to protect against the loss, misuse or alteration of information placed under our control. We maintain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from visitors to our Website. Our servers have been enabled with Secure Socket Layer (SSL) technology to prevent unauthorized parties from viewing your non-public personal information while in transmission during a secure session. Our secure certificates have been verified by industry-trusted third parties.
+
+Private customer information (credit cards, financials, etc.) may be stored on our servers and/or with our payment gateway provider, Authorize.Net, in order to allow you to be refunded or conveniently make additional purchases. For your safety and protection, this information is kept encrypted and secure on your behalf for a period of time deemed necessary based on the standard time of the business-customer relationship.
+
+#### Children
+
+We do not direct our Website to, nor do we knowingly collect any personal information from, children under the age of eighteen. 
+
+#### Third Party Websites
+
+Our Website may contain links to other third party Websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Websites. Accordingly, we recommend that you review the privacy policy posted on any web site that you may access through our Website.
+
+#### Unforeseen Circumstances
+
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities. In such transactions, personal information may be one of the transferred business assets. Also, in the event that BUYLOW AUCTIONS or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+
+#### Changes
+
+If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly. Any such revisions will be effective on the date of posting to the Website, and will apply to all information collected by BUYLOW AUCTIONS both prior to and following the effective date. Your use of the Website following any such revisions will be deemed your acceptance of such revisions. You should periodically visit this page to review the current policies with regard to information.
+
+#### Contact Us
+
+Please relay any questions you may have pertaining our above stated policies to our Customer Service Center via email by clicking [here](http://buylowauctions.com/index.php?/site/service.html) or by calling 412-246-0754. 
+
+#### Your California Privacy Rights
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of BUYLOW AUCTIONS who are California residents to request certain information regarding BUYLOW AUCTIONS’S disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please write to: [service@buylowauctions.com](mailto:service@buylowauctions.com).
