@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2008-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080403055242id_/http%3A//www.aa.co.nz/terms/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610072403id_/http%3A//www.aa.co.nz/terms/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AA New Zealand
 
