@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104449id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610190508id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
 
 # Journals, Academic Books & Online Media | Springer
 
@@ -54,7 +54,7 @@ www.springer.com reserves the right to cooperate fully with state, local, and fe
 
 [Opt-out](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
-When you wish to opt-out from the tracking of user activities on springer.com you can do so at the form when following the link [...More](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
+You maintain at all times the right to disallow the collection and saving of your data. To do so, please click here. [...More](http://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
 |  |  |   
 ---|---|---|---|---
