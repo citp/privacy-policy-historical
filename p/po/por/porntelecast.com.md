@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227045349id_/http%3A//www.porntelecast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntelecast.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610063439id_/http%3A//www.porntelecast.com/privacy.html) for the most accurate reproduction.*
 
 # PornTelecast - Fresh Porn Every Day
 
