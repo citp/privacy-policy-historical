@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the administrativejobs.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225214400id_/http%3A//www.administrativejobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the administrativejobs.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610193414id_/http%3A//www.administrativejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Clerical & Administrative Jobs & Resumes, Find Career Resources - AdministrativeJobs.com
 
