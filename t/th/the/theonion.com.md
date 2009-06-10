@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611005713id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610061532id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
 
 # privacy | The Onion - America's Finest News Source
 
@@ -58,6 +58,6 @@ _The Onion_ never shares, sells, or rents any personal information without your 
 
 **_The Onion_** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
 
-The content of this web-site—graphics, text and other elements—is © Copyright 2008 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
+The content of this web-site—graphics, text and other elements—is © Copyright 2009 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
 
 **_The Onion_** is not intended for readers under 18 years of age.
