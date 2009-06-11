@@ -1,77 +1,36 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216205711id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611163449id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
-## Privacy and security
+## Your privacy
 
-Thank you for visiting the Education Queensland entry point (education.qld.gov.au) and reviewing our Privacy Statement.
+We are committed to protecting user privacy. We understand that visitors and users of this website are concerned about their privacy, and the confidentiality and security of any information that is provided.
 
-Education Queensland is committed to protecting user privacy. We understand and appreciate that visitors and users of this web site are concerned about their privacy and the confidentiality and security of any information that they may provide.
+## Information collected on this website
 
-The Education Queensland website makes some use of data that directly or indirectly identifies users. We take great care with practices that affect personal privacy. Education Queensland officers who manage information on our website are bound by [Information Standard 42: Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/index.aspx) and the departmental "[Code of Conduct](https://web.archive.org/corporate/doem/humanres/hr-07001/hr-07001.html)".
+When you visit this website, our web measurement tool and Internet Service Providers record anonymous information for statistical purposes only, including:
 
-## Cookies
-
-Internet cookies are small strings of text placed on users' hard drives during the data exchange that happens when a browser points to a web site. Cookies allow a website to store information on a user's machine and later retrieve it. They remember preferences you enter and then tailor a site to suit your needs. Cookies have no way of disclosing your name or any personal information.
-
-Education Queensland uses cookies for:
-
-  * our web server to manage your sessions. 
-    * The cookies store the session ID. This storage lasts in the browser's memory while the browser is active. The session state information is deleted within 24 hours of you last accessing the site. 
-    * When logging into an update application with user ID and password, the system uses the cookie to determine if you have already supplied this ID and password when accessing secure options. 
+  * the type of browser, computer platform and screen resolution you are using
+  * your traffic patterns through our site such as: 
+    * the date and time of your visit to the site
+    * the pages you accessed and documents downloaded
+    * the previous page you visited prior to accessing our site
+    * the Internet address of the server accessing our site
 
 
 
-Most browsers can be set to accept or reject cookies. You can choose to adjust your browser to reject cookies or to notify you when they are being used. Please note - rejecting cookies may limit the functionality of the Education Queensland website.
+No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect our service providers' logs.
 
-## Site Usage
+## Email
 
-When you look at Education Queensland's web site, our web server makes a record of your visit and logs the following information, some of which is used for statistical purposes:
+This is a Queensland Government website. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) [](https://web.archive.org/about/files/external.html "About external links") [PDF 428KB] and other relevant regulations.
 
-  * the client IP address (e.g. the proxy or the user's workstation)
-  * User name (employees logged into the EQ network only)
-  * the date and time of the access
-  * the pages accessed and documents downloaded 
-  * the file size of the pages downloaded 
-  * the status of the visit 
-  * the previous site visited 
-  * the type of browser used.
+We will not use your personal information to compile a mailing list or for marketing purposes, and we will only collect and handle your personal information in accordance with the Information Privacy Principles in the Queensland Government's [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/toolbox/Pages/Information%20Privacy.aspx) [](https://web.archive.org/about/files/external.html "About external links") (available at the [Queensland Government Chief Information Office](http://www.qgcio.qld.gov.au/qgcio/Pages/index.aspx) [](https://web.archive.org/about/files/external.html "About external links") site ).
 
-
-
-No attempt is, or will be made, to identify users or their browsing activities except in the following circumstances:
-
-  * The unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs. 
-  * For internal administrative use, to ascertain and promote the top 10 sites visited, to produce reports on resources used and to estimate budgetary requirements.
-
-
-
-User names can only be identified for EQ employees logged into the EQ network.
+Our Internet Service Provider may monitor email traffic for system trouble shooting and maintenance purposes only.
 
 ## Security
 
-This site does not provide facilities for securely transmitting information across the Internet. It is recognised that there can be risks with transmitting information across the Internet. This site contains links to websites not managed by Education Queensland. For those sites, Education Queensland is not responsible for the privacy or security practices or the content of such websites. 
-
-## Surveys 
-
-At times you may be asked to complete survey questionnaires that appear on the site. These may include your providing identifiable information. You will be given the reasons for the collection of such information, the purpose for which it will be used and to whom it may be disclosed.  By participating in the questionnaire or survey, you are accepting certain additional terms and conditions relating to the use of the information you provide. 
-
-## Accessing Education Queensland On-Line Services 
-
-If you want to obtain access to certain areas of the Education Queensland website, you will be required to provide personal information such as your name, address, contact details, employee number and position before being given access to those parts of the website.  You will be given the reasons for the collection of such information, the purpose for which it will be used and to whom it may be disclosed.  By providing the required information, you are accepting additional terms and conditions relating to the use of the information you provide. 
-
-## Obtaining Access to Personal Information 
-
-Any member of the public who requires access or amendment to personal information held by the Department of Education may apply under the [Freedom of Information Act 1992](https://web.archive.org/corporate/doem/legalleg/ll-07000/sections/preface_.html). 
-
-## Email and Feedback Information 
-
-As this is a Queensland Government website, email correspondence sent to this site will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/Legislation%20Docs/CurrentP.htm) and other relevant regulations.
-
-Your name and address details will not be added to a mailing list, nor will officers disclose these details to third parties without your consent unless required by law. Email messages may be monitored by our website support staff for system trouble shooting and maintenance purposes. 
-
-Although every effort will be made, Education Queensland cannot guarantee to reply to emails. Some emails received by the Web Manager may be forwarded to other officers for appropriate action. 
-
-If you have any queries about Education Queenslands [Privacy Plan](https://web.archive.org/information/privacy/plan/) and/or our privacy and security practices please forward an email to the [Administrative Law Unit](mailto:InformationPrivacy@deta.qld.gov.au), Office of Shared Services. 
+This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of such websites.
 
 ^ Top of page
