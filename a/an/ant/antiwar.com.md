@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiwar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105133id_/http%3A//www.antiwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiwar.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611051219id_/http%3A//antiwar.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Antiwar.com
 
@@ -11,3 +11,5 @@ Some of Antiwar.com’s services ask that the visitor volunteer additional infor
 General aggregated visitor information collected by Antiwar.com is used by Antiwar.com to make day-to-day business decisions about the site. Examples of this are determining what countries our users visit the site from, what browsers we need to support, etc.
 
 Voluntary promotion and opt-in service information may be used for our own marketing purposes, or for the marketing purposes of our partners. When this is the case it will be clearly stated. Antiwar.com does not sell, loan or share any of this information with any third party - unless otherwise explicitly stated in promotion rules, terms of service agreements, etc.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
