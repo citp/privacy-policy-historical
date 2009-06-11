@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the christianaid.org.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051109id_/http%3A//www.christianaid.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaid.org.uk privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611074711id_/http%3A//www.christianaid.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Aid
 
 **Christian Aid is committed to protecting your privacy. We aim to ensure that all your personal info is held securely and safely where no dodgy types can get to it.**
 
-This privacy policy explains how we collect, use and store information via our website www.christianaid.org.uk and what that might mean for you. This privacy policy applies to this website provided by Christian Aid. (a company limited by guarantee registered in England and Wales, registered office 35 Lower Marsh, London SE1 7RL, Company number 5171525, UK registered charity number 1105851, Republic of Ireland charity number CHY 6998).
+This privacy policy explains how we collect, use and store information via our website www.christianaid.org.uk and what that might mean for you. This privacy policy applies to this website provided by Christian Aid. (a company limited by guarantee registered in England and Wales, registered office 35 Lower Marsh, London SE1 7RL, Company number 5171525, UK registered charity number 1105851, Republic of Ireland charity number CHY 6998). We also registered in Scotland where our charity number is SC039150
 
 Christian Aid holds and processes personal details in accordance with the Data Protection Act 1998 and is registered with the information commissioner (registration no. Z9924905) as a data controller. CA Trading Ltd, our trading arm, is also registered with the information commissioner (registration no. Z9924694). Pay attention at the back!
 
