@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110616id_/http%3A//www.kidsii.com/KIDSIISub40x0x1x0.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611155016id_/http%3A//www.kidsii.com/KIDSIISub40x0x1x0.aspx) for the most accurate reproduction.*
 
-# Kids II Corporate® - Privacy Policy
+# Privacy Policy - Kids II Corporate®
 
 On-Line Privacy Policy of Kids II
 
@@ -10,7 +10,7 @@ By using our site, you consent to our privacy policy.
 
 Kids II feels it is important that you understand the type of information we collect from you, as well as how that information is used, disclosed, and protected.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
@@ -19,8 +19,8 @@ Kids II feels it is important that you understand the type of information we col
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions. 
   * To administer a contest, promotion, survey or other site feature. 
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
@@ -63,11 +63,9 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [_Terms and Conditions_](https://web.archive.org/KIDSIISub39x0x1x0.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our[ _Terms and Conditions_](https://web.archive.org/KIDSIISub39x0x1x0.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 In the event that any part or provision of these Terms and Conditions is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these Terms and Conditions will remain in full force and effect.
-
-Inventor Submissions and Communications
 
 Kids II no longer accepts any unsolicited inventor ideas or suggestions for products. Please note that any submissions we receive will be considered non-confidential and nonproprietary, and you will be deemed to have granted to us a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, modify, publish, distribute, and display such materials throughout the world with or without acknowledgment to you for any unsolicited submissions sent to Kids II, and we are free to use any submissions for any purpose whatsoever without compensation or acknowledgment to the inventor or provider of the submitted material.
 
