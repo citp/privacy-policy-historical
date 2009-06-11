@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120014656id_/http%3A//iabuk.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611023012id_/http%3A//www.iabuk.net/en/1/privacy.html) for the most accurate reproduction.*
 
-# IAB UK : Privacy
+# IABUK : Privacy
 
 ### We are committed to upholding your privacy as a valued user of this website.
 
