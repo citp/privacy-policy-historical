@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161332id_/http%3A//www.webwire.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwire.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611041248id_/http%3A//www.webwire.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement – WebWire
 
