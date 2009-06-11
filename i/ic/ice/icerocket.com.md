@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050806id_/http%3A//www.icerocket.com/c%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612014843id_/http%3A//www.icerocket.com/c%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - IceRocket
 
-We are strongly committed to protecting and ensuring your right to privacy. The following is a disclosure of our privacy policy and explains how IceRocket.com collects, uses, and if necessary, discloses information of IceRocket.com users. It is important that you know and fully understand IceRocket.com�s Privacy Policy before using our website. 
+We are strongly committed to protecting and ensuring your right to privacy. The following is a disclosure of our privacy policy and explains how IceRocket.com collects, uses, and if necessary, discloses information of IceRocket.com users. It is important that you know and fully understand IceRocket.com's Privacy Policy before using our website. 
 
 Personal Information 
 
@@ -20,9 +20,9 @@ Certain ads, such as sweepstakes, require users to register in order to use thei
 
 Cookies 
 
-A �cookie� is a small piece of data stored on the user�s computer that identifies you as a unique user. This piece of data contains information about the user. Usage of a cookie is in no way linked to any personal information while using our site. 
+A "cookie" is a small piece of data stored on the user's computer that identifies you as a unique user. This piece of data contains information about the user. Usage of a cookie is in no way linked to any personal information while using our site. 
 
-Upon your first visit to IceRocket.com, we will place a cookie on your computer. Our use of cookies is strictly to understand site usage and to improve the content and offerings on our site. You are not required to accept cookies in order to use our site. However, they help us to provide customization while using our site without having to remind us of your preferences each time you return to our site. You should know that reconfiguring your browser to reject cookies will limit you to certain areas of our site, and may cause part of IceRocket.com�s search function to malfunction. We do not disclose cookies to third parties unless required pursuant to a subpoena, a statute, a court order or other valid legal process. 
+Upon your first visit to IceRocket.com, we will place a cookie on your computer. Our use of cookies is strictly to understand site usage and to improve the content and offerings on our site. You are not required to accept cookies in order to use our site. However, they help us to provide customization while using our site without having to remind us of your preferences each time you return to our site. You should know that reconfiguring your browser to reject cookies will limit you to certain areas of our site, and may cause part of IceRocket.com's search function to malfunction. We do not disclose cookies to third parties unless required pursuant to a subpoena, a statute, a court order or other valid legal process. 
 
 We make every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
@@ -32,7 +32,7 @@ IceRocket.com contains links to other sites. Please be aware that IceRocket.com,
 
 Surveys & Contests 
 
-From time-to-time our IceRocket.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used solely for the purpose of notifying the winners and to award prizes. Anonymous Survey information will be used for the purpose of monitoring or improving the use and satisfaction of this site. Users� personal information is not shared with third parties unless we have your permission. Though we may use an intermediary to conduct these surveys or contests, they may not use personal information for any secondary purposes. 
+From time-to-time our IceRocket.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used solely for the purpose of notifying the winners and to award prizes. Anonymous Survey information will be used for the purpose of monitoring or improving the use and satisfaction of this site. Users' personal information is not shared with third parties unless we have your permission. Though we may use an intermediary to conduct these surveys or contests, they may not use personal information for any secondary purposes. 
 
 Security
 
