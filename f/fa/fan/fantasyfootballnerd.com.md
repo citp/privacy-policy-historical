@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballnerd.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091147id_/http%3A//www.fantasyfootballnerd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballnerd.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612015630id_/http%3A//fantasyfootballnerd.com/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football Nerd - Privacy Policy
 
