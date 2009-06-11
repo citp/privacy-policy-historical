@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165248id_/http%3A//www.bidorbuy.co.za/static/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611022920id_/http%3A//www.bidorbuy.co.za/article/446/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/static/help/affiliateTerms.html)
+[Terms & Conditions](https://web.archive.org/article/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/article/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/article/442/Billing_Statement) | [Rating Rules](https://web.archive.org/article/443/Rating_Rules) | [Listing Policy](https://web.archive.org/article/444/bidorbuy_Listing_Policy) | [Verified User Agreement](https://web.archive.org/article/445/Verified_User_Agreement) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/article/447/bidorbuy_Affiliate_Terms_and_Conditions)
 
 This Privacy Statement was last revised on 5 August 2008. 
 
@@ -26,7 +26,7 @@ We have agreed to notify you of:
 
 7.    How you can correct any inaccuracies in the Information
 
-**If you have questions or concerns regarding this statement, you should please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).   **
+**If you have questions or concerns regarding this statement, you should please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).  **
 
 **Information Collection and Use**
 
@@ -36,7 +36,7 @@ We are the sole owner of the information collected on this site.  We will not s
 
 We collect information from our users at several different points on our site.  We collect information about your bidding, buying and selling activities if you choose to participate on our site as a result of you engaging in these activities, and also from ratings and comments received from other users regarding you engaging in those activities.  We also collect information from any form of correspondence, such as emails and telephone conversations, from you or from a third party about you.  We may also collect information from you if you choose to partake in special promotions with third parties on our site. This information will be shared with that third party, but only with your consent and for the purpose of that promotion. 
 
-We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/help/TermsandConditions.html)_.  We do charge fees for selling, and your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.
+We will also collect financial information about you if you choose to bid for certain goods and services on our site, if you sell on our site, and also as set out in the _[Terms and Conditions of Use of this Site](https://web.archive.org/article/441/Terms_Conditions_of_This_Site)_.  We do charge fees for selling, and your payment information will be used to charge you accordingly.  We may pass your payment information onto recognised partners in certain cases, such as for charging you for selling and in those auctions where the services of shipping and delivery or fulfilment companies are offered to our users, but only in cases where our users have requested those services from us. Other information that we collect is outlined below.
 
 **Registration  **
 
@@ -56,13 +56,13 @@ We collect statistical information about you from page hits.  Every page, image
 
 **Sharing**  
 
-If you successfully sell a product or successfully win an auction, or are the runner up in an auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/help/TermsandConditions.html)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
+If you successfully sell a product or successfully win an auction, or are the runner up in an auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that auction in accordance with the _[Terms and Conditions of Use of this Site](https://web.archive.org/article/441/Terms_Conditions_of_This_Site)_.  For example, if you bid on an auction and win the auction, your details will be passed onto the seller of that item for auction. Similarly, if you are selling an item on auction, your details will be passed onto the winning bidder of your auction. 
 
 We will share aggregated demographic information with our business partners and advertisers.   When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. 
 
 We will release information about you when required by law to do so.   Otherwise, we may release information about you, at our sole discretion, when we believe, that such release of information is reasonably necessary or appropriate to:
 
-(a) enforce or apply the _[Terms and Conditions of Use of this Site](https://web.archive.org/static/help/TermsandConditions.html)_ ; or
+(a) enforce or apply the _[Terms and Conditions of Use of this Site](https://web.archive.org/article/441/Terms_Conditions_of_This_Site)_ ; or
 
 (b) to protect the rights, property or safety of bidorbuy.com, our users or others.
 
@@ -120,9 +120,9 @@ If your personally identifiable information changes (such as your email address)
 
 If you no longer wish to receive our newsletter, information about products and services and special deals, surveys, or promotional materials from us or our partners you may opt-out of receiving these communications by following the unsubscribe instructions in the relevant email or by emailing us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-To update your registration information log onto our Members Area, or [click here](https://www.bidorbuy.co.za/jsp/UserRegistration.jsp?action=Modify). 
+To update your registration information log onto our Members Area, or [click here](https://web.archive.org/jsp/registration/UserRegistration.jsp?action=Modify). 
 
-To subscribe to our newsletter, [click here](https://web.archive.org/static/JoinMailing.html). 
+To subscribe to our newsletter, [click here](https://web.archive.org/jsp/registration/UserRegistration.jsp?action=Modify). 
 
 **Anti-Spam Policy**
 
@@ -144,4 +144,4 @@ If we change the way we use your Personally Identifiable Information we will not
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-[Terms & Conditions](https://web.archive.org/static/help/TermsandConditions.html) | [Billing Statement](https://web.archive.org/static/help/BillingStatement.html) | [Rating Rules](https://web.archive.org/static/help/RatingRules.html) | [Listing Policy](https://web.archive.org/static/help/ListingPolicy.html) | [Verified User Agreement](https://web.archive.org/static/help/VerifiedUserAgreement.html) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/static/help/affiliateTerms.html)
+[Terms & Conditions](https://web.archive.org/article/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/article/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/article/442/Billing_Statement) | [Rating Rules](https://web.archive.org/article/443/Rating_Rules) | [Listing Policy](https://web.archive.org/article/444/bidorbuy_Listing_Policy) | [Verified User Agreement](https://web.archive.org/article/445/Verified_User_Agreement) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/article/447/bidorbuy_Affiliate_Terms_and_Conditions)
