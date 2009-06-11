@@ -1,17 +1,29 @@
-> *The following text is extracted and transformed from the rapnet.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820234007id_/http%3A//www.rapnet.com/PrivPol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapnet.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611145152id_/http%3A//rapnet.com/Info/PrivPol.aspx) for the most accurate reproduction.*
 
 # Diamonds.net - Privacy Policy
 
-  | 
+|   
+---  
+  
+  
+|    
+  
+---  
+|   
+---  
+  
 
-Last updated: January 9, 2005
+
+|    | 
+
+Last updated: January 9, 2005>
 
   1. Overview  
 1.1 The Diamonds.Net website offers free as well as subscriber/membership based services (“the Services”). In order to operate the Services and to be in compliance with the USA PATRIOT ACT, Rapaport USA Inc. (“Rapaport” or “we”) may ask you to provide us with company, personal, credit card and/or bank account details. This Privacy Policy describes the information we collect and how we use that information. 
 
 1.2 Rapaport takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Paragraph 3 below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the Diamonds.Net Web site, whether the services are offered by Rapaport, by its subsidiaries, or by its affiliates in the Rapaport Group.
 
-1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20080820234007id_/http%3A//www.rapnet.com/TOS.asp)
+1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20090611145152id_/http%3A//rapnet.com/Info/TOS.aspx)
 
 1.4 Please note that your personal information will be stored and processed on our computers in the United States , in accordance with United States laws. Rapaport will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the Services.
 
@@ -32,29 +44,29 @@ Last updated: January 9, 2005
 2.2 Transaction Information   
 When you list a diamond for sale, purchase or sell a diamond, or use the Services in any way, we record information related to each transaction, including the amount of the transaction. We retain this information for each of your transactions through Diamonds.Net. We also collect the Internet address (IP address) of the computer or device you use to access your Rapaport account, in order to help detect possible instances of unauthorized transactions.
 
-2.3 Information About You From Third Parties   
+2.3 Information About You From Third Parties    
 In order to protect us and our customers against potential fraud, we may verify with third parties the information you provide. In the course of such verification, we receive personally identifiable information about you from such services. This may include background and credit checks by obtaining information about you and your business from a credit bureau or a business information service such as Dun & Bradstreet. If you incur a debt to Rapaport, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, to the extent permitted by law. Rapaport, at its sole discretion, also reserves the right periodically to retrieve and review a business and / or consumer credit report for any account, and reserves the right to close an account based on information obtained during this credit review process.
 
-2.4 Additional Verification   
+2.4 Additional Verification    
 If we cannot verify the information that you provide we may ask you to send us additional information by fax (such as your drivers' license, credit card statement, and/or a recent utility bill or other information linking you to the applicable address), or to answer additional questions online to help verify your information.
 
-2.5 Web Site Traffic Information   
+2.5 Web Site Traffic Information    
 Because of the way that World Wide Web communication standards work, when you arrive at or leave the Diamonds.Net Web site, we automatically receive the Web address of the site that you came from or are going to. We also collect information on which pages of our Web site you visit while you are on the site, the type of browser you use and the times you access our Web site. We use this information only to try to understand our customers' preferences better and to manage the load on our servers, so as to improve our service and your experience with Rapaport. We do not track the Web sites that you visit before or after you leave the Rapaport site.
 
-2.6 Our Use of “Cookies”   
+2.6 Our Use of “Cookies”    
 Diamonds.Net uses cookies to enhance your browsing experience. Cookies are small pieces of information saved by your browser onto your computer. Cookies are used to remember various aspects of your visit. This information is used by Diamonds.Net to guarantee a consistent and uninterrupted experience. Cookies will allow you to revisit without losing many of your settings. We do not use cookies to save personal information for outside uses.
 
-2.7 Customer Service Correspondence   
+2.7 Customer Service Correspondence    
 If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from Rapaport to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our Terms of Service Agreement. We may, over time, delete these records if permitted by law.
 
-2.8 Questionnaires, Surveys and Profile Data   
+2.8 Questionnaires, Surveys and Profile Data    
 From time to time, we offer optional questionnaires and surveys to our users for such purposes as collecting demographic information or assessing users' interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personally identifiable information from our users in these questionnaires and surveys, the users will be given notice of how the information will be used prior to their participation in the survey or questionnaire. 
 
   3. Our Use and Disclosure of Information   
-3.1 Internal Uses   
+3.1 Internal Uses    
 We collect, store and process your personal information on servers located in the United States . We use the information we collect about you in order 1) to provide our services and process your transactions, 2) to provide customer service, 3) to determine your eligibility to receive special trading privileges or products and 4) to improve our products and services.
 
-3.2 Disclosure to Other Rapaport Customers   
+3.2 Disclosure to Other Rapaport Customers    
 If you are a registered RapNet or INDEX-Internet Diamond Exchange member, your name, Company name, telephone numbers and e-mail address in addition to the diamonds you are listing for sale may be displayed to other RapNet or INDEX-Internet Diamond Exchange members. However, your credit card number, bank account and other financial information will NEVER be revealed to anyone except with your express written permission or if we are required to do so pursuant to a subpoena or other legal process.
 
 3.3 Disclosure to Third Parties Other Than Rapaport Customers 
@@ -66,12 +78,12 @@ If you are a registered RapNet or INDEX-Internet Diamond Exchange member, your n
      iii. We share your information with our parent, subsidiaries, affiliates and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety.  
 
   
-3.4 Our Contacts with Rapaport Customers   
+3.4 Our Contacts with Rapaport Customers    
 We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone or letter. We use your e-mail to send information, transaction confirmations and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional. 
 
 We also use your e-mail address to send you other types of communications that you can control, including the Rapaport Tradewire weekly email. 
 
-3.5 Internet Address Information   
+3.5 Internet Address Information    
 We use IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use. 
 
 3.6 Your Use of Information and Our Services 
@@ -91,4 +103,16 @@ We use IP addresses, browser types and access times to analyze trends, administe
 4.3 Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, should be treated as unauthorized and suspicious and should be reported to Rapaport immediately. If you do share your Rapaport password with a third party for any reason, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please contact us immediately.
 
 
-
+  
+---|---  
+  
+  
+  
+  
+  
+|   
+---  
+© Copyright 1982-2009 by Martin Rapaport. All rights reserved. | [ Terms of Use](https://web.archive.org/Info/tos.aspx) | [ Privacy Policy](https://web.archive.org/Info/PrivPol.aspx) | [ Legal Notices](https://web.archive.org/Info/legal.aspx)   
+Index®, RapNet®, Rapaport®, PriceGrid™,[ Diamonds.Net™](http://www.diamonds.net/), and JNS®; are TradeMarks of Martin Rapaport.  
+While the information presented is from sources we believe reliable, we do not guarantee the accuracy  
+or validity of any information presented by Rapaport or the views expressed by users of our internet service. 
