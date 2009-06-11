@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120075718id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611183329id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
 
 # RSA - Privacy
 
