@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020939id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2009-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611042612id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -22,18 +22,24 @@
 <link rel="stylesheet" type="text/css" href="/css/all-ie.css" />
 <![endif]-->
 <script type="text/javascript" src="/sf/prototype/js/prototype.js"></script>
+<script type="text/javascript" src="/js/ZeroClipboard.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/msgbox.js"></script>
 <script type="text/javascript" src="/js/rico_corner.js"></script>
 <script type="text/javascript" src="/js/quicktags.js"></script>
+<script type="text/javascript" src="/js/tooltip.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/frontend.css">
 </head>
 
 <body>
 
-<div id="help-popup">
-</div>
+<div id="overlay"></div>
+<div id="help-popup"></div>
+<div id="video-popup"></div>
+<div id="dhtmltooltip"></div>
 
 <div id="header">
 
@@ -41,18 +47,18 @@
 <div id="header-menu">
 <div class="tl-corner"></div><div class="tr-corner"></div>
 <p>
-<a href="/deals">shopping</a> |
+<a href="/">home</a> |
+<a href="/deals">hot deals</a> |
 <a href="/discuss">discussion</a> |
 <a href="/contest/daily">contests</a> |
-<a href="http://www.buxr.com/blog">blog</a> |
-<a href="/login">sign in</a>&nbsp;&nbsp;
+<a rel="nofollow" href="/login">sign in</a>&nbsp;&nbsp;
 </p>
 </div> <!-- header-menu -->
 
 <div id="reminder-popup">
 <div class="reminder-message">
 <a id="close-reminder" href="#" onclick="close_reminder(); return false;"><img alt="Close" width="10px" height="10px" src="/images/yellow-close.gif"></a><p>
-<img alt="Tip" width="16px" height="16px" src="/images/lightbulb.png"><b>Tip:</b> Did you know it pays to <a href="/contest/friends/tip/1">Refer Friends</a> to Buxr? More details <a href="/info/contest/tip/1#refer-friend">here</a>.</p>
+<img alt="Tip" width="16px" height="16px" src="/images/lightbulb.png"><b>Tip:</b> Never miss a deal again with <a href="/user/alerts/tip/1">Deal Alerts</a>! More details <a href="http://www.buxr.com/blog/2008/09/29/introducing-deal-alerts-and-wish-lists/?tip=1">here</a>.</p>
 </div>
 </div><!-- reminder-popup -->
 
@@ -62,20 +68,48 @@
 function close_reminder()
 {
 	Element.hide('reminder-popup');
-	document.cookie = 'buxr-popup=aGlkZS0x; expires=Mon, 29 Dec 2008 21:05:56 -0500; path=/'
+	document.cookie = 'buxr-popup=aGlkZS0x; expires=Thu, 25 Jun 2009 00:15:58 -0400; path=/'
 }
 
 //]]>
 </script>
 
 <div id="header-ad">
-<table width="100%" cellspacing="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td align="left" id="logo-image">
+<td valign="middle" align="left" id="logo-image">
 <a href="/"><img alt="Buxr Shopping Deals" src="/images/buxr_logo.jpg" height="78" width="200"></a></td>
-<td align="right" id="header-image">
-<!-- p align="center">There are two ways to use Buxr, <u>shop &amp; save</u> and <u>share &amp; earn</u><br/>Discover what works best for you!</p -->
-<img alt="There are two ways to use Buxr, shop &amp; save and share &amp; earn. Discover what works best for you!" src="/images/buxr_banner.jpg" height="77" width="614"></td>
+<td valign="middle" align="middle" id="join-cell">
+
+<table width="100%" cellspacing="0" cellpadding="0" class="join-block">
+<tbody><tr>
+<td valign="middle">
+<img class="banner-icon" src="/images/piggybank-32x32.png" alt="Piggybank-32x32"></td>
+<td valign="middle">
+<div class="banner-title">Share hot deals!</div>
+<div class="banner-subtitle">84 posted today</div>
+</td>
+<td valign="middle">
+<img class="banner-icon" src="/images/users-32x32.png" alt="Users-32x32"></td>
+<td valign="middle">
+<div class="banner-title">Join discussions!</div>
+<div class="banner-subtitle">806 started this week</div>
+</td>
+<td valign="middle">
+<img class="banner-icon" src="/images/coinstack-32x32.png" alt="Coinstack-32x32"></td>
+<td valign="middle">
+<div class="banner-title">Earn cash prizes!</div>
+<div class="banner-subtitle">$1,550 awarded in June</div>
+</td>
+
+<td valign="middle" id="join-button">
+<a href="#" onclick="new Ajax.Updater('video-popup', '/info/video/file/intro_090311/title/Buxr+Video+Tour', {asynchronous:true, evalScripts:false, onComplete:function(request, json){displayfadeinbox('video-box', true, true);}});; return false;">Watch Video</a> or
+<br>
+<a rel="nofollow" href="/login"><img width="100" height="25" src="/images/get-started.gif" alt="Get-started"></a></td>
+</tr>
+</tbody></table>
+
+</td>
 </tr>
 </tbody></table>
 </div> <!-- header-ad -->
@@ -86,7 +120,6 @@ function close_reminder()
 <tbody><tr>
 
 
-
 <td>
 <div id="page-menu-selected" style="padding-top: 0px;"><div style="background-color: rgb(255, 255, 255);"><span style="background-color: rgb(39, 115, 101); display: block; height: 1px; overflow: hidden; font-size: 1px; border-color: rgb(147, 185, 178); border-style: solid; border-width: 0px 2px; margin-left: 3px; margin-right: 3px;"></span><span style="background-color: rgb(39, 115, 101); display: block; height: 1px; overflow: hidden; font-size: 1px; border-color: rgb(147, 185, 178); border-style: solid; border-width: 0px 1px; margin-left: 2px; margin-right: 2px;"></span><span style="background-color: rgb(39, 115, 101); display: block; height: 1px; overflow: hidden; font-size: 1px; border-color: rgb(147, 185, 178); border-style: solid; border-width: 0px 1px; margin-left: 1px; margin-right: 1px;"></span><span style="background-color: rgb(39, 115, 101); display: block; height: 2px; overflow: hidden; font-size: 1px; border-color: rgb(147, 185, 178); border-style: solid; border-width: 0px 1px; margin-left: 0px; margin-right: 0px;"></span></div>&nbsp;&nbsp;Legal&nbsp;&nbsp;</div>
 </td>
@@ -95,66 +128,6 @@ function close_reminder()
 </tr>
 </tbody></table>
 </div> <!-- header-tabs -->
-
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-shopping', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-merchants', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-newdeal', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-upcoming', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-activity', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-reported', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-report', {corners:"top"});
-
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-Rico.Corner.round('page-menu-widget', {corners:"top"});
-
-//]]>
-</script>
-
-
-
 
 
 
@@ -284,10 +257,11 @@ Privacy Policy Template changes</p>
 <div id="footer-menu">
 <p style="padding:4px 0 4px 0;margin:0">
 <a href="/about">about</a> |  
-<a href="/privacy">privacy policy</a> |  
 <a href="/generalterms">terms of service</a> |  
-<a href="/affiliate">affiliate</a> | 
+<a href="/privacy">privacy policy</a> |  
 <a href="/faq">faq</a> | 
+<a href="/user/login/url/configure">widget</a> |
+<a href="http://www.buxr.com/blog">blog</a> |
 <a href="/feedback">feedback</a>  |
 <a href="/rssfeed"><img style="position:relative;top:2px" src="/images/xml.gif" alt="Xml"></a>
 <br><strong>Buxr.com</strong> ™ 2006-2008.
@@ -305,6 +279,16 @@ urchinTracker();
 
 </div> <!-- footer -->
 
+
+
+
+<script type="text/javascript">
+function document_mouse_move(e){
+getMouseXY(e);	
+positiontip(e);
+}
+document.onmousemove=document_mouse_move;
+</script>
 
 
 </body></html>
