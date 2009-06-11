@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219100146id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611051603id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Cash,Free Prizes,Sweepstakes,Lotteries,Free Stuff,Win Cash and Prizes
 
