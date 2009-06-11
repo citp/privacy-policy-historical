@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104101220id_/http%3A//www.whynotad.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynotad.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611121732id_/http%3A//www.whynotad.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Whynotad Privacy Policy | Free Ads Advertising Classifieds Worldwide Wiki | www.whynotad.com
 
@@ -22,4 +22,13 @@ If there's anything about our privacy policy that you're unsure about or need us
 You should from time to time check back for any updates or changes to our terms and conditions.   
 
 
-We'll endeavour to keep our policies updated to make sure that they are as clear as possible.
+We'll endeavor to keep our policies updated to make sure that they are as clear as possible.
+
+Further Information
+
+We also use third-party advertising companies to serve ads when you visit our website. 
+
+These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies go to the Google Double Click Dart Site http://www.doubleclick.com/privacy/faq.aspx  
+
