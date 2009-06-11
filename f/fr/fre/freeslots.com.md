@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)  
-[Free Slots 1](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/slots-1.htm)  
-[Free Slots 2](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/slots-2.htm)  
-[Free Slots 3](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/slots-3.htm)  
-[Free Slots 4](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/slots-4.htm)  
-[Free Slots 5](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
-[Multi-Payline Slots](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
+[Free Slots 1](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/slots-1.htm)  
+[Free Slots 2](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/slots-2.htm)  
+[Free Slots 3](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/slots-3.htm)  
+[Free Slots 4](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/slots-4.htm)  
+[Free Slots 5](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
+[Multi-Payline Slots](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
 [Video Poker](http://www.freevideopoker.com/)  
-[Winners List](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/Winners.htm)  
-[FAQ](https://web.archive.org/web/20081217044122id_/http%3A//www.freeslots.com/FAQ.htm) |    
+[Winners List](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/Winners.htm)  
+[FAQ](https://web.archive.org/web/20090611154921id_/http%3A//www.freeslots.com/FAQ.htm) |    
 [Back to FreeSlots Home](http://www.freeslots.com/) **Privacy Policy**
 
 **General Information**  
