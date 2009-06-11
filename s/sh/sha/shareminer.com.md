@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareminer.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223061924id_/http%3A//www.shareminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareminer.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611123444id_/http%3A//www.shareminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ShareMiner.com
 
