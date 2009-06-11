@@ -1,14 +1,59 @@
-<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225183124id_/https%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2009-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611162631id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
+	
 
-<title>Jazz Community Site - Privacy Policy</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<script src="/_scripts/dojo/dojo.js"></script>
+<script src="/_scripts/util.js"></script>
+<script src="/_scripts/feeds.js"></script>
+<script src="/_scripts/views.js"></script>
+<link rel="stylesheet" type="text/css" href="/_scripts/dojo/resources/dojo.css">
+<link rel="stylesheet" type="text/css" href="/_scripts/dijit/themes/tundra/tundra.css">
 <link rel="stylesheet" type="text/css" href="/_css/shared.css">
 <link rel="stylesheet" type="text/css" href="/_css/layouts.css">
-<link rel="stylesheet" type="text/css" href="/_css/styles.css">
+<link rel="stylesheet" type="text/css" href="/_css/styles.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/_css/feeds.css">
+<link rel="stylesheet" type="text/css" href="/_css/views.css">
+<link rel="stylesheet" type="text/css" href="/_scripts/templates/NavBar.css">
+<link rel="stylesheet" type="text/css" href="/_css/print.css" media="print">
+<script type="text/javascript">
+		
+		// perform http/https redirect if needed
+		var href = location.href;
+		var path = location.pathname;
+		if (location.protocol == "https:") {
+			var paths = ["/library/", "/community/", "/blog"];
+			for (var i=0;i<paths.length;i++) {
+				if (path.indexOf(paths[i]) == 0) {
+					location.replace("http" + href.substring(5));
+				}
+			}
+		}
+		else if (location.protocol == "http:") {
+			var paths = ["/projects/", "/downloads/"];
+			for (var i=0;i<paths.length;i++) {
+				if (path.indexOf(paths[i]) == 0) {
+					location.replace("https" + href.substring(4));
+				}
+			}
+		}
+		
+	dojo.registerModulePath("jazz", "/_scripts");
+	dojo.registerModulePath("jazz.ui", "/_scripts");
+	dojo.registerModulePath("jazz.util", "/_scripts");
+	dojo.require("jazz.NavBar");
+	if (window.location.href.indexOf("debug=true") >= 0) {
+		var djConfig = {isDebug: true};
+		window.publicHostname = "jazz.net";
+	}
+</script>
+
+<title>Jazz Community Site - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="/_css/docs.css">
-<link rel="stylesheet" type="text/css" href="/pub/_css/styles.css">
 
 <style type="text/css">
 a {
@@ -39,49 +84,134 @@ a#development {
 
 
 <body>
-	<div id="shadows">
-		<div id="pageWrapper">
-			<div id="nonFooter">
-				<div class="access"><a href="#content">Skip to main content</a></div>
 
-<div id="jazzIdent">
-	<a href="/"><img id="jazz_logo" src="/_images/jazzTM.gif" alt="Jazz Logo"></a>
-</div>
-<div id="bannerContainer">
-	<div id="bannerMid">
-		<div id="bannerLeft"><img src="/_images/banner-left.gif" alt=""></div>
-		<div id="bannerRight">
-			<div id="bannerRightBg">
-				<div style="float:right">
-					<div id="right-title">
-						<span id="jazz-project-text">The Jazz Project</span>
-					</div>
-				</div>
-			</div>
+<div class="access"><a href="#content">Skip to main content</a></div>
+<div class="navbar">
+	<div id="navbar-left">
+		<div class="navbar-placeholder">
+			<a href="/" title="Home" alt="Home">Home</a>
+			<a href="/about/" title="About Jazz" alt="About Jazz">About Jazz</a>
+			<a href="/projects/" title="Projects" alt="Projects">Projects</a>
+			<a href="/downloads/" title="Downloads" alt="Downloads">Downloads</a>
+			<a href="/forums/" title="Forums" alt="Forums">Forums</a>
+			<a href="/library/" title="Library" alt="Library">Library</a>
+			<a hef="/community/" title="Community" alt="Community">Community</a>
 		</div>
-	</div>	
-	<div id="navbarMid">
-		<div id="navbarLeft">
-			<div id="globalNav">
-				<div id="header-links" class="header-links">
-					<a href="/pub/index.jsp" id="home">Home</a> <a href="/pub/community/community.jsp" id="community">Community</a> <a href="/index.jsp" id="development"><img src="/pub/_images/locked.gif" alt="Lock"> Login</a>&nbsp;
-				</div>
-			</div>
-		</div>
-		<div id="navbarRightBg">
-			<div id="navbarRight">				
-			</div>
-		</div>
-		<div class="clearBlock"></div>
-	</div>	
-</div>
+	</div>
+	<div class="navbar-right">
+	
+		<script type="text/javascript">
+	function checkEsc(event) {
+		event = event || window.event;
+		if (document.getElementById("login-float").style.display == "none") {
+			document.onkeypress = null;
+			return;
+		}
+		if(event.keyCode == 27) {
+			cancelLogin(event);
+		}
+	}
+	function showLogin (event) {
+		document.onkeypress = checkEsc;
+		document.getElementById("login-float").style.display = "block";
+		event = event || window.event;
+		if (event) {
+			if (event.preventDefault)
+				event.preventDefault();
+			else event.returnValue = false;		
+		}
+		document.forms[0].elements[0].focus();
+	}
+	function cancelLogin(event) {
+		var login = document.getElementById("login-float");
+		var form = document.forms[0];
+		if (login) {
+			login.style.display = "none";
+			form.elements[0].value = "";
+			form.elements[1].value = "";
+		}
+		if (form.className.indexOf("hide-error") < 0)
+			form.className += " hide-error";
+		document.onkeypress = null;
+		event = event || window.event;
+		if (event) {
+			if (event.preventDefault)
+				event.preventDefault();
+			else event.returnValue = false;		
+		}
+	}
+</script>
+<div class="login-section"><a href="/pub/user/register.jsp">Register</a> <span class="gray-line"> | </span> <a href="#" onclick="showLogin(event)">Log In</a></div>
+<div id="login-float" style="display: none;">
+	<div class="login-float-content">
+		<div class="dupe-login-link" style="text-align: right;"><a href="#" onclick="cancelLogin(event)">Log In</a></div>
+		
+			<form class="LoginForm" name="LoginForm" action="https://jazz.net/auth/login" method="post">
 
-				<div class="main-area">
-					<div class="central-area no-left">
-					<div style="margin-left: 10px; margin-right: 10px">
-						<div class="doc-tools"> <a href="/pub/privacy.htm"><img src="/_images/print.gif" alt=""> Printable
-							version</a> </div>
-						
+	<table>
+		<tbody><tr class="error-row" style="display: none;"><td colspan="2" class="error-cell">
+			
+		</td></tr>
+		<tr><td class="label-col">User ID:</td><td class="field-col"><input class="text-field" type="text" name="username"></td></tr>
+		<tr><td class="label-col">Password:</td><td class="field-col"><input class="text-field" type="password" name="password"></td></tr>
+		<!--tr><td></td><td><input class="checkbox" type="checkbox" name="rememberMe" id="checkbox-5123" /> <label class="checkbox-label" for="checkbox-5123">Keep me logged in</label></td></tr-->
+		<tr><td></td><td><input type="submit" value="Log In"><input class="login-cancel-button" type="button" value="Cancel" onclick="cancelLogin(event)"></td></tr>
+	</tbody></table>
+	<input type="hidden" name="redirectPage" value="https://web.archive.org/web/20090611162631id_/http%3A//jazz.net/pub/privacy.jsp">
+	<input type="hidden" name="field" value="header">
+	<script defer="" type="text/javascript">
+		var s = "?";
+		window.location.search.replace(
+			new RegExp("([^?=&]+)(=([^&]*))?", "g"),
+			function($0, $1, $2, $3) {
+				if ($1 != "errno") {
+					s = s + "&" + $1 + "=" + $3;
+				}
+			}
+		);
+		var href = window.location.href;
+		href = href.replace(/\?.*/, "");
+		
+		var forms = document.forms;
+		var first = true;
+		for (var i = 0; i < forms.length; i++) {
+			var form = forms[i];
+			if (form.name == "LoginForm") {
+				form.redirectPage.value = href + (s.length > 1 ? s : "");
+				if (first) {
+					form.field.value = "header"; 
+					first = false;
+				}
+			}
+		}
+	</script>
+</form>
+<p>Forgot your <a href="/pub/user/retrieve-userid.jsp">user ID</a> or <a href="/pub/user/password-reset-request.jsp">password</a>?</p>
+		
+		<script type="text/javascript">
+			
+		</script>
+	</div>
+</div>
+	
+	</div>
+</div>
+<div class="main-wrapper">
+	<div class="header-bar-short">
+		<div class="outer-wrapper">
+			<div class="inner-wrapper">
+				
+				<a href="/" title="Jazz.net Homepage"><img src="/_images/header/header-jazz.png" class="page-logo-web" alt="Jazz Community Site"><img src="/_images/header/header-jazz-BLK.png" alt="Jazz Community Site" class="page-logo-print"></a><span class="page-title-print">Jazz.net Homepage</span><a href="/" title="Jazz.net Homepage"><img class="page-title-web" src="/_images/header/header-comm-site.png" alt="Jazz.net Homepage"></a>
+			</div>
+		</div>
+	</div>
+	<div class="content-area">
+		<div class="content-wrapper">
+	<div class="central-area no-left">
+		<div style="margin-left: 10px; margin-right: 10px">
+			<div class="doc-tools"> <a href="/pub/privacy.htm"><img src="/_images/print.gif" alt=""> Printable
+				version</a> </div>
+			
 
 
 <h2 class="titleL1">Jazz.net Privacy Policy</h2>
@@ -236,12 +366,160 @@ This Web site is maintained by the International Business Machines Corporation o
 Please use the Back button on your browser or close this window to return to the page where you were.
 </p>
 
-					</div>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 
+
+
+
+		</div>
+	</div>
+	<div class="content-area-bottom"></div>
+	<div class="footer">
+		<div class="index">
+			<table>
+				<tbody><tr>
+			
+						
+						<td style="width: 100px">
+						
+							<strong><a href="/about/">About Jazz</a></strong>
+						 
+									<div><a href="/about/about-jazz-vision.jsp">Vision</a></div>
+								 
+									<div><a href="/about/about-jazz-architecture.jsp">Architecture</a></div>
+								 
+									<div><a href="/community/">Community</a></div>
+								 
+									<div><a href="/about/about-jazz-products.jsp">Products</a></div>
+								
+						</td>
+					
+						
+						<td>
+						
+							<strong><a href="/projects/">Projects</a></strong>
+						 
+									<div><a href="/projects/rational-focal-point-for-project-management/">Rational Focal Point for Project Management</a></div>
+								 
+									<div><a href="/projects/rational-quality-manager/">Rational Quality Manager</a></div>
+								 
+									<div><a href="/projects/rational-requirements-composer/">Rational Requirements Composer</a></div>
+								 
+									<div><a href="/projects/rational-team-concert/">Rational Team Concert</a></div>
+								 
+									<div><a href="/projects/collaborative-alm/">Collaborative ALM</a></div>
+								 
+									<div><a href="/projects/jazz-foundation/">Jazz Foundation</a></div>
+								
+						</td>
+					
+						
+						<td>
+						
+							<strong><a href="/downloads/">Downloads</a></strong>
+						 
+									<div><a href="/downloads/rational-quality-manager/">Rational Quality Manager</a></div>
+								 
+									<div><a href="/downloads/rational-requirements-composer/">Rational Requirements Composer</a></div>
+								 
+									<div><a href="/downloads/rational-team-concert/">Rational Team Concert</a></div>
+								 
+									<div><a href="/downloads/jazz-foundation/">Jazz Foundation</a></div>
+								
+						</td>
+					
+						
+						<td>
+						
+							<strong><a href="/forums/">Forums</a></strong>
+						 
+									<div><a href="/forums/viewforum.php?f=6">Announcements</a></div>
+								 
+									<div><a href="/forums/index.php?c=9">Rational Focal Point for Project Management</a></div>
+								 
+									<div><a href="/forums/index.php?c=6">Rational Quality Manager and Rational Test Lab Manager</a></div>
+								 
+									<div><a href="/forums/index.php?c=7">Rational Requirements Composer</a></div>
+								 
+									<div><a href="/forums/index.php?c=2">Rational Team Concert</a></div>
+								 
+									<div><a href="/forums/index.php?c=4">Jazz Foundation</a></div>
+								 
+									<div><a href="/forums/index.php?c=3">Other</a></div>
+								
+						</td>
+					
+						
+						<td>
+						
+							<strong><a href="/library/">Library</a></strong>
+						 
+									<div><a href="/library/">All Media</a></div>
+								 
+									<div><a href="/library/#type=article">Articles</a></div>
+								 
+									<div><a href="/library/#type=documentation">Documentation</a></div>
+								 
+									<div><a href="/library/#type=podcast">Podcasts</a></div>
+								 
+									<div><a href="/library/#type=presentation">Presentations</a></div>
+								 
+									<div><a href="/library/#type=technote">Tech notes</a></div>
+								 
+									<div><a href="/library/#type=video">Videos</a></div>
+								
+						</td>
+					
+						
+						<td>
+						
+							<strong><a href="/community/">Community</a></strong>
+						 
+									<div><a href="/blog/">Jazz Team Blog</a></div>
+								 
+									<div><a href="/community/twitter/">Tweets about Jazz</a></div>
+								 
+									<div><a href="/community/events/events.jsp">Events</a></div>
+								 
+									<div><a href="/community/announcements/announcements.jsp">Announcements</a></div>
+								 
+									<div><a href="/community/news/news.jsp">In the News</a></div>
+								 
+									<div><a href="/community/ensemble/index.jsp">Business Partners</a></div>
+								 
+									<div><a href="/community/academic/">Academic and Open Source Users</a></div>
+								 
+									<div><a href="/community/eguide/">Rational Support eGuide</a></div>
+								
+						</td>
+					
+				</tr>
+			</tbody></table>
+		</div>
+		<div class="logos-and-links">
+			<div class="logos">
+			
+				<a href="http://www.eclipse.org"><img src="/_images/footer/BuiltOnEclipse_Logo.png" alt="Built on Eclipse" style="margin-left: 5px"></a>
+			</div>
+			<a href="http://www.ibm.com"><img src="/_images/footer/ibm_logo_sm.gif" alt="IBM"></a><a href="http://www.ibm.com/software/rational/"><img alt="IBM Rational Software" src="/_images/footer/rtl_logo_sm.gif"></a><a href="/legal/contact.jsp">Contact</a> | <a href="/pub/privacy.jsp">Privacy Policy</a> | <a href="/pub/terms.jsp">Terms of Use</a>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	new jazz.NavBar({options: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><options>\n\t\n    <section>\n        <sectionLabel>About Jazz<\/sectionLabel>\n\t\t<sectionLink>\/about\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Vision<\/label>\n\t\t\t\t<href>\/about\/about-jazz-vision.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Architecture<\/label>\n\t\t\t\t<href>\/about\/about-jazz-architecture.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Community<\/label>\n\t\t\t\t<href>\/community\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Products<\/label>\n\t\t\t\t<href>\/about\/about-jazz-products.jsp<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n\t<\/section>\n\t\n    <section>\n        <sectionLabel>Projects<\/sectionLabel>\n\t\t<sectionLink>\/projects\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Rational Focal Point for Project Management<\/label>\n\t\t\t\t<href>\/projects\/rational-focal-point-for-project-management\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager<\/label>\n\t\t\t\t<href>\/projects\/rational-quality-manager\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/projects\/rational-requirements-composer\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/projects\/rational-team-concert\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>__separator__<\/label>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Collaborative ALM<\/label>\n\t\t\t\t<href>\/projects\/collaborative-alm\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/projects\/jazz-foundation\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n\t\n    <section>\n        <sectionLabel>Downloads<\/sectionLabel>\n\t\t<sectionLink>\/downloads\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager<\/label>\n\t\t\t\t<href>\/downloads\/rational-quality-manager\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/downloads\/rational-requirements-composer\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/downloads\/rational-team-concert\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>__separator__<\/label>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/downloads\/jazz-foundation\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n\t\n    <section>\n        <sectionLabel>Forums<\/sectionLabel>\n\t\t<sectionLink>\/forums\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Announcements<\/label>\n\t\t\t\t<href>\/forums\/viewforum.php?f=6<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Focal Point for Project Management<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=9<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager and Rational Test Lab Manager<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=6<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=7<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=2<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=4<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Other<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=3<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n\t<\/section>\n    <section>\n        <sectionLabel>Library<\/sectionLabel>\n\t\t<sectionLink>\/library\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>All Media<\/label>\n\t\t\t\t<href>\/library\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Articles<\/label>\n\t\t\t\t<href>\/library\/#type=article<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Documentation<\/label>\n\t\t\t\t<href>\/library\/#type=documentation<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Podcasts<\/label>\n\t\t\t\t<href>\/library\/#type=podcast<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Presentations<\/label>\n\t\t\t\t<href>\/library\/#type=presentation<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Tech notes<\/label>\n\t\t\t\t<href>\/library\/#type=technote<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Videos<\/label>\n\t\t\t\t<href>\/library\/#type=video<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n    <section>\n        <sectionLabel>Community<\/sectionLabel>\n\t\t<sectionLink>\/community\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Team Blog<\/label>\n\t\t\t\t<href>\/blog\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Tweets about Jazz<\/label>\n\t\t\t\t<href>\/community\/twitter\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Events<\/label>\n\t\t\t\t<href>\/community\/events\/events.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Announcements<\/label>\n\t\t\t\t<href>\/community\/announcements\/announcements.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>In the News<\/label>\n\t\t\t\t<href>\/community\/news\/news.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Business Partners<\/label>\n\t\t\t\t<href>\/community\/ensemble\/index.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Academic and Open Source Users<\/label>\n\t\t\t\t<href>\/community\/academic\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Support eGuide<\/label>\n\t\t\t\t<href>\/community\/eguide\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n<\/options>"}, dojo.byId("navbar-left"));	
+	dojo.addOnLoad( function(){
+		dojo.addClass(document.body,"tundra");
+	});
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.language = "JavaScript1.2";
+	script.src = window.location.protocol + "//www.ibm.com/common/stats/stats.js";
+	var head = document.getElementsByTagName("head")[0];
+	head.appendChild(script);
+</script>
+<script src="/_scripts/Search.js"></script>
+<noscript><img src="http://stats.surfaid.ihost.com/crc/images/uc.GIF?1.20&amp;ibmwm&amp;ibmwm&amp;noscript" height="1" width="1" alt="" border="0" /></noscript>
 
 </body></html>
