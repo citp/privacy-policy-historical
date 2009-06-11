@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090638id_/http%3A//www.usarugby.org/goto/membership_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611170947id_/http%3A//www.usarugby.org/goto/membership_privacy) for the most accurate reproduction.*
 
 # Membership Use of Information and Privacy Policy
 
