@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodgesmarine.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223040130id_/http%3A//www.hodgesmarine.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodgesmarine.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611075751id_/http%3A//www.hodgesmarine.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Hodges Marine Electronics - Marine FishFinders, GPS, VHF, Radars, and more!
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081223040130id_/http%3A//www.hodgesmarine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090611075751id_/http%3A//www.hodgesmarine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
