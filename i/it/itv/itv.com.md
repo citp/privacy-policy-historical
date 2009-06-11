@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095004id_/http%3A//www.itv.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611153921id_/http%3A//www.itv.com/Privacypolicy) for the most accurate reproduction.*
 
 # ITV Privacy policy
 
@@ -98,6 +98,6 @@ This privacy policy was last updated on 26th April 2007.
 
 **Contact details**
 
-You can email us with any questions, queries or complaints at [broadbandhelp@itv.com](mailto:broadbandhelp@itv.com)
+You can email us with any questions, queries or complaints at [itv.comsupport@itv.com](mailto:itv.comsupport@itv.com)
 
 ITV Consumer Limited, a company registered in England & Wales with registered office at 200 Gray's Inn Road, London WC1X 8HF. Company No. 2937518. VAT Registration: 197 0041 67. Data Protection Registration Number: Z7505566.
