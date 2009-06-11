@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161849id_/http%3A//www.creditsolutions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611050222id_/http%3A//www.creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Debt Consolidation and Credit Consolidation alternative with Credit Solutions
 
-  
-[](https://web.archive.org/benefits.html) |   | 
-
 ## Credit Solutions Privacy Policy
 
-At CreditSolutions.com, we are committed to your privacy. 
+At Credit Solutions, we are committed to your privacy. 
 
   * We will not sell, share, trade or rent any information given to us (this includes any and all information), except as disclosed in this privacy statement. 
   * We are committed to protect your privacy and your personal information - period. 
@@ -45,7 +42,7 @@ TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Two types of information may be collected when you visit any of our web sites, information that you knowingly provide us (called personally identifiable information), and information that is obtained from your visit but is not directly associated with you (called non-personally identifiable information).
 
-When you sign up to use one or more of our services, ask a question or purchase merchandise, we may specifically ask for information about you, including, but not limited to name, address, telephone number, e-mail address, birth date and/or payment information. This information is used to facilitate a phone call from one of our Credit Specialists to assist you in reducing your debt. In the normal course of using Credit Solutions's web sites we may collect information about your habits and usage of our sites. This non-personally identifiable information is collected without any direct association with you specifically.
+When you sign up to use one or more of our services, ask a question or purchase merchandise, we may specifically ask for information about you, including, but not limited to name, address, telephone number, e-mail address, birth date and/or payment information. This information is used to facilitate a phone call from one of our Credit Specialists to assist you in reducing your debt. In the normal course of using Credit Solutions's web sites we may collect information about your habits and usage of our sites. This non-personally identifiable information is collected without any direct association with you specifically.
 
 ## INFORMATION SHARING AND DISCLOSURE
 
@@ -69,15 +66,13 @@ We routinely use the non-personally identifiable information that we collect to 
 
 **Service Related Announcements** \- Credit Solutions may send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily unavailable for system maintenance, we might send you a email notice to keep you informed. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please contact customer care if you wish to do so. customercare@creditsolutions.com.
 
-**Newsletters & Promotions** \- Currently we do not send these types of emails.
-
 ## COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
 
 Sometimes Credit Solutions's web sites may contain links to various other sites not owned and operated by Credit Solutions. While we encourage other site developers to adopt privacy policies that build user's trust and confidence, we are not responsible for the privacy practices or the content of web sites either linked to our sites or to which we link. Visitors should consult the other sites' privacy policies, as we have no control over the information that is submitted to, or collected by, these third parties.
 
 ## CORRECTING AND EDITING YOUR INFORMATION
 
-If you would like to make changes to the information you submitted (i.e. email address change), you may contact the webmaster at cwray@creditsolutions.com or notify the Credit Specialist assisting you to make these changes. We do not store your information online for your access at this time. 
+If you would like to make changes to the information you submitted (i.e. email address change), you may contact the webmaster at customercare@creditsolutions.com or notify the Credit Specialist assisting you to make these changes. We do not store your information online for your access at this time. 
 
 ## USE OF COOKIES
 
@@ -98,16 +93,6 @@ We have put in place appropriate physical, electronic, and managerial procedures
 If you have questions about the privacy procedures employed at Credit Solutions, please contact:
 
 **Credit Solutions  
-15601 Dallas Parkway, Suite 700 . Richardson, Texas 75082  
+12700 Park Central Dr, 21st Floor, Dallas, TX 75251  
 Toll Free: (800) 353-7630 . Fax: (214) 853-5997 **  
-Policy Effective Date: January 26, 2006 
-
-|  [ ](https://web.archive.org/benefits.html)
-
-| Full Name:  
----  
-Phone Number:  
-Email Address:  
-Debt Level:  
-  
-[](http://herringevents.com/northamerica08/redherring100.html#finalist)
+Policy Effective Date: August 14, 2008 
