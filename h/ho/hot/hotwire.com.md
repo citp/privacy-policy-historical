@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229053603id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611063056id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Hotwire: Privacy Policy
 
@@ -181,7 +181,7 @@ For other issues, we can be reached in the following ways:
 
 **Email**
 
-Our customer care associates are available 24 hours a day, seven days a week. If you wish to [email us](https://www.hotwire.com/customer-care/contact.jsp), we respond to most customer emails within two hours or less. Depending on the nature of your inquiry and the time of day, our response may take a bit longer.
+Our customer care associates are available 24 hours a day, seven days a week. If you wish to [email us](https://www.hotwire.com/helpcenter/contact.jsp), we respond to most customer emails within two hours or less. Depending on the nature of your inquiry and the time of day, our response may take a bit longer.
 
 **Phone Toll-Free - within the U.S. and Canada  
 1-866-HOTWIRE (468-9473)**
@@ -192,6 +192,6 @@ Our customer care associates are available 24 hours a day, seven days a week. If
 **Mail**
 
 Hotwire Customer Care  
-333 Market Street, Suite 100  
-San Francisco, CA 94105  
+655 Montgomery Street #600  
+San Francisco, CA 94111  
 U.S.A 
