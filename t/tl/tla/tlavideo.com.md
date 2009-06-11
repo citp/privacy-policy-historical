@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tlavideo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/company/privacy_policy.cfm%3Fv%3D0%26sn%3D1%26g%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlavideo.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/company/privacy_policy.cfm%3Fv%3D0%26sn%3D3809%26g%3D0) for the most accurate reproduction.*
 
 # Privacy Policy - TLAvideo.com
 
-[](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/company/locations.cfm?v=0&sn=1&g=0)
+[](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/company/locations.cfm?v=0&sn=3809&g=0)
 
 | 
 
@@ -14,7 +14,7 @@ TLA believes it is your right to know what information we may collect from you a
 
 TLA Entertainment Group, Inc. (TLA) is the owner and operator of tlavideo.com. We collect information from our customers that allow us to serve you, our customer, more effectively.
 
-If you are a registered customer, you can change or modify your personal information at anytime by going to [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1). Log in with your email address and password, click "Account Information" and edit your personal information as you wish.
+If you are a registered customer, you can change or modify your personal information at anytime by going to [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809). Log in with your email address and password, click "Account Information" and edit your personal information as you wish.
 
 **1\. Personal information we collect**
 
@@ -24,7 +24,7 @@ _Purchase information_
 
 When you place an order with tlavideo.com, we collect your name, email address, phone number, billing and shipping addresses, credit card number, expiration date and identification code if applicable. This information is important in processing your order and verifying your billing address. It also allows us to ship your order and keep you informed regarding the status of your order. Billing information can be provided over the phone by calling our customer service department at 1.800.333.8521x1.
 
-If you are a registered customer of tlavideo.com, you can save your shipping address or billing information for one or more credit cards in [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1). You may change this information at anytime by clicking on [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1). Log in using your email address and password, then you may change any personal information that you like.
+If you are a registered customer of tlavideo.com, you can save your shipping address or billing information for one or more credit cards in [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809). You may change this information at anytime by clicking on [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809). Log in using your email address and password, then you may change any personal information that you like.
 
 _Cookies and other computer information_
 
@@ -67,9 +67,9 @@ Aside from the purposes described above, we will never share your personal infor
 
 **4\. How you can decide what marketing communication your receive from us**
 
-If you choose to receive them, tlavideo.com will periodically send you email messages describing new products, featured merchandise and special promotions and/or giveaways. You can choose to stop receiving these emails at any time. Simply go to [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1), log in, click "Email Preferences" and unclick any box currently checked in our email subscriber list.
+If you choose to receive them, tlavideo.com will periodically send you email messages describing new products, featured merchandise and special promotions and/or giveaways. You can choose to stop receiving these emails at any time. Simply go to [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809), log in, click "Email Preferences" and unclick any box currently checked in our email subscriber list.
 
-If you select not to receive any marketing emails as described above, we may occasionally send a general marketing email to our existing customers regarding TLA Entertainment. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information. If you would prefer to receive no email from TLA ever, simply go to [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1), log in, click "Email Preferences" and click the box requesting to be removed from all mailing lists. We may also need to contact you about a problem with an order you placed. If you don't want to be contacted via e-mail and would prefer phone contact, please call our customer service department at 800-333-8521 x1.
+If you select not to receive any marketing emails as described above, we may occasionally send a general marketing email to our existing customers regarding TLA Entertainment. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information. If you would prefer to receive no email from TLA ever, simply go to [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809), log in, click "Email Preferences" and click the box requesting to be removed from all mailing lists. We may also need to contact you about a problem with an order you placed. If you don't want to be contacted via e-mail and would prefer phone contact, please call our customer service department at 800-333-8521 x1.
 
 The only email you will receive from tlavideo.com if you are not subscribed to our email list will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to any customer service inquiries and to answer any other questions you might have about our site.
 
@@ -77,7 +77,7 @@ The only email you will receive from tlavideo.com if you are not subscribed to o
 
 The security of your personal information is as important to TLA as it is to you. TLA uses a technology called Secure Sockets Layer (SSL). TLA has obtained a digital certificate from [Thawte Technologies, Inc.](http://www.thawte.com/), a division of [Verisign, Inc.](http://www.verisign.com/) When you enter a secure section of the TLA site, an image of a closed lock or a solid key should appear in the bottom bar of your browser. If you click on this image, a small pop-up window displaying site-security information will appear. The digital certificate guarantees that your personal information is being transmitted to the secure and encrypted TLA Web server.
 
-Your personal information is protected by the password you created when you registered an account at TLA. It is your responsibility to keep this password confidential. You may change this password at anytime by going to [My User Account](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=1). Log in with your email address and password and then click "Account Information" and enter a new password.
+Your personal information is protected by the password you created when you registered an account at TLA. It is your responsibility to keep this password confidential. You may change this password at anytime by going to [My User Account](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/customer/login.cfm?c=-1&v=0&sn=3809). Log in with your email address and password and then click "Account Information" and enter a new password.
 
 **6\. Changes to the TLA Privacy Policy**
 
@@ -85,10 +85,10 @@ We reserve the right to change, modify or amend this privacy policy at any time.
 
 **7\. How to contact TLA**
 
-If you have a problem regarding an order, or want more information on a particular title, please see our [Help Desk/Tech Questions](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/support/index.cfm) page, or call us at 800-333-8521, ext. 1 (7 days a week, 8:30am - 12:00 midnight, ET).
+If you have a problem regarding an order, or want more information on a particular title, please see our [Help Desk/Tech Questions](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/support/index.cfm) page, or call us at 800-333-8521, ext. 1 (7 days a week, 8:30am - 12:00 midnight, ET).
 
 If you are experiencing technical problem with our site,  
-please see our [Help Desk/Tech Questions](https://web.archive.org/web/20081218035338id_/http%3A//www.tlavideo.com/support/index.cfm) page.
+please see our [Help Desk/Tech Questions](https://web.archive.org/web/20090612001349id_/http%3A//www.tlavideo.com/support/index.cfm) page.
 
 To reach our corporate office:
 
