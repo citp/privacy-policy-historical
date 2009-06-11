@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221150316id_/http%3A//www.benefitnews.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611053606id_/http%3A//www.benefitnews.com/global/bn-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Employee Benefit News
-
-## Privacy Policy
+# Privacy Policy
 
 This Privacy Policy covers BenefitNews' treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site.
 
