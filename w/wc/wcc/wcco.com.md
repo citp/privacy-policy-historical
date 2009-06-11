@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023901id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611142014id_/http%3A//wcco.com/privacy) for the most accurate reproduction.*
 
-# wcco.com - Privacy Policy
+# Privacy Policy - wcco.com
 
 **Effective Date** : September 8, 2008
 
