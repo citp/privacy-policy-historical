@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countdowntopregnancy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219162033id_/http%3A//www.countdowntopregnancy.com/support/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countdowntopregnancy.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611092346id_/http%3A//www.countdowntopregnancy.com/support/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Countdown to Pregnancy
 
