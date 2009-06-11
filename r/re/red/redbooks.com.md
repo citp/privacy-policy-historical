@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012416id_/http%3A//www.redbooks.com/Nonsub/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611043330id_/http%3A//www.redbooks.com/Nonsub/privacy.asp) for the most accurate reproduction.*
 
 # Red Books - Privacy
 
