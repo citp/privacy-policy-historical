@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044353id_/http%3A//www.essentialwholesale.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611124709id_/http%3A//www.essentialwholesale.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Natural Bulk Cosmetic Bases * Soap Making * Soapmaking Supplies * Essential Oils * Bulk Bases * Soap * Private Labeling * Contract Packaging * Soap Making Supplies
 
@@ -63,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081217044353id_/http%3A//www.essentialwholesale.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090611124709id_/http%3A//www.essentialwholesale.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
