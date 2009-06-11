@@ -1,445 +1,414 @@
-<!--The following is the downloaded HTML source of the cbsinteractive.com privacy policy that was archived on 2008-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224034411id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbsinteractive.com privacy policy that was archived on 2009-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611214349id_/http%3A//www.cbsinteractive.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>CBS Interactive - Privacy Policy</title>
-<meta name="description" content="CBS Interactive Privacy Policy."><meta name="keywords" content="CBS, CBS Interactive, Privacy Policy"><script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!--[if lte IE 6]>
+		<script type="text/javascript" language="javascript" src="js/pngfix.js"></script>
+	<![endif]-->
+	
+	<link rel="stylesheet" type="text/css" href="/_css/master.css">
+	
+				<link rel="stylesheet" type="text/css" href="/_css/master.css">
+			<link rel="stylesheet" type="text/css" href="/_css/sub.css">
+			
+			<!--[if  lte IE 6]>
+				<style type="text/css">
+				#content #photo_slideshow {
+					margin-right: 60px;
+				}
+				
+				#content #photo_container {
+					margin-right: 40px;
+				}
+				</style>
+			<![endif]-->
+			
+			<script type="text/javascript" language="javascript" src="/js/slideshow.js"></script>
+			
+			<!-- Function for Contacts Page -->
+			<script language="javascript" type="text/javascript">
+			//Function jumps to URL when dropdown value is selected
+			function load1(form) {
+     		var url = form.Llist_1.options[form.Llist_1.selectedIndex].value;
+     		if (url != '') location.href = url;
+     		return false;
+			}
+			</script>
+			
+			<!-- Function for Careers Page -->
+			<script type="text/javascript" langauge="javascript">
+			selected="culture";
 
-//addEvent function from http://www.quirksmode.org/blog/archives/2005/10/_and_the_winner_1.html
-function addEvent( obj, type, fn ) {
-	if (obj.addEventListener)
-		obj.addEventListener( type, fn, false );
-	else if (obj.attachEvent) {
-		obj["e"+type+fn] = fn;
-		obj[type+fn] = function() {
-			obj["e"+type+fn]( window.event );
-		}
-		obj.attachEvent( "on"+type, obj[type+fn] );
-	}
-}
+			function menu_over(obj){
+				document.getElementById('culture').className='culture_career_menu_off';
+				document.getElementById('learning').className='learning_career_menu_off';
+				document.getElementById('community').className='community_career_menu_off';
+				obj.className=obj.id + '_career_menu_over';
+				div_write(obj.id);
+			}
 
-function openInNewWindow() {
-	var links = document.getElementById('logos').getElementsByTagName('a');
-	var link;
-	for (var i = 0; i < links.length; i++) {
-		link = links[i];
-		link.setAttribute('target','_blank');
-	}
-}
+			function menu_out(obj){
+				document.getElementById('culture').className='culture_career_menu_off';
+				document.getElementById('learning').className='learning_career_menu_off';
+				document.getElementById('community').className='community_career_menu_off';
+				document.getElementById(selected).className= selected + '_career_menu_over';
+				div_write(selected);
+			}
 
-function footLinksNewWindow() {
-	var links = document.getElementById('footer-links').getElementsByTagName('a');
-	var link;
-	for (var i = 0; i < links.length; i++) {
-		link = links[i];
-		link.setAttribute('target','_blank');
-	}
-}
+			function menu_down(obj){
+				selected=obj.id;
+			}
 
-addEvent(window, 'load', openInNewWindow);
-addEvent(window, 'load', footLinksNewWindow);
-
-</script><style type="text/css" media="screen">
-
-/* start reset */
-
-/*
-Copyright (c) 2007, Yahoo! Inc. All rights reserved.
-Code licensed under the BSD License:
-http://developer.yahoo.net/yui/license.txt
-version: 2.2.0
-*/
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
-table{border-collapse:collapse;border-spacing:0;}
-fieldset,img{border:0;}
-address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
-ol,ul {list-style:none;}
-caption,th {text-align:left;}
-h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
-q:before,q:after{content:'';}
-abbr,acronym {border:0;}
-
-/* end reset */
-
-body {
-	background:#4C7184;
-	font:11px Arial, Helvetica, sans-serif;
-	}
-
-#wrapper {
-	background:url("http://images.sportsline.com/images/cbsdm/info/bg_wrapper.gif") 0 0 repeat-y;
-	width:985px;
-	border-right:1px solid #375A6D;
-	}
-
-#header {
-	background:#5FB7E5 url("http://images.sportsline.com/images/cbsdm/info/cbs_interactive_header.gif") 0 0 no-repeat;
-	position:relative;
-	top:0;
-	left:0;
-	height:93px;
-	}
-	
-	#header h1 {
-		font-size:30px;
-		font-weight:700;
-		text-indent:-9999px;
-		}
-	
-#logos {
-	position:absolute;
-	top:0;
-	left:445px;
-	margin-top:10px;
-	width:540px;
-	}
-	
-	#logos li {
-		float:left;
-		}
-		
-	#logos li {
-		width:140px;
-		height:27px;
-		}
-		
-	#logos li#logoCBS, #logos li#logoSB {
-		width:120px;
-		}
-	
-#menu, #content {
-	float:left;
-	}
-	
-#menu {
-	background:#DEE6E9;
-	width:183px;
-	border-right:1px solid #CBD4DB;
-	}
-	
-	#menu ul {
-		margin:2em 0;
-		}
-		
-	#menu ul li {
-		border-top:1px dashed #6E7377;
-		height:23px;
-		line-height:23px;
-		border-left:5px solid #0473AA;
-		}
-	
-	#menu ul li a {
-		padding-left:10px;
-		display:block;
-		color:#494949;
-		text-decoration:none;
-		height:23px;
-		}
-		
-	#menu ul li.last {
-		border-bottom:1px dashed #6E7377;
-		}
-		
-	#menu ul li a:hover, #menu ul li.accessed a:hover {
-		background:#edf3f6;
-		}
-		
-	#menu ul li.accessed {
-		background:#fff;
-		padding-left:10px;
-		}
-		
-#content {
-	background:#6d8f9f;
-	width:761px;
-	color:#fff;
-	padding:20px;
-	}
-	
-#footer {
-	background:#375A6D;
-	clear:both;
-	padding:5px 0;
-	}
-	
-#footer, #footer a {
-	color:#9AB6c4;
-	}
-	
-	#footer a:hover {
-		text-decoration:none;
-		}
-	
-	#footer * {
-		text-align:center;
-		font-size:10px;
-		}
-		
-	#footer ul {
-		margin-bottom:5px;
-		}
-	
-		#footer ul li {
-			display:inline;
-			padding-right:1em;
+			function div_write(id){
+    			document.getElementById('culture_content').style.display='none';
+    			document.getElementById('learning_content').style.display='none';
+    			document.getElementById('community_content').style.display='none';
+    			document.getElementById(id + "_content").style.display='block';
 			}
 			
-/* typography */
-
-#content p, #content ul, #content ol, #content dl, #content h2, #content h3, #content h4, #content h5, #content h6 {
-	margin-bottom:1em;
-	}
-	
-#content h2 {
-	font-size:14px;
-	font-weight:700;
-	text-transform:uppercase;
-	margin-bottom:0;
-	}
-	
-#content h3 {
-	font-weight:700;
-	font-size:11px;
-	}
-	
-#content h4 {
-	margin-top:3em;
-	font-size:11px;
-	font-weight:700;
-	float:left;
-	text-transform:uppercase;
-	}
-	
-#content h5 {
-	text-transform:uppercase;
-	clear:both;
-	}
-	
-#content a {
-	color:#fff;
-	}
-	
-#content li a {
-	font-weight:700;
-	}
-	
-#content li ul, #content li ol {
-	margin-bottom:0;
-	margin-left:10px;
-	}
-
-#content ul, #content ol {
-	margin-left:0.5em;
-	}
-
-#content ul {
-	list-style:disc;
-	}	
-	
-#content li {
-	margin-left:1em;
-	line-height:150%;
-	}
-	
-#content #toc, #content #toc * {
-	list-style:none;
-	}
-	
-#content #toc li {
-	line-height:145%;
-	}
-	
-#content li li a {
-	font-weight:normal;
-	}
-	
-#content a:hover {
-	text-decoration:none;
-	}
-	
-#content p {
-	clear:both;
-	}
-	
-#content p.returntop {
-	float:right;
-	margin-top:3em;
-	margin-right:5em;
-	clear:none;
-	}
-	
-#content #acceptuse {
-	list-style:lower-alpha;
-	}
-
-</style>
-</head>
-<body>
-	<div id="wrapper">
+			
+			//Function for Partner Form - Clear Text
+			function clearText(formobj) { 
+				formobj.value = "";
+				formobj.style.color = "#5c707c";
+				formobj.style.fontStyle = "normal";
+			}
+			
+			
+			//Function to Open Standard Ad Specs Page for Orange
+			function open_standard(){
+			var wh = "scrollbars=1,resizable=1,"+ "width=1000" + ",height=600";
+			var loc = "standard_ad_specs.php";
+			window.open( loc, "", wh);
+			}
+			
+			//Function to Open Standard Ad Specs Page for GEL
+			function open_standard_cne(){
+			var wh = "scrollbars=1,resizable=1,"+ "width=1000" + ",height=600";
+			var loc = "standard_ad_specs_cne.php";
+			window.open( loc, "", wh);
+			}
+			
+			//Function to Open Standard Ad Specs Page for Blue
+			function open_standard_blue(loc) {
+			var wh = "scrollbars=1,resizable=1,"+ "width=1000" + ",height=600";
+			window.open( loc, "", wh);
+			}
+			
+			</script>
+            <!-- Functions for Ad Gallery page -->
+            <script type="text/javascript" language="javascript">
+			function change_page(cat, sec){
+			
+				document.getElementById("gal_nav_allaccess").className = "gal_nav";
+				document.getElementById("gal_nav_allaccess_standard").className = "gal_nav_sub";
+				document.getElementById("gal_nav_allaccess_video").className = "gal_nav_sub";
+				document.getElementById("gal_nav_prestitial").className = "gal_nav";
+				document.getElementById("gal_nav_siteskins").className = "gal_nav";
+				document.getElementById("gal_nav_floating").className = "gal_nav";
+				document.getElementById("gal_nav_extendmpu").className = "gal_nav";
+				
+				var cat_id = "gal_nav_" + cat;
+				var sec_id = "gal_nav_" + cat + "_" + sec;
+				
+				document.getElementById(cat_id).className = "gal_nav_sel";
+				
+				if (cat == "allaccess"){
+					document.getElementById(sec_id).className = "gal_nav_sub_sel";
+					document.getElementById(cat_id).className = "gal_nav_sel";
+					document.getElementById("gallery_content_frame").src = cat + "_" + sec + ".php";
+				}
+				else if (sec != ''){
+					document.getElementById(sec_id).className = "gal_nav_sub_sel";
+					document.getElementById("gallery_content_frame").src = sec + "_" + cat + ".php";
+				}
+				else {
+					document.getElementById("gallery_content_frame").src =  cat + ".php";
+				}
+			}
+			
+			function open_ad_demo(url){
+				var wh = "width=" + screen.availWidth + ",height=" + screen.availHeight + ",top=0,left=0,location=yes,menubar=yes,toolbar=yes,status=yes,scrollbars=yes,resizable=yes" ;
+				window.open( url, "", wh);
+			
+			}
+			</script>
 		
-		<div id="header">
-			<h1>CBS Interactive</h1>
-			<ul id="logos">
-				<li id="logoCBS"><a href="http://www.cbs.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/cbs_logo.gif" alt="CBS.com"></a></li>
-				<li id="logoCBSNEWS"><a href="http://www.cbsnews.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/cbsnews_logo.gif" alt="CBSNEWS.com"></a></li>
-				<li id="logoSPLN"><a href="http://cbs.sportsline.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/cbs_sportsline_logo.gif" alt="CBS SportsLine.com"></a></li>
-				<li id="logoCBSG"><a href="http://www.cbsgames.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/cbs_games_logo.gif" alt="CBSGames.com"></a></li>
-				<li id="logoST"><a href="http://www.startrek.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/startrek_logo.gif" alt="StarTrek.com"></a></li>
-				<li id="logoINS"><a href="http://www.theinsider.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/insider_logo.gif" alt="The Insider"></a></li>
-				<li id="logoET"><a href="http://www.etonline.com" target="_blank"><img src="http://images.sportsline.com/images/cbsdm/info/et_logo.gif" alt="ET"></a></li>
-			</ul>
-		</div>
+	<title>CBS Interactive</title>
+    
+	</head>
+	
+	
+	<body id="body">
+	
+	  <div id="main">
+	     <div id="main_wrap">
+	   
+	      <div id="top">
+	         
+	         <div id="logo">
+	           <a href="/index.php"><h1>CBS Interactive</h1></a>
+	         </div>
+	         
+	      </div>
+	  
+	      
+	      <div id="mainnav">
+	         <ul>
+	           <li><a href="/company_info.php">Company Info</a></li>
+	           <li><a href="/our_brands.php">Our Brands</a></li>
+	           <li><a href="/advertise/">Advertise</a></li>
+	           <li><a href="/contacts.php">Contacts</a></li>
+	           <li><a href="/resources.php" class="selected">Resources</a></li>
+	         </ul>
+	      </div>          <div id="sidebar">
+	<!-- <h2>Headquarters</h2> -->
+		<p><strong>Headquarters</strong><br>	 
+		</p><p></p><address><strong>CBS Interactive, Inc.</strong><br>
+		235 Second Street<br>
+		San Francisco, CA 94105</address>
+		Main: 415-344-2000<p></p>
+	<br><br>	
+	<!-- <h2>Resources</h2> -->
+	<!-- <ul>
+		<li><a href="sitemap.php">Sitemap</a></li>
+    	<li><a href="http://www.cbscorporation.com/diversity/index.php" target="_blank">Diversity</a></li>
+    </ul> -->
+</div>
 
-		<div id="menu">
-	<ul>		<li class="last accessed">Privacy Policy</li>
-		<li><a href="/info/tou">Terms of Use</a></li>
-		<li><a href="/info/eula">Mobile User Agreement</a></li>
-		</ul>
-	</div>
+	      <div id="content">
+	         <div id="margin-right">
+	         <h1>Privacy Policy</h1>
+			 
+			 <p class="margin">
+			 	CBS Interactive takes pride in creating richer, deeper interactive experiences through editorial programming that combines original, independent and user-generated content. Across brands like CNET, GameSpot, BNET and CHOW, we build media experiences based on the things people love most. The company has a strong presence in the USA, Asia, and Europe.
+			</p>
+			<p class="margin">
+This privacy policy applies to the U.S. operations of all brands and services within the CBS Interactive family.
+			</p>
+			<p class="margin">
+<strong>Overall privacy statement</strong><br>
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
+			</p>
+			<p class="margin">
+<strong>1. What information does CBS Interactive collect?</strong><br>
 
-		
-		<div id="content">
-			<h2>CBS Interactive Privacy Policy</h2>
-<h3>Effective date: February 15, 2008 <br>Updated on:  March 28, 2008</h3>
-<p>This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.</p>
-<p>Please read this Privacy Policy carefully. In addition, please review our <a href="tos">Terms of Use</a>, which govern your use of the Web Sites.</p>
-<h3 id="toc-title">Table of Contents</h3>
-<ul id="toc">
-	<li><a href="#link1">Types Of Information That May Be Collected</a>
-		<ul>
-			<li><a href="#link1.1">Web Site Usage Information &amp; Device Identifiers </a></li>
-			<li><a href="#link1.2">Information You Provide Us</a></li>
-			<li><a href="#link1.3">Information From Other Sources</a></li>
-			<li><a href="#link1.4">Send To A Friend</a></li>
-		</ul>
-	</li>
-	<li><a href="#link2">How Information May Be Collected</a>
-		<ul>
-			<li><a href="#link2.1">Cookies</a></li>
-			<li><a href="#link2.2">Web Beacons</a></li>
-		</ul>
-	</li>
-	<li><a href="#link3">How We Use The Information Collected</a></li>
-	<li><a href="#link4">Third-Party Ad Serving &amp; Audience and Traffic Measurement Services</a></li>
-	<li><a href="#link5">With Whom Information May Be Shared</a>
-		<ul>
-			<li><a href="#link5.1">Third Parties Providing Services on Our Behalf</a></li>
-			<li><a href="#link5.2">Non-Personal Information</a></li>
-			<li><a href="#link5.3">When You Agree to Receive Offers From Third Parties</a></li>
-			<li><a href="#link5.4">Products &amp; Services Offered In Partnership With Third-Parties</a></li>
-			<li><a href="#link5.5">Sweepstakes, Contest &amp; Promotions</a></li>
-			<li><a href="#link5.6">Business Transfers</a></li>
-			<li><a href="#link5.7">Legal Protection and Law Enforcement</a></li>
-		</ul>
-	</li>
-	<li><a href="#link6">Correcting/Updating Personal Information</a></li>
-	<li><a href="#link7">Chat Rooms, Forums, And Message Boards</a></li>
-	<li><a href="#link8">Third Party Content and Links To Other Web Sites</a></li>
-	<li><a href="#link9">Consent To Transfer</a></li>
-	<li><a href="#link10">Security</a></li>
-	<li><a href="#link11">A Special Note For Parents Concerning Privacy</a></li>
-	<li><a href="#link12">Notification Of Changes And Your Acceptance Of The Privacy Policy</a></li>
-</ul>
-<h4 id="link1">TYPES OF INFORMATION THAT MAY BE COLLECTED</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The following are the types of information we may collect:</p>
-<h5 id="link1.1">Web Site Usage Information &amp; Device Identifiers</h5>
-<p>We may receive and store certain types of web site usage information whenever you visit or interact with the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. We also may collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide.  When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.</p>
-<h5 id="link1.2">Information You Provide Us</h5>
-<p>We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, cell phone number, and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for newsletters and other communications (e.g., whether by e-mail, mobile device, etc.), when you communicate or otherwise interact with us, when you submit information to us (whether or not the information is intended to be posted on the Web Sites), contests or sweepstakes, surveys or voting or when you purchase a product or service through the Web Sites.  You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Sites.  Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Sites' features.</p>
-<p>For your convenience, if you register with one of our Web Sites through which you create a user name and password, that user name and password may work on the other Web Sites where user names and passwords are utilized. The personal information you provide and any additional information we collect about you may be used by us and across all of the Web Sites.</p>
-<h5 id="link1.3">Information from Other Sources</h5>
-<p>We may receive information about you from other sources; for example, we may obtain geographic or  demographic information, or information regarding your possible interests, from third parties, or we may receive information from a marketing partner in connection with a co-branded web site or promotion.. We may combine the information we receive from those other sources with information we collect through the Web Sites. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information.</p>
-<h5 id="link1.4">Send To A Friend</h5>
-<p>If you send a friend a communication from the Web Sites, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent.</p>
-<h4 id="link2">HOW INFORMATION MAY BE COLLECTED</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<h5 id="link2.1">Cookies</h5>
-<p>The Web Sites use standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Sites and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Sites whenever you visit the Web Sites, and may make navigating and using the Web Sites easier for you. Also, by tracking how and when you use the Web Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Sites are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Sites. Cookies may also allow the Web Sites to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Sites. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Sites may not provide you with an acceptable user experience if you have disabled the use of cookies. </p>
-<h5 id="link2.2">Web Beacons</h5>
-<p>The Web Sites and any communications sent by the Web Sites may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following:</p>
-<ul>
-	<li>counting unique users (actually, unique web browsers), visits and page views.</li>
-	<li>monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.</li>
-	<li>personalizing your experience when you visit the Web Sites, including the advertising and content you see.</li>
-	<li>determining whether or not  messages were opened, links were clicked or notifications/offers were acted upon.</li>
-</ul>
-<h4 id="link3">HOW WE USE THE INFORMATION COLLECTED</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The information you provide to us may be used to:</p>
-<ul>
-	<li>Send you newsletters and/or other communications for which you have registered;</li>
-	<li>Contact you about the Web Sites, including, without limitation, in our discretion to notify you of changes to this Privacy Policy, the Web Site's Terms of Use, or other policies that affect your use of the Web Sites;</li>
-	<li>Confirm or fulfill an order you have made;</li>
-	<li>Provide special offers or promotional materials to you on behalf of us or third parties;</li>
-	<li>Contact you with regard to a sweepstakes, contest or promotion in which you have participated;</li>
-	<li>Authorize a purchase or complete a transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you;</li>
-	<li>Monitor or improve the Web Sites;</li>
-	<li>Administer the Web Sites' systems and for other internal business purposes;</li>
-	<li>Customize the advertising and content you see;</li>
-	<li>Comply with and monitor compliance with our Terms of Use and other applicable agreements and polices; and</li>
-	<li>For other purposes disclosed when you provide your information.</li>
-</ul>
-<p>Moreover, if you submit to Company and/or the Web Sites comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities.  Please also see "Information You Submit" in our <a href="http://www.cbsdigitalmedia.com/info/tou">Terms of Use</a>, which governs any content you submit through the Web Sites.</p>
-<p>Please note that information submitted to the Web Sites via a "contact us," or other similar mechanisims will not necessarily receive a response.  We will not use any such information you provide to contact you for marketing purposes unrelated to your request.</p>
-<h4 id="link4">THIRD-PARTY AD SERVING &amp; AUDIENCE AND TRAFFIC MEASUREMENT SERVICES</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The Web Sites may use third party network advertisers to serve advertisements on the Web Sites and may use a traffic measurement service to analyze traffic on the Web Sites.  Network advertisers are third parties that display advertisements based on your visits to the Web Sites and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Sites, the Web Sites' third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Sites, you may wish to visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use  </p>
-<h4 id="link5">WITH WHOM INFORMATION MAY BE SHARED</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>Except as otherwise disclosed at the time you provide your information, the following outlines the ways in which your information may be shared with others:</p>
-<h5 id="link5.1">Third parties providing services on our behalf</h5>
-<p>We employ third parties to perform functions on our behalf; examples include hosting or operating Web Sites, fulfilling orders for products and services purchased through the Web Sites, sending e-mailand/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Sites' behalf.</p>
-<h5 id="link5.2">Non-Personal Information</h5>
-<p>We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties.</p>
-<h5 id="link5.3">When You Agree To Receive Information From Third Parties</h5>
-<p>You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your personal information shared, your personal information will not be shared with such third party(s) for direct marketing purposes.  If you do agree to have your personal information shared, your personal information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.</p>
-<h5 id="link5.4">Products and Services Offered in Partnership with Third-Party(s)</h5>
-<p>Certain Web Sites are provided to you in partnership with third party(s) ("Co-Branded Sites") and may require you to disclose personal information in order to register for and access products and/or services.  Such Co-Branded Sites will identify the third party partner(s).  If you elect to register for such products and/or services at Co-Branded Sites you may be providing your information to both Company and the third party partner(s) and your information may be subject to a separate privacy policy available at the point of registration.  Further, if you sign-in to a Co-Branded Web Site with a user name and password obtained at one of our Web Sites, you are automatically registering with the Co-Branded Site and your personal information may be disclosed to the identified third party partner(s) for that Co-Branded Site and will be subject to the posted privacy policy(ies).</p>
-<h5 id="link5.5">Sweepstakes, Contests and Promotions</h5>
-<p>We may offer sweepstakes, contests, and other promotions through the Web Sites that may require registration. If you choose to enter a sweepstakes, contest or other promotion, your personal information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list.  Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion.</p>
-<h5 id="link5.6">Business Transfers</h5>
-<p>Company shares the information collected through the Web Sites with and among the Web Sites, and may share the information with its parent, subsidiaries and affiliates.  Company or any of it assets, including the Web Sites, may be sold, or other transactions may occur in which your personal information is one of the key business assets for the transaction. In such a case, your personal information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including personal information, in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our assets, or other corporate change.</p>
-<h5 id="link5.7">Legal Protections and Law Enforcement</h5>
-<p>We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; or to protect the legal rights, interests, or safety of the Web Sites, our users or others.  We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.</p>
-<h4 id="link6">CORRECTING/UPDATING PERSONAL INFORMATION</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The Web Sites may contain web pages through which you can change your subscriptions or correct or update the personal information you have provided to us through registration with one or more of the Web Sites.  With regard to subscriptions, you also may cancel (or modify if applicable) your subscriptions by following the instructions provided to you in applicable communications regarding such subscriptions.</p>
-<h4 id="link7">CHAT ROOMS, FORUMS, AND MESSAGE BOARDS</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The Web Sites may make chat rooms, forums and message boards available to its users. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when disclosing personal information in these areas.   Your use of chat rooms, forums and message boards is subject to our <a href="http://www.cbsdigitalmedia.com/info/tou">Terms of Use</a></p><a href="http://www.cbsdigitalmedia.com/info/tou">
-<h4 id="link8">THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES</h4>
-</a><p class="returntop"><a href="http://www.cbsdigitalmedia.com/info/tou"></a><a href="#toc-title">Return to Top</a></p>
-<p>When you are on the Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites' logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site's privacy policy before providing any personal information.</p>
-<h4 id="link9">CONSENT TO TRANSFER</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The Web Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Sites or providing us with your information, you consent to this transfer.</p>
-<h4 id="link10">SECURITY</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Sites, and you do so at your own risk.</p>
-<h4 id="link11">A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>The Web Sites are general audience web sites. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Sites and we will delete any information later determined to be from a user younger than thirteen (13).</p>
-<h4 id="link12">NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY</h4>
-<p class="returntop"><a href="#toc-title">Return to Top</a></p>
-<p>By using the Web Sites, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy.  However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.</p>
-		</div>
-		
-				<div id="footer">
-			<ul id="footer-links">	
-				<li><a href="http://www.cbs.com" target="_blank">CBS.com</a></li>
-				<li><a href="http://www.cbsnews.com" target="_blank">CBSNews.com</a></li>
-				<li><a href="http://cbs.sportsline.com" target="_blank">CBSSportsLine.com</a></li>
-				<li><a href="http://www.cbsgames.com" target="_blank">CBSGames.com</a></li>
-				<li><a href="http://www.startrek.com" target="_blank">STARTREK.com</a></li>
-				<li><a href="http://www.etonline.com" target="_blank">ETonline.com</a></li>
-				<li><a href="http://www.theinsider.com" target="_blank">theINSIDER.com</a></li>
-			</ul>
-			<p>© MMVII, CBS Interactive Inc. All Rights Reserved. CBS "eye device" is a registered trademark of CBS Broadcasting.com</p>
-		</div>
-	</div>
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
+			</p>
+			<p class="margin">
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
+			</p>
+			<p class="margin">
+Once you register with one of our CBS Interactive sites you are no longer anonymous to us.
+			</p>
+			<p class="margin">
+<strong>2. What is CBS Interactive's practice regarding cookies?</strong><br>
 
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+			</p>
+			<p class="margin">
+We also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
+			</p>
+			<p class="margin">
+We use cookies and tracking technologies in a variety of ways, including:
+			</p>
+			<ol>
+   				<li>Keeping count of return visits to our site or our advertisers' or partners' sites;</li>
+   				<li>Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;</li>
+   				<li>Determining which features our overall user population likes best;</li>
+   				<li>Saving your password so you don't have to re-enter it each time you visit our sites;</li>
+   				<li>Displaying the most appropriate advertising or content based on your interests. </li>
+			</ol>
+			<p class="margin">
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+			</p>
+			<p class="margin">
+Yahoo! is an ad network partner that displays ads on CNET.com. Yahoo! may use information regarding its own users to select which ads to display. <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html" target="_blank" title="Yahoo! Information">Click here</a> to learn more about the ad serving business practices and privacy policies of Yahoo!, including how to decline participation in use of ad serving in this manner on Yahoo!'s sites.
+			</p>
+			<p class="margin">
+<strong>3. How does CBS Interactive use the information?</strong><br>
 
+We use the information we gather for four general purposes:
+			</p>
+			<ol>
+   				<li>To customize the advertising and the content you see;</li>
+   				<li>To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;</li>
+   				<li>To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;</li>
+   				<li>To send you information you agreed to receive about topics we think will be of interest to you.</li>
+   				<li>How does CBS Interactive share the information? </li>
+			</ol>
+<h3>Personally identifiable information</h3>
+<p class="margin">
+We will make your personally identifiable information available to other companies or people when:
+</p>
+<ol>
+    <li>You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.</li>
+    <li>You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.</li>
+    <li>You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.</li>
+    <li>We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.</li>
+    <li>You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.</li>
+    <li>You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.</li>
+    <li>When required by law, such as when we respond to subpoenas, court orders, or legal process.</li>
+    <li>We believe that your actions violate applicable laws, CBS Interactive's Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. </li>
+</ol>
+<h3><em>Aggregate information</em></h3>
+<p class="margin">
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+</p>
+<h3><em>ChannelOnline data</em></h3>
+<p class="margin">
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties.
+</p>
+<h3><em>Business transfers</em></h3>
+<p class="margin">
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+</p>
+<p class="margin">
+<strong>5. What are my options?</strong><br>
 
-<!-- Page build info: SVGwCwq0G80AAH6XFIc 'ws1305.tm.cbsig.net' 32407 20081223 22:44:11 /spln/local/media/cache/full/cbsdm/1323/%2Finfo%2Fprivacy -->
-</body></html>
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
+</p>
+<p class="margin">
+We also give users the following options:
+</p>
+<ol>
+   <li>Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;</li>
+   <li>Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.</li>
+   <li>How can I review and update my personally identifiable information? </li>
+</ol>
+<p class="margin">
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
+</p>
+<p class="margin">
+<strong>BNET</strong><br>
+Free services registration http://www.bnet.com<br>
+E-mail newsletters http://nl.com.com/acct_login.jsp?brand=bnet
+</p>
+<p class="margin">
+<strong>CNET</strong><br>
+Account management: <a href="http://reviews.cnet.com/5270-4_92-0-1.html" target="_blank">http://reviews.cnet.com/5270-4_92-0-1.html</a><br>
+E-mail newsletters: <a href="http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa" target="_blank">http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa</a><br>
+CNET Download.com Account Management: <a href="http://www.download.com/1341-20_4-133.html" target="_blank">http://www.download.com/1341-20_4-133.html</a><br>
+CNET Download.com newsletters: <a href="http://nl.download.com/login.sc?brand=download" target="_blank">http://nl.download.com/login.sc?brand=download</a><br>
+CNET Download.com listings: <a href="http://upload.com.com/" target="_blank">http://upload.com.com/</a><br>
+CNET News.com Account Management: <a href="http://news.com.com/1340-52-34.html" target="_blank">http://news.com.com/1340-52-34.html</a><br>
+CNET News.com newsletters: <a href="http://nl.com.com/acct_mgmt.sc?brand=news" target="_blank">http://nl.com.com/acct_mgmt.sc?brand=news</a><br>
+ChannelOnline: <a href="http://channelonline.com/us/" target="_blank">http://channelonline.com/us/</a>
+</p>
+<p class="margin">
+<strong>GameSpot</strong><br>
+Help Center: <a href="http://www.gamespot.com/misc/helpcenter.html" target="_blank">http://www.gamespot.com/misc/helpcenter.html</a><br>
+E-mail newsletters: <a href="http://nl.com.com/acct_login.jsp?brand=gamespot" target="_blank">http://nl.com.com/acct_login.jsp?brand=gamespot</a><br>
+Billing Management: <a href="https://secure.gamespot.com/rps/manage/editbilling.php" target="_blank">https://secure.gamespot.com/rps/manage/editbilling.php</a><br>
+GameSpot Total Access: <a href="https://secure.gamespot.com/rps/signup/totalaccess.php" target="_blank">https://secure.gamespot.com/rps/signup/totalaccess.php</a><br>
+GameSpot Plus: <a href="https://secure.gamespot.com/rps/signup/plus.php" target="_blank">https://secure.gamespot.com/rps/signup/plus.php</a><br>
+GameSpot Free Registration: <a href="https://secure.gamespot.com/rps/signup/free.php" target="_blank">https://secure.gamespot.com/rps/signup/free.php</a><br>
+</p>
+<!-- <p class="margin">
+<strong>MP3.com</strong><br />
+Email Newsletters: <a href="http://nl.com.com/acct_login.jsp?brand=mp3" target="_blank">http://nl.com.com/acct_login.jsp?brand=mp3</a><br />
+Free membership sign-up and services: <a href="http://www.mp3.com/signup/" target="_blank">http://www.mp3.com/signup/</a>
+</p> -->
+<p class="margin">
+<strong>mySimon</strong><br>
+Account management: <a href="http://www.mysimon.com/1340-7600-73.html" target="_blank">http://www.mysimon.com/1340-7600-73.html</a><br>
+E-mail newsletters: <a href="http://nl.com.com/acct_login.jsp?brand=mysimon" target="_blank">http://nl.com.com/acct_login.jsp?brand=mysimon</a>
+</p>
+<p class="margin">
+<strong>Release 1.0</strong><br>
+Contact Us: <a href="http://www.release1-0.com/general/contactus.cfm" target="_blank">http://www.release1-0.com/general/contactus.cfm</a>
+</p>
+<p class="margin">
+<strong>CNET Shopper.com</strong><br>
+E-mail newsletters: <a href="http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa" target="_blank">http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa</a>
+</p>
+<p class="margin">
+<strong>TechRepublic</strong><br>
+Account management: <a href="http://techrepublic.com.com/1341-22-20.html" target="_blank">http://techrepublic.com.com/1341-22-20.html</a><br>
+E-mail newsletters: <a href="http://www.techrepublic.com/techmail_promo.jhtml" target="_blank">http://www.techrepublic.com/techmail_promo.jhtml</a><br>
+Registration management: <a href="http://techrepublic.com.com/1320-4-55.html" target="_blank">http://techrepublic.com.com/1320-4-55.html</a>
+</p>
+<p class="margin">
+<strong>ZDNet</strong><br>
+Account management: <a href="http://zdnet.com.com/1340-10-7.html" target="_blank">http://zdnet.com.com/1340-10-7.html</a><br>
+E-mail newsletters: <a href="http://nl.com.com/acct_login.jsp?brand=zdnet" target="_blank">http://nl.com.com/acct_login.jsp?brand=zdnet</a><br>
+ZDNet Downloads users: <a href="http://downloads-zdnet.com.com/1320-20-4.html" target="_blank">http://downloads-zdnet.com.com/1320-20-4.html</a><br>
+Registration management: <a href="http://www.zdnet.com/members/" target="_blank">http://www.zdnet.com/members/</a><br>
+ITPapers users: <a href="http://www.itpapers.com/" target="_blank">http://www.itpapers.com/</a>
+</p>
+<p class="margin">
+<strong>7. How will I know if the privacy policy is changed?</strong><br>
+
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+</p>
+<p class="margin">
+<strong>8. Privacy of children</strong><br>
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+</p>
+<p class="margin">
+<strong>Questions, Comments</strong><br>
+
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+</p>
+<p class="margin">
+Effective date: August 22, 2008
+</p>
+          </div>
+          </div>
+          
+<div class="clear"></div>
+          <div id="footer">
+          	<div id="footer_nav">
+                <ul>
+                	<li class="first">Popular on CBS sites:</li>
+                	<li class="first"><a href="http://cnet.com/apple-iphone.html"><b>iPhone 3G</b></a></li>
+ 	               	<li><a href="http://fantasynews.cbssports.com/fantasyfootball"><b>Fantasy Football</b></a></li>
+					<li><a href="http://moneywatch.bnet.com/"><b>Moneywatch</b></a></li>
+               	 	<li><a href="http://download.cnet.com/Antivirus-Software/3150-2239_4-0.html"><b>Antivirus Software</b></a></li>
+               	 	<li><a href="http://www.chow.com/recipes"><b>Recipes</b></a></li>
+                	<li class="last"><a href="http://www.gamespot.com/pc/strategy/spore/index.html"><b>Spore</b></a></li>
+
+					<li class="first-clear"><a href="/index.php">Home</a></li>
+                    <li><a href="http://www.cbscorporation.com/news/index.php?division=6" target="_blank">Press</a></li>
+                    <li><a href="http://www.cbscorporation.com/investors/faq/index.php" target="_blank">Investor FAQs</a></li>
+                    <li><a href="/sitemap.php">Sitemap</a></li>
+                    <li class="first-clear">© 2009 CBS Interactive Inc. All rights reserved.</li>
+                    <li><a href="/privacy.php" ==""><strong>Privacy Policy</strong></a></li>
+                    <li><a href="/terms_of_use.php"><strong>Terms of Use</strong></a></li>
+            </ul></div>
+            <div id="footer_search">
+                 <form>
+<script language="javascript">
+document.write("<div><label for=\"cbsi_footer_menu\">Visit other CBS Interactive Sites</label><br /><select name=\"cbsi_footer_menu\" id=\"cbsi_footer_menu\"><option value=\"\">Select Site</option><option value=\"http://www.bnet.com\">BNET</option><option value=\"http://www.cbscares.com\">CBS Cares</option><option value=\"http://www.cbssports.com/cbscollegesports/\">CBS College Sports</option><option value=\"http://www.cbsradio.com/streaming/\">CBS Radio</option><option value=\"http://www.cbs.com\">CBS.com</option><option value=\"http://www.cbsnews.com\">CBSNews.com</option><option value=\"http://www.cbssports.com\">CBSSports.com</option><option value=\"http://www.chow.com\">CHOW</option><option value=\"http://www.cnet.com\">CNET</option><option value=\"http://www.cnetcontentsolutions.com\">CNET Content Solutions</option><option value=\"http://www.findarticles.com\">Find Articles</option><option value=\"http://www.gamespot.com\">GameSpot</option><option value=\"http://www.last.fm\">Last.fm</option><option value=\"http://www.maxpreps.com\">MaxPreps</option><option value=\"http://www.metacritic.com\">Metacritic.com</option><option value=\"http://moneywatch.bnet.com\">Moneywatch</option><option value=\"http://www.mp3.com\">MP3.com</option><option value=\"http://www.mysimon.com\">mySimon</option><option value=\"http://www.ncaa.com\">NCAA</option><option value=\"http://www.search.com\">Search.com</option><option value=\"http://www.shopper.com\">Shopper.com</option><option value=\"http://www.techrepublic.com\">TechRepublic</option><option value=\"http://www.theinsider.com\">The Insider</option><option value=\"http://www.tv.com\">TV.com</option><option value=\"http://www.urbanbaby.com\">UrbanBaby.com</option><option value=\"http://www.uwire.com\">UWIRE</option><option value=\"http://www.zdnet.com\">ZDNet</option></select> <input type=\"button\" id=\"submit\" value=\"Go\" onClick=\"window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;\" /></div>");
+</script><div><label for="cbsi_footer_menu">Visit other CBS Interactive Sites</label><br><select name="cbsi_footer_menu" id="cbsi_footer_menu"><option value="">Select Site</option><option value="http://www.bnet.com">BNET</option><option value="http://www.cbscares.com">CBS Cares</option><option value="http://www.cbssports.com/cbscollegesports/">CBS College Sports</option><option value="http://www.cbsradio.com/streaming/">CBS Radio</option><option value="http://www.cbs.com">CBS.com</option><option value="http://www.cbsnews.com">CBSNews.com</option><option value="http://www.cbssports.com">CBSSports.com</option><option value="http://www.chow.com">CHOW</option><option value="http://www.cnet.com">CNET</option><option value="http://www.cnetcontentsolutions.com">CNET Content Solutions</option><option value="http://www.findarticles.com">Find Articles</option><option value="http://www.gamespot.com">GameSpot</option><option value="http://www.last.fm">Last.fm</option><option value="http://www.maxpreps.com">MaxPreps</option><option value="http://www.metacritic.com">Metacritic.com</option><option value="http://moneywatch.bnet.com">Moneywatch</option><option value="http://www.mp3.com">MP3.com</option><option value="http://www.mysimon.com">mySimon</option><option value="http://www.ncaa.com">NCAA</option><option value="http://www.search.com">Search.com</option><option value="http://www.shopper.com">Shopper.com</option><option value="http://www.techrepublic.com">TechRepublic</option><option value="http://www.theinsider.com">The Insider</option><option value="http://www.tv.com">TV.com</option><option value="http://www.urbanbaby.com">UrbanBaby.com</option><option value="http://www.uwire.com">UWIRE</option><option value="http://www.zdnet.com">ZDNet</option></select> <input type="button" id="submit" value="Go" onclick="window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;"></div>
+</form>
+  <noscript>
+  <div>
+	<a href="http://www.bnet.com">BNET</a>  | <a href="http://www.cbscares.com">CBS Cares</a>  | <a href="http://www.cbssports.com/cbscollegesports/">CBS College Sports</a>  | <a href="http://www.cbsradio.com/streaming/">CBS Radio</a>  | <a href="http://www.cbs.com">CBS.com</a>  | <a href="http://www.cbsnews.com">CBSNews.com</a>  | <a href="http://www.cbssports.com">CBSSports.com</a>  | <a href="http://www.chow.com">CHOW</a>  | <a href="http://www.cnet.com">CNET</a>  | <a href="http://www.cnetcontentsolutions.com">CNET Content Solutions</a>  | <a href="http://www.findarticles.com">Find Articles</a>  | <a href="http://www.gamespot.com">GameSpot</a>  | <a href="http://www.last.fm">Last.fm</a>  | <a href="http://www.maxpreps.com">MaxPreps</a>  | <a href="http://www.metacritic.com">Metacritic.com</a>  | <a href="http://moneywatch.bnet.com">Moneywatch</a>  | <a href="http://www.mp3.com">MP3.com</a>  | <a href="http://www.mysimon.com">mySimon</a>  | <a href="http://www.ncaa.com">NCAA</a>  | <a href="http://www.search.com">Search.com</a>  | <a href="http://www.shopper.com">Shopper.com</a>  | <a href="http://www.techrepublic.com">TechRepublic</a>  | <a href="http://www.theinsider.com">The Insider</a>  | <a href="http://www.tv.com">TV.com</a>  | <a href="http://www.urbanbaby.com">UrbanBaby.com</a>  | <a href="http://www.uwire.com">UWIRE</a>  | <a href="http://www.zdnet.com">ZDNet</a> 
+  </div>
+  </noscript>
+            </div>
+            <div class="clear"></div>
+          </div>
+	  
+	    </div><!-- /main_wrap -->
+	  </div><!-- /main -->
+	  
+	  <script src="http://dw.com.com/js/dw.js"></script>
+	  <script>
+		DW.pageParams = {
+        siteid: '113',
+        ptid: '2001',
+        onid: '13336',
+        ctype: 'corpSitePaths',
+        cval: 'privacy'
+	    };
+	    DW.clear();
+	    DW.trackClicks();
+	  </script>
+	
+	
+	
+        </body></html>
