@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011208id_/http%3A//accessplace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611042813id_/http%3A//accessplace.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessPlace privacy policy, personal user data, third party sites, children and user consent
 
