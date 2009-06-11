@@ -1,57 +1,55 @@
-> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410173947id_/http%3A//www.availity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611145225id_/http%3A//www.availity.com/privacy-policy) for the most accurate reproduction.*
 
-# Availity Privacy Policy
+# Availity Privacy Policy | Availity
 
-  
- Privacy Policy  
+This is the privacy policy (the “Privacy Policy”) governing the collection and use of information gathered from you through availity.com (the “Site”). The Site is operated by Availity, LLC (“Availity”). By using our Site, including on behalf of the organization for which you are accessing the Site (the “Organization”), you are agreeing for yourself and your Organization to the terms of this Privacy Policy (and to the Site’s [Terms of Use](https://web.archive.org/terms-of-use/)) which is incorporated by reference. Please review both of these documents before you use the Site to be sure you agree with them and our information collection and use practices.
 
+  1. **Type of Information Collected and When It May Be Collected.**
 
-  
-Availity Web Privacy and Security Statement
+    1. **Your Information.** As you use the Site, we may gather information from you, including information by which you may be identified (“Personally Identifiable Information”). We may gather information from you if you voluntarily provide it through the Site, such as if you sign up to use Site services, including using an Organization-assigned user id, and if you e-mail us with information. Personally Identifiable Information we gather in these ways may include your name, e-mail address, address, telephone number, place of work, for example. We may also gather information from you and your use of the Site through use of Cookies, such as the nature of your use of the Site, your e-mail address, your password, and information about your computer. Cookies are forms of technology through which a computer or server stores information, including on your computer or server, about you or your computer when you visit the Site. The Cookies enable the system to recognize the person or their computer when they return to the Site. You may be able to set your browser to disable some or all Cookies or to notify you when a Cookie is set.
+    2. **Personal Health Information.** A key function of the Site is to provide a technical communication system through which health care providers (through users acting on their behalf) may send and receive queries and information about their patients and potential patients to and from insurance companies, laboratories, pharmacies, and similar recipients and sources. The information exchanged includes personal health information by which individuals and patients may be identified (“Personal Health Information”). In providing this system, for purposes of this Privacy Policy, Availity does not consider its action of handling, transmitting, and/or ferrying of requests, information and responses as Availity’s use or disclosure of such information, as Availity in such capacity is merely providing a service to its users and is serving as the carrier of the information. However, all such communications and Personal Health Information exchanged through the Site may be stored by us (or our service providers for us). By using this Site to send or receive any such Personal Health Information, you are acknowledging and confirming that you have secured any necessary permission to do so.
+  2. **How We Use and Disclose the Information.**
 
-Commitment to Confidentiality
+    1. We may use and disclose information we gather about you, including your Personally Identifiable Information: to operate the Site, to perform the functions and provide the goods and services you request, to improve, correct and maintain the Site, to facilitate and improve your experience on the Site, to contact you about the Site and new features and services available, and to provide the information to our service providers as needed in order for them to assist us with the operations of the Site, and as otherwise stated in this Privacy Policy.
+    2. With respect to communications including Personal Health Information exchanged through the Site’s services, these communications and the information may be stored by us or our service providers, on our behalf.
+    3. With respect to any information gathered through the Site, including Personally Identifiable Information and Personal Health Information, we may unless prohibited by law: (A) aggregate this information so that individuals may not reasonably be identified and, once de-identified in this way, may use it and disclose it to others for any purpose; and (B) share it with and transfer our rights in it to any successor entity to Availity, which entity would have the right to use and disclose the information as Availity did. In addition, unless prohibited by law, we may use and disclose this information, including Personally Identifiable Information and Personal Health Information: (W) if we believe that any law or regulation requires us to do so; (X) to respond to a subpoena or governmental request; (Y) as we deem advisable to protect our safety, rights, privacy or property, or that of others; and (Z) to enforce or respond to a possible violation of any law or regulation, this Privacy Policy or our Terms of Use.
+  3. **Updates and Corrections, Access.**
 
-Confidentiality is a top priority at Availity. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our policy owners, including the information received from this Web site.
+If you register to use Site services, or provide us with your Personally Identifiable Information, we ask that you keep information we maintain about you and your Organization on our systems, such as your name, e-mail address, and other contact information, complete and up to date. You may update and access this information by contacting us at www.availity.com.
 
-Personal Information
+  4. **No Direct Marketing.**
 
-At Availity we are very aware of the privacy concerns of our customers and others who visit the Availity Web site. In fact, we share your concerns and will not solicit personal information from you as you tour our site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license, or transmit that information outside of Availity for any reason, unless you authorize us to do so.
+We will not rent, sell or license your Personally Identifiable Information or Personal Health Information to others for their use in direct marketing to you.
 
-There are instances in which Availity might internally use the personal information you voluntarily submit. These instances include identifying and registering you for the Customer Service Center portion of our site. In addition, we may disclose your personal information (as described below) to our agents, affiliates and subsidiaries to enable them to perform certain functions for us. We may also use your Secret Prompt, Secret Response, and Birth Date to later identify you in case you forget or misplace your User ID/Password.
+  5. **Links to other sites and services.**
 
-"Personal" information is described as data that is unique to an individual, such as a name, address, telephone number, social security number, and date of birth (DOB). At times, we may request personal information from you through our sites in order to deliver requested materials to you, respond to your questions, or deliver a product or service and will use the information for such purposes.
+From time to time, this Site may contain links to other sites. These other sites are not governed by this Privacy Policy and we caution you to review and make sure you are comfortable with any such site’s privacy policy before using the site or providing any information to its operators.
 
-  
-What You Should Know
+  6. **User Locations.**
 
-The information contained on this Availity Web site is provided for general informational purposes, as a convenience to the customers of Availity subsidiaries and as a public service. The material is not a substitute for obtaining professional advice from a qualified person, firm, or corporation. Consult the appropriate professional advisor for more complete and up-to-the minute information. Availity is not engaged in rendering any legal, medical, or professional services by placing this general informational material on this Web site.
+This Site is intended to be used only by users located within the continental United States, Alaska and Hawaii.
 
-_In no circumstances will Availity be liable to any party for any direct, indirect, special, or other consequential damages arising out of any use of this web site, or any other hyper-linked web site. This includes, without limitation, any lost profits, business interruption, loss of programs or data on your equipment, or otherwise, even if Availity is expressly advised of the possibility or likelihood of such damages._
+  7. **Security.**
 
-Information may be changed or updated without notice. Therefore, information contained on our sites may be out of date at any given time. Availity may also make improvements and/or changes to the products and/or programs described on our sites at any time without notice.
+We will use reasonable security measures to protect the Site and information gathered from you through use of this Site, and at least those security measures required by law. However, we are not responsible for any breach of security or for the unauthorized use by others of your information.
 
-E-mail
+  8. **Other Sources of Information About You.**
 
-Should you send us your questions and comments via e-mail to any mail box provided on any of our affiliated Web sites, we will share your correspondence with our Customer Service representatives and those employees or agents most capable of addressing your questions and concerns. We will retain your communication until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it.
+This Privacy Policy governs only information gathered from you through this Site. It does not govern information gathered from you through other means.
 
-Please note that, unless we expressly advise you otherwise, the e-mail facilities on our Web site do not provide a means for completely secure and private communications between Availity and you, the User. Although every attempt will be made to keep your information confidential, from a technical standpoint, there is still a risk. For that reason, please do not use e-mail to communicate information to us that you consider to be confidential. If you wish, you may contact us instead via telephone at the Customer Service toll-free number. 
+  9. **Monitor Your Use.**
 
-Security Agreement
+Availity reserves the right to monitor your use of the Site at any time, without notice.
 
-During the period in which I (User) am provided with authorized access to information of Availity and its subsidiaries and affiliates of Availity, I agree to the following provisions:
+  10. **Updates to Privacy Policy.**
 
-**Availity Property (Includes all affiliates of Availity):**
+We reserve the right to change this Privacy Policy at any time in our discretion. We will post at the end of this policy a summary of any material changes, including any changes that give us broader rights to use or disclose your Personally Identifiable Information for marketing purposes, that we make in the Privacy Policy and the effective date of such change. We will send a notice to the most recent e-mail address that you have given to us (if you have provided us with one) and will post a notice on the Site for at least thirty days, providing a mechanism through which you may opt out of application of the revised Privacy Policy to your previously gathered Personally Identifiable Information. With this mechanism you will be given a time frame (often 30 days) to exercise this opt out option. If you continue to use the Site after the effective date of the change, the revised Privacy Policy will apply to any information we thereafter gather from you through the Site. If you do not opt out with respect to previously gathered Personally Identifiable Information through the mechanism and in the time frame provided, then that information, and any additional information gathered from you through the Site after the effective date of the change, will also be governed by the revised Privacy Policy.
 
-  
+  11. **Questions.**
 
-
-  1. Availity may deny access to its information systems to anyone at any time, with or without cause. 
-  2. Availity reserves the right to access, read, copy, delete, and disclose information on Availity systems and equipment. Availity reserves the right to inspect any and all files stored or transmitted to Availity equipment. 
-  3. User shall not use Availity's Internet facilities and computing resources in a manner which may violate the laws and regulations of the United States or any other nation, or the laws and regulations of any State, City, Province, or other jurisdiction in any fashion. 
-  4. User shall maintain in strictest confidence and shall not use or disclose any information of Availity or its managed and/or contracted entities, including, but not limited to, insured, plan, member, client, patient, enrollee, claim, or medical information or any information of Availity's mainframe or computing environment. 
-  5. The use of a Password created by User does not create a right of privacy to User. Passwords are designed to minimize unauthorized access. User shall keep Passwords, created to access Availity's Web site, strictly confidential. Passwords should be memorized and not shared with anyone at any time for any reason. If User's Password is accidentally revealed, User can generate a new Password at any time. 
-  6. Regarding confidential information made available to health care providers through this Web site, you may print a copy of any clinical information accessed thereby only if you are authorized by a physician or other health care provider to do so, and only for the purpose of providing medical treatment to the subject patient of such health record information. You may not reproduce or distribute any text or graphics of the Web Site to others, or copy the information on your own server, or link to this Web site, without prior written permission of Availity. 
-  7. If User becomes aware of or suspects fraudulent activity or any other activity that threatens the security of Availity's Information Systems, User must immediately report the activity to Availity. 
-  8. User acknowledges that he or she has read the Provider Agreement entered into between Availity and the Organization for which User is accessing Availity's Systems. User agrees to abide by all of the terms and conditions of such agreement. 
+If you have any questions about this Site and its operations, please [contact us](https://web.archive.org/about-availity/contact-us/).
 
 
+
+
+▲ Return To Top
