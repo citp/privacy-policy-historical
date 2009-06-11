@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230234618id_/http%3A//www.billtrust.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612012843id_/http%3A//billtrust.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Billtrust: We’re a billing company dedicated to simplifying the billing process
 
