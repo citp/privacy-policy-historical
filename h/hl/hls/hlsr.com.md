@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515150441id_/http%3A//www.hlsr.com/wn/wn_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlsr.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611063416id_/http%3A//www.hlsr.com/wn/wn_privacy.aspx) for the most accurate reproduction.*
 
 # Houston Livestock Show And Rodeo™ - Privacy Policy
 
-This Privacy Policy discloses the general privacy practices for the Houston Livestock Show and Rodeo™, Web Sites (collectively, the "Show"), including www.rodeohouston.com and www.hlsr.com. The Houston Livestock Show and Rodeo is committed to respecting your privacy rights when visiting any Show site page, such as this one. To protect your Personal Information, the Show has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
+This Privacy Policy discloses the general privacy practices for the Houston Livestock Show and Rodeo™; Customer, Donor, Exhibitor/Contestant and Member Lists; and Web Sites (collectively, the "Show"), including [www.rodeohouston.com](http://www.rodeohouston.com/) and [www.hlsr.com](http://www.hlsr.com/). The Houston Livestock Show and Rodeo is committed to respecting your privacy rights when visiting any Show site page, such as this one. To protect your Personal Information, the Show has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
 
 **  
 Information Collected**
