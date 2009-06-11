@@ -1,195 +1,143 @@
-> *The following text is extracted and transformed from the cbsinteractive.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224034411id_/http%3A//www.cbsinteractive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsinteractive.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611214349id_/http%3A//www.cbsinteractive.com/privacy.php) for the most accurate reproduction.*
 
-# CBS Interactive - Privacy Policy
+# CBS Interactive
 
-## CBS Interactive Privacy Policy
+CBS Interactive takes pride in creating richer, deeper interactive experiences through editorial programming that combines original, independent and user-generated content. Across brands like CNET, GameSpot, BNET and CHOW, we build media experiences based on the things people love most. The company has a strong presence in the USA, Asia, and Europe. 
 
-### Effective date: February 15, 2008   
-Updated on: March 28, 2008
+This privacy policy applies to the U.S. operations of all brands and services within the CBS Interactive family. 
 
-This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise) or controlled by CBS Interactive Inc. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
+**Overall privacy statement**  
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. 
 
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20081224034411id_/http%3A//www.cbsinteractive.com/info/tos), which govern your use of the Web Sites.
+**1\. What information does CBS Interactive collect?**  
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards. 
 
-### Table of Contents
+We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us. 
 
-  * Types Of Information That May Be Collected
-    * Web Site Usage Information & Device Identifiers 
-    * Information You Provide Us
-    * Information From Other Sources
-    * Send To A Friend
-  * How Information May Be Collected
-    * Cookies
-    * Web Beacons
-  * How We Use The Information Collected
-  * Third-Party Ad Serving & Audience and Traffic Measurement Services
-  * With Whom Information May Be Shared
-    * Third Parties Providing Services on Our Behalf
-    * Non-Personal Information
-    * When You Agree to Receive Offers From Third Parties
-    * Products & Services Offered In Partnership With Third-Parties
-    * Sweepstakes, Contest & Promotions
-    * Business Transfers
-    * Legal Protection and Law Enforcement
-  * Correcting/Updating Personal Information
-  * Chat Rooms, Forums, And Message Boards
-  * Third Party Content and Links To Other Web Sites
-  * Consent To Transfer
-  * Security
-  * A Special Note For Parents Concerning Privacy
-  * Notification Of Changes And Your Acceptance Of The Privacy Policy
+Once you register with one of our CBS Interactive sites you are no longer anonymous to us. 
 
+**2\. What is CBS Interactive's practice regarding cookies?**  
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. 
 
+We also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you. 
 
-#### TYPES OF INFORMATION THAT MAY BE COLLECTED
+We use cookies and tracking technologies in a variety of ways, including: 
 
-Return to Top
+  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
+  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
+  3. Determining which features our overall user population likes best;
+  4. Saving your password so you don't have to re-enter it each time you visit our sites;
+  5. Displaying the most appropriate advertising or content based on your interests. 
 
-The following are the types of information we may collect:
 
-##### Web Site Usage Information & Device Identifiers
 
-We may receive and store certain types of web site usage information whenever you visit or interact with the Web Sites. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, other similar information and your IP address. We also may collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Sites, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies. 
 
-##### Information You Provide Us
+Yahoo! is an ad network partner that displays ads on CNET.com. Yahoo! may use information regarding its own users to select which ads to display. [Click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html "Yahoo! Information") to learn more about the ad serving business practices and privacy policies of Yahoo!, including how to decline participation in use of ad serving in this manner on Yahoo!'s sites. 
 
-We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, cell phone number, and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for newsletters and other communications (e.g., whether by e-mail, mobile device, etc.), when you communicate or otherwise interact with us, when you submit information to us (whether or not the information is intended to be posted on the Web Sites), contests or sweepstakes, surveys or voting or when you purchase a product or service through the Web Sites. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Sites. Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Sites' features.
+**3\. How does CBS Interactive use the information?**  
+We use the information we gather for four general purposes: 
 
-For your convenience, if you register with one of our Web Sites through which you create a user name and password, that user name and password may work on the other Web Sites where user names and passwords are utilized. The personal information you provide and any additional information we collect about you may be used by us and across all of the Web Sites.
+  1. To customize the advertising and the content you see;
+  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
+  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
+  4. To send you information you agreed to receive about topics we think will be of interest to you.
+  5. How does CBS Interactive share the information? 
 
-##### Information from Other Sources
 
-We may receive information about you from other sources; for example, we may obtain geographic or demographic information, or information regarding your possible interests, from third parties, or we may receive information from a marketing partner in connection with a co-branded web site or promotion.. We may combine the information we receive from those other sources with information we collect through the Web Sites. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information.
 
-##### Send To A Friend
+### Personally identifiable information
 
-If you send a friend a communication from the Web Sites, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent.
+We will make your personally identifiable information available to other companies or people when: 
 
-#### HOW INFORMATION MAY BE COLLECTED
+  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
+  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
+  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+  4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
+  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.
+  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
+  7. When required by law, such as when we respond to subpoenas, court orders, or legal process.
+  8. We believe that your actions violate applicable laws, CBS Interactive's Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
 
-Return to Top
 
-##### Cookies
 
-The Web Sites use standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Sites and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Sites whenever you visit the Web Sites, and may make navigating and using the Web Sites easier for you. Also, by tracking how and when you use the Web Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Sites are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Sites. Cookies may also allow the Web Sites to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Sites. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Sites may not provide you with an acceptable user experience if you have disabled the use of cookies. 
+### _Aggregate information_
 
-##### Web Beacons
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. 
 
-The Web Sites and any communications sent by the Web Sites may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Sites, include, without limitation, the following:
+### _ChannelOnline data_
 
-  * counting unique users (actually, unique web browsers), visits and page views.
-  * monitoring traffic and conversion patterns through our various product and service offerings on the Web Sites. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages.
-  * personalizing your experience when you visit the Web Sites, including the advertising and content you see.
-  * determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties. 
 
+### _Business transfers_
 
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. 
 
-#### HOW WE USE THE INFORMATION COLLECTED
+**5\. What are my options?**  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. 
 
-Return to Top
+We also give users the following options: 
 
-The information you provide to us may be used to:
+  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
+  2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+  3. How can I review and update my personally identifiable information? 
 
-  * Send you newsletters and/or other communications for which you have registered;
-  * Contact you about the Web Sites, including, without limitation, in our discretion to notify you of changes to this Privacy Policy, the Web Site's Terms of Use, or other policies that affect your use of the Web Sites;
-  * Confirm or fulfill an order you have made;
-  * Provide special offers or promotional materials to you on behalf of us or third parties;
-  * Contact you with regard to a sweepstakes, contest or promotion in which you have participated;
-  * Authorize a purchase or complete a transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you;
-  * Monitor or improve the Web Sites;
-  * Administer the Web Sites' systems and for other internal business purposes;
-  * Customize the advertising and content you see;
-  * Comply with and monitor compliance with our Terms of Use and other applicable agreements and polices; and
-  * For other purposes disclosed when you provide your information.
 
 
+You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. 
 
-Moreover, if you submit to Company and/or the Web Sites comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](http://www.cbsdigitalmedia.com/info/tou), which governs any content you submit through the Web Sites.
+**BNET**  
+Free services registration http://www.bnet.com  
+E-mail newsletters http://nl.com.com/acct_login.jsp?brand=bnet 
 
-Please note that information submitted to the Web Sites via a "contact us," or other similar mechanisims will not necessarily receive a response. We will not use any such information you provide to contact you for marketing purposes unrelated to your request.
+**CNET**  
+Account management: <http://reviews.cnet.com/5270-4_92-0-1.html>  
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
+CNET Download.com Account Management: <http://www.download.com/1341-20_4-133.html>  
+CNET Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
+CNET Download.com listings: <http://upload.com.com/>  
+CNET News.com Account Management: <http://news.com.com/1340-52-34.html>  
+CNET News.com newsletters: <http://nl.com.com/acct_mgmt.sc?brand=news>  
+ChannelOnline: <http://channelonline.com/us/>
 
-#### THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
+**GameSpot**  
+Help Center: <http://www.gamespot.com/misc/helpcenter.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=gamespot>  
+Billing Management: <https://secure.gamespot.com/rps/manage/editbilling.php>  
+GameSpot Total Access: <https://secure.gamespot.com/rps/signup/totalaccess.php>  
+GameSpot Plus: <https://secure.gamespot.com/rps/signup/plus.php>  
+GameSpot Free Registration: <https://secure.gamespot.com/rps/signup/free.php>  
 
-Return to Top
 
-The Web Sites may use third party network advertisers to serve advertisements on the Web Sites and may use a traffic measurement service to analyze traffic on the Web Sites. Network advertisers are third parties that display advertisements based on your visits to the Web Sites and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Sites, the Web Sites' third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Sites, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use 
+**mySimon**  
+Account management: <http://www.mysimon.com/1340-7600-73.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=mysimon>
 
-#### WITH WHOM INFORMATION MAY BE SHARED
+**Release 1.0**  
+Contact Us: <http://www.release1-0.com/general/contactus.cfm>
 
-Return to Top
+**CNET Shopper.com**  
+E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
 
-Except as otherwise disclosed at the time you provide your information, the following outlines the ways in which your information may be shared with others:
+**TechRepublic**  
+Account management: <http://techrepublic.com.com/1341-22-20.html>  
+E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
+Registration management: <http://techrepublic.com.com/1320-4-55.html>
 
-##### Third parties providing services on our behalf
+**ZDNet**  
+Account management: <http://zdnet.com.com/1340-10-7.html>  
+E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=zdnet>  
+ZDNet Downloads users: <http://downloads-zdnet.com.com/1320-20-4.html>  
+Registration management: <http://www.zdnet.com/members/>  
+ITPapers users: <http://www.itpapers.com/>
 
-We employ third parties to perform functions on our behalf; examples include hosting or operating Web Sites, fulfilling orders for products and services purchased through the Web Sites, sending e-mailand/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Sites' behalf.
+**7\. How will I know if the privacy policy is changed?**  
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. 
 
-##### Non-Personal Information
+**8\. Privacy of children**  
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process. 
 
-We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties.
+**Questions, Comments**  
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information. 
 
-##### When You Agree To Receive Information From Third Parties
-
-You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your personal information shared, your personal information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your personal information shared, your personal information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
-
-##### Products and Services Offered in Partnership with Third-Party(s)
-
-Certain Web Sites are provided to you in partnership with third party(s) ("Co-Branded Sites") and may require you to disclose personal information in order to register for and access products and/or services. Such Co-Branded Sites will identify the third party partner(s). If you elect to register for such products and/or services at Co-Branded Sites you may be providing your information to both Company and the third party partner(s) and your information may be subject to a separate privacy policy available at the point of registration. Further, if you sign-in to a Co-Branded Web Site with a user name and password obtained at one of our Web Sites, you are automatically registering with the Co-Branded Site and your personal information may be disclosed to the identified third party partner(s) for that Co-Branded Site and will be subject to the posted privacy policy(ies).
-
-##### Sweepstakes, Contests and Promotions
-
-We may offer sweepstakes, contests, and other promotions through the Web Sites that may require registration. If you choose to enter a sweepstakes, contest or other promotion, your personal information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion.
-
-##### Business Transfers
-
-Company shares the information collected through the Web Sites with and among the Web Sites, and may share the information with its parent, subsidiaries and affiliates. Company or any of it assets, including the Web Sites, may be sold, or other transactions may occur in which your personal information is one of the key business assets for the transaction. In such a case, your personal information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including personal information, in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our assets, or other corporate change.
-
-##### Legal Protections and Law Enforcement
-
-We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Sites and applicable laws; or to protect the legal rights, interests, or safety of the Web Sites, our users or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
-
-#### CORRECTING/UPDATING PERSONAL INFORMATION
-
-Return to Top
-
-The Web Sites may contain web pages through which you can change your subscriptions or correct or update the personal information you have provided to us through registration with one or more of the Web Sites. With regard to subscriptions, you also may cancel (or modify if applicable) your subscriptions by following the instructions provided to you in applicable communications regarding such subscriptions.
-
-#### CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
-
-Return to Top
-
-The Web Sites may make chat rooms, forums and message boards available to its users. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when disclosing personal information in these areas. Your use of chat rooms, forums and message boards is subject to our [Terms of Use](http://www.cbsdigitalmedia.com/info/tou)
-
-[
-
-#### THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES
-
-](http://www.cbsdigitalmedia.com/info/tou)
-
-[](http://www.cbsdigitalmedia.com/info/tou)Return to Top
-
-When you are on the Web Sites you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Sites onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Sites' logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Sites, you should consult that web site's privacy policy before providing any personal information.
-
-#### CONSENT TO TRANSFER
-
-Return to Top
-
-The Web Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Sites or providing us with your information, you consent to this transfer.
-
-#### SECURITY
-
-Return to Top
-
-Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Sites, and you do so at your own risk.
-
-#### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
-
-Return to Top
-
-The Web Sites are general audience web sites. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Sites and we will delete any information later determined to be from a user younger than thirteen (13).
-
-#### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY
-
-Return to Top
-
-By using the Web Sites, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy. However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+Effective date: August 22, 2008 
