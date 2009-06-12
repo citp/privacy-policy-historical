@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121002648id_/http%3A//www.rainkingonline.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612211231id_/http%3A//rainkingonline.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # RainKing - Privacy Policy
 
@@ -18,7 +18,7 @@ Rain King collects personal contact information from users of our system during 
 
  _Uploaded Information_
 
-"). Rain King may need to access the Uploaded Information for the purpose of resolving a problem, addressing a support issue, or addressing a suspected violation of our [Terms of Use](https://web.archive.org/web/20081121002648id_/http%3A//www.rainkingonline.com/TermsOfUse.cfm). By providing Rain King with User Information and by placing Uploaded Information into our system, you are agreeing that we may store, process and review such information. We will, however, not sell or disclose User Information or Uploaded Information, unless required to do so by law. 
+"). Rain King may need to access the Uploaded Information for the purpose of resolving a problem, addressing a support issue, or addressing a suspected violation of our [Terms of Use](https://web.archive.org/web/20090612211231id_/http%3A//rainkingonline.com/TermsOfUse.cfm). By providing Rain King with User Information and by placing Uploaded Information into our system, you are agreeing that we may store, process and review such information. We will, however, not sell or disclose User Information or Uploaded Information, unless required to do so by law. 
 
 You may be a user that has been provided access to the Rain King site and database through your company license agreement. If that is the case, your employer may have asked us to set up the company account so that users may designate certain information to be shared with other employees of the same company. This is done by designating the information as "Public" in the system. The option to make such information "Public" should not be used if the information is not to be shared by other users within the users company. The company may also require that one or more users have global rights to access any and all information of every user that has access through the company. If you have questions or concerns regarding the rights of other individuals in your company to access your information, you should raise those concerns with the appropriate person at your company. 
 
