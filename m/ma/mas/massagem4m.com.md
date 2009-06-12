@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019220800id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612185801id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Massage M4M Privacy Policy
 
@@ -92,7 +92,7 @@ _General_
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20081019220800id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
+  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20090612185801id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
 
 MassageM4M Inc.  
 Customer Care - Privacy Policy Issues  
