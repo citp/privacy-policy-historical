@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top100arena.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225041255id_/http%3A//www.top100arena.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100arena.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612115010id_/http%3A//www.top100arena.com/privacy.asp) for the most accurate reproduction.*
 
 # Top 100 Game Sites - FAQ
 
