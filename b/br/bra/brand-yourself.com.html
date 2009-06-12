@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brand-yourself.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218213115id_/http%3A//www.brand-yourself.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brand-yourself.com privacy policy that was archived on 2009-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090612101744id_/http%3A//www.brand-yourself.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,75 +7,93 @@
 <meta name="description" content="Brand yourself for success with a professional web identity that builds your personal brand today!">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="all">
-<title>Brand-Yourself.com</title> 
-<link rel="stylesheet" type="text/css" href="http://www.brand-yourself.com/theme/styles.css"></head>
-<body>
-<div id="top_grad"></div>
-<div id="container">
-  <!-- Start container -->
-  
+<title>Brand-Yourself.com - Privacy - Personal Professional Students Websites</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<meta http-equiv="content-language" content="en">
+<link rel="stylesheet" type="text/css" href="/theme/global.css">
+<link rel="stylesheet" type="text/css" href="/theme/typography.css">
+<link rel="stylesheet" type="text/css" href="/theme/unique.css">
+<link rel="stylesheet" type="text/css" href="/theme/cluetip.css">
+<link rel="stylesheet" type="text/css" href="/theme/jquery.ui.css">
+<link rel="stylesheet" type="text/css" href="/theme/sidebar.css">
+
 <!--[if lt IE 7]>
-<link href="http://www.brand-yourself.com/theme/ie6.css" rel="stylesheet" type="text/css" />
-<script language="JavaScript">
-function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
-{
-   var arVersion = navigator.appVersion.split("MSIE")
-   var version = parseFloat(arVersion[1])
-   if ((version >= 5.5) && (document.body.filters)) 
-   {
-      for(var i=0; i<document.images.length; i++)
-      {
-         var img = document.images[i]
-         var imgName = img.src.toUpperCase()
-         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
-         {
-            var imgID = (img.id) ? "id='" + img.id + "' " : ""
-            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
-            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
-            var imgStyle = "display:inline-block;" + img.style.cssText 
-            if (img.align == "left") imgStyle = "float:left;" + imgStyle
-            if (img.align == "right") imgStyle = "float:right;" + imgStyle
-            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
-            var strNewHTML = "<span " + imgID + imgClass + imgTitle
-            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
-            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
-            img.outerHTML = strNewHTML
-            i = i-1
-         }
-      }
-   }    
-}
-window.attachEvent("onload", correctPNG);
-</script>
+<link href="/theme/ie6.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="/js/ie6.js"></script>
 <![endif]-->
-<div id="pageHeader">
-  <!-- Start page header -->
-  <a href="http://www.brand-yourself.com">
-    <img class="headerimg" align="left" src="http://www.brand-yourself.com/theme/images/bylogo_transparent.png" alt="Brand-Yourself.com">
-  </a>
-    <div style="float:right;position:relative;top:22px;right:50px;">
-    <a href="https://www.brand-yourself.com/members/login.php"><img src="/members/images/login.png" alt="login">&nbsp;&nbsp;Login</a>
+
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" type="text/javascript"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7/jquery-ui.min.js" type="text/javascript"></script>
+<script language="javascript" src="/js/by.js"></script>
+<script language="javascript">
+  BY.globals = {
+    siteRoot: 'http://www.brand-yourself.com/',
+    secureRoot: 'https://www.brand-yourself.com/',
+    uploadRoot: 'http://uploads.brand-yourself.com/',
+    staticRoot: 'http://static.brand-yourself.com/'
+  }
+</script>
+</head>
+<body>
+<div class="hide"><a href="#nav">Skip to navigation</a> | <a href="#content">Skip to content</a> | <a href="#foot">Skip to page information</a>
+<hr></div>
+<div class="container">
+  <div id="header">
+    <div class="headerNav">
+            <form id="frmHeaderLogin" action="https://www.brand-yourself.com/members/login/auth" onsubmit="BY.login.auth(this);return false;">
+        <img src="/theme/images/loading.gif" style="display:none;" id="imgHeaderLoadingLogin" alt="Loading...">
+        <input type="text" name="email" id="headerEmail">
+        <label for="headerEmail">E-mail</label>
+        <input type="password" name="password" id="headerPassword">
+        <label for="headerPassword">password</label>
+        <button type="submit" class="btnLoginHeader" id="btnLoginHeader">Log In</button>
+      </form>
+        </div>
+    <!-- /.headerNav -->
+    <h1 class="clearR logo"><a href="/"><img src="/theme/images/brandyourself-logo.gif" width="671" height="111" alt="Brand Yourself - Become Remarkable"></a></h1>
+    <div id="nav">
+      <ul>
+        <li class="home"><a href="/" title="Brand-Yourself Home">Home</a></li>
+        <li class="features"><a href="/features/" title="Personal Branding Tools Provided">Features</a></li>
+        <li class="yourCareer"><a href="/your-career/" title="Personal Branding and Your Career">Your Career</a></li>
+        <li class="yourBrand"><a href="/yourbrand/" title="How to build your personal brand">Your Brand</a></li>
+                <li class="startNow"><a href="https://www.brand-yourself.com/members/signup.php" title="Start Branding with Brand-Yourself.com">Start Now</a></li>
+                <li class="blog"><a href="http://blog.brand-yourself.com" title="Personal Branding Blog">Blog</a></li>
+      </ul>
+    </div>
+    <!-- /#nav -->
   </div>
-  </div>  <!-- End page header -->
-  <div id="navcontainer"><!-- Start Navigation -->
-    <ul>
-        <li><a href="http://www.brand-yourself.com/" rel="self">Home</a></li>
-        <li><a href="http://www.brand-yourself.com/tour/" rel="self">Tour</a></li>
-        <li><a href="https://www.brand-yourself.com/members/signup.php" rel="self">Signup</a></li>
-        <li><a href="http://www.brand-yourself.com/features/" rel="self">Features</a></li>
-        <li><a href="http://www.brand-yourself.com/yourbrand/" rel="self">Your Brand</a></li>
-        <li><a href="http://blog.brand-yourself.com/" rel="self">Blog</a></li>
-        <li><a href="http://www.brand-yourself.com/faq/" rel="self">FAQs</a></li>
-    </ul>
-</div><!-- End navigation --><div id="contentContainer">
-  <p>
-    <!-- Start main content wrapper -->
-  </p>
+  <!-- /#header -->
+  <hr class="hide">
+  <div id="contentheader">
+     
+         <h1>Privacy Principles</h1>
+
+  </div>
   <div id="content">
-    <p>
-      <!-- Start content -->
- </p><p><strong>Brand-Yourself.com  Privacy Principles</strong><br>
+    <div class="contentContainer">
+      <div class="rightCol"> <h3><img src="/theme/images/content-headers/featured-user.gif" width="103" height="14" alt="Featured User"></h3>
+
+<div class="featuredUserImg">
+  <img src="/theme/images/featured-user/featured-user.jpg" width="185" height="112" alt="User Name">
+
+  <h4>Erin McNulty</h4>
+</div>
+<!-- /.featuredUserImg -->
+
+<div class="featuredUserQuote">
+  <p>I can show employers exactly what makes me unique - and simplify their jobs by painting a complete picture of myself.</p>
+</div>
+<!-- /.featuredUserQuote -->
+
+<p><button class="btn" id="btnSeeIt" type="button">See It</button></p>
+<p>&nbsp;</p><br>
+<div align="right">
+<a href="http://blog.brand-yourself.com" title="Personal Branding Blog"><img src="/theme/images/by_blog_button.png" alt="Personal Branding Blog" width="190" height="46"></a>
+</div>
+<br><br>
+<div class="clearR"></div>	 </div>
+      <div class="leftCol">  <p><strong>Brand-Yourself.com  Privacy Principles</strong><br>
     <br>
     The goal of Brand-Yourself.com is to provide  individuals with the ability to post information concerning themselves. We will attempt to provide direction  concerning the type of media to be posted however we do not personally take  responsibility for any content that a user may post. Information that is posted must abide by the  Terms of Use. We will take reasonable measures to ensure that personal information is kept private. All information is posted  at the users risk.<br>
 <strong><br>
@@ -139,64 +157,52 @@ Brand-Yourself.com is about displaying  information to others through a website.
   <strong>Contacting  the Web Site</strong><br>
   <br>
     If you have any questions about this  privacy policy, please contact us at <a href="mailto:privacy@brand-yourself.com">privacy@brand-yourself.com</a>. </p>
+ </div>
+      <div class="clear"></div>
     </div>
-  <!-- End content -->
-</div>
-<!-- End main content wrapper -->
-<div id="sidebarContainer"><!-- Start Sidebar wrapper -->
-  <div id="sidebar"><!-- Start sidebar content -->
-    <p align="center">
-      <a href="https://www.brand-yourself.com/members/login.php" rel="self" title="Member Area">Login</a>
-      &nbsp;/&nbsp;      
-      <a href="https://www.brand-yourself.com/members/signup.php" rel="self">Signup</a>
-    </p>
-
-    <p style="text-align:center;">
-      <img src="http://www.brand-yourself.com/theme/images/verification_seal.png" border="0" alt="Official PayPal Seal">
-      <br>
-      
-        <img alt="Satisfaction Guaranteed" src="http://www.brand-yourself.com/theme/images/guarantee.png" width="133" height="119">
-      
-    </p>
-  </div><!-- End sidebar content -->
-</div><!-- End sidebar wrapper -->
-  <div class="clearer"></div>
-
-  <div id="footer">
-      <p align="left">
-          © 2008 Brand-Yourself.com <a href="http://www.brand-yourself.com/privacy/">Privacy Policy</a>
-          <a href="http://www.brand-yourself.com/contact/">Contact Us</a>
-          <a href="http://www.brand-yourself.com/about/">About Us</a>
-          <a href="http://www.brand-yourself.com/about/resources.php">Resources</a>
-      </p>
+    <!-- /.contentContainer -->
   </div>
-</div><!-- End container -->
-
-<div id="divLoader">
-  <img alt="loading" src="http://www.brand-yourself.com/theme/images/loading.gif">
-  <span id="message">Please wait while your request is processed...</span>
+  <!-- /#content -->
+  <hr class="hide">
+  <div id="footer">
+    <div class="footerContent">
+      <div class="footerContentLeft"> <a href="/"><img src="/theme/images/foot-logo.gif" width="62" height="95" alt="Brand Yourself - Home"></a> </div>
+      <!-- /.footerContentLeft -->
+      <div class="footDivider"></div>
+      <!-- /.footDivider -->
+      <div class="footerContentRight">
+        <form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" method="post">
+          <span class="emailUpdates">Receive Brand Yourself Updates</span>
+          <input type="text" name="ea" size="30" value="">
+          <button type="submit" name="go" id="emailUpdateBtn"></button>
+          <input type="hidden" name="m" value="1102026477477">
+          <input type="hidden" name="p" value="oi">
+        </form>
+        <p>All content © 2009 Brand Yourself  | <a href="/about/" title="About Brand-Yourself">About Us</a> | <a href="/resources/" title="Personal Branding Resources">Resources </a> | <a href="/terms/" title="">T.O.S.</a> | <a href="/privacy">Privacy Policy</a> | Email: info @ brand-yourself.com</p>
+      </div>
+      <!-- /.footerContentRight -->
+    </div>
+    <!-- /.footerContent -->
+    <div class="clearL"></div>
+  </div>
+  <!-- /#footer -->
 </div>
+<!-- /.container -->
+<div id="divAJAXLoading" class="alert default" style="display:none;"><img src="/theme/images/loading.gif"> Please wait...</div>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-558749-3");
-pageTracker._initData();
-pageTracker._trackPageview();
+  try {
+    var pageTracker = _gat._getTracker("UA-558749-3");
+    pageTracker._trackPageview();
+  }
+  catch(err) {}
 </script>
 
 
-<!-- End container -->
-	<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-558749-3");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 
+ 
 </body></html>
