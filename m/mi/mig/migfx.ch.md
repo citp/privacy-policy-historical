@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the migfx.ch privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031304id_/http%3A//www.migfx.ch/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migfx.ch privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612182738id_/http%3A//www.migfx.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # MIG Investments SA - Privacy Policy
 
@@ -14,4 +14,4 @@ Occasionally, in order to provide you with information on products and services 
 
 M I G Investments also reserves the right to disclose personal information to non-affiliated third parties for regulatory or reporting purposes as required by law, to protect our rights or property. 
 
-If you have any questions not covered in our Privacy Policy, please [contact us](http://www.migfx.ch/about-us/around-the-world/choose-your-region/) or [request a call back.](http://www.migfx.ch/pages/request-call-back/)
+If you have any questions not covered in our Privacy Policy, please [contact us](http://www.migfx.com/about-us/around-the-world/choose-your-region/) or [request a call back.](http://www.migfx.com/pages/request-call-back/)
