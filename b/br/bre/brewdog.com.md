@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905191410id_/http%3A//www.brewdog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612100620id_/http%3A//brewdog.com/privacy.php) for the most accurate reproduction.*
 
 # BrewDog | Website Privacy Policy
 
@@ -6,6 +6,7 @@ By registering or placing an order on this website, you consent to the collectio
 
 INFORMATION THAT WE COLLECT FROM YOU  
 When you visit, register or order products or services on www.brewdog.com you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information.  
+We do not store credit/debit card details or pass these on to 3rd party companies.  
 We may also collect information about your usage of our website as well as information about you from messages you post to the website and e-mails or letters you send to us.  
 To maintain customer service standards and to assist staff training, we may record and monitor incoming calls.
 
