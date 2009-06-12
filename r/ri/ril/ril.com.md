@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2008-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080728040337id_/http%3A//www.ril.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612144524id_/http%3A//www.ril.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Reliance Industries Limited.
 
