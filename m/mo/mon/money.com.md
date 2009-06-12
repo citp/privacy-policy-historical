@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223164233id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612232343id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
 
 # CNNMoney.com: Privacy Policy
 
-  
+|   
 Privacy Policy|   
 ---|---  
-For the privacy policy of MONEY, FORTUNE, BUSINESS 2.0, or FORTUNE Small Business magazine, operated by Time, Inc., please click the appropriate link:  
-• [MONEY](https://web.archive.org/web/20071223164233id_/http://money.cnn.com/services/privacy/index_moneymag.html)  
-• [FORTUNE](https://web.archive.org/web/20071223164233id_/http://money.cnn.com/services/privacy/index_fortune.html)  
-• [BUSINESS 2.0](https://web.archive.org/web/20071223164233id_/http://money.cnn.com/services/privacy/index_business2.html)  
-• [FORTUNE Small Business](https://web.archive.org/web/20071223164233id_/http://money.cnn.com/services/privacy/index_fsb.html)
+For the privacy policy of MONEY, FORTUNE, or FORTUNE Small Business magazine, operated by Time, Inc., please click the appropriate link:  
+• [MONEY](https://web.archive.org/web/20090612232343id_/http://money.cnn.com/services/privacy/index_moneymag.html)  
+• [FORTUNE](https://web.archive.org/web/20090612232343id_/http://money.cnn.com/services/privacy/index_fortune.html)  
+• [FORTUNE Small Business](https://web.archive.org/web/20090612232343id_/http://money.cnn.com/services/privacy/index_fsb.html)
 
 Thank you for visiting CNNMoney.com, a Turner Broadcasting System, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site.
 
@@ -65,6 +64,10 @@ The Turner sites covered by this Privacy Statement sometimes may offer content (
 
 Some of the sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](http://www.cnn.com/privacy/privacy.third.html).
 
+**CNNMoney.com Comment Policy**
+
+CNNMoney.com encourages you to add a comment to this discussion. You may not post any unlawful, threatening, defamatory, obscene, pornographic or other material that would violate the law. All comments should be relevant to the topic and remain respectful of other authors and commenters. You are solely responsible for your own comments, the consequences of posting those comments, and the consequences of any reliance by you on the comments of others. By submitting your comment, you hereby give CNNMoney.com the right, but not the obligation, to post, air, edit, exhibit, telecast, cablecast, webcast, re-use, publish, reproduce, use, license, print, distribute or otherwise use your comment(s) and accompanying personal identifying and other information you provide via all forms of media now known or hereafter devised, worldwide, in perpetuity. 
+
 **Our Commitment to Security**
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
@@ -93,4 +96,7 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-The Privacy Statement posted on this site was updated on or about July 16, 2007.
+The Privacy Statement posted on this site was updated on or about March 17, 2009.
+
+  
+
