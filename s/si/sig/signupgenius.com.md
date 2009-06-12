@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212022510id_/http%3A//www.signupgenius.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ To access the table of personal data collected and purposes for which they are u
 
 We do not collect or use personal data for any purpose other than that indicated in the table below. 
 
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20081212022510id_/http%3A//www.signupgenius.com/index.cfm?go=c.Help)
+If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help)
 
 **Children's Privacy** We do not knowingly collect personal data from children. 
 
@@ -102,7 +102,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 
 You can ask us, by: 
 
-  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20081212022510id_/http%3A//www.signupgenius.com/index.cfm?go=c.Help) ) 
+  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help) ) 
 
 
 
@@ -110,7 +110,7 @@ whether we are keeping personal data about you.
 
 Upon request, which you can indicate by: 
 
-  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20081212022510id_/http%3A//www.signupgenius.com/index.cfm?go=c.Help) ) 
+  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help) ) 
 
 
 
