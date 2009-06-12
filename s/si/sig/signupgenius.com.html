@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the signupgenius.com privacy policy that was archived on 2008-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081212022510id_/http%3A//www.signupgenius.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the signupgenius.com privacy policy that was archived on 2009-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -100,12 +100,10 @@ function preloadImages() {
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
 
-<div id="headercontainer" align="center">
-<table width="980" height="148" border="0" cellpadding="0" cellspacing="0">
+<div id="headercontainer" align="center" style="padding: 0px;"><table width="980" height="148" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td rowspan="3" width="252"><img src="/images/SignUpList_01.gif" width="209" height="148" alt="Sign Up Genius"><img src="/images/spacer.gif" width="43" height="1" alt="FREE online group sign ups"></td>
-		<td colspan="6"> 
-<script type="text/javascript"><!--
+		<td rowspan="3" width="252" nowrap=""><img src="/images/SignUpList_01.gif" width="209" height="148" alt="Sign Up Genius"><img src="/images/spacer.gif" width="43" height="1" alt="FREE online group sign ups"></td>
+		<td colspan="6"><script type="text/javascript"><!--
 google_ad_client = "pub-7330280187028472";
 /* 728x90 top banner */
 google_ad_slot = "2088698100";
@@ -114,8 +112,7 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</td>
+</script></td>
 	</tr>
 	<tr>
 		<td colspan="6"><img src="/images/spacer.gif" width="1" height="21" alt="free sign up lists"></td>
@@ -130,8 +127,7 @@ google_ad_height = 90;
 		<td width="221" align="right" class="lighttext"><a href="/index.cfm?go=c.Register" class="lightlink">New User?  REGISTER NOW</a><br><img src="/images/spacer.gif" height="5" width="1"></td>
 	</tr>
 	
-</tbody></table>
-</div>
+</tbody></table></div>
 <p></p>
 
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td width="650" class="main" valign="top">
@@ -1089,9 +1085,9 @@ other (describe)
 
 <td valign="top" width="300" class="main">
 
-<form name="Login" id="Login" action="/index.cfm?go=c.Login" method="post" onsubmit="return _CF_checkLogin(this)"><input name="successpage" id="successpage" type="hidden" value="c.MyAccount"> <input name="failpage" id="failpage" type="hidden" value="c.Home">
-<input type="hidden" name="ScreenWidth" value="2000">
-<input type="hidden" name="ScreenHeight" value="1200">
+<form name="Login" id="Login" action="/index.cfm?go=c.Login" method="post" onsubmit="return _CF_checkLogin(this)"> <input name="successpage" id="successpage" type="hidden" value="c.MyAccount"> <input name="failpage" id="failpage" type="hidden" value="c.Home">
+<input type="hidden" name="ScreenWidth" value="800">
+<input type="hidden" name="ScreenHeight" value="600">
 
 <img src="/images/tab-login.gif" width="300" height="27" border="0"><br>
 
@@ -1104,11 +1100,11 @@ other (describe)
 <table border="0" cellspacing="0" cellpadding="2">
 <tbody><tr>
 	<td class="smalltext">Email</td>
-	<td><input name="loginemail" type="text" maxlength="100" class="bodyText" id="email" size="15"></td>
+	<td><input name="loginemail" type="text" maxlength="100" class="main" id="email" size="15"></td>
 </tr>
 <tr>
 	<td class="smalltext">Password</td>
-	<td><input name="pword" type="password" maxlength="100" class="bodyText" id="pword" size="15"></td>
+	<td><input name="pword" type="password" maxlength="100" class="main" id="pword" size="15"></td>
 </tr>
 <tr>
 	<td class="smalltext" colspan="2"><input name="remember" type="checkbox" value="1"> Remember me on this computer</td>
@@ -1129,20 +1125,29 @@ other (describe)
 
 <script language="javascript">
 <!--
-function screenDimensionsGet() {
-if (self.screen.availWidth) {
-document.Login.ScreenWidth.text = screen.availWidth;
+var screenW = 2000, screenH = 1200;
+
+if (parseInt(navigator.appVersion)>3) {
+ screenW = screen.width;
+ screenH = screen.height;
 }
-if (self.screen.availHeight) {
-document.Login.ScreenHeight.text = screen.availHeight;
+else if (navigator.appName == "Netscape" 
+    && parseInt(navigator.appVersion)==3
+    && navigator.javaEnabled()
+   ) 
+{
+ var jToolkit = java.awt.Toolkit.getDefaultToolkit();
+ var jScreenSize = jToolkit.getScreenSize();
+ screenW = jScreenSize.width;
+ screenH = jScreenSize.height;
 }
-}
-screenDimensionsGet();
- // --> 
+
+document.Login.ScreenWidth.value = screenW;
+document.Login.ScreenHeight.value = screenH;
+// -->
 </script>
 
-<br>
-
+    <p class="main"></p> 
 <script type="text/javascript"><!--
 google_ad_client = "pub-7330280187028472";
 /* 300x250, medium square */
@@ -1168,6 +1173,8 @@ google_ad_height = 250;
 </span>
 </div>
 </div>
+
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
