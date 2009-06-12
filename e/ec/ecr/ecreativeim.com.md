@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225192949id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612140457id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
