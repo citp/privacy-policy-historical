@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612103625id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy/menu-id-138) for the most accurate reproduction.*
 
-# Healthyplace.com Privacy Statement and Policy
-
-  
-
-
-## HealthyPlace.com Privacy Statement
+# HealthyPlace.com Privacy Statement - HealthyPlace
 
 The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don’t want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you --- without your knowledge.
 
@@ -15,7 +10,7 @@ HealthyPlace.com’s policy on our wholly controlled and operated Internet sites
 
 HealthyPlace.com shares information about our users with advertisers, business partners, sponsors and other third parties. However, in most cases, we talk about our users in aggregate, not as individuals. For example, we will say HealthyPlace.com’s audience is x percent females and y percent males. This data is used to customize HealthyPlace.com content and advertising for our users.
 
-There are cases where HealthyPlace.com may ask you for personal information such as your name or address. We do this when you register for contests/promotions or services that require registration or subscription (for example, chat). HealthyPlace.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with HealthyPlace.com policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes. When we intend to use your personal information, we tell you up front. This way you can decide whether you want to give us the information or not. For example, we may want to post the names of contest winners on our site or send you materials via e-mail or regular mail at your request. In case you change your mind or some personal information may change (such as your marital status), we will endeavor to provide a way to correct, update or remove the personal data you give us.
+There are cases where HealthyPlace.com may ask you for personal information such as your name or address. We do this when you register for contests/promotions or services that require registration or subscription (for example, the HealthyPlace Support Network). HealthyPlace.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with HealthyPlace.com policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes. When we intend to use your personal information, we tell you up front. This way you can decide whether you want to give us the information or not. For example, we may want to post the names of contest winners on our site or send you materials via e-mail or regular mail at your request. In case you change your mind or some personal information may change (such as your marital status), we will endeavor to provide a way to correct, update or remove the personal data you give us.
 
 #### USE OF COOKIES
 
@@ -27,15 +22,18 @@ Most browsers are initially set up to accept cookies. You can reset your browser
 
 #### LINKS TO OTHER SITES
 
-Users should be aware that when you are on HealthyPlace.com, you could be directed to other sites that are beyond our control. There are links to other sites from HealthyPlace.com pages that take you outside our service. For example, if you "click" on a banner advertisement or an HealthyPlace.com search result, the "click" takes you off the HealthyPlace.com site. This includes links from some advertisers, site sponsors and partners that may use HealthyPlace.com’s logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. Always be aware of where you end up!
+Users should be aware that when you are on HealthyPlace.com, you could be directed to other sites that are beyond our control. There are links to other sites from HealthyPlace.com pages that take you outside our service. For example, if you "click" on a banner advertisement or a "referral link to another site", the "click" takes you off the HealthyPlace.com website. This includes links from some advertisers, site sponsors and partners that may use HealthyPlace.com’s logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. Always be aware of where you end up!
 
-Please keep in mind that whenever you give out personal information online \--- for example, via message boards or chat --- that information can be collected and used by people you don’t know. While HealthyPlace.com strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
+#### KEEPING YOUR PERSONAL INFORMATION PRIVATE  
+
+
+Please keep in mind that whenever you give out personal information online --- for example, via the HealthyPlace Support Network bulletin boards, blogs or chat --- that information can be collected and used by people you don’t know. While HealthyPlace.com strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. You should also know that if you post anything in the HealthyPlace Support Network, you can modify that content anytime by logging in and clicking the "edit" link for your post.
 
 HealthyPlace.com's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond HealthyPlace.com's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
 
 We reserve the right at our discretion to make changes to this policy at any time. Please check this page periodically for changes.
 
-02/01/01
+03/12/09
 
 * * *
 
@@ -49,9 +47,4 @@ This statement discloses the privacy practices for the HealthyPlace.com Web site
 
 Questions regarding this statement should be directed to the HealthyPlace.com site coordinator at [info@healthyplace.com](mailto:info@healthyplace.com)
 
-Read more [about us and our editorial policy](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/editorial_policy.asp), [advertising policy](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/advertising_policy.asp), [privacy policy](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/privacy.asp), [terms of use](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/terms.asp) and [disclaimer](https://web.archive.org/web/20081218161706id_/http%3A//healthyplace.com/Site/disclaimer.asp)
-
-top ~ [send this page to a friend](https://web.archive.org/cgi-bin/EMAILLINKScript/EMAILLINKScriptForm.asp)
-
-  
- 
+[about us](http://www.healthyplace.com/about-healthyplace/about-us/about-healthyplace/menu-id-92/) ~ [editorial policy](http://www.healthyplace.com/about-healthyplace/about-us/editorial-policy/menu-id-92/) ~ [privacy policy](http://www.healthyplace.com/about-healthyplace/about-us/privacy-policy/menu-id-92/) ~ [advertising policy](http://www.healthyplace.com/about-healthyplace/about-us/advertising-and-promotions-policy/menu-id-92/) ~ [terms of use](http://www.healthyplace.com/about-healthyplace/about-us/terms-and-conditions-of-use/menu-id-92/) ~ [disclaimer](http://www.healthyplace.com/about-healthyplace/about-us/copyright-and-disclaimer-notices/menu-id-92/)
