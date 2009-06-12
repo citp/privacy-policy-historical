@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webmonkey.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011828id_/http%3A//www.webmonkey.com/services/Privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webmonkey.com privacy policy that was archived on 2009-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090612080510id_/http%3A//www.webmonkey.com/services/Privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -118,7 +118,7 @@
             dart["sz728x90"] = {placement:"sz=728x90;", dartCall:"webmonkey.dart/services;kw=services;kw=Privacy_policy;", dcopt:"dcopt=ist;"};
             if (isSafari == 'false'){dartRequest("sz728x90");};
         //-->
-    </script><script type="text/javascript" src="https://web.archive.org/web/20080906011343/http://ad.doubleclick.net/adj/webmonkey.dart/services;kw=services;kw=Privacy_policy;dcopt=ist;sz=728x90;tile=1;ord=1583831805063336?"></script>
+    </script><script type="text/javascript" src="https://web.archive.org/web/20080906011343/http://ad.doubleclick.net/adj/webmonkey.dart/services;kw=services;kw=Privacy_policy;dcopt=ist;sz=728x90;tile=1;ord=1085980161692206?"></script>
 
  
             </span>
@@ -294,14 +294,79 @@
                 </div>
             </div>
             <div class="clearer"></div>
+
+
+<!-- Begin new OpenId Form -->
+			<div>
+                <form id="open_id_form" action="http://openid.webmonkey.com/openid/openid/login" method="post">
+                    <h5>Sign in with OpenID</h5>
+                    <input type="hidden" name="success_controller" value="login" id="success_controller">
+                    <input type="hidden" name="success_action" value="doLogin" id="success_action">
+                    <input type="hidden" name="error_controller" value="login" id="error_controller">
+                    <input type="hidden" name="error_action" value="error" id="error_action">
+                    <input type="hidden" name="openid_returnto" value="/web/20090612080510id_/http%253A//www.webmonkey.com/services/Privacy_policy" id="openid_returnto">
+                    <input type="text" size="30" value="" name="openid_url" id="openid_url" class="text openid_url">
+                    <!-- Using the same styles/markup structure as "Sign In" button above.. -->
+                    <a id="open_id_submit" class="button-large">
+                        <span class="button-large-left"></span>
+                        <span class="button-large-text">Sign In</span>
+                        <span class="button-large-right"></span>
+                    </a>
+                </form>
+            </div>
+            <script type="text/javascript" language="JavaScript 1.5">
+                function createReturnToCookie(name,value,days) {
+                    if (days) {
+                        var date = new Date();
+                        date.setTime(date.getTime()+(days*24*60*60*1000));
+                        var expires = "; expires="+date.toGMTString();
+                    }
+                    else var expires = "";
+                    document.cookie = name+"="+value+expires+"; domain=.webmonkey.com; path=/";
+                }
+				
+				var onSubmitOpenId = function() {
+					var openIdUserName = $('openid_url').value;
+                 	if (!openIdUserName) {
+                    	alert("Please enter a valid OpenId provider.");
+                    	    return false;
+                 		}
+               		var returnTo = escape(document.location.pathname);
+                    createReturnToCookie("openidReturnTo", returnTo);
+                    return true;
+				};
+
+                addLoadEvent(
+                    function(){
+                        $('open_id_submit').onclick = function() {
+                            if (onSubmitOpenId()) {
+                                $('open_id_form').submit();
+                            }
+                        };
+						$('open_id_form').onsubmit = onSubmitOpenId;
+                    }
+                );
+
+                addLoadEvent(
+                    function(){
+                        $('openid_returnto').value = escape(document.location.pathname);
+                    }
+                );
+            </script>
             <div id="loginModFooter">
                 <div class="sm_wired_logo"></div>
                 <div class="loginFooterTxt">Webmonkey is a property of Wired Digital.</div>
             </div>
             <div class="clearer"></div>
+
+
+
             <a id="closeLogin" href="javascript:void(0);"></a>
             <div id="login_status_icon" class="status_icon"><img src="/images/user/rotating_wrench.gif"><span>processing...</span></div>
         </div>
+<!-- End new OpenId form -->
+
+
 
         <div id="registerMod" class="yui-module yui-overlay" style="z-index: 32;">
             <div id="registernow">
@@ -574,7 +639,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
 </p><p><br>
 </p><p><b>Privacy Policy Coordinator<br> CondeNet<br> 1166 Avenue of the Americas, 15th Floor<br> New York, NY 10036</b>
 </p>
-<!-- Saved in parser cache with key webmonkey_mediawiki-mw_:pcache:idhash:3402-0!1!0!!en!2!edit=0 and timestamp 20081216011827 -->
+<!-- Saved in parser cache with key webmonkey_mediawiki-mw_:pcache:idhash:3402-0!1!0!!en!2!edit=0 and timestamp 20090612080509 -->
             </div>
 
             <div id="xrail">
@@ -613,7 +678,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
             dart["sz300x250"] = {placement:"sz=300x250;", dartCall:"webmonkey.dart/services;kw=services;kw=Privacy_policy;kw=top;", dcopt:""};
             if (isSafari == 'false'){dartRequest("sz300x250");};
         //-->
-    </script><script type="text/javascript" src="https://web.archive.org/web/20080906011343/http://ad.doubleclick.net/adj/webmonkey.dart/services;kw=services;kw=Privacy_policy;kw=top;sz=300x250;tile=2;ord=1583831805063336?"></script>
+    </script><script type="text/javascript" src="https://web.archive.org/web/20080906011343/http://ad.doubleclick.net/adj/webmonkey.dart/services;kw=services;kw=Privacy_policy;kw=top;sz=300x250;tile=2;ord=1085980161692206?"></script>
 
 
     </div>
@@ -705,40 +770,94 @@ If you have any concerns or questions about any aspect of this policy, please fe
 		</span>  
 	</div>
 	<div id="foot_row3" class="foot_row">
-		<span class="pad">
-			<strong>Visit Our Sister Sites:</strong>
-			<span class="link_row"><a href="http://www.concierge.com" target="_blank">Concierge</a> | <a href="http://www.epicurious.com" target="_blank">Epicurious</a> | <a href="http://men.style.com" target="_blank">Men.style.com</a> | <a href="http://www.style.com" target="_blank">Style.com</a> | <a href="http://www.flip.com" target="_blank">Flip.com</a> | <a href="http://www.wired.com" target="_blank">Wired.com</a> | <a href="http://www.lipstick.com" target="_blank">Lipstick.com</a> | <a href="http://www.nutritiondata.com" target="_blank">NutritionData</a> | <a href="http://www.ym.com" target="_blank">YM</a> | <a href="http://www.allure.com" target="_blank">Allure</a> | <a href="http://www.architecturaldigest.com" target="_blank">Architectural Digest</a><br><a href="http://www.brides.com/" target="_blank">Brides</a> | <a href="http://www.cookiemag.com/" target="_blank">Cookie</a> | <a href="http://www.portfolio.com/" target="_blank">Condé Nast Portfolio</a> | <a href="http://www.dominomag.com/" target="_blank">Domino</a> | <a href="http://www.glamour.com/" target="_blank">Glamour</a> |  <a href="http://www.luckymag.com/" target="_blank">Lucky</a> | <a href="http://www.self.com/" target="_blank">Self</a> | <a href="http://www.teenvogue.com/" target="_blank">Teen Vogue</a> | <a href="http://www.newyorker.com/" target="_blank">The New Yorker</a> | <a href="http://www.vanityfair.com/" target="_blank">Vanity Fair</a> | <a href="http://www.wmagazine.com" target="_blank">W</a></span>
-			<div id="suboffers">Subscribe to a magazine:
-				<ul id="suboffers_list">
-					<li id="first"><a target="_blank" href="https://m1.buysub.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=11451&amp;storeId=11451&amp;categoryId=10484&amp;langId=-1&amp;sourcekey=ILDN51SC">View Special Offers</a></li> 
-					<li><a target="_blank" href="https://m1.buysub.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=11451&amp;storeId=11451&amp;categoryId=10585&amp;langId=-1&amp;sourcekey=ILDN51VA">View All Titles</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ALL&amp;cds_page_id=1209&amp;cds_response_key=ILDN51UD">Allure</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ARD&amp;cds_page_id=405&amp;cds_response_key=ILDN51UD">Architectural Digest</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=BNA&amp;cds_page_id=100&amp;cds_response_key=ILDN51UD">Bon Appétit</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=BRI&amp;cds_page_id=633&amp;cds_response_key=ILDN51UD">Brides</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=FOL&amp;cds_page_id=30118&amp;cds_response_key=IRDNMUDD">Condé Nast Portfolio</a></li>            
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=TVL&amp;cds_page_id=811&amp;cds_response_key=ILDN51UD">Condé Nast Traveler</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=KIE&amp;cds_page_id=24508&amp;cds_response_key=IRDNMUDD">Cookie</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DET&amp;cds_page_id=1253&amp;cds_response_key=ILDN51UD">Details</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DNO&amp;cds_page_id=21347&amp;cds_response_key=IRDNMUDD">Domino</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ELG&amp;cds_page_id=16183&amp;cds_response_key=ILDN51UD">Elegant Bride</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GQM&amp;cds_page_id=976&amp;cds_response_key=ILDN51UD">GQ</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GLM&amp;cds_page_id=956&amp;cds_response_key=ILDN51UD">Glamour</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GLF&amp;cds_page_id=17303&amp;cds_response_key=ILDN51UD">Golf Digest</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GWD&amp;cds_page_id=17323&amp;cds_response_key=ILDN51UD">Golf World</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GMT&amp;cds_page_id=966&amp;cds_response_key=ILDN51UD">Gourmet</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=LKY&amp;cds_page_id=799&amp;cds_response_key=ILDN51UD">Lucky</a></li>       
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=MBD&amp;cds_page_id=12515&amp;cds_response_key=ILDN51UD">Modern Bride</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLF&amp;cds_page_id=1231&amp;cds_response_key=ILDN51UD">Self</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=TNV&amp;cds_page_id=26982&amp;cds_response_key=IRDNMUDD">Teen Vogue</a></li> 
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=NYR&amp;cds_page_id=12454&amp;cds_response_key=ILDN51UD">The New Yorker</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VYF&amp;cds_page_id=2367&amp;cds_response_key=ILDN51UD">Vanity Fair</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VOG&amp;cds_page_id=1242&amp;cds_response_key=ILDN51UD">Vogue</a></li>
-					<li><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=WMG&amp;cds_page_id=3158&amp;cds_response_key=ILDN51UD">W</a></li>
-					<li id="last"><a target="_blank" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=WIR&amp;cds_page_id=22463&amp;cds_response_key=I2DNWTUD">Wired</a></li>
-				</ul>
+        <span class="pad">
+			<strong>Condé Nast Web Sites:</strong>
+			<div class="condenet_sites">
+                <a href="http://www.wired.com">Wired</a> | 
+                <a href="http://www.reddit.com">Reddit</a> | 
+                <a href="http://www.arstechnica.com">ArsTechnica</a> | 
+                <a href="http://www.epicurious.com">Epicurious</a> | 
+                <a href="http://www.nutritiondata.com">NutritionData</a> | 
+                <a href="http://www.concierge.com">Concierge</a> | 
+                <a href="http://www.hotelchatter.com">HotelChatter</a> |  
+                <a href="http://www.jaunted.com/">Jaunted</a> |  
+                <a href="http://www.style.com">Style.com</a> |  
+                <a href="http://men.style.com">Men.Style.com</a>
+            </div>
+            
+			<div id="drop_downs">
+                <select>
+                    <option>Subscribe to a magazine:</option>
+                    <option value="http://www.magazinestoresubscriptions.com?source=SITEFOOTER">View All Titles</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?source=SITEFOOTER">Architectural Digest</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?source=SITEFOOTER">Bon Appétit</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER">Brides</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastPortfolio?source=SITEFOOTER">Condé Nast Portfolio</option>            
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER">Condé Nast Traveler</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Cookie?source=SITEFOOTER">Cookie</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER">Details</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ElegantBride?source=SITEFOOTER">Elegant Bride</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER">Glamour</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER">Golf Digest</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER">Golf World</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Gourmet?source=SITEFOOTER">Gourmet</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER">GQ</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER">Lucky</option>       
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ModernBride?source=SITEFOOTER">Modern Bride</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER">Self</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER">Teen Vogue</option> 
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER">The New Yorker</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER">Vanity Fair</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER">Vogue</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER">W</option>
+                    <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER">Wired</option>
+                </select>
+                <select>
+                    <option>Condé Nast web sites:</option>
+                    <option value="http://www.allure.com/">Allure</option>
+                    <option value="http://www.architecturaldigest.com/">Architectural Digest</option>
+                    <option value="http://www.arstechnica.com/">ArsTechnica</option>
+                    <option value="http://www.bonappetit.com/">Bon Appétit</option>
+                    <option value="http://www.brides.com/">Brides.com</option>
+                    <option value="http://www.cntraveler.com/">Condé Nast Traveler</option>
+                    <option value="http://www.portfolio.com/">Condé Nast Portfolio</option> 
+                    <option value="http://www.concierge.com/">Concierge</option>
+                    <option value="http://www.cookiemag.com/">Cookie</option>
+                    <option value="http://www.details.com/">Details</option>
+                    <option value="http://www.elegantbride.com/">Elegant Bride</option>
+                    <option value="http://www.epicurious.com/">Epicurious</option>
+                    <option value="http://www.glamour.com/">Glamour</option>
+                    <option value="http://www.golfdigest.com">Golf Digest</option>
+                    <option value="http://www.golfworld.com">Golf World</option>
+                    <option value="http://www.gourmet.com/">Gourmet</option>
+                    <option value="http://www.gq.com/">GQ</option>
+                    <option value="http://www.hotelchatter.com/">Hotel Chatter</option>
+                    <option value="http://www.jaunted.com/">Jaunted</option>
+                    <option value="http://www.luckymag.com/">Lucky</option>
+                    <option value="http://men.style.com/">Men.Style.com</option>
+                    <option value="http://www.modernbride.com/">Modern Bride</option>
+                    <option value="http://www.nutritiondata.com/">Nutrition Data</option>
+                    <option value="http://www.reddit.com/">Reddit</option>
+                    <option value="http://www.self.com/">Self</option>
+                    <option value="http://www.style.com">Style.com</option>
+                    <option value="http://www.teenvogue.com/">Teen Vogue</option>
+                    <option value="http://www.newyorker.com/">The New Yorker</option>
+                    <option value="http://www.thesartorialist.com">The Sartorialist</option>
+                    <option value="http://www.vanityfair.com/">Vanity Fair</option>
+                    <option value="http://www.vogue.com">Vogue</option>
+                    <option value="http://www.wired.com">Wired</option>
+                    <option value="http://www.wmagazine.com/">W</option> 
+                </select>
 			</div>
-		<span class="copyright">© 2008 CondéNet, Inc. All rights reserved.<br>Use of this site constitutes acceptance of our <a href="/services/User_agreement/">User Agreement</a> and <a href="/services/Privacy_policy/">Privacy Policy</a></span>		</span>	</div>
+            
+            <div class="copyright">
+                <p>Registration on or use of this site constitutes acceptance of our <a href="/services/User_agreement/">User Agreement</a> (Revised 4/2/2009) and <a href="/services/Privacy_policy/">Privacy Policy</a> (Revised 4/2/2009).</p>
+                <p>Wired.com © 2009 Condé Nast Digital. All rights reserved.</p>
+                <p>The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast Digital.</p>
+            </div>
+		</span>
+    </div>
 </div>
 
 
