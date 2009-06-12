@@ -1,115 +1,81 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220162824id_/http%3A//www.lloydstsb-offshore.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612055945id_/http%3A//www.lloydstsb-offshore.com/privacypolicy) for the most accurate reproduction.*
 
 # Lloyds TSB Offshore, Privacy
 
-|   | 
+## How your personal information is used by Lloyds Banking Group companies
 
-## How your personal information is used by the Lloyds TSB Group*.
+**1\. Introduction**   
+1.1 The Lloyds Banking Group includes "us" or "we" and a number of other companies using brands including Lloyds TSB, Halifax and Bank of Scotland, and their associated companies. More information on the Lloyds Banking Group can be found at [www.lloydsbankinggroup.com](http://www.lloydsbankinggroup.com/).
 
-Lloyds TSB Offshore Limited may keep your personal details, given to us by you or others during your relationship with us and other companies in the Lloyds TSB Group, in a Lloyds TSB database.
+1.2 Please read this Privacy Policy to understand how we use and protect the information that you provide to us through the "Website".
 
-These include:
+1.3 By accessing any part of this Website or providing any information to us you consent to the use and transfer of your information on the terms set out in this Privacy Policy.
 
-  * details you give us on application forms or during conversations with you via phone bank or at any of our branches,
-  * details you give us so that we can provide you with non-financial goods and services,
-  * details we receive from credit reference and fraud detection agencies.
+1.4 We reserve the right to revise or supplement this Privacy Policy from time to time at our sole discretion and you agree to revisit this page regularly to ensure that you are familiar with the most current version. By continuing to access or use the Website you will be agreeing to any such changes.
 
+1.5 If you are a customer of a Lloyds Banking Group company, details of the information we collect and how we use it will also be set out in the terms and conditions of the product or service which you hold. In the event of a conflict between this Privacy Policy and the terms and conditions of your specific product or service, the terms and conditions of your specific product or service will take precedence.
 
+**2\. Information we collect from you**   
+2.1 In general you can visit this Website without telling us who you are or revealing any information about yourself. However, there are parts of this Website where we may need to collect personal information from you, including without limitation your name, post and email addresses, fax and telephone numbers, employment details, date of birth and banking details.
 
-You agree that we may use and update this centrally held information:
+**3\. Use of information collected**   
+3.1 Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the Website, pages viewed etc. We use this information to measure the use of our Website and to improve its contents.
 
-  * for credit and credit related services and to manage your accounts, 
-  * to provide you with other services, 
-  * to identify other products and services which might be suitable for you,
-  * to recover debts and to assist in debtor tracing,
-  * to prevent and detect fraud,
-  * to update our records about you,
-  * to prevent money laundering; and,
-  * to check your identity.
+3.2 When other personal information, such as your name and email address is collected from you (for example through online forms or via email etc) we generally let you know at the time of collection how we will use that personal information. We may also use the personal information you provide or which we collect via this Website for the purposes of:
 
-
-
-You agree that we may use your personal information to make a credit check on you before we provide you with any services. These searches will be recorded by the credit reference agencies. We may disclose information about how you run your accounts to the credit reference agencies. We and other organisations may also use credit reference agency and fraud prevention agency records that we receive about you, people financially linked to you and others in your household to help make decisions about you and them.
-
-We may also use your information for research and statistical analysis with the aim of improving our services.
-
-When assessing an application and managing your borrowing with us, we may use automated decision-making systems.
-
-If you are applying for a card, loan or other service in joint names, this will create a financial link between both applicants in both our records and the records at the credit reference agencies. This means that your financial affairs and those of your joint applicant may be treated as affecting each other. A joint account means that we may give any information about that account to either of the applicants (even if you choose that both of you must sign instructions to us).
-
-If you request it, on payment of a fee, which is currently £10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.
-
-The information we hold about you is confidential. We will only disclose it outside the Lloyds TSB Group when:
-
-  * you give us your consent,
-  * it is needed by certain reputable third parties involved in running accounts and/or providing services for you (for example, credit reference agencies who do credit checks for us),
-  * in order to obtain professional advice,
-  * we or others need to investigate or prevent crime (e.g. to fraud prevention agencies),
-  * the law permits or requires it, or any regulatory or governmental body requests or requires it, even without your consent, or,
-  * there is a duty to the public to reveal the information.
+  1. providing you with services;
+  2. identify products and services which might be suitable for you;
+  3. prevent and detect fraud and other crimes;
+  4. assess lending and insurance risks;
+  5. recover debts;
+  6. manage our and any member of our Group's relationship with you; and
+  7. update our own records about.
 
 
 
-We may administer your account and provide other services from centres in countries outside Europe (such as India and the USA) that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection Act even when your personal information is processed outside Europe.
+3.3 We may also contact you about products and services available from Lloyds Banking Group companies, and from selected companies outside the group, which we believe may interest you or benefit you financially. We may do this by post or by phone unless you have told us not to; and by email, text or other electronic means if you have told us that we can or as otherwise allowed by law. You may tell us at any time if you change your mind. For more information on your marketing preferences please visit Your marketing preferences.
 
-## Use of cookies
+3.4 Lloyds Banking Group companies will treat your personal information as confidential but may share it with each other and disclose it outside the Lloyds Banking Group companies if:
 
-This website uses cookies. Cookies collect information about your use of the website, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers’, rights. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you refuse cookies.
+  * you consent;
+  * it is needed by our agents, advisors or others involved in running accounts and services for you;
+  * we or others need it to investigate or prevent crime (including but not limited to, in the case of customers with a current or past connection to the UK, investigations by H.M Revenue & Customs);
+  * the law permits or requires it, even without your consent;
+  * there is a duty to the public to reveal the information;
 
-## Monitoring
 
-We may monitor, record, store and use any telephone, email or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service.
 
-We will monitor network traffic from time to time for the purposes of backup and problem solving and in order to ensure that you are not misusing any of the services provided to you.
+3.5 We may administer your account and provide other services from centres in countries outside Europe (such as India and the USA) that do not always have the same standard of data protection laws as Jersey, Guernsey, Isle of Man or Gibraltar. However, we will have a contract in place to ensure that your information is adequately protected, and we will remain bound by our obligations under the Data Protection legislation currently in force in the jurisdiction in which your account is held even when your personal information is processed outside Europe.
 
-## Protecting your privacy
+3.6 We may monitor, record, store and use any telephone, email or other communications we have with you for training purposes, so that we can check any instructions given to us, for crime prevention and to improve the quality of our customer service.
 
-To the extent that sensitive personal data is processed about you, we will employ appropriate security measures given the nature of that data. However, you recognise that your use of the Internet and our website is entirely at your own risk. We have tried to create a secure and reliable website for our users. However, we have no responsibility or liability for the security of personal information transmitted via the Internet.
+3.7 By using the Website you consent to us using your personal information for the purposes described above.
 
-We may need to provide some of your personal information to third parties that we use for the purposes of delivering specific services to you (e.g. customer support, or a shipping company if you have asked us to send something to you).
+**4\. Use of cookies**   
+4.1 Cookies are small amounts of information that are stored on your computer to enable our server to collect certain information from your web browser. Cookies in themselves do not identify the individual, just the computer used. Cookies and other similar technology make it easier for you to log on to and use the Website during future visits.
 
-Our website may provide links and banner advertisements to third party sites. Please note that we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. Since we do not control those websites, you are responsible for reviewing and abiding by the privacy policies of these third party sites.
+4.2 Cookies are used in this Website by us and by third parties to:
 
-In the course of providing services to you, we may engage third parties to carry out certain services/operations on our behalf and transfer your personal information outside of the European Economic Area. We will employ appropriate security measures to protect your personal data where that is the case.
+  * monitor and manage Website traffic;
+  * evaluate the effectiveness of our advertising and promotions (for example, we use a third party ad server — Double Click to manage advertising and to serve adverts on the Website through the use of cookies and pixel tags);
+  * to identify you when you visit the Website, to personalise the content of the Website for you and to enable you to both carry out transactions and have access to information about your account;
+  * temporarily to store details input into calculators and other tools on the Website; and
+  * If required as a matter of law or regulation, in order to protect our or our other customers' rights.
 
-## Accurate Information
 
-We may check what you have told us and share that information with fraud prevention agencies. It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this at the fraud prevention agencies.
 
-You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You confirm that you will inform us, by writing to your branch, of any change to your personal information as soon as is reasonably practicable in order that we may update our records. Please note that notification of any change to your personal information must be in writing, and should include your account numbers with us.
+4.3 Cookies themselves only record which areas of the Website have been visited by the computer in question, and for how long. Allowing us or a third party to create a cookie does not give us access to your computer and we will not use cookies to track your online activity once you leave the Website. Cookies are read only by the server that placed them, and are unable to execute any code or virus.
 
-If you feel your privacy has been breached by us, then please write to:
+4.4 With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. If you want to know how to do this please look at the help menu on your web browser. However, please note that switching off or "opting out" of cookies will mean that you may not be able to use certain features of the Website. Find out more about the use of cookies and how to switch of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/) or [www.aboutcookies.org/Default.aspx?page=1](http://www.aboutcookies.org/Default.aspx?page=1). To find out more about Double Click's privacy policy please visit [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy/).
 
-Customer Service Recovery   
-Lloyds TSB Offshore Ltd,   
-Customer Care   
-PO Box 12   
-Douglas   
-Isle of Man   
-IM99 1SS
+**5\. Protecting your privacy**   
+5.1 The Internet is a global environment and using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. By browsing this Website you acknowledge and agree to our processing of personal information in this way. We accept no responsibility or liability for the security of personal information transmitted via the Internet.
 
-## Security
+5.2 Our Website may contain links and banner advertisements to other websites which are outside our control and not covered by this Privacy Policy ("third party websites"). If you access any third party websites using the links provided, the operators of these third party websites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours. We do not accept any responsibility for any such third party websites, including without limitation for their accuracy, security, the products or services which they offer or for any information which is collected through them. You are responsible for reviewing and abiding by the privacy policies and website terms and conditions of any such third party websites.
 
-You must not use any computers, computer equipment, network resources or any services provided by us for any illegal purpose, or for accessing, receiving or transmitting any material deemed illegal, indecent, offensive or otherwise unacceptable under UK law.
+**6\. Accessing and updating your information**   
+6.1 Under Data Protection legislation you may be entitled to see certain personal information we hold about you and may ask us to make changes to ensure that it is accurate and up-to-date. If you wish to access information which we hold about you or if you would like to contact us about a related data protection matter please write to us at our registered address. We are entitled to charge a small administrative fee to meet our costs in providing you with the information which we hold about you.
 
-All passwords and usernames allocated to you must be kept secret and must not be disclosed to anyone without our prior written authorisation.
+6.2 You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You can do this by visiting a branch or completing and returning a change of name/address form. These can be obtained in branch or downloaded through Internet Banking.
 
-You must not use any false identity in email or other network communications.
-
-You must not attempt or participate in the unauthorised entry or viewing of another user's account or into another system.
-
-You must not use the services and/or network systems or any part thereof for fraudulent activities, or to breach another organisation's security (cross-network hacking). This is an illegal act and prosecution under criminal law may result.
-
-## Changes to Privacy Policy
-
-Please note that this policy will be reviewed, and may change, from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
-
-## Decision Making
-
-Any decision made by us in relation to the services provided to you shall be final.
-
-© Lloyds TSB 2003
-
-*Lloyds TSB Group means the Lloyds TSB group of companies which includes all companies with the Lloyds TSB name, Cheltenham & Gloucester plc and Scottish Widows plc, and their associated companies.
-
-|   | 
+© Lloyds TSB 2009
