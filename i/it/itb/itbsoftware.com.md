@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012170344id_/http%3A//www.itbsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612033835id_/http%3A//www.itbsoftware.com/privacy) for the most accurate reproduction.*
 
 # IT Backbones - Dedicated To The Software Sector, Featuring News, Press Releases, IT Directory & Links
 
@@ -19,6 +19,10 @@ If you have any questions regarding privacy or security on IT Backbones, please 
 ## Changes to this Privacy Policy
 
 IT Backbones reserves the right to update this policy as required. If this policy is updated, registered users will be notified by email and the updates will be listed on the website.
+
+##### More Video News
+
+[](http://macromedia.com/software/flashplayer/)
 
   
 
