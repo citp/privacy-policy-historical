@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212225541id_/http%3A//www.bike-games.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612030707id_/http%3A//bike-games.net/privacy) for the most accurate reproduction.*
 
-# Bikes games Privacy Policy
+# Racing games Privacy Policy
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
