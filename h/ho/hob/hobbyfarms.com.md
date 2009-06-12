@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015549id_/http%3A//www.bowtieinc.com/bowtieinc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612040543id_/http%3A//www.bowtieinc.com/bowtieinc/privacy_policy.html) for the most accurate reproduction.*
 
 # BowTie Inc.
 
@@ -68,7 +68,7 @@ Personally identifiable information that you disclose in a public area of the Bo
 
 **PRIVACY CONCERNS AND CHILDREN**
 
-The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old. We do not knowingly accept personally identifiable information from anyone under 13. Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/web/20081216015549id_/http%3A//www.bowtieinc.com/bowtieinc/terms_of_use.html). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians. Parents: if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties. Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums. 
+The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old. We do not knowingly accept personally identifiable information from anyone under 13. Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/web/20090612040543id_/http%3A//www.bowtieinc.com/bowtieinc/terms_of_use.html). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians. Parents: if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties. Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums. 
 
 **CHANGES TO OUR PRIVACY POLICY**
 
