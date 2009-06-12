@@ -1,63 +1,54 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214164847id_/http%3A//www.dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612040907id_/http%3A//www.dinodirect.com/help/item-privacypolicy.html) for the most accurate reproduction.*
 
-# About Privacy & Security :
+# Help - DinoDirect.com
 
-  
-**Our Commitment**  
-As part of our commitment to you, our customers, we have published below our privacy and security policies. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy. Thank you for putting your trust in us.
+## Privacy Policy
 
-**TRUSTe Licensee**  
-dynadirect.com, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for dynadirect.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information.
+We are committed to making your experience at DinoDirect.com is pleasure and rewarding. 
 
-Questions regarding this statement should be directed to the [Webmaster](mailto:comments@dynadirect.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://truste.org/consumers/watchdog_complaint.php?).
+The following Privacy Policy applies only to the DinoDirect.com web site and information of our customers collected online through DinoDirect.com. For the privacy policies applicable to information collected on our site or by other means. 
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an Email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+### Your privacy is very important to us.
 
-**Your Information**  
-This site uses a secure online order form for customers to purchase products and services. We collect customer contact information, such as Name, Email, Phone Number, and Address, and financial information, such as Credit Card Account Information. Contact information from the order form is only used to process and ship orders to our customers and to get in touch with them when necessary. Financial information collected is used to bill the customer for products and services they have purchased or requested.
+DinoDirect respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time. 
 
-A returns form is also available on this site, to offer our customers the convenience of requesting a Return Merchandise Authorization Number (RMA#) for sending product(s) back for replacement, repair or credit. The information collected on this form is used to process the request, and to expedite the returns process. This information includes Customer Name, Phone Number, and Email.
+Personally identifiable information may include information that you provide to us by requesting information, when registering for special offers or programs or when you purchase products online. This may include your name, address (including billing and shipping addresses), telephone number, e-mail address, organization, city, state and zip code. We may use this information, to process and ship orders, to contact you about the status of your order, to contact you with answers to your questions, or to provide information about new and exciting products, services, promotions and corporate-related information. We may use mailings, telephone calls and e-mail to contact you. 
 
-**Changing/Updating Information**  
-Customers have the opportunity to update or change their personal and financial information each time an order is placed. Customers can also request changes by contacting Customer Service directly by Email at [service@dynadirect.com](mailto:service@dynadirect.com) or phone at  
-1-877-438-3962. dynadirect.com also offers optional online customer registration, that allows personal information to be edited at anytime through a secured login.
+You also may create an account through DinoDirect.com at any time by providing your email address and creating a unique password. An account is not required to visit our site or to place an order through DinoDirect.com. Creating an account allows you to save order information, order history, track the status of your orders and set your ordering preferences. For your privacy and security, we do not store credit card or Gift Card numbers in your account. You may change saved account information at anytime. Simply visit the Your Account page, log in with your email address and password. 
 
-**Security**  
-  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All online transactions are handled with industry-standard SSL encryption. When you place an order online, your personal information and credit card information are encrypted (scrambled) using this technology before being sent over the Internet. This makes it virtually impossible for your information to be stolen or intercepted while being transferred through cyberspace (the Internet). When we receive your order, it is kept encrypted until we're ready to process it.
+For those customers who purchase products from us online, additional personally identifiable information such as credit card information will be collected. We are committed to the protection of the privacy of our customers and visitors. While in the checkout process of our online store, we make use of 128 bit encryption via digital IDs to enable our commerce site to conduct authenticated, strongly encrypted online commerce. Customers can submit credit card numbers or other personal information to our site with the assurance that they are doing business with us and that the information which they are sending to us cannot be intercepted or decrypted by anyone else. 
 
-When you proceed to the online checkout, your browser will automatically be switched to the secure server. This can be verified by the "https" displayed in your browsers address field as shown in the image below:
+### Removal or Edit of your information
 
-  
-**Yahoo Information**  
-This site is hosted by Yahoo!. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Yahoo will also send a customer satisfaction survey to you via Email, if you select this option during checkout. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+If you have registered for special e-mail offerings, you may unsubscribe from the program, by visiting the e-mail unsubscribe page or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by contacting us via e-mail.
 
-Yahoo! offers a Buyer Protection Program that protects shoppers utilizing Yahoo! Shopping. Most items purchased through Yahoo! Shopping are covered by this program, which is backed by insurance obtained through Lloyd's of London. For more information on this program [Click Here](http://shopping.yahoo.com/buyer_protection.html).
+If you wish to receive more personalized information from DinoDirect or change anything about your profile such as your e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Profile page. 
 
-**Correspondence**  
-Once an order has been placed online, customers will receive a confirmation Email with a link to check order status online. If additional information is needed, customers may contact Customer Service via Email at [service@dynadirect.com](mailto:service@dynadirect.com) or by phone at  
-1-877-438-3962. dynadirect.com does not send unsolicited (SPAM) Email, rent/sell its Email lists or customer information.
+Non-personally identifiable information is collected without any direct association with you specifically. In the normal course of using DinoDirect.com, we may collect information about your habits and usage of our sites. 
 
-**"Tell a Friend" Email Service**  
-dynadirect.com offers a service that will Email a product page and comments to anyone with an Email address. This service allows you to let friends and family know about our great deals and service. We do not collect or store the Email addresses used with this service. Please report any misuse of this service to our [Privacy Officer](mailto:dbolinger@dynadirect-inc.com) immediately.
+An IP address is a number that is assigned to your computer when you are using the Internet. Web servers automatically identify your computer by its IP address. DinoDirect collects IP addresses for the purposes of system administration, to report aggregated information and to audit the use of our site. If we are required to do so by law, for example, in response to a court order or subpoena, we will provide these IP addresses to the proper authorities. 
 
-**Sharing Information**  
-dynadirect.com ships product from warehouses all over the country. To fulfill customer orders information such as Customer Name, Address, and Phone Number are transmitted via Email or FAX to the warehouse that ships the product(s) ordered. Financial information collected is never shared with any other branch, office, warehouse, or organization.
+### Sharing and Disclosure Your Information
 
-dynadirect.com will not disclose any of our customers personal or financial information to third parties other than shipping intermediaries, except when we believe in good faith that the law requires it, or to protect the rights or property of dynadirect.com.
+Agents, employees and contractors of DinoDirect who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation.   
+Information about you specifically will not be used for any purpose other than to carry out the services you requested from DinoDirect and its affiliates. All of our affiliates have agreed to maintain the security and confidentiality of the information we provide to them.   
+We will not sell or rent your personally identifiable information to anyone at any time.   
+We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested.   
+We may send personally identifiable information about you to other organizations when:   
+We have your consent to share the information.  
+We need to share your information in order to provide the product or service you have requested.  
+We are required to do so by law.   
 
-**Links and Affiliates**  
-This Web site contains links to other website and online stores. Please be aware that our privacy policy does not apply to these linked sites. We encourage you to read the posted privacy statement whenever interacting with any website. dynadirect.com takes great care in selecting the companies it does business with, and will not promote or represent companies that do not provide customers with the highest level of service.
 
-* * *
+You may delete these files from your computer at any time. You can set your web browser to notify you if such information is about to be placed on your computer, and you can choose the option in your web browser to refuse it. If you refuse the information, you may not be able to make full use of the features on our web site. 
 
-**dynadirect.com, Inc.**  
-11830 Fishing Point Drive  
-Oyster Point Park  
-Suite 213  
-Newport News, VA 23606  
-Toll-Free: (877) 438-3962  
-Phone: (757) 873-7675  
-Fax: (757) 873-7638  
+If you elect to use our "Email your Wish List" service for informing a friend about our site or products you are interested in, we may ask for your email address, your name, the email address or the name of your friend and the email address of your friend. DinoDirect will automatically send the friend a one-time email on your behalf. DinoDirect does not store this information. It is only used for sending this one time email. 
 
+**If you have questions, suggestions or concerns regarding our products or services please contact us at:**
+
+Name: DinoDirect Customer Service Center  
+Phone: 650-206-2187  
+Fax: 650-489-0168  
+E-mail:[fastsupport@dinodirect.com](mailto:fastsupport@dinodirect.com)
+
+Address: 2218 Old Middlefield Way, Ste L Mountain View, CA94043, U.S.A.
