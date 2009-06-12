@@ -1,48 +1,35 @@
-> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011013414id_/http%3A//www.iibuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612093008id_/http%3A//www.iibuy.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : iiBuy.com.au, The Ultimate bargain iBuy!
+# Privacy Notice : iiBuy.com.au
 
-We understand that when accessing our secured online store or interacting with us online, the privacy and confidentiality of your personal information is important to you. That's why we are committed to safeguarding the personal and financial details you provide us.
+## Privacy Notice
 
-The following explains what information we gather from you when you visit our online shop, how we use that information.
+We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of iiBuy.com.au Inc.  
+If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
+Whenever you interact with us, we will receive and deposit the given information.  
+For example, like many other sites, we use “cookies”.  
+When your internet browser visits iiBuy.com.au, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
+Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
 
-**The information we collect**  
-Each time someone visits our site, our web server collects the following types of information: 
+ **E-mail Correspondence**  
+To help us making the E-mail more useful and interesting, when you open the email from 
 
-The number of users who visit   
-The date and time of visits   
-The number of pages viewed   
-How users navigate through the site 
+iiBuy.com.au, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.  
+The information from other resources:  
+We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
 
-No attempts are made to identify anyone browsing our site. The data is captured so that we can accurately evaluate the quality of our online shop content and make improvements for you. 
+ **Cookies**  
+Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
+The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
+Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
+However, cookies can help you to make most use of the best special services from iiBuy.com.au, so we recommend you to set up an open status for this program.
 
-**How we capture information**  
-We use technology called cookies when you visit our site. Cookies are small pieces of information which can be stored on your hard drive (persistent cookies) or in memory (session cookies). They can record information about your visit to the site, allowing it to remember you next time you visit and provide a more meaningful experience. 
+ **The Information from Other Resources  
+** The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..  
+Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
+The information you can get easily from 
 
-We use cookies to offer you increased security. Despite common myths, the cookies we send to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They are designed so that they cannot be sent to another site or be retrieved by any site other than iiBuy.
+iiBuy.com.au containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-We may also allow third parties to collect statistical data from our site using their persistent cookies. However these cookies do not capture any information that can personally identify you. They are simply used to evaluate and measure the effectiveness of our marketing (eg sponsor banner advertising).
+  
 
-**How we use your information**  
-The type of information we collect from you will depend on the content of your shopping cart.
-
-When buying for our products online we may request personal information such as your name and delivery address, payment details, email address and contact phone numbers. We also tell you how we use the personal information we collect, who we give access to that information and how you can access it, if we have retained it. 
-
-Sometimes we use third parties to run online competitions or promotions. They may require your name and email address to meet Lottery and Gaming regulations and make you eligible for entry. However, we retain ownership of this information and require that all records be deleted from the third party's database.
-
-If you are a registered loyalty program customer with iiBuy, we may use your email address to advise you of any points upgrades or upcoming promotions that can only be redeemed by loyalty program customers. 
-
-We may also use your email address to send regular communications about products and reviews which you have told us you are interested in. 
-
-**Permission to contact you**  
-You can choose not to receive further emails from us by withdrawing your consent. To do this, log in to shopping cart (so that we can identify you), then go to the Administration option in the main menu and de-select the box that asks for your permission to contact you. Under Administration you can also update your email address or choose the type of information we send you from the list of topics.
-
-**Securing your information**  
-When we capture your personal information it is passed through our secure server using encryption technology which scrambles the information to ensure it is protected over the Internet.
-
-Stored information about you is further protected from unauthorised access through the use of multiple firewalls, secure passwords and sign in processes. 
-
-**Contact us**  
-If you feel that we have not lived up to our online privacy commitments or you have any queries relating to our policies, please email us. Our objective is to respond within our service standard of three working days.
-
-As we plan to keep our statement on privacy current, this information can be subject to change. Please return periodically to review the latest on Internet privacy.
