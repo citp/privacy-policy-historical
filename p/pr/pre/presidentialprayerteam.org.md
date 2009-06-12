@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220043528id_/http%3A//www.presidentialprayerteam.org/site/PageServer%3Fpagename%3Dppt_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612040214id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.asp) for the most accurate reproduction.*
 
-# The Presidential Prayer Team: Privacy Policy
+# The Presidential Prayer Team:
 
 The Presidential Prayer Team has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.presidentialprayerteam.org.
 
