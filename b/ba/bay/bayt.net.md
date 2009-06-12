@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bayt.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012035id_/http%3A//www.bayt.com/job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.net privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612205629id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Bayt.com | jobs UAE, jobs Dubai, jobs Abu Dhabi, jobs Saudi, jobs Kuwait, jobs Bahrain, jobs Qatar, jobs Pakistan | Bayt.com
+
+[Home](https://web.archive.org/en/home/) » Privacy Statement
 
 Bayt.com is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.
 
