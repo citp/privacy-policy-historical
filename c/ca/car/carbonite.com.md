@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212050513id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613061301id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
 
 # Full Data Backup Services: Desktop, Email Backup
 
-##  Updated and Effective as of August 16, 2008
+##  Updated and Effective as of March 16, 2009
 
-This Privacy Policy applies to Carbonite, Inc.’s collection and use of personally identifying information (“Personal Information”) that we may gather when you visit our Website, purchase, license, or Use Carbonite Products or Services, or contact us. By Using Carbonite Products or Services, you expressly consent to the collection, processing, and use of your Personal Information according to this Privacy Policy.
+This Privacy Policy applies to Carbonite, Inc.'s collection and use of personally identifying information ("Personal Information") that we may gather when you visit our Website, purchase, license, or Use Carbonite Products or Services, or contact us. By Using Carbonite Products or Services, you expressly consent to the collection, processing, and use of your Personal Information according to this Privacy Policy.
 
-Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) (“Backup Data”), as well as other matters. All provisions of the [Terms and Conditions of Use](http://www.carbonite.com/terms/) are incorporated into this document by reference.
+Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) ("Backup Data"), as well as other matters. All provisions of the [Terms and Conditions of Use](http://www.carbonite.com/terms/) are incorporated into this document by reference.
 
 #####  Definitions
 
@@ -14,7 +14,7 @@ All of the terms used in this Privacy Policy have the same meanings as are defin
 
 ##### Why Carbonite Collects Personal Information
 
-Carbonite collects your Personal Information at a variety of points, including when you place an order, download a new product or update, register a license, request services, store Backup Data, confer with one of our customer support technicians, or take part in other activities on our Website. During these interactions we will collect Personal Information relevant to your transaction with Carbonite, such as your name, mailing address, phone number, e-mail address, and credit card information, along with information about the Carbonite Products or Services you license, such as the activation code, date of purchase, and information relating to a support issue. Carbonite will use your Personal Information to send you messages through desktop alerts, SMS/Text messaging, email, etc. concerning updates to Carbonite Products or Services. Please be aware that if you choose not to provide us with your Personal Information, we may not be able to, or may choose not to, make Carbonite Products or Services available to you.
+Carbonite collects your Personal Information at a variety of points, including when you place an order, download a new product or update, register a license, request services, store Backup Data, confer with one of our customer support technicians, or take part in other activities on our Website. During these interactions we will collect Personal Information relevant to your transaction with Carbonite, such as your name, mailing address, phone number, e-mail address, employment information, and credit card, banking or billing information, along with information about the Carbonite Products or Services you license, such as the activation code, date of purchase, and information relating to a support issue. Carbonite will use your Personal Information to send you messages through desktop alerts, SMS/Text messaging, email, etc. concerning updates to Carbonite Products or Services. Please be aware that if you choose not to provide us with your Personal Information, we may not be able to, or may choose not to, make Carbonite Products or Services available to you.
 
 ##### Regarding Children
 
@@ -24,7 +24,7 @@ Carbonite Products or Services are not marketed to or intended for use by indivi
 
 Carbonite uses "cookies" and other technologies to collect data that enable us to better understand and improve the usability, performance and effectiveness of our Website. Cookies are files sent to your browser and stored on your computer. If you do not want Carbonite to send cookies to your browser, you can set your browser options to reject cookies or to notify you when a Website tries to put a cookie into your browser software. Rejecting cookies may affect your ability to use some features of Carbonite Products or Services. 
 
-Carbonite gathers general information about visits to our Website, the files you have marked for backup, the configuration of your computer and your computer’s interaction with Carbonite, and stores this information in log files. Carbonite uses this information to understand traffic and downloads on our Website, enabling us to improve the site, provide the best online experience possible, and improve our ability to serve our customers. 
+Carbonite gathers general information about visits to our Website, the files you have marked for backup, the configuration of your computer and your computer's interaction with Carbonite, and stores this information in log files. Carbonite uses this information to understand traffic and downloads on our Website, enabling us to improve the site, provide the best online experience possible, and improve our ability to serve our customers. 
 
 To install Carbonite Products or Services on your computer, you must be an "Authorized Administrator." By installing Carbonite Products or Services on your computer, you grant Carbonite the right to back-up any and/or all of the files on the computer regardless of who might be the creator, originator, editor, or otherwise the owner of those files. You assume sole responsibility for Carbonite receiving access to and backing-up those files.
 
@@ -42,11 +42,15 @@ Carbonite may, from time to time, send you emails, or desktop alerts or other co
 
 Carbonite has security measures in place to protect against the loss, misuse, and alteration of your Personal Information in our customer database. Personal Information provided to Carbonite is stored in secure facilities with access restricted to authorized personnel only. Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.
 
-To provide secure credit card processing when ordering from us, orders placed on our Website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license Carbonite Products or Services online using a credit card, the credit card information is sent to Carbonite using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard or better encryption method, in the future (“Transmission Encryption”). To learn more about our credit card processing vendors and their respective privacy and other policies (which are incorporated by reference into the Carbonite Privacy Policy and Terms or Use by reference) email us at [customersupport@carbonite.com](mailto:customersupport@carbonite.com "customersupport@carbonite.com").
+To provide secure credit card processing when ordering from us, orders placed on our Website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license Carbonite Products or Services online using a credit card, the credit card information is sent to Carbonite using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard or better encryption method, in the future ("Transmission Encryption"). To learn more about our credit card processing vendors and their respective privacy and other policies (which are incorporated by reference into the Carbonite Privacy Policy and Terms or Use by reference) email us at [customersupport@carbonite.com](mailto:customersupport@carbonite.com "customersupport@carbonite.com").
 
 Carbonite encrypts the files that we process before they leave your computer. Carbonite uses SSL or similar Transmission Encryption technology before sending your files to our data centers. Your encrypted backup files transmitted to our servers are stored in facilities with access restricted to authorized personnel only. Carbonite does not encrypt the file names or file type information.
 
-Carbonite will not decrypt your files unless i) it reasonably believes that it must do so to troubleshoot problems with the Carbonite Products or Services or ii) it reasonably believes it must do so in order to comply with a law, subpoena, warrant, order, or a certification requirement, such as the requirements of 18 U.S.C. § 2703.
+By Using the Carbonite Product that permits you to download your backed up files to any computer that has a connection to the Internet you understand that Carbonite will be decrypting these files before they leave Carbonite's servers and that once decrypted these files can be reviewed by anyone who may be able to access them.
+
+Carbonite will not decrypt your files unless i) it reasonably believes that it must do so to troubleshoot problems with the Carbonite Products or Services or ii) it reasonably believes it must do so in order to comply with a law, subpoena, warrant, order, or a certification requirement, such as the requirements of 18 U.S.C. § 2703. 
+
+However, if you elect to Use Carbonite Products or Services that permit you to access Backup Data from an Internet enabled computer other than by using Carbonite Software on your registered computer, then your Backup Data will be decrypted by Carbonite in its data center and sent to you in a decrypted form via public infrastructure. You election to use such products or services may make the contents of these files to accessible to individuals or entities other than you and those you intend. By using such products and services, you knowingly accept this risk. 
 
 ##### How You Can Access Or Correct Your Personal Information
 
@@ -54,13 +58,13 @@ You can access selected Personal Information that we collect online by selecting
 
 ##### European Personal Identifiable Information 
 
-The Personal Information we collect from individuals or equipment located in the European Economic Area (“European Personal Information”) may be processed on servers in the United States.
+The Personal Information we collect from individuals or equipment located in the European Economic Area ("European Personal Information") may be processed on servers in the United States.
 
 Carbonite has selected the Safe Harbor mechanism as the means for complying with its obligations under the EU Data Privacy Directive 95/46/EC and Member State implementing legislation to provide adequate safeguards for the privacy and security of European Personal Information transferred out of the European Economic Area.
 
 ##### Definitions Applicable to European Personal Information
 
-The following definitions apply to Carbonite’s policies pertaining to protection of privacy and security interests in European Personal Information.
+The following definitions apply to Carbonite's policies pertaining to protection of privacy and security interests in European Personal Information.
 
 "Carbonite" means Carbonite, Inc., its subsidiaries and its predecessors and successors. 
 
