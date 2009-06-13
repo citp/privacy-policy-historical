@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162335id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613041225id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
 
 # NRDC Privacy Policy
 
@@ -25,3 +25,5 @@ When you provide NRDC with your email address and mailing address we may contact
 
 **Secure Transactions**  
 When you donate to NRDC via our website your donation information is encrypted and transmitted via a secure connection. NRDC uses your credit card information only for the purpose of processing your donation. We will not disclose this information except as necessary to process your donation and we do not store it once your donation has been processed.
+
+: Email this page to your friends or share it on Facebook, Twitter or other social networks.
