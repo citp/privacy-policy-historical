@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162555id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613042415id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
 
 # MiNeeds Privacy Policy | MiNeeds
 
 ## Privacy Policy
 
-Date of Last Revision: October 11, 2007.
+Date of Last Revision: December 18, 2008.
 
-MiNeeds LLC. ("MiNeeds") welcomes you.  MiNeeds Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by MiNeeds anytime you interact with MiNeeds, including but limited to, browsing, registration, usage, purchasing, searching, bidding, providing and posting personal information, multimedia, advertising, listings, various communication tools, and forums.  This Policy applies to all of MiNeeds products, services, and website, including but not limited to, MiNeeds Get Filmed!, (hereinafter collectively, the "Services").  MiNeeds is committed to your privacy and the protection of your information.
+MiNeeds Inc. ("MiNeeds") welcomes you.  MiNeeds Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by MiNeeds anytime you interact with MiNeeds, including but limited to, browsing, registration, usage, purchasing, searching, bidding, providing and posting personal information, multimedia, advertising, listings, various communication tools, and forums.  This Policy applies to all of MiNeeds products, services, and website, including but not limited to, MiNeeds Get Filmed!, (hereinafter collectively, the "Services").  MiNeeds is committed to your privacy and the protection of your information.
 
 1.         SCOPE
 
@@ -104,10 +104,10 @@ When you use MiNeeds services, we make good faith efforts to provide you with ac
 
 **Enforcement**
 
-MiNeeds regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MiNeeds's treatment of personal information by contacting us at [privacy@mineeds.com](mailto:privacy@mineeds.com) through this web site or by writing to us at Privacy Matters, c/o MiNeeds Inc., 524 5th Ave W Suite 203 Seattle, Washington, 98119, USA. When we receive formal written complaints at this address, it is MiNeeds's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MiNeeds and an individual. 
+MiNeeds regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MiNeeds's treatment of personal information by contacting us at [privacy@mineeds.com](mailto:privacy@mineeds.com) through this web site or by writing to us at Privacy Matters, c/o MiNeeds Inc., 600 1st Ave Suite #428, Seattle, Washington, 98104, USA. When we receive formal written complaints at this address, it is MiNeeds's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MiNeeds and an individual. 
 
 **Changes to this policy**
 
 Your use of MiNeeds, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o MiNeeds LLC., 524 5th Ave W Suite 203 Seattle, Washington, 98119, USA.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o MiNeeds Inc., 600 1st Ave Suite #428, Seattle, Washington, 98104, USA.
