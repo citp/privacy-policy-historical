@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217120242id_/http%3A//www.omnihotels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnihotels.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613072534id_/http%3A//www.omnihotels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Omni Hotels Privacy Policy
 
