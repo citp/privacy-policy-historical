@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuppads.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152708id_/http%3A//www.yuppads.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuppads.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613040117id_/http%3A//yuppads.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Yuppads.com - A Complete Affiliate Network | Affiliate Marketing | Online Advertising Network | Affiliate network | Publisher Network
+# Yuppads.com-Privacy Policy
 
 Yuppads.com is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices.
 
