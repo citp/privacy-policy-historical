@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014080110id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614015350id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
 
-# TakeLessons: Privacy Policy
+# Privacy Policy | Music Lessons | TakeLessons
 
-Last revised: August 2007 
+Last revised: November 2008 
 
 Your privacy is very important to us. We want to make your experience with ClickFor as enjoyable and rewarding as possible, and we want you to use all of ClickFor's services with complete confidence. 
 
@@ -33,6 +33,10 @@ If you to prefer to place your order by telephone, you can call us during normal
 ###  What is your Credit Card Fraud Policy? 
 
 In the unlikely event that you experience unauthorized use of your credit card, promptly report the fraudulent activity to your credit card company. Under the Fair Credit Billing Act, you are only liable for the first $50 of the fraudulent charges. Please check with your credit card company to verify specific terms and conditions. 
+
+### Communication to Members
+
+ClickFor uses personal information to communicate important information with our Members. Important information includes, but not limited to, student newsletters, instructor newsletters, lesson reminders, lesson journal entries, payment information, credit card update notifications, and other important account information. Members agree to accept this communication from ClickFor. 
 
 ###  ClickFor Partners and Sponsors 
 
