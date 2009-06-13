@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224220446id_/http%3A//www.league.org.uk/content.asp%3FCategoryID%3D1621) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614001613id_/http%3A//www.league.org.uk/content.asp%3FCategoryID%3D1621) for the most accurate reproduction.*
 
 # League Against Cruel Sports : Privacy policy
+
+**[skip navigation | [graphics version](https://web.archive.org/text.asp?ref=%2Fcontent%2Easp%3FCategoryID%3D1621) ]**
+
+**League Against Cruel Sports** / www.league.org.uk 
 
 The My League section offers the opportunity to create your online profile. Your profile helps us to tailor the website to your interests, and keep you up to date with, news, events and actions. If you want to become an actual member of the League, you can [join as a member online.](https://web.archive.org/content.asp?CategoryID=1829)                                         
 
