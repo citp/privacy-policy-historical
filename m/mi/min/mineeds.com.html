@@ -1,41 +1,37 @@
-<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216162555id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2009-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090613042415id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>MiNeeds Privacy Policy | MiNeeds</title>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="MiNeeds Privacy Policy"><meta name="y_key" content="7473e55a1167807e">
 <meta name="keywords" content="MiNeeds,MiNeeds Privacy Policy">
+<link rel="image_src" href="images/logo.gif">
 <base href="http://www.mineeds.com/">
-<link rel="stylesheet" type="text/css" href="css/css.css?27032008">
-<link rel="stylesheet" type="text/css" href="css/signup.css?26032008">
-<link rel="stylesheet" type="text/css" href="css/autocompleter.css">
-<link rel="stylesheet" type="text/css" href="css/extra.css?20042008">
-<link rel="stylesheet" type="text/css" href="css/scrollable.css">
-<script language="javascript" src="js/prototype.js"></script>
+<link rel="stylesheet" type="text/css" href="proxy.php?f=css/css.css,css/signup.css,css/autocompleter.css,css/extra.css,css/scrollable.css">
+<link type="image/x-icon" href="/cms/files/mineeds_favicon.ico" rel="shortcut icon">
+<link rel="alternate" type="application/rss+xml" href="http://feeds2.feedburner.com/MineedsArticles?format=xml" title="MiNeeds">
+
+<style>
+	#contest_popup_window.modal_window {
+		top: 15%;
+		border-color: #395d7f;
+		width: 600px;
+		z-index: 200;
+		padding: 0;
+	}
+</style>
+
+<script language="javascript" type="text/javascript" src="proxy.php?f=js/prototype.js,js/signup.js,js/fastinit.js,js/rollovers.js,js/ajaxurlfixer.js,js/modalwindow.js,js/carousel.js"></script>
 <script language="javascript" src="js/scriptaculous/scriptaculous.js"></script>
-<script language="javascript" src="js/signup.js?26032008"></script>
-<script type="text/javascript" src="js/fastinit.js"></script>
-<script language="javascript" type="text/javascript" src="js/rollovers.js?16012008"></script>
-<script language="javascript" type="text/javascript" src="js/ajaxurlfixer.js?14042008"></script>
-<script type="text/javascript" src="js/modalwindow.js?10042008"></script>
-<script type="text/javascript" src="js/carousel.js"></script>
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
 </head>
 
 <body>
-<script language="javascript" type="text/javascript" src="js/cookies.js"></script>
 
-	<style>
-		#contest_popup_window.modal_window {
-			top: 15%;
-			border-color: #395d7f;
-			width: 600px;
-			z-index: 200;
-			padding: 0;
-		}
-	</style>
 	<script>
 		/*Event.observe(window, 'load', function() {
 			var timer_ = 0;
@@ -89,6 +85,215 @@
 			}
 		}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		//////////////////////////////////////////////////////////////////////
+		// FB Connect
+		function fbConnectSteps (already_logged_into_facebook) {
+			FB.ensureInit(function() {
+				FB.Facebook.get_sessionState().waitUntilReady(function(session) {
+					var is_now_logged_into_facebook = session ? true : false;
+
+		          // if the new state is the same as the old (i.e., nothing changed)
+		          // then do nothing
+		          if (is_now_logged_into_facebook == already_logged_into_facebook) {
+		            return;
+		          }
+
+		          // otherwise, refresh to pick up the state change
+					var opt = {
+						method: 'get',
+						onSuccess: fbConnectStepsResult
+					}
+
+					new Ajax.Request('fb_connect?step=2', opt);
+		        });
+		    });
+
+		}
+
+		function fbConnectStepsResult(msg) {
+			var myJSON = eval('(' + msg.responseText + ')');
+
+			if (myJSON.result == '1') {
+
+				if(myJSON.loggedInUser) {
+					fbSignupProcessResult(msg);
+				} else {
+					if ($('fb_connect_window') == null) {
+						new Insertion.Bottom(document.body, '<div id="fb_connect_window" class="modal_window" style="z-index: 200; left: 30%; top: 200px;"></div>');
+
+					}
+
+					if ($('backgroundOverlay') == null) {
+						var arrayPageSize = [document.body.offsetWidth+document.documentElement.scrollLeft, document.body.offsetHeight+document.documentElement.scrollTop];
+						var html = '<div id="backgroundOverlay" style="position: absolute; top: 0px; left: 0px; z-index: 190;';
+						html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px; background-color: rgb(0, 0, 0); display:none;"/>';
+						new Insertion.Bottom(document.body, html);
+						new Effect.Appear('backgroundOverlay', { duration: 0.3, from: 0.0, to: 0.5 });
+					}
+
+					$('backgroundOverlay').show();
+
+					$('fb_connect_window').innerHTML = myJSON.form;
+					FB.init("", "/fb_connect");
+					$('fb_connect_window').show();
+				}
+			}
+		}
+
+		function fbConnectFormClose() {
+			if ($('fb_connect_window') != null) {
+				$('fb_connect_window').hide();
+			}
+			if ($('backgroundOverlay') != null) {
+				$('backgroundOverlay').hide();
+			}
+		}
+
+		function fbTextEnabled() {
+			controlEnable = $("have_mineeds_account").checked;
+			if(controlEnable) {
+				$("fb_username_or_email").disabled = false;
+				$("fb_username_or_email").style.backgroundColor = "#ffffff";
+				$("fb_username_or_email").style.color = "#000000";
+				$("fb_password").disabled = false;
+				$("fb_password").style.backgroundColor = "#ffffff";
+				$("fb_password").style.color = "#000000";
+				$("fb_username_label").style.color = "";
+				$("fb_password_label").style.color = "";
+
+				$("fb_email").disabled = true;
+				$("fb_email").style.backgroundColor = "#eeeeee";
+				$("fb_email").style.color = "#777777";
+				$("fb_email_label").style.color = "#cccccc";
+			} else {
+				$("fb_username_or_email").disabled = true;
+				$("fb_username_or_email").style.backgroundColor = "#eeeeee";
+				$("fb_username_or_email").style.color = "#777777";
+				$("fb_password").disabled = true;
+				$("fb_password").style.backgroundColor = "#eeeeee";
+				$("fb_password").style.color = "#777777";
+				$("fb_username_label").style.color = "#cccccc";
+				$("fb_password_label").style.color = "#cccccc";
+
+				$("fb_email").disabled = false;
+				$("fb_email").style.backgroundColor = "#ffffff";
+				$("fb_email").style.color = "#000000";
+				$("fb_email_label").style.color = "";
+			}
+		}
+
+		var fbEmailPermFlag = false;
+		function fbLastStep(required_perms_string) {
+			fb_loading_process(1);
+			if (required_perms_string) {
+				if(!fbEmailPermFlag) {
+					FB.ensureInit(function() {
+						FB.Connect.showPermissionDialog(required_perms_string, fbDialogResult);
+					});
+
+					//FB.init("{$facebook_api_key}", "/fb_connect");
+				} else {
+					fbDialogResult();
+				}
+			} else {
+				fbDialogResult();
+			}
+		}
+
+		function fbLastStepResult(msg) {
+			var myJSON = eval('(' + msg.responseText + ')');
+			if (myJSON.result == '1') {
+				fbSignupProcess();
+			} else {
+				if(myJSON.required_perms_string) {
+					fbEmailPermFlag = false;
+					$('fb_connect_error_msg').innerHTML = '<ul><li>'+myJSON.message+' <a href="javascript:;" onclick="fbLastStep(\''+myJSON.required_perms_string+'\');"><u>Try Again</u></a></li></ul>';
+				} else {
+					$('fb_connect_error_msg').innerHTML = '<ul><li>'+myJSON.message+'</li></ul>';
+				}
+
+				if(myJSON.extra == 'exists_email') {
+					$("have_mineeds_account").checked = true;
+					$("fb_username_or_email").value = $("fb_email").value;
+					$("fb_email").value = "";
+					fbTextEnabled();
+				}
+
+				$('fb_connect_error_msg').style.display = '';
+				fb_loading_process(0);
+			}
+
+		}
+
+		function fbDialogResult() {
+			fbEmailPermFlag = true;
+			var opt = {
+				method: 'post',
+				onSuccess: fbLastStepResult ,
+				postBody: $('fb_connect_form').serialize()
+			}
+
+			new Ajax.Request('fb_connect?step=3', opt);
+		}
+
+		function fbSignupProcess() {
+			var opt = {
+					method: 'get',
+					onSuccess: fbSignupProcessResult
+				}
+
+				new Ajax.Request('fb_connect?step=4', opt);
+		}
+
+		function fbSignupProcessResult(msg) {
+			var myJSON = eval('(' + msg.responseText + ')');
+			if (myJSON.result == '1') {
+				window.location.reload();
+			}
+		}
+
+		function fb_loading_process(enabled) {
+			if(enabled) {
+				$('fb_login_btn').hide();
+				$('fb_loading_img').show();
+			} else {
+				$('fb_login_btn').show();
+				$('fb_loading_img').hide();
+			}
+		}
+
+		function facebook_publish_feed_story(tempalteData, templateBoundleId) {
+			// Load the feed form
+			FB.ensureInit(function() {
+				if(tempalteData && templateBoundleId) {
+					tempalteData = eval('('+tempalteData+')');
+					FB.Connect.showFeedDialog(templateBoundleId, tempalteData, null, null, FB.FeedStorySize.shortStory, FB.RequireConnect.promptConnect);
+					// hide the "Loading feed story ..." div
+					if($('feed_loading')) {
+						$('feed_loading').style.visibility = "hidden";
+					}
+				}
+			});
+		}
+
+		// fb_connect
+		/////////////////////////////////////////////////////////////////////////////////
+
 	</script>
 
 
@@ -97,28 +302,44 @@
 
 <div class="white" id="main_container">
   <div class="headerdiv" id="header">
-	
-<div style="float:left; width: 20%;">
-	<div class="logo"><a href="http://www.mineeds.com"><img src="images/logo.gif" alt="miNeeds" border="0"></a></div>
+	<div class="floatl" style="width: 20%;">
+	<div class="logo">
+		<a href="http://www.mineeds.com/"><img class="vmiddle" src="images/logo.gif" alt="miNeeds" border="0"></a>
 	</div>
-<div style="float:left; width: 80%;">
-	<div class="menu" style="text-align: right;">
-		<div style="float:left;width: 410px;"><a href="/contest" style="font-size: 15px; color: #0099CC;"><b><u>View MiNeeds KidStar Contest</u></b></a></div>
-		<div style="padding:10px 10px 0 0;">
-			<a style="vertical-align:middle; color:#42C355; font-size: 15px; font-weight: bold;margin:0pt 10px;" href="http://www.mineeds.com/pages/sp_howitworks.html">You have a service to offer?
-			<img style="vertical-align:middle;" src="images/howitworks.gif" border="0"></a>
-		</div>
+</div>
+<div class="floatl" style="width: 80%;">
+	<div class="menu" style="height: 41px;">
+			
+		<div class="service-to-offer">
+			<a href="http://www.mineeds.com/pages/mineeds-benefits-professionals">You have a service to offer?
+			<img class="vmiddle" src="images/howitworks.gif" border="0"></a>
+		</div>	
 	</div>
-	<div>
+	<div class="clearb">
 		<div class="menu_div">
-			<a href="http://www.mineeds.com" style="margin-top:14px;background:url(images/nav-blue.gif);">Home</a>
-			<a href="http://www.mineeds.com/post_need" style="margin-top:14px;background:url(images/nav-blue.gif);">Post Your Need</a>
-			<a href="http://www.mineeds.com/Seattle-Washington-Services" style="margin-top:14px;background:url(images/nav-blue.gif);">Search Services</a>
-			<a href="http://www.mineeds.com/Seattle-Washington-Needs" style="margin-top:14px;background:url(images/nav-blue.gif);">Search Needs</a>
+			<a title="Home" href="http://www.mineeds.com/" style="background:
+																	  																	  	  url(images/nav-blue-99.gif) no-repeat;;
+																	  ">Home</a>
+
+			<a title="Post Your Need" href="http://www.mineeds.com/post_need/1" style="width: 130px;background:
+																																									url(images/nav-blue.gif);
+																				">Post Your Need</a>
+
+			<a title="Find Professionals" href="http://www.mineeds.com/Seattle-Washington-Services" style="width:130px;background:
+																															   																															       url(images/nav-blue.gif);
+																															   ">Find Professionals</a>
+
+			<a title="Search Needs" href="http://www.mineeds.com/Seattle-Washington-Needs" style="background:
+																																																															url(images/nav-blue-99.gif);
+																															">Needs</a>
+																															
+			<a title="Ask The Experts" href="http://www.mineeds.com/ask_experts" style="width:130px;background:
+																																																															url(images/nav-blue.gif);
+																															">Ask The Experts</a>																															
 			<b class="clearl"></b>
 		</div>
 		<div style="padding:0;" id="header_login_area">
-						
+							
 <script language="JavaScript" type="text/javascript" src="js/modalwindow.js"></script>
 <script language="javascript" src="js/infomessage.js"></script>
 <script language="javascript">
@@ -128,7 +349,7 @@ var onregister_reload = 0;
 
 var signupFormLoaded = 0;
 
-function showSignupEndUser(force, positionSource) {
+function showSignupEndUser(force, /*positionSource*/loginMessage) {
 	if (typeof(force) == 'undefined')
 		var force = false;
 	if ($('forgot_password_box')) $('forgot_password_box').hide();
@@ -139,9 +360,18 @@ function showSignupEndUser(force, positionSource) {
 
 			/*if (typeof(positionSource) != 'undefined')
 				Position.clone(positionSource, 'signup_box', {setWidth: false, setHeight: false});*/
-			var opt = {
-				method: 'post',
-				onSuccess: showSignupEndUserForm
+			
+			if (typeof(loginMessage) != 'undefined') {
+				var opt = {
+						method: 'post',
+						parameters: 'message='+loginMessage,
+						onSuccess: showSignupEndUserForm
+				}			
+			} else {
+				var opt = {
+						method: 'post',
+						onSuccess: showSignupEndUserForm
+					}
 			}
 
 			new Ajax.Request('ajax/signup_prepare.php', opt);
@@ -157,6 +387,11 @@ function showSignupEndUser(force, positionSource) {
 			});
 			if ($('signup_message'))
 				$('signup_message').hide();
+			if (typeof(loginMessage) != 'undefined') {
+				$('login_message').update(loginMessage);		
+			} else {
+				$('login_message').update('');
+			}
 			$('signup_box').show();
 			$('signup_box').scrollTo();
 		}
@@ -170,6 +405,11 @@ function showSignupEndUserForm(t) {
 	var myJSON = eval('(' + t.responseText + ')');
 	if (myJSON.result == 1) {
 		$('signup_content').update(myJSON.content);
+		if (myJSON.message) {
+			$('login_message').update(myJSON.message);
+		} else {
+			$('login_message').update('');
+		}
 		signupFormLoaded = 1;
 		$('signup_box').scrollTo();
 	}
@@ -212,7 +452,8 @@ function signupEndUser(formId) {
 				var SignupMessage = new InfoMessage('SignupMessage', 'signup_message', formId, errorHTML, 'message_area_error', {autoClose: false});
 			}
 			else {
-				//$('rightBlock').update(myJSON.header_tpl);
+				// track registration.
+				pageTracker._trackPageview("/user_registration_success");
 				if(window.location.pathname == '/') {
 					window.location.href = '/profile/'+myJSON.user_id;
 					return true;
@@ -282,9 +523,13 @@ function showForgotPassword() {
   }
 </script>
 
-
-<div class="menu" style="padding: 14px 0pt 0pt 0px;" id="rightBlock">
-<a style="cursor:pointer;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false"><strong id="login-or-reg">Login or Register</strong></a>
+<div class="menu" id="rightBlock">
+	<div style="position: absolute; margin-top: -30px; margin-left: -23px;">
+		<fb:login-button size="medium" length="long" onlogin="fbConnectSteps();"></fb:login-button>
+	</div>
+	<a style="cursor:pointer;margin: 0;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">
+		<strong id="login-or-reg">Login or Register</strong>
+	</a>
 </div>
 						<b class="clearl"></b>
 		</div>
@@ -296,80 +541,75 @@ function showForgotPassword() {
 <a href="http://www.mineeds.com">Home</a> &gt; <strong>MiNeeds Privacy Policy</strong></div>
 <div class="leftcolumn2">
 <div class="sticker_blue">
-<h3 style="MARGIN-TOP: 0pt">For Consumers</h3>
+<h3 style="margin-top: 0pt;">For Consumers</h3>
 <div class="menu_ul3"><a href="pages/howitworks.html">How It Works</a></div>
-<div class="menu_ul3"><a href="pages/howisitfree.html">How Is MiNeeds 100% Free?</a></div>
 <div class="menu_ul3_s"><a href="pages/privacy.html">Privacy Policy</a></div>
 <br>
 <br>
 <div class="menu_ul3"><a href="pages/sp_howitworks.html">For Service Providers</a></div>
 </div>
 </div>
-<div></div>
-<div></div>
-<div></div>
 <div class="rightcolumn2">
-<div style="TEXT-ALIGN: center">
+<div style="text-align: center;">
 <h2>Privacy Policy</h2>
 </div>
-<p dir="ltr" style="TEXT-JUSTIFY: kashida; BACKGROUND: white; LINE-HEIGHT: 121%; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%" align="center"><span style="FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 121%; FONT-FAMILY: 'Arial','sans-serif'">Date of Last Revision: <span style="BACKGROUND: yellow; mso-highlight: yellow"><font style="BACKGROUND-COLOR: #ffffff">October 11, 2007.</font></span><o:p></o:p></span></p>
-<p dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds LLC. ("MiNeeds") welcomes you.<span style="mso-spacerun: yes">&nbsp; </span>MiNeeds Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by MiNeeds anytime you interact with MiNeeds, including but limited to, browsing, registration, usage, purchasing, searching, bidding, providing and posting personal information, multimedia, advertising, listings, various communication tools, and forums.<span style="mso-spacerun: yes">&nbsp; </span>This Policy applies to all of MiNeeds products, services, and website, including but not limited to, MiNeeds Get Filmed!, (hereinafter collectively, the "Services").<span style="mso-spacerun: yes">&nbsp; </span>MiNeeds is committed to your privacy and the protection of your information.</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">1.<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SCOPE<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">MiNeeds' Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MiNeeds, located at <a href="http://www.mineeds.com/">www.mineeds.com</a>.<span style="mso-spacerun: yes">&nbsp; </span>By using or accessing MiNeeds, you are accepting the practices described in this Privacy Policy. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; TEXT-INDENT: -0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">2.<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>INFORMATION COLLECTED AND MINEEDS' USAGE OF IT <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds offers a number of services that do not require you to register for an account or provide any personal information to us, such as MiNeeds Search. In order to provide our full range of services, we may collect the following types of information:<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.25in; DIRECTION: ltr; TEXT-INDENT: 0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Information you provide</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Detailed Search</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: You may utilize MiNeeds personalized listings and services, to browse, conduct detailed search, and view Mi Needs listings and services delineating your search data and defining your specified search.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Registration</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: When you sign up for a MiNeeds Account, service, or promotion that requires registration, we ask you for personal information, including but not limited to, email address and an account password.<span style="mso-spacerun: yes">&nbsp; </span>When you use MiNeeds services, our servers automatically record all functionality you utilize on MiNeeds, including but not limited to, viewing an offering, performing a search, placing a bid, sending an email. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request.<span style="mso-spacerun: yes">&nbsp; </span></span><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">MiNeeds may also collect information about you from other sources, such as newspapers, publications, articles, power-point presentations, photos, videos and other uploaded documents and/or multimedia in order to provide you with more useful information and a more personalized experience. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">Profile</span></strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">: You may </span><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. </span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"><o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Mi Needs</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: You may create Mi Needs and receive bids by defining your needs of services, professionals, events, products, thereby providing personal information.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Mi Offerings</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: You may utilize MiNeeds personalized listings services and create your own web page/space/offerings delineating information about yourself or your business, including but not limited to, mi Business Philosophy, mi Skill, mi Practice, mi Services and rates, mi Business hours and location, Education and Awards, Contact Information, Publications, Newspaper Articles, Pictures and Videos, plus other file attachments, thereby creating Mi Offerings and place a bid on a need (service or product), thereby delineating personal and business information and data.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level1 lfo3; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Mail</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: You may send email or other communication to MiNeeds and/or MiNeeds Users/Providers; we may retain those communications in order to process your inquiries, respond to your requests and improve our services. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list .75in; mso-margin-top-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Account</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">: You may purchase products and services provided by MiNeeds, including but not limited to, MiNeeds Get Filmed!, Marketing package, and Bidding package.<span style="mso-spacerun: yes">&nbsp; </span>For certain services, such as our advertising programs, we process all payments via PayPal.<span style="mso-spacerun: yes">&nbsp; </span>MiNeeds does not save any credit card information the user enters.<span style="mso-spacerun: yes">&nbsp; </span>PayPal handles all payment details. We may combine the information you submit under your account with information from other MiNeeds services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level1 lfo3; tab-stops: list .75in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Other sites</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">This Privacy Policy applies to web sites and services that are owned and operated by MiNeeds. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. </span><span style="COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"><o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0.25in; DIRECTION: ltr; TEXT-INDENT: 0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds Usage of Information you provide</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level1 lfo3; tab-stops: list .75in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds only processes personal information for the purposes described in the applicable Privacy Policy for specific services. In addition to the above, such purposes include:<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 1.25in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level2 lfo3; tab-stops: list 1.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Courier New'; mso-fareast-font-family: 'Courier New'"><span style="mso-list: Ignore">o<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Providing our products and services to users, including the display of customized content and targeted advertising; <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 1.25in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level2 lfo3; tab-stops: list 1.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Courier New'; mso-fareast-font-family: 'Courier New'"><span style="mso-list: Ignore">o<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Auditing, research and analysis in order to maintain, protect and improve our services; <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 1.25in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level2 lfo3; tab-stops: list 1.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Courier New'; mso-fareast-font-family: 'Courier New'"><span style="mso-list: Ignore">o<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Ensuring the technical functioning of our network; and <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 1.25in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level2 lfo3; tab-stops: list 1.25in"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Courier New'; mso-fareast-font-family: 'Courier New'"><span style="mso-list: Ignore">o<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Developing new services. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 1.25in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"><o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l1 level1 lfo3; tab-stops: list .75in"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds processes personal information on our servers in the <st1:place w:st="on"><st1:country-region w:st="on">United States of America</st1:country-region></st1:place> and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.</span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; TEXT-INDENT: -0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">4.<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SAFE USE OF MINEEDS <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 9pt; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-line-height-alt: 9.0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds takes reasonable precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 9pt; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-line-height-alt: 9.0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">It is your responsibility to provide accurate and complete personal and/or business information.<span style="mso-spacerun: yes">&nbsp; </span></span><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"><span style="mso-spacerun: yes">&nbsp; </span>You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">In order to provide superior service, your personal information may be shared with <span style="COLOR: black">employees, contractors and agents of MiNeeds, who need to know that information in order to operate, develop or improve our services</span> who will take steps to safeguard it in accordance with MiNeeds' privacy policy and <span style="COLOR: black">are bound by confidentiality obligations under in accordance with this policy.<o:p></o:p></span></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Choices for personal information</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">You can decline to submit personal information to any of our services, in which case MiNeeds may not be able to provide those services to you. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 9pt; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-outline-level: 3; mso-margin-top-alt: auto; mso-line-height-alt: 9.0pt"><strong><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">Children under the age of 13<o:p></o:p></span></strong></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-BOTTOM: 9pt; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-line-height-alt: 9.0pt"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">MiNeeds does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. No one under age 13 may provide any personal information to or on MiNeeds. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as soon as possible. If you believe that we might have any information from or about a child, please contact us at </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"><a href="mailto:privacy@mineeds.com">privacy@mineeds.com</a>.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">Children between the ages of 13 and 18<o:p></o:p></span></strong></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN">We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet<strong>.<o:p></o:p></strong></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Information sharing</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds only shares personal information with other companies or individuals outside of MiNeeds in the following limited circumstances: <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l2 level1 lfo2; tab-stops: list .75in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We have your consent. We require opt-in consent for the sharing of any sensitive personal information. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l2 level1 lfo2; tab-stops: list .75in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.75in; DIRECTION: ltr; TEXT-INDENT: -0.25in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-list: l2 level1 lfo2; tab-stops: list .75in; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt"><span style="mso-list: Ignore">·<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of MiNeeds, its users or the public as required or permitted by law. </span><span style="COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"><o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">If MiNeeds becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Information security</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">We restrict access to personal information to MiNeeds employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Data integrity</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Accessing and updating personal information</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">When you use MiNeeds services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Enforcement</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">MiNeeds regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MiNeeds's treatment of personal information by contacting us at </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"><a href="mailto:privacy@mineeds.com">privacy@mineeds.com</a><span style="COLOR: black"> through this web site or by writing to us at Privacy Matters, c/o MiNeeds Inc., </span><st1:address w:st="on"><st1:street w:st="on">524 5<sup>th</sup> Ave W Suite 203</st1:street> <st1:city w:st="on">Seattle</st1:city>, <st1:state w:st="on">Washington</st1:state><span style="COLOR: black">, <st1:postalcode w:st="on">98119</st1:postalcode>, <st1:country-region w:st="on">USA</st1:country-region></span></st1:address><span style="COLOR: black">. When we receive formal written complaints at this address, it is MiNeeds's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MiNeeds and an individual. <o:p></o:p></span></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; TEXT-INDENT: 0.5in; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">Changes to this policy</span></strong><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'"> <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span lang="EN" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Tahoma','sans-serif'; mso-ansi-language: EN">Your use of MiNeeds, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. <o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; MARGIN-LEFT: 0.5in; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Arial','sans-serif'">If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o MiNeeds LLC., </span><st1:address w:st="on"><st1:street w:st="on"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'">524 5<sup>th</sup> Ave W Suite 203</span></st1:street><span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"> <st1:city w:st="on">Seattle</st1:city>, <st1:state w:st="on">Washington</st1:state><span style="COLOR: black">, <st1:postalcode w:st="on">98119</st1:postalcode>, <st1:country-region w:st="on">USA</st1:country-region></span></span></st1:address><span style="mso-bidi-language: AR-KW">.<o:p></o:p></span></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><o:p>&nbsp;</o:p></p>
-<p class="MsoNormal" dir="ltr" style="TEXT-JUSTIFY: kashida; DIRECTION: ltr; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><span style="mso-bidi-language: AR-KW"><o:p>&nbsp;</o:p></span></p>
-<div></div>
+<p align="center" style="background: white none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; line-height: 121%; text-align: justify;" dir="ltr"><span style="font-size: 10pt; color: rgb(51, 51, 51); line-height: 121%; font-family: 'Arial','sans-serif';">Date of Last Revision: December <span style="background: yellow none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;"><font style="background-color: rgb(255, 255, 255);">18, 2008.</font></span><o:p></o:p></span></p>
+<p style="margin-left: 0.5in; text-align: justify;" dir="ltr"><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">MiNeeds Inc. ("MiNeeds") welcomes you.<span style="">&nbsp; </span>MiNeeds Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by MiNeeds anytime you interact with MiNeeds, including but limited to, browsing, registration, usage, purchasing, searching, bidding, providing and posting personal information, multimedia, advertising, listings, various communication tools, and forums.<span style="">&nbsp; </span>This Policy applies to all of MiNeeds products, services, and website, including but not limited to, MiNeeds Get Filmed!, (hereinafter collectively, the "Services").<span style="">&nbsp; </span>MiNeeds is committed to your privacy and the protection of your information.</span><span style="font-size: 9pt; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">1.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SCOPE<o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">MiNeeds' Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MiNeeds, located at <a href="http://www.mineeds.com/">www.mineeds.com</a>.<span style="">&nbsp; </span>By using or accessing MiNeeds, you are accepting the practices described in this Privacy Policy. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; text-indent: -0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">2.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>INFORMATION COLLECTED AND MINEEDS' USAGE OF IT <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds offers a number of services that do not require you to register for an account or provide any personal information to us, such as MiNeeds Search. In order to provide our full range of services, we may collect the following types of information:<o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.25in; direction: ltr; text-indent: 0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Information you provide</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Detailed Search</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: You may utilize MiNeeds personalized listings and services, to browse, conduct detailed search, and view Mi Needs listings and services delineating your search data and defining your specified search.<o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Registration</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: When you sign up for a MiNeeds Account, service, or promotion that requires registration, we ask you for personal information, including but not limited to, email address and an account password.<span style="">&nbsp; </span>When you use MiNeeds services, our servers automatically record all functionality you utilize on MiNeeds, including but not limited to, viewing an offering, performing a search, placing a bid, sending an email. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request.<span style="">&nbsp; </span></span><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">MiNeeds may also collect information about you from other sources, such as newspapers, publications, articles, power-point presentations, photos, videos and other uploaded documents and/or multimedia in order to provide you with more useful information and a more personalized experience. <o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Profile</span></strong><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">: You may </span><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. </span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"><o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Mi Needs</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: You may create Mi Needs and receive bids by defining your needs of services, professionals, events, products, thereby providing personal information.<o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Mi Offerings</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: You may utilize MiNeeds personalized listings services and create your own web page/space/offerings delineating information about yourself or your business, including but not limited to, mi Business Philosophy, mi Skill, mi Practice, mi Services and rates, mi Business hours and location, Education and Awards, Contact Information, Publications, Newspaper Articles, Pictures and Videos, plus other file attachments, thereby creating Mi Offerings and place a bid on a need (service or product), thereby delineating personal and business information and data.<o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Mail</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: You may send email or other communication to MiNeeds and/or MiNeeds Users/Providers; we may retain those communications in order to process your inquiries, respond to your requests and improve our services. <o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Account</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">: You may purchase products and services provided by MiNeeds, including but not limited to, MiNeeds Get Filmed!, Marketing package, and Bidding package.<span style="">&nbsp; </span>For certain services, such as our advertising programs, we process all payments via PayPal.<span style="">&nbsp; </span>MiNeeds does not save any credit card information the user enters.<span style="">&nbsp; </span>PayPal handles all payment details. We may combine the information you submit under your account with information from other MiNeeds services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Other sites</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">This Privacy Policy applies to web sites and services that are owned and operated by MiNeeds. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. </span><span style="color: black; font-family: 'Arial','sans-serif';"><o:p></o:p></span></p>
+<p style="margin-bottom: 12pt; margin-left: 0.25in; direction: ltr; text-indent: 0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds Usage of Information you provide</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds only processes personal information for the purposes described in the applicable Privacy Policy for specific services. In addition to the above, such purposes include:<o:p></o:p></span></p>
+<p style="margin-left: 1.25in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Courier New';"><span style="">o<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Providing our products and services to users, including the display of customized content and targeted advertising; <o:p></o:p></span></p>
+<p style="margin-left: 1.25in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Courier New';"><span style="">o<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Auditing, research and analysis in order to maintain, protect and improve our services; <o:p></o:p></span></p>
+<p style="margin-left: 1.25in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Courier New';"><span style="">o<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Ensuring the technical functioning of our network; and <o:p></o:p></span></p>
+<p style="margin-left: 1.25in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Courier New';"><span style="">o<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Developing new services. <o:p></o:p></span></p>
+<p style="margin-left: 1.25in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"><o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds processes personal information on our servers in the <st1:place w:st="on"><st1:country-region w:st="on">United States of America</st1:country-region></st1:place> and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.</span></p>
+<p style="margin-left: 0.5in; direction: ltr; text-indent: -0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">4.<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SAFE USE OF MINEEDS <o:p></o:p></span></p>
+<p style="margin-bottom: 9pt; margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">MiNeeds takes reasonable precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.<o:p></o:p></span></p>
+<p style="margin-bottom: 9pt; margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">It is your responsibility to provide accurate and complete personal and/or business information.<span style="">&nbsp; </span></span><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join.</span><span style="font-size: 10pt; font-family: 'Arial','sans-serif';"><span style="">&nbsp; </span>You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.<o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">In order to provide superior service, your personal information may be shared with <span style="color: black;">employees, contractors and agents of MiNeeds, who need to know that information in order to operate, develop or improve our services</span> who will take steps to safeguard it in accordance with MiNeeds' privacy policy and <span style="color: black;">are bound by confidentiality obligations under in accordance with this policy.<o:p></o:p></span></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Choices for personal information</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">You can decline to submit personal information to any of our services, in which case MiNeeds may not be able to provide those services to you. <o:p></o:p></span></p>
+<p style="margin-bottom: 9pt; direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">Children under the age of 13<o:p></o:p></span></strong></p>
+<p style="margin-bottom: 9pt; margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">MiNeeds does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. No one under age 13 may provide any personal information to or on MiNeeds. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as soon as possible. If you believe that we might have any information from or about a child, please contact us at </span><span style="font-size: 10pt; font-family: 'Arial','sans-serif';"><a href="mailto:privacy@mineeds.com">privacy@mineeds.com</a>.<o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">Children between the ages of 13 and 18<o:p></o:p></span></strong></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span lang="EN" style="font-size: 10pt; font-family: 'Arial','sans-serif';">We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet<strong>.<o:p></o:p></strong></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Information sharing</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds only shares personal information with other companies or individuals outside of MiNeeds in the following limited circumstances: <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We have your consent. We require opt-in consent for the sharing of any sensitive personal information. <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. <o:p></o:p></span></p>
+<p style="margin-left: 0.75in; direction: ltr; text-indent: -0.25in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: Symbol;"><span style="">·<span style="font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of MiNeeds, its users or the public as required or permitted by law. </span><span style="color: black; font-family: 'Arial','sans-serif';"><o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">If MiNeeds becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. <o:p></o:p></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Information security</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">We restrict access to personal information to MiNeeds employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. <o:p></o:p></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Data integrity</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. <o:p></o:p></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Accessing and updating personal information</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">When you use MiNeeds services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. <o:p></o:p></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Enforcement</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">MiNeeds regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MiNeeds's treatment of personal information by contacting us at </span><span style="font-size: 10pt; font-family: 'Arial','sans-serif';"><a href="mailto:privacy@mineeds.com">privacy@mineeds.com</a><span style="color: black;"> through this web site or by writing to us at Privacy Matters, c/o MiNeeds Inc., </span><st1:address w:st="on"><st1:street w:st="on">600 1st Ave Suite #428,</st1:street> <st1:city w:st="on">Seattle</st1:city>, <st1:state w:st="on">Washington</st1:state><span style="color: black;">, <st1:postalcode w:st="on">98104</st1:postalcode>, <st1:country-region w:st="on">USA</st1:country-region></span></st1:address><span style="color: black;">. When we receive formal written complaints at this address, it is MiNeeds's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MiNeeds and an individual. <o:p></o:p></span></span></p>
+<p style="direction: ltr; text-indent: 0.5in; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">Changes to this policy</span></strong><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';"> <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span lang="EN" style="font-size: 10pt; font-family: 'Tahoma','sans-serif';">Your use of MiNeeds, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. <o:p></o:p></span></p>
+<p style="margin-left: 0.5in; direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style="font-size: 10pt; color: black; font-family: 'Arial','sans-serif';">If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o MiNeeds Inc., </span><st1:address w:st="on"><st1:street w:st="on"><span style="font-size: 10pt; font-family: 'Arial','sans-serif';">600 1st Ave Suite #428,</span></st1:street><span style="font-size: 10pt; font-family: 'Arial','sans-serif';"> <st1:city w:st="on">Seattle</st1:city>, <st1:state w:st="on">Washington</st1:state><span style="color: black;">, <st1:postalcode w:st="on">98104</st1:postalcode>, <st1:country-region w:st="on">USA</st1:country-region></span></span></st1:address><span style="">.<o:p></o:p></span></p>
+<p style="direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="direction: ltr; unicode-bidi: embed; text-align: justify;" dir="ltr" class="MsoNormal"><span style=""><o:p>&nbsp;</o:p></span></p>
 </div>
     <p>&nbsp;</p>
     <div class="footerdiv">
@@ -387,8 +627,10 @@ function showForgotPassword() {
 	  </div>
   -->
 <div>
-  <div class="copyright" style="padding: 10px;"> © 2008 miNeeds.com. All rights reserved<br>
-    <a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-of-use.html">Terms of Use</a>
+
+  <div class="copyright" style="padding: 10px;"> © 2009 miNeeds.com. All rights reserved<br>
+
+    <a href="http://www.mineeds.com/pages/privacy.html">Privacy policy</a> | <a href="http://www.mineeds.com/pages/terms-use">Terms of Use</a>
   </div>
   <div style="float:right;"><a href="http://alaskaoregonwesternwashington.bbb.org/WWWRoot/Report.aspx?site=114&amp;bbb=1296&amp;firm=22425655"><img src="images/BBB_Blue_FooterSize2.jpg" border="0"></a></div>
   <div style="clear:both"></div>
@@ -396,40 +638,40 @@ function showForgotPassword() {
 
 	  <div class="footer" style="margin-top: -20px;">
 	    <strong>Site Links: </strong>
-		<a href="pages/AboutMiNeeds.html">About Us</a> &nbsp;|
-		<a href="pages/contact.html">Contact Us</a> &nbsp;|
+		<a href="http://www.mineeds.com/pages/about-mineeds">About Us</a> &nbsp;|
+		<a href="http://www.mineeds.com/pages/contact-us">Contact Us</a> &nbsp;|
 		<a href="http://www.mineeds.com/blog">Blog</a> &nbsp;|
-		<a href="pages/Press.html">Press</a>
+		<a href="http://www.mineeds.com/pages/press">Press</a>
 		<div style="font-size:10px;padding-top:10px;">
 <span style="font-size:12px;"><b>Categories: </b></span>
 
-<a href="Seattle-Washington-Services/Home-Repair-General-Contractors" style="font-size:10px;">Home Contractors</a> |
-<a href="Seattle-Washington-Services/Lawyers-Attorneys" style="font-size:10px;">Attorneys</a> |
-<a href="Seattle-Washington-Services/Massage-Therapists" style="font-size:10px;">Massage Therapists</a> |
-<a href="Seattle-Washington-Services/Photographers-Photography" style="font-size:10px;">Photographers</a> |
-<a href="Seattle-Washington-Services/Accountants-CPA" style="font-size:10px;">Accountants</a> |
-<a href="Seattle-Washington-Services/Fitness-Trainers-Fitness-Centers" style="font-size:10px;">Fitness Trainers</a> |
-<a href="Seattle-Washington-Services/Cleaning-Services-Maids" style="font-size:10px;">Cleaning Services</a> |
-<a href="Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair</a> |
-<a href="Seattle-Washington-Services/Wedding-Event-Services" style="font-size:10px;">Wedding Services</a> |
-<a href="all_categories" style="font-size:10px;">All Categories</a> |
-<a href="http://resources.mineeds.com/" style="font-size: 10px;">Resources</a>
+<a title="Home Contractors in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Home-Repair-General-Contractors" style="font-size:10px;">Home Contractors</a> |
+<a title="Attorneys in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Lawyers-Attorneys" style="font-size:10px;">Attorneys</a> |
+<a title="Massage Therapists in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Massage-Therapists" style="font-size:10px;">Massage Therapists</a> |
+<a title="Photographers in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Photographers-Photography" style="font-size:10px;">Photographers</a> |
+<a title="Accountants in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Accountants-CPA" style="font-size:10px;">Accountants</a> |
+<a title="Fitness Trainers in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Fitness-Trainers-Fitness-Centers" style="font-size:10px;">Fitness Trainers</a> |
+<a title="Cleaning Services in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Cleaning-Services-Maids" style="font-size:10px;">Cleaning Services</a> |
+<a title="Auto Repair in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair</a> |
+<a title="Wedding Services in Seattle" href="http://www.mineeds.com/Seattle-Washington-Services/Wedding-Event-Services" style="font-size:10px;">Wedding Services</a> |
+<a title="All Categories in Seattle" href="http://www.mineeds.com/all_categories" style="font-size:10px;">All Categories</a> |
+<a title="Resources in Seattle" href="http://resources.mineeds.com/" style="font-size:10px;">Resources</a>
 </div>
 
 		<div style="font-size:10px;padding-top:10px;">
 <span style="font-size:12px;"><b>Cities: </b></span>
 
-<a href="/Seattle-Washington-Services" style="font-size:10px;">Seattle</a> |
-<a href="/San+Francisco-California-Services" style="font-size:10px;">San Francisco</a> |
-<a href="/Austin-Texas-Services" style="font-size:10px;">Austin</a> |
-<a href="/Chicago-Illinois-Services" style="font-size:10px;">Chicago</a> |
-<a href="/Dallas-Texas-Services" style="font-size:10px;">Dallas</a> |
-<a href="/Los+Angeles-California-Services" style="font-size:10px;">Los Angeles</a> |
-<a href="/Portland-Oregon-Services" style="font-size:10px;">Portland</a> |
-<a href="/San+Diego-California-Services" style="font-size:10px;">San Diego</a> |
-<a href="/San+Jose-California-Services" style="font-size:10px;">San Jose</a> |
-<a href="/New+York-New+York-Services" style="font-size:10px;">New York</a> |
-<a href="/more_cities" style="font-size:10px;">More Cities</a>
+<a title="Seattle Local Services" href="http://www.mineeds.com/Seattle-Washington-Services" style="font-size:10px;">Seattle</a> |
+<a title="San Francisco Local Services" href="http://www.mineeds.com/San+Francisco-California-Services" style="font-size:10px;">San Francisco</a> |
+<a title="Austin Local Services" href="http://www.mineeds.com/Austin-Texas-Services" style="font-size:10px;">Austin</a> |
+<a title="Chicago Local Services" href="http://www.mineeds.com/Chicago-Illinois-Services" style="font-size:10px;">Chicago</a> |
+<a title="Dallas Local Services" href="http://www.mineeds.com/Dallas-Texas-Services" style="font-size:10px;">Dallas</a> |
+<a title="Los Angeles Local Services" href="http://www.mineeds.com/Los+Angeles-California-Services" style="font-size:10px;">Los Angeles</a> |
+<a title="Portland Local Services" href="http://www.mineeds.com/Portland-Oregon-Services" style="font-size:10px;">Portland</a> |
+<a title="San Diego Local Services" href="http://www.mineeds.com/San+Diego-California-Services" style="font-size:10px;">San Diego</a> |
+<a title="San Jose Local Services" href="http://www.mineeds.com/San+Jose-California-Services" style="font-size:10px;">San Jose</a> |
+<a title="New York Local Services" href="http://www.mineeds.com/New+York-New+York-Services" style="font-size:10px;">New York</a> |
+<a href="http://www.mineeds.com/more_cities" style="font-size:10px;">More Cities</a>
 </div>
 	  </div>
   <div style="clear:both"></div>
@@ -439,11 +681,58 @@ function showForgotPassword() {
 
 </div>
 </div>
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
-	<script type="text/javascript">
-	_uacct = "UA-2472393-1";
-	urchinTracker();
-	</script>
+	<script type="text/javascript">  FB.init("603f517b71a1c02528fa7eb92d83573d", "/fb_connect"); </script>
+		
+		<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 
+		<script type="text/javascript">
+			function _uGC(l,n,s) {
+			   // used to obtain a value form a string of key=value pairs
+			   if (!l || l=="" || !n || n=="" || !s || s=="") return "";
+			   var i,i2,i3,c="";
+			   i=l.indexOf(n);
+			   i3=n.indexOf("=")+1;
+			   if (i > -1) {
+				  i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+				  c=l.substring((i+i3),i2);
+			   }
+			   return c;
+			}
+
+			function checkFirst(){
+			   // check if this is a first time visitor
+			   newVisitor = 0;
+			   var myCookie = "" + document.cookie + ";";
+			   var searchName = "__utma=";
+			   var startOfCookie = myCookie.indexOf(searchName)
+			   if (startOfCookie == -1) {   // i.e. first time visitor
+				  newVisitor = 1;
+			   }
+			}
+
+		function grabReferrer(){
+			// grab campaign and referrer info from the _utmz cookie
+			if (newVisitor) {
+				var z = _uGC(document.cookie, "__utmz=", ";");
+				urchin_source = _uGC(z,"utmcsr=", "|");
+				urchin_medium = _uGC(z,"utmcmd=", "|");
+				urchin_keyword = _uGC(z,"utmctr=", "|");
+				urchin_campaign = _uGC(z,"utmccn=", "|");
+				// add a goolge to the variables-LaryS
+				var gclid = _uGC(z,"utmgclid=","|");
+					pageTracker._setVar("utmcsr=" + urchin_source + "|utmccn=" + urchin_campaign+ "|utmcmd=" + urchin_medium + "|utmctr=" +urchin_keyword); // expand initial referrer data to capture med,term, and source- LaryS
+				}
+		}
+		</script>
+
+		<script type="text/javascript">
+		       checkFirst();        // checks if this is a new visitor// Moved to execute befire the _getTracker function- LaryS
+			   var pageTracker = _gat._getTracker("UA-2472393-1");
+			   pageTracker._initData();
+			   pageTracker._trackPageview();
+			   grabReferrer();      // Grab referrer info
+
+		</script>
+		
+	
 </body></html>
