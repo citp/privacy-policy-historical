@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064810id_/http%3A//www.click2mail.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613042732id_/http%3A//www.click2mail.com/privacy_policy) for the most accurate reproduction.*
 
 # Click to Mail - Privacy Policy
 
-[Click2Mail](http://www.click2mail.com/) > Privacy Policy
+[Click2Mail](http://click2mail.com/) > Privacy Policy
 
 Privacy Policy
 
