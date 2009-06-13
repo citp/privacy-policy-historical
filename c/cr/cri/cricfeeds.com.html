@@ -1,0 +1,750 @@
+<!--The following is the downloaded HTML source of the cricfeeds.com privacy policy that was archived on 2009-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090613055049id_/http%3A//cricfeeds.com/cricfeeds_privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Cricfeeds.com -- Terms of service</title>
+<link rel="shortcut icon" href="http://www.cricfeeds.com/favicon.ico">
+<link rel="stylesheet" type="text/css" href="css/cricfeeds-homepage.css">
+<style type="text/css">
+	.errorcls
+		{
+			background:#FF0000;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:11px;
+			color:#FFFFFF;
+			padding-left:2px;
+			text-align:left;
+		}
+	.okmsg
+		{
+			background:#FFFF33;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:11px;
+			color:#000000;
+			padding-left:2px;
+			text-align:left;
+		}		
+</style>
+<script type="text/javascript" src="js/drag.js"></script>
+<script type="text/javascript" src="js/jquery-1.2.6.js"></script>
+<script type="text/javascript">
+   $(document).ready(function()
+   {
+   		$("#cricfeeds-signup").click(function(event)
+		{	
+			var x = event.clientX;
+			var y = event.clientY;	 
+			x= x-380;	
+				
+			if($("#window").css("display")=="none")
+			{
+				$("#cricfeeds_login").hide();
+				$("#window").css("left",x);
+				//$("#window").show("slow");
+				$("#window").slideToggle("slow");
+			}
+			else
+			{
+				$("#cricfeeds_login").hide();
+				$("#window").slideToggle("slow");
+				//$("#window").hide("slow");
+			}
+		});
+   }); 
+   $(document).ready(function()
+   {
+   		$("#cricfeeds_signin").click(function(event)
+		{
+			var x1 = event.clientX;
+			var y1 = event.clientY;			
+			x1 = x1-400;
+		  if($("#cricfeeds_login").css("display")=="none")
+		  {
+			if($("#window").css("display")=="block")
+			{				
+				//$("#window").css("display","none");
+				$("#window").hide();
+				//$("#cricfeeds_login").css("display","block");	
+				$("#cricfeeds_login").css("left",x1);
+				$("#cricfeeds_login").slideToggle("slow");
+				//$("#cricfeeds_login").show();
+			}
+			else
+			{
+				//$("#cricfeeds_login").css("display","block");	
+				$("#cricfeeds_login").css("left",x1);
+				//$("#cricfeeds_login").show();
+				$("#cricfeeds_login").slideToggle("slow");
+			}
+		  }
+		  else
+		  {
+		  	//$("#cricfeeds_login").css("display","none");	
+			//$("#cricfeeds_login").hide();
+			$("#cricfeeds_login").slideToggle("slow");
+		  }	
+		  
+		  return false;
+			
+		});
+   });
+   
+   
+   $(document).ready(function()
+   {
+   		$("#reload_captcha").click(function()
+   		{
+   			//alert("ok");
+			var ran = Math.round(Math.random()*1000);
+			$("#captcha").attr('src','');
+   			$("#captcha").attr('src','http://cricfeeds.com/captcha.php?rand='+ran).show('slow');
+   		});	
+   });
+   
+   $(document).ready(function()
+   {
+   	$("#feedlogin").click(function()
+	{
+		if($("#username").val()=='')
+		{
+			$("#username").focus();
+			$("#loginmsgs").show("slow");
+			$("#loginmsgs").addClass("errorcls");
+			$("#loginmsgs").html('<img src="images/cancel.png" border="0"  />'+"pleae eneter your username");
+			setTimeout("$('#loginmsgs').hide('slow')",8000);
+			
+		}
+		else if($("#userpass").val()=='')
+		{
+			$("#userpass").focus();
+			$("#loginmsgs").show("slow");
+			$("#loginmsgs").addClass("errorcls");
+			$("#loginmsgs").html('<img src="images/cancel.png" border="0"  />'+"pleae eneter your password");
+			setTimeout("$('#loginmsgs').hide('slow')",8000);
+			
+		}
+		else
+		{
+			$.post("authentication.php",
+			{
+				username:$("#username").val(),
+				password:$("#userpass").val()
+			},
+			function(res)
+			{			
+				if(res.indexOf("inactive")!=-1)
+				{
+					$("#loginmsgs").show("slow");
+					$("#loginmsgs").addClass("errorcls");
+					$("#loginmsgs").html('<img src="images/cancel.png" border="0"  />'+"Your request is under consideration..!");
+					setTimeout("$('#loginmsgs').hide('slow')",8000);
+					
+				}
+				else if(res.indexOf("Invalid")!=-1)
+				{
+					$("#loginmsgs").show("slow");
+					$("#loginmsgs").addClass("errorcls");
+					$("#loginmsgs").html('<img src="images/cancel.png" border="0"  />'+"Invalid username and password..!");
+					setTimeout("$('#loginmsgs').hide('slow')",8000);
+				}
+				else
+				{
+					var v = res;								
+					var fsrc = "http://"+v+"/user/vAuthenticate.php";
+					$("#loginmsgs").addClass("okmsg");
+					$("#loginmsgs").show('slow');
+					$("#loginmsgs").html('<img src="images/ok.png" border="0"  />'+"Site loading....");
+					setTimeout("$('#loginmsgs').hide('slow')",4000);
+					//alert(fsrc);
+					//$("#loginmsgs").html(v);				
+					
+					//alert(document.getElementById("userframe").document.getElementById("adminForm").action);<br>
+					window.frames["userframe"].document.getElementById("adminForm").setAttribute("action",fsrc);
+					window.frames["userframe"].document.getElementById("username").value =$("#username").val();									
+					window.frames["userframe"].document.getElementById("password").value =$("#userpass").val();		
+					window.frames["userframe"].document.adminForm.submit();							
+					
+				}	
+			});
+		}
+		
+	});
+   });
+   
+   $(document).ready(function()
+   {
+   	  $("#newsignup").click(function()
+	  {
+	  		if($("#siteurl").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter your site url');
+				//$("#errormsges").html("");
+				$("#siteurl").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#uname").html()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter affiliate id');
+				$("#siteurl").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#email").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter your Email id');
+				$("#email").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#password").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter a password');
+				$("#password").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#rpassword").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter a confirm password');
+				$("#rpassword").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#password").val()!=$("#rpassword").val())
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please check your confirm password');
+				$("#rpassword").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("#topCategoryId").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please select what kind of site is it?');
+				$("#topCategoryId").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			else if($("input[type='checkbox'][@name='iag']:checked").length==0)
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please agree terms and conditions.');
+				$("#iag").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}
+			/*else if($("#securityImageText").val()=='')
+			{
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter the captcha code');
+				$("#securityImageText").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}*/
+			else
+			{
+				$.post("user/process.php",
+				{
+					siteurl:$("#siteurl").val(),
+					uname:$("#uname").html(),
+					email:$("#email").val(),
+					password:$("#password").val(),
+					rpassword:$("#rpassword").val(),
+					category:$("#topCategoryId").val(),
+					agree:"1"
+					//captcha:$("#securityImageText").val()
+				},
+				function(res)
+				{
+					if(res.indexOf("Thank")!=-1)
+					{
+						$("#errormsges").addClass("okmsg");
+						$("#errormsges").show('slow');
+						$("#errormsges").html('<img src="images/ok.png" border="0"  />'+res);
+						setTimeout("$('#errormsges').hide('slow')",4000);
+						var url = "http://"+$("#uname").html()+".cricfeeds.com"; 						
+						setTimeout("location.href ='"+url+"'",3000);
+					}
+					else
+					{					
+						$("#errormsges").addClass("errorcls");
+						$("#errormsges").show('slow');
+						$("#errormsges").html('<img src="images/cancel.png" border="0"  />'+res);
+						setTimeout("$('#errormsges').hide('slow')",4000);
+					}	
+				});
+			}
+	  });
+   });
+   
+   function genAfid()
+   {
+   	 var domain = document.getElementById("siteurl").value;
+	 var domain = domain.toLowerCase();	 
+	 var output = '';
+	 if(domain.indexOf("http")!=-1)
+	 {
+	 	var v1 = domain.split("http://");
+		if(v1[1].indexOf("www")!=-1)
+		{
+			var d1 = v1[1].split("www.");
+			var ou = d1[1].split(".");
+			output = ou[0];
+		}
+		else
+		{
+			var dummy = v1[1].split(".");
+			output = dummy[0];
+		}
+		//document.getElementById("uname").value = output;
+		$("#uname").html(output);
+	 } 
+	 else if(domain.indexOf("www")!=-1)
+	 {	 
+	 	var w = domain.split("www.");		
+		var w1 = w[1].split(".");
+		output = w1[0];
+		$("#uname").html(output);
+	 }
+	 else
+	 {
+	 	var d = domain.split(".");
+		output = d[0];
+		$("#uname").html(output);
+	 }	
+   	 //document.getElementById("uname").value ="affiliateid";
+   }
+   
+   
+</script>
+</head>
+<body>
+<!-- Floating window starts here -->
+	<div id="window" style="position:absolute; z-index:99999; left:610px; top:40px; width:350px;background-color:#EBF4DF;  border:1px solid #464f5a;display:none;filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90; ">
+   
+   <div style="padding-bottom:20px;cursor:move; width:350px;  border-bottom:1px solid #464f5a;background:url(images_home/topnav_green.png) no-repeat;" onmousedown="beginDrag(this.parentNode, event);">
+
+      <div style="position:absolute; top:2px; left:5px; font-size:16px; font-weight:bold; color:#7bb160;">Cricfeeds Signup</div>
+      
+      <div style="position:absolute; top:3px; left:330px; float:right; cursor:pointer;" onclick="this.parentNode.parentNode.style.display = 'none';">
+
+         <img src="images_home/_close.gif" border="0">
+
+      </div>
+      
+   </div>
+   <div id="signupform" style="background:#ebf4df;">
+   
+   		<table width="100%" border="0" cellspacing="2" cellpadding="1">
+  <tbody><tr>
+    <td class="cricfeeds_generaltext">Site-URL :</td>
+    <td><input type="text" id="siteurl" name="siteurl" size="28" onblur="genAfid()" onmouseout="genAfid()">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">Email Address :</td>
+    <td><input type="text" size="28" id="email" name="email">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">Affiliate ID :</td>
+    <td><div id="uname" style="width:192px;height:20px;text-align:left;"></div></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">Password :</td>
+    <td><input type="password" id="password" name="password" size="28">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">Confirm Password :</td>
+    <td><input type="password" id="rpassword" name="rpassword" size="28">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">What kind of site is it? :</td>
+    <td align="left"><select id="topCategoryId" name="topCategoryId">
+                                                <option value="">Select a Category</option>
+                                                <option value="Arts">Arts</option>
+                                                <option value="Business">Business</option>
+                                                <option value="Computers">Computers</option>
+                                                <option value="Games">Games</option>
+                                                <option value="Health">Health</option>
+                                                <option value="Home">Home</option>
+                                                <option value="Kids and Teens">Kids and Teens</option>
+                                                <option value="News">News</option>
+                                                <option value="Radio">Radio</option>
+                                                <option value="Recreation">Recreation</option>
+                                                <option value="Reference">Reference</option>
+                                                <option value="Regional">Regional</option>
+                                                <option value="Science">Science</option>
+                                                <option value="Shopping">Shopping</option>
+                                                <option value="Society">Society</option>
+                                                <option value="Sports">Sports</option>
+                                                <option value="Television">Television</option>
+                                            </select>&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="cricfeeds_generaltext"><input type="checkbox" name="iag" id="iag"><label style="padding: 0px 6px;">I agree to the</label> <a title="Terms of Service" href="terms_of_service.html" target="_blank">Terms of Service</a></td>
+  </tr>
+  <!--<tr>
+    <td class="cricfeeds_generaltext">Type the code you see<br/>in the box to the right :</td>
+    <td valign="bottom"><input type="text" id="securityImageText" name="securityImageText" size="15" /><img src="http://cricfeeds.com/captcha.php" id="captcha" name="captcha" width="60" />&nbsp;<img style="cursor:pointer;border:0;" border="0" src="images/refresh.png" id="reload_captcha" name="reload_captcha"  /> </td>
+  </tr>-->
+  <tr>
+    <td>&nbsp;</td>
+    <td align="left"><input type="image" src="images_home/signup.png" id="newsignup" name="newsignup" style="border:0px;">&nbsp;<img src="images_home/aloder.gif" border="0" style="visibility:hidden"></td>
+  </tr>
+</tbody></table>
+<div id="errormsges"></div>
+   </div>	
+   <!--<div style="margin-left:40px;">Site URL</div>
+   
+   <div style="margin-left:40px;">Email ID</div>
+   
+   <div style="margin-left:40px;">Login ID</div>
+   <div style="margin-left:40px;">Password</div>
+   <div style="margin-left:40px;">Confirm Password</div>
+-->
+
+</div> 
+<!-- Floating window ends here -->
+
+<!-- Signin float window start here -->
+<div id="cricfeeds_login" style="position:absolute; left:610px; top:10px; width:350px;z-index:100000;background-color:#EBF4DF; border:1px solid #464f5a;display:none;filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90; "> 
+    
+   <div style="padding-bottom:20px;cursor:move; width:350px;  border-bottom:1px solid #464f5a;background:url(images_home/topnav_green.png) no-repeat;" onmousedown="beginDrag(this.parentNode, event);"> 
+
+      <div style="padding-bottom:20px;cursor:move; position:absolute; top:2px; left:5px; font-size:16px; font-weight:bold; color:#7bb160;">Cricfeeds Signin</div> 
+       
+     <div style="position:absolute; top:3px; left:330px; float:right; cursor:pointer;" onclick="this.parentNode.parentNode.style.display = 'none';">
+
+         <img src="images_home/_close.gif" border="0">
+
+      </div>
+       
+   </div> 
+   <div id="criclogin" style="background:#ebf4df;">
+   			<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tbody><tr>
+    <td class="cricfeeds_generaltext" align="left">Username :</td>
+    <td align="left"><input type="text" class="textbox" size="22" id="username" name="username"></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext" align="left">Password :</td>
+    <td align="left"><input type="password" class="textbox" size="22" id="userpass" name="userpass"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="left"><img src="images_home/signin.png" id="feedlogin" border="0" style="cursor:pointer;"></td>
+  </tr>
+</tbody></table>
+<div id="loginmsgs"></div>
+   </div>
+
+</div>	
+<!-- Signin float window ends here -->
+<div class="cricfeeds-homepage">
+	<div class="c-h-page-spacer"></div>
+ <!-- <div class="affiliate-signin-div"> <a href="#" id="cricfeeds_signin">affiliate sign in</a> </div>-->
+  <!--end of affiliate-signin-div-->
+  <div class="cricfeeds-homepage-header">
+    <div class="cricfeeds-homepage-logo"> <a href="http://www.cricfeeds.com"><img src="images_home/cricfeeds_logo.png" border="noe" alt="cricfeeds_logo"></a> </div>
+    <!--end of cricfeeds-homepage-logo-->
+    <div class="cricfeeds-homepage-list"><a class="aff" href="#" id="cricfeeds_signin">affiliate sign in</a> 
+      <div id="cricfeeds-home-headerlist">
+        <ul id="cricfeeds-home-header">
+         <!-- <li id="active"><a href="http://www.cricfeeds.com" id="current">Home</a></li>	-->
+          <li id="active"><a href="cricfeeds_quickdemo.html" id="current">CF platform</a></li>
+          <li><a href="http://cricket.cricfeeds.com">live demo</a></li>
+          <li><a href="customers.html">customers</a></li>
+          <li><a href="cricfeeds_comingsoon.html">advertise</a></li>
+          <li><a href="cricfeeds_aboutus.html">about us</a></li>
+	  <li><a href="cricfeeds_customer-service.html">Contact-us</a></li> 	
+        </ul>
+      </div>
+      <a href="#"><img src="images_home/sign-up-now.png" align="absmiddle" class="sign-up-now" style="border:none" id="cricfeeds-signup" name="cricfeeds-signup"></a> </div>
+    <!--end of cricfeeds-homepage-list-->
+  </div>
+  <!--end of cricfeeds-homepage-header-->
+  <div style="clear:both"></div>
+  <div id="hiddenframe" style="display:none;">
+  		<iframe src="http://cricfeeds.com/afflogin.html" width="0px;" height="0px" frameborder="0" name="userframe" id="userframe"></iframe>
+  </div>
+  <!-- Floating window ends here -->
+<div class="cricfeeds-homepage">  
+  <!--end of cricfeeds-homepage-header-->
+  <div style="clear:both"></div>
+  <!-- Body content starts here -->
+  
+  <!--privacy policy -->  
+  <div class="cricfeeds-homepage">
+  <div class="c-h-page-spacer"></div>
+  <div class="cricfeeds-homepage-content">
+  
+   
+  <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+           <div style="color:#FFFFFF; text-align:left; padding-left:10px; font-family:Arial, Helvetica, sans-serif; font-size:13px;">Last Updated: 
+             <!-- #BeginDate format:Am1 -->December 19, 2008<!-- #EndDate --></div>
+           
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+  
+  
+      <div style="clear:both; height:4px;">&nbsp;</div>
+
+  
+  
+  
+  
+  
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Privacy Policy</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p class="lheight" style="width:834px;">Cricfeeds Team recognizes the importance of protecting the privacy of information we may collect from our visitors. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Web Site. We hope that this disclosure will help increase your confidence in this web site. Privacy issues are a high priority for us at Cricfeeds and we follow standard industry practices to maintain your personal information. Please read the following to learn more about our privacy policy.<br>
+                  <b>Cricfeeds does not spam or sell/lease its user information to third parties.</b></p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <!--end of cricfeeds-homepage-content-firstrow -->
+    <div style="clear:both; height:4px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Information Collection and Use</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;">We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on Cricfeeds.com.
+
+Cricfeeds.com collects personal information when you register with the web site. This information consists of just your name and email address. The information we collect is:
+</p><ul class="uls">
+     <li>Used to notify visitors about events, changes and other information about this web site.</li>
+     <li>Never shared with other organizations for commercial or other purposes.</li>
+</ul>     
+<p></p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Disclosure of Information to Third Parties</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;">
+                  Cricfeeds.com will NOT disclose any personal information except in the following cases,
+				</p><ul class="uls">	
+    				<li>When required by law that such action is necessary.</li>
+    				<li>Protect and defend the rights of property of Cricfeeds.com.</li>
+				</ul>
+                  <p></p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Link to Other Sites :</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;"> As a means of providing useful resources to our users, Cricfeeds.com provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. Cricfeeds.com is not responsible for the privacy practices or the content of such web sites. Cricfeeds.com does not share any of the individual personal information that you provide with the sites to which Cricfeeds.com links, although we may share traffic data with such web sites such as how many people visit our site.</p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Notification of Changes</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;">If we decide to change our privacy policy, we will post those changes to this Privacy Policy.</p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Access to your account information</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;">You can access and change the information that you provided during registration. Simply click on this link http://www.cricfeeds.com and then log in with your member name and password. You can access your personal information by clicking on "Change Profile" link after logging in. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" in the top header bar of Cricfeeds.com page, or send an email directly to contactus@Cricfeeds.com. Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. </p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Copyrights</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;"><strong>Copyrighted Material:</strong>Uploading copies of copyrighted material as a whole or in part on Cricfeeds.com without explicit permission from the copyright owner shall be deemed to infringe on the copyright and this applies to materials such as text, images, music, movies, games, and other software in digital and analog format. Cricfeeds.com reserves the right to immediately delete such material without prior permission/consultation from the member. If you suspect that an image submitted to Cricfeeds.com is copyright protected and has been used fraudulently, please contact us immediately or send us an email to: member relations  </p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>
+    <div style="clear:both; height:5px;">&nbsp;</div>
+    <div class="cricfeeds-homepage-content-firstrow">
+      <div class="cricfeeds-homepage-content-firstrow-left" style="width:854px; height:auto"> <b class="b1_f"></b><b class="b2_f"></b><b class="b3_f"></b><b class="b4_f"></b>
+        <div class="content_f">
+          <div>
+            <div class="c-h-c-firstrow-left-content" style="width:834px; height:auto">
+              <div class="firstrow-left-left-ch" style="width:834px; height:auto">
+                <div class="left-left-ch-heaaing" style="width:834px;">Contact Us</div>
+                <!--end of left-left-ch-heading-->
+                <div class="left-left-ch" style="width:834px;">
+                  <p style="width:834px;">If you need further assistance, please send us an email with your questions or comments to contactus@Cricfeeds.com or feel free to contact us at any time through this web site or at Privacy Matters, c/o Netzeta, Inc, 12816 Quail Creek Drive, Pearland, Texas 77584. </p>
+                </div>
+                <!--end of left-left-ch-->
+                <div style="clear:both; height:4px;">&nbsp;</div>
+              </div>
+              <!--end of firstrow-left-left-ch-->
+              <div style="clear:both; height:4px;">&nbsp;</div>
+            </div>
+            <!--end of c-h-c-f-left-content-->
+          </div>
+        </div>
+        <b class="b4_f"></b><b class="b3_f"></b><b class="b2_f"></b><b class="b1_f"></b> </div>
+      <!--end of cricfeeds-homepage-content-firstrow-left-->
+    </div>        
+    <div style="clear:both; height:5px;">&nbsp;</div>
+  </div>
+  <!-- end of cricfeeds-homepage-content-->
+  <div class="c-h-page-spacer"></div>
+</div>
+  
+  
+  
+  
+  <!--end of privacy policy -->
+  
+  <!-- Body content ends here -->
+  <!-- end of cricfeeds-homepage-content-->
+  <div class="c-h-page-spacer"></div>
+  
+   <div class="cf_home_footer">
+    <div id="footer-links">
+      <ul>
+        <li style="margin-left:10px; margin-right:5px; font-family:Arial; font-size:8pt; color:#FFFFFF;">© 2009 Cricfeeds</li>
+        <li><a href="terms_of_service.html">Terms of Use</a></li>
+        <li style="color:#FFFFFF">|</li>
+        <li><a href="cricfeeds_privacypolicy.html">Privacy Policy</a></li>
+        <li style="color:#FFFFFF">|</li>
+        <li><a href="cricfeeds_faqs.html">FAQ's</a></li>
+        <li style="color:#FFFFFF">|</li>
+        <li><a href="cricfeeds_sitemap.html">Sitemap</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="c-h-page-spacer"></div>
+    
+</div>
+
+</div></body></html>
