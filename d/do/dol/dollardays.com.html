@@ -1,27 +1,33 @@
-<!--The following is the downloaded HTML source of the dollardays.com privacy policy that was archived on 2008-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081212051428id_/http%3A//www.dollardays.com./aboutus/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dollardays.com privacy policy that was archived on 2009-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090613045437id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head id="ctl00_Head1"><title>
 	Privacy Policy - DollarDays
 </title><link href="/css/reset.css" rel="stylesheet" type="text/css"><link href="/css/base.auto.css" rel="stylesheet" type="text/css">
+		<!--[if lte IE 6]>
+		<link href="/css/iehack.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<link href="/selfstyled.css" rel="stylesheet" type="text/css">
 	<meta name="description" content="Privacy policy adhered to by DollarDays when handling your personal information.">
 
 <link rel="shortcut icon" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="CONTENT-LANGUAGE" content="EN-US">
-<meta name="COPYRIGHT" content="(C)1999-2008 DollarDays International, LLC">
+<meta name="COPYRIGHT" content="(C)1999-2009 DollarDays International, Inc.">
 
 
 	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-	<script type="text/javascript">google.load("jquery", "1.2.6");</script>
+	<script type="text/javascript">google.load("jquery", "1.3");</script>
 	<!--[if lt IE 7]>
 	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
 	<![endif]-->
 
+<script type="text/javascript" src="/js/swfobject.js"></script>
 <script type="text/javascript" src="/js/scripts.compacted.js"></script>
 <script type="text/javascript" src="/js/NiftyCube/niftycube.js"></script>
-<script type="text/javascript" src="/js/fancybox/jquery.fancybox-0.1b.js"></script>
+<link rel="stylesheet" href="/js/fancybox/fancy.css" type="text/css" media="screen">
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.0.0.compacted.js"></script>
 <script type="text/javascript" src="/js/hint.jquery.compacted.js"></script>
 <script type="text/javascript">
 	NiftyLoad=function(){Nifty("table.toptab td","top same-height transparent");Nifty("div.roundall,td.roundall","all big");Nifty("div.tablook","top transparent");Nifty("div.hangtab","bottom transparent");Nifty("td.ntab,div.ntab","top big transparent");Nifty("td.nhang,div.nhang","bottom big transparent");}
@@ -32,16 +38,17 @@
 		$('.pophover').hover(function(){$('.popcontent:visible').hide();$(this).next('.popcontent').show();},function(){});
 		$('.popopen').click(function(){$('.popcontent:visible').hide();$(this).next('.popcontent').show();},function(){});
 		$('.popclose').click(function(){$(this).parent().hide();});
-		$('.faqa').hide();
-		$('.faqq').click(function(){$(this).next('.faqa').toggle('slow');});
+		$('.faqa').hide();$('.faqq').click(function(){$(this).next('.faqa').toggle('slow');});
 		$('INPUT.subonce').click(function(){$(this).attr('disabled','disabled');$(this).hide();$(this).parents('FORM.subonce').get(0).submit();});
+		$('#divsearch').hide();
 	});
+	$(function(){$('#mySelect').change(function(){window.location = $(this).attr("value");$('#divsearch').hide();});});
+	$(function(){$('INPUT.fldsearchterms').keyup(function(){if($.browser.mozilla&&$.browser.version<"1.9"){return false;}var terms=jsURLEncode($(this).val());if(terms!=''){$.ajax({type:"GET",url:"/searchajax.aspx?terms="+terms,dataType:"xml",success:function(xml){var select=$('#mySelect');var dropsize;select.children().remove();$(xml).find('Products').each(function(){$('#divsearch').show();$(this).find('Product').each(function(){var selval,seltext;dropsize=dropsize+20;$(this).find('URL').each(function(){selval=$(this).text();});$(this).find('Name').each(function(){seltext=$(this).text();});select.append("<option value='"+ selval +"'>"+seltext+"</option>");});});}});}else{$('#divsearch').hide();}});});
 </script>
 <link type="text/css" rel="stylesheet" href="/js/NiftyCube/niftyCorners.css" media="screen"></head>
 	<body>
-		
-		
-<table width="100%" class="topbanner" cellspacing="0"><tbody><tr><td class="vm ctr"><iframe class="vcinner" src="/ad.asp?c=0&amp;s=aboutus%2fprivacy-policy%2Easpx&amp;a=" frameborder="0" id="randomad" name="randomad" scrolling="no"></iframe></td></tr></tbody></table>
+		<form id="bogusform" action="/" method="get" style="margin:0px;padding:0px;display:inline;"></form>
+		<div class="topbanner"><a href="http://www.liquidmd.com/distributors.html" target="_blank" onclick="TrackClick('/ads/topbanner/Liquid MD -  Popeye');"><img src="/icons/billboard/LiqMD_Popeye782x40_ddays2.gif" border="0" alt="Liquid MD -  Popeye" width="782" height="40" class="png"></a></div>
 		<table width="100%" cellspacing="0">
 			<tbody><tr>
 				<td class="outl png" rowspan="2"><img src="/icons/shadow-bottom.png" width="100%" height="16" alt="" class="png"></td>
@@ -49,8 +56,8 @@
 				<td class="hdrwide vt">
 					
 <div class="phonebox">
-	<div class="lrgtxt bd"><img src="/icons/phoneicon.gif" width="25" height="17" alt="" align="top">877-837-9569 / 480-922-8155</div>
-	<div>Fri, Dec 12th, 2008 12:14 AM</div>
+	<div class="lrgtxt bd"><img src="/icons/phoneicon.gif" alt="" style="width:25px;height:17px;" class="vt">877-837-9569 / 480-922-8155</div>
+	<div>Sat, Jun 13th, 2009 12:54 AM</div>
 	<div>Be sure to <a href="javascript:top.location=unescape('%2F%73%69%74%65%6C%6F%67%69%6E%2E%61%73%70%78');" class="redtxt">sign in or register</a> a new account.</div>
 </div>
 <ul class="nav">
@@ -59,27 +66,25 @@
 	
 	
 	<li id="ctl00_PageHeader_liAboutUs"><a href="/aboutus/">About Us</a></li>
-	<li id="ctl00_PageHeader_liHowItWorks"><a href="/aboutus/how-it-works.aspx">How It Works</a></li>
 	<li id="ctl00_PageHeader_liLogin"><a href="javascript:top.location='/sitelogin.aspx';">Register Free</a></li>
 	<li id="ctl00_PageHeader_liFAQ"><a href="/aboutus/faqs.aspx">Help</a></li>
 </ul>
+<div id="ctl00_PageHeader_divAddThis" class="vs ctr"><script type="text/javascript">var addthis_pub="dollardays";</script><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this,'','[URL]','[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-bookmark-en.gif" alt="Bookmark and Share" style="border:none;width:125px;height:16px;"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script></div>
 <br class="clr">
 <table width="100%" cellspacing="0" class="menublock">
 	<tbody><tr>
 		<td class="trans vb" style="width:350px;" rowspan="2">
-<div class="brandLogo"><div class="ctr"><a href="/" target="_top"><img src="/icons/dollardays_wholesale_sun_logo_christmas.gif" regsrc="/icons/dollardays_wholesale_sun_logo.gif" alt="DDI Logo" border="0" width="245" height="55"></a></div></div></td>
+<div class="brandLogo"><div class="ctr"><a href="/" target="_top"><img src="/icons/dollardays_wholesale_sun_logo.gif" alt="DollarDays" style="width:245px;height:55px;border:none;"></a></div></div></td>
 		<td class="trans"><br></td>
 	</tr>
 	<tr>
-		<td class="ctr ntab" style="padding-top: 0px;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: 0px;"><b class="tb1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb5" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb6" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb7" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb8" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b>
+		<td class="toplinks ntab" style="padding-top: 0px;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: 0px;"><b class="tb1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb5" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb6" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb7" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="tb8" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b>
 			<ul class="nav bd">
 				<li><a href="/sitesearch.aspx?pg=1&amp;clst=1">Closeouts</a></li>
 				<li><a href="/sitesearch.aspx?pg=1&amp;prch=0.49">49¢ &amp; Less</a></li>
 				<li><a href="/sitesearch.aspx?pg=1&amp;newp=1">New Products</a></li>
 				<li><a href="/sitesearch.aspx?pg=1&amp;hotp=1">Hot Sellers</a></li>
-				
-				<li><a href="/wholesale-office-and-school-supplies.html">Office &amp; School</a></li>
-				
+				<li id="ctl00_PageHeader_liSeasonalLink"><a href="/wholesale-office-and-school-supplies.html">Office &amp; School</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -89,8 +94,10 @@
 			<form action="/sitesearch.aspx" name="productsearchbox" method="get">
 				<span class="bd lrgtxt" style="padding:0px 5px;">What are you shopping for?</span>
 				<input type="hidden" name="pg" value="1">
-				<input type="text" id="fldsearchterms" name="terms" value="" maxlength="500" title="Enter Product Search Here" style="font-size:1.4em;width:250px;padding:1px 2px;" onkeypress="if (event.keyCode == 13) {this.form.submit();}" autocomplete="off">
-				
+				<span style="display:-moz-inline-stack;display:inline-block;">
+					<input type="text" id="fldsearchterms" name="terms" class="fldsearchterms" value="" maxlength="500" title="Enter Product Search Here" style="font-size:1.4em;width:250px;padding:1px 2px;" onkeypress="if(event.keyCode==13){this.form.submit();}" autocomplete="off">
+					<div id="divsearch" style="position:relative;display:none;"><div style="position:absolute;"><select id="mySelect" class="mySelect" multiple="multiple" style="width:260px;height:190px;"></select></div></div>				
+				</span>
 				<input type="image" src="/icons/go.png" class="png vm" style="width:50px;height:25px;padding:0px 5px;" onclick="this.form.submit()">
 				<a href="/sitesearch.aspx" style="padding:0px 5px;">Advanced Search</a>
 			</form>
@@ -99,7 +106,7 @@
 	<tr>
 		<td class="nhang" colspan="2" style="padding-bottom: 0px;">
 			<div class="ra" style="padding-bottom:10px;padding-right:5em;">
-				<img src="/icons/platinum_program.gif" id="ctl00_PageHeader_imgPlatinum" width="181" height="25" class="png link vm" style="padding-right:5em;" onclick="window.location='/platinumbenefits.aspx';" alt="Platinum Benefits">
+				<img src="/icons/platinum_program.gif" id="ctl00_PageHeader_imgPlatinum" width="181" height="25" class="png link vm" style="padding-right:5em;" alt="Platinum Benefits" onclick="window.location='/platinummembership.aspx';">
 				<img src="/s.gif" width="1" height="25" alt="" class="vm">
 				<ul class="nav">
 					<li><a href="/business-services-directory.aspx">Business Services</a></li>
@@ -365,7 +372,22 @@
 
 
 
-
+<div class="ad">Advertisements</div>
+<div class="ad"><a href="http://www.buydomains.com/?utm_source=dollardays&amp;utm_medium=dollardays160x300&amp;utm_campaign=drdays" target="_blank" rel="nofollow" onclick="TrackClick('/ads/buydomains/160x300');"><img src="/icons/billboard/bd_160x300_v2.gif" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.bidz.com/bzJApp/HTPromoPage.action?version=4&amp;mainbnr=0&amp;bnr=0&amp;query=categoryId:3761&amp;txt=&amp;promoid=dollardays30" target="_blank" rel="nofollow" onclick="TrackClick('/ads/bidzring/bidz160x300');"><img src="/icons/billboard/bidz160x300.gif" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.vistaprint.com/vp/gateway.aspx?S=8363518312" target="_blank" rel="nofollow" onclick="TrackClick('/ads/vistaprint/vistaprint160x120');"><img src="/icons/billboard/FBC_160x300_US.gif" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.teligentliving.com/fundraising/dollardays/" target="_blank" rel="nofollow" onclick="TrackClick('/ads/teligent/160x300');"><img src="/icons/billboard/Teligent_Vertical_160x300.jpg" alt="Teligent" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.smartlifeinsurance.com/launch.aspx?refnumber=000005941-068-225" target="_blank" rel="nofollow" onclick="TrackClick('/ads/smartlife/160x300');"><img src="/icons/billboard/smartlife.gif" alt="SASid Insurance Development" width="100" height="400" border="0"></a></div><div class="ad"><a href="http://bizsolutions.strands.com/signupdollar.sbs?utm_source=ban160x300" target="_blank" rel="nofollow" onclick="TrackClick('/ads/strands/160x300');"><img src="/icons/billboard/strands160x300_v02.gif" alt="Strands" width="160" height="300" border="0"></a></div><div class="ad"><a href="https://www.godaddy.com/gdshop/hosting/shared.asp?isc=dollarhost" target="_blank" rel="nofollow" onclick="TrackClick('/ads/godaddy_unlimited/160x300');"><img src="/icons/billboard/godaddy_unlimited_160x300_static.jpg" alt="Click Here" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.worldwidebrands.com/?kbid=25116&amp;img=/images/dollar-dropshiping.jpg" target="_blank" rel="nofollow" onclick="TrackClick('/ads/worldwidebrands/160x300');"><img src="/icons/billboard/ww300x160dollarDays.jpg" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.faqinteractive.com/dollardays-home.html" target="_blank" rel="nofollow" onclick="TrackClick('/ads/faq/160x300');"><img src="/icons/billboard/160x300two.jpg" alt="FAQ Interactive" width="160" height="300" border="0"></a></div><div class="ad"><script type="text/javascript"><!--
+google_ad_client = "pub-1027599026611287";
+/* 160x600 Left Side */
+google_ad_slot="2480968382";google_ad_width=160;google_ad_height=600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><div class="ad"><script type="text/javascript"><!--
+google_ad_client = "pub-1027599026611287";
+/* 160x600 Left Side, Images Only */
+google_ad_slot="8237036753";google_ad_width=160;google_ad_height=600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
 
 
 <div><img src="/s.gif" width="172" height="1" alt=""></div></td></tr>
@@ -373,20 +395,23 @@
 				</td>
 				<td rowspan="2" class="gutter"><img src="/s.gif" width="6" height="1" alt=""></td>
 				<td rowspan="2" class="sidebar ads vt">
-<table class="brandbg"><tbody><tr><td style="width:49%;"></td><td class="ad">
-<div class="brandbg ctr"><div class="vs ctr">DollarDays Promotions</div> <div class="ad"><a href="/promo.aspx"><img src="/icons/BillBoard/fleeceblkt_160.gif" border="0" alt="Promo" width="160" height="300"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=&amp;cid=0&amp;brand=&amp;whse=K03&amp;prcl=.49&amp;prch=.49&amp;preo=0" onclick="javascript:pageTracker._trackPageview('/ads/k03_49/160x300');"><img src="/icons/BillBoard/ONECENT.jpg" border="0" alt="49 cents Wholesale Bargains" width="160" height="120"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=&amp;cid=0&amp;brand=&amp;whse=T57&amp;prcl=&amp;prch=&amp;onsl=1&amp;preo=0" onclick="javascript:pageTracker._trackPageview('/ads/t57_decsale/160x300');"><img src="/icons/BillBoard/warehousesale_dec_160.gif" border="0" alt="Wholesale Deals" width="160" height="120"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=e35novwinter" onclick="javascript:pageTracker._trackPageview('/ads/e35_winterfashion/160x300');"><img src="/icons/BillBoard/winter_160.gif" border="0" alt="Wholesale Winter Fashion Apparel" width="160" height="120"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=hjnov&amp;x=37&amp;y=12 onclick=" javascript:pagetracker._trackpageview('="" ads="" h09_novelties="" 160x300');"=""><img src="/icons/BillBoard/noveltydollardays.gif" border="0" alt="Wholesale Novelty Specials" width="160" height="120"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=&amp;cid=1874&amp;brand=&amp;whse=P40&amp;prcl=&amp;prch=&amp;preo=0" onclick="javascript:pageTracker._trackPageview('/ads/p40_electronics/160x300');"><img src="/icons/BillBoard/electronics_160.gif" border="0" alt="Wholesale Electronics" width="160" height="120"></a></div><div class="ad"><a href="http://americasboutiquesuppliers.com/wholesale-americas-boutique-suppliers.html" onclick="javascript:pageTracker._trackPageview('/ads/abs2008/160x300');"><img src="/icons/DeptBillBoards/ButtonBanner-1.jpg" border="0" alt="America's Boutique Suppliers" width="160" height="120"></a></div><div class="ad"><a href="http://www.docdeals.net/wholesale-medical-products.html" onclick="javascript:pageTracker._trackPageview('/ads/docdeals/160x300');"><img src="/icons/DeptBillBoards/docdeals_160.gif" border="0" alt="Doc Deals" width="160" height="120"></a></div></div></td><td style="width:49%;"></td></tr></tbody></table>
+<table class="brandbg vs">
+	<tbody><tr>
+		<td style="width:49%;"></td>
+		<td class="ad">
+			<a href="http://dollardays.com/wholesale-state-and-regional-souvenirs.html"><img src="/icons/BillBoard/souvenir_160x376.png" border="0" alt="Wholesale Souvenirs"></a>
+			
+			<div class="brandbg ctr"><div class="vs ctr">DollarDays Promotions</div> <div class="ad"><a href="/promo.aspx"><img src="/icons/BillBoard/shipmatrix_new_160.gif" border="0" alt="Shipping Matrix" width="160" height="300"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=clings&amp;cid=0&amp;brand=&amp;whse=M106&amp;prcl=&amp;prch=&amp;preo=0" onclick="TrackClick('/ads/m106_windowclings160x300');"><img src="/icons/billboard/clings2_160.gif" border="0" alt="Wholesale Window Clings" width="160" height="120"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;cid=966&amp;whse=K32" onclick="TrackClick('/ads/k32_tanninglotion/160x300');"><img src="/icons/BillBoard/k32tanning_160.gif" border="0" alt="Wholesale Tanning Lotion" width="160" height="120"></a></div><div class="ad"><a href="/promo.aspx"><img src="/icons/BillBoard/employee_ext_160.gif" border="0" alt="" width="160" height="300"></a></div><div class="ad"><a href="/sitesearch.aspx?pg=1&amp;terms=&amp;cid=0&amp;brand=&amp;whse=K03&amp;prcl=.49&amp;prch=.49&amp;preo=0" onclick="TrackClick('/ads/k03_49less/160x300');"><img src="/icons/BillBoard/ONECENT.jpg" border="0" alt="Wholesale 49 cents and Less" width="160" height="120"></a></div><div class="ad"><a href="http://americasboutiquesuppliers.com/wholesale-americas-boutique-suppliers.html" onclick="TrackClick('/ads/abs2008/160x300');"><img src="/icons/DeptBillBoards/ButtonBanner-1.jpg" border="0" alt="America's Boutique Suppliers" width="160" height="120"></a></div></div>
+		</td>
+		<td style="width:49%;"></td>
+	</tr>
+</tbody></table>
 <div class="ad">Advertisements</div>
-<div class="ad"><div class="ad"><a href="http://www.ecsuite.com/landing/dollardays/" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/ecsuite/160x300');"><img src="/icons/billboard/ECSuiteUpdated v1_160w_x_300h_v2.jpg" alt="EC Suites" width="160" height="300" border="0"></a></div></div><div class="ad"><div class="ad"><a href="http://altfarm.mediaplex.com/ad/ck/10236-67622-22534-0" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/pitney/160x300');"><img src="/icons/billboard/pitney_learnmore150x300.jpg" alt="Click Here" width="160" height="300" border="0"></a></div></div><div class="ad"><div class="ad"><a href="http://www.alibaba.com/superdeals/promotion-list.html?src=ibdm_d03p0019e02r01" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/alibaba/160x300');"><img src="/icons/billboard/dollardays_revised_v5.gif" alt="Alibaba.com" width="160" height="300" border="0" class="png"></a></div></div><div class="ad"><div class="ad"><a href="http://www.gencomarketplace.com/?cid=BNR-DD-HP-VERT" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/genco/160x300');"><img src="/icons/billboard/BNR_DD_HP_VERT.jpg" alt="" width="160" height="300" border="0"></a></div></div><div class="ad"><div class="ad"><a href="http://www.liquidation.com/index.html?tid=DC00003885" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/liquidation/160x300');"><img src="/icons/billboard/dd_banner_160x120.png" alt="Liquidation.com" width="160" height="120" border="0" class="png"></a></div></div><div class="ad"><div class="ad"><a href="http://www.bidz.com/bzJApp/HTLandingPage.action?promoid=dollardays30&amp;url=http%3A%2F%2Fwww%2Ebidz%2Ecom%2FbzJApp%2FHTPromoPage%2Eaction%3Fbnr%3D3%26query%3DcategoryId%3A3166%26txt%3Dgarnet" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/bidz/160x300');">&gt;<img src="/icons/billboard/bidz120x300.jpg" alt="" width="120" height="300" border="0"></a></div></div><div class="ad"><div class="ad"><a href="http://www.verticalresponse.com/landing/combo/done/?DollarDays/may08done" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/verticalresponse/160x300');"><img src="/icons/billboard/ToDoList_Ad_Static_160X300.gif" alt="Vertical Response" width="160" height="300" border="0"></a></div></div><div class="ad"><div class="ad"><a href="http://click.linksynergy.com/fs-bin/click?id=WTOghZiTNbE&amp;offerid=161750.10000022&amp;subid=0&amp;type=4" target="_blank" rel="nofollow" onclick="javascript:pageTracker._trackPageview('/ads/legalace/160x300');"><img src="/icons/billboard/legalace_160x300a.jpg" alt="Legal Ace" width="160" height="300" border="0"></a></div></div><div class="ad"><script language="JavaScript" src="http://www.altavista.com/static/scripts/translate_engl.js" type="text/javascript"></script></div><div class="ad"><script type="text/javascript"><!--
-google_ad_client = "pub-1027599026611287";
-/* 160x600 Right Side */
-google_ad_slot = "8852050819";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-<div><img src="/s.gif" width="172" height="1" alt=""></div></td>
+<div class="ad"><a href="http://click.linksynergy.com/fs-bin/click?id=WTOghZiTNbE&amp;offerid=175560.10000997&amp;subid=0&amp;type=4" target="_blank" rel="nofollow" onclick="TrackClick('/ads/register.com/160x300');"><img border="0" alt="$4.95 Hosting 160x300" src="http://ad.linksynergy.com/fs-bin/show?id=WTOghZiTNbE&amp;bids=175560.10000997&amp;subid=0&amp;type=4&amp;gridnum=-1"></a></div><div class="ad"><a href="http://altfarm.mediaplex.com/ad/ck/10236-67622-22534-0" target="_blank" rel="nofollow" onclick="TrackClick('/ads/pitney/160x300');"><img src="/icons/billboard/pitney_learnmore150x300.jpg" alt="Pitney Bowes" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.usdirectory.com/lps/lp4.aspx?ProdID=10132" target="_blank" rel="nofollow" onclick="TrackClick('/ads/usdir/160x300');"><img src="/icons/billboard/USD_DollarDays_160x300.JPG" alt="US Directory" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.doba.com/partners/dollar" target="_blank" rel="nofollow" onclick="TrackClick('/ads/doba/doba160x300');"><img src="/icons/billboard/doba160x300.gif" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="&#10;https://www.jigsaw.com/?pc=dollardays" target="_blank" rel="nofollow" onclick="TrackClick('/ads/jigsaw/160x300');"><img src="/icons/billboard/jigsaw_ad.jpg" alt="Jigsaw" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.gencomarketplace.com/?cid=BNR-DD-HP-VERT" target="_blank" rel="nofollow" onclick="TrackClick('/ads/genco/160x300');"><img src="/icons/billboard/BNR_DD_HP_VERT.jpg" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="&#10;http://www.liquidmd.com/distributors.html" target="_blank" rel="nofollow" onclick="TrackClick('/ads/liquidmd_popeye/160x300');"><img src="/icons/billboard/LiqMD_Popeye160x300_ddays2.gif" alt="Liquid MD" width="160" height="300" border="0"></a></div><div class="ad"><a href="https://www.plasticpostcardmarketing.com/index.php?a=d" target="_blank" rel="nofollow" onclick="TrackClick('/ads/oncard/oncard160x300');"><img src="/icons/billboard/oncard.jpg" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.verticalresponse.com/landing/combo/lookbig/?dollardays/disp-2009-02-25-mag" target="_blank" rel="nofollow" onclick="TrackClick('/ads/verticalresponse_magad/160x300');"><img src="/icons/billboard/VRMag_Static_160X300.gif" alt="Vertical Response" width="160" height="300" border="0"></a></div><div class="ad"><a href="http://www.dollardays.com/i367878-wholesale-afgold-goldpac.html" target="_blank" rel="nofollow" onclick="TrackClick('/ads/afgold/160x300');">&gt;<img src="/icons/billboard/cash4goldv2.gif" alt="" width="160" height="300" border="0"></a></div><div class="ad"><a href="&#10;http://www.mazooma.com/consumer/landing_dollardays.html" target="_blank" rel="nofollow" onclick="TrackClick('/ads/mazooma/160x300');"><img src="/icons/billboard/mazooma160x300.gif" alt="Mazooma" width="160" height="300" border="0"></a></div><div class="ad"><div style="width:160px;background-color:#FBF2E2;margin:10px auto;font-family:Arial;font-size:13px;"><img src="http://i.eindx.com/vendorguru/email/newsletters/20080923/vs/Dollar_header.jpg" style="margin:0;padding:0;"><div style="border-left:1px solid;border-right:1px solid;border-color:#FFB524;padding:0 7px;margin:0;line-height:1.5;"><div><a href="http://dollardays.vendorseek.com/dollardays-website-design.asp" style="color:#333366;" target="_blank" rel="nofollow">Website Design</a></div>
+<div><a href="http://dollardays.vendorseek.com/dollardays-credit-card-processing.asp" style="color:#333366;" rel="nofollow">Credit Card Processing</a></div><div><a href="http://dollardays.vendorseek.com/dollardays-SEO.asp" style="color:#333366;" target="_blank" rel="nofollow">Search Engine<br>Optimization</a></div><div><a href="http://dollardays.vendorseek.com/dollardays-phone-systems.asp" style="color:#333366;" target="_blank">Phone Systems</a></div><div><a href="http://dollardays.vendorseek.com/dollardays-voip-services.asp" style="color:#333366;">VoIP Services</a></div><div><a href="http://dollardays.vendorseek.com/" style="color:#333366;">See Over 150 categories</a></div></div><img src="http://i.eindx.com/vendorguru/email/newsletters/20080923/vs/Dollar_footer.jpg" border="0" style="margin-top:0;"></div></div><div class="ad"><script language="JavaScript" src="http://www.altavista.com/static/scripts/translate_engl.js" type="text/javascript"></script></div>
+
+<div><img src="/s.gif" width="172" height="1" alt=""></div>
+</td>
 				<td class="outr png" rowspan="2"><img src="/icons/shadow-bottom.png" width="100%" height="16" alt="" class="png"></td>
 			</tr>
 			<tr><td class="vb">
@@ -454,17 +479,18 @@ google_ad_height = 600;
 					<img src="/icons/inc500color.jpg" width="77" height="64" alt="Inc500" border="0">
 					<img src="/icons/bbb_logo.gif" width="39" height="64" alt="BBB" border="0">
 					<img src="/icons/footer_symbols2.gif" alt="We accept Discover, American Express, Mastercard, Visa, Echeck, PayPal, and are members of the Better Business Bureau" width="159" height="55">
-					<img src="http://www.nfib.com/images/account/MemberPlaqueSmall.gif" width="120" height="75" border="0" class="link" alt="NFIB represents the interest of 600,000 small and independent business owners before federal and state legislative and executive branches of government. As a matter of policy, NFIB does not endorse or promote the products and services of its members." onclick="location.href='http://www.nfib.com/';">
+					<img src="/icons/NFIB_MemberPlaqueSmall.gif" width="120" height="75" border="0" class="link" alt="NFIB represents the interest of 600,000 small and independent business owners before federal and state legislative and executive branches of government. As a matter of policy, NFIB does not endorse or promote the products and services of its members." onclick="location.href='http://www.nfib.com/';">
 					<img src="/icons/az_co_to_watch_thumb.jpg" width="120" height="64" alt="Arizona Company to Watch" border="0">
-					<img src="/icons/solrpoweredsearch.png" width="83" height="64" alt="Solr Powered Search" class="png link" onclick="location.href='http://lucene.apache.org/solr/';">
-					<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dollardays.com" rel="nofollow"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.dollardays.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
+					<img src="/icons/solr.png" width="120" height="62" alt="Search Powered by Solr" class="png link" onclick="location.href='http://lucene.apache.org/solr/';">
+					<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dollardays.com" rel="nofollow"><img width="94" height="54" border="0" src="http://images.scanalert.com/meter/www.dollardays.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a>
 				</td>
 			</tr>
 		</tbody></table>
 		
-	<div class="vs ctr">© Copyright 2008, DollarDays International, LLC</div>
+	<div class="vs ctr">© Copyright 2009, DollarDays International, LLC</div>
 <b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: rgb(255, 255, 255); margin-top: 0px;"><b class="rb8" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb7" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb6" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb5" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb4" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb3" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb2" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b><b class="rb1" style="background-color: rgb(251, 242, 226); border-color: rgb(253, 248, 240);"></b></b></div>
-<script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));var hndl=window.setTimeout("StartTracking()",100);function StartTracking(){if(typeof(_gat)=='object'){var pageTracker=_gat._getTracker("UA-3638514-1");pageTracker._setDomainName("dollardays.com");pageTracker._initData();pageTracker._trackPageview();}else{hndl=window.setTimeout("StartTracking()",1000);}}</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="http://cdn.mercent.com/js/tracker.js" type="text/javascript"></script><script type="text/javascript">mr_merchantID="DollarDays";mr_Track();</script><noscript><img src="http://link.mercent.com/image.ashx?merchantID=DollarDays" alt="" style="display:none;" /></noscript></td></tr>
+<script type="text/javascript" src="/js/ga.aspx"></script><script type="text/javascript">window.setTimeout("StartTracking()",100);function StartTracking(){if(typeof(_gat)=='object'){var pgTrk=_gat._getTracker('UA-3638514-1');pgTrk._setDomainName('.dollardays.com');pgTrk._trackPageview();}else{window.setTimeout("StartTracking()",1000);}}function TrackClick(sLink){if(typeof(_gat)=='object'){var adTrk=_gat._getTracker('UA-3638514-1');adTrk._setDomainName('.dollardays.com');adTrk._trackPageview(sLink);}}</script><script type="text/javascript" src="http://cetrk.com/pages/scripts/0010/2357.js"></script><iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1260" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0" style="display:none;"></iframe>
+</td></tr>
 		</tbody></table>
 		
 	
