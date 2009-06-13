@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161323id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613061916id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
 
 # MORTGAGENEWSDAILY.COM PRIVACY DISCLOSURES - Mortgage News Daily
 
