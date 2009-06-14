@@ -1,0 +1,704 @@
+<!--The following is the downloaded HTML source of the infobarrel.com privacy policy that was archived on 2009-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614142952id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html 84="" site=""><head>
+<title>Privacy Policy - Info Barrel</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="description" content="Infobarrel.com Privacy PolicyEffective July/31/2008 
+Privacy Notice Table Of Contents: Our Commitment To Privacy 
+Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your ...">
+
+<link rel="canonical" href="http://www.infobarrel.com/Privacy_Policy"> 
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="/ajax.js"></script>
+<script language="javascript">
+	function comment_reply(id)
+	{
+		document.getElementById("comment_" + id).style.display = "block";
+	}
+
+	function rate_comment(id, rating)
+	{
+		var div_id = "comment_rating_" + id;
+		var new_rating = parseInt(document.getElementById("comment_user_rating_" + id).innerHTML) + rating;
+
+		if((new_rating <= 1) && (new_rating >= -1))
+		{
+			document.getElementById("comment_user_rating_" + id).innerHTML = new_rating;
+
+			url = "/rate_comment.php?comment_id=" + id + "&rating=" + new_rating;
+			ajaxFunction(url, div_id, 1);
+		}
+
+		if(new_rating <= -1)
+			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down_blur.gif";
+		else
+			document.getElementById("comment_rating_down_" + id).src = "/images/rate_down.gif";
+
+		if(new_rating >= 1)
+			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up_blur.gif";
+		else
+			document.getElementById("comment_rating_up_" + id).src = "/images/rate_up.gif";
+	}
+
+	function rate_article(rating)
+	{
+		var div_id = "article_rating";
+		var new_rating = parseInt(document.getElementById("article_user_rating").innerHTML) + rating;
+
+		if((new_rating <= 1) && (new_rating >= -1))
+		{
+			document.getElementById("article_user_rating").innerHTML = new_rating;
+
+			url = "/rate_article.php?article_id=571&rating=" + new_rating;
+			ajaxFunction(url, div_id, 1);
+		}
+
+		if(new_rating <= -1)
+			document.getElementById("article_rating_down").src = "/images/rate_down_16_blur.gif";
+		else
+			document.getElementById("article_rating_down").src = "/images/rate_down_16.gif";
+
+		if(new_rating >= 1)
+			document.getElementById("article_rating_up").src = "/images/rate_up_16_blur.gif";
+		else
+			document.getElementById("article_rating_up").src = "/images/rate_up_16.gif";
+	}
+
+	function article_tab(div, button)
+	{
+//c8eaff
+		document.getElementById("button-related").style.background = "#cad5e7";
+		document.getElementById("button-user").style.background = "#cad5e7";
+		document.getElementById("button-cat").style.background = "#cad5e7";
+
+		document.getElementById("articles-related").style.display = "none";
+		document.getElementById("articles-user").style.display = "none";
+		document.getElementById("articles-cat").style.display = "none";
+
+		document.getElementById(div).style.display = "block";
+		button.style.background = "#ffffff";
+	}
+
+	function media_tab(div, button)
+	{
+		document.getElementById("button-images").style.background = "#cad5e7";
+		document.getElementById("button-videos").style.background = "#cad5e7";
+
+		document.getElementById("media-images").style.display = "none";
+		document.getElementById("media-videos").style.display = "none";
+
+		document.getElementById(div).style.display = "block";
+		button.style.background = "#ffffff";
+	}
+
+	function restore_categories(id, parent_id)
+	{
+//		document.getElementById("choose_category").style.display = "block";
+
+		document.getElementById("art_id").value = id;
+		document.getElementById("parent_id").value = parent_id;
+
+		if(parent_id == undefined)
+			parent_id = 0;
+
+		url = "article_edit-get_categories.php?id=" + id + "&parentid=" + parent_id;
+		ajaxFunction(url, "show_cat", 1);
+	}
+
+	function add_category(title)
+	{
+		id = document.getElementById("art_id").value;
+		parent_id = document.getElementById("parent_id").value;
+
+		title = title.replace(/^\s+|\s+$/g,"");
+
+		if(title == "")
+			alert("You cannot have a blank title.");
+		else
+		{
+			url = "article_edit-add_category.php?title=" + escape(title) + "&parentid=" + document.getElementById("parent").value;
+			ajaxFunction(url, "add_cat", 1);
+
+			restore_categories(id, parent_id);
+		}
+	}
+
+	$(document).ready(function(){
+		$("#admin_panel_link").click(function () {
+			$('#admin_panel').slideToggle("slow", function(){ show_admin(); } );
+		});
+	});
+
+	function show_admin()
+	{
+		if(document.getElementById("admin_panel_link").innerHTML == "Close Admin Panel")
+			document.getElementById("admin_panel_link").innerHTML = "Open Admin Panel";
+		else
+			document.getElementById("admin_panel_link").innerHTML = "Close Admin Panel";
+	}
+</script>
+
+<link rel="stylesheet" href="/style.css" type="text/css">
+<style>
+	h3
+	{
+		display: block;
+		margin: 1px 0;
+		font-size: 12px;
+		line-height: 19px;
+	}
+
+	h4
+	{
+		float: left;
+		display: block;
+		width: 100%;
+		font-size: 14px;
+		margin: 3px 0 1px;
+		height: 20px;
+		background: url("/images/topnav-bg.gif") 0 -8px;
+	}
+
+	form
+	{
+		margin: 0;
+	}
+
+	.errors
+	{
+		display: block;
+		float: left;
+		border: #4a545e 1px dashed;
+		width: 982px;
+		margin: 2px;
+		background: #ffffff;
+	}
+
+	.article
+	{
+		float: left;
+		display: block;
+		font-size: 14px;
+		line-height: 1.4em;
+		background: #ffffff;
+		overflow: hidden;
+		padding: 2px;
+		color: #222222;
+	}
+
+		.article a
+		{
+			color: #018fb8;
+			color: #015bb8;
+			text-decoration: none;
+		}
+
+		.article a:hover
+		{
+			text-decoration: underline;
+		}
+
+		.article img
+		{
+			border: #cad6e0 1px solid;
+			padding: 1px;
+			margin: 1px;
+		}
+
+		.article .babby
+		{
+			color: #333333;
+			font-size: 100%;
+			line-height: 22px;
+			margin: 10px 0;
+		}
+
+		.article .babby h5
+		{
+			color: #262624;
+			font-family: Georgia, Times, sans-serif;
+			font-size: 200%;
+			font-style: italic;
+			margin: 5px 0;
+		}
+
+	.media
+	{
+		float: left;
+		display: block;
+		width: 168px;
+		margin-bottom: 5px;
+		text-align: center;
+		overflow: hidden;
+	}
+
+	.media a
+	{
+		display: block;
+	}
+
+	.comment
+	{
+		overflow: hidden;
+		position: relative;
+		display: block;
+		border: #d1d1d1 1px solid;
+		padding: 2px;
+		margin-bottom: 2px;
+		font-family: verdana;
+	}
+
+		.comment .date
+		{
+			position: absolute;
+			right: 70px;
+			top: 0px;
+			font-size: 10px;
+		}
+
+		.comment .rating
+		{
+			position: absolute;
+			right: 2px;
+			top: 0px;
+			font-size: 10px;
+		}
+
+		.comment p
+		{
+			margin: 0;
+			padding: 0;
+			border-top: #d1d1d1 1px dashed;
+		}
+
+		.comment img 
+		{
+			display: block;
+			float: left;
+		}
+</style>
+</head>
+
+<body>
+		<div id="achievement_hover_box" name="0" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; border: #49535d 1px solid; background: #ffffff; padding: 2px;" onmouseover="this.style.display = 'block';" onmouseout="this.style.display = 'none';"></div>
+	<div id="achievement_hover_box1" name="0" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; border: #49535d 1px solid; background: #ffffff; padding: 2px;"></div>
+
+	<div id="member_nav" style="display: none;">
+		<div style="width: 970px; margin: 0 auto; padding-right: 30px; text-align: right;">
+			<form id="head_login" action="/login.php" method="post" name="login" enctype="multipart/form-data" style="display: inline;">
+			<b>Login</b>
+			<input id="head_login_box" type="text" name="login" value="" style="width: 140px; margin: 3px 20px 0 0;">
+
+			<b>Password</b>
+			<input type="password" name="pass" value="" style="width: 140px; margin: 3px 0 0 0;">
+
+			<input type="submit" value="Submit">
+			<a href="/forgot_password.php">Forgot your password?</a>
+			</form>
+			<img src="/images/close.gif" id="member_nav-close" style="border: #c80000 1px solid; padding: 1px;" align="absmiddle">
+		</div>
+	</div>
+
+	<div id="header">
+		<div style="position: relative; width: 1000px; margin: 0 auto;">
+			<a href="http://www.infobarrel.com"><img src="/images/header-logo.gif" border="0" style="margin-top: 9px;"></a>
+			<div style="position: absolute; top: 57px; left: 118px; z-index: 1; display: block; color: #64dcff; font-weight: bold; font-size: 12px; line-height: 12px;">Barrels of Information &amp; How to Guides</div>
+
+			<div style="position: absolute; top: 1px; right: 20px; padding: 2px 10px; overflow: hidden; color: #ffffff; text-align: right; z-index: 2;">
+				<img src="/images/member_bar-tab_left.gif" style="float: left; display: block;">
+				<div style="float: left; display: block; display: inline; padding-top: 1px; height: 27px; background: #273037 url('/images/member_bar-tab_bg.gif') bottom repeat-x;">
+					<b>Welcome to InfoBarrel!</b> Please <a href="javascript:void();" id="open_member_bar">Login</a> or <a href="/signup.php">Signup</a>.
+				</div>
+				<img src="/images/member_bar-tab_right.gif" style="float: left; display: block;">
+			</div>
+		</div>
+	</div>
+	<div style="z-index: 2; clear: both; position: relative; width: 1000px; margin: 0 auto; height: 0px;">
+		<div id="new_friends" class="text"></div>
+	</div>
+	<div id="swp">
+		<div style="width: 1000px; margin: 0 auto;">
+			<div id="swp_1" style="background: url('/images/swp_arrow.gif') right no-repeat; float: left; width: 330px; position: relative;" onmouseover="document.getElementById('swp_1_tag').style.display = 'block';" onmouseout="document.getElementById('swp_1_tag').style.display = 'none';">
+				<a href="/signup.php"><img src="/images/swp_1.gif" align="top" border="0">Sign Up</a>
+				<div id="swp_1_tag" style="display: none; position: absolute; top: 30px; left: 52px;">Easy 2 step process! Comment, edit and write!</div>
+			</div>
+			<div id="swp_2" style="background: url('/images/swp_arrow.gif') right no-repeat; float: left; width: 330px; position: relative;" onmouseover="document.getElementById('swp_2_tag').style.display = 'block';" onmouseout="document.getElementById('swp_2_tag').style.display = 'none';">
+				<a href="/article_add.php"><img src="/images/swp_2.gif" align="top" border="0">Create</a>
+				<div id="swp_2_tag" style="display: none; position: absolute; top: 30px; left: 52px;">Simple word style editor! No HTML needed!</div>
+			</div>
+			<div id="swp_3" style="float: left; width: 340px; position: relative;" onmouseover="document.getElementById('swp_3_tag').style.display = 'block';" onmouseout="document.getElementById('swp_3_tag').style.display = 'none';">
+				<a href="/How_To_Get_A_Google_Adsense_Publisher_ID"><img src="/images/swp_3.gif" align="top" border="0">Get Paid</a>
+				<div id="swp_3_tag" style="display: none; position: absolute; top: 30px; left: 52px;">Earn 75% of Google Adsense views on your stuff!</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="main" style="position: relative;">
+				<div id="nav_bar">
+			<a href="http://www.infobarrel.com">Home</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/Writing_for_InfoBarrel">Create</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/members.php">Members</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/blog/">Blog</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/InfoBarrel_Contests">Contests</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/Things_To_Do">Things To Do</a>
+
+			<div style="float: right; margin: 5px 5px 0 0;">
+				<form action="/search.php" method="post" name="form_search_head" enctype="multipart/form-data">
+				<input type="text" name="search" maxlength="255" value="" style="float: left; display: block; width: 175px; height: 16px; margin: 1px 0;">
+				<input type="submit" name="mybutton" value="Search" style="float: left; display: block; width: 75px;">
+				</form>
+			</div>
+		</div>
+		<div id="content">
+			<div id="article">
+				<div class="title" style="position: relative; width: 981px;">
+					<div style="position: absolute; top: 0px; right: 2px; text-align: right; z-index: 1;">
+						<a href="#" onclick="document.getElementById('flag').style.display = 'block';">[flag]</a>
+					</div>
+					<h1>Privacy Policy</h1>
+
+				</div>
+
+				<div id="flag" class="errors" style="display: none;">
+					<form action="article_flag.php" method="post" name="form_flag" enctype="multipart/form-data">
+					<input type="hidden" name="id" value="571">
+					<input type="hidden" name="link" value="Privacy_Policy">
+					<div style="color: #FF0000; font-weight: bold; font-size: 14px; text-align: center;">FLAG AS INAPPROPRIATE!</div>
+					<div style="display: block; float: left; width: 140px; margin: 0 10px; font-size: 10px; text-align: right;">
+						<h3>Reason For Flag</h3>
+						Please be as descriptive as possible.
+					</div>
+					<textarea name="flag_reason" style="width: 640px; height: 50px; float: left; display: block;"></textarea>
+					<input type="submit" name="mybutton" value="Submit" style="margin-left: 36px; width: 113px;">
+					<br style="clear: both;">
+					<div style="display: block; float: left; width: 140px; margin: 0 10px; font-size: 10px; text-align: right;">
+						<h3>Human Test</h3>
+					</div>
+						<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LcxQgMAAAAAAHVEgGscJZsGcqeMznHACBDbwhZg"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LcxQgMAAAAAAHVEgGscJZsGcqeMznHACBDbwhZg" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>					</form>
+				</div>
+
+				<div class="article" style="margin-right: -3px; position: relative; background: #f1f1f1; width: 984px;">
+					<div style="position: relative; display: block; float: left; background: #FFFFFF; width: 622px; padding: 2px 4px; overflow: hidden;">
+						<div style="position: relative; top: -2px; left: -4px; font-size: 12px; display: block; background: #f1f1f1; height: 50px; color: #616161; font-weight: bold; width: 640px; text-align: center; margin-bottom: 10px">
+							By <img src="/media/avatar/1_100x100.jpg" style="display: inline; float: none; width: 16px; height: 16px;" align="absmiddle" onmouseover="achievement_box(1 , 1);" onmouseout="achievement_box(1, 0);"><a href="/Users/admin">admin</a>
+							| Oct 27, 2008							| Views: 1,072							| <img src="/images/comment.jpg" style="display: inline; float: none; border: 0;" align="absmiddle"><a href="#comments">0 Comments</a>
+							| <b>Rating:</b> <b id="article_rating" style="display: inline; float: none;">0</b>
+							<img src="/images/rate_down_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
+							<img src="/images/rate_up_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
+							<br>
+							<div style="float: left; margin: 3px 3px 0 120px;">
+								<img src="/images/printer.gif" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0 2px 0 0; padding: 0;"><a href="/article_print.php?title=Privacy_Policy">Print</a>
+							</div>
+							<div style="float: left; margin: 3px 3px 0;">
+								<img src="/images/email.gif" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0 2px 0 0; padding: 0;"><a href="#" onclick="document.getElementById('email_box').style.display = 'block';">E-mail</a>
+							</div>
+							<div style="float: left; margin: 3px 0 0 60px;">
+								<script type="text/javascript" src="http://d.yimg.com/ds/badge2.js" badgetype="logo">http://www.infobarrel.com/Privacy_Policy</script>
+							</div>
+							<div style="float: left; margin: 3px 3px 0;">
+								<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script>
+								<a href="http://www.facebook.com/share.php?u=&lt;url&gt;" onclick="return fbs_click()" target="_blank" class="fb_share_link"><img src="http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?0:26981" align="absmiddle" style="width: 16px; height: 16px; border: 0; margin: 0; padding: 0;"></a>
+							</div>
+							<div style="float: left; margin: 3px 3px 0;">
+								<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.infobarrel.com%2FPrivacy_Policy"><img src="http://cdn.stumble-upon.com/images/16x16_su_round.gif" align="absmiddle" style="border: 0; margin: 0; padding: 0;" alt=""></a>
+							</div>
+							<div style="float: left; margin: 3px 3px 0;">
+								<script type="text/javascript">
+									digg_url = 'http://www.infobarrel.com/Privacy_Policy';
+									digg_bgcolor = '#f1f1f1';
+									digg_skin = 'icon';
+									digg_window = 'new';
+								</script>
+								<script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script>
+							</div>
+							<div style="float: left; margin: 4px 3px 0;">
+								<a href="http://twitter.com/home?status=Currently reading http://www.infobarrel.com/Privacy_Policy" title="Click to send this page to Twitter!" target="_blank"><img src="/images/twitter.jpg" style="border: 0; margin: 0; padding: 0;"></a>
+							</div>
+							<div style="float: left; margin: 4px 3px 0;">
+								<a href="http://www.mixx.com/" onclick="window.location='http://www.mixx.com/submit?page_url='+window.location; return false;">
+								<img src="http://www.mixx.com/images/buttons/mixx-button4.png" alt="Add to Mixx!" style="border: 0; margin: 0; padding: 0;">
+									</a> 
+							</div>
+							<div style="float: left; margin: 4px 3px 0;">
+								<a href="http://del.icio.us/post?url=http://www.infobarrel.com/Privacy_Policy"><img src="/images/delicious_button.jpg" alt="Add to del.icio.us" style="border: 0; margin: 0; padding: 0;"></a>
+							</div>
+							<div style="float: left; margin: 2px 3px 0;">
+								<script>reddit_url='http://www.infobarrel.com/Privacy_Policy'</script>
+								<script>reddit_title='Privacy Policy'</script>
+								<script type="text/javascript" src="http://www.reddit.com/button.js?t=1"></script>
+							</div>							
+						</div>
+
+<div class="KonaBody">
+						<meta http-equiv="content-type" content="text/html; charset=utf-8"><h2>Infobarrel.com Privacy Policy</h2>Effective <b>July/31/2008</b> 
+<p><b>Privacy Notice Table Of Contents:</b> <br></p><b>Our Commitment To Privacy</b> 
+<p>Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. </p>
+<p><a name="2"></a><b>The Information We Collect:</b> </p>
+<p>This notice applies to all information collected or submitted on the Infobarre.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: </p>
+<ul>Name <br>Address <br>Email address <br>Phone number <br><br></ul>
+<p><a name="3"></a><b>The Way We Use Information:</b> </p>
+<p>We use the information you provide about yourself to better understand our audience. We do not share this information with outside parties unless otherwise stated. </p>
+<p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. </p>
+<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. </p>
+<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. </p>
+<p><a name="4"></a><b>Our Commitment To Data Security</b> </p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </p>
+<p><a name="5"></a></p>
+<p><a name="6"></a><b>How You Can Access Or Correct Your Information</b> </p>
+<p>You can access all your personally identifiable information that we collect online and maintain by logging in to infobarrel.com and going to the 'my account' section. We use this procedure to better safeguard your information. </p>
+<p>You can correct factual errors in your personally identifiable information by editing the setting under 'my account'. </p>
+<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. </p>
+<p><a name="7"></a><b>How To Contact Us</b> </p>
+<p>Should you have other questions or concerns about these privacy policies, please call us at 778-355-4320 or send us an email via our <a class="" href="Contact_Us" target="" name="" classname="">contact form</a>. </p>
+</div>
+						<div style="display: block; width: 100%; margin-top: 10px;"></div>
+
+						<div style="display: block; width: 100%; background: #ffffff;">
+							<b>Tags:</b> 
+							<a href="related_articles.php?tag=Privacy_Policy">Privacy Policy</a>; 
+					
+						</div>
+					</div>
+<!--[if !IE]>------------------------------------------------------------------ START RIGHT SIDE ------------------------------------------------------------------<![endif]-->
+					<div class="text" style="background: 0; position: relative; float: right; display: block; width: 350px; z-index: 1">
+						<div class="tabs" style="margin: 0 2px 0 6px;">
+							<a href="javascript:void();" id="button-related" style=" background: #ffffff; color: #000000;" onclick="article_tab('articles-related', this);">Related</a>
+							<a href="javascript:void();" id="button-user" style="  color: #000000;" onclick="article_tab('articles-user', this);">More from User</a>
+							<a href="javascript:void();" id="button-cat" style="  color: #000000;" onclick="article_tab('articles-cat', this);">More in Category</a>
+						</div>
+
+						<div id="articles-related" class="text" style="display: block; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1228_50x50.jpg" width="30" height="30">
+								<a href="/Finding_the_Right_Individual_Health_Insurance_Policy" title="Finding the Right Individual Health Insurance Policy" style="font-weight: bold;">Finding the Right Individual Health Insurance Policy</a><br>
+								149 views 
+								| By <a href="/Users/MomWhoWrites" rel="nofollow">MomWhoWrites</a> 
+							</div>
+						</div>
+
+						<div id="articles-user" class="text" style="display: none; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Writing_For_Money" title="Writing For Money" style="font-weight: bold;">Writing For Money</a><br>
+								886 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Printable_Coupons" title="Printable Coupons" style="font-weight: bold;">Printable Coupons</a><br>
+								1,403 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_to_Spruce_up_your_Infobarrel_Articles" title="How to Spruce up your Infobarrel Articles" style="font-weight: bold;">How to Spruce up your Infobarrel Articles</a><br>
+								232 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_to_use_the_Draft_Function_on_InfoBarrel" title="How to use the Draft Function on InfoBarrel" style="font-weight: bold;">How to use the Draft Function on InfoBarrel</a><br>
+								196 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_to_Write_a_How_to_Article" title="How to Write a How to Article" style="font-weight: bold;">How to Write a How to Article</a><br>
+								2,612 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Infobarrel_Mini_Editorial_Guidelines" title="Infobarrel Mini Editorial Guidelines" style="font-weight: bold;">Infobarrel Mini Editorial Guidelines</a><br>
+								329 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+						</div>
+
+						<div id="articles-cat" class="text" style="display: none;  float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Stumble_Your_Way_to_More_Traffic" title="Stumble Your Way to More Traffic" style="font-weight: bold;">Stumble Your Way to More Traffic</a><br>
+								323 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/InfoBarrel_Preapproved_Criteria" title="InfoBarrel Preapproved Criteria" style="font-weight: bold;">InfoBarrel Preapproved Criteria</a><br>
+								2,145 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Infobarrel_Mini_Editorial_Guidelines" title="Infobarrel Mini Editorial Guidelines" style="font-weight: bold;">Infobarrel Mini Editorial Guidelines</a><br>
+								329 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_to_Spruce_up_your_Infobarrel_Articles" title="How to Spruce up your Infobarrel Articles" style="font-weight: bold;">How to Spruce up your Infobarrel Articles</a><br>
+								232 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Digg_to_get_Your_Content_In_Google" title="Digg to get Your Content In Google" style="font-weight: bold;">Digg to get Your Content In Google</a><br>
+								486 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_Does_InfoBarrel_Work%3f" title="How Does InfoBarrel Work?" style="font-weight: bold;">How Does InfoBarrel Work?</a><br>
+								3,123 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+						</div>
+
+						<br style="clear: both;">
+						<div class="tabs" style="margin: 0 2px 0 6px;">
+							<a href="javascript:void();" style="background: #ffffff; color: #000000;">Author Info</a>
+						</div>
+
+						<div class="text" style="float: right; margin: 0 2px 10px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<img src="/media/avatar/1_100x100.jpg" style="float: left; display: block;" onmouseover="achievement_box(1 , 1);" onmouseout="achievement_box(1, 0);">
+							<a href="/Users/admin" style="font-weight: bold; font-size: 14px;">admin</a><br>
+							<br style="clear: both;">
+													</div>
+						<br style="clear: both;">
+
+						<div class="tabs" style="margin: 0 2px 0 6px;">
+							<a href="javascript:void();" style="background: #ffffff; color: #000000;">Category</a>
+						</div>
+
+						<div class="text" style="float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
+							<a href="InfoBarrel_University">InfoBarrel University</a>
+						</div>
+					</div>
+<!---[if !IE]>------------------------------------------------------------------ END RIGHT SIDE ------------------------------------------------------------------<![endif]-->
+					<div class="title" style="position: relative; width: 622px;">
+						<a name="comments"></a>Comments
+					</div>
+					<div style="display: block; float: left; background: #FFFFFF; width: 622px; padding: 2px 4px;">
+<b style="display: block; text-align: center; margin: 5px 0;">Nobody has commented yet. Be the first!</b>						<div style="border-top: #000000 1px dashed; margin-top: 5px; height: 1px; width: 100%; overflow: hidden;"></div>
+						<h3 id="comment_title" style="display:inline;">Add a New Comment</h3> <i style="font-size:10px;"> - no HTML please</i>
+						<div style="width: 614px; padding: 2px; border: #018fb8 1px solid; background: #dcf6fd; margin: 0; height: 100px;">
+							<div style="background: #ffffff; width: 514px; padding: 2px; border: #FF0000 1px dashed; margin: 20px auto;">
+								To post a comment you must be logged in to the site, please <a href="#" onclick="document.getElementById('head_login_box').focus();">login</a> at the top right of the page.  If you are not a member, you can <a href="/signup.php" style="font-weight: bold;">sign up here</a>.
+							</div>
+						</div>
+						<input type="submit" name="mybutton" value="Submit Comment" disabled="">
+
+					</div>
+				</div>
+			</div>
+
+						<div id="explore" style="float: left; display: block; width: 1000px; overflow: hidden; margin: 10px 0;">
+				<div class="title" style="width: 993px;">
+					Explore Info Barrel
+				</div>
+				<div style="width: 998px; overflow: hidden; border: #d1d1d1 1px solid; border-top: 0;">
+					<a href="/Culture" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-culture.gif" align="absmiddle" border="0">Culture</a>
+					<a href="/Geography" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-geography.gif" align="absmiddle" border="0">Geography</a>
+					<a href="/Health" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-health.gif" align="absmiddle" border="0">Health</a>
+					<a href="/History" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-history.gif" align="absmiddle" border="0">History</a>
+					<a href="/Mathematics" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-mathematics.gif" align="absmiddle" border="0">Mathematics</a>
+					<a href="/People" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-people.gif" align="absmiddle" border="0">People</a>
+					<a href="/Philosophy" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-philosophy.gif" align="absmiddle" border="0">Philosophy</a>
+					<a href="/Religion" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-religion.gif" align="absmiddle" border="0">Religion</a>
+					<a href="/Science" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-science.gif" align="absmiddle" border="0">Science</a>
+					<a href="/Society" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-society.gif" align="absmiddle" border="0">Society</a>
+					<a href="/Technology" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-technology.gif" align="absmiddle" border="0">Technology</a>
+					<a href="/InfoBarrel_University" style="float: left; display: block; width: 248px; font-size: 15px;"><img src="/images/category-ibu.gif" align="absmiddle" border="0">InfoBarrel University</a>
+				</div>			
+			</div>
+
+			<div id="nav_box">
+				<div style="float: left; display: block; width: 250px; border-right: #d1d1d1 1px solid; margin: 5px 10px 5px 5px;">
+					<h3>Site Links</h3>
+					<a href="http://www.infobarrel.com/" title="Infobarrel" style="margin-bottom: 0;">Home</a>
+					<a href="http://www.infobarrel.com/InfoBarrel_News" title="InfoBarrel News" style="display: inline; line-height: 24px;">News</a> <a href="http://www.twitter.com/infobarrel" style="display: inline;"><img src="/images/twitter.gif" align="absmiddle" style="border: 0; margin: 0; padding: 0;"></a><br>
+					<a href="http://www.infobarrel.com/feed.php" title="InfoBarrel XML Feed" style="display: inline; line-height: 24px;">XML Feed</a> <a href="http://feeds.feedburner.com/Infobarrel" rel="alternate" type="application/rss+xml" style="display: inline;"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" align="absmiddle" style="border:0; margin: 0; padding: 0;"></a> <a href="http://fusion.google.com/add?source=atgs&amp;feedurl=http%3A//www.infobarrel.com/feed.php" style="display: inline; line-height: 24px;"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google" align="absmiddle"></a>
+					<a href="http://www.infobarrel.com/search.php" title="Search InfoBarrel">Search</a>
+					<a href="http://www.infobarrel.com/Contact_Us" title="Contact InfoBarrel">Contact Us</a>
+					<a href="http://www.infobarrel.com/About_Us" title="About InfoBarrel">About Us</a>
+					<a href="http://www.infobarrel.com/Press_Releases" title="InfoBarrel Press Releases">Press Releases</a>
+					<a href="http://www.infobarrel.com/Terms_of_Service" title="InfoBarrel Terms of Service">Terms of Service</a>
+					<a href="http://www.infobarrel.com/Privacy_Policy" title="InfoBarrel Privacy Policy">Privacy Policy</a>
+				</div>
+
+				<div style="float: left; display: block; width: 250px; border-right: #d1d1d1 1px solid; margin: 5px 10px 5px 5px;">
+					<h3>Help</h3>
+					<a href="http://www.infobarrel.com/How_Does_InfoBarrel_Work%3f" title="How Does InfoBarrel Work?">How Does This Work?</a>
+					<a href="http://www.infobarrel.com/Writing_for_InfoBarrel" title="Writing for InfoBarrel">Writing for Us</a>
+					<a href="http://www.infobarrel.com/InfoBarrel_Preapproved_Criteria" title="InfoBarrel Preapproved Criteria">How Do I Become Preapproved?</a>
+				</div>
+
+				<div style="float: left; display: block; width: 440px; margin: 5px 10px 5px 5px;">
+					<h3>Info Barrel Archive</h3>
+<br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2008</b><div style="display: inline; margin: 0 3px;">Jan</div><div style="display: inline; margin: 0 3px;">Feb</div><div style="display: inline; margin: 0 3px;">Mar</div><div style="display: inline; margin: 0 3px;">Apr</div><div style="display: inline; margin: 0 3px;">May</div><a href="/Archive/Jun-2008" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2008" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2008" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2008" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2008" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2008" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2008" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2009</b><a href="/Archive/Jan-2009" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2009" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2009" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2009" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2009" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2009" style="margin: 0 3px; display: inline;">Jun</a>				</div>
+			</div>
+
+			<div id="footer">
+				<div style="line-height: 20px; padding-right: 10px; float: left; display: block;">© Copyright 2008 Hinzie Media Inc.</div>
+				<a href="/Terms_of_Service" style="background: none; color: #018fb8; font-weight: normal; text-decoration: underline; margin-top: 0px; line-height: 20px; padding-right: 10px; float: left; display: block;">Terms of Service</a>
+				<a href="/Sitemap.php" style="background: none; color: #018fb8; font-weight: normal; text-decoration: underline; margin-top: 0px; line-height: 20px; padding-right: 10px; float: left; display: block;">XML Sitemap</a>
+				<div id="rss"><a href="/feed.php"><img src="/images/rss_left.gif" align="top">Article Feed<img src="/images/rss_right.gif" align="top"></a></div>
+				<div id="rss"><a href="/blog/feed/"><img src="/images/rss_left.gif" align="top">Blog Feed<img src="/images/rss_right.gif" align="top"></a></div>
+
+				<script src="/astrack.js" type="text/javascript"></script>
+
+				<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+				<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-2869764-10");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+				</script>
+			</div>
+<script type="text/javascript">
+var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com"
+document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+</script><script src="https://uservoice.com/javascripts/widgets/tab.js" type="text/javascript"></script>
+<script type="text/javascript">
+UserVoice.Tab.show({ 
+  key: 'infobarrel',
+  host: 'infobarrel.uservoice.com', 
+  forum: 'general', 
+  alignment: 'right',
+  background_color:'#64dcff', 
+  text_color: 'black',
+  hover_color: '#25a9da'
+})
+</script>
+
+
+			<div id="email_box" class="text" style="display: none; position: absolute; top: 100px; left: 300px; width: 500px; overflow: hidden; font-size: 11px; padding: 0; border: #d1d1d1 1px solid; background: #ffffff; z-index: 1;">
+				<h4 style="margin-top: 0; text-align: center; position: relative;">
+					E-mail To A Friend
+					<div style="position: absolute; right: 1px; top: 1px;"><a href="#" onclick="document.getElementById('email_box').style.display = 'none';"><img src="/images/close.gif"></a></div>
+				</h4>
+				<div style="border-bottom: #d1d1d1 1px dashed; padding: 2px; margin-bottom: 4px; display: block; float: left; width: 493px;">
+					You must be logged in to send e-mails to your friends.  Please login at the top right of the page.  If you are not a member you can sign up <a href="/signup.php">here</a>.<br><br>
+					Thanks
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<uptime></uptime></body></html>
