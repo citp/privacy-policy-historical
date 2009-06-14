@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616143747id_/http%3A//www.checkster.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614111430id_/http%3A//checkster.com/web/privacy.php) for the most accurate reproduction.*
 
-# Checkster - Get into their minds!
+# Checkster : Privacy Policy
 
 **Information about you is private. We plan to keep it that way.**  
 Checkster pioneers the online Personal Feedback Management industry, and privacy and safety were built into the site and application from day one. It's a fact that we collect information about you. This allows us to deliver products and services to help you in your search for the best career. Most importantly, this information helps us do what we're here for - match people with the best potential future.
