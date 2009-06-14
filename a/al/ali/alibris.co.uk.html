@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alibris.co.uk privacy policy that was archived on 2008-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081212153731id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alibris.co.uk privacy policy that was archived on 2009-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614035236id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	
@@ -14,7 +14,7 @@
 
 
 
-<title>Alibris UK: New, Used, Rare &amp; Out-of-Print Books -- Help &amp; Customer Service</title><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/alibrisPortal.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/body.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/book.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/button.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/form.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/layout.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/window.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/promos.css"><script src="/framework/skins/alibris/js/web.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/delete.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/float.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/menu.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/menufx.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/skin.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/util.js" type="text/javascript"></script>
+<title>Alibris UK: New, Used, Rare &amp; Out-of-Print Books -- Help &amp; Customer Service</title><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/alibrisPortal.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/body.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/book.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/button.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/form.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/layout.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/window.css"><link rel="stylesheet" type="text/css" href="/framework/skins/alibris/css/promos.css"><script src="/framework/skins/alibris/js/web.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/delete.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/float.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/menu.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/menufx.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/skin.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/util.js" type="text/javascript"></script><script src="/framework/skins/alibris/js/jquery-1.3.1.min.js" type="text/javascript"></script>
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-<body class="bea-portal-body" onload="initSkin();"><div class="bea-portal-body-content">
+<body class="bea-portal-body" onload="initSkin();"><div class="bea-portal-body-content" id="bea-portal-body-content">
 
 
 
@@ -47,6 +47,8 @@
 
     
     <div class="bea-portal-body-header">
+
+
 
 
 
@@ -81,6 +83,11 @@
 	function setNewCurrency(currencyCode) {
 		document.location.href = changeCurrencyUrl + "&currencyCode=" + currencyCode;
 	}
+	
+	function updateCartQuantityText(newValue)
+	{
+		document.getElementById("cart-items-text").innerHTML = newValue;
+	}
 -->
 </script>
 
@@ -109,7 +116,9 @@
 		  <div id="header">
 		    <!--to minimize markup: H2 serves as the container for the header's left column-->
 		    <!-- Logo has been assigned .logo class in-case other images are placed in the header.-->
-		    <h2> <a href="/"><img src="/images/nav/alibris-logo.gif" alt="Alibris" width="146" height="70" align="middle" class="logo" border="0"></a>
+		    <h2>
+		    <a href="/">
+		    <img src="/images/nav/alibris-logo.gif" alt="Alibris" width="146" height="70" align="middle" class="logo" border="0"></a>
 		     </h2>
 		    <div id="user_navigation">
 		    <div>
@@ -129,14 +138,14 @@
 			 <a href="/help/home"><strong>Help</strong></a>
 			 
 				&nbsp;|&nbsp;
-				<a href="/account"><img src="/images/nav/btn-login.gif" alt="Login" width="56" height="17" border="0" align="absmiddle"></a>
+				<a href="/account?login=true"><img src="/images/nav/btn-login.gif" alt="Login" width="56" height="17" border="0" align="absmiddle"></a>
 			 
 			 </p>
 			  </div>
 			  <div>
-		      <p class="cart_links">
-
+		      <p class="cart_links"></p><div id="cart-items-text">
 		      	<a href="/cart">0 items in your cart</a>
+		      	</div>
 		      	<a href="/cart">
 			      	
 				      	
@@ -146,13 +155,15 @@
 			      	
 		      	</a>
 				
-		      	</p>
+		      	<p></p>
 		      	</div>
 		    </div>
 		    <div id="targeted_links">
 		      <ul>
-		        <li><a href="http://www.alibris.com/librarians">Alibris for Libraries </a></li>
-		        <li><a href="http://www.alibris.com/sellers">Sell at Alibris</a></li>
+		        <li>
+		        <a href="http://library.alibris.com">Alibris for Libraries </a></li>
+				
+		        <li><a href="/sellers">Sell at Alibris</a></li>
 		      </ul>
 		    </div>
 		
@@ -376,7 +387,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
     
-    <div class="bea-portal-book-primary-page">
+    <div id="bea-portal-book-primary" class="bea-portal-book-primary-page">
 
 
 
@@ -474,8 +485,7 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
-
-
+	
 	
 		<div style="margin-bottom: 10px; padding: 0;">
 		
@@ -486,117 +496,9 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
     
  
- 
 
 
 
-
-
-
-
-</div>
-        
-    </div>
-    
-
-
-
-</div>
-</td>
-            
-                  </tr>
-                    <tr>
-    
-            
-            <td class="bea-portal-layout-placeholder-container">
-
-<div class="bea-portal-layout-placeholder">
-
-
-
-
-
-
-
-
-    
-    <div class="bea-portal-alert-window" width="100%">
-        
-
-
-
-
-
-
-    
-    <div class="bea-portal-alert-window-titlebar">
-        <div class="bea-portal-ie-table-buffer-div">
-            <table class="bea-portal-alert-window-titlebar-container" cellspacing="0">
-                <tbody><tr>
-
-                    <td class="bea-portal-alert-window-titlebar-buttons" nowrap="nowrap">
-
-
-
-
-
-
-</td>
-                </tr>
-            </tbody></table>
-        </div>
-    </div>
-    
-
-
-        
-<div class="bea-portal-alert-window-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-	
-	
-	
-	<div class="bottom-20">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-		
-		
-			
-			
-			<a href="/books/books-bargains?cm_sp=Promo-_-LHS-_-holiday-bargains">
-				<img border="0" src="/images/holiday/lhs-bargain-green-174.jpg">
-			</a>
-	    
-
-	    
-	 </div>  
 
 
 
@@ -680,24 +582,152 @@ var initTxt = "Enter title, author, ISBN, and/or keyword";
 
 
 
-
-
-
-
-
-
-
-
-
 	
-		<div style="margin-bottom: 10px; padding: 0;">
+	
+	
+	
+	
+	
+			
 		
-		<a href="/help/holiday-exp"><img border="0" src="/images/holiday/shipping_hol_05_get_174.gif"></a>
+			<div class="bottom-20">
+			
+		    	
+			
+		
+				
+			    
+			    	<div style="width: 174px;">
+	<div class="round-box-dk-blue">
+		<div class="top-left"></div>
+		<div class="top-right"></div>
+		<div class="inside">
+			<div class="notopgap"></div>
+			<div>
+				<h3 style="color:#fff; font-size: 14px; margin: 0 0 8px 0;">GET COOL CASH for YOUR TEXTBOOKS</h3>
+			</div>
+			<div><img src="/images/promos/book-buy-back-2books-rhs-dkblue.gif" width="150" height="100"></div>
+			<div style="margin: 0 0 5px 0;">
+				<p style="color: #fff; font-size: 12px; margin: 0;"><strong>Sell your used textbooks</strong> </p>
+			</div>
+			<div align="center">
+				<script language="javascript">initBbTxt = 'Enter all your ISBNs here separated with commas';</script>
+				<form action="http://buyback.alibris.com/buyback.aspx" target="_new" onsubmit="if(document.getElementById('isbns').value == 'Enter all your ISBNs here separated with commas') document.getElementById('isbns').value=''; return true;">
+					<textarea name="isbns" id="isbns" cols="17" rows="3" onfocus="this.style.color = '#000'; if (this.value == initBbTxt) { this.value = ''; }" onblur="if (this.value == '') { this.style.color = '#999'; this.value = initBbTxt; } else {this.style.color = '#000';}" style="width: 150px; margin-bottom: 4px; font: 12px Arial, Helvetica, Geneva, sans-serif; color: #999;">Enter all your ISBNs here separated with commas</textarea>
+					<br>
+					<input value="»&nbsp;sell your textbooks" class="btn" name="submit2" type="submit" style="width: 150px;font-size: 10px; font-family: Verdana, Arial, Geneva, sans-serif; font-weight:bold; text-align:center; color:#333; background: #f90; margin: 2px; padding:1px; border-top:2px solid #fc5; border-right: 2px solid #d72; border-bottom: 2px solid #d72; border-left:2px solid #fc5;">
+				</form>
+			</div>
+			<div class="nobottomgap"></div>
 		</div>
+		<div class="bottom-left"></div>
+		<div class="bottom-right"></div>
+	</div>
+</div>
+
+			    
+			 </div>  
+		
+		
+	
+	
+
+
+
+
+
+
+
+
+</div>
+        
+    </div>
     
 
 
- 
+
+</div>
+</td>
+            
+                  </tr>
+                    <tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container">
+
+<div class="bea-portal-layout-placeholder">
+
+
+
+
+
+
+
+
+    
+    <div class="bea-portal-alert-window" width="100%">
+        
+
+
+
+
+
+
+    
+    <div class="bea-portal-alert-window-titlebar">
+        <div class="bea-portal-ie-table-buffer-div">
+            <table class="bea-portal-alert-window-titlebar-container" cellspacing="0">
+                <tbody><tr>
+
+                    <td class="bea-portal-alert-window-titlebar-buttons" nowrap="nowrap">
+
+
+
+
+
+
+</td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+    
+
+
+        
+<div class="bea-portal-alert-window-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
 
 
 
@@ -858,18 +888,9 @@ function anchor_submit_form(netuiName, newAction)
 
 
 
-
-
-
-
-
-
-
-
 	
-		<map name="m_site-legend"><area shape="rect" coords="5,40,144,63" href="/help/quick-buy?cm_sp=promo-_-quickBuyGTK-_-lhs" title="QuickBuy help"><area shape="default" nohref=""></map><img src="/images/nav/site-legend4.gif" alt="" usemap="#m_site-legend" border="0" height="108" width="174">
     
-
+	
 
 
 <!-- links -->
@@ -878,8 +899,9 @@ function anchor_submit_form(netuiName, newAction)
 	<div id="helplink">
 		
 		
+		
 			
-		<p><a href="/promotions/intro" class="helplink">getting started</a></p> 
+		<p><a href="/promotions/why-alibris-uk" class="helplink">getting started</a></p>
 		<!-- change to create-account once its ready -->
 		
 		
@@ -993,8 +1015,7 @@ function anchor_submit_form(netuiName, newAction)
 
 
 
-
-
+	
 	
 		<div style="margin-bottom: 10px; padding: 0;">
 		
@@ -1003,7 +1024,10 @@ function anchor_submit_form(netuiName, newAction)
     
 
 
- 
+
+
+
+
 
 
 
@@ -1080,7 +1104,7 @@ function anchor_submit_form(netuiName, newAction)
 
 
     
-    <div class="bea-portal-book-page">
+    <div id="bea-portal-book-primary" class="bea-portal-book-page">
 
 
 
@@ -1160,14 +1184,7 @@ function anchor_submit_form(netuiName, newAction)
 
 
    
-
-
-
-
-
-
-
-
+	
 
 	
 		<div class="page-intro">
@@ -1316,63 +1333,107 @@ customer-service enquiries.
 
 
 
-
-
-
-
-<div id="footer">
-	<div align="center">
-
-		
 		
 			
 			
-						<p><a href="/">Used Books</a>
-			| <a href="/books/rare-collectible">Rare, Out-of-Print &amp; Collectible Books</a>
-			| <a href="/books/textbooks">Textbooks</a>
-			| <a href="/movies">Used DVDs &amp; Movies</a>
-			| <a href="/music">Used CDs &amp; Music</a>
-		</p>
+						<div id="footer2">
+			<div class="top">
+				<div class="quick-help">
+					<p><strong>Quick Help</strong></p>
 
-		<p><a href="http://www.alibris.com/sellers" target="_new">Sell Books, Music, &amp; Movies Online</a>
-			| <a href="http://www.alibris.com/librarians/librarians-home.cfm?S=L">Alibris for Libraries</a>
-			| <a href="/affiliates/home">Join Affiliates</a>
-		</p>
+					<p><a href="/portals/alibrisPortal.portal?_nfpb=true&amp;_windowLabel=account&amp;account_actionOverride=%2Falibris%2Fjump%2Flogin%2FemailPassword&amp;_pageLabel=alibrisPage_userAccount">Forgot Password?</a></p>
+					<p><a href="/help/shipping">Shipping Rates</a></p>
+					<p><a href="/policies/returns">Money-Back Guarantee</a></p>
+					<p><a href="/policies/returns">Return Policy</a></p>
+					<p><a href="/policies/shopping">100% Secure Shopping</a></p>
+					<p><a href="/help/home">Help Center</a></p>
+
+					<p><a href="/contact/contact-home">Contact Us</a></p>
+				</div>
+				<div class="about-us">
+					<p><strong>About Us</strong></p>
+					<p><a href="/about/aboutus">The Alibris Story</a></p>
+					<p><a href="/about/alibris-cares">Social Responsibility</a></p>
+					<p><a href="/promotions/intro">Why Shop Here?</a></p>
+
+					<p><a href="/glossary/glossary-home">Glossary</a></p>
+					<p><a href="/affiliates/home">Join Affiliates</a></p>
+				</div>
+				<div class="your-account">
+					<p><strong>Your Account</strong></p>
+					<p><a href="/account">Log In</a></p>
+					<p><a href="/account">Create an Account</a></p>
+
+					<p><a href="/account">Order Status</a></p>
+					
+					<p><a href="/wishlist">Wishlist</a></p>
+					<p><a href="/newsletter-signup">Sign Up for Coupons</a></p>
+				</div>
+				<div class="explore">
+					<p><strong>Explore</strong></p>
+
+					<p><a href="/">Second-Hand Books</a></p>
+					<p><a href="/books/rare-collectible">Rare, Out-of-Print &amp; Collectible Books</a></p>
+					<p><a href="/books/textbooks">Textbooks</a></p>
+					<p><a href="/movies">Used DVDs &amp; Movies</a></p>
+					<p><a href="/music">Used CDs &amp; Music</a></p>
+
+					<p><a href="/subjects">Browse Subjects</a></p>
+					<p><a href="/books/top-selling-authors">Browse Authors</a></p>
+					
+				</div>
+				<div class="clear-space"></div>
+			</div>
+
+			<div class="rule"></div>
+
+			<div class="bottom">
+				<div class="other-sites">	
+					<ul>
+						<li>Other Alibris Web Sites:</li>
+						<li><a href="/sellers">Sell Books, Music, &amp; Movies Online</a></li>
+						<li><a href="http://www.alibris.com/librarians/">Alibris for Libraries</a></li>
+						<li class="last">International: <a href="http://www.alibris.com">Alibris U.S.</a></li>
+					</ul>
+					<ul>
+						<li><a href="/policies/terms">Terms of Use</a></li>
+						<li><a href="/policies/copyright">Copyright © 1998 - 2009 Alibris. All rights reserved. Alibris and BookMate are trademarks of Alibris</a></li>
+						<li class="last"><a href="/policies/privacy">Alibris Privacy Policy</a></li>
+					</ul>
+
+				</div>
+				<!-- start for book search only -->
+				<div class="footer-search">
+					
+			
+					
+						
+					
+				</div>
+				<!-- end for book search only -->
+			</div>
+	
+
 		
-		<p><a href="/subjects?cm_sp=Staffpicks*All*allsubjects">Browse Subjects</a>
-			| <a href="/books/top-selling-authors?cm_sp=Staffpicks*All*topauthors">Browse Authors</a>
-		</p>
-
-		<p><a href="/help/home">Help</a>
-			| <a href="/help/shipping">Shipping Info</a>
-			| <a href="/contact/contact-home">Contact Us</a>
-			| <a href="/policies/returns">Satisfaction Guarantee</a>
-			| <a href="/policies/privacy">Privacy Policy</a>
-			| <a href="/policies/terms">Terms of Use</a>
-			| <a href="/about">About Us</a>
-		</p>
-
-		<p>International: <a href="http://www.alibris.com">Alibris U.S.</a></p><p>
+		
+<p>
 			
 		
 
-		</p><p>&nbsp;</p>
-		<p><a href="/policies/copyright">Copyright © 1998 - 2008 Alibris. All rights reserved. Alibris and BookMate are trademarks of Alibris</a><br>
-		
-		
-
-		
-			
-		
-		
-		</p>
-	</div>
 	<img src="/images/spacer.gif" class="gra-minwidth" alt="">
 	
 	
+		
+
+
+
+
+
+
 	
 	
-</div>
+
+</p></div>
 
 
 
@@ -1406,10 +1467,13 @@ customer-service enquiries.
 <script language="javascript1.1" src="/coremetrics/cmdatatagutils_uk.js"></script>
 <script language="javascript1.1">
 <!--
+  try {
 	cmSetProduction();
 	cmCreatePageviewTag("policies/privacy", "policies", "", "", "0", "0", "0");
+  } catch(e) { }
 // -->
 </script>
+
 
 
 
