@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swoopo.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012626id_/http%3A//www.swoopo.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoopo.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614134244id_/http%3A//www.swoopo.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Swoopo UK | Cheap Wii Fit Nintendo DS PS3 Auctions Swoopo | Swoopo.co.uk Auction
 
