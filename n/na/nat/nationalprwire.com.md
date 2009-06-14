@@ -1,0 +1,47 @@
+> *The following text is extracted and transformed from the nationalprwire.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614151406id_/http%3A//www.nationalprwire.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | National PR Wire
+
+Welcome to National PR Wire.  We respect your privacy. That is why we don’t ever sell your email address, and we don’t ever spam. What this privacy policy covers:
+
+* This privacy policy pertains to the use of the National PR Wire website at http://www.prleap.com/  
+* This privacy policy covers how National PR Wire treats personal information that National PR Wire collects and receives. Personal information about you that is personally identifiable like your name, address, email address, or phone number.  
+* You must be 18 years of age to use National PR Wire service and this privacy policy makes no provision for childrenÕs use of the site.
+
+Information collection and how it’s used
+
+* National PR Wire collects personal information you register with National PR Wire to use National PR Wire services or to post content on National PR Wire.  
+* When you register we ask for your email address, name, company name, address, phone number, and website address.  
+* If you would like to obtain a paid (”Pro”) account, we will ask for your billing address and credit card information.  
+* National PR Wire automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.  
+* National PR Wire uses information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+
+Information Sharing and Disclosure
+
+* When you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. National PR Wire does not rent or sell your personal information.  
+* National PR Wire does not share or sell information with other organizations for commercial purposes, except to provide products or service youÕve requested and in the following circumstances:  
+* It is necessary to share information in order to investigate, prevent, or take action regarding activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.  
+* National PR Wire may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims;  
+o We will transfer information about you if National PR Wire is acquired by or merged with another company. In this event, National PR Wire will notify you by email or by putting a prominent notice on the National PR Wire web site before information about you is transferred and becomes subject to a different privacy policy. National PR Wire may share demographic information with business partners, such as “69% of users who regularly use National PR Wire service are between 24 and 35″ or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)  
+* National PR Wire displays targeted advertisements based on personal information that is exhibited in people’s profiles. “When you register with us, your personal information and other data will be stored and processed in the United States and this information may be subject to the laws of these jurisdictions.
+
+Information Rights and Publicity
+
+Unless you notify us otherwise in writing, You hereby grant to National PR Wire and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features (”Brand Features”) in presentations, marketing materials, web sites, customer lists, and financial reports.
+
+Editing and deleting account information. Security.
+
+* You can change your National PR Wire Account information, at any time.  
+* We may send you certain communications relating to the National PR Wire service, such as service announcements and administrative messages, that are considered part of your National PR Wire account.  
+* You can request to delete your National PR Wire account at any time from the help desk. Please note that your identification, billing and contact information may remain in National PR Wire’s records for some period.  
+* We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
+* Your National PR Wire Account Information is password-protected.  
+* In certain areas, National PR Wire uses SSL-encryption to protect data transmissions.
+
+Changes to this Privacy Policy
+
+National PR Wire may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your National PR Wire account or by placing a prominent notice on our site.
+
+If you have questions or suggestions please use you the help form or you can contact us [here](http://www.nationalprwire.com/contact/).
+
+Effective Date: August 2008.
