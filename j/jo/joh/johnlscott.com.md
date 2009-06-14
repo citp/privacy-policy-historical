@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231134821id_/http%3A//www.johnlscott.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlscott.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614183623id_/http%3A//www.johnlscott.com/privacy.aspx) for the most accurate reproduction.*
 
 # John L. Scott Real Estate - John L. Scott - Privacy Policy
 
