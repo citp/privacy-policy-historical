@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231030830id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614112847id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
 
 # Skybound's Home Page
 
@@ -74,11 +74,11 @@ This policy was last modified on **September 10, 2008**.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. Or, you can proceed to our [contact form](https://web.archive.org/contact). 
 
 www.skybound.ca  
-611 Welland Rd.  
-Fenwick, ON L0S 1C0  
+2861 Merrittville Hwy.  
+Fonthill, ON L0S 1E6  
 Canada  
 support (at) skybound.ca  
 +1 877-4-SKYBOUND (+1 877-475-9268)  
