@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrank.org privacy policy that was archived on 2008-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081108174958id_/http%3A//www.jrank.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrank.org privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614072139id_/http%3A//www.jrank.org/privacy) for the most accurate reproduction.*
 
 # Free Site Search Engine - put a search engine on your web site or add search to your blog
 
