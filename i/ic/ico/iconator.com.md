@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iconator.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032539id_/http%3A//www.iconator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconator.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614104203id_/http%3A//www.iconator.com/privacy.php) for the most accurate reproduction.*
 
 # Iconator.com >> Privacy Policy
 
 This is the web site of Iconator.com (Iconator). 
 
-We can be reached via e-mail at webmaster(at)iconator.com or by [sending comments](https://web.archive.org/web/20081217032539id_/http%3A//www.iconator.com/comments.php). 
+We can be reached via e-mail at webmaster(at)iconator.com or by [sending comments](https://web.archive.org/web/20090614104203id_/http%3A//www.iconator.com/comments.php). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
