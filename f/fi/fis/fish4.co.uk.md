@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115840id_/http%3A//www.fish4.co.uk/iad/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614202740id_/http%3A//www.fish4.co.uk/info/privacy) for the most accurate reproduction.*
 
-# 
+# fish4
 
 * **This Privacy Policy**
 
-fish4 trading limited, together with its fish4 Affiliates (defined at Clause 9 below) (" **fish4** "), is committed to protecting your personal information and other data provided to us via this and any other fish4 web site (" **Web Site** "). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information fish4 collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [User Terms](https://web.archive.org/iad/info/userterms) applicable to this Web Site. 
+fish4 trading limited, together with its fish4 Affiliates (defined at Clause 9 below) (" **fish4** "), is committed to protecting your personal information and other data provided to us via this and any other fish4 web site (" **Web Site** "). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information fish4 collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [User Terms](https://web.archive.org/info/userterms) applicable to this Web Site. 
 
 * **What information do we collect and what do we do with it?**
 
