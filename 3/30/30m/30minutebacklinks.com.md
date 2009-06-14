@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30minutebacklinks.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205175439id_/http%3A//www.30minutebacklinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30minutebacklinks.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614152522id_/http%3A//www.30minutebacklinks.com/privacy.php) for the most accurate reproduction.*
 
 # 30 Minute Backlinks: One Way Link Building
 
