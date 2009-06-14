@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karaokeparty.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015636id_/http%3A//www.karaokeparty.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karaokeparty.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614024646id_/http%3A//www.karaokeparty.com/en/privacy) for the most accurate reproduction.*
 
 # Karaokeparty.com - Free Online Karaoke Party Game
 
@@ -27,3 +27,6 @@ We take precautions — including administrative, technical, and physical measur
 We may place a text file called a "cookie" in the browser files of your computer. The cookie enables us to collect information about your visits to KaraokeParty. We may use this information to enhance your KaraokeParty experience and may share some information with our members, vendors, sponsors or others. 
 
 You can turn off the cookie function in your web browser, then you won't be able to register as a member or log in. 
+
+**Third Party Cookies**   
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
