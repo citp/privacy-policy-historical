@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061803id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614195609id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
 
 # Spirit Now FREE online psychic readings - Free Daily horoscopes - Home of Psychic Sylvia Browne - Angels - Love - Feng Shui
 
