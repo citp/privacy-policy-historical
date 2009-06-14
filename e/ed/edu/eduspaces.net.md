@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduspaces.net privacy policy that was archived on 2008-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080225161854id_/http%3A//eduspaces.net/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduspaces.net privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614155533id_/http%3A//eduspaces.net/content/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,3 @@
 **Changes to this Privacy Policy**
 
 EduSpaces may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your EduSpaces account or by placing a prominent notice on our site.
-
-If you have questions or suggestions you can contact us at:
-
-[system@elgg.net](mailto:$email)
