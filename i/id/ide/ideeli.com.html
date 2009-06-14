@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ideeli.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217044124id_/http%3A//www.ideeli.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideeli.com privacy policy that was archived on 2009-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614195718id_/http%3A//www.ideeli.com/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en" xml:lang="en"><head>
     
     <noscript>
       <meta http-equiv=REFRESH content=0;URL='/nojs.html' />
@@ -11,94 +11,63 @@
       ideeli | Privacy Policy
     </title>
 
-    <link href="http://2.static-production.ideeli.com/stylesheets/base_1229423163.css" media="screen" rel="Stylesheet" type="text/css">
-    <!--[if IE]><link href="http://3.static-production.ideeli.com/stylesheets/blueprint/ie.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+    <link href="http://2.static-production.ideeli.com/stylesheets/http_base_1244618581.css?1244618606" media="screen" rel="stylesheet" type="text/css">
+<link href="http://0.static-production.ideeli.com/stylesheets/http_taf_1244618581.css?1244618606" media="screen" rel="stylesheet" type="text/css">
+    <!--[if IE]><link href="http://3.static-production.ideeli.com/stylesheets/http_ie_1244618581.css?1244618606" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
     
     
-    <script src="http://2.static-production.ideeli.com/javascripts/base_1229423163.js" type="text/javascript"></script>
-        <script type="text/javascript" charset="utf-8">
-      // Init the Layout elements
-      var current_user = Templater.readCookie('current_user');
-      if (current_user) {
-        Templater.evaluate('welcome_user', { user_login: current_user.login } );
-        document.observe("dom:loaded", function() {
-          $('authenticated_user_menu').show();
-          if (current_user.is_premium_member) {
-            $('welcome_user_premium').show();
-          }
-          else {
-            $('welcome_upgrade').show();
-            $('welcome_user_non_premium').show();
-          }
-        });
-      }
-      else {
-        document.observe('dom:loaded', function() {
-          $('unauthenticated_user_menu').show();
-          // No current user - show the signup note
-          
-        });
-      }
-      document.observe('dom:loaded', BrowserCheck.init.bind(BrowserCheck));
-    </script>
-		
-    <!-- FIXME JES put this tiny_mce code in a content_for in the few views it is used -->
+    <script src="http://1.static-production.ideeli.com/javascripts/http_base_1244618581.js?1244618596" type="text/javascript"></script>
+    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
     
     
     
   </head>
   <body>
-    
-
-
     <div class="container" id="container">
-      <div id="masthead" class="">
-        <div id="logo" class="span-5 last">
-          <a href="/"><img alt="ideeli.com" border="0" height="62" src="http://0.static-production.ideeli.com/images/frontend/masthead_logo.png?1229423163" width="192"></a>
+      <div id="cart_modal_message_container" style="display:none;">
+        <span id="cart_modal_message"></span><br>
+        <br>
+        <a href="#" onclick="ideeli.cart.cart_modal_warning.close();return false;">hide</a>
+      </div>
+      <a href="#cart_modal_message_container" id="cart_modal_message_link" style="display:none;"></a>
+
+      <div id="masthead" class="span-24 last">
+        <div id="logo" class="span-5">
+          <a href="/"><img alt="ideeli.com" border="0" height="62" src="http://1.static-production.ideeli.com/images/frontend/masthead_logo.png?1244618581" width="192"></a>
         </div>
         
         <div class="span-18 last" style="float:right;margin-right: 10px;">
           <div id="authenticated_user_menu" style="display: none">
-            <span id="welcome_user" class="templated">welcome #{user_login},</span>
-            <span id="welcome_user_non_premium" style="display:none"> 2nd Row Member</span>
-            <span id="welcome_user_premium" style="display:none"> 1st Row Member</span>
+            <span id="welcome_user" class="templated">welcome #{user_login}</span><span id="welcome_user_non_premium" style="display:none">, 2nd Row Member</span><span id="welcome_user_premium" style="display:none">, 1st Row Member</span>
             <span class="sep">|</span>
             <span id="welcome_upgrade" style="display: none">
-            	<a href="/join/upgrade">upgrade to 1st row</a> <span class="sep">|</span>
+              <a href="/join/upgrade">upgrade to 1st row</a> <span class="sep">|</span>
             </span> 
-            <a href="/store/edit_profile">my account</a> <span class="sep">|</span> <a href="/logout">log out</a>
+             <a href="/store/show_profile/user_invitations">my invitations</a> <span class="sep">|</span>
+             <a href="/store/edit_profile">my account</a> <span class="sep">|</span>
+             <span id="cart_links" style="display:none;">
+               <a href="#" id="cart_link" onclick="ideeli.cart.refresh();; return false;">cart (<span id="cart_items_count">#{cart_items_count}</span>) <span id="cart_masthead_timer" class="masthead_timer"><span id="masthead_cart_expirationtimer_top"></span><script type="text/javascript">SET_TIMER["masthead_cart_expirationtimer_top"] = true</script></span></a> <span class="sep">|</span>
+             </span>
+             <a href="/logout">log out</a>
           </div>
           <div id="unauthenticated_user_menu" style="display: none">
             Already a member? <a href="/login">log in</a>
           </div>
-
-          <div id="menu" class="">
-            <ul class="">
-              <li><a href="/events/latest" class="">The Latest</a></li>
-              <li><a href="/events/coming_soon" class="">Coming Soon</a></li>
-              <li><a href="/blog/show/1" class="">The Blog</a></li>
-              <li><a href="/landing/what_is_ideeli">What is ideeli?</a></li>
-              <li><a href="/invitations/new" class="">Tell a friend</a></li>
-            </ul>
-          </div>
         </div>
       </div>
-			
+      
       <div id="content" class="span-24 last">
-
-                        <div id="error_div_id" class="flash flash_error" style="color: red"></div>
-        <div id="notice_div_id" style="color: green"></div>
-        <script type="text/javascript">
-          Flash.transferFromCookies();
-          Flash.writeDataTo('error', $('error_div_id'));
-          Flash.writeDataTo('notice', $('notice_div_id'));
-        </script>
-                
         
+          <p style="color: green; padding-top:10px;"></p>
+          <div id="error_div_id" class="flash flash_error" style="color: red"></div>
+          <div id="notice_div_id" style="color: green"></div>
+          <script type="text/javascript">
+            Flash.transferFromCookies();
+            Flash.writeDataTo('error', $('error_div_id'));
+            Flash.writeDataTo('notice', $('notice_div_id'));
+          </script>
         
-        <div id="browser_compatibility"></div>
-        
-        <div id="signup_banner_container"></div>
         
 
 
@@ -141,11 +110,9 @@
 <h5>Where do I go with questions? </h5>
 <p>Send us an email at <a href="mailto:support@ideeli.com">support@ideeli.com</a> , or write us at ideeli Inc., 374 W 11 th St. #6, New York, NY 10014.</p>
 </div>
-        
       </div>
-      
       <div id="footer" class="span-24 last">
-        	© 2006-2008 ideeli Inc. &nbsp; &nbsp; &nbsp; 
+        	© 2006-2009 ideeli Inc. &nbsp; &nbsp; &nbsp; 
 	<a href="/pages/contact">Contact Us</a> 
 	|
 	<a href="/pages/careers">Careers</a>
@@ -154,35 +121,72 @@
   
   	| 
 	<a href="/pages/press">In The News</a>
-	| 
+	|
+
+	  <a href="/blog/show/1">Member News</a>
+
+	|
 	<a href="/pages/faqs">FAQ</a>
-        
-<!-- Delayed load of google analytics -->
-<script type="text/javascript" charset="utf-8">
-  document.observe('dom:loaded', function() {
-    var script = new Element('script', {type: 'text/javascript', src: 'http://www.google-analytics.com/urchin.js'});
-    $$('head').first().appendChild(script);
-    script.observe('load', function() {
-      var script2 = new Element('script', {type: 'text/javascript'}).update('_uacct = "UA-1512269-1"; urchinTracker();');
-      $$('head').first().appendChild(script2);      
-    });    
-  });
-</script>                
 
-<!-- Delayed load of crazyegg -->
-<script type="text/javascript" charset="utf-8">
-  Event.observe(window, 'load', function() {
-    script = document.createElement('script');
-    script.src = "http://cetrk.com/pages/scripts/0004/6122.js";
-    $$('body')[0].insert(script);
-  });
-</script>
+	<br style="clear:both;">
 
-<!-- Version: 6607 -->
+<div id="fb_login_container" class="facebook_connected_container" style="display:none; width: 250px; margin: 15px auto;">
+  <div style="width:50px;float:left;margin: 10px;">
+    <div id="fb_profile_pic" size="square" facebook-logo="true"></div>
+  </div>
+  <div id="fb_name_container" style="float:left;margin: 10px;padding: 10px 0; text-align:left;">
+    <div id="fb_name" useyou="false"></div>
+    <a href="#" onclick="ideeli.fb.logout(); return false;">Log out of Facebook</a>
+  </div>
+</div>
+
+<br style="clear:both;">
+	
+	<div class="helptip" id="ineligible_return" style="display:none;">
+ ideeli does not accept returns on this item. Please see the <a href="/pages/faqs#faq_33">full return policy</a> in the FAQ for details.<br>
+  <br>
+  <a href="#">hide</a>
+</div>
+
+<div class="helptip" id="eligible_return" style="display:none;">
+  You may return this item for up to <span class="eligible_return_days"></span>&nbsp;from the day the item is shipped from ideeli. After <span class="eligible_return_days"></span>, the item is no longer returnable. Please see the <a href="/pages/faqs#faq_33">full return policy</a> in the FAQ for details.<br>
+  <br>
+  <a href="#">hide</a>  
+</div>
 
         
       </div>
     </div>
+    
+    <script type="text/javascript">
+if ((typeof(ideeli) != 'undefined') && (typeof(ideeli.fb) != 'undefined')) {
+  ideeli.fb.setup({
+    api_key: 'c1cb696920ea0f360086ca1e95ee62d1',
+    xd_receiver_location: '/fb/connect/xd_receiver.htm',
+    xd_receiver_location_ssl: '/fb/connect/xd_receiver_ssl.htm',
+    facebook_authenticate_location: '/fb/authenticate'
+  });
+}
+</script>
+    
+
+
+<!-- Delayed load of google analytics -->
+<script type="text/javascript">
+document.observe('dom:loaded', function() {
+  ideeli.ga.init('UA-1512269-1');
+});
+</script>
+
+
+<!-- Delayed load of Netmining pixel -->
+<script type="text/javascript">
+document.observe('dom:loaded', function() {
+  ideeli.netmining.init();
+});
+</script>
+
+<!-- Version: 1395-release20 -->
 
   
 
