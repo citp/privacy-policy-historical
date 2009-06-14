@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005517id_/http%3A//www.indygov.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614203940id_/http%3A//indy.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
