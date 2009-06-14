@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016005947id_/http%3A//www.adp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614090529id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - ADP
+# Privacy | ADP
 
-|  |  |    
-ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for ADP.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically. 
-
-**What is personally identifiable information?**  
+**What is personally identifiable information?**   
 "Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. 
 
 **How is information collected, used, and disclosed?**  
@@ -39,6 +36,4 @@ If you are using an ADP web site for which you registered and chose a password, 
 **Other sites**  
 ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. 
 
-If you have questions or concerns regarding this statement, you should contact us at [ES_Privacy@adp.com](mailto:ES_Privacy@adp.com).   
-  
----|---|---
+If you have questions or concerns regarding this statement, you should contact us at [ES_Privacy@adp.com](mailto:ES_Privacy@adp.com). 
