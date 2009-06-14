@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165636id_/http%3A//www.paydaybank.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614120057id_/http%3A//www.paydaybank.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Payday Bank - Same Day Payday Loans
 
