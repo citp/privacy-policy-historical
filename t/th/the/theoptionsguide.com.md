@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616102523id_/http%3A//www.theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoptionsguide.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614022514id_/http%3A//www.theoptionsguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Options Guide - Privacy Policy
 
-### Options Trading Basics & Strategies Explained
+| 
 
 TheOptionsGuide.com understands that the privacy and security of information that is gathered and used on our website is important to our users. We want you to be comfortable as you explore our site, and participate in its interactive nature. We are committed to providing an online environment that is both Private and Secure by adhering to confidentiality standards that are designed to protect our visitors' personal information. TheOptionsGuide.com has created this Privacy Policy Statement to demonstrate our commitment to the protection of your privacy.
 
@@ -15,8 +15,9 @@ Most of the information provided by TheOptionsGuide.com is offered without our c
 TheOptionsGuide.com uses a variety of Internet technologies which help us to manage our site operations and track website usage behavior so that we can customize information and advertisements to make your visits more enjoyable and meaningful. These Internet technologies include: 
 
   * IP Addresses: random numbers assigned to individual computers which TheOptionsGuide.com uses to administer our Web site and help diagnose problems with our servers.
-  * Cookies: small electronic files transferred from our Web site to your hard drive. Cookies enable TheOptionsGuide.com to recognize repeat visitors, track usage behavior and facilitate your access to and use of our site. If you wish, you can choose to have your computer warn you each time a Cookie is being sent, or you can choose to turn off all Cookies. If you turn Cookies off, however, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly.
   * Web Beacons (sometimes called single-pixel Gifs): electronic images that allow TheOptionsGuide.com to count users who have visited certain Web pages we wish to track. For example, Web Beacons may also be placed by our advertising partners on TheOptionsGuide.com's Web pages to help determine the effectiveness of Internet advertising campaigns.
+  * Cookies: small electronic files transferred from our Web site to your hard drive. Cookies enable TheOptionsGuide.com to recognize repeat visitors, track usage behavior and facilitate your access to and use of our site. If you wish, you can choose to have your computer warn you each time a Cookie is being sent, or you can choose to turn off all Cookies. If you turn Cookies off, however, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly.
+  * Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
@@ -30,6 +31,6 @@ TheOptionsGuide.com works hard to ensure that our systems are secure and that th
 
 ### Right to Change Internet Privacy Policy Statement
 
-TheOptionsGuide.com reserves the right to change this Privacy Policy Statement at any time. Changes will be effective immediately upon posting to our website. By using this site, you signify your agreement with and acceptance of TheOptionsGuide.com's Privacy Policy Statement. If you do not accept this policy, please do not use this site in any way. Your continued use of TheOptionsGuide.com sites following the posting of changes to these terms will mean you accept those changes, regardless of whether TheOptionsGuide.com provides you with additional notice of such changes. We recommend that visitors to our website re-visit this Privacy Policy page on occasion to learn of changes to our privacy practices and policies.
-
-| 
+TheOptionsGuide.com reserves the right to change this Privacy Policy Statement at any time. Changes will be effective immediately upon posting to our website. By using this site, you signify your agreement with and acceptance of TheOptionsGuide.com's Privacy Policy Statement. If you do not accept this policy, please do not use this site in any way. Your continued use of TheOptionsGuide.com sites following the posting of changes to these terms will mean you accept those changes, regardless of whether TheOptionsGuide.com provides you with additional notice of such changes. We recommend that visitors to our website re-visit this Privacy Policy page on occasion to learn of changes to our privacy practices and policies.  
+  
+---|---
