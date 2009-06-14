@@ -1,72 +1,87 @@
-> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012130048id_/http%3A//www.willhill.com/iibs/en/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614115116id_/http%3A//www.williamhillpoker.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# The William Hill Poker Privacy Policy
 
-**Policy Statement**
+## PRIVACY POLICY for www.williamhillpoker.com (“the Website”)
 
-The following describes the information gathering and dissemination practices for the websites operated by William Hill Credit Limited (ICO registration number Z6700548) and other subsidiaries of William Hill Plc (together 'William Hill'), including without limitation **[www.willhill.com](http://www.willhill.com/)** , **www.williamhill.co.uk** , **[www.williamhillcasino.com](http://www.williamhillcasino.com/), ****[www.williamhillskillgames.com](http://www.williamhillskillgames.com/)** and **[www.williamhillpoker.com](http://www.williamhillpoker.com/) (the "Websites")**. Your personal data (meaning any information about You which is personally identifiable, such as your name, address, telephone number or email address and which is generally referred to throughout this document as "Your information") will be processed by William Hill Credit Limited and by other companies in the William Hill Group. Please note that this site contains links to other sites and that William Hill is not responsible for the privacy practices or content of such sites. ****
+### 1.    PURPOSE OF THIS PRIVACY POLICY
 
-By using the Websites you acknowledge that you have read the terms of this Privacy Policy and that you consent to the use of Your information for the purposes set out in this Privacy Policy.
+The following describes the information gathering and dissemination practices for the Website, which is operated by WHG (International) Limited (registration number DP005080 with the Gibraltar Regulatory Authority) and/or WHG Trading Limited (each of whom shall be referred to as “the Operator”). Your use of the Website and any of the content or applications available on it shall be referred to as the "Services".
 
-If you do not wish to provide Your information on the basis set out in this Privacy Policy you should not complete the personal details in the spaces provided. However, in that case, we regret that you will not be able to make full use of the Websites. We also offer visitors an "opt-out" option at any time they wish to cease receiving e-mails or other information from us.
+### 2.    USE OF YOUR INFORMATION
 
-As technology continues to develop, this Privacy Policy may need changing in order to provide the best possible service to our site visitors. We would recommend you to check and make sure that you have read our most recent policy statement when you visit one of our Websites.
+2.1    Your personal data (meaning any information about You from which You can be personally identified, such as Your name, address, telephone number or email address, and which is referred to in this Privacy Policy as “Your Information”), will be processed by the Operator (which include its agents and employees), and (where appropriate) our partners and subcontractors in order to be able to provide the full range of the Services to You. Your Information is collected when You register to open an account with us; or when You submit a written query to us.
 
-**What type of information we collect and how it is used**
+2.2    While the Websites may contain links to websites operated by parties other than the Operator (for example the UK Gambling Commission), the Operator is not responsible for the privacy practices or content of any such websites.
 
-William Hill collects Your information during the account registration process and you may choose to submit Your Information to obtain information or submit a comment, or to be kept informed of special offers and promotions. 
+2.3    By using any of the Services, You acknowledge that You have read, and agree to, the terms of this Privacy Policy and that, where You provide us with Your Information (including, for the avoidance of doubt, by submitting a query to us through one of the Websites, or where You only partially complete an account registration process), You consent to the use by the Operator (and our partners and subcontractors) of Your Information for the purposes set out in paragraph ?3 of this Privacy Policy.
 
-William Hill will only use Your Information, including sharing Your Information with third party data processors, for:
+2.4    If You do not wish to provide Your Information on the basis set out in this Privacy Policy You should not enter the relevant information in the spaces provided on the relevant part of any Website, or provide any of Your Information to us over the telephone. However if You do not provide such information, You may not be permitted to make full use of the relevant part of the Services.
 
-  * setting up, operating and managing your account;
-  * providing the services requested of us (including those requested as part of the account opening process);
-  * verifying the accuracy of Your Information, including disclosure of such information to third parties (including financial institutions, age verification and credit reporting agencies) in connection with such purposes (a record of the search will be retained and the third party may use the information to assist other companies for verification purposes); 
-  * preparing demographic statistics and to display appropriate individualized advertisements and content; 
-  * periodically sending members written communications to announce important service changes, technical issue updates and changes to terms and conditions and/or rules;
-  * complying with our regulatory duties, obligations and responsibilities under the UK Gambling Act and to the Gambling Commission in the UK and the relevant regulators in the other jurisdictions where it carries out a regulated activity; and
-  * conforming to legal requirements or complying with legal processes or acting to protect the interests of sporting bodies or other qualified bodies. 
+2.5    As part of the account registration process, We also offer visitors registering with us the opportunity to “opt out” from keeping them informed of future events, offers and promotions from the Operator. Visitors who wish to take this option should ‘untick’ the relevant box in the registration process.
 
+### 3.    WHAT TYPE OF INFORMATION WE COLLECT AND HOW WE USE IT
 
+3.1    The Operator collects Your Information in order to:
 
-William Hill will not send you unsolicited information regarding any third party commercial offers or advertisements.
+3.1.1    Enable us to set up Your Account so that You can make full use of all of the features of the Services, including crediting Your account with funds, placing bets and playing games;
 
-William Hill may use your username and/or first name and region for advertising or promotional purposes. 
+3.1.2    Enable us to receive questions and comments from You through our Online Help Centre, and for us to be able to respond to them;
 
-Telephone calls to and from our Customer Services Department are recorded for training and security purposes.
+3.1.3    Comply with relevant regulations regarding Your registration, for example completing age verification checks; and
 
-We may transfer Your information in the event of business sale or insolvency.
+3.1.4    (provided that You do not “opt out” from this option), to keep You informed of future events, offers and promotions from the Operator.
 
-If at any time you wish us to stop processing Your Information for the above purposes, then you will be required to
+3.2    In addition to the broad purposes identified in paragraph ?3.1 above, the Operator will only use Your Information, including sharing Your Information with our third party partners and subcontractors who process data (including, where appropriate, Your Information) on our behalf, for:
 
-**Cookies**
+3.2.1    setting up, operating and managing Your Account;
 
-William Hill uses **cookies** to obtain non-personal information from on-line visitors to provide them with the best possible personalised on-line experience. Cookies are small markers sent by our web server to your web browser and they enable us to improve the Websites and better tailor them to meet your needs. We use cookies to analyse site usage, improve our content and product offerings and to customise promotional efforts, site content and layout. You can find out more about how Internet sites use cookies on [www.aboutcookies.org](http://www.aboutcookies.org/). 
+3.2.2    providing any of the Services which requested of us, and for any proper purpose connected with such provision;
 
-If you wish to turn off cookies, please consult the "Help" menu on the menu bar of most browsers, which will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies and how to prevent cookies altogether. If you do disable cookies, we may be unable to optimise your visit to our site and/or you may not be eligible for certain offers / promotions. 
+3.2.3    verifying the accuracy of Your Information, including disclosure of such information to third parties (including financial institutions, age verification, and credit reporting agencies) in connection with such purposes (a record of the search will be retained and the third party may use the information to assist other companies for verification purposes);
 
-**Overseas transfer of Your information**
+3.2.4    preparing statistics related to the use of the Services by You and other customers;
 
-In connection with the provision of its services, William Hill may need to transfer data (including personal information) to other William Hill group companies that are not incorporated in the UK, including William Hill Gibraltar Limited and William Hill Malta Limited. ****
+3.2.5    to prepare and display appropriate individualised marketing material and content;
 
-Emails and other contacts between you and our Customer Services Department are logged and processed through RightNow Technologies Inc's contact management solution, which is based in the United States of America and a signatory to the US ‘safe harbour’ scheme. RightNow provide a secure hosted environment for all contact data. The data is not accessible to or shared with any parties external to William Hill. RightNow can be found at [www.rightnow.com](http://www.rightnow.com/).
+3.2.6    periodically sending account holders written communications to announce important service changes, technical issue updates and changes to the Terms of Use (which includes this Privacy Policy);
 
-**Updating Your information**
+3.2.7    complying with our regulatory duties, obligations and responsibilities under the UK Gambling Act and to the Gambling Commission (in the UK); under the Gambling Act 2005 and to the Gibraltar Regulatory Authority (in Gibraltar); and under the relevant legislation and to the relevant regulators in the other jurisdictions where the Operator carries out a regulated activity;
 
-You may update or delete Your information at any time from within your William Hill account by clicking the My Account/Change Details button on the navigation bar once logged in.
+3.2.8    conforming to legal requirements or complying with legal processes or acting to protect the interests of sporting bodies or other qualified bodies;
 
-You may obtain a copy of Your information held by William Hill by contacting us at [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk) and requesting a copy. We do require up to forty (40) days' notice to enable us to comply with such a request.
+3.2.9    the investigation of suspected unlawful, fraudulent or other improper activity connected with the Services;
 
-**Contacting us**
+3.2.10    the reporting of a crime or suspected crime, including money laundering or any fraud; and
 
-If at any time you believe that William Hill has not adhered to the principles contained within this Privacy Policy, please notify us by email at [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+3.2.11    any other purpose which is necessary for the performance of our contractual obligations to You.
 
-Questions regarding this statement should be directed to [customerservices@williamhill.co.uk](mailto:customerservices@williamhill.co.uk) or by post to:
+3.3    The Operator will not send You unsolicited information regarding any third party commercial offers or advertisements.
 
-Customer Relations Manager  
-William Hill  
-7th Floor  
-Milton House  
-60 Charter Road  
-Sheffield S13 
+3.4    The Operator may use Your username and/or first name and region for advertising or promotional purposes.
 
-**This Privacy Policy was last updated on 15th August 2007**
+3.5    Telephone calls to and from our Customer Services Department are recorded for training and security purposes.
+
+3.6    We may transfer Your Information in the event of that we transfer or sell our business or any part of it; including in the event of insolvency.
+
+3.7    If at any time You wish us to stop processing Your Information for the above purposes, then You must contact us and we will take the appropriate steps to stop doing so. Please note that this may mean that Your Account will have to be closed.
+
+### 4.    OVERSEAS TRANSFER OF YOUR INFORMATION
+
+4.1    In connection with the provision of its services, the Operator may need to transfer data (including Your Information) to:
+
+4.1.1    other companies in the same group of companies as the Operator;
+
+4.1.2    our partners and subcontractors who are based outside the European Economic Area, including the Mohawk Territory of Kahnawake; Canada; Israel; Cyprus; and the Philippines.
+
+### 5.    Updating Your information
+
+5.1    You may update or delete Your Information at any time from within Your Account through ‘My Account/Update Account Details’ (where available); or by contacting Customer Services.
+
+5.2    You may obtain a copy of Your information held by the Operator by contacting Customer Services. We do require up to forty (40) days' notice to enable us to comply with such a request.
+
+### 6.    Contacting us
+
+6.1 If at any time You believe that the Operator has not adhered to the principles contained within this Privacy Policy, please notify us by contacting Customer Services and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+
+This Privacy Policy is effective from 31st December 2008
