@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012038id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614050954id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
 
 # Province of Manitoba | Privacy Notification
 
 This policy applies to the handling of personal information that is collected via the Government of Manitoba web site.
 
 Logging of Site Visitors  
-Like most web servers, the Government of Manitoba server collects some information about visitors to the site. However, the server only logs the domain name of visitors. Depending on the setup of your internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The log data is analyzed for trends and statistics, and then aggregated.
+Like most web servers, the Government of Manitoba server collects some information about visitors to the site. However, the server only logs the domain name of visitors. Depending on the setup of your internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The log data is analyzed for trends, security and statistics, and then aggregated.
 
 If you have any questions about the information gathered automatically by our Web site, please contact the webmaster at [webmaster@gov.mb.ca](mailto:webmaster@gov.mb.ca).
 
