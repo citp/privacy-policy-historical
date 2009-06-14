@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onvif.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913124119id_/http%3A//www.onvif.org/Home/tabid/118/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onvif.org privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614234135id_/http%3A//www.onvif.org/Home/tabid/118/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Home
 
