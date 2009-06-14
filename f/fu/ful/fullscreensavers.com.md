@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073202id_/http%3A//fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614120022id_/http%3A//www.fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FullScreensavers.com
 
 **Collection and Use of your Personal Information**   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+
 Any personal information that you provide to our web site shall stay absolutely safe, private, and secure. We do not resell personal information to outside sources. We may use your information to inform you about products or services offered by us and our partners. When placing an order, our e-commerce provider will handle your personal information and keep it absolutely safe, private and secure. In fact, even we cannot access your credit card information. 
 
 **Security of your Personal Information**   
