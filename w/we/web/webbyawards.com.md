@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154405id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614070202id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to the Webby Awards
-
-The leading international award honoring excellence on the Internet including Websites, Interactive Advertising, Online Film & Video and Mobile content. In its 13th year, The Webby Awards is presented by [The International Academy of Digital Arts and Sciences](http://www.iadas.net/), a 550-member body of leading Web experts, business figures, luminaries, and creative celebrities.
 
 ## Privacy Policy
 
