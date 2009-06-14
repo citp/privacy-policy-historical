@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-bidder.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030010612id_/http%3A//www.i-bidder.com/forms/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-bidder.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614081830id_/http%3A//www.i-bidder.com/forms/Privacy.php) for the most accurate reproduction.*
 
 # i-bidder.com - Privacy Policy
 
