@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-game-downloads.net privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024014135id_/http%3A//www.pc-game-downloads.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-game-downloads.net privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614075028id_/http%3A//www.pc-game-downloads.net/privacy-policy) for the most accurate reproduction.*
 
 # PC-GAME-DOWNLOADS.NET » Privacy Policy
 
