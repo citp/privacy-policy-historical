@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205074555id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614181313id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
 
 # INetU Managed Hosting - Privacy
 
