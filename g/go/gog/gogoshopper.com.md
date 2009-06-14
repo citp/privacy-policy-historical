@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828164640id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614060554id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement of GoGoShopper.com, A Top Online Coupon Provider
 
