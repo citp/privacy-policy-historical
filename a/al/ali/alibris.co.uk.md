@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212153731id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614035236id_/http%3A//www.alibris.co.uk/policies/privacy) for the most accurate reproduction.*
 
 # Alibris UK: New, Used, Rare & Out-of-Print Books -- Help & Customer Service
+
+| 
+
+## Privacy Policy
+
+| 
 
 **Your privacy matters to us**  
 Welcome to Alibris. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
