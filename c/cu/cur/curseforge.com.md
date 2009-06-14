@@ -1,104 +1,125 @@
-> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2008-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080917105259id_/http%3A//about.curse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614103809id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Curse
+# Curse Network Privacy Policy - Curse
 
-(Last Updated on February 7, 2008) 
+**CURSE, INC. PRIVACY POLICY**
 
-  
-Curse Inc. (together with its subsidiaries, "Curse Inc." or "we") considers the protection of personal privacy to be one of our most important values. This privacy policy ("Policy") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have. This privacy policy complies with the Safe Harbor framework under the E.U. Data Protection Directive. In addition, Curse Inc. self-certifies compliance with the Safe Harbor framework to the U.S. Department of Commerce. 
+**_Last updated May 6, 2009_**
 
-This Policy applies to all web sites and services owned or provided by Curse Inc. and its subsidiaries, which we refer to here collectively as "Curse Inc. Sites". Curse Inc. Sites include, but are not limited to, Curse.com, as well as other Curse Inc.-branded services. From time to time we may add new sites, domain names or services to those listed above. Please note that this Policy applies only to sites owned and services maintained by Curse Inc. or its corporate subsidiaries and not to web sites or services provided by other companies or organizations to which we link. 
-
-As a condition of using the Curse Inc. Sites, you agree to be bound by the terms of this Policy. Additional terms and conditions which govern your use of the Curse Inc. Sites are contained in our User Agreement, and, as applicable, in certain other service-specific license agreements or terms of use, which you will be notified of at the time of your registration for the applicable services. 
-
-The Policy is accessible through the Curse Inc. Sites in several ways, including from a link entitled "Privacy" at the bottom of the Curse.com home page. You acknowledge that this Policy may change over time. We reserve the right, in our sole discretion, to revise this Policy at any time. If we decide to change our Policy, we will post the revised policy on the Curse Inc. Sites. Any changes are effective immediately upon posting to the Curse Sites. As we may make changes at any time without notifying you, we suggest that you periodically consult this Policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is collected. Your continued use of the Curse Inc. Sites constitutes your agreement to all such terms and conditions of the Policy. 
-
-Information Collection, Storage and Use 
-
-We refer to information that identifies an individual as "Personal Information." In general, Curse Inc. collects Personal Information from users of the Curse Inc. Sites in connection with access to certain online areas or services, including during (i) registration for certain online community services and tools such as message boards, chat rooms or other community services; (ii) registration for special communications, such as email updates and newsletters; (iii) subscription registration; (iv) user surveys; (v) events, sweepstakes, contests or promotions; and (vi) registration for online multi- or single-player gaming, either through the Curse Inc. Sites, within a game publisher's site or through the game itself. Your Personal Information is stored on Curse Inc. computer servers (or those of its service providers) located in the United States. 
-
-We may gather navigational, click stream data that indicates the areas of the Curse Inc. Sites you visit or access. This navigational data does not identify you as an individual user (i.e., based on your PII). We may enter into agreements with outside companies that possess the technology that allows Curse Inc. to customize the advertising and marketing messages you receive on the Curse Inc. Sites. Your non-PII and click stream data about your activities on the Curse Inc. Sites may be shared with these companies so this customization can be accomplished. These companies have agreed not to share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with Curse Inc.'s advertisers and business partners. We also use and share navigational data in aggregate, non-personal form to understand how our users as a group use the Curse Inc. Sites. 
-
-Please keep in mind that whenever you voluntarily disclose personal information in public areas of a Curse Inc. Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users to be especially careful in such public areas about disclosing Personal Information, such as full name, home address, or phone number. 
-
-Below are more details about the Personal Information we, or third parties may gather from you and how we may use it. 
-
-A. Email Newsletters. Curse Inc. offers email newsletters to its registered users. We will use your email address to send you only the specific newsletter(s) that you signed up for. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you or simply visit http://my.curse.com/account/. 
-
-B. Membership Information. When you register for membership on a Curse Inc. Site, we will ask you for certain minimum required information, such as your name, birth date, gender, email address and zip code. We may also ask for additional information about you and your interests. We do this so we can better understand your preferences and tailor the Curse Inc. Sites to suit you better. The more information you volunteer, the more we can tailor the Curse Inc. Site and promotions to your interests. Additionally, third-party service providers may require you to assent to their privacy party as a condition to receiving their service. 
-
-  * Service Providers. We offer our members other services provided by third parties such as email and userpages, among others. When you register for membership on a Curse Inc. Site or activate a related service by clicking on a particular service link (i.e. email) on an Curse Inc. Site, you may be automatically registered to receive the services we offer and some of your Personal Information may be transferred from Curse Inc. to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member's data as necessary to provide the particular service and to give you updates on that service provider's products and services. 
+**__Our Privacy Commitment__**   
 
 
-  * Game Owners/Publishers. We provide game owners/publishers with certain hosted technology and software that enables various game related functionalities, such as online multi- or single-player gaming. If you are not already a registered user of the Curse Inc. Sites you may be asked to provide Personal Information in connection with your use of such services. We share Personal Information with game owners/publishers that offer such services to enable those entities to operate the services you have elected to receive. Game owners/publishers may also use Personal Information for other business purposes, provided that such use shall be in compliance with the terms of this Policy, except that a game owner/publisher (a) will not contact you or otherwise use or transfer your Personal Information, unless you have expressly consented. Upon giving such consent your Personal Information will be subject to the game owner's/publisher's privacy policy. 
+Welcome to Curse! Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse  websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services made available through the Site(s), collectively, as the “ ** _Curse Features_** ”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+
+This policy answers the following questions:   
 
 
-  * Co-registration with Other Sites. As a member, we offer you the ability to co-register with select third-party partner sites. In some instances where Curse Inc. provides co-registration, the co-registration partners allow you to opt-out of their membership. If you choose to co-register with our partners and accept their terms of service, then you are automatically registered as a member of their select web sites and your Personal Information is transferred to those organizations. As a result, you may receive information from one of these web sites as any of their members would. We advise you to review the privacy and data collection policies of the third-party partner sites for further information. In order to cancel your membership with any of these partners you will need to go directly to the partner's site. 
-
-
-  * Advertisers. Curse Inc. may send you emails on behalf of our advertisers. If you opt to receive information from our advertisers they may use your Personal Information to send you advertisements or other notices, via email or postal mail, and it is possible that your information may be shared with others. 
-
-
-  * Other Parties. We occasionally provide third parties with Personal Information limited only to your physical address in order to send you promotional mailings. 
+  * What information do we collect about you and how do we use it?
+  * Will we share your personal information with third parties?
+  * What choices do you have about the collection and use of your personal information?
+  * What security measures do we take to safeguard your personal information?
 
 
 
-C. Email Updates to Members. If you so elect at registration, we may periodically send you promotional email about products or services offered by the Curse Inc. Sites, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit http://my.curse.com/account/ to update your profile. 
+## **__What information do we collect about you and how do we use it?__**
 
-We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration or for any other business reason related to your use of Curse Inc. Sites. 
+**Types of Information We Collect**
 
-D. Promotions. We may ask you for Personal Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by Curse Inc. or a third party. If you choose to enter sweepstakes, contests or promotions sponsored by a third party, the Personal Information you provide will be subject to the privacy policy of the third party sponsor. We encourage you to check the applicable third party policy before providing any Personal Information. 
+Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access certain areas of the Site(s), but if you do not want to disclose certain personal information to us, you will not be able to access certain aspects of the Curse Features. 
 
-E. Surveys and User Research. Curse Inc. conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our users. Taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not Personal Information, with our advertisers and partners to help them better understand our services and monitor the reach of their advertising or other offerings on our service. We also use some of the Personal Information that you provide in these surveys to help us understand your interests and to make the Curse Inc. Sites more useful to you. 
+We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, or other promotions; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support. 
 
-F. Use of Cookies. On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of the Curse Inc. Sites involves cookies. We use cookies to recognize users who have already registered for a Curse Inc. Site, allowing those users to speed up their future activities on the Curse Inc. Sites. Cookies help Curse Inc. and our advertising service (discussed below) track the frequency and placement of advertisements. Cookies also enable us to measure aggregate (total) usage and traffic to the Curse Inc. Sites and to specific offerings. This aids us in producing content that best meets our users' preferences. In order to implement new services, we may use other types of cookies as well. We also may use cookies to understand better what parts of the Curse Inc. Sites you like best. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of the Curse Inc. Sites. To find out more about changing your browser to reject cookies, we suggest the EPIC Cookies Page http://www.epic.org/privacy/internet/cookies. Certain pages of the Curse Inc. Sites may contain electronic images (called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page. Curse Inc. occasionally uses web beacons on the Curse Inc. Sites in order to count users and to recognize registered users by accessing the Curse Inc. cookies. 
+To create an account for the Curse Features, we require you to provide your name, email address and country in which you reside. You will also need to create a screen name. When you are purchasing premium services or products through the Curse Features you may have to submit personal information to our billing partner, PayPal, including your email address, billing address and additional billing information depending on your preferred method of payment through PayPal, such as your credit card number. When you enter a contest or sweepstakes with Curse, in addition to your screen name, name and email address, we will ask for your mailing address in case we have to mail you a prize.
 
-G. Purchase of Products or Services. When you purchase products or services from or through the Curse Inc. Sites we may require Personal Information such as name, address, telephone number and billing information, including credit card, debit card or bank account data. Curse Inc. will not disclose your Personal Information, including billing information, except to the extent necessary to complete your transaction, for example during an online purchase or where needed to deliver a product or service you ordered. 
+Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
 
-H. Software Updates; Interactive Material. Curse Inc. automatically updates software used in conjunction with certain of the services available on the Curse Inc. Sites. In order to update this software, Curse Inc. collects a user's current version information from the user's computer. This information is not archived and is only used to determine which software requires updating. Curse Inc. may record audio conversations or copy text chat or video images from chat rooms on the Curse Inc. Sites and may disclose such material for use in connection with promoting the Curse Inc. Sites. 
+**How We Use Your Personal Information**
 
-I. Sites You Visit. As you access our Partner Sites and browse around the Curse Inc. Sites, Curse Inc. may store information about which pages and which Partner Sites you visit and other information presented in your browser's URL address line. Curse Inc. will use this information to help determine what our users are most interested in. 
+The personal information you provide to us will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Curse Features and other general announcements. We keep track of your interactions with us, including but not limited to your activity within the Curse Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Curse Features. We may also use your personal information to contact you when necessary.
 
-J. Sharing Non-Personal Information. Curse Inc. may share information that is not Personal Information -- meaning non-personal, aggregate, or summary, information regarding our users -- with other third parties not mentioned in this Policy. This kind of information does not identify you individually. 
+**Cookies**
 
-K. Future Business Transactions. As we continue to develop our business, we might sell certain of our assets. In such transactions, user information, including personally identifiable information, Personal Information, generally is one of the transferred business assets. By submitting your personal information on one of the Curse Inc. Sites, you agree that in the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by Curse Inc., Curse Inc. may transfer your Personal Information to a third party as a part of such merger, acquisition, reorganization, sale, or other future business transaction. 
+“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in. Additionally, advertisements that are managed by third parties which may appear on the Site(s) use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Site(s) and this information may permit us to identify other sites that you have visited that are also associated such advertisers. 
 
-L. Legal Authorities. We may also disclose Personal Information in cases when we reasonably believe that it is necessary to identify someone who may be violating Curse Inc. policies or Curse Inc. Sites" User Agreements or other terms of use, or who may be a threat to Curse Inc. or third party rights, property, or personal safety. The Curse Inc. Sites may disclose Personal Information to comply with valid legal process such as a duly issued search warrant, subpoena or court order. 
+**Log Information**
 
-Access to Other Sites through Curse Inc. 
+Our servers automatically record information that your browser sends whenever you visit the Site(s). This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them. We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
 
-Our Partner Sites. You should be aware that when you are on a Curse Inc. Site, you will have the opportunity to visit, or link to, other sites associated with Curse Inc.. These sites are identified as our "Partner Sites". These sites are not owned or operated by Curse Inc., but are part of a larger network of sites with which the Curse Inc. Sites share content and advertising opportunities. We do not share your Personal Information with these Partner Sites, however, we may share certain information which you post on our Curse Inc. Sites for public view with our Partner Sites, which include, among others, Wikia, Inc. 
+## **Children’s Privacy**
 
-Linking to Other Sites. You may also visit independent web sites, not owned or operated by Curse Inc., through links on the Curse Inc. Sites. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. We do not control sites that are operated by others and are not responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the privacy policy and terms of use of any site before offering any of your Personal Information. We do not share your Personal Information with these independent web sites. 
+We do not knowingly collect personal information from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.    
 
-Information Storage and Security 
 
-Your Personal Information is stored on Curse Inc. computer servers (or those of its service providers) located in the United States. We protect your Personal Information with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But Curse Inc. is committed to providing reasonable and appropriate security controls to protect our Curse Inc. Sites and all Personal Information against foreseeable hazards. 
+**__Will we share your personal information with third parties?__**
 
-Notwithstanding these security measures, please be aware that when you submit Personal Information to the Curse Inc. Sites over the Internet, the information may travel over many systems that are not under the Curse Inc.'s control. We take the protection of user data very seriously and to that end take reasonable safeguards to prevent interception of any Personal Information. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers. 
+## **Sharing of Information**
 
-Accessing, Correcting and Updating Your Information 
+We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. 
 
-You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can access, correct or update your account or other Personal Information such as your city or interests, by clicking the "Edit profile page" link on the Curse Inc. Site on which you are registered. If you are a registered user, you may also request that we remove from our databases the information you provided when you registered with a Curse Inc. Site by e-mailing us at contact@curse.com. If you are not a registered user, but have provided personally identifiable information to us, you may make changes to your personally identifiable information by e-mailing us at contact@curse.com. 
+In addition, we will share the personal information we collect from you under the following circumstances:
 
-If you have any other questions, comments or complaints about this Policy, write to us at: 
-
-Curse Inc.  
-351 California Street, Suite 1450  
-San Francisco, California, 94104  
-United States  
-contact@curse.com 
-
-  * Be sure to include the specific Curse Inc. Site to which you are a member. 
+  * _Protection of rights._ We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Curse Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Curse Features, or (iv) such action is appropriate to protect the rights, property or safety of Curse, its employees, users of the Curse Features or others.
+  * _Asset transfers._ If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Curse’s assets, user information, including personal information collected from you through your use of the Curse Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
+  * _Service Providers._ We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, have partnered with other companies to host and manage contests, fulfill product orders and prizes, and process payments. Additionally, we may partner with other companies to process consumer surveys, or to process, analyze, and/or store data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. 
 
 
 
-Unsubscribe 
+**Additional Information You Should Know About Third Parties**
 
-When you register or enter one of the Curse Inc. Site, you may opt out of receiving future e-mail communications from us. You may change your e-mail preferences at any time by revising your profile (as explained above), clicking the “unsubscribe” link at the bottom of each e-mail you receive from us and following the instructions provided or, if you do not have a profile, by e-mailing us at contact@curse.com. Below are specific instructions to unsubscribe from newsletters, e-mail updates and special offers, and other services. 
+This Privacy Policy does not cover the information practices of third party websites linked to the Site(s). Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. 
 
-Newsletters. You may unsubscribe to email newsletters by following the instructions at the bottom of each newsletter. 
+When you have clicked on an advertisement or third party logo displayed on our Site(s) which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
-Email updates and special offers: You may unsubscribe to email announcements by following the instructions at the bottom of each email. 
+The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another. When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.   
 
-Services: You may unsubscribe to any service for which you have previously elected by following the instructions included in the Curse Inc. User Agreement. 
+
+**__What choices do you have about the collection and use of your personal information?__**
+
+
+
+
+You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the “My Account” area of the Curse Features or sending us an email to [_support@curse.com_](mailto:support@curse.com) requesting us to update or delete your personal information. Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.    
+
+
+**Opting Out of Receiving Communications from Us**
+
+If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting “unsubscribe” in your account, writing to us at [contact@curse.com](mailto:contact@curse.com) or replying to the unsubscribe link at the bottom of our e-mails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.   
+
+
+**Mediation**
+
+If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Curse will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.   
+
+
+**Dispute Resolution for Residents of the European Union**
+
+If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction.    
+
+
+**__What security measures do we take to safeguard your personal information?__**
+
+
+
+
+The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Curse employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Curse Features. All Curse personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Curse Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.   
+
+
+**__European Commission's Directive on Data Protection - Safe Harbor__**   
+
+
+Curse adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection.   
+
+
+**__Notification of Changes__**
+
+This Privacy Policy may change from time to time and we will post all changes on this page.   
+
+
+**__Questions? Contact Us__**
+
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@curse.com](mailto:contact@curse.com).   
+
+
+**__Terms of Service__**
+
+Please read the [_Terms of Service_](http://www.curse.com/content/termsofservice.aspx) and [_Premium Subscription Additional Terms of Service_](http://www.curse.com/content/premiumtos.aspx) **** governing the use of the Site(s) and the Curse Features. 
