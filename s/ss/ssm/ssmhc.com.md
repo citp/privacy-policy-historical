@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssmhc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218223410id_/http%3A//www.ssmhc.com/internet/home/ssmcorp.nsf/documents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssmhc.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614233317id_/http%3A//ssmhc.com/internet/home/ssmcorp.nsf/documents/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
