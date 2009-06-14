@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032052id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614233702id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
 
 # Turner - Privacy Policy
 
@@ -54,7 +54,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The Turner sites covered by this Privacy Statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some of the Turner sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20081216032052id_/http%3A//www.turner.com/privacy.html#add4).
+Some of the Turner sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20090614233702id_/http%3A//www.turner.com/privacy.html#add4).
 
 ##  Our Commitment to Security 
 
@@ -95,7 +95,6 @@ This Privacy Statement applies to general audience sites on the World Wide Web o
   * [www.tbs17.com](http://www.tbs17.com/)
   * [www.tnt.tv](http://www.tnt.tv/)
   * [www.TurnerClassicMovies.com](http://www.turnerclassicmovies.com/)
-  * [www.turnerlearning.com](http://www.turnerlearning.com/)
 
 
 
@@ -117,13 +116,13 @@ This site does not disclose personally identifiable information to third parties
 We and our advertisers may use third parties to serve or present the ads that appear on our site to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, click on the links below. For more information about third-party ad servers generally, [click here](http://www.networkadvertising.org/).
 
   * Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>
-  * Bluestreak: <http://www.bluestreak.com/web/aboutus_privacypolicy.htm>
-  * DoubleClick: [http://www.networkadvretising.org](http://www.networkadvretising.org/) or <http://www.doubleclick.com/us/corporate/privacy>
-  * Eyeblaster: <http://www.eyebalster.com/website/privacy_policy_down.htm>
-  * EyeWonder: <http://www.eyewonder.com/about/privacy.cfm>
+  * Bluestreak: <http://www.bluestreak.com/>
+  * DoubleClick: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.doubleclick.com/us/corporate/privacy>
+  * Eyeblaster: <http://www.eyeblaster.com/Content.aspx?page=privacy_policy>
+  * EyeWonder: <http://www.eyewonder.com/privacy.php>
   * Dynamic Logic: <http://www.dynamiclogic.com/privacy_policy.php>
   * Klipmart: <http://www.klipmar.com/privacy.html>
   * Millward Brown IntelliQuest: <http://www.intelliquest.com/privacy/intro.asp>
-  * Unicast: <http://www.unicast.com/company/privacy.asp>
+  * Unicast: [http://www.unicast.com/privacy-policy.aspx](http://www.networkadvertising.org/about/privacy.asp)
 
 
