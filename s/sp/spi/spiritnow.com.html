@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spiritnow.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217061803id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spiritnow.com privacy policy that was archived on 2009-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614195609id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Spirit Now FREE online psychic readings - Free Daily horoscopes - Home of Psychic Sylvia Browne - Angels - Love - Feng Shui</title>
@@ -68,8 +68,33 @@
 
 
 
+<div style="display:none">
+<form name="autologin_form" method="post" action="/static/privacy/">
+<input type="hidden" name="email">
+<input type="hidden" name="autologin_key">
+<input type="hidden" name="do_autologin" value="true">
+</form></div>
 
-<a href="/home" title="Spirit Now, Home of Psychic Sylvia Browne"><img src="/images/blank.gif" id="logo" alt="Official website of Psychic Sylvia Browne, spirituality destination for horoscopes, feng shui, angels, dream analysis, and love"></a> 
+<script>
+
+var email = getCookie("email");
+var autologin_key = getCookie("autologin_key");
+//alert(email + " " + autologin_key + "  |||");
+
+if( email != "" && autologin_key != "" && email != null && autologin_key != null)
+{
+	document.autologin_form.email.value = email;
+	document.autologin_form.autologin_key.value = autologin_key;
+
+	document.autologin_form.submit();
+}
+
+</script>
+
+
+
+
+<a href="/home" title="Spirit Now, Home of Psychic Sylvia Browne"><img src="http://spiritnow.s3.amazonaws.com/images/blank.gif" id="logo" alt="SpiritNow.com Featuring Psychic Sylvia Browne, spirituality destination for horoscopes, feng shui, angels, dream analysis, and love"></a> 
     <div id="topbanner">
 
 					<object width="728" height="90">
@@ -78,10 +103,8 @@
 				
 				</object>
 		
-	
-</div>
 
- 
+</div> 
                  
 
 <div style="height:10px;clear:both;"></div>
@@ -96,6 +119,8 @@
          
           <li><a href="/feng_shui"><img src="/images/nav-f.png" alt="feng shui" width="81" height="24"></a></li>
 					<li><a href="/dreams"><img src="/images/nav-dreams.png" alt="dreams" width="67" height="24"></a></li>
+					<li><a href="/store/items"><img src="/images/nav-store.png" alt="store" width="54" height="24"></a></li>
+
           <li>
 
 											<a href="/sign_up"><img border="0" src="/images/nav-g.png" alt="Sign up for a free SpiritNow account now" width="109" height="24"></a>
@@ -113,10 +138,10 @@
 	
     </div>
     <div id="searchbox"> 
-      <form name="search_form" action="/search" method="post" id="searchform" onsubmit="document.location = '/search/' + document.search_form.searchword.value; return false;">
+      
         <input name="searchword" id="s" alt="search" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">
         <input type="hidden" name="option" value="search">
-      </form>
+      
     </div>
 
 		</div>
@@ -256,7 +281,7 @@
 
 <div style="margin-top: 20px">
 <p align="center">
-			<span style="font-size: 13px;margin:0px 0px 8px 0px;">*Advertisements on SpiritNow.com are NOT endorsed or affiliated with Sylvia Browne or Sylvia.org.</span>		
+	
 
 		<br>
 		<br>
