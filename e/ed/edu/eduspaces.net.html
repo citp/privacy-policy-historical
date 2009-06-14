@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eduspaces.net privacy policy that was archived on 2008-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080225161854id_/http%3A//eduspaces.net/content/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eduspaces.net privacy policy that was archived on 2009-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614155533id_/http%3A//eduspaces.net/content/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy
@@ -296,7 +296,26 @@ img.profile-photo {
 	padding:0 0 0 10px;
 }
 
-</style><link rel="stylesheet" href="http://eduspaces.net/mod/friend/css.css" type="text/css" media="screen"><style type="text/css">/* 
+</style><style type="text/css">
+	
+	.friendfeed_item p {
+		margin: 5px;
+	}
+	
+	.ff_media img {
+		padding-right: 5px;
+	}
+	
+	#friendfeed_block_content {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	
+	#friendfeed_block h2 {
+		margin-bottom: 10px;
+	}
+</style>
+<link rel="stylesheet" href="http://eduspaces.net/mod/friend/css.css" type="text/css" media="screen"><style type="text/css">/* 
 	presentation main css
 */
 
@@ -376,8 +395,63 @@ img.profile-photo {
 .presentation-contentslist {
 	
 }</style><script type="text/javascript" src="http://eduspaces.net/mod/presentation/presentation.js"></script>
+<style type="text/css">
+.shout-post {
+    padding: 5px 0 5px 0;
+}
 
-<link href="http://eduspaces.net/_templates/css/Default_Template" rel="stylesheet" type="text/css">
+.shout-icon {
+    float:left;
+    width: 55px;
+    margin: 0 10px;
+}
+
+.shout-content {
+    margin: 0px 10px 0px 65px;
+    height: 60px;
+    border-bottom: 2px #f0f0f0 solid;
+}
+
+.shout-body {
+    padding: 2px;
+}
+
+.shout-info {
+    margin: 0px 10px 0px 65px;
+    padding-bottom: 10px;
+}
+
+.shout-reply {
+    padding: 22px 10px 0 0;
+}
+
+.shout-links {
+    text-align: right;
+    font-size: 8pt;
+    color: #333;
+}
+
+.shouts-countdown {
+    text-align: right;
+}
+
+.shouts-form-elements {
+    padding: 0 20px 20px 20px;
+}
+
+.shouts-form textarea {
+    width: 100%;
+    padding: 3px;
+}
+
+.shouts-toggle {
+    text-align: right;
+}
+
+</style>
+<script type="text/javascript" src="http://eduspaces.net/mod/shouts/js/shouts.js">
+                  <!-- shouts js --></script>
+<link href="http://eduspaces.net/_templates/edustyles/Default_Template" rel="stylesheet" type="text/css">
 
 </head>
 <body>
@@ -401,45 +475,16 @@ img.profile-photo {
 */
 
 div#elggtoolbar {
-	height:30px;
-	font-family:Arial, 'Trebuchet MS','Lucida Grande', sans-serif;
-	top:0;
-	left: 0;
-	/* width:980px; */
-	background:#1B5790; /* url(http://localhost/elgg-dave/mod/toolbar/images/toolbar_bg.gif) repeat-x;*/
-	color:#fff;
-	margin:0 auto;
-  	text-align:left;
-	padding:0 0 4px 0;
+	background:#333333 url(http://eduspaces.net/mod/toolbar/images/toptoolbar_background.gif) repeat-x top left;
+	color:#eeeeee;
+	border-bottom:1px solid #000000;
+	min-width:998px;
+	position:relative;
+	width:100%;
+	height:26px;
 }
 
-div#elggtoolbar p {
-	margin:0;
-	padding:6px 0 0 10px;
-	color:#fff;
-}
 
-div#elggtoolbar span a {
-	color:#fff;
-	border:1px solid #777;
-	padding:2px 4px 2px 4px;
-}
-
-div#elggtoolbar span a:hover {
-	text-decoration:none;
-}
-
-div#elggtoolbar img {
-	padding:0;
-	margin:0 5px 0 0;
-	border:0;
-}
-
-div#elggtoolbar-inner {
-   /* width:980px; */
-   padding:0 0 0 4px;
-   margin:0;
-}
 
 /* 
 	GLOBAL USER OPTIONS: LOGOUT AND ACCOUNT SETTINGS, TOP RIGHT
@@ -460,27 +505,14 @@ div#elggtoolbar #global-menuoptions ul {
 
 div#elggtoolbar #global-menuoptions li {
 	margin: 0; 
-	padding: 0;
+	padding: 0 4px 0 4px;
 	display: inline;
 	list-style-type: none;
 	border: none;
 }
 
-div#elggtoolbar #global-menuoptions li a{
-	text-decoration:underline;
-	padding:0 10px 0 0;
-	margin:0;
-	color:#fff;
-}
-
-div#elggtoolbar #global-menuoptions p {
-	padding:0 10px 0 0;
-	margin:0;
-}
-
-div#elggtoolbar #global-menuoptions img {
-	padding:0;
-	margin:0 10px 0 0;
+div#elggtoolbar #global-menuoptions li a {
+    color:#fff;
 }
 
 /* 
@@ -490,7 +522,7 @@ div#elggtoolbar #global-menuoptions img {
 
 div#elggtoolbar #navigation {
 	height: 19px;
-	margin: 2px 0 0 4px;
+	margin: 0 0 0 4px;
 	padding:0;
 	text-align:left;
 	float:left;
@@ -505,23 +537,17 @@ div#elggtoolbar #navigation li {
 }
 
 div#elggtoolbar #navigation a {
-	margin: 0 2px 0 0;
-	text-decoration: none;
-	font-size:90%;
-	color:#fff;
-	/*background:#555;*/
-	border:1px solid #ccc;
-	padding:2px 4px 2px 4px;
+	color:#efefef;
+	padding-right:5px;
+	font-size:0.9em;
 }
 
 div#elggtoolbar #navigation a:hover {
-	background:#E7F1D7;
-	color:#000;
+	text-decoration:underline;
 }
 
-div#elggtoolbar #navigation a.selected {
-	/*background:#555;*/
-	border:1px solid #ddd;
+div#elggtoolbar #navigation a:selected {
+	text-decoration:underline;
 }
 
 div#elggtoolbar form {
@@ -535,24 +561,20 @@ div#elggtoolbar #powered-by-elgg {
 	float: right;
 }
 
-/*
-  Browse button
-*/
-
 div#container {
-	margin-top: 0px;
+	margin-top: 1px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom:0;
 }
 
 </style>
-
 <div id="container"><!-- open container which wraps the header, maincontent and sidebar -->
+<div id="content-holder"><!-- open content-holder div -->
 <div id="header"><!-- open div header -->
 	<div id="header-inner">
 		<div id="logo"><!-- open div logo -->
-		<a href="/index.php"><img src="/mod/template/templates/Default_Template/images/new-logo5.gif" alt="Logo"></a>
+		<a href="/index.php"><img src="http://eduspaces.net/mod/template/templates/simpleBlue/images/eduspaces_logo.gif" alt="Logo"></a>
               </div><!-- close div logo -->
 	
         <div id="search-header"><!-- open search-header div -->
@@ -564,13 +586,14 @@ div#container {
         </div><!-- close search-header div -->
        </div>
 </div><!-- close div header -->
-<div id="content-holder"><!-- open content-holder div -->
+<div id="contents_table">
 <table cellpadding="0" cellspacing="0" width="980">
 <tbody><tr>
 <td valign="top">
 <div id="splitpane-content"><!-- open splitpane-content div -->
 	
-	    <h1><a title="Privacy Policy" href="http://eduspaces.net/content/privacy.php">Privacy Policy</a>
+	
+	    <h1><a title="Privacy Policy" href="http://eduspaces.net/content/Privacy_Policy">Privacy Policy</a>
 </h1>
 	    
         <div id="sub-menu">
@@ -578,7 +601,7 @@ div#container {
             
         </p>
         </div>
-    <p><b>What This Privacy Policy Covers</b></p>
+    <div id="main_contents"><p><b>What This Privacy Policy Covers</b></p>
 <ul>
     <li>This privacy policy relates to use of the {EduSpaces}
     web site at http://eduspaces.net/</li>
@@ -601,12 +624,7 @@ div#container {
 If there are any significant changes to how we handle personal
 information we will send a notice to the primary email address specified
 in your EduSpaces account or by placing a prominent notice on our
-site.</p>
-
-<p>If you have questions or suggestions you can contact us at:</p>
-
-<a href="mailto:$email">system@elgg.net</a>
-
+site.</p></div>
     
 </div><!-- close open splitpane-content div -->
 </td>
@@ -619,9 +637,9 @@ site.</p>
 <div id="pages_sidebar" class="sidebar-block ">
         <h2>EduSpaces</h2>
        <ul><li class="menu-parent"><a title="About" href="http://eduspaces.net/content/About">About</a>
-<ul><li class="menu-item"><a title="Privacy Policy" href="http://eduspaces.net/content/privacy.php" class="selected">Privacy Policy</a>
+<ul><li class="menu-item"><a title="Privacy Policy" href="http://eduspaces.net/content/Privacy_Policy" class="selected">Privacy Policy</a>
 </li>
-<li class="menu-item"><a title="Terms and Conditions" href="http://eduspaces.net/content/terms.php">Terms and Conditions</a>
+<li class="menu-item"><a title="Terms and Conditions" href="http://eduspaces.net/content/Terms_and_Conditions">Terms and Conditions</a>
 </li>
 </ul>
 </li>
@@ -641,37 +659,51 @@ site.</p>
 </td>
 </tr>
 </tbody></table>
-</div><!-- close content-holder div --> 
-</div><!-- close container div -->
-<div id="footer"><!-- start footer -->
-<div id="footer-inner">
-	<a href="http://elgg.org/"><img src="http://eduspaces.net/mod/template/icons/elgg_powered.png" title="Elgg powered" border="0" alt="Elgg powered"></a>
-	<table width="700px" align="right">
-<tbody><tr>
-<td align="right" width="250px">
-<h3>Social Networks in Education</h3>
-<p><a href="http://community.brighton.ac.uk/">University of Brighton</a></p>
-                    <p><a href="https://tugll.tugraz.at/">Graz Technical Institute</a></p>
-                    <p><a href="http://intouch.emeraldinsight.com/">Emerald InTouch</a></p>
-		    <p><a href="http://scribble.scran.ac.uk/">Scribble</a></p>
-		    <p><a href="http://commun-it.org/">Communi-it.org</a></p>
-</td>
-<td align="right" width="150px">
-<h3>About</h3>
-                    <p><a href="/content/terms.php">Terms</a></p>
-                    <p><a href="/content/privacy.php">Privacy</a></p>
-</td>
-<td align="right" width="300px">
-<h3>Other resources</h3>
-<p><a href="http://www.wiredsafety.org/internet101/blogs.html">Social networking safety</a></p>
-                    <p><a href="http://onguardonline.gov/socialnetworking.html">Social Networking: A Parents Guide</a></p>
-                    <p><a href="http://www.wired.com/culture/education/news/2007/04/myspaceforschool">Wired: Schools Embrace MySpace</a></p>
-                    <p><a href="http://www.readwriteweb.com/archives/elgg.php">Social networking for education</a></p>
-                    <p><a href="http://education.guardian.co.uk/elearning/story/0,,1724614,00.html">A space on the web that we control</a></p>
-</td>
-</tr>
-</tbody></table>
 </div>
-</div><!-- end footer -->
+<div class="clearing"></div>
+</div><!-- close content-holder div -->
+<div id="layout_footer">
+<table width="992" height="79" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td height="28">
+		</td>
+		
+		<td width="748" height="28" align="right">
+		</td>
+	</tr>
+</tbody></table>
+
+<!--
+<table width="992" height="79" border="0" cellpadding="0" cellspacing="0">
+	
+	
+	<tr>
+		<td height="28">
+		<a href="http://www.elgg.org" target="_blank">
+		<img src="http://eduspaces.net/mod/template/templates/simpleBlue/images/powered_by_elgg_badge_light_bckgnd.gif" border="0" style="padding-top:5px;" />
+		</a>
+		</td>
+		
+		<td width="748" height="28" align="right">
+		<p class="footer_legal_links"><small>
+		 Powered by Elgg, the leading open source social networking platform
+		</small>
+		</p>
+		</td>
+	</tr>
+</table>
+-->
+<div id="page_bottom_links">
+
+    <div id="links_column"><strong>Social Networks in Education</strong><br><a href="http://community.brighton.ac.uk/">University of Brighton</a><br><a href="https://tugll.tugraz.at/">Graz Technical Institute</a><br><a href="http://intouch.emeraldinsight.com/">Emerald InTouch</a><br><a href="http://scribble.scran.ac.uk/">Scrible</a></div>
+    <div id="links_column"><strong>Other resources</strong><br><a href="http://www.wiredsafety.org/internet101/blogs.html">Social networking safety</a><br><a href="http://onguardonline.gov/socialnetworking.html">Social networking: a parents guide</a><br><a href="http://www.wired.com/culture/education/news/2007/04/myspaceforschool">Wired: schools embrace MySpace</a></div>
+    <div id="links_column"><strong></strong><br><a href="http://www.readwriteweb.com/archives/elgg.php">Social networking for education</a><br><a href="http://education.guardian.co.uk/elearning/story/0,,1724614,00.html">A space on the web we control</a></div>
+    <div id="links_columnright"><strong>About</strong><br><a href="/content/Terms_and_Conditions">Terms</a><br><a href="/content/Privacy_Policy">Privacy</a></div>
+<div class="clearfloat"></div>
+
+</div>
+
+</div><!-- /#layout_footer -->
+</div><!-- close container div -->
 
 </div></body></html>
