@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011833id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615193345id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  **Monday, December 15, 2008**  
+|  **Monday, June 15, 2009**  
 ---  
 |  |  |   
 ---|---|---  
@@ -107,7 +107,8 @@ ProxyWay.com respects your desire for privacy and ensures that your personal inf
 **Information Collection and Use**  
 ProxyWay.com does not collect any personal information about you except when you specifically provide it to us. Personal information provided by our customers is used to provide updated information on our products, help us process payment and send activation information to customers. Personal information collected on this site will not be shared with our partners or third parties and will be used for administrative and identification purposes only.  
 We may use the information we gather to understand our users base more to improve the quality of our services; customize the advertising and content you see; send you information you agreed to receive about specials and new products and services, which you might be interested; perform your requests for certain products and services.  
-We automatically gather and record usage information such as browser type, browser language, and IP address with each query. This data is used to estimate the total number of users visiting ProxyWay.com from specific countries or regions of the world. Sometimes, ProxyWay.com may request more specific information about our users in the form of surveys (voluntary).  
+We automatically gather and record usage information such as browser type, browser language, and IP address with each query. This data is used to estimate the total number of users visiting ProxyWay.com from specific countries or regions of the world.  
+ProxyWay.com uses third-party advertising companies to serve ads when you visit the website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
 **Cookies**  
 Upon your first visit ProxyWay.com, ProxyWay.com sends a "cookie" to your computer. A cookie is a piece of data which often includes an unique identifier, that is sent to your browser from a web site's computers, stored on your computer and identifies you as a unique user.  
 ProxyWay.com uses cookies and tracking technologies to estimate and report our total audience size and traffic; accumulate and report aggregated statistical information about ProxyWay.com site and advertisement usage; keep count of return visits to our site, determine our users interests and keep track of preferences you specify while you are using ProxyWay.com.  
@@ -190,18 +191,8 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/support.html)
 |  |   
 |  |   
 ---  
-|  • I want to use external script for proxy checking. What do I do?
+|  • Can my ISP monitor my online activities if I am using ProxyWay?
 
-You should [download our CGI proxy checking script](http://www.proxyway.com/www/downloads/) (written on Perl) and install it on your server. You can also use your own scripts (e.g. on PHP, ASP) if they are based on ProxyWay Proxy Checker Script.  
-To install Proxy Checker Script on your server:  
-• Perl interpreter must be installed on you server.  
-• You need to have access to run a Perl Script and have CGI enabled on your hosting account or server.  
-• You must know the path to the Perl interpreter.  
-• You should change the first line in a script so it points to the path to perl interpreter on your server.  
-Usually the path to Perl is #!/usr/bin/perl or #!/usr/local/bin/perl So open script in any text editor and change #!/usr/bin/perl to the necessary path.  
-• Upload the script to any executable folder (cgi-bin or other appropriate directory) in ASCII mode.  
-• Perl scripts must be marked as "executable" in order to run properly when called by the web server. This is usually done by setting Execute permission (for Unix-based web servers) or Script permission (for Windows NT-based servers).  
-• In your web browser, type in the address bar area full URL to the Proxy Checker script. e.g. http://www.yoursite.com/cgi-bin/checker.pl  
-If everything is right, you'll see the text that begins with "ProxyWay REMOTE_HOST"   
+Because ISPs handle huge volumes of web traffic all the time, they are limited in monitoring logs. They don't have the computational resources to read and analyze the text of every web site you visit. But they can, however, keep a log of the websites you visit. When you're using ProxyWay and surfing through proxies you only connect to a proxy server. All websites you visit go through this proxy, so to your ISP it looks like you only visit one web site. But if the ISP really wanted to watch you and they agree to waste time, resources and money for analysing all your traffic, they could tap your Internet connection and actually read everything that goes back and forth. Since the data sent to proxies is not encrypted, someone who listens to the line could see what sites you're visiting. But if you visit HTTPS web sites, all information between you and a target web site is encrypted.   
   
 |  | 
