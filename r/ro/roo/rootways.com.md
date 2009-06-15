@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227233237id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615193537id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Online Internet Marketing | Software Development | Database Programming Business in Canada Canadian Toronto Mississauga Ontario GTA.
+# Web Solutions Company, Ecommerce Application, Graphic Designing , Dynamic Website Canada Brampton Mississauga Ontario GTA.
 
 At rootways we are committed to protecting your privacy. The purpose of this Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our WebSites or hosting services and related services or that may be otherwise be collected by us.
 
