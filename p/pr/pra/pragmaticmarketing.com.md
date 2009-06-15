@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033316id_/http%3A//www.pragmaticmarketing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041536id_/http%3A//www.pragmaticmarketing.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Pragmatic Marketing
+# Privacy Policy — Product Management Training, Product Marketing Training by Pragmatic Marketing
 
 The Pragmatic Marketing website, [www.PragmaticMarketing.com](http://www.pragmaticmarketing.com/) (referred to as website), gathers information about each site visitor. This statement is provided to explain Pragmatic Marketings commitment to privacy.
 
