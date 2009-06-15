@@ -1,17 +1,22 @@
-<!--The following is the downloaded HTML source of the line6.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216021505id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the line6.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615162948id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Line 6 - Privacy Policy</title>
 	
-	<style type="text/css">@import "/styles/general.css";</style> 
-	<style type="text/css">@import "/styles/hover_rules.css";</style> 
-	<style type="text/css">@import "/styles/menu_ui.css";</style> 
+
+	<style type="text/css">@import "http://cdn.line6.com/styles/general.css";</style> 
+	<style type="text/css">@import "http://cdn.line6.com/styles/hover_rules.css";</style> 
+	<style type="text/css">@import "http://cdn.line6.com/styles/menu_ui.css";</style> 
 	<!--[if gt IE 5]>
 		<style type="text/css">
-			/*To keep clean code, all IE hacks are in the below file*/
-			@import "/styles/ie_styles.css";
+			/* To keep clean code, all IE hacks are in the below file */
+			@import "http://cdn.line6.com/styles/ie_styles.css";
 		</style>
+	<![endif]-->
+   <script src="http://cdn.line6.com/js/jquery.js" type="text/javascript"></script>
+	<!--[if gt IE 5]>
+	<script src="/js/ie-ro-fix.js" type="text/javascript"></script>
 	<![endif]-->
 
 </head>
@@ -25,7 +30,7 @@
 	<tbody><tr>
 		<td rowspan="2" width="173" height="80" align="center" valign="middle">
 			<a href="/">
-				<img src="/images/navigation2/logo.gif" width="154" height="40" border="0"></a></td>
+				<img src="http://cdn.line6.com/images/navigation2/logo.gif" width="154" height="40" border="0"></a></td>
 		<td width="607" align="right" height="43" valign="middle">
 			
 <table cellpadding="0" cellspacing="0" border="0">
@@ -65,6 +70,7 @@
 					<option value="http://uk.line6.com"> United Kingdom</option>
 					<option value="http://bx.line6.com">Benelux</option>
 					<option value="http://it.line6.com">Italy</option>
+					<option value="http://jp.line6.com">Japan</option>
 					<option value="http://line6.com">United States</option>
 			</select></td>
 		<td align="center" valign="middle">
@@ -77,19 +83,18 @@
 		<td>
 			<img src="/images/spacer.gif" width="10" height="1" alt=""></td>
 		<td valign="middle">
-			<form id="searchForm" method="GET" action="http://www.google.com/search" style="margin:0px">
+			<form id="searchForm" method="get" action="/search" style="margin:0px">
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td>
-							<input type="hidden" name="ie" value="UTF-8">
-							<input type="hidden" name="oe" value="UTF-8">
-							<input type="hidden" name="domains" value="line6.com">
-							<input type="hidden" name="sitesearch" value="line6.com" checked="">
-							<input type="text" name="q" size="18" maxlength="255" value="Search_" style="border: 1px #000000 solid;"></td>
+<input type="hidden" name="cx" value="018225845393761871946:pgopyvt_eve">
+<input type="hidden" name="cof" value="FORID:10;NB:1">
+<input type="hidden" name="ie" value="UTF-8">
+                        <input type="text" id="searchq" name="q" size="18" maxlength="255" value="Search_" style="border: 1px #000000 solid;"></td>
 						<td>
 							&nbsp;</td>
 						<td>
-							<input type="image" name="submit_button" src="/images/searchButton.gif" border="0" alt="submit"></td>
+							<input type="image" name="sa" value="Search" src="/images/searchButton.gif" border="0" alt="submit"></td>
 					</tr>
 				</tbody></table>
 			</form></td>
@@ -101,853 +106,48 @@
 		<td width="607" height="37">
 			
 <img src="/images/spacer.gif" width="1" height="3"><br>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('#thetopnav').load( "/navigation/_nav.html",null,function(){
+        $("ul li").hover(function() {
+            $(this).addClass("show_children");
+        }, function() {
+            $(this).removeClass("show_children");
+        });
+    });
+
+    $("#searchq").focus(function() {
+        if( this.value == "Search_" ) {
+            this.value = "";
+        }
+    }).blur(function() {
+        if( !this.value.length ) {
+            this.value = "Search_";
+        }
+    });
+});
+</script>
+    <div id="thetopnav" style="text-align:left">
 <div id="line6_css_menu">
 <ul class="level1">
-<li id="products" class="parents"><a href="/products/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Products+Main"><span>Products</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/products/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+By+Category">Browse By Category</a></li>
-<li class="has_kids"><a href="/products/pod/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD">POD</a>
-<ul class="level3">
-<li class="title_label"><a href="/products/pod/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+Mobile">Mobile</a></li>
-<li class="has_kids"><a href="/pocketpodexpress/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Pocket+POD+Express">Pocket POD Express</a>
-<div class="level4">
-<h5 class="prod_title">Pocket POD Express</h5>
-<p class="prod_sub">Legendary Sounds For Guitar</p>
-<a href="/pocketpodexpress/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utmcampaign=POD+Mobile_campaign=Pocket+POD+Express+pic"><img src="/images/navigation_css/products/pocketpodexpress.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Pocket POD Express delivers an essential collection of guitar tones and effects without the need for an amplifier.</p>
-</div>
-</li>
-<li class="has_kids"><a href="/pocketpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Pocket+POD">Pocket POD</a>
-<div class="level4">
-<h5 class="prod_title">Pocket POD</h5>
-<p class="prod_sub">Legendary POD tone to-go</p>
-<a href="/pocketpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Pocket+POD+pic"><img src="/images/navigation_css/products/pocketpod.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Pocket POD is packed with over 300 custom presets dialed in by some of today's hottest rock stars.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/pod/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+Desktop">Desktop</a></li>
-<li class="has_kids"><a href="/pod20/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+20">POD 2.0</a>
-<div class="level4">
-<h5 class="prod_title">POD 2.0</h5>
-<p class="prod_sub">The Classic That Started It All.</p>
-<a href="/pod20/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+20+pic"><img src="/images/navigation_css/products/pod20.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">POD 2.0 is the original desktop recording device that gives you a wide variety of classic and modern tones and easy to use, built-in effects.</p>
-</div>
-</li>
-<li class="has_kids"><a href="/podxt/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxt">PODxt</a>
-<div class="level4">
-<h5 class="prod_title">PODxt</h5>
-<p class="prod_sub">Ultimate Tone For Guitar.</p>
-<a href="/podxt/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxt+pic"><img src="/images/navigation_css/products/podxt.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">PODxt is the desktop standard for recording authentic guitar tones in studios worldwide.</p>
-</div>
-</li>
-<li><a href="/podx3/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3">POD X3</a>
-<div class="level4">
-<h5 class="prod_title">POD X3</h5>
-<p class="prod_sub">The Most Powerful POD Ever.</p>
-<a href="/podx3/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3+pic"><img src="/images/navigation_css/products/podx3.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Now you can have the sonic firepower of a top-tier studio, ready to tackle guitar, bass, vocals and beyond.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/pod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+floor">Floor</a></li>
-<li><a href="/floorpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Floor+POD">Floor POD</a>
-<div class="level4">
-<h5 class="prod_title">Floor POD</h5>
-<p class="prod_sub">Sound Massive Anywhere.</p>
-<a href="/floorpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Floor+POD+pic"><img src="/images/navigation_css/products/floorpod.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Getting killer guitar sounds for studio or stage has never been easier.</p>
-</div>
-</li>
-<li><a href="/floorpodplus/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Floor+POD+Plus">Floor POD Plus</a>
-<div class="level4">
-<h5 class="prod_title">Floor POD Plus</h5>
-<p class="prod_sub">Step up to total control!</p>
-<a href="/floorpodplus/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Floor+POD+Plus+pic"><img src="/images/navigation_css/products/floorpodplus.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Essential guitar tone from Line 6 packed into a rugged multi-effects pedal.</p>
-</div>
-</li>
-<li><a href="/podxtlive/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxt+Live">PODxt Live</a>
-<div class="level4">
-<h5 class="prod_title">PODxt Live</h5>
-<p class="prod_sub">Pro Tone Hits The Floor.</p>
-<a href="/podxtlive/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxt+Live+pic"><img src="/images/navigation_css/products/podxtlive.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Pro features and tones in a stage-ready package. It's the ultimate multi-effects pedal, complete direct PA solution, and guitar recording workshorse in the studio.</p>
-</div>
-</li>
-<li><a href="/podx3live/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3+Live">POD X3 Live</a>
-<div class="level4">
-<h5 class="prod_title">POD X3 Live</h5>
-<p class="prod_sub">The Most Powerful POD Ever.</p>
-<a href="/podx3live/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3+Live+pic"><img src="/images/navigation_css/products/podx3live.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Now you can have the sonic firepower of a top-tier studio, ready to tackle guitar, bass, vocals and beyond.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/pod/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+Rack">Rack</a></li>
-<li><a href="/podxtpro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxtpro">PODxt Pro</a>
-<div class="level4">
-<h5 class="prod_title">PODxt Pro</h5>
-<p class="prod_sub">The Ultimate Tone For Guitar.</p>
-<a href="/podxtpro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODxtpro+pic"><img src="/images/navigation_css/products/podxtpro.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">PODxt Pro gives you world-class tone and features in a 2-space rack that goes from the stage to the studio and every step in between.</p>
-</div>
-</li>
-<li><a href="/podx3pro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3pro">POD X3 Pro</a>
-<div class="level4">
-<h5 class="prod_title">POD X3 Pro</h5>
-<p class="prod_sub">The Most Versatile Rack-mountable Processor Ever.</p>
-<a href="/podx3pro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODx3pro+pic"><img src="/images/navigation_css/products/podx3pro.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Fully loaded rack-mounted processor. Comprehensive I/O for studio and stage.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/podforbass/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+POD">Bass POD</a></li>
-<li><a href="/basspodxt/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt">Bass PODxt</a>
-<div class="level4">
-<h5 class="prod_title">Bass PODxt</h5>
-<p class="prod_sub">The Ultimate Tone For Bass.</p>
-<a href="/basspodxt/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt+pic"><img src="/images/navigation_css/products/basspodxt.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Bass PODxt is the desktop standard for direct recording and live world-class bass amp and effects tones.</p>
-</div>
-</li>
-<li><a href="/basspodxtpro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt+Pro">Bass PODxt Pro</a>
-<div class="level4">
-<h5 class="prod_title">Bass PODxt Pro</h5>
-<p class="prod_sub">The Ultimate Tone For Bass.</p>
-<a href="/basspodxtpro/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt+Pro+pic"><img src="/images/navigation_css/products/basspodxtpro.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Bass PODxt Pro gives you world-class bass tone and features in a 2-space rack that easily goes from the stage to the studio.</p>
-</div>
-</li>
-<li><a href="/bassfloorpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+Floor+POD">Bass Floor POD</a>
-<div class="level4">
-<h5 class="prod_title">Bass Floor POD</h5>
-<p class="prod_sub">Professional bass tone right at your feet!</p>
-<a href="/bassfloorpod/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+Floor+POD+pic"><img src="/images/navigation_css/products/bassfloorpod.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">World-class bass tone from Line 6 packed into an affordable, stage-ready pedal.</p>
-</div>
-</li>
-<li><a href="/basspodxtlive/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt+Live">Bass PODxt Live</a>
-<div class="level4">
-<h5 class="prod_title">Bass PODxt Live</h5>
-<p class="prod_sub">Pro Bass Tone Hits The Floor.</p>
-<a href="/basspodxtlive/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+PODxt+Live+pic"><img src="/images/navigation_css/products/basspodxtlive.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Pro features and tones in a stage-ready package.  It's the ultimate multi-effects pedal, powerhouse preamp, direct PA solution, and recording studio miracle.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/computerbased/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Recording">Recording</a>
-<ul class="level3">
-<li class="title_label"><a href="/products/computerbased/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Recording+Interfaces">Recording Interfaces</a></li>
-<li><a href="/podstudiogx/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudioGX">POD Studio GX</a>
-<div class="level4">
-<h5 class="prod_title">POD Studio GX</h5>
-<p class="prod_sub">Legendary Tone for Recording Guitarists.</p>
-<a href="/podstudiogx/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudiogx+pic"><img src="/images/navigation_css/products/podstudiogx.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Compact and powerful, POD Studio™ GX combines the stunning POD Farm™ plug-in with a rock-solid USB interface for a straightforward and no-nonsense recording experience.</p>
-</div>
-</li>
-<li><a href="/podstudioux1/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudioUX1">POD Studio UX1</a>
-<div class="level4">
-<h5 class="prod_title">POD Studio UX1</h5>
-<p class="prod_sub">Legendary Tone for Recording Guitarists.</p>
-<a href="/podstudioux1/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudioUX1+pic"><img src="/images/navigation_css/products/podstudioux1.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Compact and powerful, POD Studio™ UX1 combines the stunning POD Farm™ plug-in with a rock-solid USB interface for a truly pro recording experience.</p>
-</div>
-</li>
-<li><a href="/podstudioux2/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudioUX2">POD Studio UX2</a>
-<div class="level4">
-<h5 class="prod_title">POD Studio UX2</h5>
-<p class="prod_sub">Legendary Tone for Recording Guitarists.</p>
-<a href="/podstudioux2/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODStudioUX2+pic"><img src="/images/navigation_css/products/podstudioux2.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Versatile and powerful, POD Studio™ UX2 combines the stunning POD Farm™ plug-in with a rock-solid USB interface for a truly pro recording experience.</p>
-</div>
-</li>
-<li><a href="/toneportux8/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TonePortUX8">TonePort UX8</a>
-<div class="level4">
-<h5 class="prod_title">TonePort UX8</h5>
-<p class="prod_sub">Stunning Pro Studio Solutions.</p>
-<a href="/toneportux8/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TonePortUX8+pic"><img src="/images/navigation_css/products/ux8.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Ultra-pro 24-bit/96kHz recording interface features 8 I/O with 8 dedicated preamps, the best dynamic range (over 100 dB signal-to-noise) and GearBox software boasting legendary POD tones for guitar, bass, vocals and crucial studio effects.</p>
-</div>
-</li>
-<li><a href="/toneportkb37/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TonePortKB37">TonePort KB37</a>
-<div class="level4">
-<h5 class="prod_title">TonePort KB37</h5>
-<p class="prod_sub">Complete Control of Audio and MIDI.</p>
-<a href="/toneportkb37/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TonePortKB37+pic"><img src="/images/navigation_css/products/kb37.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Best of both worlds: 37-note velocity-sensitive MIDI controller with increased tweakability and super-quiet recording interface with stereo preamps, legendary POD tone and ToneDirect monitoring virtually eliminating latency. Versatility squared.</p>
-</div>
-</li>
-<li class="title_label"><a href="#">Handheld Recording</a></li>
-<li><a href="/backtrack/backtrack.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=BackTrack">BackTrack</a>
-<div class="level4">
-<h5 class="prod_title">BackTrack</h5>
-<p class="prod_sub">Instant Replay for Guitar.</p>
-<a href="/backtrack/backtrack.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=BackTrack+pic"><img src="/images/navigation_css/products/backtrack.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Inspiration is spontaneous, and BackTrack is your instant replay button. Capture everything you play in stunning audio without ever hitting record.</p>
-</div>
-</li>
-<li><a href="/backtrack/backtrackmic.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=BackTrack+Mic">BackTrack + Mic</a>
-<div class="level4">
-<h5 class="prod_title">BackTrack + Mic</h5>
-<p class="prod_sub">Instant Replay for Guitar.</p>
-<a href="/backtrack/backtrackmic.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=BackTrack+Mic"><img src="/images/navigation_css/products/backtrackmic.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Inspiration is spontaneous, and BackTrack + Mic is your instant replay button. Capture everything you play, sing or hear in stunning audio without ever hitting record.</p>
-</div>
-</li>
-<li class="title_label"><a href="#">Learn, Jam &amp; Record</a></li>
-<li><a href="/guitarport/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=GuitarPort">GuitarPort</a>
-<div class="level4">
-<h5 class="prod_title">GuitarPort</h5>
-<p class="prod_sub">Plug in, Log on, Rock out!</p>
-<a href="/guitarport/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=GuitarPort+pic"><img src="/images/navigation_css/products/guitarport.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Jam and learn with hundreds of songs and guitar lessons.  Includes models of 16 classic amps and 19 effects that work like the originals.</p>
-</div>
-</li>
-<li><a href="/rifftracker/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=GuitarPort+RiffTracker">GuitarPort RiffTracker</a>
-<div class="level4">
-<h5 class="prod_title">GuitarPort RiffTracker</h5>
-<p class="prod_sub">Don't Let Great Musical Ideas Slip Away.</p>
-<a href="/rifftracker/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=GuitarPort+RiffTracker+pic"><img src="/images/navigation_css/products/rifftracker.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">With it's GuitarPort hardware, GearBox tone software and RiffWorks recording software, it's the easiest most toneful recording rig ever.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/amplifiers/?foo=bar?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Amplifiers">Amplifiers</a>
-<ul class="level3">
-<li class="title_label"><a href="/products/amplifiers/guitaramplifiers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Guitar+Amplifiers">Guitar Amplifiers</a></li>
-<li><a href="/spidervalve/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+Valve">Spider Valve</a>
-<div class="level4">
-<h5 class="prod_title">Spider Valve</h5>
-<p class="prod_sub">Modeling Flexibility. Tube Performance.</p>
-<a href="/spidervalve/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+Valve+pic"><img src="/images/navigation_css/products/spidervalve_front.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Spider Valve is the result of a groundbreaking collaboration between Line 6 and Bogner Amplification, fusing the versatility of modeling with the performance and feel of a world-class tube amplifier.</p>
-</div>
-</li>
-<li><a href="/spideriii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+III">Spider III</a>
-<div class="level4">
-<h5 class="prod_title">Spider III</h5>
-<p class="prod_sub">Loaded With Insane Rock Star Settings.</p>
-<a href="/spideriii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+III+pic"><img src="/images/navigation_css/products/spideriii.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">If you crave the sounds you hear on stage and on your favorite albums, Spider III is here to deliver.</p>
-</div>
-</li>
-<li><a href="/spiderjam/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+Jam">Spider Jam</a>
-<div class="level4">
-<h5 class="prod_title">Spider Jam</h5>
-<p class="prod_sub">Insane Rock Star Settings.</p>
-<a href="/spiderjam/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Spider+Jam+pic"><img src="/images/navigation_css/products/spiderjam.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Insane Jam Tracks Built-in.</p>
-</div>
-</li>
-<li><a href="/microspider/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Micro+Spider">Micro Spider</a>
-<div class="level4">
-<h5 class="prod_title">Micro Spider</h5>
-<p class="prod_sub">Loud, Fast and Out-of-Control.</p>
-<a href="/microspider/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Micro+Spider+pic"><img src="/images/navigation_css/products/microspider.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Battery-powered, portable and full of attitude, Micro Spider realizes your musical visions everywhere you go.</p>
-</div>
-</li>
-<li><a href="/flextoneiii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Flextone+III">Flextone III</a>
-<div class="level4">
-<h5 class="prod_title">Flextone III</h5>
-<p class="prod_sub">The Flexibility of PODxt in a Powerful Amp.</p>
-<a href="/flextoneiii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Flextone+III+pic"><img src="/images/navigation_css/products/flextoneiii.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">The simplicity of a classic combo amp with everything you need to gig, rehearse, or even tour the world.</p>
-</div>
-</li>
-<li><a href="/hd147/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=HD147">HD147</a>
-<div class="level4">
-<h5 class="prod_title">HD147</h5>
-<p class="prod_sub">Evolved Tone. Obscenely Loud.</p>
-<a href="/hd147/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=HD147+pic"><img src="/images/navigation_css/products/hd147.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">HD147 has premium effects, a massive power amp and 14 custom amp models that will send you into high-gain overload.</p>
-</div>
-</li>
-<li><a href="/vettaii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=VettaII">Vetta II</a>
-<div class="level4">
-<h5 class="prod_title">Vetta II</h5>
-<p class="prod_sub">An Entire Rig In a Single Amp.</p>
-<a href="/vettaii/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=VettaII+pic"><img src="/images/navigation_css/products/vettaii.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Vetta II has a virtual collection of the world most sought-after amps, stompboxes, rack gear, speaker cabinets and mics for unlimited possibilities.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/amplifiers/bassamplifiers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bass+Amplifiers">Bass Amplifiers</a></li>
-<li><a href="/lowdown/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=LowDown">LowDown</a>
-<div class="level4">
-<h5 class="prod_title">LowDown</h5>
-<p class="prod_sub">Timeless Rock Tone in A Powerful Package.</p>
-<a href="/lowdown/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=LowDown+pic"><img src="/images/navigation_css/products/lowdown.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">LowDown delivers an incredible array of dialed-in, stage-perfected bass tones that cover everything from funk to classic rock and beyond.</p>
-</div>
-</li>
-<li class="title_label"><a href="/footcontrollers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Foot+Controllers">Foot Controllers</a></li>
-<li><a href="/footcontrollers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=FBV+Series">FBV Series</a>
-<div class="level4">
-<h5 class="prod_title">FBV Series</h5>
-<p class="prod_sub">Complete Control of Your Rig.</p>
-<a href="/footcontrollers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=FBV+Series+pic"><img src="/images/navigation_css/products/footcontrollers.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">FBV series foot controllers are like having a crew of roadies ready to wheel out an entirely new rig with every footswitch.</p>
-</div>
-</li>
-<li><a href="/stompboxmodelers/ex1.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=EX1">EX-1</a>
-<div class="level4">
-<h5 class="prod_title">EX-1 Expression Pedal</h5>
-<p class="prod_sub">EX-1 Expression Pedal</p>
-<a href="/stompboxmodelers/ex1.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=EX1+pic"><img src="/images/navigation_css/products/accessories.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Whatever your vision, the EX-1 will be there to help you realize it.</p>
-</div>
-</li>
-<li class="title_label"><a href="/cabinets/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Cabinets">Cabinets</a></li>
-<li><a href="/cabinets/">Cabinets</a>
-<div class="level4">
-<h5 class="prod_title">Cabinets</h5>
-<p class="prod_sub">The Ideal Addition to Any Amp.</p>
-<a href="/cabinets/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Cabinets+pic"><img src="/images/navigation_css/products/cabinets.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">When only a wall of sound will do, Line 6 cabinets are the perfect companions for Line 6 guitar and bass amps including Spider Valve, LowDown, HD 147 and Vetta II HD.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/instruments/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Guitars">Guitars</a>
-<ul class="level3">
-<li class="title_label"><a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Electric+Guitars">Electric</a></li>
-<li><a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+300">Variax 300</a>
-<div class="level4">
-<h5 class="prod_title">Variax 300</h5>
-<p class="prod_sub">Million Dollar Tone Anyone Can Afford.</p>
-<a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+300+pic"><img src="/images/navigation_css/products/variax300.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Custom-crafted, classic style, solid body that reproduces the sounds of classic 6- and 12-string electric and acoustic guitars, plus resonator, banjo, and electric sitar.</p>
-</div>
-</li>
-<li><a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+600">Variax 600</a>
-<div class="level4">
-<h5 class="prod_title">Variax 600</h5>
-<p class="prod_sub">Vintage Vibe and Sound.</p>
-<a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+600+pic"><img src="/images/navigation_css/products/variax600.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Classic look and feel with the sounds of vintage 6- and 12-string electric and acoustic guitars, plus resonator, banjo and electric sitar.</p>
-</div>
-</li>
-<li><a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+700">Variax 700</a>
-<div class="level4">
-<h5 class="prod_title">Variax 700</h5>
-<p class="prod_sub">Custom Crafted Quality and Sound.</p>
-<a href="/variax/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+700+pic"><img src="/images/navigation_css/products/variax700.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Carved top, high quality solid body that reproduces the sounds of classic 6- and 12-string electric and acoustic guitars, plus resonator, banjo, and electric sitar.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/instruments/acousticguitars/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Acoustic+Guitars">Acoustic</a></li>
-<li><a href="/variaxacoustic300/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic+300">Variax Acoustic 300 Steel</a>
-<div class="level4">
-<h5 class="prod_title">Variax Acoustic 300 Steel</h5>
-<p class="prod_sub">Amazing Value and Versatility.</p>
-<a href="/variaxacoustic300/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic+300+pic"><img src="/images/navigation_css/products/variaxacoustic300.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Variax Acoustic 300 Steel and Nylon put an incredible range of sounds in a single, affordable guitar with classic looks and playability.</p>
-</div>
-</li>
-<li><a href="/variaxacoustic300/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic+300+Nylon">Variax Acoustic 300 Nylon</a>
-<div class="level4">
-<h5 class="prod_title">Variax Acoustic 300 Nylon</h5>
-<p class="prod_sub">Amazing Value and Versatility.</p>
-<a href="/variaxacoustic300/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic+300+Nylon+pic"><img src="/images/navigation_css/products/variaxacoustic300.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Variax Acoustic 300 Steel and Nylon put an incredible range of sounds in a single, affordable guitar with classic looks and playability.</p>
-</div>
-</li>
-<li><a href="/variaxacoustic/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic">Variax Acoustic 700</a>
-<div class="level4">
-<h5 class="prod_title">Variax Acoustic 700</h5>
-<p class="prod_sub">World Class Acoustics - One Instrument.</p>
-<a href="/variaxacoustic/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Variax+Acoustic+pic"><img src="/images/navigation_css/products/variaxacoustic700.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">16 models of the finest acoustic instruments on the planet with the push of a button.  You can easily access jumbos, 12-strings, or even a nylon string classical.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/effects/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Stompbox+Pedals">Stompbox Pedals</a>
-<ul class="level3">
-<li class="title_label"><a href="/stompboxmodelers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Stompbox+Modelers">Stompbox Modelers</a></li>
-<li><a href="/stompboxmodelers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=M13">M13 Stompbox Modeler</a>
-<div class="level4">
-<h5 class="prod_title">M13 Stompbox Modeler</h5>
-<p class="prod_sub">The soul of a pedal and the power of a rack.</p>
-<a href="/stompboxmodelers/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=M13+pic"><img src="/images/navigation_css/products/m13.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">A comprehensive collection of classic and modern stompbox distortions, delays, reverbs, mods, filters and a looper all stuffed into one super-heavy-duty stompbox.</p>
-</div>
-</li>
-<li><a href="/jm4looper/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=JM4">JM4 Looper</a>
-<div class="level4">
-<h5 class="prod_title">JM4 Looper</h5>
-<p class="prod_sub">Take your playing to new heights.</p>
-<a href="/jm4looper/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=JM4+pic"><img src="/images/navigation_css/products/jm4.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Spark inspiration with real rhythm-section chemistry, sound-on-sound looping and a full arsenal of legendary Line 6 tones.</p>
-</div>
-</li>
-<li><a href="/stompboxmodelers/dl4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DL4">DL4 Delay</a>
-<div class="level4">
-<h5 class="prod_title">DL4 Delay</h5>
-<p class="prod_sub">Stompbox Delay Modeler.</p>
-<a href="/stompboxmodelers/dl4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DL4+pic"><img src="/images/navigation_css/products/dl4.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">A favorite among musicians everywhere, DL4 is a studio quality, professional effects pedal with 16 models of classic delay sounds.</p>
-</div>
-</li>
-<li><a href="/stompboxmodelers/dm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DM4">DM4 Distortion</a>
-<div class="level4">
-<h5 class="prod_title">DM4 Distortion</h5>
-<p class="prod_sub">Stompbox Distortion Modeler.</p>
-<a href="/stompboxmodelers/dm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DM4+pic"><img src="/images/navigation_css/products/dm4.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Studio quality, professional effects pedal with 16 models of classic and modern distortion and overdrive sounds.</p>
-</div>
-</li>
-<li><a href="/stompboxmodelers/fm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=FM4">FM4 Filter</a>
-<div class="level4">
-<h5 class="prod_title">FM4 Filter</h5>
-<p class="prod_sub">Stompbox Filter Modeler.</p>
-<a href="/stompboxmodelers/fm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=FM4+pic"><img src="/images/navigation_css/products/fm4.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Studio quality, professional effects pedal with 16 models of vintage and monophonic synth effects.</p>
-</div>
-</li>
-<li><a href="/stompboxmodelers/mm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=MM4">MM4 Modulation</a>
-<div class="level4">
-<h5 class="prod_title">MM4 Modulation</h5>
-<p class="prod_sub">Stompbox Modulation Modeler.</p>
-<a href="/stompboxmodelers/mm4.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=MM4+pic"><img src="/images/navigation_css/products/mm4.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Studio quality, professional effects pedal with models of 16 must-have modulation effects.</p>
-</div>
-</li>
-<li class="title_label"><a href="/tonecore/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=ToneCore+Pedals">ToneCore Pedals</a></li>
-<li><a href="/tonecore/echoPark.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Echo+Park">Echo Park</a>
-<div class="level4">
-<h5 class="prod_title">Echo Park</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/echoPark.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Echo+Park+pic"><img src="/images/navigation_css/products/echo.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Based on the award-winning DL4™ Delay Modeler, Echo Park is loaded with stunning Analog, Tape and Digital Delays in variable delay patterns like Slap, Ping Pong, Swell and Sweep.</p>
-</div>
-</li>
-<li><a href="/tonecore/uberMetal.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=UberMetal">Über Metal</a>
-<div class="level4">
-<h5 class="prod_title">Über Metal</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/uberMetal.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=UberMetal+pic"><img src="/images/navigation_css/products/uber.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Über Metal features some of the best Line 6 high-gain tones, including Metal, Pulverize and Insane, hijacked directly from HD147® and Vetta™ II.</p>
-</div>
-</li>
-<li><a href="/tonecore/verbzilla.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Verbzilla">Verbzilla</a>
-<div class="level4">
-<h5 class="prod_title">Verbzilla</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/verbzilla.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Verbzilla+pic"><img src="/images/navigation_css/products/verb.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">This little miracle features 11 must-have reverb models including everything from classic guitar amp-style spring reverb to dreamy, high-end studio favorites.</p>
-</div>
-</li>
-<li><a href="/tonecore/spaceChorus.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=SpaceChorus">Space Chorus</a>
-<div class="level4">
-<h5 class="prod_title">Space Chorus</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/spaceChorus.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=SpaceChorus+pic"><img src="/images/navigation_css/products/space.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Boasting truly orbital tones, Space Chorus features three models based on brilliant vintage and modern analog effects with adjustable Speed, Color and Depth.</p>
-</div>
-</li>
-<li><a href="/tonecore/rotomachine.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RotoMachine">Roto-Machine</a>
-<div class="level4">
-<h5 class="prod_title">Roto-Machine</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/rotomachine.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RotoMachine+pic"><img src="/images/navigation_css/products/roto.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Roto-Machine offers huge, three-dimensional rotating speaker sounds ranging from dreamy clean to swirling overdrive. These signature sounds were available only from the originals�until now!</p>
-</div>
-</li>
-<li><a href="/tonecore/tapTremolo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TapTremolo">Tap Tremolo</a>
-<div class="level4">
-<h5 class="prod_title">Tap Tremolo</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/tapTremolo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TapTremolo+pic"><img src="/images/navigation_css/products/tap.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Tap Tremolo will chop, slice and dice your tone like no other with three perfect pulse-pounding models. </p>
-</div>
-</li>
-<li><a href="/tonecore/ottofilter.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=OttoFilter">Otto Filter</a>
-<div class="level4">
-<h5 class="prod_title">Otto Filter</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/ottofilter.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=OttoFilter+pic"><img src="/images/navigation_css/products/otto.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Otto Filter delivers a cornucopia of auto-wah filter effects providing bouncy and experimental sounds that are truly funky.</p>
-</div>
-</li>
-<li><a href="/tonecore/drdistorto.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DrDistorto">Dr. Distorto</a>
-<div class="level4">
-<h5 class="prod_title">Dr. Distorto</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/drdistorto.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DrDistorto+pic"><img src="/images/navigation_css/products/dr.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Providing singing lead tones and classic, full-bodied distortion, Dr. Distorto has the ability to achieve massive sustain at any distortion level.</p>
-</div>
-</li>
-<li><a href="/tonecore/liquaflange.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=LiquaFlange">Liqua-Flange</a>
-<div class="level4">
-<h5 class="prod_title">Liqua-Flange</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/liquaflange.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=LiquaFlange+pic"><img src="/images/navigation_css/products/liqua.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Giving your guitar wings, Liqua-Flange features both classic and never-before-heard flange sounds responsible for serious sonic swooping.</p>
-</div>
-</li>
-<li><a href="/tonecore/crunchtone.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Crunchtone">Crunchtone</a>
-<div class="level4">
-<h5 class="prod_title">Crunchtone</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/crunchtone.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Crunchtone"><img src="/images/navigation_css/products/crunch.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Based on the Line 6 arsenal of power-tube overdrive models, Crunchtone features warm, full-bodied overdrive in three juicy models ideal for fuzzed-out blues and rock.</p>
-</div>
-</li>
-<li><a href="/tonecore/constrictor.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Constrictor">Constrictor</a>
-<div class="level4">
-<h5 class="prod_title">Constrictor</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tonecore/constrictor.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Constrictor+pic"><img src="/images/navigation_css/products/constrictor.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Based on classic analog compressors from the '60s, '70s and '80s, Constrictor gives your tone a squeeze in three distinct flavors.</p>
-</div>
-</li>
-<li class="title_label"><a href="/tcddk/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TCDDK01">ToneCore Developers Kit</a></li>
-<li><a href="/tcddk/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TCDDK">ToneCore Developers Kit</a>
-<div class="level4">
-<h5 class="prod_title">ToneCore Developers Kit</h5>
-<p class="prod_sub">Stomp Outside the Box.</p>
-<a href="/tcddk/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=TCDDK+pic"><img src="/images/navigation_css/products/tonecore_dkit.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Create your own digital effect pedals using the ToneCore® Developer's Kit.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/addons/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Software01">Software</a>
-<ul class="level3">
-<li class="title_label"><a href="#">Plug-Ins</a></li>
-<li><a href="/podfarm/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=POD+Farm">POD Farm</a>
-<div class="level4">
-<h5 class="prod_title">POD Farm</h5>
-<p class="prod_sub">The Premium Tone Plug-In.</p>
-<a href="/podfarm/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PODFarm+pic"><img src="/images/navigation_css/products/podfarm.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">POD Farm™ and POD Farm™ Platinum provide the stunning amp and effect sounds recording guitarists need to create pro-sounding tracks.</p>
-</div>
-</li>
-<li><a href="/gearbox_plugin/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Gearbox+Plugin+plugins">GearBox Plug-In</a>
-<div class="level4">
-<h5 class="prod_title">GearBox Plug-In</h5>
-<p class="prod_sub">Plug Into Pro Tone.</p>
-<a href="/gearbox_plugin/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=GearboxPlugin+plugins+pic"><img src="/images/navigation_css/products/gearboxplugin.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Instant plug-in access to an incredible selection of vintage and modern gear models!</p>
-</div>
-</li>
-<li><a href="http://www.digidesign.com/products/details.cfm?product_id=1001">Amp Farm</a>
-<div class="level4">
-<h5 class="prod_title">Amp Farm</h5>
-<p class="prod_sub">Amp Modeling for Pro Tools TDM.</p>
-<a href="http://www.digidesign.com/products/details.cfm?product_id=1001"><img src="/images/navigation_css/products/ampfarm.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Amp Farm is the trusted tool of professional producers in nearly every area of audio production.</p>
-</div>
-</li>
-<li><a href="http://www.digidesign.com/products/details.cfm?product_id=1045">Echo Farm</a>
-<div class="level4">
-<h5 class="prod_title">Echo Farm</h5>
-<p class="prod_sub">Vintage Echo for Pro Tools TDM.</p>
-<a href="http://www.digidesign.com/products/details.cfm?product_id=1045"><img src="/images/navigation_css/products/echofarm.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Give your tracks organic life with the warmth, warble and warping of classic echo effects without ever wrestling with cantankerous vintage hardware!</p>
-</div>
-</li>
-<li class="title_label"><a href="/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Utilities02">Utilities</a></li>
-<li><a href="/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Line6+Monkey">Line 6 Monkey</a>
-<div class="level4">
-<h5 class="prod_title">Line 6 Monkey</h5>
-<p class="prod_sub">Monkey See, Monkey Update.</p>
-<a href="/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Line6+Monkey+pic"><img src="/images/navigation_css/products/line6monkey.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Line 6 Monkey is the free utility used to keep your Line 6 gear up to date. Download it now!</p>
-</div>
-</li>
-<!--
-<li><a href="/software/">Line 6 Edit</a>
-<div class="level4">
-<h5 class="prod_title">Line 6 Edit</h5>
-<p class="prod_sub">Even More Goodies for the Guitarist who wants it all.</p>
-<a href="/software/"><img src="/images/navigation_css/products/pocketpod.jpg" class="prod_image" alt="Line 6" border="0" /></a>
-<p class="prod_desc">Tweak your settings, save and catalog all of your toens.</p>
-</div>
-</li>
--->
-<li><a href="/variaxworkbench/">Variax Workbench</a>
-<div class="level4">
-<h5 class="prod_title">Variax Workbench</h5>
-<p class="prod_sub">Your Personal Guitar Custom Shop.</p>
-<a href="/variaxworkbench/"><img src="/images/navigation_css/products/variaxworkbench.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">This interactive software has all the tools needed to easily create, store, and share the guitar you've been dreaming of.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/digitalwireless/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Digital+Wireless">Digital Wireless</a>
-<ul class="level3">
-<li class="title_label"><a href="/digitalwireless/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Digital+Wireless+Instruments">Instruments</a></li>
-<li><a href="/xds95/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDS95">X2™ XDS95</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDS95</h5>
-<p class="prod_sub">Compact and No-nonsense Digital Wireless.</p>
-<a href="/xds95/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDS95+pic"><img src="/images/navigation_css/products/xds95.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Compact and battery-powered digital wireless for guitarists.</p>
-</div>
-</li>
-<li><a href="/xdsplus/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDSPlus">X2™ XDS-Plus</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDS-Plus</h5>
-<p class="prod_sub">Heavy-duty and Compact Digital Wireless.</p>
-<a href="/xdsplus/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDSPlus+pic"><img src="/images/navigation_css/products/xdsplus.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Low profile and heavy-duty digital wireless for guitarists.</p>
-</div>
-</li>
-<li><a href="/xdr95/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR95">X2™ XDR95</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR95</h5>
-<p class="prod_sub">Pro Rackmount Digital Wireless.</p>
-<a href="/xdr95/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR95+pic"><img src="/images/navigation_css/products/xdr95.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Powerful and world-tour-worthy digital wireless for guitarists.</p>
-</div>
-</li>
-<li><a href="/xdr95/xdr957.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR957">X2™ XDR957</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR957</h5>
-<p class="prod_sub">Cardioid Clip-on Instrument Microphone System</p>
-<a href="/xdr95/xdr957.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR957+pic"><img src="/images/navigation_css/products/xdr957.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Powerful, world-tour-worthy digital wireless featuring maximum isolation.</p>
-</div>
-</li>
-<li class="title_label"><a href="/digitalwireless/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Digital+Wireless+Voice">Voice</a></li>
-<li><a href="/xdr95/xdr952.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR952">X2™ XDR952</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR952</h5>
-<p class="prod_sub">Omni Lavalier Microphone System</p>
-<a href="/xdr95/xdr952.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR952+pic"><img src="/images/navigation_css/products/xdr952.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Commanding tone for theatrical performances, houses of worship and more.</p>
-</div>
-</li>
-<li><a href="/xdr95/xdr953.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR953">X2™ XDR953</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR953</h5>
-<p class="prod_sub">Cardioid Head-worn Microphone System</p>
-<a href="/xdr95/xdr953.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR953+pic"><img src="/images/navigation_css/products/xdr953.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Commanding tone with maximum voice isolation and reduced feedback for vocalists and speakers.</p>
-</div>
-</li>
-<li><a href="/xdr95/xdr954.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR954">X2™ XDR954</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR954</h5>
-<p class="prod_sub">Cardioid Lavalier Microphone System</p>
-<a href="/xdr95/xdr954.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR954+pic"><img src="/images/navigation_css/products/xdr954.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Commanding tone with maximum voice isolation and reduced feedback for vocalists and speakers.</p>
-</div>
-</li>
-<li><a href="/xdr95/xdr955.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR955">X2™ XDR955</a>
-<div class="level4">
-<h5 class="prod_title">X2™ XDR955</h5>
-<p class="prod_sub">Hand-held Microphone System</p>
-<a href="/xdr95/xdr955.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=XDR955+pic"><img src="/images/navigation_css/products/xdr955.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Coming soon!</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/propellerhead/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Propellerhead">Propellerhead</a>
-<ul class="level3">
-<li class="title_label"><a href="/products/addons/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Propellerhead+Software">Software</a></li>
-<li><a href="/propellerhead/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Reason4">Reason version 4</a>
-<div class="level4">
-<h5 class="prod_title">Reason version 4</h5>
-<p class="prod_sub">Infinitely Expandable Music Workstation.</p>
-<a href="/propellerhead/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Reason4+pic"><img src="/images/navigation_css/products/reason.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">A studio full of inspiration for Mac and PC.</p>
-</div>
-</li>
-<li><a href="/propellerhead/recycle.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Recycle">Recycle</a>
-<div class="level4">
-<h5 class="prod_title">Recycle</h5>
-<p class="prod_sub">The Ultimate Tool for Sampled Grooves.</p>
-<a href="/propellerhead/recycle.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Recycle+pic"><img src="/images/navigation_css/products/recycle.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Revolutionizing the way you work with sampled loops and grooves.</p>
-</div>
-</li>
-<li class="title_label"><a href="#">ReFills</a></li>
-<li><a href="/propellerhead/drums.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DrumReFill">Drum Kits ReFill</a>
-<div class="level4">
-<h5 class="prod_title">Drum Kits ReFill</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/drums.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=DrumReFill+pic"><img src="/images/navigation_css/products/drumkitsrefill.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Stunningly realistic drum kits to suit your mix.</p>
-</div>
-</li>
-<li><a href="/propellerhead/strings.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=StringsReFill">Strings ReFill</a>
-<div class="level4">
-<h5 class="prod_title">Strings ReFill</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/strings.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=StringsReFill+pic"><img src="/images/navigation_css/products/stringsrefill.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Stunningly realistic strings to suit your mix.</p>
-</div>
-</li>
-<li><a href="/propellerhead/piano.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PianoReFill">Pianos ReFill</a>
-<div class="level4">
-<h5 class="prod_title">Pianos ReFill</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/piano.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PianoReFill+pic"><img src="/images/navigation_css/products/pianosrefill.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Stunningly realistic pianos to suit your mix.</p>
-</div>
-</li>
-<li><a href="/propellerhead/abbeyroad.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Abbey">Abbey Road Keyboards ReFill</a>
-<div class="level4">
-<h5 class="prod_title">Abbey Road Keyboards ReFill</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/abbeyroad.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Abbey+pic"><img src="/images/navigation_css/products/front_abbeyroad.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">The sound of legendary Abbey Road Studios into your Reason rack.</p>
-</div>
-</li>
-<li><a href="/propellerhead/electricbass.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=ElectricBass">Reason Electric Bass ReFill</a>
-<div class="level4">
-<h5 class="prod_title">Reason Electric Bass ReFill</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/electricbass.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=ElectricBass+pic"><img src="/images/navigation_css/products/reasonbass.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Add historic electric basses and classic bass rigs to your Reason rack.</p>
-</div>
-</li>
-<li class="title_label"><a href="/propellerhead/premium.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Bundles">Bundles</a></li>
-<li><a href="/propellerhead/premium.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PremiumBundle">Reason Premium Edition Bundle</a>
-<div class="level4">
-<h5 class="prod_title">Reason Premium Edition Bundle</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/premium.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=PremiumBundle+pic"><img src="/images/navigation_css/products/front_prem.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Award-winning Reason version 4 plus all four hypersampled ReFills, including Reason Drum Kits 2, Reason Pianos, Abbey Road Keyboards and Reason Electric Bass, for the ultimate all-in-one music production environment.</p>
-</div>
-</li><li><a href="/propellerhead/studiocombo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=StudioCombo">Studio Combo Bundle</a>
-<div class="level4">
-<h5 class="prod_title">Studio Combo Bundle</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/studiocombo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=StudioCombo+pic"><img src="/images/navigation_css/products/front_studio.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">All four hypersampled ReFills for Reason version 4, including Reason Drum Kits 2, Reason Pianos, Abbey Road Keyboards and Reason Electric Bass, providing stunning, lifelike sounds for your music.</p>
-</div>
-</li><li><a href="/propellerhead/rhythmcombo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RhythmCombo">Rhythm Combo Bundle</a>
-<div class="level4">
-<h5 class="prod_title">Rhythm Combo Bundle</h5>
-<p class="prod_sub">Absolute Sonic Control.</p>
-<a href="/propellerhead/rhythmcombo.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RhythmCombo+pic"><img src="/images/navigation_css/products/front_rhy.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Reason Drum Kits 2 and Reason Electric Bass ReFills for Reason version 4 provide stunning sounds and killer rhythm sections for any type of music.</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="has_kids"><a href="/products/computerbased/addonscomputer/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=AddOns">Add-Ons</a>
-<ul class="level3">
-<li class="title_label"><a href="/modelpacks/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=AddOns+ExpansionPacks">Expansion Packs</a></li>
-<li><a href="/modelpacks/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=AddOns+Modelpakcs">Model Packs</a>
-<div class="level4">
-<h5 class="prod_title">Model Packs</h5>
-<p class="prod_sub">Expand Your Tone Arsenal.</p>
-<a href="/modelpacks/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=AddOns+Modelpacks+pic"><img src="/images/navigation_css/products/modelpacks.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">These downloadable software packages dramatically expand your PODxt-based product to include every amp and effect found in Vetta II, HD147 and more.</p>
-</div>
-</li>
-<li class="title_label"><a href="http://www.guitarport.com/">Learn &amp; Jam</a></li>
-<li><a href="http://www.guitarport.com/">GuitarPort Online</a>
-<div class="level4">
-<h5 class="prod_title">GuitarPort Online</h5>
-<p class="prod_sub">Play Better. Play With The Best.</p>
-<a href="http://www.guitarport.com/"><img src="/images/navigation_css/products/guitarportonline.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Thousands of guitarists connect to GuitarPort Online to download and play along with the latest and greatest tracks, lessons and licks.</p>
-</div>
-</li>
-<li class="title_label"><a href="/products/addons/software/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Addons+Software">Software</a></li>
-<li><a href="/gearbox/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Software+Gearbox">GearBox</a>
-<div class="level4">
-<h5 class="prod_title">GearBox</h5>
-<p class="prod_sub">The Complete Pro Tone Engine.</p>
-<a href="/gearbox/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Software+Gearbox+pic"><img src="/images/navigation_css/products/gearbox_addon.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">The latest-generation of award winning Line 6 tone has come together in the powerful GearBox software platform.</p>
-</div>
-</li>
-<li><a href="/riffworks/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RiffWorks+Addons">RiffWorks</a>
-<div class="level4">
-<h5 class="prod_title">RiffWorks</h5>
-<p class="prod_sub">Recording Software Add-On.</p>
-<a href="/riffworks/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=RiffWorks+addons+pic"><img src="/images/navigation_css/products/riffworks_addon.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Add Sonoma Wire Works' award-winning RiffWorks recording software to any PODxt, GuitarPort or TonePort.  Start recording those killer riffs now!</p>
-</div>
-</li>
-<li class="title_label"><a href="https://www.globalfulfillment.net/gfsnet/line6/10browse.aspx">Accessories</a></li>
-<li><a href="https://www.globalfulfillment.net/gfsnet/line6/10browse.aspx">Accessories &amp; Upgrades</a>
-<div class="level4">
-<h5 class="prod_title">Accessories &amp; Upgrades</h5>
-<p class="prod_sub">Accessorize and Upgrade!</p>
-<a href="https://www.globalfulfillment.net/gfsnet/line6/10browse.aspx"><img src="/images/navigation_css/products/accessories.jpg" class="prod_image" alt="Line 6" border="0"></a>
-<p class="prod_desc">Hardware upgrades, amp covers, product bags and more!</p>
-</div>
-</li>
-</ul><!-- /level3 -->
-</li>
-<li class="title_label"><a href="/products/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+By+Application">Browse By Application</a></li>
-<li class="humble_link"><a href="/products/bass/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+Bass">Bass</a></li>
-<li class="humble_link"><a href="/products/vocals/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+Vocals">Vocals</a></li>
-<li class="humble_link"><a href="/recording/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+Recording">Recording</a></li>
-<li class="title_label"><a href="/products/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+All">Browse All</a></li>
-<li class="humble_link"><a href="/products/list/index.html?utm_source=Index&amp;utm_medium=DropDown&amp;utm_campaign=Browse+EntireList">Entire Product List</a></li>
-</ul><!-- /level2 -->
+<li id="products" class="parents"><a href="/products/"><span>Products</span></a>
 </li>
 <li id="artists" class="parents"><a href="/artists/"><span>Artists</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/artists/">Artists</a></li>
-<li><a href="/artists/">Featured Artists</a></li>
-<li><a href="/artists/emerging/">Emerging Artists</a></li>
-<li><a href="/artists/list/">All Line 6 Artists</a></li>
-</ul><!-- /level2 -->
 </li>
 <li id="news" class="parents"><a href="/news/"><span>News</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/news/">Top Stories</a></li>
-<li><a href="/news/">More...</a></li>
-<li class="title_label"><a href="/news/">All News</a></li>
-<li><a href="/news/">Latest News</a></li>
-<li><a href="/news/reviews/">Product Review</a></li>
-<li><a href="/news/awards/">Awards</a></li>
-<li><a href="/news/pressReleases/">Press Releases</a></li>
-</ul><!-- /level2 -->
 </li>
 <li id="support" class="parents"><a href="/support/"><span>Support</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/support/">24-7 Support</a></li>
-<li><a href="/support/">Line 6 Support</a></li>
-<li><a href="/support/dealers/physical/">Find a Dealer</a></li>
-<li><a href="/account/registergear/">Register Gear</a></li>
-<li><a href="/support/serviceCenters/">Find a Service Center</a></li>
-<li><a href="/company/contact/">Contact Us</a></li>
-<li><a href="/support/propellerhead/">Propellerhead Support</a></li>
-<li><a href="/support/manuals/">Product Manuals</a></li>
-</ul><!-- /level2 -->
 </li>
-<li id="club" class="parents"><a href="/club/"><span>Club</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/club/">All Access Pass</a></li>
-<li><a href="/customtone/">CustomTone.com</a></li>
-<li><a href="http://www.guitarport.com/">GuitarPort Online</a></li>
-<li><a href="/club/">Contests</a></li>
-<li><a href="/club/events/">Line 6 Events</a></li>
-<li><a href="/support/forumindex.jspa">User Discussions</a></li>
-</ul><!-- /level2 -->
+<li id="club" class="parents"><a href="/community/"><span>Community</span></a>
 </li>
 <li id="store" class="parents"><a href="/store/"><span>Store</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/store/">Online Store</a></li>
-<li><a href="/store/">Purchase Online</a></li>
-<li class="title_label"><a href="/support/dealers/">Find A Dealer</a></li>
-<li><a href="/support/dealers/physical/">US Dealer Finder</a></li>
-<li><a href="/support/dealers/physical/">International Dealer Finder</a></li>
-</ul><!-- /level2 -->
 </li>
 <li id="downloads" class="parents"><a href="/software/"><span>Downloads</span></a>
-<ul class="level2">
-<li class="title_label"><a href="/software/">Software Downloads</a></li>
-<li><a href="/software/">Line 6 Monkey</a></li>
-</ul><!-- /level2 -->
 </li><!-- /downloads -->
 </ul><!-- /level1 -->
 </div>
+    </div>
 </td>
 	</tr>
 </tbody></table>
@@ -1002,7 +202,7 @@
 	<u>Automated Data Capture</u><br>
 	We may automatically track certain information about your use of the Website. Line 6 tracks and logs individual log-in times, IP addresses, connection speeds, and browser types for system administration purposes. This information will be used to prepare statistical data, analyzed to improve troubleshooting techniques and responses, and used to improve the value of the materials and services available through the Website.<br>
 	<br>
-	Cookies are small text files that are stored on the site visitor�s computer and used to gather and keep track of non-personal information related to you. Information collected through cookies is not linked to any personally identifiable information. Cookies help Line 6 review the Website traffic patterns and improve the Website. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the convenience features the Website.<br>
+	Cookies are small text files that are stored on the site visitor's computer and used to gather and keep track of non-personal information related to you. Information collected through cookies is not linked to any personally identifiable information. Cookies help Line 6 review the Website traffic patterns and improve the Website. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the convenience features the Website.<br>
 	<br>
 	<u>Sensitive Information</u><br>
 	We do not request, and we ask that you not provide, "<b>sensitive information,</b>" that is, Personal Information indicating medical or health conditions, racial or ethnic origin, political opinions, religions or philosophical beliefs, trade union membership or information specifying sexual orientation. This information is not relevant to the use of the Website.<br>
@@ -1017,9 +217,11 @@
 	<u>Required Disclosures</u><br>
 	Line 6 may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice.<br>
 	<br>
-	<u>Line 6 Service Partners</u><br>
-	Line 6 provides some of the Services through contractual arrangements with affiliates, service providers, partners and other third parties ("<b>Service Partners</b>"). Line 6 and its Service Partners use your Personal Information to operate their sites and to deliver their services. Line 6�s Service Partners may also use your Personal Information to inform you of other products or services available from those Service Partners. To opt out of receiving future notifications, see our <b>Opt-Out Policy</b> below.<br>
+	<u>Information Sharing and Third Party Service Partners</u><br>
+	Line 6 does not rent, sell or share personal information about you with other people or non-affiliated companies without your consent (see our Opt-Out Policy below) or unless we have a good faith belief that access, use, preservation or disclosure is reasonably necessary to (a) satisfy any law, regulation, legal process or enforceable governmental request, (b) enforce any applicable Terms of Service (including investigation of potential violations thereof), or (c) detect, prevent or otherwise address fraud, security or technical issues.<br>
 	<br>
+	Line 6 provides some of the Website's services through contractual arrangements with affiliates, service providers, partners and other third parties ("<b>Service Partners</b>"). Line 6 and its Service Partners use your Personal Information to operate their sites and to deliver their services. Line 6's Service Partners may also use your Personal Information to inform you of other products or services available from those Service Partners. To opt out of receiving future notifications, see our <b>Opt-Out Policy</b> below.<br><br>
+	If Line 6 becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide reasonable notice before personal information is transferred and becomes subject to a different privacy policy. Such notice may be given by a clear and concise statement on the Website home page that there has been an update to this Privacy Policy.<br><br>
 	<b>OPT-OUT POLICY </b><br>
 	Line 6 allows you to opt out of our use of your Personal Information for purposes other than the purpose for which it was provided. This would include, by way of example, marketing and promotional mailings relating to Line 6 products and services. You may exercise this option at the time your Personal Information is collected by checking the appropriate ["NO THANKS"] box. And, in some cases, we ask you to affirmatively indicate your consent to receive marketing and promotional materials. If you do not affirmatively indicate your consent to do so, we will not send you any additional materials other than those required by our specific agreement with you.<br>
 	<br>
@@ -1037,7 +239,7 @@
 	The Website may include links to other sites. This Privacy Policy applies to the Line 6 Website only. Any information you submit to linked sites will be subject to the privacy policies of those sites, if any. You should review those policies carefully before providing any information to these linked sites.<br>
 	<br>
 	<b>SECURITY</b><br>
-	Line 6 undertakes practical and reasonable steps to protect Personal Information from unauthorized or accidental access, disclosure, misuse or processing, or from alteration, destruction or loss. Personal Information that we collect resides on servers located in Line 6�s premises and is accessible only to personnel who, by virtue of their duties, are required to have access and have been trained in, and tasked with, the observance of the principles embodied in this Privacy Policy.<br>
+	Line 6 undertakes practical and reasonable steps to protect Personal Information from unauthorized or accidental access, disclosure, misuse or processing, or from alteration, destruction or loss. Personal Information that we collect resides on servers located in Line 6's premises and is accessible only to personnel who, by virtue of their duties, are required to have access and have been trained in, and tasked with, the observance of the principles embodied in this Privacy Policy.<br>
 	<br>
 	<ul>
 		<li>We work to protect the security of your information during transmission by using OpenSSL software (see www.openssl.org for more information).
@@ -1056,10 +258,9 @@
 	disclose it to anyone.  Unless you opt out of receiving email notifications from us, as you may do
 	in the manner described herein, we may also notify you by email of changes to this Privacy
 	Policy.<br>
-	<br>
-	<br>
-	COPYRIGHT � 2007 LINE 6, INC.  ALL RIGHTS RESERVED.<br>
-	LAST DATE OF MODIFICATION: February 12, 2007.
+	<br><a href="http://www.etrust.org/cert/875564.html" target="_blank"><img src="http://www.etrust.org/seal/875564_lg.gif" border="0" alt="Click to Verify"></a><br><br>
+	COPYRIGHT © 2009 LINE 6, INC.  ALL RIGHTS RESERVED.<br>
+	LAST DATE OF MODIFICATION: May 29, 2009.
 </td></tr></tbody></table>
 
 
@@ -1086,7 +287,7 @@
 						<table cellpadding="0" cellspacing="0" border="0" valign="middle">
 							<tbody><tr>
 								<td valign="middle">
-									 : <a href="/" class="footer">Home</a>&nbsp; : <a href="/products/" class="footer">Products</a>&nbsp; : <a href="/artists/" class="footer">Artists</a>&nbsp; : <a href="/news/" class="footer">News</a>&nbsp; : <a href="/support/" class="footer">Support</a>&nbsp; : <a href="/club/" class="footer">Club</a>&nbsp; : <a href="/store/" class="footer">Store</a>&nbsp; : <a href="/software/" class="footer">Downloads</a>&nbsp;</td>
+									 : <a href="/" class="footer">Home</a>&nbsp; : <a href="/products/" class="footer">Products</a>&nbsp; : <a href="/artists/" class="footer">Artists</a>&nbsp; : <a href="/news/" class="footer">News</a>&nbsp; : <a href="/support/" class="footer">Support</a>&nbsp; : <a href="/community/" class="footer">Community</a>&nbsp; : <a href="/store/" class="footer">Store</a>&nbsp; : <a href="/software/" class="footer">Downloads</a>&nbsp;</td>
 							</tr>
 							<tr>
 								<td class="footer3">
@@ -1111,15 +312,16 @@
 						<td align="right" class="footer">
 						
 	<font class="copyright">
-		© 2008 Line 6, Inc. All Rights Reserved.</font>
+		© 2009&nbsp;Line 6, Inc. All Rights Reserved.</font>
 
 						</td>
 						<td>
 						<img src="/images/spacer.gif" width="1" height="19"></td>
 				</tr>
 				<tr>
-					<td colspan="4">
-						<img src="/images/spacer.gif" width="1" height="17"></td>
+					<td colspan="4" align="right">
+						<img src="/images/spacer.gif" width="1" height="17">
+                        </td>
 				</tr>
 			</tbody></table>
 		</td>
