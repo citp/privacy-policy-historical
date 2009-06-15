@@ -1,52 +1,119 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912043631id_/http%3A//www.realbuzz.com/en-us/Privacy/index%3FpageID%3D2046) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041320id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - realbuzz.com US
+# Privacy Policy | realbuzz
 
-This policy was last updated on October 29th 2007.
+**This policy was last updated 13th November 2008**
 
-Thank you for visiting realbuzz.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by realbuzz.com.
+Thank you for visiting the realbuzz.com Shop and/or realbuzz.com (either or both being the Website). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by the Website. 
 
-Since the protection of your privacy is of the greatest importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that can be linked to a specific individual, such as a name, address, gender, phone number, email address, or any other information provided to us by realbuzz.com members and email subscribers.
+**Terms of use**
 
-**How we use the information**   
-You do not have to share personal information to use realbuzz.com. realbuzz.com does not collect personal information about people without their permission. The information we gather from subscribers to our email newsletters (including email addresses) is not shared with other organisations or third parties without your permission. realbuzz.com is extremely protective of the information gathered through its online membership and email subscriptions. From time to time we may send out emails on behalf of like-minded organisations, but we do not provide them with access to any personal information that you have provided.
+**Personal information**
 
-**How we protect your information**   
-Our website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. All databases containing personal information are securely stored on a separate system that is not connected to the Internet.  
+As the protection of your privacy is of the greatest importance to us, we have created this Privacy policy to communicate our practices regarding the collection and dissemination of ‘personal information’ that can be linked to a specific individual, such as a name, address, gender, phone number, email address, or any other information provided to us by users who have registered with us (Members) and email subscribers. You do not have to share personal information to use the Website. The Website does not collect personal information about people without their permission. 
 
+**How we collate and use personal information**
 
-**How we collate and use information**   
-We gather email and other user contact information by means of the following methods; signing up to My realbuzz, events and exhibitions and via the online shop. Newsletters are sent out to opt in subscribers only. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our members' and email subscribers site usage patterns and also what types of content and information may help improve your user experience on realbuzz.com. To improve our online services realbuzz.com periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our website and to use such information to improve on our website's ability to serve you better.
+The Website gathers personal information by means of the following methods: signing up to the Website; through events and exhibitions; and through the provision of information to the realbuzz.com shop. Newsletters are sent out only to those subscribers who have given their consent. In order to provide you with improved, relevant content, we compile information about email response and website usage. This information helps us to better understand our Members' and email subscribers’ site usage patterns and also what types of content and information may help improve your user experience on the Website. 
 
-**Collection of Information by Third-Party Sites and Sponsors**   
-We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+To improve our online services the Website periodically performs statistical analyses of aggregate user behaviour and characteristics in order to measure interest in and use of various areas of the website and to use such information to improve on the ability to serve you better. 
 
-**How you receive emails from realbuzz.com**   
-You will only receive email newsletters from realbuzz.com if you have expressly signed up for a newsletter on realbuzz.com or one of our associate sites. You are a subscriber to My realbuzz and have added realbuzz.com newsletters to the membership. You signed up to receive newsletters via one of our competitions or at an event or exhibition. We use "HTML-sensing" to detect whether your email service provider supports HTML-based emails or TEXT only emails. If you have any questions or would like to change the format you currently receive please email the code " _Newsletter Question_ " or " _Change Email Format_ " written in the subject line to [newsletters@realbuzz.com](mailto:newsletters@realbuzz.com "newsletters@realbuzz.com").
+The personal information we gather from subscribers to our email newsletters (including email addresses) is not shared with other organisations or third parties without permission. The Website is extremely protective of the information gathered through its online membership and email subscriptions. From time to time we may send out emails on behalf of like-minded organisations to those subscribers who have given their consent, but we do not provide them with access to any other personal information. We will not sell your name or email address to any third party advertisers without your permission. From time to time we may wish to share your data with other carefully selected organizations for the purposes of contacting you about products and services that we think we may be of interest to you 
 
-**How we track HTML newsletters**   
-We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images). Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of our newsletters, and to provide you with relevant information.
+**How we protect your personal information**
 
-**How to unsubscribe from the mailing list**   
-All realbuzz.com communication, whether via email newsletter subscription, realbuzz Networks and realbuzz forums, provides information on how to unsubscribe quickly and easily. All emails sent out contain a link to unsubscribe or to modify your profile. You may update, subscribe or unsubscribe to any newsletter or email communication at any time.
+The Website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Our web server is located in a locked, secure environment. 
 
-To opt out of receiving communications from realbuzz.com please click the 'unsubscribe' link at the bottom of the email newsletter. This link enables you to either update your email subscription or to unsubscribe from all email subscriptions. Alternatively, send an email with the words " _unsubscribe_ " in the subject line to [newsletters@realbuzz.com](mailto:newsletters@realbuzz.com "newsletters@realbuzz.com").
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorised access, maintain data security, and correctly use the information we collect online. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-We use this information to send you targeted email newsletters on your areas of interest specified on the sign up page. We also provide opportunities to gain free membership to realbuzz.com via realbuzz Networks or the realbuzz Forum and to take part in a number of our online competitions.
+**Security of the Website**
 
-**Privacy in email newsletters**   
-In personal email communications, there has always been, and always should be, an expectation of privacy between the sender and the intended recipients of a message, enabling open communication.
+We use the latest security technology to protect your personal information. When you enter your personal details in the checkout pages of realbuzz.com Shop you are in a secure website. Most browsers display a small padlock symbol on your browser to reassure you this is secure. It is your responsibility and not that of the Website to ensure your browser is up-to-date and has the relevant security patches. Most web browsers will display a message too stating that you are entering into a secure website. If at any time you leave the secure area of the Website, your web browser may remind you that you are leaving a secure part of the Website. You will be asked if you want to cancel this reminder for future occasions. 
 
-**The use of Cookies**   
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+**Payment methods and security**
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience at realbuzz.com (e.g. to recognise you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on realbuzz.com. We also may use cookies to offer you products of potential interest in emails.
+Payment can be made with any of the following major credit/debit cards: MasterCard, Visa, Mastercard Debit, Visa Debit, Maestro and Electron. The Website uses WorldPay [www.worldpay.com ]to process all online orders, thereby ensuring the safety of your details over the Internet. Please refer to World Pay’s Privacy policy on their procedures for ensuring the safety of your details over the internet. 
 
-**Our Commitment to security**   
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+**Collection of personal information by third-party sites and sponsors**
 
-**Privacy notice updates**   
-From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+Where we provide links to third party websites (whether or not they are affiliated with the Website and even if the Website branding appears on these sites), such websites are not controlled by us and are not covered by this Privacy policy. These links are provided for your convenience only. If you access these sites by using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy. Although where possible we endeavour to ensure that the site operators abide by our Privacy policy, we cannot guarantee that they will and you are advised to check the privacy policy of such third parties before providing information to them. 
 
-**How to contact us**   
-If you have any questions or concerns about the realbuzz.com email policy please [contact us](https://web.archive.org/en-gb/Contact_us/index?pageID=9). 
+**The use of cookies**
+
+To enhance your experience of the Website, all of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience of the Website (e.g. to recognise you by name when you return to the Website), save your password in password-protected areas, and enable you to use shopping carts. We also may use cookies to offer you products of potential interest in emails. If you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so. However, this will inhibit the functionality of the Website on your browser. 
+
+**Email and email newsletter communications**
+
+We will not contact you via email for any purpose except in connection with sending you the newsletters and/or emails you have requested, if you are in breach of the Website’s Terms of use, maintaining our subscription and unsubscription lists, communicating with you in the event of a change in the ownership of the Website or its business, or notifying you of our special offers or changes to the Website, business practices, Terms of use or Privacy policy, unless (i) we are required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in the Website’s discretion, to protect the legal rights or the property of the website, a member or third party, or to prevent personal injury; or (iii) you have provided your consent for us to do so. 
+
+**How you receive email newsletters from the Website**
+
+You will only receive email newsletters from the Website in the following circumstances: you have expressly signed up for a newsletter on the Website or one of our associate sites. You are a subscriber to the Website and have added the Website newsletters to the membership. You signed up to receive newsletters via one of our competitions or at an event or exhibition. 
+
+**How we track HTML newsletters**
+
+The Website makes use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images). Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of the Website’s newsletters, and to provide you with relevant information. 
+
+**How to unsubscribe from mailing lists**
+
+All Website communication, whether via email newsletter subscription, and subscriptions to blog and/or forum posts, provides information on how to unsubscribe quickly and easily. All emails sent out contain a link to unsubscribe. You may update, subscribe or unsubscribe to any newsletter or email communication at any time. 
+
+To opt out of receiving communications from the Website please click the 'unsubscribe' link at the bottom of the email newsletter. This link enables you to either update your email subscription or to unsubscribe from all email subscriptions. 
+
+**Third-party advertisers**
+
+The Website allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They may also use other technologies (such as cookies) to measure the effectiveness of their advertisements and to personalise the advertising content you see. 
+
+The Website does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific programme or feature for which you will have the ability to opt in or opt out. However, please note that if an advertiser asks the Website to show an advertisement to a certain audience (for example, men aged 18-34) or audience segment (for example, men aged 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
+
+**Legal requirements**
+
+Notwithstanding anything to the contrary, the Website may release your personal information to third parties: (a) in order to comply with any applicable law, regulation, search warrant or court order; or (b) in special cases, when we believe it is necessary to share information in order to investigate, prevent or take action regarding any illegal or unauthorised activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the Website’s Terms of use. 
+
+**Protecting yourself**
+
+The Website has Forums, Blogs, Calendar, Map Your Passion and Photos & Videos etc. ("Public Areas") where users can post personal content. When you disclose personal information in Public Areas, that information can be collected and used by others in various ways, including by sending unsolicited messages. You are solely responsible for any postings you make in Public Areas on the Website, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+
+You can help to protect your information by safeguarding your Website password, using caution and discretion when posting information on public areas of the Website. In addition, it is important that you keep us updated with your most current contact information. To review and make changes to your profile, please visit the applicable Website registration page. 
+
+**Updating your personal information**
+
+It is important that you keep us updated with your most current contact information. When registering and creating your Website account, you must provide accurate and complete information and ensure that this information is kept accurate and up-to-date at all times. 
+
+**Personal order information**
+
+The Order history option allows you to view all orders you have placed with the Website, including with their price and status. 
+
+**Personal information that is publicly available**
+
+Any personal information or content that you voluntarily disclose online in the Website’s Public Areas becomes publicly available and can be collected and used by others. 
+
+Your username is displayed to other users when you upload content to or send messages through the Website and other Website Members can contact you through messages and comments. Therefore, it’s advised that you do not use your email address as your username if you do not wish it to become public. 
+
+When you create an account on the Website, some information regarding your account and your account activity will be provided to other users of the Website. This may include the date you opened your account, the date you last logged in to your account, your age (if you choose to make it public) and your location. 
+
+You can also choose to add personal information that will be visible to other users on your profile page (the public facing page for your account on the site). This may include a profile picture, your name, gender or other details. 
+
+If you choose to add certain features to your profile page, these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your confirmed friends or other users. Such shared activity may include the Website’s content you add as favourites. 
+
+**Your choices**
+
+You can control the information that is available to other users of the Website and your confirmed friends and group members at any time, by editing your account and the features included on your profile page. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. 
+
+**Third party personal information**
+
+You must not disclose personally identifiable information relating to any third party on the Website unless you have their express consent to do so. 
+
+**Access to your personal information**
+
+Your personally identifiable information will be held and used by us in accordance with this Privacy policy and UK data protection legislation. You have a right to access the personally identifiable information that is held about you. To obtain a copy of the personally identifiable information the Website holds about you please contact us. Please note if you do request a copy of the personally identifiable information the Website holds about you, this will incur an administration fee of £10. 
+
+**Privacy notice updates**
+
+We may update this policy at any time at our sole discretion. The Website will attempt to notify you of any changes by contacting you through any email address you have provided, or by placing a notice on the Website indicating the new revision date. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+
+**How to contact us**
+
+If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/contact-us/). 
