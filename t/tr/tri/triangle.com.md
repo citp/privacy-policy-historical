@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015237id_/http%3A//www.triangle.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615181913id_/http%3A//www.triangle.com/about/privacy) for the most accurate reproduction.*
 
 # triangle.com | Privacy policy
 
