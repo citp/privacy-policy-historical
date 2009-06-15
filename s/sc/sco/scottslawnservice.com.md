@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottslawnservice.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044152id_/http%3A//www.scottslawnservice.com/index.cfm/event/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottslawnservice.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615175150id_/http%3A//scottslawnservice.com/index.cfm/event/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - ScottsLawnService.com
 
