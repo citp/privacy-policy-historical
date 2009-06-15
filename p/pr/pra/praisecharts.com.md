@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praisecharts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012637id_/http%3A//www.praisecharts.com/index.php%3Fmodule%3Dusers%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praisecharts.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615040816id_/http%3A//www.praisecharts.com/index.php%3Fmodule%3Dusers%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - PraiseCharts Christian Sheet Music
 
