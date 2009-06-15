@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexisone.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063050id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexisone.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615190317id_/http%3A//www.lexisnexis.com/terms/security) for the most accurate reproduction.*
 
 # LexisNexis
 
@@ -73,4 +73,4 @@ Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or c
 
 [Requesting Opt-Out](https://web.archive.org/privacy/for-consumers/opt-out-of-lexisnexis.aspx)   
 [Obtain Copies of Information about Yourself](https://web.archive.org/privacy/for-consumers/request-personal-information.aspx)   
-[Read Our Data Privacy Policy](https://web.archive.org/privacy/data-privacy-policy.aspx)
+[Read Our Data Privacy Principles](https://web.archive.org/privacy/data-privacy-principles.aspx "Read Our Data Privacy Principles")
