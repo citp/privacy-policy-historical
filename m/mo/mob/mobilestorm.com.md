@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041901id_/http%3A//www.mobilestorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164724id_/http%3A//www.mobilestorm.com/privacy-policy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy
 
@@ -67,6 +67,8 @@ mobileStorm uses "cookies" and "web beacons" to collect data. A cookie is a smal
 
 You may opt out of receiving future mailings; see the Updating and Choice/Opt-out section below. When you receive an updated profile form, that information comes from our database.
 
+We don't share your personal information with third parties for promotional purposes without your explicit permission. When you select to receive promotions from us provided in partnership with a third party affiliate, we shall request and share your name and physical address to facilitate the requested service. This affiliate is authorized only to use your information for the explicit purpose for which it is provided. To unsubscribe, please contact the third party affiliate directly with your preferences.
+
 ### Security and Privacy
 
 mobileStorms’ web site uses security measures to help protect against the loss, misuse, and alteration of the information under our control. We store the information in two redundant databases in two secure environments at different locations with our data hosting service provider, Savvis Communications.
@@ -110,8 +112,6 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions about this privacy statement or this web site, please contact us directly:
 
-**Steve Chipman**  
-COO  
 [privacy@mobilestorm.com](mailto:privacy@mobilestorm.com)  
 mobileStorm, Inc.  
 6565 Sunset Blvd. Ste. 200  
