@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065152id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615171708id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
