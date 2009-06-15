@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070846id_/http%3A//www.rugbyworldcup.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615171743id_/http%3A//www.rugbyworldcup.com/privacypolicy.html) for the most accurate reproduction.*
 
 # rugbyworldcup.com – the official site for IRB Rugby World Cup 2011 in New Zealand
 
